@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+data/corpus/
+data/books/*.json
+!data/books/manifest.json

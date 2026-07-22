@@ -1,0 +1,254 @@
+{
+ "kjv": {
+  "title": "The Holy Bible (KJV)",
+  "author": "—",
+  "format": "gutenberg-txt",
+  "sha256": "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0",
+  "units": 30682,
+  "scheme": {
+   "citation": "Book chapter:verse (OSIS ids)",
+   "resolution": "verse",
+   "honesty": "exact"
+  }
+ },
+ "aeneid-williams": {
+  "title": "Aeneid",
+  "author": "P. Vergilius Maro",
+  "format": "tei",
+  "sha256": "fb2a45ba3aae3d88e61e217429c5418bc822d6c8beff11bd0fdc6b2636d83ee8",
+  "units": 327,
+  "scheme": {
+   "citation": "Aen. book.line",
+   "resolution": "cards",
+   "honesty": "cards anchored to original-language line numbers; prose translation, so refs are line-block anchors, not exact lines"
+  }
+ },
+ "iliad-butler": {
+  "title": "The Iliad",
+  "author": "Homer",
+  "format": "tei",
+  "sha256": "835486a9c9e6164ee1fd145162268ca2af9807a04eeb459c2f2b8e2361c10cc4",
+  "units": 190,
+  "scheme": {
+   "citation": "Il. book.line",
+   "resolution": "cards",
+   "honesty": "cards anchored to original-language line numbers; prose translation, so refs are line-block anchors, not exact lines"
+  }
+ },
+ "odyssey-eng4": {
+  "title": "The Odyssey",
+  "author": "Homer",
+  "format": "tei",
+  "sha256": "4404a35bd6fc679db69dc7f6b4d5414bd576821b12615ff0d9bf3f3a19d5834d",
+  "units": 267,
+  "scheme": {
+   "citation": "Od. book.line",
+   "resolution": "cards",
+   "honesty": "cards anchored to original-language line numbers; prose translation, so refs are line-block anchors, not exact lines"
+  }
+ },
+ "bunyan-holy_war": {
+  "title": "The Holy War",
+  "author": "John Bunyan",
+  "format": "thml",
+  "sha256": "0e85699e7ba7d78073c5321533f19e0dd287a14375d3481cc4dbd5d936f8007a",
+  "units": 1112,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "bunyan-pilgrim": {
+  "title": "The Pilgrim's Progress",
+  "author": "John Bunyan",
+  "format": "thml",
+  "sha256": "1ebdfd4db68990f3cb26cb81305f0a32f2eb9ec0faedf33e2ee54414f9414353",
+  "units": 1633,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "edwards-affections": {
+  "title": "Religious Affections",
+  "author": "Jonathan Edwards",
+  "format": "thml",
+  "sha256": "2ffd4300ada5d0cc5b3929ed5b61ed0e1053042a065419ee35943facc79738ce",
+  "units": 694,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "edwards-works1": {
+  "title": "The Works of Jonathan Edwards, Volume One",
+  "author": "Jonathan Edwards",
+  "format": "thml",
+  "sha256": "d39d31233027c469e6d96b11f0642bed5732fddca3fd40358a0f0806c47d0303",
+  "units": 7123,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "flavel-fountain": {
+  "title": "The Fountain of Life Opened Up",
+  "author": "John Flavel",
+  "format": "thml",
+  "sha256": "111721671b393a9652c1c45df97a51d13b515ba8e899aa9faa0178adaf8c4da1",
+  "units": 2224,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "owen-communion": {
+  "title": "Of Communion with God the Father, Son and Holy Ghost",
+  "author": "John Owen",
+  "format": "thml",
+  "sha256": "108a3b22374c03e1c382c65921e8135693e8197561f0db5ee91e0481fbdf27ec",
+  "units": 1289,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "owen-glory": {
+  "title": "Meditations and Discourses on the Glory of Christ",
+  "author": "John Owen",
+  "format": "thml",
+  "sha256": "176f4e2d04fecc699129ff91cc886eba69761b05719a6ac740ceeb78243b2a11",
+  "units": 749,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "owen-mort": {
+  "title": "Of the Mortification of Sin in Believers",
+  "author": "John Owen",
+  "format": "thml",
+  "sha256": "e3577b8e81583250a41df8b0bd6504dc37209a60944cbd5e20ec2ae82779c211",
+  "units": 324,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "owen-temptation": {
+  "title": "Of Temptation",
+  "author": "John Owen",
+  "format": "thml",
+  "sha256": "6b5231f59965fe7b7d75db2f59919fd5e9aff429d48e65cabb528f393c14a0ab",
+  "units": 256,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "paradise_lost": {
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "format": "gutenberg-txt",
+  "sha256": "67321f478e04486493f1df3f95c285c9d9b7e42ec984f6b74a27ab02770e2ca6",
+  "units": 886,
+  "scheme": {
+   "citation": "PL division.line",
+   "resolution": "line-block",
+   "honesty": "division exact; line = running line within division (translation lineation), 12-line blocks"
+  }
+ },
+ "paradise_regained": {
+  "title": "Paradise Regained",
+  "author": "John Milton",
+  "format": "gutenberg-txt",
+  "sha256": "27b677e84e3a17129c5995c4d51e6a7bda0a3b65e4c1d18f058b9ab5bb3ccee1",
+  "units": 174,
+  "scheme": {
+   "citation": "PR division.line",
+   "resolution": "line-block",
+   "honesty": "division exact; line = running line within division (translation lineation), 12-line blocks"
+  }
+ },
+ "divine_comedy": {
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri (tr. Cary)",
+  "format": "gutenberg-txt",
+  "sha256": "3a7dd97b5fec82456c58237b33383a593480c2bfe088aeaaa4a519de2a10d39c",
+  "units": 1207,
+  "scheme": {
+   "citation": "DC division.line",
+   "resolution": "line-block",
+   "honesty": "division exact; line = running line within division (translation lineation), 12-line blocks"
+  }
+ },
+ "beowulf": {
+  "title": "Beowulf",
+  "author": "tr. Francis B. Gummere",
+  "format": "gutenberg-txt",
+  "sha256": "8909085dc48daf123d29c40ecbb3837b16ba7f96bf0cbb9fe72de133a2d35348",
+  "units": 399,
+  "scheme": {
+   "citation": "Beo division.line",
+   "resolution": "line-block",
+   "honesty": "division exact; line = running line within division (translation lineation), 12-line blocks"
+  }
+ },
+ "faust": {
+  "title": "Faust, Part I",
+  "author": "Goethe (tr. Bayard Taylor)",
+  "format": "gutenberg-txt",
+  "sha256": "7ad6f7ba26b9a42d3873b061c6a1201023e534c724371cedfee8062c8222d9b1",
+  "units": 536,
+  "scheme": {
+   "citation": "Faust division.line",
+   "resolution": "line-block",
+   "honesty": "division exact; line = running line within division (translation lineation), 12-line blocks"
+  }
+ },
+ "gilgamesh": {
+  "title": "The Gilgamesh Epic (Old Babylonian)",
+  "author": "tr. Morris Jastrow & A. Clay",
+  "format": "gutenberg-txt",
+  "sha256": "5c031b38575310168898753578b03ed23fe51f6ddac3b7437aea441959505a8f",
+  "units": 650,
+  "scheme": {
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "treasure_island": {
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "format": "gutenberg-txt",
+  "sha256": "20cfdba153743bca26a15028ebb470121cbb7173ddafd435de5c19a79e4bbf30",
+  "units": 1424,
+  "scheme": {
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "shakespeare": {
+  "title": "The Complete Works of William Shakespeare",
+  "author": "William Shakespeare",
+  "format": "gutenberg-txt",
+  "sha256": "3cf4b3d44ee14cff4e14e78e2ad3318eff76f3f7f2afc3cee6bb925879110a37",
+  "units": 38434,
+  "scheme": {
+   "citation": "Play, Act Scene (speech-block)",
+   "resolution": "speech-block",
+   "honesty": "play/act/scene detected from headings; block = speech or paragraph within scene, not through-numbered line"
+  }
+ }
+}
