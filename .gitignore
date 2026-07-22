@@ -5,3 +5,4 @@ Thumbs.db
 data/corpus/
 data/books/*.json
 !data/books/manifest.json
+data/markdown/
