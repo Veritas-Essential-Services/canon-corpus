@@ -1,0 +1,682 @@
+{
+ "marcus-meditations": {
+  "gutenberg_id": 2680,
+  "title": "Meditations",
+  "author": "Marcus Aurelius (tr. George Long)",
+  "kind": "prose",
+  "adler_volume": 11,
+  "chapre": "^(THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH|TENTH|ELEVENTH|TWELFTH) BOOK|BOOK\\s)",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "epictetus-discourses": {
+  "gutenberg_id": 45109,
+  "title": "The Discourses",
+  "author": "Epictetus (tr. P.E. Matheson)",
+  "kind": "prose",
+  "adler_volume": 11,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "plutarch-lives": {
+  "gutenberg_id": 674,
+  "title": "Plutarch's Lives",
+  "author": "Plutarch (tr. Dryden/Clough)",
+  "kind": "prose",
+  "adler_volume": 13,
+  "chapre": "^[A-Z][A-Z ]{3,40}$",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "tacitus-annals": {
+  "gutenberg_id": 7959,
+  "title": "The Annals",
+  "author": "Tacitus (tr. Church & Brodribb)",
+  "kind": "prose",
+  "adler_volume": 14,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "herodotus-history": {
+  "gutenberg_id": 2707,
+  "title": "The History of Herodotus",
+  "author": "Herodotus (tr. Macaulay)",
+  "kind": "prose",
+  "adler_volume": 5,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "thucydides-pelo": {
+  "gutenberg_id": 7142,
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides (tr. Jowett)",
+  "kind": "prose",
+  "adler_volume": 5,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "lucretius-nature": {
+  "gutenberg_id": 785,
+  "title": "On the Nature of Things",
+  "author": "Lucretius (tr. Munro)",
+  "kind": "prose",
+  "adler_volume": 11,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "virgil-eclogues": {
+  "gutenberg_id": 228,
+  "title": "Eclogues, Georgics, Aeneid",
+  "author": "Virgil (tr. Dryden)",
+  "kind": "verse",
+  "adler_volume": 12,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "plato-republic": {
+  "gutenberg_id": 1497,
+  "title": "The Republic",
+  "author": "Plato (tr. Jowett)",
+  "kind": "dialogue",
+  "adler_volume": 6,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "plato-dialogues": {
+  "gutenberg_id": 1656,
+  "title": "Apology, Crito, Phaedo",
+  "author": "Plato (tr. Jowett)",
+  "kind": "dialogue",
+  "adler_volume": 6,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "aristotle-ethics": {
+  "gutenberg_id": 8438,
+  "title": "The Nicomachean Ethics",
+  "author": "Aristotle (tr. Chase)",
+  "kind": "treatise",
+  "adler_volume": 7,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "aristotle-politics": {
+  "gutenberg_id": 6762,
+  "title": "Politics",
+  "author": "Aristotle (tr. Jowett)",
+  "kind": "treatise",
+  "adler_volume": 7,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "augustine-confessions": {
+  "gutenberg_id": 3296,
+  "title": "The Confessions",
+  "author": "Augustine (tr. Pusey)",
+  "kind": "prose",
+  "adler_volume": 16,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "augustine-cityofgod": {
+  "gutenberg_id": 45304,
+  "title": "The City of God",
+  "author": "Augustine (tr. Dods)",
+  "kind": "prose",
+  "adler_volume": 16,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "aquinas-summa": {
+  "gutenberg_id": 17611,
+  "title": "Summa Theologica (Part I)",
+  "author": "Thomas Aquinas",
+  "kind": "treatise",
+  "adler_volume": 17,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "chaucer-canterbury": {
+  "gutenberg_id": 2383,
+  "title": "The Canterbury Tales",
+  "author": "Geoffrey Chaucer",
+  "kind": "verse",
+  "adler_volume": 19,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "chaucer-troilus": {
+  "gutenberg_id": 257,
+  "title": "Troilus and Criseyde",
+  "author": "Geoffrey Chaucer",
+  "kind": "verse",
+  "adler_volume": 19,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "machiavelli-prince": {
+  "gutenberg_id": 1232,
+  "title": "The Prince",
+  "author": "Machiavelli (tr. Marriott)",
+  "kind": "prose",
+  "adler_volume": 21,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "hobbes-leviathan": {
+  "gutenberg_id": 3207,
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "kind": "prose",
+  "adler_volume": 21,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "rabelais-gargantua": {
+  "gutenberg_id": 1200,
+  "title": "Gargantua and Pantagruel",
+  "author": "Rabelais (tr. Urquhart)",
+  "kind": "prose",
+  "adler_volume": 22,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "montaigne-essays": {
+  "gutenberg_id": 3600,
+  "title": "Essays",
+  "author": "Montaigne (tr. Cotton/Hazlitt)",
+  "kind": "prose",
+  "adler_volume": 23,
+  "chapre": "^(CHAPTER|BOOK)\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "cervantes-quixote": {
+  "gutenberg_id": 996,
+  "title": "Don Quixote",
+  "author": "Cervantes (tr. Ormsby)",
+  "kind": "prose",
+  "adler_volume": 27,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "bacon-novum": {
+  "gutenberg_id": 45988,
+  "title": "Novum Organum",
+  "author": "Francis Bacon",
+  "kind": "treatise",
+  "adler_volume": 28,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "bacon-advancement": {
+  "gutenberg_id": 5500,
+  "title": "The Advancement of Learning",
+  "author": "Francis Bacon",
+  "kind": "treatise",
+  "adler_volume": 28,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "descartes-method": {
+  "gutenberg_id": 59,
+  "title": "Discourse on Method",
+  "author": "Rene Descartes",
+  "kind": "treatise",
+  "adler_volume": 28,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "descartes-meditations": {
+  "gutenberg_id": 23306,
+  "title": "Meditations on First Philosophy",
+  "author": "Rene Descartes",
+  "kind": "treatise",
+  "adler_volume": 28,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "spinoza-ethics": {
+  "gutenberg_id": 3800,
+  "title": "The Ethics",
+  "author": "Spinoza (tr. Elwes)",
+  "kind": "treatise",
+  "adler_volume": 28,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "pascal-pensees": {
+  "gutenberg_id": 18269,
+  "title": "Pensees",
+  "author": "Blaise Pascal (tr. Trotter)",
+  "kind": "prose",
+  "adler_volume": 30,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "newton-principia": {
+  "gutenberg_id": 28233,
+  "title": "The Mathematical Principles of Natural Philosophy",
+  "author": "Isaac Newton (tr. Motte)",
+  "kind": "math",
+  "adler_volume": 32,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "locke-understanding": {
+  "gutenberg_id": 10615,
+  "title": "An Essay Concerning Human Understanding",
+  "author": "John Locke",
+  "kind": "treatise",
+  "adler_volume": 33,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "locke-government": {
+  "gutenberg_id": 7370,
+  "title": "Second Treatise of Government",
+  "author": "John Locke",
+  "kind": "treatise",
+  "adler_volume": 33,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "berkeley-principles": {
+  "gutenberg_id": 4723,
+  "title": "Principles of Human Knowledge",
+  "author": "George Berkeley",
+  "kind": "treatise",
+  "adler_volume": 33,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "hume-enquiry": {
+  "gutenberg_id": 9662,
+  "title": "An Enquiry Concerning Human Understanding",
+  "author": "David Hume",
+  "kind": "treatise",
+  "adler_volume": 33,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "swift-gulliver": {
+  "gutenberg_id": 829,
+  "title": "Gulliver's Travels",
+  "author": "Jonathan Swift",
+  "kind": "prose",
+  "adler_volume": 34,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "voltaire-candide": {
+  "gutenberg_id": 19942,
+  "title": "Candide",
+  "author": "Voltaire",
+  "kind": "prose",
+  "adler_volume": 34,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "montesquieu-laws": {
+  "gutenberg_id": 27573,
+  "title": "The Spirit of Laws",
+  "author": "Montesquieu (tr. Nugent)",
+  "kind": "treatise",
+  "adler_volume": 35,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "rousseau-contract": {
+  "gutenberg_id": 46333,
+  "title": "The Social Contract",
+  "author": "Rousseau (tr. Tozer)",
+  "kind": "treatise",
+  "adler_volume": 35,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "smith-wealth": {
+  "gutenberg_id": 3300,
+  "title": "The Wealth of Nations",
+  "author": "Adam Smith",
+  "kind": "treatise",
+  "adler_volume": 36,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "gibbon-decline1": {
+  "gutenberg_id": 731,
+  "title": "Decline and Fall of the Roman Empire, Vol. 1",
+  "author": "Edward Gibbon",
+  "kind": "prose",
+  "adler_volume": 37,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "kant-pure-reason": {
+  "gutenberg_id": 4280,
+  "title": "The Critique of Pure Reason",
+  "author": "Immanuel Kant (tr. Meiklejohn)",
+  "kind": "treatise",
+  "adler_volume": 39,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "kant-practical": {
+  "gutenberg_id": 5683,
+  "title": "The Critique of Practical Reason",
+  "author": "Immanuel Kant (tr. Abbott)",
+  "kind": "treatise",
+  "adler_volume": 39,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "federalist": {
+  "gutenberg_id": 18,
+  "title": "The Federalist Papers",
+  "author": "Hamilton, Madison, Jay",
+  "kind": "prose",
+  "adler_volume": 40,
+  "chapre": "^(FEDERALIST|No\\.\\s*\\d+)",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "mill-liberty": {
+  "gutenberg_id": 34901,
+  "title": "On Liberty",
+  "author": "John Stuart Mill",
+  "kind": "treatise",
+  "adler_volume": 40,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "mill-utilitarianism": {
+  "gutenberg_id": 11224,
+  "title": "Utilitarianism",
+  "author": "John Stuart Mill",
+  "kind": "treatise",
+  "adler_volume": 40,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "boswell-johnson": {
+  "gutenberg_id": 1564,
+  "title": "The Life of Samuel Johnson",
+  "author": "James Boswell",
+  "kind": "prose",
+  "adler_volume": 41,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "balzac-cousinbette": {
+  "gutenberg_id": 1749,
+  "title": "Cousin Bette",
+  "author": "Honore de Balzac",
+  "kind": "prose",
+  "adler_volume": 45,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "austen-emma": {
+  "gutenberg_id": 158,
+  "title": "Emma",
+  "author": "Jane Austen",
+  "kind": "prose",
+  "adler_volume": 46,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "eliot-middlemarch": {
+  "gutenberg_id": 145,
+  "title": "Middlemarch",
+  "author": "George Eliot",
+  "kind": "prose",
+  "adler_volume": 46,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "dickens-littledorrit": {
+  "gutenberg_id": 963,
+  "title": "Little Dorrit",
+  "author": "Charles Dickens",
+  "kind": "prose",
+  "adler_volume": 47,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "melville-mobydick": {
+  "gutenberg_id": 2701,
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "kind": "prose",
+  "adler_volume": 48,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "twain-huckfinn": {
+  "gutenberg_id": 76,
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "kind": "prose",
+  "adler_volume": 48,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "darwin-origin": {
+  "gutenberg_id": 1228,
+  "title": "On the Origin of Species",
+  "author": "Charles Darwin",
+  "kind": "treatise",
+  "adler_volume": 49,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "darwin-descent": {
+  "gutenberg_id": 2300,
+  "title": "The Descent of Man",
+  "author": "Charles Darwin",
+  "kind": "treatise",
+  "adler_volume": 49,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "marx-manifesto": {
+  "gutenberg_id": 61,
+  "title": "The Communist Manifesto",
+  "author": "Marx & Engels",
+  "kind": "prose",
+  "adler_volume": 50,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "marx-capital": {
+  "gutenberg_id": 46423,
+  "title": "Capital, Vol. 1",
+  "author": "Karl Marx",
+  "kind": "treatise",
+  "adler_volume": 50,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "tolstoy-warpeace": {
+  "gutenberg_id": 2600,
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "kind": "prose",
+  "adler_volume": 51,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "dostoevsky-karamazov": {
+  "gutenberg_id": 28054,
+  "title": "The Brothers Karamazov",
+  "author": "Dostoevsky (tr. Garnett)",
+  "kind": "prose",
+  "adler_volume": 52,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "ibsen-dollshouse": {
+  "gutenberg_id": 2542,
+  "title": "A Doll's House",
+  "author": "Henrik Ibsen",
+  "kind": "drama",
+  "adler_volume": 52,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "james-psychology": {
+  "gutenberg_id": 57628,
+  "title": "The Principles of Psychology, Vol. 1",
+  "author": "William James",
+  "kind": "treatise",
+  "adler_volume": 53,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "conrad-heart": {
+  "gutenberg_id": 219,
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "kind": "prose",
+  "adler_volume": 59,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "joyce-portrait": {
+  "gutenberg_id": 4217,
+  "title": "A Portrait of the Artist as a Young Man",
+  "author": "James Joyce",
+  "kind": "prose",
+  "adler_volume": 59,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "kafka-metamorphosis": {
+  "gutenberg_id": 5200,
+  "title": "The Metamorphosis",
+  "author": "Franz Kafka",
+  "kind": "prose",
+  "adler_volume": 60,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "chekhov-vanya": {
+  "gutenberg_id": 1756,
+  "title": "Uncle Vanya",
+  "author": "Anton Chekhov",
+  "kind": "drama",
+  "adler_volume": 59,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "shaw-saintjoan": {
+  "gutenberg_id": 3612,
+  "title": "Saint Joan",
+  "author": "George Bernard Shaw",
+  "kind": "drama",
+  "adler_volume": 59,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ },
+ "einstein-relativity": {
+  "gutenberg_id": 30155,
+  "title": "Relativity: The Special and General Theory",
+  "author": "Albert Einstein",
+  "kind": "treatise",
+  "adler_volume": 56,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "veblen-leisure": {
+  "gutenberg_id": 833,
+  "title": "The Theory of the Leisure Class",
+  "author": "Thorstein Veblen",
+  "kind": "treatise",
+  "adler_volume": 57,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "frazer-goldenbough": {
+  "gutenberg_id": 3623,
+  "title": "The Golden Bough",
+  "author": "James George Frazer",
+  "kind": "prose",
+  "adler_volume": 58,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "moliere-plays": {
+  "gutenberg_id": 2027,
+  "title": "Tartuffe; or, The Hypocrite",
+  "author": "Moliere (tr. Page)",
+  "kind": "drama",
+  "adler_volume": 31,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": true
+ }
+}
