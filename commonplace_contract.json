@@ -1,0 +1,97 @@
+{
+  "$id": "https://thewordhoard.com/contracts/commonplace/1.0.0",
+  "title": "The commonplace contract (the ABI)",
+  "version": "1.0.0",
+  "frozen": "2026-07-21",
+  "written_down": "2026-07-26",
+  "summary": "The single shape every room uses to keep a passage. Frozen in 'The Canon OS — whole-ecosystem architecture (2026-07-21)' §Refactors 1; transcribed here from the behaviour of armarium/pipeline/syntopicon.py so consumers can validate against an artifact instead of a paragraph.",
+
+  "consumers": [
+    "armarium/pipeline/syntopicon.py (parse_commonplace + resolve) — the reference implementation",
+    "The Florilegium (florilegium.thewordhoard.com) — web capture surface",
+    "Mnemonicon 'keep this' shelf (Adversaria) — planned",
+    "Armarium select-to-keep — planned",
+    "Memoria compiler — planned"
+  ],
+
+  "filing": {
+    "vault_folders": ["Syntopicon/Ideas", "Syntopicon/Commonplace", "Syntopicon/Register"],
+    "note": "The importer globs ONLY these three folders under the vault's Syntopicon directory. A commonplace note filed anywhere else is invisible to the engine."
+  },
+
+  "authored_fields": {
+    "quote": {
+      "type": "string",
+      "required": true,
+      "description": "The passage itself, verbatim."
+    },
+    "note": {
+      "type": "string",
+      "required": false,
+      "tier": 1,
+      "description": "Why it struck you. PRIVATE — the export withholds this; it never leaves the machine."
+    },
+    "source": {
+      "type": "string",
+      "required": true,
+      "description": "The citation as free text — NOT a category word. The resolver concatenates source + loc and pattern-matches the result, so this field must carry the real reference.",
+      "good_examples": ["Iliad", "GBWW vol 4", "kjv:John.1.1", "iliad-butler:9.412"],
+      "bad_examples": ["canonical", "unit", "EXT"],
+      "why_bad": "Category words carry no information the resolver can match; such an entry falls through to 'external' and never links to a live unit. This is exactly the drift the Florilegium shipped with on 2026-07-25 and corrected on 2026-07-26.",
+      "taxonomy_note": "The Canon OS note's '(GBWW | EXT key | canonical | unit id)' describes the four KINDS of address you might write here. It is a taxonomy, not an enum of allowed strings."
+    },
+    "loc": {
+      "type": "string",
+      "required": false,
+      "description": "The address within whatever scheme `source` names.",
+      "examples": ["Bk I, ll. 254-255", "9.412", "p. 88"]
+    },
+    "ideas": {
+      "type": "array",
+      "items": "integer",
+      "required": true,
+      "description": "Great-idea NUMBERS, keyed to syn_topics.number. The importer runs re.findall(r'\\d+', ideas) — digits only.",
+      "examples": [[103], [103, 47]],
+      "warning": "Free-text tags ('mind', 'liberty') contain no digits, yield zero ideas, and the entry is SILENTLY DROPPED from the Syntopicon. Fail-quiet: validate before writing.",
+      "source_of_truth": "armarium/data/syntopicon/syntopicon_export.json → topics[].number / topics[].name"
+    },
+    "share": {
+      "type": "boolean",
+      "required": true,
+      "default": false,
+      "description": "Tier gate. true = the shareable layer may carry it into the public export; false = stays on the machine. Read as fm.get('share').lower() == 'true'."
+    }
+  },
+
+  "display_fields": {
+    "comment": "Not part of the resolver contract; carried for human rendering in rooms that show a roster or a card.",
+    "work": "string", "author": "string", "translator": "string"
+  },
+
+  "derived_fields": {
+    "comment": "COMPUTED by resolve(source, loc). Never authored by hand — a room that writes these is wrong.",
+    "unit_id": {
+      "type": "string|null",
+      "description": "The corpus unit this passage resolves to, when it resolves."
+    },
+    "source_flag": {
+      "type": "enum",
+      "values": ["resolved", "adler_pointer", "external"],
+      "rules": [
+        "matches /\\bgbww\\b|\\bsyntopicon\\b/i  →  'adler_pointer' (never resolved, never transcribed; rendered as 'look it up in your set'. THIS IS THE IP GUARDRAIL.)",
+        "resolves against a live unit in the corpus  →  'resolved'",
+        "canonical scripture anywhere in source/loc  →  'resolved' as kjv:OSIS",
+        "anything else  →  'external'"
+      ]
+    }
+  },
+
+  "invariants": [
+    "No Adler pointer ever carries a resolved unit (pointer-not-copy).",
+    "No resolved citation dangles.",
+    "The export withholds private prose (note, and anything with share=false).",
+    "ideas must survive as digits, or the entry does not exist to the engine."
+  ],
+
+  "round_trip_test": "Room entry → rendered vault note → parse_commonplace → resolve → assert a live unit_id. One test guards every consumer; add it to armarium/tests/."
+}
