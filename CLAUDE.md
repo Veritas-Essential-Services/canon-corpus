@@ -60,3 +60,25 @@ conversion, throttled bulk fetch. The data model itself already scales.
 ## End every working session
 Update the vault _STATUS note (state, one dated log line, next actions)
 and commit. A session that doesn't update the status note didn't happen.
+
+## Rights check — the gate that was missing (2026-07-26)
+
+`kafka-metamorphosis` (PG 5200) was removed from `pipeline/adler_shelf.json`.
+It is the **David Wyllie translation**, whose Gutenberg header reads
+`*** This is a COPYRIGHTED Project Gutenberg eBook. ***`. Armarium was serving
+it whole and offering it for download with the PG notice stripped.
+
+**Why it got through:** the acquisition run verified AUTHOR and TITLE against the
+live PG header. It never read the rights line. An author dead in 1924 tells you
+nothing about the person who Englished him in 2002.
+
+**All 68 were re-checked on 2026-07-26** by fetching each PG header and grepping
+for the copyright marker. Twelve entries were foreign-language works with no
+translator recorded; **eleven are genuinely public domain, and Kafka was the only
+copyrighted one.** The translator is now recorded in the `author` field for the
+six where PG names one and the shelf did not.
+
+**The standing rule from here:** a title does not enter this shelf until someone
+has read the rights line of the exact edition, not the author's dates. Translations
+carry their own copyright. When adding a book, check for
+`COPYRIGHTED Project Gutenberg` in the header and record the translator in `author`.

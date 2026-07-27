@@ -242,7 +242,7 @@
  "descartes-method": {
   "gutenberg_id": 59,
   "title": "Discourse on Method",
-  "author": "Rene Descartes",
+  "author": "Rene Descartes (tr. John Veitch)",
   "kind": "treatise",
   "adler_volume": 28,
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
@@ -452,7 +452,7 @@
  "balzac-cousinbette": {
   "gutenberg_id": 1749,
   "title": "Cousin Bette",
-  "author": "Honore de Balzac",
+  "author": "Honore de Balzac (tr. James Waring)",
   "kind": "prose",
   "adler_volume": 45,
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
@@ -542,7 +542,7 @@
  "marx-capital": {
   "gutenberg_id": 46423,
   "title": "Capital, Vol. 1",
-  "author": "Karl Marx",
+  "author": "Karl Marx (tr. N. I. Stone)",
   "kind": "treatise",
   "adler_volume": 50,
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
@@ -552,7 +552,7 @@
  "tolstoy-warpeace": {
   "gutenberg_id": 2600,
   "title": "War and Peace",
-  "author": "Leo Tolstoy",
+  "author": "Leo Tolstoy (tr. Aylmer Maude)",
   "kind": "prose",
   "adler_volume": 51,
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
@@ -572,7 +572,7 @@
  "ibsen-dollshouse": {
   "gutenberg_id": 2542,
   "title": "A Doll's House",
-  "author": "Henrik Ibsen",
+  "author": "Henrik Ibsen (tr. R. Farquharson Sharp)",
   "kind": "drama",
   "adler_volume": 52,
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
@@ -609,16 +609,6 @@
   "pass": "prose-paragraph",
   "refine": false
  },
- "kafka-metamorphosis": {
-  "gutenberg_id": 5200,
-  "title": "The Metamorphosis",
-  "author": "Franz Kafka",
-  "kind": "prose",
-  "adler_volume": 60,
-  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
-  "pass": "prose-paragraph",
-  "refine": false
- },
  "chekhov-vanya": {
   "gutenberg_id": 1756,
   "title": "Uncle Vanya",
@@ -642,7 +632,7 @@
  "einstein-relativity": {
   "gutenberg_id": 30155,
   "title": "Relativity: The Special and General Theory",
-  "author": "Albert Einstein",
+  "author": "Albert Einstein (tr. Robert W. Lawson)",
   "kind": "treatise",
   "adler_volume": 56,
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
