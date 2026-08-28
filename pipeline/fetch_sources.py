@@ -69,6 +69,64 @@ CCEL = {
     "edwards-works1":   ("edwards", "works1", "Works of Jonathan Edwards, vol. 1 (1834 ed.)"),
 }
 
+# Calvin's Commentaries (Calvin Translation Society, 45 vols.) — CCEL's
+# "Calvin's Commentaries—Complete" collection. Manifest-Ingest pilot library
+# (Word Hoard vault, "Armarium Libraries" 2026-08-28): biggest, best-structured,
+# uniformly-formatted CCEL corpus — if the ThML parser survives this, it
+# survives the rest of the launch list. Slugs + volume titles confirmed
+# against CCEL's own work-info page 2026-08-28; calcom01 probed 200 same day.
+CALVIN_COMMENTARIES = {
+    "calvin-com01": "Genesis 1-23",
+    "calvin-com02": "Genesis 24-50",
+    "calvin-com03": "Harmony of the Law, Vol. 1",
+    "calvin-com04": "Harmony of the Law, Vol. 2",
+    "calvin-com05": "Harmony of the Law, Vol. 3",
+    "calvin-com06": "Harmony of the Law, Vol. 4",
+    "calvin-com07": "Joshua",
+    "calvin-com08": "Psalms 1-35",
+    "calvin-com09": "Psalms 36-66",
+    "calvin-com10": "Psalms 67-92",
+    "calvin-com11": "Psalms 93-119",
+    "calvin-com12": "Psalms 119-150",
+    "calvin-com13": "Isaiah 1-16",
+    "calvin-com14": "Isaiah 17-32",
+    "calvin-com15": "Isaiah 33-48",
+    "calvin-com16": "Isaiah 49-66",
+    "calvin-com17": "Jeremiah-Lamentations 1-9",
+    "calvin-com18": "Jeremiah-Lamentations 10-19",
+    "calvin-com19": "Jeremiah-Lamentations 20-29",
+    "calvin-com20": "Jeremiah-Lamentations 30-47",
+    "calvin-com21": "Jeremiah-Lamentations 48-52",
+    "calvin-com22": "Ezekiel 1-12",
+    "calvin-com23": "Ezekiel 13-20",
+    "calvin-com24": "Daniel 1-6",
+    "calvin-com25": "Daniel 7-12",
+    "calvin-com26": "Hosea",
+    "calvin-com27": "Joel-Amos-Obadiah",
+    "calvin-com28": "Jonah-Micah-Nahum",
+    "calvin-com29": "Habakkuk-Zephaniah-Haggai",
+    "calvin-com30": "Zechariah-Malachi",
+    "calvin-com31": "Harmony of the Gospels, Vol. 1",
+    "calvin-com32": "Harmony of the Gospels, Vol. 2",
+    "calvin-com33": "Harmony of the Gospels, Vol. 3",
+    "calvin-com34": "John 1-11",
+    "calvin-com35": "John 12-21",
+    "calvin-com36": "Acts 1-13",
+    "calvin-com37": "Acts 14-28",
+    "calvin-com38": "Romans",
+    "calvin-com39": "1 Corinthians 1-14",
+    "calvin-com40": "1 Corinthians 15-16, 2 Corinthians",
+    "calvin-com41": "Galatians-Ephesians",
+    "calvin-com42": "Philippians-Colossians-Thessalonians",
+    "calvin-com43": "Timothy, Titus, Philemon",
+    "calvin-com44": "Hebrews",
+    "calvin-com45": "Catholic Epistles",
+}
+for _i in range(1, 46):
+    _slug = f"calvin-com{_i:02d}"
+    CCEL[_slug] = ("calvin", f"calcom{_i:02d}",
+                   f"Commentary on {CALVIN_COMMENTARIES[_slug]} (Calvin Translation Society ed.)")
+
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
 
 def fetch(url, dest):
