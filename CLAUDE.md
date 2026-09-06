@@ -91,16 +91,40 @@ where a superscription counts as verse 1 and shifts every later verse. So its
 `kjv:` unit ids. Resolving them needs a versification map; that is its own
 piece of work. A labelled hole beats a confident wrong label.
 
-**Thayer's is queued, not skipped.** Thayer's Greek-English Lexicon (1889) is
-PD and scanned (archive.org `greekenglishlexi00grimuoft`, 764pp,
-NOT_IN_COPYRIGHT), but **no usable machine-readable edition exists**: that
-scan's OCR contains **zero Greek codepoints** — every Greek word came out as
-mangled Latin (`édris` for ἐλπίς) — measured 2026-09-06. Abbott-Smith's 1922
-lexicon fails the same way. Thayer's therefore needs a polytonic-Greek OCR
-pass (`tesseract grc`) and is a book-sized job, not a download. STEPBible ships
-a full LSJ keyed to Strong's that would fill the same gap today, but it is
-CC BY 4.0 rather than PD and its own header asks that it not be redistributed
-— Adam's call, deliberately not taken here.
+**Thayer's (added 2026-09-06) is the one book here that was OCR'd, not
+fetched.** It is PD and scanned (archive.org `greekenglishlexi00grimuoft`,
+760pp), but **no machine-readable edition exists** — that scan's own text layer
+has **zero Greek codepoints**, every Greek word mangled into Latin (`édris` for
+ἐλπίς). Abbott-Smith 1922 fails the same way. Re-OCR'd with `tesseract grc+eng`
+at 300 dpi: **552,594 Greek characters recovered**. 744 of 760 pages carry text;
+the other 16 were each checked and are the two cloth covers plus 14 blank leaves.
+
+Recipe, if it ever needs redoing (~70 min on 2 cores):
+
+```bash
+curl -sL -o thayer.pdf https://archive.org/download/greekenglishlexi00grimuoft/greekenglishlexi00grimuoft.pdf
+# grc.traineddata from tesseract-ocr/tessdata_best into your tessdata dir, then per page:
+OMP_THREAD_LIMIT=1 tesseract page.png out -l grc+eng --psm 3
+```
+
+🔴 **`OMP_THREAD_LIMIT=1` is not optional.** Without it, tesseract's OpenMP
+oversubscribes a 2-core box and the same page takes **62 s instead of 10 s** —
+for byte-identical output. That one variable is the difference between a
+70-minute job and a 4.5-hour one.
+
+**Its unit is the printed page, and that is a deliberate refusal.** Entry
+boundaries have to be inferred from OCR and cannot be inferred reliably:
+requiring a paragraph break before a Greek headword finds 4,532 entries,
+dropping that requirement finds 7,983, and Thayer's really has about 5,600.
+Neither is the entry list. So `thayer:p.300` is the unit — exact, checkable
+against the scan — with detected headwords carried under `lex.headwords`,
+flagged heuristic. Entry segmentation can be refined later against a stable
+page-anchored base without re-running the OCR. The text is unproofread OCR and
+says so in its honesty field; Greek diacritics are where it errs most.
+
+**Still not taken:** STEPBible ships a full LSJ keyed to Strong's that would
+also fill the Greek gap today, but it is CC BY 4.0 rather than PD and its own
+header asks that it not be redistributed — Adam's call, deliberately open.
 
 ### 🔴 A partial build used to delete the ledger
 

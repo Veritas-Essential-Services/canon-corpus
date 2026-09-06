@@ -829,5 +829,18 @@
    "honesty": "exact text, partial keying",
    "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification and are NOT resolved to kjv: unit ids -- Psalms superscriptions shift the numbering. 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
   }
+ },
+ "thayer": {
+  "title": "A Greek-English Lexicon of the New Testament (Thayer)",
+  "author": "C. L. W. Grimm & C. G. Wilke, tr./rev./enl. Joseph Henry Thayer (1889)",
+  "format": "lexicon-ocr",
+  "sha256": "91d96a35c24d3f471d7f942d1b06f5bf93465ae7c1df09f287d1a56c4140cb6e",
+  "units": 743,
+  "scheme": {
+   "citation": "printed page of the 1889 edition",
+   "resolution": "page",
+   "honesty": "page-exact; entries NOT segmented",
+   "note": "OCR'd from the Internet Archive scan (greekenglishlexi00grimuoft, 760pp) with tesseract grc+eng at 300dpi on 2026-09-06, because no machine-readable Thayer's exists: that scan's own text layer contains ZERO Greek codepoints. This pass recovered 552,594. 744 pages carry text; the other 16 were checked individually and are the two cloth covers plus 14 blank leaves. 4,534 headwords detected heuristically and flagged as such -- Thayer's has ~5,600 entries and OCR cannot delimit them reliably, so no entry claim is made. Text is OCR output: it has not been proofread against the page, and Greek diacritics are where OCR errs most."
+  }
  }
 }

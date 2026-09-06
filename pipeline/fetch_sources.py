@@ -63,13 +63,15 @@ CCEL_XML = "https://ccel.org/ccel/{initial}/{author}/{work}.xml"
 # public domain; the rights line of the exact edition was read, per the
 # 2026-07-26 standing rule, and is recorded per entry below.
 #
-# NOT here, and why: Thayer's Greek-English Lexicon (1889) is public domain
-# and its scan is on archive.org (item greekenglishlexi00grimuoft, 764pp,
-# NOT_IN_COPYRIGHT), but no usable machine-readable edition exists. Archive's
-# own OCR of it contains ZERO Greek codepoints -- every Greek word came out
-# as mangled Latin ("edris" for elpis) -- measured 2026-09-06. Thayer's needs
-# a polytonic-Greek OCR pass (tesseract grc) of its own; it is queued as a
-# book-sized job, not a download.
+# THAYER'S is here too, but it is not a fetch -- it is an OCR job, and the
+# only one in this repo. The 1889 lexicon is PD and scanned (archive.org
+# greekenglishlexi00grimuoft, 760pp, NOT_IN_COPYRIGHT), but no machine-readable
+# edition exists: that scan's own text layer contains ZERO Greek codepoints --
+# every Greek word came out as mangled Latin ("edris" for elpis). Abbott-Smith
+# 1922 fails identically. So on 2026-09-06 the PDF was re-OCR'd with tesseract
+# grc+eng at 300dpi, recovering 552,594 Greek characters, and the page text
+# lives in data/corpus/lexicons/thayer-pages.json (gitignored with the rest of
+# the corpus; regenerate with the recipe in CLAUDE.md).
 #
 # slug -> (url, local filename, note)
 LEXICONS = {

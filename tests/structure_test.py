@@ -222,5 +222,28 @@ check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
 
+# ---------------------------------------------------------------- Thayer (OCR)
+import json as _json
+THAYER_FIX = {"300": "\u1F21\u03B3\u03AD\u03BF\u03BC\u03B1\u03B9\n"
+                     "rator of Judaea to the governor of Syria.\n"
+                     "300\n"
+                     "\n"
+                     "\u1F21\u03B4\u03BF\u03BD\u03AE, -\u1FC6\u03C2, \u1F21, pleasure, Lk. viii. 14.\n"
+                     "not a headword line, mid-entry \u03C3\u1FF6\u03C2, though it looks like one\n"}
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as f:
+    _json.dump(THAYER_FIX, f); th_path = f.name
+tb = st.convert_thayer(th_path)
+tu = tb["units"][0]
+check("thayer: unit is the printed page, not a guessed entry",
+      tu["id"] == "thayer:p.300" and tb["scheme"]["resolution"] == "page")
+check("thayer: running head and bare page number are furniture, stripped",
+      "\u1F21\u03B3\u03AD\u03BF\u03BC\u03B1\u03B9" not in tu["text"] and "300" not in tu["text"]
+      and tu["lex"]["running_head"] == "\u1F21\u03B3\u03AD\u03BF\u03BC\u03B1\u03B9")
+check("thayer: headword detected only paragraph-initially (mid-entry Greek is not one)",
+      tu["lex"]["headwords"] == ["\u1F21\u03B4\u03BF\u03BD\u03AE"])
+check("thayer: honesty says entries are NOT segmented",
+      "NOT segmented" in tb["scheme"]["honesty"])
+os.unlink(th_path)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

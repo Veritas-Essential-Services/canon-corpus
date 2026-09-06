@@ -534,6 +534,96 @@ def convert_bdb(path, slug="bdb-hebrew"):
                                "Strong's prefix/particle codes."},
             "units": units}
 
+GRK = "Ͱ-Ͽἀ-῿̀-ͯ"
+RE_GREEK = re.compile(f"[{GRK}]")
+RE_THAYER_HEAD = re.compile(rf"^([{GRK}][{GRK}’'\-]*)\s*[,.]\s+")
+
+
+def convert_thayer(path, slug="thayer"):
+    """Thayer's Greek-English Lexicon of the New Testament (1889), OCR'd.
+
+    WHY THE UNIT IS A PAGE AND NOT AN ENTRY.
+
+    Every other lexicon here arrives as data with its entries already
+    delimited. Thayer's does not exist as data -- see the note in
+    fetch_sources.py -- so its entries have to be inferred from OCR, and they
+    cannot be inferred reliably. Measured on this scan (2026-09-06): requiring
+    a paragraph break before a Greek headword finds 4,532 entries; dropping
+    that requirement finds 7,983. Thayer's really has about 5,600. The strict
+    rule loses entries wherever OCR dropped a blank line; the loose rule
+    promotes mid-entry Greek words and mis-read small-caps in the front
+    matter. Neither number is the entry list, and averaging two wrong answers
+    does not produce a right one.
+
+    So the unit is the printed page, which is exact, verifiable against the
+    scan, and is already what this project's citation hub is built on --
+    canonical citation <-> unit id <-> any edition's page. Detected headwords
+    ride along on each page under lex.headwords, explicitly flagged heuristic,
+    because they are genuinely useful for lookup and harmless when wrong.
+    Someone refining entry detection later can do it against a stable
+    page-anchored base without re-running a four-hour OCR.
+    """
+    pages = json.load(open(path, encoding="utf-8"))
+    units = []
+    heads_total = 0
+    for pno in sorted(pages, key=int):
+        raw = pages[pno]
+        lines = raw.split("\n")
+        # Page furniture: line 1 of a body page is the running head (the Greek
+        # catchword) and bare page numbers sit on their own line. Stripped by
+        # pattern and counted, never silently.
+        furniture = []
+        if lines and lines[0].strip() and len(lines[0].strip()) < 40:
+            furniture.append(lines[0].strip())
+            lines = lines[1:]
+        body_lines = []
+        for l in lines:
+            if re.fullmatch(r"\s*\d{1,4}\s*", l):
+                furniture.append(l.strip())
+                continue
+            body_lines.append(l)
+        text = clean("\n".join(body_lines))
+        if not text:
+            continue
+        headwords = []
+        for i, l in enumerate(body_lines):
+            if i and body_lines[i - 1].strip():
+                continue                      # paragraph-initial only
+            m = RE_THAYER_HEAD.match(l.strip())
+            if m and len(m.group(1)) > 1:
+                headwords.append(m.group(1))
+        heads_total += len(headwords)
+        units.append({"id": f"{slug}:p.{int(pno)}",
+                      "ref": f"Thayer p. {int(pno)}",
+                      "text": text, "links": [],
+                      "lex": {"headwords": headwords,
+                              "headwords_are": "heuristic (paragraph-initial Greek word); "
+                                               "not an entry list -- see converter docstring",
+                              "running_head": furniture[0] if furniture else "",
+                              "greek_chars": len(RE_GREEK.findall(text))}})
+    greek = sum(u["lex"]["greek_chars"] for u in units)
+    return {"slug": slug,
+            "title": "A Greek-English Lexicon of the New Testament (Thayer)",
+            "author": "C. L. W. Grimm & C. G. Wilke, tr./rev./enl. Joseph Henry Thayer (1889)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "lexicon-ocr",
+                       "sha256": sha256(path)},
+            "scheme": {"citation": "printed page of the 1889 edition",
+                       "resolution": "page",
+                       "honesty": "page-exact; entries NOT segmented",
+                       "note": f"OCR'd from the Internet Archive scan "
+                               f"(greekenglishlexi00grimuoft, 760pp) with tesseract "
+                               f"grc+eng at 300dpi on 2026-09-06, because no "
+                               f"machine-readable Thayer's exists: that scan's own text "
+                               f"layer contains ZERO Greek codepoints. This pass recovered "
+                               f"{greek:,}. 744 pages carry text; the other 16 were checked "
+                               f"individually and are the two cloth covers plus 14 blank "
+                               f"leaves. {heads_total:,} headwords detected heuristically and "
+                               f"flagged as such -- Thayer's has ~5,600 entries and OCR "
+                               f"cannot delimit them reliably, so no entry claim is made. "
+                               f"Text is OCR output: it has not been proofread against the "
+                               f"page, and Greek diacritics are where OCR errs most."},
+            "units": units}
+
 # ---------------------------------------------------------------- Gutenberg .txt
 
 def strip_boilerplate(raw):
@@ -711,7 +801,8 @@ def main():
         jobs.append(("kjv", lambda: convert_kjv(kjv)))
     for slug, fn, conv in (("strongs-hebrew", "strongs-hebrew.xml", convert_strongs_hebrew),
                            ("strongs-greek",  "strongs-greek.xml",  convert_strongs_greek),
-                           ("bdb-hebrew",     "bdb-hebrew.tsv",     convert_bdb)):
+                           ("bdb-hebrew",     "bdb-hebrew.tsv",     convert_bdb),
+                           ("thayer",         "thayer-pages.json",  convert_thayer)):
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
