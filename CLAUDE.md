@@ -61,6 +61,55 @@ conversion, throttled bulk fetch. The data model itself already scales.
 Update the vault _STATUS note (state, one dated log line, next actions)
 and commit. A session that doesn't update the status note didn't happen.
 
+## Lexicons — a fourth door (2026-09-06)
+
+Three reference works now ingest through the same converters and the same
+output shape: **Strong's Hebrew** (H1–H8674), **Strong's Greek** (G1–G5624),
+and the **unabridged Brown-Driver-Briggs** (10,022 entries). Sources are in
+`LEXICONS` in `fetch_sources.py`; converters are `convert_strongs_hebrew`,
+`convert_strongs_greek`, `convert_bdb`.
+
+**Why they needed no schema change.** A lexicon is not a linear text, but the
+unit id was always the citation hub, and for a lexicon the canonical citation
+IS the entry number — `strongs-hebrew:H2617`. Cross-references go in
+`links[]`, the field the ThML scripRef harvest already fills. Result:
+**25,609 cross-references, zero dangling**, and the three books are one
+connected graph. Extra lexical fields (lemma, translit, pos, KJV usage) hang
+off each unit under `lex` so the `{id, ref, text, links[]}` contract every
+other converter emits is untouched.
+
+**Rights (rule 6 / the 2026-07-26 gate).** All three underlying works are
+public domain and the rights line of each exact edition was read, not assumed.
+The OpenScriptures markup is CC BY 4.0 over PD dictionary text; the BDB repo
+states "Public domain document". Recorded per entry in `LEXICONS`.
+
+**What is deliberately NOT claimed (rule 4).** BDB cites scripture in Hebrew
+versification, which parts company with the KJV's — most visibly in Psalms,
+where a superscription counts as verse 1 and shifts every later verse. So its
+**139,125 scripture citations are recorded as the source stated them**
+(`{osis, ref, versification: "bhs", resolved: false}`) and are NOT resolved to
+`kjv:` unit ids. Resolving them needs a versification map; that is its own
+piece of work. A labelled hole beats a confident wrong label.
+
+**Thayer's is queued, not skipped.** Thayer's Greek-English Lexicon (1889) is
+PD and scanned (archive.org `greekenglishlexi00grimuoft`, 764pp,
+NOT_IN_COPYRIGHT), but **no usable machine-readable edition exists**: that
+scan's OCR contains **zero Greek codepoints** — every Greek word came out as
+mangled Latin (`édris` for ἐλπίς) — measured 2026-09-06. Abbott-Smith's 1922
+lexicon fails the same way. Thayer's therefore needs a polytonic-Greek OCR
+pass (`tesseract grc`) and is a book-sized job, not a download. STEPBible ships
+a full LSJ keyed to Strong's that would fill the same gap today, but it is
+CC BY 4.0 rather than PD and its own header asks that it not be redistributed
+— Adam's call, deliberately not taken here.
+
+### 🔴 A partial build used to delete the ledger
+
+`structure_texts.py`'s `main()` started `manifest = {}` and wrote whatever it
+built. A run only sees the sources fetched locally, so **a lexicons-only build
+rewrote a 66-book manifest with 3 entries** (caught 2026-09-06 before it was
+committed). The manifest IS the collection — rule 1 — so `main()` now seeds
+from the committed manifest and updates it. Never let it start empty again.
+
 ## Rights check — the gate that was missing (2026-07-26)
 
 `kafka-metamorphosis` (PG 5200) was removed from `pipeline/adler_shelf.json`.

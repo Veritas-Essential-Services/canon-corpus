@@ -151,5 +151,76 @@ check("shakespeare: act/scene in ref", fury and "Act V" in fury[0]["ref"] and "S
 check("shakespeare: 'ACT V' not treated as a play", not any(u["ref"].startswith("Act ") for u in sb["units"]))
 os.unlink(shk_path)
 
+# ---------------------------------------------------------------- Lexicons
+# Every case below is a real defect measured against the live sources on
+# 2026-09-06 while building these converters, frozen so it cannot recur.
+
+check("strongs_id: leading zeros are formatting, not the number",
+      (st.strongs_id("0175", "hebrew"), st.strongs_id("175", "hebrew"),
+       st.strongs_id("H175", "hebrew"), st.strongs_id("00002", "greek"))
+      == ("H175", "H175", "H175", "G2"))
+
+SH_FIX = """<?xml version="1.0" encoding="utf-8"?>
+<lexicon xmlns="http://openscriptures.github.com/morphhb/namespace">
+ <entry id="H2"><w pos="n-m" pron="ab" xlit="ab" xml:lang="arc">אַב</w>
+  <source>(Aramaic) corresponding to <w src="H1">1</w></source>
+  <usage>father.</usage></entry>
+</lexicon>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(SH_FIX); sh_path = f.name
+hb = st.convert_strongs_hebrew(sh_path)
+u = hb["units"][0]
+check("strongs-hebrew: unit id is the Strong's number", u["id"] == "strongs-hebrew:H2")
+check("strongs-hebrew: lemma and translit reach the ref", "אַב" in u["ref"] and "(ab)" in u["ref"])
+check("strongs-hebrew: <w src> is a cross-reference, headword <w> is not",
+      [l["target"] for l in u["links"]] == ["strongs-hebrew:H1"])
+os.unlink(sh_path)
+
+SG_FIX = """<?xml version='1.0' encoding='utf-8'?>
+<strongsdictionary><prologue>x</prologue><entries>
+ <entry strongs="00026"><strongs>26</strongs>
+  <greek BETA="A)GA/PH" unicode="ἀγάπη" translit="agape"/>
+  <pronunciation strongs="ag-ah'-pay"/>
+  <strongs_derivation>from <strongsref language="GREEK" strongs="0025"/>;</strongs_derivation>
+  <strongs_def> love</strongs_def><kjv_def>:--love.</kjv_def>
+  <see language="GREEK" strongs="5689"/></entry>
+ <entry strongs="02717"><strongs>2717</strongs>  Not Used
+ </entry>
+</entries></strongsdictionary>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(SG_FIX); sg_path = f.name
+gk = st.convert_strongs_greek(sg_path)
+g26 = gk["units"][0]
+check("strongs-greek: derivation keeps the number it points at (not 'from ;')",
+      g26["text"].startswith("from G25"))
+check("strongs-greek: a ref above G5624 is a parsing code, not a cross-reference",
+      [l["target"] for l in g26["links"]] == ["strongs-greek:G25"])
+check("strongs-greek: Strong's own 'Not Used' numbers are kept and flagged",
+      gk["units"][1]["text"] == "Not Used" and gk["units"][1]["lex"]["not_used"] is True)
+os.unlink(sg_path)
+
+BDB_FIX = ("BDBid\tStrongNumber\tcontent\n"
+           "BDB6\tH6_H8\t"
+           '<h1><entry>BDB6</entry></h1><div class="navigation">BDB5 | BIBLICAL HEBREW | BDB7</div>'
+           '<p><bdbheb>אַב</bdbheb> noun '
+           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref></p>\n'
+           "BDB7\t\t<h1>x</h1><p>no strongs equivalent</p>\n")
+with tempfile.NamedTemporaryFile("w", suffix=".tsv", delete=False, encoding="utf-8") as f:
+    f.write(BDB_FIX); bdb_path = f.name
+bd = st.convert_bdb(bdb_path)
+b6 = bd["units"][0]
+check("bdb: one entry can carry several Strong's numbers (H6_H8 -> two links)",
+      [l["target"] for l in b6["links"] if l["kind"] == "strongs"]
+      == ["strongs-hebrew:H6", "strongs-hebrew:H8"])
+check("bdb: header and prev|next navigation are furniture, stripped",
+      "BIBLICAL HEBREW" not in b6["text"] and b6["text"].startswith("אַב"))
+scr = [l for l in b6["links"] if l["kind"] == "scripture"]
+check("bdb: scripture ref keeps the book number's OSIS and stays UNresolved",
+      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["resolved"] is False
+      and scr[0]["versification"] == "bhs")
+check("bdb: an entry with no Strong's number gets no strongs link",
+      [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
+os.unlink(bdb_path)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

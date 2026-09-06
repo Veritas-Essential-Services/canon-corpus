@@ -790,5 +790,44 @@
    "resolution": "speech-block",
    "honesty": "play/act/scene detected from headings; block = speech or paragraph within scene, not through-numbered line"
   }
+ },
+ "strongs-hebrew": {
+  "title": "Strong's Hebrew Dictionary",
+  "author": "James Strong (1890)",
+  "format": "lexicon-xml",
+  "sha256": "a628f4f89f8bdaf2483fd3faf1abc8653cc6717758dfc9f24beb7571d9bdd0c4",
+  "units": 8674,
+  "scheme": {
+   "citation": "Strong's number (H1-H8674)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "Dictionary text is public domain; this transcription is the OpenScriptures HebrewLexicon (CC BY 4.0 on the markup). Cross-references resolved; no scripture links in this source."
+  }
+ },
+ "strongs-greek": {
+  "title": "Strong's Greek Dictionary",
+  "author": "James Strong (1890)",
+  "format": "lexicon-xml",
+  "sha256": "df928f01b37632f8af9f16289ce58d10b958014cb5dbd1e1ea715a8d311a0625",
+  "units": 5624,
+  "scheme": {
+   "citation": "Strong's number (G1-G5624)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "Dictionary text is public domain; transcription from the OpenScriptures strongs repo (Sandborg-Petersen lineage). Cross-references to Hebrew entries resolved across books; 8 refs above G5624 dropped as Robinson parsing codes, not entries. Strong's own 'Not Used' placeholder numbers are kept, flagged lex.not_used."
+  }
+ },
+ "bdb-hebrew": {
+  "title": "A Hebrew and English Lexicon of the Old Testament (Brown-Driver-Briggs)",
+  "author": "Francis Brown, S. R. Driver & C. A. Briggs (1906)",
+  "format": "lexicon-tsv",
+  "sha256": "5e865974edbc704b58e6b33c2ccf96690fe1e2cda2fbc3442d2a30e8b2292ccc",
+  "units": 10022,
+  "scheme": {
+   "citation": "BDB entry id (BDB1-BDB9000s); Strong's number where mapped",
+   "resolution": "entry",
+   "honesty": "exact text, partial keying",
+   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification and are NOT resolved to kjv: unit ids -- Psalms superscriptions shift the numbering. 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
+  }
  }
 }

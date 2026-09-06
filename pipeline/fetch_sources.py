@@ -56,6 +56,48 @@ GUTENBERG_TXT = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
 
 CCEL_XML = "https://ccel.org/ccel/{initial}/{author}/{work}.xml"
 
+# ---------------------------------------------------------------- Lexicons
+#
+# Reference works keyed by lemma rather than linear texts (structured by
+# structure_texts.py's lexicon converters). All three underlying works are
+# public domain; the rights line of the exact edition was read, per the
+# 2026-07-26 standing rule, and is recorded per entry below.
+#
+# NOT here, and why: Thayer's Greek-English Lexicon (1889) is public domain
+# and its scan is on archive.org (item greekenglishlexi00grimuoft, 764pp,
+# NOT_IN_COPYRIGHT), but no usable machine-readable edition exists. Archive's
+# own OCR of it contains ZERO Greek codepoints -- every Greek word came out
+# as mangled Latin ("edris" for elpis) -- measured 2026-09-06. Thayer's needs
+# a polytonic-Greek OCR pass (tesseract grc) of its own; it is queued as a
+# book-sized job, not a download.
+#
+# slug -> (url, local filename, note)
+LEXICONS = {
+    "strongs-hebrew": (
+        "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/HebrewStrong.xml",
+        "strongs-hebrew.xml",
+        "Strong's Hebrew Dictionary (James Strong, 1890 — PD). OpenScriptures "
+        "HebrewLexicon transcription; markup CC BY 4.0, dictionary text PD. "
+        "8,674 entries = the complete H1–H8674 numbering (verified 2026-09-06)."),
+    "strongs-greek": (
+        "https://raw.githubusercontent.com/openscriptures/strongs/master/"
+        "greek/StrongsGreekDictionaryXML_1.4/strongsgreek.xml",
+        "strongs-greek.xml",
+        "Strong's Greek Dictionary (James Strong, 1890 — PD). OpenScriptures "
+        "strongs repo. 5,624 entries = the complete G1–G5624 numbering "
+        "(verified 2026-09-06). Unicode Greek intact."),
+    "bdb-hebrew": (
+        "https://raw.githubusercontent.com/eliranwong/unabridged-BDB-Hebrew-lexicon/"
+        "master/unabridged-BDB-Hebrew-lexicon.csv.zip",
+        "bdb-hebrew.tsv",
+        "Brown-Driver-Briggs, A Hebrew and English Lexicon of the Old Testament "
+        "(1906 — PD), UNABRIDGED. Repo states 'Public domain document'; formatting "
+        "by Eliran Wong from Bible Analyzer data, scripture refs parsed by Stephen "
+        "Ku et al. 10,022 entries, median 1,184 chars (the real thing, not the "
+        "2.7MB abridged outline in OpenScriptures/HebrewLexicon)."),
+}
+
+
 # slug -> (author, work, note)  — all probed 200 on 2026-07-21
 CCEL = {
     "owen-mort":        ("owen", "mort", "Of the Mortification of Sin in Believers"),
@@ -142,12 +184,38 @@ def fetch(url, dest):
         f.write(data)
     return f"{len(data):,} bytes"
 
+def fetch_lexicon(url, dest):
+    """Same as fetch(), but a .zip source is unpacked to `dest` — the BDB
+    ships zipped and its inner filename is not stable enough to rely on, so
+    take the single largest member."""
+    if os.path.exists(dest) and os.path.getsize(dest) > 1000:
+        return "skip"
+    if not url.endswith(".zip"):
+        return fetch(url, dest)
+    import io, zipfile
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=120) as r:
+        blob = r.read()
+    zf = zipfile.ZipFile(io.BytesIO(blob))
+    members = [m for m in zf.infolist()
+               if not m.is_dir() and "__MACOSX" not in m.filename]
+    if not members:
+        raise RuntimeError(f"no usable member in {url}")
+    biggest = max(members, key=lambda m: m.file_size)
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest, "wb") as f:
+        f.write(zf.read(biggest))
+    return f"{biggest.file_size:,} bytes (unzipped {biggest.filename})"
+
+
 def main():
     if "--list" in sys.argv:
         for slug, (repo, path, note) in PERSEUS.items():
             print(f"perseus/{slug}: {note}")
         for slug, (author, work, note) in CCEL.items():
             print(f"ccel/{slug}: {note}")
+        for slug, (url, fn, note) in LEXICONS.items():
+            print(f"lexicon/{slug}: {note}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -171,6 +239,13 @@ def main():
             print(f"gutenberg/{slug}: {fetch(GUTENBERG_TXT.format(id=gid), dest)}")
         except Exception as e:
             failures.append(slug); print(f"gutenberg/{slug}: FAIL {e}")
+        time.sleep(0.5)
+    for slug, (url, fn, note) in LEXICONS.items():
+        dest = os.path.join(CORPUS, "lexicons", fn)
+        try:
+            print(f"lexicon/{slug}: {fetch_lexicon(url, dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
