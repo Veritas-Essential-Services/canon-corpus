@@ -842,5 +842,45 @@
    "honesty": "page-exact; entries NOT segmented",
    "note": "OCR'd from the Internet Archive scan (greekenglishlexi00grimuoft, 760pp) with tesseract grc+eng at 300dpi on 2026-09-06, because no machine-readable Thayer's exists: that scan's own text layer contains ZERO Greek codepoints. This pass recovered 552,594. 744 pages carry text; the other 16 were checked individually and are the two cloth covers plus 14 blank leaves. 4,534 headwords detected heuristically and flagged as such -- Thayer's has ~5,600 entries and OCR cannot delimit them reliably, so no entry claim is made. Text is OCR output: it has not been proofread against the page, and Greek diacritics are where OCR errs most."
   }
+ },
+ "tbesg-greek": {
+  "title": "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",
+  "author": "Abbott-Smith definitions, ed. Tyndale House / STEPBible.org",
+  "format": "lexicon-tsv",
+  "sha256": "312f723d7b8ef263bbdfb0451c9b8057125804dfff390b6f8544cff2a84b57f4",
+  "units": 9550,
+  "scheme": {
+   "citation": "Extended Strong's number (e.g. G0001G)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "Brief NT/LXX Greek lexicon based on Abbott-Smith (1922), edited to the extended Strong's numbering and filled from Middle Liddell where Abbott-Smith lacks an entry. 659 cross-references ('a Name of', 'the Greek of', 'a Spelling of', ...) resolved into links[], including into strongs-hebrew for transliterated Hebrew names."
+  },
+  "rights": {
+   "license": "CC BY 4.0",
+   "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data",
+   "redistribute_whole": false,
+   "note": "Licence permits redistribution; the maintainers request you point people at github.com/STEPBible rather than mirror it. Quote and cite freely WITH attribution; do not serve or ship the whole lexicon."
+  }
+ },
+ "lsj-greek": {
+  "title": "Liddell-Scott-Jones Greek Lexicon, Bible edition (TFLSJ)",
+  "author": "H. G. Liddell, R. Scott & H. S. Jones; ed. Tyndale House / STEPBible.org",
+  "format": "lexicon-tsv",
+  "sha256": "fcc2845412132a7bb91fc3dbb5a544c807daf57e4791c4d9af61efe209e97691",
+  "units": 9549,
+  "scheme": {
+   "citation": "Extended Strong's number (e.g. G0001G)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "The full LSJ edited by Tyndale House scholars, abbreviations expanded, keyed to extended Strong's; the two files (0-5624 and the 6000+ extras for LXX and variant vocabulary) are one book. 659 cross-references ('a Name of', 'the Greek of', 'a Spelling of', ...) resolved into links[], including into strongs-hebrew for transliterated Hebrew names."
+  },
+  "rights": {
+   "license": "CC BY 4.0",
+   "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data",
+   "redistribute_whole": false,
+   "note": "Licence permits redistribution; the maintainers request you point people at github.com/STEPBible rather than mirror it. Quote and cite freely WITH attribution; do not serve or ship the whole lexicon."
+  }
  }
 }

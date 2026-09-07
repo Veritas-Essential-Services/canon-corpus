@@ -122,9 +122,49 @@ flagged heuristic. Entry segmentation can be refined later against a stable
 page-anchored base without re-running the OCR. The text is unproofread OCR and
 says so in its honesty field; Greek diacritics are where it errs most.
 
-**Still not taken:** STEPBible ships a full LSJ keyed to Strong's that would
-also fill the Greek gap today, but it is CC BY 4.0 rather than PD and its own
-header asks that it not be redistributed — Adam's call, deliberately open.
+## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
+
+`tbesg-greek` (Abbott-Smith-based brief lexicon, 9,550 entries) and `lsj-greek`
+(the **full Liddell-Scott-Jones**, 9,549 entries, 2.8M Greek characters) are
+**CC BY 4.0, not public domain** — the only non-PD material in this repo.
+
+**Adam's call, 2026-09-06: collect and use, do not redistribute in whole.** That
+is the correct reading of the terms. CC BY *permits* redistribution outright;
+STEPBible additionally *asks* that people be pointed at
+`github.com/STEPBible` rather than served a mirror, so corrections flow from one
+source. The request is not a legal restriction — honoring it is a courtesy that
+costs nothing.
+
+**The limit is enforced structurally, not by remembering it.** The source TSVs
+land in `data/corpus/` and build to `data/books/*.json`; both are gitignored, so
+nothing but the manifest pointer is ever committed. Each built book carries a
+`rights` block — `license`, `attribution`, `source_url`,
+`redistribute_whole: false` — and `main()` copies it into the committed
+manifest, so **a consumer sees the limit without opening the book**. 🔴 Armarium
+may quote, cite and link with attribution; it must not serve or ship the whole
+lexicon. A test asserts the block survives.
+
+### Three ways to read this file that lose text, and all three are wrong
+
+Measured against the live files; frozen as tests:
+
+- **Column 2 looks like the key. It is a cross-reference TARGET.** Keying on it
+  merges Ἀπολλύων (G0623) into Ἀβαδδών (G0003), because Apollyon is "a Name of"
+  Abaddon.
+- **Column 0 looks like the key. It is not either.** G0001 holds *two different
+  words* — the letter α and the interjection ἆ — told apart only by the extended
+  suffix (`G0001G` / `G0001H`). Keying on column 0 drops one definition of every
+  such pair. The real key is the extended Strong's number opening column 1;
+  grouping on it gives one unit per row with zero collisions.
+- 🔴 **Stripping HTML tags first throws away 44% of the Greek.** LSJ's hover
+  citations live in `title=` attributes and contain the actual quoted ancient
+  authors (`ἐπίσταται δ᾽ οὐδ᾽ ἄλφα συλλαβὴν γνῶναι`) — **973,610 Greek
+  characters**, the lexicon's evidence base, deleted silently by a one-line
+  regex. `_step_body()` pulls them inline first. Retention went 55.9% → 96.1%.
+
+A compound target (`G0473 (G0473+G3739)`) is a key *plus its parts*; reading the
+cell as one string manufactured 104 dangling links and lost the parts, which are
+the interesting half. 1,318 cross-references now resolve, zero dangling.
 
 ### 🔴 A partial build used to delete the ledger
 

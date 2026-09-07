@@ -624,6 +624,137 @@ def convert_thayer(path, slug="thayer"):
                                f"page, and Greek diacritics are where OCR errs most."},
             "units": units}
 
+RE_STEP_ROW = re.compile(r"^[GH]\d{4}\t")
+
+
+RE_STEP_KEY = re.compile(r"^([GH]\d+[A-Za-z]*)")
+
+
+def _step_one_target(key, slug):
+    """One key -> one unit id. A Hebrew key points out of this book: STEPBible's
+    Greek files cross-reference Hebrew for transliterated names (ἀββά -> H0002,
+    σαβαώθ -> H6635)."""
+    if key[:1] == "H":
+        return f"strongs-hebrew:{strongs_id(re.sub(r'[A-Za-z]+$', '', key[1:]), 'hebrew')}"
+    return f"{slug}:{key}"
+
+
+def _step_targets(raw, slug):
+    """A target cell is a key, optionally followed by a compound in parentheses:
+    'G0473 (G0473+G3739)' means this word is built from those two. Reading the
+    whole cell as one key manufactures dangling links (104 of them, measured
+    2026-09-06) and loses the compound's parts, which are the interesting bit.
+    Returns (primary, [parts])."""
+    raw = (raw or "").strip()
+    if not raw:
+        return None, []
+    m = RE_STEP_KEY.match(raw)
+    if not m:
+        return None, []
+    primary = _step_one_target(m.group(1), slug)
+    parts = []
+    inner = re.search(r"\(([^)]*)\)", raw)
+    if inner:
+        for piece in re.split(r"[+,]", inner.group(1)):
+            pm = RE_STEP_KEY.match(piece.strip())
+            if pm:
+                parts.append(_step_one_target(pm.group(1), slug))
+    return primary, parts
+
+
+def _step_body(html):
+    """LSJ's hover citations live in title= attributes and carry REAL GREEK --
+    973,610 characters of quoted ancient authors in the full LSJ, 44% of all
+    the Greek in the file. Stripping tags first throws every one of them away,
+    silently. Pull them inline before clean() runs."""
+    html = re.sub(r'<a\b[^>]*\btitle="([^"]*)"[^>]*>(.*?)</a>', r" \2 [\1] ", html, flags=re.S)
+    html = re.sub(r'<[^>]*\btitle="([^"]*)"[^>]*>', r" [\1] ", html)
+    return clean(html)
+
+
+def convert_stepbible_greek(paths, slug, title, author, scheme_note):
+    """STEPBible's Greek lexicons (TBESG brief / TFLSJ full LSJ), 8-column TSV.
+
+    KEYED ON THE EXTENDED STRONG'S NUMBER, WHICH IS NOT COLUMN 0.
+
+    The obvious readings of this file are both wrong and both lose text, so
+    they are worth naming (measured 2026-09-06):
+
+      * Column 2 looks like the key. It is not -- it is the TARGET of a
+        cross-reference. Keying on it merges Ἀπολλύων (G0623) into Ἀβαδδών
+        (G0003), because Apollyon is "a Name of" Abaddon.
+      * Column 0 looks like the key. It is not either -- G0001 carries TWO
+        different words, the letter α and the interjection ἆ, told apart only
+        by the extended suffix (G0001G vs G0001H). Keying on column 0 drops
+        one definition of every such pair.
+
+    The real key is the extended Strong's number that opens column 1. Grouping
+    on it yields one unit per row with zero collisions across all three files,
+    which is what "Extended Strongs" means and what the file header says.
+
+    Column 1 also carries the relation ("= a Name of", "= the Greek of"), and
+    column 2 its target, so those become links[] exactly as the Strong's
+    cross-references do.
+    """
+    units, relations = [], 0
+    for path in paths:
+        for line in open(path, encoding="utf-8", errors="replace"):
+            if not RE_STEP_ROW.match(line):
+                continue
+            c = line.rstrip("\n").split("\t")
+            if len(c) < 8:
+                continue
+            m = re.match(r"^(\S+)\s*=\s*(.*)$", c[1].strip())
+            if not m:
+                continue
+            key, relation = m.group(1), m.group(2).strip()
+            target, parts = _step_targets(c[2], slug)
+            links = []
+            if relation and target and target != f"{slug}:{key}":
+                links.append({"kind": "lexical", "relation": relation, "target": target})
+                relations += 1
+            for part in parts:
+                if part != f"{slug}:{key}":
+                    links.append({"kind": "lexical", "relation": "a Combination of",
+                                  "target": part})
+                    relations += 1
+            lemma, translit, pos, gloss, body = c[3], c[4], c[5], c[6], c[7]
+            text = " ".join(p for p in (gloss, _step_body(body)) if p)
+            units.append({"id": f"{slug}:{key}",
+                          "ref": f"{key} {lemma}".strip() + (f" ({translit})" if translit else ""),
+                          "text": text, "links": links,
+                          "lex": {"lemma": lemma, "translit": translit,
+                                  "pos": pos, "gloss": gloss,
+                                  "strongs": strongs_id(re.sub(r"[A-Za-z]+$", "", key[1:]), "greek")
+                                             if key[:1] == "G" else ""}})
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": ", ".join(os.path.relpath(p, CORPUS) for p in paths),
+                       "format": "lexicon-tsv",
+                       "sha256": sha256(paths[0])},
+            # ---- rights are load-bearing here, not decoration ----
+            # CC BY 4.0 permits redistribution outright. STEPBible additionally
+            # ASKS that the data not be mirrored, so that corrections flow from
+            # one source. Honored, and enforced by where the bytes live: the
+            # source TSV and the built JSON are both gitignored, so nothing but
+            # this pointer is ever committed or published. A consumer (Armarium)
+            # may quote, cite and link; it must not serve the whole text.
+            "rights": {"license": "CC BY 4.0",
+                       "attribution": "Data created by www.STEPBible.org based on work "
+                                      "at Tyndale House Cambridge (CC BY 4.0)",
+                       "source_url": "https://github.com/STEPBible/STEPBible-Data",
+                       "redistribute_whole": False,
+                       "note": "Licence permits redistribution; the maintainers request "
+                               "you point people at github.com/STEPBible rather than "
+                               "mirror it. Quote and cite freely WITH attribution; do "
+                               "not serve or ship the whole lexicon."},
+            "scheme": {"citation": "Extended Strong's number (e.g. G0001G)",
+                       "resolution": "entry", "honesty": "exact",
+                       "note": scheme_note + f" {relations} cross-references "
+                               "('a Name of', 'the Greek of', 'a Spelling of', ...) "
+                               "resolved into links[], including into strongs-hebrew "
+                               "for transliterated Hebrew names."},
+            "units": units}
+
 # ---------------------------------------------------------------- Gutenberg .txt
 
 def strip_boilerplate(raw):
@@ -806,6 +937,24 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    for slug, files, title, author, note in (
+        ("tbesg-greek", ["tbesg-greek.txt"],
+         "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",
+         "Abbott-Smith definitions, ed. Tyndale House / STEPBible.org",
+         "Brief NT/LXX Greek lexicon based on Abbott-Smith (1922), edited to the "
+         "extended Strong's numbering and filled from Middle Liddell where "
+         "Abbott-Smith lacks an entry."),
+        ("lsj-greek", ["tflsj-greek-0-5624.txt", "tflsj-greek-extra.txt"],
+         "Liddell-Scott-Jones Greek Lexicon, Bible edition (TFLSJ)",
+         "H. G. Liddell, R. Scott & H. S. Jones; ed. Tyndale House / STEPBible.org",
+         "The full LSJ edited by Tyndale House scholars, abbreviations expanded, "
+         "keyed to extended Strong's; the two files (0-5624 and the 6000+ extras "
+         "for LXX and variant vocabulary) are one book."),
+    ):
+        ps = [os.path.join(CORPUS, "lexicons", f) for f in files]
+        if all(os.path.exists(x) for x in ps):
+            jobs.append((slug, lambda ps=ps, s=slug, t=title, a=author, n=note:
+                         convert_stepbible_greek(ps, s, t, a, n)))
     tei_abbrevs = {"iliad-butler": "Il.", "odyssey-eng4": "Od.", "aeneid-williams": "Aen."}
     pdir = os.path.join(CORPUS, "perseus")
     if os.path.isdir(pdir):
@@ -843,7 +992,8 @@ def main():
             manifest[slug] = {"title": book["title"], "author": book["author"],
                               "format": book["source"]["format"],
                               "sha256": book["source"]["sha256"],
-                              "units": len(book["units"]), "scheme": book["scheme"]}
+                              "units": len(book["units"]), "scheme": book["scheme"],
+                              **({"rights": book["rights"]} if book.get("rights") else {})}
             print(f"{slug}: {len(book['units'])} units (kept)")
             continue
         book = job()
@@ -861,7 +1011,8 @@ def main():
                           "format": book["source"]["format"],
                           "sha256": book["source"]["sha256"],
                           "units": len(book["units"]),
-                          "scheme": book["scheme"]}
+                          "scheme": book["scheme"],
+                          **({"rights": book["rights"]} if book.get("rights") else {})}
         print(f"{slug}: {len(book['units'])} units — {book['title']}")
     with open(os.path.join(BOOKS, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=1, ensure_ascii=False)

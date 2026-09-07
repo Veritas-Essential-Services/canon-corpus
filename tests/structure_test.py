@@ -245,5 +245,39 @@ check("thayer: honesty says entries are NOT segmented",
       "NOT segmented" in tb["scheme"]["honesty"])
 os.unlink(th_path)
 
+# ------------------------------------------------------------ STEPBible Greek
+# Every case is a defect measured against the live files on 2026-09-06. Two of
+# them silently LOSE TEXT, which is why they are frozen here.
+STEP_FIX = (
+    "header line, ignored\n"
+    # same Strong's number, two different words -- keying on col0 drops one
+    "G0001\tG0001G =\tG0001G\t\u03B1, \u1F08\u03BB\u03C6\u03B1\tAlpha\tG:N-LI\tAlpha\t"
+    '<b>\u1F04\u03BB\u03C6\u03B1</b>, <a href="x" title="quoted \u03C3\u03C5\u03BB\u03BB\u03B1\u03B2\u1F74\u03BD">Refs</a>\n'
+    "G0001\tG0001H =\tG0001H\t\u1F86\ta\tG:INJ\tah!\t<b>\u1F14\u1FB1</b>, interjection\n"
+    # col2 is a TARGET, not a key -- keying on it merges these two entries
+    "G0623\tG0623 = a Name of\tG0003\t\u1F08\u03C0\u03BF\u03BB\u03BB\u03CD\u03C9\u03BD\tApolluon\tN:N--T\tApollyon\t<b>x</b>\n"
+    # compound target: 'G0473 (G0473+G3739)' is a key plus its parts
+    "G0503\tG0503 = a Combination of\tG0473 (G0473+G3739)\t\u1F00\u03BD\u03C4\u03AF\tanti\tG:P\tover against\t<b>y</b>\n")
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(STEP_FIX); step_path = f.name
+sb = st.convert_stepbible_greek([step_path], "lsj-greek", "T", "A", "n.")
+byid = {u["id"]: u for u in sb["units"]}
+check("stepbible: keyed on the EXTENDED number, so one Strong's number can hold two words",
+      "lsj-greek:G0001G" in byid and "lsj-greek:G0001H" in byid
+      and byid["lsj-greek:G0001G"]["text"] != byid["lsj-greek:G0001H"]["text"])
+check("stepbible: column 2 is a cross-reference TARGET, not the entry key",
+      "lsj-greek:G0623" in byid
+      and [l["target"] for l in byid["lsj-greek:G0623"]["links"]] == ["lsj-greek:G0003"])
+check("stepbible: a compound target yields the key AND its parts, no dangling string",
+      {l["target"] for l in byid["lsj-greek:G0503"]["links"]}
+      == {"lsj-greek:G0473", "lsj-greek:G3739"})
+check("stepbible: Greek quoted inside title= attributes survives tag-stripping",
+      "\u03C3\u03C5\u03BB\u03BB\u03B1\u03B2\u1F74\u03BD" in byid["lsj-greek:G0001G"]["text"])
+check("stepbible: non-PD source carries a rights block that names the limit",
+      sb["rights"]["redistribute_whole"] is False
+      and sb["rights"]["license"] == "CC BY 4.0"
+      and sb["rights"]["attribution"] and sb["rights"]["source_url"])
+os.unlink(step_path)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

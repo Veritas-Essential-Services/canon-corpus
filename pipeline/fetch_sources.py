@@ -88,6 +88,34 @@ LEXICONS = {
         "Strong's Greek Dictionary (James Strong, 1890 — PD). OpenScriptures "
         "strongs repo. 5,624 entries = the complete G1–G5624 numbering "
         "(verified 2026-09-06). Unicode Greek intact."),
+    # STEPBible Greek. CC BY 4.0 — NOT public domain, and the only non-PD
+    # material in this repo. Adam's call, 2026-09-06: collect and use, do not
+    # redistribute in whole. The licence permits redistribution; the
+    # maintainers ASK that people be pointed at github.com/STEPBible instead
+    # so corrections flow from one source. Honored structurally, not just in
+    # prose: these land in data/corpus/ and build to data/books/*.json, both
+    # gitignored, so only the manifest pointer is ever committed. The built
+    # books carry rights.redistribute_whole = false; anything serving this
+    # corpus must respect it.
+    "tbesg-greek": (
+        "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/master/Lexicons/"
+        "TBESG%20-%20Translators%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20STEPBible.org%20CC%20BY.txt",
+        "tbesg-greek.txt",
+        "Translators Brief lexicon of Extended Strongs for Greek — Abbott-Smith "
+        "(1922, PD) definitions edited to extended Strong's by Tyndale House. "
+        "CC BY 4.0. 9,550 entries."),
+    "tflsj-greek-0-5624": (
+        "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/master/Lexicons/"
+        "TFLSJ%20%200-5624%20-%20Translators%20Formatted%20full%20LSJ%20Bible%20lexicon%20-%20STEPBible.org%20CC%20BY.txt",
+        "tflsj-greek-0-5624.txt",
+        "Full Liddell-Scott-Jones, Bible edition, G0-G5624 — LSJ edited by "
+        "Tyndale House scholars. CC BY 4.0. 5,709 entries, 2.17M Greek chars."),
+    "tflsj-greek-extra": (
+        "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/master/Lexicons/"
+        "TFLSJ%20extra%20-%20Translators%20Formatted%20full%20LSJ%20Bible%20lexicon%20-%20STEPBible.org%20CC%20BY.txt",
+        "tflsj-greek-extra.txt",
+        "Full LSJ, the G6000+ extras (LXX and variant vocabulary beyond Strong's "
+        "range). CC BY 4.0. 3,840 entries."),
     "bdb-hebrew": (
         "https://raw.githubusercontent.com/eliranwong/unabridged-BDB-Hebrew-lexicon/"
         "master/unabridged-BDB-Hebrew-lexicon.csv.zip",
