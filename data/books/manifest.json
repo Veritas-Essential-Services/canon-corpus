@@ -784,11 +784,11 @@
   "author": "William Shakespeare",
   "format": "gutenberg-txt",
   "sha256": "3cf4b3d44ee14cff4e14e78e2ad3318eff76f3f7f2afc3cee6bb925879110a37",
-  "units": 38434,
+  "units": 39360,
   "scheme": {
-   "citation": "Play, Act Scene (speech-block)",
-   "resolution": "speech-block",
-   "honesty": "play/act/scene detected from headings; block = speech or paragraph within scene, not through-numbered line"
+   "citation": "play.act.scene.line (e.g. shakespeare:macbeth.5.5.17)",
+   "resolution": "speech-block, with its line range",
+   "honesty": "act/scene from headings; lineation preserved from the source; lines numbered per scene, counting spoken lines only (speaker names and stage directions excluded, as an editor excludes them). This Gutenberg text is our edition of record: numbers land within a line or two of standard editions where verse is unshared, and drift further where editors join a verse line split between speakers. Verify against a printed edition before any number is published as exact."
   }
  },
  "strongs-hebrew": {

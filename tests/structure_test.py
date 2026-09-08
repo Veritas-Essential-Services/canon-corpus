@@ -136,6 +136,14 @@ ACT I
 Scene I.
 
 ACT V
+Scene V.
+
+Dramatis Personæ
+
+MACBETH, a general
+
+ACT V
+
 SCENE V.
 
 MACBETH.

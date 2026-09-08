@@ -836,58 +836,212 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
 
 RE_SH_ACT = re.compile(r"^ACT\s+([IVXL]+)", re.I)
 RE_SH_SCENE = re.compile(r"^SCENE\s+([IVXL0-9]+)", re.I)
-RE_SH_PLAY = re.compile(r"^[A-Z][A-Z0-9 ,'&-]{5,58}$")
+# The class must admit the CURLY apostrophe (U+2019) and the semicolon. Until
+# 2026-09-07 it held only the ASCII apostrophe, so five real plays were never
+# detected at all and their text was filed under whichever play preceded them:
+# ALL'S WELL, LOVE'S LABOUR'S LOST, A MIDSUMMER NIGHT'S DREAM, THE WINTER'S TALE
+# (curly apostrophe) and TWELFTH NIGHT; OR, WHAT YOU WILL (semicolon).
+RE_SH_PLAY = re.compile("^[A-Z][A-Z0-9 ,;.'’&-]{5,70}$")
 SH_NOTPLAY = re.compile(r"^(ACT|SCENE|CONTENTS|DRAMATIS|PROLOGUE|EPILOGUE|CHORUS|"
                         r"THE END|FINIS|INDUCTION|PERSONS|THE PERSONS)\b", re.I)
 
+# What an editor does NOT give a line number to: the speaker's name, and a
+# stage direction. Counting those put "To be, or not to be" at line 86 when
+# every printed edition calls it 3.1.56 — a citation that looks exact and is
+# thirty lines wrong, which is worse than no line number at all.
+RE_SH_SPEAKER = re.compile(r"^[A-Z][A-Z0-9 ,'’.-]{0,31}\.$")
+RE_SH_STAGE = re.compile(r"^\[|^(Enter|Exit|Exeunt|Re-enter|Alarum|Flourish|"
+                         r"Sennet|Retreat|Manet)\b")
+def sh_numbered(t):
+    """True if this line takes a line number."""
+    return not (RE_SH_SPEAKER.match(t) or RE_SH_STAGE.match(t))
+
+# A row of a play's own contents table, not a division of the play itself.
+RE_SH_CONTENTS_ROW = re.compile(
+    r"^(Contents|ACT\b|INDUCTION\b|PROLOGUE\b|EPILOGUE\b|Scene\b)", re.I)
+RE_SH_DRAMATIS = re.compile(r"^(Dramatis\s+Person|DRAMATIS\s+PERSON)", re.I)
+
+SH_ROMAN = [("XL",40),("X",10),("IX",9),("V",5),("IV",4),("I",1)]
+def sh_roman(r):
+    """Roman numeral -> int, for act and scene numbers. Returns 0 if unreadable."""
+    r = (r or "").upper().strip()
+    if r.isdigit(): return int(r)
+    total, i = 0, 0
+    vals = {"I":1,"V":5,"X":10,"L":50,"C":100}
+    while i < len(r):
+        if r[i] not in vals: return 0
+        if i+1 < len(r) and r[i+1] in vals and vals[r[i+1]] > vals[r[i]]:
+            total += vals[r[i+1]] - vals[r[i]]; i += 2
+        else:
+            total += vals[r[i]]; i += 1
+    return total
+
+# Regnal numbers, so the histories slug as scholars name them.
+SH_REGNAL = {"second":"ii","third":"iii","fourth":"iv","fifth":"v",
+             "sixth":"vi","eighth":"viii"}
+# NOT "the comedy of": stripping it leaves "errors", which names nothing.
+SH_STRIP = [r"^the tragedy of ", r"^the tragedie of ",
+            r"^the life and death of ", r"^the life of ", r"^the history of ",
+            r"^the famous history of the life of ", r"^the "]
+
+def sh_play_slug(title):
+    """A stable, readable slug per play, derived from the title itself rather
+    than from a hand-written abbreviation table (which would be one more thing
+    to get wrong). 'The Tragedy Of Macbeth' -> macbeth; 'The First Part Of King
+    Henry The Fourth' -> henry-iv-1."""
+    t = re.sub(r"\s+", " ", title.strip().lower()).replace("’", "'")
+    m = re.match(r"^the (first|second|third) part of (?:king )?henry the (\w+)", t)
+    if m:
+        part = {"first":"1","second":"2","third":"3"}[m.group(1)]
+        return "henry-%s-%s" % (SH_REGNAL.get(m.group(2), m.group(2)), part)
+    m = re.match(r"^(?:the life (?:and death )?of )?king (henry|richard|john)"
+                 r"(?: the (\w+))?", t)
+    if m:
+        reg = SH_REGNAL.get(m.group(2) or "", m.group(2) or "")
+        if not reg:                      # King John: no regnal number
+            return "king-%s" % m.group(1)
+        return ("%s-%s" % (m.group(1), reg)).strip("-")
+    for pat in SH_STRIP:
+        t2 = re.sub(pat, "", t)
+        if t2 != t: t = t2; break
+    t = t.split(",")[0].split(";")[0]
+    t = re.sub(r"[^a-z0-9 ]", "", t)
+    return re.sub(r"\s+", "-", t.strip())[:40] or "untitled"
+
 def convert_shakespeare(path, slug="shakespeare"):
-    """Complete Works (Gutenberg 100): play -> act -> scene -> speech-block.
-    Play = ALL-CAPS heading (no trailing period) whose next ~10 lines contain
-    an ACT or 'Contents' marker; disambiguates play titles from SPEAKER lines."""
+    """Complete Works (Gutenberg 100): play -> act -> scene -> speech-block,
+    with the verse LINEATION PRESERVED and each block carrying its line range.
+
+    Before 2026-09-07 this joined every line of a speech with a space, so
+    "To be, or not to be" was stored as one 1,505-character prose paragraph and
+    0 of 38,434 units contained a newline. The source has perfect lineation;
+    the parser was destroying it. Line numbers are therefore never IN the text
+    — they are a property of the line, rendered in a gutter, so a reader copies
+    the poem and gets the poem.
+
+    A play heading is an ALL-CAPS line followed, past blanks, by a line reading
+    exactly "Contents". That is what separates a real title from a Dramatis
+    Personae entry (A COURTESAN, BANDITTI, PRIEST, SHERIFF OF WILTSHIRE were all
+    previously admitted as plays) and from the table of contents at the front.
+    """
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
     lines = raw.splitlines()
     units = []
-    play = act = scene = None
-    pidx = bidx = 0
-    buf = []
+    play = playslug = None
+    act = scene = None
+    act_n = scene_n = 0
+    lineno = 0                    # running line within the current scene
+    buf = []                      # [(lineno, text)]
+    nonlocal_stage = [0]          # stage directions seen, for their ids
+    in_contents = False           # inside a play's own table of contents
+    contents_run = 0              # lines consumed by it, as a safety cap
+
+    def ref_now():
+        r = play
+        if act: r += ", Act %s" % act
+        if scene: r += " Sc. %s" % scene
+        return r
+
     def flush():
-        nonlocal buf, bidx
-        text = " ".join(x.strip() for x in buf if x.strip()).strip()
+        nonlocal buf
+        rows = [(n, t) for n, t in buf if t]
         buf = []
-        if text and play:
-            bidx_local = len(units)
-            loc = f"{play}"
-            if act: loc += f", Act {act}"
-            if scene: loc += f" Sc. {scene}"
-            units.append({"id": f"{slug}:{pidx}.{bidx}", "ref": loc,
-                          "text": text, "links": []})
+        if not rows or not playslug:
+            return
+        text = "\n".join(t for _, t in rows)
+        numbered = [n for n, _ in rows if n]
+        if not numbered:
+            # A stage direction standing alone. It takes no line number, but it
+            # is still text and must stay findable — dropping it would quietly
+            # delete "Enter Hamlet." and 5,000 like it from the corpus.
+            nonlocal_stage[0] += 1
+            units.append({
+                "id": "%s:%s.%d.%d.%ds%d" % (slug, playslug, act_n, scene_n,
+                                             lineno, nonlocal_stage[0]),
+                "ref": ref_now(), "text": text, "lines": None,
+                "kind": "stage", "links": []})
+            return
+        first, last = numbered[0], numbered[-1]
+        units.append({
+            "id": "%s:%s.%d.%d.%d" % (slug, playslug, act_n, scene_n, first),
+            "ref": ref_now(), "text": text,
+            "lines": [first, last],          # the range, for the citation
+            "links": []})
+
     for i, line in enumerate(lines):
         t = line.strip()
+
+        # Each play opens with its own table of contents, whose entries read
+        # "ACT V" and "Scene II" and were being consumed as real act/scene
+        # markers. The front matter then inherited the LAST act and scene in
+        # the table, and its units collided with the real Act V Scene II later
+        # in the play — 263 duplicate ids across 38 plays. Skip the table.
+        if in_contents:
+            contents_run += 1
+            # The table ends at the cast list. Not at "the first line that isn't
+            # a contents row": plays differ, and Antony puts each scene's title
+            # on the line AFTER its "Scene I." — which ended the block early and
+            # emitted the whole table as text.
+            # Ends at the cast list. Verified 2026-09-08: all 38 plays carry a
+            # "Dramatis Personae" block within 220 lines of their heading, so
+            # this terminator is sufficient; the 200-line cap is the seatbelt.
+            # (Ending on the first speaker label instead looks tempting and is
+            # wrong: Romeo's table trips it early and emits the cast heading as
+            # a unit at 5.3.1, colliding with the real Act V Scene III.)
+            if RE_SH_DRAMATIS.match(t) or contents_run > 200:
+                in_contents = False   # fall through and treat this line normally
+            else:
+                continue
+
         am = RE_SH_ACT.match(t)
         if am:
-            flush(); act, scene = am.group(1), None; continue
+            flush(); act, act_n = am.group(1), sh_roman(am.group(1))
+            scene, scene_n, lineno = None, 0, 0
+            continue
         sm = RE_SH_SCENE.match(t)
         if sm:
-            flush(); scene = sm.group(1); continue
+            flush(); scene, scene_n = sm.group(1), sh_roman(sm.group(1))
+            lineno = 0; nonlocal_stage[0] = 0
+            continue
         if (RE_SH_PLAY.match(t) and not t.endswith(".") and not SH_NOTPLAY.match(t)):
-            lookahead = "\n".join(lines[i + 1:i + 11])
-            if re.search(r"^\s*(ACT\s+[IVX]|Contents|Dramatis)", lookahead, re.M | re.I):
+            # A play's own heading is followed by its Contents block. The TOC at
+            # the front is followed by more titles; a Dramatis entry by more names.
+            ahead = [x.strip() for x in lines[i + 1:i + 9]]
+            if any(x == "Contents" for x in ahead):
                 flush()
                 play, act, scene = t.title(), None, None
-                pidx += 1; bidx = 0
+                playslug = sh_play_slug(t)
+                act_n = scene_n = lineno = 0
+                nonlocal_stage[0] = 0
+                in_contents = True     # the heading rule guarantees one follows
+                contents_run = 0
                 continue
         if not t:
-            if buf: flush(); bidx += 1
+            if buf: flush()
         else:
-            buf.append(t)
+            # Speaker labels and stage directions stay in the text but take no
+            # line number, which is how an edition counts.
+            if sh_numbered(t):
+                lineno += 1
+                buf.append((lineno, t))
+            else:
+                buf.append((0, t))
     flush()
     return {"slug": slug, "title": "The Complete Works of William Shakespeare",
             "author": "William Shakespeare",
             "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt",
                        "sha256": sha256(path)},
-            "scheme": {"citation": "Play, Act Scene (speech-block)", "resolution": "speech-block",
-                       "honesty": "play/act/scene detected from headings; block = speech or "
-                                  "paragraph within scene, not through-numbered line"},
+            "scheme": {"citation": "play.act.scene.line (e.g. shakespeare:macbeth.5.5.17)",
+                       "resolution": "speech-block, with its line range",
+                       "honesty": "act/scene from headings; lineation preserved from "
+                                  "the source; lines numbered per scene, counting spoken "
+                                  "lines only (speaker names and stage directions excluded, "
+                                  "as an editor excludes them). This Gutenberg text is our "
+                                  "edition of record: numbers land within a line or two of "
+                                  "standard editions where verse is unshared, and drift "
+                                  "further where editors join a verse line split between "
+                                  "speakers. Verify against a printed edition before any "
+                                  "number is published as exact."},
             "units": [u for u in units if len(u["text"]) > 1]}
 
 # slug -> converter job. Verse works give (abbr, division-regex[, cantica]).
