@@ -224,7 +224,12 @@ KJV_BOOKS = [
     ("The Revelation of Saint John the Divine", "Rev", "Revelation"),
 ]
 TITLE2OSIS = {t: (o, n) for t, o, n in KJV_BOOKS}
-RE_VMARK = re.compile(r"(?:(?<=^)|(?<=\s))(\d+):(\d+)\s+")  # markers appear inline too
+RE_VMARK = re.compile(r"(?:(?<=^)|(?<=\s))(\d+):(\d+)(?:\s+|$)")  # markers appear inline too,
+# and -- the 420-verse bug, fixed 2026-09-11 -- at END OF LINE. Gutenberg hard-wraps
+# at ~70 chars; when the wrap falls immediately after a marker there is no trailing
+# whitespace for \s+ to match, so the marker was read as body text and its whole verse
+# merged into the previous one. 420 of 31,102 verses vanished this way, scattered over
+# 60+ books, while scheme.honesty still said "exact".
 
 def convert_kjv(path, slug="kjv"):
     units, cur = [], None
@@ -254,11 +259,11 @@ def convert_kjv(path, slug="kjv"):
             marks = list(RE_VMARK.finditer(t))
             if not marks:
                 if cur:
-                    cur["text"] += " " + t
+                    cur["text"] = (cur["text"] + " " + t).strip() if cur["text"] else t
                 continue
             lead = t[:marks[0].start()].strip()
             if cur and lead:
-                cur["text"] += " " + lead
+                cur["text"] = (cur["text"] + " " + lead).strip() if cur["text"] else lead
             for k, m in enumerate(marks):
                 if cur:
                     units.append(cur)
@@ -266,6 +271,7 @@ def convert_kjv(path, slug="kjv"):
                 seg = t[m.end(): marks[k + 1].start() if k + 1 < len(marks) else len(t)].strip()
                 cur = {"id": f"{slug}:{book_osis}.{c}.{v}",
                        "ref": f"{book_name} {c}:{v}", "text": seg, "links": []}
+                # seg is "" when the marker ended the line; the next line fills it
     if cur:
         units.append(cur)
     return {"slug": slug, "title": "The Holy Bible (KJV)", "author": "—",
@@ -775,11 +781,101 @@ def _flush_verse(units, slug, abbr, div, lines):
                       "ref": f"{abbr} {div}.{start}", "text": " ".join(block),
                       "links": []})
 
+# ---------------------------------------------- per-book body extraction
+#
+# Gutenberg files ship the apparatus INSIDE the work: a translator's
+# introduction, a glossary, an appendix of corrections, a parallel
+# transliteration. None of it is marked as anything other than more text, so a
+# converter reads it as the author's own words and every measurement
+# downstream inherits it. Rule 2 says never hand-edit a source text, so the
+# boundaries live here and rerun on every refetch.
+#
+# Found 2026-09-11 by phrase extraction, which is a good apparatus detector
+# precisely because apparatus repeats itself:
+#   gilgamesh  -- ~70% of the file is Jastrow's monograph plus two blocks of
+#                 transliterated Akkadian. Its top "fingerprint phrases" were
+#                 `iz za ka r am a` and `i pu sa am ma iz`.
+#   beowulf    -- CONTENTS at line 64 opens a roman-numeral division that then
+#                 swallows the preface, bibliography and both glossaries; the
+#                 poem's own `I.` is not until line 937. The glossary of proper
+#                 names was sitting inside unit Beo XIV.217.
+
+BODY_RULES = {
+    "beowulf": {
+        "start_at": r"^I\.\s*$", "start_min_line": 900,
+        "stop_at":  r"^ADDENDA\.",
+        "scrub": [r"\[\s*\d{1,3}\s*\]",   # inline footnote references
+                  r"\{[^}]*\}"],            # the translator's marginal glosses
+    },
+    "gilgamesh": {
+        # The English epic appears ONLY inside TRANSLATION sections.
+        "keep_between": (r"^TRANSLATION\.\s*$",
+                         r"^(?:TRANSLITERATION\.|CORRECTIONS\b|APPENDIX\b|NOTES\b)"),
+        # Jastrow's philological notes are interleaved with the translation and
+        # have no header, so they cannot be a section boundary -- treating them
+        # as one cut the epic from 12,268 words to 2,461. They are PARAGRAPH
+        # shaped: they open with "Line NN." and run to the next blank line.
+        "scrub": [r"\[\s*\d{1,3}\s*\]",
+                  r"(?m)^Lines?\s+\d+[^\n]*(?:\n(?!\s*$)[^\n]*)*"],
+    },
+}
+
+def apply_body_rules(raw, slug):
+    """Keep only the lines that are the work. Returns (text, note); the note
+    goes into scheme.apparatus so the file states what was removed (rule 4)."""
+    r = BODY_RULES.get(slug)
+    if not r:
+        return raw, None
+    lines = raw.splitlines()
+    n0 = len(lines)
+    if "keep_between" in r:
+        start_rx, stop_rx = (re.compile(x) for x in r["keep_between"])
+        out, keeping = [], False
+        for ln in lines:
+            t = ln.strip()
+            if start_rx.match(t):
+                keeping = True
+                continue
+            if keeping and stop_rx.match(t):
+                keeping = False
+                continue
+            if keeping:
+                out.append(ln)
+        lines = out
+    else:
+        start_rx = re.compile(r["start_at"])
+        stop_rx = re.compile(r["stop_at"]) if r.get("stop_at") else None
+        lo = 0
+        for i, ln in enumerate(lines):
+            if i + 1 >= r.get("start_min_line", 0) and start_rx.match(ln.strip()):
+                lo = i
+                break
+        hi = len(lines)
+        if stop_rx:
+            for i in range(lo, len(lines)):
+                if stop_rx.match(lines[i].strip()):
+                    hi = i
+                    break
+        lines = lines[lo:hi]
+    # scrubs run over the joined text, not line by line: a translator's
+    # marginal gloss routinely opens on one line and closes on the next, and a
+    # per-line regex silently leaves both halves behind.
+    text = "\n".join(lines)
+    for pat in r.get("scrub", []):
+        text = re.compile(pat, re.S).sub(" ", text)
+    lines = text.splitlines()
+    note = (f"apparatus removed by BODY_RULES: kept {len(lines)} of {n0} source "
+            f"lines; the remainder is front matter, glossary, appendix or "
+            f"non-English parallel text, not the work")
+    return "\n".join(lines), note
+
+
 def convert_gutenberg_verse(path, slug, title, author, abbr, divre, cantica=None):
     """Verse works: divisions (book/canto), 12-line blocks. `cantica` maps a
     higher header (HELL->Inf) so Divine Comedy gets Inf/Purg/Par prefixes.
     Contents-list entries collapse: their between-heading segment is empty."""
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
+    raw, apparatus_note = apply_body_rules(raw, slug)
     units, div, cur_cantica, buf = [], None, "", []
     DIV = re.compile(divre)
     CANT = re.compile(cantica[0]) if cantica else None
@@ -805,7 +901,7 @@ def convert_gutenberg_verse(path, slug, title, author, abbr, divre, cantica=None
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt",
                        "sha256": sha256(path)},
-            "scheme": {"citation": f"{abbr} division.line", "resolution": "line-block",
+            "scheme": {"apparatus": apparatus_note, "citation": f"{abbr} division.line", "resolution": "line-block",
                        "honesty": "division exact; line = running line within division "
                                   "(translation lineation), 12-line blocks"},
             "units": units}
@@ -813,6 +909,7 @@ def convert_gutenberg_verse(path, slug, title, author, abbr, divre, cantica=None
 def convert_gutenberg_prose(path, slug, title, author, chapre):
     """Prose: paragraphs grouped under detected chapter headings."""
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
+    raw, apparatus_note = apply_body_rules(raw, slug)
     CH = re.compile(chapre) if chapre else None
     units, chap, pnum = [], None, 0
     for para in re.split(r"\n\s*\n", raw):
@@ -830,7 +927,7 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt",
                        "sha256": sha256(path)},
-            "scheme": {"citation": "chapter + paragraph", "resolution": "paragraph",
+            "scheme": {"apparatus": apparatus_note, "citation": "chapter + paragraph", "resolution": "paragraph",
                        "honesty": "chapter headings detected; paragraph running within chapter"},
             "units": units}
 

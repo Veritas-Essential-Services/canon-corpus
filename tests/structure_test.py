@@ -287,5 +287,35 @@ check("stepbible: non-PD source carries a rights block that names the limit",
       and sb["rights"]["attribution"] and sb["rights"]["source_url"])
 os.unlink(step_path)
 
+# ---------------------------------------------------------------- 2026-09-11
+# Three defects found by phrase extraction, each of which passed every check
+# the suite had at the time. Apparatus and dropped verses are invisible to a
+# parser that has no opinion about what the work is.
+
+# (1) the 420-verse bug: a verse marker at END OF LINE. Gutenberg hard-wraps at
+# ~70 chars; when the wrap lands right after a marker there is no trailing
+# whitespace, so RE_VMARK missed it, the marker was read as body text, and the
+# whole verse merged into its predecessor. 420 of 31,102 verses, silently.
+_eol = st.RE_VMARK.findall("and begat Jared: 5:16")
+check("kjv: verse marker at end of line is still a marker", _eol == [("5", "16")])
+check("kjv: marker mid-line still works",
+      st.RE_VMARK.findall("5:15 And Mahalaleel lived: 5:16 And") == [("5", "15"), ("5", "16")])
+check("kjv: a bare colon is not a marker", st.RE_VMARK.findall("daughters:") == [])
+
+# (2) apparatus inside the work -- BODY_RULES must remove it and say so
+_body, _note = st.apply_body_rules("alpha\nTRANSLATION.\nthe epic itself\n"
+                                   "TRANSLITERATION.\nsa-am-ha-ku-ma\n", "gilgamesh")
+check("body rules: keeps only TRANSLATION sections", _body.strip() == "the epic itself")
+check("body rules: records what it removed", _note and "apparatus removed" in _note)
+_b2, _n2 = st.apply_body_rules("x\ny\n", "treasure_island")
+check("body rules: a work with no rule is untouched", _b2 == "x\ny\n" and _n2 is None)
+
+# (3) a translator's marginal gloss opens on one line and closes on the next,
+# so the scrub has to run over the joined text or it leaves both halves behind
+_g, _ = st.apply_body_rules("\n".join(["I."] * 0 + ["I.", "line one {a gloss that",
+                                                     "runs on} line two", "ADDENDA."]), "beowulf")
+check("body rules: multi-line gloss is removed whole", "{" not in _g and "}" not in _g)
+check("body rules: text around the gloss survives", "line two" in _g)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
