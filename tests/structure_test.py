@@ -317,5 +317,95 @@ _g, _ = st.apply_body_rules("\n".join(["I."] * 0 + ["I.", "line one {a gloss tha
 check("body rules: multi-line gloss is removed whole", "{" not in _g and "}" not in _g)
 check("body rules: text around the gloss survives", "line two" in _g)
 
+# ------------------------------------------- Shakespeare: the six poems
+# The Complete Works is 38 plays AND 6 poems. The parser recognised a work by
+# "an ALL-CAPS line with a Contents block after it", and not one of the six
+# poems has one. So The Sonnets -- which sit before the first play -- were
+# DROPPED ENTIRELY, all 154 of them, with no error; and A Lover's Complaint,
+# The Passionate Pilgrim, The Phoenix and the Turtle, The Rape of Lucrece and
+# Venus and Adonis were filed as 609 lines of The Winter's Tale, Act V Sc. iii.
+
+# str.title() capitalises the letter after an apostrophe. The play's name is in
+# the ref of EVERY one of its units, so this reached search results and copied
+# citations, not only a heading.
+check("shakespeare: apostrophes are not capitalised",
+      st.sh_titlecase("ALL’S WELL THAT ENDS WELL") == "All’s Well That Ends Well")
+check("shakespeare: small words in a title stay small",
+      st.sh_titlecase("THE TRAGEDY OF ANTONY AND CLEOPATRA")
+      == "The Tragedy of Antony and Cleopatra")
+check("shakespeare: the first word is never lowered",
+      st.sh_titlecase("A MIDSUMMER NIGHT’S DREAM") == "A Midsummer Night’s Dream")
+
+# Where the poem proper begins. Prose apparatus is hard-wrapped to 71 columns;
+# no verse line in the six poems exceeds 56. Lucrece line 1 must be "From the
+# besieged Ardea all in post" and not the first line of its dedication.
+_LUC = [["TO THE RIGHT HONOURABLE", "HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON,",
+         "and Baron of Titchfield."],
+        ["The love I dedicate to your Lordship is without end; whereof this",
+         "pamphlet, without beginning, is but a superfluous moiety. The warrant"],
+        ["THE ARGUMENT."],
+        ["Lucius Tarquinius (for his excessive pride surnamed Superbus), after he",
+         "had caused his own father-in-law, Servius Tullius, to be cruelly"],
+        ["From the besieged Ardea all in post,", "Borne by the trustless wings of",
+         "false desire,", "Lust-breathed Tarquin leaves the Roman host,"]]
+check("shakespeare: a poem starts after its dedication and argument",
+      st._sh_poem_start(_LUC) == 4)
+check("shakespeare: an ALL-CAPS block is apparatus, not the poem's first line",
+      st._sh_poem_start([["TO THE RIGHT HONOURABLE", "HENRY WRIOTHESLEY,",
+                          "and Baron of Titchfield."],
+                         ["Even as the sun with purple-colour’d face",
+                          "Had ta’en his last leave of the weeping morn,",
+                          "Rose-cheek’d Adonis hied him to the chase;"]]) == 1)
+
+_SON = """THE SONNETS
+
+                    1
+
+From fairest creatures we desire increase,
+That thereby beauty’s rose might never die,
+
+                    2
+
+When forty winters shall besiege thy brow,
+And dig deep trenches in thy beauty’s field,
+
+THE END"""
+_su = st.convert_sh_poem(_SON.splitlines()[1:], "sonnets", "The Sonnets")
+check("shakespeare: each sonnet is one unit, numbered by the text",
+      [u["id"] for u in _su]
+      == ["shakespeare:sonnets.1.1", "shakespeare:sonnets.2.1"])
+check("shakespeare: a sonnet's ref names the sonnet", _su[0]["ref"] == "Sonnet 1")
+check("shakespeare: a sonnet is kept whole, so it copies as a poem",
+      _su[0]["text"].count("\n") == 1 and "beauty’s rose" in _su[0]["text"])
+# "THE END" became line 15 of Sonnet 154, which has fourteen.
+check("shakespeare: Gutenberg's end marker is not a line of the poem",
+      all("THE END" not in u["text"] for u in _su))
+# The sonnet number is itself an indented bare numeral, so a marginal-number
+# stripper without a lookbehind ate it and merged all 154 into one poem.
+check("shakespeare: the sonnet number survives the marginal-number stripper",
+      _su[1]["lines"] == [1, 2])
+
+_VEN = """VENUS AND ADONIS
+
+Even as the sun with purple-colour’d face
+Had ta’en his last leave of the weeping morn,
+Saith that the world hath ending with thy life.     12"""
+_vu = st.convert_sh_poem(_VEN.splitlines()[1:], "venus-and-adonis", "Venus and Adonis")
+check("shakespeare: the printed marginal line number is stripped from the verse",
+      _vu and "12" not in _vu[0]["text"].splitlines()[-1])
+# NOT "l. 1": the scholarly abbreviation for a line is also the Roman numeral
+# L, so the reader's contents read "A Lover's Complaint, l" as a division.
+check("shakespeare: an unsectioned poem cites by a bare line number",
+      _vu[0]["ref"] == "Venus and Adonis, 1" and _vu[0]["lines"] == [1, 3])
+
+# The manifest guard. A work that produces nothing is a build failure -- this
+# is the check whose absence let 154 sonnets disappear without a word.
+check("shakespeare: the book's front Contents is the manifest",
+      st.sh_manifest(["Contents", "", "    THE SONNETS", "    THE TEMPEST",
+                      "    VENUS AND ADONIS", "    CYMBELINE", "    MACBETH", ""])
+      == ["THE SONNETS", "THE TEMPEST", "VENUS AND ADONIS", "CYMBELINE", "MACBETH"])
+check("shakespeare: a play's own act/scene table is not the manifest",
+      st.sh_manifest(["Contents", "", "ACT I", "Scene I.", "ACT V", "Scene V.", ""]) == [])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

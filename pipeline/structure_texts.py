@@ -981,6 +981,163 @@ SH_STRIP = [r"^the tragedy of ", r"^the tragedie of ",
             r"^the life and death of ", r"^the life of ", r"^the history of ",
             r"^the famous history of the life of ", r"^the "]
 
+SH_SMALL = {"a", "an", "and", "as", "at", "but", "by", "for", "from", "if",
+            "in", "into", "nor", "of", "on", "or", "the", "to", "upon", "with"}
+
+def sh_titlecase(s):
+    """ALL'S WELL THAT ENDS WELL -> All's Well That Ends Well.
+
+    str.title() capitalises the letter after an apostrophe, so it produced
+    "All'S Well", "Love'S Labour'S Lost" and "The Winter'S Tale". Not merely a
+    heading: a play's name is in the ref of every one of its units, so the
+    error reached search results and copied citations too.
+    """
+    words = re.sub(r"\s+", " ", (s or "").strip().lower()).split()
+    out = []
+    for i, w in enumerate(words):
+        small = w.strip(",;:.") in SH_SMALL
+        if 0 < i < len(words) - 1 and small:
+            out.append(w)
+        else:
+            out.append(re.sub(r"^([a-z\u00e0-\u00ff])",
+                              lambda m: m.group(1).upper(), w))
+    return " ".join(out)
+
+def sh_manifest(lines):
+    """The works this book says it contains, in order, from its own front
+    Contents -- 38 plays and 6 poems.
+
+    THIS IS THE CHECK THAT WAS MISSING. The Sonnets sit before the first play
+    and have no Contents block of their own, so nothing recognised them as a
+    work: flush() returns early while no work is open, and all 154 were
+    dropped. No error, no warning, and the book still looked right because the
+    38 plays were all present. A parser that can silently lose a sixth of its
+    source needs a manifest to be checked against, and the book carries one.
+    """
+    # EVERY play carries its own "Contents" block too, listing "ACT I" and
+    # "Scene I." -- so take the first Contents whose entries are work TITLES
+    # rather than act and scene rows. Without that the guard read a play's
+    # table as the book's manifest and failed the offline fixture.
+    for start in [i for i, l in enumerate(lines) if l.strip() == "Contents"]:
+        out = []
+        for l in lines[start + 1:start + 90]:
+            t = l.strip()
+            if not t:
+                if out:
+                    break
+                continue
+            out.append(t)
+        if len(out) >= 5 and not any(RE_SH_CONTENTS_ROW.match(t) for t in out):
+            return out
+    return []
+
+RE_SH_SECTION = re.compile(r"^(\d{1,3}|[IVXL]{1,6})$")
+RE_SH_ENDMARK = re.compile(r"^(THE END|FINIS|THE END\.|FINIS\.)$", re.I)
+
+# Venus and Adonis carries the printed edition's marginal line numbers inside
+# the text -- "Saith that the world hath ending with thy life.     12" -- on
+# 196 of its 204 stanzas. Left in, they corrupt the line for reading, copying,
+# search and the vocabulary digest alike.
+# The lookbehind is load-bearing: without it this also ate the SONNET
+# NUMBERS, which are themselves an indented bare numeral on a line of
+# their own, and all 154 sonnets silently merged into one continuous
+# 2,308-line poem. A marginal number only counts as one when the line
+# has text in front of it.
+RE_SH_MARGIN = re.compile(r"(?<=\S)\s{3,}\d{1,4}\s*$")
+
+def _sh_blocks(lines):
+    """Blank-line-separated blocks: a stanza, a sonnet, a paragraph."""
+    out, cur = [], []
+    for l in lines:
+        if l.strip():
+            cur.append(RE_SH_MARGIN.sub("", l).strip())
+        elif cur:
+            out.append(cur); cur = []
+    if cur:
+        out.append(cur)
+    return out
+
+def _sh_allcaps(t):
+    return t.upper() == t and bool(re.search(r"[A-Z]", t))
+
+def _sh_poem_start(blocks):
+    """The block where the poem proper begins, so Lucrece line 1 is "From the
+    besieged Ardea all in post" and not the first line of its dedication.
+
+    Measured across all six poems: the prose apparatus is hard-wrapped and runs
+    to 71 characters, while no verse line in any of them exceeds 56. So a block
+    whose longest line passes 58 is prose, and the poem starts at the first
+    verse-shaped block of three or more lines that follows the last prose seen
+    SO FAR (not the last prose anywhere -- some verse later in the Sonnets runs
+    long, which made a whole-poem scan pick block 199 of Venus) and that does
+    not open with an ALL-CAPS heading: TO THE RIGHT HONOURABLE, THE ARGUMENT.,
+    VENUS AND ADONIS.
+    """
+    last_prose = -1
+    for i, bl in enumerate(blocks):
+        if max(len(x) for x in bl) > 58:
+            last_prose = i
+            continue
+        if len(bl) >= 3 and not _sh_allcaps(bl[0]) and i > last_prose:
+            return i
+    return 0
+
+def convert_sh_poem(lines, slug, title, book="shakespeare"):
+    """One of the six poems, as its own work.
+
+    Sections where the text numbers them (the 154 sonnets; the Passionate
+    Pilgrim's I-XX); otherwise one continuous run of numbered verse lines.
+    Dedications and arguments are kept as unnumbered apparatus so they cannot
+    shift the line numbers of the poem they precede.
+    """
+    blocks = _sh_blocks(lines)
+    start = _sh_poem_start(blocks)
+    units, section, label, lineno, appar = [], 0, None, 0, 0
+    for i, bl in enumerate(blocks):
+        if len(bl) == 1 and RE_SH_SECTION.match(bl[0]):
+            label = bl[0]
+            section = sh_roman(bl[0])
+            lineno = 0
+            continue
+        # Gutenberg's end markers are not lines of the poem. Left in, "THE END"
+        # became line 15 of Sonnet 154, which has fourteen.
+        if len(bl) == 1 and RE_SH_ENDMARK.match(bl[0]):
+            continue
+        text = "\n".join(bl)
+        # A lone ALL-CAPS line inside a poem is a heading, not a line of verse:
+        # "THRENOS" was being numbered, which made The Phoenix and the Turtle
+        # 68 lines long where it is 67. Kept as text, excluded from the count.
+        if i >= start and len(bl) == 1 and _sh_allcaps(bl[0]):
+            appar += 1
+            units.append({
+                "id": "%s:%s.%d.%ds%d" % (book, slug, section, lineno, appar),
+                "ref": title, "text": text, "lines": None,
+                "kind": "heading", "links": []})
+            continue
+        if i < start:
+            appar += 1
+            units.append({
+                "id": "%s:%s.%d.%ds%d" % (book, slug, section, lineno, appar),
+                "ref": title, "text": text, "lines": None,
+                "kind": "apparatus", "links": []})
+            continue
+        first = lineno + 1
+        lineno += len(bl)
+        if slug == "sonnets" and section:
+            ref = "Sonnet %d" % section
+        elif label:
+            ref = "%s, %s" % (title, label)
+        else:
+            # "l. 145" and not ", l." -- the scholarly abbreviation for a line
+            # collides with the Roman numeral L (fifty), so the reader's table
+            # of contents read "A Lover's Complaint, l" as a numbered division
+            # and stopped trimming there. A bare number cites just as well.
+            ref = "%s, %d" % (title, first)
+        units.append({
+            "id": "%s:%s.%d.%d" % (book, slug, section, first),
+            "ref": ref, "text": text, "lines": [first, lineno], "links": []})
+    return units
+
 def sh_play_slug(title):
     """A stable, readable slug per play, derived from the title itself rather
     than from a hand-written abbreviation table (which would be one more thing
@@ -1023,7 +1180,45 @@ def convert_shakespeare(path, slug="shakespeare"):
     """
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
     lines = raw.splitlines()
+
+    # The book's own front Contents is the manifest: 38 plays and 6 poems. The
+    # poems are found here rather than in the main loop, because the loop's
+    # test for a work is "an ALL-CAPS line with a Contents block after it" and
+    # NOT ONE OF THE SIX POEMS HAS ONE. The Sonnets were therefore dropped
+    # outright and the other five were swallowed by whatever play preceded
+    # them -- all of A Lover's Complaint, The Passionate Pilgrim, The Phoenix
+    # and the Turtle, The Rape of Lucrece and Venus and Adonis were filed as
+    # lines of The Winter's Tale, Act V Scene iii.
+    manifest = sh_manifest(lines)
+    man_slugs = [sh_play_slug(t) for t in manifest]
+    poem_at, expect = {}, 0
+    if manifest:
+        # Candidates are taken IN MANIFEST ORDER. A cast list can hold a line
+        # that slugs to a real work -- Richard II's Dramatis Personae opens
+        # with "KING RICHARD THE SECOND" -- and an order-checked gate rejects
+        # it, because that work has already been taken.
+        man_end = next(i for i, l in enumerate(lines) if l.strip() == "Contents") \
+                  + len(manifest)
+        starts = []
+        for i, line in enumerate(lines):
+            if i <= man_end or expect >= len(man_slugs):
+                continue
+            t = line.strip()
+            if not RE_SH_PLAY.match(t) or t.endswith(".") or SH_NOTPLAY.match(t):
+                continue
+            if sh_play_slug(t) != man_slugs[expect]:
+                continue
+            starts.append((i, man_slugs[expect], sh_titlecase(t)))
+            expect += 1
+        for n, (i, sl, title) in enumerate(starts):
+            end = starts[n + 1][0] if n + 1 < len(starts) else len(lines)
+            # A play has acts; a poem does not. That is the whole distinction,
+            # and it is read from the text rather than from a list of titles.
+            if not any(RE_SH_ACT.match(x.strip()) for x in lines[i + 1:end]):
+                poem_at[i] = (sl, title, end)
+
     units = []
+    skip_until = -1
     play = playslug = None
     act = scene = None
     act_n = scene_n = 0
@@ -1066,6 +1261,19 @@ def convert_shakespeare(path, slug="shakespeare"):
             "links": []})
 
     for i, line in enumerate(lines):
+        if i < skip_until:
+            continue
+        if i in poem_at:
+            # Emit the poem HERE, in source order, rather than appending all
+            # six at the end -- the Sonnets come before the first play.
+            flush()
+            p_slug, p_title, p_end = poem_at[i]
+            units.extend(convert_sh_poem(lines[i + 1:p_end], p_slug, p_title, slug))
+            play = playslug = None
+            act = scene = None
+            act_n = scene_n = lineno = 0
+            skip_until = p_end
+            continue
         t = line.strip()
 
         # Each play opens with its own table of contents, whose entries read
@@ -1106,7 +1314,7 @@ def convert_shakespeare(path, slug="shakespeare"):
             ahead = [x.strip() for x in lines[i + 1:i + 9]]
             if any(x == "Contents" for x in ahead):
                 flush()
-                play, act, scene = t.title(), None, None
+                play, act, scene = sh_titlecase(t), None, None
                 playslug = sh_play_slug(t)
                 act_n = scene_n = lineno = 0
                 nonlocal_stage[0] = 0
@@ -1124,12 +1332,25 @@ def convert_shakespeare(path, slug="shakespeare"):
             else:
                 buf.append((0, t))
     flush()
+
+    # 🔴 A work that produced nothing is a BUILD FAILURE, not an omission. This
+    # is the guard whose absence let 154 sonnets disappear without a word.
+    produced = {u["id"].split(":", 1)[1].split(".")[0] for u in units}
+    missing = [t for t, sl in zip(manifest, man_slugs) if sl not in produced]
+    if manifest and missing:
+        raise ValueError(
+            "shakespeare: %d of %d works in the book's own Contents produced no "
+            "units: %s" % (len(missing), len(manifest), ", ".join(missing)))
+
     return {"slug": slug, "title": "The Complete Works of William Shakespeare",
             "author": "William Shakespeare",
             "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt",
                        "sha256": sha256(path)},
-            "scheme": {"citation": "play.act.scene.line (e.g. shakespeare:macbeth.5.5.17)",
-                       "resolution": "speech-block, with its line range",
+            "scheme": {"citation": "plays play.act.scene.line (shakespeare:macbeth.5.5.17); "
+                                   "poems poem.section.line (shakespeare:sonnets.18.1, "
+                                   "shakespeare:venus-and-adonis.0.145)",
+                       "resolution": "speech-block or stanza, with its line range; "
+                                     "a sonnet is one unit, so the poem is copied whole",
                        "honesty": "act/scene from headings; lineation preserved from "
                                   "the source; lines numbered per scene, counting spoken "
                                   "lines only (speaker names and stage directions excluded, "
