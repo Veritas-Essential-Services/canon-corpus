@@ -1,5 +1,29 @@
 # canon-corpus — rules for AI sessions
 
+<!-- board-protocol -->
+## 🔴 Before working this repo — read the board
+
+This repo is one project in a larger estate, and work here has been duplicated
+elsewhere before. **Read these in order, before writing code:**
+
+1. **`MindCastleintheCloud/4 - Indexes/MOC — Project Status.md`** — every project's
+   declared state against its observed activity, plus the cross-project overlap
+   section. **If this project appears in that overlap section, read the project it
+   collides with first.**
+2. **This project's `_STATUS` note** in the vault, if it has one.
+3. **The rest of this file.**
+
+The board is generated from `Claude/Projects/overwatch/seed.yml`. To change what it
+says about this project, edit the seed and run:
+
+```
+cd ../overwatch && python bin/verify_disk.py --write && python bin/build.py
+```
+
+**Before ending a session:** commit here, then update the project's `_STATUS` note
+and **bump its `updated:` date** — the board compares that date against what git
+actually saw, and an unbumped date surfaces as a contradiction within a fortnight.
+
 ## What this is
 The shared source + structure layer of the Canon OS (Rings 1–2): manifest-
 driven fetchers and the structure_texts converters that turn public-domain
