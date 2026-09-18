@@ -43,10 +43,22 @@ The living truth for project state is the Obsidian vault:
    history is the acquisitions ledger — one commit per acquisition wave.
 2. **Never hand-edit a source text.** Fixes live in per-book rules in
    `structure_texts.py` so they rerun on refetch.
-3. **The unit id is the spine** of the whole suite: canonical citation ↔
-   unit id ↔ any edition's page. Do not change existing id schemes without
-   a vault ruling; CTS-URN alignment is pending (ids stay short, manifest
-   records the URN per edition).
+3. **The unit id is the CITATION spine** of the whole suite: canonical
+   citation ↔ unit id ↔ any edition's page. Do not change existing id
+   schemes without a vault ruling; CTS-URN alignment is pending (ids stay
+   short, manifest records the URN per edition).
+3b. **Identity is separate from the citation, and is the `uid`.**
+   `pipeline/wh_uid.py`; the map is `data/uids/wordhoard.uids.json` and is
+   COMMITTED — losing it silently renames every identifier in the Word
+   Hoard. A citation says where to look; a uid says what you will find.
+   Citations are unchanged and are not deprecated. A rebuild of existing
+   content must mint ZERO (`build_witnesses.py --check`).
+   🔴 Normative rules, all of them, in the vault:
+   `9 - Projects/Canon OS/HOUSE STYLE — Addressing and Identity (2026-09-18).md`
+3c. **A passage may have many WITNESSES; a witness has no identity of its
+   own.** `<uid>/<witness>`, e.g. `wh-FXPPV85VPA/kjv.italic`. Two editions
+   of one verse are two witnesses, never two passages. Every book declares
+   its `reading_of_record`.
 4. **Honesty fields are load-bearing.** Every book's `scheme.honesty`
    states its real citation resolution; never pretend precision.
 5. **Builds are resumable + atomic** (temp-file + rename; skip finished
@@ -59,7 +71,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 18 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 60 offline checks (no corpus needed)
+    python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
+    python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)

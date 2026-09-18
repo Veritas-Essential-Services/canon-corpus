@@ -6,3 +6,11 @@ data/corpus/
 data/books/*.json
 !data/books/manifest.json
 data/markdown/
+
+# Identity is NOT derived and NOT rebuildable. data/uids/ is the single home
+# for the citation -> uid map and its tombstones; losing it silently renames
+# every identifier in the Word Hoard. Never ignore it, and never regenerate it
+# from scratch -- a build that mints where it should reuse is a bug, not a
+# refresh. See pipeline/wh_uid.py.
+!data/uids/
+!data/uids/*.json
