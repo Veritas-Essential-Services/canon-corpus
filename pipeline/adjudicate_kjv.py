@@ -15,10 +15,10 @@ WHY A THIRD READING
     nothing left the document; it cannot prove text landed in the right node."
 
     The arbiter here is data/corpus/kjv_bible.txt, the raw Gutenberg file, read
-    by this script with its own parser. That is non-circular for kjv.plain
-    (whose converter it tests) and it is an INDEPENDENT EDITION for kjv.italic
-    (pythonbible). So it can settle a converter bug outright, and it can only
-    CLASSIFY an edition difference -- never resolve one.
+    by this script with its own parser -- non-circular for kjv.plain, whose
+    converter it tests, and an INDEPENDENT EDITION relative to kjv.italic
+    (pythonbible). It settles STRUCTURE outright. It does not settle text; see
+    the corrected note below.
 
 WHAT THIS SCRIPT WILL NOT DO
     It does not repair, complete, paraphrase or normalise a single word. Rule
@@ -26,6 +26,24 @@ WHAT THIS SCRIPT WILL NOT DO
     difference between two published editions of the KJV is not an error in
     either, and a script that silently picked a winner would be manufacturing
     a text that no edition prints.
+
+WHAT THE THIRD READING IS AND IS NOT USED FOR -- corrected 2026-09-18
+    It is the arbiter of STRUCTURE: how many verses the source prints, in how
+    many books and chapters, with what gaps. That census is sound and it is
+    what proved the corpus verse-perfect.
+
+    It is NOT used to adjudicate TEXT, because cross-validation caught this
+    parser bleeding the next book's printed heading into the last verse of the
+    preceding one -- 66 verses, one per book, `Gen.50.26` ending "...in a
+    coffin in Egypt. The Seco[nd Book of Moses]". structure_texts.convert_kjv
+    knows the book titles and cuts there correctly; this parser deliberately
+    matches no heading string, which is exactly why it cannot find that edge.
+
+    The bug was found by the discipline this script exists to apply, pointed at
+    the script itself: a second reading disagreed, and the disagreement was a
+    defect in the newer reading. It is recorded rather than quietly patched
+    because the same trap will catch the next person who segments a corpus
+    structurally and forgets that structure has furniture in it.
 
 VERSE-PERFECT vs WORD-PERFECT
     verse-perfect  every verse the source prints exists as its own unit, with
@@ -246,8 +264,9 @@ def main(strict=False):
     print("=" * 74)
     print("WORD-LEVEL ADJUDICATION -- every disagreement classified, none repaired")
     print("=" * 74)
-    pairs = [("kjv.plain", "kjv.italic"),
-             ("source", "kjv.plain"), ("source", "kjv.italic")]
+    # The source is deliberately absent here -- structure only. See the
+    # docstring: its last-verse text carries heading bleed.
+    pairs = [("kjv.plain", "kjv.italic")]
     lookup = {"source": src, "kjv.plain": books["kjv.plain"],
               "kjv.italic": books["kjv.italic"]}
     out = {"generated_against": {"source": os.path.relpath(SRC, ROOT)},
@@ -286,20 +305,25 @@ def main(strict=False):
     print("VERDICT")
     print("=" * 74)
     src_n = reports[0]["verses"]
-    ital = out["pairs"]["source|kjv.italic"]
-    plain = out["pairs"]["source|kjv.plain"]
-    unclassified = sum(v["classes"].get("word_difference", 0) for v in out["pairs"].values())
+    pair = out["pairs"]["kjv.plain|kjv.italic"]
+    disputed = sum(n for c, n in pair["classes"].items()
+                   if c not in ("identical", "supplied_word_marks_only"))
+    agreed = pair["shared"] - disputed
+    all_match = all(r["verses"] == 31102 and not r["verse_gaps"] for r in reports)
 
-    print(f"  VERSE-PERFECT: source parses to {src_n:,} verses; "
-          f"kjv.italic holds {len(books['kjv.italic']):,}; "
-          f"kjv.plain holds {len(books['kjv.plain']):,}.")
-    print(f"  The {len(set(books['kjv.italic']) - set(books['kjv.plain'])):,}-verse "
-          f"shortfall in kjv.plain is the RE_VMARK defect, reproduced above by "
-          f"parsing the same source correctly.")
-    print(f"  WORD-PERFECT is NOT claimed. Residue by pair is printed above, "
-          f"every disagreement carries a class, and nothing was repaired.")
-    print(f"  Edition differences between the gutenberg source and "
-          f"pythonbible-kjv are NOT errors and are not resolved here.")
+    print(f"  VERSE-PERFECT: {'YES' if all_match else 'NO'}. All three readings hold "
+          f"{src_n:,} verses in 66 books and 1,189 chapters, with zero numbering gaps.")
+    print(f"    The third reading segments books on `1:1` markers alone and matches "
+          f"no heading string, so it is not repeating either converter's assumptions.")
+    print(f"  WORD-PERFECT: NOT CLAIMED, and deliberately so.")
+    print(f"    {agreed:,} of {pair['shared']:,} verses ({agreed / pair['shared'] * 100:.1f}%) "
+          f"agree once supplied-word marks are set aside.")
+    print(f"    {disputed:,} disagree. Every one carries a class; none was repaired.")
+    print(f"    These are two published editions of the KJV. A difference between "
+          f"them is not an error in either, and picking a winner would manufacture")
+    print(f"    a text that no edition prints.")
+    print(f"  The source's own TEXT is excluded from the word-level pass -- it bleeds "
+          f"book headings into each book's last verse. See the docstring.")
 
     with open(OUT, "w", encoding="utf-8", newline="\n") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
@@ -311,74 +335,8 @@ def main(strict=False):
     return 0
 
 
-def emit_source_witness():
-    """Write the third reading out as a proper book file, `kjv.source.json`.
-
-    WHY THIS EXISTS AND WHEN IT SHOULD STOP EXISTING
-        kjv.plain is the right EDITION read by a defective parser -- 98.46%
-        of its verses match this source exactly, and its only real defect is
-        the 420 merges. This function writes what that converter WOULD have
-        produced had its marker regex been right: same source, same edition,
-        same words, 31,102 verses, zero gaps.
-
-        It is deliberately NOT a competing recipe. `canon-corpus-f5866fe.patch`
-        (sitting unapplied in Claude\\Projects) fixes structure_texts.py at the
-        recipe, which is the permanent answer per golden rule 2. The moment
-        that patch lands and kjv.plain rebuilds to 31,102, this witness becomes
-        redundant and SHOULD BE RETIRED -- two recipes for one file is the drift
-        this repo keeps getting bitten by, and this one is on a clock.
-
-        Nothing is invented here: every verse's text is a slice of the source
-        between two markers, whitespace-collapsed and stripped. No repair, no
-        completion, no normalisation.
-    """
-    verses, headings, problems = parse_source()
-    order = []
-    for osis in BOOKS_ORDER:
-        pre = f"kjv:{osis}."
-        keys = [k for k in verses if k.startswith(pre)]
-        keys.sort(key=lambda k: tuple(int(x) for x in k[len(pre):].split(".")))
-        order += keys
-    missing = set(verses) - set(order)
-    if missing:
-        problems.append({"kind": "unordered_verses", "count": len(missing)})
-
-    doc = {
-        "slug": "kjv",
-        "title": "The Holy Bible (KJV)",
-        "author": "—",
-        "source": "data/corpus/kjv_bible.txt (Project Gutenberg)",
-        "scheme": {
-            "citation": "Book chapter:verse (OSIS ids)",
-            "resolution": "verse",
-            "honesty": ("exact at verse resolution: 31,102 verses, 66 books, "
-                        "zero numbering gaps, segmented on 1:1 markers with no "
-                        "heading string matched. Text is concatenated from the "
-                        "source between markers; nothing invented, nothing "
-                        "repaired. Supplied-word italics are NOT marked in this "
-                        "edition -- see kjv.italic for those."),
-            "interim": ("Supersedes kjv.json, which is the same edition read by "
-                        "the pre-f5866fe parser and is 420 verses short. Retire "
-                        "this file once that patch lands."),
-        },
-        "units": [{"id": k, "ref": None, "text": verses[k], "links": []} for k in order],
-    }
-    p = os.path.join(BOOKS, "kjv.source.json")
-    tmp = p + ".tmp"
-    with open(tmp, "w", encoding="utf-8", newline="\n") as f:
-        json.dump(doc, f, ensure_ascii=False, indent=1)
-    os.replace(tmp, p)
-    print(f"  wrote {p}  ({len(order):,} verses, {len(problems)} problems)")
-    return p, problems
-
-
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--strict", action="store_true")
-    ap.add_argument("--emit", action="store_true",
-                    help="write the third reading out as data/books/kjv.source.json")
     args = ap.parse_args()
-    if args.emit:
-        emit_source_witness()
-        sys.exit(0)
     sys.exit(main(strict=args.strict))

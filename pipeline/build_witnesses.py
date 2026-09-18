@@ -17,13 +17,13 @@ WHAT THIS IS NOT
 WHY TWO WITNESSES AND NOT ONE FILE
     Measured 2026-09-17/18, and the second line is the finding:
 
-        kjv.source  31,102 verses  gutenberg, this repo's own source of record
+        kjv.plain   31,102 verses  gutenberg, via this repo's own converter
         kjv.italic  31,102 verses  pythonbible-kjv, supplied-word italics marked
 
-        identical once supplied-word marks are set aside   29,517  (94.9%)
-        genuinely disagreeing                               1,585  ( 5.1%)
+        identical once supplied-word marks are set aside   29,579  (95.1%)
+        genuinely disagreeing                               1,523  ( 4.9%)
 
-    The 1,585 are not markup. They are spelling (`Tubalcain` / `Tubal-cain`),
+    The 1,523 are not markup. They are spelling (`Tubalcain` / `Tubal-cain`),
     hyphenation, punctuation and capitalisation differences between two
     published editions of the KJV. Neither is wrong. A script that picked a
     winner would be manufacturing a text no edition prints, so each one is
@@ -66,13 +66,14 @@ import wh_uid as U  # noqa: E402
 # The name says what the rendering IS, never where it came from, because a
 # source can be replaced without the rendering changing meaning.
 WITNESSES = {
-    "kjv.source": {
-        "file": "kjv.source.json",
-        "source": "data/corpus/kjv_bible.txt (Project Gutenberg), read by adjudicate_kjv.py",
+    "kjv.plain": {
+        "file": "kjv.json",
+        "source": "data/corpus/kjv_bible.txt (Project Gutenberg) via structure_texts.convert_kjv",
         "marks_supplied_words": False,
-        "note": ("The repo's own source of record, read correctly: 31,102 verses, "
-                 "66 books, zero numbering gaps. Supersedes kjv.json, which is the "
-                 "same edition read by the pre-f5866fe parser and 420 verses short."),
+        "note": ("The repo's own converter output: 31,102 verses, 66 books, zero "
+                 "numbering gaps. The 420-verse defect was fixed in the RECIPE on "
+                 "2026-09-11; the artifact on disk was simply never rebuilt until "
+                 "2026-09-18. No supplied-word marking in this edition."),
     },
     "kjv.italic": {
         "file": "kjv.complete.json",
@@ -80,21 +81,22 @@ WITNESSES = {
         "marks_supplied_words": True,
         "note": ("A SECOND EDITION, not a rendering of the first. Carries the "
                  "translator-supplied-word italics as [brackets] -- the reason it "
-                 "is kept -- and differs from kjv.source in spelling, hyphenation "
+                 "is kept -- and differs from kjv.plain in spelling, hyphenation "
                  "and punctuation in ways that are edition differences, not errors."),
     },
 }
 
 # Which witness a bare citation resolves to when nobody asks for one.
 #
-# kjv.source. It is verse-perfect (proved by adjudicate_kjv.py against the file
-# it is parsed from, structurally, with no heading string matched), it is the
-# edition this repo actually holds, and it carries no external dependency.
+# kjv.plain. It is verse-perfect (proved by adjudicate_kjv.py's structural
+# census of the file it is built from), it is the edition this repo actually
+# holds, and it is produced by THIS repo's own committed recipe -- no external
+# dependency, and golden rule 2 applies to it (fixes live in the converter).
 # kjv.italic is kept for the supplied-word information and as the second
 # reading that makes adjudication possible at all -- NOT as the default text,
 # because it is a different edition and defaulting to it would silently swap
 # which KJV the corpus means.
-READING_OF_RECORD = "kjv.source"
+READING_OF_RECORD = "kjv.plain"
 
 _WS = re.compile(r"\s+")
 _BRACKET = re.compile(r"[\[\]]")
@@ -201,7 +203,7 @@ def build(write=True, check=False):
                         "zero numbering gaps in BOTH witnesses, proved by "
                         "pipeline/adjudicate_kjv.py against the raw source. "
                         "NOT word-perfect across witnesses: they are two "
-                        "editions and disagree in 1,585 verses after "
+                        "editions and disagree in 1,523 verses after "
                         "supplied-word marks are set aside; every "
                         "disagreement is classified in kjv.adjudication.json "
                         "and none is repaired."),
