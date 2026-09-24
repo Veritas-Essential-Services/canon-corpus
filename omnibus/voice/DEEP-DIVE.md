@@ -82,7 +82,9 @@ essay turns into that family's failure mode.
 ## Part 3. The influences, one by one
 
 Each entry gives the signature move, how it looks in an Omnibus chapter,
-and how it goes wrong.
+and how it goes wrong. The entries for the three living popular voices
+(Sauvé, Isker, Doyle) carry an **evidence status**, because the research
+behind them hasn't reached primary text yet.
 
 ### G. K. Chesterton: the paradox that turns out to be plain sense
 
@@ -183,17 +185,46 @@ almost a eucatastrophe, and knowing why it stops short is the lesson.
 
 **Goes wrong** as elvish pastiche and archaism.
 
-### Brian Sauvé: the household and the man
+### Brian Sauvé: the household as the first Christendom
 
-**Move.** A plain, pastoral address to men and fathers: doctrine lived out
-first at the table, in the family, in the local church.
+**Evidence status (2026-09-24).** Search-engine summaries only. Three
+research passes tried to read transcripts, sermons and articles, and this
+environment's network policy blocked every page. Nothing below is drawn
+from his own sentences yet. Upgrade this entry from primary text before
+relying on it.
 
-**In the Omnibus.** It's the Application section. Hector at his gate with
-his wife and son is the most Sauvé moment in Homer.
+**Who.** Pastor of Refuge Church, Ogden, Utah; president of New
+Christendom Press; co-founder of a classical Christian school. His podcasts
+include *The King's Hall*, *Haunted Cosmos* (with Ben Garrett, on the
+supernatural), *Bright Hearth* (with his wife, on the productive household)
+and *Stump the Pastors*.
 
-**Goes wrong** when it takes on the podcast register. I know his work less
-well than the others', so correct this entry against what you've read of
-him.
+**Themes the sources support.**
+- Christian culture-building, framed through history: a 2024 conference
+  talk on King Alfred and "Christian boroughs."
+- The household as a productive unit, not just a place to sleep.
+- Fathers as teachers: nightly family worship, catechesis, working through
+  Proverbs with a son.
+- Psalm-singing, and classical Christian schooling.
+- An open, unembarrassed belief in the supernatural. The spiritual world
+  is real, not a metaphor.
+
+**Move (inferred from those themes).** Doctrine gets lived out first at
+the table, and a civilization is rebuilt one household and one town at a
+time. The long game is played by fathers.
+
+**In the Omnibus.**
+- It shapes the Application section: what a reader does with a book at
+  home, not only what he thinks of it.
+- It supplies historical exemplars of builders: Alfred (vol. II), Benedict,
+  Boniface.
+- It explains why the Recitation section exists: memory work is family
+  catechesis carried into the schoolroom.
+- Hector at his gate with his wife and son is the most Sauvé moment in
+  Homer.
+
+**Not yet known.** How he argues, his humor, his pacing, and how he treats
+opponents. The searches also surfaced critical press coverage, unread.
 
 ### C. H. Spurgeon: warmth, earthy images, and always Christ
 
@@ -302,18 +333,59 @@ right to critique it.
 unorthodox. He's an ally on what to read and not on what the books finally
 mean.
 
-### Andrew Isker: nerve
+### Andrew Isker: the axe and the oak
 
-**Move.** Christians confronting a hostile culture rather than accommodating
-it. His *The Boniface Option* takes as its emblem the missionary who cut
-down the pagans' sacred oak.
+**Evidence status (2026-09-24).** Search-engine summaries only. Three
+research passes tried to read transcripts, sermons, book excerpts and articles, and this
+environment's network policy blocked every page. Nothing below is drawn
+from his own sentences yet. Upgrade this entry from primary text before
+relying on it.
 
-**In the Omnibus.** It gives the voice permission to say plainly that some
-ideas on the syllabus are false and destructive (Marx, Nietzsche, Darwin
-read as a creed) and to show why.
+**Who.** A Reformed pastor, formerly in Waseca, Minnesota, now planting a
+church in Tennessee. He wrote *The Boniface Option* (New Christendom Press,
+2023) and co-wrote *Christian Nationalism: A Biblical Guide for Taking
+Dominion and Discipling Nations* (2022). He co-hosts the *Contra Mundum*
+podcast.
 
-**Goes wrong** when grievance stands in for reading. The test is whether
-the chapter will still make sense in twenty years.
+**The central image.** Boniface, the eighth-century missionary, cut down
+Donar's Oak, the sacred tree of the Germanic tribes. The god did not
+strike him, and the tribes' faith in the idol broke. Isker sets this
+"Boniface Option" (offense, public confrontation of idols) against Rod
+Dreher's *Benedict Option*, which he reads as withdrawal. Reviewers connect
+it to Elijah and the prophets of Baal. Whether Isker makes that link
+himself isn't confirmed.
+
+**Moves the reviews describe.**
+- Argument by historical exemplar: missionary saints, Christendom, the
+  older liturgies treated as living wisdom to recover, not dead custom.
+- Coined names for the present age ("Trashworld" is the central one),
+  plus slang epithets for opponents.
+- Offense over retreat, joined to practical counsel about fathers and
+  local communities.
+- Opponents are named and mocked rather than answered point by point. A
+  sympathetic critic, Rod Dreher, called the writing sharp but
+  undisciplined and warned that contempt for evil can slide into contempt
+  for people. Friendly reviewers (Doug Wilson among them) read the same
+  tone as unapologetic confidence.
+
+**Take.**
+- The **axe and the oak**. It's a perfect Omnibus image: the idol is
+  shown to be powerless by someone walking up and testing it. That's what
+  a worldview essay does to a false idea, and it works for Marx,
+  Nietzsche, and the gods of Homer.
+- **Nerve**: say plainly that some ideas on the syllabus are false and
+  destructive, and show why.
+- **Church history as a source of courage.** Boniface belongs in vol. V.
+
+**Leave.**
+- The slang and epithets. They date a book within five years and model
+  mockery for teenagers.
+- Mockery in the place of argument. The Omnibus rule is that the author
+  gets his strongest case first. Boniface didn't mock the oak. He cut it
+  down in front of everyone, and the chopping was the argument.
+- **Attribution risk.** News coverage reports his public criticism of Jews
+  and other non-Christians. The Omnibus should borrow the stance and the
+  image, not the name, and never cite him as an authority in a chapter.
 
 ### Auron MacIntyre: how power actually works
 
@@ -329,16 +401,53 @@ It helps students see the machinery beneath the rhetoric.
 and no current parties. Books outlast news cycles, and the curriculum has
 to as well.
 
-### John Doyle: beauty, rootedness, a masculine imagination
+### John Doyle: the young man's plain speech
 
-**Move.** A recovery of the beautiful, the rooted and the heroic, against a
-culture of ugliness and irony.
+**Evidence status (2026-09-24).** Search-engine summaries only. Three
+research passes tried to read transcripts, sermons and articles, and this
+environment's network policy blocked every page. Nothing below is drawn
+from his own sentences yet. Upgrade this entry from primary text before
+relying on it.
 
-**In the Omnibus.** It gives permission to admire heroes out loud.
-Achilles is magnificent, and saying so isn't naive.
+**Who.** An American commentator, born 1999. He started the YouTube show
+*Heck Off, Commie!* and now hosts *The John Doyle Show* on BlazeTV, where
+he's a colleague of Auron MacIntyre (the two have debated whether America
+should "embrace empire"). 2022 sources describe him as a practicing
+Catholic. **No conversion story was found.** If you remember one, send the
+source.
 
-**Goes wrong** in the online-video register. As with Sauvé, I know his work
-thinly, so correct this entry from your own reading.
+**Themes the sources support.**
+- Masculinity and a "warrior ethos."
+- Anti-left culture commentary and America First politics.
+- Long video essays that read pop culture closely. There's a tongue-in-cheek
+  "Neo-Gastonism" series, built on the villain of Disney's *Beauty and the
+  Beast*.
+- Reading media and institutional choices as symbolic acts, for example
+  calling a viral military video a "humiliation ritual."
+
+**Correction to the first draft of this guide.** The earlier entry called
+Doyle's theme "beauty, rootedness, a masculine imagination." Nothing the
+research found supports *beauty* or *rootedness*. That was my impression,
+not his record. If those themes are what drew you to him, a video or
+episode would confirm them.
+
+**Take.**
+- **Plain, confident address to young people**, especially young men, with
+  no condescension.
+- **Pop culture as a door.** A student who has seen *Beauty and the Beast*
+  already knows Gaston is an Achilles gone to seed. Use what they know to
+  reach what they don't, in the Openings and the Cultural Analysis
+  questions.
+- **Admiring heroes out loud.** Achilles is magnificent, and saying so
+  isn't naive.
+
+**Leave.**
+- Insult humor. It's built for reaction videos, not for books that will be
+  read in 2050.
+- Reading every institution as a hostile ritual. It trains suspicion where
+  the curriculum needs attention.
+- Empire and power talk tuned to the news cycle. MacIntyre's entry covers
+  power, and at the level of the political books.
 
 ### John Bunyan: allegory in plain English
 
