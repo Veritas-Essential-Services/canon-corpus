@@ -33,4 +33,4 @@ never pasted in here.
 
 ## Status
 
-The plan is done. No chapters are drafted yet.
+The plan is done. Sample chapter drafted: `volumes/1/05-iliad.md` (with teacher key).
