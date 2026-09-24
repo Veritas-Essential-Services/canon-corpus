@@ -1,0 +1,146 @@
+vol,ch,work,author,edition,year,rights,corpus,source,notes
+1,1,Genesis,Moses (trad.),King James Version,1769,pd,kjv,,Reading ranges as kjv:Gen.* unit ids
+1,2,The Epic of Gilgamesh,anon.,tr. Morris Jastrow & Albert T. Clay,1920,pd,gilgamesh,,Old Babylonian version only; fragmentary and says so
+1,3,Exodus,Moses (trad.),King James Version,1769,pd,kjv,,
+1,4,The Code of Hammurabi,Hammurabi,tr. L. W. King,1910,pd,,to acquire (Avalon Project / sacred-texts; verify edition),Set against Exodus 21-23
+1,5,The Iliad,Homer,tr. Samuel Butler,1898,pd,iliad-butler,,data/echoes has Iliad-KJV links to seed Biblical analysis
+1,6,The Odyssey,Homer,Perseus eng4 (confirm translator from TEI header),,pd,odyssey-eng4,,Manifest does not yet record translator: confirm before print
+1,7,Judges and Ruth,anon.,King James Version,1769,pd,kjv,,
+1,8,1 and 2 Samuel,anon.,King James Version,1769,pd,kjv,,
+1,9,The Histories,Herodotus,tr. G. C. Macaulay,1890,pd,herodotus-history,,
+1,10,The Oresteia,Aeschylus,tr. E. D. A. Morshead,1881,pd,,to acquire (Gutenberg / Perseus),
+1,11,Oedipus the King; Antigone,Sophocles,tr. R. C. Jebb,1904,pd,,to acquire (Perseus has Jebb TEI),
+1,12,Apology; Crito; Phaedo,Plato,tr. Benjamin Jowett,1892,pd,plato-dialogues,,
+1,13,The Republic,Plato,tr. Benjamin Jowett,1894,pd,plato-republic,,
+1,14,Nicomachean Ethics,Aristotle,tr. D. P. Chase,1847,pd,aristotle-ethics,,
+1,15,Poetics,Aristotle,tr. S. H. Butcher,1895,pd,,to acquire (Gutenberg),
+1,16,Daniel and Esther,anon.,King James Version,1769,pd,kjv,,Exile: faithfulness under empire
+1,17,History of the Peloponnesian War,Thucydides,tr. Benjamin Jowett,1881,pd,thucydides-pelo,,
+1,18,The Aeneid,Virgil,tr. Theodore C. Williams,1910,pd,aeneid-williams,,
+1,19,"Lives (Lycurgus, Numa, Alexander, Caesar)",Plutarch,"Dryden, rev. A. H. Clough",1864,pd,plutarch-lives,,
+1,20,The Jewish War,Flavius Josephus,tr. William Whiston,1737,pd,,to acquire (Gutenberg / CCEL),"Fall of Jerusalem, AD 70"
+1,21,Luke and Acts,Luke,King James Version,1769,pd,kjv,,
+1,22,Romans,Paul,King James Version,1769,pd,kjv,,Companion: calvin-com38
+1,23,Revelation,John,King James Version,1769,pd,kjv,,
+2,1,The Didache; Letters of Ignatius and Polycarp; Epistle to Diognetus,Apostolic Fathers,tr. J. B. Lightfoot & J. R. Harmer,1891,pd,,to acquire (CCEL),
+2,2,Against Heresies (selections),Irenaeus,Ante-Nicene Fathers ed.,1885,pd,,to acquire (CCEL ANF vol. 1),CCEL non-commercial check
+2,3,Church History,Eusebius,tr. A. C. McGiffert (NPNF),1890,pd,,to acquire (CCEL),
+2,4,On the Incarnation,Athanasius,tr. Archibald Robertson (NPNF),1892,pd,,to acquire (CCEL),C. S. Lewis's famous introduction belongs to a later edition and is NOT PD
+2,5,"The Creeds: Nicene, Chalcedonian, Athanasian",councils,"Philip Schaff, Creeds of Christendom",1877,pd,,to acquire (CCEL),
+2,6,Confessions,Augustine,tr. E. B. Pusey,1838,pd,augustine-confessions,,
+2,7,The City of God,Augustine,tr. Marcus Dods,1871,pd,augustine-cityofgod,,
+2,8,The Consolation of Philosophy,Boethius,tr. H. R. James,1897,pd,,to acquire (Gutenberg),
+2,9,The Rule,Benedict of Nursia,tr. verify a pre-1931 edition,,pd,,to acquire: edition not yet chosen,Pick edition after reading rights line
+2,10,Ecclesiastical History of the English People,Bede,tr. A. M. Sellar,1907,pd,,to acquire (Gutenberg),
+2,11,Beowulf,anon.,tr. Francis B. Gummere,1910,pd,beowulf,,
+2,12,Proslogion; Cur Deus Homo,Anselm,tr. S. N. Deane,1903,pd,,to acquire (CCEL / Gutenberg),
+2,13,The Song of Roland,anon.,tr. C. K. Scott Moncrieff,1919,pd,,to acquire (Gutenberg),
+2,14,On Loving God,Bernard of Clairvaux,tr. verify a pre-1931 edition,,pd,,to acquire (CCEL): edition not yet chosen,
+2,15,Summa Theologica (Five Ways; Treatise on Law),Thomas Aquinas,Fathers of the English Dominican Province,1920,pd,aquinas-summa,,"Shelf holds Part I only; Treatise on Law is I-II, still to acquire"
+2,16,The Divine Comedy,Dante Alighieri,tr. H. F. Cary,1814,pd,divine_comedy,,data/echoes has Dante-KJV links
+2,17,The Canterbury Tales,Geoffrey Chaucer,Middle English text,1400,pd,chaucer-canterbury,,
+2,18,Sir Gawain and the Green Knight,anon.,tr. Jessie L. Weston,1898,pd,,to acquire (Gutenberg),Tolkien's translation is NOT PD
+2,19,Everyman,anon.,early English text,1510,pd,,to acquire (Gutenberg),
+2,20,The Imitation of Christ,Thomas a Kempis,tr. verify a pre-1931 edition,,pd,,to acquire (CCEL): edition not yet chosen,
+2,21,Ninety-Five Theses; The Freedom of a Christian,Martin Luther,tr. Wace & Buchheim,1883,pd,,to acquire (Gutenberg / CCEL),
+2,22,The Bondage of the Will,Martin Luther,tr. Henry Cole,1823,pd,,to acquire (CCEL),
+2,23,Institutes of the Christian Religion (selections),John Calvin,tr. Henry Beveridge,1845,pd,,to acquire (CCEL),Companion: calvin-com01..45 already in corpus
+2,24,Westminster Shorter Catechism; Heidelberg Catechism,Westminster Assembly; Ursinus & Olevianus,1647; English tr. in Schaff,1877,pd,,to acquire (CCEL),
+3,1,Macbeth; Hamlet; Henry V,William Shakespeare,Complete Works,1623,pd,shakespeare,,data/echoes has Shakespeare-KJV links
+3,2,"The Faerie Queene, Book I",Edmund Spenser,1590 text,1590,pd,,to acquire (Gutenberg),
+3,3,Paradise Lost,John Milton,1674 text,1674,pd,paradise_lost,,
+3,4,Areopagitica,John Milton,1644 text,1644,pd,,to acquire (Gutenberg),
+3,5,The Pilgrim's Progress,John Bunyan,CCEL ed.,1678,pd,bunyan-pilgrim,,
+3,6,Of the Mortification of Sin in Believers,John Owen,CCEL ed.,1656,pd,owen-mort,,
+3,7,Pensees,Blaise Pascal,tr. W. F. Trotter,1910,pd,pascal-pensees,,
+3,8,Discourse on Method,Rene Descartes,tr. John Veitch,1850,pd,descartes-method,,Read for critique: the turn inward
+3,9,Monadology,G. W. Leibniz,tr. Robert Latta,1898,pd,,to acquire (Gutenberg / archive.org),"The standard English Theodicy (Huggard, 1951) is NOT PD"
+3,10,Second Treatise of Government,John Locke,1690 text,1690,pd,locke-government,,
+3,11,Religious Affections; Sinners in the Hands of an Angry God,Jonathan Edwards,CCEL ed. / Works 1834,1834,pd,edwards-affections,,Sinners is in edwards-works1
+3,12,Declaration of Independence; Constitution; The Federalist,Jefferson; Madison; Hamilton; Jay,founding texts,1788,pd,federalist,,Declaration and Constitution to acquire (NARA)
+3,13,Reflections on the Revolution in France,Edmund Burke,1790 text,1790,pd,,to acquire (Gutenberg),
+3,14,Emma,Jane Austen,1815 text,1815,pd,austen-emma,,
+3,15,Narrative of the Life of Frederick Douglass,Frederick Douglass,1845 text,1845,pd,,to acquire (Gutenberg),
+3,16,Selected Sermons,C. H. Spurgeon,Metropolitan Tabernacle Pulpit,1880,pd,,to acquire (CCEL / Spurgeon Center; choose sermons),
+3,17,A Tale of Two Cities,Charles Dickens,1859 text,1859,pd,,to acquire (Gutenberg),
+3,18,The Brothers Karamazov,Fyodor Dostoevsky,tr. Constance Garnett,1912,pd,dostoevsky-karamazov,,
+3,19,On the Origin of Species,Charles Darwin,1859 text,1859,pd,darwin-origin,,Read for critique
+3,20,The Communist Manifesto,Marx & Engels,tr. Samuel Moore,1888,pd,marx-manifesto,,Read for critique
+3,21,Beyond Good and Evil,Friedrich Nietzsche,tr. Helen Zimmern,1906,pd,,to acquire (Gutenberg),Read for critique
+3,22,Lectures on Calvinism,Abraham Kuyper,Stone Lectures,1899,pd,,to acquire (CCEL / archive.org),
+3,23,Orthodoxy,G. K. Chesterton,1908 text,1908,pd,,to acquire (Gutenberg),
+3,24,Christianity and Liberalism,J. Gresham Machen,1923 text,1923,pd,,to acquire (verify rights line),
+3,25,The Everlasting Man,G. K. Chesterton,1925 text,1925,pd,,to acquire (verify US edition),PD in the US; also PD in the UK (Chesterton d. 1936)
+4,1,Job,anon.,King James Version,1769,pd,kjv,,
+4,2,Psalms,David et al.,King James Version,1769,pd,kjv,,Companion: calvin-com08..12
+4,3,Proverbs and Ecclesiastes,Solomon (trad.),King James Version,1769,pd,kjv,,
+4,4,Theogony; Works and Days,Hesiod,tr. H. G. Evelyn-White,1914,pd,,to acquire (Gutenberg / Perseus),
+4,5,Fables,Aesop,tr. George Fyler Townsend,1867,pd,,to acquire (Gutenberg),
+4,6,Medea; The Bacchae,Euripides,tr. Gilbert Murray,1906,pd-us,,to acquire (Gutenberg),"PD in the US; Murray d. 1957, so UK PD only from 2028"
+4,7,The Clouds,Aristophanes,verify a pre-1931 translation,,pd,,to acquire: edition not yet chosen,
+4,8,Symposium; Phaedrus,Plato,tr. Benjamin Jowett,1892,pd,,to acquire (Gutenberg),
+4,9,Politics,Aristotle,tr. Benjamin Jowett,1885,pd,aristotle-politics,,
+4,10,Anabasis,Xenophon,tr. H. G. Dakyns,1897,pd,,to acquire (Gutenberg),
+4,11,On the Nature of Things,Lucretius,tr. H. A. J. Munro,1864,pd,lucretius-nature,,Read for critique
+4,12,"The History of Rome, Books 1-5",Livy,tr. Canon Roberts,1905,pd,,to acquire (Gutenberg / Perseus),
+4,13,The Gallic War,Julius Caesar,tr. McDevitte & Bohn,1869,pd,,to acquire (Gutenberg),
+4,14,On Duties,Cicero,tr. Walter Miller,1913,pd,,to acquire (verify),
+4,15,Eclogues; Georgics,Virgil,tr. John Dryden,1697,pd,virgil-eclogues,,
+4,16,Odes,Horace,tr. John Conington,1863,pd,,to acquire (Gutenberg),
+4,17,Metamorphoses,Ovid,tr. Brookes More,1922,pd,,to acquire (Perseus),More d. 1942: PD in UK too
+4,18,Annals; Agricola; Germania,Tacitus,tr. Church & Brodribb,1876,pd,tacitus-annals,,Agricola and Germania to acquire
+4,19,The Twelve Caesars,Suetonius,tr. J. C. Rolfe,1914,pd,,to acquire (Perseus / LacusCurtius),
+4,20,Discourses; Meditations,Epictetus; Marcus Aurelius,tr. Matheson; tr. Long,1916,pd,epictetus-discourses,,Meditations = marcus-meditations
+4,21,Antiquities of the Jews (selections),Flavius Josephus,tr. William Whiston,1737,pd,,to acquire (Gutenberg),
+4,22,First Apology,Justin Martyr,Ante-Nicene Fathers ed.,1885,pd,,to acquire (CCEL),
+4,23,Apology; The Passion of Perpetua and Felicity,Tertullian; anon.,Ante-Nicene Fathers ed.,1885,pd,,to acquire (CCEL),
+5,1,Confession; Letter to Coroticus,Patrick,verify a pre-1931 translation,,pd,,to acquire: edition not yet chosen,
+5,2,Pastoral Rule,Gregory the Great,NPNF ed.,1895,pd,,to acquire (CCEL),
+5,3,The Dream of the Rood; Caedmon's Hymn,anon.; Caedmon,verify a pre-1931 translation,,pd,,to acquire: edition not yet chosen,
+5,4,The Anglo-Saxon Chronicle,anon.,tr. James Ingram,1823,pd,,to acquire (Gutenberg),
+5,5,Life of Charlemagne,Einhard,tr. S. E. Turner,1880,pd,,to acquire (Gutenberg),
+5,6,The Story of Burnt Njal,anon.,tr. G. W. Dasent,1861,pd,,to acquire (Gutenberg),
+5,7,The Nibelungenlied,anon.,tr. George H. Needler,1904,pd,,to acquire (Gutenberg),
+5,8,Poem of the Cid,anon.,tr. Archer M. Huntington,1897,pd,,to acquire (archive.org; verify),
+5,9,Magna Carta,barons of England,"1215 text, English tr. verify",,pd,,to acquire (Avalon / British Library tr.; verify rights),
+5,10,The Little Flowers of St. Francis,anon.,tr. T. W. Arnold,1898,pd,,to acquire (Gutenberg),
+5,11,The Memoirs of the Lord of Joinville (Life of St. Louis),Jean de Joinville,tr. Ethel Wedgwood,1906,pd,,to acquire (Gutenberg),
+5,12,Troilus and Criseyde,Geoffrey Chaucer,Middle English text,1385,pd,chaucer-troilus,,
+5,13,Piers Plowman,William Langland,tr. W. W. Skeat (modern version),1905,pd,,to acquire (verify),
+5,14,Revelations of Divine Love,Julian of Norwich,ed. Grace Warrack,1901,pd,,to acquire (Gutenberg / CCEL),
+5,15,Le Morte d'Arthur (selections),Thomas Malory,Caxton text,1485,pd,,to acquire (Gutenberg),
+5,16,The Praise of Folly,Erasmus,verify a pre-1931 translation,,pd,,to acquire (Gutenberg),
+5,17,Utopia,Thomas More,tr. Ralph Robinson,1551,pd,,to acquire (Gutenberg),
+5,18,The Prince,Niccolo Machiavelli,tr. W. K. Marriott,1908,pd,machiavelli-prince,,Read for critique
+5,19,Commentary on Romans,John Calvin,Calvin Translation Society ed.,1849,pd,calvin-com38,,
+5,20,"Actes and Monuments (Book of Martyrs), selections",John Foxe,1563 text / later abridgement,1563,pd,,to acquire (CCEL / Gutenberg),
+5,21,The Book of Common Prayer,Thomas Cranmer et al.,1662 text,1662,pd,,to acquire (verify source),Crown copyright applies in the UK only
+6,1,Holy Sonnets; Devotions upon Emergent Occasions,John Donne,1624/1633 texts,1633,pd,,to acquire (Gutenberg),
+6,2,The Temple,George Herbert,1633 text,1633,pd,,to acquire (Gutenberg),
+6,3,Don Quixote,Miguel de Cervantes,tr. John Ormsby,1885,pd,cervantes-quixote,,
+6,4,Essays (selections),Michel de Montaigne,"tr. Cotton, rev. Hazlitt",1877,pd,montaigne-essays,,
+6,5,Leviathan (selections),Thomas Hobbes,1651 text,1651,pd,hobbes-leviathan,,Read for critique
+6,6,Tartuffe,Moliere,tr. Curtis Hidden Page,1908,pd,moliere-plays,,
+6,7,The Fountain of Life,John Flavel,CCEL ed.,1671,pd,flavel-fountain,,
+6,8,Of Communion with God,John Owen,CCEL ed.,1657,pd,owen-communion,,
+6,9,The Holy War,John Bunyan,CCEL ed.,1682,pd,bunyan-holy_war,,
+6,10,Robinson Crusoe,Daniel Defoe,1719 text,1719,pd,,to acquire (Gutenberg),
+6,11,Gulliver's Travels,Jonathan Swift,1726 text,1726,pd,swift-gulliver,,
+6,12,"Faust, Part I",J. W. von Goethe,tr. Bayard Taylor,1870,pd,faust,,
+6,13,Democracy in America (selections),Alexis de Tocqueville,tr. Henry Reeve,1835,pd,,to acquire (Gutenberg),
+6,14,The Scarlet Letter,Nathaniel Hawthorne,1850 text,1850,pd,,to acquire (Gutenberg),
+6,15,Moby-Dick,Herman Melville,1851 text,1851,pd,melville-mobydick,,
+6,16,Phantastes,George MacDonald,1858 text,1858,pd,,to acquire (Gutenberg),The book Lewis said baptized his imagination
+6,17,Adventures of Huckleberry Finn,Mark Twain,1884 text,1884,pd,twain-huckfinn,,
+6,18,Treasure Island,Robert Louis Stevenson,1883 text,1883,pd,treasure_island,,
+6,19,War and Peace,Leo Tolstoy,tr. Louise & Aylmer Maude,1922,pd,tolstoy-warpeace,,Maudes d. 1938/1939: PD in UK too
+6,20,Heart of Darkness,Joseph Conrad,1899 text,1899,pd,conrad-heart,,
+6,21,Poems,Gerard Manley Hopkins,ed. Robert Bridges,1918,pd,,to acquire (Gutenberg),
+6,22,The Man Who Was Thursday,G. K. Chesterton,1908 text,1908,pd,,to acquire (Gutenberg),
+6,23,The Waste Land,T. S. Eliot,1922 text,1922,pd-us,,to acquire (Gutenberg),Eliot d. 1965: UK PD only from 2036
+6,24,Brave New World,Aldous Huxley,,1932,not-pd,,,Reference only
+6,25,The Hobbit,J. R. R. Tolkien,,1937,not-pd,,,Reference only
+6,26,The Screwtape Letters,C. S. Lewis,,1942,not-pd,,,Reference only
+6,27,The Abolition of Man,C. S. Lewis,,1943,not-pd,,,Reference only
+6,28,Nineteen Eighty-Four,George Orwell,,1949,not-pd,,,Reference only
+6,29,The Lord of the Rings,J. R. R. Tolkien,,1954,not-pd,,,Reference only; first volume 1954
