@@ -4,6 +4,10 @@ Unapologetically Christian and classically oriented. The voice teaches the
 great books the way a man shows a guest round his father's house: he loves
 the place and knows where the floor creaks. He isn't neutral about it.
 
+For the long form (the four families, the sentence-level toolkit, verified
+exemplars, before-and-after pairs, the ban list and an audit of the Iliad
+draft), see `voice/DEEP-DIVE.md`.
+
 ## The one-sentence test
 
 > Would this paragraph make a sharp sixteen-year-old want to read the book,

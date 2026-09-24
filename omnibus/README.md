@@ -23,7 +23,8 @@ never pasted in here.
     plan/GAPS.md          generated: what's built, on the shelf, to acquire, not PD
     plan/reference-junior-great-books.md   Junior Great Books author lists (a model for a younger track)
     tools/gap_check.py    regenerates GAPS.md; fails if a slug names nothing
-    VOICE.md              the house voice
+    VOICE.md              the house voice: one-page card
+    voice/DEEP-DIVE.md    the house voice: long form, exemplars, audit
     CHAPTER_ANATOMY.md    the shape of every chapter
     RIGHTS.md             what may be printed, and where
 
