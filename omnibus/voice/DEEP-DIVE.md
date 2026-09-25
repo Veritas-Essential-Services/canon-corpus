@@ -383,9 +383,18 @@ himself isn't confirmed.
 - Mockery in the place of argument. The Omnibus rule is that the author
   gets his strongest case first. Boniface didn't mock the oak. He cut it
   down in front of everyone, and the chopping was the argument.
-- **Attribution risk.** News coverage reports his public criticism of Jews
-  and other non-Christians. The Omnibus should borrow the stance and the
-  image, not the name, and never cite him as an authority in a chapter.
+- **His views on the Jews.** News coverage reports his public criticism
+  of Jews and other non-Christians.
+
+**Editorial ruling (Adam, 2026-09-25).** We're against Isker on the Jews,
+and with him on most other things. His errors on that point are tolerated
+in the man but never carried into our content. In practice:
+- **By default, borrow without naming.** The stance and the axe-and-oak
+  image are ours to use. Boniface is public history, not Isker's property.
+- **Name him only when he has framed an issue better than anyone else**,
+  and even then with a short, plain qualification the first time he
+  appears in a chapter. See rule 9 in `VOICE.md` for the pattern.
+- **Nothing from him on Jews, Judaism or Israel**, cited or uncited.
 
 ### Auron MacIntyre: how power actually works
 

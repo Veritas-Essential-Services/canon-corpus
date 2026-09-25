@@ -64,3 +64,12 @@ pastiche. Never put words in any of these men's mouths.**
 7. **Land it.** Every essay ends on a single quotable line.
 8. **Joy wins.** The tone is confident and glad, not embattled. Remember
    that Christ is king even over the pagans on the syllabus.
+9. **Name flawed allies honestly.** Some of our influences are wrong on
+   something that matters (Bloom on Scripture, Isker on the Jews). Take what
+   is true from anyone. But when we *name* a living writer whose serious
+   error sits beside the point we're borrowing, name him only if he has
+   put that point better than anyone else, and qualify him once, plainly,
+   the first time he appears. For example: *"Andrew Isker, with whom we
+   part company sharply on the Jews, has put this better than anyone: …"*
+   One clause, no hand-wringing, then the point. The qualification is
+   there so the reader isn't left to assume we endorse the whole man.
