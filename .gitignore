@@ -18,3 +18,6 @@ data/markdown/
 # Whitaker lemma table: rebuildable from the pinned files (build_lemma_spine.py);
 # its sha256 is in data/lemmas/whitaker-la/manifest.json. The hymn slice is committed.
 data/lemmas/whitaker-la/lemmas.jsonl
+
+# The reader (pipeline/render_reader.py) is generated; rebuild, never commit.
+build/

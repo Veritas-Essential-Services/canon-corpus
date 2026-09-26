@@ -27,6 +27,7 @@ provenance) is the committed record of the collection.
     python3 tests/hymn_corpus_test.py       # the hymn JSONL validator (D1-D2)
     python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
     python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)
+    python3 tests/reader_test.py            # the reader: deterministic, self-contained, every token (D5)
 
 ## Latin hymns (JSONL)
 
@@ -43,6 +44,22 @@ draft (launch plan D3): `pipeline/README-lemma-spine.md`.
 witness of the KJV verse's existing uid, so nothing is minted. Parsing is
 Robinson's; lemmas are Strong's headwords. Schema, licence evidence,
 transliteration scheme and the full-NT plan: `pipeline/README-nt-jsonl.md`.
+
+## The reader (reverse interlinear, D5)
+
+    python3 pipeline/render_reader.py       # -> build/reader/reader.html (gitignored)
+
+One renderer over both datasets: *Adoro te*, *Pange lingua* and John 1:1-18 in
+one self-contained HTML file (inline CSS and JS, no network, no web fonts,
+light and dark, readable at 375px). Each passage shows the original, with every
+word tappable for lemma, parsing and translit, and then the columns wooden /
+plain / elegant / singable. A column the data cannot fill is shown empty with
+its reason: the Greek has no glosses yet, so it has no wooden or plain line.
+`wooden` and `plain` come from `render_wooden()` / `render_plain()` in
+`build_hymn_corpus.py` and are never stored. Each source's licence and
+attribution is on the page. The agreement marks are drawn from the draft's
+`syntax` notes and toggle between two candidate forms. The choice between them
+is Adam's: `docs/reader-agreement-marks.md`.
 
 Extracted from the patrimonium repo 2026-07-22; pre-extraction history
 lives there (through commit `d33503e`).
