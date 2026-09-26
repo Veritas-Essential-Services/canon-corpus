@@ -9,9 +9,12 @@ self-contained static HTML file: inline CSS and JS, no network, no web fonts.
     Test: tests/reader_test.py.  Mark-form choice: docs/reader-agreement-marks.md
 
 WHAT IT SHOWS
-    Three datasets through one renderer: Adoro te and Pange lingua
-    (data/hymns/, Latin, one row per clause) and John 1:1-18 (data/nt/,
-    Greek, one row per verse). Per passage: the original, every word a button
+    Three datasets through one renderer: the five hymns of Thomas (Adoro
+    te, Pange lingua, Lauda Sion, Sacris solemniis, Verbum supernum:
+    data/hymns/, Latin, one row per clause) and John 1:1-18 (data/nt/,
+    Greek, one row per verse). The three printed from Britt 1922 have no
+    house draft, so their wooden and plain columns are empty with the
+    manifest's reason, and a word with no lemma shows Whitaker's candidates. Per passage: the original, every word a button
     whose popover carries lemma, parsing and translit; then the four columns,
     wooden / plain / elegant / singable, as far as the data carries them. A
     column the data cannot fill is shown EMPTY with its reason. Nothing is
@@ -64,6 +67,9 @@ DRAFT_BADGE = "draft \u2014 awaiting Adam\u2019s review"   # on a column built o
 WORKS = (
     {"id": "adoro-te", "data": "hymns", "work": "hymns:adoro-te", "lang": "la"},
     {"id": "pange-lingua", "data": "hymns", "work": "hymns:pange-lingua", "lang": "la"},
+    {"id": "lauda-sion", "data": "hymns", "work": "hymns:lauda-sion", "lang": "la"},
+    {"id": "sacris-solemniis", "data": "hymns", "work": "hymns:sacris-solemniis", "lang": "la"},
+    {"id": "verbum-supernum", "data": "hymns", "work": "hymns:verbum-supernum", "lang": "la"},
     {"id": "john-1", "data": "nt", "work": "John.1.1-18", "lang": "grc"},
 )
 
@@ -256,6 +262,8 @@ def payload(t, lang):
         "review": t.get("review"),
         "lang": lang,
     }
+    if t.get("lemma") is None and (prov.get("lemma") or {}).get("whitaker"):
+        p["candidates"] = prov["lemma"]["whitaker"]     # what Adam chooses among
     if lang == "grc" and t.get("parsing"):
         p["parsing_words"] = N.describe_parsing(t["parsing"])
     return p
@@ -274,6 +282,8 @@ def render_hymn(work, ds, tok_payload, used, stats):
     wit, toks = index(ds)
     man = ds["manifest"]
     passages = [p for p in ds["passages"] if p["work"] == work["work"]]
+    # a printed hymn says why it has no wooden, plain or elegant (manifest works[..].not_stored)
+    why_not = man["works"][work["work"]].get("not_stored", {})
     by_uid = {p["uid"]: p for p in passages}
     stanzas = sorted((p for p in passages if p["unit"] == "stanza"), key=lambda p: p["stanza"])
     out = []
@@ -297,7 +307,7 @@ def render_hymn(work, ds, tok_payload, used, stats):
                 used.add(ww["source"])
                 cols.append(column_html("wooden", wooden_html(tk, marks), source_label(man, ww["source"])))
             else:
-                cols.append(column_html("wooden", "", empty="no token glosses"))
+                cols.append(column_html("wooden", "", empty=why_not.get("en.wooden", "no token glosses")))
             pw = wit.get(c["uid"] + "/en.plain")
             if pw:
                 used.add(pw["source"])
@@ -305,21 +315,23 @@ def render_hymn(work, ds, tok_payload, used, stats):
                 same = "same words as the wooden line" if plain == H.render_wooden(tk) else None
                 cols.append(column_html("plain", e(plain), source_label(man, pw["source"]), note=same))
             else:
-                cols.append(column_html("plain", "", empty="no prose order stored"))
+                cols.append(column_html("plain", "", empty=why_not.get("en.plain", "no prose order stored")))
             ew = wit.get(c["uid"] + "/en.elegant")
             if ew:
                 used.add(ew["source"])
                 cols.append(column_html("elegant", e(ew["text"]).replace("\n", "<br>"),
                                         source_label(man, ew["source"])))
             else:
-                cols.append(column_html("elegant", "", empty="not drafted for this clause"))
+                cols.append(column_html("elegant", "", empty=why_not.get("en.elegant", "not drafted for this clause")))
             cut = (c.get("cut") or {}).get("why")
             rows.append(
                 f'<div class="clause" id="{e(c["uid"])}">'
                 f'<div class="cite">{e(c["citation"])} <span class="uid">{e(c["uid"])}</span>'
                 f' <span class="ln">ll. {c["lines"][0]}&ndash;{c["lines"][1]}</span></div>'
                 f'<p class="orig" lang="la">{original_html(la, tk, H.PUNCT, marks)}</p>'
-                + (f'<p class="why">joined: {e(cut)}</p>' if cut else "")
+                # a one-line clause's reason (the printed hymns give one) is not a join
+                + (f'<p class="why">{"joined" if c["lines"][1] > c["lines"][0] else "stands alone"}: '
+                   f'{e(cut)}</p>' if cut else "")
                 + f'<div class="cols">{"".join(cols)}</div></div>')
         stanza_cols = []
         sw = wit.get(st["uid"] + "/en.singable")
@@ -337,7 +349,8 @@ def render_hymn(work, ds, tok_payload, used, stats):
                                            note="stanza prose; the PD candidate for elegant"))
         out.append(
             f'<section class="stanza" id="{e(st["uid"])}"><h3>Stanza {st["stanza"]}'
-            f' <span class="uid">{e(st["citation"])} &middot; {e(st["uid"])}</span></h3>'
+            f' <span class="uid">{e(st["citation"])} &middot; {e(st["uid"])}'
+            + (f' &middot; printed p. {st["page"]}' if st.get("page") else "") + '</span></h3>'
             + "".join(rows)
             + f'<div class="stanza-cols">{"".join(stanza_cols)}</div></section>')
     title = man["works"][work["work"]]["title"]
@@ -613,7 +626,8 @@ function show(btn){var p=T[btn.getAttribute('data-a')];if(!p)return;
   var tl=p.translit!=null?p.translit:(p.lang==='la'?'(Latin script: none needed)':null);
   pop.innerHTML='<button class="x" type="button" aria-label="Close">&times;</button>'+
    '<p class="ps" lang="'+p.lang+'">'+esc(p.surface)+'</p><dl>'+
-   row('lemma',p.lemma)+row('key',p.lemma_key)+row('parsing',p.parsing)+row('in words',p.parsing_words)+
+   row('lemma',p.lemma==null?'(none yet: see review)':p.lemma)+
+   row('candidates',p.candidates?p.candidates.join(' · '):null)+row('key',p.lemma_key)+row('parsing',p.parsing)+row('in words',p.parsing_words)+
    row('translit',tl)+row('gloss',p.gloss==null?'(none yet)':p.gloss)+row('syntax',p.syntax)+
    row('lemma from',p.lemma_source)+row('parse from',p.parsing_source)+
    row('gloss from',p.gloss_source?p.gloss_source+(p.gloss_rule?' ('+p.gloss_rule+')':'')+

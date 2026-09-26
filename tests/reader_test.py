@@ -144,10 +144,43 @@ check("no witness carries plain or wooden TEXT",
 # ---- the columns -------------------------------------------------------------
 wit, toks = R.index(data["hymns"])
 clauses = [p for p in data["hymns"]["passages"] if p["unit"] == "clause"]
-missing = [c["citation"] for c in clauses
-           if html.escape(H.render_plain(toks[c["uid"] + "/la.1"], wit[c["uid"] + "/en.plain"]))
+hman = data["hymns"]["manifest"]
+printed = {w for w, v in hman["works"].items() if v.get("source_file")}
+missing = [c["citation"] for c in clauses if c["work"] not in printed
+           and html.escape(H.render_plain(toks[c["uid"] + "/la.1"], wit[c["uid"] + "/en.plain"]))
            not in page]
-check("every hymn clause shows its render_plain() line", not missing, missing[:3])
+check("every batch-hymn clause shows its render_plain() line", not missing, missing[:3])
+check("the three printed hymns are on the page, each with a table-of-contents link",
+      printed == {"hymns:lauda-sion", "hymns:sacris-solemniis", "hymns:verbum-supernum"}
+      and all(f'<section id="{w.split(":")[1]}">' in page and f'href="#{w.split(":")[1]}"' in page
+              for w in printed))
+empty_bad = []
+for c in (c for c in clauses if c["work"] in printed):
+    block = page[page.index(f'id="{c["uid"]}"'):]
+    block = block[:block.index('</div></div>', block.index('<div class="col col-elegant'))]
+    why = hman["works"][c["work"]]["not_stored"]
+    if not all(f'empty: {html.escape(why[n])}' in block for n in ("en.wooden", "en.plain", "en.elegant")):
+        empty_bad.append(c["citation"])
+check("every printed-hymn clause shows wooden, plain and elegant empty, each with the manifest's reason",
+      not empty_bad, empty_bad[:3])
+why_bad = [c["citation"] for c in clauses if c["work"] in printed and
+           f'<p class="why">{"joined" if c["lines"][1] > c["lines"][0] else "stands alone"}: '
+           f'{html.escape(c["cut"]["why"])}</p>' not in page[page.index(f'id="{c["uid"]}"'):][:4000]]
+check("every printed-hymn clause shows why it was cut there (a one-line clause is not called a join)",
+      not why_bad, why_bad[:3])
+lit = [w for w in data["hymns"]["witnesses"] if w["name"] == "en.literal"]
+check("every stanza's literal prose is on the page (Britt 1922)",
+      all(html.escape(w["text"]) in page for w in lit) and len(lit) == 6 + 25, len(lit))
+pst = [p for p in data["hymns"]["passages"] if p["unit"] == "stanza" and p["work"] in printed]
+check("every printed stanza names its printed page",
+      all(f'{html.escape(p["citation"])} &middot; {p["uid"]} &middot; printed p. {p["page"]}' in page
+          for p in pst), len(pst))
+hy_tok = {t["address"]: t for t in data["hymns"]["tokens"]}
+nolem = [a for a, t in hy_tok.items() if t["lemma"] is None]
+check("a word with no lemma carries Whitaker's candidates in its popover (when WORDS has any)",
+      nolem and all(embedded[a].get("candidates") == hy_tok[a]["provenance"]["lemma"].get("whitaker")
+                    for a in nolem), len(nolem))
+check("... and the popover says so rather than leaving the lemma out", "(none yet: see review)" in page)
 check("every hymn clause has wooden, plain and elegant columns",
       page.count('class="col col-wooden') - len(data["nt"]["passages"]) == len(clauses))
 nt_html = page[page.index('id="john-1"'):page.index('id="marks"')]
