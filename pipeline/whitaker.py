@@ -31,17 +31,24 @@ WHAT IS PORTED, AND WHAT IS NOT
         two words run together), and the order WORDS tries them in
         (parse.adb): whitaker_tricks.py, which lists where it departs from
         the Ada and why. Every analysis they produce carries `via`.
-      * Roman numerals (roman_numerals_package.adb), and the non-enclitic
+      * Roman numerals (roman_numerals_package.adb), the non-enclitic
         TACKONs (word_package.adb, Try_Tackons: -cumque, -met, -pte, -cum,
-        -modi, -familias ...), also in whitaker_tricks.py.
-    NOT ported: PACKONs other than via UNIQUES, and WORDS's frequency
-      trimming. Every analysis is kept; none is discarded as rare.
+        -modi, -familias ...), and Word's Qu block: PACKONs (Process_Packons:
+        quidam, quicumque, quisquam) and TICKONs (siqua, nescioquis), also in
+        whitaker_tricks.py.
+      * the stem keys as makedict_main.adb writes them (stem_keys): a
+        one-stem COMP/SUPER adjective or adverb, or NUM of one sort, is keyed
+        by what it stands for (pessimus: 4), and an adverb's comparison from
+        its key (word_support_package.adb, Adv_Comp_From_Key).
+    NOT ported: WORDS's frequency trimming. Every analysis is kept; none is
+      discarded as rare.
 
     One gap is filled by the house and marked: WORDS prints NO dictionary form
     for pronouns of declension 1 (qui/quis) and 5 (ego/tu/nos/vos/sui) -- its
     dictionary_form raises Not_Found and returns "". HOUSE_PRONOUN_FORMS
     supplies the conventional heading for those entries, and every lemma
-    built that way carries `form_by: "house"`.
+    built that way carries `form_by: "house"`. A qu-pronoun + PACKON entry
+    (PACK) is headed by that heading and the tackon: `qui, quae, quod + -dam`.
 
 LICENCE (verified 2026-09-26; recorded verbatim in the manifest)
     Not public domain. Copyright William A. Whitaker (1936-2010), with an
@@ -51,6 +58,7 @@ LICENCE (verified 2026-09-26; recorded verbatim in the manifest)
 
 import hashlib
 import os
+import re
 import unicodedata
 import urllib.request
 
@@ -90,6 +98,10 @@ ADA_SOURCES = {
         "0103480f3b93e377830d21c6da051aae13653f0596557b4c037283f426ba5c31",
     "src/words_engine/words_engine-roman_numerals_package.adb":
         "27c9566ca9b2688f9c6455d79782bdd66e138a296ed697af1cbeb2da9faed011",
+    "src/commands/makedict_main.adb":
+        "b68a13d2ed51f531726668cb1ccfb735bf50aa7e431ddd6e8164fecd847614e7",
+    "src/support_utils/support_utils-word_support_package.adb":
+        "fc44d66e9859b8e4bfff50ae67b2217cca49d8da6f0a15872a19a21d73fec3d3",
 }
 ADA_CACHE = os.path.join(CACHE, "ada")
 
@@ -353,7 +365,7 @@ def load_addons(path):
             # Load_Addons: a PACK entry of declension 1 or 2 whose meaning
             # opens "PACKON w/" is a PACKON; every other TACKON is a TACKON
             part = _part(entry) if entry else {"pos": "X"}
-            row = {"line": n, "tack": fold(head[1]), "entry": part, "meaning": meaning}
+            row = {"line": n, "tack": fold(head[1]), "tack_raw": head[1], "entry": part, "meaning": meaning}
             if part["pos"] == "PACK" and part["decl"][0] in (1, 2) and meaning[:9] == "PACKON w/":
                 packons.append(row)
             else:
@@ -421,6 +433,17 @@ def dictionary_form(e):
 
     if pos == "PREP":
         return f"{s[0]}  PREP  {p['case']}", "whitaker"
+    if pos == "PACK":
+        # WORDS prints no form for a qu-pronoun + PACKON entry. The house
+        # names it by the pronoun's heading and the tackon its meaning
+        # names, "(w/-dam)": `qui, quae, quod + -dam  PACK`. Composed, not
+        # spelt out (quisquam is filed ADJECT, so spelling would invent
+        # "quiquam"); marked `house`. Its headword is the pronoun's.
+        m = re.match(r"\(w/-(\w+)\)", e["meaning"])
+        base = HOUSE_PRONOUN_FORMS.get((s[0], w, p["kind"]))
+        if m and base:
+            return f"{base} + -{m.group(1)}  PACK", "house"
+        return f"{s[0]}  PACK", "whitaker"
     if s[1:] == ["", "", ""] and not (
             (pos == "N" and w == 9) or
             (pos == "ADJ" and (w == 9 or p["co"] in ("COMP", "SUPER"))) or
@@ -692,6 +715,38 @@ def principal_parts(form):
 
 
 # ---------------------------------------------------------------------------
+# Stem keys (a port of makedict_main.adb, which writes STEMLIST: the stems
+# WORDS actually searches, each with the key its endings must carry)
+# ---------------------------------------------------------------------------
+
+# a one-stem entry of fixed degree or sort: its stem takes the key of the
+# slot it stands for, not slot 1
+ONE_STEM_KEY = {("ADJ", "COMP"): 3, ("ADJ", "SUPER"): 4, ("ADV", "COMP"): 2, ("ADV", "SUPER"): 3,
+                ("NUM", "CARD"): 1, ("NUM", "ORD"): 2, ("NUM", "DIST"): 3, ("NUM", "ADVERB"): 4}
+
+
+def stem_keys(e, by_slot=False):
+    """(stem, key) for one entry, as makedict_main.adb lists them. An ADJ
+    that is COMP or SUPER, an ADV that is COMP or SUPER, and a NUM of a
+    given sort have one stem, written in slot 1, and get key 3/4, 2/3 and
+    1-4: `pessi` ADJ 0 0 SUPER takes the superlative endings (key 4).
+    Everything else is keyed by its slot. (makedict gives a N, ADJ or V
+    whose first two stems are equal ONE stem with key 0, which the endings
+    of keys 1 and 2 both match; listing it twice, keys 1 and 2, reads the
+    same forms and is kept.) `by_slot` keys every stem by its slot, as
+    this port did before 2026-09-26; kept only to measure the difference."""
+    p = e["part"]
+    if e is ESSE:
+        return [(st, k) for k, st in enumerate(e["stems"], 1) if st != "zzz"]
+    grade = p.get("co") if p["pos"] in ("ADJ", "ADV") else p.get("sort") if p["pos"] == "NUM" else None
+    k1 = None if by_slot else ONE_STEM_KEY.get((p["pos"], grade))
+    if k1 is not None:
+        st = e["stems"][0]
+        return [(st, k1)] if st and st != "zzz" else []
+    return [(st, k) for k, st in enumerate(e["stems"], 1) if st and st != "zzz"]
+
+
+# ---------------------------------------------------------------------------
 # The analyzer
 # ---------------------------------------------------------------------------
 
@@ -714,11 +769,17 @@ MOOD_ORDER = ("X", "IND", "SUB", "IMP", "INF", "PPL")
 
 
 def adj_comp_from_key(key):
-    return {1: "POS", 2: "POS", 3: "COMP", 4: "SUPER"}.get(key, "X")
+    return {0: "POS", 1: "POS", 2: "POS", 3: "COMP", 4: "SUPER"}.get(key, "X")
+
+
+def adv_comp_from_key(key):
+    """word_support_package.adb: an adverb's three stems are POS, COMP, SUPER
+    (male, pejus, pessime), not the adjective's four."""
+    return {1: "POS", 2: "COMP", 3: "SUPER"}.get(key, "X")
 
 
 class Whitaker:
-    def __init__(self, cache=CACHE):
+    def __init__(self, cache=CACHE, stems_by_slot=False):
         verify_cache(cache)
         self.cache = cache
         self.entries = load_dictline(os.path.join(cache, "DICTLINE.GEN"))
@@ -727,21 +788,32 @@ class Whitaker:
         self.tackons = load_tackons(os.path.join(cache, "ADDONS.LAT"))
         addons = load_addons(os.path.join(cache, "ADDONS.LAT"))
         self.prefixes, self.suffixes = addons["prefixes"], addons["suffixes"]
+        self.tickons = addons["tickons"]
         # Try_Tackons runs over Tackons (5 .. Number_Of_Tackons): the first
         # four are the enclitics que, ne, ve, est, which parse.adb handles
         self.tackon_items = addons["tackons"]
         self.packons = addons["packons"]
-        # switches, so what each port adds can be measured (both on in WORDS)
+        # switches, so what each port adds can be measured (all on in WORDS)
         self.use_tackons = True
         self.use_roman = True
+        self.use_packons = True
+        # PACK entries are searched only by Process_Packons (Pack_Only)
+        self.pack_index = {}
+        for i, e in enumerate(self.entries):
+            if e["part"]["pos"] == "PACK":
+                for st, k in stem_keys(e):
+                    self.pack_index.setdefault(fold(st), []).append((i, k))
+        # Process_Packons reads only the qu-pronoun endings (PRON 1/2, none
+        # blank), which makeinfl.adb files apart at the end of section 4
+        self.qu_inflects = [inf for inf in self.inflects if inf["qual"]["pos"] == "PRON"
+                            and inf["qual"]["decl"][0] in (1, 2) and inf["ending"]]
         self.entries.append(ESSE)
         self.stem_index = {}
         for i, e in enumerate(self.entries):
             if e["part"]["pos"] == "PACK":
                 continue          # PACKONs are reached only through UNIQUES here
-            for k, st in enumerate(e["stems"], 1):
-                if st != "zzz" and (st or e is ESSE):
-                    self.stem_index.setdefault(fold(st), []).append((i, k))
+            for st, k in stem_keys(e, stems_by_slot):
+                self.stem_index.setdefault(fold(st), []).append((i, k))
         self.by_ending = {}
         for inf in self.inflects:
             self.by_ending.setdefault(inf["ending"], []).append(inf)
@@ -786,7 +858,7 @@ class Whitaker:
                         {1: "CARD", 2: "ORD", 3: "DIST", 4: "ADVERB"}.get(k, "X")}
         elif pos == "ADV":
             if comp_le(p["co"], q["comparison"]) or q["comparison"] == "X" or p["co"] == "X":
-                com = p["co"] if p["co"] in ("POS", "COMP", "SUPER") else adj_comp_from_key(k)
+                com = p["co"] if p["co"] in ("POS", "COMP", "SUPER") else adv_comp_from_key(k)
                 return {"pos": "ADV", "comparison": com}
         elif pos == "V":
             if not decn_le(p["decl"], q["decl"]):
@@ -844,6 +916,13 @@ class Whitaker:
         (only if those found nothing) the non-enclitic TACKONs."""
         w = fold(word)
         r = self._word(w)
+        if self.use_packons:
+            # Word's Qu block (TICKONs and PACKONs); its readings sit after
+            # the uniques and before the stems
+            import whitaker_tricks
+            qu = whitaker_tricks.qu_block(self, w, r)
+            if qu:
+                r = [a for a in r if a["unique"] is not None] + qu + [a for a in r if a["unique"] is None]
         if not r and self.use_tackons:
             import whitaker_tricks
             r = whitaker_tricks.try_tackons(self, w, self.plain)

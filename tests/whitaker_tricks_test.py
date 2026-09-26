@@ -34,6 +34,12 @@ WHAT IT ASSERTS
        recover medieval respellings of hymn forms (measured 2026-09-26).
     8. The TACKON list is ADDONS.LAT's, the Roman digits are the Ada's, and
        real words through each tackon and numeral.
+    9. Stem keys as makedict_main.adb writes them (a one-stem COMP/SUPER
+       adjective or adverb, a NUM of one sort) and the adverb's own
+       comparison-from-key: found by the Vulgate benchmark, 2026-09-26.
+    10. PACKONs and TICKONs (Word's Qu block), also found by the benchmark:
+       the list, the n -> m of -dam, the cu- stem, the declension match, the
+       meaning-prefix test, when they run, and the house heading.
 """
 import importlib.util
 import json
@@ -299,6 +305,27 @@ check("Word less a tackon is Word again, tackons and all (egometpte)",
 r = T.parse_latin_word(TFake({"egomet": [N], "ego": [PRON5]}, [MET]), "egomet")
 check("tackons run only when Word found nothing", [a["entry"] for a in r] == [0])
 
+
+print("\n--- 4d. stem keys (makedict_main.adb) and the adverb's comparison")
+E = lambda part, stems: {"part": part, "stems": stems}
+check("a one-stem ADJ SUPER is keyed 4, COMP 3 (pessi, interi)",
+      W.stem_keys(E({"pos": "ADJ", "decl": (0, 0), "co": "SUPER"}, ["pessi", "", "", ""])) == [("pessi", 4)]
+      and W.stem_keys(E({"pos": "ADJ", "decl": (0, 0), "co": "COMP"}, ["interi", "", "", ""])) == [("interi", 3)])
+check("a one-stem ADV COMP is keyed 2, SUPER 3",
+      W.stem_keys(E({"pos": "ADV", "co": "COMP"}, ["magis", "", "", ""])) == [("magis", 2)]
+      and W.stem_keys(E({"pos": "ADV", "co": "SUPER"}, ["maxime", "", "", ""])) == [("maxime", 3)])
+check("a NUM of one sort is keyed by it: CARD 1, ORD 2, DIST 3, ADVERB 4",
+      [W.stem_keys(E({"pos": "NUM", "decl": (2, 0), "sort": so, "value": 0}, ["x", "", "", ""]))[0][1]
+       for so in ("CARD", "ORD", "DIST", "ADVERB")] == [1, 2, 3, 4])
+check("everything else by its slot, blanks and zzz skipped",
+      W.stem_keys(E({"pos": "ADJ", "decl": (1, 1), "co": "X"}, ["bon", "bon", "meli", "zzz"]))
+      == [("bon", 1), ("bon", 2), ("meli", 3)]
+      and W.stem_keys(E({"pos": "NUM", "decl": (1, 1), "sort": "X", "value": 1}, ["un", "prim", "singul", "semel"]))
+      == [("un", 1), ("prim", 2), ("singul", 3), ("semel", 4)])
+check("an adverb's comparison from its key is 1 POS, 2 COMP, 3 SUPER (not the adjective's 1-2/3/4)",
+      [W.adv_comp_from_key(k) for k in (1, 2, 3)] == ["POS", "COMP", "SUPER"]
+      and [W.adj_comp_from_key(k) for k in (1, 2, 3, 4)] == ["POS", "POS", "COMP", "SUPER"])
+
 # ======================================================= AGAINST THE FILES
 print("\n--- against the Whitaker files")
 if not W.have_cache():
@@ -461,6 +488,73 @@ else:
           X.analyze("egomet") == [] and not any(a["via"] and a["via"][0]["kind"] == "ROMAN"
                                                 for a in X.analyze("xiv")))
     X.use_tackons = X.use_roman = True
+
+
+    print("\n--- 9. stem keys and adverb comparison, against the files")
+    if W.have_ada():
+        md = open(os.path.join(W.CACHE, "ada", "makedict_main.adb"), encoding="latin-1").read()
+        md = re.sub(r"--[^\n]*", "", md)
+        got = {(pos.upper(), val.upper()): int(k) for pos, val, k in re.findall(
+            r"De\.Part\.Pofs = (Adj|Adv|Num)\s+and then\s+De\.Part\.\w+\.(?:Co|Sort) = (\w+)\s+then\s+"
+            r"Put \(Stemlist, De\.Stems \(1\)\);.*?Integer_IO\.Put \(Stemlist, (\d), 2\)", md, re.S)}
+        check("the one-stem keys are makedict_main.adb's", got == W.ONE_STEM_KEY, got)
+        ws = open(os.path.join(W.CACHE, "ada", "support_utils-word_support_package.adb"), encoding="latin-1").read()
+        m = re.search(r"function Adv_Comp_From_Key.*?end Adv_Comp_From_Key", ws, re.S).group(0)
+        ada = {int(k): v.upper() for k, v in re.findall(r"when (\d)\s*=>\s*return (\w+);", m)}
+        check("Adv_Comp_From_Key is the Ada's", ada == {k: W.adv_comp_from_key(k) for k in ada}, ada)
+
+    def parses(form):
+        return {(a["headword"], a["whitaker"]) for a in X.analyze(form) if not a["via"]}
+    for form, want in [("pessimum", ("pessimus", "ADJ 0 0 ACC S M SUPER")),
+                       ("summus", ("summus", "ADJ 0 0 NOM S M SUPER")),
+                       ("interiora", ("interior", "ADJ 0 0 ACC P N COMP")),
+                       ("proximam", ("proximus", "ADJ 0 0 ACC S F SUPER")),
+                       ("pejus", ("male", "ADV COMP")), ("pessime", ("male", "ADV SUPER")),
+                       ("magis", ("magis", "ADV COMP"))]:
+        check(f"{form}: {want[0]} {want[1]}", want in parses(form), sorted(parses(form))[:3])
+    check("vicesimo: an ordinal of viginti (NUM ... ORD)",
+          any(a["whitaker"].endswith("ORD") and a["headword"] == "uiginti" for a in X.analyze("vicesimo")))
+
+
+    print("\n--- 10. PACKONs and TICKONs (Word's Qu block), against the files")
+    check("the PACKONs are ADDONS.LAT's, in order",
+          [t["tack"] for t in X.packons] == ["cumque", "cunque", "que", "piam", "quam", "dam", "nam", "cum",
+                                            "uis", "libet", "lubet"], [t["tack"] for t in X.packons])
+    check("the TICKONs are ADDONS.LAT's (PREFIX with root PACK)",
+          [t["fix"] for t in X.tickons] == ["ec", "ne", "nescio", "neu", "seu", "si"])
+
+    def keys(form):
+        return {(a["key"], a["whitaker"]) for a in X.analyze(form)}
+    DAM = "qui, quae, quod + -dam  PACK"
+    for form, want in [("quaedam", (DAM, "PRON 1 0 NOM P F")), ("quemdam", (DAM, "PRON 1 0 ACC S M")),
+                       ("quicumque", ("qui, quae, quod + -cumque  PACK", "PRON 1 1 NOM S M")),
+                       ("quidquam", ("qui, quae, quod + -quam  PACK", "PRON 1 6 NOM S N")),
+                       ("quispiam", ("quis, quid + -piam  PACK", "PRON 1 2 NOM S C")),
+                       ("quilibet", ("qui, quae, quod + -libet  PACK", "PRON 1 0 NOM P M"))]:
+        check(f"{form}: {want[0].split('  ')[0]}, {want[1]}", want in keys(form), sorted(keys(form))[:3])
+    check("-dam turns a final n back to m (quendam is read as quem + dam)",
+          (DAM, "PRON 1 0 ACC S M") in keys("quendam"))
+    check("the cu- stem (key 2) is looked up too (cuiusdam)", (DAM, "PRON 1 0 GEN S X") in keys("cuiusdam"))
+    check("the PACK entry must have exactly the ending's declension (quidquam: only the 1 6 entry)",
+          {w.split()[2] for _, w in keys("quidquam")} == {"6"})
+    check("the meaning test compares a prefix, as the Ada does: -cum also finds (w/-cumque) entries",
+          {k for k, _ in keys("quocum")} >= {"quis, quid + -cum  PACK", "qui, quae, quod + -cumque  PACK"})
+    check("PACKONs run only when the form reads as at most one qu-pronoun record (quem: no PACKON)",
+          not any(a["via"] for a in X.analyze("quem")) and any(a["via"] for a in X.analyze("quemque")))
+    r = X.analyze("quaedam")
+    check("a PACK lemma's heading is the house's, composed from the pronoun's and the tackon",
+          r and r[0]["form_by"] == "house" and r[0]["headword"] == "qui"
+          and r[0]["via"][0]["kind"] == "PACKON" and r[0]["via"][0]["tackon"] == "dam")
+    r = X.analyze("siqua")
+    check("a TICKON before a qu-pronoun: siqua = si + qua",
+          r and all(a["via"][0]["kind"] == "TICKON" and a["via"][0]["fix"] == "si" for a in r)
+          and {a["headword"] for a in r} >= {"quis"})
+    check("nescioquis = nescio + quis", any(a["via"] and a["via"][0].get("fix") == "nescio" for a in X.analyze("nescioquis")))
+    X.use_packons = False
+    check("switched off, quaedam is only a two-words guess and siqua has no reading",
+          {v["kind"] for a in X.analyze("quaedam") for v in a["via"]} == {"TWO_WORDS"}
+          and X.analyze("siqua") == [])
+    X.use_packons = True
 
 print()
 if FAIL:

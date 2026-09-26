@@ -47,8 +47,14 @@ WHERE THIS PORT DEPARTS FROM THE ADA, AND WHY (each is also in the README)
   * Not a departure, but worth knowing: Try_Tackons keeps a NOUN record of
     the wrong declension (the Ada's N branch neither hits nor deletes it),
     and so does this port. `familias` is the only noun TACKON.
-  * Not ported: PACKONs (Process_Packons), qu-pronoun TICKONs, and the second,
-    duplicate syncope pass and Do_Only_Fixes re-parse inside Enclitic.
+  * Process_Qu_Pronouns is not ported as such: the port's ordinary stem +
+    ending matching already reads qu-pronouns (WORDS files their endings
+    apart and reads them only there). Whether the PACKONs run ("at most
+    one qu-pronoun record") is judged on those readings.
+  * Also not a departure: a PACKON's meaning test compares a prefix, so
+    -cum also finds the (w/-cumque) entries (quocum). Ported as is.
+  * Not ported: the second, duplicate syncope pass and Do_Only_Fixes
+    re-parse inside Enclitic.
     WORDS skips all tricks on a capitalised word it takes for a name; search
     keys are lower case, so here every form is tried.
 """
@@ -632,6 +638,86 @@ def try_tackons(X, w, word):
             return _tag(pa, {"kind": "TACKON", "tackon": T["tack"], "as": less,
                              "source": f"ADDONS.LAT:{T['line']}", "explain": T["meaning"]})
     return pa
+
+
+# -- PACKONS (word_package.adb, Process_Packons) --------------------------------
+
+def process_packons(X, w):
+    """Process_Packons: a qu-pronoun with a PACKON (quidam, quicumque,
+    quisquam, quilibet ...). For every PACKON, in ADDONS order ('more than
+    one may apply'): take it off; `dam` turns a final n back to m (quendam);
+    collect the qu-pronoun endings (PRON 1/2) that end what is left, longest
+    first, whose declension fits the PACKON's; the stem of the SHORTEST such
+    ending is the one looked up, among PACK entries only. An entry whose
+    meaning opens "(w/-" + the PACKON, of exactly the ending's declension,
+    gives a PRON reading with the ending's case, number and gender."""
+    out, seen = [], set()
+    for P in getattr(X, "packons", []):
+        less = subtract_tackon(w, P["tack"])
+        if less is None:
+            continue
+        word = less
+        if P["tack"][:3] == "dam" and word[-1:] == "n":
+            word = word[:-1] + "m"      # 'Takes care of the m -> n shift with dam'
+        sl, ssa = [], None
+        for z in range(min(6, len(word)), 0, -1):
+            for inf in X.qu_inflects:
+                if len(inf["ending"]) == z and word[-z:] == inf["ending"] and \
+                        W_decn_le(tuple(inf["qual"]["decl"]), tuple(P["entry"]["decl"])):
+                    sl.append(inf)
+                    ssa = word[:-z]     # 'may Get set several times': the last one stands
+        if ssa is None:
+            continue
+        tack = P["tack_raw"]
+        for (i, k) in X.pack_index.get(ssa, ()):
+            e = X.entries[i]
+            mean = e["meaning"].strip()
+            if not (mean[:4] == "(w/-" and mean[4:4 + len(tack)] == tack):
+                continue
+            for inf in sl:
+                q = inf["qual"]
+                parse = {"pos": "PRON", "decl": e["part"]["decl"], "case": q["case"],
+                         "number": q["number"], "gender": q["gender"]}
+                # one reading per (entry, parse), as Word shows it
+                if tuple(e["part"]["decl"]) == tuple(q["decl"]) and (i, repr(sorted(parse.items()))) not in seen:
+                    seen.add((i, repr(sorted(parse.items()))))
+                    out.append({"entry": i, "unique": None, "inflect_line": inf["line"], "stem_key": k,
+                                "parse": parse,
+                                "via": [{"kind": "PACKON", "tackon": P["tack"], "as": word,
+                                         "source": f"ADDONS.LAT:{P['line']}", "explain": P["meaning"]}]})
+    return out
+
+
+def _qu_readings(X, q, found=None):
+    """The readings of `q` as a qu-pronoun (PRON 1/2). WORDS finds these only
+    through Process_Qu_Pronouns; the port's ordinary stem + ending matching
+    finds the same ones, so they are taken from it."""
+    found = X._word(q) if found is None else found
+    return [a for a in found if a["entry"] is not None and X.entries[a["entry"]]["part"]["pos"] == "PRON"
+            and tuple(X.entries[a["entry"]]["part"]["decl"])[0] in (1, 2)]
+
+
+def qu_block(X, w, plain_found):
+    """Word's Qu block. First each TICKON (ec-, ne-, nescio-, neu-, seu-,
+    si-: a particle before a qu-pronoun, siqua = si + qua): if what follows
+    it is a qu-pronoun (PACKONs tried when it reads as none), that is the
+    answer and the loop stops. Then the form itself: if it reads as at most
+    one qu-pronoun record, the PACKONs are tried (quidam, quicumque)."""
+    for T in getattr(X, "tickons", []):
+        fix = T["fix"]
+        if not (len(w) > len(fix) and w.startswith(fix) and (T["connect"] == " " or w[len(fix)] == T["connect"])):
+            continue
+        q = w[len(fix):]
+        if len(q) >= 3 and q[:2] in ("qu", "cu"):
+            got = _qu_readings(X, q)
+            if not got:                         # Pa_Last <= Pa_Qstart + 1: only the marker
+                got = process_packons(X, q)
+            if got:
+                return _tag(got, {"kind": "TICKON", "fix": fix, "as": q, "source": f"ADDONS.LAT:{T['line']}",
+                                  "explain": T["meaning"]})
+    if len(w) >= 3 and w[:2] in ("qu", "cu") and len(_qu_readings(X, w, plain_found)) <= 1:
+        return process_packons(X, w)
+    return []
 
 
 def fixes_word(X, w):

@@ -15,7 +15,7 @@ python pipeline/build_lemma_spine.py --fetch   # once: the pinned Whitaker files
 python pipeline/build_lemma_spine.py           # the table + the hymn analyses
 python pipeline/build_hymn_corpus.py           # tokens take lemma/parsing from them
 python tests/lemma_spine_test.py               # 64 checks
-python tests/whitaker_tricks_test.py           # 101 checks: one or more per ported rule
+python tests/whitaker_tricks_test.py           # 133 checks: one or more per ported rule
 python pipeline/build_lemma_spine.py --check   # committed lemma files byte-identical
 ```
 
@@ -86,7 +86,8 @@ speech, flags (age, area, geography, frequency, source) and English meaning.
 `via` lists the rules WORDS needed to read the form, outermost first, e.g.
 `[{"kind": "TRICK", "table": "Mediaeval_Tricks", "rule": "internal e/ae",
 "as": "cenae", "explain": ...}]`. `kind` is `SYNCOPE`, `SLURY`, `TRICK`,
-`PREFIX`, `SUFFIX`, `TWO_WORDS`, `TACKON` or `ROMAN`; `as` is the form WORDS
+`PREFIX`, `SUFFIX`, `TWO_WORDS`, `TACKON`, `PACKON`, `TICKON` or `ROMAN`;
+`as` is the form WORDS
 actually looked up; `explain` is WORDS's own explanation line. A plain
 analysis has no `via`. A Roman numeral is its own lemma (`form_by:
 "whitaker-roman"`, e.g. `MCMXCIX  NUM  (ROMAN)`, `value` 1999); an ill-formed
@@ -190,6 +191,19 @@ The code is ported from the Ada source at the same commit, rule for rule:
   *huiusmodi*, *paterfamilias*. A tackon keeps only readings of its own part
   of speech (a pronoun only of a declension it fits), and the first that hits
   wins;
+- **Word's Qu block** (`word_package.adb`): the PACKONs of Process_Packons,
+  a qu-pronoun with a tackon (*quidam*, *quicumque*, *quisquam*, *quispiam*,
+  *quilibet*, *quendam* with its *n* turned back to *m*), tried when the form
+  reads as at most one qu-pronoun record; and the TICKONs, a particle before
+  a qu-pronoun (*siqua* = *si* + *qua*, *nescioquis*);
+- **stem keys** as `makedict_main.adb` writes them: a one-stem comparative or
+  superlative adjective (*interior*, *pessimus*, *summus*, *proximus*), a
+  one-stem comparative or superlative adverb, and a numeral of one sort
+  (*vicesimus*, ordinal) get the key of what they stand for, not slot 1; and
+  an adverb's comparison comes from its own key table (*pejus* COMP,
+  *pessime* SUPER). Both were found by the Vulgate benchmark
+  (`docs/review/2026-09-26-benchmark.md`): before them *pessimus*, *summus*
+  and *vicesimo* were unknown, and *verius* was read as a positive adverb;
 - the order WORDS tries all of this in (`parse.adb`, Pass and
   Parse_Latin_Word): plain; SLURY if nothing; SYNCOPE unless a form of *esse*
   is there; the enclitics; FIXES if still nothing; TRICKS last, then TRICKS on
@@ -204,9 +218,10 @@ the tables are folded too and cannot tell consonantal *v* from *u*; WORDS's
 sorted array, here any record counts; one branch of SLUR can never fire in
 the Ada (it compares strings of different lengths) and is not ported;
 Roman numerals are read from the form as written, because the search key has
-already turned every *v* into *u*, which is not a Roman digit; and PACKONs
-(*quicumque*, *quidam* built from *qui* + tackon) are still not ported.
-Frequency trimming is not ported either: every analysis is kept.
+already turned every *v* into *u*, which is not a Roman digit; and
+Process_Qu_Pronouns is not ported as such, because ordinary stem + ending
+matching already reads the qu-pronouns. Frequency trimming is not ported
+either: every analysis is kept.
 
 One bug fixed with this port (2026-09-26): the enclitic list was read
 unfolded, so *-ve* was compared as `ve` against search keys where it is
@@ -219,7 +234,17 @@ it is in WORDS.
 **Filled by the house, and marked `form_by: "house"`.** WORDS prints no
 dictionary form for pronouns of declension 1 (*qui*, *quis*) or 5 (*ego*,
 *tu*, *nos*, *vos*, *sui*). `whitaker.HOUSE_PRONOUN_FORMS` supplies the
-conventional headings for 9 lemmas.
+conventional headings for 9 lemmas. It prints none for a qu-pronoun + PACKON
+entry either; the house heads those `qui, quae, quod + -dam  PACK`, composed
+rather than spelt out, because WORDS files *quisquam* under the adjectival
+*qui*, and spelling the parts out would invent *quiquam*. Their headword is
+the pronoun's (*qui*, *quis*): 17 more house lemmas. Adam may prefer real headings (*quidam*,
+*quisquam*); that is a table of about a dozen rows.
+
+One hymn form changed with these (2026-09-26), and no hymn token's lemma or
+parsing: *quoque* gains WORDS's PACKON readings (*quo* + *-que*, from
+*quisque*/*quique*: 5 candidates to 7), and *verius*, the adverb, is now
+COMP where it was POS.
 
 ## 5. Measured 2026-09-26 (the 263 hymn tokens)
 
