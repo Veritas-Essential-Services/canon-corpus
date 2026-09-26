@@ -1,0 +1,855 @@
+{
+ "schema": "wordhoard/hymn-source/v1",
+ "what": "Latin text, verse translation and literal prose of three Corpus Christi hymns of St Thomas Aquinas, transcribed from one public-domain printing. Read by pipeline/build_hymn_corpus.py (HYMNS[...]['source_file']). Public domain: the text itself lives here, as the vault batch files hold Adoro te and Pange lingua.",
+ "edition": {
+  "title": "The Hymns of the Breviary and Missal",
+  "editor": "Matthew Britt, O.S.B. (St. Martin's Abbey, Lacey, Wash.)",
+  "preface": "Hugh T. Henry",
+  "imprint": "London: Burns Oates & Washbourne, 1922 (title page)",
+  "copyright_page": "Copyright, 1922, by Benziger Brothers. Printed in U.S.A. Imprimatur: Patrick J. Hayes, Archbishop of New York, July 18, 1922",
+  "license": "PD",
+  "license_basis": "published 1922 (US; archive.org records possible-copyright-status NOT_IN_COPYRIGHT, copyright-region US). The translators all published before 1929 and died long ago (Henry 1946, Chambers 1893, Neale 1866, Caswall 1878)."
+ },
+ "scan": {
+  "archive_id": "hymnsofbreviarym00britrich",
+  "url": "https://archive.org/details/hymnsofbreviarym00britrich",
+  "copy": "University of California Libraries (nrlf_ucb:GLAD-50519704), scanned 2008-09-16, 300 ppi",
+  "page_images": "https://archive.org/download/hymnsofbreviarym00britrich/page/n<scan page>.jpg; printed page p is scan page n(p+9) here",
+  "pages_read": [
+   {
+    "page": 178,
+    "scan_page": "n187",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n187.jpg",
+    "image_sha256": "549707b82c95706fdb71f61a5036696148cff32fd9736d7d148c9bc4f5a6e40a"
+   },
+   {
+    "page": 179,
+    "scan_page": "n188",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n188.jpg",
+    "image_sha256": "b742fb225f636b90a1fb6fead0491e7b4941ac9ce869a6dbfdc791ba1e32fd67"
+   },
+   {
+    "page": 180,
+    "scan_page": "n189",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n189.jpg",
+    "image_sha256": "d0120921bb9400a65d928b3ca469ef01dee1329d0c6482ee852749164fa9bf26"
+   },
+   {
+    "page": 181,
+    "scan_page": "n190",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n190.jpg",
+    "image_sha256": "ad066b3a3d37a013170a641c692fa00a9adc9e939d89bad201403a3a2a5ee153"
+   },
+   {
+    "page": 182,
+    "scan_page": "n191",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n191.jpg",
+    "image_sha256": "f50a76e54e2df9345d56bfff6f35096d33dc16e8497188f164a3037e4b378b38"
+   },
+   {
+    "page": 183,
+    "scan_page": "n192",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n192.jpg",
+    "image_sha256": "cb0bcaec947ee0aeea4784c91a27d8204961f5c1a256d0afb1348e5a824c843a"
+   },
+   {
+    "page": 185,
+    "scan_page": "n194",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n194.jpg",
+    "image_sha256": "e22cb01c996826ce1b446e20da250aa767278655e4ca875d06a4e48757a59d07"
+   },
+   {
+    "page": 186,
+    "scan_page": "n195",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n195.jpg",
+    "image_sha256": "0b42da63a3c05194e434e14c79b8165763254e8767cb6a7f5b8d344e7bfdd456"
+   },
+   {
+    "page": 187,
+    "scan_page": "n196",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n196.jpg",
+    "image_sha256": "22db1c1cd546b02240b2638a15e606765f548d169a5fd4fd21408bcc044a3566"
+   },
+   {
+    "page": 188,
+    "scan_page": "n197",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n197.jpg",
+    "image_sha256": "a54e4cc1ebbd579400603d8b1b1d066f01330d3b0b8471ff524ebfa5787176e4"
+   },
+   {
+    "page": 189,
+    "scan_page": "n198",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n198.jpg",
+    "image_sha256": "325348507aef702d9bdbf37e3b3ce542c7e9c5a8826083c5d163df42f18bf7bd"
+   },
+   {
+    "page": 190,
+    "scan_page": "n199",
+    "image": "https://archive.org/download/hymnsofbreviarym00britrich/page/n199.jpg",
+    "image_sha256": "c416824295841194c324f073443a38bda7f4b351e1f3a680c05b5353dc2162ca"
+   }
+  ]
+ },
+ "transcription": {
+  "on": "2026-09-26",
+  "by": "Claude (AI session), for Adam Kinunen",
+  "method": "The scan's OCR text layer (_djvu.txt) was the starting point only. Every line of Latin, verse English and prose was then read against the page image and corrected by hand: the OCR has Nee for Nec, Quern for Quem, vcre, mortalcs, Deltas, loses every ligature, and capitalises Vetera (Sacris st1) where the page has vetera.",
+  "conventions": [
+   "Latin exactly as printed: the ligatures æ and œ, consonantal j (major, Hujus, Ejus), capitals and punctuation. Search folds them (search_key: æ->ae, œ->oe, j->i, v->u).",
+   "The hymn's first word, set as a display capital (LAUDA, SACRIS, VERBUM), is written in title case. Britt's stanza numbers are not text.",
+   "A verse line the narrow column turned over is rejoined as one line; a word broken at the turnover is rejoined, and each is listed in its stanza's `rejoined`.",
+   "English typography as the house writes it (Pange lingua, Caswall): straight quotes and apostrophes, -- for the dash. Britt's accented -èd (Learnèd, blessèd, bestowèd) is kept: it is metrical.",
+   "The literal prose is the quoted translation only, from Britt's numbered notes, without the commentary that follows it; italics are not kept. Line-end hyphens in the prose are rejoined (jubila-tions, com-manded, neverthe-less, re-member, sub-stance, them-selves, com-panion); in-line hyphens (To-day, life-giving, co-heirs) are the page's."
+  ]
+ },
+ "hymns": {
+  "lauda-sion": {
+   "britt_number": 75,
+   "title": "Lauda Sion Salvatorem",
+   "pages": [
+    178,
+    183
+   ],
+   "meter": "Trochaic dimeter, in great part (Britt)",
+   "liturgical_use": "Sequence for the Feast of Corpus Christi, and throughout the octave (Britt)",
+   "singable": {
+    "translator": "Monsignor Hugh T. Henry",
+    "britt_says": "Translation by Monsignor Henry",
+    "page": 181
+   },
+   "stanzas": [
+    {
+     "stanza": 1,
+     "page": 178,
+     "la": [
+      "Lauda Sion Salvatorem,",
+      "Lauda ducem et pastorem,",
+      "In hymnis et canticis.",
+      "Quantum potes, tantum aude:",
+      "Quia major omni laude,",
+      "Nec laudare sufficis."
+     ],
+     "en_singable": [
+      "Praise, O Sion, praise thy Saviour,",
+      "Shepherd, Prince, with glad behavior,",
+      "Praise in hymn and canticle:",
+      "Sing His glory without measure,",
+      "For the merit of your Treasure",
+      "Never shall your praises fill."
+     ],
+     "en_page": 178,
+     "en_literal": "Praise, O Sion, thy Saviour, praise thy Leader and thy Shepherd in hymns and canticles. As much as thou canst, so much darest thou, for He is above all praise, nor art thou able to praise Him enough.",
+     "literal_page": 181,
+     "rejoined": [
+      {
+       "witness": "en.singable",
+       "printed": "be- / havior",
+       "as": "behavior"
+      }
+     ]
+    },
+    {
+     "stanza": 2,
+     "page": 178,
+     "la": [
+      "Laudis thema specialis,",
+      "Panis vivus et vitalis",
+      "Hodie proponitur.",
+      "Quem in sacræ mensa cœnæ",
+      "Turbæ fratrum duodenæ",
+      "Datum non ambigitur."
+     ],
+     "en_singable": [
+      "Wondrous theme of mortal singing,",
+      "Living Bread and Bread life-bringing,",
+      "Sing we on this joyful day:",
+      "At the Lord's own table given",
+      "To the twelve as Bread from Heaven,",
+      "Doubting not we firmly say."
+     ],
+     "en_page": 178,
+     "en_literal": "To-day there is given us a special theme of praise, the Bread both living and life-giving, which, it is not to be doubted, was given to the assembly of the brethren, twelve in number, at the table of the holy Supper.",
+     "literal_page": 181,
+     "rejoined": [
+      {
+       "witness": "en.singable",
+       "printed": "sing- / ing",
+       "as": "singing"
+      },
+      {
+       "witness": "en.singable",
+       "printed": "life- / bringing",
+       "as": "life-bringing (hyphen kept: read as a compound; OPEN)"
+      }
+     ]
+    },
+    {
+     "stanza": 3,
+     "page": 178,
+     "la": [
+      "Sit laus plena, sit sonora,",
+      "Sit jucunda, sit decora,",
+      "Mentis jubilatio.",
+      "Dies enim solemnis agitur,",
+      "In qua mensæ prima recolitur",
+      "Hujus institutio."
+     ],
+     "en_singable": [
+      "Sing His praise with voice sonorous;",
+      "Every heart shall hear the chorus",
+      "Swell in melody sublime:",
+      "For this day the Shepherd gave us",
+      "Flesh and Blood to feed and save us,",
+      "Lasting to the end of time."
+     ],
+     "en_page": 178,
+     "en_literal": "Let our praise be full and sounding; let the jubilations of the soul be joyous and becoming; for that solemn day is now being celebrated, on which is commemorated the first institution of this table.",
+     "literal_page": 181,
+     "rejoined": []
+    },
+    {
+     "stanza": 4,
+     "page": 179,
+     "la": [
+      "In hac mensa novi Regis,",
+      "Novum Pascha novæ legis,",
+      "Phase vetus terminat.",
+      "Vetustatem novitas,",
+      "Umbram fugat veritas,",
+      "Noctem lux eliminat."
+     ],
+     "en_singable": [
+      "At the new King's sacred table,",
+      "The new Law's new Pasch is able",
+      "To succeed the ancient Rite:",
+      "Old to new its place hath given,",
+      "Truth has far the shadows driven,",
+      "Darkness flees before the Light."
+     ],
+     "en_page": 179,
+     "en_literal": "At this table of the new King, the new Pasch of the New Law puts an end to the ancient Pasch. The new supplants the old, truth puts to flight the shadow, day banishes night.",
+     "literal_page": 181,
+     "rejoined": []
+    },
+    {
+     "stanza": 5,
+     "page": 179,
+     "la": [
+      "Quod in cœna Christus gessit,",
+      "Faciendum hoc expressit",
+      "In sui memoriam.",
+      "Docti sacris institutis,",
+      "Panem, vinum in salutis",
+      "Consecramus hostiam."
+     ],
+     "en_singable": [
+      "And as He hath done and planned it--",
+      "\"Do this\"--hear His love command it,",
+      "\"For a memory of me.\"",
+      "Learnèd, Lord, in Thy own science,",
+      "Bread and wine, in sweet compliance,",
+      "As a Host we offer Thee."
+     ],
+     "en_page": 179,
+     "en_literal": "What Christ did at that Supper, the same He commanded to be done in remembrance of Him. Taught by His sacred precepts, we consecrate bread and wine into the Victim of salvation.",
+     "literal_page": 181,
+     "rejoined": [
+      {
+       "witness": "en.singable",
+       "printed": "com- / mand it",
+       "as": "command it"
+      },
+      {
+       "witness": "en.singable",
+       "printed": "com- / pliance",
+       "as": "compliance"
+      }
+     ]
+    },
+    {
+     "stanza": 6,
+     "page": 179,
+     "la": [
+      "Dogma datur Christianis,",
+      "Quod in carnem transit panis,",
+      "Et vinum in sanguinem.",
+      "Quod non capis, quod non vides,",
+      "Animosa firmat fides,",
+      "Præter rerum ordinem."
+     ],
+     "en_singable": [
+      "Thus in faith the Christian heareth:",
+      "That Christ's Flesh as bread appeareth,",
+      "And as wine His Precious Blood:",
+      "Though we feel it not nor see it,",
+      "Living Faith that doth decree it",
+      "All defects of sense makes good."
+     ],
+     "en_page": 179,
+     "en_literal": "This is the dogma given to Christians, that bread is changed into Flesh and wine into Blood. What thou dost not understand, what thou dost not see, a lively faith confirms in a supernatural manner.",
+     "literal_page": 181,
+     "rejoined": [
+      {
+       "witness": "en.singable",
+       "printed": "ap- / peareth",
+       "as": "appeareth"
+      }
+     ]
+    },
+    {
+     "stanza": 7,
+     "page": 179,
+     "la": [
+      "Sub diversis speciebus,",
+      "Signis tantum, et non rebus,",
+      "Latent res eximiæ.",
+      "Caro cibus, sanguis potus:",
+      "Manet tamen Christus totus,",
+      "Sub utraque specie."
+     ],
+     "en_singable": [
+      "Lo! beneath the species dual",
+      "(Signs not things), is hid a jewel",
+      "Far beyond creation's reach!",
+      "Though His Flesh as food abideth,",
+      "And His Blood as drink--He hideth",
+      "Undivided under each."
+     ],
+     "en_page": 179,
+     "en_literal": "Under different species (different) in externals (signis) only, and not in reality (rebus), wondrous substances lie hidden. Flesh is food, Blood is drink: nevertheless Christ remains entire under each species.",
+     "literal_page": 182,
+     "rejoined": []
+    },
+    {
+     "stanza": 8,
+     "page": 179,
+     "la": [
+      "A sumente non concisus,",
+      "Non confractus, non divisus:",
+      "Integer accipitur.",
+      "Sumit unus, sumunt mille:",
+      "Quantum isti, tantum ille:",
+      "Nec sumptus consumitur."
+     ],
+     "en_singable": [
+      "Whoso eateth It can never",
+      "Break the Body, rend or sever;",
+      "Christ entire our hearts doth fill:",
+      "Thousands eat the Bread of Heaven,",
+      "Yet as much to one is given:",
+      "Christ, though eaten, bideth still."
+     ],
+     "en_page": 179,
+     "en_literal": "By the recipient the whole (Christ) is received; He is neither cut, broken, nor divided. One receives Him; a thousand receive Him: as much as the thousand receive, so much does the one receive; though eaten He is not diminished.",
+     "literal_page": 182,
+     "rejoined": []
+    },
+    {
+     "stanza": 9,
+     "page": 180,
+     "la": [
+      "Sumunt boni, sumunt mali:",
+      "Sorte tamen inæquali,",
+      "Vitæ, vel interitus.",
+      "Mors est malis, vita bonis:",
+      "Vide paris sumptionis,",
+      "Quam sit dispar exitus."
+     ],
+     "en_singable": [
+      "Good and bad, they come to greet Him:",
+      "Unto life the former eat Him,",
+      "And the latter unto death;",
+      "These find death and those find heaven;",
+      "See, from the same life-seed given,",
+      "How the harvest differeth!"
+     ],
+     "en_page": 180,
+     "en_literal": "The good receive Him, the bad receive Him, but with what unequal consequences of life or death. It is death to the unworthy, life to the worthy: behold then of a like reception, how unlike may be the result!",
+     "literal_page": 182,
+     "rejoined": []
+    },
+    {
+     "stanza": 10,
+     "page": 180,
+     "la": [
+      "Fracto demum Sacramento",
+      "Ne vacilles, sed memento,",
+      "Tantum esse sub fragmento,",
+      "Quantum toto tegitur.",
+      "Nulla rei fit scissura:",
+      "Signi tantum fit fractura:",
+      "Qua nec status, nec statura",
+      "Signati minuitur."
+     ],
+     "en_singable": [
+      "When at last the Bread is broken,",
+      "Doubt not what the Lord hath spoken:",
+      "In each part the same love-token,",
+      "The same Christ, our hearts adore:",
+      "For no power the Thing divideth--",
+      "'Tis the symbols He provideth,",
+      "While the Saviour still abideth",
+      "Undiminished as before."
+     ],
+     "en_page": 180,
+     "en_literal": "When the Sacrament is broken, doubt not, but remember, that there is just as much hidden in a fragment, as there is in the whole. There is no division of the substance, only a breaking of the species takes place, by which neither the state nor stature of the substance signified is diminished.",
+     "literal_page": 182,
+     "rejoined": []
+    },
+    {
+     "stanza": 11,
+     "page": 180,
+     "la": [
+      "Ecce panis angelorum,",
+      "Factus cibus viatorum:",
+      "Vere panis filiorum,",
+      "Non mittendus canibus.",
+      "In figuris præsignatur,",
+      "Cum Isaac immolatur:",
+      "Agnus Paschæ deputatur:",
+      "Datur manna patribus."
+     ],
+     "en_singable": [
+      "Hail, angelic Bread of Heaven,",
+      "Now the pilgrim's hoping-leaven,",
+      "Yea, the Bread to children given",
+      "That to dogs must not be thrown:",
+      "In the figures contemplated,",
+      "'Twas with Isaac immolated,",
+      "By the Lamb 'twas antedated,",
+      "In the Manna it was known."
+     ],
+     "en_page": 180,
+     "en_literal": "Lo, the Bread of Angels is made the food of earthly pilgrims: truly it is the Bread of children, let it not be cast to dogs. It was prefigured in types,--when Isaac was immolated, when the Paschal Lamb was sacrificed, when Manna was given to the fathers.",
+     "literal_page": 182,
+     "rejoined": []
+    },
+    {
+     "stanza": 12,
+     "page": 180,
+     "la": [
+      "Bone Pastor, panis vere,",
+      "Jesu, nostri miserere:",
+      "Tu nos pasce, nos tuere:",
+      "Tu nos bona fac videre",
+      "In terra viventium.",
+      "Tu qui cuncta scis et vales:",
+      "Qui nos pascis hic mortales:",
+      "Tuos ibi commensales,",
+      "Cohæredes et sodales",
+      "Fac sanctorum civium."
+     ],
+     "en_singable": [
+      "O Good Shepherd, still confessing",
+      "Love, in spite of our transgressing,--",
+      "Here Thy blessèd Food possessing,",
+      "Make us share Thine every blessing",
+      "In the land of life and love:",
+      "Thou, whose power hath all completed",
+      "And Thy Flesh as Food hath meted,",
+      "Make us, at Thy table seated,",
+      "By Thy Saints, as friends be greeted,",
+      "In Thy paradise above."
+     ],
+     "en_page": 180,
+     "en_literal": "O Good Shepherd, True Bread, O Jesus, have mercy on us: feed us and protect us: make us see good things in the land of the living. Thou who knowest all things and canst do all things, who here feedest us mortals, make us there be Thy guests, the co-heirs, and companions of the heavenly citizens.",
+     "literal_page": 182,
+     "rejoined": [
+      {
+       "witness": "en.singable",
+       "printed": "transgress- / ing,--",
+       "as": "transgressing,--"
+      },
+      {
+       "witness": "en.singable",
+       "printed": "bless- / ing",
+       "as": "blessing"
+      },
+      {
+       "witness": "en.singable",
+       "printed": "com- / pleted",
+       "as": "completed"
+      }
+     ]
+    }
+   ]
+  },
+  "sacris-solemniis": {
+   "britt_number": 77,
+   "title": "Sacris solemniis juncta sint gaudia",
+   "pages": [
+    185,
+    188
+   ],
+   "meter": "Asclepiadic and Glyconic, purely accentual (Britt); each Asclepiadic line kept whole, as printed",
+   "liturgical_use": "Matins hymn for the Feast of Corpus Christi (Britt)",
+   "singable": {
+    "translator": "a cento based on the translation by J. D. Chambers",
+    "britt_says": "Translation, a cento based on the translation by J. D. Chambers",
+    "page": 187
+   },
+   "stanzas": [
+    {
+     "stanza": 1,
+     "page": 185,
+     "la": [
+      "Sacris solemniis juncta sint gaudia,",
+      "Et ex præcordiis sonent præconia;",
+      "Recedant vetera, nova sint omnia,",
+      "Corda, voces, et opera."
+     ],
+     "en_singable": [
+      "At this our solemn Feast,",
+      "Let holy joys abound,",
+      "And from the inmost breast",
+      "Let songs of praise resound;",
+      "Let ancient rites depart,",
+      "And all be new around,",
+      "In ev'ry act and voice and heart."
+     ],
+     "en_page": 185,
+     "en_literal": "With this sacred solemnity let our joys be blended, and from our inmost heart let praises resound; let old things depart, let all be new--hearts, words, and works.",
+     "literal_page": 187,
+     "rejoined": [
+      {
+       "witness": "la.1",
+       "printed": "præ- / conia;",
+       "as": "præconia;"
+      }
+     ]
+    },
+    {
+     "stanza": 2,
+     "page": 186,
+     "la": [
+      "Noctis recolitur cœna novissima,",
+      "Qua Christus creditur agnum et azyma",
+      "Dedisse fratribus, juxta legitima",
+      "Priscis indulta patribus."
+     ],
+     "en_singable": [
+      "Remember we that eve,",
+      "When, the Last Supper spread,",
+      "Christ, as we all believe,",
+      "The lamb, with leavenless bread,",
+      "Among His brethren shared,",
+      "And thus the Law obeyed,",
+      "Of old unto their sires declared."
+     ],
+     "en_page": 186,
+     "en_literal": "Of that night, the Last Supper is recalled to mind, at which we believe that Christ gave the lamb and the leavenless bread to His brethren, according to the legal precepts given to the ancient fathers.",
+     "literal_page": 187,
+     "rejoined": []
+    },
+    {
+     "stanza": 3,
+     "page": 186,
+     "la": [
+      "Post agnum typicum, expletis epulis,",
+      "Corpus Dominicum datum discipulis,",
+      "Sic totum omnibus, quod totum singulis,",
+      "Ejus fatemur manibus."
+     ],
+     "en_singable": [
+      "The typic lamb consumed,",
+      "The legal Feast complete,",
+      "The Lord unto the Twelve",
+      "His Body gave to eat;",
+      "The whole to all, no less",
+      "The whole to each, did mete",
+      "With His own hands, as we confess."
+     ],
+     "en_page": 186,
+     "en_literal": "After the typic lamb, and when the meal was ended, we profess that Our Lord, with His own hands, gave His Body to His brethren; He so gave It that the whole was given to all, and the whole to each.",
+     "literal_page": 187,
+     "rejoined": [
+      {
+       "witness": "la.1",
+       "printed": "dis- / cipulis,",
+       "as": "discipulis,"
+      }
+     ]
+    },
+    {
+     "stanza": 4,
+     "page": 186,
+     "la": [
+      "Dedit fragilibus corporis ferculum,",
+      "Dedit et tristibus sanguinis poculum,",
+      "Dicens: accipite quod trado vasculum,",
+      "Omnes ex eo bibite."
+     ],
+     "en_singable": [
+      "He gave them, weak and frail,",
+      "His Flesh, their food to be;",
+      "On them, downcast and sad,",
+      "His Blood bestowèd He:",
+      "And thus to them He spake,",
+      "\"Receive this Cup from Me,",
+      "And all of you of this partake.\""
+     ],
+     "en_page": 186,
+     "en_literal": "He gave to the weak His Body as food, and He gave to the sad the cup of His Blood, saying: Receive ye the cup which I give to you, drink ye all of it.",
+     "literal_page": 187,
+     "rejoined": [
+      {
+       "witness": "la.1",
+       "printed": "fercu- / lum,",
+       "as": "ferculum,"
+      },
+      {
+       "witness": "la.1",
+       "printed": "pocu- / lum,",
+       "as": "poculum,"
+      }
+     ]
+    },
+    {
+     "stanza": 5,
+     "page": 186,
+     "la": [
+      "Sic sacrificium istud instituit,",
+      "Cujus officium committi voluit",
+      "Solis presbyteris, quibus sic congruit,",
+      "Ut sumant, et dent ceteris."
+     ],
+     "en_singable": [
+      "So He this Sacrifice",
+      "To institute did will,",
+      "And charged His priests alone",
+      "That office to fulfil:",
+      "In them He did confide:",
+      "To whom pertaineth still",
+      "To take, and to the rest divide."
+     ],
+     "en_page": 186,
+     "en_literal": "Thus He instituted this Sacrifice (Sacrament) the administration of which He willed should be entrusted to priests alone, whom it thus behooves to receive it themselves, and to give it to others.",
+     "literal_page": 187,
+     "rejoined": []
+    },
+    {
+     "stanza": 6,
+     "page": 186,
+     "la": [
+      "Panis angelicus fit panis hominum;",
+      "Dat panis cœlicus figuris terminum:",
+      "O res mirabilis, manducat Dominum",
+      "Pauper, servus, et humilis."
+     ],
+     "en_singable": [
+      "Thus Angels' Bread is made",
+      "The Bread of man to-day:",
+      "The Living Bread from Heaven",
+      "With figures doth away:",
+      "O wondrous gift indeed!",
+      "The poor and lowly may",
+      "Upon their Lord and Master feed."
+     ],
+     "en_page": 186,
+     "en_literal": "The Bread of Angels becomes the Bread of men; the Bread of Heaven puts an end to types; O wondrous thing, the poor, the servant, and the lowly, eat their Lord!",
+     "literal_page": 187,
+     "rejoined": [
+      {
+       "witness": "la.1",
+       "printed": "homi- / num;",
+       "as": "hominum;"
+      },
+      {
+       "witness": "la.1",
+       "printed": "termi- / num:",
+       "as": "terminum:"
+      },
+      {
+       "witness": "la.1",
+       "printed": "Domi- / num",
+       "as": "Dominum"
+      }
+     ]
+    },
+    {
+     "stanza": 7,
+     "page": 186,
+     "la": [
+      "Te trina Deitas unaque poscimus,",
+      "Sic nos tu visita, sicut te colimus:",
+      "Per tuas semitas duc nos quo tendimus,",
+      "Ad lucem, quam inhabitas."
+     ],
+     "en_singable": [
+      "O Triune Deity,",
+      "To Thee we meekly pray,",
+      "So mayst Thou visit us,",
+      "As we our homage pay;",
+      "And in Thy footsteps bright",
+      "Conduct us on our way",
+      "To where Thou dwell'st in cloudless light."
+     ],
+     "en_page": 186,
+     "en_literal": "O triune Deity, we beseech Thee, that Thou visit us, as we adore Thee; lead us by Thy ways, whither we direct our steps, to the light wherein Thou dost dwell.",
+     "literal_page": 188,
+     "rejoined": [
+      {
+       "witness": "la.1",
+       "printed": "coli- / mus:",
+       "as": "colimus:"
+      },
+      {
+       "witness": "en.singable",
+       "printed": "cloud- / less",
+       "as": "cloudless"
+      }
+     ]
+    }
+   ]
+  },
+  "verbum-supernum": {
+   "britt_number": 78,
+   "title": "Verbum supernum prodiens (Corpus Christi)",
+   "pages": [
+    188,
+    190
+   ],
+   "meter": "Iambic dimeter (Britt)",
+   "liturgical_use": "Hymn for Lauds on the Feast of Corpus Christi (Britt). Not the Advent hymn of the same incipit (Britt no. 36).",
+   "singable": {
+    "translator": "J. M. Neale (st. 1-4); Edward Caswall (st. 5-6)",
+    "britt_says": "Translation by J. M. Neale; the last two stanzas by Father Caswall",
+    "page": 189
+   },
+   "stanzas": [
+    {
+     "stanza": 1,
+     "page": 188,
+     "la": [
+      "Verbum supernum prodiens,",
+      "Nec Patris linquens dexteram,",
+      "Ad opus suum exiens,",
+      "Venit ad vitæ vesperam."
+     ],
+     "en_singable": [
+      "The Heav'nly Word proceeding forth,",
+      "Yet leaving not the Father's side,",
+      "And going to His work on earth",
+      "Had reached at length life's eventide."
+     ],
+     "en_page": 188,
+     "en_literal": "The Heavenly Word going forth, yet not leaving the right hand of His Father, went forth to His allotted work, and arrived at the evening of His life.",
+     "literal_page": 189,
+     "rejoined": [
+      {
+       "witness": "la.1",
+       "printed": "dexte- / ram,",
+       "as": "dexteram,"
+      }
+     ]
+    },
+    {
+     "stanza": 2,
+     "page": 188,
+     "la": [
+      "In mortem a discipulo",
+      "Suis tradendus æmulis,",
+      "Prius in vitæ ferculo",
+      "Se tradidit discipulis."
+     ],
+     "en_singable": [
+      "By false disciple to be given",
+      "To foemen for His Blood athirst,",
+      "Himself, the Living Bread from Heaven,",
+      "He gave to His disciples first."
+     ],
+     "en_page": 188,
+     "en_literal": "When about to be delivered over to His enemies, by a disciple, to be put to death, He first gave Himself to His disciples as the Bread of Life.",
+     "literal_page": 189,
+     "rejoined": []
+    },
+    {
+     "stanza": 3,
+     "page": 188,
+     "la": [
+      "Quibus sub bina specie",
+      "Carnem dedit et sanguinem;",
+      "Ut duplicis substantiæ",
+      "Totum cibaret hominem."
+     ],
+     "en_singable": [
+      "To them He gave, in two-fold kind,",
+      "His very Flesh, His very Blood:",
+      "In love's own fulness thus designed",
+      "Of the whole man to be the food."
+     ],
+     "en_page": 188,
+     "en_literal": "To them He gave His Flesh and His Blood under a twofold species, that He might wholly feed man, who is of a twofold nature.",
+     "literal_page": 189,
+     "rejoined": [
+      {
+       "witness": "en.singable",
+       "printed": "de- / signed",
+       "as": "designed"
+      }
+     ]
+    },
+    {
+     "stanza": 4,
+     "page": 188,
+     "la": [
+      "Se nascens dedit socium,",
+      "Convescens in edulium,",
+      "Se moriens in pretium,",
+      "Se regnans dat in præmium."
+     ],
+     "en_singable": [
+      "By birth, our fellow-man was He;",
+      "Our meat, while sitting at the board;",
+      "He died, our ransomer to be;",
+      "He ever reigns, our great reward."
+     ],
+     "en_page": 188,
+     "en_literal": "By being born, He gave Himself to us as our companion; at the table, He gave Himself as our food; dying He gave Himself as our ransom; now reigning in glory He gives Himself as our reward.",
+     "literal_page": 189,
+     "rejoined": []
+    },
+    {
+     "stanza": 5,
+     "page": 188,
+     "la": [
+      "O salutaris hostia,",
+      "Quæ cœli pandis ostium,",
+      "Bella premunt hostilia,",
+      "Da robur, fer auxilium."
+     ],
+     "en_singable": [
+      "O saving Victim, opening wide",
+      "The gate of heaven to man below,",
+      "Our foes press on from every side,",
+      "Thine aid supply, Thy strength bestow."
+     ],
+     "en_page": 188,
+     "en_literal": "O Saving Victim, that openest the gate of heaven; hostile attacks oppress us, give us strength, bring us aid.",
+     "literal_page": 189,
+     "rejoined": []
+    },
+    {
+     "stanza": 6,
+     "page": 188,
+     "la": [
+      "Uni trinoque Domino,",
+      "Sit sempiterna gloria:",
+      "Qui vitam sine termino",
+      "Nobis donet in patria."
+     ],
+     "en_singable": [
+      "To Thy great Name be endless praise,",
+      "Immortal Godhead, One in Three;",
+      "O grant us endless length of days",
+      "In our true native land, with Thee."
+     ],
+     "en_page": 188,
+     "en_literal": "Eternal glory be to the Triune God, who giveth us life without end in our native land above.",
+     "literal_page": 190,
+     "rejoined": []
+    }
+   ]
+  }
+ }
+}
