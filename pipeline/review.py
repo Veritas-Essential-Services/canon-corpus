@@ -19,6 +19,10 @@ THE SHEETS (SHEETS below)
     docs/review/2026-09-26-thomas-cuts.md    every clause cut of those hymns
         rows: one per stanza; answers ok / draft→ / `cut: 1, 2-3; note: why`
         answers -> data/hymn-sources/cut-reviewed.jsonl (README-hymn-jsonl.md s.9d)
+    docs/review/2026-09-26-adoro-collation.md   Adoro te's received Latin
+        against Britt 1922, one row per difference (build_hymn_corpus.collate)
+        answers ok (received stands) / britt / draft→, `; note: …` optional
+        answers -> data/hymn-sources/collation-reviewed.jsonl (README-hymn-jsonl.md s.10)
     docs/review/2026-09-26-john1-drafts.md   the John 1 house drafts
         rows: every gloss-override row, and one plain line per verse
         answers -> data/nt/gloss-overrides.jsonl, data/nt/prose-order.jsonl
@@ -860,7 +864,146 @@ class CutSheet:
         return f"{len(self.overrides)} rows in {os.path.relpath(self.out, self.root)} ({recut} re-cut)"
 
 
-SHEETS = (LemmaSheet, ThomasLemmaSheet, CutSheet, NTSheet)
+# =============================================================================
+# The collation of a batch hymn's received Latin against a PD printing
+# =============================================================================
+
+class CollationSheet:
+    """Every difference between Adoro te's received Latin and Britt 1922's
+    printing, one row per difference (README-hymn-jsonl.md s.10). Rows come
+    from build_hymn_corpus.collate() over the committed data, so the sheet is
+    what the data says. Answers go to data/hymn-sources/collation-reviewed.jsonl;
+    the build counts them in the manifest and never edits the text."""
+    name = "2026-09-26-adoro-collation.md"
+    builds = ("build_hymn_corpus.py",)
+    HEADER = ("| # | St · line | Difference id | Received (the corpus) | Britt 1922 | Kind | Adam: |\n"
+              "|---|---|---|---|---|---|---|\n")
+    ANSWER = re.compile(r"^(ok|okay|✓|✔|received|keep|britt)\.?\s*(?:;\s*`?note`?\s*[:=]\s*(.+))?$", re.I)
+
+    def __init__(self, root=ROOT):
+        self.root = root
+        self.path = os.path.join(root, "docs", "review", self.name)
+        self.notes_path = self.path[:-3] + ".notes.json"
+        self.out = os.path.join(root, "data", "hymn-sources", "collation-reviewed.jsonl")
+
+    def load(self):
+        hyd = os.path.join(self.root, "data", "hymns")
+        self.notes = json.loads(read_text(self.notes_path))
+        doc = json.loads(read_text(os.path.join(self.root, "data", "hymn-sources",
+                                                HB.COLLATIONS["adoro-te"])))
+        self.diffs, self.stats = HB.collate(doc, *(jsonl(os.path.join(hyd, f"{k}.jsonl"))
+                                                   for k in ("passages", "witnesses", "tokens")))
+        self.overrides = HB.load_collation_reviews(self.out)
+        self.rows = [dict(d, n=n) for n, d in enumerate(self.diffs, 1)]
+        self.by_id = {r["id"]: r for r in self.rows}
+
+    def label(self, r):
+        return f"row {r['n']} ({r['id']})"
+
+    # -- render --------------------------------------------------------------
+    def adam_cell(self, r):
+        ov = self.overrides.get(r["id"])
+        if not ov:
+            return ""
+        return ov["reading"] + (f"; note: {ov['note']}" if ov.get("note") else "")
+
+    def render(self):
+        k = {}
+        for d in self.diffs:
+            k[d["kind"]] = k.get(d["kind"], 0) + 1
+        counts = ", ".join(f"{n} {kind}" for kind, n in sorted(k.items(), key=lambda x: (-x[1], x[0])))
+        s = self.stats
+        out = [self.notes["intro"].replace("{counts}", counts).replace("{n}", str(len(self.diffs)))
+               .replace("{words}", f"{s['received_words']} received words, {s['printed_words']} printed; "
+                                   f"{s['paired']} paired, {s['identical']} identical to the character"),
+               self.HEADER]
+        show = lambda v: f"*{v}*" if v else "— (absent)"  # noqa: E731
+        for r in self.rows:
+            cells = [str(r["n"]), f"{r['stanza']} · l.{r['line']} (p. {r['page']})", f"`{r['id']}`",
+                     show(r["received"]), show(r["britt"]), r["kind"]]
+            adam = self.adam_cell(r)
+            out.append("| " + " | ".join(cells) + " | " + (adam + " |" if adam else "|") + "\n")
+        out.append(self.notes["outro"])
+        return "".join(out)
+
+    # -- read the sheet --------------------------------------------------------
+    def answers(self, text):
+        out = []
+        for line in text.split("\n"):
+            if not re.match(r"\|\s*\d+\s*\|", line):
+                continue
+            c = table_cells(line)
+            m = re.fullmatch(r"`([^`]+)`", c[2])
+            if not m or m.group(1) not in self.by_id:
+                raise SystemExit(f"sheet row {c[0]}: {c[2]!r} is not a difference of this sheet; "
+                                 "re-render it (review.py render)")
+            out.append((self.by_id[m.group(1)], " | ".join(c[6:]).strip() if len(c) > 6 else ""))
+        return out
+
+    # -- interpret -------------------------------------------------------------
+    def interpret(self, r, ans):
+        """-> ("write", {reading, note?}) or ("defer", None). Raises Stop."""
+        a = ans.strip()
+        m = DRAFT_ARROW.match(a)
+        if m:
+            if a[m.end():].strip():
+                raise Stop("a collation answer has no draft state: write the reading, or `draft→` alone")
+            return "defer", None
+        m = self.ANSWER.match(a)
+        if not m:
+            raise Stop(f"{a!r}: write `ok` (the received reading stands) or `britt` (Britt's), "
+                       "optionally `; note: …`")
+        out = {"reading": "britt" if m.group(1).lower() == "britt" else "received"}
+        if m.group(2):
+            out["note"] = clean(m.group(2))
+        return "write", out
+
+    def row_for(self, r, fields, today):
+        ov = self.overrides.get(r["id"])
+        new = {"id": r["id"], **fields}
+        old = {k: v for k, v in (ov or {}).items() if k != "reviewed_on"}
+        new["reviewed_on"] = ov["reviewed_on"] if ov and old == new else today
+        if "note" in new:
+            new["note"] = new.pop("note")
+        return new
+
+    def plan(self, answers, today):
+        changes, stops = {}, []
+        report = {"answered": 0, "applied": 0, "to_apply": 0, "deferred": 0, "ambiguous": 0}
+        for r, ans in answers:
+            if not ans:
+                continue
+            report["answered"] += 1
+            try:
+                kind, f = self.interpret(r, ans)
+                if kind == "defer":
+                    report["deferred"] += 1
+                    continue
+                row = self.row_for(r, f, today)
+            except Stop as e:
+                stops.append(f"{self.label(r)}: {e}")
+                report["ambiguous"] += 1
+                continue
+            if self.overrides.get(r["id"]) == row:
+                report["applied"] += 1
+            else:
+                report["to_apply"] += 1
+                changes[r["id"]] = row
+        return changes, report, stops
+
+    def write(self, changes):
+        rows = dict(self.overrides)
+        rows.update(changes)
+        order = {r["id"]: i for i, r in enumerate(self.rows)}
+        return {self.out: dump_jsonl(sorted(rows.values(), key=lambda x: order.get(x["id"], 1e9)))}
+
+    def status_extra(self):
+        b = sum(1 for r in self.overrides.values() if r["reading"] == "britt")
+        return (f"{len(self.overrides)} rows in {os.path.relpath(self.out, self.root)} "
+                f"({b} for Britt's reading)")
+
+
+SHEETS = (LemmaSheet, ThomasLemmaSheet, CutSheet, NTSheet, CollationSheet)
 
 
 # =============================================================================

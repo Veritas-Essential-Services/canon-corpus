@@ -9,7 +9,7 @@ happens in a copy (pipeline/, tests/, docs/review/, data/ without the big
 gitignored files; the NT's pinned inputs when data/corpus/ holds them).
 
 WHAT IT ASSERTS
-    1. `render --check`: all four sheets are byte-identical to what the data renders.
+    1. `render --check`: all five sheets are byte-identical to what the data renders.
     2. The lemma sheet: a few answers filled in (ok, ✓, keep, explicit fields,
        a bare Whitaker key with its double space lost, `as row N`, draft→),
        then `apply`:
@@ -31,6 +31,10 @@ WHAT IT ASSERTS
        reason, and a second re-cut stop the run. Then their lemma sheet: a
        bare Whitaker key, a lemma WORDS lacks; `as row N` onto the wrong
        word and `keep` (there is no draft) stop the run.
+    3c. The Adoro te collation sheet: ok, britt with a note, draft->; the
+       answers file gets exactly those rows, the four JSONL files do not move
+       (only the manifest's collation counts), a comment stops the run, and
+       `ok` on every row makes the source verified, dated by the answers.
     4. The John 1 sheet (when the NT inputs are fetched): ✓, a replacement
        gloss, explicit gloss + plain_form, `draft→ value` (still a draft),
        draft→ alone, an accepted plain line and a new prose_order; the same
@@ -172,8 +176,8 @@ try:
 
     print("--- render")
     rc, out = review(tmp, "render", "--check")
-    check("render --check: all four sheets are byte-identical to what the data renders",
-          rc == 0 and out.count("byte-identical") == 4, out)
+    check("render --check: all five sheets are byte-identical to what the data renders",
+          rc == 0 and out.count("byte-identical") == 5, out)
     rc, out = review(tmp, "status")
     check("status: every row open before any answer",
           "24 rows, 0 answered" in out and "24 open" in out and "155 rows, 0 answered" in out
@@ -369,6 +373,48 @@ try:
             rc, out = run(tmp, os.path.join("tests", test))
             check(f"{test} still passes with the cut and lemma answers applied", rc == 0,
                   out.strip().splitlines()[-1:])
+
+        print("\n--- the Adoro te collation sheet")
+        COLL = os.path.join(REV, "2026-09-26-adoro-collation.md")
+        COLF = os.path.join(tmp, "data", "hymn-sources", "collation-reviewed.jsonl")
+        MAN = os.path.join(HYD, "manifest.json")
+        rms = lambda: json.load(open(MAN, encoding="utf-8"))["sources"]["roman-missal-received"]  # noqa: E731
+        shutil.copy(COLL, COLL + ".bak")
+        fill_lemma(COLL, {3: "maybe?"})
+        rc, out = review(tmp, "apply", COLL, "--today", "2026-09-27")
+        check("collation sheet: 'maybe?' stops the run, naming row 3, writing nothing",
+              rc == 2 and "row 3" in out and not os.path.exists(COLF), out)
+        shutil.move(COLL + ".bak", COLL)
+        jl = {f: raw(os.path.join(HYD, f)) for f in os.listdir(HYD) if f.endswith(".jsonl")}
+        fill_lemma(COLL, {8: "ok", 25: "britt; note: no Amen, as Britt", 1: "draft→"})
+        rc, out = review(tmp, "apply", COLL, "--today", "2026-09-27")
+        check("collation sheet: apply runs, rebuilds, and the build's --check passes",
+              rc == 0 and "CHECK PASSED" in out, out)
+        rows = jsonl(COLF)
+        check("collation sheet: exactly the two answered rows are written, in sheet order",
+              [(r["id"].rsplit(":", 1)[1], r["reading"], r["reviewed_on"]) for r in rows]
+              == [("spelling", "received", "2026-09-27"), ("word", "britt", "2026-09-27")]
+              and rows[1]["note"] == "no Amen, as Britt", rows)
+        check("collation sheet: the four JSONL files are byte-identical (the text is never edited)",
+              all(raw(os.path.join(HYD, f)) == b for f, b in jl.items()))
+        rv = rms()["collation"]["hymns:adoro-te"]["review"]
+        check("collation sheet: the manifest counts 2 answered (1 received, 1 britt), 23 open, not verified",
+              (rv["answered"], rv["received"], rv["britt"], rv["open"]) == (2, 1, 1, 23)
+              and rms()["verified"] is False, rv)
+        rc, out = review(tmp, "render", COLL)
+        cells = adam_cells(COLL)
+        check("collation sheet: render shows the answers and the draft→ row open again",
+              cells[8] == "received" and cells[25] == "britt; note: no Amen, as Britt" and cells[1] == "", cells)
+        fill_lemma(COLL, {n: "ok" for n in range(1, 26) if n != 25})
+        fill_lemma(COLL, {25: "ok"})
+        rc, out = review(tmp, "apply", COLL, "--today", "2026-09-28")
+        rec = rms()
+        check("collation sheet: ok on every row makes the source verified, dated by the latest answer",
+              rc == 0 and rec["verified"] is True and rec["verified_on"] == "2026-09-28"
+              and rec["collation"]["hymns:adoro-te"]["review"]["open"] == 0, (out, rec.get("verified")))
+        rc, out = run(tmp, os.path.join("tests", "hymn_corpus_test.py"))
+        check("hymn_corpus_test.py still passes with the collation answered", rc == 0,
+              out.strip().splitlines()[-1:])
 
     if not nt_inputs:
         print("\nskip  the NT's pinned inputs are not fetched (build_nt_corpus.py --fetch); the John 1 apply did not run")

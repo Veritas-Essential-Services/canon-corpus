@@ -326,7 +326,11 @@ SOURCES = {
         "license": "PD",
         "license_basis": "13th-century text; no modern critical edition used",
         "verified": False,
-        "open": ("Adoro te is not yet checked against a named PD printing; Pange lingua was checked "
+        "open": ("Adoro te was collated word by word against Britt 1922 (no. 79, pp. 190-191) on "
+                 "2026-09-26: the words agree except paenitens/poenitens and the closing Amen, which "
+                 "Britt does not print; the rest is orthography, one capital and punctuation "
+                 "(`collation`). Every difference is on docs/review/2026-09-26-adoro-collation.md; "
+                 "the text is unchanged until Adam answers. Pange lingua was checked "
                  "against Britt 1922 and differs in orthography only (cenae/coenae, iubilatio/jubilatio, "
                  "gentium/Gentium, Britt prints no Amen). Canonical orthography is Adam's call "
                  "(Latin Hymns doc s.7, decision 2)."),
@@ -337,7 +341,16 @@ SOURCES = {
         "license": "PD",
         "license_basis": "published 1918; author d. 1889",
         "verified": False,
-        "open": "Quoted from memory in the batch note; verify every stanza against the printed 1918 text before any public use.",
+        "checked_on": "2026-09-26",
+        "finding": ("The 1918 Poems does not print this translation. Bridges's editorial note says no "
+                    "translations of any kind are published in it, and the Project Gutenberg "
+                    "transcription of the 1918 edition (ebook 22403) has no Adoro te. The edition named "
+                    "above is therefore not where this text was printed. It first appeared in a later, "
+                    "enlarged edition; no public-domain scan of one was reachable (archive.org has only "
+                    "1948 and later printings; HathiTrust's catalogue refused an automated request)."),
+        "open": ("Quoted from memory in the batch note, and not verifiable against the 1918 edition, "
+                 "which lacks it. Verify every stanza against a printed text before any public use, and "
+                 "correct `edition` to that printing (and its licence) when found."),
     },
     "caswall-1849-britt-1922": {
         "what": "Pange lingua: stanza-level metrical English (singable)",
@@ -861,6 +874,183 @@ def build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
             })
 
 
+# ---------------------------------------------------------------------------
+# Collation: a batch hymn's received Latin against a named PD printing
+# (README s.10). Nothing here changes the text; it measures it.
+# ---------------------------------------------------------------------------
+
+# work slug -> the printed text it is collated against (data/hymn-sources/)
+COLLATIONS = {"adoro-te": "britt-1922-adoro-te.json"}
+# Adam's answers to the collation sheet (review.py). A missing file is no answers.
+COLLATION_REVIEWED = os.path.join(PRINTED, "collation-reviewed.jsonl")
+COLLATION_SHEET = "docs/review/2026-09-26-adoro-collation.md"
+COLLATION_READINGS = ("received", "britt")
+COLLATION_KEYS = {"id", "reading", "reviewed_on", "note"}
+# What each kind of difference is. `orthography` and `capital` leave the
+# search_key unchanged; `spelling` and `word` do not.
+COLLATION_KINDS = {
+    "orthography": "the same word in another spelling convention (ae/æ, oe/œ, i/j): search_key identical",
+    "spelling": "the same word, spelled differently: search_key differs",
+    "capital": "the same word, capitalised differently",
+    "punctuation": "the punctuation after (or before) the word differs",
+    "word": "a word one printing has and the other lacks, or a different word",
+}
+
+
+def _core(word):
+    core = word.strip(PUNCT)
+    i = word.find(core) if core else len(word)
+    return core, word[:i], word[i + len(core):]
+
+
+def collate(doc, passages, witnesses, tokens):
+    """Every difference between a batch hymn's la.1 text and the printed text
+    in `doc`, word by word, per stanza line. Words are paired after aligning
+    on search_key (difflib), so a word one side lacks shows as a `word`
+    difference and does not shift the rest. Returns (differences, stats); a
+    difference is {id, stanza, line, address, kind, received, britt, page}.
+    The id is the received token's address and the kind, or, for a word only
+    the printing has, its stanza, line and position there."""
+    import difflib
+    work = doc["work"]
+    ps = [p for p in passages if p["work"] == work]
+    by_uid = {p["uid"]: p for p in ps}
+    text = {w["passage_uid"]: w["text"] for w in witnesses if w["name"] == "la.1"}
+    toks = {}
+    for t in tokens:
+        toks.setdefault(t["passage_uid"], []).append(t)
+    printed = {s["stanza"]: s for s in doc["stanzas"]}
+    stanzas = sorted((p for p in ps if p["unit"] == "stanza"), key=lambda p: p["stanza"])
+    if sorted(printed) != [p["stanza"] for p in stanzas]:
+        _stop(f"{work}: the collation file's stanzas do not match the corpus's")
+    diffs = []
+    stats = {"received_words": 0, "printed_words": 0, "paired": 0, "identical": 0}
+    for st in stanzas:
+        n, sp = st["stanza"], printed[st["stanza"]]
+        # the received lines, each word with its token address
+        lines = []
+        for u in st["clauses"]:
+            queue = list(toks[u])
+            for line in text[u].split("\n"):
+                words = []
+                for w in line.split():
+                    if w.strip(PUNCT):
+                        words.append((w, queue.pop(0)["address"]))
+                lines.append(words)
+            if queue:
+                _stop(f"{by_uid[u]['citation']}: tokens left over after its text")
+        if len(lines) != len(sp["la"]):
+            _stop(f"{work} st{n}: {len(lines)} received lines, {len(sp['la'])} printed")
+        for li, (rec, pline) in enumerate(zip(lines, sp["la"]), 1):
+            pw = pline.split()
+            stats["received_words"] += len(rec)
+            stats["printed_words"] += len(pw)
+            ka = [search_key(normalized(_core(w)[0])) for w, _ in rec]
+            kb = [search_key(normalized(_core(w)[0])) for w in pw]
+            sm = difflib.SequenceMatcher(None, ka, kb, autojunk=False)
+            pairs, extra = [], []
+            for op, i1, i2, j1, j2 in sm.get_opcodes():
+                if op in ("equal", "replace") and i2 - i1 == j2 - j1:
+                    pairs += list(zip(range(i1, i2), range(j1, j2)))
+                else:
+                    extra += [(i, None) for i in range(i1, i2)] + [(None, j) for j in range(j1, j2)]
+            for i, j in pairs:
+                (rw, addr), bw = rec[i], pw[j]
+                rc, rpre, rpost = _core(rw)
+                bc, bpre, bpost = _core(bw)
+                stats["paired"] += 1
+                if rw == bw:
+                    stats["identical"] += 1
+                    continue
+                if rc != bc:
+                    kind = ("capital" if rc.lower() == bc.lower() else
+                            "orthography" if search_key(rc) == search_key(bc) else
+                            "spelling" if search_key(rc)[:1] == search_key(bc)[:1] else "word")
+                    diffs.append({"kind": kind, "received": rc, "britt": bc, "address": addr,
+                                  "stanza": n, "line": li})
+                if (rpre, rpost) != (bpre, bpost):
+                    diffs.append({"kind": "punctuation", "received": rw, "britt": bw, "address": addr,
+                                  "stanza": n, "line": li})
+            for i, j in extra:
+                if i is not None:
+                    diffs.append({"kind": "word", "received": rec[i][0], "britt": None,
+                                  "address": rec[i][1], "stanza": n, "line": li})
+                else:
+                    diffs.append({"kind": "word", "received": None, "britt": pw[j], "address": None,
+                                  "stanza": n, "line": li, "at": j + 1})
+    out = []
+    for d in diffs:
+        d["id"] = (f"{d['address']}:{d['kind']}" if d["address"]
+                   else f"{work}.st{d['stanza']}.l{d['line']}.w{d.pop('at')}:{d['kind']}")
+        d["page"] = printed[d["stanza"]]["page"]
+        out.append({k: d.get(k) for k in ("id", "stanza", "line", "address", "kind",
+                                           "received", "britt", "page")})
+    if len({d["id"] for d in out}) != len(out):
+        _stop(f"{work}: two collation differences share an id")
+    return out, stats
+
+
+def load_collation_reviews(path=None):
+    """{difference id: row}. Malformed is a hard stop, as for the cut answers."""
+    path = path or COLLATION_REVIEWED
+    if not os.path.exists(path):
+        return {}
+    out = {}
+    with open(path, encoding="utf-8") as f:
+        for n, line in enumerate(f, 1):
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            where = f"collation-reviewed.jsonl:{n}"
+            if set(row) - COLLATION_KEYS or not {"id", "reading", "reviewed_on"} <= set(row):
+                _stop(f"{where}: fields must be {sorted(COLLATION_KEYS)} (id, reading, reviewed_on required)")
+            if row["reading"] not in COLLATION_READINGS:
+                _stop(f"{where}: reading must be one of {COLLATION_READINGS}")
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row["reviewed_on"]):
+                _stop(f"{where}: reviewed_on must be YYYY-MM-DD")
+            if row["id"] in out:
+                _stop(f"{where}: {row['id']} is answered twice")
+            out[row["id"]] = row
+    return out
+
+
+def collation_block(key, passages, witnesses, tokens):
+    """The verification fields a collation adds to the received text's source
+    record: what was compared, how many words, every kind of difference, and
+    where Adam's answers stand. Returns (block, all answered `received`,
+    latest reviewed_on). An answer for Britt's reading is recorded, not
+    applied: the text is the batch note's, and a change to it is made there."""
+    doc, sha = _load(PRINTED, COLLATIONS[key])
+    diffs, stats = collate(doc, passages, witnesses, tokens)
+    ids = {d["id"] for d in diffs}
+    answers = load_collation_reviews()
+    stale = sorted(set(answers) - ids)
+    if stale:
+        _stop(f"collation answers name differences that do not exist: {stale[:5]}")
+    kinds = {k: sum(1 for d in diffs if d["kind"] == k) for k in COLLATION_KINDS}
+    by_reading = {r: sum(1 for x in answers.values() if x["reading"] == r) for r in COLLATION_READINGS}
+    read = doc["scan"]["pages_read"]
+    block = {
+        "against": (f"Matthew Britt, The Hymns of the Breviary and Missal (1922), no. "
+                    f"{doc['edition']['britt_number']}, pp. {read[0]['page']}-{read[-1]['page']} "
+                    f"(scan {BRITT_SCAN} {read[0]['scan_page']}-{read[-1]['scan_page']}), "
+                    "read from the page images"),
+        "file": "data/hymn-sources/" + COLLATIONS[key],
+        "file_sha256": sha,
+        "collated_on": doc["transcription"]["on"],
+        "words": stats,
+        "differences": len(diffs),
+        "by_kind": {k: v for k, v in kinds.items() if v},
+        "search_key_changes": sum(1 for d in diffs if d["kind"] in ("spelling", "word")),
+        "kinds": {k: COLLATION_KINDS[k] for k, v in kinds.items() if v},
+        "review": {"sheet": COLLATION_SHEET,
+                   "answers": "data/hymn-sources/collation-reviewed.jsonl",
+                   "answered": len(answers), "open": len(diffs) - len(answers), **by_reading},
+    }
+    done = bool(diffs) and len(answers) == len(diffs) and not by_reading["britt"]
+    return block, done, max((r["reviewed_on"] for r in answers.values()), default=None)
+
+
 def build(src, reg):
     passages, witnesses, tokens, alignments = [], [], [], []
     inputs = {}
@@ -1102,6 +1292,13 @@ def build(src, reg):
         with open(CUT_REVIEWED, "rb") as f:
             inputs["cut-reviewed.jsonl"] = hashlib.sha256(f.read()).hexdigest()
     sources = dict(SOURCES)
+    for key in COLLATIONS:
+        block, done, on = collation_block(key, passages, witnesses, tokens)
+        rec = dict(sources["roman-missal-received"])
+        rec["collation"] = {**rec.get("collation", {}), f"hymns:{key}": block}
+        if done:
+            rec.update(verified=True, verified_on=on)
+        sources["roman-missal-received"] = rec
     if any("source_file" in H for H in HYMNS.values()):
         sources.update(PRINTED_SOURCES)
         if cut_rows:

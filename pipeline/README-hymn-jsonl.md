@@ -343,3 +343,57 @@ Their flagged tokens have their own sheet,
 4. Run `review.py render` to add the stanzas and the flags to the sheets.
 5. Bump the counts in `tests/hymn_corpus_test.py` and `tests/lemma_spine_test.py`.
    Add the hymn to `render_reader.WORKS` and to `export_mnemonicon_pack.HYMNS`.
+
+---
+
+## 10. Collating a batch hymn against a PD printing
+
+*Added 2026-09-26: Adoro te against Britt 1922.*
+
+*Adoro te*'s Latin came from the vault batch note as "received liturgical
+text", with `verified: false` and an open item: check it against a named PD
+printing. Britt 1922 prints it (no. 79, pp. 190-191). The collation measures the
+corpus text against that printing and changes nothing in it.
+
+**The printed text.** `data/hymn-sources/britt-1922-adoro-te.json` holds
+Britt's Latin as printed, read from the page images (scan n199-n200, each
+image's sha256 recorded) by the s.9a conventions. It is not an input of the
+text, so it is not in `inputs_sha256`. `build_hymn_corpus.COLLATIONS` names it.
+
+**The comparison.** `collate()` pairs the words of each stanza line, after
+aligning on `search_key`. A word one side lacks does not shift the rest. Each
+difference gets a kind:
+
+| kind | meaning | search_key |
+|---|---|---|
+| `orthography` | æ/ae, œ/oe, j/i | same |
+| `capital` | *Veritatis* / *veritatis* | same |
+| `punctuation` | the marks around the word | same |
+| `spelling` | *paenitens* / *pœnitens* | differs |
+| `word` | a word only one side has | differs |
+
+Its id is the received token's address and the kind
+(`wh-…/la.1.t10:spelling`).
+
+**The result (2026-09-26).** 149 received words and 148 printed; every
+printed word pairs, and 124 are identical to the character. There are 25
+differences: 12 punctuation, 10 orthography, 1 capital, 1 spelling (*paenitens*)
+and 1 word (the closing *Amen*, which Britt does not print, as for *Pange
+lingua*). The build writes this into `manifest.sources["roman-missal-received"]
+.collation["hymns:adoro-te"]`. Those are verification fields only: a rebuild
+changes no JSONL file and no uid.
+
+**Adam's answers.** `docs/review/2026-09-26-adoro-collation.md` has one row
+per difference. `ok` means the received reading stands, `britt` means Britt's
+is preferred, and `draft→` leaves the row open. `review.py apply` writes
+`data/hymn-sources/collation-reviewed.jsonl` (`{id, reading, reviewed_on,
+note?}`), and the manifest counts the rows. The source becomes `verified:
+true` only when every row is answered `ok`. A `britt` answer is recorded, not
+applied, because the text is the batch note's and a change to it is made
+there. After such a change, remove the answer row: its difference is gone, and
+an answer to a difference that does not exist stops the build.
+
+**Hopkins.** The singable is recorded as from the 1918 *Poems*, but that
+edition prints no translations (Bridges's note, and the Project Gutenberg
+transcription of it, ebook 22403). No PD printing of Hopkins's *Adoro te* was
+reachable, so `hopkins-1918` stays unverified, with a `finding` saying why.

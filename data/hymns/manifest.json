@@ -74,7 +74,45 @@
    "license": "PD",
    "license_basis": "13th-century text; no modern critical edition used",
    "verified": false,
-   "open": "Adoro te is not yet checked against a named PD printing; Pange lingua was checked against Britt 1922 and differs in orthography only (cenae/coenae, iubilatio/jubilatio, gentium/Gentium, Britt prints no Amen). Canonical orthography is Adam's call (Latin Hymns doc s.7, decision 2)."
+   "open": "Adoro te was collated word by word against Britt 1922 (no. 79, pp. 190-191) on 2026-09-26: the words agree except paenitens/poenitens and the closing Amen, which Britt does not print; the rest is orthography, one capital and punctuation (`collation`). Every difference is on docs/review/2026-09-26-adoro-collation.md; the text is unchanged until Adam answers. Pange lingua was checked against Britt 1922 and differs in orthography only (cenae/coenae, iubilatio/jubilatio, gentium/Gentium, Britt prints no Amen). Canonical orthography is Adam's call (Latin Hymns doc s.7, decision 2).",
+   "collation": {
+    "hymns:adoro-te": {
+     "against": "Matthew Britt, The Hymns of the Breviary and Missal (1922), no. 79, pp. 190-191 (scan archive.org/details/hymnsofbreviarym00britrich n199-n200), read from the page images",
+     "file": "data/hymn-sources/britt-1922-adoro-te.json",
+     "file_sha256": "3b66fdb4eb3b80267260931a1e38ffca3c0cc9803f067e786d1447d8b2729232",
+     "collated_on": "2026-09-26",
+     "words": {
+      "received_words": 149,
+      "printed_words": 148,
+      "paired": 148,
+      "identical": 124
+     },
+     "differences": 25,
+     "by_kind": {
+      "orthography": 10,
+      "spelling": 1,
+      "capital": 1,
+      "punctuation": 12,
+      "word": 1
+     },
+     "search_key_changes": 2,
+     "kinds": {
+      "orthography": "the same word in another spelling convention (ae/æ, oe/œ, i/j): search_key identical",
+      "spelling": "the same word, spelled differently: search_key differs",
+      "capital": "the same word, capitalised differently",
+      "punctuation": "the punctuation after (or before) the word differs",
+      "word": "a word one printing has and the other lacks, or a different word"
+     },
+     "review": {
+      "sheet": "docs/review/2026-09-26-adoro-collation.md",
+      "answers": "data/hymn-sources/collation-reviewed.jsonl",
+      "answered": 0,
+      "open": 25,
+      "received": 0,
+      "britt": 0
+     }
+    }
+   }
   },
   "hopkins-1918": {
    "what": "Adoro te: stanza-level metrical English (singable)",
@@ -82,7 +120,9 @@
    "license": "PD",
    "license_basis": "published 1918; author d. 1889",
    "verified": false,
-   "open": "Quoted from memory in the batch note; verify every stanza against the printed 1918 text before any public use."
+   "checked_on": "2026-09-26",
+   "finding": "The 1918 Poems does not print this translation. Bridges's editorial note says no translations of any kind are published in it, and the Project Gutenberg transcription of the 1918 edition (ebook 22403) has no Adoro te. The edition named above is therefore not where this text was printed. It first appeared in a later, enlarged edition; no public-domain scan of one was reachable (archive.org has only 1948 and later printings; HathiTrust's catalogue refused an automated request).",
+   "open": "Quoted from memory in the batch note, and not verifiable against the 1918 edition, which lacks it. Verify every stanza against a printed text before any public use, and correct `edition` to that printing (and its licence) when found."
   },
   "caswall-1849-britt-1922": {
    "what": "Pange lingua: stanza-level metrical English (singable)",

@@ -389,6 +389,49 @@ unflagged = [t["address"] for t in tokens if t["passage_uid"] in printed_uids an
              and not t["review"]]
 check("a printed token with no lemma is flagged for review", not unflagged, unflagged[:3])
 
+print("\n--- the collation: Adoro te's received Latin against Britt 1922 (README s.10)")
+rms = manifest["sources"]["roman-missal-received"]
+col = rms.get("collation", {}).get("hymns:adoro-te")
+check("the received text's source carries the Adoro te collation", bool(col))
+if col:
+    cpath = os.path.join(REPO, col["file"])
+    craw = open(cpath, "rb").read()
+    cdoc = json.loads(craw.decode("utf-8"))
+    check("the collation file exists and its sha256 is the manifest's",
+          hashlib.sha256(craw).hexdigest() == col["file_sha256"])
+    check("... and it is NOT an input of the text (inputs_sha256 unchanged by a collation)",
+          os.path.basename(cpath) not in manifest["inputs_sha256"])
+    check("the collation names Britt no. 79, pp. 190-191, each page image hashed",
+          cdoc["edition"]["britt_number"] == 79 and [p["page"] for p in cdoc["scan"]["pages_read"]] == [190, 191]
+          and all(re.fullmatch(r"[0-9a-f]{64}", p["image_sha256"]) for p in cdoc["scan"]["pages_read"]))
+    diffs, cstats = B.collate(cdoc, passages, witnesses, tokens)
+    kinds = {}
+    for d in diffs:
+        kinds[d["kind"]] = kinds.get(d["kind"], 0) + 1
+    check("re-collated from the committed JSONL, the counts are the manifest's",
+          cstats == col["words"] and len(diffs) == col["differences"] and kinds == col["by_kind"], (cstats, kinds))
+    # Measured 2026-09-26 from the page images: 149 received words, 148 printed.
+    check("every printed word pairs with a received one (149 received, 148 printed, 148 paired)",
+          (cstats["received_words"], cstats["printed_words"], cstats["paired"]) == (149, 148, 148), cstats)
+    check("25 differences: 12 punctuation, 10 orthography, 1 capital, 1 spelling, 1 word",
+          kinds == {"punctuation": 12, "orthography": 10, "capital": 1, "spelling": 1, "word": 1}, kinds)
+    sk = sorted((d["received"], d["britt"] or "") for d in diffs if d["kind"] in ("spelling", "word"))
+    check("only two change a search_key: paenitens/pœnitens and the Amen Britt does not print",
+          sk == [("Amen.", ""), ("paenitens", "pœnitens")], sk)
+    orth = [d for d in diffs if d["kind"] == "orthography"
+            and B.search_key(d["received"]) != B.search_key(d["britt"])]
+    check("every orthography difference folds to the same search_key", not orth, orth[:2])
+    toks_by = {t["address"] for t in tokens}
+    check("every difference names a real received token (none is Britt-only)",
+          all(d["address"] in toks_by for d in diffs))
+    rv = col["review"]
+    check("the review counts add up, and the source is verified only when every row is answered `received`",
+          rv["answered"] + rv["open"] == len(diffs)
+          and rms["verified"] == (rv["open"] == 0 and rv["britt"] == 0))
+hop = manifest["sources"]["hopkins-1918"]
+check("Hopkins stays unverified, with the finding recorded (the 1918 Poems does not print it)",
+      hop["verified"] is False and "does not print" in hop.get("finding", ""))
+
 print("\n--- replay: the registry mints nothing")
 tmp = tempfile.mkdtemp()
 try:
