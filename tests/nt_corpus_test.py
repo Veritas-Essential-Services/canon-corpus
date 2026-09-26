@@ -29,6 +29,9 @@ import shutil
 import sys
 import tempfile
 import unicodedata
+# Greek in failure messages must print on a Windows console (cp1252 by default).
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
