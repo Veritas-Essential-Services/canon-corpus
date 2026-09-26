@@ -82,6 +82,10 @@ The living truth for project state is the Obsidian vault:
     python3 tests/lemma_spine_test.py        # the Latin lemma spine
     python3 tests/whitaker_tricks_test.py    # WORDS syncope/slury/fixes/tricks/roman/tackons/packons, rule by rule
     python3 pipeline/benchmark_whitaker.py --fetch  # WORDS vs the Clementine Vulgate (text gitignored)
+    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT pilot: RP2018 + Strong's, pinned
+    python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
+    python3 tests/nt_corpus_test.py          # validator for data/nt/*.jsonl
+    python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -98,6 +102,11 @@ The living truth for project state is the Obsidian vault:
   lemmas, licence `free-grant`, NOT PD) → data/lemmas/whitaker-la/ (hymn
   slice committed; full table gitignored). Rules:
   pipeline/README-lemma-spine.md
+- pipeline/build_nt_corpus.py — the Greek NT (Robinson-Pierpont 2018, PD;
+  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/ (COMMITTED).
+  One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
+  mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
+  pipeline/README-nt-jsonl.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

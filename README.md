@@ -26,6 +26,7 @@ provenance) is the committed record of the collection.
     python3 tests/structure_test.py         # 60 offline checks, no corpus needed
     python3 tests/hymn_corpus_test.py       # the hymn JSONL validator (D1-D2)
     python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
+    python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)
 
 ## Latin hymns (JSONL)
 
@@ -34,6 +35,14 @@ provenance) is the committed record of the collection.
 keyed by uid. Schema and rules: `pipeline/README-hymn-jsonl.md`.
 Each token's lemma comes from Whitaker's WORDS where it agrees with the house
 draft (launch plan D3): `pipeline/README-lemma-spine.md`.
+
+## Greek New Testament (JSONL, pilot)
+
+`data/nt/` holds John 1:1-18 from the Robinson-Pierpont Byzantine text
+(public domain) in the same four files, one row per verse. Each verse is a
+witness of the KJV verse's existing uid, so nothing is minted. Parsing is
+Robinson's; lemmas are Strong's headwords. Schema, licence evidence,
+transliteration scheme and the full-NT plan: `pipeline/README-nt-jsonl.md`.
 
 Extracted from the patrimonium repo 2026-07-22; pre-extraction history
 lives there (through commit `d33503e`).
