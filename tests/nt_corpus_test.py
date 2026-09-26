@@ -16,7 +16,8 @@ TWO HALVES, as in hymn_corpus_test.py
     whose surface it names; every prose_order is a permutation of its verse's
     token positions (or the documented subset, with the rest absorbed); every
     draft row and every witness built from one says draft, and its source is
-    licence own.
+    licence own; a row Adam has answered (pipeline/review.py) says
+    adam-reviewed and reviewed_on instead.
 
     AGAINST THE PINNED INPUTS (runs when data/corpus/ holds them, says so
     when not; `build_nt_corpus.py --fetch` gets them): a rebuild is
@@ -342,17 +343,37 @@ landed = [r["address"] for r in ov_rows
           if tok_by[r["address"]]["gloss"] != r.get("gloss", tok_by[r["address"]]["gloss"])
           or tok_by[r["address"]]["plain_form"] != r.get("plain_form")]
 check("... and the token carries the row's gloss and plain_form", not landed, landed[:3])
-check("every row is a house draft: layer house, draft true, drafted_on, and a one-line reason",
-      all(r["layer"] == "house" and r["draft"] is True and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["drafted_on"])
-          and "reviewed_on" not in r and r.get("note") and "\n" not in r["note"] for r in ov_rows))
-check("... and every overridden token says so: source house, contextual, draft, the dictionary gloss kept",
-      all(p["source"] == "house" and p["kind"] == "contextual" and p["draft"] is True and p["drafted_on"]
-          and "reviewed_on" not in p and p["was"]["source"] in (G.SOURCE, None) and "value" in p["was"]
-          for p in (t["provenance"]["gloss"] for t in overridden)))
+DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
+
+
+def drafted(r):      # a house draft awaiting review
+    return (r.get("layer", r.get("source")) in ("house", "house-draft") and r.get("draft") is True
+            and DATE.fullmatch(r.get("drafted_on") or "") and "reviewed_on" not in r)
+
+
+def reviewed(r):     # an answer Adam gave on the review sheet (pipeline/review.py apply)
+    return (r.get("layer", r.get("source")) == "adam-reviewed" and "draft" not in r
+            and "drafted_on" not in r and DATE.fullmatch(r.get("reviewed_on") or ""))
+
+
+ov_draft = [r for r in ov_rows if r.get("draft")]
+ov_by = G.load_overrides()
+check("every row is a house draft (layer house, draft true, drafted_on) or Adam's reviewed answer "
+      "(layer adam-reviewed, reviewed_on), with a one-line reason",
+      all((drafted(r) or reviewed(r)) and r.get("note") and "\n" not in r["note"] for r in ov_rows))
+check("... and every overridden token says so: its row's layer, contextual, draft or reviewed_on as the "
+      "row is, the dictionary gloss kept",
+      all(p["source"] == ov["layer"] and p["kind"] == "contextual"
+          and (p.get("draft") is True and p["drafted_on"] == ov["drafted_on"] and "reviewed_on" not in p
+               if ov.get("draft") else "draft" not in p and p["reviewed_on"] == ov["reviewed_on"])
+          and p["was"]["source"] in (G.SOURCE, None) and "value" in p["was"]
+          for t in overridden for p, ov in [(t["provenance"]["gloss"], ov_by[t["address"]])]))
 check("the manifest counts the draft rows and points at the review doc",
-      gm["overrides"]["draft"] == len(ov_rows) == manifest["drafts"]["gloss_override_rows"]
+      gm["overrides"]["draft"] == len(ov_draft) == manifest["drafts"]["gloss_override_rows"]
       and os.path.exists(os.path.join(REPO, manifest["drafts"]["review_doc"]))
-      and manifest["drafts"]["status"] == "awaiting Adam's review")
+      and manifest["drafts"]["status"] == ("awaiting Adam's review"
+                                           if ov_draft or any(w.get("draft") for w in plains)
+                                           else "none open: every row reviewed"))
 check("word glosses, not paraphrase: no gloss or plain_form over four words",
       all(len(re.split(r"[ -]", s)) <= 4 for r in ov_rows for s in (r.get("gloss"), r.get("plain_form")) if s))
 check("every null the dictionary left is now glossed (the 22)",
@@ -376,17 +397,24 @@ check("... using the hymns' own rule (build_hymn_corpus.permutation_problems agr
 check("a supplied word is a non-empty string; every other step a position",
       all(isinstance(s, int) or (isinstance(s, str) and s.strip() == s and s) for w in plains
           for s in w["prose_order"]))
-check("every en.plain is a draft: draft true, drafted_on, source house-draft",
-      all(w.get("draft") is True and w.get("drafted_on") and w["source"] == "house-draft" for w in plains)
-      and manifest["prose_order"]["draft"] == len(plains) == manifest["drafts"]["prose_orders"])
+check("every en.plain is a house draft (draft true, drafted_on, source house-draft) or Adam's "
+      "(source adam-reviewed, reviewed_on), as its row is",
+      all((drafted(w) or reviewed(w)) and w["source"] == po_rows[w["passage_uid"]]["source"]
+          and w.get("drafted_on") == po_rows[w["passage_uid"]].get("drafted_on")
+          and w.get("reviewed_on") == po_rows[w["passage_uid"]].get("reviewed_on") for w in plains)
+      and manifest["prose_order"]["draft"] == sum(1 for w in plains if w.get("draft"))
+      == manifest["drafts"]["prose_orders"])
 rendered = {w["passage_uid"]: B.render_plain(toks_of[w["passage_uid"]], w) for w in plains}
 check("render_plain() produces a line for every verse, gloss or plain_form for every walked token",
       all(line and "None" not in line for line in rendered.values()))
 check("... and keeps the Prologue's names capitalised (John, Moses, Father, God, Word)",
       all(n in " ".join(rendered.values()) for n in ("John", "Moses", "Father", "God", "Word")))
-check("the licence gate: house (glosses) and house-draft (prose_order) are sources, licence own",
-      src.get("house", {}).get("license") == "own" == src.get("house-draft", {}).get("license")
-      and src["house-draft"].get("status") == "draft" and "draft" in src["house"].get("open", ""))
+used = {r["layer"] for r in ov_rows} | {w["source"] for w in plains}
+check("the licence gate: every layer and prose source in use (house, house-draft, adam-reviewed) is a "
+      "source, licence own; a draft source says draft",
+      all(src.get(k, {}).get("license") == "own" for k in used)
+      and ("house-draft" not in used or src["house-draft"].get("status") == "draft")
+      and ("house" not in used or not ov_draft or "draft" in src["house"].get("open", "")))
 check("... and the manifest records both files' checksums as inputs",
       manifest["inputs_sha256"].get("gloss-overrides.jsonl") == B.sha256(G.OVERRIDES)
       and manifest["inputs_sha256"].get("prose-order.jsonl") == B.sha256(B.PROSE_ORDERS))
@@ -484,6 +512,11 @@ try:
           and po_bad([dict(po, prose_order=[1, True])]) and po_bad([dict(po, prose_order=[1, ""])])
           and po_bad([po, po]) and po_bad([dict(po, plain_override="x")])
           and po_bad([dict(po, reviewed_on="2026-09-27")]) and po_bad([dict(po, prose_order=[])]))
+    done = {k: v for k, v in po.items() if k not in ("draft", "drafted_on")}
+    done.update(source="adam-reviewed", reviewed_on="2026-09-27")
+    check("Adam's reviewed prose_order loads (source adam-reviewed, reviewed_on), and is never a draft",
+          not po_bad([done]) and po_bad([dict(done, draft=True, drafted_on="2026-09-26")])
+          and po_bad([{k: v for k, v in done.items() if k != "reviewed_on"}]))
     check("the permutation rule: a missing, repeated or out-of-range position is reported",
           B.permutation_problems(3, [2, "the", 1], [3]) is None
           and B.permutation_problems(3, [1, 2], [])["missing"] == [3]

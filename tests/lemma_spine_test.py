@@ -11,7 +11,8 @@ WHAT IT ASSERTS
        manifest records the source at a pinned commit, the sha256 of every
        Whitaker file, and the licence grant VERBATIM with its evidence.
     2. Coverage: the counts in both manifests are what the token file says,
-       and what was measured on 2026-09-26 (so a regression is loud).
+       and, taken as resolved (before Adam's answers), what was measured on
+       2026-09-26 (so a regression is loud).
     3. Provenance, per token: every lemma and parsing names its source and
        carries the draft it replaced; a value from Whitaker is one of
        Whitaker's analyses of that very form; a value from the draft IS the
@@ -20,8 +21,8 @@ WHAT IT ASSERTS
        back reproduces the pre-D3 token file's lemma/parsing exactly.
     5. The resolver's rules, on small synthetic cases, including readings
        reached by a WORDS rule (`via`) and two-words guesses.
-    6. Adam's overrides: the committed file exists (empty until he answers
-       the review sheet), and loading and applying rows behaves as documented.
+    6. Adam's overrides: the committed file exists, every row in it is on
+       its token, and loading and applying rows behaves as documented.
     AGAINST THE WHITAKER FILES (when fetched; says so when not)
     7. The pins hold, and a rebuild of the committed lemma files is
        byte-identical.
@@ -135,11 +136,30 @@ recount = {
 spine = hman["lemma_spine"]
 check("the hymn manifest's spine stats are what the tokens say",
       all(spine[k] == v for k, v in recount.items()), recount)
+
+
+def as_resolved(t):
+    """The token as the resolver left it, before any of Adam's answers (an
+    answer keeps what it replaced under `was`)."""
+    prov, t = dict(t["provenance"]), dict(t)
+    for f in ("lemma", "parsing"):
+        if prov[f]["source"] == L.OVERRIDE_SOURCE:
+            prov[f] = prov[f]["was"]
+    t["provenance"] = prov
+    t["review"] = ((prov["lemma"]["status"] in ("disagree", "ambiguous", "unknown")
+                    or prov["parsing"]["status"] == "disagree") or None)
+    return t
+
+
+# The measures are of Whitaker against the draft, so they are taken as
+# resolved: Adam answering a flag (review.py apply) does not move them.
+measured = load("build_hymn_corpus").spine_stats([as_resolved(t) for t in tokens])
 for k in ("lemma_from_whitaker", "lemma_from_draft", "parsing_from_whitaker",
           "parsing_confirmed_by_whitaker", "flagged_for_review", "lemma_status", "parsing_status"):
-    check(f"coverage: {k} as measured", spine[k] == EXPECTED[k], spine[k])
-check("lemma coverage from Whitaker is over 90%", recount["lemma_from_whitaker"] / len(tokens) > 0.9,
-      f"{recount['lemma_from_whitaker']}/{len(tokens)}")
+    check(f"coverage: {k} as measured (as resolved, before Adam's answers)",
+          measured[k] == EXPECTED[k], measured[k])
+check("lemma coverage from Whitaker is over 90%", measured["lemma_from_whitaker"] / len(tokens) > 0.9,
+      f"{measured['lemma_from_whitaker']}/{len(tokens)}")
 
 print("\n--- provenance, per token")
 OV = L.load_overrides()
@@ -291,11 +311,12 @@ check("a two-words guess is never taken: unknown, the guess recorded",
                                               "pelli+cane part 2: canis, canis"])
 
 print("\n--- Adam's overrides")
-check("the overrides file is committed, and empty until Adam answers the review sheet",
-      os.path.exists(L.OVERRIDES) and not OV)
-check("no token carries adam-reviewed yet, and the hymn manifest declares it only once used",
-      not any(L.OVERRIDE_SOURCE in (t["provenance"]["lemma"]["source"], t["provenance"]["parsing"]["source"])
-              for t in tokens) and L.OVERRIDE_SOURCE not in hman["sources"])
+answered = {t["address"] for t in tokens
+            if L.OVERRIDE_SOURCE in (t["provenance"]["lemma"]["source"], t["provenance"]["parsing"]["source"])}
+check("the overrides file is committed, and every row in it is applied to its token (review.py writes it)",
+      os.path.exists(L.OVERRIDES) and answered == set(OV), sorted(answered ^ set(OV))[:3])
+check("the hymn manifest declares adam-reviewed exactly when a row is applied",
+      (L.OVERRIDE_SOURCE in hman["sources"]) == bool(OV))
 
 
 def loads(*rows):

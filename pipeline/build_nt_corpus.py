@@ -234,6 +234,22 @@ PROSE_SOURCES = {
         "open": "draft: awaiting Adam's review (" + REVIEW_DOC + ")",
     },
 }
+# Adam's reviewed rows, in either file (pipeline/review.py applies his answers
+# to the review doc): one source, one declaration, whichever file uses it.
+ADAM_REVIEWED = {
+    "what": ("Adam's reviewed answers: token glosses / plain_forms over the dictionary gloss "
+             "(gloss-overrides.jsonl, layer adam-reviewed) and the plain line's prose_order "
+             "(prose-order.jsonl, source adam-reviewed)"),
+    "edition": ("data/nt/gloss-overrides.jsonl and data/nt/prose-order.jsonl, the rows Adam "
+                "reviewed (README-nt-jsonl.md s.12, s.14, s.15)"),
+    "license": "own",
+    "license_basis": [{"where": "docs/review/", "says": "Adam's own review of the house drafts, licence own"}],
+    "source_url": "data/nt/",
+    "verified": True,
+    "verified_on": BUILT_ON,
+}
+OVERRIDE_SOURCES["adam-reviewed"] = ADAM_REVIEWED
+PROSE_SOURCES["adam-reviewed"] = ADAM_REVIEWED
 PROSE_KEYS = {"passage_uid", "citation", "prose_order", "absorbed", "plain_override",
               "source", "draft", "drafted_on", "reviewed_on", "note"}
 
@@ -522,6 +538,8 @@ def load_prose_orders(path=None):
                 raise ValueError(f"{where}: `draft` is true or absent")
             if PROSE_SOURCES[row["source"]].get("status") == "draft" and not row.get("draft"):
                 raise ValueError(f"{where}: a {row['source']} row is a draft: `draft: true`")
+            if row.get("draft") and PROSE_SOURCES[row["source"]].get("status") != "draft":
+                raise ValueError(f"{where}: a {row['source']} row is reviewed, never a draft")
             dated, undated = (("drafted_on", "reviewed_on") if row.get("draft")
                               else ("reviewed_on", "drafted_on"))
             if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row.get(dated) or "") or undated in row:
@@ -927,7 +945,8 @@ def build(reg):
             "sources": sorted({w["source"] for w in plains}),
         },
         "drafts": {
-            "status": "awaiting Adam's review",
+            "status": ("awaiting Adam's review" if n_draft_ov or any(w.get("draft") for w in plains)
+                       else "none open: every row reviewed"),
             "review_doc": REVIEW_DOC,
             "gloss_override_rows": n_draft_ov,
             "prose_orders": sum(1 for w in plains if w.get("draft")),
