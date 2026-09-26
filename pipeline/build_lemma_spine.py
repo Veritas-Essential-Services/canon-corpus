@@ -7,6 +7,9 @@ committed analyses the hymn build reads. Launch plan D3.
     python3 pipeline/build_lemma_spine.py           # build and write
     python3 pipeline/build_lemma_spine.py --check   # rebuild; committed files
                                                     #   must be byte-identical
+    python3 pipeline/build_lemma_spine.py --pack-headings real
+                                                    # PACK lemmas headed quidam,
+                                                    #   quisquam ... (default: house)
 
     In:   data/corpus/whitaker/<commit>/  DICTLINE.GEN INFLECTS.LAT UNIQUES.LAT
           ADDONS.LAT LICENCE.txt (fetched at a pinned commit, sha256-checked,
@@ -114,8 +117,8 @@ def analyses_rows(X, forms):
     return out
 
 
-def build():
-    X = W.Whitaker()
+def build(pack_headings="house"):
+    X = W.Whitaker(pack_headings=pack_headings)
     table = lemma_table(X)
     forms, n_tokens = hymn_forms()
     arows = analyses_rows(X, forms)
@@ -151,6 +154,7 @@ def build():
             "commit": W.COMMIT,
             "files_sha256": {k: v for k, v in W.PINS.items()},
             "ada_sources_sha256": dict(W.ADA_SOURCES),
+            **({"pack_headings": pack_headings} if pack_headings != "house" else {}),
             "port": ("pipeline/whitaker.py + whitaker_tricks.py: stem+ending matching, verb "
                      "filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES, TRICKS, Roman "
                      "numerals, the non-enclitic TACKONs, PACKONs and TICKONs, makedict stem keys, "
@@ -190,12 +194,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--fetch", action="store_true", help="fetch the pinned Whitaker files")
     ap.add_argument("--check", action="store_true")
+    ap.add_argument("--pack-headings", choices=("house", "real"), default="house",
+                    help="how PACK lemmas are headed: the house's composed heading (default) or the "
+                         "pronoun's own dictionary heading, quidam, quisquam (whitaker.HOUSE_PACK_HEADWORDS)")
     a = ap.parse_args()
     if a.fetch or not W.have_cache():
         if a.check and not a.fetch:
             raise SystemExit("the Whitaker files are not fetched; run with --fetch first")
         W.fetch()
-    blobs, man = build()
+    blobs, man = build(a.pack_headings)
     for k, v in man["counts"].items():
         print(f"  {k:<22}{v:>8,}")
     if a.check:

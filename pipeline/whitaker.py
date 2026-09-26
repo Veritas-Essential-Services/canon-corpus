@@ -49,6 +49,17 @@ WHAT IS PORTED, AND WHAT IS NOT
     supplies the conventional heading for those entries, and every lemma
     built that way carries `form_by: "house"`. A qu-pronoun + PACKON entry
     (PACK) is headed by that heading and the tackon: `qui, quae, quod + -dam`.
+    With pack_headings="real" it is headed by the pronoun's own dictionary
+    heading instead (quidam, quaedam, quoddam): HOUSE_PACK_HEADWORDS, off by
+    default, for Adam to choose (docs/review/2026-09-26-benchmark.md).
+
+    Two house additions, both off unless asked for, both marked:
+      * the house supplement (data/lemmas/house-supplement.jsonl): words and
+        forms the Vulgate benchmark found missing from DICTLINE, each row
+        with provenance "house" and its public-domain attestation
+        (Whitaker(house_supplement=True));
+      * the proper-names table (pipeline/proper_names.py), consulted for
+        capitalised forms by whitaker_tricks.parse_latin_word (X.names).
 
 LICENCE (verified 2026-09-26; recorded verbatim in the manifest)
     Not public domain. Copyright William A. Whitaker (1936-2010), with an
@@ -57,6 +68,7 @@ LICENCE (verified 2026-09-26; recorded verbatim in the manifest)
 """
 
 import hashlib
+import json
 import os
 import re
 import unicodedata
@@ -421,8 +433,37 @@ HOUSE_PRONOUN_FORMS = {
 }
 
 
-def dictionary_form(e):
-    """(form, form_by). form_by is 'whitaker' or 'house'."""
+# The conventional dictionary headings of the qu-pronoun + PACKON entries,
+# for pack_headings="real" (off by default: the house heading stands until
+# Adam chooses). Keyed by (the pronoun's house heading, the tackon). Taken
+# from Lewis & Short (1879, public domain) where it heads the word; `None`
+# keeps the composed heading (quis + -cum is "only ABL", quocum: there is
+# no nominative to head it).
+HOUSE_PACK_HEADWORDS = {
+    ("qui, quae, quod", "cumque"): "quicumque, quaecumque, quodcumque",
+    ("qui, quae, quod", "cunque"): "quicunque, quaecunque, quodcunque",
+    ("qui, quae, quod", "dam"): "quidam, quaedam, quoddam",
+    ("qui, quae, quod", "libet"): "quilibet, quaelibet, quodlibet",
+    ("qui, quae, quod", "lubet"): "quilubet, quaelubet, quodlubet",
+    ("qui, quae, quod", "nam"): "quinam, quaenam, quodnam",
+    ("qui, quae, quod", "quam"): "quisquam, quaequam, quidquam",
+    ("qui, quae, quod", "que"): "quisque, quaeque, quodque",
+    ("qui, quae, quod", "vis"): "quivis, quaevis, quodvis",
+    ("quis, quid", "cum"): None,
+    ("quis, quid", "dam"): "quidam, quiddam",
+    ("quis, quid", "libet"): "quilibet, quidlibet",
+    ("quis, quid", "lubet"): "quilubet, quidlubet",
+    ("quis, quid", "nam"): "quisnam, quidnam",
+    ("quis, quid", "piam"): "quispiam, quidpiam",
+    ("quis, quid", "que"): "quisque, quidque",
+    ("quis, quid", "vis"): "quivis, quidvis",
+}
+
+
+def dictionary_form(e, pack_headings="house"):
+    """(form, form_by). form_by is 'whitaker' or 'house'. `pack_headings`:
+    "house" (the default) composes a PACK heading; "real" takes it from
+    HOUSE_PACK_HEADWORDS."""
     s = e["stems"]
     p = e["part"]
     pos = p["pos"]
@@ -442,6 +483,9 @@ def dictionary_form(e):
         m = re.match(r"\(w/-(\w+)\)", e["meaning"])
         base = HOUSE_PRONOUN_FORMS.get((s[0], w, p["kind"]))
         if m and base:
+            real = HOUSE_PACK_HEADWORDS.get((base, m.group(1))) if pack_headings == "real" else None
+            if real:
+                return f"{real}  PACK", "house"
             return f"{base} + -{m.group(1)}  PACK", "house"
         return f"{s[0]}  PACK", "whitaker"
     if s[1:] == ["", "", ""] and not (
@@ -778,10 +822,54 @@ def adv_comp_from_key(key):
     return {1: "POS", 2: "COMP", 3: "SUPER"}.get(key, "X")
 
 
+# ---------------------------------------------------------------------------
+# The house supplement (README-lemma-spine.md s.9)
+# ---------------------------------------------------------------------------
+
+HOUSE_SUPPLEMENT = os.path.join(ROOT, "data", "lemmas", "house-supplement.jsonl")
+
+
+def validate_house_row(r):
+    """A row must say it is the house's, why (from public-domain
+    attestation), what it rests on, and be exactly one kind."""
+    where = f"house-supplement.jsonl:{r.get('line', '?')}"
+    missing = [k for k in ("id", "provenance", "attested", "justification") if not r.get(k)]
+    if missing:
+        raise SystemExit(f"{where}: missing {missing}")
+    if r["provenance"] != "house":
+        raise SystemExit(f"{where}: provenance must be 'house'")
+    if ("stems" in r) == ("forms" in r):
+        raise SystemExit(f"{where}: a row has `stems` and `part`, or `forms`, not both or neither")
+    if "stems" in r and not r.get("part"):
+        raise SystemExit(f"{where}: `stems` without `part`")
+    if "forms" in r and not r.get("of"):
+        raise SystemExit(f"{where}: a `forms` row must name the Whitaker lemma it belongs to (`of`)")
+    if not isinstance(r["attested"], dict) or not all(isinstance(v, int) and v > 0 for v in r["attested"].values()):
+        raise SystemExit(f"{where}: `attested` is {{form: count}}")
+
+
+def load_house_supplement(path=HOUSE_SUPPLEMENT):
+    rows = []
+    with open(path, encoding="utf-8") as f:
+        for n, line in enumerate(f, 1):
+            if line.strip():
+                rows.append(dict(json.loads(line), line=n))
+    ids = [r.get("id") for r in rows]
+    dup = sorted({i for i in ids if ids.count(i) > 1})
+    if dup:
+        raise SystemExit(f"house-supplement.jsonl: duplicate ids {dup}")
+    return rows
+
+
 class Whitaker:
-    def __init__(self, cache=CACHE, stems_by_slot=False):
+    def __init__(self, cache=CACHE, stems_by_slot=False, house_supplement=False, pack_headings="house"):
+        """`house_supplement`: False, True (the committed file) or a list of
+        rows; `pack_headings`: "house" or "real" (dictionary_form)."""
         verify_cache(cache)
+        if pack_headings not in ("house", "real"):
+            raise ValueError(f"pack_headings must be 'house' or 'real', not {pack_headings!r}")
         self.cache = cache
+        self.pack_headings = pack_headings
         self.entries = load_dictline(os.path.join(cache, "DICTLINE.GEN"))
         self.inflects = load_inflects(os.path.join(cache, "INFLECTS.LAT"))
         self.uniques = load_uniques(os.path.join(cache, "UNIQUES.LAT"))
@@ -797,6 +885,8 @@ class Whitaker:
         self.use_tackons = True
         self.use_roman = True
         self.use_packons = True
+        self.use_caps = True        # Is_Capitalized: no TRICKS on a name
+        self.names = {}             # the proper-names table, when loaded
         # PACK entries are searched only by Process_Packons (Pack_Only)
         self.pack_index = {}
         for i, e in enumerate(self.entries):
@@ -818,11 +908,76 @@ class Whitaker:
         for inf in self.inflects:
             self.by_ending.setdefault(inf["ending"], []).append(inf)
         self._forms = {}
+        self.house_forms = {}       # form -> readings the supplement gives it alone
+        self.house_rows = []
+        if house_supplement:
+            self._load_house(load_house_supplement() if house_supplement is True else house_supplement)
+
+    # -- the house supplement ---------------------------------------------
+    def _load_house(self, rows):
+        """Rows of data/lemmas/house-supplement.jsonl (README-lemma-spine.md
+        s.9). A row with `stems` and `part` is a dictionary entry in
+        DICTLINE's terms, read by WORDS's own endings; with `only_forms` it
+        reads just those forms, so it adds nothing to any other form. A row
+        with `forms` gives each form its parse outright, as UNIQUES does.
+        `of` names the Whitaker lemma the forms belong to (its dictionary
+        form, exactly); without it the row is a lemma of its own."""
+        keys = {}
+        for i in range(len(self.entries)):
+            keys.setdefault(self.form(i)[0], i)
+        for r in rows:
+            validate_house_row(r)
+            src = f"house-supplement.jsonl:{r['line']}"
+            tag = {"id": r["id"], "source": src}
+            target = None
+            if r.get("of"):
+                target = keys.get(r["of"])
+                if target is None:
+                    raise SystemExit(f"{src}: `of` {r['of']!r} is not a Whitaker dictionary form")
+            self.house_rows.append(r)
+            if "forms" in r:
+                for fr in r["forms"]:
+                    t = fr["parse"].split()
+                    q = _qual(t[0], t[1:1 + len(QUAL[t[0]])])
+                    self.house_forms.setdefault(fold(fr["form"]), []).append(
+                        {"entry": target, "unique": None, "parse": q, "house": tag})
+                continue
+            part_text = " ".join(r["part"].split())
+            e = {"lines": [], "stems": list(r["stems"]) + [""] * (4 - len(r["stems"])),
+                 "part_text": part_text, "part": _part(part_text.split()),
+                 "flags": {}, "meaning": "", "synthetic": src, "house": tag, "of": target}
+            i = len(self.entries)
+            self.entries.append(e)
+            only = r.get("only_forms")
+            if only is None:
+                for st, k in stem_keys(e):
+                    self.stem_index.setdefault(fold(st), []).append((i, k))
+                continue
+            for form in only:
+                w, got, seen = fold(form), [], set()
+                for stem, ending in self.cuts(w):
+                    for st, k in stem_keys(e):
+                        if fold(st) != stem:
+                            continue
+                        for inf in self.by_ending[ending]:
+                            a = self._match(e, k, stem, inf)
+                            if a and repr(sorted(a.items())) not in seen:
+                                seen.add(repr(sorted(a.items())))
+                                got.append({"entry": i, "unique": None, "parse": a, "inflect_line": inf["line"],
+                                            "stem_key": k, "house": tag})
+                if not got:
+                    raise SystemExit(f"{src}: its stems and part do not read {form!r}")
+                self.house_forms.setdefault(w, []).extend(got)
 
     # -- lemma identity ---------------------------------------------------
     def form(self, i):
         if i not in self._forms:
-            self._forms[i] = dictionary_form(self.entries[i])
+            e = self.entries[i]
+            if e.get("of") is not None:
+                self._forms[i] = self.form(e["of"])      # a house row's forms of a Whitaker lemma
+            else:
+                f, by = dictionary_form(e, self.pack_headings)
+                self._forms[i] = (f, "house" if e.get("house") else by)
         return self._forms[i]
 
     # -- matching ---------------------------------------------------------
@@ -949,6 +1104,8 @@ class Whitaker:
                         seen.add((i, repr(sorted(a.items()))))
                         out.append({"entry": i, "unique": None, "parse": a,
                                     "inflect_line": inf["line"], "stem_key": k})
+        for a in self.house_forms.get(w, ()):
+            out.append(dict(a, parse=dict(a["parse"])))
         return out
 
     def analyze(self, word):
@@ -959,6 +1116,11 @@ class Whitaker:
 
     def _describe(self, a):
         p = {k: (list(v) if isinstance(v, tuple) else v) for k, v in a["parse"].items()}
+        if a.get("name") is not None:
+            n = a["name"]
+            return {"key": f"{n['lemma']}  proper", "lemma": n["lemma"], "form_by": "house-names",
+                    "headword": n["headword"], "parse": p, "whitaker": _qual_text(p),
+                    "enclitic": a.get("enclitic"), "source": n["source"], "via": a.get("via") or []}
         if a.get("roman") is not None:
             r = a["roman"]
             return {"key": f"{r['text']}  NUM  (ROMAN)", "lemma": r["text"], "form_by": "whitaker-roman",
@@ -974,11 +1136,17 @@ class Whitaker:
                     "via": a.get("via") or []}
         form, by = self.form(a["entry"])
         e = self.entries[a["entry"]]
-        return {"key": form or f"{e['stems'][0]}  {e['part_text']}", "lemma": principal_parts(form) or None,
-                "form_by": by, "headword": headword_of(form) if form else fold(e["stems"][0]),
-                "parse": p, "whitaker": _qual_text(p), "enclitic": a.get("enclitic"),
-                "source": f"DICTLINE.GEN:{e['lines'][0]}" if e["lines"] else e["synthetic"],
-                "inflect": f"INFLECTS.LAT:{a['inflect_line']}", "via": a.get("via") or []}
+        d = {"key": form or f"{e['stems'][0]}  {e['part_text']}", "lemma": principal_parts(form) or None,
+             "form_by": by, "headword": headword_of(form) if form else fold(e["stems"][0]),
+             "parse": p, "whitaker": _qual_text(p), "enclitic": a.get("enclitic"),
+             "source": f"DICTLINE.GEN:{e['lines'][0]}" if e["lines"] else e["synthetic"],
+             "inflect": f"INFLECTS.LAT:{a['inflect_line']}" if a.get("inflect_line") else None,
+             "via": a.get("via") or []}
+        tag = a.get("house") or e.get("house")
+        if tag:
+            d["source"] = tag["source"]             # the house row, never the DICTLINE line it extends
+            d["house"] = tag["id"]
+        return d
 
 
 def _qual_text(p):

@@ -55,8 +55,19 @@ WHERE THIS PORT DEPARTS FROM THE ADA, AND WHY (each is also in the README)
     -cum also finds the (w/-cumque) entries (quocum). Ported as is.
   * Not ported: the second, duplicate syncope pass and Do_Only_Fixes
     re-parse inside Enclitic.
-    WORDS skips all tricks on a capitalised word it takes for a name; search
-    keys are lower case, so here every form is tried.
+  * Capitalisation (ported 2026-09-26, parse.adb Is_Capitalized and
+    Parse_Latin_Word): WORDS tries no TRICKS on a word it takes for a name,
+    i.e. with Ignore_Unknown_Names on (its default, word_parameters.adb) a
+    word whose first letter is A-Z and second a-z. Only TRICKS (and TRICKS
+    on the form less an enclitic) are skipped: SLURY, SYNCOPE and the FIXES
+    run inside Pass, before the test, and run on names too. A search key is
+    lower case, so the test reads `raw`, the form as written; called with
+    only a search key, nothing is capitalised and every form is tried, as
+    before. The help text says "longer than three letters"; the code tests
+    only that the word has two letters or more, and the code is ported.
+  * Not WORDS: the house proper-names table (pipeline/proper_names.py) is
+    consulted, for a capitalised form only, beside Word's own dictionary
+    lookup, as a name in DICTLINE would be. It is empty unless loaded.
 """
 
 from whitaker import decn_le as W_decn_le, fold
@@ -846,16 +857,44 @@ def fixes(X, w):
 
 # -- the order of attempts (parse.adb, Parse_Latin_Word / Pass) ----------------
 
+def is_capitalized(raw):
+    """Is_Capitalized (parse.adb): two letters or more, the first A-Z and the
+    second a-z. Plain ASCII, as in the Ada: `ABBA` is not capitalised, nor
+    is a word that opens with a letter outside A-Z."""
+    return raw is not None and len(raw) > 1 and "A" <= raw[0] <= "Z" and "a" <= raw[1] <= "z"
+
+
+def names_lookup(X, w):
+    """The house proper-names table (not WORDS): the form, or failing that
+    the form less an enclitic (que, ne, ve), as a name. [] unless loaded."""
+    names = getattr(X, "names", None)
+    if not names:
+        return []
+    got = names.get(w)
+    if got:
+        return [dict(a, parse=dict(a["parse"])) for a in got]
+    for t in X.tackons[:3]:
+        if w.endswith(t) and len(w) > len(t) and names.get(w[:-len(t)]):
+            return [dict(a, parse=dict(a["parse"]), enclitic=t) for a in names[w[:-len(t)]]]
+    return []
+
+
 def parse_latin_word(X, w, raw=None):
     """Every analysis WORDS would give `w` (a folded search key), in the order
     it tries: a Roman numeral (read from `raw`, the form as written, when
     given); plain; SLURY if nothing; SYNCOPE unless a form of esse is there;
     the enclitics; FIXES if still nothing (and the enclitics again, with
     fixes); TRICKS if still nothing, then TRICKS on the form less an
-    enclitic. Plain, here and inside every rule, ends in Try_Tackons."""
+    enclitic -- but no TRICKS at all when `raw` is capitalised (Is_Capitalized,
+    Ignore_Unknown_Names). Plain, here and inside every rule, ends in
+    Try_Tackons. A capitalised form is also looked up in the house names
+    table, beside plain, when one is loaded."""
     rk = raw_key(raw, w)
+    cap = _use(X, "caps") and is_capitalized(raw)
     res = roman_numerals(rk) if _use(X, "roman") else []
     res += X.plain(w)
+    if cap:
+        res += names_lookup(X, w)
     if not res:
         res = slury(X, w)
     if not any(a["parse"]["pos"] == "V" and tuple(a["parse"]["decl"]) == (5, 1) for a in res):
@@ -884,7 +923,7 @@ def parse_latin_word(X, w, raw=None):
         res = fixes_word(X, w)
         if not done:
             res += enclitic(res, True)
-    if not res:
+    if not res and not cap:
         res = tricks(X, w, rk)
         if not res:
             for t in X.tackons[:4]:

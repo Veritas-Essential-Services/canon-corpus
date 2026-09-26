@@ -40,6 +40,14 @@ WHAT IT ASSERTS
     10. PACKONs and TICKONs (Word's Qu block), also found by the benchmark:
        the list, the n -> m of -dam, the cu- stem, the declension match, the
        meaning-prefix test, when they run, and the house heading.
+    4e. (offline) Capitalisation, parse.adb Is_Capitalized: no TRICKS on a
+       word written capitalised, and nothing else skipped; the house names
+       table consulted for a capitalised form only.
+    11. Capitalisation on real words (Hiram, Absalom), and the Ada's test.
+    12. The house supplement: every row reads each form it cites,
+       `only_forms` adds nothing elsewhere, an `of` row is read as
+       Whitaker's lemma with the house row as source, a bad row stops.
+    13. PACK headings: the house's by default, the real ones on request.
 """
 import importlib.util
 import json
@@ -326,6 +334,48 @@ check("an adverb's comparison from its key is 1 POS, 2 COMP, 3 SUPER (not the ad
       [W.adv_comp_from_key(k) for k in (1, 2, 3)] == ["POS", "COMP", "SUPER"]
       and [W.adj_comp_from_key(k) for k in (1, 2, 3, 4)] == ["POS", "POS", "COMP", "SUPER"])
 
+print("\n--- 4e. capitalisation (parse.adb Is_Capitalized) and the names table")
+check("Is_Capitalized: A-Z then a-z, two letters or more",
+      [T.is_capitalized(x) for x in ("Absalom", "Ab", "ABSALOM", "absalom", "A", "", None, "\u00c6gyptus", "aB")]
+      == [True, True, False, False, False, False, False, False, False])
+X = Fake({"caelum": [N]})
+check("no TRICKS on a capitalised form (Celum: nothing), as the Ada's Parse_Latin_Word",
+      T.parse_latin_word(X, "celum", raw="Celum") == [])
+check("the same form written lower-case is still reached by a trick (celum -> caelum)",
+      via0(T.parse_latin_word(X, "celum", raw="celum")).get("as") == "caelum")
+check("with only a search key (no raw), nothing is capitalised: tricks run as before",
+      via0(T.parse_latin_word(X, "celum")).get("as") == "caelum")
+check("nor TRICKS on a capitalised form less an enclitic (Celumque)",
+      T.parse_latin_word(X, "celumque", raw="Celumque") == []
+      and T.parse_latin_word(X, "celumque", raw="celumque") != [])
+X = Fake({"attuli": [PERF]})
+check("SLURY still runs on a capitalised form (it is in Pass, before the test)",
+      via0(T.parse_latin_word(X, "adtuli", raw="Adtuli")).get("kind") == "SLURY")
+X = Fake({"amavisti": [PERF]})
+check("SYNCOPE still runs on a capitalised form",
+      via0(T.parse_latin_word(X, "amasti", raw="Amasti")).get("kind") == "SYNCOPE")
+X = Fake({"caelum": [N]})
+X.use_caps = False
+check("switched off (use_caps False), a capitalised form gets its tricks again",
+      via0(T.parse_latin_word(X, "celum", raw="Celum")).get("as") == "caelum")
+NAME = {"entry": None, "unique": None, "name": {"lemma": "Jonathas", "headword": "ionathas", "source": "t"},
+        "parse": {"pos": "proper"}}
+X = Fake({})
+X.names = {"ionathae": [NAME]}
+check("the names table is consulted for a capitalised form",
+      [a["name"]["lemma"] for a in T.parse_latin_word(X, "ionathae", raw="Jonathae")] == ["Jonathas"])
+check("... and not for the same form written lower-case", T.parse_latin_word(X, "ionathae", raw="jonathae") == [])
+r = T.parse_latin_word(X, "ionathaeque", raw="Jonathaeque")
+check("a name less an enclitic (Jonathaeque = Jonathae + -que)",
+      [(a["name"]["lemma"], a.get("enclitic")) for a in r] == [("Jonathas", "que")])
+X = Fake({"ionathae": [N]})
+X.names = {"ionathae": [NAME]}
+r = T.parse_latin_word(X, "ionathae", raw="Jonathae")
+check("a name sits beside WORDS's own reading, as a name in DICTLINE would",
+      sorted(str(a.get("entry")) for a in r) == ["0", "None"])
+check("a names hit stops SLURY and FIXES, as any plain reading does",
+      [v["kind"] for a in r for v in a.get("via", [])] == [])
+
 # ======================================================= AGAINST THE FILES
 print("\n--- against the Whitaker files")
 if not W.have_cache():
@@ -555,6 +605,86 @@ else:
           {v["kind"] for a in X.analyze("quaedam") for v in a["via"]} == {"TWO_WORDS"}
           and X.analyze("siqua") == [])
     X.use_packons = True
+
+    print("\n--- 11. capitalisation on real words")
+    if W.have_ada():
+        ada = open(os.path.join(W.CACHE, "ada", "words_engine-parse.adb"), encoding="latin-1").read()
+        check("the Ada skips Try_Tricks only when Ignore_Unknown_Names and Capitalized",
+              re.search(r"if \(Pa_Last = 0\)\s+and then\s+not \(Words_Mode \(Ignore_Unknown_Names\)"
+                        r"\s+and Capitalized\)", ada) is not None
+              and re.search(r"Input_Word \(Input_Word'First\) in 'A' \.\. 'Z' and then\s+"
+                            r"Input_Word \(Input_Word'First \+ 1\) in 'a' \.\. 'z'", ada) is not None)
+
+    def heads(f):
+        return {(a["headword"], tuple(v["kind"] for v in a["via"])) for a in X.analyze(f)}
+
+    check("hiram, lower-case, is read by a trick (internal h/); Hiram, capitalised, is not read",
+          any("TRICK" in k for _, k in heads("hiram")) and heads("Hiram") == set())
+    check("Absalom keeps its prefix reading (abs-): WORDS runs the FIXES on names too",
+          any("PREFIX" in k for _, k in heads("Absalom")))
+    X.use_caps = False
+    check("with use_caps off, Hiram is read by the trick again", any("TRICK" in k for _, k in heads("Hiram")))
+    X.use_caps = True
+
+    print("\n--- 12. the house supplement")
+    rows = W.load_house_supplement()
+    XH = W.Whitaker(house_supplement=True)
+    unread = [(r["id"], f) for r in rows for f in r["attested"]
+              if not any(a.get("house") == r["id"] for a in XH.analyze(f))]
+    check(f"every row ({len(rows)}) reads each form it cites as attested", not unread, unread[:5])
+    check("every row is the house's and says why",
+          all(r["provenance"] == "house" and r["justification"] for r in rows))
+    bad = [(r["id"], a["source"]) for r in rows for f in r["attested"] for a in XH.analyze(f)
+           if a.get("house") == r["id"] and not a["source"].startswith("house-supplement.jsonl:")]
+    check("a house reading names its row as its source, never a DICTLINE line", not bad, bad[:3])
+    r = XH.analyze("basim")
+    check("an `of` row is read as Whitaker's lemma (basim: bas, baseos/is, ACC S)",
+          [(a["key"], a["whitaker"]) for a in r] == [("bas, baseos/is  N F", "N 3 9 ACC S F")])
+    check("pharisaeus is a lemma of its own, headed by the house (form_by house)",
+          {(a["key"], a["form_by"]) for a in XH.analyze("pharisaeorum")}
+          == {("pharisaeus, pharisaei  N (2nd) M", "house")})
+    check("only_forms adds nothing elsewhere: prophetis stays propheta's alone",
+          {a["key"] for a in XH.analyze("prophetis")} == {a["key"] for a in X.analyze("prophetis")})
+    check("... and without the supplement those forms have no plain reading (pharisaei, setim)",
+          not [a for a in X.analyze("pharisaei") if not a["via"]] and not [a for a in X.analyze("setim") if not a["via"]])
+    for broken, why in (({"id": "x", "provenance": "house", "stems": ["x"], "part": "N 9 9 N T",
+                          "attested": {"x": 1}}, "no justification"),
+                        ({"id": "x", "provenance": "wiktionary", "stems": ["x"], "part": "N 9 9 N T",
+                          "attested": {"x": 1}, "justification": "j"}, "provenance not house"),
+                        ({"id": "x", "provenance": "house", "of": "nothing  N",
+                          "forms": [{"form": "x", "parse": "N 9 9 X X N"}],
+                          "attested": {"x": 1}, "justification": "j"}, "`of` not a Whitaker form"),
+                        ({"id": "x", "provenance": "house", "stems": ["zz"], "part": "N 9 9 N T",
+                          "only_forms": ["qq"], "attested": {"qq": 1}, "justification": "j"},
+                         "stems that do not read the form")):
+        try:
+            W.Whitaker(house_supplement=[dict(broken, line=1)])
+            ok = False
+        except SystemExit:
+            ok = True
+        check(f"a bad row stops the build ({why})", ok)
+
+    print("\n--- 13. PACK headings")
+    XR = W.Whitaker(pack_headings="real")
+    check("by default a PACK lemma keeps the house heading (quaedam: qui, quae, quod + -dam)",
+          {a["key"] for a in X.analyze("quaedam")} == {"qui, quae, quod + -dam  PACK"})
+    check("with pack_headings='real' it is quidam's own (quidam, quaedam, quoddam; headword quidam)",
+          {(a["key"], a["headword"], a["form_by"]) for a in XR.analyze("quaedam")}
+          == {("quidam, quaedam, quoddam  PACK", "quidam", "house")})
+    check("quisquam, filed ADJECT by WORDS, is headed quisquam, never 'quiquam'",
+          {a["key"] for a in XR.analyze("quisquam")} >= {"quisquam, quaequam, quidquam  PACK"})
+    check("quis + -cum has no nominative to head it and keeps the house heading",
+          "quis, quid + -cum  PACK" in {a["key"] for a in XR.analyze("quocum")})
+    house_pack = {tuple(re.match(r"(.*) \+ -(\w+)  PACK", X.form(i)[0]).groups())
+                  for i, e in enumerate(X.entries) if e["part"]["pos"] == "PACK" and X.form(i)[1] == "house"}
+    check("every house PACK heading has an entry in HOUSE_PACK_HEADWORDS",
+          house_pack == set(W.HOUSE_PACK_HEADWORDS), sorted(house_pack ^ set(W.HOUSE_PACK_HEADWORDS)))
+    try:
+        W.Whitaker(pack_headings="latin")
+        ok = False
+    except ValueError:
+        ok = True
+    check("any other pack_headings value is refused", ok)
 
 print()
 if FAIL:

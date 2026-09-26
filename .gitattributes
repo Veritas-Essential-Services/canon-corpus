@@ -4,3 +4,7 @@ data/hymns/* text eol=lf
 data/lemmas/whitaker-la/* text eol=lf
 data/lemmas/adam-reviewed.jsonl text eol=lf
 data/nt/* text eol=lf
+# The house supplement and the proper-names table are checksummed or rebuilt
+# byte-for-byte (proper_names.py --check); keep them LF too.
+data/lemmas/house-supplement.jsonl text eol=lf
+data/lemmas/proper-names/* text eol=lf
