@@ -3,3 +3,4 @@
 data/hymns/* text eol=lf
 data/lemmas/whitaker-la/* text eol=lf
 data/lemmas/adam-reviewed.jsonl text eol=lf
+data/nt/* text eol=lf
