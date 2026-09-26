@@ -72,9 +72,16 @@ def jsonl(name):
     return out
 
 
-# Measured 2026-09-26 from the vault batch files. Not estimated.
-EXPECTED = {"stanzas": 13, "clauses": 35, "tokens": 263, "witnesses": 136, "alignments": 19}
-EXPECTED_CLAUSES = {"hymns:adoro-te": 23, "hymns:pange-lingua": 12}
+# Measured 2026-09-26 from the vault batch files (Adoro te, Pange lingua) and
+# data/hymn-sources/ (the three hymns printed from Britt 1922). Not estimated.
+EXPECTED = {"stanzas": 38, "clauses": 109, "tokens": 768, "witnesses": 260, "alignments": 69}
+EXPECTED_CLAUSES = {"hymns:adoro-te": 23, "hymns:pange-lingua": 12, "hymns:lauda-sion": 45,
+                    "hymns:sacris-solemniis": 17, "hymns:verbum-supernum": 12}
+# The batch hymns' records as committed at e9ed7f0, before the printed hymns
+# were added after them: (lines, sha256 of those lines). They must never move.
+BATCH_PREFIX = {"passages": (48, "c9b582e7d06aa6fc"), "witnesses": (136, "a0c1a713bb01146b"),
+                "tokens": (263, "a8cb618ecc5a53c6"), "alignments": (19, "12ebace38a924b79")}
+PRINTED_WORKS = {"hymns:lauda-sion", "hymns:sacris-solemniis", "hymns:verbum-supernum"}
 TOKEN_FIELDS = ("surface", "normalized", "search_key", "translit",
                 "lemma", "parsing", "gloss", "plain_form")
 
@@ -90,8 +97,32 @@ for fn, want in manifest["files_sha256"].items():
 check("manifest names the schema and the doc",
       manifest.get("schema") == B.SCHEMA and os.path.exists(os.path.join(REPO, manifest["doc"])))
 check("row unit is the clause", manifest.get("row_unit") == "clause")
+# Adam's lemma answers (review.py) legitimately rewrite batch tokens; only
+# then is tokens.jsonl's prefix allowed to move.
+answered_batch = any('"adam-reviewed"' in line for line in
+                     open(os.path.join(DATA, "tokens.jsonl"), encoding="utf-8").readlines()[:BATCH_PREFIX["tokens"][0]])
+for fn, (n, want) in BATCH_PREFIX.items():
+    with open(os.path.join(DATA, fn + ".jsonl"), "rb") as f:
+        head = b"".join(f.readlines()[:n])
+    if fn == "tokens" and answered_batch:
+        print("skip  tokens.jsonl prefix: Adam's lemma answers have changed batch tokens")
+        continue
+    check(f"{fn}.jsonl: the Adoro te / Pange lingua records are byte-identical to e9ed7f0",
+          hashlib.sha256(head).hexdigest()[:16] == want)
 
 print("\n--- shape")
+# A reviewed re-cut (data/hymn-sources/cut-reviewed.jsonl) changes a printed
+# hymn's clause count, and its la.1 witnesses with it: the measure is of the
+# draft cut, adjusted by exactly what Adam's answers change.
+recut = {}
+for st_cit, row in B.load_cut_reviews().items():
+    slug, st = st_cit.split(":", 1)[1].split(".st")
+    d = len(row["cut"]) - len(B.HYMNS[slug]["clauses"][int(st)])
+    recut[f"hymns:{slug}"] = recut.get(f"hymns:{slug}", 0) + d
+EXPECTED["clauses"] += sum(recut.values())
+EXPECTED["witnesses"] += sum(recut.values())
+for w, d in recut.items():
+    EXPECTED_CLAUSES[w] += d
 clauses = [p for p in passages if p["unit"] == "clause"]
 stanzas = [p for p in passages if p["unit"] == "stanza"]
 check("stanza count", len(stanzas) == EXPECTED["stanzas"], len(stanzas))
@@ -165,7 +196,17 @@ check("the Latin is stored once: no stanza carries la.1",
 gen_text = [w["address"] for w in witnesses if w.get("generated") and w.get("text") is not None]
 check("a generated witness stores no text", not gen_text, gen_text[:3])
 plains = [w for w in witnesses if w["name"] == "en.plain"]
-check("every clause has an en.plain witness", {w["passage_uid"] for w in plains} == {c["uid"] for c in clauses})
+batch_clauses = [c for c in clauses if c["work"] not in PRINTED_WORKS]
+printed_clauses = [c for c in clauses if c["work"] in PRINTED_WORKS]
+check("every batch-hymn clause has an en.plain witness",
+      {w["passage_uid"] for w in plains} == {c["uid"] for c in batch_clauses})
+gen_printed = [w["address"] for w in witnesses if w["passage_uid"] in {c["uid"] for c in printed_clauses}
+               and w["name"] != "la.1"]
+check("a printed-hymn clause stores only its Latin (no wooden, plain or elegant is invented)",
+      not gen_printed, gen_printed[:3])
+check("the manifest says why each printed hymn has no wooden, plain or elegant",
+      all(set(manifest["works"][w].get("not_stored", {})) == {"en.wooden", "en.plain", "en.elegant"}
+          for w in PRINTED_WORKS))
 
 
 def keys_named(obj, name):
@@ -200,8 +241,14 @@ no_prov = [t["address"] for t in tokens
            if not all(k in t for k in ("lemma_key", "provenance", "review"))
            or set(t["provenance"]) != {"lemma", "parsing"}]
 check("every token records where its lemma and parsing came from (D3)", not no_prov, no_prov[:3])
-check("surface, normalized, search_key and gloss are never null",
-      all(t[f] for t in tokens for f in ("surface", "normalized", "search_key", "gloss")))
+printed_uids = {c["uid"] for c in printed_clauses}
+check("surface, normalized and search_key are never null",
+      all(t[f] for t in tokens for f in ("surface", "normalized", "search_key")))
+check("gloss is never null on a batch hymn (its house draft)",
+      all(t["gloss"] for t in tokens if t["passage_uid"] not in printed_uids))
+check("a printed hymn's tokens carry no gloss, plain_form or syntax: there is no draft",
+      all(t["gloss"] is None and t["plain_form"] is None and t["syntax"] is None
+          for t in tokens if t["passage_uid"] in printed_uids))
 check("normalized is NFC(surface)",
       all(t["normalized"] == unicodedata.normalize("NFC", t["surface"]) for t in tokens))
 check("search_key is the fold of normalized", all(t["search_key"] == B.search_key(t["normalized"]) for t in tokens))
@@ -279,10 +326,68 @@ lj = manifest["legacy_join"]
 # stanza happened to share the stanza's id.
 check("39 legacy hymn rows in the join table (27 + 12)", len(lj) == 39, len(lj))
 bad_lj = [k for k, u in lj.items() if u not in by_uid or k not in by_uid[u]["legacy"]["unit_ids"]]
+check("a printed-hymn passage has no legacy ids (there were none)",
+      not [p for p in passages if p["work"] in PRINTED_WORKS and "legacy" in p])
 check("every legacy row id resolves to the clause uid that claims it", not bad_lj, bad_lj[:3])
-claimed = [x for c in clauses for x in c["legacy"]["unit_ids"]]
+claimed = [x for c in batch_clauses for x in c["legacy"]["unit_ids"]]
 check("every legacy row is claimed by exactly one clause",
       sorted(claimed) == sorted(lj) and len(set(claimed)) == len(claimed))
+
+print("\n--- the printed hymns (Britt 1922, data/hymn-sources/)")
+L = load("lemma_spine")
+for w in sorted(PRINTED_WORKS):
+    sf = manifest["works"][w].get("source_file")
+    check(f"{w} names its source file, and it exists", sf and os.path.exists(os.path.join(REPO, sf)), sf)
+sf = os.path.join(REPO, manifest["works"]["hymns:lauda-sion"]["source_file"])
+raw_src = open(sf, "rb").read()
+src_doc = json.loads(raw_src.decode("utf-8"))
+check("the source file's sha256 is in the manifest's inputs",
+      manifest["inputs_sha256"].get(os.path.basename(sf)) == hashlib.sha256(raw_src).hexdigest())
+check("the edition is named, PD, with its scan", src_doc["edition"]["license"] == "PD"
+      and src_doc["scan"]["archive_id"] == "hymnsofbreviarym00britrich"
+      and all(p["image_sha256"] and p["page"] for p in src_doc["scan"]["pages_read"]))
+bad_src, bad_page = [], []
+for c in printed_clauses:
+    slug = c["work"].split(":", 1)[1]
+    sp = next(s for s in src_doc["hymns"][slug]["stanzas"] if s["stanza"] == c["stanza"])
+    la = wmap[U.address(c["uid"], "la.1")]
+    if la["text"].split("\n") != sp["la"][c["lines"][0] - 1:c["lines"][1]]:
+        bad_src.append(c["citation"])
+    if la.get("page") != sp["page"]:
+        bad_page.append(c["citation"])
+check("every printed clause's Latin is its lines of the source file, exactly", not bad_src, bad_src[:3])
+check("every printed witness records its printed page", not bad_page and all(
+    w.get("page") for w in witnesses
+    if by_uid[w["passage_uid"]]["work"] in PRINTED_WORKS), bad_page[:3])
+st_rend = [w for w in witnesses if by_uid[w["passage_uid"]]["work"] in PRINTED_WORKS
+           and by_uid[w["passage_uid"]]["unit"] == "stanza"]
+check("every printed stanza has en.singable and en.literal, and nothing else",
+      sorted(w["name"] for w in st_rend) == sorted(["en.singable", "en.literal"] * sum(
+          1 for s in stanzas if s["work"] in PRINTED_WORKS)))
+check("every printed witness is PD and verified against the scan",
+      all(manifest["sources"][w["source"]]["license"] == "PD" and manifest["sources"][w["source"]]["verified"]
+          for w in witnesses if by_uid[w["passage_uid"]]["work"] in PRINTED_WORKS))
+nowhy_all = [c["citation"] for c in printed_clauses if not c["cut"].get("why")]
+check("every printed-hymn cut, one-line clauses included, says why", not nowhy_all, nowhy_all[:3])
+check("every printed-hymn cut is open or answered by Adam",
+      all(c["cut"].get("review") in ("open", "adam-reviewed") for c in printed_clauses))
+spine = {}
+with open(os.path.join(REPO, "data", "lemmas", "whitaker-la", "hymns.analyses.jsonl"), encoding="utf-8") as f:
+    for line in f:
+        r = json.loads(line)
+        spine[r["form"]] = r["analyses"]
+drift = [t["address"] for t in tokens if t["passage_uid"] in printed_uids
+         and (L.resolve_undrafted(spine[t["search_key"]])[:3] != (t["lemma"], t["lemma_key"], t["parsing"]))
+         and t["provenance"]["lemma"]["source"] != "adam-reviewed"
+         and t["provenance"]["parsing"]["source"] != "adam-reviewed"]
+check("every printed token's lemma and parsing are what the spine's no-draft rule gives", not drift, drift[:3])
+invented = [t["address"] for t in tokens if t["passage_uid"] in printed_uids
+            and ((t["lemma"] and t["provenance"]["lemma"]["source"] not in ("whitaker-words", "adam-reviewed"))
+                 or (t["parsing"] and t["provenance"]["parsing"]["source"] not in ("whitaker-words", "adam-reviewed")))]
+check("no printed token has a lemma or parsing from anywhere but Whitaker or Adam", not invented, invented[:3])
+unflagged = [t["address"] for t in tokens if t["passage_uid"] in printed_uids and t["lemma"] is None
+             and not t["review"]]
+check("a printed token with no lemma is flagged for review", not unflagged, unflagged[:3])
 
 print("\n--- replay: the registry mints nothing")
 tmp = tempfile.mkdtemp()
@@ -336,7 +441,7 @@ else:
         return re.sub(r"(^|\s)i-", r"\1I-", s)
 
     mismatch = []
-    for c in clauses:
+    for c in batch_clauses:
         w = wmap[U.address(c["uid"], "en.plain")]
         got = B.render_plain(toks_of[c["uid"]], w)
         olds = [next(r for bn in legacy for r in legacy[bn][1] if r["unit_id"] == u)["plain"]
@@ -349,7 +454,7 @@ else:
             mismatch.append(c["citation"])
     check("every legacy plain line re-renders from the JSONL (35/35 clauses)",
           not mismatch, mismatch[:3])
-    wood = [c["citation"] for c in clauses
+    wood = [c["citation"] for c in batch_clauses
             if B.render_wooden(toks_of[c["uid"]]) !=
             " ".join(next(r for bn in legacy for r in legacy[bn][1] if r["unit_id"] == u)["wooden"]
                      for u in c["legacy"]["unit_ids"])]

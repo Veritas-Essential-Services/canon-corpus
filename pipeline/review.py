@@ -13,6 +13,12 @@ THE SHEETS (SHEETS below)
     docs/review/2026-09-26-lemma-flags.md    the flagged hymn tokens (lemma spine, D3)
         rows: the tokens named in its notes file, plus any token flagged since
         answers -> data/lemmas/adam-reviewed.jsonl (README-lemma-spine.md s.8)
+    docs/review/2026-09-26-thomas-lemma-flags.md   the same, for the hymns
+        printed from Britt 1922 (no draft: README-lemma-spine.md s.3b)
+        answers -> data/lemmas/adam-reviewed.jsonl (the same file)
+    docs/review/2026-09-26-thomas-cuts.md    every clause cut of those hymns
+        rows: one per stanza; answers ok / draft→ / `cut: 1, 2-3; note: why`
+        answers -> data/hymn-sources/cut-reviewed.jsonl (README-hymn-jsonl.md s.9d)
     docs/review/2026-09-26-john1-drafts.md   the John 1 house drafts
         rows: every gloss-override row, and one plain line per verse
         answers -> data/nt/gloss-overrides.jsonl, data/nt/prose-order.jsonl
@@ -60,11 +66,12 @@ if hasattr(sys.stdout, "reconfigure"):
 import lemma_spine as L  # noqa: E402
 import strongs_gloss as G  # noqa: E402
 import build_nt_corpus as B  # noqa: E402
+import build_hymn_corpus as HB  # noqa: E402
 
 REVIEWED = "adam-reviewed"
 ACCEPT = {"ok", "okay", "✓", "✔"}
 DRAFT_ARROW = re.compile(r"^draft\s*(→|->)\s*", re.I)
-FIELD = re.compile(r"(?:^|;)\s*`?(lemma_key|lemma|parsing|note|gloss|plain_form)`?\s*[:=]\s*")
+FIELD = re.compile(r"(?:^|;)\s*`?(lemma_key|lemma|parsing|note|gloss|plain_form|cut)`?\s*[:=]\s*")
 AS_ROW = re.compile(r"^as row (\d+)\.?$", re.I)
 NONE_WORDS = {"none", "null", "—", "-"}
 # a bare answer that starts like one of these and says more is not a value
@@ -145,9 +152,15 @@ def table_cells(line):
 # The lemma sheet
 # =============================================================================
 
+BATCH_WORKS = tuple(f"hymns:{k}" for k, h in HB.HYMNS.items() if "source_file" not in h)
+PRINTED_WORKS = tuple(f"hymns:{k}" for k, h in HB.HYMNS.items() if "source_file" in h)
+
+
 class LemmaSheet:
     name = "2026-09-26-lemma-flags.md"
     builds = ("build_hymn_corpus.py",)
+    # the hymns whose flags this sheet lists (the answers file is shared)
+    WORKS = BATCH_WORKS
     HEADER = ("| # | Hymn · stanza · clause uid | Form, in its line | Draft lemma · parse | "
               "Whitaker's candidates | Why flagged | Recommend | Adam: |\n"
               "|---|---|---|---|---|---|---|---|\n")
@@ -162,8 +175,9 @@ class LemmaSheet:
     def load(self):
         hyd = os.path.join(self.root, "data", "hymns")
         self.notes = json.loads(read_text(self.notes_path))
-        self.tokens = jsonl(os.path.join(hyd, "tokens.jsonl"))
+        self.all_tokens = jsonl(os.path.join(hyd, "tokens.jsonl"))
         self.passages = {p["uid"]: p for p in jsonl(os.path.join(hyd, "passages.jsonl"))}
+        self.tokens = [t for t in self.all_tokens if self.passages[t["passage_uid"]]["work"] in self.WORKS]
         self.texts = {w["passage_uid"]: w["text"] for w in jsonl(os.path.join(hyd, "witnesses.jsonl"))
                       if w["name"] == "la.1"}
         self.works = json.loads(read_text(os.path.join(hyd, "manifest.json")))["works"]
@@ -189,12 +203,15 @@ class LemmaSheet:
         # what the resolver said before any answer (an answer keeps it under `was`)
         l_status = (lp["was"] if lp["source"] == REVIEWED else lp)["status"]
         p_status = (pp["was"] if pp["source"] == REVIEWED else pp)["status"]
+        undrafted = lp["draft"] is None and pp["draft"] is None
         keep = {}
-        if l_status in ("disagree", "ambiguous", "unknown"):
+        if l_status in ("disagree", "ambiguous", "unknown") and not undrafted:
             keep["lemma"] = lp["draft"]
-        if p_status == "disagree":
+        if p_status == "disagree" and not undrafted:
             keep["parsing"] = pp["draft"]
         return {"address": t["address"], "token": t, "note": note, "keep": keep,
+                "undrafted": undrafted,
+                "lemma_flag": l_status in ("disagree", "ambiguous", "unknown"),
                 "ok": (note or {}).get("ok"), "analyses": self.analyses.get(t["search_key"], [])}
 
     def label(self, r):
@@ -220,18 +237,36 @@ class LemmaSheet:
             lines = self.texts[t["passage_uid"]].split("\n")
             line = lines[t["line"] - p["lines"][0]]
             lp, pp = t["provenance"]["lemma"], t["provenance"]["parsing"]
-            nt = r["note"] or {"whitaker": "—", "why": "; ".join(t["review"] or []) or "—",
+            nt = r["note"] or {"whitaker": self.candidates(r),
+                               "why": "; ".join(t["review"] or []) or self.why_answered(r),
                                "recommend": "—"}
             cells = [str(r["n"]),
                      f"{hymn} · {p['stanza']} · `{t['passage_uid']}` ({t['address'].rsplit('.', 1)[1]})",
                      f"**{t['surface']}** · *{line}*",
-                     f"{lp['draft']} · {pp['draft']}",
+                     "— (no draft)" if r["undrafted"] else f"{lp['draft']} · {pp['draft']}",
                      nt["whitaker"], nt["why"], nt["recommend"]]
             adam = self.adam_cell(r)
             # this sheet's empty Adam cell is "| |" (the John 1 sheet's is "|  |")
             out.append("| " + " | ".join(cells) + " | " + (adam + " |" if adam else "|") + "\n")
         out.append(self.notes["outro"])
         return "".join(out)
+
+    def candidates(self, r):
+        """Whitaker's entries for the form, by key: what a `lemma_key` answer names."""
+        keys = sorted({a["key"] for a in r["analyses"]
+                       if "TWO_WORDS" not in {v["kind"] for v in a.get("via") or []}})
+        return " · ".join(f"`{k}`" for k in keys) if keys else "none"
+
+    def why_answered(self, r):
+        """An answered row keeps its reason on the sheet (the token's own
+        `review` was cleared by the answer)."""
+        if not r["undrafted"]:
+            return "—"
+        lp = r["token"]["provenance"]["lemma"]
+        st = (lp["was"] if lp["source"] == REVIEWED else lp)["status"]
+        return {"ambiguous": "lemma: several Whitaker entries, and no draft to choose among them",
+                "unknown": "lemma: Whitaker has no analysis, and there is no draft",
+                "disagree": "lemma: Whitaker reaches this form only by prefix/suffix word formation"}.get(st, "—")
 
     # -- read the sheet --------------------------------------------------------
     def answers(self, text):
@@ -282,7 +317,7 @@ class LemmaSheet:
         if f is None:
             if hedged(a):
                 raise Stop(f"{a!r} reads as a comment, not a value")
-            if "lemma" not in r["keep"]:
+            if "lemma" not in r["keep"] and not r["lemma_flag"]:
                 raise Stop("this row is flagged for its parsing: write `parsing: …` or `lemma: …`")
             key = self.whitaker_key(r, a, strict=False)
             f = {"lemma_key": key} if key else {"lemma": clean(a)}
@@ -317,7 +352,8 @@ class LemmaSheet:
         """The build's own check, before anything is written."""
         t = r["token"]
         lp, pp = t["provenance"]["lemma"], t["provenance"]["parsing"]
-        resolved = L.resolve(lp["draft"], pp["draft"], r["analyses"])
+        resolved = (L.resolve_undrafted(r["analyses"]) if r["undrafted"]
+                    else L.resolve(lp["draft"], pp["draft"], r["analyses"]))
         try:
             L.apply_override(resolved, t["surface"], r["analyses"], row)
         except ValueError as e:
@@ -353,7 +389,7 @@ class LemmaSheet:
     def write(self, changes):
         rows = dict(self.overrides)
         rows.update(changes)
-        order = {t["address"]: i for i, t in enumerate(self.tokens)}
+        order = {t["address"]: i for i, t in enumerate(self.all_tokens)}
         return {self.out: dump_jsonl(sorted(rows.values(), key=lambda x: order.get(x["address"], 1e9)))}
 
     def status_extra(self):
@@ -630,7 +666,201 @@ class NTSheet:
                 "reviewed, in the data")
 
 
-SHEETS = (LemmaSheet, NTSheet)
+# =============================================================================
+# The printed hymns: their lemma flags, and their clause cuts
+# =============================================================================
+
+class ThomasLemmaSheet(LemmaSheet):
+    """The flagged tokens of the hymns printed from Britt 1922. Same columns,
+    same answers, same answers file as the lemma sheet; these tokens have no
+    draft, so `keep` has nothing to keep and a bare answer is a lemma."""
+    name = "2026-09-26-thomas-lemma-flags.md"
+    WORKS = PRINTED_WORKS
+
+
+class CutSheet:
+    """Every clause cut of the printed hymns, one row per stanza (README-hymn-
+    jsonl.md s.9d). Answers go to data/hymn-sources/cut-reviewed.jsonl, which
+    build_hymn_corpus.py applies."""
+    name = "2026-09-26-thomas-cuts.md"
+    builds = ("build_hymn_corpus.py",)
+    HEADER = ("| # | Hymn · stanza | The cut: clause, lines, Latin | Why | Adam: |\n"
+              "|---|---|---|---|---|\n")
+    FIELDS = ("cut", "note")
+
+    def __init__(self, root=ROOT):
+        self.root = root
+        self.path = os.path.join(root, "docs", "review", self.name)
+        self.notes_path = self.path[:-3] + ".notes.json"
+        self.out = os.path.join(root, "data", "hymn-sources", "cut-reviewed.jsonl")
+
+    def load(self):
+        hyd = os.path.join(self.root, "data", "hymns")
+        self.notes = json.loads(read_text(self.notes_path))
+        passages = jsonl(os.path.join(hyd, "passages.jsonl"))
+        self.by_uid = {p["uid"]: p for p in passages}
+        self.texts = {w["passage_uid"]: w["text"] for w in jsonl(os.path.join(hyd, "witnesses.jsonl"))
+                      if w["name"] == "la.1"}
+        self.overrides = HB.load_cut_reviews(self.out)
+        self.rows = []
+        for p in passages:
+            if p["unit"] != "stanza" or p["work"] not in PRINTED_WORKS:
+                continue
+            slug = p["work"].split(":", 1)[1]
+            draft = [[a, b] for a, b, _ in HB.HYMNS[slug]["clauses"][p["stanza"]]]
+            self.rows.append({"key": p["citation"], "stanza": p, "draft": draft,
+                              "short": " ".join(HB.HYMNS[slug]["title"].split()[:2]).rstrip(","),
+                              "clauses": [self.by_uid[u] for u in p["clauses"]]})
+        for n, r in enumerate(self.rows, 1):
+            r["n"] = n
+        self.by_stanza_uid = {r["stanza"]["uid"]: r for r in self.rows}
+
+    def label(self, r):
+        return f"row {r['n']} ({r['key']})"
+
+    @staticmethod
+    def fmt(cut):
+        return ", ".join(str(a) if a == b else f"{a}-{b}" for a, b in cut)
+
+    # -- render --------------------------------------------------------------
+    def adam_cell(self, r):
+        ov = self.overrides.get(r["key"])
+        if not ov:
+            return ""
+        if ov["cut"] == r["draft"] and not ov.get("note"):
+            return "ok"
+        return f"cut: {self.fmt(ov['cut'])}" + (f"; note: {ov['note']}" if ov.get("note") else "")
+
+    def render(self):
+        out = [self.notes["intro"], self.HEADER]
+        for r in self.rows:
+            st = r["stanza"]
+            cut, why = [], []
+            for c in r["clauses"]:
+                a, b = c["lines"]
+                span = f"l.{a}" if a == b else f"ll.{a}-{b}"
+                latin = " / ".join(self.texts[c["uid"]].split("\n"))
+                cut.append(f"c{c['clause']} {span}: *{latin}*")
+                why.append(f"c{c['clause']}: {c['cut']['why']}")
+            adam = self.adam_cell(r)
+            cells = [str(r["n"]), f"{r['short']} {st['stanza']} `{st['uid']}`", "<br>".join(cut),
+                     "<br>".join(why)]
+            out.append("| " + " | ".join(cells) + " | " + (adam + " |" if adam else "|") + "\n")
+        out.append(self.notes["outro"])
+        return "".join(out)
+
+    # -- read the sheet --------------------------------------------------------
+    def answers(self, text):
+        out = []
+        for line in text.split("\n"):
+            if not re.match(r"\|\s*\d+\s*\|", line):
+                continue
+            c = table_cells(line)
+            m = re.search(r"`(wh-[0-9A-Z]+)`", c[1])
+            if not m or m.group(1) not in self.by_stanza_uid:
+                raise SystemExit(f"sheet row {c[0]}: {c[1]!r} is not a stanza of this sheet; "
+                                 "re-render it (review.py render)")
+            out.append((self.by_stanza_uid[m.group(1)], " | ".join(c[4:]).strip() if len(c) > 4 else ""))
+        return out
+
+    # -- interpret -------------------------------------------------------------
+    def parse_cut(self, r, v):
+        cut = []
+        for part in v.replace("–", "-").split(","):
+            m = re.fullmatch(r"\s*(\d+)\s*(?:-\s*(\d+))?\s*", part)
+            if not m:
+                raise Stop(f"{v!r} is not a cut: write the clauses' lines in order, e.g. `cut: 1, 2-3, 4-6`")
+            a = int(m.group(1))
+            cut.append([a, int(m.group(2) or a)])
+        prob = HB.partition_problem(cut, r["stanza"]["lines"][1])
+        if prob:
+            raise Stop(f"cut {v!r}: {prob}")
+        return cut
+
+    def interpret(self, r, ans):
+        """-> ("write", {cut, note?}) or ("defer", None). Raises Stop."""
+        a = ans.strip()
+        if a.rstrip(".").strip().lower() in ACCEPT:
+            return "write", {"cut": r["draft"]}
+        m = DRAFT_ARROW.match(a)
+        if m:
+            if a[m.end():].strip():
+                raise Stop("a cut has no draft state to revise: write the cut, or `draft→` alone")
+            return "defer", None
+        f = fields_of(a, self.FIELDS)
+        if f is None:
+            if hedged(a):
+                raise Stop(f"{a!r} reads as a comment, not a cut")
+            raise Stop("write `ok`, or `cut: 1, 2-3, 4-6` (and `; note: why`)")
+        cut = self.parse_cut(r, f["cut"]) if "cut" in f else r["draft"]
+        new_joins = [(x, y) for x, y in cut if y > x and [x, y] not in r["draft"]]
+        if new_joins and not f.get("note"):
+            raise Stop(f"lines {', '.join(f'{x}-{y}' for x, y in new_joins)} are a new join: "
+                       "give its grammatical reason as `; note: …`")
+        ov = self.overrides.get(r["key"])
+        if ov and ov["cut"] != r["draft"] and cut != ov["cut"]:
+            raise Stop("this stanza was re-cut once already and its clause uids re-issued; a second "
+                       "re-cut is a hand decision (edit data/hymn-sources/cut-reviewed.jsonl and the registry)")
+        out = {"cut": cut}
+        if f.get("note"):
+            out["note"] = f["note"]
+        return "write", out
+
+    def row_for(self, r, fields, today):
+        ov = self.overrides.get(r["key"])
+        new = {"stanza": r["key"], **fields}
+        old = {k: v for k, v in (ov or {}).items() if k != "reviewed_on"}
+        new["reviewed_on"] = ov["reviewed_on"] if ov and old == new else today
+        if "note" in new:
+            new["note"] = new.pop("note")
+        return new
+
+    def validate(self, r, row):
+        slug = r["key"].split(":", 1)[1].split(".")[0]
+        draft = HB.HYMNS[slug]["clauses"][r["stanza"]["stanza"]]
+        try:
+            HB.effective_cut(r["key"], draft, row, r["stanza"]["lines"][1])
+        except SystemExit as e:
+            raise Stop(str(e))
+
+    def plan(self, answers, today):
+        changes, stops = {}, []
+        report = {"answered": 0, "applied": 0, "to_apply": 0, "deferred": 0, "ambiguous": 0}
+        for r, ans in answers:
+            if not ans:
+                continue
+            report["answered"] += 1
+            try:
+                kind, f = self.interpret(r, ans)
+                if kind == "defer":
+                    report["deferred"] += 1
+                    continue
+                row = self.row_for(r, f, today)
+                self.validate(r, row)
+            except Stop as e:
+                stops.append(f"{self.label(r)}: {e}")
+                report["ambiguous"] += 1
+                continue
+            if self.overrides.get(r["key"]) == row:
+                report["applied"] += 1
+            else:
+                report["to_apply"] += 1
+                changes[r["key"]] = row
+        return changes, report, stops
+
+    def write(self, changes):
+        rows = dict(self.overrides)
+        rows.update(changes)
+        order = {r["key"]: i for i, r in enumerate(self.rows)}
+        return {self.out: dump_jsonl(sorted(rows.values(), key=lambda x: order.get(x["stanza"], 1e9)))}
+
+    def status_extra(self):
+        recut = sum(1 for r in self.rows if r["key"] in self.overrides
+                    and self.overrides[r["key"]]["cut"] != r["draft"])
+        return f"{len(self.overrides)} rows in {os.path.relpath(self.out, self.root)} ({recut} re-cut)"
+
+
+SHEETS = (LemmaSheet, ThomasLemmaSheet, CutSheet, NTSheet)
 
 
 # =============================================================================

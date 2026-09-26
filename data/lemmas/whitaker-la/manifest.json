@@ -57,16 +57,19 @@
   "lemmas_form_by_house": 26,
   "inflections": 1797,
   "uniques": 79,
-  "hymn_tokens": 263,
-  "hymn_forms": 222,
-  "hymn_forms_analysed": 222,
-  "hymn_forms_unknown": 0,
-  "hymn_lemmas": 296
+  "hymn_tokens": 768,
+  "hymn_forms": 547,
+  "hymn_forms_analysed": 545,
+  "hymn_forms_unknown": 2,
+  "hymn_lemmas": 674
  },
- "unknown_forms": [],
+ "unknown_forms": [
+  "isaac",
+  "sion"
+ ],
  "files_sha256": {
-  "hymns.analyses.jsonl": "e6d134d8d0b0e2f70c102a0e90332a77291d92474a2d29ef4b1577392e2d5e43",
-  "hymns.lemmas.jsonl": "90501ec562a1f946ec10d6b3c8c03a627ba808eaa86a329c3b387d553c9e4a41",
+  "hymns.analyses.jsonl": "bb970163601b84b33f58eaf907782356d4aa51844a7cfd76852f4ac203f6ea41",
+  "hymns.lemmas.jsonl": "ea3f1b7c7b3b2a2993d6677cf1a7a3d4dc228c66edf958babbdf00b169333911",
   "lemmas.jsonl": "e7c312f828eaa30ca82bcb8e40db7304d6705721884411e939cfc9db2ed2e6cc"
  },
  "gitignored": [

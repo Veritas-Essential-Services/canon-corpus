@@ -74,7 +74,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import wh_uid as U  # noqa: E402
 import whitaker as W  # noqa: E402
-from lemma_spine import resolve, load_overrides, apply_override, OVERRIDES, OVERRIDE_SOURCE  # noqa: E402
+from lemma_spine import resolve, resolve_undrafted, load_overrides, apply_override, OVERRIDES, OVERRIDE_SOURCE  # noqa: E402
 
 UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
 OUT = os.path.join(ROOT, "data", "hymns")
@@ -170,7 +170,151 @@ HYMNS = {
                 (5, 6, ["HYM-pange.st6.c2"], JOIN.format("the doxology's second clause"))],
         },
     },
+    # -- The other Corpus Christi hymns (launch plan Ring 3, "the hymns of
+    # Thomas"). No vault batch: the Latin and both English renderings are
+    # transcribed from Britt 1922 and checked against the scan, in
+    # data/hymn-sources/ (PRINTED below). No house draft exists, so the tokens
+    # carry no gloss and no prose_order: nothing is invented (README s.9).
+    # Each clause is (first line, last line, why): EVERY cut says why, a
+    # one-line clause included, because every one is on Adam's review sheet.
+    "lauda-sion": {
+        "title": "Lauda Sion Salvatorem",
+        "source_file": "britt-1922-corpus-christi.json",
+        "latin_source": "britt-1922-latin",
+        "stanza_singable": {"source": "henry-britt-1922"},
+        "stanza_literal": {"source": "britt-1922-prose-corpus-christi"},
+        "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
+        "clauses": {
+            1: [(1, 1, "own finite verb (Lauda, imperative); Sion is its vocative"),
+                (2, 3, JOIN.format("l.3 has no verb: In hymnis et canticis goes with Lauda (l.2)")),
+                (4, 4, "own finite verbs (potes, aude): the quantum ... tantum pair inside one line"),
+                (5, 6, JOIN.format("l.5 has no finite verb (est understood after Quia); Nec (l.6) "
+                                   "coordinates sufficis under the same Quia"))],
+            2: [(1, 3, JOIN.format("thema (l.1) and Panis (l.2) are the subjects of proponitur (l.3)")),
+                (4, 6, JOIN.format("the relative Quem (l.4) is the subject of datum [esse] (l.6), which "
+                                   "ambigitur governs; Turbae ... duodenae (l.5) is its dative"))],
+            3: [(1, 1, "own finite verbs (Sit ... sit); laus is their subject"),
+                (2, 3, JOIN.format("jubilatio (l.3) is the subject of Sit ... sit (l.2)")),
+                (4, 4, "own finite verb (agitur)"),
+                (5, 6, JOIN.format("institutio (l.6) is the subject of recolitur (l.5)"))],
+            4: [(1, 3, JOIN.format("Pascha (l.2) is the subject of terminat (l.3); In hac mensa (l.1) "
+                                   "goes with it")),
+                (4, 5, JOIN.format("l.4 has no verb: Vetustatem and novitas take fugat (l.5), gapped")),
+                (6, 6, "own finite verb (eliminat)")],
+            5: [(1, 1, "a relative clause with its own finite verb (gessit); may stand (rule s.1)"),
+                (2, 3, JOIN.format("In sui memoriam (l.3) goes with Faciendum ... expressit (l.2)")),
+                (4, 6, JOIN.format("Docti (l.4) agrees with the subject of Consecramus (l.6); Panem, "
+                                   "vinum (l.5) are its objects"))],
+            6: [(1, 1, "own finite verb (datur)"),
+                (2, 3, JOIN.format("vinum (l.3) is a second subject of transit (l.2), gapped")),
+                (4, 4, "two relative clauses with their own finite verbs (capis, vides); may stand"),
+                (5, 6, JOIN.format("Praeter rerum ordinem (l.6) goes with firmat (l.5)"))],
+            7: [(1, 3, JOIN.format("ll.1-2 have no verb: Sub diversis speciebus and Signis ... rebus "
+                                   "go with Latent (l.3)")),
+                (4, 4, "a complete verbless statement (est understood twice); governs nothing and "
+                       "depends on nothing, so it stands, as the rule's verbless case"),
+                (5, 6, JOIN.format("Sub utraque specie (l.6) goes with Manet (l.5)"))],
+            8: [(1, 3, JOIN.format("the participles concisus, confractus, divisus (ll.1-2) agree with "
+                                   "the subject of accipitur (l.3)")),
+                (4, 5, JOIN.format("l.5 has no verb: isti and ille are subjects of sumunt, sumit (l.4), "
+                                   "gapped")),
+                (6, 6, "own finite verb (consumitur)")],
+            9: [(1, 3, JOIN.format("ll.2-3 have no verb: the ablative Sorte (l.2) and its genitives "
+                                   "Vitae, interitus (l.3) go with sumunt (l.1)")),
+                (4, 4, "own finite verb (est), gapped in its second half inside the line"),
+                (5, 6, JOIN.format("Vide (l.5) governs the indirect question Quam sit (l.6), and paris "
+                                   "sumptionis (l.5) depends on exitus (l.6)"))],
+            10: [(1, 3, JOIN.format("the ablative absolute (l.1) goes with vacilles, memento (l.2), and "
+                                    "memento governs Tantum esse (l.3)")),
+                 (4, 4, "a correlative clause with its own finite verb (tegitur); may stand. Joining "
+                        "it to ll.1-3 would keep Tantum ... Quantum together: Adam's call"),
+                 (5, 5, "own finite verb (fit)"),
+                 (6, 6, "own finite verb (fit)"),
+                 (7, 8, JOIN.format("status, statura (l.7) are the subjects of minuitur (l.8)"))],
+            11: [(1, 2, JOIN.format("no finite verb: Ecce with the nominative panis (l.1), and Factus "
+                                    "(l.2) agrees with it; a complete verbless exclamation")),
+                 (3, 4, JOIN.format("no finite verb (est understood): the gerundive mittendus (l.4) "
+                                    "agrees with panis (l.3)")),
+                 (5, 5, "own finite verb (praesignatur)"),
+                 (6, 6, "a cum-clause with its own finite verb (immolatur); may stand"),
+                 (7, 7, "own finite verb (deputatur)"),
+                 (8, 8, "own finite verb (Datur)")],
+            12: [(1, 1, "vocatives only (Bone Pastor, panis vere): governed by nothing, a row of "
+                        "their own"),
+                 (2, 2, "own finite verb (miserere); Jesu is its vocative"),
+                 (3, 3, "own finite verbs (pasce, tuere)"),
+                 (4, 5, JOIN.format("In terra viventium (l.5) goes with videre, which fac (l.4) "
+                                    "governs")),
+                 (6, 10, JOIN.format("Tu (l.6) is the subject of Fac (l.10), and Tuos ... commensales, "
+                                     "Cohaeredes et sodales (ll.8-9) its object and predicate; the two "
+                                     "relative clauses (ll.6-7) sit inside"))],
+        },
+    },
+    "sacris-solemniis": {
+        "title": "Sacris solemniis juncta sint gaudia",
+        "source_file": "britt-1922-corpus-christi.json",
+        "latin_source": "britt-1922-latin",
+        "stanza_singable": {"source": "chambers-cento-britt-1922"},
+        "stanza_literal": {"source": "britt-1922-prose-corpus-christi"},
+        "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
+        "clauses": {
+            1: [(1, 1, "own finite verb (sint)"),
+                (2, 2, "own finite verb (sonent), coordinate by Et"),
+                (3, 4, JOIN.format("l.4 has no verb: Corda, voces, et opera stand in apposition to "
+                                   "omnia (l.3)"))],
+            2: [(1, 1, "own finite verb (recolitur)"),
+                (2, 4, JOIN.format("creditur (l.2) governs Dedisse (l.3), and indulta (l.4) agrees with "
+                                   "legitima (l.3)"))],
+            3: [(1, 4, JOIN.format("one period, one finite verb (fatemur, l.4): Corpus ... datum [esse] "
+                                   "(l.2) is its accusative and infinitive, and ll.1 and 3 go with it"))],
+            4: [(1, 1, "own finite verb (Dedit)"),
+                (2, 3, JOIN.format("the participle Dicens (l.3) agrees with the subject of Dedit (l.2); "
+                                   "the words it introduces share its line")),
+                (4, 4, "own finite verb (bibite), the second half of the quoted words")],
+            5: [(1, 1, "own finite verb (instituit)"),
+                (2, 4, JOIN.format("voluit (l.2) governs committi, whose dative Solis presbyteris is on "
+                                   "l.3; the Ut-clause (l.4) is the subject of congruit (l.3)"))],
+            6: [(1, 1, "own finite verb (fit)"),
+                (2, 2, "own finite verb (Dat)"),
+                (3, 4, JOIN.format("Pauper, servus, et humilis (l.4) are the subjects of manducat (l.3)"))],
+            7: [(1, 1, "own finite verb (poscimus); Deitas is its vocative"),
+                (2, 2, "own finite verbs (visita, colimus)"),
+                (3, 4, JOIN.format("Ad lucem (l.4) goes with duc (l.3)"))],
+        },
+    },
+    "verbum-supernum": {
+        "title": "Verbum supernum prodiens, nec Patris linquens dexteram",
+        "source_file": "britt-1922-corpus-christi.json",
+        "latin_source": "britt-1922-latin",
+        "stanza_singable": {"source": "neale-caswall-britt-1922"},
+        "stanza_literal": {"source": "britt-1922-prose-corpus-christi"},
+        "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
+        "clauses": {
+            1: [(1, 4, JOIN.format("the participles prodiens, linquens, exiens (ll.1-3) agree with "
+                                   "Verbum, the subject of Venit (l.4)"))],
+            2: [(1, 4, JOIN.format("tradendus (l.2) agrees with the subject of tradidit (l.4); ll.1 and "
+                                   "3 go with it"))],
+            3: [(1, 2, JOIN.format("the dative Quibus (l.1) goes with dedit (l.2)")),
+                (3, 4, JOIN.format("duplicis substantiae (l.3) depends on hominem, in the Ut-clause "
+                                   "whose verb is cibaret (l.4)"))],
+            4: [(1, 3, JOIN.format("Convescens (l.2) and Se moriens (l.3) take dedit (l.1), gapped, as "
+                                   "Britt's note reads them; their participles agree with its subject")),
+                (4, 4, "own finite verb (dat)")],
+            5: [(1, 1, "a vocative (O salutaris hostia): governed by nothing, a row of its own"),
+                (2, 2, "a relative clause with its own finite verb (pandis); may stand"),
+                (3, 3, "own finite verb (premunt)"),
+                (4, 4, "own finite verbs (Da, fer)")],
+            6: [(1, 2, JOIN.format("the dative Uni trinoque Domino (l.1) goes with Sit (l.2)")),
+                (3, 4, JOIN.format("vitam (l.3) is the object of donet (l.4)"))],
+        },
+    },
 }
+
+# Where a hymn's text comes from when it is not a vault batch (README s.9).
+PRINTED = os.path.join(ROOT, "data", "hymn-sources")
+# Adam's answers to the cut review sheet (review.py; README s.9d). A missing
+# file is no answers.
+CUT_REVIEWED = os.path.join(PRINTED, "cut-reviewed.jsonl")
 
 # Every source a field in these files comes from. The licence gate (launch
 # plan D4) is: public-domain editions, or the house's own work, and nothing
@@ -249,6 +393,72 @@ SOURCES = {
     },
 }
 
+# The three hymns transcribed from Britt 1922 (data/hymn-sources/). One
+# edition, one scan; `verified` means every line was read against the page
+# image, not taken from the OCR (which misreads Nec, Quem and every ligature).
+BRITT_1922 = ("Matthew Britt, The Hymns of the Breviary and Missal (London: Burns Oates & Washbourne; "
+              "copyright 1922 Benziger Brothers, printed in U.S.A.)")
+BRITT_SCAN = "archive.org/details/hymnsofbreviarym00britrich"
+PRINTED_SOURCES = {
+    "britt-1922-latin": {
+        "what": "Latin text of Lauda Sion, Sacris solemniis and Verbum supernum prodiens",
+        "edition": (f"{BRITT_1922}: no. 75 Lauda Sion, pp. 178-180; no. 77 Sacris solemniis, pp. 185-187; "
+                    f"no. 78 Verbum supernum, p. 188. Scan {BRITT_SCAN} (scan pages n187-n199)"),
+        "license": "PD",
+        "license_basis": "13th-century text, printed 1922 (US publication before 1929)",
+        "verified": True,
+        "verified_on": "2026-09-26",
+        "transcription": "data/hymn-sources/britt-1922-corpus-christi.json (conventions and every rejoined turnover listed there)",
+        "open": ("Britt prints ae/oe ligatures and consonantal j (cœna, præconia, Hujus); they are kept as "
+                 "printed, where Adoro te and Pange lingua carry the received text's cenae, iubilatio. "
+                 "search_key folds both. The canonical orthography is Adam's call (Latin Hymns doc s.7, "
+                 "decision 2; Caswall verification s.4)."),
+    },
+    "henry-britt-1922": {
+        "what": "Lauda Sion: stanza-level metrical English (singable)",
+        "edition": f"Monsignor Hugh T. Henry's translation, as printed in {BRITT_1922}, pp. 178-180 ({BRITT_SCAN})",
+        "license": "PD",
+        "license_basis": "published 1922 in the US (before 1929); translator d. 1946",
+        "verified": True,
+        "verified_on": "2026-09-26",
+        "open": "one line-end hyphen kept as a compound (life-bringing, st2); listed in the transcription file.",
+    },
+    "chambers-cento-britt-1922": {
+        "what": "Sacris solemniis: stanza-level metrical English (singable)",
+        "edition": (f"'a cento based on the translation by J. D. Chambers', as printed in {BRITT_1922}, "
+                    f"pp. 185-187 ({BRITT_SCAN})"),
+        "license": "PD",
+        "license_basis": "published 1922 in the US (before 1929); Chambers d. 1893; the cento's arranger is not named",
+        "verified": True,
+        "verified_on": "2026-09-26",
+    },
+    "neale-caswall-britt-1922": {
+        "what": "Verbum supernum prodiens: stanza-level metrical English (singable)",
+        "edition": (f"J. M. Neale (st. 1-4) and Edward Caswall (st. 5-6), as printed in {BRITT_1922}, "
+                    f"p. 188 ({BRITT_SCAN})"),
+        "license": "PD",
+        "license_basis": "published 1922 in the US (before 1929); Neale d. 1866, Caswall d. 1878",
+        "verified": True,
+        "verified_on": "2026-09-26",
+    },
+    "britt-1922-prose-corpus-christi": {
+        "what": "Lauda Sion, Sacris solemniis, Verbum supernum: stanza-level literal prose (the PD candidate for `elegant`)",
+        "edition": (f"{BRITT_1922}, the quoted prose of the numbered notes: pp. 181-183, 187-188, 189-190 "
+                    f"({BRITT_SCAN})"),
+        "license": "PD",
+        "license_basis": "published 1922 in the US (before 1929)",
+        "verified": True,
+        "verified_on": "2026-09-26",
+    },
+    "house-cut-2026-09-26": {
+        "what": "the clause cut of Lauda Sion, Sacris solemniis and Verbum supernum",
+        "edition": "build_hymn_corpus.py HYMNS[...]['clauses'], every cut with its reason in `cut.why`",
+        "license": "own",
+        "verified": False,
+        "open": "unchecked by Adam: every cut is on docs/review/2026-09-26-thomas-cuts.md.",
+    },
+}
+
 # Declared in the manifest only once an override is applied (none yet).
 ADAM_REVIEWED = {
     "what": "token lemma and/or parsing: Adam's answers to the lemma review sheet",
@@ -274,16 +484,22 @@ TOKEN_FIELDS = {
     "parsing": ("whitaker-words where it gives exactly one parse, the draft agrees and adds no "
                 "teaching note; else house-draft-2026-09-14. Never invented. Per token: provenance.parsing"),
     "lemma_key": "whitaker-words: the WORDS dictionary form naming the lemma; null where the draft stands",
-    "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order",
+    "gloss": ("house-draft-2026-09-14: the wooden gloss, Latin order. Null on the hymns printed from "
+              "Britt 1922, which have no house draft: a gloss is house work and none is invented"),
     "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is",
 }
+# The printed hymns (no draft): lemma and parsing by lemma_spine.resolve_undrafted.
+TOKEN_FIELDS_UNDRAFTED = ("lemma: whitaker-words only where WORDS has exactly one entry for the form "
+                          "(status `sole`), else null and flagged; parsing: whitaker-words only where "
+                          "that entry gives exactly one parse, else null (status `ambiguous`, not "
+                          "flagged). Per token: provenance. README-lemma-spine.md s.3b")
 
 PERSEUS = {
     "policy": ("Perseus is CC BY-SA. Nothing from Perseus is in these files. Perseus "
                "enrichment (lemmata, morphology, treebank links) is a separate layer "
                "keyed by CTS URN and joined at read time, never merged in."),
-    "cts_urn": {"hymns:adoro-te": None, "hymns:pange-lingua": None},
-    "note": "Neither hymn has a Perseus/CTS edition; the URN is null, not guessed.",
+    "cts_urn": {f"hymns:{k}": None for k in HYMNS},
+    "note": "No hymn here has a Perseus/CTS edition; the URN is null, not guessed.",
 }
 
 # ---------------------------------------------------------------------------
@@ -438,6 +654,213 @@ def spine_stats(tokens):
     }
 
 
+# ---------------------------------------------------------------------------
+# The printed hymns: text from data/hymn-sources/, no house draft (README s.9)
+# ---------------------------------------------------------------------------
+
+# Why a printed hymn's clause has only its Latin (the reader shows these).
+NOT_STORED = {
+    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
+    "en.plain": ("no prose_order: the plain order is house work (as for the Greek before its draft), "
+                 "and no source supplies one"),
+    "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal",
+}
+PRINTED_STATUS = "text verified against Britt 1922; cut and lemmas unchecked"
+
+ADAM_REVIEWED_CUT = {
+    "what": "the clause cut of a printed hymn: Adam's answers to the cut review sheet",
+    "edition": "data/hymn-sources/cut-reviewed.jsonl (review.py; README-hymn-jsonl.md s.9d)",
+    "license": "own",
+    "verified": True,
+}
+CUT_KEYS = {"stanza", "cut", "why", "reviewed_on", "note"}
+
+
+def load_cut_reviews(path=None):
+    """{stanza citation: row}. Malformed is a hard stop: an answer that cannot
+    be applied must not be dropped."""
+    path = path or CUT_REVIEWED
+    if not os.path.exists(path):
+        return {}
+    out = {}
+    with open(path, encoding="utf-8") as f:
+        for n, line in enumerate(f, 1):
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            where = f"cut-reviewed.jsonl:{n}"
+            if set(row) - CUT_KEYS or not {"stanza", "cut", "reviewed_on"} <= set(row):
+                _stop(f"{where}: fields must be {sorted(CUT_KEYS)} (stanza, cut, reviewed_on required)")
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row["reviewed_on"]):
+                _stop(f"{where}: reviewed_on must be YYYY-MM-DD")
+            if row["stanza"] in out:
+                _stop(f"{where}: {row['stanza']} is answered twice")
+            out[row["stanza"]] = row
+    return out
+
+
+def partition_problem(cut, n_lines):
+    """None when `cut` ([[a, b], ...]) partitions lines 1..n exactly."""
+    expect = 1
+    for a, b in cut:
+        if a != expect or b < a:
+            return f"lines {a}-{b} do not continue the partition at line {expect}"
+        expect = b + 1
+    if expect - 1 != n_lines:
+        return f"the cut covers {expect - 1} of {n_lines} lines"
+    return None
+
+
+def effective_cut(st_cit, draft, row, n_lines):
+    """[(a, b, why, review)] for a stanza: the draft cut, or Adam's answer.
+    A re-cut keeps a draft clause's reason where its lines are unchanged; a
+    new join must carry a reason of Adam's (`why`, or the row's `note`)."""
+    if not row:
+        return [(a, b, why, {"review": "open"}) for a, b, why in draft]
+    prob = partition_problem(row["cut"], n_lines)
+    if prob:
+        _stop(f"{st_cit}: reviewed cut: {prob}")
+    reasons = {(a, b): why for a, b, why in draft}
+    stamp = {"review": "adam-reviewed", "reviewed_on": row["reviewed_on"]}
+    if row.get("note"):
+        stamp["note"] = row["note"]
+    out = []
+    for a, b in row["cut"]:
+        why = (row.get("why") or {}).get(f"{a}-{b}") or reasons.get((a, b))
+        if not why and row.get("note"):
+            why = "Adam's cut: " + row["note"]
+        if b > a and not why:
+            _stop(f"{st_cit}: reviewed cut joins lines {a}-{b} with no reason (`why` or `note`)")
+        out.append((a, b, why, dict(stamp)))
+    return out
+
+
+def clause_uid(reg, cit, lines, draft_lines, reviewed):
+    """The clause's uid. A reviewed re-cut that puts different lines under a
+    clause citation the draft already minted must not let the old uid mean new
+    words: the citation is re-issued a fresh uid and the old one is recorded
+    as superseded by it (wh_uid: never reused, never silently repointed).
+    Returns (uid, superseded uid or None)."""
+    old = reg.map.get(cit)
+    if (reviewed and old and tuple(lines) != draft_lines
+            and old not in set(reg.superseded.values())):
+        new = reg.mint_free()
+        reg.map[cit] = new
+        reg.record_supersede(old, new)
+        return new, old
+    uid = reg.uid_for(cit)
+    prior = next((o for o, n in reg.superseded.items() if n == uid), None)
+    return uid, prior
+
+
+def build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
+                  passages, witnesses, tokens, alignments):
+    """One hymn from its printed-source file. Same records as the batch
+    hymns, minus what only a house draft could supply."""
+    path = os.path.join(PRINTED, H["source_file"])
+    doc, sha = _load(PRINTED, H["source_file"])
+    inputs[H["source_file"]] = sha
+    work = f"hymns:{key}"
+    if key not in doc["hymns"]:
+        _stop(f"{work}: not in {path}")
+    stanzas = doc["hymns"][key]["stanzas"]
+    if sorted(s["stanza"] for s in stanzas) != sorted(H["clauses"]):
+        _stop(f"{work}: stanza set in {H['source_file']} does not match the CLAUSES table")
+    for sp in sorted(stanzas, key=lambda s: s["stanza"]):
+        n = sp["stanza"]
+        st_cit = f"{work}.st{n}"
+        st_uid = reg.uid_for(st_cit)
+        lines = sp["la"]
+        if any(not l.strip() or "\n" in l for l in lines):
+            _stop(f"{st_cit}: a blank or broken Latin line")
+        draft = H["clauses"][n]
+        if partition_problem([(a, b) for a, b, _ in draft], len(lines)):
+            _stop(f"{st_cit}: {partition_problem([(a, b) for a, b, _ in draft], len(lines))}")
+        cut = effective_cut(st_cit, draft, cut_rows.get(st_cit), len(lines))
+        stanza_at = len(passages)
+        clause_uids = []
+        for ci, (a, b, why, review) in enumerate(cut, 1):
+            if b > a and not why:
+                _stop(f"{st_cit} c{ci}: lines joined with no reason recorded")
+            cit = f"{st_cit}.c{ci}"
+            draft_lines = tuple(draft[ci - 1][:2]) if ci <= len(draft) else None
+            uid, prior = clause_uid(reg, cit, (a, b), draft_lines, review["review"] != "open")
+            clause_uids.append(uid)
+            text = "\n".join(lines[a - 1:b])
+            c = {"by": H["cut_by"], "why": why, **review}
+            if prior:
+                c["supersedes"] = prior
+            passages.append({
+                "uid": uid, "citation": cit, "kind": "passage", "unit": "clause",
+                "work": work, "stanza_uid": st_uid, "stanza": n, "clause": ci,
+                "lines": [a, b], "grade": None, "memorize": None,
+                "reading_of_record": "la.1", "cut": c, "notes": [],
+                "status": PRINTED_STATUS,
+            })
+            witnesses.append({
+                "address": U.address(uid, "la.1"), "passage_uid": uid, "name": "la.1",
+                "lang": "la", "role": "original", "register": "medieval-latin",
+                "text": text, "generated": False, "source": H["latin_source"],
+                "attested": "Y", "reading_of_record": True, "page": sp["page"],
+            })
+            on_line = [li for li in range(a, b + 1) for _ in tokenize(lines[li - 1])]
+            for i, surface in enumerate(tokenize(text), 1):
+                skey = search_key(normalized(surface))
+                if skey not in spine:
+                    _stop(f"{cit} t{i:02d}: {skey!r} has no row in the lemma spine; "
+                          "run pipeline/build_lemma_spine.py")
+                lemma, lemma_key, parsing, prov, rv = resolve_undrafted(spine[skey])
+                addr = U.address(uid, f"la.1.t{i:02d}")
+                if addr in overrides:
+                    try:
+                        lemma, lemma_key, parsing, prov, rv = apply_override(
+                            (lemma, lemma_key, parsing, prov, rv), surface, spine[skey], overrides[addr])
+                    except ValueError as e:
+                        _stop(f"lemma overrides: {e}")
+                    used.add(addr)
+                tokens.append({
+                    "address": addr, "passage_uid": uid,
+                    "witness": "la.1", "position": i, "line": on_line[i - 1],
+                    "surface": surface,
+                    "normalized": normalized(surface),
+                    "search_key": skey,
+                    "translit": None,
+                    "lemma": lemma,
+                    "lemma_key": lemma_key,
+                    "parsing": parsing,
+                    "gloss": None,
+                    "plain_form": None,
+                    "syntax": None,
+                    "legacy_address": None,
+                    "provenance": prov,
+                    "review": rv,
+                })
+        passages.insert(stanza_at, {
+            "uid": st_uid, "citation": st_cit, "kind": "passage", "unit": "stanza",
+            "work": work, "stanza": n, "lines": [1, len(lines)],
+            "clauses": clause_uids, "grade": None, "memorize": None,
+            "teacher_notes": None, "status": PRINTED_STATUS, "page": sp["page"],
+        })
+        renderings = [("en.singable", "singable", "\n".join(sp["en_singable"]),
+                       H["stanza_singable"]["source"], sp["en_page"]),
+                      ("en.literal", "literal-prose", sp["en_literal"],
+                       H["stanza_literal"]["source"], sp["literal_page"])]
+        for name, role, text, source, page in renderings:
+            if not text or not text.strip():
+                _stop(f"{st_cit}: {name} is empty in {H['source_file']}")
+            witnesses.append({
+                "address": U.address(st_uid, name), "passage_uid": st_uid, "name": name,
+                "lang": "en", "role": role, "text": text, "generated": False,
+                "source": source, "attested": "Y", "reading_of_record": False, "page": page})
+            alignments.append({
+                "alignment_id": f"{U.address(st_uid, name)}~la.1",
+                "level": "section", "type": f"1:{'many' if len(clause_uids) > 1 else '1'}",
+                "a": [{"address": U.address(st_uid, name), "tokens": None}],
+                "b": [{"address": U.address(u, "la.1"), "tokens": None} for u in clause_uids],
+                "confidence": "high", "note": None,
+            })
+
+
 def build(src, reg):
     passages, witnesses, tokens, alignments = [], [], [], []
     inputs = {}
@@ -449,7 +872,12 @@ def build(src, reg):
     used = set()
     legacy_map = {}          # legacy unit_id -> clause uid (the join, done once)
 
+    cut_rows = load_cut_reviews()
     for key, H in HYMNS.items():
+        if "source_file" in H:
+            build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
+                          passages, witnesses, tokens, alignments)
+            continue
         batch, h1 = _load(src, H["batch"])
         perms, h2 = _load(src, H["permutations"])
         inputs[H["batch"]] = h1
@@ -667,7 +1095,17 @@ def build(src, reg):
     stale = sorted(set(overrides) - used)
     if stale:
         _stop(f"lemma overrides name tokens that do not exist: {stale[:5]}")
+    stale_cuts = sorted(set(cut_rows) - {p["citation"] for p in passages if p["unit"] == "stanza"})
+    if stale_cuts:
+        _stop(f"cut review rows name stanzas that do not exist: {stale_cuts[:5]}")
+    if cut_rows:
+        with open(CUT_REVIEWED, "rb") as f:
+            inputs["cut-reviewed.jsonl"] = hashlib.sha256(f.read()).hexdigest()
     sources = dict(SOURCES)
+    if any("source_file" in H for H in HYMNS.values()):
+        sources.update(PRINTED_SOURCES)
+        if cut_rows:
+            sources[OVERRIDE_SOURCE + "-cut"] = ADAM_REVIEWED_CUT
     if used:
         sources[OVERRIDE_SOURCE] = ADAM_REVIEWED
         with open(OVERRIDES, "rb") as f:
@@ -684,7 +1122,11 @@ def build(src, reg):
                    "witnesses": len(witnesses), "tokens": len(tokens),
                    "alignments": len(alignments)},
         "works": {f"hymns:{k}": {"title": H["title"], "reading_of_record": "la.1",
-                                 "cut_by": H["cut_by"]} for k, H in HYMNS.items()},
+                                 "cut_by": H["cut_by"],
+                                 **({"source_file": "data/hymn-sources/" + H["source_file"],
+                                     "token_fields": TOKEN_FIELDS_UNDRAFTED,
+                                     "not_stored": NOT_STORED} if "source_file" in H else {})}
+                  for k, H in HYMNS.items()},
         "licence_gate": {"allowed": list(ALLOWED_LICENSES),
                          "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only"},
         "sources": sources,

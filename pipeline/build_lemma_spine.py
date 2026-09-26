@@ -82,8 +82,15 @@ def hymn_forms():
     forms = {t["search_key"] for t in toks if t["witness"] == "la.1"}
     import build_hymn_corpus as B
     shelf = next((c for c in B.SOURCE_CANDIDATES if c and os.path.isdir(c)), None)
+    # a printed hymn's text is committed (data/hymn-sources/): always read
+    for key, H in B.HYMNS.items():
+        if "source_file" in H:
+            with open(os.path.join(B.PRINTED, H["source_file"]), encoding="utf-8") as f:
+                doc = json.load(f)
+            for s in doc["hymns"][key]["stanzas"]:
+                forms |= {B.search_key(B.normalized(w)) for l in s["la"] for w in B.tokenize(l)}
     if shelf:
-        for H in B.HYMNS.values():
+        for H in (H for H in B.HYMNS.values() if "batch" in H):
             with open(os.path.join(shelf, H["batch"]), encoding="utf-8") as f:
                 batch = json.load(f)
             for p in batch["passages"]:

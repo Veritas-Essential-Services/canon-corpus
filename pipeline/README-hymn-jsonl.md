@@ -210,3 +210,136 @@ uid, read once), the sha256 of every input and output, and `cut_on`.
 The build refuses to guess. A legacy row that lands in no clause, tokens that
 don't match surface for surface, a join with no reason, or a stanza uid that
 disagrees with the registry are all hard stops.
+
+---
+
+## 9. Hymns from a printed edition (no vault batch, no house draft)
+
+*Added 2026-09-26: Lauda Sion, Sacris solemniis, Verbum supernum prodiens
+(launch plan Ring 3, "the hymns of Thomas").*
+
+*Adoro te* and *Pange lingua* came to the corpus as vault batch notes: the
+Latin, a house draft of every token (gloss, lemma, parsing, syntax) and a
+house plain order. These three hymns have none of that. Their text comes
+straight from one public-domain printing:
+
+**Matthew Britt, *The Hymns of the Breviary and Missal* (1922)**, the same
+printing Caswall's *Pange lingua* was verified against: Latin, a verse
+translation and a literal prose translation for each. The scan is
+`archive.org/details/hymnsofbreviarym00britrich`.
+
+### 9a. The source file
+
+`data/hymn-sources/britt-1922-corpus-christi.json` (committed; PD) holds, per
+stanza: the Latin lines, the verse English, Britt's literal prose, and the
+printed page of each. It also records the edition (title page and copyright
+page), every scan page read with its image's sha256, and the transcription's
+conventions. `HYMNS[slug]["source_file"]` points the build at it.
+
+**Verified means read against the page image.** The scan's OCR text layer
+was the starting point only, and it is wrong in ways that matter: *Nee* for
+*Nec*, *Quern* for *Quem*, no ligatures, and *Vetera* where the page has
+*vetera*. Every line was checked against the image.
+
+**Conventions:**
+
+- The Latin is exactly as printed: *æ*, *œ*, consonantal *j*.
+- The display capital (LAUDA) is title case.
+- A turned-over verse line is rejoined, and each word broken at a turnover is
+  listed in the file.
+- The English uses the house typography (straight quotes, `--`) and keeps
+  Britt's metrical *-èd*.
+- The literal prose is the quoted translation only, without Britt's commentary.
+
+### 9b. What is stored
+
+The same four files and records as the batch hymns, with these differences:
+
+- **Passages.** No `legacy` block (there were no legacy ids). `grade` and
+  `memorize` are null. `status` reads "text verified against Britt 1922; cut
+  and lemmas unchecked". The stanza records its printed `page`.
+- **Clause witnesses: `la.1` only**, source `britt-1922-latin`, with its
+  `page`. There is **no `en.wooden`, `en.plain` or `en.elegant`**, and
+  `manifest.works[..].not_stored` says why. A gloss and a plain order are house
+  work, and none is invented, as for the Greek before its draft (README-nt-jsonl
+  s.13). The reader shows those columns empty with that reason.
+- **Stanza witnesses**: `en.singable` and `en.literal`, both from Britt, with
+  their pages.
+  - Lauda Sion is sung in Hugh T. Henry's translation.
+  - Sacris solemniis is sung in "a cento based on the translation by J. D.
+    Chambers".
+  - Verbum supernum is sung in Neale's translation (st. 1-4) and Caswall's
+    (st. 5-6).
+  - Each witness is aligned to its clauses, as the batch hymns' are.
+- **Tokens**: `gloss`, `plain_form` and `syntax` are null. `lemma` and `parsing`
+  come from `lemma_spine.resolve_undrafted` (README-lemma-spine.md s.3b):
+  Whitaker only where it leaves no choice, else null and flagged.
+
+**Counts:**
+
+| | stanzas | clauses | tokens |
+|---|---|---|---|
+| Lauda Sion | 12 | 45 | 286 |
+| Sacris solemniis | 7 | 17 | 132 |
+| Verbum supernum | 6 | 12 | 87 |
+
+That is 99 uids minted, and nothing about *Adoro te* or *Pange lingua*
+changed. Their records are the first lines of each file, byte-identical to
+e9ed7f0, and the test pins that.
+
+### 9c. The cut
+
+The cut follows the s.1 rule, as *Adoro te*'s re-cut did. For these hymns
+**every** clause records its reason in `cut.why`, one-line clauses included,
+because every cut goes to Adam. The table is `HYMNS[slug]["clauses"]` as
+`(first line, last line, why)`. Each clause's `cut.review` is `open` until
+Adam answers.
+
+### 9d. Adam's answers: `docs/review/2026-09-26-thomas-cuts.md`
+
+`review.py` renders one row per stanza, showing the clauses with their lines
+and reasons. The answers are:
+
+- `ok` accepts the cut;
+- `draft→` defers it;
+- `cut: 1, 2-3, 4-6; note: …` re-cuts it. The note is required for any join the
+  draft did not have.
+
+`review.py apply` writes `data/hymn-sources/cut-reviewed.jsonl` rows
+(`{stanza, cut, reviewed_on, note?}`), rebuilds, and runs `--check`. The build
+applies them, and the clause's `cut` then says `review: adam-reviewed` with the
+date.
+
+**Identity under a re-cut.** A clause citation is positional (`st10.c2`). If a
+reviewed re-cut puts different lines under a citation the draft already
+minted, the build does three things:
+
+1. It gives that citation a fresh uid (`wh_uid.mint_free`).
+2. It records the old uid as superseded by the new one in the registry.
+3. It writes `cut.supersedes` on the clause.
+
+So an old address never silently means new words, and no uid is reused. A
+citation the re-cut drops keeps its uid in the registry, as every vanished
+citation does. A second, different re-cut of the same stanza is refused,
+because it is a hand decision.
+
+Lemma answers are keyed by clause uid, so the cut sheet comes first. A lemma
+answer left on a re-issued clause stops the build rather than being dropped.
+Their flagged tokens have their own sheet,
+`docs/review/2026-09-26-thomas-lemma-flags.md`, answered into the same
+`adam-reviewed.jsonl`.
+
+### 9e. Adding the next printed hymn
+
+1. Transcribe it into a source file under `data/hymn-sources/` from a named PD
+   printing. Record the page and scan for every stanza, and check every line
+   against the image, not the OCR.
+2. Add a `HYMNS` entry with `source_file`, `latin_source`, `stanza_singable`,
+   `stanza_literal` and the clause table, with every cut's reason. Add any new
+   source to `PRINTED_SOURCES` with its licence basis.
+3. Run `build_lemma_spine.py`, which reads the new forms from the source file,
+   then `build_hymn_corpus.py`, then `build_lemma_spine.py` again (its
+   manifest counts the tokens).
+4. Run `review.py render` to add the stanzas and the flags to the sheets.
+5. Bump the counts in `tests/hymn_corpus_test.py` and `tests/lemma_spine_test.py`.
+   Add the hymn to `render_reader.WORKS` and to `export_mnemonicon_pack.HYMNS`.

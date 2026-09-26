@@ -75,14 +75,24 @@ def jsonl(path):
 # SYNCOPE/SLURY/FIXES/TRICKS were ported: pellicane is no longer unknown (WORDS
 # reads it, wrongly, as pellex + suffix -an: disagree), and syncope adds a
 # second candidate to moras and caro (agree -> agree-selected for moras).
+# The forms grew with the three hymns printed from Britt 1922 (2026-09-26):
+# 547 forms, 2 unknown (Sion, Isaac: proper names, which the spine does not
+# load; README s.10). The token measures below stay the 263 DRAFTED tokens.
 EXPECTED = {
-    "hymn_forms": 222, "hymn_forms_unknown": 0,
+    "hymn_forms": 547, "hymn_forms_unknown": 2,
     "lemma_from_whitaker": 244, "lemma_from_draft": 19,
     "parsing_from_whitaker": 84, "parsing_confirmed_by_whitaker": 10,
     "flagged_for_review": 24,
     "lemma_status": {"agree": 161, "agree-selected": 83, "ambiguous": 9, "disagree": 10},
     "parsing_status": {"confirmed": 10, "disagree": 5, "draft-consistent": 145,
                        "unchecked": 19, "whitaker": 84},
+}
+# The 505 tokens of Lauda Sion, Sacris solemniis and Verbum supernum, which
+# have no house draft: lemma_spine.resolve_undrafted (README s.3b).
+EXPECTED_UNDRAFTED = {
+    "tokens": 505, "flagged_for_review": 198,
+    "lemma_status": {"ambiguous": 193, "disagree": 3, "same-lemma": 34, "sole": 273, "unknown": 2},
+    "parsing_status": {"ambiguous": 133, "unchecked": 232, "whitaker": 140},
 }
 GRANT = "Permission is hereby freely given for any and all use of program and data."
 
@@ -118,9 +128,12 @@ check("free-grant is admitted for Whitaker only",
       [k for k, v in hman["sources"].items() if v["license"] == "free-grant"] == ["whitaker-words"])
 
 print("\n--- coverage")
-tokens = jsonl(os.path.join(HYM, "tokens.jsonl"))
+all_tokens = jsonl(os.path.join(HYM, "tokens.jsonl"))
+# a drafted token came from a vault batch file and says where it sat there
+tokens = [t for t in all_tokens if t["legacy_address"]]
+undrafted = [t for t in all_tokens if not t["legacy_address"]]
 arows = {r["form"]: r["analyses"] for r in jsonl(os.path.join(LEM, "hymns.analyses.jsonl"))}
-forms = {t["search_key"] for t in tokens}
+forms = {t["search_key"] for t in all_tokens}
 check("every hymn form has an analysis row, and no row is spare", set(arows) == forms,
       len(forms ^ set(arows)))
 c = man["counts"]
@@ -129,9 +142,9 @@ check("hymn form counts as measured", (c["hymn_forms"], c["hymn_forms_unknown"])
 check("unknown_forms lists exactly the forms with no analysis",
       sorted(man["unknown_forms"]) == sorted(f for f, a in arows.items() if not a))
 recount = {
-    "lemma_from_whitaker": sum(t["provenance"]["lemma"]["source"] == "whitaker-words" for t in tokens),
-    "parsing_from_whitaker": sum(t["provenance"]["parsing"]["source"] == "whitaker-words" for t in tokens),
-    "flagged_for_review": sum(bool(t["review"]) for t in tokens),
+    "lemma_from_whitaker": sum(t["provenance"]["lemma"]["source"] == "whitaker-words" for t in all_tokens),
+    "parsing_from_whitaker": sum(t["provenance"]["parsing"]["source"] == "whitaker-words" for t in all_tokens),
+    "flagged_for_review": sum(bool(t["review"]) for t in all_tokens),
 }
 spine = hman["lemma_spine"]
 check("the hymn manifest's spine stats are what the tokens say",
@@ -216,6 +229,37 @@ check("review is a list of reasons or null, never empty",
 check("no lemma or parsing is an empty string or null",
       all(t["lemma"] and t["parsing"] for t in tokens))
 
+print("\n--- the undrafted tokens (the printed hymns)")
+check("undrafted token count", len(undrafted) == EXPECTED_UNDRAFTED["tokens"], len(undrafted))
+
+
+def status_count(ts, f):
+    out = {}
+    for t in ts:
+        pv = t["provenance"][f]
+        k = (pv["was"] if pv["source"] == L.OVERRIDE_SOURCE else pv)["status"]
+        out[k] = out.get(k, 0) + 1
+    return dict(sorted(out.items()))
+
+
+OVU = L.load_overrides()
+for f in ("lemma", "parsing"):
+    got = status_count(undrafted, f)
+    check(f"undrafted {f} status as measured (before Adam's answers)",
+          got == EXPECTED_UNDRAFTED[f + "_status"], got)
+bad_u = [t["address"] for t in undrafted if t["address"] not in OVU and
+         (t["lemma"], t["lemma_key"], t["parsing"], t["provenance"], t["review"]) !=
+         L.resolve_undrafted(arows[t["search_key"]])]
+check("every undrafted token is exactly what resolve_undrafted gives", not bad_u, bad_u[:3])
+check("an undrafted token records that it had no draft",
+      all(t["provenance"]["lemma"]["draft"] is None and t["provenance"]["parsing"]["draft"] is None
+          for t in undrafted))
+check("an undrafted token with no lemma is flagged; a sole or same-lemma one is not",
+      all(bool(t["review"]) == (t["provenance"]["lemma"]["status"] in ("ambiguous", "unknown", "disagree"))
+          for t in undrafted if t["address"] not in OVU))
+check("flagged undrafted tokens as measured (before Adam's answers)",
+      sum(1 for t in undrafted if t["review"] or t["address"] in OVU) == EXPECTED_UNDRAFTED["flagged_for_review"])
+
 print("\n--- nothing overwritten silently")
 # The drafts, restored, must be exactly the pre-D3 values. Those came from the
 # vault's batch files; the committed hymn file before D3 is git history, so
@@ -225,7 +269,7 @@ B = load("build_hymn_corpus")
 shelf = next((x for x in B.SOURCE_CANDIDATES if x and os.path.isdir(x)), None)
 if shelf:
     drafts = {}
-    for H in B.HYMNS.values():
+    for H in (H for H in B.HYMNS.values() if "batch" in H):
         batch = json.load(open(os.path.join(shelf, H["batch"]), encoding="utf-8"))
         for p in batch["passages"]:
             if not p["id"].startswith(H["legacy_prefix"] + "."):
@@ -250,6 +294,28 @@ def A_(key, lemma, head, parse, pos=None, enc=None):
 
 
 V1 = {"pos": "V", "decl": [1, 1], "tense": "PRES", "voice": "ACTIVE", "mood": "IND", "person": 1, "number": "S"}
+P1 = {"pos": "PREP", "case": "ACC"}
+P2 = {"pos": "PREP", "case": "ABL"}
+r = L.resolve_undrafted([A_("adoro  V", "adoro, adorare", "adoro", V1)])
+check("no draft, one entry, one parse: Whitaker's lemma, key and parse (sole), not flagged",
+      r[:3] == ("adoro, adorare", "adoro  V", "1 sg pres ind act, 1 conj")
+      and r[3]["lemma"]["status"] == "sole" and r[3]["lemma"]["draft"] is None and r[4] is None)
+r = L.resolve_undrafted([A_("in  PREP  ACC", "in", "in", P1), A_("in  PREP  ABL", "in", "in", P2)])
+check("no draft, two entries of one word: the lemma, no key, no parse, not flagged (same-lemma)",
+      r[:3] == ("in", None, None) and r[3]["lemma"]["status"] == "same-lemma" and r[4] is None)
+N3 = {"pos": "N", "decl": [3, 1], "case": "NOM", "number": "S", "gender": "M"}
+r = L.resolve_undrafted([A_("panis, panis  N", "panis, panis", "panis", N3),
+                         A_("pane, panis  N", "pane, panis", "pane", N3)])
+check("no draft, two words: no lemma, flagged, the candidates listed (ambiguous)",
+      r[:3] == (None, None, None) and r[3]["lemma"]["status"] == "ambiguous"
+      and len(r[3]["lemma"]["whitaker"]) == 2 and r[4])
+r = L.resolve_undrafted([A_("te  PRON", "tu", "tu", {"pos": "PRON", "case": "ACC"}),
+                         A_("te  PRON", "tu", "tu", {"pos": "PRON", "case": "ABL"})])
+check("no draft, one entry, two parses: the lemma, no parse, NOT flagged (ambiguous parsing)",
+      r[0] == "tu" and r[2] is None and r[3]["parsing"]["status"] == "ambiguous" and r[4] is None)
+r = L.resolve_undrafted([])
+check("no draft, no analysis: nothing, flagged (unknown)",
+      r[:3] == (None, None, None) and r[3]["lemma"]["status"] == "unknown" and r[4])
 r = L.resolve("adōrō, -āre", "1 sg pres ind act", [A_("adoro  V", "adoro, adorare", "adoro", V1)])
 check("agree: Whitaker's lemma and its one parse are taken; the draft is recorded",
       r[0] == "adoro, adorare" and r[1] == "adoro  V" and r[3]["lemma"]["draft"] == "adōrō, -āre"
@@ -311,7 +377,7 @@ check("a two-words guess is never taken: unknown, the guess recorded",
                                               "pelli+cane part 2: canis, canis"])
 
 print("\n--- Adam's overrides")
-answered = {t["address"] for t in tokens
+answered = {t["address"] for t in all_tokens
             if L.OVERRIDE_SOURCE in (t["provenance"]["lemma"]["source"], t["provenance"]["parsing"]["source"])}
 check("the overrides file is committed, and every row in it is applied to its token (review.py writes it)",
       os.path.exists(L.OVERRIDES) and answered == set(OV), sorted(answered ^ set(OV))[:3])

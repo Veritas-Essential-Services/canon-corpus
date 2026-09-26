@@ -371,6 +371,76 @@ def resolve(draft_lemma, draft_parsing, analyses):
     return lemma, key, parsing, {"lemma": lp, "parsing": pp}, (review or None)
 
 
+def resolve_undrafted(analyses):
+    """The rule for a token with NO house draft (a hymn transcribed straight
+    from a printed edition: README-lemma-spine.md s.3b). Same return shape as
+    resolve(). With no draft to choose, Whitaker is taken only where it leaves
+    no choice:
+
+    lemma    exactly one Whitaker entry (two-words guesses aside): taken,
+             status `sole`. Several: null, status `ambiguous`, flagged, the
+             candidates listed. None: null, status `unknown`, flagged.
+    parsing  only once the lemma is taken, and only when that entry gives
+             exactly ONE parse: taken, status `whitaker`. Several parses:
+             null, status `ambiguous`, NOT flagged -- several parses is normal
+             Latin (te is acc or abl) and choosing one is reading the line,
+             which is house work, not a lookup.
+    Nothing is invented: a null says "no source picks one yet"."""
+    guesses = [a for a in analyses or [] if "TWO_WORDS" in _kinds(a)]
+    A = [a for a in analyses or [] if "TWO_WORDS" not in _kinds(a)]
+    keys = sorted({a["key"] for a in A})
+    lp = {"source": SPINE_SOURCE, "draft": None, "candidates": len(keys)}
+    pp = {"source": SPINE_SOURCE, "draft": None}
+    review = []
+    lemma = key = parsing = None
+    if not A:
+        lp.update(status="unknown", source=None,
+                  note="WORDS (as ported here) has no analysis of this form, and there is no draft")
+        if guesses:
+            lp["note"] = "WORDS has only a two-words guess, which is never taken; there is no draft"
+            two = [(v["as"], v["part"], g["lemma"] or g["key"])
+                   for g in guesses for v in g["via"] if v["kind"] == "TWO_WORDS"]
+            lp["whitaker_guess"] = [f"{s} part {n}: {l}" for s, n, l in sorted(set(two))]
+        pp.update(status="unchecked", source=None)
+        review.append("lemma: Whitaker has no analysis, and there is no draft")
+    elif len(keys) > 1 and len({a["lemma"] for a in A}) == 1 and A[0]["lemma"] \
+            and not any(_kinds(a) & {"PREFIX", "SUFFIX"} for a in A):
+        # several entries, one word: `in` (+acc, +abl) is `in` either way.
+        # The lemma is certain; which entry is a parse question, so no key.
+        lemma = A[0]["lemma"]
+        lp.update(status="same-lemma", whitaker=keys,
+                  note="every Whitaker entry for this form has this lemma; the entry is not chosen")
+        pp.update(status="unchecked", source=None)
+    elif len(keys) > 1:
+        lp.update(status="ambiguous", source=None, whitaker=sorted({_named(a) for a in A}))
+        pp.update(status="unchecked", source=None)
+        review.append("lemma: several Whitaker entries, and no draft to choose among them")
+    else:
+        key = keys[0]
+        mine = [a for a in A if a["key"] == key]
+        lemma = mine[0]["lemma"] or key
+        lp.update(status="sole", form_by=mine[0]["form_by"], sources=mine[0]["sources"])
+        if all(a.get("via") for a in mine):
+            lp["via"] = mine[0]["via"]
+        if all(_kinds(a) & {"PREFIX", "SUFFIX"} for a in mine):
+            # a prefix/suffix reading names the base word, never the compound
+            lemma, key = None, None
+            lp.update(status="disagree", source=None, whitaker=[_named(mine[0])])
+            pp.update(status="unchecked", source=None)
+            review.append("lemma: Whitaker reaches this form only by prefix/suffix word formation")
+            return lemma, key, parsing, {"lemma": lp, "parsing": pp}, review
+        parses = sorted({_parse_id(a) for a in mine})
+        pp["whitaker_parses"] = len(parses)
+        if len(parses) == 1:
+            a = mine[0]
+            parsing = render(a["parse"], deponent=key.endswith(" DEP"), enclitic=a.get("enclitic"))
+            pp.update(status="whitaker", whitaker=a["whitaker"])
+        else:
+            pp.update(status="ambiguous", source=None,
+                      whitaker=[p[0] + (f" +{p[1]}" if p[1] else "") for p in parses])
+    return lemma, key, parsing, {"lemma": lp, "parsing": pp}, (review or None)
+
+
 # -- Adam's overrides (README-lemma-spine.md s.8) -------------------------------
 
 OVERRIDE_KEYS = {"address", "surface", "lemma", "lemma_key", "parsing", "reviewed_on", "note"}

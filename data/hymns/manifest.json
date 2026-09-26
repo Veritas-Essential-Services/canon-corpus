@@ -4,12 +4,12 @@
  "cut_on": "2026-09-26",
  "row_unit": "clause",
  "counts": {
-  "passages": 48,
-  "clauses": 35,
-  "stanzas": 13,
-  "witnesses": 136,
-  "tokens": 263,
-  "alignments": 19
+  "passages": 147,
+  "clauses": 109,
+  "stanzas": 38,
+  "witnesses": 260,
+  "tokens": 768,
+  "alignments": 69
  },
  "works": {
   "hymns:adoro-te": {
@@ -21,6 +21,42 @@
    "title": "Pange lingua gloriosi corporis mysterium",
    "reading_of_record": "la.1",
    "cut_by": "the 2026-09-16 retrofit (unchanged here)"
+  },
+  "hymns:lauda-sion": {
+   "title": "Lauda Sion Salvatorem",
+   "reading_of_record": "la.1",
+   "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
+   "source_file": "data/hymn-sources/britt-1922-corpus-christi.json",
+   "token_fields": "lemma: whitaker-words only where WORDS has exactly one entry for the form (status `sole`), else null and flagged; parsing: whitaker-words only where that entry gives exactly one parse, else null (status `ambiguous`, not flagged). Per token: provenance. README-lemma-spine.md s.3b",
+   "not_stored": {
+    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
+    "en.plain": "no prose_order: the plain order is house work (as for the Greek before its draft), and no source supplies one",
+    "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal"
+   }
+  },
+  "hymns:sacris-solemniis": {
+   "title": "Sacris solemniis juncta sint gaudia",
+   "reading_of_record": "la.1",
+   "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
+   "source_file": "data/hymn-sources/britt-1922-corpus-christi.json",
+   "token_fields": "lemma: whitaker-words only where WORDS has exactly one entry for the form (status `sole`), else null and flagged; parsing: whitaker-words only where that entry gives exactly one parse, else null (status `ambiguous`, not flagged). Per token: provenance. README-lemma-spine.md s.3b",
+   "not_stored": {
+    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
+    "en.plain": "no prose_order: the plain order is house work (as for the Greek before its draft), and no source supplies one",
+    "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal"
+   }
+  },
+  "hymns:verbum-supernum": {
+   "title": "Verbum supernum prodiens, nec Patris linquens dexteram",
+   "reading_of_record": "la.1",
+   "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
+   "source_file": "data/hymn-sources/britt-1922-corpus-christi.json",
+   "token_fields": "lemma: whitaker-words only where WORDS has exactly one entry for the form (status `sole`), else null and flagged; parsing: whitaker-words only where that entry gives exactly one parse, else null (status `ambiguous`, not flagged). Per token: provenance. README-lemma-spine.md s.3b",
+   "not_stored": {
+    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
+    "en.plain": "no prose_order: the plain order is house work (as for the Greek before its draft), and no source supplies one",
+    "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal"
+   }
   }
  },
  "licence_gate": {
@@ -117,6 +153,56 @@
    "license": "own",
    "verified": false,
    "open": "unchecked by Adam; five joins, each with its grammatical reason in `cut.why`."
+  },
+  "britt-1922-latin": {
+   "what": "Latin text of Lauda Sion, Sacris solemniis and Verbum supernum prodiens",
+   "edition": "Matthew Britt, The Hymns of the Breviary and Missal (London: Burns Oates & Washbourne; copyright 1922 Benziger Brothers, printed in U.S.A.): no. 75 Lauda Sion, pp. 178-180; no. 77 Sacris solemniis, pp. 185-187; no. 78 Verbum supernum, p. 188. Scan archive.org/details/hymnsofbreviarym00britrich (scan pages n187-n199)",
+   "license": "PD",
+   "license_basis": "13th-century text, printed 1922 (US publication before 1929)",
+   "verified": true,
+   "verified_on": "2026-09-26",
+   "transcription": "data/hymn-sources/britt-1922-corpus-christi.json (conventions and every rejoined turnover listed there)",
+   "open": "Britt prints ae/oe ligatures and consonantal j (cœna, præconia, Hujus); they are kept as printed, where Adoro te and Pange lingua carry the received text's cenae, iubilatio. search_key folds both. The canonical orthography is Adam's call (Latin Hymns doc s.7, decision 2; Caswall verification s.4)."
+  },
+  "henry-britt-1922": {
+   "what": "Lauda Sion: stanza-level metrical English (singable)",
+   "edition": "Monsignor Hugh T. Henry's translation, as printed in Matthew Britt, The Hymns of the Breviary and Missal (London: Burns Oates & Washbourne; copyright 1922 Benziger Brothers, printed in U.S.A.), pp. 178-180 (archive.org/details/hymnsofbreviarym00britrich)",
+   "license": "PD",
+   "license_basis": "published 1922 in the US (before 1929); translator d. 1946",
+   "verified": true,
+   "verified_on": "2026-09-26",
+   "open": "one line-end hyphen kept as a compound (life-bringing, st2); listed in the transcription file."
+  },
+  "chambers-cento-britt-1922": {
+   "what": "Sacris solemniis: stanza-level metrical English (singable)",
+   "edition": "'a cento based on the translation by J. D. Chambers', as printed in Matthew Britt, The Hymns of the Breviary and Missal (London: Burns Oates & Washbourne; copyright 1922 Benziger Brothers, printed in U.S.A.), pp. 185-187 (archive.org/details/hymnsofbreviarym00britrich)",
+   "license": "PD",
+   "license_basis": "published 1922 in the US (before 1929); Chambers d. 1893; the cento's arranger is not named",
+   "verified": true,
+   "verified_on": "2026-09-26"
+  },
+  "neale-caswall-britt-1922": {
+   "what": "Verbum supernum prodiens: stanza-level metrical English (singable)",
+   "edition": "J. M. Neale (st. 1-4) and Edward Caswall (st. 5-6), as printed in Matthew Britt, The Hymns of the Breviary and Missal (London: Burns Oates & Washbourne; copyright 1922 Benziger Brothers, printed in U.S.A.), p. 188 (archive.org/details/hymnsofbreviarym00britrich)",
+   "license": "PD",
+   "license_basis": "published 1922 in the US (before 1929); Neale d. 1866, Caswall d. 1878",
+   "verified": true,
+   "verified_on": "2026-09-26"
+  },
+  "britt-1922-prose-corpus-christi": {
+   "what": "Lauda Sion, Sacris solemniis, Verbum supernum: stanza-level literal prose (the PD candidate for `elegant`)",
+   "edition": "Matthew Britt, The Hymns of the Breviary and Missal (London: Burns Oates & Washbourne; copyright 1922 Benziger Brothers, printed in U.S.A.), the quoted prose of the numbered notes: pp. 181-183, 187-188, 189-190 (archive.org/details/hymnsofbreviarym00britrich)",
+   "license": "PD",
+   "license_basis": "published 1922 in the US (before 1929)",
+   "verified": true,
+   "verified_on": "2026-09-26"
+  },
+  "house-cut-2026-09-26": {
+   "what": "the clause cut of Lauda Sion, Sacris solemniis and Verbum supernum",
+   "edition": "build_hymn_corpus.py HYMNS[...]['clauses'], every cut with its reason in `cut.why`",
+   "license": "own",
+   "verified": false,
+   "open": "unchecked by Adam: every cut is on docs/review/2026-09-26-thomas-cuts.md."
   }
  },
  "token_fields": {
@@ -127,39 +213,46 @@
   "lemma": "whitaker-words where its headword is the draft's and one entry is picked out; else house-draft-2026-09-14, flagged in `review`. Per token: provenance.lemma",
   "parsing": "whitaker-words where it gives exactly one parse, the draft agrees and adds no teaching note; else house-draft-2026-09-14. Never invented. Per token: provenance.parsing",
   "lemma_key": "whitaker-words: the WORDS dictionary form naming the lemma; null where the draft stands",
-  "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order",
+  "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order. Null on the hymns printed from Britt 1922, which have no house draft: a gloss is house work and none is invented",
   "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is"
  },
  "perseus": {
   "policy": "Perseus is CC BY-SA. Nothing from Perseus is in these files. Perseus enrichment (lemmata, morphology, treebank links) is a separate layer keyed by CTS URN and joined at read time, never merged in.",
   "cts_urn": {
    "hymns:adoro-te": null,
-   "hymns:pange-lingua": null
+   "hymns:pange-lingua": null,
+   "hymns:lauda-sion": null,
+   "hymns:sacris-solemniis": null,
+   "hymns:verbum-supernum": null
   },
-  "note": "Neither hymn has a Perseus/CTS edition; the URN is null, not guessed."
+  "note": "No hymn here has a Perseus/CTS edition; the URN is null, not guessed."
  },
  "lemma_spine": {
   "doc": "pipeline/README-lemma-spine.md",
   "analyses": "data/lemmas/whitaker-la/hymns.analyses.jsonl",
-  "tokens": 263,
-  "lemma_from_whitaker": 244,
-  "lemma_from_draft": 19,
-  "parsing_from_whitaker": 84,
+  "tokens": 768,
+  "lemma_from_whitaker": 551,
+  "lemma_from_draft": 217,
+  "parsing_from_whitaker": 224,
   "parsing_confirmed_by_whitaker": 10,
   "lemma_status": {
    "agree": 161,
    "agree-selected": 83,
-   "ambiguous": 9,
-   "disagree": 10
+   "ambiguous": 202,
+   "disagree": 13,
+   "same-lemma": 34,
+   "sole": 273,
+   "unknown": 2
   },
   "parsing_status": {
+   "ambiguous": 133,
    "confirmed": 10,
    "disagree": 5,
    "draft-consistent": 145,
-   "unchecked": 19,
-   "whitaker": 84
+   "unchecked": 251,
+   "whitaker": 224
   },
-  "flagged_for_review": 24
+  "flagged_for_review": 222
  },
  "legacy_join": {
   "HYM-adoro.st1.l1": "wh-3311SBRQQ3",
@@ -207,12 +300,13 @@
   "thomas-batch-01-permutations.json": "16830d15f0b80d12fe077cff8ee06d36bb6b12feab392c5b71624d2060d728c0",
   "thomas-batch-02.json": "921665fc4da7045883be87b7b02e822dec3a3ac1bd44c7b7aac7b3566b87d381",
   "thomas-batch-02-permutations.json": "dbff05eb7a4ce4dd5727be1c244f356bd37b94a0a423f560532b4019db30fd5d",
-  "hymns.analyses.jsonl": "e6d134d8d0b0e2f70c102a0e90332a77291d92474a2d29ef4b1577392e2d5e43"
+  "britt-1922-corpus-christi.json": "b986ea402cd4a27f9aac484be328be24e95c4fe01edc88101ccb9e004bc06d54",
+  "hymns.analyses.jsonl": "bb970163601b84b33f58eaf907782356d4aa51844a7cfd76852f4ac203f6ea41"
  },
  "files_sha256": {
-  "alignments.jsonl": "12ebace38a924b7979096df37644ccbb9bc36a5cdb4f6531e602b5319a252c15",
-  "passages.jsonl": "c9b582e7d06aa6fc005018bdbc59e738f94a5be572823aee19d1105256409488",
-  "tokens.jsonl": "a8cb618ecc5a53c60b482875c1c8cf425031e9440c5d72e8af5f5f6a2a2a14e3",
-  "witnesses.jsonl": "a0c1a713bb01146b7de9bd48c83adc23b680eb0a051188104cae039a69d5bf6e"
+  "alignments.jsonl": "5dfd16ce4e204ee8ab8551139e50a061d2ddb693de46ccd71d31e541f9230556",
+  "passages.jsonl": "6cd88d0c5580e71e5673589fddec18c76f9f6d376606ebd220e3a195122844cc",
+  "tokens.jsonl": "6db782b5530f08fab6e203c104e19d8c44937b6c5463aa70d0dd196a72bd5057",
+  "witnesses.jsonl": "f555fe778e7dd306901010cf79a806a02a4296dd217f338c1dfe55292252440a"
  }
 }

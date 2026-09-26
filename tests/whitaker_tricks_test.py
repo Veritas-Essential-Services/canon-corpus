@@ -483,19 +483,32 @@ else:
             out["double>single"] = w[:m.start()] + w[m.start() + 1:]
         return out
 
-    n = before = after = 0
-    for r in rows:
-        heads = {a["headword"] for a in r["analyses"] if not a.get("via")}
-        for t in respell(r["form"]).values():
-            n += 1
-            b = {W.headword_of(X.form(a["entry"])[0]) if a["entry"] is not None else W.fold(a["unique"]["word"])
-                 for a in T.parse_plain(X, t)}
-            A = {a["headword"] for a in X.analyze(t) if "TWO_WORDS" not in {v["kind"] for v in a["via"]}}
-            before += bool(heads & b)
-            after += bool(heads & A)
+    # the 222 forms of the two drafted hymns, as first measured; then every
+    # form, the three hymns printed from Britt 1922 included
+    drafted = {json.loads(l)["search_key"] for l in open(os.path.join(REPO, "data", "hymns", "tokens.jsonl"),
+                                                        encoding="utf-8") if json.loads(l)["legacy_address"]}
+
+    def measure(rows):
+        n = before = after = 0
+        for r in rows:
+            heads = {a["headword"] for a in r["analyses"] if not a.get("via")}
+            for t in respell(r["form"]).values():
+                n += 1
+                b = {W.headword_of(X.form(a["entry"])[0]) if a["entry"] is not None else W.fold(a["unique"]["word"])
+                     for a in T.parse_plain(X, t)}
+                A = {a["headword"] for a in X.analyze(t) if "TWO_WORDS" not in {v["kind"] for v in a["via"]}}
+                before += bool(heads & b)
+                after += bool(heads & A)
+        return n, before, after
+
+    n, before, after = measure([r for r in rows if r["form"] in drafted])
     # measured 2026-09-26: 30 respellings; 3 recovered before the port, 22 after
     check("medieval respellings of hymn forms (ae>e, oe>e, ti>ci, doubled>single): 3 -> 22 of 30",
           (n, before, after) == (30, 3, 22), (n, before, after))
+    # measured 2026-09-26 on all 547 forms: 80 respellings; 9 before, 53 after
+    m = measure(rows)
+    check("the same on every hymn form, the printed hymns included: 9 -> 53 of 80",
+          m == (80, 9, 53), m)
 
 
     print("\n--- 8. TACKONs and Roman numerals, against the files")

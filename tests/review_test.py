@@ -9,7 +9,7 @@ happens in a copy (pipeline/, tests/, docs/review/, data/ without the big
 gitignored files; the NT's pinned inputs when data/corpus/ holds them).
 
 WHAT IT ASSERTS
-    1. `render --check`: both sheets are byte-identical to what the data renders.
+    1. `render --check`: all four sheets are byte-identical to what the data renders.
     2. The lemma sheet: a few answers filled in (ok, ✓, keep, explicit fields,
        a bare Whitaker key with its double space lost, `as row N`, draft→),
        then `apply`:
@@ -24,6 +24,13 @@ WHAT IT ASSERTS
     3. Ambiguous answers stop the run before anything is written, naming the
        row: a bare string on a parsing flag, "ok?", a key Whitaker does not
        have. `render` refuses to overwrite answers not yet applied.
+    3b. The printed hymns (Lauda Sion, Sacris solemniis, Verbum supernum):
+       the cut sheet -- ok, draft->, a re-cut with its note; the re-cut
+       clauses get fresh uids that supersede the old ones and nothing else
+       moves; a second apply is a no-op; bad spans, a new join with no
+       reason, and a second re-cut stop the run. Then their lemma sheet: a
+       bare Whitaker key, a lemma WORDS lacks; `as row N` onto the wrong
+       word and `keep` (there is no draft) stop the run.
     4. The John 1 sheet (when the NT inputs are fetched): ✓, a replacement
        gloss, explicit gloss + plain_form, `draft→ value` (still a draft),
        draft→ alone, an accepted plain line and a new prose_order; the same
@@ -165,11 +172,12 @@ try:
 
     print("--- render")
     rc, out = review(tmp, "render", "--check")
-    check("render --check: both sheets are byte-identical to what the data renders",
-          rc == 0 and out.count("byte-identical") == 2, out)
+    check("render --check: all four sheets are byte-identical to what the data renders",
+          rc == 0 and out.count("byte-identical") == 4, out)
     rc, out = review(tmp, "status")
     check("status: every row open before any answer",
-          "24 rows, 0 answered" in out and "24 open" in out and "155 rows, 0 answered" in out, out)
+          "24 rows, 0 answered" in out and "24 open" in out and "155 rows, 0 answered" in out
+          and "198 rows, 0 answered" in out and "25 rows, 0 answered" in out, out)
 
     if not latin:
         print("skip  the Latin shelf is not reachable (WORDHOARD_LATIN_DIR); the lemma apply did not run")
@@ -265,6 +273,102 @@ try:
                 check("render refuses to overwrite an answer that is not applied yet",
                       rc != 0 and "not applied" in out and adam_cells(LEMMA)[12] == "adv", out)
             shutil.move(LEMMA + ".bak", LEMMA)
+
+        print("\n--- the printed hymns: the cut sheet")
+        CUTS = os.path.join(REV, "2026-09-26-thomas-cuts.md")
+        TLEM = os.path.join(REV, "2026-09-26-thomas-lemma-flags.md")
+        CUTF = os.path.join(tmp, "data", "hymn-sources", "cut-reviewed.jsonl")
+        REG = os.path.join(tmp, "data", "uids", "wordhoard.uids.json")
+        P = lambda: {p["citation"]: p for p in jsonl(os.path.join(HYD, "passages.jsonl"))}  # noqa: E731
+        p0, reg0 = P(), json.load(open(REG, encoding="utf-8"))
+        st10 = [p0[f"hymns:lauda-sion.st10.c{i}"]["uid"] for i in range(1, 6)]
+        for ans, row, why in (({3: "cut: 1, 2-3, 4-5"}, "row 3", "covers 5 of 6"),
+                              ({4: "cut: 1-3, 4-6"}, "row 4", "new join"),
+                              ({5: "maybe join 2-3?"}, "row 5", "comment")):
+            shutil.copy(CUTS, CUTS + ".bak")
+            fill_lemma(CUTS, ans)
+            rc, out = review(tmp, "apply", CUTS, "--today", "2026-09-27")
+            check(f"cut sheet: {list(ans.values())[0]!r} stops the run, naming {row} ({why}), writing nothing",
+                  rc == 2 and "STOPPED" in out and row in out and why in out and not os.path.exists(CUTF), out)
+            shutil.move(CUTS + ".bak", CUTS)
+        fill_lemma(CUTS, {1: "ok", 2: "draft→",
+                          10: "cut: 1-4, 5, 6, 7-8; note: Quantum (l.4) answers Tantum (l.3)"})
+        rc, out = review(tmp, "apply", CUTS, "--today", "2026-09-27")
+        check("cut sheet: apply runs, rebuilds, and the build's --check passes",
+              rc == 0 and "CHECK PASSED" in out, out)
+        rows = by(CUTF, "stanza")
+        check("cut sheet: exactly the two answered stanzas are written (not the draft→ one)",
+              sorted(rows) == ["hymns:lauda-sion.st1", "hymns:lauda-sion.st10"], sorted(rows))
+        check("cut sheet: ok writes the draft cut; a re-cut writes its spans and its note",
+              rows["hymns:lauda-sion.st1"] == {"stanza": "hymns:lauda-sion.st1",
+                                               "cut": [[1, 1], [2, 3], [4, 4], [5, 6]], "reviewed_on": "2026-09-27"}
+              and rows["hymns:lauda-sion.st10"]["cut"] == [[1, 4], [5, 5], [6, 6], [7, 8]]
+              and rows["hymns:lauda-sion.st10"]["note"].startswith("Quantum"))
+        p1, reg1 = P(), json.load(open(REG, encoding="utf-8"))
+        c = [p1.get(f"hymns:lauda-sion.st10.c{i}") for i in range(1, 6)]
+        check("re-cut: st10 is now four clauses with the reviewed lines",
+              [x["lines"] for x in c[:4]] == [[1, 4], [5, 5], [6, 6], [7, 8]] and c[4] is None)
+        check("re-cut: every clause whose lines changed has a fresh uid that supersedes the old one",
+              all(c[i]["uid"] != st10[i] and c[i]["cut"]["supersedes"] == st10[i]
+                  and reg1["superseded"][st10[i]] == c[i]["uid"] for i in range(4)), [x["cut"] for x in c[:4]])
+        check("re-cut: the old uids are never reused, and the dropped c5 keeps its citation's uid",
+              reg1["uids"]["hymns:lauda-sion.st10.c5"] == st10[4] and not set(st10) & {x["uid"] for x in p1.values()})
+        check("re-cut: the joined clause says why, from the note, and is adam-reviewed",
+              c[0]["cut"]["why"] == "Adam's cut: Quantum (l.4) answers Tantum (l.3)"
+              and c[0]["cut"]["review"] == "adam-reviewed" and c[0]["cut"]["reviewed_on"] == "2026-09-27")
+        check("ok: st1's clauses keep their uids, now adam-reviewed",
+              all(p1[k]["uid"] == p0[k]["uid"] and p1[k]["cut"]["review"] == "adam-reviewed"
+                  for k in p0 if k.startswith("hymns:lauda-sion.st1.c")))
+        check("nothing else moved: every other passage is byte-for-byte as it was",
+              all(p1[k] == p0[k] for k in p0 if not k.startswith(("hymns:lauda-sion.st1.", "hymns:lauda-sion.st10"))))
+        hy2 = snapshot(HYD)
+        rc, out = review(tmp, "apply", CUTS, "--today", "2026-09-28")
+        check("cut sheet: a second apply writes nothing, --check passes, the JSONL byte-identical",
+              rc == 0 and "0 to write" in out and "CHECK PASSED" in out and snapshot(HYD) == hy2, out)
+        rc, out = review(tmp, "render", CUTS)
+        cells = adam_cells(CUTS)
+        check("cut sheet: render shows ok, the re-cut, and the draft→ row open again",
+              rc == 0 and cells[1] == "ok" and cells[2] == ""
+              and cells[10] == "cut: 1-4, 5, 6, 7-8; note: Quantum (l.4) answers Tantum (l.3)", cells.get(10))
+        shutil.copy(CUTS, CUTS + ".bak")
+        fill_lemma(CUTS, {10: "cut: 1-3, 4-8; note: again"})
+        rc, out = review(tmp, "apply", CUTS, "--today", "2026-09-29")
+        check("cut sheet: a second, different re-cut of the same stanza stops the run",
+              rc == 2 and "row 10" in out and "re-cut once already" in out, out)
+        shutil.move(CUTS + ".bak", CUTS)
+
+        print("\n--- the printed hymns: the lemma sheet")
+        rc, out = review(tmp, "render", "--force", TLEM)     # the re-cut re-addressed st10's tokens
+        ov_before = {r["address"] for r in jsonl(OVR)}
+        fill_lemma(TLEM, {1: "lemma: Sion; note: proper name, indeclinable",
+                          2: "`canticum, cantici N (2nd) N`", 4: "draft→"})
+        rc, out = review(tmp, "apply", TLEM, "--today", "2026-09-27")
+        check("thomas lemma sheet: apply runs, rebuilds, and the build's --check passes",
+              rc == 0 and "CHECK PASSED" in out, out)
+        rows = {r["address"]: r for r in jsonl(OVR) if r["address"] not in ov_before}
+        toks = {t["address"]: t for t in jsonl(os.path.join(HYD, "tokens.jsonl"))}
+        sion = next(a for a, r in rows.items() if r["surface"] == "Sion")
+        cant = next(a for a, r in rows.items() if r["surface"] == "canticis")
+        check("thomas lemma sheet: exactly the two answered rows are written, beside the other sheet's",
+              len(rows) == 2 and ov_before <= {r["address"] for r in jsonl(OVR)})
+        check("a bare Whitaker key (double space lost) becomes lemma_key, its lemma Whitaker's",
+              rows[cant]["lemma_key"] == "canticum, cantici  N (2nd) N"
+              and toks[cant]["lemma"] == "canticum, cantici" and toks[cant]["review"] is None
+              and toks[cant]["provenance"]["lemma"]["source"] == "adam-reviewed")
+        check("a lemma for a word WORDS lacks is taken as written",
+              toks[sion]["lemma"] == "Sion" and toks[sion]["lemma_key"] is None and toks[sion]["review"] is None)
+        for ans, row, why in (({3: "as row 2"}, "row 3", "not one of Whitaker"),
+                              ({5: "keep"}, "row 5", "no draft value")):
+            shutil.copy(TLEM, TLEM + ".bak")
+            fill_lemma(TLEM, ans)
+            rc, out = review(tmp, "apply", TLEM, "--today", "2026-09-27")
+            check(f"thomas lemma sheet: {list(ans.values())[0]!r} stops the run, naming {row} ({why})",
+                  rc == 2 and row in out and why in out, out)
+            shutil.move(TLEM + ".bak", TLEM)
+        for test in ("lemma_spine_test.py", "hymn_corpus_test.py"):
+            rc, out = run(tmp, os.path.join("tests", test))
+            check(f"{test} still passes with the cut and lemma answers applied", rc == 0,
+                  out.strip().splitlines()[-1:])
 
     if not nt_inputs:
         print("\nskip  the NT's pinned inputs are not fetched (build_nt_corpus.py --fetch); the John 1 apply did not run")

@@ -160,6 +160,52 @@ mention constrain nothing.
 Putting `provenance.*.draft` back reproduces the pre-D3 lemma and parsing
 exactly. The test checks every draft against the vault batch files.
 
+## 3b. A token with no draft: `lemma_spine.resolve_undrafted`
+
+*Added 2026-09-26, for the three hymns printed from Britt 1922
+(README-hymn-jsonl.md s.9).* Those tokens have no house draft, so there is
+nothing to choose among Whitaker's entries with, and nothing to fall back on.
+The rule takes Whitaker only where it leaves no choice. It never guesses.
+
+**Lemma.** Two-words guesses are set aside first, as above.
+
+| WORDS gives | `lemma` / `lemma_key` | status | flagged |
+|---|---|---|---|
+| one entry | its principal parts / its key | `sole` | no |
+| several entries, all with the same lemma (*in* +acc, +abl) | that lemma / null (the entry is a parse question) | `same-lemma` | no |
+| several words (*panis*: *panis*, *pane*, *Pan*) | null / null, candidates in `provenance.lemma.whitaker` | `ambiguous` | **yes** |
+| only a prefix/suffix formation | null / null | `disagree` | **yes** |
+| nothing | null / null | `unknown` | **yes** |
+
+**Parsing** is taken only when the lemma is taken from one entry, and that
+entry gives exactly one parse (`whitaker`). If it gives several (*te*: acc or
+abl), the parsing is null with status `ambiguous`, and it is **not** flagged.
+Several parses is ordinary Latin, and choosing one means reading the line,
+which is house work.
+
+`provenance.*.draft` is null on every such token, and `source` is null where
+nothing was taken. The overrides file (s.8) answers them the same way. A
+`lemma_key` must still be one of Whitaker's analyses of the form. The sheet
+is `docs/review/2026-09-26-thomas-lemma-flags.md` (s.8b).
+
+**Measured 2026-09-26 (505 tokens).**
+
+| | tokens |
+|---|---|
+| lemma `sole` | 273 |
+| lemma `same-lemma` | 34 |
+| lemma `ambiguous` | 193 |
+| lemma `disagree` | 3 (*sumptionis*, *præsignatur*, *solemniis*: suffix and prefix readings) |
+| lemma `unknown` | 2 (*Sion*, *Isaac*: proper names; the names table of s.10 has them, but the spine does not load it) |
+| parsing `whitaker` | 140 |
+| parsing `ambiguous` | 133 |
+| parsing `unchecked` (no lemma taken) | 232 |
+| **flagged** | **198** tokens, 152 distinct forms |
+
+The forms grew from 222 to 547, with 2 unknown. The medieval-respelling
+measure of s.5 on all 547 forms is 80 respellings: 9 recovered before the
+rules, and 53 after.
+
 ## 4. What is ported from WORDS, and what is not
 
 The code is ported from the Ada source at the same commit, rule for rule:
