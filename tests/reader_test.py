@@ -14,9 +14,13 @@ Offline, no browser: renders the page twice into a temp folder and checks
       keys present), and no payload is orphaned;
     - `plain` and `wooden` are stored nowhere: no key of that name in any
       record of either dataset, nor in the page's embedded payload;
-    - the columns: every hymn clause shows the render_plain() line, the Greek
-      shows its wooden/plain columns EMPTY (it has no glosses), and every
-      source a page section draws on has its licence in the rights section;
+    - the columns: every hymn clause shows the render_plain() line; every
+      Greek verse shows render_wooden() over its Strong's dictionary glosses
+      (a marked gap for a word with none), plain as "not yet ordered", and
+      the KJV verse of the same uid as a separate, labelled witness column
+      (or says the gitignored KJV build is absent); every source a page
+      section draws on has its licence in the rights section, the KJV's
+      Crown patent note included;
     - the agreement marks: the Column Question's own case (meum, totum and
       contemplans with cor) is drawn, and marks never reach the Greek.
 """
@@ -144,12 +148,67 @@ missing = [c["citation"] for c in clauses
 check("every hymn clause shows its render_plain() line", not missing, missing[:3])
 check("every hymn clause has wooden, plain and elegant columns",
       page.count('class="col col-wooden') - len(data["nt"]["passages"]) == len(clauses))
-nt_empty = len(re.findall(r'class="col col-(?:wooden|plain) empty"><span class="cl">\w+</span>'
-                          r'<span class="cv">empty: no gloss yet', page))
-check("the Greek's wooden and plain are shown empty, per verse", nt_empty == 2 * len(data["nt"]["passages"]))
-check("... and the page says why", "Why the columns are empty" in page)
-check("the Greek has no gloss to render (if this fails, the columns should fill)",
-      not any(t.get("gloss") for t in data["nt"]["tokens"]))
+nt_html = page[page.index('id="john-1"'):page.index('id="marks"')]
+nt_wit, nt_toks = R.index(data["nt"])
+nt_verses = data["nt"]["passages"]
+wooden_bad, gaps_seen = [], 0
+for v in nt_verses:
+    tk = nt_toks[v["uid"] + "/grc.byz"]
+    block = nt_html[nt_html.index(f'id="{v["uid"]}"'):]
+    block = block[:block.index('<div class="col col-plain')]
+    shown = [dict(t, gloss=R.GAP) if not t.get("gloss") else t for t in tk]
+    words = [html.unescape(w) for w in re.findall(r'<span class="w[^"]*">([^<]*)</span>', block)]
+    # the wooden column is render_wooden() over the tokens, a gap for each word with no gloss
+    if " ".join(words) != H.render_wooden(shown) or len(words) != len(tk):
+        wooden_bad.append(v["citation"])
+    gaps_seen += block.count('class="w gap"')
+check("every Greek verse's wooden column is render_wooden() over its glosses, in Greek order",
+      not wooden_bad, wooden_bad[:3])
+n_none = sum(1 for t in data["nt"]["tokens"] if not t.get("gloss"))
+check("... and each word with no gloss is a marked gap, never a made-up word", gaps_seen == n_none,
+      (gaps_seen, n_none))
+check("the wooden column is labelled as Strong's dictionary glosses, not a translation",
+      nt_html.count("dictionary glosses, not a translation") == len(nt_verses)
+      and "strongs-1890 (PD)" in nt_html)
+nt_plain = len(re.findall(r'class="col col-plain empty"><span class="cl">plain</span>'
+                          r'<span class="cv">empty: not yet ordered', nt_html))
+check("the Greek's plain is 'not yet ordered' in every verse (it has no prose_order)",
+      nt_plain == len(nt_verses) and not any(w["name"] == "en.plain" for w in data["nt"]["witnesses"]))
+check("... and the page explains the Greek columns", "About the Greek columns" in nt_html
+      and "not a contextual translation" in nt_html and "prose_order" in nt_html)
+nm = data["nt"]["manifest"]
+check("the explanation's counts are the manifest's",
+      f'{nm["counts"]["tokens_with_gloss"]} of {nm["counts"]["tokens"]} Greek tokens carry a gloss' in nt_html
+      and all(f"{k} {n}" in nt_html for k, n in nm["gloss"]["by_rule"].items()))
+check("every Greek popover names where its gloss came from, and by which rule",
+      all(p.get("gloss_source") == "strongs-1890" and p.get("gloss_rule")
+          for a, p in embedded.items() if p["lang"] == "grc" and p.get("gloss")))
+
+# ---- the KJV column: a separate witness under the same uid ---------------------
+kjv, kjv_sha = R.load_kjv([v["uid"] for v in nt_verses])
+cols = re.findall(r'<div class="col col-kjv[^"]*">', nt_html)
+check("every Greek verse has a KJV column", len(cols) == len(nt_verses), len(cols))
+if kjv is None:
+    print("skip  data/books/kjv.witnesses.json is not built here (gitignored): the KJV text checks")
+    print("      did not run. structure_texts.py, then build_witnesses.py, builds it.")
+    check("... shown empty, with the reason", nt_html.count("kjv.witnesses.json is gitignored") == len(nt_verses))
+else:
+    fw = nm["facing_witness"]
+    missing_kjv = [v["citation"] for v in nt_verses
+                   if not kjv.get(v["uid"], {}).get(fw["name"])
+                   or html.escape(kjv[v["uid"]][fw["name"]]) not in nt_html]
+    check("every verse shows its kjv.plain text, found by the verse's uid", not missing_kjv, missing_kjv[:3])
+    check("... labelled as its own witness, with its licence and what it translates",
+          nt_html.count(f'{fw["name"]} ({fw["license"]})') >= len(nt_verses)
+          and nt_html.count("a separate witness: the KJV translates the Textus Receptus") == len(nt_verses))
+    check("the KJV column is not the elegant column", all(
+        "empty: none stored" in nt_html[nt_html.index(f'id="{v["uid"]}"'):][:20000].split('col-kjv')[0]
+        for v in nt_verses))
+    check("the Crown patent note travels with it, in the column's explanation and in the rights",
+          fw["rights_note"] == "Crown patent: KJV print not for UK"
+          and html.escape(fw["rights_note"]) in nt_html
+          and html.escape(fw["rights_note"]) in page[page.index('id="rights"'):])
+    check("the KJV build's sha256 is in the footer", kjv_sha in page[page.index("<footer>"):])
 sing = [w for w in data["hymns"]["witnesses"] if w["name"] == "en.singable"]
 check("every singable stanza is on the page",
       all(html.escape(w["text"]).replace("\n", "<br>") in page for w in sing), len(sing))

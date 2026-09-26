@@ -15,7 +15,12 @@ WHAT IT SHOWS
     whose popover carries lemma, parsing and translit; then the four columns,
     wooden / plain / elegant / singable, as far as the data carries them. A
     column the data cannot fill is shown EMPTY with its reason. Nothing is
-    faked: the Greek has no glosses, so it has no wooden or plain line.
+    faked: the Greek's glosses are Strong's DICTIONARY glosses (README-nt-jsonl
+    s.12), so its wooden line is a dictionary interlinear, a word with no
+    gloss shows as a gap, and its plain line waits on a prose_order it does
+    not have. Beside the Greek, the KJV verse under the same uid is a
+    separate, labelled witness column (data/books/kjv.witnesses.json, a
+    gitignored build: absent, the column says so).
 
 NOTHING IS STORED, NOTHING IS NEW
     `wooden` and `plain` are rendered here by the corpus's own renderers,
@@ -33,6 +38,7 @@ DETERMINISTIC
 """
 
 import argparse
+import hashlib
 import html
 import json
 import os
@@ -49,6 +55,8 @@ import build_nt_corpus as N  # noqa: E402
 OUT = os.path.join(ROOT, "build", "reader", "reader.html")
 FILES = ("passages", "witnesses", "tokens", "alignments")
 COLUMNS = ("wooden", "plain", "elegant", "singable")
+KJV_BUILD = ("data", "books", "kjv.witnesses.json")   # gitignored; build_witnesses.py
+GAP = "\u2014"   # a Greek word with no gloss, in the wooden line
 
 # The works, in reading order. `data` is the folder under data/.
 WORKS = (
@@ -79,6 +87,21 @@ def load_dataset(name, root=ROOT):
     with open(os.path.join(d, "manifest.json"), encoding="utf-8") as fh:
         out["manifest"] = json.load(fh)
     return out
+
+
+def load_kjv(uids, root=ROOT):
+    """({uid: {witness: text}} for `uids`, sha256) from the KJV witness build,
+    or (None, None) when that gitignored build is absent."""
+    path = os.path.join(root, *KJV_BUILD)
+    if not os.path.exists(path):
+        return None, None
+    with open(path, "rb") as fh:
+        blob = fh.read()
+    doc = json.loads(blob.decode("utf-8"))
+    want = set(uids)
+    out = {u["uid"]: {w: v.get("text") for w, v in u["witnesses"].items()}
+           for u in doc["units"] if u["uid"] in want}
+    return out, hashlib.sha256(blob).hexdigest()
 
 
 def index(ds):
@@ -192,12 +215,15 @@ def column_html(name, body, source=None, empty=None, note=None):
     return f'<div class="col col-{name}"><span class="cl">{name}{src}</span><span class="cv">{body}{nt}</span></div>'
 
 
-def wooden_html(tokens, marks):
+def wooden_html(tokens, marks, gaps=()):
     """render_wooden(), one token at a time, so each gloss can carry its mark;
-    the joined text is asserted equal to render_wooden() on the whole clause."""
+    the joined text is asserted equal to render_wooden() on the whole clause.
+    `gaps` are the addresses standing in for a word with no gloss."""
     parts = []
     for t in tokens:
         cls, sup = mark_html(marks, t["address"])
+        if t["address"] in gaps:
+            cls += " gap"
         parts.append(f'<span class="w{cls}">{e(H.render_wooden([t]))}{sup}</span>')
     if " ".join(H.render_wooden([t]) for t in tokens) != H.render_wooden(tokens):
         raise SystemExit("wooden: per-token render disagrees with render_wooden()")
@@ -208,6 +234,7 @@ def payload(t, lang):
     """The popover. Every field the token has that a student would ask about,
     plus where the lemma and parsing came from."""
     prov = t.get("provenance") or {}
+    pg = prov.get("gloss") or {}
     p = {
         "surface": t["surface"],
         "lemma": t.get("lemma"),
@@ -218,6 +245,8 @@ def payload(t, lang):
         "syntax": t.get("syntax"),
         "lemma_source": (prov.get("lemma") or {}).get("source"),
         "parsing_source": (prov.get("parsing") or {}).get("source"),
+        "gloss_source": pg.get("source"),
+        "gloss_rule": pg.get("rule"),
         "review": t.get("review"),
         "lang": lang,
     }
@@ -309,10 +338,12 @@ def render_hymn(work, ds, tok_payload, used, stats):
     return title, "".join(out)
 
 
-def render_nt(work, ds, tok_payload, used, stats):
+def render_nt(work, ds, tok_payload, used, stats, kjv=None):
     wit, toks = index(ds)
     man = ds["manifest"]
     verses = sorted(ds["passages"], key=lambda p: (p["chapter"], p["verse"]))
+    gl = man.get("gloss") or {}
+    fw = man.get("facing_witness") or {}
     n_gloss = sum(1 for t in ds["tokens"] if t.get("gloss"))
     out = []
     for v in verses:
@@ -323,22 +354,74 @@ def render_nt(work, ds, tok_payload, used, stats):
             tok_payload[t["address"]] = payload(t, "grc")
             used.update(v["source"] for v in (t.get("provenance") or {}).values()
                         if (v or {}).get("source") in man["sources"])
-        cols = "".join(column_html(c, "", empty=r) for c, r in (
-            ("wooden", "no gloss yet"), ("plain", "no gloss yet"),
-            ("elegant", "none stored"), ("singable", "prose")))
+        cols = []
+        # wooden: the glosses in Greek order, through the hymns' render_wooden().
+        gaps = {t["address"] for t in tk if not t.get("gloss")}
+        if len(gaps) < len(tk):
+            shown = [dict(t, gloss=GAP) if t["address"] in gaps else t for t in tk]
+            srcs = sorted({(t.get("provenance") or {}).get("gloss", {}).get("source")
+                           for t in tk if t.get("gloss")} - {None})
+            note = "dictionary glosses, not a translation"
+            if gaps:
+                note += f"; {len(gaps)} word{'s' if len(gaps) > 1 else ''} with no gloss shown as {GAP}"
+            cols.append(column_html("wooden", wooden_html(shown, {}, gaps),
+                                    ", ".join(source_label(man, k) for k in srcs), note=note))
+        else:
+            cols.append(column_html("wooden", "", empty="no gloss yet"))
+        # plain: needs prose_order, which only an en.plain witness carries.
+        pw = wit.get(v["uid"] + "/en.plain")
+        if pw and pw.get("prose_order") and not gaps:
+            used.add(pw["source"])
+            cols.append(column_html("plain", e(H.render_plain(tk, pw)), source_label(man, pw["source"])))
+        else:
+            cols.append(column_html("plain", "", empty="not yet ordered (no prose_order for the Greek)"))
+        cols.append(column_html("elegant", "", empty="none stored"))
+        cols.append(column_html("singable", "", empty="prose"))
+        # The KJV: a second witness of the verse, not a column generated from the Greek.
+        text = (kjv or {}).get(v["uid"], {}).get(fw.get("name", "kjv.plain")) if kjv is not None else None
+        label = f'{fw.get("name", "kjv.plain")} ({fw.get("license", "?")})'
+        if text:
+            used.add("facing:kjv")
+            cols.append(column_html("kjv", e(text), label, note="a separate witness: the KJV "
+                                    "translates the Textus Receptus, not this Greek"))
+        elif kjv is None:
+            cols.append(column_html("kjv", "", empty="the KJV witness build is not on this machine "
+                                    "(data/books/kjv.witnesses.json is gitignored; build_witnesses.py)"))
+        else:
+            cols.append(column_html("kjv", "", empty="no KJV text under this uid"))
         out.append(
             f'<div class="clause verse" id="{e(v["uid"])}">'
             f'<div class="cite">{e(v["citation"])} <span class="uid">{e(v["uid"])}</span></div>'
             f'<p class="orig" lang="grc">{original_html(gw, tk, N.PUNCT, {})}</p>'
-            f'<div class="cols">{cols}</div></div>')
+            f'<div class="cols">{"".join(cols)}</div></div>')
+    by_rule = gl.get("by_rule") or {}
+    rules = ", ".join(f"{k} {n}" for k, n in by_rule.items())
+    why_none = "; ".join(f"{n}: {r}" for r, n in (gl.get("none_by_reason") or {}).items())
+    kjv_li = (
+        f'<li><b>KJV</b> is not one of the four columns. It is the same verse in another witness '
+        f'(<code>{e(fw.get("name", "kjv.plain"))}</code>, same uid), shown for comparison. The KJV '
+        f'translates the Textus Receptus, not the Robinson&ndash;Pierpont text above it, so it '
+        f'cannot stand in for <b>elegant</b>. Public domain in the US; in the UK it is under the '
+        f'Crown patent (&ldquo;{e(fw.get("rights_note", ""))}&rdquo;): see Sources &amp; rights.</li>'
+        if kjv is not None else
+        f'<li><b>KJV</b>: the verse&#39;s KJV witness lives in a gitignored build '
+        f'(<code>data/books/kjv.witnesses.json</code>) that is not on this machine, so that column '
+        f'is empty here.</li>')
     why = (
-        f'<div class="why-empty"><h3>Why the columns are empty</h3><ul>'
-        f'<li><b>wooden</b> and <b>plain</b> are generated from token glosses and are never stored. '
-        f'{n_gloss} of {len(ds["tokens"])} Greek tokens carry a gloss: there is no public-domain '
-        f'contextual Greek gloss, and none has been drafted.</li>'
-        f'<li><b>elegant</b>: no house or public-domain prose rendering is stored. The verses are '
-        f'aligned to the KJV (<code>kjv.plain</code>, same uid), but that witness lives in a '
-        f'gitignored build, and the KJV translates a different Greek text.</li>'
+        f'<div class="why-empty"><h3>About the Greek columns</h3><ul>'
+        f'<li><b>wooden</b> is generated from token glosses and is never stored. {n_gloss} of '
+        f'{len(ds["tokens"])} Greek tokens carry a gloss: <b>dictionary glosses</b> from Strong&#39;s '
+        f'1890 entry for each word&#39;s Strong&#39;s number, chosen by a fixed rule ({e(rules)}). '
+        f'They are <b>not a contextual translation</b>: a word gets the same gloss in every verse '
+        f'(an article or pronoun varies only with its person, number, gender and case). '
+        f'{len(ds["tokens"]) - n_gloss} have none and show as {GAP} ({e(why_none)}). A reviewed or '
+        f'house layer (<code>data/nt/gloss-overrides.jsonl</code>, '
+        f'{(gl.get("overrides") or {}).get("applied", 0)} rows applied) replaces them word by '
+        f'word.</li>'
+        f'<li><b>plain</b> needs a <code>prose_order</code>, the order of the glosses in English. '
+        f'The Greek has none yet, so plain is shown as not yet ordered rather than guessed.</li>'
+        f'<li><b>elegant</b>: no house or public-domain prose rendering is stored.</li>'
+        f'{kjv_li}'
         f'<li><b>singable</b>: this is prose.</li>'
         f'<li>No agreement marks: they are drawn from the draft&#39;s syntax notes, and the Greek '
         f'has none yet.</li></ul></div>')
@@ -349,9 +432,20 @@ def render_nt(work, ds, tok_payload, used, stats):
 # Sources and rights
 # ---------------------------------------------------------------------------
 
+def facing_rights_html(fw):
+    """The KJV column's rights, from the NT manifest's facing_witness block."""
+    basis = "; ".join(f'{b["where"]}: {b["says"]}' for b in fw.get("license_basis") or [])
+    fields = [("what", fw.get("what")), ("licence", fw.get("license")), ("basis", basis),
+              ("rights note", fw.get("rights_note")), ("scope", fw.get("scope")),
+              ("translates", fw.get("translates")), ("file", fw.get("file"))]
+    dl = "".join(f"<dt>{e(a)}</dt><dd>{e(b)}</dd>" for a, b in fields if b)
+    return (f'<div class="source"><h4>{e(fw["name"])} <span class="lic lic-{e(fw.get("license"))}">'
+            f'{e(fw.get("license"))}</span></h4><dl>{dl}</dl></div>')
+
+
 def rights_html(manifest, keys):
     rows = []
-    for k in sorted(keys):
+    for k in sorted(k for k in keys if k in manifest["sources"]):
         s = manifest["sources"][k]
         basis = s.get("license_basis")
         if isinstance(basis, list):
@@ -420,6 +514,8 @@ border-bottom:1px dotted var(--muted);border-radius:2px}
 .cl .src{display:block;text-transform:none;letter-spacing:0;font-size:.68rem;opacity:.85}
 .cv{min-width:0;overflow-wrap:anywhere}
 .col.empty .cv{color:var(--empty);font-style:italic;font-size:.9rem}
+.w.gap{color:var(--empty)}
+.col-kjv{border-top:1px dotted var(--line);padding-top:6px}
 .note{display:block;font-size:.75rem;color:var(--muted);font-style:italic}
 .col-singable .cv,.col-literal .cv{font-size:.95rem}
 .why-empty{background:var(--chip);border-radius:10px;padding:4px 14px;font-size:.92rem}
@@ -455,7 +551,8 @@ padding:10px 14px 12px;z-index:20;max-height:60vh;overflow:auto}
 @media (min-width:720px){
 .controls{position:sticky;top:0}
 .cols{grid-template-columns:repeat(3,1fr);gap:10px}
-.verse .cols{grid-template-columns:repeat(4,1fr)}
+.verse .cols{grid-template-columns:repeat(2,1fr)}
+.verse .col-kjv{grid-column:1/-1}
 .col{grid-template-columns:1fr;gap:2px}
 .stanza-cols{grid-template-columns:1fr 1fr}
 .sources{grid-template-columns:1fr 1fr}
@@ -486,6 +583,7 @@ function show(btn){var p=T[btn.getAttribute('data-a')];if(!p)return;
    row('lemma',p.lemma)+row('key',p.lemma_key)+row('parsing',p.parsing)+row('in words',p.parsing_words)+
    row('translit',tl)+row('gloss',p.gloss==null?'(none yet)':p.gloss)+row('syntax',p.syntax)+
    row('lemma from',p.lemma_source)+row('parse from',p.parsing_source)+
+   row('gloss from',p.gloss_source?p.gloss_source+(p.gloss_rule?' ('+p.gloss_rule+')':''):null)+
    row('review',p.review==null?null:(typeof p.review==='string'?p.review:JSON.stringify(p.review)))+
    row('address',btn.getAttribute('data-a'))+'</dl>';
   pop.hidden=false;pop.querySelector('.x').addEventListener('click',hide)}
@@ -499,13 +597,16 @@ document.addEventListener('keydown',function(ev){if(ev.key==='Escape'&&!pop.hidd
 
 def build_page(root=ROOT):
     data = {"hymns": load_dataset("hymns", root), "nt": load_dataset("nt", root)}
+    kjv, kjv_sha = load_kjv([p["uid"] for p in data["nt"]["passages"]], root)
     tok_payload, sections, stats = {}, [], {}
     used = {"hymns": set(), "nt": set()}
     for w in WORKS:
         ds = data[w["data"]]
-        render = render_hymn if w["data"] == "hymns" else render_nt
         mine = set()
-        title, body = render(w, ds, tok_payload, mine, stats)
+        if w["data"] == "hymns":
+            title, body = render_hymn(w, ds, tok_payload, mine, stats)
+        else:
+            title, body = render_nt(w, ds, tok_payload, mine, stats, kjv)
         used[w["data"]] |= mine
         sections.append((w, title, body, mine))
 
@@ -513,17 +614,28 @@ def build_page(root=ROOT):
     blob = blob.replace("</", "<\\/")
     toc = "".join(f'<a href="#{w["id"]}">{t}</a>' for w, t, _, _ in sections)
     toc += '<a href="#rights">Sources &amp; rights</a><a href="#marks">About the marks</a>'
+    def labels(man, keys):
+        out = [source_label(man, k) for k in sorted(keys) if k in man["sources"]]
+        if "facing:kjv" in keys:
+            fw = man["facing_witness"]
+            out.append(f'{fw["name"]} ({fw["license"]}; UK: Crown patent), a separate witness')
+        return ", ".join(out)
+
     works = "".join(
         f'<section id="{w["id"]}"><h2>{t}</h2>'
-        f'<p class="lede">Sources: {e(", ".join(source_label(data[w["data"]]["manifest"], k) for k in sorted(mine)))}. '
+        f'<p class="lede">Sources: {e(labels(data[w["data"]]["manifest"], mine))}. '
         f'Full rights are under <a href="#rights">Sources &amp; rights</a>.</p>{b}</section>'
         for w, t, b, mine in sections)
     rights = "".join(
-        f'<h3>{e(label)}</h3><div class="sources">{rights_html(data[k]["manifest"], used[k])}</div>'
+        f'<h3>{e(label)}</h3><div class="sources">{rights_html(data[k]["manifest"], used[k])}'
+        + (facing_rights_html(data[k]["manifest"]["facing_witness"]) if "facing:kjv" in used[k] else "")
+        + '</div>'
         for k, label in (("hymns", "The hymns (data/hymns/manifest.json)"),
                          ("nt", "John 1:1–18 (data/nt/manifest.json)")))
     sums = "".join(f'<br><code>data/{k}/{fn}</code> {h}' for k in ("hymns", "nt")
                    for fn, h in sorted(data[k]["manifest"]["files_sha256"].items()))
+    if kjv_sha:
+        sums += f'<br><code>{"/".join(KJV_BUILD)}</code> {kjv_sha}'
     s = stats
     marks_note = (
         f'<p>A superscript number, or a colour, ties each word to the words it agrees with, in the '

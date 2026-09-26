@@ -113,7 +113,12 @@ The living truth for project state is the Obsidian vault:
   lemmas = Strong's 1890 headword by Robinson's number) → data/nt/ (COMMITTED).
   One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
   mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
-  pipeline/README-nt-jsonl.md
+  pipeline/README-nt-jsonl.md. Glosses: Strong's DICTIONARY glosses by a
+  fixed rule (pipeline/strongs_gloss.py, README s.12), not a translation;
+  data/nt/gloss-overrides.jsonl is the later contextual layer (empty).
+- pipeline/render_reader.py — the reverse-interlinear reader (D5) →
+  build/reader/reader.html; test tests/reader_test.py. John's KJV column
+  reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
