@@ -111,9 +111,14 @@ The living truth for project state is the Obsidian vault:
   pipeline/README-hymn-jsonl.md
 - data/hymn-sources/ -- hymns from a printed PD edition (Lauda Sion, Sacris
   solemniis, Verbum supernum, from Britt 1922, every line checked against the
-  scan image). No house draft: no gloss, no prose_order, lemmas only where
-  Whitaker leaves no choice. README-hymn-jsonl.md s.9; their cuts and lemma
-  flags await Adam in docs/review/2026-09-26-thomas-{cuts,lemma-flags}.md
+  scan image). No house draft: no prose_order, lemmas only where
+  Whitaker leaves no choice, and glosses are Whitaker DICTIONARY glosses by a
+  fixed rule (pipeline/whitaker_gloss.py, README s.11; override layer
+  data/hymns/gloss-overrides.jsonl). README-hymn-jsonl.md s.9; their cuts and
+  lemma flags await Adam in docs/review/2026-09-26-thomas-{cuts,lemma-flags}.md.
+  Also here: britt-1922-adoro-te.json, Britt's Adoro te, which the build
+  COLLATES against the received text (never replaces it); every difference
+  awaits Adam in docs/review/2026-09-26-adoro-collation.md (README s.10)
 - pipeline/whitaker.py (+ whitaker_tricks.py) + build_lemma_spine.py — Whitaker's WORDS (Latin
   lemmas, licence `free-grant`, NOT PD) → data/lemmas/whitaker-la/ (hymn
   slice committed; full table gitignored). Rules:

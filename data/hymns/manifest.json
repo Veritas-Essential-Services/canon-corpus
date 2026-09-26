@@ -28,8 +28,8 @@
    "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
    "source_file": "data/hymn-sources/britt-1922-corpus-christi.json",
    "token_fields": "lemma: whitaker-words only where WORDS has exactly one entry for the form (status `sole`), else null and flagged; parsing: whitaker-words only where that entry gives exactly one parse, else null (status `ambiguous`, not flagged). Per token: provenance. README-lemma-spine.md s.3b",
+   "wooden_from": "generated at render time from the tokens' Whitaker DICTIONARY glosses (manifest.gloss), not a translation; a word with no gloss is a marked gap. Never stored",
    "not_stored": {
-    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
     "en.plain": "no prose_order: the plain order is house work (as for the Greek before its draft), and no source supplies one",
     "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal"
    }
@@ -40,8 +40,8 @@
    "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
    "source_file": "data/hymn-sources/britt-1922-corpus-christi.json",
    "token_fields": "lemma: whitaker-words only where WORDS has exactly one entry for the form (status `sole`), else null and flagged; parsing: whitaker-words only where that entry gives exactly one parse, else null (status `ambiguous`, not flagged). Per token: provenance. README-lemma-spine.md s.3b",
+   "wooden_from": "generated at render time from the tokens' Whitaker DICTIONARY glosses (manifest.gloss), not a translation; a word with no gloss is a marked gap. Never stored",
    "not_stored": {
-    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
     "en.plain": "no prose_order: the plain order is house work (as for the Greek before its draft), and no source supplies one",
     "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal"
    }
@@ -52,8 +52,8 @@
    "cut_by": "house cut 2026-09-26 (this build), by the clause rule; unreviewed",
    "source_file": "data/hymn-sources/britt-1922-corpus-christi.json",
    "token_fields": "lemma: whitaker-words only where WORDS has exactly one entry for the form (status `sole`), else null and flagged; parsing: whitaker-words only where that entry gives exactly one parse, else null (status `ambiguous`, not flagged). Per token: provenance. README-lemma-spine.md s.3b",
+   "wooden_from": "generated at render time from the tokens' Whitaker DICTIONARY glosses (manifest.gloss), not a translation; a word with no gloss is a marked gap. Never stored",
    "not_stored": {
-    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
     "en.plain": "no prose_order: the plain order is house work (as for the Greek before its draft), and no source supplies one",
     "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal"
    }
@@ -148,7 +148,7 @@
    "open": "machine draft, unchecked by Adam. Since D3 its lemma and parsing are the fallback: each token's `provenance` says which source its value came from."
   },
   "whitaker-words": {
-   "what": "token lemma (and parsing, where unambiguous): the Latin lemma spine, launch plan D3",
+   "what": "token lemma (and parsing, where unambiguous): the Latin lemma spine, launch plan D3; and the printed hymns' dictionary glosses, from its meaning lines (manifest.gloss)",
    "edition": "WORDS 1.97F data (mk270 port), https://github.com/mk270/whitakers-words at 1f2f0fb0867a; analyses in data/lemmas/whitaker-la/hymns.analyses.jsonl (pipeline/README-lemma-spine.md)",
    "license": "free-grant",
    "license_basis": "Copyright William A. Whitaker (1936-2010), with an unconditional grant of any and all use of program and data. Not public domain.",
@@ -253,8 +253,55 @@
   "lemma": "whitaker-words where its headword is the draft's and one entry is picked out; else house-draft-2026-09-14, flagged in `review`. Per token: provenance.lemma",
   "parsing": "whitaker-words where it gives exactly one parse, the draft agrees and adds no teaching note; else house-draft-2026-09-14. Never invented. Per token: provenance.parsing",
   "lemma_key": "whitaker-words: the WORDS dictionary form naming the lemma; null where the draft stands",
-  "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order. Null on the hymns printed from Britt 1922, which have no house draft: a gloss is house work and none is invented",
+  "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order. On the hymns printed from Britt 1922, which have no house draft: whitaker-words DICTIONARY glosses by a fixed rule (manifest.gloss; whitaker_gloss.py), null where no rule fires, and a row of data/hymns/gloss-overrides.jsonl over one. Per token there: provenance.gloss",
   "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is"
+ },
+ "gloss": {
+  "kind": "dictionary",
+  "applies_to": [
+   "hymns:lauda-sion",
+   "hymns:sacris-solemniis",
+   "hymns:verbum-supernum"
+  ],
+  "not": "NOT a contextual translation. Each gloss is the first sense of the WORDS meaning line for the token's lemma, cut by a fixed rule: one lemma gets one gloss in every line (a pronoun varies only with its case). A wooden line built from them is a dictionary interlinear, not a translation. The batch hymns (Adoro te, Pange lingua) keep their house glosses and are not touched.",
+  "source": "whitaker-words",
+  "license": "free-grant",
+  "doc": "pipeline/README-hymn-jsonl.md s.11; pipeline/whitaker_gloss.py",
+  "rules": [
+   {
+    "id": "pron-case",
+    "does": "pronoun whose WORDS parses share one case slot: the first alternative of the first sense that is an English pronoun form for that slot"
+   },
+   {
+    "id": "first-sense",
+    "does": "the first sense of the WORDS meaning line: (parentheses) and [brackets] off, cut at the first ';', then the first ','; a slashed group gives its first member; a verb's 'to' and a noun's article dropped; at most four words, hyphenated"
+   }
+  ],
+  "tokens": 505,
+  "tokens_with_lemma": 307,
+  "glossed": 282,
+  "glossed_of_lemma": 282,
+  "by_rule": {
+   "pron-case": 13,
+   "first-sense": 269
+  },
+  "none": 223,
+  "none_by_reason": {
+   "no lemma": 198,
+   "the lemma's WORDS entries give different first senses": 23,
+   "the first sense is not a word gloss (more than four words, or not English words)": 1,
+   "the lemma table carries no meaning line for this entry": 1
+  },
+  "overrides": {
+   "file": "data/hymns/gloss-overrides.jsonl",
+   "layers": [
+    "adam-reviewed",
+    "house"
+   ],
+   "applied": 0,
+   "draft": 0,
+   "rule": "a row replaces the dictionary gloss of one token address; the dictionary value and its rule are kept under provenance.gloss.was"
+  }
  },
  "perseus": {
   "policy": "Perseus is CC BY-SA. Nothing from Perseus is in these files. Perseus enrichment (lemmata, morphology, treebank links) is a separate layer keyed by CTS URN and joined at read time, never merged in.",
@@ -346,7 +393,7 @@
  "files_sha256": {
   "alignments.jsonl": "5dfd16ce4e204ee8ab8551139e50a061d2ddb693de46ccd71d31e541f9230556",
   "passages.jsonl": "6cd88d0c5580e71e5673589fddec18c76f9f6d376606ebd220e3a195122844cc",
-  "tokens.jsonl": "6db782b5530f08fab6e203c104e19d8c44937b6c5463aa70d0dd196a72bd5057",
+  "tokens.jsonl": "21a7b5e020ce998dcc48f8aa8bf79ef21a976508a0e966b8105fbb370ed0745e",
   "witnesses.jsonl": "f555fe778e7dd306901010cf79a806a02a4296dd217f338c1dfe55292252440a"
  }
 }

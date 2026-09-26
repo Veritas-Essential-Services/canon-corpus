@@ -154,15 +154,43 @@ check("the three printed hymns are on the page, each with a table-of-contents li
       printed == {"hymns:lauda-sion", "hymns:sacris-solemniis", "hymns:verbum-supernum"}
       and all(f'<section id="{w.split(":")[1]}">' in page and f'href="#{w.split(":")[1]}"' in page
               for w in printed))
-empty_bad = []
+empty_bad, pwood_bad, pgaps, pgap_want, pwood_cols = [], [], 0, 0, 0
 for c in (c for c in clauses if c["work"] in printed):
     block = page[page.index(f'id="{c["uid"]}"'):]
     block = block[:block.index('</div></div>', block.index('<div class="col col-elegant'))]
     why = hman["works"][c["work"]]["not_stored"]
-    if not all(f'empty: {html.escape(why[n])}' in block for n in ("en.wooden", "en.plain", "en.elegant")):
+    if not all(f'empty: {html.escape(why[n])}' in block for n in ("en.plain", "en.elegant")):
         empty_bad.append(c["citation"])
-check("every printed-hymn clause shows wooden, plain and elegant empty, each with the manifest's reason",
+    tk = toks[c["uid"] + "/la.1"]
+    wooden = block[block.index('<div class="col col-wooden'):block.index('<div class="col col-plain')]
+    if not any(t.get("gloss") for t in tk):
+        if "empty: no word in this clause has a gloss" not in wooden:
+            pwood_bad.append(c["citation"])
+        continue
+    pwood_cols += 1
+    shown = [dict(t, gloss=R.GAP) if not t.get("gloss") else t for t in tk]
+    words = [html.unescape(w) for w in re.findall(r'<span class="w[^"]*">([^<]*?)(?:<sup|</span>)', wooden)]
+    if (" ".join(words) != H.render_wooden(shown) or "dictionary glosses, not a translation" not in wooden
+            or "whitaker-words (free-grant)" not in wooden):
+        pwood_bad.append(c["citation"])
+    pgaps += wooden.count(' gap"')
+    pgap_want += sum(1 for t in tk if not t.get("gloss"))
+check("every printed-hymn clause shows plain and elegant empty, each with the manifest's reason",
       not empty_bad, empty_bad[:3])
+check("every printed-hymn clause's wooden column is render_wooden() over its Whitaker dictionary glosses, "
+      "labelled 'dictionary glosses, not a translation', whitaker-words (free-grant); a clause with no "
+      "gloss at all says so", not pwood_bad and pwood_cols > 0, (pwood_bad[:3], pwood_cols))
+check("... and each printed word with no gloss is a marked gap, never a made-up word",
+      pgaps == pgap_want and pgap_want > 0, (pgaps, pgap_want))
+check("each printed hymn says what its wooden column is and why plain is empty",
+      all(page[page.index(f'<section id="{w.split(":")[1]}">'):].split("</section>")[0].count(
+          "<h3>About these columns</h3>") == 1 for w in printed)
+      and page.count("a lemma gets the same gloss in every line") == len(printed))
+la_pop = [a for a, t in hy_tok.items() if (t["provenance"].get("gloss") or {}).get("source") == "whitaker-words"]     if (hy_tok := {t["address"]: t for t in data["hymns"]["tokens"]}) else []
+check("every Whitaker-glossed word's popover names whitaker-words and its rule",
+      la_pop and all(embedded[a].get("gloss_source") == "whitaker-words"
+                     and embedded[a].get("gloss_rule") == hy_tok[a]["provenance"]["gloss"]["rule"]
+                     for a in la_pop), len(la_pop))
 why_bad = [c["citation"] for c in clauses if c["work"] in printed and
            f'<p class="why">{"joined" if c["lines"][1] > c["lines"][0] else "stands alone"}: '
            f'{html.escape(c["cut"]["why"])}</p>' not in page[page.index(f'id="{c["uid"]}"'):][:4000]]

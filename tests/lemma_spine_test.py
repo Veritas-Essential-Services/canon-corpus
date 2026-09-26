@@ -248,9 +248,11 @@ for f in ("lemma", "parsing"):
     check(f"undrafted {f} status as measured (before Adam's answers)",
           got == EXPECTED_UNDRAFTED[f + "_status"], got)
 bad_u = [t["address"] for t in undrafted if t["address"] not in OVU and
-         (t["lemma"], t["lemma_key"], t["parsing"], t["provenance"], t["review"]) !=
+         (t["lemma"], t["lemma_key"], t["parsing"],
+          {k: v for k, v in t["provenance"].items() if k != "gloss"}, t["review"]) !=
          L.resolve_undrafted(arows[t["search_key"]])]
-check("every undrafted token is exactly what resolve_undrafted gives", not bad_u, bad_u[:3])
+check("every undrafted token is exactly what resolve_undrafted gives (its gloss provenance aside: "
+      "whitaker_gloss.py)", not bad_u, bad_u[:3])
 check("an undrafted token records that it had no draft",
       all(t["provenance"]["lemma"]["draft"] is None and t["provenance"]["parsing"]["draft"] is None
           for t in undrafted))

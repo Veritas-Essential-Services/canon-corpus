@@ -259,10 +259,12 @@ The same four files and records as the batch hymns, with these differences:
   `memorize` are null. `status` reads "text verified against Britt 1922; cut
   and lemmas unchecked". The stanza records its printed `page`.
 - **Clause witnesses: `la.1` only**, source `britt-1922-latin`, with its
-  `page`. There is **no `en.wooden`, `en.plain` or `en.elegant`**, and
-  `manifest.works[..].not_stored` says why. A gloss and a plain order are house
-  work, and none is invented, as for the Greek before its draft (README-nt-jsonl
-  s.13). The reader shows those columns empty with that reason.
+  `page`. There is **no `en.wooden`, `en.plain` or `en.elegant`** witness,
+  and `manifest.works[..].not_stored` says why for plain and elegant. A house
+  gloss and a plain order are house work, and none is invented, as for the Greek
+  before its draft (README-nt-jsonl s.13). The reader shows those columns empty
+  with that reason. Since s.11 the wooden column is rendered from Whitaker
+  dictionary glosses (`works[..].wooden_from`).
 - **Stanza witnesses**: `en.singable` and `en.literal`, both from Britt, with
   their pages.
   - Lauda Sion is sung in Hugh T. Henry's translation.
@@ -271,7 +273,8 @@ The same four files and records as the batch hymns, with these differences:
   - Verbum supernum is sung in Neale's translation (st. 1-4) and Caswall's
     (st. 5-6).
   - Each witness is aligned to its clauses, as the batch hymns' are.
-- **Tokens**: `gloss`, `plain_form` and `syntax` are null. `lemma` and `parsing`
+- **Tokens**: `plain_form` and `syntax` are null; `gloss` is a Whitaker
+  dictionary gloss or null (s.11). `lemma` and `parsing`
   come from `lemma_spine.resolve_undrafted` (README-lemma-spine.md s.3b):
   Whitaker only where it leaves no choice, else null and flagged.
 
@@ -397,3 +400,66 @@ an answer to a difference that does not exist stops the build.
 edition prints no translations (Bridges's note, and the Project Gutenberg
 transcription of it, ebook 22403). No PD printing of Hopkins's *Adoro te* was
 reachable, so `hopkins-1918` stays unverified, with a `finding` saying why.
+
+---
+
+## 11. Dictionary glosses for the printed hymns (Whitaker's WORDS)
+
+*Added 2026-09-26. Code: `pipeline/whitaker_gloss.py`. Tests:
+`tests/hymn_corpus_test.py` ("glosses", "the gloss rule, on fixtures"),
+`tests/reader_test.py`, `tests/review_test.py` (the override layer).*
+
+**What they are.** For each token of *Lauda Sion*, *Sacris solemniis* and
+*Verbum supernum* that has a lemma, the gloss is the first sense of the English
+meaning line of its WORDS entry, cut by a fixed rule. It is the Latin twin of
+the Greek's Strong's glosses (README-nt-jsonl s.12). **They are dictionary
+glosses, not a contextual translation.** One lemma gets one gloss in every
+line; a pronoun varies only with its case. The manifest's `gloss` block says
+so, and so does the reader under every wooden column. *Adoro te* and *Pange
+lingua* keep their house glosses and are not touched: no gloss provenance is
+added to them.
+
+**Where the meaning comes from.** `data/lemmas/whitaker-la/hymns.lemmas.jsonl`
+(committed) carries each entry's DICTLINE meaning, so the build stays offline.
+The entry is the first DICTLINE entry under the token's `lemma_key`. A token with
+a lemma but no key (status `same-lemma`, e.g. *in*, PREP ABL and PREP ACC) is
+glossed only when every candidate entry gives the same gloss.
+
+**The rule.** The first step that fires sets the gloss, and its id goes on the
+token as `provenance.gloss.rule` (source `whitaker-words`, licence
+`free-grant`, `kind: "dictionary"`).
+
+| id | tokens | what it does |
+|---|---|---|
+| `pron-case` | 13 | Pronouns (WORDS PRON) whose WORDS parses all fall in one case slot (nom/voc; acc/dat/abl; gen): the first alternative of the first sense that is an English pronoun form for that slot. *nobis* gives *us*, *Tu* gives *you*. |
+| `first-sense` | 269 | The meaning line with (parentheses) and [brackets] off, cut at the first `;`, then at the first `,` (or `!`, between an interjection's senses). A slashed group gives its first member (*make/build* gives *make*; *wild/loud shouting* gives *wild shouting*). Part-of-speech sanity: a verb's leading *to* and a noun's article are dropped. The result must be English words, at most four, and a multi-word gloss is hyphenated (one chunk per Latin word, the house style). |
+| (none) | 223 | null, with the reason in `provenance.gloss.why`: 198 tokens have no lemma yet (they await the lemma sheet); 23 have a lemma whose WORDS entries disagree (*in* x17, *ad* x3, *cum*, *juxta*, *vel*); *Sacramento*'s first sense is six words; *memento* is a UNIQUES form with no meaning line in the table. |
+
+**Coverage (2026-09-26):** 282 of the 307 tokens with a lemma (91.9%), which
+is 282 of all 505 (55.8%). Each of Adam's lemma answers can add one: the gloss
+follows the lemma.
+
+**Never invented.** The test re-derives every gloss from the committed lemma
+table and checks that each word of it is a word of the entry's meaning line.
+
+**What the dictionary gets wrong, as expected.** WORDS's first sense is not
+the commonest. *laudo* gives *recommend*, *species* *sight*, *signum*
+*battle-standard*, *ut* *to*, *se* *him*. The rule is not tuned to rescue
+them: that is the override layer's job.
+
+**The override layer.** `data/hymns/gloss-overrides.jsonl` (committed, LF,
+empty today) has the shape of `data/nt/gloss-overrides.jsonl` and is read by
+the same loader (`strongs_gloss.load_overrides`). Layers are `adam-reviewed`
+and `house`, and a house row may be a draft. A row replaces one token's
+dictionary gloss, and the dictionary value and its rule are kept under
+`provenance.gloss.was`. The manifest then declares the layer as a source and
+counts the row. A row for a token with a house gloss, a surface that does not
+match, or a malformed row stops the build.
+
+**The reader.** A printed hymn's wooden column is `render_wooden()` over its
+tokens, a marked gap (—) for each word with no gloss, labelled "dictionary
+glosses, not a translation" with its source (`whitaker-words (free-grant)`). The
+popover says where the gloss came from and by which rule, and for an override
+it gives the dictionary gloss it replaced. Each printed hymn opens with "About
+these columns". **Plain stays empty:** there is no `prose_order`, the plain
+order is house work, and the column shows that reason.

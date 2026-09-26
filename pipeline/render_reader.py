@@ -13,8 +13,10 @@ WHAT IT SHOWS
     te, Pange lingua, Lauda Sion, Sacris solemniis, Verbum supernum:
     data/hymns/, Latin, one row per clause) and John 1:1-18 (data/nt/,
     Greek, one row per verse). The three printed from Britt 1922 have no
-    house draft, so their wooden and plain columns are empty with the
-    manifest's reason, and a word with no lemma shows Whitaker's candidates. Per passage: the original, every word a button
+    house draft: their wooden column is Whitaker DICTIONARY glosses
+    (whitaker_gloss.py; a gap for a word with none), their plain column is
+    empty with the manifest's reason, and a word with no lemma shows
+    Whitaker's candidates. Per passage: the original, every word a button
     whose popover carries lemma, parsing and translit; then the four columns,
     wooden / plain / elegant / singable, as far as the data carries them. A
     column the data cannot fill is shown EMPTY with its reason. Nothing is
@@ -303,11 +305,30 @@ def render_hymn(work, ds, tok_payload, used, stats):
                             if (v or {}).get("source") in man["sources"])
             cols = []
             ww = wit.get(c["uid"] + "/en.wooden")
-            if ww and all(t.get("gloss") for t in tk):
+            gaps = {t["address"] for t in tk if not t.get("gloss")}
+            if ww and not gaps:
                 used.add(ww["source"])
                 cols.append(column_html("wooden", wooden_html(tk, marks), source_label(man, ww["source"])))
+            elif not ww and len(gaps) < len(tk):
+                # a printed hymn: Whitaker DICTIONARY glosses (manifest.gloss), as the Greek's
+                # are Strong's -- a gap for a word with none, never a made-up word
+                shown = [dict(t, gloss=GAP) if t["address"] in gaps else t for t in tk]
+                srcs = sorted({(t.get("provenance") or {}).get("gloss", {}).get("source")
+                               for t in tk if t.get("gloss")} - {None})
+                used.update(srcs)
+                drafted = sum(1 for t in tk if (t.get("provenance") or {}).get("gloss", {}).get("draft"))
+                note = "dictionary glosses, not a translation"
+                if drafted:
+                    note = (f"dictionary glosses, not a translation, except {drafted} contextual "
+                            f"house gloss{'es' if drafted > 1 else ''} (draft)")
+                if gaps:
+                    note += f"; {len(gaps)} word{'s' if len(gaps) > 1 else ''} with no gloss shown as {GAP}"
+                cols.append(column_html("wooden", wooden_html(shown, marks, gaps),
+                                        ", ".join(source_label(man, k) for k in srcs), note=note,
+                                        badge=DRAFT_BADGE if drafted else None))
             else:
-                cols.append(column_html("wooden", "", empty=why_not.get("en.wooden", "no token glosses")))
+                cols.append(column_html("wooden", "", empty=why_not.get(
+                    "en.wooden", "no token glosses" if ww else "no word in this clause has a gloss")))
             pw = wit.get(c["uid"] + "/en.plain")
             if pw:
                 used.add(pw["source"])
@@ -354,6 +375,23 @@ def render_hymn(work, ds, tok_payload, used, stats):
             + "".join(rows)
             + f'<div class="stanza-cols">{"".join(stanza_cols)}</div></section>')
     title = man["works"][work["work"]]["title"]
+    gl = man.get("gloss") or {}
+    if work["work"] in gl.get("applies_to", ()):
+        # a printed hymn: say what its wooden column is, and why plain is empty
+        mine = [t for t in ds["tokens"] if t["passage_uid"] in by_uid]
+        n_g = sum(1 for t in mine if t.get("gloss"))
+        rules = ", ".join(f"{k} {sum(1 for t in mine if (t.get('provenance') or {}).get('gloss', {}).get('rule') == k)}"
+                          for k in gl["by_rule"])
+        out.insert(0, (
+            f'<div class="why-empty"><h3>About these columns</h3><ul>'
+            f'<li><b>wooden</b> is generated from token glosses and is never stored. {n_g} of '
+            f'{len(mine)} words carry a gloss, every one a <b>dictionary gloss</b>: the first sense of '
+            f'the Whitaker&#39;s WORDS entry for the word&#39;s lemma, chosen by a fixed rule ({e(rules)}). '
+            f'Those are <b>not a contextual translation</b>: a lemma gets the same gloss in every line. '
+            f'A word with no lemma yet (it awaits Adam&#39;s lemma review), or whose entries disagree, '
+            f'shows as {GAP}.</li>'
+            f'<li><b>plain</b>: {e(why_not.get("en.plain", "no prose order stored"))}.</li>'
+            f'<li><b>elegant</b>: {e(why_not.get("en.elegant", "none stored"))}.</li></ul></div>'))
     return title, "".join(out)
 
 

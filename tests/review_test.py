@@ -35,6 +35,10 @@ WHAT IT ASSERTS
        answers file gets exactly those rows, the four JSONL files do not move
        (only the manifest's collation counts), a comment stops the run, and
        `ok` on every row makes the source verified, dated by the answers.
+    3d. The printed hymns' gloss override layer: a draft row replaces one
+       dictionary gloss (kept under `was`), nothing else moves, the manifest
+       declares the layer, the reader badges the column; a row whose surface
+       does not match stops the build.
     4. The John 1 sheet (when the NT inputs are fetched): ✓, a replacement
        gloss, explicit gloss + plain_form, `draft→ value` (still a draft),
        draft→ alone, an accepted plain line and a new prose_order; the same
@@ -415,6 +419,37 @@ try:
         rc, out = run(tmp, os.path.join("tests", "hymn_corpus_test.py"))
         check("hymn_corpus_test.py still passes with the collation answered", rc == 0,
               out.strip().splitlines()[-1:])
+
+        print("\n--- the printed hymns' gloss override layer (no sheet yet: a row by hand)")
+        GOV = os.path.join(HYD, "gloss-overrides.jsonl")
+        T = lambda: {t["address"]: t for t in jsonl(os.path.join(HYD, "tokens.jsonl"))}  # noqa: E731
+        t0 = T()
+        lauda = next(a for a, t in t0.items() if t["surface"] == "Lauda" and t["gloss"])
+        open(GOV, "w", encoding="utf-8", newline="\n").write(json.dumps(
+            {"address": lauda, "surface": "Lauda", "gloss": "praise", "layer": "house", "draft": True,
+             "drafted_on": "2026-09-27", "note": "the sense in a hymn"}) + "\n")
+        rc, out = run(tmp, os.path.join("pipeline", "build_hymn_corpus.py"))
+        t1 = T()
+        man = json.load(open(os.path.join(HYD, "manifest.json"), encoding="utf-8"))
+        check("a gloss override row replaces that token's dictionary gloss, the dictionary one kept under was",
+              rc == 0 and t1[lauda]["gloss"] == "praise" and t1[lauda]["provenance"]["gloss"]["draft"] is True
+              and t1[lauda]["provenance"]["gloss"]["was"]["value"] == t0[lauda]["gloss"], out[-300:])
+        check("... nothing else moves, and the manifest declares the layer and counts the row",
+              all(t1[a] == t0[a] for a in t0 if a != lauda) and "house" in man["sources"]
+              and man["gloss"]["overrides"] == dict(man["gloss"]["overrides"], applied=1, draft=1)
+              and "gloss-overrides.jsonl" in man["inputs_sha256"])
+        rc, out = run(tmp, os.path.join("pipeline", "render_reader.py"), "--out", os.path.join(tmp, "r.html"))
+        page_t = open(os.path.join(tmp, "r.html"), encoding="utf-8").read() if rc == 0 else ""
+        check("... and the reader badges that clause's wooden column as a draft",
+              rc == 0 and page_t[page_t.index(f'id="{lauda.split("/")[0]}"'):].split('col col-plain')[0]
+              .count('class="draft-badge"') == 1, out[-300:])
+        open(GOV, "w", encoding="utf-8", newline="\n").write(json.dumps(
+            {"address": lauda, "surface": "Laudo", "gloss": "praise", "layer": "house",
+             "reviewed_on": "2026-09-27"}) + "\n")
+        rc, out = run(tmp, os.path.join("pipeline", "build_hymn_corpus.py"), "--check")
+        check("a gloss override whose surface does not match stops the build", rc != 0 and "gloss overrides" in out,
+              out[-300:])
+        open(GOV, "w", encoding="utf-8", newline="\n").write("")
 
     if not nt_inputs:
         print("\nskip  the NT's pinned inputs are not fetched (build_nt_corpus.py --fetch); the John 1 apply did not run")

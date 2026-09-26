@@ -74,6 +74,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import wh_uid as U  # noqa: E402
 import whitaker as W  # noqa: E402
+import whitaker_gloss as WG  # noqa: E402
 from lemma_spine import resolve, resolve_undrafted, load_overrides, apply_override, OVERRIDES, OVERRIDE_SOURCE  # noqa: E402
 
 UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
@@ -379,7 +380,8 @@ SOURCES = {
                  "each token's `provenance` says which source its value came from."),
     },
     "whitaker-words": {
-        "what": "token lemma (and parsing, where unambiguous): the Latin lemma spine, launch plan D3",
+        "what": ("token lemma (and parsing, where unambiguous): the Latin lemma spine, launch plan D3; "
+                 "and the printed hymns' dictionary glosses, from its meaning lines (manifest.gloss)"),
         "edition": (f"{W.VERSION}, {W.REPO_URL} at {W.COMMIT[:12]}; analyses in "
                     "data/lemmas/whitaker-la/hymns.analyses.jsonl (pipeline/README-lemma-spine.md)"),
         **{k: v for k, v in W.LICENCE.items()},
@@ -497,8 +499,10 @@ TOKEN_FIELDS = {
     "parsing": ("whitaker-words where it gives exactly one parse, the draft agrees and adds no "
                 "teaching note; else house-draft-2026-09-14. Never invented. Per token: provenance.parsing"),
     "lemma_key": "whitaker-words: the WORDS dictionary form naming the lemma; null where the draft stands",
-    "gloss": ("house-draft-2026-09-14: the wooden gloss, Latin order. Null on the hymns printed from "
-              "Britt 1922, which have no house draft: a gloss is house work and none is invented"),
+    "gloss": ("house-draft-2026-09-14: the wooden gloss, Latin order. On the hymns printed from "
+              "Britt 1922, which have no house draft: whitaker-words DICTIONARY glosses by a fixed rule "
+              "(manifest.gloss; whitaker_gloss.py), null where no rule fires, and a row of "
+              "data/hymns/gloss-overrides.jsonl over one. Per token there: provenance.gloss"),
     "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is",
 }
 # The printed hymns (no draft): lemma and parsing by lemma_spine.resolve_undrafted.
@@ -673,12 +677,66 @@ def spine_stats(tokens):
 
 # Why a printed hymn's clause has only its Latin (the reader shows these).
 NOT_STORED = {
-    "en.wooden": "no token glosses: there is no house draft for this hymn, and a gloss is house work",
     "en.plain": ("no prose_order: the plain order is house work (as for the Greek before its draft), "
                  "and no source supplies one"),
     "en.elegant": "none at clause level: Britt's prose renders the stanza, and is stored there as en.literal",
 }
 PRINTED_STATUS = "text verified against Britt 1922; cut and lemmas unchecked"
+# How a printed hymn's wooden column is made (the reader shows this).
+WOODEN_PRINTED = ("generated at render time from the tokens' Whitaker DICTIONARY glosses (manifest.gloss), "
+                  "not a translation; a word with no gloss is a marked gap. Never stored")
+
+# The printed hymns' gloss override layer (whitaker_gloss.OVERRIDES), declared
+# in the manifest only once a row is applied (none yet).
+GLOSS_OVERRIDE_SOURCES = {
+    "house": {
+        "what": "token gloss: a house contextual gloss over a printed hymn's dictionary gloss",
+        "edition": "data/hymns/gloss-overrides.jsonl, layer house (README-hymn-jsonl.md s.11)",
+        "license": "own",
+        "verified": False,
+        "open": "rows marked draft: true are the house's proposals, awaiting Adam's review",
+    },
+    "adam-reviewed": ADAM_REVIEWED,
+}
+
+
+def gloss_block(tokens, gl):
+    """The printed hymns' gloss block: the rule, and what it gave (README s.11)."""
+    kinds = [t["provenance"]["gloss"] for t in tokens]
+    by_rule = {r: sum(1 for k in kinds if k.get("rule") == r and k.get("kind") == "dictionary")
+               for r in WG.RULE_ORDER}
+    none = [k["why"] for k in kinds if k.get("kind") is None]
+    reasons = {}
+    for w in none:
+        # the same-lemma reason names its entries; count it once, by its head
+        head = w.split(":")[0]
+        reasons[head] = reasons.get(head, 0) + 1
+    with_lemma = [t for t in tokens if t["lemma"]]
+    return {
+        "kind": "dictionary",
+        "applies_to": sorted({f"hymns:{k}" for k, H in HYMNS.items() if "source_file" in H}),
+        "not": ("NOT a contextual translation. Each gloss is the first sense of the WORDS meaning line "
+                "for the token's lemma, cut by a fixed rule: one lemma gets one gloss in every line "
+                "(a pronoun varies only with its case). A wooden line built from them is a dictionary "
+                "interlinear, not a translation. The batch hymns (Adoro te, Pange lingua) keep their "
+                "house glosses and are not touched."),
+        "source": WG.SOURCE,
+        "license": "free-grant",
+        "doc": "pipeline/README-hymn-jsonl.md s.11; pipeline/whitaker_gloss.py",
+        "rules": [{"id": r, "does": WG.RULES[r]} for r in WG.RULE_ORDER],
+        "tokens": len(tokens),
+        "tokens_with_lemma": len(with_lemma),
+        "glossed": sum(1 for t in tokens if t["gloss"]),
+        "glossed_of_lemma": sum(1 for t in with_lemma if t["gloss"]),
+        "by_rule": by_rule,
+        "none": len(none),
+        "none_by_reason": dict(sorted(reasons.items(), key=lambda x: (-x[1], x[0]))),
+        "overrides": {"file": "data/hymns/gloss-overrides.jsonl", "layers": ["adam-reviewed", "house"],
+                      "applied": len(gl["used"]),
+                      "draft": sum(1 for a in gl["used"] if gl["overrides"][a].get("draft")),
+                      "rule": ("a row replaces the dictionary gloss of one token address; the dictionary "
+                               "value and its rule are kept under provenance.gloss.was")},
+    }
 
 ADAM_REVIEWED_CUT = {
     "what": "the clause cut of a printed hymn: Adam's answers to the cut review sheet",
@@ -767,7 +825,7 @@ def clause_uid(reg, cit, lines, draft_lines, reviewed):
 
 
 def build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
-                  passages, witnesses, tokens, alignments):
+                  passages, witnesses, tokens, alignments, gl):
     """One hymn from its printed-source file. Same records as the batch
     hymns, minus what only a house draft could supply."""
     path = os.path.join(PRINTED, H["source_file"])
@@ -831,6 +889,15 @@ def build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
                     except ValueError as e:
                         _stop(f"lemma overrides: {e}")
                     used.add(addr)
+                tok = {"lemma": lemma, "lemma_key": lemma_key, "provenance": prov}
+                gloss, gprov = WG.gloss_for(tok, gl["lemmas"])
+                if addr in gl["overrides"]:
+                    try:
+                        gloss, _, gprov = WG.apply_override(gloss, None, gprov, surface, gl["overrides"][addr])
+                    except ValueError as e:
+                        _stop(f"gloss overrides: {e}")
+                    gl["used"].add(addr)
+                prov = {**prov, "gloss": gprov}
                 tokens.append({
                     "address": addr, "passage_uid": uid,
                     "witness": "la.1", "position": i, "line": on_line[i - 1],
@@ -841,7 +908,7 @@ def build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
                     "lemma": lemma,
                     "lemma_key": lemma_key,
                     "parsing": parsing,
-                    "gloss": None,
+                    "gloss": gloss,
                     "plain_form": None,
                     "syntax": None,
                     "legacy_address": None,
@@ -1060,13 +1127,18 @@ def build(src, reg):
     except ValueError as e:
         _stop(f"lemma overrides: {e}")
     used = set()
+    # the printed hymns' dictionary glosses (whitaker_gloss.py; README s.11)
+    try:
+        gl = {"lemmas": WG.load_lemmas(), "overrides": WG.load_overrides(), "used": set()}
+    except ValueError as e:
+        _stop(f"gloss overrides: {e}")
     legacy_map = {}          # legacy unit_id -> clause uid (the join, done once)
 
     cut_rows = load_cut_reviews()
     for key, H in HYMNS.items():
         if "source_file" in H:
             build_printed(key, H, reg, spine, overrides, used, cut_rows, inputs,
-                          passages, witnesses, tokens, alignments)
+                          passages, witnesses, tokens, alignments, gl)
             continue
         batch, h1 = _load(src, H["batch"])
         perms, h2 = _load(src, H["permutations"])
@@ -1283,6 +1355,9 @@ def build(src, reg):
             _stop(f"{work}: a legacy row lands in two clauses")
 
     stale = sorted(set(overrides) - used)
+    stale_g = sorted(set(gl["overrides"]) - gl["used"])
+    if stale_g:
+        _stop(f"gloss overrides name tokens that do not exist, or that have a house gloss: {stale_g[:5]}")
     if stale:
         _stop(f"lemma overrides name tokens that do not exist: {stale[:5]}")
     stale_cuts = sorted(set(cut_rows) - {p["citation"] for p in passages if p["unit"] == "stanza"})
@@ -1307,6 +1382,13 @@ def build(src, reg):
         sources[OVERRIDE_SOURCE] = ADAM_REVIEWED
         with open(OVERRIDES, "rb") as f:
             inputs["adam-reviewed.jsonl"] = hashlib.sha256(f.read()).hexdigest()
+    printed_uids = {p["uid"] for p in passages if p["work"] in
+                    {f"hymns:{k}" for k, H in HYMNS.items() if "source_file" in H}}
+    if gl["used"]:
+        for layer in sorted({gl["overrides"][a]["layer"] for a in gl["used"]}):
+            sources.setdefault(layer, GLOSS_OVERRIDE_SOURCES[layer])
+        with open(WG.OVERRIDES, "rb") as f:
+            inputs["gloss-overrides.jsonl"] = hashlib.sha256(f.read()).hexdigest()
 
     manifest = {
         "schema": SCHEMA,
@@ -1322,12 +1404,15 @@ def build(src, reg):
                                  "cut_by": H["cut_by"],
                                  **({"source_file": "data/hymn-sources/" + H["source_file"],
                                      "token_fields": TOKEN_FIELDS_UNDRAFTED,
+                                     "wooden_from": WOODEN_PRINTED,
                                      "not_stored": NOT_STORED} if "source_file" in H else {})}
                   for k, H in HYMNS.items()},
         "licence_gate": {"allowed": list(ALLOWED_LICENSES),
                          "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only"},
         "sources": sources,
         "token_fields": TOKEN_FIELDS,
+        **({"gloss": gloss_block([t for t in tokens if t["passage_uid"] in printed_uids], gl)}
+           if printed_uids else {}),
         "perseus": PERSEUS,
         "lemma_spine": {"doc": "pipeline/README-lemma-spine.md",
                         "analyses": "data/lemmas/whitaker-la/hymns.analyses.jsonl",

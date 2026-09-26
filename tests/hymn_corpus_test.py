@@ -202,10 +202,12 @@ check("every batch-hymn clause has an en.plain witness",
       {w["passage_uid"] for w in plains} == {c["uid"] for c in batch_clauses})
 gen_printed = [w["address"] for w in witnesses if w["passage_uid"] in {c["uid"] for c in printed_clauses}
                and w["name"] != "la.1"]
-check("a printed-hymn clause stores only its Latin (no wooden, plain or elegant is invented)",
+check("a printed-hymn clause stores only its Latin (no wooden, plain or elegant witness is stored)",
       not gen_printed, gen_printed[:3])
-check("the manifest says why each printed hymn has no wooden, plain or elegant",
-      all(set(manifest["works"][w].get("not_stored", {})) == {"en.wooden", "en.plain", "en.elegant"}
+check("the manifest says why each printed hymn has no plain or elegant, and how its wooden is made "
+      "(dictionary glosses, at render time)",
+      all(set(manifest["works"][w].get("not_stored", {})) == {"en.plain", "en.elegant"}
+          and "DICTIONARY glosses" in manifest["works"][w].get("wooden_from", "")
           for w in PRINTED_WORKS))
 
 
@@ -237,17 +239,22 @@ missing_f = [t["address"] for t in tokens if any(f not in t for f in TOKEN_FIELD
 check("every token carries all eight fields (null allowed)", not missing_f, missing_f[:3])
 empty = [t["address"] for t in tokens for f in TOKEN_FIELDS if t.get(f) == ""]
 check("no field is an empty string -- absence is null", not empty, empty[:3])
+printed_uids = {c["uid"] for c in printed_clauses}
 no_prov = [t["address"] for t in tokens
            if not all(k in t for k in ("lemma_key", "provenance", "review"))
-           or set(t["provenance"]) != {"lemma", "parsing"}]
-check("every token records where its lemma and parsing came from (D3)", not no_prov, no_prov[:3])
-printed_uids = {c["uid"] for c in printed_clauses}
+           or set(t["provenance"]) != ({"lemma", "parsing", "gloss"} if t["passage_uid"] in printed_uids
+                                       else {"lemma", "parsing"})]
+check("every token records where its lemma and parsing came from (D3), and a printed token its gloss",
+      not no_prov, no_prov[:3])
 check("surface, normalized and search_key are never null",
       all(t[f] for t in tokens for f in ("surface", "normalized", "search_key")))
 check("gloss is never null on a batch hymn (its house draft)",
       all(t["gloss"] for t in tokens if t["passage_uid"] not in printed_uids))
-check("a printed hymn's tokens carry no gloss, plain_form or syntax: there is no draft",
-      all(t["gloss"] is None and t["plain_form"] is None and t["syntax"] is None
+check("a printed hymn's tokens carry no plain_form or syntax (there is no draft); a gloss only from "
+      "Whitaker's dictionary rule or an override row",
+      all(t["plain_form"] is None and t["syntax"] is None
+          and (t["gloss"] is None or t["provenance"]["gloss"]["source"] in ("whitaker-words", "house",
+                                                                             "adam-reviewed"))
           for t in tokens if t["passage_uid"] in printed_uids))
 check("normalized is NFC(surface)",
       all(t["normalized"] == unicodedata.normalize("NFC", t["surface"]) for t in tokens))
@@ -428,6 +435,116 @@ if col:
     check("the review counts add up, and the source is verified only when every row is answered `received`",
           rv["answered"] + rv["open"] == len(diffs)
           and rms["verified"] == (rv["open"] == 0 and rv["britt"] == 0))
+print("\n--- glosses: Whitaker dictionary glosses on the printed hymns (README s.11)")
+WG = load("whitaker_gloss")
+gm = manifest.get("gloss") or {}
+ptoks = [t for t in tokens if t["passage_uid"] in printed_uids]
+lemmas_tab = WG.load_lemmas()
+check("the manifest's gloss block is dictionary, whitaker-words, free-grant, and covers exactly the "
+      "printed hymns", gm.get("kind") == "dictionary" and gm.get("source") == "whitaker-words"
+      and gm.get("license") == "free-grant" and set(gm.get("applies_to", ())) == PRINTED_WORKS)
+check("... and says it is NOT a contextual translation", "NOT a contextual translation" in gm.get("not", ""))
+check("... with every rule id and what it does", [r["id"] for r in gm.get("rules", [])] == list(WG.RULE_ORDER))
+check("the Whitaker source record says it now supplies glosses too",
+      "gloss" in manifest["sources"]["whitaker-words"]["what"])
+redo = [t["address"] for t in ptoks if t["provenance"]["gloss"].get("kind") != "contextual"
+        and WG.gloss_for(t, lemmas_tab) != (t["gloss"], t["provenance"]["gloss"])]
+check("every printed token's gloss is what the rule gives from the committed lemma table (never invented)",
+      not redo, redo[:3])
+# Measured 2026-09-26: 505 printed tokens, 307 with a lemma, 282 glossed (91.9% of those with a
+# lemma, 55.8% of all): pron-case 13, first-sense 269. The 223 without: 198 have no lemma yet (the
+# lemma sheet), 23 have a lemma whose WORDS entries disagree (in, ad, cum, juxta, vel), 1 first
+# sense is no word gloss (sacramentum), 1 entry has no meaning line (memento, a UNIQUES form).
+counted = (gm.get("tokens"), gm.get("tokens_with_lemma"), gm.get("glossed"), gm.get("glossed_of_lemma"))
+check("the gloss block's counts are the tokens'",
+      counted == (len(ptoks), sum(1 for t in ptoks if t["lemma"]), sum(1 for t in ptoks if t["gloss"]),
+                  sum(1 for t in ptoks if t["gloss"] and t["lemma"]))
+      and gm.get("none") == sum(1 for t in ptoks if t["gloss"] is None)
+      == sum(gm.get("none_by_reason", {}).values()), counted)
+check("every null gloss says why, and names no source",
+      all(t["provenance"]["gloss"]["source"] is None and t["provenance"]["gloss"]["why"]
+          for t in ptoks if t["gloss"] is None))
+# Adam's lemma and cut answers move these numbers (a new lemma is a new gloss): pin them as measured
+# only while none is applied to a printed hymn.
+answered = any(t["provenance"]["lemma"]["source"] == "adam-reviewed" for t in ptoks) or any(
+    c["cut"].get("review") == "adam-reviewed" for c in printed_clauses)
+if answered:
+    print("skip  Adam's answers are applied to the printed hymns: the as-measured gloss counts are not pinned")
+else:
+    check("coverage as measured (before Adam's answers): 282 of 505, i.e. 282 of the 307 with a lemma",
+          counted == (505, 307, 282, 282), counted)
+    check("... split by rule: pron-case 13, first-sense 269",
+          gm.get("by_rule") == {"pron-case": 13, "first-sense": 269}, gm.get("by_rule"))
+    check("... and 223 null: 198 no lemma, 23 entries disagree, 1 no word gloss, 1 no meaning line",
+          sorted(gm.get("none_by_reason", {}).values()) == [1, 1, 23, 198], gm.get("none_by_reason"))
+check("a printed token with no lemma has no gloss", all(t["gloss"] is None for t in ptoks if not t["lemma"]))
+notfrom = []
+for t in ptoks:
+    pg = t["provenance"]["gloss"]
+    if pg.get("kind") != "dictionary":
+        continue
+    keys = [t["lemma_key"]] if t["lemma_key"] else t["provenance"]["lemma"]["whitaker"]
+    words = " ".join(WG.meaning(lemmas_tab[k]) or "" for k in keys).replace("_", " ").lower()
+    if not all(re.search(r"(?<![a-z])" + re.escape(w.lower()) + r"(?![a-z])", words)
+               for w in t["gloss"].split("-") if w):
+        notfrom.append((t["surface"], t["gloss"]))
+check("every dictionary gloss is words of its WORDS meaning line", not notfrom, notfrom[:3])
+check("hyphenated: one chunk per Latin word, as the house glosses",
+      all(" " not in t["gloss"] for t in ptoks if t["gloss"]))
+batch_prov = [t["address"] for t in tokens if t["passage_uid"] not in printed_uids and "gloss" in t["provenance"]]
+check("the batch hymns' house glosses are not touched (no gloss provenance added there)", not batch_prov)
+gov = os.path.join(DATA, "gloss-overrides.jsonl")
+check("the gloss override file exists and is read by the build (empty: no house draft invented)",
+      os.path.exists(gov) and WG.load_overrides(gov) == {} and gm["overrides"]["applied"] == 0)
+
+print("\n--- the gloss rule, on fixtures")
+
+
+def row(m):
+    return {"entries": [{"meaning": m}]}
+
+
+def fx(key, m, parse=None, lemma="x"):
+    tok = {"lemma": lemma, "lemma_key": key,
+           "provenance": {"lemma": {}, "parsing": {"whitaker": parse}}}
+    return WG.gloss_for(tok, {key: row(m)})
+
+
+check("first-sense: cut at ';' then ','; a slashed group gives its first member",
+      fx("do, dare  V", "give; dedicate; grant/bestow;")[0] == "give"
+      and fx("facio  V", "make/build/construct; do;")[0] == "make"
+      and fx("jubilatio  N", "wild/loud shouting; whooping;")[0] == "wild-shouting")
+check("first-sense: parentheses and brackets off; a verb's 'to', a noun's article dropped",
+      fx("video  V", "(PASS) seem, look at;")[0] == "seem"
+      and fx("eo  V", "to go, walk;")[0] == "go" and fx("res  N", "a thing; affair;")[0] == "thing"
+      and fx("opus  N", "[opus est => useful] need; work;")[0] == "need")
+check("first-sense: an interjection's '!' separates senses; '_' joins words",
+      fx("ecce  INTERJ", "behold! see! look!;")[0] == "behold"
+      and fx("ceterus  ADJ", "the_other; the_others (pl.).")[0] == "the-other")
+check("first-sense: more than four words is null, with the reason",
+      fx("sacramentum  N", "sum deposited in a civil process, guaranty;")[0] is None
+      and "not a word gloss" in fx("sacramentum  N", "sum deposited in a civil process, guaranty;")[1]["why"])
+check("pron-case: every parse in one slot picks the first English form for it",
+      fx("nos  PRON", "we (pl.), us;", ["PRON 5 3 ABL P C", "PRON 5 3 DAT P C"]) ==
+      ("us", {"source": "whitaker-words", "by": "lemma_key", "rule": "pron-case", "kind": "dictionary"})
+      and fx("nos  PRON", "we (pl.), us;", "PRON 5 3 NOM P C")[0] == "we")
+check("pron-case: parses in two slots fall through to first-sense",
+      fx("nos  PRON", "we (pl.), us;", ["PRON 5 3 ACC P C", "PRON 5 3 NOM P C"]) ==
+      ("we", {"source": "whitaker-words", "by": "lemma_key", "rule": "first-sense", "kind": "dictionary"}))
+same = {"lemma": "in", "lemma_key": None,
+        "provenance": {"lemma": {"whitaker": ["in  PREP  ABL", "in  PREP  ACC"]}, "parsing": {}}}
+two = {"in  PREP  ABL": row("in, on;"), "in  PREP  ACC": row("into;")}
+check("a same-lemma token is glossed only when every entry agrees; else null, naming them",
+      WG.gloss_for(same, two)[0] is None and "ABL -> in; PREP  ACC -> into" in WG.gloss_for(same, two)[1]["why"]
+      and WG.gloss_for(same, {"in  PREP  ABL": row("in, on;"), "in  PREP  ACC": row("in; into;")})[0] == "in")
+check("no lemma, no gloss", WG.gloss_for({"lemma": None, "lemma_key": None, "provenance": {}}, {})[0] is None)
+ov = {"address": "a", "surface": "Lauda", "gloss": "praise", "layer": "house", "draft": True,
+      "drafted_on": "2026-09-26"}
+g, _, pv = WG.apply_override("recommend", None, {"source": "whitaker-words", "rule": "first-sense"}, "Lauda", ov)
+check("an override row replaces the dictionary gloss, keeps it under `was`, and a draft says so",
+      g == "praise" and pv["kind"] == "contextual" and pv["draft"] is True
+      and pv["was"] == {"value": "recommend", "source": "whitaker-words", "rule": "first-sense"})
+
 hop = manifest["sources"]["hopkins-1918"]
 check("Hopkins stays unverified, with the finding recorded (the 1918 Poems does not print it)",
       hop["verified"] is False and "does not print" in hop.get("finding", ""))
