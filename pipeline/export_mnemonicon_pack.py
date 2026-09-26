@@ -90,6 +90,23 @@ HYMNS = {
         "author": "St Thomas Aquinas",
         "witness": "en.singable",
     },
+    # the three printed from Britt 1922 (data/hymn-sources/): Latin and verse
+    # English both from that one PD printing, checked against the scan
+    "lauda-sion": {
+        "short": "Lauda Sion",
+        "author": "St Thomas Aquinas",
+        "witness": "en.singable",
+    },
+    "sacris-solemniis": {
+        "short": "Sacris solemniis",
+        "author": "St Thomas Aquinas",
+        "witness": "en.singable",
+    },
+    "verbum-supernum": {
+        "short": "Verbum supernum",
+        "author": "St Thomas Aquinas",
+        "witness": "en.singable",
+    },
 }
 
 # A short label per source: the `translation` field for English, and the
@@ -99,6 +116,11 @@ LABELS = {
     "hopkins-1918": "Hopkins 1918",
     "caswall-1849-britt-1922": "Caswall 1849 (Britt 1922)",
     "britt-1922-prose": "Britt 1922, literal prose",
+    "britt-1922-latin": "Britt 1922",
+    "henry-britt-1922": "Henry (Britt 1922)",
+    "chambers-cento-britt-1922": "after Chambers (Britt 1922)",
+    "neale-caswall-britt-1922": "Neale and Caswall (Britt 1922)",
+    "britt-1922-prose-corpus-christi": "Britt 1922, literal prose",
 }
 
 PD = "PD"

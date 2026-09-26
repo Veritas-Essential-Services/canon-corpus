@@ -47,7 +47,9 @@ def check(name, cond, detail=""):
 KEYS = {"id", "createdAt", "updatedAt", "title", "source", "category", "translation",
         "text", "notes", "tags", "srs", "history"}
 UUID = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$")
-EXPECT = {"adoro-te": (7, 23), "pange-lingua": (6, 12)}   # (stanzas, clauses)
+EXPECT = {"adoro-te": (7, 23), "pange-lingua": (6, 12),     # (stanzas, clauses)
+          "lauda-sion": (12, 45), "sacris-solemniis": (7, 17), "verbum-supernum": (6, 12)}
+N_PIECES = sum(n for n, _ in EXPECT.values())                # 38
 
 
 def categories():
@@ -184,13 +186,24 @@ for slug, (n_st, n_cl) in EXPECT.items():
     check(f"{slug}: --lines verse keeps ids and words", [p["id"] for p in vs] == [p["id"] for p in pieces]
           and all(a["text"].split() == b["text"].split() for a, b in zip(vs, pieces)))
 
-check("no id is shared between the two hymns", len(all_ids) == sum(n for n, _ in EXPECT.values()))
+check("no id is shared between the hymns", len(all_ids) == N_PIECES)
+for slug in ("lauda-sion", "sacris-solemniis", "verbum-supernum"):
+    pk, used = X.build(slug, data=data)
+    la_src = {witnesses[c + "/la.1"]["source"] for st in passages.values()
+              if st["work"] == f"hymns:{slug}" and st["unit"] == "stanza" for c in st["clauses"]}
+    check(f"{slug}: Latin and English both from Britt 1922, both PD and verified against the scan",
+          la_src == {"britt-1922-latin"} and "Britt 1922" in used["label"]
+          and all(manifest["sources"][k]["license"] == "PD" and manifest["sources"][k]["verified"]
+                  for k in la_src | {used["source"]}))
+    lit, lu = X.build(slug, witness_name="en.literal", data=data)
+    check(f"{slug}: Britt's literal prose (PD) may be chosen instead",
+          lu["source"] == "britt-1922-prose-corpus-christi" and not validate(lit, cats))
 
 print("\n## importing, as app.js does it")
 packs = [json.load(open(os.path.join(OUT, X.filename(s, "stanza")), encoding="utf-8")) for s in EXPECT]
 bank = [{"id": "11111111-1111-4111-8111-111111111111", "title": "A card's own", "source": "", "text": "x"}]
 added = sum(import_into(bank, p) for p in copy.deepcopy(packs))
-check("a first import adds all 13", added == 13, added)
+check(f"a first import adds all {N_PIECES}", added == N_PIECES, added)
 check("a second import adds nothing", sum(import_into(bank, p) for p in copy.deepcopy(packs)) == 0)
 regen = [X.build(s, data=X.load())[0] for s in EXPECT]
 check("a regenerated file adds nothing", sum(import_into(bank, p) for p in regen) == 0)

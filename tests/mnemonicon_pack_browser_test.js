@@ -19,7 +19,8 @@ const path = require('path');
 
 const REPO = path.join(__dirname, '..');
 const PACKS = path.join(REPO, 'exports', 'mnemonicon');
-const FILES = ['adoro-te.json', 'pange-lingua.json'].map((f) => path.join(PACKS, f));
+const FILES = ['adoro-te.json', 'pange-lingua.json', 'lauda-sion.json', 'sacris-solemniis.json',
+  'verbum-supernum.json'].map((f) => path.join(PACKS, f));
 const MNEMONICON = process.env.MNEMONICON_DIR || path.join(REPO, '..', 'The Mnemonicon Website');
 
 function findPlaywright() {
@@ -109,17 +110,17 @@ async function main() {
     let d = await device(browser, be);
     let msg = await importPacks(d, FILES);
     let got = await pieces(d.page);
-    ok(got.length === packed.length, `both packs land: ${packed.length} pieces`, got.length);
-    ok(/13 pieces added\./.test(msg), '…and the message counts them', msg);
+    ok(got.length === packed.length, `all ${FILES.length} packs land: ${packed.length} pieces`, got.length);
+    ok(msg.includes(`${packed.length} pieces added.`), '…and the message counts them', msg);
     ok(got.every((p) => byId.has(p.id)) && new Set(got.map((p) => p.id)).size === got.length, 'each piece appears once, under its own id');
     ok(got.every((p) => { const q = byId.get(p.id); return q && p.text === q.text && p.title === q.title && p.notes === q.notes && p.translation === q.translation; }),
       'text, title, notes and translation arrive unchanged');
     ok(await d.page.locator('#piece-list .p-title').count() === packed.length, 'the Bank lists all of them');
     msg = await importPacks(d, FILES);
     ok((await pieces(d.page)).length === packed.length, 'a second import adds nothing');
-    ok(/0 pieces added · 13 already in the bank/.test(msg), '…and says so', msg);
+    ok(new RegExp(`0 pieces added · ${packed.length} already in the bank`).test(msg), '…and says so', msg);
     await d.page.reload(); await d.page.waitForTimeout(150);
-    ok((await pieces(d.page)).length === packed.length, 'after a reload the bank still holds exactly 13');
+    ok((await pieces(d.page)).length === packed.length, `after a reload the bank still holds exactly ${packed.length}`);
 
     // A piece in use: the detail page, and line-by-line recitation, one line per clause.
     const first = packed[0];
@@ -142,7 +143,7 @@ async function main() {
     await importPacks(d, FILES);
     await settle(d.page);
     const rows = be2.db.pieces.filter((r) => !r.deleted_at);
-    ok(rows.length === packed.length && rows.every((r) => byId.has(r.id)), 'all 13 are in the cloud under the pack’s ids', rows.length);
+    ok(rows.length === packed.length && rows.every((r) => byId.has(r.id)), `all ${packed.length} are in the cloud under the pack’s ids`, rows.length);
     ok(rows.every((r) => r.category === 'Song' && r.tags.includes('latin')), '…with category and tags intact');
     msg = await importPacks(d, FILES);
     await settle(d.page);
