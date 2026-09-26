@@ -51,6 +51,8 @@ def draft_features(parsing):
     """The features the draft's free-text parsing commits to. Only what it
     says: a feature it does not mention is not constrained."""
     s = (parsing or "").lower()
+    # "conj + subj" says what the conjunction governs, not the word's mood
+    s = re.sub(r"\+ subj\b", "", s)
     words = re.findall(r"[a-z]+|\d", s)
     f = {}
 
@@ -84,6 +86,8 @@ def draft_features(parsing):
         n, what = int(m.group(1)), m.group(2)
         # Whitaker files the 4th conjugation as 3 4.
         put("decl", (3, 4) if (what == "conj" and n == 4) else (n, None))
+    if re.search(r"\bindecl\b", s):
+        put("decl", (9, None))
     if "gerundive" in s:
         put("tense", "FUT")
         put("voice", "PASSIVE")
@@ -157,7 +161,7 @@ def render(parse, deponent=False, enclitic=None):
     p = parse
     pos = p["pos"]
     gcn = " ".join(_ab(x) for x in (p.get("gender"), p.get("case"), p.get("number"))
-                   if x not in (None, "X"))
+                   if x not in (None, "X", "C"))
     if pos == "N":
         out = " ".join(_ab(x) for x in (p["case"], p["number"]) if x != "X")
         w = p["decl"][0]
@@ -205,6 +209,42 @@ def render(parse, deponent=False, enclitic=None):
     return out
 
 
+def lemma_hints(draft_lemma):
+    """What the draft's lemma says beyond its headword: a part of speech (a
+    gender tag means a noun; -a/-um or -e endings an adjective) and its other
+    principal parts. Used only to choose among Whitaker entries that share
+    the draft's headword -- never to overrule Whitaker."""
+    s = draft_lemma or ""
+    pos = None
+    if re.search(r"(^|\s)[mfn]\.(\s|$)", s):
+        pos = {"N"}
+    elif re.search(r"-a,\s*-um|,\s*-e$|-ae,\s*-a", s):
+        pos = {"ADJ"}
+    parts = [fold(x.strip()).lstrip("-") for x in s.split(",")[1:]]
+    parts = [re.sub(r"[^a-z]", "", x.split()[0]) for x in parts if x.split()]
+    return pos, [x for x in parts if len(x) >= 2]
+
+
+def _narrow(cands, draft_lemma):
+    """Soft filters, in order; each applies only if it leaves someone."""
+    pos, parts = lemma_hints(draft_lemma)
+    if len({a["key"] for a in cands}) > 1 and pos:
+        c = [a for a in cands if a["pos"] in pos]
+        cands = c or cands
+    if len({a["key"] for a in cands}) > 1 and parts:
+        def score(a):
+            have = re.split(r"[,\s]+", fold(a["lemma"] or ""))
+            return sum(1 for p in parts if any(h.endswith(p) for h in have))
+        best = max(score(a) for a in cands)
+        if best:
+            cands = [a for a in cands if score(a) == best]
+    if len({a["key"] for a in cands}) > 1 and draft_lemma:
+        lower = draft_lemma.strip()[:1].islower()
+        c = [a for a in cands if (a["lemma"] or a["key"])[:1].islower() == lower]
+        cands = c or cands
+    return cands
+
+
 def _parse_id(a):
     return (a["whitaker"], a.get("enclitic"))
 
@@ -221,8 +261,6 @@ def resolve(draft_lemma, draft_parsing, analyses):
     H = [a for a in A if a["headword"] == hw]
     C = [a for a in H if consistent(a["parse"], feats)]
     keys_A = sorted({a["key"] for a in A})
-    keys_H = sorted({a["key"] for a in H})
-    keys_C = sorted({a["key"] for a in C})
 
     lp = {"source": SPINE_SOURCE, "draft": draft_lemma, "candidates": len(keys_A)}
     pp = {"source": SPINE_SOURCE, "draft": draft_parsing}
@@ -239,7 +277,7 @@ def resolve(draft_lemma, draft_parsing, analyses):
         pp.update(status="unchecked", source=DRAFT_SOURCE)
         review.append("lemma: Whitaker's headword differs from the draft's")
     else:
-        pick = keys_C if keys_C else keys_H
+        pick = sorted({a["key"] for a in _narrow(C if C else H, draft_lemma)})
         if len(pick) != 1:
             lp.update(status="ambiguous", source=DRAFT_SOURCE, whitaker=pick)
             pp.update(status="unchecked", source=DRAFT_SOURCE)
@@ -253,7 +291,11 @@ def resolve(draft_lemma, draft_parsing, analyses):
             parses = sorted({_parse_id(a) for a in mine})
             ok = sorted({_parse_id(a) for a in mine if consistent(a["parse"], feats)})
             pp["whitaker_parses"] = len(parses)
-            if len(parses) == 1 and ok:
+            # Whitaker's parse replaces the draft only when Whitaker gives one
+            # and the draft committed to one value per feature it names
+            # ("voc sg (= nom)" names two cases: the draft stays).
+            single = all(len(v) == 1 for k, v in feats.items() if k != "pos")
+            if len(parses) == 1 and ok and single:
                 a = mine[0]
                 dep = key.endswith(" DEP")
                 parsing = render(a["parse"], deponent=dep, enclitic=a.get("enclitic"))
