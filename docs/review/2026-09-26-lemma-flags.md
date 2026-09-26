@@ -10,9 +10,12 @@ WORDS offers several entries the draft cannot choose between, or when WORDS
 has nothing. Until you answer, the **draft stands** on every flagged token.
 Nothing here was overwritten.
 
-**How to answer.** Write in the *Adam* column: `ok` to take the
-recommendation, `keep` to keep the draft as it is, or your own answer. I turn
-each answer into one row of `data/lemmas/adam-reviewed.jsonl` (README s.8).
+**How to answer.** Write in the *Adam* column: `ok` (or ✓) to take the
+recommendation, `keep` to keep the draft as it is, `draft→` to leave it for
+later, or your own answer. Then
+`python pipeline/review.py apply docs/review/2026-09-26-lemma-flags.md` turns
+each answer into one row of `data/lemmas/adam-reviewed.jsonl` (README s.8,
+s.8b), and stops on any answer it would have to guess at, naming the row.
 The build then applies it with provenance `adam-reviewed`, and the draft and
 the value it replaced stay on record. A row can set any of these:
 
@@ -92,8 +95,12 @@ Row 5, keeping the draft's parsing:
  "reviewed_on": "2026-09-27", "note": "et = etiam"}
 ```
 
+Your own answer can be a lemma as you want it written, one of Whitaker's
+keys written out in full (the *Whitaker* column shortens some with …), or fields: `lemma_key: …; lemma: …;
+parsing: …; note: …`. `as row 1` repeats row 1's answer.
+
 The build refuses a `lemma_key` that is not one of Whitaker's analyses of
 that form. It also refuses a row whose surface no longer matches its token.
-Then run `python pipeline/build_hymn_corpus.py` and
-`python tests/lemma_spine_test.py`, and commit `data/lemmas/adam-reviewed.jsonl`
-with `data/hymns/`.
+`review.py apply` checks both before it writes, rebuilds the hymns and runs
+`build_hymn_corpus.py --check`. Then run `python tests/lemma_spine_test.py`,
+and commit `data/lemmas/adam-reviewed.jsonl` with `data/hymns/`.

@@ -25,11 +25,14 @@ s.12 and s.14. Until you review them, the reader badges every column these reach
 
 ## How to answer
 
-Write in the **Adam:** column: ✓ to accept, or your gloss / order. Then, per row:
-drop `draft` and `drafted_on`, add `"reviewed_on": "YYYY-MM-DD"` (and set
-`"layer": "adam-reviewed"` for a gloss that is now yours), and rebuild with
-`python3 pipeline/build_nt_corpus.py`. A row you reject can simply be deleted:
-the dictionary gloss comes back.
+Write in the **Adam:** column: ✓ to accept, or your gloss / order (`draft→` leaves
+a row a draft; `gloss: …; plain_form: …` sets both). Then
+`python3 pipeline/review.py apply docs/review/2026-09-26-john1-drafts.md` does, per
+row: drop `draft` and `drafted_on`, add `"reviewed_on"` (and `"layer":
+"adam-reviewed"` for a gloss that is now yours), and rebuild with
+`python3 pipeline/build_nt_corpus.py`. It stops on any answer it would have to
+guess at, naming the row (README-nt-jsonl.md s.15). A row you reject can simply be
+deleted: the dictionary gloss comes back.
 
 ## Four choices left for you
 
