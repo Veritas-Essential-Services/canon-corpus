@@ -43,6 +43,17 @@ and `docs/review/2026-09-26-john1-drafts.md` (137 house glosses and 18 plain lin
 `draft→` and a value are explained in `pipeline/README-lemma-spine.md` s.8b and
 `pipeline/README-nt-jsonl.md` s.15. Anything ambiguous stops the run and names the row.
 
+## Adam's maxims: re-mint to house uids (prepared, not run)
+
+    python3 pipeline/remint_maxims.py            # dry run (the default): writes nothing
+    python3 pipeline/remint_maxims.py --write    # mint maxims:AK-00n in the registry; write the Hoard records
+    python3 pipeline/remint_maxims.py --check    # the written records match the source and the registry
+
+`data/maxims/maxims-original.jsonl` stays as filed. `--write` adds
+`data/maxims/maxims-original.hoard.jsonl`: one `passage/maxim` Hoard record per
+maxim, `ak-maxim-000n` kept in `legacy[]`. That file is what the Florilegium's
+Propria imports.
+
 ## Latin hymns (JSONL)
 
 `data/hymns/` holds *Adoro te* and *Pange lingua* as four flat JSONL files
