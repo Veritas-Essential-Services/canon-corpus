@@ -288,6 +288,23 @@ single), 30 respellings in all. WORDS without the rules found the right
 lemma for 3 of them. With the rules it finds 22. The test measures this
 figure.
 
+## 5b. Measured on a real text: the Clementine Vulgate
+
+`pipeline/benchmark_whitaker.py` runs the analyzer over the whole Clementine
+Vulgate: 612,029 running words, a public-domain text pinned by sha256 and kept
+gitignored. It measures four states of the port. The summary is
+`docs/review/2026-09-26-benchmark.md`.
+
+| | before the rules | with every rule and fix |
+|---|---|---|
+| forms unknown | 11.10% | 6.74% (plus 0.70% two-words guess only) |
+| tokens unknown | 3.98% | 2.60% (plus 0.26% guess only) |
+
+Nearly all that is left is proper names. Only 0.08% of the text is an unknown
+that is ever written lower-case. One caution: WORDS's rules misread many names
+(*Absalom* as *abs-* + a word), because the port tries tricks on capitalised
+words and WORDS does not.
+
 ## 6. Not here
 
 - **ADR 0012's lemma bridge (archaic English: shew→show, holpen→help)** is not

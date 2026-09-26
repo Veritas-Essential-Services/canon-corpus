@@ -80,7 +80,8 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)
     python3 pipeline/build_lemma_spine.py --check  # lemma files byte-identical
     python3 tests/lemma_spine_test.py        # the Latin lemma spine
-    python3 tests/whitaker_tricks_test.py    # WORDS syncope/slury/fixes/tricks/roman/tackons, rule by rule
+    python3 tests/whitaker_tricks_test.py    # WORDS syncope/slury/fixes/tricks/roman/tackons/packons, rule by rule
+    python3 pipeline/benchmark_whitaker.py --fetch  # WORDS vs the Clementine Vulgate (text gitignored)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
