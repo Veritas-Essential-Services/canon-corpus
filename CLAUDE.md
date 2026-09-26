@@ -75,6 +75,8 @@ The living truth for project state is the Obsidian vault:
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
+    python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
+    python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -83,6 +85,10 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
+  witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
+  truth). One row per CLAUSE, joined by uid. Schema:
+  pipeline/README-hymn-jsonl.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
