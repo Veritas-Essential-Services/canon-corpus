@@ -50,6 +50,7 @@ def load(name):
 
 U = load("wh_uid")
 B = load("build_nt_corpus")
+G = B.G
 KJV = load("build_witnesses")
 
 PASS = 0
@@ -72,7 +73,10 @@ def jsonl(name):
 
 # Measured 2026-09-26 from RP2018 (byztxt v3.3.2). Not estimated.
 EXPECTED = {"verses": 18, "tokens": 253, "witnesses": 18, "alignments": 18,
-            "distinct_lemmas": 83, "finite_verbs": 41, "flagged": 1}
+            "distinct_lemmas": 83, "finite_verbs": 41, "flagged": 1,
+            # Strong's dictionary glosses (strongs_gloss.py), measured 2026-09-26
+            "glossed": 231,
+            "gloss_by_rule": {"kjv-form": 49, "kjv-sole": 24, "kjv-in-def": 116, "def-head": 42}}
 TOKEN_FIELDS = ("surface", "normalized", "search_key", "translit",
                 "lemma", "parsing", "gloss", "plain_form")
 
@@ -200,8 +204,8 @@ check("no field is an empty string -- absence is null", not empty, empty[:3])
 check("surface, normalized, search_key, translit, lemma and parsing are never null here",
       all(t[f] for t in tokens for f in ("surface", "normalized", "search_key", "translit",
                                          "lemma", "parsing")))
-check("gloss and plain_form are null: no PD source gives them",
-      all(t["gloss"] is None and t["plain_form"] is None for t in tokens))
+check("plain_form is null: only an override row sets it, and there are none",
+      all(t["plain_form"] is None for t in tokens) and manifest["gloss"]["overrides"]["applied"] == 0)
 check("normalized is NFC(surface)",
       all(t["normalized"] == unicodedata.normalize("NFC", t["surface"]) for t in tokens))
 check("search_key is the fold of normalized", all(t["search_key"] == B.search_key(t["normalized"]) for t in tokens))
@@ -214,8 +218,8 @@ badcode = [t["parsing"] for t in tokens if not B.PARSING_RE.match(t["parsing"])]
 check("every parsing is a well-formed Robinson code", not badcode, badcode[:5])
 alts = [a for t in tokens for a in t["provenance"]["parsing"].get("alternatives", [])]
 check("every alternative parsing is a well-formed Robinson code", all(B.PARSING_RE.match(a) for a in alts))
-check("every token records where its lemma and parsing came from",
-      all(set(t["provenance"]) == {"lemma", "parsing"}
+check("every token records where its lemma, parsing and gloss came from",
+      all(set(t["provenance"]) == {"lemma", "parsing", "gloss"}
           and t["provenance"]["lemma"]["source"] == "strongs-1890"
           and t["provenance"]["parsing"]["source"] == "rp2018-byztxt" for t in tokens))
 flagged = [t for t in tokens if t["review"]]
@@ -241,6 +245,115 @@ check("token positions run 1..n in every verse", not bad_seq, bad_seq[:3])
 bad_text = [p["citation"] for p in passages
             if B.tokenize(wmap[U.address(p["uid"], B.WITNESS)]["text"]) != [t["surface"] for t in toks_of[p["uid"]]]]
 check("every verse's Greek re-tokenizes to exactly its tokens", not bad_text, bad_text[:3])
+
+print("\n--- glosses: Strong's dictionary glosses, by rule, never invented")
+gm = manifest["gloss"]
+with_g = [t for t in tokens if t["gloss"] is not None]
+without = [t for t in tokens if t["gloss"] is None]
+print(f"      coverage {len(with_g)}/{len(tokens)} ({100 * len(with_g) / len(tokens):.1f}%), "
+      f"by rule {gm['by_rule']}, none {len(without)}")
+check(f"gloss coverage is the measured {EXPECTED['glossed']} of {EXPECTED['tokens']}",
+      len(with_g) == EXPECTED["glossed"] and manifest["counts"]["tokens_with_gloss"] == len(with_g)
+      and manifest["counts"]["tokens_without_gloss"] == len(without), (len(with_g), len(without)))
+check("... split by rule as measured", gm["by_rule"] == EXPECTED["gloss_by_rule"], gm["by_rule"])
+check("every gloss says strongs-1890, dictionary, and a known rule id",
+      all(t["provenance"]["gloss"]["source"] == G.SOURCE and t["provenance"]["gloss"]["kind"] == "dictionary"
+          and t["provenance"]["gloss"]["rule"] in G.RULE_ORDER for t in with_g))
+check("every null gloss is counted with its reason, and names no source or rule",
+      all(t["provenance"]["gloss"]["source"] is None and t["provenance"]["gloss"]["rule"] is None
+          and t["provenance"]["gloss"]["why"] for t in without)
+      and gm["none"] == len(without)
+      and gm["none_by_reason"] == {w: sum(1 for t in without if t["provenance"]["gloss"]["why"] == w)
+                                   for w in {t["provenance"]["gloss"]["why"] for t in without}})
+check("the manifest's by_rule counts are the files'",
+      all(n == sum(1 for t in with_g if t["provenance"]["gloss"]["rule"] == r) for r, n in gm["by_rule"].items()))
+check("the manifest says these are dictionary glosses, NOT a contextual translation",
+      gm["kind"] == "dictionary" and "NOT a contextual translation" in gm["not"]
+      and [r["id"] for r in gm["rules"]] == list(G.RULE_ORDER)
+      and "dictionary" in manifest["token_fields"]["gloss"].lower())
+consistent = {}
+for t in with_g:
+    consistent.setdefault((t["lemma_key"], t["parsing"]), set()).add(t["gloss"])
+check("deterministic: one Strong's number and parsing, one gloss, in every verse",
+      all(len(v) == 1 for v in consistent.values()),
+      [k for k, v in consistent.items() if len(v) > 1][:3])
+check("no gloss is an empty string or carries markup",
+      all(t["gloss"].strip() == t["gloss"] and t["gloss"] and not re.search(r"[<>()\[\]:]", t["gloss"])
+          for t in with_g))
+check("the override file exists, is empty today, and loads as no overrides",
+      os.path.exists(G.OVERRIDES) and G.load_overrides() == {}
+      and gm["overrides"]["file"] == "data/nt/gloss-overrides.jsonl"
+      and gm["overrides"]["layers"] == ["adam-reviewed", "house"])
+
+print("\n--- the gloss rule, on fixtures (invented entries, not Strong's text)")
+E = G.Entry
+ent = E(1, "from G2; something said; by implication, a word", ":--account, cause, word.")
+check("the definition picks among the alphabetised KJV renderings (word, not account)",
+      G.gloss_for("N-NSM", ent) == ("word", {"source": G.SOURCE, "by": "lemma_key",
+                                              "rule": "kjv-in-def", "kind": "dictionary"}))
+check("X and + renderings are skipped; one left is kjv-sole",
+      G.gloss_for("N-NSM", E(2, "x", ":--X exceeding, + at all, lamp."))[0] == "lamp"
+      and G.gloss_for("N-NSM", E(2, "x", ":--X exceeding, + at all, lamp."))[1]["rule"] == "kjv-sole")
+check("a noun takes Strong's noun variant (dark(-ness) -> darkness)",
+      G.gloss_for("N-NSF", E(3, "dimness", ":--dark(-ness)."))[0] == "darkness"
+      and G.gloss_for("A-NSF", E(3, "dimness", ":--dark(-ness)."))[0] == "dark")
+check("no rendering in the definition: a noun takes the definition head, derivation set aside",
+      G.gloss_for("N-NSM", E(4, "from G5; (properly) a commencement, or chief", ":--beginning, rule."))
+      == ("commencement", {"source": G.SOURCE, "by": "lemma_key", "rule": "def-head", "kind": "dictionary"}))
+check("... a verb loses its leading 'to'",
+      G.gloss_for("V-PAI-3S", E(5, "a primary verb; to procreate", ":--bear, beget."))[0] == "procreate")
+check("... a function word takes nothing (null, with the reason)",
+      G.gloss_for("CONJ", E(6, "properly, other things", ":--and, but."))[0] is None
+      and "function word" in G.gloss_for("CONJ", E(6, "properly, other things", ":--and, but."))[1]["why"])
+check("a two-letter rendering counts only at the head of a clause ('in front of' is not 'of')",
+      G.gloss_for("PREP", E(7, "in front of", ":--before, of."))[0] is None
+      and G.gloss_for("PREP", E(8, '"in," at', ":--at, in."))[0] == "in")
+pr = E(9, "the reflexive pronoun self", ":--her, it(-self), them, they.")
+check("pronouns agree in person, number, gender and case, or stay null",
+      G.gloss_for("P-ASF", pr)[0] == "her" and G.gloss_for("P-ASN", pr)[0] == "it"
+      and G.gloss_for("P-DPM", pr)[0] == "them" and G.gloss_for("P-NPM", pr)[0] == "they"
+      and G.gloss_for("P-GSM", pr)[0] is None)
+check("first-person forms read the person digit (P-1GS -> me, P-1DP -> none)",
+      G.gloss_for("P-1GS", E(10, "", ":--I, me."))[0] == "me"
+      and G.gloss_for("P-1NS", E(10, "", ":--I, me."))[0] == "I"
+      and G.gloss_for("P-1DP", E(10, "", ":--I, me."))[0] is None)
+check("the article is 'the' in every case", all(
+    G.gloss_for(c, E(11, "the", ":--the, this, that, one, he, she, it, etc."))[0] == "the"
+    for c in ("T-NSM", "T-GPM", "T-DSF", "T-ASN")))
+check("no entry: null, never a guess", G.gloss_for("N-NSM", None)[0] is None)
+check("the same inputs give the same answer (a pure function)",
+      G.gloss_for("N-NSM", ent) == G.gloss_for("N-NSM", ent))
+ov_tmp = tempfile.mkdtemp()
+try:
+    def bad(rows):
+        p = os.path.join(ov_tmp, "o.jsonl")
+        with open(p, "w", encoding="utf-8") as f:
+            f.write("".join(json.dumps(r) + "\n" for r in rows))
+        try:
+            G.load_overrides(p)
+            return False
+        except ValueError:
+            return True
+    row = {"address": "wh-AGJ6YAF47Q/grc.byz.t05", "surface": "λόγος", "gloss": "Word",
+           "layer": "adam-reviewed", "reviewed_on": "2026-09-27"}
+    check("an override row loads", not bad([row]))
+    check("a malformed override row is a hard stop (unknown layer, no date, twice, empty gloss)",
+          bad([dict(row, layer="guess")]) and bad([{k: v for k, v in row.items() if k != "reviewed_on"}])
+          and bad([row, row]) and bad([dict(row, gloss=" ")]) and bad([dict(row, lemma="x")]))
+    g, pf, prov = G.apply_override("something said", None,
+                                   {"source": G.SOURCE, "by": "lemma_key", "rule": "def-head",
+                                    "kind": "dictionary"}, "λόγος", row)
+    check("an override replaces the gloss and keeps the dictionary one under `was`",
+          g == "Word" and pf is None and prov["source"] == "adam-reviewed" and prov["kind"] == "contextual"
+          and prov["was"]["value"] == "something said" and prov["was"]["rule"] == "def-head")
+    try:
+        G.apply_override("x", None, {}, "ὁ", row)
+        wrong = False
+    except ValueError:
+        wrong = True
+    check("... and refuses a row whose surface is not the token's", wrong)
+finally:
+    shutil.rmtree(ov_tmp, ignore_errors=True)
 
 print("\n--- alignments")
 bad_al = []
@@ -313,6 +426,60 @@ else:
           all(t["lemma"] == heads[int(t["lemma_key"][1:])] for t in tokens))
 
     x = open(B._path("strongs", B.STRONGS_XML), encoding="utf-8").read()
+    entries = G.load_entries(x)
+    check("Strong's XML reads as 5,624 entries", len(entries) == 5624, len(entries))
+    regloss = [t["address"] for t in tokens
+               if G.gloss_for(t["parsing"], entries.get(int(t["lemma_key"][1:])))
+               != (t["gloss"], t["provenance"]["gloss"])]
+    check("every token's gloss and provenance re-derive from Strong's by the rule", not regloss, regloss[:3])
+    invented = []
+    for t in with_g:
+        en = entries[int(t["lemma_key"][1:])]
+        rule, g = t["provenance"]["gloss"]["rule"], t["gloss"]
+        if rule == "def-head":
+            ok = g.lower() in en.definition.lower().replace('"', "")
+        else:
+            ok = any(g == b or g in v for b, v in G.usable(en))
+        if not ok:
+            invented.append((t["address"], rule))
+    check("never invented: a KJV-rule gloss is one of the entry's usable KJV renderings, "
+          "a def-head gloss is words of Strong's definition", not invented, invented[:3])
+
+    # A real override row, through the real build, into a temp registry copy.
+    tmp = tempfile.mkdtemp()
+    saved = G.OVERRIDES
+    try:
+        copy = os.path.join(tmp, "r.json")
+        shutil.copy2(REGISTRY, copy)
+        t5 = next(t for t in tokens if t["lemma_key"] == "G3056")
+        G.OVERRIDES = os.path.join(tmp, "o.jsonl")
+        with open(G.OVERRIDES, "w", encoding="utf-8") as f:
+            f.write(json.dumps({"address": t5["address"], "surface": t5["surface"], "gloss": "Word",
+                                "layer": "house", "reviewed_on": "2026-09-26",
+                                "note": "test row"}, ensure_ascii=False) + "\n")
+        d2, m2 = B.build(U.WhUidRegistry(copy, frozen=True))
+        t5b = next(t for t in d2["tokens"] if t["address"] == t5["address"])
+        others = [t for t in d2["tokens"] if t["address"] != t5["address"]]
+        check("an override row reaches its token through the build, the dictionary gloss kept",
+              t5b["gloss"] == "Word" and t5b["provenance"]["gloss"]["source"] == "house"
+              and t5b["provenance"]["gloss"]["was"]["value"] == t5["gloss"]
+              and others == [t for t in tokens if t["address"] != t5["address"]])
+        check("... and the manifest declares the layer (licence own) and the file's checksum",
+              m2["sources"].get("house", {}).get("license") == "own"
+              and "gloss-overrides.jsonl" in m2["inputs_sha256"]
+              and m2["gloss"]["overrides"]["applied"] == 1 and m2["gloss"]["by_override"]["house"] == 1)
+        with open(G.OVERRIDES, "w", encoding="utf-8") as f:
+            f.write(json.dumps({"address": t5["address"][:-2] + "99", "surface": "x", "gloss": "y",
+                                "layer": "house", "reviewed_on": "2026-09-26"}) + "\n")
+        try:
+            B.build(U.WhUidRegistry(copy, frozen=True))
+            stopped = False
+        except SystemExit:
+            stopped = True
+        check("... and a row for a token that does not exist stops the build", stopped)
+    finally:
+        G.OVERRIDES = saved
+        shutil.rmtree(tmp, ignore_errors=True)
     pairs = re.findall(r'<entry strongs="\d+">\s*<strongs>\d+</strongs>\s*<greek BETA="[^"]*" '
                        r'unicode="([^"]*)" translit="([^"]*)"', x)
 

@@ -28,6 +28,12 @@ THE SOURCE, AND WHY IT PASSES THE HOUSE RULE (ADR 0001, launch plan D4)
     Robinson assigns each word. That file is byte-identical to the one this
     repo already ingests as `strongs-greek` (same sha256).
 
+    Glosses come from the same Strong's entry by a fixed rule
+    (strongs_gloss.py; README s.12): a DICTIONARY gloss, not a contextual
+    translation. Where no rule fires the gloss is null and counted. A later
+    contextual layer (data/nt/gloss-overrides.jsonl, `adam-reviewed` or
+    `house`) replaces it, the dictionary value kept under `was`.
+
     NOT in these files, by rule: MorphGNT/SBLGNT (morphology CC BY-SA 3.0;
     the SBLGNT text CC BY 4.0, which waits on ADR 0019) and Perseus (CC
     BY-SA 4.0, a separate layer by CTS URN). Named in the manifest as future
@@ -67,6 +73,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import wh_uid as U  # noqa: E402
+import strongs_gloss as G  # noqa: E402
 
 UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
 OUT = os.path.join(ROOT, "data", "nt")
@@ -168,7 +175,8 @@ SOURCES = {
                  "Accents and breathings are the converter's and are not re-checked."),
     },
     "strongs-1890": {
-        "what": "lemma: the Strong's headword for Robinson's Strong's number",
+        "what": ("lemma: the Strong's headword for Robinson's Strong's number; gloss: a "
+                 "dictionary gloss from the same entry by a fixed rule (README s.12)"),
         "edition": ("James Strong, Dictionary of the Greek Testament (1890), XML by Ulrik "
                     "Petersen (2006), openscriptures/strongs commit " + STRONGS_COMMIT[:7]),
         "license": "PD",
@@ -186,6 +194,46 @@ SOURCES = {
     },
 }
 ALLOWED_LICENSES = ("PD", "own")
+
+# Declared in the manifest only once an override row is applied (none yet).
+OVERRIDE_SOURCES = {
+    layer: {
+        "what": f"token gloss and/or plain_form: the {layer} layer over the dictionary gloss",
+        "edition": "data/nt/gloss-overrides.jsonl (pipeline/README-nt-jsonl.md s.12)",
+        "license": "own",
+        "license_basis": [{"where": "data/nt/gloss-overrides.jsonl",
+                           "says": "house work (Adam's review or the house draft), licence own"}],
+        "source_url": "data/nt/gloss-overrides.jsonl",
+        "verified": True,
+        "verified_on": BUILT_ON,
+    } for layer in G.OVERRIDE_LAYERS}
+
+# What the reader's KJV column shows beside the Greek. Not an input to these
+# files (the alignment only names its address); recorded here so its rights
+# travel with the facing witness. Rights review 2026-09-26
+# (wordhoard/docs/research/2026-09-26-rights-review.md), row 6 and s.6.
+FACING_WITNESS = {
+    "name": FACING,
+    "what": "the King James Version (1769 text), the verse under the same uid",
+    "file": ("data/books/kjv.witnesses.json (gitignored; rebuilt by structure_texts.py then "
+             "build_witnesses.py from data/corpus/kjv_bible.txt, Project Gutenberg)"),
+    "license": "PD",
+    "license_basis": [
+        {"where": "wordhoard/docs/research/2026-09-26-rights-review.md, Bible editions table",
+         "says": "KJV (1769): Public domain outside the UK (UK: see s.6)"},
+        {"where": "wordhoard/docs/research/2026-09-26-rights-review.md s.6",
+         "says": ("In the UK the Authorised Version is under the royal prerogative (letters "
+                  "patent), preserved by CDPA 1988 s.171(1)(b); Cambridge University Press, the "
+                  "Crown's patentee, permits up to 500 verses for liturgical and non-commercial "
+                  "educational use, with its acknowledgement.")},
+    ],
+    "rights_note": "Crown patent: KJV print not for UK",
+    "scope": ("No effect on the US site, the web rooms or household printing. A sold print "
+              "product, or any copy shipped into the UK, carrying this text needs Cambridge's "
+              "permission or licence (rights review s.6; UK print is out of scope for now)."),
+    "translates": ("the Textus Receptus, not the Byzantine textform: the column is a second "
+                   "witness to the verse, not a translation of the Greek beside it"),
+}
 
 # Enrichment that may NOT be merged into these files. Recorded so nobody has
 # to re-derive why it is absent.
@@ -221,8 +269,10 @@ TOKEN_FIELDS = {
     "lemma": "strongs-1890: the headword for lemma_key; null where Strong's has none",
     "lemma_key": "rp2018-byztxt: Robinson's Strong's number, as G<n>",
     "parsing": "rp2018-byztxt: Robinson's code, verbatim; the first where he gives two (see provenance)",
-    "gloss": "null: no public-domain contextual gloss source; house glosses are future own work",
-    "plain_form": "null: follows gloss",
+    "gloss": ("strongs-1890: a DICTIONARY gloss for lemma_key by the rule in provenance.gloss.rule "
+              "(README s.12), not a contextual translation; null where no rule fires. An override "
+              "row (gloss-overrides.jsonl) replaces it, keeping it under provenance.gloss.was"),
+    "plain_form": "null: set only by an override row (a dictionary gloss has no prose form)",
 }
 
 # ---------------------------------------------------------------------------
@@ -554,6 +604,12 @@ def build(reg):
     b_ccat = read_beta(_path("byz", f"source/CCAT/{num}_{stem}.TXT"), ":")
     b_bp5 = read_beta(_path("byz", f"source/Strongs/{num}_{stem}.BP5"), ".")
     heads = load_strongs()
+    entries = G.load_entries(open(_path("strongs", STRONGS_XML), encoding="utf-8").read())
+    try:
+        overrides = G.load_overrides()
+    except ValueError as e:
+        _stop(f"gloss overrides: {e}")
+    used_ov = set()
 
     passages, witnesses, tokens, alignments = [], [], [], []
     apparatus = {}
@@ -607,17 +663,28 @@ def build(reg):
             if head is None:
                 review.append(f"Strong's has no entry G{strongs}")
             norm = normalized(surface)
+            address = U.address(uid, f"{WITNESS}.t{pos:02d}")
+            gloss, prov_gloss = G.gloss_for(code, entries.get(strongs))
+            plain_form = None
+            if address in overrides:
+                try:
+                    gloss, plain_form, prov_gloss = G.apply_override(
+                        gloss, plain_form, prov_gloss, surface, overrides[address])
+                except ValueError as e:
+                    _stop(f"gloss overrides: {e}")
+                used_ov.add(address)
             tokens.append({
-                "address": U.address(uid, f"{WITNESS}.t{pos:02d}"),
+                "address": address,
                 "passage_uid": uid, "witness": WITNESS, "position": pos,
                 "surface": surface, "normalized": norm, "search_key": search_key(norm),
                 "translit": translit(norm),
                 "lemma": head, "lemma_key": f"G{strongs}", "parsing": code,
-                "gloss": None, "plain_form": None, "syntax": None,
+                "gloss": gloss, "plain_form": plain_form, "syntax": None,
                 "provenance": {
                     "lemma": {"source": "strongs-1890", "by": "rp2018-byztxt Strong's number",
                               "status": "headword" if head else "none"},
                     "parsing": prov_parse,
+                    "gloss": prov_gloss,
                 },
                 "review": review or None,
             })
@@ -631,8 +698,25 @@ def build(reg):
                      "so this aligns verses, not readings"),
         })
 
+    stale = sorted(set(overrides) - used_ov)
+    if stale:
+        _stop(f"gloss overrides name tokens that do not exist: {stale[:5]}")
+    sources = dict(SOURCES)
     inputs = {rel: want for (repo, rel), want in sorted(PINS.items())}
+    for layer in sorted({overrides[a]["layer"] for a in used_ov}):
+        sources[layer] = OVERRIDE_SOURCES[layer]
+    if used_ov:
+        inputs["gloss-overrides.jsonl"] = sha256(G.OVERRIDES)
     finite = sum(1 for t in tokens if is_finite(t["parsing"]))
+    by_rule = {r: sum(1 for t in tokens if t["provenance"]["gloss"]["rule"] == r)
+               for r in G.RULE_ORDER}
+    by_layer = {k: sum(1 for t in tokens if t["provenance"]["gloss"]["source"] == k)
+                for k in G.OVERRIDE_LAYERS}
+    why_none = {}
+    for t in tokens:
+        if t["gloss"] is None:
+            w = t["provenance"]["gloss"]["why"]
+            why_none[w] = why_none.get(w, 0) + 1
     manifest = {
         "schema": SCHEMA,
         "doc": "pipeline/README-nt-jsonl.md",
@@ -645,6 +729,7 @@ def build(reg):
                    "tokens_with_lemma": sum(1 for t in tokens if t["lemma"]),
                    "tokens_with_parsing": sum(1 for t in tokens if t["parsing"]),
                    "tokens_with_gloss": sum(1 for t in tokens if t["gloss"]),
+                   "tokens_without_gloss": sum(1 for t in tokens if not t["gloss"]),
                    "tokens_flagged_for_review": sum(1 for t in tokens if t["review"]),
                    "distinct_lemmas": len({t["lemma_key"] for t in tokens}),
                    "finite_verbs": finite},
@@ -660,7 +745,29 @@ def build(reg):
                     "facing": FACING},
         "licence_gate": {"allowed": list(ALLOWED_LICENSES),
                          "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only"},
-        "sources": SOURCES,
+        "sources": sources,
+        "gloss": {
+            "kind": "dictionary",
+            "not": ("NOT a contextual translation. Each gloss is Strong's 1890 dictionary sense "
+                    "for the token's Strong's number, chosen by a fixed rule: the same number "
+                    "and form class get the same gloss in every verse, whatever the verse means. "
+                    "A wooden line built from them is a dictionary interlinear, not a "
+                    "translation."),
+            "source": "strongs-1890",
+            "doc": "pipeline/README-nt-jsonl.md s.12; pipeline/strongs_gloss.py",
+            "rules": [{"id": r, "does": G.RULES[r]} for r in G.RULE_ORDER],
+            "by_rule": by_rule,
+            "by_override": by_layer,
+            "none": sum(why_none.values()),
+            "none_by_reason": dict(sorted(why_none.items())),
+            "overrides": {"file": "data/nt/gloss-overrides.jsonl",
+                          "layers": list(G.OVERRIDE_LAYERS),
+                          "applied": len(used_ov),
+                          "rule": ("a row replaces the dictionary gloss of one token address; "
+                                   "the dictionary value and its rule are kept under "
+                                   "provenance.gloss.was")},
+        },
+        "facing_witness": FACING_WITNESS,
         "future_layers": FUTURE_LAYERS,
         "token_fields": TOKEN_FIELDS,
         "translit": {"scheme": "sbl-academic+house",

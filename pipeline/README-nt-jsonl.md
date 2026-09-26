@@ -59,8 +59,9 @@ It opens the registry frozen and asks it for `kjv:John.1.1`. The pilot reuses
 | `lemma` | Whitaker, else the house draft | Strong's 1890 headword for Robinson's number |
 | `lemma_key` | the WORDS dictionary form | `G<n>`: Robinson's Strong's number |
 | `parsing` | prose (`1 sg pres ind act`) | Robinson's code verbatim (`V-PAI-1S`); `describe_parsing()` gives the words |
-| `gloss`, `plain_form` | house draft, never null | **null**: no public-domain contextual gloss |
-| `en.wooden`, `en.plain` | generated witnesses | absent until glosses exist (they are generated *from* glosses) |
+| `gloss` | house draft, never null | **Strong's dictionary gloss** by a fixed rule (s.12); null where no rule fires |
+| `plain_form` | house draft, null where the gloss serves | null; only an override row sets it (s.12) |
+| `en.wooden`, `en.plain` | generated witnesses | absent: wooden is rendered straight from the glosses; plain waits on a `prose_order` |
 | alignments | stanza rendering → its clauses | `grc.byz` → `kjv.plain`, verse to verse, same uid |
 | licence classes | PD, own, `free-grant` (Whitaker only) | PD, own. Nothing else |
 
@@ -78,7 +79,7 @@ It opens the registry frozen and asks it for `kjv:John.1.1`. The pilot reuses
 
 **tokens.jsonl.** `address` (`<uid>/grc.byz.t04`), `passage_uid`, `witness`,
 `position` (1-based in the verse), the eight fields, `lemma_key`, `syntax`
-(null), `provenance` (`{lemma, parsing}`), and `review`.
+(null), `provenance` (`{lemma, parsing, gloss}`), and `review`.
 
 | field | content | null when |
 |---|---|---|
@@ -88,8 +89,8 @@ It opens the registry frozen and asks it for `kjv:John.1.1`. The pilot reuses
 | `translit` | the house scheme (s.5) on `normalized` | never |
 | `lemma` | Strong's headword for `lemma_key` | Strong's has no entry (none in the whole NT) |
 | `parsing` | Robinson's code; the first, where he gives two | never, from RP |
-| `gloss` | — | always, today |
-| `plain_form` | — | always, today |
+| `gloss` | Strong's 1890 dictionary gloss for `lemma_key`, by the rule in `provenance.gloss.rule` (s.12). **Not a contextual translation** | no rule fires (22 in the pilot), with `provenance.gloss.why` |
+| `plain_form` | set only by an override row | always, today |
 
 `provenance.parsing.status` is `single` or `alternatives`. Where it is
 `alternatives`, the other codes are listed and the token carries a `review`
@@ -197,7 +198,7 @@ Beta→Unicode converter, and the manifest's `open` field says so.
 |---|---|
 | verses | 18 (uids reused 18, minted 0) |
 | tokens | 253; 83 distinct lemmas |
-| tokens with lemma / parsing / gloss | 253 / 253 / 0 |
+| tokens with lemma / parsing / gloss | 253 / 253 / 231 (s.12) |
 | finite verbs | 41 (38 indicative, 3 subjunctive); also 6 participles, 1 infinitive |
 | tokens flagged for review | 1 (Robinson's double parsing, 1:9) |
 | RP paragraph marks | 0 in this range |
@@ -301,3 +302,93 @@ python3 pipeline/build_nt_corpus.py --check    # mint 0, byte-identical
 python3 tests/nt_corpus_test.py                # the validator
 python3 pipeline/build_nt_corpus.py --survey   # the whole NT, measured; writes nothing
 ```
+
+## 12. Glosses: Strong's dictionary glosses, by a fixed rule
+
+*Added 2026-09-26. Code: `pipeline/strongs_gloss.py`. Tests: `tests/nt_corpus_test.py`
+("glosses", "the gloss rule, on fixtures", and against the pins).*
+
+**What they are.** Each gloss is the sense Strong's 1890 dictionary gives
+for the token's Strong's number (`lemma_key`), chosen by the rule below.
+**They are dictionary glosses, not a contextual translation.** One number
+gets one gloss in every verse, whatever the verse means (an article or
+pronoun varies only with its person, number, gender and case). The manifest's
+`gloss` block says so, and the reader says so under the wooden column.
+
+**What a Strong's entry gives.** A short definition, and the KJV renderings
+after `:--`. Petersen's XML splits Strong's paragraph between
+`<strongs_derivation>` and `<strongs_def>` at its first semicolon, often
+mid-sense, so the rule reads the two as one paragraph. The KJV renderings are
+printed **alphabetically**, not by frequency, so "the first rendering" means
+nothing by itself: λόγος's first is *account*, λαμβάνω's *accept*. The rule
+lets Strong's own definition choose among them.
+
+**The rule.** The first step that fires sets the gloss, and its id goes on
+the token as `provenance.gloss.rule`.
+
+| id | tokens | what it does |
+|---|---|---|
+| `kjv-form` | 49 | Articles and personal, demonstrative and relative pronouns (Robinson T, P, D, R): the first KJV rendering, in Strong's order, that is an English form agreeing in person, number, gender and case (the table `FORMS`). None agrees: null. Strong's defines these by their grammar, not a sense, so there is no fallback. |
+| `kjv-sole` | 24 | The entry has exactly one usable KJV rendering. |
+| `kjv-in-def` | 116 | The usable KJV rendering that occurs earliest, as a whole word, in the definition. Clauses about derivation ("from G…", "a primary verb") or grammar ("the first person singular…") are set aside, and text outside parentheses is searched before text inside. A pronoun form never glosses a non-pronoun. A rendering of one or two letters ("of", "to") counts only as the first word of a clause, or for a verb after "to". |
+| `def-head` | 42 | Nouns, adjectives and verbs only: the head of the first sense clause. Parentheses come off; it is cut at the first comma, "i.e." or " or "; a leading "properly," etc., "a"/"an", and for a verb "to"/"I" are dropped. More than four words is not taken. |
+| (none) | 22 | null, with the reason in `provenance.gloss.why`: 15 pronouns with no agreeing KJV form (13 masculine αὐτός, whose entry has no standalone *him*/*his*; 2 plural forms Robinson files under ἐγώ, whose entry lists only *I*, *me*), and 7 function words with no KJV rendering in the definition (πρός ×2, ἀλλά ×2, χωρίς, ἔμπροσθεν, ἀντί). |
+
+"Usable" rendering: Strong's marks with **X** a rendering that comes from a
+Greek idiom and with **+** one that needs other words; both are skipped.
+Parenthesised parts are Strong's optional additions, so the base is taken
+without them. There is one part-of-speech adjustment: a noun takes the noun
+variant Strong's prints, so σκοτία's `dark(-ness)` gives *darkness*.
+
+**Never invented.** The test re-derives every gloss from the pinned XML. It
+checks that each KJV-rule gloss is one of the entry's usable renderings (or
+its printed variant), and that each `def-head` gloss is words of Strong's
+definition. Coverage in the pilot: **231 of 253 tokens (91.3%)**.
+
+**What the dictionary gets wrong, as expected.** Some glosses are etymological
+or odd in context: ἀρχή *commencement*, φῶς *luminousness*, λέγω
+*lay forth*, ἀποστέλλω *set*, περί *with*. The rule is not tuned to rescue
+them. That is the override layer's job.
+
+**The override layer (for contextual glosses later).**
+`data/nt/gloss-overrides.jsonl` (committed, LF, empty) has the shape of
+`data/lemmas/adam-reviewed.jsonl` (README-lemma-spine.md s.8):
+
+```
+{"address": "wh-…/grc.byz.t05",   # the token's address
+ "surface": "λόγος",               # must equal the token's surface: a guard
+ "gloss": "…",                     # and/or "plain_form"
+ "layer": "adam-reviewed",         # or "house"
+ "reviewed_on": "2026-09-27",
+ "note": "…"}                      # optional
+```
+
+The build applies a row after the dictionary rule. The token's
+`provenance.gloss` becomes `{source: <layer>, kind: "contextual",
+reviewed_on, note, was: {value: <the dictionary gloss>, source:
+"strongs-1890", rule, …}}`, so the dictionary value is never lost. The
+manifest declares the layer as a source (licence `own`) and the file's
+sha256 once a row is applied, and counts rows in `gloss.by_override`. A
+malformed row, a surface that no longer matches, or a row for a token that
+does not exist stops the build.
+
+## 13. The reader: Greek columns and the KJV witness
+
+`pipeline/render_reader.py` renders the Greek through the hymns' own renderers:
+
+- **wooden** is `build_hymn_corpus.render_wooden()` over the verse's tokens in
+  Greek order. A word with no gloss is shown as a marked gap (—), never as a
+  made-up word. The column is labelled "dictionary glosses, not a translation".
+- **plain** needs a `prose_order`, which only an `en.plain` witness carries.
+  The Greek has none, so plain shows **"not yet ordered"**. When a prose order
+  is drafted (house work, licence `own`), the same `render_plain()` fills it.
+- **KJV** is a fifth, separately labelled column. It is not one of the four,
+  and it is not `elegant`. It is the verse's `kjv.plain` witness under the same
+  uid, read from `data/books/kjv.witnesses.json`, a gitignored build
+  (`structure_texts.py`, then `build_witnesses.py`). Where that build is absent,
+  the column says so. The KJV translates the Textus Receptus, not this Greek,
+  and the column says that too.
+- **Rights.** The KJV is public domain in the US. In the UK it is under the
+  Crown patent (rights review 2026-09-26, s.6). The manifest's `facing_witness`
+  block records the basis and `rights_note: "Crown patent: KJV print not for
+  UK"`, and the reader prints both under Sources & rights.

@@ -20,7 +20,8 @@
   "alignments": 18,
   "tokens_with_lemma": 253,
   "tokens_with_parsing": 253,
-  "tokens_with_gloss": 0,
+  "tokens_with_gloss": 231,
+  "tokens_without_gloss": 22,
   "tokens_flagged_for_review": 1,
   "distinct_lemmas": 83,
   "finite_verbs": 41
@@ -82,7 +83,7 @@
    "open": "The Unicode CSVs are the maintainers' conversion of Robinson's Beta code; this build re-checks every word's letters and codes against the Beta files. Accents and breathings are the converter's and are not re-checked."
   },
   "strongs-1890": {
-   "what": "lemma: the Strong's headword for Robinson's Strong's number",
+   "what": "lemma: the Strong's headword for Robinson's Strong's number; gloss: a dictionary gloss from the same entry by a fixed rule (README s.12)",
    "edition": "James Strong, Dictionary of the Greek Testament (1890), XML by Ulrik Petersen (2006), openscriptures/strongs commit 0acd2f2",
    "license": "PD",
    "license_basis": [
@@ -97,6 +98,73 @@
    "verified_on": "2026-09-26",
    "open": "Byte-identical to this repo's `strongs-greek` book input (data/books/manifest.json, same sha256). Strong's numbers are Robinson's, which often differ from Strong's own (all forms of eimi -> 1510, eipon -> 3004); the headword follows Robinson's."
   }
+ },
+ "gloss": {
+  "kind": "dictionary",
+  "not": "NOT a contextual translation. Each gloss is Strong's 1890 dictionary sense for the token's Strong's number, chosen by a fixed rule: the same number and form class get the same gloss in every verse, whatever the verse means. A wooden line built from them is a dictionary interlinear, not a translation.",
+  "source": "strongs-1890",
+  "doc": "pipeline/README-nt-jsonl.md s.12; pipeline/strongs_gloss.py",
+  "rules": [
+   {
+    "id": "kjv-form",
+    "does": "article or pronoun: the first KJV rendering, in Strong's order, that is an English form agreeing in person, number, gender and case"
+   },
+   {
+    "id": "kjv-sole",
+    "does": "the entry has exactly one usable KJV rendering"
+   },
+   {
+    "id": "kjv-in-def",
+    "does": "the usable KJV rendering that occurs earliest, as a whole word, in Strong's definition (derivation and grammar clauses set aside; outside parentheses first)"
+   },
+   {
+    "id": "def-head",
+    "does": "noun, adjective or verb: the head of Strong's first sense clause (parentheses off, cut at the first comma, 'i.e.' or ' or '; at most four words)"
+   }
+  ],
+  "by_rule": {
+   "kjv-form": 49,
+   "kjv-sole": 24,
+   "kjv-in-def": 116,
+   "def-head": 42
+  },
+  "by_override": {
+   "adam-reviewed": 0,
+   "house": 0
+  },
+  "none": 22,
+  "none_by_reason": {
+   "no KJV rendering agrees in person, number, gender and case": 15,
+   "no KJV rendering in the definition; a function word takes no definition head": 7
+  },
+  "overrides": {
+   "file": "data/nt/gloss-overrides.jsonl",
+   "layers": [
+    "adam-reviewed",
+    "house"
+   ],
+   "applied": 0,
+   "rule": "a row replaces the dictionary gloss of one token address; the dictionary value and its rule are kept under provenance.gloss.was"
+  }
+ },
+ "facing_witness": {
+  "name": "kjv.plain",
+  "what": "the King James Version (1769 text), the verse under the same uid",
+  "file": "data/books/kjv.witnesses.json (gitignored; rebuilt by structure_texts.py then build_witnesses.py from data/corpus/kjv_bible.txt, Project Gutenberg)",
+  "license": "PD",
+  "license_basis": [
+   {
+    "where": "wordhoard/docs/research/2026-09-26-rights-review.md, Bible editions table",
+    "says": "KJV (1769): Public domain outside the UK (UK: see s.6)"
+   },
+   {
+    "where": "wordhoard/docs/research/2026-09-26-rights-review.md s.6",
+    "says": "In the UK the Authorised Version is under the royal prerogative (letters patent), preserved by CDPA 1988 s.171(1)(b); Cambridge University Press, the Crown's patentee, permits up to 500 verses for liturgical and non-commercial educational use, with its acknowledgement."
+   }
+  ],
+  "rights_note": "Crown patent: KJV print not for UK",
+  "scope": "No effect on the US site, the web rooms or household printing. A sold print product, or any copy shipped into the UK, carrying this text needs Cambridge's permission or licence (rights review s.6; UK print is out of scope for now).",
+  "translates": "the Textus Receptus, not the Byzantine textform: the column is a second witness to the verse, not a translation of the Greek beside it"
  },
  "future_layers": {
   "morphgnt-sblgnt": {
@@ -125,8 +193,8 @@
   "lemma": "strongs-1890: the headword for lemma_key; null where Strong's has none",
   "lemma_key": "rp2018-byztxt: Robinson's Strong's number, as G<n>",
   "parsing": "rp2018-byztxt: Robinson's code, verbatim; the first where he gives two (see provenance)",
-  "gloss": "null: no public-domain contextual gloss source; house glosses are future own work",
-  "plain_form": "null: follows gloss"
+  "gloss": "strongs-1890: a DICTIONARY gloss for lemma_key by the rule in provenance.gloss.rule (README s.12), not a contextual translation; null where no rule fires. An override row (gloss-overrides.jsonl) replaces it, keeping it under provenance.gloss.was",
+  "plain_form": "null: set only by an override row (a dictionary gloss has no prose form)"
  },
  "translit": {
   "scheme": "sbl-academic+house",
@@ -160,7 +228,7 @@
  "files_sha256": {
   "alignments.jsonl": "35cc55a95a06047c92eb164c697e1364e55172fc0517383be4af90ab40d3bd07",
   "passages.jsonl": "0ccb43a41ff0970198e8ff946eba45f405c6a76ddf2381698356044a3eadc718",
-  "tokens.jsonl": "352d13226b40583d95f181a79b98bf5760d4c476c3ee4369456af9e613e57f97",
+  "tokens.jsonl": "d809d5aaea320619a30848888f0a36a83a593ee3d9340ed1ff5135bff00f2e14",
   "witnesses.jsonl": "66a3402501d6301003750001b63e248ffe70cc20a2995b33604ee3357481c660"
  }
 }
