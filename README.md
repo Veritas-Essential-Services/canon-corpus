@@ -25,12 +25,15 @@ provenance) is the committed record of the collection.
 
     python3 tests/structure_test.py         # 60 offline checks, no corpus needed
     python3 tests/hymn_corpus_test.py       # the hymn JSONL validator (D1-D2)
+    python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
 
 ## Latin hymns (JSONL)
 
 `data/hymns/` holds *Adoro te* and *Pange lingua* as four flat JSONL files
 (passages, witnesses, tokens, alignments), one row per clause, every record
 keyed by uid. Schema and rules: `pipeline/README-hymn-jsonl.md`.
+Each token's lemma comes from Whitaker's WORDS where it agrees with the house
+draft (launch plan D3): `pipeline/README-lemma-spine.md`.
 
 Extracted from the patrimonium repo 2026-07-22; pre-extraction history
 lives there (through commit `d33503e`).

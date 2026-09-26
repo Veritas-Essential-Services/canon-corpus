@@ -1,3 +1,4 @@
 # The hymn JSONL is checksummed in its manifest and rebuilt byte-for-byte by
 # build_hymn_corpus.py --check; a CRLF checkout would fail both. Keep it LF.
 data/hymns/* text eol=lf
+data/lemmas/whitaker-la/* text eol=lf

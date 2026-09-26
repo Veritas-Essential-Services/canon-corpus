@@ -73,10 +73,15 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import wh_uid as U  # noqa: E402
+import whitaker as W  # noqa: E402
+from lemma_spine import resolve  # noqa: E402
 
 UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
 OUT = os.path.join(ROOT, "data", "hymns")
 FILES = ("passages", "witnesses", "tokens", "alignments")
+# The lemma spine's committed Whitaker analyses (build_lemma_spine.py). Read
+# here, never recomputed, so this build and its --check stay offline.
+SPINE = os.path.join(ROOT, "data", "lemmas", "whitaker-la", "hymns.analyses.jsonl")
 SCHEMA = "wordhoard/corpus-jsonl/v1"
 
 # The recut is an event with a date; it comes from the device clock, not the
@@ -213,7 +218,14 @@ SOURCES = {
         "edition": "AK/Claude machine draft, Thomas Batch 01 (2026-09-14) and 02 (2026-09-15)",
         "license": "own",
         "verified": False,
-        "open": "machine draft, unchecked by Adam. The lemma spine (Whitaker, launch plan D3) will re-derive `lemma` from a licensed source.",
+        "open": ("machine draft, unchecked by Adam. Since D3 its lemma and parsing are the fallback: "
+                 "each token's `provenance` says which source its value came from."),
+    },
+    "whitaker-words": {
+        "what": "token lemma (and parsing, where unambiguous): the Latin lemma spine, launch plan D3",
+        "edition": (f"{W.VERSION}, {W.REPO_URL} at {W.COMMIT[:12]}; analyses in "
+                    "data/lemmas/whitaker-la/hymns.analyses.jsonl (pipeline/README-lemma-spine.md)"),
+        **{k: v for k, v in W.LICENCE.items()},
     },
     "house-retrofit-2026-09-15": {
         "what": "prose_order, plain_form, absorbed (the plain column's four mechanisms)",
@@ -237,7 +249,10 @@ SOURCES = {
     },
 }
 
-ALLOWED_LICENSES = ("PD", "own")
+ALLOWED_LICENSES = ("PD", "own", "free-grant")
+# `free-grant`: the copyright holder grants any and all use, unconditionally
+# (Whitaker's WORDS, and nothing else yet). Not PD; admitted for lexical data
+# pending Adam's ruling -- see whitaker.LICENCE["open"].
 
 # Token fields: where each comes from. `null` in a record means "no licensed
 # source yet", never "unknown by accident".
@@ -246,8 +261,11 @@ TOKEN_FIELDS = {
     "normalized": "derived: NFC(surface)",
     "search_key": "derived: fold(normalized) -- see search_key()",
     "translit": "null by rule on a Latin-script witness; filled only for grc/he",
-    "lemma": "house-draft-2026-09-14 (unchecked); re-derive from Whitaker at D3",
-    "parsing": "house-draft-2026-09-14 (unchecked); never invented by a build",
+    "lemma": ("whitaker-words where its headword is the draft's and one entry is picked out; "
+              "else house-draft-2026-09-14, flagged in `review`. Per token: provenance.lemma"),
+    "parsing": ("whitaker-words where it gives exactly one parse, the draft agrees and adds no "
+                "teaching note; else house-draft-2026-09-14. Never invented. Per token: provenance.parsing"),
+    "lemma_key": "whitaker-words: the WORDS dictionary form naming the lemma; null where the draft stands",
     "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order",
     "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is",
 }
@@ -377,9 +395,43 @@ def _stop(msg):
     raise SystemExit("HARD STOP: " + msg)
 
 
+def load_spine():
+    if not os.path.exists(SPINE):
+        _stop(f"{SPINE} is missing: run pipeline/build_lemma_spine.py")
+    with open(SPINE, "rb") as f:
+        raw = f.read()
+    rows = [json.loads(l) for l in raw.decode("utf-8").splitlines()]
+    return {r["form"]: r["analyses"] for r in rows}, hashlib.sha256(raw).hexdigest()
+
+
+def spine_stats(tokens):
+    """Coverage and disagreement counts, for the manifest and the test."""
+    def count(field):
+        out = {}
+        for t in tokens:
+            k = t["provenance"][field]["status"]
+            out[k] = out.get(k, 0) + 1
+        return dict(sorted(out.items()))
+    n = len(tokens)
+    lw = sum(1 for t in tokens if t["provenance"]["lemma"]["source"] == "whitaker-words")
+    pw = sum(1 for t in tokens if t["provenance"]["parsing"]["source"] == "whitaker-words")
+    return {
+        "tokens": n,
+        "lemma_from_whitaker": lw,
+        "lemma_from_draft": n - lw,
+        "parsing_from_whitaker": pw,
+        "parsing_confirmed_by_whitaker": sum(1 for t in tokens
+                                             if t["provenance"]["parsing"]["status"] == "confirmed"),
+        "lemma_status": count("lemma"),
+        "parsing_status": count("parsing"),
+        "flagged_for_review": sum(1 for t in tokens if t["review"]),
+    }
+
+
 def build(src, reg):
     passages, witnesses, tokens, alignments = [], [], [], []
     inputs = {}
+    spine, spine_sha = load_spine()
     legacy_map = {}          # legacy unit_id -> clause uid (the join, done once)
 
     for key, H in HYMNS.items():
@@ -505,19 +557,28 @@ def build(src, reg):
                 for i, (st, pt) in enumerate(zip(stoks, ptoks), 1):
                     if st["gloss_en"] != pt["wooden"]:
                         _stop(f"{st['token_id']}: gloss {st['gloss_en']!r} != permutation {pt['wooden']!r}")
+                    skey = search_key(normalized(st["surface"]))
+                    if skey not in spine:
+                        _stop(f"{st['token_id']}: {skey!r} has no row in the lemma spine; "
+                              "run pipeline/build_lemma_spine.py")
+                    lemma, lemma_key, parsing, prov, review = resolve(
+                        st.get("lemma") or None, st.get("parsing") or None, spine[skey])
                     tokens.append({
                         "address": U.address(uid, f"la.1.t{i:02d}"), "passage_uid": uid,
                         "witness": "la.1", "position": i, "line": on_line[i - 1],
                         "surface": st["surface"],
                         "normalized": normalized(st["surface"]),
-                        "search_key": search_key(normalized(st["surface"])),
+                        "search_key": skey,
                         "translit": None,
-                        "lemma": st.get("lemma") or None,
-                        "parsing": st.get("parsing") or None,
+                        "lemma": lemma,
+                        "lemma_key": lemma_key,
+                        "parsing": parsing,
                         "gloss": st["gloss_en"],
                         "plain_form": pt["plain_form"],
                         "syntax": st.get("syntax") or None,
                         "legacy_address": st.get("address"),
+                        "provenance": prov,
+                        "review": review,
                     })
                 cursor += len(surf)
 
@@ -596,8 +657,11 @@ def build(src, reg):
         "sources": SOURCES,
         "token_fields": TOKEN_FIELDS,
         "perseus": PERSEUS,
+        "lemma_spine": {"doc": "pipeline/README-lemma-spine.md",
+                        "analyses": "data/lemmas/whitaker-la/hymns.analyses.jsonl",
+                        **spine_stats(tokens)},
         "legacy_join": legacy_map,
-        "inputs_sha256": inputs,
+        "inputs_sha256": {**inputs, "hymns.analyses.jsonl": spine_sha},
         "files_sha256": {},
     }
     return {"passages": passages, "witnesses": witnesses, "tokens": tokens,

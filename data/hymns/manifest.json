@@ -26,7 +26,8 @@
  "licence_gate": {
   "allowed": [
    "PD",
-   "own"
+   "own",
+   "free-grant"
   ],
   "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only"
  },
@@ -68,7 +69,34 @@
    "edition": "AK/Claude machine draft, Thomas Batch 01 (2026-09-14) and 02 (2026-09-15)",
    "license": "own",
    "verified": false,
-   "open": "machine draft, unchecked by Adam. The lemma spine (Whitaker, launch plan D3) will re-derive `lemma` from a licensed source."
+   "open": "machine draft, unchecked by Adam. Since D3 its lemma and parsing are the fallback: each token's `provenance` says which source its value came from."
+  },
+  "whitaker-words": {
+   "what": "token lemma (and parsing, where unambiguous): the Latin lemma spine, launch plan D3",
+   "edition": "WORDS 1.97F data (mk270 port), https://github.com/mk270/whitakers-words at 1f2f0fb0867a; analyses in data/lemmas/whitaker-la/hymns.analyses.jsonl (pipeline/README-lemma-spine.md)",
+   "license": "free-grant",
+   "license_basis": "Copyright William A. Whitaker (1936-2010), with an unconditional grant of any and all use of program and data. Not public domain.",
+   "grant_verbatim": [
+    "This is a free program, which means it is proper to copy it and pass it on to your friends. Consider it a developmental item for which there is no charge. However, just for form, it is Copyrighted (c). Permission is hereby freely given for any and all use of program and data. You can sell it as your own, but at least tell me.",
+    "All parts of the WORDS system, source code and data files, are made freely available to anyone who wishes to use them, for whatever purpose."
+   ],
+   "evidence": [
+    {
+     "what": "the author's own documentation, WORDS 1.97F (sections 'Licence' and the program notice)",
+     "url": "http://web.archive.org/web/20101227020317/http://users.erols.com/whitaker/wordsdoc.htm",
+     "sha256": "67cd077c01defdd81480ede38d798551050dcd30a13a83a1ef19be80a9c608fe",
+     "note": "also: 'The source and data are freely available for anyone to use for any purpose. It may be converted to other languages, used in pieces, or modified in any way without further permission or notification.'"
+    },
+    {
+     "what": "LICENCE.txt in the maintained port, at the pinned commit",
+     "url": "https://raw.githubusercontent.com/mk270/whitakers-words/1f2f0fb0867a896d7b9284a03d615ed635d6f992/LICENCE.txt",
+     "sha256": "de533c3fb7c4a54b6d2deb5e56624947850bd2121c1de206ba5ee59b72c119a3"
+    }
+   ],
+   "verified": true,
+   "verified_on": "2026-09-26",
+   "attribution": "WORDS, a Latin dictionary, by Colonel William Whitaker (USAF, Retired)",
+   "open": "The grant is not the house's PD-or-own gate (launch plan D4 / ADR 0001). It is admitted here as its own class, `free-grant`, pending Adam's ruling. The grant asks, as a courtesy, 'at least tell me'; the author died in 2010."
   },
   "house-retrofit-2026-09-15": {
    "what": "prose_order, plain_form, absorbed (the plain column's four mechanisms)",
@@ -96,8 +124,9 @@
   "normalized": "derived: NFC(surface)",
   "search_key": "derived: fold(normalized) -- see search_key()",
   "translit": "null by rule on a Latin-script witness; filled only for grc/he",
-  "lemma": "house-draft-2026-09-14 (unchecked); re-derive from Whitaker at D3",
-  "parsing": "house-draft-2026-09-14 (unchecked); never invented by a build",
+  "lemma": "whitaker-words where its headword is the draft's and one entry is picked out; else house-draft-2026-09-14, flagged in `review`. Per token: provenance.lemma",
+  "parsing": "whitaker-words where it gives exactly one parse, the draft agrees and adds no teaching note; else house-draft-2026-09-14. Never invented. Per token: provenance.parsing",
+  "lemma_key": "whitaker-words: the WORDS dictionary form naming the lemma; null where the draft stands",
   "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order",
   "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is"
  },
@@ -108,6 +137,30 @@
    "hymns:pange-lingua": null
   },
   "note": "Neither hymn has a Perseus/CTS edition; the URN is null, not guessed."
+ },
+ "lemma_spine": {
+  "doc": "pipeline/README-lemma-spine.md",
+  "analyses": "data/lemmas/whitaker-la/hymns.analyses.jsonl",
+  "tokens": 263,
+  "lemma_from_whitaker": 244,
+  "lemma_from_draft": 19,
+  "parsing_from_whitaker": 84,
+  "parsing_confirmed_by_whitaker": 10,
+  "lemma_status": {
+   "agree": 162,
+   "agree-selected": 82,
+   "ambiguous": 9,
+   "disagree": 9,
+   "unknown": 1
+  },
+  "parsing_status": {
+   "confirmed": 10,
+   "disagree": 5,
+   "draft-consistent": 145,
+   "unchecked": 19,
+   "whitaker": 84
+  },
+  "flagged_for_review": 24
  },
  "legacy_join": {
   "HYM-adoro.st1.l1": "wh-3311SBRQQ3",
@@ -154,12 +207,13 @@
   "thomas-batch-01.json": "d13b14afecbf3213607f809870dbe3771c0ce7dde95564672b4747d7d8f144d5",
   "thomas-batch-01-permutations.json": "16830d15f0b80d12fe077cff8ee06d36bb6b12feab392c5b71624d2060d728c0",
   "thomas-batch-02.json": "921665fc4da7045883be87b7b02e822dec3a3ac1bd44c7b7aac7b3566b87d381",
-  "thomas-batch-02-permutations.json": "dbff05eb7a4ce4dd5727be1c244f356bd37b94a0a423f560532b4019db30fd5d"
+  "thomas-batch-02-permutations.json": "dbff05eb7a4ce4dd5727be1c244f356bd37b94a0a423f560532b4019db30fd5d",
+  "hymns.analyses.jsonl": "664b39f0256debd192fcb7ada4fcd55a4293e33f80ca3025ba2e7732f0e0d3cc"
  },
  "files_sha256": {
   "alignments.jsonl": "12ebace38a924b7979096df37644ccbb9bc36a5cdb4f6531e602b5319a252c15",
   "passages.jsonl": "c9b582e7d06aa6fc005018bdbc59e738f94a5be572823aee19d1105256409488",
-  "tokens.jsonl": "8b948a3d52d8b7025b7e3c143debcc301da89dfd818e15d79ab690e1e48ac5ae",
+  "tokens.jsonl": "d0b6b8934ca15366b5c1c734a3112ada8ce594ca87326bc4c2d33c5545fabb62",
   "witnesses.jsonl": "a0c1a713bb01146b7de9bd48c83adc23b680eb0a051188104cae039a69d5bf6e"
  }
 }

@@ -117,17 +117,21 @@ One line per word of a tokenized witness (today, `la.1` only).
 | `normalized` | `NFC(surface)`; NFC only, never NFKC | never |
 | `search_key` | NFD, combining marks dropped, lowercased, æ→ae, œ→oe, **j→i, v→u** | never |
 | `translit` | romanization | **always null on a Latin-script witness**; filled for grc/he |
-| `lemma` | dictionary headword | no licensed or house source yet |
-| `parsing` | morphology | no licensed or house source yet; **a build never invents one** |
+| `lemma` | dictionary headword: Whitaker's where it agrees with the draft, else the draft (D3) | no licensed or house source yet |
+| `lemma_key` | the Whitaker dictionary form naming the lemma: the spine's join key | the draft stands (see `provenance`) |
+| `parsing` | morphology: Whitaker's where it gives one parse the draft agrees with, else the draft | no licensed or house source yet; **a build never invents one** |
 | `gloss` | the wooden gloss: Latin order, one hyphenated chunk per word, `[brackets]` for words on no peg | never |
 | `plain_form` | the gloss's finite/idiomatic English form for the plain line | the gloss serves as-is |
 | `syntax` | a teacher's note on the word's function | not drafted |
 | `legacy_address` | the token's address before the re-cut | |
+| `provenance` | `{lemma: {...}, parsing: {...}}`: the source, status, and the draft value, whichever won | never |
+| `review` | reasons for Adam: Whitaker disagrees, is ambiguous, or has nothing | nothing to review |
 
 Null means "no source yet". It never means "lost". The empty string is not
-allowed. Where each field comes from is in `manifest.token_fields`. Today's
-`lemma` and `parsing` are the house machine draft (unchecked); D3 re-derives
-lemmas from Whitaker.
+allowed. Where each field comes from is in `manifest.token_fields`. Since D3, `lemma` and
+`parsing` come from Whitaker's WORDS where it agrees with the house draft, and
+from the draft otherwise, never silently. The rules and counts are in
+`pipeline/README-lemma-spine.md`.
 
 ## 5. `plain` is generated, never stored
 

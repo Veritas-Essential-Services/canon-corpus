@@ -116,6 +116,23 @@ def draft_features(parsing):
     return f
 
 
+VOCAB = (set(CASES) | set(TENSES) | set(MOODS) |
+         {"sg", "pl", "m", "f", "n", "act", "pass", "decl", "conj", "adv", "prep", "pron",
+          "pers", "rel", "noun", "adj", "ptc", "deponent", "comparative", "superlative",
+          "interjection", "indecl", "reflexive", "st", "nd", "rd", "th"})
+
+
+def annotations(parsing):
+    """Words in the draft's parsing that are not parse features -- teaching
+    notes such as `impersonal`, `(-io)`, `postpos`, `+ subj`. A draft that
+    carries them is kept verbatim even where Whitaker confirms it."""
+    s = (parsing or "").lower()
+    extra = [w for w in re.findall(r"[^\W\d_]+", s) if w not in VOCAB]
+    if re.search(r"conj \+ subj", s):
+        extra.append("+ subj")
+    return extra
+
+
 def consistent(parse, feats):
     """Every feature the draft names must be present in Whitaker's parse and
     agree with it. Whitaker's X is a wildcard; C (common) is m or f."""
@@ -297,9 +314,14 @@ def resolve(draft_lemma, draft_parsing, analyses):
             single = all(len(v) == 1 for k, v in feats.items() if k != "pos")
             if len(parses) == 1 and ok and single:
                 a = mine[0]
-                dep = key.endswith(" DEP")
-                parsing = render(a["parse"], deponent=dep, enclitic=a.get("enclitic"))
-                pp.update(status="agree-unique", whitaker=a["whitaker"])
+                notes = annotations(draft_parsing)
+                if notes:
+                    pp.update(status="confirmed", source=DRAFT_SOURCE, whitaker=a["whitaker"],
+                              kept_for=notes)
+                else:
+                    dep = key.endswith(" DEP")
+                    parsing = render(a["parse"], deponent=dep, enclitic=a.get("enclitic"))
+                    pp.update(status="whitaker", whitaker=a["whitaker"])
             elif ok:
                 pp.update(status="draft-consistent", source=DRAFT_SOURCE,
                           consistent=len(ok))

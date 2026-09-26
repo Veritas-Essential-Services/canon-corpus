@@ -185,7 +185,8 @@ check("every witness names a source in the manifest", not unknown_src, unknown_s
 print("\n--- the licence gate (D4)")
 lic = {k: v.get("license") for k, v in manifest["sources"].items()}
 check("every source records its licence", all(lic.values()), lic)
-check("every licence is PD or own", all(v in B.ALLOWED_LICENSES for v in lic.values()), lic)
+check("every licence is PD, own, or (Whitaker only) free-grant",
+      all(v in ("PD", "own") or (v == "free-grant" and k == "whitaker-words") for k, v in lic.items()), lic)
 check("nothing from Perseus is merged in; enrichment keyed by CTS URN",
       "perseus" in manifest and not any("perseus" in k for k in manifest["sources"])
       and set(manifest["perseus"]["cts_urn"]) == set(manifest["works"]))
@@ -195,6 +196,10 @@ missing_f = [t["address"] for t in tokens if any(f not in t for f in TOKEN_FIELD
 check("every token carries all eight fields (null allowed)", not missing_f, missing_f[:3])
 empty = [t["address"] for t in tokens for f in TOKEN_FIELDS if t.get(f) == ""]
 check("no field is an empty string -- absence is null", not empty, empty[:3])
+no_prov = [t["address"] for t in tokens
+           if not all(k in t for k in ("lemma_key", "provenance", "review"))
+           or set(t["provenance"]) != {"lemma", "parsing"}]
+check("every token records where its lemma and parsing came from (D3)", not no_prov, no_prov[:3])
 check("surface, normalized, search_key and gloss are never null",
       all(t[f] for t in tokens for f in ("surface", "normalized", "search_key", "gloss")))
 check("normalized is NFC(surface)",

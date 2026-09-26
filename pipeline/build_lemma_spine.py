@@ -71,9 +71,23 @@ def lemma_table(X):
 
 
 def hymn_forms():
+    """The committed tokens' forms, plus -- when the vault's Latin shelf is
+    reachable -- every form of the batch files the hymn build reads, so a new
+    hymn's forms get analysed before its tokens exist (README s.7)."""
     with open(TOKENS, encoding="utf-8") as f:
         toks = [json.loads(l) for l in f]
-    return sorted({t["search_key"] for t in toks if t["witness"] == "la.1"}), len(toks)
+    forms = {t["search_key"] for t in toks if t["witness"] == "la.1"}
+    import build_hymn_corpus as B
+    shelf = next((c for c in B.SOURCE_CANDIDATES if c and os.path.isdir(c)), None)
+    if shelf:
+        for H in B.HYMNS.values():
+            with open(os.path.join(shelf, H["batch"]), encoding="utf-8") as f:
+                batch = json.load(f)
+            for p in batch["passages"]:
+                if p["id"].startswith(H["legacy_prefix"] + "."):
+                    la = B._witness(p, "la.1")
+                    forms |= {B.search_key(B.normalized(w)) for w in B.tokenize(la["text"])}
+    return sorted(forms), len(toks)
 
 
 def analyses_rows(X, forms):
