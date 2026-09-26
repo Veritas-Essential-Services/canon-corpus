@@ -16,9 +16,10 @@ WHAT IT SHOWS
     wooden / plain / elegant / singable, as far as the data carries them. A
     column the data cannot fill is shown EMPTY with its reason. Nothing is
     faked: the Greek's glosses are Strong's DICTIONARY glosses (README-nt-jsonl
-    s.12), so its wooden line is a dictionary interlinear, a word with no
-    gloss shows as a gap, and its plain line waits on a prose_order it does
-    not have. Beside the Greek, the KJV verse under the same uid is a
+    s.12) except where an override row replaces one, a word with no gloss
+    shows as a gap, and its plain line is rendered only where a prose_order
+    exists. A column built on a DRAFT layer (a house gloss or prose_order
+    awaiting Adam's review) carries a visible badge saying so. Beside the Greek, the KJV verse under the same uid is a
     separate, labelled witness column (data/books/kjv.witnesses.json, a
     gitignored build: absent, the column says so).
 
@@ -57,6 +58,7 @@ FILES = ("passages", "witnesses", "tokens", "alignments")
 COLUMNS = ("wooden", "plain", "elegant", "singable")
 KJV_BUILD = ("data", "books", "kjv.witnesses.json")   # gitignored; build_witnesses.py
 GAP = "\u2014"   # a Greek word with no gloss, in the wooden line
+DRAFT_BADGE = "draft \u2014 awaiting Adam\u2019s review"   # on a column built on a draft layer
 
 # The works, in reading order. `data` is the folder under data/.
 WORKS = (
@@ -206,13 +208,15 @@ def original_html(witness, tokens, punct, marks):
     return "<br>".join(lines)
 
 
-def column_html(name, body, source=None, empty=None, note=None):
+def column_html(name, body, source=None, empty=None, note=None, badge=None):
     if empty:
         return (f'<div class="col col-{name} empty"><span class="cl">{name}</span>'
                 f'<span class="cv">empty: {e(empty)}</span></div>')
     src = f' <span class="src">{e(source)}</span>' if source else ""
     nt = f' <span class="note">{e(note)}</span>' if note else ""
-    return f'<div class="col col-{name}"><span class="cl">{name}{src}</span><span class="cv">{body}{nt}</span></div>'
+    bd = f' <span class="draft-badge">{e(badge)}</span>' if badge else ""
+    return (f'<div class="col col-{name}{" draft" if badge else ""}"><span class="cl">{name}{src}{bd}</span>'
+            f'<span class="cv">{body}{nt}</span></div>')
 
 
 def wooden_html(tokens, marks, gaps=()):
@@ -247,6 +251,8 @@ def payload(t, lang):
         "parsing_source": (prov.get("parsing") or {}).get("source"),
         "gloss_source": pg.get("source"),
         "gloss_rule": pg.get("rule"),
+        "gloss_draft": bool(pg.get("draft")),
+        "gloss_was": (pg.get("was") or {}).get("value"),
         "review": t.get("review"),
         "lang": lang,
     }
@@ -345,6 +351,11 @@ def render_nt(work, ds, tok_payload, used, stats, kjv=None):
     gl = man.get("gloss") or {}
     fw = man.get("facing_witness") or {}
     n_gloss = sum(1 for t in ds["tokens"] if t.get("gloss"))
+    n_dict = sum(1 for t in ds["tokens"]
+                 if (t.get("provenance") or {}).get("gloss", {}).get("kind") == "dictionary")
+    n_draft = sum(1 for t in ds["tokens"] if (t.get("provenance") or {}).get("gloss", {}).get("draft"))
+    plains = [w for w in ds["witnesses"] if w["name"] == N.PLAIN]
+    n_plain_draft = sum(1 for w in plains if w.get("draft"))
     out = []
     for v in verses:
         gw = wit[v["uid"] + "/grc.byz"]
@@ -361,18 +372,24 @@ def render_nt(work, ds, tok_payload, used, stats, kjv=None):
             shown = [dict(t, gloss=GAP) if t["address"] in gaps else t for t in tk]
             srcs = sorted({(t.get("provenance") or {}).get("gloss", {}).get("source")
                            for t in tk if t.get("gloss")} - {None})
+            drafted = sum(1 for t in tk if (t.get("provenance") or {}).get("gloss", {}).get("draft"))
             note = "dictionary glosses, not a translation"
+            if drafted:
+                note = (f"dictionary glosses, not a translation, except {drafted} contextual "
+                        f"house gloss{'es' if drafted > 1 else ''} (draft)")
             if gaps:
                 note += f"; {len(gaps)} word{'s' if len(gaps) > 1 else ''} with no gloss shown as {GAP}"
             cols.append(column_html("wooden", wooden_html(shown, {}, gaps),
-                                    ", ".join(source_label(man, k) for k in srcs), note=note))
+                                    ", ".join(source_label(man, k) for k in srcs), note=note,
+                                    badge=DRAFT_BADGE if drafted else None))
         else:
             cols.append(column_html("wooden", "", empty="no gloss yet"))
         # plain: needs prose_order, which only an en.plain witness carries.
         pw = wit.get(v["uid"] + "/en.plain")
         if pw and pw.get("prose_order") and not gaps:
             used.add(pw["source"])
-            cols.append(column_html("plain", e(H.render_plain(tk, pw)), source_label(man, pw["source"])))
+            cols.append(column_html("plain", e(N.render_plain(tk, pw)), source_label(man, pw["source"]),
+                                    badge=DRAFT_BADGE if pw.get("draft") else None))
         else:
             cols.append(column_html("plain", "", empty="not yet ordered (no prose_order for the Greek)"))
         cols.append(column_html("elegant", "", empty="none stored"))
@@ -410,17 +427,27 @@ def render_nt(work, ds, tok_payload, used, stats, kjv=None):
     why = (
         f'<div class="why-empty"><h3>About the Greek columns</h3><ul>'
         f'<li><b>wooden</b> is generated from token glosses and is never stored. {n_gloss} of '
-        f'{len(ds["tokens"])} Greek tokens carry a gloss: <b>dictionary glosses</b> from Strong&#39;s '
-        f'1890 entry for each word&#39;s Strong&#39;s number, chosen by a fixed rule ({e(rules)}). '
-        f'They are <b>not a contextual translation</b>: a word gets the same gloss in every verse '
-        f'(an article or pronoun varies only with its person, number, gender and case). '
-        f'{len(ds["tokens"]) - n_gloss} have none and show as {GAP} ({e(why_none)}). A reviewed or '
-        f'house layer (<code>data/nt/gloss-overrides.jsonl</code>, '
+        f'{len(ds["tokens"])} Greek tokens carry a gloss. {n_dict} are <b>dictionary glosses</b> '
+        f'from Strong&#39;s 1890 entry for each word&#39;s Strong&#39;s number, chosen by a fixed rule '
+        f'({e(rules)}). Those are <b>not a contextual translation</b>: a word gets the same gloss in '
+        f'every verse (an article or pronoun varies only with its person, number, gender and case). '
+        + (f'{len(ds["tokens"]) - n_gloss} have none and show as {GAP} ({e(why_none)}). '
+           if n_gloss < len(ds["tokens"]) else "")
+        + f'A reviewed or house layer (<code>data/nt/gloss-overrides.jsonl</code>, '
         f'{(gl.get("overrides") or {}).get("applied", 0)} rows applied) replaces them word by '
-        f'word.</li>'
-        f'<li><b>plain</b> needs a <code>prose_order</code>, the order of the glosses in English. '
-        f'The Greek has none yet, so plain is shown as not yet ordered rather than guessed.</li>'
-        f'<li><b>elegant</b>: no house or public-domain prose rendering is stored.</li>'
+        f'word with a contextual gloss, the dictionary one kept'
+        + (f'; {n_draft} of those rows are <b>house drafts awaiting Adam&#39;s review</b>, and a '
+           f'wooden column that uses one is badged' if n_draft else "")
+        + '.</li>'
+        + (f'<li><b>plain</b> walks a <code>prose_order</code>, the order of the glosses in English '
+           f'(the hymns&#39; convention). {len(plains)} of {len(verses)} verses have one'
+           + (f'; {n_plain_draft} are <b>house drafts awaiting Adam&#39;s review</b> and are badged'
+              if n_plain_draft else "")
+           + '. A verse without one is shown as not yet ordered rather than guessed.</li>'
+           if plains else
+           f'<li><b>plain</b> needs a <code>prose_order</code>, the order of the glosses in English. '
+           f'The Greek has none yet, so plain is shown as not yet ordered rather than guessed.</li>')
+        + f'<li><b>elegant</b>: no house or public-domain prose rendering is stored.</li>'
         f'{kjv_li}'
         f'<li><b>singable</b>: this is prose.</li>'
         f'<li>No agreement marks: they are drawn from the draft&#39;s syntax notes, and the Greek '
@@ -469,13 +496,16 @@ def rights_html(manifest, keys):
 CSS = """
 :root{--bg:#fbf8f2;--fg:#1f1b16;--muted:#6b6257;--card:#fffdf8;--line:#e3dccf;--accent:#7a2e1f;
 --chip:#f1ebdf;--empty:#9a8f80;--pop:#fffdf8;--shadow:0 6px 24px rgba(0,0,0,.18);
---g1:#b3261e;--g2:#1f5fa8;--g3:#1d7a3a;--g4:#8a4bb0;--g5:#b35c00;--g6:#007a7a}
+--g1:#b3261e;--g2:#1f5fa8;--g3:#1d7a3a;--g4:#8a4bb0;--g5:#b35c00;--g6:#007a7a;
+--draft-bg:#f6d9a8;--draft-fg:#5a3a00}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15130f;--fg:#ece5d8;--muted:#a79d8e;
 --card:#1e1b16;--line:#3a342b;--accent:#e39a7f;--chip:#2a251e;--empty:#877d6f;--pop:#221e18;
---shadow:0 6px 24px rgba(0,0,0,.6);--g1:#ff8a80;--g2:#82b1ff;--g3:#7fd99a;--g4:#d5a6f5;--g5:#ffb866;--g6:#5fe0e0}}
+--shadow:0 6px 24px rgba(0,0,0,.6);--g1:#ff8a80;--g2:#82b1ff;--g3:#7fd99a;--g4:#d5a6f5;--g5:#ffb866;--g6:#5fe0e0;
+--draft-bg:#6b4a12;--draft-fg:#ffe2b0}}
 :root[data-theme="dark"]{--bg:#15130f;--fg:#ece5d8;--muted:#a79d8e;--card:#1e1b16;--line:#3a342b;
 --accent:#e39a7f;--chip:#2a251e;--empty:#877d6f;--pop:#221e18;--shadow:0 6px 24px rgba(0,0,0,.6);
---g1:#ff8a80;--g2:#82b1ff;--g3:#7fd99a;--g4:#d5a6f5;--g5:#ffb866;--g6:#5fe0e0}
+--g1:#ff8a80;--g2:#82b1ff;--g3:#7fd99a;--g4:#d5a6f5;--g5:#ffb866;--g6:#5fe0e0;
+--draft-bg:#6b4a12;--draft-fg:#ffe2b0}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.55 Georgia,"Times New Roman",serif}
@@ -516,6 +546,9 @@ border-bottom:1px dotted var(--muted);border-radius:2px}
 .col.empty .cv{color:var(--empty);font-style:italic;font-size:.9rem}
 .w.gap{color:var(--empty)}
 .col-kjv{border-top:1px dotted var(--line);padding-top:6px}
+.draft-badge{display:inline-block;margin-left:4px;text-transform:none;letter-spacing:0;font-size:.68rem;
+font-family:ui-sans-serif,system-ui,sans-serif;padding:0 6px;border-radius:8px;background:var(--draft-bg);color:var(--draft-fg)}
+.col.draft .cv{border-left:3px solid var(--draft-bg);padding-left:6px}
 .note{display:block;font-size:.75rem;color:var(--muted);font-style:italic}
 .col-singable .cv,.col-literal .cv{font-size:.95rem}
 .why-empty{background:var(--chip);border-radius:10px;padding:4px 14px;font-size:.92rem}
@@ -583,7 +616,9 @@ function show(btn){var p=T[btn.getAttribute('data-a')];if(!p)return;
    row('lemma',p.lemma)+row('key',p.lemma_key)+row('parsing',p.parsing)+row('in words',p.parsing_words)+
    row('translit',tl)+row('gloss',p.gloss==null?'(none yet)':p.gloss)+row('syntax',p.syntax)+
    row('lemma from',p.lemma_source)+row('parse from',p.parsing_source)+
-   row('gloss from',p.gloss_source?p.gloss_source+(p.gloss_rule?' ('+p.gloss_rule+')':''):null)+
+   row('gloss from',p.gloss_source?p.gloss_source+(p.gloss_rule?' ('+p.gloss_rule+')':'')+
+     (p.gloss_draft?' \u2014 draft, awaiting Adam\u2019s review':''):null)+
+   row('dictionary gloss',p.gloss_was)+
    row('review',p.review==null?null:(typeof p.review==='string'?p.review:JSON.stringify(p.review)))+
    row('address',btn.getAttribute('data-a'))+'</dl>';
   pop.hidden=false;pop.querySelector('.x').addEventListener('click',hide)}

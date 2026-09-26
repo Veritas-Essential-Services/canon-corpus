@@ -34,6 +34,12 @@ THE SOURCE, AND WHY IT PASSES THE HOUSE RULE (ADR 0001, launch plan D4)
     contextual layer (data/nt/gloss-overrides.jsonl, `adam-reviewed` or
     `house`) replaces it, the dictionary value kept under `was`.
 
+    The plain line walks a house prose_order (data/nt/prose-order.jsonl), the
+    hymns' convention exactly: each row becomes an `en.plain` witness carrying
+    prose_order / absorbed / plain_override, text null. Today every row of
+    both files is a DRAFT (`draft: true`; source `house-draft` / layer
+    `house`, licence own) awaiting Adam's review, and the manifest says so.
+
     NOT in these files, by rule: MorphGNT/SBLGNT (morphology CC BY-SA 3.0;
     the SBLGNT text CC BY 4.0, which waits on ADR 0019) and Perseus (CC
     BY-SA 4.0, a separate layer by CTS URN). Named in the manifest as future
@@ -82,6 +88,9 @@ SCHEMA = "wordhoard/corpus-jsonl/v1"
 BUILT_ON = "2026-09-26"   # the device clock; a constant so a rebuild is byte-identical
 
 WITNESS = "grc.byz"       # what the rendering IS: Greek, Byzantine textform
+PLAIN = "en.plain"        # the plain line: the tokens walked in a house prose_order
+PROSE_ORDERS = os.path.join(ROOT, "data", "nt", "prose-order.jsonl")
+REVIEW_DOC = "docs/review/2026-09-26-john1-drafts.md"
 FACING = "kjv.plain"      # the KJV book's reading of record (build_witnesses.py)
 
 # ---------------------------------------------------------------------------
@@ -208,6 +217,31 @@ OVERRIDE_SOURCES = {
         "verified_on": BUILT_ON,
     } for layer in G.OVERRIDE_LAYERS}
 
+# The plain line's prose_order: house work, one row per verse. `house-draft`
+# is the only source today, and every row of it is a draft.
+PROSE_SOURCES = {
+    "house-draft": {
+        "what": ("en.plain: the prose_order (English word order over the grc.byz token "
+                 "positions, with supplied words and absorptions), README-nt-jsonl.md s.14"),
+        "edition": "data/nt/prose-order.jsonl, drafted by the house (AK/Claude)",
+        "license": "own",
+        "license_basis": [{"where": "data/nt/prose-order.jsonl",
+                           "says": "house work, licence own: a draft awaiting Adam's review"}],
+        "source_url": "data/nt/prose-order.jsonl",
+        "status": "draft",
+        "verified": True,
+        "verified_on": BUILT_ON,
+        "open": "draft: awaiting Adam's review (" + REVIEW_DOC + ")",
+    },
+}
+PROSE_KEYS = {"passage_uid", "citation", "prose_order", "absorbed", "plain_override",
+              "source", "draft", "drafted_on", "reviewed_on", "note"}
+
+# A capital belongs to sentence position, not to a word: the plain renderer
+# lower-cases a gloss unless it holds one of these. The hymns' list plus the
+# Prologue's names and titles; the hymns' own list is not changed.
+PROPER_NT = ("John", "Moses", "Father")
+
 # What the reader's KJV column shows beside the Greek. Not an input to these
 # files (the alignment only names its address); recorded here so its rights
 # travel with the facing witness. Rights review 2026-09-26
@@ -272,7 +306,8 @@ TOKEN_FIELDS = {
     "gloss": ("strongs-1890: a DICTIONARY gloss for lemma_key by the rule in provenance.gloss.rule "
               "(README s.12), not a contextual translation; null where no rule fires. An override "
               "row (gloss-overrides.jsonl) replaces it, keeping it under provenance.gloss.was"),
-    "plain_form": "null: set only by an override row (a dictionary gloss has no prose form)",
+    "plain_form": ("null unless an override row sets it: the gloss's form in the plain line "
+                   "(a dictionary gloss has no prose form)"),
 }
 
 # ---------------------------------------------------------------------------
@@ -438,6 +473,71 @@ def describe_parsing(code):
         words.append(W["gen"][body[2]])
     words += [W["suffix"][s] for s in suffixes]
     return " ".join(words)
+
+
+def render_plain(tokens, plain):
+    """A verse's plain line: the hymns' render_plain() over its tokens and its
+    en.plain witness, the Prologue's names kept capitalised. Never stored."""
+    import build_hymn_corpus as H   # lazily: the build itself never renders
+    return H.render_plain(tokens, plain, proper=H.PROPER + PROPER_NT)
+
+
+def _is_pos(x):
+    return isinstance(x, int) and not isinstance(x, bool)
+
+
+def permutation_problems(n_tokens, prose_order, absorbed):
+    """The hymns' rule: every token used exactly once, by the order or by
+    absorption. None when it holds."""
+    accounted = sorted([x for x in prose_order if _is_pos(x)] + list(absorbed))
+    if accounted == list(range(1, n_tokens + 1)):
+        return None
+    return {"missing": [n for n in range(1, n_tokens + 1) if n not in accounted],
+            "duplicated": sorted({n for n in accounted if accounted.count(n) > 1}),
+            "out_of_range": [n for n in accounted if not 1 <= n <= n_tokens]}
+
+
+def load_prose_orders(path=None):
+    """{passage uid: row}, from `path` or PROSE_ORDERS. A missing file is no
+    orders. A malformed row is a hard stop, as for the gloss overrides."""
+    path = path or PROSE_ORDERS
+    if not os.path.exists(path):
+        return {}
+    out = {}
+    with open(path, encoding="utf-8") as f:
+        for n, line in enumerate(f, 1):
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            where = f"{os.path.basename(path)}:{n}"
+            extra = set(row) - PROSE_KEYS
+            if extra:
+                raise ValueError(f"{where}: unknown fields {sorted(extra)}")
+            for k in ("passage_uid", "citation", "source"):
+                if not isinstance(row.get(k), str) or not row[k]:
+                    raise ValueError(f"{where}: `{k}` is required")
+            if row["source"] not in PROSE_SOURCES:
+                raise ValueError(f"{where}: source must be one of {sorted(PROSE_SOURCES)}")
+            if "draft" in row and row["draft"] is not True:
+                raise ValueError(f"{where}: `draft` is true or absent")
+            if PROSE_SOURCES[row["source"]].get("status") == "draft" and not row.get("draft"):
+                raise ValueError(f"{where}: a {row['source']} row is a draft: `draft: true`")
+            dated, undated = (("drafted_on", "reviewed_on") if row.get("draft")
+                              else ("reviewed_on", "drafted_on"))
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row.get(dated) or "") or undated in row:
+                raise ValueError(f"{where}: carries `{dated}` (YYYY-MM-DD), not `{undated}`")
+            order, absorbed = row.get("prose_order"), row.get("absorbed")
+            if not isinstance(order, list) or not order or not isinstance(absorbed, list):
+                raise ValueError(f"{where}: prose_order (not empty) and absorbed are lists")
+            if any(not _is_pos(x) and not (isinstance(x, str) and x and x.strip() == x)
+                   for x in order) or not all(_is_pos(x) for x in absorbed):
+                raise ValueError(f"{where}: prose_order holds positions and supplied words only")
+            if row.get("plain_override") is not None:
+                raise ValueError(f"{where}: plain_override is null (no verse needs one yet)")
+            if row["passage_uid"] in out:
+                raise ValueError(f"{where}: {row['passage_uid']} is ordered twice")
+            out[row["passage_uid"]] = row
+    return out
 
 
 FINITE_MOODS = set("ISOM")
@@ -609,7 +709,11 @@ def build(reg):
         overrides = G.load_overrides()
     except ValueError as e:
         _stop(f"gloss overrides: {e}")
-    used_ov = set()
+    try:
+        orders = load_prose_orders()
+    except ValueError as e:
+        _stop(f"prose orders: {e}")
+    used_ov, used_po = set(), set()
 
     passages, witnesses, tokens, alignments = [], [], [], []
     apparatus = {}
@@ -647,6 +751,7 @@ def build(reg):
             "generated": False,
             "source": "rp2018-byztxt", "attested": "Y", "reading_of_record": False,
         })
+        first_tok = len(tokens)
         for pos, (surface, (_, pairs)) in enumerate(zip(surfaces, words), 1):
             strongs, code = pairs[0]
             head = heads.get(strongs)
@@ -688,6 +793,32 @@ def build(reg):
                 },
                 "review": review or None,
             })
+        po = orders.get(uid)
+        if po:
+            if po["citation"] != citation:
+                _stop(f"prose orders: {uid} is {citation}, the row says {po['citation']}")
+            vtoks = tokens[first_tok:]
+            prob = permutation_problems(len(vtoks), po["prose_order"], po["absorbed"])
+            if prob:
+                _stop(f"prose orders: {citation} is not a permutation of its tokens: {prob}")
+            gaps = [t["position"] for t in vtoks
+                    if t["position"] in po["prose_order"] and not (t["plain_form"] or t["gloss"])]
+            if gaps:
+                _stop(f"prose orders: {citation} walks tokens with no gloss: {gaps}")
+            w = {"address": U.address(uid, PLAIN), "passage_uid": uid, "name": PLAIN,
+                 "lang": "en", "role": "plain", "text": None, "generated": True,
+                 "generated_from": f"{WITNESS} tokens walked in prose_order",
+                 "prose_order": po["prose_order"], "absorbed": po["absorbed"],
+                 "plain_override": None, "source": po["source"], "attested": "N",
+                 "reading_of_record": False}
+            if po.get("draft"):
+                w.update(draft=True, drafted_on=po["drafted_on"])
+            else:
+                w["reviewed_on"] = po["reviewed_on"]
+            if po.get("note"):
+                w["note"] = po["note"]
+            witnesses.append(w)
+            used_po.add(uid)
         alignments.append({
             "alignment_id": f"{U.address(uid, WITNESS)}~{FACING}",
             "level": "section", "type": "1:1",
@@ -701,12 +832,24 @@ def build(reg):
     stale = sorted(set(overrides) - used_ov)
     if stale:
         _stop(f"gloss overrides name tokens that do not exist: {stale[:5]}")
+    stale = sorted(set(orders) - used_po)
+    if stale:
+        _stop(f"prose orders name verses outside the selection: {stale[:5]}")
     sources = dict(SOURCES)
     inputs = {rel: want for (repo, rel), want in sorted(PINS.items())}
     for layer in sorted({overrides[a]["layer"] for a in used_ov}):
-        sources[layer] = OVERRIDE_SOURCES[layer]
+        sources[layer] = dict(OVERRIDE_SOURCES[layer])
+        if any(overrides[a].get("draft") for a in used_ov if overrides[a]["layer"] == layer):
+            sources[layer]["open"] = ("rows marked draft: true are the house's proposals, awaiting "
+                                      "Adam's review (" + REVIEW_DOC + ")")
+    for src in sorted({orders[u]["source"] for u in used_po}):
+        sources[src] = PROSE_SOURCES[src]
     if used_ov:
         inputs["gloss-overrides.jsonl"] = sha256(G.OVERRIDES)
+    if used_po:
+        inputs["prose-order.jsonl"] = sha256(PROSE_ORDERS)
+    plains = [w for w in witnesses if w["name"] == PLAIN]
+    n_draft_ov = sum(1 for a in used_ov if overrides[a].get("draft"))
     finite = sum(1 for t in tokens if is_finite(t["parsing"]))
     by_rule = {r: sum(1 for t in tokens if t["provenance"]["gloss"]["rule"] == r)
                for r in G.RULE_ORDER}
@@ -724,7 +867,8 @@ def build(reg):
         "row_unit": "verse",
         "selection": dict(SELECTION, osis_book=osis),
         "counts": {"passages": len(passages), "verses": len(passages),
-                   "witnesses": len(witnesses), "tokens": len(tokens),
+                   "witnesses": len(witnesses), "plain_witnesses": len(plains),
+                   "tokens": len(tokens),
                    "alignments": len(alignments),
                    "tokens_with_lemma": sum(1 for t in tokens if t["lemma"]),
                    "tokens_with_parsing": sum(1 for t in tokens if t["parsing"]),
@@ -752,7 +896,8 @@ def build(reg):
                     "for the token's Strong's number, chosen by a fixed rule: the same number "
                     "and form class get the same gloss in every verse, whatever the verse means. "
                     "A wooden line built from them is a dictionary interlinear, not a "
-                    "translation."),
+                    "translation. Where an override row applies, the token's gloss is "
+                    "contextual instead (provenance.gloss.kind), and a draft row says draft."),
             "source": "strongs-1890",
             "doc": "pipeline/README-nt-jsonl.md s.12; pipeline/strongs_gloss.py",
             "rules": [{"id": r, "does": G.RULES[r]} for r in G.RULE_ORDER],
@@ -763,9 +908,31 @@ def build(reg):
             "overrides": {"file": "data/nt/gloss-overrides.jsonl",
                           "layers": list(G.OVERRIDE_LAYERS),
                           "applied": len(used_ov),
+                          "draft": n_draft_ov,
                           "rule": ("a row replaces the dictionary gloss of one token address; "
                                    "the dictionary value and its rule are kept under "
-                                   "provenance.gloss.was")},
+                                   "provenance.gloss.was. A draft row (draft: true, layer house) "
+                                   "awaits Adam's review and says so in provenance.gloss.draft")},
+        },
+        "prose_order": {
+            "file": "data/nt/prose-order.jsonl",
+            "witness": PLAIN,
+            "convention": ("the hymns' (README-hymn-jsonl.md s.5): an integer is a token position "
+                           "(its plain_form, else its gloss); a string is a supplied word, shown "
+                           "[bracketed]; an absorbed position is carried by a neighbour's form; "
+                           "every token is used exactly once. Rendered by render_plain(), never "
+                           "stored"),
+            "verses": len(plains),
+            "draft": sum(1 for w in plains if w.get("draft")),
+            "sources": sorted({w["source"] for w in plains}),
+        },
+        "drafts": {
+            "status": "awaiting Adam's review",
+            "review_doc": REVIEW_DOC,
+            "gloss_override_rows": n_draft_ov,
+            "prose_orders": sum(1 for w in plains if w.get("draft")),
+            "how_to_accept": ("drop draft/drafted_on and date the row reviewed_on (a gloss row "
+                              "that is now Adam's becomes layer adam-reviewed); rebuild"),
         },
         "facing_witness": FACING_WITNESS,
         "future_layers": FUTURE_LAYERS,

@@ -115,7 +115,10 @@ The living truth for project state is the Obsidian vault:
   mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
   pipeline/README-nt-jsonl.md. Glosses: Strong's DICTIONARY glosses by a
   fixed rule (pipeline/strongs_gloss.py, README s.12), not a translation;
-  data/nt/gloss-overrides.jsonl is the later contextual layer (empty).
+  data/nt/gloss-overrides.jsonl is the contextual layer and
+  data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
+  hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
+  the reader badges every column built on one.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).

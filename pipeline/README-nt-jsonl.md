@@ -59,9 +59,9 @@ It opens the registry frozen and asks it for `kjv:John.1.1`. The pilot reuses
 | `lemma` | Whitaker, else the house draft | Strong's 1890 headword for Robinson's number |
 | `lemma_key` | the WORDS dictionary form | `G<n>`: Robinson's Strong's number |
 | `parsing` | prose (`1 sg pres ind act`) | Robinson's code verbatim (`V-PAI-1S`); `describe_parsing()` gives the words |
-| `gloss` | house draft, never null | **Strong's dictionary gloss** by a fixed rule (s.12); null where no rule fires |
-| `plain_form` | house draft, null where the gloss serves | null; only an override row sets it (s.12) |
-| `en.wooden`, `en.plain` | generated witnesses | absent: wooden is rendered straight from the glosses; plain waits on a `prose_order` |
+| `gloss` | house draft, never null | **Strong's dictionary gloss** by a fixed rule (s.12); null where no rule fires; an override row replaces it with a contextual one |
+| `plain_form` | house draft, null where the gloss serves | null unless an override row sets it (s.12) |
+| `en.wooden`, `en.plain` | generated witnesses | `en.wooden` absent: wooden is rendered straight from the glosses. `en.plain` as the hymns carry it, from `prose-order.jsonl` (s.14) |
 | alignments | stanza rendering → its clauses | `grc.byz` → `kjv.plain`, verse to verse, same uid |
 | licence classes | PD, own, `free-grant` (Whitaker only) | PD, own. Nothing else |
 
@@ -75,7 +75,10 @@ It opens the registry frozen and asks it for `kjv:John.1.1`. The pilot reuses
 `lang: "grc"`, `role: "original"`, `register: "koine"`,
 `textform: "byzantine"`, `text` (the CCAT csv verse, verbatim),
 `paragraph_starts`, `generated: false`, `source`, `attested: "Y"`,
-`reading_of_record: false`.
+`reading_of_record: false`. Beside it, where a prose order exists, the verse's
+`<uid>/en.plain`: `lang: "en"`, `role: "plain"`, `text: null`,
+`generated: true`, `prose_order`, `absorbed`, `plain_override`, `source`,
+`attested: "N"`, and `draft`/`drafted_on` or `reviewed_on` (s.14).
 
 **tokens.jsonl.** `address` (`<uid>/grc.byz.t04`), `passage_uid`, `witness`,
 `position` (1-based in the verse), the eight fields, `lemma_key`, `syntax`
@@ -89,8 +92,8 @@ It opens the registry frozen and asks it for `kjv:John.1.1`. The pilot reuses
 | `translit` | the house scheme (s.5) on `normalized` | never |
 | `lemma` | Strong's headword for `lemma_key` | Strong's has no entry (none in the whole NT) |
 | `parsing` | Robinson's code; the first, where he gives two | never, from RP |
-| `gloss` | Strong's 1890 dictionary gloss for `lemma_key`, by the rule in `provenance.gloss.rule` (s.12). **Not a contextual translation** | no rule fires (22 in the pilot), with `provenance.gloss.why` |
-| `plain_form` | set only by an override row | always, today |
+| `gloss` | Strong's 1890 dictionary gloss for `lemma_key`, by the rule in `provenance.gloss.rule` (s.12). **Not a contextual translation**, unless an override row replaced it (`provenance.gloss.kind: "contextual"`, the dictionary value under `was`) | no rule fires and no override applies (none in the pilot since the 2026-09-26 house draft; the dictionary left 22) |
+| `plain_form` | the gloss's form in the plain line, set only by an override row | no override sets one |
 
 `provenance.parsing.status` is `single` or `alternatives`. Where it is
 `alternatives`, the other codes are listed and the token carries a `review`
@@ -350,8 +353,8 @@ or odd in context: ἀρχή *commencement*, φῶς *luminousness*, λέγω
 *lay forth*, ἀποστέλλω *set*, περί *with*. The rule is not tuned to rescue
 them. That is the override layer's job.
 
-**The override layer (for contextual glosses later).**
-`data/nt/gloss-overrides.jsonl` (committed, LF, empty) has the shape of
+**The override layer (contextual glosses).**
+`data/nt/gloss-overrides.jsonl` (committed, LF) has the shape of
 `data/lemmas/adam-reviewed.jsonl` (README-lemma-spine.md s.8):
 
 ```
@@ -372,16 +375,41 @@ sha256 once a row is applied, and counts rows in `gloss.by_override`. A
 malformed row, a surface that no longer matches, or a row for a token that
 does not exist stops the build.
 
+**Draft rows (added 2026-09-26).** A house proposal awaiting Adam's review
+carries `"draft": true` and `"drafted_on"` in place of `reviewed_on`, and
+only layer `house` may be a draft. Its provenance says `draft: true,
+drafted_on` (no `reviewed_on`), the manifest counts it in
+`gloss.overrides.draft` and `drafts`, and the reader badges every column it
+reaches. To accept a row, drop `draft`/`drafted_on`, date it `reviewed_on`
+(layer `adam-reviewed` if it is now his), and rebuild.
+
+**The first house draft (2026-09-26): 137 rows, all draft.** Every token
+where the dictionary gloss misleads in context, and the 22 nulls: the
+`def-head` glosses (all 42), tense and mood the dictionary cannot carry (ἦν
+*was*, not *exist*), pronouns by use (αὐτοῦ *him* after a preposition, *his*
+after a noun), case where English needs a preposition (*of-God*), and the
+words the plain line needs a finite form for (`plain_form`, e.g. a verb
+absorbing its οὐ as *did-not-know*). Word glosses in the hymns' hyphenated
+style, at most four words; each row has a one-line reason in `note`. House
+work, not copied from any translation or lexicon. Reviewed per verse in
+`docs/review/2026-09-26-john1-drafts.md`.
+
 ## 13. The reader: Greek columns and the KJV witness
 
 `pipeline/render_reader.py` renders the Greek through the hymns' own renderers:
 
 - **wooden** is `build_hymn_corpus.render_wooden()` over the verse's tokens in
   Greek order. A word with no gloss is shown as a marked gap (—), never as a
-  made-up word. The column is labelled "dictionary glosses, not a translation".
-- **plain** needs a `prose_order`, which only an `en.plain` witness carries.
-  The Greek has none, so plain shows **"not yet ordered"**. When a prose order
-  is drafted (house work, licence `own`), the same `render_plain()` fills it.
+  made-up word. The column is labelled "dictionary glosses, not a translation",
+  and says how many of its words are contextual house glosses instead.
+- **plain** is `build_nt_corpus.render_plain()`, which is the hymns'
+  `render_plain()` with the Prologue's names (John, Moses, Father) added to
+  the capital-keeping list, over the verse's `en.plain` witness (s.14). A
+  verse with no `en.plain` shows **"not yet ordered"**.
+- **Drafts are marked.** A wooden column that uses a draft gloss, and a plain
+  column whose prose order is a draft, carry the badge **"draft — awaiting
+  Adam's review"**, and the popover says "draft" beside the gloss's source and
+  shows the dictionary gloss it replaced.
 - **KJV** is a fifth, separately labelled column. It is not one of the four,
   and it is not `elegant`. It is the verse's `kjv.plain` witness under the same
   uid, read from `data/books/kjv.witnesses.json`, a gitignored build
@@ -392,3 +420,50 @@ does not exist stops the build.
   Crown patent (rights review 2026-09-26, s.6). The manifest's `facing_witness`
   block records the basis and `rights_note: "Crown patent: KJV print not for
   UK"`, and the reader prints both under Sources & rights.
+
+## 14. The plain line: a house prose_order (draft)
+
+*Added 2026-09-26. File: `data/nt/prose-order.jsonl` (committed, LF). Built into
+`en.plain` witnesses by `build_nt_corpus.py`; validated by `tests/nt_corpus_test.py`.*
+
+**The convention is the hymns', exactly** (README-hymn-jsonl.md s.5):
+
+- an **integer** is a token position of the verse's `grc.byz`; that token's
+  `plain_form`, or else its `gloss`, is emitted;
+- a **string** is a word English needs and the Greek lacks, shown
+  `[bracketed]` (the 0:1 alignment);
+- **`absorbed`** lists positions carried by a neighbour's form (many:1): an
+  article folded into its noun (τὸν θεόν *God*), οὐ folded into its verb's
+  `plain_form` (*did-not-know*);
+- **`plain_override`** is a whole-line string for a verse no permutation
+  reaches. Null everywhere; the loader refuses one until it is needed.
+
+Every token is used exactly once, by the order or by absorption
+(`permutation_problems()`, the hymns' rule). A walked token must have a gloss
+or a `plain_form`: the build stops rather than render a gap. The plain line is
+rendered, never stored.
+
+**A row:**
+
+```
+{"passage_uid": "wh-…", "citation": "kjv:John.1.2",   # the citation is a guard
+ "prose_order": [1, 2, 3, "the", 4, 5, 7], "absorbed": [6],
+ "plain_override": null,
+ "source": "house-draft",                             # a key of PROSE_SOURCES
+ "draft": true, "drafted_on": "2026-09-26"}           # or reviewed_on, once Adam has
+```
+
+`house-draft` is declared in the manifest's `sources` (licence `own`,
+`status: "draft"`), so the licence gate admits it as the house's own work. The
+manifest's `prose_order` block states the convention and counts, and its
+`drafts` block counts every draft row of both files and names the review doc.
+A malformed row, a citation that does not match its uid, or an order that is
+not a permutation stops the build.
+
+**The first draft: all 18 verses, all draft.** Four choices in it are
+flagged for Adam in the review doc rather than settled: 1:5 κατέλαβεν
+(*grasped*: understood or overcame), 1:9 ἐρχόμενον (with *every man*,
+following Robinson's first parse, or with *the light*), 1:14 ἐσκήνωσεν
+(*dwelt*, or the literal *tented*) and 1:16 ἀντί (*in place of*). The supplied words are
+few and bracketed: articles English needs, a subject pronoun where the Greek
+verb carries it, *was* in 1:6, *came* in 1:8, and *him* in 1:18.

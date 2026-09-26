@@ -52,7 +52,13 @@ OVERRIDES (the later contextual layer)
     data/nt/gloss-overrides.jsonl, one row per token address, `layer`
     "adam-reviewed" or "house". It replaces the dictionary gloss the way
     lemma_spine.apply_override replaces a lemma: the dictionary value and its
-    rule are kept under provenance `was`. Empty today.
+    rule are kept under provenance `was`.
+
+    A DRAFT row (`draft: true`, layer "house" only) is the house's proposal
+    awaiting Adam's review: it carries `drafted_on` instead of `reviewed_on`,
+    and its provenance says `draft: true`, so every consumer can mark it.
+    Adam accepts a row by dropping `draft`/`drafted_on` and dating it
+    `reviewed_on` (layer "adam-reviewed" if it is now his).
 """
 
 import json
@@ -388,7 +394,9 @@ def gloss_for(code, entry):
 # The override layer (the shape of lemma_spine's)
 # ---------------------------------------------------------------------------
 
-OVERRIDE_KEYS = {"address", "surface", "gloss", "plain_form", "layer", "reviewed_on", "note"}
+OVERRIDE_KEYS = {"address", "surface", "gloss", "plain_form", "layer", "reviewed_on", "note",
+                 "draft", "drafted_on"}
+DRAFT_LAYERS = ("house",)     # a draft is the house's; Adam's own rows are never drafts
 
 
 def load_overrides(path=None):
@@ -408,13 +416,22 @@ def load_overrides(path=None):
             extra = set(row) - OVERRIDE_KEYS
             if extra:
                 raise ValueError(f"{where}: unknown fields {sorted(extra)}")
-            for k in ("address", "surface", "layer", "reviewed_on"):
+            if "draft" in row and row["draft"] is not True:
+                raise ValueError(f"{where}: `draft` is true or absent")
+            dated = "drafted_on" if row.get("draft") else "reviewed_on"
+            undated = "reviewed_on" if row.get("draft") else "drafted_on"
+            for k in ("address", "surface", "layer", dated):
                 if not isinstance(row.get(k), str) or not row[k]:
                     raise ValueError(f"{where}: `{k}` is required")
+            if undated in row:
+                raise ValueError(f"{where}: a {'draft' if row.get('draft') else 'reviewed'} row "
+                                 f"carries `{dated}`, not `{undated}`")
             if row["layer"] not in OVERRIDE_LAYERS:
                 raise ValueError(f"{where}: layer must be one of {OVERRIDE_LAYERS}")
-            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row["reviewed_on"]):
-                raise ValueError(f"{where}: reviewed_on must be YYYY-MM-DD")
+            if row.get("draft") and row["layer"] not in DRAFT_LAYERS:
+                raise ValueError(f"{where}: only {DRAFT_LAYERS} rows may be drafts")
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row[dated]):
+                raise ValueError(f"{where}: {dated} must be YYYY-MM-DD")
             if not {"gloss", "plain_form"} & set(row):
                 raise ValueError(f"{where}: sets neither gloss nor plain_form")
             for k in ("gloss", "plain_form"):
@@ -433,8 +450,11 @@ def apply_override(gloss, plain_form, prov, surface, ov):
     if ov["surface"] != surface:
         raise ValueError(f"{ov['address']}: override is for {ov['surface']!r}, "
                          f"the token is {surface!r}")
-    new = {"source": ov["layer"], "by": "address", "rule": None, "kind": "contextual",
-           "reviewed_on": ov["reviewed_on"]}
+    new = {"source": ov["layer"], "by": "address", "rule": None, "kind": "contextual"}
+    if ov.get("draft"):
+        new.update(draft=True, drafted_on=ov["drafted_on"])
+    else:
+        new["reviewed_on"] = ov["reviewed_on"]
     if ov.get("note"):
         new["note"] = ov["note"]
     new["was"] = {"value": gloss, **prov}

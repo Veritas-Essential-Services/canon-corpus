@@ -343,8 +343,10 @@ def render_wooden(tokens):
     return " ".join(t["gloss"] for t in tokens)
 
 
-def render_plain(tokens, plain):
-    """`plain` is the en.plain witness row. Never stored; always this."""
+def render_plain(tokens, plain, proper=PROPER):
+    """`plain` is the en.plain witness row. Never stored; always this.
+    `proper` is the capital-keeping list; another dataset may extend it
+    (build_nt_corpus.render_plain), the hymns always use PROPER."""
     if plain.get("plain_override"):
         return plain["plain_override"]
     parts = []
@@ -354,7 +356,7 @@ def render_plain(tokens, plain):
             continue
         tok = tokens[step - 1]
         word = tok["plain_form"] or tok["gloss"]
-        if not any(p in word for p in PROPER):
+        if not any(p in word for p in proper):
             word = _decap(word)
         parts.append(word)
     if parts:

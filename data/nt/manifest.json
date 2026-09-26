@@ -15,13 +15,14 @@
  "counts": {
   "passages": 18,
   "verses": 18,
-  "witnesses": 18,
+  "witnesses": 36,
+  "plain_witnesses": 18,
   "tokens": 253,
   "alignments": 18,
   "tokens_with_lemma": 253,
   "tokens_with_parsing": 253,
-  "tokens_with_gloss": 231,
-  "tokens_without_gloss": 22,
+  "tokens_with_gloss": 253,
+  "tokens_without_gloss": 0,
   "tokens_flagged_for_review": 1,
   "distinct_lemmas": 83,
   "finite_verbs": 41
@@ -97,11 +98,42 @@
    "verified": true,
    "verified_on": "2026-09-26",
    "open": "Byte-identical to this repo's `strongs-greek` book input (data/books/manifest.json, same sha256). Strong's numbers are Robinson's, which often differ from Strong's own (all forms of eimi -> 1510, eipon -> 3004); the headword follows Robinson's."
+  },
+  "house": {
+   "what": "token gloss and/or plain_form: the house layer over the dictionary gloss",
+   "edition": "data/nt/gloss-overrides.jsonl (pipeline/README-nt-jsonl.md s.12)",
+   "license": "own",
+   "license_basis": [
+    {
+     "where": "data/nt/gloss-overrides.jsonl",
+     "says": "house work (Adam's review or the house draft), licence own"
+    }
+   ],
+   "source_url": "data/nt/gloss-overrides.jsonl",
+   "verified": true,
+   "verified_on": "2026-09-26",
+   "open": "rows marked draft: true are the house's proposals, awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md)"
+  },
+  "house-draft": {
+   "what": "en.plain: the prose_order (English word order over the grc.byz token positions, with supplied words and absorptions), README-nt-jsonl.md s.14",
+   "edition": "data/nt/prose-order.jsonl, drafted by the house (AK/Claude)",
+   "license": "own",
+   "license_basis": [
+    {
+     "where": "data/nt/prose-order.jsonl",
+     "says": "house work, licence own: a draft awaiting Adam's review"
+    }
+   ],
+   "source_url": "data/nt/prose-order.jsonl",
+   "status": "draft",
+   "verified": true,
+   "verified_on": "2026-09-26",
+   "open": "draft: awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md)"
   }
  },
  "gloss": {
   "kind": "dictionary",
-  "not": "NOT a contextual translation. Each gloss is Strong's 1890 dictionary sense for the token's Strong's number, chosen by a fixed rule: the same number and form class get the same gloss in every verse, whatever the verse means. A wooden line built from them is a dictionary interlinear, not a translation.",
+  "not": "NOT a contextual translation. Each gloss is Strong's 1890 dictionary sense for the token's Strong's number, chosen by a fixed rule: the same number and form class get the same gloss in every verse, whatever the verse means. A wooden line built from them is a dictionary interlinear, not a translation. Where an override row applies, the token's gloss is contextual instead (provenance.gloss.kind), and a draft row says draft.",
   "source": "strongs-1890",
   "doc": "pipeline/README-nt-jsonl.md s.12; pipeline/strongs_gloss.py",
   "rules": [
@@ -123,29 +155,44 @@
    }
   ],
   "by_rule": {
-   "kjv-form": 49,
-   "kjv-sole": 24,
-   "kjv-in-def": 116,
-   "def-head": 42
+   "kjv-form": 41,
+   "kjv-sole": 19,
+   "kjv-in-def": 56,
+   "def-head": 0
   },
   "by_override": {
    "adam-reviewed": 0,
-   "house": 0
+   "house": 137
   },
-  "none": 22,
-  "none_by_reason": {
-   "no KJV rendering agrees in person, number, gender and case": 15,
-   "no KJV rendering in the definition; a function word takes no definition head": 7
-  },
+  "none": 0,
+  "none_by_reason": {},
   "overrides": {
    "file": "data/nt/gloss-overrides.jsonl",
    "layers": [
     "adam-reviewed",
     "house"
    ],
-   "applied": 0,
-   "rule": "a row replaces the dictionary gloss of one token address; the dictionary value and its rule are kept under provenance.gloss.was"
+   "applied": 137,
+   "draft": 137,
+   "rule": "a row replaces the dictionary gloss of one token address; the dictionary value and its rule are kept under provenance.gloss.was. A draft row (draft: true, layer house) awaits Adam's review and says so in provenance.gloss.draft"
   }
+ },
+ "prose_order": {
+  "file": "data/nt/prose-order.jsonl",
+  "witness": "en.plain",
+  "convention": "the hymns' (README-hymn-jsonl.md s.5): an integer is a token position (its plain_form, else its gloss); a string is a supplied word, shown [bracketed]; an absorbed position is carried by a neighbour's form; every token is used exactly once. Rendered by render_plain(), never stored",
+  "verses": 18,
+  "draft": 18,
+  "sources": [
+   "house-draft"
+  ]
+ },
+ "drafts": {
+  "status": "awaiting Adam's review",
+  "review_doc": "docs/review/2026-09-26-john1-drafts.md",
+  "gloss_override_rows": 137,
+  "prose_orders": 18,
+  "how_to_accept": "drop draft/drafted_on and date the row reviewed_on (a gloss row that is now Adam's becomes layer adam-reviewed); rebuild"
  },
  "facing_witness": {
   "name": "kjv.plain",
@@ -194,7 +241,7 @@
   "lemma_key": "rp2018-byztxt: Robinson's Strong's number, as G<n>",
   "parsing": "rp2018-byztxt: Robinson's code, verbatim; the first where he gives two (see provenance)",
   "gloss": "strongs-1890: a DICTIONARY gloss for lemma_key by the rule in provenance.gloss.rule (README s.12), not a contextual translation; null where no rule fires. An override row (gloss-overrides.jsonl) replaces it, keeping it under provenance.gloss.was",
-  "plain_form": "null: set only by an override row (a dictionary gloss has no prose form)"
+  "plain_form": "null unless an override row sets it: the gloss's form in the plain line (a dictionary gloss has no prose form)"
  },
  "translit": {
   "scheme": "sbl-academic+house",
@@ -223,12 +270,14 @@
   "source/CCAT/04_JOH.TXT": "d3d4d6179c1a1dd2fa4ec37538794d505321d081da2dd10171d14045bc53da45",
   "source/README.md": "8f9fe05bcb9eb172ecdf4a14275ef17a1c2bcbe5c947e339fb07e7a5f21b47cb",
   "source/Strongs/04_JOH.BP5": "876b94397e61d1ae1d9531d31e9f9ec83462a699aae1a44a7b9b1f19ffa8e687",
-  "greek/StrongsGreekDictionaryXML_1.4/strongsgreek.xml": "df928f01b37632f8af9f16289ce58d10b958014cb5dbd1e1ea715a8d311a0625"
+  "greek/StrongsGreekDictionaryXML_1.4/strongsgreek.xml": "df928f01b37632f8af9f16289ce58d10b958014cb5dbd1e1ea715a8d311a0625",
+  "gloss-overrides.jsonl": "f97a241d7aeaaf663fbab97386a31bd274043aaa41bccc7a8f6b12ef1160954d",
+  "prose-order.jsonl": "bf79c107c46991cc8ecbb140f69b45761c70a7e23b7bfa95fb6e2ec8fd005379"
  },
  "files_sha256": {
   "alignments.jsonl": "35cc55a95a06047c92eb164c697e1364e55172fc0517383be4af90ab40d3bd07",
   "passages.jsonl": "0ccb43a41ff0970198e8ff946eba45f405c6a76ddf2381698356044a3eadc718",
-  "tokens.jsonl": "d809d5aaea320619a30848888f0a36a83a593ee3d9340ed1ff5135bff00f2e14",
-  "witnesses.jsonl": "66a3402501d6301003750001b63e248ffe70cc20a2995b33604ee3357481c660"
+  "tokens.jsonl": "0b1a1fc5a9b1b8d4fedbaeb5c57dacddf609fe5f466e607d668cf1acf1325431",
+  "witnesses.jsonl": "d2946e6fa3f1948099e93576f497b8c903ee487012de3a2ac4dd85ec96591cba"
  }
 }

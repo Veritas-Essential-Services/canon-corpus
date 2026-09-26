@@ -15,9 +15,11 @@ Offline, no browser: renders the page twice into a temp folder and checks
     - `plain` and `wooden` are stored nowhere: no key of that name in any
       record of either dataset, nor in the page's embedded payload;
     - the columns: every hymn clause shows the render_plain() line; every
-      Greek verse shows render_wooden() over its Strong's dictionary glosses
-      (a marked gap for a word with none), plain as "not yet ordered", and
-      the KJV verse of the same uid as a separate, labelled witness column
+      Greek verse shows render_wooden() over its glosses (a marked gap for a
+      word with none), its plain line through build_nt_corpus.render_plain()
+      where it has a prose_order ("not yet ordered" where not), a
+      "draft — awaiting Adam's review" badge on exactly the columns built on
+      a draft layer (and never on the hymns), and the KJV verse of the same uid as a separate, labelled witness column
       (or says the gitignored KJV build is absent); every source a page
       section draws on has its licence in the rights section, the KJV's
       Crown patent note included;
@@ -170,19 +172,57 @@ check("... and each word with no gloss is a marked gap, never a made-up word", g
 check("the wooden column is labelled as Strong's dictionary glosses, not a translation",
       nt_html.count("dictionary glosses, not a translation") == len(nt_verses)
       and "strongs-1890 (PD)" in nt_html)
-nt_plain = len(re.findall(r'class="col col-plain empty"><span class="cl">plain</span>'
-                          r'<span class="cv">empty: not yet ordered', nt_html))
-check("the Greek's plain is 'not yet ordered' in every verse (it has no prose_order)",
-      nt_plain == len(nt_verses) and not any(w["name"] == "en.plain" for w in data["nt"]["witnesses"]))
-check("... and the page explains the Greek columns", "About the Greek columns" in nt_html
-      and "not a contextual translation" in nt_html and "prose_order" in nt_html)
+badge = html.escape(R.DRAFT_BADGE)
+plain_bad, badge_bad = [], []
+for v in nt_verses:
+    tk = nt_toks[v["uid"] + "/grc.byz"]
+    block = nt_html[nt_html.index(f'id="{v["uid"]}"'):]
+    wooden = block[block.index('<div class="col col-wooden'):block.index('<div class="col col-plain')]
+    plain = block[block.index('<div class="col col-plain'):block.index('<div class="col col-elegant')]
+    pw = nt_wit.get(v["uid"] + "/en.plain")
+    if pw is None:
+        if "empty: not yet ordered" not in plain or badge in plain:
+            plain_bad.append(v["citation"])
+    elif (f'<span class="cv">{html.escape(R.N.render_plain(tk, pw))}' not in plain
+          or "house-draft (own)" not in plain):
+        plain_bad.append(v["citation"])
+    # the badge is on exactly the columns built on a draft layer
+    drafted = any(t["provenance"]["gloss"].get("draft") for t in tk)
+    if (badge in wooden) != drafted or (badge in plain) != bool(pw and pw.get("draft")):
+        badge_bad.append(v["citation"])
+    if (badge in wooden) != ('class="col col-wooden draft"' in wooden):
+        badge_bad.append(v["citation"])
+check("every Greek verse with a prose_order shows its render_plain() line, labelled house-draft (own); "
+      "one without says 'not yet ordered'", not plain_bad, plain_bad[:3])
+n_plain = sum(1 for w in data["nt"]["witnesses"] if w["name"] == "en.plain")
+check("... and today all 18 verses have one", n_plain == len(nt_verses), n_plain)
+check("a column built on a draft layer carries the badge 'draft — awaiting Adam’s review', "
+      "and no other column does", not badge_bad, badge_bad[:3])
+n_badges = nt_html.count(f'<span class="draft-badge">{badge}</span>')
+check("... on the Greek: every wooden and every plain column today (36)", n_badges == 2 * len(nt_verses),
+      n_badges)
+check("... and never on the hymns",
+      'class="draft-badge"' not in page[page.index('id="adoro-te"'):page.index('id="john-1"')])
+check("the badge is visible in both themes (its colours are defined for light and dark)",
+      page.count("--draft-bg:") == 3 and page.count("--draft-fg:") == 3 and ".draft-badge{" in page)
+check("... and the page explains the Greek columns, drafts included", "About the Greek columns" in nt_html
+      and "not a contextual translation" in nt_html and "prose_order" in nt_html
+      and "house drafts awaiting Adam&#39;s review" in nt_html)
 nm = data["nt"]["manifest"]
 check("the explanation's counts are the manifest's",
       f'{nm["counts"]["tokens_with_gloss"]} of {nm["counts"]["tokens"]} Greek tokens carry a gloss' in nt_html
       and all(f"{k} {n}" in nt_html for k, n in nm["gloss"]["by_rule"].items()))
-check("every Greek popover names where its gloss came from, and by which rule",
-      all(p.get("gloss_source") == "strongs-1890" and p.get("gloss_rule")
+nt_by_addr = {t["address"]: t for t in data["nt"]["tokens"]}
+check("every Greek popover names where its gloss came from: Strong's with its rule, or the override "
+      "layer with the dictionary gloss it replaced and whether it is a draft",
+      all((p.get("gloss_source") == "strongs-1890" and p.get("gloss_rule") and not p["gloss_draft"]
+           and p["gloss_was"] is None)
+          if nt_by_addr[a]["provenance"]["gloss"]["kind"] == "dictionary" else
+          (p.get("gloss_source") == nt_by_addr[a]["provenance"]["gloss"]["source"]
+           and p["gloss_draft"] == bool(nt_by_addr[a]["provenance"]["gloss"].get("draft"))
+           and p["gloss_was"] == nt_by_addr[a]["provenance"]["gloss"]["was"]["value"])
           for a, p in embedded.items() if p["lang"] == "grc" and p.get("gloss")))
+check("... and the popover prints the draft mark", "draft, awaiting Adam" in page)
 
 # ---- the KJV column: a separate witness under the same uid ---------------------
 kjv, kjv_sha = R.load_kjv([v["uid"] for v in nt_verses])
