@@ -1,0 +1,165 @@
+{
+ "schema": "wordhoard/corpus-jsonl/v1",
+ "doc": "pipeline/README-hymn-jsonl.md",
+ "cut_on": "2026-09-26",
+ "row_unit": "clause",
+ "counts": {
+  "passages": 48,
+  "clauses": 35,
+  "stanzas": 13,
+  "witnesses": 136,
+  "tokens": 263,
+  "alignments": 19
+ },
+ "works": {
+  "hymns:adoro-te": {
+   "title": "Adoro te devote",
+   "reading_of_record": "la.1",
+   "cut_by": "recut 2026-09-26 (this build), from the 2026-09-15 line rows"
+  },
+  "hymns:pange-lingua": {
+   "title": "Pange lingua gloriosi corporis mysterium",
+   "reading_of_record": "la.1",
+   "cut_by": "the 2026-09-16 retrofit (unchanged here)"
+  }
+ },
+ "licence_gate": {
+  "allowed": [
+   "PD",
+   "own"
+  ],
+  "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only"
+ },
+ "sources": {
+  "roman-missal-received": {
+   "what": "Latin text of both hymns",
+   "edition": "received liturgical text (Roman Missal), as transcribed into the batch notes 2026-09-14/15",
+   "license": "PD",
+   "license_basis": "13th-century text; no modern critical edition used",
+   "verified": false,
+   "open": "Adoro te is not yet checked against a named PD printing; Pange lingua was checked against Britt 1922 and differs in orthography only (cenae/coenae, iubilatio/jubilatio, gentium/Gentium, Britt prints no Amen). Canonical orthography is Adam's call (Latin Hymns doc s.7, decision 2)."
+  },
+  "hopkins-1918": {
+   "what": "Adoro te: stanza-level metrical English (singable)",
+   "edition": "Gerard Manley Hopkins, Poems, ed. Bridges (London, 1918)",
+   "license": "PD",
+   "license_basis": "published 1918; author d. 1889",
+   "verified": false,
+   "open": "Quoted from memory in the batch note; verify every stanza against the printed 1918 text before any public use."
+  },
+  "caswall-1849-britt-1922": {
+   "what": "Pange lingua: stanza-level metrical English (singable)",
+   "edition": "Edward Caswall's translation (Lyra Catholica, 1849) as printed in Matthew Britt, The Hymns of the Breviary and Missal (1922), pp. 183-185, archive.org/details/hymnsofbreviarym00britrich",
+   "license": "PD",
+   "license_basis": "published 1849 and 1922",
+   "verified": true,
+   "verified_on": "2026-09-17",
+   "open": "Britt uses American spellings (honor, fulfills); Caswall's 1849 printing presumably differs. Canonical edition is Adam's call."
+  },
+  "britt-1922-prose": {
+   "what": "Pange lingua: stanza-level literal prose (the PD candidate for `elegant`)",
+   "edition": "Matthew Britt, The Hymns of the Breviary and Missal (1922), literal prose per stanza",
+   "license": "PD",
+   "license_basis": "published 1922",
+   "verified": true
+  },
+  "house-draft-2026-09-14": {
+   "what": "token gloss (wooden), lemma, parsing, syntax; teacher notes",
+   "edition": "AK/Claude machine draft, Thomas Batch 01 (2026-09-14) and 02 (2026-09-15)",
+   "license": "own",
+   "verified": false,
+   "open": "machine draft, unchecked by Adam. The lemma spine (Whitaker, launch plan D3) will re-derive `lemma` from a licensed source."
+  },
+  "house-retrofit-2026-09-15": {
+   "what": "prose_order, plain_form, absorbed (the plain column's four mechanisms)",
+   "edition": "Plain Column Retrofits, Batch 01 (2026-09-15) and 02 (2026-09-16)",
+   "license": "own",
+   "verified": false
+  },
+  "house-elegant-2026-09-15": {
+   "what": "Pange lingua: clause-level elegant prose",
+   "edition": "AK, Thomas Batch 02 (2026-09-15)",
+   "license": "own",
+   "license_basis": "the batch file records this as PD; it is the house's own prose, recorded here as own",
+   "verified": false
+  },
+  "house-recut-2026-09-26": {
+   "what": "the clause cut of Adoro te; concatenated prose_order for joined lines",
+   "edition": "build_hymn_corpus.py CLAUSES table",
+   "license": "own",
+   "verified": false,
+   "open": "unchecked by Adam; five joins, each with its grammatical reason in `cut.why`."
+  }
+ },
+ "token_fields": {
+  "surface": "the reading of record, exactly as transcribed",
+  "normalized": "derived: NFC(surface)",
+  "search_key": "derived: fold(normalized) -- see search_key()",
+  "translit": "null by rule on a Latin-script witness; filled only for grc/he",
+  "lemma": "house-draft-2026-09-14 (unchecked); re-derive from Whitaker at D3",
+  "parsing": "house-draft-2026-09-14 (unchecked); never invented by a build",
+  "gloss": "house-draft-2026-09-14: the wooden gloss, Latin order",
+  "plain_form": "house-retrofit-2026-09-15; null where the gloss serves as-is"
+ },
+ "perseus": {
+  "policy": "Perseus is CC BY-SA. Nothing from Perseus is in these files. Perseus enrichment (lemmata, morphology, treebank links) is a separate layer keyed by CTS URN and joined at read time, never merged in.",
+  "cts_urn": {
+   "hymns:adoro-te": null,
+   "hymns:pange-lingua": null
+  },
+  "note": "Neither hymn has a Perseus/CTS edition; the URN is null, not guessed."
+ },
+ "legacy_join": {
+  "HYM-adoro.st1.l1": "wh-3311SBRQQ3",
+  "HYM-adoro.st1.l2": "wh-XS0K64RXX7",
+  "HYM-adoro.st1.l3": "wh-54JF0Y5SAS",
+  "HYM-adoro.st1.l4": "wh-Q7RW8M6N3G",
+  "HYM-adoro.st2.l1": "wh-ERA831YD06",
+  "HYM-adoro.st2.l2": "wh-6BAB3R0VB3",
+  "HYM-adoro.st2.l3": "wh-ZAQ3WCX1ZT",
+  "HYM-adoro.st2.l4": "wh-AY5MTJ16HN",
+  "HYM-adoro.st3.l1": "wh-MTY5AZZA65",
+  "HYM-adoro.st3.l2": "wh-0861J9FP9P",
+  "HYM-adoro.st3.l3": "wh-9VBD834SNY",
+  "HYM-adoro.st3.l4": "wh-9VBD834SNY",
+  "HYM-adoro.st4.l1": "wh-DYSVH9E243",
+  "HYM-adoro.st4.l2": "wh-29N03JKMJ8",
+  "HYM-adoro.st4.l3": "wh-RQY04JNNVZ",
+  "HYM-adoro.st4.l4": "wh-RQY04JNNVZ",
+  "HYM-adoro.st5.l1": "wh-C6XJ8HY910",
+  "HYM-adoro.st5.l2": "wh-RG74QS4K4B",
+  "HYM-adoro.st5.l3": "wh-0Y016CRD3W",
+  "HYM-adoro.st5.l4": "wh-0Y016CRD3W",
+  "HYM-adoro.st6.l1": "wh-DZFZPFNWFA",
+  "HYM-adoro.st6.l2": "wh-KFJDX85FM3",
+  "HYM-adoro.st6.l3-4": "wh-04J0BZVQGS",
+  "HYM-adoro.st7.l1": "wh-J5EPARGG3B",
+  "HYM-adoro.st7.l2": "wh-ZX5Y8TQ8K1",
+  "HYM-adoro.st7.l3": "wh-CGTXCH3Y9B",
+  "HYM-adoro.st7.l4": "wh-CGTXCH3Y9B",
+  "HYM-pange.st1.c1": "wh-NWVT2A1HQN",
+  "HYM-pange.st1.c2": "wh-ZKZJZE0AY1",
+  "HYM-pange.st2": "wh-G1VG74Z7Q5",
+  "HYM-pange.st3": "wh-6BK80FRWKN",
+  "HYM-pange.st4.c1": "wh-ZNKCVN4RZK",
+  "HYM-pange.st4.c2": "wh-GYX50NF5ZP",
+  "HYM-pange.st4.c3": "wh-VX7C0X53T0",
+  "HYM-pange.st5.c1": "wh-CJ4HZ9V2X8",
+  "HYM-pange.st5.c2": "wh-R0KZHBXJSA",
+  "HYM-pange.st5.c3": "wh-KJD6FQ9548",
+  "HYM-pange.st6.c1": "wh-4ZG08CQDVD",
+  "HYM-pange.st6.c2": "wh-2YZEYPB0HE"
+ },
+ "inputs_sha256": {
+  "thomas-batch-01.json": "d13b14afecbf3213607f809870dbe3771c0ce7dde95564672b4747d7d8f144d5",
+  "thomas-batch-01-permutations.json": "16830d15f0b80d12fe077cff8ee06d36bb6b12feab392c5b71624d2060d728c0",
+  "thomas-batch-02.json": "921665fc4da7045883be87b7b02e822dec3a3ac1bd44c7b7aac7b3566b87d381",
+  "thomas-batch-02-permutations.json": "dbff05eb7a4ce4dd5727be1c244f356bd37b94a0a423f560532b4019db30fd5d"
+ },
+ "files_sha256": {
+  "alignments.jsonl": "12ebace38a924b7979096df37644ccbb9bc36a5cdb4f6531e602b5319a252c15",
+  "passages.jsonl": "c9b582e7d06aa6fc005018bdbc59e738f94a5be572823aee19d1105256409488",
+  "tokens.jsonl": "8b948a3d52d8b7025b7e3c143debcc301da89dfd818e15d79ab690e1e48ac5ae",
+  "witnesses.jsonl": "a0c1a713bb01146b7de9bd48c83adc23b680eb0a051188104cae039a69d5bf6e"
+ }
+}
