@@ -14,3 +14,7 @@ data/markdown/
 # refresh. See pipeline/wh_uid.py.
 !data/uids/
 !data/uids/*.json
+
+# Whitaker lemma table: rebuildable from the pinned files (build_lemma_spine.py);
+# its sha256 is in data/lemmas/whitaker-la/manifest.json. The hymn slice is committed.
+data/lemmas/whitaker-la/lemmas.jsonl

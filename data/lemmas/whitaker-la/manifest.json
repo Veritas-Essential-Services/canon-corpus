@@ -1,0 +1,66 @@
+{
+ "schema": "wordhoard/lemma-table/v1",
+ "doc": "pipeline/README-lemma-spine.md",
+ "language": "la",
+ "source": {
+  "name": "Whitaker's WORDS",
+  "version": "WORDS 1.97F data (mk270 port)",
+  "repo": "https://github.com/mk270/whitakers-words",
+  "commit": "1f2f0fb0867a896d7b9284a03d615ed635d6f992",
+  "files_sha256": {
+   "DICTLINE.GEN": "8f6c0fc84d12859abc863eac84ddd49b7e039503855ca34c1d44a6e78abf7569",
+   "INFLECTS.LAT": "dd0f019669719d820f690a6199286f6f54addfb06e959a7592699f8c7e6d2a9b",
+   "UNIQUES.LAT": "ed81efca10ec23d96e992724a98538c820f489b6ea3658afb1356ce6d2f7c8e2",
+   "ADDONS.LAT": "7a7f40b3020913882e8bfa156ebe01ee3f640b4505ef2b79c8836ef6b8a948fb",
+   "LICENCE.txt": "de533c3fb7c4a54b6d2deb5e56624947850bd2121c1de206ba5ee59b72c119a3"
+  },
+  "port": "pipeline/whitaker.py: stem+ending matching, verb filters, enclitics and dictionary forms ported from the Ada source at the same commit; TRICKS, SLURY, SYNCOPE and FIXES are not ported.",
+  "license": "free-grant",
+  "license_basis": "Copyright William A. Whitaker (1936-2010), with an unconditional grant of any and all use of program and data. Not public domain.",
+  "grant_verbatim": [
+   "This is a free program, which means it is proper to copy it and pass it on to your friends. Consider it a developmental item for which there is no charge. However, just for form, it is Copyrighted (c). Permission is hereby freely given for any and all use of program and data. You can sell it as your own, but at least tell me.",
+   "All parts of the WORDS system, source code and data files, are made freely available to anyone who wishes to use them, for whatever purpose."
+  ],
+  "evidence": [
+   {
+    "what": "the author's own documentation, WORDS 1.97F (sections 'Licence' and the program notice)",
+    "url": "http://web.archive.org/web/20101227020317/http://users.erols.com/whitaker/wordsdoc.htm",
+    "sha256": "67cd077c01defdd81480ede38d798551050dcd30a13a83a1ef19be80a9c608fe",
+    "note": "also: 'The source and data are freely available for anyone to use for any purpose. It may be converted to other languages, used in pieces, or modified in any way without further permission or notification.'"
+   },
+   {
+    "what": "LICENCE.txt in the maintained port, at the pinned commit",
+    "url": "https://raw.githubusercontent.com/mk270/whitakers-words/1f2f0fb0867a896d7b9284a03d615ed635d6f992/LICENCE.txt",
+    "sha256": "de533c3fb7c4a54b6d2deb5e56624947850bd2121c1de206ba5ee59b72c119a3"
+   }
+  ],
+  "verified": true,
+  "verified_on": "2026-09-26",
+  "attribution": "WORDS, a Latin dictionary, by Colonel William Whitaker (USAF, Retired)",
+  "open": "The grant is not the house's PD-or-own gate (launch plan D4 / ADR 0001). It is admitted here as its own class, `free-grant`, pending Adam's ruling. The grant asks, as a courtesy, 'at least tell me'; the author died in 2010."
+ },
+ "counts": {
+  "dictline_entries": 38101,
+  "synthetic_entries": 1,
+  "lemmas": 37765,
+  "lemmas_form_by_house": 9,
+  "inflections": 1797,
+  "uniques": 79,
+  "hymn_tokens": 263,
+  "hymn_forms": 222,
+  "hymn_forms_analysed": 221,
+  "hymn_forms_unknown": 1,
+  "hymn_lemmas": 291
+ },
+ "unknown_forms": [
+  "pellicane"
+ ],
+ "files_sha256": {
+  "hymns.analyses.jsonl": "664b39f0256debd192fcb7ada4fcd55a4293e33f80ca3025ba2e7732f0e0d3cc",
+  "hymns.lemmas.jsonl": "132e93dee783985dad494c6975eb49b3f87046761acde274f422feaf774d6015",
+  "lemmas.jsonl": "07b09ff515b27e1d7a41247214e8745b400e9652b2253964f445e58adc29c6c1"
+ },
+ "gitignored": [
+  "lemmas.jsonl"
+ ]
+}
