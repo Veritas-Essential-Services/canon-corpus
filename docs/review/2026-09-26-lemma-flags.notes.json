@@ -1,0 +1,237 @@
+{
+ "sheet": "docs/review/2026-09-26-lemma-flags.md",
+ "about": "The hand-written parts of the lemma review sheet: its prose, and per token the Whitaker, Why and Recommend cells and `ok`, the override row that answering `ok` writes. Everything else on the sheet is rendered from the data by pipeline/review.py.",
+ "intro": "# Lemma review: the 24 flagged hymn tokens (2026-09-26)\n\n**For:** Adam. **From:** the lemma spine (launch plan D3,\n`pipeline/README-lemma-spine.md`). **Built from:** `data/hymns/tokens.jsonl` at\nthe commit that added this sheet, after WORDS's tricks, syncope and\nprefix/suffix rules were ported.\n\nA token is flagged when Whitaker's WORDS and the house draft disagree, when\nWORDS offers several entries the draft cannot choose between, or when WORDS\nhas nothing. Until you answer, the **draft stands** on every flagged token.\nNothing here was overwritten.\n\n**How to answer.** Write in the *Adam* column: `ok` to take the\nrecommendation, `keep` to keep the draft as it is, or your own answer. I turn\neach answer into one row of `data/lemmas/adam-reviewed.jsonl` (README s.8).\nThe build then applies it with provenance `adam-reviewed`, and the draft and\nthe value it replaced stay on record. A row can set any of these:\n\n- `lemma_key`: one of Whitaker's entries, by the name in the *Whitaker* column.\n- `lemma`: a lemma as you want it written.\n- `parsing`: a parsing as you want it written.\n\nMost flags come in five kinds, so one ruling per kind would settle most of\nthe sheet:\n\n| kind | rows | the question |\n|---|---|---|\n| **A.** Same word, WORDS heads it differently (*sē* under *sui*, *nōbīs* under *nōs*, *suprēmus* under *superus*, *duodēnī* under *duodecim*, *subiiciō* spelled *subjicio*) | 1, 2, 4, 6, 13, 16, 17, 18, 23 | Keep the house headword, and join to Whitaker through `lemma_key`? (Recommended.) |\n| **B.** WORDS has two entries for one verb, transitive and intransitive | 3, 15, 19 | Pick by the sense in the line. |\n| **C.** WORDS has two principal-part sets (*praestitī* / *praestāvī*) | 8, 21 | Take *praestitī*, the classical one. |\n| **D.** Part of speech (*et*, *ergo*, *Amen*, *Thomas*) | 5, 7, 12, 20, 24 | Is the draft's class or WORDS's the house convention? |\n| **E.** Real homographs (*fidēs* faith / *fidēs* lyre-string, *mundus* world / clean, *beātus* two entries, *ūnus* NUM / ADJ) | 10, 11, 14, 22 | Pick by sense. |\n\nRow 9 (*pellicane*) is the odd one: WORDS has no pelican.\n\n---\n\n",
+ "outro": "\nRow numbers are for talking about the sheet only. Each answer is keyed by\nthe token's address: the clause uid plus the token number in brackets, e.g.\n`wh-54JF0Y5SAS/la.1.t02`.\n\n## What an answer looks like in the file\n\nRow 8, taken as recommended:\n\n```\n{\"address\": \"wh-0Y016CRD3W/la.1.t01\", \"surface\": \"Praesta\",\n \"lemma_key\": \"praesto, praestare, praestiti, praestitus  V (1st)\",\n \"reviewed_on\": \"2026-09-27\"}\n```\n\nRow 2, keeping the house spelling but joining to Whitaker:\n\n```\n{\"address\": \"wh-54JF0Y5SAS/la.1.t06\", \"surface\": \"subiicit\",\n \"lemma\": \"subiciō, -ere, -iēcī, -iectum\",\n \"lemma_key\": \"subjicio, subjicere, subjeci, subjectus  V (3rd) TRANS\",\n \"reviewed_on\": \"2026-09-27\", \"note\": \"house spelling; WORDS spells with j\"}\n```\n\nRow 5, keeping the draft's parsing:\n\n```\n{\"address\": \"wh-0861J9FP9P/la.1.t05\", \"surface\": \"et\", \"parsing\": \"adv\",\n \"reviewed_on\": \"2026-09-27\", \"note\": \"et = etiam\"}\n```\n\nThe build refuses a `lemma_key` that is not one of Whitaker's analyses of\nthat form. It also refuses a row whose surface no longer matches its token.\nThen run `python pipeline/build_hymn_corpus.py` and\n`python tests/lemma_spine_test.py`, and commit `data/lemmas/adam-reviewed.jsonl`\nwith `data/hymns/`.\n",
+ "rows": [
+  {
+   "address": "wh-54JF0Y5SAS/la.1.t02",
+   "whitaker": "`-, sui  PRON` (acc/abl, any number)",
+   "why": "A: WORDS heads the reflexive under *sui*",
+   "recommend": "`lemma_key` = `-, sui  PRON`; keep lemma *sē*; parsing stays",
+   "ok": {
+    "lemma": "sē",
+    "lemma_key": "-, sui  PRON"
+   }
+  },
+  {
+   "address": "wh-54JF0Y5SAS/la.1.t06",
+   "whitaker": "`subjicio, subjicere, subjeci, subjectus  V (3rd) TRANS` (3 sg pres ind act)",
+   "why": "A: WORDS spells it with *j* (so its headword folds to *subiicio*, not *subicio*)",
+   "recommend": "`lemma_key` = WORDS's *subjicio* entry; keep the house lemma *subiciō*",
+   "ok": {
+    "lemma": "subiciō, -ere, -iēcī, -iectum",
+    "lemma_key": "subjicio, subjicere, subjeci, subjectus  V (3rd) TRANS",
+    "note": "house spelling; WORDS spells with j"
+   }
+  },
+  {
+   "address": "wh-Q7RW8M6N3G/la.1.t05",
+   "whitaker": "`deficio … V (3rd) INTRANS` (\"fail, grow faint\"); `deficio … V (3rd) TRANS` (\"fail, let down\")",
+   "why": "B: two entries, same parse",
+   "recommend": "`lemma_key` = the **INTRANS** entry (the heart \"fails\", \"faints\")",
+   "ok": {
+    "lemma_key": "deficio, deficere, defeci, defectus  V (3rd) INTRANS"
+   }
+  },
+  {
+   "address": "wh-ZAQ3WCX1ZT/la.1.t02",
+   "whitaker": "`quidquid  PRON  (UNIQUES)` (nom/acc sg n)",
+   "why": "A: WORDS lists *quidquid* as an irregular form with no dictionary heading",
+   "recommend": "`keep`: the draft's *quisquis, quidquid* is the heading learners look up. A UNIQUES key would join only this one form.",
+   "ok": {
+    "lemma": "quisquis, quidquid"
+   }
+  },
+  {
+   "address": "wh-0861J9FP9P/la.1.t05",
+   "whitaker": "`et  CONJ`",
+   "why": "D: WORDS has only the conjunction",
+   "recommend": "`keep` \"adv\". Here *et* = *etiam*, \"also\", which the grammars class as adverbial.",
+   "ok": {
+    "parsing": "adv",
+    "note": "et = etiam"
+   }
+  },
+  {
+   "address": "wh-9VBD834SNY/la.1.t01",
+   "whitaker": "`amb  NUM` (\"both\"; acc pl m/n and others)",
+   "why": "A: WORDS's entry has one stem, so its printed heading is the bare stem *amb*",
+   "recommend": "`lemma_key` = `amb  NUM`; keep lemma *ambō, ambae, ambō*",
+   "ok": {
+    "lemma": "ambō, ambae, ambō",
+    "lemma_key": "amb  NUM"
+   }
+  },
+  {
+   "address": "wh-DYSVH9E243/la.1.t03",
+   "whitaker": "`Thomas, undeclined  N M` (N 9 9, eccl.)",
+   "why": "D: WORDS treats the name as indeclinable. The lemma is already Whitaker's (\"Thomas, undeclined\").",
+   "recommend": "lemma *Thōmās, -ae m.* with WORDS's `lemma_key`; `keep` the parsing. The Vulgate declines it (*Thomae*).",
+   "ok": {
+    "lemma": "Thōmās, -ae m.",
+    "lemma_key": "Thomas, undeclined  N M",
+    "parsing": "nom sg (Greek 1st decl)"
+   }
+  },
+  {
+   "address": "wh-0Y016CRD3W/la.1.t01",
+   "whitaker": "`praesto … praestiti, praestitus  V (1st)` (freq A); `praesto … praestavi, praestatus  V (1st)` (freq C)",
+   "why": "C: two principal-part sets",
+   "recommend": "`lemma_key` = the **praestiti** entry",
+   "ok": {
+    "lemma_key": "praesto, praestare, praestiti, praestitus  V (1st)"
+   }
+  },
+  {
+   "address": "wh-DZFZPFNWFA/la.1.t02",
+   "whitaker": "`pellex, pellicis  N (3rd) F` + suffix *-an-*, read as ADJ voc sg m, \"concubine-ish\": wrong",
+   "why": "WORDS has no *pelicanus* in any spelling. Before the port this token was `unknown`; now WORDS's own suffix rule mis-reads it.",
+   "recommend": "`keep` the draft lemma and parse, no `lemma_key`",
+   "ok": {
+    "lemma": "pellicānus, -ī m.",
+    "parsing": "voc sg"
+   }
+  },
+  {
+   "address": "wh-04J0BZVQGS/la.1.t02",
+   "whitaker": "`unus -a -um, primus … NUM` (\"one\", freq A); `unus, una, unum (gen -ius)  ADJ` (\"alone, a single\", freq E)",
+   "why": "E: two entries",
+   "recommend": "`lemma_key` = the **NUM** entry: \"one drop\", the cardinal",
+   "ok": {
+    "lemma_key": "unus -a -um, primus -a -um, singuli -ae -a, semel  NUM"
+   }
+  },
+  {
+   "address": "wh-CGTXCH3Y9B/la.1.t08",
+   "whitaker": "`beatus, beata -um, beatior …  ADJ` (\"happy, fortunate\", classical); `beatus, beata, beatum  ADJ` (\"blessed, blissful\", medieval/eccl.); also *beo* ptc and noun *beatus*",
+   "why": "E: two ADJ entries with the draft's parts",
+   "recommend": "`lemma_key` = the classical **beatus, beata -um, beatior …** entry, which has the comparison forms. The eccl. entry is the closer sense, so this one is your call.",
+   "ok": {
+    "lemma_key": "beatus, beata -um, beatior -or -us, beatissimus -a -um  ADJ"
+   }
+  },
+  {
+   "address": "wh-CGTXCH3Y9B/la.1.t11",
+   "whitaker": "`amen  ADV`",
+   "why": "D: WORDS parses it as an adverb",
+   "recommend": "parsing \"adv (Hebrew, indecl)\": takes WORDS's class and keeps the note",
+   "ok": {
+    "parsing": "adv (Hebrew, indecl)"
+   }
+  },
+  {
+   "address": "wh-G1VG74Z7Q5/la.1.t01",
+   "whitaker": "`nos, nostrum  PRON` (dat/abl pl)",
+   "why": "A: WORDS heads *nos* separately from *ego*",
+   "recommend": "`lemma_key` = `nos, nostrum  PRON`; take its lemma. The second *nobis* in this line was drafted as *nōs* and already takes this entry, so this makes the pair match.",
+   "ok": {
+    "lemma_key": "nos, nostrum  PRON"
+   }
+  },
+  {
+   "address": "wh-G1VG74Z7Q5/la.1.t10",
+   "whitaker": "`mundus, mundi  N (2nd) M` (\"world\"); `mundus, munda -um …  ADJ` (\"clean\"); *mundo, mundare* V",
+   "why": "E: the draft's lemma names no part of speech",
+   "recommend": "`lemma_key` = `mundus, mundi  N (2nd) M`",
+   "ok": {
+    "lemma_key": "mundus, mundi  N (2nd) M"
+   }
+  },
+  {
+   "address": "wh-G1VG74Z7Q5/la.1.t19",
+   "whitaker": "`claudo … V (3rd) TRANS` (\"close, conclude\"); `claudo … V (3rd) INTRANS` (\"limp\"); *claudeo*",
+   "why": "B: two entries",
+   "recommend": "`lemma_key` = the **TRANS** entry: he \"closed\" (*moras* is its object)",
+   "ok": {
+    "lemma_key": "claudo, claudere, clausi, clausus  V (3rd) TRANS"
+   }
+  },
+  {
+   "address": "wh-6BK80FRWKN/la.1.t02",
+   "whitaker": "`superus, supera -um, superior …, supremus -a -um  ADJ` (gen sg f SUPER)",
+   "why": "A: WORDS files *suprēmus* as the superlative of *superus*",
+   "recommend": "`lemma_key` = the *superus* entry; keep lemma *suprēmus*",
+   "ok": {
+    "lemma": "suprēmus, -a, -um",
+    "lemma_key": "superus, supera -um, superior -or -us, supremus -a -um  ADJ"
+   }
+  },
+  {
+   "address": "wh-6BK80FRWKN/la.1.t16",
+   "whitaker": "`duodecim, duodecimus …, duodeni -ae -a …  NUM` (DIST, nom/voc **pl** f only)",
+   "why": "A: one WORDS entry covers the whole numeral family. The parse was not checked. WORDS has no dat sg: distributives are plural.",
+   "recommend": "`lemma_key` = the *duodecim* entry; keep lemma *duodēnī*; `keep` parsing \"f dat sg\" (a distributive used as a singular adjective with *turbae*)",
+   "ok": {
+    "lemma": "duodēnī, -ae, -a",
+    "lemma_key": "duodecim, duodecimus -a -um, duodeni -ae -a, duodecie (n)s  NUM",
+    "parsing": "f dat sg"
+   }
+  },
+  {
+   "address": "wh-6BK80FRWKN/la.1.t17",
+   "whitaker": "`-, sui  PRON`",
+   "why": "A: as row 1",
+   "recommend": "as row 1",
+   "ok": {
+    "lemma": "sē",
+    "lemma_key": "-, sui  PRON"
+   }
+  },
+  {
+   "address": "wh-VX7C0X53T0/la.1.t04",
+   "whitaker": "`deficio … INTRANS`; `deficio … TRANS`",
+   "why": "B: as row 3",
+   "recommend": "`lemma_key` = the **INTRANS** entry (\"if the senses fail\")",
+   "ok": {
+    "lemma_key": "deficio, deficere, defeci, defectus  V (3rd) INTRANS"
+   }
+  },
+  {
+   "address": "wh-CJ4HZ9V2X8/la.1.t02",
+   "whitaker": "`ergo  ADV`",
+   "why": "D: WORDS classes *ergo* as an adverb",
+   "recommend": "parsing \"adv (inferential: therefore)\", since the dictionaries class it so. `keep` if the house teaches it as a conjunction.",
+   "ok": {
+    "parsing": "adv (inferential: therefore)"
+   }
+  },
+  {
+   "address": "wh-KJD6FQ9548/la.1.t01",
+   "whitaker": "*praestiti* and *praestavi* entries (as row 8); also impersonal *praestat*",
+   "why": "C: as row 8",
+   "recommend": "`lemma_key` = the **praestiti** entry",
+   "ok": {
+    "lemma_key": "praesto, praestare, praestiti, praestitus  V (1st)"
+   }
+  },
+  {
+   "address": "wh-KJD6FQ9548/la.1.t02",
+   "whitaker": "`fides, fidei  N (5th) F` (\"faith\"); `fides, fidis  N (3rd) F` (\"lyre string\"); *fidis*; *fido*",
+   "why": "E: the draft's lemma names no declension",
+   "recommend": "`lemma_key` = `fides, fidei  N (5th) F`",
+   "ok": {
+    "lemma_key": "fides, fidei  N (5th) F"
+   }
+  },
+  {
+   "address": "wh-2YZEYPB0HE/la.1.t03",
+   "whitaker": "`uter, utra, utrum  ADJ` + *-que* (abl sg m/n); `utroque  ADV`; `utro  ADV` + *-que*",
+   "why": "A: WORDS builds *uterque* as *uter* + *-que* and has no *uterque* heading",
+   "recommend": "lemma *uterque, utraque, utrumque* with `lemma_key` = `uter, utra, utrum  ADJ`; parsing stays",
+   "ok": {
+    "lemma": "uterque, utraque, utrumque",
+    "lemma_key": "uter, utra, utrum  ADJ"
+   }
+  },
+  {
+   "address": "wh-2YZEYPB0HE/la.1.t07",
+   "whitaker": "`amen  ADV`",
+   "why": "D: as row 12",
+   "recommend": "as row 12",
+   "ok": {
+    "parsing": "adv (Hebrew, indecl)"
+   }
+  }
+ ]
+}

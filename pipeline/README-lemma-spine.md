@@ -20,6 +20,7 @@ python pipeline/build_lemma_spine.py --check   # committed lemma files byte-iden
 python pipeline/proper_names.py --fetch        # once: Hitchcock's Bible Names (s.10)
 python pipeline/proper_names.py --check        # the names table byte-identical (needs the Vulgate)
 python tests/proper_names_test.py              # 46 checks
+python pipeline/review.py status               # Adam's review sheet: answered / open (s.8b)
 ```
 
 ---
@@ -392,6 +393,56 @@ are cleared, and any others stand. The hymn manifest declares the
 applied. A malformed row, a key Whitaker does not have, a surface that no
 longer matches, or a row for a token that does not exist stops the build. An
 answer is never dropped silently.
+
+## 8b. Answering the sheet: `pipeline/review.py`
+
+Nobody needs to write those rows by hand. Adam fills the sheet's **Adam:**
+column, and the tool writes them:
+
+```
+python pipeline/review.py status                                  # answered / open, per sheet
+python pipeline/review.py apply docs/review/2026-09-26-lemma-flags.md --dry-run
+python pipeline/review.py apply docs/review/2026-09-26-lemma-flags.md
+python pipeline/review.py render                                  # the sheet again, from the data
+python pipeline/review.py render --check                          # is the sheet what the data says?
+python tests/review_test.py                                       # 50 checks, on a temp copy
+```
+
+| in the Adam: column | what is written |
+|---|---|
+| `ok` or `✓` | the row's recommendation, exactly (kept in the notes file as `ok`) |
+| `keep` | the draft value for what was flagged: `lemma` for a lemma flag, `parsing` for a parsing flag |
+| a Whitaker key, e.g. `mundus, mundi  N (2nd) M` | `lemma_key` (matched with spacing folded, since markdown loses a double space) |
+| any other string, on a lemma flag | `lemma`, as written |
+| `lemma_key: …; lemma: …; parsing: …; note: …` | those fields, any of them |
+| `as row 1` | row 1's answer |
+| `draft→` | nothing: the draft stands and the token stays flagged |
+| blank | nothing, ever |
+
+Anything else stops the run **before anything is written**, and each stop
+names the row: a bare string on a row flagged only for its parsing (say
+`parsing: …` or `lemma: …`), `ok?` or `x or y`, `ok but …`, a `lemma_key`
+Whitaker does not have for that form, `draft→ something` (a lemma answer has no
+draft state). Each answer is checked with `apply_override` against the
+token's own analyses before the file is touched.
+
+An answered row is dated `reviewed_on` from the machine's clock (`--today`
+overrides it, for tests), written in token order, and then
+`build_hymn_corpus.py` rebuilds and its `--check` runs. If the build refuses,
+the overrides file is put back. Applying the same sheet again writes nothing:
+a row that already says what the answer says keeps its `reviewed_on`.
+
+**The sheet is rendered, not hand-kept.** What the data cannot say (the prose
+above and below the table, and each row's *Whitaker's candidates*, *Why
+flagged* and *Recommend* cells, and the row `ok` writes) lives in
+`docs/review/2026-09-26-lemma-flags.notes.json`. Everything else comes from
+`data/hymns/` and the provenance's `draft`. `render` is byte-identical to the
+sheet while the data is unchanged. After an apply, it shows each answered row
+as `ok`, `keep` or its fields, so the rendered sheet applies as a no-op.
+`render` refuses to overwrite answers that have not been applied yet
+(`--force` drops them). The rows are the tokens in the notes file plus any
+token flagged since, so a new flag appears with `—` in the hand-written cells
+until the notes file gains them.
 
 ## 9. The house supplement
 

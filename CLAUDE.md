@@ -93,6 +93,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
     node tests/mnemonicon_pack_browser_test.js         # import into the real page (Playwright, temp copy)
+    python3 pipeline/review.py status                  # Adam's review sheets: answered / open
+    python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
+    python3 pipeline/review.py render --check          # the sheets are what the data renders
+    python3 tests/review_test.py                       # review.py end to end, on a temp copy
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)

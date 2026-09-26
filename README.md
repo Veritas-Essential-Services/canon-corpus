@@ -28,6 +28,19 @@ provenance) is the committed record of the collection.
     python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
     python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)
     python3 tests/reader_test.py            # the reader: deterministic, self-contained, every token (D5)
+    python3 tests/review_test.py            # review.py end to end, on a temp copy of the repo
+
+## Adam's review sheets
+
+    python3 pipeline/review.py status               # answered vs open, per sheet
+    python3 pipeline/review.py apply <sheet.md>     # his answers -> override rows, rebuild, --check
+    python3 pipeline/review.py render [--check]     # the sheets, regenerated from the data
+
+`docs/review/2026-09-26-lemma-flags.md` (24 Latin tokens -> `data/lemmas/adam-reviewed.jsonl`)
+and `docs/review/2026-09-26-john1-drafts.md` (137 house glosses and 18 plain lines ->
+`data/nt/gloss-overrides.jsonl`, `data/nt/prose-order.jsonl`). The answers `ok`/`✓`,
+`draft→` and a value are explained in `pipeline/README-lemma-spine.md` s.8b and
+`pipeline/README-nt-jsonl.md` s.15. Anything ambiguous stops the run and names the row.
 
 ## Latin hymns (JSONL)
 

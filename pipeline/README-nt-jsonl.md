@@ -304,6 +304,8 @@ python3 pipeline/build_nt_corpus.py --fetch    # pinned inputs -> data/corpus/ (
 python3 pipeline/build_nt_corpus.py --check    # mint 0, byte-identical
 python3 tests/nt_corpus_test.py                # the validator
 python3 pipeline/build_nt_corpus.py --survey   # the whole NT, measured; writes nothing
+python3 pipeline/review.py status              # the John 1 drafts: answered / open (s.15)
+python3 pipeline/review.py apply docs/review/2026-09-26-john1-drafts.md
 ```
 
 ## 12. Glosses: Strong's dictionary glosses, by a fixed rule
@@ -467,3 +469,46 @@ following Robinson's first parse, or with *the light*), 1:14 ἐσκήνωσεν
 (*dwelt*, or the literal *tented*) and 1:16 ἀντί (*in place of*). The supplied words are
 few and bracketed: articles English needs, a subject pronoun where the Greek
 verb carries it, *was* in 1:6, *came* in 1:8, and *him* in 1:18.
+
+## 15. Answering the review doc: `pipeline/review.py`
+
+*Added 2026-09-26. Tests: `tests/review_test.py` (on a temp copy of the repo).*
+
+Adam answers `docs/review/2026-09-26-john1-drafts.md` in its **Adam:** cells
+(one per gloss row) and its **Adam (plain line):** line (one per verse), then:
+
+```
+python3 pipeline/review.py apply docs/review/2026-09-26-john1-drafts.md --dry-run
+python3 pipeline/review.py apply docs/review/2026-09-26-john1-drafts.md
+```
+
+| answer | a gloss row | a plain line |
+|---|---|---|
+| `✓` or `ok` | accepted: layer `adam-reviewed`, `draft`/`drafted_on` dropped, `reviewed_on` added; gloss, plain_form and note kept | accepted: source `adam-reviewed`, dated the same way |
+| a string | the gloss, now Adam's. On a row that also has a `plain_form`, the run stops: say which | a prose_order, `[1, "the", 2, …]`, optionally followed by `absorbed [11]` (the sheet's own `` `prose_order` … · `absorbed` … `` line pastes back as is) |
+| `gloss: …; plain_form: …` | those fields (`plain_form: none` removes it) | — |
+| `draft→` | nothing: the draft stands | nothing |
+| `draft→ <value>` | the draft revised, still `draft: true`, `drafted_on` today | the order revised, still a draft |
+| blank | nothing, ever | nothing, ever |
+
+A gloss must be a word gloss (at most four words, no markup), and a
+prose_order must be a permutation of the verse's tokens. An order that leaves
+positions out without saying `absorbed […]` stops, naming them. So does an
+English sentence in place of an order, `x or y`, a question mark, or `ok but …`.
+Every stop names the verse and the word, and nothing is written until every
+answer reads cleanly. Rows are rewritten in place, in the file's order and key
+order. `build_nt_corpus.py` then rebuilds, and its `--check` runs. If the build
+refuses, the files are put back. A second apply writes nothing.
+
+To reject a draft outright, delete its row from `gloss-overrides.jsonl`: the
+dictionary gloss comes back. The tool does not delete. A replaced gloss's
+house draft survives only in git history (`provenance.gloss.was` holds the
+dictionary value, as before).
+
+`adam-reviewed` is one source for both files, licence own, declared in the
+manifest once a row uses it. A reviewed row is never a draft. The manifest's
+`drafts` block counts what is still open, and says `none open` at zero.
+`render` rebuilds the doc from `data/nt/` and
+`docs/review/2026-09-26-john1-drafts.notes.json` (its prose, with the row
+counts filled in). It is byte-identical while nothing has changed. An accepted
+row shows `✓`, and a revised draft shows its new value with the cell open again.
