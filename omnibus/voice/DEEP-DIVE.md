@@ -386,14 +386,14 @@ himself isn't confirmed.
 - **His views on the Jews.** News coverage reports his public criticism
   of Jews and other non-Christians.
 
-**Editorial ruling (Adam, 2026-09-25).** We're against Isker on the Jews,
-and with him on most other things. His errors on that point are tolerated
-in the man but never carried into our content. In practice:
+**Editorial ruling (Adam, 2026-09-25, revised 2026-09-26).** We're against
+Isker on the Jews, and with him on most other things. His error on that point
+stays out of our content. In practice:
 - **By default, borrow without naming.** The stance and the axe-and-oak
   image are ours to use. Boniface is public history, not Isker's property.
-- **Name him only when he has framed an issue better than anyone else**,
-  and even then with a short, plain qualification the first time he
-  appears in a chapter. See rule 9 in `VOICE.md` for the pattern.
+- **Name him when he has framed an issue better than anyone else**, and
+  name him plainly, with **no disclaimer**. A qualification would poison the
+  well against the very point we're citing him for. See rule 9 in `VOICE.md`.
 - **Nothing from him on Jews, Judaism or Israel**, cited or uncited.
 
 ### Auron MacIntyre: how power actually works
