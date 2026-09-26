@@ -89,6 +89,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
     python3 tests/nt_corpus_test.py          # validator for data/nt/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
+    python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
+    python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
+    python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
+    node tests/mnemonicon_pack_browser_test.js         # import into the real page (Playwright, temp copy)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -110,6 +114,10 @@ The living truth for project state is the Obsidian vault:
   One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
   mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
   pipeline/README-nt-jsonl.md
+- pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
+  files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
+  refuses anything else). One piece per stanza, a line per clause; ids are
+  uuid5 of the passage uid, so a re-import adds nothing. Launch plan C5.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
