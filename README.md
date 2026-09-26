@@ -29,6 +29,7 @@ provenance) is the committed record of the collection.
     python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)
     python3 tests/reader_test.py            # the reader: deterministic, self-contained, every token (D5)
     python3 tests/review_test.py            # review.py end to end, on a temp copy of the repo
+    python3 tests/remint_maxims_test.py     # remint_maxims.py end to end, on a temp copy
 
 ## Adam's review sheets
 
