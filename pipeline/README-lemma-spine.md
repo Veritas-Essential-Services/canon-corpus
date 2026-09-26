@@ -15,7 +15,7 @@ python pipeline/build_lemma_spine.py --fetch   # once: the pinned Whitaker files
 python pipeline/build_lemma_spine.py           # the table + the hymn analyses
 python pipeline/build_hymn_corpus.py           # tokens take lemma/parsing from them
 python tests/lemma_spine_test.py               # 64 checks
-python tests/whitaker_tricks_test.py           # 63 checks: one or more per ported rule
+python tests/whitaker_tricks_test.py           # 101 checks: one or more per ported rule
 python pipeline/build_lemma_spine.py --check   # committed lemma files byte-identical
 ```
 
@@ -86,8 +86,11 @@ speech, flags (age, area, geography, frequency, source) and English meaning.
 `via` lists the rules WORDS needed to read the form, outermost first, e.g.
 `[{"kind": "TRICK", "table": "Mediaeval_Tricks", "rule": "internal e/ae",
 "as": "cenae", "explain": ...}]`. `kind` is `SYNCOPE`, `SLURY`, `TRICK`,
-`PREFIX`, `SUFFIX` or `TWO_WORDS`; `as` is the form WORDS actually looked up;
-`explain` is WORDS's own explanation line. A plain analysis has no `via`.
+`PREFIX`, `SUFFIX`, `TWO_WORDS`, `TACKON` or `ROMAN`; `as` is the form WORDS
+actually looked up; `explain` is WORDS's own explanation line. A plain
+analysis has no `via`. A Roman numeral is its own lemma (`form_by:
+"whitaker-roman"`, e.g. `MCMXCIX  NUM  (ROMAN)`, `value` 1999); an ill-formed
+one, read leniently, is a `TRICK` from table `Bad_Roman_Number`.
 
 ## 3. How a token gets its lemma and parsing
 
@@ -175,6 +178,18 @@ The code is ported from the Ada source at the same commit, rule for rule:
   (Harrington/Elliott: *e*/*ae*, *ci*/*ti*, *t*/*th*, ...), a terminal
   *-iis* on adjectives, *is*/*iis* for *eo*, doubled consonants written
   single, and two words run together;
+- **Roman numerals** (`roman_numerals_package.adb`): Roman_Number rule for
+  rule (*XIV* = 14, *IIII* = 4; *IIX*, *VL*, *XCL* refused), tried first and
+  kept beside any other reading (*vi* is 6 and a form of *vis*); an
+  ill-formed numeral is read by Bad_Roman_Number at the very end of TRICKS
+  (*IIX* = 8), replacing any two-words guess, as in the Ada;
+- **the non-enclitic TACKONs** (`word_package.adb`, Try_Tackons): *-cumque*,
+  *-cunque*, *-cine*, *-pte*, *-ce*, *-modi*, *-dem*, *-cum*, *-vis*, *-met*,
+  *-familias*, in `ADDONS.LAT` order, when Word finds nothing else (so inside
+  every rule too): *egomet*, *mecum*, *nobiscum*, *quantuscumque*, *suapte*,
+  *huiusmodi*, *paterfamilias*. A tackon keeps only readings of its own part
+  of speech (a pronoun only of a declension it fits), and the first that hits
+  wins;
 - the order WORDS tries all of this in (`parse.adb`, Pass and
   Parse_Latin_Word): plain; SLURY if nothing; SYNCOPE unless a form of *esse*
   is there; the enclitics; FIXES if still nothing; TRICKS last, then TRICKS on
@@ -187,9 +202,15 @@ them with the Ada (pinned by sha256 in `whitaker.ADA_SOURCES`, fetched by
 the tables are folded too and cannot tell consonantal *v* from *u*; WORDS's
 "is this the perfect system?" looks only at the last record of an internally
 sorted array, here any record counts; one branch of SLUR can never fire in
-the Ada (it compares strings of different lengths) and is not ported; and
-Roman numerals, the non-enclitic TACKONs and PACKONs are still not ported.
+the Ada (it compares strings of different lengths) and is not ported;
+Roman numerals are read from the form as written, because the search key has
+already turned every *v* into *u*, which is not a Roman digit; and PACKONs
+(*quicumque*, *quidam* built from *qui* + tackon) are still not ported.
 Frequency trimming is not ported either: every analysis is kept.
+
+One bug fixed with this port (2026-09-26): the enclitic list was read
+unfolded, so *-ve* was compared as `ve` against search keys where it is
+always `ue`, and never stripped. It is folded now. No hymn form changed.
 
 WORDS assumes at most one trick per word ("the chances are 1/1000", its
 comment says). So *leticia* (needs both *ae* and *ti*) stays out of reach, as

@@ -152,7 +152,8 @@ def build():
             "files_sha256": {k: v for k, v in W.PINS.items()},
             "ada_sources_sha256": dict(W.ADA_SOURCES),
             "port": ("pipeline/whitaker.py + whitaker_tricks.py: stem+ending matching, verb "
-                     "filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES and TRICKS, "
+                     "filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES, TRICKS, Roman "
+                     "numerals and the non-enclitic TACKONs, "
                      "ported from the Ada source at the same commit (departures listed in "
                      "whitaker_tricks.py); an analysis reached by a rule carries `via`."),
             **W.LICENCE,

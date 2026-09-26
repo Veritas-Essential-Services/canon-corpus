@@ -31,9 +31,11 @@ WHAT IS PORTED, AND WHAT IS NOT
         two words run together), and the order WORDS tries them in
         (parse.adb): whitaker_tricks.py, which lists where it departs from
         the Ada and why. Every analysis they produce carries `via`.
-    NOT ported: PACKONs other than via UNIQUES, the non-enclitic TACKONs,
-      Roman numerals, and WORDS's frequency trimming. Every analysis is
-      kept; none is discarded as rare.
+      * Roman numerals (roman_numerals_package.adb), and the non-enclitic
+        TACKONs (word_package.adb, Try_Tackons: -cumque, -met, -pte, -cum,
+        -modi, -familias ...), also in whitaker_tricks.py.
+    NOT ported: PACKONs other than via UNIQUES, and WORDS's frequency
+      trimming. Every analysis is kept; none is discarded as rare.
 
     One gap is filled by the house and marked: WORDS prints NO dictionary form
     for pronouns of declension 1 (qui/quis) and 5 (ego/tu/nos/vos/sui) -- its
@@ -49,7 +51,6 @@ LICENCE (verified 2026-09-26; recorded verbatim in the manifest)
 
 import hashlib
 import os
-import re
 import unicodedata
 import urllib.request
 
@@ -87,6 +88,8 @@ ADA_SOURCES = {
         "791015d17204744379e0cb8392e391fdb29ee86ffb9fbfadb53d559aa8264394",
     "src/support_utils/support_utils-addons_package.adb":
         "0103480f3b93e377830d21c6da051aae13653f0596557b4c037283f426ba5c31",
+    "src/words_engine/words_engine-roman_numerals_package.adb":
+        "27c9566ca9b2688f9c6455d79782bdd66e138a296ed697af1cbeb2da9faed011",
 }
 ADA_CACHE = os.path.join(CACHE, "ada")
 
@@ -328,13 +331,15 @@ def _entry_fields(tokens, pos):
 
 
 def load_addons(path):
-    """PREFIX and SUFFIX entries of ADDONS.LAT, in file order (Load_Addons).
-    Each entry is three lines: `PREFIX fix [connect]`, its entry, a meaning.
-    Prefixes whose root is PACK are TICKONs (qu-pronoun prefixes) and are
-    kept apart, as WORDS keeps them."""
+    """PREFIX, SUFFIX and TACKON entries of ADDONS.LAT, in file order
+    (Load_Addons). Each entry is three lines: `PREFIX fix [connect]`, its
+    entry, a meaning. Prefixes whose root is PACK are TICKONs (qu-pronoun
+    prefixes), and TACKONs on a qu-pronoun are PACKONs; both are kept apart,
+    as WORDS keeps them. (A TACKON's meaning line may itself begin `TACKON`,
+    so entries are read three lines at a time, never by that word.)"""
     with open(path, encoding="latin-1") as f:
         lines = [l.rstrip("\r\n") for l in f]
-    prefixes, tickons, suffixes = [], [], []
+    prefixes, tickons, suffixes, tackons, packons = [], [], [], [], []
     i = 0
     while i < len(lines):
         l = lines[i]
@@ -345,6 +350,14 @@ def load_addons(path):
         n = i + 1
         i += 3
         if head[0] == "TACKON":
+            # Load_Addons: a PACK entry of declension 1 or 2 whose meaning
+            # opens "PACKON w/" is a PACKON; every other TACKON is a TACKON
+            part = _part(entry) if entry else {"pos": "X"}
+            row = {"line": n, "tack": fold(head[1]), "entry": part, "meaning": meaning}
+            if part["pos"] == "PACK" and part["decl"][0] in (1, 2) and meaning[:9] == "PACKON w/":
+                packons.append(row)
+            else:
+                tackons.append(row)
             continue
         fix = fold(head[1])
         connect = fold(head[2]) if len(head) > 2 else " "
@@ -361,21 +374,16 @@ def load_addons(path):
                              "target_key": int(entry[3 + k]), "meaning": meaning})
         else:
             raise SystemExit(f"ADDONS.LAT:{n}: bad addon {l!r}")
-    return {"prefixes": prefixes, "tickons": tickons, "suffixes": suffixes}
+    return {"prefixes": prefixes, "tickons": tickons, "suffixes": suffixes,
+            "tackons": tackons, "packons": packons}
 
 
 def load_tackons(path):
-    """The TACKON list in file order (WORDS's first four -- que, ne, ve, est --
-    are the enclitics parse.adb tries)."""
-    out = []
-    with open(path, encoding="latin-1") as f:
-        lines = [l.rstrip("\r\n") for l in f]
-    for i, l in enumerate(lines):
-        if l.startswith("TACKON "):
-            parts = l.split()
-            if len(parts) >= 2 and re.fullmatch(r"[a-z]+", parts[1]):
-                out.append(parts[1])
-    return out
+    """The TACKONs (not PACKONs) in file order, folded: WORDS's first four --
+    que, ne, ve, est -- are the enclitics parse.adb tries. Folded because
+    Subtract_Tackon compares with u = v: an unfolded `ve` never matched a
+    search key (fixed 2026-09-26; before that -ve was never stripped)."""
+    return [t["tack"] for t in load_addons(path)["tackons"]]
 
 
 # ---------------------------------------------------------------------------
@@ -719,6 +727,13 @@ class Whitaker:
         self.tackons = load_tackons(os.path.join(cache, "ADDONS.LAT"))
         addons = load_addons(os.path.join(cache, "ADDONS.LAT"))
         self.prefixes, self.suffixes = addons["prefixes"], addons["suffixes"]
+        # Try_Tackons runs over Tackons (5 .. Number_Of_Tackons): the first
+        # four are the enclitics que, ne, ve, est, which parse.adb handles
+        self.tackon_items = addons["tackons"]
+        self.packons = addons["packons"]
+        # switches, so what each port adds can be measured (both on in WORDS)
+        self.use_tackons = True
+        self.use_roman = True
         self.entries.append(ESSE)
         self.stem_index = {}
         for i, e in enumerate(self.entries):
@@ -825,8 +840,14 @@ class Whitaker:
                 if (w[len(w) - c:] if c else "") in self.by_ending]
 
     def plain(self, word):
-        """Word_Package.Word without fixes: uniques, then stem + ending."""
-        return self._word(fold(word))
+        """Word_Package.Word without fixes: uniques, then stem + ending, then
+        (only if those found nothing) the non-enclitic TACKONs."""
+        w = fold(word)
+        r = self._word(w)
+        if not r and self.use_tackons:
+            import whitaker_tricks
+            r = whitaker_tricks.try_tackons(self, w, self.plain)
+        return r
 
     def _word(self, w):
         out = []
@@ -855,10 +876,16 @@ class Whitaker:
         """Every WORDS analysis of `word`, as dicts. Deterministic order.
         The order of attempts is parse.adb's (whitaker_tricks.parse_latin_word)."""
         import whitaker_tricks
-        return [self._describe(a) for a in whitaker_tricks.parse_latin_word(self, fold(word))]
+        return [self._describe(a) for a in whitaker_tricks.parse_latin_word(self, fold(word), raw=word)]
 
     def _describe(self, a):
         p = {k: (list(v) if isinstance(v, tuple) else v) for k, v in a["parse"].items()}
+        if a.get("roman") is not None:
+            r = a["roman"]
+            return {"key": f"{r['text']}  NUM  (ROMAN)", "lemma": r["text"], "form_by": "whitaker-roman",
+                    "headword": fold(r["text"]), "parse": p, "whitaker": _qual_text(p),
+                    "enclitic": a.get("enclitic"), "source": "words_engine-roman_numerals_package.adb",
+                    "via": a.get("via") or []}
         if a["unique"] is not None:
             u = a["unique"]
             key = f"{u['word']}  {u['qual']['pos']}  (UNIQUES)"

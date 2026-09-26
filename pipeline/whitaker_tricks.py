@@ -10,7 +10,13 @@ tries them in. Ported rule for rule from the Ada source at whitaker.COMMIT:
                                          Apply_Suffix, Reduce_Stem_List
     words_engine-parse.adb               Pass, Enclitic, Tricks_Enclitic,
                                          Parse_Latin_Word (the order of attempts)
-    support_utils-addons_package.adb     Load_Addons, Subtract_Prefix/Suffix
+    support_utils-addons_package.adb     Load_Addons, Subtract_Prefix/Suffix,
+                                         Subtract_Tackon
+    words_engine-roman_numerals_package.adb
+                                         Roman_Numerals, Roman_Number,
+                                         Bad_Roman_Number (and Try_Tricks's
+                                         last step, in tricks.adb)
+    words_engine-word_package.adb        Try_Tackons (the non-enclitic TACKONs)
 
 Every analysis these rules produce carries `via`: the list of rules that
 turned the form into one WORDS could read, e.g.
@@ -33,14 +39,21 @@ WHERE THIS PORT DEPARTS FROM THE ADA, AND WHY (each is also in the README)
   * Whether the fixes try prefix-first or suffix-first depends in WORDS on a
     stale package variable (Pdl_Index, left by the previous dictionary
     search). Here it is recomputed for the form itself.
-  * Not ported: Roman numerals, the non-enclitic TACKONs and PACKONs
-    (Try_Tackons, Process_Packons), qu-pronoun TICKONs, and the second,
+  * Roman numerals are read from the form as written (`raw`, lower-cased,
+    with j and v kept), as WORDS reads Input_Word: `u` is not a Roman
+    digit (the Ada has it commented out), so on a folded search key,
+    where every v is already u, a numeral with V in it cannot be seen.
+    Called with only a search key, the port reads the key.
+  * Not a departure, but worth knowing: Try_Tackons keeps a NOUN record of
+    the wrong declension (the Ada's N branch neither hits nor deletes it),
+    and so does this port. `familias` is the only noun TACKON.
+  * Not ported: PACKONs (Process_Packons), qu-pronoun TICKONs, and the second,
     duplicate syncope pass and Do_Only_Fixes re-parse inside Enclitic.
     WORDS skips all tricks on a capitalised word it takes for a name; search
     keys are lower case, so here every form is tried.
 """
 
-from whitaker import fold
+from whitaker import decn_le as W_decn_le, fold
 
 # ---------------------------------------------------------------------------
 # The tables (words_engine-trick_tables.ads / .adb), verbatim and in order.
@@ -341,8 +354,9 @@ def _two_words(X, s):
     return []
 
 
-def tricks(X, s):
-    """Try_Tricks, in its order. Its Tword is plain + syncope."""
+def tricks(X, s, rk=None):
+    """Try_Tricks, in its order. Its Tword is plain + syncope. `rk` is the
+    form as written (raw_key), for the Roman-numeral step."""
     def tword(t):
         return X.plain(t) + syncope(X, t)
 
@@ -369,7 +383,264 @@ def tricks(X, s):
     if r:
         return r
     # Double_Consonants does not end the search: Two_Words runs after it
-    return _double_consonants(tword, s) + _two_words(X, s)
+    r = _double_consonants(tword, s) + _two_words(X, s)
+    # 'It could be an improperly formed Roman Numeral': Pa_Last := 1, so
+    # this REPLACES whatever Double_Consonants and Two_Words found
+    rs = s if rk is None else rk
+    if _use(X, "roman") and rs and only_roman_digits(rs):
+        return [_roman(rs, bad_roman_number(rs), True)]
+    return r
+
+
+# -- ROMAN NUMERALS (roman_numerals_package.adb) --------------------------------
+
+ROMAN_VALUE = {"m": 1000, "d": 500, "c": 100, "l": 50, "x": 10, "v": 5, "i": 1}
+NUM_CARD = {"pos": "NUM", "decl": (2, 0), "case": "X", "number": "X", "gender": "X", "sort": "CARD"}
+
+
+def only_roman_digits(s):
+    """A_Roman_Digit over every character: M D C L X V I, either case. `U`
+    is commented out in the Ada ('possible but unlikely')."""
+    return all(c in ROMAN_VALUE for c in s.lower())
+
+
+class _Invalid(Exception):
+    pass
+
+
+class _End(Exception):
+    pass
+
+
+def roman_number(st):
+    """Roman_Number: the value of a well-formed numeral, or 0. Walks from the
+    right through the ones, tens, hundreds and thousands, exactly as the
+    Ada's Evaluate loop does; each `exit Evaluate when J < S'First` is an
+    _End here and each `raise Invalid` an _Invalid."""
+    s = st.upper()
+    if not only_roman_digits(s):
+        return 0
+    total = 0
+    j = len(s) - 1
+
+    def step():
+        nonlocal j
+        j -= 1
+        if j < 0:
+            raise _End
+
+    try:
+        while j >= 0:
+            if s[j] == "I":                                   # ones
+                total += 1
+                step()
+                while s[j] == "I":
+                    total += 1
+                    if total >= 5:
+                        raise _Invalid
+                    step()
+            if s[j] == "V":
+                total += 5
+                step()
+                if s[j] == "I" and total == 5:
+                    total -= 1
+                    step()
+                if s[j] in "IV":
+                    raise _Invalid
+            if s[j] == "X":                                   # tens
+                total += 10
+                step()
+                while s[j] == "X":
+                    total += 10
+                    if total >= 50:
+                        raise _Invalid
+                    step()
+                if s[j] == "I" and total == 10:
+                    total -= 1
+                    step()
+                if s[j] in "IV":
+                    raise _Invalid
+            if s[j] == "L":
+                total += 50
+                step()
+                if s[j] == "X" and total <= 59:
+                    total -= 10
+                    step()
+                if s[j] in "IVXL":
+                    raise _Invalid
+                if s[j] == "C":
+                    total += 100
+                    step()
+                    if s[j] == "X" and total == 100:
+                        total -= 10
+                        step()
+                if s[j] in "IVXL":
+                    raise _Invalid
+            if s[j] == "C":                                   # hundreds
+                total += 100
+                step()
+                while s[j] == "C":
+                    total += 100
+                    if total >= 500:
+                        raise _Invalid
+                    step()
+                if s[j] == "X" and total <= 109:
+                    total -= 10
+                    step()
+                if s[j] in "IVXL":
+                    raise _Invalid
+            if s[j] == "D":
+                total += 500
+                step()
+                if s[j] == "C" and total <= 599:
+                    total -= 100
+                    step()
+                if s[j] == "M":
+                    total += 1000
+                    step()
+                if s[j] == "C" and total <= 1099:
+                    total -= 100
+                    step()
+                if s[j] in "IVXLCD":
+                    raise _Invalid
+            if s[j] == "M":                                   # thousands
+                total += 1000
+                step()
+                while s[j] == "M":
+                    total += 1000
+                    if total >= 5000:
+                        raise _Invalid
+                    step()
+                if s[j] == "C" and total <= 1099:
+                    total -= 100
+                    step()
+                if s[j] in "IVXLCD":
+                    raise _Invalid
+    except _End:
+        pass
+    except _Invalid:
+        return 0
+    return total
+
+
+def bad_roman_number(s):
+    """Bad_Roman_Number: a lenient value for an ill-formed numeral ('there
+    are no rules if you look at some of the 12-15 century stuff'). Right to
+    left: a smaller digit before a larger subtracts; an equal one subtracts
+    too when it stands below the digit last subtracted from (IIX = 8)."""
+    v = [ROMAN_VALUE.get(c, 0) for c in s.lower()]
+    if not v:
+        return 0
+    total = dec = v[-1]
+    for i in range(len(v) - 2, -1, -1):
+        if v[i] < v[i + 1]:
+            total -= v[i]
+            dec = v[i + 1]
+        elif v[i] == v[i + 1]:
+            total += -v[i] if v[i] < dec else v[i]
+        else:
+            total += v[i]
+            dec = v[i + 1]
+    return total if total > 0 else 0
+
+
+def _roman(text, value, bad):
+    if bad:
+        step = {"kind": "TRICK", "table": "Bad_Roman_Number", "rule": "ill-formed roman numeral",
+                "as": text.upper(), "value": value, "explain": f" {value}  as ill-formed ROMAN NUMERAL?;"}
+    else:
+        step = {"kind": "ROMAN", "as": text.upper(), "value": value,
+                "explain": f" {value}  as a ROMAN NUMERAL;"}
+    return {"entry": None, "unique": None, "roman": {"text": text.upper(), "value": value, "bad": bad},
+            "parse": dict(NUM_CARD), "via": [step]}
+
+
+def roman_numerals(s):
+    """Roman_Numerals, the first thing Pass tries: a well-formed numeral is
+    a NUM 2 0 CARD, and parsing goes on beside it."""
+    if s and only_roman_digits(s):
+        n = roman_number(s)
+        if n:
+            return [_roman(s, n, False)]
+    return []
+
+
+def raw_key(raw, w):
+    """The form as written, folded as `fold` folds it except that j and v
+    are kept: it lines up letter for letter with the search key `w`."""
+    if raw is None:
+        return w
+    k = fold(raw.replace("j", "\x00").replace("J", "\x00").replace("v", "\x01").replace("V", "\x01"))
+    k = k.replace("\x00", "j").replace("\x01", "v")
+    return k if len(k) == len(w) else w
+
+
+def _use(X, what):
+    return getattr(X, "use_" + what, True)
+
+
+# -- TACKONS (word_package.adb, Try_Tackons) ------------------------------------
+
+def subtract_tackon(w, tack):
+    """Subtract_Tackon: the word less the tackon, if the word is longer than
+    it (u = v is already folded); else None."""
+    z = len(tack)
+    if len(w) > z and w[-z:] == tack:
+        return w[:-z]
+    return None
+
+
+def try_tackons(X, w, word):
+    """Try_Tackons, run by Word when nothing else parsed: each non-enclitic
+    TACKON in ADDONS order (Tackons 5 ..). The word less the tackon goes
+    through `word` again (Word, recursively). The records gathered so far
+    are swept from the last: of the tackon's part of speech they stay (a
+    PRON only if its declension fits, an ADJ always); anything else is
+    dropped. The first tackon that leaves a hit wins ('Be happy with one')."""
+    items = getattr(X, "tackon_items", [])[4:]
+    pa, hit = [], False
+    for T in items:
+        less = subtract_tackon(w, T["tack"])
+        if less is None:
+            continue
+        pa = pa + word(less)
+        if not pa:
+            continue
+        base = T["entry"]
+        if base["pos"] == "X":
+            hit = True
+        else:
+            kept = []
+            for a in reversed(pa):
+                p = a["parse"]
+                if p["pos"] != base["pos"]:
+                    continue                    # another part of speech: deleted
+                if base["pos"] == "N":
+                    if W_decn_le(tuple(p["decl"]), tuple(base["decl"])):
+                        hit = True
+                    kept.append(a)              # the Ada's N branch never deletes
+                elif base["pos"] == "PRON":
+                    if W_decn_le(tuple(p["decl"]), tuple(base["decl"])):
+                        hit = True
+                        kept.append(a)
+                elif base["pos"] == "ADJ":
+                    hit = True                  # 'Forego all checks, even on DECL of ADJ'
+                    kept.append(a)
+                # any other part of speech: deleted
+            pa = kept[::-1]
+        if hit:
+            return _tag(pa, {"kind": "TACKON", "tackon": T["tack"], "as": less,
+                             "source": f"ADDONS.LAT:{T['line']}", "explain": T["meaning"]})
+    return pa
+
+
+def fixes_word(X, w):
+    """Word with Do_Only_Fixes: the fixes, then (if they found nothing)
+    Try_Tackons, whose inner Word is in the same mode."""
+    r = fixes(X, w)
+    if not r and _use(X, "tackons"):
+        r = try_tackons(X, w, lambda t: fixes_word(X, t))
+    return r
 
 
 # -- FIXES (word_package.adb, Prune_Stems and friends) -------------------------
@@ -489,13 +760,16 @@ def fixes(X, w):
 
 # -- the order of attempts (parse.adb, Parse_Latin_Word / Pass) ----------------
 
-def parse_latin_word(X, w):
+def parse_latin_word(X, w, raw=None):
     """Every analysis WORDS would give `w` (a folded search key), in the order
-    it tries: plain; SLURY if nothing; SYNCOPE unless a form of esse is
-    there; the enclitics; FIXES if still nothing (and the enclitics again,
-    with fixes); TRICKS if still nothing, then TRICKS on the form less an
-    enclitic."""
-    res = X.plain(w)
+    it tries: a Roman numeral (read from `raw`, the form as written, when
+    given); plain; SLURY if nothing; SYNCOPE unless a form of esse is there;
+    the enclitics; FIXES if still nothing (and the enclitics again, with
+    fixes); TRICKS if still nothing, then TRICKS on the form less an
+    enclitic. Plain, here and inside every rule, ends in Try_Tackons."""
+    rk = raw_key(raw, w)
+    res = roman_numerals(rk) if _use(X, "roman") else []
+    res += X.plain(w)
     if not res:
         res = slury(X, w)
     if not any(a["parse"]["pos"] == "V" and tuple(a["parse"]["decl"]) == (5, 1) for a in res):
@@ -509,7 +783,7 @@ def parse_latin_word(X, w):
             if w.endswith(t) and len(w) > len(t):
                 less = w[:-len(t)]
                 if with_fixes:
-                    more = fixes(X, less)
+                    more = fixes_word(X, less)
                 else:
                     more = X.plain(less) or slury(X, less)
                 for a in more:
@@ -521,15 +795,15 @@ def parse_latin_word(X, w):
     done = bool(more)
     res += more
     if not res:
-        res = fixes(X, w)
+        res = fixes_word(X, w)
         if not done:
             res += enclitic(res, True)
     if not res:
-        res = tricks(X, w)
+        res = tricks(X, w, rk)
         if not res:
             for t in X.tackons[:4]:
                 if w.endswith(t) and len(w) > len(t):
-                    res = tricks(X, w[:-len(t)])
+                    res = tricks(X, w[:-len(t)], rk[:-len(t)])
                     for a in res:
                         a["enclitic"] = t
                     break

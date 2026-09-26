@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-whitaker_tricks_test.py -- WORDS's SYNCOPE, SLURY, FIXES and TRICKS as ported
-in pipeline/whitaker_tricks.py: one check per ported rule.
+whitaker_tricks_test.py -- WORDS's SYNCOPE, SLURY, FIXES, TRICKS, Roman
+numerals and non-enclitic TACKONs as ported in pipeline/whitaker_tricks.py:
+one check per ported rule.
 
 Run:  python3 tests/whitaker_tricks_test.py
 
@@ -18,12 +19,21 @@ WHAT IT ASSERTS
        syncope and -que; SLURY only when plain fails; no syncope beside a
        form of esse; TRICKS only when nothing else, then on the form less an
        enclitic.
+    4b. Roman numerals: Roman_Number rule by rule (ones, tens, hundreds,
+       thousands; what it refuses), Bad_Roman_Number, the numeral read beside
+       a plain parse, from the form as written, and the ill-formed numeral
+       replacing Two_Words at the end of TRICKS.
+    4c. TACKONs: the sweep by part of speech, the PRON declension test, the
+       ADJ that skips all checks, the NOUN quirk, first hit wins, the
+       enclitics skipped, and Word less a tackon being Word again.
     AGAINST THE WHITAKER FILES (when fetched; says so when not)
     5. The Python tables are the Ada tables, row for row, in order
        (words_engine-trick_tables.ads/.adb at the pinned commit).
     6. Real words through each mechanism, prefixes and suffixes included.
     7. On the hymns: the rules never take a plain analysis away, and they
        recover medieval respellings of hymn forms (measured 2026-09-26).
+    8. The TACKON list is ADDONS.LAT's, the Roman digits are the Ada's, and
+       real words through each tackon and numeral.
 """
 import importlib.util
 import json
@@ -196,6 +206,99 @@ check("TRICKS on the form less an enclitic, last of all (Tricks_Enclitic)",
       r and r[0]["enclitic"] == "que" and via0(r)["rule"] == "flip_flop pre/prae")
 check("an unknown stays unknown", T.parse_latin_word(Fake({}), "qqqqqq") == [])
 
+print("\n--- 4b. Roman numerals (roman_numerals_package.adb)")
+good = {"I": 1, "III": 3, "IIII": 4, "IV": 4, "V": 5, "VIII": 8, "VIIII": 9, "IX": 9, "XIV": 14,
+        "XIX": 19, "XL": 40, "XXXX": 40, "XLIX": 49, "XC": 90, "XCIX": 99, "CX": 110, "CXL": 140,
+        "CD": 400, "CCCC": 400, "DC": 600, "CM": 900, "MCM": 1900, "MCMXCIX": 1999, "MMMM": 4000,
+        "mdclxvi": 1666}
+got = {k: T.roman_number(k) for k in good}
+check("Roman_Number: well-formed numerals, either case", got == good,
+      {k: v for k, v in got.items() if v != good[k]})
+refused = ["IIIII", "IIX", "VX", "IL", "VL", "XCL", "IM", "XXXXX", "CCCCC", "MMMMM", "VV", "LL", "DD", "VIX"]
+check("Roman_Number refuses what its comments forbid (IIX, VL, XCL, IM, VIX ...: 0, not a numeral)",
+      all(T.roman_number(k) == 0 for k in refused), [k for k in refused if T.roman_number(k)])
+check("A_Roman_Digit: M D C L X V I only; U is not a digit, nor any other letter",
+      T.only_roman_digits("MdClXvI") and not T.only_roman_digits("xiu") and not T.only_roman_digits("xij"))
+bad = {"IIX": 8, "VX": 5, "IL": 49, "MIM": 1999, "IIIII": 5, "XCL": 140}
+got = {k: T.bad_roman_number(k) for k in bad}
+check("Bad_Roman_Number: the lenient reading (IIX = 8, MIM = 1999)", got == bad, got)
+r = T.parse_latin_word(Fake({"ui": [N]}), "ui", raw="vi")
+check("a numeral is read first, and plain parsing goes on beside it (vi: 6 and vis)",
+      [a["parse"]["pos"] for a in r] == ["NUM", "N"] and r[0]["via"][0]["kind"] == "ROMAN"
+      and r[0]["via"][0]["value"] == 6 and r[0]["parse"]["sort"] == "CARD")
+check("the numeral is read from the form as written: a search key has lost its v",
+      T.parse_latin_word(Fake({}), "xiu") == []
+      and T.parse_latin_word(Fake({}), "xiu", raw="xiv")[0]["via"][0]["value"] == 14)
+X = Fake({"cil": [N], "xxi": [N]})
+check("an ill-formed numeral ends TRICKS and replaces what Two_Words found (Pa_Last := 1)",
+      [a["via"][0].get("table") for a in T.tricks(X, "cilxxi")] == ["Bad_Roman_Number"]
+      and T.tricks(X, "cilxxi")[0]["via"][0]["value"] == 170)
+X.use_roman = False
+check("with the numerals switched off, Two_Words stands",
+      {a["via"][0]["kind"] for a in T.tricks(X, "cilxxi")} == {"TWO_WORDS"})
+
+print("\n--- 4c. the non-enclitic TACKONs (word_package.adb, Try_Tackons)")
+ENC = [{"tack": t, "entry": {"pos": "X"}, "line": 0, "meaning": ""} for t in ("que", "ne", "ue", "est")]
+
+
+def tk(tack, pos, decl=None, line=1):
+    e = {"pos": pos}
+    if decl:
+        e["decl"] = decl
+    return {"tack": tack, "entry": e, "line": line, "meaning": tack + " meaning"}
+
+
+class TFake(Fake):
+    """Fake, with Word ending in Try_Tackons as whitaker.Whitaker.plain does."""
+    def __init__(self, known, tackons):
+        super().__init__(known)
+        self.tackon_items = ENC + tackons
+
+    def plain(self, w):
+        return super().plain(w) or T.try_tackons(self, W.fold(w), self.plain)
+
+
+PRON5 = {"entry": 6, "parse": {"pos": "PRON", "decl": [5, 1]}}
+PRON3 = {"entry": 7, "parse": {"pos": "PRON", "decl": [3, 1]}}
+ADJ11 = {"entry": 8, "parse": {"pos": "ADJ", "decl": [1, 1]}}
+N31 = {"entry": 9, "parse": {"pos": "N", "decl": [3, 1]}}
+N21 = {"entry": 10, "parse": {"pos": "N", "decl": [2, 1]}}
+MET = tk("met", "PRON", (5, 0), 42)
+check("Subtract_Tackon: only from a longer word",
+      T.subtract_tackon("egomet", "met") == "ego" and T.subtract_tackon("met", "met") is None
+      and T.subtract_tackon("mecum", "met") is None)
+r = TFake({"ego": [PRON5]}, [MET]).plain("egomet")
+check("a PRON tackon keeps a PRON whose declension fits, and says so in `via`",
+      r and r[0]["via"][0] == {"kind": "TACKON", "tackon": "met", "as": "ego", "source": "ADDONS.LAT:42",
+                               "explain": "met meaning"})
+check("a PRON of another declension is dropped: no hit",
+      TFake({"hic": [PRON3]}, [MET]).plain("hicmet") == [])
+r = TFake({"ego": [PRON5, N21]}, [MET]).plain("egomet")
+check("a record of another part of speech is dropped", [a["entry"] for a in r] == [6])
+check("an ADJ tackon skips every check, even the declension ('Forego all checks')",
+      TFake({"quantus": [ADJ11]}, [tk("cumque", "ADJ", (9, 9))]).plain("quantuscumque")[0]["via"][0]["tackon"]
+      == "cumque")
+r = TFake({"me": [PRON5]}, [tk("pte", "ADJ", (1, 0), 1), tk("pte", "PRON", (4, 0), 2),
+                            tk("pte", "PRON", (5, 0), 3)]).plain("mepte")
+check("tackons are tried in ADDONS order until one hits (mepte: the third -pte)",
+      r and all(a["via"][0]["source"] == "ADDONS.LAT:3" for a in r))
+r = TFake({"hic": [PRON3]}, [tk("ce", "PRON", (3, 1), 1), tk("ce", "PRON", (3, 0), 2)]).plain("hicce")
+check("the first tackon that hits wins ('Be happy with one')",
+      len(r) == 1 and r[0]["via"][0]["source"] == "ADDONS.LAT:1")
+check("a NOUN tackon keeps a noun of its declension",
+      TFake({"pater": [N31]}, [tk("familias", "N", (3, 0))]).plain("paterfamilias")[0]["via"][0]["tackon"]
+      == "familias")
+r = TFake({"lupus": [N21]}, [tk("familias", "N", (3, 0))]).plain("lupusfamilias")
+check("the Ada's NOUN quirk: a noun of another declension is neither a hit nor deleted, and stays unmarked",
+      r and r[0]["entry"] == 10 and not r[0].get("via"))
+check("the first four TACKONs (the enclitics) are not Try_Tackons's",
+      TFake({"ego": [PRON5]}, [MET]).plain("egoque") == [])
+r = TFake({"ego": [PRON5]}, [MET, tk("pte", "PRON", (5, 0))]).plain("egometpte")
+check("Word less a tackon is Word again, tackons and all (egometpte)",
+      r and [v["tackon"] for v in r[0]["via"]] == ["pte", "met"])
+r = T.parse_latin_word(TFake({"egomet": [N], "ego": [PRON5]}, [MET]), "egomet")
+check("tackons run only when Word found nothing", [a["entry"] for a in r] == [0])
+
 # ======================================================= AGAINST THE FILES
 print("\n--- against the Whitaker files")
 if not W.have_cache():
@@ -316,6 +419,48 @@ else:
     # measured 2026-09-26: 30 respellings; 3 recovered before the port, 22 after
     check("medieval respellings of hymn forms (ae>e, oe>e, ti>ci, doubled>single): 3 -> 22 of 30",
           (n, before, after) == (30, 3, 22), (n, before, after))
+
+
+    print("\n--- 8. TACKONs and Roman numerals, against the files")
+    add = W.load_addons(os.path.join(W.CACHE, "ADDONS.LAT"))
+    check("the first four TACKONs are the enclitics parse.adb tries (que, ne, ve, est)",
+          [t["tack"] for t in add["tackons"][:4]] == ["que", "ne", "ue", "est"] == X.tackons[:4])
+    # ADDONS.LAT at the pinned commit, read by eye 2026-09-26: the TACKONs
+    # "that are not PACKONS", in file order
+    check("Try_Tackons's list is ADDONS.LAT's, in order, with its parts of speech",
+          [(t["tack"], t["entry"]["pos"]) for t in add["tackons"][4:]] ==
+          [("cumque", "ADJ"), ("cunque", "ADJ"), ("cine", "PRON"), ("pte", "ADJ"), ("pte", "PRON"),
+           ("pte", "PRON"), ("ce", "PRON"), ("modi", "PRON"), ("modi", "PRON"), ("dem", "PRON"),
+           ("cum", "PRON"), ("uis", "ADJ"), ("met", "PRON"), ("familias", "N")],
+          [t["tack"] for t in add["tackons"][4:]])
+    check("PACKONs are kept apart (PACK 1/2, meaning 'PACKON w/'), as Load_Addons does",
+          add["packons"] and all(t["entry"]["pos"] == "PACK" for t in add["packons"])
+          and not any(t["entry"]["pos"] == "PACK" for t in add["tackons"]))
+    if W.have_ada():
+        rn = open(os.path.join(W.CACHE, "ada", "words_engine-roman_numerals_package.adb"),
+                  encoding="latin-1").read()
+        rn = re.sub(r"--[^\n]*", "", rn)
+        vals = {a.lower(): int(v) for a, v in re.findall(r"when '(\w)' \| '\w'\s*=>\s*return\s+(\d+);", rn)}
+        check("the Roman digits and values are the Ada's (Value; U commented out)", vals == T.ROMAN_VALUE, vals)
+    for form, head, tack in [("egomet", "ego", "met"), ("mecum", "ego", "cum"), ("nobiscum", "nos", "cum"),
+                             ("quantuscumque", "quantus", "cumque"), ("suapte", "suus", "pte"),
+                             ("mepte", "ego", "pte"), ("huiusmodi", "hic", "modi"),
+                             ("paterfamilias", "pater", "familias"), ("hicine", "hic", "cine"),
+                             ("hocce", "hic", "ce")]:
+        check(f"{form}: {head} + -{tack}",
+              any(a["headword"] == head and a["via"] and a["via"][0].get("tackon") == tack
+                  for a in X.analyze(form)))
+    r = X.analyze("MCMXCIX")
+    check("MCMXCIX is a Roman numeral, 1999, NUM 2 0 CARD",
+          r and r[0]["via"][0]["value"] == 1999 and r[0]["whitaker"] == "NUM 2 0 X X X CARD"
+          and r[0]["form_by"] == "whitaker-roman")
+    check("vi is both 6 and a form of vis", {a["headword"] for a in X.analyze("vi")} >= {"ui", "uis"})
+    check("iix, ill-formed, is read leniently as 8", [a["via"][0].get("value") for a in X.analyze("iix")] == [8])
+    X.use_tackons = X.use_roman = False
+    check("switched off, egomet is unknown and xiv is not a numeral",
+          X.analyze("egomet") == [] and not any(a["via"] and a["via"][0]["kind"] == "ROMAN"
+                                                for a in X.analyze("xiv")))
+    X.use_tackons = X.use_roman = True
 
 print()
 if FAIL:

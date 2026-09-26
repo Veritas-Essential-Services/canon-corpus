@@ -20,9 +20,10 @@
    "src/words_engine/words_engine-tricks.adb": "e27d7a9dd5031450e3d99864a5aa27995603d657ef806d955d1e40dcd3532b04",
    "src/words_engine/words_engine-parse.adb": "6e7bd646339aca43f485f62beb45258d95a3863c3f02c22dc5e3d49e14bc94cf",
    "src/words_engine/words_engine-word_package.adb": "791015d17204744379e0cb8392e391fdb29ee86ffb9fbfadb53d559aa8264394",
-   "src/support_utils/support_utils-addons_package.adb": "0103480f3b93e377830d21c6da051aae13653f0596557b4c037283f426ba5c31"
+   "src/support_utils/support_utils-addons_package.adb": "0103480f3b93e377830d21c6da051aae13653f0596557b4c037283f426ba5c31",
+   "src/words_engine/words_engine-roman_numerals_package.adb": "27c9566ca9b2688f9c6455d79782bdd66e138a296ed697af1cbeb2da9faed011"
   },
-  "port": "pipeline/whitaker.py + whitaker_tricks.py: stem+ending matching, verb filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES and TRICKS, ported from the Ada source at the same commit (departures listed in whitaker_tricks.py); an analysis reached by a rule carries `via`.",
+  "port": "pipeline/whitaker.py + whitaker_tricks.py: stem+ending matching, verb filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES, TRICKS, Roman numerals and the non-enclitic TACKONs, ported from the Ada source at the same commit (departures listed in whitaker_tricks.py); an analysis reached by a rule carries `via`.",
   "license": "free-grant",
   "license_basis": "Copyright William A. Whitaker (1936-2010), with an unconditional grant of any and all use of program and data. Not public domain.",
   "grant_verbatim": [
