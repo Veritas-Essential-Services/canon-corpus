@@ -14,7 +14,15 @@
    "ADDONS.LAT": "7a7f40b3020913882e8bfa156ebe01ee3f640b4505ef2b79c8836ef6b8a948fb",
    "LICENCE.txt": "de533c3fb7c4a54b6d2deb5e56624947850bd2121c1de206ba5ee59b72c119a3"
   },
-  "port": "pipeline/whitaker.py: stem+ending matching, verb filters, enclitics and dictionary forms ported from the Ada source at the same commit; TRICKS, SLURY, SYNCOPE and FIXES are not ported.",
+  "ada_sources_sha256": {
+   "src/words_engine/words_engine-trick_tables.ads": "6d72ea0d9554735a8416bb91dac473df5054fe952a9538b3a6ade9d21ae19c9d",
+   "src/words_engine/words_engine-trick_tables.adb": "453a2255ee3f19ab55dce0bf31d4f7811b428a4d81ff14a11cb959ef7b5b3871",
+   "src/words_engine/words_engine-tricks.adb": "e27d7a9dd5031450e3d99864a5aa27995603d657ef806d955d1e40dcd3532b04",
+   "src/words_engine/words_engine-parse.adb": "6e7bd646339aca43f485f62beb45258d95a3863c3f02c22dc5e3d49e14bc94cf",
+   "src/words_engine/words_engine-word_package.adb": "791015d17204744379e0cb8392e391fdb29ee86ffb9fbfadb53d559aa8264394",
+   "src/support_utils/support_utils-addons_package.adb": "0103480f3b93e377830d21c6da051aae13653f0596557b4c037283f426ba5c31"
+  },
+  "port": "pipeline/whitaker.py + whitaker_tricks.py: stem+ending matching, verb filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES and TRICKS, ported from the Ada source at the same commit (departures listed in whitaker_tricks.py); an analysis reached by a rule carries `via`.",
   "license": "free-grant",
   "license_basis": "Copyright William A. Whitaker (1936-2010), with an unconditional grant of any and all use of program and data. Not public domain.",
   "grant_verbatim": [
@@ -48,16 +56,14 @@
   "uniques": 79,
   "hymn_tokens": 263,
   "hymn_forms": 222,
-  "hymn_forms_analysed": 221,
-  "hymn_forms_unknown": 1,
-  "hymn_lemmas": 291
+  "hymn_forms_analysed": 222,
+  "hymn_forms_unknown": 0,
+  "hymn_lemmas": 294
  },
- "unknown_forms": [
-  "pellicane"
- ],
+ "unknown_forms": [],
  "files_sha256": {
-  "hymns.analyses.jsonl": "664b39f0256debd192fcb7ada4fcd55a4293e33f80ca3025ba2e7732f0e0d3cc",
-  "hymns.lemmas.jsonl": "132e93dee783985dad494c6975eb49b3f87046761acde274f422feaf774d6015",
+  "hymns.analyses.jsonl": "d592e07783babeca603cf208dc150a1af4d6f3d4f1e109ac53d13d0a34a0814c",
+  "hymns.lemmas.jsonl": "47aea1b060b7d25217abe265ebca4dd7c83a3999fdceb2844f49fbbf757ced94",
   "lemmas.jsonl": "07b09ff515b27e1d7a41247214e8745b400e9652b2253964f445e58adc29c6c1"
  },
  "gitignored": [

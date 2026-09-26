@@ -26,11 +26,14 @@ WHAT IS PORTED, AND WHAT IS NOT
         (parse.adb, Enclitic)
       * the dictionary form, character for character
         (support_utils-dictionary_form.adb)
-    NOT ported (so an `unknown` here may still be a word WORDS would get):
-      TRICKS (spelling tricks such as ii/i, medieval spellings), SLURY
-      (assimilated prefixes), SYNCOPE, FIXES (prefix/suffix composition),
-      PACKONs other than via UNIQUES, Roman numerals, and WORDS's
-      frequency trimming. Every analysis is kept; none is discarded as rare.
+      * SYNCOPE, SLURY (assimilated prefixes), FIXES (prefixes and suffixes
+        from ADDONS.LAT) and TRICKS (spelling tricks, medieval spellings,
+        two words run together), and the order WORDS tries them in
+        (parse.adb): whitaker_tricks.py, which lists where it departs from
+        the Ada and why. Every analysis they produce carries `via`.
+    NOT ported: PACKONs other than via UNIQUES, the non-enclitic TACKONs,
+      Roman numerals, and WORDS's frequency trimming. Every analysis is
+      kept; none is discarded as rare.
 
     One gap is filled by the house and marked: WORDS prints NO dictionary form
     for pronouns of declension 1 (qui/quis) and 5 (ego/tu/nos/vos/sui) -- its
@@ -67,6 +70,25 @@ PINS = {
     "ADDONS.LAT": "7a7f40b3020913882e8bfa156ebe01ee3f640b4505ef2b79c8836ef6b8a948fb",
     "LICENCE.txt": "de533c3fb7c4a54b6d2deb5e56624947850bd2121c1de206ba5ee59b72c119a3",
 }
+
+# The Ada source the rules in whitaker_tricks.py are ported from, pinned the
+# same way. Not needed to run anything: fetched by --fetch so the test can
+# compare the trick tables with the Ada, row for row.
+ADA_SOURCES = {
+    "src/words_engine/words_engine-trick_tables.ads":
+        "6d72ea0d9554735a8416bb91dac473df5054fe952a9538b3a6ade9d21ae19c9d",
+    "src/words_engine/words_engine-trick_tables.adb":
+        "453a2255ee3f19ab55dce0bf31d4f7811b428a4d81ff14a11cb959ef7b5b3871",
+    "src/words_engine/words_engine-tricks.adb":
+        "e27d7a9dd5031450e3d99864a5aa27995603d657ef806d955d1e40dcd3532b04",
+    "src/words_engine/words_engine-parse.adb":
+        "6e7bd646339aca43f485f62beb45258d95a3863c3f02c22dc5e3d49e14bc94cf",
+    "src/words_engine/words_engine-word_package.adb":
+        "791015d17204744379e0cb8392e391fdb29ee86ffb9fbfadb53d559aa8264394",
+    "src/support_utils/support_utils-addons_package.adb":
+        "0103480f3b93e377830d21c6da051aae13653f0596557b4c037283f426ba5c31",
+}
+ADA_CACHE = os.path.join(CACHE, "ada")
 
 LICENCE = {
     "license": "free-grant",
@@ -128,7 +150,29 @@ def fetch(cache=CACHE, quiet=False):
         with open(tmp, "wb") as f:
             f.write(blob)
         os.replace(tmp, p)
+    ada = os.path.join(cache, "ada")
+    os.makedirs(ada, exist_ok=True)
+    for src, pin in ADA_SOURCES.items():
+        p = os.path.join(ada, os.path.basename(src))
+        if os.path.exists(p) and sha256(p) == pin:
+            continue
+        if not quiet:
+            print(f"  fetch {src}")
+        with urllib.request.urlopen(RAW + src, timeout=120) as r:
+            blob = r.read()
+        got = hashlib.sha256(blob).hexdigest()
+        if got != pin:
+            raise SystemExit(f"HARD STOP: {src} sha256 {got} != pinned {pin}")
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
     return cache
+
+
+def have_ada(cache=CACHE):
+    return all(os.path.exists(os.path.join(cache, "ada", os.path.basename(s))) and
+               sha256(os.path.join(cache, "ada", os.path.basename(s))) == pin
+               for s, pin in ADA_SOURCES.items())
 
 
 def have_cache(cache=CACHE):
@@ -276,6 +320,48 @@ def load_uniques(path):
         q = _qual(pos, t[1:1 + len(QUAL[pos])])
         out.append({"line": n, "word": word.strip(), "qual": q, "meaning": meaning.strip()})
     return out
+
+
+def _entry_fields(tokens, pos):
+    """How many tokens a part-of-speech entry takes (Target_Entry_IO)."""
+    return {"N": 4, "PRON": 3, "PACK": 3, "ADJ": 3, "NUM": 4, "ADV": 1, "V": 3}.get(pos, 0)
+
+
+def load_addons(path):
+    """PREFIX and SUFFIX entries of ADDONS.LAT, in file order (Load_Addons).
+    Each entry is three lines: `PREFIX fix [connect]`, its entry, a meaning.
+    Prefixes whose root is PACK are TICKONs (qu-pronoun prefixes) and are
+    kept apart, as WORDS keeps them."""
+    with open(path, encoding="latin-1") as f:
+        lines = [l.rstrip("\r\n") for l in f]
+    prefixes, tickons, suffixes = [], [], []
+    i = 0
+    while i < len(lines):
+        l = lines[i]
+        if not l.strip() or l.startswith("--"):
+            i += 1
+            continue
+        head, entry, meaning = l.split(), lines[i + 1].split(), lines[i + 2].strip()
+        n = i + 1
+        i += 3
+        if head[0] == "TACKON":
+            continue
+        fix = fold(head[1])
+        connect = fold(head[2]) if len(head) > 2 else " "
+        if head[0] == "PREFIX":
+            row = {"line": n, "fix": fix, "connect": connect, "root": entry[0],
+                   "target": entry[1], "meaning": meaning}
+            (tickons if entry[0] == "PACK" else prefixes).append(row)
+        elif head[0] == "SUFFIX":
+            tpos = entry[2]
+            k = _entry_fields(entry, tpos)
+            target = _part(entry[2:3 + k]) if tpos != "X" else {"pos": "X"}
+            suffixes.append({"line": n, "fix": fix, "connect": connect, "root": entry[0],
+                             "root_key": int(entry[1]), "target": target,
+                             "target_key": int(entry[3 + k]), "meaning": meaning})
+        else:
+            raise SystemExit(f"ADDONS.LAT:{n}: bad addon {l!r}")
+    return {"prefixes": prefixes, "tickons": tickons, "suffixes": suffixes}
 
 
 def load_tackons(path):
@@ -631,6 +717,8 @@ class Whitaker:
         self.inflects = load_inflects(os.path.join(cache, "INFLECTS.LAT"))
         self.uniques = load_uniques(os.path.join(cache, "UNIQUES.LAT"))
         self.tackons = load_tackons(os.path.join(cache, "ADDONS.LAT"))
+        addons = load_addons(os.path.join(cache, "ADDONS.LAT"))
+        self.prefixes, self.suffixes = addons["prefixes"], addons["suffixes"]
         self.entries.append(ESSE)
         self.stem_index = {}
         for i, e in enumerate(self.entries):
@@ -656,9 +744,12 @@ class Whitaker:
         ipos = q["pos"]
         if EFF_POS.get(ipos, ipos) != p["pos"]:
             return None
-        if not (inf["key"] == k or inf["key"] == 0):
-            return None
         pos = p["pos"]
+        # Reduce_Stem_List: the inflection's key is the entry's, or 0; an
+        # entry key of 0 (only ever a suffix's target) takes keys 1 and 2
+        if not (inf["key"] == k or inf["key"] == 0 or
+                (k == 0 and pos in ("N", "ADJ", "V") and inf["key"] in (1, 2))):
+            return None
         if pos == "N":
             if decn_le(p["decl"], q["decl"]) and gender_le(p["gender"], q["gender"]):
                 return {"pos": "N", "decl": p["decl"], "case": q["case"], "number": q["number"],
@@ -727,6 +818,16 @@ class Whitaker:
             return False
         return True
 
+    def cuts(self, w):
+        """(stem, ending) for every ending INFLECTS has that ends `w`."""
+        return [(w[:len(w) - c], w[len(w) - c:] if c else "")
+                for c in range(0, min(len(w), 8) + 1)
+                if (w[len(w) - c:] if c else "") in self.by_ending]
+
+    def plain(self, word):
+        """Word_Package.Word without fixes: uniques, then stem + ending."""
+        return self._word(fold(word))
+
     def _word(self, w):
         out = []
         seen = set()
@@ -751,20 +852,10 @@ class Whitaker:
         return out
 
     def analyze(self, word):
-        """Every WORDS analysis of `word`, as dicts. Deterministic order."""
-        w = fold(word)
-        res = self._word(w)
-        # parse.adb, Enclitic: with a parse in hand only -que is tried; without
-        # one, que/ne/ve/est in turn, stopping at the first that strips.
-        encl = ("que",) if res else tuple(self.tackons[:4])
-        for t in encl:
-            if w.endswith(t) and len(w) > len(t):
-                more = self._word(w[:-len(t)])
-                for a in more:
-                    a["enclitic"] = t
-                res += more
-                break
-        return [self._describe(a) for a in res]
+        """Every WORDS analysis of `word`, as dicts. Deterministic order.
+        The order of attempts is parse.adb's (whitaker_tricks.parse_latin_word)."""
+        import whitaker_tricks
+        return [self._describe(a) for a in whitaker_tricks.parse_latin_word(self, fold(word))]
 
     def _describe(self, a):
         p = {k: (list(v) if isinstance(v, tuple) else v) for k, v in a["parse"].items()}
@@ -773,14 +864,15 @@ class Whitaker:
             key = f"{u['word']}  {u['qual']['pos']}  (UNIQUES)"
             return {"key": key, "lemma": u["word"], "form_by": "whitaker-unique",
                     "headword": fold(u["word"]), "parse": p, "whitaker": _qual_text(p),
-                    "enclitic": a.get("enclitic"), "source": f"UNIQUES.LAT:{u['line']}"}
+                    "enclitic": a.get("enclitic"), "source": f"UNIQUES.LAT:{u['line']}",
+                    "via": a.get("via") or []}
         form, by = self.form(a["entry"])
         e = self.entries[a["entry"]]
         return {"key": form or f"{e['stems'][0]}  {e['part_text']}", "lemma": principal_parts(form) or None,
                 "form_by": by, "headword": headword_of(form) if form else fold(e["stems"][0]),
                 "parse": p, "whitaker": _qual_text(p), "enclitic": a.get("enclitic"),
                 "source": f"DICTLINE.GEN:{e['lines'][0]}" if e["lines"] else e["synthetic"],
-                "inflect": f"INFLECTS.LAT:{a['inflect_line']}"}
+                "inflect": f"INFLECTS.LAT:{a['inflect_line']}", "via": a.get("via") or []}
 
 
 def _qual_text(p):

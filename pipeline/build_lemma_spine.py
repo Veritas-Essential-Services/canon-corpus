@@ -95,13 +95,19 @@ def analyses_rows(X, forms):
     for form in forms:
         merged = {}
         for a in X.analyze(form):
-            k = (a["key"], a["whitaker"], a["enclitic"])
+            # an analysis reached by a trick, fix or syncope stays apart from a
+            # plain one, and says how it was reached (`via`, only when there is one)
+            via = [{k: v for k, v in step.items() if k != "explain"} for step in a["via"]]
+            k = (a["key"], a["whitaker"], a["enclitic"], json.dumps(via, sort_keys=True))
             m = merged.get(k)
             if m is None:
                 m = merged[k] = {"key": a["key"], "lemma": a["lemma"], "form_by": a["form_by"],
                                  "headword": a["headword"], "pos": a["parse"]["pos"],
                                  "parse": a["parse"], "whitaker": a["whitaker"],
-                                 "enclitic": a["enclitic"], "sources": []}
+                                 "enclitic": a["enclitic"]}
+                if a["via"]:
+                    m["via"] = a["via"]
+                m["sources"] = []
             if a["source"] not in m["sources"]:
                 m["sources"].append(a["source"])
         out.append({"form": form, "analyses": list(merged.values())})
@@ -144,9 +150,11 @@ def build():
             "repo": W.REPO_URL,
             "commit": W.COMMIT,
             "files_sha256": {k: v for k, v in W.PINS.items()},
-            "port": ("pipeline/whitaker.py: stem+ending matching, verb filters, enclitics and "
-                     "dictionary forms ported from the Ada source at the same commit; TRICKS, "
-                     "SLURY, SYNCOPE and FIXES are not ported."),
+            "ada_sources_sha256": dict(W.ADA_SOURCES),
+            "port": ("pipeline/whitaker.py + whitaker_tricks.py: stem+ending matching, verb "
+                     "filters, enclitics, dictionary forms, SYNCOPE, SLURY, FIXES and TRICKS, "
+                     "ported from the Ada source at the same commit (departures listed in "
+                     "whitaker_tricks.py); an analysis reached by a rule carries `via`."),
             **W.LICENCE,
         },
         "counts": {

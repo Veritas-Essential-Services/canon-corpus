@@ -18,9 +18,12 @@ WHAT IT ASSERTS
        draft; every non-agreement is flagged for review and nothing else is.
     4. Nothing is overwritten silently: putting each token's recorded draft
        back reproduces the pre-D3 token file's lemma/parsing exactly.
-    5. The resolver's rules, on small synthetic cases.
+    5. The resolver's rules, on small synthetic cases, including readings
+       reached by a WORDS rule (`via`) and two-words guesses.
+    6. Adam's overrides: the committed file exists (empty until he answers
+       the review sheet), and loading and applying rows behaves as documented.
     AGAINST THE WHITAKER FILES (when fetched; says so when not)
-    6. The pins hold, and a rebuild of the committed lemma files is
+    7. The pins hold, and a rebuild of the committed lemma files is
        byte-identical.
 """
 import hashlib
@@ -28,6 +31,7 @@ import importlib.util
 import json
 import os
 import sys
+import tempfile
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -66,13 +70,16 @@ def jsonl(path):
         return [json.loads(l) for l in f]
 
 
-# Measured 2026-09-26 (Whitaker at 1f2f0fb0867a, the 263 hymn tokens).
+# Measured 2026-09-26 (Whitaker at 1f2f0fb0867a, the 263 hymn tokens), after
+# SYNCOPE/SLURY/FIXES/TRICKS were ported: pellicane is no longer unknown (WORDS
+# reads it, wrongly, as pellex + suffix -an: disagree), and syncope adds a
+# second candidate to moras and caro (agree -> agree-selected for moras).
 EXPECTED = {
-    "hymn_forms": 222, "hymn_forms_unknown": 1,
+    "hymn_forms": 222, "hymn_forms_unknown": 0,
     "lemma_from_whitaker": 244, "lemma_from_draft": 19,
     "parsing_from_whitaker": 84, "parsing_confirmed_by_whitaker": 10,
     "flagged_for_review": 24,
-    "lemma_status": {"agree": 162, "agree-selected": 82, "ambiguous": 9, "disagree": 9, "unknown": 1},
+    "lemma_status": {"agree": 161, "agree-selected": 83, "ambiguous": 9, "disagree": 10},
     "parsing_status": {"confirmed": 10, "disagree": 5, "draft-consistent": 145,
                        "unchecked": 19, "whitaker": 84},
 }
@@ -135,9 +142,23 @@ check("lemma coverage from Whitaker is over 90%", recount["lemma_from_whitaker"]
       f"{recount['lemma_from_whitaker']}/{len(tokens)}")
 
 print("\n--- provenance, per token")
-bad_src, bad_w, bad_d, bad_flag, bad_key = [], [], [], [], []
+OV = L.load_overrides()
+bad_src, bad_w, bad_d, bad_flag, bad_key, bad_ov = [], [], [], [], [], []
 for t in tokens:
     lp, pp = t["provenance"]["lemma"], t["provenance"]["parsing"]
+    if L.OVERRIDE_SOURCE in (lp["source"], pp["source"]):
+        # Adam's answer: it must be the row's; the checks below then run on
+        # what it replaced, which the token keeps under `was`
+        o = OV.get(t["address"])
+        if not o or (lp["source"] == L.OVERRIDE_SOURCE and t["lemma_key"] != o.get("lemma_key")) \
+                or (pp["source"] == L.OVERRIDE_SOURCE and t["parsing"] != o["parsing"]):
+            bad_ov.append(t["address"])
+        if lp["source"] == L.OVERRIDE_SOURCE:
+            lp = dict(lp["was"], draft=lp["draft"])
+            t = dict(t, lemma=lp.pop("value"), lemma_key=lp.pop("lemma_key"))
+        if pp["source"] == L.OVERRIDE_SOURCE:
+            pp = dict(pp["was"], draft=pp["draft"])
+            t = dict(t, parsing=pp.pop("value"))
     if lp["source"] not in hman["sources"] or pp["source"] not in hman["sources"]:
         bad_src.append(t["address"])
     A = arows[t["search_key"]]
@@ -156,11 +177,14 @@ for t in tokens:
     elif t["parsing"] != pp["draft"]:
         bad_d.append(t["address"])
     disagreeing = lp["status"] in ("disagree", "ambiguous", "unknown") or pp["status"] == "disagree"
-    if disagreeing != bool(t["review"]):
+    if t["address"] in OV:
+        pass            # Adam's answer clears the reasons it answers
+    elif disagreeing != bool(t["review"]):
         bad_flag.append(t["address"])
     if "draft" not in lp or "draft" not in pp:
         bad_key.append(t["address"])
 check("every lemma and parsing names a source in the manifest", not bad_src, bad_src[:3])
+check("an adam-reviewed value is exactly the override row's", not bad_ov, bad_ov[:3])
 check("every token records the draft value, whichever source won", not bad_key, bad_key[:3])
 check("a Whitaker value is Whitaker's own analysis of that form, with the draft's headword",
       not bad_w, bad_w[:3])
@@ -239,6 +263,101 @@ check("several parses the draft fits: draft parsing kept, not flagged",
       r[2] == "nom sg" and r[3]["parsing"]["status"] == "draft-consistent" and r[4] is None)
 r = L.resolve("deitās", "voc sg (= nom)", [A_("deitas  N", "deitas, deitatis", "deitas", N1)])
 check("a draft naming two cases is never narrowed by Whitaker", r[2] == "voc sg (= nom)")
+
+
+def via(a, *steps):
+    return dict(a, via=list(steps))
+
+
+TRICK = {"kind": "TRICK", "table": "Mediaeval_Tricks", "rule": "internal e/ae", "as": "adoro"}
+r = L.resolve("adōrō, -āre", "1 sg pres ind act", [via(A_("adoro  V", "adoro, adorare", "adoro", V1), TRICK)])
+check("a lemma reached by a WORDS trick is taken, and says which trick",
+      r[1] == "adoro  V" and r[3]["lemma"]["via"] == [TRICK] and r[4] is None)
+r = L.resolve("adōrō, -āre", "1 sg pres ind act", [A_("adoro  V", "adoro, adorare", "adoro", V1),
+                                                   via(A_("adoro  V", "adoro, adorare", "adoro", V1), TRICK)])
+check("a lemma Whitaker also reaches plainly records no `via`", "via" not in r[3]["lemma"])
+SUF = {"kind": "SUFFIX", "fix": "an", "source": "ADDONS.LAT:1"}
+r = L.resolve("pellicānus, -ī m.", "voc sg", [via(A_("pellex  N", "pellex, pellicis", "pellex", N2), SUF)])
+check("a reading only by prefix/suffix formation: disagree, named with its suffix, its own reason",
+      r[3]["lemma"]["status"] == "disagree" and r[3]["lemma"]["whitaker"] == ["pellex, pellicis (by suffix -an)"]
+      and r[4] == ["lemma: Whitaker reaches this form only by prefix/suffix word formation"])
+TW1 = {"kind": "TWO_WORDS", "rule": "two words", "as": "pelli+cane", "part": 1}
+TW2 = dict(TW1, part=2)
+r = L.resolve("pellicānus, -ī m.", "voc sg", [via(A_("pellis  N", "pellis, pellis", "pellis", N2), TW1),
+                                              via(A_("canis  N", "canis, canis", "canis", N2), TW2)])
+check("a two-words guess is never taken: unknown, the guess recorded",
+      r[3]["lemma"]["status"] == "unknown" and r[0] == "pellicānus, -ī m." and r[3]["lemma"]["candidates"] == 0
+      and r[3]["lemma"]["whitaker_guess"] == ["pelli+cane part 1: pellis, pellis",
+                                              "pelli+cane part 2: canis, canis"])
+
+print("\n--- Adam's overrides")
+check("the overrides file is committed, and empty until Adam answers the review sheet",
+      os.path.exists(L.OVERRIDES) and not OV)
+check("no token carries adam-reviewed yet, and the hymn manifest declares it only once used",
+      not any(L.OVERRIDE_SOURCE in (t["provenance"]["lemma"]["source"], t["provenance"]["parsing"]["source"])
+              for t in tokens) and L.OVERRIDE_SOURCE not in hman["sources"])
+
+
+def loads(*rows):
+    fd, path = tempfile.mkstemp(suffix=".jsonl")
+    with os.fdopen(fd, "w", encoding="utf-8") as f:
+        for r_ in rows:
+            f.write(json.dumps(r_) + "\n")
+    try:
+        return L.load_overrides(path)
+    except ValueError as e:
+        return str(e)
+    finally:
+        os.remove(path)
+
+
+ROW = {"address": "wh-X/la.1.t01", "surface": "Adoro", "lemma_key": "adoro  V", "reviewed_on": "2026-09-27"}
+check("a well-formed row loads, keyed by token address", loads(ROW) == {"wh-X/la.1.t01": ROW})
+check("a missing file is no overrides", L.load_overrides(os.path.join(HERE, "no-such-file.jsonl")) == {})
+check("a row that sets nothing is refused",
+      "sets none" in loads({k: v for k, v in ROW.items() if k != "lemma_key"}))
+check("a row without its surface, or with a bad date, is refused",
+      "surface" in loads({k: v for k, v in ROW.items() if k != "surface"})
+      and "reviewed_on" in loads(dict(ROW, reviewed_on="27 Sept")))
+check("an unknown field is refused (a typo must not be silently ignored)",
+      "unknown fields" in loads(dict(ROW, lemm="x")))
+check("the same token twice is refused", "twice" in loads(ROW, ROW))
+
+AN = [A_("adoro  V", "adoro, adorare", "adoro", V1), A_("adoro  V (3rd)", "adoro, adorere", "adoro", V1)]
+base = L.resolve("adōrō", "1 sg pres ind act", AN)          # ambiguous, flagged
+out = L.apply_override(base, "Adoro", AN, ROW)
+check("lemma_key alone takes that Whitaker entry: its lemma, provenance adam-reviewed, the draft kept",
+      out[0] == "adoro, adorare" and out[1] == "adoro  V" and out[3]["lemma"]["source"] == "adam-reviewed"
+      and out[3]["lemma"]["draft"] == "adōrō" and out[3]["lemma"]["was"]["status"] == "ambiguous"
+      and out[3]["lemma"]["was"]["value"] == "adōrō" and out[4] is None)
+check("what the row does not set stays as resolved", out[2] == base[2] and out[3]["parsing"] == base[3]["parsing"])
+out = L.apply_override(base, "Adoro", AN, {"address": "a", "surface": "Adoro", "reviewed_on": "2026-09-27",
+                                           "lemma": "adōrō, -āre", "note": "house spelling"})
+check("a lemma of Adam's own, with no Whitaker key, is taken as written",
+      out[0] == "adōrō, -āre" and out[1] is None and out[3]["lemma"]["note"] == "house spelling")
+pbase = L.resolve("adōrō", "1 sg pres ind act", [A_("adoro  V", "adoro, adorare", "adoro", V2)])
+out = L.apply_override(pbase, "Adoro", AN, {"address": "a", "surface": "Adoro", "reviewed_on": "2026-09-27",
+                                            "parsing": "3 sg pres ind act, 1 conj"})
+check("a parsing override clears the parsing reason and keeps the replaced value under `was`",
+      out[2] == "3 sg pres ind act, 1 conj" and out[3]["parsing"]["was"]["value"] == "1 sg pres ind act"
+      and out[3]["parsing"]["was"]["status"] == "disagree" and out[4] is None and out[0] == pbase[0])
+out = L.apply_override((base[0], base[1], base[2], base[3], ["lemma: x", "parsing: y"]), "Adoro", AN,
+                       {"address": "a", "surface": "Adoro", "reviewed_on": "2026-09-27", "parsing": "p"})
+check("reasons Adam did not answer stand", out[4] == ["lemma: x"])
+
+
+def raises(fn):
+    try:
+        fn()
+    except ValueError:
+        return True
+    return False
+
+
+check("a lemma_key that is not one of Whitaker's analyses of the form is refused",
+      raises(lambda: L.apply_override(base, "Adoro", AN, dict(ROW, lemma_key="amo  V"))))
+check("an override whose surface is not the token's is refused (the text moved)",
+      raises(lambda: L.apply_override(base, "Adorote", AN, ROW)))
 
 # ============================================================ AGAINST THE FILES
 print("\n--- against the Whitaker files")

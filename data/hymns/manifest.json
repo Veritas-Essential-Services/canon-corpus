@@ -147,11 +147,10 @@
   "parsing_from_whitaker": 84,
   "parsing_confirmed_by_whitaker": 10,
   "lemma_status": {
-   "agree": 162,
-   "agree-selected": 82,
+   "agree": 161,
+   "agree-selected": 83,
    "ambiguous": 9,
-   "disagree": 9,
-   "unknown": 1
+   "disagree": 10
   },
   "parsing_status": {
    "confirmed": 10,
@@ -208,12 +207,12 @@
   "thomas-batch-01-permutations.json": "16830d15f0b80d12fe077cff8ee06d36bb6b12feab392c5b71624d2060d728c0",
   "thomas-batch-02.json": "921665fc4da7045883be87b7b02e822dec3a3ac1bd44c7b7aac7b3566b87d381",
   "thomas-batch-02-permutations.json": "dbff05eb7a4ce4dd5727be1c244f356bd37b94a0a423f560532b4019db30fd5d",
-  "hymns.analyses.jsonl": "664b39f0256debd192fcb7ada4fcd55a4293e33f80ca3025ba2e7732f0e0d3cc"
+  "hymns.analyses.jsonl": "d592e07783babeca603cf208dc150a1af4d6f3d4f1e109ac53d13d0a34a0814c"
  },
  "files_sha256": {
   "alignments.jsonl": "12ebace38a924b7979096df37644ccbb9bc36a5cdb4f6531e602b5319a252c15",
   "passages.jsonl": "c9b582e7d06aa6fc005018bdbc59e738f94a5be572823aee19d1105256409488",
-  "tokens.jsonl": "d0b6b8934ca15366b5c1c734a3112ada8ce594ca87326bc4c2d33c5545fabb62",
+  "tokens.jsonl": "174e5a59b2ea2bd78f3e18d355a9d105a5e3dfb720b1ae1608c62a7bb62fd9d3",
   "witnesses.jsonl": "a0c1a713bb01146b7de9bd48c83adc23b680eb0a051188104cae039a69d5bf6e"
  }
 }

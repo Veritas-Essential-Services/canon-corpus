@@ -80,6 +80,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)
     python3 pipeline/build_lemma_spine.py --check  # lemma files byte-identical
     python3 tests/lemma_spine_test.py        # the Latin lemma spine
+    python3 tests/whitaker_tricks_test.py    # WORDS syncope/slury/fixes/tricks, rule by rule
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -92,7 +93,7 @@ The living truth for project state is the Obsidian vault:
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
   pipeline/README-hymn-jsonl.md
-- pipeline/whitaker.py + build_lemma_spine.py — Whitaker's WORDS (Latin
+- pipeline/whitaker.py (+ whitaker_tricks.py) + build_lemma_spine.py — Whitaker's WORDS (Latin
   lemmas, licence `free-grant`, NOT PD) → data/lemmas/whitaker-la/ (hymn
   slice committed; full table gitignored). Rules:
   pipeline/README-lemma-spine.md

@@ -20,14 +20,29 @@ THE RULE (pipeline/README-lemma-spine.md s.3)
              flagged. No consistent parse: the draft stays, flagged.
     Every token records both values (Whitaker's and the draft's) in
     `provenance`, so nothing is lost either way.
+    via      An analysis WORDS reached only by a rule (a spelling trick,
+             syncope, a prefix or suffix) says so in `via`; a lemma taken
+             from one records it. WORDS's two-words guesses ("If not obvious,
+             probably incorrect") are never taken: a form with nothing else
+             stays `unknown`, the guess recorded.
+
+OVERRIDES (Adam's answers to the review sheet)
+    data/lemmas/adam-reviewed.jsonl, one row per token address. `load_overrides`
+    validates the file; `apply_override` puts a row onto a resolved token with
+    provenance `adam-reviewed`, keeping the draft and what it replaced.
 """
 
+import json
+import os
 import re
 
 from whitaker import fold
 
 SPINE_SOURCE = "whitaker-words"
 DRAFT_SOURCE = "house-draft-2026-09-14"
+OVERRIDE_SOURCE = "adam-reviewed"
+OVERRIDES = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                         "data", "lemmas", "adam-reviewed.jsonl")
 
 # -- the draft, read as features ---------------------------------------------
 
@@ -266,6 +281,18 @@ def _parse_id(a):
     return (a["whitaker"], a.get("enclitic"))
 
 
+def _kinds(a):
+    return {v["kind"] for v in a.get("via") or []}
+
+
+def _named(a):
+    """How a disagreeing Whitaker reading is listed: its lemma, and the rule
+    that reached it when there was one."""
+    name = a["lemma"] or a["key"]
+    fx = [f"{v['kind'].lower()} -{v['fix']}" for v in a.get("via") or [] if v["kind"] in ("PREFIX", "SUFFIX")]
+    return name + (f" (by {', '.join(fx)})" if fx else "")
+
+
 # -- the resolver --------------------------------------------------------------
 
 def resolve(draft_lemma, draft_parsing, analyses):
@@ -274,7 +301,8 @@ def resolve(draft_lemma, draft_parsing, analyses):
     review = []
     hw = draft_headword(draft_lemma)
     feats = draft_features(draft_parsing)
-    A = analyses or []
+    guesses = [a for a in analyses or [] if "TWO_WORDS" in _kinds(a)]
+    A = [a for a in analyses or [] if "TWO_WORDS" not in _kinds(a)]
     H = [a for a in A if a["headword"] == hw]
     C = [a for a in H if consistent(a["parse"], feats)]
     keys_A = sorted({a["key"] for a in A})
@@ -286,13 +314,21 @@ def resolve(draft_lemma, draft_parsing, analyses):
     if not A:
         lp.update(status="unknown", source=DRAFT_SOURCE,
                   note="WORDS (as ported here) has no analysis of this form")
+        if guesses:
+            lp["note"] = "WORDS has only a two-words guess, which is never taken"
+            two = [(v["as"], v["part"], g["lemma"] or g["key"])
+                   for g in guesses for v in g["via"] if v["kind"] == "TWO_WORDS"]
+            lp["whitaker_guess"] = [f"{s} part {n}: {l}" for s, n, l in sorted(set(two))]
         pp.update(status="unchecked", source=DRAFT_SOURCE)
         review.append("lemma: Whitaker has no analysis")
     elif not H:
         lp.update(status="disagree", source=DRAFT_SOURCE,
-                  whitaker=sorted({a["lemma"] or a["key"] for a in A}))
+                  whitaker=sorted({_named(a) for a in A}))
         pp.update(status="unchecked", source=DRAFT_SOURCE)
-        review.append("lemma: Whitaker's headword differs from the draft's")
+        if all(_kinds(a) & {"PREFIX", "SUFFIX"} for a in A):
+            review.append("lemma: Whitaker reaches this form only by prefix/suffix word formation")
+        else:
+            review.append("lemma: Whitaker's headword differs from the draft's")
     else:
         pick = sorted({a["key"] for a in _narrow(C if C else H, draft_lemma)})
         if len(pick) != 1:
@@ -305,6 +341,9 @@ def resolve(draft_lemma, draft_parsing, analyses):
             lemma = mine[0]["lemma"] or draft_lemma
             lp.update(status="agree" if len(keys_A) == 1 else "agree-selected",
                       form_by=mine[0]["form_by"], sources=mine[0]["sources"])
+            if all(a.get("via") for a in mine):
+                # the lemma is Whitaker's only by a rule: say which
+                lp["via"] = mine[0]["via"]
             parses = sorted({_parse_id(a) for a in mine})
             ok = sorted({_parse_id(a) for a in mine if consistent(a["parse"], feats)})
             pp["whitaker_parses"] = len(parses)
@@ -330,3 +369,79 @@ def resolve(draft_lemma, draft_parsing, analyses):
                           whitaker=[p[0] + (f" +{p[1]}" if p[1] else "") for p in parses])
                 review.append("parsing: no Whitaker parse agrees with the draft")
     return lemma, key, parsing, {"lemma": lp, "parsing": pp}, (review or None)
+
+
+# -- Adam's overrides (README-lemma-spine.md s.8) -------------------------------
+
+OVERRIDE_KEYS = {"address", "surface", "lemma", "lemma_key", "parsing", "reviewed_on", "note"}
+
+
+def load_overrides(path=OVERRIDES):
+    """{token address: row}. A missing file is no overrides. Any malformed
+    row is a hard stop: an answer that cannot be applied must not be dropped."""
+    if not os.path.exists(path):
+        return {}
+    out = {}
+    with open(path, encoding="utf-8") as f:
+        for n, line in enumerate(f, 1):
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            where = f"{os.path.basename(path)}:{n}"
+            extra = set(row) - OVERRIDE_KEYS
+            if extra:
+                raise ValueError(f"{where}: unknown fields {sorted(extra)}")
+            for k in ("address", "surface", "reviewed_on"):
+                if not isinstance(row.get(k), str) or not row[k]:
+                    raise ValueError(f"{where}: `{k}` is required")
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row["reviewed_on"]):
+                raise ValueError(f"{where}: reviewed_on must be YYYY-MM-DD")
+            if not {"lemma", "lemma_key", "parsing"} & set(row):
+                raise ValueError(f"{where}: sets none of lemma, lemma_key, parsing")
+            if row["address"] in out:
+                raise ValueError(f"{where}: {row['address']} is overridden twice")
+            out[row["address"]] = row
+    return out
+
+
+def apply_override(resolved, surface, analyses, ov):
+    """Put one of Adam's answers onto a token `resolve` has already settled.
+
+    `resolved` is resolve()'s (lemma, lemma_key, parsing, provenance, review).
+    The row may set `lemma_key` alone (take that Whitaker entry: it must be one
+    of Whitaker's analyses of this form, and its principal parts become the
+    lemma), `lemma` with or without a `lemma_key`, and/or `parsing`. What it
+    does not set is left as resolved. The replaced provenance is kept under
+    `was`, and the draft stays recorded. Review reasons for what Adam answered
+    are cleared; any others stand."""
+    lemma, key, parsing, prov, review = resolved
+    if ov["surface"] != surface:
+        raise ValueError(f"{ov['address']}: override is for {ov['surface']!r}, the token is {surface!r}")
+    prov = {k: dict(v) for k, v in prov.items()}
+    stamp = {"source": OVERRIDE_SOURCE, "status": OVERRIDE_SOURCE, "reviewed_on": ov["reviewed_on"]}
+    if ov.get("note"):
+        stamp["note"] = ov["note"]
+    done = set()
+    if "lemma" in ov or "lemma_key" in ov:
+        new_key = ov.get("lemma_key")
+        if new_key is not None:
+            mine = [a for a in analyses or [] if a["key"] == new_key]
+            if not mine:
+                raise ValueError(f"{ov['address']}: lemma_key {new_key!r} is not one of Whitaker's "
+                                 "analyses of this form")
+        new_lemma = ov["lemma"] if "lemma" in ov else (mine[0]["lemma"] or new_key)
+        if not new_lemma:
+            raise ValueError(f"{ov['address']}: lemma may not be empty")
+        was = {"value": lemma, "lemma_key": key, **prov["lemma"]}
+        prov["lemma"] = {**stamp, "draft": prov["lemma"]["draft"], "was": was}
+        lemma, key = new_lemma, new_key
+        done.add("lemma:")
+    if "parsing" in ov:
+        if not ov["parsing"]:
+            raise ValueError(f"{ov['address']}: parsing may not be empty")
+        was = {"value": parsing, **prov["parsing"]}
+        prov["parsing"] = {**stamp, "draft": prov["parsing"]["draft"], "was": was}
+        parsing = ov["parsing"]
+        done.add("parsing:")
+    left = [r for r in review or [] if not any(r.startswith(d) for d in done)]
+    return lemma, key, parsing, prov, (left or None)

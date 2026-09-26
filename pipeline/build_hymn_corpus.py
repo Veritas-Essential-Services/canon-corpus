@@ -74,7 +74,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import wh_uid as U  # noqa: E402
 import whitaker as W  # noqa: E402
-from lemma_spine import resolve  # noqa: E402
+from lemma_spine import resolve, load_overrides, apply_override, OVERRIDES, OVERRIDE_SOURCE  # noqa: E402
 
 UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
 OUT = os.path.join(ROOT, "data", "hymns")
@@ -247,6 +247,14 @@ SOURCES = {
         "verified": False,
         "open": "unchecked by Adam; five joins, each with its grammatical reason in `cut.why`.",
     },
+}
+
+# Declared in the manifest only once an override is applied (none yet).
+ADAM_REVIEWED = {
+    "what": "token lemma and/or parsing: Adam's answers to the lemma review sheet",
+    "edition": "data/lemmas/adam-reviewed.jsonl (pipeline/README-lemma-spine.md s.8)",
+    "license": "own",
+    "verified": True,
 }
 
 ALLOWED_LICENSES = ("PD", "own", "free-grant")
@@ -432,6 +440,11 @@ def build(src, reg):
     passages, witnesses, tokens, alignments = [], [], [], []
     inputs = {}
     spine, spine_sha = load_spine()
+    try:
+        overrides = load_overrides()
+    except ValueError as e:
+        _stop(f"lemma overrides: {e}")
+    used = set()
     legacy_map = {}          # legacy unit_id -> clause uid (the join, done once)
 
     for key, H in HYMNS.items():
@@ -563,6 +576,15 @@ def build(src, reg):
                               "run pipeline/build_lemma_spine.py")
                     lemma, lemma_key, parsing, prov, review = resolve(
                         st.get("lemma") or None, st.get("parsing") or None, spine[skey])
+                    addr = U.address(uid, f"la.1.t{i:02d}")
+                    if addr in overrides:
+                        try:
+                            lemma, lemma_key, parsing, prov, review = apply_override(
+                                (lemma, lemma_key, parsing, prov, review), st["surface"],
+                                spine[skey], overrides[addr])
+                        except ValueError as e:
+                            _stop(f"lemma overrides: {e}")
+                        used.add(addr)
                     tokens.append({
                         "address": U.address(uid, f"la.1.t{i:02d}"), "passage_uid": uid,
                         "witness": "la.1", "position": i, "line": on_line[i - 1],
@@ -640,6 +662,15 @@ def build(src, reg):
         if len(claimed) != len(set(claimed)):
             _stop(f"{work}: a legacy row lands in two clauses")
 
+    stale = sorted(set(overrides) - used)
+    if stale:
+        _stop(f"lemma overrides name tokens that do not exist: {stale[:5]}")
+    sources = dict(SOURCES)
+    if used:
+        sources[OVERRIDE_SOURCE] = ADAM_REVIEWED
+        with open(OVERRIDES, "rb") as f:
+            inputs["adam-reviewed.jsonl"] = hashlib.sha256(f.read()).hexdigest()
+
     manifest = {
         "schema": SCHEMA,
         "doc": "pipeline/README-hymn-jsonl.md",
@@ -654,7 +685,7 @@ def build(src, reg):
                                  "cut_by": H["cut_by"]} for k, H in HYMNS.items()},
         "licence_gate": {"allowed": list(ALLOWED_LICENSES),
                          "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only"},
-        "sources": SOURCES,
+        "sources": sources,
         "token_fields": TOKEN_FIELDS,
         "perseus": PERSEUS,
         "lemma_spine": {"doc": "pipeline/README-lemma-spine.md",
