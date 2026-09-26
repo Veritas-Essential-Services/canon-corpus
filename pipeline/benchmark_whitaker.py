@@ -29,7 +29,7 @@ SOURCE AND LICENCE
     The pin is one sha256 over the sorted list of (file name, file sha256):
     any file changed, added or missing is a hard stop.
 
-WHAT IS MEASURED, for four states of the port (2026-09-26)
+WHAT IS MEASURED, for seven states of the port (2026-09-26)
     A  plain   -- stem + ending, uniques, enclitics (the port that morning)
     B  rules   -- + SYNCOPE, SLURY, FIXES, TRICKS (the port by noon)
     C  +roman  -- + Roman numerals and the non-enclitic TACKONs
@@ -37,8 +37,17 @@ WHAT IS MEASURED, for four states of the port (2026-09-26)
                   as makedict writes them (one-stem superlatives, comparatives
                   and ordinals: pessimus, interior, vicesimus) and the PACKONs
                   (quidam, quicumque, quisquam)
+    E  +caps   -- + WORDS's capitalisation rule (parse.adb Is_Capitalized):
+                  no TRICKS on a word written capitalised, as a name
+    F  +names  -- + the house proper-names table (proper_names.py), consulted
+                  for a capitalised form
+    G  +house  -- + the house supplement (data/lemmas/house-supplement.jsonl)
     A-C key stems by slot, as the port did before D. The -ve fold fix is in
-    all four (it cannot be switched off; it touches very few forms).
+    all of them (it cannot be switched off; it touches very few forms).
+    From E on a form is read as it is written each time: a form written both
+    ways is analysed twice, capitalised and not, and each token counts under
+    its own spelling. A form's own status (the "forms" columns) is that of
+    the spelling it is written in most (lower-case on a tie).
     per distinct form and per running token:
       * unknown: no analysis at all; and "guess only": nothing but WORDS's
         two-words guess, which the lemma spine never takes;
@@ -146,6 +155,18 @@ def raw_form(t):
     return s.replace("æ", "ae").replace("œ", "oe")
 
 
+def cased_form(t):
+    """raw_form with the case kept (Æ opens to Ae), for Is_Capitalized."""
+    s = unicodedata.normalize("NFD", t)
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    return s.replace("Æ", "Ae").replace("æ", "ae").replace("Œ", "Oe").replace("œ", "oe")
+
+
+def as_written(form, cap):
+    """A spelling of `form` that is capitalised (Is_Capitalized) or not."""
+    return form[:1].upper() + form[1:] if cap else form
+
+
 # ---------------------------------------------------------------------------
 # Measuring
 # ---------------------------------------------------------------------------
@@ -167,33 +188,51 @@ def label(step):
     return " / ".join(bits)
 
 
-def analyses(Xs, state, form):
-    """Xs: (stems keyed by slot, stems keyed as makedict writes them)."""
-    X = Xs[state == "D"]
-    X.use_tackons = X.use_roman = state in "CD"
-    X.use_packons = state == "D"
+def analyses(Xs, state, form, cap=False):
+    """Xs: {"slot": stems keyed by slot, "D": stems keyed as makedict writes
+    them, "house": the same with the house supplement, "names": the
+    proper-names table}. `cap`: the form is written capitalised."""
+    X = Xs["slot"] if state in "ABC" else Xs["house"] if state == "G" else Xs["D"]
+    X.use_tackons = X.use_roman = state in "CDEFG"
+    X.use_packons = state in "DEFG"
+    X.use_caps = state in "EFG"
+    X.names = Xs["names"] if state in "FG" else {}
     w = W.fold(form)
     if state == "A":
         res = T.parse_plain(X, w)
     else:
-        res = T.parse_latin_word(X, w, raw=form)
+        res = T.parse_latin_word(X, w, raw=as_written(form, cap) if state in "EFG" else form)
     return [X._describe(a) for a in res]
 
 
+def _house(a):
+    return a.get("form_by") == "house-names" and "names" or a.get("house") and "house" or None
+
+
 def classify(A):
-    """(status, n_candidates, rule labels) for one form's analyses."""
+    """(status, n_candidates, rule labels) for one form's analyses. A form
+    read plainly only by the names table is "names", only by the house
+    supplement "house"; by any WORDS entry, "plain"."""
     if not A:
         return "unknown", 0, []
     real = [a for a in A if "TWO_WORDS" not in _kinds(a)]
     if not real:
         return "guess-only", 0, sorted({label(a["via"][0]) for a in A})
     cands = {a["key"] for a in real}
-    needs = all(a.get("via") for a in real)
-    labels = sorted({label(a["via"][0]) for a in real}) if needs else []
-    return ("rule" if needs else "plain"), len(cands), labels
+    plain = [a for a in real if not a.get("via")]
+    labels = [] if plain else sorted({label(a["via"][0]) for a in real})
+    if not plain:
+        return "rule", len(cands), labels
+    by = {_house(a) for a in plain}
+    return ("plain" if None in by else "names" if "names" in by else "house"), len(cands), labels
 
 
-def measure(Xs, counts, lower_seen, state):
+READ = ("plain", "rule", "names", "house")
+
+
+def measure(Xs, counts, lower_seen, state, cased=None):
+    """`cased`: {form: Counter({capitalised?: tokens})}; from state E on each
+    spelling is analysed apart. Before E, one analysis per form."""
     t0 = time.time()
     tot_tok = sum(counts.values())
     out = {"forms": len(counts), "tokens": tot_tok}
@@ -204,33 +243,52 @@ def measure(Xs, counts, lower_seen, state):
     unknown = collections.Counter()
     per_form = {}
     for form, n in counts.items():
-        st, nc, labels = classify(analyses(Xs, state, form))
-        per_form[form] = (st, nc, labels)
-        status_f[st] += 1
-        status_t[st] += n
-        if st in ("plain", "rule"):
-            k = "one" if nc == 1 else "several"
-            cand_f[k] += 1
-            cand_t[k] += n
-        for lab in labels:
+        if state in "EFG" and cased is not None:
+            variants = sorted(cased[form].items(), key=lambda kv: (-kv[1], kv[0]))
+        else:
+            variants = [(False, n)]
+        for vi, (cap, vn) in enumerate(variants):
+            st, nc, labels = classify(analyses(Xs, state, form, cap))
+            if vi == 0:                         # the form's own status: its commonest spelling
+                per_form[form] = (st, nc, labels)
+                status_f[st] += 1
+                if st in READ:
+                    cand_f["one" if nc == 1 else "several"] += 1
+                if st == "rule":
+                    for lab in labels:
+                        rule_f[lab] += 1
+                    for kd in sorted({lab.split(" / ")[0] for lab in labels}):
+                        kind_f[kd] += 1
+            status_t[st] += vn
+            if st in READ:
+                cand_t["one" if nc == 1 else "several"] += vn
             if st == "rule":
-                rule_f[lab] += 1
-                rule_t[lab] += n
-        for kd in sorted({lab.split(" / ")[0] for lab in labels}) if st == "rule" else []:
-            kind_f[kd] += 1
-            kind_t[kd] += n
-        if st in ("unknown", "guess-only"):
-            unknown[form] = n
+                for lab in labels:
+                    rule_t[lab] += vn
+                for kd in sorted({lab.split(" / ")[0] for lab in labels}):
+                    kind_t[kd] += vn
+            if st in ("unknown", "guess-only"):
+                unknown[form] += vn
     out.update({
         "status_forms": dict(status_f), "status_tokens": dict(status_t),
         "candidates_forms": dict(cand_f), "candidates_tokens": dict(cand_t),
-        "rule_kind_forms": dict(kind_f), "rule_kind_tokens": dict(kind_t),
+        "rule_kind_forms": dict(kind_f), "rule_kind_tokens": {k: kind_t[k] for k in kind_f},
         "rule_forms": dict(rule_f.most_common()), "rule_tokens": dict(rule_t.most_common()),
         "top_unknown": [{"form": f, "count": c, "ever_lower": f in lower_seen,
                          "status": per_form[f][0]} for f, c in unknown.most_common(200)],
         "seconds": round(time.time() - t0, 1),
     })
     return out, per_form
+
+
+def check_attestation(rows, counts):
+    """Every house row's `attested` counts are the Vulgate's, form for form
+    (a wrong count is a hard stop: the justification rests on it)."""
+    bad = [(r["id"], f, n, counts.get(f, 0)) for r in rows for f, n in r["attested"].items()
+           if counts.get(f, 0) != n]
+    if bad:
+        raise SystemExit(f"HARD STOP: house-supplement attestation differs from the Vulgate: {bad}")
+    return {"rows": len(rows), "forms": sum(len(r["attested"]) for r in rows), "checked": True}
 
 
 def pct(a, b):
@@ -240,7 +298,7 @@ def pct(a, b):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--fetch", action="store_true")
-    ap.add_argument("--states", default="ABCD")
+    ap.add_argument("--states", default="ABCDEFG")
     args = ap.parse_args()
     if args.fetch:
         fetch()
@@ -248,22 +306,27 @@ def main():
     if PIN is not None and d != PIN:
         raise SystemExit(f"HARD STOP: Clementine text digest {d} != pinned {PIN}")
     counts, lower_seen = collections.Counter(), set()
+    cased = collections.defaultdict(collections.Counter)
     for t in tokens():
         f = raw_form(t)
         counts[f] += 1
+        cased[f][T.is_capitalized(cased_form(t))] += 1
         if t[:1].islower():
             lower_seen.add(f)
-    X = (W.Whitaker(stems_by_slot=True), W.Whitaker())
+    import proper_names
+    X = {"slot": W.Whitaker(stems_by_slot=True), "D": W.Whitaker(),
+         "house": W.Whitaker(house_supplement=True), "names": proper_names.load()}
+    attested = check_attestation(X["house"].house_rows, counts)
     res = {"source": {"repo": REPO_URL, "commit": COMMIT, "path": "src/iso-encoded/*.lat", "encoding": "cp1252", "books": len(BOOKS),
                       "digest_sha256": d, **LICENCE},
            "whitaker_commit": W.COMMIT, "states": {}}
     forms = {}
     for s in args.states:
-        r, forms[s] = measure(X, counts, lower_seen, s)
+        r, forms[s] = measure(X, counts, lower_seen, s, cased)
         res["states"][s] = r
         F, N = r["forms"], r["tokens"]
         print(f"[{s}] {F} forms / {N} tokens in {r['seconds']} s")
-        for st in ("plain", "rule", "guess-only", "unknown"):
+        for st in ("plain", "names", "house", "rule", "guess-only", "unknown"):
             print(f"    {st:10} forms {r['status_forms'].get(st, 0):6} {pct(r['status_forms'].get(st, 0), F):>7}"
                   f"   tokens {r['status_tokens'].get(st, 0):7} {pct(r['status_tokens'].get(st, 0), N):>7}")
         for k in ("one", "several"):
@@ -277,6 +340,34 @@ def main():
         lost = [f for f in counts if forms["A"][f][0] == "plain" and forms[last][f][0] != "plain"]
         res["plain_lost"] = lost
         print(f"  A -> {last}", res[f"transitions_A_to_{last}"], "plain lost:", len(lost))
+    res["house_attestation"] = attested
+    for a, b in (("D", "E"), ("E", "F"), ("F", "G"), ("D", "G")):
+        if a in forms and b in forms:
+            moved = collections.Counter((forms[a][f][0], forms[b][f][0]) for f in counts)
+            tok = collections.Counter()
+            for f, n in counts.items():
+                tok[(forms[a][f][0], forms[b][f][0])] += n
+            res[f"transitions_{a}_to_{b}"] = {f"{x}->{y}": [moved[(x, y)], tok[(x, y)]]
+                                              for (x, y) in sorted(moved) if x != y}
+            print(f"  {a} -> {b}", res[f"transitions_{a}_to_{b}"])
+    if "E" in forms:
+        never = [f for f in counts if f not in lower_seen]
+        res["never_lower_rule_read"] = {
+            s: {"forms": sum(1 for f in never if forms[s][f][0] == "rule"),
+                "tokens": sum(counts[f] for f in never if forms[s][f][0] == "rule"),
+                "by_kind": dict(collections.Counter(lab.split(" / ")[0] for f in never if forms[s][f][0] == "rule"
+                                                    for lab in forms[s][f][2]))}
+            for s in args.states if s in "DEFG"}
+        print("  never lower-case, read only by a rule:", res["never_lower_rule_read"])
+    if "F" in forms and "G" in forms:
+        # the supplement must add nothing to a form a WORDS entry already reads
+        gained = []
+        for f in counts:
+            if forms["F"][f][0] == "plain":
+                if len(analyses(X, "G", f)) != len(analyses(X, "F", f)):
+                    gained.append(f)
+        res["house_touched_plain_forms"] = gained
+        print("  plain forms the supplement added readings to:", gained)
     if "C" in forms and "D" in forms:
         gained = collections.Counter()
         for f, n in counts.items():

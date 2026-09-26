@@ -1,0 +1,1165 @@
+{
+ "schema": "wordhoard/proper-names/v1",
+ "doc": "pipeline/README-lemma-spine.md s.10; method in pipeline/proper_names.py",
+ "language": "la",
+ "provenance": "house",
+ "pos": "proper",
+ "row_evidence": "every form of every row: never written lower-case in the Vulgate, capitalised there in mid-sentence (`mid_sentence` tokens), and read plainly by no WORDS entry; a row's other forms are its nominative's stem plus an ending of its class",
+ "sources": {
+  "vulgate": {
+   "repo": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+   "commit": "d57e2cde0cceda0d073ea9efc1fee616bcfeb2c1",
+   "path": "src/iso-encoded/*.lat",
+   "digest_sha256": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+   "license": "public-domain",
+   "statement": "The text has been released into the public domain.",
+   "requests": "acknowledge the source; report typographical errors to the project maintainer; make clear any modifications (requests only, not a licence)",
+   "evidence": {
+    "url": "http://web.archive.org/web/20221121145231/https://vulsearch.sourceforge.net/index.html",
+    "sha256": "3fb9ee615f898863ec08d4be3b46cc0334ddf2fce0970f49198197952951a368"
+   },
+   "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+   "used_for": "which forms are names (step 1) and their inflected forms (step 2): forms and counts only"
+  },
+  "hitchcock": {
+   "license": "public-domain",
+   "work": "Hitchcock's Bible Names Dictionary",
+   "author": "Roswell D. Hitchcock",
+   "printed": "From Hitchcock's New and Complete Analysis of the Holy Bible, New York: A. J. Johnson, 1874, c1869, pp. 1104-1113 (the file's printSourceInfo)",
+   "edition": "Christian Classics Ethereal Library, ThML, bookID bible_names (digitized by Brad Haugaard)",
+   "url": "https://ccel.org/ccel/h/hitchcock/bible_names.xml",
+   "sha256": "43390f72248bb3687cc69598b4dc6fd80dc6e406225eed3cd05e66594386d836",
+   "evidence": "the file's own <DC.Rights>Public Domain</DC.Rights>; the book was printed 1869/1874",
+   "verified_on": "2026-09-26",
+   "used_for": "headword, entry id and the name's gloss, verbatim, as provenance for each lemma"
+  },
+  "whitaker": {
+   "commit": "1f2f0fb0867a896d7b9284a03d615ed635d6f992",
+   "license": "free-grant",
+   "used_for": "only to leave out forms WORDS already reads plainly; nothing of it is copied"
+  }
+ },
+ "method": {
+  "boundary_marks": "!()./:?[\\]",
+  "endings": [
+   {
+    "nominative": "-us",
+    "others": [
+     "i",
+     "o",
+     "um",
+     "e",
+     "orum",
+     "is",
+     "os"
+    ],
+    "class": "2nd declension, -us",
+    "head_must": null
+   },
+   {
+    "nominative": "-as",
+    "others": [
+     "ae",
+     "am",
+     "an",
+     "a"
+    ],
+    "class": "1st declension, -as",
+    "head_must": null
+   },
+   {
+    "nominative": "(bare)",
+    "others": [
+     "is",
+     "i",
+     "em",
+     "e"
+    ],
+    "class": "3rd declension, consonant stem",
+    "head_must": "consonant"
+   },
+   {
+    "nominative": "-es",
+    "others": [
+     "is",
+     "i",
+     "em",
+     "en",
+     "e",
+     "ae"
+    ],
+    "class": "-es (1st or 3rd declension)",
+    "head_must": "consonant"
+   },
+   {
+    "nominative": "-is",
+    "others": [
+     "i",
+     "em",
+     "im",
+     "e",
+     "idis",
+     "idi",
+     "idem",
+     "ide"
+    ],
+    "class": "3rd declension, -is",
+    "head_must": "consonant"
+   },
+   {
+    "nominative": "-a",
+    "others": [
+     "ae",
+     "am",
+     "arum",
+     "is",
+     "as"
+    ],
+    "class": "1st declension, -a",
+    "head_must": null
+   },
+   {
+    "nominative": "-am",
+    "others": [
+     "ae"
+    ],
+    "class": "-am, genitive/dative -ae (Abraham, Abrahae)",
+    "head_must": "hitchcock"
+   },
+   {
+    "nominative": "-e",
+    "others": [
+     "es",
+     "en"
+    ],
+    "class": "1st declension, Greek -e",
+    "head_must": null
+   },
+   {
+    "nominative": "-i",
+    "others": [
+     "orum",
+     "is",
+     "os"
+    ],
+    "class": "2nd declension, plural",
+    "head_must": null
+   },
+   {
+    "nominative": "-ae",
+    "others": [
+     "arum",
+     "is",
+     "as"
+    ],
+    "class": "1st declension, plural",
+    "head_must": null
+   }
+  ],
+  "enclitics_left_to_lookup": [
+   "que"
+  ],
+  "hitchcock_tiers": [
+   "exact",
+   "spelling",
+   "ending"
+  ]
+ },
+ "counts": {
+  "vulgate_forms": 46316,
+  "never_lower_case": 5505,
+  "candidates": 3574,
+  "candidate_tokens": 18507,
+  "candidates_by_state_D": {
+   "guess-only": 233,
+   "rule": 385,
+   "unknown": 2956
+  },
+  "left_to_the_enclitic_lookup": 5,
+  "lemmas": 3004,
+  "lemmas_by_paradigm": {
+   "one form": 2686,
+   "1st declension, -a": 81,
+   "1st declension, -as": 79,
+   "2nd declension, -us": 56,
+   "3rd declension, consonant stem": 45,
+   "-es (1st or 3rd declension)": 28,
+   "2nd declension, plural": 11,
+   "3rd declension, -is": 10,
+   "1st declension, plural": 4,
+   "-am, genitive/dative -ae (Abraham, Abrahae)": 3,
+   "1st declension, Greek -e": 1
+  },
+  "lemmas_by_hitchcock_match": {
+   "none": 1987,
+   "exact": 567,
+   "spelling": 407,
+   "ending": 43
+  },
+  "forms_with_two_lemmas": 12,
+  "held_back_capitalised_only_at_a_boundary": 190,
+  "held_back_tokens": 205
+ },
+ "held_back": [
+  {
+   "form": "haeccine",
+   "tokens": 4,
+   "state_D": "rule"
+  },
+  {
+   "form": "animaequior",
+   "tokens": 3,
+   "state_D": "rule"
+  },
+  {
+   "form": "assumensque",
+   "tokens": 3,
+   "state_D": "rule"
+  },
+  {
+   "form": "balaan",
+   "tokens": 2,
+   "state_D": "unknown"
+  },
+  {
+   "form": "corneli",
+   "tokens": 2,
+   "state_D": "unknown"
+  },
+  {
+   "form": "dositheus",
+   "tokens": 2,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hori",
+   "tokens": 2,
+   "state_D": "rule"
+  },
+  {
+   "form": "jamuel",
+   "tokens": 2,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "michaea",
+   "tokens": 2,
+   "state_D": "unknown"
+  },
+  {
+   "form": "octavadecima",
+   "tokens": 2,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "selec",
+   "tokens": 2,
+   "state_D": "unknown"
+  },
+  {
+   "form": "aaronitis",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "abiae",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "abialbon",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "abias",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "accain",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "adieruntque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "adina",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "aggi",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ahi",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "ahinadab",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ahiram",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "alian",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "alvan",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "amramitis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "appropinquasti",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "arab",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "arastis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "aree",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "arius",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "athmatha",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "audieruntque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "bacbacar",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "bana",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "baneas",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "bavai",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "becher",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "beera",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "benabinadab",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "bendecar",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "bengaber",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "benhesed",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "benhur",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "benno",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "bethphogor",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "cariathbaal",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "carthaginenses",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "chebbon",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "cinaeos",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "circuieruntque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "consecrastis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "cretenses",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "delean",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "echaia",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "elihoreph",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "eliphal",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "elthece",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ephphetha",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "esbon",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "estaol",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ethi",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "evodiam",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "exacerbastis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "ezrel",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "facinorosissimus",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "foenerare",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "gaba",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "gaber",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "gallione",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "gebal",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "gemmula",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "hadar",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "halhul",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hamdan",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hamram",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hamuel",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hasaban",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hebronitarum",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "heles",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "herodias",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "hesrai",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hesro",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hevaeos",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "hevaeumque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "hucac",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hupham",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "hurai",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "igaal",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "inieruntque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "insanisti",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "interrogasti",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "isaari",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ituraei",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "izrahia",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jalel",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jamnitis",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "janai",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jebaar",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jephtha",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jesbibenob",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jesiel",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jodaiae",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "joela",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "joppitae",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "josachar",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "jurationi",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "labana",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "lazare",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "lebaoth",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "lebni",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "maazia",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "mareth",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "masmana",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "megphias",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "mehusim",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "melchiram",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "mesizabel",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "milicho",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "minorasti",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "mitigasti",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "mosobab",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "musach",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "nephthalitibus",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "nequissimo",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "noga",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "nohaa",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "nonadecima",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "oduiae",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ordinatione",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "othei",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "othni",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "ozni",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "penulam",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "phalel",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "pharisaee",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "pharsandatha",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "pheltia",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "phosech",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "raia",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "razias",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "rememoramini",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "repromissorem",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "resen",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "sammaa",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sammoth",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sanan",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sebeniae",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "selebin",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sellem",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "seminastis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "semran",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sepham",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sephim",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "sephion",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sephon",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "septimadecima",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "serug",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sibboleth",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sichimitis",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "signasti",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "simeonitis",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "siva",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sobbochai",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "solomon",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "sophai",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "spartianorum",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "stephanus",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "stragulatam",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "subiit",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "sufferentiam",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "suham",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "supervacuitas",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "supham",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "tapheth",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "thehen",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "thesaurizastis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "thymiateria",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "transieruntque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "transistisque",
+   "tokens": 1,
+   "state_D": "guess-only"
+  },
+  {
+   "form": "turbastis",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "us",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "utilior",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "vania",
+   "tokens": 1,
+   "state_D": "rule"
+  },
+  {
+   "form": "zabud",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "zabulonitis",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "zachaee",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "zamira",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "zanoa",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "zathan",
+   "tokens": 1,
+   "state_D": "unknown"
+  },
+  {
+   "form": "zenam",
+   "tokens": 1,
+   "state_D": "unknown"
+  }
+ ],
+ "left_to_the_enclitic_lookup": [
+  "adoniamque",
+  "ananiaeque",
+  "chananaeumque",
+  "maasiaeque",
+  "tyriisque"
+ ],
+ "files_sha256": {
+  "names.jsonl": "a92715e6756d0e8332edc51ea552fadc35a97717bac6ca8c32f14468cacde680"
+ }
+}

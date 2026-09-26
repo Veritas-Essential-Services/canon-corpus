@@ -15,8 +15,11 @@ python pipeline/build_lemma_spine.py --fetch   # once: the pinned Whitaker files
 python pipeline/build_lemma_spine.py           # the table + the hymn analyses
 python pipeline/build_hymn_corpus.py           # tokens take lemma/parsing from them
 python tests/lemma_spine_test.py               # 64 checks
-python tests/whitaker_tricks_test.py           # 133 checks: one or more per ported rule
+python tests/whitaker_tricks_test.py           # 167 checks: one or more per ported rule
 python pipeline/build_lemma_spine.py --check   # committed lemma files byte-identical
+python pipeline/proper_names.py --fetch        # once: Hitchcock's Bible Names (s.10)
+python pipeline/proper_names.py --check        # the names table byte-identical (needs the Vulgate)
+python tests/proper_names_test.py              # 46 checks
 ```
 
 ---
@@ -207,7 +210,15 @@ The code is ported from the Ada source at the same commit, rule for rule:
 - the order WORDS tries all of this in (`parse.adb`, Pass and
   Parse_Latin_Word): plain; SLURY if nothing; SYNCOPE unless a form of *esse*
   is there; the enclitics; FIXES if still nothing; TRICKS last, then TRICKS on
-  the form less an enclitic.
+  the form less an enclitic;
+- **capitalisation** (`parse.adb`, Is_Capitalized, with Ignore_Unknown_Names
+  on, its default in `word_parameters.adb`): a word written with A-Z then a-z
+  is taken for a name and gets **no TRICKS**. Nothing else is skipped: SLURY,
+  SYNCOPE and the FIXES run inside Pass, before the test, so WORDS reads
+  *Absalom* as *abs-* + a word too. The test reads the form as written
+  (`raw`); called with only a search key, as the hymn build calls it, nothing
+  is capitalised and nothing changes. Found by the Vulgate benchmark, where
+  tricks had given *Hiram*, *Emath* and *Aser* wrong readings.
 
 The tables are copied row for row, and `whitaker_tricks_test.py` compares
 them with the Ada (pinned by sha256 in `whitaker.ADA_SOURCES`, fetched by
@@ -238,8 +249,14 @@ conventional headings for 9 lemmas. It prints none for a qu-pronoun + PACKON
 entry either; the house heads those `qui, quae, quod + -dam  PACK`, composed
 rather than spelt out, because WORDS files *quisquam* under the adjectival
 *qui*, and spelling the parts out would invent *quiquam*. Their headword is
-the pronoun's (*qui*, *quis*): 17 more house lemmas. Adam may prefer real headings (*quidam*,
-*quisquam*); that is a table of about a dozen rows.
+the pronoun's (*qui*, *quis*): 17 more house lemmas.
+`whitaker.HOUSE_PACK_HEADWORDS` offers real headings instead (*quidam, quaedam,
+quoddam*; *quisquam, quaequam, quidquam*), from Lewis & Short where it heads
+the word, behind a switch: `Whitaker(pack_headings="real")`,
+`build_lemma_spine.py --pack-headings real`. The default stays the composed
+heading until Adam chooses; both are listed in
+`docs/review/2026-09-26-benchmark.md`. On the hymns the switch changes one
+form's analyses (*quoque*'s PACKON readings) and no token.
 
 One hymn form changed with these (2026-09-26), and no hymn token's lemma or
 parsing: *quoque* gains WORDS's PACKON readings (*quo* + *-que*, from
@@ -292,7 +309,7 @@ figure.
 
 `pipeline/benchmark_whitaker.py` runs the analyzer over the whole Clementine
 Vulgate: 612,029 running words, a public-domain text pinned by sha256 and kept
-gitignored. It measures four states of the port. The summary is
+gitignored. It measures seven states of the port. The summary is
 `docs/review/2026-09-26-benchmark.md`.
 
 | | before the rules | with every rule and fix |
@@ -301,9 +318,19 @@ gitignored. It measures four states of the port. The summary is
 | tokens unknown | 3.98% | 2.60% (plus 0.26% guess only) |
 
 Nearly all that is left is proper names. Only 0.08% of the text is an unknown
-that is ever written lower-case. One caution: WORDS's rules misread many names
-(*Absalom* as *abs-* + a word), because the port tries tricks on capitalised
-words and WORDS does not.
+that is ever written lower-case.
+
+Three later states (same day) close that gap:
+
+| | E: + capitalisation | F: + proper names (s.10) | G: + house supplement (s.9) |
+|---|---|---|---|
+| forms unknown | 7.71% | 0.41% | 0.35% (plus 0.14% guess only) |
+| tokens unknown | 2.94% | 0.06% | 0.03% (plus 0.05% guess only) |
+| tokens read | 97.01% | 99.89% | 99.92% |
+
+E is WORDS's own rule, so it reads *less* than D: the trick readings it drops
+were, on names, nearly all wrong. The prefix and suffix readings of names
+stay in E, as they do in WORDS; the names table in F replaces them.
 
 ## 6. Not here
 
@@ -365,3 +392,74 @@ are cleared, and any others stand. The hymn manifest declares the
 applied. A malformed row, a key Whitaker does not have, a surface that no
 longer matches, or a row for a token that does not exist stops the build. An
 answer is never dropped silently.
+
+## 9. The house supplement
+
+`data/lemmas/house-supplement.jsonl` (committed, LF) fills the gaps the Vulgate
+benchmark found in DICTLINE's vocabulary, and nothing else: 24 rows, 34 forms.
+It is **off unless asked for** (`Whitaker(house_supplement=True)`), so the
+lemma spine's committed files do not change; the benchmark's state G turns it
+on.
+
+Every row has `"provenance": "house"`, an `id`, `attested` (form: count in the
+Clementine Vulgate, checked against the text by the benchmark and by
+`proper_names_test.py`) and a `justification` from public-domain attestation:
+the Vulgate's own forms and, where it has the word, Lewis & Short (1879). A row
+is one of two kinds:
+
+- **an entry** in DICTLINE's terms: `stems` and `part` (e.g. `N 2 1 M P`), read
+  by WORDS's own endings. With `only_forms` it reads just the forms it cites,
+  so it can add nothing to any other form (*prophetidem*, but not *prophetis*,
+  which is *propheta*'s dative plural);
+- **forms** with their parse outright, as UNIQUES gives them (*basim*,
+  `N 3 9 ACC S F`).
+
+`of` names the Whitaker lemma the forms belong to (its dictionary form,
+exactly: *emptitius* is DICTLINE's *empticius*); without it the row is a lemma
+of its own, headed by `dictionary_form` and marked `form_by: "house"`. Either
+way a reading's `source` is the row (`house-supplement.jsonl:7`), never a
+DICTLINE line, and it carries `house: <id>`. A row without provenance,
+justification or attestation, an `of` that is not a Whitaker form, or stems
+that do not read the form stop the build.
+
+Not supplied: *bahem* (one form; no public-domain lemma to hang it on),
+*ixion* (a bird here; Lewis & Short has only the mythical Ixion), *horon* (a
+fragment: the benchmark splits *Beth-horon* at the hyphen), *ejicicetur* (a
+misprint).
+
+## 10. Proper names
+
+`data/lemmas/proper-names/names.jsonl` (committed, LF; built by
+`pipeline/proper_names.py`, its manifest beside it) maps the Vulgate's proper
+names, form by form, to a name lemma with part of speech **`proper`**. It is
+consulted by `whitaker_tricks.parse_latin_word` for a **capitalised** form
+only, beside WORDS's own dictionary lookup, as a name in DICTLINE would be. It
+is loaded only when asked for (`X.names = proper_names.load()`); the lemma
+spine does not load it.
+
+Everything in it is derived mechanically; the method is in the module's
+docstring and the manifest. In short:
+
+1. **Candidates**: forms the Vulgate never writes lower-case, writes
+   capitalised at least once in mid-sentence (not at a verse start or after
+   `. : ? !`), and WORDS cannot read plainly: 3,574 forms, 18,507 tokens.
+   190 forms (205 tokens) capitalised only where any word would be are held
+   back and listed in the manifest.
+2. **Lemmas** from the Vulgate's own inflected forms: a candidate ending in a
+   Latin nominative ending heads the attested forms of its stem (*Jonathas*:
+   *Jonathae*, *Jonatha*). No nominative the text does not write is ever
+   supplied; a form with no paradigm is its own lemma ("one form": *Aaron*,
+   322 tokens).
+3. **Hitchcock's Bible Names Dictionary** (1869, public domain, CCEL's ThML,
+   pinned by sha256): each lemma carries the headwords it matches, their entry
+   ids and Hitchcock's gloss, verbatim, with the tier that matched (`exact`,
+   `spelling`, `ending`). Nothing is added to what Hitchcock gives. The
+   `ending` tier is the weakest (*Jacobus* ~ *Jacob*, *Antiochus* ~ *Antioch*
+   are wrong identities; the lemma itself does not depend on it).
+
+3,004 lemmas: 2,686 of one form, 318 with a paradigm; 1,017 matched in
+Hitchcock (567 exact, 407 spelling, 43 ending).
+
+A reading from the table: `{"key": "Jonathas  proper", "lemma": "Jonathas",
+"form_by": "house-names", "parse": {"pos": "proper"}, "source":
+"proper-names/names.jsonl:<line>"}`. The case of a name form is not given.

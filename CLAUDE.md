@@ -82,6 +82,9 @@ The living truth for project state is the Obsidian vault:
     python3 tests/lemma_spine_test.py        # the Latin lemma spine
     python3 tests/whitaker_tricks_test.py    # WORDS syncope/slury/fixes/tricks/roman/tackons/packons, rule by rule
     python3 pipeline/benchmark_whitaker.py --fetch  # WORDS vs the Clementine Vulgate (text gitignored)
+    python3 pipeline/proper_names.py --fetch  # the house proper-names table (Vulgate + Hitchcock, PD)
+    python3 pipeline/proper_names.py --check  # names table byte-identical
+    python3 tests/proper_names_test.py        # the names table; the house supplement's attestation
     python3 pipeline/build_nt_corpus.py --fetch   # Greek NT pilot: RP2018 + Strong's, pinned
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
     python3 tests/nt_corpus_test.py          # validator for data/nt/*.jsonl
