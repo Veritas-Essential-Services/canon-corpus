@@ -50,7 +50,13 @@ The living truth for project state is the Obsidian vault:
 3b. **Identity is separate from the citation, and is the `uid`.**
    `pipeline/wh_uid.py`; the map is `data/uids/wordhoard.uids.json` and is
    COMMITTED — losing it silently renames every identifier in the Word
-   Hoard. A citation says where to look; a uid says what you will find.
+   Hoard. 🔴 **This repo is PUBLIC.** Private citations (vault note paths,
+   Adam's own maxims) never go in it: they live in the house's private
+   registry, `wordhoard/data/uids/house.uids.json`, which shares this one id
+   space (`WhUidRegistry(..., shared_space=<this file>)`) and lists its uids
+   here, bare, under `reserved`. Never delete a `reserved` entry, and never
+   save this file with a `wh_uid.py` older than 2026-09-27 — an old one drops
+   `reserved` on save. Ruled 2026-09-27. A citation says where to look; a uid says what you will find.
    Citations are unchanged and are not deprecated. A rebuild of existing
    content must mint ZERO (`build_witnesses.py --check`).
    🔴 Normative rules, all of them, in the vault:
