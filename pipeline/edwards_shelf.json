@@ -1,0 +1,180 @@
+{
+ "_about": "Every public-domain Jonathan Edwards text the Word Hoard holds. CCEL ThML is clean and structured; Internet Archive items are OCR plain text (raw, unconverted). Gutenberg items are clean text. Order: CCEL > Gutenberg > Internet Archive. The Yale edition (1957-2008) is under copyright and lives only in the private shelf.",
+ "ccel": {
+  "edwards-works1": [
+   "works1",
+   "Works, vol. 1 (Hickman ed., 1834)",
+   "in Armarium"
+  ],
+  "edwards-works2": [
+   "works2",
+   "Works, vol. 2 (Hickman ed., 1834)",
+   ""
+  ],
+  "edwards-affections": [
+   "affections",
+   "Religious Affections",
+   "in Armarium"
+  ],
+  "edwards-sermons": [
+   "sermons",
+   "Sermons (CCEL selection)",
+   ""
+  ],
+  "edwards-treatiseongrace": [
+   "treatiseongrace",
+   "Treatise on Grace",
+   ""
+  ],
+  "edwards-trinity": [
+   "trinity",
+   "Essay on the Trinity",
+   ""
+  ],
+  "edwards-will": [
+   "will",
+   "Freedom of the Will",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "edwards-selected-sermons-1904": [
+   34632,
+   "Selected Sermons (ed. Gardiner, 1904)"
+  ],
+  "edwards-brainerd-life": [
+   65066,
+   "The Life of Rev. David Brainerd, chiefly extracted from his diary"
+  ]
+ },
+ "internet_archive": {
+  "edwards-dwight-01": [
+   "worksofpresidents01edwa",
+   "Works, Dwight ed. (1829-30), vol. 1: Dwight's Memoir"
+  ],
+  "edwards-dwight-02": [
+   "worksofpresidents02edwa",
+   "Works, Dwight ed., vol. 2"
+  ],
+  "edwards-dwight-03": [
+   "worksofpresidents03edwa",
+   "Works, Dwight ed., vol. 3"
+  ],
+  "edwards-dwight-04": [
+   "worksofpresidents04edwa",
+   "Works, Dwight ed., vol. 4"
+  ],
+  "edwards-dwight-05": [
+   "worksofpresidents05edwa",
+   "Works, Dwight ed., vol. 5"
+  ],
+  "edwards-dwight-06": [
+   "worksofpresidents06edwa",
+   "Works, Dwight ed., vol. 6"
+  ],
+  "edwards-dwight-07": [
+   "worksofpresidents07edwa",
+   "Works, Dwight ed., vol. 7"
+  ],
+  "edwards-dwight-08": [
+   "worksofpresidents08edwa",
+   "Works, Dwight ed., vol. 8"
+  ],
+  "edwards-dwight-09": [
+   "worksofpresident09edwa",
+   "Works, Dwight ed., vol. 9"
+  ],
+  "edwards-dwight-10": [
+   "workspresidente06braigoog",
+   "Works, Dwight ed., vol. 10 (Google scan; the IA-native scan's text layer returns an error)"
+  ],
+  "edwards-worcester-01": [
+   "worksofpresident01edwa",
+   "Works, Worcester ed. (1808-09), vol. 1"
+  ],
+  "edwards-worcester-02": [
+   "worksofpresident02edwa",
+   "Works, Worcester ed., vol. 2"
+  ],
+  "edwards-worcester-03": [
+   "worksofpresident03edwa",
+   "Works, Worcester ed., vol. 3"
+  ],
+  "edwards-worcester-04": [
+   "worksofpresident04edwa",
+   "Works, Worcester ed., vol. 4"
+  ],
+  "edwards-worcester-05": [
+   "worksofpresident05edwa",
+   "Works, Worcester ed., vol. 5"
+  ],
+  "edwards-worcester-06": [
+   "worksofpresident06edwa",
+   "Works, Worcester ed., vol. 6"
+  ],
+  "edwards-worcester-07": [
+   "worksofpresident07edwa",
+   "Works, Worcester ed., vol. 7"
+  ],
+  "edwards-worcester-08": [
+   "worksofpresident08edwa",
+   "Works, Worcester ed., vol. 8"
+  ],
+  "edwards-grosart-1865": [
+   "selectionsfromun00edwarich",
+   "Selections from the Unpublished Writings (ed. Grosart, 1865)"
+  ],
+  "edwards-charity-1852": [
+   "charityitsfruits00edwa",
+   "Charity and Its Fruits (1852, first published 1851)"
+  ],
+  "edwards-observations-1880": [
+   "observationsconc00edwa",
+   "Observations concerning the Scripture Oeconomy of the Trinity (ed. Smyth, 1880)"
+  ],
+  "edwards-trinity-essay-1903": [
+   "cu31924029373598",
+   "An Unpublished Essay on the Trinity (ed. Fisher, 1903)"
+  ],
+  "edwards-practical-sermons-1788": [
+   "practicalsermons00edwa",
+   "Practical Sermons, never before published (1788)"
+  ],
+  "edwards-twenty-sermons-1789": [
+   "twentysermonsonv00edwa",
+   "Twenty Sermons on Various Subjects (1789)"
+  ],
+  "edwards-sermons-1795": [
+   "sermonsonvarious00edwa",
+   "Sermons on Various Important Subjects (1795)"
+  ],
+  "edwards-sermons-1780": [
+   "sermonsonfollowi00edwa",
+   "Sermons on the following subjects (1780)"
+  ],
+  "edwards-two-dissertations-1765": [
+   "twodissertations00edwa",
+   "Two Dissertations: End of Creation; True Virtue (1765)"
+  ],
+  "edwards-original-sin-1758": [
+   "greatchristiando1758edwa",
+   "The Great Christian Doctrine of Original Sin Defended (1758)"
+  ],
+  "edwards-humble-inquiry-1749": [
+   "anhumbleinquiry00foxcgoog",
+   "An Humble Inquiry into the Rules of the Word of God (1749)"
+  ],
+  "edwards-some-thoughts-1742": [
+   "somethought00edwa",
+   "Some Thoughts concerning the Present Revival of Religion (1742)"
+  ],
+  "edwards-history-redemption-1774": [
+   "historyofworkofr00edwa_2",
+   "A History of the Work of Redemption (1774, first edition)"
+  ],
+  "edwards-muhhekaneew-1801": [
+   "Ayer_4A_2704",
+   "Observations on the Language of the Muhhekaneew Indians (1801)"
+  ]
+ }
+}

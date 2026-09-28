@@ -668,5 +668,35 @@
   "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
   "pass": "prose-paragraph",
   "refine": true
+ },
+ "aquinas-summa-1-2": {
+  "gutenberg_id": 17897,
+  "title": "Summa Theologica (Part I-II)",
+  "author": "Thomas Aquinas",
+  "kind": "treatise",
+  "adler_volume": 17,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "aquinas-summa-2-2": {
+  "gutenberg_id": 18755,
+  "title": "Summa Theologica (Part II-II)",
+  "author": "Thomas Aquinas",
+  "kind": "treatise",
+  "adler_volume": 17,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
+ },
+ "aquinas-summa-3": {
+  "gutenberg_id": 19950,
+  "title": "Summa Theologica (Part III)",
+  "author": "Thomas Aquinas",
+  "kind": "treatise",
+  "adler_volume": 17,
+  "chapre": "^(BOOK|CHAPTER|CHAP\\.|PART|CANTO|LETTER|SECTION|VOLUME|TALE|DISCOURSE|ACT|SCENE|ESSAY|MEDITATION|THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH))\\b",
+  "pass": "prose-paragraph",
+  "refine": false
  }
 }

@@ -139,6 +139,13 @@ CCEL = {
     "bunyan-holy_war":  ("bunyan", "holy_war", "The Holy War"),
     "edwards-affections": ("edwards", "affections", "Religious Affections"),
     "edwards-works1":   ("edwards", "works1", "Works of Jonathan Edwards, vol. 1 (1834 ed.)"),
+    # 2026-09-28: the rest of CCEL's Edwards (see also edwards_shelf.json for
+    # the Dwight / Worcester editions and early printings, raw OCR)
+    "edwards-works2":   ("edwards", "works2", "Works of Jonathan Edwards, vol. 2 (1834 ed.)"),
+    "edwards-sermons":  ("edwards", "sermons", "Select Sermons"),
+    "edwards-treatiseongrace": ("edwards", "treatiseongrace", "Treatise on Grace"),
+    "edwards-trinity":  ("edwards", "trinity", "An Unpublished Essay on the Trinity"),
+    "edwards-will":     ("edwards", "will", "Freedom of the Will"),
 }
 
 # Calvin's Commentaries (Calvin Translation Society, 45 vols.) — CCEL's
