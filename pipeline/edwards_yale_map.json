@@ -1,0 +1,37 @@
+{
+ "_about": "Work-level map: which volume of the Yale edition (The Works of Jonathan Edwards, 26 vols, Yale UP 1957-2008; cited 'WJE vol:page') holds each public-domain work. status=candidate: from the Yale volume titles, to be CONFIRMED against the Yale tables of contents once the Yale text is available. Page-level Yale addresses come later from alignment (EDWARDS-YALE-ADDRESSING.md).",
+ "wje_volumes": {
+  "1": "Freedom of the Will (Ramsey)", "2": "Religious Affections (Smith)", "3": "Original Sin (Holbrook)",
+  "4": "The Great Awakening (Goen)", "5": "Apocalyptic Writings (Stein)", "6": "Scientific and Philosophical Writings (Anderson)",
+  "7": "The Life of David Brainerd (Pettit)", "8": "Ethical Writings (Ramsey)", "9": "A History of the Work of Redemption (Wilson)",
+  "10": "Sermons and Discourses, 1720-1723 (Kimnach)", "11": "Typological Writings (Anderson and Lowance)", "12": "Ecclesiastical Writings (Hall)",
+  "13": "The Miscellanies, a-500 (Schafer)", "14": "Sermons and Discourses, 1723-1729 (Minkema)", "15": "Notes on Scripture (Stein)",
+  "16": "Letters and Personal Writings (Claghorn)", "17": "Sermons and Discourses, 1730-1733 (Valeri)", "18": "The Miscellanies, 501-832 (Chamberlain)",
+  "19": "Sermons and Discourses, 1734-1738 (Chamberlain)", "20": "The Miscellanies, 833-1152 (Pauw)", "21": "Writings on the Trinity, Grace, and Faith (Lee)",
+  "22": "Sermons and Discourses, 1739-1742 (Stout, Hatch and Farley)", "23": "The Miscellanies, 1153-1360 (Sweeney)", "24": "The Blank Bible (Stein)",
+  "25": "Sermons and Discourses, 1743-1758 (Kimnach)", "26": "Catalogues of Books (Thuesen)"
+ },
+ "works": [
+  {"work": "Freedom of the Will (Careful and Strict Enquiry)", "wje": "1", "status": "candidate"},
+  {"work": "Religious Affections", "wje": "2", "status": "candidate"},
+  {"work": "Original Sin", "wje": "3", "status": "candidate"},
+  {"work": "Faithful Narrative of the Surprising Work of God", "wje": "4", "status": "candidate"},
+  {"work": "Distinguishing Marks of a Work of the Spirit of God", "wje": "4", "status": "candidate"},
+  {"work": "Some Thoughts concerning the Present Revival", "wje": "4", "status": "candidate"},
+  {"work": "An Humble Attempt (concert of prayer)", "wje": "5", "status": "candidate"},
+  {"work": "Of Insects / Of Being / The Mind and other early philosophical pieces", "wje": "6", "status": "candidate"},
+  {"work": "The Life of David Brainerd", "wje": "7", "status": "candidate"},
+  {"work": "Charity and Its Fruits", "wje": "8", "status": "candidate"},
+  {"work": "Dissertation concerning the End for which God Created the World", "wje": "8", "status": "candidate"},
+  {"work": "Dissertation on the Nature of True Virtue", "wje": "8", "status": "candidate"},
+  {"work": "A History of the Work of Redemption", "wje": "9", "status": "candidate"},
+  {"work": "Images or Shadows / Types of the Messiah and other typology", "wje": "11", "status": "candidate"},
+  {"work": "An Humble Inquiry (Qualifications for Full Communion)", "wje": "12", "status": "candidate"},
+  {"work": "Misrepresentations Corrected", "wje": "12", "status": "candidate"},
+  {"work": "Miscellanies (Miscellaneous Observations / Remarks) -- by entry number", "wje": "13, 18, 20, 23", "status": "candidate: needs each entry's Yale number"},
+  {"work": "Notes on the Bible", "wje": "15, 24", "status": "candidate"},
+  {"work": "Personal Narrative, Resolutions, Diary, letters", "wje": "16", "status": "candidate"},
+  {"work": "Treatise on Grace; Essay on the Trinity; Observations on the Economy of the Trinity", "wje": "21 (the Economy of the Trinity may sit with the Miscellanies, 20)", "status": "candidate"},
+  {"work": "Sermons -- by date preached", "wje": "10, 14, 17, 19, 22, 25", "status": "candidate: needs each sermon's date or its Yale sermon index entry"}
+ ]
+}

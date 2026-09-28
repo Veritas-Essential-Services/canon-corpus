@@ -171,10 +171,9 @@
   "edwards-history-redemption-1774": [
    "historyofworkofr00edwa_2",
    "A History of the Work of Redemption (1774, first edition)"
-  ],
-  "edwards-muhhekaneew-1801": [
-   "Ayer_4A_2704",
-   "Observations on the Language of the Muhhekaneew Indians (1801)"
   ]
+ },
+ "_excluded": {
+  "edwards-muhhekaneew-1801": "Ayer_4A_2704 -- 'Observations on the Language of the Muhhekaneew Indians' (1788/1801) is by Jonathan Edwards the YOUNGER (1745-1801), the son. Removed 2026-09-28."
  }
 }
