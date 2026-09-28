@@ -8,7 +8,8 @@ WITHOUT touching the file they were filed in.
     python3 pipeline/remint_maxims.py --check    # the written records agree with the source and the registry
 
 WHAT IS WRONG TODAY
-    data/maxims/maxims-original.jsonl (filed 2026-09-05) keys its three records
+    wordhoard:data/maxims/maxims-original.jsonl (filed 2026-09-05 in this repo;
+    moved to the private house 2026-09-27) keys its three records
     `ak-maxim-0001` .. `ak-maxim-0003`: a kind in the id and a person's initials,
     which the house style forbids (ADR 0015; wh_uid.py docstring). The Hoard
     Record (wordhoard ADR 0018, docs/architecture/hoard-record.md s4) says old ids
@@ -18,10 +19,12 @@ WHAT IS WRONG TODAY
 WHAT THIS DOES -- ADDITIVE, NEVER DESTRUCTIVE
     - The source file is READ ONLY. Its ids, dates and statuses stay as filed
       (ADR 0014: "Dates on AK-001/2/3 stay as filed").
-    - Each record's uid comes from the registry (data/uids/wordhoard.uids.json),
+    - Each record's uid comes from the private registry
+      (wordhoard:data/uids/house.uids.json, sharing one id space with this
+      repo's data/uids/wordhoard.uids.json),
       keyed on the citation `maxims:<ref>` (`maxims:AK-001`): minted once,
       reused forever after, so a second --write mints nothing.
-    - The Hoard records go to a NEW file, data/maxims/maxims-original.hoard.jsonl,
+    - The Hoard records go to a NEW file, wordhoard:data/maxims/maxims-original.hoard.jsonl,
       one per line, written deterministically (same input, same bytes). It is
       what the Florilegium's Propria imports (Import, on the Propria page).
     - `legacy[]` carries the old id and the ref, so every pointer at
@@ -49,10 +52,15 @@ sys.path.insert(0, HERE)
 import wh_uid as U  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
-DEFAULT_SRC = os.path.join(ROOT, "data", "maxims", "maxims-original.jsonl")
-DEFAULT_MANIFEST = os.path.join(ROOT, "data", "maxims", "maxims-original.manifest.json")
-DEFAULT_OUT = os.path.join(ROOT, "data", "maxims", "maxims-original.hoard.jsonl")
-DEFAULT_UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
+# Adam's maxims are private (ruled 2026-09-27) and this repo is public, so the
+# source, its Hoard records and their citations live in the private Word Hoard
+# house repo, beside this one. Only the uids cross back, bare, as `reserved`.
+HOUSE = os.environ.get("WORDHOARD_HOUSE") or os.path.join(os.path.dirname(ROOT), "wordhoard")
+DEFAULT_SRC = os.path.join(HOUSE, "data", "maxims", "maxims-original.jsonl")
+DEFAULT_MANIFEST = os.path.join(HOUSE, "data", "maxims", "maxims-original.manifest.json")
+DEFAULT_OUT = os.path.join(HOUSE, "data", "maxims", "maxims-original.hoard.jsonl")
+DEFAULT_UIDS = os.path.join(HOUSE, "data", "uids", "house.uids.json")
+DEFAULT_SHARED = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
 
 OLD_ID_RE = re.compile(r"^ak-maxim-\d{4}$")
 SLUG = "maxims"
@@ -208,14 +216,17 @@ def main(argv=None):
     ap.add_argument("--src", default=DEFAULT_SRC)
     ap.add_argument("--manifest", default=DEFAULT_MANIFEST)
     ap.add_argument("--out", default=DEFAULT_OUT)
-    ap.add_argument("--uids", default=DEFAULT_UIDS)
+    ap.add_argument("--uids", default=DEFAULT_UIDS,
+                    help="the PRIVATE registry that holds maxims: citations")
+    ap.add_argument("--shared-space", default=DEFAULT_SHARED,
+                    help="the public registry; read before minting, reserved on save")
     a = ap.parse_args(argv)
 
     rows = read_source(a.src)
     check_source(rows)
     filed_on = filed_date(a.manifest)
     src_rel = "data/maxims/" + os.path.basename(a.src)
-    reg = U.WhUidRegistry(a.uids)
+    reg = U.WhUidRegistry(a.uids, shared_space=a.shared_space)
     records, plan = build(rows, reg, filed_on, src_rel)
     text = dump(records)
 

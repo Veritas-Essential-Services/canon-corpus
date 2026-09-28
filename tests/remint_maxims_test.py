@@ -37,6 +37,7 @@ if hasattr(sys.stdout, "reconfigure"):
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 SCRIPT = os.path.join(REPO, "pipeline", "remint_maxims.py")
+HOUSE = os.environ.get("WORDHOARD_HOUSE") or os.path.join(REPO, "..", "wordhoard")
 HOARD = os.environ.get("CANON_HOARD_JS") or os.path.join(REPO, "..", "wordhoard", "packages", "core", "hoard", "hoard.js")
 
 PASS, FAIL = 0, []
@@ -56,7 +57,8 @@ def run(tmp, *args):
                         "--src", os.path.join(tmp, "maxims", "maxims-original.jsonl"),
                         "--manifest", os.path.join(tmp, "maxims", "maxims-original.manifest.json"),
                         "--out", os.path.join(tmp, "maxims", "maxims-original.hoard.jsonl"),
-                        "--uids", os.path.join(tmp, "uids", "wordhoard.uids.json"), *args],
+                        "--uids", os.path.join(tmp, "uids", "house.uids.json"),
+                        "--shared-space", os.path.join(tmp, "uids", "wordhoard.uids.json"), *args],
                        capture_output=True, text=True, encoding="utf-8")
     return p.returncode, p.stdout + p.stderr
 
@@ -68,8 +70,9 @@ def read(p, mode="rb"):
 
 def fresh():
     tmp = tempfile.mkdtemp(prefix="remint-")
-    shutil.copytree(os.path.join(REPO, "data", "maxims"), os.path.join(tmp, "maxims"))
-    shutil.copytree(os.path.join(REPO, "data", "uids"), os.path.join(tmp, "uids"))
+    shutil.copytree(os.path.join(HOUSE, "data", "maxims"), os.path.join(tmp, "maxims"))
+    shutil.copytree(os.path.join(HOUSE, "data", "uids"), os.path.join(tmp, "uids"))
+    shutil.copy(os.path.join(REPO, "data", "uids", "wordhoard.uids.json"), os.path.join(tmp, "uids"))
     out = os.path.join(tmp, "maxims", "maxims-original.hoard.jsonl")
     if os.path.exists(out):
         os.remove(out)   # the test starts from before any real --write
@@ -78,11 +81,15 @@ def fresh():
 
 def main():
     UID_RE = re.compile(r"^wh-[0-9A-HJKMNP-TV-Z]{10}$")
-    src_rows = [json.loads(l) for l in read(os.path.join(REPO, "data", "maxims", "maxims-original.jsonl"), "r").splitlines() if l.strip()]
+    if not os.path.exists(os.path.join(HOUSE, "data", "maxims", "maxims-original.jsonl")):
+        print(f"SKIP: the maxims are private and live in the Word Hoard house repo.\n"
+              f"Clone wordhoard beside canon-corpus, or set WORDHOARD_HOUSE. Looked in: {HOUSE}")
+        return
+    src_rows = [json.loads(l) for l in read(os.path.join(HOUSE, "data", "maxims", "maxims-original.jsonl"), "r").splitlines() if l.strip()]
     tmp = fresh()
     try:
         P = lambda *x: os.path.join(tmp, *x)
-        src, uids, out = P("maxims", "maxims-original.jsonl"), P("uids", "wordhoard.uids.json"), P("maxims", "maxims-original.hoard.jsonl")
+        src, uids, out = P("maxims", "maxims-original.jsonl"), P("uids", "house.uids.json"), P("maxims", "maxims-original.hoard.jsonl")
         before_src, before_uids = read(src), read(uids)
         reg0 = json.loads(before_uids)["uids"]
 

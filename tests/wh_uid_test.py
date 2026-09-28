@@ -167,6 +167,64 @@ check("a reloaded registry never re-mints a tombstoned concept",
 check("save leaves no .tmp behind",
       not os.path.exists(os.path.join(tmp, "b.json.tmp")))
 
+# -- one id space, two files (ruled 2026-09-27) -------------------------------
+# Private citations (vault note paths, Adam's own maxims) live in a private
+# registry; the public one keeps their uids bare in `reserved`. Neither side
+# may ever mint a uid the other holds.
+pub_p = os.path.join(tmp, "public.json")
+prv_p = os.path.join(tmp, "private.json")
+pub = U.WhUidRegistry(pub_p)
+kjv_uid = pub.uid_for("kjv:Gen.1.1")
+pub.save()
+
+check("a private registry refuses a missing shared space",
+      raises(U.WhUidRegistry, prv_p, False, os.path.join(tmp, "nope.json")))
+
+prv = U.WhUidRegistry(prv_p, shared_space=pub_p)
+note_uid = prv.uid_for("notes:9 - Projects/Word Hoard/Some Note")
+check("a private registry sees every public concept before minting",
+      U.parse_uid(kjv_uid)["concept"] in prv._concepts)
+check("a private mint never reuses a public uid", note_uid != kjv_uid)
+prv.save()
+
+pub2 = U.WhUidRegistry(pub_p)
+check("saving the private registry reserves its uids in the public one",
+      note_uid in pub2.reserved)
+check("the private citation itself never reaches the public file",
+      "notes:9 - Projects/Word Hoard/Some Note" not in open(pub_p, encoding="utf-8").read())
+check("a reserved uid is a known concept on the public side",
+      U.parse_uid(note_uid)["concept"] in pub2._concepts)
+check("the public side never re-mints a reserved concept",
+      all(U.parse_uid(pub2.mint_free())["concept"] != U.parse_uid(note_uid)["concept"]
+          for _ in range(200)))
+
+pub2.save()
+check("reserved survives an ordinary public save",
+      note_uid in U.WhUidRegistry(pub_p).reserved)
+
+prv2 = U.WhUidRegistry(prv_p, shared_space=pub_p)
+check("the private registry reloads with its uid unchanged",
+      prv2.uid_for("notes:9 - Projects/Word Hoard/Some Note") == note_uid
+      and prv2.minted == 0)
+before = open(pub_p, encoding="utf-8").read()
+prv2.save()
+check("a save with nothing new leaves the public file byte-identical",
+      open(pub_p, encoding="utf-8").read() == before)
+
+# The public file refuses private citations, whoever calls save() -- an older
+# uid_backfill.py pointed straight at it would otherwise re-key note paths in.
+pubdir = tempfile.mkdtemp()
+leak = U.WhUidRegistry(os.path.join(pubdir, "wordhoard.uids.json"))
+leak.uid_for("notes:9 - Projects/Word Hoard/Private Note")
+check("the public registry refuses to save a notes: citation", raises(leak.save))
+check("a refused save writes nothing",
+      not os.path.exists(os.path.join(pubdir, "wordhoard.uids.json")))
+ok_reg = U.WhUidRegistry(os.path.join(pubdir, "wordhoard.uids.json"))
+ok_reg.uid_for("kjv:Gen.1.1")
+ok_reg.save()
+check("the public registry still saves public citations",
+      os.path.exists(os.path.join(pubdir, "wordhoard.uids.json")))
+
 print()
 print(f"{PASS} passed, {len(FAIL)} failed")
 if FAIL:

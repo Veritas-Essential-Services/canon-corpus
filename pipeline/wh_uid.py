@@ -223,17 +223,39 @@ class WhUidRegistry:
             "renames every identifier in the Word Hoard. Natural key is the "
             "citation string; kind is NOT part of it.")
     SCHEME = "wordhoard/uid/v1"
+    RESERVED_NOTE = ("reserved: uids minted for private records whose citations "
+                     "live outside this public repo (the Word Hoard house, "
+                     "data/uids/house.uids.json). Listed bare -- a uid says "
+                     "nothing -- so no mint here can ever reuse one. Never "
+                     "remove an entry.")
 
-    def __init__(self, path=None, frozen=False):
+    def __init__(self, path=None, frozen=False, shared_space=None):
+        """`shared_space`: path to the PUBLIC registry, for a private one.
+
+        ONE id space, two files (ruled 2026-09-27: private citations -- vault
+        note paths, Adam's own maxims -- may not sit in the public
+        canon-corpus). A private registry reads every uid the public one
+        knows before it mints, and on save() lists its own uids in the public
+        registry's `reserved`, so the public side can never mint one of them
+        either. The citations stay private; only opaque uids cross."""
         self.path = path
         self.frozen = frozen
+        self.shared_space = shared_space
         self.map = {}          # citation -> uid
         self.superseded = {}   # old uid -> new uid          (a rewording/replacement)
         self.split = {}        # parent uid -> [child uids]  (parent keeps largest child)
         self.merged = {}       # new uid -> [source uids]
+        self.reserved = set() # uids held by a private registry elsewhere
         self.minted = 0
         self.reused = 0
         self._concepts = set()
+        if shared_space:
+            if not os.path.exists(shared_space):
+                raise WhUidError(
+                    f"shared_space not found: {shared_space}. A private registry "
+                    f"that cannot see the public one could mint a uid it already "
+                    f"holds -- refusing rather than guessing.")
+            self._absorb_concepts(WhUidRegistry(shared_space))
         if path and os.path.exists(path):
             with open(path, encoding="utf-8") as f:
                 d = json.load(f)
@@ -241,7 +263,8 @@ class WhUidRegistry:
             self.superseded = d.get("superseded", {})
             self.split = d.get("split", {})
             self.merged = d.get("merged", {})
-            for u in self.map.values():
+            self.reserved = set(d.get("reserved", []))
+            for u in list(self.map.values()) + sorted(self.reserved):
                 try:
                     self._concepts.add(parse_uid(u)["concept"])
                 except WhUidError:
@@ -253,6 +276,21 @@ class WhUidRegistry:
                             self._concepts.add(parse_uid(u)["concept"])
                         except WhUidError:
                             pass
+
+    def _absorb_concepts(self, other):
+        """Every concept another registry holds, so no mint here reuses one."""
+        self._concepts |= other._concepts
+
+    def all_uids(self):
+        """Every uid this registry holds: mapped, tombstoned, split or merged."""
+        out = set(self.map.values())
+        for k, v in self.superseded.items():
+            out.update([k, v])
+        for group in (self.split, self.merged):
+            for k, vs in group.items():
+                out.add(k)
+                out.update(vs)
+        return out
 
     # -- minting ------------------------------------------------------------
 
@@ -356,16 +394,38 @@ class WhUidRegistry:
                 "reused": self.reused, "superseded": len(self.superseded),
                 "split": len(self.split), "merged": len(self.merged)}
 
+    # Citation slugs that are private by ruling (2026-09-27): vault note paths
+    # and Adam's own maxims. They belong in the house's private registry.
+    PRIVATE_SLUGS = ("notes", "maxims")
+    PUBLIC_NAME = "wordhoard.uids.json"
+
     def save(self):
         if not self.path:
             return
+        if os.path.basename(self.path) == self.PUBLIC_NAME:
+            leaked = sorted(c for c in self.map
+                            if c.split(":", 1)[0] in self.PRIVATE_SLUGS)
+            if leaked:
+                raise WhUidError(
+                    f"refusing to save {len(leaked)} private citation(s) into the "
+                    f"PUBLIC registry ({leaked[0]!r} ...). Use the house registry, "
+                    f"wordhoard/data/uids/house.uids.json, with shared_space= this file.")
         os.makedirs(os.path.dirname(self.path) or ".", exist_ok=True)
         payload = {"note": self.NOTE, "scheme": self.SCHEME, "uids": self.map}
         for k, v in (("superseded", self.superseded), ("split", self.split),
                      ("merged", self.merged)):
             if v:
                 payload[k] = v
+        if self.reserved:
+            payload["reserved"] = sorted(self.reserved)
+            payload["reserved_note"] = self.RESERVED_NOTE
         tmp = self.path + ".tmp"
         with open(tmp, "w", encoding="utf-8", newline="\n") as f:
             json.dump(payload, f, indent=1, sort_keys=True)
         os.replace(tmp, self.path)   # atomic; a killed run never truncates
+        if self.shared_space:
+            pub = WhUidRegistry(self.shared_space)
+            mine = self.all_uids()
+            if not mine <= pub.reserved:
+                pub.reserved |= mine
+                pub.save()

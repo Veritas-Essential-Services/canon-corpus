@@ -49,10 +49,14 @@ and `docs/review/2026-09-26-john1-drafts.md` (137 house glosses and 18 plain lin
     python3 pipeline/remint_maxims.py --write    # mint maxims:AK-00n in the registry; write the Hoard records
     python3 pipeline/remint_maxims.py --check    # the written records match the source and the registry
 
-`data/maxims/maxims-original.jsonl` stays as filed. `--write` adds
-`data/maxims/maxims-original.hoard.jsonl`: one `passage/maxim` Hoard record per
-maxim, `ak-maxim-000n` kept in `legacy[]`. That file is what the Florilegium's
-Propria imports.
+**The maxims are private, and this repo is public.** Since 2026-09-27 the
+source and its records live in the Word Hoard house repo, cloned beside this
+one (or set `WORDHOARD_HOUSE`): `wordhoard/data/maxims/maxims-original.jsonl`
+stays as filed, and `--write` adds `wordhoard/data/maxims/maxims-original.hoard.jsonl`,
+one `passage/maxim` Hoard record per maxim, `ak-maxim-000n` kept in `legacy[]`.
+That file is what the Florilegium's Propria imports. Their `maxims:` citations
+go in the house's private registry; only the bare uids come back here, as
+`reserved` (see `data/uids/`).
 
 ## Latin hymns (JSONL)
 
