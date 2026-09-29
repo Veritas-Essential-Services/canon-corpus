@@ -130,6 +130,14 @@ check("supplement: a relation to an entry left out points at the public Strong's
       {"kind": "lexical", "relation": "a Form of", "target": "strongs-greek:G3056"} in su["G6011"]["links"])
 check("supplement: links to the matching Perseus LSJ entry",
       {"kind": "lexical", "relation": "LSJ entry", "target": "lsj-perseus:λόγος"} in su["G6011"]["links"])
+sp = lexica.convert_step_supplement(TB, [FL], [LSJ], AS, preferences={"G3056": "step", "G0078": "perseus"})
+spu = {x["id"].split(":")[1]: x for x in sp["units"]}
+check("review: a `step` answer takes an entry Perseus already has, marked preferred-by-review",
+      spu.get("G3056", {}).get("lex", {}).get("why") == ["preferred-by-review"])
+check("review: a `perseus` answer never removes an entry the rules take", "G0078" in spu)
+check("betacode.accented_key keeps accents: ἁγνῶς and ἀγνώς differ, headword_key does not",
+      betacode.accented_key("ἁγνῶς") != betacode.accented_key("ἀγνώς")
+      and betacode.headword_key("ἁγνῶς") == betacode.headword_key("ἀγνώς"))
 check("supplement: rights name STEPBible, CC BY 4.0, subset, shareable",
       s["rights"]["license"] == "CC BY 4.0" and "STEPBible" in s["rights"]["attribution"]
       and s["rights"]["shareable"] and s["rights"]["subset_of"] == ["tbesg-greek", "lsj-greek"])

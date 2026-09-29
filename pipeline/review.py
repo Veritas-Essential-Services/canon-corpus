@@ -27,6 +27,12 @@ THE SHEETS (SHEETS below)
         rows: every gloss-override row, and one plain line per verse
         answers -> data/nt/gloss-overrides.jsonl, data/nt/prose-order.jsonl
                    (README-nt-jsonl.md s.12, s.14)
+    docs/review/2026-09-29-step-preference.md   STEP or Perseus: the lexicon
+        entries where STEPBible's may beat what the shareable lexicons hold
+        rows: data/lexicons/step-preference-candidates.jsonl (lexica.py --candidates)
+        answers step / perseus / ok (the suggestion) / draft→, `; note: …` optional
+        answers -> data/lexicons/step-preference-reviewed.jsonl; a `step` row joins
+        step-greek-supplement on the next lexicon build (CLAUDE.md, Lexicons)
 
     What the data cannot say (the sheets' prose, and the lemma sheet's
     Whitaker / Why / Recommend cells and the row `ok` writes) is kept in a
@@ -1003,7 +1009,123 @@ class CollationSheet:
                 f"({b} for Britt's reading)")
 
 
-SHEETS = (LemmaSheet, ThomasLemmaSheet, CutSheet, NTSheet, CollationSheet)
+class StepPreferenceSheet:
+    """The STEPBible entries that may beat what the shareable lexicons hold
+    (lexica.step_preference_candidates: Perseus copy damaged, the two texts
+    barely overlapping, or Perseus having the word only if accents are
+    ignored). Rows come from the committed data/lexicons/step-preference-
+    candidates.jsonl, so the sheet renders without the gitignored sources.
+    Answers go to data/lexicons/step-preference-reviewed.jsonl; a `step`
+    answer puts STEP's entry into step-greek-supplement on the next build."""
+    name = "2026-09-29-step-preference.md"
+    builds = ()   # structure_texts.py has no --check; the notes say how to rebuild
+    HEADER = ("| # | STEP key | Word | Why | Perseus has | STEP has | Overlap | Suggest | Adam: |\n"
+              "|---|---|---|---|---|---|---|---|---|\n")
+    ANSWER = re.compile(r"^(ok|okay|✓|✔|perseus|step)\.?\s*(?:;\s*`?note`?\s*[:=]\s*(.+))?$", re.I)
+
+    def __init__(self, root=ROOT):
+        self.root = root
+        self.path = os.path.join(root, "docs", "review", self.name)
+        self.notes_path = self.path[:-3] + ".notes.json"
+        self.src = os.path.join(root, "data", "lexicons", "step-preference-candidates.jsonl")
+        self.out = os.path.join(root, "data", "lexicons", "step-preference-reviewed.jsonl")
+
+    def load(self):
+        self.notes = json.loads(read_text(self.notes_path))
+        self.rows = [dict(r, n=n) for n, r in enumerate(jsonl(self.src), 1)]
+        self.by_id = {r["id"]: r for r in self.rows}
+        self.overrides = {r["id"]: r for r in jsonl(self.out)}
+
+    def label(self, r):
+        return f"row {r['n']} ({r['id']} {r['lemma']})"
+
+    @staticmethod
+    def cell(v):
+        return (v or "—").replace("|", "\\|").replace("\n", " ")
+
+    def adam_cell(self, r):
+        ov = self.overrides.get(r["id"])
+        if not ov:
+            return ""
+        return ov["prefer"] + (f"; note: {ov['note']}" if ov.get("note") else "")
+
+    def render(self):
+        k = {}
+        for r in self.rows:
+            for x in r["reasons"]:
+                k[x] = k.get(x, 0) + 1
+        counts = ", ".join(f"{n} {x}" for x, n in sorted(k.items(), key=lambda x: (-x[1], x[0])))
+        out = [self.notes["intro"].replace("{n}", str(len(self.rows))).replace("{counts}", counts),
+               self.HEADER]
+        for r in self.rows:
+            per = (f"`{r['perseus_id']}` " if r["perseus_id"] else "") + self.cell(r["perseus"])
+            cells = [str(r["n"]), f"`{r['id']}`", r["lemma"], ", ".join(r["reasons"]), per,
+                     self.cell(r["step"]), "—" if r["overlap"] is None else f"{r['overlap']:.2f}",
+                     r["suggest"] or "—"]
+            adam = self.adam_cell(r)
+            out.append("| " + " | ".join(cells) + " | " + (adam + " |" if adam else "|") + "\n")
+        out.append(self.notes["outro"])
+        return "".join(out)
+
+    def answers(self, text):
+        out = []
+        for line in text.split("\n"):
+            if not re.match(r"\|\s*\d+\s*\|", line):
+                continue
+            c = [x.replace("\\|", "|") for x in re.split(r"(?<!\\)\|", line.strip()[1:-1])]
+            c = [x.strip() for x in c]
+            m = re.fullmatch(r"`([^`]+)`", c[1])
+            if not m or m.group(1) not in self.by_id:
+                raise SystemExit(f"sheet row {c[0]}: {c[1]!r} is not a key of this sheet; "
+                                 "re-render it (review.py render)")
+            out.append((self.by_id[m.group(1)], " | ".join(c[8:]).strip() if len(c) > 8 else ""))
+        return out
+
+    def interpret(self, r, ans):
+        a = ans.strip()
+        m = DRAFT_ARROW.match(a)
+        if m:
+            if a[m.end():].strip():
+                raise Stop("this sheet has no draft value: write perseus or step, or `draft→` alone")
+            return "defer", None
+        m = self.ANSWER.match(a)
+        if not m:
+            raise Stop(f"{a!r}: write `perseus` (keep what we have) or `step` (take STEP's entry), "
+                       "optionally `; note: …`")
+        word = m.group(1).lower()
+        if word in ACCEPT or word == "okay":
+            if not r["suggest"]:
+                raise Stop("`ok` takes the suggestion, and this row has none: write perseus or step")
+            word = r["suggest"]
+        out = {"prefer": word}
+        if m.group(2):
+            out["note"] = clean(m.group(2))
+        return "write", out
+
+    def row_for(self, r, fields, today):
+        ov = self.overrides.get(r["id"])
+        new = {"id": r["id"], "lemma": r["lemma"], **fields}
+        old = {k: v for k, v in (ov or {}).items() if k != "reviewed_on"}
+        new["reviewed_on"] = ov["reviewed_on"] if ov and old == new else today
+        if "note" in new:
+            new["note"] = new.pop("note")
+        return new
+
+    plan = CollationSheet.plan
+
+    def write(self, changes):
+        rows = dict(self.overrides)
+        rows.update(changes)
+        order = {r["id"]: i for i, r in enumerate(self.rows)}
+        return {self.out: dump_jsonl(sorted(rows.values(), key=lambda x: order.get(x["id"], 1e9)))}
+
+    def status_extra(self):
+        s = sum(1 for r in self.overrides.values() if r["prefer"] == "step")
+        return (f"{len(self.overrides)} rows in {os.path.relpath(self.out, self.root)} "
+                f"({s} take STEP's entry)")
+
+
+SHEETS = (LemmaSheet, ThomasLemmaSheet, CutSheet, NTSheet, CollationSheet, StepPreferenceSheet)
 
 
 # =============================================================================

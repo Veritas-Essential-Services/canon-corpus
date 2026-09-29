@@ -29,12 +29,12 @@ The whole STEP books (tbesg-greek, lsj-greek) are unchanged and stay
 redistribute_whole: false. A CC BY-SA book cites its quotations by URN with
 `resolved: false` until the Perseus shelf exists to resolve them to unit ids:
 a labelled hole, as BDB's scripture citations are (CLAUDE.md, rule 4)."""
-import os, re, sys, unicodedata, xml.etree.ElementTree as ET
+import json, os, re, sys, unicodedata, xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from betacode import to_unicode, headword_key
+from betacode import to_unicode, headword_key, accented_key
 
 PERSEUS_RIGHTS = {"license": "CC BY-SA 4.0",
                   "attribution": "Perseus Digital Library, Tufts University",
@@ -247,22 +247,46 @@ def select_supplement(keys_lemmas, have):
     return out
 
 
-def convert_step_supplement(tbesg, tflsj_paths, lsj_paths, as_path, slug="step-greek-supplement"):
-    import structure_texts as st
+PREFERENCES = os.path.join(HERE, "..", "data", "lexicons", "step-preference-reviewed.jsonl")
+CANDIDATES = os.path.join(HERE, "..", "data", "lexicons", "step-preference-candidates.jsonl")
+
+
+def load_preferences(path=PREFERENCES):
+    """{STEP key: "step" | "perseus"} from Adam's answers to
+    docs/review/2026-09-29-step-preference.md (review.py apply)."""
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return {r["id"]: r["prefer"] for r in (json.loads(l) for l in f if l.strip())}
+
+
+def _step_inputs(tbesg, tflsj_paths, lsj_paths, as_path):
     brief = step_rows(tbesg)
     full = {}
     for p in tflsj_paths:
         full.update(step_rows(p))
     lsj = lsj_headwords(lsj_paths)
     asm = abbott_smith_entries(as_path)
+    have = set(lsj) | {headword_key(l) for l, _, _ in asm}
+    keys = {k: [r[0] for r in (full.get(k), brief.get(k)) if r]
+            for k in list(brief) + [k for k in full if k not in brief]}
+    return brief, full, lsj, asm, have, keys
+
+
+def convert_step_supplement(tbesg, tflsj_paths, lsj_paths, as_path, slug="step-greek-supplement",
+                            preferences=None):
+    import structure_texts as st
+    brief, full, lsj, asm, have, keys = _step_inputs(tbesg, tflsj_paths, lsj_paths, as_path)
     as_by_g = defaultdict(list)
     for lemma, g, _ in asm:
         if g:
             as_by_g[g].append(f"abbott-smith:{lemma.replace(' ', '_')}")
-    have = set(lsj) | {headword_key(l) for l, _, _ in asm}
-    keys = {k: [r[0] for r in (full.get(k), brief.get(k)) if r]
-            for k in list(brief) + [k for k in full if k not in brief]}
     chosen = select_supplement(keys, have)
+    # Adam's review: a `step` answer takes STEP's entry even though Perseus has the word
+    prefs = load_preferences() if preferences is None else preferences
+    for k, p in prefs.items():
+        if p == "step" and k in keys and k not in chosen:
+            chosen[k] = ["preferred-by-review"]
     units, counts = [], Counter()
     for k in keys:
         if k not in chosen:
@@ -317,3 +341,114 @@ def convert_step_supplement(tbesg, tflsj_paths, lsj_paths, as_path, slug="step-g
                                ", ".join(f"{n:,} {w}" for w, n in sorted(counts.items())) +
                                " (an entry can be in more than one)."},
             "units": units}
+
+
+# ---------------------------------------------------------------- which STEP entries may beat Perseus
+#
+# STEP's TFLSJ is the same dictionary as lsj-perseus, edited by Tyndale House
+# (abbreviations expanded, citations dated, scripture refs made linkable).
+# Measured 2026-09-29 over the 8,331 entries both hold: the median STEP entry
+# keeps 100% of the Perseus Greek, so content rarely differs. Three things
+# can make STEP's entry the better one, and each is a reason on the sheet:
+#
+#   perseus-damaged   the matched Perseus entry carries <*> (an unreadable
+#                     spot in the source); STEP's is clean
+#   low-overlap       under 60% of the Perseus entry's Greek words are in
+#                     STEP's: the two are probably not the same entry (a
+#                     wrong homograph, or STEP filing a form under its lemma)
+#   accent-lookalike  Perseus/Abbott-Smith have the word only if accents are
+#                     ignored (ἁγνῶς "purely" vs ἀγνώς "unknown"), so the
+#                     supplement counted it present and left STEP's out
+#
+# Keys the supplement already takes are not asked about. The sheet is
+# docs/review/2026-09-29-step-preference.md (review.py); a `step` answer
+# adds the key to the supplement as "preferred-by-review".
+
+GREEK_WORDS = re.compile(r"[Ͱ-Ͽἀ-῿][Ͱ-Ͽἀ-῿̀-ͯ]+")
+EXCERPT = 240
+
+
+def _greek_set(text):
+    return {headword_key(w) for w in GREEK_WORDS.findall(text)}
+
+
+def _excerpt(text):
+    t = _ws(text)
+    return t if len(t) <= EXCERPT else t[:EXCERPT].rsplit(" ", 1)[0] + " …"
+
+
+def step_preference_candidates(tbesg, tflsj_paths, lsj_paths, as_path, lsj_units=None):
+    import structure_texts as st
+    brief, full, lsj, asm, have, keys = _step_inputs(tbesg, tflsj_paths, lsj_paths, as_path)
+    chosen = select_supplement(keys, have)
+    units = lsj_units if lsj_units is not None else convert_lsj_perseus(lsj_paths)["units"]
+    by_key = defaultdict(list)
+    for u in units:
+        by_key[u["lex"]["headword_key"]].append(u)
+    exact = {accented_key(u["lex"]["lemma"]) for u in units} | {accented_key(l) for l, _, _ in asm}
+    out = []
+    for k in sorted(keys):
+        if k in chosen:
+            continue
+        lemmas = keys[k]
+        reasons, best, overlap = [], None, None
+        if not any(accented_key(x) in exact for x in lemmas):
+            reasons.append("accent-lookalike")
+        step_text = st._step_body((full.get(k) or brief[k])[4])
+        if k in full:
+            cands = [u for x in lemmas for u in by_key.get(headword_key(x), [])]
+            if cands:
+                sg = _greek_set(step_text)
+                best = max(cands, key=lambda u: (len(sg & _greek_set(u["text"])), u["id"]))
+                pg = _greek_set(best["text"])
+                overlap = round(len(sg & pg) / max(1, len(pg)), 2)
+                if overlap < 0.6:
+                    reasons.append("low-overlap")
+                if "<*>" in best["text"]:
+                    reasons.append("perseus-damaged")
+        if not reasons:
+            continue
+        if best is None:
+            cands = [u for x in lemmas for u in by_key.get(headword_key(x), [])]
+            best = min(cands, key=lambda u: u["id"]) if cands else None
+        out.append({"id": k, "lemma": lemmas[0], "reasons": sorted(reasons),
+                    "perseus_id": best["id"] if best else None,
+                    "perseus": _excerpt(best["text"]) if best else "",
+                    "step": _excerpt(step_text), "overlap": overlap,
+                    "suggest": "step" if reasons == ["perseus-damaged"] else None})
+    rank = {"perseus-damaged": 0, "low-overlap": 1, "accent-lookalike": 2}
+    out.sort(key=lambda r: (-len(r["reasons"]), min(rank[x] for x in r["reasons"]),
+                            r["overlap"] if r["overlap"] is not None else 1.0, r["id"]))
+    return out
+
+
+def main(argv=None):
+    """python3 pipeline/lexica.py --candidates [--check]
+    Writes (or checks) data/lexicons/step-preference-candidates.jsonl from the
+    fetched sources; review.py renders the sheet from that committed file."""
+    import glob
+    argv = sys.argv[1:] if argv is None else argv
+    if "--candidates" not in argv:
+        raise SystemExit(main.__doc__)
+    d = os.path.join(HERE, "..", "data", "corpus", "lexicons")
+    lsj = sorted(glob.glob(os.path.join(d, "perseus-lsj", "*.xml")))
+    step = [os.path.join(d, f) for f in ("tbesg-greek.txt", "tflsj-greek-0-5624.txt", "tflsj-greek-extra.txt")]
+    asp = os.path.join(d, "abbott-smith.tei.xml")
+    if len(lsj) != 27 or not all(os.path.exists(p) for p in step + [asp]):
+        raise SystemExit("the lexicon sources are not fetched (python3 pipeline/fetch_sources.py)")
+    rows = step_preference_candidates(step[0], step[1:], lsj, asp)
+    text = "".join(json.dumps(r, ensure_ascii=False, sort_keys=True) + "\n" for r in rows)
+    if "--check" in argv:
+        same = os.path.exists(CANDIDATES) and open(CANDIDATES, encoding="utf-8", newline="").read() == text
+        print("CHECK PASSED: candidates byte-identical." if same else "CHECK FAILED: the candidates differ.")
+        raise SystemExit(0 if same else 1)
+    os.makedirs(os.path.dirname(CANDIDATES), exist_ok=True)
+    with open(CANDIDATES + ".tmp", "w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
+    os.replace(CANDIDATES + ".tmp", CANDIDATES)
+    c = Counter(x for r in rows for x in r["reasons"])
+    print(f"{len(rows)} candidates -> {CANDIDATES}: " + ", ".join(f"{n} {k}" for k, n in sorted(c.items())))
+
+
+if __name__ == "__main__":
+    main()

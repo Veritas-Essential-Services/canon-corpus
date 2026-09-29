@@ -9,7 +9,7 @@ happens in a copy (pipeline/, tests/, docs/review/, data/ without the big
 gitignored files; the NT's pinned inputs when data/corpus/ holds them).
 
 WHAT IT ASSERTS
-    1. `render --check`: all five sheets are byte-identical to what the data renders.
+    1. `render --check`: all six sheets are byte-identical to what the data renders.
     2. The lemma sheet: a few answers filled in (ok, ✓, keep, explicit fields,
        a bare Whitaker key with its double space lost, `as row N`, draft→),
        then `apply`:
@@ -180,8 +180,8 @@ try:
 
     print("--- render")
     rc, out = review(tmp, "render", "--check")
-    check("render --check: all five sheets are byte-identical to what the data renders",
-          rc == 0 and out.count("byte-identical") == 5, out)
+    check("render --check: all six sheets are byte-identical to what the data renders",
+          rc == 0 and out.count("byte-identical") == 6, out)
     rc, out = review(tmp, "status")
     check("status: every row open before any answer",
           "24 rows, 0 answered" in out and "24 open" in out and "155 rows, 0 answered" in out
@@ -536,6 +536,36 @@ try:
             check(f"{list(ans.values())[0]!r} stops the run, naming {where}, writing nothing",
                   rc == 2 and where in out and why in out and snapshot(NTD) == nt1, out)
             shutil.move(JOHN + ".bak", JOHN)
+
+    print("\n--- the STEP-or-Perseus lexicon sheet")
+    STEPS = os.path.join(REV, "2026-09-29-step-preference.md")
+    STPF = os.path.join(tmp, "data", "lexicons", "step-preference-reviewed.jsonl")
+    cands = jsonl(os.path.join(tmp, "data", "lexicons", "step-preference-candidates.jsonl"))
+    no_sug = next(i for i, r in enumerate(cands, 1) if not r["suggest"])
+    sug = next(i for i, r in enumerate(cands, 1) if r["suggest"] == "step")
+    shutil.copy(STEPS, STEPS + ".bak")
+    fill_lemma(STEPS, {no_sug: "ok"})
+    rc, out = review(tmp, "apply", STEPS, "--today", "2026-09-30")
+    check("step sheet: `ok` on a row with no suggestion stops, naming it, writing nothing",
+          rc == 2 and f"row {no_sug}" in out and not os.path.exists(STPF), out)
+    shutil.move(STEPS + ".bak", STEPS)
+    third = next(i for i in range(1, len(cands) + 1) if i not in (sug, no_sug))
+    fill_lemma(STEPS, {sug: "ok", no_sug: "perseus; note: Perseus is fuller", third: "draft\u2192"})
+    rc, out = review(tmp, "apply", STEPS, "--today", "2026-09-30")
+    rows = jsonl(STPF)
+    check("step sheet: apply writes exactly the two answered rows, in sheet order",
+          rc == 0 and [(r["id"], r["prefer"]) for r in rows]
+          == sorted([(cands[sug - 1]["id"], "step"), (cands[no_sug - 1]["id"], "perseus")],
+                    key=lambda x: [c["id"] for c in cands].index(x[0])), (out, rows))
+    check("step sheet: the note and the date are kept",
+          any(r.get("note") == "Perseus is fuller" and r["reviewed_on"] == "2026-09-30" for r in rows), rows)
+    before = raw(STPF)
+    rc, out = review(tmp, "apply", STEPS, "--today", "2026-10-01")
+    check("step sheet: applying twice changes nothing, reviewed_on included", rc == 0 and raw(STPF) == before, out)
+    review(tmp, "render", STEPS)
+    rc, out = review(tmp, "render", "--check", STEPS)
+    check("step sheet: re-rendered, the sheet shows the answers as the data holds them",
+          rc == 0 and b"| step |" in raw(STEPS) and "| perseus; note: Perseus is fuller |".encode() in raw(STEPS), out)
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 

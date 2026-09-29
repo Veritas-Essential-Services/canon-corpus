@@ -103,6 +103,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/perseus_survey.py [--check]       # every Perseus edition measured by its own citation scheme; shelves NOTHING
     python3 tests/cts_test.py                          # the CapiTainS reader (pipeline/cts.py)
     python3 tests/lexica_test.py                       # Beta Code, the shareable lexicons, the STEP supplement's rules
+    python3 pipeline/lexica.py --candidates [--check]   # the STEP-or-Perseus review candidates (needs the lexicon sources)
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
@@ -281,6 +282,15 @@ text is used and `lex.step_edition` says so; a relation whose target is left
 out points at the public `strongs-greek` entry; each entry links its LSJ and
 Abbott-Smith matches. The whole STEP books (`tbesg-greek`, `lsj-greek`) are
 unchanged and stay `redistribute_whole: false`.
+
+**Which STEP entries beat ours (2026-09-29).** STEP's TFLSJ is the same LSJ as
+`lsj-perseus`, edited: over the 8,331 entries both hold, the median keeps 100% of the
+Perseus Greek. `lexica.py --candidates [--check]` finds the 296 where STEP's may be better
+(Perseus copy damaged `<*>`, the two texts under 60% overlap, or Perseus has the word only
+accent-blind: `betacode.accented_key` tells ἁγνῶς from ἀγνώς, `headword_key` cannot) into
+the COMMITTED `data/lexicons/step-preference-candidates.jsonl`; Adam answers
+`docs/review/2026-09-29-step-preference.md`; a `step` answer joins the supplement as
+`preferred-by-review`, a `perseus` answer never removes what the rules take.
 
 ⚠️ **Armarium does not read `rights` yet.** Its per-book download serves any
 book whole, the two STEP books included. The fix belongs in armarium

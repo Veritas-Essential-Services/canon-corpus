@@ -51,6 +51,15 @@ def to_unicode(beta):
     return re.sub(r"σ(?=$|[^\ẁ-ͯ])", "ς", s)
 
 
+def accented_key(word):
+    """Like headword_key but KEEPING breathings and accents (only macron and
+    breve, which are quantity marks, go): ἁγνῶς and ἀγνώς are different words,
+    and headword_key cannot tell them apart."""
+    s = unicodedata.normalize("NFD", word.lower().replace("ς", "σ").replace("ϲ", "σ"))
+    s = "".join(ch for ch in s if ch not in "̄̆")
+    return unicodedata.normalize("NFC", re.sub(r"[^\ẁ-ͯ]|[\d_]", "", s))
+
+
 def headword_key(word):
     """A matching key: no diacritics, no digits or quantity marks, lower case,
     every sigma the same. Two lexicons agree on a word when their keys agree."""
