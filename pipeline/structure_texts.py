@@ -119,11 +119,20 @@ def thml_author(raw, fallback):
                 return name
     return fallback
 
+# Per-book corrections to a CCEL head, kept here so they rerun on refetch
+# (rule 2: never hand-edit a source). rightworld's short-form creator is
+# misspelt "G. K. Chesteron" on CCEL.
+THML_AUTHOR_FIX = {"chesterton-rightworld": "G. K. Chesterton"}
+# Books whose verse CCEL set in <pre> rather than <p> (read stanza by stanza).
+# Opt-in per slug so no existing book's unit ids can move.
+THML_PRE_VERSE = {"chesterton-whitehorse"}
+RE_PRE = re.compile(r"<pre\b[^>]*>(.*?)</pre>", re.S | re.I)
+
 def convert_thml(path, slug):
     raw = open(path, encoding="utf-8", errors="replace").read()
     mt = RE_TITLE.search(raw)
     title = (mt.group(1) or mt.group(2)).strip() if mt else slug
-    author = thml_author(raw, slug.split("-")[0].title())
+    author = THML_AUTHOR_FIX.get(slug) or thml_author(raw, slug.split("-")[0].title())
     units = []
     divs = list(RE_DIV2.finditer(raw))
     if len(divs) < 2:  # no usable divisions — treat whole body as one
@@ -148,6 +157,19 @@ def convert_thml(path, slug):
             units.append({"id": f"{slug}:{did}-p{j}",
                           "ref": f"{dtitle}, par. {j}",
                           "text": ptext, "links": links})
+        if slug in THML_PRE_VERSE:
+            # verse set in <pre>: one unit per stanza, lineation kept
+            k = 0
+            for pre in RE_PRE.finditer(seg):
+                body = html.unescape(re.sub(r"<[^>]+>", "", pre.group(1)))
+                for st in re.split(r"\n\s*\n", body):
+                    lines = [l.strip() for l in st.strip("\n").splitlines() if l.strip()]
+                    if not lines:
+                        continue
+                    k += 1
+                    units.append({"id": f"{slug}:{did}-s{k}",
+                                  "ref": f"{dtitle}, st. {k}",
+                                  "text": "\n".join(lines), "links": []})
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "thml",
                        "sha256": sha256(path)},
@@ -921,7 +943,7 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
         if not p:
             continue
         if CH and CH.match(p) and len(p) < 90:
-            chap = p.rstrip(".")
+            chap = re.sub(r"(\s*~)+$", "", p).rstrip(".")   # "Lamp-Posts ~ ~ ~" leaders
             pnum = 0
             continue
         pnum += 1
@@ -934,6 +956,48 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
             "scheme": {"apparatus": apparatus_note, "citation": "chapter + paragraph", "resolution": "paragraph",
                        "honesty": "chapter headings detected; paragraph running within chapter"},
             "units": units}
+
+RE_CONTENTS_HEAD = re.compile(r"^\s*(TABLE OF )?CONTENTS\.?\s*$", re.I | re.M)
+RE_CONTENTS_NUM = re.compile(r"^(?:CHAPTER|CHAP\.)?\s*(?:[IVXLC]+|\d+)?\s*[.:)]?\s*", re.I)
+RE_CONTENTS_TAIL = re.compile(r"[\s.~_*·…]*(?:\d+|[ivxlc]+)?\s*$")
+# The one-line fallback: a short paragraph with no lower-case letters and at
+# least three capitals in a row (ESSAY TITLES, CHAPTER I, THE BLUE CROSS).
+CAPS_HEADING = r"(?=[^a-z]*[A-Z]{3})[^a-z]{3,88}"
+
+def _contents_key(line):
+    t = RE_CONTENTS_NUM.sub("", line.strip(), count=1)
+    t = RE_CONTENTS_TAIL.sub("", t).strip(" .:-—")
+    return t
+
+def contents_chapre(path):
+    """Heading regex for a Gutenberg prose book, read from the book's OWN
+    Contents: an essay collection prints its titles in title case in the body
+    ("The Meaning of Mock Turkey") and in capitals in the Contents, so no
+    single house regex finds them all. Every Contents entry becomes an
+    alternative (case-insensitive, any numbering, any trailing page number or
+    leader), unioned with CAPS_HEADING. No Contents -> CAPS_HEADING alone."""
+    raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
+    m = RE_CONTENTS_HEAD.search(raw)
+    keys = []
+    if m:
+        blank_run = 0
+        for line in raw[m.end():].splitlines()[:400]:
+            if not line.strip():
+                blank_run += 1
+                if blank_run >= 4 and keys:
+                    break
+                continue
+            blank_run = 0
+            if len(line.strip()) > 80 and keys and not re.search(r"\d\s*$", line):
+                break     # ran off the end of the Contents into running prose
+            k = _contents_key(line)
+            if k.upper() in ("PAGE", "CHAPTER", "CONTENTS") or not re.search(r"[A-Za-z]{3}", k):
+                continue
+            if 3 <= len(k) <= 80:
+                keys.append(k)
+    alts = sorted({re.escape(k).replace(r"\ ", r"\s+") for k in keys}, key=len, reverse=True)
+    body = f"(?:CHAPTER\\s+|CHAP\\.\\s+)?(?:[IVXLC]+|\\d+)?\\s*[.:)]?\\s*(?:{'|'.join(alts)})[\\s.~_*]*$"
+    return f"(?i:{body})|(?-i:{CAPS_HEADING}$)" if alts else f"{CAPS_HEADING}$"
 
 RE_SH_ACT = re.compile(r"^ACT\s+([IVXL]+)", re.I)
 RE_SH_SCENE = re.compile(r"^SCENE\s+([IVXL0-9]+)", re.I)
@@ -1457,6 +1521,14 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author, c=chapre:
                          convert_gutenberg_prose(p, s, t, a, c)))
+    # Author shelves declared in fetch_sources.py (Chesterton, 2026-09-29):
+    # headings come from each book's own Contents, not a hand-written regex.
+    import fetch_sources as _fs
+    for slug, (_gid, title, author) in getattr(_fs, "CHESTERTON_GUTENBERG", {}).items():
+        path = os.path.join(CORPUS, slug + ".txt")
+        if os.path.exists(path):
+            jobs.append((slug, lambda p=path, s=slug, t=title, a=author:
+                         convert_gutenberg_prose(p, s, t, a, contents_chapre(p))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))

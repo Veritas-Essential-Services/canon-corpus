@@ -210,6 +210,114 @@ for _i in range(1, 46):
     CCEL[_slug] = ("calvin", f"calcom{_i:02d}",
                    f"Commentary on {CALVIN_COMMENTARIES[_slug]} (Calvin Translation Society ed.)")
 
+# G. K. Chesterton (1874-1936) — the public-domain library, 2026-09-29.
+#
+# RIGHTS RULE: US public domain = published 1930 or earlier (as of 2026). He
+# died 1936, so the UK/life+70 rule clears everything, but the hosted chest is
+# in the US and the US rule is the binding one. Every Gutenberg header below
+# was grepped for "COPYRIGHTED Project Gutenberg" (none); every CCEL head reads
+# DC.Rights "Public Domain" except queertrades/treesofpride (blank; 1905 and
+# 1922, PD by date). No translators: all original English.
+#
+# SOURCE RULE: CCEL ThML first (stable section ids, scripRef harvest), then
+# Gutenberg for what CCEL lacks. Where both hold a work, CCEL only.
+#
+# DELIBERATELY EXCLUDED (the completeness note):
+#   ccel aquinas       — St. Thomas Aquinas (1933): US copyright until 2029.
+#                        CCEL marks it PD (Canadian rule); we are US-hosted.
+#   ccel preexistence  — "The Pre-Existence of Christ in Scripture,
+#                        Patristics, and Creed": catalogued under Chesterton
+#                        on CCEL but not a Chesterton work; rights unknown.
+#   PG 130 / 16769     — Orthodoxy: taken from CCEL instead.
+#   PG books where GKC is only illustrator (Belloc's novels), introducer
+#   (Aesop, Gorky, Job, Cecil's History of the U.S., etc.) or contributor
+#   (Joy Street annuals, Biography for Beginners); non-English PG
+#   translations (Finnish, Portuguese); PG audio.
+#   US-PD but on neither CCEL nor Gutenberg (would need archive.org scans ->
+#   Unscanner, DEFERRED): The Incredulity of Father Brown (1926), The
+#   Outline of Sanity (1926), The Return of Don Quixote (1927), Robert Louis
+#   Stevenson (1927), Generally Speaking (1928), The Thing (1929), The Poet
+#   and the Lunatics (1929), Four Faultless Felons (1930), The Resurrection
+#   of Rome (1930), Come to Think of It (1930), and the uncollected
+#   periodical essays.
+#   Not yet PD in the US (1931+): Autobiography, The Well and the Shallows,
+#   Chaucer, The Scandal of Father Brown, Aquinas, and the rest of the
+#   1931-36 books.
+CHESTERTON_CCEL = {   # slug -> (ccel work, title)
+    "chesterton-america":      ("america", "What I Saw in America (1922)"),
+    "chesterton-ball_cross":   ("ball_cross", "The Ball and the Cross (1909)"),
+    "chesterton-defendant":    ("defendant", "The Defendant (1901)"),
+    "chesterton-divorce":      ("divorce", "The Superstition of Divorce (1920)"),
+    "chesterton-eugenics":     ("eugenics", "Eugenics and Other Evils (1922)"),
+    "chesterton-everlasting":  ("everlasting", "The Everlasting Man (1925)"),
+    "chesterton-heretics":     ("heretics", "Heretics (1905)"),
+    "chesterton-historyengland": ("historyengland", "A Short History of England (1917)"),
+    "chesterton-innocencebrown": ("innocencebrown", "The Innocence of Father Brown (1911)"),
+    "chesterton-longbow":      ("longbow", "Tales of the Long Bow (1925)"),
+    "chesterton-magic":        ("magic", "Magic: A Fantastic Comedy (1913)"),
+    "chesterton-manalive":     ("manalive", "Manalive (1912)"),
+    "chesterton-napoleon":     ("napoleon", "The Napoleon of Notting Hill (1904)"),
+    "chesterton-orthodoxy":    ("orthodoxy", "Orthodoxy (1908)"),
+    "chesterton-queertrades":  ("queertrades", "The Club of Queer Trades (1905)"),
+    "chesterton-rightworld":   ("rightworld", "What Is Right with the World (1910 essay)"),
+    "chesterton-thingsconsidered": ("thingsconsidered", "All Things Considered (1908)"),
+    "chesterton-thursday":     ("thursday", "The Man Who Was Thursday (1908)"),
+    "chesterton-toomuch":      ("toomuch", "The Man Who Knew Too Much (1922)"),
+    "chesterton-treesofpride": ("treesofpride", "The Trees of Pride (1922)"),
+    "chesterton-trifles":      ("trifles", "Tremendous Trifles (1909)"),
+    "chesterton-victorianage": ("victorianage", "The Victorian Age in Literature (1913)"),
+    "chesterton-whatwrong":    ("whatwrong", "What's Wrong with the World (1910)"),
+    "chesterton-whitehorse":   ("whitehorse", "The Ballad of the White Horse (1911)"),
+    "chesterton-wisdom":       ("wisdom", "The Wisdom of Father Brown (1914)"),
+}
+for _slug, (_work, _title) in CHESTERTON_CCEL.items():
+    CCEL[_slug] = ("chesterton", _work, _title)
+
+# slug -> (Gutenberg id, title, author as the book names it). Structured by
+# structure_texts.py's prose converter with headings read from each book's
+# own CONTENTS (contents_chapre). Verse collections and the one play (Magic,
+# on CCEL) are paragraph/stanza-level first passes.
+CHESTERTON_GUTENBERG = {
+    "chesterton-calendar":     (45811, "A Chesterton Calendar (1911)", "G. K. Chesterton"),
+    "chesterton-miscellany":   (2015, "A Miscellany of Men (1912)", "G. K. Chesterton"),
+    "chesterton-alarms":       (9656, "Alarms and Discursions (1910)", "G. K. Chesterton"),
+    "chesterton-dickens-appreciations": (22362, "Appreciations and Criticisms of the Works of Charles Dickens (1911)", "G. K. Chesterton"),
+    "chesterton-dickens-bookman": (61760, "Charles Dickens (Bookman Booklets)", "G. K. Chesterton & F. G. Kitton"),
+    "chesterton-dickens":      (68682, "Charles Dickens: A Critical Study (1906)", "G. K. Chesterton"),
+    "chesterton-divorce-democracy": (62467, "Divorce versus Democracy (1916)", "G. K. Chesterton"),
+    "chesterton-fancies":      (60164, "Fancies versus Fads (1923)", "G. K. Chesterton"),
+    "chesterton-watts":        (64074, "G. F. Watts (1904)", "G. K. Chesterton"),
+    "chesterton-shaw":         (19535, "George Bernard Shaw (1909)", "G. K. Chesterton"),
+    "chesterton-greybeards":   (14706, "Greybeards at Play (1900)", "G. K. Chesterton"),
+    "chesterton-irish":        (61758, "Irish Impressions (1919)", "G. K. Chesterton"),
+    "chesterton-tolstoy":      (62045, "Leo Tolstoy (Bookman Booklets)", "G. K. Chesterton, G. H. Perris & Edward Garnett"),
+    "chesterton-london":       (62048, "London (1914)", "G. K. Chesterton (photographs by A. L. Coburn)"),
+    "chesterton-kitchener":    (25795, "Lord Kitchener (1917)", "G. K. Chesterton"),
+    "chesterton-poems":        (31184, "Poems (1915)", "G. K. Chesterton"),
+    "chesterton-browning":     (13342, "Robert Browning (1903)", "G. K. Chesterton"),
+    "chesterton-francis":      (63084, "St. Francis of Assisi (1923)", "G. K. Chesterton"),
+    "chesterton-tennyson":     (61764, "Tennyson (Bookman Booklets)", "G. K. Chesterton & Richard Garnett"),
+    "chesterton-thackeray":    (62086, "Thackeray (Bookman Booklets)", "G. K. Chesterton & Lewis Melville"),
+    "chesterton-appetite":     (11605, "The Appetite of Tyranny (1915)", "G. K. Chesterton"),
+    "chesterton-barbara":      (32167, "The Ballad of St. Barbara, and Other Verses (1922)", "G. K. Chesterton"),
+    "chesterton-berlin":       (11560, "The Barbarism of Berlin (1914)", "G. K. Chesterton"),
+    "chesterton-conversion":   (76305, "The Catholic Church and Conversion (1926)", "G. K. Chesterton"),
+    "chesterton-crimes":       (11554, "The Crimes of England (1915)", "G. K. Chesterton"),
+    "chesterton-flyinginn":    (59239, "The Flying Inn (1914)", "G. K. Chesterton"),
+    "chesterton-jerusalem":    (13468, "The New Jerusalem (1920)", "G. K. Chesterton"),
+    "chesterton-diversity":    (60057, "The Uses of Diversity (1920)", "G. K. Chesterton"),
+    "chesterton-wildknight":   (12037, "The Wild Knight and Other Poems (1900)", "G. K. Chesterton"),
+    "chesterton-secretbrown":  (70175, "The Secret of Father Brown (1927)", "G. K. Chesterton"),
+    "chesterton-carlyle":      (71159, "Thomas Carlyle (Bookman Booklets)", "G. K. Chesterton & J. E. Hodder-Williams"),
+    "chesterton-twelvetypes":  (12491, "Twelve Types (1902)", "G. K. Chesterton"),
+    "chesterton-usurers":      (2134, "Utopia of Usurers and Other Essays (1917)", "G. K. Chesterton"),
+    "chesterton-variedtypes":  (14203, "Varied Types (1903)", "G. K. Chesterton"),
+    "chesterton-blake":        (67639, "William Blake (1910)", "G. K. Chesterton"),
+    "chesterton-winewater":    (35115, "Wine, Water, and Song (1915)", "G. K. Chesterton"),
+}
+for _slug, (_gid, _t, _a) in CHESTERTON_GUTENBERG.items():
+    GUTENBERG_EXTRA[_slug] = _gid
+
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
 
 def fetch(url, dest):
@@ -257,6 +365,8 @@ def main():
             print(f"ccel/{slug}: {note}")
         for slug, (url, fn, note) in LEXICONS.items():
             print(f"lexicon/{slug}: {note}")
+        for slug, gid in GUTENBERG_EXTRA.items():
+            print(f"gutenberg/{slug}: pg{gid}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():

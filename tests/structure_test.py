@@ -411,5 +411,30 @@ check("shakespeare: the book's front Contents is the manifest",
 check("shakespeare: a play's own act/scene table is not the manifest",
       st.sh_manifest(["Contents", "", "ACT I", "Scene I.", "ACT V", "Scene V.", ""]) == [])
 
+# Author shelves (Chesterton, 2026-09-29). An essay collection prints its
+# titles in CAPITALS in the Contents and in title case in the body, so the
+# headings are read from the book's own Contents. Fixture is invented text.
+import tempfile as _tf
+_ESS = ("CONTENTS\n\n  I. ON LAMPS                 7\n  II. THE MOCK GOOSE ~ ~ ~   12\n\n\n\n\n"
+        "On Lamps ~ ~ ~ ~\n\nFirst paragraph about lamps.\n\nSecond about lamps.\n\n"
+        "The Mock Goose\n\nA paragraph about geese.\n")
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_ESS)
+_saved_corpus = st.CORPUS
+st.CORPUS = os.path.dirname(_fh.name)
+_rx = st.contents_chapre(_fh.name)
+_eb = st.convert_gutenberg_prose(_fh.name, "t", "T", "A", _rx)
+st.CORPUS = _saved_corpus
+os.unlink(_fh.name)
+_refs = [u["ref"] for u in _eb["units"]]
+check("shelf: a title-case body heading is found from the CAPS Contents",
+      _refs == ["On Lamps, par. 1", "On Lamps, par. 2", "The Mock Goose, par. 1"])
+check("shelf: numbering and page numbers are not part of a Contents key",
+      st._contents_key("  II. THE MOCK GOOSE ~ ~ ~   12") == "THE MOCK GOOSE")
+check("shelf: a book with no Contents falls back to the CAPS rule",
+      st.contents_chapre.__doc__ and st.CAPS_HEADING in _rx)
+check("thml: <pre> verse is read only where a book opts in",
+      "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

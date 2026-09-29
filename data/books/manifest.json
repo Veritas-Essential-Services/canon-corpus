@@ -882,5 +882,773 @@
    "redistribute_whole": false,
    "note": "Licence permits redistribution; the maintainers request you point people at github.com/STEPBible rather than mirror it. Quote and cite freely WITH attribution; do not serve or ship the whole lexicon."
   }
+ },
+ "chesterton-america": {
+  "title": "What I Saw in America",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "6007eacf7cc52b46e5adc0eb47984360e992d15e515a5bb894192153ae0d2b21",
+  "units": 300,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-ball_cross": {
+  "title": "The Ball and the Cross",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "b9cece1ef0756f9f846d220f1b97a4c3274579d87f31da52cba0e7cd63e48a31",
+  "units": 1440,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-defendant": {
+  "title": "The Defendant",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "982790b6e6d07338c51cb114fa5a92a1dd85b2efb198e0fcf46243cb536f9750",
+  "units": 136,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-divorce": {
+  "title": "The Superstition of Divorce",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "199ac58121ef9ffecf9667be14dcbf8231b2a195c932090f294a2ee1eef2d841",
+  "units": 70,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-eugenics": {
+  "title": "Eugenics and Other Evils",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "b006ab8389a54d45f52198b1887d2694871c9c9ddafe467cc24fb8c50387fe7f",
+  "units": 175,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-everlasting": {
+  "title": "The Everlasting Man",
+  "author": "Gilbert Keith Chesterton",
+  "format": "thml",
+  "sha256": "9b0bdba94c79ea94256263108719191702e530890e66eddfb4572c618e6ef440",
+  "units": 306,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-heretics": {
+  "title": "Heretics",
+  "author": "Gilbert K. Chesterton",
+  "format": "thml",
+  "sha256": "4ded32f2de5ebc70f42e86d5665e980e9fc9193c647bc090f459cd43de64005c",
+  "units": 231,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-historyengland": {
+  "title": "A Short History of England",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "159cf19da18bf6381b70de2897b3e75292013999f8c42b02b9d32969713fb77c",
+  "units": 185,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-innocencebrown": {
+  "title": "The Innocence of Father Brown",
+  "author": "Gilbert K. Chesterton",
+  "format": "thml",
+  "sha256": "91f010b5bd2ce76367d9f2fd345875594bb34b0ed4ec2706f1fa4875f52112c5",
+  "units": 1370,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-longbow": {
+  "title": "Tales of the Long Bow",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "4fb6e252737a47dc64b330dfaa980d5a87f5de986247a41036a2bcb31e06a297",
+  "units": 939,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-magic": {
+  "title": "Magic: A Fantastic Comedy",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "2f442a02626a1ff40378fc0861bc4a820fb69ce6e5319f5688e1e4394de2a1fc",
+  "units": 500,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-manalive": {
+  "title": "Manalive",
+  "author": "Gilbert K. Chesterton",
+  "format": "thml",
+  "sha256": "49b3dc36c2ae7564db7a94ed4eeef7ba43e606231928096bfb85c00d655086d4",
+  "units": 869,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-napoleon": {
+  "title": "The Napoleon of Notting Hill",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "fe24550466f5c04db90b1133afe04a19bc3807253cf75b6c5f2b460329e1cd94",
+  "units": 991,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-orthodoxy": {
+  "title": "Orthodoxy",
+  "author": "Gilbert K. Chesterton",
+  "format": "thml",
+  "sha256": "c99bdca8881f1b749c1515e3feac8376ff35fb160222670557d9c0bfe6d233f4",
+  "units": 237,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-queertrades": {
+  "title": "The Club of Queer Trades",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "c23b33bc626a2859ad1fc00cbf6c155f67eec7d2217ca449a421eb41a7df58cd",
+  "units": 966,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-rightworld": {
+  "title": "What is Right with the World",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "f7accd5944fba7989c5ba25580319c9b48d8c54284234de367baf41f09b9fb37",
+  "units": 16,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-thingsconsidered": {
+  "title": "All Things Considered",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "d772ab90a9bdfc1c2e43022f75ea730246bfd8a21e1feebd8fa54d60bf2770d1",
+  "units": 245,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-thursday": {
+  "title": "The Man Who Was Thursday",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "1da4d6b3f7e98b502038a403b959218f074637cffa747249ec62ba9aa8a809f6",
+  "units": 1176,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-toomuch": {
+  "title": "The Man Who Knew Too Much",
+  "author": "Gilbert Keith Chesterton",
+  "format": "thml",
+  "sha256": "4de3f5b7abbb7a3e121738f642bc84c96240a137e1dad63d761bc56c0226ed06",
+  "units": 973,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-treesofpride": {
+  "title": "The Trees of Pride",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "3d4f46c9b217f772f88e7aa6360ac8e1eebdd1ed9207b19b70a69853fb468f27",
+  "units": 363,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-trifles": {
+  "title": "Tremendous Trifles",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "b5bd92b4f5c9fa6e9dfa6065f006616eeacc34b5c986e5b7a688522a6f911216",
+  "units": 427,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-victorianage": {
+  "title": "The Victorian Age in Literature",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "e29a88e2cf1cbda6555f723a8b28de8240eefc6baec360369fcfe6d7eb76e256",
+  "units": 155,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-whatwrong": {
+  "title": "What's Wrong With the World",
+  "author": "Gilbert K. Chesterton",
+  "format": "thml",
+  "sha256": "d727c7a71a76558ed923d10b8abf5cb4a48450c5060895f75f42c17e7984c738",
+  "units": 230,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-whitehorse": {
+  "title": "The Ballad of the White Horse",
+  "author": "G. K. Chesterton",
+  "format": "thml",
+  "sha256": "f4b5908d2fb9a5c268877fefa8e013c9e1f4bb0e9819a8509addad01bed05b27",
+  "units": 538,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-wisdom": {
+  "title": "The Wisdom of Father Brown",
+  "author": "Gilbert K. Chesterton",
+  "format": "thml",
+  "sha256": "3022f79ff6e1f67a2d3ddd0b2d0a2ee1395ec6b87fc7543d08c84bcb5dcc5af9",
+  "units": 1104,
+  "scheme": {
+   "citation": "CCEL section id + paragraph",
+   "resolution": "paragraph",
+   "honesty": "ThML section ids are CCEL's stable ids; page numbers of print editions need an anchor table (Concordance)"
+  }
+ },
+ "chesterton-calendar": {
+  "title": "A Chesterton Calendar (1911)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "d13a913134a56bb6f768098ad8384a0b83522ee71e53f2d78d74a848793d5500",
+  "units": 1188,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-miscellany": {
+  "title": "A Miscellany of Men (1912)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "0eefdc9c4c8e2552d49dcf5f92754c069e36bf549f861d7b451f00cf88f61023",
+  "units": 337,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-alarms": {
+  "title": "Alarms and Discursions (1910)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "f52bec8aa9f82e8dbff8e6240bf3e0b43663ed52f2f3bfa53bc3872d1e56d350",
+  "units": 367,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-dickens-appreciations": {
+  "title": "Appreciations and Criticisms of the Works of Charles Dickens (1911)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "825317f4f8507f500c6c1ac0d489dc3a45336f3a31323c86589a373747ca0db2",
+  "units": 270,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-dickens-bookman": {
+  "title": "Charles Dickens (Bookman Booklets)",
+  "author": "G. K. Chesterton & F. G. Kitton",
+  "format": "gutenberg-txt",
+  "sha256": "b89d0880475b6634f56e772864a71d8cdbe135cbd33af1ef3aba53d31149d779",
+  "units": 295,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-dickens": {
+  "title": "Charles Dickens: A Critical Study (1906)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "b4dbd0d84e30b47b64c300caa417b74ffa2f2cc12a592216352b6cad47897e65",
+  "units": 245,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-divorce-democracy": {
+  "title": "Divorce versus Democracy (1916)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "d7ef8dd12d62aa98ff211857f1bec97b48a4e40137c85faf44236b8c8ae0ba69",
+  "units": 26,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-fancies": {
+  "title": "Fancies versus Fads (1923)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "e45a912e2dbeb9cf265f1ed0cbfe408575b6a6dccb0ea07918ea4314e86f8131",
+  "units": 345,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-watts": {
+  "title": "G. F. Watts (1904)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "31dda47eacaf81430da70d136eac4a28e300aabca9e290c395d0f067a58c622f",
+  "units": 124,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-shaw": {
+  "title": "George Bernard Shaw (1909)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "5d3ac4eaa2b22d3707b92a1d0363b7d13763afbfac320a2b31a7d8a1fa0e8aee",
+  "units": 316,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-greybeards": {
+  "title": "Greybeards at Play (1900)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "40852637f5d0263b82db6ff7f24fec65ed367b6957682eaaabe908682194c880",
+  "units": 105,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-irish": {
+  "title": "Irish Impressions (1919)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "53e578a62fc33a2359a3493d97446b487eb8b86cc46eca7ac872dab57fb79fc8",
+  "units": 204,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-tolstoy": {
+  "title": "Leo Tolstoy (Bookman Booklets)",
+  "author": "G. K. Chesterton, G. H. Perris & Edward Garnett",
+  "format": "gutenberg-txt",
+  "sha256": "9a6ea19a791a32d7c0a242f099310f9a67d156a48a673b3ee9640f1f36666356",
+  "units": 161,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-london": {
+  "title": "London (1914)",
+  "author": "G. K. Chesterton (photographs by A. L. Coburn)",
+  "format": "gutenberg-txt",
+  "sha256": "5aad738867afd1bc81784d838d51a1d368765a84c787d4a3a00ee80c2f9b74d6",
+  "units": 19,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-kitchener": {
+  "title": "Lord Kitchener (1917)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "d73428eefa91eff426fdd3ad5e0b092832d66fc565c13da9532d448c721c985b",
+  "units": 31,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-poems": {
+  "title": "Poems (1915)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "fae94330f05b87ea7f6af453bde13ebad351df7cdb2ca7bf003270cba7a7083c",
+  "units": 332,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-browning": {
+  "title": "Robert Browning (1903)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "fa9f9c7205633210ce206fd5934dfbcdc81ea442af8f6f72fdf56e8ba6708062",
+  "units": 567,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-francis": {
+  "title": "St. Francis of Assisi (1923)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "aa52d050e45fd4fc5423b1282f84d9fc6337b687b86dce0bae85d6349d2dcfeb",
+  "units": 171,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-tennyson": {
+  "title": "Tennyson (Bookman Booklets)",
+  "author": "G. K. Chesterton & Richard Garnett",
+  "format": "gutenberg-txt",
+  "sha256": "9011836ddae574c081465c55bbd1984f7654c0bfa89b0cda16e7361bd6eaff74",
+  "units": 274,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-thackeray": {
+  "title": "Thackeray (Bookman Booklets)",
+  "author": "G. K. Chesterton & Lewis Melville",
+  "format": "gutenberg-txt",
+  "sha256": "f632fd1853fc25750e4c2c0605a05a1c39a45eb944a35c59578e289857772af8",
+  "units": 222,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-appetite": {
+  "title": "The Appetite of Tyranny (1915)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "19189e86433d9d9d13bd309c75a02468652a2d6cb92779088d0e66e62abadadc",
+  "units": 82,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-barbara": {
+  "title": "The Ballad of St. Barbara, and Other Verses (1922)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "560e7c00f367003fd3d4a634262c802fbfba51a9124a1096ce28e5d95d6a24f5",
+  "units": 243,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-berlin": {
+  "title": "The Barbarism of Berlin (1914)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "89b8284f8e2be4c225648d1d5d94d36a5b266b1e673e67b80b1fbc9579655830",
+  "units": 62,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-conversion": {
+  "title": "The Catholic Church and Conversion (1926)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "04d66187865db8c5f48d75f1898057d970f16a257df83ec772fc78724467bc0e",
+  "units": 107,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-crimes": {
+  "title": "The Crimes of England (1915)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "1a7de2ec1e72febe169bb48d8489012cedd90310e13c8a3de64bbb369eee32ce",
+  "units": 129,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-flyinginn": {
+  "title": "The Flying Inn (1914)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "e77d141f4285634642203c20615494fa7d60aeddc684dca6aebbeda459a50431",
+  "units": 1453,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-jerusalem": {
+  "title": "The New Jerusalem (1920)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "630a086ebae9d340c38b56bbc6ccec4f8487b913b31681cc1fe53ebecb043a06",
+  "units": 279,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-diversity": {
+  "title": "The Uses of Diversity (1920)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "6b85491117a63611bc7b27a6d234fca3ea4adc8d3860fede43514b74bc2bec3d",
+  "units": 424,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-wildknight": {
+  "title": "The Wild Knight and Other Poems (1900)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "5381f4da162a4ae06a3d635d17cc0c4d04c9f38a1520fb16741c2d8730077ff8",
+  "units": 471,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-secretbrown": {
+  "title": "The Secret of Father Brown (1927)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "4b38b49ea7d940aded60d38f97ef8cec77c8fd9c533eb7158d21782722cba875",
+  "units": 1210,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-carlyle": {
+  "title": "Thomas Carlyle (Bookman Booklets)",
+  "author": "G. K. Chesterton & J. E. Hodder-Williams",
+  "format": "gutenberg-txt",
+  "sha256": "a4666aaafdbdc2e22fddadf5920f5ec4a526168ffaa6e7caf881bde2cbba0777",
+  "units": 296,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-twelvetypes": {
+  "title": "Twelve Types (1902)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "85f2279bba271ef88eb6cc10dbb65a291fa90ec7b2a7eaf73f640bc61cd5cd52",
+  "units": 136,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-usurers": {
+  "title": "Utopia of Usurers and Other Essays (1917)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "815996681434a6e36e38da5c8d18e513650b1a1c301f8c99f0218e7063712228",
+  "units": 212,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-variedtypes": {
+  "title": "Varied Types (1903)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "2d46a2a05ef76332e784d4e3f8538bb3392dbed43b20605ca5db562f0227bb81",
+  "units": 218,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-blake": {
+  "title": "William Blake (1910)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "e103651c0ab8243d3707051bc7723a1615a9bad14f4ca327585b1e2f165351bc",
+  "units": 254,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "chesterton-winewater": {
+  "title": "Wine, Water, and Song (1915)",
+  "author": "G. K. Chesterton",
+  "format": "gutenberg-txt",
+  "sha256": "b28e70a31ee8551950696ea20e3d565367ace5de5d2b041e9e4684398e92c8bb",
+  "units": 104,
+  "scheme": {
+   "apparatus": null,
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
  }
 }
