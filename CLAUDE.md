@@ -104,6 +104,8 @@ The living truth for project state is the Obsidian vault:
     python3 tests/cts_test.py                          # the CapiTainS reader (pipeline/cts.py)
     python3 tests/lexica_test.py                       # Beta Code, the shareable lexicons, the STEP supplement's rules
     python3 pipeline/lexica.py --candidates [--check]   # the STEP-or-Perseus review candidates (needs the lexicon sources)
+    python3 pipeline/versification.py [--fetch|--check] # Septuagint -> KJV map (TVTMS tested against Swete)
+    python3 tests/versification_test.py                # the map against known facts of the Greek numbering
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
@@ -303,6 +305,23 @@ Greek of STEP's text. LSJ cites Jude as `tlg0031.tlg126` and Judges as `tlg0527.
 untagged citation is read from its label only when unmistakable (`Ev.Matt.`, `LXX Ge.`;
 never a bare `Ge.`). STEP's own NT references are the answer key, counted every build in
 `scheme.enrichment`: 93.5% of ours are also STEP's, and we have 94.3% of STEP's.
+
+**Septuagint -> KJV, verse by verse (2026-09-29).** `pipeline/versification.py` puts
+every verse of Swete's Septuagint (First1KGreek TEI, the edition LSJ cites) on its KJV
+number using STEPBible's **TVTMS**, the published standard for versification traditions,
+the way TVTMS is designed to be used: each row carries TESTS (`Dan.3:97=Last`,
+`Gen.6:1>Gen.6:2`) and they are run against Swete itself, then against the KJV. The map is
+COMMITTED (`data/versification/lxx-kjv.tsv`, 29,169 rows; `lxx_to_kjv('Ps.22.1')` ->
+`Ps.23.1`) so consumers need no sources; `--check` rebuilds it byte-for-byte. Rules learned:
+subverse tests are unobservable in an edition printing whole verses and are set aside;
+word-count tests only break ties (`soft`); the tests pick the pattern WHATEVER its label
+(Swete's Daniel 3 runs to v.100, which TVTMS files under Latin); First1K and LSJ number the
+Septuagint's books differently (First1K tlg035 = Psalms of Solomon, LSJ tlg035 = Wisdom), so
+Swete's books are matched by title. Checked independently by proper names: where the map
+moves a verse, the KJV verse it names shares more names 757 times, the same-number verse 4
+(each of the 4 read: known Greek order changes, the map right). `tests/versification_test.py`.
+LSJ's Septuagint citations now resolve through it (4,297 of 6,042; 1,480 are to books the
+KJV lacks), and every resolved scripture link carries `osis`, the field Armarium indexes.
 
 ⚠️ **Armarium does not read `rights` yet.** Its per-book download serves any
 book whole, the two STEP books included. The fix belongs in armarium

@@ -896,6 +896,13 @@
    "note": "422,262 quotations carry a CTS URN, kept as links; they stay resolved: false until something resolves them (NT verses: scheme.enrichment); 489 scripture citations without one were read from their label.",
    "enrichment": {
     "LXX": 6042,
+    "LXX -> KJV (part)": 10,
+    "LXX -> KJV (renumbered)": 180,
+    "LXX -> KJV (same)": 3990,
+    "LXX -> KJV (several)": 19,
+    "LXX -> KJV (unmatched)": 98,
+    "LXX, no KJV verse (not in the map)": 265,
+    "LXX, no KJV verse (not-in-kjv)": 1480,
     "NT": 4387,
     "NT resolved to a KJV verse": 4356,
     "STEP keys placed": 8190,

@@ -1,0 +1,40 @@
+{
+ "rows": 29169,
+ "relations": {
+  "not-in-kjv": 6380,
+  "part": 44,
+  "renumbered": 3582,
+  "same": 18710,
+  "several": 73,
+  "title": 65,
+  "unmatched": 315
+ },
+ "check_against_brenton": {
+  "moved verses with a proper name": 1096,
+  "the map's verse shares more names": 757,
+  "the same-number verse shares more names": 4,
+  "no difference": 335,
+  "the verses where names favour the same number (read these)": [
+   "Exod.35.19 -> Exod.35.8",
+   "Num.30.16 -> Num.30.15",
+   "1Kgs.20.27 -> 1Kgs.21.27",
+   "Ps.114.1 -> Ps.116.1"
+  ]
+ },
+ "sources": {
+  "tvtms": {
+   "what": "STEPBible TVTMS versification traditions",
+   "license": "CC BY 4.0",
+   "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data"
+  },
+  "swete": {
+   "what": "Swete, The Old Testament in Greek (1887-1894), First1KGreek TEI",
+   "license": "CC BY-SA 4.0 (markup); text public domain",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "commit": "8ee111eb44ecef4120c844e10749178d95d1f30c"
+  },
+  "kjv": "data/greppable/kjv.tsv (this repo)"
+ },
+ "license": "CC BY-SA 4.0 (built from CC BY and CC BY-SA sources); facts about verse numbering"
+}

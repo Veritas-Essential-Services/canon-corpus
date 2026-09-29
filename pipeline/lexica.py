@@ -36,6 +36,7 @@ from collections import Counter, defaultdict
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from betacode import to_unicode, headword_key, accented_key
+import versification
 
 PERSEUS_RIGHTS = {"license": "CC BY-SA 4.0",
                   "attribution": "Perseus Digital Library, Tufts University",
@@ -160,8 +161,10 @@ def enrich_lsj(book, id_author, author_date, kjv_ids, step_full=None, step_brief
       * every New Testament citation resolves to its KJV verse
         (`target: kjv:Rom.5.8`, resolved: true) when that verse id exists;
       * every Septuagint citation is labelled `scripture: LXX.Ps.22.1`,
-        versification "lxx", and stays unresolved (LXX numbering is not the
-        KJV's: a labelled hole, as BDB's);
+        versification "lxx", and translated to its KJV verse by the committed
+        map (versification.lxx_to_kjv: Greek Ps 22:1 is KJV Ps 23:1); a verse
+        the KJV lacks (Sirach, the additions to Daniel) stays unresolved;
+      * a resolved scripture link carries `osis`, the field Armarium indexes;
       * an entry STEP numbers gets its Strong's number(s): a link to
         strongs-greek and `lex.strongs` / `lex.strongs_ext` -- a fact from
         STEP's number-to-word mapping, matched on the ACCENTED headword, and by
@@ -191,11 +194,21 @@ def enrich_lsj(book, id_author, author_date, kjv_ids, step_full=None, step_brief
                 st["NT"] += 1
                 l["scripture"] = f"{bk}.{c}.{v}"
                 if f"kjv:{bk}.{c}.{v}" in kjv_ids:
-                    l["target"], l["resolved"] = f"kjv:{bk}.{c}.{v}", True
+                    # `osis` is what Armarium indexes as a clickable keylink
+                    l["target"], l["resolved"], l["osis"] = f"kjv:{bk}.{c}.{v}", True, f"{bk}.{c}.{v}"
                     st["NT resolved to a KJV verse"] += 1
             else:
                 st["LXX"] += 1
                 l["scripture"], l["versification"] = f"LXX.{bk}.{c}.{v}", "lxx"
+                # the Septuagint -> KJV map (versification.py, TVTMS tested against Swete)
+                kjvs, rel = versification.lxx_to_kjv(f"{bk}.{c}.{v}")
+                kjvs = [k for k in kjvs if f"kjv:{k}" in kjv_ids]
+                if kjvs:
+                    l["target"], l["osis"], l["kjv"], l["mapped"] = f"kjv:{kjvs[0]}", kjvs[0], kjvs, rel
+                    l["resolved"] = rel != "unmatched"   # unmatched: the number is assumed unchanged
+                    st[f"LXX -> KJV ({rel})"] += 1
+                else:
+                    st[f"LXX, no KJV verse ({rel or 'not in the map'})"] += 1
     if step_full is not None:
         by_acc = defaultdict(list)
         for u in book["units"]:

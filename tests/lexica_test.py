@@ -154,7 +154,7 @@ LSJE = write("grc.lsj.perseus-eng5.xml", """<TEI.2><text><body><div0>
 <entryFree id="e3" key="ku/wn2" type="main"><orth lang="greek">ku/wn</orth>, a throw at dice</entryFree>
 </div0></body></text></TEI.2>""")
 eb = lexica.convert_lsj_perseus([LSJE])
-kjv_ids = {"kjv:Rom.5.8", "kjv:Matt.5.3", "kjv:Jude.1.12"}
+kjv_ids = {"kjv:Rom.5.8", "kjv:Matt.5.3", "kjv:Jude.1.12", "kjv:Ps.23.1"}
 full_e = {"G0026": ("ἀγάπη", "", "", "love", "ἀγάπη love NT.Rom.5.8", "", ""),
           "G2965": ("κύων", "", "", "dog", "κύων dog φύλαξ", "", "")}
 est = lexica.enrich_lsj(eb, {"0059": "Plato Phil.", "0031": "Novum Testamentum", "0527": "Septuaginta"},
@@ -164,9 +164,10 @@ el = {l["label"]: l for l in eu["lsj-perseus:ἀγάπη"]["links"] if l["kind"]
 check("enrich: an NT citation resolves to its KJV verse id",
       el["Ep.Rom. 5.8"]["target"] == "kjv:Rom.5.8" and el["Ep.Rom. 5.8"]["resolved"] is True)
 check("enrich: LSJ's Jude (tlg126, not tlg026) resolves", el["Ep.Jud. 12"].get("target") == "kjv:Jude.1.12")
-check("enrich: a Septuagint citation is labelled LXX, never resolved to the KJV",
+check("enrich: a Septuagint citation is translated to its KJV verse (Greek Ps 22:1 = KJV Ps 23:1)",
       el["LXX Ps. 22.1"]["scripture"] == "LXX.Ps.22.1" and el["LXX Ps. 22.1"]["versification"] == "lxx"
-      and el["LXX Ps. 22.1"]["resolved"] is False and "target" not in el["LXX Ps. 22.1"])
+      and el["LXX Ps. 22.1"]["osis"] == "Ps.23.1" and el["LXX Ps. 22.1"]["mapped"] == "renumbered")
+check("enrich: a resolved NT link carries `osis`, the field Armarium indexes", el["Ep.Rom. 5.8"]["osis"] == "Rom.5.8")
 check("enrich: an untagged NT label is read and resolved", el["Ev.Matt. 5.3"].get("target") == "kjv:Matt.5.3")
 check("enrich: a bare 'Ge.' with no URN is not taken for scripture", "Ge. 1.1" not in el)
 check("enrich: a classical citation names its author and century",
