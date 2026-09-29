@@ -142,6 +142,18 @@ LEXICONS = {
         "Lewis & Short, A Latin Dictionary (1879), Perseus TEI, CC BY-SA 4.0 (license.md "
         "read). The eng2 file: its Greek is Unicode. 51,645 entries."),
 }
+# Bible texts beyond the KJV canon (2026-09-29). The KJV WITH its Apocrypha
+# (1769 text, public domain in the US; in the UK the KJV is under Crown patent),
+# from scrollmapper/bible_databases (MIT), pinned. It is the Apocrypha the
+# Puritans cite ("Ecclus. 3. 18", "Wisd. 2. 23", "1 Macc. 4. 46").
+BIBLE_TEXTS = {
+    "kjv-apocrypha": (
+        "https://raw.githubusercontent.com/scrollmapper/bible_databases/"
+        "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c/formats/json/KJVA.json",
+        "bibles/kjva.json",
+        "King James Version (1769) with the Apocrypha: 14 books, 5,717 verses, from "
+        "scrollmapper/bible_databases (MIT); the text is public domain in the US."),
+}
 # Facts for enriching lsj-perseus (lexica.enrich_lsj): the TLG canon's author
 # names and dates, from the Classical Language Toolkit (MIT), pinned to v0.1.111.
 for _f in ("author_date", "id_author"):
@@ -308,6 +320,12 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"gutenberg/{slug}: FAIL {e}")
         time.sleep(0.5)
+    for slug, (url, fn, note) in BIBLE_TEXTS.items():
+        dest = os.path.join(CORPUS, fn)
+        try:
+            print(f"bible/{slug}: {fetch(url, dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"bible/{slug}: FAIL {e}")
     for slug, (url, fn, note) in LEXICONS.items():
         dest = os.path.join(CORPUS, "lexicons", fn)
         try:

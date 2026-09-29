@@ -21,7 +21,8 @@ sources are only needed to rebuild it). One row per Swete verse:
 
     lxx       Swete's own number, book names as lexica.LXX_WORK uses them (Ps.22.1)
     kjv       the KJV verse(s) holding that text, space-separated (Ps.23.1), or empty
-    relation  same | renumbered | several (one Greek verse = several KJV verses) |
+    relation  (the KJV includes its Apocrypha: Sir.1.1, Bar.6.4 for the Epistle of Jeremy)
+              same | renumbered | several (one Greek verse = several KJV verses) |
               part (the Greek verse is part of a KJV verse) | title (a Psalm title,
               which the KJV prints unnumbered) | not-in-kjv (a book or addition the
               KJV's 66 books do not have) | unmatched (TVTMS rows exist for the
@@ -56,7 +57,12 @@ OSIS = {"Gen": "Gen", "Exo": "Exod", "Lev": "Lev", "Num": "Num", "Deu": "Deut", 
         "1Co": "1Cor", "2Co": "2Cor", "Gal": "Gal", "Eph": "Eph", "Php": "Phil", "Col": "Col",
         "1Th": "1Thess", "2Th": "2Thess", "1Ti": "1Tim", "2Ti": "2Tim", "Tit": "Titus",
         "Phm": "Phlm", "Heb": "Heb", "Jas": "Jas", "1Pe": "1Pet", "2Pe": "2Pet", "1Jn": "1John",
-        "2Jn": "2John", "3Jn": "3John", "Jud": "Jude", "Rev": "Rev"}
+        "2Jn": "2John", "3Jn": "3John", "Jud": "Jude", "Rev": "Rev",
+        # the KJV's Apocrypha (data/greppable/kjv-apocrypha.tsv)
+        "1Es": "1Esd", "Tob": "Tob", "Jdt": "Jdt", "Wis": "Wis", "Sir": "Sir", "Bar": "Bar",
+        "Lje": "EpJer", "S3Y": "PrAzar", "Sus": "Sus", "Bel": "Bel", "1Ma": "1Macc", "2Ma": "2Macc",
+        "Man": "PrMan"}
+KJVA = os.path.join(ROOT, "data", "greppable", "kjv-apocrypha.tsv")
 
 # Swete's books in First1KGreek: (folder, file, TVTMS code or None, the corpus's LXX name).
 # By TITLE, never by number: First1K's tlg035 is the Psalms of Solomon, LSJ's is Wisdom.
@@ -65,25 +71,25 @@ BOOKS = [("tlg001", "grc1", "Gen", "Gen"), ("tlg002", "grc1", "Exo", "Exod"), ("
          ("tlg004", "grc1", "Num", "Num"), ("tlg005", "grc1", "Deu", "Deut"), ("tlg006", "grc1", "Jos", "Josh"),
          ("tlg008", "grc1", "Jdg", "Judg"), ("tlg010", "grc1", "Rut", "Ruth"), ("tlg011", "grc1", "1Sa", "1Sam"),
          ("tlg012", "grc1", "2Sa", "2Sam"), ("tlg013", "grc1", "1Ki", "1Kgs"), ("tlg014", "grc1", "2Ki", "2Kgs"),
-         ("tlg015", "grc1", "1Ch", "1Chr"), ("tlg016", "grc1", "2Ch", "2Chr"), ("tlg017", "grc1", None, "1Esd"),
-         ("tlg018", "grc1", "EZRNEH", "2Esd"), ("tlg019", "grc1", "Est", "Esth"), ("tlg020", "grc1", None, "Jdt"),
-         ("tlg021", "grc1", None, "Tob"), ("tlg023", "grc1", None, "1Macc"), ("tlg024", "grc1", None, "2Macc"),
+         ("tlg015", "grc1", "1Ch", "1Chr"), ("tlg016", "grc1", "2Ch", "2Chr"), ("tlg017", "grc1", "1Es", "1Esd"),
+         ("tlg018", "grc1", "EZRNEH", "2Esd"), ("tlg019", "grc1", "Est", "Esth"), ("tlg020", "grc1", "Jdt", "Jdt"),
+         ("tlg021", "grc1", "Tob", "Tob"), ("tlg023", "grc1", "1Ma", "1Macc"), ("tlg024", "grc1", "2Ma", "2Macc"),
          ("tlg025", "grc1", None, "3Macc"), ("tlg026", "grc1", None, "4Macc"), ("tlg027", "grc1", "Psa", "Ps"),
          ("tlg028", "grc1", None, "Odes"), ("tlg029", "grc1", "Pro", "Prov"), ("tlg031", "grc1", "Sng", "Song"),
-         ("tlg032", "grc1", "Job", "Job"), ("tlg033", "grc1", None, "Wis"), ("tlg034", "grc2", None, "Sir"),
+         ("tlg032", "grc1", "Job", "Job"), ("tlg033", "grc1", "Wis", "Wis"), ("tlg034", "grc2", "Sir", "Sir"),
          ("tlg035", "grc1", None, "PsSol"), ("tlg036", "grc1", "Hos", "Hos"), ("tlg037", "grc1", "Amo", "Amos"),
          ("tlg038", "grc1", "Mic", "Mic"), ("tlg039", "grc1", "Jol", "Joel"), ("tlg040", "grc1", "Oba", "Obad"),
          ("tlg041", "grc1", "Jon", "Jonah"), ("tlg042", "grc1", "Nam", "Nah"), ("tlg043", "grc1", "Hab", "Hab"),
          ("tlg044", "grc1", "Zep", "Zeph"), ("tlg045", "grc1", "Hag", "Hag"), ("tlg046", "grc1", "Zec", "Zech"),
          ("tlg047", "grc1", "Mal", "Mal"), ("tlg048", "grc1", "Isa", "Isa"), ("tlg049", "grc1", "Jer", "Jer"),
-         ("tlg050", "grc1", None, "Bar"), ("tlg051", "grc1", "Lam", "Lam"), ("tlg052", "grc1", None, "EpJer"),
-         ("tlg053", "grc1", "Ezk", "Ezek"), ("tlg054", "grc1", None, "SusOG"), ("tlg055", "grc1", None, "Sus"),
-         ("tlg056", "grc1", "Dan", "DanOG"), ("tlg057", "grc1", "Dan", "Dan"), ("tlg058", "grc1", None, "BelOG"),
-         ("tlg059", "grc1", None, "Bel")]
+         ("tlg050", "grc1", "Bar", "Bar"), ("tlg051", "grc1", "Lam", "Lam"), ("tlg052", "grc1", "Lje", "EpJer"),
+         ("tlg053", "grc1", "Ezk", "Ezek"), ("tlg054", "grc1", "Sus", "SusOG"), ("tlg055", "grc1", "Sus", "Sus"),
+         ("tlg056", "grc1", "Dan", "DanOG"), ("tlg057", "grc1", "Dan", "Dan"), ("tlg058", "grc1", "Bel", "BelOG"),
+         ("tlg059", "grc1", "Bel", "Bel")]
 GREEK_FAMILY = {"Greek", "Greek2", "Greek3", "GreekUndivided", "GreekIntegrated", "GrkTitleSeparate",
                 "GrkTitleMerged", "Greek2Undivided", "GreekIntegrated2", "GreekUndivided2",
                 "GrkTitleSeparate2", "Greek2-NETS", "Greek+NRSV", "AllBibles"}
-_RE_REF = re.compile(r"^([1-4]?[A-Za-z]{2,3})\.(\w+):(\w+)(?:[.!](\w+))?$")
+_RE_REF = re.compile(r"^([1-4]?[A-Za-z][A-Za-z0-9]{1,2})\.(\w+):(\w+)(?:[.!](\w+))?$")
 
 
 class _Ref:
@@ -129,7 +135,7 @@ class Bible:
         t = t.strip()
         if not t:
             return True
-        m = re.fullmatch(r"([1-4]?[A-Za-z]{2,3})\.(\w+):TextBeforeV1=(Exist|NotExist)", t, re.I)
+        m = re.fullmatch(r"([1-4]?[A-Za-z][A-Za-z0-9]{1,2})\.(\w+):TextBeforeV1=(Exist|NotExist)", t, re.I)
         if m:
             if self.text_before_v1 is None:
                 return None
@@ -182,7 +188,7 @@ def standard_refs(s, book):
         piece = piece.strip()
         if not piece or piece.startswith("Absent"):
             continue
-        m = re.match(r"^(?:([1-4]?[A-Za-z]{2,3})\.)?(\w+):(\w+)(?:[.!](\w+))?(?:-(?:(\w+):)?(\w+)(?:[.!]\w+)?)?$", piece)
+        m = re.match(r"^(?:([1-4]?[A-Za-z][A-Za-z0-9]{1,2})\.)?(\w+):(\w+)(?:[.!](\w+))?(?:-(?:(\w+):)?(\w+)(?:[.!]\w+)?)?$", piece)
         if not m:
             continue
         b, c, v, sub, c2, v2 = m.groups()
@@ -202,6 +208,8 @@ def swete_bible():
             raise SystemExit(f"Swete is not fetched: {path} (versification.py --fetch)")
         _, leaves = cts.walk(path)
         for refs, text in leaves:
+            if len(refs) == 1:
+                refs = ("1",) + tuple(refs)      # the Epistle of Jeremy: verses, no chapters
             if len(refs) != 2 or not text:
                 continue
             c, v = refs
@@ -219,15 +227,33 @@ def swete_bible():
 
 
 def kjv_bible():
+    """The KJV WITH its Apocrypha, keyed by TVTMS codes. Baruch 6 (the Epistle
+    of Jeremy) is keyed as Lje.1, which is how TVTMS numbers it."""
     words = {}
     inv = {o: t for t, o in OSIS.items()}
-    with open(KJV, encoding="utf-8") as f:
-        next(f)
-        for line in f:
-            vid, text = line.rstrip("\n").split("\t", 1)
-            _, b, c, v = vid.split(".") if vid.count(".") == 3 else (None, *vid.split(":")[1].split("."))
-            words[(inv[b], c, v)] = len(re.sub(r"[\[\]]", "", text).split())
+    for path in (KJV, KJVA):
+        if not os.path.exists(path):
+            continue
+        with open(path, encoding="utf-8") as f:
+            next(f)
+            for line in f:
+                vid, text = line.rstrip("\n").split("\t", 1)
+                b, c, v = vid.split(":", 1)[1].split(".")
+                if b == "Bar" and c == "6":
+                    key = ("Lje", "1", v)
+                elif b in inv:
+                    key = (inv[b], c, v)
+                else:
+                    continue
+                words[key] = len(re.sub(r"[\[\]]", "", text).split())
     return Bible(words)
+
+
+def kjv_osis(code, c, v):
+    """A KJV verse's OSIS id from its TVTMS key (Lje.1:4 -> Bar.6.4)."""
+    if code == "Lje":
+        return f"Bar.6.{v}"
+    return f"{OSIS[code]}.{c}.{v}" if code in OSIS else None
 
 
 SUBVERSE_TEST = re.compile(r"^\S+:\w+[.!]\w+=(Exist|NotExist)$")
@@ -343,7 +369,7 @@ def build():
         for (sb, sc, sv, p) in expand(std, kjv.last):
             part = part or p
             for kb, kc, kv in (std_to_kjv.get((sb, sc, sv)) or [(sb, sc, sv)]):
-                osis = f"{OSIS[kb]}.{kc}.{kv}" if kb in OSIS else None
+                osis = kjv_osis(kb, kc, kv)
                 if osis and (kb, kc, kv) in kjv.words and osis not in kjv_refs:
                     kjv_refs.append(osis)
         if not kjv_refs:
@@ -354,7 +380,7 @@ def build():
             rel = "part"
         elif len(kjv_refs) > 1:
             rel = "several"
-        elif kjv_refs[0] == f"{OSIS.get(code, name)}.{tc}.{v}":
+        elif kjv_refs[0] == kjv_osis(code, tc, v):
             rel = "same"
         else:
             rel = "renumbered"
@@ -363,7 +389,7 @@ def build():
     return out, stats
 
 
-def validate(rows):
+def name_scores(rows):
     """An independent check of the map: PROPER NAMES. A Swete verse naming
     Abraham or Israel should land on a KJV verse naming them too. Greek names
     (capitalised words, a few titles of God left out) are reduced to their
@@ -373,11 +399,13 @@ def validate(rows):
     import cts
     from betacode import headword_key
     kjvt = {}
-    with open(KJV, encoding="utf-8") as f:
-        next(f)
-        for line in f:
-            k, t = line.rstrip("\n").split("\t", 1)
-            kjvt[k[4:]] = t
+    for path in (KJV, KJVA):
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                next(f)
+                for line in f:
+                    k, t = line.rstrip("\n").split("\t", 1)
+                    kjvt[k[4:]] = t
     greek = {}
     base = os.path.join(SWETE, "data", "tlg0527")
     for folder, ed, code, name in BOOKS:
@@ -385,6 +413,8 @@ def validate(rows):
             continue
         _, leaves = cts.walk(os.path.join(base, folder, f"tlg0527.{folder}.1st1K-{ed}.xml"))
         for refs, t in leaves:
+            if len(refs) == 1:
+                refs = ("1",) + tuple(refs)
             if len(refs) == 2:
                 greek[f"{name}.{refs[0]}.{refs[1]}"] = t
     TR = str.maketrans("αβγδεζηθικλμνξοπρστυφχψω", "abgdezetiklmnxoprstufksw")
@@ -413,8 +443,7 @@ def validate(rows):
             if len(c) >= 2:
                 out.add(c[:2])
         return out
-    moved = better = worse = tie = 0
-    against = []
+    scores = {}
     for lxx, kjv, rel, _ in rows:
         if rel not in ("renumbered", "several") or lxx not in greek:
             continue
@@ -423,15 +452,45 @@ def validate(rows):
             continue
         got = max((len(g & ekeys(kjvt.get(k, ""))) for k in kjv.split()), default=0)
         base_ = len(g & ekeys(kjvt.get(lxx, "")))
-        moved += 1
-        better += got > base_
-        worse += got < base_
-        tie += got == base_
-        if got < base_:
-            against.append(f"{lxx} -> {kjv}")
-    return {"moved verses with a proper name": moved, "the map's verse shares more names": better,
-            "the same-number verse shares more names": worse, "no difference": tie,
-            "the verses where names favour the same number (read these)": against}
+        scores[lxx] = (got, base_)
+    return scores
+
+
+def validate(rows):
+    sc = name_scores(rows)
+    kjv_of = {r[0]: r[1] for r in rows}
+    better = sum(1 for g, b in sc.values() if g > b)
+    worse = sum(1 for g, b in sc.values() if g < b)
+    return {"moved verses with a proper name": len(sc), "the map's verse shares more names": better,
+            "the same-number verse shares more names": worse, "no difference": len(sc) - better - worse,
+            "the verses where names favour the same number (read these)":
+                [f"{k} -> {kjv_of[k]}" for k, (g, b) in sc.items() if g < b]}
+
+
+def overrule(rows, kjv_ids):
+    """Where the TEXT contradicts TVTMS for a chapter -- at least three moved
+    verses whose proper names favour the same number, and more of them than
+    favour the map -- that chapter's moves become `unmatched` (the number
+    assumed unchanged, and flagged as uncertain, never claimed as `same`).
+    Found 2026-09-29: TVTMS's Greek rows for 1 Esdras 2 describe a later
+    edition's divisions, not Swete's (Swete 2:3 and 2:5 are the KJV's 2:3
+    and 2:5; Swete 2:14 is the KJV's 2:15)."""
+    sc = name_scores(rows)
+    by_ch = collections.defaultdict(lambda: [0, 0])
+    for lxx, (g, b) in sc.items():
+        ch = lxx.rsplit(".", 1)[0]
+        by_ch[ch][0] += g < b
+        by_ch[ch][1] += g > b
+    bad = {ch for ch, (against, for_) in by_ch.items() if against >= 3 and against > for_}
+    out, n = [], 0
+    for lxx, kjv, rel, tv in rows:
+        if lxx.rsplit(".", 1)[0] in bad and rel in ("renumbered", "several", "part") and lxx in kjv_ids:
+            out.append((lxx, lxx, "unmatched",
+                        f"{tv}; OVERRULED: the chapter's proper names favour the same number more than TVTMS's"))
+            n += 1
+        else:
+            out.append((lxx, kjv, rel, tv))
+    return out, sorted(bad), n
 
 
 def dump(rows):
@@ -473,6 +532,13 @@ def main():
     if "--fetch" in sys.argv:
         fetch()
     rows, stats = build()
+    kjv_ids = set()
+    for path in (KJV, KJVA):
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                kjv_ids |= {l.split("\t", 1)[0][4:] for l in f}
+    rows, overruled_chapters, n_over = overrule(rows, kjv_ids)
+    stats = collections.Counter(r[2] for r in rows)
     text = dump(rows)
     if "--check" in sys.argv:
         same = os.path.exists(MAP) and open(MAP, encoding="utf-8", newline="").read() == text
@@ -484,6 +550,8 @@ def main():
     os.replace(MAP + ".tmp", MAP)
     v = validate(rows)
     meta = {"rows": len(rows), "relations": dict(sorted(stats.items())), "check_against_brenton": v,
+            "overruled_chapters": {"chapters": overruled_chapters, "verses": n_over,
+                                   "rule": "3+ moved verses whose proper names favour the same number, and more than favour the map: the chapter's moves become unmatched"},
             "sources": {"tvtms": {"what": "STEPBible TVTMS versification traditions", "license": "CC BY 4.0",
                                   "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
                                   "source_url": "https://github.com/STEPBible/STEPBible-Data"},

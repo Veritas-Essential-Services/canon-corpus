@@ -231,6 +231,69 @@ RE_VMARK = re.compile(r"(?:(?<=^)|(?<=\s))(\d+):(\d+)(?:\s+|$)")  # markers appe
 # merged into the previous one. 420 of 31,102 verses vanished this way, scattered over
 # 60+ books, while scheme.honesty still said "exact".
 
+# ---------------------------------------------------------------- the KJV Apocrypha
+# KJVA's book names -> OSIS. The unit ids are kjv:<OSIS>.<c>.<v>, because the
+# Apocrypha is part of the King James Bible as printed in 1611, and because
+# the Armarium resolves every scripture link as "kjv:" + osis.
+APOCRYPHA_OSIS = {"I Esdras": "1Esd", "II Esdras": "2Esd", "Tobit": "Tob", "Judith": "Jdt",
+                  "Additions to Esther": "AddEsth", "Wisdom": "Wis", "Sirach": "Sir", "Baruch": "Bar",
+                  "Prayer of Azariah": "PrAzar", "Susanna": "Sus", "Bel and the Dragon": "Bel",
+                  "Prayer of Manasses": "PrMan", "I Maccabees": "1Macc", "II Maccabees": "2Macc"}
+APOCRYPHA_TITLE = {"1Esd": "1 Esdras", "2Esd": "2 Esdras", "Tob": "Tobit", "Jdt": "Judith",
+                   "AddEsth": "The Rest of Esther", "Wis": "Wisdom of Solomon", "Sir": "Ecclesiasticus",
+                   "Bar": "Baruch", "PrAzar": "The Song of the Three Holy Children", "Sus": "Susanna",
+                   "Bel": "Bel and the Dragon", "PrMan": "The Prayer of Manasses", "1Macc": "1 Maccabees",
+                   "2Macc": "2 Maccabees"}
+# the 1611 prints a heading where the Rest of Esther begins; KJVA carries it inside 10:4
+RE_ESTHER_HEAD = re.compile(r"^The rest of the chapters of the Book of ESTHER,[^.]*\.\s*", re.I)
+
+
+def convert_kjv_apocrypha(path, slug="kjv-apocrypha"):
+    """KJVA.json -> the fourteen books of the KJV Apocrypha, verse by verse.
+    Chapters 1-9 of "Additions to Esther" are placeholders ("…") for the
+    canonical Esther; the Rest of Esther is 10:4-16:24 in the KJV's own
+    numbering, and only that is kept. Baruch 6 is the Epistle of Jeremy, as
+    the KJV prints it."""
+    data = json.load(open(path, encoding="utf-8"))
+    units = []
+    for b in data["books"]:
+        osis = APOCRYPHA_OSIS.get(b["name"])
+        if not osis:
+            continue
+        for c in b["chapters"]:
+            for v in c["verses"]:
+                t = (v.get("text") or "").strip()
+                if not t or t in ("…", "..."):
+                    continue
+                if osis == "AddEsth":
+                    t = RE_ESTHER_HEAD.sub("", t)
+                units.append({"id": f"kjv:{osis}.{c['chapter']}.{v['verse']}",
+                              "ref": f"{APOCRYPHA_TITLE[osis]} {c['chapter']}:{v['verse']}",
+                              "text": t, "links": []})
+    return {"slug": slug, "title": "The Apocrypha (King James Version)",
+            "author": "—",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "kjva-json", "sha256": sha256(path)},
+            "rights": {"license": "Public domain (US); the KJV is under Crown patent in the UK",
+                       "attribution": "Text via scrollmapper/bible_databases (MIT)",
+                       "source_url": "https://github.com/scrollmapper/bible_databases"},
+            "scheme": {"citation": "Book chapter:verse (OSIS ids, the KJV's own Apocrypha numbering)",
+                       "resolution": "verse", "honesty": "exact",
+                       "note": "1769 KJV text. The Rest of Esther keeps the KJV's 10:4-16:24; "
+                               "Baruch 6 is the Epistle of Jeremy; the Prayer of Manasses is one unit."},
+            "reading_of_record": "kjv-1769",
+            "units": units}
+
+
+def write_apocrypha_greppable(book, dest):
+    """data/greppable/kjv-apocrypha.tsv (COMMITTED, like kjv.tsv): what the
+    citation resolver and the versification map check verses against."""
+    with open(dest + ".tmp", "w", encoding="utf-8", newline="\n") as f:
+        f.write("id\ttext\n")
+        for u in book["units"]:
+            f.write(f"{u['id']}\t{u['text']}\n")
+    os.replace(dest + ".tmp", dest)
+
+
 def convert_kjv(path, slug="kjv"):
     units, cur = [], None
     book_osis = book_name = None
@@ -1409,6 +1472,13 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    kjva = os.path.join(CORPUS, "bibles", "kjva.json")
+    if os.path.exists(kjva):
+        def apocrypha_job():
+            book = convert_kjv_apocrypha(kjva)
+            write_apocrypha_greppable(book, os.path.join(HERE, "..", "data", "greppable", "kjv-apocrypha.tsv"))
+            return book
+        jobs.append(("kjv-apocrypha", apocrypha_job))
     # The shareable lexicons and the STEPBible supplement (lexica.py; Adam 2026-09-29).
     import lexica
     lexdir = os.path.join(CORPUS, "lexicons")
@@ -1426,8 +1496,13 @@ def main():
             full = {}
             for p in step[1:] if have_step else []:
                 full.update(lexica.step_rows(p))
+            kjv_ids = {k for k in reg["uids"] if k.startswith("kjv:")}
+            kjva_tsv = os.path.join(HERE, "..", "data", "greppable", "kjv-apocrypha.tsv")
+            if os.path.exists(kjva_tsv):      # the KJV's Apocrypha: Sirach, Wisdom, the Maccabees link too
+                with open(kjva_tsv, encoding="utf-8") as f:
+                    kjv_ids |= {l.split("\t", 1)[0] for l in f if l.startswith("kjv:")}
             lexica.enrich_lsj(book, *(json.load(open(p, encoding="utf-8")) for p in cltk),
-                              {k for k in reg["uids"] if k.startswith("kjv:")},
+                              kjv_ids,
                               full if have_step else None,
                               lexica.step_rows(step[0]) if have_step else None)
         return book

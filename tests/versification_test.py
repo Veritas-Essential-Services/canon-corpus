@@ -57,11 +57,16 @@ FACTS = [
     ("1Kgs.20.27", ["1Kgs.21.27"], "renumbered"),  # 3 Kingdoms swaps chapters 20 and 21
     ("Jer.26.2", ["Jer.46.2"], "renumbered"),   # the oracles against the nations moved
     ("Jer.25.15", ["Jer.49.35"], "renumbered"),
-    ("Dan.3.24", [], "not-in-kjv"),             # the Prayer of Azariah begins
+    ("Dan.3.24", ["PrAzar.1.1"], "renumbered"),  # the Song of the Three Children, in the KJV Apocrypha
+    ("Dan.3.90", ["PrAzar.1.68"], "renumbered"),
     ("Dan.3.91", ["Dan.3.24"], "renumbered"),
     ("Dan.3.98", ["Dan.4.1"], "renumbered"),
     ("2Esd.11.1", ["Neh.1.1"], "same"),         # Esdras B = Ezra 1-10 + Nehemiah 1-13
-    ("Sir.1.1", [], "not-in-kjv"),
+    ("Sir.1.1", ["Sir.1.1"], "same"),           # Ecclesiasticus, in the KJV Apocrypha
+    ("Tob.4.15", ["Tob.4.15"], "same"),         # "Do that to no man which thou hatest"
+    ("Bar.3.36", ["Bar.3.35"], "renumbered"),   # "This is our God" is the KJV's 3:35
+    ("3Macc.1.1", [], "not-in-kjv"),            # 3-4 Maccabees are not in the KJV Apocrypha
+    ("PsSol.1.1", [], "not-in-kjv"),
 ]
 for lxx, kjv, rel in FACTS:
     got = V.lxx_to_kjv(lxx)
@@ -69,7 +74,7 @@ for lxx, kjv, rel in FACTS:
 
 rows = [l.rstrip("\n").split("\t") for l in open(V.MAP, encoding="utf-8")][1:]
 check("map: one row per Swete verse, no duplicates", len(rows) == len({r[0] for r in rows}))
-kjv_ids = {l.split("\t", 1)[0][4:] for l in open(V.KJV, encoding="utf-8")}
+kjv_ids = {l.split("\t", 1)[0][4:] for p in (V.KJV, V.KJVA) for l in open(p, encoding="utf-8")}
 check("map: every KJV verse it names exists in the KJV", all(k in kjv_ids for r in rows for k in r[1].split()))
 check("map: a verse outside the KJV names no KJV verse", all(not r[1] for r in rows if r[2] in ("not-in-kjv", "title")))
 import json
@@ -78,6 +83,9 @@ chk = meta["check_against_brenton"]
 check("independent check: where the map moves a verse, its proper names agree far more often than not",
       chk["the map's verse shares more names"] > 50 * max(1, chk["the same-number verse shares more names"]) / 5
       and chk["the map's verse shares more names"] > 10 * chk["the same-number verse shares more names"])
+over = meta["overruled_chapters"]
+check("a chapter whose text contradicts TVTMS is flagged unmatched, never claimed (1 Esdras 2)",
+      "1Esd.2" in over["chapters"] and V.lxx_to_kjv("1Esd.2.3") == (["1Esd.2.3"], "unmatched"))
 check("the map's rights name TVTMS (CC BY) and Swete/First1KGreek (CC BY-SA)",
       meta["sources"]["tvtms"]["license"] == "CC BY 4.0" and "CC BY-SA" in meta["sources"]["swete"]["license"])
 

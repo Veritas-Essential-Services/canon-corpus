@@ -50,6 +50,7 @@ import os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 KJV = os.path.join(HERE, "..", "data", "greppable", "kjv.tsv")
+KJVA = os.path.join(HERE, "..", "data", "greppable", "kjv-apocrypha.tsv")
 MAX_RANGE = 40
 
 # ---------------------------------------------------------------- the book names
@@ -132,13 +133,19 @@ NAMES = {
 APOCRYPHA = {
     "Tob": "Tobit Tobias Tob Tb",
     "Jdt": "Judith Judit Jdt Jud Jth",
-    "Wis": "Wisdom Sapientia Sap Wis Wisd",
+    "Wis": "Wisdom Sapientia Sap Wis Wisd WisdomofSolomon",
     "Sir": "Sirach Ecclesiasticus Ecclus Eccli Sir Ecclesiastic",
     "Bar": "Baruch Bar",
+    "EpJer": "EpistleofJeremy EpistleofJeremiah EpJer",
     "1Macc": "1Maccabees 1Machabees 1Mach 1Macc 1Mac 1Ma",
     "2Macc": "2Maccabees 2Machabees 2Mach 2Macc 2Mac 2Ma",
     "1Esd": "1Esdras 1Esd",
     "2Esd": "2Esdras 2Esd",
+    "PrAzar": "SongoftheThreeHolyChildren SongoftheThreeChildren SongofThreeChildren SongoftheThree SongofThree PrAzar PrAzariah Azar",
+    "Sus": "Susanna Susan Sus HistSus",
+    "Bel": "BelandtheDragon Bel",
+    "PrMan": "PrayerofManasses PrayerofManasseh Manasses PrMan PrMa",
+    "AddEsth": "RestofEsther AddEsth AddEst",
 }
 # Traditions whose NAMES mean other books (profile -> form -> OSIS).
 PROFILE_NAMES = {
@@ -164,7 +171,7 @@ RISKY = {"job", "mark", "john", "acts", "act", "ruth", "amos", "joel", "numbers"
          "lam", "jer", "ps", "pr", "ob", "jon", "gen", "es", "da", "ho", "na", "mi", "hg", "am", "jo",
          "rev", "tit", "ti", "pro", "ne", "de", "le", "nu", "ru", "jud", "jd", "jas", "jam", "ct", "mt",
          "mk", "lk", "jn", "ec", "ez", "ch", "lamentations", "canticles", "revelation", "james", "luke",
-         "matthew", "daniel", "jonah", "hosea", "micah", "titus", "jude", "baruch", "judith", "tobit"}
+         "matthew", "daniel", "jonah", "hosea", "micah", "titus", "jude", "baruch", "judith", "tobit", "manasses", "manasseh"}
 
 ROMAN = {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}
 
@@ -208,12 +215,15 @@ def shape():
     global _SHAPE
     if _SHAPE is None:
         _SHAPE = {}
-        with open(KJV, encoding="utf-8") as f:
-            next(f)
-            for line in f:
-                b, c, v = line.split("\t", 1)[0][4:].split(".")
-                d = _SHAPE.setdefault(b, {})
-                d[int(c)] = max(d.get(int(c), 0), int(v))
+        for path in (KJV, KJVA):
+            if not os.path.exists(path):
+                continue
+            with open(path, encoding="utf-8") as f:
+                next(f)
+                for line in f:
+                    b, c, v = line.split("\t", 1)[0][4:].split(".")
+                    d = _SHAPE.setdefault(b, {})
+                    d[int(c)] = max(d.get(int(c), 0), int(v))
     return _SHAPE
 
 
@@ -224,7 +234,7 @@ def verse_exists(b, c, v=None):
     return v is None or 1 <= v <= s[c]
 
 
-SINGLE_CHAPTER = {"Obad", "Phlm", "2John", "3John", "Jude"}
+SINGLE_CHAPTER = {"Obad", "Phlm", "2John", "3John", "Jude", "PrAzar", "Sus", "Bel", "PrMan", "EpJer"}
 
 # ---------------------------------------------------------------- the grammar
 _names = sorted({n for names in list(NAMES.values()) + list(APOCRYPHA.values()) for n in names.split()}
@@ -232,7 +242,18 @@ _names = sorted({n for names in list(NAMES.values()) + list(APOCRYPHA.values()) 
                 key=len, reverse=True)
 _bare = sorted({re.sub(r"^[1-4]", "", n) for n in _names}, key=len, reverse=True)
 ORDINAL = r"(?:(?P<ord>[1-4]|I{1,3}|IV|i{1,3}|iv)(?:st|nd|rd|d|th)?\.?\s*|(?P<ordw>First|Second|Third|Fourth|1st|2nd|3rd|4th)\s+)"
-BOOK = r"(?P<book>" + "|".join(re.escape(n) for n in _bare if n) + r")\b\.?"
+# names printed as several words; matched with any spacing, keyed without it
+MULTIWORD = ["Song of the Three Holy Children", "Song of the Three Children", "Song of Three Children",
+             "Song of the Three", "Epistle of Jeremy", "Epistle of Jeremiah", "Rest of Esther",
+             "Bel and the Dragon", "Prayer of Manasses", "Prayer of Manasseh", "Wisdom of Solomon",
+             "Song of Solomon", "Song of Songs", "Hist. Sus", "Pr. Azar", "Pr. Man", "Add. Esth", "Ep. Jer"]
+for _m in MULTIWORD:
+    _k = re.sub(r"[\s.]", "", _m)
+    if not any(_key(n) == _k.lower() for n in _names):
+        FORMS.setdefault(_k.lower(), [])
+_MW = r"|".join(r"\.?\s*".join(re.escape(w) for w in re.split(r"\.?\s+", m))
+                for m in sorted(MULTIWORD, key=len, reverse=True))
+BOOK = r"(?P<book>" + _MW + "|" + "|".join(re.escape(n) for n in _bare if n) + r")\b\.?"
 NUM = r"(?:\d{1,3}|[ivxlcIVXLC]{1,8})"
 CHAP = r"(?:(?:cap|chap|chapt|ch|c)\.\s*|(?:cap|chap|chapter)\s+)?(?P<ch>" + NUM + r")"
 VERSE_SEP = r"(?:\s*[:.,]\s*|\s+)(?:(?:ver|vers|verse|vv|v|vs)\.?\s*)?"
@@ -296,30 +317,52 @@ def candidates(ordinal, book, profile):
     return out
 
 
+PRMAN_VERSES = 15
+
+
+def _fits(o, ch, verses):
+    if o == "EpJer":                       # the KJV prints it as Baruch 6
+        return verse_exists("Bar", 6, verses[0] if verses else ch)
+    if o == "PrMan":                       # printed unnumbered: 15 verses in later editions, one unit here
+        return 1 <= (verses[0] if verses else ch) <= PRMAN_VERSES and (not verses or ch == 1)
+    return (verse_exists(o, ch, verses[0]) if verses else verse_exists(o, ch)) \
+        or (o in SINGLE_CHAPTER and not verses and verse_exists(o, 1, ch))
+
+
 def resolve(ordinal, book, ch, verses, profile="protestant", raw=""):
-    """-> (osis book or None, confidence, [candidate books], why)"""
+    """-> (osis book or None, confidence, [candidate books], why)
+    The KJV's canonical books are tried first; the Apocrypha (the KJV's own
+    fourteen books) only when no canonical book fits, or when the form can
+    only mean an apocryphal book. "Jud. 5. 3" stays Judges, never Judith."""
     cands = candidates(ordinal, book, profile)
     if not cands:
         return None, None, [], "no such book form"
+    if any(o == "Esth" for o, _ in cands) and ch > 10:
+        # the KJV numbers the Rest of Esther 10:4-16:24, after the canonical ten chapters
+        cands = cands + [("AddEsth", "apocrypha")]
     kjv_cands = [o for o, t in cands if t != "apocrypha"]
-    if not kjv_cands:
-        return None, "exact", [o for o, _ in cands], "a book outside the KJV's 66"
-    fits = [o for o in dict.fromkeys(kjv_cands)
-            if (verse_exists(o, ch, verses[0]) if verses else verse_exists(o, ch))
-            or (o in SINGLE_CHAPTER and not verses and verse_exists(o, 1, ch))]
-    apoc = [o for o, t in cands if t == "apocrypha"]
-    if len(fits) == 1 and not apoc:
+    apoc = list(dict.fromkeys(o for o, t in cands if t == "apocrypha"))
+    fits = [o for o in dict.fromkeys(kjv_cands) if _fits(o, ch, verses)]
+    afits = [o for o in apoc if _fits(o, ch, verses)]
+    if not fits and afits:
+        if len(afits) == 1:
+            only = not kjv_cands
+            return afits[0], "exact" if only else "inferred", afits, \
+                "an apocryphal book" if only else "no canonical book has that verse; the Apocrypha does"
+        return None, "ambiguous", afits, "several apocryphal books fit; a human decides"
+    if not kjv_cands and not afits:
+        return None, "exact", apoc, "an apocryphal book, but the KJV Apocrypha has no such verse" if apoc else "no book"
+    if len(fits) == 1:
         if not ordinal and len(set(kjv_cands)) > 1 and all(o[0].isdigit() for o in kjv_cands):
             return fits[0], "inferred", fits, "its number was missing; the verse exists only in this one"
-        return fits[0], "exact" if len(set(kjv_cands)) == 1 else "inferred", fits, "the verse exists only there"
+        why = "the verse exists only there" + ("; an apocryphal reading also fits" if afits else "")
+        return fits[0], "exact" if len(set(kjv_cands)) == 1 and not afits else "inferred", fits + afits, why
     pref = PREFER.get(profile, {}).get(_key(book))
     if len(fits) >= 1 and pref in fits:
-        return pref, "inferred", fits + apoc, f"the {profile} reading of {book!r}"
-    if len(fits) == 1:
-        return fits[0], "inferred", fits + apoc, "the only KJV book where the verse exists"
+        return pref, "inferred", fits + afits, f"the {profile} reading of {book!r}"
     if not fits:
         return None, None, kjv_cands + apoc, "no candidate book has that chapter and verse"
-    return None, "ambiguous", fits + apoc, "several books fit; a human decides"
+    return None, "ambiguous", fits + afits, "several books fit; a human decides"
 
 
 def _psalm(profile, c, v):
@@ -479,6 +522,11 @@ def _emit(out, base, osis_book, conf, cands, why, ch, verses, profile):
     if not verses:
         out.append(dict(base, osis_chapter=f"{osis_book}.{ch}", confidence=conf, resolved=True, why=why))
         return osis_book
+    if osis_book == "EpJer":
+        osis_book, ch = "Bar", 6          # the KJV prints the Epistle of Jeremy as Baruch 6
+    if osis_book == "PrMan":               # every verse is part of the KJV's one paragraph
+        out.append(dict(base, osis="PrMan.1.1", confidence=conf, resolved=True, why=why, mapped="part"))
+        return osis_book
     for i, v in enumerate(verses):
         if osis_book == "Ps":
             kjvs, rel = _psalm(profile, ch, v)
@@ -498,7 +546,7 @@ def _emit(out, base, osis_book, conf, cands, why, ch, verses, profile):
 
 
 # ---------------------------------------------------------------- the library-wide harvest
-HARVEST_VERSION = 1
+HARVEST_VERSION = 2
 # Which books cite the Vulgate/Douay way. A Puritan cites the KJV way; the
 # Dominican Fathers' Summa cites "Ps. 22" meaning KJV Ps 23 and "3 Kings".
 PROFILE_BY_SLUG = (("aquinas", "douay"),)
@@ -507,7 +555,7 @@ PROFILE_BY_SLUG = (("aquinas", "douay"),)
 # publisher's own answer key (measured against, never overwritten).
 SKIP_FORMATS = {"thml", "lexicon-tsv", "lexicon-xml", "lexicon-ocr", "lexicon-tsv-subset",
                 "perseus-lexicon-tei", "abbott-smith-tei", "gutenberg-txt:kjv"}
-SKIP_SLUGS = {"kjv"}
+SKIP_SLUGS = {"kjv", "kjv-apocrypha"}
 
 
 def profile_for(slug):

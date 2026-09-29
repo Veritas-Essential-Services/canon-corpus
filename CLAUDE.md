@@ -314,17 +314,19 @@ every verse of Swete's Septuagint (First1KGreek TEI, the edition LSJ cites) on i
 number using STEPBible's **TVTMS**, the published standard for versification traditions,
 the way TVTMS is designed to be used: each row carries TESTS (`Dan.3:97=Last`,
 `Gen.6:1>Gen.6:2`) and they are run against Swete itself, then against the KJV. The map is
-COMMITTED (`data/versification/lxx-kjv.tsv`, 29,169 rows; `lxx_to_kjv('Ps.22.1')` ->
+COMMITTED (`data/versification/lxx-kjv.tsv`, 29,241 rows; `lxx_to_kjv('Ps.22.1')` ->
 `Ps.23.1`) so consumers need no sources; `--check` rebuilds it byte-for-byte. Rules learned:
 subverse tests are unobservable in an edition printing whole verses and are set aside;
 word-count tests only break ties (`soft`); the tests pick the pattern WHATEVER its label
 (Swete's Daniel 3 runs to v.100, which TVTMS files under Latin); First1K and LSJ number the
 Septuagint's books differently (First1K tlg035 = Psalms of Solomon, LSJ tlg035 = Wisdom), so
 Swete's books are matched by title. Checked independently by proper names: where the map
-moves a verse, the KJV verse it names shares more names 757 times, the same-number verse 4
-(each of the 4 read: known Greek order changes, the map right). `tests/versification_test.py`.
-LSJ's Septuagint citations now resolve through it (4,297 of 6,042; 1,480 are to books the
-KJV lacks), and every resolved scripture link carries `osis`, the field Armarium indexes.
+moves a verse, the KJV verse it names shares more names 850 times, the same-number verse 5
+(listed in the meta to read; the first 4 are known Greek order changes, the map right). A
+chapter where 3+ moves favour the same number and outnumber the map is OVERRULED to
+`unmatched`, never claimed (1 Esdras 2, 25 verses). `tests/versification_test.py`.
+LSJ's Septuagint citations now resolve through it (5,434 of 6,042; 343 are to books the
+KJV lacks: 3-4 Maccabees, Psalms of Solomon, Odes), and every resolved scripture link carries `osis`, the field Armarium indexes.
 
 **Every scripture citation in the library, found at build time (2026-09-29).**
 `pipeline/scripture_refs.py` is the master map of how old books cite scripture: a citation
@@ -344,6 +346,24 @@ every unit's `links[]` gains `{osis, raw, start, end, convention, confidence}` a
 indexes them with no change on its side. CCEL ThML books are never harvested: their scripRef
 tags are the publisher's answer key, and `--survey` scores the resolver against them.
 `tests/scripture_refs_test.py`.
+
+**The Apocrypha, the KJV's own fourteen books (2026-09-29).** Old books cite them
+constantly (`Ecclus.`, `Wisd.`, `Sap.`, `Tob.`, `1 Macc.`), so the library needs them for
+those links to land. `kjv-apocrypha` (5,705 verses) is built by `convert_kjv_apocrypha` from
+scrollmapper/bible_databases' KJVA.json, pinned in `BIBLE_TEXTS` (fetch_sources.py; lands in
+`data/corpus/bibles/`, gitignored). Unit ids are `kjv:<OSIS>.<c>.<v>` like the KJV's, so
+`q_ref` finds them; the text is also committed as `data/greppable/kjv-apocrypha.tsv`, which
+the resolver and the versification map read, so neither needs the source. Numbering is the
+KJV's: the Rest of Esther is `AddEsth.10.4`-`16.24`, the Epistle of Jeremy is Baruch 6
+(`Bar.6.*`), the Song of the Three Children is `PrAzar.1.1-68`. The Prayer of Manasses is
+ONE unit: the source prints it, as the 1611 did, unnumbered; a cited verse of it links to
+that unit marked `mapped: part`. The resolver tries the canon first ("Jud. 5. 3" stays
+Judges) and the Apocrypha when no canonical book fits or the form can only be apocryphal;
+`Esth.` past chapter 10 is the Rest of Esther. The Septuagint map now lands Greek Tobit,
+Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees, 1 Esdras and Greek Daniel 3:24-90 on these
+verses. 🔴 No uids are minted for them yet (the KJV's verse uids came through the witnesses
+build; minting these is Adam's call). Rights: the KJV is PD in the US and under Crown patent
+in the UK; the book's rights block says so.
 
 ⚠️ **Armarium does not read `rights` yet.** Its per-book download serves any
 book whole, the two STEP books included. The fix belongs in armarium

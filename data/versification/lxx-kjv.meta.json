@@ -1,25 +1,33 @@
 {
- "rows": 29169,
+ "rows": 29241,
  "relations": {
-  "not-in-kjv": 6380,
-  "part": 44,
-  "renumbered": 3582,
-  "same": 18710,
-  "several": 73,
+  "not-in-kjv": 1705,
+  "part": 92,
+  "renumbered": 3939,
+  "same": 22796,
+  "several": 90,
   "title": 65,
-  "unmatched": 315
+  "unmatched": 554
  },
  "check_against_brenton": {
-  "moved verses with a proper name": 1096,
-  "the map's verse shares more names": 757,
-  "the same-number verse shares more names": 4,
-  "no difference": 335,
+  "moved verses with a proper name": 1235,
+  "the map's verse shares more names": 850,
+  "the same-number verse shares more names": 5,
+  "no difference": 380,
   "the verses where names favour the same number (read these)": [
    "Exod.35.19 -> Exod.35.8",
    "Num.30.16 -> Num.30.15",
    "1Kgs.20.27 -> 1Kgs.21.27",
+   "Jdt.9.12 -> Jdt.9.9",
    "Ps.114.1 -> Ps.116.1"
   ]
+ },
+ "overruled_chapters": {
+  "chapters": [
+   "1Esd.2"
+  ],
+  "verses": 25,
+  "rule": "3+ moved verses whose proper names favour the same number, and more than favour the map: the chapter's moves become unmatched"
  },
  "sources": {
   "tvtms": {

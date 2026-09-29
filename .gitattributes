@@ -17,3 +17,4 @@ data/hymn-sources/* text eol=lf
 data/perseus/* text eol=lf
 data/lexicons/* text eol=lf
 data/versification/* text eol=lf
+data/greppable/kjv-apocrypha.tsv text eol=lf

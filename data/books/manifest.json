@@ -896,13 +896,13 @@
    "note": "422,262 quotations carry a CTS URN, kept as links; they stay resolved: false until something resolves them (NT verses: scheme.enrichment); 489 scripture citations without one were read from their label.",
    "enrichment": {
     "LXX": 6042,
-    "LXX -> KJV (part)": 10,
-    "LXX -> KJV (renumbered)": 180,
-    "LXX -> KJV (same)": 3990,
-    "LXX -> KJV (several)": 19,
-    "LXX -> KJV (unmatched)": 98,
+    "LXX -> KJV (part)": 16,
+    "LXX -> KJV (renumbered)": 219,
+    "LXX -> KJV (same)": 5012,
+    "LXX -> KJV (several)": 26,
+    "LXX -> KJV (unmatched)": 161,
     "LXX, no KJV verse (not in the map)": 265,
-    "LXX, no KJV verse (not-in-kjv)": 1480,
+    "LXX, no KJV verse (not-in-kjv)": 343,
     "NT": 4387,
     "NT resolved to a KJV verse": 4356,
     "STEP keys placed": 8190,
@@ -999,6 +999,24 @@
    ],
    "shareable": true,
    "note": "A selection, not the lexicon: only entries numbered G6000+, the splits of one Strong's number, and headwords lsj-perseus and abbott-smith lack; one text per entry. Ruled by Adam 2026-09-29. Corrections belong upstream at github.com/STEPBible."
+  }
+ },
+ "kjv-apocrypha": {
+  "title": "The Apocrypha (King James Version)",
+  "author": "—",
+  "format": "kjva-json",
+  "sha256": "404cc86145f221a5599864a1e20033588ec592933c90bb20fe6c4fa461db945a",
+  "units": 5705,
+  "scheme": {
+   "citation": "Book chapter:verse (OSIS ids, the KJV's own Apocrypha numbering)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "note": "1769 KJV text. The Rest of Esther keeps the KJV's 10:4-16:24; Baruch 6 is the Epistle of Jeremy; the Prayer of Manasses is one unit."
+  },
+  "rights": {
+   "license": "Public domain (US); the KJV is under Crown patent in the UK",
+   "attribution": "Text via scrollmapper/bible_databases (MIT)",
+   "source_url": "https://github.com/scrollmapper/bible_databases"
   }
  }
 }

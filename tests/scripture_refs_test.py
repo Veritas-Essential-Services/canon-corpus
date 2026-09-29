@@ -47,7 +47,7 @@ one("Cant. ii. 16", ["Song.2.16"], label="Cant. = Song of Songs")
 # ---------------------------------------------------------------- continuations
 one("1 Cor. 2. 9; 13. 12.", ["1Cor.2.9", "1Cor.13.12"], label="'; 13. 12' carries the book")
 one("Acts 2. 38, ver. 41", ["Acts.2.38", "Acts.2.41"], label="', ver. 41' carries the chapter")
-one("Sap. 1. 1, 2 Pet. i. 19", ["2Pet.1.19"], label="a verse list stops at the next book (2 Pet. is not verse 2)")
+one("Sap. 1. 1, 2 Pet. i. 19", ["Wis.1.1", "2Pet.1.19"], label="a verse list stops at the next book (2 Pet. is not verse 2)")
 
 # ---------------------------------------------------------------- the hard cases, each with its rule
 one("Jud. 5. 3", ["Judg.5.3"], label="Jud. 5. 3 can only be Judges (Jude has one chapter)")
@@ -63,9 +63,23 @@ one("Cor. 15. 55", ["1Cor.15.55"], label="Cor. with its number lost: only 1 Cor 
 d = S.find("Cor. 13. 12")
 check("Cor. 13. 12 with its number lost is AMBIGUOUS (1 and 2 Cor both have 13:12): kept for a human",
       d and d[0]["confidence"] == "ambiguous" and set(d[0]["candidates"]) == {"1Cor", "2Cor"} and "osis" not in d[0], d)
-d = S.find("Ecclus. 3. 18")
-check("Ecclus. is Sirach, recognised, not linked to a KJV verse",
-      d and d[0].get("book") == "Sir" and d[0]["resolved"] is False and "osis" not in d[0])
+# ---------------------------------------------------------------- the Apocrypha (the KJV's own fourteen books)
+one("Ecclus. 3. 18", ["Sir.3.18"], label="Ecclus. is Sirach, linked to the KJV Apocrypha")
+one("Wisd. 2. 23", ["Wis.2.23"], label="Wisd. is the Wisdom of Solomon")
+one("Sap. 2. 23", ["Wis.2.23"], label="Sap. (Latin) is Wisdom")
+one("1 Macc. 4. 46", ["1Macc.4.46"], label="1 Macc.")
+one("Tob. 4. 15", ["Tob.4.15"], label="Tob. is Tobit")
+one("Esth. 14. 3", ["AddEsth.14.3"], label="Esth. past chapter 10 is the Rest of Esther, in the KJV's numbering")
+one("Jud. 5. 3", ["Judg.5.3"], label="Jud. 5. 3 stays Judges: a canonical book that fits beats Judith")
+one("Judith 8. 1", ["Jdt.8.1"], label="Judith written out is Judith")
+one("Epistle of Jeremy 4", ["Bar.6.4"], label="the Epistle of Jeremy is Baruch 6 in the KJV")
+one("Song of the Three Children 28", ["PrAzar.1.28"], label="a name of several words")
+one("Bel and the Dragon 3", ["Bel.1.3"], label="Bel and the Dragon")
+d = S.find("Prayer of Manasses 7")
+check("the Prayer of Manasses (one unnumbered paragraph in the KJV): any verse links to its one unit, as a part",
+      d and d[0].get("osis") == "PrMan.1.1" and d[0].get("mapped") == "part", d)
+check("a bare 'Manasses 1' is a person, not a citation", osis("Manasses 1 was king") == [])
+one("2 Esdras 7. 32", ["2Esd.7.32"], label="2 Esdras (Protestant) is the apocryphal 2 Esdras")
 one("Eccles. 12. 13", ["Eccl.12.13"], label="Eccles. is Ecclesiastes")
 d = S.find("Miriam, Numb. xii. 24,")
 check("a citation of no real verse is KEPT as not-a-verse, never linked, never dropped",
