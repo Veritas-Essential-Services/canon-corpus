@@ -882,5 +882,87 @@
    "redistribute_whole": false,
    "note": "Licence permits redistribution; the maintainers request you point people at github.com/STEPBible rather than mirror it. Quote and cite freely WITH attribution; do not serve or ship the whole lexicon."
   }
+ },
+ "lsj-perseus": {
+  "title": "A Greek-English Lexicon (Liddell-Scott-Jones)",
+  "author": "H. G. Liddell, R. Scott, H. S. Jones; Perseus Digital Library",
+  "format": "perseus-lexicon-tei",
+  "sha256": "6f40f9040cab7075e01118b70e573339abea3b1722e4da57e228a31a1074e78b",
+  "units": 116497,
+  "scheme": {
+   "citation": "headword (Beta Code key converted to Unicode; ~hN = LSJ's homograph number)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "422,262 quotations carry a CTS URN, kept as links with resolved: false until the Perseus shelf exists to resolve them."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University",
+   "source_url": "https://github.com/PerseusDL/lexica",
+   "share_alike": true,
+   "note": "May be shared whole with attribution; anything built on it is CC BY-SA too."
+  }
+ },
+ "abbott-smith": {
+  "title": "A Manual Greek Lexicon of the New Testament",
+  "author": "G. Abbott-Smith (1922); TEI by translatable-exegetical-tools",
+  "format": "abbott-smith-tei",
+  "sha256": "99821bee411626b4aa3e674040297b54b267eff86cb4f9b7ef69a8bdb18b6f90",
+  "units": 6153,
+  "scheme": {
+   "citation": "headword",
+   "resolution": "entry",
+   "honesty": "exact"
+  },
+  "rights": {
+   "license": "Public domain",
+   "attribution": "G. Abbott-Smith, 1922; markup by translatable-exegetical-tools",
+   "source_url": "https://github.com/translatable-exegetical-tools/Abbott-Smith",
+   "note": "The repository states the lexicon and its markup are in the public domain."
+  }
+ },
+ "lewis-short": {
+  "title": "A Latin Dictionary (Lewis & Short)",
+  "author": "C. T. Lewis & C. Short (1879); Perseus Digital Library",
+  "format": "perseus-lexicon-tei",
+  "sha256": "a21c3799f42d33931b463c19a036b0e5c4a6504ccbd81ee55a262421a9e1836c",
+  "units": 51645,
+  "scheme": {
+   "citation": "headword key (Perseus's, with its homograph digit)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "289,309 quotations carry a CTS URN, kept as links with resolved: false."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University",
+   "source_url": "https://github.com/PerseusDL/lexica",
+   "share_alike": true,
+   "note": "May be shared whole with attribution; anything built on it is CC BY-SA too."
+  }
+ },
+ "step-greek-supplement": {
+  "title": "STEPBible Greek supplement: the Septuagint vocabulary, the Strong's splits, and the words the open lexicons lack",
+  "author": "STEPBible.org / Tyndale House Cambridge",
+  "format": "lexicon-tsv-subset",
+  "sha256": "1b0df6eda3142fda99113e8133f0649449fe886e3a3291795f05160b2a8cb8e7",
+  "units": 4329,
+  "scheme": {
+   "citation": "Extended Strong's number (e.g. G0001G)",
+   "resolution": "entry",
+   "honesty": "exact",
+   "note": "4,329 of 9,550 STEP keys: 3,841 beyond-strongs, 585 not-in-perseus-or-abbott-smith, 297 split, 71 tflsj-text-set-aside (an entry can be in more than one)."
+  },
+  "rights": {
+   "license": "CC BY 4.0",
+   "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data",
+   "subset_of": [
+    "tbesg-greek",
+    "lsj-greek"
+   ],
+   "shareable": true,
+   "note": "A selection, not the lexicon: only entries numbered G6000+, the splits of one Strong's number, and headwords lsj-perseus and abbott-smith lack; one text per entry. Ruled by Adam 2026-09-29. Corrections belong upstream at github.com/STEPBible."
+  }
  }
 }

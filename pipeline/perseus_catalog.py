@@ -8,17 +8,19 @@ keep Word Hoard layers separate, cite by URN.
     python3 pipeline/perseus_catalog.py --fetch   # shallow-clone the repos, then catalog
     python3 pipeline/perseus_catalog.py           # catalog what is already here
 
-The repos land in data/corpus/perseus/<repo>/ (gitignored, ~1.1 GB for all
+The repos land in data/corpus/perseus-repos/<repo>/ (gitignored, ~1.1 GB for all
 three). 2026-09-28 gathered them as GitHub master-branch zips; both zips were
-cut off partway (no central directory; see _to_delete/). A shallow clone is
+cut off partway (no central directory; see _to_delete/). NOT data/corpus/perseus/:
+that folder is fetch_sources.py's one-file-per-book shelf, and structure_texts.py
+converts every entry in it -- a repo folder there breaks the build. A shallow clone is
 resumable where a 400 MB zip is not, so --fetch clones. A zip named
-<repo>.zip, here or in data/corpus/perseus/, is still read if no clone exists.
+<repo>.zip, here or in data/corpus/perseus-repos/, is still read if no clone exists.
 The commit each clone was cataloged at is written beside the CSV."""
 import csv, json, os, subprocess, sys, zipfile, xml.etree.ElementTree as ET
 from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DEST = os.path.join(HERE, "..", "data", "corpus", "perseus")
+DEST = os.path.join(HERE, "..", "data", "corpus", "perseus-repos")
 REPOS = ("canonical-greekLit", "canonical-latinLit")
 EXTRA = ("lexica",)  # fetched for the dictionaries (LSJ, Lewis & Short); no __cts__ works to catalog
 NS = {"ti": "http://chs.harvard.edu/xmlns/cts", "dc": "http://purl.org/dc/elements/1.1/"}

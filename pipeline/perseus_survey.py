@@ -34,7 +34,7 @@ sys.path.insert(0, HERE)
 import cts
 
 ROOT = os.path.join(HERE, "..")
-PERSEUS = os.path.join(ROOT, "data", "corpus", "perseus")
+PERSEUS = os.path.join(ROOT, "data", "corpus", "perseus-repos")
 OUT = os.path.join(ROOT, "data", "perseus")
 PD_THROUGH = 1930  # US: published 1930 or earlier is public domain as of 2026-01-01
 

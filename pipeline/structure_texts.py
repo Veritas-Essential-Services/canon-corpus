@@ -19,7 +19,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html
+import os, re, json, hashlib, html, glob
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -1409,6 +1409,22 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    # The shareable lexicons and the STEPBible supplement (lexica.py; Adam 2026-09-29).
+    import lexica
+    lexdir = os.path.join(CORPUS, "lexicons")
+    lsj_paths = sorted(glob.glob(os.path.join(lexdir, "perseus-lsj", "grc.lsj.perseus-eng*.xml")))
+    as_path = os.path.join(lexdir, "abbott-smith.tei.xml")
+    ls_path = os.path.join(lexdir, "lewis-short.xml")
+    step = [os.path.join(lexdir, f) for f in ("tbesg-greek.txt", "tflsj-greek-0-5624.txt", "tflsj-greek-extra.txt")]
+    if len(lsj_paths) == 27:
+        jobs.append(("lsj-perseus", lambda: lexica.convert_lsj_perseus(lsj_paths)))
+    if os.path.exists(as_path):
+        jobs.append(("abbott-smith", lambda: lexica.convert_abbott_smith(as_path)))
+    if os.path.exists(ls_path):
+        jobs.append(("lewis-short", lambda: lexica.convert_lewis_short(ls_path)))
+    if len(lsj_paths) == 27 and os.path.exists(as_path) and all(os.path.exists(p) for p in step):
+        jobs.append(("step-greek-supplement",
+                     lambda: lexica.convert_step_supplement(step[0], step[1:], lsj_paths, as_path)))
     for slug, files, title, author, note in (
         ("tbesg-greek", ["tbesg-greek.txt"],
          "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",

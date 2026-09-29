@@ -102,6 +102,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/perseus_catalog.py --fetch        # Perseus Greek+Latin+lexica, shallow clones (~1.1 GB, gitignored)
     python3 pipeline/perseus_survey.py [--check]       # every Perseus edition measured by its own citation scheme; shelves NOTHING
     python3 tests/cts_test.py                          # the CapiTainS reader (pipeline/cts.py)
+    python3 tests/lexica_test.py                       # Beta Code, the shareable lexicons, the STEP supplement's rules
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
@@ -255,6 +256,35 @@ nothing but the manifest pointer is ever committed. Each built book carries a
 manifest, so **a consumer sees the limit without opening the book**. 🔴 Armarium
 may quote, cite and link with attribution; it must not serve or ship the whole
 lexicon. A test asserts the block survives.
+
+### The shareable lexicons, and STEP only for what they lack (Adam, 2026-09-29)
+
+**Ruling:** the public Greek and Latin lexicons are ones that may be shared
+whole, and STEPBible is used **only** for entries they lack plus the two
+things STEP did that nobody else has: its Septuagint / beyond-Strong's
+vocabulary (G6000+) and its splits of one Strong's number into the words it
+covers (G0001G α / G0001H ἆ). `pipeline/lexica.py`; sources pinned in
+`LEXICONS` (fetch_sources.py); `tests/lexica_test.py`.
+
+| book | source | licence | entries |
+|---|---|---|---|
+| `lsj-perseus` | Perseus LSJ TEI (Greek in Beta Code → `betacode.py`) | CC BY-SA 4.0 | 116,497; 422,262 quotations kept as CTS-URN links, `resolved: false` |
+| `abbott-smith` | translatable-exegetical-tools TEI, carries Strong's numbers | public domain (text and markup, per its README) | 6,153 |
+| `lewis-short` | Perseus L&S TEI, the eng2 file (Unicode Greek) | CC BY-SA 4.0 | 51,645; 289,309 CTS-URN links |
+| `step-greek-supplement` | STEP TBESG + TFLSJ, a **selection** | CC BY 4.0, `shareable: true`, `subset_of` both | 4,329 of 9,550 keys |
+
+Supplement rules, each frozen as a test: a word counts as missing only when
+**neither** STEP spelling is in lsj-perseus or abbott-smith; **one text per
+entry**, the TFLSJ body where STEP has both, **unless that body opens on
+another headword** (71 do; G0001H ἆ carries ἔα's body), when the brief TBESG
+text is used and `lex.step_edition` says so; a relation whose target is left
+out points at the public `strongs-greek` entry; each entry links its LSJ and
+Abbott-Smith matches. The whole STEP books (`tbesg-greek`, `lsj-greek`) are
+unchanged and stay `redistribute_whole: false`.
+
+⚠️ **Armarium does not read `rights` yet.** Its per-book download serves any
+book whole, the two STEP books included. The fix belongs in armarium
+(refuse `/download/<slug>` when `redistribute_whole` is false).
 
 ### Three ways to read this file that lose text, and all three are wrong
 

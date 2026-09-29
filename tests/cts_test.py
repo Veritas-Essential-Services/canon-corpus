@@ -137,7 +137,7 @@ check("rights prompt: any later printing asks for a reading", ps.rights_prompt([
 check("rights prompt: no date", ps.rights_prompt([]) == "no imprint date")
 
 # --- against the real collection, when it is here
-PERSEUS = os.path.join(HERE, "..", "data", "corpus", "perseus")
+PERSEUS = os.path.join(HERE, "..", "data", "corpus", "perseus-repos")
 real = os.path.join(PERSEUS, "canonical-latinLit", "data", "phi0448", "phi001", "phi0448.phi001.perseus-lat2.xml")
 if os.path.exists(real):
     c = cts.convert_cts(real, "caesar-bg")

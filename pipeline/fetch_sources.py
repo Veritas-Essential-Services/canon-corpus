@@ -125,7 +125,30 @@ LEXICONS = {
         "by Eliran Wong from Bible Analyzer data, scripture refs parsed by Stephen "
         "Ku et al. 10,022 entries, median 1,184 chars (the real thing, not the "
         "2.7MB abridged outline in OpenScriptures/HebrewLexicon)."),
+    # 2026-09-29, Adam's ruling: the PUBLIC Greek and Latin lexicons are ones
+    # that may be shared whole; STEPBible is used only for what they lack
+    # (lexica.py, step-greek-supplement). Pinned to the commits read that day.
+    "abbott-smith": (
+        "https://raw.githubusercontent.com/translatable-exegetical-tools/Abbott-Smith/"
+        "8c00cb244761aa23659421a8cbbbf7a3b27b7d59/abbott-smith.tei.xml",
+        "abbott-smith.tei.xml",
+        "Abbott-Smith, A Manual Greek Lexicon of the New Testament (1922). README: 'The "
+        "lexicon (abbott-smith.tei.xml), including the marked up version in this "
+        "repository, is in the public domain.' 6,153 entries."),
+    "lewis-short": (
+        "https://raw.githubusercontent.com/PerseusDL/lexica/56061ca127f4a2844980baffc5f2b6d1332897b3/"
+        "CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng2.xml",
+        "lewis-short.xml",
+        "Lewis & Short, A Latin Dictionary (1879), Perseus TEI, CC BY-SA 4.0 (license.md "
+        "read). The eng2 file: its Greek is Unicode. 51,645 entries."),
 }
+# The full Liddell-Scott-Jones, Perseus TEI, CC BY-SA 4.0 -- one file per letter.
+for _n in range(1, 28):
+    LEXICONS[f"lsj-perseus-{_n:02d}"] = (
+        "https://raw.githubusercontent.com/PerseusDL/lexica/56061ca127f4a2844980baffc5f2b6d1332897b3/"
+        f"CTS_XML_TEI/perseus/pdllex/grc/lsj/grc.lsj.perseus-eng{_n}.xml",
+        f"perseus-lsj/grc.lsj.perseus-eng{_n}.xml",
+        f"Liddell-Scott-Jones (Perseus, CC BY-SA 4.0), part {_n} of 27; 116,497 entries in all.")
 
 
 # slug -> (author, work, note)  — all probed 200 on 2026-07-21
