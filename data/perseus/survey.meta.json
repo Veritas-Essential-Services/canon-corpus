@@ -1,0 +1,107 @@
+{
+ "licence": "Rows are facts about Perseus Digital Library editions (CC BY-SA 4.0, github.com/PerseusDL); no text is stored here.",
+ "pd_through": 1930,
+ "perseus_commits": {
+  "canonical-greekLit": "bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6",
+  "canonical-latinLit": "cc843833e101992ba54549005273cfe61a33504b"
+ },
+ "status": {
+  "empty": 4,
+  "missing-file": 7,
+  "no-scheme": 23,
+  "ok": 2045,
+  "parse-error": 18
+ },
+ "totals": {
+  "edition/eng/imprint <= 1930": {
+   "chars": 91495,
+   "editions": 1,
+   "units": 83
+  },
+  "edition/grc/imprint 1931+: read": {
+   "chars": 13327855,
+   "editions": 164,
+   "units": 51270
+  },
+  "edition/grc/imprint <= 1930": {
+   "chars": 53790847,
+   "editions": 649,
+   "units": 241902
+  },
+  "edition/grc/no imprint date": {
+   "chars": 4317,
+   "editions": 1,
+   "units": 1
+  },
+  "edition/lat/imprint 1931+: read": {
+   "chars": 9560932,
+   "editions": 43,
+   "units": 64220
+  },
+  "edition/lat/imprint <= 1930": {
+   "chars": 34088938,
+   "editions": 290,
+   "units": 228142
+  },
+  "edition/lat/no imprint date": {
+   "chars": 1974527,
+   "editions": 7,
+   "units": 11339
+  },
+  "translation/ara/imprint 1931+: read": {
+   "chars": 60507,
+   "editions": 1,
+   "units": 26
+  },
+  "translation/deu/imprint <= 1930": {
+   "chars": 2942128,
+   "editions": 2,
+   "units": 1853
+  },
+  "translation/eng/imprint 1931+: read": {
+   "chars": 22113673,
+   "editions": 255,
+   "units": 72609
+  },
+  "translation/eng/imprint <= 1930": {
+   "chars": 76514336,
+   "editions": 618,
+   "units": 168495
+  },
+  "translation/eng/no imprint date": {
+   "chars": 96026,
+   "editions": 5,
+   "units": 318
+  },
+  "translation/fre/imprint <= 1930": {
+   "chars": 2475255,
+   "editions": 2,
+   "units": 1834
+  },
+  "translation/ger/imprint 1931+: read": {
+   "chars": 17928,
+   "editions": 1,
+   "units": 13
+  },
+  "translation/ger/imprint <= 1930": {
+   "chars": 35761,
+   "editions": 1,
+   "units": 59
+  },
+  "translation/grc/imprint 1931+: read": {
+   "chars": 135531,
+   "editions": 2,
+   "units": 226
+  },
+  "translation/ita/imprint <= 1930": {
+   "chars": 1170375,
+   "editions": 1,
+   "units": 917
+  },
+  "translation/lat/imprint <= 1930": {
+   "chars": 1144088,
+   "editions": 2,
+   "units": 3650
+  }
+ }
+}

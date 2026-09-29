@@ -16,10 +16,16 @@ provenance) is the committed record of the collection.
 
 ## Consumers
 
-- [armarium](../armarium) — the personal Libronix (search, reverse
-  concordance, reader). Expects this repo as a sibling checkout.
-- patrimonium — the Nomenclator's card backs.
-- Memoria / the Resolver — future.
+- [armarium](../armarium) — the Libronix-style library at armarium.thewordhoard.com.
+  Its bootstrap clones this repo, runs `fetch_sources.py`, `structure_texts.py`
+  and `ingest_adler.py`, and indexes `data/books/*.json`. The only consumer that
+  runs this repo's code.
+- The Word Hoard house — shares the uid id space (`data/uids/`, `shared_space`)
+  and checks its uid grammar against `pipeline/wh_uid.py`.
+- The Mnemonicon — imports the hymn packs in `exports/mnemonicon/` by hand.
+- The Florilegium, Oratorium and KCCS rooms — follow `commonplace_contract.json`
+  (the shape of a kept quotation), not any file here.
+- patrimonium (card backs), Memoria and the Resolver — planned, not yet wired.
 
 ## Tests
 
@@ -30,6 +36,7 @@ provenance) is the committed record of the collection.
     python3 tests/reader_test.py            # the reader: deterministic, self-contained, every token (D5)
     python3 tests/review_test.py            # review.py end to end, on a temp copy of the repo
     python3 tests/remint_maxims_test.py     # remint_maxims.py end to end, on a temp copy
+    python3 tests/cts_test.py               # the Perseus CapiTainS reader and survey
 
 ## Adam's review sheets
 

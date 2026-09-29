@@ -99,6 +99,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
     node tests/mnemonicon_pack_browser_test.js         # import into the real page (Playwright, temp copy)
+    python3 pipeline/perseus_catalog.py --fetch        # Perseus Greek+Latin+lexica, shallow clones (~1.1 GB, gitignored)
+    python3 pipeline/perseus_survey.py [--check]       # every Perseus edition measured by its own citation scheme; shelves NOTHING
+    python3 tests/cts_test.py                          # the CapiTainS reader (pipeline/cts.py)
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
@@ -142,6 +145,13 @@ The living truth for project state is the Obsidian vault:
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
+- pipeline/cts.py — reads ANY Perseus (CapiTainS) TEI file by the citation
+  scheme it declares (refsDecl), so one converter covers the collection;
+  convert_cts() emits the usual {id, ref, text, links[]} with the CTS URN
+  in the source block and a CC BY-SA rights block. NOT wired into any shelf:
+  data/perseus/survey.jsonl (COMMITTED, facts only, no text) measures all
+  2,097 editions for Adam's scope + rights decision (perseus_survey.py).
+  convert_tei stays as it is: the three existing Perseus books keep their ids.
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
