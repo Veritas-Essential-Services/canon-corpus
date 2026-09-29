@@ -142,6 +142,47 @@ check("supplement: rights name STEPBible, CC BY 4.0, subset, shareable",
       s["rights"]["license"] == "CC BY 4.0" and "STEPBible" in s["rights"]["attribution"]
       and s["rights"]["shareable"] and s["rights"]["subset_of"] == ["tbesg-greek", "lsj-greek"])
 
+# ---------------------------------------------------------------- enrichment (facts, not STEP's text)
+LSJE = write("grc.lsj.perseus-eng5.xml", """<TEI.2><text><body><div0>
+<entryFree id="e1" key="a)ga/ph" type="main"><orth lang="greek">a)ga/ph</orth>, love,
+ <bibl n="urn:cts:greekLit:tlg0031.tlg006.perseus-grc1:5:8">Ep.Rom. 5.8</bibl>,
+ <bibl n="urn:cts:greekLit:tlg0031.tlg126:1:12">Ep.Jud. 12</bibl>,
+ <bibl n="urn:cts:greekLit:tlg0527.tlg027:22:1">LXX Ps. 22.1</bibl>,
+ <bibl>Ev.Matt. 5.3</bibl>, <bibl>Ge. 1.1</bibl>,
+ <bibl n="urn:cts:greekLit:tlg0059.tlg030.perseus-grc1:327a">Pl. R. 327a</bibl></entryFree>
+<entryFree id="e2" key="ku/wn1" type="main"><orth lang="greek">ku/wn</orth>, dog, <foreign lang="greek">ku/wn fu/lac</foreign></entryFree>
+<entryFree id="e3" key="ku/wn2" type="main"><orth lang="greek">ku/wn</orth>, a throw at dice</entryFree>
+</div0></body></text></TEI.2>""")
+eb = lexica.convert_lsj_perseus([LSJE])
+kjv_ids = {"kjv:Rom.5.8", "kjv:Matt.5.3", "kjv:Jude.1.12"}
+full_e = {"G0026": ("ἀγάπη", "", "", "love", "ἀγάπη love NT.Rom.5.8", "", ""),
+          "G2965": ("κύων", "", "", "dog", "κύων dog φύλαξ", "", "")}
+est = lexica.enrich_lsj(eb, {"0059": "Plato Phil.", "0031": "Novum Testamentum", "0527": "Septuaginta"},
+                        {"5-4 B.C.": ["0059"]}, kjv_ids, full_e, {})
+eu = {x["id"]: x for x in eb["units"]}
+el = {l["label"]: l for l in eu["lsj-perseus:ἀγάπη"]["links"] if l["kind"] == "cites"}
+check("enrich: an NT citation resolves to its KJV verse id",
+      el["Ep.Rom. 5.8"]["target"] == "kjv:Rom.5.8" and el["Ep.Rom. 5.8"]["resolved"] is True)
+check("enrich: LSJ's Jude (tlg126, not tlg026) resolves", el["Ep.Jud. 12"].get("target") == "kjv:Jude.1.12")
+check("enrich: a Septuagint citation is labelled LXX, never resolved to the KJV",
+      el["LXX Ps. 22.1"]["scripture"] == "LXX.Ps.22.1" and el["LXX Ps. 22.1"]["versification"] == "lxx"
+      and el["LXX Ps. 22.1"]["resolved"] is False and "target" not in el["LXX Ps. 22.1"])
+check("enrich: an untagged NT label is read and resolved", el["Ev.Matt. 5.3"].get("target") == "kjv:Matt.5.3")
+check("enrich: a bare 'Ge.' with no URN is not taken for scripture", "Ge. 1.1" not in el)
+check("enrich: a classical citation names its author and century",
+      el["Pl. R. 327a"]["author"] == "Plato Phil." and el["Pl. R. 327a"]["date"] == "5-4 B.C.")
+check("enrich: STEP's number-to-word mapping gives the entry its Strong's number and a link",
+      eu["lsj-perseus:ἀγάπη"]["lex"]["strongs"] == ["G26"]
+      and {"kind": "lexical", "relation": "Strong's number (STEPBible's mapping)", "target": "strongs-greek:G26"}
+      in eu["lsj-perseus:ἀγάπη"]["links"])
+check("enrich: between LSJ homographs, the Greek of STEP's text picks the one it describes",
+      eu["lsj-perseus:κύων~h1"]["lex"].get("strongs") == ["G2965"] and "strongs" not in eu["lsj-perseus:κύων~h2"]["lex"])
+check("enrich: no STEP text goes into the entry", "NT.Rom" not in eu["lsj-perseus:ἀγάπη"]["text"])
+check("enrich: STEP's own references are the answer key, counted in the stats",
+      est["check: NT refs, both"] == 1 and est["check: NT refs, STEP's"] == 1)
+check("enrich: the rights name the CLTK tables and STEP's mapping",
+      [e["license"] for e in eb["rights"]["enrichment"]] == ["MIT", "CC BY 4.0"])
+
 # ---------------------------------------------------------------- the real sources, if here
 L = os.path.join(HERE, "..", "data", "corpus", "lexicons")
 lsjp = glob.glob(os.path.join(L, "perseus-lsj", "*.xml"))

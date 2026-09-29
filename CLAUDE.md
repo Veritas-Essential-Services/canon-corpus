@@ -292,6 +292,18 @@ the COMMITTED `data/lexicons/step-preference-candidates.jsonl`; Adam answers
 `docs/review/2026-09-29-step-preference.md`; a `step` answer joins the supplement as
 `preferred-by-review`, a `perseus` answer never removes what the rules take.
 
+**Enrichment: STEP's usability, built on the open text (2026-09-29).** `lexica.enrich_lsj`
+adds to `lsj-perseus` the facts that make STEP's edition easier, using none of STEP's
+text: author name and century on 417,383 of 422,751 citations (CLTK TLG canon tables, MIT,
+pinned); 4,356 of 4,387 NT citations resolved to their KJV verse id (`kjv:Rom.5.8`); 6,042
+Septuagint citations labelled `LXX.Ps.22.1`, versification `lxx`, NOT resolved (LXX
+numbering is not the KJV's); Strong's numbers on 8,077 entries from STEP's
+number-to-word mapping, matched on the ACCENTED headword and, between homographs, by the
+Greek of STEP's text. LSJ cites Jude as `tlg0031.tlg126` and Judges as `tlg0527.tlg009`. An
+untagged citation is read from its label only when unmistakable (`Ev.Matt.`, `LXX Ge.`;
+never a bare `Ge.`). STEP's own NT references are the answer key, counted every build in
+`scheme.enrichment`: 93.5% of ours are also STEP's, and we have 94.3% of STEP's.
+
 ⚠️ **Armarium does not read `rights` yet.** Its per-book download serves any
 book whole, the two STEP books included. The fix belongs in armarium
 (refuse `/download/<slug>` when `redistribute_whole` is false).

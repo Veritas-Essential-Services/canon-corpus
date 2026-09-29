@@ -142,6 +142,14 @@ LEXICONS = {
         "Lewis & Short, A Latin Dictionary (1879), Perseus TEI, CC BY-SA 4.0 (license.md "
         "read). The eng2 file: its Greek is Unicode. 51,645 entries."),
 }
+# Facts for enriching lsj-perseus (lexica.enrich_lsj): the TLG canon's author
+# names and dates, from the Classical Language Toolkit (MIT), pinned to v0.1.111.
+for _f in ("author_date", "id_author"):
+    LEXICONS[f"cltk-tlg-{_f}"] = (
+        "https://raw.githubusercontent.com/cltk/cltk/a58c2e45e32394337a5913d30923a3cf7d0df0ab/"
+        f"cltk/corpus/greek/tlg/{_f}.json",
+        f"cltk-tlg-{_f}.json",
+        f"CLTK TLG canon table {_f} (MIT): author names and centuries for LSJ's citations.")
 # The full Liddell-Scott-Jones, Perseus TEI, CC BY-SA 4.0 -- one file per letter.
 for _n in range(1, 28):
     LEXICONS[f"lsj-perseus-{_n:02d}"] = (

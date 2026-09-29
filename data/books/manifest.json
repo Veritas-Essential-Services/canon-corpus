@@ -893,14 +893,43 @@
    "citation": "headword (Beta Code key converted to Unicode; ~hN = LSJ's homograph number)",
    "resolution": "entry",
    "honesty": "exact",
-   "note": "422,262 quotations carry a CTS URN, kept as links with resolved: false until the Perseus shelf exists to resolve them."
+   "note": "422,262 quotations carry a CTS URN, kept as links; they stay resolved: false until something resolves them (NT verses: scheme.enrichment); 489 scripture citations without one were read from their label.",
+   "enrichment": {
+    "LXX": 6042,
+    "NT": 4387,
+    "NT resolved to a KJV verse": 4356,
+    "STEP keys placed": 8190,
+    "Strong's: homographs tied": 9,
+    "check: NT refs, STEP's": 4185,
+    "check: NT refs, both": 3946,
+    "check: NT refs, ours": 4220,
+    "citations": 422751,
+    "entries given a Strong's number": 8077,
+    "with author": 417383,
+    "with date": 417383
+   }
   },
   "rights": {
    "license": "CC BY-SA 4.0",
    "attribution": "Perseus Digital Library, Tufts University",
    "source_url": "https://github.com/PerseusDL/lexica",
    "share_alike": true,
-   "note": "May be shared whole with attribution; anything built on it is CC BY-SA too."
+   "note": "May be shared whole with attribution; anything built on it is CC BY-SA too.",
+   "enrichment": [
+    {
+     "what": "author names and centuries on citations",
+     "source": "CLTK TLG canon tables",
+     "license": "MIT",
+     "source_url": "https://github.com/cltk/cltk"
+    },
+    {
+     "what": "Strong's numbers on entries (a number-to-word mapping, no STEP text)",
+     "source": "STEPBible.org / Tyndale House",
+     "license": "CC BY 4.0",
+     "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+     "source_url": "https://github.com/STEPBible/STEPBible-Data"
+    }
+   ]
   }
  },
  "abbott-smith": {

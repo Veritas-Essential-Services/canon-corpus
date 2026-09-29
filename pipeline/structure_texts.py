@@ -1416,8 +1416,23 @@ def main():
     as_path = os.path.join(lexdir, "abbott-smith.tei.xml")
     ls_path = os.path.join(lexdir, "lewis-short.xml")
     step = [os.path.join(lexdir, f) for f in ("tbesg-greek.txt", "tflsj-greek-0-5624.txt", "tflsj-greek-extra.txt")]
+    cltk = [os.path.join(lexdir, f"cltk-tlg-{f}.json") for f in ("id_author", "author_date")]
+
+    def lsj_job():
+        book = lexica.convert_lsj_perseus(lsj_paths)
+        if all(os.path.exists(p) for p in cltk):
+            reg = json.load(open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8"))
+            have_step = all(os.path.exists(p) for p in step)
+            full = {}
+            for p in step[1:] if have_step else []:
+                full.update(lexica.step_rows(p))
+            lexica.enrich_lsj(book, *(json.load(open(p, encoding="utf-8")) for p in cltk),
+                              {k for k in reg["uids"] if k.startswith("kjv:")},
+                              full if have_step else None,
+                              lexica.step_rows(step[0]) if have_step else None)
+        return book
     if len(lsj_paths) == 27:
-        jobs.append(("lsj-perseus", lambda: lexica.convert_lsj_perseus(lsj_paths)))
+        jobs.append(("lsj-perseus", lsj_job))
     if os.path.exists(as_path):
         jobs.append(("abbott-smith", lambda: lexica.convert_abbott_smith(as_path)))
     if os.path.exists(ls_path):

@@ -9,7 +9,8 @@ number into the different words it covers.
 
   lsj-perseus      Liddell-Scott-Jones, Perseus Digital Library TEI (CC BY-SA 4.0).
                    116,497 entries; Greek in Beta Code, converted (betacode.py).
-                   422,262 quotations carry their CTS URN: kept as links.
+                   422,262 quotations carry their CTS URN: kept as links, and
+                   enrich_lsj adds author, century, KJV verse and Strong's facts.
   abbott-smith     Abbott-Smith, Manual Greek Lexicon of the NT (1922), TEI by
                    translatable-exegetical-tools; the repo states lexicon AND
                    markup are public domain. Entries carry their Strong's number.
@@ -59,11 +60,18 @@ def _sha256(paths):
 
 
 def _cites(entry):
-    """[{kind: cites, urn, passage, label, resolved: false}] from <bibl n="urn:cts:...">."""
+    """[{kind: cites, urn, passage, label, resolved: false}] from <bibl n="urn:cts:...">.
+    A <bibl> with no URN is kept only when its label is unmistakably scripture
+    (`Ev.Matt. 5.3`, `LXX Ge. 1.2`): urn None, `untagged: true`."""
     out = []
     for b in entry.iter("bibl"):
         n = b.get("n") or ""
         if not n.startswith("urn:cts:"):
+            label = _ws("".join(b.itertext()))
+            m = RE_SCRIPTURE_LABEL.match(label)
+            if m:
+                out.append({"kind": "cites", "urn": None, "passage": m.group(2), "label": label,
+                            "resolved": False, "untagged": True})
             continue
         parts = n.split(":")
         work = ":".join(parts[:4])
@@ -71,6 +79,178 @@ def _cites(entry):
         out.append({"kind": "cites", "urn": work, "passage": passage,
                     "label": _ws("".join(b.itertext())), "resolved": False})
     return out
+
+
+# ---------------------------------------------------------------- scripture in LSJ
+# LSJ cites the New Testament as tlg0031.tlgNNN and the Septuagint as
+# tlg0527.tlgNNN (Perseus's numbering, checked 2026-09-29 against Perseus's
+# catalogue and LSJ's own labels: LSJ cites Jude as tlg126, Judges as tlg009).
+NT_WORK = {1: "Matt", 2: "Mark", 3: "Luke", 4: "John", 5: "Acts", 6: "Rom", 7: "1Cor", 8: "2Cor",
+           9: "Gal", 10: "Eph", 11: "Phil", 12: "Col", 13: "1Thess", 14: "2Thess", 15: "1Tim",
+           16: "2Tim", 17: "Titus", 18: "Phlm", 19: "Heb", 20: "Jas", 21: "1Pet", 22: "2Pet",
+           23: "1John", 24: "2John", 25: "3John", 26: "Jude", 126: "Jude", 27: "Rev"}
+LXX_WORK = {1: "Gen", 2: "Exod", 3: "Lev", 4: "Num", 5: "Deut", 6: "Josh", 8: "Judg", 9: "Judg",
+            10: "Ruth", 11: "1Sam", 12: "2Sam", 13: "1Kgs", 14: "2Kgs", 15: "1Chr", 16: "2Chr",
+            17: "1Esd", 18: "2Esd", 19: "Esth", 20: "Jdt", 21: "Tob", 23: "1Macc", 24: "2Macc",
+            25: "3Macc", 26: "4Macc", 27: "Ps", 28: "PrMan", 29: "Prov", 30: "Eccl", 31: "Song",
+            32: "Job", 34: "Sir", 35: "Wis", 36: "Hos", 37: "Amos", 38: "Mic", 39: "Joel", 40: "Obad",
+            41: "Jonah", 42: "Nah", 43: "Hab", 44: "Zeph", 45: "Hag", 46: "Zech", 47: "Mal", 48: "Isa",
+            49: "Jer", 50: "Bar", 51: "Lam", 52: "EpJer", 53: "Ezek", 54: "Sus", 56: "Dan", 58: "Bel"}
+# the labels LSJ prints, for the few citations Perseus left without a URN
+NT_LABEL = {"Ev.Matt.": "Matt", "Ev.Marc.": "Mark", "Ev.Luc.": "Luke", "Ev.Jo.": "John",
+            "Act.Ap.": "Acts", "Ep.Rom.": "Rom", "1 Ep.Cor.": "1Cor", "2 Ep.Cor.": "2Cor",
+            "Ep.Gal.": "Gal", "Ep.Eph.": "Eph", "Ep.Phil.": "Phil", "Ep.Col.": "Col",
+            "1 Ep.Thess.": "1Thess", "2 Ep.Thess.": "2Thess", "1 Ep.Ti.": "1Tim", "2 Ep.Ti.": "2Tim",
+            "Ep.Tit.": "Titus", "Ep.Philem.": "Phlm", "Ep.Hebr.": "Heb", "Ep.Jac.": "Jas",
+            "1 Ep.Pet.": "1Pet", "2 Ep.Pet.": "2Pet", "1 Ep.Jo.": "1John", "2 Ep.Jo.": "2John",
+            "3 Ep.Jo.": "3John", "Ep.Jud.": "Jude", "Apoc.": "Rev"}
+LXX_LABEL = {"Ge.": "Gen", "Ex.": "Exod", "Le.": "Lev", "Nu.": "Num", "De.": "Deut", "Jo.": "Josh",
+             "Jd.": "Judg", "Ru.": "Ruth", "1 Ki.": "1Sam", "2 Ki.": "2Sam", "3 Ki.": "1Kgs",
+             "4 Ki.": "2Kgs", "1 Ch.": "1Chr", "2 Ch.": "2Chr", "1 Es.": "1Esd", "2 Es.": "2Esd",
+             "Ne.": "2Esd", "Es.": "Esth", "Ju.": "Jdt", "To.": "Tob", "1 Ma.": "1Macc", "2 Ma.": "2Macc",
+             "3 Ma.": "3Macc", "4 Ma.": "4Macc", "Ps.": "Ps", "Prec.Man.": "PrMan", "Pr.": "Prov",
+             "Ec.": "Eccl", "Ca.": "Song", "Jb.": "Job", "Si.": "Sir", "Wi.": "Wis", "Ho.": "Hos",
+             "Am.": "Amos", "Mi.": "Mic", "Jl.": "Joel", "Ob.": "Obad", "Jn.": "Jonah", "Na.": "Nah",
+             "Hb.": "Hab", "Ze.": "Zeph", "Hg.": "Hag", "Za.": "Zech", "Ma.": "Mal", "Is.": "Isa",
+             "Je.": "Jer", "Ba.": "Bar", "La.": "Lam", "Ep.Je.": "EpJer", "Ez.": "Ezek", "Su.": "Sus",
+             "Da.": "Dan", "Bel": "Bel"}
+# STEP's NT book names, where they are not OSIS's (used only to compare)
+STEP_NT_BOOK = {"Act": "Acts", "Jam": "Jas", "1Thes": "1Thess", "2Thes": "2Thess", "Tit": "Titus",
+                "Mat": "Matt", "Mrk": "Mark", "Luk": "Luke", "Jhn": "John", "Phm": "Phlm",
+                "Jud": "Jude", "1Jn": "1John", "2Jn": "2John", "3Jn": "3John"}
+# An untagged label counts only when unmistakable: an NT label, or LXX + a book.
+# A bare "Ge." could be anything in a classical lexicon.
+RE_SCRIPTURE_LABEL = re.compile(
+    r"^(" + "|".join(re.escape(k) for k in sorted(NT_LABEL, key=len, reverse=True)) +
+    r"|LXX (?:" + "|".join(re.escape(k) for k in sorted(LXX_LABEL, key=len, reverse=True)) +
+    r"))\s*(\d+\.\d+)")
+
+
+def _scripture(link):
+    """(testament, book, chapter, verse) for a cites link, or None."""
+    m = re.match(r"(\d+)\.(\d+)", link.get("passage") or "")
+    if not m:
+        return None
+    if link.get("urn"):
+        w = re.match(r"urn:cts:greekLit:tlg(0031|0527)\.tlg(\d+)", link["urn"])
+        if not w:
+            return None
+        table = NT_WORK if w.group(1) == "0031" else LXX_WORK
+        book = table.get(int(w.group(2)))
+        test = "NT" if w.group(1) == "0031" else "LXX"
+    else:
+        lab = link["label"]
+        if lab.startswith("LXX "):
+            book = next((b for k, b in sorted(LXX_LABEL.items(), key=lambda x: -len(x[0]))
+                         if lab[4:].startswith(k)), None)
+            test = "LXX"
+        else:
+            book = next((b for k, b in sorted(NT_LABEL.items(), key=lambda x: -len(x[0]))
+                         if lab.startswith(k)), None)
+            test = "NT"
+    return (test, book, int(m.group(1)), int(m.group(2))) if book else None
+
+
+def enrich_lsj(book, id_author, author_date, kjv_ids, step_full=None, step_brief=None):
+    """Add to lsj-perseus, IN PLACE, the facts that make STEP's edition easier
+    to use, without using STEP's text (the Free Libronix vision, 2026-09-29):
+
+      * every CTS citation names its author and century (CLTK's TLG canon
+        tables, MIT): `author`, `date` on the link;
+      * every New Testament citation resolves to its KJV verse
+        (`target: kjv:Rom.5.8`, resolved: true) when that verse id exists;
+      * every Septuagint citation is labelled `scripture: LXX.Ps.22.1`,
+        versification "lxx", and stays unresolved (LXX numbering is not the
+        KJV's: a labelled hole, as BDB's);
+      * an entry STEP numbers gets its Strong's number(s): a link to
+        strongs-greek and `lex.strongs` / `lex.strongs_ext` -- a fact from
+        STEP's number-to-word mapping, matched on the ACCENTED headword, and by
+        the Greek of STEP's text where LSJ has homographs.
+
+    Returns the stats, which also go into scheme.enrichment."""
+    date_of = {i: label for label, ids in author_date.items() for i in ids}
+    st = Counter()
+    for u in book["units"]:
+        for l in u["links"]:
+            if l.get("kind") != "cites":
+                continue
+            st["citations"] += 1
+            tg = re.match(r"urn:cts:greekLit:tlg(\d{4})", l.get("urn") or "")
+            if tg:
+                if tg.group(1) in id_author:
+                    l["author"] = id_author[tg.group(1)]
+                    st["with author"] += 1
+                if tg.group(1) in date_of:
+                    l["date"] = date_of[tg.group(1)]
+                    st["with date"] += 1
+            s = _scripture(l)
+            if not s:
+                continue
+            test, bk, c, v = s
+            if test == "NT":
+                st["NT"] += 1
+                l["scripture"] = f"{bk}.{c}.{v}"
+                if f"kjv:{bk}.{c}.{v}" in kjv_ids:
+                    l["target"], l["resolved"] = f"kjv:{bk}.{c}.{v}", True
+                    st["NT resolved to a KJV verse"] += 1
+            else:
+                st["LXX"] += 1
+                l["scripture"], l["versification"] = f"LXX.{bk}.{c}.{v}", "lxx"
+    if step_full is not None:
+        by_acc = defaultdict(list)
+        for u in book["units"]:
+            by_acc[accented_key(u["lex"]["lemma"])].append(u)
+        keys = set(step_full) | set(step_brief or {})
+        for k in sorted(keys):
+            rows = [r for r in ((step_full or {}).get(k), (step_brief or {}).get(k)) if r]
+            cands = {u["id"]: u for r in rows for u in by_acc.get(accented_key(r[0]), [])}
+            if not cands:
+                continue
+            if len(cands) > 1:
+                if k not in step_full:
+                    st["Strong's: homographs, no STEP text to tell them apart"] += 1
+                    continue
+                import structure_texts as sx
+                sg = _greek_set(sx._step_body(step_full[k][4]))
+                ranked = sorted(cands.values(), key=lambda u: (-len(sg & _greek_set(u["text"])), u["id"]))
+                if len(sg & _greek_set(ranked[0]["text"])) == len(sg & _greek_set(ranked[1]["text"])):
+                    st["Strong's: homographs tied"] += 1
+                    continue
+                u = ranked[0]
+            else:
+                u = next(iter(cands.values()))
+            g = "G" + str(int(re.match(r"G(\d+)", k).group(1)))
+            lx_ = u["lex"]
+            if g not in lx_.setdefault("strongs", []):
+                lx_["strongs"].append(g)
+                if int(g[1:]) <= 5624:
+                    u["links"].append({"kind": "lexical", "relation": "Strong's number (STEPBible's mapping)",
+                                       "target": f"strongs-greek:{g}"})
+            lx_.setdefault("strongs_ext", []).append(k)
+            st["entries given a Strong's number"] += 0 if len(lx_["strongs_ext"]) > 1 else 1
+            st["STEP keys placed"] += 1
+    if step_full is not None:
+        # STEP's own NT references are the answer key: how many of ours does it
+        # also give, on the entries both hold? (STEP's book names normalised.)
+        import structure_texts as sx
+        for u in book["units"]:
+            for k in u["lex"].get("strongs_ext", []):
+                if k not in step_full:
+                    continue
+                theirs = {STEP_NT_BOOK.get(b, b) + rest for b, rest in
+                          re.findall(r"NT\.([1-3]?[A-Za-z]+)(\.\d+\.\d+)", sx._step_body(step_full[k][4]))}
+                ours = {l["scripture"] for l in u["links"] if l.get("scripture") and not l["scripture"].startswith("LXX")}
+                st["check: NT refs, ours"] += len(ours)
+                st["check: NT refs, STEP's"] += len(theirs)
+                st["check: NT refs, both"] += len(ours & theirs)
+    book["scheme"]["enrichment"] = dict(sorted(st.items()))
+    book["rights"] = dict(book["rights"], enrichment=[
+        {"what": "author names and centuries on citations", "source": "CLTK TLG canon tables",
+         "license": "MIT", "source_url": "https://github.com/cltk/cltk"},
+        {"what": "Strong's numbers on entries (a number-to-word mapping, no STEP text)",
+         "source": "STEPBible.org / Tyndale House", "license": "CC BY 4.0",
+         "attribution": STEP_ATTRIBUTION, "source_url": "https://github.com/STEPBible/STEPBible-Data"}])
+    return dict(st)
 
 
 def _lsj_text(el, greek=False):
@@ -101,7 +281,7 @@ def _lsj_id(key):
 
 
 def convert_lsj_perseus(paths, slug="lsj-perseus"):
-    units, cites = [], 0
+    units, cites, untagged = [], 0, 0
     for p in sorted(paths, key=lambda x: int(re.search(r"eng(\d+)", x).group(1))):
         for e in ET.parse(p).getroot().iter("entryFree"):
             key = e.get("key") or ""
@@ -110,7 +290,8 @@ def convert_lsj_perseus(paths, slug="lsj-perseus"):
             # Perseus's own <*> (uncertain reading) and trailing punctuation are not the headword
             lemma = re.sub(r"<\*>", "", lemma).strip(" ,.;:·|") or lemma
             links = _cites(e)
-            cites += len(links)
+            cites += sum(1 for l in links if l["urn"])
+            untagged += sum(1 for l in links if not l["urn"])
             hom = re.search(r"(\d+)$", key)
             units.append({"id": f"{slug}:{_lsj_id(key)}",
                           "ref": f"LSJ s.v. {lemma}" + (f" ({hom.group(1)})" if hom else ""),
@@ -124,8 +305,9 @@ def convert_lsj_perseus(paths, slug="lsj-perseus"):
             "rights": PERSEUS_RIGHTS,
             "scheme": {"citation": "headword (Beta Code key converted to Unicode; ~hN = LSJ's homograph number)",
                        "resolution": "entry", "honesty": "exact",
-                       "note": f"{cites:,} quotations carry a CTS URN, kept as links with resolved: false "
-                               "until the Perseus shelf exists to resolve them."},
+                       "note": f"{cites:,} quotations carry a CTS URN, kept as links; they stay resolved: false "
+                               "until something resolves them (NT verses: scheme.enrichment); "
+                               f"{untagged:,} scripture citations without one were read from their label."},
             "units": units}
 
 
