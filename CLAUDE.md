@@ -106,6 +106,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/lexica.py --candidates [--check]   # the STEP-or-Perseus review candidates (needs the lexicon sources)
     python3 pipeline/versification.py [--fetch|--check] # Septuagint -> KJV map (TVTMS tested against Swete)
     python3 tests/versification_test.py                # the map against known facts of the Greek numbering
+    python3 pipeline/scripture_refs.py "Rom. viii. 28" [--profile douay]   # resolve citations in a text
+    python3 pipeline/scripture_refs.py --survey [data/books] [--export c.tsv]  # the whole library's citations; CCEL as answer key
+    python3 tests/scripture_refs_test.py               # every convention, the hard cases, the words that are not books
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
@@ -322,6 +325,25 @@ moves a verse, the KJV verse it names shares more names 757 times, the same-numb
 (each of the 4 read: known Greek order changes, the map right). `tests/versification_test.py`.
 LSJ's Septuagint citations now resolve through it (4,297 of 6,042; 1,480 are to books the
 KJV lacks), and every resolved scripture link carries `osis`, the field Armarium indexes.
+
+**Every scripture citation in the library, found at build time (2026-09-29).**
+`pipeline/scripture_refs.py` is the master map of how old books cite scripture: a citation
+is BOOK (every name form: English, 1611 `Esay`, Latin `Sap.`, Douay `3 Kings`) + ORDINAL
+(`1`/`I`/`First`) + CHAPTER (Arabic or Roman, `cap.`/`ch.`) + VERSE (`:`/`.`/`,`/`ver.`,
+ranges, lists), plus continuations (`; 11. 36` keeps the book, `ver. 12` the chapter). The
+hard cases are a short known list, each with a rule: one abbreviation for several books
+(`Jud.`, `Phil.`, `Jo.`) is tried against the KJV's verse list, then the work's PROFILE
+decides, else it stays `ambiguous` for a person; tradition-bound names (`1 Kings` = 1 Sam in
+Douay) and Vulgate/LXX Psalm numbers follow the profile (`aquinas-*` is `douay`); words that
+are names (Job, Mark, Acts, Ruth) need a chapter AND a verse; a citation of no real verse is
+kept as `not-a-verse`, never linked, never dropped; OCR damage (`Jleb.`, `Mai.`, `Ezraix.`) is
+repaired only when unique and the verse exists, labelled `ocr`. Measured on Flavel, Spurgeon
+and Counsel texts: nothing missed but three hopeless OCR mangles. `harvest_book()` runs inside
+`structure_texts.py` and `ingest_adler.py` (the steps Armarium's bootstrap already runs), so
+every unit's `links[]` gains `{osis, raw, start, end, convention, confidence}` and Armarium
+indexes them with no change on its side. CCEL ThML books are never harvested: their scripRef
+tags are the publisher's answer key, and `--survey` scores the resolver against them.
+`tests/scripture_refs_test.py`.
 
 ⚠️ **Armarium does not read `rights` yet.** Its per-book download serves any
 book whole, the two STEP books included. The fix belongs in armarium

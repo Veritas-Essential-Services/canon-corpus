@@ -83,6 +83,8 @@ def main():
         book["scheme"]["adler_volume"] = b.get("adler_volume")
         if b.get("refine"):
             book["scheme"]["honesty"] += " — verse/drama/dialogue: paragraph-level first pass, fine-structure pending"
+        import scripture_refs           # every citation of scripture in the book, found at build time
+        scripture_refs.harvest_book(book)
         with open(out + ".tmp", "w", encoding="utf-8") as f:
             json.dump(book, f, ensure_ascii=False)
         os.replace(out + ".tmp", out)

@@ -1500,6 +1500,8 @@ def main():
             print(f"{slug}: {len(book['units'])} units (kept)")
             continue
         book = job()
+        import scripture_refs           # every citation of scripture in the book, found at build time
+        scripture_refs.harvest_book(book)
         seen = {}                       # guarantee unique unit ids (stable refs)
         for u in book["units"]:
             if u["id"] in seen:
