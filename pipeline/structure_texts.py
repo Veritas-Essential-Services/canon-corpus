@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """structure_texts.py — the structure layer: source texts -> unit-id JSON.
 
 Three converters, one output shape (the Canon Corpus JSON design, vault:

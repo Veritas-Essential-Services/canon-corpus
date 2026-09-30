@@ -1,3 +1,8 @@
+---
+model_log:
+  - 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+fable_review: pending
+---
 # Clause cuts: Lauda Sion, Sacris solemniis, Verbum supernum (2026-09-26)
 
 **For:** Adam. **From:** `pipeline/build_hymn_corpus.py`, which cut the three

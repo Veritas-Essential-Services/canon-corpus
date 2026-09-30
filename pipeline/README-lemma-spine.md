@@ -1,3 +1,9 @@
+---
+model_log:
+  - 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+  - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+fable_review: pending
+---
 # The Latin lemma spine — Whitaker's WORDS
 
 *Schema `wordhoard/lemma-table/v1`. Launch plan D3. Built by

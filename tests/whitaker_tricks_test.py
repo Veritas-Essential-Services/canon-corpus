@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 whitaker_tricks_test.py -- WORDS's SYNCOPE, SLURY, FIXES, TRICKS, Roman
 numerals and non-enclitic TACKONs as ported in pipeline/whitaker_tricks.py:

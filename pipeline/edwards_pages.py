@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-27 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """Page-address every Internet Archive Edwards volume by its OWN printed pages.
 
 For each IA item in edwards_shelf.json this reads two files IA publishes

@@ -1,3 +1,6 @@
+// prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+// prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+// fable_review: pending
 // mnemonicon_pack_browser_test.js -- the exported hymn packs, imported into the
 // real Mnemonicon page in headless Chromium (launch plan C5, first link).
 //

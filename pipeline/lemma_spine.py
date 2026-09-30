@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 lemma_spine.py -- set a token's `lemma` and `parsing` from Whitaker, against
 the house draft, without ever overwriting silently. Launch plan D3.

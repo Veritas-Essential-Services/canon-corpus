@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-27 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """Offline tests for the Word Hoard identity layer. No network, no corpus.
 Run:  python3 tests/wh_uid_test.py
 

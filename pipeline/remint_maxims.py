@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-29 claude-opus-5-5 edited docstring (kept_on paragraph)
+# fable_review: pending
 """
 remint_maxims.py -- give Adam's original maxims house uids, as Hoard records,
 WITHOUT touching the file they were filed in.
@@ -32,8 +34,11 @@ WHAT THIS DOES -- ADDITIVE, NEVER DESTRUCTIVE
     - A `kept` founder carries the kept_basis Adam ruled on 2026-09-05 (vault:
       "Word Hoard -- Maxim Unit Type and Propria", decision 3): they were kept
       the day they were coined, before the cooling-off rule existed, and a
-      corpus about exceptions should not quietly except itself. kept_on is not
-      recorded in the source, so it stays null rather than being guessed.
+      corpus about exceptions should not quietly except itself. kept_on and
+      kept_basis are carried exactly as the source files them; where the
+      source has no kept_on it stays null rather than being guessed. (The
+      v3 source, synced from the vault 2026-09-29, files kept_on 2026-09-05
+      on all three; the stale v2 this replaced filed neither field.)
 
 NOTHING IS GUESSED
     A field this script does not know, an id not of the form ak-maxim-NNNN, a

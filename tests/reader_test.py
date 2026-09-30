@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 reader_test.py -- the reverse-interlinear reader (launch plan D5):
 pipeline/render_reader.py -> build/reader/reader.html.

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 export_mnemonicon_pack.py -- the hymn JSONL as Mnemonicon import files, one per
 hymn. Launch plan C5, first link: a stanza becomes a Mnemonicon recite item

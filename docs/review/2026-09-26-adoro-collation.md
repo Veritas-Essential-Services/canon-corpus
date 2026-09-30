@@ -1,3 +1,8 @@
+---
+model_log:
+  - 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+fable_review: pending
+---
 # Adoro te: the received Latin collated against Britt 1922 (2026-09-26)
 
 **For:** Adam. **From:** `pipeline/build_hymn_corpus.py` (`collate()`), which

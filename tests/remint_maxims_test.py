@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-29 claude-opus-5-5 edited kept_on assertion (s3) + docstring item 3 + fresh() rolls temp registries back to pre-mint
+# fable_review: pending
 """
 remint_maxims_test.py -- pipeline/remint_maxims.py, end to end, on a TEMP COPY.
 
@@ -14,8 +16,8 @@ WHAT IT ASSERTS
        changes no other registry entry; the source file is untouched.
     3. Each record is a passage/maxim Hoard record: wh- uid from the registry,
        the old id and the ref in legacy[], the words, dates, status and
-       visibility as filed; kept founders carry the ruled kept_basis and no
-       invented kept_on; drafts carry none.
+       visibility as filed; kept founders carry the ruled kept_basis and
+       kept_on exactly as filed, never invented; drafts carry none.
     4. A second --write mints nothing and writes the same bytes; --check
        passes, and fails on a hand-edited output or a missing uid.
     5. Unknown fields, malformed ids, missing refs and dangling supersedes stop
@@ -76,6 +78,25 @@ def fresh():
     out = os.path.join(tmp, "maxims", "maxims-original.hoard.jsonl")
     if os.path.exists(out):
         os.remove(out)   # the test starts from before any real --write
+    # ...and so do the registries. After the real re-mint (2026-09-29) the house
+    # registry holds maxims:AK-00n and the public one reserves their uids, so
+    # the TEMP copies are rolled back to before it; the real files are never
+    # opened for writing.
+    hp = os.path.join(tmp, "uids", "house.uids.json")
+    pp = os.path.join(tmp, "uids", "wordhoard.uids.json")
+    with open(hp, encoding="utf-8") as f:
+        house = json.load(f)
+    minted = {k: v for k, v in house["uids"].items() if k.startswith("maxims:")}
+    if minted:
+        for k in minted:
+            del house["uids"][k]
+        with open(hp, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(house, f, ensure_ascii=False, indent=1, sort_keys=True)
+        with open(pp, encoding="utf-8") as f:
+            pub = json.load(f)
+        pub["reserved"] = [u for u in pub.get("reserved", []) if u not in set(minted.values())]
+        with open(pp, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(pub, f, ensure_ascii=False, indent=1, sort_keys=True)
     return tmp
 
 
@@ -136,8 +157,14 @@ def main():
                   and r["provenance"]["origin"] == s["provenance"] and r["lineage"]["revision"] == s["revision"] and r["lineage"]["supersedes"] is None)
             check(f"{tag}: never shareable, own licence", r["rights"] == {"license": "own", "shareable": False, "redistribute_whole": False})
             if s["status"] == "kept":
-                check(f"{tag}: kept on the ruled founding basis, with no invented kept_on",
-                      b["kept_basis"].startswith("founding record") and b["kept_on"] is None)
+                # kept_on is carried exactly as filed -- a date when the source
+                # records one (the vault's v3 does, 2026-09-06), null when it
+                # does not -- and never invented. (Until 2026-09-29 this line
+                # asserted `is None`, which was true only of the stale v2 source.)
+                check(f"{tag}: kept on the ruled founding basis, with kept_on as filed and never invented",
+                      b["kept_basis"].startswith("founding record")
+                      and b["kept_basis"] == (s.get("kept_basis") or b["kept_basis"])
+                      and b["kept_on"] == s.get("kept_on"))
             else:
                 check(f"{tag}: a {s['status']} carries no kept_basis", b["kept_basis"] is None and b["kept_on"] is None)
 

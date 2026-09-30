@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-06 claude-opus-5 drafted (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """Parse public-domain maxim collections into discrete numbered units."""
 import re, json, html, unicodedata, os
 

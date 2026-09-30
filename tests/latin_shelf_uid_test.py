@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-18 unknown authorship-undetermined (neither the model nor model-vs-human established from git, dates or note content; backfilled 2026-09-30 by claude-opus-5)
+# fable_review: pending
 """
 latin_shelf_uid_test.py -- the enforcement gate for wave 1 (the Latin shelf).
 

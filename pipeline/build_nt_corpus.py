@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 build_nt_corpus.py -- the Greek New Testament in the four-file corpus format,
 one row per VERSE, every record keyed by uid. Pilot: John 1:1-18.

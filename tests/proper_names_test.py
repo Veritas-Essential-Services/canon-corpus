@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 proper_names_test.py -- the house proper-names table (pipeline/proper_names.py,
 data/lemmas/proper-names/).

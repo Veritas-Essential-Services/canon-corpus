@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# prov: 2026-07-22 claude-fable-5 drafted (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-06 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-09-07 claude-opus-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """Offline test suite for the structure layer (canon-corpus). No network,
 no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
 

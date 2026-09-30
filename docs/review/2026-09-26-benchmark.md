@@ -1,3 +1,9 @@
+---
+model_log:
+  - 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+  - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+fable_review: pending
+---
 # The WORDS port against the Clementine Vulgate (2026-09-26)
 
 *How much of a real ecclesiastical Latin text the lemma spine's analyzer

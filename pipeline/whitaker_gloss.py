@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 whitaker_gloss.py -- a DICTIONARY gloss for a Latin token, from the English
 meaning line of its Whitaker's WORDS entry, by a fixed rule. The Latin twin of

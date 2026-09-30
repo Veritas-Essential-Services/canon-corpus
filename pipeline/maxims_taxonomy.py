@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-06 claude-opus-5 drafted (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """Classify the maxim corpus on three axes: FORM, SCOPE, SUBJECT.
 
 Axis 1 FORM   - the rhetorical shape of the sentence (how it is built)

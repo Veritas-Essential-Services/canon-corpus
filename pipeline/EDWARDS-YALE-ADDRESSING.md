@@ -1,3 +1,8 @@
+---
+model_log:
+  - 2026-09-27 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
+fable_review: pending
+---
 # Putting Yale numbering on the public-domain Edwards
 
 Goal: every public-domain Edwards passage in the Word Hoard should carry its

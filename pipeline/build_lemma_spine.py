@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# fable_review: pending
 """
 build_lemma_spine.py -- the Latin lemma table from Whitaker's WORDS, and the
 committed analyses the hymn build reads. Launch plan D3.
