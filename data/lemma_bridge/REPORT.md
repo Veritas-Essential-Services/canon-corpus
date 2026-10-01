@@ -11,12 +11,12 @@ comparative or plural of one).
 
 | archaic forms | distinct forms | share |
 |---|---:|---:|
-| Bridged | 485 | 88% |
+| Bridged | 488 | 88% |
 | Needs review (`needs_review.csv`, not used by search) | 12 | 2% |
 | Unbridged | 56 | 10% |
-| **Total** | **553** | |
+| **Total** | **556** | |
 
-The bridged archaic forms occur 4361 times in the two books.
+The bridged archaic forms occur 4374 times in the two books.
 
 Not counted above:
 
@@ -33,10 +33,10 @@ Not counted above:
 | D-1913 | 20 |
 | R3-edst | 9 |
 | P-pronoun | 6 |
+| R5-regular | 5 |
 | R4-st | 4 |
-| R5-regular | 2 |
 
-Most frequent: thy (901), thou (665), thee (375), hath (200), hast (197), thine (151), ye (135), art (77), shalt (74), wilt (48), endureth (46), maketh (37), doth (32), thyself (32), shew (27), cometh (26), giveth (25), loveth (23), bringeth (22), keepeth (21), walketh (19), doeth (18), speaketh (18), didst (17), goeth (17), knoweth (17), heareth (14), saith (14), taketh (13), causeth (12), hateth (12), seeketh (11), trusteth (11), delivereth (10), despiseth (10), findeth (10), hideth (10), makest (10), sitteth (10), smote (10), covereth (9), defence (9), feareth (9), turneth (9), lieth (8), mayest (8), sheweth (8), spake (8), faileth (7), increaseth (7), preserveth (7), rejoiceth (7), setteth (7), casteth (6), considereth (6), crieth (6), deviseth (6), dwelleth (6), flattereth (6), fulness (6)
+Most frequent: thy (901), thou (665), thee (375), hath (200), hast (197), thine (151), ye (135), art (77), shalt (74), wilt (48), endureth (46), maketh (37), doth (32), thyself (32), shew (27), cometh (26), giveth (25), loveth (23), bringeth (22), keepeth (21), walketh (19), doeth (18), speaketh (18), didst (17), goeth (17), knoweth (17), heareth (14), saith (14), taketh (13), causeth (12), hateth (12), seeketh (11), shewed (11), trusteth (11), delivereth (10), despiseth (10), findeth (10), hideth (10), makest (10), sitteth (10), smote (10), covereth (9), defence (9), feareth (9), turneth (9), lieth (8), mayest (8), sheweth (8), spake (8), faileth (7), increaseth (7), preserveth (7), rejoiceth (7), setteth (7), casteth (6), considereth (6), crieth (6), deviseth (6), dwelleth (6), flattereth (6)
 
 ## Needs review (12)
 

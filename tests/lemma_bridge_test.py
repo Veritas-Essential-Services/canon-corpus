@@ -101,7 +101,9 @@ for form, lemma in [("shew", "show"), ("shewn", "show"), ("holpen", "help"), ("s
                     ("brake", "break"), ("ordaineth", "ordain"), ("sayest", "say"), ("lovedst", "love"),
                     ("thee", "you"), ("thou", "you"), ("ye", "you"), ("thy", "your"), ("thine", "your")]:
     check("%s -> %s" % (form, lemma), form in LB.expand_word(lemma, bridge))
-check("shewed reaches show through shew (porter does the -ed)", "shew" in LB.expand_word("show", bridge))
+check("shewed and shewing are listed outright, for an index with no stemmer (armarium)",
+      {"shewed", "shewing"} <= set(LB.expand_word("show", bridge)))
+check("regular endings only on old spellings: gates is not gat + -es", "gates" not in bridge["forms"])
 
 print("\n--- search behaviour ---")
 check('"you" also finds thee / thou / ye', len(search("you")) > 5 * len(refs("you")),

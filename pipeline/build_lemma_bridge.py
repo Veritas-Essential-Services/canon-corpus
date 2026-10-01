@@ -63,8 +63,9 @@ RULES = {
     'R4-st':   'Second person singular -st on a modal or a past tense: canst->can, hadst->had->have, '
                'saidst->said->say. Modals are the closed class can, could, may, might, must, shall, '
                'should, will, would, and keep their own form (couldest->could).',
-    'R5-regular': 'Regular modern ending (-ed, -d, -ing, -s, -es) on a form already in the bridge: '
-                  'same lemma (shewed->shew->show).',
+    'R5-regular': 'Regular modern ending (-ed, -d, -ing, -s, -es) on an old SPELLING already in the '
+                  'bridge: same lemma (shewed->shew->show, enquired->enquire->inquire). Never on an old '
+                  'inflection (gates is not gat + -es).',
     'D-1828':  'Webster 1828: a form entry ("GAT, preterit tense of get."); a verb entry that lists its '
                'preterit/participle ("FORSAKE ... preterit tense forsook"), or marks one obsolete ("[forgat, '
                'obsolete]", "Holden is obsolete", "holp and holpen being obsolete"); "It is sometimes '
@@ -573,13 +574,14 @@ def build(extra_texts):
         if not changed:
             break
 
-    # 6. R5: regular modern endings on a bridged archaic form (shewed, shewing)
+    # 6. R5: regular modern endings on a bridged archaic form (shewed, shewing). Listed
+    #    even though a porter index would find them: armarium's index has no stemmer.
     for form in sorted(corpus.lower_seen):
-        if form in bridge.main or form in modern or modern_inflection(form, modern):
+        if form in bridge.main or form in modern:
             continue
         for suf, rep in [('ed', ''), ('d', ''), ('ing', ''), ('ing', 'e'), ('s', ''), ('es', '')]:
             b = form[:-len(suf)] + rep if form.endswith(suf) else None
-            if b and b in bridge.main and bridge.main[b]['rule'] != 'P-pronoun' and not bridge.main[b]['homograph']:
+            if b and b in bridge.main and is_spelling_variant(bridge.main[b]):
                 bridge.add(form, bridge.main[b]['lemmas'], 'R5-regular', 'rule', '%s + -%s' % (b, suf))
                 break
     mark_homographs()
@@ -588,6 +590,14 @@ def build(extra_texts):
     bridge.review = [r for r in bridge.review
                      if r['form'] not in bridge.main or 'which the bridge uses' in r['reason']]
     return bridge, corpus, kjv, modern
+
+
+def is_spelling_variant(entry):
+    """An old SPELLING of a modern verb (shew, enquire, stablish), not an old inflection
+    (gat, hast, rang): only a spelling takes regular endings, so shewed is shew + -ed but
+    gates is not gat + -es."""
+    return (not entry['homograph'] and entry['rule'].startswith('D-')
+            and re.search(r'^(?:See|Same as) |sometimes written|In lieu of this', entry['quote']) is not None)
 
 
 def only_points_to(form, lemma):
