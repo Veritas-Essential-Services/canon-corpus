@@ -79,7 +79,8 @@ RULES = {
     'P-pronoun': 'Second person pronouns (thee, thou, ye -> you; thy -> your; thine -> your, yours; '
                  'thyself -> yourself), each quoted from Webster.',
     'A-reviewed': 'Decided by a person: data/lemma_bridge/review_decisions.csv records who, when and the '
-                  'verse that settled it. "bridge" rows enter the table; "keep-out" rows leave the review '
+                  'verse that settled it. "bridge" rows enter the table ("bridge-modern" ones marked archaic: '
+                  'false); "keep-out" rows leave the review '
                   'list as decided. Never edit the JSON by hand: add a row there and rebuild.',
     'C-chain': 'A lemma that is itself an archaic form is followed to its own lemma '
                '(sheweth->shew->show).',
@@ -613,16 +614,17 @@ def apply_decisions(bridge, modern, w1913):
             if form not in pending:
                 sys.exit('review_decisions.csv: %r is not in the review list (already bridged, '
                          'or the rules changed); remove or fix that row' % form)
-            if decision == 'bridge':
+            if decision in ('bridge', 'bridge-modern'):   # bridge-modern: correct, but not archaic (undone)
                 lemmas = [l for l in row['lemmas'].split('|') if l]
                 bridge.main[form] = {'lemmas': lemmas, 'rule': 'A-reviewed',
                                      'source': 'review by %s, %s' % (row['reviewed_by'], row['reviewed_on']),
-                                     'quote': row['evidence'], 'archaic': True,
+                                     'quote': row['evidence'], 'archaic': decision == 'bridge',
                                      'homograph': is_homograph(form, lemmas, modern, w1913)}
             elif decision == 'keep-out':
                 kept_out.add(form)
             else:
-                sys.exit('review_decisions.csv: %r has decision %r (use bridge or keep-out)' % (form, decision))
+                sys.exit('review_decisions.csv: %r has decision %r (use bridge, bridge-modern or keep-out)'
+                         % (form, decision))
     bridge.review = [r for r in bridge.review if r['form'] not in kept_out
                      and not (r['form'] in bridge.main and bridge.main[r['form']]['rule'] == 'A-reviewed')]
     return kept_out
@@ -679,9 +681,10 @@ def report(bridge, modern, kjv, out):
     old = [w for w in lowered if w in bridge.main and bridge.main[w]['archaic']]
     modern_irreg = [w for w in lowered if w in bridge.main and not bridge.main[w]['archaic']]
     review = [w for w in lowered if w in review_forms and w not in bridge.main and w not in modern]
-    old_sense = [w for w in lowered if w in review_forms and w not in bridge.main and w in modern]
     kept = getattr(bridge, 'kept_out', set())
-    kept_out = [w for w in lowered if w in kept]
+    old_sense = [w for w in lowered if (w in review_forms or w in kept) and w not in bridge.main and w in modern]
+    kept_out = [w for w in lowered if w in kept and w not in bridge.main and w not in modern]   # seeth: bridged to see; only its
+                                                                            # Webster reading was kept out
     residue = [w for w in lowered if w not in bridge.main and w not in review_forms and w not in kept
                and w not in modern and not looks_modern(w, modern)]
     total = len(old) + len(review) + len(kept_out) + len(residue)
@@ -718,7 +721,7 @@ def report(bridge, modern, kjv, out):
         '* %d modern irregular forms the bridge also carries, marked `"archaic": false` (so "go" '
         'finds "went"): %s' % (len(modern_irreg), ex(modern_irreg, 25)),
         '* %d modern words that Webster 1913 alone also gives an old sense (say = "saw"). Left out of '
-        'the bridge so "see" does not drown in "say"; listed in the review file: %s' % (len(old_sense), ex(old_sense)),
+        'the bridge so "see" does not drown in "say"; reviewed and kept out (`review_decisions.csv`): %s' % (len(old_sense), ex(old_sense)),
         '',
         '## Bridged archaic forms, by how the mapping was made',
         '',

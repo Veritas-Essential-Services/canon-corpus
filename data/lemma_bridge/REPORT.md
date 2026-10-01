@@ -22,7 +22,7 @@ The bridged archaic forms occur 4384 times in the two books.
 Not counted above:
 
 * 100 modern irregular forms the bridge also carries, marked `"archaic": false` (so "go" finds "went"): is (965), made (87), am (75), said (44), brought (39), did (37), had (35), heard (32), known (32), broken (29), been (26), would (24), cried (23), gave (20), laid (20), found (18), gone (18), kept (17), might (17), sent (16), went (16), hid (15), seen (15), taken (14), lay (13)
-* 9 modern words that Webster 1913 alone also gives an old sense (say = "saw"). Left out of the bridge so "see" does not drown in "say"; listed in the review file: say (50), low (9), hot (5), slow (5), mad (2), fit (1), flow (1), halt (1), wrong (1)
+* 9 modern words that Webster 1913 alone also gives an old sense (say = "saw"). Left out of the bridge so "see" does not drown in "say"; reviewed and kept out (`review_decisions.csv`): say (50), low (9), hot (5), slow (5), mad (2), fit (1), flow (1), halt (1), wrong (1)
 
 ## Bridged archaic forms, by how the mapping was made
 
