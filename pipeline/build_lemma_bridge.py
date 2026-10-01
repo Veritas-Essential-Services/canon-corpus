@@ -78,6 +78,9 @@ RULES = {
                'point to X, or a second-person form the text uses beside "thou" (wilt, art).',
     'P-pronoun': 'Second person pronouns (thee, thou, ye -> you; thy -> your; thine -> your, yours; '
                  'thyself -> yourself), each quoted from Webster.',
+    'A-reviewed': 'Decided by a person: data/lemma_bridge/review_decisions.csv records who, when and the '
+                  'verse that settled it. "bridge" rows enter the table; "keep-out" rows leave the review '
+                  'list as decided. Never edit the JSON by hand: add a row there and rebuild.',
     'C-chain': 'A lemma that is itself an archaic form is followed to its own lemma '
                '(sheweth->shew->show).',
 }
@@ -586,10 +589,43 @@ def build(extra_texts):
                 break
     mark_homographs()
 
+    # 7. a person's decisions on review rows (review_decisions.csv)
+    bridge.kept_out = apply_decisions(bridge, modern, w1913)
+
     # a flagged form may ALSO sit in the bridge only as the other side of a conflict (seeth)
     bridge.review = [r for r in bridge.review
                      if r['form'] not in bridge.main or 'which the bridge uses' in r['reason']]
     return bridge, corpus, kjv, modern
+
+
+def apply_decisions(bridge, modern, w1913):
+    """Fold review_decisions.csv into the bridge. A decision must name a form that is
+    actually in the review list, or the build stops: a stale row is a mistake to see,
+    not one to ignore. Returns the forms decided "keep-out"."""
+    path = OUT / 'review_decisions.csv'
+    if not path.exists():
+        return set()
+    pending = {r['form'] for r in bridge.review}
+    kept_out = set()
+    with open(path, encoding='utf-8', newline='') as f:
+        for row in csv.DictReader(f):
+            form, decision = row['form'], row['decision']
+            if form not in pending:
+                sys.exit('review_decisions.csv: %r is not in the review list (already bridged, '
+                         'or the rules changed); remove or fix that row' % form)
+            if decision == 'bridge':
+                lemmas = [l for l in row['lemmas'].split('|') if l]
+                bridge.main[form] = {'lemmas': lemmas, 'rule': 'A-reviewed',
+                                     'source': 'review by %s, %s' % (row['reviewed_by'], row['reviewed_on']),
+                                     'quote': row['evidence'], 'archaic': True,
+                                     'homograph': is_homograph(form, lemmas, modern, w1913)}
+            elif decision == 'keep-out':
+                kept_out.add(form)
+            else:
+                sys.exit('review_decisions.csv: %r has decision %r (use bridge or keep-out)' % (form, decision))
+    bridge.review = [r for r in bridge.review if r['form'] not in kept_out
+                     and not (r['form'] in bridge.main and bridge.main[r['form']]['rule'] == 'A-reviewed')]
+    return kept_out
 
 
 def is_spelling_variant(entry):
@@ -644,9 +680,11 @@ def report(bridge, modern, kjv, out):
     modern_irreg = [w for w in lowered if w in bridge.main and not bridge.main[w]['archaic']]
     review = [w for w in lowered if w in review_forms and w not in bridge.main and w not in modern]
     old_sense = [w for w in lowered if w in review_forms and w not in bridge.main and w in modern]
-    residue = [w for w in lowered if w not in bridge.main and w not in review_forms
+    kept = getattr(bridge, 'kept_out', set())
+    kept_out = [w for w in lowered if w in kept]
+    residue = [w for w in lowered if w not in bridge.main and w not in review_forms and w not in kept
                and w not in modern and not looks_modern(w, modern)]
-    total = len(old) + len(review) + len(residue)
+    total = len(old) + len(review) + len(kept_out) + len(residue)
     by_rule = Counter(bridge.main[w]['rule'].split('+')[0] for w in old)
     hits = sum(pp.count[w] for w in old)
 
@@ -669,6 +707,7 @@ def report(bridge, modern, kjv, out):
         '|---|---:|---:|',
         '| Bridged | %d | %.0f%% |' % (len(old), 100 * len(old) / total),
         '| Needs review (`needs_review.csv`, not used by search) | %d | %.0f%% |' % (len(review), 100 * len(review) / total),
+        '| Reviewed and kept out (`review_decisions.csv`) | %d | %.0f%% |' % (len(kept_out), 100 * len(kept_out) / total),
         '| Unbridged | %d | %.0f%% |' % (len(residue), 100 * len(residue) / total),
         '| **Total** | **%d** | |' % total,
         '',
@@ -692,6 +731,11 @@ def report(bridge, modern, kjv, out):
         '',
         ex(review, 100) or '(none)',
         '',
+        '## Reviewed and kept out (%d)' % len(kept_out),
+        '',
+        'A person looked and decided against a mapping (reasons in `review_decisions.csv`): '
+        + (ex(kept_out, 100) or '(none)'),
+        '',
         '## Unbridged (%d)' % len(residue),
         '',
         'All of them, most frequent first:',
@@ -701,6 +745,7 @@ def report(bridge, modern, kjv, out):
     ]
     write(out / 'REPORT.md', '\n'.join(lines))
     return {'bridged': len(old), 'review': len(review), 'unbridged': len(residue), 'total': total,
+            'kept_out': len(kept_out),
             'modern_irregular': len(modern_irreg), 'old_sense': len(old_sense)}
 
 
@@ -757,7 +802,7 @@ def main():
     write(out / 'needs_review.csv', buf.getvalue())
     stats = report(bridge, modern, kjv, out)
     print('bridge forms: %d   needs review: %d' % (len(bridge.main), len(bridge.review)))
-    print('Psalms+Proverbs archaic forms: %(bridged)d bridged, %(review)d review, %(unbridged)d unbridged of %(total)d'
+    print('Psalms+Proverbs archaic forms: %(bridged)d bridged, %(review)d review, %(kept_out)d kept out, %(unbridged)d unbridged of %(total)d'
           ' (+%(modern_irregular)d modern irregulars, %(old_sense)d old-sense modern words)' % stats)
     if args.check:
         names = ['kjv_lemma_bridge.json', 'needs_review.csv', 'REPORT.md']

@@ -138,6 +138,21 @@ with open(os.path.join(REPO, "data", "lemma_bridge", "needs_review.csv"), encodi
 check('review rows stay out of search (seeth: the bridge keeps "see"; review holds Webster\'s "seethe")',
       [r for r in review if r in forms and r != "seeth"] == [])
 
+print("\n--- review decisions (data/lemma_bridge/review_decisions.csv) ---")
+import csv
+with open(os.path.join(REPO, "data", "lemma_bridge", "review_decisions.csv"), encoding="utf-8") as f:
+    decisions = list(csv.DictReader(f))
+check("12 decisions recorded, each with reviewer, date and evidence",
+      len(decisions) == 12 and all(d["reviewed_by"] and d["reviewed_on"] and d["evidence"] for d in decisions))
+for d in decisions:
+    if d["decision"] == "bridge":
+        check("bridged by review: %s -> %s" % (d["form"], d["lemmas"]),
+              forms.get(d["form"], {}).get("rule") == "A-reviewed" and d["form"] in LB.expand_word(d["lemmas"], bridge))
+    else:
+        check("kept out by review: %s" % d["form"], d["form"] not in forms and d["form"] not in review)
+check('"see" now finds Ps 50:18 ("When thou sawest a thief")', "kjv:Ps.50.18" in search("see"))
+check('"from" does not drag in every "to and fro"', "fro" not in LB.expand_word("from", bridge))
+
 print("\n--- parity: the browser function gives the same MATCH strings ---")
 QUERIES = ["show", "shew", "showed", "help", "holpen", "helped", "ordain", "you", "bear", "bare", "see",
            "smite", "go", "shew mercy", '"the LORD" show* OR mercy', "(help OR ordain)", "", "Thou art"]

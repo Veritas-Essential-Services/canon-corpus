@@ -1,0 +1,13 @@
+form,decision,lemmas,reviewed_by,reviewed_on,evidence
+afore,bridge,before,Adam,2026-10-01,"Ps 129:6 ""which withereth afore it groweth up""; Webster 1913: ""Before."""
+alway,bridge,always,Adam,2026-10-01,"Ps 9:18 ""the needy shall not alway be forgotten""; Webster 1913: ""Always."""
+arrogancy,bridge,arrogance,Adam,2026-10-01,"Prov 8:13 ""pride, and arrogancy""; Webster 1913: ""Arrogance."""
+fattest,keep-out,,Adam,2026-10-01,"Ps 78:31 ""slew the fattest of them"": a superlative of fat, not a thou-verb"
+finest,keep-out,,Adam,2026-10-01,"Ps 81:16 ""the finest of the wheat"": a superlative of fine, not a thou-verb"
+fro,keep-out,,Adam,2026-10-01,"every KJV use is ""to and fro""; bridging it to from would flood searches for from"
+sawest,bridge,see,Adam,2026-10-01,"Ps 50:18 ""When thou sawest a thief"": past of see, not saw (cut)"
+stretchest,bridge,stretch,Adam,2026-10-01,"Ps 104:2 ""who stretchest out the heavens"": a thou-verb, not a superlative"
+suretiship,bridge,suretyship,Adam,2026-10-01,"Prov 11:15 ""he that hateth suretiship is sure""; Webster 1913: ""Suretyship."""
+unperfect,bridge,imperfect,Adam,2026-10-01,"Ps 139:16 ""yet being unperfect""; Webster 1913: ""Imperfect."""
+whilst,bridge,while,Adam,2026-10-01,"Ps 141:10 ""whilst that I withal escape""; Webster 1913: ""While."""
+whoso,keep-out,,Adam,2026-10-01,"whosoever is archaic too, so the mapping would not reach modern English"
