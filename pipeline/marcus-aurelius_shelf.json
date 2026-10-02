@@ -1,0 +1,33 @@
+{
+ "_about": "Marcus Aurelius in English, translator per title: George Long (1862), George W. Chrystal (1902), clean Gutenberg. The Adler shelf's marcus-meditations (PG 2680) is labelled 'tr. George Long' there, but PG 2680 names no translator and its text opens 'His First Book concerning Himself', Meric Casaubon's 1634 wording, in an Everyman-style edition whose introduction lists Long as a different translator; so it is cross-referenced as Casaubon (inferred, not stated by the file).",
+ "_name_words": [
+  "marcus",
+  "aurelius",
+  "antoninus",
+  "meditations",
+  "thoughts"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marcus-aurelius-long": [
+   15877,
+   "Thoughts of Marcus Aurelius Antoninus",
+   "tr. George Long (1862)"
+  ],
+  "marcus-aurelius-chrystal": [
+   55317,
+   "The Meditations of the Emperor Marcus Aurelius Antoninus: a new rendering",
+   "tr. George W. Chrystal (1902)"
+  ]
+ },
+ "internet_archive": {},
+ "_cross_ref": {
+  "marcus-meditations": "Adler shelf: PG 2680, Casaubon's translation by its wording (inferred); the Adler label 'tr. George Long' looks wrong"
+ },
+ "_excluded": {
+  "pg6920": "Thoughts of Marcus Aurelius (Long): catalogued but serves no text; PG 15877 kept",
+  "pg59784": "an index page",
+  "Rendall (1898), Jackson (1906), Collier (1701)": "PD; pending (IA)",
+  "C. R. Haines, Loeb (1916)": "PD in US; pending"
+ }
+}

@@ -70,3 +70,6 @@
 
 ## 2026-10-02 15:49 CDT — audit (RULES §5b): identity re-verify
 - Ran lane A's new `fetch_shelf.py --verify` over all 16 lane-B shelves: 0 wrong books. One false alarm fixed (Morris's "Æneids": the ligature hid the title word; shelf title now spelled as the book spells it). title_weak, checked and fine: aristotle-ross-v06, virgil-conington-aeneid.
+
+## 2026-10-02 15:52 CDT — stoics: done
+- Shelves marcus-aurelius, epictetus, seneca. Marcus Aurelius 2, Epictetus 8, Seneca 8 fetched. Findings on the Adler shelf: marcus-meditations (PG 2680) is Casaubon by wording, not Long as labelled (inferred); epictetus-discourses (PG 45109) is Higginson's Enchiridion, not Matheson's Discourses (stated by the PG header).
