@@ -884,5 +884,11 @@ _lbl = st.tei_split(st.ET.fromstring(
 check("weld: a speaker label is its own word", _lbl.startswith("Pamphilus True, indeed!"))
 check("weld: a number tagged straight after a word is its own word", "slew 1500," in _lbl)
 
+check("honesty: every override names a prose book; every Appian book but the preface has one",
+      all(k in st.TEI_PROSE for k in st.TEI_PROSE_HONESTY)
+      and all(k in st.TEI_PROSE for k in st.TEI_PROSE_LEVELS)
+      and all(k in st.TEI_PROSE_HONESTY for k in st.TEI_PROSE
+              if k.startswith("appian-") and "preface" not in k))
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

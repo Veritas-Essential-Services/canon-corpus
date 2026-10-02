@@ -6371,5 +6371,785 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "appian-author-s-preface-white": {
+  "title": "The Roman History: Author’s Preface",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "224decabc1044612dcf476e9b0a5ae8aa98379af69a8ed845a1105c212d2acc0",
+  "units": 15,
+  "scheme": {
+   "citation": "App. Praef. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 3 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-concerning-italy-white": {
+  "title": "The Roman History: Concerning Italy",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "78f549e1d001f5d8458c02d74bd51e7326b0f304e89939d64cd67b7469211994",
+  "units": 10,
+  "scheme": {
+   "citation": "App. It. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 23 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-concerning-the-kings-white": {
+  "title": "The Roman History: Concerning the Kings",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "884eac544c8cc0e4e6e1a0e6c17e3442ae0862570f920d048db86f4169e02b94",
+  "units": 13,
+  "scheme": {
+   "citation": "App. Reg. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 7 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-macedonian-affairs-white": {
+  "title": "The Roman History: Macedonian Affairs",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "e39b2fff725b502d064808719e5c61abeeae128e317586874df4684ab1c0ba42",
+  "units": 19,
+  "scheme": {
+   "citation": "App. Mac. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 29 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-numidian-affairs-white": {
+  "title": "The Roman History: Numidian Affairs",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "6251b6a5927a954841fd8df60beef7b5e8c9b470775a6e1c1e3b83541ceb62b6",
+  "units": 5,
+  "scheme": {
+   "citation": "App. Num. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 8 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-of-sicily-and-the-other-islands-white": {
+  "title": "The Roman History: Of Sicily and the Other Islands",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "ffe6947b3e3583229172bb4a8013340f0ee12e1a57819a54c35f40adeaaee8b7",
+  "units": 7,
+  "scheme": {
+   "citation": "App. Sic. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 19 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-civil-wars-white": {
+  "title": "The Roman History: The Civil Wars",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "ab4c5fbf47a2e40dc73065bc1985fc0e8560c90626c477868abff2d63e72cf96",
+  "units": 663,
+  "scheme": {
+   "citation": "App. BC book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division: book, Horace White's chapter, then the standard section. The standard citation is book and section (App. BC 1.7 is the unit 1.<chapter>.7); White's chapter is not part of it.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 556 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 26 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-gallic-history-white": {
+  "title": "The Roman History: The Gallic History",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "3ea3173c7d71a6e9a80e8734a9ea9510b46f9fbe2818716185c4951a646cdc26",
+  "units": 21,
+  "scheme": {
+   "citation": "App. Gall. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 42 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-hannibalic-war-white": {
+  "title": "The Roman History: The Hannibalic War",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "037d53eeaeb91cae3a6d258ad51f5eb6b47adffb3a2a049769da2f9b75bc0e7e",
+  "units": 62,
+  "scheme": {
+   "citation": "App. Hann. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division. The last number is the standard section, which runs on through the book (App. Hann. 6 is the unit ending .6); the number before it is Horace White's chapter, which a standard citation does not use.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 36 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-illyrian-wars-white": {
+  "title": "The Roman History: The Illyrian Wars",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "13feec580b33e16285f733989dc932045bbce7ec27f1cefcfa5041c4575c1250",
+  "units": 30,
+  "scheme": {
+   "citation": "App. Ill. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division. The last number is the standard section, which runs on through the book (App. Ill. 6 is the unit ending .6); the number before it is Horace White's chapter, which a standard citation does not use.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 49 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-mithridatic-wars-white": {
+  "title": "The Roman History: The Mithridatic Wars",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "fb7cad9248846985886334a4a39fdf2f1c5cd38001d4834cf167630eaaf71065",
+  "units": 121,
+  "scheme": {
+   "citation": "App. Mith. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division. The last number is the standard section, which runs on through the book (App. Mith. 6 is the unit ending .6); the number before it is Horace White's chapter, which a standard citation does not use.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 93 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-punic-wars-white": {
+  "title": "The Roman History: The Punic Wars",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "10617152a338acec9745d518d06719a8dee99a0900838383eb02547c59cf4645",
+  "units": 138,
+  "scheme": {
+   "citation": "App. Pun. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division. The last number is the standard section, which runs on through the book (App. Pun. 6 is the unit ending .6); the number before it is Horace White's chapter, which a standard citation does not use.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 57 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-samnite-history-white": {
+  "title": "The Roman History: The Samnite History",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "2655cf87f1e0dc3bd7fb1cb280c791a92fe6f833f859ec91754ff1a81c00cf88",
+  "units": 12,
+  "scheme": {
+   "citation": "App. Sam. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the fragment, numbered as Horace White's translation numbers the surviving fragments; other editions of Appian number them differently, so a fragment reference must name the edition.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 27 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-syrian-wars-white": {
+  "title": "The Roman History: The Syrian Wars",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "7268ee6b39adfa58823494c8d20dfc3036c50bc8833645dd5e3c467544be9456",
+  "units": 70,
+  "scheme": {
+   "citation": "App. Syr. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division. The last number is the standard section, which runs on through the book (App. Syr. 6 is the unit ending .6); the number before it is Horace White's chapter, which a standard citation does not use.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 97 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "appian-the-wars-in-spain-white": {
+  "title": "The Roman History: The Wars in Spain",
+  "author": "Appian of Alexandria",
+  "format": "tei",
+  "sha256": "2a49045b25df8dee7a3862f51fe7630a055d6528788ab7f92e56e64664ad00b8",
+  "units": 102,
+  "scheme": {
+   "citation": "App. Hisp. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division. The last number is the standard section, which runs on through the book (App. Hisp. 6 is the unit ending .6); the number before it is Horace White's chapter, which a standard citation does not use.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 107 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "athenaeus-deipnosophists-yonge": {
+  "title": "The Deipnosophists",
+  "author": "Athenaeus",
+  "format": "tei",
+  "sha256": "d8e257a5c14e2f80743b011d6fb3eb9df042a4de02af69612c824f02afccca69",
+  "units": 1348,
+  "scheme": {
+   "citation": "Ath. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's divisions, which are Yonge's chapters, numbered per book. The standard citation of Athenaeus is Casaubon's page and letter (Ath. 1.2a), which this edition does not mark: a Casaubon reference cannot be resolved here without a concordance.",
+   "note": "Perseus TEI, one unit per innermost textpart div. 365 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-behalf-of-euphiletus-forster": {
+  "title": "On Behalf of Euphiletus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "3377639e475b224943b73a2f230dc1e6c73486d146fc21f88e8610e433dad7c0",
+  "units": 13,
+  "scheme": {
+   "citation": "Isaeus 12 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-apollodorus-forster": {
+  "title": "On The Estate of Apollodorus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "ce9d9966f615b271eb693d557723507e6004d347a3a56489e9c4554a53002cd1",
+  "units": 46,
+  "scheme": {
+   "citation": "Isaeus 7 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 13 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-aristarchus-forster": {
+  "title": "On The Estate of Aristarchus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "ee96533f8be9564842a0c1f37d0fe3544a1997d8ed563ac45f9344a9edf44d7a",
+  "units": 27,
+  "scheme": {
+   "citation": "Isaeus 10 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 7 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-astyphilus-forster": {
+  "title": "On the Estate of Astyphilus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "eb44b1fb22bc2e0138380de9c6cbdcd788a2e7602ceba1cd274bb7c7b7e33d98",
+  "units": 38,
+  "scheme": {
+   "citation": "Isaeus 9 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 8 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-ciron-forster": {
+  "title": "On The Estate of Ciron",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "cfcf67f16ed72c7cc577ea8eed41ac7233383f3b62f824e20650b7255cec7936",
+  "units": 47,
+  "scheme": {
+   "citation": "Isaeus 8 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 15 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 26 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-cleonymus-forster": {
+  "title": "On The Estate of Cleonymus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "5d9868f67df53256fbbcb830a56712391e60bd8a8b3bf9c02d24c6739e30b18b",
+  "units": 52,
+  "scheme": {
+   "citation": "Isaeus 1 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 2 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-dicaeogenes-forster": {
+  "title": "On the Estate of Dicaeogenes",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "44c2afddce38bf09b4d4f0f18095e8ed977e465c0c96cb1083d8b240ade39036",
+  "units": 48,
+  "scheme": {
+   "citation": "Isaeus 5 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 35 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 9 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-hagnias-forster": {
+  "title": "On the Estate of Hagnias",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "3a2e457b7d8821f2893a01edf671bdbbff56bc239f0d87153eb77681abcad67d",
+  "units": 51,
+  "scheme": {
+   "citation": "Isaeus 11 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 17 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 2 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-menecles-forster": {
+  "title": "On the Estate of Menecles",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "4ba88756db7f126ed9c3afdb4117aab2e7a962622dfc5bcdc2739fc62a1984de",
+  "units": 48,
+  "scheme": {
+   "citation": "Isaeus 2 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 14 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 3 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-nicostratus-forster": {
+  "title": "On the Estate of Nicostratus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "1ee462ed3169bab12d23181f2c1c7fa89acab1eb8d2b158e08bf10fdc44468c6",
+  "units": 32,
+  "scheme": {
+   "citation": "Isaeus 4 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 10 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-philoctemon-forster": {
+  "title": "On the Estate of Philoctemon",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "81f6c597d3e23b876beabb2f0fe3475c1fd3ad5943bb50f2ebe438d85c856a2c",
+  "units": 66,
+  "scheme": {
+   "citation": "Isaeus 6 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 24 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 6 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isaeus-on-the-estate-of-pyrrhus-forster": {
+  "title": "On The Estate Of Pyrrhus",
+  "author": "Isaeus",
+  "format": "tei",
+  "sha256": "79e21aad278a025a830acd3b7211a7c4cc0d9623b470d1a22fdab5f9b7a6db58",
+  "units": 81,
+  "scheme": {
+   "citation": "Isaeus 3 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 27 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 3 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-against-the-sophists-norlin": {
+  "title": "Against the Sophists",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "44cf346013cd57c64411415e3ac150090fec5c0b94421a298a9126017b60e93c",
+  "units": 22,
+  "scheme": {
+   "citation": "Isoc. 13 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 27 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-antidosis-norlin": {
+  "title": "Antidosis",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "43b293d2789dd1d5de8de1570e96c4044c24482c01cbb824236522fb2d9a746c",
+  "units": 323,
+  "scheme": {
+   "citation": "Isoc. 15 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 177 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 15 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-archidamus-norlin": {
+  "title": "Archidamus",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "92be34751db026f94bafba843a6cbd8bbc0502dc5cb97d121891093acd51db3c",
+  "units": 111,
+  "scheme": {
+   "citation": "Isoc. 6 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 72 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 40 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-areopagiticus-norlin": {
+  "title": "Areopagiticus",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "fc6643192b6d95c2ae15ebf026f2f0e2f066dbcd8a849f30059e9820eae83df6",
+  "units": 84,
+  "scheme": {
+   "citation": "Isoc. 7 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 104 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 20 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-nicocles-or-the-cyprians-norlin": {
+  "title": "Nicocles or the Cyprians",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "9cc5a53185326677e417459ec22ec17c2075da5e53072e5578bdce6d6cea43bd",
+  "units": 64,
+  "scheme": {
+   "citation": "Isoc. 3 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 23 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 9 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-on-the-peace-norlin": {
+  "title": "On the Peace",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "0826b11a65af913935854eba3b9e02c159e47594671892687f42e086b04b46b7",
+  "units": 145,
+  "scheme": {
+   "citation": "Isoc. 8 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 228 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 45 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-panathenaicus-norlin": {
+  "title": "Panathenaicus",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "cee86e48250f5a369b620e0af665e81cedfbb67868a51d85925840eabf48776d",
+  "units": 272,
+  "scheme": {
+   "citation": "Isoc. 12 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 202 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 68 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-panegyricus-norlin": {
+  "title": "Panegyricus",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "71596040e65213b8d614e58cc503819ce3808902624fd0a60e01f410a20b93af",
+  "units": 189,
+  "scheme": {
+   "citation": "Isoc. 4 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 202 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 144 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-to-demonicus-norlin": {
+  "title": "To Demonicus",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "47a4b981dde5cb4afe145d43d340d607710ece7d1c68c418ec10613f50667868",
+  "units": 52,
+  "scheme": {
+   "citation": "Isoc. 1 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 46 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-to-nicocles-norlin": {
+  "title": "To Nicocles",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "11b4008935ad5647484ea0deca30dea326822042c1afff89eefbf2748f154532",
+  "units": 54,
+  "scheme": {
+   "citation": "Isoc. 2 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 32 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 4 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "isocrates-to-philip-norlin": {
+  "title": "To Philip",
+  "author": "Isocrates",
+  "format": "tei",
+  "sha256": "9f4bf2b961b7fc97f69fd41bde7bdcc8047530394d9f7f409bec606b23e9636f",
+  "units": 155,
+  "scheme": {
+   "citation": "Isoc. 5 section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 145 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 82 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }

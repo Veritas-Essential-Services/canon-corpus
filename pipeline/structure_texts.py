@@ -482,6 +482,45 @@ TEI_PROSE = {
     "lucian-dialogi-deorum-fowler": "Lucian Dialogi deorum",
     "lucian-dialogi-meretricii-fowler": "Lucian Dialogi meretricii",
     "lucian-soleocista-fowler": "Lucian Soleocista",
+    "isocrates-to-demonicus-norlin": "Isoc. 1",
+    "isocrates-to-nicocles-norlin": "Isoc. 2",
+    "isocrates-nicocles-or-the-cyprians-norlin": "Isoc. 3",
+    "isocrates-panegyricus-norlin": "Isoc. 4",
+    "isocrates-to-philip-norlin": "Isoc. 5",
+    "isocrates-archidamus-norlin": "Isoc. 6",
+    "isocrates-areopagiticus-norlin": "Isoc. 7",
+    "isocrates-on-the-peace-norlin": "Isoc. 8",
+    "isocrates-panathenaicus-norlin": "Isoc. 12",
+    "isocrates-against-the-sophists-norlin": "Isoc. 13",
+    "isocrates-antidosis-norlin": "Isoc. 15",
+    "isaeus-on-the-estate-of-cleonymus-forster": "Isaeus 1",
+    "isaeus-on-the-estate-of-menecles-forster": "Isaeus 2",
+    "isaeus-on-the-estate-of-pyrrhus-forster": "Isaeus 3",
+    "isaeus-on-the-estate-of-nicostratus-forster": "Isaeus 4",
+    "isaeus-on-the-estate-of-dicaeogenes-forster": "Isaeus 5",
+    "isaeus-on-the-estate-of-philoctemon-forster": "Isaeus 6",
+    "isaeus-on-the-estate-of-apollodorus-forster": "Isaeus 7",
+    "isaeus-on-the-estate-of-ciron-forster": "Isaeus 8",
+    "isaeus-on-the-estate-of-astyphilus-forster": "Isaeus 9",
+    "isaeus-on-the-estate-of-aristarchus-forster": "Isaeus 10",
+    "isaeus-on-the-estate-of-hagnias-forster": "Isaeus 11",
+    "isaeus-on-behalf-of-euphiletus-forster": "Isaeus 12",
+    "appian-author-s-preface-white": "App. Praef.",
+    "appian-concerning-the-kings-white": "App. Reg.",
+    "appian-concerning-italy-white": "App. It.",
+    "appian-the-samnite-history-white": "App. Sam.",
+    "appian-the-gallic-history-white": "App. Gall.",
+    "appian-of-sicily-and-the-other-islands-white": "App. Sic.",
+    "appian-the-wars-in-spain-white": "App. Hisp.",
+    "appian-the-hannibalic-war-white": "App. Hann.",
+    "appian-the-punic-wars-white": "App. Pun.",
+    "appian-numidian-affairs-white": "App. Num.",
+    "appian-macedonian-affairs-white": "App. Mac.",
+    "appian-the-illyrian-wars-white": "App. Ill.",
+    "appian-the-syrian-wars-white": "App. Syr.",
+    "appian-the-mithridatic-wars-white": "App. Mith.",
+    "appian-the-civil-wars-white": "App. BC",
+    "athenaeus-deipnosophists-yonge": "Ath.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -562,6 +601,45 @@ TEI_PROSE_CUT = {
     "cicero-de-senectute-falconer": ("section",),
     "cicero-de-divinatione-falconer": ("section", "seciton"),
     "cicero-de-officiis-miller": ("section",),
+}
+
+
+# Where the source's divisions are exact but are NOT the standard citation,
+# the honesty field says so instead of claiming the standard numbering.
+_APPIAN = ("exact to the source's innermost division. The last number is the "
+           "standard section, which runs on through the book (App. {ab} 6 is "
+           "the unit ending .6); the number before it is Horace White's "
+           "chapter, which a standard citation does not use.")
+TEI_PROSE_HONESTY = {
+    "athenaeus-deipnosophists-yonge": (
+        "exact to the source's divisions, which are Yonge's chapters, numbered "
+        "per book. The standard citation of Athenaeus is Casaubon's page and "
+        "letter (Ath. 1.2a), which this edition does not mark: a Casaubon "
+        "reference cannot be resolved here without a concordance."),
+    "appian-the-civil-wars-white": (
+        "exact to the source's innermost division: book, Horace White's "
+        "chapter, then the standard section. The standard citation is book "
+        "and section (App. BC 1.7 is the unit 1.<chapter>.7); White's chapter "
+        "is not part of it."),
+}
+for _s, _ab in (("the-wars-in-spain", "Hisp."), ("the-hannibalic-war", "Hann."),
+                ("the-punic-wars", "Pun."), ("the-illyrian-wars", "Ill."),
+                ("the-syrian-wars", "Syr."), ("the-mithridatic-wars", "Mith.")):
+    TEI_PROSE_HONESTY[f"appian-{_s}-white"] = _APPIAN.format(ab=_ab)
+# The books Appian left only in fragments are numbered by fragment, as
+# White prints them (the Gallic History in Roman numerals).
+for _s in ("concerning-the-kings", "concerning-italy", "the-samnite-history",
+           "the-gallic-history", "of-sicily-and-the-other-islands",
+           "numidian-affairs", "macedonian-affairs"):
+    TEI_PROSE_HONESTY[f"appian-{_s}-white"] = (
+        "exact to the fragment, numbered as Horace White's translation numbers "
+        "the surviving fragments; other editions of Appian number them "
+        "differently, so a fragment reference must name the edition.")
+# A level the source misnames: Appian's Syrian and Illyrian Wars mark the
+# standard sections as "card" and White's chapters as "textpart".
+TEI_PROSE_LEVELS = {
+    "appian-the-syrian-wars-white": "chapter.section",
+    "appian-the-illyrian-wars-white": "chapter.section",
 }
 
 
@@ -779,14 +857,18 @@ def convert_tei_prose(path, slug, abbrev):
                "resolves to the unit that contains it" if spans else
                "exact to the source's innermost division (the standard section "
                "numbering, born-in from Perseus)")
+    if slug in TEI_PROSE_HONESTY and not spans:
+        honesty = TEI_PROSE_HONESTY[slug]
     rights = perseus_rights(root)
     if slug in TEI_RIGHTS_NOTE:
         rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
                        "translator": transl, "sha256": sha256(path)},
-            "scheme": {"citation": f"{abbrev} {'.'.join(levels)}",
-                       "resolution": (levels[-1] if levels else "section")
+            "scheme": {"citation": f"{abbrev} {TEI_PROSE_LEVELS.get(slug) or '.'.join(levels)}",
+                       "resolution": ((TEI_PROSE_LEVELS[slug].split(".")[-1]
+                                       if slug in TEI_PROSE_LEVELS else
+                                       levels[-1] if levels else "section"))
                                      + (" (span)" if spans else ""),
                        "honesty": honesty,
                        "note": f"Perseus TEI, one unit per innermost textpart div. "
