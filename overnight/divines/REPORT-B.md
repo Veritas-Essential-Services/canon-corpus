@@ -57,3 +57,6 @@
 
 ## 2026-10-02 15:43 CDT — greek-historians: Xenophon
 - Shelf xenophon: Dakyns complete, 14 PG texts, 3.6 MB, trial 9,133 units.
+
+## 2026-10-02 15:43 CDT — greek-historians: Polybius
+- Shelf polybius: Shuckburgh 2 vols PG, 3.0 MB, trial 8,139 units.

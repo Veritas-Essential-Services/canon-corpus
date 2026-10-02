@@ -1,0 +1,28 @@
+{
+ "_about": "Polybius in English: Evelyn S. Shuckburgh's translation of the Histories (1889), 2 vols., clean Gutenberg.",
+ "_name_words": [
+  "polybius",
+  "histories",
+  "volume"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "polybius-shuckburgh-v1": [
+   44125,
+   "The Histories of Polybius, vol. 1",
+   "tr. Evelyn S. Shuckburgh (1889)"
+  ],
+  "polybius-shuckburgh-v2": [
+   44126,
+   "The Histories of Polybius, vol. 2",
+   "tr. Evelyn S. Shuckburgh (1889)"
+  ]
+ },
+ "internet_archive": {},
+ "_cross_ref": {
+  "dryden-polybius-lucian": "Dryden shelf (lane C): Dryden's character of Polybius"
+ },
+ "_excluded": {
+  "W. R. Paton, Loeb (1922-27)": "on Perseus, US PD by date; pending"
+ }
+}
