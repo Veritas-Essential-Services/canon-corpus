@@ -1,0 +1,17 @@
+{
+ "_about": "Minor Pythagorean texts in Thomas Taylor's translation, clean Gutenberg: Ocellus Lucanus on the Nature of the Universe, with Taurus, Julius Firmicus Maternus and Proclus pieces (1831).",
+ "_name_words": [
+  "ocellus",
+  "lucanus",
+  "universe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ocellus-taylor": [
+   75391,
+   "Ocellus Lucanus on the Nature of the Universe",
+   "tr. Thomas Taylor"
+  ]
+ },
+ "internet_archive": {}
+}
