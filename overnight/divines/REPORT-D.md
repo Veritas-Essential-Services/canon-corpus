@@ -128,3 +128,6 @@
 
 ## 2026-10-02 16:34 CDT — collodi: done
 - 2/2 fetched: Della Chiesa 1914 (Gutenberg 500; 1,757 units, 36 chapters) and Murray 1892 (IA raw OCR, translator confirmed on the title page). PG 16865 held back: no translator named. No uids minted; not in manifest.
+
+## 2026-10-02 16:35 CDT — lofting: done
+- 7/7 fetched (6 Gutenberg, 1 IA raw: Caravan 1926 first printing); 5,086 units, 0 duplicate ids. Circus, Zoo, Garden pending (only later printings with new front matter found). No uids minted; not in manifest.

@@ -747,6 +747,23 @@ Shelf: `pipeline/collodi_shelf.json` (2026-10-02; added at the coordinator's rel
 | collodi-not-pinocchio | excluded | Beppo, tr. W. S. Cramp (PG 78089): not Pinocchio, outside the relay's ask; The Heart of Pinocchio (41446) is by Collodi Nipote, not Collodi |
 | collodi-translations | excluded | Italian originals (19517, 52484) and the Finnish translation (53077): this shelf is English |
 
+## Hugh Lofting (before 1929)
+
+Shelf: `pipeline/lofting_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Doctor Dolittle books of 1920-1928 that Gutenberg has, The Story of Mrs Tubbs and Porridge Poetry, cited by chapter or poem, plus Doctor Dolittle's Caravan as raw OCR of its 1926 first printing. Circus, Zoo and Garden are pending: the only scans found are later printings that carry new, non-public-domain front matter. These are Lofting's original texts, including the passages his publishers revised in 1988 for their racist caricature. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of Doctor Dolittle (1920), with Hugh Walpole's introduction | have | PG 501, `lofting-story-of-doctor-dolittle` (815 units) |
+| The Voyages of Doctor Dolittle (1922) | have | PG 1154, `lofting-voyages-of-doctor-dolittle` (1743 units) |
+| Doctor Dolittle's Post Office (1923) | have | PG 58947, `lofting-doctor-dolittles-post-office` (1600 units) |
+| The Story of Mrs Tubbs (1923) | have | PG 64225, `lofting-story-of-mrs-tubbs` (121 units) |
+| Porridge Poetry (1924) | have | PG 75663, `lofting-porridge-poetry` (112 units) |
+| Doctor Dolittle in the Moon (1928) | have | PG 73411, `lofting-doctor-dolittle-in-the-moon` (695 units) |
+| Doctor Dolittle's Caravan (New York: Frederick A. Stokes, October 1926, first printing) | have-raw | IA `bwb_Y0-DVO-085`, `lofting-doctor-dolittles-caravan` |
+| lofting-duplicates | excluded | The Story of Doctor Dolittle (PG 26201), another transcription |
+| lofting-later-printings-only | pending | Doctor Dolittle's Circus (1924), Doctor Dolittle's Zoo (1925) and Doctor Dolittle's Garden (1927). The Internet Archive scans found are later printings (1950s-1960s, with renewal notices and new front matter about Lofting that is not itself public domain); a first-printing scan should be found before they enter the shelf |
+| lofting-1929-and-later | excluded | outside the relay's pre-1929 line: Noisy Nora (1929), The Twilight of Magic (1930), Gub Gub's Book (1932) and the later Dolittle books |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

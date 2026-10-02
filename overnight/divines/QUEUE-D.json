@@ -219,8 +219,11 @@
     },
     {
       "id": "lofting",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Hugh Lofting: the Doctor Dolittle books and others first published before 1929 only; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Hugh Lofting: the Doctor Dolittle books and others first published before 1929 only; no minting",
+      "started": "2026-10-02T16:34:23-05:00",
+      "finished": "2026-10-02T16:35:47-05:00",
+      "notes": "7/7 fetched (6 Gutenberg, 1 IA raw: Caravan 1926 first printing); 5,086 units, 0 duplicate ids. Circus, Zoo, Garden pending (only later printings with new front matter found). No uids minted; not in manifest."
     }
   ]
 }

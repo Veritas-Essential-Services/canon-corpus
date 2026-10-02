@@ -1,0 +1,54 @@
+{
+ "_about": "Hugh Lofting's (1886-1947) books first published before 1929, as the relay asked: the Doctor Dolittle books of 1920-1928, The Story of Mrs Tubbs and Porridge Poetry. Clean Gutenberg text, plus Doctor Dolittle's Caravan as raw Internet Archive OCR of its first printing (1926). US public domain; Lofting died in 1947, so life+70 and life+80 countries differ. These are the original texts, including passages Lofting's publishers revised in 1988 for their racist caricature.",
+ "_author": "Hugh Lofting",
+ "_name_words": [
+  "lofting"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lofting-story-of-doctor-dolittle": [
+   501,
+   "The Story of Doctor Dolittle (1920), with Hugh Walpole's introduction",
+   {
+    "contents_only": true
+   }
+  ],
+  "lofting-voyages-of-doctor-dolittle": [
+   1154,
+   "The Voyages of Doctor Dolittle (1922)"
+  ],
+  "lofting-doctor-dolittles-post-office": [
+   58947,
+   "Doctor Dolittle's Post Office (1923)",
+   {
+    "contents_only": true
+   }
+  ],
+  "lofting-story-of-mrs-tubbs": [
+   64225,
+   "The Story of Mrs Tubbs (1923)"
+  ],
+  "lofting-porridge-poetry": [
+   75663,
+   "Porridge Poetry (1924)"
+  ],
+  "lofting-doctor-dolittle-in-the-moon": [
+   73411,
+   "Doctor Dolittle in the Moon (1928)",
+   {
+    "chapre_only": "THE [A-Z]+(?:-[A-Z]+)? CHAPTER\\s.{2,70}$"
+   }
+  ]
+ },
+ "internet_archive": {
+  "lofting-doctor-dolittles-caravan": [
+   "bwb_Y0-DVO-085",
+   "Doctor Dolittle's Caravan (New York: Frederick A. Stokes, October 1926, first printing)"
+  ]
+ },
+ "_excluded": {
+  "lofting-duplicates": "The Story of Doctor Dolittle (PG 26201), another transcription",
+  "lofting-later-printings-only": "PENDING: Doctor Dolittle's Circus (1924), Doctor Dolittle's Zoo (1925) and Doctor Dolittle's Garden (1927). The Internet Archive scans found are later printings (1950s-1960s, with renewal notices and new front matter about Lofting that is not itself public domain); a first-printing scan should be found before they enter the shelf",
+  "lofting-1929-and-later": "outside the relay's pre-1929 line: Noisy Nora (1929), The Twilight of Magic (1930), Gub Gub's Book (1932) and the later Dolittle books"
+ }
+}

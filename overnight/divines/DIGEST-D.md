@@ -53,6 +53,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `wilde-fairy-tales` | 2 Gutenberg | 0 | 1,006 | The Happy Prince and A House of Pomegranates, all nine tales by title |
 | `dickens-christmas` | 5 Gutenberg | 0 | 3,689 | the five Christmas books, cited by stave, quarter, chirp, part or Gift |
 | `collodi` | 1 Gutenberg | 1 | 1,757 | Pinocchio tr. Della Chiesa (1914) and tr. Murray (1892, raw OCR). A 1916 edition with no named translator is held back |
+| `lofting` | 6 Gutenberg | 1 | 5,086 | Dolittle books 1920-1928, Mrs Tubbs, Porridge Poetry; Caravan as raw OCR. Original texts, including the passages revised in 1988 for racist caricature. Circus, Zoo and Garden are pending |
 
 ## For Adam to decide
 1. **Minting:** 416 slugs are waiting for the attended uid pass and manifest registration: 286 from the second run (lang 124, lamb 11, macdonald 61, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20) and 130 from the third (carroll 16, kipling 5, stevenson 45, chesterton-gaps 5, aesop 2, nesbit 34, potter 23).
