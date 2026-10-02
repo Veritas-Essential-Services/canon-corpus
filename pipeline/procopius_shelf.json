@@ -1,0 +1,40 @@
+{
+ "_about": "Procopius in English, translator per title. H. B. Dewing's History of the Wars, Books I-VI (Loeb, 1914-19; English only as on Gutenberg), clean Gutenberg. The Secret History (Gutenberg; translator not named in the file). Aubrey Stewart's Buildings of Justinian (Palestine Pilgrims' Text Society, 1888), clean Gutenberg.",
+ "_name_words": [
+  "procopius",
+  "justinian",
+  "wars"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "procopius-dewing-persian": [
+   16764,
+   "History of the Wars, Books I and II: The Persian War",
+   "tr. H. B. Dewing"
+  ],
+  "procopius-dewing-vandalic": [
+   16765,
+   "History of the Wars, Books III and IV: The Vandalic War",
+   "tr. H. B. Dewing"
+  ],
+  "procopius-dewing-gothic": [
+   20298,
+   "History of the Wars, Books V and VI: The Gothic War",
+   "tr. H. B. Dewing"
+  ],
+  "procopius-secret-history": [
+   12916,
+   "The Secret History of the Court of Justinian",
+   "translator not named in the file"
+  ],
+  "procopius-stewart-buildings": [
+   65404,
+   "Of the Buildings of Justinian",
+   "tr. Aubrey Stewart"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Dewing, Wars VII-VIII and Buildings (Loeb, 1924-40)": "not on Gutenberg; later vols. not PD; pending"
+ }
+}
