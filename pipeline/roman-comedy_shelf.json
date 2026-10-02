@@ -1,5 +1,5 @@
 {
- "_about": "Plautus and Terence in English, translator per title. Plautus: Henry T. Riley's prose Comedies (Bohn, 1852; 1913 printing, 2 vols., raw IA, complete) and his Captivi and Mostellaria (clean Gutenberg). Terence: Riley's prose Comedies (Bohn) and George Colman's verse, clean Gutenberg; W. R. Goodluck's Andrian.",
+ "_about": "Plautus and Terence in English, translator per title. Plautus: Henry T. Riley's prose Comedies (Bohn, 1852; 1913 printing, 2 vols., raw IA, complete) and his Captivi and Mostellaria (clean Gutenberg). Terence: Riley's prose Comedies (Bohn) and George Colman's verse, clean Gutenberg; W. R. Goodluck's Andrian. Paul Nixon's Loeb Plautus vol. 1 (1916; Gutenberg, Latin facing kept) added 2026-10-02 from the bilingual catalogue.",
  "_name_words": [
   "plautus",
   "terence",
@@ -27,6 +27,11 @@
    72921,
    "Terence's Andrian, a comedy in five acts",
    "tr. W. R. Goodluck"
+  ],
+  "plautus-nixon-v1": [
+   16564,
+   "Plautus, vol. 1: Amphitryo, Asinaria, Aulularia, Bacchides, Captivi",
+   "tr. Paul Nixon (Loeb, 1916; Latin facing)"
   ]
  },
  "internet_archive": {
