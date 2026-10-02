@@ -1,5 +1,5 @@
 {
- "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out.",
+ "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "euripides",
   "translated",
@@ -81,6 +81,21 @@
    "playseuripides00colegoog",
    "The Plays of Euripides, translated into English prose, vol. 2 (1891)",
    "tr. Edward P. Coleridge"
+  ],
+  "euripides-wodhull-v3": [
+   "greektragictheat03pott",
+   "The Greek Tragic Theatre, vol. 3: Euripides (new ed., 1809)",
+   "tr. Michael Wodhull"
+  ],
+  "euripides-wodhull-v4": [
+   "greektragictheat04pott",
+   "The Greek Tragic Theatre, vol. 4: Euripides (new ed., 1809)",
+   "tr. Michael Wodhull"
+  ],
+  "euripides-wodhull-v5": [
+   "greektragicthea02wodhgoog",
+   "The Greek Tragic Theatre, vol. 5: Euripides (new ed., 1809)",
+   "tr. Michael Wodhull"
   ]
  },
  "_excluded": {
