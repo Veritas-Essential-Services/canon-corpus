@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+"""Cut each TITLE of a translator shelf out of the volume it was fetched in.
+
+    python3 pipeline/split_shelf_titles.py <shelf>     # e.g. dryden, from canon-corpus root
+
+A translator shelf (dryden, garnett) lists two things: SOURCES (whole files,
+fetched by fetch_shelf.py into data/corpus/<shelf>/) and TITLES (the works a
+reader cites: dryden-georgics, dryden-juvenal). Several titles often live in
+one source volume (Scott's Dryden vol. 12 holds his Ovid, Theocritus,
+Lucretius, Horace and Homer), so each title names its source and a pair of
+heading markers:
+
+    "titles": {"dryden-juvenal": {"source": "dryden-scott-13",
+                                  "start": ["TRANSLATIONS", 1],
+                                  "end":   ["TRANSLATIONS", 2], ...}}
+
+A marker is [exact heading line, stripped; which occurrence, 1-based]. "end"
+null = to the end of the source's body. No "start" = the whole body. The
+Gutenberg header and licence are always cut off first.
+
+Writes data/corpus/<shelf>/titles/<slug>.txt (gitignored, atomic temp+rename)
+and titles_report.json (lines, bytes, marker line numbers). A missing marker
+or a source not on disk is REPORTED, never guessed and never written as an
+empty file. Writes nothing under data/uids/: no minting (relay rule).
+Converter files (fetch_sources.py, structure_texts.py) are untouched.
+"""
+import json, os, re, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.join(HERE, "..")
+
+def body(text):
+    """Strip a Project Gutenberg header/footer if present."""
+    s = re.search(r"^\*\*\* ?START OF (THE|THIS) PROJECT GUTENBERG.*$", text, re.M)
+    e = re.search(r"^\*\*\* ?END OF (THE|THIS) PROJECT GUTENBERG.*$", text, re.M)
+    return text[s.end() if s else 0: e.start() if e else len(text)]
+
+def find(lines, marker, after=0):
+    want, occ = marker
+    n = 0
+    for i, ln in enumerate(lines):
+        if ln.strip() == want:
+            n += 1
+            if n == occ:
+                if i < after:
+                    raise ValueError(f"marker {marker} at line {i+1} precedes start")
+                return i
+    raise ValueError(f"marker {marker} not found ({n} occurrences)")
+
+def main():
+    if len(sys.argv) < 2:
+        sys.exit("usage: split_shelf_titles.py <shelf>")
+    name = sys.argv[1]
+    shelf = json.load(open(os.path.join(HERE, f"{name}_shelf.json"), encoding="utf-8"))
+    src_dir = os.path.join(ROOT, "data", "corpus", name)
+    out = os.path.join(src_dir, "titles")
+    os.makedirs(out, exist_ok=True)
+    report = {}
+    for slug, t in shelf.get("titles", {}).items():
+        src = t["source"]
+        path = next((os.path.join(src_dir, src + x) for x in (".txt", ".xml")
+                     if os.path.exists(os.path.join(src_dir, src + x))), None)
+        if not path:
+            report[slug] = {"status": "NO-SOURCE", "source": src}
+            print(slug, "NO-SOURCE", src); continue
+        lines = body(open(path, encoding="utf-8", errors="replace").read()).splitlines()
+        try:
+            a = find(lines, t["start"]) if t.get("start") else 0
+            b = find(lines, t["end"], after=a + 1) if t.get("end") else len(lines)
+        except ValueError as e:
+            report[slug] = {"status": "MARKER-FAILED", "source": src, "error": str(e)}
+            print(slug, "MARKER-FAILED", e); continue
+        chunk = "\n".join(lines[a:b]).strip() + "\n"
+        if len(chunk) < 500:
+            report[slug] = {"status": "TOO-SHORT", "source": src, "bytes": len(chunk)}
+            print(slug, "TOO-SHORT", len(chunk)); continue
+        dest = os.path.join(out, slug + ".txt")
+        with open(dest + ".tmp", "w", encoding="utf-8") as f:
+            f.write(chunk)
+        os.replace(dest + ".tmp", dest)
+        report[slug] = {"status": "cut", "source": src, "body_lines": [a + 1, b],
+                        "lines": b - a, "bytes": len(chunk.encode("utf-8"))}
+        print(slug, "cut", b - a, "lines", report[slug]["bytes"], "bytes")
+    rp = os.path.join(out, "titles_report.json")
+    json.dump(report, open(rp + ".tmp", "w"), indent=1)
+    os.replace(rp + ".tmp", rp)
+    bad = [s for s, r in report.items() if r["status"] != "cut"]
+    print(f"{len(report)} titles, {len(bad)} not cut: {bad}")
+    sys.exit(1 if bad else 0)
+
+if __name__ == "__main__":
+    main()

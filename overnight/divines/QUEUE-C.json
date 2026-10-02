@@ -3,9 +3,11 @@
   "items": [
     {
       "id": "shelf-dryden",
-      "status": "running",
+      "status": "done-with-defects",
       "scope": "TRANSLATOR SHELF \u2014 all John Dryden translations, each title its own uid; own grouping; shelf + fetch + map section",
-      "started": "2026-10-02T15:20-05:00"
+      "started": "2026-10-02T15:12-05:00",
+      "finished": "2026-10-02T15:17-05:00",
+      "notes": "Shelf pipeline/dryden_shelf.json: 10 sources fetched (8 PG, 2 IA), 7.5 MB; 21 titles cut by heading marker with new pipeline/split_shelf_titles.py (all 21 cut, 0 failed). Defects: (1) titles NOT converted to unit-id JSON - converters need a fetch_sources.py manifest entry, which relay rules forbid; (2) dryden-history-of-the-league is long-s OCR (78% of tokens in a clean-text vocabulary vs 94% for the Scott volumes); (3) dryden-metamorphoses is the Garth composite (many hands), raw OCR (95% vocab hit, good); (4) no uids minted - all 21 await Adam. Scott vol 1 (Life) not on PG; not a translation, out of scope. 'started' corrected from an estimated 15:20 to 15:12."
     },
     {
       "id": "shelf-garnett",
