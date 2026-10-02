@@ -17,17 +17,28 @@ the item's text file name, when it is not <id>_djvu.txt; without it, the shelf n
 name). A CCEL entry's id may itself be a full "x/author/work" path. Optional
 "_name_words": words to skip in the title check (the author's name).
 """
-import json, os, re, sys, time, urllib.parse, urllib.request
+import gzip, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
 
 def get(url, tries=5):
+    headers = UA
     for i in range(tries):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=180) as r:
-                return r.read()
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=180) as r:
+                data = r.read()
+            # Some Gutenberg files exist only gzip-encoded and answer a plain
+            # request with HTTP 406 (PG 7825); those are asked for again
+            # accepting gzip, and decompressed here.
+            return gzip.decompress(data) if data[:2] == b"\x1f\x8b" else data
+        except urllib.error.HTTPError as e:
+            err = e
+            if e.code == 406 and headers is UA:
+                headers = {**UA, "Accept-Encoding": "gzip"}
+                continue
+            time.sleep(2 ** i)
         except Exception as e:
             err = e
             time.sleep(2 ** i)
