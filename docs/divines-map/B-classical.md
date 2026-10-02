@@ -409,6 +409,7 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Tragedies of Seneca, translated into English verse | Frank Justus Miller | `seneca-miller-tragedies` | have (PG 57999) |
 | Two Tragedies of Seneca: Medea and The Daughters of Troy | Ella Isabel Harris | `seneca-harris-medea-troy` | have (PG 46058) |
 | A Translation of Octavia, a Latin Tragedy | Elizabeth Twining Hall (play of doubtful authorship) | `seneca-hall-octavia` | have (PG 54702) |
+| Between Heathenism and Christianity: De Providentia (with Plutarch) | Charles W. Super (1899) | `seneca-super-providentia` | have (PG 60831) |
 | Apocolocyntosis | W. H. D. Rouse; US PD per Gutenberg | `seneca-rouse-apocolocyntosis` | have (PG 10001) |
 
 Pending (wishlist): Gummere's Moral Epistles (Loeb 1917-25, Latin facing); Thomas Lodge's Works (1614).
@@ -570,6 +571,7 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Captivi and the Mostellaria | Henry T. Riley (prose) | `plautus-riley-captivi-mostellaria` | have (PG 7282) |
+| Plautus vol. 1: Amphitryo, Asinaria, Aulularia, Bacchides, Captivi | Paul Nixon (Loeb 1916; Latin facing) | `plautus-nixon-v1` | have (PG 16564) |
 | The Comedies of Terence, literally translated into English prose | Henry T. Riley (Bohn) | `terence-riley-comedies` | have (PG 22188) |
 | The Comedies of Terence | George Colman (verse) | `terence-colman-comedies` | have (PG 22695) |
 | Terence's Andrian, a comedy in five acts | W. R. Goodluck | `terence-goodluck-andrian` | have (PG 72921) |
@@ -643,6 +645,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Cicero's Brutus, or History of Famous Orators; also his Orator | E. Jones | `cicero-jones-brutus-orator` | have (PG 9776) |
 | The Letters of Cicero: the whole extant correspondence, vol. 1 | Evelyn S. Shuckburgh | `cicero-shuckburgh-letters-v1` | have (PG 21200) |
 | Letters of Marcus Tullius Cicero (selection) | Evelyn S. Shuckburgh | `cicero-shuckburgh-letters-selection` | have (PG 2812) |
+| De Officiis | Walter Miller (Loeb; Latin facing) | `cicero-miller-de-officiis` | have (PG 47001) |
 | The Orations of Marcus Tullius Cicero, vol. 1 (Bohn) | C. D. Yonge | `cicero-yonge-orations-v1` | have-raw (IA `orationsofmarcus01ciceuoft`) |
 | The Orations of Marcus Tullius Cicero, vol. 2 (Bohn) | C. D. Yonge | `cicero-yonge-orations-v2` | have-raw (IA `orationsofmarcus02ciceuoft`) |
 | The Orations of Marcus Tullius Cicero, vol. 3 (Bohn) | C. D. Yonge | `cicero-yonge-orations-v3` | have-raw (IA `orationsofmarcus03cice`) |
@@ -847,6 +850,7 @@ Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Consolation of Philosophy | H. R. James | `boethius-james` | have (PG 14328) |
+| The Theological Tractates and The Consolation of Philosophy | Stewart and Rand (Loeb 1918; 'I.T.' 1609 revised) | `boethius-rand-stewart` | have (PG 13316) |
 
 Excluded: Chaucer's Middle English Boece
 
@@ -1146,6 +1150,24 @@ Shelf: `pipeline/justinian_shelf.json`. Moyle's Institutes, 1913 5th ed. (Gutenb
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Institutes of Justinian | John Baron Moyle | `justinian-institutes-moyle` | have (PG 5983) |
+
+## Dionysius of Halicarnassus
+
+Shelf: `pipeline/dionysius-halicarnassus_shelf.json`. Roberts, On Literary Composition 1910 (Gutenberg; Greek facing kept).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Dionysius of Halicarnassus On Literary Composition | ed. and W. Rhys Roberts | `dionysius-roberts-composition` | have (PG 50212) |
+
+Pending (wishlist): Roman Antiquities (Spelman 1758)
+
+## Augustus, Res Gestae
+
+Shelf: `pipeline/augustus_shelf.json`. Fairley 1898 (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Monumentum Ancyranum: The Deeds of Augustus | ed. and William Fairley | `augustus-res-gestae-fairley` | have (PG 66595) |
 
 ## Perseus census (overflow)
 

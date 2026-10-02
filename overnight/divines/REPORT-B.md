@@ -136,3 +136,8 @@
 - overflow: celsus (Greive, PG 64207), roman-farming (Harrison 1918, PG 12140), phaedrus (Riley and Smart, PG 25512), roman-epitomators (Watson's Bohn: Justin, Nepos, Eutropius, Florus, Velleius; IA), justinian (Moyle, PG 5983).
 - No PD English found: Valerius Flaccus (Mozley 1934), Silius Italicus (Duff 1934), Macrobius (no complete English before modern editions).
 - All PG headers read: none COPYRIGHTED. The Loebs taken here (Mozley, Butler, Evelyn-White, Bennett) have Latin facing pages; Latin OCR is legible, unlike the Greek Loebs left pending.
+
+## 2026-10-02 16:34 CDT — bilingual-pg-adds (done; added to the queue as overflow)
+- Gutenberg books catalogued "en; la" or "en; grc", which earlier English-only catalogue searches missed: Miller's De Officiis (PG 47001) to cicero; Nixon's Plautus vol 1, 1916 (PG 16564) to roman-comedy; Stewart and Rand's Boethius, 1918 (PG 13316) to boethius; Super's De Providentia, 1899 (PG 60831) to seneca.
+- New shelves: dionysius-halicarnassus (Roberts 1910, PG 50212), augustus (Fairley's Res Gestae 1898, PG 66595).
+- All headers read: none COPYRIGHTED.

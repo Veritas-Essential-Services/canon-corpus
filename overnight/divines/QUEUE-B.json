@@ -166,6 +166,24 @@
       "started": "2026-10-02T16:28:14-05:00",
       "finished": "2026-10-02T16:33:04-05:00",
       "notes": "martial, statius, claudian, quintilian, vitruvius, gellius, ammianus, ausonius, frontinus, celsus, roman-farming, phaedrus, roman-epitomators, justinian; Valerius Flaccus, Silius, Macrobius: no PD English found"
+    },
+    {
+      "id": "bilingual-pg-adds",
+      "status": "done",
+      "scope": "OVERFLOW: Gutenberg books catalogued 'en; la' / 'en; grc' that English-only searches missed (Cicero De Officiis Miller, Plautus Nixon, Boethius Rand/Stewart, Dionysius of Halicarnassus Roberts, Monumentum Ancyranum) plus Seneca prose on Gutenberg not yet shelved; add to existing shelves or new per-author shelves",
+      "started": "2026-10-02T16:33:26-05:00",
+      "finished": "2026-10-02T16:34:38-05:00",
+      "notes": "cicero +Miller De Officiis, roman-comedy +Nixon Plautus v1, boethius +Stewart/Rand, seneca +Super; new dionysius-halicarnassus, augustus"
+    },
+    {
+      "id": "reverify-all-b",
+      "status": "todo",
+      "scope": "AUDIT: fetch_shelf.py --verify on every lane B shelf; record any wrong book"
+    },
+    {
+      "id": "digest-refresh-b",
+      "status": "todo",
+      "scope": "Refresh DIGEST-B totals (shelves, texts, MB) and decisions for Adam"
     }
   ]
 }
