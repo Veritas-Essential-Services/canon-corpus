@@ -764,6 +764,23 @@ Shelf: `pipeline/lofting_shelf.json` (2026-10-02; added at the coordinator's rel
 | lofting-later-printings-only | pending | Doctor Dolittle's Circus (1924), Doctor Dolittle's Zoo (1925) and Doctor Dolittle's Garden (1927). The Internet Archive scans found are later printings (1950s-1960s, with renewal notices and new front matter about Lofting that is not itself public domain); a first-printing scan should be found before they enter the shelf |
 | lofting-1929-and-later | excluded | outside the relay's pre-1929 line: Noisy Nora (1929), The Twilight of Magic (1930), Gub Gub's Book (1932) and the later Dolittle books |
 
+## Joseph Jacobs (the fairy-tale collections)
+
+Shelf: `pipeline/jacobs-fairy_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Jacobs compiled and retold these tales in his own English, so no translator is owed. English Fairy Tales is cut by a title list read from its run-on Contents (the house rule would split Mr Fox at its refrain); More English Fairy Tales by its own Contents. Europa's Fairy Book (1916) is added from the same hand; Celtic Folk and Fairy Tales (PG 35862) is held back as a probable retitling of Celtic Fairy Tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| English Fairy Tales (1890) | have | PG 7439, `jacobs-english-fairy-tales` (1259 units) |
+| More English Fairy Tales (1894) | have | PG 14241, `jacobs-more-english-fairy-tales` (1331 units) |
+| Celtic Fairy Tales (1892) | have | PG 7885, `jacobs-celtic-fairy-tales` (1529 units) |
+| More Celtic Fairy Tales (1894) | have | PG 34453, `jacobs-more-celtic-fairy-tales` (1491 units) |
+| Indian Fairy Tales (1892) | have | PG 7128, `jacobs-indian-fairy-tales` (1221 units) |
+| Europa's Fairy Book (1916) | have | PG 26019, `jacobs-europas-fairy-book` (1395 units) |
+| jacobs-aesop | excluded | The Fables of Aesop (PG 28): held on the Aesop shelf as `aesop-jacobs` |
+| jacobs-celtic-folk-and-fairy-tales | pending | PENDING CHECK: Celtic Folk and Fairy Tales (PG 35862) is probably Celtic Fairy Tales under an American title; held back until compared |
+| jacobs-edited-only | excluded | works Jacobs only edited or introduced: Painter's Palace of Pleasure (PG 20241, 34053, 34840), Morris's Old French Romances (PG 5988) |
+| jacobs-not-fairy-tales | excluded | The Story of Geographical Discovery (PG 14291), As Others Saw Him (PG 48974): outside the relay's ask |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,50 @@
+{
+ "_about": "Joseph Jacobs's (1854-1916) fairy-tale collections, as the relay named them: English Fairy Tales (1890), More English Fairy Tales (1894), Celtic Fairy Tales (1892), More Celtic Fairy Tales (1894) and Indian Fairy Tales (1892), with Europa's Fairy Book (1916) from the same hand. Jacobs compiled and retold; he is the author of these English texts, so no translator is owed. Clean Gutenberg text; US public domain. His Aesop is already on the Aesop shelf as `aesop-jacobs`; these slugs take the prefix `jacobs-` and do not clash.",
+ "_author": "Joseph Jacobs",
+ "_name_words": [
+  "jacobs",
+  "fairy",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jacobs-english-fairy-tales": [
+   7439,
+   "English Fairy Tales (1890)",
+   {
+    "chapre_only": "(?:[\\W_]*(?:THE[\\W_]*STORY[\\W_]*OF[\\W_]*THE[\\W_]*THREE[\\W_]*LITTLE[\\W_]*PIGS|HOW[\\W_]*JACK[\\W_]*WENT[\\W_]*TO[\\W_]*SEEK[\\W_]*HIS[\\W_]*FORTUNE|THE[\\W_]*LAIDLY[\\W_]*WORM[\\W_]*OF[\\W_]*SPINDLESTON[\\W_]*HEUGH|THE[\\W_]*ASS[\\W_]*THE[\\W_]*TABLE[\\W_]*AND[\\W_]*THE[\\W_]*STICK|THE[\\W_]*WELL[\\W_]*OF[\\W_]*THE[\\W_]*WORLD[\\W_]*S[\\W_]*END|JACK[\\W_]*AND[\\W_]*HIS[\\W_]*GOLDEN[\\W_]*SNUFF[\\W_]*BOX|THE[\\W_]*STORY[\\W_]*OF[\\W_]*THE[\\W_]*THREE[\\W_]*BEARS|THE[\\W_]*THREE[\\W_]*HEADS[\\W_]*OF[\\W_]*THE[\\W_]*WELL|THE[\\W_]*OLD[\\W_]*WOMAN[\\W_]*AND[\\W_]*HER[\\W_]*PIG|TITTY[\\W_]*MOUSE[\\W_]*AND[\\W_]*TATTY[\\W_]*MOUSE|THE[\\W_]*MASTER[\\W_]*AND[\\W_]*HIS[\\W_]*PUPIL|THE[\\W_]*HISTORY[\\W_]*OF[\\W_]*TOM[\\W_]*THUMB|THE[\\W_]*CAULD[\\W_]*LAD[\\W_]*OF[\\W_]*HILTON|THE[\\W_]*CAT[\\W_]*AND[\\W_]*THE[\\W_]*MOUSE|THE[\\W_]*FISH[\\W_]*AND[\\W_]*THE[\\W_]*RING|WHITTINGTON[\\W_]*AND[\\W_]*HIS[\\W_]*CAT|JACK[\\W_]*AND[\\W_]*THE[\\W_]*BEANSTALK|JACK[\\W_]*THE[\\W_]*GIANT[\\W_]*KILLER|MASTER[\\W_]*OF[\\W_]*ALL[\\W_]*MASTERS|EARL[\\W_]*MAR[\\W_]*S[\\W_]*DAUGHTER|THE[\\W_]*MAGPIE[\\W_]*S[\\W_]*NEST|NOTES[\\W_]*AND[\\W_]*REFERENCES|THE[\\W_]*STRANGE[\\W_]*VISITOR|NIX[\\W_]*NOUGHT[\\W_]*NOTHING|THE[\\W_]*THREE[\\W_]*SILLIES|MOUSE[\\W_]*AND[\\W_]*MOUSER|THE[\\W_]*GOLDEN[\\W_]*ARM|THE[\\W_]*ROSE[\\W_]*TREE|THE[\\W_]*RED[\\W_]*ETTIN|CAP[\\W_]*O[\\W_]*RUSHES|TOM[\\W_]*TIT[\\W_]*TOT|KATE[\\W_]*CRACKERNUTS|JACK[\\W_]*HANNAFORD|CHILDE[\\W_]*ROWLAND|FAIRY[\\W_]*OINTMENT|MOLLY[\\W_]*WHUPPIE|HENNY[\\W_]*PENNY|JOHNNY[\\W_]*CAKE|MR[\\W_]*VINEGAR|TEENY[\\W_]*TINY|LAZY[\\W_]*JACK|MR[\\W_]*MIACCA|MR[\\W_]*FOX|BINNORIE|CONTENTS|PREFACE)[\\W_]*)$",
+    "repeat_continues": true
+   }
+  ],
+  "jacobs-more-english-fairy-tales": [
+   14241,
+   "More English Fairy Tales (1894)",
+   {
+    "contents_only": true
+   }
+  ],
+  "jacobs-celtic-fairy-tales": [
+   7885,
+   "Celtic Fairy Tales (1892)"
+  ],
+  "jacobs-more-celtic-fairy-tales": [
+   34453,
+   "More Celtic Fairy Tales (1894)"
+  ],
+  "jacobs-indian-fairy-tales": [
+   7128,
+   "Indian Fairy Tales (1892)"
+  ],
+  "jacobs-europas-fairy-book": [
+   26019,
+   "Europa's Fairy Book (1916)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "jacobs-aesop": "The Fables of Aesop (PG 28): held on the Aesop shelf as `aesop-jacobs`",
+  "jacobs-celtic-folk-and-fairy-tales": "PENDING CHECK: Celtic Folk and Fairy Tales (PG 35862) is probably Celtic Fairy Tales under an American title; held back until compared",
+  "jacobs-edited-only": "works Jacobs only edited or introduced: Painter's Palace of Pleasure (PG 20241, 34053, 34840), Morris's Old French Romances (PG 5988)",
+  "jacobs-not-fairy-tales": "The Story of Geographical Discovery (PG 14291), As Others Saw Him (PG 48974): outside the relay's ask"
+ }
+}

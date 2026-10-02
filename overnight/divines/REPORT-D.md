@@ -138,3 +138,6 @@
 - Side job for the upkeep thread, at the coordinator's request: in a scratch worktree, removed afterwards with nothing committed, ran contents_key_diff.py on the 36 CHESTERTON_GUTENBERG books. Result: 0 ids change. Sent to that session.
 - Held back: Pinocchio PG 16865 (no translator named); Lofting's Circus, Zoo and Garden (later printings only). Baum's non-Oz books are pending Adam.
 - Next Lane D worker: queue empty; upkeep only.
+
+## 2026-10-02 16:48 CDT — jacobs-fairy: done
+- 6/6 fetched (Gutenberg 7439, 14241, 7885, 34453, 7128, 26019), 8,226 units, 0 duplicate ids. English Fairy Tales by a Contents title list (43 tales) with repeat_continues (the JACK THE GIANT-KILLER display line); More English by its own Contents. 35862 held back as a probable retitling of Celtic Fairy Tales.
