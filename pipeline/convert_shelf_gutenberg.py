@@ -17,6 +17,8 @@ leniently (lenient_contents_chapre), without the ALL-CAPS fallback (a book whose
 caps lines are part numbers or captions, not headings); {"chapre_only": "<regex>"}
 replaces the rule outright (Lucas's letters: "LETTER 12" and nothing else);
 {"levels": [...]} hands the book to convert_nested.py (Book > Part > Chapter);
+{"sub": "<regex>"} nests a second level (an essay's numbered sections, "III")
+under the Contents titles, through convert_nested.py;
 {"repeat_continues": true} runs the paragraph count on across a heading printed
 twice in a row (continue_repeated_heading). Verse books go
 through the same prose path, so a "paragraph" there is a stanza; the scheme's
@@ -114,6 +116,10 @@ def main():
             # an illustration placeholder is never a heading (a Contents of plates can
             # list them, and illustrated transcriptions put one on every page)
             chapre = rf"(?!\[?Illustration)(?:{chapre})"
+            if opts.get("sub"):          # essays from the Contents, each with numbered sections
+                # the outer rule is the book's heading rule as built above, minus anything
+                # the inner rule claims (a bare "III" is CAPS_HEADING-shaped)
+                opts = {**opts, "levels": [{"re": rf"(?!(?:{opts['sub']}))(?:{chapre})"}, {"re": opts["sub"]}]}
             if opts.get("levels"):       # Book > Part > Chapter: convert_nested.py
                 book = convert_nested(path, slug, row[1], author, opts["levels"], opts.get("start"))
             else:

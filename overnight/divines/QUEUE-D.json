@@ -123,8 +123,11 @@
     },
     {
       "id": "stevenson",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Robert Louis Stevenson: fiction, verse, essays, travel; Treasure Island already held as `treasure_island` (fetch_sources.py) — cross-reference, do not duplicate; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Robert Louis Stevenson: fiction, verse, essays, travel; Treasure Island already held as `treasure_island` (fetch_sources.py) — cross-reference, do not duplicate; no minting",
+      "started": "2026-10-02T16:00:52-05:00",
+      "finished": "2026-10-02T16:05:58-05:00",
+      "notes": "45/45 fetched (Gutenberg), 0 copyright markers; 34,834 units. Treasure Island cross-referenced to fetch_sources.py (PG 120), not refetched. New convert_shelf_gutenberg option sub (essay > numbered section). Letters cite recipient + place/date line; plays by play/act/tableau/scene. Swanston Edition p"
     },
     {
       "id": "chesterton-gaps",

@@ -457,6 +457,64 @@ Shelf: `pipeline/kipling_shelf.json` (2026-10-02; added at the coordinator's rel
 | kipling-not-his | excluded | anthologies with other authors (PG 2035, 2038, 12732, 15466, 21964, 62942, 60482, 30568), selections from his books (16578, 28537, 8649, 2334, 8147, 2163), Widger's index (57538) |
 | kipling-translations | excluded | Finnish, French, Esperanto and Spanish translations: this shelf is Kipling's English |
 
+## Robert Louis Stevenson
+
+Shelf: `pipeline/stevenson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 45 books, one Gutenberg text each: novels, tales, verse, travel, essays, histories, prayers, letters, and the collaborations (partner named in the title). Treasure Island is already held through fetch_sources.py and is cross-referenced, not refetched. Per-book rules: essay collections cite essay / numbered section (`sub` option); the Colvin Letters cite by recipient plus the place-and-date line (Colvin did not number them; 38 letters sharing recipient and date line still take `~n`); the Henley plays cite play / act / tableau or scene. The 23-volume Swanston Edition is pending as a possible second witness. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Strange Case of Dr Jekyll and Mr Hyde (1886) | have | PG 43, `stevenson-dr-jekyll-and-mr-hyde` (330 units) |
+| Kidnapped (1886) | have | PG 421, `stevenson-kidnapped` (1515 units) |
+| Catriona (1893; in the US, David Balfour) | have | PG 589, `stevenson-catriona` (1918 units) |
+| The Black Arrow: A Tale of the Two Roses (1888) | have | PG 848, `stevenson-black-arrow` (1939 units) |
+| The Master of Ballantrae (1889) | have | PG 864, `stevenson-master-of-ballantrae` (1268 units) |
+| Prince Otto (1885) | have | PG 372, `stevenson-prince-otto` (1290 units) |
+| St. Ives (1897; finished by Arthur Quiller-Couch) | have | PG 322, `stevenson-st-ives` (1734 units) |
+| Weir of Hermiston: An Unfinished Romance (1896) | have | PG 380, `stevenson-weir-of-hermiston` (682 units) |
+| New Arabian Nights (1882) | have | PG 839, `stevenson-new-arabian-nights` (1989 units) |
+| More New Arabian Nights: The Dynamiter (1885), with Fanny Van de Grift Stevenson | have | PG 647, `stevenson-dynamiter` (1071 units) |
+| The Merry Men, and Other Tales and Fables (1887) | have | PG 344, `stevenson-merry-men` (990 units) |
+| Island Nights' Entertainments (1893) | have | PG 329, `stevenson-island-nights-entertainments` (863 units) |
+| Tales and Fantasies (1905) | have | PG 426, `stevenson-tales-and-fantasies` (917 units) |
+| Fables (1896) | have | PG 343, `stevenson-fables` (420 units) |
+| The Waif Woman (1916) | have | PG 19750, `stevenson-waif-woman` (141 units) |
+| The Wrong Box (1889), with Lloyd Osbourne | have | PG 1585, `stevenson-wrong-box` (1318 units) |
+| The Wrecker (1892), with Lloyd Osbourne | have | PG 1024, `stevenson-wrecker` (2221 units) |
+| The Ebb-Tide (1894), with Lloyd Osbourne | have | PG 1604, `stevenson-ebb-tide` (1084 units) |
+| The Plays of W. E. Henley and R. L. Stevenson (Deacon Brodie, Beau Austin, Admiral Guinea, Macaire) | have | PG 719, `stevenson-plays` (2567 units) |
+| A Child's Garden of Verses (1885) | have | PG 136, `stevenson-childs-garden-of-verses` (283 units) |
+| Underwoods (1887) | have | PG 438, `stevenson-underwoods` (291 units) |
+| Ballads (1890) | have | PG 413, `stevenson-ballads` (170 units) |
+| Songs of Travel, and Other Verses (1896), ed. Sidney Colvin | have | PG 487, `stevenson-songs-of-travel` (183 units) |
+| New Poems, and Variant Readings (1918) | have | PG 441, `stevenson-new-poems` (460 units) |
+| Moral Emblems and other Davos booklets (1881-82) | have | PG 772, `stevenson-moral-emblems` (137 units) |
+| Prayers Written at Vailima, and A Lowden Sabbath Morn | have | PG 616, `stevenson-prayers-at-vailima` (90 units) |
+| An Inland Voyage (1878) | have | PG 534, `stevenson-inland-voyage` (323 units) |
+| Travels with a Donkey in the Cevennes (1879) | have | PG 535, `stevenson-travels-with-a-donkey` (342 units) |
+| The Silverado Squatters (1883) | have | PG 516, `stevenson-silverado-squatters` (238 units) |
+| Edinburgh: Picturesque Notes (1878) | have | PG 382, `stevenson-edinburgh-picturesque-notes` (104 units) |
+| In the South Seas (1896) | have | PG 464, `stevenson-in-the-south-seas` (464 units) |
+| Essays of Travel (1905) | have | PG 627, `stevenson-essays-of-travel` (393 units) |
+| Across the Plains, with Other Memories and Essays (1892) | have | PG 614, `stevenson-across-the-plains` (322 units) |
+| Virginibus Puerisque, and Other Papers (1881) | have | PG 386, `stevenson-virginibus-puerisque` (184 units) |
+| Familiar Studies of Men and Books (1882) | have | PG 425, `stevenson-familiar-studies` (461 units) |
+| Memories and Portraits (1887) | have | PG 381, `stevenson-memories-and-portraits` (200 units) |
+| Essays in the Art of Writing (1905) | have | PG 492, `stevenson-essays-in-the-art-of-writing` (146 units) |
+| Lay Morals, and Other Papers (1911) | have | PG 373, `stevenson-lay-morals` (773 units) |
+| Father Damien: An Open Letter to the Reverend Dr. Hyde of Honolulu (1890) | have | PG 281, `stevenson-father-damien` (47 units) |
+| A Footnote to History: Eight Years of Trouble in Samoa (1892) | have | PG 536, `stevenson-footnote-to-history` (221 units) |
+| Records of a Family of Engineers (1912) | have | PG 280, `stevenson-records-of-a-family-of-engineers` (494 units) |
+| Memoir of Fleeming Jenkin (1887) | have | PG 698, `stevenson-memoir-of-fleeming-jenkin` (393 units) |
+| Vailima Letters (1895), to Sidney Colvin | have | PG 387, `stevenson-vailima-letters` (955 units) |
+| The Letters of Robert Louis Stevenson, Volume 1 (1899), ed. Sidney Colvin | have | PG 622, `stevenson-letters-1` (1601 units) |
+| The Letters of Robert Louis Stevenson, Volume 2 (1899), ed. Sidney Colvin | have | PG 637, `stevenson-letters-2` (1302 units) |
+| stevenson-treasure-island | excluded | HELD elsewhere: Treasure Island is fetch_sources.py's `treasure_island` (PG 120); Winter's illustrated text (27780) is a duplicate |
+| stevenson-duplicates | excluded | other transcriptions of books held: Jekyll and Hyde (PG 42), David Balfour (14133, the US title of Catriona), Kidnapped ill. Wyeth (56562), Black Arrow ill. Wyeth (32954), A Child's Garden of Verses in seven illustrated editions (19722, 25608-25611, 25617, 28722), A Lowden Sabbath Morn (35546, also in Prayers at Vailima), A Christmas Sermon (14535, in Across the Plains), The Sea Fogs (5272, a chapter of Silverado) |
+| stevenson-swanston | pending | the Swanston Edition (23 volumes on Gutenberg, 21686 and 30393-31916), with Andrew Lang's introduction. Its texts duplicate the single books held here; it would be a second witness, for Adam to decide |
+| stevenson-selections | excluded | selections from his works: The Pocket R.L.S. (2537), Essays ed. Phelps (10761), An Apology for Idlers and other essays (69825) |
+| stevenson-not-his | excluded | anthologies with other authors (PG 2038, 2071, 2359, 2588, 10135, 12732, 21964, 59813), books about him (15547, 53165, 79196), Porto Bello Gold by A. D. H. Smith (70777), Widger's index (58181) |
+| stevenson-translations | excluded | non-English editions: this shelf is Stevenson's English |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

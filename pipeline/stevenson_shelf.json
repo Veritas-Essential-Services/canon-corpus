@@ -1,0 +1,271 @@
+{
+ "_about": "Robert Louis Stevenson's (1850-1894) books, one Gutenberg text each: the novels and romances, the tales, the verse, the travel books, essays, the Samoa and family histories, prayers and letters. Collaborations with Lloyd Osbourne, Fanny Van de Grift Stevenson and W. E. Henley are included, with the partner in the title. Treasure Island is already held (pipeline/fetch_sources.py, `treasure_island`, PG 120) and is not fetched again. Clean Gutenberg text; all published before 1930: US public domain.",
+ "_author": "Robert Louis Stevenson",
+ "_name_words": [
+  "robert",
+  "louis",
+  "stevenson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stevenson-dr-jekyll-and-mr-hyde": [
+   43,
+   "The Strange Case of Dr Jekyll and Mr Hyde (1886)"
+  ],
+  "stevenson-kidnapped": [
+   421,
+   "Kidnapped (1886)"
+  ],
+  "stevenson-catriona": [
+   589,
+   "Catriona (1893; in the US, David Balfour)"
+  ],
+  "stevenson-black-arrow": [
+   848,
+   "The Black Arrow: A Tale of the Two Roses (1888)"
+  ],
+  "stevenson-master-of-ballantrae": [
+   864,
+   "The Master of Ballantrae (1889)"
+  ],
+  "stevenson-prince-otto": [
+   372,
+   "Prince Otto (1885)"
+  ],
+  "stevenson-st-ives": [
+   322,
+   "St. Ives (1897; finished by Arthur Quiller-Couch)"
+  ],
+  "stevenson-weir-of-hermiston": [
+   380,
+   "Weir of Hermiston: An Unfinished Romance (1896)"
+  ],
+  "stevenson-new-arabian-nights": [
+   839,
+   "New Arabian Nights (1882)"
+  ],
+  "stevenson-dynamiter": [
+   647,
+   "More New Arabian Nights: The Dynamiter (1885), with Fanny Van de Grift Stevenson"
+  ],
+  "stevenson-merry-men": [
+   344,
+   "The Merry Men, and Other Tales and Fables (1887)"
+  ],
+  "stevenson-island-nights-entertainments": [
+   329,
+   "Island Nights' Entertainments (1893)",
+   {
+    "levels": [
+     {
+      "re": "(?:THE BEACH OF FALES|THE BOTTLE IMP|THE ISLE OF VOICES)[^a-z]{0,6}$"
+     },
+     {
+      "re": "CHAPTER [IVX]+\\.?.{0,60}$"
+     }
+    ]
+   }
+  ],
+  "stevenson-tales-and-fantasies": [
+   426,
+   "Tales and Fantasies (1905)"
+  ],
+  "stevenson-fables": [
+   343,
+   "Fables (1896)"
+  ],
+  "stevenson-waif-woman": [
+   19750,
+   "The Waif Woman (1916)"
+  ],
+  "stevenson-wrong-box": [
+   1585,
+   "The Wrong Box (1889), with Lloyd Osbourne",
+   {
+    "chapre_only": "CHAPTER [IVXL]+\\.\\s.{2,70}$"
+   }
+  ],
+  "stevenson-wrecker": [
+   1024,
+   "The Wrecker (1892), with Lloyd Osbourne"
+  ],
+  "stevenson-ebb-tide": [
+   1604,
+   "The Ebb-Tide (1894), with Lloyd Osbourne",
+   {
+    "levels": [
+     {
+      "re": "(?:Part [IVX]+|THE TRIO|THE QUARTETTE)\\.?$"
+     },
+     {
+      "re": "Chapter \\d+\\. .{2,70}$"
+     }
+    ]
+   }
+  ],
+  "stevenson-plays": [
+   719,
+   "The Plays of W. E. Henley and R. L. Stevenson (Deacon Brodie, Beau Austin, Admiral Guinea, Macaire)",
+   {
+    "levels": [
+     {
+      "re": "(?:DEACON BRODIE|BEAU AUSTIN|ADMIRAL GUINEA|MACAIRE)(?: OR THE DOUBLE LIFE.*| A MELODRAMATIC FARCE.*)?$"
+     },
+     {
+      "re": "ACT [IVX]+\\.?$"
+     },
+     {
+      "re": "TABLEAU [IVX]+\\. [A-Z][^a-z]{2,40}$"
+     },
+     {
+      "re": "SCENE [IVX]+\\.?$"
+     }
+    ]
+   }
+  ],
+  "stevenson-childs-garden-of-verses": [
+   136,
+   "A Child's Garden of Verses (1885)"
+  ],
+  "stevenson-underwoods": [
+   438,
+   "Underwoods (1887)"
+  ],
+  "stevenson-ballads": [
+   413,
+   "Ballads (1890)"
+  ],
+  "stevenson-songs-of-travel": [
+   487,
+   "Songs of Travel, and Other Verses (1896), ed. Sidney Colvin"
+  ],
+  "stevenson-new-poems": [
+   441,
+   "New Poems, and Variant Readings (1918)"
+  ],
+  "stevenson-moral-emblems": [
+   772,
+   "Moral Emblems and other Davos booklets (1881-82)"
+  ],
+  "stevenson-prayers-at-vailima": [
+   616,
+   "Prayers Written at Vailima, and A Lowden Sabbath Morn",
+   {
+    "contents_only": true
+   }
+  ],
+  "stevenson-inland-voyage": [
+   534,
+   "An Inland Voyage (1878)"
+  ],
+  "stevenson-travels-with-a-donkey": [
+   535,
+   "Travels with a Donkey in the Cevennes (1879)"
+  ],
+  "stevenson-silverado-squatters": [
+   516,
+   "The Silverado Squatters (1883)"
+  ],
+  "stevenson-edinburgh-picturesque-notes": [
+   382,
+   "Edinburgh: Picturesque Notes (1878)"
+  ],
+  "stevenson-in-the-south-seas": [
+   464,
+   "In the South Seas (1896)"
+  ],
+  "stevenson-essays-of-travel": [
+   627,
+   "Essays of Travel (1905)"
+  ],
+  "stevenson-across-the-plains": [
+   614,
+   "Across the Plains, with Other Memories and Essays (1892)",
+   {
+    "sub": "[IVXL]+\\.?$"
+   }
+  ],
+  "stevenson-virginibus-puerisque": [
+   386,
+   "Virginibus Puerisque, and Other Papers (1881)"
+  ],
+  "stevenson-familiar-studies": [
+   425,
+   "Familiar Studies of Men and Books (1882)",
+   {
+    "sub": "[IVXL]+\\.?$"
+   }
+  ],
+  "stevenson-memories-and-portraits": [
+   381,
+   "Memories and Portraits (1887)",
+   {
+    "sub": "[IVXL]+\\.?$"
+   }
+  ],
+  "stevenson-essays-in-the-art-of-writing": [
+   492,
+   "Essays in the Art of Writing (1905)"
+  ],
+  "stevenson-lay-morals": [
+   373,
+   "Lay Morals, and Other Papers (1911)"
+  ],
+  "stevenson-father-damien": [
+   281,
+   "Father Damien: An Open Letter to the Reverend Dr. Hyde of Honolulu (1890)"
+  ],
+  "stevenson-footnote-to-history": [
+   536,
+   "A Footnote to History: Eight Years of Trouble in Samoa (1892)"
+  ],
+  "stevenson-records-of-a-family-of-engineers": [
+   280,
+   "Records of a Family of Engineers (1912)"
+  ],
+  "stevenson-memoir-of-fleeming-jenkin": [
+   698,
+   "Memoir of Fleeming Jenkin (1887)",
+   {
+    "sub": "[IVXL]+\\.?$"
+   }
+  ],
+  "stevenson-vailima-letters": [
+   387,
+   "Vailima Letters (1895), to Sidney Colvin"
+  ],
+  "stevenson-letters-1": [
+   622,
+   "The Letters of Robert Louis Stevenson, Volume 1 (1899), ed. Sidney Colvin",
+   {
+    "levels": [
+     {
+      "re": "TO [A-Z][A-Z .,&’'-]{2,70}$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "stevenson-letters-2": [
+   637,
+   "The Letters of Robert Louis Stevenson, Volume 2 (1899), ed. Sidney Colvin",
+   {
+    "levels": [
+     {
+      "re": "TO [A-Z][A-Z .,&’'-]{2,70}$",
+      "title_next": true
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "stevenson-treasure-island": "HELD elsewhere: Treasure Island is fetch_sources.py's `treasure_island` (PG 120); Winter's illustrated text (27780) is a duplicate",
+  "stevenson-duplicates": "other transcriptions of books held: Jekyll and Hyde (PG 42), David Balfour (14133, the US title of Catriona), Kidnapped ill. Wyeth (56562), Black Arrow ill. Wyeth (32954), A Child's Garden of Verses in seven illustrated editions (19722, 25608-25611, 25617, 28722), A Lowden Sabbath Morn (35546, also in Prayers at Vailima), A Christmas Sermon (14535, in Across the Plains), The Sea Fogs (5272, a chapter of Silverado)",
+  "stevenson-swanston": "PENDING: the Swanston Edition (23 volumes on Gutenberg, 21686 and 30393-31916), with Andrew Lang's introduction. Its texts duplicate the single books held here; it would be a second witness, for Adam to decide",
+  "stevenson-selections": "selections from his works: The Pocket R.L.S. (2537), Essays ed. Phelps (10761), An Apology for Idlers and other essays (69825)",
+  "stevenson-not-his": "anthologies with other authors (PG 2038, 2071, 2359, 2588, 10135, 12732, 21964, 59813), books about him (15547, 53165, 79196), Porto Bello Gold by A. D. H. Smith (70777), Widger's index (58181)",
+  "stevenson-translations": "non-English editions: this shelf is Stevenson's English"
+ }
+}

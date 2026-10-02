@@ -75,3 +75,6 @@
 
 ## 2026-10-02 16:00 CDT — kipling: done
 - 5/5 fetched (Gutenberg), 0 copyright markers; 6,452 units, 0 duplicate ids. Jungle Book, Second Jungle Book, Just So Stories, Puck of Pook's Hill, Rewards and Fairies. New convert_shelf_gutenberg option repeat_continues for a story title printed twice (over its epigraph and over the story). Other Kipling books pending Adam. No uids minted; not in manifest.
+
+## 2026-10-02 16:05 CDT — stevenson: done
+- 45/45 fetched (Gutenberg), 0 copyright markers; 34,834 units. Treasure Island cross-referenced to fetch_sources.py (PG 120), not refetched. New convert_shelf_gutenberg option sub (essay > numbered section). Letters cite recipient + place/date line; plays by play/act/tableau/scene. Swanston Edition pending. No uids minted; not in manifest.
