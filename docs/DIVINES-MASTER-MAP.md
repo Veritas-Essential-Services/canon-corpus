@@ -1517,7 +1517,7 @@ Shelf: `pipeline/tibullus_shelf.json`. Theodore C. Williams (1905), clean Gutenb
 |---|---|---|---|
 | The Elegies of Tibullus | Theodore Chickering Williams (verse) | `tibullus-williams` | have (PG 9610) |
 
-Pending (wishlist): Postgate's Loeb (1913).
+Pending (wishlist): none known. Postgate's Loeb Tibullus (1913) is held in the Catullus shelf's Loeb volume (`catullus-tibullus-pervigilium-loeb`).
 
 ## Juvenal and Persius
 
@@ -1573,8 +1573,10 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Golden Asse | William Adlington (1566) | `apuleius-adlington-golden-asse` | have (PG 1666) |
 | The Apologia and Florida of Apuleius of Madaura | H. E. Butler (1909) | `apuleius-butler-apologia-florida` | have (PG 26294) |
 | The Golden Ass, being the Metamorphoses of Lucius Apuleius (Loeb, 1915) | William Adlington (1566), revised by S. Gaselee | `apuleius-adlington-gaselee` | have-raw (IA `goldenassbeingme00apuliala`) |
+| The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
+Pending (wishlist): none known.
 
-Pending (wishlist): Butler's Metamorphoses (1910).
+Pending (wishlist): none known.
 
 ## Petronius
 
