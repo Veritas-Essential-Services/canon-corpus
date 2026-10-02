@@ -387,11 +387,12 @@ stay in E, as they do in WORDS; the names table in F replaces them.
 
 ## 6. Not here
 
-- **ADR 0012's lemma bridge (archaic English: shew→show, holpen→help)** is not
-  built. The ADR requires one ("without the bridge a concordance is silently
-  wrong") but does not specify its table, source or format. It needs a
-  specification before it can be built, and it is English, not this Latin
-  spine.
+- **ADR 0012's lemma bridge (archaic English: shew→show, holpen→help)** is
+  English, not this Latin spine, so it lives in its own files: built
+  2026-10-01 by `pipeline/build_lemma_bridge.py` into `data/lemma_bridge/`
+  (table, review list, Psalms + Proverbs coverage report), searched with
+  `pipeline/lemma_bridge.py` / `exports/lemma-bridge/lemma-bridge.js`, tested by
+  `tests/lemma_bridge_test.py`. The builder's docstring is its specification.
 - **Greek** (Morpheus, treebanks) is out of scope for D3's first pass.
   Licences as read on 2026-09-26:
   - Morpheus: MPL-2.0 (perseids-tools/morpheus);
