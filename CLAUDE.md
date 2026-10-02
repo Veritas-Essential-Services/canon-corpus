@@ -86,12 +86,18 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 68 offline checks (no corpus needed)
-    python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 tests/structure_test.py          # 83 offline checks (no corpus needed)
+    python3 tests/wh_uid_test.py             # 67 identity-layer checks
+    python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
     python3 pipeline/build_versification.py --check    # Hebrew->KJV map byte-identical; WLC invariants
     python3 pipeline/build_versification.py --measure  # BDB cites in Hebrew numbering: the evidence
     python3 tests/versification_test.py      # the map, offline
+    python3 pipeline/build_vulgate_versification.py --fetch    # TVTMS + the Clementine, pinned
+    python3 pipeline/build_vulgate_versification.py --check    # Vulgate->KJV map byte-identical; invariants
+    python3 pipeline/build_vulgate_versification.py --measure  # the map vs proper names in both texts
+    python3 pipeline/build_vulgate_versification.py --audit-douay  # the map vs the Douay's English
+    python3 tests/vulgate_versification_test.py  # the Vulgate map, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -130,6 +136,13 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- The Clementine Vulgate (1592, PD) — `VULGATE` in fetch_sources.py, pinned
+  to a commit of github.com/BibleGet-I-O/Clementine-Vulgate (73 books, one
+  sha256 over the files); `convert_vulgate` -> data/books/vulgate.json,
+  35,809 verses. Ids are `vulgate:Ps.50.3` in the VULGATE's own numbering
+  (Greek Psalm count, titles in verse 1, Greek additions in Dan/Esth): not
+  linked to kjv: units, no uids minted. Each verse keeps the project's
+  marked-up line as `marked` beside the plain `text`.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
@@ -172,6 +185,18 @@ The living truth for project state is the Obsidian vault:
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
   BDB's scripture citations through it.
+- pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
+  map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
+  rights block). TVTMS's tests are RUN against the Clementine to pick the
+  column each block follows; HOUSE_ROWS holds the 48 verses no column fits,
+  each checked against the Latin (most found by --audit-douay). convert_vulgate
+  gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
+  numbering.
+- convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
+  GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 24
+  verses where this edition breaks verses off the Clementine's; empty padding
+  verses in the file are dropped, never given ids.
 - pipeline/build_strongs.py — Strong's numbers (H1–H8674, G1–G5624, 1890, PD)
   as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
   table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
