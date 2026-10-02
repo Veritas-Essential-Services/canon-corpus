@@ -86,8 +86,12 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 60 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 68 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
+    python3 pipeline/build_versification.py --check    # Hebrew->KJV map byte-identical; WLC invariants
+    python3 pipeline/build_versification.py --measure  # BDB cites in Hebrew numbering: the evidence
+    python3 tests/versification_test.py      # the map, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -104,6 +108,8 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
     python3 tests/nt_corpus_test.py          # validator for data/nt/<Book>/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
+    python3 pipeline/build_ot_corpus.py --check   # Hebrew OT (WLC): mint 0, byte-identical
+    python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
     python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
     python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
     python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
@@ -154,6 +160,17 @@ The living truth for project state is the Obsidian vault:
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_ot_corpus.py — the Hebrew OT (Westminster Leningrad Codex via
+  OSHB at 3d15126; the TEXT is PD) → data/ot/<Book>/ (COMMITTED, one folder per
+  book, one manifest; read via load_ot()). One row per KJV verse on its EXISTING
+  uid, mapped through data/versification/bhs-kjv.json; mints 0. 🔴 OSHB's
+  lemmas/morphology are CC BY 4.0 and are NOT in these files: lemma, parsing,
+  gloss are null until ADR 0019. Psalm titles, spans, joined verses: house
+  defaults awaiting Adam. pipeline/README-ot-jsonl.md
+- pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
+  -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
+  4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
+  BDB's scripture citations through it.
 - pipeline/build_strongs.py — Strong's numbers (H1–H8674, G1–G5624, 1890, PD)
   as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
   table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
@@ -210,9 +227,17 @@ states "Public domain document". Recorded per entry in `LEXICONS`.
 versification, which parts company with the KJV's — most visibly in Psalms,
 where a superscription counts as verse 1 and shifts every later verse. So its
 **139,125 scripture citations are recorded as the source stated them**
-(`{osis, ref, versification: "bhs", resolved: false}`) and are NOT resolved to
-`kjv:` unit ids. Resolving them needs a versification map; that is its own
-piece of work. A labelled hole beats a confident wrong label.
+(`{osis, ref, versification: "bhs"}`), and since 2026-10-02 each is resolved
+through a Hebrew->KJV map, `data/versification/bhs-kjv.json`
+(`pipeline/build_versification.py`): **137,780 carry `target: "kjv:..."`**;
+1,345 stay `resolved: false` with a `why` (psalm titles, which the KJV does
+not number; references that name no Hebrew verse; NT references). The map is
+STEPBible's TVTMS (CC BY 4.0; only the derived OT Hebrew/KJV subset is
+committed, `redistribute_whole: false`), and the build refuses to write
+unless every one of the WLC's 23,213 verses lands on a KJV unit id. That BDB
+really numbers in Hebrew is measured, not assumed (`--measure`): where the
+schemes differ, the entry's own word is in the cited Hebrew verse 72% of the
+time and in the same-numbered KJV verse 5.5%.
 
 **Thayer's (added 2026-09-06) is the one book here that was OCR'd, not
 fetched.** It is PD and scanned (archive.org `greekenglishlexi00grimuoft`,

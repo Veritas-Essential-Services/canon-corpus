@@ -30,10 +30,12 @@ provenance) is the committed record of the collection.
 
 ## Tests
 
-    python3 tests/structure_test.py         # 60 offline checks, no corpus needed
+    python3 tests/structure_test.py         # 68 offline checks, no corpus needed
+    python3 tests/versification_test.py     # the Hebrew->KJV verse map (BDB's citations)
     python3 tests/hymn_corpus_test.py       # the hymn JSONL validator (D1-D2)
     python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
     python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)
+    python3 tests/ot_corpus_test.py         # the Hebrew OT JSONL validator
     python3 tests/reader_test.py            # the reader: deterministic, self-contained, every token (D5)
     python3 tests/review_test.py            # review.py end to end, on a temp copy of the repo
     python3 tests/lemma_bridge_test.py      # English lemma bridge (ADR 0012): shew/show, holpen/help in real FTS5
@@ -84,6 +86,16 @@ witness of the KJV verse's existing uid, so nothing is minted. Parsing is
 Robinson's; lemmas are Strong's headwords. Schema, licence evidence,
 transliteration scheme and the two rulings still open (the Romans doxology,
 the sharding): `pipeline/README-nt-jsonl.md` s.16.
+
+## Hebrew Old Testament (JSONL)
+
+`data/ot/` holds the whole Old Testament from the Westminster Leningrad Codex
+(public domain): 23,142 KJV verses, 305,124 words, laid out like the NT. Each
+Hebrew verse is mapped to its KJV verse through `data/versification/bhs-kjv.json`
+and is a witness of that verse's existing uid, so nothing is minted. Ketiv and
+qere are both kept. The OSHB lemmas and morphology are CC BY 4.0, so they are
+left out of this public repo. Schema, licence evidence and the open rulings
+(psalm titles, spans, joined verses): `pipeline/README-ot-jsonl.md`.
 
 ## The reader (reverse interlinear, D5)
 
