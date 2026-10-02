@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 152 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 153 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -197,6 +197,10 @@ The living truth for project state is the Obsidian vault:
   passage, or OCR residue: never silently clean); Archambault's Justin
   printed references and folios inside the Greek in brackets, lifted into
   `apparatus.refs` / `apparatus.folio` (TEI_PROSE_BRACKETS), unresolved.
+  Wave 2 adds Eusebius, Athanasius, Gregory Nazianzen's Theological
+  Orations, Epiphanius' Ancoratus, Cyril on the Twelve Prophets. Honesty
+  names the edition whose numbering the ids are ("numbered as the printed
+  edition numbers it (Dindorf, 1871)"): never claim the standard numbering.
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of

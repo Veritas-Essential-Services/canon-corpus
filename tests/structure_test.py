@@ -978,6 +978,9 @@ check("fathers: rights credit First1KGreek and name the printed edition",
 check("fathers: a code-point name is decoded; a Latin-letter word is counted, not changed",
       "τῆϲ" in _gu["gk:1.2"]["text"] and "λέrει" in _gu["gk:1.2"]["text"]
       and _gu["gk:1.2"]["apparatus"]["latin_letters"] == 1 and "apparatus" not in _gu["gk:2.3"])
+check("fathers: honesty names the printed edition whose numbering the ids are",
+      "(Otto Stählin, 1905)" in _gb["scheme"]["honesty"]
+      and "born-in from Perseus" in _nb["scheme"]["honesty"])
 check("fathers: outside First1KGreek the same markup is not taken for an original",
       "edition" not in _nb["source"] and "latin_letters" not in str(_nb["units"])
       and _nb["rights"]["attribution"].startswith("Perseus"))

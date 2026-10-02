@@ -102,6 +102,13 @@ def tei_edition(root):
     return {k: v for k, v in ed.items() if v}
 
 
+def printed_by(root):
+    """'Otto Stählin, 1905' -- the editor and date a First1KGreek file's
+    sourceDesc states (blank parts left out)."""
+    ed = tei_edition(root)
+    return ", ".join(x for x in (ed.get("editor"), ed.get("date")) if x) or "edition unnamed"
+
+
 def perseus_rights(root, path=None):
     """The rights block every Perseus-derived book carries. The translations
     are PD; Perseus's TEI, and any modernizing of the wording it did (the
@@ -596,6 +603,30 @@ TEI_PROSE = {
     "origen-epistula-africanum-grc": "Orig. Ep. Afr.",
     "hippolytus-refutatio-grc": "Hippol. Haer.",
     "methodius-symposium-grc": "Meth. Symp.",
+    # Wave 2: Eusebius, Athanasius, Gregory Nazianzen, Epiphanius, Cyril.
+    "eusebius-praeparatio-evangelica-grc": "Eus. PE",
+    "eusebius-historia-ecclesiastica-grc": "Eus. HE",
+    "eusebius-martyrs-palestine-grc": "Eus. MP",
+    "eusebius-demonstratio-evangelica-grc": "Eus. DE",
+    "eusebius-contra-marcellum-grc": "Eus. Marcell.",
+    "eusebius-ecclesiastica-theologia-grc": "Eus. ET",
+    "eusebius-vita-constantini-grc": "Eus. VC",
+    "eusebius-oratio-ad-coetum-grc": "Const. Or. ad coet.",
+    "eusebius-laudes-constantini-grc": "Eus. LC",
+    "marcellus-fragmenta-grc": "Marcell. fr.",
+    "athanasius-de-incarnatione-grc": "Ath. Inc.",
+    "athanasius-de-decretis-grc": "Ath. Decr.",
+    "athanasius-contra-arianos-1-grc": "Ath. Ar. 1",
+    "athanasius-contra-arianos-2-grc": "Ath. Ar. 2",
+    "athanasius-contra-arianos-3-grc": "Ath. Ar. 3",
+    "athanasius-contra-arianos-4-grc": "[Ath.] Ar. 4",
+    "gregory-nazianzen-oration-27-grc": "Greg. Naz. Or. 27",
+    "gregory-nazianzen-oration-28-grc": "Greg. Naz. Or. 28",
+    "gregory-nazianzen-oration-29-grc": "Greg. Naz. Or. 29",
+    "gregory-nazianzen-oration-30-grc": "Greg. Naz. Or. 30",
+    "gregory-nazianzen-oration-31-grc": "Greg. Naz. Or. 31",
+    "epiphanius-ancoratus-grc": "Epiph. Anc.",
+    "cyril-alexandria-xii-prophetas-grc": "Cyr. Al. In XII Proph.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -685,12 +716,18 @@ TEI_PROSE_CUT = {
 
 # Books whose editor printed references and manuscript folios INSIDE the
 # text in square brackets (Archambault's Justin, 1909: "[cf. Rom., IV, 10]",
-# "εὐ[fol. 51]δαιμονίαν"). Lifted out by rule into apparatus.refs /
+# "εὐ[fol. 51]δαιμονίαν"); value: how the scheme note describes them. Lifted out by rule into apparatus.refs /
 # apparatus.folio. Only a bracket with a Latin letter or digit and no
 # lower-case Greek is lifted (the OCR writes some references with Greek
 # capitals, "[ΙS., II, 2]"): a Greek supplement or title in brackets is the
 # editor's text and stays, as does "[?]".
-TEI_PROSE_BRACKETS = {"justin-dialogue-trypho-grc"}
+TEI_PROSE_BRACKETS = {
+    "justin-dialogue-trypho-grc": "([cf. Is., LIII, 8])",
+    # Dindorf's Eusebius (Teubner, 1871) opens chapters with the parallel
+    # chapter of Nicephorus's Church History.
+    "eusebius-historia-ecclesiastica-grc": "(Dindorf's pointers to the parallel "
+        "chapter of Nicephorus's Church History, [Nic. H. E. I, 5])",
+}
 RE_BRACKET = re.compile(r"(\s*)\[([^\[\]\u03ac-\u03ce\u1f00-\u1fff]*[A-Za-z0-9][^\[\]\u03ac-\u03ce\u1f00-\u1fff]*)\](\s*)(?=([·.,;:])?)")
 
 
@@ -716,6 +753,16 @@ _APPIAN = ("exact to the source's innermost division. The last number is the "
            "the unit ending .6); the number before it is Horace White's "
            "chapter, which a standard citation does not use.")
 TEI_PROSE_HONESTY = {
+    "athanasius-de-decretis-grc": (
+        "chapters 41-42 only -- the passage Gelasius of Cyzicus quotes in his "
+        "Church History, from whose edition (Loeschke & Heinemann, 1918) this "
+        "text comes -- in that edition's numbering (chapter.section), not "
+        "Athanasius's own chapters."),
+    "cyril-alexandria-xii-prophetas-grc": (
+        "exact to Pusey's paragraph within each prophet's book (Oxford, 1868): "
+        "hosea.2.7 is the commentary on Hosea, book 2, paragraph 7 -- Pusey's "
+        "own division, not a scholarly standard; the standard citation is by "
+        "Pusey's volume and page, which the file does not carry."),
     "clement-protrepticus-grc": (
         "exact to Stählin's section, which runs on through the work (Protr. 1.5 "
         "is chapter 1, section 5); the subsection a standard citation adds "
@@ -1013,7 +1060,10 @@ def convert_tei_prose(path, slug, abbrev):
                f"unit's ({jumps:,} of {steps:,} steps skip numbers): a citation "
                "resolves to the unit that contains it" if spans else
                "exact to the source's innermost division (the standard section "
-               f"numbering, born-in from {house})")
+               "numbering, born-in from Perseus)" if house == "Perseus" else
+               "exact to the source's innermost division, numbered as the printed "
+               f"edition numbers it ({printed_by(root)}). Where a later edition "
+               "renumbered the work, the standard citation can differ.")
     if slug in TEI_PROSE_HONESTY and not spans:
         honesty = TEI_PROSE_HONESTY[slug]
     rights = perseus_rights(root, path)
@@ -1045,11 +1095,13 @@ def convert_tei_prose(path, slug, abbrev):
                                + (f" {nbeta} Greek phrase(s) the file writes in beta code "
                                   f"converted to Unicode by the standard table." if nbeta else "")
                                + (f" {nrefs} bracketed reference(s) the editor printed inside "
-                                  f"the text ([cf. Is., LIII, 8]) lifted out into apparatus.refs "
-                                  f"as printed, NOT resolved to verse ids (his Psalms follow the "
-                                  f"Greek numbering); {nfol} manuscript folio mark(s) ([fol. 51]) "
-                                  f"lifted into apparatus.folio, a word they split rejoined (a "
-                                  f"bracket the source leaves unclosed stays in the text)."
+                                  f"the text {TEI_PROSE_BRACKETS[slug]} lifted out into "
+                                  f"apparatus.refs as printed, NOT resolved"
+                                  + (f" to verse ids (his Psalms follow the Greek numbering); "
+                                     f"{nfol} manuscript folio mark(s) ([fol. 51]) lifted into "
+                                     f"apparatus.folio, a word they split rejoined"
+                                     if nfol else "")
+                                  + " (a bracket the source leaves unclosed stays in the text)."
                                   if nrefs or nfol else "")
                                + (f" {latin} word(s) in {latin_units} unit(s) carry Latin "
                                   f"letters -- a Latin passage the edition prints, or OCR "

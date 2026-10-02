@@ -104,6 +104,66 @@ FIRST1K = {
         "Hippolytus, Refutation of All Heresies -- Greek, ed. Paul Wendland (GCS, Hinrichs, 1916)"),
     "methodius-symposium-grc": ("tlg2959/tlg001/tlg2959.tlg001.opp-grc1.xml",
         "Methodius of Olympus, Symposium -- Greek, ed. G. Nathanael Bonwetsch (GCS, Hinrichs, 1917)"),
+    # Wave 2, 2026-10-02: Eusebius, Athanasius, Gregory Nazianzen,
+    # Epiphanius, Cyril of Alexandria, Marcellus. NOT taken, and why:
+    #   - Eusebius, Church History grc1 and eng1: the Loeb (Lake 1926,
+    #     Oulton 1932), after 1930 in part; Dindorf's Teubner (grc2) taken;
+    #   - Eusebius, Onomasticon (Klostermann 1904): Jerome's Latin version
+    #     interleaved, and its sources numbered "?";
+    #   - Eusebius, Eclogae propheticae (Gaisford 1842): the scripture
+    #     references of the margin are welded onto the Greek words
+    #     ("σουGen."), all through;
+    #   - Epiphanius, Panarion (Holl 1915-33): its third volume is 1933;
+    #   - Basil, Gregory of Nyssa, Chrysostom: not in First1KGreek.
+    "eusebius-praeparatio-evangelica-grc": ("tlg2018/tlg001/tlg2018.tlg001.1st1K-grc1.xml",
+        "Eusebius, Praeparatio evangelica -- Greek, ed. Wilhelm Dindorf (Leipzig: Teubner, 1867)"),
+    "eusebius-historia-ecclesiastica-grc": ("tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml",
+        "Eusebius, Church History -- Greek, ed. Dindorf (Teubner, 1871)"),
+    "eusebius-martyrs-palestine-grc": ("tlg2018/tlg003/tlg2018.tlg003.1st1K-grc1.xml",
+        "Eusebius, Martyrs of Palestine (shorter recension) -- Greek, ed. Dindorf (Teubner, 1871)"),
+    "eusebius-demonstratio-evangelica-grc": ("tlg2018/tlg005/tlg2018.tlg005.1st1K-grc1.xml",
+        "Eusebius, Demonstratio evangelica -- Greek, ed. Dindorf (Teubner, 1867)"),
+    "eusebius-contra-marcellum-grc": ("tlg2018/tlg007/tlg2018.tlg007.1st1K-grc1.xml",
+        "Eusebius, Against Marcellus -- Greek, ed. Erich Klostermann (GCS, Hinrichs, 1906)"),
+    "eusebius-ecclesiastica-theologia-grc": ("tlg2018/tlg009/tlg2018.tlg009.1st1K-grc1.xml",
+        "Eusebius, Ecclesiastical Theology -- Greek, ed. Klostermann (Hinrichs, 1906)"),
+    "eusebius-vita-constantini-grc": ("tlg2018/tlg020/tlg2018.tlg020.1st1K-grc1.xml",
+        "Eusebius, Life of Constantine -- Greek, ed. Ivar A. Heikel (GCS, Hinrichs, 1902)"),
+    "eusebius-oratio-ad-coetum-grc": ("tlg2018/tlg021/tlg2018.tlg021.1st1K-grc1.xml",
+        "Constantine, Oration to the Assembly of the Saints (transmitted with Eusebius) -- "
+        "Greek, ed. Heikel (Hinrichs, 1902)"),
+    "eusebius-laudes-constantini-grc": ("tlg2018/tlg022/tlg2018.tlg022.1st1K-grc1.xml",
+        "Eusebius, In Praise of Constantine -- Greek, ed. Heikel (Hinrichs, 1902)"),
+    "marcellus-fragmenta-grc": ("tlg2041/tlg001/tlg2041.tlg001.1st1K-grc1.xml",
+        "Marcellus of Ancyra, Fragments -- Greek, ed. Klostermann (Eusebius Werke IV, Hinrichs, 1906)"),
+    "athanasius-de-incarnatione-grc": ("tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+        "Athanasius, On the Incarnation -- Greek, ed. Archibald Robertson (London: Nutt, 1893)"),
+    "athanasius-de-decretis-grc": ("tlg2035/tlg003/tlg2035.tlg003.1st1K-grc1.xml",
+        "Athanasius, De decretis 41-42 as quoted by Gelasius -- Greek, ed. Loeschke & Heinemann "
+        "(GCS, Hinrichs, 1918)"),
+    "athanasius-contra-arianos-1-grc": ("tlg2035/tlg130/tlg2035.tlg130.1st1K-grc1.xml",
+        "Athanasius, Orations against the Arians I -- Greek, ed. William Bright (Oxford: Clarendon, 1884)"),
+    "athanasius-contra-arianos-2-grc": ("tlg2035/tlg131/tlg2035.tlg131.1st1K-grc1.xml",
+        "Athanasius, Orations against the Arians II -- Greek, ed. Bright (Clarendon, 1884)"),
+    "athanasius-contra-arianos-3-grc": ("tlg2035/tlg132/tlg2035.tlg132.1st1K-grc1.xml",
+        "Athanasius, Orations against the Arians III -- Greek, ed. Bright (Clarendon, 1884)"),
+    "athanasius-contra-arianos-4-grc": ("tlg2035/tlg117/tlg2035.tlg117.1st1K-grc1.xml",
+        "[Athanasius], Oration IV against the Arians (spurious) -- Greek, ed. Bright (Clarendon, 1884)"),
+    "gregory-nazianzen-oration-27-grc": ("tlg2022/tlg007/tlg2022.tlg007.1st1K-grc1.xml",
+        "Gregory Nazianzen, Theological Oration 1 (Or. 27) -- Greek, ed. A. J. Mason (Cambridge UP, 1899)"),
+    "gregory-nazianzen-oration-28-grc": ("tlg2022/tlg008/tlg2022.tlg008.1st1K-grc1.xml",
+        "Gregory Nazianzen, Theological Oration 2 (Or. 28) -- Greek, ed. Mason (1899)"),
+    "gregory-nazianzen-oration-29-grc": ("tlg2022/tlg009/tlg2022.tlg009.1st1K-grc1.xml",
+        "Gregory Nazianzen, Theological Oration 3 (Or. 29) -- Greek, ed. Mason (1899)"),
+    "gregory-nazianzen-oration-30-grc": ("tlg2022/tlg010/tlg2022.tlg010.1st1K-grc1.xml",
+        "Gregory Nazianzen, Theological Oration 4 (Or. 30) -- Greek, ed. Mason (1899)"),
+    "gregory-nazianzen-oration-31-grc": ("tlg2022/tlg011/tlg2022.tlg011.1st1K-grc1.xml",
+        "Gregory Nazianzen, Theological Oration 5 (Or. 31) -- Greek, ed. Mason (1899)"),
+    "epiphanius-ancoratus-grc": ("tlg2021/tlg001/tlg2021.tlg001.1st1K-grc1.xml",
+        "Epiphanius, Ancoratus -- Greek, ed. Karl Holl (GCS, Hinrichs, 1915)"),
+    "cyril-alexandria-xii-prophetas-grc": ("tlg4090/tlg001/tlg4090.tlg001.1st1K-grc1.xml",
+        "Cyril of Alexandria, Commentary on the Twelve Prophets -- Greek, ed. P. E. Pusey "
+        "(Oxford: Clarendon, 1868); parts of the OCR are damaged, flagged per unit"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes

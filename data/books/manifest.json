@@ -7781,7 +7781,7 @@
   "scheme": {
    "citation": "Athenag. Res. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Johann Karl Theodor von Otto, 1857). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -7801,7 +7801,7 @@
   "scheme": {
    "citation": "Athenag. Leg. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Johann Karl Theodor von Otto, 1857). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -7821,7 +7821,7 @@
   "scheme": {
    "citation": "Clem. Al. Ecl. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Otto Stählin, 1909). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -7841,7 +7841,7 @@
   "scheme": {
    "citation": "Clem. Al. Exc. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Otto Stählin, 1909). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -7901,7 +7901,7 @@
   "scheme": {
    "citation": "Clem. Al. QDS chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Otto Stählin, 1909). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -7921,7 +7921,7 @@
   "scheme": {
    "citation": "Hippol. Haer. book.chapter.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Wendland, 1916). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 600 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 274 word(s) in 91 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -7941,7 +7941,7 @@
   "scheme": {
    "citation": "Just. 1 Apol. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Gerhard Rauschen, 1911). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 3 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -7961,7 +7961,7 @@
   "scheme": {
    "citation": "Just. 2 Apol. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Gerhard Rauschen, 1911). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -7981,7 +7981,7 @@
   "scheme": {
    "citation": "Just. Dial. chapter.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Georges Archambault, 1909). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 744 bracketed reference(s) the editor printed inside the text ([cf. Is., LIII, 8]) lifted out into apparatus.refs as printed, NOT resolved to verse ids (his Psalms follow the Greek numbering); 286 manuscript folio mark(s) ([fol. 51]) lifted into apparatus.folio, a word they split rejoined (a bracket the source leaves unclosed stays in the text). 25 word(s) in 5 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8001,7 +8001,7 @@
   "scheme": {
    "citation": "Meth. Symp. book.chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (D.G. Nathanael Bonwetsch, 1917). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 329 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 95 word(s) in 15 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8041,7 +8041,7 @@
   "scheme": {
    "citation": "Orig. Cels. book.chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Koetschau, 1899). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -8061,7 +8061,7 @@
   "scheme": {
    "citation": "Orig. Engastr. section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Erich Klostermann, 1901). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 24 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 15 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8081,7 +8081,7 @@
   "scheme": {
    "citation": "Orig. Or. chapter.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Koetschau, 1899). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 1 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8101,7 +8101,7 @@
   "scheme": {
    "citation": "Orig. Ep. Afr. epistle.paragraph",
    "resolution": "paragraph",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Charles de La Rue & Charles Vincent de La Rue, 1857). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 68 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 3 word(s) in 3 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8121,7 +8121,7 @@
   "scheme": {
    "citation": "Orig. Mart. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Koetschau, 1899). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -8141,7 +8141,7 @@
   "scheme": {
    "citation": "Orig. Hom. Jer. homilia.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Erich Klostermann, 1901). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 167 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 15 word(s) in 12 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8161,7 +8161,7 @@
   "scheme": {
    "citation": "Orig. Hom. Jer. homilia.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Erich Klostermann, 1901). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 215 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 276 word(s) in 6 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
   },
   "rights": {
@@ -8181,7 +8181,7 @@
   "scheme": {
    "citation": "Orig. Philoc. book.chapter.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (James Armitage Robinson, 1893). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 1247 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 144 word(s) in 54 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one. 142 character(s) the source writes as a code-point name (U+03F2) decoded to the character."
   },
   "rights": {
@@ -8201,7 +8201,7 @@
   "scheme": {
    "citation": "Tat. Orat. chapter",
    "resolution": "chapter",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Johann Carl Theodor Otto, 1851). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -8221,7 +8221,7 @@
   "scheme": {
    "citation": "Theoph. Autol. book.section",
    "resolution": "section",
-   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (William Gilson Humphry, 1852). Where a later edition renumbered the work, the standard citation can differ.",
    "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
   },
   "rights": {
@@ -8230,6 +8230,466 @@
    "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (William Gilson Humphry, Libri tres ad Autolycum, Cambridge, 1852); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athanasius-contra-arianos-1-grc": {
+  "title": "Oratio I contra Arianos",
+  "author": "Athanasius",
+  "format": "tei",
+  "sha256": "449db9a8701edcba4ee4e672c41fa3ed0a6328e05a12679ace554f9b7ca6fe7f",
+  "units": 64,
+  "scheme": {
+   "citation": "Ath. Ar. 1 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (William Bright, 1884). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 439 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 9 word(s) in 7 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (William Bright, The Orations of St. Athanasius against the Arians, Oxford, 1884); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athanasius-contra-arianos-2-grc": {
+  "title": "Oratio II contra Arianos",
+  "author": "Athanasius",
+  "format": "tei",
+  "sha256": "414547f2d9ef58d3d218a6c1d4db2eb24dfa9f5a924e2ca765875436037a8324",
+  "units": 82,
+  "scheme": {
+   "citation": "Ath. Ar. 2 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (William Bright, 1884). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 518 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 3 word(s) in 3 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (William Bright, The Orations of St. Athanasius against the Arians, Oxford, 1884); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athanasius-contra-arianos-3-grc": {
+  "title": "Oratio III contra Arianos",
+  "author": "Athanasius",
+  "format": "tei",
+  "sha256": "85dfcce50727e188e756faac7c216caf64cce1acadf9cd175090f77fa5550e94",
+  "units": 67,
+  "scheme": {
+   "citation": "Ath. Ar. 3 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (William Bright, 1884). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 527 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 3 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (William Bright, The Orations of St. Athanasius against the Arians, Oxford, 1884); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athanasius-contra-arianos-4-grc": {
+  "title": "Oratio quarta contra Arianos [Sp.]",
+  "author": "Athanasius",
+  "format": "tei",
+  "sha256": "c796b8c3f11456f348f41c4945537494172fca6fa7958f76585f9f13a813d918",
+  "units": 36,
+  "scheme": {
+   "citation": "[Ath.] Ar. 4 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (William Bright, 1884). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 235 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 1 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (William Bright, The Orations of St. Athanasius against the Arians, Oxford, 1884); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athanasius-de-decretis-grc": {
+  "title": "De decretis Nicaenae synodi (Chapters 41 and 42)",
+  "author": "Athanasius of Alexandria",
+  "format": "tei",
+  "sha256": "6ea30be3f2cd5391869b90afb11b972a662057bba1591d9bdb079b6cfab7fb76",
+  "units": 20,
+  "scheme": {
+   "citation": "Ath. Decr. chapter.section",
+   "resolution": "section",
+   "honesty": "chapters 41-42 only -- the passage Gelasius of Cyzicus quotes in his Church History, from whose edition (Loeschke & Heinemann, 1918) this text comes -- in that edition's numbering (chapter.section), not Athanasius's own chapters.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 19 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Margret Heinemann & Gerhard Loeschke, Gelasius Kirchengeschichte, Leipzig, 1918); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athanasius-de-incarnatione-grc": {
+  "title": "De Incarnatione Verbi",
+  "author": "Athanasius of Alexandria",
+  "format": "tei",
+  "sha256": "458efe0f1655cc5d9a52222bea50d9efcb037fa2888af4f611ef53bec27f4914",
+  "units": 331,
+  "scheme": {
+   "citation": "Ath. Inc. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Archibald Robertson, 1893). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Archibald Robertson, St. Athanasius On The Incarnation, London, 1893); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "cyril-alexandria-xii-prophetas-grc": {
+  "title": "In XII Prophetas",
+  "author": "Cyril of Alexandria",
+  "format": "tei",
+  "sha256": "2465c823453684816937e6a445e6fd239f8d9d11f780346d7876090f4b8f2182",
+  "units": 2043,
+  "scheme": {
+   "citation": "Cyr. Al. In XII Proph. commentary.book.paragraph",
+   "resolution": "paragraph",
+   "honesty": "exact to Pusey's paragraph within each prophet's book (Oxford, 1868): hosea.2.7 is the commentary on Hosea, book 2, paragraph 7 -- Pusey's own division, not a scholarly standard; the standard citation is by Pusey's volume and page, which the file does not carry.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 8517 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 648 word(s) in 362 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Philip Edward Pusey, Cyrilli Archiepiscopi Alexandrini In XII Prophetas, Oxford, 1868); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "epiphanius-ancoratus-grc": {
+  "title": "Ancoratus",
+  "author": "Epiphanius",
+  "format": "tei",
+  "sha256": "c8610532707a40a360af5b52a7303d8056bd468a2c8829b54b1be8c494c255ca",
+  "units": 895,
+  "scheme": {
+   "citation": "Epiph. Anc. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Holl, 1915). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 315 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 21 word(s) in 17 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Karl Holl, Epiphanius, Leipzig, 1915); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-contra-marcellum-grc": {
+  "title": "των κατά Μαρκέλλου",
+  "author": "Eusebius of Caesarea",
+  "format": "tei",
+  "sha256": "83a88b3a33d0a448b48822772c25fb8ea868dd7f174334a2e96c13261d5588ed",
+  "units": 284,
+  "scheme": {
+   "citation": "Eus. Marcell. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Erich Klostermann, 1906). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 119 word(s) in 98 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Eusebius Werke, Leipzig, 1906); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-demonstratio-evangelica-grc": {
+  "title": "Demonstratio Evangelica",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "d2659e57c90a0f77a6bc16951b16fc6d3b66aa13ded143af01b8d17d00d50414",
+  "units": 2496,
+  "scheme": {
+   "citation": "Eus. DE book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Wilhelm Dindorf, 1867). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 469 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 90 word(s) in 76 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Wilhelm Dindorf, Eusebii Caesariensis Opera, Leipzig, 1867); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-ecclesiastica-theologia-grc": {
+  "title": "περὶ τῆς ἐκκλησιαστικῆς θεολογίας",
+  "author": "Eusebius of Caesarea",
+  "format": "tei",
+  "sha256": "588499d6803dd3f1ad98bd0c563f3c9643751b2571a1785eac73686b94b9de3b",
+  "units": 578,
+  "scheme": {
+   "citation": "Eus. ET book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Erich Klostermann, 1906). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 115 word(s) in 93 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Eusebius Werke, Leipzig, 1906); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-historia-ecclesiastica-grc": {
+  "title": "Historia Ecclesiastica",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "3f7f534493037f790af5838a33e6483095c82675007027e9a1feadc3a34aede1",
+  "units": 1870,
+  "scheme": {
+   "citation": "Eus. HE book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Wilhelm Dindorf, 1871). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 179 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 221 bracketed reference(s) the editor printed inside the text (Dindorf's pointers to the parallel chapter of Nicephorus's Church History, [Nic. H. E. I, 5]) lifted out into apparatus.refs as printed, NOT resolved (a bracket the source leaves unclosed stays in the text). 29 word(s) in 16 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Wilhelm Dindorf, Eusebii Caesariensis Opera, Leipzig, 1871); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-laudes-constantini-grc": {
+  "title": "De laudibus Constantini",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "f0b1d84e9774fcef7295bd2c347c2b620d37dfb070c97928e60555ee12b2adc1",
+  "units": 197,
+  "scheme": {
+   "citation": "Eus. LC chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Ivar A. Heikel, 1902). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 109 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 9 word(s) in 9 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Ivar A. Heikel, Eusebius Werke, Leipzig, 1902); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-martyrs-palestine-grc": {
+  "title": "De Martyribus Palaestinae (Recensio Brevior)",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "45b9f9365f15cc3854a8643ada9f25c55ba418613605826dc1194f1f30e36057",
+  "units": 127,
+  "scheme": {
+   "citation": "Eus. MP chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Wilhelm Dindorf, 1871). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 4 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Wilhelm Dindorf, Eusebii Caesariensis Opera, Leipzig, 1871); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-oratio-ad-coetum-grc": {
+  "title": "Constantini imperatoris oratio ad coetum sanctorum",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "18a6a0f67fa56fbae28891a18a02178d527cbb879c827343c916776555d82164",
+  "units": 130,
+  "scheme": {
+   "citation": "Const. Or. ad coet. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Ivar A. Heikel, 1902). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 72 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 1 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Ivar A. Heikel, Eusebius Werke, Leipzig, 1902); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-praeparatio-evangelica-grc": {
+  "title": "Praeperatio Evangelica",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "c90fcf7562fccc3cb34b853df777885135e8beae4002ab56cefe91a9378bbd26",
+  "units": 4282,
+  "scheme": {
+   "citation": "Eus. PE book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Wilhelm Dindorf, 1867). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 257 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 101 word(s) in 98 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Wilhelm Dindorf, Eusebii Caesaerensis Opera, Leipzig, 1867); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "eusebius-vita-constantini-grc": {
+  "title": "Vita Constantini",
+  "author": "Eusebius",
+  "format": "tei",
+  "sha256": "1de5b204e5cf24773690120bc67a022706ff3d6f241df06e34ed58911a0abf7b",
+  "units": 507,
+  "scheme": {
+   "citation": "Eus. VC book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Ivar A. Heikel, 1902). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 220 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 21 word(s) in 20 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Ivar A. Heikel, Eusebius Werke, Leipzig, 1902); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "gregory-nazianzen-oration-27-grc": {
+  "title": "Adversus Eunomianos (orat. 27)",
+  "author": "Gregory of Nazianzus",
+  "format": "tei",
+  "sha256": "79402f377facd3c3b48c65a10c69743e5d23c87076650f85af4b91389e7ab07f",
+  "units": 9,
+  "scheme": {
+   "citation": "Greg. Naz. Or. 27 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Arthur James Mason, 1899). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 240 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 15 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Arthur James Mason, The Five Theological Orations of Gregory Of Nazianzus, Cambridge, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "gregory-nazianzen-oration-28-grc": {
+  "title": "De Theologia (Orat. 28)",
+  "author": "Gregorius Nazianzenus",
+  "format": "tei",
+  "sha256": "79b956726dc1aab5136467c0682241e6b1dd435f956c498b224647cb904a7ea9",
+  "units": 31,
+  "scheme": {
+   "citation": "Greg. Naz. Or. 28 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Arthur James Mason, 1899). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 560 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 16 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Arthur James Mason, The Five Theological Orations of Gregory of Nazianzus, Cambridge, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "gregory-nazianzen-oration-29-grc": {
+  "title": "De Filio (Orat. 29)",
+  "author": "Gregory of Nazianzus",
+  "format": "tei",
+  "sha256": "67003661788c7231331838563489c90cdea899c9ee1a69a9f877262990536ee6",
+  "units": 21,
+  "scheme": {
+   "citation": "Greg. Naz. Or. 29 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Arthur James Mason, 1899). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 361 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 2 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Arthur James Mason, The Five Theological Orations of Gregory of Nazianzus, Cambridge, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "gregory-nazianzen-oration-30-grc": {
+  "title": "De Filio (Orat. 30)",
+  "author": "Gregorius Nazianzenus",
+  "format": "tei",
+  "sha256": "5231a422100008fc91090e4b39f2563958173c255971ea45ad22bdfb1d335bd5",
+  "units": 21,
+  "scheme": {
+   "citation": "Greg. Naz. Or. 30 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Arthur James Mason, 1899). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 389 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 13 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Arthur James Mason, The Five Theological Orations of Gregory of Nazianzus, Cambridge, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "gregory-nazianzen-oration-31-grc": {
+  "title": "De Spiritu Sancto (Orat. 31)",
+  "author": "Gregory of Nazianzus",
+  "format": "tei",
+  "sha256": "aa5a3d1ea337680e3d63ebb7d6db0c1ffbc58df12327ad2e62ce3145cf923c40",
+  "units": 33,
+  "scheme": {
+   "citation": "Greg. Naz. Or. 31 chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Arthur James Mason, 1899). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 469 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 2 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Arthur James Mason, The Five Theological Orations of Gregory of Nazianzus, Cambridge, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "marcellus-fragmenta-grc": {
+  "title": "Fragmenta",
+  "author": "Marcellus of Ankara",
+  "format": "tei",
+  "sha256": "bab449b0653538f52f8ec857e734ad273597f5f70c32fc0464b6ed317fde21fc",
+  "units": 129,
+  "scheme": {
+   "citation": "Marcell. fr. fragment",
+   "resolution": "fragment",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Erich Klostermann, 1906). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 90 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 132 word(s) in 128 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Eusebius Werke, Leipzig, 1906); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
  }
 }
