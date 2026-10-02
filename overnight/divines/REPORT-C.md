@@ -25,3 +25,9 @@
 - +1 cut title: garnett-notes-from-underground (from inside garnett-white-nights; overlap flagged so minting gives one uid per passage).
 - Not found: Government Inspector (1926), Mirgorod (1928). IA mirgorodgogol is a Russian edition (excluded). Poor Folk / Uncle's Dream: no Garnett version located; the 1915 IA copies are Hogarth's (excluded).
 - Garnett shelf now 62 sources, 55 titles, all cut.
+
+## 2026-10-02T15:32-05:00 — queue empty: finding (§5d) and session end
+- Finding — two witnesses of Dryden's Aeneid differ systematically. PG 228 vs Scott vols 14-15, verse lines aligned (difflib): 13,802 vs 13,824 lines; 8,255 identical after normalising case and punctuation; 5,127 differ in spelling only (same word count); 340 differ in length; 64 inserted/deleted. Top differences: th'→the (309), thro'→through (193), heav'n→heaven (143), ev'ry→every (94), pow'r→power (63), -'d→-ed (fix'd, rais'd, call'd ...). PG 228 keeps Dryden's metrical elisions (the 1697 habit); Scott expands them. So they are two witnesses of one text, not duplicates — choosing the reading_of_record is Adam's call (PG 228 for the poet's metre, Scott for the notes and Dedication).
+- Map audit: Dryden map rows match the 21 titles in dryden_shelf.json; Garnett section is generated from garnett_shelf.json. Lane B's six Dryden pointers all resolve.
+- All shelf identifiers resolved at fetch time this session (72 sources, 0 failed).
+- Next worker of lane C: nothing queued. Real leftovers are in DIGEST-C.md (Gogol Government Inspector + Mirgorod scans; Dryden 1700 Fables order). Do not refetch: everything is on the branch as shelves; corpus files are not.
