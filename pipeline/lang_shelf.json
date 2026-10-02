@@ -1,0 +1,522 @@
+{
+ "_about": "Every public-domain Andrew Lang (1844-1912) text the Word Hoard holds: the twelve Coloured Fairy Books and the other Lang-edited story books, his own fairy tales and fiction, his Homer/Theocritus/Aucassin translations (Homer kept on this shelf with its own slugs; a Homer section may cross-reference it later), poetry, essays, myth and folklore scholarship, and histories. Gutenberg texts are clean; Internet Archive items are raw OCR (<id>_djvu.txt), unconverted. CCEL holds no Lang. Co-authors, co-translators and Mrs. Lang (Leonora Blanche Lang, who wrote much of the later story books) are credited in the title string. Lang died 1912: everything here was published before 1930 and is US public domain.",
+ "_author": "Andrew Lang",
+ "_name_words": [
+  "andrew",
+  "lang"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lang-blue-fairy-book": [
+   503,
+   "The Blue Fairy Book (1889)"
+  ],
+  "lang-red-fairy-book": [
+   540,
+   "The Red Fairy Book (1890)"
+  ],
+  "lang-green-fairy-book": [
+   33571,
+   "The Green Fairy Book (1892), ill. H. J. Ford"
+  ],
+  "lang-yellow-fairy-book": [
+   28314,
+   "The Yellow Fairy Book (1894), ill. H. J. Ford"
+  ],
+  "lang-pink-fairy-book": [
+   5615,
+   "The Pink Fairy Book (1897)"
+  ],
+  "lang-grey-fairy-book": [
+   33547,
+   "The Grey Fairy Book (1900), ill. H. J. Ford"
+  ],
+  "lang-violet-fairy-book": [
+   641,
+   "The Violet Fairy Book (1901)"
+  ],
+  "lang-crimson-fairy-book": [
+   2435,
+   "The Crimson Fairy Book (1903)"
+  ],
+  "lang-brown-fairy-book": [
+   31201,
+   "The Brown Fairy Book (1904), ill. H. J. Ford"
+  ],
+  "lang-orange-fairy-book": [
+   36532,
+   "The Orange Fairy Book (1906), ill. H. J. Ford"
+  ],
+  "lang-olive-fairy-book": [
+   27826,
+   "The Olive Fairy Book (1907), ill. H. J. Ford"
+  ],
+  "lang-lilac-fairy-book": [
+   28096,
+   "The Lilac Fairy Book (1910), ill. H. J. Ford"
+  ],
+  "lang-arabian-nights": [
+   128,
+   "The Arabian Nights Entertainments (1898, Lang's selection)"
+  ],
+  "lang-blue-poetry-book": [
+   46515,
+   "The Blue Poetry Book (anthology ed. Lang, 7th ed.)"
+  ],
+  "lang-true-story-book": [
+   27602,
+   "The True Story Book (1893)"
+  ],
+  "lang-red-true-story-book": [
+   27603,
+   "The Red True Story Book (1895)"
+  ],
+  "lang-animal-story-book": [
+   38208,
+   "The Animal Story Book (1896)"
+  ],
+  "lang-nursery-rhyme-book": [
+   26197,
+   "The Nursery Rhyme Book (1897)"
+  ],
+  "lang-book-of-romance": [
+   26646,
+   "The Book of Romance (1902)"
+  ],
+  "lang-red-romance-book": [
+   24624,
+   "The Red Romance Book (1905)"
+  ],
+  "lang-tales-of-romance": [
+   33152,
+   "Tales of Romance (based on The Book of Romance)"
+  ],
+  "lang-red-book-of-heroes": [
+   19078,
+   "The Red Book of Heroes (1909), by Mrs. Lang, ed. Andrew Lang"
+  ],
+  "lang-book-of-princes-and-princesses": [
+   46145,
+   "The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang"
+  ],
+  "lang-strange-story-book": [
+   37396,
+   "The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang"
+  ],
+  "lang-prince-prigio": [
+   20850,
+   "Prince Prigio (1889)"
+  ],
+  "lang-prince-ricardo": [
+   21994,
+   "Prince Ricardo of Pantouflia (1893)"
+  ],
+  "lang-gold-of-fairnilee": [
+   21934,
+   "The Gold of Fairnilee (1888)"
+  ],
+  "lang-princess-nobody": [
+   52545,
+   "The Princess Nobody: A Tale of Fairyland (1884)"
+  ],
+  "lang-tales-of-troy-and-greece": [
+   32326,
+   "Tales of Troy and Greece (1907)"
+  ],
+  "lang-monk-of-fife": [
+   1631,
+   "A Monk of Fife (1895)"
+  ],
+  "lang-mark-of-cain": [
+   21821,
+   "The Mark of Cain (1886)"
+  ],
+  "lang-much-darker-days": [
+   21933,
+   "Much Darker Days (1884)"
+  ],
+  "lang-in-the-wrong-paradise": [
+   13984,
+   "In the Wrong Paradise, and Other Stories (1886)"
+  ],
+  "lang-disentanglers": [
+   17031,
+   "The Disentanglers (1902)"
+  ],
+  "lang-worlds-desire": [
+   2763,
+   "The World's Desire (1890), with H. Rider Haggard"
+  ],
+  "lang-parson-kelly": [
+   38684,
+   "Parson Kelly (1899), with A. E. W. Mason"
+  ],
+  "lang-he": [
+   25589,
+   "He (1887 parody), with W. H. Pollock"
+  ],
+  "lang-that-very-mab": [
+   21337,
+   "'That Very Mab' (1885), with May Kendall"
+  ],
+  "lang-odyssey": [
+   1728,
+   "The Odyssey of Homer, prose tr. S. H. Butcher & Andrew Lang"
+  ],
+  "lang-iliad": [
+   3059,
+   "The Iliad, prose tr. Andrew Lang, Walter Leaf & Ernest Myers"
+  ],
+  "lang-homeric-hymns": [
+   16338,
+   "The Homeric Hymns: a new prose translation, and essays (1899)"
+  ],
+  "lang-theocritus": [
+   4775,
+   "Theocritus, Bion and Moschus, rendered into English prose by Andrew Lang"
+  ],
+  "lang-aucassin": [
+   1578,
+   "Aucassin and Nicolete, tr. Andrew Lang"
+  ],
+  "lang-ballads-lyrics-old-france": [
+   795,
+   "Ballads and Lyrics of Old France, with Other Poems (1872)"
+  ],
+  "lang-ballades-blue-china": [
+   51160,
+   "XXXII Ballades in Blue China (1885)"
+  ],
+  "lang-rhymes-a-la-mode": [
+   1645,
+   "Rhymes a la Mode (1884)"
+  ],
+  "lang-grass-of-parnassus": [
+   1060,
+   "Grass of Parnassus (1888)"
+  ],
+  "lang-ban-and-arriere-ban": [
+   1855,
+   "Ban and Arriere Ban: A Rally of Fugitive Rhymes (1894)"
+  ],
+  "lang-new-collected-rhymes": [
+   1746,
+   "New Collected Rhymes (1905)"
+  ],
+  "lang-ballades-verses-vain": [
+   45173,
+   "Ballades and Verses Vain (1884)"
+  ],
+  "lang-helen-of-troy": [
+   3229,
+   "Helen of Troy (1882)"
+  ],
+  "lang-collection-of-ballads": [
+   1054,
+   "A Collection of Ballads (ed. Lang, 1897)"
+  ],
+  "lang-letters-to-dead-authors": [
+   3319,
+   "Letters to Dead Authors (1886)"
+  ],
+  "lang-letters-on-literature": [
+   1395,
+   "Letters on Literature (1889)"
+  ],
+  "lang-essays-in-little": [
+   1594,
+   "Essays in Little (1891)"
+  ],
+  "lang-books-and-bookmen": [
+   1961,
+   "Books and Bookmen (1886)"
+  ],
+  "lang-adventures-among-books": [
+   1994,
+   "Adventures Among Books (1905)"
+  ],
+  "lang-old-friends": [
+   1991,
+   "Old Friends: Essays in Epistolary Parody (1890)"
+  ],
+  "lang-library": [
+   2018,
+   "The Library (1881)"
+  ],
+  "lang-angling-sketches": [
+   2022,
+   "Angling Sketches (1891)"
+  ],
+  "lang-compleat-angler-intro": [
+   2422,
+   "Introduction to the Compleat Angler (Lang's introduction only)"
+  ],
+  "lang-how-to-fail-in-literature": [
+   2566,
+   "How to Fail in Literature: A Lecture (1890)"
+  ],
+  "lang-lost-leaders": [
+   16529,
+   "Lost Leaders (1889), ed. W. Pett Ridge"
+  ],
+  "lang-puzzle-dickens-last-plot": [
+   738,
+   "The Puzzle of Dickens's Last Plot (1905)"
+  ],
+  "lang-shakespeare-bacon": [
+   5127,
+   "Shakespeare, Bacon, and the Great Unknown (1912)"
+  ],
+  "lang-alfred-tennyson": [
+   3654,
+   "Alfred Tennyson (1901)"
+  ],
+  "lang-sir-walter-scott": [
+   61245,
+   "Sir Walter Scott (1906)"
+  ],
+  "lang-scott-border-minstrelsy": [
+   4088,
+   "Sir Walter Scott and the Border Minstrelsy (1910)"
+  ],
+  "lang-history-english-literature": [
+   56613,
+   "History of English Literature from Beowulf to Swinburne (1912)"
+  ],
+  "lang-oxford": [
+   2444,
+   "Oxford: Brief Historical and Descriptive Notes"
+  ],
+  "lang-highways-byways-border": [
+   47800,
+   "Highways and Byways in the Border (1913), with John Lang"
+  ],
+  "lang-custom-and-myth": [
+   14080,
+   "Custom and Myth (1884)"
+  ],
+  "lang-custom-and-myth-new-ed": [
+   33260,
+   "Custom and Myth, new edition (1885) — a distinct edition, kept as its own witness"
+  ],
+  "lang-myth-ritual-religion-1": [
+   2832,
+   "Myth, Ritual and Religion, vol. 1"
+  ],
+  "lang-myth-ritual-religion-2": [
+   36794,
+   "Myth, Ritual and Religion, vol. 2"
+  ],
+  "lang-making-of-religion": [
+   12353,
+   "The Making of Religion (1898)"
+  ],
+  "lang-modern-mythology": [
+   14576,
+   "Modern Mythology (1897)"
+  ],
+  "lang-magic-and-religion": [
+   46480,
+   "Magic and Religion (1901)"
+  ],
+  "lang-secret-of-the-totem": [
+   45363,
+   "The Secret of the Totem (1905)"
+  ],
+  "lang-method-study-totemism": [
+   46546,
+   "Method in the Study of Totemism (1911)"
+  ],
+  "lang-social-origins": [
+   45724,
+   "Social Origins (Lang) and Primal Law (J. J. Atkinson), 1903"
+  ],
+  "lang-book-of-dreams-and-ghosts": [
+   12621,
+   "The Book of Dreams and Ghosts (1897)"
+  ],
+  "lang-cock-lane": [
+   12674,
+   "Cock Lane and Common-Sense (1894)"
+  ],
+  "lang-clyde-mystery": [
+   20902,
+   "The Clyde Mystery: A Study in Forgeries and Folklore (1905)"
+  ],
+  "lang-homer-and-his-age": [
+   7972,
+   "Homer and His Age (1906)"
+  ],
+  "lang-world-of-homer": [
+   45896,
+   "The World of Homer (1910)"
+  ],
+  "lang-short-history-scotland": [
+   15955,
+   "A Short History of Scotland (1912)"
+  ],
+  "lang-john-knox": [
+   14016,
+   "John Knox and the Reformation (1905)"
+  ],
+  "lang-mystery-of-mary-stuart": [
+   42910,
+   "The Mystery of Mary Stuart (1901)"
+  ],
+  "lang-james-vi-gowrie": [
+   31033,
+   "James VI and the Gowrie Mystery (1902)"
+  ],
+  "lang-pickle-the-spy": [
+   6807,
+   "Pickle the Spy (1897)"
+  ],
+  "lang-companions-of-pickle": [
+   68956,
+   "The Companions of Pickle (1898)"
+  ],
+  "lang-historical-mysteries": [
+   18679,
+   "Historical Mysteries (1904)"
+  ],
+  "lang-valets-tragedy": [
+   2073,
+   "The Valet's Tragedy, and Other Studies (1903)"
+  ],
+  "lang-story-of-joan-of-arc": [
+   48470,
+   "The Story of Joan of Arc (1906)"
+  ]
+ },
+ "internet_archive": {
+  "lang-poetical-works-01": [
+   "poeticalworks01lang",
+   "Poetical Works, ed. Mrs. Lang (1923), vol. 1"
+  ],
+  "lang-poetical-works-02": [
+   "poeticalworks02languoft",
+   "Poetical Works (1923), vol. 2"
+  ],
+  "lang-poetical-works-03": [
+   "poeticalworks03languoft",
+   "Poetical Works (1923), vol. 3"
+  ],
+  "lang-poetical-works-04": [
+   "poeticalworks04languoft",
+   "Poetical Works (1923), vol. 4"
+  ],
+  "lang-history-scotland-01": [
+   "historyofscotlan01languoft",
+   "A History of Scotland from the Roman Occupation (1900-07), vol. 1"
+  ],
+  "lang-history-scotland-02": [
+   "scotlandhisuni02languoft",
+   "A History of Scotland, vol. 2"
+  ],
+  "lang-history-scotland-03": [
+   "scotlandhisuni03languoft",
+   "A History of Scotland, vol. 3"
+  ],
+  "lang-history-scotland-04": [
+   "scotlandhistuni04languoft",
+   "A History of Scotland, vol. 4"
+  ],
+  "lang-homer-and-the-epic": [
+   "homerepic00languoft",
+   "Homer and the Epic (1893)"
+  ],
+  "lang-book-of-saints-and-heroes": [
+   "bookofsaintshe00lang",
+   "The Book of Saints and Heroes (1912), by Mrs. Lang, ed. Andrew Lang"
+  ],
+  "lang-all-sorts-of-stories-book": [
+   "allsortsofstorie00langiala",
+   "The All Sorts of Stories Book (1911), by Mrs. Lang, ed. Andrew Lang"
+  ],
+  "lang-red-book-of-animal-stories": [
+   "redbookofanimals00languoft",
+   "The Red Book of Animal Stories (1899)"
+  ],
+  "lang-lockhart-01": [
+   "lifelettersofjoh01langiala",
+   "The Life and Letters of John Gibson Lockhart (1897), vol. 1"
+  ],
+  "lang-lockhart-02": [
+   "lifelettersofjoh02langiala",
+   "The Life and Letters of John Gibson Lockhart (1897), vol. 2"
+  ],
+  "lang-northcote-01": [
+   "lifelettersdiari0001lang",
+   "Life, Letters, and Diaries of Sir Stafford Northcote (1890), vol. 1"
+  ],
+  "lang-northcote-02": [
+   "lifelettersdiari0002lang",
+   "Life, Letters, and Diaries of Sir Stafford Northcote (1890), vol. 2"
+  ],
+  "lang-maid-of-france": [
+   "maidoffrancebein00languoft",
+   "The Maid of France (1908)"
+  ],
+  "lang-prince-charles-edward": [
+   "princecharlesedw00lang",
+   "Prince Charles Edward Stuart, the Young Chevalier (1903)"
+  ],
+  "lang-st-andrews": [
+   "standrews00langrich",
+   "St. Andrews (1893)"
+  ],
+  "lang-sir-george-mackenzie": [
+   "sirgeorgemackenz00languoft",
+   "Sir George Mackenzie, King's Advocate, of Rosehaugh (1909)"
+  ],
+  "lang-portraits-jewels-mary-stuart": [
+   "portraitsjewelso00lang",
+   "Portraits and Jewels of Mary Stuart (1906)"
+  ],
+  "lang-king-over-the-water": [
+   "kingoverwater00shieuoft",
+   "The King over the Water (1907), with Alice Shield"
+  ],
+  "lang-story-of-the-golden-fleece": [
+   "storyofgoldenfle00lang",
+   "The Story of the Golden Fleece (1903)"
+  ],
+  "lang-new-and-old-letters-dead-authors": [
+   "newandoldletters00languoft",
+   "New and Old Letters to Dead Authors (1907)"
+  ],
+  "lang-devil-dancers": [
+   "devildancerswitc00lang",
+   "Devil-Dancers, Witch-Finders, Rain-Makers, and Medicine-Men (1896)"
+  ],
+  "lang-politics-of-aristotle-essays": [
+   "politicsofaristo00langrich",
+   "The Politics of Aristotle: Introductory Essays (1886)"
+  ],
+  "lang-dead-leman": [
+   "deadlemanotherta00langiala",
+   "The Dead Leman, and Other Tales from the French (1889), tr. Lang & Paul Sylvester"
+  ],
+  "lang-miracles-st-katherine": [
+   "MiraclesOfMadameStKatherineOfFierbois",
+   "The Miracles of Madame Saint Katherine of Fierbois (1897), tr. Lang"
+  ],
+  "lang-origins-of-religion": [
+   "originsreligion01assogoog",
+   "The Origins of Religion, and Other Essays (1908)"
+  ]
+ },
+ "_excluded": {
+  "lang-fairy-book-alt-transcriptions": "duplicate: other PG transcriptions of a coloured fairy book (PG 640 Yellow, 3027 Orange, 3282 Brown, 3454 Lilac, 6746 Grey, 7277 Green) — the H. J. Ford-illustrated transcription is held instead",
+  "lang-letters-to-dead-authors-1491": "duplicate: PG 1491, a second transcription of Letters to Dead Authors (PG 3319 held)",
+  "lang-prince-prigio-21935": "duplicate: PG 21935, Prince Prigio from 'His Own Fairy Book' (PG 20850 held); My Own Fairy Book (1895) likewise collects Prigio, Ricardo and Fairnilee, all held singly",
+  "lang-tales-of-troy-1973": "subset: PG 1973 'Ulysses the Sacker of Cities' is one part of Tales of Troy and Greece (PG 32326 held)",
+  "lang-selections": "selections from books already held: Ballades & Rhymes (PG 3138), The Magic Ring (PG 48032), Pretty Goldilocks, The Golden Mermaid, The Snow Man, Dick Whittington, Little Red Riding-Hood, Jack the Giant-Killer, Prince Darling, Twenty-two and Ten / XXII Ballades (early state of Ballades in Blue China), Iliad and Odyssey combined reissue, all modern reissues (Rainbow, Rose, Fifty Favorite... fairy books)",
+  "lang-king-arthur-49057": "adaptation by J. C. Allen of The Book of Romance (PG 49057) — not Lang's text",
+  "lang-fairy-books-index": "PG 30580 is David Widger's linked index to the fairy books, not a text",
+  "lang-other-authors-edited": "other authors' works that Lang only edited, introduced or annotated: Scott's Waverley novels (PG 5998, 42389, 43678, 44247; IA 'Waverley novels' 1893-94), Dickens's Works (1897-98), Stevenson Swanston ed. (PG 21686 &c.), Perrault's Popular Tales (PG 33931), Kirk's Secret Commonwealth (PG 75485), Stoddart's Death-Wake (PG 16601), R. F. Murray's Poems (PG 1333), Gosse's Raleigh (PG 27580), Longinus tr. Havell (PG 17957), Dayrell's Folk Stories from Southern Nigeria (PG 34655), Parker's Euahlayi Tribe (PG 3819), van Eeden's Little Johannes (PG 40656), Nerval's Sylvie (PG 40492), Deulin's Johnny Nut (PG 47428), Dumas's My Memoirs (PG 49678), Murray's Hamewith (PG 51412), Hawthorne's Lock and Key Library (PG 2031), Burns's Poems and Songs, Herodotus Euterpe (Tudor tr.), Colonna's Strife of Love in a Dream, Thomas's Crystal Gazing, Social England Illustrated, Elizabethan Songs, Grimm's Household Tales (tr. Hunt, intro Lang), Malory's Morte Darthur (ed. Sommer, essay by Lang), Molière's Précieuses ridicules — each belongs on its own author's shelf",
+  "lang-multi-author": "multi-author volumes with a Lang chapter: Cricket (PG 52684), Anthropology and the Classics (PG 53646), The Progress of the Century (PG 55546), A Batch of Golfing Papers (1892), Poets' Country (1907), Presidential Addresses to the SPR, The Great Streets of the World",
+  "lang-annesley-case": "The Annesley Case (1912, Notable Scottish Trials): Lang edited trial documents; not his text",
+  "lang-la-pucelle-de-france": "La Pucelle de France (1911): a French translation of The Maid of France by another hand"
+ }
+}

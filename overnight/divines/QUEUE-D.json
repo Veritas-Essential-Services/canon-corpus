@@ -3,9 +3,11 @@
   "items": [
     {
       "id": "lang",
-      "status": "running",
+      "status": "done",
       "scope": "STORYTELLERS — Andrew Lang, all public-domain works (Coloured Fairy Books, poetry, folklore, histories, Homer trans.); shelf + fetch + map section",
-      "started": "2026-10-02T15:12:27-05:00"
+      "started": "2026-10-02T15:12:27-05:00",
+      "finished": "2026-10-02T15:25:20-05:00",
+      "notes": "95 Gutenberg books fetched + converted (102,165 units, rights gate: 0 copyrighted), 29 IA volumes raw OCR; 124/124 fetched, 60.5 MB. CCEL has no Lang. No uids minted: all 124 slugs await Adam's minting pass. Not registered in data/books/manifest.json (attended step). New file pipeline/convert_shelf_gutenberg.py (Gutenberg companion of convert_shelf.py)."
     },
     {
       "id": "lamb",
