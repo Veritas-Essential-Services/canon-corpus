@@ -958,18 +958,35 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
             "units": units}
 
 RE_CONTENTS_HEAD = re.compile(r"^\s*(TABLE OF )?CONTENTS\.?\s*$", re.I | re.M)
-RE_CONTENTS_NUM = re.compile(r"^(?:CHAPTER|CHAP\.)?\s*(?:[IVXLC]+|\d+)?\s*[.:)]?\s*", re.I)
-RE_CONTENTS_TAIL = re.compile(r"[\s.~_*·…]*(?:\d+|[ivxlc]+)?\s*$")
+# A number or roman numeral is stripped from either end of a Contents line
+# ONLY when something separates it from the title. Until 2026-10-02 neither
+# end asked: the tail took any run of lower-case c/i/l/v/x as a roman page
+# number, so "The Mice in Council" became "The Mice in Coun" and the body
+# heading was never matched; the head, case-insensitive, took any leading run
+# of I/V/X/L/C as a chapter number ("Civilization" -> "zation", "Civic" ->
+# nothing). Now a numeral must be well formed and stand apart (a space, a
+# stop, a bracket or a dash). Fixing it CAN move the chapter boundaries, and so
+# the unit ids, of a book built from its own Contents: needs Adam's ruling
+# (rule 3). Measured 0 ids moved in the 36 committed books
+# (docs/review/2026-10-02-contents-key-ids.md); uncommitted shelves do move.
+_ROMAN = r"(?=[ivxlc])c{0,3}(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})"   # a well-formed numeral, 1-399
+RE_CONTENTS_NUM = re.compile(rf"^(?:CHAPTER|CHAP\.)?\s*(?:(?:{_ROMAN}|\d+)(?=[\s.:)\-–—]|$))?\s*[.:)\-–—]?\s*", re.I)
+RE_CONTENTS_TAIL = re.compile(rf"(?:[\s.~_*·…]+(?:\d+|{_ROMAN}))?[\s.~_*·…]*$")
+# The rule before 2026-10-02, kept so contents_key_diff.py can show what the
+# fix moves. Not used by any build.
+RE_CONTENTS_NUM_OLD = re.compile(r"^(?:CHAPTER|CHAP\.)?\s*(?:[IVXLC]+|\d+)?\s*[.:)]?\s*", re.I)
+RE_CONTENTS_TAIL_OLD = re.compile(r"[\s.~_*·…]*(?:\d+|[ivxlc]+)?\s*$")
 # The one-line fallback: a short paragraph with no lower-case letters and at
 # least three capitals in a row (ESSAY TITLES, CHAPTER I, THE BLUE CROSS).
 CAPS_HEADING = r"(?=[^a-z]*[A-Z]{3})[^a-z]{3,88}"
 
-def _contents_key(line):
-    t = RE_CONTENTS_NUM.sub("", line.strip(), count=1)
-    t = RE_CONTENTS_TAIL.sub("", t).strip(" .:-—")
+def _contents_key(line, old=False):
+    num, tail = (RE_CONTENTS_NUM_OLD, RE_CONTENTS_TAIL_OLD) if old else (RE_CONTENTS_NUM, RE_CONTENTS_TAIL)
+    t = num.sub("", line.strip(), count=1)
+    t = tail.sub("", t).strip(" .:-—")
     return t
 
-def contents_chapre(path):
+def contents_chapre(path, old=False):
     """Heading regex for a Gutenberg prose book, read from the book's OWN
     Contents: an essay collection prints its titles in title case in the body
     ("The Meaning of Mock Turkey") and in capitals in the Contents, so no
@@ -990,7 +1007,7 @@ def contents_chapre(path):
             blank_run = 0
             if len(line.strip()) > 80 and keys and not re.search(r"\d\s*$", line):
                 break     # ran off the end of the Contents into running prose
-            k = _contents_key(line)
+            k = _contents_key(line, old)
             if k.upper() in ("PAGE", "CHAPTER", "CONTENTS") or not re.search(r"[A-Za-z]{3}", k):
                 continue
             if 3 <= len(k) <= 80:
@@ -1438,7 +1455,7 @@ GUTEN_VERSE = {
     "divine_comedy": ("The Divine Comedy", "Dante Alighieri (tr. Cary)", "DC",
                       r"^CANTO\s+([IVXLC]+)",
                       (r"^(HELL|PURGATORY|PARADISE)$", {"HELL": "Inf.", "PURGATORY": "Purg.", "PARADISE": "Par."})),
-    "beowulf": ("Beowulf", "tr. Francis B. Gummere", "Beo", r"^([IVXLC]+)\."),
+    "beowulf": ("Beowulf", "tr. J. Lesslie Hall", "Beo", r"^([IVXLC]+)\."),
     "faust": ("Faust, Part I", "Goethe (tr. Bayard Taylor)", "Faust",
               r"^SCENE\s+([IVXL]+)|^(PROLOGUE IN HEAVEN)$"),
 }
