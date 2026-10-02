@@ -50,3 +50,6 @@
 
 ## 2026-10-02 15:46 CDT — kingsley: done
 - 43/43 fetched (0 CCEL, 43 Gutenberg, 0 IA raw), 19.9 MB, 0 failed, 0 copyright markers; 42788 units converted. All 43 English Gutenberg texts: The Heroes, The Water-Babies, the novels, poems, sermons, lectures. Water-Babies cites by its 8 chapters. No uids minted; not in manifest.
+
+## 2026-10-02 15:46 CDT — hawthorne-wonder: done
+- 4/4 fetched (0 CCEL, 4 Gutenberg, 0 IA raw), 1.2 MB, 0 failed, 0 copyright markers; 2887 units converted. Children's books only: A Wonder-Book, Tanglewood Tales, Grandfather's Chair, Biographical Stories. Novels and tales listed pending for Adam. No uids minted; not in manifest.

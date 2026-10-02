@@ -1,0 +1,32 @@
+{
+ "_about": "Nathaniel Hawthorne's (1804-1864) books for children, the storyteller's shelf: the two Greek-myth books (A Wonder-Book, Tanglewood Tales), the New England history told round Grandfather's Chair, and the Biographical Stories. His novels and adult tales are not on this shelf; that is Adam's call. Clean Gutenberg text; published before 1930: US public domain.",
+ "_author": "Nathaniel Hawthorne",
+ "_name_words": [
+  "nathaniel",
+  "hawthorne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hawthorne-wonder-book": [
+   32242,
+   "A Wonder-Book for Girls and Boys (1851), ill. Walter Crane"
+  ],
+  "hawthorne-tanglewood-tales": [
+   976,
+   "Tanglewood Tales (1853)"
+  ],
+  "hawthorne-grandfathers-chair": [
+   1926,
+   "The Whole History of Grandfather's Chair (1841)"
+  ],
+  "hawthorne-biographical-stories": [
+   9254,
+   "Biographical Stories (1842), from True Stories of History and Biography"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "hawthorne-duplicates": "A Wonder Book and Tanglewood Tales (PG 35377, Parrish ill., both books in one file), Tanglewood Tales (PG 51995, Sterrett ill.), and the single Wonder-Book tales (PG 9255-9258): texts held",
+  "hawthorne-not-this-shelf": "PENDING, outside this storytellers shelf unless Adam widens it: the novels (Scarlet Letter, Seven Gables, Blithedale, Marble Faun, Fanshawe), Twice-Told Tales, Mosses from an Old Manse, The Snow-Image and the single-story Gutenberg files cut from them (PG 9201-9245), notebooks"
+ }
+}
