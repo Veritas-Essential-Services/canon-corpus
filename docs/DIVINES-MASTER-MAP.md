@@ -1530,6 +1530,40 @@ Shelf: `pipeline/lysias_shelf.json`. Gutenberg's 'Handy Literal Translations' ed
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Orations of Lysias (selection) | unnamed ('Handy Literal Translations') | `lysias-literal-orations` | have (PG 6969) |
+| Accusation of Calumny | W.R.M. Lamb | `lysias-perseus-lamb-accusation-of-calumny` | have (Perseus TEI `tlg0540.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Agoratus | W.R.M. Lamb | `lysias-perseus-lamb-against-agoratus` | have (Perseus TEI `tlg0540.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Alcibiades 1 | W.R.M. Lamb | `lysias-perseus-lamb-against-alcibiades-1` | have (Perseus TEI `tlg0540.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Alcibiades 2 | W.R.M. Lamb | `lysias-perseus-lamb-against-alcibiades-2` | have (Perseus TEI `tlg0540.tlg015.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Andocides | W.R.M. Lamb | `lysias-perseus-lamb-against-andocides` | have (Perseus TEI `tlg0540.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Diogeiton | W.R.M. Lamb | `lysias-perseus-lamb-against-diogeiton` | have (Perseus TEI `tlg0540.tlg032.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Epicrates and his Fellow-envoys | W.R.M. Lamb | `lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys` | have (Perseus TEI `tlg0540.tlg027.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Eratosthenes | W.R.M. Lamb | `lysias-perseus-lamb-against-eratosthenes` | have (Perseus TEI `tlg0540.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Ergocles | W.R.M. Lamb | `lysias-perseus-lamb-against-ergocles` | have (Perseus TEI `tlg0540.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Nicomachus | W.R.M. Lamb | `lysias-perseus-lamb-against-nicomachus` | have (Perseus TEI `tlg0540.tlg030.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Pancleon | W.R.M. Lamb | `lysias-perseus-lamb-against-pancleon` | have (Perseus TEI `tlg0540.tlg023.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Philocrates | W.R.M. Lamb | `lysias-perseus-lamb-against-philocrates` | have (Perseus TEI `tlg0540.tlg029.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Philon | W.R.M. Lamb | `lysias-perseus-lamb-against-philon` | have (Perseus TEI `tlg0540.tlg031.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Simon | W.R.M. Lamb | `lysias-perseus-lamb-against-simon` | have (Perseus TEI `tlg0540.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against The Corn-Dealers | W.R.M. Lamb | `lysias-perseus-lamb-against-the-corn-dealers` | have (Perseus TEI `tlg0540.tlg022.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against The Subversion of the Ancestral Constitution | W.R.M. Lamb | `lysias-perseus-lamb-against-the-subversion-of-the-ancestral` | have (Perseus TEI `tlg0540.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Theomnestus 1 | W.R.M. Lamb | `lysias-perseus-lamb-against-theomnestus-1` | have (Perseus TEI `tlg0540.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Theomnestus 2 | W.R.M. Lamb | `lysias-perseus-lamb-against-theomnestus-2` | have (Perseus TEI `tlg0540.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| Defense Against A Charge Of Taking Bribes | W.R.M. Lamb | `lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe` | have (Perseus TEI `tlg0540.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Defense Against a Charge of Subverting the Democracy | W.R.M. Lamb | `lysias-perseus-lamb-defense-against-a-charge-of-subverting-t` | have (Perseus TEI `tlg0540.tlg025.perseus-eng2`; markup CC BY-SA 4.0) |
+| For Callias | W.R.M. Lamb | `lysias-perseus-lamb-for-callias` | have (Perseus TEI `tlg0540.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| For Polystratus | W.R.M. Lamb | `lysias-perseus-lamb-for-polystratus` | have (Perseus TEI `tlg0540.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
+| For The Soldier | W.R.M. Lamb | `lysias-perseus-lamb-for-the-soldier` | have (Perseus TEI `tlg0540.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| Funeral Oration | W.R.M. Lamb | `lysias-perseus-lamb-funeral-oration` | have (Perseus TEI `tlg0540.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| In Defense of Mantitheus | W.R.M. Lamb | `lysias-perseus-lamb-in-defense-of-mantitheus` | have (Perseus TEI `tlg0540.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Olympic Oration | W.R.M. Lamb | `lysias-perseus-lamb-olympic-oration` | have (Perseus TEI `tlg0540.tlg033.perseus-eng2`; markup CC BY-SA 4.0) |
+| On A Wound By Premeditation | W.R.M. Lamb | `lysias-perseus-lamb-on-a-wound-by-premeditation` | have (Perseus TEI `tlg0540.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Property Of Eraton | W.R.M. Lamb | `lysias-perseus-lamb-on-the-property-of-eraton` | have (Perseus TEI `tlg0540.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Refusal Of A Pension | W.R.M. Lamb | `lysias-perseus-lamb-on-the-refusal-of-a-pension` | have (Perseus TEI `tlg0540.tlg024.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Confiscation of the Property Of The Brother Of Nicias | W.R.M. Lamb | `lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t` | have (Perseus TEI `tlg0540.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Murder of Eratosthenes | W.R.M. Lamb | `lysias-perseus-lamb-on-the-murder-of-eratosthenes` | have (Perseus TEI `tlg0540.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Olive Stump | W.R.M. Lamb | `lysias-perseus-lamb-on-the-olive-stump` | have (Perseus TEI `tlg0540.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Property of Aristophanes | W.R.M. Lamb | `lysias-perseus-lamb-on-the-property-of-aristophanes` | have (Perseus TEI `tlg0540.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Scrutiny of Evandros | W.R.M. Lamb | `lysias-perseus-lamb-on-the-scrutiny-of-evandros` | have (Perseus TEI `tlg0540.tlg026.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Lamb's Loeb Lysias (1930) if a scan is found
 

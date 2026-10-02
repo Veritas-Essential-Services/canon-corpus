@@ -240,7 +240,8 @@
       "id": "perseus-english",
       "status": "running",
       "scope": "Shelve the likely-PD Perseus English translations not already on PR #7 (deduped against claude/project-thread-hxenem; Josephus, Philo and the fathers excluded), one commit per author, rights line each",
-      "started": "2026-10-02T17:09:49-05:00"
+      "started": "2026-10-02T17:13:05-05:00",
+      "notes": "in progress: lysias done"
     }
   ]
 }
