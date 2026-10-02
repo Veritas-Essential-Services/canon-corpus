@@ -222,3 +222,13 @@ all co-written books, and their titles say so:
 - Nesbit with Bland and Brooke.
 
 There is one edited text: MacDonald's Hamlet, the Folio text with his study.
+
+## 4. Second pass (2026-10-02 evening, after Lane D's own batches 7 and 8)
+
+Rerun of §0-§3 over all 55 Lane D shelves (598 slugs), including the twenty added under the standing relay.
+
+- **URLs.** 598 checked: 594 answered first time. Three Gutenberg files reset the connection and all three answered on retry (PG 5654, 137, 2788). One Internet Archive file, `lifelettersofjoh01langiala_djvu.txt` (Lang's Lockhart, vol. 1), returns HTTP 500 three times running although the item's metadata still lists it; vol. 2 answers. This looks like an Archive storage node being down, not a missing file, and the local copy fetched on the second run is intact. Recheck before relying on a refetch. Every slug is in the map.
+- **Same source held twice.** None.
+- **Text held twice, new this pass.** One case, settled before commit: Ewing's *The Brownies and Other Tales* (PG 16052) and *The Land of Lost Toys* (PG 33880) measured 84% and 93% contained in *Lob Lie-by-the-Fire, The Brownies and Other Tales* (PG 62783). Only PG 62783 is held, and the other two are in `ewing_shelf.json` `_excluded` with the figures. Other new overlaps are small borrowings between collectors, which is expected: Jacobs's *Celtic Fairy Tales* draws on Hyde and on Yeats's anthology (17 and 31 paragraphs), Jacobs's *Indian Fairy Tales* draws on Steel's *Tales of the Punjab* (24), and Steel's *English Fairy Tales* retells Jacobs (32 + 11). Mint those passages once with two witnesses, as in §1. *Sara Crewe* (1888) and *A Little Princess* (1905) share only 23 paragraphs, because Burnett rewrote the story, so they are two works.
+- **Translators.** Every translated row in batches 7-8 names its translator in the title, and the catalog agrees. The rows are Spyri (Edwards, Stork, Dole, Brooks), Wyss (Kingston), Ozaki, Mitford, Crane, Hyde and Gregory. The catalog check (`TR-NOT-IN-TITLE`) is empty for all 55 shelves. One `COPYRIGHTED` header was found and kept out: PG 3836 *Swiss Family Robinson*.
+- **OCR.** 63 raw volumes graded: 46 A, 12 B, 3 C, 1 D. The new C is Hyde's *Beside the Fire* (0.917). Its Irish texts were printed in Gaelic type, which the Archive OCR turns into strings like `pijín 1 muic, nÁ b]\oc`. The English pages read cleanly. The Irish is unusable as OCR and would need re-OCR with an Irish model or a clean source. Campbell vols. 1-3 (C, D, C) fall for the same reason, the facing Gaelic, and his English was spot-checked as readable.
