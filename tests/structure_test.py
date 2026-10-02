@@ -784,5 +784,49 @@ check("levels: an unnumbered argument beside numbered chapters is not a level",
       _ab["scheme"]["citation"] == "Cic. Phil. speech.chapter"
       and [u["id"] for u in _ab["units"]] == ["ph:1.arg", "ph:1.1"])
 
+# Cicero's letters (Shuckburgh). Invented text: a letter split in two, a
+# citation printed twice under two Shuckburgh numbers, an essay on a letter
+# with no number of its own, another collection's letter, an exact copy,
+# and Greek tagged straight after an English word.
+_LET = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Letters</title>'
+        '<editor role="translator">E. S. Shuckburgh</editor></titleStmt></fileDesc></teiHeader>'
+        '<text><body xml:base="urn:cts:latinLit:phi0474.phi057.perseus-eng1"><div type="translation">'
+        '<div n="text=A:book=1:letter=5" type="letter" xml:id="s1"><epigraph><p>An intro.</p></epigraph>'
+        '<head>I (A I, 5)</head><opener>TO ATTICUS</opener><p>Dear friend, the <foreign xml:lang="greek">'
+        'kaqh=kon</foreign> of it.</p></div>'
+        '<div n="text=A:book=12:letter=5.1-2" type="letter" xml:id="s2"><p>First half.</p></div>'
+        '<div n="text=A:book=12:letter=5.4" type="letter" xml:id="s3"><p>Second half.</p></div>'
+        '<div n="text=A:book=4:letter=1" type="letter" xml:id="s4"><p>One.</p></div>'
+        '<div n="text=A:book=4:letter=1" type="letter" xml:id="s5"><p>Another.</p></div>'
+        '<div n="text=A:book=1:letter=5" type="letter"><head>ESSAY (LETTER I)</head><p>On it.</p></div>'
+        '<div n="text=Q FR:book=1:letter=1" type="letter" xml:id="s6"><p>To Quintus.</p></div>'
+        '<div n="text=A:book=12:letter=5.4" type="letter" xml:id="s3"><p>Second half.</p></div>'
+        '<div n="text=A:book=2:letter=1" type="letter" xml:id="s7"><p>A word of<foreign xml:lang="grc">'
+        'συμπόσια</foreign> here.</p></div>'
+        '</div></body></text></TEI>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_LET)
+st.CORPUS = os.path.dirname(_fh.name)
+_lb = st.convert_tei_letters(_fh.name, "att", "Cic. Att.", "A")
+st.CORPUS = _saved[0]
+os.unlink(_fh.name)
+_lu = {u["id"]: u for u in _lb["units"]}
+check("letters: one unit per letter at its canonical citation",
+      list(_lu) == ["att:1.5", "att:12.5.1-2", "att:12.5.4", "att:4.1~s4", "att:4.1~s5", "att:2.1"])
+check("letters: Shuckburgh's own number rides on each unit",
+      _lu["att:1.5"]["edition"] == {"shuckburgh": 1})
+check("letters: his introduction and head are apparatus, the letter is text",
+      _lu["att:1.5"]["apparatus"]["head"] == ["An intro.", "I (A I, 5)"]
+      and _lu["att:1.5"]["text"].startswith("TO ATTICUS Dear friend"))
+check("letters: an essay with no number rides on its letter as appendix",
+      _lu["att:1.5"]["apparatus"]["appendix"] == ["ESSAY (LETTER I) On it."])
+check("letters: another collection's letter and an exact copy are not built",
+      "1 letter(s) of other collections" in _lb["scheme"]["note"]
+      and "1 exact duplicate(s)" in _lb["scheme"]["note"])
+check("letters: beta-code Greek is Unicode in the letter",
+      "καθῆκον" in _lu["att:1.5"]["text"])
+check("weld: Greek tagged straight after an English word is a new word",
+      "of συμπόσια here" in _lu["att:2.1"]["text"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

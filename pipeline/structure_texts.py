@@ -259,6 +259,11 @@ def tei_split(el):
             if (prev is not None and c.tag == prev.tag == T + "foreign" and not prev.tail
                     and last()[-1:].isalnum()):
                 parts.append(" ")
+            # ...and Greek tagged straight after an English letter ("of<foreign>
+            # συμπόσια") is a new word: the script changes, the word does too.
+            elif (c.tag == T + "foreign" and "\u0370" <= (c.text or " ")[0] <= "\u1fff"
+                  and last()[-1:].isascii() and last()[-1:].isalnum()):
+                parts.append(" ")
             walk(c, e.tag)
             prev = c
         if block: parts.append("\x00")
@@ -725,6 +730,138 @@ def convert_tei_prose(path, slug, abbrev):
                                f"id kept)."
                                + (f" {nbeta} Greek phrase(s) the file writes in beta code "
                                   f"converted to Unicode by the standard table." if nbeta else "")},
+            "rights": rights,
+            "units": units}
+
+
+# Perseus LETTERS: Cicero's correspondence in Shuckburgh's translation
+# (1899-1900). Shuckburgh printed the letters in ONE chronological series,
+# numbered I-CMXXXI; Perseus split that series into four files by
+# collection and labels each letter with its canonical citation,
+# n="text=A:book=4:letter=1". The unit id is that citation (Att. 4.1), the
+# spine every other book uses. Three things the files do that the ids must
+# not hide:
+#   - a letter Shuckburgh split in two carries its section range
+#     (Att. 12.5.1-2 and 12.5.4): the range is part of the id;
+#   - six citations are printed twice under different Shuckburgh numbers
+#     (his own heads repeat them, e.g. LXXXIX and CXXIII both "A IV, 1"):
+#     each of those gets its Shuckburgh number in the id, "4.1~s89",
+#     because which is right cannot be settled from the translation alone;
+#   - the Quintus file holds its 27 letters twice (an artifact of splitting
+#     "Q FR" in two), and the Friends file holds them a third time. Each is
+#     kept once, in the Quintus book; the copies are counted, not built.
+# Shuckburgh's number rides on every unit as edition.shuckburgh.
+TEI_LETTERS = {
+    "cicero-letters-atticus-shuckburgh": ("Cic. Att.", "A"),
+    "cicero-letters-friends-shuckburgh": ("Cic. Fam.", "F"),
+    "cicero-letters-quintus-shuckburgh": ("Cic. Q. fr.", "Q FR"),
+    "cicero-letters-brutus-shuckburgh": ("Cic. ad Brut.", "BRUT."),
+}
+RE_LETTER_N = re.compile(r"text=([^:]+):book=(\d+):letter=(\d+[a-z]?)(?:\.(\d+(?:-\d+)?))?$")
+LETTER_HEAD = ("epigraph", "head", "argument")
+
+
+def convert_tei_letters(path, slug, abbrev, text_code):
+    T = TEI_NS
+    root = tei_load(path)
+    title, author, transl = tei_meta(root)
+    body = root.find(f".//{T}body")
+    nbeta = tei_beta(body)
+    letters = [d for d in body.iter(T + "div") if d.get("type") == "letter"]
+    snum = lambda d: (d.get("{http://www.w3.org/XML/1998/namespace}id")
+                      or d.get("id") or "")
+    parsed = []
+    for d in letters:
+        m = RE_LETTER_N.match(d.get("n") or "")
+        parsed.append((d, m))
+    seen, other, copies, kept = set(), 0, 0, []
+    for d, m in parsed:
+        if not m or m.group(1) != text_code:
+            other += 1                          # another collection's letter
+            continue
+        key = (d.get("n"), snum(d), " ".join("".join(d.itertext()).split()))
+        if key in seen:
+            copies += 1                         # the same letter, again
+            continue
+        seen.add(key)
+        kept.append((d, m))
+    base = lambda m: f"{m.group(2)}.{m.group(3)}" + (f".{m.group(4)}" if m.group(4) else "")
+    # A "letter" with no Shuckburgh number is his essay on one (Att. 2.24,
+    # "L. VETTIUS (LETTER L, A II, 24)"): it rides on that letter as
+    # apparatus.appendix, not as a second Att. 2.24.
+    appendix = {}
+    for d, m in [x for x in kept if not snum(x[0])]:
+        if any(base(m) == base(m2) and snum(d2) for d2, m2 in kept):
+            appendix.setdefault(base(m), []).append(tei_split(d))
+            kept.remove((d, m))
+    count = {}
+    for d, m in kept:
+        count[base(m)] = count.get(base(m), 0) + 1
+    units, nnotes, dup = [], 0, 0
+    for d, m in kept:
+        ref = base(m)
+        s_no = snum(d)
+        if count[ref] > 1:
+            dup += 1
+            ref = f"{ref}~{s_no or 'note'}"
+        head, notes, sics, links, seen_pl = [], [], [], [], set()
+        parts = []
+        for c in d:
+            local = c.tag.split("}")[-1]
+            t, _s, n2, c2 = tei_split(c)
+            notes.extend(n2); sics.extend(c2)
+            if local in LETTER_HEAD:
+                if t: head.append(t)
+            elif t:
+                parts.append(t)
+            if c.tail and c.tail.strip():
+                parts.append(tei_clean(c.tail))
+        if d.text and d.text.strip():
+            parts.insert(0, tei_clean(d.text))
+        for pl in d.iter(T + "placeName"):
+            mm = RE_TGN.search(pl.get("key") or "")
+            if mm and mm.group(1) not in seen_pl:
+                seen_pl.add(mm.group(1))
+                links.append({"kind": "place", "target": f"tgn:{mm.group(1)}",
+                              "name": clean("".join(pl.itertext()))})
+        text = " ".join(parts)
+        if not text:
+            continue
+        u = {"id": f"{slug}:{ref}", "ref": f"{abbrev} {ref}", "text": text, "links": links}
+        if s_no.startswith("s") and s_no[1:].isdigit():
+            u["edition"] = {"shuckburgh": int(s_no[1:])}
+        app = {}
+        if head: app["head"] = head
+        notes = [n for n in notes if n.get("text")]
+        if notes: app["notes"] = notes; nnotes += len(notes)
+        if sics: app["sic"] = sics
+        if d.find(f".//{T}gap") is not None: app["gap"] = True
+        for t, _s, n2, _c in appendix.pop(base(m), []):
+            app.setdefault("appendix", []).append(t)
+            if n2: app.setdefault("notes", []).extend(n2); nnotes += len(n2)
+        if app: u["apparatus"] = app
+        units.append(u)
+    rights = perseus_rights(root)
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": transl, "sha256": sha256(path)},
+            "scheme": {"citation": f"{abbrev} book.letter",
+                       "resolution": "letter",
+                       "honesty": ("one unit per letter, at the canonical book.letter "
+                                   "citation Perseus labels it with; where Shuckburgh split "
+                                   "a letter, the section range is in the id (12.5.1-2); "
+                                   f"{dup} unit(s) whose citation Shuckburgh prints twice "
+                                   "carry his number as well (4.1~s89) -- which of the two "
+                                   "is right is not settled here. Sections within a letter "
+                                   "are not marked in this edition."),
+                       "note": (f"Shuckburgh's chronological series, numbered on each unit "
+                                f"(edition.shuckburgh). His introductions and heads kept "
+                                f"as apparatus.head; {nnotes} footnote(s) under "
+                                f"apparatus.notes. {other} letter(s) of other collections "
+                                f"in this file left to their own book; {copies} exact "
+                                f"duplicate(s) of a letter in this file not built twice."
+                                + (f" {nbeta} Greek phrase(s) the file writes in beta code "
+                                   f"converted to Unicode by the standard table." if nbeta else ""))},
             "rights": rights,
             "units": units}
 
@@ -2561,6 +2698,9 @@ def main():
                 continue
             if slug in TEI_PROSE:
                 jobs.append((slug, lambda p=path, s=slug: convert_tei_prose(p, s, TEI_PROSE[s])))
+                continue
+            if slug in TEI_LETTERS:
+                jobs.append((slug, lambda p=path, s=slug: convert_tei_letters(p, s, *TEI_LETTERS[s])))
                 continue
             jobs.append((slug, lambda p=path, s=slug: convert_tei(p, s, tei_abbrevs.get(s, s))))
     cdir = os.path.join(CORPUS, "ccel")

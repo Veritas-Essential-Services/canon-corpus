@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 124 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 131 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -156,9 +156,13 @@ The living truth for project state is the Obsidian vault:
   `TEI_PROSE_CUT` opts a book in and `tei_slice()` cuts it there (the
   chapter rides on each unit as `milestones.chapter`). Numbering slips are
   fixed by rule in `TEI_PROSE_N_FIX`. Beta-code Greek ("filo/sofos") inside
-  a Greek `<foreign>` is converted to Unicode (`beta_to_unicode`). Cicero's
-  letters (Shuckburgh) are NOT in yet: their files overlap and number
-  letters in parts; they need their own pass.
+  a Greek `<foreign>` is converted to Unicode (`beta_to_unicode`).
+  Cicero's letters (Shuckburgh, Att./Fam./Q. fr./ad Brut., 926 letters):
+  `convert_tei_letters`, one unit per letter at its canonical book.letter
+  (`cicero-letters-atticus-shuckburgh:4.1~s89`). Shuckburgh's number rides
+  as `edition.shuckburgh`; a split letter keeps its section range in the id
+  (12.5.1-2); a citation his heads print twice gets `~s<number>`; the
+  Quintus letters, copied three times across the files, are built once.
   convert_tei_prose: one unit per innermost textpart div, id = born-in
   book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
   Footnotes under `apparatus.notes`, headings between divisions under

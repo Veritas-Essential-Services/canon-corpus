@@ -5030,5 +5030,85 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "cicero-letters-atticus-shuckburgh": {
+  "title": "Letters to Atticus",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "f682d818eac080d16bfdd49bbca655eb324de40e238875edbfe3aadf09f0933e",
+  "units": 444,
+  "scheme": {
+   "citation": "Cic. Att. book.letter",
+   "resolution": "letter",
+   "honesty": "one unit per letter, at the canonical book.letter citation Perseus labels it with; where Shuckburgh split a letter, the section range is in the id (12.5.1-2); 4 unit(s) whose citation Shuckburgh prints twice carry his number as well (4.1~s89) -- which of the two is right is not settled here. Sections within a letter are not marked in this edition.",
+   "note": "Shuckburgh's chronological series, numbered on each unit (edition.shuckburgh). His introductions and heads kept as apparatus.head; 1596 footnote(s) under apparatus.notes. 0 letter(s) of other collections in this file left to their own book; 0 exact duplicate(s) of a letter in this file not built twice. 172 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-letters-brutus-shuckburgh": {
+  "title": "Letters to Brutus",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "fd268a351cb472a907cbd23b2f2ef0fe663e98c95b31725b679f65f1e60cc84d",
+  "units": 26,
+  "scheme": {
+   "citation": "Cic. ad Brut. book.letter",
+   "resolution": "letter",
+   "honesty": "one unit per letter, at the canonical book.letter citation Perseus labels it with; where Shuckburgh split a letter, the section range is in the id (12.5.1-2); 0 unit(s) whose citation Shuckburgh prints twice carry his number as well (4.1~s89) -- which of the two is right is not settled here. Sections within a letter are not marked in this edition.",
+   "note": "Shuckburgh's chronological series, numbered on each unit (edition.shuckburgh). His introductions and heads kept as apparatus.head; 90 footnote(s) under apparatus.notes. 0 letter(s) of other collections in this file left to their own book; 0 exact duplicate(s) of a letter in this file not built twice. 1 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-letters-friends-shuckburgh": {
+  "title": "Letters to his Friends",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "14d6d98a005bf75eceb31220757ed2f090e8f37bd6707523bad1a358236850c9",
+  "units": 429,
+  "scheme": {
+   "citation": "Cic. Fam. book.letter",
+   "resolution": "letter",
+   "honesty": "one unit per letter, at the canonical book.letter citation Perseus labels it with; where Shuckburgh split a letter, the section range is in the id (12.5.1-2); 6 unit(s) whose citation Shuckburgh prints twice carry his number as well (4.1~s89) -- which of the two is right is not settled here. Sections within a letter are not marked in this edition.",
+   "note": "Shuckburgh's chronological series, numbered on each unit (edition.shuckburgh). His introductions and heads kept as apparatus.head; 918 footnote(s) under apparatus.notes. 27 letter(s) of other collections in this file left to their own book; 0 exact duplicate(s) of a letter in this file not built twice. 70 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-letters-quintus-shuckburgh": {
+  "title": "Letters to his brother Quintus",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "c1ce22431fbc846c7675f1ee7a2ce33932532c28ff7fb90d2e311b1bb5a4f134",
+  "units": 27,
+  "scheme": {
+   "citation": "Cic. Q. fr. book.letter",
+   "resolution": "letter",
+   "honesty": "one unit per letter, at the canonical book.letter citation Perseus labels it with; where Shuckburgh split a letter, the section range is in the id (12.5.1-2); 0 unit(s) whose citation Shuckburgh prints twice carry his number as well (4.1~s89) -- which of the two is right is not settled here. Sections within a letter are not marked in this edition.",
+   "note": "Shuckburgh's chronological series, numbered on each unit (edition.shuckburgh). His introductions and heads kept as apparatus.head; 142 footnote(s) under apparatus.notes. 0 letter(s) of other collections in this file left to their own book; 27 exact duplicate(s) of a letter in this file not built twice. 44 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }

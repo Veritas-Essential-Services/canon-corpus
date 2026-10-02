@@ -606,6 +606,21 @@ PERSEUS = {
     "seneca-apocolocyntosis-rouse": ("canonical-latinLit",
         "phi1017/phi011/phi1017.phi011.perseus-eng2.xml",
         "Seneca, Apocolocyntosis — W. H. D. Rouse (Loeb, 1913; d. 1950) (PD); urn ...phi1017.phi011.perseus-eng2"),
+    # Cicero's letters in Shuckburgh's chronological translation (Bell,
+    # 1899-1900; E. S. Shuckburgh d. 1906). Perseus splits his one series
+    # into four files; see TEI_LETTERS in structure_texts.py.
+    "cicero-letters-friends-shuckburgh": ("canonical-latinLit",
+        "phi0474/phi056/phi0474.phi056.perseus-eng1.xml",
+        "Cicero, Letters to his Friends — E. S. Shuckburgh 1899-1900 (PD); urn ...phi0474.phi056.perseus-eng1"),
+    "cicero-letters-atticus-shuckburgh": ("canonical-latinLit",
+        "phi0474/phi057/phi0474.phi057.perseus-eng1.xml",
+        "Cicero, Letters to Atticus — E. S. Shuckburgh 1899-1900 (PD); urn ...phi0474.phi057.perseus-eng1"),
+    "cicero-letters-quintus-shuckburgh": ("canonical-latinLit",
+        "phi0474/phi058/phi0474.phi058.perseus-eng1.xml",
+        "Cicero, Letters to his brother Quintus — E. S. Shuckburgh 1899-1900 (PD); urn ...phi0474.phi058.perseus-eng1"),
+    "cicero-letters-brutus-shuckburgh": ("canonical-latinLit",
+        "phi0474/phi059/phi0474.phi059.perseus-eng1.xml",
+        "Cicero, Letters to Brutus — E. S. Shuckburgh 1899-1900 (PD); urn ...phi0474.phi059.perseus-eng1"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).
