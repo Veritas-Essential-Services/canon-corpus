@@ -117,17 +117,32 @@ HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
                        "the KJV's 14:19 only: the words of 14:20 ('of all clean fowls ye may "
                        "eat') are in no verse of this transcription"),
         "1Kgs.6.32": (["1Kgs.6.31", "1Kgs.6.32"], "he made two dores of olyue", _HOLDS),
+        "Job.27.3": (["Job.27.4"], "My lippes shall talke of no vanite",
+                     "Job 27:3-4 in the other order: the KJV's two verses swapped; read in "
+                     "both texts"),
+        "Job.27.4": (["Job.27.3"], "whyle my breth is in me",
+                     "Job 27:3-4 in the other order: the KJV's two verses swapped; read in "
+                     "both texts"),
         "Ps.14.2": (["Ps.14.2", "Ps.14.3"], "But they are all gone out of the waye", _COVPS),
         "Ps.14.3": ([], "Their throte is an open sepulcre", _ROM3),
         "Ps.14.4": ([], "their fete are swift to shed bloude", _ROM3),
         "Ps.18.46": (["Ps.18.45"], "The straunge children are waxe olde", _COVPS),
         "Ps.40.14": (["Ps.40.15"], "that crie ouer me: there there", _COVPS),
         "Ps.40.16": (["Ps.40.17"], "As for me, I am poore", _COVPS),
+        "Ps.37.38": (["Ps.37.37"], "Kepe innocency", _COVPS),
+        "Ps.37.39": (["Ps.37.38", "Ps.37.39"], "As for the trasgressours", _COVPS),
+        "Ps.72.20": (["Ps.72.19"], "And blessed be the name of his maiesty for euer",
+                     "the KJV's 72:19: the words of its 72:20 ('The prayers of David the son "
+                     "of Jesse are ended') are in no verse of this transcription"),
         "Ps.79.13": (["Ps.79.12", "Ps.79.13"], "rewarde the (o LORDE) seuefolde", _COVPS),
+        "Ps.87.2": (["Ps.87.3"], "Very excellet thiges are spoke of ye",
+                    "the KJV's 87:3 only: Coverdale's 87:1 holds both the KJV's 87:1 and "
+                    "87:2; read in both texts"),
         "Ps.93.2": (["Ps.93.1"], "he hath made the rounde worlde so sure", _COVPS),
         "Ps.93.4": (["Ps.93.3"], "The floudes aryse", _COVPS),
         "Ps.93.5": (["Ps.93.4", "Ps.93.5"], "The wawes of the see are mightie", _COVPS),
         "Ps.130.1": (["Ps.130.1", "Ps.130.2"], "LORDE heare my voyce", _COVPS),
+        "Ps.131.1": (["Ps.131.1"], "Lorde, I am not hye mynded", _COVPS),
         "Hab.3.4": (["Hab.3.3", "Hab.3.4"], "His glory couereth the heauens",
                     "the second half of the KJV's 3:3 opens Coverdale's 3:4"),
     },
@@ -412,7 +427,9 @@ HOUSE_MISSING = {    # {slug: {KJV verse: why the Bible has no verse for it}}
                                "Luke.17.36", "Rev.21.26"]},
                   "Deut.14.20": "this transcription has no words for it: the source's slot "
                                 "reads '(Omitted Text)', and 14:19 holds only the KJV's 14:19",
-                  "Ps.136.24": "this transcription has no words for it ('And hath redeemed "
+                  "Ps.72.20": "this transcription has no words for it ('The prayers of David "
+                              "the son of Jesse are ended'): its 72:20 is the KJV's 72:19",
+                  "Ps.136.24":"this transcription has no words for it ('And hath redeemed "
                                "us from our enemies'): its 136:24-25 are the KJV's 136:25-26, "
                                "and its 136:26 reads '(Omitted Text)'"},
     "bishops": {v: "this transcription's slot is empty, and the verses around it do not hold "

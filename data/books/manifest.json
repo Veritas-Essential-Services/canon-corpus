@@ -4504,7 +4504,7 @@
   "scheme": {
    "citation": "Book chapter:verse as the source's Bible SuperSearch module numbers it (the KJV's grid; OSIS book ids)",
    "resolution": "verse",
-   "honesty": "exact, except 75 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "honesty": "exact, except 70 verses holding several KJV verses (a merged last slot or the Bible's own division)",
    "versification": "coverdale (Bible SuperSearch, KJV grid)",
    "kjv_resolved": 31086,
    "kjv_unresolved": 2,

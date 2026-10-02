@@ -23,15 +23,15 @@
   "verses": 31088,
   "books": 66,
   "verses_landing_on_no_kjv_verse_unexplained": 0,
-  "kjv_verses_reached_from_no_verse": 12
+  "kjv_verses_reached_from_no_verse": 13
  },
  "counts": {
   "differing_verses": 531,
-  "spanning_several_kjv_verses": 75,
-  "kjv_verses_shared_by_several_verses": 72,
+  "spanning_several_kjv_verses": 70,
+  "kjv_verses_shared_by_several_verses": 68,
   "verses_with_no_kjv_verse": 2,
   "aligned_chapters": 34,
-  "house_rows": 15
+  "house_rows": 22
  },
  "aligned_chapters": {
   "Ps.5": {
@@ -192,6 +192,18 @@
    ],
    "why": "the verse holds the words of both KJV verses (the slot after or before it is empty or holds other words); read in both texts"
   },
+  "Job.27.3": {
+   "kjv": [
+    "Job.27.4"
+   ],
+   "why": "Job 27:3-4 in the other order: the KJV's two verses swapped; read in both texts"
+  },
+  "Job.27.4": {
+   "kjv": [
+    "Job.27.3"
+   ],
+   "why": "Job 27:3-4 in the other order: the KJV's two verses swapped; read in both texts"
+  },
   "Ps.14.2": {
    "kjv": [
     "Ps.14.2",
@@ -225,12 +237,37 @@
    ],
    "why": "Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both texts"
   },
+  "Ps.37.38": {
+   "kjv": [
+    "Ps.37.37"
+   ],
+   "why": "Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both texts"
+  },
+  "Ps.37.39": {
+   "kjv": [
+    "Ps.37.38",
+    "Ps.37.39"
+   ],
+   "why": "Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both texts"
+  },
+  "Ps.72.20": {
+   "kjv": [
+    "Ps.72.19"
+   ],
+   "why": "the KJV's 72:19: the words of its 72:20 ('The prayers of David the son of Jesse are ended') are in no verse of this transcription"
+  },
   "Ps.79.13": {
    "kjv": [
     "Ps.79.12",
     "Ps.79.13"
    ],
    "why": "Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both texts"
+  },
+  "Ps.87.2": {
+   "kjv": [
+    "Ps.87.3"
+   ],
+   "why": "the KJV's 87:3 only: Coverdale's 87:1 holds both the KJV's 87:1 and 87:2; read in both texts"
   },
   "Ps.93.2": {
    "kjv": [
@@ -255,6 +292,12 @@
    "kjv": [
     "Ps.130.1",
     "Ps.130.2"
+   ],
+   "why": "Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both texts"
+  },
+  "Ps.131.1": {
+   "kjv": [
+    "Ps.131.1"
    ],
    "why": "Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both texts"
   },
@@ -1488,6 +1531,7 @@
   "Josh.15.53": "this transcription has no words for it: the source's slot reads '(Omitted Text)', and the verses around it do not hold its words",
   "Josh.15.54": "this transcription has no words for it: the source's slot reads '(Omitted Text)', and the verses around it do not hold its words",
   "Neh.13.27": "this transcription has no words for it: the source's slot reads '(Omitted Text)', and the verses around it do not hold its words",
+  "Ps.72.20": "this transcription has no words for it ('The prayers of David the son of Jesse are ended'): its 72:20 is the KJV's 72:19",
   "Ps.136.24": "this transcription has no words for it ('And hath redeemed us from our enemies'): its 136:24-25 are the KJV's 136:25-26, and its 136:26 reads '(Omitted Text)'",
   "Mark.6.46": "this transcription has no words for it: the source's slot reads '(Omitted Text)', and the verses around it do not hold its words",
   "Mark.11.26": "this transcription has no words for it: the source's slot reads '(Omitted Text)', and the verses around it do not hold its words",
@@ -1512,14 +1556,8 @@
    "1Kgs.6.31",
    "1Kgs.6.32"
   ],
-  "Job.27.3": [
-   "Job.27.3",
-   "Job.27.4"
-  ],
-  "Job.27.4": [
-   "Job.27.3",
-   "Job.27.4"
-  ],
+  "Job.27.3": "Job.27.4",
+  "Job.27.4": "Job.27.3",
   "Job.36.28": [
    "Job.36.27",
    "Job.36.28"
@@ -1658,9 +1696,10 @@
   "Ps.37.35": "Ps.37.34",
   "Ps.37.36": "Ps.37.35",
   "Ps.37.37": "Ps.37.36",
-  "Ps.37.38": [
-   "Ps.37.37",
-   "Ps.37.38"
+  "Ps.37.38": "Ps.37.37",
+  "Ps.37.39": [
+   "Ps.37.38",
+   "Ps.37.39"
   ],
   "Ps.39.2": "Ps.39.1",
   "Ps.39.3": "Ps.39.2",
@@ -1879,10 +1918,7 @@
   "Ps.72.17": "Ps.72.16",
   "Ps.72.18": "Ps.72.17",
   "Ps.72.19": "Ps.72.18",
-  "Ps.72.20": [
-   "Ps.72.19",
-   "Ps.72.20"
-  ],
+  "Ps.72.20": "Ps.72.19",
   "Ps.74.3": "Ps.74.2",
   "Ps.74.4": "Ps.74.3",
   "Ps.74.5": "Ps.74.4",
@@ -2011,10 +2047,7 @@
    "Ps.87.1",
    "Ps.87.2"
   ],
-  "Ps.87.2": [
-   "Ps.87.2",
-   "Ps.87.3"
-  ],
+  "Ps.87.2": "Ps.87.3",
   "Ps.87.3": "Ps.87.4",
   "Ps.88.1": [
    "Ps.88.1",
@@ -2170,10 +2203,6 @@
   "Ps.130.1": [
    "Ps.130.1",
    "Ps.130.2"
-  ],
-  "Ps.131.1": [
-   "Ps.130.7",
-   "Ps.130.8"
   ],
   "Ps.131.2": "Ps.131.1",
   "Ps.131.3": [
