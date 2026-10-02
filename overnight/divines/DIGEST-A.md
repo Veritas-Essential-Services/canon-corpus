@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:02 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:03 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -25,6 +25,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | John Owen | owen_shelf.json | 27 CCEL (+4 already held) | 24 (Goold Works 1850-55, complete incl. Hebrews) | none | Banner reprints, modern editions |
+| Richard Sibbes | sibbes_shelf.json | 0 (no CCEL or Gutenberg found) | 7 (Grosart Complete Works 1862-64, complete) | a clean Bruised Reed | modern editions; Kater-Sibbes (different author) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

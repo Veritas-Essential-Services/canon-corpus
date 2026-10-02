@@ -1,0 +1,51 @@
+{
+ "_about": "Every public-domain Richard Sibbes (1577-1635) text the Word Hoard holds. The target is the complete Grosart edition (Nichol's Series of Standard Divines, 7 vols, 1862-1864), Internet Archive OCR text (University of Toronto scans), raw and unconverted (the Edwards precedent). Grosart supersedes the 17th-century quartos and the 1809 Works, so those are listed as alternates, not fetched. CCEL: no Sibbes author page resolves (ccel.org/ccel/s/sibbes and s/sibbs probed 2026-10-02; work URLs return HTML, not ThML), so nothing is taken from CCEL. No Gutenberg Sibbes exists (searched 2026-10-02). Modern reprints are excluded.",
+ "_ccel_author": "",
+ "_name_words": [
+  "sibbes",
+  "sibbs"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sibbes-works-grosart-1": [
+   "completeworksofr01sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 1"
+  ],
+  "sibbes-works-grosart-2": [
+   "completeworksofr02sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 2"
+  ],
+  "sibbes-works-grosart-3": [
+   "completeworksofr03sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 3"
+  ],
+  "sibbes-works-grosart-4": [
+   "completeworksofr04sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 4"
+  ],
+  "sibbes-works-grosart-5": [
+   "completeworksofr05sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 5"
+  ],
+  "sibbes-works-grosart-6": [
+   "completeworksofr06sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 6"
+  ],
+  "sibbes-works-grosart-7": [
+   "completeworksofr07sibbuoft",
+   "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-1864), vol. 7"
+  ]
+ },
+ "_alternates": {
+  "completeworkso01sibb..07sibb": "A second scan of the same Grosart set; all seven verified 2026-10-02. Not fetched: duplicate; useful to repair a bad OCR page.",
+  "worksreverendri00sibbgoog, worksreverendri01sibbgoog": "The Works (Aberdeen, 1809), partial; Grosart supersedes it.",
+  "bim_early-english-books-* (about 80 items)": "First and early quartos 1629-1658 (EEBO scans); Grosart reprints these texts. Not fetched.",
+  "soulsconflictwit00sibb, soulsconflictvic00sibb, soulsconflictvic00sibbrich, commentaryhosea00sibbuoft, beameli00sibb, bowedi00sibb, lightfro00sibb": "Single-work printings 1638-1842 of texts in Grosart. Not fetched."
+ },
+ "_excluded": {
+  "isbn_9781939251725, isbn_9781460942727, isbn_9781330586433, bruisedreed0000sibb, bruisedreedsmoki0000sibb, josiahsreformati0000rich": "modern editions or reprints (1973 onward): editorial matter may be in copyright",
+  "apis0000kate, preliminarycatal0000kate": "different author (G. J. F. Kater-Sibbes), not Richard Sibbes"
+ }
+}

@@ -74,4 +74,8 @@
 
 ## 2026-10-02 16:02 CDT — round 2 reopened; owen done
 - Coordinator relay: keep going to the stop time with eleven default Divines (Owen, Sibbes, Baxter, Watson, Brooks, Goodwin, Rutherford, M'Cheyne prose, Matthew Henry, Calvin in CTS English, Spurgeon). Added to QUEUE-A; each gets a DIGEST-A line for Adam's veto. Lock re-taken.
-- owen: `pipeline/owen_shelf.json`. 27 CCEL works fetched and converted (22,334 units, 21,015 links in total; `owen-poema` is only 4 units). The four CCEL titles already in `fetch_sources.py` are listed under `_held`, not refetched. Goold's Works, all 24 volumes, fetched as raw IA OCR (about 82 MB with the CCEL files). Volume numbers were read off title-page OCR because IA metadata numbers several Toronto scans wrongly (e.g. `owensworks04owenuoft` is Goold vol. 21). `--verify`: 0 mismatched, 0 title_weak. 0 uids minted.
+- owen: `pipeline/owen_shelf.json`. 27 CCEL works fetched and converted (23,432 units, 20,976 links in total; `owen-poema` is only 4 units). The four CCEL titles already in `fetch_sources.py` are listed under `_held`, not refetched. Goold's Works, all 24 volumes, fetched as raw IA OCR (about 82 MB with the CCEL files). Volume numbers were read off title-page OCR because IA metadata numbers several Toronto scans wrongly (e.g. `owensworks04owenuoft` is Goold vol. 21). `--verify`: 0 mismatched, 0 title_weak. 0 uids minted.
+
+## 2026-10-02 16:03 CDT — sibbes done
+- `pipeline/sibbes_shelf.json`: Grosart's Complete Works, all 7 volumes, raw IA OCR (Toronto scans, about 16 MB). `--verify`: 0 mismatched. A second scan of the same set is listed as an alternate.
+- CCEL: `ccel.org/ccel/s/sibbes` (and `s/sibbs`) did not resolve to an author page, and the work URLs probed served HTML, not ThML. Nothing taken from CCEL; recorded so the next worker does not re-probe blindly. No Gutenberg Sibbes. 0 uids minted.

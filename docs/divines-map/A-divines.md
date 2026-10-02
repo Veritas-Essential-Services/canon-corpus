@@ -263,3 +263,22 @@ Target: the Goold edition, *The Works of John Owen* (Edinburgh: Johnstone & Hunt
 | Goold vol. 24 (Hebrews) | have-raw | IA `owensworks07owenuoft` |
 | Russell edition 1826; separate Hebrews editions 1811/1839/1840; Goold reprints 1862/1869 | alternate | not fetched: Goold supersedes them |
 | Banner of Truth reprints (1965 onward); 1953/1954/1991 editions | excluded | possibly in copyright |
+
+
+## Richard Sibbes (round 2, 2026-10-02)
+
+Target: Grosart's *Complete Works of Richard Sibbes* (Edinburgh: James Nichol, 1862-1864), 7 volumes, all held as raw IA OCR (Toronto scans). No CCEL ThML could be found (the author page does not resolve) and no Gutenberg Sibbes exists, so there is no clean text yet.
+
+| Work | Status | Where |
+|---|---|---|
+| Grosart vol. 1 | have-raw | IA `completeworksofr01sibbuoft` |
+| Grosart vol. 2 | have-raw | IA `completeworksofr02sibbuoft` |
+| Grosart vol. 3 | have-raw | IA `completeworksofr03sibbuoft` |
+| Grosart vol. 4 | have-raw | IA `completeworksofr04sibbuoft` |
+| Grosart vol. 5 | have-raw | IA `completeworksofr05sibbuoft` |
+| Grosart vol. 6 | have-raw | IA `completeworksofr06sibbuoft` |
+| Grosart vol. 7 | have-raw | IA `completeworksofr07sibbuoft` |
+| Second scan of Grosart (`completeworkso01sibb`..`07`) | alternate | verified, not fetched |
+| The Works (Aberdeen, 1809); EEBO quartos 1629-1658; single-work printings 1638-1842 | alternate | texts are in Grosart |
+| Clean text of The Bruised Reed / The Soul's Conflict | wishlist | no PD machine-readable edition found |
+| Modern editions (1973 onward) | excluded | possibly in copyright |
