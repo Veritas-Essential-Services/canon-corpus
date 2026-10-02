@@ -1,5 +1,5 @@
 # Lane B digest — Classical (English translations)
-<!-- refreshed 2026-10-02 17:35 CDT by the lane B worker -->
+<!-- refreshed 2026-10-02 17:31 CDT by the lane B worker -->
 
 **Held:** 84 shelves, 691 files (249 clean Gutenberg texts, 199 raw Internet Archive OCR volumes, 243 Perseus TEI texts), 388 MB on the worker's disk. Corpus text is gitignored; the shelves (`pipeline/<author>_shelf.json`) are the record. Nothing converted into the build manifest and **nothing minted** (no uid minting during a burst). Every shelf lists its pending wishlist and its exclusions with reasons; the map section is `docs/divines-map/B-classical.md`.
 
@@ -34,7 +34,7 @@
 - **fetch_shelf.py** now reads Gutenberg files served only gzip-encoded (one-line retry on HTTP 406); Robinson's Archimedes fetched with it.
 - **Grey area for you:** some kept Loeb scans are later reprints (e.g. 1931-1969) of pre-1931 editions with no revision notice; two carry pre-1930 revisions (Miller's Seneca vol. 2, Fairclough's Horace, both 1929). Their text is that of the pre-1931 edition.
 
-## Added since the second digest (2026-10-02, 17:07-17:35 CDT)
+## Added since the second digest (2026-10-02, 17:07-17:31 CDT)
 
 - **243 Perseus TEI English texts** under a new `"perseus"` key in 19 shelves, fetched by a new, separate `pipeline/fetch_perseus.py` (fetch_shelf.py is unchanged for them). Deduped against the 309 Perseus ids on PR #7; Philo (PR #8) and the fathers, apocrypha and Bible rows left to their owners. Each file's own sourceDesc dates the translation (all 1930 or earlier, except one reprint noted under Defects); the markup licence travels in each `<shelf>_perseus_report.json`.
 - **Five missing volumes found under other ids:** Nixon's Plautus vol. 2 (1917), Francklin's complete Sophocles (1759), Beloe's Gellius vol. 2 (1795), Kennedy's Demosthenes vol. 5 (1878) and Rowe's Lucan vol. 2 (1812). Title pages were read.
