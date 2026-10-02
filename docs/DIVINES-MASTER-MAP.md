@@ -690,6 +690,19 @@ Three titles clean from CCEL, one from Gutenberg; the Leeds Works (Edward Baines
 | The Works, vols. I-IX (Leeds, 1802-1805) | have-raw | IA `worksofrevpdoddr01dodd`..`09dodd` |
 | The Works, vol. X | have-raw | IA `worksrevpdoddri01doddgoog` (the Princeton vol. X scan never names Doddridge and was refused) |
 | Miscellaneous Works (1830, 1839) | alternate | the Leeds Works are held |
+
+## Thomas Shepard (round 4, my pick, 2026-10-02)
+
+The Works (Boston, 1853, ed. Albro, 3 vols): vol. I clean from CCEL, vols. II-III raw IA OCR; three further items.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works, vol. I (1853): Life; The Sincere Convert; The Sound Believer; The Saint's Jewel; Certain Select Cases Resolved; First Principles; The Sum of Christian Religion | have | CCEL `worksthomas` (`shepard-works-01`) |
+| The Change of the Sabbath | have | CCEL `sabbath` (`shepard-change-sabbath`) |
+| The Works, vols. II-III (1853) | have-raw | IA `worksofthomasshe02shep`, `worksofthomasshe03shep` |
+| The Autobiography of Thomas Shepard (1832, ed. N. Adams) | have-raw | IA `autobiographyth00adamgoog` (the library scan has only 38 of 129 pages) |
+| The Clear Sun-shine of the Gospel (1648; 1865 reprint) | have-raw | IA `cu31924028652349` |
+| First printings (1645-1658) and ECCO reprints | alternate | the 1853 Works are held |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 17:00 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 17:02 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -59,6 +59,7 @@ Rounds 2 and 3 were done by 16:41 CDT. Lane A is carrying on with more Puritan, 
 |---|---|---|---|---|---|
 | John Howe | howe_shelf.json | 4 CCEL (Whole Works 1822, vols. V-VIII) | 4 (Whole Works vols. I-IV) | Posthumous Works (1832) | other editions (1724, 1835, 1838, 1862) |
 | Philip Doddridge (prose) | doddridge_shelf.json | 3 CCEL (Rise and Progress, Regeneration, Evidences) + 1 Gutenberg (Life of Col. Gardiner) | 10 (Works, Leeds 1802-05, complete) | none | Watts's Works (ed. with Jennings); his hymns (hymn manifest) |
+| Thomas Shepard | shepard_shelf.json | 2 CCEL (Works vol. I, 1853; The Change of the Sabbath) | 4 (Works vols. II-III; Autobiography 1832; Clear Sun-shine of the Gospel, 1865 reprint) | none | early separate printings; Thomas Shepard Goodwin |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

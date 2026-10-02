@@ -1,0 +1,48 @@
+{
+ "_about": "Public-domain Thomas Shepard (1605-1649, first pastor of the First Church, Cambridge, Massachusetts) for the Word Hoard. The Works (Boston: Doctrinal Tract and Book Society, 1853, ed. John A. Albro, 3 vols): vol. I clean from CCEL (Life, The Sincere Convert, The Sound Believer and shorter pieces), vols. II-III raw Internet Archive OCR (volume numbers read off the title pages). Also CCEL's The Change of the Sabbath, the Autobiography (1832) and The Clear Sun-shine of the Gospel (1865 reprint). Not Thomas Shepard Goodwin or Thomas G. Shepard. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "s/shepard",
+ "_name_words": [
+  "shepard"
+ ],
+ "_held": {},
+ "ccel": {
+  "shepard-works-01": [
+   "worksthomas",
+   "The Works of Thomas Shepard, vol. I (1853): Life; The Sincere Convert; The Sound Believer",
+   ""
+  ],
+  "shepard-change-sabbath": [
+   "sabbath",
+   "The Change of the Sabbath",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "shepard-works-02": [
+   "worksofthomasshe02shep",
+   "The Works of Thomas Shepard, vol. II (1853)"
+  ],
+  "shepard-works-03": [
+   "worksofthomasshe03shep",
+   "The Works of Thomas Shepard, vol. III (1853)"
+  ],
+  "shepard-autobiography-1832": [
+   "autobiographyth00adamgoog",
+   "The Autobiography of Thomas Shepard (Boston, 1832, ed. Nehemiah Adams; Google scan)"
+  ],
+  "shepard-clear-sunshine-1865": [
+   "cu31924028652349",
+   "The Clear Sunshine of the Gospel Breaking Forth upon the Indians in New-England (1865 reprint of 1648)"
+  ]
+ },
+ "_alternates": {
+  "worksofthomasshe01shep; worksthomasshep00..02shepgoog": "Other scans of the 1853 Works; vol. I is held from CCEL.",
+  "sincereconvertdi00shep_2 (1655); soundbeleevertre00shep_0 (1653); thesessabbaticae00shep_1 (1655); parableoftenvirg01shep (1797); EEBO and ECCO printings": "Early separate printings of works in the collected edition.",
+  "autobiographyoft00shep2": "The 1832 Autobiography, but only 38 page images of a 129-page book; the complete Google scan is held.",
+  "autobiographyth01adamgoog": "Second Google scan of the 1832 Autobiography."
+ },
+ "_excluded": {
+  "naturalhistory* (Thomas Shepard Goodwin); yalesongs*, wigwam-and-forest (Thomas G. Shepard)": "Other people."
+ }
+}
