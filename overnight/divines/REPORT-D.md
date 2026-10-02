@@ -180,3 +180,9 @@
 
 ## 2026-10-02 17:09 CDT — dutt: done
 - 2/2 fetched (Gutenberg 19630; IA RamayanaTheEpicOfRama..., file Ramayana_the_epic_of_Rama_prince_of_Indi_djvu.txt), 2,072 units, 0 ~2 ids; Mahabharata nested Book > canto; Ramayana raw OCR grade B (96.8% word hit).
+
+## 2026-10-02 17:13 CDT — mabinogion: done
+- Guest's Mabinogion is already held by lane C (`pipeline/guest_shelf.json`, PG 5160). Cross-referenced only; no second shelf.
+
+## 2026-10-02 17:13 CDT — session end (sixth run)
+- Relay 6 done. Six new shelves and the Dasent shelf extended: malory (3), beowulf (4), poetic-edda (1), kalevala (1), sturluson (2), dutt (1 + 1 raw), dasent (+1, +1 raw). 22,877 new units. convert_nested.py gains opt-in level `label`/`keep` and a `front` option; ralston and colum Odysseus now use front. All 512 Lane D URLs resolve (5 transient failures answered on retry); map complete. Lock released. Queue: 42/42 done.

@@ -314,8 +314,10 @@
     },
     {
       "id": "mabinogion",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Guest's Mabinogion: already held by lane C on pipeline/guest_shelf.json; cross-reference only, no second shelf"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Guest's Mabinogion: already held by lane C on pipeline/guest_shelf.json; cross-reference only, no second shelf",
+      "finished": "2026-10-02T17:12:55-05:00",
+      "notes": "Guest's Mabinogion is held by lane C (pipeline/guest_shelf.json, PG 5160); not duplicated here. Cross-referenced in DIGEST-D."
     },
     {
       "id": "sturluson",
