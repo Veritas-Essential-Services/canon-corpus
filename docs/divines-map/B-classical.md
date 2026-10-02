@@ -742,6 +742,24 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Orations of Demosthenes, vol. 2 (Bohn; 1880 printing) | Charles Rann Kennedy | `demosthenes-kennedy-v2` | have-raw (IA `orationsofdemost002demo`) |
 | The Orations of Demosthenes against Leptines, Midias, Androtion and Aristocrates, vol. 3 (Bohn; 1856) | Charles Rann Kennedy | `demosthenes-kennedy-v3` | have-raw (IA `orationsdemosth01kenngoog`) |
 | The Orations of Demosthenes against Timocrates, Aristogiton, Aphobus and others, vol. 4 (Bohn; 1877) | Charles Rann Kennedy | `demosthenes-kennedy-v4` | have-raw (IA `orationsdemosth02kenngoog`) |
+| Against Leptines | James Herbert Vince | `demosthenes-perseus-vince-against-leptines` | have (Perseus TEI `tlg0014.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
+| Answer to Philip’s Letter | James Herbert Vince | `demosthenes-perseus-vince-answer-to-philip-s-letter` | have (Perseus TEI `tlg0014.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| First Olynthiac | James Herbert Vince | `demosthenes-perseus-vince-first-olynthiac` | have (Perseus TEI `tlg0014.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| For the Liberty of the Rhodians | James Herbert Vince | `demosthenes-perseus-vince-for-the-liberty-of-the-rhodians` | have (Perseus TEI `tlg0014.tlg015.perseus-eng2`; markup CC BY-SA 4.0) |
+| For the People of Megalopolis | James Herbert Vince | `demosthenes-perseus-vince-for-the-people-of-megalopolis` | have (Perseus TEI `tlg0014.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Second Olynthiac | James Herbert Vince | `demosthenes-perseus-vince-second-olynthiac` | have (Perseus TEI `tlg0014.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Halonnesus | James Herbert Vince | `demosthenes-perseus-vince-on-halonnesus` | have (Perseus TEI `tlg0014.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Organization | James Herbert Vince | `demosthenes-perseus-vince-on-organization` | have (Perseus TEI `tlg0014.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Chersonese | James Herbert Vince | `demosthenes-perseus-vince-on-the-chersonese` | have (Perseus TEI `tlg0014.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Navy-Boards | James Herbert Vince | `demosthenes-perseus-vince-on-the-navy-boards` | have (Perseus TEI `tlg0014.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Peace | James Herbert Vince | `demosthenes-perseus-vince-on-the-peace` | have (Perseus TEI `tlg0014.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Treaty with Alexander | James Herbert Vince | `demosthenes-perseus-vince-on-the-treaty-with-alexander` | have (Perseus TEI `tlg0014.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| First Philippic | James Herbert Vince | `demosthenes-perseus-vince-first-philippic` | have (Perseus TEI `tlg0014.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Third Philippic | James Herbert Vince | `demosthenes-perseus-vince-third-philippic` | have (Perseus TEI `tlg0014.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| Fourth Philippic | James Herbert Vince | `demosthenes-perseus-vince-fourth-philippic` | have (Perseus TEI `tlg0014.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Philip’s Letter | James Herbert Vince | `demosthenes-perseus-vince-philip-s-letter` | have (Perseus TEI `tlg0014.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| Second Philippic | James Herbert Vince | `demosthenes-perseus-vince-second-philippic` | have (Perseus TEI `tlg0014.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Third Olynthiac | James Herbert Vince | `demosthenes-perseus-vince-third-olynthiac` | have (Perseus TEI `tlg0014.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Kennedy vol. 5 (no identifiable scan); early Loeb vols. (Vince, 1926-)
 

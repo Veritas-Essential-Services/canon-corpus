@@ -1,53 +1,163 @@
 {
- "_about": "Demosthenes in English, translator per title. Charles Rann Kennedy (Bohn, 1852-63, 5 vols.): vols. 1-4 as raw IA OCR from mixed printings (1855, 1880, 1856, 1877); his Olynthiacs and Philippics clean on Gutenberg. A. W. Pickard-Cambridge, The Public Orations (Oxford, 1912), 2 vols., clean Gutenberg (US PD by date; Pickard-Cambridge d. 1952).",
- "_name_words": [
-  "demosthenes",
-  "orations",
-  "philippics",
-  "olynthiacs"
- ],
- "ccel": {},
- "gutenberg": {
-  "demosthenes-kennedy-olynthiacs-philippics": [
-   6878,
-   "The Olynthiacs and the Philippics of Demosthenes",
-   "tr. Charles Rann Kennedy"
+  "_about": "Demosthenes in English, translator per title. Charles Rann Kennedy (Bohn, 1852-63, 5 vols.): vols. 1-4 as raw IA OCR from mixed printings (1855, 1880, 1856, 1877); his Olynthiacs and Philippics clean on Gutenberg. A. W. Pickard-Cambridge, The Public Orations (Oxford, 1912), 2 vols., clean Gutenberg (US PD by date; Pickard-Cambridge d. 1952). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+  "_name_words": [
+    "demosthenes",
+    "orations",
+    "philippics",
+    "olynthiacs"
   ],
-  "demosthenes-pickard-cambridge-v1": [
-   9060,
-   "The Public Orations of Demosthenes, vol. 1",
-   "tr. A. W. Pickard-Cambridge (1912)"
-  ],
-  "demosthenes-pickard-cambridge-v2": [
-   9061,
-   "The Public Orations of Demosthenes, vol. 2",
-   "tr. A. W. Pickard-Cambridge (1912)"
-  ]
- },
- "internet_archive": {
-  "demosthenes-kennedy-v1": [
-   "orationsdemosth03kenngoog",
-   "The Orations of Demosthenes, vol. 1 (Bohn; 1855 printing)",
-   "tr. Charles Rann Kennedy"
-  ],
-  "demosthenes-kennedy-v2": [
-   "orationsofdemost002demo",
-   "The Orations of Demosthenes, vol. 2 (Bohn; 1880 printing)",
-   "tr. Charles Rann Kennedy"
-  ],
-  "demosthenes-kennedy-v3": [
-   "orationsdemosth01kenngoog",
-   "The Orations of Demosthenes against Leptines, Midias, Androtion and Aristocrates, vol. 3 (Bohn; 1856)",
-   "tr. Charles Rann Kennedy"
-  ],
-  "demosthenes-kennedy-v4": [
-   "orationsdemosth02kenngoog",
-   "The Orations of Demosthenes against Timocrates, Aristogiton, Aphobus and others, vol. 4 (Bohn; 1877)",
-   "tr. Charles Rann Kennedy"
-  ]
- },
- "_excluded": {
-  "Kennedy vol. 5": "not identified among IA scans: orationsofdemos05demo has no usable title page, orationsofdemos04demo has an empty text layer; pending",
-  "J. H. Vince and others, Loeb (1926-)": "US PD by date for the earliest vols., Greek facing; pending"
- }
+  "ccel": {},
+  "gutenberg": {
+    "demosthenes-kennedy-olynthiacs-philippics": [
+      6878,
+      "The Olynthiacs and the Philippics of Demosthenes",
+      "tr. Charles Rann Kennedy"
+    ],
+    "demosthenes-pickard-cambridge-v1": [
+      9060,
+      "The Public Orations of Demosthenes, vol. 1",
+      "tr. A. W. Pickard-Cambridge (1912)"
+    ],
+    "demosthenes-pickard-cambridge-v2": [
+      9061,
+      "The Public Orations of Demosthenes, vol. 2",
+      "tr. A. W. Pickard-Cambridge (1912)"
+    ]
+  },
+  "internet_archive": {
+    "demosthenes-kennedy-v1": [
+      "orationsdemosth03kenngoog",
+      "The Orations of Demosthenes, vol. 1 (Bohn; 1855 printing)",
+      "tr. Charles Rann Kennedy"
+    ],
+    "demosthenes-kennedy-v2": [
+      "orationsofdemost002demo",
+      "The Orations of Demosthenes, vol. 2 (Bohn; 1880 printing)",
+      "tr. Charles Rann Kennedy"
+    ],
+    "demosthenes-kennedy-v3": [
+      "orationsdemosth01kenngoog",
+      "The Orations of Demosthenes against Leptines, Midias, Androtion and Aristocrates, vol. 3 (Bohn; 1856)",
+      "tr. Charles Rann Kennedy"
+    ],
+    "demosthenes-kennedy-v4": [
+      "orationsdemosth02kenngoog",
+      "The Orations of Demosthenes against Timocrates, Aristogiton, Aphobus and others, vol. 4 (Bohn; 1877)",
+      "tr. Charles Rann Kennedy"
+    ]
+  },
+  "_excluded": {
+    "Kennedy vol. 5": "not identified among IA scans: orationsofdemos05demo has no usable title page, orationsofdemos04demo has an empty text layer; pending",
+    "J. H. Vince and others, Loeb (1926-)": "US PD by date for the earliest vols., Greek facing; pending"
+  },
+  "perseus": {
+    "demosthenes-perseus-vince-against-leptines": [
+      "tlg0014.tlg020.perseus-eng2",
+      "Against Leptines",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes. Vol. I. Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-answer-to-philip-s-letter": [
+      "tlg0014.tlg011.perseus-eng2",
+      "Answer to Philip’s Letter",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-first-olynthiac": [
+      "tlg0014.tlg001.perseus-eng2",
+      "First Olynthiac",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes. Vol. I. Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-for-the-liberty-of-the-rhodians": [
+      "tlg0014.tlg015.perseus-eng2",
+      "For the Liberty of the Rhodians",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-for-the-people-of-megalopolis": [
+      "tlg0014.tlg016.perseus-eng2",
+      "For the People of Megalopolis",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-second-olynthiac": [
+      "tlg0014.tlg002.perseus-eng2",
+      "Second Olynthiac",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-on-halonnesus": [
+      "tlg0014.tlg007.perseus-eng2",
+      "On Halonnesus",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-on-organization": [
+      "tlg0014.tlg013.perseus-eng2",
+      "On Organization",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-on-the-chersonese": [
+      "tlg0014.tlg008.perseus-eng2",
+      "On the Chersonese",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-on-the-navy-boards": [
+      "tlg0014.tlg014.perseus-eng2",
+      "On the Navy-Boards",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-on-the-peace": [
+      "tlg0014.tlg005.perseus-eng2",
+      "On the Peace",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-on-the-treaty-with-alexander": [
+      "tlg0014.tlg017.perseus-eng2",
+      "On the Treaty with Alexander",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-first-philippic": [
+      "tlg0014.tlg004.perseus-eng2",
+      "First Philippic",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-third-philippic": [
+      "tlg0014.tlg009.perseus-eng2",
+      "Third Philippic",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-fourth-philippic": [
+      "tlg0014.tlg010.perseus-eng2",
+      "Fourth Philippic",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-philip-s-letter": [
+      "tlg0014.tlg012.perseus-eng2",
+      "Philip’s Letter",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-second-philippic": [
+      "tlg0014.tlg006.perseus-eng2",
+      "Second Philippic",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ],
+    "demosthenes-perseus-vince-third-olynthiac": [
+      "tlg0014.tlg003.perseus-eng2",
+      "Third Olynthiac",
+      "James Herbert Vince",
+      "Translation published 1930: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. I: Olynthiacs, Philippics, Minor Public Speeches, Speech Against Leptines, I-XVII, XX. Vince, J. H., translator. Cambridge, MA: Harvard University Press, 1930 (printing)."
+    ]
+  }
 }
