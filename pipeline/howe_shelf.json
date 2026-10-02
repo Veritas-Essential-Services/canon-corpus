@@ -1,0 +1,58 @@
+{
+ "_about": "Public-domain John Howe (1630-1705, Puritan, chaplain to Cromwell) for the Word Hoard: the Whole Works (London: F. Westley, 1822, ed. John Hunt, 8 vols). Vols. V-VIII are held clean from CCEL; vols. I-IV are raw Internet Archive OCR of the University of Toronto scans (volume numbers read off the title pages). Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "h/howe_john",
+ "_name_words": [
+  "howe"
+ ],
+ "_held": {},
+ "ccel": {
+  "howe-whole-works-05": [
+   "howe05",
+   "The Whole Works of the Rev. John Howe, vol. V (1822)",
+   ""
+  ],
+  "howe-whole-works-06": [
+   "howe06",
+   "The Whole Works of the Rev. John Howe, vol. VI (1822)",
+   ""
+  ],
+  "howe-whole-works-07": [
+   "howe07",
+   "The Whole Works of the Rev. John Howe, vol. VII (1822)",
+   ""
+  ],
+  "howe-whole-works-08": [
+   "howe08",
+   "The Whole Works of the Rev. John Howe, vol. VIII (1822)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "howe-whole-works-01": [
+   "wholeworksofrevj01howeuoft",
+   "The Whole Works of the Rev. John Howe, vol. I (1822)"
+  ],
+  "howe-whole-works-02": [
+   "wholeworksofrevj02howeuoft",
+   "The Whole Works of the Rev. John Howe, vol. II (1822)"
+  ],
+  "howe-whole-works-03": [
+   "wholeworksofrevj03howeuoft",
+   "The Whole Works of the Rev. John Howe, vol. III (1822)"
+  ],
+  "howe-whole-works-04": [
+   "wholeworksofrevj04howeuoft",
+   "The Whole Works of the Rev. John Howe, vol. IV (1822)"
+  ]
+ },
+ "_alternates": {
+  "wholeworksofrevj01howe..08howe": "Other scans of the same 1822 edition.",
+  "worksofrevjohnho00howe; worksofrevjohnho01howe/02howe": "The one-volume (1835) and two-volume (1838) London editions.",
+  "worksofjohnhowe01..06 (1862-63, pref. Henry Rogers)": "The Religious Tract Society edition, 6 vols.",
+  "bim_eighteenth-century_the-works-of-the-late-re_howe-john_1724_1/_2": "The first collected Works (1724), 2 vols."
+ },
+ "_pending": {
+  "posthumousworks00howegoog; posthumousworks01howegoog": "The Posthumous Works (1832, ed. Hunt): the two Google scans' title pages do not give a clear volume sequence; not shelved until checked."
+ }
+}

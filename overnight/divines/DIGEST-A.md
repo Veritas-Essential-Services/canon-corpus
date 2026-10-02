@@ -51,6 +51,14 @@ The coordinator's list was done by 16:32 CDT with most of the burn left, so lane
 | George Whitefield | whitefield_shelf.json | 6 Gutenberg (Works 1771-72, complete) + 1 CCEL (Selected Sermons) | 7 (the Journals, first printings 1739-1756) | second journal | biographies by others |
 | Charles Hodge | hodge_shelf.json | 6 CCEL (Systematic Theology 3 vols + index, Ephesians, What is Darwinism?) | 8 (Romans, 1-2 Corinthians, Way of Life, Essays and Reviews, Church Polity, Conference Papers, Constitutional History) | Princeton Sermons | A. A. Hodge |
 
+## Round 4: my picks, also for your veto
+
+Rounds 2 and 3 were done by 16:41 CDT. Lane A is carrying on with more Puritan, Nonconformist and Evangelical writers. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| John Howe | howe_shelf.json | 4 CCEL (Whole Works 1822, vols. V-VIII) | 4 (Whole Works vols. I-IV) | Posthumous Works (1832) | other editions (1724, 1835, 1838, 1862) |
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.

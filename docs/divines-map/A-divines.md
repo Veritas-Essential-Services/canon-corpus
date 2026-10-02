@@ -659,3 +659,14 @@ Systematic Theology (3 vols + index), Ephesians and What is Darwinism? clean fro
 | Princeton Sermons (1879); England and America (1862) | pending | not fetched this burn |
 | Romans, first edition (1835) | alternate | the 1864 revision is held |
 | A. A. Hodge's books | excluded here | his son |
+
+## John Howe (round 4, my pick, 2026-10-02)
+
+The Whole Works (London: F. Westley, 1822, ed. John Hunt, 8 vols): vols. V-VIII clean from CCEL, vols. I-IV raw IA OCR (title pages read).
+
+| Work | Status | Where |
+|---|---|---|
+| The Whole Works, vols. V-VIII (1822) | have | CCEL `howe05`-`howe08` (`howe-whole-works-05`..`08`) |
+| The Whole Works, vols. I-IV (1822) | have-raw | IA `wholeworksofrevj01howeuoft`..`04howeuoft` |
+| Posthumous Works (1832, ed. Hunt) | pending | two Google scans whose title pages give no clear volume order |
+| Works (1724, 2 vols); (1835); (1838, 2 vols); (1862-63, 6 vols, pref. Rogers) | alternate | the 1822 Whole Works is held |

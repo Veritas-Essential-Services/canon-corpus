@@ -258,6 +258,85 @@
       "started": "2026-10-02T16:37:46-05:00",
       "finished": "2026-10-02T16:41:04-05:00",
       "notes": "6 CCEL + 8 IA"
+    },
+    {
+      "id": "howe",
+      "status": "done",
+      "scope": "John Howe: Works (d. 1705)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T16:56:41-05:00",
+      "notes": "4 CCEL + 4 IA"
+    },
+    {
+      "id": "doddridge",
+      "status": "todo",
+      "scope": "Philip Doddridge: Rise and Progress, Evidences, Regeneration (d. 1751)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "scougal",
+      "status": "todo",
+      "scope": "Henry Scougal: The Life of God in the Soul of Man (d. 1678)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "shepard",
+      "status": "todo",
+      "scope": "Thomas Shepard: Works, Sincere Convert, Parable of the Ten Virgins (d. 1649)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "william-law",
+      "status": "todo",
+      "scope": "William Law: Serious Call, Christian Perfection, devotional works (d. 1761)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "gill",
+      "status": "todo",
+      "scope": "John Gill: Body of Divinity, Exposition (d. 1771)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "guthrie",
+      "status": "todo",
+      "scope": "William Guthrie: The Christian's Great Interest (d. 1665)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "leighton",
+      "status": "todo",
+      "scope": "Robert Leighton: Works, Commentary on 1 Peter (d. 1684)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "alleine",
+      "status": "todo",
+      "scope": "Joseph Alleine: Alarm to the Unconverted, Life and Letters (d. 1668)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "perkins",
+      "status": "todo",
+      "scope": "William Perkins: Works (d. 1602)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "andrew-murray",
+      "status": "todo",
+      "scope": "Andrew Murray: devotional works (d. 1917)",
+      "added": "2026-10-02T16:51:54-05:00",
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
     }
   ]
 }
