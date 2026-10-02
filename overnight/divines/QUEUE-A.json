@@ -35,9 +35,11 @@
     },
     {
       "id": "andrew-bonar",
-      "status": "running",
+      "status": "done",
       "scope": "Andrew A. Bonar \u2014 all public-domain works incl. Memoir of M'Cheyne",
-      "started": "2026-10-02T15:43:58-05:00"
+      "started": "2026-10-02T15:43:58-05:00",
+      "finished": "2026-10-02T15:45:36-05:00",
+      "notes": "17/17 fetched, 13.3 MB: Gutenberg M'Cheyne Memoir and Rutherford Letters (ed. Bonar); 15 IA (Leviticus, Psalms, Mission to the Jews, M'Cheyne 1844 and 1878, Sandeman, diary, etc.). No CCEL Andrew Bonar exists. Andrew Redman Bonar excluded (different man). Awaiting uid minting: all 17."
     },
     {
       "id": "saphir",

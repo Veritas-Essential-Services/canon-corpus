@@ -120,6 +120,27 @@ Shelf: `pipeline/horatius-bonar_shelf.json` (2026-10-02). Prose only: his hymns 
 
 ## Andrew Bonar
 
+Shelf: `pipeline/andrew-bonar_shelf.json` (2026-10-02). Andrew Alexander Bonar (1810-1892). Includes editions he made of Samuel Rutherford (marked "ed. Bonar": the text is Rutherford's, the sketch and notes are Bonar's). Posthumous diary, reminiscences and selections before 1931 are PD and marked.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoir and Remains of Robert Murray M'Cheyne | have | Gutenberg 15251 `abonar-mcheyne-memoir` (clean); IA 1844 first edition and 1878 enlarged edition (raw) |
+| Narrative of a Mission of Inquiry to the Jews (with M'Cheyne, 1843) | have-raw | IA |
+| A Commentary on Leviticus (1851) | have-raw | IA |
+| Christ and His Church in the Book of Psalms (1859) | have-raw | IA |
+| Memoir of David Sandeman (1862) | have-raw | IA |
+| The Brook Besor (1879); Victory over Sin (186-); The Gospel Pointing to the Person of Christ (1888) | have-raw | IA |
+| Presbyterian Liturgies (1858) | have-raw | IA |
+| Diary and Letters (1894); Reminiscences (1895); Heavenly Springs (1904) | have-raw | IA, posthumous, ed. Marjory Bonar |
+| Letters of Samuel Rutherford, ed. Bonar | have | Gutenberg 42557 |
+| Quaint Sermons of Samuel Rutherford (1885); Fourteen Communion Sermons (1876), ed. Bonar | have-raw | IA |
+| Redemption Drawing Nigh (1847) | pending | IA item found; its text file has a non-standard name |
+| The Visitor's Book of Texts | pending | only a 1982 reprint found |
+| Narrative of a Visit to the Holy Land (1878) and other printings | pending | alternates listed in the shelf |
+| Andrew Redman Bonar, Andrew J. Bonar, Andrew Bonar Law | excluded | different people |
+| Gaelic Memoir of M'Cheyne, French Juifs d'Europe | excluded | not English |
+| Modern reprints (1947-1982) | excluded | possibly in copyright |
+
 ## Adolph Saphir
 
 # Classical (English translations)

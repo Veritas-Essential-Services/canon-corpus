@@ -28,3 +28,9 @@
 - The new identity check refused 4 scans whose OCR never names Bonar (God's Way of Holiness, Kelso Tracts, Redeem the Time, Light and Truth OT); moved to `_pending`.
 - CCEL defect: Follow the Lamb, How Shall I Go to God and Words to Winners of Souls are listed on CCEL's Bonar page but their XML is not served (an error page). Two are held from IA instead.
 - Hymn collections listed as "see hymn manifest". Awaiting uid minting: all 24 slugs.
+
+## 2026-10-02 15:45 CDT — andrew-bonar: done
+- Shelf `pipeline/andrew-bonar_shelf.json`: 2 Gutenberg (M'Cheyne Memoir; Rutherford's Letters ed. Bonar), 15 IA. 17/17 fetched, 13.3 MB, identity check clean. No CCEL Andrew Bonar exists.
+- Same-name diligence: Andrew Redman Bonar (1818-1867) wrote several IA-catalogued books (Incidents of Missionary Enterprise, Life of Wellington, Hymns for Christian Families); all excluded.
+- Rutherford editions are shelved as "ed. Bonar"; Adam may prefer them on a Rutherford shelf instead: his call.
+- Awaiting uid minting: all 17 slugs.

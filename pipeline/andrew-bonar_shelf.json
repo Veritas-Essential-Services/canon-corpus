@@ -1,0 +1,99 @@
+{
+ "_about": "Every public-domain Andrew A. Bonar (Andrew Alexander Bonar, 1810-1892, Collace and Glasgow) text the Word Hoard holds: his own works, the Memoir of M'Cheyne, and editions he made of others (marked 'ed. Bonar'; the base text is the other author's, the sketch and notes are Bonar's). Posthumous diary, letters and selections printed before 1931 are public domain and marked. Not Andrew Redman Bonar (1818-1867, a different writer), not Andrew Bonar Law, not Horatius Bonar (his brother, own shelf).",
+ "_name_words": [
+  "bonar"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abonar-mcheyne-memoir": [
+   15251,
+   "The Biography (Memoir) of Robert Murray M'Cheyne"
+  ],
+  "abonar-ed-rutherford-letters": [
+   42557,
+   "Letters of Samuel Rutherford, ed. Andrew A. Bonar (Rutherford's letters; Bonar's sketch and notices)"
+  ]
+ },
+ "internet_archive": {
+  "abonar-mcheyne-memoir-1844": [
+   "robertmurraymcch00bonauoft",
+   "Memoir and Remains of the Rev. Robert Murray M'Cheyne (1844, first edition)"
+  ],
+  "abonar-mcheyne-memoir-1878": [
+   "memoirremainsofr00bona",
+   "Memoir and Remains of the Rev. Robert Murray M'Cheyne (1878, enlarged edition)"
+  ],
+  "abonar-leviticus": [
+   "commentaryonbook00bona",
+   "A Commentary on the Book of Leviticus (1851)"
+  ],
+  "abonar-psalms": [
+   "christhischurchi00bona",
+   "Christ and His Church in the Book of Psalms (1859)"
+  ],
+  "abonar-mission-to-jews": [
+   "narrativeofmissi00bonauoft",
+   "Narrative of a Mission of Inquiry to the Jews from the Church of Scotland in 1839 (with R. M. M'Cheyne, 1843)"
+  ],
+  "abonar-sandeman": [
+   "cu31924079572040",
+   "Memoir of the Life and Brief Ministry of the Rev. David Sandeman (1862)"
+  ],
+  "abonar-brook-besor": [
+   "brookbesorwords00bonagoog",
+   "The Brook Besor: Words for Those Who Must Tarry at Home (1879)"
+  ],
+  "abonar-victory-over-sin": [
+   "victoryoversina00bonauoft",
+   "Victory over Sin, and What Gives Assurance (186-)"
+  ],
+  "abonar-gospel-person-christ": [
+   "gospelpointingto0000reva",
+   "The Gospel Pointing to the Person of Christ (1888)"
+  ],
+  "abonar-presbyterian-liturgies": [
+   "presbyterianlitu0000bona",
+   "Presbyterian Liturgies (1858)"
+  ],
+  "abonar-diary-letters": [
+   "andrewabonarddd00bonagoog",
+   "Andrew A. Bonar, D.D.: Diary and Letters (ed. Marjory Bonar, 1894, posthumous)"
+  ],
+  "abonar-reminiscences": [
+   "reminiscencesofa00bona",
+   "Reminiscences of Andrew A. Bonar (ed. Marjory Bonar, 1895, posthumous)"
+  ],
+  "abonar-heavenly-springs": [
+   "heavenlyspringsp0000bona",
+   "Heavenly Springs: Portions for the Sabbaths of a Year (1904, posthumous)"
+  ],
+  "abonar-ed-rutherford-quaint-sermons": [
+   "quaintsermonsofs00ruthuoft",
+   "Quaint Sermons of Samuel Rutherford, ed. Bonar (1885)"
+  ],
+  "abonar-ed-rutherford-communion-sermons": [
+   "fourtcomm00ruth",
+   "Fourteen Communion Sermons by Samuel Rutherford, ed. Bonar (1876)"
+  ]
+ },
+ "_alternates": {
+  "narrativeofvisit00bona": "Narrative of a Visit to the Holy Land (1878): later edition of the Mission narrative",
+  "narrativeamissi01..05chegoog, narrativeofmissi00bona(_0), 10450230bsb": "other printings of the Mission narrative (1842-45)",
+  "memoirremainsofr00mche(_0), memoirremainsofr00mcherich, dli.ministry.04246, liferemainslette00mche, lifeandremainsl01bonagoog, memoirremainsofr1892mche": "other printings of the M'Cheyne Memoir (1844-1892)",
+  "commentaryonbook00bonaiala, acommentaryonbo00/01bonagoog": "other Leviticus printings",
+  "lettersofsamuelr00ruth, letsamr01ruth/letsamuelr02ruth, lettersofrevsamu*": "Rutherford's Letters, IA printings of Bonar's edition; Gutenberg text held",
+  "memoirlifeandbr00sandgoog": "Sandeman memoir, 1861 printing"
+ },
+ "_pending": {
+  "RedemptionDrawingNighADefenceOfThe": "Redemption Drawing Nigh (1847): IA text file not named <id>_djvu.txt",
+  "visitorsbookoftexts": "The Visitor's Book of Texts (1st ed. 1866?): only a 1982 reprint found"
+ },
+ "_excluded": {
+  "aweekscoursepra00bonagoog, useofchr00bona, incidentsmissio00priogoog, in.ernet.dli.2015.218290, b29297321, dli.ministry.14518, lifedukewelling00bonagoog, in.ernet.dli.2015.66223, holylandbeingske00bonarich": "Andrew Redman Bonar (1818-1867), a different author",
+  "hintsonbreeding00bonagoog": "Andrew J. Bonar (horses), different author",
+  "addressdelivered00lawa, fiscalquestion00lawa, documentsrelativ00canaiala": "Andrew Bonar Law, politician",
+  "iomradhairbeatha00bona, lesjuifsdeurope00gausgoog": "Gaelic and French translations",
+  "modern reprints": "1947-1982 printings (Banner of Truth, Geneva Series, bwb_*), diarylife0000andr (1960), commentaryonlevi0000andr (1966)",
+  "unclejohnvassarofof00vass": "by T. E. Vassar; Bonar only wrote an introduction"
+ }
+}
