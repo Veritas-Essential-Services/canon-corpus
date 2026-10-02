@@ -1,0 +1,37 @@
+{
+ "_about": "W. B. Yeats (1865-1939) as collector and editor of Irish folk tales, not as poet or playwright: Fairy and Folk Tales of the Irish Peasantry (1888), Irish Fairy Tales (1892) and The Celtic Twilight (1893, enlarged 1902). Clean Gutenberg text; US public domain (all before 1929). Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "W. B. Yeats",
+ "_name_words": [
+  "fairy",
+  "folk",
+  "irish",
+  "celtic",
+  "twilight"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "yeats-fairy-and-folk-tales-irish-peasantry": [
+   33887,
+   "Fairy and Folk Tales of the Irish Peasantry, ed. W. B. Yeats (1888)",
+   {
+    "contents_only": true
+   }
+  ],
+  "yeats-irish-fairy-tales": [
+   31763,
+   "Irish Fairy Tales, ed. W. B. Yeats (1892)",
+   {
+    "contents_only": true
+   }
+  ],
+  "yeats-celtic-twilight": [
+   10459,
+   "The Celtic Twilight (1893; enlarged 1902)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "yeats-poems-plays": "Yeats's poems, plays, essays and autobiographies: outside a storytellers shelf (a poets' lane would hold them)",
+  "yeats-stories": "Stories of Red Hanrahan (PG 5793), The Secret Rose (5795), Rosa Alchemica (5794), John Sherman and Dhoya (49109): his own fiction; a candidate for a later batch"
+ }
+}

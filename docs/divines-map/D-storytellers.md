@@ -908,6 +908,18 @@ Shelf: `pipeline/dutt_shelf.json` (2026-10-02; added at the coordinator's relay 
 | dutt-other-translators | excluded | Manmatha Nath Dutt's prose Ramayana (1891-94) and Ganguli's prose Mahabharata (PG 7864 and following, 15474-15477): other translators, not named by the relay |
 | dutt-dli | excluded | Digital Library of India copies of Dutt (in.ernet.dli.*) return 404 and are not used |
 
+## W. B. Yeats (folk-tale editor)
+
+Shelf: `pipeline/yeats-folk_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Yeats as collector and editor of Irish folk tales; his poems and plays are not taken. Fairy and Folk Tales and Irish Fairy Tales are cut by their own Contents, read leniently (the house rule took each story's byline, BY CROFTON CROKER, for a heading). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fairy and Folk Tales of the Irish Peasantry, ed. W. B. Yeats (1888) | have | PG 33887, `yeats-fairy-and-folk-tales-irish-peasantry` (1820 units) |
+| Irish Fairy Tales, ed. W. B. Yeats (1892) | have | PG 31763, `yeats-irish-fairy-tales` (756 units) |
+| The Celtic Twilight (1893; enlarged 1902) | have | PG 10459, `yeats-celtic-twilight` (253 units) |
+| yeats-poems-plays | excluded | Yeats's poems, plays, essays and autobiographies: outside a storytellers shelf (a poets' lane would hold them) |
+| yeats-stories | excluded | Stories of Red Hanrahan (PG 5793), The Secret Rose (5795), Rosa Alchemica (5794), John Sherman and Dhoya (49109): his own fiction; a candidate for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

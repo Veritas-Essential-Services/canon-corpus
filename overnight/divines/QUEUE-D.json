@@ -325,6 +325,59 @@
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Snorri Sturluson: Heimskringla and the Prose Edda (the Sturluson half of the relay's sagas item); no minting",
       "finished": "2026-10-02T17:09:47-05:00",
       "notes": "2/2 fetched (Gutenberg 598, 18947), 3,554 units. Heimskringla nested Saga > chapter (all 16 sagas, 0 ~2); translator unnamed in the file, identified as Laing rev. Anderson (1889) by collation with IA heimskringlaorsa01snor and the --L./--Ed. note signatures. Younger Edda tr. Anderson, 3 ~2 ids."
+    },
+    {
+      "id": "yeats-folk",
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — W. B. Yeats as folk-tale editor (batch 7, world folk tales); no minting",
+      "started": "2026-10-02T17:15:58-05:00",
+      "notes": "3/3 fetched (Gutenberg 33887, 31763, 10459), 2,829 units, 2 ~2 ids. Batch 7 (world folk tales), chosen by Lane D under the coordinator's standing relay.",
+      "finished": "2026-10-02T17:19:39-05:00"
+    },
+    {
+      "id": "hyde",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Douglas Hyde's Irish tales; no minting"
+    },
+    {
+      "id": "gregory",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Lady Gregory's saga retellings and folklore; no minting"
+    },
+    {
+      "id": "campbell-highlands",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — J. F. Campbell, Popular Tales of the West Highlands; no minting"
+    },
+    {
+      "id": "ozaki",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Yei Theodora Ozaki's Japanese tales; no minting"
+    },
+    {
+      "id": "mitford",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Mitford's Tales of Old Japan; no minting"
+    },
+    {
+      "id": "steel",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Flora Annie Steel's Tales of the Punjab and English Fairy Tales; no minting"
+    },
+    {
+      "id": "crane",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — T. F. Crane's Italian Popular Tales; no minting"
+    },
+    {
+      "id": "grinnell",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — George Bird Grinnell's Plains Indian tales; no minting"
+    },
+    {
+      "id": "harris-remus",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Joel Chandler Harris's Uncle Remus books; no minting"
     }
   ]
 }
