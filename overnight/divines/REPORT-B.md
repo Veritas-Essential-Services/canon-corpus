@@ -88,3 +88,12 @@
 - lysias: PG 6969 (translator unnamed in the file; recorded as unnamed, not guessed).
 - isocrates: Freese vol 1 (Bohn 1894) raw IA OCR, clean-word 0.895.
 - Rights: all three PG headers read, none COPYRIGHTED.
+
+## 2026-10-02 16:11 CDT — greek-poets-minor (done)
+- pindar: Myers (PG 10717); Turner prose + Moore verse, Bohn 1872 printing (IA, clean-word 0.87). Cary's Pindar cross-referenced to lane C.
+- theocritus: Calverley (PG 11533); Banks/Chapman Bohn 1853 (IA, 0.86). Lang's prose cross-referenced to lane D (PG 4775).
+- apollonius: Seaton (PG 13977; PG 830 is the same text, 0.98 overlap, not taken); Way 1901 (PG 64235); Coleridge 1889 (IA, 0.92).
+- quintus-smyrnaeus: Way (PG 658).
+- greek-lyric: Mackail Anthology (PG 2378), Wharton Sappho 1908 ed. (PG 57390), Moore Anacreon (PG 38230), Poste Bacchylides 1898 (IA).
+- All PG headers read: none COPYRIGHTED. Loebs (Paton, Edmonds, Mair, Sandys) left pending: Greek facing pages.
+- Musaeus: no PD English scan identified.

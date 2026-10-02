@@ -130,8 +130,10 @@
     },
     {
       "id": "greek-poets-minor",
-      "status": "todo",
-      "scope": "CLASSICAL (census gap) \u2014 Pindar (Myers, Moore; cross-ref cary-pindar lane C), Theocritus/Bion/Moschus (Calverley, Banks; Lang's cross-ref lane D), Apollonius Rhodius (Seaton, Coleridge, Way), Quintus Smyrnaeus (Way), Musaeus, the Greek Anthology (Mackail, Paton); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census gap) \u2014 Pindar (Myers, Moore; cross-ref cary-pindar lane C), Theocritus/Bion/Moschus (Calverley, Banks; Lang's cross-ref lane D), Apollonius Rhodius (Seaton, Coleridge, Way), Quintus Smyrnaeus (Way), Musaeus, the Greek Anthology (Mackail, Paton); shelf per author + fetch + map",
+      "finished": "2026-10-02T16:11:43-05:00",
+      "notes": "pindar, theocritus, apollonius, quintus-smyrnaeus, greek-lyric; cross-refs cary-pindar (C), lang theocritus (D)"
     },
     {
       "id": "greek-late-philosophy",

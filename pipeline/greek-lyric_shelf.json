@@ -1,0 +1,42 @@
+{
+ "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR.",
+ "_name_words": [
+  "anthology",
+  "epigrams",
+  "sappho",
+  "anacreon",
+  "bacchylides"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "greek-anthology-mackail": [
+   2378,
+   "Select Epigrams from the Greek Anthology",
+   "tr. J. W. Mackail"
+  ],
+  "sappho-wharton": [
+   57390,
+   "Sappho: Memoir, Text, Selected Renderings, and a Literal Translation",
+   "ed. and tr. Henry Thornton Wharton; renderings by various hands"
+  ],
+  "anacreon-moore": [
+   38230,
+   "The Odes of Anacreon",
+   "tr. Thomas Moore"
+  ]
+ },
+ "internet_archive": {
+  "bacchylides-poste": [
+   "cu31924026462287",
+   "Bacchylides: A Prose Translation (Macmillan, 1898)",
+   "tr. Edward Poste"
+  ]
+ },
+ "_excluded": {
+  "Paton, The Greek Anthology (Loeb, 1916-18, 5 vols.)": "US PD by date but Greek facing; pending",
+  "Edmonds, Lyra Graeca (Loeb, 1922-27)": "Greek facing; vol. 2 (1931 scan) not yet PD; pending",
+  "Mair, Callimachus/Lycophron/Aratus (Loeb, 1921) and Oppian/Colluthus/Tryphiodorus (Loeb, 1928)": "Greek facing; pending",
+  "Musaeus": "no PD English scan identified yet; pending",
+  "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken"
+ }
+}
