@@ -1576,6 +1576,118 @@ def convert_catena(path, slug):
             "units": units}
 
 
+# Two catenae First1KGreek already divides BY VERSE, each verse div naming
+# its passage as a CTS urn (corresp="...tlg0031.tlg006:7.9-7.12"): nothing
+# to measure, the encoder's reading is read. The Munich-type Romans
+# (Rom 7-16) also divides each verse into its lemma and one div per father
+# (corresp="#Chrysostom"): each comment is its own unit, 7.9-12.c1, with
+# the father named, so a citation of "Chrysostom on Rom 7:9 in the catena"
+# has an address. Jude: one unit per verse div.
+CATENA_VERSES = {
+    # slug: (abbrev, OSIS book)
+    "catena-romans-monacensis-cramer-grc": ("Cat. Rom. Monac.", "Rom"),
+    "catena-jude-cramer-grc": ("Cat. Jud.", "Jude"),
+}
+RE_CTS_PASSAGE = re.compile(r":(\d+)\.(\d+)(?:-(?:(\d+)\.)?(\d+))?$")  # 7.9-7.12, 15.28-29
+
+
+def convert_catena_verses(path, slug):
+    T = TEI_NS
+    abbrev, osis = CATENA_VERSES[slug]
+    root = tei_load(path)
+    title, _a, _t = tei_meta(root)
+    body = root.find(f".//{T}body")
+    units, seen, pending_head = [], {}, []
+    nnotes = nby = 0
+
+    def passage(cr):
+        m = RE_CTS_PASSAGE.search(cr or "")
+        if not m:
+            raise ValueError(f"{slug}: verse div without a passage urn: {cr!r}")
+        c1, v1 = int(m.group(1)), int(m.group(2))
+        c2 = int(m.group(3)) if m.group(3) else c1
+        v2 = int(m.group(4)) if m.group(4) else v1
+        if c2 != c1:
+            raise ValueError(f"{slug}: a passage across chapters: {cr!r}")
+        return c1, v1, v2
+
+    def add(sid, ref, e, links, ms, by=None):
+        nonlocal nnotes
+        text, _stage, notes, _sic = tei_split(e)
+        seen[sid] = seen.get(sid, 0) + 1
+        if seen[sid] > 1:
+            sid = f"{sid}~{seen[sid]}"
+        u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
+             "links": links, "milestones": ms}
+        app = {}
+        if pending_head:
+            app["head"] = list(pending_head); pending_head.clear()
+        if notes:
+            app["notes"] = notes; nnotes += len(notes)
+        lat = sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+        if lat:
+            app["latin_letters"] = lat
+        if by:
+            u["by"] = by
+        if app:
+            u["apparatus"] = app
+        units.append(u)
+
+    for k in body.iter(T + "div"):
+        if k.get("subtype") != "chapter":
+            continue
+        for c in k:
+            if c.tag in (T + "head", T + "p"):
+                # A kephalaion's heading or title paragraph: on the next unit.
+                t = clean("".join(c.itertext()))
+                if t:
+                    pending_head.append(t)
+                continue
+            if not (c.tag == T + "div" and c.get("subtype") == "verse"):
+                continue
+            parts = [x for x in c if x.tag == T + "div"]
+            lemma = [x for x in parts if x.get("n") == "verse"]
+            ch, v1, v2 = passage(c.get("corresp") or (lemma[0].get("corresp") if lemma else ""))
+            base = f"{ch}.{v1}" + (f"-{v2}" if v2 != v1 else "")
+            ref = f"{ch}:{v1}" + (f"-{v2}" if v2 != v1 else "")
+            links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{x}", "match": "encoded"}
+                     for x in range(v1, v2 + 1)]
+            ms = {"kephalaion": k.get("n")}
+            if not parts:
+                add(base, ref, c, links, ms)
+                continue
+            for x in parts:
+                if x.get("n") == "verse":
+                    add(base, ref, x, links, ms)
+                else:
+                    by = (x.get("corresp") or "").lstrip("#") or None
+                    nby += bool(by)
+                    add(f"{base}.c{x.get('n')}", f"{ref}, {by or 'comment ' + x.get('n')}",
+                        x, links, ms, by)
+    if pending_head and units:
+        units[-1].setdefault("apparatus", {}).setdefault("head", []).extend(pending_head)
+    linked = sum(1 for u in units if u["links"])
+    return {"slug": slug, "title": title, "author": "Catena (Cramer)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": "", "sha256": sha256(path),
+                       "edition": tei_edition(root), "language": "grc"},
+            "scheme": {"citation": f"{abbrev} chapter.verse[-verse]" + (".c<comment>" if nby else ""),
+                       "resolution": "verse" + (" (lemma); comment (each father's)" if nby else ""),
+                       "honesty": ("Each unit's verse(s) are the passage the First1KGreek encoder "
+                                   "names on its verse div (a CTS urn), read, not measured, and "
+                                   "not checked here against the Greek NT. "
+                                   + (f"{nby} comment(s) carry the father the file names (by); "
+                                      "the name is the encoder's reading of Cramer's rubric. "
+                                      if nby else "")
+                                   + "The text is unproofread OCR; Latin-letter words are counted "
+                                     "per unit as apparatus.latin_letters."),
+                       "note": f"First1KGreek TEI of Cramer's catena, divided by verse in the "
+                               f"file. {linked} unit(s) link to the KJV verse(s) they comment "
+                               f"on (match: encoded). {nnotes} footnote(s) in apparatus.notes; "
+                               f"kephalaion headings and titles in apparatus.head."},
+            "rights": perseus_rights(root, path),
+            "units": units}
+
 # Perseus LETTERS: Cicero's correspondence in Shuckburgh's translation
 # (1899-1900). Shuckburgh printed the letters in ONE chronological series,
 # numbered I-CMXXXI; Perseus split that series into four files by
@@ -3804,6 +3916,9 @@ def main():
             elif slug in CATENA:
                 jobs.append((slug, lambda p=os.path.join(fdir, fn), s=slug:
                              convert_catena(p, s)))
+            elif slug in CATENA_VERSES:
+                jobs.append((slug, lambda p=os.path.join(fdir, fn), s=slug:
+                             convert_catena_verses(p, s)))
     cdir = os.path.join(CORPUS, "ccel")
     if os.path.isdir(cdir):
         for fn in sorted(os.listdir(cdir)):

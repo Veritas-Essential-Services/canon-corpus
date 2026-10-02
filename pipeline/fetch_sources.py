@@ -227,9 +227,8 @@ FIRST1K = {
     # converter: see CATENA in structure_texts.py. Every book Cramer
     # printed with verse marks. NOT taken: his three "Supplementum et
     # varietas lectionis" (tlg003, 006, 007), which are variant readings by
-    # page and line, not comments; the Munich-type Romans (tlg011) and Jude
-    # (tlg046), which First1KGreek already divides by verse and want the
-    # verse divs read, not measured.
+    # page and line, not comments. The Munich-type Romans (tlg011) and Jude
+    # (tlg046) are divided by verse in the file: CATENA_VERSES reads them.
     "catena-matthew-cramer-grc": ("tlg4102/tlg001/tlg4102.tlg001.1st1K-grc1.xml",
         "Catena on Matthew (Paris. Coislin. 23 etc.) -- Greek, ed. J. A. Cramer, Catenae Graecorum "
         "Patrum in Novum Testamentum I (Oxford, 1840)"),
@@ -305,6 +304,12 @@ FIRST1K = {
     "catena-3john-cramer-grc": ("tlg4102/tlg045/tlg4102.tlg045.1st1K-grc1.xml",
         "Catena on 3 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
         "(Oxford, 1840)"),
+    "catena-romans-monacensis-cramer-grc": ("tlg4102/tlg011/tlg4102.tlg011.1st1K-grc1.xml",
+        "Catena on Romans 7-16 (Munich type, the fathers named) -- Greek, ed. J. A. Cramer, "
+        "Catenae Graecorum Patrum in Novum Testamentum IV (Oxford, 1844)"),
+    "catena-jude-cramer-grc": ("tlg4102/tlg046/tlg4102.tlg046.1st1K-grc1.xml",
+        "Catena on Jude -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum "
+        "Testamentum VIII (Oxford, 1840)"),
 }
 
 

@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 167 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 168 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -222,9 +222,12 @@ The living truth for project state is the Obsidian vault:
   every placed mark names the kephalaion and printed number it expects, so
   a changed source fails loudly. All 25 catenae with verse marks (Matthew to
   3 John, 3,010 units, 2,872 linked to a KJV verse). Not taken: the three
-  variant-reading supplements, the Munich-type Romans and Jude (already
-  verse-divided; they want their divs read). Running commentary (Luke,
-  John) places by printed number with weak lemma evidence; it says so.
+  variant-reading supplements. Running commentary (Luke, John) places by
+  printed number with weak lemma evidence; it says so. The Munich-type
+  Romans (7-16) and Jude are verse-divided in the file, so
+  convert_catena_verses (table CATENA_VERSES) READS the passage urn instead
+  of measuring; Munich Romans names the father of each comment, one unit
+  each (7.9-12.c1, field `by`).
   The LATIN fathers (2026-10-02): 82 CSEL volumes (Vienna, 1867-1922) from
   OpenGreekAndLatin/csel-dev, slug suffix `-lat`, data/corpus/csel/, table
   CSEL in fetch_sources.py, through the same prose converter (OGL in

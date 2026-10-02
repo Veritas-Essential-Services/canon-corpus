@@ -292,7 +292,8 @@ os.unlink(_sp_path)
 check("prose: every prose slug in the fetch manifest has an abbreviation, and back",
       set(st.TEI_PROSE) <= (set(load("fetch_sources").PERSEUS) | set(load("fetch_sources").FIRST1K)
                             | set(load("fetch_sources").CSEL))
-      and set(load("fetch_sources").FIRST1K) <= set(st.TEI_PROSE) | set(st.CATENA)
+      and set(load("fetch_sources").FIRST1K) <= (set(st.TEI_PROSE) | set(st.CATENA)
+                                                   | set(st.CATENA_VERSES))
       and set(load("fetch_sources").CSEL) <= set(st.TEI_PROSE))
 os.unlink(pr_path)
 
@@ -1100,6 +1101,28 @@ check("catena: a misprinted margin is placed by the file, its printed number kep
       and _cu["2.3"]["links"][0]["match"] == "weak")
 check("catena: an unplaced kephalaion is one unlinked unit; a file that no longer fits fails",
       _cu["k3"]["links"] == [] and _cbad)
+# A catena divided by verse in the file: the passage read off the urn
+# (both forms), the lemma and each father's comment their own units.
+_CV = _CT.split("<body>")[0] + ('<body><div type="edition" xml:lang="grc">'
+       '<div type="textpart" subtype="chapter" n="7"><head>ΚΕΦ.</head>'
+       '<div type="textpart" subtype="verse" n="9">'
+       '<div type="textpart" subtype="comment" n="verse" corresp="urn:cts:greekLit:tlg0031.tlg006:7.9-7.10">'
+       '<p>Ἐγὼ δὲ ἔζων.</p></div>'
+       '<div type="textpart" subtype="comment" n="1" corresp="#Chrysostom"><p>Τί ἐστιν.</p></div></div>'
+       '<div type="textpart" subtype="verse" n="28" corresp="urn:cts:greekLit:tlg0031.tlg006:7.28-29">'
+       '<p>Οἴδαμεν.</p></div></div></div></body></text></TEI>')
+_cvp = os.path.join(_gd, "first1k", "cv.xml")
+open(_cvp, "w", encoding="utf-8").write(_CV)
+st.CATENA_VERSES["cv"] = ("Cat. Rom.", "Rom")
+st.CORPUS = _gd
+_cvb = st.convert_catena_verses(_cvp, "cv")
+del st.CATENA_VERSES["cv"]
+st.CORPUS = _saved[0]
+_cvu = {u["id"].split(":")[1]: u for u in _cvb["units"]}
+check("catena by verse: ids from the passage urn (7.9-7.10 and 7.28-29), a comment per father",
+      list(_cvu) == ["7.9-10", "7.9-10.c1", "7.28-29"] and _cvu["7.9-10.c1"]["by"] == "Chrysostom"
+      and [l["target"] for l in _cvu["7.9-10"]["links"]] == ["kjv:Rom.7.9", "kjv:Rom.7.10"]
+      and _cvu["7.9-10"]["apparatus"]["head"] == ["ΚΕΦ."] and _cvu["7.9-10"]["text"] == "Ἐγὼ δὲ ἔζων.")
 _pc = load("place_catena")
 _nt = {1: {1: {"αλφα", "βητα", "γαμμα"}, 5: {"δελτα", "εψιλον", "ζητα"}},
        2: {1: {"ηλιος", "θαλασσα", "ιωτα"}, 2: {"καππα", "λαμβδα", "μυ"}}}

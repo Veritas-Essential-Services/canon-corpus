@@ -11472,5 +11472,45 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "catena-jude-cramer-grc": {
+  "title": "Catena In Epistulam Juda",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "2d45e0cdd647f421dfa3cfd0d40a2e12d274f52f4ead5a60bfe9c8fb21519483",
+  "units": 15,
+  "scheme": {
+   "citation": "Cat. Jud. chapter.verse[-verse]",
+   "resolution": "verse",
+   "honesty": "Each unit's verse(s) are the passage the First1KGreek encoder names on its verse div (a CTS urn), read, not measured, and not checked here against the Greek NT. The text is unproofread OCR; Latin-letter words are counted per unit as apparatus.latin_letters.",
+   "note": "First1KGreek TEI of Cramer's catena, divided by verse in the file. 15 unit(s) link to the KJV verse(s) they comment on (match: encoded). 16 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-romans-monacensis-cramer-grc": {
+  "title": "Catena In Epistulam Ad Romanos (typus Monacensis)",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "c8d6fc72796492e32fc2507d0d8e4196a7a73c382060d80c8679e2bbe704c3b0",
+  "units": 758,
+  "scheme": {
+   "citation": "Cat. Rom. Monac. chapter.verse[-verse].c<comment>",
+   "resolution": "verse (lemma); comment (each father's)",
+   "honesty": "Each unit's verse(s) are the passage the First1KGreek encoder names on its verse div (a CTS urn), read, not measured, and not checked here against the Greek NT. 615 comment(s) carry the father the file names (by); the name is the encoder's reading of Cramer's rubric. The text is unproofread OCR; Latin-letter words are counted per unit as apparatus.latin_letters.",
+   "note": "First1KGreek TEI of Cramer's catena, divided by verse in the file. 758 unit(s) link to the KJV verse(s) they comment on (match: encoded). 50 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxonii, 1844); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
  }
 }
