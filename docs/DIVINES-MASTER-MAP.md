@@ -1066,6 +1066,9 @@ Shelf: `pipeline/thucydides_shelf.json`. Jowett's own Thucydides (1881) and Hobb
 | Thucydides, tr. by W. Smith, vol. 1 (1831) | William Smith | `thucydides-smith-v1` | have-raw (IA `thucydidestrbyw01thucgoog`) |
 | Thucydides, tr. by W. Smith, vol. 2 (1831) | William Smith | `thucydides-smith-v2` | have-raw (IA `thucydides01smitgoog`) |
 | Thucydides, tr. by W. Smith, vol. 3 (1831) | William Smith | `thucydides-smith-v3` | have-raw (IA `thucydidestrbyw02thucgoog`) |
+| History of the Peloponnesian War | Charles Foster Smith | `thucydides-perseus-smith-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng1`; markup CC BY-SA 4.0) |
+| History of the Peloponnesian War | Henry Dale | `thucydides-perseus-dale-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng2`; markup CC BY-SA 4.0) |
+| The History of the Grecian War | Thomas Hobbes | `thucydides-perseus-hobbes-the-history-of-the-grecian-war` | have (Perseus TEI `tlg0003.tlg001.perseus-eng4`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): C. F. Smith's Loeb (1919-23), on Perseus; 
 
