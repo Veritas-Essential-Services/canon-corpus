@@ -1,5 +1,5 @@
 {
- "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue.",
+ "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "cicero",
   "tullius",
@@ -56,6 +56,21 @@
    47001,
    "De Officiis",
    "tr. Walter Miller (Loeb; Latin facing)"
+  ],
+  "cicero-winstedt-atticus-v1": [
+   58418,
+   "Cicero: Letters to Atticus, vol. 1 of 3 (Loeb)",
+   "tr. E. O. Winstedt (Latin facing kept)"
+  ],
+  "cicero-winstedt-atticus-v2": [
+   50692,
+   "Cicero: Letters to Atticus, vol. 2 of 3 (Loeb)",
+   "tr. E. O. Winstedt (Latin facing kept)"
+  ],
+  "cicero-winstedt-atticus-v3": [
+   51403,
+   "Cicero: Letters to Atticus, vol. 3 of 3 (Loeb)",
+   "tr. E. O. Winstedt (Latin facing kept)"
   ]
  },
  "internet_archive": {
@@ -88,10 +103,44 @@
    "lettersofcicerow04ciceuoft",
    "The Letters of Cicero: the whole extant correspondence, vol. 4 (1899)",
    "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-williams-friends-v1": [
+   "letterstohisfrie01ciceuoft",
+   "The Letters to his Friends, vol. 1 (Loeb, 1927)",
+   "tr. W. Glynn Williams"
+  ],
+  "cicero-williams-friends-v2": [
+   "letterstohisfrie02ciceuoft",
+   "The Letters to his Friends, vol. 2 (Loeb, 1928)",
+   "tr. W. Glynn Williams"
+  ],
+  "cicero-williams-friends-v3": [
+   "letterstohisfrie03ciceuoft",
+   "The Letters to his Friends, vol. 3 (Loeb, 1929)",
+   "tr. W. Glynn Williams"
+  ],
+  "cicero-rackham-de-finibus": [
+   "definibusbonoru02cicegoog",
+   "De Finibus Bonorum et Malorum (Loeb, 1914)",
+   "tr. H. Rackham"
+  ],
+  "cicero-falconer-senectute-amicitia-divinatione": [
+   "cicerodesenectut0000will_n8p4",
+   "De Senectute, De Amicitia, De Divinatione (Loeb, 1923)",
+   "tr. W. A. Falconer"
+  ],
+  "cicero-ker-philippics": [
+   "philippics00ciceuoft",
+   "Philippics (Loeb, 1926)",
+   "tr. Walter C. A. Ker"
+  ],
+  "cicero-greenwood-verrines-v1": [
+   "ciceroverrineora0001unse",
+   "The Verrine Orations, vol. 1 (Loeb, 1928)",
+   "tr. L. H. G. Greenwood"
   ]
  },
  "_excluded": {
-  "pg58418, pg50692, pg51403": "Letters to Atticus (Winstedt, Loeb): PD in US by date but printed with the Latin facing (measured: hundreds of Latin function words); pending as a Latin-English witness",
-  "De Officiis (Cockman 1699; Edmonds, Bohn; Walter Miller, Loeb 1913)": "PD; pending (IA)"
+  "De Officiis (Cockman 1699; Edmonds, Bohn; Walter Miller, Loeb 1913)": "Miller now held (PG 47001); Cockman and Edmonds pending (IA)"
  }
 }
