@@ -125,18 +125,25 @@ def convert_tei_drama(path, slug, abbrev):
     root = ET.parse(path).getroot()
     title, author, transl = tei_meta(root)
     body = root.find(f".//{T}body")
-    units, pending_stage, fixes, gaps = [], [], 0, 0
-    section, speaker = "", ""
+    units, pending_stage, pending_notes, fixes, gaps = [], [], [], 0, 0
+    section, speaker, personae = "", "", []
+
+    def note_of(e):
+        return {k: v for k, v in (("by", e.get("resp") or ""), ("n", e.get("n") or ""),
+                                  ("text", clean(" ".join(e.itertext())))) if v}
 
     def seg_text(el):
-        # A stage direction inside a segment is not spoken text: lift it out
-        # (kept under drama.stage), keep everything else including <del>,
-        # which is the translation's own bracketed text.
-        parts, stage = [], []
+        # Stage directions and footnotes inside a segment are not spoken
+        # text: lift them out (kept under drama.stage / drama.notes), keep
+        # everything else including <del>, the translation's own brackets.
+        parts, stage, notes = [], [], []
 
         def walk(e):
-            if e.tag == T + "stage":
-                stage.append(clean("".join(e.itertext())))
+            if e.tag in (T + "stage", T + "note"):
+                if e.tag == T + "stage":
+                    stage.append(clean("".join(e.itertext())))
+                else:
+                    notes.append(note_of(e))
                 if e.tail: parts.append(e.tail)
                 return
             if e.text: parts.append(e.text)
@@ -144,7 +151,7 @@ def convert_tei_drama(path, slug, abbrev):
                 walk(c)
             if e is not el and e.tail: parts.append(e.tail)
         walk(el)
-        return clean("".join(parts)), [s for s in stage if s]
+        return clean("".join(parts)), [s for s in stage if s], [n for n in notes if n.get("text")]
 
     def visit(e):
         nonlocal section, speaker, fixes, gaps
@@ -159,25 +166,42 @@ def convert_tei_drama(path, slug, abbrev):
             if s:
                 pending_stage.append(s)
             return
+        elif tag == T + "note":
+            ps = [clean(" ".join(p.itertext())) for p in e.iter(T + "p")]
+            if ps and ps[0].lower() == "dramatis personae":
+                personae.extend(x for x in ps[1:] if x)     # the cast list, kept whole
+            else:
+                n = note_of(e)
+                if n.get("text"):
+                    pending_notes.append(n)
+            return
         elif tag == T + "l":
             n = e.get("n") or ""
             if (slug, n) in TEI_DRAMA_N_FIX:
                 n = TEI_DRAMA_N_FIX[(slug, n)]
                 fixes += 1
-            text, inner = seg_text(e)
+            text, inner, inotes = seg_text(e)
             gap = e.find(f".//{T}gap") is not None
             gaps += gap
             drama = {"speaker": speaker, "section": section}
             if pending_stage or inner:
                 drama["stage"] = pending_stage + inner
+            if pending_notes or inotes:
+                drama["notes"] = pending_notes + inotes
             if gap:
                 drama["gap"] = True
             pending_stage.clear()
+            pending_notes.clear()
             if text:
                 units.append({"id": f"{slug}:{n}", "ref": f"{abbrev} {n}",
                               "text": text, "links": [], "drama": drama})
-            elif drama.get("stage") and units:
-                units[-1]["drama"].setdefault("stage", []).extend(drama["stage"])
+            elif units:
+                for k in ("stage", "notes"):
+                    if drama.get(k):
+                        units[-1]["drama"].setdefault(k, []).extend(drama[k])
+            else:
+                pending_stage.extend(drama.get("stage", []))
+                pending_notes.extend(drama.get("notes", []))
             return
         elif tag == T + "sp":
             speaker = ""
@@ -185,9 +209,13 @@ def convert_tei_drama(path, slug, abbrev):
             visit(c)
 
     visit(body)
-    if pending_stage and units:                 # the closing exit
-        units[-1]["drama"].setdefault("stage", []).extend(pending_stage)
-    return {"slug": slug, "title": title, "author": author,
+    if units:                                   # the closing exit, a last note
+        for k, v in (("stage", pending_stage), ("notes", pending_notes)):
+            if v:
+                units[-1]["drama"].setdefault(k, []).extend(v)
+    lic = root.find(f".//{T}publicationStmt//{T}licence")
+    nnotes = sum(len(u["drama"].get("notes", [])) for u in units)
+    book = {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
                        "translator": transl, "sha256": sha256(path)},
             "scheme": {"citation": f"{abbrev} line (Greek lineation)",
@@ -200,9 +228,29 @@ def convert_tei_drama(path, slug, abbrev):
                                f"(stage directions are kept out of the spoken text, never "
                                f"dropped). {fixes} line number(s) corrected by "
                                f"TEI_DRAMA_N_FIX; {gaps} segment(s) contain a lacuna the "
-                               f"translator marks as lost (drama.gap). Perseus markup is "
-                               f"CC BY-SA; the translation is PD."},
+                               f"translator marks as lost (drama.gap). {nnotes} footnote(s) "
+                               f"lifted out of the spoken text into drama.notes"
+                               + (f"; the cast list is under dramatis_personae ({len(personae)})"
+                                  if personae else "") + "."},
+            # The translation is PD; Perseus's TEI, and its modernizing of the
+            # wording ("Modernized by Perseus"), are CC BY-SA. The licence is
+            # read from the file where the file states one.
+            "rights": {"license": "CC BY-SA 4.0",
+                       "attribution": "Perseus Digital Library, Tufts University "
+                                      "(PerseusDL/canonical-greekLit)",
+                       "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+                       "redistribute_whole": True,
+                       "note": ("licence line read from this file: "
+                                + clean("".join(lic.itertext())) if lic is not None else
+                                "this file states no licence; the repository's licence is "
+                                "CC BY-SA 4.0")
+                               + ". The translation itself is public domain; the TEI and "
+                                 "Perseus's modernized wording are share-alike: a "
+                                 "derivative must credit Perseus and carry the same licence."},
             "units": units}
+    if personae:
+        book["dramatis_personae"] = personae
+    return book
 
 # ---------------------------------------------------------------- ThML (CCEL)
 

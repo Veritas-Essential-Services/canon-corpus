@@ -269,8 +269,35 @@ check("drama: a lacuna is flagged, not invented",
       du[3]["drama"].get("gap") is True and du[3]["text"] == "after a gap.")
 check("drama: honesty says segment, not exact line; translator from TEI",
       dr["scheme"]["resolution"] == "segment" and dr["source"]["translator"] == "Richard Jebb")
-check("drama: every Sophocles slug in the fetch manifest has a converter abbreviation",
-      {k for k in load("fetch_sources").PERSEUS if k.startswith("sophocles-")}
+check("drama: rights block present, licence says share-alike, file without a licence line says so",
+      dr["rights"]["license"] == "CC BY-SA 4.0" and "states no licence" in dr["rights"]["note"])
+DRAMA_FIX2 = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>
+<title>Fixture Two</title><author>Euripides</author><editor role="translator">E. P. Coleridge</editor>
+</titleStmt><publicationStmt><availability><licence target="x">CC BY-SA licence line</licence>
+</availability></publicationStmt></fileDesc></teiHeader><text><body><div type="translation">
+<l n="0" style="hidden"/>
+<note resp="Coleridge" place="inline"><p>Dramatis Personae</p><p>Medea</p><p>Nurse</p></note>
+<note resp="perseus" place="inline">Adapted and modernized.</note>
+<div type="textpart" subtype="episode"><sp><speaker>Nurse</speaker>
+<l n="1">Would that the Argo<note resp="Coleridge" n="1">The ship of Jason.</note> had never sped.</l>
+</sp></div></div></body></text></TEI>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(DRAMA_FIX2); dr2_path = f.name
+dr2 = st.convert_tei_drama(dr2_path, "fixture-two", "Fix2")
+d2 = dr2["units"][0]["drama"]
+check("drama: a footnote inside a line is lifted out of the spoken text, kept with its author",
+      dr2["units"][0]["text"] == "Would that the Argo had never sped."
+      and {"by": "Coleridge", "n": "1", "text": "The ship of Jason."} in d2["notes"])
+check("drama: the cast list is kept whole at book level; an editor's front note rides on line 1",
+      dr2["dramatis_personae"] == ["Medea", "Nurse"]
+      and {"by": "perseus", "text": "Adapted and modernized."} in d2["notes"]
+      and len(dr2["units"]) == 1)
+check("drama: a licence line in the file is the one recorded",
+      "CC BY-SA licence line" in dr2["rights"]["note"])
+os.unlink(dr2_path)
+_dramatists = ("sophocles-", "aeschylus-", "euripides-", "aristophanes-")
+check("drama: every play in the fetch manifest has a converter abbreviation, and back",
+      {k for k in load("fetch_sources").PERSEUS if k.startswith(_dramatists)}
       == set(st.TEI_DRAMA))
 os.unlink(dr_path)
 

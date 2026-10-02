@@ -1661,7 +1661,14 @@
    "citation": "Soph. Aj. line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "sophocles-antigone-jebb": {
@@ -1674,7 +1681,14 @@
    "citation": "Soph. Ant. line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "sophocles-electra-jebb": {
@@ -1687,7 +1701,14 @@
    "citation": "Soph. El. line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "sophocles-oedipus-colonus-jebb": {
@@ -1700,7 +1721,14 @@
    "citation": "Soph. OC line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "sophocles-oedipus-tyrannus-jebb": {
@@ -1713,7 +1741,14 @@
    "citation": "Soph. OT line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "sophocles-philoctetes-jebb": {
@@ -1726,7 +1761,14 @@
    "citation": "Soph. Phil. line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "sophocles-trachiniae-jebb": {
@@ -1739,7 +1781,14 @@
    "citation": "Soph. Trach. line (Greek lineation)",
    "resolution": "segment",
    "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
-   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  }
 }
