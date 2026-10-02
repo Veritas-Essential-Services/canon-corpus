@@ -2529,6 +2529,16 @@ Shelf: `pipeline/baum_shelf.json` (2026-10-02; added at the coordinator's relay 
 | baum-not-his | excluded | the Oz books by Ruth Plumly Thompson and Jack Snow (PG 30537, 53765, 55806, 55851, 56073, 56079, 56085, 56555, 56683, 58765, 61681, 65849, 70152, 71273, 73170, 75720, 78637). The Royal Book of Oz (1921, PG 30537) was published under Baum's name but written by Thompson; listed here, not held |
 | baum-translations | excluded | non-English editions: this shelf is Baum's English |
 
+## John Ruskin (The King of the Golden River)
+
+Shelf: `pipeline/ruskin-golden-river_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ruskin's one fairy tale, from Ginn's 1885 Boston edition with Richard Doyle's pictures, cited by chapter. The Contents and the list of illustrations are kept as their own sections so the tale's chapter ids are unique. Ginn's publisher advertisements at the end come through as units. Only this book, as the relay asked. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The King of the Golden River; or, The Black Brothers: A Legend of Stiria (1851); Boston: Ginn, 1885, with Richard Doyle's pictures | have | PG 33673, `ruskin-king-of-the-golden-river` (248 units) |
+| ruskin-duplicates | excluded | The King of the Golden River (PG 701), another transcription of the same text |
+| ruskin-not-this-shelf | excluded | his other works (Modern Painters, The Stones of Venice, Sesame and Lilies and the rest): outside the storytellers shelf |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

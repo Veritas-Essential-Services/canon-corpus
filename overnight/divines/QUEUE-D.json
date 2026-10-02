@@ -187,8 +187,11 @@
     },
     {
       "id": "ruskin-golden-river",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — John Ruskin: The King of the Golden River (1851) only; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — John Ruskin: The King of the Golden River (1851) only; no minting",
+      "started": "2026-10-02T16:30:58-05:00",
+      "finished": "2026-10-02T16:31:54-05:00",
+      "notes": "1/1 fetched (Gutenberg 33673, Ginn 1885 with Doyle's pictures), 0 copyright markers; 248 units by chapter, 0 duplicate ids. No uids minted; not in manifest."
     },
     {
       "id": "wilde-fairy-tales",

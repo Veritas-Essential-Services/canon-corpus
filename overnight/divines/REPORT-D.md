@@ -116,3 +116,6 @@
 
 ## 2026-10-02 16:30 CDT — baum: done
 - 15/15 fetched (Gutenberg; Little Wizard Stories from 25519 because 19467 has no text file), 0 copyright markers; 18,663 units, 0 duplicate ids. The 14 Oz novels by chapter (Land of Oz: 21 of 24 chapter titles found) + Little Wizard Stories. Other Baum books pending. No uids minted; not in manifest.
+
+## 2026-10-02 16:31 CDT — ruskin-golden-river: done
+- 1/1 fetched (Gutenberg 33673, Ginn 1885 with Doyle's pictures), 0 copyright markers; 248 units by chapter, 0 duplicate ids. No uids minted; not in manifest.

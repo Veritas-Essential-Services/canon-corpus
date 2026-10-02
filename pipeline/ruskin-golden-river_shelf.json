@@ -1,0 +1,30 @@
+{
+ "_about": "John Ruskin's (1819-1900) one fairy tale, The King of the Golden River; or, The Black Brothers (written 1841, published 1851 with Richard Doyle's pictures). Only this book, as the relay asked; his other works are outside the storytellers shelf. Clean Gutenberg text; public domain.",
+ "_author": "John Ruskin",
+ "_name_words": [
+  "ruskin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ruskin-king-of-the-golden-river": [
+   33673,
+   "The King of the Golden River; or, The Black Brothers: A Legend of Stiria (1851); Boston: Ginn, 1885, with Richard Doyle's pictures",
+   {
+    "levels": [
+     {
+      "re": "(?:ADVERTISEMENT|CONTENTS|SUBJECTS.*|THE KING OF THE GOLDEN RIVER)[.;]?$"
+     },
+     {
+      "re": "CHAPTER [IVX]+\\.?$",
+      "title_next": true
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ruskin-duplicates": "The King of the Golden River (PG 701), another transcription of the same text",
+  "ruskin-not-this-shelf": "his other works (Modern Painters, The Stones of Venice, Sesame and Lilies and the rest): outside the storytellers shelf"
+ }
+}
