@@ -223,6 +223,11 @@ FIRST1K = {
     "enoch-swete-grc": ("tlg1463/tlg001/tlg1463.tlg001.1st1K-grc1.xml",
         "1 Enoch, the Greek fragments (1-32, 89) -- ed. H. B. Swete, The Old Testament in Greek "
         "III (Cambridge UP, 1905)"),
+    # Cramer's catenae (2026-10-02), through convert_catena, not the prose
+    # converter: see CATENA in structure_texts.py. Pilot: Matthew.
+    "catena-matthew-cramer-grc": ("tlg4102/tlg001/tlg4102.tlg001.1st1K-grc1.xml",
+        "Catena on Matthew (Paris. Coislin. 23 etc.) -- Greek, ed. J. A. Cramer, Catenae Graecorum "
+        "Patrum in Novum Testamentum I (Oxford, 1840)"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes

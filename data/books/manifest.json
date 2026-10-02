@@ -9052,5 +9052,25 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Montague Rhodes James, The Testament of Abraham, Cambridge, 1892); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
+ },
+ "catena-matthew-cramer-grc": {
+  "title": "Catena In Matthaeum",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "dd297ff8fd5415c691917a90aed0111edb4e0923cd1ea27dd696c9bd805b3767",
+  "units": 196,
+  "scheme": {
+   "citation": "Cat. Matt. chapter.verse (marked sections); k<kephalaion> (unmarked)",
+   "resolution": "verse (marked sections); kephalaion (unmarked)",
+   "honesty": "Matthew 1-19 is marked verse by verse; kephalaia 41-68 (chapters 19-28) carry no margin numbers and are one unit each, unlinked. Of the 163 marked sections, 157 have a lemma sharing at least half its words with the Robinson-Pierpont verse it is placed at and 162 at least 30%; the one weaker placement is linked as weak. The chapter is not in the source -- it is this table's, measured, not printed.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per section Cramer marked with a verse number in the margin (lemma and the comments after it); 163 unit(s) link to the KJV verse(s) they comment on (1 weak). 99 footnote(s) in apparatus.notes; the kephalaion headings in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
  }
 }
