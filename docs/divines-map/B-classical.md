@@ -1312,6 +1312,10 @@ Shelf: `pipeline/aretaeus_shelf.json`. Adams 1856, Greek and English (IA, 0.83).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Extant Works of Aretaeus, the Cappadocian (1856) | ed. and Francis Adams | `aretaeus-adams` | have-raw (IA `extantworksaret00adamgoog`) |
+| On the Causes and Symptoms of Acute Diseases | Francis Adams | `aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise` | have (Perseus TEI `tlg0719.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Causes and Symptoms of Chronic Diseases | Francis Adams | `aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di` | have (Perseus TEI `tlg0719.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Therapeutics of Acute Diseases | Francis Adams | `aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases` | have (Perseus TEI `tlg0719.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Cure of Chronic Diseases | Francis Adams | `aretaeus-perseus-adams-on-the-cure-of-chronic-diseases` | have (Perseus TEI `tlg0719.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
 
 ## Theophrastus
 
