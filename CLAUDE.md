@@ -350,6 +350,21 @@ dropped: STEPBible headwords as extra evidence (+45 entries, not worth a
 CC BY dependency in a PD build). ~13 entries the old cut had now fall off the
 chain (e.g. ἄρνας, σιτίον); their text sits in the entry before, as always.
 
+**Second OCR (2026-10-02 night): 5,333 → 5,486 entries, 5,092 linked to
+Strong's.** `pipeline/ocr_thayer2.py` re-reads the 699 lexicon pages from
+archive.org's ORIGINAL JP2 scans (`greekenglishlexi00grimuoft_jp2.zip`, 552 MB;
+leaf N = page key N) with tessdata_best grc+eng, one tesseract per page,
+`OMP_THREAD_LIMIT=1`, 18 in parallel: ~35 min on Adam's 20-core PC. Output
+`data/corpus/lexicons/thayer-pages-2.json` (gitignored); `thayer-pages.json`
+is untouched and stays the text of record. `convert_thayer_entries(second_path=)`
+uses it for boundaries only: a paragraph-initial Strong's headword in the
+second reading, aligned to the first reading's line by the text after the
+headword (ratio ≥ 0.6, runner-up ≥ 0.1 behind), opens an entry where the
+first found no Strong's headword (157 entries, evidence `second-ocr`).
+Known residue: the first OCR sometimes reads part of a right-hand column
+before the end of the left (p. 580), and the alphabetical chain then has to
+drop one run or the other (πτέρυξ…πτόησις, 6 entries lost vs 153 gained).
+
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 
 `tbesg-greek` (Abbott-Smith-based brief lexicon, 9,550 entries) and `lsj-greek`
