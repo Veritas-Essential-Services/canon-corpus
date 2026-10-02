@@ -1,0 +1,24 @@
+{
+ "_about": "The Emperor Julian in Wilmer Cave Wright's Loeb translation (1913), vols. 1-2, clean Gutenberg; the Gutenberg text keeps the facing Greek. Lardner's extracts of Julian against the Christians are on the porphyry shelf.",
+ "_name_words": [
+  "julian",
+  "emperor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "julian-wright-v1": [
+   48664,
+   "The Works of the Emperor Julian, vol. 1",
+   "tr. Wilmer Cave Wright"
+  ],
+  "julian-wright-v2": [
+   48768,
+   "The Works of the Emperor Julian, vol. 2",
+   "tr. Wilmer Cave Wright"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Wright vol. 3 (Loeb, 1923)": "not on Gutenberg; pending"
+ }
+}
