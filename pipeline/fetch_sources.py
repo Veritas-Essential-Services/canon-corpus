@@ -117,6 +117,45 @@ def fetch_vulgate():
         raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}")
     return f"{len(VULGATE['books'])} books, digest pinned"
 
+
+# DOUAY -- the Douay-Rheims, Challoner revision (1749-52), the Vulgate's
+# English companion. Public domain (Challoner died 1781); the mirror's own
+# README for this file: "DRC: Douay-Rheims Bible, Challoner Revision.
+# License: Public Domain" (scrollmapper/bible_databases, MIT code over PD
+# texts). One JSON file of books -> chapters -> verses, numbered as the
+# Vulgate numbers them. Its 73 books run in the Clementine's order; the
+# five after them (3-4 Esdras as "I/II Esdras", the Prayer of Manasses, an
+# "Additional Psalm", Laodiceans) have no Clementine text and are not read.
+DOUAY = {
+    "repo": "scrollmapper/bible_databases",
+    "commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c",
+    "path": "sources/en/DRC/DRC.json",
+    "sha256": "2c9b2ab58363bcddccdcaaf9e9a75924bbbc636d918e798d9ab517de07767b4f",
+    "note": "Douay-Rheims, Challoner revision (1749-52), 73 books; PD",
+}
+
+
+def fetch_douay():
+    """data/corpus/douay/DRC.json (skips a present file); hard stop on a sha256
+    other than the pin."""
+    import hashlib
+    p = os.path.join(CORPUS, "douay", "DRC.json")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        url = (f"https://raw.githubusercontent.com/{DOUAY['repo']}/"
+               f"{DOUAY['commit']}/{DOUAY['path']}")
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != DOUAY["sha256"]:
+        raise RuntimeError(f"Douay-Rheims sha256 {got} != pinned {DOUAY['sha256']}")
+    return "1 file, sha256 pinned"
+
 # ---------------------------------------------------------------- Lexicons
 #
 # Reference works keyed by lemma rather than linear texts (structured by
@@ -425,6 +464,7 @@ def main():
         for slug, gid in GUTENBERG_EXTRA.items():
             print(f"gutenberg/{slug}: pg{gid}")
         print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
+        print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -460,6 +500,10 @@ def main():
         print(f"github/vulgate: {fetch_vulgate()}")
     except Exception as e:
         failures.append("vulgate"); print(f"github/vulgate: FAIL {e}")
+    try:
+        print(f"github/douay: {fetch_douay()}")
+    except Exception as e:
+        failures.append("douay"); print(f"github/douay: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":

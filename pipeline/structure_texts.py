@@ -438,6 +438,150 @@ def convert_vulgate(vdir, books, digest, slug="vulgate"):
                                    "project; make modifications clear (requests, not a licence)"},
             "units": units}
 
+# ---------------------------------------------------------------- Douay-Rheims
+#
+# The Douay-Rheims, Challoner revision (fetch_sources.DOUAY, pinned): the
+# Vulgate's English companion. One JSON file, books -> chapters -> verses, its
+# first 73 books in the Clementine's order and, nearly everywhere, the
+# Clementine's numbering. So a unit's id is in that numbering (douay:Ps.50.3)
+# and `vulgate` names the Clementine verse(s) holding the same text: the same
+# number, except at DOUAY_ROWS, where this edition breaks verses elsewhere.
+# `kjv` follows through the Vulgate map (data/versification/vulgate-kjv.json).
+#
+# WHAT IS NOT CLAIMED (rule 4): the file pads its versification with EMPTY
+# verses where the KJV numbers a verse it has not got (John 11:57, 2 Cor
+# 1:24, 1 Thess 4:18 ...). An empty verse is no verse of the Douay: it is
+# dropped, and counted in the scheme, never given an id. DOUAY_ROWS was found
+# by aligning this English against the KJV's (build_vulgate_versification.py
+# --audit-douay) and read verse by verse against the Latin.
+
+DOUAY_NAMES = [   # the file's own book names, in order: a reordered file fails loudly
+    "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges",
+    "Ruth", "I Samuel", "II Samuel", "I Kings", "II Kings", "I Chronicles",
+    "II Chronicles", "Ezra", "Nehemiah", "Tobit", "Judith", "Esther", "Job", "Psalms",
+    "Proverbs", "Ecclesiastes", "Song of Solomon", "Wisdom", "Sirach", "Isaiah",
+    "Jeremiah", "Lamentations", "Baruch", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos",
+    "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah",
+    "Malachi", "I Maccabees", "II Maccabees", "Matthew", "Mark", "Luke", "John", "Acts",
+    "Romans", "I Corinthians", "II Corinthians", "Galatians", "Ephesians", "Philippians",
+    "Colossians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy",
+    "Titus", "Philemon", "Hebrews", "James", "I Peter", "II Peter", "I John", "II John",
+    "III John", "Jude", "Revelation of John"]
+
+# Douay verse -> (the Clementine verse(s) holding its text, words that stand in
+# the Douay verse), where that is not the verse of the same number. Each was
+# read against the Latin; the words are checked, so a changed file fails loudly.
+DOUAY_ROWS = {
+    "Ps.15.11": (["Ps.15.10"], "made known to me the ways of life"),
+    "Ps.42.5": (["Ps.42.4", "Ps.42.5"], "give praise upon the harp"),
+    "Ps.42.6": (["Ps.42.5"], "Hope in God"),
+    "Ps.125.7": (["Ps.125.6"], "carrying their sheaves"),
+    "Ps.135.27": (["Ps.135.26"], "Lord of lords"),
+    "Isa.45.24": (["Isa.45.23"], "every knee shall be bowed"),
+    "Isa.45.25": (["Isa.45.24"], "In the Lord are my justices"),
+    "Isa.45.26": (["Isa.45.25"], "seed of Israel be justified"),
+    "Acts.8.8": (["Acts.8.7"], "taken with the palsy"),
+    "Acts.8.9": (["Acts.8.8", "Acts.8.9"], "great joy in that city"),
+    "1Thess.4.11": (["1Thess.4.11", "1Thess.4.12"], "walk honestly"),
+    "1Thess.4.12": (["1Thess.4.13"], "concerning them that are asleep"),
+    "1Thess.4.13": (["1Thess.4.14"], "Jesus died and rose again"),
+    "1Thess.4.14": (["1Thess.4.15"], "in the word of the Lord"),
+    "1Thess.4.15": (["1Thess.4.16"], "voice of an archangel"),
+    "1Thess.4.16": (["1Thess.4.17"], "taken up together with them"),
+    "1Thess.4.17": (["1Thess.4.18"], "comfort ye one another"),
+    "2Thess.2.10": (["2Thess.2.10", "2Thess.2.11"], "operation of error"),
+    "2Thess.2.11": (["2Thess.2.12"], "That all may be judged"),
+    "2Thess.2.12": (["2Thess.2.13"], "give thanks to God always"),
+    "2Thess.2.13": (["2Thess.2.14"], "called you by our gospel"),
+    "2Thess.2.14": (["2Thess.2.15"], "hold the traditions"),
+    "2Thess.2.15": (["2Thess.2.16"], "who hath loved us"),
+    "2Thess.2.16": (["2Thess.2.17"], "Exhort your hearts"),
+}
+
+
+def douay_vulgate(ref, vchapters):
+    """The Clementine verse(s) Douay verse `ref` ('Ps.42.6') reads."""
+    if ref in DOUAY_ROWS:
+        return list(DOUAY_ROWS[ref][0])
+    b, c, v = ref.split(".")
+    return [ref] if int(v) <= vchapters.get(f"{b}.{c}", 0) else []
+
+
+def convert_douay(path, books, sha, slug="douay"):
+    """`books`: the Clementine's file names in canonical order (for the OSIS
+    ids); `sha`: the pinned sha256."""
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    names = [b["name"] for b in data["books"][:len(DOUAY_NAMES)]]
+    if names != DOUAY_NAMES:
+        raise ValueError(f"Douay book order differs from the pinned file's: {names[:5]}...")
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    vch = vmap["vulgate_chapters"] if vmap else {}
+    units, empty = [], 0
+    resolved = {True: 0, False: 0}
+    for b, book in zip(books, data["books"]):
+        osis = VULGATE_BOOKS[b][0]
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                if ref in DOUAY_ROWS and DOUAY_ROWS[ref][1] not in text:
+                    raise ValueError(f"DOUAY_ROWS {ref}: {DOUAY_ROWS[ref][1]!r} is not in the verse")
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if vmap:
+                    vl = douay_vulgate(ref, vch)
+                    u["vulgate"] = [f"vulgate:{x}" for x in vl]
+                    rs = [_V.resolve_vulgate(x, vmap, kjv_ids) for x in vl]
+                    if rs and all(r["resolved"] for r in rs):
+                        ts = []
+                        for r in rs:
+                            for t in r.get("spans", [r["target"]]):
+                                if t not in ts:
+                                    ts.append(t)
+                        u["kjv"] = {"resolved": True, "target": next(t for t in ts if t.startswith("kjv:"))}
+                        if len(ts) > 1:
+                            u["kjv"]["spans"] = ts
+                    else:
+                        why = next((r for r in rs if not r["resolved"]), None)
+                        u["kjv"] = dict(why) if why else {"resolved": False,
+                                                          "why": "no Clementine verse holds this text"}
+                    resolved[u["kjv"]["resolved"]] += 1
+                units.append(u)
+    return {"slug": slug, "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+            "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "empty_verses_dropped": empty,
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "note": "The Clementine Vulgate's English companion, numbered as the "
+                               "Vulgate is. `vulgate` names the Clementine verse(s) holding the "
+                               "same text (the same number except at structure_texts.DOUAY_ROWS); "
+                               "`kjv` follows through data/versification/vulgate-kjv.json. "
+                               "Empty verses in the file (versification padding) are dropped, "
+                               "never given ids. The file's five appendix books (3-4 Esdras, "
+                               "Prayer of Manasses, an additional psalm, Laodiceans) are not "
+                               "read: the Clementine source has no text for them."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Douay-Rheims Bible, Challoner revision, via "
+                                      "scrollmapper/bible_databases",
+                       "source_url": "https://github.com/scrollmapper/bible_databases"},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -1693,6 +1837,9 @@ def main():
                                    for b in _fs.VULGATE["books"]):
         jobs.append(("vulgate", lambda: convert_vulgate(vdir, _fs.VULGATE["books"],
                                                          _fs.vulgate_digest(vdir))))
+    drc = os.path.join(CORPUS, "douay", "DRC.json")
+    if os.path.exists(drc):
+        jobs.append(("douay", lambda: convert_douay(drc, _fs.VULGATE["books"], sha256(drc))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))

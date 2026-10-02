@@ -10,6 +10,7 @@ kjv: unit that holds the same text (kjv:Ps.51.1).
     python3 pipeline/build_vulgate_versification.py            # build data/versification/vulgate-kjv.json
     python3 pipeline/build_vulgate_versification.py --check    # rebuild: byte-identical, every invariant holds
     python3 pipeline/build_vulgate_versification.py --measure  # do the mapped verses name the same people?
+    python3 pipeline/build_vulgate_versification.py --audit-douay  # the Douay's English against the KJV's
 
 WHY THIS EXISTS
     convert_vulgate gives every verse an id in the Vulgate's OWN numbering and
@@ -141,6 +142,9 @@ _NEH7 = ("Neh 7:42-48: the Clementine breaks this list of returning families "
          "mid-entry, so its verses straddle the KJV's; the chapter keeps 73 verses")
 _1CHR11 = ("1 Chr 11:32-35: the Clementine's breaks in the list of David's mighty men "
            "fall elsewhere (its 32 holds KJV 32-33); the chapter count is unchanged")
+_DOUAY_AUDIT = ("found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's "
+                "verse breaks, aligned against the KJV's) and read in the Latin: Jerome "
+                "re-divides the passage, so the KJV verse of the TVTMS number holds none of it")
 HOUSE_ROWS = {
     "Neh.7.42": (["Neh.7.42", "Neh.7.43"], "Levit", _NEH7),
     "Neh.7.43": (["Neh.7.43"], "Cedmihel", _NEH7),
@@ -153,6 +157,48 @@ HOUSE_ROWS = {
     "1Chr.11.33": (["1Chr.11.34"], "Filii Assem", _1CHR11),
     "1Chr.11.34": (["1Chr.11.35"], "Ahiam", _1CHR11),
     "1Chr.11.35": (["1Chr.11.35"], "Eliphal", _1CHR11),
+    **{v: (es, w, _DOUAY_AUDIT) for v, (es, w) in {
+        # Jerome's Latin re-divides these passages (often abridging): the verse
+        # TVTMS's number points to holds none of the Clementine verse's text.
+        "Exod.38.25": (["Exod.38.25", "Exod.38.26"], "sexcentis tribus millibus"),
+        "Exod.38.26": (["Exod.38.27"], "centum talenta argenti"),
+        "Exod.38.27": (["Exod.38.27"], "Centum bases"),
+        "Lev.15.20": (["Lev.15.19"], "Omnis qui tetigerit eam"),
+        "Lev.15.21": (["Lev.15.20"], "in quo dormierit vel sederit"),
+        "Lev.15.22": (["Lev.15.21"], "Qui tetigerit lectum ejus"),
+        "Lev.15.23": (["Lev.15.22", "Lev.15.23"], "Omne vas, super quo"),
+        "Num.15.12": (["Num.15.11", "Num.15.12"], "per singulos boves"),
+        "Num.15.15": (["Num.15.15", "Num.15.16"], "Unum præceptum"),
+        "Num.15.16": (["Num.15.17"], "Locutus est Dominus ad Moysen"),
+        "Num.15.17": (["Num.15.18"], "Loquere filiis Isra"),
+        "Num.27.3": (["Num.27.3", "Num.27.4"], "Cur tollitur nomen illius"),
+        "Num.27.4": (["Num.27.5"], "Retulitque Moyses causam"),
+        "Num.27.5": (["Num.27.6"], "Qui dixit ad eum"),
+        "Num.27.6": (["Num.27.7"], "Justam rem postulant"),
+        "Num.27.7": (["Num.27.8"], "Ad filios autem Isra"),
+        "Num.35.23": (["Num.35.22", "Num.35.23"], "inimicitiis quidquam horum"),
+        "Deut.6.12": (["Deut.6.11"], "et comederis, et saturatus"),
+        "Deut.6.13": (["Deut.6.12", "Deut.6.13"], "cave diligenter ne obliviscaris"),
+        "Ps.108.17": (["Ps.109.16"], "persecutus est hominem inopem"),
+        "Ps.108.18": (["Ps.109.17", "Ps.109.18"], "induit maledictionem sicut vestimentum"),
+        "Hos.6.2": (["Hos.6.1"], "quia ipse cepit, et sanabit nos"),
+        "Hos.6.3": (["Hos.6.2", "Hos.6.3"], "in die tertia suscitabit nos"),
+        "Luke.9.43": (["Luke.9.42"], "increpavit Jesus spiritum immundum"),
+        "Luke.9.44": (["Luke.9.43", "Luke.9.44"], "Ponite vos in cordibus"),
+        "Luke.17.35": (["Luke.17.35", "Luke.17.36"], "duo in agro"),
+        "Luke.17.36": (["Luke.17.37"], "Ubi Domine"),
+        "2Tim.4.8": (["2Tim.4.8", "2Tim.4.9"], "Festina ad me venire cito"),
+        "2Tim.4.9": (["2Tim.4.10"], "Demas enim me reliquit"),
+        "Rev.20.7": (["Rev.20.7", "Rev.20.8"], "Gog, et Magog"),
+        "Rev.20.8": (["Rev.20.9"], "circuierunt castra sanctorum"),
+        "Rev.20.9": (["Rev.20.10"], "missus est in stagnum"),
+    }.items()},
+    "Matt.5.4": (["Matt.5.5"], "Beati mites",
+                 "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then "
+                 "meek. Same numbers, swapped text: TVTMS maps numbers, so it has no row"),
+    "Matt.5.5": (["Matt.5.4"], "Beati qui lugent",
+                 "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then "
+                 "meek. Same numbers, swapped text: TVTMS maps numbers, so it has no row"),
     "Ps.15.10": (["Ps.16.10", "Ps.16.11"], "Notas mihi fecisti vias vit",
                  "KJV 16:11 'Thou wilt shew me the path of life'; TVTMS's Latin has a "
                  "verse 15:11 the Clementine does not"),
@@ -177,6 +223,7 @@ def _stop(msg):
 def fetch():
     BV.fetch()   # TVTMS (and the WLC, which the Hebrew map needs; harmless here)
     print(f"vulgate: {FS.fetch_vulgate()}")
+    print(f"douay: {FS.fetch_douay()}")   # for --audit-douay
 
 
 def _require_pins():
@@ -783,6 +830,103 @@ def measure(r=None, show=40):
     return n, misses, runs
 
 
+# ---------------------------------------------------------------- audit (Douay)
+
+_STOP = set("the and of to in that he his him they them a i is was for unto shall be with it "
+            "not all thou thy thee me my which by from upon as are but ye you their have this "
+            "at o will said were there when on or so out an no who your had her she hath we "
+            "our us also then because what into one let".split())
+_BEADS = [(1, 1, 0), (1, 2, .05), (2, 1, .05), (1, 0, .3), (0, 1, .3), (2, 2, .1),
+          (1, 3, .1), (3, 1, .1)]
+
+
+def _etoks(t):
+    return {w[:5] for w in re.findall(r"[a-z]+", t.lower()) if w not in _STOP and len(w) > 2}
+
+
+def _dice(a, b):
+    return 2 * len(a & b) / (len(a) + len(b)) if a and b else 0.0
+
+
+def audit_douay(show=80):
+    """The weak spot of --measure is that names are rare in poetry and prophecy.
+    The Douay-Rheims is the Clementine in English, verse for verse (its own
+    breaks are structure_texts.DOUAY_ROWS), so its English can be aligned
+    against the KJV's everywhere: a monotonic alignment (1-1, 1-2, 2-1, 2-2,
+    1-3, 3-1 and gaps; Dice overlap of content-word stems) inside a band of
+    ten verses around where the map puts each verse. A Douay verse whose
+    aligned KJV verses share nothing with the ones the map gives is listed,
+    with its neighbours, for reading. Not a gate: titles, Jerome's paraphrase
+    and lists of names make honest noise. What reading found went into
+    HOUSE_ROWS (Jerome's re-divisions) and DOUAY_ROWS (the Douay's own).
+    Measured 2026-10-02 after both: 31,083 verses aligned, 10 listed, all read
+    and left: Matt 5:4-5 (a swap, which a monotonic alignment cannot draw; the
+    map has it right), Ps 5, Ps 72 and Exod 39 (verses that straddle, the map
+    naming the KJV verse that holds most), Num 33 (a list of stations whose
+    words repeat), Ps 71:1 (a title)."""
+    drc = os.path.join(BV.CORPUS, "douay", "DRC.json")
+    if not os.path.exists(drc) or BV.sha256(drc) != FS.DOUAY["sha256"]:
+        _stop("the Douay-Rheims is not fetched (or differs from its pin). Run --fetch.")
+    book = S.convert_douay(drc, FS.VULGATE["books"], FS.DOUAY["sha256"])
+    kj = {}
+    with open(KJV_TSV, encoding="utf-8") as f:
+        for line in f:
+            i, _, t = line.rstrip("\n").partition("\t")
+            if i.startswith("kjv:"):
+                kj[i[4:]] = t
+    kord = list(kj)
+    kidx = {k: i for i, k in enumerate(kord)}
+    KT = [_etoks(kj[k]) for k in kord]
+    units = [u for u in book["units"] if u["kjv"]["resolved"]]
+    by_book = {}
+    for u in units:
+        by_book.setdefault(u["id"].split(":")[1].split(".")[0], []).append(u)
+    flagged = []
+    for bk, us in by_book.items():
+        ks = [i for i, k in enumerate(kord) if k.split(".")[0] == bk]
+        k0, M = ks[0], len(ks)
+        DT = [_etoks(u["text"]) for u in us]
+        guess = [kidx[u["kjv"]["target"][4:]] - k0 for u in us]
+        n = len(us)
+        best = {(0, 0): (0.0, None)}
+        for i in range(n + 1):
+            c = guess[min(i, n - 1)]
+            for j in range(max(0, c - 10), min(M, c + 10) + 1):
+                if (i, j) not in best:
+                    continue
+                sc = best[(i, j)][0]
+                for a, b, pen in _BEADS:
+                    ni, nj = i + a, j + b
+                    if ni > n or nj > M:
+                        continue
+                    A = set().union(*DT[i:ni]) if a else set()
+                    B_ = set().union(*KT[k0 + j:k0 + nj]) if b else set()
+                    s2 = sc + (_dice(A, B_) if a and b else 0) - pen
+                    if (ni, nj) not in best or best[(ni, nj)][0] < s2:
+                        best[(ni, nj)] = (s2, (i, j))
+        cur = max((k for k in best if k[0] == n), key=lambda k: best[k][0])
+        al = {}
+        while best[cur][1]:
+            pi, pj = best[cur][1]
+            for x in range(pi, cur[0]):
+                al[x] = [kord[k0 + y] for y in range(pj, cur[1])]
+            cur = (pi, pj)
+        for x, u in enumerate(us):
+            mine = {t[4:] for t in u["kjv"].get("spans", [u["kjv"]["target"]]) if t.startswith("kjv:")}
+            if al.get(x) and not mine & set(al[x]):
+                flagged.append((u["id"], sorted(mine, key=osis_key), al[x]))
+    chapters = {}
+    for f in flagged:
+        chapters.setdefault(f[0].split(":")[1].rsplit(".", 1)[0], []).append(f)
+    print(f"Douay verses aligned to the KJV by their English: {len(units):,}")
+    print(f"  where the alignment shares no KJV verse with the map: {len(flagged)} "
+          f"verses in {len(chapters)} chapters")
+    for c, fs in sorted(chapters.items(), key=lambda kv: -len(kv[1]))[:show]:
+        print(f"  {c} ({len(fs)}): " + "; ".join(f"{i.split(':')[1]} map {m} / English {e}"
+                                                  for i, m, e in fs[:3]))
+    return flagged
+
+
 def render(doc):
     return (json.dumps(doc, ensure_ascii=False, indent=1) + "\n").encode("utf-8")
 
@@ -792,7 +936,11 @@ def main():
     ap.add_argument("--fetch", action="store_true")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--measure", action="store_true")
+    ap.add_argument("--audit-douay", action="store_true")
     a = ap.parse_args()
+    if a.audit_douay:
+        audit_douay()
+        return
     if a.fetch:
         fetch()
         return

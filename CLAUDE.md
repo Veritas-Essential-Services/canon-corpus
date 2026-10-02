@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 78 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 83 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -96,6 +96,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_vulgate_versification.py --fetch    # TVTMS + the Clementine, pinned
     python3 pipeline/build_vulgate_versification.py --check    # Vulgate->KJV map byte-identical; invariants
     python3 pipeline/build_vulgate_versification.py --measure  # the map vs proper names in both texts
+    python3 pipeline/build_vulgate_versification.py --audit-douay  # the map vs the Douay's English
     python3 tests/vulgate_versification_test.py  # the Vulgate map, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -171,9 +172,15 @@ The living truth for project state is the Obsidian vault:
 - pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
   map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
   rights block). TVTMS's tests are RUN against the Clementine to pick the
-  column each block follows; HOUSE_ROWS holds the 14 places no column fits,
-  each checked against the Latin. convert_vulgate gives every unit `kjv`
-  (resolved target, or why not); ids stay in Vulgate numbering.
+  column each block follows; HOUSE_ROWS holds the 48 verses no column fits,
+  each checked against the Latin (most found by --audit-douay). convert_vulgate
+  gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
+  numbering.
+- convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
+  GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 24
+  verses where this edition breaks verses off the Clementine's; empty padding
+  verses in the file are dropped, never given ids.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).

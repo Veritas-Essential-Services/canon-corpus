@@ -51,6 +51,13 @@ check("Mal 4 numbers alike (the Clementine keeps four chapters, unlike the Hebre
       T("Mal.4.1") == ["Mal.4.1"] and m["vulgate_chapters"]["Mal.4"] == 6)
 check("Gen 1:1 numbers alike", T("Gen.1.1") == ["Gen.1.1"])
 
+check("Matt 5:4-5: the Vulgate's meek-then-mourn is the KJV's 5:5 and 5:4 (a house row)",
+      T("Matt.5.4") == ["Matt.5.5"] and T("Matt.5.5") == ["Matt.5.4"])
+check("Rev 20:8 is KJV 20:9 (Jerome's 20:7 runs to 'Gog and Magog'; a house row)",
+      T("Rev.20.7") == ["Rev.20.7", "Rev.20.8"] and T("Rev.20.8") == ["Rev.20.9"])
+check("Num 27:4 is KJV 27:5 (the daughters' plea is one verse in the Latin; a house row)",
+      T("Num.27.3") == ["Num.27.3", "Num.27.4"] and T("Num.27.4") == ["Num.27.5"])
+
 # What has no KJV verse, and says why.
 check("Tobias has no KJV verse: not in its canon", "canon" in R("Tob.1.1")["why"])
 check("Dan 3:52 (the Song of the Three Children) has none",

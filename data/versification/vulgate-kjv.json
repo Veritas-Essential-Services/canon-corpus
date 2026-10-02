@@ -33,12 +33,12 @@
   "pairs_from_non_latin_blocks_yielding_to_a_latin_block": 0
  },
  "counts": {
-  "differing_vulgate_verses": 3056,
+  "differing_vulgate_verses": 3087,
   "to_psalm_titles": 120,
-  "spanning_several_kjv_verses": 86,
-  "kjv_verses_shared_by_several_vulgate_verses": 24,
+  "spanning_several_kjv_verses": 99,
+  "kjv_verses_shared_by_several_vulgate_verses": 37,
   "vulgate_verses_with_no_kjv_verse": 4657,
-  "house_rows": 14
+  "house_rows": 48
  },
  "blocks_not_plain_latin": {
   "$2Ch.37:1-38": {
@@ -336,6 +336,223 @@
     "1Chr.11.35"
    ],
    "why": "1 Chr 11:32-35: the Clementine's breaks in the list of David's mighty men fall elsewhere (its 32 holds KJV 32-33); the chapter count is unchanged"
+  },
+  "Exod.38.25": {
+   "kjv": [
+    "Exod.38.25",
+    "Exod.38.26"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Exod.38.26": {
+   "kjv": [
+    "Exod.38.27"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Exod.38.27": {
+   "kjv": [
+    "Exod.38.27"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Lev.15.20": {
+   "kjv": [
+    "Lev.15.19"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Lev.15.21": {
+   "kjv": [
+    "Lev.15.20"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Lev.15.22": {
+   "kjv": [
+    "Lev.15.21"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Lev.15.23": {
+   "kjv": [
+    "Lev.15.22",
+    "Lev.15.23"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.15.12": {
+   "kjv": [
+    "Num.15.11",
+    "Num.15.12"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.15.15": {
+   "kjv": [
+    "Num.15.15",
+    "Num.15.16"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.15.16": {
+   "kjv": [
+    "Num.15.17"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.15.17": {
+   "kjv": [
+    "Num.15.18"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.27.3": {
+   "kjv": [
+    "Num.27.3",
+    "Num.27.4"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.27.4": {
+   "kjv": [
+    "Num.27.5"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.27.5": {
+   "kjv": [
+    "Num.27.6"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.27.6": {
+   "kjv": [
+    "Num.27.7"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.27.7": {
+   "kjv": [
+    "Num.27.8"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Num.35.23": {
+   "kjv": [
+    "Num.35.22",
+    "Num.35.23"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Deut.6.12": {
+   "kjv": [
+    "Deut.6.11"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Deut.6.13": {
+   "kjv": [
+    "Deut.6.12",
+    "Deut.6.13"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Ps.108.17": {
+   "kjv": [
+    "Ps.109.16"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Ps.108.18": {
+   "kjv": [
+    "Ps.109.17",
+    "Ps.109.18"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Hos.6.2": {
+   "kjv": [
+    "Hos.6.1"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Hos.6.3": {
+   "kjv": [
+    "Hos.6.2",
+    "Hos.6.3"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Luke.9.43": {
+   "kjv": [
+    "Luke.9.42"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Luke.9.44": {
+   "kjv": [
+    "Luke.9.43",
+    "Luke.9.44"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Luke.17.35": {
+   "kjv": [
+    "Luke.17.35",
+    "Luke.17.36"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Luke.17.36": {
+   "kjv": [
+    "Luke.17.37"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "2Tim.4.8": {
+   "kjv": [
+    "2Tim.4.8",
+    "2Tim.4.9"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "2Tim.4.9": {
+   "kjv": [
+    "2Tim.4.10"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Rev.20.7": {
+   "kjv": [
+    "Rev.20.7",
+    "Rev.20.8"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Rev.20.8": {
+   "kjv": [
+    "Rev.20.9"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Rev.20.9": {
+   "kjv": [
+    "Rev.20.10"
+   ],
+   "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
+  },
+  "Matt.5.4": {
+   "kjv": [
+    "Matt.5.5"
+   ],
+   "why": "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then meek. Same numbers, swapped text: TVTMS maps numbers, so it has no row"
+  },
+  "Matt.5.5": {
+   "kjv": [
+    "Matt.5.4"
+   ],
+   "why": "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then meek. Same numbers, swapped text: TVTMS maps numbers, so it has no row"
   },
   "Ps.15.10": {
    "kjv": [
@@ -1826,6 +2043,11 @@
   "Gen.50.23": "Gen.50.24",
   "Gen.50.24": "Gen.50.25",
   "Gen.50.25": "Gen.50.26",
+  "Exod.38.25": [
+   "Exod.38.25",
+   "Exod.38.26"
+  ],
+  "Exod.38.26": "Exod.38.27",
   "Exod.39.17": [
    "Exod.39.17",
    "Exod.39.18",
@@ -1880,6 +2102,13 @@
   "Exod.40.34": "Exod.40.36",
   "Exod.40.35": "Exod.40.37",
   "Exod.40.36": "Exod.40.38",
+  "Lev.15.20": "Lev.15.19",
+  "Lev.15.21": "Lev.15.20",
+  "Lev.15.22": "Lev.15.21",
+  "Lev.15.23": [
+   "Lev.15.22",
+   "Lev.15.23"
+  ],
   "Lev.26.45": [
    "Lev.26.45",
    "Lev.26.46"
@@ -1922,8 +2151,26 @@
   "Num.13.32": "Num.13.31",
   "Num.13.33": "Num.13.32",
   "Num.13.34": "Num.13.33",
+  "Num.15.12": [
+   "Num.15.11",
+   "Num.15.12"
+  ],
+  "Num.15.15": [
+   "Num.15.15",
+   "Num.15.16"
+  ],
+  "Num.15.16": "Num.15.17",
+  "Num.15.17": "Num.15.18",
   "Num.20.29": "Num.20.28",
   "Num.20.30": "Num.20.29",
+  "Num.27.3": [
+   "Num.27.3",
+   "Num.27.4"
+  ],
+  "Num.27.4": "Num.27.5",
+  "Num.27.5": "Num.27.6",
+  "Num.27.6": "Num.27.7",
+  "Num.27.7": "Num.27.8",
   "Num.30.1": "Num.29.40",
   "Num.30.2": "Num.30.1",
   "Num.30.3": "Num.30.2",
@@ -1941,6 +2188,15 @@
   "Num.30.15": "Num.30.14",
   "Num.30.16": "Num.30.15",
   "Num.30.17": "Num.30.16",
+  "Num.35.23": [
+   "Num.35.22",
+   "Num.35.23"
+  ],
+  "Deut.6.12": "Deut.6.11",
+  "Deut.6.13": [
+   "Deut.6.12",
+   "Deut.6.13"
+  ],
   "Josh.4.24": "Josh.4.23",
   "Josh.4.25": "Josh.4.24",
   "Josh.5.15": "Josh.5.14",
@@ -4114,8 +4370,11 @@
   "Ps.108.14": "Ps.109.14",
   "Ps.108.15": "Ps.109.15",
   "Ps.108.16": "Ps.109.16",
-  "Ps.108.17": "Ps.109.17",
-  "Ps.108.18": "Ps.109.18",
+  "Ps.108.17": "Ps.109.16",
+  "Ps.108.18": [
+   "Ps.109.17",
+   "Ps.109.18"
+  ],
   "Ps.108.19": "Ps.109.19",
   "Ps.108.20": "Ps.109.20",
   "Ps.108.21": "Ps.109.21",
@@ -4930,6 +5189,11 @@
   "Dan.4.33": "Dan.4.36",
   "Dan.4.34": "Dan.4.37",
   "Hos.2.24": "Hos.2.23",
+  "Hos.6.2": "Hos.6.1",
+  "Hos.6.3": [
+   "Hos.6.2",
+   "Hos.6.3"
+  ],
   "Hos.14.1": "Hos.13.16",
   "Hos.14.2": "Hos.14.1",
   "Hos.14.3": "Hos.14.2",
@@ -4987,6 +5251,8 @@
   "Hag.2.22": "Hag.2.21",
   "Hag.2.23": "Hag.2.22",
   "Hag.2.24": "Hag.2.23",
+  "Matt.5.4": "Matt.5.5",
+  "Matt.5.5": "Matt.5.4",
   "Matt.17.14": [
    "Matt.17.14",
    "Matt.17.15"
@@ -5057,6 +5323,16 @@
   "Mark.9.47": "Mark.9.48",
   "Mark.9.48": "Mark.9.49",
   "Mark.9.49": "Mark.9.50",
+  "Luke.9.43": "Luke.9.42",
+  "Luke.9.44": [
+   "Luke.9.43",
+   "Luke.9.44"
+  ],
+  "Luke.17.35": [
+   "Luke.17.35",
+   "Luke.17.36"
+  ],
+  "Luke.17.36": "Luke.17.37",
   "John.6.52": "John.6.51",
   "John.6.53": "John.6.52",
   "John.6.54": "John.6.53",
@@ -5130,6 +5406,17 @@
   "2Cor.13.13": "2Cor.13.14",
   "Phil.1.16": "Phil.1.17",
   "Phil.1.17": "Phil.1.16",
-  "Rev.12.18": "Rev.13.1"
+  "2Tim.4.8": [
+   "2Tim.4.8",
+   "2Tim.4.9"
+  ],
+  "2Tim.4.9": "2Tim.4.10",
+  "Rev.12.18": "Rev.13.1",
+  "Rev.20.7": [
+   "Rev.20.7",
+   "Rev.20.8"
+  ],
+  "Rev.20.8": "Rev.20.9",
+  "Rev.20.9": "Rev.20.10"
  }
 }

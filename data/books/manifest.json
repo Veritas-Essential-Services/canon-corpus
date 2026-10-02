@@ -1672,5 +1672,27 @@
    "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
    "requests": "acknowledge the source; report typographical errors to the project; make modifications clear (requests, not a licence)"
   }
+ },
+ "douay": {
+  "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+  "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+  "format": "scrollmapper-json",
+  "sha256": "2c9b2ab58363bcddccdcaaf9e9a75924bbbc636d918e798d9ab517de07767b4f",
+  "units": 35805,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "empty_verses_dropped": 12,
+   "kjv_resolved": 31083,
+   "kjv_unresolved": 4722,
+   "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Douay-Rheims Bible, Challoner revision, via scrollmapper/bible_databases",
+   "source_url": "https://github.com/scrollmapper/bible_databases"
+  }
  }
 }

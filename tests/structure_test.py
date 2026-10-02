@@ -9,7 +9,7 @@ no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
 Split from patrimonium's tests/armarium_test.py at the 2026-07-22
 extraction: the converter checks live here; the engine checks live in the
 armarium repo's tests/armarium_test.py. 18 checks."""
-import os, sys, shutil, tempfile, importlib.util
+import os, sys, json, shutil, tempfile, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PIPE = os.path.join(HERE, "..", "pipeline")
@@ -280,6 +280,43 @@ check("vulgate: the scheme counts resolved and unresolved units",
 check("vulgate: the rights block travels with the book",
       vg["rights"]["license"] == "public-domain" and "Clementine" in vg["rights"]["attribution"])
 shutil.rmtree(vd)
+
+# ---------------------------------------------------------------- Douay-Rheims
+dd = tempfile.mkdtemp()
+_books = [{"name": n, "chapters": []} for n in st.DOUAY_NAMES]
+_books[20]["chapters"] = [{"chapter": 50, "verses": [
+    {"verse": 3, "text": "Have mercy on me, O God,  according to thy great mercy."}]}]
+_books[58]["chapters"] = [{"chapter": 4, "verses": [
+    {"verse": 12, "text": "And we will not have you ignorant brethren, concerning them that are asleep"},
+    {"verse": 18, "text": ""}]}]
+_books.append({"name": "I Esdras", "chapters": [{"chapter": 1, "verses": [{"verse": 1, "text": "x"}]}]})
+with open(os.path.join(dd, "DRC.json"), "w", encoding="utf-8") as f:
+    json.dump({"books": _books}, f)
+_vb = ["Gn Ex Lv Nm Dt Jos Jdc Rt 1Rg 2Rg 3Rg 4Rg 1Par 2Par Esr Neh Tob Jdt Est Job Ps Pr Ecl Ct "
+       "Sap Sir Is Jr Lam Bar Ez Dn Os Joel Am Abd Jon Mch Nah Hab Soph Agg Zach Mal 1Mcc 2Mcc Mt "
+       "Mc Lc Jo Act Rom 1Cor 2Cor Gal Eph Phlp Col 1Thes 2Thes 1Tim 2Tim Tit Phlm Hbr Jac 1Ptr "
+       "2Ptr 1Jo 2Jo 3Jo Jud Apc"][0].split()
+dg = st.convert_douay(os.path.join(dd, "DRC.json"), _vb, "pin")
+du = {u["id"]: u for u in dg["units"]}
+check("douay: ids in the Vulgate's numbering; an empty padding verse gets no id; appendix not read",
+      list(du) == ["douay:Ps.50.3", "douay:1Thess.4.12"] and dg["scheme"]["empty_verses_dropped"] == 1)
+check("douay: whitespace runs collapse", du["douay:Ps.50.3"]["text"].count("  ") == 0)
+check("douay: the same number reads the same Clementine verse, and the KJV through the map",
+      du["douay:Ps.50.3"]["vulgate"] == ["vulgate:Ps.50.3"]
+      and du["douay:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"})
+check("douay: DOUAY_ROWS carries the Douay's own breaks (1 Thess 4:12 is the Clementine's 4:13)",
+      du["douay:1Thess.4.12"]["vulgate"] == ["vulgate:1Thess.4.13"]
+      and du["douay:1Thess.4.12"]["kjv"]["target"] == "kjv:1Thess.4.13")
+_books[20]["chapters"][0]["verses"][0]["verse"] = 99
+_books[0]["name"] = "Genesys"
+with open(os.path.join(dd, "DRC.json"), "w", encoding="utf-8") as f:
+    json.dump({"books": _books}, f)
+try:
+    st.convert_douay(os.path.join(dd, "DRC.json"), _vb, "pin"); _ok = False
+except ValueError:
+    _ok = True
+check("douay: a file whose books are not in the pinned order is refused", _ok)
+shutil.rmtree(dd)
 
 # ---------------------------------------------------------------- Thayer (OCR)
 import json as _json
