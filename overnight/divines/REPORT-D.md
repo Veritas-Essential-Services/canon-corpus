@@ -198,3 +198,6 @@
 
 ## 2026-10-02 17:19 CDT — campbell-highlands: done
 - 4/4 fetched (IA populartalesofwe01campuoft, populartalesofw02campuoft, populartalesofwe03campuoft, populartalesofwe40camp), raw OCR; grades C, D, C, A, the low ones from facing Gaelic (spot-checked).
+
+## 2026-10-02 17:20 CDT — ozaki: done
+- 3/3 fetched (Gutenberg 4018, 41437, 45933), 3,587 units, 11 ~2 ids.

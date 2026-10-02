@@ -956,6 +956,17 @@ Shelf: `pipeline/campbell-highlands_shelf.json` (2026-10-02; added at the coordi
 | Popular Tales of the West Highlands (1890 ed.), vol. 4 | have-raw | IA `populartalesofwe40camp`, `campbell-west-highlands-4` |
 | campbell-1860 | excluded | the first edition (Edinburgh, 1860-62), also on IA: the 1890 edition is preferred as the later revision |
 
+## Yei Theodora Ozaki (Japanese tales)
+
+Shelf: `pipeline/ozaki_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her English retellings from Japanese sources. Romances of Old Japan is cut by its own Contents (each romance is printed in parts, and the house rule took the PART lines for headings); the Gutenberg file is Brentano's 1920 printing of the 1919 book. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Japanese Fairy Tales, compiled by Yei Theodora Ozaki (1908) | have | PG 4018, `ozaki-japanese-fairy-tales` (1414 units) |
+| Warriors of Old Japan, and Other Stories (1909) | have | PG 41437, `ozaki-warriors-of-old-japan` (787 units) |
+| Romances of Old Japan, rendered into English from Japanese sources by Yei Theodora Ozaki (1919; New York: Brentano's, 1920) | have | PG 45933, `ozaki-romances-of-old-japan` (1386 units) |
+| ozaki-other-japanese | excluded | Grace James's Japanese Fairy Tales (PG 35853, 1910) and Griffis's Japanese Fairy World (29337, 1880): other hands; candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

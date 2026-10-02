@@ -1,0 +1,33 @@
+{
+ "_about": "Yei Theodora Ozaki's (1870-1932) retellings of Japanese tales in English: Japanese Fairy Tales (1908), Warriors of Old Japan (1909) and Romances of Old Japan (1919; the Gutenberg file is Brentano's 1920 printing). Her own English from Japanese sources. Published before 1929: US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Yei Theodora Ozaki",
+ "_name_words": [
+  "japanese",
+  "japan",
+  "fairy",
+  "warriors",
+  "romances"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ozaki-japanese-fairy-tales": [
+   4018,
+   "Japanese Fairy Tales, compiled by Yei Theodora Ozaki (1908)"
+  ],
+  "ozaki-warriors-of-old-japan": [
+   41437,
+   "Warriors of Old Japan, and Other Stories (1909)"
+  ],
+  "ozaki-romances-of-old-japan": [
+   45933,
+   "Romances of Old Japan, rendered into English from Japanese sources by Yei Theodora Ozaki (1919; New York: Brentano's, 1920)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ozaki-other-japanese": "Grace James's Japanese Fairy Tales (PG 35853, 1910) and Griffis's Japanese Fairy World (29337, 1880): other hands; candidates for a later batch"
+ }
+}
