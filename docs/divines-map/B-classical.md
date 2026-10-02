@@ -759,8 +759,9 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Pharsalia; Dramatic Episodes of the Civil Wars | Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation | `lucan-ridley-pharsalia` | have (PG 602) |
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 | Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
+| Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
 
-Pending (wishlist): Rowe vol. 2; Marlowe's First Book (Marlowe shelf).
+Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
 ## Apuleius
 
@@ -923,6 +924,8 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | Philip’s Letter | James Herbert Vince | `demosthenes-perseus-vince-philip-s-letter` | have (Perseus TEI `tlg0014.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
 | Second Philippic | James Herbert Vince | `demosthenes-perseus-vince-second-philippic` | have (Perseus TEI `tlg0014.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
 | Third Olynthiac | James Herbert Vince | `demosthenes-perseus-vince-third-olynthiac` | have (Perseus TEI `tlg0014.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Crown | Charles Anthony Vince and James Herbert Vince | `demosthenes-perseus-vince-on-the-crown` | have (Perseus TEI `tlg0014.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Embassy | Charles Anthony Vince and James Herbert Vince | `demosthenes-perseus-vince-on-the-embassy` | have (Perseus TEI `tlg0014.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
