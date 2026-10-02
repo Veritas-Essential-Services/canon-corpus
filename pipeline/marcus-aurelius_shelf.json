@@ -1,5 +1,5 @@
 {
- "_about": "Marcus Aurelius in English, translator per title: George Long (1862), George W. Chrystal (1902), clean Gutenberg. The Adler shelf's marcus-meditations (PG 2680) is labelled 'tr. George Long' there, but PG 2680 names no translator and its text opens 'His First Book concerning Himself', Meric Casaubon's 1634 wording, in an Everyman-style edition whose introduction lists Long as a different translator; so it is cross-referenced as Casaubon (inferred, not stated by the file).",
+ "_about": "Marcus Aurelius in English, translator per title: George Long (1862), George W. Chrystal (1902), clean Gutenberg. The Adler shelf's marcus-meditations (PG 2680) is labelled 'tr. George Long' there, but PG 2680 names no translator and its text opens 'His First Book concerning Himself', Meric Casaubon's 1634 wording, in an Everyman-style edition whose introduction lists Long as a different translator; so it is cross-referenced as Casaubon (inferred, not stated by the file). Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "marcus",
   "aurelius",
@@ -20,7 +20,18 @@
    "tr. George W. Chrystal (1902)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "marcus-aurelius-collier": [
+   "emperormarcusant00marcrich",
+   "The Emperor Marcus Antoninus, his Conversation with Himself (1702)",
+   "tr. Jeremy Collier"
+  ],
+  "marcus-aurelius-rendall": [
+   "marcusaureliusan00marcrich",
+   "Marcus Aurelius Antoninus to Himself (1898)",
+   "tr. Gerald H. Rendall"
+  ]
+ },
  "_cross_ref": {
   "marcus-meditations": "Adler shelf: PG 2680, Casaubon's translation by its wording (inferred); the Adler label 'tr. George Long' looks wrong"
  },
