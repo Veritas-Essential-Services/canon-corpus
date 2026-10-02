@@ -1,0 +1,20 @@
+{
+ "_about": "Diogenes Laertius, Lives and Opinions of Eminent Philosophers, in C. D. Yonge's translation (Bohn), clean Gutenberg (from a 1915 printing).",
+ "_name_words": [
+  "diogenes",
+  "laertius",
+  "philosophers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "diogenes-laertius-yonge": [
+   57342,
+   "The Lives and Opinions of Eminent Philosophers",
+   "tr. Charles Duke Yonge"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Hicks, Loeb (1925)": "US PD by date but Greek facing; pending"
+ }
+}
