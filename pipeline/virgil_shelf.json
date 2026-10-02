@@ -1,0 +1,100 @@
+{
+ "_about": "Virgil in English: Aeneid, Georgics, Eclogues, translator recorded per title. Two translators cover all three works: James Rhoades (verse; his complete Poems of Virgil, Oxford 1921, raw IA OCR, plus clean Gutenberg Georgics and Eclogues) and John Conington (prose; the Aeneid clean on Gutenberg, the complete Works of Virgil, 1880, raw IA OCR). Further Aeneid witnesses: Mackail (prose, 1885), William Morris (verse, 1876), E. Fairfax Taylor (Spenserian verse, 1903-07), Rolfe Humphries (verse, 1951; Gutenberg clears it as US public domain, not PD elsewhere). Mackail's prose Eclogues and Georgics (1889; 1910 reprint) on IA. Dryden's Virgil lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here.",
+ "_name_words": [
+  "virgil",
+  "vergil",
+  "translated",
+  "english",
+  "verse"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "virgil-rhoades-eclogues": [
+   230,
+   "The Bucolics and Eclogues",
+   "tr. James Rhoades (verse); PG names no translator: identified by collating its opening against Rhoades's Poems of Virgil (IA poemsofvirgi00virguoft)"
+  ],
+  "virgil-rhoades-georgics": [
+   232,
+   "The Georgics",
+   "tr. James Rhoades (verse, 1881)"
+  ],
+  "virgil-conington-aeneid": [
+   73488,
+   "The Aeneid of Virgil translated into English prose",
+   "tr. John Conington (prose), ed. E. S. Shumway, 1910"
+  ],
+  "virgil-mackail-aeneid": [
+   22456,
+   "The Aeneid of Virgil",
+   "tr. J. W. Mackail (prose, 1885)"
+  ],
+  "virgil-morris-aeneid": [
+   29358,
+   "The Aeneids of Virgil, Done into English Verse",
+   "tr. William Morris (verse, 1876)"
+  ],
+  "virgil-taylor-aeneid": [
+   18466,
+   "The Aeneid of Virgil, Translated into English Verse",
+   "tr. Edward Fairfax Taylor (Spenserian stanza, 1903-07)"
+  ],
+  "virgil-humphries-aeneid": [
+   61596,
+   "The Aeneid of Virgil",
+   "tr. Rolfe Humphries (verse, 1951); Gutenberg treats it as US public domain (not marked COPYRIGHTED); not PD outside the US"
+  ]
+ },
+ "internet_archive": {
+  "virgil-rhoades-poems-1921": [
+   "poemsofvirgi00virguoft",
+   "The Poems of Virgil translated into English verse (Oxford, 1921): Aeneid, Georgics, Eclogues",
+   "tr. James Rhoades"
+  ],
+  "virgil-conington-works-1880": [
+   "worksofvirgilvirg00rich",
+   "The Works of Virgil translated into English prose (1880): Eclogues, Georgics, Aeneid",
+   "tr. John Conington, intro. J. A. Symonds"
+  ],
+  "virgil-mackail-eclogues-georgics": [
+   "ecloguesgeorgics00virgrich",
+   "The Eclogues and Georgics of Virgil (1910 printing)",
+   "tr. J. W. Mackail (prose, 1889)"
+  ]
+ },
+ "_cross_ref": {
+  "dryden-aeneid": "Dryden shelf, lane C",
+  "dryden-georgics": "Dryden shelf, lane C",
+  "dryden-eclogues": "Dryden shelf, lane C"
+ },
+ "_excluded": {
+  "pg228": "The Aeneid, tr. Dryden: Dryden shelf (lane C), cross-referenced as dryden-aeneid",
+  "pg20144": "The Fourth Book of Virgil's Aeneid and the Ninth Book of Voltaire's Henriad: a fragment with Voltaire; not a Virgil translation of record",
+  "pg54717": "Two Dramatizations from Vergil (Miller): adaptations for the stage, not the poems",
+  "pg66399": "Virgil & Lucretius passages (Stebbing): excerpts",
+  "poemsvirgil00magoog (Conington, 1882)": "no text layer on IA; the 1880 Works kept"
+ },
+ "_convert_hints": {
+  "_note": "Verse texts: tried with structure_texts.convert_gutenberg_verse(path, slug, title, author, abbr, divre) using this divre; unit counts from that trial (12-line blocks). Everything else converts as prose with contents_chapre. For the manifest entry when Adam adds these to the build; nothing here is wired in.",
+  "virgil-rhoades-georgics": {
+   "divre": "^(?:GEORGIC|BOOK)\\s+([IVX]+)\\b",
+   "trial_units": 229
+  },
+  "virgil-rhoades-eclogues": {
+   "divre": "^ECLOGUE\\s+([IVX]+)\\b",
+   "trial_units": 102
+  },
+  "virgil-morris-aeneid": {
+   "divre": "^BOOK\\s+([IVX]+)\\b",
+   "trial_units": 843
+  },
+  "virgil-taylor-aeneid": {
+   "divre": "^BOOK\\s+([A-Z]+)$",
+   "trial_units": 1056
+  },
+  "virgil-humphries-aeneid": {
+   "divre": "^BOOK\\s+([IVX]+)\\b",
+   "trial_units": 905
+  }
+ }
+}

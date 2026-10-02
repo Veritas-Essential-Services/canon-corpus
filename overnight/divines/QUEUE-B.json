@@ -34,8 +34,11 @@
     },
     {
       "id": "virgil",
-      "status": "todo",
-      "scope": "CLASSICAL \u2014 Virgil standalone (Aeneid, Georgics, Eclogues); cross-ref Dryden's Virgil; shelf + fetch + classical map section"
+      "status": "done",
+      "scope": "CLASSICAL \u2014 Virgil standalone (Aeneid, Georgics, Eclogues); cross-ref Dryden's Virgil; shelf + fetch + classical map section",
+      "started": "2026-10-02T15:26:13-05:00",
+      "finished": "2026-10-02T15:28:30-05:00",
+      "notes": "10/10 fetched, 5.8 MB: Rhoades and Conington each complete (clean PG + raw IA), plus Aeneids by Mackail, Morris, Taylor, Humphries and Mackail's Eclogues/Georgics. Trial conversion: verse texts 3,135 units via convert_gutenberg_verse (divres recorded in the shelf), Conington/Mackail Aeneid prose 1,714. PG 230's translator identified as Rhoades by collation. Dryden cross-referenced. Not minted."
     },
     {
       "id": "overflow-perseus",

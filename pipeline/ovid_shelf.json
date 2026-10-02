@@ -72,5 +72,12 @@
   "Marlowe, All Ovid's Elegies (Amores)": "PD; inside The Works of Christopher Marlowe, vol. 3 (PG 21262), a whole Marlowe volume. Pending: belongs to a Marlowe shelf if one is built, cross-referenced from here",
   "A. S. Kline and other modern translations": "copyrighted",
   "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept"
+ },
+ "_convert_hints": {
+  "_note": "Verse texts: tried with structure_texts.convert_gutenberg_verse(path, slug, title, author, abbr, divre) using this divre; unit counts from that trial (12-line blocks). Everything else converts as prose with contents_chapre. For the manifest entry when Adam adds these to the build; nothing here is wired in.",
+  "ovid-howard-metamorphoses": {
+   "divre": "^THE \\*([A-Za-z]+) Book\\*",
+   "trial_units": 1291
+  }
  }
 }

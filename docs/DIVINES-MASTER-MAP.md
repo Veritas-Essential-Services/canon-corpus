@@ -179,6 +179,29 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
 ## Virgil
+
+Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Conington (prose) each cover all three works. Verse texts convert cleanly with the existing verse converter (book-level, 12-line blocks); the divisions used are recorded in the shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Aeneid, Georgics, Eclogues (Poems of Virgil, Oxford 1921) | James Rhoades (verse) | `virgil-rhoades-poems-1921` | have-raw (IA `poemsofvirgi00virguoft`) |
+| Eclogues | James Rhoades (verse) | `virgil-rhoades-eclogues` | have (PG 230; PG names no translator, identified by collation with Rhoades 1921) |
+| Georgics | James Rhoades (verse, 1881) | `virgil-rhoades-georgics` | have (PG 232) |
+| Eclogues, Georgics, Aeneid (Works of Virgil, 1880) | John Conington (prose), ed. Symonds | `virgil-conington-works-1880` | have-raw (IA `worksofvirgilvirg00rich`) |
+| Aeneid | John Conington (prose), ed. Shumway 1910 | `virgil-conington-aeneid` | have (PG 73488) |
+| Aeneid | J. W. Mackail (prose, 1885) | `virgil-mackail-aeneid` | have (PG 22456) |
+| Eclogues and Georgics | J. W. Mackail (prose, 1889; 1910 printing) | `virgil-mackail-eclogues-georgics` | have-raw (IA `ecloguesgeorgics00virgrich`) |
+| Aeneid | William Morris (verse, 1876) | `virgil-morris-aeneid` | have (PG 29358) |
+| Aeneid | E. Fairfax Taylor (Spenserian stanza, 1903–07) | `virgil-taylor-aeneid` | have (PG 18466) |
+| Aeneid | Rolfe Humphries (verse, 1951) | `virgil-humphries-aeneid` | have (PG 61596; US PD per Gutenberg, not PD elsewhere) |
+| Aeneid | Dryden | `dryden-aeneid` | cross-ref → Dryden shelf (lane C) |
+| Georgics | Dryden | `dryden-georgics` | cross-ref → Dryden shelf (lane C) |
+| Eclogues | Dryden | `dryden-eclogues` | cross-ref → Dryden shelf (lane C) |
+
+Pending (wishlist): Theodore C. Williams's Aeneid (1908) and Georgics/Eclogues (1915), PD verse, not located on Gutenberg in this pass; Christopher Pearse Cranch's Aeneid (1872); Gavin Douglas's Eneados (1513, Scots), a landmark witness.
+
+Excluded: PG 228 (Dryden; lane C), PG 20144 (a single book alongside Voltaire), PG 54717 (stage adaptations), PG 66399 (excerpts), `poemsvirgil00magoog` (no text layer).
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
