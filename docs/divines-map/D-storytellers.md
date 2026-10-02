@@ -543,6 +543,49 @@ Shelf: `pipeline/aesop_shelf.json` (2026-10-02; added at the coordinator's relay
 | aesop-translations | excluded | Finnish (PG 74326): this shelf is English |
 | aesop-stevenson | excluded | Stevenson's own Fables (1896) are his, not Aesop's: held on the stevenson shelf |
 
+## E. Nesbit
+
+Shelf: `pipeline/nesbit_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 33 books: the Bastable and Psammead series, The Railway Children, the Arden books and later fantasies, the dragon and fairy collections, her Shakespeare retellings and Royal Children, and the adult novels, stories and verse on Gutenberg. Most chapters are read from the book's own Contents (16 books use the lenient reader). The remaining duplicate ids sit in publishers' back-matter (book lists, THE END), not in her text. Illustrated duplicate transcriptions are excluded; books not on Gutenberg are pending. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of the Treasure Seekers (1899) | have | PG 770, `nesbit-story-of-the-treasure-seekers` (1245 units) |
+| The Wouldbegoods (1901) | have | PG 794, `nesbit-wouldbegoods` (2065 units) |
+| The New Treasure Seekers (1904) | have | PG 25496, `nesbit-new-treasure-seekers` (1919 units) |
+| Oswald Bastable and Others (1905) | have | PG 28804, `nesbit-oswald-bastable-and-others` (2294 units) |
+| Five Children and It (1902) | have | PG 778, `nesbit-five-children-and-it` (1404 units) |
+| The Phoenix and the Carpet (1904) | have | PG 836, `nesbit-phoenix-and-the-carpet` (1945 units) |
+| The Story of the Amulet (1906) | have | PG 837, `nesbit-story-of-the-amulet` (2394 units) |
+| The Railway Children (1906) | have | PG 1874, `nesbit-railway-children` (2149 units) |
+| The Enchanted Castle (1907) | have | PG 3536, `nesbit-enchanted-castle` (2271 units) |
+| The House of Arden (1908) | have | PG 57799, `nesbit-house-of-arden` (2089 units) |
+| Harding's Luck (1909) | have | PG 28725, `nesbit-hardings-luck` (1959 units) |
+| The Magic City (1910) | have | PG 20606, `nesbit-magic-city` (1883 units) |
+| Wet Magic (1913) | have | PG 50361, `nesbit-wet-magic` (1528 units) |
+| The Wonderful Garden; or, The Three Cs (1911) | have | PG 52907, `nesbit-wonderful-garden` (2262 units) |
+| The Book of Dragons (1900) | have | PG 23661, `nesbit-book-of-dragons` (1051 units) |
+| Nine Unlikely Tales for Children (1901) | have | PG 49913, `nesbit-nine-unlikely-tales` (1221 units) |
+| The Magic World (1912) | have | PG 27903, `nesbit-magic-world` (1844 units) |
+| Beautiful Stories from Shakespeare (1907) | have | PG 1430, `nesbit-beautiful-stories-from-shakespeare` (1597 units) |
+| Royal Children of English History (1897) | have | PG 30167, `nesbit-royal-children` (273 units) |
+| Pussy and Doggy Tales (1899) | have | PG 27190, `nesbit-pussy-and-doggy-tales` (409 units) |
+| All Round the Year (1888), verses with Caris Brooke | have | PG 20404, `nesbit-all-round-the-year` (85 units) |
+| Grim Tales (1893) | have | PG 40321, `nesbit-grim-tales` (667 units) |
+| The Literary Sense (1903) | have | PG 39324, `nesbit-literary-sense` (1661 units) |
+| In Homespun (1896) | have | PG 4378, `nesbit-in-homespun` (814 units) |
+| The Incomplete Amorist (1906) | have | PG 9385, `nesbit-incomplete-amorist` (3284 units) |
+| The Incredible Honeymoon (1916) | have | PG 41354, `nesbit-incredible-honeymoon` (1704 units) |
+| Man and Maid (1906) | have | PG 33028, `nesbit-man-and-maid` (1739 units) |
+| The Prophet's Mantle (1885), with Hubert Bland, as Fabian Bland | have | PG 55244, `nesbit-prophets-mantle` (2340 units) |
+| Wings and the Child; or, The Building of Magic Cities (1913) | have | PG 38977, `nesbit-wings-and-the-child` (316 units) |
+| Lays and Legends, Second Series (1892) | have | PG 41693, `nesbit-lays-and-legends-2` (497 units) |
+| Many Voices: Poems (1922) | have | PG 1924, `nesbit-many-voices` (287 units) |
+| Songs of Love and Empire (1898) | have | PG 50162, `nesbit-songs-of-love-and-empire` (627 units) |
+| The Rainbow and the Rose (1905) | have | PG 4513, `nesbit-rainbow-and-the-rose` (377 units) |
+| nesbit-duplicates | excluded | illustrated transcriptions of books held: Five Children and It ill. Millar (PG 17314), The Wouldbegoods ill. Birch (32466), The Enchanted Castle ill. Millar (34219) |
+| nesbit-not-hers | excluded | Landscape and Song (14320), an anthology she edited; Atlantic Narratives (38172), an anthology with other authors |
+| nesbit-not-on-gutenberg | pending | Lays and Legends (first series, 1886) and her other books not on Gutenberg; an Internet Archive search was not run this pass |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

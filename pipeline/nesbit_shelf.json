@@ -1,0 +1,196 @@
+{
+ "_about": "E. Nesbit's (Edith Nesbit, 1858-1924) books: the Bastable and Psammead books, The Railway Children, the Arden books and the other children's fantasies, the fairy-tale and dragon collections, her Shakespeare retellings and Royal Children, and the adult novels, stories and verse on Gutenberg. Collaborations name the partner. Clean Gutenberg text; all published before 1930: US public domain (and she died in 1924, so public domain nearly everywhere).",
+ "_author": "E. Nesbit",
+ "_name_words": [
+  "nesbit"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nesbit-story-of-the-treasure-seekers": [
+   770,
+   "The Story of the Treasure Seekers (1899)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-wouldbegoods": [
+   794,
+   "The Wouldbegoods (1901)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-new-treasure-seekers": [
+   25496,
+   "The New Treasure Seekers (1904)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-oswald-bastable-and-others": [
+   28804,
+   "Oswald Bastable and Others (1905)"
+  ],
+  "nesbit-five-children-and-it": [
+   778,
+   "Five Children and It (1902)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-phoenix-and-the-carpet": [
+   836,
+   "The Phoenix and the Carpet (1904)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-story-of-the-amulet": [
+   837,
+   "The Story of the Amulet (1906)"
+  ],
+  "nesbit-railway-children": [
+   1874,
+   "The Railway Children (1906)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-enchanted-castle": [
+   3536,
+   "The Enchanted Castle (1907)"
+  ],
+  "nesbit-house-of-arden": [
+   57799,
+   "The House of Arden (1908)"
+  ],
+  "nesbit-hardings-luck": [
+   28725,
+   "Harding's Luck (1909)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-magic-city": [
+   20606,
+   "The Magic City (1910)"
+  ],
+  "nesbit-wet-magic": [
+   50361,
+   "Wet Magic (1913)"
+  ],
+  "nesbit-wonderful-garden": [
+   52907,
+   "The Wonderful Garden; or, The Three Cs (1911)"
+  ],
+  "nesbit-book-of-dragons": [
+   23661,
+   "The Book of Dragons (1900)"
+  ],
+  "nesbit-nine-unlikely-tales": [
+   49913,
+   "Nine Unlikely Tales for Children (1901)"
+  ],
+  "nesbit-magic-world": [
+   27903,
+   "The Magic World (1912)"
+  ],
+  "nesbit-beautiful-stories-from-shakespeare": [
+   1430,
+   "Beautiful Stories from Shakespeare (1907)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-royal-children": [
+   30167,
+   "Royal Children of English History (1897)"
+  ],
+  "nesbit-pussy-and-doggy-tales": [
+   27190,
+   "Pussy and Doggy Tales (1899)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-all-round-the-year": [
+   20404,
+   "All Round the Year (1888), verses with Caris Brooke"
+  ],
+  "nesbit-grim-tales": [
+   40321,
+   "Grim Tales (1893)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-literary-sense": [
+   39324,
+   "The Literary Sense (1903)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-in-homespun": [
+   4378,
+   "In Homespun (1896)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-incomplete-amorist": [
+   9385,
+   "The Incomplete Amorist (1906)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-incredible-honeymoon": [
+   41354,
+   "The Incredible Honeymoon (1916)"
+  ],
+  "nesbit-man-and-maid": [
+   33028,
+   "Man and Maid (1906)",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-prophets-mantle": [
+   55244,
+   "The Prophet's Mantle (1885), with Hubert Bland, as Fabian Bland",
+   {
+    "contents_only": true
+   }
+  ],
+  "nesbit-wings-and-the-child": [
+   38977,
+   "Wings and the Child; or, The Building of Magic Cities (1913)"
+  ],
+  "nesbit-lays-and-legends-2": [
+   41693,
+   "Lays and Legends, Second Series (1892)"
+  ],
+  "nesbit-many-voices": [
+   1924,
+   "Many Voices: Poems (1922)"
+  ],
+  "nesbit-songs-of-love-and-empire": [
+   50162,
+   "Songs of Love and Empire (1898)"
+  ],
+  "nesbit-rainbow-and-the-rose": [
+   4513,
+   "The Rainbow and the Rose (1905)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "nesbit-duplicates": "illustrated transcriptions of books held: Five Children and It ill. Millar (PG 17314), The Wouldbegoods ill. Birch (32466), The Enchanted Castle ill. Millar (34219)",
+  "nesbit-not-hers": "Landscape and Song (14320), an anthology she edited; Atlantic Narratives (38172), an anthology with other authors",
+  "nesbit-not-on-gutenberg": "PENDING: Lays and Legends (first series, 1886) and her other books not on Gutenberg; an Internet Archive search was not run this pass"
+ }
+}

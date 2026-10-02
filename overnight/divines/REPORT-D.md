@@ -84,3 +84,6 @@
 
 ## 2026-10-02 16:11 CDT — aesop: done
 - 2/2 fetched (Gutenberg), 0 copyright markers; 768 units (Townsend 503 in 311 fables+front matter, Jacobs 265 in 82 fables). Found a structure_texts.py Contents bug: _contents_key strips a lowercase roman 'page number' with no separator, eating title endings in c/i/l/v/x (Council -> Coun, Jewel -> Jewe), so those headings are never found. Worked around in convert_shelf_gutenberg's lenient reader only; 9 earlier contents_only books rebuilt (mostly more headings found), map unit counts refreshed. Earlier fables work still unlocated. No uids minted; not in manifest.
+
+## 2026-10-02 16:13 CDT — nesbit: done
+- 33/33 fetched (Gutenberg), 0 copyright markers; 48,200 units. Bastable and Psammead books, Railway Children, Arden books, fantasies, dragon and fairy collections, Shakespeare retellings, Royal Children, adult novels, stories, verse. 16 books read chapters from their own Contents. Remaining ~n ids are in publishers' back-matter. No uids minted; not in manifest.
