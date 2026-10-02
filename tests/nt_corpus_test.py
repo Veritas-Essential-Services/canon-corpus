@@ -214,6 +214,19 @@ try:
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
+import subprocess  # noqa: E402
+_saved = open(os.path.join(PIPE, "build_nt_corpus.py"), encoding="utf-8").read()
+_narrow = os.path.join(tempfile.mkdtemp(), "pipeline")
+shutil.copytree(PIPE, _narrow, ignore=shutil.ignore_patterns("__pycache__"))
+with open(os.path.join(_narrow, "build_nt_corpus.py"), "w", encoding="utf-8") as f:
+    f.write(_saved.replace("SCOPE = [stem for stem, _, _ in BOOKS]", 'SCOPE = ["JOH"]', 1))
+_r = subprocess.run([sys.executable, os.path.join(_narrow, "build_nt_corpus.py"), "--check",
+                     "--out", os.path.join(os.path.dirname(_narrow), "out")],
+                    capture_output=True, text=True)
+check("a narrowed SCOPE refuses to write or --check (it would drop the other books)",
+      _r.returncode != 0 and "SCOPE is narrowed" in (_r.stdout + _r.stderr), _r.stderr[-200:])
+shutil.rmtree(os.path.dirname(_narrow), ignore_errors=True)
+
 print("\n--- versification: the Romans doxology (house default), the TR-only verses")
 vm = manifest["versification"]
 dox = [w for w in witnesses if w.get("rp_ref")]
@@ -732,6 +745,15 @@ else:
                   sorted(b4) == sorted([f"{k}.jsonl" for k in B.FILES] + ["manifest.json"])
                   and all(b4[f"{k}.jsonl"] == open(os.path.join(DATA, "John", f"{k}.jsonl"), "rb").read()
                           for k in B.FILES))
+            flat_root = os.path.join(tmp, "flat")
+            os.makedirs(os.path.join(flat_root, "data", "nt"))
+            for fn, blob in b4.items():
+                with open(os.path.join(flat_root, "data", "nt", fn), "wb") as f:
+                    f.write(blob)
+            fl = B.load_nt(flat_root)
+            check("... and load_nt() reads a flat layout once, not once per book",
+                  len(fl["passages"]) == sh["books"]["John"]["verses"]
+                  and len(fl["tokens"]) == sh["books"]["John"]["tokens"])
         finally:
             B.SCOPE, B.VERSIFICATION_MAP, B.SHARD = saved_scope, saved_map, saved_shard
     finally:

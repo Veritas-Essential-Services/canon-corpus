@@ -144,7 +144,9 @@ BOOK = {stem: (num, osis) for stem, num, osis in BOOKS}
 BOOK_OSIS = {osis for _, _, osis in BOOKS}
 
 # What the build covers: every book (2026-10-02; the pilot was John 1:1-18).
-# Narrow it to a list of stems to build less; nothing else needs to change.
+# build() takes a narrowed list (tests, --report), but main() refuses to WRITE
+# or --check one: the manifest would lose the other books, the way a partial
+# build once rewrote data/books/manifest.json (CLAUDE.md, 2026-09-06).
 SCOPE = [stem for stem, _, _ in BOOKS]
 
 # The pilot pericope. A label, not an identity (nothing is minted for it): the
@@ -1170,7 +1172,8 @@ def load_nt(root=ROOT, pericope=None, books=None):
     with open(os.path.join(d, "manifest.json"), encoding="utf-8") as fh:
         man = json.load(fh)
     sh = man.get("shards") or {}
-    order = sh.get("order") or [None]
+    flat = sh.get("layout", "flat") == "flat"
+    order = [None] if flat else sh["order"]
     if books is None and pericope == PILOT["pericope"]:
         books = [PILOT["osis_book"]]
     out = {k: [] for k in FILES}
@@ -1178,7 +1181,7 @@ def load_nt(root=ROOT, pericope=None, books=None):
         if b is not None and books is not None and b not in books:
             continue
         for k in FILES:
-            rel = f"{k}.jsonl" if b is None or sh.get("layout") == "flat" else f"{sh['books'][b]['dir']}/{k}.jsonl"
+            rel = f"{k}.jsonl" if b is None else f"{sh['books'][b]['dir']}/{k}.jsonl"
             with open(os.path.join(d, rel), encoding="utf-8") as fh:
                 out[k].extend(json.loads(line) for line in fh if line.strip())
     if pericope is not None:
@@ -1270,6 +1273,9 @@ def main():
         print("  first pair failures:", s["pair_fail"][:12])
         return
 
+    if not a.report and sorted(SCOPE) != sorted(BOOK):
+        raise SystemExit("HARD STOP: SCOPE is narrowed; writing or checking it would drop the other "
+                         "books from data/nt/. Use --report, or restore SCOPE to every book.")
     # FROZEN: a Greek verse reuses its verse's uid or the build stops.
     reg = U.WhUidRegistry(a.uids, frozen=True)
     data, manifest = build(reg)

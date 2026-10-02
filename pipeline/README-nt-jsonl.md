@@ -548,8 +548,10 @@ row shows `✓`, and a revised draft shows its new value with the cell open agai
 
 ## 16. The full run (2026-10-02): two house defaults, each one edit
 
-The build now reads every book (`SCOPE` in `build_nt_corpus.py`; narrow it to
-a list of stems to build less). It needed the two answers s.10 named. Both
+The build now reads every book (`SCOPE` in `build_nt_corpus.py`). A narrowed
+`SCOPE` is for tests and `--report` only: the build refuses to write or
+`--check` one, because the manifest would lose the other books (the
+partial-build trap in CLAUDE.md). It needed the two answers s.10 named. Both
 are still **Adam's rulings**. Until he makes them, the build uses the
 defaults below, the manifest records each under `rulings`-style blocks with
 `status: "house default, awaiting Adam's ruling"`, and changing either is one
