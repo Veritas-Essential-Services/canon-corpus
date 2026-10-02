@@ -1701,7 +1701,7 @@
   "scheme": {
    "citation": "Soph. Aj. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (514 of 519 segments run 5 Greek lines or fewer; the longest runs 10)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1721,7 +1721,7 @@
   "scheme": {
    "citation": "Soph. Ant. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (514 of 515 segments run 5 Greek lines or fewer; the longest runs 6)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1741,7 +1741,7 @@
   "scheme": {
    "citation": "Soph. El. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (625 of 627 segments run 5 Greek lines or fewer; the longest runs 10)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1761,7 +1761,7 @@
   "scheme": {
    "citation": "Soph. OC line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (738 of 739 segments run 5 Greek lines or fewer; the longest runs 6)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1781,7 +1781,7 @@
   "scheme": {
    "citation": "Soph. OT line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (665 of 667 segments run 5 Greek lines or fewer; the longest runs 10)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1801,7 +1801,7 @@
   "scheme": {
    "citation": "Soph. Phil. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (590 of 593 segments run 5 Greek lines or fewer; the longest runs 10)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1821,7 +1821,7 @@
   "scheme": {
    "citation": "Soph. Trach. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (473 of 473 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1841,7 +1841,7 @@
   "scheme": {
    "citation": "Aesch. Ag. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (513 of 515 segments run 5 Greek lines or fewer; the longest runs 7)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). 52 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1861,7 +1861,7 @@
   "scheme": {
    "citation": "Aesch. Eum. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (356 of 360 segments run 5 Greek lines or fewer; the longest runs 13)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 33 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1881,7 +1881,7 @@
   "scheme": {
    "citation": "Aesch. Cho. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (386 of 391 segments run 5 Greek lines or fewer; the longest runs 11)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 42 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1901,7 +1901,7 @@
   "scheme": {
    "citation": "Aesch. Pers. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (376 of 377 segments run 5 Greek lines or fewer; the longest runs 10)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 9 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1921,7 +1921,7 @@
   "scheme": {
    "citation": "Aesch. PV line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (391 of 391 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 13 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1941,7 +1941,7 @@
   "scheme": {
    "citation": "Aesch. Sept. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (367 of 369 segments run 5 Greek lines or fewer; the longest runs 10)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 18 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1961,7 +1961,7 @@
   "scheme": {
    "citation": "Aesch. Supp. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (391 of 395 segments run 5 Greek lines or fewer; the longest runs 11)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 26 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -1981,7 +1981,7 @@
   "scheme": {
    "citation": "Eur. Alc. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (490 of 490 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 26 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
   },
   "rights": {
@@ -2001,7 +2001,7 @@
   "scheme": {
    "citation": "Eur. Andr. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (433 of 435 segments run 5 Greek lines or fewer; the longest runs 6)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 72 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (11)."
   },
   "rights": {
@@ -2021,7 +2021,7 @@
   "scheme": {
    "citation": "Eur. Ba. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (524 of 524 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 6 segment(s) contain a lacuna the translator marks as lost (drama.gap). 19 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -2041,7 +2041,7 @@
   "scheme": {
    "citation": "Eur. Cyc. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (334 of 335 segments run 5 Greek lines or fewer; the longest runs 6)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 4 segment(s) contain a lacuna the translator marks as lost (drama.gap). 13 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (4)."
   },
   "rights": {
@@ -2061,7 +2061,7 @@
   "scheme": {
    "citation": "Eur. El. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (564 of 564 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
   },
   "rights": {
@@ -2081,7 +2081,7 @@
   "scheme": {
    "citation": "Eur. Hec. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (485 of 485 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
   },
   "rights": {
@@ -2101,7 +2101,7 @@
   "scheme": {
    "citation": "Eur. Hel. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (739 of 739 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
   },
   "rights": {
@@ -2121,7 +2121,7 @@
   "scheme": {
    "citation": "Eur. Heracl. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (380 of 380 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 51 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (8)."
   },
   "rights": {
@@ -2141,7 +2141,7 @@
   "scheme": {
    "citation": "Eur. HF line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (527 of 527 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
   },
   "rights": {
@@ -2161,7 +2161,7 @@
   "scheme": {
    "citation": "Eur. Hipp. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (546 of 551 segments run 5 Greek lines or fewer; the longest runs 19)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 53 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
   },
   "rights": {
@@ -2181,7 +2181,7 @@
   "scheme": {
    "citation": "Eur. Ion line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (747 of 748 segments run 5 Greek lines or fewer; the longest runs 6)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 2 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
   },
   "rights": {
@@ -2201,7 +2201,7 @@
   "scheme": {
    "citation": "Eur. IA line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (662 of 664 segments run 5 Greek lines or fewer; the longest runs 70)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 125 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
   },
   "rights": {
@@ -2221,7 +2221,7 @@
   "scheme": {
    "citation": "Eur. IT line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (642 of 642 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 3 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (8)."
   },
   "rights": {
@@ -2241,7 +2241,7 @@
   "scheme": {
    "citation": "Eur. Med. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (494 of 494 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 37 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
   },
   "rights": {
@@ -2261,7 +2261,7 @@
   "scheme": {
    "citation": "Eur. Or. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (772 of 772 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 1 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (11)."
   },
   "rights": {
@@ -2281,7 +2281,7 @@
   "scheme": {
    "citation": "Eur. Phoen. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (696 of 696 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (12)."
   },
   "rights": {
@@ -2301,7 +2301,7 @@
   "scheme": {
    "citation": "Eur. Rh. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (375 of 375 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 2 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (12)."
   },
   "rights": {
@@ -2321,7 +2321,7 @@
   "scheme": {
    "citation": "Eur. Supp. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (464 of 464 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 2 segment(s) contain a lacuna the translator marks as lost (drama.gap). 55 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
   },
   "rights": {
@@ -2341,7 +2341,7 @@
   "scheme": {
    "citation": "Eur. Tro. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (437 of 437 segments run 5 Greek lines or fewer; the longest runs 5)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 11 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
   },
   "rights": {
@@ -2361,7 +2361,7 @@
   "scheme": {
    "citation": "Ar. Nub. line (Greek lineation)",
    "resolution": "segment",
-   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it, not to an exact line (671 of 678 segments run 5 Greek lines or fewer; the longest runs 9)",
    "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 4 footnote(s) lifted out of the spoken text into drama.notes."
   },
   "rights": {
@@ -7150,6 +7150,526 @@
    "source_url": "https://github.com/PerseusDL/canonical-greekLit",
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-amphitryon-riley": {
+  "title": "Amphitryon, or Jupiter in Disguise",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "6895e225b9d0dd1eaa7732a3c5e6a0e8de8263ee7b319f526d1a6d1e922a648e",
+  "units": 874,
+  "scheme": {
+   "citation": "Pl. Am. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (529 of 539 segments run 5 Latin lines or fewer; the longest runs 20)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 107 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-asinaria-riley": {
+  "title": "Asinaria, or The Ass-Dealer",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "85d6082d738b57d8948143c8658f9f1200be86a32254fed527f7a2126bb39746",
+  "units": 706,
+  "scheme": {
+   "citation": "Pl. As. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (514 of 518 segments run 5 Latin lines or fewer; the longest runs 8)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). 100 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-aulularia-riley": {
+  "title": "Aulularia, or The Concealed Treasure",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "2f21f8b5e723d0928fa07e5245d02c5b76141403b61defe9a8712cd172cccdb2",
+  "units": 578,
+  "scheme": {
+   "citation": "Pl. Aul. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (399 of 401 segments run 5 Latin lines or fewer; the longest runs 6)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 2 segment(s) contain a lacuna the translator marks as lost (drama.gap). 125 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-bacchides-riley": {
+  "title": "Bacchides, or The Twin Sisters",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "04fd3b167d9a51d71df55d4959688554eac176ece26e1e833c6390ba40e96743",
+  "units": 937,
+  "scheme": {
+   "citation": "Pl. Bac. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (632 of 642 segments run 5 Latin lines or fewer; the longest runs 24)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 27 segment(s) contain a lacuna the translator marks as lost (drama.gap). 164 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-captivi-riley": {
+  "title": "Captivi: The Captives",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "bc5023b4f5c8e7719653dd8215eea3dcae57ba80eb6ce9593233a44367e911c8",
+  "units": 635,
+  "scheme": {
+   "citation": "Pl. Capt. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (492 of 493 segments run 5 Latin lines or fewer; the longest runs 54)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 119 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-casina-riley": {
+  "title": "Casina, or The Stratagem Defeated",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "a10694fae636be150f38f9d867e88e8530059a484189e28a77c22b56490298ce",
+  "units": 751,
+  "scheme": {
+   "citation": "Pl. Cas. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (502 of 511 segments run 5 Latin lines or fewer; the longest runs 10)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 15 segment(s) contain a lacuna the translator marks as lost (drama.gap). 95 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-cistellaria-riley": {
+  "title": "Cistellaria, or The Casket",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "b667cba06d91563e2b49a80f4c1dbf22d4be366b6b5fb8850a4e7129f4b03e7b",
+  "units": 345,
+  "scheme": {
+   "citation": "Pl. Cist. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (250 of 254 segments run 5 Latin lines or fewer; the longest runs 267)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 2 segment(s) contain a lacuna the translator marks as lost (drama.gap). 41 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-curculio-riley": {
+  "title": "Curculio, or The Forgery",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "f680ff7ff55dbbee65c8c92b069edf9a95a1212c822be2121b5c3ac327bb1d47",
+  "units": 617,
+  "scheme": {
+   "citation": "Pl. Curc. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (419 of 423 segments run 5 Latin lines or fewer; the longest runs 10)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 6 segment(s) contain a lacuna the translator marks as lost (drama.gap). 115 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-epidicus-riley": {
+  "title": "Epidicus, or The Fortunate Discovery",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "e33f9e556fdc038efd57c912325b9cb1e9297ab877b667f61b6d99cbdbcb1efc",
+  "units": 683,
+  "scheme": {
+   "citation": "Pl. Epid. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (448 of 450 segments run 5 Latin lines or fewer; the longest runs 4044)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 83 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-menaechmi-riley": {
+  "title": "Menaechmi, or The Twin Brothers",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "68859d4163fd84a740bf99d1452de3385faa03836130adc3cddf1bcd231768a2",
+  "units": 825,
+  "scheme": {
+   "citation": "Pl. Men. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (591 of 602 segments run 5 Latin lines or fewer; the longest runs 26)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 31 segment(s) contain a lacuna the translator marks as lost (drama.gap). 109 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-mercator-riley": {
+  "title": "Mercator, or The Merchant",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "2ceb3b55b94d7731905f427f105f2ed69f9440c4322fa4936a2682200cf799d1",
+  "units": 959,
+  "scheme": {
+   "citation": "Pl. Merc. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (574 of 583 segments run 5 Latin lines or fewer; the longest runs 14)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 52 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-miles-gloriosus-riley": {
+  "title": "Miles Gloriosus, or The Braggart Captain",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "f6ea5f74a6aeb1b27a99c900dba5fe02eee9096d4a9e036e9a0a865a911c013c",
+  "units": 1177,
+  "scheme": {
+   "citation": "Pl. Mil. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (820 of 824 segments run 5 Latin lines or fewer; the longest runs 9)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 12 segment(s) contain a lacuna the translator marks as lost (drama.gap). 170 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-mostellaria-riley": {
+  "title": "Mostellaria, or The Haunted House",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "92c94330fa67f2e50e2ff052484a66bbf0fec17927c90a6690546e17cec1fee1",
+  "units": 988,
+  "scheme": {
+   "citation": "Pl. Mos. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (662 of 675 segments run 5 Latin lines or fewer; the longest runs 9975)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 2 segment(s) contain a lacuna the translator marks as lost (drama.gap). 85 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-persa-riley": {
+  "title": "Persa, or The Persian",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "28db968efeff9f35b31ef6ddb6b44ef079436a442e2948b19f5ba4cd7c609041",
+  "units": 845,
+  "scheme": {
+   "citation": "Pl. Per. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (545 of 547 segments run 5 Latin lines or fewer; the longest runs 8)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 85 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-poenulus-riley": {
+  "title": "Poenulus, or The Young Carthaginian",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "f44ed2deb4761da5a234547b7f6564b1ee5dab2ce8635a5a8f461e702293bf1a",
+  "units": 1126,
+  "scheme": {
+   "citation": "Pl. Poen. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (767 of 773 segments run 5 Latin lines or fewer; the longest runs 200)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). 152 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-pseudolus-riley": {
+  "title": "Pseudolus, or The Cheat",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "54d6e0f7aa0d2f30a8ce2701cee507c248e4cb8c2b4b900f48393a5461470985",
+  "units": 1052,
+  "scheme": {
+   "citation": "Pl. Ps. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (700 of 707 segments run 5 Latin lines or fewer; the longest runs 3090)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 8 segment(s) contain a lacuna the translator marks as lost (drama.gap). 123 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-rudens-riley": {
+  "title": "Rudens, or The Fisherman's Rope",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "bbe594802c2eb269ee72d2c9c55a55d02c66c38af2fadb554b52e9e5a2da01c6",
+  "units": 1097,
+  "scheme": {
+   "citation": "Pl. Rud. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (790 of 793 segments run 5 Latin lines or fewer; the longest runs 13)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 11 segment(s) contain a lacuna the translator marks as lost (drama.gap). 129 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-stichus-riley": {
+  "title": "Stichus, or The Parasite Rebuffed",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "7bf256f2295efeed8f218f192f296291edde2049a2a975dcc6401200984cb37f",
+  "units": 560,
+  "scheme": {
+   "citation": "Pl. St. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (396 of 400 segments run 5 Latin lines or fewer; the longest runs 25)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 14 segment(s) contain a lacuna the translator marks as lost (drama.gap). 115 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-trinummus-riley": {
+  "title": "Trinummus:  The Three Pieces of Money",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "f72d3cfacad888db24c0a1e1f2c154d2e4aef1f0cbc40163baaccd19f4b2bccc",
+  "units": 811,
+  "scheme": {
+   "citation": "Pl. Trin. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (582 of 584 segments run 5 Latin lines or fewer; the longest runs 9)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 7 segment(s) contain a lacuna the translator marks as lost (drama.gap). 155 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plautus-truculentus-riley": {
+  "title": "Truculentus, or The Churl",
+  "author": "Plautus",
+  "format": "tei",
+  "sha256": "0649bc778618f92c74f671a2eb86cea8118c93bd6fc18d9b4a5bc3efbe05e6b3",
+  "units": 686,
+  "scheme": {
+   "citation": "Pl. Truc. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (491 of 494 segments run 5 Latin lines or fewer; the longest runs 11)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 5 segment(s) contain a lacuna the translator marks as lost (drama.gap). 108 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "terence-adelphi-riley": {
+  "title": "Adelphi; or, The Brothers",
+  "author": "Publius Terentius Afer (Terence)",
+  "format": "tei",
+  "sha256": "593300aff4be88d9b319736001654979a153d20c7c7aac6371602b5f81cb01c3",
+  "units": 788,
+  "scheme": {
+   "citation": "Ter. Ad. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (523 of 524 segments run 5 Latin lines or fewer; the longest runs 101)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 109 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "terence-andria-riley": {
+  "title": "Andria; or, The Fair Andrian",
+  "author": "Publius Terentius Afer (Terence)",
+  "format": "tei",
+  "sha256": "403328b0b0bafb395873bcfd593f52eec1b7c647596cce63d97ca07538292c42",
+  "units": 901,
+  "scheme": {
+   "citation": "Ter. An. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (531 of 532 segments run 5 Latin lines or fewer; the longest runs 101)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 102 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "terence-eunuchus-riley": {
+  "title": "Eunuchus; or, The Eunuch",
+  "author": "Publius Terentius Afer (Terence)",
+  "format": "tei",
+  "sha256": "e5c74cb114b2c6b9c4aabe0b9f2bb8f46154bbf7b68895b2b60bf89ea9bd9e83",
+  "units": 931,
+  "scheme": {
+   "citation": "Ter. Eun. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (595 of 598 segments run 5 Latin lines or fewer; the longest runs 55)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 120 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "terence-heautontimorumenos-riley": {
+  "title": "Heautontimorumenos; or, The Self-Tormenter",
+  "author": "Publius Terentius Afer (Terence)",
+  "format": "tei",
+  "sha256": "8f73d54ad90d24ddc711341c1fefe1d0421ebc175ab1e931829064bbc2642482",
+  "units": 908,
+  "scheme": {
+   "citation": "Ter. Haut. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (577 of 577 segments run 5 Latin lines or fewer; the longest runs 5)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 107 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "terence-hecyra-riley": {
+  "title": "Hecyra; The Mother-In-Law",
+  "author": "Publius Terentius Afer (Terence)",
+  "format": "tei",
+  "sha256": "c1c81afc7f0772cee6d8eb671c2475df663221c2db6fff3106484cd5b97dc955",
+  "units": 515,
+  "scheme": {
+   "citation": "Ter. Hec. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (393 of 397 segments run 5 Latin lines or fewer; the longest runs 6)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 64 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "terence-phormio-riley": {
+  "title": "Phormio; or, The Scheming Parasite",
+  "author": "Publius Terentius Afer (Terence)",
+  "format": "tei",
+  "sha256": "d0b04bcb86fa28986fe849895d5b76e3e5c963ded0caf0f0771057688462bbe0",
+  "units": 995,
+  "scheme": {
+   "citation": "Ter. Ph. line (Latin lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Latin line numbers: a citation resolves to the segment that contains it, not to an exact line (615 of 616 segments run 5 Latin lines or fewer; the longest runs 6)",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 93 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  }
 }

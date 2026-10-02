@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 140 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 144 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -171,6 +171,10 @@ The living truth for project state is the Obsidian vault:
   Casaubon pages; Appian: White's chapter before the standard section;
   Appian's fragment books), and `TEI_PROSE_LEVELS` renames a level the
   source misnames.
+- Roman comedy (2026-10-02): Plautus' 20 plays and Terence's 6, H. T. Riley's
+  prose, through convert_tei_drama: one unit per segment at the LATIN line
+  ("Pl. Am. 153"), with act, scene and scene heads under `drama`. Every
+  drama book's honesty now states its measured segment lengths.
   convert_tei_prose: one unit per innermost textpart div, id = born-in
   book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
   Footnotes under `apparatus.notes`, headings between divisions under

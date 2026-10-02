@@ -1055,6 +1055,32 @@ TEI_DRAMA = {
     "euripides-iphigenia-aulis-coleridge": "Eur. IA",
     "euripides-rhesus-coleridge": "Eur. Rh.",
     "aristophanes-clouds-hickie": "Ar. Nub.",
+    "plautus-amphitryon-riley": "Pl. Am.",
+    "plautus-asinaria-riley": "Pl. As.",
+    "plautus-aulularia-riley": "Pl. Aul.",
+    "plautus-bacchides-riley": "Pl. Bac.",
+    "plautus-captivi-riley": "Pl. Capt.",
+    "plautus-casina-riley": "Pl. Cas.",
+    "plautus-cistellaria-riley": "Pl. Cist.",
+    "plautus-curculio-riley": "Pl. Curc.",
+    "plautus-epidicus-riley": "Pl. Epid.",
+    "plautus-menaechmi-riley": "Pl. Men.",
+    "plautus-mercator-riley": "Pl. Merc.",
+    "plautus-miles-gloriosus-riley": "Pl. Mil.",
+    "plautus-mostellaria-riley": "Pl. Mos.",
+    "plautus-persa-riley": "Pl. Per.",
+    "plautus-poenulus-riley": "Pl. Poen.",
+    "plautus-pseudolus-riley": "Pl. Ps.",
+    "plautus-rudens-riley": "Pl. Rud.",
+    "plautus-stichus-riley": "Pl. St.",
+    "plautus-trinummus-riley": "Pl. Trin.",
+    "plautus-truculentus-riley": "Pl. Truc.",
+    "terence-andria-riley": "Ter. An.",
+    "terence-heautontimorumenos-riley": "Ter. Haut.",
+    "terence-eunuchus-riley": "Ter. Eun.",
+    "terence-phormio-riley": "Ter. Ph.",
+    "terence-hecyra-riley": "Ter. Hec.",
+    "terence-adelphi-riley": "Ter. Ad.",
 }
 # Per-book line-number fixes (rule 2: never hand-edit a source; fix here so it
 # reruns on refetch). Each is a typo in the Perseus file, shown by context.
@@ -1077,6 +1103,10 @@ def convert_tei_drama(path, slug, abbrev):
     body = root.find(f".//{T}body")
     units, pending_stage, pending_notes, pending_sic, fixes, gaps = [], [], [], [], 0, 0
     section, speaker, personae = "", "", []
+    # Roman comedy is divided into acts and scenes (Pl. Am. act 1, scene 2),
+    # and heads them ("THE PROLOGUE."): both ride on the next unit. The
+    # Greek plays have neither, so nothing changes for them.
+    where, pending_head = {}, []
 
     note_of, seg_text = tei_note, tei_split
 
@@ -1085,6 +1115,15 @@ def convert_tei_drama(path, slug, abbrev):
         tag = e.tag
         if tag == T + "div" and e.get("type") == "textpart":
             section = e.get("subtype") or section
+            if section in ("act", "scene"):
+                where[section] = e.get("n") or ""
+                if section == "act":
+                    where.pop("scene", None)
+        elif tag == T + "head":
+            t, s2, n2, c2 = seg_text(e)
+            if t: pending_head.append(t)
+            pending_notes.extend(n2)
+            return
         elif tag == T + "speaker":
             speaker = clean("".join(e.itertext()))
             return
@@ -1112,6 +1151,10 @@ def convert_tei_drama(path, slug, abbrev):
             gap = e.find(f".//{T}gap") is not None
             gaps += gap
             drama = {"speaker": speaker, "section": section}
+            drama.update(where)
+            if pending_head:
+                drama["head"] = list(pending_head)
+                pending_head.clear()
             if pending_stage or inner:
                 drama["stage"] = pending_stage + inner
             if pending_notes or inotes:
@@ -1127,10 +1170,11 @@ def convert_tei_drama(path, slug, abbrev):
                 units.append({"id": f"{slug}:{n}", "ref": f"{abbrev} {n}",
                               "text": text, "links": [], "drama": drama})
             elif units:
-                for k in ("stage", "notes", "sic"):
+                for k in ("stage", "notes", "sic", "head"):
                     if drama.get(k):
                         units[-1]["drama"].setdefault(k, []).extend(drama[k])
             else:
+                pending_head.extend(drama.get("head", []))
                 pending_stage.extend(drama.get("stage", []))
                 pending_notes.extend(drama.get("notes", []))
                 pending_sic.extend(drama.get("sic", []))
@@ -1142,18 +1186,30 @@ def convert_tei_drama(path, slug, abbrev):
 
     visit(body)
     if units:                                   # the closing exit, a last note
-        for k, v in (("stage", pending_stage), ("notes", pending_notes), ("sic", pending_sic)):
+        for k, v in (("stage", pending_stage), ("notes", pending_notes), ("sic", pending_sic),
+                     ("head", pending_head)):
             if v:
                 units[-1]["drama"].setdefault(k, []).extend(v)
     nnotes = sum(len(u["drama"].get("notes", [])) for u in units)
+    # The original's language (Plautus and Terence are cited by the Latin
+    # line), and how long the segments really run -- measured, not assumed.
+    base = body.get("{http://www.w3.org/XML/1998/namespace}base") or ""
+    lang = "Latin" if ":latinLit:" in base else "Greek"
+    starts = [int(m.group()) for m in (re.match(r"\d+", u["id"].split(":", 1)[1])
+                                       for u in units) if m]
+    steps = [b - a for a, b in zip(starts, starts[1:]) if b > a]
+    longest = max(steps, default=1)
+    within5 = sum(1 for x in steps if x <= 5)
     book = {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
                        "translator": transl, "sha256": sha256(path)},
-            "scheme": {"citation": f"{abbrev} line (Greek lineation)",
+            "scheme": {"citation": f"{abbrev} line ({lang} lineation)",
                        "resolution": "segment",
-                       "honesty": "prose translation segmented at Greek line numbers: "
-                                  "a citation resolves to the segment that contains it "
-                                  "(segments run 1-5 Greek lines), not to an exact line",
+                       "honesty": f"prose translation segmented at {lang} line numbers: "
+                                  "a citation resolves to the segment that contains it, "
+                                  f"not to an exact line ({within5:,} of {len(steps):,} "
+                                  f"segments run 5 {lang} lines or fewer; the longest "
+                                  f"runs {longest})",
                        "note": f"Perseus TEI, one unit per <l> segment; speaker, choral "
                                f"section and stage directions under each unit's `drama` "
                                f"(stage directions are kept out of the spoken text, never "

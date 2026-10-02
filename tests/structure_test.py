@@ -364,7 +364,7 @@ check("drama: a footnote inside a stage direction goes to notes, not into the di
 check("drama: a licence line in the file is the one recorded",
       "CC BY-SA licence line" in dr2["rights"]["note"])
 os.unlink(dr2_path)
-_dramatists = ("sophocles-", "aeschylus-", "euripides-", "aristophanes-")
+_dramatists = ("sophocles-", "aeschylus-", "euripides-", "aristophanes-", "plautus-", "terence-")
 check("drama: every play in the fetch manifest has a converter abbreviation, and back",
       {k for k in load("fetch_sources").PERSEUS if k.startswith(_dramatists)}
       == set(st.TEI_DRAMA))
@@ -889,6 +889,31 @@ check("honesty: every override names a prose book; every Appian book but the pre
       and all(k in st.TEI_PROSE for k in st.TEI_PROSE_LEVELS)
       and all(k in st.TEI_PROSE_HONESTY for k in st.TEI_PROSE
               if k.startswith("appian-") and "preface" not in k))
+
+# Roman comedy (Plautus, Terence; 2026-10-02). Invented text: acts and
+# scenes, a scene head, the Latin line.
+_PL = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Am</title>'
+       '</titleStmt></fileDesc></teiHeader><text><body xml:base="urn:cts:latinLit:phi0119.phi001.perseus-eng2">'
+       '<div type="translation"><div type="textpart" subtype="act" n="1">'
+       '<div type="textpart" subtype="scene" n="1"><head>THE PROLOGUE.</head>'
+       '<sp><speaker>MERCURY</speaker><l n="1">As you buy and sell,</l><l n="6">so hear me.</l></sp>'
+       '</div><div type="textpart" subtype="scene" n="2"><sp><speaker>SOSIA</speaker>'
+       '<l n="153">Who is bolder than I?</l></sp></div></div></div></body></text></TEI>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_PL)
+st.CORPUS = os.path.dirname(_fh.name)
+_pb = st.convert_tei_drama(_fh.name, "am", "Pl. Am.")
+st.CORPUS = _saved[0]
+os.unlink(_fh.name)
+_pu = {u["id"]: u for u in _pb["units"]}
+check("roman comedy: cited by the Latin line",
+      _pb["scheme"]["citation"] == "Pl. Am. line (Latin lineation)")
+check("roman comedy: act and scene ride on each unit",
+      _pu["am:1"]["drama"].get("act") == "1" and _pu["am:153"]["drama"].get("scene") == "2")
+check("roman comedy: a scene head is kept, on the next unit",
+      _pu["am:1"]["drama"].get("head") == ["THE PROLOGUE."] and "head" not in _pu["am:6"]["drama"])
+check("drama honesty: segment length is measured, not assumed",
+      "the longest runs 147" in _pb["scheme"]["honesty"])
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
