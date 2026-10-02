@@ -121,17 +121,21 @@
     },
     {
       "id": "goodwin",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Goodwin: Works (Nichol, 12 vols)",
       "added": "2026-10-02T15:56:35-05:00",
-      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)",
+      "started": "2026-10-02T16:11:33-05:00",
+      "finished": "2026-10-02T16:13:27-05:00",
+      "notes": "Nichol 12 vols IA"
     },
     {
       "id": "rutherford",
-      "status": "todo",
+      "status": "running",
       "scope": "Samuel Rutherford: Letters and other works; cross-reference the Bonar-edited items already on the Andrew Bonar shelf, don't refetch",
       "added": "2026-10-02T15:56:35-05:00",
-      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)",
+      "started": "2026-10-02T16:13:13-05:00"
     },
     {
       "id": "mcheyne",

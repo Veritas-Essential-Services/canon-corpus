@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:09 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:13 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -29,6 +29,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | Thomas Watson | watson_shelf.json | 6 CCEL (Body of Divinity, Commandments, Lord's Prayer, Beatitudes, Contentment, Cordial) | 2 (Select Works 1855, Saints' Spiritual Delight 1830) | Godly Man's Picture, Repentance, Heaven Taken by Storm | other Watsons |
 | Richard Baxter | baxter_shelf.json | 4 CCEL (Reformed Pastor, Saints' Rest, Call to the Unconverted, Causes and Danger) + 4 Gutenberg (Christian Directory) | 23 (Orme Practical Works 1830, complete) | Reliquiae Baxterianae, controversial works | Wesley abridgement, a CCEL stub |
 | Thomas Brooks | brooks_shelf.json | 0 (no CCEL or Gutenberg) | 6 (Grosart Complete Works 1866-67, complete) | a clean Precious Remedies | Welsh translation, anthology, other Brookses |
+| Thomas Goodwin | goodwin_shelf.json | 0 (none exists) | 12 (Nichol Works 1861-66, complete) | a clean Heart of Christ | two other Goodwins on PG and CCEL |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -90,3 +90,7 @@
 
 ## 2026-10-02 16:09 CDT — brooks done
 - `pipeline/brooks_shelf.json`: Grosart's Complete Works, all 6 volumes, raw IA OCR (Toronto scans, volume numbers read off title pages). `--verify`: 0 mismatched. CCEL `ccel/brooks` returned 404; no Gutenberg Brooks. 0 uids minted.
+
+## 2026-10-02 16:13 CDT — goodwin done
+- `pipeline/goodwin_shelf.json`: Nichol's Works, all 12 volumes, raw IA OCR. `--verify`: 0 mismatched.
+- Name traps recorded under `_excluded`: Gutenberg's only "Thomas Goodwin" (PG 52639, Moses and Aaron) is the schoolmaster who died in 1642, and CCEL's `goodwin` is William Watson Goodwin's Greek Grammar. 0 uids minted.

@@ -1,0 +1,68 @@
+{
+ "_about": "Every public-domain Thomas Goodwin (1600-1680, President of Magdalen College, Oxford) text the Word Hoard holds. The target is Nichol's edition, The Works of Thomas Goodwin, D.D. (Nichol's Series of Standard Divines, 12 vols, 1861-1866), Internet Archive OCR text, raw and unconverted (the Edwards precedent); one complete scan series, each volume number read off its title-page OCR. CCEL has no Thomas Goodwin (its 'goodwin' is William Watson Goodwin's Greek Grammar) and Gutenberg has none (its 'Moses and Aaron' is by a different Thomas Goodwin, d. 1642). Modern reprints are excluded.",
+ "_ccel_author": "",
+ "_name_words": [
+  "goodwin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "goodwin-works-nichol-01": [
+   "worksofthomasgoo01good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 1"
+  ],
+  "goodwin-works-nichol-02": [
+   "worksofthomasgoo02good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 2"
+  ],
+  "goodwin-works-nichol-03": [
+   "worksofthomasgoo03good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 3"
+  ],
+  "goodwin-works-nichol-04": [
+   "worksofthomasgoo04good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 4"
+  ],
+  "goodwin-works-nichol-05": [
+   "worksofthomasgoo05good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 5"
+  ],
+  "goodwin-works-nichol-06": [
+   "worksofthomasgoo06good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 6"
+  ],
+  "goodwin-works-nichol-07": [
+   "worksofthomasgoo07good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 7"
+  ],
+  "goodwin-works-nichol-08": [
+   "worksofthomasgoo08good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 8"
+  ],
+  "goodwin-works-nichol-09": [
+   "worksofthomasgoo09good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 9"
+  ],
+  "goodwin-works-nichol-10": [
+   "worksofthomasgoo10good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 10"
+  ],
+  "goodwin-works-nichol-11": [
+   "worksofthomasgoo11good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 11"
+  ],
+  "goodwin-works-nichol-12": [
+   "worksofthomasgoo12good",
+   "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-1866), vol. 12"
+  ]
+ },
+ "_alternates": {
+  "goodwinsworks*gooduoft, theworksofthomas0[1,4,5]gooduoft, worksthomasgood*goodgoog, worksthomasgood0*unkngoog": "Further scans of the Nichol set (Toronto and Google); not fetched: duplicates.",
+  "bim_early-english-books-*_goodwin-thomas_1681..1697, bim_eighteenth-century_the-works-of-thomas-good_goodwin-thomas_1681_*, worksofthomasgoo0005unse": "The first collected Works (5 folio vols, 1681-1704); long-s OCR; Nichol supersedes them."
+ },
+ "_excluded": {
+  "PG 52639": "Moses and Aaron, by Thomas Goodwin (d. 1642), schoolmaster and antiquary: a different person",
+  "CCEL goodwin/greekgrammar": "William Watson Goodwin's Greek Grammar: a different person"
+ }
+}

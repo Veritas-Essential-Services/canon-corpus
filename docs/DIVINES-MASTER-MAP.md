@@ -367,6 +367,29 @@ Target: Grosart's *Complete Works of Thomas Brooks* (Edinburgh: James Nichol, 18
 | Other scans of Grosart; Apples of Gold 1814/1859; London's Lamentations 1670; 18th-century printings | alternate | texts are in Grosart |
 | Clean text of Precious Remedies against Satan's Devices | wishlist | no PD machine-readable edition found |
 | Welsh Privie Key (1845); Great Gain (1869 anthology); other Thomas Brookses | excluded | not English / not Brooks's text / different people |
+
+
+## Thomas Goodwin (round 2, 2026-10-02)
+
+Target: Nichol's *Works of Thomas Goodwin, D.D.* (Edinburgh, 1861-1866), 12 volumes, all held as raw IA OCR from one complete scan series, each volume number read off its title page. No CCEL or Gutenberg text of this Thomas Goodwin exists.
+
+| Work | Status | Where |
+|---|---|---|
+| Nichol vol. 1 | have-raw | IA `worksofthomasgoo01good` |
+| Nichol vol. 2 | have-raw | IA `worksofthomasgoo02good` |
+| Nichol vol. 3 | have-raw | IA `worksofthomasgoo03good` |
+| Nichol vol. 4 | have-raw | IA `worksofthomasgoo04good` |
+| Nichol vol. 5 | have-raw | IA `worksofthomasgoo05good` |
+| Nichol vol. 6 | have-raw | IA `worksofthomasgoo06good` |
+| Nichol vol. 7 | have-raw | IA `worksofthomasgoo07good` |
+| Nichol vol. 8 | have-raw | IA `worksofthomasgoo08good` |
+| Nichol vol. 9 | have-raw | IA `worksofthomasgoo09good` |
+| Nichol vol. 10 | have-raw | IA `worksofthomasgoo10good` |
+| Nichol vol. 11 | have-raw | IA `worksofthomasgoo11good` |
+| Nichol vol. 12 | have-raw | IA `worksofthomasgoo12good` |
+| Other scans of Nichol; the 1681-1704 folio Works | alternate | not fetched |
+| Clean text of The Heart of Christ in Heaven towards Sinners on Earth | wishlist | no PD machine-readable edition found |
+| PG 52639 Moses and Aaron; CCEL goodwin/greekgrammar | excluded | different Goodwins (d. 1642; W. W. Goodwin) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
