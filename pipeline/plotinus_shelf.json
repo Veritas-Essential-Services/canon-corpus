@@ -1,0 +1,74 @@
+{
+ "_about": "Plotinus in English, translator per title. Stephen MacKenna's Enneads in its first edition, 5 vols. (Medici Society, 1917-1930; vol. 5 with B. S. Page), raw IA OCR: every volume published 1930 or earlier, so US public domain by date. Kenneth Sylvan Guthrie's Complete Works (1918), 4 vols., clean Gutenberg. Thomas Taylor's Essay on the Beautiful (Gutenberg) and his Select Works (1817 translation, Bohn 1895 edition by G. R. S. Mead), raw IA OCR.",
+ "_name_words": [
+  "plotinus",
+  "plotinos",
+  "ennead",
+  "enneads"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "plotinus-guthrie-v1": [
+   42930,
+   "Plotinos: Complete Works, vol. 1",
+   "tr. Kenneth Sylvan Guthrie"
+  ],
+  "plotinus-guthrie-v2": [
+   42931,
+   "Plotinos: Complete Works, vol. 2",
+   "tr. Kenneth Sylvan Guthrie"
+  ],
+  "plotinus-guthrie-v3": [
+   42932,
+   "Plotinos: Complete Works, vol. 3",
+   "tr. Kenneth Sylvan Guthrie"
+  ],
+  "plotinus-guthrie-v4": [
+   42933,
+   "Plotinos: Complete Works, vol. 4",
+   "tr. Kenneth Sylvan Guthrie"
+  ],
+  "plotinus-taylor-beautiful": [
+   29510,
+   "An Essay on the Beautiful, from the Greek of Plotinus",
+   "tr. Thomas Taylor"
+  ]
+ },
+ "internet_archive": {
+  "plotinus-mackenna-v1": [
+   "plotinusethicalt01plotuoft",
+   "Plotinus: The Ethical Treatises (First Ennead), vol. 1 (1917)",
+   "tr. Stephen MacKenna"
+  ],
+  "plotinus-mackenna-v2": [
+   "plotinuspsychicp00plotuoft",
+   "Plotinus: Psychic and Physical Treatises (Second and Third Enneads), vol. 2 (1921)",
+   "tr. Stephen MacKenna"
+  ],
+  "plotinus-mackenna-v3": [
+   "plotinustranslat03burkuoft",
+   "Plotinus: On the Nature of the Soul (Fourth Ennead), vol. 3 (1924)",
+   "tr. Stephen MacKenna"
+  ],
+  "plotinus-mackenna-v4": [
+   "plotinustranslat04plotuoft",
+   "Plotinus: The Divine Mind (Fifth Ennead), vol. 4 (1926)",
+   "tr. Stephen MacKenna"
+  ],
+  "plotinus-mackenna-v5": [
+   "plotinusononegoo0005step",
+   "Plotinus: On the One and Good (Sixth Ennead), vol. 5 (1930)",
+   "tr. Stephen MacKenna and B. S. Page"
+  ],
+  "plotinus-taylor-select": [
+   "selectworksofplo00plotuoft",
+   "Select Works of Plotinus (Bohn, 1895)",
+   "tr. Thomas Taylor; ed. G. R. S. Mead"
+  ]
+ },
+ "_excluded": {
+  "plotinusethicalt0002step": "catalogued as MacKenna vol. 2, 1916, but holds Enneads IV-VI together: a later collected printing of unknown date, not taken",
+  "plotinuspsychicp0002step": "empty text layer",
+  "MacKenna's revised one-volume edition (1956, rev. Page)": "not public domain"
+ }
+}
