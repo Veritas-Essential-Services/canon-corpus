@@ -50,8 +50,9 @@
     },
     {
       "id": "homer",
-      "status": "todo",
-      "scope": "CLASSICAL (added by lane B from the Perseus census) \u2014 Homer, English, translator per work: Chapman, Pope, Cowper, Butler (Iliad/Odyssey Butler already in the build via Perseus), Bryant, Lang/Leaf/Myers and Butcher/Lang cross-ref \u2192 Lang shelf (lane D), Dryden's Homer cross-ref \u2192 Dryden shelf (lane C); shelf + fetch + map"
+      "status": "running",
+      "scope": "CLASSICAL (added by lane B from the Perseus census) \u2014 Homer, English, translator per work: Chapman, Pope, Cowper, Butler (Iliad/Odyssey Butler already in the build via Perseus), Bryant, Lang/Leaf/Myers and Butcher/Lang cross-ref \u2192 Lang shelf (lane D), Dryden's Homer cross-ref \u2192 Dryden shelf (lane C); shelf + fetch + map",
+      "started": "2026-10-02T15:32:11-05:00"
     },
     {
       "id": "greek-tragedy",

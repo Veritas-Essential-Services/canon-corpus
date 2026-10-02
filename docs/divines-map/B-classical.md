@@ -17,7 +17,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | Symposium (1892 vol. 1) | Benjamin Jowett | `plato-symposium` | have (PG 1600) |
 | Meno (1892 vol. 2) | Benjamin Jowett | `plato-meno` | have (PG 1643) |
 | Euthyphro (1892 vol. 2) | Benjamin Jowett | `plato-euthyphro` | have (PG 1642) |
-| Apology (1892 vol. 2) | Benjamin Jowett | `plato-apology` | have (PG 1656) |
+| Apology (1892 vol. 2) | Benjamin Jowett | `plato-dialogues` | cross-ref → Adler shelf (PG 1656; its shelf title over-claims Crito and Phaedo, which are here) |
 | Crito (1892 vol. 2) | Benjamin Jowett | `plato-crito` | have (PG 1657) |
 | Phaedo (1892 vol. 2) | Benjamin Jowett | `plato-phaedo` | have (PG 1658) |
 | Gorgias (1892 vol. 2) | Benjamin Jowett | `plato-gorgias` | have (PG 1672) |
@@ -26,7 +26,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | Menexenus (1892 vol. 2) | Benjamin Jowett (Appendix I) | `plato-menexenus` | have (PG 1682) |
 | Alcibiades II (1892 vol. 2) | Matthew Knight for Jowett's edition (spurious; Appendix II) | `plato-alcibiades-2` | have (PG 1677) |
 | Eryxias (1892 vol. 2) | Matthew Knight for Jowett's edition (spurious; Appendix II) | `plato-eryxias` | have (PG 1681) |
-| The Republic (1892 vol. 3) | Benjamin Jowett, with introduction and analysis | `plato-republic` | have (PG 1497) |
+| The Republic (1892 vol. 3) | Benjamin Jowett | `plato-republic` | cross-ref → Adler shelf (PG 1497, same text) |
 | Timaeus (1892 vol. 3) | Benjamin Jowett | `plato-timaeus` | have (PG 1572) |
 | Critias (1892 vol. 3) | Benjamin Jowett | `plato-critias` | have (PG 1571) |
 | Parmenides (1892 vol. 4) | Benjamin Jowett | `plato-parmenides` | have (PG 1687) |
@@ -72,6 +72,8 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | Works of Aristotle, vol. XII (1952) | Select Fragments (Ross) | — | pending: 1952, renewal not checked |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923), De Mundo (1914) and Parva Naturalia (1908), which are PD now; R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
+
+Aristotle cross-ref: the Adler shelf already holds `aristotle-ethics` (Chase, PG 8438) and `aristotle-politics` (Jowett, PG 6762, the same translation as the Politics in Oxford vol. X).
 
 Excluded: `meteorologica00aris` (catalogued as the 1923 separate issue, but the scan is all of vol. III and carries the 1931 De Anima); duplicate Toronto scans of vols. X–XII; Perseus English (Loeb) not used; `worksofaristotle00unse` (*Aristotle's Masterpiece*, falsely ascribed).
 
