@@ -104,6 +104,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
     python3 tests/nt_corpus_test.py          # validator for data/nt/<Book>/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
+    python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
+    python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
+    python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -151,6 +154,12 @@ The living truth for project state is the Obsidian vault:
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_strongs.py — Strong's numbers (H1–H8674, G1–G5624, 1890, PD)
+  as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
+  table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
+  in data/uids/ until Adam rules, then `--adopt`), the BDB/TBESG/LSJ/Thayer
+  entries for each number (citations only), and number → passage uids from
+  data/nt/ (data/ot/ when it lands). Rules: pipeline/README-strongs.md
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
