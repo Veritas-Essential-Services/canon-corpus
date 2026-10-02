@@ -1,0 +1,102 @@
+{
+ "_about": "Beatrix Potter's (1866-1943) little books, one Gutenberg text each, in order of first publication, and The Fairy Caravan, her longer book first published in the US in 1929 (US public domain since 2025). Potter died in 1943: in life+70 and life+80 countries some of this is still in copyright; this shelf records US status only. The words only: the pictures are not part of the text files.",
+ "_author": "Beatrix Potter",
+ "_name_words": [
+  "beatrix",
+  "potter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "potter-peter-rabbit": [
+   14838,
+   "The Tale of Peter Rabbit (1902)"
+  ],
+  "potter-squirrel-nutkin": [
+   14872,
+   "The Tale of Squirrel Nutkin (1903)"
+  ],
+  "potter-tailor-of-gloucester": [
+   14868,
+   "The Tailor of Gloucester (1903)"
+  ],
+  "potter-benjamin-bunny": [
+   14407,
+   "The Tale of Benjamin Bunny (1904)"
+  ],
+  "potter-two-bad-mice": [
+   45264,
+   "The Tale of Two Bad Mice (1904)"
+  ],
+  "potter-mrs-tiggy-winkle": [
+   15137,
+   "The Tale of Mrs. Tiggy-Winkle (1905)"
+  ],
+  "potter-pie-and-the-patty-pan": [
+   15234,
+   "The Tale of the Pie and the Patty-Pan (1905)"
+  ],
+  "potter-mr-jeremy-fisher": [
+   15077,
+   "The Tale of Mr. Jeremy Fisher (1906)"
+  ],
+  "potter-fierce-bad-rabbit": [
+   45265,
+   "The Story of a Fierce Bad Rabbit (1906)"
+  ],
+  "potter-miss-moppet": [
+   14848,
+   "The Story of Miss Moppet (1906)"
+  ],
+  "potter-tom-kitten": [
+   14837,
+   "The Tale of Tom Kitten (1907)"
+  ],
+  "potter-jemima-puddle-duck": [
+   14814,
+   "The Tale of Jemima Puddle-Duck (1908)"
+  ],
+  "potter-samuel-whiskers": [
+   15575,
+   "The Tale of Samuel Whiskers; or, The Roly-Poly Pudding (1908)"
+  ],
+  "potter-flopsy-bunnies": [
+   14220,
+   "The Tale of the Flopsy Bunnies (1909)"
+  ],
+  "potter-ginger-and-pickles": [
+   14877,
+   "The Tale of Ginger and Pickles (1909)"
+  ],
+  "potter-mrs-tittlemouse": [
+   17089,
+   "The Tale of Mrs. Tittlemouse (1910)"
+  ],
+  "potter-timmy-tiptoes": [
+   14797,
+   "The Tale of Timmy Tiptoes (1911)"
+  ],
+  "potter-mr-tod": [
+   19805,
+   "The Tale of Mr. Tod (1912)"
+  ],
+  "potter-johnny-town-mouse": [
+   15284,
+   "The Tale of Johnny Town-Mouse (1918)"
+  ],
+  "potter-cecily-parsley": [
+   23350,
+   "Cecily Parsley's Nursery Rhymes (1922)"
+  ],
+  "potter-fairy-caravan": [
+   78504,
+   "The Fairy Caravan (Philadelphia, 1929)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "potter-collections": "Gutenberg's own compilations of books held singly here: The Great Big Treasury of Beatrix Potter (PG 572), A Collection of Beatrix Potter Stories (582)",
+  "potter-duplicates": "The Tale of Peter Rabbit ill. Virginia Albert (14304, a US edition with another artist's pictures), The Tale of Mrs. Tiggy-Winkle (12103, an earlier transcription)",
+  "potter-not-on-gutenberg": "PENDING: the later little books not on Gutenberg (The Tale of Pigling Bland 1913, Appley Dapply's Nursery Rhymes 1917, The Tale of Little Pig Robinson 1930, and others); not searched for this pass",
+  "potter-translations": "French Peter Rabbit (29052): this shelf is English"
+ }
+}

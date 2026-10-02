@@ -87,3 +87,6 @@
 
 ## 2026-10-02 16:13 CDT — nesbit: done
 - 33/33 fetched (Gutenberg), 0 copyright markers; 48,200 units. Bastable and Psammead books, Railway Children, Arden books, fantasies, dragon and fairy collections, Shakespeare retellings, Royal Children, adult novels, stories, verse. 16 books read chapters from their own Contents. Remaining ~n ids are in publishers' back-matter. No uids minted; not in manifest.
+
+## 2026-10-02 16:14 CDT — potter: done
+- 21/21 fetched (Gutenberg), 0 copyright markers; 2,337 units. 20 little books (1902-1922) and The Fairy Caravan (US 1929, by chapter). Gutenberg compilations 572/582 and duplicate transcriptions excluded; later little books not on Gutenberg pending. No uids minted; not in manifest.

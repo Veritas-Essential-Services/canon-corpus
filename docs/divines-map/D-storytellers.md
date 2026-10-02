@@ -586,6 +586,38 @@ Shelf: `pipeline/nesbit_shelf.json` (2026-10-02; added at the coordinator's rela
 | nesbit-not-hers | excluded | Landscape and Song (14320), an anthology she edited; Atlantic Narratives (38172), an anthology with other authors |
 | nesbit-not-on-gutenberg | pending | Lays and Legends (first series, 1886) and her other books not on Gutenberg; an Internet Archive search was not run this pass |
 
+## Beatrix Potter
+
+Shelf: `pipeline/potter_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The 20 little books on Gutenberg, one slug each, and The Fairy Caravan (first published in Philadelphia in 1929; US public domain since 2025). The little books have no chapters, so they cite by paragraph; Gutenberg's [Illustration] markers come through as their own units. The words only: the pictures are not in the text files. US status only: Potter died in 1943. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Tale of Peter Rabbit (1902) | have | PG 14838, `potter-peter-rabbit` (69 units) |
+| The Tale of Squirrel Nutkin (1903) | have | PG 14872, `potter-squirrel-nutkin` (92 units) |
+| The Tailor of Gloucester (1903) | have | PG 14868, `potter-tailor-of-gloucester` (138 units) |
+| The Tale of Benjamin Bunny (1904) | have | PG 14407, `potter-benjamin-bunny` (89 units) |
+| The Tale of Two Bad Mice (1904) | have | PG 45264, `potter-two-bad-mice` (72 units) |
+| The Tale of Mrs. Tiggy-Winkle (1905) | have | PG 15137, `potter-mrs-tiggy-winkle` (99 units) |
+| The Tale of the Pie and the Patty-Pan (1905) | have | PG 15234, `potter-pie-and-the-patty-pan` (156 units) |
+| The Tale of Mr. Jeremy Fisher (1906) | have | PG 15077, `potter-mr-jeremy-fisher` (35 units) |
+| The Story of a Fierce Bad Rabbit (1906) | have | PG 45265, `potter-fierce-bad-rabbit` (35 units) |
+| The Story of Miss Moppet (1906) | have | PG 14848, `potter-miss-moppet` (37 units) |
+| The Tale of Tom Kitten (1907) | have | PG 14837, `potter-tom-kitten` (71 units) |
+| The Tale of Jemima Puddle-Duck (1908) | have | PG 14814, `potter-jemima-puddle-duck` (94 units) |
+| The Tale of Samuel Whiskers; or, The Roly-Poly Pudding (1908) | have | PG 15575, `potter-samuel-whiskers` (186 units) |
+| The Tale of the Flopsy Bunnies (1909) | have | PG 14220, `potter-flopsy-bunnies` (92 units) |
+| The Tale of Ginger and Pickles (1909) | have | PG 14877, `potter-ginger-and-pickles` (98 units) |
+| The Tale of Mrs. Tittlemouse (1910) | have | PG 17089, `potter-mrs-tittlemouse` (109 units) |
+| The Tale of Timmy Tiptoes (1911) | have | PG 14797, `potter-timmy-tiptoes` (79 units) |
+| The Tale of Mr. Tod (1912) | have | PG 19805, `potter-mr-tod` (218 units) |
+| The Tale of Johnny Town-Mouse (1918) | have | PG 15284, `potter-johnny-town-mouse` (40 units) |
+| Cecily Parsley's Nursery Rhymes (1922) | have | PG 23350, `potter-cecily-parsley` (55 units) |
+| The Fairy Caravan (Philadelphia, 1929) | have | PG 78504, `potter-fairy-caravan` (473 units) |
+| potter-collections | excluded | Gutenberg's own compilations of books held singly here: The Great Big Treasury of Beatrix Potter (PG 572), A Collection of Beatrix Potter Stories (582) |
+| potter-duplicates | excluded | The Tale of Peter Rabbit ill. Virginia Albert (14304, a US edition with another artist's pictures), The Tale of Mrs. Tiggy-Winkle (12103, an earlier transcription) |
+| potter-not-on-gutenberg | pending | the later little books not on Gutenberg (The Tale of Pigling Bland 1913, Appley Dapply's Nursery Rhymes 1917, The Tale of Little Pig Robinson 1930, and others); not searched for this pass |
+| potter-translations | excluded | French Peter Rabbit (29052): this shelf is English |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

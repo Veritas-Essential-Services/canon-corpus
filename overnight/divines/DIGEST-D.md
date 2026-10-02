@@ -39,6 +39,7 @@ All 286 shelf URLs re-checked at the end of the run: all resolve. Every slug app
 | `chesterton-gaps` | 0 | 5 | raw OCR | the five 1926-1928 books fetch_sources.py deferred. The 61 already held are untouched. **Your call:** The Thing, Poet and the Lunatics (1929) and the 1930 books are US public domain too |
 | `aesop` | 2 Gutenberg | 0 | 768 | Townsend (1867) and Jacobs (1894), one slug each. **Before minting:** reconcile with the earlier fables work, which is not in this repo |
 | `nesbit` | 33 Gutenberg | 0 | 48,200 | children's books, retellings, adult novels and verse, all pre-1930 |
+| `potter` | 21 Gutenberg | 0 | 2,337 | 20 little books plus The Fairy Caravan (US 1929). Text only, no pictures. US status only: she died in 1943 |
 
 ## For Adam to decide
 1. **Minting:** 135 + 151 = 286 slugs (lang 124, lamb 11, macdonald 61, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20) are waiting for the attended uid pass and manifest registration.
