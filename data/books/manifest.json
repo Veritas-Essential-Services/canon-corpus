@@ -2025,5 +2025,278 @@
   "scripture_refs_resolved": 53,
   "scripture_refs_flagged": 0,
   "built_sha256": "d2963d12c6173afd2b3350c81d6c1f0cac9d69abf4673fc868dc70acdda5fac4"
+ },
+ "josephus-ant-niese": {
+  "title": "Antiquities of the Jews (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "64879910ecab63ca197146bf0c6e45849914c12221e1fb858c2a417bd65439f0",
+  "units": 1464,
+  "scheme": {
+   "citation": "Ant. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-ant-whiston",
+   "units": 1464,
+   "matched": 1444,
+   "unmatched": [
+    "1.arg",
+    "2.arg",
+    "3.arg",
+    "4.arg",
+    "5.arg",
+    "6.arg",
+    "7.arg",
+    "8.arg",
+    "9.arg",
+    "10.arg",
+    "11.arg",
+    "12.arg",
+    "13.arg",
+    "14.arg",
+    "15.arg",
+    "16.arg",
+    "17.arg",
+    "18.arg",
+    "19.arg",
+    "20.arg"
+   ]
+  },
+  "tagging": {
+   "words": 311638,
+   "nt-form": 220631,
+   "nt-form-nu": 2035,
+   "nt-form-major": 2204,
+   "nt-key": 2997,
+   "headword": 1272,
+   "ambiguous": 2251,
+   "unseen": 80248,
+   "latin": 0
+  },
+  "built_sha256": "f967f852632d7f4ff0e33f29c714ebd22857c19581055acce65afe47effe656a"
+ },
+ "josephus-ant-whiston": {
+  "title": "Antiquities of the Jews (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "de21842b55845aeeb1f60ae46b18217fd59ed3531b55b941dc066cd7e09c00a5",
+  "units": 1444,
+  "scheme": {
+   "citation": "Ant. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-ant-niese",
+   "units": 1444,
+   "matched": 1444,
+   "unmatched": []
+  },
+  "built_sha256": "31b680dc42ab1208934913b3a631a0bd092db29d97bb87b3478c950f10862cab"
+ },
+ "josephus-war-niese": {
+  "title": "The Jewish War (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "ccb90dcbd5489d56e1822d0b082b7799827f478ebcc9af7e4ab5667ae362d547",
+  "units": 707,
+  "scheme": {
+   "citation": "J.W. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-war-whiston",
+   "units": 707,
+   "matched": 707,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 125211,
+   "nt-form": 85611,
+   "nt-form-nu": 409,
+   "nt-form-major": 490,
+   "nt-key": 991,
+   "headword": 751,
+   "ambiguous": 976,
+   "unseen": 35983,
+   "latin": 0
+  },
+  "built_sha256": "faa08c8e621e665a1e8529bcc6e2100422b75bbcaf4fd3171a9a3423cdae1dc8"
+ },
+ "josephus-war-whiston": {
+  "title": "The Jewish War (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "bb948d1a1dff1cb4459fbaa5aeb99ef17d957ff111104fb862c0b6498a0fe780",
+  "units": 707,
+  "scheme": {
+   "citation": "J.W. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-war-niese",
+   "units": 707,
+   "matched": 707,
+   "unmatched": []
+  },
+  "built_sha256": "e5cd950fa27e047a70fd66ee7a1faccdddbfd8c19855dad51b6c7a4bdafe3494"
+ },
+ "josephus-life-niese": {
+  "title": "The Life of Flavius Josephus (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "6ec49dd76faba814b4d34e9cb4ab7734b02e1fdf796ef62aa816d939221b7e13",
+  "units": 76,
+  "scheme": {
+   "citation": "Life section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-life-whiston",
+   "units": 76,
+   "matched": 76,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 15781,
+   "nt-form": 11478,
+   "nt-form-nu": 38,
+   "nt-form-major": 67,
+   "nt-key": 98,
+   "headword": 62,
+   "ambiguous": 143,
+   "unseen": 3895,
+   "latin": 0
+  },
+  "built_sha256": "2dbc2d89c07d77b3e88d7ec703770edb64c37f0c3fcf669948d6d0140f04167f"
+ },
+ "josephus-life-whiston": {
+  "title": "The Life of Flavius Josephus (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "8e7ef9b8ba39403ada9559b367e545d5fecffba9ce2b106f8e6a8915f96b38a6",
+  "units": 76,
+  "scheme": {
+   "citation": "Life section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-life-niese",
+   "units": 76,
+   "matched": 76,
+   "unmatched": []
+  },
+  "built_sha256": "ec1c9379c57f2bc3de92d9de156b8027730a3e72b85a110dde7505ed75df9968"
+ },
+ "josephus-apion-niese": {
+  "title": "Against Apion (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "3730705afb6fcc4a5aee24a41bda71dc08d87edddc8fd2c24be3f74e96442bf8",
+  "units": 77,
+  "scheme": {
+   "citation": "Ag. Ap. book.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-apion-whiston",
+   "units": 77,
+   "matched": 77,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 22728,
+   "nt-form": 14758,
+   "nt-form-nu": 195,
+   "nt-form-major": 130,
+   "nt-key": 118,
+   "headword": 83,
+   "ambiguous": 132,
+   "unseen": 5087,
+   "latin": 2225
+  },
+  "built_sha256": "86dcbffcde96f63935099cc16a91b5b71df0f43d77c28c3aebcb7871ea5bee0f"
+ },
+ "josephus-apion-whiston": {
+  "title": "Against Apion (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "a12149bb02da48c6a9efb697debe757438adb9f88044bb7f4ad7dff40c34645c",
+  "units": 77,
+  "scheme": {
+   "citation": "Ag. Ap. book.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-apion-niese",
+   "units": 77,
+   "matched": 77,
+   "unmatched": []
+  },
+  "built_sha256": "423bcb0de92d44738f9e6a1d42ac3e1de69e95ec0012f8797e6b5552439131a1"
  }
 }

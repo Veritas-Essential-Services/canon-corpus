@@ -118,6 +118,16 @@ through Brenton's Septuagint map, and the ones First1KGreek keyed to the wrong
 book are flagged. `python3 pipeline/build_apostolic_fathers.py --fetch`. Lightfoot's
 English translation is still to come (CCEL).
 
+## Josephus (Greek and English)
+
+The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek
+(1885-95) and Whiston's English (1737), both public domain, from the Perseus
+TEI, which is CC BY-SA (built locally, labelled in the manifest). Each work's
+two books are aligned by Whiston's book.chapter.section (`Ant. 18.3.3`), and
+every Greek unit also gives its Niese sections (`18.63-64`), so either
+citation finds it. 2,304 aligned units; 74% of the Greek words carry a
+Strong's number. `python3 pipeline/build_josephus.py --fetch`.
+
 ## The reader (reverse interlinear, D5)
 
     python3 pipeline/render_reader.py       # -> build/reader/reader.html (gitignored)

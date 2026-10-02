@@ -125,6 +125,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
     python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
+    python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
+    python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
+    python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -199,6 +202,12 @@ The living truth for project state is the Obsidian vault:
   Pol. Phil. 10-14 and Herm. Sim. 9.30-10.4 survive in Latin, which
   First1KGreek garbled into Greek letters; a per-book rule restores it.
   Lightfoot's English is PENDING (CCEL, unreachable from cloud sessions).
+- pipeline/build_josephus.py — Josephus (Ant., J.W., Life, Ag. Ap.): Niese's
+  Greek and Whiston's English (both PD; Perseus TEI CC BY-SA 4.0, so books
+  gitignored, labelled manifest entries committed). Units are Whiston's
+  book.chapter.section in both languages, linked to each other; each Greek
+  unit lists its Niese sections (lex.niese). Perseus's Whiston milestones have
+  four slips, corrected by FIXES rows; the build stops on any new one.
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves

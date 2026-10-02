@@ -368,7 +368,7 @@ def tag(book, tables):
             stats["words"] += 1
             stats[why] += 1
             toks.append([m.group(0), num, why if num else None])
-        u["lex"] = {"tokens": toks}
+        u.setdefault("lex", {})["tokens"] = toks
     book["tagging"] = {"scheme": "Strong's number by fixed rules against data/nt (tag_word: "
                                  "nt-form, nt-form-nu, nt-form-major, nt-key, headword); null "
                                  "when the answer is ambiguous, unseen, or Latin",
