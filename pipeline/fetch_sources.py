@@ -60,6 +60,63 @@ GUTENBERG_TXT = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
 
 CCEL_XML = "https://ccel.org/ccel/{initial}/{author}/{work}.xml"
 
+# Bibles fetched from GitHub mirrors, pinned to a commit (2026-10-02).
+#
+# VULGATE -- the Clementine Vulgate (Sixto-Clementine, 1592; the Clementine
+# Vulgate Project's electronic text, Michael Tweedale et al.). Public domain:
+# "The text has been released into the public domain" (vulsearch.sourceforge.net,
+# evidence pinned in benchmark_whitaker.LICENCE, which already reads these same
+# 73 files). The project ASKS, without licence, for acknowledgment, error
+# reports, and that modifications be made clear: the converter changes no
+# file and keeps each verse's marked-up line beside its plain text.
+# Mirror: github.com/BibleGet-I-O/Clementine-Vulgate, src/iso-encoded (the
+# project's own cp1252 files; the mirror's utf8 copies mangle the oe ligature).
+# The pin is one sha256 over "name<TAB>sha256\n" for the files, sorted.
+# NOT INCLUDED: the Clementine appendix (Prayer of Manasses, 3 and 4 Esdras),
+# which the mirror does not carry.
+VULGATE = {
+    "repo": "BibleGet-I-O/Clementine-Vulgate",
+    "commit": "d57e2cde0cceda0d073ea9efc1fee616bcfeb2c1",
+    "dir": "src/iso-encoded",
+    "books": ("Gn Ex Lv Nm Dt Jos Jdc Rt 1Rg 2Rg 3Rg 4Rg 1Par 2Par Esr Neh Tob Jdt Est Job "
+              "Ps Pr Ecl Ct Sap Sir Is Jr Lam Bar Ez Dn Os Joel Am Abd Jon Mch Nah Hab Soph "
+              "Agg Zach Mal 1Mcc 2Mcc Mt Mc Lc Jo Act Rom 1Cor 2Cor Gal Eph Phlp Col 1Thes "
+              "2Thes 1Tim 2Tim Tit Phlm Hbr Jac 1Ptr 2Ptr 1Jo 2Jo 3Jo Jud Apc").split(),
+    "pin": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+    "note": "Biblia Sacra Vulgatae Editionis (Clementine, 1592), 73 books; PD",
+}
+
+
+def vulgate_digest(d):
+    import hashlib
+    lines = []
+    for b in sorted(VULGATE["books"]):
+        with open(os.path.join(d, b + ".lat"), "rb") as f:
+            lines.append(f"{b}.lat\t{hashlib.sha256(f.read()).hexdigest()}\n")
+    return hashlib.sha256("".join(lines).encode("ascii")).hexdigest()
+
+
+def fetch_vulgate():
+    """73 files into data/corpus/vulgate/ (skips present ones); hard stop on a
+    digest other than the pin."""
+    d = os.path.join(CORPUS, "vulgate")
+    os.makedirs(d, exist_ok=True)
+    raw = (f"https://raw.githubusercontent.com/{VULGATE['repo']}/"
+           f"{VULGATE['commit']}/{VULGATE['dir']}/")
+    for b in VULGATE["books"]:
+        p = os.path.join(d, b + ".lat")
+        if not os.path.exists(p):
+            req = urllib.request.Request(raw + b + ".lat", headers={"User-Agent": "canon-corpus"})
+            with urllib.request.urlopen(req, timeout=120) as r:
+                blob = r.read()
+            with open(p + ".tmp", "wb") as f:
+                f.write(blob)
+            os.replace(p + ".tmp", p)
+    got = vulgate_digest(d)
+    if got != VULGATE["pin"]:
+        raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}")
+    return f"{len(VULGATE['books'])} books, digest pinned"
+
 # ---------------------------------------------------------------- Lexicons
 #
 # Reference works keyed by lemma rather than linear texts (structured by
@@ -367,6 +424,7 @@ def main():
             print(f"lexicon/{slug}: {note}")
         for slug, gid in GUTENBERG_EXTRA.items():
             print(f"gutenberg/{slug}: pg{gid}")
+        print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -398,6 +456,10 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
+    try:
+        print(f"github/vulgate: {fetch_vulgate()}")
+    except Exception as e:
+        failures.append("vulgate"); print(f"github/vulgate: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":

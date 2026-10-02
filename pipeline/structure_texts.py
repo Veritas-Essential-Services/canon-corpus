@@ -307,6 +307,116 @@ def convert_kjv(path, slug="kjv"):
                        "resolution": "verse", "honesty": "exact"},
             "units": units}
 
+# ---------------------------------------------------------------- Vulgate
+#
+# The Clementine Vulgate (1592), from the Clementine Vulgate Project's own
+# files (fetch_sources.VULGATE, pinned). One file per book, one line per
+# verse, "chapter:verse text". The project's markup, read from its files
+# (counts measured 2026-10-02 over all 35,809 verses):
+#     /        a line break inside poetry            28,860
+#     \        a paragraph break (2,058 of 2,085 at a verse's end)
+#     [ ... ]  a stretch set as poetry; it opens and closes mid-verse too
+#     <Name>   a speaker heading (the Song of Songs: Sponsa, Sponsus, Chorus)
+# `text` is the verse with the markup turned into layout ("/" a newline,
+# "\" a blank line, brackets dropped, speakers lifted into `speakers`);
+# `marked` is the line exactly as the file has it, so nothing is lost and
+# the change is plain to see (the project asks that modifications be clear).
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in the VULGATE's own numbering, which
+# is not the KJV's. Its Psalms follow the Greek count (Vulgate Ps 50 is KJV
+# Ps 51) and count a title in verse 1, as the Hebrew does; Daniel 3
+# carries the Song of the Three Children (3:24-90) and Esther its Greek
+# additions (10:4-16:24). So `vulgate:Ps.50.3` is a citation in the Vulgate
+# and is NOT linked to any kjv: unit, and no Word Hoard uid is minted here.
+# Mapping it is a versification job of its own, like BDB's.
+
+VULGATE_BOOKS = {   # file -> (OSIS, the book's Latin name)
+    "Gn": ("Gen", "Genesis"), "Ex": ("Exod", "Exodus"), "Lv": ("Lev", "Leviticus"),
+    "Nm": ("Num", "Numeri"), "Dt": ("Deut", "Deuteronomium"), "Jos": ("Josh", "Josue"),
+    "Jdc": ("Judg", "Judicum"), "Rt": ("Ruth", "Ruth"), "1Rg": ("1Sam", "1 Regum"),
+    "2Rg": ("2Sam", "2 Regum"), "3Rg": ("1Kgs", "3 Regum"), "4Rg": ("2Kgs", "4 Regum"),
+    "1Par": ("1Chr", "1 Paralipomenon"), "2Par": ("2Chr", "2 Paralipomenon"),
+    "Esr": ("Ezra", "1 Esdrae"), "Neh": ("Neh", "Nehemiae"), "Tob": ("Tob", "Tobiae"),
+    "Jdt": ("Jdt", "Judith"), "Est": ("Esth", "Esther"), "Job": ("Job", "Job"),
+    "Ps": ("Ps", "Psalmi"), "Pr": ("Prov", "Proverbia"), "Ecl": ("Eccl", "Ecclesiastes"),
+    "Ct": ("Song", "Canticum Canticorum"), "Sap": ("Wis", "Sapientia"),
+    "Sir": ("Sir", "Ecclesiasticus"), "Is": ("Isa", "Isaias"), "Jr": ("Jer", "Jeremias"),
+    "Lam": ("Lam", "Lamentationes"), "Bar": ("Bar", "Baruch"), "Ez": ("Ezek", "Ezechiel"),
+    "Dn": ("Dan", "Daniel"), "Os": ("Hos", "Osee"), "Joel": ("Joel", "Joel"),
+    "Am": ("Amos", "Amos"), "Abd": ("Obad", "Abdias"), "Jon": ("Jonah", "Jonas"),
+    "Mch": ("Mic", "Michaea"), "Nah": ("Nah", "Nahum"), "Hab": ("Hab", "Habacuc"),
+    "Soph": ("Zeph", "Sophonias"), "Agg": ("Hag", "Aggaeus"), "Zach": ("Zech", "Zacharias"),
+    "Mal": ("Mal", "Malachias"), "1Mcc": ("1Macc", "1 Machabaeorum"),
+    "2Mcc": ("2Macc", "2 Machabaeorum"), "Mt": ("Matt", "Matthaeus"), "Mc": ("Mark", "Marcus"),
+    "Lc": ("Luke", "Lucas"), "Jo": ("John", "Joannes"), "Act": ("Acts", "Actus Apostolorum"),
+    "Rom": ("Rom", "ad Romanos"), "1Cor": ("1Cor", "1 ad Corinthios"),
+    "2Cor": ("2Cor", "2 ad Corinthios"), "Gal": ("Gal", "ad Galatas"),
+    "Eph": ("Eph", "ad Ephesios"), "Phlp": ("Phil", "ad Philippenses"),
+    "Col": ("Col", "ad Colossenses"), "1Thes": ("1Thess", "1 ad Thessalonicenses"),
+    "2Thes": ("2Thess", "2 ad Thessalonicenses"), "1Tim": ("1Tim", "1 ad Timotheum"),
+    "2Tim": ("2Tim", "2 ad Timotheum"), "Tit": ("Titus", "ad Titum"),
+    "Phlm": ("Phlm", "ad Philemonem"), "Hbr": ("Heb", "ad Hebraeos"),
+    "Jac": ("Jas", "Jacobi"), "1Ptr": ("1Pet", "1 Petri"), "2Ptr": ("2Pet", "2 Petri"),
+    "1Jo": ("1John", "1 Joannis"), "2Jo": ("2John", "2 Joannis"), "3Jo": ("3John", "3 Joannis"),
+    "Jud": ("Jude", "Judae"), "Apc": ("Rev", "Apocalypsis"),
+}
+RE_VULG_LINE = re.compile(r"^(\d+):(\d+)\s(.*)$")
+RE_VULG_SPEAKER = re.compile(r"<([^>]*)>")
+
+
+def vulgate_layout(marked):
+    """(text, speakers) for one verse's marked-up line."""
+    speakers = [m.strip() for m in RE_VULG_SPEAKER.findall(marked)]
+    t = RE_VULG_SPEAKER.sub(" ", marked).replace("[", "").replace("]", "")
+    t = t.replace("\\", "\n\n").replace("/", "\n")
+    t = "\n".join(re.sub(r"[ \t]+", " ", ln).strip() for ln in t.split("\n"))
+    t = re.sub(r"\n{3,}", "\n\n", t).strip()
+    return t, speakers
+
+
+def convert_vulgate(vdir, books, digest, slug="vulgate"):
+    """`books`: file names in canonical order; `digest`: the pinned digest."""
+    units = []
+    for b in books:
+        osis, name = VULGATE_BOOKS[b]
+        with open(os.path.join(vdir, b + ".lat"), encoding="cp1252") as f:
+            for n, line in enumerate(f, 1):
+                line = line.rstrip("\r\n")
+                if not line.strip():
+                    continue
+                m = RE_VULG_LINE.match(line)
+                if not m:
+                    raise ValueError(f"{b}.lat line {n}: not 'chapter:verse text'")
+                c, v, marked = m.groups()
+                text, speakers = vulgate_layout(marked)
+                u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{name} {c}:{v}",
+                     "text": text, "links": [], "marked": marked}
+                if speakers:
+                    u["speakers"] = speakers
+                units.append(u)
+    return {"slug": slug, "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+            "author": "—",
+            "source": {"path": os.path.relpath(vdir, CORPUS), "format": "clementine-lat",
+                       "sha256": digest,
+                       "sha256_of": "name<TAB>sha256 lines of the book files, sorted"},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "note": "Ids follow the Clementine numbering, NOT the KJV's: the "
+                               "Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV "
+                               "Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 "
+                               "and Esther 10:4-16:24 the Greek additions. Not linked to "
+                               "kjv: units; no uids minted. `text` is the verse with the "
+                               "project's markup turned into line and paragraph breaks; "
+                               "`marked` is the file's line as is. The Clementine appendix "
+                               "(Prayer of Manasses, 3-4 Esdras) is not in the source."},
+            "rights": {"license": "public-domain",
+                       "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+                       "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+                       "requests": "acknowledge the source; report typographical errors to the "
+                                   "project; make modifications clear (requests, not a licence)"},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -1529,6 +1639,11 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author:
                          convert_gutenberg_prose(p, s, t, a, contents_chapre(p))))
+    vdir = os.path.join(CORPUS, "vulgate")
+    if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
+                                   for b in _fs.VULGATE["books"]):
+        jobs.append(("vulgate", lambda: convert_vulgate(vdir, _fs.VULGATE["books"],
+                                                         _fs.vulgate_digest(vdir))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))

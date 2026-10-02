@@ -9,7 +9,7 @@ no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
 Split from patrimonium's tests/armarium_test.py at the 2026-07-22
 extraction: the converter checks live here; the engine checks live in the
 armarium repo's tests/armarium_test.py. 18 checks."""
-import os, sys, tempfile, importlib.util
+import os, sys, shutil, tempfile, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PIPE = os.path.join(HERE, "..", "pipeline")
@@ -233,6 +233,35 @@ check("bdb: scripture ref keeps the book number's OSIS and stays UNresolved",
 check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
+
+# ---------------------------------------------------------------- Vulgate
+vd = tempfile.mkdtemp()
+with open(os.path.join(vd, "Ps.lat"), "w", encoding="cp1252", newline="\r\n") as f:
+    f.write("50:1 In finem. Psalmus David,\\\n"
+            "50:3 [Miserere mei, Deus,/ secundum magnam misericordiam tuam;]\n")
+with open(os.path.join(vd, "Ct.lat"), "w", encoding="cp1252", newline="\r\n") as f:
+    f.write("1:1 [<Sponsa>Osculetur me osculo oris sui:/ quia meliora sunt ubera tua vino,]\n"
+            "\n"
+            "1:2 et c\u0153li.\n")
+vg = st.convert_vulgate(vd, ["Ps", "Ct"], "pin")
+vu = {u["id"]: u for u in vg["units"]}
+check("vulgate: ids are the Vulgate's own numbering on OSIS books (Ps 50 stays 50)",
+      list(vu) == ["vulgate:Ps.50.1", "vulgate:Ps.50.3", "vulgate:Song.1.1", "vulgate:Song.1.2"])
+check("vulgate: '/' becomes a line break, brackets and the paragraph mark go",
+      vu["vulgate:Ps.50.3"]["text"] == "Miserere mei, Deus,\nsecundum magnam misericordiam tuam;"
+      and vu["vulgate:Ps.50.1"]["text"] == "In finem. Psalmus David,")
+check("vulgate: the marked line is kept as the file has it",
+      vu["vulgate:Ps.50.1"]["marked"] == "In finem. Psalmus David,\\")
+check("vulgate: a speaker heading is lifted out of the text",
+      vu["vulgate:Song.1.1"]["speakers"] == ["Sponsa"]
+      and vu["vulgate:Song.1.1"]["text"].startswith("Osculetur"))
+check("vulgate: read as cp1252 (the oe ligature survives)", "œ" in vu["vulgate:Song.1.2"]["text"])
+check("vulgate: scheme says Vulgate numbering, not KJV; nothing links to kjv:",
+      vg["scheme"]["versification"] == "vulgate"
+      and not any(u["links"] for u in vg["units"]))
+check("vulgate: the rights block travels with the book",
+      vg["rights"]["license"] == "public-domain" and "Clementine" in vg["rights"]["attribution"])
+shutil.rmtree(vd)
 
 # ---------------------------------------------------------------- Thayer (OCR)
 import json as _json

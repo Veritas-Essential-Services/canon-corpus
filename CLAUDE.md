@@ -86,8 +86,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 60 offline checks (no corpus needed)
-    python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 tests/structure_test.py          # 71 offline checks (no corpus needed)
+    python3 tests/wh_uid_test.py             # 67 identity-layer checks
+    python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -120,6 +121,13 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- The Clementine Vulgate (1592, PD) — `VULGATE` in fetch_sources.py, pinned
+  to a commit of github.com/BibleGet-I-O/Clementine-Vulgate (73 books, one
+  sha256 over the files); `convert_vulgate` -> data/books/vulgate.json,
+  35,809 verses. Ids are `vulgate:Ps.50.3` in the VULGATE's own numbering
+  (Greek Psalm count, titles in verse 1, Greek additions in Dan/Esth): not
+  linked to kjv: units, no uids minted. Each verse keeps the project's
+  marked-up line as `marked` beside the plain `text`.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
