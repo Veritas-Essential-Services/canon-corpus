@@ -384,7 +384,7 @@ Shelf: `pipeline/bulfinch_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Howard Pyle
 
-Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The books Pyle wrote; books by others that he only illustrated are excluded. The four King Arthur books nest Book > Part > Chapter. They are converted by `pipeline/convert_nested.py`, which cites the whole path (`The Book of Three Worthies / PART II ... / Chapter First, par. 3`), with 0 duplicate unit ids (there were ~2,000 `~n` suffixes before). Not in the manifest; no uids minted.
+Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The books Pyle wrote; books by others that he only illustrated are excluded. The four King Arthur books nest Book > Part > Chapter. They are converted by `pipeline/convert_nested.py`, which cites the whole path (`The Book of Three Worthies / PART II ... / Chapter First, par. 3`), with 0 duplicate unit ids (The Champions of the Round Table alone had 990 `~n` suffixes before). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|

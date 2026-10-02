@@ -68,4 +68,4 @@
 - Next Lane D worker: the queue is empty again. Do upkeep only unless Adam adds authors.
 
 ## 2026-10-02 15:50 CDT — pyle-nesting: done
-- New `pipeline/convert_nested.py`: heading levels outermost-first, each a regex. A heading clears deeper levels, and citations carry the whole path. `title_next` folds a part's name into its number, and `start` forgets headings read from a Contents list. Pyle's four Arthur books now have 0 duplicate unit ids (about 2,000 `~n` suffixes before). tests 64 passed.
+- New `pipeline/convert_nested.py`: heading levels outermost-first, each a regex. A heading clears deeper levels, and citations carry the whole path. `title_next` folds a part's name into its number, and `start` forgets headings read from a Contents list. Pyle's four Arthur books now have 0 duplicate unit ids (The Champions of the Round Table alone had 990 `~n` suffixes before; the commit message's "~2,000" was an overstatement). tests 64 passed.
