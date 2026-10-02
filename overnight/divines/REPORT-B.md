@@ -82,3 +82,9 @@
 
 ## 2026-10-02 16:02 CDT — lucian-cicero: done
 - Lucian 6 (Fowler complete), Cicero 15 (Yonge Orations complete; Shuckburgh correspondence complete; philosophy and rhetoric). Winstedt's Atticus held back: Latin facing. One IA 500 error on the first try, fetched on retry.
+
+## 2026-10-02 16:07 CDT — greek-orators (done)
+- demosthenes: Kennedy Olynthiacs & Philippics (PG 6878), Pickard-Cambridge 1912 (PG 9060-9061), Kennedy Bohn vols 1-4 raw IA OCR (clean-word 0.84-0.94). Kennedy vol 5 pending: no identifiable scan.
+- lysias: PG 6969 (translator unnamed in the file; recorded as unnamed, not guessed).
+- isocrates: Freese vol 1 (Bohn 1894) raw IA OCR, clean-word 0.895.
+- Rights: all three PG headers read, none COPYRIGHTED.

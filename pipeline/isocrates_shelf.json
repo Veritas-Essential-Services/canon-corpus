@@ -1,0 +1,19 @@
+{
+ "_about": "Isocrates in English: J. H. Freese, The Orations of Isocrates, vol. 1 (Bohn, 1894), raw IA OCR; Freese's projected second volume was never published.",
+ "_name_words": [
+  "isocrates",
+  "orations"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "isocrates-freese-v1": [
+   "orationsofisocra0000isoc",
+   "The Orations of Isocrates, vol. 1 (Bohn, 1894)",
+   "tr. J. H. Freese"
+  ]
+ },
+ "_excluded": {
+  "George Norlin and La Rue Van Hook, Loeb (1928-45)": "vols. 1-2 (1928-29) US PD by date, Greek facing; on Perseus; pending"
+ }
+}

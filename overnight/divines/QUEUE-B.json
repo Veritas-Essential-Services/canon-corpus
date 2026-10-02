@@ -122,9 +122,11 @@
     },
     {
       "id": "greek-orators",
-      "status": "running",
+      "status": "done",
       "scope": "CLASSICAL (census gap) \u2014 Demosthenes (Kennedy, Bohn), Lysias, Isocrates (Freese; Dinsmore), Aeschines, the minor Attic orators where PD English exists; shelf per author + fetch + map",
-      "started": "2026-10-02T16:04:22-05:00"
+      "started": "2026-10-02T16:04:22-05:00",
+      "finished": "2026-10-02T16:07:57-05:00",
+      "notes": "demosthenes (3 PG + 4 IA), lysias (PG 6969), isocrates (Freese v1 IA); OCR clean-word 0.84-0.94"
     },
     {
       "id": "greek-poets-minor",
