@@ -602,6 +602,8 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | The Poems and Fragments of Catullus translated in the metres of the original | Robinson Ellis (1871) | `catullus-ellis` | have (PG 18867) |
 | The Carmina of Caius Valerius Catullus | Sir Richard Burton (verse) and Leonard C. Smithers (prose) | `catullus-burton-smithers` | have (PG 20732) |
 | Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913) | F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium) | `catullus-tibullus-pervigilium-loeb` | have-raw (IA `catullustibullus00catu`) |
+| Carmina | Sir Richard Francis Burton | `catullus-perseus-burton-carmina` | have (Perseus TEI `phi0472.phi001.perseus-eng3`; markup CC BY-SA 4.0) |
+| Carmina | Leonard C. Smithers | `catullus-perseus-smithers-carmina` | have (Perseus TEI `phi0472.phi001.perseus-eng4`; markup CC BY-SA 4.0) |
 
 
 Excluded: PG 23720 (serves a 404).
