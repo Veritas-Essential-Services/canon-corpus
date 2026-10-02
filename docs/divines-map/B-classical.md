@@ -137,8 +137,10 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | Eclogues | Dryden | `dryden-eclogues` | cross-ref → Dryden shelf (lane C) |
 | Virgil, vol. 1: Eclogues, Georgics, Aeneid I-VI (Loeb, 1916) | H. Rushton Fairclough | `virgil-fairclough-v1` | have-raw (IA `virgilwithenglis01virg`) |
 | Virgil, vol. 2: Aeneid VII-XII, Minor Poems (Loeb, 1918) | H. Rushton Fairclough | `virgil-fairclough-v2` | have-raw (IA `virgil0002hrus`) |
+| The Georgics and Eclogues of Virgil (1915) | Theodore Chickering Williams | `virgil-williams-georgics-eclogues` | have-raw (IA `georgicseclogues1915virg`) |
+| The Æneid of Virgil (1872) | Christopher Pearse Cranch | `virgil-cranch-aeneid` | have-raw (IA `cu31924026565428`) |
 
-Pending (wishlist): Theodore C. Williams's Georgics and Eclogues (1915), PD verse (his Aeneid is already built from Perseus); Christopher Pearse Cranch's Aeneid (1872); Gavin Douglas's Eneados (1513, Scots), a landmark witness.
+Pending (wishlist): Gavin Douglas's Eneados (1513, Scots), a landmark witness.
 
 Excluded: PG 228 (Dryden; lane C), PG 20144 (a single book alongside Voltaire), PG 54717 (stage adaptations), PG 66399 (excerpts), `poemsvirgil00magoog` (no text layer).
 
@@ -168,8 +170,9 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | — | — | `lang-homeric-hymns` | cross-ref → Lang shelf, lane D (PG 16338) |
 | — | — | `dryden-iliad` | cross-ref → Dryden shelf, lane C (Iliad I and the Last Parting of Hector and Andromache) |
 | — | — | `hesiod-evelyn-white` | cross-ref → Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914) |
+| Homer, The Iliad, or Achilles' Wrath at the Siege of Ilion, in English blank verse (1864) | T. S. Norgate (attributed by catalogue) | `homer-norgate-iliad` | have-raw (IA `iliadorachillesw00homeuoft`) |
 
-Pending (wishlist): A. T. Murray's Loeb Iliad (1924-25) and Odyssey (1919), on Perseus, US PD by date; Hobbes's Iliad and Odyssey (1675-76); T. S. Norgate's blank-verse Iliad (1864).
+Pending (wishlist): A. T. Murray's Loeb Iliad (1924-25) and Odyssey (1919), on Perseus, US PD by date; Hobbes's Iliad and Odyssey (1675-76); 
 
 Excluded: PG 2199 (Butler Iliad, already built), PG 28797 (duplicate Butler Odyssey), PG 24856 (schoolbook adaptation).
 
@@ -287,8 +290,11 @@ Shelf: `pipeline/thucydides_shelf.json`. Jowett's own Thucydides (1881) and Hobb
 | Thucydides translated into English, vol. 2: notes (Oxford, 1881) | Benjamin Jowett | `thucydides-jowett-1881-v2` | have-raw (IA `a609583002thucuoft`) |
 | Thucydides, chiefly from the translation of Hobbes of Malmesbury (Oxford, 1841) | Thomas Hobbes (1629), corrected | `thucydides-hobbes-1841` | have-raw (IA `thucydides00thucuoft`) |
 | — | — | `thucydides-pelo` | cross-ref → Adler shelf: PG 7142, which is Richard CRAWLEY's translation; the Adler shelf labels it 'tr. Jowett', which is wrong (PG 7142's own header names Crawley) |
+| Thucydides, tr. by W. Smith, vol. 1 (1831) | William Smith | `thucydides-smith-v1` | have-raw (IA `thucydidestrbyw01thucgoog`) |
+| Thucydides, tr. by W. Smith, vol. 2 (1831) | William Smith | `thucydides-smith-v2` | have-raw (IA `thucydides01smitgoog`) |
+| Thucydides, tr. by W. Smith, vol. 3 (1831) | William Smith | `thucydides-smith-v3` | have-raw (IA `thucydidestrbyw02thucgoog`) |
 
-Pending (wishlist): C. F. Smith's Loeb (1919-23), on Perseus; William Smith (1753).
+Pending (wishlist): C. F. Smith's Loeb (1919-23), on Perseus; 
 
 Excluded: PG 26245 (duplicate Crawley), PG 9074 (adaptation).
 
@@ -327,8 +333,12 @@ Shelf: `pipeline/polybius_shelf.json`. Shuckburgh (1889), complete, clean Gutenb
 | The Histories of Polybius, vol. 1 | Evelyn S. Shuckburgh (1889) | `polybius-shuckburgh-v1` | have (PG 44125) |
 | The Histories of Polybius, vol. 2 | Evelyn S. Shuckburgh (1889) | `polybius-shuckburgh-v2` | have (PG 44126) |
 | — | — | `dryden-polybius-lucian` | cross-ref → Dryden shelf (lane C): Dryden's character of Polybius |
+| The General History of Polybius, vol. 1 (1772) | James Hampton | `polybius-hampton-v1` | have-raw (IA `bim_eighteenth-century_the-general-history-of-p_polybius_1772_1`) |
+| The General History of Polybius, vol. 2 (1772) | James Hampton | `polybius-hampton-v2` | have-raw (IA `generalhistoryof02poly`) |
+| The General History of Polybius, vol. 3 (1773; volume per catalogue) | James Hampton | `polybius-hampton-v3` | have-raw (IA `generalhistoryof03poly`) |
+| The General History of Polybius, vol. 4 (1773) | James Hampton | `polybius-hampton-v4` | have-raw (IA `generalhistoryof04poly`) |
 
-Pending (wishlist): W. R. Paton's Loeb (1922-27), on Perseus; Hampton (1772).
+Pending (wishlist): W. R. Paton's Loeb (1922-27), on Perseus; 
 
 ## Arrian
 
@@ -388,8 +398,10 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | Thoughts of Marcus Aurelius Antoninus | George Long (1862) | `marcus-aurelius-long` | have (PG 15877) |
 | The Meditations of the Emperor Marcus Aurelius Antoninus: a new rendering | George W. Chrystal (1902) | `marcus-aurelius-chrystal` | have (PG 55317) |
 | — | — | `marcus-meditations` | cross-ref → Adler shelf: PG 2680, Casaubon's translation by its wording (inferred); the Adler label 'tr. George Long' looks wrong |
+| The Emperor Marcus Antoninus, his Conversation with Himself (1702) | Jeremy Collier | `marcus-aurelius-collier` | have-raw (IA `emperormarcusant00marcrich`) |
+| Marcus Aurelius Antoninus to Himself (1898) | Gerald H. Rendall | `marcus-aurelius-rendall` | have-raw (IA `marcusaureliusan00marcrich`) |
 
-Pending (wishlist): Rendall (1898), Jackson (1906), Collier (1701), Haines's Loeb (1916).
+Pending (wishlist): Jackson (1906), Haines's Loeb (1916).
 
 Excluded: PG 6920 (serves no text), PG 59784 (index).
 
@@ -452,8 +464,13 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | The History of Tacitus, translated into English (1894 printing) | A. J. Church and W. J. Brodribb | `tacitus-church-brodribb-histories` | have-raw (IA `historyoftacitus00taci`) |
 | — | — | `tacitus-annals` | cross-ref → Adler shelf: PG 7959, which is Thomas GORDON's 'The Reign of Tiberius, out of the First Six Annals' (ed. Galton), not Church and Brodribb's Annals as the Adler label says; the full Church-Brodribb Annals is now on this shelf |
 | Dialogus, Agricola, Germania (Loeb, 1914) | W. Peterson (Dialogus), M. Hutton (Agricola, Germania) | `tacitus-hutton-peterson-dialogus-agricola-germania` | have-raw (IA `dialogusagricola0000taci_n3b1`) |
+| The Works of Tacitus, with Political Discourses, vol. 1 (1753) | Thomas Gordon | `tacitus-gordon-v1` | have-raw (IA `worksoftacituswi01taci`) |
+| The Works of Tacitus, with Political Discourses, vol. 2 (1753) | Thomas Gordon | `tacitus-gordon-v2` | have-raw (IA `worksoftacituswi02taci`) |
+| The Works of Tacitus, with Political Discourses, vol. 3 (1753) | Thomas Gordon | `tacitus-gordon-v3` | have-raw (IA `worksoftacituswi03taci`) |
+| The Works of Tacitus, with Political Discourses, vol. 4 (1753) | Thomas Gordon | `tacitus-gordon-v4` | have-raw (IA `worksoftacituswi04taci`) |
+| The Works of Tacitus, with Political Discourses, vol. 5 (1753) | Thomas Gordon | `tacitus-gordon-v5` | have-raw (IA `worksoftacituswi05taci`) |
 
-Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); Gordon's complete Tacitus (1728-31).
+Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); 
 
 Excluded: PG 59786 (index).
 
@@ -472,8 +489,9 @@ Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Ed
 | Livy, vol. 4: Books VIII-X (Loeb, 1926) | B. O. Foster | `livy-foster-v4` | have-raw (IA `livywithenglisht04livyuoft`) |
 | Livy, vol. 5: Books XXI-XXII (Loeb, 1929) | B. O. Foster | `livy-foster-v5` | have-raw (IA `livy05livy`) |
 | Livy, vol. 3: Books V-VII (Loeb, 1924) | B. O. Foster | `livy-foster-v3` | have-raw (IA `livywithenglisht0000bofo`) |
+| The Romane Historie written by T. Livius of Padua (1659 edition) | Philemon Holland | `livy-holland` | have-raw (IA `romanehistorie00livy`) |
 
-Pending (wishlist): Philemon Holland (1600); Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused).
+Pending (wishlist): Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused).
 
 ## Julius Caesar
 
@@ -527,8 +545,10 @@ Shelf: `pipeline/pliny_shelf.json`. Bostock and Riley's Natural History, 6 vols.
 | The Letters of the Younger Pliny, First Series, vol. 1 | John B. Firth | `pliny-younger-firth-letters-1` | have (PG 3234) |
 | Letters, vol. 1 (Loeb, 1915) | William Melmoth, revised by W. M. L. Hutchinson | `pliny-melmoth-hutchinson-letters-v1` | have-raw (IA `letterswithengli01plinuoft`) |
 | Letters, vol. 2 (Loeb, 1915) | William Melmoth, revised by W. M. L. Hutchinson | `pliny-melmoth-hutchinson-letters-v2` | have-raw (IA `letterswithengli02plinuoft`) |
+| The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 1 (1601) | Philemon Holland | `pliny-holland-natural-history-v1` | have-raw (IA `plinyhollandhistorie01`) |
+| The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 2 (1601) | Philemon Holland | `pliny-holland-natural-history-v2` | have-raw (IA `plinyhollandhistorie02`) |
 
-Pending (wishlist): Firth's remaining volume(s); Holland's Natural History (1601).
+Pending (wishlist): Firth's remaining volume(s); 
 
 Excluded: PG 58589 (adaptation).
 
