@@ -1,0 +1,13 @@
+{
+ "_about": "Hesiod in English: Hugh G. Evelyn-White's prose translation, Hesiod, the Homeric Hymns and Homerica (Loeb, 1914), public domain, one volume. Gutenberg text, English only (the Loeb's facing Greek is not in it). The volume also carries the Homeric Hymns, the Epigrams, the Contest of Homer and Hesiod and the Homerica fragments; they are kept with the volume as Evelyn-White published them, and would cross-reference a Homer section if one is built.",
+ "_name_words": ["hesiod", "homeric", "homerica"],
+ "ccel": {},
+ "gutenberg": {
+  "hesiod-evelyn-white": [348, "Hesiod, the Homeric Hymns, and Homerica", "tr. Hugh G. Evelyn-White (1914)"]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg66350": "The Remains of Hesiod the Ascraean (Elton, with Chapman's Works and Days): PD, other translators. Pending as an alternate verse witness",
+  "Loeb 1914 scans on Internet Archive": "same translation with the Greek facing; Gutenberg's clean English preferred"
+ }
+}

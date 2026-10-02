@@ -18,8 +18,11 @@
     },
     {
       "id": "hesiod",
-      "status": "todo",
-      "scope": "CLASSICAL \u2014 Hesiod, English (Evelyn-White); shelf + fetch + classical map section"
+      "status": "done",
+      "scope": "CLASSICAL \u2014 Hesiod, English (Evelyn-White); shelf + fetch + classical map section",
+      "started": "2026-10-02T15:23:15-05:00",
+      "finished": "2026-10-02T15:23:34-05:00",
+      "notes": "PG 348 fetched (548 KB). Trial conversion: 1,491 paragraph units, 90.5K words; 510 inline '(ll. N)' line references available for a finer scheme later. Not minted."
     },
     {
       "id": "ovid",

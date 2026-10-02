@@ -147,6 +147,14 @@ Excluded: `meteorologica00aris` (catalogued as the 1923 separate issue, but the 
 
 ## Hesiod
 
+Shelf: `pipeline/hesiod_shelf.json`. Hugh G. Evelyn-White, prose (Loeb, 1914), PD. Gutenberg, English only. Evelyn-White prints the line references in the prose, "(ll. 1-25)", 510 of them, so a line-level citation scheme is possible later; the trial conversion gives paragraph units only.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Works and Days; Theogony; Shield of Heracles; Catalogues of Women and other fragments; with the Homeric Hymns, Epigrams, Contest of Homer and Hesiod, and Homerica (one volume) | Evelyn-White | `hesiod-evelyn-white` | have (PG 348) |
+
+Pending (wishlist): Elton's verse Hesiod with Chapman's Works and Days (PG 66350), an alternate witness. When a Homer section exists, the Homeric Hymns in this volume should be cross-referenced from it, not refetched.
+
 ## Ovid
 
 ## Virgil

@@ -13,3 +13,6 @@
 - Defects: raw OCR only; vol. III and XII missing (rights); Bekker margins survive in vols. VIII–XI (hundreds of matches) but hardly at all in I–VII.
 - Finding: the IA item `meteorologica00aris` is mis-catalogued; check sub-title pages, not IA metadata, before trusting a "separate issue".
 - Awaits minting: 11 aristotle-* slugs, once Adam decides whether raw volumes get uids.
+
+## 2026-10-02 15:23 CDT — hesiod: done
+- Shelf `pipeline/hesiod_shelf.json`. PG 348 fetched (548 KB). Trial conversion: 1,491 paragraph units, 90.5K words; 510 inline '(ll. N)' line references available for a finer scheme later. Not minted.
