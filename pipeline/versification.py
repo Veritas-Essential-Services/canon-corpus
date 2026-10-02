@@ -17,6 +17,14 @@ build_vulgate_versification.py) reads the same way:
     v = load(VULGATE_PATH)
     targets("Ps.50.3", v)   -> ["Ps.51.1"]
     resolve_vulgate("Jonah.2.1", v, kjv_ids) -> {"resolved": True, "target": "kjv:Jonah.1.17"}
+
+So does Brenton's English Septuagint's (data/versification/brenton-kjv.json,
+built by build_brenton_versification.py), whose verse labels may be lettered
+('1Kgs.12.24a', the Greek's additions) and whose Nehemiah is Ezra 11-23:
+
+    g = load(BRENTON_PATH)
+    resolve_brenton("Ps.50.3", g, kjv_ids)   -> {"resolved": True, "target": "kjv:Ps.51.1"}
+    resolve_brenton("Ezra.11.1", g, kjv_ids) -> {"resolved": True, "target": "kjv:Neh.1.1"}
 """
 import json
 import os
@@ -24,6 +32,7 @@ import os
 PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                     "data", "versification", "bhs-kjv.json")
 VULGATE_PATH = os.path.join(os.path.dirname(PATH), "vulgate-kjv.json")
+BRENTON_PATH = os.path.join(os.path.dirname(PATH), "brenton-kjv.json")
 
 
 BOOKS = {"Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth", "1Sam", "2Sam",
@@ -91,6 +100,65 @@ def resolve_vulgate(osis, m, kjv_ids):
     if not 1 <= int(v) <= m["vulgate_chapters"].get(f"{b}.{ch}", 0):
         return {"resolved": False, "why": "no such verse in the Clementine Vulgate"}
     why = _no_kjv(osis, m)
+    if why:
+        return {"resolved": False, "why": why}
+    ts = targets(osis, m)
+    ids = [f"kjv:{t}" for t in ts if not t.endswith(".title")]
+    if not ids:
+        return {"resolved": False, "kjv": ts,
+                "why": "psalm title: the KJV prints it before v.1, with no verse number"}
+    if not all(i in kjv_ids for i in ids):
+        return {"resolved": False, "why": "no such verse in the KJV"}  # unreachable while --check holds
+    out = {"resolved": True, "target": ids[0]}
+    if len(ts) > 1:
+        out["spans"] = [f"kjv:{t}" if not t.endswith(".title") else t for t in ts]
+    return out
+
+
+def brenton_labels(chapter, m):
+    """Brenton's verse labels of one chapter ('1Kgs.12'), in his order, from
+    the map's compact `brenton_verses` ('1-24,24a-24i,24k-24z,25-33')."""
+    out = []
+    for run in m["brenton_verses"].get(chapter, "").split(","):
+        if not run:
+            continue
+        a, _, z = run.partition("-")
+        z = z or a
+        if a.isdigit():
+            out += [str(i) for i in range(int(a), int(z) + 1)]
+        else:
+            out += [a[:-1] + chr(c) for c in range(ord(a[-1]), ord(z[-1]) + 1)]
+    return out
+
+
+def _no_kjv_brenton(osis, m):
+    """Why Brenton verse `osis` has no KJV verse, or None. A run
+    ('1Kgs.12.24o-24z') is in Brenton's order, so it is read by position."""
+    b, ch, v = osis.split(".")
+    labels = brenton_labels(f"{b}.{ch}", m)
+    for row in m["no_kjv_verse"]:
+        for run in row["verses"]:
+            if run.endswith(" (the whole book)"):
+                if run == f"{b} (the whole book)":
+                    return row["why"]
+                continue
+            rb, rch, rv = run.split(".")
+            if (rb, rch) != (b, ch):
+                continue
+            lo, _, hi = rv.partition("-")
+            if labels.index(lo) <= labels.index(v) <= labels.index(hi or lo):
+                return row["why"]
+    return None
+
+
+def resolve_brenton(osis, m, kjv_ids):
+    """What a verse in Brenton's numbering ('Ps.50.3', '1Kgs.12.24a',
+    'Ezra.11.1') names in the KJV, as fields for a unit or a link. Resolved
+    only when every KJV verse it lands on has a unit id."""
+    b, ch, v = osis.split(".")
+    if v not in brenton_labels(f"{b}.{ch}", m):
+        return {"resolved": False, "why": "no such verse in Brenton's Septuagint"}
+    why = _no_kjv_brenton(osis, m)
     if why:
         return {"resolved": False, "why": why}
     ts = targets(osis, m)

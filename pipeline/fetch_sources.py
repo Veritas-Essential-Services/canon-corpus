@@ -156,6 +156,45 @@ def fetch_douay():
         raise RuntimeError(f"Douay-Rheims sha256 {got} != pinned {DOUAY['sha256']}")
     return "1 file, sha256 pinned"
 
+# BRENTON -- Brenton's English Septuagint (1851), as eBible.org transcribed
+# and corrected it (eng-Brenton). eBible's rights line, in the archive's own
+# copr.htm: "Translation of the Greek Septuagint into English by Sir Lancelot
+# Charles Lee Brenton. Published in 1851, and now in the Public Domain." The
+# archive is fetched from basil/bible, which commits eBible's
+# eng-Brenton_usfm.zip unaltered (its sources/README.md: retrieved from
+# https://ebible.org/Scriptures/eng-Brenton_usfm.zip), because ebible.org is
+# out of this sandbox's reach. Only the zip is used: that repository's own
+# edition (CC BY-NC-ND) is not.
+BRENTON = {
+    "repo": "basil/bible",
+    "commit": "af36d5cc04a6cbf9101488e1790142bfae928cce",
+    "path": "sources/eng-Brenton_usfm.zip",
+    "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+    "note": "Brenton's English Septuagint (1851), eBible.org USFM (source files 2025-12-12); PD",
+}
+
+
+def fetch_brenton():
+    """data/corpus/brenton/eng-Brenton_usfm.zip (skips a present file); hard
+    stop on a sha256 other than the pin."""
+    import hashlib
+    p = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        url = (f"https://raw.githubusercontent.com/{BRENTON['repo']}/"
+               f"{BRENTON['commit']}/{BRENTON['path']}")
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != BRENTON["sha256"]:
+        raise RuntimeError(f"Brenton sha256 {got} != pinned {BRENTON['sha256']}")
+    return "1 archive, sha256 pinned"
+
 # ---------------------------------------------------------------- Lexicons
 #
 # Reference works keyed by lemma rather than linear texts (structured by
@@ -465,6 +504,7 @@ def main():
             print(f"gutenberg/{slug}: pg{gid}")
         print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
         print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
+        print(f"github/brenton: {BRENTON['repo']}@{BRENTON['commit'][:7]} -- {BRENTON['note']}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -504,6 +544,10 @@ def main():
         print(f"github/douay: {fetch_douay()}")
     except Exception as e:
         failures.append("douay"); print(f"github/douay: FAIL {e}")
+    try:
+        print(f"github/brenton: {fetch_brenton()}")
+    except Exception as e:
+        failures.append("brenton"); print(f"github/brenton: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":

@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 83 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 87 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -98,6 +98,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_vulgate_versification.py --measure  # the map vs proper names in both texts
     python3 pipeline/build_vulgate_versification.py --audit-douay  # the map vs the Douay's English
     python3 tests/vulgate_versification_test.py  # the Vulgate map, offline
+    python3 pipeline/build_brenton_versification.py --fetch  # TVTMS + Brenton's USFM, pinned
+    python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
+    python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
+    python3 tests/brenton_versification_test.py  # the Brenton map, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -225,6 +229,21 @@ The living truth for project state is the Obsidian vault:
   with its KJV verses and renderings, lexicon entries, and Vulgate/Douay
   verse ids where the numbering differs. OSHB's CC BY tags for data/ot/ build to build/ only,
   never committed. Rules: pipeline/README-strongs.md
+- Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
+  USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
+  (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek
+  count (title = v.1), Jeremiah's chapters in the Greek's order, Nehemiah as
+  Ezra 11-23, the Greek's additions lettered (1Kgs.12.24a), text before v.1 as
+  v.0. eBible's KJV-numbered NEH duplicate is skipped.
+  pipeline/build_brenton_versification.py → data/versification/brenton-kjv.json
+  (COMMITTED; same TVTMS file and rights block). Columns are picked by TVTMS's
+  hard tests, then by how well Brenton's English agrees with the KJV's (word
+  counts are only approximate on a translation). HOUSE_ROWS holds what no
+  column fits, each read in both texts (most found by --audit). A lettered
+  verse standing in a gap of Brenton's numbers is the KJV verse there only if
+  the words agree (Jer 10:9a is NOT 10:10). versification.resolve_brenton.
+  No Greek LXX: Rahlfs and CATSS are restricted; Swete awaits a ruling (its
+  only machine-readable text is CC BY-SA markup over the PD edition).
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).

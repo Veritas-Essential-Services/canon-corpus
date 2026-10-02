@@ -1982,5 +1982,30 @@
   },
   "scripture_refs": 35,
   "built_sha256": "3f0467efcd6f461e879c4a1c340b9b09beb05e610fec3c70ffa7a529daad8346"
+ },
+ "brenton": {
+  "title": "The Septuagint in English (Brenton, 1851)",
+  "author": "Sir Lancelot Charles Lee Brenton (translator)",
+  "format": "ebible-usfm-zip",
+  "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+  "units": 28617,
+  "scheme": {
+   "citation": "Book chapter:verse in Brenton's (the Greek's) numbering; the Greek's additions lettered (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "lxx-brenton",
+   "kjv_resolved": 22901,
+   "kjv_unresolved": 5716,
+   "empty_verses_not_units": [
+    "Prov.30.1"
+   ],
+   "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Brenton's English Septuagint, transcribed and corrected by eBible.org (eng-Brenton)",
+   "source_url": "https://ebible.org/eng-Brenton/",
+   "requests": "eBible asks that errors in the text be reported to it"
+  }
  }
 }
