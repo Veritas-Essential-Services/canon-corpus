@@ -435,7 +435,9 @@
     {
       "id": "montgomery",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — L. M. Montgomery's pre-1931 books; children's classics batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T17:29:40-05:00",
+      "notes": "13/13 fetched (Gutenberg 45, 47, 51, 544, 5343, 3796, 1354, 5340, 5342, 316, 5341, 61236, 67979), 21,864 units, 1 ~2 ids."
     },
     {
       "id": "wiggin",

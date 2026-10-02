@@ -3675,6 +3675,28 @@ Shelf: `pipeline/dodge_shelf.json` (2026-10-02; added at the coordinator's relay
 | dodge-duplicate | excluded | Hans Brinker (PG 34378): a later illustrated printing |
 | dodge-st-nicholas | excluded | the St. Nicholas magazine issues she edited: many authors, not hers |
 
+## L. M. Montgomery
+
+Shelf: `pipeline/montgomery_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her Prince Edward Island books published before 1931, cut by their own chapter lines. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Anne of Green Gables (1908) | have | PG 45, `montgomery-anne-of-green-gables` (1793 units) |
+| Anne of Avonlea (1909) | have | PG 47, `montgomery-anne-of-avonlea` (1712 units) |
+| Anne of the Island (1915) | have | PG 51, `montgomery-anne-of-the-island` (1766 units) |
+| Anne's House of Dreams (1917) | have | PG 544, `montgomery-annes-house-of-dreams` (1612 units) |
+| Rainbow Valley (1919) | have | PG 5343, `montgomery-rainbow-valley` (1639 units) |
+| Rilla of Ingleside (1921) | have | PG 3796, `montgomery-rilla-of-ingleside` (1771 units) |
+| Chronicles of Avonlea (1912) | have | PG 1354, `montgomery-chronicles-of-avonlea` (1302 units) |
+| Further Chronicles of Avonlea (1920) | have | PG 5340, `montgomery-further-chronicles-of-avonlea` (1457 units) |
+| The Story Girl (1911) | have | PG 5342, `montgomery-story-girl` (2145 units) |
+| The Golden Road (1913) | have | PG 316, `montgomery-golden-road` (1952 units) |
+| Kilmeny of the Orchard (1910) | have | PG 5341, `montgomery-kilmeny-of-the-orchard` (763 units) |
+| Emily of New Moon (1923) | have | PG 61236, `montgomery-emily-of-new-moon` (2422 units) |
+| The Blue Castle (1926) | have | PG 67979, `montgomery-blue-castle` (1530 units) |
+| montgomery-duplicate | excluded | Anne of Green Gables (PG 64365): a later illustrated printing |
+| montgomery-short-stories | excluded | the six magazine short-story gatherings (PG 24873-24878): candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

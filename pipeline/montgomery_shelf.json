@@ -1,0 +1,100 @@
+{
+ "_about": "L. M. Montgomery's (1874-1942) Prince Edward Island books, all published before 1931 and so public domain in the US: the Anne books through Rilla of Ingleside, the Avonlea story collections, The Story Girl and The Golden Road, Kilmeny of the Orchard, Emily of New Moon (1923) and The Blue Castle (1926). Clean Gutenberg text. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "L. M. Montgomery",
+ "_name_words": [
+  "anne",
+  "avonlea",
+  "gables",
+  "emily"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "montgomery-anne-of-green-gables": [
+   45,
+   "Anne of Green Gables (1908)",
+   {
+    "contents_only": true
+   }
+  ],
+  "montgomery-anne-of-avonlea": [
+   47,
+   "Anne of Avonlea (1909)",
+   {
+    "contents_only": true
+   }
+  ],
+  "montgomery-anne-of-the-island": [
+   51,
+   "Anne of the Island (1915)",
+   {
+    "contents_only": true
+   }
+  ],
+  "montgomery-annes-house-of-dreams": [
+   544,
+   "Anne's House of Dreams (1917)"
+  ],
+  "montgomery-rainbow-valley": [
+   5343,
+   "Rainbow Valley (1919)"
+  ],
+  "montgomery-rilla-of-ingleside": [
+   3796,
+   "Rilla of Ingleside (1921)",
+   {
+    "chapre_only": "CHAPTER [IVXL]+\\.?$"
+   }
+  ],
+  "montgomery-chronicles-of-avonlea": [
+   1354,
+   "Chronicles of Avonlea (1912)",
+   {
+    "contents_only": true
+   }
+  ],
+  "montgomery-further-chronicles-of-avonlea": [
+   5340,
+   "Further Chronicles of Avonlea (1920)",
+   {
+    "chapre_only": "[IVX]+\\. [A-Z][A-Z’' ,.-]+$"
+   }
+  ],
+  "montgomery-story-girl": [
+   5342,
+   "The Story Girl (1911)",
+   {
+    "contents_only": true
+   }
+  ],
+  "montgomery-golden-road": [
+   316,
+   "The Golden Road (1913)",
+   {
+    "chapre_only": "CHAPTER [IVXL]+\\. .*"
+   }
+  ],
+  "montgomery-kilmeny-of-the-orchard": [
+   5341,
+   "Kilmeny of the Orchard (1910)"
+  ],
+  "montgomery-emily-of-new-moon": [
+   61236,
+   "Emily of New Moon (1923)",
+   {
+    "contents_only": true
+   }
+  ],
+  "montgomery-blue-castle": [
+   67979,
+   "The Blue Castle (1926)",
+   {
+    "chapre_only": "CHAPTER [IVXL]+\\.?$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "montgomery-duplicate": "Anne of Green Gables (PG 64365): a later illustrated printing",
+  "montgomery-short-stories": "the six magazine short-story gatherings (PG 24873-24878): candidates for a later batch"
+ }
+}

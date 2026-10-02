@@ -231,3 +231,6 @@
 
 ## 2026-10-02 17:29 CDT — dodge: done
 - 1/1 fetched (Gutenberg 764), 2,093 units, 0 ~2 ids.
+
+## 2026-10-02 17:29 CDT — montgomery: done
+- 13/13 fetched (Gutenberg 45, 47, 51, 544, 5343, 3796, 1354, 5340, 5342, 316, 5341, 61236, 67979), 21,864 units, 1 ~2 ids.
