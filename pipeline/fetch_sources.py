@@ -207,6 +207,20 @@ ENGLISH = {
                                     "reuse; the 1535 text is PD and a verbatim transcription "
                                     "carries no new US copyright. For Adam: "
                                     "docs/pending-sources.md"},
+    "bishops": {"file": "bss-bishops.json", "source": "bss", "module": "bishops",
+                "title": "The Bishops' Bible (1568)",
+                "author": "the Bishops' Bible translators (under Matthew Parker)",
+                "year": 1568,
+                "sha256": "e9fc0c66c1b6e4d94c5b9301d5e2f33c470e1a6183fc93c54fdab63d180ac14d",
+                "readme": "This Bible is in the Public Domain.",
+                "coverage": "the 66 books of the Protestant canon; the printed Bible's "
+                            "Apocrypha are not in this transcription",
+                "rights_finding": "BSS does not name its transcription. The same text is "
+                                  "on textusreceptusbibles.com (Gen 1:1-2 compared), whose "
+                                  "site terms restrict reuse; the 1568 text is PD and a "
+                                  "verbatim transcription carries no new US copyright. Its "
+                                  "metadata says italics: 1, but the text carries no italic "
+                                  "markup. For Adam: docs/pending-sources.md"},
 }
 ENGLISH_PIN = {"repo": "scrollmapper/bible_databases",
                "commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c", "dir": "sources/en"}

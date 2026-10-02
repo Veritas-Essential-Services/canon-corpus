@@ -74,6 +74,8 @@ _HOLDS = ("the verse holds the words of both KJV verses (the slot after or befor
           "empty or holds other words); read in both texts")
 _COVPS = ("Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both "
           "texts")
+_PS87 = ("Ps 87:1-2 in the other order: the gates of Zion first, then the foundations on "
+         "the holy hills (the KJV's two verses swapped); read in both texts")
 _ROM3 = ("the Latin Psalter's longer Ps 14:3 (13:3 in the Vulgate), the words of Rom "
          "3:13-18, which Coverdale translates and the Hebrew and the KJV lack")
 HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
@@ -128,6 +130,10 @@ HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
         "Ps.130.1": (["Ps.130.1", "Ps.130.2"], "LORDE heare my voyce", _COVPS),
         "Hab.3.4": (["Hab.3.3", "Hab.3.4"], "His glory couereth the heauens",
                     "the second half of the KJV's 3:3 opens Coverdale's 3:4"),
+    },
+    "bishops": {
+        "Ps.87.1": (["Ps.87.2"], "God loueth the gates of Sion", _PS87),
+        "Ps.87.2": (["Ps.87.1"], "for her foundations are vpon the holy hilles", _PS87),
     },
     "darby": {
         "Phil.1.16": (["Phil.1.17"], "These indeed out of love", _PHIL),
@@ -208,7 +214,7 @@ def empty_slots(slug):
 # doubled letters single, a final -e dropped ("heauen"/"heaven" -> "heauen",
 # "fete"/"feet" -> "fet"). Only the Bibles named here read this way, so the
 # five maps built before it are unchanged.
-OLD_SPELLING = {"coverdale"}
+OLD_SPELLING = {"coverdale", "bishops"}
 
 
 def _fold(w):
@@ -409,6 +415,9 @@ HOUSE_MISSING = {    # {slug: {KJV verse: why the Bible has no verse for it}}
                   "Ps.136.24": "this transcription has no words for it ('And hath redeemed "
                                "us from our enemies'): its 136:24-25 are the KJV's 136:25-26, "
                                "and its 136:26 reads '(Omitted Text)'"},
+    "bishops": {v: "this transcription's slot is empty, and the verses around it do not hold "
+                   "its words" for v in ["Gen.11.10", "Gen.46.9", "Exod.6.14", "Exod.36.8",
+                                         "Deut.16.4", "Esth.1.1"]},
 }
 
 

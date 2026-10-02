@@ -4520,5 +4520,36 @@
    "rights_line": "This Bible is in the Public Domain.",
    "finding": "BSS does not name its transcription. The same text is on textusreceptusbibles.com, whose site terms restrict reuse; the 1535 text is PD and a verbatim transcription carries no new US copyright. For Adam: docs/pending-sources.md"
   }
+ },
+ "bishops": {
+  "title": "The Bishops' Bible (1568)",
+  "author": "the Bishops' Bible translators (under Matthew Parker)",
+  "format": "biblesupersearch-json",
+  "sha256": "e9fc0c66c1b6e4d94c5b9301d5e2f33c470e1a6183fc93c54fdab63d180ac14d",
+  "units": 31096,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's Bible SuperSearch module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact, except 5 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "bishops (Bible SuperSearch, KJV grid)",
+   "kjv_resolved": 31096,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 6,
+   "coverage": "the 66 books of the Protestant canon; the printed Bible's Apocrypha are not in this transcription",
+   "rules": [
+    {
+     "why": "a stray '/>' removed, the tail of markup left in the source",
+     "applied": 1
+    }
+   ],
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/bishops-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Bishops' Bible (1568), via Bible SuperSearch (module 'bishops'); the source does not name the transcription it publishes",
+   "source_url": "https://api.biblesupersearch.com/api/download?bible=bishops&format=json",
+   "rights_line": "This Bible is in the Public Domain.",
+   "finding": "BSS does not name its transcription. The same text is on textusreceptusbibles.com (Gen 1:1-2 compared), whose site terms restrict reuse; the 1568 text is PD and a verbatim transcription carries no new US copyright. Its metadata says italics: 1, but the text carries no italic markup. For Adam: docs/pending-sources.md"
+  }
  }
 }

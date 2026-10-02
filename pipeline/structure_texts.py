@@ -738,7 +738,8 @@ def convert_brenton(zpath, sha, slug="brenton"):
 # ---------------------------------------------------------------- historic English Bibles
 #
 # Geneva 1599, Tyndale, Young's, Darby, the ASV 1901 (fetch_sources.ENGLISH:
-# scrollmapper's JSON of CrossWire's modules, pinned). A module sits on the
+# scrollmapper's JSON of CrossWire's modules, pinned), and Coverdale and the
+# Bishops' (Bible SuperSearch's JSON, ENGLISH_BSS, pinned). A module sits on the
 # KJV's verse grid, so the ids are its slots: the Bible's own numbers, except
 # where a chapter numbers otherwise and its overflow is merged into the last
 # slot. Each unit's `kjv` comes from data/versification/<slug>-kjv.json
@@ -752,6 +753,9 @@ def convert_brenton(zpath, sha, slug="brenton"):
 ENGLISH_RULES = {
     "darby": [(re.compile(r"(?<=[a-z])(?=God(?:head)?\b)"), " ",
                "a space restored before 'God', lost when the source's markup was stripped")],
+    # Bishops': one stray "/>" (the tail of a markup tag) ends Gen 46:27.
+    "bishops": [(re.compile(r"\s*/>"), "",
+                 "a stray '/>' removed, the tail of markup left in the source")],
 }
 
 
