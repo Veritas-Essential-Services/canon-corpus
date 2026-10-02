@@ -307,8 +307,10 @@
     },
     {
       "id": "dutt",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — R. C. Dutt's Ramayana and Mahabharata; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — R. C. Dutt's Ramayana and Mahabharata; no minting",
+      "finished": "2026-10-02T17:09:49-05:00",
+      "notes": "2/2 fetched (Gutenberg 19630; IA RamayanaTheEpicOfRama..., file Ramayana_the_epic_of_Rama_prince_of_Indi_djvu.txt), 2,072 units, 0 ~2 ids; Mahabharata nested Book > canto; Ramayana raw OCR grade B (96.8% word hit)."
     },
     {
       "id": "mabinogion",

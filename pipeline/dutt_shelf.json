@@ -1,0 +1,41 @@
+{
+ "_about": "Romesh Chunder Dutt's (1848-1909) condensations of the two Sanskrit epics into English verse: the Maha-bharata (1898, clean Gutenberg text) and the Ramayana (1899, raw Internet Archive OCR of an undated Google-scanned printing; Dutt died in 1909, so any printing is public domain). Dutt is the translator, recorded in each title. Google asks for non-commercial use of its scans; that is a request, not a legal restriction on a public-domain text (as with CCEL, rule 6).",
+ "_author": "Romesh Chunder Dutt",
+ "_name_words": [
+  "ramayana",
+  "mahabharata",
+  "rama",
+  "dutt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dutt-mahabharata": [
+   19630,
+   "Maha-bharata, the Epic of Ancient India, condensed into English verse by Romesh C. Dutt (1898)",
+   {
+    "levels": [
+     {
+      "re": "BOOK [IVXL]+$",
+      "title_next": true
+     },
+     {
+      "re": "[IVXL]+$",
+      "title_next": true
+     }
+    ],
+    "start": "BOOK I$"
+   }
+  ]
+ },
+ "internet_archive": {
+  "dutt-ramayana": [
+   "RamayanaTheEpicOfRamaPrinceOfIndiaCondensedIntoEnglishVerseBy",
+   "Ramayana, the Epic of Rama, Prince of India, condensed into English verse by Romesh C. Dutt (1899; undated printing)",
+   "Ramayana_the_epic_of_Rama_prince_of_Indi_djvu.txt"
+  ]
+ },
+ "_excluded": {
+  "dutt-other-translators": "Manmatha Nath Dutt's prose Ramayana (1891-94) and Ganguli's prose Mahabharata (PG 7864 and following, 15474-15477): other translators, not named by the relay",
+  "dutt-dli": "Digital Library of India copies of Dutt (in.ernet.dli.*) return 404 and are not used"
+ }
+}

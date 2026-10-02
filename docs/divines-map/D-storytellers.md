@@ -897,6 +897,17 @@ Shelf: `pipeline/sturluson_shelf.json` (2026-10-02; added at the coordinator's r
 | sturluson-selection | excluded | The Sagas of Olaf Tryggvason and of Harald the Tyrant (PG 22093, tr. Ethel Harriet Hearn from Storm's Norwegian): two sagas of Heimskringla, translated at second hand; not taken |
 | sturluson-thorpe | excluded | Thorpe and Blackwell's Elder and Younger Eddas (PG 14726): noted on the Poetic Edda shelf |
 
+## Romesh Chunder Dutt (the Indian epics)
+
+Shelf: `pipeline/dutt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dutt's condensations into English verse: the Maha-bharata (1898, clean Gutenberg, cut Book > canto) and the Ramayana (1899, raw IA OCR of an undated Google-scanned printing, graded B; IA's file name differs from the item id, so the row names it). Google asks that its scans be used non-commercially; that is a request, not a legal restriction on a public-domain text. Digital Library of India copies return 404. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Maha-bharata, the Epic of Ancient India, condensed into English verse by Romesh C. Dutt (1898) | have | PG 19630, `dutt-mahabharata` (2072 units) |
+| Ramayana, the Epic of Rama, Prince of India, condensed into English verse by Romesh C. Dutt (1899; undated printing) | have-raw | IA `RamayanaTheEpicOfRamaPrinceOfIndiaCondensedIntoEnglishVerseBy`, `dutt-ramayana` |
+| dutt-other-translators | excluded | Manmatha Nath Dutt's prose Ramayana (1891-94) and Ganguli's prose Mahabharata (PG 7864 and following, 15474-15477): other translators, not named by the relay |
+| dutt-dli | excluded | Digital Library of India copies of Dutt (in.ernet.dli.*) return 404 and are not used |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
