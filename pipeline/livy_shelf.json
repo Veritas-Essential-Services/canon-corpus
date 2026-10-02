@@ -48,10 +48,15 @@
    "livy05livy",
    "Livy, vol. 5: Books XXI-XXII (Loeb, 1929)",
    "tr. B. O. Foster"
+  ],
+  "livy-foster-v3": [
+   "livywithenglisht0000bofo",
+   "Livy, vol. 3: Books V-VII (Loeb, 1924)",
+   "tr. B. O. Foster"
   ]
  },
  "_excluded": {
   "Philemon Holland (1600)": "PD; pending",
-  "B. O. Foster, Loeb (1919-)": "vols. 1, 4, 5 held (IA); vol. 2 (1922) only as a 1939 revised printing, refused; vol. 3 (1924) no scan found; vols. 6- after 1930"
+  "B. O. Foster, Loeb (1919-)": "vols. 1, 3, 4, 5 held (IA); vol. 2 (1922) only as a 1939 revised printing, refused; vols. 6- after 1930"
  }
 }
