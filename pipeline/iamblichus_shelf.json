@@ -1,0 +1,26 @@
+{
+ "_about": "Iamblichus in Thomas Taylor's translations, clean Gutenberg: the Life of Pythagoras (1818) and On the Mysteries (1821; Gutenberg text from the 1895 reprint).",
+ "_name_words": [
+  "iamblichus",
+  "pythagoras",
+  "pythagoric",
+  "mysteries"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "iamblichus-taylor-pythagoras": [
+   63300,
+   "Iamblichus' Life of Pythagoras, or Pythagoric Life",
+   "tr. Thomas Taylor"
+  ],
+  "iamblichus-taylor-mysteries": [
+   72815,
+   "Iamblichus on the Mysteries of the Egyptians, Chaldeans, and Assyrians",
+   "tr. Thomas Taylor"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "wilder-theurgia-en-1911": "Alexander Wilder's Theurgia (1911); IA text layer empty; pending"
+ }
+}
