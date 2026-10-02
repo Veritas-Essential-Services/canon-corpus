@@ -44,6 +44,12 @@ def rows(name):
     return B.read_jsonl(os.path.join(B.OUT, name))
 
 
+def local_rows(name):
+    """A file built from the KJV tags: build/strongs/ only, never committed."""
+    p = os.path.join(B.LOCAL, name)
+    return B.read_jsonl(p) if os.path.exists(p) else None
+
+
 # -- the key -----------------------------------------------------------------
 for raw, lang, want in (("G0026", None, ("G26", None)), ("26", "greek", ("G26", None)),
                         ("H2617", None, ("H2617", None)), ("0175", "hebrew", ("H175", None)),
@@ -131,31 +137,48 @@ cc = {c["strongs"]: c for c in conc}
 if "nt" in cc.get("G26", {}).get("passages", {}):
     ok(cc["G26"]["tokens"]["nt"] == 116, f"ἀγάπη G26 occurs 116 times in the NT (got {cc['G26']['tokens']['nt']})")
 
-# -- the English half: KJV tags ----------------------------------------------
-kt = rows("kjv-tags.jsonl")
+# -- the English half: KJV tags (built locally; rights call pending) ------------
+import hashlib  # noqa: E402
 kjv_uids = {c: u for c, u in reg.map.items() if c.startswith("kjv:")}
-ok(len(kt) == 31102 == len(kjv_uids), f"one row per KJV verse ({len(kt):,})")
-ok(all(kjv_uids.get(r["citation"]) == r["passage_uid"] for r in kt),
-   "every row's passage_uid is the registry's uid for its citation")
-alltags = [t for r in kt for t in r["tags"] + r.get("title_tags", [])]
-ok(all(k in by and not by[k].get("not_used") for _, k in alltags),
-   f"every tag is a used number in the table ({len(alltags):,} tags)")
-ok(man["kjv"]["tags"] == len(alltags) == 349308, "349,308 tags, as the source carries")
-g11 = next(r for r in kt if r["citation"] == "kjv:Gen.1.1")
-ok(["beginning", "H7225"] in g11["tags"] and ["God", "H430"] in g11["tags"],
-   "Gen 1:1: beginning is H7225, God is H430")
-j316 = next(r for r in kt if r["citation"] == "kjv:John.3.16")
-ok(["loved", "G25"] in j316["tags"], "John 3:16: loved is G25")
-ps3 = next(r for r in kt if r["citation"] == "kjv:Ps.3.1")
-ok(["Absalom", "H53"] in ps3.get("title_tags", []), "Psalm 3's title is kept beside verse 1, not in it")
-ren = {r["strongs"]: r["renderings"] for r in rows("kjv-renderings.jsonl")}
-ok(ren["H430"].get("god", 0) > 2000 and "LORD" in ren.get("H3068", {}),
-   "renderings: H430 is mostly god; H3068 keeps LORD in capitals")
-ok(sum(sum(v.values()) for v in ren.values()) == len(alltags), "renderings count every tag once")
-ku = {u for c in conc for u in c["passages"].get("kjv", [])}
-ok(ku and ku <= set(kjv_uids.values()), "concordance kjv passages are KJV verse uids")
+r = subprocess.run(["git", "-C", ROOT, "ls-files", "data/strongs", "build"], capture_output=True, text=True)
+tracked = {os.path.basename(t) for t in r.stdout.split()}
+ok(r.returncode == 0 and not tracked & set(B.LOCAL_FILES),
+   "no file built from the KJV tags is tracked by git (rights call pending)")
+ok(man["local"]["rights"]["committed"] is False and "GPL" in man["local"]["rights"]["license"],
+   "the manifest labels the KJV-tag files: not committed, the GPL question named")
+ok(set(man["local"]["files"]) == set(B.LOCAL_FILES), "the manifest records every local file's sha256")
+ok(not any("kjv" in c["passages"] for c in conc), "the committed concordance holds no KJV-tag links")
+kt = local_rows("kjv-tags.jsonl")
+alltags = None
+if kt is None:
+    print("skip  KJV tags: not built here (python3 pipeline/build_strongs.py --fetch, then build)")
+else:
+    for name in B.LOCAL_FILES:
+        p = os.path.join(B.LOCAL, name)
+        ok(os.path.exists(p) and hashlib.sha256(open(p, "rb").read()).hexdigest()
+           == man["local"]["files"][name]["sha256"], f"build/strongs/{name}: sha256 is the manifest's")
+    ok(len(kt) == 31102 == len(kjv_uids), f"one row per KJV verse ({len(kt):,})")
+    ok(all(kjv_uids.get(r["citation"]) == r["passage_uid"] for r in kt),
+       "every row's passage_uid is the registry's uid for its citation")
+    alltags = [t for r in kt for t in r["tags"] + r.get("title_tags", [])]
+    ok(all(k in by and not by[k].get("not_used") for _, k in alltags),
+       f"every tag is a used number in the table ({len(alltags):,} tags)")
+    ok(man["kjv"]["tags"] == len(alltags) == 349308, "349,308 tags, as the source carries")
+    g11 = next(r for r in kt if r["citation"] == "kjv:Gen.1.1")
+    ok(["beginning", "H7225"] in g11["tags"] and ["God", "H430"] in g11["tags"],
+       "Gen 1:1: beginning is H7225, God is H430")
+    j316 = next(r for r in kt if r["citation"] == "kjv:John.3.16")
+    ok(["loved", "G25"] in j316["tags"], "John 3:16: loved is G25")
+    ps3 = next(r for r in kt if r["citation"] == "kjv:Ps.3.1")
+    ok(["Absalom", "H53"] in ps3.get("title_tags", []), "Psalm 3's title is kept beside verse 1, not in it")
+    ren = {r["strongs"]: r["renderings"] for r in local_rows("kjv-renderings.jsonl")}
+    ok(ren["H430"].get("god", 0) > 2000 and "LORD" in ren.get("H3068", {}),
+       "renderings: H430 is mostly god; H3068 keeps LORD in capitals")
+    ok(sum(sum(v.values()) for v in ren.values()) == len(alltags), "renderings count every tag once")
+    ku = {u for c in local_rows("concordance-kjv.jsonl") for u in c["passages"]}
+    ok(ku and ku <= set(kjv_uids.values()), "concordance kjv passages are KJV verse uids")
 
-# -- parallels and the concordance view ---------------------------------------
+# -- parallels ----------------------------------------------------------------
 par = rows("parallels.jsonl")
 pp = {r["kjv"]: r["parallels"] for r in par}
 ok(all(("kjv:" + r["kjv"]) in kjv_uids for r in par), "every parallels row is a KJV verse")
@@ -165,26 +188,31 @@ ok("Gen.1.1" not in pp, "a verse with the same number everywhere is not listed")
 ok(pp.get("Gen.49.32", {}).get("vulgate") == [], "Gen 49:32, which the Clementine lacks, says so with []")
 ok(all(i.startswith(n + ":") for v in pp.values() for n, ids in v.items() for i in ids),
    "parallel ids name their own Bible")
-view = rows("concordance-view.jsonl")
-vb = {r["strongs"]: r for r in view}
-ok([r["strongs"] for r in view] == [k for k in keys if k not in set(not_used)],
-   f"one view row per used number ({len(view):,})")
-ok(all(r["kjv"]["occurrences"] == sum(r["kjv"]["renderings"].values()) for r in view),
-   "each row's renderings add up to its KJV occurrences")
-ok(sum(r["kjv"]["occurrences"] for r in view) == len(alltags), "the view counts every KJV tag once")
-ok(all(set(r["parallels"]) <= set(r["kjv"]["verses"]) and all(pp[o] == v for o, v in r["parallels"].items())
-       for r in view), "a row's parallels are its own verses, as parallels.jsonl gives them")
-ok(all(r["lexicons"] == ww[r["strongs"]] for r in view), "a row's lexicons are its witnesses row")
-ok("Ps.23.1" in vb["H7462"]["kjv"]["verses"] and vb["H7462"]["parallels"]["Ps.23.1"]["vulgate"] == ["vulgate:Ps.22.1"],
-   "H7462 (shepherd): Ps 23:1, with its Vulgate verse 22:1")
-ok(vb["G26"]["kjv"]["renderings"].get("charity") == 28, "G26: the KJV renders it charity 28 times")
 ok(pp.get("Ps.23.1", {}).get("brenton") == ["brenton:Ps.22.1"], "Psalm 23:1 is Brenton's Psalm 22:1")
 ok(not any("brenton" in v for o, v in pp.items() if o.split(".")[0] in B.NT_BOOKS),
    "no New Testament verse is listed for Brenton (the Septuagint has none)")
 
+# -- the concordance view (local) ---------------------------------------------
+view = local_rows("concordance-view.jsonl") if kt is not None else None
+if view is None:
+    print("skip  concordance view: not built here")
+else:
+    vb = {r["strongs"]: r for r in view}
+    ok([r["strongs"] for r in view] == [k for k in keys if k not in set(not_used)],
+       f"one view row per used number ({len(view):,})")
+    ok(all(r["kjv"]["occurrences"] == sum(r["kjv"]["renderings"].values()) for r in view),
+       "each row's renderings add up to its KJV occurrences")
+    ok(sum(r["kjv"]["occurrences"] for r in view) == len(alltags), "the view counts every KJV tag once")
+    ok(all(set(r["parallels"]) <= set(r["kjv"]["verses"]) and all(pp[o] == v for o, v in r["parallels"].items())
+           for r in view), "a row's parallels are its own verses, as parallels.jsonl gives them")
+    ok(all(r["lexicons"] == ww[r["strongs"]] for r in view), "a row's lexicons are its witnesses row")
+    ok("Ps.23.1" in vb["H7462"]["kjv"]["verses"] and vb["H7462"]["parallels"]["Ps.23.1"]["vulgate"] == ["vulgate:Ps.22.1"],
+       "H7462 (shepherd): Ps 23:1, with its Vulgate verse 22:1")
+    ok(vb["G26"]["kjv"]["renderings"].get("charity") == 28, "G26: the KJV renders it charity 28 times")
+
 # -- OSHB's CC BY layer: built locally, never committed -------------------------
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "build/strongs"], capture_output=True, text=True)
-ok(r.returncode == 0 and not r.stdout.strip(), "no OSHB layer file is tracked by git")
+ok(r.returncode == 0 and not r.stdout.strip(), "nothing under build/strongs (OSHB layer, KJV-tag files) is tracked")
 ok(man["oshb_layer"]["license"] == "CC BY 4.0" and man["oshb_layer"]["redistribute_whole"] is False,
    "the manifest labels the OSHB layer CC BY, not for redistribution")
 ot_toks = B.load_corpus("ot")

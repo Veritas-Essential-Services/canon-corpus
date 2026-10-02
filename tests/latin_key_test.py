@@ -2,13 +2,15 @@
 # prov: 2026-10-02 claude-opus-5-5 drafted
 # fable_review: pending
 """
-latin_key_test.py -- the Latin key (data/lemmas/latin-key/): Lewis & Short's
-entries, Whitaker's lemmas linked to them, and the Vulgate's words.
+latin_key_test.py -- the Latin key: Lewis & Short's entries, Whitaker's lemmas
+linked to them, and the Vulgate's words.
 
     python3 tests/latin_key_test.py
 
-Runs offline on the committed files. The linking rules are tested on inline
-fixtures; --check runs only when the sources are in data/corpus/.
+The linking rules are tested on inline fixtures. Only the manifest is
+committed (data/lemmas/latin-key/); the files themselves derive from Perseus's
+CC BY-SA text and are built to build/latin-key/, so their checks run only
+after a local build, and --check only when the sources are in data/corpus/.
 """
 
 import hashlib
@@ -34,8 +36,21 @@ def ok(cond, msg):
 
 
 def rows(name):
-    with open(os.path.join(B.OUT, name), encoding="utf-8") as f:
+    with open(os.path.join(B.LOCAL, name), encoding="utf-8") as f:
         return [json.loads(l) for l in f]
+
+
+def end_to_end():
+    if os.path.exists(B.LS_FILE):
+        r = subprocess.run([sys.executable, os.path.join(ROOT, "pipeline", "build_latin_key.py"), "--check"],
+                           capture_output=True, text=True)
+        ok(r.returncode == 0, "build_latin_key.py --check: byte-identical")
+        if r.returncode:
+            print(r.stdout + r.stderr)
+    else:
+        print("skip  --check: Lewis & Short not in data/corpus (python3 pipeline/build_latin_key.py --fetch)")
+    print(f"\n{'FAILED' if fails else 'passed'}: {fails} failure(s)")
+    sys.exit(1 if fails else 0)
 
 
 # -- the linking rules, on fixtures -------------------------------------------
@@ -61,14 +76,16 @@ ok(B.link("cum", "CONJ", *ix) == ("class", ["cum2"]), "cum the conjunction is cu
 ok(B.link("qui", "PRON", *ix) == ("class", ["qui1"]), "qui the pronoun: the one entry printing no other class")
 ok(B.link("x", "N", *ix) == ("headword", ["x1"]), "an entry L&S marks spurious never takes a word")
 ok(B.link("nemo", "N", *ix) == ("none", []), "no entry: none, nothing guessed")
+ok(B.link("x", "V", *ix) == ("clash", []), "a verb whose only entry is a noun: clash, not linked")
 ok(B.link("populus", "N", *ix, gender="F") == ("gender", ["populus2"]), "populus, feminine: the poplar (populus2)")
 ok(B.link("rex", "N", *ix, gender="M", proper=False) == ("case", ["rex1"]), "rex, a common noun: rex1, not the name Rex2")
 
 
 # -- the context rules, on fixtures ------------------------------------------
-def R(target, wkey="w", pos="N", case=None, efreq=0, ifreq="A", proper=False, linked=True):
+def R(target, wkey="w", pos="N", case=None, efreq=0, ifreq="A", proper=False, linked=True,
+      number=None, gender=None):
     return {"target": tuple(target), "linked": linked, "wkey": wkey, "pos": pos, "case": case,
-            "efreq": efreq, "ifreq": ifreq, "iage": "X", "proper": proper}
+            "number": number, "gender": gender, "efreq": efreq, "ifreq": ifreq, "iage": "X", "proper": proper}
 
 
 def T(form, Rs, punct=False, cased=None):
@@ -98,6 +115,12 @@ ok(B.resolve(panes, None, None) == ("panis", ["proper-lower"]), "panes, lower-ca
 dominum = T("dominum", [R(["domina"], "domina", "N", "GEN", ifreq="C"), R(["dominus"], "dominus", "N", "ACC")])
 ok(B.resolve(dominum, None, None) == ("dominus", ["rare-inflection"]),
    "dominum as domina's genitive plural is an ending WORDS grades C: rare-inflection")
+salutare = T("salutare", [R(["saluto"], "saluto", "V", efreq=0),
+                           R(["salutaris"], "salutaris", "N", "ACC", efreq=2, number="S", gender="N")])
+tuum = T("tuum", [R(["tuus"], "tuus", "ADJ", "ACC", number="S", gender="N"),
+                  R(["tuus"], "tuus", "ADJ", "ACC", number="S", gender="M")])
+ok(B.resolve(salutare, tuum, None) == ("salutaris", ["possessive-agrees"]),
+   "salutare tuum: a noun agreeing with tuum, not the verb (possessive-agrees, before rare-entry)")
 sanctus = T("sanctus", [R(["sanctus"], "sanctus", "ADJ", "NOM"), R(["sancio"], "sancio", "VPAR", "NOM")])
 ok(B.resolve(sanctus, None, None) == (None, []), "adjective or participle, both common: null, never guessed")
 ok(B.ls_fold("a^credula") == "acredula" and B.ls_fold("ăd-ōro") == "adoro",
@@ -105,16 +128,27 @@ ok(B.ls_fold("a^credula") == "acredula" and B.ls_fold("ăd-ōro") == "adoro",
 ok(B.ls_class(None, "f.") == "N" and B.ls_class("v. dep.", None) == "V" and B.ls_class("P. a.", None) == "ADJ",
    "L&S's printed class read in WORDS's terms")
 
-# -- the committed files -----------------------------------------------------
+# -- the committed manifest; the CC BY-SA files stay out of git ---------------
 man = json.load(open(os.path.join(B.OUT, "manifest.json"), encoding="utf-8"))
-for name, meta in man["files"].items():
-    with open(os.path.join(B.OUT, name), "rb") as f:
-        blob = f.read()
-    ok(hashlib.sha256(blob).hexdigest() == meta["sha256"] and blob.count(b"\n") == meta["rows"],
-       f"{name}: sha256 and row count are the manifest's")
 rights = man["sources"]["lewis-short"]["rights"]
 ok(rights["redistribute_whole"] is False and "CC BY-SA" in rights["license"] and "Perseus" in rights["attribution"],
    "L&S rights block: CC BY-SA, attribution, not redistributed whole")
+ok(set(man["files"]) == set(B.LOCAL_FILES) and "gitignored" in man["files_dir"],
+   "the manifest lists every built file and says where they live (gitignored)")
+tracked = subprocess.run(["git", "ls-files", "data/lemmas/latin-key", "build/latin-key"], cwd=ROOT,
+                         capture_output=True, text=True).stdout.split()
+ok(tracked == ["data/lemmas/latin-key/manifest.json", "data/lemmas/latin-key/manifest.json.prov.md"],
+   "git tracks only the manifest: nothing derived from Lewis & Short is committed")
+
+missing = [n for n in man["files"] if not os.path.exists(os.path.join(B.LOCAL, n))]
+if missing:
+    print(f"skip  the built files: {len(missing)} not in build/latin-key (python3 pipeline/build_latin_key.py)")
+    end_to_end()
+for name, meta in man["files"].items():
+    with open(os.path.join(B.LOCAL, name), "rb") as f:
+        blob = f.read()
+    ok(hashlib.sha256(blob).hexdigest() == meta["sha256"] and blob.count(b"\n") == meta["rows"],
+       f"{name}: sha256 and row count are the manifest's")
 
 ls = rows("lewis-short.jsonl")
 LS_FIELDS = {"key", "citation", "perseus_id", "homograph", "type", "headword", "spellings",
@@ -129,10 +163,15 @@ ok(by["super10"]["headword"] == "superfio", "headword is the printed spelling, n
 
 wl = rows("whitaker-ls.jsonl")
 ok(all(set(r["ls"]) <= keys for r in wl), "every Whitaker link names a real L&S key")
-ok(all((r["status"] == "none") == (not r["ls"]) for r in wl), "a lemma has keys exactly when it is linked")
+ok(all((r["status"] in ("none", "clash")) == (not r["ls"]) for r in wl), "a lemma has keys exactly when it is linked")
 ok(all(len(r["ls"]) == 1 for r in wl if r["status"] in B.LINKED), "a linked lemma names one entry")
 W_ = {r["whitaker"]: r for r in wl}
 ok(W_.get("verbum, verbi  N (2nd) N", {}).get("ls") == ["verbum"], "verbum -> lewis-short:verbum")
+ok(W_["vis  V  (UNIQUES)"]["status"] == "clash" and not W_["vis  V  (UNIQUES)"]["ls"],
+   "vis, 'you want', is not linked to L&S's vis, 'force'")
+ok(W_["canto, cantonis  N (3rd) M"]["status"] == "clash", "canto, cantonis (a noun) is not canto, to sing")
+ok(by["miror"]["class"] == "V" and by["miror"]["gen"] is None and by["abstineo"]["class"] == "V",
+   "L&S's v. n. (an intransitive verb) is not read as a neuter noun: miror, abstineo are verbs")
 
 forms = {r["form"]: r for r in rows("vulgate-forms.jsonl")}
 ok(sum(r["tokens"] for r in forms.values()) == 612029, "every running word of the Vulgate is counted (612,029)")
@@ -140,6 +179,8 @@ ok(forms["deus"]["status"] == "sure" and forms["deus"]["ls"] == ["deus"], "deus 
 ok(forms["est"]["status"] == "several" and {"sum1", "edo2"} <= set(forms["est"]["ls"]),
    "est stays several: sum and edo (to eat), never chosen")
 ok(all(set(r["ls"]) <= keys for r in forms.values()), "every form names real L&S keys")
+ok(forms["vis"]["status"] == "several" and forms["vis"]["unresolved"] == forms["vis"]["tokens"],
+   "the form vis stays several (force, or you want): never sure")
 
 conc = {r["key"]: r for r in rows("vulgate-concordance.jsonl")}
 ok(set(conc) <= keys, "every concordance key is an L&S key")
@@ -172,15 +213,4 @@ ok(all(set(x["ls"] for x in r["latin"]) <= keys for r in eq.values()), "every La
 ok(all((r["evidence"] == "thin") == (r["verses"] < rule["thin_below"]) for r in eq.values()),
    "a number seen in fewer than 10 KJV verses is marked thin")
 
-# -- the build, end to end ---------------------------------------------------
-if os.path.exists(B.LS_FILE):
-    r = subprocess.run([sys.executable, os.path.join(ROOT, "pipeline", "build_latin_key.py"), "--check"],
-                       capture_output=True, text=True)
-    ok(r.returncode == 0, "build_latin_key.py --check: byte-identical")
-    if r.returncode:
-        print(r.stdout + r.stderr)
-else:
-    print("skip  --check: Lewis & Short not in data/corpus (python3 pipeline/build_latin_key.py --fetch)")
-
-print(f"\n{'FAILED' if fails else 'passed'}: {fails} failure(s)")
-sys.exit(1 if fails else 0)
+end_to_end()

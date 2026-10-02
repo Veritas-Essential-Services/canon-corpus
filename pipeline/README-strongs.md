@@ -26,14 +26,26 @@ python3 pipeline/build_strongs.py --adopt    # ONLY on Adam's ruling (s.4)
 | `strongs.jsonl` | Strong's number (14,298) | **The table.** Lemma, transliteration, pronunciation, derivation, definition and KJV renderings, from Strong's own 1890 dictionaries. |
 | `proposed-uids.jsonl` | word (14,197) | The Word Hoard uid each word **would** get. Not in the registry. |
 | `witnesses.jsonl` | Strong's number | Which entries in BDB, TBESG, LSJ and Thayer write that word up. Citations only. |
-| `concordance.jsonl` | number that occurs | Every passage uid it occurs in, per corpus (`kjv`, `nt`), and how many tokens. |
-| `kjv-tags.jsonl` | KJV verse (31,102) | Each tagged English word or phrase, in verse order, with its Strong's key. |
+| `concordance.jsonl` | number that occurs | Every passage uid it occurs in, from the Greek NT's own tokens (`nt`), and how many tokens. |
 | `parallels.jsonl` | KJV verse numbered differently elsewhere (5,423) | Its verse ids in the Clementine Vulgate, the Douay-Rheims and Brenton's Septuagint. |
-| `concordance-view.jsonl` | used number (14,197) | **The concordance view**: everything above about one number, in one row (s.9). |
-| `kjv-renderings.jsonl` | number the KJV tags | Every English rendering of it and how often: the index of Strong's Exhaustive Concordance. |
-| `manifest.json` | — | Sources and their sha256, counts, and what is not claimed. |
+| `manifest.json` | — | Sources and their sha256, counts, what is not claimed, and the local files' sha256 (`local`). |
 
-All committed. The dictionaries themselves stay in the gitignored `data/corpus/`.
+Those are committed. **Everything drawn from the KJV's Strong's tags is built
+locally to the gitignored `build/strongs/`**, because whether those tags are public
+domain or GPL is still Adam's call (s.6):
+
+| file (local) | one row per | what it says |
+|---|---|---|
+| `kjv-tags.jsonl` | KJV verse (31,102) | Each tagged English word or phrase, in verse order, with its Strong's key. |
+| `kjv-renderings.jsonl` | number the KJV tags | Every English rendering of it and how often: the index of Strong's Exhaustive Concordance. |
+| `concordance-kjv.jsonl` | number the KJV tags | Every KJV passage uid it occurs in: the `kjv` half of the concordance. |
+| `concordance-view.jsonl` | used number (14,197) | **The concordance view**: everything above about one number, in one row (s.9). |
+
+`manifest.local` records their sha256, row counts and the rights block
+(`redistribute_whole: false`); a rebuild with `--fetch`ed tags proves itself against
+it. On 2026-10-02 these files were also removed from the branch's history, so
+nothing derived from the tags has been published. The dictionaries themselves stay
+in the gitignored `data/corpus/`.
 
 ## 2. The key, and the two citations
 
@@ -103,8 +115,9 @@ the uid column as provisional.
 - **The Hebrew OT** (`data/ot/`, PR #8): its tokens carry **no** Strong's key, because
   OSHB's lemma tagging is CC BY 4.0 and the licence gate (ADR 0001) keeps it out of
   the committed files. Two things stand in for it:
-  1. **Verse level, committed:** the KJV's own tagging (s.6) gives every OT verse its
-     Strong's numbers, so the concordance's `kjv` corpus covers the OT.
+  1. **Verse level, local:** the KJV's own tagging (s.6) gives every OT verse its
+     Strong's numbers, so `build/strongs/concordance-kjv.jsonl` covers the OT. Like
+     every file from those tags it waits on Adam's rights call before it is committed.
   2. **Word level, local only:** every build where the pinned WLC is in `data/corpus/`
      writes `build/strongs/oshb-ot/<Book>.jsonl`, one row per `data/ot` token address
      with OSHB's Strong's keys as plain `H<n>`, any augment letter (`1254a`) in its own
@@ -129,8 +142,8 @@ That is the 2026-09-06 manifest lesson, applied here from the start.
 ## 6. The English half: the KJV's words, tagged
 
 Strong's *Exhaustive Concordance* lists every KJV English word with the number behind
-it. `kjv-tags.jsonl` is that link, verse by verse, and `kjv-renderings.jsonl` is its
-index. 349,308 tags across all 31,102 verses, every one a used number in the table.
+it. `build/strongs/kjv-tags.jsonl` is that link, verse by verse, and
+`kjv-renderings.jsonl` is its index. Both are local until the rights call below. 349,308 tags across all 31,102 verses, every one a used number in the table.
 
 **The sources, and the rights line of each exact edition (read 2026-10-02):**
 
@@ -143,6 +156,8 @@ index. 349,308 tags across all 31,102 verses, every one a used number in the tab
 **The rights call is Adam's.** The tags are labelled public domain on the exact
 edition, the standard CLAUDE.md sets. The thing to weigh is that CrossWire's own
 conf for the same tagging says GPL, though its prose grants use "for any purpose".
+Until he rules, nothing built from them is committed: the four files above are
+local, and `tests/strongs_test.py` fails if git tracks any of them.
 
 How it reads:
 - A tagged entry is the KJV word or phrase exactly as tagged (`"man’s hand"` is one
@@ -169,12 +184,13 @@ Strong's 1890 dictionaries are public domain. The Hebrew transcription's XML mar
 CC BY 4.0 (OpenScriptures HebrewLexicon). Only the PD text fields are carried, with
 attribution in the manifest. The STEPBible lexicons (CC BY, `redistribute_whole: false`)
 contribute **citations only**, never text, so nothing of theirs is redistributed. The
-KJV tags: s.6. OSHB's tags: s.5, never committed.
+KJV tags: s.6, local until Adam rules. OSHB's tags: s.5, never committed.
 
 ## 9. The concordance view
 
-`concordance-view.jsonl` is the page of a printed concordance, one row per used number,
-built from the other files so nobody has to join them by hand:
+`build/strongs/concordance-view.jsonl` (local, since it carries the KJV tags) is the
+page of a printed concordance, one row per used number, built from the other files so
+nobody has to join them by hand:
 
 ```
 {"strongs": "H7462", "lemma": "רָעָה", "translit": "râʻâh", "lang": "hbo",
@@ -186,7 +202,7 @@ built from the other files so nobody has to join them by hand:
 ```
 
 - **`kjv.verses`** are the KJV verses whose tagged words carry the number, in canon
-  order. Their uids are in `concordance.jsonl`.
+  order. Their uids are in `build/strongs/concordance-kjv.jsonl`.
 - **`lexicons`** is the number's `witnesses.jsonl` row: citations into Strong's, BDB,
   TBESG, LSJ and Thayer.
 - **`parallels`** lists only the verses whose number differs in a parallel Bible. A
