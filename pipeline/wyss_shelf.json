@@ -1,0 +1,33 @@
+{
+ "_about": "Johann David Wyss's (1743-1818) The Swiss Family Robinson, edited by his son Johann Rudolf Wyss, in W. H. G. Kingston's translation (PG 41659), the edition whose Gutenberg header names its translator. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Johann David Wyss",
+ "_name_words": [
+  "swiss",
+  "family",
+  "robinson",
+  "island"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wyss-swiss-family-robinson-kingston": [
+   41659,
+   "The Swiss Family Robinson, tr. W. H. G. Kingston",
+   {
+    "levels": [
+     {
+      "re": "(CONTENTS|THE SWISS FAMILY ROBINSON)\\.?$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+\\.$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "wyss-copyrighted": "Swiss Family Robinson (PG 3836): its Gutenberg header reads 'This is a COPYRIGHTED Project Gutenberg eBook' (the 2026-07-26 rights rule)",
+  "wyss-godwin": "The Family Robinson Crusoe (PG 72813): the first English version, published by M. J. Godwin and Co.; the edition names no translator (usually attributed to the Godwins), so it waits for Adam",
+  "wyss-unnamed": "The Swiss Family Robinson (PG 11703) and the Milo Winter and T. H. Robinson printings (PG 34808, 78017): no translator named in the catalog; Words of One Syllable (PG 6692): Lucy Aikin's adaptation"
+ }
+}

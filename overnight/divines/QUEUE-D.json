@@ -463,7 +463,9 @@
     {
       "id": "wyss",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — The Swiss Family Robinson, Kingston's translation; children's classics batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T17:29:49-05:00",
+      "notes": "1/1 fetched (Gutenberg 41659), 2,544 units, 0 ~2 ids."
     }
   ]
 }
