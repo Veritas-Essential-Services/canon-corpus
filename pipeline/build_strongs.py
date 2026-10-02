@@ -109,10 +109,22 @@ WITNESSES = {
     "thayer": ("thayer-entries", None, [os.path.join(BOOKS, "thayer-entries.json")]),
 }
 
-# Original-language corpora: dir -> witness label. Each is one folder per book
-# of <Book>/tokens.jsonl with `passage_uid` and `lemma_key`, books in the
-# order its manifest.json lists them.
+# Original-language corpora, read ONLY through their own loaders (their shards
+# are rebuilt by pipeline/rebuild_bible.py, not committed): name -> (dir, loader).
 CORPORA = {"nt": "data/nt", "ot": "data/ot"}
+
+
+def load_corpus(name):
+    """The corpus's tokens via build_nt_corpus.load_nt / build_ot_corpus.load_ot,
+    or None when its shards are not built here."""
+    try:
+        if name == "nt":
+            import build_nt_corpus as M
+            return M.load_nt(ROOT)["tokens"]
+        import build_ot_corpus as M
+        return M.load_ot(ROOT)["tokens"]
+    except (SystemExit, FileNotFoundError):
+        return None
 
 KEY_RE = re.compile(r"^\s*([HGhg])?0*(\d+)\s*([A-Za-z])?\s*$")
 
@@ -302,16 +314,6 @@ def build_witnesses(table, prior_rows, prior_manifest):
 # Concordance: number -> passage uids, from the committed corpora
 # ---------------------------------------------------------------------------
 
-def _books(base):
-    man = os.path.join(base, "manifest.json")
-    if os.path.exists(man):
-        with open(man, encoding="utf-8") as f:
-            books = (json.load(f).get("selection") or {}).get("books")
-        if books:
-            return books
-    return sorted(d for d in os.listdir(base) if os.path.isdir(os.path.join(base, d)))
-
-
 def build_concordance(table, prior_rows, prior_manifest, kjv_rows=None):
     keys = {t["strongs"] for t in table}
     occ = {}                                   # key -> {corpus: [uids in canon order]}
@@ -340,32 +342,30 @@ def build_concordance(table, prior_rows, prior_manifest, kjv_rows=None):
                         "numbers_occurring": sum(1 for k in occ if "kjv" in occ[k]),
                         "note": "tagged KJV words, not original-language tokens"}
     for name, rel in CORPORA.items():
-        base = os.path.join(ROOT, rel)
-        if not os.path.isdir(base):
+        toks = load_corpus(name)
+        if toks is None:
             for r in prior_rows:              # carry a corpus we cannot see forward
                 if name in r["passages"]:
                     occ.setdefault(r["strongs"], {})[name] = r["passages"][name]
                     tokens.setdefault(r["strongs"], {})[name] = r["tokens"][name]
             if (prior_manifest.get("concordance") or {}).get(name):
-                stats[name] = dict(prior_manifest["concordance"][name], carried_forward=True)
+                stats[name] = prior_manifest["concordance"][name]     # unchanged: --check holds
             continue
         n_tok, no_key, unknown, suffixed = 0, 0, {}, 0
-        for book in _books(base):
-            path = os.path.join(base, book, "tokens.jsonl")
-            for t in read_jsonl(path):
-                n_tok += 1
-                k, suf = normalize(t.get("lemma_key"))
-                if not k:
-                    no_key += 1
-                    continue
-                suffixed += bool(suf)
-                if k not in keys:
-                    unknown[k] = unknown.get(k, 0) + 1
-                    continue
-                # dict as an ordered set: canon order, a verse listed once
-                occ.setdefault(k, {}).setdefault(name, {})[t["passage_uid"]] = None
-                tc = tokens.setdefault(k, {})
-                tc[name] = tc.get(name, 0) + 1
+        for t in toks:
+            n_tok += 1
+            k, suf = normalize(t.get("lemma_key"))
+            if not k:
+                no_key += 1
+                continue
+            suffixed += bool(suf)
+            if k not in keys:
+                unknown[k] = unknown.get(k, 0) + 1
+                continue
+            # dict as an ordered set: canon order, a verse listed once
+            occ.setdefault(k, {}).setdefault(name, {})[t["passage_uid"]] = None
+            tc = tokens.setdefault(k, {})
+            tc[name] = tc.get(name, 0) + 1
         for k in occ:
             if isinstance(occ[k].get(name), dict):
                 occ[k][name] = list(occ[k][name])
@@ -535,13 +535,14 @@ RE_OSHB_NUM = re.compile(r"(\d+)(?:\s*([a-z]))?")
 
 
 def oshb_keys(lemma):
-    """OSHB lemma attribute -> Strong's keys, suffix kept: 'c/d/776' -> ['H776'];
-    '1254 a' -> ['H1254a']; prefixes (b/, c/, l/ ...) carry no number."""
+    """OSHB lemma attribute -> [(key, augment letter or None)]: 'c/d/776' ->
+    [('H776', None)]; '1254 a' -> [('H1254', 'a')]. Prefixes (b/, c/, l/ ...)
+    carry no number and are not returned."""
     out = []
     for part in (lemma or "").split("/"):
         m = RE_OSHB_NUM.search(part)
         if m:
-            out.append(f"H{int(m.group(1))}{m.group(2) or ''}")
+            out.append((f"H{int(m.group(1))}", m.group(2)))
     return out
 
 
@@ -602,8 +603,11 @@ def build_oshb_layer():
     book = {p["uid"]: p["book"] for p in data["passages"]}
     per_book = {}
     for t, ks in zip(toks, flat):
-        per_book.setdefault(book[t["passage_uid"]], []).append(
-            {"address": t["address"], "surface": t["surface"], "strongs": ks})
+        row = {"address": t["address"], "passage_uid": t["passage_uid"], "witness": t["witness"],
+               "position": t["position"], "surface": t["surface"], "strongs": [k for k, _ in ks]}
+        if any(a for _, a in ks):
+            row["augment"] = [a for _, a in ks]
+        per_book.setdefault(book[t["passage_uid"]], []).append(row)
     return per_book
 
 

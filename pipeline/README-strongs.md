@@ -107,7 +107,8 @@ the uid column as provisional.
      Strong's numbers, so the concordance's `kjv` corpus covers the OT.
   2. **Word level, local only:** every build where the pinned WLC is in `data/corpus/`
      writes `build/strongs/oshb-ot/<Book>.jsonl`, one row per `data/ot` token address
-     with OSHB's Strong's keys (augment letter kept: `H1254a`) and a `rights.json`.
+     with OSHB's Strong's keys as plain `H<n>`, any augment letter (`1254a`) in its own
+     `augment` field, keyed by address, passage uid and position, plus a `rights.json`.
      `build/` is gitignored, so it is never committed. Drop it by deleting the folder.
      It walks the OSHB files with `build_ot_corpus.read_book()`'s own word rules and
      checks every surface, so it cannot drift from the tokens. 299,162 tokens get one
@@ -116,6 +117,10 @@ the uid column as provisional.
 - **Thayer:** PR #7's `thayer-entries` book already links each entry to `strongs-greek`.
   It is built only on Adam's machine (the OCR lives there), so a cloud build carries
   Thayer's committed links forward untouched. A local build fills them in.
+
+**The corpora are read through their own loaders** (`load_nt()`, `load_ot()`), never
+by path. Since PR #8's 44cb57d their shards are rebuilt by `pipeline/rebuild_bible.py`,
+not committed. When they are absent, the committed concordance rows stand.
 
 **A partial build never deletes.** A witness or corpus whose source is absent is
 carried forward from the committed files, and the manifest says `carried_forward`.

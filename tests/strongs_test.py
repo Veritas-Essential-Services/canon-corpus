@@ -112,15 +112,12 @@ man = json.load(open(os.path.join(B.OUT, "manifest.json"), encoding="utf-8"))
 ok(all(c["strongs"] in by for c in conc), "every concordance key is in the table")
 ok(not any(by[c["strongs"]].get("not_used") for c in conc), "no 'Not Used' number occurs")
 for name, rel in B.CORPORA.items():
-    base = os.path.join(ROOT, rel)
-    if not os.path.isdir(base):
-        print(f"skip  {rel}: not in this checkout")
+    toks = B.load_corpus(name)
+    if toks is None:
+        print(f"skip  {rel}: shards not built here (python3 pipeline/rebuild_bible.py)")
         continue
-    pu = set()
-    ntok = 0
-    for book in B._books(base):
-        pu |= {p["uid"] for p in B.read_jsonl(os.path.join(base, book, "passages.jsonl"))}
-        ntok += sum(1 for _ in open(os.path.join(base, book, "tokens.jsonl"), encoding="utf-8"))
+    pu = {t["passage_uid"] for t in toks}
+    ntok = len(toks)
     got = [u for c in conc for u in c["passages"].get(name, [])]
     if not got and man["concordance"][name]["tokens_without_key"] == man["concordance"][name]["tokens"]:
         print(f"skip  {rel}: its tokens carry no Strong's key (withheld by the licence gate)")
@@ -188,17 +185,17 @@ r = subprocess.run(["git", "-C", ROOT, "ls-files", "build/strongs"], capture_out
 ok(r.returncode == 0 and not r.stdout.strip(), "no OSHB layer file is tracked by git")
 ok(man["oshb_layer"]["license"] == "CC BY 4.0" and man["oshb_layer"]["redistribute_whole"] is False,
    "the manifest labels the OSHB layer CC BY, not for redistribution")
-if os.path.isdir(B.OSHB_OUT) and os.path.isdir(os.path.join(ROOT, "data", "ot")):
+ot_toks = B.load_corpus("ot")
+if os.path.isdir(B.OSHB_OUT) and ot_toks is not None:
     lay = [x for f in sorted(os.listdir(B.OSHB_OUT)) if f.endswith(".jsonl")
            for x in B.read_jsonl(os.path.join(B.OSHB_OUT, f))]
-    ot_tok = {}
-    for book in B._books(os.path.join(ROOT, "data", "ot")):
-        for t in B.read_jsonl(os.path.join(ROOT, "data", "ot", book, "tokens.jsonl")):
-            ot_tok[t["address"]] = t["surface"]
+    ot_tok = {t["address"]: t["surface"] for t in ot_toks}
     ok(len(lay) == len(ot_tok) and all(ot_tok.get(x["address"]) == x["surface"] for x in lay),
        f"OSHB layer: one row per data/ot token, surfaces agree ({len(lay):,})")
-    ok(all(B.normalize(k)[0] in by for x in lay for k in x["strongs"]),
-       "OSHB layer: every key is in the table")
+    ok(all(re.fullmatch(r"H[1-9]\d*", k) and k in by for x in lay for k in x["strongs"]),
+       "OSHB layer: every key is plain H<n> and in the table")
+    ok(all(len(x.get("augment", x["strongs"])) == len(x["strongs"]) for x in lay),
+       "OSHB layer: augment letters ride beside their keys, one each")
 else:
     print("skip  OSHB layer: not built here")
 
