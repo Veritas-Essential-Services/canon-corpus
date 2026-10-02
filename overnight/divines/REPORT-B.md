@@ -118,3 +118,13 @@
 - greek-romances (overflow): Rowland Smith's Heliodorus/Longus/Achilles Tatius (PG 55406).
 - Josephus (Whiston, PG 2846-2850) is on no shelf in any lane; left for the coordinator to assign rather than taking it into lane B.
 - All PG headers read: none COPYRIGHTED.
+
+## 2026-10-02 16:27 CDT — greek-science (done)
+- euclid: Heath's Thirteen Books 1908, 3 vols (IA), each identified by its title page; clean-word 0.77-0.83 (symbols and lettered figures).
+- archimedes: Heath's Works 1897 and Method 1912 (IA); Apollonius of Perga's Conics, Heath 1896 (IA, 0.73).
+- hippocrates: Adams vol 1 (PG 72583), vol 2 Sydenham 1849 (IA).
+- galen: Brock 1916 (PG 43383). aretaeus: Adams 1856, Greek+English (IA). theophrastus: Bennett & Hammond 1902 (PG 58242), Jebb 1870 (IA).
+- greek-mechanics-astronomy: Hero's Pneumatics, Greenwood (PG 77400); Ptolemy's Tetrabiblos, Ashmand (PG 70850).
+- Failure recorded: PG 7825 (Robinson's Method) is served only gzip-encoded, so the fetcher gets HTTP 406. Header read by hand (not COPYRIGHTED); it is a LaTeX file. Left pending.
+- Found in passing: the Gutenberg catalogue lists bilingual books with language "en; la" or "en; grc", which earlier English-only searches missed. Among them: Claudian (Platnauer), Cicero De Officiis (Miller), Plautus (Nixon), Boethius (Rand and Stewart), and Prudentius (Pope). Prudentius is left for lane A.
+- All PG headers read: none COPYRIGHTED.

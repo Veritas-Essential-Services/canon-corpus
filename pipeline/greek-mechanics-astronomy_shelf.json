@@ -1,0 +1,23 @@
+{
+ "_about": "Two Greek technical works in clean Gutenberg: The Pneumatics of Hero of Alexandria, tr. J. G. Greenwood, ed. Bennet Woodcroft (1851); and Ptolemy's Tetrabiblos, tr. J. M. Ashmand (1822), from Proclus's paraphrase.",
+ "_name_words": [
+  "hero",
+  "pneumatics",
+  "ptolemy",
+  "tetrabiblos"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hero-pneumatics-greenwood": [
+   77400,
+   "The Pneumatics of Hero of Alexandria",
+   "tr. Joseph George Greenwood"
+  ],
+  "ptolemy-tetrabiblos-ashmand": [
+   70850,
+   "Ptolemy's Tetrabiblos",
+   "tr. J. M. Ashmand"
+  ]
+ },
+ "internet_archive": {}
+}

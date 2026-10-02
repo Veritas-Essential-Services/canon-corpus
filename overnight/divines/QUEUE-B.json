@@ -153,8 +153,11 @@
     },
     {
       "id": "greek-science",
-      "status": "todo",
-      "scope": "CLASSICAL (census gap) \u2014 Euclid (Heath), Archimedes (Heath), Hippocrates (Adams), Galen (Brock where cleared), Aretaeus (Adams), Theophrastus (Characters: Jebb); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census gap) \u2014 Euclid (Heath), Archimedes (Heath), Hippocrates (Adams), Galen (Brock where cleared), Aretaeus (Adams), Theophrastus (Characters: Jebb); shelf per author + fetch + map",
+      "started": "2026-10-02T16:22:52-05:00",
+      "finished": "2026-10-02T16:27:56-05:00",
+      "notes": "euclid (Heath 1908), archimedes (+Apollonius Conics), hippocrates, galen, aretaeus, theophrastus, greek-mechanics-astronomy; PG 7825 gzip-only, pending"
     },
     {
       "id": "latin-silver-late",
