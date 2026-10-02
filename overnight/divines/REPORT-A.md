@@ -102,3 +102,6 @@
 ## 2026-10-02 16:19 CDT — mcheyne done
 - `pipeline/mcheyne_shelf.json` (prose only; hymns are for the hymn manifest): 5 IA items raw. The Memoir and the Mission of Inquiry stay on the Andrew Bonar shelf (`_held`). `--verify`: 0 mismatched.
 - The 1854 Google scan of the Additional Remains returned HTTP 500 on three tries; the 1849 printing (`MN5152ucmf_2`) is held instead and the 1854 scan listed as an alternate. 0 uids minted.
+
+## 2026-10-02 16:20 CDT — matthew-henry done
+- `pipeline/matthew-henry_shelf.json`: the whole Commentary (6 CCEL volumes) and the Concise Commentary fetched and converted: 37,105 units, 66,593 scripture links. CCEL's rights line on all seven reads public domain (checked in each file). Plus 2 IA items raw (Miscellaneous Works 1830, 9.3 MB; Life of Philip Henry). About 76 MB in all. `--verify`: 0 mismatched. 0 uids minted.

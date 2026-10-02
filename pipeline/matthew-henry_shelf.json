@@ -1,0 +1,67 @@
+{
+ "_about": "Every public-domain Matthew Henry (1662-1714, Chester and Hackney) text the Word Hoard holds. The Exposition of the Old and New Testaments ('Commentary on the Whole Bible', completed after Henry's death from Acts onward by other ministers) is held from CCEL as clean ThML in its six volumes, with CCEL's Concise Commentary. The treatises and sermons come from the Miscellaneous Works (London, 1830, ed. J. B. Williams), and Henry's Life of his father Philip Henry from an 1849 printing, both Internet Archive OCR, raw and unconverted. No Gutenberg Matthew Henry exists (searched 2026-10-02).",
+ "_ccel_author": "h/henry",
+ "_name_words": [
+  "henry"
+ ],
+ "_held": {},
+ "ccel": {
+  "mhenry-commentary-1": [
+   "mhc1",
+   "Commentary on the Whole Bible, vol. I (Genesis to Deuteronomy)",
+   ""
+  ],
+  "mhenry-commentary-2": [
+   "mhc2",
+   "Commentary on the Whole Bible, vol. II (Joshua to Esther)",
+   ""
+  ],
+  "mhenry-commentary-3": [
+   "mhc3",
+   "Commentary on the Whole Bible, vol. III (Job to Song of Solomon)",
+   ""
+  ],
+  "mhenry-commentary-4": [
+   "mhc4",
+   "Commentary on the Whole Bible, vol. IV (Isaiah to Malachi)",
+   ""
+  ],
+  "mhenry-commentary-5": [
+   "mhc5",
+   "Commentary on the Whole Bible, vol. V (Matthew to John)",
+   ""
+  ],
+  "mhenry-commentary-6": [
+   "mhc6",
+   "Commentary on the Whole Bible, vol. VI (Acts to Revelation; completed by other ministers after Henry's death)",
+   ""
+  ],
+  "mhenry-concise": [
+   "mhcc",
+   "Matthew Henry's Concise Commentary on the Bible",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "mhenry-misc-works-1830": [
+   "miscellaneouswor00henr",
+   "The Miscellaneous Works of the Rev. Matthew Henry, ed. J. B. Williams (London, 1830)"
+  ],
+  "mhenry-life-philip-henry-1849": [
+   "lifetimesofrevph00henr",
+   "The Life and Times of the Rev. Philip Henry, by Matthew Henry (1849 printing)"
+  ]
+ },
+ "_alternates": {
+  "miscellaneouswo01henrgoog (1830), miscellaneouswo00henrgoog/02henrgoog (1833, 2 vols), the-miscellaneous-writings-of-matthew-he (1811)": "Other printings of the Miscellaneous Works; not fetched.",
+  "completeworksofr0001revm": "Complete Works (1847), vol. 1 only on IA; not fetched.",
+  "a587258300henruoft (Method for Prayer 1834), communicantscom00henrgoog (1828), dailycommunionw00henrgoog (1848), dailycommunionwi0000henr (1847), discourseonmeekn00henr (1836), anaccountlifean00henrgoog (1712)": "Single-work printings; most of these treatises appear in the Miscellaneous Works (not checked title by title)."
+ },
+ "_excluded": {
+  "10411078bsb": "German translation of the Psalms commentary (1770); not English",
+  "mammonorcovetous00harr": "John Harris's Mammon (1844); Henry only an incidental contributor",
+  "eighteensermonsb00henr": "Philip Henry's sermons (1816); belongs to a Philip Henry shelf if ever wanted",
+  "Matthew Paris, Matthew Bacon, Matthew Henry Cowell, Matthew Henry Habershon and others": "different people"
+ }
+}

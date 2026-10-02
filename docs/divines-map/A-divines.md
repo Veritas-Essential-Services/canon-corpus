@@ -423,3 +423,23 @@ His hymns and poems are not shelved here: see the hymn manifest. Bonar's Memoir 
 | Additional Remains of the Rev. Robert Murray M'Cheyne (1849 printing, microform scan) | have-raw | IA `MN5152ucmf_2` |
 | Hymns and poems | see hymn manifest | not shelved here |
 | Gaelic translations (1879, 1916); Coventry's abridged Memoir (1865) | excluded | not English / not the full text |
+
+
+## Matthew Henry (round 2, 2026-10-02)
+
+The Exposition ('Commentary on the Whole Bible') is held whole from CCEL as clean ThML, six volumes plus the Concise Commentary; CCEL's rights line on each reads public domain. Vol. VI (Acts to Revelation) was completed after Henry's death by other ministers. The treatises and sermons come from the 1830 Miscellaneous Works (raw IA OCR).
+
+| Work | Status | Where |
+|---|---|---|
+| Commentary on the Whole Bible, vol. I (Genesis to Deuteronomy) | have | CCEL `mhc1` (`mhenry-commentary-1`) |
+| Commentary on the Whole Bible, vol. II (Joshua to Esther) | have | CCEL `mhc2` (`mhenry-commentary-2`) |
+| Commentary on the Whole Bible, vol. III (Job to Song of Solomon) | have | CCEL `mhc3` (`mhenry-commentary-3`) |
+| Commentary on the Whole Bible, vol. IV (Isaiah to Malachi) | have | CCEL `mhc4` (`mhenry-commentary-4`) |
+| Commentary on the Whole Bible, vol. V (Matthew to John) | have | CCEL `mhc5` (`mhenry-commentary-5`) |
+| Commentary on the Whole Bible, vol. VI (Acts to Revelation; completed by other ministers after Henry's death) | have | CCEL `mhc6` (`mhenry-commentary-6`) |
+| Matthew Henry's Concise Commentary on the Bible | have | CCEL `mhcc` (`mhenry-concise`) |
+| The Miscellaneous Works of the Rev. Matthew Henry, ed. J. B. Williams (London, 1830) | have-raw | IA `miscellaneouswor00henr` |
+| The Life and Times of the Rev. Philip Henry, by Matthew Henry (1849 printing) | have-raw | IA `lifetimesofrevph00henr` |
+| Method for Prayer, Communicant's Companion, Daily Communion with God and other single treatises | alternate | single printings on IA; most are inside the Miscellaneous Works (not checked title by title) |
+| Complete Works (1847) | pending | only vol. 1 found on IA |
+| German Psalms translation (1770); Philip Henry's own sermons | excluded | not English / a different author |

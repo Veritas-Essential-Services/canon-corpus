@@ -151,11 +151,13 @@
     },
     {
       "id": "matthew-henry",
-      "status": "running",
+      "status": "done",
       "scope": "Matthew Henry: Commentary (6 vols) and other works",
       "added": "2026-10-02T15:56:35-05:00",
       "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)",
-      "started": "2026-10-02T16:17:21-05:00"
+      "started": "2026-10-02T16:17:21-05:00",
+      "finished": "2026-10-02T16:20:05-05:00",
+      "notes": "7 CCEL (Commentary) + 2 IA"
     },
     {
       "id": "calvin",
