@@ -521,6 +521,11 @@ TEI_PROSE = {
     "appian-the-mithridatic-wars-white": "App. Mith.",
     "appian-the-civil-wars-white": "App. BC",
     "athenaeus-deipnosophists-yonge": "Ath.",
+    "livy-history-spillan": "Liv.",
+    "gellius-attic-nights-rolfe": "Gell. NA",
+    "horace-satires-smart": "Hor. S.",
+    "horace-ars-poetica-smart": "Hor. Ars",
+    "caesar-civil-war-duncan": "Caes. Civ.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition

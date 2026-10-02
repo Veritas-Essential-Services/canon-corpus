@@ -7671,5 +7671,105 @@
    "redistribute_whole": true,
    "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "caesar-civil-war-duncan": {
+  "title": "Commentaries on the Civil War",
+  "author": "Julius Caesar",
+  "format": "tei",
+  "sha256": "39159e8e76395fadecd603498559e3fcd409fde62c6db36a04e421907d2e1630",
+  "units": 247,
+  "scheme": {
+   "citation": "Caes. Civ. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 362 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "gellius-attic-nights-rolfe": {
+  "title": "Attic Nights",
+  "author": "Aulus Gellius",
+  "format": "tei",
+  "sha256": "e7948ae6268bafd172671eb9a364fef0ee90b651e64c17418296b0c8a4f4e044",
+  "units": 399,
+  "scheme": {
+   "citation": "Gell. NA book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1910 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 475 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "horace-ars-poetica-smart": {
+  "title": "The Art of Poetry: To the Pisos",
+  "author": "Q. Horatius Flaccus",
+  "format": "tei",
+  "sha256": "33d4da9e2886de5a0276299e75a6948455a4000804d5108d943f0184bd6c3181",
+  "units": 13,
+  "scheme": {
+   "citation": "Hor. Ars card",
+   "resolution": "card (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (12 of 12 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 62 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 32 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "horace-satires-smart": {
+  "title": "Satires",
+  "author": "Q. Horatius Flaccus",
+  "format": "tei",
+  "sha256": "9f35f44e89ca3e0a8acd454f78becbb82f978f4b4209479dd90b4317ed29ecb2",
+  "units": 37,
+  "scheme": {
+   "citation": "Hor. S. book.poem.card",
+   "resolution": "card (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (19 of 19 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 172 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 95 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "livy-history-spillan": {
+  "title": "History of Rome, books 1-10, 21-45",
+  "author": "Titus Livius (Livy)",
+  "format": "tei",
+  "sha256": "fd14d05361f22efac126aaf3ff7dd459a8993663eb95f97982b823e4bdf17c6c",
+  "units": 20171,
+  "scheme": {
+   "citation": "Liv. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 364 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 11 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }

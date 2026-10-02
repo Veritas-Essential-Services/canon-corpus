@@ -933,6 +933,27 @@ PERSEUS = {
     "terence-adelphi-riley": ("canonical-latinLit",
         "phi0134/phi006/phi0134.phi006.perseus-eng2.xml",
         "Terence, Adelphi — H. T. Riley (1874 printing; d. 1878) (PD); urn ...phi0134.phi006.perseus-eng2"),
+    # Livy in Bohn's translation (Spillan, Edmonds, McDevitte, 1849-57);
+    # Gellius (Rolfe, Loeb 1927; d. 1943); Horace's Satires and Art of
+    # Poetry in Christopher Smart's prose (d. 1771); Caesar's Civil War in
+    # William Duncan's (d. 1760), a second witness beside Peskett. Not
+    # taken: Livy in Canon Roberts (1912; his death date unchecked here),
+    # Celsus (Spencer, 1935-38).
+    "livy-history-spillan": ("canonical-latinLit",
+        "phi0914/phi001/phi0914.phi001.perseus-eng2.xml",
+        "Livy, History of Rome — D. Spillan, Cyrus Edmonds, W. A. McDevitte (Bohn, 1849-57) (PD); urn ...phi0914.phi001.perseus-eng2"),
+    "gellius-attic-nights-rolfe": ("canonical-latinLit",
+        "phi1254/phi001/phi1254.phi001.perseus-eng1.xml",
+        "Aulus Gellius, Attic Nights — J. C. Rolfe (Loeb, 1927; d. 1943) (PD); urn ...phi1254.phi001.perseus-eng1"),
+    "horace-satires-smart": ("canonical-latinLit",
+        "phi0893/phi004/phi0893.phi004.perseus-eng2.xml",
+        "Horace, Satires — Christopher Smart (prose; 1863 printing; d. 1771) (PD); urn ...phi0893.phi004.perseus-eng2"),
+    "horace-ars-poetica-smart": ("canonical-latinLit",
+        "phi0893/phi006/phi0893.phi006.perseus-eng2.xml",
+        "Horace, The Art of Poetry — Christopher Smart (prose; 1863 printing; d. 1771) (PD); urn ...phi0893.phi006.perseus-eng2"),
+    "caesar-civil-war-duncan": ("canonical-latinLit",
+        "phi0448/phi002/phi0448.phi002.perseus-eng3.xml",
+        "Caesar, Civil War — William Duncan (1856 printing; d. 1760) (PD); urn ...phi0448.phi002.perseus-eng3"),
     "isaeus-on-the-estate-of-cleonymus-forster": ("canonical-greekLit",
         "tlg0017/tlg001/tlg0017.tlg001.perseus-eng2.xml",
         "Isaeus, On The Estate of Cleonymus — E. S. Forster (Loeb, 1927; d. 1950) (PD); urn ...tlg0017.tlg001.perseus-eng2"),
