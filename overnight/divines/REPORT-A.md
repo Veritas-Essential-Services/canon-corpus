@@ -79,3 +79,7 @@
 ## 2026-10-02 16:03 CDT — sibbes done
 - `pipeline/sibbes_shelf.json`: Grosart's Complete Works, all 7 volumes, raw IA OCR (Toronto scans, about 16 MB). `--verify`: 0 mismatched. A second scan of the same set is listed as an alternate.
 - CCEL: `ccel.org/ccel/s/sibbes` (and `s/sibbs`) did not resolve to an author page, and the work URLs probed served HTML, not ThML. Nothing taken from CCEL; recorded so the next worker does not re-probe blindly. No Gutenberg Sibbes. 0 uids minted.
+
+## 2026-10-02 16:07 CDT — watson done
+- `pipeline/watson_shelf.json`: 6 CCEL titles fetched and converted (5,867 units, 8,024 links), 2 IA items raw (about 9.8 MB in all). `--verify`: 0 mismatched. No Gutenberg Watson.
+- Pending: four treatises found only in 1660s-1780s printings. A title count in the Select Works OCR was inconclusive (generic words), so they stay pending rather than being claimed as held. 0 uids minted.

@@ -1,0 +1,65 @@
+{
+ "_about": "Every public-domain Thomas Watson (c.1620-1686, St Stephen's Walbrook) text the Word Hoard holds. Watson has no collected Works. CCEL ThML is clean and is fetched for every CCEL Watson title (Body of Divinity, Ten Commandments, Lord's Prayer, Beatitudes, Divine Contentment, Divine Cordial). Internet Archive OCR adds the Select Works (New York: Robert Carter, 1855), which carries further sermons and treatises, and The Saints' Spiritual Delight (1830), raw and unconverted. No Gutenberg Watson exists (searched 2026-10-02). Not to be confused with Thomas Watson, Bishop of Lincoln (1513-1584), Richard Watson (1781-1833) or Thomas E. Watson (1856-1922).",
+ "_ccel_author": "w/watson",
+ "_name_words": [
+  "watson"
+ ],
+ "_held": {},
+ "ccel": {
+  "watson-body-divinity": [
+   "divinity",
+   "A Body of Divinity",
+   ""
+  ],
+  "watson-ten-commandments": [
+   "commandments",
+   "The Ten Commandments",
+   ""
+  ],
+  "watson-lords-prayer": [
+   "prayer",
+   "The Lord's Prayer",
+   ""
+  ],
+  "watson-beatitudes": [
+   "beatitudes",
+   "The Beatitudes: An Exposition of Matthew 5:1-12",
+   ""
+  ],
+  "watson-contentment": [
+   "contentment",
+   "The Art of Divine Contentment",
+   ""
+  ],
+  "watson-divine-cordial": [
+   "cordial",
+   "A Divine Cordial",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "watson-select-works-1855": [
+   "selectworksofrev00wats",
+   "The Select Works of the Rev. Thomas Watson (New York: Robert Carter, 1855)"
+  ],
+  "watson-saints-delight-1830": [
+   "saintsspiritual00watsgoog",
+   "The Saints' Spiritual Delight (1830)"
+  ]
+ },
+ "_alternates": {
+  "selectworksofrev0000wats": "Select Works, 1872 printing; duplicate.",
+  "bodyofpracticald00watsuoft (1859), bodyofpracticald00wats_1 (1833), bodyofpractical01wats/02wats (1807), 1826abodyofprac00watsuoft, bodyofpracticald01wats/02wats (1806), abodypracticald00watsgoog (1741)": "Earlier and later printings of A Body of Practical Divinity; CCEL's Body of Divinity is held.",
+  "cihm_62053": "The Saint's Spiritual Delight and A Christian on the Mount (1862, microfiche); duplicate of the 1830 scan for the first work.",
+  "bim_early-english-books-* and bim_eighteenth-century_* (about 25 items)": "First editions 1654-1700 and 18th-century printings; long-s OCR, not fetched."
+ },
+ "_excluded": {
+  "SermonsOnTheSacramentsWholesome": "Thomas Watson, Bishop of Lincoln (1513-1584): different person",
+  "18563802.*.emory.edu, theologicalinsti04wats": "Richard Watson (1781-1833): different person",
+  "romancatholichi00watsgoog, popularevidences00watsrich": "different Thomas Watsons"
+ },
+ "_pending": {
+  "The Godly Man's Picture (1666); The Doctrine of Repentance (1668); Heaven Taken by Storm (1669); A Plea for the Godly (1672)": "only early printings (EEBO/ECCO long-s scans) found; check whether the Select Works carries them before fetching an early print"
+ }
+}

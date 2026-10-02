@@ -288,6 +288,25 @@ Target: Grosart's *Complete Works of Richard Sibbes* (Edinburgh: James Nichol, 1
 | The Works (Aberdeen, 1809); EEBO quartos 1629-1658; single-work printings 1638-1842 | alternate | texts are in Grosart |
 | Clean text of The Bruised Reed / The Soul's Conflict | wishlist | no PD machine-readable edition found |
 | Modern editions (1973 onward) | excluded | possibly in copyright |
+
+
+## Thomas Watson (round 2, 2026-10-02)
+
+Watson (c.1620-1686) has no collected Works. The six CCEL titles are held as clean ThML; the Select Works (1855) and The Saints' Spiritual Delight (1830) as raw IA OCR. No Gutenberg Watson exists.
+
+| Work | Status | Where |
+|---|---|---|
+| A Body of Divinity | have | CCEL `divinity` (`watson-body-divinity`) |
+| The Ten Commandments | have | CCEL `commandments` (`watson-ten-commandments`) |
+| The Lord's Prayer | have | CCEL `prayer` (`watson-lords-prayer`) |
+| The Beatitudes: An Exposition of Matthew 5:1-12 | have | CCEL `beatitudes` (`watson-beatitudes`) |
+| The Art of Divine Contentment | have | CCEL `contentment` (`watson-contentment`) |
+| A Divine Cordial | have | CCEL `cordial` (`watson-divine-cordial`) |
+| The Select Works of the Rev. Thomas Watson (New York: Robert Carter, 1855) | have-raw | IA `selectworksofrev00wats` |
+| The Saints' Spiritual Delight (1830) | have-raw | IA `saintsspiritual00watsgoog` |
+| The Godly Man's Picture; The Doctrine of Repentance; Heaven Taken by Storm; A Plea for the Godly | pending | only 1660s-1780s printings found (long-s OCR); first check whether the Select Works carries them |
+| A Body of Practical Divinity, printings 1741-1859 | alternate | CCEL Body of Divinity held |
+| Thomas Watson of Lincoln (1513-1584), Richard Watson (1781-1833), Thomas E. Watson | excluded | different people |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
