@@ -1,0 +1,49 @@
+{
+ "_about": "Herodotus in English, translator per title. G. C. Macaulay (prose, 1890): vol. 1 is already held on the Adler shelf (herodotus-history, PG 2707) and is cross-referenced; vol. 2 (PG 2456) is fetched here, completing him. George Rawlinson (1858-60, with notes and essays by H. C. Rawlinson and J. G. Wilkinson), the 4-vol. 1861 New York printing, raw IA OCR.",
+ "_name_words": [
+  "herodotus",
+  "history",
+  "volume",
+  "english",
+  "version"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "herodotus-macaulay-v2": [
+   2456,
+   "The History of Herodotus, vol. 2 (Books V-IX)",
+   "tr. G. C. Macaulay (prose, 1890)"
+  ]
+ },
+ "internet_archive": {
+  "herodotus-rawlinson-v1": [
+   "historyofherodot01herouoft",
+   "History of Herodotus: a new English version, vol. 1 (1861 printing)",
+   "tr. George Rawlinson"
+  ],
+  "herodotus-rawlinson-v2": [
+   "historyofherod02hero",
+   "History of Herodotus: a new English version, vol. 2 (1861 printing)",
+   "tr. George Rawlinson"
+  ],
+  "herodotus-rawlinson-v3": [
+   "c2historyofherod03hero",
+   "History of Herodotus: a new English version, vol. 3 (1861 printing)",
+   "tr. George Rawlinson"
+  ],
+  "herodotus-rawlinson-v4": [
+   "historyofherod04hero",
+   "History of Herodotus: a new English version, vol. 4 (1861 printing)",
+   "tr. George Rawlinson"
+  ]
+ },
+ "_cross_ref": {
+  "herodotus-history": "Adler shelf (pipeline/adler_shelf.json): PG 2707, Macaulay vol. 1 (Books I-IV) only, although that shelf's title reads as the whole History"
+ },
+ "_excluded": {
+  "pg2131": "An Account of Egypt: Book II of Macaulay, a duplicate extract",
+  "pg55758": "The Boys' and Girls' Herodotus: an adaptation",
+  "Henry Cary (Bohn, 1847)": "PD prose; pending (IA)",
+  "A. D. Godley, Loeb (1920-25)": "on Perseus, US PD by date; pending"
+ }
+}

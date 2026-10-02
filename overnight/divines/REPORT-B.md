@@ -48,3 +48,6 @@
 
 ## 2026-10-02 15:39 CDT — aristophanes: done
 - Shelf `pipeline/aristophanes_shelf.json`. 5/5 PG fetched, 1.5 MB, trial 10,250 units. Complete in the Athenian Society 1912 translation; Hickie Clouds, Rogers Frogs, Lindsay Lysistrata (US PD per PG). PG 3012/2571/3013 excluded as duplicates (shingle overlap 0.85-0.87).
+
+## 2026-10-02 15:43 CDT — greek-historians: Herodotus
+- Shelf herodotus: Macaulay vol. 2 (PG 2456) completes the Adler shelf's vol. 1 (PG 2707, whose Adler title reads as the whole History); Rawlinson 1861 4 vols raw. 5 files, 8.5 MB.
