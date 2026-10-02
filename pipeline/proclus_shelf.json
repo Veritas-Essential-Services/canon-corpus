@@ -1,0 +1,32 @@
+{
+ "_about": "Proclus in Thomas Taylor's translations, clean Gutenberg: the Commentaries on the First Book of Euclid (1792, 2 vols.) and the Theology of Plato (1816, 2 vols.).",
+ "_name_words": [
+  "proclus",
+  "euclid",
+  "theology"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "proclus-taylor-euclid-v1": [
+   74253,
+   "The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements, vol. 1",
+   "tr. Thomas Taylor"
+  ],
+  "proclus-taylor-euclid-v2": [
+   79455,
+   "The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements, vol. 2",
+   "tr. Thomas Taylor"
+  ],
+  "proclus-taylor-theology-v1": [
+   77393,
+   "The Six Books of Proclus on the Theology of Plato, vol. 1",
+   "tr. Thomas Taylor"
+  ],
+  "proclus-taylor-theology-v2": [
+   78800,
+   "The Six Books of Proclus on the Theology of Plato, vol. 2",
+   "tr. Thomas Taylor"
+  ]
+ },
+ "internet_archive": {}
+}
