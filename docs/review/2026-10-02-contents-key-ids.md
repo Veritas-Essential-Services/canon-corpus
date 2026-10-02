@@ -10,13 +10,21 @@ Lane D thread (this thread cannot reach gutenberg.org), in a scratch worktree wi
 fresh and every one matches the manifest's sha256. Before counts also match the
 committed manifest's unit counts.
 
-Why nothing moves, although the old rule did cut titles here (Lane D counted 172 such
-Contents lines in these 36 files): Chesterton's body headings are set in capitals, so
-the ALL-CAPS fallback (`CAPS_HEADING`) found them under either rule. That reading is
-inferred, not traced heading by heading. The two rules do build different patterns:
-`tests/structure_test.py` shows a title-case fixture whose ids differ between them.
-Books with title-case headings (Lane D's fables, e.g. Townsend's Aesop, 30 of 313
-titles missed) are where the bug costs headings; none of those is committed here.
+Why nothing moves (checked by the Lane D thread in a second run): the two rules do
+build different heading patterns in 12 of the 36 books, but the 149 lines they cut
+differently are almost all running prose that the Contents reader takes in after the
+real Contents ends. Each such line occurs once in its book, so it can never match a
+heading. Only one is a real title with a heading paragraph in the body, and every rule
+(old, new, ALL-CAPS fallback) matches that heading. Where the bug does cost headings is
+in books with title-case headings and no page numbers in the Contents: on Lane D's 266
+texts it misses 68 of 99 truncated real headings across 21 books (a text heuristic,
+not an exact count; for example Alice ch. IV, "The Rabbit Sends in a Little Bill").
+None of those is committed here. An earlier figure of "1,229 titles in 224 files"
+counted that prose run-off too and is withdrawn.
+
+Side finding, not fixed here: the Contents reader often runs on past the Contents
+into prose. That is harmless for ids but bloats the heading pattern; a stop rule
+could come later.
 
 No uid in `data/uids/wordhoard.uids.json` points at any of these books.
 
