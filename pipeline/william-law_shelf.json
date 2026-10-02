@@ -4,6 +4,12 @@
  "_name_words": [
   "law"
  ],
+ "_surname": [
+  "william law",
+  "w. law",
+  "mr. law",
+  "mr law"
+ ],
  "_held": {},
  "ccel": {
   "law-serious-call": [
@@ -104,5 +110,206 @@
  "_excluded": {
   "justific (CCEL)": "A stub, about 7 KB of text.",
   "worksofjacobbehm*": "Jacob Boehme's works in the edition associated with Law: Boehme's text, not Law's."
+ },
+ "_checks": {
+  "law-serious-call": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-christian-perfection": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-spirit-of-prayer": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-spirit-of-love": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-way-divine-knowledge": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-grounds-regeneration": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-demonstration-errors": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-appeal-doubt": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-address-clergy": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-collection-letters": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "law-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "law-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "william law",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

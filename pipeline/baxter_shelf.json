@@ -4,6 +4,9 @@
  "_name_words": [
   "baxter"
  ],
+ "_surname": [
+  "baxter"
+ ],
  "_held": {},
  "ccel": {
   "baxter-causes": [
@@ -155,5 +158,336 @@
  "_pending": {
   "Reliquiae Baxterianae (1696)": "Baxter's autobiography; not in Orme's Practical Works; no scan verified yet",
   "Methodus Theologiae, Catholick Theology and other controversial works": "not in the Practical Works; not searched this burn"
+ },
+ "_checks": {
+  "baxter-causes": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-reformed-pastor": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-saints-rest": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-call-unconverted": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "baxter-directory-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-directory-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-directory-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-directory-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baxter-works-orme-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-07": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-08": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-09": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-10": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-11": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-12": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-13": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-14": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-15": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-16": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-17": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "baxter-works-orme-18": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-19": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-20": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-21": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-22": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baxter-works-orme-23": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "baxter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

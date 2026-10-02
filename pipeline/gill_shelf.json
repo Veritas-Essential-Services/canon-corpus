@@ -4,6 +4,9 @@
  "_name_words": [
   "gill"
  ],
+ "_surname": [
+  "gill"
+ ],
  "_held": {},
  "ccel": {
   "gill-doctrinal-divinity": [
@@ -48,5 +51,70 @@
  "_excluded": {
   "Peter-John Parisis uploads; JohnGillsCommentaryOnTheBible (2016); ephesians-j-gill-complete-issuu_20260529": "Modern retypings or uploads with no library provenance.",
   "sermonstracts000Ngill (1981); causeofgodtruthi0000gill (1978); expositionofsong0000gill (1971)": "Modern reprints (lending library), not PD scans."
+ },
+ "_checks": {
+  "gill-doctrinal-divinity": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gill",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "gill-practical-divinity": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gill",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "gill-solomons-song": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gill",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "gill-cause-god-truth-1838": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gill-sermons-tracts-1773-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gill-sermons-tracts-1773-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

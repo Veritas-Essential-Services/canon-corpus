@@ -6,6 +6,11 @@
   "rutherfurd",
   "rutherfoord"
  ],
+ "_surname": [
+  "rutherford",
+  "rutherfurd",
+  "rutherfoord"
+ ],
  "_held": {
   "abonar-ed-rutherford-letters": "Letters of Samuel Rutherford, ed. Bonar: Gutenberg 42557, on andrew-bonar_shelf.json",
   "abonar-ed-rutherford-quaint-sermons": "Quaint Sermons (1885): on andrew-bonar_shelf.json",
@@ -62,5 +67,72 @@
   "A Survey of the Spiritual Antichrist (1648); The Influences of the Life of Grace (1659)": "no scan verified yet",
   "christd00ruth (Christ Dying and Drawing Sinners to Himself (London, 1647))": "refused by the fetcher's identity check 2026-10-02: the 1640s OCR never names Rutherford (title page reads only initials or is lost). Shelve after a look by eye at the scan.",
   "divinerightofchu00ruth (The Divine Right of Church-Government and Excommunication (London, 1646))": "refused by the fetcher's identity check 2026-10-02: the 1640s OCR never names Rutherford (title page reads only initials or is lost). Shelve after a look by eye at the scan."
+ },
+ "_checks": {
+  "rutherford-letters-selection": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "rutherford",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "rutherford-trial-triumph": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "rutherford",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "rutherford-lex-rex-1843": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rutherford-free-disputation-1649": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "rutherfurd",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1649",
+   "ia_date": "1649",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rutherford-covenant-life-1655": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1655",
+   "ia_date": "1655",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rutherford-due-right-1644": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "rutherfurd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1644",
+   "ia_date": "1644",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

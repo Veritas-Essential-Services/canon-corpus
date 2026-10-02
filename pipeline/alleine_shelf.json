@@ -3,6 +3,10 @@
  "_name_words": [
   "alleine"
  ],
+ "_surname": [
+  "alleine",
+  "allein"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -29,5 +33,40 @@
   "MN41830ucmf_4; heavenopenedorbr00rari": "Heaven Opened is chiefly Richard Alleine's.",
   "josephalleinehis00stan": "Charles Stanford's 1861 biography: about Alleine, not by him.",
   "earaildhurachdac*; leabharpocaidnao00alle; bim_*hyfforddwr*": "Gaelic and Welsh translations."
+ },
+ "_checks": {
+  "alleine-alarm-1834": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "alleine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "alleine-on-the-promises-1828": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "alleine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alleine-life-letters-1815": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "alleine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -4,6 +4,9 @@
  "_name_words": [
   "gurnall"
  ],
+ "_surname": [
+  "gurnall"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -21,5 +24,18 @@
  "_excluded": {
   "CCEL gurnall/armour": "a stub, contents only",
   "ycristionmewncyf00gurn": "Welsh translation (1862); not English"
+ },
+ "_checks": {
+  "gurnall-complete-armour-1862": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "gurnall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

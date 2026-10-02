@@ -4,6 +4,9 @@
  "_name_words": [
   "scougal"
  ],
+ "_surname": [
+  "scougal"
+ ],
  "_held": {},
  "ccel": {
   "scougal-life-of-god": [
@@ -26,5 +29,28 @@
  "_excluded": {
   "bim_eighteenth-century_a-new-academy-of-comple_scougal-henry_1748": "A letter-writing manual misattributed to Scougal in IA's catalogue.",
   "isbn_9781617201943": "A 2011 reprint (lending library), not a PD scan."
+ },
+ "_checks": {
+  "scougal-life-of-god": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "scougal",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "scougal-works-1830": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "scougal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
  }
 }

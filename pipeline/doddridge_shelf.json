@@ -4,6 +4,9 @@
  "_name_words": [
   "doddridge"
  ],
+ "_surname": [
+  "doddridge"
+ ],
  "_held": {},
  "ccel": {
   "doddridge-rise-progress": [
@@ -77,5 +80,156 @@
  },
  "_excluded": {
   "worksofreverendl01..06watt": "Isaac Watts's Works, with pieces selected by Doddridge: Watts's text, not Doddridge's."
+ },
+ "_checks": {
+  "doddridge-rise-progress": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "doddridge-regeneration": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "doddridge-evidences": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "doddridge-life-gardiner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "doddridge-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "doddridge-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "doddridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

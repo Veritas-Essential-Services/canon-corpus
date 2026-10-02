@@ -3,6 +3,9 @@
  "_name_words": [
   "leighton"
  ],
+ "_surname": [
+  "leighton"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -30,5 +33,51 @@
  },
  "_excluded": {
   "Gutenberg 'Robert Leighton' (Olaf the Glorious, Dogs and All about Them, etc.)": "Robert Leighton (1858-1934), novelist: another man."
+ },
+ "_checks": {
+  "leighton-whole-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "leighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leighton-whole-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "leighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leighton-whole-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "leighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leighton-whole-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "leighton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

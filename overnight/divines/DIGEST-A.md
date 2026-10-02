@@ -13,7 +13,7 @@ Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-d
 | Horatius Bonar (prose) | horatius-bonar_shelf.json | 2 CCEL | 24 | 3 refused scans, How Shall I Go to God, Light and Truth: Revelation | hymns (see hymn manifest), edited works |
 | Andrew Bonar | andrew-bonar_shelf.json | 2 Gutenberg | 16 | Visitor's Book of Texts | Andrew Redman Bonar, Bonar Law |
 | Adolph Saphir | saphir_shelf.json | 0 (none exists) | 11 | Christ and the Scriptures, Jesus and the Sinner | other Saphirs |
-| Jonathan Edwards (gap audit) | edwards_shelf.json | unchanged | +8 first editions/early printings (incl. Distinguishing Marks 1742, Humble Attempt 1747) | Distinguishing Marks 1741 first printing, Freedom of Will 1754 | Yale-only texts |
+| Jonathan Edwards (gap audit) | edwards_shelf.json | unchanged | +8 early printings (incl. Distinguishing Marks 1742, Humble Attempt 1747; one of the 8 is Hopkins's Life of Edwards, about him); the 1903 Trinity essay dropped as a duplicate of CCEL's | Distinguishing Marks 1741 first printing, Freedom of Will 1754 | Yale-only texts |
 | Aquinas Summa (census) | none needed | the whole Summa is already held | | | |
 
 126 items fetched this burn (120 for the six authors, 6 Edwards gaps), about 93 MB. None are minted: **every new slug awaits your single-writer uid pass.**
@@ -32,7 +32,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | Thomas Goodwin | goodwin_shelf.json | 0 (none exists) | 12 (Nichol Works 1861-66, complete) | a clean Heart of Christ | two other Goodwins on PG and CCEL |
 | Samuel Rutherford | rutherford_shelf.json | 2 CCEL (Letters selection, Trial and Triumph of Faith); Bonar's Letters and two sermon books stay on the Andrew Bonar shelf | 4 (Lex, Rex 1843; Free Disputation 1649; Covenant of Life Opened 1655; Due Right of Presbyteries 1644) | Christ Dying 1647, Divine Right 1646 (refused scans); Spiritual Antichrist; Latin works | S. R. Crockett |
 | R. M. M'Cheyne (prose) | mcheyne_shelf.json | 0 new (Bonar's Memoir already on the Andrew Bonar shelf) | 5 (Works 1847, 2 vols; Additional Remains 1849; Familiar Letters 1848; Sermons 1863) | none | hymns (see hymn manifest), Gaelic translations |
-| Matthew Henry | matthew-henry_shelf.json | 7 CCEL (the whole Commentary in 6 vols + Concise) | 2 (Miscellaneous Works 1830; Life of Philip Henry) | Complete Works 1847 (vol. 1 only found) | German translation |
+| Matthew Henry | matthew-henry_shelf.json | 7 CCEL (the whole Commentary in 6 vols + the Concise, an abridgement by an unnamed hand) | 2 (Miscellaneous Works 1830; Life of Philip Henry) | Complete Works 1847 (vol. 1 only found) | German translation |
 | John Calvin (English) | calvin_shelf.json | Institutes (Beveridge) + Relics from CCEL; Letters vols 1-2 from Gutenberg (the 45 CTS commentaries were already held) | 5 (Letters vols 3-4; CTS Tracts 3 vols) | Allen's Institutes | French sermons, Latin stubs, 1970s reprints |
 | C. H. Spurgeon | spurgeon_shelf.json | 70 CCEL (Sermons 63 vols, Morning and Evening, All of Grace, Faith's Checkbook, and 4 more) | 7 (Treasury of David, complete) | Lectures to My Students, John Ploughman, Gutenberg titles | CCEL's Treasury stubs |
 
@@ -67,7 +67,7 @@ Rounds 2 and 3 were done by 16:41 CDT. Lane A is carrying on with more Puritan, 
 | Robert Leighton | leighton_shelf.json | 0 (none exists) | 4 (Whole Works, London 1830, ed. Pearson, complete) | none | Robert Leighton the novelist (Gutenberg) |
 | Joseph Alleine | alleine_shelf.json | 0 (none exists) | 3 (Alarm to Unconverted Sinners 1834; Alleine on the Promises 1828; Life and Death with his Letters 1815, partly by Baxter and others) | none | Heaven Opened (chiefly Richard Alleine); Stanford's biography |
 | William Perkins | perkins_shelf.json | 0 (none exists) | 3 (Workes, Legatt 1616-18, complete; EEBO scans, rough OCR) | none | the 1696 Sir William Perkins; Francis Perkins's almanacs |
-| Andrew Murray | andrew-murray_shelf.json | 11 CCEL + 5 Gutenberg (Two Covenants, School of Prayer, Abide/True Vine, Absolute Surrender, Humility, Holy in Christ and more) | 0 | none | MacNeil's Spirit-Filled Life (Murray's introduction only) |
+| Andrew Murray | andrew-murray_shelf.json | 11 CCEL + 5 Gutenberg (Two Covenants, School of Prayer, True Vine, Absolute Surrender, Humility, Holy in Christ and more) | 0 | none | MacNeil's Spirit-Filled Life (Murray's introduction only) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
@@ -76,6 +76,9 @@ Rounds 2 and 3 were done by 16:41 CDT. Lane A is carrying on with more Puritan, 
 - Summa: three treatise-opening questions lack a QUESTION heading in the Gutenberg text; the Supplement is not a row in adler_shelf.json.
 
 ## Decisions that are yours
+- **CCEL's non-commercial request** applies to all 198 CCEL items on lane A's 37 shelves (Spurgeon's 70 among them). Each one's DC.Rights line and CCEL's copyright comment are now recorded in its shelf's `_checks`, and every built book carries `redistribute_whole: false` with `ruling: pending (Adam)` until you say otherwise. Rule on it once for all.
+- **The Concise Matthew Henry** is an abridgement by an unnamed hand at an unknown date: keep it, or drop it until its source is found.
+- **Two Ryle tracts** (Occupy Till I Come, Do You Pray?) moved to `_pending`: the tightened check showed their OCR never names Ryle (the old check passed on the IA identifier printed in the OCR). Look at the title pages.
 - Mint uids for the new slugs.
 - Six items the identity check refused because their OCR never names the author (listed under `_pending` in each shelf): shelve them after a look by eye, or leave them out.
 - *An Exhortation to Peace and Unity*: doubted Bunyan attribution; keep it on his shelf or not.

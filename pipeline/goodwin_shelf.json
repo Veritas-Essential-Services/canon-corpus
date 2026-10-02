@@ -4,6 +4,9 @@
  "_name_words": [
   "goodwin"
  ],
+ "_surname": [
+  "goodwin"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -64,5 +67,139 @@
  "_excluded": {
   "PG 52639": "Moses and Aaron, by Thomas Goodwin (d. 1642), schoolmaster and antiquary: a different person",
   "CCEL goodwin/greekgrammar": "William Watson Goodwin's Greek Grammar: a different person"
+ },
+ "_checks": {
+  "goodwin-works-nichol-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-07": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-08": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-09": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-10": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-11": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "goodwin-works-nichol-12": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "goodwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

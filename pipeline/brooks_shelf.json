@@ -4,6 +4,12 @@
  "_name_words": [
   "brooks"
  ],
+ "_surname": [
+  "thomas brooks",
+  "brooks's",
+  "t. brooks",
+  "mr brooks"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -44,5 +50,73 @@
   "greatgaingleane00broogoog": "Great Gain (1869), an anthology gleaned from Brooks by another hand",
   "ACabinetOfJewelsThomasBrooks": "undated upload with no edition data; unverifiable",
   "other Thomas Brookses (physicians, geologists, court cases)": "different people"
+ },
+ "_checks": {
+  "brooks-works-grosart-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "thomas brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brooks-works-grosart-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "thomas brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brooks-works-grosart-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "thomas brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brooks-works-grosart-4": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "thomas brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brooks-works-grosart-5": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "thomas brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brooks-works-grosart-6": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "thomas brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

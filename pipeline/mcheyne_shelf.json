@@ -4,6 +4,10 @@
  "_name_words": [
   "cheyne"
  ],
+ "_surname": [
+  "m'cheyne",
+  "mcheyne"
+ ],
  "_held": {
   "abonar-mcheyne-memoir": "Gutenberg 15251, on andrew-bonar_shelf.json",
   "abonar-mcheyne-memoir-1844": "on andrew-bonar_shelf.json",
@@ -43,5 +47,62 @@
   "guthmoghrdhaguss00mche (1916), iomradhairbeatha00mche (1879)": "Scottish Gaelic translations; not English",
   "memoirandremain00chegoog": "Coventry's 1865 abridgement of the Memoir, not the full text",
   "hymns and poems": "see the hymn manifest"
+ },
+ "_checks": {
+  "mcheyne-works-1847-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "m'cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcheyne-works-1847-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "m'cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcheyne-familiar-letters-1848": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "m'cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcheyne-sermons-1863": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "m'cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcheyne-additional-remains-1849": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "m'cheyne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

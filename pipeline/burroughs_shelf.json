@@ -6,6 +6,11 @@
   "burroughes",
   "burrowes"
  ],
+ "_surname": [
+  "burroughs",
+  "burroughes",
+  "burrowes"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -60,5 +65,96 @@
  },
  "_pending": {
   "Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils": "no scan verified yet"
+ },
+ "_checks": {
+  "burroughs-hosea-1863": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burroughs-saints-happiness-1867": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burroughs-moses-choice-1650": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1650",
+   "ia_date": "1650",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burroughs-four-books-matthew-1659": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burroughs-rare-jewel-1649": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1649",
+   "ia_date": "1649",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burroughs-irenicum-1653": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burroughs-saints-treasury-1656": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1656",
+   "ia_date": "1656",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burroughs-glorious-name-1643": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "burroughes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1643",
+   "ia_date": "1643",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

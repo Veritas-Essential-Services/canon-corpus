@@ -9,7 +9,8 @@ Shelf: `pipeline/edwards_shelf.json` (built 2026-09-28; gap audit 2026-10-02). B
 | Works, Hickman ed. (1834), vols 1-2; Religious Affections; Freedom of the Will; Sermons; Treatise on Grace; Essay on the Trinity | have | CCEL |
 | Selected Sermons (Gardiner, 1904); Life of David Brainerd | have | Gutenberg 34632, 65066 |
 | Works, Dwight ed. (10 vols) and Worcester ed. (8 vols) | have-raw | IA |
-| Grosart's Selections (1865); Charity and Its Fruits (1852); Observations on the Trinity (Smyth, 1880); Essay on the Trinity (Fisher, 1903) | have-raw | IA |
+| Grosart's Selections (1865); Charity and Its Fruits (1852); Observations on the Trinity (Smyth, 1880) | have-raw | IA |
+| An Unpublished Essay on the Trinity (Fisher, 1903), IA scan | alternate | the same essay CCEL serves clean (`edwards-trinity`); it was listed twice until 2026-10-02 |
 | Early printings: Some Thoughts (1742); Humble Inquiry (1749); Original Sin (1758); Two Dissertations (1765); History of Redemption (1774); sermon volumes (1780, 1788, 1789, 1795) | have-raw | IA |
 | **Added by the gap audit:** Religious Affections, first edition (1746) | have-raw | IA `treatiseconcerni1746edwa` |
 | **Added:** An Account of the Life of David Brainerd, Edwards's own edition (1749) | have-raw | IA `accountoflaterev00edwa` |
@@ -439,7 +440,7 @@ The Exposition ('Commentary on the Whole Bible') is held whole from CCEL as clea
 | Commentary on the Whole Bible, vol. IV (Isaiah to Malachi) | have | CCEL `mhc4` (`mhenry-commentary-4`) |
 | Commentary on the Whole Bible, vol. V (Matthew to John) | have | CCEL `mhc5` (`mhenry-commentary-5`) |
 | Commentary on the Whole Bible, vol. VI (Acts to Revelation; completed by other ministers after Henry's death) | have | CCEL `mhc6` (`mhenry-commentary-6`) |
-| Matthew Henry's Concise Commentary on the Bible | have | CCEL `mhcc` (`mhenry-concise`) |
+| Matthew Henry's Concise Commentary on the Bible | have, rights question | CCEL `mhcc` (`mhenry-concise`): an anonymous one-volume abridgement; CCEL names no abridger or date, so its PD status is not established (see the shelf's `_rights_question`) |
 | The Miscellaneous Works of the Rev. Matthew Henry, ed. J. B. Williams (London, 1830) | have-raw | IA `miscellaneouswor00henr` |
 | The Life and Times of the Rev. Philip Henry, by Matthew Henry (1849 printing) | have-raw | IA `lifetimesofrevph00henr` |
 | Method for Prayer, Communicant's Companion, Daily Communion with God and other single treatises | alternate | single printings on IA; most are inside the Miscellaneous Works (not checked title by title) |

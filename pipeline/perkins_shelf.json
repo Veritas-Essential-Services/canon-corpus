@@ -3,6 +3,9 @@
  "_name_words": [
   "perkins"
  ],
+ "_surname": [
+  "perkins"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -28,5 +31,40 @@
   "bim_*_almanacs-perkins-franc_*": "Francis Perkins's almanacs.",
   "bim_*_remarks-on-the-papers_perkins-william_1696; *_a-defence-of-the-absolut_collier-jeremy_1696": "Sir William Perkins, the 1696 Jacobite plotter: another man.",
   "worksofwilliampe0000perk (2014); williamperkins150000will (1966)": "Modern editions, not PD scans."
+ },
+ "_checks": {
+  "perkins-workes-1616-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "perkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1616",
+   "ia_date": "1616",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "perkins-workes-1617-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "perkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1617",
+   "ia_date": "1617",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "perkins-workes-1618-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "perkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1618",
+   "ia_date": "1618",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

@@ -3,6 +3,9 @@
  "_name_words": [
   "saphir"
  ],
+ "_surname": [
+  "saphir"
+ ],
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
@@ -76,5 +79,128 @@
   "ourlordspatternf0000saph, epistletohebrews0000adol, bwb_Y0-AHD-208, bwb_T3-BSD-972, bwb_Y0-DLC-118": "modern reprints (1942-1984)",
   "disputedquestion00unse": "multi-author lecture volume (1874); Saphir's share not confirmed",
   "same-name": "Moritz Gottlieb Saphir, Jacob (Ya'aqov) Saphir, Philipp Saphir, Marie Saphir, Elijah Saphir, Milka Saphir, Paul Saphir, H. F. S. Amery"
+ },
+ "_checks": {
+  "saphir-hebrews-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saphir-hebrews-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-christ-crucified": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-christ-and-the-church": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-hidden-life": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-our-life-day": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saphir-divine-unity": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-christ-and-israel": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saphir-tr-auberlen-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saphir-memoir-carlyle": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "saphir",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

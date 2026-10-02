@@ -5,6 +5,10 @@
   "flavel",
   "john"
  ],
+ "_surname": [
+  "flavel",
+  "flavell"
+ ],
  "_held": {
   "flavel-fountain": "already in pipeline/fetch_sources.py CCEL dict (The Fountain of Life); not refetched here"
  },
@@ -78,5 +82,123 @@
   "keepingheartorsa00flav": "Keeping the Heart, 1930 printing: held from CCEL (saintindeed) instead",
   "mineachadhairsui1879flav": "Scottish Gaelic translation (1879): PD but not English; listed in the map as pending",
   "Flavel31784 and others": "Same-name people who are not John Flavel the divine: Flavel Shurtleff, Flavel S. Mines, John Flavel Mines, David Flavel Jamison, Flavel B. Tiffany, John Flavel Curwen, John Flavel Bliss, Nellie Flavel, Sidney Flavel & Co."
+ },
+ "_checks": {
+  "flavel-grace": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "flavel-pneumatologia": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "flavel-saint-indeed": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "flavel-lovely": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "flavel-life": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "flavel-works-1820-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flavel-works-1820-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flavel-works-1820-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flavel-works-1820-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flavel-works-1820-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flavel-works-1820-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "flavel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

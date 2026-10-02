@@ -132,10 +132,6 @@
    "observationsconc00edwa",
    "Observations concerning the Scripture Oeconomy of the Trinity (ed. Smyth, 1880)"
   ],
-  "edwards-trinity-essay-1903": [
-   "cu31924029373598",
-   "An Unpublished Essay on the Trinity (ed. Fisher, 1903)"
-  ],
   "edwards-practical-sermons-1788": [
    "practicalsermons00edwa",
    "Practical Sermons, never before published (1788)"
@@ -212,6 +208,9 @@
   "edwards",
   "jonathan"
  ],
+ "_surname": [
+  "edwards"
+ ],
  "_gap_audit_2026_10_02": {
   "added": "6 verified gaps (lane A relay): first editions of Religious Affections (1746) and Edwards's own Brainerd (1749); the earliest Freedom of the Will found (1762); Erskine's two Edinburgh selections from the manuscripts (1793, 1796); Hopkins's Life (about Edwards). Raw ECCO OCR of 18th-century type (long s) is poor. Pending sweep (same day): Distinguishing Marks (1742 printing) and Humble Attempt (1747, second scan) added after alternative scans passed the identity check.",
   "pending": {
@@ -226,5 +225,526 @@
  },
  "_identity_checked": {
   "edwards-worcester-04": "content check 2026-10-02: 'religious affections' 445 times; the 1808 Worcester OCR never yields the author's name"
+ },
+ "_checks": {
+  "edwards-works1": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-works2": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-affections": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-sermons": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-treatiseongrace": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-trinity": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-will": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edwards-selected-sermons-1904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edwards-brainerd-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edwards-dwight-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-07": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-08": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-09": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-dwight-10": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-07": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-worcester-08": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-grosart-1865": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-charity-1852": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-observations-1880": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-practical-sermons-1788": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-twenty-sermons-1789": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-sermons-1795": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-sermons-1780": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1780",
+   "ia_date": "1780",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-two-dissertations-1765": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-original-sin-1758": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "1758",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-humble-inquiry-1749": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-some-thoughts-1742": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-history-redemption-1774": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1774",
+   "ia_date": "1774",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-affections-1746": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-brainerd-1749": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-freedom-will-1762": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-misc-observations-1793": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-remarks-controversies-1796": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-hopkins-life-1804": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwards-distinguishing-marks-1742": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edwards-humble-attempt-1747": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_alternates": {
+  "cu31924029373598 (An Unpublished Essay on the Trinity (ed. Fisher, 1903))": "The same essay CCEL serves clean as `edwards-trinity` (DC.Title 'An Unpublished Essay on the Trinity'): it was held twice; removed 2026-10-02 after review, the clean text is kept."
  }
 }

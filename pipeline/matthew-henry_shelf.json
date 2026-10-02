@@ -4,6 +4,12 @@
  "_name_words": [
   "henry"
  ],
+ "_surname": [
+  "matthew henry",
+  "m. henry",
+  "mr. henry",
+  "mr henry"
+ ],
  "_held": {},
  "ccel": {
   "mhenry-commentary-1": [
@@ -38,7 +44,7 @@
   ],
   "mhenry-concise": [
    "mhcc",
-   "Matthew Henry's Concise Commentary on the Bible",
+   "Matthew Henry's Concise Commentary on the Bible (an anonymous one-volume abridgement of the six-volume Commentary; CCEL names no abridger or date)",
    ""
   ]
  },
@@ -63,5 +69,102 @@
   "mammonorcovetous00harr": "John Harris's Mammon (1844); Henry only an incidental contributor",
   "eighteensermonsb00henr": "Philip Henry's sermons (1816); belongs to a Philip Henry shelf if ever wanted",
   "Matthew Paris, Matthew Bacon, Matthew Henry Cowell, Matthew Henry Habershon and others": "different people"
+ },
+ "_checks": {
+  "mhenry-commentary-1": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain. May be copied and distributed freely.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-commentary-2": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain. May be copied and distributed freely.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-commentary-3": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain. May be copied and distributed freely.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-commentary-4": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain. May be copied and distributed freely.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-commentary-5": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain. May be copied and distributed freely.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-commentary-6": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain. May be copied and distributed freely.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-concise": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "mhenry-misc-works-1830": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mhenry-life-philip-henry-1849": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "matthew henry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_rights_question": {
+  "mhenry-concise": "Raised in review 2026-10-02: the Concise Commentary is an abridgement whose abridger and date are not given anywhere in CCEL's file (it says only 'an abridgment of the 6 volume Commentary'). Henry's own text is PD; whether this abridgement is old enough to be PD is not established. Do not quote it as Henry's words or republish it until Adam rules; the six-volume Commentary is held clean as well."
  }
 }

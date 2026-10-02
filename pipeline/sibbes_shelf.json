@@ -5,6 +5,10 @@
   "sibbes",
   "sibbs"
  ],
+ "_surname": [
+  "sibbes",
+  "sibbs"
+ ],
  "_held": {},
  "ccel": {},
  "gutenberg": {},
@@ -47,5 +51,84 @@
  "_excluded": {
   "isbn_9781939251725, isbn_9781460942727, isbn_9781330586433, bruisedreed0000sibb, bruisedreedsmoki0000sibb, josiahsreformati0000rich": "modern editions or reprints (1973 onward): editorial matter may be in copyright",
   "apis0000kate, preliminarycatal0000kate": "different author (G. J. F. Kater-Sibbes), not Richard Sibbes"
+ },
+ "_checks": {
+  "sibbes-works-grosart-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sibbes-works-grosart-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sibbes-works-grosart-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sibbes-works-grosart-4": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sibbes-works-grosart-5": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sibbes-works-grosart-6": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sibbes-works-grosart-7": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "sibbes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

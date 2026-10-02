@@ -5,6 +5,9 @@
   "ryle",
   "charles"
  ],
+ "_surname": [
+  "ryle"
+ ],
  "ccel": {
   "ryle-holiness": [
    "holiness",
@@ -173,14 +176,6 @@
    "cihm_64164",
    "Are You Forgiven? (tract, 1851)"
   ],
-  "ryle-occupy-till-i-come": [
-   "occupytillicomeb00ryle",
-   "Occupy Till I Come (1865)"
-  ],
-  "ryle-do-you-pray": [
-   "doyoupray00ryle",
-   "Do You Pray? (tract, undated printing)"
-  ],
   "ryle-call-to-prayer": [
    "a-call-to-prayer",
    "A Call to Prayer (1860 printing)",
@@ -215,6 +210,456 @@
    "worldlyconformi00rylegoog",
    "Worldly Conformity (1878)",
    "text matches the title but never names Ryle (title page lost to OCR); attribution rests on the IA catalogue only"
-  ]
+  ],
+  "occupytillicomeb00ryle (Occupy Till I Come (1865))": "The stricter identity check of 2026-10-02 refuses it: the OCR never names Ryle (the only 'ryle' in the file was the IA identifier printed into the OCR). IA's catalogue credits Ryle; shelve again after a look at the title page.",
+  "doyoupray00ryle (Do You Pray? (tract, undated printing))": "The stricter identity check of 2026-10-02 refuses it: the OCR never names Ryle (the only 'ryle' in the file was the IA identifier printed into the OCR). IA's catalogue credits Ryle; shelve again after a look at the title page."
+ },
+ "_identity_checked": {
+  "ryle-home-truths-1857": "content check 2026-10-02: the OCR never names Ryle (it passed the old check only on 'charles'), but it names Helmingham 6 times, including 'rector of Helmingham', Ryle's parish 1844-61"
+ },
+ "_checks": {
+  "ryle-holiness": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ryle-et-matthew": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ryle-upper-room": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ryle-practical-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ryle-the-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ryle-whitefield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ryle-et-mark-1863": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-et-luke-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-et-luke-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-et-john-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-et-john-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-et-john-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-knots-untied": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-old-paths": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-christian-leaders": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-bishops-clergy": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-facts-and-men": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-light-old-times": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-principles-churchmen": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-home-truths-1854": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-home-truths-1857": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-home-truths-1859": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-living-or-dead": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-startling-questions": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-priest-puritan-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-christian-race": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-lessons-church-history": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-two-bears": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-simplicity-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-bible-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-thoughts-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-what-good-will-it-do": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-child-trained": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910-1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-what-time-is-it": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-have-you-the-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-rich-and-poor": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-what-is-your-hope": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-no-more-crying": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-only-one-way": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-are-you-forgiven": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-call-to-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

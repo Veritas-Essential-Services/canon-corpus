@@ -4,6 +4,9 @@
  "_name_words": [
   "whitefield"
  ],
+ "_surname": [
+  "whitefield"
+ ],
  "_held": {},
  "ccel": {
   "whitefield-selected-sermons": [
@@ -79,5 +82,149 @@
   "PG 34727 (Ryle's Sketch)": "already on ryle_shelf.json",
   "G. W. Samson's books; George Whitefield Powers": "different people",
   "quakermethodistc00grey": "Zachary Grey's 1740 polemic"
+ },
+ "_checks": {
+  "whitefield-selected-sermons": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "whitefield-works-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitefield-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitefield-works-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitefield-works-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitefield-works-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitefield-works-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitefield-journal-voyage-1743": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-journal-continuation-1739a": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1739",
+   "ia_date": "1739",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-journal-continuation-1739b": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1739",
+   "ia_date": "1739",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-journal-continuation-1740": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-journal-continuation-1741": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-journal-seventh-1744": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-life-journals-1756": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1756",
+   "ia_date": "1756",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

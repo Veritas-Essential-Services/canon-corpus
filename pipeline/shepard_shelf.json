@@ -4,6 +4,11 @@
  "_name_words": [
   "shepard"
  ],
+ "_surname": [
+  "shepard",
+  "shepheard",
+  "shepherd"
+ ],
  "_held": {},
  "ccel": {
   "shepard-works-01": [
@@ -44,5 +49,71 @@
  },
  "_excluded": {
   "naturalhistory* (Thomas Shepard Goodwin); yalesongs*, wigwam-and-forest (Thomas G. Shepard)": "Other people."
+ },
+ "_checks": {
+  "shepard-works-01": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "shepard",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "shepard-change-sabbath": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "shepard",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "shepard-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "shepard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shepard-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "shepard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shepard-autobiography-1832": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "shepard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shepard-clear-sunshine-1865": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "shepard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

@@ -3,6 +3,9 @@
  "_name_words": [
   "bonar"
  ],
+ "_surname": [
+  "bonar"
+ ],
  "ccel": {},
  "gutenberg": {
   "abonar-mcheyne-memoir": [
@@ -99,5 +102,201 @@
   "iomradhairbeatha00bona, lesjuifsdeurope00gausgoog": "Gaelic and French translations",
   "modern reprints": "1947-1982 printings (Banner of Truth, Geneva Series, bwb_*), diarylife0000andr (1960), commentaryonlevi0000andr (1966)",
   "unclejohnvassarofof00vass": "by T. E. Vassar; Bonar only wrote an introduction"
+ },
+ "_checks": {
+  "abonar-mcheyne-memoir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abonar-ed-rutherford-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abonar-mcheyne-memoir-1844": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-mcheyne-memoir-1878": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-leviticus": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-mission-to-jews": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-sandeman": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abonar-brook-besor": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-victory-over-sin": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "186-?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-gospel-person-christ": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abonar-presbyterian-liturgies": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abonar-diary-letters": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-reminiscences": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abonar-heavenly-springs": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abonar-ed-rutherford-quaint-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abonar-ed-rutherford-communion-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abonar-redemption-drawing-nigh": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "bonar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

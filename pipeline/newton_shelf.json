@@ -4,6 +4,9 @@
  "_name_words": [
   "newton"
  ],
+ "_surname": [
+  "newton"
+ ],
  "_held": {},
  "ccel": {
   "newton-messiah-1": [
@@ -58,5 +61,104 @@
  "_excluded": {
   "CCEL newton/olneyhymns and the Olney Hymns printings on IA": "hymns: see the hymn manifest",
   "selectpassagesfr1806blac, sermonsonpracti*, forceoftruth*, narrativesofeliz00ameriala, trialatlargeofth00hard": "other authors' books with a Newton preface or contribution"
+ },
+ "_checks": {
+  "newton-messiah-1": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "newton-messiah-2": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "newton-works-1810-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-works-1810-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-works-1810-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-works-1810-4": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-works-1810-5": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-works-1810-6": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newton-letters-bull-1869": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

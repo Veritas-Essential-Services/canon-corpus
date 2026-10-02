@@ -4,6 +4,20 @@
  "_name_words": [
   "calvin"
  ],
+ "_surname": [
+  "calvin"
+ ],
+ "_translators": {
+  "calvin-institutes-beveridge": "beveridge",
+  "calvin-treatise-relics": "krasinski",
+  "calvin-letters-1": "constable",
+  "calvin-letters-2": "constable",
+  "calvin-letters-3": "gilchrist",
+  "calvin-letters-4": "gilchrist",
+  "calvin-tracts-1": "beveridge",
+  "calvin-tracts-2": "beveridge",
+  "calvin-tracts-3": "beveridge"
+ },
  "_held": {
   "calvin-com01": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Genesis 1-23, CTS)",
   "calvin-com02": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Genesis 24-50, CTS)",
@@ -66,21 +80,21 @@
  "gutenberg": {
   "calvin-letters-1": [
    45423,
-   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 1"
+   "Letters of John Calvin, ed. Jules Bonnet, tr. David Constable (Philadelphia, 1858), vol. 1"
   ],
   "calvin-letters-2": [
    45463,
-   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 2"
+   "Letters of John Calvin, ed. Jules Bonnet, tr. David Constable (Philadelphia, 1858), vol. 2"
   ]
  },
  "internet_archive": {
   "calvin-letters-3": [
    "lettersc03calv",
-   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 3"
+   "Letters of John Calvin, ed. Jules Bonnet, tr. Marcus Robert Gilchrist (Philadelphia, 1858), vol. 3"
   ],
   "calvin-letters-4": [
    "lettersofjohncal04calv",
-   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 4"
+   "Letters of John Calvin, ed. Jules Bonnet, tr. Marcus Robert Gilchrist (Philadelphia, 1858), vol. 4"
   ],
   "calvin-tracts-1": [
    "tractsrelatingto01calv",
@@ -106,5 +120,121 @@
   "CCEL calvin/institutio1, institutio2": "Latin Institutio (1834): CCEL's files are stubs, about 4,000 characters each",
   "CCEL calvin/sermons": "'Three Volumes of Sermons' is Corpus Reformatorum vols. 61-63, the French originals: not the CTS English this shelf collects (a later French/Latin shelf could take it)",
   "lettersofjohncal000[1-4]drju/marc (1972-73), lettersofjohncal0000calv (1980)": "modern reprints: possibly in copyright"
+ },
+ "_checks": {
+  "calvin-institutes-beveridge": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "calvin-treatise-relics": {
+   "kind": "ccel",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "krasinski",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "calvin-letters-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "constable",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "calvin-letters-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "constable",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "calvin-letters-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-letters-4": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-tracts-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": false,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-tracts-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-tracts-3": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "calvin-tracts-1": "translator check 2026-10-02: vol. 1's OCR never names Beveridge (its title page is not in the text layer); vols. 2-3 of the same Calvin Translation Society series name him, and IA's record for vol. 1 credits Beveridge (Calvin Translation Society, 1844)"
  }
 }
