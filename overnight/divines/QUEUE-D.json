@@ -19,8 +19,11 @@
     },
     {
       "id": "fables-fold",
-      "status": "todo",
-      "scope": "STORYTELLERS — locate the fables work already in the repo (git grep, do not guess a path), fold it into the Storytellers map by cross-reference; no re-ingest, no new uids"
+      "status": "done",
+      "scope": "STORYTELLERS — locate the fables work already in the repo (git grep, do not guess a path), fold it into the Storytellers map by cross-reference; no re-ingest, no new uids",
+      "started": "2026-10-02T15:25:53-05:00",
+      "finished": "2026-10-02T15:25:53-05:00",
+      "notes": "Searched whole tree + every origin branch: no fables shelf/section/ingest exists in canon-corpus. Only hits: KJV verses, fable_review provenance fields, the Chesterton-Aesop exclusion note in fetch_sources.py. Map carries 'pending: locate earlier fables work' (maybe in armarium/wordhoard/vault). Nothing re-ingested, no uids."
     }
   ]
 }

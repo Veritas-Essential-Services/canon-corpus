@@ -16,3 +16,7 @@
 - Mary Lamb credited on Tales from Shakespeare, Poetry for Children, Books for Children and the letters.
 - No uids minted; all 10 `lamb-*` slugs await minting. Not in the manifest.
 - Pending: clean text of Lucas vol. IV; Ainger's edition as a second witness; Lucas's 1935 Letters (probably still in copyright).
+
+## 2026-10-02 15:27 CDT — fables-fold: done (nothing to fold)
+- `git grep -il -E 'fable|aesop|a_?fable'` on the tree, then a word-bounded grep for aesop/fables/phaedrus on every `origin/*` branch: no fables work exists in canon-corpus. Hits were only KJV verses ("cunningly devised fables"), the `fable_review` provenance field, and pipeline/fetch_sources.py's note excluding a Chesterton-introduced Aesop.
+- Map section carries `pending: locate earlier fables work` — it may be in a sibling repo (armarium, wordhoard) or the vault, neither reachable from this run. Nothing created, nothing re-ingested, no uids.
