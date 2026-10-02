@@ -1,5 +1,5 @@
 {
- "_about": "Juvenal and Persius in English: Lewis Evans's literal prose (Bohn), with William Gifford's verse translation and the satires of Sulpicia and Lucilius, clean Gutenberg. Dryden's Juvenal and Persius are on the Dryden shelf (lane C).",
+ "_about": "Juvenal and Persius in English: Lewis Evans's literal prose (Bohn), with William Gifford's verse translation and the satires of Sulpicia and Lucilius, clean Gutenberg. Dryden's Juvenal and Persius are on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "juvenal",
   "persius",
@@ -14,12 +14,16 @@
    "tr. Lewis Evans (prose), with William Gifford's verse translation"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "juvenal-persius-ramsay": [
+   "juvenalpersiuswi00juveuoft",
+   "Juvenal and Persius (Loeb, 1918)",
+   "tr. G. G. Ramsay"
+  ]
+ },
  "_cross_ref": {
   "dryden-juvenal": "Dryden shelf, lane C",
   "dryden-persius": "Dryden shelf, lane C"
  },
- "_excluded": {
-  "G. G. Ramsay, Loeb (1918)": "US PD by date; pending"
- }
+ "_excluded": {}
 }
