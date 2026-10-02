@@ -1,7 +1,7 @@
 # Lane B digest — Classical (English translations)
-<!-- refreshed 2026-10-02 16:35 CDT by the lane B worker -->
+<!-- refreshed 2026-10-02 17:03 CDT by the lane B worker -->
 
-**Held:** 84 shelves, 357 files (243 clean Gutenberg texts, 114 raw Internet Archive OCR volumes), 262 MB on the worker's disk. Corpus text is gitignored; the shelves (`pipeline/<author>_shelf.json`) are the record. Nothing converted into the build manifest and **nothing minted** (no uid minting during a burst). Every shelf lists its pending wishlist and its exclusions with reasons; the map section is `docs/divines-map/B-classical.md`.
+**Held:** 84 shelves, 443 files (249 clean Gutenberg texts, 194 raw Internet Archive OCR volumes), 348 MB on the worker's disk. Corpus text is gitignored; the shelves (`pipeline/<author>_shelf.json`) are the record. Nothing converted into the build manifest and **nothing minted** (no uid minting during a burst). Every shelf lists its pending wishlist and its exclusions with reasons; the map section is `docs/divines-map/B-classical.md`.
 
 | Author | Held (clean / raw) | Pending, short |
 |---|---|---|
@@ -26,6 +26,13 @@
 | Science (Euclid, Archimedes, Apollonius of Perga, Hippocrates, Galen, Aretaeus, Theophrastus, Hero, Ptolemy) | 5 / 9 | Robinson's Method (fetcher can't read PG 7825) |
 | Latin silver and late (Martial, Statius, Claudian, Quintilian, Vitruvius, Gellius, Ammianus, Ausonius, Frontinus, Celsus, Cato/Varro, Phaedrus, Watson's epitomators, Justinian) | 9 / 19 | Beloe's Gellius vol. 2, Hawkins's Claudian vol. 2 |
 | Dionysius of Halicarnassus, Augustus | 2 / 0 | |
+
+## Added since the first digest (2026-10-02, 16:35-17:05 CDT)
+
+- **61 Latin-facing Loeb volumes (1912-1930)** on 20 existing shelves, e.g. Gummere's Seneca Epistles, Fairclough's Virgil, Miller's Metamorphoses, Rolfe's Suetonius/Sallust/Gellius, Butler's Quintilian, Foster's Livy 1, 3-5, Williams's Cicero Letters to Friends. Winstedt's Letters to Atticus now from clean Gutenberg. Refused: Livy vol. 2 (scan is the 1939 revised printing), Plautus vols. 4-5 (1932, 1938), Basore vol. 3 (1935).
+- **Older English translators from the map's wishlists:** Potter's Aeschylus and Wodhull's complete Euripides (Greek Tragic Theatre, 1809), Swanwick, Plumptre's Sophocles, Creech's Lucretius, Rowe's Lucan vol. 1, Carter's Epictetus, Cary's Herodotus, Holland's Pliny (1601) and Livy (1659 ed.), Gordon's Tacitus (5 vols.), Hampton's Polybius, Smith's Thucydides, Collier's and Rendall's Marcus, Norgate's Iliad, Hobbes's Homer, Cranch's Aeneid, T. C. Williams's Georgics, Elton's Hesiod, Bysshe's Memorabilia.
+- **fetch_shelf.py** now reads Gutenberg files served only gzip-encoded (one-line retry on HTTP 406); Robinson's Archimedes fetched with it.
+- **Grey area for you:** some kept Loeb scans are later reprints (e.g. 1931-1969) of pre-1931 editions with no revision notice; two carry pre-1930 revisions (Miller's Seneca vol. 2, Fairclough's Horace, both 1929). Their text is that of the pre-1931 edition.
 
 ## Look at these first (Adam)
 

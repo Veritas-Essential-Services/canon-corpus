@@ -1,227 +1,232 @@
 {
-  "lane": "B",
-  "items": [
-    {
-      "id": "plato-jowett",
-      "status": "done",
-      "scope": "CLASSICAL \u2014 Benjamin Jowett complete English Plato (all dialogues); shelf + fetch + classical map section",
-      "started": "2026-10-02T15:11:32-05:00",
-      "finished": "2026-10-02T15:17:10-05:00",
-      "notes": "34 of 34 fetched (29 PG dialogues, 5 IA vols of the 1892 Clarendon set), 16.6 MB. Trial conversion of the PG texts with convert_gutenberg_prose: 22,162 paragraph units, 1.5M words. Not added to the build manifest (fetch_sources.py is off-limits during the burst) and not minted. No Stephanus numbers in the PG texts; IA set is raw OCR."
-    },
-    {
-      "id": "aristotle-ross",
-      "status": "done-with-defects",
-      "scope": "CLASSICAL \u2014 W.D. Ross Oxford English Aristotle (12-vol Works Translated into English); Perseus English gap-fill only, no Greek; shelf + fetch + classical map section",
-      "finished": "2026-10-02T15:22:55-05:00",
-      "notes": "10 Oxford volumes (I, II, IV-XI) + Hammond 1902 De Anima/Parva Naturalia gap-fill fetched as raw IA OCR, 12.0 MB, ~2.0M words, clean-word ratio 0.81-0.89 per volume. Vol. III (1931) and XII (1952) pending on rights. meteorologica00aris fetched then removed: it is all of vol. III (contains the 1931 De Anima)."
-    },
-    {
-      "id": "hesiod",
-      "status": "done",
-      "scope": "CLASSICAL \u2014 Hesiod, English (Evelyn-White); shelf + fetch + classical map section",
-      "started": "2026-10-02T15:23:15-05:00",
-      "finished": "2026-10-02T15:23:34-05:00",
-      "notes": "PG 348 fetched (548 KB). Trial conversion: 1,491 paragraph units, 90.5K words; 510 inline '(ll. N)' line references available for a finer scheme later. Not minted."
-    },
-    {
-      "id": "ovid",
-      "status": "done",
-      "scope": "CLASSICAL \u2014 Ovid, English, translator-per-work; cross-ref Dryden-Garth from the Dryden shelf; shelf + fetch + classical map section",
-      "started": "2026-10-02T15:24:50-05:00",
-      "finished": "2026-10-02T15:25:57-05:00",
-      "notes": "9/9 fetched, 7.5 MB: Riley prose for the whole corpus (6 clean PG texts + 2 Bohn volumes raw), Howard 1807 and Golding 1567 Metamorphoses. Trial conversion of PG texts: 4,610 paragraph units. Dryden titles cross-referenced to lane C's slugs. PG 21920 refused (copyrighted). Not minted."
-    },
-    {
-      "id": "virgil",
-      "status": "done",
-      "scope": "CLASSICAL \u2014 Virgil standalone (Aeneid, Georgics, Eclogues); cross-ref Dryden's Virgil; shelf + fetch + classical map section",
-      "started": "2026-10-02T15:26:13-05:00",
-      "finished": "2026-10-02T15:28:30-05:00",
-      "notes": "10/10 fetched, 5.8 MB: Rhoades and Conington each complete (clean PG + raw IA), plus Aeneids by Mackail, Morris, Taylor, Humphries and Mackail's Eclogues/Georgics. Trial conversion: verse texts 3,135 units via convert_gutenberg_verse (divres recorded in the shelf), Conington/Mackail Aeneid prose 1,714. PG 230's translator identified as Rhoades by collation. Dryden cross-referenced. Not minted."
-    },
-    {
-      "id": "overflow-perseus",
-      "status": "done",
-      "scope": "Perseus \u2014 census pipeline/perseus_catalog.py against what is fetched; record the gap as a measured list in docs/; fetch only if the existing pipeline supports it without editing fetch_sources.py",
-      "started": "2026-10-02T15:28:44-05:00",
-      "finished": "2026-10-02T15:30:44-05:00",
-      "notes": "Census only (no fetch: the pipeline needs a PERSEUS entry in fetch_sources.py). Scaife catalogue: 923 English greekLit/latinLit texts, 82 authors; 3 in build, 34 same translation held, 54 author-shelf, 832 gap (625 likely US PD). docs/perseus-census.md + .csv, pipeline/perseus_census.py. Finding: Williams's Aeneid is already in the build (aeneid-williams); Virgil map corrected."
-    },
-    {
-      "id": "homer",
-      "status": "done",
-      "scope": "CLASSICAL (added by lane B from the Perseus census) \u2014 Homer, English, translator per work: Chapman, Pope, Cowper, Butler (Iliad/Odyssey Butler already in the build via Perseus), Bryant, Lang/Leaf/Myers and Butcher/Lang cross-ref \u2192 Lang shelf (lane D), Dryden's Homer cross-ref \u2192 Dryden shelf (lane C); shelf + fetch + map",
-      "started": "2026-10-02T15:32:11-05:00",
-      "finished": "2026-10-02T15:34:07-05:00",
-      "notes": "13/13 fetched, 10.5 MB: Chapman, Pope, Cowper (both poems each), Derby, Buckley, Butler Odyssey 1900 (PG) + Bryant Iliad and Odyssey (IA raw, 2 vols each, clean-word 0.92). Trial conversion (prose mode): 9,810 units. Finding: the build's odyssey-eng4 is Butler revised by Power and Nagy (modern revision), not the 1900 text. Lang, Dryden, Evelyn-White Homer cross-referenced."
-    },
-    {
-      "id": "greek-tragedy",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Aeschylus and Euripides in PD English (Plumptre, Morshead, Coleridge, Way, Murray where PG clears it); Sophocles cross-ref the Jebb plays in the unmerged Sophocles PR, plus PD Gutenberg Sophocles (Plumptre, Storr where cleared); shelf + fetch + map",
-      "started": "2026-10-02T15:34:15-05:00",
-      "finished": "2026-10-02T15:38:07-05:00",
-      "notes": "Aeschylus 6, Euripides 14, Sophocles 4 fetched (9.6 MB); Jebb's Sophocles cross-referenced to the unmerged PR; PG 806 refused (copyrighted)."
-    },
-    {
-      "id": "aristophanes",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Aristophanes, PD English (Rogers, Frere, Hickie, the anonymous Athenian Society 1912); shelf + fetch + map",
-      "started": "2026-10-02T15:38:16-05:00",
-      "finished": "2026-10-02T15:39:49-05:00",
-      "notes": "5/5 PG fetched, 1.5 MB, trial 10,250 units. Complete in the Athenian Society 1912 translation; Hickie Clouds, Rogers Frogs, Lindsay Lysistrata (US PD per PG). PG 3012/2571/3013 excluded as duplicates (shingle overlap 0.85-0.87)."
-    },
-    {
-      "id": "greek-historians",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Herodotus (Rawlinson, Macaulay), Thucydides (Jowett, Crawley), Xenophon (Dakyns); shelf per author + fetch + map",
-      "started": "2026-10-02T15:39:57-05:00",
-      "finished": "2026-10-02T15:43:23-05:00",
-      "notes": "Herodotus 5, Thucydides 3, Xenophon 14, Polybius 2, Arrian 2 fetched (22.2 MB). Findings on the Adler shelf: thucydides-pelo is Crawley not Jowett; herodotus-history is vol. 1 only."
-    },
-    {
-      "id": "plutarch",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Plutarch's Lives (North 1579, Langhorne, Clough's revision of the Dryden translation cross-ref \u2192 Dryden shelf if lane C holds it) and Moralia (Goodwin 1870, King, Shilleto); shelf + fetch + map",
-      "started": "2026-10-02T15:43:32-05:00",
-      "finished": "2026-10-02T15:48:59-05:00",
-      "notes": "26/26 fetched (13 PG + North 6 vols + Langhorne 6 vols raw). Lives complete in three translators; Goodwin Moralia complete. Duplicate North vol. 5 scan dropped (worse OCR). Adler's plutarch-lives cross-referenced."
-    },
-    {
-      "id": "stoics",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Marcus Aurelius (George Long, Casaubon), Epictetus (Long, Higginson, Carter), Seneca (Lodge 1614, Stewart, Basore where cleared); shelf per author + fetch + map",
-      "started": "2026-10-02T15:49:32-05:00",
-      "finished": "2026-10-02T15:52:20-05:00",
-      "notes": "Marcus Aurelius 2, Epictetus 8, Seneca 8 fetched. Findings on the Adler shelf: marcus-meditations (PG 2680) is Casaubon by wording, not Long as labelled (inferred); epictetus-discourses (PG 45109) is Higginson's Enchiridion, not Matheson's Discourses (stated by the PG header)."
-    },
-    {
-      "id": "roman-historians",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Tacitus (Church and Brodribb), Livy (Roberts, Spillan), Caesar (McDevitte and Bohn), Suetonius (Thomson/Forester, Rolfe 1914), Sallust; shelf per author + fetch + map",
-      "started": "2026-10-02T15:52:28-05:00",
-      "finished": "2026-10-02T15:54:45-05:00",
-      "notes": "Tacitus 6, Livy 5 (Bohn complete), Caesar 1, Suetonius 1, Sallust 1, Pliny 8 fetched; 22.8 MB; trial PG 52,933 units. Finding: the Adler shelf's tacitus-annals (PG 7959) is Gordon's 'Reign of Tiberius' (Annals I-VI selection), not Church and Brodribb as labelled."
-    },
-    {
-      "id": "roman-poets",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Lucretius (Munro, Bailey 1910, Leonard where cleared), Horace (Conington, Lonsdale and Lee, Smart), Catullus (Burton, Cornish), Juvenal and Persius non-Dryden (Gifford), Plautus and Terence (Riley); Dryden's parts cross-ref lane C; shelf per author + fetch + map",
-      "started": "2026-10-02T15:54:52-05:00",
-      "finished": "2026-10-02T15:58:29-05:00",
-      "notes": "9 shelves, 22 files: Lucretius 3, Horace 4, Catullus 2, Tibullus 1, Juvenal/Persius 1, Plautus/Terence 6, Lucan 1, Apuleius 2, Petronius 2. Lucan's PG 602 identified as Ridley by collation. Finding: the Adler shelf's lucretius-nature (PG 785) is Leonard, not Munro as labelled. Years not found in the files were dropped from the shelves."
-    },
-    {
-      "id": "lucian-cicero",
-      "status": "done",
-      "scope": "CLASSICAL (census) \u2014 Lucian (H. W. and F. G. Fowler 1905, 4 vols.), Cicero (Yonge, Peabody, Shuckburgh's Letters, Melmoth); shelf per author + fetch + map",
-      "started": "2026-10-02T15:58:36-05:00",
-      "finished": "2026-10-02T16:02:54-05:00",
-      "notes": "Lucian 6 (Fowler complete), Cicero 15 (Yonge Orations complete; Shuckburgh correspondence complete; philosophy and rhetoric). Winstedt's Atticus held back: Latin facing."
-    },
-    {
-      "id": "greek-orators",
-      "status": "done",
-      "scope": "CLASSICAL (census gap) \u2014 Demosthenes (Kennedy, Bohn), Lysias, Isocrates (Freese; Dinsmore), Aeschines, the minor Attic orators where PD English exists; shelf per author + fetch + map",
-      "started": "2026-10-02T16:04:22-05:00",
-      "finished": "2026-10-02T16:07:57-05:00",
-      "notes": "demosthenes (3 PG + 4 IA), lysias (PG 6969), isocrates (Freese v1 IA); OCR clean-word 0.84-0.94"
-    },
-    {
-      "id": "greek-poets-minor",
-      "status": "done",
-      "scope": "CLASSICAL (census gap) \u2014 Pindar (Myers, Moore; cross-ref cary-pindar lane C), Theocritus/Bion/Moschus (Calverley, Banks; Lang's cross-ref lane D), Apollonius Rhodius (Seaton, Coleridge, Way), Quintus Smyrnaeus (Way), Musaeus, the Greek Anthology (Mackail, Paton); shelf per author + fetch + map",
-      "finished": "2026-10-02T16:11:43-05:00",
-      "notes": "pindar, theocritus, apollonius, quintus-smyrnaeus, greek-lyric; cross-refs cary-pindar (C), lang theocritus (D)"
-    },
-    {
-      "id": "greek-late-philosophy",
-      "status": "done",
-      "scope": "CLASSICAL (census gap) \u2014 Diogenes Laertius (Yonge), Plotinus (MacKenna where cleared, Taylor), Longinus (Havell, Roberts), Sextus Empiricus, Porphyry (Taylor); shelf per author + fetch + map",
-      "started": "2026-10-02T16:12:08-05:00",
-      "finished": "2026-10-02T16:18:08-05:00",
-      "notes": "diogenes-laertius, plotinus (MacKenna 1917-30 complete + Guthrie + Taylor), porphyry, iamblichus, proclus, pythagoreans, sextus-empiricus, julian, boethius"
-    },
-    {
-      "id": "greek-geographers-historians",
-      "status": "done",
-      "scope": "CLASSICAL (census gap) \u2014 Pausanias (Frazer, Taylor), Strabo (Hamilton and Falconer), Appian (White), Diodorus Siculus (Booth), Dio Cassius (Cary where cleared), Athenaeus (Yonge); shelf per author + fetch + map",
-      "started": "2026-10-02T16:18:25-05:00",
-      "finished": "2026-10-02T16:22:35-05:00",
-      "notes": "pausanias, strabo, appian, diodorus, dio-cassius, athenaeus, procopius, greek-romances"
-    },
-    {
-      "id": "greek-science",
-      "status": "done",
-      "scope": "CLASSICAL (census gap) \u2014 Euclid (Heath), Archimedes (Heath), Hippocrates (Adams), Galen (Brock where cleared), Aretaeus (Adams), Theophrastus (Characters: Jebb); shelf per author + fetch + map",
-      "started": "2026-10-02T16:22:52-05:00",
-      "finished": "2026-10-02T16:27:56-05:00",
-      "notes": "euclid (Heath 1908), archimedes (+Apollonius Conics), hippocrates, galen, aretaeus, theophrastus, greek-mechanics-astronomy; PG 7825 gzip-only, pending"
-    },
-    {
-      "id": "latin-silver-late",
-      "status": "done",
-      "scope": "CLASSICAL (census gap) \u2014 Martial (Bohn), Statius, Valerius Flaccus, Silius Italicus, Claudian (Hawkins; Platnauer where cleared), Quintilian (Watson), Vitruvius (Morgan; Gwilt), Aulus Gellius, Ammianus Marcellinus (Yonge), Macrobius; shelf per author + fetch + map",
-      "started": "2026-10-02T16:28:14-05:00",
-      "finished": "2026-10-02T16:33:04-05:00",
-      "notes": "martial, statius, claudian, quintilian, vitruvius, gellius, ammianus, ausonius, frontinus, celsus, roman-farming, phaedrus, roman-epitomators, justinian; Valerius Flaccus, Silius, Macrobius: no PD English found"
-    },
-    {
-      "id": "bilingual-pg-adds",
-      "status": "done",
-      "scope": "OVERFLOW: Gutenberg books catalogued 'en; la' / 'en; grc' that English-only searches missed (Cicero De Officiis Miller, Plautus Nixon, Boethius Rand/Stewart, Dionysius of Halicarnassus Roberts, Monumentum Ancyranum) plus Seneca prose on Gutenberg not yet shelved; add to existing shelves or new per-author shelves",
-      "started": "2026-10-02T16:33:26-05:00",
-      "finished": "2026-10-02T16:34:38-05:00",
-      "notes": "cicero +Miller De Officiis, roman-comedy +Nixon Plautus v1, boethius +Stewart/Rand, seneca +Super; new dionysius-halicarnassus, augustus"
-    },
-    {
-      "id": "reverify-all-b",
-      "status": "done",
-      "scope": "AUDIT: fetch_shelf.py --verify on every lane B shelf; record any wrong book",
-      "started": "2026-10-02T16:34:54-05:00",
-      "finished": "2026-10-02T16:35:23-05:00",
-      "notes": "84 lane B shelves, fetch_shelf.py --verify: 0 wrong books"
-    },
-    {
-      "id": "digest-refresh-b",
-      "status": "done",
-      "scope": "Refresh DIGEST-B totals (shelves, texts, MB) and decisions for Adam",
-      "started": "2026-10-02T16:35:23-05:00",
-      "finished": "2026-10-02T16:35:45-05:00",
-      "notes": "84 shelves, 357 files, 262 MB"
-    },
-    {
-      "id": "fetcher-gzip",
-      "status": "done",
-      "scope": "fetch_shelf.py: accept gzip-only Gutenberg responses (PG 7825 gives HTTP 406), backward-compatibly; then fetch Robinson's Method",
-      "started": "2026-10-02T16:36:06-05:00",
-      "finished": "2026-10-02T16:36:44-05:00",
-      "notes": "fetch_shelf.get retries a 406 with Accept-Encoding gzip and decompresses; PG 7825 fetched"
-    },
-    {
-      "id": "latin-loebs-1930",
-      "status": "done",
-      "scope": "Latin-facing Loebs published 1930 or earlier, now that Latin-facing is taken: Gummere's Seneca Epistles, Fairclough's Virgil, Miller's Metamorphoses, Showerman's Heroides, Bennett's Horace, Rolfe's Suetonius/Sallust/Gellius, Ker's Martial, others found; add to existing shelves",
-      "started": "2026-10-02T16:37:14-05:00",
-      "finished": "2026-10-02T16:48:27-05:00",
-      "notes": "61 Latin-facing Loeb volumes (1912-1930) on 20 shelves; Winstedt's Atticus taken from Gutenberg; refused: Livy v2 (1939 revised printing), Plautus v4-v5 (1932, 1938), Basore v3 (1935)"
-    },
-    {
-      "id": "pending-volumes-hunt",
-      "status": "done",
-      "scope": "Re-search IA for the missing volumes recorded as pending: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Taylor Pausanias v3, Frazer Pausanias v1",
-      "started": "2026-10-02T16:48:49-05:00",
-      "finished": "2026-10-02T16:50:29-05:00",
-      "notes": "found Livy v3, Taylor Pausanias v3, Keyes De Re Publica; still missing: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Frazer Pausanias v1, Nixon Plautus v2, Bennett Horace Odes"
-    },
-    {
-      "id": "wishlist-sweep-b",
-      "status": "done",
-      "scope": "Sweep the map's 'Pending (wishlist)' lines against the Gutenberg catalogue and IA for older English translators (Holland, Creech, Rowe, Smart, Potter, Rogers, Elton, Bohn Plato, Golding's Caesar, Lodge's Seneca): fetch what is found and verifiable",
-      "started": "2026-10-02T16:50:54-05:00",
-      "finished": "2026-10-02T17:01:41-05:00",
-      "notes": "Elton Hesiod, Bysshe, Potter/Wodhull Greek Tragic Theatre, Swanwick, Plumptre, Creech, Rowe v1, Carter, Cary, Holland Pliny+Livy, Williams, Cranch, Norgate, Smith, Hampton, Collier, Rendall, Gordon"
-    }
-  ]
+ "lane": "B",
+ "items": [
+  {
+   "id": "plato-jowett",
+   "status": "done",
+   "scope": "CLASSICAL — Benjamin Jowett complete English Plato (all dialogues); shelf + fetch + classical map section",
+   "started": "2026-10-02T15:11:32-05:00",
+   "finished": "2026-10-02T15:17:10-05:00",
+   "notes": "34 of 34 fetched (29 PG dialogues, 5 IA vols of the 1892 Clarendon set), 16.6 MB. Trial conversion of the PG texts with convert_gutenberg_prose: 22,162 paragraph units, 1.5M words. Not added to the build manifest (fetch_sources.py is off-limits during the burst) and not minted. No Stephanus numbers in the PG texts; IA set is raw OCR."
+  },
+  {
+   "id": "aristotle-ross",
+   "status": "done-with-defects",
+   "scope": "CLASSICAL — W.D. Ross Oxford English Aristotle (12-vol Works Translated into English); Perseus English gap-fill only, no Greek; shelf + fetch + classical map section",
+   "finished": "2026-10-02T15:22:55-05:00",
+   "notes": "10 Oxford volumes (I, II, IV-XI) + Hammond 1902 De Anima/Parva Naturalia gap-fill fetched as raw IA OCR, 12.0 MB, ~2.0M words, clean-word ratio 0.81-0.89 per volume. Vol. III (1931) and XII (1952) pending on rights. meteorologica00aris fetched then removed: it is all of vol. III (contains the 1931 De Anima)."
+  },
+  {
+   "id": "hesiod",
+   "status": "done",
+   "scope": "CLASSICAL — Hesiod, English (Evelyn-White); shelf + fetch + classical map section",
+   "started": "2026-10-02T15:23:15-05:00",
+   "finished": "2026-10-02T15:23:34-05:00",
+   "notes": "PG 348 fetched (548 KB). Trial conversion: 1,491 paragraph units, 90.5K words; 510 inline '(ll. N)' line references available for a finer scheme later. Not minted."
+  },
+  {
+   "id": "ovid",
+   "status": "done",
+   "scope": "CLASSICAL — Ovid, English, translator-per-work; cross-ref Dryden-Garth from the Dryden shelf; shelf + fetch + classical map section",
+   "started": "2026-10-02T15:24:50-05:00",
+   "finished": "2026-10-02T15:25:57-05:00",
+   "notes": "9/9 fetched, 7.5 MB: Riley prose for the whole corpus (6 clean PG texts + 2 Bohn volumes raw), Howard 1807 and Golding 1567 Metamorphoses. Trial conversion of PG texts: 4,610 paragraph units. Dryden titles cross-referenced to lane C's slugs. PG 21920 refused (copyrighted). Not minted."
+  },
+  {
+   "id": "virgil",
+   "status": "done",
+   "scope": "CLASSICAL — Virgil standalone (Aeneid, Georgics, Eclogues); cross-ref Dryden's Virgil; shelf + fetch + classical map section",
+   "started": "2026-10-02T15:26:13-05:00",
+   "finished": "2026-10-02T15:28:30-05:00",
+   "notes": "10/10 fetched, 5.8 MB: Rhoades and Conington each complete (clean PG + raw IA), plus Aeneids by Mackail, Morris, Taylor, Humphries and Mackail's Eclogues/Georgics. Trial conversion: verse texts 3,135 units via convert_gutenberg_verse (divres recorded in the shelf), Conington/Mackail Aeneid prose 1,714. PG 230's translator identified as Rhoades by collation. Dryden cross-referenced. Not minted."
+  },
+  {
+   "id": "overflow-perseus",
+   "status": "done",
+   "scope": "Perseus — census pipeline/perseus_catalog.py against what is fetched; record the gap as a measured list in docs/; fetch only if the existing pipeline supports it without editing fetch_sources.py",
+   "started": "2026-10-02T15:28:44-05:00",
+   "finished": "2026-10-02T15:30:44-05:00",
+   "notes": "Census only (no fetch: the pipeline needs a PERSEUS entry in fetch_sources.py). Scaife catalogue: 923 English greekLit/latinLit texts, 82 authors; 3 in build, 34 same translation held, 54 author-shelf, 832 gap (625 likely US PD). docs/perseus-census.md + .csv, pipeline/perseus_census.py. Finding: Williams's Aeneid is already in the build (aeneid-williams); Virgil map corrected."
+  },
+  {
+   "id": "homer",
+   "status": "done",
+   "scope": "CLASSICAL (added by lane B from the Perseus census) — Homer, English, translator per work: Chapman, Pope, Cowper, Butler (Iliad/Odyssey Butler already in the build via Perseus), Bryant, Lang/Leaf/Myers and Butcher/Lang cross-ref → Lang shelf (lane D), Dryden's Homer cross-ref → Dryden shelf (lane C); shelf + fetch + map",
+   "started": "2026-10-02T15:32:11-05:00",
+   "finished": "2026-10-02T15:34:07-05:00",
+   "notes": "13/13 fetched, 10.5 MB: Chapman, Pope, Cowper (both poems each), Derby, Buckley, Butler Odyssey 1900 (PG) + Bryant Iliad and Odyssey (IA raw, 2 vols each, clean-word 0.92). Trial conversion (prose mode): 9,810 units. Finding: the build's odyssey-eng4 is Butler revised by Power and Nagy (modern revision), not the 1900 text. Lang, Dryden, Evelyn-White Homer cross-referenced."
+  },
+  {
+   "id": "greek-tragedy",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Aeschylus and Euripides in PD English (Plumptre, Morshead, Coleridge, Way, Murray where PG clears it); Sophocles cross-ref the Jebb plays in the unmerged Sophocles PR, plus PD Gutenberg Sophocles (Plumptre, Storr where cleared); shelf + fetch + map",
+   "started": "2026-10-02T15:34:15-05:00",
+   "finished": "2026-10-02T15:38:07-05:00",
+   "notes": "Aeschylus 6, Euripides 14, Sophocles 4 fetched (9.6 MB); Jebb's Sophocles cross-referenced to the unmerged PR; PG 806 refused (copyrighted)."
+  },
+  {
+   "id": "aristophanes",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Aristophanes, PD English (Rogers, Frere, Hickie, the anonymous Athenian Society 1912); shelf + fetch + map",
+   "started": "2026-10-02T15:38:16-05:00",
+   "finished": "2026-10-02T15:39:49-05:00",
+   "notes": "5/5 PG fetched, 1.5 MB, trial 10,250 units. Complete in the Athenian Society 1912 translation; Hickie Clouds, Rogers Frogs, Lindsay Lysistrata (US PD per PG). PG 3012/2571/3013 excluded as duplicates (shingle overlap 0.85-0.87)."
+  },
+  {
+   "id": "greek-historians",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Herodotus (Rawlinson, Macaulay), Thucydides (Jowett, Crawley), Xenophon (Dakyns); shelf per author + fetch + map",
+   "started": "2026-10-02T15:39:57-05:00",
+   "finished": "2026-10-02T15:43:23-05:00",
+   "notes": "Herodotus 5, Thucydides 3, Xenophon 14, Polybius 2, Arrian 2 fetched (22.2 MB). Findings on the Adler shelf: thucydides-pelo is Crawley not Jowett; herodotus-history is vol. 1 only."
+  },
+  {
+   "id": "plutarch",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Plutarch's Lives (North 1579, Langhorne, Clough's revision of the Dryden translation cross-ref → Dryden shelf if lane C holds it) and Moralia (Goodwin 1870, King, Shilleto); shelf + fetch + map",
+   "started": "2026-10-02T15:43:32-05:00",
+   "finished": "2026-10-02T15:48:59-05:00",
+   "notes": "26/26 fetched (13 PG + North 6 vols + Langhorne 6 vols raw). Lives complete in three translators; Goodwin Moralia complete. Duplicate North vol. 5 scan dropped (worse OCR). Adler's plutarch-lives cross-referenced."
+  },
+  {
+   "id": "stoics",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Marcus Aurelius (George Long, Casaubon), Epictetus (Long, Higginson, Carter), Seneca (Lodge 1614, Stewart, Basore where cleared); shelf per author + fetch + map",
+   "started": "2026-10-02T15:49:32-05:00",
+   "finished": "2026-10-02T15:52:20-05:00",
+   "notes": "Marcus Aurelius 2, Epictetus 8, Seneca 8 fetched. Findings on the Adler shelf: marcus-meditations (PG 2680) is Casaubon by wording, not Long as labelled (inferred); epictetus-discourses (PG 45109) is Higginson's Enchiridion, not Matheson's Discourses (stated by the PG header)."
+  },
+  {
+   "id": "roman-historians",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Tacitus (Church and Brodribb), Livy (Roberts, Spillan), Caesar (McDevitte and Bohn), Suetonius (Thomson/Forester, Rolfe 1914), Sallust; shelf per author + fetch + map",
+   "started": "2026-10-02T15:52:28-05:00",
+   "finished": "2026-10-02T15:54:45-05:00",
+   "notes": "Tacitus 6, Livy 5 (Bohn complete), Caesar 1, Suetonius 1, Sallust 1, Pliny 8 fetched; 22.8 MB; trial PG 52,933 units. Finding: the Adler shelf's tacitus-annals (PG 7959) is Gordon's 'Reign of Tiberius' (Annals I-VI selection), not Church and Brodribb as labelled."
+  },
+  {
+   "id": "roman-poets",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Lucretius (Munro, Bailey 1910, Leonard where cleared), Horace (Conington, Lonsdale and Lee, Smart), Catullus (Burton, Cornish), Juvenal and Persius non-Dryden (Gifford), Plautus and Terence (Riley); Dryden's parts cross-ref lane C; shelf per author + fetch + map",
+   "started": "2026-10-02T15:54:52-05:00",
+   "finished": "2026-10-02T15:58:29-05:00",
+   "notes": "9 shelves, 22 files: Lucretius 3, Horace 4, Catullus 2, Tibullus 1, Juvenal/Persius 1, Plautus/Terence 6, Lucan 1, Apuleius 2, Petronius 2. Lucan's PG 602 identified as Ridley by collation. Finding: the Adler shelf's lucretius-nature (PG 785) is Leonard, not Munro as labelled. Years not found in the files were dropped from the shelves."
+  },
+  {
+   "id": "lucian-cicero",
+   "status": "done",
+   "scope": "CLASSICAL (census) — Lucian (H. W. and F. G. Fowler 1905, 4 vols.), Cicero (Yonge, Peabody, Shuckburgh's Letters, Melmoth); shelf per author + fetch + map",
+   "started": "2026-10-02T15:58:36-05:00",
+   "finished": "2026-10-02T16:02:54-05:00",
+   "notes": "Lucian 6 (Fowler complete), Cicero 15 (Yonge Orations complete; Shuckburgh correspondence complete; philosophy and rhetoric). Winstedt's Atticus held back: Latin facing."
+  },
+  {
+   "id": "greek-orators",
+   "status": "done",
+   "scope": "CLASSICAL (census gap) — Demosthenes (Kennedy, Bohn), Lysias, Isocrates (Freese; Dinsmore), Aeschines, the minor Attic orators where PD English exists; shelf per author + fetch + map",
+   "started": "2026-10-02T16:04:22-05:00",
+   "finished": "2026-10-02T16:07:57-05:00",
+   "notes": "demosthenes (3 PG + 4 IA), lysias (PG 6969), isocrates (Freese v1 IA); OCR clean-word 0.84-0.94"
+  },
+  {
+   "id": "greek-poets-minor",
+   "status": "done",
+   "scope": "CLASSICAL (census gap) — Pindar (Myers, Moore; cross-ref cary-pindar lane C), Theocritus/Bion/Moschus (Calverley, Banks; Lang's cross-ref lane D), Apollonius Rhodius (Seaton, Coleridge, Way), Quintus Smyrnaeus (Way), Musaeus, the Greek Anthology (Mackail, Paton); shelf per author + fetch + map",
+   "finished": "2026-10-02T16:11:43-05:00",
+   "notes": "pindar, theocritus, apollonius, quintus-smyrnaeus, greek-lyric; cross-refs cary-pindar (C), lang theocritus (D)"
+  },
+  {
+   "id": "greek-late-philosophy",
+   "status": "done",
+   "scope": "CLASSICAL (census gap) — Diogenes Laertius (Yonge), Plotinus (MacKenna where cleared, Taylor), Longinus (Havell, Roberts), Sextus Empiricus, Porphyry (Taylor); shelf per author + fetch + map",
+   "started": "2026-10-02T16:12:08-05:00",
+   "finished": "2026-10-02T16:18:08-05:00",
+   "notes": "diogenes-laertius, plotinus (MacKenna 1917-30 complete + Guthrie + Taylor), porphyry, iamblichus, proclus, pythagoreans, sextus-empiricus, julian, boethius"
+  },
+  {
+   "id": "greek-geographers-historians",
+   "status": "done",
+   "scope": "CLASSICAL (census gap) — Pausanias (Frazer, Taylor), Strabo (Hamilton and Falconer), Appian (White), Diodorus Siculus (Booth), Dio Cassius (Cary where cleared), Athenaeus (Yonge); shelf per author + fetch + map",
+   "started": "2026-10-02T16:18:25-05:00",
+   "finished": "2026-10-02T16:22:35-05:00",
+   "notes": "pausanias, strabo, appian, diodorus, dio-cassius, athenaeus, procopius, greek-romances"
+  },
+  {
+   "id": "greek-science",
+   "status": "done",
+   "scope": "CLASSICAL (census gap) — Euclid (Heath), Archimedes (Heath), Hippocrates (Adams), Galen (Brock where cleared), Aretaeus (Adams), Theophrastus (Characters: Jebb); shelf per author + fetch + map",
+   "started": "2026-10-02T16:22:52-05:00",
+   "finished": "2026-10-02T16:27:56-05:00",
+   "notes": "euclid (Heath 1908), archimedes (+Apollonius Conics), hippocrates, galen, aretaeus, theophrastus, greek-mechanics-astronomy; PG 7825 gzip-only, pending"
+  },
+  {
+   "id": "latin-silver-late",
+   "status": "done",
+   "scope": "CLASSICAL (census gap) — Martial (Bohn), Statius, Valerius Flaccus, Silius Italicus, Claudian (Hawkins; Platnauer where cleared), Quintilian (Watson), Vitruvius (Morgan; Gwilt), Aulus Gellius, Ammianus Marcellinus (Yonge), Macrobius; shelf per author + fetch + map",
+   "started": "2026-10-02T16:28:14-05:00",
+   "finished": "2026-10-02T16:33:04-05:00",
+   "notes": "martial, statius, claudian, quintilian, vitruvius, gellius, ammianus, ausonius, frontinus, celsus, roman-farming, phaedrus, roman-epitomators, justinian; Valerius Flaccus, Silius, Macrobius: no PD English found"
+  },
+  {
+   "id": "bilingual-pg-adds",
+   "status": "done",
+   "scope": "OVERFLOW: Gutenberg books catalogued 'en; la' / 'en; grc' that English-only searches missed (Cicero De Officiis Miller, Plautus Nixon, Boethius Rand/Stewart, Dionysius of Halicarnassus Roberts, Monumentum Ancyranum) plus Seneca prose on Gutenberg not yet shelved; add to existing shelves or new per-author shelves",
+   "started": "2026-10-02T16:33:26-05:00",
+   "finished": "2026-10-02T16:34:38-05:00",
+   "notes": "cicero +Miller De Officiis, roman-comedy +Nixon Plautus v1, boethius +Stewart/Rand, seneca +Super; new dionysius-halicarnassus, augustus"
+  },
+  {
+   "id": "reverify-all-b",
+   "status": "done",
+   "scope": "AUDIT: fetch_shelf.py --verify on every lane B shelf; record any wrong book",
+   "started": "2026-10-02T16:34:54-05:00",
+   "finished": "2026-10-02T16:35:23-05:00",
+   "notes": "84 lane B shelves, fetch_shelf.py --verify: 0 wrong books"
+  },
+  {
+   "id": "digest-refresh-b",
+   "status": "done",
+   "scope": "Refresh DIGEST-B totals (shelves, texts, MB) and decisions for Adam",
+   "started": "2026-10-02T16:35:23-05:00",
+   "finished": "2026-10-02T16:35:45-05:00",
+   "notes": "84 shelves, 357 files, 262 MB"
+  },
+  {
+   "id": "fetcher-gzip",
+   "status": "done",
+   "scope": "fetch_shelf.py: accept gzip-only Gutenberg responses (PG 7825 gives HTTP 406), backward-compatibly; then fetch Robinson's Method",
+   "started": "2026-10-02T16:36:06-05:00",
+   "finished": "2026-10-02T16:36:44-05:00",
+   "notes": "fetch_shelf.get retries a 406 with Accept-Encoding gzip and decompresses; PG 7825 fetched"
+  },
+  {
+   "id": "latin-loebs-1930",
+   "status": "done",
+   "scope": "Latin-facing Loebs published 1930 or earlier, now that Latin-facing is taken: Gummere's Seneca Epistles, Fairclough's Virgil, Miller's Metamorphoses, Showerman's Heroides, Bennett's Horace, Rolfe's Suetonius/Sallust/Gellius, Ker's Martial, others found; add to existing shelves",
+   "started": "2026-10-02T16:37:14-05:00",
+   "finished": "2026-10-02T16:48:27-05:00",
+   "notes": "61 Latin-facing Loeb volumes (1912-1930) on 20 shelves; Winstedt's Atticus taken from Gutenberg; refused: Livy v2 (1939 revised printing), Plautus v4-v5 (1932, 1938), Basore v3 (1935)"
+  },
+  {
+   "id": "pending-volumes-hunt",
+   "status": "done",
+   "scope": "Re-search IA for the missing volumes recorded as pending: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Taylor Pausanias v3, Frazer Pausanias v1",
+   "started": "2026-10-02T16:48:49-05:00",
+   "finished": "2026-10-02T16:50:29-05:00",
+   "notes": "found Livy v3, Taylor Pausanias v3, Keyes De Re Publica; still missing: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Frazer Pausanias v1, Nixon Plautus v2, Bennett Horace Odes"
+  },
+  {
+   "id": "wishlist-sweep-b",
+   "status": "done",
+   "scope": "Sweep the map's 'Pending (wishlist)' lines against the Gutenberg catalogue and IA for older English translators (Holland, Creech, Rowe, Smart, Potter, Rogers, Elton, Bohn Plato, Golding's Caesar, Lodge's Seneca): fetch what is found and verifiable",
+   "started": "2026-10-02T16:50:54-05:00",
+   "finished": "2026-10-02T17:01:41-05:00",
+   "notes": "Elton Hesiod, Bysshe, Potter/Wodhull Greek Tragic Theatre, Swanwick, Plumptre, Creech, Rowe v1, Carter, Cary, Holland Pliny+Livy, Williams, Cranch, Norgate, Smith, Hampton, Collier, Rendall, Gordon"
+  },
+  {
+   "id": "retry-503-volumes",
+   "status": "todo",
+   "scope": "archive.org answered 503 on 2026-10-02 for: plautuswithengli02plauuoft (Nixon Plautus vol 2, 1917), greektragictheat02pott / greektragicthea04wodhgoog (Greek Tragic Theatre 1809 vol 2, Francklin's Sophocles). Retry; if readable, identify by title page and add to roman-comedy / sophocles"
+  }
+ ]
 }

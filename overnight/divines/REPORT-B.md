@@ -168,3 +168,8 @@
 - Skipped: Smart's prose Horace (best scan 0.81, title page not legible); Rogers's Aristophanes (Greek facing in both the Bell and Loeb printings).
 - (wishlist-sweep-b, continued 17:01 CDT) IA: Holland's Pliny (1601, 2 tomes) and Livy (1659 ed.); T. C. Williams's Georgics and Eclogues (1915); Cranch's Aeneid (1872); Norgate's blank-verse Iliad (1864; the title page names no translator, the attribution is the catalogue's); William Smith's Thucydides (1831, 3 vols); Hampton's Polybius (1772-73, 4 vols; vol 3 per the catalogue); Collier's Marcus (1702); Rendall's Marcus (1898); Gordon's Tacitus (1753, 5 vols). Clean-word 0.81-0.94. Each was identified by its title page where one survives.
 - (wishlist-sweep-b, end) Hobbes's Iliads and Odysses, from Molesworth's English Works vol 10 (IA, 0.92), added to homer. Not taken because the ECCO OCR is too poor (clean-word 0.62-0.70): Francklin's Lucian (1780-81) and Thornton's Plautus (1767). Hobbes's Thucydides (Molesworth vols 8-9): no scan identified.
+
+## 2026-10-02 17:04 CDT — session end (lock released)
+- Lane B holds 84 shelves: 249 clean Gutenberg texts and 194 raw IA OCR volumes, about 348 MB on this worker's disk. Corpus text is gitignored; the shelf JSON files are the record. No uids were minted. pipeline/fetch_sources.py and structure_texts.py were not touched.
+- Every queue item is done except retry-503-volumes (todo, for a restarted worker).
+- Waiting on Adam (DIGEST-B): Greek-facing Loebs; Perseus English gap (832 texts); US-only PD items; the Adler-shelf label errors; unassigned Josephus and Prudentius.
