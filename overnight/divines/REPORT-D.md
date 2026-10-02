@@ -195,3 +195,6 @@
 
 ## 2026-10-02 17:19 CDT — gregory: done
 - 5/5 fetched (Gutenberg 14465, 76322, 43973, 43974; IA cuchulainofmuirt00greg_0), 4,694 units, 11 ~2 ids (Visions and Beliefs).
+
+## 2026-10-02 17:19 CDT — campbell-highlands: done
+- 4/4 fetched (IA populartalesofwe01campuoft, populartalesofw02campuoft, populartalesofwe03campuoft, populartalesofwe40camp), raw OCR; grades C, D, C, A, the low ones from facing Gaelic (spot-checked).

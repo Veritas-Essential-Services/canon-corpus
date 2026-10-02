@@ -3513,6 +3513,18 @@ Shelf: `pipeline/gregory_shelf.json` (2026-10-02; added at the coordinator's rel
 | gregory-plays | excluded | her plays (Seven Short Plays, New Comedies, Three Wonder Plays and others): drama, outside this shelf |
 | gregory-other | excluded | The Kiltartan History Book (PG 11260), The Kiltartan Poetry Book (6656), Poets and Dreamers (18070), Our Irish Theatre (65953), Arabi and his Household (74246): candidates for a later batch or another lane |
 
+## J. F. Campbell (Popular Tales of the West Highlands)
+
+Shelf: `pipeline/campbell-highlands_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The 1890 four-volume edition, raw IA OCR. Volumes 1-3 grade C or D and volume 4 grade A on the English-vocabulary screen: the first three print Campbell's Gaelic originals beside his translations (spot-checked: the Gaelic is clean OCR), so the low score is the Gaelic, not the scan. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Popular Tales of the West Highlands, orally collected and tr. J. F. Campbell (1890 ed.), vol. 1 | have-raw | IA `populartalesofwe01campuoft`, `campbell-west-highlands-1` |
+| Popular Tales of the West Highlands (1890 ed.), vol. 2 | have-raw | IA `populartalesofw02campuoft`, `campbell-west-highlands-2` |
+| Popular Tales of the West Highlands (1890 ed.), vol. 3 | have-raw | IA `populartalesofwe03campuoft`, `campbell-west-highlands-3` |
+| Popular Tales of the West Highlands (1890 ed.), vol. 4 | have-raw | IA `populartalesofwe40camp`, `campbell-west-highlands-4` |
+| campbell-1860 | excluded | the first edition (Edinburgh, 1860-62), also on IA: the 1890 edition is preferred as the later revision |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

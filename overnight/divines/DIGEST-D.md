@@ -86,6 +86,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `yeats-folk` | 3 Gutenberg | 0 | 2,829 | Fairy and Folk Tales of the Irish Peasantry, Irish Fairy Tales, The Celtic Twilight. His own stories (Red Hanrahan, The Secret Rose) noted for later |
 | `hyde` | 1 Gutenberg | 1 | 1,803 | Legends of Saints and Sinners (1915); Beside the Fire (1890), raw OCR with facing Irish |
 | `gregory` | 4 Gutenberg | 1 | 4,694 | Cuchulain of Muirthemne (raw OCR), Gods and Fighting Men, Kiltartan Wonder Book, Visions and Beliefs I-II |
+| `campbell-highlands` | 0 | 4 | raw OCR | Popular Tales of the West Highlands (1890 ed.), 4 vols, Gaelic with Campbell's English |
 
 ## For Adam to decide
 1. **Minting:** 512 slugs are waiting for the attended uid pass and manifest registration: 285 from the second run (lang 124, lamb 11, macdonald 60, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20), 130 from the third (carroll 16, kipling 5, stevenson 45, chesterton-gaps 5, aesop 2, nesbit 34, potter 23) and 63 from the fourth (grahame 5, barrie 26, baum 15, ruskin-golden-river 1, wilde-fairy-tales 2, dickens-christmas 5, collodi 2, lofting 7) and 19 from the fifth (jacobs-fairy 6, dasent 2, ralston 1, perrault 3, colum 7) and 15 from the sixth (malory 3, beowulf 4, poetic-edda 1, kalevala 1, dasent +2, sturluson 2, dutt 2). The audit found passages held in two volumes (reprints, collected editions, Lang's borrowings from Ralston and Samber): mint those once, with two witnesses; the list is in `AUDIT-D.md` §1.

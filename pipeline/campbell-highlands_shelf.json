@@ -1,0 +1,33 @@
+{
+ "_about": "John Francis Campbell of Islay's (1822-1885) Popular Tales of the West Highlands, orally collected, with his translations (new edition, Paisley: Alexander Gardner, 1890, 4 vols). Raw Internet Archive OCR; the Gaelic originals stand beside his English. Campbell is collector and translator. US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "J. F. Campbell",
+ "_name_words": [
+  "popular",
+  "tales",
+  "west",
+  "highlands"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "campbell-west-highlands-1": [
+   "populartalesofwe01campuoft",
+   "Popular Tales of the West Highlands, orally collected and tr. J. F. Campbell (1890 ed.), vol. 1"
+  ],
+  "campbell-west-highlands-2": [
+   "populartalesofw02campuoft",
+   "Popular Tales of the West Highlands (1890 ed.), vol. 2"
+  ],
+  "campbell-west-highlands-3": [
+   "populartalesofwe03campuoft",
+   "Popular Tales of the West Highlands (1890 ed.), vol. 3"
+  ],
+  "campbell-west-highlands-4": [
+   "populartalesofwe40camp",
+   "Popular Tales of the West Highlands (1890 ed.), vol. 4"
+  ]
+ },
+ "_excluded": {
+  "campbell-1860": "the first edition (Edinburgh, 1860-62), also on IA: the 1890 edition is preferred as the later revision"
+ }
+}
