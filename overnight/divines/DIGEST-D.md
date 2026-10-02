@@ -62,6 +62,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `dasent` | 2 Gutenberg | 0 | 5,716 | Popular Tales from the Norse, Tales from the Fjeld, tr. Dasent. The children's selection (PG 64189) and Burnt Njal left out |
 | `ralston` | 1 Gutenberg | 0 | 3,465 | Russian Fairy Tales (1873, the US edition of Russian Folk-Tales), tr. Ralston, by chapter and tale. Tibetan Tales (also his) noted for a later batch |
 | `perrault` | 3 Gutenberg | 0 | 1,894 | tr. Charles Welsh (1901), Samber rev. Mansion (1922), A. E. Johnson (1921). **Your call:** Lang's Perrault's Popular Tales (PG 33931) is French text, held back; Tales of Passed Times (PG 33511) names no translator, pending |
+| `colum` | 7 Gutenberg | 0 | 6,414 | King of Ireland's Son, Odysseus and Tales of Troy, Boy Who Knew What the Birds Said, Boy Apprenticed to an Enchanter, Children of Odin, Golden Fleece, At the Gateways of the Day (all 1916-1924). Three Plays left out as drama |
 
 ## For Adam to decide
 1. **Minting:** 479 slugs are waiting for the attended uid pass and manifest registration: 286 from the second run (lang 124, lamb 11, macdonald 61, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20), 130 from the third (carroll 16, kipling 5, stevenson 45, chesterton-gaps 5, aesop 2, nesbit 34, potter 23) and 63 from the fourth (grahame 5, barrie 26, baum 15, ruskin-golden-river 1, wilde-fairy-tales 2, dickens-christmas 5, collodi 2, lofting 7).

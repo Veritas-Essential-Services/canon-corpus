@@ -150,3 +150,6 @@
 
 ## 2026-10-02 16:49 CDT — perrault: done
 - 3/3 fetched (Gutenberg 17208, 29021, 31431), 1,894 units, 0 duplicate ids; translators Welsh, Mansion, Johnson captured from the headers. Samber/Mansion via contents_only (all 10 tales; the house rule missed Puss in Boots and Cinderilla). PG 33511 pending (no translator named); PG 33931 is French.
+
+## 2026-10-02 16:49 CDT — colum: done
+- 7/7 fetched (Gutenberg 3495, 16867, 24493, 53252, 24737, 37881, 69724), 6,414 units, 2 ~2 ids (Odysseus front matter). King of Ireland's Son, Odysseus, Gateways nested; Golden Fleece by its own Contents. 2395 left out as the older transcription of 37881.

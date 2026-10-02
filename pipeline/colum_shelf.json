@@ -1,0 +1,80 @@
+{
+ "_about": "Padraic Colum's (1881-1972) story books published before 1929 (US public domain), as the relay asked: The King of Ireland's Son (1916), The Adventures of Odysseus and The Tales of Troy (1918), The Boy Who Knew What the Birds Said (1918), The Boy Apprenticed to an Enchanter (1920), The Children of Odin (1920), The Golden Fleece (1921) and At the Gateways of the Day (1924). Colum retold these in his own English; no translator is owed. Clean Gutenberg text.",
+ "_author": "Padraic Colum",
+ "_name_words": [
+  "colum"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "colum-king-of-irelands-son": [
+   3495,
+   "The King of Ireland's Son (1916)",
+   {
+    "levels": [
+     {
+      "re": "[A-Z][A-Z’“”' ,.-]{6,}$"
+     },
+     {
+      "re": "[IVXL]+$"
+     }
+    ]
+   }
+  ],
+  "colum-adventures-of-odysseus": [
+   16867,
+   "The Adventures of Odysseus and The Tales of Troy (1918)",
+   {
+    "levels": [
+     {
+      "re": "PART [IV]+$"
+     },
+     {
+      "re": "[IVXL]+$"
+     }
+    ],
+    "start": "PART I$"
+   }
+  ],
+  "colum-boy-who-knew-what-the-birds-said": [
+   24493,
+   "The Boy Who Knew What the Birds Said (1918)"
+  ],
+  "colum-boy-apprenticed-to-an-enchanter": [
+   53252,
+   "The Boy Apprenticed to an Enchanter (1920)"
+  ],
+  "colum-children-of-odin": [
+   24737,
+   "The Children of Odin (1920)"
+  ],
+  "colum-golden-fleece": [
+   37881,
+   "The Golden Fleece and the Heroes Who Lived Before Achilles (1921)",
+   {
+    "contents_only": true
+   }
+  ],
+  "colum-at-the-gateways-of-the-day": [
+   69724,
+   "At the Gateways of the Day (1924)",
+   {
+    "levels": [
+     {
+      "re": "NOTES\\.$"
+     },
+     {
+      "re": "[A-Z][A-Z’“”' ,.:-]{4,}$",
+      "max": 160
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "colum-duplicates": "The Golden Fleece (PG 2395): an older transcription of the same book, without the illustrated edition's apparatus",
+  "colum-plays": "Three Plays (PG 11878): drama, outside the relay's folk-tale ask",
+  "colum-commentary-only": "Stephens's Mary, Mary (PG 24742): Colum wrote the introduction only",
+  "colum-post-1928": "anything Colum published after 1928 is not taken (the relay's pre-1929 line)"
+ }
+}

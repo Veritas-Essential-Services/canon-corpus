@@ -256,8 +256,10 @@
     },
     {
       "id": "colum",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Padraic Colum: story books published before 1929 only; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Padraic Colum: story books published before 1929 only; no minting",
+      "finished": "2026-10-02T16:49:31-05:00",
+      "notes": "7/7 fetched (Gutenberg 3495, 16867, 24493, 53252, 24737, 37881, 69724), 6,414 units, 2 ~2 ids (Odysseus front matter). King of Ireland's Son, Odysseus, Gateways nested; Golden Fleece by its own Contents. 2395 left out as the older transcription of 37881."
     },
     {
       "id": "audit-5",

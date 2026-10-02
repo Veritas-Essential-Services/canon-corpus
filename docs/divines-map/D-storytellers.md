@@ -817,6 +817,24 @@ Shelf: `pipeline/perrault_shelf.json` (2026-10-02; added at the coordinator's re
 | perrault-chapbooks | excluded | single-tale Blue Beard chapbooks (PG 43457, 44288, 45381): anonymous retellings, no translator recorded |
 | perrault-other | excluded | Vitruvius abridged by Claude Perrault (PG 27877): a different Perrault |
 
+## Padraic Colum (before 1929)
+
+Shelf: `pipeline/colum_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Colum's own retellings, so no translator is owed. The King of Ireland's Son and The Adventures of Odysseus are cut story (or Part) > numbered section, through convert_nested.py; At the Gateways of the Day nests its end-notes under NOTES so a note does not share a tale's id, and takes one 150-character tale title through the new opt-in 'max' key. Three Plays (PG 11878) is left out as drama. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The King of Ireland's Son (1916) | have | PG 3495, `colum-king-of-irelands-son` (1277 units) |
+| The Adventures of Odysseus and The Tales of Troy (1918) | have | PG 16867, `colum-adventures-of-odysseus` (778 units) |
+| The Boy Who Knew What the Birds Said (1918) | have | PG 24493, `colum-boy-who-knew-what-the-birds-said` (564 units) |
+| The Boy Apprenticed to an Enchanter (1920) | have | PG 53252, `colum-boy-apprenticed-to-an-enchanter` (456 units) |
+| The Children of Odin (1920) | have | PG 24737, `colum-children-of-odin` (1415 units) |
+| The Golden Fleece and the Heroes Who Lived Before Achilles (1921) | have | PG 37881, `colum-golden-fleece` (1197 units) |
+| At the Gateways of the Day (1924) | have | PG 69724, `colum-at-the-gateways-of-the-day` (727 units) |
+| colum-duplicates | excluded | The Golden Fleece (PG 2395): an older transcription of the same book, without the illustrated edition's apparatus |
+| colum-plays | excluded | Three Plays (PG 11878): drama, outside the relay's folk-tale ask |
+| colum-commentary-only | excluded | Stephens's Mary, Mary (PG 24742): Colum wrote the introduction only |
+| colum-post-1928 | excluded | anything Colum published after 1928 is not taken (the relay's pre-1929 line) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
