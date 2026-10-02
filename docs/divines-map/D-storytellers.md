@@ -588,7 +588,7 @@ Shelf: `pipeline/nesbit_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Beatrix Potter
 
-Shelf: `pipeline/potter_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The 20 little books on Gutenberg, one slug each, and The Fairy Caravan (first published in Philadelphia in 1929; US public domain since 2025). The little books have no chapters, so they cite by paragraph; Gutenberg's [Illustration] markers come through as their own units. The words only: the pictures are not in the text files. US status only: Potter died in 1943. Not in the manifest; no uids minted.
+Shelf: `pipeline/potter_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The 20 little books on Gutenberg, one slug each, and The Fairy Caravan (first published in Philadelphia in 1929; US public domain since 2025). Two later little books not on Gutenberg are raw Internet Archive OCR: Pigling Bland (1913, from a 1987 reprint whose new matter is only the colour reproductions) and Little Pig Robinson (1930; US public domain since 2026). The little books have no chapters, so they cite by paragraph; Gutenberg's [Illustration] markers come through as their own units. The words only: the pictures are not in the text files. US status only: Potter died in 1943. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -613,9 +613,11 @@ Shelf: `pipeline/potter_shelf.json` (2026-10-02; added at the coordinator's rela
 | The Tale of Johnny Town-Mouse (1918) | have | PG 15284, `potter-johnny-town-mouse` (40 units) |
 | Cecily Parsley's Nursery Rhymes (1922) | have | PG 23350, `potter-cecily-parsley` (55 units) |
 | The Fairy Caravan (Philadelphia, 1929) | have | PG 78504, `potter-fairy-caravan` (473 units) |
+| The Tale of Pigling Bland (1913); scan of a 1987 Warne reprint with new colour reproductions, text as 1913 | have-raw | IA `taleofpiglingbla00beat`, `potter-pigling-bland` |
+| The Tale of Little Pig Robinson (1930); undated Warne printing (archive.org's 1920 date is wrong: the book first appeared in 1930) | have-raw | IA `b1111925`, `potter-little-pig-robinson` |
 | potter-collections | excluded | Gutenberg's own compilations of books held singly here: The Great Big Treasury of Beatrix Potter (PG 572), A Collection of Beatrix Potter Stories (582) |
 | potter-duplicates | excluded | The Tale of Peter Rabbit ill. Virginia Albert (14304, a US edition with another artist's pictures), The Tale of Mrs. Tiggy-Winkle (12103, an earlier transcription) |
-| potter-not-on-gutenberg | pending | the later little books not on Gutenberg (The Tale of Pigling Bland 1913, Appley Dapply's Nursery Rhymes 1917, The Tale of Little Pig Robinson 1930, and others); not searched for this pass |
+| potter-not-on-gutenberg | pending | Appley Dapply's Nursery Rhymes (1917) and other later books found on neither Gutenberg nor Internet Archive in a title search |
 | potter-translations | excluded | French Peter Rabbit (29052): this shelf is English |
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)

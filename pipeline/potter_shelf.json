@@ -1,5 +1,5 @@
 {
- "_about": "Beatrix Potter's (1866-1943) little books, one Gutenberg text each, in order of first publication, and The Fairy Caravan, her longer book first published in the US in 1929 (US public domain since 2025). Potter died in 1943: in life+70 and life+80 countries some of this is still in copyright; this shelf records US status only. The words only: the pictures are not part of the text files.",
+ "_about": "Beatrix Potter's (1866-1943) little books, one Gutenberg text each, in order of first publication, and The Fairy Caravan, her longer book first published in the US in 1929 (US public domain since 2025). Potter died in 1943: in life+70 and life+80 countries some of this is still in copyright; this shelf records US status only. The words only: the pictures are not part of the text files. Two later little books not on Gutenberg are raw Internet Archive OCR: Pigling Bland (1913) and Little Pig Robinson (1930, US public domain since 2026).",
  "_author": "Beatrix Potter",
  "_name_words": [
   "beatrix",
@@ -92,11 +92,20 @@
    "The Fairy Caravan (Philadelphia, 1929)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "potter-pigling-bland": [
+   "taleofpiglingbla00beat",
+   "The Tale of Pigling Bland (1913); scan of a 1987 Warne reprint with new colour reproductions, text as 1913"
+  ],
+  "potter-little-pig-robinson": [
+   "b1111925",
+   "The Tale of Little Pig Robinson (1930); undated Warne printing (archive.org's 1920 date is wrong: the book first appeared in 1930)"
+  ]
+ },
  "_excluded": {
   "potter-collections": "Gutenberg's own compilations of books held singly here: The Great Big Treasury of Beatrix Potter (PG 572), A Collection of Beatrix Potter Stories (582)",
   "potter-duplicates": "The Tale of Peter Rabbit ill. Virginia Albert (14304, a US edition with another artist's pictures), The Tale of Mrs. Tiggy-Winkle (12103, an earlier transcription)",
-  "potter-not-on-gutenberg": "PENDING: the later little books not on Gutenberg (The Tale of Pigling Bland 1913, Appley Dapply's Nursery Rhymes 1917, The Tale of Little Pig Robinson 1930, and others); not searched for this pass",
+  "potter-not-on-gutenberg": "PENDING: Appley Dapply's Nursery Rhymes (1917) and other later books found on neither Gutenberg nor Internet Archive in a title search",
   "potter-translations": "French Peter Rabbit (29052): this shelf is English"
  }
 }
