@@ -40,3 +40,8 @@
 - shelf-burton: done. Arabian Nights 10 vols, Supplemental Nights 6, Lusiads, Camoens Lyricks. Explicit-content titles (Catullus, Kama Sutra, Pentamerone) pending, Adam's call.
 - shelf-maude: done-with-defects. 10 titles; PG 26472 404 and PG 26660 front-matter-only worked around; dating evidence recorded per title.
 - 52 sources fetched in all, 0 failed after fixes; 24 titles cut, 0 failed. structure_test: 64 passed.
+
+## 2026-10-02T15:48-05:00 — round 3 (lane C's own additions under the keep-going relay): seven shelves
+- cotton, ormsby, urquhart-motteux, fitzgerald, taylor, lane, guest: 12 sources fetched (0 failed after one title fix), 9 titles cut, 0 failed. Translator lines verified in every PG header; IA scans checked for the translator's name on the title page.
+- Note for lanes: lane B's newer fetch_shelf.py title-word check fails on accented titles (Rubáiyát); worked around in the shelf title, no change to the fetcher.
+- structure_test: 64 passed.

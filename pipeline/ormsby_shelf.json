@@ -1,0 +1,29 @@
+{
+ "_about": "TRANSLATOR SHELF: John Ormsby (1829-1895). Cervantes' Don Quixote (1885). PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "ormsby",
+  "john",
+  "cervantes",
+  "quixote"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ormsby-quixote": [
+   996,
+   "Cervantes, Don Quixote, tr. Ormsby (complete)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ormsby-don-quixote": {
+   "source": "ormsby-quixote",
+   "of": "Cervantes",
+   "work": "Don Quixote, Parts I-II",
+   "translated": 1885
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-5903..5946, pg-28842": "Doré-illustrated or partial Gutenberg copies of the same Ormsby text."
+ }
+}

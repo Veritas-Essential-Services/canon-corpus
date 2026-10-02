@@ -1,0 +1,45 @@
+{
+ "_about": "TRANSLATOR SHELF: Edward FitzGerald (1809-1883). Omar Khayyam's Rubaiyat, Jami's Salaman and Absal, and Calderon's Eight Dramas. PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "fitzgerald",
+  "edward",
+  "omar",
+  "khayyam",
+  "calderon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fitzgerald-rubaiyat-salaman": [
+   22535,
+   "Rubáiyát of Omar Khayyám and Salámán and Absál, tr. FitzGerald"
+  ],
+  "fitzgerald-calderon": [
+   63776,
+   "Eight Dramas of Calderon, tr. FitzGerald"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "fitzgerald-rubaiyat-salaman": {
+   "source": "fitzgerald-rubaiyat-salaman",
+   "of": "Omar Khayyam; Jami",
+   "work": "Rubáiyát (the editions as printed in this volume) and Salámán and Absál",
+   "translated": "1859-79 / 1856"
+  },
+  "fitzgerald-calderon": {
+   "source": "fitzgerald-calderon",
+   "of": "Calderon",
+   "work": "Eight Dramas of Calderon, freely translated",
+   "translated": "1853/1865"
+  }
+ },
+ "_pending": {
+  "fitzgerald-agamemnon": "FitzGerald's Agamemnon (1865) and Oedipus plays: Greek tragedy is lane B's queued item; cross-ref only.",
+  "fitzgerald-bird-parliament": "Attar's Bird Parliament (in his Letters and Literary Remains, 1889): needs a scan."
+ },
+ "_excluded": {
+  "pg-246, pg-35260": "Single Rubaiyat editions, contained in PG 22535.",
+  "pg-2587": "Life Is a Dream (PG header: tr. FitzGerald): his version is 'Such Stuff as Dreams Are Made Of', which is printed inside PG 63776. Not fetched as a likely duplicate; not compared line by line.",
+  "pg-10315": "Persian Literature anthology: mixed translators."
+ }
+}

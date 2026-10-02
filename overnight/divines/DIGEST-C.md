@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-02T15:43-05:00: 7 shelves, 100 titles (Dryden 21, Garnett 55, Cary 4, Longfellow 4, Florio 2, Burton 4, Maude 10). No uids minted.
+Totals 2026-10-02T15:48-05:00: 14 shelves, 109 titles (Dryden 21, Garnett 55, Cary 4, Longfellow 4, Florio 2, Burton 4, Maude 10, Cotton 1, Ormsby 1, Urquhart-Motteux 2, FitzGerald 2, Taylor 1, Lane 1, Guest 1). No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -31,3 +31,6 @@ Added 2026-10-02T15:33-05:00 at the coordinator's relay ("keep going, more trans
 - **Florio:** Montaigne's Essayes 1603, using the 1906 reprint (6 volumes of raw OCR, Elizabethan spelling); the 1620 Decameron (anonymous; the Florio attribution is a scholarly one).
 - **Burton:** the Arabian Nights (10 vols), Supplemental Nights (6), the Lusiads, and the Camoens Lyricks. **Your call:** Catullus, Kama Sutra and Pentamerone are public domain but explicit, so they are listed and not fetched.
 - **Maude:** War and Peace, Resurrection, the Cossacks, Father Sergius, Master and Man, What Men Live By, the six Plays, What Is Art?, The Devil, Three Days in the Village. **Your call:** five of these files print no edition year, so they rest on Gutenberg's US clearance (published before 1931).
+
+### Round 3, added by lane C itself under the same keep-going relay (each vetoable)
+Cotton (Montaigne), Ormsby (Don Quixote), Urquhart and Motteux (Rabelais; Motteux's Quixote), FitzGerald (Rubaiyat, Salaman and Absal, Calderón), Bayard Taylor (Faust I and II), E. W. Lane (Thousand and One Nights), and Lady Charlotte Guest (Mabinogion). They pair with the earlier shelves: Montaigne now has Florio and Cotton, and the Nights have Burton and Lane, which makes them witnesses for comparison. **Your call:** Lane's Selections from the Kur-an is listed but not fetched.

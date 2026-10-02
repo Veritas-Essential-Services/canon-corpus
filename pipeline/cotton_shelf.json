@@ -1,0 +1,31 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Cotton (1630-1687). Montaigne's Essays (1685-86), in W. C. Hazlitt's revision as Gutenberg carries it. PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "cotton",
+  "charles",
+  "montaigne",
+  "michel"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cotton-montaigne": [
+   3600,
+   "Montaigne, Essays, tr. Cotton, ed. W. C. Hazlitt (complete)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cotton-montaigne-essays": {
+   "source": "cotton-montaigne",
+   "of": "Montaigne",
+   "work": "Essays, 3 books (with Hazlitt's notes and the Letters)",
+   "translated": "1685-86; Hazlitt revision 1877"
+  }
+ },
+ "_pending": {
+  "cotton-scarron-lucian": "Cotton's Scarronides (burlesque Virgil): non-Dryden Virgil belongs to lane B; listed only."
+ },
+ "_excluded": {
+  "pg-3581..3599": "The same Cotton/Hazlitt text in 19 parts; PG 3600 complete used."
+ }
+}

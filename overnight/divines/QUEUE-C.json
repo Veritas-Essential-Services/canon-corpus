@@ -64,6 +64,62 @@
       "started": "2026-10-02T15:36-05:00",
       "finished": "2026-10-02T15:43-05:00",
       "notes": "16 sources, 0 failed after 2 fixes: PG 26472 404s (used 6157), PG 26660 is front matter only (used the six plays 26661-66, F&W 4th impr. 1919). 10 titles. Years stated in file: What Is Art 1904, Three Days 1910, The Devil 1926, Plays 1919 printing, Resurrection Dodd Mead (Tolstoy's authority note); War and Peace, Cossacks, Father Sergius, Master and Man, What Men Live By state no year - they rest on Gutenberg's US clearance (pre-1931). Anna Karenina (Maude) pending. No uids minted."
+    },
+    {
+      "id": "shelf-cotton",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Charles Cotton: Montaigne; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "PG 3600 (Cotton/Hazlitt, complete), 1 title. No uids minted."
+    },
+    {
+      "id": "shelf-ormsby",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 John Ormsby: Don Quixote; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "PG 996, 1 title. No uids minted."
+    },
+    {
+      "id": "shelf-urquhart-motteux",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Urquhart & Motteux: Rabelais; Motteux's Don Quixote; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "PG 1200 Rabelais (two hands, one title) + PG 35993 Motteux Quixote; 2 titles. No uids minted."
+    },
+    {
+      "id": "shelf-fitzgerald",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Edward FitzGerald: Rubaiyat, Salaman and Absal, Calderon; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "PG 22535 (Rubaiyat + Salaman and Absal; first fetch tripped lane B's new title-word check on accented words, title fixed, refetched) + PG 63776 Eight Dramas; 2 titles. Greek plays left to lane B. No uids minted."
+    },
+    {
+      "id": "shelf-taylor",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Bayard Taylor: Faust I-II; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "Faust I PG 14591 + Faust II IA goethetaylorfaust02 (1871, raw OCR 0.92); 1 title. No uids minted."
+    },
+    {
+      "id": "shelf-lane",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 E. W. Lane: Thousand and One Nights; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "Vol 1 PG 34206 (Chatto 1912) + vol 2 IA Chatto 1912 + vol 3 IA Routledge 1865 (1912 says it reprints 1859 exactly); OCR 0.95; 1 title. Selections from the Kur-an pending (Adam's call). No uids minted."
+    },
+    {
+      "id": "shelf-guest",
+      "status": "done",
+      "started": "2026-10-02T15:44-05:00",
+      "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Lady Charlotte Guest: Mabinogion; no minting",
+      "finished": "2026-10-02T15:48-05:00",
+      "notes": "PG 5160, header names Lady Charlotte Schreiber (Guest); 1 title. No uids minted."
     }
   ]
 }

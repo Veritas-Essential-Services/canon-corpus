@@ -1,0 +1,30 @@
+{
+ "_about": "TRANSLATOR SHELF: Lady Charlotte Guest (later Schreiber, 1812-1895). The Mabinogion (1838-49). PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "guest",
+  "charlotte",
+  "schreiber",
+  "mabinogion"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "guest-mabinogion": [
+   5160,
+   "The Mabinogion, tr. Lady Charlotte Guest"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "guest-mabinogion": {
+   "source": "guest-mabinogion",
+   "of": "Welsh tales (Red Book of Hergest)",
+   "work": "The Mabinogion",
+   "translated": "1838-49"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-19959, 19973, 19976": "O. M. Edwards's 3-vol reprint of the same Guest text; PG 5160 used.",
+  "pg-15551, pg-67425": "Retellings (Clay; Lanier's Boy's Mabinogion), not translations."
+ }
+}

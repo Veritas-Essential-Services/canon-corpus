@@ -1,0 +1,49 @@
+{
+ "_about": "TRANSLATOR SHELF: Edward William Lane (1801-1876). The Thousand and One Nights (1838-40), as re-edited by E. S. Poole 1859 and reprinted unchanged. PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "lane",
+  "edward",
+  "william",
+  "nights",
+  "thousand"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lane-nights-1": [
+   34206,
+   "The Thousand and One Nights, tr. Lane, vol. I (Chatto 1912 impression)"
+  ]
+ },
+ "internet_archive": {
+  "lane-nights-2": [
+   "thousandonenight02harvuoft",
+   "The Thousand and One Nights, tr. Lane, vol. II (Chatto 1912)"
+  ],
+  "lane-nights-3": [
+   "thousandonenight03laneuoft",
+   "The Thousand and One Nights, tr. Lane, vol. III (Routledge 1865)"
+  ]
+ },
+ "titles": {
+  "lane-arabian-nights": {
+   "source": [
+    "lane-nights-1",
+    "lane-nights-2",
+    "lane-nights-3"
+   ],
+   "of": "The Thousand and One Nights (Arabic)",
+   "work": "The Thousand and One Nights, 3 vols",
+   "translated": "1838-40 (1859 ed.)",
+   "scan_edition": "vol. 1 PG (Chatto 1912), vol. 2 Chatto 1912, vol. 3 Routledge 1865; the 1912 impression says it reproduces the 1859 edition exactly, so the mix is one text",
+   "note": "Vols 2-3 raw OCR."
+  }
+ },
+ "_pending": {
+  "lane-selections-kuran": "Selections from the Kur-an (PG 44515): Lane as translator of Quranic passages; Adam's call whether scripture of other faiths belongs on a translator shelf."
+ },
+ "_excluded": {
+  "pg-41110": "Arabian Society in the Middle Ages: Lane's notes, not a translation.",
+  "pg-70796": "Modern Egyptians: Lane's own book.",
+  "ia-emory-1883": "Chatto 1883 set (emory.edu): its text files are not at the standard path."
+ }
+}

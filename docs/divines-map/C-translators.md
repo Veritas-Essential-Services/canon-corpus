@@ -205,3 +205,84 @@ Added at the coordinator's relay, vetoable. Only printings before 1931; where th
 | — | — | other-maudes: PG items by Alice Maude Kellogg, Maude Alma, F. N. Maude, Maude Wholohan: different people. | — | excluded | — |
 | — | — | pg-26472: Newer transcription of What Men Live By: its .txt returns 404 on Gutenberg's cache (2026-10-02); PG 6157 used. | — | excluded | — |
 | — | — | pg-26660: Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used). | — | excluded | — |
+
+## Cotton (Montaigne)
+
+Shelf: `pipeline/cotton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cotton` · titles `python3 pipeline/split_shelf_titles.py cotton`.
+Added by lane C under the coordinator's keep-going relay, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `cotton-montaigne-essays` | Montaigne | Essays, 3 books (with Hazlitt's notes and the Letters) | 1685-86; Hazlitt revision 1877 | have | PG 3600 |
+| `cotton-scarron-lucian` | — | Cotton's Scarronides (burlesque Virgil): non-Dryden Virgil belongs to lane B; listed only. | — | pending | — |
+| — | — | pg-3581..3599: The same Cotton/Hazlitt text in 19 parts; PG 3600 complete used. | — | excluded | — |
+
+## Ormsby (Don Quixote)
+
+Shelf: `pipeline/ormsby_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ormsby` · titles `python3 pipeline/split_shelf_titles.py ormsby`.
+Added by lane C, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `ormsby-don-quixote` | Cervantes | Don Quixote, Parts I-II | 1885 | have | PG 996 |
+| — | — | pg-5903..5946, pg-28842: Doré-illustrated or partial Gutenberg copies of the same Ormsby text. | — | excluded | — |
+
+## Urquhart & Motteux (Rabelais; Motteux's Quixote)
+
+Shelf: `pipeline/urquhart-motteux_shelf.json` · fetch `python3 pipeline/fetch_shelf.py urquhart-motteux` · titles `python3 pipeline/split_shelf_titles.py urquhart-motteux`.
+Added by lane C, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `urquhart-motteux-rabelais` | Rabelais | Gargantua and Pantagruel, Books I-V | 1653-1694 | have | PG 1200 |
+| `motteux-don-quixote` | Cervantes | The History of Don Quixote | 1700-03 | have | PG 35993 |
+| — | — | pg-8166..8170: Doré-illustrated Rabelais, same text in parts. | — | excluded | — |
+
+## FitzGerald (Omar, Jami, Calderón)
+
+Shelf: `pipeline/fitzgerald_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fitzgerald` · titles `python3 pipeline/split_shelf_titles.py fitzgerald`.
+Added by lane C, vetoable. His Greek plays stay with lane B. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `fitzgerald-rubaiyat-salaman` | Omar Khayyam; Jami | Rubáiyát (the editions as printed in this volume) and Salámán and Absál | 1859-79 / 1856 | have | PG 22535 |
+| `fitzgerald-calderon` | Calderon | Eight Dramas of Calderon, freely translated | 1853/1865 | have | PG 63776 |
+| `fitzgerald-agamemnon` | — | FitzGerald's Agamemnon (1865) and Oedipus plays: Greek tragedy is lane B's queued item; cross-ref only. | — | pending | — |
+| `fitzgerald-bird-parliament` | — | Attar's Bird Parliament (in his Letters and Literary Remains, 1889): needs a scan. | — | pending | — |
+| — | — | pg-246, pg-35260: Single Rubaiyat editions, contained in PG 22535. | — | excluded | — |
+| — | — | pg-2587: Life Is a Dream (PG header: tr. FitzGerald): his version is 'Such Stuff as Dreams Are Made Of', which is printed inside PG 63776. Not fetched as a likely duplicate; not compared line by line. | — | excluded | — |
+| — | — | pg-10315: Persian Literature anthology: mixed translators. | — | excluded | — |
+
+## Bayard Taylor (Faust)
+
+Shelf: `pipeline/taylor_shelf.json` · fetch `python3 pipeline/fetch_shelf.py taylor` · titles `python3 pipeline/split_shelf_titles.py taylor`.
+Added by lane C, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `taylor-faust` | Goethe | Faust, Parts I and II | 1870-71 | have-raw | PG 14591 + IA `goethetaylorfaust02` |
+| — | — | original-works: Taylor's own travel books, novels and poems: not translations. | — | excluded | — |
+
+## E. W. Lane (Thousand and One Nights)
+
+Shelf: `pipeline/lane_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lane` · titles `python3 pipeline/split_shelf_titles.py lane`.
+Added by lane C, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `lane-arabian-nights` | The Thousand and One Nights (Arabic) | The Thousand and One Nights, 3 vols | 1838-40 (1859 ed.) | have-raw | PG 34206 + IA `thousandonenight02harvuoft` + IA `thousandonenight03laneuoft` |
+| `lane-selections-kuran` | — | Selections from the Kur-an (PG 44515): Lane as translator of Quranic passages; Adam's call whether scripture of other faiths belongs on a translator shelf. | — | pending | — |
+| — | — | pg-41110: Arabian Society in the Middle Ages: Lane's notes, not a translation. | — | excluded | — |
+| — | — | pg-70796: Modern Egyptians: Lane's own book. | — | excluded | — |
+| — | — | ia-emory-1883: Chatto 1883 set (emory.edu): its text files are not at the standard path. | — | excluded | — |
+
+## Lady Charlotte Guest (Mabinogion)
+
+Shelf: `pipeline/guest_shelf.json` · fetch `python3 pipeline/fetch_shelf.py guest` · titles `python3 pipeline/split_shelf_titles.py guest`.
+Added by lane C, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `guest-mabinogion` | Welsh tales (Red Book of Hergest) | The Mabinogion | 1838-49 | have | PG 5160 |
+| — | — | pg-19959, 19973, 19976: O. M. Edwards's 3-vol reprint of the same Guest text; PG 5160 used. | — | excluded | — |
+| — | — | pg-15551, pg-67425: Retellings (Clay; Lanier's Boy's Mabinogion), not translations. | — | excluded | — |
