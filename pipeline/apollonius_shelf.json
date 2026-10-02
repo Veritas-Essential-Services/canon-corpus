@@ -1,0 +1,32 @@
+{
+ "_about": "Apollonius Rhodius, Argonautica, translator per title. R. C. Seaton's prose (Loeb, 1912; English only, as on Gutenberg) — PG 13977, the Distributed Proofreaders edition; PG 830 is the same translation (8-word shingle overlap 0.98) and is not taken. Arthur S. Way's verse, The Tale of the Argonauts (1901), clean Gutenberg. Edward P. Coleridge's prose (Bell, 1889), raw IA OCR.",
+ "_name_words": [
+  "apollonius",
+  "argonautica",
+  "argonauts",
+  "rhodius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "apollonius-seaton": [
+   13977,
+   "The Argonautica",
+   "tr. R. C. Seaton"
+  ],
+  "apollonius-way": [
+   64235,
+   "The Tale of the Argonauts",
+   "tr. Arthur S. Way"
+  ]
+ },
+ "internet_archive": {
+  "apollonius-coleridge": [
+   "B-001-014-458",
+   "The Argonautica of Apollonius Rhodius (Bell, 1889)",
+   "tr. Edward P. Coleridge"
+  ]
+ },
+ "_excluded": {
+  "PG 830": "duplicate of PG 13977 (same Seaton text, shingle overlap 0.98)"
+ }
+}
