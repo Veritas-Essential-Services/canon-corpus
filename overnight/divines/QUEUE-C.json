@@ -128,6 +128,41 @@
    "finished": "2026-10-02T17:27-05:00",
    "scope": "Review findings relayed by the coordinator: cross-reference already-held works, PG 228 title, translator fields, identity check, rights evidence, late printings, Maude/Chekhov dates; no minting",
    "notes": "10 held_in cross-refs; 4 more late printings replaced or removed; _verified evidence in all 14 shelves. No uids minted."
+  },
+  {
+   "id": "shelf-rossetti",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Dante Gabriel Rossetti: Dante's Vita Nuova and The Early Italian Poets (1861); PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-fairfax",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Edward Fairfax: Tasso's Jerusalem Delivered (1600); PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-rose",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- William Stewart Rose: Ariosto's Orlando Furioso (1823-31); PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-shelton",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Thomas Shelton: Don Quixote (1612-20); PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-norton",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Charles Eliot Norton: Dante's Divine Comedy (prose, 1891-92) and Vita Nuova (1867); PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-payne",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- John Payne: Villon (1878), Decameron (1886), Arabian Nights (1882-84); PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-carlyle",
+   "status": "queued",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Thomas Carlyle's translations: Goethe's Wilhelm Meister (1824-27), German Romance (1827); PD printings before 1931 only; no minting"
   }
  ]
 }
