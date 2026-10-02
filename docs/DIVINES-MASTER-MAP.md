@@ -1004,6 +1004,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Greek Tragic Theatre, vol. 3: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v3` | have-raw (IA `greektragictheat03pott`) |
 | The Greek Tragic Theatre, vol. 4: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v4` | have-raw (IA `greektragictheat04pott`) |
 | The Greek Tragic Theatre, vol. 5: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v5` | have-raw (IA `greektragicthea02wodhgoog`) |
+| Rhesus | Gilbert Murray | `euripides-perseus-murray-rhesus` | have (Perseus TEI `tlg0006.tlg019.perseus-eng4`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Buckley vol. II; Way's 1912 Loeb (Greek facing); Robert Potter's Euripides (1781-83). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
