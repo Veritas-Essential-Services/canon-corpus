@@ -39,3 +39,6 @@
 
 ## 2026-10-02 15:38 CDT — greek-tragedy (1/3): Aeschylus
 - Shelf `pipeline/aeschylus_shelf.json`: 6/6 PG fetched, 2.5 MB, trial 9,214 units. Plumptre and Blackie each complete; Morshead, Buckley, Murray (US PD per PG).
+
+## 2026-10-02 15:38 CDT — greek-tragedy (2/3): Euripides
+- Shelf `pipeline/euripides_shelf.json`: 14/14 fetched, 6.1 MB (9 PG + Way 3 vols + Coleridge 2 vols raw). Trial PG 10,231 units. Murray's per-play years not verified, left out of the shelf.

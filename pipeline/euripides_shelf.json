@@ -1,0 +1,92 @@
+{
+ "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out.",
+ "_name_words": [
+  "euripides",
+  "translated",
+  "english",
+  "verse",
+  "tragedies",
+  "plays"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "euripides-buckley-v1": [
+   15081,
+   "The Tragedies of Euripides, Volume I: Hecuba, Orestes, Phoenissae, Medea, Hippolytus, Alcestis, Andromache, Suppliants, Iphigenia in Aulis, Iphigenia in Tauris",
+   "tr. Theodore Alois Buckley (prose, Bohn, 1850)"
+  ],
+  "euripides-wodhull-hecuba": [
+   77336,
+   "Hecuba and other plays (Morley's Universal Library, 1888)",
+   "tr. Michael Wodhull (verse, 1782)"
+  ],
+  "euripides-murray-hippolytus-bacchae": [
+   8418,
+   "Hippolytus; The Bacchae",
+   "tr. Gilbert Murray (verse)"
+  ],
+  "euripides-murray-trojan-women": [
+   10096,
+   "The Trojan Women of Euripides",
+   "tr. Gilbert Murray (verse)"
+  ],
+  "euripides-murray-electra": [
+   14322,
+   "The Electra of Euripides",
+   "tr. Gilbert Murray (verse)"
+  ],
+  "euripides-murray-medea": [
+   35451,
+   "Medea of Euripides",
+   "tr. Gilbert Murray (verse)"
+  ],
+  "euripides-murray-iphigenia-tauris": [
+   5063,
+   "The Iphigenia in Tauris of Euripides",
+   "tr. Gilbert Murray (verse)"
+  ],
+  "euripides-murray-rhesus": [
+   35170,
+   "The Rhesus of Euripides",
+   "tr. Gilbert Murray (verse)"
+  ],
+  "euripides-murray-alcestis": [
+   10523,
+   "Alcestis",
+   "tr. Gilbert Murray (verse)"
+  ]
+ },
+ "internet_archive": {
+  "euripides-way-1894-v1": [
+   "tragediesofeurip01euriuoft",
+   "The Tragedies of Euripides in English Verse, vol. 1 (1894)",
+   "tr. Arthur S. Way"
+  ],
+  "euripides-way-1894-v2": [
+   "tragediesofeurip02euriuoft",
+   "The Tragedies of Euripides in English Verse, vol. 2 (1896)",
+   "tr. Arthur S. Way"
+  ],
+  "euripides-way-1894-v3": [
+   "tragediesofeurip03euriuoft",
+   "The Tragedies of Euripides in English Verse, vol. 3 (1898)",
+   "tr. Arthur S. Way"
+  ],
+  "euripides-coleridge-1891-v1": [
+   "playseuripides01colegoog",
+   "The Plays of Euripides, translated into English prose, vol. 1 (1891)",
+   "tr. Edward P. Coleridge"
+  ],
+  "euripides-coleridge-1891-v2": [
+   "playseuripides00colegoog",
+   "The Plays of Euripides, translated into English prose, vol. 2 (1891)",
+   "tr. Edward P. Coleridge"
+  ]
+ },
+ "_excluded": {
+  "pg35171": "The Trojan Women (Murray): duplicate of PG 10096",
+  "pg35173": "The Bacchae (Murray): duplicate of the Bacchae in PG 8418",
+  "Buckley vol. II": "not on Gutenberg; pending (IA dli.ministry.24002 unverified)",
+  "Way, Loeb (1912)": "same translator with the Greek facing; the 1894-98 English-only edition kept"
+ }
+}
