@@ -1,0 +1,20 @@
+{
+ "_about": "Dionysius of Halicarnassus, On Literary Composition, ed. and tr. W. Rhys Roberts (1910), clean Gutenberg; Greek text with facing English kept.",
+ "_name_words": [
+  "dionysius",
+  "halicarnassus",
+  "composition"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dionysius-roberts-composition": [
+   50212,
+   "Dionysius of Halicarnassus On Literary Composition",
+   "ed. and tr. W. Rhys Roberts"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Roman Antiquities (Spelman, 1758)": "not yet located; Cary's Loeb (1937-50) not PD"
+ }
+}
