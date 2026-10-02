@@ -180,6 +180,11 @@
   "ryle-do-you-pray": [
    "doyoupray00ryle",
    "Do You Pray? (tract, undated printing)"
+  ],
+  "ryle-call-to-prayer": [
+   "a-call-to-prayer",
+   "A Call to Prayer (1860 printing)",
+   "A Call to Prayer_djvu.txt"
   ]
  },
  "_alternates": {
@@ -210,11 +215,6 @@
    "worldlyconformi00rylegoog",
    "Worldly Conformity (1878)",
    "text matches the title but never names Ryle (title page lost to OCR); attribution rests on the IA catalogue only"
-  ],
-  "ryle-call-to-prayer": [
-   "pts_caltoprayer_1753_21",
-   "A Call to Prayer (tract; IA date 1836 is a catalogue error)",
-   "same: the tract text never names Ryle; IA catalogue date 1836 is also wrong"
   ]
  }
 }

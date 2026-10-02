@@ -12,11 +12,12 @@ Gutenberg items are checked for the COPYRIGHTED marker (rights gate, CLAUDE.md).
 
 Shelf shape (same as edwards_shelf.json): "ccel", "gutenberg", "internet_archive"
 dicts of slug -> [id, title, ...extra]. Optional "_ccel_author": "e/edwards"
-gives the CCEL author path; without it, the shelf name is used (first letter /
+gives the CCEL author path; an internet_archive row may carry a third element,
+the item's text file name, when it is not <id>_djvu.txt; without it, the shelf name is used (first letter /
 name). A CCEL entry's id may itself be a full "x/author/work" path. Optional
 "_name_words": words to skip in the title check (the author's name).
 """
-import json, os, re, sys, time, urllib.request
+import json, os, re, sys, time, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
@@ -83,7 +84,11 @@ def jobs_for(shelf, name):
         jobs.append((slug, row[1], f"https://www.gutenberg.org/cache/epub/{pg}/pg{pg}.txt", ".txt", "gutenberg"))
     for slug, row in shelf.get("internet_archive", {}).items():
         ident = row[0]
-        jobs.append((slug, row[1], f"https://archive.org/download/{ident}/{ident}_djvu.txt", ".txt", "ia"))
+        # optional third element: the item's text file when IA did not name it
+        # <id>_djvu.txt (some uploads keep the uploader's file name)
+        fname = row[2] if len(row) > 2 and str(row[2]).endswith("_djvu.txt") else f"{ident}_djvu.txt"
+        url = f"https://archive.org/download/{ident}/" + urllib.parse.quote(fname)
+        jobs.append((slug, row[1], url, ".txt", "ia"))
     return jobs
 
 def main():

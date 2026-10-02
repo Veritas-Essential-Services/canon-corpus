@@ -74,6 +74,11 @@
   "abonar-ed-rutherford-communion-sermons": [
    "fourtcomm00ruth",
    "Fourteen Communion Sermons by Samuel Rutherford, ed. Bonar (1876)"
+  ],
+  "abonar-redemption-drawing-nigh": [
+   "RedemptionDrawingNighADefenceOfThe",
+   "Redemption Drawing Nigh: A Defence of the Premillennial Advent (1847)",
+   "Redemption_drawing_nigh_A_defence_of_the_djvu.txt"
   ]
  },
  "_alternates": {
@@ -85,7 +90,6 @@
   "memoirlifeandbr00sandgoog": "Sandeman memoir, 1861 printing"
  },
  "_pending": {
-  "RedemptionDrawingNighADefenceOfThe": "Redemption Drawing Nigh (1847): IA text file not named <id>_djvu.txt",
   "visitorsbookoftexts": "The Visitor's Book of Texts (1st ed. 1866?): only a 1982 reprint found"
  },
  "_excluded": {

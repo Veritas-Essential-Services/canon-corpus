@@ -106,13 +106,22 @@
   "hbonar-light-truth-lesser-epistles": [
    "lightandtruthor01bonagoog",
    "Light and Truth: Bible Thoughts and Themes: The Lesser Epistles (1883 printing)"
+  ],
+  "hbonar-stranger-here": [
+   "dli.ministry.06530",
+   "A Stranger Here (1853)",
+   "11621.E14445_A_Stranger_Here_djvu.txt"
+  ],
+  "hbonar-light-truth-ot": [
+   "light-and-truth-the-old-testament-bible-thoughts-and-themes-by-horatius-bonar",
+   "Light and Truth: Bible Thoughts and Themes: The Old Testament (1869)",
+   "Light and Truth - The Old Testament, Bible Thoughts and Themes - By Horatius Bonar_djvu.txt"
   ]
  },
  "_alternates": {
   "godswayofpeacebo00bona and 7 other God's Way of Peace scans": "held from CCEL",
   "kelsotracts00bonagoog": "Kelso Tracts, 1851 printing; may hold more tracts than 1846, compare",
   "lightandtruthor00bonagoog": "Light and Truth, 1870 printing, apparently the Lesser Epistles volume; duplicate",
-  "light-and-truth-the-old-testament-bible-thoughts-and-themes-by-horatius-bonar": "Light and Truth: Old Testament (1869); text file not named <id>_djvu.txt",
   "lifeofrevjohnmil0000bona": "Life of John Milne, 1869 printing",
   "desertofsinainot0000hora, desertsinainote00bonagoog": "Desert of Sinai, other scans",
   "morningofjoy00bona, morningofjoybein00bona_0, morningjoybeing00bonagoog, morningofjoybei00bona": "Morning of Joy, other printings",
@@ -120,7 +129,8 @@
   "everlastingrigh00bonagoog": "Everlasting Righteousness, second scan",
   "followlamborcoun0000bona": "Follow the Lamb, 1875 printing",
   "prophet00bona": "Prophetical Landmarks, 1860 printing",
-  "myoldletters00bona": "My Old Letters (1877): a long poem: see hymn manifest"
+  "myoldletters00bona": "My Old Letters (1877): a long poem: see hymn manifest",
+  "lightandtruthor02bonagoog": "Light and Truth, 1881 printing, probably the OT volume; its OCR never names Bonar (refused 2026-10-02)"
  },
  "_excluded": {
   "CCEL followlamb, goto, soulwinners": "listed on CCEL's Bonar page but their XML is not served (an error page, 2026-10-02); the IA scans are held instead (Follow the Lamb, Words to Winners of Souls). How Shall I Go to God: pending",
@@ -145,11 +155,6 @@
   "hbonar-redeem-the-time": [
    "redeemtime168bona",
    "Redeem the Time (tract no. 168)",
-   "refused by fetch_shelf.py identity check 2026-10-02: the OCR text never names Bonar (title page lost); check by eye or find another scan"
-  ],
-  "hbonar-light-truth-ot": [
-   "lightandtruthor02bonagoog",
-   "Light and Truth: Bible Thoughts and Themes (1881 printing; Old Testament volume, to confirm)",
    "refused by fetch_shelf.py identity check 2026-10-02: the OCR text never names Bonar (title page lost); check by eye or find another scan"
   ]
  }

@@ -61,10 +61,15 @@
  },
  "_pending": {
   "jesussinnergospe00saph": "Jesus and the Sinner (1851), 'selected from Found by the Good Shepherd': IA attributes it to Saphir, but at 20 he was still a student; authorship to confirm before shelving",
-  "bs-475.-s-24-1869": "Christ and the Scriptures (1867/1869): text file under a non-standard name; fetch by hand",
   "epistletohebrews01saph": "IA item's text file belongs to another book (a fashion book): bad upload",
   "epistletohebrews0001saph, epistletohebrews0002saph, theepistletotheh00saphuoft, theepistletotheh02saphuoft": "The Epistle to the Hebrews: An Exposition, 1902 one-work edition of the two lecture series; the lectures are already held",
-  "found-by-the-good-shepherd, conversion-illustrated, the-compassion-of-jesus": "other Saphir titles named in bibliographies; no verified scan found yet"
+  "found-by-the-good-shepherd, conversion-illustrated, the-compassion-of-jesus": "other Saphir titles named in bibliographies; no verified scan found yet",
+  "saphir-christ-and-scriptures": [
+   "bs-475.-s-24-1869",
+   "Christ and the Scriptures (1869 printing)",
+   "BS475.S24 1869_djvu.txt",
+   "refused by the identity check 2026-10-02: the OCR never names Saphir; check by eye"
+  ]
  },
  "_excluded": {
   "christusunddiesc0000saph": "German translation (1894)",

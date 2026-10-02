@@ -50,3 +50,7 @@
 ## 2026-10-02 15:49 CDT — overflow-summa: done (census, no new shelf)
 - Counted questions in the four Gutenberg Summa files and CCEL's full summa.xml. Repo coverage is complete: I 119/119, I-II 114/114, II-II 189/189, III 90/90 (adler_shelf.json), Supplement 99/99 + Appendix (ingest_summa_supplement.py from CCEL). No missing part, so no shelf was written.
 - Defects: three treatise-opening questions in the Gutenberg text lack their "QUESTION n" heading line (I 116, I-II 1, II-II 183); the Supplement is not a row in adler_shelf.json. Written into the map section.
+
+## 2026-10-02 15:51 CDT — pending sweep (queue item pending-sweep-1, added under RULES §5)
+- `fetch_shelf.py`: an internet_archive row may now carry a third element, the item's text file name, for uploads whose text is not `<id>_djvu.txt`. Backward compatible (two-element rows unchanged).
+- Fetched 4 items that were pending for that reason: Redemption Drawing Nigh (A. Bonar), A Stranger Here and Light and Truth: Old Testament (H. Bonar), A Call to Prayer (Ryle, a second scan that names him). Saphir's Christ and the Scriptures was refused by the identity check and stays pending.

@@ -105,7 +105,8 @@ Shelf: `pipeline/ryle_shelf.json` (2026-10-02). Ryle died 1900: works printed in
 | The Christian Race (1900, posthumous); The Two Bears (1869); How Should a Child Be Trained? (1910s printing) | have-raw | IA |
 | Bible Inspiration (1877); Thoughts on Immortality (1883); Simplicity in Preaching (1882) | have-raw | IA |
 | Tracts: What Time Is It?; Have You the Spirit?; Rich and Poor; What Is Your Hope?; No More Crying; Only One Way; Are You Forgiven?; Occupy Till I Come; Do You Pray? | have-raw | IA, one slug each |
-| Worldly Conformity (1878); A Call to Prayer | pending | IA scans found, but the text never names Ryle (title page lost); held back under `_pending` until checked by eye |
+| A Call to Prayer (1860) | have-raw | IA `a-call-to-prayer` (a second scan that does name Ryle) |
+| Worldly Conformity (1878) | pending | IA scan found, but the text never names Ryle (title page lost); held back under `_pending` until checked by eye |
 | Coming Events and Present Duties; Shall We Know One Another?; Thoughts for Young Men; Duties of Parents; Charges and Addresses | pending | lifetime works not yet found as a verified PD scan (some are inside the Home Truths series) |
 | Clean text of everything held raw | pending | wishlist: proofread transcriptions |
 | Hymns for the Church on Earth; Spiritual Songs for a Month | see hymn manifest | hymnals Ryle compiled |
@@ -131,10 +132,11 @@ Shelf: `pipeline/horatius-bonar_shelf.json` (2026-10-02). Prose only: his hymns 
 | Earth's Morning (1875) | have-raw | IA |
 | Life of John Milne of Perth (1870); Life and Work of G. Theophilus Dodds (1884); The White Fields of France (1879) | have-raw | IA |
 | Light and Truth: The Gospels (1871); The Acts and the Larger Epistles (1870); The Lesser Epistles (1883) | have-raw | IA |
-| Light and Truth: Old Testament; Revelation | pending | the OT scan found never names Bonar in its OCR (held under `_pending`); no Revelation volume found |
+| Light and Truth: The Old Testament (1869) | have-raw | IA |
+| Light and Truth: Revelation | pending | no scan found |
 | God's Way of Holiness; Kelso Tracts; Redeem the Time | pending | scans found but their OCR never names Bonar, so the fetcher refused them (`_pending`) |
 | How Shall I Go to God? | pending | listed on CCEL but its text is not served; no IA scan found yet |
-| A Stranger Here (1853) | pending | IA `dli.ministry.06530`, text file under a non-standard name |
+| A Stranger Here (1853) | have-raw | IA `dli.ministry.06530` |
 | Hymns of Faith and Hope (3 series), Communion Hymns, Lyra Consolationis, Hymns of the Nativity, The Song of the New Creation, Until the Day Break, The Bible Hymn-Book, The New Jerusalem, My Old Letters | see hymn manifest | hymns and poems |
 | Words Old and New; Catechisms of the Scottish Reformation; Gillies' Historical Collections | excluded | others' texts that Bonar selected or edited |
 | Gaelic and Welsh translations | excluded | not English |
@@ -155,7 +157,7 @@ Shelf: `pipeline/andrew-bonar_shelf.json` (2026-10-02). Andrew Alexander Bonar (
 | Diary and Letters (1894); Reminiscences (1895); Heavenly Springs (1904) | have-raw | IA, posthumous, ed. Marjory Bonar |
 | Letters of Samuel Rutherford, ed. Bonar | have | Gutenberg 42557 |
 | Quaint Sermons of Samuel Rutherford (1885); Fourteen Communion Sermons (1876), ed. Bonar | have-raw | IA |
-| Redemption Drawing Nigh (1847) | pending | IA item found; its text file has a non-standard name |
+| Redemption Drawing Nigh (1847) | have-raw | IA |
 | The Visitor's Book of Texts | pending | only a 1982 reprint found |
 | Narrative of a Visit to the Holy Land (1878) and other printings | pending | alternates listed in the shelf |
 | Andrew Redman Bonar, Andrew J. Bonar, Andrew Bonar Law | excluded | different people |
@@ -178,7 +180,7 @@ Shelf: `pipeline/saphir_shelf.json` (2026-10-02). Adolph Saphir (1831-1891), Heb
 | Christ and Israel (ed. David Baron, 1911, posthumous) | have-raw | IA |
 | Auberlen, The Prophecies of Daniel and the Revelation, tr. Saphir (1856) | have-raw | IA (Saphir as translator) |
 | Gavin Carlyle, "Mighty in the Scriptures": A Memoir of Adolph Saphir (1893) | have-raw | IA (about Saphir) |
-| Christ and the Scriptures (1867) | pending | IA item found; text file under a non-standard name |
+| Christ and the Scriptures (1867) | pending | IA scan found, but its OCR never names Saphir, so the fetcher refused it; check by eye |
 | Jesus and the Sinner (1851) / Found by the Good Shepherd | pending | IA credits Saphir; authorship to confirm |
 | Conversion Illustrated; The Compassion of Jesus; other titles in bibliographies | pending | no verified scan found yet |
 | The Epistle to the Hebrews: An Exposition (1902 one-work edition) | pending | same lectures as held; alternate edition |

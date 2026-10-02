@@ -63,6 +63,14 @@
       "started": "2026-10-02T15:48:39-05:00",
       "finished": "2026-10-02T15:49:58-05:00",
       "notes": "Census only, nothing to add: Gutenberg I (119 Q), I-II (114), II-II (189), III (90) plus CCEL Supplement (99) and Appendix via ingest_summa_supplement.py = the whole Summa in the PD Dominican translation. Defects: 3 questions in the PG files lack the QUESTION heading line; the Supplement is not a row in adler_shelf.json."
+    },
+    {
+      "id": "pending-sweep-1",
+      "status": "done",
+      "scope": "Section 5 follow-up: fetch pending IA items whose text file is not named <id>_djvu.txt (fetch_shelf.py taught an optional file name)",
+      "started": "2026-10-02T15:51:14-05:00",
+      "finished": "2026-10-02T15:51:14-05:00",
+      "notes": "Added 4: Andrew Bonar Redemption Drawing Nigh; Horatius Bonar A Stranger Here and Light and Truth OT (1869); Ryle A Call to Prayer (1860 scan). Saphir Christ and the Scriptures refused by the identity check, stays pending."
     }
   ]
 }
