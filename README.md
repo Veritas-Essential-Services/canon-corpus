@@ -140,6 +140,18 @@ references are moved out of the Greek into links, and 1,827 resolve to a KJV
 verse (`--measure` shows how they number). 70% of the Greek words carry a
 Strong's number. `python3 pipeline/build_philo.py --fetch`.
 
+## A variant apparatus for the Greek NT
+
+For every KJV verse where eight printed editions disagree (NA28, NA27, the
+Tyndale House GNT, SBLGNT, Westcott-Hort, Tregelles, Scrivener's TR and the
+Byzantine text), which editions read which words, and what the others print
+instead. 4,737 verses carry an apparatus, with 8,198 readings, of which 1,724
+change the translation. Each verse is filed on its existing KJV uid. The source
+is STEPBible's TAGNT (CC BY 4.0, which STEPBible asks not to be redistributed),
+so the book is built locally and only its manifest entry is committed.
+MorphGNT/SBLGNT and OpenGNT were read and turned down on their licences.
+`python3 pipeline/build_nt_variants.py --fetch`.
+
 ## The reader (reverse interlinear, D5)
 
     python3 pipeline/render_reader.py       # -> build/reader/reader.html (gitignored)

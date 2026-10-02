@@ -4372,5 +4372,39 @@
    "unmatched": []
   },
   "built_sha256": "cc78b687228b7619433796379bd8618bc600032bd49537bd49b892341642933a"
+ },
+ "tagnt-variants": {
+  "title": "Greek New Testament: a variant apparatus of eight editions",
+  "author": "STEPBible.org / Tyndale House Cambridge (TAGNT)",
+  "format": "tagnt-tsv",
+  "sha256": [
+   "ab8eaaeb68e17a1dcfa34e1e9350358f22f03bc2a97244d848750ad81044bc8e",
+   "524e32375361e6d3fa2f7ef00b87605fdc4317a762f395651a05fdc31ad031b7"
+  ],
+  "units": 4737,
+  "scheme": {
+   "citation": "KJV book chapter:verse (TAGNT's KJV number where it differs from the NRSV's)",
+   "resolution": "word, within the verse",
+   "honesty": "TAGNT's own collation of eight printed editions, not a manuscript apparatus; 'significant' is TAGNT's judgement (upper-case variant codes). Its Byz is RP2005, not data/nt's RP2018: --measure says how far they agree.",
+   "note": "One unit per KJV verse where the editions differ; `text` is a readable apparatus line, `lex` the structured readings. TAGNT's English (Berean) and Spanish columns are never read in."
+  },
+  "rights": {
+   "license": "CC BY 4.0 (STEPBible-Data, Tyndale House Cambridge); STEPBible asks that the data not be redistributed, only pointed to",
+   "attribution": "TAGNT - Translators Amalgamated Greek NT, STEPBible.org, based on work at Tyndale House Cambridge",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data/tree/b99716b0cddb648ddb95cc786a197180f2f97d48/Translators%20Amalgamated%20OT+NT",
+   "redistribute_whole": false
+  },
+  "stats": {
+   "words": 142096,
+   "verses": 7957,
+   "units": 4737,
+   "readings": 8198,
+   "significant": 1724,
+   "minor": 6474,
+   "spelling": 2424,
+   "meaning": 3866,
+   "displaced": 1748
+  },
+  "built_sha256": "318fcb2c6ed6ff3a8dfc56992860bc6231aea13edd06c26ec54bc4d6487c72dd"
  }
 }
