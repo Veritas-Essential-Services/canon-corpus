@@ -1,5 +1,5 @@
 {
- "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out.",
+ "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "aeschylus",
   "aeschylos",
@@ -40,7 +40,18 @@
    "tr. Gilbert Murray; US PD per Gutenberg"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "aeschylus-potter-greek-tragic-theatre": [
+   "greektragicthea01wodhgoog",
+   "The Greek Tragic Theatre, vol. 1: Aeschylus (new ed., 1809)",
+   "tr. Robert Potter"
+  ],
+  "aeschylus-swanwick": [
+   "dramasofaeschylu0000unse",
+   "The Dramas of Aeschylus (4th ed., revised, 1899)",
+   "tr. Anna Swanwick"
+  ]
+ },
  "_excluded": {
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts from Aeschylus and Sophocles, not whole plays",
   "Herbert Weir Smyth, Loeb (1922-26)": "on Perseus with the Greek; US PD by date. Pending: Perseus manifest entry"
