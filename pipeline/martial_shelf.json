@@ -1,0 +1,21 @@
+{
+ "_about": "Martial, Epigrams, in the Bohn prose translation (anonymous, with verse renderings by many hands; Bohn's 1897 printing), raw IA OCR.",
+ "_name_words": [
+  "martial",
+  "epigrams"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "martial-bohn": [
+   "epigramsmartial00bohngoog",
+   "The Epigrams of Martial, translated into English prose (Bohn; 1897 printing)",
+   "Bohn prose translation (anonymous), with verse renderings by various hands"
+  ]
+ },
+ "_excluded": {
+  "epigramsmartial02bohngoog": "1904 printing of the same edition; lower OCR",
+  "epigramsofmarti00mart": "1865 printing; empty text layer",
+  "Ker, Loeb (1919-20)": "US PD by date, Latin facing; not yet located; pending"
+ }
+}
