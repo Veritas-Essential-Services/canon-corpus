@@ -128,3 +128,11 @@
 - Failure recorded: PG 7825 (Robinson's Method) is served only gzip-encoded, so the fetcher gets HTTP 406. Header read by hand (not COPYRIGHTED); it is a LaTeX file. Left pending.
 - Found in passing: the Gutenberg catalogue lists bilingual books with language "en; la" or "en; grc", which earlier English-only searches missed. Among them: Claudian (Platnauer), Cicero De Officiis (Miller), Plautus (Nixon), Boethius (Rand and Stewart), and Prudentius (Pope). Prudentius is left for lane A.
 - All PG headers read: none COPYRIGHTED.
+
+## 2026-10-02 16:33 CDT — latin-silver-late (done)
+- martial: Bohn prose, 1897 printing (IA). statius: Mozley Loeb 1928, 2 vols (IA). claudian: Platnauer 1922 (PG 51443-51444), Hawkins 1817 vol 1 (IA).
+- quintilian: Butler Loeb 1920-22, all 4 vols (IA), each identified by its Books. vitruvius: Morgan 1914 (PG 20239).
+- gellius: Beloe 1795 vols 1 and 3 (IA); vol 2 has no text layer. ammianus: Yonge (PG 28587). ausonius: Evelyn-White 1919-21 (IA). frontinus: Bennett 1925 (IA).
+- overflow: celsus (Greive, PG 64207), roman-farming (Harrison 1918, PG 12140), phaedrus (Riley and Smart, PG 25512), roman-epitomators (Watson's Bohn: Justin, Nepos, Eutropius, Florus, Velleius; IA), justinian (Moyle, PG 5983).
+- No PD English found: Valerius Flaccus (Mozley 1934), Silius Italicus (Duff 1934), Macrobius (no complete English before modern editions).
+- All PG headers read: none COPYRIGHTED. The Loebs taken here (Mozley, Butler, Evelyn-White, Bennett) have Latin facing pages; Latin OCR is legible, unlike the Greek Loebs left pending.

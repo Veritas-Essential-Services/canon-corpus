@@ -1586,6 +1586,139 @@ Shelf: `pipeline/greek-mechanics-astronomy_shelf.json`. Greenwood's Hero Pneumat
 | The Pneumatics of Hero of Alexandria | Joseph George Greenwood | `hero-pneumatics-greenwood` | have (PG 77400) |
 | Ptolemy's Tetrabiblos | J. M. Ashmand | `ptolemy-tetrabiblos-ashmand` | have (PG 70850) |
 
+## Martial
+
+Shelf: `pipeline/martial_shelf.json`. Bohn prose translation, 1897 printing (IA, 0.88).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Epigrams of Martial, translated into English prose (Bohn; 1897 printing) | Bohn prose translation (anonymous), with verse renderings by various hands | `martial-bohn` | have-raw (IA `epigramsmartial00bohngoog`) |
+
+Pending (wishlist): Ker Loeb (1919-20)
+
+## Statius
+
+Shelf: `pipeline/statius_shelf.json`. Mozley Loeb 1928, 2 vols. (IA, 0.91-0.92; Latin facing).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Statius, vol. 1: Silvae, Thebaid I-IV (Loeb, 1928) | J. H. Mozley | `statius-mozley-v1` | have-raw (IA `statius01stat`) |
+| Statius, vol. 2: Thebaid V-XII, Achilleid (Loeb, 1928) | J. H. Mozley | `statius-mozley-v2` | have-raw (IA `statius02stat`) |
+
+## Claudian
+
+Shelf: `pipeline/claudian_shelf.json`. Platnauer Loeb 1922 (Gutenberg); Hawkins 1817 vol. 1 (IA, 0.85).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Claudian, vol. 1 | Maurice Platnauer | `claudian-platnauer-v1` | have (PG 51443) |
+| Claudian, vol. 2 | Maurice Platnauer | `claudian-platnauer-v2` | have (PG 51444) |
+| The Works of Claudian, vol. 1 (1817) | A. Hawkins | `claudian-hawkins-v1` | have-raw (IA `worksclaudian00hawkgoog`) |
+
+Pending (wishlist): Hawkins vol. 2 (no text layer)
+
+## Quintilian
+
+Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-0.92; Latin facing).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Institutio Oratoria of Quintilian, vol. 1: Books I-III | H. E. Butler | `quintilian-butler-v1` | have-raw (IA `institutioorator00quin`) |
+| The Institutio Oratoria of Quintilian, vol. 2: Books IV-VI | H. E. Butler | `quintilian-butler-v2` | have-raw (IA `institutioorator02quin`) |
+| The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX | H. E. Butler | `quintilian-butler-v3` | have-raw (IA `institutioorator03quinuoft`) |
+| The Institutio Oratoria of Quintilian, vol. 4: Books X-XII | H. E. Butler | `quintilian-butler-v4` | have-raw (IA `institutioorator04quinuoft`) |
+
+Pending (wishlist): Watson's Bohn (no scan located)
+
+## Vitruvius
+
+Shelf: `pipeline/vitruvius_shelf.json`. Morgan 1914 (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Ten Books on Architecture | Morris Hicky Morgan | `vitruvius-morgan` | have (PG 20239) |
+
+Pending (wishlist): Gwilt (1826)
+
+Excluded: Perrault's abridgment
+
+## Aulus Gellius
+
+Shelf: `pipeline/gellius_shelf.json`. Beloe 1795, vols. 1 and 3 (IA, 0.84-0.86).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Nights of Aulus Gellius, vol. 1 (1795) | William Beloe | `gellius-beloe-v1` | have-raw (IA `bub_gb_j3kBAAAAMAAJ`) |
+| The Attic Nights of Aulus Gellius, vol. 3 (1795) | William Beloe | `gellius-beloe-v3` | have-raw (IA `atticnightsaulu02gellgoog`) |
+
+Pending (wishlist): Beloe vol. 2 (no text layer); Rolfe Loeb (1927-28)
+
+## Ammianus Marcellinus
+
+Shelf: `pipeline/ammianus_shelf.json`. Yonge (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman History of Ammianus Marcellinus | Charles Duke Yonge | `ammianus-yonge` | have (PG 28587) |
+
+## Ausonius
+
+Shelf: `pipeline/ausonius_shelf.json`. Evelyn-White Loeb 1919-21, 2 vols. (IA, 0.85-0.87; Latin facing).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ausonius, with an English translation, vol. 1 | Hugh G. Evelyn-White | `ausonius-evelyn-white-v1` | have-raw (IA `ausonius01evelgoog`) |
+| Ausonius, with an English translation, vol. 2 | Hugh G. Evelyn-White | `ausonius-evelyn-white-v2` | have-raw (IA `ausonius02evelgoog`) |
+
+## Frontinus
+
+Shelf: `pipeline/frontinus_shelf.json`. Bennett Loeb 1925 (IA, 0.88; Latin facing).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Frontinus: The Stratagems and The Aqueducts of Rome (Loeb, 1925) | Charles E. Bennett | `frontinus-bennett` | have-raw (IA `frontinus0000unse`) |
+
+## Celsus
+
+Shelf: `pipeline/celsus_shelf.json`. Greive, 1814 edition (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Of Medicine, in Eight Books | James Greive | `celsus-greive` | have (PG 64207) |
+
+## Cato and Varro
+
+Shelf: `pipeline/roman-farming_shelf.json`. Harrison, Roman Farm Management 1918 (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman Farm Management: The Treatises of Cato and Varro | Fairfax Harrison | `cato-varro-harrison` | have (PG 12140) |
+
+## Phaedrus
+
+Shelf: `pipeline/phaedrus_shelf.json`. Riley's prose with Smart's verse (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Fables of Phaedrus | Henry T. Riley (prose) and Christopher Smart (verse) | `phaedrus-riley-smart` | have (PG 25512) |
+
+## Justin, Nepos, Eutropius, Florus, Velleius
+
+Shelf: `pipeline/roman-epitomators_shelf.json`. Watson's Bohn volumes 1852-53 (IA, 0.90-0.92).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Justin, Cornelius Nepos, and Eutropius (Bohn, 1853) | John Selby Watson | `justin-nepos-eutropius-watson` | have-raw (IA `justincorneliusn00watsuoft`) |
+| Sallust, Florus, and Velleius Paterculus (Bohn, 1852) | John Selby Watson | `sallust-florus-velleius-watson` | have-raw (IA `sallustflorusve00sall`) |
+
+## Justinian
+
+Shelf: `pipeline/justinian_shelf.json`. Moyle's Institutes, 1913 5th ed. (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Institutes of Justinian | John Baron Moyle | `justinian-institutes-moyle` | have (PG 5983) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

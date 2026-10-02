@@ -161,8 +161,11 @@
     },
     {
       "id": "latin-silver-late",
-      "status": "todo",
-      "scope": "CLASSICAL (census gap) \u2014 Martial (Bohn), Statius, Valerius Flaccus, Silius Italicus, Claudian (Hawkins; Platnauer where cleared), Quintilian (Watson), Vitruvius (Morgan; Gwilt), Aulus Gellius, Ammianus Marcellinus (Yonge), Macrobius; shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census gap) \u2014 Martial (Bohn), Statius, Valerius Flaccus, Silius Italicus, Claudian (Hawkins; Platnauer where cleared), Quintilian (Watson), Vitruvius (Morgan; Gwilt), Aulus Gellius, Ammianus Marcellinus (Yonge), Macrobius; shelf per author + fetch + map",
+      "started": "2026-10-02T16:28:14-05:00",
+      "finished": "2026-10-02T16:33:04-05:00",
+      "notes": "martial, statius, claudian, quintilian, vitruvius, gellius, ammianus, ausonius, frontinus, celsus, roman-farming, phaedrus, roman-epitomators, justinian; Valerius Flaccus, Silius, Macrobius: no PD English found"
     }
   ]
 }
