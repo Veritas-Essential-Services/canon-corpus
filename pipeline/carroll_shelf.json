@@ -1,0 +1,139 @@
+{
+ "_about": "Lewis Carroll's (Charles Lutwidge Dodgson, 1832-1898) books: the two Alices and their manuscript and nursery forms, Sylvie and Bruno, the verse (Snark, Phantasmagoria, Rhyme? and Reason?, Three Sunsets), A Tangled Tale, and the logic and mathematics he published as Carroll or Dodgson. Clean Gutenberg text; all published before 1930: US public domain. Further Nonsense (1926) is Langford Reed's gathering of Carroll's own pieces, published 1926, so also before 1930; Reed's editorial matter rides with it.",
+ "_author": "Lewis Carroll",
+ "_name_words": [
+  "lewis",
+  "carroll",
+  "dodgson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "carroll-alice-wonderland": [
+   11,
+   "Alice's Adventures in Wonderland (1865)",
+   {
+    "chapre_only": "CHAPTER [IVXL]+\\.\\s.{2,60}$"
+   }
+  ],
+  "carroll-looking-glass": [
+   12,
+   "Through the Looking-Glass, and What Alice Found There (1871)",
+   {
+    "chapre_only": "CHAPTER [IVXL]+\\.\\s.{2,60}$"
+   }
+  ],
+  "carroll-hunting-of-the-snark": [
+   13,
+   "The Hunting of the Snark: An Agony in Eight Fits (1876)"
+  ],
+  "carroll-sylvie-and-bruno": [
+   48630,
+   "Sylvie and Bruno (1889), ill. Harry Furniss",
+   {
+    "contents_only": true
+   }
+  ],
+  "carroll-sylvie-and-bruno-concluded": [
+   48795,
+   "Sylvie and Bruno Concluded (1893), ill. Harry Furniss",
+   {
+    "contents_only": true
+   }
+  ],
+  "carroll-phantasmagoria": [
+   651,
+   "Phantasmagoria and Other Poems (1869)"
+  ],
+  "carroll-rhyme-and-reason": [
+   33582,
+   "Rhyme? and Reason? (1883)",
+   {
+    "contents_only": true
+   }
+  ],
+  "carroll-three-sunsets": [
+   35497,
+   "Three Sunsets and Other Poems (1898)",
+   {
+    "contents_only": true
+   }
+  ],
+  "carroll-tangled-tale": [
+   29042,
+   "A Tangled Tale (1885)",
+   {
+    "chapre_only": "(?:PREFACE|APPENDIX|KNOT [IVX]+|ANSWERS TO KNOT [IVX]+)\\.?$"
+   }
+  ],
+  "carroll-alice-under-ground": [
+   19002,
+   "Alice's Adventures Under Ground (1864 manuscript, facsimile 1886)"
+  ],
+  "carroll-nursery-alice": [
+   55040,
+   "The Nursery \"Alice\" (1890)",
+   {
+    "contents_only": true
+   }
+  ],
+  "carroll-game-of-logic": [
+   4763,
+   "The Game of Logic (1886)",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVX]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "[1-7]\\.\\s+(?:Propositions|Syllogisms|Fallacies|Elementary|Half of Smaller Diagram|Smaller Diagram|Larger Diagram|Do\\.|Both Diagrams)[^\\n]{0,60}$"
+     }
+    ],
+    "start": "CHAPTER I\\.?$"
+   }
+  ],
+  "carroll-symbolic-logic": [
+   28696,
+   "Symbolic Logic, Part I (1896)",
+   {
+    "levels": [
+     {
+      "re": "(?:BOOK [IVX]+|NOTES TO APPENDIX|NOTES|APPENDIX,?|INDEX)\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "CHAPTER [IVX]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "Sec\\. \\d+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "BOOK I\\.?$"
+   }
+  ],
+  "carroll-feeding-the-mind": [
+   35535,
+   "Feeding the Mind (1884 lecture, printed 1907)"
+  ],
+  "carroll-letter-writing": [
+   38065,
+   "Eight or Nine Wise Words about Letter-Writing (1890)"
+  ],
+  "carroll-further-nonsense": [
+   77627,
+   "Further Nonsense Verse and Prose (1926), ed. Langford Reed",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "carroll-duplicates": "Sylvie and Bruno unillustrated (PG 620; the Furniss edition 48630 is held, to match Concluded), Alice HTML edition (928), Alice ill. Gordon Robinson (19033) and ill. Rackham (28885), Snark ill. Holiday (29888): texts held",
+  "carroll-not-his": "Alice retold in words of one syllable by Mrs. Gorham (19551), Gerstenberg's stage dramatization (35688), Broadwood's song settings (36308), Widger's index of the Gutenberg files (59111)",
+  "carroll-translations": "Esperanto, German, Italian, Finnish and French translations of Alice (17482, 19778, 28371, 46569, 55456): this shelf is Carroll's English",
+  "carroll-no-plain-text": "PENDING, no Gutenberg plain-text file, so fetch_shelf.py cannot take them: Condensation of Determinants (PG 37354, PDF and LaTeX only), Curiosa Mathematica Parts I and II (PG 78586, 79080, HTML zip only). Mathematics typeset as formulae; needs its own converter if wanted"
+ }
+}

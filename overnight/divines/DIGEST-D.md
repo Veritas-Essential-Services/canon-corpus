@@ -30,6 +30,11 @@ None of the earlier fables work is in canon-corpus. I searched every branch. The
 
 All 286 shelf URLs re-checked at the end of the run: all resolve. Every slug appears in the map. Nothing failed, and there are 0 Gutenberg copyright markers.
 
+## Added on relay 3 (veto any)
+| Shelf | Held | Raw OCR | Units | Notes |
+|---|---|---|---|---|
+| `carroll` | 16 Gutenberg | 0 | 14,130 | both Alices (+ Under Ground, Nursery), Sylvie and Bruno, verse, Tangled Tale, logic books. 3 maths works pending: no plain text |
+
 ## For Adam to decide
 1. **Minting:** 135 + 151 = 286 slugs (lang 124, lamb 11, macdonald 61, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20) are waiting for the attended uid pass and manifest registration.
 2. **Mrs. Lang:** Leonora Blanche Lang wrote most of the later story books. They sit on Andrew's shelf with her credited. Should she get her own shelf?

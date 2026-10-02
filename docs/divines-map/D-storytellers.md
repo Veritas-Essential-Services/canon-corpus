@@ -414,6 +414,33 @@ Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay 
 | pyle-not-pyle | excluded | That Marvel — The Movie (PG 66368): by Edward S. Van Zile; the catalogue match is a false hit |
 | pyle-pending | pending | Yankee Doodle (1881), The Story of the Revolution (Pyle's Book of the American Spirit, 1923 compilation), the magazine stories never collected |
 
+## Lewis Carroll
+
+Shelf: `pipeline/carroll_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The two Alices, with the 1864 manuscript (Under Ground) and the Nursery Alice as separate works; both Sylvie and Bruno books (Furniss edition); the verse; A Tangled Tale; and the logic books. The Alices cite by chapter; Symbolic Logic and The Game of Logic cite by their nested Book > Chapter > Section path (convert_nested.py); A Tangled Tale by Knot. Three mathematical works have no Gutenberg plain text and are pending. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Alice's Adventures in Wonderland (1865) | have | PG 11, `carroll-alice-wonderland` (805 units) |
+| Through the Looking-Glass, and What Alice Found There (1871) | have | PG 12, `carroll-looking-glass` (975 units) |
+| The Hunting of the Snark: An Agony in Eight Fits (1876) | have | PG 13, `carroll-hunting-of-the-snark` (168 units) |
+| Sylvie and Bruno (1889), ill. Harry Furniss | have | PG 48630, `carroll-sylvie-and-bruno` (1942 units) |
+| Sylvie and Bruno Concluded (1893), ill. Harry Furniss | have | PG 48795, `carroll-sylvie-and-bruno-concluded` (2028 units) |
+| Phantasmagoria and Other Poems (1869) | have | PG 651, `carroll-phantasmagoria` (527 units) |
+| Rhyme? and Reason? (1883) | have | PG 33582, `carroll-rhyme-and-reason` (723 units) |
+| Three Sunsets and Other Poems (1898) | have | PG 35497, `carroll-three-sunsets` (259 units) |
+| A Tangled Tale (1885) | have | PG 29042, `carroll-tangled-tale` (736 units) |
+| Alice's Adventures Under Ground (1864 manuscript, facsimile 1886) | have | PG 19002, `carroll-alice-under-ground` (396 units) |
+| The Nursery "Alice" (1890) | have | PG 55040, `carroll-nursery-alice` (270 units) |
+| The Game of Logic (1886) | have | PG 4763, `carroll-game-of-logic` (801 units) |
+| Symbolic Logic, Part I (1896) | have | PG 28696, `carroll-symbolic-logic` (3751 units) |
+| Feeding the Mind (1884 lecture, printed 1907) | have | PG 35535, `carroll-feeding-the-mind` (59 units) |
+| Eight or Nine Wise Words about Letter-Writing (1890) | have | PG 38065, `carroll-letter-writing` (106 units) |
+| Further Nonsense Verse and Prose (1926), ed. Langford Reed | have | PG 77627, `carroll-further-nonsense` (584 units) |
+| carroll-duplicates | excluded | Sylvie and Bruno unillustrated (PG 620; the Furniss edition 48630 is held, to match Concluded), Alice HTML edition (928), Alice ill. Gordon Robinson (19033) and ill. Rackham (28885), Snark ill. Holiday (29888): texts held |
+| carroll-not-his | excluded | Alice retold in words of one syllable by Mrs. Gorham (19551), Gerstenberg's stage dramatization (35688), Broadwood's song settings (36308), Widger's index of the Gutenberg files (59111) |
+| carroll-translations | excluded | Esperanto, German, Italian, Finnish and French translations of Alice (17482, 19778, 28371, 46569, 55456): this shelf is Carroll's English |
+| carroll-no-plain-text | pending | PENDING, no Gutenberg plain-text file, so fetch_shelf.py cannot take them: Condensation of Determinants (PG 37354, PDF and LaTeX only), Curiosa Mathematica Parts I and II (PG 78586, 79080, HTML zip only). Mathematics typeset as formulae; needs its own converter if wanted |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

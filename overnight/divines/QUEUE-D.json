@@ -107,8 +107,11 @@
     },
     {
       "id": "carroll",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Lewis Carroll: Alice books, Sylvie and Bruno, Hunting of the Snark, verse, logic/puzzle books; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Lewis Carroll: Alice books, Sylvie and Bruno, Hunting of the Snark, verse, logic/puzzle books; no minting",
+      "started": "2026-10-02T15:52:54-05:00",
+      "finished": "2026-10-02T15:59:20-05:00",
+      "notes": "16/19 fetched (16 Gutenberg), 0 copyright markers; 14,130 units. Alices by chapter; Symbolic Logic and Game of Logic by nested Book > Chapter > Section path via convert_nested.py; Tangled Tale by Knot. Pending: Condensation of Determinants and Curiosa Mathematica I-II (no Gutenberg plain text). No u"
     },
     {
       "id": "kipling",
