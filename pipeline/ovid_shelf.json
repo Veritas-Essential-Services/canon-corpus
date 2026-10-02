@@ -1,5 +1,5 @@
 {
- "_about": "Ovid in English. No single public-domain translator covers all of him, so the translator is recorded per work. Henry T. Riley's literal prose (Bohn, 1851-1852) is the one translator who covers the whole corpus: clean Gutenberg texts for the Metamorphoses, Amores, Ars Amatoria and Remedia Amoris; raw Internet Archive OCR of the two Bohn volumes for the Heroides and minor works (1852) and the Fasti, Tristia, Pontic Epistles, Ibis and Halieuticon (1851). Verse witnesses of the Metamorphoses: Arthur Golding (1567, ed. Rouse 1904, Shakespeare's Ovid) and J. J. Howard's blank verse (1807). The Dryden-Garth Metamorphoses (1717) lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here.",
+ "_about": "Ovid in English. No single public-domain translator covers all of him, so the translator is recorded per work. Henry T. Riley's literal prose (Bohn, 1851-1852) is the one translator who covers the whole corpus: clean Gutenberg texts for the Metamorphoses, Amores, Ars Amatoria and Remedia Amoris; raw Internet Archive OCR of the two Bohn volumes for the Heroides and minor works (1852) and the Fasti, Tristia, Pontic Epistles, Ibis and Halieuticon (1851). Verse witnesses of the Metamorphoses: Arthur Golding (1567, ed. Rouse 1904, Shakespeare's Ovid) and J. J. Howard's blank verse (1807). The Dryden-Garth Metamorphoses (1717) lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "ovid",
   "ovidus",
@@ -57,6 +57,26 @@
    "cu31924026559777",
    "Shakespeare's Ovid: being Arthur Golding's translation of the Metamorphoses (ed. W. H. D. Rouse, 1904)",
    "tr. Arthur Golding (verse, 1567)"
+  ],
+  "ovid-miller-metamorphoses-v1": [
+   "metamorphoses01ovid",
+   "Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916)",
+   "tr. Frank Justus Miller"
+  ],
+  "ovid-miller-metamorphoses-v2": [
+   "metamorphoseswit02oviduoft",
+   "Metamorphoses, vol. 2: Books IX-XV (Loeb, 1916)",
+   "tr. Frank Justus Miller"
+  ],
+  "ovid-showerman-heroides-amores": [
+   "heroidesamores00ovid",
+   "Heroides and Amores (Loeb, 1914)",
+   "tr. Grant Showerman"
+  ],
+  "ovid-wheeler-tristia-ponto": [
+   "bwb_W9-CQC-386",
+   "Tristia, Ex Ponto (Loeb, 1924)",
+   "tr. Arthur Leslie Wheeler"
   ]
  },
  "_cross_ref": {
