@@ -863,6 +863,241 @@ Shelf: `pipeline/lamb_shelf.json` (2026-10-02). Spine: *The Works of Charles and
 - **Heading detection.** After a per-book chapter rule for four Lang novels (The Mark of Cain, The Gold of Fairnilee, Much Darker Days, Prince Ricardo — their "CHAPTER I.--Title" lines escaped the Contents rule), three books still sit mostly under one heading: The Nursery Rhyme Book (its five sections are italic numbered lines), Aucassin and Nicolete (the chantefable's alternating "Here singeth one / So say they" structure), and Custom and Myth, new edition (46% of its units are the index). Their citations are paragraph-in-book until a structure rule is written.
 - **Story and letter boundaries (second pass).** The house rule treats any ALL-CAPS line as a heading, which in these books also catches signatures ("C. LAMB"), addressee lines, plate captions and part numerals, so one story or letter was split across several "headings" and the same heading text recurred (duplicate unit ids). Two shelf-side options in `convert_shelf_gutenberg.py` fix this without touching structure_texts.py: Lucas's letters use `LETTER n` as the only heading (vol. VI: 259 letters, 0 duplicate ids, was 1,748; vol. VII: 354 letters, 0, was 1,932), so a citation reads `LETTER 263A, par. 4`. And 30 books use only their own Contents, read leniently (punctuation and hyphens may differ, Contents may be italic): adopted only where the result lands within 15% of the Contents count with no more duplicate ids than before. The Blue, Red and Green Fairy Books now hold exactly 37, 37 and 42 tales; Tales from Shakespeare exactly its 20 tales plus preface. Still unfixed, recorded: Helen of Troy (Book + numbered stanza wants a stanza-aware converter), the Elia volume and Lucas vol. I (their Contents do not match their body headings), and several poetry books whose Contents list first lines.
 
+## George MacDonald
+
+Shelf: `pipeline/macdonald_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Spine: CCEL ThML (31 works, converted with `convert_shelf.py`); Gutenberg for the 27 books CCEL lacks (converted with `convert_shelf_gutenberg.py`); 3 books as raw Internet Archive OCR. Scripture links appear only in the CCEL ThML (67 links, mostly in the Unspoken Sermons). Known structure gaps: Far Above Rubies, Stephen Archer and the Hamlet study sit mostly under one heading. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Phantastes: A Faerie Romance (1858) | have | CCEL `phantastes_faerie`, `macdonald-phantastes` (515 units) |
+| David Elginbrod (1863) | have | CCEL `elginbrod`, `macdonald-david-elginbrod` (3620 units) |
+| Adela Cathcart (1864), vol. 1 | have | CCEL `adela1`, `macdonald-adela-cathcart-1` (987 units) |
+| Adela Cathcart, vol. 2 | have | CCEL `adela2`, `macdonald-adela-cathcart-2` (697 units) |
+| Adela Cathcart, vol. 3 | have | CCEL `adela3`, `macdonald-adela-cathcart-3` (925 units) |
+| The Portent and Other Stories | have | CCEL `portent`, `macdonald-portent` (961 units) |
+| Annals of a Quiet Neighbourhood (1867) | have | CCEL `neighbourhood`, `macdonald-annals-quiet-neighbourhood` (2446 units) |
+| Unspoken Sermons, First Series (1867) | have | CCEL `unspoken1`, `macdonald-unspoken-sermons-1` (332 units) |
+| Unspoken Sermons, Second Series (1885) | have | CCEL `unspoken2`, `macdonald-unspoken-sermons-2` (368 units) |
+| Unspoken Sermons, Third Series (1889) | have | CCEL `unspoken3`, `macdonald-unspoken-sermons-3` (336 units) |
+| The Seaboard Parish (1868) | have | CCEL `seaboardparish`, `macdonald-seaboard-parish` (2636 units) |
+| Robert Falconer (1868) | have | CCEL `rfalconer`, `macdonald-robert-falconer` (4280 units) |
+| The Miracles of Our Lord (1870) | have | CCEL `miracles`, `macdonald-miracles-of-our-lord` (373 units) |
+| At the Back of the North Wind (1871) | have | CCEL `backofnorth`, `macdonald-back-of-north-wind` (2011 units) |
+| The Princess and the Goblin (1872) | have | CCEL `princessgoblin`, `macdonald-princess-and-goblin` (1047 units) |
+| The Vicar's Daughter (1872) | have | CCEL `vicardaughter`, `macdonald-vicars-daughter` (2379 units) |
+| The Light Princess (1864) | have | CCEL `princess`, `macdonald-light-princess` (298 units) |
+| Cross Purposes and The Shadows | have | CCEL `purposes_shadows`, `macdonald-cross-purposes-shadows` (292 units) |
+| The Day Boy and the Night Girl (1879) | have | CCEL `dayboy`, `macdonald-day-boy-night-girl` (171 units) |
+| Thomas Wingfold, Curate (1876) | have | CCEL `thomaswingfold`, `macdonald-thomas-wingfold` (2090 units) |
+| Sir Gibbie (1879) | have | CCEL `sirgibbie`, `macdonald-sir-gibbie` (1993 units) |
+| A Book of Strife in the Form of the Diary of an Old Soul (1880) | have | CCEL `strife`, `macdonald-diary-of-an-old-soul` |
+| The Princess and Curdie (1883) | have | CCEL `princesscurdie`, `macdonald-princess-and-curdie` (879 units) |
+| Donal Grant (1883) | have | CCEL `donal_grant`, `macdonald-donal-grant` (3517 units) |
+| A Double Story (The Wise Woman, 1875) | have | CCEL `doublestory`, `macdonald-double-story` (546 units) |
+| The Elect Lady (1888) | have | CCEL `lady`, `macdonald-elect-lady` (1234 units) |
+| The Hope of the Gospel (1892) | have | CCEL `hope`, `macdonald-hope-of-the-gospel` (305 units) |
+| Heather and Snow (1893) | have | CCEL `heatherandsnow`, `macdonald-heather-and-snow` (1349 units) |
+| There and Back (1891) | have | CCEL `there_back`, `macdonald-there-and-back` (2926 units) |
+| Lilith (1895) | have | CCEL `lilith`, `macdonald-lilith` (1964 units) |
+| Salted with Fire (1897) | have | CCEL `saltedfire`, `macdonald-salted-with-fire` (1036 units) |
+| Alec Forbes of Howglen (1865) | have | PG 18810, `macdonald-alec-forbes` (4127 units) |
+| Guild Court: A London Story (1868) | have | PG 56176, `macdonald-guild-court` (3055 units) |
+| Ranald Bannerman's Boyhood (1871) | have | PG 9301, `macdonald-ranald-bannerman` (1280 units) |
+| Wilfrid Cumbermede (1872) | have | PG 9183, `macdonald-wilfrid-cumbermede` (3797 units) |
+| Gutta-Percha Willie (1873) | have | PG 10093, `macdonald-gutta-percha-willie` (956 units) |
+| Malcolm (1875) | have | PG 7127, `macdonald-malcolm` (4573 units) |
+| St. George and St. Michael (1876) | have | PG 5753, `macdonald-st-george-st-michael` (2974 units) |
+| The Marquis of Lossie (1877) | have | PG 7174, `macdonald-marquis-of-lossie` (2999 units) |
+| Paul Faber, Surgeon (1879) | have | PG 12387, `macdonald-paul-faber` (2113 units) |
+| Mary Marston (1881) | have | PG 8201, `macdonald-mary-marston` (3060 units) |
+| Warlock o' Glenwarlock (Castle Warlock, 1882) | have | PG 6364, `macdonald-warlock-o-glenwarlock` (2907 units) |
+| Weighed and Wanting (1882) | have | PG 9096, `macdonald-weighed-and-wanting` (2425 units) |
+| Stephen Archer, and Other Tales (1883) | have | PG 9191, `macdonald-stephen-archer` (2288 units) |
+| What's Mine's Mine (1886) | have | PG 5969, `macdonald-whats-mines-mine` (3140 units) |
+| Home Again (1887) | have | PG 8924, `macdonald-home-again` (999 units) |
+| The Flight of the Shadow (1891) | have | PG 8902, `macdonald-flight-of-the-shadow` (1236 units) |
+| A Rough Shaking (1891) | have | PG 8886, `macdonald-rough-shaking` (2387 units) |
+| Far Above Rubies (1898) | have | PG 8955, `macdonald-far-above-rubies` (298 units) |
+| For the Right (1888) | have | PG 36904, `macdonald-for-the-right` (2333 units) |
+| The Light Princess and Other Fairy Stories (collection) | have | PG 18811, `macdonald-light-princess-other-stories` (839 units) |
+| A Dish of Orts: Chiefly Papers on the Imagination, and on Shakespeare (1893) | have | PG 9393, `macdonald-dish-of-orts` (694 units) |
+| England's Antiphon (1868), an anthology of English religious verse with MacDonald's commentary | have | PG 10375, `macdonald-englands-antiphon` (1701 units) |
+| The Tragedie of Hamlet: A Study with the Text of the Folio of 1623 (1885) | have | PG 10606, `macdonald-hamlet-study` (3340 units) |
+| A Hidden Life and Other Poems | have | PG 10578, `macdonald-hidden-life` (1132 units) |
+| The Poetical Works of George MacDonald (1893), vol. 1 | have | PG 9543, `macdonald-poetical-works-1` (2674 units) |
+| The Poetical Works of George MacDonald (1893), vol. 2 | have | PG 9984, `macdonald-poetical-works-2` (2230 units) |
+| Rampolli: Growths from a Long-Planted Root (1897), translations and poems | have | PG 8949, `macdonald-rampolli` (617 units) |
+| Dealings with the Fairies (1867), the first fairy-tale collection | have-raw | IA `dealingswithfair00macd_0`, `macdonald-dealings-with-the-fairies` |
+| A Threefold Cord: Poems by Three Friends (1883), ed. MacDonald | have-raw | IA `threefoldcordpoe00macd`, `macdonald-threefold-cord` |
+| Scotch Songs and Ballads (1893) | have-raw | IA `scotchsongsballa00macduoft`, `macdonald-scotch-songs-ballads` |
+| macdonald-pg-duplicates | excluded | Gutenberg copies of works held from CCEL (PG 225, 18614, 325, 697, 708, 34339, 709, 36612, 1640, 1953, 2291, 2370, 2433, 2561, 5676, 5773, 5976 and its vols 5973-5975, 8562 and vols 8551-8553, 8879, 8892, 8913, 8929, 8943, 8944, 9057, 9103, 9154, 9155, 9471, 18859) and per-volume splits of St George (5750-5752) and What's Mine's Mine (5966-5968): CCEL ThML or the complete PG file held instead |
+| macdonald-ccel-salted | excluded | CCEL `salted`: a second CCEL copy of Salted with Fire; `saltedfire` held |
+| macdonald-ccel-unspoken | excluded | CCEL `unspoken`: a 3.6 KB series index, not a text |
+| macdonald-imagination-essays | excluded | The Imagination and Other Essays (Boston, 1883): the essays of A Dish of Orts (held) |
+| macdonald-anthologies | excluded | Selections and anthologies by other hands (Beautiful Thoughts, Cheerful Words, Fairy Tales Every Child Should Know, The Golden Key 1906 reprint, The Cruel Painter extract) |
+
+
+## The Brothers Grimm (tr. Margaret Hunt)
+
+Shelf: `pipeline/grimm_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Margaret Hunt's Household Tales (1884), the translation Andrew Lang introduced. Gutenberg's clean text cites by tale number, using a per-book rule: `53 Little Snow-White, par. 4`. There are exactly 200 tales and 10 Children's Legends. The 1884 two-volume edition, with Lang's introduction and the Grimms' notes, is kept as raw OCR. Cross-reference: the Lang shelf's excluded list points here. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Household Tales by Brothers Grimm, tr. Margaret Hunt (1884), the 200 tales and 10 children's legends | have | PG 5314, `grimm-hunt-household-tales` (1769 units) |
+| Grimm's Household Tales, tr. Margaret Hunt, with the author's notes and an introduction by Andrew Lang (1884), vol. 1 | have-raw | IA `grimmshouseholdt01grim`, `grimm-hunt-1884-01` |
+| Grimm's Household Tales, tr. Margaret Hunt (1884), vol. 2 | have-raw | IA `grimmshouseholdt2grim`, `grimm-hunt-1884-02` |
+| grimm-selections | excluded | selections and retellings: Grimm's Fairy Stories (PG 11027, Owen/Gruelle), Snowdrop & Other Tales (PG 37381, Rackham, a Hunt selection), Grimm's Fairy Tales (PG 52521, ed. Olcott), Household Tales ill. Anning Bell (1912 selection) |
+| grimm-widger-index | excluded | PG 59508 is an index of Gutenberg's Grimm files, not a text |
+| grimm-same-surname | excluded | other Grimms: Florence M. Grimm (Astronomical Lore in Chaucer), George Grimm (Australian Explorers), Constantin de Grimm (illustrator) |
+| grimm-other-languages | excluded | French, Icelandic, Dutch, Polish, Portuguese, Hungarian and Finnish Gutenberg translations: not English |
+| grimm-pending-alternates | pending | Edgar Taylor and Marian Edwardes's translation (PG 2591), Lucy Crane's Household Stories (PG 19068, ill. Walter Crane), and the German originals (Deutsche Sagen PG 76558; KHM) — alternate witnesses Adam may want |
+
+
+## Hans Christian Andersen
+
+Shelf: `pipeline/andersen_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). There is no single canonical English Andersen, so each Victorian translation is held as its own work and its own slug, with the translator in the title. Where a Gutenberg file names no translator, the title says so. PG 27200's translator is inferred from its wording, not verified. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fairy Tales of Hans Christian Andersen (translator not named in the Gutenberg file; its wording matches the text usually credited to Mrs. H. B. Paull, 1872 — unverified) | have | PG 27200, `andersen-fairy-tales-paull` (4835 units) |
+| What the Moon Saw, and Other Tales, tr. H. W. Dulcken (1866) | have | PG 27000, `andersen-what-the-moon-saw-dulcken` (2225 units) |
+| Wonderful Stories for Children, tr. Mary Howitt (1846) | have | PG 43600, `andersen-wonderful-stories-howitt` (501 units) |
+| The True Story of My Life, tr. Mary Howitt (1847) | have | PG 7007, `andersen-true-story-of-my-life-howitt` (579 units) |
+| The Sand-Hills of Jutland, tr. Anna Bushby (1860) | have | PG 26491, `andersen-sand-hills-of-jutland-bushby` (1047 units) |
+| The Ice-Maiden, and Other Tales, tr. Fanny Fuller (1863) | have | PG 18604, `andersen-ice-maiden-fuller` (459 units) |
+| A Christmas Greeting: A Series of Stories (1847; translator not named in the Gutenberg file) | have | PG 31103, `andersen-christmas-greeting` (587 units) |
+| O. T., A Danish Romance (novel; translator not named in the Gutenberg file) | have | PG 7513, `andersen-o-t` (1922 units) |
+| Pictures of Sweden (travel; translator not named in the Gutenberg file) | have | PG 12313, `andersen-pictures-of-sweden` (558 units) |
+| Stories for the Household, tr. H. W. Dulcken (1889 printing), the fullest Victorian collection | have-raw | IA `storiesforhouseh00ande`, `andersen-stories-household-dulcken` |
+| Fairy Tales and Other Stories, revised and in part newly translated by W. A. Craigie (Oxford, 1914) | have-raw | IA `fairytalesandoth00andeuoft`, `andersen-fairy-tales-craigie` |
+| Danish Fairy Legends and Tales, tr. Caroline Peachey (1861 ed.) | have-raw | IA `danishfairylege00andegoog`, `andersen-danish-fairy-legends-peachey` |
+| Fairy Tales and Stories, tr. H. L. Brækstad, ill. Hans Tegner (1900) | have-raw | IA `fairytalesstorie00ande`, `andersen-fairy-tales-braekstad` |
+| Faery Tales from Hans Christian Andersen, tr. Mrs. Edgar Lucas (1910) | have-raw | IA `faerytalesfromha00ande`, `andersen-faery-tales-lucas` |
+| The Improvisatore, or, Life in Italy (novel), tr. Mary Howitt (1845) | have-raw | IA `improvisatoreorl00ande`, `andersen-improvisatore-howitt` |
+| A Picture-Book without Pictures, and Other Stories (1848; IA credits Mary Howitt, unverified) | have-raw | IA `picturebookwitho00ande`, `andersen-picture-book-without-pictures` |
+| andersen-selections | excluded | selections whose texts are held in fuller form: Andersen's Fairy Tales (PG 1597), Stories from Hans Andersen (PG 17860, Dulac), Stickney's First and Second Series (PG 32571-32572), Heath Robinson's Hans Andersen's Fairy Tales (PG 66688), The Nightingale (PG 71096, one tale), Rudy and Babette (PG 40283, the Ice-Maiden) |
+| andersen-other-languages | excluded | French, German, Dutch, Catalan, Esperanto, Greek and Finnish Gutenberg translations: not English |
+| andersen-hersholt | excluded | Jean Hersholt's Complete Andersen (1942-49): in copyright |
+| andersen-pending | pending | Mrs. H. B. Paull's Hans Andersen's Fairy Tales and Stories (1872) as a scan to confirm PG 27200's translator; Under the Willow Tree (Dulcken, 1870); Only a Fiddler and In Spain (Howitt/Bushby); the Danish originals |
+
+
+## Charles Kingsley
+
+Shelf: `pipeline/kingsley_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). All 43 of his English Gutenberg texts: the children's books, the novels, poems and plays, the sermons, lectures and essays. Single-essay files (Plays and Puritans, Sir Walter Raleigh, Froude's History, Phaethon, Women and Politics) have a single heading, which is correct. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Heroes; Or, Greek Fairy Tales for My Children | have | PG 677, `kingsley-heroes` (860 units) |
+| Glaucus; Or, The Wonders of the Shore | have | PG 695, `kingsley-glaucus` (386 units) |
+| The Water-Babies | have | PG 1018, `kingsley-water-babies` (1437 units) |
+| Alexandria and Her Schools Four Lectures Delivered at the Philosophical Institution, Edinburgh | have | PG 1275, `kingsley-alexandria-and-her-schools` (177 units) |
+| The Ancien Régime | have | PG 1335, `kingsley-ancien-regime` (183 units) |
+| Historical Lectures and Essays | have | PG 1360, `kingsley-historical-lectures-and-essays` (355 units) |
+| Sanitary and Social Lectures and Essays | have | PG 1637, `kingsley-sanitary-and-social-lectures-and-essays` (495 units) |
+| Madam How and Lady Why; Or, First Lessons in Earth Lore for Children | have | PG 1697, `kingsley-madam-how-and-lady-why` (1145 units) |
+| Westward Ho! Or, The Voyages and Adventures of Sir Amyas Leigh, Knight, of Burrough, in the County of Devon, in the Reig | have | PG 1860, `kingsley-westward-ho` (4993 units) |
+| Plays and Puritans | have | PG 3142, `kingsley-plays-and-puritans` (141 units) |
+| Sir Walter Raleigh and His Time | have | PG 3143, `kingsley-sir-walter-raleigh-and-his-time` (195 units) |
+| Froude's History of England | have | PG 3144, `kingsley-froudes-history-of-england` (75 units) |
+| The Roman and the Teuton A Series of Lectures delivered before the University of Cambridge (ed. F. Max Müller) | have | PG 3821, `kingsley-roman-and-the-teuton` (786 units) |
+| The Water of Life, and Other Sermons | have | PG 5687, `kingsley-water-of-life-and-other-sermons` (613 units) |
+| Hypatia — or New Foes with an Old Face | have | PG 6308, `kingsley-hypatia` (3302 units) |
+| Prose Idylls, New and Old | have | PG 7032, `kingsley-prose-idylls-new-and-old` (658 units) |
+| Discipline and Other Sermons | have | PG 7042, `kingsley-discipline-and-other-sermons` (541 units) |
+| The Good News of God | have | PG 7051, `kingsley-good-news-of-god` (991 units) |
+| Hereward, the Last of the English | have | PG 7815, `kingsley-hereward` (4239 units) |
+| Twenty-Five Village Sermons | have | PG 7954, `kingsley-twenty-five-village-sermons` (331 units) |
+| Sermons on National Subjects | have | PG 8202, `kingsley-sermons-on-national-subjects` (712 units) |
+| Alton Locke, Tailor and Poet: An Autobiography | have | PG 8374, `kingsley-alton-locke` (2476 units) |
+| The Hermits | have | PG 8733, `kingsley-hermits` (632 units) |
+| All Saints' Day and Other Sermons | have | PG 10116, `kingsley-all-saints-day-and-other-sermons` (688 units) |
+| Town Geology | have | PG 10251, `kingsley-town-geology` (405 units) |
+| The Gospel of the Pentateuch: A Set of Parish Sermons | have | PG 10325, `kingsley-gospel-of-the-pentateuch` (658 units) |
+| David: Five Sermons | have | PG 10326, `kingsley-david` (155 units) |
+| Yeast: a Problem | have | PG 10364, `kingsley-yeast` (1846 units) |
+| Scientific Essays and Lectures | have | PG 10427, `kingsley-scientific-essays-and-lectures` (387 units) |
+| At Last: A Christmas in the West Indies | have | PG 10669, `kingsley-at-last` (1209 units) |
+| Two Years Ago, Volume I | have | PG 10920, `kingsley-two-years-ago-1` (2261 units) |
+| Two Years Ago, Volume II. | have | PG 10995, `kingsley-two-years-ago-2` (2916 units) |
+| Phaethon: Loose Thoughts for Loose Thinkers | have | PG 11025, `kingsley-phaethon` (486 units) |
+| Literary and General Lectures and Essays | have | PG 11026, `kingsley-literary-and-general-lectures-and-essays` (600 units) |
+| Andromeda, and Other Poems | have | PG 11064, `kingsley-andromeda-and-other-poems` (522 units) |
+| The Saint's Tragedy | have | PG 11346, `kingsley-saints-tragedy` (1325 units) |
+| Sermons for the Times | have | PG 11381, `kingsley-sermons-for-the-times` (455 units) |
+| Town and Country Sermons | have | PG 11536, `kingsley-town-and-country-sermons` (699 units) |
+| Health and Education | have | PG 17437, `kingsley-health-and-education` (706 units) |
+| Westminster Sermons with a Preface | have | PG 18369, `kingsley-westminster-sermons-with-a-preface` (812 units) |
+| True Words for Brave Men: A Book for Soldiers' and Sailors' Libraries | have | PG 20138, `kingsley-true-words-for-brave-men` (546 units) |
+| Women and Politics | have | PG 20433, `kingsley-women-and-politics` (43 units) |
+| Lectures Delivered in America in 1874 | have | PG 30944, `kingsley-lectures-delivered-in-america-in-1874` (346 units) |
+| kingsley-illustrated-duplicates | excluded | The Water-Babies, PG 25564 (Goble) and 36309 (J. W. Smith): other transcriptions; PG 1018 held |
+| kingsley-selections | excluded | Daily Thoughts (PG 20711) and Out of the Deep (PG 20312): selections by his widow from works held |
+| kingsley-finnish | excluded | Finnish translations (PG 49025, 57285, 72487) |
+| kingsley-pending | pending | Charles Kingsley: His Letters and Memories of His Life (ed. his widow, 1877), the Life and Works edition (1901-03), and the uncollected Poems volume of 1884 — Internet Archive scans |
+
+
+## Nathaniel Hawthorne (children's books)
+
+Shelf: `pipeline/hawthorne_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Only the storyteller's shelf: the two Greek-myth books, Grandfather's Chair and the Biographical Stories. His novels and tales are listed as pending for Adam to decide. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Wonder-Book for Girls and Boys (1851), ill. Walter Crane | have | PG 32242, `hawthorne-wonder-book` (870 units) |
+| Tanglewood Tales (1853) | have | PG 976, `hawthorne-tanglewood-tales` (797 units) |
+| The Whole History of Grandfather's Chair (1841) | have | PG 1926, `hawthorne-grandfathers-chair` (857 units) |
+| Biographical Stories (1842), from True Stories of History and Biography | have | PG 9254, `hawthorne-biographical-stories` (363 units) |
+| hawthorne-duplicates | excluded | A Wonder Book and Tanglewood Tales (PG 35377, Parrish ill., both books in one file), Tanglewood Tales (PG 51995, Sterrett ill.), and the single Wonder-Book tales (PG 9255-9258): texts held |
+| hawthorne-not-this-shelf | pending | PENDING, outside this storytellers shelf unless Adam widens it: the novels (Scarlet Letter, Seven Gables, Blithedale, Marble Faun, Fanshawe), Twice-Told Tales, Mosses from an Old Manse, The Snow-Image and the single-story Gutenberg files cut from them (PG 9201-9245), notebooks |
+
+
+## Thomas Bulfinch
+
+Shelf: `pipeline/bulfinch_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The three books later bound as *Bulfinch's Mythology* are held as three works, plus Oregon and Eldorado. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Age of Fable, or Stories of Gods and Heroes (1855) | have | PG 4925, `bulfinch-age-of-fable` (2605 units) |
+| The Age of Chivalry, or Legends of King Arthur (1858) | have | PG 4926, `bulfinch-age-of-chivalry` (2239 units) |
+| Legends of Charlemagne, or Romance of the Middle Ages (1863) | have | PG 4927, `bulfinch-legends-of-charlemagne` (2197 units) |
+| Oregon and Eldorado; or, Romance of the Rivers (1866) | have | PG 38774, `bulfinch-oregon-and-eldorado` (731 units) |
+| bulfinch-combined | excluded | Bulfinch's Mythology in one file (PG 4928, 56644) and a second Age of Fable (PG 3327): the three books are held singly |
+| bulfinch-gayley | excluded | The Classic Myths in English Literature (PG 46063): Charles Mills Gayley's book based on Bulfinch, not Bulfinch's text |
+| bulfinch-pending | pending | Poetry of the Age of Fable (1863), Shakespeare Adapted for Reading Classes (1865), The Boy Inventor (1860) — Internet Archive scans not yet checked |
+
+
+## Howard Pyle
+
+Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The books Pyle wrote; books by others that he only illustrated are excluded. Known structure gap: the four King Arthur books nest Book > Part > Chapter, and the house converter keeps only the chapter, so `Chapter First` repeats and citations need the `~n` suffix. Fixing this needs a nesting-aware converter, which is noted for Adam. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Merry Adventures of Robin Hood (1883) | have | PG 964, `pyle-robin-hood` (1699 units) |
+| Pepper & Salt, or Seasoning for Young Folk (1886) | have | PG 15664, `pyle-pepper-and-salt` (866 units) |
+| The Wonder Clock (1888), verses by Katharine Pyle | have | PG 63383, `pyle-wonder-clock` (2167 units) |
+| Otto of the Silver Hand (1888) | have | PG 2865, `pyle-otto-of-the-silver-hand` (561 units) |
+| Within the Capes (1885) | have | PG 48458, `pyle-within-the-capes` (1471 units) |
+| The Rose of Paradise (1888) | have | PG 31673, `pyle-rose-of-paradise` (648 units) |
+| Men of Iron (1891) | have | PG 1557, `pyle-men-of-iron` (1213 units) |
+| A Modern Aladdin (1892) | have | PG 48444, `pyle-modern-aladdin` (957 units) |
+| Twilight Land (1895) | have | PG 47564, `pyle-twilight-land` (1887 units) |
+| The Story of Jack Ballister's Fortunes (1895) | have | PG 49985, `pyle-jack-ballister` (2155 units) |
+| The Price of Blood (1899) | have | PG 48521, `pyle-price-of-blood` (185 units) |
+| Rejected of Men: A Story of To-day (1903) | have | PG 46841, `pyle-rejected-of-men` (1101 units) |
+| The Story of King Arthur and His Knights (1903) | have | PG 60184, `pyle-king-arthur` (1885 units) |
+| The Story of the Champions of the Round Table (1905) | have | PG 10745, `pyle-champions-round-table` (1683 units) |
+| The Story of Sir Launcelot and His Companions (1907) | have | PG 33702, `pyle-sir-launcelot` (2329 units) |
+| The Story of the Grail and the Passing of Arthur (1910) | have | PG 60405, `pyle-grail-passing-of-arthur` (1901 units) |
+| The Ruby of Kishmoor (1908) | have | PG 3687, `pyle-ruby-of-kishmoor` (157 units) |
+| Stolen Treasure (1907) | have | PG 10394, `pyle-stolen-treasure` (688 units) |
+| Howard Pyle's Book of Pirates (1921, compiled by Merle Johnson) | have | PG 973, `pyle-book-of-pirates` (1044 units) |
+| The Garden Behind the Moon (1895) | have-raw | IA `gardenbehindmoo00pylegoog`, `pyle-garden-behind-the-moon` |
+| pyle-duplicates | excluded | Robin Hood PG 10148, Twilight Land PG 1751, Book of Pirates PG 26862: second transcriptions |
+| pyle-illustrator-only | excluded | books by others that Pyle illustrated: Dulcibel (Peterson), Grandmother's Story and The One Hoss Shay (Holmes), Chivalry (Cabell), The Island of Enchantment (Forman), Captain Ravenshaw (Stephens), Sir Christopher (Goodwin), A Story of the Golden Age (Baldwin), Hugh Wynne (Mitchell) and others |
+| pyle-edited | excluded | The Buccaneers and Marooners of America (PG 73564): Exquemelin and Johnson's texts, Pyle as editor |
+| pyle-not-pyle | excluded | That Marvel — The Movie (PG 66368): by Edward S. Van Zile; the catalogue match is a false hit |
+| pyle-pending | pending | Yankee Doodle (1881), The Story of the Revolution (Pyle's Book of the American Spirit, 1923 compilation), the magazine stories never collected |
+
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

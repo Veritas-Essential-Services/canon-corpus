@@ -89,6 +89,9 @@ def main():
                 chapre = f"(?:{opts['chapre']})|{chapre}"
             if opts.get("chapre_only"):  # per-book heading rule that REPLACES the Contents one
                 chapre = opts["chapre_only"]
+            # an illustration placeholder is never a heading (a Contents of plates can
+            # list them, and illustrated transcriptions put one on every page)
+            chapre = rf"(?!\[?Illustration)(?:{chapre})"
             book = convert_gutenberg_prose(path, slug, row[1], author, chapre)
             seen = {}
             for u in book["units"]:

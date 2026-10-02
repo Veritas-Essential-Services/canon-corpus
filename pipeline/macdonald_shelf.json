@@ -1,0 +1,296 @@
+{
+ "_about": "Every public-domain George MacDonald (1824-1905) text the Word Hoard holds: the fantasies and fairy tales, the Scottish and English novels, the sermons and theology, poetry and criticism. CCEL ThML first (31 works), Gutenberg for the rest, Internet Archive OCR (raw) for three books online nowhere else. Everything here was published before 1930 and is US public domain.",
+ "_author": "George MacDonald",
+ "_name_words": [
+  "george",
+  "macdonald"
+ ],
+ "_ccel_author": "m/macdonald",
+ "ccel": {
+  "macdonald-phantastes": [
+   "phantastes_faerie",
+   "Phantastes: A Faerie Romance (1858)"
+  ],
+  "macdonald-david-elginbrod": [
+   "elginbrod",
+   "David Elginbrod (1863)"
+  ],
+  "macdonald-adela-cathcart-1": [
+   "adela1",
+   "Adela Cathcart (1864), vol. 1"
+  ],
+  "macdonald-adela-cathcart-2": [
+   "adela2",
+   "Adela Cathcart, vol. 2"
+  ],
+  "macdonald-adela-cathcart-3": [
+   "adela3",
+   "Adela Cathcart, vol. 3"
+  ],
+  "macdonald-portent": [
+   "portent",
+   "The Portent and Other Stories"
+  ],
+  "macdonald-annals-quiet-neighbourhood": [
+   "neighbourhood",
+   "Annals of a Quiet Neighbourhood (1867)"
+  ],
+  "macdonald-unspoken-sermons-1": [
+   "unspoken1",
+   "Unspoken Sermons, First Series (1867)"
+  ],
+  "macdonald-unspoken-sermons-2": [
+   "unspoken2",
+   "Unspoken Sermons, Second Series (1885)"
+  ],
+  "macdonald-unspoken-sermons-3": [
+   "unspoken3",
+   "Unspoken Sermons, Third Series (1889)"
+  ],
+  "macdonald-seaboard-parish": [
+   "seaboardparish",
+   "The Seaboard Parish (1868)"
+  ],
+  "macdonald-robert-falconer": [
+   "rfalconer",
+   "Robert Falconer (1868)"
+  ],
+  "macdonald-miracles-of-our-lord": [
+   "miracles",
+   "The Miracles of Our Lord (1870)"
+  ],
+  "macdonald-back-of-north-wind": [
+   "backofnorth",
+   "At the Back of the North Wind (1871)"
+  ],
+  "macdonald-princess-and-goblin": [
+   "princessgoblin",
+   "The Princess and the Goblin (1872)"
+  ],
+  "macdonald-vicars-daughter": [
+   "vicardaughter",
+   "The Vicar's Daughter (1872)"
+  ],
+  "macdonald-light-princess": [
+   "princess",
+   "The Light Princess (1864)"
+  ],
+  "macdonald-cross-purposes-shadows": [
+   "purposes_shadows",
+   "Cross Purposes and The Shadows"
+  ],
+  "macdonald-day-boy-night-girl": [
+   "dayboy",
+   "The Day Boy and the Night Girl (1879)"
+  ],
+  "macdonald-thomas-wingfold": [
+   "thomaswingfold",
+   "Thomas Wingfold, Curate (1876)"
+  ],
+  "macdonald-sir-gibbie": [
+   "sirgibbie",
+   "Sir Gibbie (1879)"
+  ],
+  "macdonald-diary-of-an-old-soul": [
+   "strife",
+   "A Book of Strife in the Form of the Diary of an Old Soul (1880)"
+  ],
+  "macdonald-princess-and-curdie": [
+   "princesscurdie",
+   "The Princess and Curdie (1883)"
+  ],
+  "macdonald-donal-grant": [
+   "donal_grant",
+   "Donal Grant (1883)"
+  ],
+  "macdonald-double-story": [
+   "doublestory",
+   "A Double Story (The Wise Woman, 1875)"
+  ],
+  "macdonald-elect-lady": [
+   "lady",
+   "The Elect Lady (1888)"
+  ],
+  "macdonald-hope-of-the-gospel": [
+   "hope",
+   "The Hope of the Gospel (1892)"
+  ],
+  "macdonald-heather-and-snow": [
+   "heatherandsnow",
+   "Heather and Snow (1893)"
+  ],
+  "macdonald-there-and-back": [
+   "there_back",
+   "There and Back (1891)"
+  ],
+  "macdonald-lilith": [
+   "lilith",
+   "Lilith (1895)"
+  ],
+  "macdonald-salted-with-fire": [
+   "saltedfire",
+   "Salted with Fire (1897)"
+  ]
+ },
+ "gutenberg": {
+  "macdonald-alec-forbes": [
+   18810,
+   "Alec Forbes of Howglen (1865)"
+  ],
+  "macdonald-guild-court": [
+   56176,
+   "Guild Court: A London Story (1868)"
+  ],
+  "macdonald-ranald-bannerman": [
+   9301,
+   "Ranald Bannerman's Boyhood (1871)"
+  ],
+  "macdonald-wilfrid-cumbermede": [
+   9183,
+   "Wilfrid Cumbermede (1872)"
+  ],
+  "macdonald-gutta-percha-willie": [
+   10093,
+   "Gutta-Percha Willie (1873)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-malcolm": [
+   7127,
+   "Malcolm (1875)"
+  ],
+  "macdonald-st-george-st-michael": [
+   5753,
+   "St. George and St. Michael (1876)"
+  ],
+  "macdonald-marquis-of-lossie": [
+   7174,
+   "The Marquis of Lossie (1877)"
+  ],
+  "macdonald-paul-faber": [
+   12387,
+   "Paul Faber, Surgeon (1879)"
+  ],
+  "macdonald-mary-marston": [
+   8201,
+   "Mary Marston (1881)"
+  ],
+  "macdonald-warlock-o-glenwarlock": [
+   6364,
+   "Warlock o' Glenwarlock (Castle Warlock, 1882)"
+  ],
+  "macdonald-weighed-and-wanting": [
+   9096,
+   "Weighed and Wanting (1882)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-stephen-archer": [
+   9191,
+   "Stephen Archer, and Other Tales (1883)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-whats-mines-mine": [
+   5969,
+   "What's Mine's Mine (1886)"
+  ],
+  "macdonald-home-again": [
+   8924,
+   "Home Again (1887)"
+  ],
+  "macdonald-flight-of-the-shadow": [
+   8902,
+   "The Flight of the Shadow (1891)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-rough-shaking": [
+   8886,
+   "A Rough Shaking (1891)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-far-above-rubies": [
+   8955,
+   "Far Above Rubies (1898)"
+  ],
+  "macdonald-for-the-right": [
+   36904,
+   "For the Right (1888)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-light-princess-other-stories": [
+   18811,
+   "The Light Princess and Other Fairy Stories (collection)",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-dish-of-orts": [
+   9393,
+   "A Dish of Orts: Chiefly Papers on the Imagination, and on Shakespeare (1893)"
+  ],
+  "macdonald-englands-antiphon": [
+   10375,
+   "England's Antiphon (1868), an anthology of English religious verse with MacDonald's commentary",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-hamlet-study": [
+   10606,
+   "The Tragedie of Hamlet: A Study with the Text of the Folio of 1623 (1885)"
+  ],
+  "macdonald-hidden-life": [
+   10578,
+   "A Hidden Life and Other Poems"
+  ],
+  "macdonald-poetical-works-1": [
+   9543,
+   "The Poetical Works of George MacDonald (1893), vol. 1",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-poetical-works-2": [
+   9984,
+   "The Poetical Works of George MacDonald (1893), vol. 2",
+   {
+    "contents_only": true
+   }
+  ],
+  "macdonald-rampolli": [
+   8949,
+   "Rampolli: Growths from a Long-Planted Root (1897), translations and poems"
+  ]
+ },
+ "internet_archive": {
+  "macdonald-dealings-with-the-fairies": [
+   "dealingswithfair00macd_0",
+   "Dealings with the Fairies (1867), the first fairy-tale collection"
+  ],
+  "macdonald-threefold-cord": [
+   "threefoldcordpoe00macd",
+   "A Threefold Cord: Poems by Three Friends (1883), ed. MacDonald"
+  ],
+  "macdonald-scotch-songs-ballads": [
+   "scotchsongsballa00macduoft",
+   "Scotch Songs and Ballads (1893)"
+  ]
+ },
+ "_excluded": {
+  "macdonald-pg-duplicates": "Gutenberg copies of works held from CCEL (PG 225, 18614, 325, 697, 708, 34339, 709, 36612, 1640, 1953, 2291, 2370, 2433, 2561, 5676, 5773, 5976 and its vols 5973-5975, 8562 and vols 8551-8553, 8879, 8892, 8913, 8929, 8943, 8944, 9057, 9103, 9154, 9155, 9471, 18859) and per-volume splits of St George (5750-5752) and What's Mine's Mine (5966-5968): CCEL ThML or the complete PG file held instead",
+  "macdonald-ccel-salted": "CCEL `salted`: a second CCEL copy of Salted with Fire; `saltedfire` held",
+  "macdonald-ccel-unspoken": "CCEL `unspoken`: a 3.6 KB series index, not a text",
+  "macdonald-imagination-essays": "The Imagination and Other Essays (Boston, 1883): the essays of A Dish of Orts (held)",
+  "macdonald-anthologies": "Selections and anthologies by other hands (Beautiful Thoughts, Cheerful Words, Fairy Tales Every Child Should Know, The Golden Key 1906 reprint, The Cruel Painter extract)"
+ }
+}
