@@ -116,7 +116,22 @@ number by fixed rules against the Greek NT; the rest are left blank, never
 guessed. Lake's scripture references resolve to KJV verses, the Old Testament
 through Brenton's Septuagint map, and the ones First1KGreek keyed to the wrong
 book are flagged. `python3 pipeline/build_apostolic_fathers.py --fetch`. Lightfoot's
-English translation is still to come (CCEL).
+English is aligned to it (next section).
+
+## Apostolic Fathers (English, Lightfoot)
+
+Lightfoot and Harmer's translation (1891, public domain), from CCEL's ThML
+(pinned by sha256), as nine books matching Lake's nine. Every English unit is
+keyed by the Greek it translates (`1clement-lightfoot:4.7` is `1 Clem. 4.7`)
+and links to it. Chapters match by rule; inside a chapter CCEL's paragraphs
+are placed on Lake's sections by their lengths, and a boundary is drawn only
+where every near-best alignment agrees. Of Lake's 1,941 sections, 1,819 have
+an English unit of their own, 114 are reached in a run of two or three, and 8
+(four Ignatius chapters) only by chapter. Measured: 99.1% of the one-to-one
+pairs have the work's own length ratio (49.6% when shifted by one), and 97.7%
+of the proper names in the English are in the linked Greek (15.2% in the next
+unit's). Papias is not in CCEL's file. Built locally;
+manifest entries committed. `python3 pipeline/build_lightfoot.py --fetch`.
 
 ## Josephus (Greek and English)
 

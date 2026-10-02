@@ -132,6 +132,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
     python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
+    python3 pipeline/build_lightfoot.py --fetch  # Lightfoot's English AF (CCEL ThML, pinned), aligned to Lake
+    python3 pipeline/build_lightfoot.py --check  # rebuild = the committed manifest entries
+    python3 pipeline/build_lightfoot.py --survey # every chapter: CCEL paragraphs vs Lake sections, units
+    python3 tests/lightfoot_test.py          # Lightfoot: rights, alignment rules on fixtures, measurements
     python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
     python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
     python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
@@ -212,7 +216,16 @@ The living truth for project state is the Obsidian vault:
   numbers by fixed rules against data/nt (85% of the Greek), never guessed.
   Pol. Phil. 10-14 and Herm. Sim. 9.30-10.4 survive in Latin, which
   First1KGreek garbled into Greek letters; a per-book rule restores it.
-  Lightfoot's English is PENDING (CCEL, unreachable from cloud sessions).
+  Lightfoot's English: pipeline/build_lightfoot.py (next).
+- pipeline/build_lightfoot.py — Lightfoot & Harmer's English Apostolic Fathers
+  (1891, PD; CCEL ThML pinned in fetch_sources.LIGHTFOOT, kept out of
+  data/corpus/ccel/ so structure_texts.py does not build it too) → nine
+  books `<work>-lightfoot`, each unit keyed by the Lake section(s) it
+  translates. Chapters by rule (Hermas: Lake's chapter starts where CCEL's
+  indents corroborate them); sections by a length alignment whose boundaries
+  every near-best alignment must agree on; else a run, else the chapter.
+  Links run English -> Greek only (Lake's books are not rewritten). The
+  Moscow epilogue in Mart. Pol. 22 is a SPLIT row.
 - pipeline/build_josephus.py — Josephus (Ant., J.W., Life, Ag. Ap.): Niese's
   Greek and Whiston's English (both PD; Perseus TEI CC BY-SA 4.0, so books
   gitignored, labelled manifest entries committed). Units are Whiston's

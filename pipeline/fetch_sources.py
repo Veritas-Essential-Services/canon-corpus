@@ -257,6 +257,42 @@ def fetch_brenton():
         raise RuntimeError(f"Brenton sha256 {got} != pinned {BRENTON['sha256']}")
     return "1 archive, sha256 pinned"
 
+# LIGHTFOOT -- J. B. Lightfoot & J. R. Harmer, The Apostolic Fathers (London:
+# Macmillan, 1891), English, as CCEL's ThML (printSourceInfo: the Baker Book
+# House reprint, 1956). Rights as read in the file 2026-10-02: DC.Rights
+# "Public Domain"; the head also carries the comment "Copyright Christian
+# Classics Ethereal Library" (CCEL's claim on its preparation); the file
+# states no non-commercial condition. Kept OUT of CCEL{} on purpose: it lands
+# in data/corpus/lightfoot/, not ccel/, so structure_texts.py does not also
+# build it as a generic paragraph book; pipeline/build_lightfoot.py builds it,
+# aligned to Lake's Greek (build_apostolic_fathers.py).
+LIGHTFOOT = {
+    "url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
+    "sha256": "bd5be3b8c8435787a48f402ba31ffae240ebb5ad09ef1efcab99e7471744a4f9",
+    "bytes": 612511,
+    "note": "Lightfoot & Harmer, The Apostolic Fathers (1891), English, CCEL ThML; PD",
+}
+
+
+def fetch_lightfoot():
+    """data/corpus/lightfoot/fathers.xml (skips a present file); hard stop on
+    a sha256 other than the pin."""
+    import hashlib
+    p = os.path.join(CORPUS, "lightfoot", "fathers.xml")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        req = urllib.request.Request(LIGHTFOOT["url"], headers=UA)
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != LIGHTFOOT["sha256"]:
+        raise RuntimeError(f"Lightfoot sha256 {got} != pinned {LIGHTFOOT['sha256']}")
+    return "1 file, sha256 pinned"
+
 # ---------------------------------------------------------------- Lexicons
 #
 # Reference works keyed by lemma rather than linear texts (structured by
@@ -567,6 +603,7 @@ def main():
         print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
         print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
         print(f"github/brenton: {BRENTON['repo']}@{BRENTON['commit'][:7]} -- {BRENTON['note']}")
+        print(f"ccel/lightfoot: {LIGHTFOOT['url']} -- {LIGHTFOOT['note']}")
         for slug, e in ENGLISH.items():
             print(f"github/{slug}: {ENGLISH_PIN['repo']}@{ENGLISH_PIN['commit'][:7]} -- "
                   f"{e['title']}; PD")
@@ -613,6 +650,10 @@ def main():
         print(f"github/brenton: {fetch_brenton()}")
     except Exception as e:
         failures.append("brenton"); print(f"github/brenton: FAIL {e}")
+    try:
+        print(f"ccel/lightfoot: {fetch_lightfoot()}")
+    except Exception as e:
+        failures.append("lightfoot"); print(f"ccel/lightfoot: FAIL {e}")
     for slug in ENGLISH:
         try:
             print(f"github/{slug}: {fetch_english(slug)}")
