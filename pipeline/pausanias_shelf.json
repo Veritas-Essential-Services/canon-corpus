@@ -1,5 +1,5 @@
 {
- "_about": "Pausanias, Description of Greece, translator per title. A. R. Shilleto (Bohn, 1886), 2 vols., clean Gutenberg. The 1824 second edition of the Taylor translation, vols. 1-2 (Books I-VI), raw IA OCR: the title page reads only 'translated from the Greek'; the attribution to Thomas Taylor is the library catalogue's. Margaret Verrall's translation of the Attica in Mythology and Monuments of Ancient Athens (1890, with Jane Harrison's commentary), raw IA OCR.",
+ "_about": "Pausanias, Description of Greece, translator per title. A. R. Shilleto (Bohn, 1886), 2 vols., clean Gutenberg. The 1824 second edition of the Taylor translation, vols. 1-3 (vol. 3 added 2026-10-02), raw IA OCR: the title page reads only 'translated from the Greek'; the attribution to Thomas Taylor is the library catalogue's. Margaret Verrall's translation of the Attica in Mythology and Monuments of Ancient Athens (1890, with Jane Harrison's commentary), raw IA OCR.",
  "_name_words": [
   "pausanias",
   "greece",
@@ -33,10 +33,14 @@
    "mythologymonume00pausgoog",
    "Mythology and Monuments of Ancient Athens: being a translation of a portion of the Attica of Pausanias (1890)",
    "tr. Margaret de G. Verrall; commentary Jane E. Harrison"
+  ],
+  "pausanias-taylor-v3": [
+   "descriptiongree00pausgoog",
+   "The Description of Greece by Pausanias, vol. 3 (2nd ed., 1824)",
+   "tr. Thomas Taylor (attributed by catalogue)"
   ]
  },
  "_excluded": {
-  "Taylor 1824 vol. 3 (Books VII-X)": "no scan identified; pending",
   "Frazer, Pausanias's Description of Greece (1898), vol. 1": "the only scan found (DLI) has an empty text layer; pending",
   "Jones, Loeb (1918-)": "Greek facing; pending"
  }

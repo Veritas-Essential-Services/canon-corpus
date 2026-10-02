@@ -461,8 +461,9 @@ Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Ed
 | Livy, vol. 1: Books I-II (Loeb, 1919) | B. O. Foster | `livy-foster-v1` | have-raw (IA `livy0000bofo_o9g8`) |
 | Livy, vol. 4: Books VIII-X (Loeb, 1926) | B. O. Foster | `livy-foster-v4` | have-raw (IA `livywithenglisht04livyuoft`) |
 | Livy, vol. 5: Books XXI-XXII (Loeb, 1929) | B. O. Foster | `livy-foster-v5` | have-raw (IA `livy05livy`) |
+| Livy, vol. 3: Books V-VII (Loeb, 1924) | B. O. Foster | `livy-foster-v3` | have-raw (IA `livywithenglisht0000bofo`) |
 
-Pending (wishlist): Philemon Holland (1600); Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused) and vol. 3 (1924).
+Pending (wishlist): Philemon Holland (1600); Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused).
 
 ## Julius Caesar
 
@@ -688,6 +689,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | De Senectute, De Amicitia, De Divinatione (Loeb, 1923) | W. A. Falconer | `cicero-falconer-senectute-amicitia-divinatione` | have-raw (IA `cicerodesenectut0000will_n8p4`) |
 | Philippics (Loeb, 1926) | Walter C. A. Ker | `cicero-ker-philippics` | have-raw (IA `philippics00ciceuoft`) |
 | The Verrine Orations, vol. 1 (Loeb, 1928) | L. H. G. Greenwood | `cicero-greenwood-verrines-v1` | have-raw (IA `ciceroverrineora0001unse`) |
+| De Re Publica, De Legibus (Loeb, 1928) | Clinton Walker Keyes | `cicero-keyes-de-re-publica-de-legibus` | have-raw (IA `derepublicadeleg0000cice_k7o1`) |
 
 Pending (wishlist): De Officiis (Cockman, Edmonds, Miller); Winstedt's Letters to Atticus (Loeb, Latin facing); Watson's Bohn De Oratore.
 
@@ -901,8 +903,9 @@ Shelf: `pipeline/pausanias_shelf.json`. Shilleto (Gutenberg); Taylor 1824 vols. 
 | The Description of Greece by Pausanias, vol. 1 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v1` | have-raw (IA `descriptiongree07pausgoog`) |
 | The Description of Greece by Pausanias, vol. 2 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v2` | have-raw (IA `descriptiongree06pausgoog`) |
 | Mythology and Monuments of Ancient Athens: being a translation of a portion of the Attica of Pausanias (1890) | Margaret de G. Verrall; commentary Jane E. Harrison | `pausanias-attica-verrall` | have-raw (IA `mythologymonume00pausgoog`) |
+| The Description of Greece by Pausanias, vol. 3 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v3` | have-raw (IA `descriptiongree00pausgoog`) |
 
-Pending (wishlist): Taylor 1824 vol. 3; Frazer 1898 vol. 1 (no usable scan); Jones Loeb (Greek facing)
+Pending (wishlist): Frazer 1898 vol. 1 (no usable scan); Jones Loeb (Greek facing)
 
 ## Strabo
 

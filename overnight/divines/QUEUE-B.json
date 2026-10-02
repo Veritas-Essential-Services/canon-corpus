@@ -209,8 +209,11 @@
     },
     {
       "id": "pending-volumes-hunt",
-      "status": "todo",
-      "scope": "Re-search IA for the missing volumes recorded as pending: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Taylor Pausanias v3, Frazer Pausanias v1"
+      "status": "done",
+      "scope": "Re-search IA for the missing volumes recorded as pending: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Taylor Pausanias v3, Frazer Pausanias v1",
+      "started": "2026-10-02T16:48:49-05:00",
+      "finished": "2026-10-02T16:50:29-05:00",
+      "notes": "found Livy v3, Taylor Pausanias v3, Keyes De Re Publica; still missing: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Frazer Pausanias v1, Nixon Plautus v2, Bennett Horace Odes"
     }
   ]
 }
