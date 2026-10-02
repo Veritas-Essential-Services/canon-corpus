@@ -53,6 +53,33 @@ def tei_meta(root):
             (author.text or "?") if author is not None else "?",
             (transl.text or "").strip() if transl is not None else "")
 
+def perseus_rights(root):
+    """The rights block every Perseus-derived book carries. The translations
+    are PD; Perseus's TEI, and any modernizing of the wording it did (the
+    title says when), are CC BY-SA 4.0 -- share-alike. The licence is read
+    from the file where the file states one; the repository (greekLit or
+    latinLit) is read from the file's own CTS urn."""
+    T = "{http://www.tei-c.org/ns/1.0}"
+    lic = root.find(f".//{T}publicationStmt//{T}licence")
+    body = root.find(f".//{T}body")
+    base = (body.get("{http://www.w3.org/XML/1998/namespace}base") or "") if body is not None else ""
+    if not base:
+        d = root.find(f".//{T}body/{T}div")
+        base = (d.get("n") or "") if d is not None else ""
+    repo = "canonical-latinLit" if ":latinLit:" in base else "canonical-greekLit"
+    return {"license": "CC BY-SA 4.0",
+            "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
+            "source_url": f"https://github.com/PerseusDL/{repo}",
+            "redistribute_whole": True,
+            "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
+                     if lic is not None else
+                     "this file states no licence; the repository's licence is CC BY-SA 4.0")
+                    + ". The translation itself is public domain; the TEI, and any "
+                      "modernizing of the wording Perseus did (the title says when), are "
+                      "share-alike: a derivative must credit Perseus and carry the same "
+                      "licence."}
+
+
 def convert_tei(path, slug, abbrev):
     """Books contain either 'card' divs (prose keyed to original lineation)
     or <l> lines (verse). Units: card, or 20-line block."""
@@ -96,6 +123,7 @@ def convert_tei(path, slug, abbrev):
                        "translator": transl, "sha256": sha256(path)},
             "scheme": {"citation": f"{abbrev} book.line", "resolution": mode,
                        "honesty": honesty},
+            "rights": perseus_rights(root),
             "units": units}
 
 # Perseus drama: Greek plays in prose translation, marked up as <sp> speeches
@@ -273,7 +301,6 @@ def convert_tei_drama(path, slug, abbrev):
         for k, v in (("stage", pending_stage), ("notes", pending_notes), ("sic", pending_sic)):
             if v:
                 units[-1]["drama"].setdefault(k, []).extend(v)
-    lic = root.find(f".//{T}publicationStmt//{T}licence")
     nnotes = sum(len(u["drama"].get("notes", [])) for u in units)
     book = {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
@@ -292,22 +319,7 @@ def convert_tei_drama(path, slug, abbrev):
                                f"lifted out of the spoken text into drama.notes"
                                + (f"; the cast list is under dramatis_personae ({len(personae)})"
                                   if personae else "") + "."},
-            # The translation is PD; Perseus's TEI, and its modernizing of the
-            # wording ("Modernized by Perseus"), are CC BY-SA. The licence is
-            # read from the file where the file states one.
-            "rights": {"license": "CC BY-SA 4.0",
-                       "attribution": "Perseus Digital Library, Tufts University "
-                                      "(PerseusDL/canonical-greekLit)",
-                       "source_url": "https://github.com/PerseusDL/canonical-greekLit",
-                       "redistribute_whole": True,
-                       "note": ("licence line read from this file: "
-                                + clean("".join(lic.itertext())) if lic is not None else
-                                "this file states no licence; the repository's licence is "
-                                "CC BY-SA 4.0")
-                               + ". The translation itself is public domain; the TEI, and "
-                                 "any modernizing of the wording Perseus did (the title "
-                                 "says when), are share-alike: a derivative must credit "
-                                 "Perseus and carry the same licence."},
+            "rights": perseus_rights(root),
             "units": units}
     if personae:
         book["dramatis_personae"] = personae

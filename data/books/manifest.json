@@ -21,6 +21,13 @@
    "citation": "Aen. book.line",
    "resolution": "cards",
    "honesty": "cards anchored to original-language line numbers; prose translation, so refs are line-block anchors, not exact lines"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "iliad-butler": {
@@ -33,6 +40,13 @@
    "citation": "Il. book.line",
    "resolution": "cards",
    "honesty": "cards anchored to original-language line numbers; prose translation, so refs are line-block anchors, not exact lines"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "odyssey-eng4": {
@@ -45,6 +59,13 @@
    "citation": "Od. book.line",
    "resolution": "cards",
    "honesty": "cards anchored to original-language line numbers; prose translation, so refs are line-block anchors, not exact lines"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  },
  "bunyan-holy_war": {

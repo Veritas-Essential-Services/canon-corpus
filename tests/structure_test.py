@@ -234,6 +234,20 @@ check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
 
+# ------------------------------------------------- Perseus rights (all TEI)
+_R_FIX = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>
+<title>Aeneid</title><author>Virgil</author><editor role="translator">T. C. Williams</editor>
+</titleStmt></fileDesc></teiHeader><text><body xml:base="urn:cts:latinLit:phi0690.phi003.perseus-eng2">
+<div type="textpart" subtype="book" n="1"><l n="1">Arms and the man I sing.</l></div></body></text></TEI>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(_R_FIX); _r_path = f.name
+_rb = st.convert_tei(_r_path, "aeneid-fixture", "Aen.")
+check("perseus: the epic converter carries the share-alike rights block too, repo read from the urn",
+      _rb["rights"]["license"] == "CC BY-SA 4.0"
+      and _rb["rights"]["source_url"].endswith("canonical-latinLit")
+      and "states no licence" in _rb["rights"]["note"])
+os.unlink(_r_path)
+
 # ---------------------------------------------------------- Perseus drama
 DRAMA_FIX = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>
 <title>Fixture Play</title><author>Sophocles</author><editor role="translator">Richard Jebb</editor>
