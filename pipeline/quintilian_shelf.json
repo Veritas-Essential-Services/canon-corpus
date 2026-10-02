@@ -1,0 +1,36 @@
+{
+ "_about": "Quintilian, Institutio Oratoria, in H. E. Butler's Loeb translation (1920-22), 4 vols., raw IA OCR; Latin facing. Each volume identified by its Books (I-III, IV-VI, VII-IX, X-XII).",
+ "_name_words": [
+  "quintilian",
+  "institutio",
+  "oratoria"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "quintilian-butler-v1": [
+   "institutioorator00quin",
+   "The Institutio Oratoria of Quintilian, vol. 1: Books I-III",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v2": [
+   "institutioorator02quin",
+   "The Institutio Oratoria of Quintilian, vol. 2: Books IV-VI",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v3": [
+   "institutioorator03quinuoft",
+   "The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX",
+   "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v4": [
+   "institutioorator04quinuoft",
+   "The Institutio Oratoria of Quintilian, vol. 4: Books X-XII",
+   "tr. H. E. Butler"
+  ]
+ },
+ "_excluded": {
+  "Watson, Bohn (1856)": "no scan located; pending",
+  "institutioorator01quinuoft, institutioorator02quinuoft": "no text layer"
+ }
+}
