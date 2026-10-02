@@ -153,3 +153,9 @@
 
 ## 2026-10-02 16:49 CDT — colum: done
 - 7/7 fetched (Gutenberg 3495, 16867, 24493, 53252, 24737, 37881, 69724), 6,414 units, 2 ~2 ids (Odysseus front matter). King of Ireland's Son, Odysseus, Gateways nested; Golden Fleece by its own Contents. 2395 left out as the older transcription of 37881.
+
+## 2026-10-02 16:57 CDT — audit-5: done
+- §5 lane-wide audit, written up in `AUDIT-D.md` and summarised in DIGEST-D. 497 URLs over 29 shelves resolve (4 transient failures answered on retry); every slug is in the map. No source id is held twice in the repo. About a dozen books are reprinted inside another Lane D volume (text-measured). The IA Hunt Grimm (1884) duplicates the PG Hunt. Raw OCR: 43 A, 11 B. `macdonald-for-the-right` was removed: Franzos's novel, tr. Julie Sutter, MacDonald's preface only. Five Andersen rows name no translator; listed for Adam.
+
+## 2026-10-02 16:57 CDT — session end (fifth run)
+- Relay 5 done. Spot-check of the Chesterton zero sent to the upkeep thread; DIGEST item 2 corrected (99 truncated headings, 68 missed, not 1,229). Five folk-tale shelves added: jacobs-fairy (6), dasent (2), ralston (1), perrault (3), colum (7), 22,935 units. convert_nested.py gained opt-in per-level `strip` and `max`. Lock released. Queue: 34/34 done.

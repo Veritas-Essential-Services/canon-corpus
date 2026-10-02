@@ -220,13 +220,6 @@
    8955,
    "Far Above Rubies (1898)"
   ],
-  "macdonald-for-the-right": [
-   36904,
-   "For the Right (1888)",
-   {
-    "contents_only": true
-   }
-  ],
   "macdonald-light-princess-other-stories": [
    18811,
    "The Light Princess and Other Fairy Stories (collection)",
@@ -291,6 +284,7 @@
   "macdonald-ccel-salted": "CCEL `salted`: a second CCEL copy of Salted with Fire; `saltedfire` held",
   "macdonald-ccel-unspoken": "CCEL `unspoken`: a 3.6 KB series index, not a text",
   "macdonald-imagination-essays": "The Imagination and Other Essays (Boston, 1883): the essays of A Dish of Orts (held)",
-  "macdonald-anthologies": "Selections and anthologies by other hands (Beautiful Thoughts, Cheerful Words, Fairy Tales Every Child Should Know, The Golden Key 1906 reprint, The Cruel Painter extract)"
+  "macdonald-anthologies": "Selections and anthologies by other hands (Beautiful Thoughts, Cheerful Words, Fairy Tales Every Child Should Know, The Golden Key 1906 reprint, The Cruel Painter extract)",
+  "macdonald-introduction-only": "For the Right (PG 36904, 1888): a novel by Karl Emil Franzos, tr. Julie Sutter; MacDonald wrote only the preface. Held on this shelf by mistake until the 2026-10-02 lane audit found it (and its translator unrecorded); removed. It belongs on a Franzos shelf, if anywhere"
  }
 }

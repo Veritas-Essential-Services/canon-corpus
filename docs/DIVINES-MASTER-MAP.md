@@ -2430,7 +2430,7 @@ Shelf: `pipeline/macdonald_shelf.json` (2026-10-02; added at the coordinator's r
 | The Flight of the Shadow (1891) | have | PG 8902, `macdonald-flight-of-the-shadow` (1236 units) |
 | A Rough Shaking (1891) | have | PG 8886, `macdonald-rough-shaking` (2387 units) |
 | Far Above Rubies (1898) | have | PG 8955, `macdonald-far-above-rubies` (298 units) |
-| For the Right (1888) | have | PG 36904, `macdonald-for-the-right` (2333 units) |
+| For the Right (1888) | not taken | PG 36904: a novel by K. E. Franzos, tr. Julie Sutter, with MacDonald's preface only; removed by the 2026-10-02 audit |
 | The Light Princess and Other Fairy Stories (collection) | have | PG 18811, `macdonald-light-princess-other-stories` (839 units) |
 | A Dish of Orts: Chiefly Papers on the Imagination, and on Shakespeare (1893) | have | PG 9393, `macdonald-dish-of-orts` (694 units) |
 | England's Antiphon (1868), an anthology of English religious verse with MacDonald's commentary | have | PG 10375, `macdonald-englands-antiphon` (1698 units) |

@@ -263,8 +263,11 @@
     },
     {
       "id": "audit-5",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — §5 lane-wide quality audit: duplicates across shelves, OCR quality per raw volume, missing translator credits; written up in DIGEST-D"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — §5 lane-wide quality audit: duplicates across shelves, OCR quality per raw volume, missing translator credits; written up in DIGEST-D",
+      "started": "2026-10-02T16:53:19-05:00",
+      "notes": "Audit written to overnight/divines/AUDIT-D.md and summarised in DIGEST-D: 497 URLs resolve, map complete; no source held twice; ~a dozen reprint containments; Hunt Grimm 1884 IA duplicates the PG Hunt; OCR 43 A / 11 B; macdonald-for-the-right removed (Franzos, tr. Sutter); five Andersen rows lack translators (for Adam).",
+      "finished": "2026-10-02T16:57:30-05:00"
     }
   ]
 }
