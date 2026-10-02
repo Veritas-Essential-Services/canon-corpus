@@ -259,7 +259,8 @@ PROSE_FIX = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><ti
 <placeName key="tgn,7016142">Halicarnassus</placeName></name> here sets forth.</p></div>
 <div type="textpart" subtype="section" n="1"><p>The &lt;Pisidians&gt; came from the sea called
 Red,<note resp="ed">Not the modern one.</note> and settled.
-<quote><l><q>There is a love that makes men virtuous</q></l><l><q>And chaste</q></l></quote></p></div>
+<quote><l><q>There is a love that makes men virtuous</q></l><l><q>And chaste</q></l></quote>
+His ship and<gap reason="lost"/>his crew.</p></div>
 </div></div></div></body></text></TEI>"""
 with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
     f.write(PROSE_FIX); pr_path = f.name
@@ -275,6 +276,8 @@ check("prose: an editor's literal <angle brackets> are words, not a tag to strip
       pu[1]["text"].startswith("The <Pisidians> came"))
 check("prose: two verse lines the TEI runs together are never welded into one word",
       "virtuous And chaste" in pu[1]["text"])
+check("prose: a lacuna separates words and is flagged, never filled",
+      "and his crew." in pu[1]["text"] and pu[1]["apparatus"]["gap"] is True)
 check("prose: footnote lifted out; a heading between divisions rides on the next unit",
       pu[1]["apparatus"]["notes"] == [{"by": "ed", "text": "Not the modern one."}]
       and pu[0]["apparatus"]["head"] == ["Book One"] and "Not the modern" not in pu[1]["text"])

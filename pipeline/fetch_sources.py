@@ -420,6 +420,35 @@ PERSEUS = {
     "strabo-geography-hamilton": ("canonical-greekLit",
         "tlg0099/tlg001/tlg0099.tlg001.perseus-eng4.xml",
         "Strabo, Geography — H. C. Hamilton & W. Falconer 1854-57 (PD); urn ...tlg0099.tlg001.perseus-eng4"),
+    # Mythography, philosophers' lives, Stoics, an orator. 2026-10-02.
+    # Rights line read per file. PD in the US and in life+70 countries:
+    # Frazer (1921, d. 1941), Hicks (1925, d. 1929), Higginson (1890,
+    # d. 1911), C. D. Adams (1919, d. 1938; Perseus keyed it from the 1958
+    # reprint of the 1919 Loeb, which adds no new translation).
+    "apollodorus-library-frazer": ("canonical-greekLit",
+        "tlg0548/tlg001/tlg0548.tlg001.perseus-eng2.xml",
+        "Apollodorus, Library — J. G. Frazer 1921 (PD); urn ...tlg0548.tlg001.perseus-eng2"),
+    "apollodorus-epitome-frazer": ("canonical-greekLit",
+        "tlg0548/tlg002/tlg0548.tlg002.perseus-eng2.xml",
+        "Apollodorus, Epitome — J. G. Frazer 1921 (PD); urn ...tlg0548.tlg002.perseus-eng2"),
+    "diogenes-laertius-lives-hicks": ("canonical-greekLit",
+        "tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+        "Diogenes Laertius, Lives of Eminent Philosophers — R. D. Hicks 1925 (PD); urn ...tlg0004.tlg001.perseus-eng2"),
+    "epictetus-discourses-higginson": ("canonical-greekLit",
+        "tlg0557/tlg001/tlg0557.tlg001.perseus-eng4.xml",
+        "Epictetus, Discourses — T. W. Higginson 1890 (PD); urn ...tlg0557.tlg001.perseus-eng4"),
+    "epictetus-handbook-higginson": ("canonical-greekLit",
+        "tlg0557/tlg002/tlg0557.tlg002.perseus-eng4.xml",
+        "Epictetus, Handbook (Enchiridion) — T. W. Higginson 1890 (PD); urn ...tlg0557.tlg002.perseus-eng4"),
+    "aeschines-timarchus-adams": ("canonical-greekLit",
+        "tlg0026/tlg001/tlg0026.tlg001.perseus-eng2.xml",
+        "Aeschines, Against Timarchus — C. D. Adams 1919 (PD); urn ...tlg0026.tlg001.perseus-eng2"),
+    "aeschines-embassy-adams": ("canonical-greekLit",
+        "tlg0026/tlg002/tlg0026.tlg002.perseus-eng2.xml",
+        "Aeschines, On the Embassy — C. D. Adams 1919 (PD); urn ...tlg0026.tlg002.perseus-eng2"),
+    "aeschines-ctesiphon-adams": ("canonical-greekLit",
+        "tlg0026/tlg003/tlg0026.tlg003.perseus-eng2.xml",
+        "Aeschines, Against Ctesiphon — C. D. Adams 1919 (PD); urn ...tlg0026.tlg003.perseus-eng2"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).

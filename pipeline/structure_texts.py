@@ -130,7 +130,7 @@ TEI_NS = "{http://www.tei-c.org/ns/1.0}"
 
 
 TEI_BLOCKS = {TEI_NS + t for t in ("l", "lg", "p", "div", "head", "item", "list",
-                                   "quote", "sp", "speaker", "ab")}
+                                   "quote", "sp", "speaker", "ab", "gap")}
 
 
 def tei_pieces(e, _parent=None):
@@ -299,6 +299,14 @@ TEI_PROSE = {
     "josephus-against-apion-whiston": "Joseph. Ap.",
     "josephus-jewish-war-whiston": "Joseph. BJ",
     "strabo-geography-hamilton": "Strab.",
+    "apollodorus-library-frazer": "Apollod.",
+    "apollodorus-epitome-frazer": "Apollod. Epit.",
+    "diogenes-laertius-lives-hicks": "Diog. Laert.",
+    "epictetus-discourses-higginson": "Epict. Diss.",
+    "epictetus-handbook-higginson": "Epict. Ench.",
+    "aeschines-timarchus-adams": "Aeschin. 1",
+    "aeschines-embassy-adams": "Aeschin. 2",
+    "aeschines-ctesiphon-adams": "Aeschin. 3",
 }
 RE_TGN = re.compile(r"tgn,(\d+)")
 
@@ -336,6 +344,8 @@ def convert_tei_prose(path, slug, abbrev):
                 app["notes"] = notes; nnotes += len(notes)
             if sic:
                 app["sic"] = sic
+            if e.find(f".//{T}gap") is not None:
+                app["gap"] = True               # a lacuna: flagged, never filled
             if text:
                 u = {"id": f"{slug}:{ref}", "ref": f"{abbrev} {ref}", "text": text,
                      "links": links}
