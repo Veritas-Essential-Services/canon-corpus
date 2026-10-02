@@ -1067,6 +1067,15 @@ Shelf: `pipeline/spyri_shelf.json` (2026-10-02; added at the coordinator's relay
 | spyri-heidi-abbott | excluded | Heidi tr. Mabel Abbott (PG 46409, 1927): a third translation of the same book; US public domain, held back only to keep the shelf small |
 | spyri-other | excluded | her other translated stories (Toni, Veronica, Gritli's Children, Maezli, Vinzi, Dora and others, each with its translator named in the catalog): candidates for a later batch |
 
+## Anna Sewell
+
+Shelf: `pipeline/sewell_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Black Beauty, cut by its own Contents. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Black Beauty (1877) | have | PG 271, `sewell-black-beauty` (925 units) |
+| sewell-young-folks | excluded | Black Beauty, Young Folks' Edition (PG 11860): an adaptation |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

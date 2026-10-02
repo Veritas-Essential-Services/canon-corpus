@@ -421,7 +421,9 @@
     {
       "id": "sewell",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Anna Sewell's Black Beauty; children's classics batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T17:29:36-05:00",
+      "notes": "1/1 fetched (Gutenberg 271), 925 units, 0 ~2 ids."
     },
     {
       "id": "dodge",
