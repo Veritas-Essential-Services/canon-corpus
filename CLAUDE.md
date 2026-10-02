@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 131 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 133 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -163,6 +163,8 @@ The living truth for project state is the Obsidian vault:
   as `edition.shuckburgh`; a split letter keeps its section range in the id
   (12.5.1-2); a citation his heads print twice gets `~s<number>`; the
   Quintus letters, copied three times across the files, are built once.
+  Lucian, 63 pieces (H. W. & F. G. Fowler, 1905), one book per piece
+  (`lucian-verae-historiae-fowler`, ref "Lucian Verae historiae 1.1").
   convert_tei_prose: one unit per innermost textpart div, id = born-in
   book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
   Footnotes under `apparatus.notes`, headings between divisions under

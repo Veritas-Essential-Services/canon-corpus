@@ -828,5 +828,13 @@ check("letters: beta-code Greek is Unicode in the letter",
 check("weld: Greek tagged straight after an English word is a new word",
       "of συμπόσια here" in _lu["att:2.1"]["text"])
 
+# Lucian and Appian (2026-10-02): a speaker label and a tagged number with
+# no space before the next word.
+_lbl = st.tei_split(st.ET.fromstring(
+    '<p xmlns="http://www.tei-c.org/ns/1.0"><label>Pamphilus</label>True, indeed! He slew'
+    '<date when="1500">1500</date>, and <label>A</label>s</p>'))[0]
+check("weld: a speaker label is its own word", _lbl.startswith("Pamphilus True, indeed!"))
+check("weld: a number tagged straight after a word is its own word", "slew 1500," in _lbl)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

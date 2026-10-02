@@ -167,7 +167,9 @@ TEI_BLOCKS = {TEI_NS + t for t in ("l", "lg", "p", "div", "head", "item", "list"
 # markup split off ("Cyru</persName>s", "Alexandria</
 # placeName>n") and stays joined. Measured on every Perseus book here.
 TEI_NAMES = {TEI_NS + t for t in ("persName", "placeName", "name", "rs", "orgName",
-                                   "foreign")}
+                                   "foreign", "label")}
+# A number tagged straight after a word: "slew<date>1500</date>" (Appian).
+TEI_NUMBERS = {TEI_NS + t for t in ("date", "num")}
 RE_NAME_WELD = re.compile(r"(?:[A-Za-z]{2,}|I)\b")
 
 
@@ -263,6 +265,9 @@ def tei_split(el):
             # συμπόσια") is a new word: the script changes, the word does too.
             elif (c.tag == T + "foreign" and "\u0370" <= (c.text or " ")[0] <= "\u1fff"
                   and last()[-1:].isascii() and last()[-1:].isalnum()):
+                parts.append(" ")
+            elif (c.tag in TEI_NUMBERS and (c.text or " ")[0].isdigit()
+                  and last()[-1:].isascii() and last()[-1:].isalpha()):
                 parts.append(" ")
             walk(c, e.tag)
             prev = c
@@ -414,6 +419,69 @@ TEI_PROSE = {
     "vitruvius-architecture-morgan": "Vitr.",
     "quintilian-institutio-butler": "Quint. Inst.",
     "seneca-apocolocyntosis-rouse": "Sen. Apoc.",
+    "lucian-phalaris-fowler": "Lucian Phalaris",
+    "lucian-bacchus-fowler": "Lucian Bacchus",
+    "lucian-hercules-fowler": "Lucian Hercules",
+    "lucian-electrum-fowler": "Lucian Electrum",
+    "lucian-muscae-encomium-fowler": "Lucian Muscae Encomium",
+    "lucian-nigrinus-fowler": "Lucian Nigrinus",
+    "lucian-demonax-fowler": "Lucian Demonax",
+    "lucian-de-domo-fowler": "Lucian De Domo",
+    "lucian-patriae-encomium-fowler": "Lucian Patriae encomium",
+    "lucian-verae-historiae-fowler": "Lucian Verae historiae",
+    "lucian-calumniae-non-temere-credundum-fowler": "Lucian Calumniae non temere credundum",
+    "lucian-judicium-vocalium-fowler": "Lucian Judicium vocalium",
+    "lucian-symposium-fowler": "Lucian Symposium",
+    "lucian-cataplus-fowler": "Lucian Cataplus",
+    "lucian-juppiter-confutatus-fowler": "Lucian Juppiter Confutatus",
+    "lucian-juppiter-tragoedus-fowler": "Lucian Juppiter Tragoedus",
+    "lucian-gallus-fowler": "Lucian Gallus",
+    "lucian-prometheus-fowler": "Lucian Prometheus",
+    "lucian-icaromenippus-fowler": "Lucian Icaromenippus",
+    "lucian-timon-fowler": "Lucian Timon",
+    "lucian-contemplantes-fowler": "Lucian Contemplantes",
+    "lucian-vitarum-auctio-fowler": "Lucian Vitarum auctio",
+    "lucian-piscator-fowler": "Lucian Piscator",
+    "lucian-bis-accusatus-sive-tribunalia-fowler": "Lucian Bis accusatus sive tribunalia",
+    "lucian-de-sacrificiis-fowler": "Lucian De Sacrificiis",
+    "lucian-adversus-indoctum-et-libros-multos-ementem-fowler": "Lucian Adversus indoctum et libros multos ementem",
+    "lucian-somnium-sive-vita-luciani-fowler": "Lucian Somnium sive vita Luciani",
+    "lucian-de-parasito-sive-artem-esse-parasiticam-fowler": "Lucian De parasito sive artem esse parasiticam",
+    "lucian-philopseudes-sive-incredulus-fowler": "Lucian Philopseudes sive incredulus",
+    "lucian-de-mercede-fowler": "Lucian De mercede",
+    "lucian-anacharsis-fowler": "Lucian Anacharsis",
+    "lucian-necyomantia-fowler": "Lucian Necyomantia",
+    "lucian-de-luctu-fowler": "Lucian De luctu",
+    "lucian-rhetorum-praeceptor-fowler": "Lucian Rhetorum praeceptor",
+    "lucian-alexander-fowler": "Lucian Alexander",
+    "lucian-imagines-fowler": "Lucian Imagines",
+    "lucian-pro-imaginibus-fowler": "Lucian Pro imaginibus",
+    "lucian-de-morte-peregrini-fowler": "Lucian De Morte Peregrini",
+    "lucian-fugitivi-fowler": "Lucian Fugitivi",
+    "lucian-toxaris-vel-amicitia-fowler": "Lucian Toxaris vel amicitia",
+    "lucian-de-saltatione-fowler": "Lucian De saltatione",
+    "lucian-lexiphanes-fowler": "Lucian Lexiphanes",
+    "lucian-deorum-concilium-fowler": "Lucian Deorum concilium",
+    "lucian-tyrannicida-fowler": "Lucian Tyrannicida",
+    "lucian-abdicatus-fowler": "Lucian Abdicatus",
+    "lucian-quomodo-historia-conscribenda-sit-fowler": "Lucian Quomodo historia conscribenda sit",
+    "lucian-dipsades-fowler": "Lucian Dipsades",
+    "lucian-saturnalia-fowler": "Lucian Saturnalia",
+    "lucian-herodotus-fowler": "Lucian Herodotus",
+    "lucian-zeuxis-fowler": "Lucian Zeuxis",
+    "lucian-pro-lapsu-inter-salutandum-fowler": "Lucian Pro lapsu inter salutandum",
+    "lucian-apologia-fowler": "Lucian Apologia",
+    "lucian-harmonides-fowler": "Lucian Harmonides",
+    "lucian-hesiod-fowler": "Lucian Hesiod",
+    "lucian-scytha-fowler": "Lucian Scytha",
+    "lucian-hermotimus-fowler": "Lucian Hermotimus",
+    "lucian-prometheus-es-in-verbis-fowler": "Lucian Prometheus es in verbis",
+    "lucian-navigium-fowler": "Lucian Navigium",
+    "lucian-dialogi-mortuorum-fowler": "Lucian Dialogi mortuorum",
+    "lucian-dialogi-marini-fowler": "Lucian Dialogi Marini",
+    "lucian-dialogi-deorum-fowler": "Lucian Dialogi deorum",
+    "lucian-dialogi-meretricii-fowler": "Lucian Dialogi meretricii",
+    "lucian-soleocista-fowler": "Lucian Soleocista",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
