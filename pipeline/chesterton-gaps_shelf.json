@@ -1,0 +1,22 @@
+{
+ "_about": "G. K. Chesterton (1874-1936): the five books first published 1926-1928 that pipeline/fetch_sources.py lists as DEFERRED because they are on neither CCEL nor Gutenberg. The other 61 Chesterton works are already held through fetch_sources.py (CHESTERTON_CCEL and the Gutenberg Chesterton entries) and are cross-referenced, not refetched. These are raw Internet Archive OCR (the Edwards precedent), unconverted. Pre-1929 only, as the relay asked: the 1929 and 1930 books are US public domain too and are listed as pending. Each scan is a pre-1930 printing, so US public domain; Chesterton died in 1936, so life+70 and life+80 countries differ.",
+ "_author": "G. K. Chesterton",
+ "_name_words": [
+  "chesterton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chesterton-incredulity-of-father-brown": ["incredulityoffat0000ches", "The Incredulity of Father Brown (1926; New York: Dodd, Mead, 1926)"],
+  "chesterton-outline-of-sanity": ["outlineofsanity0000ches", "The Outline of Sanity (1926; New York: Dodd, Mead, 1927)"],
+  "chesterton-return-of-don-quixote": ["returnofdonquixo0000ches_i3m2", "The Return of Don Quixote (1927; New York: Dodd, Mead, 1927)"],
+  "chesterton-robert-louis-stevenson": ["robertlouissteve0000ches", "Robert Louis Stevenson (1927; London: Hodder and Stoughton, 1927)"],
+  "chesterton-generally-speaking": ["generallyspeakin00ches", "Generally Speaking: A Book of Essays (1928; New York: Dodd, Mead, 1929)"]
+ },
+ "_excluded": {
+  "chesterton-held": "HELD elsewhere: the 61 works in pipeline/fetch_sources.py (CHESTERTON_CCEL and the Gutenberg Chesterton entries); not refetched",
+  "chesterton-1929-1930": "PENDING, outside the relay's pre-1929 limit though US public domain since 2025-2026: The Thing (1929), The Poet and the Lunatics (1929), Four Faultless Felons (1930), The Resurrection of Rome (1930), Come to Think of It (1930)",
+  "chesterton-not-pd": "1931 and later (Autobiography, The Well and the Shallows, Chaucer, The Scandal of Father Brown, St. Thomas Aquinas and the rest): not yet US public domain",
+  "chesterton-other-scans": "other scans of the same books (DLI copies 404 on the text file; later reprints of 1937 and 1953; the 1906 Robert Louis Stevenson booklet with W. Robertson Nicoll is a different work)"
+ }
+}

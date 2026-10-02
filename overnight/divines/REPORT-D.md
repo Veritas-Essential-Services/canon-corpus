@@ -78,3 +78,6 @@
 
 ## 2026-10-02 16:05 CDT — stevenson: done
 - 45/45 fetched (Gutenberg), 0 copyright markers; 34,834 units. Treasure Island cross-referenced to fetch_sources.py (PG 120), not refetched. New convert_shelf_gutenberg option sub (essay > numbered section). Letters cite recipient + place/date line; plays by play/act/tableau/scene. Swanston Edition pending. No uids minted; not in manifest.
+
+## 2026-10-02 16:08 CDT — chesterton-gaps: done
+- 5/5 fetched as raw IA OCR (all title words found; scans dated 1926-1929). Incredulity of Father Brown, Outline of Sanity, Return of Don Quixote, Robert Louis Stevenson, Generally Speaking (the 1929 US printing of a 1928 book). The 61 held works cross-referenced; 1929-1930 books pending. No uids minted; not in manifest.

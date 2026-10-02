@@ -515,6 +515,22 @@ Shelf: `pipeline/stevenson_shelf.json` (2026-10-02; added at the coordinator's r
 | stevenson-not-his | excluded | anthologies with other authors (PG 2038, 2071, 2359, 2588, 10135, 12732, 21964, 59813), books about him (15547, 53165, 79196), Porto Bello Gold by A. D. H. Smith (70777), Widger's index (58181) |
 | stevenson-translations | excluded | non-English editions: this shelf is Stevenson's English |
 
+## G. K. Chesterton (the 1926-1928 gaps)
+
+Shelf: `pipeline/chesterton-gaps_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The five books fetch_sources.py deferred because neither CCEL nor Gutenberg has them, now held as raw Internet Archive OCR. The other 61 Chesterton works are already held through fetch_sources.py and are not refetched. Generally Speaking is the 1929 Dodd, Mead first American printing (copyright 1929), which is US public domain now; the relay's pre-1929 limit is read as first publication (London, 1928). The 1929-1930 books are listed as pending. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Incredulity of Father Brown (1926; New York: Dodd, Mead, 1926) | have-raw | IA `incredulityoffat0000ches`, `chesterton-incredulity-of-father-brown` |
+| The Outline of Sanity (1926; New York: Dodd, Mead, 1927) | have-raw | IA `outlineofsanity0000ches`, `chesterton-outline-of-sanity` |
+| The Return of Don Quixote (1927; New York: Dodd, Mead, 1927) | have-raw | IA `returnofdonquixo0000ches_i3m2`, `chesterton-return-of-don-quixote` |
+| Robert Louis Stevenson (1927; London: Hodder and Stoughton, 1927) | have-raw | IA `robertlouissteve0000ches`, `chesterton-robert-louis-stevenson` |
+| Generally Speaking: A Book of Essays (1928; New York: Dodd, Mead, 1929) | have-raw | IA `generallyspeakin00ches`, `chesterton-generally-speaking` |
+| chesterton-held | excluded | HELD elsewhere: the 61 works in pipeline/fetch_sources.py (CHESTERTON_CCEL and the Gutenberg Chesterton entries); not refetched |
+| chesterton-1929-1930 | pending | PENDING, outside the relay's pre-1929 limit though US public domain since 2025-2026: The Thing (1929), The Poet and the Lunatics (1929), Four Faultless Felons (1930), The Resurrection of Rome (1930), Come to Think of It (1930) |
+| chesterton-not-pd | excluded | 1931 and later (Autobiography, The Well and the Shallows, Chaucer, The Scandal of Father Brown, St. Thomas Aquinas and the rest): not yet US public domain |
+| chesterton-other-scans | excluded | other scans of the same books (DLI copies 404 on the text file; later reprints of 1937 and 1953; the 1906 Robert Louis Stevenson booklet with W. Robertson Nicoll is a different work) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -131,8 +131,11 @@
     },
     {
       "id": "chesterton-gaps",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — G. K. Chesterton, pre-1929 only: the repo ALREADY holds 61 works (fetch_sources.py CHESTERTON_*); this item only fills the gaps that file lists as deferred (1926-1928 books), cross-referencing the rest; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — G. K. Chesterton, pre-1929 only: the repo ALREADY holds 61 works (fetch_sources.py CHESTERTON_*); this item only fills the gaps that file lists as deferred (1926-1928 books), cross-referencing the rest; no minting",
+      "started": "2026-10-02T16:06:12-05:00",
+      "finished": "2026-10-02T16:08:04-05:00",
+      "notes": "5/5 fetched as raw IA OCR (all title words found; scans dated 1926-1929). Incredulity of Father Brown, Outline of Sanity, Return of Don Quixote, Robert Louis Stevenson, Generally Speaking (the 1929 US printing of a 1928 book). The 61 held works cross-referenced; 1929-1930 books pending. No uids mint"
     },
     {
       "id": "aesop",
