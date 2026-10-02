@@ -876,8 +876,9 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | — | — | `dryden-iliad` | cross-ref → Dryden shelf, lane C (Iliad I and the Last Parting of Hector and Andromache) |
 | — | — | `hesiod-evelyn-white` | cross-ref → Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914) |
 | Homer, The Iliad, or Achilles' Wrath at the Siege of Ilion, in English blank verse (1864) | T. S. Norgate (attributed by catalogue) | `homer-norgate-iliad` | have-raw (IA `iliadorachillesw00homeuoft`) |
+| The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth) | Thomas Hobbes | `homer-hobbes-iliad-odyssey` | have-raw (IA `englishworksofth0010hobb_d2j3`) |
 
-Pending (wishlist): A. T. Murray's Loeb Iliad (1924-25) and Odyssey (1919), on Perseus, US PD by date; Hobbes's Iliad and Odyssey (1675-76); 
+Pending (wishlist): A. T. Murray's Loeb Iliad (1924-25) and Odyssey (1919), on Perseus, US PD by date; 
 
 Excluded: PG 2199 (Butler Iliad, already built), PG 28797 (duplicate Butler Odyssey), PG 24856 (schoolbook adaptation).
 

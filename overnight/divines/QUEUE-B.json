@@ -217,9 +217,11 @@
     },
     {
       "id": "wishlist-sweep-b",
-      "status": "running",
+      "status": "done",
       "scope": "Sweep the map's 'Pending (wishlist)' lines against the Gutenberg catalogue and IA for older English translators (Holland, Creech, Rowe, Smart, Potter, Rogers, Elton, Bohn Plato, Golding's Caesar, Lodge's Seneca): fetch what is found and verifiable",
-      "started": "2026-10-02T16:50:54-05:00"
+      "started": "2026-10-02T16:50:54-05:00",
+      "finished": "2026-10-02T17:01:41-05:00",
+      "notes": "Elton Hesiod, Bysshe, Potter/Wodhull Greek Tragic Theatre, Swanwick, Plumptre, Creech, Rowe v1, Carter, Cary, Holland Pliny+Livy, Williams, Cranch, Norgate, Smith, Hampton, Collier, Rendall, Gordon"
     }
   ]
 }
