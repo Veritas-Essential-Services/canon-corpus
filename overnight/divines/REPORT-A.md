@@ -54,3 +54,10 @@
 ## 2026-10-02 15:51 CDT — pending sweep (queue item pending-sweep-1, added under RULES §5)
 - `fetch_shelf.py`: an internet_archive row may now carry a third element, the item's text file name, for uploads whose text is not `<id>_djvu.txt`. Backward compatible (two-element rows unchanged).
 - Fetched 4 items that were pending for that reason: Redemption Drawing Nigh (A. Bonar), A Stranger Here and Light and Truth: Old Testament (H. Bonar), A Call to Prayer (Ryle, a second scan that names him). Saphir's Christ and the Scriptures was refused by the identity check and stays pending.
+
+## 2026-10-02 15:51 CDT — finding: OCR quality of lane A's raw Internet Archive text (RULES §5d)
+- Method: share of word tokens (2+ letters) found in a vocabulary built from this lane's clean CCEL and Gutenberg texts (26 files, 23,477 words seen twice or more). A rough proxy: proper names and Greek/Hebrew lower it without being errors. Covers the 100 IA items fetched in this cloud session (Edwards's 31 older IA items are not on this machine).
+- Spread: 50 items at 97% or better, 28 at 95-97%, 15 at 90-95%, 7 below 90%. Median 97.0%.
+- Per author (median): andrew-bonar 97.2% (n=16), edwards 80.2% (n=6), flavel 96.4% (n=6), horatius-bonar 96.6% (n=24), ryle 97.4% (n=37), saphir 97.4% (n=11)
+- Worst: the six 18th-century Edwards printings added by the gap audit (77-83%): long-s type read as f. These need a better text before anyone quotes from them; the Dwight/Worcester texts of the same works are the better reading copies. Next: H. Bonar's travel books (90-94%), lowered mostly by Near Eastern place names, not errors.
+- Lowest 10: edwards-hopkins-life-1804 76.8%; edwards-brainerd-1749 77.6%; edwards-freedom-will-1762 79.7%; edwards-affections-1746 80.7%; edwards-misc-observations-1793 82.4%; edwards-remarks-controversies-1796 83.2%; hbonar-desert-of-sinai 89.9%; hbonar-land-of-promise 92.0%; ryle-what-good-will-it-do 92.6%; abonar-mission-to-jews 93.1%
