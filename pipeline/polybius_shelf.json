@@ -1,5 +1,5 @@
 {
- "_about": "Polybius in English: Evelyn S. Shuckburgh's translation of the Histories (1889), 2 vols., clean Gutenberg.",
+ "_about": "Polybius in English: Evelyn S. Shuckburgh's translation of the Histories (1889), 2 vols., clean Gutenberg. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "polybius",
   "histories",
@@ -18,7 +18,28 @@
    "tr. Evelyn S. Shuckburgh (1889)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "polybius-hampton-v1": [
+   "bim_eighteenth-century_the-general-history-of-p_polybius_1772_1",
+   "The General History of Polybius, vol. 1 (1772)",
+   "tr. James Hampton"
+  ],
+  "polybius-hampton-v2": [
+   "generalhistoryof02poly",
+   "The General History of Polybius, vol. 2 (1772)",
+   "tr. James Hampton"
+  ],
+  "polybius-hampton-v3": [
+   "generalhistoryof03poly",
+   "The General History of Polybius, vol. 3 (1773; volume per catalogue)",
+   "tr. James Hampton"
+  ],
+  "polybius-hampton-v4": [
+   "generalhistoryof04poly",
+   "The General History of Polybius, vol. 4 (1773)",
+   "tr. James Hampton"
+  ]
+ },
  "_cross_ref": {
   "dryden-polybius-lucian": "Dryden shelf (lane C): Dryden's character of Polybius"
  },
