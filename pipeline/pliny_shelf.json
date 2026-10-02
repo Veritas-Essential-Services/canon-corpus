@@ -1,5 +1,5 @@
 {
- "_about": "The two Plinys in English, translator per title. Elder: John Bostock and H. T. Riley's Natural History (Bohn, 1855-57), 6 vols., clean Gutenberg. Younger: William Melmoth's Letters (1746), revised by F. C. T. Bosanquet; John B. Firth's Letters, First Series vol. 1.",
+ "_about": "The two Plinys in English, translator per title. Elder: John Bostock and H. T. Riley's Natural History (Bohn, 1855-57), 6 vols., clean Gutenberg. Younger: William Melmoth's Letters (1746), revised by F. C. T. Bosanquet; John B. Firth's Letters, First Series vol. 1. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "pliny",
   "plinius"
@@ -47,7 +47,18 @@
    "tr. John B. Firth"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "pliny-melmoth-hutchinson-letters-v1": [
+   "letterswithengli01plinuoft",
+   "Letters, vol. 1 (Loeb, 1915)",
+   "tr. William Melmoth, revised by W. M. L. Hutchinson"
+  ],
+  "pliny-melmoth-hutchinson-letters-v2": [
+   "letterswithengli02plinuoft",
+   "Letters, vol. 2 (Loeb, 1915)",
+   "tr. William Melmoth, revised by W. M. L. Hutchinson"
+  ]
+ },
  "_excluded": {
   "pg58589": "The Boys' and Girls' Pliny: adaptation",
   "Firth, the remaining volume(s)": "not on Gutenberg; pending",
