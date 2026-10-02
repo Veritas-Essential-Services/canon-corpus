@@ -1,0 +1,48 @@
+{
+ "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out.",
+ "_name_words": [
+  "aeschylus",
+  "aeschylos",
+  "translated",
+  "english",
+  "verse"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aeschylus-plumptre": [
+   53174,
+   "Aeschylos: Tragedies and Fragments",
+   "tr. E. H. Plumptre (verse), all seven plays and the fragments"
+  ],
+  "aeschylus-blackie": [
+   59225,
+   "The Lyrical Dramas of Aeschylus",
+   "tr. John Stuart Blackie (verse, 1850)"
+  ],
+  "aeschylus-morshead-atreus": [
+   8604,
+   "The House of Atreus: Agamemnon, Libation-Bearers, Furies",
+   "tr. E. D. A. Morshead (verse, 1881)"
+  ],
+  "aeschylus-morshead-four": [
+   8714,
+   "Four Plays of Aeschylus: Suppliant Maidens, Persians, Seven against Thebes, Prometheus Bound",
+   "tr. E. D. A. Morshead (verse)"
+  ],
+  "aeschylus-buckley-prometheus-seven": [
+   27458,
+   "Prometheus Bound and the Seven Against Thebes",
+   "tr. Theodore Alois Buckley (prose, Bohn)"
+  ],
+  "aeschylus-murray-agamemnon": [
+   14417,
+   "The Agamemnon of Aeschylus, translated into English rhyming verse",
+   "tr. Gilbert Murray; US PD per Gutenberg"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts from Aeschylus and Sophocles, not whole plays",
+  "Herbert Weir Smyth, Loeb (1922-26)": "on Perseus with the Greek; US PD by date. Pending: Perseus manifest entry"
+ }
+}
