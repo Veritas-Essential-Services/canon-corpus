@@ -608,3 +608,27 @@ His hymns (Olney Hymns) are not shelved here: see the hymn manifest. The six-vol
 | Letters by the Rev. John Newton of Olney and St. Mary Woolnoth, ed. Josiah Bull (1869) | have-raw | IA `lettersbynewton00newtuoft` |
 | Olney Hymns | see hymn manifest | not shelved here |
 | Cardiphonia, Authentic Narrative, other letter collections: separate printings | alternate | mostly in the Works |
+
+
+## George Whitefield (round 3, my pick, 2026-10-02)
+
+The Works (1771-72, 6 vols: sermons, tracts, letters) are clean from Gutenberg; CCEL's Selected Sermons (1904) clean; the Journals as raw IA OCR of their first printings (18th-century type).
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Reverend George Whitefield (London, 1771-1772), vol. 1 | have | Gutenberg 68976 (`whitefield-works-1`) |
+| The Works of the Reverend George Whitefield (London, 1771-1772), vol. 2 | have | Gutenberg 71140 (`whitefield-works-2`) |
+| The Works of the Reverend George Whitefield (London, 1771-1772), vol. 3 | have | Gutenberg 73012 (`whitefield-works-3`) |
+| The Works of the Reverend George Whitefield (London, 1771-1772), vol. 4 | have | Gutenberg 73267 (`whitefield-works-4`) |
+| The Works of the Reverend George Whitefield (London, 1771-1772), vol. 5 | have | Gutenberg 77034 (`whitefield-works-5`) |
+| The Works of the Reverend George Whitefield (London, 1771-1772), vol. 6 | have | Gutenberg 77041 (`whitefield-works-6`) |
+| Selected Sermons of George Whitefield, ed. A. R. Buckland (1904) | have | CCEL `sermons` (`whitefield-selected-sermons`) |
+| A Journal of a Voyage from London to Savannah in Georgia (1743 printing) | have-raw | IA `journalofvoyagef00whit` |
+| A Continuation of the Reverend Mr. Whitefield's Journal, from his arrival at London to his departure for Georgia (1739) | have-raw | IA `continuationofre03whit` |
+| A Continuation of the Reverend Mr. Whitefield's Journal, during the time he was detained in England by the embargo (1739) | have-raw | IA `continuationofre04whit` |
+| A Continuation of the Reverend Mr. Whitefield's Journal, from his embarking after the embargo to his arrival at Savannah (1740) | have-raw | IA `continuationofre05whit` |
+| A Continuation of the Reverend Mr. Whitefield's Journal, after his arrival at Georgia (1741) | have-raw | IA `continuationofre06whit` |
+| A Continuation of the Reverend Mr. Whitefield's Journal: the seventh journal (1744 printing) | have-raw | IA `continuationofre07whit` |
+| The Two First Parts of his Life, with his Journals, revised and abridged by himself (1756) | have-raw | IA `twofirst00whit` (title words partly unread) |
+| The second journal (Savannah to London, 1739) | pending | only ECCO long-s scans found |
+| Tyerman's Life; Belcher's biography | excluded here | by other hands |

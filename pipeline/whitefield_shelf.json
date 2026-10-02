@@ -1,0 +1,83 @@
+{
+ "_about": "Every public-domain George Whitefield (1714-1770) text the Word Hoard holds. The Works (London, 1771-1772, 6 vols: sermons, tracts and letters) are held clean from Gutenberg, rights lines checked by the fetcher. CCEL's Selected Sermons (1904, ed. A. R. Buckland) is held clean. The Journals survive on IA only in their first printings (1738-1756), raw OCR of 18th-century type: expect long-s errors. Not G. W. (George Whitefield) Samson or other namesakes.",
+ "_ccel_author": "w/whitefield",
+ "_name_words": [
+  "whitefield"
+ ],
+ "_held": {},
+ "ccel": {
+  "whitefield-selected-sermons": [
+   "sermons",
+   "Selected Sermons of George Whitefield, ed. A. R. Buckland (1904)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "whitefield-works-1": [
+   68976,
+   "The Works of the Reverend George Whitefield (London, 1771-1772), vol. 1"
+  ],
+  "whitefield-works-2": [
+   71140,
+   "The Works of the Reverend George Whitefield (London, 1771-1772), vol. 2"
+  ],
+  "whitefield-works-3": [
+   73012,
+   "The Works of the Reverend George Whitefield (London, 1771-1772), vol. 3"
+  ],
+  "whitefield-works-4": [
+   73267,
+   "The Works of the Reverend George Whitefield (London, 1771-1772), vol. 4"
+  ],
+  "whitefield-works-5": [
+   77034,
+   "The Works of the Reverend George Whitefield (London, 1771-1772), vol. 5"
+  ],
+  "whitefield-works-6": [
+   77041,
+   "The Works of the Reverend George Whitefield (London, 1771-1772), vol. 6"
+  ]
+ },
+ "internet_archive": {
+  "whitefield-journal-voyage-1743": [
+   "journalofvoyagef00whit",
+   "A Journal of a Voyage from London to Savannah in Georgia (1743 printing)"
+  ],
+  "whitefield-journal-continuation-1739a": [
+   "continuationofre03whit",
+   "A Continuation of the Reverend Mr. Whitefield's Journal, from his arrival at London to his departure for Georgia (1739)"
+  ],
+  "whitefield-journal-continuation-1739b": [
+   "continuationofre04whit",
+   "A Continuation of the Reverend Mr. Whitefield's Journal, during the time he was detained in England by the embargo (1739)"
+  ],
+  "whitefield-journal-continuation-1740": [
+   "continuationofre05whit",
+   "A Continuation of the Reverend Mr. Whitefield's Journal, from his embarking after the embargo to his arrival at Savannah (1740)"
+  ],
+  "whitefield-journal-continuation-1741": [
+   "continuationofre06whit",
+   "A Continuation of the Reverend Mr. Whitefield's Journal, after his arrival at Georgia (1741)"
+  ],
+  "whitefield-journal-seventh-1744": [
+   "continuationofre07whit",
+   "A Continuation of the Reverend Mr. Whitefield's Journal: the seventh journal (1744 printing)"
+  ],
+  "whitefield-life-journals-1756": [
+   "twofirst00whit",
+   "The Two First Parts of his Life, with his Journals, revised and abridged by himself (1756)"
+  ]
+ },
+ "_alternates": {
+  "worksofreverendg0[1-6]whit, worksreverendge0[0-5]whitgoog": "IA scans of the 1771-72 Works; Gutenberg text held.",
+  "selectcollection0[1-3]whit, aselectcollecti00whitgoog (1772)": "The Letters, separately printed; in Works vols 1-3.",
+  "eighteensermons* (1771-1820), fifteensermonsp00colmgoog (1794), sermonsonimport00whitgoog (1830), selectedsermons* (1904)": "Other sermon collections; not fetched this burn.",
+  "bim_eighteenth-century_* journals; continuationofre00whit; journalofvoyagef0000geor; 10071513bsb": "Other printings of the Journals, including the second journal (only ECCO scans found)."
+ },
+ "_excluded": {
+  "PG 44280, 62023 (Tyerman's Life), PG 44140 (Belcher)": "biographies by other hands; a 'Whitefield studies' shelf could take them",
+  "PG 34727 (Ryle's Sketch)": "already on ryle_shelf.json",
+  "G. W. Samson's books; George Whitefield Powers": "different people",
+  "quakermethodistc00grey": "Zachary Grey's 1740 polemic"
+ }
+}

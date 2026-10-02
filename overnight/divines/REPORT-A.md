@@ -135,3 +135,6 @@
 
 ## 2026-10-02 16:36 CDT — newton done
 - `pipeline/newton_shelf.json` (prose; the Olney Hymns are for the hymn manifest): Messiah, 2 CCEL volumes converted (1,030 units, 1,193 links); the Works (1810), 6 vols, and Bull's Letters (1869), raw IA OCR. About 10 MB. `--verify`: 0 mismatched. 0 uids minted.
+
+## 2026-10-02 16:38 CDT — whitefield done
+- `pipeline/whitefield_shelf.json`: the Works (1771-72), all 6 volumes, clean from Gutenberg (rights lines passed); CCEL's Selected Sermons (1904, ed. Buckland) converted (2,319 units, 273 links); the Journals in 7 IA items from their first printings (1739-1756), raw. About 10 MB. `--verify`: 0 mismatched; the 1756 revised Life and Journals is flagged `title_weak` (long s). 0 uids minted.
