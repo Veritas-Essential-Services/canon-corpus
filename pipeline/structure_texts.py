@@ -1179,75 +1179,102 @@ def convert_tei_prose(path, slug, abbrev):
 # CATENAE: J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum
 # (Oxford, 1838-44), from First1KGreek. A catena strings the fathers'
 # comments (Chrysostom, Origen, Cyril...) on each verse, lemma then
-# comments. The file divides only by the ancient KEPHALAIA (Matthew's 68),
-# not by modern chapter; Cramer printed the VERSE number in the margin
-# (<note type="marginal">16</note>) but not the chapter, which restarts
-# under the reader's feet. So the chapter of each marked section is not in
-# the file. It was found by matching every section's lemma against the
-# Robinson-Pierpont Greek NT (2018, PD; the NT pilot's pinned text) under
-# the rule that chapters only advance, and is COMMITTED here as a table of
-# chapter starts -- each start names the kephalaion and margin number it
-# expects, so a changed source file fails loudly instead of misplacing.
-# A unit is one marked section: its verse's lemma and the comments after
-# it, id = chapter.verse (a lemma running on over a second margin mark is
-# a range, 7.1-2). Kephalaia Cramer left unmarked are one unit each (k41).
+# comments. The files divide only by the ancient KEPHALAIA, never by
+# modern chapter. Cramer printed the VERSE number beside each lemma -- as a
+# margin note in Matthew, as a bare <lb n="12"/> between paragraphs in the
+# epistles, where it is mixed with his page-line numbers (5, 10, 15...).
+# The chapter is printed nowhere. So which marks are verses, and in which
+# chapter, was MEASURED: pipeline/place_catena.py matches each candidate
+# mark's lemma against the Robinson-Pierpont Greek NT (2018, PD; pinned)
+# under the rule that chapters only advance, and COMMITS its decisions as
+# data/catenae/<slug>.json. This converter only reads them: every placed
+# mark names the kephalaion and printed number it expects, so a changed
+# source fails loudly instead of misplacing comments.
+# A unit is one placed mark: the lemma and the comments after it up to the
+# next placed mark, id = chapter.verse (a lemma that runs on over a second
+# mark is a range, 7.1-2). A kephalaion with no placed mark is one
+# unlinked unit (k41).
 CATENA = {
-    "catena-matthew-cramer-grc": {
-        "abbrev": "Cat. Matt.", "osis": "Matt",
-        # Two margin numbers misprinted, by the lemma they stand beside:
-        # "33" by "Καὶ σὺ Καπερναοὺμ" (11:23) and "38" by Peter on the water
-        # (14:28). Keyed by the marked section's ordinal in the file.
-        "margin_fix": {108: "23", 135: "28"},
-        "starts": [(0, "praef", "1", 1), (8, "1", "1", 2), (17, "3", "1", 3),
-                   (26, "4", "1", 4), (34, "5", "1", 5), (51, "5", "1", 6),
-                   (62, "5", "1", 7), (70, "6", "2", 8), (81, "13", "2", 9),
-                   (91, "19", "2", 10), (103, "20", "3", 11), (112, "21", "1", 12),
-                   (121, "24", "3", 13), (132, "25", "1", 14), (136, "28", "1", 15),
-                   (143, "31", "1", 16), (149, "34", "1", 17), (154, "37", "1", 18),
-                   (159, "39", "1", 19)],
-        # Sections whose lemma shares under 30% of its words with the verse
-        # it was placed at: the link says "weak". (7:22's lemma is 7:21.)
-        "weak": {67},
-        "honesty": (
-            "Matthew 1-19 is marked verse by verse; kephalaia 41-68 (chapters "
-            "19-28) carry no margin numbers and are one unit each, unlinked. "
-            "Of the 163 marked sections, 157 have a lemma sharing at least half "
-            "its words with the Robinson-Pierpont verse it is placed at and 162 "
-            "at least 30%; the one weaker placement is linked as weak. The "
-            "chapter is not in the source -- it is this table's, measured, not "
-            "printed."),
-    },
+    # slug: (abbrev, OSIS book, Robinson-Pierpont file stem)
+    "catena-matthew-cramer-grc": ("Cat. Matt.", "Matt", "MAT"),
 }
+CATENA_DIR = os.path.join(HERE, "..", "data", "catenae")
+
+
+def catena_marks(body):
+    """The catena as a flat walk: one item per child of each kephalaion,
+    with the CANDIDATE verse marks in document order (ordinal). A candidate
+    is a margin note or a bare <lb n> between paragraphs with a number, or
+    a margin note inside a paragraph that is not the lemma just marked (a
+    mark inside the lemma itself only extends it: `also`)."""
+    T = TEI_NS
+    items, ordinal = [], -1
+    for k in body.iter(T + "div"):
+        if k.get("subtype") != "chapter":
+            continue
+        kn = k.get("n")
+        just_marked = False
+        for c in k:
+            n = None
+            if c.tag == T + "note" and c.get("type") == "marginal":
+                n, src = clean("".join(c.itertext())), "margin"
+            elif c.tag == T + "lb":
+                n, src = c.get("n") or "", "lb"
+            if n is not None:
+                if n.isdigit():
+                    ordinal += 1
+                    items.append({"k": kn, "kind": "mark", "n": n, "ord": ordinal, "src": src})
+                    just_marked = True
+                continue
+            inner = [clean("".join(x.itertext())) for x in c.iter(T + "note")
+                     if x.get("type") == "marginal"]
+            inner = [x for x in inner if x.isdigit()]
+            if c.tag == T + "p" and inner and not just_marked:
+                ordinal += 1
+                items.append({"k": kn, "kind": "mark", "n": inner[0], "ord": ordinal,
+                              "src": "margin"})
+                inner = inner[1:]
+            items.append({"k": kn, "kind": "head" if c.tag == T + "head" else "el",
+                          "el": c, "also": inner})
+            if c.tag == T + "p":
+                just_marked = False
+    return items
+
+
+def catena_lemma(items, i):
+    """The lemma a mark at items[i] stands beside: the next paragraph."""
+    for it in items[i + 1:]:
+        if it["kind"] == "mark":
+            return ""
+        if it["kind"] == "el" and it["el"].tag == TEI_NS + "p":
+            return clean("".join(it["el"].itertext()))
+    return ""
 
 
 def convert_catena(path, slug):
     T = TEI_NS
-    spec = CATENA[slug]
-    abbrev, osis = spec["abbrev"], spec["osis"]
+    abbrev, osis, _stem = CATENA[slug]
     root = tei_load(path)
-    title, author, _t = tei_meta(root)
+    title, _a, _t = tei_meta(root)
     body = root.find(f".//{T}body")
-    starts = {o: (k, n, ch) for o, k, n, ch in spec["starts"]}
-    units, pending, seen = [], [], {}
-    ordinal, chapter, nnotes, nweak = -1, None, 0, 0
-
-    def margin(e):
-        return clean("".join(e.itertext()))
+    placed_doc = json.load(open(os.path.join(CATENA_DIR, slug + ".json"), encoding="utf-8"))
+    placed = {p["ord"]: p for p in placed_doc["placed"]}
+    items = catena_marks(body)
+    units, seen = [], {}
+    nnotes = 0
 
     def is_margin(e):
         return e.tag == T + "note" and e.get("type") == "marginal"
 
     def flush(sec):
-        nonlocal nnotes, nweak
-        if sec is None:
+        nonlocal nnotes
+        if sec is None or not (sec["els"] or sec["head"]):
             return
-        if "n" in sec:                          # a marked section
-            sec.update(_finalize(sec, osis, spec, seen))
         texts, notes = [], []
         for el in sec["els"]:
             el = copy.deepcopy(el)
             for par in list(el.iter()):
-                for i, c in enumerate(list(par)):
+                for c in list(par):
                     if is_margin(c):
                         # Drop the mark, keep the text after it in place.
                         kids = list(par)
@@ -1262,7 +1289,7 @@ def convert_catena(path, slug):
                 texts.append(t)
             notes.extend(n2)
         app = {}
-        if sec.get("head"):
+        if sec["head"]:
             app["head"] = sec["head"]
         if notes:
             app["notes"] = notes; nnotes += len(notes)
@@ -1270,94 +1297,82 @@ def convert_catena(path, slug):
         lat = sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
         if lat:
             app["latin_letters"] = lat
-        u = {"id": f"{slug}:{sec['id']}", "ref": f"{abbrev} {sec['ref']}", "text": text,
-             "links": sec.get("links", []), "milestones": sec["ms"]}
+        if "p" in sec:
+            pl = sec["p"]
+            ch, v = pl["chapter"], pl["verse"]
+            also = [int(a) for a in sec["also"] if int(a) > v]
+            last = max(also) if also else None
+            base = f"{ch}.{v}" + (f"-{last}" if last else "")
+            seen[base] = seen.get(base, 0) + 1
+            sid = base if seen[base] == 1 else f"{base}~{seen[base]}"
+            match = "checked" if pl["score"] >= 0.3 else "weak"
+            links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{x}", "match": match}
+                     for x in range(v, (last or v) + 1)]
+            ms = {"kephalaion": pl["k"], "margin": pl["n"]}
+            ref = f"{ch}:{v}" + (f"-{last}" if last else "")
+        else:
+            sid, links, ms, ref = f"k{sec['k']}", [], {"kephalaion": sec["k"]}, f"κεφ. {sec['k']}"
+        u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
+             "links": links, "milestones": ms}
         if app:
             u["apparatus"] = app
-        if text or app:
-            units.append(u)
+        units.append(u)
 
-    for k in body.iter(T + "div"):
-        if k.get("subtype") != "chapter":
-            continue
-        kn = k.get("n")
-        kids = list(k)
-        marked = any(is_margin(x) for x in k.iter()) and kn not in ("toc",)
-        if not marked:
-            sec = {"id": f"k{kn}", "ref": f"κεφ. {kn}", "ms": {"kephalaion": kn},
-                   "els": [x for x in kids if x.tag != T + "head"],
-                   "head": [clean("".join(x.itertext())) for x in kids if x.tag == T + "head"]}
+    sec, cur_k = None, None
+    for it in items:
+        if it["k"] != cur_k:
+            # A new kephalaion: what came before stays with its own section;
+            # the new one opens unlinked until its first placed mark.
             flush(sec)
-            continue
-        sec, head = None, []
-        for c in kids:
-            inner = [] if is_margin(c) else [x for x in c.iter() if is_margin(x)]
-            if is_margin(c) or (inner and sec is None):
-                mark = c if is_margin(c) else inner[0]
-                n = margin(mark)
-                if not n.isdigit():
-                    if sec is not None:
-                        sec["els"].append(c)
-                    continue
+            cur_k = it["k"]
+            sec = {"k": cur_k, "els": [], "head": [], "also": []}
+        if it["kind"] == "mark":
+            pl = placed.get(it["ord"])
+            if pl is None:
+                continue                        # a page-line number, or unplaceable
+            if (pl["k"], pl["n"]) != (it["k"], it["n"]):
+                raise ValueError(f"{slug}: candidate {it['ord']} is k{it['k']} n{it['n']}, "
+                                 f"{CATENA_DIR}/{slug}.json expects k{pl['k']} n{pl['n']}")
+            if "p" in sec:
                 flush(sec)
-                ordinal += 1
-                n = spec["margin_fix"].get(ordinal, n)
-                if ordinal in starts:
-                    ek, en, chapter = starts[ordinal]
-                    if (ek, en) != (kn, n):
-                        raise ValueError(f"{slug}: section {ordinal} is k{kn} n{n}, "
-                                         f"the CATENA table expects k{ek} n{en}")
-                sec = {"n": n, "els": [] if is_margin(c) else [c], "head": head,
-                       "ms": {"kephalaion": kn, "margin": margin(mark)},
-                       "_ch": chapter, "_ord": ordinal}
-                if not is_margin(c):
-                    sec["also"] = [margin(x) for x in inner[1:]]
-                head = []
-                continue
-            if sec is None:
-                if c.tag == T + "head" or c.tag == T + "p":
-                    t = clean("".join(c.itertext()))
-                    if t:
-                        head.append(t)
-                continue
-            if inner:
-                sec.setdefault("also", []).extend(
-                    margin(x) for x in inner if margin(x).isdigit())
-            sec["els"].append(c)
-        flush(sec)
+                sec = {"k": cur_k, "els": [], "head": [], "also": []}
+            elif len(sec["els"]) <= 1:
+                # The kephalaion's title paragraph: a heading of the first unit.
+                sec["head"] += [t for t in (clean("".join(e.itertext())) for e in sec["els"]) if t]
+                sec["els"] = []
+            else:
+                # More than a title before the first placed mark: its own
+                # unlinked unit, k<n>.
+                flush(sec)
+                sec = {"k": cur_k, "els": [], "head": [], "also": []}
+            sec["p"] = pl
+            continue
+        if it["kind"] == "head":
+            sec["head"].append(clean("".join(it["el"].itertext())))
+            continue
+        sec["els"].append(it["el"])
+        if "p" in sec and len([e for e in sec["els"] if e.tag == T + "p"]) == 1:
+            sec["also"] += it["also"]           # a mark inside the lemma: a range
+    flush(sec)
     linked = sum(1 for u in units if u["links"])
-    weak = sum(1 for u in units for l in u["links"] if l.get("match") == "weak")
+    weak = sum(1 for u in units if u["links"] and u["links"][0]["match"] == "weak")
     return {"slug": slug, "title": title, "author": "Catena (Cramer)",
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
                        "translator": "", "sha256": sha256(path),
                        "edition": tei_edition(root), "language": "grc"},
-            "scheme": {"citation": f"{abbrev} chapter.verse (marked sections); k<kephalaion> (unmarked)",
-                       "resolution": "verse (marked sections); kephalaion (unmarked)",
-                       "honesty": spec["honesty"],
-                       "note": f"First1KGreek TEI of Cramer's catena. One unit per section "
-                               f"Cramer marked with a verse number in the margin (lemma and "
-                               f"the comments after it); {linked} unit(s) link to the KJV "
-                               f"verse(s) they comment on ({weak} weak). {nnotes} footnote(s) "
-                               f"in apparatus.notes; the kephalaion headings in "
+            "scheme": {"citation": f"{abbrev} chapter.verse (placed sections); k<kephalaion> (the rest)",
+                       "resolution": "verse (placed sections); kephalaion (the rest)",
+                       "honesty": placed_doc["honesty"],
+                       "note": f"First1KGreek TEI of Cramer's catena. One unit per verse mark "
+                               f"placed by pipeline/place_catena.py (lemma and the comments "
+                               f"after it); {linked} unit(s) link to the KJV verse(s) they "
+                               f"comment on ({weak} weak: the lemma shares under 30% of its "
+                               f"words with the verse). {nnotes} footnote(s) in "
+                               f"apparatus.notes; kephalaion headings and titles in "
                                f"apparatus.head. Units with Latin-letter words (OCR residue) "
                                f"carry apparatus.latin_letters."},
             "rights": perseus_rights(root, path),
             "units": units}
-
-
-def _finalize(sec, osis, spec, seen):
-    """A marked section's id, ref and links, once its range is known."""
-    ch, n = sec["_ch"], sec["n"]
-    also = [a for a in sec.get("also", []) if a.isdigit() and int(a) > int(n)]
-    last = also[-1] if also else None
-    base = f"{ch}.{n}" + (f"-{last}" if last else "")
-    seen[base] = seen.get(base, 0) + 1
-    sid = base if seen[base] == 1 else f"{base}~{seen[base]}"
-    verses = range(int(n), int(last or n) + 1)
-    match = "weak" if sec["_ord"] in spec["weak"] else "checked"
-    links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{v}", "match": match}
-             for v in verses]
-    return {"id": sid, "ref": f"{ch}:{n}" + (f"-{last}" if last else ""), "links": links}
 
 
 # Perseus LETTERS: Cicero's correspondence in Shuckburgh's translation

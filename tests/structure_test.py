@@ -1008,45 +1008,72 @@ st.CORPUS = _saved[0]
 check("fathers: a verse number glued to the verse's first word is dropped, and counted",
       _vb["units"][-1]["text"] == "δέλτα" and "1 printed verse number(s)" in _vb["scheme"]["note"])
 # A catena (Cramer): kephalaia, margin verse numbers, a lemma that runs on
-# over a second mark, a misprinted margin fixed by the table, an unmarked
-# kephalaion, and a table that no longer fits the file.
+# over a second mark, a page-line <lb n> left unplaced, a misprinted margin
+# placed by the measured file, an unplaced kephalaion, and a placement file
+# that no longer fits the source.
 _CT = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Cat</title>'
        '</titleStmt><sourceDesc><biblStruct><monogr><title>Catenae</title><imprint><date>1840</date>'
        '</imprint></monogr></biblStruct></sourceDesc></fileDesc></teiHeader><text><body>'
        '<div type="edition" xml:lang="grc">'
        '<div type="textpart" subtype="chapter" n="1"><head>ΚΕΦ. Α.</head><p>Περὶ μάγων.</p>'
-       '<note type="marginal">1</note><p>Τοῦ δὲ Ἰησοῦ γεννηθέντος.</p><p>Χρυσοστόμου. ὅτι '
-       '<note type="marginal">2</note>ἦλθον.</p><note type="marginal">9</note><p>Καὶ ἰδοὺ.</p>'
+       '<note type="marginal">1</note><p>Τοῦ δὲ Ἰησοῦ <note type="marginal">2</note>γεννηθέντος.</p>'
+       '<p>Χρυσοστόμου. ὅτι ἦλθον.</p><lb n="5"/><p>Ὠριγένους. οὐκ.</p>'
+       '<note type="marginal">9</note><p>Καὶ ἰδοὺ.</p>'
        '</div><div type="textpart" subtype="chapter" n="2"><note type="marginal">1</note>'
        '<p>Ἐν δὲ ταῖς ἡμέραις.</p></div>'
        '<div type="textpart" subtype="chapter" n="3"><head>ΚΕΦ. Γ.</head><p>Λόγος.</p></div>'
        '</div></body></text></TEI>')
 _cp = os.path.join(_gd, "first1k", "cat.xml")
 open(_cp, "w", encoding="utf-8").write(_CT)
-st.CATENA["cat"] = {"abbrev": "Cat. Matt.", "osis": "Matt", "margin_fix": {1: "3"},
-                    "starts": [(0, "1", "1", 2), (2, "2", "1", 3)], "weak": {1},
-                    "honesty": "h"}
-st.CORPUS = _gd
+_cj = os.path.join(_gd, "cat.json")
+
+
+def _cat_placed(placed):
+    _json.dump({"honesty": "h", "placed": placed}, open(_cj, "w", encoding="utf-8"))
+
+
+_saved_cd = st.CATENA_DIR
+st.CATENA["cat"] = ("Cat. Matt.", "Matt", "MAT")
+st.CATENA_DIR, st.CORPUS = _gd, _gd
+_cm = [(i["ord"], i["k"], i["n"], i["src"]) for i in st.catena_marks(
+    st.tei_load(_cp).find(f".//{st.TEI_NS}body")) if i["kind"] == "mark"]
+_cat_placed([{"ord": 0, "k": "1", "n": "1", "src": "margin", "chapter": 2, "verse": 1, "score": 0.9},
+             {"ord": 2, "k": "1", "n": "9", "src": "margin", "chapter": 2, "verse": 3, "score": 0.2},
+             {"ord": 3, "k": "2", "n": "1", "src": "margin", "chapter": 3, "verse": 1, "score": 1.0}])
 _cb = st.convert_catena(_cp, "cat")
 _cu = {u["id"].split(":")[1]: u for u in _cb["units"]}
-st.CATENA["cat"]["starts"] = [(0, "1", "1", 2), (2, "2", "5", 3)]
+_cat_placed([{"ord": 2, "k": "1", "n": "5", "src": "margin", "chapter": 2, "verse": 5, "score": 1.0}])
 try:
     st.convert_catena(_cp, "cat"); _cbad = False
 except ValueError:
     _cbad = True
 del st.CATENA["cat"]
-st.CORPUS = _saved[0]
-check("catena: a marked section is its chapter.verse; a second mark makes a range",
+st.CATENA_DIR, st.CORPUS = _saved_cd, _saved[0]
+check("catena: candidates are margin numbers and bare <lb n>; a mark inside the lemma is not one",
+      _cm == [(0, "1", "1", "margin"), (1, "1", "5", "lb"), (2, "1", "9", "margin"),
+              (3, "2", "1", "margin")])
+check("catena: a placed mark is its chapter.verse; a mark inside the lemma makes a range",
       list(_cu) == ["2.1-2", "2.3", "3.1", "k3"]
       and [l["target"] for l in _cu["2.1-2"]["links"]] == ["kjv:Matt.2.1", "kjv:Matt.2.2"])
 check("catena: the heading and title before the first mark ride on the first unit",
       _cu["2.1-2"]["apparatus"]["head"] == ["ΚΕΦ. Α.", "Περὶ μάγων."]
-      and _cu["2.1-2"]["text"] == "Τοῦ δὲ Ἰησοῦ γεννηθέντος. Χρυσοστόμου. ὅτι ἦλθον.")
-check("catena: a misprinted margin is fixed by the table, its printed number kept",
+      and _cu["2.1-2"]["text"] == "Τοῦ δὲ Ἰησοῦ γεννηθέντος. Χρυσοστόμου. ὅτι ἦλθον. Ὠριγένους. οὐκ.")
+check("catena: a misprinted margin is placed by the file, its printed number kept; weak below 0.3",
       _cu["2.3"]["milestones"] == {"kephalaion": "1", "margin": "9"}
       and _cu["2.3"]["links"][0]["match"] == "weak")
-check("catena: an unmarked kephalaion is one unlinked unit; a table that no longer fits fails",
+check("catena: an unplaced kephalaion is one unlinked unit; a file that no longer fits fails",
       _cu["k3"]["links"] == [] and _cbad)
+_pc = load("place_catena")
+_nt = {1: {1: {"αλφα", "βητα", "γαμμα"}, 5: {"δελτα", "εψιλον", "ζητα"}},
+       2: {1: {"ηλιος", "θαλασσα", "ιωτα"}, 2: {"καππα", "λαμβδα", "μυ"}}}
+_pg = _pc.place([(0, "1", "1", "margin", {"αλφα", "βητα", "γαμμα"}),
+                 (1, "1", "5", "lb", {"ουδεν", "αλλο", "τουτο"}),
+                 (2, "2", "1", "margin", {"ηλιος", "θαλασσα", "ιωτα"}),
+                 (3, "2", "9", "margin", {"καππα", "λαμβδα", "μυ"})], _nt)
+check("place_catena: chapters advance; a page-line <lb> is left out; a wrong margin is read by its lemma",
+      _pg == {0: (1, 1, 1.0), 2: (2, 1, 1.0), 3: (2, 2, 1.0)})
+check("place_catena: two shared words are not a 100% match for a two-word lemma",
+      _pc.score({"αλφα", "βητα"}, {"αλφα", "βητα", "γαμμα", "δελτα"}) < 0.7)
 _bt, _br, _bf = st.tei_brackets("ὑψηλῷ [cf. Deut., v, 45]· εὐ[fol. 51]δαιμονίαν [καὶ] [ΙS., II, 2] τε [?]")
 check("fathers: bracketed references and folios lifted; Greek supplements stay",
       _bt == "ὑψηλῷ· εὐδαιμονίαν [καὶ] τε [?]" and _br == ["cf. Deut., v, 45", "ΙS., II, 2"]

@@ -86,10 +86,12 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 159 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 162 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
+    python3 pipeline/place_catena.py --fetch # RP2018 books for the catenae, pinned
+    python3 pipeline/place_catena.py --check # catena verse placements byte-identical
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
     python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)
@@ -211,11 +213,14 @@ The living truth for project state is the Obsidian vault:
   is recognised by its type="translation" div; its translator is the
   printed book's author.
   Cramer's catenae (convert_catena, table CATENA): the fathers' comments
-  verse by verse. The file divides only by kephalaia and prints the verse
-  number in the margin, never the chapter; the chapter of each section was
-  MEASURED against the Robinson-Pierpont NT and is committed as a table of
-  chapter starts that names the kephalaion and margin number it expects, so
-  a changed source fails loudly. Pilot: Matthew.
+  verse by verse. The files divide only by kephalaia and print the verse
+  number (a margin note, or a bare <lb n> mixed with page-line numbers),
+  never the chapter. pipeline/place_catena.py MEASURES which marks are
+  verses and in which chapter, against the Robinson-Pierpont NT (pinned),
+  and commits the decision per mark in data/catenae/<slug>.json (reviewable;
+  --check must be byte-identical). convert_catena only reads that file, and
+  every placed mark names the kephalaion and printed number it expects, so
+  a changed source fails loudly.
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
