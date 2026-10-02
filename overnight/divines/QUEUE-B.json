@@ -74,8 +74,11 @@
     },
     {
       "id": "greek-historians",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Herodotus (Rawlinson, Macaulay), Thucydides (Jowett, Crawley), Xenophon (Dakyns); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Herodotus (Rawlinson, Macaulay), Thucydides (Jowett, Crawley), Xenophon (Dakyns); shelf per author + fetch + map",
+      "started": "2026-10-02T15:39:57-05:00",
+      "finished": "2026-10-02T15:43:23-05:00",
+      "notes": "Herodotus 5, Thucydides 3, Xenophon 14, Polybius 2, Arrian 2 fetched (22.2 MB). Findings on the Adler shelf: thucydides-pelo is Crawley not Jowett; herodotus-history is vol. 1 only."
     },
     {
       "id": "plutarch",
