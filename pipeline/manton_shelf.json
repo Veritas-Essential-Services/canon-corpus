@@ -1,0 +1,117 @@
+{
+ "_about": "Every public-domain Thomas Manton (1620-1677) text the Word Hoard holds. The target is the Nisbet Complete Works (22 vols, 1870-1875, memoir by William Harris). CCEL has nine volumes as clean ThML (1-8 and 20); the other thirteen are held as Internet Archive OCR, raw and unconverted, from one scan series whose volume numbers were each read off the title page. One slug per volume, whichever source holds it. No Gutenberg Manton found.",
+ "_ccel_author": "m/manton",
+ "_name_words": [
+  "manton"
+ ],
+ "_held": {},
+ "ccel": {
+  "manton-works-01": [
+   "manton01",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 1",
+   ""
+  ],
+  "manton-works-02": [
+   "manton02",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 2",
+   ""
+  ],
+  "manton-works-03": [
+   "manton03",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 3",
+   ""
+  ],
+  "manton-works-04": [
+   "manton04",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 4",
+   ""
+  ],
+  "manton-works-05": [
+   "manton05",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 5",
+   ""
+  ],
+  "manton-works-06": [
+   "manton06",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 6",
+   ""
+  ],
+  "manton-works-07": [
+   "manton07",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 7",
+   ""
+  ],
+  "manton-works-08": [
+   "manton08",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 8",
+   ""
+  ],
+  "manton-works-20": [
+   "manton20",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 20",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "manton-works-09": [
+   "completeworksoft09mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 9"
+  ],
+  "manton-works-10": [
+   "completeworksoft10mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 10"
+  ],
+  "manton-works-11": [
+   "completeworksoft11mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 11"
+  ],
+  "manton-works-12": [
+   "completeworksoft12mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 12"
+  ],
+  "manton-works-13": [
+   "completeworksoft13mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 13"
+  ],
+  "manton-works-14": [
+   "completeworksoft14mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 14"
+  ],
+  "manton-works-15": [
+   "completeworksoft15mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 15"
+  ],
+  "manton-works-16": [
+   "completeworksoft16mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 16"
+  ],
+  "manton-works-17": [
+   "completeworksoft17mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 17"
+  ],
+  "manton-works-18": [
+   "completeworksoft18mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 18"
+  ],
+  "manton-works-19": [
+   "completeworksoft19mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 19"
+  ],
+  "manton-works-21": [
+   "completeworksoft21mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 21"
+  ],
+  "manton-works-22": [
+   "completeworksoft22mant",
+   "The Complete Works of Thomas Manton, D.D. (London: James Nisbet, 1870-1875), vol. 22"
+  ]
+ },
+ "_alternates": {
+  "completeworksoft{01..09,20}mant": "IA scans of the volumes CCEL holds clean; not fetched (repair source for CCEL typos).",
+  "completeworksoft*mantuoft, completeworkoft12mantuoft, compleeteworksoft20mantuoft, completeworkoft22mantuoft": "Toronto scans of the same set; not fetched."
+ },
+ "_excluded": {
+  "CCEL manton-series": "an index page, not a text"
+ }
+}

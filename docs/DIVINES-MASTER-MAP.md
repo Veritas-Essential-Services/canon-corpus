@@ -491,6 +491,37 @@ Target: Nichol's *Complete Works of Stephen Charnock* (1864-1866), 5 volumes, ra
 | Nichol vol. 5 | have-raw | IA `completeworksofs05char` |
 | Parsons edition (1815, 9 vols); separate printings of the Attributes (1800-1874) | alternate | Nichol supersedes them |
 | Richard Stephen Charnock, etymologist | excluded | different person |
+
+
+## Thomas Manton (round 3, my pick, 2026-10-02)
+
+Target: the Nisbet *Complete Works of Thomas Manton* (22 vols, 1870-1875). CCEL has nine volumes as clean ThML (1-8, 20); the other thirteen are raw IA OCR. One slug per volume.
+
+| Volume | Status | Where |
+|---|---|---|
+| Nisbet vol. 1 | have | CCEL `manton01` |
+| Nisbet vol. 2 | have | CCEL `manton02` |
+| Nisbet vol. 3 | have | CCEL `manton03` |
+| Nisbet vol. 4 | have | CCEL `manton04` |
+| Nisbet vol. 5 | have | CCEL `manton05` |
+| Nisbet vol. 6 | have | CCEL `manton06` |
+| Nisbet vol. 7 | have | CCEL `manton07` |
+| Nisbet vol. 8 | have | CCEL `manton08` |
+| Nisbet vol. 9 | have-raw | IA `completeworksoft09mant` |
+| Nisbet vol. 10 | have-raw | IA `completeworksoft10mant` |
+| Nisbet vol. 11 | have-raw | IA `completeworksoft11mant` |
+| Nisbet vol. 12 | have-raw | IA `completeworksoft12mant` |
+| Nisbet vol. 13 | have-raw | IA `completeworksoft13mant` |
+| Nisbet vol. 14 | have-raw | IA `completeworksoft14mant` |
+| Nisbet vol. 15 | have-raw | IA `completeworksoft15mant` |
+| Nisbet vol. 16 | have-raw | IA `completeworksoft16mant` |
+| Nisbet vol. 17 | have-raw | IA `completeworksoft17mant` |
+| Nisbet vol. 18 | have-raw | IA `completeworksoft18mant` |
+| Nisbet vol. 19 | have-raw | IA `completeworksoft19mant` |
+| Nisbet vol. 20 | have | CCEL `manton20` |
+| Nisbet vol. 21 | have-raw | IA `completeworksoft21mant` |
+| Nisbet vol. 22 | have-raw | IA `completeworksoft22mant` |
+| IA scans of the CCEL volumes; Toronto scans | alternate | not fetched |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -115,3 +115,6 @@
 - The coordinator's eleven defaults are done or in flight (Spurgeon still fetching). The relay asked for more Divines until the stop time, so lane A added eight of its own picks to QUEUE-A (Charnock, Manton, Boston, Gurnall, Burroughs, Newton prose, Whitefield, Hodge), each marked in the queue and in DIGEST-A as the worker's choice, open to Adam's veto.
 - charnock: `pipeline/charnock_shelf.json`: 6 CCEL discourses converted (1,511 units, 2,775 links); Nichol's Complete Works, 5 vols, raw IA OCR (about 16 MB in all). `--verify`: 0 mismatched. 0 uids minted.
 - Finding (rights, rule 6): every CCEL file fetched by this lane, in both rounds, opens with the XML comment "Copyright Christian Classics Ethereal Library": CCEL's claim over its markup. The DC.Rights field in round 2's 48 files reads "Public Domain" in 15 and is empty in 33; none says non-commercial. The texts are PD; republishing CCEL's markup itself is the thing to check per work.
+
+## 2026-10-02 16:31 CDT — manton done
+- `pipeline/manton_shelf.json`: Nisbet's Complete Works, all 22 volumes: 9 clean from CCEL (converted: 19,631 units, 30,564 links) and 13 raw IA OCR, one slug per volume whichever source holds it (about 48 MB). `--verify`: 0 mismatched. 0 uids minted.
