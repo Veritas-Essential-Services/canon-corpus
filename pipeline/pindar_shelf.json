@@ -1,0 +1,32 @@
+{
+ "_about": "Pindar in English, translator per title. Ernest Myers, The Extant Odes (1874), clean Gutenberg. Dawson W. Turner's literal prose (Bohn, 1852) with Abraham Moore's metrical version appended, raw IA OCR (1872 reprint, the cleaner scan). Moore's Olympic and Pythian odes also exist as a c1903 Boston reprint; not taken, it duplicates the Bohn appendix. Cary's Pindar (1833) is on lane C's cary shelf: cross-referenced, not fetched.",
+ "_name_words": [
+  "pindar",
+  "odes",
+  "olympic",
+  "pythian"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pindar-myers": [
+   10717,
+   "The Extant Odes of Pindar",
+   "tr. Ernest Myers"
+  ]
+ },
+ "internet_archive": {
+  "pindar-turner-moore": [
+   "odespindarliter00moorgoog",
+   "The Odes of Pindar, literally translated into English prose (Bohn; 1872 printing)",
+   "tr. Dawson W. Turner (prose) and Abraham Moore (verse)"
+  ]
+ },
+ "_cross_ref": {
+  "cary-pindar": "lane C, pipeline/cary_shelf.json (Cary, 1833)"
+ },
+ "_excluded": {
+  "Sandys, Loeb Pindar (1915)": "US PD by date but Greek facing; pending, like the other Loebs",
+  "odespindar00conggoog": "1852 first printing of the Turner/Moore Bohn; lower OCR quality than the 1872 reprint (clean-word 0.835 vs 0.872)",
+  "olympicpythianod00pindiala": "Moore's verse alone, c1903 reprint; duplicates the Bohn appendix"
+ }
+}
