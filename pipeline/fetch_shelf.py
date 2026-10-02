@@ -66,6 +66,8 @@ def main():
             data = get(url)
             if len(data) < 5000:
                 raise RuntimeError(f"only {len(data)} bytes")
+            if ext == ".txt" and data.lstrip()[:15].lower().startswith((b"<!doctype", b"<html")):
+                raise RuntimeError("got an HTML page, not text (a 404 or error page served as 200)")
             head = data[:20000].decode("utf-8", "replace")
             low = head.lower()
             r = {"status": "fetched", "bytes": len(data), "url": url}

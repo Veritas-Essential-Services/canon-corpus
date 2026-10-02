@@ -3,9 +3,11 @@
   "items": [
     {
       "id": "plato-jowett",
-      "status": "running",
+      "status": "done",
       "scope": "CLASSICAL \u2014 Benjamin Jowett complete English Plato (all dialogues); shelf + fetch + classical map section",
-      "started": "2026-10-02T15:11:32-05:00"
+      "started": "2026-10-02T15:11:32-05:00",
+      "finished": "2026-10-02T15:17:10-05:00",
+      "notes": "34 of 34 fetched (29 PG dialogues, 5 IA vols of the 1892 Clarendon set), 16.6 MB. Trial conversion of the PG texts with convert_gutenberg_prose: 22,162 paragraph units, 1.5M words. Not added to the build manifest (fetch_sources.py is off-limits during the burst) and not minted. No Stephanus numbers in the PG texts; IA set is raw OCR."
     },
     {
       "id": "aristotle-ross",

@@ -1,0 +1,53 @@
+{
+ "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix).",
+ "_name_words": ["plato", "jowett", "dialogues"],
+ "ccel": {},
+ "gutenberg": {
+  "plato-charmides":    [1580, "Charmides", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-lysis":        [1579, "Lysis", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-laches":       [1584, "Laches", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-protagoras":   [1591, "Protagoras", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-euthydemus":   [1598, "Euthydemus", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-cratylus":     [1616, "Cratylus", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-phaedrus":     [1636, "Phaedrus", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-ion":          [1635, "Ion", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-symposium":    [1600, "Symposium", "tr. Benjamin Jowett", "vol. 1"],
+  "plato-meno":         [1643, "Meno", "tr. Benjamin Jowett", "vol. 2"],
+  "plato-euthyphro":    [1642, "Euthyphro", "tr. Benjamin Jowett", "vol. 2"],
+  "plato-apology":      [1656, "Apology", "tr. Benjamin Jowett", "vol. 2"],
+  "plato-crito":        [1657, "Crito", "tr. Benjamin Jowett", "vol. 2"],
+  "plato-phaedo":       [1658, "Phaedo", "tr. Benjamin Jowett", "vol. 2"],
+  "plato-gorgias":      [1672, "Gorgias", "tr. Benjamin Jowett", "vol. 2"],
+  "plato-lesser-hippias": [1673, "Lesser Hippias", "tr. Benjamin Jowett (dubious; Jowett's Appendix I)", "vol. 2"],
+  "plato-alcibiades-1": [1676, "Alcibiades I", "tr. Benjamin Jowett (dubious; Appendix I)", "vol. 2"],
+  "plato-menexenus":    [1682, "Menexenus", "tr. Benjamin Jowett (Appendix I)", "vol. 2"],
+  "plato-alcibiades-2": [1677, "Alcibiades II", "tr. Matthew Knight for Jowett's edition (spurious; Appendix II)", "vol. 2"],
+  "plato-eryxias":      [1681, "Eryxias", "tr. Matthew Knight for Jowett's edition (spurious; Appendix II)", "vol. 2"],
+  "plato-republic":     [1497, "The Republic", "tr. Benjamin Jowett, with introduction and analysis", "vol. 3"],
+  "plato-timaeus":      [1572, "Timaeus", "tr. Benjamin Jowett", "vol. 3"],
+  "plato-critias":      [1571, "Critias", "tr. Benjamin Jowett", "vol. 3"],
+  "plato-parmenides":   [1687, "Parmenides", "tr. Benjamin Jowett", "vol. 4"],
+  "plato-theaetetus":   [1726, "Theaetetus", "tr. Benjamin Jowett", "vol. 4"],
+  "plato-sophist":      [1735, "Sophist", "tr. Benjamin Jowett", "vol. 4"],
+  "plato-statesman":    [1738, "Statesman", "tr. Benjamin Jowett", "vol. 4"],
+  "plato-philebus":     [1744, "Philebus", "tr. Benjamin Jowett", "vol. 4"],
+  "plato-laws":         [1750, "Laws", "tr. Benjamin Jowett", "vol. 5"]
+ },
+ "internet_archive": {
+  "plato-jowett-1892-v1": ["b24750189_0001", "The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 1", "tr. Benjamin Jowett"],
+  "plato-jowett-1892-v2": ["b24750189_0002", "The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 2", "tr. Benjamin Jowett"],
+  "plato-jowett-1892-v3": ["b24750189_0003", "The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 3", "tr. Benjamin Jowett"],
+  "plato-jowett-1892-v4": ["b24750189_0004", "The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 4", "tr. Benjamin Jowett"],
+  "plato-jowett-1892-v5": ["b24750189_0005", "The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 5", "tr. Benjamin Jowett"]
+ },
+ "_excluded": {
+  "pg150":   "The Republic, Jowett: duplicate of PG 1497 (shorter introduction); 1497 kept",
+  "pg55201": "The Republic of Plato, Jowett 3rd ed. of the separate Republic with marginal analysis and index: a different Jowett edition of the same text; PG 1497 kept as the Republic of the collected Dialogues. Pending as an alternate witness if Adam wants it",
+  "pg19840": "Euthyphro: catalogued but serves a 404 page; PG 1642 kept",
+  "pg76464": "The Dialogues of Plato, 3rd ed. 1892, vol. 2 only (clean Gutenberg transcription of the collected edition, 2025). Same text as the per-dialogue PG files; the other four volumes are not on Gutenberg yet. Pending: when PG finishes the set, it would be the cleanest collected edition",
+  "pg29441": "Project Gutenberg Works of Plato: An Index (an index page, not a text)",
+  "pg13726": "Apology, Crito and Phaedo of Socrates: Henry Cary translation, not Jowett",
+  "pg78618, pg79398": "The Works of Plato (Bohn, 6 vols.): Cary / Davis translations, not Jowett. Pending as a second translator shelf if wanted",
+  "Seventh Letter and the Epistles": "Jowett did not translate the Epistles in the Dialogues; not on this shelf"
+ }
+}
