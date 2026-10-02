@@ -1,0 +1,29 @@
+{
+ "_about": "Claudian, translator per title. Maurice Platnauer's Loeb (1922), 2 vols., clean Gutenberg (Latin facing kept; Gutenberg text from a later unaltered reprint). A. Hawkins's verse Works of Claudian (1817), vol. 1, raw IA OCR.",
+ "_name_words": [
+  "claudian"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "claudian-platnauer-v1": [
+   51443,
+   "Claudian, vol. 1",
+   "tr. Maurice Platnauer"
+  ],
+  "claudian-platnauer-v2": [
+   51444,
+   "Claudian, vol. 2",
+   "tr. Maurice Platnauer"
+  ]
+ },
+ "internet_archive": {
+  "claudian-hawkins-v1": [
+   "worksclaudian00hawkgoog",
+   "The Works of Claudian, vol. 1 (1817)",
+   "tr. A. Hawkins"
+  ]
+ },
+ "_excluded": {
+  "Hawkins vol. 2": "worksclaudian01hawkgoog has no text layer; pending"
+ }
+}
