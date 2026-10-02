@@ -1,5 +1,5 @@
 {
- "_about": "Seneca in English, translator per title: Aubrey Stewart (Bohn: On Benefits; Minor Dialogues with On Clemency), Roger L'Estrange (Morals, 1678), John Clarke (Quaestiones Naturales as Physical Science in the Time of Nero, 1910), Frank Justus Miller (the Tragedies, verse, 1907), Ella Isabel Harris (Medea and Daughters of Troy), Elizabeth Twining Hall (Octavia, dubious), W. H. D. Rouse (Apocolocyntosis; Gutenberg clears it as US PD; Rouse d. 1950). All clean Gutenberg.",
+ "_about": "Seneca in English, translator per title: Aubrey Stewart (Bohn: On Benefits; Minor Dialogues with On Clemency), Roger L'Estrange (Morals, 1678), John Clarke (Quaestiones Naturales as Physical Science in the Time of Nero, 1910), Frank Justus Miller (the Tragedies, verse, 1907), Ella Isabel Harris (Medea and Daughters of Troy), Elizabeth Twining Hall (Octavia, dubious), W. H. D. Rouse (Apocolocyntosis; Gutenberg clears it as US PD; Rouse d. 1950). All clean Gutenberg. Charles W. Super's De Providentia (1899, with Plutarch's De Sera Numinis Vindicta) added 2026-10-02.",
  "_name_words": [
   "seneca",
   "annaeus"
@@ -45,6 +45,11 @@
    10001,
    "Apocolocyntosis",
    "tr. W. H. D. Rouse; US PD per Gutenberg"
+  ],
+  "seneca-super-providentia": [
+   60831,
+   "Between Heathenism and Christianity: Seneca's De Providentia and Plutarch's De Sera Numinis Vindicta",
+   "tr. Charles W. Super (1899)"
   ]
  },
  "internet_archive": {},
