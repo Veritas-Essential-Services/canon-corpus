@@ -132,7 +132,19 @@ def ogl(path):
     return OGL.get(os.path.basename(os.path.dirname(path))) if path else None
 
 
-def perseus_rights(root, path=None):
+# Perseus files that are the Latin or Greek TEXT itself, not a translation
+# (Perseus's own labels are not trusted for this: some translations are
+# marked type="edition", Smart's English Horace xml:lang="lat").
+TEI_ORIGINAL = {
+    "tertullian-ad-martyras-lat", "tertullian-ad-scapulam-lat", "tertullian-adversus-iudaeos-lat",
+    "tertullian-de-carne-christi-lat", "tertullian-de-corona-lat", "tertullian-de-cultu-feminarum-lat",
+    "tertullian-de-exhortatione-castitatis-lat", "tertullian-de-fuga-lat", "tertullian-de-monogamia-lat",
+    "tertullian-de-paenitentia-lat", "tertullian-de-pallio-lat", "tertullian-de-praescriptione-lat",
+    "tertullian-de-virginibus-velandis-lat", "tertullian-ad-uxorem-lat",
+}
+
+
+def perseus_rights(root, path=None, original=False):
     """The rights block every Perseus-derived book carries. The translations
     are PD; Perseus's TEI, and any modernizing of the wording it did (the
     title says when), are CC BY-SA 4.0 -- share-alike. The licence is read
@@ -174,6 +186,22 @@ def perseus_rights(root, path=None):
                            f"({printed}); ")
                         + f"the TEI is share-alike: a derivative must credit "
                           f"{o['house'].split(' (')[0]} and carry the same licence."}
+    if original:
+        ed = tei_edition(root)
+        lang = {"lat": "Latin", "grc": "Greek"}.get(
+            body.find(f"{T}div[@type='edition']").get("{http://www.w3.org/XML/1998/namespace}lang"))
+        printed = ", ".join(x for x in (ed.get("editor"), ed.get("title"), ed.get("place"),
+                                         ed.get("date")) if x)
+        return {"license": "CC BY-SA 4.0",
+                "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
+                "source_url": f"https://github.com/PerseusDL/{repo}",
+                "redistribute_whole": True,
+                "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
+                         if lic is not None else
+                         "this file states no licence; the repository's licence is CC BY-SA 4.0")
+                        + f". The {lang} text is a public-domain printed edition ({printed}); "
+                          "the TEI is share-alike: a derivative must credit Perseus and carry "
+                          "the same licence."}
     return {"license": "CC BY-SA 4.0",
             "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
             "source_url": f"https://github.com/PerseusDL/{repo}",
@@ -678,6 +706,21 @@ TEI_PROSE = {
     "lives-of-prophets-dorotheus-grc": "Vit. Proph. (Dor.)",
     "lives-of-prophets-anonymous-grc": "Vit. Proph. (anon.)",
     "enoch-swete-grc": "1 En.",
+    # Tertullian's works CSEL lacks: Oehler's Latin (1853-54), from Perseus.
+    "tertullian-ad-martyras-lat": "Tert. Mart.",
+    "tertullian-ad-scapulam-lat": "Tert. Scap.",
+    "tertullian-adversus-iudaeos-lat": "Tert. Adv. Iud.",
+    "tertullian-de-carne-christi-lat": "Tert. Carn.",
+    "tertullian-de-corona-lat": "Tert. Cor.",
+    "tertullian-de-cultu-feminarum-lat": "Tert. Cult. fem.",
+    "tertullian-de-exhortatione-castitatis-lat": "Tert. Exh. cast.",
+    "tertullian-de-fuga-lat": "Tert. Fug.",
+    "tertullian-de-monogamia-lat": "Tert. Mon.",
+    "tertullian-de-paenitentia-lat": "Tert. Paen.",
+    "tertullian-de-pallio-lat": "Tert. Pall.",
+    "tertullian-de-praescriptione-lat": "Tert. Praescr.",
+    "tertullian-de-virginibus-velandis-lat": "Tert. Virg.",
+    "tertullian-ad-uxorem-lat": "Tert. Ux.",
     # The LATIN fathers, 2026-10-02: CSEL volumes (1867-1922) from
     # OpenGreekAndLatin/csel-dev, built from data/corpus/csel/. Unproofread
     # OCR, machine-corrected; the honesty field says so.
@@ -1214,9 +1257,10 @@ def convert_tei_prose(path, slug, abbrev):
     # read off the markup alone: some Perseus translations are labelled
     # type="edition", and Smart's English Horace xml:lang="lat".)
     ed_div = body.find(f"{T}div[@type='edition']") if body is not None else None
-    original = (ed_div is not None and ogl(path) is not None
-                and ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") == ogl(path)["lang"])
-    greek = original and ogl(path)["lang"] == "grc"
+    lang = ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") if ed_div is not None else None
+    original = ((ogl(path) is not None and lang == ogl(path)["lang"])
+                or (slug in TEI_ORIGINAL and lang in ("lat", "grc")))
+    greek = original and lang == "grc"
     if cut and body is not None and not any(is_part(d) for d in body.iter()):
         split(body, [])                         # no divisions at all: De Senectute
     else:
@@ -1252,7 +1296,7 @@ def convert_tei_prose(path, slug, abbrev):
                    "machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and "
                    "run-together words. A part the edition leaves unnumbered (a preface, "
                    "a table of chapters) is named by what it is: 1.preface.")
-    rights = perseus_rights(root, path)
+    rights = perseus_rights(root, path, original=slug in TEI_ORIGINAL)
     if slug in TEI_RIGHTS_NOTE:
         rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
     source = {"path": os.path.relpath(path, CORPUS), "format": "tei",

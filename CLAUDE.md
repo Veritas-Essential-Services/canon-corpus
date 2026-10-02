@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 166 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 167 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -234,6 +234,9 @@ The living truth for project state is the Obsidian vault:
   every book's honesty says so. An unnumbered part is named by its subtype
   (1.preface) in CSEL books only -- older books keep "?". Cyprian is not in
   csel-dev. Exclusions and why are in the CSEL comment.
+  Tertullian's works CSEL lacks come from Perseus (Oehler, 1853-54): 14
+  books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
+  edition and the rights say "Latin text", never "translation".
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of

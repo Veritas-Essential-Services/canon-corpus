@@ -1497,6 +1497,42 @@ PERSEUS = {
     "athenaeus-deipnosophists-yonge": ("canonical-greekLit",
         "tlg0008/tlg001/tlg0008.tlg001.perseus-eng2.xml",
         "Athenaeus, The Deipnosophists — C. D. Yonge (Bohn, 1854; d. 1891) (PD); urn ...tlg0008.tlg001.perseus-eng2"),
+    # TERTULLIAN in Latin, 2026-10-02: the works CSEL (table CSEL) lacks,
+    # from Perseus's Oehler edition (Leipzig, 1853-54; PD). The LATIN TEXT,
+    # not a translation (TEI_ORIGINAL in structure_texts.py). Ad uxorem is
+    # filed under stoa0276 (Pseudo-Tertullian) but is Tertullian's. NOT
+    # taken: Glover's Apologeticum (Loeb, 1931: not before 1931); Baxter's
+    # Augustine letters (Loeb, 1930: PD in the US but Baxter died 1973, so
+    # not in life+70 countries; the Latin is in CSEL already); Wright's
+    # Jerome letters (1933).
+    "tertullian-ad-martyras-lat": ("canonical-latinLit", "stoa0275/stoa001/stoa0275.stoa001.opp-lat1.xml",
+        "Tertullian, Ad martyras -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-ad-scapulam-lat": ("canonical-latinLit", "stoa0275/stoa003/stoa0275.stoa003.opp-lat1.xml",
+        "Tertullian, Ad Scapulam -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-adversus-iudaeos-lat": ("canonical-latinLit", "stoa0275/stoa005/stoa0275.stoa005.opp-lat1.xml",
+        "Tertullian, Adversus Iudaeos -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1854)"),
+    "tertullian-de-carne-christi-lat": ("canonical-latinLit", "stoa0275/stoa012/stoa0275.stoa012.opp-lat1.xml",
+        "Tertullian, De carne Christi -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1854)"),
+    "tertullian-de-corona-lat": ("canonical-latinLit", "stoa0275/stoa013/stoa0275.stoa013.opp-lat1.xml",
+        "Tertullian, De corona -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-cultu-feminarum-lat": ("canonical-latinLit", "stoa0275/stoa014/stoa0275.stoa014.opp-lat1.xml",
+        "Tertullian, De cultu feminarum -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-exhortatione-castitatis-lat": ("canonical-latinLit", "stoa0275/stoa015/stoa0275.stoa015.opp-lat1.xml",
+        "Tertullian, De exhortatione castitatis -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-fuga-lat": ("canonical-latinLit", "stoa0275/stoa016/stoa0275.stoa016.opp-lat1.xml",
+        "Tertullian, De fuga in persecutione -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-monogamia-lat": ("canonical-latinLit", "stoa0275/stoa019/stoa0275.stoa019.opp-lat1.xml",
+        "Tertullian, De monogamia -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-paenitentia-lat": ("canonical-latinLit", "stoa0275/stoa021/stoa0275.stoa021.opp-lat1.xml",
+        "Tertullian, De paenitentia -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-pallio-lat": ("canonical-latinLit", "stoa0275/stoa022/stoa0275.stoa022.opp-lat1.xml",
+        "Tertullian, De pallio -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-praescriptione-lat": ("canonical-latinLit", "stoa0275/stoa024/stoa0275.stoa024.opp-lat1.xml",
+        "Tertullian, De praescriptione haereticorum -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1854)"),
+    "tertullian-de-virginibus-velandis-lat": ("canonical-latinLit", "stoa0275/stoa029/stoa0275.stoa029.opp-lat1.xml",
+        "Tertullian, De virginibus velandis -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-ad-uxorem-lat": ("canonical-latinLit", "stoa0276/stoa002/stoa0276.stoa002.opp-lat1.xml",
+        "Tertullian, Ad uxorem -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).

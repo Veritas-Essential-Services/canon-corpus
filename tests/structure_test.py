@@ -1031,6 +1031,19 @@ check("csel: a Latin edition, its rights read from the file, the OCR caveat in h
 check("csel: an unnumbered part is named by its subtype; a mislabelled title is fixed by slug",
       [u["id"].split(":")[1] for u in _csb["units"]] == ["preface", "1"]
       and _csb["title"] == "De Baptismo" and "latin_letters" not in str(_csb["units"]))
+# A Perseus file that is the Latin text itself (TEI_ORIGINAL): its edition
+# recorded and its rights say so, not "the translation is public domain".
+_po = _CS.replace("Emil Kroymann", "Franz Oehler").replace("1906", "1853")
+_pop = os.path.join(_gd, "perseus-orig.xml")
+open(_pop, "w", encoding="utf-8").write(_po)
+st.TEI_ORIGINAL.add("perseus-orig")
+_pob = st.convert_tei_prose(_pop, "perseus-orig", "Tert.")
+st.TEI_ORIGINAL.discard("perseus-orig")
+_pnb = st.convert_tei_prose(_pop, "perseus-orig", "Tert.")
+check("perseus: a listed original records its edition; its rights name the Latin edition",
+      _pob["source"].get("language") == "lat" and "Franz Oehler" in _pob["rights"]["note"]
+      and "The Latin text is a public-domain printed edition" in _pob["rights"]["note"]
+      and "edition" not in _pnb["source"] and "translation itself" in _pnb["rights"]["note"])
 # A catena (Cramer): kephalaia, margin verse numbers, a lemma that runs on
 # over a second mark, a page-line <lb n> left unplaced, a misprinted margin
 # placed by the measured file, an unplaced kephalaion, and a placement file

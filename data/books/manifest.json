@@ -11192,5 +11192,285 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
   }
+ },
+ "tertullian-ad-martyras-lat": {
+  "title": "Ad Martyras",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "837807236e25c7d9c358ab8b9a3b76e5beb2335353042ca8c39a0c4b6ae5193c",
+  "units": 6,
+  "scheme": {
+   "citation": "Tert. Mart. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-ad-scapulam-lat": {
+  "title": "Ad Scapulam",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "b66d9b92a7a961af11d389bc62ad8e1c1a54d5ac18b0ed4e790e684dfe5a3b68",
+  "units": 5,
+  "scheme": {
+   "citation": "Tert. Scap. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-ad-uxorem-lat": {
+  "title": "Ad Uxorem",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "c31542c1aaccd30d25c59fc5865e6569668c2ec1526d07c0ede219891f690fe3",
+  "units": 16,
+  "scheme": {
+   "citation": "Tert. Ux. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-adversus-iudaeos-lat": {
+  "title": "Adversus Judaeos Liber",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "a81063a37844727fd0da08a4e0c66f7a86eb6443e7edd1918907702825ce286f",
+  "units": 14,
+  "scheme": {
+   "citation": "Tert. Adv. Iud. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1854); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-carne-christi-lat": {
+  "title": "De Carne Christi",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "375ae3305b58e8624f0f319f6b0b392e562e03753ac89b0fb80f2c7feee99484",
+  "units": 25,
+  "scheme": {
+   "citation": "Tert. Carn. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1854); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-corona-lat": {
+  "title": "De Corona",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "106af1cce6ffa635c540b6a7d6d21a00eae46075b6de8475cdbf8c7d68fd5a30",
+  "units": 15,
+  "scheme": {
+   "citation": "Tert. Cor. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-cultu-feminarum-lat": {
+  "title": "De Cultu Feminarum",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "936202f8cde30c2d850e5ebd7cbed6be98e48db8ef5d4060a3c638d833075beb",
+  "units": 22,
+  "scheme": {
+   "citation": "Tert. Cult. fem. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-exhortatione-castitatis-lat": {
+  "title": "De Exhortatione Castitatis Liber",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "9bccff7f1ea2147413e85efe5b01d8412ac1eb662d114eade68c976599dd20d7",
+  "units": 13,
+  "scheme": {
+   "citation": "Tert. Exh. cast. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-fuga-lat": {
+  "title": "De Fuga in Persecutione",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "8d3d279cfe64224f4171d3287dd35e556b538460c622282dd4f4d4d04433f534",
+  "units": 14,
+  "scheme": {
+   "citation": "Tert. Fug. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-monogamia-lat": {
+  "title": "De Monogamia",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "4ecbe5cdd1912da86d1f3493526ee64c7b754f6d30cfda15acd3f6820bc4971a",
+  "units": 16,
+  "scheme": {
+   "citation": "Tert. Mon. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-paenitentia-lat": {
+  "title": "De Paenitentia",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "045e70b5c48d9eadd19484dd6b930c643b912f50403a31c84680b29c2f464317",
+  "units": 12,
+  "scheme": {
+   "citation": "Tert. Paen. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-pallio-lat": {
+  "title": "De Pallio",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "53e54405da112bb97389c40cc2dd941c6b90e5f828cc3b71c7a29118c94e91af",
+  "units": 6,
+  "scheme": {
+   "citation": "Tert. Pall. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-praescriptione-lat": {
+  "title": "De Praescriptionibus Hereticorum",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "bbb5b7f7dc7173c24dd61e4d9d97b7021b8f49ff9f7d49ded95a2997da781b8c",
+  "units": 41,
+  "scheme": {
+   "citation": "Tert. Praescr. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1854); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "tertullian-de-virginibus-velandis-lat": {
+  "title": "De Virginibus Velandis",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "d7cec1c65930ce8f2c953aed7daf47ae0112e17e0c28dc1b29086302a58b81b7",
+  "units": 17,
+  "scheme": {
+   "citation": "Tert. Virg. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Oehler, Quinti Septimii Florentis Tertulliani Quae Supersunt Omnia, Leipzig, 1853); the TEI is share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }
