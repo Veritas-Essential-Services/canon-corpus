@@ -1,5 +1,5 @@
 {
- "_about": "Plautus and Terence in English, translator per title. Plautus: Henry T. Riley's prose Comedies (Bohn, 1852; 1913 printing, 2 vols., raw IA, complete) and his Captivi and Mostellaria (clean Gutenberg). Terence: Riley's prose Comedies (Bohn) and George Colman's verse, clean Gutenberg; W. R. Goodluck's Andrian. Paul Nixon's Loeb Plautus vol. 1 (1916; Gutenberg, Latin facing kept) added 2026-10-02 from the bilingual catalogue.",
+ "_about": "Plautus and Terence in English, translator per title. Plautus: Henry T. Riley's prose Comedies (Bohn, 1852; 1913 printing, 2 vols., raw IA, complete) and his Captivi and Mostellaria (clean Gutenberg). Terence: Riley's prose Comedies (Bohn) and George Colman's verse, clean Gutenberg; W. R. Goodluck's Andrian. Paul Nixon's Loeb Plautus vol. 1 (1916; Gutenberg, Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "plautus",
   "terence",
@@ -44,10 +44,25 @@
    "comediesofplautu02plauuoft",
    "The Comedies of Plautus, vol. 2 (Bohn; 1913 printing)",
    "tr. Henry T. Riley"
+  ],
+  "plautus-nixon-v3": [
+   "plautus03plau",
+   "Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)",
+   "tr. Paul Nixon"
+  ],
+  "terence-sargeaunt-v1": [
+   "terence000ijohn",
+   "Terence, vol. 1 (Loeb, 1912)",
+   "tr. John Sargeaunt"
+  ],
+  "terence-sargeaunt-v2": [
+   "terence00iijohn",
+   "Terence, vol. 2 (Loeb, 1912)",
+   "tr. John Sargeaunt"
   ]
  },
  "_excluded": {
-  "Paul Nixon, Loeb Plautus (1916-38)": "early vols. US PD by date; pending",
+  "Paul Nixon, Loeb Plautus (1916-38)": "vols. 1 (PG) and 3 (IA) held; vol. 2 (1917) no readable scan yet; vols. 4-5 first printed 1932 and 1938, not PD",
   "Bonnell Thornton's Plautus (1767-74)": "PD verse; pending"
  }
 }
