@@ -28,7 +28,7 @@ python3 pipeline/build_strongs.py --adopt    # ONLY on Adam's ruling (s.4)
 | `witnesses.jsonl` | Strong's number | Which entries in BDB, TBESG, LSJ and Thayer write that word up. Citations only. |
 | `concordance.jsonl` | number that occurs | Every passage uid it occurs in, per corpus (`kjv`, `nt`), and how many tokens. |
 | `kjv-tags.jsonl` | KJV verse (31,102) | Each tagged English word or phrase, in verse order, with its Strong's key. |
-| `parallels.jsonl` | KJV verse numbered differently elsewhere (3,050) | Its verse ids in the Clementine Vulgate and the Douay-Rheims. |
+| `parallels.jsonl` | KJV verse numbered differently elsewhere (5,423) | Its verse ids in the Clementine Vulgate, the Douay-Rheims and Brenton's Septuagint. |
 | `concordance-view.jsonl` | used number (14,197) | **The concordance view**: everything above about one number, in one row (s.9). |
 | `kjv-renderings.jsonl` | number the KJV tags | Every English rendering of it and how often: the index of Strong's Exhaustive Concordance. |
 | `manifest.json` | — | Sources and their sha256, counts, and what is not claimed. |
@@ -189,16 +189,15 @@ built from the other files so nobody has to join them by hand:
   order. Their uids are in `concordance.jsonl`.
 - **`lexicons`** is the number's `witnesses.jsonl` row: citations into Strong's, BDB,
   TBESG, LSJ and Thayer.
-- **`parallels`** lists only the verses whose number differs in the parallel Bible. A
-  verse not listed is the same verse in each (`vulgate:Gen.1.1`, `douay:Gen.1.1`). An
-  empty list means that Bible has no verse holding the text (Gen 49:32 in the
-  Clementine). The ids come from `convert_vulgate` and `convert_douay` (PR #9): each
-  unit's `kjv` target, read backwards, through `data/versification/vulgate-kjv.json`.
+- **`parallels`** lists only the verses whose number differs in a parallel Bible. A
+  verse not listed is the same verse in each (`vulgate:Gen.1.1`, `douay:Gen.1.1`,
+  `brenton:Gen.1.1`). An empty list means that Bible has no verse holding the text
+  (Gen 49:32 in the Clementine). The ids come from PR #9's `convert_vulgate`,
+  `convert_douay` and `convert_brenton`: each unit's `kjv` target, read backwards,
+  through `data/versification/vulgate-kjv.json` and `brenton-kjv.json`. Brenton is the
+  Old Testament only, so no New Testament verse lists it.
 
 What the view does not have yet:
 - **Thayer.** PR #7's entries (4,940 linked to Strong's) are built from OCR that lives
   only on Adam's machine. The entry links are gitignored, so they are not on any branch.
   The first local build fills the `thayer` lists, and cloud builds keep them after that.
-- **Brenton's Septuagint.** No Brenton text is in this repo. A Septuagint to KJV map
-  exists on branch `claude/happy-carson-m9ajwl` (`lxx-kjv.tsv`, CC BY-SA), which is
-  not a PR in this project. It wires in as a third parallel once it lands.

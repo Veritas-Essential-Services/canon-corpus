@@ -411,6 +411,7 @@ USFM_OSIS = dict(zip(
     "Matt Mark Luke John Acts Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm "
     "Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev".split()))
 
+NT_BOOKS = set(list(USFM_OSIS.values())[39:])
 USFM_ORDER = {o: i for i, o in enumerate(USFM_OSIS.values())}
 RE_KJV_W = re.compile(r'\\\+?w ([^|\\]+)\|strong="([HG]\d+)"\\\+?w\*')
 RE_FOOTNOTE = re.compile(r"\\f .*?\\f\*", re.S)
@@ -629,17 +630,23 @@ def _douay_units():
     return S.convert_douay(p, F.VULGATE["books"], sha256(p))["units"]
 
 
+def _brenton_units():
+    p = os.path.join(S.CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    return S.convert_brenton(p, sha256(p))["units"]
+
+
+_VMAP = os.path.join(ROOT, "data", "versification")
 PARALLELS = {
-    "vulgate": (_vulgate_units, [os.path.join(S.CORPUS, "vulgate")],
+    "vulgate": (_vulgate_units, [os.path.join(S.CORPUS, "vulgate"), os.path.join(_VMAP, "vulgate-kjv.json")],
                 "Clementine Vulgate (1592, PD), through data/versification/vulgate-kjv.json"),
-    "douay": (_douay_units, [os.path.join(S.CORPUS, "douay", "DRC.json")],
+    "douay": (_douay_units, [os.path.join(S.CORPUS, "douay", "DRC.json"), os.path.join(_VMAP, "vulgate-kjv.json")],
               "Douay-Rheims, Challoner (PD), in the Vulgate's numbering, through the same map"),
+    "brenton": (_brenton_units, [os.path.join(S.CORPUS, "brenton", "eng-Brenton_usfm.zip"),
+                                 os.path.join(_VMAP, "brenton-kjv.json")],
+                "Brenton's English Septuagint (1851, PD), in its own numbering, through "
+                "data/versification/brenton-kjv.json (Old Testament only)"),
 }
-PARALLELS_NOT_YET = {
-    "brenton": ("Brenton's Septuagint is not in this repo. A Septuagint->KJV map exists on "
-                "branch claude/happy-carson-m9ajwl (data/versification/lxx-kjv.tsv, CC BY-SA), "
-                "which is not a PR in this project; it wires in here once it lands."),
-}
+PARALLELS_NOT_YET = {}
 
 
 def build_parallels(prior_rows):
@@ -649,8 +656,7 @@ def build_parallels(prior_rows):
     by_kjv, stats, carried = {}, {}, []
     have = {}
     for name, (units_fn, paths, what) in PARALLELS.items():
-        if not all(os.path.exists(p) for p in paths) or not os.path.exists(
-                os.path.join(ROOT, "data", "versification", "vulgate-kjv.json")):
+        if not all(os.path.exists(p) for p in paths):
             carried.append(name)
             continue
         units = units_fn()
@@ -680,6 +686,8 @@ def build_parallels(prior_rows):
         for name in PARALLELS:
             if name in carried and name not in par:
                 continue                   # carried, and the committed file had it same-numbered
+            if name == "brenton" and osis.split(".")[0] in NT_BOOKS:
+                continue                   # the Septuagint has no New Testament
             ids = par.get(name, [])
             if ids != [f"{name}:{osis}"]:
                 out[name] = ids            # [] = no verse of that Bible holds it
@@ -778,7 +786,7 @@ def build():
         "view": {"file": "concordance-view.jsonl",
                  "row": ("one per used Strong's number: lemma, definition, every lexicon entry "
                          "(citations), every KJV verse and English rendering, and for each "
-                         "verse whose number differs, its Vulgate and Douay verse ids")},
+                         "verse whose number differs, its Vulgate, Douay and Brenton verse ids")},
         "oshb_layer": dict(OSHB_RIGHTS, built_to="build/strongs/oshb-ot/<Book>.jsonl",
                            how="python3 pipeline/build_strongs.py (when the pinned WLC is in data/corpus/)"),
         "not_claimed": [

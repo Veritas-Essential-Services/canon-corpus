@@ -178,7 +178,9 @@ ok(all(r["lexicons"] == ww[r["strongs"]] for r in view), "a row's lexicons are i
 ok("Ps.23.1" in vb["H7462"]["kjv"]["verses"] and vb["H7462"]["parallels"]["Ps.23.1"]["vulgate"] == ["vulgate:Ps.22.1"],
    "H7462 (shepherd): Ps 23:1, with its Vulgate verse 22:1")
 ok(vb["G26"]["kjv"]["renderings"].get("charity") == 28, "G26: the KJV renders it charity 28 times")
-ok("brenton" in man["parallels"]["not_yet"], "Brenton is named as not yet wired, not silently absent")
+ok(pp.get("Ps.23.1", {}).get("brenton") == ["brenton:Ps.22.1"], "Psalm 23:1 is Brenton's Psalm 22:1")
+ok(not any("brenton" in v for o, v in pp.items() if o.split(".")[0] in B.NT_BOOKS),
+   "no New Testament verse is listed for Brenton (the Septuagint has none)")
 
 # -- OSHB's CC BY layer: built locally, never committed -------------------------
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "build/strongs"], capture_output=True, text=True)
