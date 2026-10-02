@@ -3,43 +3,44 @@
   "items": [
     {
       "id": "flavel",
-      "status": "todo",
-      "scope": "John Flavel — complete public-domain works; shelf + fetch + map section"
+      "status": "running",
+      "scope": "John Flavel \u2014 complete public-domain works; shelf + fetch + map section",
+      "started": "2026-10-02T15:11:12-05:00"
     },
     {
       "id": "bunyan",
       "status": "todo",
-      "scope": "John Bunyan — complete public-domain works (collected Works); shelf + fetch + map section"
+      "scope": "John Bunyan \u2014 complete public-domain works (collected Works); shelf + fetch + map section"
     },
     {
       "id": "ryle",
       "status": "todo",
-      "scope": "J.C. Ryle — all public-domain works; shelf + fetch + map section"
+      "scope": "J.C. Ryle \u2014 all public-domain works; shelf + fetch + map section"
     },
     {
       "id": "horatius-bonar",
       "status": "todo",
-      "scope": "Horatius Bonar — prose works; hymns listed only as 'see hymn manifest'"
+      "scope": "Horatius Bonar \u2014 prose works; hymns listed only as 'see hymn manifest'"
     },
     {
       "id": "andrew-bonar",
       "status": "todo",
-      "scope": "Andrew A. Bonar — all public-domain works incl. Memoir of M'Cheyne"
+      "scope": "Andrew A. Bonar \u2014 all public-domain works incl. Memoir of M'Cheyne"
     },
     {
       "id": "saphir",
       "status": "todo",
-      "scope": "Adolph Saphir — all public-domain works"
+      "scope": "Adolph Saphir \u2014 all public-domain works"
     },
     {
       "id": "edwards-gaps",
       "status": "todo",
-      "scope": "Jonathan Edwards — gap audit against edwards_shelf.json; add verified gaps only; map section"
+      "scope": "Jonathan Edwards \u2014 gap audit against edwards_shelf.json; add verified gaps only; map section"
     },
     {
       "id": "overflow-summa",
       "status": "overflow",
-      "scope": "Aquinas, Summa Theologiae — census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids"
+      "scope": "Aquinas, Summa Theologiae \u2014 census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids"
     }
   ]
 }
