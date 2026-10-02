@@ -1,0 +1,137 @@
+{
+ "_about": "J. M. Barrie's (1860-1937) books published before 1930: the Peter Pan books (the novel Peter and Wendy, Peter Pan in Kensington Gardens, the earlier Little White Bird they grew from, and the play as printed in 1928), the Thrums books, the Tommy novels, the plays, sketches and addresses. Clean Gutenberg text; all published before 1930: US public domain. Barrie died in 1937, so life+70 and life+80 countries differ, and the UK gives Great Ormond Street Hospital a perpetual right to royalties on Peter Pan performances and publications; this shelf records US status only.",
+ "_author": "J. M. Barrie",
+ "_name_words": [
+  "barrie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "barrie-peter-and-wendy": [
+   16,
+   "Peter and Wendy (1911), the Peter Pan novel"
+  ],
+  "barrie-peter-pan-play": [
+   78131,
+   "Peter Pan; or, The Boy Who Would Not Grow Up (play, first printed New York 1928)"
+  ],
+  "barrie-peter-pan-in-kensington-gardens": [
+   1332,
+   "Peter Pan in Kensington Gardens (1906)"
+  ],
+  "barrie-little-white-bird": [
+   1376,
+   "The Little White Bird; or, Adventures in Kensington Gardens (1902)"
+  ],
+  "barrie-auld-licht-idylls": [
+   8590,
+   "Auld Licht Idylls (1888)"
+  ],
+  "barrie-window-in-thrums": [
+   20914,
+   "A Window in Thrums (1889)",
+   {
+    "contents_only": true
+   }
+  ],
+  "barrie-little-minister": [
+   5093,
+   "The Little Minister (1891)"
+  ],
+  "barrie-sentimental-tommy": [
+   14961,
+   "Sentimental Tommy (1896)"
+  ],
+  "barrie-tommy-and-grizel": [
+   11901,
+   "Tommy and Grizel (1900)"
+  ],
+  "barrie-margaret-ogilvy": [
+   342,
+   "Margaret Ogilvy (1896)"
+  ],
+  "barrie-better-dead": [
+   20807,
+   "Better Dead (1887)"
+  ],
+  "barrie-when-a-mans-single": [
+   41031,
+   "When a Man's Single (1888)"
+  ],
+  "barrie-my-lady-nicotine": [
+   18934,
+   "My Lady Nicotine (1890)"
+  ],
+  "barrie-edinburgh-eleven": [
+   39203,
+   "An Edinburgh Eleven (1889)"
+  ],
+  "barrie-holiday-in-bed": [
+   39543,
+   "A Holiday in Bed, and Other Sketches (1892)"
+  ],
+  "barrie-quality-street": [
+   31266,
+   "Quality Street (play, 1901; printed 1913)",
+   {
+    "levels": [
+     {
+      "re": "ACT [IVX]+$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "barrie-admirable-crichton": [
+   3490,
+   "The Admirable Crichton (play, 1902; printed 1914)"
+  ],
+  "barrie-alice-sit-by-the-fire": [
+   6965,
+   "Alice Sit-by-the-Fire (play, 1905)",
+   {
+    "chapre_only": "(?:ACT )?[IVX]+\\.?$"
+   }
+  ],
+  "barrie-what-every-woman-knows": [
+   5654,
+   "What Every Woman Knows (play, 1908)"
+  ],
+  "barrie-der-tag": [
+   39178,
+   "Der Tag; or, The Tragic Man (play, 1914)"
+  ],
+  "barrie-echoes-of-the-war": [
+   9617,
+   "Echoes of the War (four plays, 1918)"
+  ],
+  "barrie-dear-brutus": [
+   4021,
+   "Dear Brutus (play, 1917)"
+  ],
+  "barrie-kiss-for-cinderella": [
+   69817,
+   "A Kiss for Cinderella (play, 1916; printed 1920)",
+   {
+    "chapre_only": "(?:ACT )?[IVX]+\\.?$"
+   }
+  ],
+  "barrie-mary-rose": [
+   71067,
+   "Mary Rose (play, 1920; printed 1924)"
+  ],
+  "barrie-courage": [
+   10767,
+   "Courage (rectorial address, St Andrews, 1922)"
+  ],
+  "barrie-neither-dorking-nor-the-abbey": [
+   40894,
+   "Neither Dorking nor the Abbey (1911), on George Meredith"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "barrie-duplicates": "other transcriptions of books held: Peter and Wendy ill. F. D. Bedford (PG 26654), Peter Pan in Kensington Gardens ill. Rackham (26998, 26999), Auld Licht Idyls (20918), The Little Minister ill. Gilbert (33901), The Admirable Crichton ed. Temi Rose (51566, a modern edition with new editorial matter); PG 22984 is an audio recording, not a text; The Old Lady Shows Her Medals (PG 70315) is the Kirriemuir Edition volume of all four Echoes of the War plays, held as 9617",
+  "barrie-not-his": "anthologies and books by others he contributed to or introduced (PG 2135, 2588, 21415 Daisy Ashford's Young Visiters, 26146, 37970, 39755 O'Connor's retelling, 43084 Mrs. Oliphant, 62942), Widger's index (58824)",
+  "barrie-not-on-gutenberg": "PENDING: his books not on Gutenberg (for example The Boy Castaways, Shall We Join the Ladies?); not searched for this pass"
+ }
+}

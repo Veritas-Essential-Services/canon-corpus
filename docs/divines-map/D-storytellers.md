@@ -636,6 +636,42 @@ Shelf: `pipeline/grahame_shelf.json` (2026-10-02; added at the coordinator's rel
 | grahame-duplicates | excluded | other transcriptions of books held: The Wind in the Willows (PG 22340, 22341, 26293, 27805 ill. Bransom), The Golden Age (32501 ill. Parrish, 53250), Dream Days (1288, 35187 ill. Parrish), The Reluctant Dragon (21588, a chapter of Dream Days) |
 | grahame-not-his | excluded | anthologies he edited: The Cambridge Book of Poetry for Children (50994), Eugene Field's Lullaby-Land (54874) |
 
+## J. M. Barrie
+
+Shelf: `pipeline/barrie_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 26 books published before 1930: Peter and Wendy, the Peter Pan play as printed in 1928, Peter Pan in Kensington Gardens and The Little White Bird it came from; the Thrums books and Tommy novels; sketches and addresses; and the plays, which cite by act. US status only: Barrie died in 1937, and the UK grants Great Ormond Street Hospital a perpetual royalty right in Peter Pan. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Peter and Wendy (1911), the Peter Pan novel | have | PG 16, `barrie-peter-and-wendy` (1658 units) |
+| Peter Pan; or, The Boy Who Would Not Grow Up (play, first printed New York 1928) | have | PG 78131, `barrie-peter-pan-play` (1119 units) |
+| Peter Pan in Kensington Gardens (1906) | have | PG 1332, `barrie-peter-pan-in-kensington-gardens` (207 units) |
+| The Little White Bird; or, Adventures in Kensington Gardens (1902) | have | PG 1376, `barrie-little-white-bird` (1156 units) |
+| Auld Licht Idylls (1888) | have | PG 8590, `barrie-auld-licht-idylls` (482 units) |
+| A Window in Thrums (1889) | have | PG 20914, `barrie-window-in-thrums` (1042 units) |
+| The Little Minister (1891) | have | PG 5093, `barrie-little-minister` (3291 units) |
+| Sentimental Tommy (1896) | have | PG 14961, `barrie-sentimental-tommy` (2406 units) |
+| Tommy and Grizel (1900) | have | PG 11901, `barrie-tommy-and-grizel` (2870 units) |
+| Margaret Ogilvy (1896) | have | PG 342, `barrie-margaret-ogilvy` (491 units) |
+| Better Dead (1887) | have | PG 20807, `barrie-better-dead` (776 units) |
+| When a Man's Single (1888) | have | PG 41031, `barrie-when-a-mans-single` (1932 units) |
+| My Lady Nicotine (1890) | have | PG 18934, `barrie-my-lady-nicotine` (529 units) |
+| An Edinburgh Eleven (1889) | have | PG 39203, `barrie-edinburgh-eleven` (129 units) |
+| A Holiday in Bed, and Other Sketches (1892) | have | PG 39543, `barrie-holiday-in-bed` (348 units) |
+| Quality Street (play, 1901; printed 1913) | have | PG 31266, `barrie-quality-street` (1200 units) |
+| The Admirable Crichton (play, 1902; printed 1914) | have | PG 3490, `barrie-admirable-crichton` (1318 units) |
+| Alice Sit-by-the-Fire (play, 1905) | have | PG 6965, `barrie-alice-sit-by-the-fire` (1266 units) |
+| What Every Woman Knows (play, 1908) | have | PG 5654, `barrie-what-every-woman-knows` (1485 units) |
+| Der Tag; or, The Tragic Man (play, 1914) | have | PG 39178, `barrie-der-tag` (137 units) |
+| Echoes of the War (four plays, 1918) | have | PG 9617, `barrie-echoes-of-the-war` (1502 units) |
+| Dear Brutus (play, 1917) | have | PG 4021, `barrie-dear-brutus` (1184 units) |
+| A Kiss for Cinderella (play, 1916; printed 1920) | have | PG 69817, `barrie-kiss-for-cinderella` (1218 units) |
+| Mary Rose (play, 1920; printed 1924) | have | PG 71067, `barrie-mary-rose` (1198 units) |
+| Courage (rectorial address, St Andrews, 1922) | have | PG 10767, `barrie-courage` (61 units) |
+| Neither Dorking nor the Abbey (1911), on George Meredith | have | PG 40894, `barrie-neither-dorking-nor-the-abbey` (20 units) |
+| barrie-duplicates | excluded | other transcriptions of books held: Peter and Wendy ill. F. D. Bedford (PG 26654), Peter Pan in Kensington Gardens ill. Rackham (26998, 26999), Auld Licht Idyls (20918), The Little Minister ill. Gilbert (33901), The Admirable Crichton ed. Temi Rose (51566, a modern edition with new editorial matter); PG 22984 is an audio recording, not a text; The Old Lady Shows Her Medals (PG 70315) is the Kirriemuir Edition volume of all four Echoes of the War plays, held as 9617 |
+| barrie-not-his | excluded | anthologies and books by others he contributed to or introduced (PG 2135, 2588, 21415 Daisy Ashford's Young Visiters, 26146, 37970, 39755 O'Connor's retelling, 43084 Mrs. Oliphant, 62942), Widger's index (58824) |
+| barrie-not-on-gutenberg | pending | his books not on Gutenberg (for example The Boy Castaways, Shall We Join the Ladies?); not searched for this pass |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -171,8 +171,11 @@
     },
     {
       "id": "barrie",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — J. M. Barrie: Peter Pan (Peter and Wendy, Peter Pan in Kensington Gardens) and his other books published before 1930; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — J. M. Barrie: Peter Pan (Peter and Wendy, Peter Pan in Kensington Gardens) and his other books published before 1930; no minting",
+      "started": "2026-10-02T16:21:20-05:00",
+      "finished": "2026-10-02T16:24:00-05:00",
+      "notes": "26/26 fetched (Gutenberg), 0 copyright markers; 29,025 units. Peter Pan novel, 1928 play, Kensington Gardens, Little White Bird, Thrums, Tommy novels, sketches, 11 plays by act. PG 70315 dropped as a duplicate of Echoes of the War. No uids minted; not in manifest."
     },
     {
       "id": "baum",
