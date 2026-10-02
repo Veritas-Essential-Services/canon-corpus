@@ -3,13 +3,14 @@
   "items": [
     {
       "id": "shelf-dryden",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF — all John Dryden translations, each title its own uid; own grouping; shelf + fetch + map section"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF \u2014 all John Dryden translations, each title its own uid; own grouping; shelf + fetch + map section",
+      "started": "2026-10-02T15:20-05:00"
     },
     {
       "id": "shelf-garnett",
       "status": "todo",
-      "scope": "TRANSLATOR SHELF — Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section"
+      "scope": "TRANSLATOR SHELF \u2014 Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section"
     }
   ]
 }
