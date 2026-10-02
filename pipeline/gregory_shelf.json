@@ -1,0 +1,49 @@
+{
+ "_about": "Lady Gregory's (1852-1932) retellings of the Irish sagas and her collected folklore: Cuchulain of Muirthemne (1902; raw Internet Archive OCR of the 1903 Scribner printing), Gods and Fighting Men (1904), The Kiltartan Wonder Book (1910) and Visions and Beliefs in the West of Ireland (1920, two series, with Yeats's notes). Her own English from Irish sources; she is the translator. Published before 1929: US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lady Gregory",
+ "_name_words": [
+  "gods",
+  "cuchulain",
+  "kiltartan",
+  "visions",
+  "beliefs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gregory-gods-and-fighting-men": [
+   14465,
+   "Gods and Fighting Men, tr. and arranged by Lady Gregory, preface by W. B. Yeats (1904)",
+   {
+    "contents_only": true
+   }
+  ],
+  "gregory-kiltartan-wonder-book": [
+   76322,
+   "The Kiltartan Wonder Book (1910)",
+   {
+    "contents_only": true
+   }
+  ],
+  "gregory-visions-and-beliefs-1": [
+   43973,
+   "Visions and Beliefs in the West of Ireland, collected by Lady Gregory, notes by W. B. Yeats, first series (1920)",
+   {
+    "contents_only": true
+   }
+  ],
+  "gregory-visions-and-beliefs-2": [
+   43974,
+   "Visions and Beliefs in the West of Ireland, second series (1920)"
+  ]
+ },
+ "internet_archive": {
+  "gregory-cuchulain-of-muirthemne": [
+   "cuchulainofmuirt00greg_0",
+   "Cuchulain of Muirthemne, arranged and put into English by Lady Gregory, preface by W. B. Yeats (1902; New York: Scribner, 1903)"
+  ]
+ },
+ "_excluded": {
+  "gregory-plays": "her plays (Seven Short Plays, New Comedies, Three Wonder Plays and others): drama, outside this shelf",
+  "gregory-other": "The Kiltartan History Book (PG 11260), The Kiltartan Poetry Book (6656), Poets and Dreamers (18070), Our Irish Theatre (65953), Arabi and his Household (74246): candidates for a later batch or another lane"
+ }
+}

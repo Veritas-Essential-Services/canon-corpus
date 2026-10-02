@@ -930,6 +930,20 @@ Shelf: `pipeline/hyde_shelf.json` (2026-10-02; added at the coordinator's relay 
 | Beside the Fire: A Collection of Irish Gaelic Folk Stories, ed. and tr. Douglas Hyde, notes by Alfred Nutt (London: David Nutt, 1890) | have-raw | IA `besidefirecollec00hyde`, `hyde-beside-the-fire` |
 | hyde-other | excluded | A Literary History of Ireland (PG 53793) and the Revival of Irish Literature addresses (32746): history and criticism, not tales |
 
+## Lady Gregory (Irish sagas and folklore)
+
+Shelf: `pipeline/gregory_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her retellings of the Ulster and Fenian cycles and her collected folklore, all before 1929. Gods and Fighting Men, The Kiltartan Wonder Book and the first series of Visions and Beliefs are cut by their own Contents; Cuchulain of Muirthemne is raw IA OCR (grade A). Her plays are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Gods and Fighting Men, tr. and arranged by Lady Gregory, preface by W. B. Yeats (1904) | have | PG 14465, `gregory-gods-and-fighting-men` (2140 units) |
+| The Kiltartan Wonder Book (1910) | have | PG 76322, `gregory-kiltartan-wonder-book` (221 units) |
+| Visions and Beliefs in the West of Ireland, collected by Lady Gregory, notes by W. B. Yeats, first series (1920) | have | PG 43973, `gregory-visions-and-beliefs-1` (1063 units) |
+| Visions and Beliefs in the West of Ireland, second series (1920) | have | PG 43974, `gregory-visions-and-beliefs-2` (1270 units) |
+| Cuchulain of Muirthemne, arranged and put into English by Lady Gregory, preface by W. B. Yeats (1902; New York: Scribner, 1903) | have-raw | IA `cuchulainofmuirt00greg_0`, `gregory-cuchulain-of-muirthemne` |
+| gregory-plays | excluded | her plays (Seven Short Plays, New Comedies, Three Wonder Plays and others): drama, outside this shelf |
+| gregory-other | excluded | The Kiltartan History Book (PG 11260), The Kiltartan Poetry Book (6656), Poets and Dreamers (18070), Our Irish Theatre (65953), Arabi and his Household (74246): candidates for a later batch or another lane |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

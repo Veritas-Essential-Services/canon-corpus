@@ -192,3 +192,6 @@
 
 ## 2026-10-02 17:19 CDT — hyde: done
 - 2/2 fetched (Gutenberg 45910; IA besidefirecollec00hyde), 1,803 units, 0 ~2 ids; Beside the Fire raw OCR, grade C from its facing Irish text.
+
+## 2026-10-02 17:19 CDT — gregory: done
+- 5/5 fetched (Gutenberg 14465, 76322, 43973, 43974; IA cuchulainofmuirt00greg_0), 4,694 units, 11 ~2 ids (Visions and Beliefs).
