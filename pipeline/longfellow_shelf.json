@@ -1,12 +1,7 @@
 {
  "_about": "TRANSLATOR SHELF: Henry Wadsworth Longfellow (1807-1882) as translator. Dante's Divine Comedy (1867, line-for-line blank verse) and the TRANSLATIONS section of his Complete Poetical Works (Coplas de Manrique, Spanish, Scandinavian, German, Anglo-Saxon, French, Italian incl. Michelangelo, Portuguese, Eastern pieces). PD. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "longfellow",
-  "henry",
-  "wadsworth",
-  "dante",
-  "divine",
-  "comedy"
+  "longfellow"
  ],
  "ccel": {},
  "gutenberg": {
@@ -33,19 +28,22 @@
    "source": "longfellow-inferno",
    "of": "Dante",
    "work": "Inferno",
-   "translated": 1867
+   "translated": 1867,
+   "translator": "Henry Wadsworth Longfellow"
   },
   "longfellow-purgatorio": {
    "source": "longfellow-purgatorio",
    "of": "Dante",
    "work": "Purgatorio",
-   "translated": 1867
+   "translated": 1867,
+   "translator": "Henry Wadsworth Longfellow"
   },
   "longfellow-paradiso": {
    "source": "longfellow-paradiso",
    "of": "Dante",
    "work": "Paradiso",
-   "translated": 1867
+   "translated": 1867,
+   "translator": "Henry Wadsworth Longfellow"
   },
   "longfellow-translations": {
    "source": "longfellow-poetical-works",
@@ -60,7 +58,8 @@
    "of": "various",
    "work": "Translations (Complete Poetical Works): Coplas de Manrique, Spanish ballads and sonnets, Frithiof's Saga passages, German lyrics, Beowulf passage, French, Italian (Michelangelo sonnets, Dante passages), Portuguese, Eastern",
    "translated": "1833-1882",
-   "note": "Stops before 'From the Latin' (Virgil Eclogue I, Ovid Tristia III.10/12): non-Dryden Ovid and Virgil belong to lane B's author sections, never a translator shelf of lane C."
+   "note": "Stops before 'From the Latin' (Virgil Eclogue I, Ovid Tristia III.10/12): non-Dryden Ovid and Virgil belong to lane B's author sections, never a translator shelf of lane C.",
+   "translator": "Henry Wadsworth Longfellow"
   }
  },
  "_pending": {
@@ -70,5 +69,30 @@
  "_excluded": {
   "pg-1004": "Divine Comedy complete: same text as 1001-1003.",
   "original-poems": "Hiawatha, Evangeline etc. are his own poems, not translations (an author section would hold them)."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "longfellow-inferno": {
+   "pg": 1001,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Wadsworth Longfellow"
+  },
+  "longfellow-purgatorio": {
+   "pg": 1002,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Wadsworth Longfellow"
+  },
+  "longfellow-paradiso": {
+   "pg": 1003,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Wadsworth Longfellow"
+  },
+  "longfellow-poetical-works": {
+   "pg": 1365,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

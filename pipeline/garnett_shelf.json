@@ -1,21 +1,10 @@
 {
  "_about": "TRANSLATOR SHELF: Constance Garnett (1861-1946) and her Russians. Each TITLE is its own work with its own slug; author sections (a Dostoevsky or Tolstoy section later) cross-reference these slugs, never a second copy. SOURCES are fetched by fetch_shelf.py; TITLES (one volume, or several joined) by split_shelf_titles.py. Rights: every title here was first published 1894-1927, so US public domain (published before 1931); UK public domain since 2017 (Garnett d. 1946). 'translated' = first publication of her translation; 'scan_edition' = the printing actually scanned when it is a later one. Gutenberg titles were checked for the PG Translator line (fetch report). No uids minted in the relay burst.",
  "_name_words": [
-  "garnett",
-  "constance",
-  "dostoevsky",
-  "dostoyevsky",
-  "tolstoy",
-  "chekhov",
-  "turgenev",
-  "gogol"
+  "garnett"
  ],
  "ccel": {},
  "gutenberg": {
-  "garnett-karamazov": [
-   28054,
-   "The Brothers Karamazov"
-  ],
   "garnett-possessed": [
    8117,
    "The Possessed"
@@ -179,7 +168,7 @@
    "The Idiot"
   ],
   "garnett-gambler": [
-   "cu31924014422020",
+   "dostoyevsky_fyodor_1821_1881_gambler",
    "The Gambler, and Other Stories"
   ],
   "garnett-house-of-the-dead": [
@@ -191,7 +180,7 @@
    "The Insulted and Injured"
   ],
   "garnett-raw-youth": [
-   "rawyouth00dostuoft",
+   "rawyouth0000fyod",
    "A Raw Youth"
   ],
   "garnett-eternal-husband": [
@@ -199,16 +188,12 @@
    "The Eternal Husband, and Other Stories"
   ],
   "garnett-honest-thief": [
-   "honestthief0000fyod",
-   "An Honest Thief, and Other Stories"
+   "bwb_O8-AOQ-295",
+   "An Honest Thief, and Other Stories (Macmillan NY)"
   ],
   "garnett-friend-of-the-family": [
-   "novelsoffyodordo12dost",
+   "friendoffamily0000fyod",
    "The Friend of the Family; and Another Story (Novels vol. XII)"
-  ],
-  "garnett-war-and-peace": [
-   "bwb_P9-DUB-268",
-   "War and Peace"
   ],
   "garnett-death-of-ivan-ilyitch": [
    "deathofivanilyit00tols",
@@ -223,8 +208,8 @@
    "Tales of Chekhov vol. 6: The Witch, and Other Stories"
   ],
   "garnett-chekhov-plays-1": [
-   "bwb_KR-628-394",
-   "The Plays of Tchehov vol. 1: The Cherry Orchard, and Other Plays"
+   "bwb_KU-274-007",
+   "The Plays of Tchehov vol. 1: The Cherry Orchard, and Other Plays (Chatto 1925)"
   ],
   "garnett-chekhov-plays-2": [
    "bwb_KU-774-685",
@@ -265,192 +250,216 @@
  },
  "titles": {
   "garnett-karamazov": {
-   "source": "garnett-karamazov",
    "of": "Dostoevsky",
    "work": "The Brothers Karamazov",
-   "translated": 1912
+   "translated": 1912,
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "dostoevsky-karamazov",
+    "gutenberg_id": 28054
+   },
+   "translator": "Constance Garnett"
   },
   "garnett-idiot": {
    "source": "garnett-idiot",
    "of": "Dostoevsky",
    "work": "The Idiot",
    "translated": 1913,
-   "scan_edition": "Heinemann/Macmillan, IA-dated 1916"
+   "scan_edition": "Heinemann/Macmillan, IA-dated 1916",
+   "translator": "Constance Garnett"
   },
   "garnett-possessed": {
    "source": "garnett-possessed",
    "of": "Dostoevsky",
    "work": "The Possessed",
-   "translated": 1913
+   "translated": 1913,
+   "translator": "Constance Garnett"
   },
   "garnett-crime-and-punishment": {
    "source": "garnett-crime-and-punishment",
    "of": "Dostoevsky",
    "work": "Crime and Punishment",
-   "translated": 1914
+   "translated": 1914,
+   "translator": "Constance Garnett"
   },
   "garnett-gambler": {
    "source": "garnett-gambler",
    "of": "Dostoevsky",
    "work": "The Gambler, and Other Stories",
    "translated": 1914,
-   "scan_edition": "Heinemann 1914 (Cornell copy)"
+   "scan_edition": "Heinemann; imprint page 'First published 1914', no later impression listed (a 'moulin digital editions' stamp on the scan)",
+   "translator": "Constance Garnett"
   },
   "garnett-house-of-the-dead": {
    "source": "garnett-house-of-the-dead",
    "of": "Dostoevsky",
    "work": "The House of the Dead",
    "translated": 1915,
-   "scan_edition": "reprint, IA-dated 1923"
+   "scan_edition": "Macmillan, New York, 1928 (title page)",
+   "translator": "Constance Garnett"
   },
   "garnett-insulted-and-injured": {
    "source": "garnett-insulted-and-injured",
    "of": "Dostoevsky",
    "work": "The Insulted and Injured",
    "translated": 1915,
-   "scan_edition": "Heinemann 1915 (Cornell copy)"
+   "scan_edition": "Heinemann 1915 (Cornell copy)",
+   "translator": "Constance Garnett"
   },
   "garnett-raw-youth": {
    "source": "garnett-raw-youth",
    "of": "Dostoevsky",
    "work": "A Raw Youth",
    "translated": 1916,
-   "scan_edition": "Heinemann 1916 (Toronto copy)"
+   "scan_edition": "Macmillan NY 1923 (title page: 'Constance Garnett ... The Macmillan Company 1923')",
+   "translator": "Constance Garnett"
   },
   "garnett-eternal-husband": {
    "source": "garnett-eternal-husband",
    "of": "Dostoevsky",
    "work": "The Eternal Husband, and Other Stories",
    "translated": 1917,
-   "scan_edition": "IA-dated 1917"
+   "scan_edition": "IA-dated 1917",
+   "translator": "Constance Garnett"
   },
   "garnett-white-nights": {
    "source": "garnett-white-nights",
    "of": "Dostoevsky",
    "work": "White Nights, and Other Stories (incl. Notes from Underground)",
    "translated": 1918,
-   "note": "Notes from Underground is inside this volume; PG 600/6536 standalone copies excluded as duplicates. Splitting it out as its own title is pending."
+   "note": "Notes from Underground is inside this volume; PG 600/6536 standalone copies excluded as duplicates. Splitting it out as its own title is pending.",
+   "translator": "Constance Garnett"
   },
   "garnett-honest-thief": {
    "source": "garnett-honest-thief",
    "of": "Dostoevsky",
    "work": "An Honest Thief, and Other Stories",
    "translated": 1919,
-   "scan_edition": "IA-dated 1919 (text names 1923 in ads: a reprint)"
+   "scan_edition": "Macmillan, New York; IA-dated 1919, no year legible in the OCR'd title page. Replaced honestthief0000fyod, whose imprint reads 'reprinted (reset) 1957 ... 1962' (a post-1930 reset).",
+   "translator": "Constance Garnett"
   },
   "garnett-friend-of-the-family": {
    "source": "garnett-friend-of-the-family",
    "of": "Dostoevsky",
    "work": "The Friend of the Family; and Another Story (Novels vol. XII)",
    "translated": 1920,
-   "scan_edition": "Heinemann Novels of FD vol. 12, 1920"
+   "scan_edition": "Heinemann; no imprint date in the scan. The publisher's list inside (Dostoevsky 'in twelve volumes', Turgenev 15 vols at 4s cloth) is the 1920s Heinemann list; IA dates it 1920. Undated: flagged for Adam.",
+   "translator": "Constance Garnett"
   },
   "garnett-anna-karenina": {
    "source": "garnett-anna-karenina",
    "of": "Tolstoy",
    "work": "Anna Karenina",
-   "translated": 1901
-  },
-  "garnett-war-and-peace": {
-   "source": "garnett-war-and-peace",
-   "of": "Tolstoy",
-   "work": "War and Peace",
-   "translated": 1904,
-   "scan_edition": "reprint, IA-dated 1910; title page names Garnett",
-   "note": "The 1904 Heinemann first edition was not found on IA; this scan is a later printing of the same translation."
+   "translated": 1901,
+   "translator": "Constance Garnett"
   },
   "garnett-death-of-ivan-ilyitch": {
    "source": "garnett-death-of-ivan-ilyitch",
    "of": "Tolstoy",
    "work": "The Death of Ivan Ilyitch, and Other Stories",
    "translated": 1902,
-   "scan_edition": "Heinemann 1902"
+   "scan_edition": "Heinemann 1902",
+   "translator": "Constance Garnett"
   },
   "garnett-kingdom-of-god": {
    "source": "garnett-kingdom-of-god",
    "of": "Tolstoy",
    "work": "\"The Kingdom of God Is Within You\"",
    "translated": 1894,
-   "note": "PG 43302 (DP proofread from page images) preferred over the older PG 4602 transcription."
+   "note": "PG 43302 (DP proofread from page images) preferred over the older PG 4602 transcription.",
+   "translator": "Constance Garnett"
   },
   "garnett-christianity-and-patriotism": {
    "source": "garnett-christianity-and-patriotism",
    "of": "Tolstoy",
    "work": "Christianity and Patriotism, with Pertinent Extracts from Other Essays",
    "translated": 1922,
-   "scan_edition": "1922"
+   "scan_edition": "Jonathan Cape, London, 'First published 1922'; title page reads 'translated by Constance Garnett, with an introduction by Edward Garnett' (checked 2026-10-02 after a review queried it)",
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-darling": {
    "source": "garnett-chekhov-darling",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 1: The Darling, and Other Stories",
-   "translated": 1916
+   "translated": 1916,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-duel": {
    "source": "garnett-chekhov-duel",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 2: The Duel, and Other Stories",
-   "translated": 1916
+   "translated": 1916,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-lady-with-the-dog": {
    "source": "garnett-chekhov-lady-with-the-dog",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 3: The Lady with the Dog, and Other Stories",
-   "translated": 1917
+   "translated": 1917,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-party": {
    "source": "garnett-chekhov-party",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 4: The Party, and Other Stories",
-   "translated": 1917
+   "translated": 1917,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-wife": {
    "source": "garnett-chekhov-wife",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 5: The Wife, and Other Stories",
-   "translated": 1918
+   "translated": 1918,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-bishop": {
    "source": "garnett-chekhov-bishop",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 7: The Bishop, and Other Stories",
-   "translated": 1919
+   "translated": 1919,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-chorus-girl": {
    "source": "garnett-chekhov-chorus-girl",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 8: The Chorus Girl, and Other Stories",
-   "translated": 1920
+   "translated": 1920,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-schoolmistress": {
    "source": "garnett-chekhov-schoolmistress",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 9: The Schoolmistress, and Other Stories",
-   "translated": 1920
+   "translated": 1920,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-horse-stealers": {
    "source": "garnett-chekhov-horse-stealers",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 10: The Horse-Stealers, and Other Stories",
-   "translated": 1921
+   "translated": 1921,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-schoolmaster": {
    "source": "garnett-chekhov-schoolmaster",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 11: The Schoolmaster, and Other Stories",
-   "translated": 1921
+   "translated": 1921,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-cooks-wedding": {
    "source": "garnett-chekhov-cooks-wedding",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 12: The Cook's Wedding, and Other Stories",
-   "translated": 1922
+   "translated": 1922,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-love": {
    "source": "garnett-chekhov-love",
    "of": "Chekhov",
    "work": "Tales of Chekhov vol. 13: Love, and Other Stories",
-   "translated": 1922
+   "translated": 1922,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-witch": {
    "source": "garnett-chekhov-witch",
@@ -458,99 +467,115 @@
    "work": "Tales of Chekhov vol. 6: The Witch, and Other Stories",
    "translated": 1918,
    "scan_edition": "Macmillan 1918, copyright-deposit copy",
-   "note": "PG 1944 is this volume but its file names no translator, so the dated scan is used."
+   "note": "PG 1944 is this volume but its file names no translator, so the dated scan is used.",
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-letters": {
    "source": "garnett-chekhov-letters",
    "of": "Chekhov",
    "work": "Letters of Anton Chekhov to His Family and Friends",
-   "translated": 1920
+   "translated": 1920,
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-plays-1": {
    "source": "garnett-chekhov-plays-1",
    "of": "Chekhov",
    "work": "The Plays of Tchehov vol. 1: The Cherry Orchard, and Other Plays",
    "translated": 1923,
-   "scan_edition": "Chatto & Windus (Phoenix Library reprint), IA-dated 1923"
+   "scan_edition": "Chatto & Windus 1925 (imprint: first published April 1923, reprinted 1925)",
+   "translator": "Constance Garnett"
   },
   "garnett-chekhov-plays-2": {
    "source": "garnett-chekhov-plays-2",
    "of": "Chekhov",
    "work": "The Plays of Tchehov vol. 2: Three Sisters, and Other Plays",
    "translated": 1923,
-   "scan_edition": "Chatto & Windus, IA-dated 1923"
+   "scan_edition": "Chatto & Windus 1923 (title page)",
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-rudin": {
    "source": "garnett-turgenev-rudin",
    "of": "Turgenev",
    "work": "Rudin",
-   "translated": 1894
+   "translated": 1894,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-house-of-gentlefolk": {
    "source": "garnett-turgenev-house-of-gentlefolk",
    "of": "Turgenev",
    "work": "A House of Gentlefolk",
-   "translated": 1894
+   "translated": 1894,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-on-the-eve": {
    "source": "garnett-turgenev-on-the-eve",
    "of": "Turgenev",
    "work": "On the Eve",
-   "translated": 1895
+   "translated": 1895,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-fathers-and-children": {
    "source": "garnett-turgenev-fathers-and-children",
    "of": "Turgenev",
    "work": "Fathers and Children",
-   "translated": 1895
+   "translated": 1895,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-smoke": {
    "source": "garnett-turgenev-smoke",
    "of": "Turgenev",
    "work": "Smoke",
-   "translated": 1896
+   "translated": 1896,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-torrents-of-spring": {
    "source": "garnett-turgenev-torrents-of-spring",
    "of": "Turgenev",
    "work": "The Torrents of Spring",
-   "translated": 1897
+   "translated": 1897,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-lear-of-the-steppes": {
    "source": "garnett-turgenev-lear-of-the-steppes",
    "of": "Turgenev",
    "work": "A Lear of the Steppes, etc.",
-   "translated": 1898
+   "translated": 1898,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-dream-tales": {
    "source": "garnett-turgenev-dream-tales",
    "of": "Turgenev",
    "work": "Dream Tales and Prose Poems",
-   "translated": 1897
+   "translated": 1897,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-diary-of-a-superfluous-man": {
    "source": "garnett-turgenev-diary-of-a-superfluous-man",
    "of": "Turgenev",
    "work": "The Diary of a Superfluous Man, and Other Stories",
-   "translated": 1899
+   "translated": 1899,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-desperate-character": {
    "source": "garnett-turgenev-desperate-character",
    "of": "Turgenev",
    "work": "A Desperate Character, and Other Stories",
-   "translated": 1899
+   "translated": 1899,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-jew": {
    "source": "garnett-turgenev-jew",
    "of": "Turgenev",
    "work": "The Jew, and Other Stories",
-   "translated": 1899
+   "translated": 1899,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-knock-knock-knock": {
    "source": "garnett-turgenev-knock-knock-knock",
    "of": "Turgenev",
    "work": "Knock, Knock, Knock, and Other Stories",
-   "translated": 1921
+   "translated": 1921,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-sportsmans-sketches": {
    "source": [
@@ -559,7 +584,8 @@
    ],
    "of": "Turgenev",
    "work": "A Sportsman's Sketches (2 vols)",
-   "translated": 1895
+   "translated": 1895,
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-virgin-soil": {
    "source": [
@@ -569,14 +595,16 @@
    "of": "Turgenev",
    "work": "Virgin Soil (2 vols)",
    "translated": 1896,
-   "scan_edition": "Heinemann reprint, IA-dated 1920"
+   "scan_edition": "Heinemann reprint, IA-dated 1920",
+   "translator": "Constance Garnett"
   },
   "garnett-turgenev-two-friends": {
    "source": "garnett-turgenev-two-friends",
    "of": "Turgenev",
    "work": "The Two Friends, and Other Stories",
    "translated": 1921,
-   "scan_edition": "Heinemann 1921"
+   "scan_edition": "Heinemann 1921",
+   "translator": "Constance Garnett"
   },
   "garnett-gogol-dead-souls": {
    "source": [
@@ -586,20 +614,23 @@
    "of": "Gogol",
    "work": "Dead Souls (Works of Gogol vols 1-2)",
    "translated": 1922,
-   "scan_edition": "Chatto & Windus 1922"
+   "scan_edition": "Chatto & Windus 1922",
+   "translator": "Constance Garnett"
   },
   "garnett-ostrovsky-storm": {
    "source": "garnett-ostrovsky-storm",
    "of": "Ostrovsky",
    "work": "The Storm (play)",
-   "translated": 1899
+   "translated": 1899,
+   "translator": "Constance Garnett"
   },
   "garnett-goncharov-common-story": {
    "source": "garnett-goncharov-common-story",
    "of": "Goncharov",
    "work": "A Common Story",
    "translated": 1894,
-   "scan_edition": "Heinemann 1894 (Cornell copy)"
+   "scan_edition": "Heinemann 1894 (Cornell copy)",
+   "translator": "Constance Garnett"
   },
   "garnett-herzen-my-past-and-thoughts": {
    "source": [
@@ -612,21 +643,24 @@
    ],
    "of": "Herzen",
    "work": "My Past and Thoughts (6 vols)",
-   "translated": "1924-27"
+   "translated": "1924-27",
+   "translator": "Constance Garnett"
   },
   "garnett-gogol-overcoat": {
    "source": "garnett-gogol-overcoat",
    "of": "Gogol",
    "work": "The Overcoat, and Other Stories",
    "translated": 1923,
-   "scan_edition": "Knopf, copyright 1923 (title page also names 1928: a later printing, still pre-1931)"
+   "scan_edition": "Knopf, copyright 1923 (title page also names 1928: a later printing, still pre-1931)",
+   "translator": "Constance Garnett"
   },
   "garnett-gogol-dikanka": {
    "source": "garnett-gogol-dikanka",
    "of": "Gogol",
    "work": "Evenings on a Farm near Dikanka",
    "translated": 1926,
-   "scan_edition": "Knopf 1926 (MCMXXVI)"
+   "scan_edition": "Knopf 1926 (MCMXXVI)",
+   "translator": "Constance Garnett"
   },
   "garnett-notes-from-underground": {
    "source": "garnett-white-nights",
@@ -641,14 +675,16 @@
    "of": "Dostoevsky",
    "work": "Notes from Underground",
    "translated": 1918,
-   "note": "A title cut from inside the White Nights volume (1918). The volume and this title overlap: at minting, the passages get ONE uid each, never two."
+   "note": "A title cut from inside the White Nights volume (1918). The volume and this title overlap: at minting, the passages get ONE uid each, never two.",
+   "translator": "Constance Garnett"
   }
  },
  "_pending": {
   "garnett-gogol-other": "Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers).",
   "garnett-dostoevsky-poor-folk": "Poor Folk / Uncle's Dream: no Garnett version verified. The 1915 'Poor Folk and The Gambler' scans on IA are the Everyman (C. J. Hogarth) translation. Whether Garnett ever published these is unverified - do not list as hers without a title page.",
   "garnett-war-and-peace-1904": "Heinemann 1904 first printing, wanted to replace the later scan.",
-  "garnett-turgenev-novels-1894": "The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective."
+  "garnett-turgenev-novels-1894": "The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective.",
+  "garnett-war-and-peace": "Garnett's War and Peace (Heinemann 1904): the only scan found (bwb_P9-DUB-268) is a 1931+ Modern Library Giant. Pre-1931 IA War and Peace scans are other translators (Maude, Dole, Wiener). Removed 2026-10-02; a 1904 Heinemann or McClure scan would restore it."
  },
  "_excluded": {
   "pg-600, pg-6536": "Notes from Underground standalone: duplicates the text inside garnett-white-nights.",
@@ -660,9 +696,409 @@
   "ia-dli/in.ernet scans": "Digital Library of India copies: their _djvu.txt files 404 at the expected path; Cornell/Toronto/other scans used instead.",
   "chekhov-plays-1930-modern-library": "The Plays of Anton Tchekov (Modern Library, 1929-30): a reprint of the 1923 volumes, which are used.",
   "ia-mirgorodgogol": "Mirgorod, Potsdam 1924 (Kiepenheuer): a Russian-language edition, not Garnett.",
-  "ia-poorfolkgambler00dost": "Poor Folk; The Gambler (1915): Everyman edition, C. J. Hogarth's translation."
+  "ia-poorfolkgambler00dost": "Poor Folk; The Gambler (1915): Everyman edition, C. J. Hogarth's translation.",
+  "ia-honestthief0000fyod": "Heinemann printing reset in 1957 (imprint: first published 1919, reprinted 1923, new impression 1950, reprinted (reset) 1957, reprinted 1962): post-1930 resetting, replaced.",
+  "ia-bwb_KR-628-394": "Cherry Orchard and Other Plays, Phoenix Library: imprint 'first issued in the Phoenix Library 1935, reprinted 1940' (a review caught the date; the first pick was wrongly dated 1923). Replaced by the 1925 Chatto printing.",
+  "rawyouth00dostuoft": "IA dates it Heinemann 1916, but its imprint page reads 'new impression 1956': a post-1930 printing (review 2026-10-02).",
+  "rawyouthnovelint00dost": "IA dates it Macmillan 1916; imprint page reads 'reprinted 1923, 1950, 1956, 1964, 1970': a 1970s printing.",
+  "cu31924014422020": "Cornell copy IA-dated 1914, but its imprint page lists new impressions to 1957: a 1957 printing (review 2026-10-02).",
+  "novelsoffyodordo12dost": "IA-dated 1920; imprint page reads 'new impression 1949, reprinted 1951, 1961, 1969, 1974'.",
+  "friendoffamily0000unse_r7t4": "Heinemann 1920 per IA; imprint page reads reprinted to 1969.",
+  "bwb_P9-DUB-268": "Modern Library Giant War and Peace (Random House). IA dates it 1910, but the Giants series began in 1931: a post-1930 printing."
  },
  "_notes": {
   "pg-30723": "PG 30723 Fathers and Children credits Garnett in its header (catalogue lists W. A. Neilson as introducer)."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "garnett-gogol-dikanka": "OCR spells the name 'Garnet' on the copyright line ('Copyright, 1920, by Mrs. Edward Garnet'); checked by eye 2026-10-02."
+ },
+ "_verified": {
+  "garnett-possessed": {
+   "pg": 8117,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-crime-and-punishment": {
+   "pg": 2554,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-white-nights": {
+   "pg": 36034,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-anna-karenina": {
+   "pg": 1399,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-kingdom-of-god": {
+   "pg": 43302,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-darling": {
+   "pg": 13416,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-duel": {
+   "pg": 13505,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-lady-with-the-dog": {
+   "pg": 13415,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-party": {
+   "pg": 13413,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-wife": {
+   "pg": 1883,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-bishop": {
+   "pg": 13419,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-chorus-girl": {
+   "pg": 13418,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-schoolmistress": {
+   "pg": 1732,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-horse-stealers": {
+   "pg": 13409,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-schoolmaster": {
+   "pg": 13412,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-cooks-wedding": {
+   "pg": 13417,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-love": {
+   "pg": 13414,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-letters": {
+   "pg": 6408,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-rudin": {
+   "pg": 6900,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-house-of-gentlefolk": {
+   "pg": 5721,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-on-the-eve": {
+   "pg": 6902,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-fathers-and-children": {
+   "pg": 30723,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-smoke": {
+   "pg": 40813,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-torrents-of-spring": {
+   "pg": 9911,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-lear-of-the-steppes": {
+   "pg": 52642,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-dream-tales": {
+   "pg": 8935,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-diary-of-a-superfluous-man": {
+   "pg": 9615,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-desperate-character": {
+   "pg": 8871,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-jew": {
+   "pg": 8696,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-knock-knock-knock": {
+   "pg": 7120,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-sportsman-1": {
+   "pg": 8597,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-sportsman-2": {
+   "pg": 8744,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-ostrovsky-storm": {
+   "pg": 7991,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-1": {
+   "pg": 76599,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-2": {
+   "pg": 78332,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-3": {
+   "pg": 78336,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-4": {
+   "pg": 78360,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-5": {
+   "pg": 78361,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-6": {
+   "pg": 78377,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-idiot": {
+   "ia": "idiotnovelinfour0000fyod",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-gambler": {
+   "ia": "dostoyevsky_fyodor_1821_1881_gambler",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1812,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-house-of-the-dead": {
+   "ia": "bwb_O4-BDO-591",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1923,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-insulted-and-injured": {
+   "ia": "cu31924026647549",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1586,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-raw-youth": {
+   "ia": "rawyouth0000fyod",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-eternal-husband": {
+   "ia": "eternalhusbandot00dost_3",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-honest-thief": {
+   "ia": "bwb_O8-AOQ-295",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-friend-of-the-family": {
+   "ia": "friendoffamily0000fyod",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-death-of-ivan-ilyitch": {
+   "ia": "deathofivanilyit00tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-christianity-and-patriotism": {
+   "ia": "christianitypatr00tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894,
+    1896,
+    1910,
+    1911,
+    1914,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-chekhov-witch": {
+   "ia": "witchotherstorie00chek_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-chekhov-plays-1": {
+   "ia": "bwb_KU-274-007",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1923,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-chekhov-plays-2": {
+   "ia": "bwb_KU-774-685",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-turgenev-virgin-soil-1": {
+   "ia": "virginsoil01turguoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-turgenev-virgin-soil-2": {
+   "ia": "virginsoil02turguoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-turgenev-two-friends": {
+   "ia": "twofriendsothers00turgrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-gogol-dead-souls-1": {
+   "ia": "p1theworksofniko01gogo",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1809,
+    1829,
+    1842,
+    1852,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-gogol-dead-souls-2": {
+   "ia": "pt2theworksofnik01gogouoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1812,
+    1891,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-goncharov-common-story": {
+   "ia": "cu31924026662183",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1873,
+    1879,
+    1886,
+    1891,
+    1894
+   ],
+   "post_1930_years_in_front_15k": [
+    1934
+   ],
+   "post_1930_examined": "Examined: a Cornell bookplate ('gift of two friends ... 1934'). Library accession, not an imprint."
+  },
+  "garnett-gogol-overcoat": {
+   "ia": "overcoatothersto0000niko",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1830,
+    1831,
+    1836,
+    1923,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "garnett-gogol-dikanka": {
+   "ia": "Dikanka",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1831,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

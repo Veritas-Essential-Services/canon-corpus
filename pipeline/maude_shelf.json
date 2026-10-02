@@ -1,17 +1,10 @@
 {
- "_about": "TRANSLATOR SHELF: Aylmer Maude (1858-1938) and Louise Maude (1855-1939), Tolstoy's authorised translators. PUBLIC-DOMAIN EDITIONS ONLY: each title must be a printing before 1931 (US). UK copyright in their translations ran to end-1999/2009 and is now expired. Year per title is taken from the fetched file where it states one (fetch report + notes); where the file states no year, the title rests on Project Gutenberg's US clearance (pre-1931 publication) and says so. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Aylmer Maude (1858-1938) and Louise Maude (1855-1939), Tolstoy's authorised translators. PUBLIC-DOMAIN EDITIONS ONLY: each title must be a printing before 1931 (US). UK copyright in their translations ran 70 years from each translator's death: to the end of 2008 for Aylmer (d. 1938) and the end of 2009 for Louise (d. 1939); expired either way. Year per title is taken from the fetched file where it states one (fetch report + notes); where the file states no year, the title rests on Project Gutenberg's US clearance (pre-1931 publication) and says so. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "maude",
-  "aylmer",
-  "louise",
-  "tolstoy"
+  "maude"
  ],
  "ccel": {},
  "gutenberg": {
-  "maude-war-and-peace": [
-   2600,
-   "Tolstoy, War and Peace, tr. Aylmer & Louise Maude"
-  ],
   "maude-resurrection": [
    1938,
    "Tolstoy, Resurrection, tr. Louise Maude"
@@ -72,46 +65,50 @@
  "internet_archive": {},
  "titles": {
   "maude-war-and-peace": {
-   "source": "maude-war-and-peace",
    "of": "Tolstoy",
    "work": "War and Peace",
-   "translators": "Aylmer & Louise Maude",
-   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "tolstoy-warpeace",
+    "gutenberg_id": 2600
+   },
+   "translator": "Aylmer and Louise Maude"
   },
   "maude-resurrection": {
    "source": "maude-resurrection",
    "of": "Tolstoy",
    "work": "Resurrection",
-   "translators": "Louise Maude",
-   "translated": "1900 (Dodd, Mead, 'by my authority' note signed by Tolstoy); exact year not printed in the file"
+   "translated": "1900 (Dodd, Mead, 'by my authority' note signed by Tolstoy); exact year not printed in the file",
+   "translator": "Louise Maude"
   },
   "maude-father-sergius": {
    "source": "maude-father-sergius",
    "of": "Tolstoy",
    "work": "Father Sergius",
-   "translators": "A. & L. Maude",
-   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year",
+   "translator": "Aylmer and Louise Maude"
   },
   "maude-master-and-man": {
    "source": "maude-master-and-man",
    "of": "Tolstoy",
    "work": "Master and Man",
-   "translators": "A. & L. Maude",
-   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year",
+   "translator": "Aylmer and Louise Maude"
   },
   "maude-cossacks": {
    "source": "maude-cossacks",
    "of": "Tolstoy",
    "work": "The Cossacks",
-   "translators": "A. & L. Maude",
-   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year",
+   "translator": "Aylmer and Louise Maude"
   },
   "maude-what-men-live-by": {
    "source": "maude-what-men-live-by",
    "of": "Tolstoy",
    "work": "What Men Live By, and Other Tales",
-   "translators": "A. & L. Maude",
-   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year",
+   "translator": "Aylmer and Louise Maude"
   },
   "maude-plays": {
    "source": [
@@ -124,30 +121,30 @@
    ],
    "of": "Tolstoy",
    "work": "Plays, Complete Edition including the Posthumous Plays (6 plays)",
-   "translators": "L. & A. Maude",
    "translated": "1914 ed.",
-   "scan_edition": "Funk & Wagnalls, New York, 4th impression 1919 (stated in PG 26660's front matter)"
+   "scan_edition": "Funk & Wagnalls, New York, 4th impression 1919 (stated in PG 26660's front matter)",
+   "translator": "Louise and Aylmer Maude"
   },
   "maude-what-is-art": {
    "source": "maude-what-is-art",
    "of": "Tolstoy",
    "work": "What Is Art?",
-   "translators": "Aylmer Maude",
-   "translated": "1904 (Funk & Wagnalls, stated)"
+   "translated": "1904 (Funk & Wagnalls, stated)",
+   "translator": "Aylmer Maude"
   },
   "maude-the-devil": {
    "source": "maude-the-devil",
    "of": "Tolstoy",
    "work": "The Devil",
-   "translators": "Aylmer Maude",
-   "translated": "1926 ('First published in 1926', stated)"
+   "translated": "1926 ('First published in 1926', stated)",
+   "translator": "Aylmer Maude"
   },
   "maude-three-days": {
    "source": "maude-three-days",
    "of": "Tolstoy",
    "work": "Three Days in the Village, and Other Sketches",
-   "translators": "A. & L. Maude",
-   "translated": "1910 (Free Age Press, stated)"
+   "translated": "1910 (Free Age Press, stated)",
+   "translator": "Aylmer and Louise Maude"
   }
  },
  "_pending": {
@@ -161,5 +158,79 @@
   "other-maudes": "PG items by Alice Maude Kellogg, Maude Alma, F. N. Maude, Maude Wholohan: different people.",
   "pg-26472": "Newer transcription of What Men Live By: its .txt returns 404 on Gutenberg's cache (2026-10-02); PG 6157 used.",
   "pg-26660": "Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used)."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "maude-resurrection": {
+   "pg": 1938,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Louise Maude"
+  },
+  "maude-father-sergius": {
+   "pg": 985,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-master-and-man": {
+   "pg": 986,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-cossacks": {
+   "pg": 4761,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-what-men-live-by": {
+   "pg": 6157,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-what-is-art": {
+   "pg": 64908,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-the-devil": {
+   "pg": 67224,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-three-days": {
+   "pg": 51018,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-power-of-darkness": {
+   "pg": 26661,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-first-distiller": {
+   "pg": 26662,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-fruits-of-culture": {
+   "pg": 26663,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-live-corpse": {
+   "pg": 26664,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-cause-of-it-all": {
+   "pg": 26665,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-light-shines": {
+   "pg": 26666,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aylmer Maude"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

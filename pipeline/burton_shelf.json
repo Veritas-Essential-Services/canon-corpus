@@ -1,10 +1,7 @@
 {
  "_about": "TRANSLATOR SHELF: Sir Richard Francis Burton (1821-1890) as translator. The Book of the Thousand Nights and a Night (1885, 10 vols) and Supplemental Nights (1886-88, 6 vols) from the Distributed Proofreaders PG editions; Camoens' Lusiads (1880) and Lyricks (1884). PD. Burton's annotations are famously explicit; they are part of the text as published. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "burton",
-  "richard",
-  "francis",
-  "nights"
+  "burton"
  ],
  "ccel": {},
  "gutenberg": {
@@ -107,7 +104,8 @@
    ],
    "of": "The Thousand and One Nights (Arabic)",
    "work": "The Book of the Thousand Nights and a Night, 10 vols",
-   "translated": 1885
+   "translated": 1885,
+   "translator": "Richard Francis Burton"
   },
   "burton-supplemental-nights": {
    "source": [
@@ -121,7 +119,8 @@
    ],
    "of": "The Thousand and One Nights (Arabic)",
    "work": "Supplemental Nights, 6 vols (vol. 3 in two PG parts)",
-   "translated": "1886-88"
+   "translated": "1886-88",
+   "translator": "Richard Francis Burton"
   },
   "burton-lusiads": {
    "source": [
@@ -130,14 +129,16 @@
    ],
    "of": "Camoens",
    "work": "Os Lusiadas",
-   "translated": 1880
+   "translated": 1880,
+   "translator": "Richard Francis Burton"
   },
   "burton-camoens-lyricks": {
    "source": "burton-camoens-lyricks",
    "of": "Camoens",
    "work": "The Lyricks: sonnets, canzons, odes and sextines",
    "translated": 1884,
-   "scan_edition": "1884 (Cornell copy), raw OCR"
+   "scan_edition": "1884 (Cornell copy), raw OCR",
+   "translator": "Richard Francis Burton"
   }
  },
  "_pending": {
@@ -150,5 +151,117 @@
   "pg-3435..3450": "Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used.",
   "pg-6036": "The Kasidah: Burton's own poem presented as a translation (a literary mask).",
   "travel-books": "Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them)."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "burton-nights-01": {
+   "pg": 51252,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-02": {
+   "pg": 51775,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-03": {
+   "pg": 52564,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-04": {
+   "pg": 53254,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-05": {
+   "pg": 54257,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-06": {
+   "pg": 54525,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-07": {
+   "pg": 54778,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-08": {
+   "pg": 55091,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-09": {
+   "pg": 55587,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-nights-10": {
+   "pg": 58360,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-1": {
+   "pg": 59156,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-2": {
+   "pg": 59953,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-3a": {
+   "pg": 60889,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-3b": {
+   "pg": 61974,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-4": {
+   "pg": 62140,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-5": {
+   "pg": 63266,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-supplemental-6": {
+   "pg": 64384,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lusiads-1": {
+   "pg": 77660,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-lusiads-2": {
+   "pg": 77661,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Richard Francis Burton"
+  },
+  "burton-camoens-lyricks": {
+   "ia": "cu31924102142985",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1891
+   ],
+   "post_1930_years_in_front_15k": [
+    1992,
+    2005
+   ],
+   "post_1930_examined": "Examined: Cornell's note that its replacement volume meets ANSI Z39.48-1992, stamped 2005. Library preservation stamp, not an imprint."
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

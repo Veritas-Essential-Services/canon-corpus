@@ -1,11 +1,9 @@
 {
  "_about": "TRANSLATOR SHELF: Edward William Lane (1801-1876). The Thousand and One Nights (1838-40), as re-edited by E. S. Poole 1859 and reprinted unchanged. PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "lane",
-  "edward",
-  "william",
-  "nights",
-  "thousand"
+  "e. w. lane",
+  "edward william lane",
+  "edward w. lane"
  ],
  "ccel": {},
  "gutenberg": {
@@ -35,7 +33,8 @@
    "work": "The Thousand and One Nights, 3 vols",
    "translated": "1838-40 (1859 ed.)",
    "scan_edition": "vol. 1 PG (Chatto 1912), vol. 2 Chatto 1912, vol. 3 Routledge 1865; the 1912 impression says it reproduces the 1859 edition exactly, so the mix is one text",
-   "note": "Vols 2-3 raw OCR."
+   "note": "Vols 2-3 raw OCR.",
+   "translator": "Edward William Lane"
   }
  },
  "_pending": {
@@ -45,5 +44,30 @@
   "pg-41110": "Arabian Society in the Middle Ages: Lane's notes, not a translation.",
   "pg-70796": "Modern Egyptians: Lane's own book.",
   "ia-emory-1883": "Chatto 1883 set (emory.edu): its text files are not at the standard path."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "lane-nights-2": "OCR spreads the name over several spaces ('Edward  William  Lane'), so the exact-phrase check misses it; the title page names him. Checked 2026-10-02.",
+  "lane-nights-3": "OCR spreads the name over several spaces ('Edward  William  Lane'), so the exact-phrase check misses it; the title page names him. Checked 2026-10-02."
+ },
+ "_verified": {
+  "lane-nights-1": {
+   "pg": 34206,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward William Lane"
+  },
+  "lane-nights-2": {
+   "ia": "thousandonenight02harvuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "lane-nights-3": {
+   "ia": "thousandonenight03laneuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

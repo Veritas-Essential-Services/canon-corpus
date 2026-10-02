@@ -47,3 +47,9 @@
 - structure_test: 64 passed.
 
 ## 2026-10-02T15:48-05:00 — session end: lock released. Queue empty again (14 shelves, 109 titles). Next worker: more translator shelves only with a clear source; see DIGEST-C pending lists (Gogol plays/Mirgorod, Maude Anna Karenina, Cary's Birds, Burton's held-back titles await Adam).
+
+## 2026-10-02T17:27-05:00 — review-fixes (from the review thread, relayed by the coordinator)
+- 10 titles marked `held_in` and cross-referenced (adler ×7, fetch_sources ×3 incl. Cary/8800); their duplicate sources dropped. split_shelf_titles.py reports them "held-elsewhere" and never re-cuts them.
+- Translator field on every title; `_name_words` translator-only; `_verified` evidence per source in every shelf (PG Translator: line + COPYRIGHTED marker; IA translator-named + front-matter years).
+- Late printings replaced: Raw Youth, Gambler, Friend of the Family, Honest Thief, Chekhov Plays 1. Garnett War and Peace moved to pending (no pre-1931 scan). Maude UK note and Chekhov dates fixed.
+- fetch_shelf --verify: 0 mismatched on all 14 shelves. split: 108 titles, 0 not cut. structure_test: 64 passed.

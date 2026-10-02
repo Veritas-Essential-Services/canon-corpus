@@ -1,11 +1,7 @@
 {
  "_about": "TRANSLATOR SHELF: Edward FitzGerald (1809-1883). Omar Khayyam's Rubaiyat, Jami's Salaman and Absal, and Calderon's Eight Dramas. PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "fitzgerald",
-  "edward",
-  "omar",
-  "khayyam",
-  "calderon"
+  "fitzgerald"
  ],
  "ccel": {},
  "gutenberg": {
@@ -24,13 +20,15 @@
    "source": "fitzgerald-rubaiyat-salaman",
    "of": "Omar Khayyam; Jami",
    "work": "Rubáiyát (the editions as printed in this volume) and Salámán and Absál",
-   "translated": "1859-79 / 1856"
+   "translated": "1859-79 / 1856",
+   "translator": "Edward FitzGerald"
   },
   "fitzgerald-calderon": {
    "source": "fitzgerald-calderon",
    "of": "Calderon",
    "work": "Eight Dramas of Calderon, freely translated",
-   "translated": "1853/1865"
+   "translated": "1853/1865",
+   "translator": "Edward FitzGerald"
   }
  },
  "_pending": {
@@ -41,5 +39,19 @@
   "pg-246, pg-35260": "Single Rubaiyat editions, contained in PG 22535.",
   "pg-2587": "Life Is a Dream (PG header: tr. FitzGerald): his version is 'Such Stuff as Dreams Are Made Of', which is printed inside PG 63776. Not fetched as a likely duplicate; not compared line by line.",
   "pg-10315": "Persian Literature anthology: mixed translators."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "fitzgerald-rubaiyat-salaman": {
+   "pg": 22535,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward FitzGerald"
+  },
+  "fitzgerald-calderon": {
+   "pg": 63776,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward FitzGerald"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

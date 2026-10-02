@@ -2,16 +2,10 @@
  "_about": "TRANSLATOR SHELF (joint): Sir Thomas Urquhart (1611-1660) and Peter Anthony Motteux (1663-1718). Rabelais, Gargantua and Pantagruel (Urquhart Books I-III 1653/1693, Motteux IV-V 1694), and Motteux's Don Quixote (1700-03, revised by Ozell). PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "urquhart",
-  "motteux",
-  "rabelais",
-  "cervantes"
+  "motteux"
  ],
  "ccel": {},
  "gutenberg": {
-  "urquhart-motteux-rabelais": [
-   1200,
-   "Rabelais, Gargantua and Pantagruel, tr. Urquhart and Motteux"
-  ],
   "motteux-quixote": [
    35993,
    "Cervantes, The History of Don Quixote, tr. Motteux"
@@ -20,21 +14,37 @@
  "internet_archive": {},
  "titles": {
   "urquhart-motteux-rabelais": {
-   "source": "urquhart-motteux-rabelais",
    "of": "Rabelais",
    "work": "Gargantua and Pantagruel, Books I-V",
    "translated": "1653-1694",
-   "note": "Two hands: Urquhart I-III, Motteux IV-V; one title because that is how the book has been printed since 1708."
+   "note": "Two hands: Urquhart I-III, Motteux IV-V; one title because that is how the book has been printed since 1708.",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "rabelais-gargantua",
+    "gutenberg_id": 1200
+   },
+   "held_note": "adler_shelf.json credits 'tr. Urquhart' only; PG 1200 is Urquhart (I-III) and Motteux (IV-V).",
+   "translator": "Thomas Urquhart (Books I-III), Peter Anthony Motteux (IV-V)"
   },
   "motteux-don-quixote": {
    "source": "motteux-quixote",
    "of": "Cervantes",
    "work": "The History of Don Quixote",
-   "translated": "1700-03"
+   "translated": "1700-03",
+   "translator": "Peter Anthony Motteux"
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-8166..8170": "Doré-illustrated Rabelais, same text in parts."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "motteux-quixote": {
+   "pg": 35993,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Peter Anthony Motteux"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

@@ -1,18 +1,10 @@
 {
  "_about": "TRANSLATOR SHELF: Bayard Taylor (1825-1878). Goethe's Faust, Parts I and II, 'in the original metres' (1870-71). PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "taylor",
-  "bayard",
-  "goethe",
-  "faust"
+  "bayard taylor"
  ],
  "ccel": {},
- "gutenberg": {
-  "taylor-faust-1": [
-   14591,
-   "Goethe, Faust Part I, tr. Bayard Taylor"
-  ]
- },
+ "gutenberg": {},
  "internet_archive": {
   "taylor-faust-2": [
    "goethetaylorfaust02",
@@ -20,19 +12,40 @@
   ]
  },
  "titles": {
-  "taylor-faust": {
-   "source": [
-    "taylor-faust-1",
-    "taylor-faust-2"
-   ],
+  "taylor-faust-part-1": {
    "of": "Goethe",
-   "work": "Faust, Parts I and II",
-   "translated": "1870-71",
-   "scan_edition": "Part II: 1871 Osgood, raw OCR"
+   "work": "Faust, Part I",
+   "translated": 1870,
+   "translator": "Bayard Taylor",
+   "held_in": {
+    "file": "pipeline/fetch_sources.py",
+    "slug": "faust",
+    "gutenberg_id": 14591
+   }
+  },
+  "taylor-faust-part-2": {
+   "source": "taylor-faust-2",
+   "of": "Goethe",
+   "work": "Faust, Part II",
+   "translated": 1871,
+   "translator": "Bayard Taylor",
+   "scan_edition": "Osgood 1871, raw OCR"
   }
  },
  "_pending": {},
  "_excluded": {
   "original-works": "Taylor's own travel books, novels and poems: not translations."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "taylor-faust-2": {
+   "ia": "goethetaylorfaust02",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1871
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

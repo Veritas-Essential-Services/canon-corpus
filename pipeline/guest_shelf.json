@@ -1,10 +1,8 @@
 {
  "_about": "TRANSLATOR SHELF: Lady Charlotte Guest (later Schreiber, 1812-1895). The Mabinogion (1838-49). PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "guest",
-  "charlotte",
-  "schreiber",
-  "mabinogion"
+  "charlotte guest",
+  "charlotte schreiber"
  ],
  "ccel": {},
  "gutenberg": {
@@ -19,12 +17,22 @@
    "source": "guest-mabinogion",
    "of": "Welsh tales (Red Book of Hergest)",
    "work": "The Mabinogion",
-   "translated": "1838-49"
+   "translated": "1838-49",
+   "translator": "Lady Charlotte Guest"
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-19959, 19973, 19976": "O. M. Edwards's 3-vol reprint of the same Guest text; PG 5160 used.",
   "pg-15551, pg-67425": "Retellings (Clay; Lanier's Boy's Mabinogion), not translations."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "guest-mabinogion": {
+   "pg": 5160,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Charlotte Schreiber"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

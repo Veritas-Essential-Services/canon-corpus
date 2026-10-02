@@ -18,7 +18,9 @@ A marker is [exact heading line, stripped; which occurrence, 1-based]. "end"
 null = to the end of the source's body. No "start" = the whole body. The
 Gutenberg header and licence are always cut off first. "source" may be a
 LIST of source slugs (a title in several volumes): their bodies are joined
-in order, then cut.
+in order, then cut. A title with "held_in" ({file, slug, gutenberg_id}) is
+already held elsewhere in the repo (adler_shelf.json, fetch_sources.py):
+it is cross-referenced, not fetched or cut again.
 
 Writes data/corpus/<shelf>/titles/<slug>.txt (gitignored, atomic temp+rename)
 and titles_report.json (lines, bytes, marker line numbers). A missing marker
@@ -59,6 +61,9 @@ def main():
     os.makedirs(out, exist_ok=True)
     report = {}
     for slug, t in shelf.get("titles", {}).items():
+        if t.get("held_in"):     # already held by another shelf/manifest: cross-reference, never re-cut
+            report[slug] = {"status": "held-elsewhere", "held_in": t["held_in"]}
+            print(slug, "held-elsewhere", t["held_in"].get("file"), t["held_in"].get("slug")); continue
         src = t["source"]
         srcs = src if isinstance(src, list) else [src]   # a list = volumes, joined in order
         paths = [next((os.path.join(src_dir, s + x) for x in (".txt", ".xml")
@@ -89,7 +94,7 @@ def main():
     rp = os.path.join(out, "titles_report.json")
     json.dump(report, open(rp + ".tmp", "w"), indent=1)
     os.replace(rp + ".tmp", rp)
-    bad = [s for s, r in report.items() if r["status"] != "cut"]
+    bad = [s for s, r in report.items() if r["status"] not in ("cut", "held-elsewhere")]
     print(f"{len(report)} titles, {len(bad)} not cut: {bad}")
     sys.exit(1 if bad else 0)
 

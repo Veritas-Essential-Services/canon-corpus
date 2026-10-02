@@ -1,16 +1,10 @@
 {
  "_about": "TRANSLATOR SHELF: John Dryden (1631-1700) as translator. Each TITLE is its own work with its own slug (dryden-aeneid, dryden-georgics ...); author sections (Virgil, Ovid, Juvenal ...) cross-reference these slugs, never a second copy. SOURCES are the files fetched (fetch_shelf.py); TITLES are cut from them by heading marker (split_shelf_titles.py). Clean text: Project Gutenberg's transcription of Scott's edition, The Works of John Dryden (18 vols, 1808; PG's volumes are the 1821 2nd ed. reprint), plus PG 228 (Aeneid). Raw OCR (Internet Archive): the Garth composite Metamorphoses and the 1684 History of the League, neither on Gutenberg. All PD (Dryden d. 1700; Scott d. 1832). No uids minted in the relay burst: every title awaits Adam's single-writer minting pass.",
  "_name_words": [
-  "dryden",
-  "john",
-  "scott"
+  "dryden"
  ],
  "ccel": {},
  "gutenberg": {
-  "dryden-aeneid": [
-   228,
-   "Virgil, The Aeneid, tr. John Dryden (PG 228; poem only, without Dryden's Dedication)"
-  ],
   "dryden-scott-11": [
    44050,
    "Works of John Dryden (Scott), vol. 11: Fables (Chaucer, Boccace); Veni Creator"
@@ -52,11 +46,17 @@
  },
  "titles": {
   "dryden-aeneid": {
-   "source": "dryden-aeneid",
    "of": "Virgil",
    "work": "Aeneid (Aeneis), 12 books",
    "published": 1697,
-   "note": "PG 228. Scott vols 14-15 carry the same translation with Dryden's Dedication and Notes (also shelved as sources)."
+   "note": "PG 228. Scott vols 14-15 carry the same translation with Dryden's Dedication and Notes (also shelved as sources).",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "virgil-eclogues",
+    "gutenberg_id": 228
+   },
+   "held_note": "adler_shelf.json titles PG 228 'Eclogues, Georgics, Aeneid'; the file holds the Aeneid only (12 books; this shelf's cut of it found no Eclogues or Georgics). Dryden's Eclogues and Georgics come from Scott vols 13-14 here. The adler title is not lane C's file to edit: reported in REPORT-C/DIGEST-C.",
+   "translator": "John Dryden"
   },
   "dryden-aeneid-dedication": {
    "source": "dryden-scott-14",
@@ -71,7 +71,8 @@
    "of": "Virgil",
    "work": "Dedication of the Aeneis (Dryden's own essay, prefixed to the translation)",
    "published": 1697,
-   "note": "Dryden's prose, not a translation; kept because PG 228 omits it and the Aeneid is cited with it."
+   "note": "Dryden's prose, not a translation; kept because PG 228 omits it and the Aeneid is cited with it.",
+   "translator": "John Dryden"
   },
   "dryden-georgics": {
    "source": "dryden-scott-14",
@@ -85,7 +86,8 @@
    ],
    "of": "Virgil",
    "work": "Georgics, 4 books (with Dedication and Addison's Essay)",
-   "published": 1697
+   "published": 1697,
+   "translator": "John Dryden"
   },
   "dryden-eclogues": {
    "source": "dryden-scott-13",
@@ -99,14 +101,17 @@
    ],
    "of": "Virgil",
    "work": "Eclogues (Pastorals) I-X, with Dedication and Walsh's Preface",
-   "published": 1697
+   "published": 1697,
+   "translator": "John Dryden"
   },
   "dryden-metamorphoses": {
    "source": "dryden-garth-metamorphoses-1826",
    "of": "Ovid",
    "work": "Metamorphoses, 15 books, the Garth composite edition",
    "published": 1717,
-   "note": "MANY HANDS: Dryden's share is Book I, Book XII and the Fables episodes; the rest is Addison, Gay, Garth, Congreve, Rowe, Pope, Tate, Croxall et al. Raw OCR, unproofread. Dryden's own share in clean text is dryden-ovid-metamorphoses."
+   "note": "MANY HANDS: Dryden's share is Book I, Book XII and the Fables episodes; the rest is Addison, Gay, Garth, Congreve, Rowe, Pope, Tate, Croxall et al. Raw OCR, unproofread. Dryden's own share in clean text is dryden-ovid-metamorphoses.",
+   "translator": "Garth ed.: John Dryden, Joseph Addison, John Gay, Samuel Garth, William Congreve, Nicholas Rowe, Alexander Pope, Nahum Tate, Samuel Croxall et al.",
+   "overlap": "Dryden's own Books I and XII and episodes appear BOTH here and in dryden-ovid-metamorphoses (Scott vol. 12): two witnesses of the same translation, one uid per passage at minting."
   },
   "dryden-ovid-metamorphoses": {
    "source": "dryden-scott-12",
@@ -120,7 +125,9 @@
    ],
    "of": "Ovid",
    "work": "Metamorphoses: Dryden's own translations (Book I, Book XII, Ajax and Ulysses, Pythagorean Philosophy and 9 episodes)",
-   "published": "1693-1700"
+   "published": "1693-1700",
+   "overlap": "Same passages as Dryden's share of dryden-metamorphoses (Garth): two witnesses.",
+   "translator": "John Dryden"
   },
   "dryden-ovid-epistles": {
    "source": "dryden-scott-12",
@@ -134,7 +141,8 @@
    ],
    "of": "Ovid",
    "work": "Heroides (Ovid's Epistles): Canace, Helen, Dido, with Dryden's Preface",
-   "published": 1680
+   "published": 1680,
+   "translator": "John Dryden"
   },
   "dryden-ovid-art-of-love": {
    "source": "dryden-scott-12",
@@ -148,7 +156,8 @@
    ],
    "of": "Ovid",
    "work": "Ars Amatoria, Book I",
-   "published": 1709
+   "published": 1709,
+   "translator": "John Dryden"
   },
   "dryden-ovid-amores": {
    "source": "dryden-scott-12",
@@ -162,7 +171,8 @@
    ],
    "of": "Ovid",
    "work": "Amores I.1 and I.4",
-   "published": 1684
+   "published": 1684,
+   "translator": "John Dryden"
   },
   "dryden-theocritus": {
    "source": "dryden-scott-12",
@@ -176,7 +186,8 @@
    ],
    "of": "Theocritus",
    "work": "Idylls III, XVIII, XXIII, XXVII",
-   "published": 1684
+   "published": 1684,
+   "translator": "John Dryden"
   },
   "dryden-lucretius": {
    "source": "dryden-scott-12",
@@ -190,7 +201,8 @@
    ],
    "of": "Lucretius",
    "work": "De Rerum Natura: selections from Books I-V",
-   "published": 1685
+   "published": 1685,
+   "translator": "John Dryden"
   },
   "dryden-horace": {
    "source": "dryden-scott-12",
@@ -204,7 +216,8 @@
    ],
    "of": "Horace",
    "work": "Odes I.3, I.9, I.29, Epode 2",
-   "published": 1685
+   "published": 1685,
+   "translator": "John Dryden"
   },
   "dryden-iliad": {
    "source": "dryden-scott-12",
@@ -218,7 +231,8 @@
    ],
    "of": "Homer",
    "work": "Iliad Book I; Hector and Andromache (Book VI)",
-   "published": "1693/1700"
+   "published": "1693/1700",
+   "translator": "John Dryden"
   },
   "dryden-juvenal": {
    "source": "dryden-scott-13",
@@ -232,7 +246,8 @@
    ],
    "of": "Juvenal",
    "work": "Satires I, III, VI, X, XVI, with the Discourse on Satire",
-   "published": 1693
+   "published": 1693,
+   "translator": "John Dryden"
   },
   "dryden-persius": {
    "source": "dryden-scott-13",
@@ -246,7 +261,8 @@
    ],
    "of": "Persius",
    "work": "Satires I-VI",
-   "published": 1693
+   "published": 1693,
+   "translator": "John Dryden"
   },
   "dryden-fables-chaucer": {
    "source": "dryden-scott-11",
@@ -261,7 +277,8 @@
    "of": "Chaucer",
    "work": "Fables: Palamon and Arcite, Cock and Fox, Flower and Leaf, Wife of Bath, Good Parson (with the Preface to the Fables)",
    "published": 1700,
-   "note": "Modernisations of Middle English, not translations from another language; part of Fables Ancient and Modern. Chaucer's originals are in Scott vol. 12's appendix (not cut)."
+   "note": "Modernisations of Middle English, not translations from another language; part of Fables Ancient and Modern. Chaucer's originals are in Scott vol. 12's appendix (not cut).",
+   "translator": "John Dryden (modernisation of Chaucer)"
   },
   "dryden-fables-boccaccio": {
    "source": "dryden-scott-11",
@@ -276,7 +293,8 @@
    "of": "Boccaccio",
    "work": "Fables: Sigismonda and Guiscardo, Theodore and Honoria, Cymon and Iphigenia",
    "published": 1700,
-   "note": "Scott subjoins each Decameron original after the verse; the span includes those."
+   "note": "Scott subjoins each Decameron original after the verse; the span includes those.",
+   "translator": "John Dryden"
   },
   "dryden-veni-creator": {
    "source": "dryden-scott-11",
@@ -290,13 +308,15 @@
    ],
    "of": "Latin hymn (Rabanus Maurus, attrib.)",
    "work": "Veni Creator Spiritus, paraphrased",
-   "published": 1693
+   "published": 1693,
+   "translator": "John Dryden"
   },
   "dryden-xavier": {
    "source": "dryden-scott-16",
    "of": "Dominique Bouhours",
    "work": "The Life of St Francis Xavier (French prose)",
-   "published": 1688
+   "published": 1688,
+   "translator": "John Dryden"
   },
   "dryden-art-of-painting": {
    "source": "dryden-scott-17",
@@ -310,14 +330,16 @@
    ],
    "of": "C. A. Du Fresnoy",
    "work": "De Arte Graphica (The Art of Painting), with the Parallel of Poetry and Painting",
-   "published": 1695
+   "published": 1695,
+   "translator": "John Dryden"
   },
   "dryden-history-of-the-league": {
    "source": "dryden-league-1684",
    "of": "Louis Maimbourg",
    "work": "The History of the League (French prose), complete",
    "published": 1684,
-   "note": "Raw OCR of the 1684 first edition (long s). Scott vol. 17 prints only a specimen (Book III)."
+   "note": "Raw OCR of the 1684 first edition (long s). Scott vol. 17 prints only a specimen (Book III).",
+   "translator": "John Dryden"
   }
  },
  "_pending": {
@@ -336,5 +358,68 @@
   "gilfillan-poetical-works": "PG 11488/11578 (Gilfillan ed., 1855): original poems + Fables; duplicates Scott, fewer translations. Not fetched.",
   "pg-7490": "Dryden's Palamon and Arcite (PG 7490, school ed.): same text as dryden-fables-chaucer. Duplicate.",
   "scott-vol-league-specimen": "Scott vol. 17's History of the League specimen (Book III only): superseded by the complete 1684 OCR."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {
+  "dryden-scott-11": {
+   "pg": 44050,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-scott-12": {
+   "pg": 54361,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-scott-13": {
+   "pg": 47383,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-scott-14": {
+   "pg": 64337,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-scott-15": {
+   "pg": 47641,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-scott-16": {
+   "pg": 14947,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-scott-17": {
+   "pg": 76952,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "dryden-garth-metamorphoses-1826": {
+   "ia": "ovidsmetamorphos00ovid",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1826
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "dryden-league-1684": {
+   "ia": "historyofleague00maim",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1584,
+    1684
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

@@ -1,10 +1,7 @@
 {
  "_about": "TRANSLATOR SHELF: John Florio (1553?-1625). Montaigne's Essayes (1603) in the Gibbings 1906 reprint (6 vols, Toronto copies, raw OCR) and the 1620 English Decameron as attributed to him (PG). PD. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "florio",
-  "john",
-  "montaigne",
-  "michael"
+  "florio"
  ],
  "ccel": {},
  "gutenberg": {
@@ -56,7 +53,8 @@
    "of": "Montaigne",
    "work": "Essayes (3 books), 6 vols",
    "translated": 1603,
-   "scan_edition": "Gibbings, London 1906 (reprint of 1603), raw OCR"
+   "scan_edition": "Gibbings, London 1906 (reprint of 1603), raw OCR",
+   "translator": "John Florio"
   },
   "florio-decameron": {
    "source": [
@@ -66,7 +64,8 @@
    "of": "Boccaccio",
    "work": "The Decameron (first complete English, 1620)",
    "translated": 1620,
-   "note": "Published anonymously in 1620; the attribution to Florio is scholarly (PG credits him). Dryden's three Boccaccio tales are a different translation (dryden-fables-boccaccio)."
+   "note": "Published anonymously in 1620; the attribution to Florio is scholarly (PG credits him). Dryden's three Boccaccio tales are a different translation (dryden-fables-boccaccio).",
+   "translator": "attributed to John Florio (published anonymously, 1620)"
   }
  },
  "_pending": {
@@ -76,5 +75,74 @@
  "_excluded": {
   "pg-56200": "Queen Anna's New World of Words: Florio's dictionary, not a translation (could join a lexicon shelf, Adam's call).",
   "pg-3600-cotton": "PG's Montaigne Essays is Charles Cotton's translation, not Florio."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "florio-montaigne-2": "Vol. 2 of the same Toronto set (essayestranslate02montuoft); its vol. 1 title page reads 'translated by John Florio 1603, London: Gibbings & Company'. Vol. 2's own title page carries no name. Checked 2026-10-02."
+ },
+ "_verified": {
+  "florio-decameron-1": {
+   "pg": 52617,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Florio"
+  },
+  "florio-decameron-2": {
+   "pg": 52618,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Florio"
+  },
+  "florio-montaigne-1": {
+   "ia": "essayestranslate01montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1581,
+    1585,
+    1592,
+    1603,
+    1613,
+    1830
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-2": {
+   "ia": "essayestranslate02montuoft",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-3": {
+   "ia": "essayestranslate03montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-4": {
+   "ia": "essayestranslate04montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-5": {
+   "ia": "essayestranslate05montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "florio-montaigne-6": {
+   "ia": "essayestranslate06montuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

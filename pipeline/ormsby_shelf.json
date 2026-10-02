@@ -1,29 +1,29 @@
 {
  "_about": "TRANSLATOR SHELF: John Ormsby (1829-1895). Cervantes' Don Quixote (1885). PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
-  "ormsby",
-  "john",
-  "cervantes",
-  "quixote"
+  "ormsby"
  ],
  "ccel": {},
- "gutenberg": {
-  "ormsby-quixote": [
-   996,
-   "Cervantes, Don Quixote, tr. Ormsby (complete)"
-  ]
- },
+ "gutenberg": {},
  "internet_archive": {},
  "titles": {
   "ormsby-don-quixote": {
-   "source": "ormsby-quixote",
    "of": "Cervantes",
    "work": "Don Quixote, Parts I-II",
-   "translated": 1885
+   "translated": 1885,
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "cervantes-quixote",
+    "gutenberg_id": 996
+   },
+   "translator": "John Ormsby"
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-5903..5946, pg-28842": "Doré-illustrated or partial Gutenberg copies of the same Ormsby text."
- }
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_verified": {},
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }
