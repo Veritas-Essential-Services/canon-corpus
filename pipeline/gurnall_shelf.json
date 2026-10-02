@@ -1,0 +1,25 @@
+{
+ "_about": "Every public-domain William Gurnall (1617-1679, Lavenham) text the Word Hoard holds: The Christian in Complete Armour, his one great work, in the 1862 London edition with John Campbell's introduction (Campbell d. 1867), Internet Archive OCR, raw and unconverted. CCEL's 'armour' file is a stub (about 7 KB of text). No Gutenberg Gurnall found.",
+ "_ccel_author": "",
+ "_name_words": [
+  "gurnall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gurnall-complete-armour-1862": [
+   "ChristianInCompleteArmourOr",
+   "The Christian in Complete Armour, intro. John Campbell (London, 1862)"
+  ]
+ },
+ "_alternates": {
+  "christianincomp00unkngoog": "Another scan of the 1862 edition.",
+  "christianincom00gurn (1845)": "An earlier one-volume edition.",
+  "christianincompl00gurnuoft, christianincompl03gurnuoft (1821); christianincompl00gurn, christianincompl03gurn, christianincompl04gurn (1803)": "Earlier multi-volume editions, incomplete sets on IA."
+ },
+ "_excluded": {
+  "CCEL gurnall/armour": "a stub, contents only",
+  "ycristionmewncyf00gurn": "Welsh translation (1862); not English"
+ }
+}

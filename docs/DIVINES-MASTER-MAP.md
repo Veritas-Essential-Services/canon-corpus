@@ -570,6 +570,16 @@ Target: M'Millan's *Whole Works of Thomas Boston* (12 vols, 1848-1852, including
 | Whole Works vol. 12 | have-raw | IA `wholeworksoflate12bost` |
 | Human Nature in its Fourfold State, Memoirs, Crook in the Lot: separate printings 1775-1899 | alternate | in the Whole Works |
 | A clean Fourfold State | wishlist | no PD machine-readable edition found |
+
+
+## William Gurnall (round 3, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian in Complete Armour, intro. John Campbell (London, 1862) | have-raw | IA `ChristianInCompleteArmourOr` |
+| Editions of 1803, 1821, 1845; second 1862 scan | alternate | not fetched |
+| CCEL `gurnall/armour` | excluded | a stub |
+| A clean text of the Complete Armour | wishlist | no PD machine-readable edition found |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

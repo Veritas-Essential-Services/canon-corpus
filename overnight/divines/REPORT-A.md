@@ -125,3 +125,6 @@
 
 ## 2026-10-02 16:33 CDT — boston done
 - `pipeline/boston_shelf.json`: M'Millan's Whole Works, all 12 volumes, raw IA OCR (vol. 9 from a Google scan because the main series' text file returned HTTP 500), plus The Crook in the Lot from CCEL (439 units, 4 links). About 24 MB. `--verify`: 0 mismatched. 0 uids minted.
+
+## 2026-10-02 16:34 CDT — gurnall done
+- `pipeline/gurnall_shelf.json`: The Christian in Complete Armour (1862, intro. John Campbell), raw IA OCR, 4.6 MB. CCEL's `gurnall/armour` is a stub (about 7 KB of text). `--verify`: 0 mismatched. 0 uids minted.
