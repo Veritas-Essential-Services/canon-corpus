@@ -105,3 +105,8 @@
 
 ## 2026-10-02 16:20 CDT — matthew-henry done
 - `pipeline/matthew-henry_shelf.json`: the whole Commentary (6 CCEL volumes) and the Concise Commentary fetched and converted: 37,105 units, 66,593 scripture links. CCEL's rights line on all seven reads public domain (checked in each file). Plus 2 IA items raw (Miscellaneous Works 1830, 9.3 MB; Life of Philip Henry). About 76 MB in all. `--verify`: 0 mismatched. 0 uids minted.
+
+## 2026-10-02 16:26 CDT — calvin done
+- Census: `CALVIN_COMMENTARIES` in `fetch_sources.py` holds all 45 Calvin Translation Society commentary volumes; nothing is missing from that series.
+- `pipeline/calvin_shelf.json` adds the verified gaps: Institutes (Beveridge 1845; chapter headings confirm Beveridge's wording, though the file also carries Norton's 1581 prefatory matter and a CCEL introduction) and A Treatise on Relics from CCEL (3,818 units, 3,076 links; both rights lines read public domain, though Relics records a 2008 Prometheus reprint as its source, so its front matter wants a look before anyone republishes it); Bonnet's Letters vols 1-2 from Gutenberg (rights lines passed) and vols 3-4 from IA; the CTS Tracts, 3 vols, from IA. About 14 MB. `--verify`: 0 mismatched.
+- Not taken: CCEL's Latin Institutio files are stubs (about 4,000 characters each); CCEL's "Three Volumes of Sermons" is the French Corpus Reformatorum text, out of scope for an English CTS shelf. 0 uids minted.

@@ -161,10 +161,13 @@
     },
     {
       "id": "calvin",
-      "status": "todo",
+      "status": "done",
       "scope": "Calvin in the Calvin Translation Society English: census against CALVIN_COMMENTARIES already in fetch_sources.py; add the Institutes, Tracts and Letters only if verified gaps",
       "added": "2026-10-02T15:56:35-05:00",
-      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)",
+      "started": "2026-10-02T16:23:15-05:00",
+      "finished": "2026-10-02T16:26:26-05:00",
+      "notes": "Institutes, Relics, Letters 4 vols, Tracts 3 vols; 45 CTS commentaries already held"
     },
     {
       "id": "spurgeon",

@@ -443,3 +443,24 @@ The Exposition ('Commentary on the Whole Bible') is held whole from CCEL as clea
 | Method for Prayer, Communicant's Companion, Daily Communion with God and other single treatises | alternate | single printings on IA; most are inside the Miscellaneous Works (not checked title by title) |
 | Complete Works (1847) | pending | only vol. 1 found on IA |
 | German Psalms translation (1770); Philip Henry's own sermons | excluded | not English / a different author |
+
+
+## John Calvin, English (round 2, 2026-10-02)
+
+Census first: the 45 Calvin Translation Society commentary volumes are already held through `CALVIN_COMMENTARIES` in `fetch_sources.py`, and the set is complete (Genesis to the Catholic Epistles; Calvin wrote nothing on Revelation and his Ezekiel ends at ch. 20). Added as verified gaps: the Institutes (Beveridge, CTS 1845) and A Treatise on Relics, clean from CCEL; the Letters (Bonnet, 1858, 4 vols), vols 1-2 clean from Gutenberg and 3-4 as IA OCR; the CTS Tracts (3 vols) as IA OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| Commentaries, CTS, 45 vols (`calvin-com01`..`45`) | have | already in `fetch_sources.py` |
+| Institutes of the Christian Religion, tr. Henry Beveridge (Calvin Translation Society, 1845) | have | CCEL `institutes` (`calvin-institutes-beveridge`) |
+| A Treatise on Relics, tr. Valerian Krasinski (1854) | have | CCEL `treatise_relics` (`calvin-treatise-relics`) |
+| Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 1 | have | Gutenberg 45423 (`calvin-letters-1`) |
+| Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 2 | have | Gutenberg 45463 (`calvin-letters-2`) |
+| Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 3 | have-raw | IA `lettersc03calv` |
+| Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 4 | have-raw | IA `lettersofjohncal04calv` |
+| Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1844), vol. 1 | have-raw | IA `tractsrelatingto01calv` |
+| Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1850), vol. 2 | have-raw | IA `tractsrelatingto02calv` |
+| Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1851), vol. 3 | have-raw | IA `tractsrelatingto03calv` |
+| Institutes in John Allen's (1813) or Norton's (1561) translation | pending | not searched |
+| French sermons (Corpus Reformatorum 61-63, on CCEL); Latin Institutio | excluded here | not English; CCEL's Institutio files are stubs |
+| On the Christian Life; Of Prayer (CCEL) | alternate | extracts from the Institutes held |

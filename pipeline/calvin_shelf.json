@@ -1,0 +1,110 @@
+{
+ "_about": "Every public-domain John Calvin (1509-1564) English text the Word Hoard holds beyond the Commentaries. The 45 Calvin Translation Society commentary volumes are already held through CALVIN_COMMENTARIES in pipeline/fetch_sources.py (census 2026-10-02: complete, Genesis to the Catholic Epistles; Calvin wrote no commentary on Revelation and his Ezekiel stops at ch. 20), listed under _held. Added here as verified gaps: the Institutes in Henry Beveridge's Calvin Translation Society translation (1845) and A Treatise on Relics (tr. Krasinski, 1854), clean from CCEL; the Letters (ed. Jules Bonnet, Philadelphia: Presbyterian Board of Publication, 1858), vols. 1-2 clean from Gutenberg and vols. 3-4 as IA OCR; and the Tracts Relating to the Reformation (Calvin Translation Society, tr. Beveridge, 1844-1851, 3 vols; title-page years read from the OCR) as IA OCR, raw and unconverted.",
+ "_ccel_author": "c/calvin",
+ "_name_words": [
+  "calvin"
+ ],
+ "_held": {
+  "calvin-com01": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Genesis 1-23, CTS)",
+  "calvin-com02": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Genesis 24-50, CTS)",
+  "calvin-com03": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 1, CTS)",
+  "calvin-com04": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 2, CTS)",
+  "calvin-com05": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 3, CTS)",
+  "calvin-com06": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 4, CTS)",
+  "calvin-com07": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Joshua, CTS)",
+  "calvin-com08": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 1-35, CTS)",
+  "calvin-com09": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 36-66, CTS)",
+  "calvin-com10": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 67-92, CTS)",
+  "calvin-com11": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 93-119, CTS)",
+  "calvin-com12": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 119-150, CTS)",
+  "calvin-com13": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 1-16, CTS)",
+  "calvin-com14": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 17-32, CTS)",
+  "calvin-com15": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 33-48, CTS)",
+  "calvin-com16": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 49-66, CTS)",
+  "calvin-com17": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 1-9, CTS)",
+  "calvin-com18": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 10-19, CTS)",
+  "calvin-com19": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 20-29, CTS)",
+  "calvin-com20": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 30-47, CTS)",
+  "calvin-com21": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 48-52, CTS)",
+  "calvin-com22": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Ezekiel 1-12, CTS)",
+  "calvin-com23": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Ezekiel 13-20, CTS)",
+  "calvin-com24": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Daniel 1-6, CTS)",
+  "calvin-com25": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Daniel 7-12, CTS)",
+  "calvin-com26": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Hosea, CTS)",
+  "calvin-com27": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Joel-Amos-Obadiah, CTS)",
+  "calvin-com28": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jonah-Micah-Nahum, CTS)",
+  "calvin-com29": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Habakkuk-Zephaniah-Haggai, CTS)",
+  "calvin-com30": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Zechariah-Malachi, CTS)",
+  "calvin-com31": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Gospels, Vol. 1, CTS)",
+  "calvin-com32": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Gospels, Vol. 2, CTS)",
+  "calvin-com33": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Gospels, Vol. 3, CTS)",
+  "calvin-com34": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on John 1-11, CTS)",
+  "calvin-com35": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on John 12-21, CTS)",
+  "calvin-com36": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Acts 1-13, CTS)",
+  "calvin-com37": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Acts 14-28, CTS)",
+  "calvin-com38": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Romans, CTS)",
+  "calvin-com39": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on 1 Corinthians 1-14, CTS)",
+  "calvin-com40": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on 1 Corinthians 15-16, 2 Corinthians, CTS)",
+  "calvin-com41": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Galatians-Ephesians, CTS)",
+  "calvin-com42": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Philippians-Colossians-Thessalonians, CTS)",
+  "calvin-com43": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Timothy, Titus, Philemon, CTS)",
+  "calvin-com44": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Hebrews, CTS)",
+  "calvin-com45": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Catholic Epistles, CTS)"
+ },
+ "ccel": {
+  "calvin-institutes-beveridge": [
+   "institutes",
+   "Institutes of the Christian Religion, tr. Henry Beveridge (Calvin Translation Society, 1845)",
+   ""
+  ],
+  "calvin-treatise-relics": [
+   "treatise_relics",
+   "A Treatise on Relics, tr. Valerian Krasinski (1854)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "calvin-letters-1": [
+   45423,
+   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 1"
+  ],
+  "calvin-letters-2": [
+   45463,
+   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 2"
+  ]
+ },
+ "internet_archive": {
+  "calvin-letters-3": [
+   "lettersc03calv",
+   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 3"
+  ],
+  "calvin-letters-4": [
+   "lettersofjohncal04calv",
+   "Letters of John Calvin, ed. Jules Bonnet (Philadelphia, 1858), vol. 4"
+  ],
+  "calvin-tracts-1": [
+   "tractsrelatingto01calv",
+   "Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1844), vol. 1"
+  ],
+  "calvin-tracts-2": [
+   "tractsrelatingto02calv",
+   "Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1850), vol. 2"
+  ],
+  "calvin-tracts-3": [
+   "tractsrelatingto03calv",
+   "Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1851), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "CCEL calvin/chr_life, calvin/prayer": "On the Christian Life and Of Prayer: extracts from Beveridge's Institutes (Book III), already inside calvin-institutes-beveridge.",
+  "lettersofjohncal01calv, lettersofjohncal02calv, lettersofjohncal04calvuoft, letters01calv": "IA scans of the same Letters; vols 1-2 are held clean from Gutenberg.",
+  "lettersofjohncal00calvuoft, lettersofjohncal01calvuoft, lettersofjohncalrepro01calv/02calv": "The Edinburgh 1855-57 edition of the Letters (vols 1-2 only, tr. David Constable); not fetched.",
+  "tractsre0[1-3]calvuoft, tractsreformatio0[2-3]calvuoft, tractsrelatingto[1-3]calv, tractsrelatingt0[0-1]bzgoog": "Further scans of the CTS Tracts.",
+  "John Allen's translation of the Institutes (1813 onward); Norton's (1561)": "other English Institutes; not searched this burn"
+ },
+ "_excluded": {
+  "CCEL calvin/institutio1, institutio2": "Latin Institutio (1834): CCEL's files are stubs, about 4,000 characters each",
+  "CCEL calvin/sermons": "'Three Volumes of Sermons' is Corpus Reformatorum vols. 61-63, the French originals: not the CTS English this shelf collects (a later French/Latin shelf could take it)",
+  "lettersofjohncal000[1-4]drju/marc (1972-73), lettersofjohncal0000calv (1980)": "modern reprints: possibly in copyright"
+ }
+}
