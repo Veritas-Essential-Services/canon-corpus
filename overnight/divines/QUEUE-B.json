@@ -240,10 +240,11 @@
     },
     {
       "id": "perseus-english",
-      "status": "running",
+      "status": "done",
       "scope": "Shelve the likely-PD Perseus English translations not already on PR #7 (deduped against claude/project-thread-hxenem; Josephus, Philo and the fathers excluded), one commit per author, rights line each",
       "started": "2026-10-02T17:13:05-05:00",
-      "notes": "in progress; last author: aretaeus"
+      "notes": "243 Perseus TEI English texts in 19 shelves, 0 failed; deduped against PR #7 (309 ids), Philo and lane A material excluded. Markup CC BY-SA 4.0 recorded per file.",
+      "finished": "2026-10-02T17:30:32-05:00"
     }
   ]
 }
