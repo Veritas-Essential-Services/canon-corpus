@@ -175,7 +175,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | Iliad | Augustus Taber Murray | `homer-perseus-murray-iliad` | have (Perseus TEI `tlg0012.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
 | Odyssey | Augustus Taber Murray | `homer-perseus-murray-odyssey` | have (Perseus TEI `tlg0012.tlg002.perseus-eng3`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): A. T. Murray's Loeb Iliad (1924-25) and Odyssey (1919), on Perseus, US PD by date; 
+Pending (wishlist): none known beyond the rows above.
 
 Excluded: PG 2199 (Butler Iliad, already built), PG 28797 (duplicate Butler Odyssey), PG 24856 (schoolbook adaptation).
 
@@ -195,7 +195,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Dramas of Aeschylus (4th ed., revised, 1899) | Anna Swanwick | `aeschylus-swanwick` | have-raw (IA `dramasofaeschylu0000unse`) |
 | Agamemnon | Robert Browning | `aeschylus-perseus-browning-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng4`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): H. W. Smyth's Loeb (1922-26), on Perseus, US PD by date; Robert Browning's Agamemnon (1877).
+Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
 Excluded: PG 7073 (Goldwin Smith's Specimens: excerpts).
 
@@ -282,7 +282,7 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | — | — | `herodotus-history` | cross-ref → Adler shelf (pipeline/adler_shelf.json): PG 2707, Macaulay vol. 1 (Books I-IV) only, although that shelf's title reads as the whole History |
 | Herodotus: a New and Literal Version from the Text of Baehr (Harper, 1873) | Henry Cary | `herodotus-cary` | have-raw (IA `herodotusnewlite0000hero`) |
 
-Pending (wishlist): A. D. Godley's Loeb (1920-25), on Perseus.
+Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
 Excluded: PG 2131 (an extract of Book II), PG 55758 (adaptation).
 
@@ -303,7 +303,7 @@ Shelf: `pipeline/thucydides_shelf.json`. Jowett's own Thucydides (1881) and Hobb
 | History of the Peloponnesian War | Henry Dale | `thucydides-perseus-dale-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng2`; markup CC BY-SA 4.0) |
 | The History of the Grecian War | Thomas Hobbes | `thucydides-perseus-hobbes-the-history-of-the-grecian-war` | have (Perseus TEI `tlg0003.tlg001.perseus-eng4`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): C. F. Smith's Loeb (1919-23), on Perseus; 
+Pending (wishlist): none known beyond the rows above.
 
 Excluded: PG 26245 (duplicate Crawley), PG 9074 (adaptation).
 
@@ -347,7 +347,7 @@ Shelf: `pipeline/polybius_shelf.json`. Shuckburgh (1889), complete, clean Gutenb
 | The General History of Polybius, vol. 3 (1773; volume per catalogue) | James Hampton | `polybius-hampton-v3` | have-raw (IA `generalhistoryof03poly`) |
 | The General History of Polybius, vol. 4 (1773) | James Hampton | `polybius-hampton-v4` | have-raw (IA `generalhistoryof04poly`) |
 
-Pending (wishlist): W. R. Paton's Loeb (1922-27), on Perseus; 
+Pending (wishlist): Paton's Loeb (1922-27) is on PR #7 as Perseus TEI; 
 
 ## Arrian
 
@@ -485,7 +485,7 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Concerning music | John Philips | `plutarch-perseus-philips-concerning-music` | have (Perseus TEI `tlg0094.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 | Of Those Sentiments Concerning Nature with which Philosophers were Delighted | John Dowell | `plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi` | have (Perseus TEI `tlg0094.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): Philemon Holland's complete Morals (1603) in a cleaner copy; Perrin's and Babbitt's Loebs, on Perseus.
+Pending (wishlist): Philemon Holland's complete Morals (1603) in a cleaner copy; Babbitt's Moralia vols. 3 on (1931-) are after the 1930 line. Perrin's Lives are on PR #7 as Perseus TEI.
 
 Excluded: PG 3052 (older text of Goodwin), PG 2484 (adaptation), `plutarchslivesn05accigoog` (a worse second scan of North vol. 5), Shakespeare's Plutarch (selections from North).
 
@@ -759,7 +759,7 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Pharsalia; Dramatic Episodes of the Civil Wars | Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation | `lucan-ridley-pharsalia` | have (PG 602) |
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 | Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
-| Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | pending (IA `bub_gb_GEsNZ2BDG1QC`: title page read, vol. II, 1812; the text file answers HTTP 500 intermittently, retrying) |
+| Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
 
 Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
@@ -854,7 +854,7 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | Demosthenes: an Encomium | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-demosthenes-an-encomium` | have (Perseus TEI `tlg0061.tlg003.perseus-eng1`; markup CC BY-SA 4.0) |
 | The Halcyon | Emily James Smith | `lucian-perseus-smith-the-halcyon` | have (Perseus TEI `tlg0061.tlg004.perseus-eng1`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): Harmon's Loeb (1913-); Francklin's complete Lucian (1780).
+Pending (wishlist): Francklin's complete Lucian (1780). Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 
 ## Cicero
 
@@ -971,7 +971,7 @@ Shelf: `pipeline/lysias_shelf.json`. Gutenberg's 'Handy Literal Translations' ed
 | On the Property of Aristophanes | W.R.M. Lamb | `lysias-perseus-lamb-on-the-property-of-aristophanes` | have (Perseus TEI `tlg0540.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
 | On the Scrutiny of Evandros | W.R.M. Lamb | `lysias-perseus-lamb-on-the-scrutiny-of-evandros` | have (Perseus TEI `tlg0540.tlg026.perseus-eng2`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): Lamb's Loeb Lysias (1930) if a scan is found
+Pending (wishlist): none: Lamb's Loeb (1930) is held above as Perseus TEI
 
 ## Isocrates
 
@@ -1294,7 +1294,7 @@ Shelf: `pipeline/hippocrates_shelf.json`. Adams: vol. 1 Gutenberg, vol. 2 Sydenh
 | Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | have (Perseus TEI `tlg0627.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 | Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | have (Perseus TEI `tlg0627.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): Jones/Withington Loeb (Greek facing)
+Pending (wishlist): the Jones/Withington Loeb beyond the five 1923 pieces held as Perseus TEI (Greek facing: OCR not taken)
 
 ## Galen
 
@@ -1406,7 +1406,7 @@ Shelf: `pipeline/gellius_shelf.json`. Beloe 1795, vols. 1 and 3 (IA, 0.84-0.86).
 | The Attic Nights of Aulus Gellius, vol. 2 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v2` | have-raw (IA `bwb_S0-AVN-132`) |
 | The Attic Nights of Aulus Gellius, vol. 3 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v3` | have-raw (IA `atticnightsofaul0003unse`) |
 
-Pending (wishlist): 
+Pending (wishlist): none known.
 
 ## Ammianus Marcellinus
 
