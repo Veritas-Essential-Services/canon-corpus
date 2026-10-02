@@ -100,9 +100,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/proper_names.py --fetch  # the house proper-names table (Vulgate + Hitchcock, PD)
     python3 pipeline/proper_names.py --check  # names table byte-identical
     python3 tests/proper_names_test.py        # the names table; the house supplement's attestation
-    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT pilot: RP2018 + Strong's, pinned
+    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT (all 27 books): RP2018 + Strong's, pinned
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
-    python3 tests/nt_corpus_test.py          # validator for data/nt/*.jsonl
+    python3 tests/nt_corpus_test.py          # validator for data/nt/<Book>/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
@@ -139,9 +139,12 @@ The living truth for project state is the Obsidian vault:
   slice committed; full table gitignored). Rules:
   pipeline/README-lemma-spine.md
 - pipeline/build_nt_corpus.py — the Greek NT (Robinson-Pierpont 2018, PD;
-  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/ (COMMITTED).
+  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/<Book>/
+  (COMMITTED, one folder per book, one manifest; read via load_nt()).
   One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
-  mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
+  mints 0. Whole NT since 2026-10-02 (7,953 verses); the drafts and the
+  reader cover the John 1:1-18 pilot. Doxology placement and sharding are
+  house defaults awaiting Adam (README-nt-jsonl s.16). Schema + differences from the hymns:
   pipeline/README-nt-jsonl.md. Glosses: Strong's DICTIONARY glosses by a
   fixed rule (pipeline/strongs_gloss.py, README s.12), not a translation;
   data/nt/gloss-overrides.jsonl is the contextual layer and

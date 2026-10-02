@@ -74,13 +74,16 @@ keyed by uid. Schema and rules: `pipeline/README-hymn-jsonl.md`.
 Each token's lemma comes from Whitaker's WORDS where it agrees with the house
 draft (launch plan D3): `pipeline/README-lemma-spine.md`.
 
-## Greek New Testament (JSONL, pilot)
+## Greek New Testament (JSONL)
 
-`data/nt/` holds John 1:1-18 from the Robinson-Pierpont Byzantine text
-(public domain) in the same four files, one row per verse. Each verse is a
+`data/nt/` holds the whole New Testament from the Robinson-Pierpont
+Byzantine text (public domain): 7,953 verses, 140,149 words, one folder per
+book with the same four files, one row per verse, and one manifest over all
+of them. John 1:1-18 is the pilot the house drafts and the reader cover. Each verse is a
 witness of the KJV verse's existing uid, so nothing is minted. Parsing is
 Robinson's; lemmas are Strong's headwords. Schema, licence evidence,
-transliteration scheme and the full-NT plan: `pipeline/README-nt-jsonl.md`.
+transliteration scheme and the two rulings still open (the Romans doxology,
+the sharding): `pipeline/README-nt-jsonl.md` s.16.
 
 ## The reader (reverse interlinear, D5)
 

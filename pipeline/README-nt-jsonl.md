@@ -4,7 +4,7 @@ model_log:
   - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
 fable_review: pending
 ---
-# The Greek New Testament in the corpus JSONL (pilot: John 1:1–18)
+# The Greek New Testament in the corpus JSONL (the whole NT; pilot John 1:1–18)
 
 *Schema `wordhoard/corpus-jsonl/v1`, the same four files as the hymns
 (`README-hymn-jsonl.md`), with the differences written down here. Built by
@@ -13,12 +13,19 @@ Launch plan D2 (format), D3 (lemma spine), D4 (licence gate) and D5 (reader
 datasets), the Greek half. 2026-09-26.*
 
 ```
-data/nt/passages.jsonl     one line per verse (the passage that already exists)
-data/nt/witnesses.jsonl    one line per Greek rendering of a verse (grc.byz)
-data/nt/tokens.jsonl       one line per word of that rendering
-data/nt/alignments.jsonl   one line per verse: grc.byz faces kjv.plain
-data/nt/manifest.json      counts, checksums, sources + licence evidence, future layers
+data/nt/<Book>/passages.jsonl     one line per verse (the passage that already exists)
+data/nt/<Book>/witnesses.jsonl    one line per Greek rendering of a verse (grc.byz)
+data/nt/<Book>/tokens.jsonl       one line per word of that rendering
+data/nt/<Book>/alignments.jsonl   one line per verse: grc.byz faces kjv.plain
+data/nt/manifest.json             one over all 27 books: counts, shards, checksums,
+                                  sources + licence evidence, rulings, future layers
 ```
+
+`<Book>` is the OSIS book (`Matt` … `Rev`). Since 2026-10-02 the build covers
+the whole NT; the John 1:1–18 pilot is now a labelled pericope inside
+`data/nt/John/`, its records byte-identical to what the pilot wrote. Read the
+files through `build_nt_corpus.load_nt()`, which follows the manifest's
+`shards` block, so no consumer needs to know the layout (s.16).
 
 Nothing here is new doctrine except where marked **Choice**. The clause rule
 for Greek (s.8) is a **proposal**, and nothing in the files depends on it.
@@ -201,7 +208,23 @@ csv is unaccented, with Strong's numbers and parsing. The tokens need both.
 What is *not* re-checked: accents and breathings. They come from the maintainers'
 Beta→Unicode converter, and the manifest's `open` field says so.
 
-## 7. Counts (pilot)
+## 7. Counts
+
+The whole NT, measured 2026-10-02 (`tests/nt_corpus_test.py`, `EXPECTED_NT`):
+
+| | |
+|---|---|
+| verses | 7,953 in 27 shards (uids reused 7,953, minted 0) |
+| tokens | 140,149; 5,380 distinct lemmas |
+| tokens with lemma / parsing / gloss | 140,149 / 140,149 / 124,516 (88.8%) |
+| dictionary glosses by rule | kjv-form 27,855; kjv-sole 20,477; kjv-in-def 52,792; def-head 23,255 |
+| no gloss | 15,633: 7,214 pronouns with no agreeing KJV form, 7,544 function words, 875 with no usable head |
+| finite verbs | 19,571 |
+| tokens flagged for review | 28 (Robinson's double parsings) |
+| largest file | `Luke/tokens.jsonl`, 13 MB |
+| KJV verses with no Greek witness | 4: Luke 17:36, Acts 8:37, 15:34, 24:7 (Textus Receptus only) |
+
+The pilot, John 1:1–18 (`load_nt(pericope="John.1.1-18")`), unchanged:
 
 | | |
 |---|---|
@@ -264,6 +287,9 @@ here: Strong's by Robinson's number now, and later Thayer's (1889, already
 OCR'd in this repo by page) or Abbott-Smith (1922) re-keyed.
 
 ## 10. What a full-NT run takes
+
+*Done 2026-10-02: s.16 says how, and which two answers are still house
+defaults. Kept as the record of what was measured first.*
 
 Measured with `--survey`, which reads all 27 books at the pinned commit and
 writes nothing:
@@ -518,3 +544,64 @@ manifest once a row uses it. A reviewed row is never a draft. The manifest's
 `docs/review/2026-09-26-john1-drafts.notes.json` (its prose, with the row
 counts filled in). It is byte-identical while nothing has changed. An accepted
 row shows `✓`, and a revised draft shows its new value with the cell open again.
+
+## 16. The full run (2026-10-02): two house defaults, each one edit
+
+The build now reads every book (`SCOPE` in `build_nt_corpus.py`; narrow it to
+a list of stems to build less). It needed the two answers s.10 named. Both
+are still **Adam's rulings**. Until he makes them, the build uses the
+defaults below, the manifest records each under `rulings`-style blocks with
+`status: "house default, awaiting Adam's ruling"`, and changing either is one
+edit and a rebuild. Nothing downstream hard-codes either answer.
+
+**Ruling 1: the Romans doxology.** Default: the doxology is one passage whose
+position differs (s.10's recommendation). RP Rom 14:24–26 are `grc.byz`
+witnesses of the KJV uids of Rom 16:25–27, and each such witness carries
+`rp_ref` (`"Rom.14.24"` …), RP's own reference. Rows keep RP's reading order,
+so in `data/nt/Rom/` they follow 14:23. The manifest's `versification` block
+lists `placed_elsewhere`, `left_out` and `kjv_verses_without_grc`.
+
+- *To rule the other way:* set the values of `VERSIFICATION_MAP` to `None`.
+  The three RP verses are then left out and counted (`left_out`), KJV Rom
+  16:25–27 join the TR-only verses with no Greek witness, and nothing is
+  minted. The validator builds Romans that way to prove it.
+
+**Ruling 2: sharding.** Default: one folder per book, the four files in
+each, one `manifest.json` over all of them (its `shards` block: `layout`,
+`order` in canon order, per-book `dir`, `verses`, `tokens`). Token records are
+unchanged: provenance stays on every token. The whole is 97 MB on disk and
+about 7 MB gzipped; the largest file is 13 MB, under GitHub's 50 MB warning
+(the validator checks this).
+
+- *To change it:* `SHARD = None` writes the four flat files (tokens ~76 MB,
+  over the warning); the other options in s.10 (provenance moved to the
+  manifest, or tokens gitignored and rebuilt from the pins) are larger
+  changes and would want their own PR.
+
+**What else changed.**
+
+- **Pins.** The 108 book files (27 × 4) are pinned in
+  `pipeline/nt_pins.json`, measured at `BYZ_COMMIT`. A mismatch stops the
+  build as before. (raw.githubusercontent.com rate-limits a bulk `--fetch`;
+  a clone of byztxt at that commit, copied into `data/corpus/byztxt/27a45ff1b7be/`,
+  gives byte-identical files.)
+- **`pericope`** is `"John.1.1-18"` on the pilot verses and `null` on every
+  other. The reader and the John 1 review sheet read just the pilot through
+  `load_nt(pericope=…)`, whose manifest is a view with the pilot's own counts.
+- **Overrides and prose orders** still cover John 1:1–18 only. Every other
+  verse has dictionary glosses and no `en.plain`. A row for a book outside a
+  narrowed `SCOPE` is skipped, not stale.
+- **`--check`** also fails on an output file the build would not write (the
+  pilot's old flat files), and a write removes such files. Shards are written
+  before the manifest, each by temp file and rename.
+- **The validator's def-head check** now asks that every word of the gloss be
+  a word of Strong's definition (his parentheses come out, so a head like
+  *lead under*, from "to lead (oneself) under", is not one substring).
+
+**Seen in the full run, not fixed here** (the rule is unchanged, so the
+pilot's dictionary layer is unchanged): a handful of `def-head` glosses read
+oddly once the parentheses come out (`length length` for G3372, `boast in a
+good` for G2745, `lower demolish` for G2507), and 7,214 pronouns, mostly
+masculine αὐτός, get no gloss because Strong's entry has no standalone
+*him*/*his*. Both are gloss-rule work, and the rule's counts are frozen in
+the tests, so a change shows up as a measured diff.

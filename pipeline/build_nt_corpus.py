@@ -4,7 +4,10 @@
 # fable_review: pending
 """
 build_nt_corpus.py -- the Greek New Testament in the four-file corpus format,
-one row per VERSE, every record keyed by uid. Pilot: John 1:1-18.
+one row per VERSE, every record keyed by uid. The whole NT since 2026-10-02,
+one folder per book (data/nt/<Book>/); the John 1:1-18 pilot is a labelled
+pericope inside it. Two rulings are house defaults until Adam makes them:
+VERSIFICATION_MAP (the Romans doxology) and SHARD (README s.16).
 
     python3 pipeline/build_nt_corpus.py --fetch     # pinned inputs -> data/corpus/ (sha256-checked)
     python3 pipeline/build_nt_corpus.py             # build, write data/nt/
@@ -14,7 +17,8 @@ one row per VERSE, every record keyed by uid. Pilot: John 1:1-18.
     python3 pipeline/build_nt_corpus.py --survey    # the WHOLE NT, measured, never
                                                     #   written: what a full run would hit
 
-    Output: data/nt/{passages,witnesses,tokens,alignments}.jsonl + manifest.json
+    Output: data/nt/<Book>/{passages,witnesses,tokens,alignments}.jsonl + one
+    data/nt/manifest.json. Read it with load_nt(), which follows the manifest.
     Schema: pipeline/README-nt-jsonl.md (the hymn schema, with the differences
     written down).  Validator: tests/nt_corpus_test.py.
 
@@ -114,15 +118,19 @@ PINS = {
     ("byz", "LICENSE.txt"): "04e731724d985529bf93ebbe46d8b91fbf3cd9171504e64c73eeb2bafdeb711e",
     ("byz", "README.md"): "e392e0b871e515bdc347933e12484e7a3b4a7002db760b0fc91ecefe6278a9b1",
     ("byz", "source/README.md"): "8f9fe05bcb9eb172ecdf4a14275ef17a1c2bcbe5c947e339fb07e7a5f21b47cb",
-    ("byz", "source/CCAT/04_JOH.TXT"): "d3d4d6179c1a1dd2fa4ec37538794d505321d081da2dd10171d14045bc53da45",
-    ("byz", "source/Strongs/04_JOH.BP5"): "876b94397e61d1ae1d9531d31e9f9ec83462a699aae1a44a7b9b1f19ffa8e687",
-    ("byz", "csv-unicode/ccat/no-variants/JOH.csv"): "06251d70a77f4d17e8dbde054e82ee947ef7834378348e5bcfa938803b42447b",
-    ("byz", "csv-unicode/strongs/with-parsing/JOH.csv"): "c1c004f56e931630ac98cb973dea8b2da4d5220d707cd66fe980cb8c11e1fa9c",
     ("strongs", STRONGS_XML): "df928f01b37632f8af9f16289ce58d10b958014cb5dbd1e1ea715a8d311a0625",
 }
+# The 108 book files (27 books x 4), measured 2026-10-02 at BYZ_COMMIT. Kept in
+# their own file so the list stays readable; same rule: a mismatch stops.
+BOOK_PINS = os.path.join(HERE, "nt_pins.json")
+with open(BOOK_PINS, encoding="utf-8") as _f:
+    _bp = json.load(_f)
+if _bp["commit"] != BYZ_COMMIT:
+    raise SystemExit(f"nt_pins.json is for {_bp['commit']}, not BYZ_COMMIT {BYZ_COMMIT}")
+PINS.update({("byz", rel): sha for rel, sha in _bp["files"].items()})
 
-# byztxt file stem -> (source number, OSIS book). The whole NT is listed so
-# --survey can measure it; the pilot builds only SELECTION.
+# byztxt file stem -> (source number, OSIS book), in canonical order: the
+# order the build reads them, the shards are listed in, and load_nt() returns.
 BOOKS = [("MAT", "01", "Matt"), ("MAR", "02", "Mark"), ("LUK", "03", "Luke"),
          ("JOH", "04", "John"), ("ACT", "05", "Acts"), ("ROM", "06", "Rom"),
          ("1CO", "07", "1Cor"), ("2CO", "08", "2Cor"), ("GAL", "09", "Gal"),
@@ -133,10 +141,58 @@ BOOKS = [("MAT", "01", "Matt"), ("MAR", "02", "Mark"), ("LUK", "03", "Luke"),
          ("2PE", "22", "2Pet"), ("1JO", "23", "1John"), ("2JO", "24", "2John"),
          ("3JO", "25", "3John"), ("JUD", "26", "Jude"), ("REV", "27", "Rev")]
 BOOK = {stem: (num, osis) for stem, num, osis in BOOKS}
+BOOK_OSIS = {osis for _, _, osis in BOOKS}
 
-# The pilot. One pericope; a label, not an identity (nothing is minted for it).
-SELECTION = {"stem": "JOH", "chapter": 1, "first": 1, "last": 18,
-             "pericope": "John.1.1-18", "title": "The Prologue of John"}
+# What the build covers: every book (2026-10-02; the pilot was John 1:1-18).
+# Narrow it to a list of stems to build less; nothing else needs to change.
+SCOPE = [stem for stem, _, _ in BOOKS]
+
+# The pilot pericope. A label, not an identity (nothing is minted for it): the
+# verses in it carry `pericope`, and the reader and the John 1 review sheet
+# read just these (load_nt(pericope=...)). Every other verse's pericope is null.
+PILOT = {"stem": "JOH", "osis_book": "John", "chapter": 1, "first": 1, "last": 18,
+         "pericope": "John.1.1-18", "title": "The Prologue of John"}
+
+# ---------------------------------------------------------------------------
+# The two rulings a full run needed, both still Adam's to make (2026-10-02).
+# Each is a house DEFAULT, written so that changing it is one edit here and a
+# rebuild; nothing downstream hard-codes either answer.
+# ---------------------------------------------------------------------------
+
+# Ruling 1, the Romans doxology. RP prints it as Rom 14:24-26; the KJV as Rom
+# 16:25-27. Default (README s.10's recommendation): it is ONE passage whose
+# position differs, so the Greek verses are witnesses of the KJV verses' uids,
+# and each such witness records where RP places it (`rp_ref`). Rows stay in
+# RP's reading order, so in the Rom shard they follow 14:23.
+#   To rule the other way, set the values to None: those RP verses are then
+#   left out (counted in the manifest, never given a fresh uid), and KJV Rom
+#   16:25-27 simply have no grc.byz witness, like Acts 8:37.
+VERSIFICATION_MAP = {"Rom.14.24": "Rom.16.25", "Rom.14.25": "Rom.16.26", "Rom.14.26": "Rom.16.27"}
+VERSIFICATION_RULING = {
+    "status": "house default, awaiting Adam's ruling",
+    "default": ("the doxology is one passage: RP Rom 14:24-26 are witnesses of the KJV uids of "
+                "Rom 16:25-27, each witness recording RP's own reference as rp_ref"),
+    "alternative": ("set VERSIFICATION_MAP's values to None in build_nt_corpus.py and rebuild: the "
+                    "three RP verses are left out and counted; nothing is minted either way"),
+    "doc": "pipeline/README-nt-jsonl.md s.10, s.16",
+}
+
+# Ruling 2, file sharding. 140,149 tokens at ~540 bytes is ~76 MB, over
+# GitHub's 50 MB warning as one file. Default: one folder per book,
+# data/nt/<OSIS book>/{passages,witnesses,tokens,alignments}.jsonl, with one
+# manifest.json over all of them (its `shards` block lists the folders in
+# canonical order; load_nt() reads through it, so no consumer names a path).
+#   SHARD = None writes the four flat files instead (the pilot's layout).
+SHARD = "book"
+SHARD_RULING = {
+    "status": "house default, awaiting Adam's ruling",
+    "default": ("one folder per book (data/nt/<OSIS book>/), the four files in each; one manifest "
+                "over all of them; token records unchanged (provenance stays on every token)"),
+    "alternatives": ["SHARD = None: four flat files (tokens.jsonl would be ~76 MB)",
+                     "move the constant provenance to the manifest (README s.10; a schema change)",
+                     "gitignore the tokens and rebuild them from the pins, as data/books/ is"],
+    "doc": "pipeline/README-nt-jsonl.md s.10, s.16",
+}
 
 SOURCES = {
     "rp2018-byztxt": {
@@ -716,14 +772,54 @@ def pair_verse(ref, accented, parsed, beta_ccat, beta_bp5):
 # Build
 # ---------------------------------------------------------------------------
 
+def _book_inputs(stem):
+    num, _ = BOOK[stem]
+    return (read_csv(_path("byz", f"csv-unicode/ccat/no-variants/{stem}.csv")),
+            read_csv(_path("byz", f"csv-unicode/strongs/with-parsing/{stem}.csv")),
+            read_beta(_path("byz", f"source/CCAT/{num}_{stem}.TXT"), ":"),
+            read_beta(_path("byz", f"source/Strongs/{num}_{stem}.BP5"), "."))
+
+
+def in_pilot(osis, ch, vs):
+    return osis == PILOT["osis_book"] and ch == PILOT["chapter"] and PILOT["first"] <= vs <= PILOT["last"]
+
+
+def summarize(passages, witnesses, tokens, alignments):
+    """(counts, gloss counts) for any set of records: the whole NT for the
+    manifest, or one pericope for load_nt()'s view of it. Read off the
+    records themselves, so the two can never disagree."""
+    plains = [w for w in witnesses if w["name"] == PLAIN]
+    counts = {"passages": len(passages), "verses": len(passages),
+              "witnesses": len(witnesses), "plain_witnesses": len(plains),
+              "tokens": len(tokens),
+              "alignments": len(alignments),
+              "tokens_with_lemma": sum(1 for t in tokens if t["lemma"]),
+              "tokens_with_parsing": sum(1 for t in tokens if t["parsing"]),
+              "tokens_with_gloss": sum(1 for t in tokens if t["gloss"]),
+              "tokens_without_gloss": sum(1 for t in tokens if not t["gloss"]),
+              "tokens_flagged_for_review": sum(1 for t in tokens if t["review"]),
+              "distinct_lemmas": len({t["lemma_key"] for t in tokens}),
+              "finite_verbs": sum(1 for t in tokens if is_finite(t["parsing"]))}
+    why_none = {}
+    for t in tokens:
+        if t["gloss"] is None:
+            w = t["provenance"]["gloss"]["why"]
+            why_none[w] = why_none.get(w, 0) + 1
+    gloss = {
+        "by_rule": {r: sum(1 for t in tokens if t["provenance"]["gloss"]["rule"] == r)
+                    for r in G.RULE_ORDER},
+        "by_override": {k: sum(1 for t in tokens if t["provenance"]["gloss"]["source"] == k)
+                        for k in G.OVERRIDE_LAYERS},
+        "none": sum(why_none.values()),
+        "none_by_reason": dict(sorted(why_none.items())),
+        "applied": sum(1 for t in tokens if t["provenance"]["gloss"]["kind"] == "contextual"),
+        "draft": sum(1 for t in tokens if t["provenance"]["gloss"].get("draft")),
+    }
+    return counts, gloss
+
+
 def build(reg):
     verify_pins()
-    stem = SELECTION["stem"]
-    num, osis = BOOK[stem]
-    ccat = read_csv(_path("byz", f"csv-unicode/ccat/no-variants/{stem}.csv"))
-    bp5 = read_csv(_path("byz", f"csv-unicode/strongs/with-parsing/{stem}.csv"))
-    b_ccat = read_beta(_path("byz", f"source/CCAT/{num}_{stem}.TXT"), ":")
-    b_bp5 = read_beta(_path("byz", f"source/Strongs/{num}_{stem}.BP5"), ".")
     heads = load_strongs()
     entries = G.load_entries(open(_path("strongs", STRONGS_XML), encoding="utf-8").read())
     try:
@@ -738,126 +834,161 @@ def build(reg):
 
     passages, witnesses, tokens, alignments = [], [], [], []
     apparatus = {}
-    ch = SELECTION["chapter"]
-    for vs in range(SELECTION["first"], SELECTION["last"] + 1):
-        ref = f"{osis}.{ch}.{vs}"
-        citation = f"kjv:{ref}"
-        if (ch, vs) not in ccat or (ch, vs) not in bp5:
-            _stop(f"{ref} missing from the RP files")
-        try:
-            uid = reg.uid_for(citation)
-        except U.WhUidError:
-            _stop(f"{citation} has no uid: a versification question, not new content. "
-                  f"Nothing is minted for a Greek verse.")
-        try:
-            surfaces, words = pair_verse(ref, ccat[(ch, vs)], bp5[(ch, vs)],
-                                         b_ccat.get((ch, vs)), b_bp5.get((ch, vs)))
-        except ValueError as e:
-            _stop(str(e))
-        for m in _APPARATUS.finditer(b_ccat.get((ch, vs), "")):
-            apparatus[m.group(1)] = apparatus.get(m.group(1), 0) + 1
+    shards = {}
+    placed, left_out = [], []
+    gloss_memo = {}
+    for stem in SCOPE:
+        _, osis = BOOK[stem]
+        ccat, bp5, b_ccat, b_bp5 = _book_inputs(stem)
+        shard = {"verses": 0, "tokens": 0}
+        for ch, vs in sorted(set(ccat) | set(bp5)):
+            rp_ref = f"{osis}.{ch}.{vs}"
+            if (ch, vs) not in ccat or (ch, vs) not in bp5:
+                _stop(f"{rp_ref} is in one RP csv only")
+            ref = VERSIFICATION_MAP.get(rp_ref, rp_ref)
+            if ref is None:              # ruled out: counted, never minted
+                left_out.append(rp_ref)
+                continue
+            kch, kvs = (int(x) for x in ref.rsplit(".", 2)[1:])
+            citation = f"kjv:{ref}"
+            try:
+                uid = reg.uid_for(citation)
+            except U.WhUidError:
+                _stop(f"{citation} has no uid: a versification question, not new content. "
+                      f"Nothing is minted for a Greek verse (see VERSIFICATION_MAP).")
+            try:
+                surfaces, words = pair_verse(rp_ref, ccat[(ch, vs)], bp5[(ch, vs)],
+                                             b_ccat.get((ch, vs)), b_bp5.get((ch, vs)))
+            except ValueError as e:
+                _stop(str(e))
+            for m in _APPARATUS.finditer(b_ccat.get((ch, vs), "")):
+                apparatus[m.group(1)] = apparatus.get(m.group(1), 0) + 1
 
-        passages.append({
-            "uid": uid, "citation": citation, "kind": "passage", "unit": "verse",
-            "book": osis, "osis": ref, "chapter": ch, "verse": vs,
-            "versification": "kjv", "pericope": SELECTION["pericope"],
-            "reading_of_record": FACING,
-            "status": "machine-built from public-domain sources, unchecked",
-        })
-        text = ccat[(ch, vs)]
-        witnesses.append({
-            "address": U.address(uid, WITNESS), "passage_uid": uid, "name": WITNESS,
-            "lang": "grc", "role": "original", "register": "koine",
-            "textform": "byzantine", "text": text, "paragraph_starts": paragraph_starts(text),
-            "generated": False,
-            "source": "rp2018-byztxt", "attested": "Y", "reading_of_record": False,
-        })
-        first_tok = len(tokens)
-        for pos, (surface, (_, pairs)) in enumerate(zip(surfaces, words), 1):
-            strongs, code = pairs[0]
-            head = heads.get(strongs)
-            review = []
-            prov_parse = {"source": "rp2018-byztxt", "scheme": "robinson-2009",
-                          "status": "single"}
-            if len(pairs) > 1:
-                prov_parse["status"] = "alternatives"
-                prov_parse["alternatives"] = [c for _, c in pairs[1:]]
-                review.append("Robinson gives more than one parsing; the first is shown, "
-                              "none is chosen")
-            if len({s for s, _ in pairs}) > 1:
-                review.append("Robinson gives more than one Strong's number")
-            if head is None:
-                review.append(f"Strong's has no entry G{strongs}")
-            norm = normalized(surface)
-            address = U.address(uid, f"{WITNESS}.t{pos:02d}")
-            gloss, prov_gloss = G.gloss_for(code, entries.get(strongs))
-            plain_form = None
-            if address in overrides:
-                try:
-                    gloss, plain_form, prov_gloss = G.apply_override(
-                        gloss, plain_form, prov_gloss, surface, overrides[address])
-                except ValueError as e:
-                    _stop(f"gloss overrides: {e}")
-                used_ov.add(address)
-            tokens.append({
-                "address": address,
-                "passage_uid": uid, "witness": WITNESS, "position": pos,
-                "surface": surface, "normalized": norm, "search_key": search_key(norm),
-                "translit": translit(norm),
-                "lemma": head, "lemma_key": f"G{strongs}", "parsing": code,
-                "gloss": gloss, "plain_form": plain_form, "syntax": None,
-                "provenance": {
-                    "lemma": {"source": "strongs-1890", "by": "rp2018-byztxt Strong's number",
-                              "status": "headword" if head else "none"},
-                    "parsing": prov_parse,
-                    "gloss": prov_gloss,
-                },
-                "review": review or None,
+            passages.append({
+                "uid": uid, "citation": citation, "kind": "passage", "unit": "verse",
+                "book": osis, "osis": ref, "chapter": kch, "verse": kvs,
+                "versification": "kjv",
+                "pericope": PILOT["pericope"] if in_pilot(osis, kch, kvs) else None,
+                "reading_of_record": FACING,
+                "status": "machine-built from public-domain sources, unchecked",
             })
-        po = orders.get(uid)
-        if po:
-            if po["citation"] != citation:
-                _stop(f"prose orders: {uid} is {citation}, the row says {po['citation']}")
-            vtoks = tokens[first_tok:]
-            prob = permutation_problems(len(vtoks), po["prose_order"], po["absorbed"])
-            if prob:
-                _stop(f"prose orders: {citation} is not a permutation of its tokens: {prob}")
-            gaps = [t["position"] for t in vtoks
-                    if t["position"] in po["prose_order"] and not (t["plain_form"] or t["gloss"])]
-            if gaps:
-                _stop(f"prose orders: {citation} walks tokens with no gloss: {gaps}")
-            w = {"address": U.address(uid, PLAIN), "passage_uid": uid, "name": PLAIN,
-                 "lang": "en", "role": "plain", "text": None, "generated": True,
-                 "generated_from": f"{WITNESS} tokens walked in prose_order",
-                 "prose_order": po["prose_order"], "absorbed": po["absorbed"],
-                 "plain_override": None, "source": po["source"], "attested": "N",
-                 "reading_of_record": False}
-            if po.get("draft"):
-                w.update(draft=True, drafted_on=po["drafted_on"])
-            else:
-                w["reviewed_on"] = po["reviewed_on"]
-            if po.get("note"):
-                w["note"] = po["note"]
-            witnesses.append(w)
-            used_po.add(uid)
-        alignments.append({
-            "alignment_id": f"{U.address(uid, WITNESS)}~{FACING}",
-            "level": "section", "type": "1:1",
-            "a": [{"address": U.address(uid, WITNESS), "tokens": None}],
-            "b": [{"address": U.address(uid, FACING), "tokens": None}],
-            "confidence": "high",
-            "note": ("verse to verse under one uid; the KJV translates the Textus Receptus, "
-                     "so this aligns verses, not readings"),
-        })
+            text = ccat[(ch, vs)]
+            gw = {
+                "address": U.address(uid, WITNESS), "passage_uid": uid, "name": WITNESS,
+                "lang": "grc", "role": "original", "register": "koine",
+                "textform": "byzantine", "text": text, "paragraph_starts": paragraph_starts(text),
+                "generated": False,
+                "source": "rp2018-byztxt", "attested": "Y", "reading_of_record": False,
+            }
+            if ref != rp_ref:
+                gw["rp_ref"] = rp_ref
+                placed.append({"rp": rp_ref, "kjv": ref, "uid": uid})
+            witnesses.append(gw)
+            first_tok = len(tokens)
+            for pos, (surface, (_, pairs)) in enumerate(zip(surfaces, words), 1):
+                strongs, code = pairs[0]
+                head = heads.get(strongs)
+                review = []
+                prov_parse = {"source": "rp2018-byztxt", "scheme": "robinson-2009",
+                              "status": "single"}
+                if len(pairs) > 1:
+                    prov_parse["status"] = "alternatives"
+                    prov_parse["alternatives"] = [c for _, c in pairs[1:]]
+                    review.append("Robinson gives more than one parsing; the first is shown, "
+                                  "none is chosen")
+                if len({s for s, _ in pairs}) > 1:
+                    review.append("Robinson gives more than one Strong's number")
+                if head is None:
+                    review.append(f"Strong's has no entry G{strongs}")
+                norm = normalized(surface)
+                address = U.address(uid, f"{WITNESS}.t{pos:02d}")
+                if (code, strongs) not in gloss_memo:     # a pure function: same inputs, same gloss
+                    gloss_memo[(code, strongs)] = G.gloss_for(code, entries.get(strongs))
+                gloss, prov_gloss = gloss_memo[(code, strongs)]
+                prov_gloss = dict(prov_gloss)
+                plain_form = None
+                if address in overrides:
+                    try:
+                        gloss, plain_form, prov_gloss = G.apply_override(
+                            gloss, plain_form, prov_gloss, surface, overrides[address])
+                    except ValueError as e:
+                        _stop(f"gloss overrides: {e}")
+                    used_ov.add(address)
+                tokens.append({
+                    "address": address,
+                    "passage_uid": uid, "witness": WITNESS, "position": pos,
+                    "surface": surface, "normalized": norm, "search_key": search_key(norm),
+                    "translit": translit(norm),
+                    "lemma": head, "lemma_key": f"G{strongs}", "parsing": code,
+                    "gloss": gloss, "plain_form": plain_form, "syntax": None,
+                    "provenance": {
+                        "lemma": {"source": "strongs-1890", "by": "rp2018-byztxt Strong's number",
+                                  "status": "headword" if head else "none"},
+                        "parsing": prov_parse,
+                        "gloss": prov_gloss,
+                    },
+                    "review": review or None,
+                })
+            po = orders.get(uid)
+            if po:
+                if po["citation"] != citation:
+                    _stop(f"prose orders: {uid} is {citation}, the row says {po['citation']}")
+                vtoks = tokens[first_tok:]
+                prob = permutation_problems(len(vtoks), po["prose_order"], po["absorbed"])
+                if prob:
+                    _stop(f"prose orders: {citation} is not a permutation of its tokens: {prob}")
+                gaps = [t["position"] for t in vtoks
+                        if t["position"] in po["prose_order"] and not (t["plain_form"] or t["gloss"])]
+                if gaps:
+                    _stop(f"prose orders: {citation} walks tokens with no gloss: {gaps}")
+                w = {"address": U.address(uid, PLAIN), "passage_uid": uid, "name": PLAIN,
+                     "lang": "en", "role": "plain", "text": None, "generated": True,
+                     "generated_from": f"{WITNESS} tokens walked in prose_order",
+                     "prose_order": po["prose_order"], "absorbed": po["absorbed"],
+                     "plain_override": None, "source": po["source"], "attested": "N",
+                     "reading_of_record": False}
+                if po.get("draft"):
+                    w.update(draft=True, drafted_on=po["drafted_on"])
+                else:
+                    w["reviewed_on"] = po["reviewed_on"]
+                if po.get("note"):
+                    w["note"] = po["note"]
+                witnesses.append(w)
+                used_po.add(uid)
+            alignments.append({
+                "alignment_id": f"{U.address(uid, WITNESS)}~{FACING}",
+                "level": "section", "type": "1:1",
+                "a": [{"address": U.address(uid, WITNESS), "tokens": None}],
+                "b": [{"address": U.address(uid, FACING), "tokens": None}],
+                "confidence": "high",
+                "note": ("verse to verse under one uid; the KJV translates the Textus Receptus, "
+                         "so this aligns verses, not readings"),
+            })
+            shard["verses"] += 1
+            shard["tokens"] += len(tokens) - first_tok
+        shards[osis] = dict(shard, dir=osis if SHARD == "book" else "")
 
-    stale = sorted(set(overrides) - used_ov)
+    # A row for a book outside a narrowed SCOPE is not stale, only not built
+    # this time. Anything else unused is: a token or verse that does not exist.
+    books = {BOOK[s][1] for s in SCOPE}
+    cit_of = {u: c for c, u in reg.map.items()}
+
+    def elsewhere(uid):
+        c = cit_of.get(uid, "")
+        return c.startswith("kjv:") and c[4:].rsplit(".", 2)[0] in BOOK_OSIS - books
+    stale = sorted(a for a in set(overrides) - used_ov if not elsewhere(a.split("/", 1)[0]))
     if stale:
         _stop(f"gloss overrides name tokens that do not exist: {stale[:5]}")
-    stale = sorted(set(orders) - used_po)
+    stale = sorted(u for u in set(orders) - used_po if not elsewhere(u))
     if stale:
         _stop(f"prose orders name verses outside the selection: {stale[:5]}")
+    built = {p["citation"] for p in passages}
+    no_grc = sorted(c for c in reg.map if c.startswith("kjv:")
+                    and c[4:].rsplit(".", 2)[0] in books and c not in built)
     sources = dict(SOURCES)
-    inputs = {rel: want for (repo, rel), want in sorted(PINS.items())}
+    inputs = {rel: want for (repo, rel), want in sorted(PINS.items())
+              if repo == "strongs" or not rel.startswith(("source/", "csv-unicode/"))
+              or any(f"/{s}.csv" in rel or f"_{s}." in rel for s in SCOPE)}
     for layer in sorted({overrides[a]["layer"] for a in used_ov}):
         sources[layer] = dict(OVERRIDE_SOURCES[layer])
         if any(overrides[a].get("draft") for a in used_ov if overrides[a]["layer"] == layer):
@@ -870,34 +1001,28 @@ def build(reg):
     if used_po:
         inputs["prose-order.jsonl"] = sha256(PROSE_ORDERS)
     plains = [w for w in witnesses if w["name"] == PLAIN]
-    n_draft_ov = sum(1 for a in used_ov if overrides[a].get("draft"))
-    finite = sum(1 for t in tokens if is_finite(t["parsing"]))
-    by_rule = {r: sum(1 for t in tokens if t["provenance"]["gloss"]["rule"] == r)
-               for r in G.RULE_ORDER}
-    by_layer = {k: sum(1 for t in tokens if t["provenance"]["gloss"]["source"] == k)
-                for k in G.OVERRIDE_LAYERS}
-    why_none = {}
-    for t in tokens:
-        if t["gloss"] is None:
-            w = t["provenance"]["gloss"]["why"]
-            why_none[w] = why_none.get(w, 0) + 1
+    counts, gc = summarize(passages, witnesses, tokens, alignments)
     manifest = {
         "schema": SCHEMA,
         "doc": "pipeline/README-nt-jsonl.md",
         "built_on": BUILT_ON,
         "row_unit": "verse",
-        "selection": dict(SELECTION, osis_book=osis),
-        "counts": {"passages": len(passages), "verses": len(passages),
-                   "witnesses": len(witnesses), "plain_witnesses": len(plains),
-                   "tokens": len(tokens),
-                   "alignments": len(alignments),
-                   "tokens_with_lemma": sum(1 for t in tokens if t["lemma"]),
-                   "tokens_with_parsing": sum(1 for t in tokens if t["parsing"]),
-                   "tokens_with_gloss": sum(1 for t in tokens if t["gloss"]),
-                   "tokens_without_gloss": sum(1 for t in tokens if not t["gloss"]),
-                   "tokens_flagged_for_review": sum(1 for t in tokens if t["review"]),
-                   "distinct_lemmas": len({t["lemma_key"] for t in tokens}),
-                   "finite_verbs": finite},
+        "selection": {"title": "The Greek New Testament (Robinson-Pierpont 2018)",
+                      "books": [BOOK[s][1] for s in SCOPE], "pilot": PILOT},
+        "counts": counts,
+        "shards": {"layout": SHARD or "flat", "order": [BOOK[s][1] for s in SCOPE],
+                   "books": shards, "ruling": SHARD_RULING},
+        "versification": {
+            "of_record": "kjv",
+            "map": VERSIFICATION_MAP,
+            "ruling": VERSIFICATION_RULING,
+            "placed_elsewhere": placed,
+            "left_out": left_out,
+            "kjv_verses_without_grc": no_grc,
+            "note": ("kjv_verses_without_grc are KJV verses the Byzantine text does not carry "
+                     "(Textus Receptus readings), plus any the map leaves out. They keep their "
+                     "uids and simply have no grc.byz witness; nothing is guessed."),
+        },
         "identity": {
             "rule": ("a Greek verse is a witness of the verse passage that already exists; "
                      "registry opened frozen; nothing minted"),
@@ -922,14 +1047,14 @@ def build(reg):
             "source": "strongs-1890",
             "doc": "pipeline/README-nt-jsonl.md s.12; pipeline/strongs_gloss.py",
             "rules": [{"id": r, "does": G.RULES[r]} for r in G.RULE_ORDER],
-            "by_rule": by_rule,
-            "by_override": by_layer,
-            "none": sum(why_none.values()),
-            "none_by_reason": dict(sorted(why_none.items())),
+            "by_rule": gc["by_rule"],
+            "by_override": gc["by_override"],
+            "none": gc["none"],
+            "none_by_reason": gc["none_by_reason"],
             "overrides": {"file": "data/nt/gloss-overrides.jsonl",
                           "layers": list(G.OVERRIDE_LAYERS),
-                          "applied": len(used_ov),
-                          "draft": n_draft_ov,
+                          "applied": gc["applied"],
+                          "draft": gc["draft"],
                           "rule": ("a row replaces the dictionary gloss of one token address; "
                                    "the dictionary value and its rule are kept under "
                                    "provenance.gloss.was. A draft row (draft: true, layer house) "
@@ -948,10 +1073,10 @@ def build(reg):
             "sources": sorted({w["source"] for w in plains}),
         },
         "drafts": {
-            "status": ("awaiting Adam's review" if n_draft_ov or any(w.get("draft") for w in plains)
+            "status": ("awaiting Adam's review" if gc["draft"] or any(w.get("draft") for w in plains)
                        else "none open: every row reviewed"),
             "review_doc": REVIEW_DOC,
-            "gloss_override_rows": n_draft_ov,
+            "gloss_override_rows": gc["draft"],
             "prose_orders": sum(1 for w in plains if w.get("draft")),
             "how_to_accept": ("drop draft/drafted_on and date the row reviewed_on (a gloss row "
                               "that is now Adam's becomes layer adam-reviewed); rebuild"),
@@ -981,11 +1106,93 @@ def serialize(records):
     return "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in records).encode("utf-8")
 
 
+def shard_path(book, name):
+    """The output path of one file of one book, relative to data/nt/."""
+    return f"{book}/{name}" if SHARD == "book" else name
+
+
+def _book_of(data):
+    """{passage uid: OSIS book}, which places every record in its shard."""
+    return {p["uid"]: p["book"] for p in data["passages"]}
+
+
+def _record_uid(kind, r):
+    if kind == "passages":
+        return r["uid"]
+    if kind == "alignments":
+        return U.parse_address(r["a"][0]["address"])["uid"]
+    return r["passage_uid"]
+
+
 def render_all(data, manifest):
-    blobs = {f"{k}.jsonl": serialize(v) for k, v in data.items()}
+    book_of = _book_of(data)
+    order = manifest["shards"]["order"]
+    blobs = {}
+    if SHARD == "book":
+        for k, recs in data.items():
+            per = {b: [] for b in order}
+            for r in recs:
+                per[book_of[_record_uid(k, r)]].append(r)
+            for b in order:
+                blobs[shard_path(b, f"{k}.jsonl")] = serialize(per[b])
+    else:
+        blobs = {f"{k}.jsonl": serialize(v) for k, v in data.items()}
     manifest["files_sha256"] = {k: hashlib.sha256(v).hexdigest() for k, v in sorted(blobs.items())}
     blobs["manifest.json"] = (json.dumps(manifest, ensure_ascii=False, indent=1) + "\n").encode("utf-8")
     return blobs
+
+
+# Files in data/nt/ that are inputs, not build output: never stale, never removed.
+INPUT_FILES = ("gloss-overrides.jsonl", "prose-order.jsonl")
+
+
+def stale_outputs(out, blobs):
+    """Build-output files under `out` that this build would not write (e.g. the
+    pilot's flat files after sharding): --check fails on them, a write removes them."""
+    found = []
+    for d, _, fs in os.walk(out):
+        for f in fs:
+            if f.endswith(".jsonl") or f == "manifest.json":
+                rel = os.path.relpath(os.path.join(d, f), out).replace(os.sep, "/")
+                if rel not in blobs and rel not in INPUT_FILES:
+                    found.append(rel)
+    return sorted(found)
+
+
+def load_nt(root=ROOT, pericope=None, books=None):
+    """The committed NT as {passages, witnesses, tokens, alignments, manifest},
+    whatever the shard layout: it reads the files the manifest lists, in its
+    canonical order. `books` (OSIS) reads only those shards; `pericope` keeps
+    only the verses carrying that label (the pilot: PILOT["pericope"]), and then
+    the manifest returned is a VIEW whose counts, gloss counts and selection
+    describe just those verses (the files' checksums stay the whole NT's)."""
+    d = os.path.join(root, "data", "nt")
+    with open(os.path.join(d, "manifest.json"), encoding="utf-8") as fh:
+        man = json.load(fh)
+    sh = man.get("shards") or {}
+    order = sh.get("order") or [None]
+    if books is None and pericope == PILOT["pericope"]:
+        books = [PILOT["osis_book"]]
+    out = {k: [] for k in FILES}
+    for b in order:
+        if b is not None and books is not None and b not in books:
+            continue
+        for k in FILES:
+            rel = f"{k}.jsonl" if b is None or sh.get("layout") == "flat" else f"{sh['books'][b]['dir']}/{k}.jsonl"
+            with open(os.path.join(d, rel), encoding="utf-8") as fh:
+                out[k].extend(json.loads(line) for line in fh if line.strip())
+    if pericope is not None:
+        keep = {p["uid"] for p in out["passages"] if p.get("pericope") == pericope}
+        out = {k: [r for r in out[k] if _record_uid(k, r) in keep] for k in FILES}
+        counts, gc = summarize(out["passages"], out["witnesses"], out["tokens"], out["alignments"])
+        man = dict(man, counts=counts,
+                   selection=dict(PILOT) if pericope == PILOT["pericope"] else {"pericope": pericope},
+                   gloss=dict(man["gloss"], by_rule=gc["by_rule"], by_override=gc["by_override"],
+                              none=gc["none"], none_by_reason=gc["none_by_reason"],
+                              overrides=dict(man["gloss"]["overrides"], applied=gc["applied"],
+                                             draft=gc["draft"])))
+    out["manifest"] = man
+    return out
 
 
 def write_atomic(path, blob):
@@ -1078,15 +1285,24 @@ def main():
                  if not os.path.exists(os.path.join(a.out, fn))
                  or open(os.path.join(a.out, fn), "rb").read() != blob]
         if stale:
-            raise SystemExit(f"CHECK FAILED: rebuilt output differs from committed: {stale}")
+            raise SystemExit(f"CHECK FAILED: rebuilt output differs from committed: {stale[:8]}")
+        extra = stale_outputs(a.out, blobs)
+        if extra:
+            raise SystemExit(f"CHECK FAILED: output files this build does not write: {extra[:8]}")
         print("  CHECK PASSED: minted 0, output byte-identical.")
         return
     if a.report:
         return
     os.makedirs(a.out, exist_ok=True)
-    for fn, blob in blobs.items():
+    # Shards first, the manifest last: a killed run leaves the old manifest
+    # pointing at files that are each whole (temp file + rename).
+    for fn, blob in sorted(blobs.items(), key=lambda kv: kv[0] == "manifest.json"):
+        os.makedirs(os.path.dirname(os.path.join(a.out, fn)), exist_ok=True)
         write_atomic(os.path.join(a.out, fn), blob)
-    print(f"  wrote {a.out}")
+    for fn in stale_outputs(a.out, blobs):
+        os.remove(os.path.join(a.out, fn))
+        print(f"  removed {fn} (no longer written by this layout)")
+    print(f"  wrote {a.out}: {len(blobs)} files")
 
 
 if __name__ == "__main__":
