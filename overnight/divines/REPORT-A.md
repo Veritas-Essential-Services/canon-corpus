@@ -142,3 +142,10 @@
 ## 2026-10-02 16:39 CDT — hodge done
 - `pipeline/hodge_shelf.json`: 6 CCEL titles converted (7,133 units, 3,489 links), 8 IA items raw (about 21 MB in all). `--verify`: 0 mismatched.
 - The identity check refused the 1872 scan of the 2 Corinthians commentary: its OCR never names Hodge. The 1860 scan, which does, is held instead. 0 uids minted.
+
+## 2026-10-02 16:41 CDT — finding: OCR quality of the round 2 and 3 IA items
+- Same method as round 1, with a larger vocabulary: share of word tokens (2+ letters) found among words seen twice or more in this lane's clean CCEL and Gutenberg texts (187 files, 86,585 words). Covers the 153 IA items fetched in rounds 2 and 3. Not comparable digit-for-digit with round 1's figures (smaller vocabulary then).
+- Spread: 134 items at 97% or better, 7 at 95-97%, 8 at 90-95%, 4 below 90%. Median 98.9%. The Nichol, Goold and Grosart sets are uniformly good (98-99.5%).
+- Per author (median): baxter 98.9, boston 99.1, brooks 98.9, burroughs 96.1, calvin 98.4, charnock 99.2, goodwin 99.0, gurnall 98.8, hodge 98.3, manton 99.1, matthew-henry 97.8, mcheyne 99.1, newton 98.7, owen 98.4, rutherford 86.9, sibbes 99.5, spurgeon 98.9, watson 97.7, whitefield 94.2.
+- Lowest: owen-works-goold-17 80.4% (not bad OCR: the volume is much of it Latin, about 4,200 "est/quod/sunt/enim" against 6,500 "the/and"); rutherford-free-disputation-1649 81.8%, burroughs-four-books-matthew-1659 83.1%, rutherford-covenant-life-1655 86.9% (1640s-50s type, long s); then the Whitefield journals (92-95%, 1739-1756 type) and Treasury of David vol. 4 (91.7%).
+- Practical reading: everything from the 19th-century collected editions is fit to search; the seventeenth- and eighteenth-century printings need a better text before anyone quotes from them.

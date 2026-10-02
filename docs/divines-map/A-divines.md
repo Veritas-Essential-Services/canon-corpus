@@ -253,7 +253,7 @@ Target: the Goold edition, *The Works of John Owen* (Edinburgh: Johnstone & Hunt
 | Goold vol. 14 | have-raw | IA `worksofjohnowen14owen` |
 | Goold vol. 15 | have-raw | IA `worksofjohnowen15owen` |
 | Goold vol. 16 | have-raw | IA `worksofjohnowe185016owen` |
-| Goold vol. 17 | have-raw | IA `worksofjohnowend0017owen` |
+| Goold vol. 17 (much of it Latin) | have-raw | IA `worksofjohnowend0017owen` |
 | Goold vol. 18 (Hebrews) | have-raw | IA `worksofjohnowend0018owen` |
 | Goold vol. 19 (Hebrews) | have-raw | IA `owensworks19owenuoft` |
 | Goold vol. 20 (Hebrews) | have-raw | IA `owensworks20owenuoft` |
