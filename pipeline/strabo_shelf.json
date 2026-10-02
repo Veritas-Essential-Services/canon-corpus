@@ -1,0 +1,29 @@
+{
+ "_about": "Strabo, Geography, in the Bohn translation by H. C. Hamilton (Books I-VI) and W. Falconer (Books VII-XVII), 3 vols., clean Gutenberg.",
+ "_name_words": [
+  "strabo",
+  "geography"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "strabo-hamilton-falconer-v1": [
+   44884,
+   "The Geography of Strabo, vol. 1",
+   "tr. H. C. Hamilton and W. Falconer"
+  ],
+  "strabo-hamilton-falconer-v2": [
+   44885,
+   "The Geography of Strabo, vol. 2",
+   "tr. H. C. Hamilton and W. Falconer"
+  ],
+  "strabo-hamilton-falconer-v3": [
+   44886,
+   "The Geography of Strabo, vol. 3",
+   "tr. H. C. Hamilton and W. Falconer"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Jones, Loeb (1917-32)": "Greek facing; later vols. not PD; pending"
+ }
+}
