@@ -101,3 +101,9 @@
 
 ## 2026-10-02 16:19 CDT — nesbit: gap fill
 - Lays and Legends (1886, first series) added as raw Internet Archive OCR (laysandlegends00nesbgoog, 203 KB, 1886 imprint). 34 slugs.
+
+## 2026-10-02 16:19 CDT — session end (third run)
+- Relay 3 done, one commit per author: pyle-nesting (convert_nested.py), carroll 16, kipling 5, stevenson 45, chesterton-gaps 5 (raw OCR), aesop 2, nesbit 33 + 1 raw, potter 21 + 2 raw. 130 new slugs; 416 in the lane await minting. No uids minted; manifest untouched; structure_texts.py and fetch_sources.py untouched.
+- convert_shelf_gutenberg.py gained the sub and repeat_continues options and a separator-aware lenient Contents reader. The house _contents_key tail bug is measured and reported (DIGEST item 2), not fixed.
+- Defects: three Carroll maths works have no plain text; Stevenson Letters 38 ~n ids; Townsend Aesop 10 repeated titles; publishers' back-matter in some Nesbit files; Potter's little books cite by paragraph only.
+- Next Lane D worker: the queue is empty. Upkeep only unless Adam adds authors or answers the DIGEST's widen-or-not list (Kipling, Hawthorne, Chesterton 1929-30, Swanston, other Aesops).
