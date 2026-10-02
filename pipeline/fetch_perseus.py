@@ -52,11 +52,16 @@ def repo_for(tail):
     raise ValueError(f"no repository known for {tail}")
 
 def urls_for(tail):
+    """(repo, urls). A 1st1K id is tried in canonical-greekLit first: some
+    First1KGreek translations (Thucydides 1st1K-eng1/2) live there."""
     a, b = tail.split(".")[:2]
-    repo = repo_for(tail)
     path = f"data/{a}/{b}/{tail}.xml"
-    return repo, [f"https://raw.githubusercontent.com/{repo}/master/{path}",
-                  f"https://cdn.jsdelivr.net/gh/{repo}@master/{path}"]
+    repo = repo_for(tail)
+    repos = (["PerseusDL/canonical-greekLit", repo]
+             if repo == "OpenGreekAndLatin/First1KGreek" else [repo])
+    return repos, [u for r in repos for u in
+                   (f"https://raw.githubusercontent.com/{r}/master/{path}",
+                    f"https://cdn.jsdelivr.net/gh/{r}@master/{path}")]
 
 def get(urls, tries=3):
     err = None
@@ -82,6 +87,9 @@ def check(data, tail, translator, slug, shelf):
     # "Vince, J. H." -> Vince; "J. H. Vince" -> Vince; "W. R. M. Lamb (ed.)" -> Lamb
     who = re.sub(r"\(.*?\)", "", translator or "").split(" and ")[0].strip()
     sn = who.split(",")[0].strip() if "," in who else (who.split() or [""])[-1]
+    if who in ("", "?") or who.lower().startswith(("unnamed", "anonymous")):
+        sn = ""  # nothing to check against; flagged, not refused
+        r["translator_unchecked"] = True
     r["translator_checked"] = sn
     if sn and sn.lower() not in head.lower():
         raise RuntimeError(f"MISMATCH: translator '{sn}' not in the file's header")
@@ -120,7 +128,8 @@ def main():
     verify = "--verify" in sys.argv[2:]
     for slug, row in rows.items():
         tail, title, translator, note = (list(row) + [None] * 4)[:4]
-        repo, urls = urls_for(tail)
+        repos, urls = urls_for(tail)
+        repo = repos[0]
         dest = os.path.join(out, slug + ".xml")
         base = {"urn": f"urn:cts:{'greekLit' if tail.startswith('tlg') else 'latinLit'}:{tail}",
                 "repo": repo, "title": title, "translator": translator, "rights_note": note,
@@ -134,6 +143,8 @@ def main():
                 continue
             else:
                 data, url = get(urls)
+                repo = next(r for r in repos if r in url)
+                base["repo"], base["markup_licence_repo"] = repo, REPO_LICENCE[repo]
                 if len(data) < 2000:
                     raise RuntimeError(f"only {len(data)} bytes")
                 r = {**base, **check(data, tail, translator, slug, shelf),
