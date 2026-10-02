@@ -1298,6 +1298,7 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | The Lives of the Twelve Caesars, complete | Alexander Thomson, rev. T. Forester | `suetonius-thomson-forester` | have (PG 6400) |
 | Suetonius, vol. 1 (Loeb, 1913) | J. C. Rolfe | `suetonius-rolfe-v1` | have-raw (IA `suetonius01suet`) |
 | Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
+| The Deified Julius | John C. Rolfe | `suetonius-perseus-rolfe-the-deified-julius` | have (Perseus TEI `phi1348.abo011.rolfe-eng1`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Philemon Holland (1606).
 
