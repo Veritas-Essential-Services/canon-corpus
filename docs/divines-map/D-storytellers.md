@@ -873,6 +873,16 @@ Shelf: `pipeline/poetic-edda_shelf.json` (2026-10-02; added at the coordinator's
 | edda-retellings | excluded | Faraday's The Edda (PG 13007-13008), Guerber's Myths of the Norsemen (28497), Wilmot-Buxton (29551): studies and retellings |
 | edda-prose | excluded | Snorri's Prose (Younger) Edda is on the Sturluson shelf |
 
+## The Kalevala (Crawford)
+
+Shelf: `pipeline/kalevala_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). John Martin Crawford's 1888 translation, the complete Gutenberg file, cut by its fifty runes. The two-volume Gutenberg split of the same text and Kirby's later translation are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kalevala: The Epic Poem of Finland, tr. John Martin Crawford (1888) | have | PG 5186, `kalevala-crawford` (1534 units) |
+| kalevala-duplicates | excluded | Crawford's Kalevala volumes 1 and 2 (PG 5184, 5185): the same text as the complete file |
+| kalevala-kirby | excluded | W. F. Kirby's Kalevala, The Land of the Heroes (PG 25953, 33089, 1907): another translation, not named by the relay; a candidate for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

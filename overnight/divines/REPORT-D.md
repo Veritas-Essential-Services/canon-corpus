@@ -168,3 +168,6 @@
 
 ## 2026-10-02 17:09 CDT — poetic-edda: done
 - 1/1 fetched (Gutenberg 73533), 4,703 units, nested Poem > note/text/notes; 14 ~2 ids in Brot af Sigurtharkvithu (its NOTES heading is run into prose in the source).
+
+## 2026-10-02 17:09 CDT — kalevala: done
+- 1/1 fetched (Gutenberg 5186), 1,534 units, 0 ~2 ids; cut by rune; translator Crawford captured from the header.

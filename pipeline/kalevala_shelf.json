@@ -1,0 +1,19 @@
+{
+ "_about": "The Kalevala, the Finnish epic compiled by Elias Lönnrot, in John Martin Crawford's translation (1888), as the relay asked: the complete Gutenberg text, translator in the title. US public domain.",
+ "_author": "Kalevala (compiled by Elias Lönnrot)",
+ "_name_words": [
+  "kalevala"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kalevala-crawford": [
+   5186,
+   "Kalevala: The Epic Poem of Finland, tr. John Martin Crawford (1888)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "kalevala-duplicates": "Crawford's Kalevala volumes 1 and 2 (PG 5184, 5185): the same text as the complete file",
+  "kalevala-kirby": "W. F. Kirby's Kalevala, The Land of the Heroes (PG 25953, 33089, 1907): another translation, not named by the relay; a candidate for a later batch"
+ }
+}
