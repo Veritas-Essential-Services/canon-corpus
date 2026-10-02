@@ -520,5 +520,39 @@ check("shelf: a book with no Contents falls back to the CAPS rule",
 check("thml: <pre> verse is read only where a book opts in",
       "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
 
+# Brenton's English Septuagint (eBible USFM in a zip). Fixture is invented
+# text in eBible's markup; the kjv fields come from the committed map.
+import zipfile as _zf
+_bz = os.path.join(_tf.mkdtemp(), "eng-Brenton_usfm.zip")
+with _zf.ZipFile(_bz, "w") as _z:
+    _z.writestr("19-PSAeng-Brenton.usfm",
+                "\\id PSA - Brenton\n\\h Psalms \n\\c 50  \n\\d\n\\v 1 For the end, a Psalm,  \n"
+                "\\v 2 when Nathan came.   \n\\p\n\\v 3 \\sc Have\\sc* mercy \\f + \\fr 50:3 "
+                "\\fqa Gr. \\ft pity.\\f*upon me.  \n")
+    _z.writestr("18-NEHeng-Brenton.usfm", "\\id NEH\n\\h Nehemiah\n\\c 1\n\\v 1 skipped\n")
+    _z.writestr("27-LAMeng-Brenton.usfm",
+                "\\id LAM\n\\h Lamentations \n\\c 1  \n\\p [And it came to pass, and said]  \n"
+                "\\p\n\\v 1 \\sc Aleph.\\sc* How does the city sit solitary!   \n")
+    _z.writestr("12-1KIeng-Brenton.usfm",
+                "\\id 1KI\n\\h 3 Kingdoms\n\\c 12\n\\v 24a And king Solomon slept.\n")
+_bb = st.convert_brenton(_bz, "pin")
+_bu = {u["id"]: u for u in _bb["units"]}
+check("brenton: ids are Brenton's own numbering (Ps 50 stays 50, a lettered verse keeps its "
+      "letter, the text before Lam 1:1 is verse 0); eBible's KJV-numbered NEH is not read",
+      list(_bu) == ["brenton:1Kgs.12.24a", "brenton:Ps.50.1", "brenton:Ps.50.2",
+                    "brenton:Ps.50.3", "brenton:Lam.1.0", "brenton:Lam.1.1"])
+check("brenton: notes leave the text for `notes`; character markers go; `marked` is as is",
+      _bu["brenton:Ps.50.3"]["text"] == "Have mercy upon me."
+      and "pity" in _bu["brenton:Ps.50.3"]["notes"][0]
+      and _bu["brenton:Ps.50.3"]["marked"].startswith("\\sc Have"))
+check("brenton: each unit's `kjv` comes from the committed map (Ps 50:3 = KJV 51:1)",
+      _bu["brenton:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"}
+      and _bu["brenton:Ps.50.1"]["kjv"]["kjv"] == ["Ps.51.title"]
+      and _bu["brenton:1Kgs.12.24a"]["kjv"]["resolved"] is False
+      and _bu["brenton:Lam.1.0"]["kjv"]["resolved"] is False)
+check("brenton: scheme and rights say what the book is",
+      _bb["scheme"]["versification"] == "lxx-brenton"
+      and _bb["rights"]["license"] == "public-domain")
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
