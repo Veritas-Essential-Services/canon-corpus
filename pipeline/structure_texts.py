@@ -1452,7 +1452,7 @@ GUTEN_VERSE = {
     "divine_comedy": ("The Divine Comedy", "Dante Alighieri (tr. Cary)", "DC",
                       r"^CANTO\s+([IVXLC]+)",
                       (r"^(HELL|PURGATORY|PARADISE)$", {"HELL": "Inf.", "PURGATORY": "Purg.", "PARADISE": "Par."})),
-    "beowulf": ("Beowulf", "tr. Francis B. Gummere", "Beo", r"^([IVXLC]+)\."),
+    "beowulf": ("Beowulf", "tr. J. Lesslie Hall", "Beo", r"^([IVXLC]+)\."),
     "faust": ("Faust, Part I", "Goethe (tr. Bayard Taylor)", "Faust",
               r"^SCENE\s+([IVXL]+)|^(PROLOGUE IN HEAVEN)$"),
 }
