@@ -1,0 +1,19 @@
+{
+ "_about": "Lysias in English: the 'Handy Literal Translations' Orations of Lysias (selected speeches; translator unnamed in the file), clean Gutenberg.",
+ "_name_words": [
+  "lysias"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lysias-literal-orations": [
+   6969,
+   "The Orations of Lysias (selection)",
+   "tr. unnamed ('Handy Literal Translations')"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "W. R. M. Lamb, Loeb (1930)": "US PD from 2026 by date; Greek facing; on Perseus; pending",
+  "John Gillies (1778)": "PD; pending"
+ }
+}
