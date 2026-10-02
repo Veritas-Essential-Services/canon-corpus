@@ -1,0 +1,74 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry Wadsworth Longfellow (1807-1882) as translator. Dante's Divine Comedy (1867, line-for-line blank verse) and the TRANSLATIONS section of his Complete Poetical Works (Coplas de Manrique, Spanish, Scandinavian, German, Anglo-Saxon, French, Italian incl. Michelangelo, Portuguese, Eastern pieces). PD. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "longfellow",
+  "henry",
+  "wadsworth",
+  "dante",
+  "divine",
+  "comedy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "longfellow-inferno": [
+   1001,
+   "Dante, Divine Comedy: Hell, tr. Longfellow"
+  ],
+  "longfellow-purgatorio": [
+   1002,
+   "Dante, Divine Comedy: Purgatory, tr. Longfellow"
+  ],
+  "longfellow-paradiso": [
+   1003,
+   "Dante, Divine Comedy: Paradise, tr. Longfellow"
+  ],
+  "longfellow-poetical-works": [
+   1365,
+   "Complete Poetical Works of Longfellow (source of the Translations section)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "longfellow-inferno": {
+   "source": "longfellow-inferno",
+   "of": "Dante",
+   "work": "Inferno",
+   "translated": 1867
+  },
+  "longfellow-purgatorio": {
+   "source": "longfellow-purgatorio",
+   "of": "Dante",
+   "work": "Purgatorio",
+   "translated": 1867
+  },
+  "longfellow-paradiso": {
+   "source": "longfellow-paradiso",
+   "of": "Dante",
+   "work": "Paradiso",
+   "translated": 1867
+  },
+  "longfellow-translations": {
+   "source": "longfellow-poetical-works",
+   "start": [
+    "TRANSLATIONS",
+    1
+   ],
+   "end": [
+    "FROM THE LATIN",
+    1
+   ],
+   "of": "various",
+   "work": "Translations (Complete Poetical Works): Coplas de Manrique, Spanish ballads and sonnets, Frithiof's Saga passages, German lyrics, Beowulf passage, French, Italian (Michelangelo sonnets, Dante passages), Portuguese, Eastern",
+   "translated": "1833-1882",
+   "note": "Stops before 'From the Latin' (Virgil Eclogue I, Ovid Tristia III.10/12): non-Dryden Ovid and Virgil belong to lane B's author sections, never a translator shelf of lane C."
+  }
+ },
+ "_pending": {
+  "longfellow-latin-pieces": "Virgil's First Eclogue and Ovid in Exile, inside longfellow-poetical-works: cross-ref -> lane B's Virgil/Ovid sections; not cut here.",
+  "longfellow-poets-and-poetry-of-europe": "The Poets and Poetry of Europe (1845): an anthology mostly of OTHER translators; only Longfellow's own pieces would belong here."
+ },
+ "_excluded": {
+  "pg-1004": "Divine Comedy complete: same text as 1001-1003.",
+  "original-poems": "Hiawatha, Evangeline etc. are his own poems, not translations (an author section would hold them)."
+ }
+}

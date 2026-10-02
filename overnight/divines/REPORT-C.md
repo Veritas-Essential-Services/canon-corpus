@@ -31,3 +31,12 @@
 - Map audit: Dryden map rows match the 21 titles in dryden_shelf.json; Garnett section is generated from garnett_shelf.json. Lane B's six Dryden pointers all resolve.
 - All shelf identifiers resolved at fetch time this session (72 sources, 0 failed).
 - Next worker of lane C: nothing queued. Real leftovers are in DIGEST-C.md (Gogol Government Inspector + Mirgorod scans; Dryden 1700 Fables order). Do not refetch: everything is on the branch as shelves; corpus files are not.
+
+## 2026-10-02T15:43-05:00 — round 2 (coordinator relay): five translator shelves
+- Pope and Chapman NOT taken: lane B's running `homer` item shelves them translator-per-work. Plutarch skipped (another thread).
+- shelf-cary: done. 4 titles (Dante 3 canticles, Pindar 1833 raw OCR).
+- shelf-longfellow: done. 4 titles (Dante 3 canticles + Translations section cut from PG 1365, ending before his Virgil/Ovid pieces).
+- shelf-florio: done-with-defects. Montaigne 1603 via the 1906 Gibbings reprint (6 vols raw OCR) + 1620 Decameron (attribution only).
+- shelf-burton: done. Arabian Nights 10 vols, Supplemental Nights 6, Lusiads, Camoens Lyricks. Explicit-content titles (Catullus, Kama Sutra, Pentamerone) pending, Adam's call.
+- shelf-maude: done-with-defects. 10 titles; PG 26472 404 and PG 26660 front-matter-only worked around; dating evidence recorded per title.
+- 52 sources fetched in all, 0 failed after fixes; 24 titles cut, 0 failed. structure_test: 64 passed.

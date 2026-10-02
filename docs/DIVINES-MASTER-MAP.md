@@ -392,7 +392,7 @@ Clean text = Project Gutenberg's transcription of Scott's *Works of John Dryden*
 ## Garnett
 
 Shelf: `pipeline/garnett_shelf.json` · fetch `python3 pipeline/fetch_shelf.py garnett` · titles `python3 pipeline/split_shelf_titles.py garnett`.
-All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. Year = first publication of her translation; later printings scanned are recorded in the shelf as `scan_edition`. Not converted to unit-id JSON; **no uids minted** — every title awaits Adam's minting pass.
+All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. Year = first publication of her translation; later printings scanned are recorded in the shelf as `scan_edition`. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Tr. | Status | Source |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | `garnett-gogol-dead-souls` | Gogol | Dead Souls (Works of Gogol vols 1-2) | 1922 | have-raw | IA `p1theworksofniko01gogo` + IA `pt2theworksofnik01gogouoft` |
 | `garnett-ostrovsky-storm` | Ostrovsky | The Storm (play) | 1899 | have | PG 7991 |
 | `garnett-goncharov-common-story` | Goncharov | A Common Story | 1894 | have-raw | IA `cu31924026662183` |
-| `garnett-herzen-my-past-and-thoughts` | Herzen | My Past and Thoughts (6 vols) | 1924-27 | have | PG 76599 + PG 78332 + PG 78336 + PG 78360 + PG 78361 + PG 78377 |
+| `garnett-herzen-my-past-and-thoughts` | Herzen | My Past and Thoughts (6 vols) | 1924-27 | have | PG 76599 … PG 78377 (6 vols) |
 | `garnett-gogol-overcoat` | Gogol | The Overcoat, and Other Stories | 1923 | have-raw | IA `overcoatothersto0000niko` |
 | `garnett-gogol-dikanka` | Gogol | Evenings on a Farm near Dikanka | 1926 | have-raw | IA `Dikanka` |
 | `garnett-notes-from-underground` | Dostoevsky | Notes from Underground | 1918 | have | PG 36034 (cut from the volume) |
@@ -465,6 +465,98 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | — | — | chekhov-plays-1930-modern-library: The Plays of Anton Tchekov (Modern Library, 1929-30): a reprint of the 1923 volumes, which are used. | — | excluded | — |
 | — | — | ia-mirgorodgogol: Mirgorod, Potsdam 1924 (Kiepenheuer): a Russian-language edition, not Garnett. | — | excluded | — |
 | — | — | ia-poorfolkgambler00dost: Poor Folk; The Gambler (1915): Everyman edition, C. J. Hogarth's translation. | — | excluded | — |
+
+## Cary (Dante, Pindar)
+
+Shelf: `pipeline/cary_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cary` · titles `python3 pipeline/split_shelf_titles.py cary`.
+Added at the coordinator's relay, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `cary-inferno` | Dante | Inferno (Hell) | 1805-06; revised 1814 | have | PG 1005 |
+| `cary-purgatorio` | Dante | Purgatorio | 1814 | have | PG 1006 |
+| `cary-paradiso` | Dante | Paradiso | 1814 | have | PG 1007 |
+| `cary-pindar` | Pindar | Odes (Olympian, Pythian, Nemean, Isthmian) | 1833 | have-raw | IA `pindarinenglish00carygoog` |
+| `cary-aristophanes-birds` | — | Cary's Birds of Aristophanes (1824): no scan found this run. | — | pending | — |
+| `cary-dore-illustrated` | — | PG 8779-8800 Doré-illustrated Cary: same text split into parts (excluded as duplicates; images are the only difference). | — | pending | — |
+| — | — | pg-1008: Divine Comedy complete: same text as 1005-1007 together. | — | excluded | — |
+| — | — | pg-8779..8800: Doré-illustrated Cary, same text in parts. | — | excluded | — |
+| — | — | pg-10660: Lives of the English Poets: Cary's own prose, not a translation. | — | excluded | — |
+
+## Longfellow (Dante and shorter translations)
+
+Shelf: `pipeline/longfellow_shelf.json` · fetch `python3 pipeline/fetch_shelf.py longfellow` · titles `python3 pipeline/split_shelf_titles.py longfellow`.
+Added at the coordinator's relay, vetoable. His Virgil and Ovid pieces stay with lane B. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `longfellow-inferno` | Dante | Inferno | 1867 | have | PG 1001 |
+| `longfellow-purgatorio` | Dante | Purgatorio | 1867 | have | PG 1002 |
+| `longfellow-paradiso` | Dante | Paradiso | 1867 | have | PG 1003 |
+| `longfellow-translations` | various | Translations (Complete Poetical Works): Coplas de Manrique, Spanish ballads and sonnets, Frithiof's Saga passages, German lyrics, Beowulf passage, French, Italian (Michelangelo sonnets, Dante passages), Portuguese, Eastern | 1833-1882 | have | PG 1365 (cut from the volume) |
+| `longfellow-latin-pieces` | — | Virgil's First Eclogue and Ovid in Exile, inside longfellow-poetical-works: cross-ref -> lane B's Virgil/Ovid sections; not cut here. | — | pending | — |
+| `longfellow-poets-and-poetry-of-europe` | — | The Poets and Poetry of Europe (1845): an anthology mostly of OTHER translators; only Longfellow's own pieces would belong here. | — | pending | — |
+| — | — | pg-1004: Divine Comedy complete: same text as 1001-1003. | — | excluded | — |
+| — | — | original-poems: Hiawatha, Evangeline etc. are his own poems, not translations (an author section would hold them). | — | excluded | — |
+
+## Florio (Montaigne, Decameron)
+
+Shelf: `pipeline/florio_shelf.json` · fetch `python3 pipeline/fetch_shelf.py florio` · titles `python3 pipeline/split_shelf_titles.py florio`.
+Added at the coordinator's relay, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `florio-montaigne-essays` | Montaigne | Essayes (3 books), 6 vols | 1603 | have-raw | IA `essayestranslate01montuoft` … IA `essayestranslate06montuoft` (6 vols) |
+| `florio-decameron` | Boccaccio | The Decameron (first complete English, 1620) | 1620 | have | PG 52617 + PG 52618 |
+| `florio-montaigne-1603-folio` | — | The 1603 first edition (IA MontaigneImages / McGill 1632 folio): only images or long-s OCR; the 1906 reprint is used. | — | pending | — |
+| `florio-montaigne-everyman` | — | Everyman (1910) or Temple Classics (1897) Florio sets: alternate witnesses if the Gibbings OCR proves weak. | — | pending | — |
+| — | — | pg-56200: Queen Anna's New World of Words: Florio's dictionary, not a translation (could join a lexicon shelf, Adam's call). | — | excluded | — |
+| — | — | pg-3600-cotton: PG's Montaigne Essays is Charles Cotton's translation, not Florio. | — | excluded | — |
+
+## Burton (Arabian Nights, Camoens)
+
+Shelf: `pipeline/burton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py burton` · titles `python3 pipeline/split_shelf_titles.py burton`.
+Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone are listed but not fetched: your call on content. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `burton-arabian-nights` | The Thousand and One Nights (Arabic) | The Book of the Thousand Nights and a Night, 10 vols | 1885 | have | PG 51252 … PG 58360 (10 vols) |
+| `burton-supplemental-nights` | The Thousand and One Nights (Arabic) | Supplemental Nights, 6 vols (vol. 3 in two PG parts) | 1886-88 | have | PG 59156 … PG 64384 (7 vols) |
+| `burton-lusiads` | Camoens | Os Lusiadas | 1880 | have | PG 77660 + PG 77661 |
+| `burton-camoens-lyricks` | Camoens | The Lyricks: sonnets, canzons, odes and sextines | 1884 | have-raw | IA `cu31924102142985` |
+| `burton-catullus` | — | The Carmina of Catullus (1894, with Leonard Smithers; PG 20732): PD; held back for Adam's call on content, not rights. | — | pending | — |
+| `burton-kama-sutra` | — | Kama Sutra (1883, with Arbuthnot and Bhide; PG 27827): PD; Adam's call on content. | — | pending | — |
+| `burton-pentamerone` | — | Basile, Il Pentamerone (1893): the IA copy found is a 1927 reprint (ilpentameroneort0000basi); PD as a pre-1931 printing - listed, not fetched, for the same content call. | — | pending | — |
+| `burton-vikram` | — | Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator. | — | pending | — |
+| — | — | pg-3435..3450: Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used. | — | excluded | — |
+| — | — | pg-6036: The Kasidah: Burton's own poem presented as a translation (a literary mask). | — | excluded | — |
+| — | — | travel-books: Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them). | — | excluded | — |
+
+## Maude (Tolstoy, PD editions only)
+
+Shelf: `pipeline/maude_shelf.json` · fetch `python3 pipeline/fetch_shelf.py maude` · titles `python3 pipeline/split_shelf_titles.py maude`.
+Added at the coordinator's relay, vetoable. Only printings before 1931; where the file gives no year, the title rests on Gutenberg's US clearance, which the Tr. column says. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Tr. | Status | Source |
+|---|---|---|---|---|---|
+| `maude-war-and-peace` | Tolstoy | War and Peace | pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year | have | PG 2600 |
+| `maude-resurrection` | Tolstoy | Resurrection | 1900 (Dodd, Mead, 'by my authority' note signed by Tolstoy); exact year not printed in the file | have | PG 1938 |
+| `maude-father-sergius` | Tolstoy | Father Sergius | pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year | have | PG 985 |
+| `maude-master-and-man` | Tolstoy | Master and Man | pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year | have | PG 986 |
+| `maude-cossacks` | Tolstoy | The Cossacks | pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year | have | PG 4761 |
+| `maude-what-men-live-by` | Tolstoy | What Men Live By, and Other Tales | pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year | have | PG 6157 |
+| `maude-plays` | Tolstoy | Plays, Complete Edition including the Posthumous Plays (6 plays) | 1914 ed. | have | PG 26661 … PG 26666 (6 vols) |
+| `maude-what-is-art` | Tolstoy | What Is Art? | 1904 (Funk & Wagnalls, stated) | have | PG 64908 |
+| `maude-the-devil` | Tolstoy | The Devil | 1926 ('First published in 1926', stated) | have | PG 67224 |
+| `maude-three-days` | Tolstoy | Three Days in the Village, and Other Sketches | 1910 (Free Age Press, stated) | have | PG 51018 |
+| `maude-anna-karenina` | — | Anna Karenina, tr. L. & A. Maude (World's Classics 1918): not on PG under their names; look for a pre-1931 scan. | — | pending | — |
+| `maude-centenary` | — | The Centenary Edition (OUP 1928-37, 21 vols): only the volumes printed before 1931 qualify; per-volume dating needed. | — | pending | — |
+| — | — | pg-28920: War and Peace Book 1 only: part of PG 2600. | — | excluded | — |
+| — | — | pg-52242, pg-78278: Aylmer Maude's own books (Life of Tolstoy, Life of Marie Stopes): not translations. | — | excluded | — |
+| — | — | pg-79027: Tolstoy on Art: Maude as editor/compiler; overlaps What Is Art?. | — | excluded | — |
+| — | — | other-maudes: PG items by Alice Maude Kellogg, Maude Alma, F. N. Maude, Maude Wholohan: different people. | — | excluded | — |
+| — | — | pg-26472: Newer transcription of What Men Live By: its .txt returns 404 on Gutenberg's cache (2026-10-02); PG 6157 used. | — | excluded | — |
+| — | — | pg-26660: Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used). | — | excluded | — |
 # Storytellers
 
 ## Andrew Lang

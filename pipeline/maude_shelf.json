@@ -1,0 +1,165 @@
+{
+ "_about": "TRANSLATOR SHELF: Aylmer Maude (1858-1938) and Louise Maude (1855-1939), Tolstoy's authorised translators. PUBLIC-DOMAIN EDITIONS ONLY: each title must be a printing before 1931 (US). UK copyright in their translations ran to end-1999/2009 and is now expired. Year per title is taken from the fetched file where it states one (fetch report + notes); where the file states no year, the title rests on Project Gutenberg's US clearance (pre-1931 publication) and says so. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "maude",
+  "aylmer",
+  "louise",
+  "tolstoy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "maude-war-and-peace": [
+   2600,
+   "Tolstoy, War and Peace, tr. Aylmer & Louise Maude"
+  ],
+  "maude-resurrection": [
+   1938,
+   "Tolstoy, Resurrection, tr. Louise Maude"
+  ],
+  "maude-father-sergius": [
+   985,
+   "Tolstoy, Father Sergius, tr. A. & L. Maude"
+  ],
+  "maude-master-and-man": [
+   986,
+   "Tolstoy, Master and Man, tr. A. & L. Maude"
+  ],
+  "maude-cossacks": [
+   4761,
+   "Tolstoy, The Cossacks, tr. A. & L. Maude"
+  ],
+  "maude-what-men-live-by": [
+   6157,
+   "Tolstoy, What Men Live By, and Other Tales, tr. A. & L. Maude"
+  ],
+  "maude-what-is-art": [
+   64908,
+   "Tolstoy, What Is Art?, tr. Aylmer Maude"
+  ],
+  "maude-the-devil": [
+   67224,
+   "Tolstoy, The Devil, tr. Aylmer Maude"
+  ],
+  "maude-three-days": [
+   51018,
+   "Tolstoy, Three Days in the Village, and Other Sketches, tr. A. & L. Maude"
+  ],
+  "maude-play-power-of-darkness": [
+   26661,
+   "Tolstoy, The Power of Darkness, tr. L. & A. Maude (Plays, Complete Edition)"
+  ],
+  "maude-play-first-distiller": [
+   26662,
+   "Tolstoy, The First Distiller, tr. L. & A. Maude (Plays, Complete Edition)"
+  ],
+  "maude-play-fruits-of-culture": [
+   26663,
+   "Tolstoy, Fruits of Culture, tr. L. & A. Maude (Plays, Complete Edition)"
+  ],
+  "maude-play-live-corpse": [
+   26664,
+   "Tolstoy, The Live Corpse, tr. L. & A. Maude (Plays, Complete Edition)"
+  ],
+  "maude-play-cause-of-it-all": [
+   26665,
+   "Tolstoy, The Cause of It All, tr. L. & A. Maude (Plays, Complete Edition)"
+  ],
+  "maude-play-light-shines": [
+   26666,
+   "Tolstoy, The Light Shines in Darkness, tr. L. & A. Maude (Plays, Complete Edition)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "maude-war-and-peace": {
+   "source": "maude-war-and-peace",
+   "of": "Tolstoy",
+   "work": "War and Peace",
+   "translators": "Aylmer & Louise Maude",
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+  },
+  "maude-resurrection": {
+   "source": "maude-resurrection",
+   "of": "Tolstoy",
+   "work": "Resurrection",
+   "translators": "Louise Maude",
+   "translated": "1900 (Dodd, Mead, 'by my authority' note signed by Tolstoy); exact year not printed in the file"
+  },
+  "maude-father-sergius": {
+   "source": "maude-father-sergius",
+   "of": "Tolstoy",
+   "work": "Father Sergius",
+   "translators": "A. & L. Maude",
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+  },
+  "maude-master-and-man": {
+   "source": "maude-master-and-man",
+   "of": "Tolstoy",
+   "work": "Master and Man",
+   "translators": "A. & L. Maude",
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+  },
+  "maude-cossacks": {
+   "source": "maude-cossacks",
+   "of": "Tolstoy",
+   "work": "The Cossacks",
+   "translators": "A. & L. Maude",
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+  },
+  "maude-what-men-live-by": {
+   "source": "maude-what-men-live-by",
+   "of": "Tolstoy",
+   "work": "What Men Live By, and Other Tales",
+   "translators": "A. & L. Maude",
+   "translated": "pre-1931 printing per Project Gutenberg's US copyright clearance; the file states no edition year"
+  },
+  "maude-plays": {
+   "source": [
+    "maude-play-power-of-darkness",
+    "maude-play-first-distiller",
+    "maude-play-fruits-of-culture",
+    "maude-play-live-corpse",
+    "maude-play-cause-of-it-all",
+    "maude-play-light-shines"
+   ],
+   "of": "Tolstoy",
+   "work": "Plays, Complete Edition including the Posthumous Plays (6 plays)",
+   "translators": "L. & A. Maude",
+   "translated": "1914 ed.",
+   "scan_edition": "Funk & Wagnalls, New York, 4th impression 1919 (stated in PG 26660's front matter)"
+  },
+  "maude-what-is-art": {
+   "source": "maude-what-is-art",
+   "of": "Tolstoy",
+   "work": "What Is Art?",
+   "translators": "Aylmer Maude",
+   "translated": "1904 (Funk & Wagnalls, stated)"
+  },
+  "maude-the-devil": {
+   "source": "maude-the-devil",
+   "of": "Tolstoy",
+   "work": "The Devil",
+   "translators": "Aylmer Maude",
+   "translated": "1926 ('First published in 1926', stated)"
+  },
+  "maude-three-days": {
+   "source": "maude-three-days",
+   "of": "Tolstoy",
+   "work": "Three Days in the Village, and Other Sketches",
+   "translators": "A. & L. Maude",
+   "translated": "1910 (Free Age Press, stated)"
+  }
+ },
+ "_pending": {
+  "maude-anna-karenina": "Anna Karenina, tr. L. & A. Maude (World's Classics 1918): not on PG under their names; look for a pre-1931 scan.",
+  "maude-centenary": "The Centenary Edition (OUP 1928-37, 21 vols): only the volumes printed before 1931 qualify; per-volume dating needed."
+ },
+ "_excluded": {
+  "pg-28920": "War and Peace Book 1 only: part of PG 2600.",
+  "pg-52242, pg-78278": "Aylmer Maude's own books (Life of Tolstoy, Life of Marie Stopes): not translations.",
+  "pg-79027": "Tolstoy on Art: Maude as editor/compiler; overlaps What Is Art?.",
+  "other-maudes": "PG items by Alice Maude Kellogg, Maude Alma, F. N. Maude, Maude Wholohan: different people.",
+  "pg-26472": "Newer transcription of What Men Live By: its .txt returns 404 on Gutenberg's cache (2026-10-02); PG 6157 used.",
+  "pg-26660": "Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used)."
+ }
+}

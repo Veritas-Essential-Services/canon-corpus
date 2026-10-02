@@ -27,33 +27,43 @@
     },
     {
       "id": "shelf-cary",
-      "status": "running",
+      "status": "done",
       "scope": "TRANSLATOR SHELF (added at coordinator relay 2026-10-02, Adam may veto) \u2014 Henry Francis Cary's Dante (Divine Comedy blank verse) + other PD Cary translations; each title its own slug; no minting",
-      "started": "2026-10-02T15:36-05:00"
+      "started": "2026-10-02T15:36-05:00",
+      "finished": "2026-10-02T15:43-05:00",
+      "notes": "4 sources (PG 1005-1007, IA pindarinenglish00carygoog 1833), 0 failed; 4 titles cut (inferno, purgatorio, paradiso, pindar). Pindar raw OCR, 0.92 vocabulary hit. Birds of Aristophanes pending (no scan). No uids minted."
     },
     {
       "id": "shelf-longfellow",
-      "status": "running",
+      "status": "done",
       "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Longfellow as translator: Divine Comedy + other translations (Coplas de Manrique, Poets and Poetry of Europe pieces); no minting",
-      "started": "2026-10-02T15:36-05:00"
+      "started": "2026-10-02T15:36-05:00",
+      "finished": "2026-10-02T15:43-05:00",
+      "notes": "4 sources (PG 1001-1003, PG 1365), 0 failed; 4 titles: three canticles + longfellow-translations cut from the Complete Poetical Works (stops before 'From the Latin': his Virgil/Ovid pieces are lane B's). No uids minted."
     },
     {
       "id": "shelf-florio",
-      "status": "running",
+      "status": "done-with-defects",
       "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 John Florio: Montaigne's Essays (1603) and other PD Florio translations; no minting",
-      "started": "2026-10-02T15:36-05:00"
+      "started": "2026-10-02T15:36-05:00",
+      "finished": "2026-10-02T15:43-05:00",
+      "notes": "8 sources: Montaigne Essayes 1603 in the Gibbings 1906 reprint, 6 IA vols (raw OCR, 0.83-0.86 vocabulary hit; the clean 1620 Decameron scores 0.89, so most of the gap is Elizabethan spelling), Decameron 1620 PG 52617-8 (Florio attribution is scholarly, the book was anonymous). 2 titles. No uids minted."
     },
     {
       "id": "shelf-burton",
-      "status": "running",
+      "status": "done",
       "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Richard F. Burton: Arabian Nights (+ Supplemental Nights) and other PD Burton translations; no minting",
-      "started": "2026-10-02T15:36-05:00"
+      "started": "2026-10-02T15:36-05:00",
+      "finished": "2026-10-02T15:43-05:00",
+      "notes": "20 sources, 0 failed: Nights 10 vols + Supplemental 6 vols (7 PG parts) from the DP proofread editions, Lusiads 2 vols PG, Camoens Lyricks IA 1884 (raw, 0.87). 4 titles. Catullus, Kama Sutra, Pentamerone listed pending for Adam's content call, not fetched. No uids minted."
     },
     {
       "id": "shelf-maude",
-      "status": "running",
+      "status": "done-with-defects",
       "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Aylmer & Louise Maude: Tolstoy, public-domain editions only (pre-1931 US); record edition/year; no minting",
-      "started": "2026-10-02T15:36-05:00"
+      "started": "2026-10-02T15:36-05:00",
+      "finished": "2026-10-02T15:43-05:00",
+      "notes": "16 sources, 0 failed after 2 fixes: PG 26472 404s (used 6157), PG 26660 is front matter only (used the six plays 26661-66, F&W 4th impr. 1919). 10 titles. Years stated in file: What Is Art 1904, Three Days 1910, The Devil 1926, Plays 1919 printing, Resurrection Dodd Mead (Tolstoy's authority note); War and Peace, Cossacks, Father Sergius, Master and Man, What Men Live By state no year - they rest on Gutenberg's US clearance (pre-1931). Anna Karenina (Maude) pending. No uids minted."
     }
   ]
 }

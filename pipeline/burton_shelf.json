@@ -1,0 +1,154 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Richard Francis Burton (1821-1890) as translator. The Book of the Thousand Nights and a Night (1885, 10 vols) and Supplemental Nights (1886-88, 6 vols) from the Distributed Proofreaders PG editions; Camoens' Lusiads (1880) and Lyricks (1884). PD. Burton's annotations are famously explicit; they are part of the text as published. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "burton",
+  "richard",
+  "francis",
+  "nights"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burton-nights-01": [
+   51252,
+   "The Book of the Thousand Nights and a Night, vol. 1 of 10"
+  ],
+  "burton-nights-02": [
+   51775,
+   "The Book of the Thousand Nights and a Night, vol. 2 of 10"
+  ],
+  "burton-nights-03": [
+   52564,
+   "The Book of the Thousand Nights and a Night, vol. 3 of 10"
+  ],
+  "burton-nights-04": [
+   53254,
+   "The Book of the Thousand Nights and a Night, vol. 4 of 10"
+  ],
+  "burton-nights-05": [
+   54257,
+   "The Book of the Thousand Nights and a Night, vol. 5 of 10"
+  ],
+  "burton-nights-06": [
+   54525,
+   "The Book of the Thousand Nights and a Night, vol. 6 of 10"
+  ],
+  "burton-nights-07": [
+   54778,
+   "The Book of the Thousand Nights and a Night, vol. 7 of 10"
+  ],
+  "burton-nights-08": [
+   55091,
+   "The Book of the Thousand Nights and a Night, vol. 8 of 10"
+  ],
+  "burton-nights-09": [
+   55587,
+   "The Book of the Thousand Nights and a Night, vol. 9 of 10"
+  ],
+  "burton-nights-10": [
+   58360,
+   "The Book of the Thousand Nights and a Night, vol. 10 of 10"
+  ],
+  "burton-supplemental-1": [
+   59156,
+   "Supplemental Nights, vol. 1"
+  ],
+  "burton-supplemental-2": [
+   59953,
+   "Supplemental Nights, vol. 2"
+  ],
+  "burton-supplemental-3a": [
+   60889,
+   "Supplemental Nights, vol. 3a"
+  ],
+  "burton-supplemental-3b": [
+   61974,
+   "Supplemental Nights, vol. 3b"
+  ],
+  "burton-supplemental-4": [
+   62140,
+   "Supplemental Nights, vol. 4"
+  ],
+  "burton-supplemental-5": [
+   63266,
+   "Supplemental Nights, vol. 5"
+  ],
+  "burton-supplemental-6": [
+   64384,
+   "Supplemental Nights, vol. 6"
+  ],
+  "burton-lusiads-1": [
+   77660,
+   "Camoens, Os Lusiadas, tr. Burton, vol. 1"
+  ],
+  "burton-lusiads-2": [
+   77661,
+   "Camoens, Os Lusiadas, tr. Burton, vol. 2"
+  ]
+ },
+ "internet_archive": {
+  "burton-camoens-lyricks": [
+   "cu31924102142985",
+   "Camoens, The Lyricks (1884), tr. Burton"
+  ]
+ },
+ "titles": {
+  "burton-arabian-nights": {
+   "source": [
+    "burton-nights-01",
+    "burton-nights-02",
+    "burton-nights-03",
+    "burton-nights-04",
+    "burton-nights-05",
+    "burton-nights-06",
+    "burton-nights-07",
+    "burton-nights-08",
+    "burton-nights-09",
+    "burton-nights-10"
+   ],
+   "of": "The Thousand and One Nights (Arabic)",
+   "work": "The Book of the Thousand Nights and a Night, 10 vols",
+   "translated": 1885
+  },
+  "burton-supplemental-nights": {
+   "source": [
+    "burton-supplemental-1",
+    "burton-supplemental-2",
+    "burton-supplemental-3a",
+    "burton-supplemental-3b",
+    "burton-supplemental-4",
+    "burton-supplemental-5",
+    "burton-supplemental-6"
+   ],
+   "of": "The Thousand and One Nights (Arabic)",
+   "work": "Supplemental Nights, 6 vols (vol. 3 in two PG parts)",
+   "translated": "1886-88"
+  },
+  "burton-lusiads": {
+   "source": [
+    "burton-lusiads-1",
+    "burton-lusiads-2"
+   ],
+   "of": "Camoens",
+   "work": "Os Lusiadas",
+   "translated": 1880
+  },
+  "burton-camoens-lyricks": {
+   "source": "burton-camoens-lyricks",
+   "of": "Camoens",
+   "work": "The Lyricks: sonnets, canzons, odes and sextines",
+   "translated": 1884,
+   "scan_edition": "1884 (Cornell copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "burton-catullus": "The Carmina of Catullus (1894, with Leonard Smithers; PG 20732): PD; held back for Adam's call on content, not rights.",
+  "burton-kama-sutra": "Kama Sutra (1883, with Arbuthnot and Bhide; PG 27827): PD; Adam's call on content.",
+  "burton-pentamerone": "Basile, Il Pentamerone (1893): the IA copy found is a 1927 reprint (ilpentameroneort0000basi); PD as a pre-1931 printing - listed, not fetched, for the same content call.",
+  "burton-vikram": "Vikram and the Vampire (PG 2400/48511): Burton's free adaptation of the Baital Pachisi, not a translation; PG names no translator."
+ },
+ "_excluded": {
+  "pg-3435..3450": "Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used.",
+  "pg-6036": "The Kasidah: Burton's own poem presented as a translation (a literary mask).",
+  "travel-books": "Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them)."
+ }
+}

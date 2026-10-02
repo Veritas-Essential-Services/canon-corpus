@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: John Florio (1553?-1625). Montaigne's Essayes (1603) in the Gibbings 1906 reprint (6 vols, Toronto copies, raw OCR) and the 1620 English Decameron as attributed to him (PG). PD. Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "florio",
+  "john",
+  "montaigne",
+  "michael"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "florio-decameron-1": [
+   52617,
+   "Boccaccio, The Decameron, Days 1-5 (1620 tr., attributed to Florio)"
+  ],
+  "florio-decameron-2": [
+   52618,
+   "Boccaccio, The Decameron, Days 6-10"
+  ]
+ },
+ "internet_archive": {
+  "florio-montaigne-1": [
+   "essayestranslate01montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 1"
+  ],
+  "florio-montaigne-2": [
+   "essayestranslate02montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 2"
+  ],
+  "florio-montaigne-3": [
+   "essayestranslate03montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 3"
+  ],
+  "florio-montaigne-4": [
+   "essayestranslate04montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 4"
+  ],
+  "florio-montaigne-5": [
+   "essayestranslate05montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 5"
+  ],
+  "florio-montaigne-6": [
+   "essayestranslate06montuoft",
+   "Montaigne, Essayes, tr. Florio 1603 (Gibbings 1906), vol. 6"
+  ]
+ },
+ "titles": {
+  "florio-montaigne-essays": {
+   "source": [
+    "florio-montaigne-1",
+    "florio-montaigne-2",
+    "florio-montaigne-3",
+    "florio-montaigne-4",
+    "florio-montaigne-5",
+    "florio-montaigne-6"
+   ],
+   "of": "Montaigne",
+   "work": "Essayes (3 books), 6 vols",
+   "translated": 1603,
+   "scan_edition": "Gibbings, London 1906 (reprint of 1603), raw OCR"
+  },
+  "florio-decameron": {
+   "source": [
+    "florio-decameron-1",
+    "florio-decameron-2"
+   ],
+   "of": "Boccaccio",
+   "work": "The Decameron (first complete English, 1620)",
+   "translated": 1620,
+   "note": "Published anonymously in 1620; the attribution to Florio is scholarly (PG credits him). Dryden's three Boccaccio tales are a different translation (dryden-fables-boccaccio)."
+  }
+ },
+ "_pending": {
+  "florio-montaigne-1603-folio": "The 1603 first edition (IA MontaigneImages / McGill 1632 folio): only images or long-s OCR; the 1906 reprint is used.",
+  "florio-montaigne-everyman": "Everyman (1910) or Temple Classics (1897) Florio sets: alternate witnesses if the Gibbings OCR proves weak."
+ },
+ "_excluded": {
+  "pg-56200": "Queen Anna's New World of Words: Florio's dictionary, not a translation (could join a lexicon shelf, Adam's call).",
+  "pg-3600-cotton": "PG's Montaigne Essays is Charles Cotton's translation, not Florio."
+ }
+}

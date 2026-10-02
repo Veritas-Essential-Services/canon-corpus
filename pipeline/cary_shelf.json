@@ -1,0 +1,68 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry Francis Cary (1772-1844). Dante's Divine Comedy in blank verse (The Vision, 1805-14; text as revised by Cary) and his Pindar (1833). Each canticle is its own title. PD (Cary d. 1844). Added 2026-10-02 at the coordinator's relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "cary",
+  "henry",
+  "francis",
+  "dante",
+  "divine",
+  "comedy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cary-inferno": [
+   1005,
+   "Dante, Divine Comedy: Hell, tr. Cary"
+  ],
+  "cary-purgatorio": [
+   1006,
+   "Dante, Divine Comedy: Purgatory, tr. Cary"
+  ],
+  "cary-paradiso": [
+   1007,
+   "Dante, Divine Comedy: Paradise, tr. Cary"
+  ]
+ },
+ "internet_archive": {
+  "cary-pindar": [
+   "pindarinenglish00carygoog",
+   "Pindar in English Verse (1833)"
+  ]
+ },
+ "titles": {
+  "cary-inferno": {
+   "source": "cary-inferno",
+   "of": "Dante",
+   "work": "Inferno (Hell)",
+   "translated": "1805-06; revised 1814"
+  },
+  "cary-purgatorio": {
+   "source": "cary-purgatorio",
+   "of": "Dante",
+   "work": "Purgatorio",
+   "translated": 1814
+  },
+  "cary-paradiso": {
+   "source": "cary-paradiso",
+   "of": "Dante",
+   "work": "Paradiso",
+   "translated": 1814
+  },
+  "cary-pindar": {
+   "source": "cary-pindar",
+   "of": "Pindar",
+   "work": "Odes (Olympian, Pythian, Nemean, Isthmian)",
+   "translated": 1833,
+   "scan_edition": "1833 (Google scan, raw OCR)"
+  }
+ },
+ "_pending": {
+  "cary-aristophanes-birds": "Cary's Birds of Aristophanes (1824): no scan found this run.",
+  "cary-dore-illustrated": "PG 8779-8800 Doré-illustrated Cary: same text split into parts (excluded as duplicates; images are the only difference)."
+ },
+ "_excluded": {
+  "pg-1008": "Divine Comedy complete: same text as 1005-1007 together.",
+  "pg-8779..8800": "Doré-illustrated Cary, same text in parts.",
+  "pg-10660": "Lives of the English Poets: Cary's own prose, not a translation."
+ }
+}
