@@ -1,0 +1,30 @@
+{
+ "_about": "Public-domain Henry Scougal (1650-1678, professor of divinity at Aberdeen) for the Word Hoard. The Life of God in the Soul of Man clean from CCEL; the Works (Pittsburgh: J. I. Kay, 1830, with further discourses and the funeral sermon by George Gairden, per IA's catalogue) as raw Internet Archive OCR. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "s/scougal",
+ "_name_words": [
+  "scougal"
+ ],
+ "_held": {},
+ "ccel": {
+  "scougal-life-of-god": [
+   "life",
+   "The Life of God in the Soul of Man",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "scougal-works-1830": [
+   "worksofrevhenrys00scou",
+   "The Works of the Rev. Henry Scougal (1830)"
+  ]
+ },
+ "_alternates": {
+  "worksofrevhenrys00scou_0; worksrevhenrysc00scougoog (1830); worksrevhscouga00scougoog (1831); worksrevscougal00scougoog (1833); worksofrevhscoug00scou (1839); 10267559bsb (1818)": "Other 19th-century printings of the Works.",
+  "bim_eighteenth-century_* and bim_early-english-books_* (1691-1791)": "Early printings of the Life of God and the Works, including Wesley's abridgement (1748)."
+ },
+ "_excluded": {
+  "bim_eighteenth-century_a-new-academy-of-comple_scougal-henry_1748": "A letter-writing manual misattributed to Scougal in IA's catalogue.",
+  "isbn_9781617201943": "A 2011 reprint (lending library), not a PD scan."
+ }
+}

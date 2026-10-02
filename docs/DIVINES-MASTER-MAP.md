@@ -703,6 +703,15 @@ The Works (Boston, 1853, ed. Albro, 3 vols): vol. I clean from CCEL, vols. II-II
 | The Autobiography of Thomas Shepard (1832, ed. N. Adams) | have-raw | IA `autobiographyth00adamgoog` (the library scan has only 38 of 129 pages) |
 | The Clear Sun-shine of the Gospel (1648; 1865 reprint) | have-raw | IA `cu31924028652349` |
 | First printings (1645-1658) and ECCO reprints | alternate | the 1853 Works are held |
+
+## Henry Scougal (round 4, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of God in the Soul of Man | have | CCEL `life` (`scougal-life-of-god`) |
+| The Works (Pittsburgh: J. I. Kay, 1830) | have-raw | IA `worksofrevhenrys00scou` |
+| Works and Life of God, printings of 1691-1839 | alternate | the 1830 Works are held |
+| A New Academy of Compliments (1748) | excluded | catalogued under Scougal on IA; a letter-writing manual, not his |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

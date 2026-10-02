@@ -168,3 +168,7 @@
 ## 2026-10-02 17:02 CDT — shepard done
 - `pipeline/shepard_shelf.json`: Works vol. I (1853) and The Change of the Sabbath from CCEL, converted (1,643 units, 1,594 links); Works vols. II-III, the Autobiography (1832) and the Clear Sun-shine of the Gospel (1865 reprint), raw IA OCR. About 5.6 MB. `--verify`: 0 mismatched.
 - The first Autobiography scan passed the identity check but held only 38 page images of a 129-page book (IA's own catalogue says so); swapped for a complete Google scan. The fetcher checks the author and title, not completeness: a sweep of page counts on every lane-A IA item is next. 0 uids minted.
+
+## 2026-10-02 17:05 CDT — scougal done; completeness sweep
+- `pipeline/scougal_shelf.json`: The Life of God in the Soul of Man from CCEL, converted (96 units, 3 links); the Works (Pittsburgh, 1830; 286 page images for xii + 272 pages) raw IA OCR, 98.8%. `--verify`: 0 mismatched. 0 uids minted.
+- Completeness sweep after the partial Shepard scan: IA page images against the catalogue's page count for all 309 lane-A IA items. No other short scan found. One item has 33 images for 422 pages (`MN41487ucmf_5`, H. Bonar's Light and Truth), but it is microfilm with several pages a frame, and its 743 KB of text fits the book. Caveat: many IA records give no page count, so this check cannot clear them.
