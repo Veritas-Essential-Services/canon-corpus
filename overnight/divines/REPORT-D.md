@@ -240,3 +240,6 @@
 
 ## 2026-10-02 17:29 CDT — ewing: done
 - 7/7 fetched (Gutenberg 7865, 15592, 62783, 5601, 17772, 19360, 19859), 8,842 units, 6 ~2 ids.
+
+## 2026-10-02 17:29 CDT — molesworth: done
+- 8/8 fetched (Gutenberg 15569, 17175, 33544, 39375, 29380, 39748, 43127, 6676), 8,042 units, 0 ~2 ids.

@@ -1,0 +1,78 @@
+{
+ "_about": "Mrs. Molesworth's (Mary Louisa Molesworth, 1839-1921) best-known children's books: The Cuckoo Clock (1877), The Tapestry Room (1879), \"Carrots\" (1876), Christmas-Tree Land (1884), The Adventures of Herr Baby (1881), Four Winds Farm (1887), An Enchanted Garden (1892) and Rosy (1882). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mrs. Molesworth (Mary Louisa Molesworth)",
+ "_name_words": [
+  "cuckoo",
+  "tapestry",
+  "carrots",
+  "clock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "molesworth-cuckoo-clock": [
+   15569,
+   "The Cuckoo Clock (1877)",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-tapestry-room": [
+   17175,
+   "The Tapestry Room (1879)",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-carrots": [
+   33544,
+   "\"Carrots\": Just a Little Boy (1876)",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-christmas-tree-land": [
+   39375,
+   "Christmas-Tree Land (1884)",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ],
+  "molesworth-herr-baby": [
+   29380,
+   "The Adventures of Herr Baby (1881)",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-four-winds-farm": [
+   39748,
+   "Four Winds Farm (1887)",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-enchanted-garden": [
+   43127,
+   "An Enchanted Garden: Fairy Stories (1892)"
+  ],
+  "molesworth-rosy": [
+   6676,
+   "Rosy (1882)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "molesworth-duplicate": "The Cuckoo Clock (PG 28619): a later illustrated printing",
+  "molesworth-other": "her many other children's books and novels on Gutenberg (some fifty titles): candidates for a later batch"
+ }
+}

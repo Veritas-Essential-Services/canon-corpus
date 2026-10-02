@@ -1141,6 +1141,23 @@ Shelf: `pipeline/ewing_shelf.json` (2026-10-02; added at the coordinator's relay
 | ewing-other | excluded | Melchior's Dream, A Great Emergency, Brothers of Pity, Mary's Meadow, The Peace Egg, We and the World, Last Words, verses and miscellanea: candidates for a later batch |
 | ewing-contained | excluded | The Brownies and Other Tales (PG 16052) and The Land of Lost Toys (PG 33880): measured 84% and 93% contained in Lob Lie-by-the-Fire, The Brownies and Other Tales (PG 62783), which is held |
 
+## Mrs. Molesworth
+
+Shelf: `pipeline/molesworth_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Eight of her best-known children's books, cut by their own Contents or chapter lines; some fifty others on Gutenberg are left for later. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cuckoo Clock (1877) | have | PG 15569, `molesworth-cuckoo-clock` (1082 units) |
+| The Tapestry Room (1879) | have | PG 17175, `molesworth-tapestry-room` (1095 units) |
+| "Carrots": Just a Little Boy (1876) | have | PG 33544, `molesworth-carrots` (1054 units) |
+| Christmas-Tree Land (1884) | have | PG 39375, `molesworth-christmas-tree-land` (1125 units) |
+| The Adventures of Herr Baby (1881) | have | PG 29380, `molesworth-herr-baby` (852 units) |
+| Four Winds Farm (1887) | have | PG 39748, `molesworth-four-winds-farm` (1005 units) |
+| An Enchanted Garden: Fairy Stories (1892) | have | PG 43127, `molesworth-enchanted-garden` (795 units) |
+| Rosy (1882) | have | PG 6676, `molesworth-rosy` (1034 units) |
+| molesworth-duplicate | excluded | The Cuckoo Clock (PG 28619): a later illustrated printing |
+| molesworth-other | excluded | her many other children's books and novels on Gutenberg (some fifty titles): candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
