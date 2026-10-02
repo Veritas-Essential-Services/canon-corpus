@@ -108,6 +108,8 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
     python3 tests/nt_corpus_test.py          # validator for data/nt/<Book>/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
+    python3 pipeline/build_ot_corpus.py --check   # Hebrew OT (WLC): mint 0, byte-identical
+    python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -155,6 +157,13 @@ The living truth for project state is the Obsidian vault:
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_ot_corpus.py — the Hebrew OT (Westminster Leningrad Codex via
+  OSHB at 3d15126; the TEXT is PD) → data/ot/<Book>/ (COMMITTED, one folder per
+  book, one manifest; read via load_ot()). One row per KJV verse on its EXISTING
+  uid, mapped through data/versification/bhs-kjv.json; mints 0. 🔴 OSHB's
+  lemmas/morphology are CC BY 4.0 and are NOT in these files: lemma, parsing,
+  gloss are null until ADR 0019. Psalm titles, spans, joined verses: house
+  defaults awaiting Adam. pipeline/README-ot-jsonl.md
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
