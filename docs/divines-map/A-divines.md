@@ -89,6 +89,29 @@ Shelf: `pipeline/ryle_shelf.json` (2026-10-02). Ryle died 1900: works printed in
 
 ## Horatius Bonar
 
+Shelf: `pipeline/horatius-bonar_shelf.json` (2026-10-02). Prose only: his hymns and poems belong to the hymn manifest. All lifetime printings (he died 1889). Internet Archive OCR is raw.
+
+| Work | Status | Where |
+|---|---|---|
+| God's Way of Peace | have | CCEL `hbonar-gods-way-of-peace` |
+| The Rent Veil | have | CCEL `hbonar-rent-veil` |
+| Follow the Lamb (1874); Words to Winners of Souls (1860); Words of Peace and Welcome (1860) | have-raw | IA |
+| The Everlasting Righteousness (1873); The Christ of God (1874); The Blood of the Cross (1858) | have-raw | IA |
+| The Night of Weeping (1852); The Morning of Joy (1856) | have-raw | IA |
+| Family Sermons (1863); Truth and Error (1851) | have-raw | IA |
+| Prophetical Landmarks (1847); The Coming and Kingdom of the Lord Jesus Christ (1849) | have-raw | IA |
+| The Desert of Sinai (1857); The Land of Promise (1858); Days and Nights in the East (1866) | have-raw | IA |
+| Earth's Morning (1875) | have-raw | IA |
+| Life of John Milne of Perth (1870); Life and Work of G. Theophilus Dodds (1884); The White Fields of France (1879) | have-raw | IA |
+| Light and Truth: The Gospels (1871); The Acts and the Larger Epistles (1870); The Lesser Epistles (1883) | have-raw | IA |
+| Light and Truth: Old Testament; Revelation | pending | the OT scan found never names Bonar in its OCR (held under `_pending`); no Revelation volume found |
+| God's Way of Holiness; Kelso Tracts; Redeem the Time | pending | scans found but their OCR never names Bonar, so the fetcher refused them (`_pending`) |
+| How Shall I Go to God? | pending | listed on CCEL but its text is not served; no IA scan found yet |
+| A Stranger Here (1853) | pending | IA `dli.ministry.06530`, text file under a non-standard name |
+| Hymns of Faith and Hope (3 series), Communion Hymns, Lyra Consolationis, Hymns of the Nativity, The Song of the New Creation, Until the Day Break, The Bible Hymn-Book, The New Jerusalem, My Old Letters | see hymn manifest | hymns and poems |
+| Words Old and New; Catechisms of the Scottish Reformation; Gillies' Historical Collections | excluded | others' texts that Bonar selected or edited |
+| Gaelic and Welsh translations | excluded | not English |
+
 ## Andrew Bonar
 
 ## Adolph Saphir

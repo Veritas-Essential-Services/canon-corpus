@@ -22,3 +22,9 @@
 - Re-verified every file already fetched: flavel 11/11, bunyan 11/11 clean. Ryle: 2 tracts (Worldly Conformity, A Call to Prayer) never name Ryle in their text; removed from the shelf to `_pending`. 3 flagged `title_weak` and kept (Home Truths 1859, Are You Forgiven?, Do You Pray?: OCR lost the title page; content checked by counts).
 - CCEL defect: CCEL's `twobears` XML is empty (402 bytes); the 1869 IA scan is held instead.
 - structure_test 64/64. Awaiting uid minting: all 42 ryle slugs.
+
+## 2026-10-02 15:43 CDT — horatius-bonar: done
+- Shelf `pipeline/horatius-bonar_shelf.json`, prose only. 24 fetched (CCEL God's Way of Peace, The Rent Veil; 22 IA lifetime printings), 12.4 MB. CCEL converted: 574 units, 135 scripture links.
+- The new identity check refused 4 scans whose OCR never names Bonar (God's Way of Holiness, Kelso Tracts, Redeem the Time, Light and Truth OT); moved to `_pending`.
+- CCEL defect: Follow the Lamb, How Shall I Go to God and Words to Winners of Souls are listed on CCEL's Bonar page but their XML is not served (an error page). Two are held from IA instead.
+- Hymn collections listed as "see hymn manifest". Awaiting uid minting: all 24 slugs.
