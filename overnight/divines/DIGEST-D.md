@@ -1,6 +1,6 @@
-# Lane D — Storytellers: digest (2026-10-02 15:32 CDT)
+# Lane D — Storytellers: digest (2026-10-02 15:47 CDT)
 
-**Queue: all items done.** Nothing failed to fetch. No uids minted, nothing registered in `data/books/manifest.json`, no converter edited.
+**Queue: all 12 items done.** Seven storytellers were added during the burn at the coordinator's relay of your keep-going wish. **Each one can be vetoed** by deleting its shelf file and map section. Nothing failed to fetch. No uids minted, nothing registered in `data/books/manifest.json`, no converter edited.
 
 ## Andrew Lang — `pipeline/lang_shelf.json`
 - **Held:** 95 Gutenberg books, clean and converted (102,483 paragraph units): all twelve Coloured Fairy Books, the other story books, his fairy tales and novels, the Odyssey (with Butcher), Iliad (with Leaf and Myers), Homeric Hymns, Theocritus, Aucassin, poetry, essays, myth and folklore, histories.
@@ -16,8 +16,23 @@
 ## Fables
 None of the earlier fables work is in canon-corpus. I searched every branch. The map marks it "pending: locate". It may be in armarium, wordhoard or the vault.
 
+
+## Added this burn (veto any)
+| Shelf | Held | Raw OCR | Units | Notes |
+|---|---|---|---|---|
+| `macdonald` | 31 CCEL + 27 Gutenberg | 3 | 102,687 | fantasies, fairy tales, novels, Unspoken Sermons (67 scripture links), poetry |
+| `grimm` | Hunt's Household Tales (PG) | 1884 2 vols (Lang intro, Grimms' notes) | 1,769 | cites by tale number: exactly 200 tales + 10 legends |
+| `andersen` | 9 Gutenberg | 7 | 12,713 | one slug per translation, translator in each title. **PG 27200's translator is unverified** (probably Paull) |
+| `kingsley` | 43 Gutenberg | 0 | 42,788 | everything English on Gutenberg, including sermons |
+| `hawthorne` | 4 Gutenberg | 0 | 2,887 | children's books only. **Your call:** widen to his novels and tales? |
+| `bulfinch` | 4 Gutenberg | 0 | 7,772 | the three Mythology books held separately |
+| `pyle` | 19 Gutenberg | 1 | 24,597 | books he wrote; illustrator-only books excluded. **The Arthur books cite badly** (Book > Part > Chapter nesting) |
+
+All 286 shelf URLs re-checked at the end of the run: all resolve. Every slug appears in the map. Nothing failed, and there are 0 Gutenberg copyright markers.
+
 ## For Adam to decide
-1. **Minting:** 135 slugs (`lang-*` ×124, `lamb-*` ×11) are waiting for the attended uid pass and manifest registration.
+1. **Minting:** 135 + 151 = 286 slugs (lang 124, lamb 11, macdonald 61, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20) are waiting for the attended uid pass and manifest registration.
 2. **Mrs. Lang:** Leonora Blanche Lang wrote most of the later story books. They sit on Andrew's shelf with her credited. Should she get her own shelf?
 3. **Converter:** the new `pipeline/convert_shelf_gutenberg.py` gives some books per-book heading options in their shelf rows. Before the next burn, decide whether those rules move into structure_texts.py's per-book rules (CLAUDE.md rule 2).
-4. **The lane is exhausted.** Unless you add authors to `QUEUE-D.json`, the next Lane D worker has only upkeep to do. Natural next storytellers: Grimm, Perrault, Andersen, Aesop. Only add Aesop once the earlier fables work is found.
+4. **Nesting-aware converter** wanted for Pyle's Arthur books and Helen of Troy.
+5. **The lane is exhausted again.** Unless you add authors to `QUEUE-D.json`, the next Lane D worker has only upkeep to do. Natural next storytellers: Grimm, Perrault, Andersen, Aesop. Only add Aesop once the earlier fables work is found.

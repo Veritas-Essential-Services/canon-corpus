@@ -59,3 +59,10 @@
 
 ## 2026-10-02 15:46 CDT — pyle: done
 - 20/20 fetched (0 CCEL, 19 Gutenberg, 1 IA raw), 8.0 MB, 0 failed, 0 copyright markers; 24597 units converted. Robin Hood, the four Arthur books, Pepper & Salt, Wonder Clock, Twilight Land, the novels and pirate tales; Garden Behind the Moon as raw OCR. Illustrator-only books excluded. Arthur books' Book>Part>Chapter nesting is a known citation gap. No uids minted; not in manifest.
+
+## 2026-10-02 15:47 CDT — session end (second run)
+- Seven storytellers shelved, converted and committed, one commit each: macdonald, grimm, andersen, kingsley, hawthorne-wonder, bulfinch, pyle. They were added at the coordinator's relay; Adam may veto.
+- §5 verification: all 286 shelf URLs across the 9 Lane D shelves resolve (HEAD/range), and every slug appears in the map section. tests/structure_test.py: 64 passed.
+- convert_shelf_gutenberg.py: an [Illustration] placeholder is never a heading. Five books rebuilt.
+- Known gaps (in the map): Pyle's Arthur books nest Book > Part > Chapter; Helen of Troy needs stanza-aware conversion; Andersen PG 27200's translator is unverified.
+- Next Lane D worker: the queue is empty again. Do upkeep only unless Adam adds authors.
