@@ -1,5 +1,5 @@
 {
- "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced.",
+ "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "thucydides",
   "translated",
@@ -23,6 +23,21 @@
    "thucydides00thucuoft",
    "Thucydides, chiefly from the translation of Hobbes of Malmesbury (Oxford, 1841)",
    "tr. Thomas Hobbes (1629), corrected"
+  ],
+  "thucydides-smith-v1": [
+   "thucydidestrbyw01thucgoog",
+   "Thucydides, tr. by W. Smith, vol. 1 (1831)",
+   "tr. William Smith"
+  ],
+  "thucydides-smith-v2": [
+   "thucydides01smitgoog",
+   "Thucydides, tr. by W. Smith, vol. 2 (1831)",
+   "tr. William Smith"
+  ],
+  "thucydides-smith-v3": [
+   "thucydidestrbyw02thucgoog",
+   "Thucydides, tr. by W. Smith, vol. 3 (1831)",
+   "tr. William Smith"
   ]
  },
  "_cross_ref": {
