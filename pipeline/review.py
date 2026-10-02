@@ -106,6 +106,19 @@ def read_text(path):
         return f.read().replace("\r\n", "\n")
 
 
+def frontmatter(text):
+    """The leading YAML block (provenance: model_log, fable_review), or "".
+
+    The sheets are rendered from the data, but the provenance backfill
+    (2026-09-30) stamps a front matter block on every .md it finds. The data
+    knows nothing of it, so render keeps whatever block the sheet on disk has."""
+    if text and text.startswith("---\n"):
+        end = text.find("\n---\n", 4)
+        if end != -1:
+            return text[:end + 5]
+    return ""
+
+
 def write_atomic(path, text):
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8", newline="\n") as f:
@@ -1038,6 +1051,7 @@ def cmd_render(a):
         text = s.render()
         rel = os.path.relpath(s.path, s.root)
         on_disk = read_text(s.path) if os.path.exists(s.path) else None
+        text = frontmatter(on_disk) + text
         if a.check:
             ok = on_disk == text
             print(f"  {rel}: {'byte-identical' if ok else 'DIFFERS from the data'}")
