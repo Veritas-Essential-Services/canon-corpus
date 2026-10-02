@@ -1,5 +1,5 @@
 {
- "_about": "Livy in English: the Bohn translation, complete across four Gutenberg texts (D. Spillan, Cyrus Edmonds, W. A. McDevitte; Books I-VIII, IX-XXVI, XXVII-XXXVI, XXXVII to the end with the Epitomes and fragments). Also Church and Brodribb's Books I-III (ed. Osborne). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_about": "Livy in English: the Bohn translation, complete across four Gutenberg texts (D. Spillan, Cyrus Edmonds, W. A. McDevitte; Books I-VIII, IX-XXVI, XXVII-XXXVI, XXXVII to the end with the Epitomes and fragments). Also Church and Brodribb's Books I-III (ed. Osborne). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "livy",
   "rome",
@@ -53,6 +53,11 @@
    "livywithenglisht0000bofo",
    "Livy, vol. 3: Books V-VII (Loeb, 1924)",
    "tr. B. O. Foster"
+  ],
+  "livy-holland": [
+   "romanehistorie00livy",
+   "The Romane Historie written by T. Livius of Padua (1659 edition)",
+   "tr. Philemon Holland"
   ]
  },
  "_excluded": {
