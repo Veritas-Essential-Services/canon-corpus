@@ -1,0 +1,21 @@
+{
+ "_about": "Mary Mapes Dodge's (1830-1905) Hans Brinker; or, The Silver Skates (1865). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mary Mapes Dodge",
+ "_name_words": [
+  "hans",
+  "brinker",
+  "skates"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dodge-hans-brinker": [
+   764,
+   "Hans Brinker; or, The Silver Skates (1865)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "dodge-duplicate": "Hans Brinker (PG 34378): a later illustrated printing",
+  "dodge-st-nicholas": "the St. Nicholas magazine issues she edited: many authors, not hers"
+ }
+}

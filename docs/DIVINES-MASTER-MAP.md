@@ -3665,6 +3665,16 @@ Shelf: `pipeline/sewell_shelf.json` (2026-10-02; added at the coordinator's rela
 | Black Beauty (1877) | have | PG 271, `sewell-black-beauty` (925 units) |
 | sewell-young-folks | excluded | Black Beauty, Young Folks' Edition (PG 11860): an adaptation |
 
+## Mary Mapes Dodge
+
+Shelf: `pipeline/dodge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hans Brinker, cut by its own Contents. The St. Nicholas issues she edited are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hans Brinker; or, The Silver Skates (1865) | have | PG 764, `dodge-hans-brinker` (2093 units) |
+| dodge-duplicate | excluded | Hans Brinker (PG 34378): a later illustrated printing |
+| dodge-st-nicholas | excluded | the St. Nicholas magazine issues she edited: many authors, not hers |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
