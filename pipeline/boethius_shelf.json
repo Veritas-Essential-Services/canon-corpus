@@ -1,0 +1,21 @@
+{
+ "_about": "Boethius, The Consolation of Philosophy, in H. R. James's translation (1897), clean Gutenberg. Chaucer's Boece is a Middle English text and is not taken here.",
+ "_name_words": [
+  "boethius",
+  "consolation",
+  "philosophy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "boethius-james": [
+   14328,
+   "The Consolation of Philosophy",
+   "tr. H. R. James"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "PG 23082": "Gutenberg serves an HTML page for the .txt; not fetched",
+  "Chaucer's Boece (PG 42083, 44833)": "Middle English; not a modern translation; not taken"
+ }
+}

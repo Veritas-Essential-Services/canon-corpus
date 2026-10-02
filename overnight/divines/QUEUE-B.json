@@ -137,8 +137,11 @@
     },
     {
       "id": "greek-late-philosophy",
-      "status": "todo",
-      "scope": "CLASSICAL (census gap) \u2014 Diogenes Laertius (Yonge), Plotinus (MacKenna where cleared, Taylor), Longinus (Havell, Roberts), Sextus Empiricus, Porphyry (Taylor); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census gap) \u2014 Diogenes Laertius (Yonge), Plotinus (MacKenna where cleared, Taylor), Longinus (Havell, Roberts), Sextus Empiricus, Porphyry (Taylor); shelf per author + fetch + map",
+      "started": "2026-10-02T16:12:08-05:00",
+      "finished": "2026-10-02T16:18:08-05:00",
+      "notes": "diogenes-laertius, plotinus (MacKenna 1917-30 complete + Guthrie + Taylor), porphyry, iamblichus, proclus, pythagoreans, sextus-empiricus, julian, boethius"
     },
     {
       "id": "greek-geographers-historians",

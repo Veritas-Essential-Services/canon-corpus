@@ -97,3 +97,13 @@
 - greek-lyric: Mackail Anthology (PG 2378), Wharton Sappho 1908 ed. (PG 57390), Moore Anacreon (PG 38230), Poste Bacchylides 1898 (IA).
 - All PG headers read: none COPYRIGHTED. Loebs (Paton, Edmonds, Mair, Sandys) left pending: Greek facing pages.
 - Musaeus: no PD English scan identified.
+
+## 2026-10-02 16:18 CDT — greek-late-philosophy (done)
+- diogenes-laertius: Yonge (PG 57342).
+- plotinus: MacKenna first edition complete, vols 1-5 (1917, 1921, 1924, 1926, 1930), raw IA OCR 0.91-0.94; each identified by its Ennead on the title page; all published by 1930, so US PD by date. Guthrie 1918 (PG 42930-42933). Taylor: Essay on the Beautiful (PG 29510), Select Works, Mead's 1895 ed. (IA).
+- porphyry: Taylor Select Works 1823 (PG 77014); Lardner, pagan arguments (PG 37696); Zimmern's Marcella 1896 (IA).
+- iamblichus: Taylor, Life of Pythagoras 1818 (PG 63300), Mysteries (PG 72815, 1895 reprint of 1821).
+- proclus: Taylor, Euclid commentaries (PG 74253, 79455), Theology of Plato (PG 77393, 78800).
+- pythagoreans: Taylor's Ocellus 1831 (PG 75391). sextus-empiricus: Patrick 1899 (PG 17556). julian: Wright vols 1-2 (PG 48664, 48768). boethius: James 1897 (PG 14328).
+- Longinus: Havell is on lane D's lang shelf (PG 17957); Roberts 1907 IA scan has facing Greek and clean-word 0.64; pending.
+- All PG headers read: none COPYRIGHTED.

@@ -749,6 +749,107 @@ Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus
 
 Excluded: modern free Sappho recreations (Carman, O'Hara, Stacpoole)
 
+## Diogenes Laertius
+
+Shelf: `pipeline/diogenes-laertius_shelf.json`. Yonge (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Lives and Opinions of Eminent Philosophers | Charles Duke Yonge | `diogenes-laertius-yonge` | have (PG 57342) |
+
+Pending (wishlist): Hicks Loeb (1925; Greek facing)
+
+## Plotinus
+
+Shelf: `pipeline/plotinus_shelf.json`. MacKenna first edition, all 5 vols. 1917-1930 (raw IA OCR, clean-word 0.91-0.94); Guthrie 1918 (Gutenberg); Taylor (Gutenberg essay; Select Works, IA 0.93).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Plotinos: Complete Works, vol. 1 | Kenneth Sylvan Guthrie | `plotinus-guthrie-v1` | have (PG 42930) |
+| Plotinos: Complete Works, vol. 2 | Kenneth Sylvan Guthrie | `plotinus-guthrie-v2` | have (PG 42931) |
+| Plotinos: Complete Works, vol. 3 | Kenneth Sylvan Guthrie | `plotinus-guthrie-v3` | have (PG 42932) |
+| Plotinos: Complete Works, vol. 4 | Kenneth Sylvan Guthrie | `plotinus-guthrie-v4` | have (PG 42933) |
+| An Essay on the Beautiful, from the Greek of Plotinus | Thomas Taylor | `plotinus-taylor-beautiful` | have (PG 29510) |
+| Plotinus: The Ethical Treatises (First Ennead), vol. 1 (1917) | Stephen MacKenna | `plotinus-mackenna-v1` | have-raw (IA `plotinusethicalt01plotuoft`) |
+| Plotinus: Psychic and Physical Treatises (Second and Third Enneads), vol. 2 (1921) | Stephen MacKenna | `plotinus-mackenna-v2` | have-raw (IA `plotinuspsychicp00plotuoft`) |
+| Plotinus: On the Nature of the Soul (Fourth Ennead), vol. 3 (1924) | Stephen MacKenna | `plotinus-mackenna-v3` | have-raw (IA `plotinustranslat03burkuoft`) |
+| Plotinus: The Divine Mind (Fifth Ennead), vol. 4 (1926) | Stephen MacKenna | `plotinus-mackenna-v4` | have-raw (IA `plotinustranslat04plotuoft`) |
+| Plotinus: On the One and Good (Sixth Ennead), vol. 5 (1930) | Stephen MacKenna and B. S. Page | `plotinus-mackenna-v5` | have-raw (IA `plotinusononegoo0005step`) |
+| Select Works of Plotinus (Bohn, 1895) | Thomas Taylor; ed. G. R. S. Mead | `plotinus-taylor-select` | have-raw (IA `selectworksofplo00plotuoft`) |
+
+Excluded: a 550-page MacKenna scan of Enneads IV-VI of unknown date; the 1956 revised edition
+
+## Porphyry
+
+Shelf: `pipeline/porphyry_shelf.json`. Taylor's Select Works and Lardner's pagan arguments (Gutenberg); Zimmern's Marcella (IA, 0.94).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Select Works of Porphyry | Thomas Taylor | `porphyry-taylor-select` | have (PG 77014) |
+| Arguments of Celsus, Porphyry, and the Emperor Julian, against the Christians | Nathaniel Lardner | `celsus-porphyry-julian-lardner` | have (PG 37696) |
+| Porphyry the Philosopher to his Wife Marcella (1896) | Alice Zimmern | `porphyry-marcella-zimmern` | have-raw (IA `porphyryphiloso00garngoog`) |
+
+## Iamblichus
+
+Shelf: `pipeline/iamblichus_shelf.json`. Taylor's Life of Pythagoras and On the Mysteries (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Iamblichus' Life of Pythagoras, or Pythagoric Life | Thomas Taylor | `iamblichus-taylor-pythagoras` | have (PG 63300) |
+| Iamblichus on the Mysteries of the Egyptians, Chaldeans, and Assyrians | Thomas Taylor | `iamblichus-taylor-mysteries` | have (PG 72815) |
+
+Pending (wishlist): Wilder's Theurgia (1911; IA text layer empty)
+
+## Proclus
+
+Shelf: `pipeline/proclus_shelf.json`. Taylor's Euclid commentaries and Theology of Plato (Gutenberg, 4 vols.).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements, vol. 1 | Thomas Taylor | `proclus-taylor-euclid-v1` | have (PG 74253) |
+| The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements, vol. 2 | Thomas Taylor | `proclus-taylor-euclid-v2` | have (PG 79455) |
+| The Six Books of Proclus on the Theology of Plato, vol. 1 | Thomas Taylor | `proclus-taylor-theology-v1` | have (PG 77393) |
+| The Six Books of Proclus on the Theology of Plato, vol. 2 | Thomas Taylor | `proclus-taylor-theology-v2` | have (PG 78800) |
+
+## Ocellus and the minor Pythagoreans
+
+Shelf: `pipeline/pythagoreans_shelf.json`. Taylor (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ocellus Lucanus on the Nature of the Universe | Thomas Taylor | `ocellus-taylor` | have (PG 75391) |
+
+## Sextus Empiricus
+
+Shelf: `pipeline/sextus-empiricus_shelf.json`. Patrick 1899 (study with a translation of Pyrrhonic Sketches I).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Sextus Empiricus and Greek Scepticism | Mary Mills Patrick (study, with of Pyrrhonic Sketches I) | `sextus-empiricus-patrick` | have (PG 17556) |
+
+Pending (wishlist): no complete PD English Sextus exists
+
+## Julian
+
+Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing Greek kept).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | have (PG 48664) |
+| The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
+
+Pending (wishlist): Wright vol. 3 (1923)
+
+## Boethius
+
+Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Consolation of Philosophy | H. R. James | `boethius-james` | have (PG 14328) |
+
+Excluded: Chaucer's Middle English Boece
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
