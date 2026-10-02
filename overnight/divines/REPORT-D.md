@@ -44,3 +44,6 @@
 
 ## 2026-10-02 15:46 CDT — grimm: done
 - 3/3 fetched (0 CCEL, 1 Gutenberg, 2 IA raw), 4.8 MB, 0 failed, 0 copyright markers; 1769 units converted. Margaret Hunt's Household Tales (1884). Gutenberg text cites by tale number (`53 Little Snow-White`): exactly 200 tales + 10 Children's Legends. The 1884 2-vol edition (Lang's introduction, the Grimms' notes) is raw OCR. Taylor/Edwardes and Lucy Crane are pending alternates. No uids minted; not in manifest.
+
+## 2026-10-02 15:46 CDT — andersen: done
+- 16/16 fetched (0 CCEL, 9 Gutenberg, 7 IA raw), 14.8 MB, 0 failed, 0 copyright markers; 12713 units converted. Victorian translations side by side, translator in each title: Dulcken, Mary Howitt, Bushby, Fuller, Peachey, Brækstad, Mrs Edgar Lucas, Craigie 1914. PG 27200's translator is unnamed; its wording matches Mrs. H. B. Paull's (unverified). Hersholt excluded (copyright). No uids minted; not in manifest.

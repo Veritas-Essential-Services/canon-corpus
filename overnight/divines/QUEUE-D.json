@@ -59,8 +59,11 @@
     },
     {
       "id": "andersen",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Hans Christian Andersen in public-domain English translation(s); translator recorded per title; shelf + fetch + convert + map section; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Hans Christian Andersen in public-domain English translation(s); translator recorded per title; shelf + fetch + convert + map section; no minting",
+      "started": "2026-10-02T15:46:13-05:00",
+      "finished": "2026-10-02T15:46:13-05:00",
+      "notes": "16/16 fetched (0 CCEL, 9 Gutenberg, 7 IA raw), 14.8 MB, 0 failed, 0 copyright markers; 12713 units converted. Victorian translations side by side, translator in each title: Dulcken, Mary Howitt, Bushby, Fuller, Peachey, Brækstad, Mrs Edgar Lucas, Craigie 1914. PG 27200's translator is unnamed; its wording matches Mrs. H. B. Paull's (unverified). Hersholt excluded (copyright). No uids minted; not in manifest."
     },
     {
       "id": "kingsley",

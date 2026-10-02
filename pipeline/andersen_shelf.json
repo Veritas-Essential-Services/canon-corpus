@@ -1,0 +1,99 @@
+{
+ "_about": "Hans Christian Andersen (1805-1875) in public-domain English translations, each title carrying its translator. Andersen has no single canonical English edition, so several Victorian translators are held side by side as separate works: H. W. Dulcken (Stories for the Household, What the Moon Saw), Mary Howitt (the first English Andersen, 1846, and his autobiography and novels), Caroline Peachey, Anna Bushby, Fanny Fuller, H. L. Brækstad, Mrs. Edgar Lucas, and W. A. Craigie's 1914 revision. Where a Gutenberg file names no translator, the title says so. Gutenberg is clean text; Internet Archive is raw OCR. All published before 1930: US public domain.",
+ "_author": "Hans Christian Andersen",
+ "_name_words": [
+  "andersen",
+  "hans",
+  "christian"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "andersen-fairy-tales-paull": [
+   27200,
+   "Fairy Tales of Hans Christian Andersen (translator not named in the Gutenberg file; its wording matches the text usually credited to Mrs. H. B. Paull, 1872 — unverified)",
+   {
+    "contents_only": true
+   }
+  ],
+  "andersen-what-the-moon-saw-dulcken": [
+   27000,
+   "What the Moon Saw, and Other Tales, tr. H. W. Dulcken (1866)",
+   {
+    "contents_only": true
+   }
+  ],
+  "andersen-wonderful-stories-howitt": [
+   43600,
+   "Wonderful Stories for Children, tr. Mary Howitt (1846)",
+   {
+    "contents_only": true
+   }
+  ],
+  "andersen-true-story-of-my-life-howitt": [
+   7007,
+   "The True Story of My Life, tr. Mary Howitt (1847)"
+  ],
+  "andersen-sand-hills-of-jutland-bushby": [
+   26491,
+   "The Sand-Hills of Jutland, tr. Anna Bushby (1860)",
+   {
+    "contents_only": true
+   }
+  ],
+  "andersen-ice-maiden-fuller": [
+   18604,
+   "The Ice-Maiden, and Other Tales, tr. Fanny Fuller (1863)",
+   {
+    "contents_only": true
+   }
+  ],
+  "andersen-christmas-greeting": [
+   31103,
+   "A Christmas Greeting: A Series of Stories (1847; translator not named in the Gutenberg file)"
+  ],
+  "andersen-o-t": [
+   7513,
+   "O. T., A Danish Romance (novel; translator not named in the Gutenberg file)"
+  ],
+  "andersen-pictures-of-sweden": [
+   12313,
+   "Pictures of Sweden (travel; translator not named in the Gutenberg file)"
+  ]
+ },
+ "internet_archive": {
+  "andersen-stories-household-dulcken": [
+   "storiesforhouseh00ande",
+   "Stories for the Household, tr. H. W. Dulcken (1889 printing), the fullest Victorian collection"
+  ],
+  "andersen-fairy-tales-craigie": [
+   "fairytalesandoth00andeuoft",
+   "Fairy Tales and Other Stories, revised and in part newly translated by W. A. Craigie (Oxford, 1914)"
+  ],
+  "andersen-danish-fairy-legends-peachey": [
+   "danishfairylege00andegoog",
+   "Danish Fairy Legends and Tales, tr. Caroline Peachey (1861 ed.)"
+  ],
+  "andersen-fairy-tales-braekstad": [
+   "fairytalesstorie00ande",
+   "Fairy Tales and Stories, tr. H. L. Brækstad, ill. Hans Tegner (1900)"
+  ],
+  "andersen-faery-tales-lucas": [
+   "faerytalesfromha00ande",
+   "Faery Tales from Hans Christian Andersen, tr. Mrs. Edgar Lucas (1910)"
+  ],
+  "andersen-improvisatore-howitt": [
+   "improvisatoreorl00ande",
+   "The Improvisatore, or, Life in Italy (novel), tr. Mary Howitt (1845)"
+  ],
+  "andersen-picture-book-without-pictures": [
+   "picturebookwitho00ande",
+   "A Picture-Book without Pictures, and Other Stories (1848; IA credits Mary Howitt, unverified)"
+  ]
+ },
+ "_excluded": {
+  "andersen-selections": "selections whose texts are held in fuller form: Andersen's Fairy Tales (PG 1597), Stories from Hans Andersen (PG 17860, Dulac), Stickney's First and Second Series (PG 32571-32572), Heath Robinson's Hans Andersen's Fairy Tales (PG 66688), The Nightingale (PG 71096, one tale), Rudy and Babette (PG 40283, the Ice-Maiden)",
+  "andersen-other-languages": "French, German, Dutch, Catalan, Esperanto, Greek and Finnish Gutenberg translations: not English",
+  "andersen-hersholt": "Jean Hersholt's Complete Andersen (1942-49): in copyright",
+  "andersen-pending": "PENDING, not fetched: Mrs. H. B. Paull's Hans Andersen's Fairy Tales and Stories (1872) as a scan to confirm PG 27200's translator; Under the Willow Tree (Dulcken, 1870); Only a Fiddler and In Spain (Howitt/Bushby); the Danish originals"
+ }
+}
