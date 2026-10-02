@@ -670,3 +670,17 @@ The Whole Works (London: F. Westley, 1822, ed. John Hunt, 8 vols): vols. V-VIII 
 | The Whole Works, vols. I-IV (1822) | have-raw | IA `wholeworksofrevj01howeuoft`..`04howeuoft` |
 | Posthumous Works (1832, ed. Hunt) | pending | two Google scans whose title pages give no clear volume order |
 | Works (1724, 2 vols); (1835); (1838, 2 vols); (1862-63, 6 vols, pref. Rogers) | alternate | the 1822 Whole Works is held |
+
+## Philip Doddridge (round 4, my pick, 2026-10-02)
+
+Three titles clean from CCEL, one from Gutenberg; the Leeds Works (Edward Baines, 1802-1805, 10 vols) as raw IA OCR. Hymns are for the hymn manifest.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rise and Progress of Religion in the Soul (1745) | have | CCEL `rise` (`doddridge-rise-progress`) |
+| Practical Discourses on Regeneration (1742) | have | CCEL `regen` (`doddridge-regeneration`) |
+| The Evidences of Christianity Briefly Stated | have | CCEL `evidences` (`doddridge-evidences`) |
+| The Life of Col. James Gardiner | have | Gutenberg 11253 (`doddridge-life-gardiner`) |
+| The Works, vols. I-IX (Leeds, 1802-1805) | have-raw | IA `worksofrevpdoddr01dodd`..`09dodd` |
+| The Works, vol. X | have-raw | IA `worksrevpdoddri01doddgoog` (the Princeton vol. X scan never names Doddridge and was refused) |
+| Miscellaneous Works (1830, 1839) | alternate | the Leeds Works are held |

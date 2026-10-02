@@ -160,3 +160,7 @@
 
 ## 2026-10-02 16:56 CDT — howe done
 - `pipeline/howe_shelf.json`: the Whole Works (1822, ed. Hunt, 8 vols): vols. V-VIII from CCEL, converted (5,296 units, 3,104 links); vols. I-IV raw IA OCR (median 98.2%). About 13 MB. `--verify`: 0 mismatched. The Posthumous Works (1832) are pending: the scans' volume order is unclear. 0 uids minted.
+
+## 2026-10-02 17:00 CDT — doddridge done
+- `pipeline/doddridge_shelf.json`: Rise and Progress, Regeneration and Evidences from CCEL, converted (1,382 units, 1,837 links); the Life of Colonel Gardiner from Gutenberg (rights line passed); the Leeds Works (1802-05), all 10 volumes, raw IA OCR. About 22 MB. `--verify`: 0 mismatched.
+- The identity check refused the Princeton scan of vol. X (its OCR never names Doddridge); the Google scan of vol. X, which does, is held. OCR median 92.8%: vols. I-V 95-96%, vols. VI-X (the Family Expositor, by the shelf's own volume order) 87.7-90.9%. 0 uids minted.

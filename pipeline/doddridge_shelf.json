@@ -1,0 +1,81 @@
+{
+ "_about": "Public-domain Philip Doddridge (1702-1751, Northampton Dissenting academy) for the Word Hoard. Three titles clean from CCEL, the Life of Colonel Gardiner from Gutenberg, and the Works (Leeds: Edward Baines, 1802-1805, 10 vols, the Princeton Seminary scans, vol. X from a Google scan; volume numbers read off the title pages) as raw Internet Archive OCR. His hymns belong to the hymn manifest. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "d/doddridge",
+ "_name_words": [
+  "doddridge"
+ ],
+ "_held": {},
+ "ccel": {
+  "doddridge-rise-progress": [
+   "rise",
+   "The Rise and Progress of Religion in the Soul (1745)",
+   ""
+  ],
+  "doddridge-regeneration": [
+   "regen",
+   "Practical Discourses on Regeneration (1742)",
+   ""
+  ],
+  "doddridge-evidences": [
+   "evidences",
+   "The Evidences of Christianity Briefly Stated (three sermons)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "doddridge-life-gardiner": [
+   11253,
+   "The Life of Col. James Gardiner"
+  ]
+ },
+ "internet_archive": {
+  "doddridge-works-01": [
+   "worksofrevpdoddr01dodd",
+   "The Works of the Rev. P. Doddridge, vol. I (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-02": [
+   "worksofrevpdoddr02dodd",
+   "The Works of the Rev. P. Doddridge, vol. II (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-03": [
+   "worksofrevpdoddr03dodd",
+   "The Works of the Rev. P. Doddridge, vol. III (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-04": [
+   "worksofrevpdoddr04dodd",
+   "The Works of the Rev. P. Doddridge, vol. IV (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-05": [
+   "worksofrevpdoddr05dodd",
+   "The Works of the Rev. P. Doddridge, vol. V (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-06": [
+   "worksofrevpdoddr06dodd",
+   "The Works of the Rev. P. Doddridge, vol. VI (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-07": [
+   "worksofrevpdoddr07dodd",
+   "The Works of the Rev. P. Doddridge, vol. VII (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-08": [
+   "worksofrevpdoddr08dodd",
+   "The Works of the Rev. P. Doddridge, vol. VIII (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-09": [
+   "worksofrevpdoddr09dodd",
+   "The Works of the Rev. P. Doddridge, vol. IX (Leeds, 1802-1805)"
+  ],
+  "doddridge-works-10": [
+   "worksrevpdoddri01doddgoog",
+   "The Works of the Rev. P. Doddridge, vol. X (Leeds, 1802-1805; Google scan)"
+  ]
+ },
+ "_alternates": {
+  "worksofpdoddrid00..08ortogoog; worksrevpdoddri00..07doddgoog; worksofrevpdoddr01dodd_0 etc.": "Other scans of the same Leeds edition.",
+  "miscellaneouswor00dodd (1839); miscellaneouswor00dodd_0 (1830)": "One-volume Miscellaneous Works; the Leeds Works are held.",
+  "worksofrevpdoddr10dodd": "Vol. X in the Princeton series: refused by the identity check (its OCR never names Doddridge); the Google scan of vol. X, which does, is held."
+ },
+ "_excluded": {
+  "worksofreverendl01..06watt": "Isaac Watts's Works, with pieces selected by Doddridge: Watts's text, not Doddridge's."
+ }
+}

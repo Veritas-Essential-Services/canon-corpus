@@ -270,10 +270,12 @@
     },
     {
       "id": "doddridge",
-      "status": "todo",
+      "status": "done",
       "scope": "Philip Doddridge: Rise and Progress, Evidences, Regeneration (d. 1751)",
       "added": "2026-10-02T16:51:54-05:00",
-      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T17:00:15-05:00",
+      "notes": "3 CCEL + 1 PG + 10 IA"
     },
     {
       "id": "scougal",
