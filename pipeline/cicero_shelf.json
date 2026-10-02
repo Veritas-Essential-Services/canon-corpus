@@ -1,5 +1,5 @@
 {
- "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection.",
+ "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue.",
  "_name_words": [
   "cicero",
   "tullius",
@@ -51,6 +51,11 @@
    2812,
    "Letters of Marcus Tullius Cicero (selection)",
    "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-miller-de-officiis": [
+   47001,
+   "De Officiis",
+   "tr. Walter Miller (Loeb; Latin facing)"
   ]
  },
  "internet_archive": {
