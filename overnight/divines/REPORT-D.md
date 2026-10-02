@@ -189,3 +189,6 @@
 
 ## 2026-10-02 17:19 CDT — yeats-folk: done
 - 3/3 fetched (Gutenberg 33887, 31763, 10459), 2,829 units, 2 ~2 ids. Batch 7 (world folk tales), chosen by Lane D under the coordinator's standing relay.
+
+## 2026-10-02 17:19 CDT — hyde: done
+- 2/2 fetched (Gutenberg 45910; IA besidefirecollec00hyde), 1,803 units, 0 ~2 ids; Beside the Fire raw OCR, grade C from its facing Irish text.

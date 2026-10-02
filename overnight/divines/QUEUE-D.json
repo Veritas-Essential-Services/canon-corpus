@@ -336,8 +336,10 @@
     },
     {
       "id": "hyde",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Douglas Hyde's Irish tales; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Douglas Hyde's Irish tales; no minting",
+      "finished": "2026-10-02T17:19:46-05:00",
+      "notes": "2/2 fetched (Gutenberg 45910; IA besidefirecollec00hyde), 1,803 units, 0 ~2 ids; Beside the Fire raw OCR, grade C from its facing Irish text."
     },
     {
       "id": "gregory",

@@ -1,0 +1,29 @@
+{
+ "_about": "Douglas Hyde's (1860-1949) Irish folk tales, collected in Irish and translated by him: Beside the Fire (1890, with Alfred Nutt's notes; raw Internet Archive OCR) and Legends of Saints and Sinners (1915, clean Gutenberg). US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Douglas Hyde",
+ "_name_words": [
+  "fire",
+  "saints",
+  "sinners",
+  "irish"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hyde-legends-of-saints-and-sinners": [
+   45910,
+   "Legends of Saints and Sinners, collected and tr. from the Irish by Douglas Hyde (1915)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {
+  "hyde-beside-the-fire": [
+   "besidefirecollec00hyde",
+   "Beside the Fire: A Collection of Irish Gaelic Folk Stories, ed. and tr. Douglas Hyde, notes by Alfred Nutt (London: David Nutt, 1890)"
+  ]
+ },
+ "_excluded": {
+  "hyde-other": "A Literary History of Ireland (PG 53793) and the Revival of Irish Literature addresses (32746): history and criticism, not tales"
+ }
+}

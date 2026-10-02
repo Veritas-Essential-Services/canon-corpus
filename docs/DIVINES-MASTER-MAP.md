@@ -3489,6 +3489,16 @@ Shelf: `pipeline/yeats-folk_shelf.json` (2026-10-02; added at the coordinator's 
 | yeats-poems-plays | excluded | Yeats's poems, plays, essays and autobiographies: outside a storytellers shelf (a poets' lane would hold them) |
 | yeats-stories | excluded | Stories of Red Hanrahan (PG 5793), The Secret Rose (5795), Rosa Alchemica (5794), John Sherman and Dhoya (49109): his own fiction; a candidate for a later batch |
 
+## Douglas Hyde (Irish folk tales)
+
+Shelf: `pipeline/hyde_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hyde's tales, collected in Irish and translated by him. Beside the Fire is raw IA OCR graded C: the Irish text faces the English, so the English-vocabulary score is low by design, not a bad scan. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of Saints and Sinners, collected and tr. from the Irish by Douglas Hyde (1915) | have | PG 45910, `hyde-legends-of-saints-and-sinners` (1803 units) |
+| Beside the Fire: A Collection of Irish Gaelic Folk Stories, ed. and tr. Douglas Hyde, notes by Alfred Nutt (London: David Nutt, 1890) | have-raw | IA `besidefirecollec00hyde`, `hyde-beside-the-fire` |
+| hyde-other | excluded | A Literary History of Ireland (PG 53793) and the Revival of Irish Literature addresses (32746): history and criticism, not tales |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
