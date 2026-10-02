@@ -54,3 +54,6 @@
 
 ## 2026-10-02 15:43 CDT — greek-historians: Thucydides
 - Shelf thucydides: Jowett 1881 2 vols + Hobbes 1841, raw (5.3 MB). FINDING: adler_shelf.json labels thucydides-pelo (PG 7142) 'tr. Jowett', but PG 7142 is Crawley; Jowett's real translation is now on this shelf.
+
+## 2026-10-02 15:43 CDT — greek-historians: Xenophon
+- Shelf xenophon: Dakyns complete, 14 PG texts, 3.6 MB, trial 9,133 units.

@@ -1,0 +1,86 @@
+{
+ "_about": "Xenophon in English: H. G. Dakyns's complete translation (The Works of Xenophon, 1890-97), clean Gutenberg, one text per work.",
+ "_name_words": [
+  "xenophon",
+  "dakyns"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "xenophon-anabasis": [
+   1170,
+   "Anabasis",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-hellenica": [
+   1174,
+   "Hellenica",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-cyropaedia": [
+   2085,
+   "Cyropaedia: The Education of Cyrus",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-memorabilia": [
+   1177,
+   "The Memorabilia",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-symposium": [
+   1181,
+   "The Symposium",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-apology": [
+   1171,
+   "The Apology",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-economist": [
+   1173,
+   "The Economist (Oeconomicus)",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-agesilaus": [
+   1169,
+   "Agesilaus",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-hiero": [
+   1175,
+   "Hiero",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-polity": [
+   1178,
+   "The Polity of the Athenians and the Lacedaemonians",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-revenues": [
+   1179,
+   "On Revenues",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-cavalry-general": [
+   1172,
+   "The Cavalry General",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-horsemanship": [
+   1176,
+   "On Horsemanship",
+   "tr. H. G. Dakyns"
+  ],
+  "xenophon-sportsman": [
+   1180,
+   "The Sportsman (Cynegeticus)",
+   "tr. H. G. Dakyns"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg29459": "an index page",
+  "pg17490": "The Memorable Thoughts of Socrates (Bysshe, 1712): PD, other translator; pending as an alternate witness",
+  "pg22003": "Anabasis I-IV (Watson): partial; pending"
+ }
+}
