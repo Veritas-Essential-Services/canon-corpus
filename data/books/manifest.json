@@ -1766,5 +1766,28 @@
    "source_url": "https://github.com/scrollmapper/bible_databases",
    "rights_line": "# Tyndale: William Tyndale Bible (1525/1530) / **License:** Public Domain"
   }
+ },
+ "ylt": {
+  "title": "Young's Literal Translation (1898)",
+  "author": "Robert Young (translator)",
+  "format": "scrollmapper-json",
+  "sha256": "73c9dd9466ee24cdab7872ec956aae2a8ada2d1c92203e40caeba5a14587dcea",
+  "units": 31102,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact, except 6 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "ylt (CrossWire, KJV grid)",
+   "kjv_resolved": 31102,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 0,
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/ylt-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Young's Literal Translation (1898), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "# YLT: Young's Literal Translation (1898) / **License:** Public Domain"
+  }
  }
 }
