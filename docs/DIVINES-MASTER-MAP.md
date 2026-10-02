@@ -2947,6 +2947,17 @@ Shelf: `pipeline/jacobs-fairy_shelf.json` (2026-10-02; added at the coordinator'
 | jacobs-edited-only | excluded | works Jacobs only edited or introduced: Painter's Palace of Pleasure (PG 20241, 34053, 34840), Morris's Old French Romances (PG 5988) |
 | jacobs-not-fairy-tales | excluded | The Story of Geographical Discovery (PG 14291), As Others Saw Him (PG 48974): outside the relay's ask |
 
+## George Webbe Dasent (Norse tales)
+
+Shelf: `pipeline/dasent_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Asbjørnsen and Moe's Norwegian tales in Dasent's translation; the translator is in each title and the fetch captured him from the Gutenberg header. Tales from the Fjeld prints two different tales called The Haunted Mill and sets The Companion over its frame and again over the tale, so 14 of its ids carry a ~2 suffix; left so rather than merging two tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Popular Tales from the Norse, Asbjørnsen and Moe, tr. George Webbe Dasent (1859) | have | PG 8933, `dasent-popular-tales-from-the-norse` (3348 units) |
+| Tales from the Fjeld, Asbjørnsen, tr. George Webbe Dasent (1874) | have | PG 36385, `dasent-tales-from-the-fjeld` (2368 units) |
+| dasent-selection | excluded | A Selection from the Norse Tales for the Use of Children (PG 64189): a selection from Popular Tales from the Norse, a duplicate of its stories |
+| dasent-sagas | excluded | The Story of Burnt Njal (PG 597, 17919): a saga, not a folk tale; outside the relay's ask (it would belong on a sagas shelf) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

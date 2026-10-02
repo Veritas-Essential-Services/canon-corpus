@@ -235,8 +235,10 @@
     },
     {
       "id": "dasent",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — George Webbe Dasent: Popular Tales from the Norse, Tales from the Fjeld; translator recorded; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — George Webbe Dasent: Popular Tales from the Norse, Tales from the Fjeld; translator recorded; no minting",
+      "finished": "2026-10-02T16:48:45-05:00",
+      "notes": "2/2 fetched (Gutenberg 8933, 36385), 5,716 units; translator Dasent captured from both headers. Fjeld: 14 ids carry ~2 (two different tales titled The Haunted Mill; The Companion headed over frame and tale)."
     },
     {
       "id": "ralston",

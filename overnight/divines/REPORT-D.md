@@ -141,3 +141,6 @@
 
 ## 2026-10-02 16:48 CDT — jacobs-fairy: done
 - 6/6 fetched (Gutenberg 7439, 14241, 7885, 34453, 7128, 26019), 8,226 units, 0 duplicate ids. English Fairy Tales by a Contents title list (43 tales) with repeat_continues (the JACK THE GIANT-KILLER display line); More English by its own Contents. 35862 held back as a probable retitling of Celtic Fairy Tales.
+
+## 2026-10-02 16:48 CDT — dasent: done
+- 2/2 fetched (Gutenberg 8933, 36385), 5,716 units; translator Dasent captured from both headers. Fjeld: 14 ids carry ~2 (two different tales titled The Haunted Mill; The Companion headed over frame and tale).
