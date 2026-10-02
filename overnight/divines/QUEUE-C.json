@@ -27,28 +27,33 @@
     },
     {
       "id": "shelf-cary",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF (added at coordinator relay 2026-10-02, Adam may veto) \u2014 Henry Francis Cary's Dante (Divine Comedy blank verse) + other PD Cary translations; each title its own slug; no minting"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay 2026-10-02, Adam may veto) \u2014 Henry Francis Cary's Dante (Divine Comedy blank verse) + other PD Cary translations; each title its own slug; no minting",
+      "started": "2026-10-02T15:36-05:00"
     },
     {
       "id": "shelf-longfellow",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Longfellow as translator: Divine Comedy + other translations (Coplas de Manrique, Poets and Poetry of Europe pieces); no minting"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Longfellow as translator: Divine Comedy + other translations (Coplas de Manrique, Poets and Poetry of Europe pieces); no minting",
+      "started": "2026-10-02T15:36-05:00"
     },
     {
       "id": "shelf-florio",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 John Florio: Montaigne's Essays (1603) and other PD Florio translations; no minting"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 John Florio: Montaigne's Essays (1603) and other PD Florio translations; no minting",
+      "started": "2026-10-02T15:36-05:00"
     },
     {
       "id": "shelf-burton",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Richard F. Burton: Arabian Nights (+ Supplemental Nights) and other PD Burton translations; no minting"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Richard F. Burton: Arabian Nights (+ Supplemental Nights) and other PD Burton translations; no minting",
+      "started": "2026-10-02T15:36-05:00"
     },
     {
       "id": "shelf-maude",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Aylmer & Louise Maude: Tolstoy, public-domain editions only (pre-1931 US); record edition/year; no minting"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Aylmer & Louise Maude: Tolstoy, public-domain editions only (pre-1931 US); record edition/year; no minting",
+      "started": "2026-10-02T15:36-05:00"
     }
   ]
 }
