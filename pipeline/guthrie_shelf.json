@@ -1,0 +1,25 @@
+{
+ "_about": "Public-domain William Guthrie (1620-1665, minister of Fenwick) for the Word Hoard: The Christian's Great Interest, clean from CCEL. Not Thomas Guthrie (1803-1873). Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "g/guthrie",
+ "_name_words": [
+  "guthrie"
+ ],
+ "_held": {},
+ "ccel": {
+  "guthrie-christians-great-interest": [
+   "interest2",
+   "The Christian's Great Interest, in two parts",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {
+  "christiansgreati00guthuoft (1825); christiansgreat00guth (1833, essay by Chalmers); christiansgreati00guth_0 (1750); christiansgreatin00guth (1763)": "Other printings; CCEL's clean text is held."
+ },
+ "_excluded": {
+  "collectionoflectu00guth (1809); collectionoflect00guth (1779)": "John Howie's collection of lectures and sermons by many Covenanting ministers (the text names Cargill, Peden, Cameron, Renwick and others as well as Guthrie): not Guthrie's alone. Worth a Covenanters shelf of its own.",
+  "coirmhorchriosdu* and other Gaelic printings": "Gaelic translations of The Christian's Great Interest.",
+  "christiansgreati0000guth (1982); christianssaving0000guth (1958)": "Modern reprints (lending library), not PD scans."
+ }
+}

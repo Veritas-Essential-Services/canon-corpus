@@ -734,3 +734,11 @@ Ten titles clean from CCEL; the Works (Brockenhurst: privately reprinted for G. 
 | A Collection of Sermons and Tracts (London: G. Keith, 1773), 2 vols | have-raw | IA `collectionofserm01gill`, `collectionofserm02gill` |
 | An Exposition of the Old Testament; of the New Testament (9 vols) | pending | only scattered 18th-century volumes on IA; no complete set verified |
 | Modern retypings (Parisis uploads, 2016 compilation) and 1970s-80s reprints | excluded | no library provenance, or not PD scans |
+
+## William Guthrie (round 4, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian's Great Interest, in two parts | have | CCEL `interest2` (`guthrie-christians-great-interest`) |
+| Printings of 1750, 1763, 1825, 1833 | alternate | CCEL's clean text is held |
+| A Collection of Lectures and Sermons (ed. John Howie, 1779, 1809) | excluded here | many Covenanting preachers, Guthrie among them; would suit a Covenanters shelf |
