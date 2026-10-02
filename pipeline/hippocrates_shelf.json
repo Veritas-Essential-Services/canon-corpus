@@ -1,27 +1,161 @@
 {
- "_about": "Hippocrates in Francis Adams's The Genuine Works of Hippocrates (Sydenham Society, 1849), 2 vols.: vol. 1 clean Gutenberg (from the 1886 New York reprint), vol. 2 raw IA OCR of the 1849 Sydenham printing.",
- "_name_words": [
-  "hippocrates",
-  "genuine",
-  "works"
- ],
- "ccel": {},
- "gutenberg": {
-  "hippocrates-adams-v1": [
-   72583,
-   "The Genuine Works of Hippocrates, vol. 1",
-   "tr. Francis Adams"
-  ]
- },
- "internet_archive": {
-  "hippocrates-adams-v2": [
-   "b33291408_0004",
-   "The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849)",
-   "tr. Francis Adams"
-  ]
- },
- "_excluded": {
-  "genuineworksofhi02hippuoft": "empty text layer",
-  "Jones and Withington, Loeb (1923-31)": "Greek facing; pending"
- }
+  "_about": "Hippocrates in Francis Adams's The Genuine Works of Hippocrates (Sydenham Society, 1849), 2 vols.: vol. 1 clean Gutenberg (from the 1886 New York reprint), vol. 2 raw IA OCR of the 1849 Sydenham printing. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+  "_name_words": [
+    "hippocrates",
+    "genuine",
+    "works"
+  ],
+  "ccel": {},
+  "gutenberg": {
+    "hippocrates-adams-v1": [
+      72583,
+      "The Genuine Works of Hippocrates, vol. 1",
+      "tr. Francis Adams"
+    ]
+  },
+  "internet_archive": {
+    "hippocrates-adams-v2": [
+      "b33291408_0004",
+      "The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849)",
+      "tr. Francis Adams"
+    ]
+  },
+  "_excluded": {
+    "genuineworksofhi02hippuoft": "empty text layer",
+    "Jones and Withington, Loeb (1923-31)": "Greek facing; pending"
+  },
+  "perseus": {
+    "hippocrates-perseus-adams-aphorisms": [
+      "tlg0627.tlg012.perseus-eng2",
+      "Aphorisms",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-airs-waters-and-places": [
+      "tlg0627.tlg002.perseus-eng3",
+      "Airs, Waters, and Places",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 1. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-jones-airs-waters-places": [
+      "tlg0627.tlg002.perseus-eng4",
+      "Airs Waters Places",
+      "William Henry Samuel Jones",
+      "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, Vol. 1. Jones, William Henry Samuel, translator. London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1923 (printing)."
+    ],
+    "hippocrates-perseus-jones-nutriment": [
+      "tlg0627.tlg046.perseus-eng2",
+      "Nutriment",
+      "William Henry Samuel Jones",
+      "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, Vol. 1. Jones, William Henry Samuel, editor. London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1923 (printing)."
+    ],
+    "hippocrates-perseus-adams-on-the-articulations": [
+      "tlg0627.tlg010.perseus-eng2",
+      "On the Articulations",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-injuries-of-the-head": [
+      "tlg0627.tlg007.perseus-eng2",
+      "On Injuries of the Head",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 1. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-regimen-in-acute-diseases": [
+      "tlg0627.tlg004.perseus-eng2",
+      "On Regimen in Acute Diseases",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 1. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-fistulae": [
+      "tlg0627.tlg030.perseus-eng2",
+      "On Fistulae",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-fractures": [
+      "tlg0627.tlg009.perseus-eng2",
+      "On Fractures",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-hemorrhoids": [
+      "tlg0627.tlg029.perseus-eng2",
+      "On Hemorrhoids",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-the-sacred-disease": [
+      "tlg0627.tlg027.perseus-eng2",
+      "On the Sacred Disease",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-the-surgery": [
+      "tlg0627.tlg008.perseus-eng2",
+      "On the Surgery",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-on-ancient-medicine": [
+      "tlg0627.tlg001.perseus-eng3",
+      "On Ancient Medicine",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 1. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-jones-ancient-medicine": [
+      "tlg0627.tlg001.perseus-eng4",
+      "Ancient Medicine",
+      "William Henry Samuel Jones",
+      "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, Vol. 1. Jones, William Henry Samuel, translator. London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1923 (printing)."
+    ],
+    "hippocrates-perseus-adams-on-ulcers": [
+      "tlg0627.tlg028.perseus-eng2",
+      "On Ulcers",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-the-epidemics": [
+      "tlg0627.tlg006.perseus-eng3",
+      "The Epidemics",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 1. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-the-oath": [
+      "tlg0627.tlg013.perseus-eng4",
+      "The Oath",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-jones-oath": [
+      "tlg0627.tlg013.perseus-eng5",
+      "Oath",
+      "William Henry Samuel Jones",
+      "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, Vol. 1. Jones, William Henry Samuel, editor. London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1923 (printing)."
+    ],
+    "hippocrates-perseus-adams-the-law": [
+      "tlg0627.tlg014.perseus-eng2",
+      "The Law",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-jones-precepts": [
+      "tlg0627.tlg051.perseus-eng2",
+      "Precepts",
+      "William Henry Samuel Jones",
+      "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, Vol. 1. Jones, William Henry Samuel, editor. London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1923 (printing)."
+    ],
+    "hippocrates-perseus-adams-of-the-prognostics": [
+      "tlg0627.tlg003.perseus-eng2",
+      "Of the Prognostics",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 1. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ],
+    "hippocrates-perseus-adams-mochlicus": [
+      "tlg0627.tlg011.perseus-eng2",
+      "Mochlicus",
+      "Francis Adams",
+      "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+    ]
+  }
 }

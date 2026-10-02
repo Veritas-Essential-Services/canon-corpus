@@ -1155,6 +1155,28 @@ Shelf: `pipeline/hippocrates_shelf.json`. Adams: vol. 1 Gutenberg, vol. 2 Sydenh
 |---|---|---|---|
 | The Genuine Works of Hippocrates, vol. 1 | Francis Adams | `hippocrates-adams-v1` | have (PG 72583) |
 | The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849) | Francis Adams | `hippocrates-adams-v2` | have-raw (IA `b33291408_0004`) |
+| Aphorisms | Francis Adams | `hippocrates-perseus-adams-aphorisms` | have (Perseus TEI `tlg0627.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| Airs, Waters, and Places | Francis Adams | `hippocrates-perseus-adams-airs-waters-and-places` | have (Perseus TEI `tlg0627.tlg002.perseus-eng3`; markup CC BY-SA 4.0) |
+| Airs Waters Places | William Henry Samuel Jones | `hippocrates-perseus-jones-airs-waters-places` | have (Perseus TEI `tlg0627.tlg002.perseus-eng4`; markup CC BY-SA 4.0) |
+| Nutriment | William Henry Samuel Jones | `hippocrates-perseus-jones-nutriment` | have (Perseus TEI `tlg0627.tlg046.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Articulations | Francis Adams | `hippocrates-perseus-adams-on-the-articulations` | have (Perseus TEI `tlg0627.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Injuries of the Head | Francis Adams | `hippocrates-perseus-adams-on-injuries-of-the-head` | have (Perseus TEI `tlg0627.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Regimen in Acute Diseases | Francis Adams | `hippocrates-perseus-adams-on-regimen-in-acute-diseases` | have (Perseus TEI `tlg0627.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Fistulae | Francis Adams | `hippocrates-perseus-adams-on-fistulae` | have (Perseus TEI `tlg0627.tlg030.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Fractures | Francis Adams | `hippocrates-perseus-adams-on-fractures` | have (Perseus TEI `tlg0627.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Hemorrhoids | Francis Adams | `hippocrates-perseus-adams-on-hemorrhoids` | have (Perseus TEI `tlg0627.tlg029.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Sacred Disease | Francis Adams | `hippocrates-perseus-adams-on-the-sacred-disease` | have (Perseus TEI `tlg0627.tlg027.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Surgery | Francis Adams | `hippocrates-perseus-adams-on-the-surgery` | have (Perseus TEI `tlg0627.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Ancient Medicine | Francis Adams | `hippocrates-perseus-adams-on-ancient-medicine` | have (Perseus TEI `tlg0627.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
+| Ancient Medicine | William Henry Samuel Jones | `hippocrates-perseus-jones-ancient-medicine` | have (Perseus TEI `tlg0627.tlg001.perseus-eng4`; markup CC BY-SA 4.0) |
+| On Ulcers | Francis Adams | `hippocrates-perseus-adams-on-ulcers` | have (Perseus TEI `tlg0627.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Epidemics | Francis Adams | `hippocrates-perseus-adams-the-epidemics` | have (Perseus TEI `tlg0627.tlg006.perseus-eng3`; markup CC BY-SA 4.0) |
+| The Oath | Francis Adams | `hippocrates-perseus-adams-the-oath` | have (Perseus TEI `tlg0627.tlg013.perseus-eng4`; markup CC BY-SA 4.0) |
+| Oath | William Henry Samuel Jones | `hippocrates-perseus-jones-oath` | have (Perseus TEI `tlg0627.tlg013.perseus-eng5`; markup CC BY-SA 4.0) |
+| The Law | Francis Adams | `hippocrates-perseus-adams-the-law` | have (Perseus TEI `tlg0627.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| Precepts | William Henry Samuel Jones | `hippocrates-perseus-jones-precepts` | have (Perseus TEI `tlg0627.tlg051.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | have (Perseus TEI `tlg0627.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | have (Perseus TEI `tlg0627.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Jones/Withington Loeb (Greek facing)
 
