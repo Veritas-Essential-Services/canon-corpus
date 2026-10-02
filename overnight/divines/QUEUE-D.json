@@ -371,8 +371,10 @@
     },
     {
       "id": "steel",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Flora Annie Steel's Tales of the Punjab and English Fairy Tales; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Flora Annie Steel's Tales of the Punjab and English Fairy Tales; no minting",
+      "finished": "2026-10-02T17:20:12-05:00",
+      "notes": "2/2 fetched (Gutenberg 6145, 17034), 3,888 units; Punjab nested (0 ~2), English Fairy Tales 24 ~2 from captions."
     },
     {
       "id": "crane",

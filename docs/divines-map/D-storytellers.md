@@ -976,6 +976,16 @@ Shelf: `pipeline/mitford_shelf.json` (2026-10-02; added at the coordinator's rel
 | Tales of Old Japan, tr. A. B. Mitford (1871) | have | PG 13015, `mitford-tales-of-old-japan` (1630 units) |
 | mitford-memoirs | excluded | The Attache at Peking (PG 70467) and his Memories (76182-76184): memoir, not tales |
 
+## Flora Annie Steel (folk tales)
+
+Shelf: `pipeline/steel_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales of the Punjab with R. C. Temple's notes, the notes nested under NOTES TO TALES so they do not share a tale's id; and her retold English Fairy Tales, whose picture captions the house rule takes for headings in places (24 ~2 ids). Her novels are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales of the Punjab: Folklore of India, told by Flora Annie Steel, notes by R. C. Temple (1894) | have | PG 6145, `steel-tales-of-the-punjab` (1815 units) |
+| English Fairy Tales, retold by Flora Annie Steel (1918) | have | PG 17034, `steel-english-fairy-tales` (2073 units) |
+| steel-novels | excluded | her novels and Indian stories (On the Face of the Waters and some twenty others, PG 39794-40142): fiction, outside a folk-tale batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

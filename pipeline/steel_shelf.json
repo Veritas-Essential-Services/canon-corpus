@@ -1,0 +1,35 @@
+{
+ "_about": "Flora Annie Steel's (1847-1929) folk tales: Tales of the Punjab (1894, the stories she gathered in the Punjab, with R. C. Temple's notes; first issued as Wide-Awake Stories, 1884) and her retold English Fairy Tales (1918, ill. Arthur Rackham). Clean Gutenberg text; US public domain. Her novels are not taken. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Flora Annie Steel",
+ "_name_words": [
+  "punjab",
+  "english",
+  "fairy",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "steel-tales-of-the-punjab": [
+   6145,
+   "Tales of the Punjab: Folklore of India, told by Flora Annie Steel, notes by R. C. Temple (1894)",
+   {
+    "levels": [
+     {
+      "re": "NOTES TO TALES$"
+     },
+     {
+      "re": "[A-Z][A-Z’' ,.:!-]{3,}$"
+     }
+    ]
+   }
+  ],
+  "steel-english-fairy-tales": [
+   17034,
+   "English Fairy Tales, retold by Flora Annie Steel (1918)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "steel-novels": "her novels and Indian stories (On the Face of the Waters and some twenty others, PG 39794-40142): fiction, outside a folk-tale batch"
+ }
+}
