@@ -1,5 +1,5 @@
 {
- "_about": "Lucretius in English, translator per title: H. A. J. Munro (prose; 4th ed. vol. 3, the translation, 1900 printing; raw IA), Cyril Bailey (prose, Oxford 1910; raw IA), R. C. Trevelyan (verse selections, 1920; clean Gutenberg). William Ellery Leonard's verse translation (1916) is already on the Adler shelf as lucretius-nature (PG 785), which that shelf labels 'tr. Munro'; PG 785 names Leonard.",
+ "_about": "Lucretius in English, translator per title: H. A. J. Munro (prose; 4th ed. vol. 3, the translation, 1900 printing; raw IA), Cyril Bailey (prose, Oxford 1910; raw IA), R. C. Trevelyan (verse selections, 1920; clean Gutenberg). William Ellery Leonard's verse translation (1916) is already on the Adler shelf as lucretius-nature (PG 785), which that shelf labels 'tr. Munro'; PG 785 names Leonard. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "lucretius",
   "lucreti",
@@ -24,6 +24,16 @@
    "lucretiusonthena00lucruoft",
    "Lucretius on the Nature of Things (Oxford, 1910)",
    "tr. Cyril Bailey"
+  ],
+  "lucretius-creech-v1": [
+   "tlucretiuscaruso01lucr",
+   "T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714)",
+   "tr. Thomas Creech"
+  ],
+  "lucretius-creech-v2": [
+   "tlucretiuscaruso02lucr",
+   "T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714)",
+   "tr. Thomas Creech"
   ]
  },
  "_cross_ref": {
