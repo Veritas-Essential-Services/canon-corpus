@@ -201,6 +201,9 @@ The living truth for project state is the Obsidian vault:
   Orations, Epiphanius' Ancoratus, Cyril on the Twelve Prophets. Honesty
   names the edition whose numbering the ids are ("numbered as the printed
   edition numbers it (Dindorf, 1871)"): never claim the standard numbering.
+  Wave 3: the church historians after Eusebius (Socrates, Sozomen,
+  Theodoret, Evagrius, Gelasius), Theodoret's Religious History, Mark the
+  Deacon's Porphyry, the Greek Perpetua.
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of

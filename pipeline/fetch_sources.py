@@ -164,6 +164,35 @@ FIRST1K = {
     "cyril-alexandria-xii-prophetas-grc": ("tlg4090/tlg001/tlg4090.tlg001.1st1K-grc1.xml",
         "Cyril of Alexandria, Commentary on the Twelve Prophets -- Greek, ed. P. E. Pusey "
         "(Oxford: Clarendon, 1868); parts of the OCR are damaged, flagged per unit"),
+    # Wave 3, 2026-10-02: the church historians after Eusebius. NOT taken:
+    #   - Philostorgius (Bidez 1913): what survives is Photius's epitome and
+    #     testimonia, and Bidez's German source labels and apparatus run
+    #     through the text of half its units;
+    #   - Theodoret's Church History in Migne (1864): Parmentier's GCS text
+    #     (1911) taken instead, divided to the section.
+    "socrates-historia-ecclesiastica-grc": ("tlg2057/tlg002/tlg2057.tlg002.1st1K-grc1.xml",
+        "Socrates Scholasticus, Church History -- Greek, ed. Robert Hussey, rev. William Bright "
+        "(Oxford: Clarendon, 1893)"),
+    "sozomen-historia-ecclesiastica-grc": ("tlg2048/tlg001/tlg2048.tlg001.1st1K-grc1.xml",
+        "Sozomen, Church History -- Greek, ed. Robert Hussey (Oxford, 1860)"),
+    "theodoret-historia-ecclesiastica-grc": ("tlg4089/tlg003/tlg4089.tlg003.opp-grc1.xml",
+        "Theodoret, Church History -- Greek, ed. Léon Parmentier (GCS, Hinrichs, 1911); some "
+        "apparatus runs into the text, flagged per unit"),
+    "theodoret-historia-religiosa-grc": ("tlg4089/tlg004/tlg4089.tlg004.1st1K-grc1.xml",
+        "Theodoret, Religious History (lives of the Syrian monks) -- Greek, ed. J. L. Schulze, "
+        "repr. Migne PG 82 (1864)"),
+    "evagrius-historia-ecclesiastica-grc": ("tlg2733/tlg001/tlg2733.tlg001.1st1K-grc1.xml",
+        "Evagrius Scholasticus, Church History -- Greek, ed. Joseph Bidez & Léon Parmentier "
+        "(London: Methuen, 1898)"),
+    "gelasius-historia-ecclesiastica-grc": ("tlg2768/tlg001/tlg2768.tlg001.1st1K-grc1.xml",
+        "Gelasius of Cyzicus, Church History -- Greek, ed. Gerhard Loeschke & Margret Heinemann "
+        "(GCS, Hinrichs, 1918); it quotes Athanasius, De decretis 41-42, also a book here"),
+    "mark-deacon-vita-porphyrii-grc": ("tlg2806/tlg001/tlg2806.tlg001.1st1K-grc1.xml",
+        "Mark the Deacon, Life of Porphyry of Gaza -- Greek, ed. the Bonn philological society "
+        "(Leipzig: Teubner, 1895)"),
+    "passio-perpetuae-grc": ("tlg2016/tlg001/tlg2016.tlg001.1st1K-grc1.xml",
+        "The Passion of Perpetua and Felicity, Greek version -- ed. J. Armitage Robinson "
+        "(Cambridge UP, 1891)"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes

@@ -8692,5 +8692,165 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Eusebius Werke, Leipzig, 1906); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
+ },
+ "evagrius-historia-ecclesiastica-grc": {
+  "title": "Historia Ecclesiastica",
+  "author": "Evagrius, Scholasticus",
+  "format": "tei",
+  "sha256": "2c7df17614936c1d13e8bba18ec8071152126aab4840af7f4f285650dbc88f73",
+  "units": 183,
+  "scheme": {
+   "citation": "Evagr. HE book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Bidez & Leon Parmentier, 1898). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 532 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Joseph Bidez & Leon Parmentier, The ecclesiastical history of Evagrius with the scholia, London, 1898); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "socrates-historia-ecclesiastica-grc": {
+  "title": "Historia Ecclesiastica",
+  "author": "Socrates, Scholasticus",
+  "format": "tei",
+  "sha256": "c7d69d9e71f508f930b886db4fe570365e54a85cdcf27ace7f3cb35475c5e763",
+  "units": 250,
+  "scheme": {
+   "citation": "Socr. HE book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Robert Hussey & William Bright, 1893). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 624 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Robert Hussey & William Bright, Socrates' Ecclesiastical history, Oxford, 1893); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "sozomen-historia-ecclesiastica-grc": {
+  "title": "Historia Ecclesiastica",
+  "author": "Sozomenus, Salaminius Hermias",
+  "format": "tei",
+  "sha256": "041344476e40481ca52d4f70ae74f10249ee2b0ff9ba188fbb1a64af16bbcf4a",
+  "units": 2165,
+  "scheme": {
+   "citation": "Soz. HE book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Robert Hussey, 1860). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Robert Hussey, Sozomeni Ecclesiastica Historia, Oxford, 1860); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "theodoret-historia-ecclesiastica-grc": {
+  "title": "Historia ecclesiastica ",
+  "author": "Theodoretus",
+  "format": "tei",
+  "sha256": "c777ac455a0893206a8de2794dcd481a795b9d47d8430b553be48542cd560d3f",
+  "units": 1347,
+  "scheme": {
+   "citation": "Thdt. HE book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Léon Parmentier, 1911). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 1183 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 203 word(s) in 26 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Léon Parmentier, Theodoret Kirchengeschichte, Leipzig, 1911); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "theodoret-historia-religiosa-grc": {
+  "title": "Historia Religiosa",
+  "author": "Theodoret, Bishop of Cyrus",
+  "format": "tei",
+  "sha256": "ee7041ed104cb6fb3b67bc65cabdce5ac55c48d36944eb7d6782b015afcd67c0",
+  "units": 31,
+  "scheme": {
+   "citation": "Thdt. Hist. rel. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Johann Ludwig Schulze, 1864). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Johann Ludwig Schulze, Theodoretus Cyrensis Episcopus Opera Omnia, Paris, 1864); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "gelasius-historia-ecclesiastica-grc": {
+  "title": "Historia Ecclesiastica",
+  "author": "Gelasius",
+  "format": "tei",
+  "sha256": "a12b4de76c2385c31c5276c9c7010cb943c1b2fa687842aeb7040d9d0ec33e38",
+  "units": 962,
+  "scheme": {
+   "citation": "Gelas. HE book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Margret Heinemann & Gerhard Loeschke, 1918). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 506 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 15 word(s) in 12 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Margret Heinemann & Gerhard Loeschke, Gelasius Kirchengeschichte, Leipzig, 1918); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "mark-deacon-vita-porphyrii-grc": {
+  "title": "Vita Porphyrii episcopi Gazensis",
+  "author": "Marcus Diaconus",
+  "format": "tei",
+  "sha256": "5473f5da33469a59a71b54a71b846b84f48e40ba55fe23758743329bcb542787",
+  "units": 73,
+  "scheme": {
+   "citation": "Marc. Diac. V. Porph. chapter.paragraph",
+   "resolution": "paragraph",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Societatis philologae bonnensis sodales, 1895). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 205 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 14 word(s) in 9 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Societatis philologae bonnensis sodales, Vita Porphyrii episcopi Gazensis, Leipzig, 1895); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "passio-perpetuae-grc": {
+  "title": "Μαρτύριον Περπετούας",
+  "author": "Martyrium Perpetuae et Felcitatis",
+  "format": "tei",
+  "sha256": "794cbdcd539878a994523c04f66e57d4583f6b1a3b03f241b85f1db98b05e8fd",
+  "units": 22,
+  "scheme": {
+   "citation": "Pass. Perp. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (J. Armitage Robinson, 1891). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 5 word(s) in 5 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. Armitage Robinson, The Passion of S. Perpetua, Cambridge, 1891); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
  }
 }

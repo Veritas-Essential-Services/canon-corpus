@@ -627,6 +627,15 @@ TEI_PROSE = {
     "gregory-nazianzen-oration-31-grc": "Greg. Naz. Or. 31",
     "epiphanius-ancoratus-grc": "Epiph. Anc.",
     "cyril-alexandria-xii-prophetas-grc": "Cyr. Al. In XII Proph.",
+    # Wave 3: the Greek church historians after Eusebius.
+    "socrates-historia-ecclesiastica-grc": "Socr. HE",
+    "sozomen-historia-ecclesiastica-grc": "Soz. HE",
+    "theodoret-historia-ecclesiastica-grc": "Thdt. HE",
+    "theodoret-historia-religiosa-grc": "Thdt. Hist. rel.",
+    "evagrius-historia-ecclesiastica-grc": "Evagr. HE",
+    "gelasius-historia-ecclesiastica-grc": "Gelas. HE",
+    "mark-deacon-vita-porphyrii-grc": "Marc. Diac. V. Porph.",
+    "passio-perpetuae-grc": "Pass. Perp.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
