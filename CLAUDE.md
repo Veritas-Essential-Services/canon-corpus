@@ -86,8 +86,12 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 60 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 68 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
+    python3 pipeline/build_versification.py --check    # Hebrew->KJV map byte-identical; WLC invariants
+    python3 pipeline/build_versification.py --measure  # BDB cites in Hebrew numbering: the evidence
+    python3 tests/versification_test.py      # the map, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -148,6 +152,10 @@ The living truth for project state is the Obsidian vault:
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
+  -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
+  4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
+  BDB's scripture citations through it.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
@@ -198,9 +206,17 @@ states "Public domain document". Recorded per entry in `LEXICONS`.
 versification, which parts company with the KJV's — most visibly in Psalms,
 where a superscription counts as verse 1 and shifts every later verse. So its
 **139,125 scripture citations are recorded as the source stated them**
-(`{osis, ref, versification: "bhs", resolved: false}`) and are NOT resolved to
-`kjv:` unit ids. Resolving them needs a versification map; that is its own
-piece of work. A labelled hole beats a confident wrong label.
+(`{osis, ref, versification: "bhs"}`), and since 2026-10-02 each is resolved
+through a Hebrew->KJV map, `data/versification/bhs-kjv.json`
+(`pipeline/build_versification.py`): **137,780 carry `target: "kjv:..."`**;
+1,345 stay `resolved: false` with a `why` (psalm titles, which the KJV does
+not number; references that name no Hebrew verse; NT references). The map is
+STEPBible's TVTMS (CC BY 4.0; only the derived OT Hebrew/KJV subset is
+committed, `redistribute_whole: false`), and the build refuses to write
+unless every one of the WLC's 23,213 verses lands on a KJV unit id. That BDB
+really numbers in Hebrew is measured, not assumed (`--measure`): where the
+schemes differ, the entry's own word is in the cited Hebrew verse 72% of the
+time and in the same-numbered KJV verse 5.5%.
 
 **Thayer's (added 2026-09-06) is the one book here that was OCR'd, not
 fetched.** It is PD and scanned (archive.org `greekenglishlexi00grimuoft`,
