@@ -67,8 +67,11 @@
     },
     {
       "id": "kingsley",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Kingsley: The Heroes, The Water-Babies, and his other PD works; shelf + fetch + convert + map section; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Kingsley: The Heroes, The Water-Babies, and his other PD works; shelf + fetch + convert + map section; no minting",
+      "started": "2026-10-02T15:46:13-05:00",
+      "finished": "2026-10-02T15:46:13-05:00",
+      "notes": "43/43 fetched (0 CCEL, 43 Gutenberg, 0 IA raw), 19.9 MB, 0 failed, 0 copyright markers; 42788 units converted. All 43 English Gutenberg texts: The Heroes, The Water-Babies, the novels, poems, sermons, lectures. Water-Babies cites by its 8 chapters. No uids minted; not in manifest."
     },
     {
       "id": "hawthorne-wonder",

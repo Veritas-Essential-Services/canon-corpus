@@ -1,0 +1,205 @@
+{
+ "_about": "Every public-domain Charles Kingsley (1819-1875) text on Gutenberg: the children's books (The Heroes, The Water-Babies, Madam How and Lady Why), the novels (Westward Ho!, Hypatia, Hereward, Alton Locke, Yeast, Two Years Ago), poems and plays, sermons, lectures and essays. Clean Gutenberg text throughout; CCEL holds no Kingsley. Published before 1930: US public domain.",
+ "_author": "Charles Kingsley",
+ "_name_words": [
+  "charles",
+  "kingsley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kingsley-heroes": [
+   677,
+   "The Heroes; Or, Greek Fairy Tales for My Children"
+  ],
+  "kingsley-glaucus": [
+   695,
+   "Glaucus; Or, The Wonders of the Shore"
+  ],
+  "kingsley-water-babies": [
+   1018,
+   "The Water-Babies",
+   {
+    "chapre_only": "CHAPTER [IVX]+( AND LAST)?\\.?$"
+   }
+  ],
+  "kingsley-alexandria-and-her-schools": [
+   1275,
+   "Alexandria and Her Schools Four Lectures Delivered at the Philosophical Institution, Edinburgh"
+  ],
+  "kingsley-ancien-regime": [
+   1335,
+   "The Ancien Régime"
+  ],
+  "kingsley-historical-lectures-and-essays": [
+   1360,
+   "Historical Lectures and Essays"
+  ],
+  "kingsley-sanitary-and-social-lectures-and-essays": [
+   1637,
+   "Sanitary and Social Lectures and Essays",
+   {
+    "contents_only": true
+   }
+  ],
+  "kingsley-madam-how-and-lady-why": [
+   1697,
+   "Madam How and Lady Why; Or, First Lessons in Earth Lore for Children"
+  ],
+  "kingsley-westward-ho": [
+   1860,
+   "Westward Ho! Or, The Voyages and Adventures of Sir Amyas Leigh, Knight, of Burrough, in the County of Devon, in the Reig",
+   {
+    "contents_only": true
+   }
+  ],
+  "kingsley-plays-and-puritans": [
+   3142,
+   "Plays and Puritans"
+  ],
+  "kingsley-sir-walter-raleigh-and-his-time": [
+   3143,
+   "Sir Walter Raleigh and His Time"
+  ],
+  "kingsley-froudes-history-of-england": [
+   3144,
+   "Froude's History of England"
+  ],
+  "kingsley-roman-and-the-teuton": [
+   3821,
+   "The Roman and the Teuton A Series of Lectures delivered before the University of Cambridge (ed. F. Max Müller)"
+  ],
+  "kingsley-water-of-life-and-other-sermons": [
+   5687,
+   "The Water of Life, and Other Sermons"
+  ],
+  "kingsley-hypatia": [
+   6308,
+   "Hypatia — or New Foes with an Old Face"
+  ],
+  "kingsley-prose-idylls-new-and-old": [
+   7032,
+   "Prose Idylls, New and Old"
+  ],
+  "kingsley-discipline-and-other-sermons": [
+   7042,
+   "Discipline and Other Sermons"
+  ],
+  "kingsley-good-news-of-god": [
+   7051,
+   "The Good News of God"
+  ],
+  "kingsley-hereward": [
+   7815,
+   "Hereward, the Last of the English"
+  ],
+  "kingsley-twenty-five-village-sermons": [
+   7954,
+   "Twenty-Five Village Sermons"
+  ],
+  "kingsley-sermons-on-national-subjects": [
+   8202,
+   "Sermons on National Subjects",
+   {
+    "contents_only": true
+   }
+  ],
+  "kingsley-alton-locke": [
+   8374,
+   "Alton Locke, Tailor and Poet: An Autobiography",
+   {
+    "contents_only": true
+   }
+  ],
+  "kingsley-hermits": [
+   8733,
+   "The Hermits"
+  ],
+  "kingsley-all-saints-day-and-other-sermons": [
+   10116,
+   "All Saints' Day and Other Sermons"
+  ],
+  "kingsley-town-geology": [
+   10251,
+   "Town Geology"
+  ],
+  "kingsley-gospel-of-the-pentateuch": [
+   10325,
+   "The Gospel of the Pentateuch: A Set of Parish Sermons"
+  ],
+  "kingsley-david": [
+   10326,
+   "David: Five Sermons"
+  ],
+  "kingsley-yeast": [
+   10364,
+   "Yeast: a Problem"
+  ],
+  "kingsley-scientific-essays-and-lectures": [
+   10427,
+   "Scientific Essays and Lectures"
+  ],
+  "kingsley-at-last": [
+   10669,
+   "At Last: A Christmas in the West Indies"
+  ],
+  "kingsley-two-years-ago-1": [
+   10920,
+   "Two Years Ago, Volume I"
+  ],
+  "kingsley-two-years-ago-2": [
+   10995,
+   "Two Years Ago, Volume II."
+  ],
+  "kingsley-phaethon": [
+   11025,
+   "Phaethon: Loose Thoughts for Loose Thinkers"
+  ],
+  "kingsley-literary-and-general-lectures-and-essays": [
+   11026,
+   "Literary and General Lectures and Essays"
+  ],
+  "kingsley-andromeda-and-other-poems": [
+   11064,
+   "Andromeda, and Other Poems"
+  ],
+  "kingsley-saints-tragedy": [
+   11346,
+   "The Saint's Tragedy"
+  ],
+  "kingsley-sermons-for-the-times": [
+   11381,
+   "Sermons for the Times"
+  ],
+  "kingsley-town-and-country-sermons": [
+   11536,
+   "Town and Country Sermons"
+  ],
+  "kingsley-health-and-education": [
+   17437,
+   "Health and Education"
+  ],
+  "kingsley-westminster-sermons-with-a-preface": [
+   18369,
+   "Westminster Sermons with a Preface"
+  ],
+  "kingsley-true-words-for-brave-men": [
+   20138,
+   "True Words for Brave Men: A Book for Soldiers' and Sailors' Libraries"
+  ],
+  "kingsley-women-and-politics": [
+   20433,
+   "Women and Politics"
+  ],
+  "kingsley-lectures-delivered-in-america-in-1874": [
+   30944,
+   "Lectures Delivered in America in 1874"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "kingsley-illustrated-duplicates": "The Water-Babies, PG 25564 (Goble) and 36309 (J. W. Smith): other transcriptions; PG 1018 held",
+  "kingsley-selections": "Daily Thoughts (PG 20711) and Out of the Deep (PG 20312): selections by his widow from works held",
+  "kingsley-finnish": "Finnish translations (PG 49025, 57285, 72487)",
+  "kingsley-pending": "PENDING, not fetched: Charles Kingsley: His Letters and Memories of His Life (ed. his widow, 1877), the Life and Works edition (1901-03), and the uncollected Poems volume of 1884 — Internet Archive scans"
+ }
+}
