@@ -45,3 +45,5 @@
 - cotton, ormsby, urquhart-motteux, fitzgerald, taylor, lane, guest: 12 sources fetched (0 failed after one title fix), 9 titles cut, 0 failed. Translator lines verified in every PG header; IA scans checked for the translator's name on the title page.
 - Note for lanes: lane B's newer fetch_shelf.py title-word check fails on accented titles (Rubáiyát); worked around in the shelf title, no change to the fetcher.
 - structure_test: 64 passed.
+
+## 2026-10-02T15:48-05:00 — session end: lock released. Queue empty again (14 shelves, 109 titles). Next worker: more translator shelves only with a clear source; see DIGEST-C pending lists (Gogol plays/Mirgorod, Maude Anna Karenina, Cary's Birds, Burton's held-back titles await Adam).
