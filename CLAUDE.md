@@ -126,6 +126,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
     python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
     python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
+    python3 pipeline/build_latin_key.py --fetch  # Lewis & Short (Perseus TEI, CC BY-SA), pinned
+    python3 pipeline/build_latin_key.py      # L&S key <- Whitaker lemma <- every Vulgate word
+    python3 pipeline/build_latin_key.py --check  # data/lemmas/latin-key byte-identical
+    python3 tests/latin_key_test.py          # the Latin key, its links, the Vulgate concordance
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
     python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
@@ -229,6 +233,14 @@ The living truth for project state is the Obsidian vault:
   with its KJV verses and renderings, lexicon entries, and Vulgate/Douay/Brenton
   verse ids where the numbering differs. OSHB's CC BY tags for data/ot/ build to build/ only,
   never committed. Rules: pipeline/README-strongs.md
+- pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
+  CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
+  entry key, homographs numbered: malus1) → data/lemmas/latin-key/ (COMMITTED:
+  entry keys and printed facts only, never definitions; whether even that may
+  be committed is Adam's call). Whitaker lemmas link to L&S by spelling and
+  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S keys,
+  `sure` or `possible`, never chosen (vulgate-forms, vulgate-concordance).
+  Mints nothing. Rules: pipeline/README-latin-key.md
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
   (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek

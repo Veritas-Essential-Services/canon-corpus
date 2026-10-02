@@ -1,0 +1,83 @@
+{
+ "schema": "wordhoard/latin-key/v1",
+ "key": "Lewis & Short's own entry key (Perseus `key`), cited lewis-short:<key>",
+ "sources": {
+  "lewis-short": {
+   "repo": "https://github.com/PerseusDL/lexica",
+   "commit": "56061ca127f4a2844980baffc5f2b6d1332897b3",
+   "path": "CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng2.xml",
+   "sha256": "a21c3799f42d33931b463c19a036b0e5c4a6504ccbd81ee55a262421a9e1836c",
+   "edition": "Lewis & Short, A Latin Dictionary (Oxford: Clarendon Press, 1879)",
+   "rights": {
+    "work": "public-domain (1879)",
+    "license": "CC BY-SA 4.0 (Perseus's machine-readable text)",
+    "attribution": "Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from The National Endowment for the Humanities. Data accessed from https://github.com/PerseusDL/lexica/ [2026-10-02].",
+    "source_url": "https://github.com/PerseusDL/lexica/tree/master/CTS_XML_TEI/perseus/pdllex/lat/ls",
+    "committed": "entry keys, Perseus entry ids, homograph numbers, entry types and the word-class tags only; no definition text",
+    "redistribute_whole": false
+   }
+  },
+  "whitaker": {
+   "commit": "1f2f0fb0867a896d7b9284a03d615ed635d6f992",
+   "license": "free-grant (README-lemma-spine.md s.1)",
+   "house_supplement": true,
+   "proper_names": true
+  },
+  "vulgate": {
+   "pin": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+   "license": "public-domain",
+   "verses": 35809,
+   "cited_as": "vulgate:<id>, the Vulgate's own numbering"
+  }
+ },
+ "counts": {
+  "lewis_short_entries": 51645,
+  "whitaker_lemmas": 40827,
+  "whitaker_lemmas_by_status": {
+   "ambiguous": 776,
+   "class": 1045,
+   "headword": 24608,
+   "none": 13427,
+   "spelling": 872,
+   "voice": 99
+  },
+  "vulgate_forms": 46316,
+  "vulgate_forms_by_status": {
+   "no-ls": 3933,
+   "several": 9521,
+   "sure": 32631,
+   "unread": 231
+  },
+  "vulgate_tokens_by_status": {
+   "no-ls": 19303,
+   "several": 176134,
+   "sure": 416090,
+   "unread": 502
+  },
+  "vulgate_keys": 9617
+ },
+ "not_claimed": [
+  "A Whitaker lemma is matched to L&S by headword, then by word class; never by meaning.",
+  "`possible` lists every reading WORDS allows; the build does not choose among them.",
+  "Words L&S does not have (Church Latin coinages, many names) keep their Whitaker lemma only.",
+  "No uid is proposed or minted."
+ ],
+ "files": {
+  "lewis-short.jsonl": {
+   "rows": 51645,
+   "sha256": "96c0a974fbb99fc8a4623cdfa7b2b306c623cc2170950bf6a40b735e7a3eed95"
+  },
+  "whitaker-ls.jsonl": {
+   "rows": 40827,
+   "sha256": "bd09bc9b28848665fb59b8ca12a0dbec6b7dabf938ef072fa1af9dcef2f9084d"
+  },
+  "vulgate-forms.jsonl": {
+   "rows": 46316,
+   "sha256": "56331cb7c1e2708647022c23d3dae276f2f52ab0bc0fa649413e5c63252a1d9d"
+  },
+  "vulgate-concordance.jsonl": {
+   "rows": 9617,
+   "sha256": "115f3eaeeed38c72ccedacaf0fd0b42acdc3b09c11811fc15ea469a7b90cd3e8"
+  }
+ }
+}
