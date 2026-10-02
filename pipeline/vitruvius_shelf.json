@@ -1,0 +1,20 @@
+{
+ "_about": "Vitruvius, The Ten Books on Architecture, in Morris Hicky Morgan's translation (1914), clean Gutenberg.",
+ "_name_words": [
+  "vitruvius",
+  "architecture"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "vitruvius-morgan": [
+   20239,
+   "The Ten Books on Architecture",
+   "tr. Morris Hicky Morgan"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Gwilt (1826)": "not yet located; pending",
+  "Perrault's abridgment (PG 27877)": "an abridgment; not taken"
+ }
+}
