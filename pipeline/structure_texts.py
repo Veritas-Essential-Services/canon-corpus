@@ -773,10 +773,15 @@ def convert_brenton(zpath, sha, slug="brenton"):
 
 # Per-book rules (golden rule 2: fixes live here, so they rerun on refetch).
 # Darby: CrossWire's module marks every "God", and scrollmapper's stripping of
-# the mark ate the space before it ("In the beginningGod", 3,437 times;
-# "Godhead" twice). No English word has a lower-case letter before "God".
+# the mark ate the space before it. The glued forms, counted in the source:
+# after a letter ("In the beginningGod", "OGod", "Am IGod"), after
+# punctuation (",God" 97 times, "]God", ":God", ".God", "?God", ";God") and
+# after a plural possessive ("fathers'God", Acts 24:14), with "Godhead"
+# twice. No English word ends in a letter or this punctuation and runs on
+# into "God". Left alone: an opening quote ("'God", Matt 1:23) and Ps 59:10's
+# dash ("me, —God"), where the source has its space before the dash.
 ENGLISH_RULES = {
-    "darby": [(re.compile(r"(?<=[a-z])(?=God(?:head)?\b)"), " ",
+    "darby": [(re.compile(r"(?<=[A-Za-z0-9,.;:?!\]])(?=God(?:head)?\b)|(?<=s')(?=God\b)"), " ",
                "a space restored before 'God', lost when the source's markup was stripped")],
     "tyndale": [(re.compile(r"\b(sayde|them|him|saynge)(?=(?:Wylt|And|Beholde|Whe)\b)"), r"\1 ",
                  "a space restored between two words the source runs together (Gen 18:23, "

@@ -1847,7 +1847,7 @@
    "rules": [
     {
      "why": "a space restored before 'God', lost when the source's markup was stripped",
-     "applied": 3681
+     "applied": 3936
     }
    ],
    "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/darby-kjv.json; no uids minted.",
