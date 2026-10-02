@@ -47,6 +47,51 @@
       "started": "2026-10-02T15:28:44-05:00",
       "finished": "2026-10-02T15:30:44-05:00",
       "notes": "Census only (no fetch: the pipeline needs a PERSEUS entry in fetch_sources.py). Scaife catalogue: 923 English greekLit/latinLit texts, 82 authors; 3 in build, 34 same translation held, 54 author-shelf, 832 gap (625 likely US PD). docs/perseus-census.md + .csv, pipeline/perseus_census.py. Finding: Williams's Aeneid is already in the build (aeneid-williams); Virgil map corrected."
+    },
+    {
+      "id": "homer",
+      "status": "todo",
+      "scope": "CLASSICAL (added by lane B from the Perseus census) \u2014 Homer, English, translator per work: Chapman, Pope, Cowper, Butler (Iliad/Odyssey Butler already in the build via Perseus), Bryant, Lang/Leaf/Myers and Butcher/Lang cross-ref \u2192 Lang shelf (lane D), Dryden's Homer cross-ref \u2192 Dryden shelf (lane C); shelf + fetch + map"
+    },
+    {
+      "id": "greek-tragedy",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Aeschylus and Euripides in PD English (Plumptre, Morshead, Coleridge, Way, Murray where PG clears it); Sophocles cross-ref the Jebb plays in the unmerged Sophocles PR, plus PD Gutenberg Sophocles (Plumptre, Storr where cleared); shelf + fetch + map"
+    },
+    {
+      "id": "aristophanes",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Aristophanes, PD English (Rogers, Frere, Hickie, the anonymous Athenian Society 1912); shelf + fetch + map"
+    },
+    {
+      "id": "greek-historians",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Herodotus (Rawlinson, Macaulay), Thucydides (Jowett, Crawley), Xenophon (Dakyns); shelf per author + fetch + map"
+    },
+    {
+      "id": "plutarch",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Plutarch's Lives (North 1579, Langhorne, Clough's revision of the Dryden translation cross-ref \u2192 Dryden shelf if lane C holds it) and Moralia (Goodwin 1870, King, Shilleto); shelf + fetch + map"
+    },
+    {
+      "id": "stoics",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Marcus Aurelius (George Long, Casaubon), Epictetus (Long, Higginson, Carter), Seneca (Lodge 1614, Stewart, Basore where cleared); shelf per author + fetch + map"
+    },
+    {
+      "id": "roman-historians",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Tacitus (Church and Brodribb), Livy (Roberts, Spillan), Caesar (McDevitte and Bohn), Suetonius (Thomson/Forester, Rolfe 1914), Sallust; shelf per author + fetch + map"
+    },
+    {
+      "id": "roman-poets",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Lucretius (Munro, Bailey 1910, Leonard where cleared), Horace (Conington, Lonsdale and Lee, Smart), Catullus (Burton, Cornish), Juvenal and Persius non-Dryden (Gifford), Plautus and Terence (Riley); Dryden's parts cross-ref lane C; shelf per author + fetch + map"
+    },
+    {
+      "id": "lucian-cicero",
+      "status": "todo",
+      "scope": "CLASSICAL (census) \u2014 Lucian (H. W. and F. G. Fowler 1905, 4 vols.), Cicero (Yonge, Peabody, Shuckburgh's Letters, Melmoth); shelf per author + fetch + map"
     }
   ]
 }
