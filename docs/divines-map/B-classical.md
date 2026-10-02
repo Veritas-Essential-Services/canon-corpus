@@ -172,6 +172,8 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | — | — | `hesiod-evelyn-white` | cross-ref → Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914) |
 | Homer, The Iliad, or Achilles' Wrath at the Siege of Ilion, in English blank verse (1864) | T. S. Norgate (attributed by catalogue) | `homer-norgate-iliad` | have-raw (IA `iliadorachillesw00homeuoft`) |
 | The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth) | Thomas Hobbes | `homer-hobbes-iliad-odyssey` | have-raw (IA `englishworksofth0010hobb_d2j3`) |
+| Iliad | Augustus Taber Murray | `homer-perseus-murray-iliad` | have (Perseus TEI `tlg0012.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
+| Odyssey | Augustus Taber Murray | `homer-perseus-murray-odyssey` | have (Perseus TEI `tlg0012.tlg002.perseus-eng3`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): A. T. Murray's Loeb Iliad (1924-25) and Odyssey (1919), on Perseus, US PD by date; 
 
