@@ -1,0 +1,25 @@
+{
+ "_about": "The minor Roman historians in J. S. Watson's Bohn translations, raw IA OCR: Justin, Cornelius Nepos and Eutropius (1853); and Sallust, Florus and Velleius Paterculus (1852), taken for Florus and Velleius (Watson's Sallust is already on the sallust shelf from Gutenberg).",
+ "_name_words": [
+  "justin",
+  "nepos",
+  "eutropius",
+  "florus",
+  "velleius",
+  "paterculus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "justin-nepos-eutropius-watson": [
+   "justincorneliusn00watsuoft",
+   "Justin, Cornelius Nepos, and Eutropius (Bohn, 1853)",
+   "tr. John Selby Watson"
+  ],
+  "sallust-florus-velleius-watson": [
+   "sallustflorusve00sall",
+   "Sallust, Florus, and Velleius Paterculus (Bohn, 1852)",
+   "tr. John Selby Watson"
+  ]
+ }
+}
