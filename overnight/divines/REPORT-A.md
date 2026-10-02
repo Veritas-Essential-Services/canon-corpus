@@ -172,3 +172,7 @@
 ## 2026-10-02 17:05 CDT — scougal done; completeness sweep
 - `pipeline/scougal_shelf.json`: The Life of God in the Soul of Man from CCEL, converted (96 units, 3 links); the Works (Pittsburgh, 1830; 286 page images for xii + 272 pages) raw IA OCR, 98.8%. `--verify`: 0 mismatched. 0 uids minted.
 - Completeness sweep after the partial Shepard scan: IA page images against the catalogue's page count for all 309 lane-A IA items. No other short scan found. One item has 33 images for 422 pages (`MN41487ucmf_5`, H. Bonar's Light and Truth), but it is microfilm with several pages a frame, and its 743 KB of text fits the book. Caveat: many IA records give no page count, so this check cannot clear them.
+
+## 2026-10-02 17:09 CDT — william-law done
+- `pipeline/william-law_shelf.json`: 10 CCEL titles converted (6,453 units, only 223 links: Law cites little scripture by reference); the Works (1892-93 reprint), 9 vols, raw IA OCR, median 99.5%. About 11 MB. `--verify`: 0 mismatched. CCEL `justific` is a stub; `humbleearnest` repeats two held files.
+- Weak spot: the fetcher's name check is empty here, since "law" is an ordinary word, and the OCR never prints "William Law". The volumes rest on their title pages (volume numbers read) and on IA's contents note, which the text bears out by counts (vol. I "Bangor" 91 times, vol. IV "serious call" 139, vol. VI "Trapp" 40). 0 uids minted.

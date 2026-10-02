@@ -712,6 +712,22 @@ The Works (Boston, 1853, ed. Albro, 3 vols): vol. I clean from CCEL, vols. II-II
 | The Works (Pittsburgh: J. I. Kay, 1830) | have-raw | IA `worksofrevhenrys00scou` |
 | Works and Life of God, printings of 1691-1839 | alternate | the 1830 Works are held |
 | A New Academy of Compliments (1748) | excluded | catalogued under Scougal on IA; a letter-writing manual, not his |
+
+## William Law (round 4, my pick, 2026-10-02)
+
+Ten titles clean from CCEL; the Works (Brockenhurst: privately reprinted for G. Moreton, 1892-93, 9 vols) as raw IA OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| A Serious Call to a Devout and Holy Life (1729) | have | CCEL `serious_call` (`law-serious-call`) |
+| A Practical Treatise upon Christian Perfection (1726) | have | CCEL `apracticaltreat` (`law-christian-perfection`) |
+| The Spirit of Prayer; The Spirit of Love | have | CCEL `prayer`, `love2` |
+| The Way to Divine Knowledge; The Grounds and Reasons of Christian Regeneration | have | CCEL `waytodivine`, `grounds` |
+| A Demonstration of the Gross and Fundamental Errors; An Appeal to All that Doubt | have | CCEL `errors`, `doubt` |
+| An Address to the Clergy; A Collection of Letters | have | CCEL `clergy`, `collection` (also together as CCEL `humbleearnest`, not held twice) |
+| The Works, vols. I-IX (1892-93 reprint) | have-raw | IA `worksofreverendl01lawuoft`..`04lawuoft`, `worksoflaw05lawuoft`..`08lawuoft`, `worksofreverendw09laww` |
+| The Works (1762), 9 vols | alternate | the 1892-93 reprint is held |
+| Jacob Boehme's Works (1764-81) | excluded | Boehme's text |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,108 @@
+{
+ "_about": "Public-domain William Law (1686-1761, Nonjuror) for the Word Hoard. Ten titles clean from CCEL (A Serious Call, Christian Perfection, the Spirit of Prayer and of Love, the later mystical and controversial works); the Works (Brockenhurst: privately reprinted for G. Moreton, 1892-93, 9 vols; volume numbers read off the title pages) as raw Internet Archive OCR. Not William Law the 19th-century writers, and not his edition of Jacob Boehme. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "l/law",
+ "_name_words": [
+  "law"
+ ],
+ "_held": {},
+ "ccel": {
+  "law-serious-call": [
+   "serious_call",
+   "A Serious Call to a Devout and Holy Life (1729)",
+   ""
+  ],
+  "law-christian-perfection": [
+   "apracticaltreat",
+   "A Practical Treatise upon Christian Perfection (1726)",
+   ""
+  ],
+  "law-spirit-of-prayer": [
+   "prayer",
+   "The Spirit of Prayer",
+   ""
+  ],
+  "law-spirit-of-love": [
+   "love2",
+   "The Spirit of Love",
+   ""
+  ],
+  "law-way-divine-knowledge": [
+   "waytodivine",
+   "The Way to Divine Knowledge",
+   ""
+  ],
+  "law-grounds-regeneration": [
+   "grounds",
+   "The Grounds and Reasons of Christian Regeneration",
+   ""
+  ],
+  "law-demonstration-errors": [
+   "errors",
+   "A Demonstration of the Gross and Fundamental Errors of a late book",
+   ""
+  ],
+  "law-appeal-doubt": [
+   "doubt",
+   "An Appeal to All that Doubt",
+   ""
+  ],
+  "law-address-clergy": [
+   "clergy",
+   "An Humble, Affectionate, and Earnest Address to the Clergy",
+   ""
+  ],
+  "law-collection-letters": [
+   "collection",
+   "A Collection of Letters",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "law-works-01": [
+   "worksofreverendl01lawuoft",
+   "The Works of the Reverend William Law, vol. I (1892-93 reprint)"
+  ],
+  "law-works-02": [
+   "worksofreverendl02lawuoft",
+   "The Works of the Reverend William Law, vol. II (1892-93 reprint)"
+  ],
+  "law-works-03": [
+   "worksofreverendl03lawuoft",
+   "The Works of the Reverend William Law, vol. III (1892-93 reprint)"
+  ],
+  "law-works-04": [
+   "worksofreverendl04lawuoft",
+   "The Works of the Reverend William Law, vol. IV (1892-93 reprint)"
+  ],
+  "law-works-05": [
+   "worksoflaw05lawuoft",
+   "The Works of the Reverend William Law, vol. V (1892-93 reprint)"
+  ],
+  "law-works-06": [
+   "worksoflaw06lawuoft",
+   "The Works of the Reverend William Law, vol. VI (1892-93 reprint)"
+  ],
+  "law-works-07": [
+   "worksoflaw07lawuoft",
+   "The Works of the Reverend William Law, vol. VII (1892-93 reprint)"
+  ],
+  "law-works-08": [
+   "worksoflaw08lawuoft",
+   "The Works of the Reverend William Law, vol. VIII (1892-93 reprint)"
+  ],
+  "law-works-09": [
+   "worksofreverendw09laww",
+   "The Works of the Reverend William Law, vol. IX (1892-93 reprint)"
+  ]
+ },
+ "_alternates": {
+  "humbleearnest (CCEL)": "The Address to the Clergy and the Collection of Letters again, as Works vol. IX; both are held as separate CCEL files.",
+  "worksofreverendw01..09laww; reverendwilliaml07laww; works___46lawwuoft": "Other scans of the 1892-93 reprint.",
+  "workslaw0Nlawwiala; worksofreverendw1762NNlaww": "The original Works (1762), 9 vols."
+ },
+ "_excluded": {
+  "justific (CCEL)": "A stub, about 7 KB of text.",
+  "worksofjacobbehm*": "Jacob Boehme's works in the edition associated with Law: Boehme's text, not Law's."
+ }
+}
