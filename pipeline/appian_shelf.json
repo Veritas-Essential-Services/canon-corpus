@@ -1,0 +1,25 @@
+{
+ "_about": "Appian, Roman History, in Horace White's translation (Macmillan, 1899), 2 vols., raw IA OCR: vol. 1 The Foreign Wars, vol. 2 The Civil Wars.",
+ "_name_words": [
+  "appian",
+  "roman",
+  "history"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "appian-white-v1": [
+   "romanhistoryapp03whitgoog",
+   "The Roman History of Appian of Alexandria, vol. 1: The Foreign Wars (1899)",
+   "tr. Horace White"
+  ],
+  "appian-white-v2": [
+   "romanhistoryapp02whitgoog",
+   "The Roman History of Appian of Alexandria, vol. 2: The Civil Wars (1899)",
+   "tr. Horace White"
+  ]
+ },
+ "_excluded": {
+  "romanhistoryapp01whitgoog, romanhistoryapp00whitgoog": "other scans of the same volumes; lower OCR"
+ }
+}
