@@ -1,5 +1,5 @@
 {
- "_about": "Virgil in English: Aeneid, Georgics, Eclogues, translator recorded per title. Two translators cover all three works: James Rhoades (verse; his complete Poems of Virgil, Oxford 1921, raw IA OCR, plus clean Gutenberg Georgics and Eclogues) and John Conington (prose; the Aeneid clean on Gutenberg, the complete Works of Virgil, 1880, raw IA OCR). Further Aeneid witnesses: Mackail (prose, 1885), William Morris (verse, 1876), E. Fairfax Taylor (Spenserian verse, 1903-07), Rolfe Humphries (verse, 1951; Gutenberg clears it as US public domain, not PD elsewhere). Mackail's prose Eclogues and Georgics (1889; 1910 reprint) on IA. Dryden's Virgil lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here.",
+ "_about": "Virgil in English: Aeneid, Georgics, Eclogues, translator recorded per title. Two translators cover all three works: James Rhoades (verse; his complete Poems of Virgil, Oxford 1921, raw IA OCR, plus clean Gutenberg Georgics and Eclogues) and John Conington (prose; the Aeneid clean on Gutenberg, the complete Works of Virgil, 1880, raw IA OCR). Further Aeneid witnesses: Mackail (prose, 1885), William Morris (verse, 1876), E. Fairfax Taylor (Spenserian verse, 1903-07), Rolfe Humphries (verse, 1951; Gutenberg clears it as US public domain, not PD elsewhere). Mackail's prose Eclogues and Georgics (1889; 1910 reprint) on IA. Dryden's Virgil lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "virgil",
   "vergil",
@@ -60,6 +60,16 @@
    "ecloguesgeorgics00virgrich",
    "The Eclogues and Georgics of Virgil (1910 printing)",
    "tr. J. W. Mackail (prose, 1889)"
+  ],
+  "virgil-fairclough-v1": [
+   "virgilwithenglis01virg",
+   "Virgil, vol. 1: Eclogues, Georgics, Aeneid I-VI (Loeb, 1916)",
+   "tr. H. Rushton Fairclough"
+  ],
+  "virgil-fairclough-v2": [
+   "virgil0002hrus",
+   "Virgil, vol. 2: Aeneid VII-XII, Minor Poems (Loeb, 1918)",
+   "tr. H. Rushton Fairclough"
   ]
  },
  "_cross_ref": {
