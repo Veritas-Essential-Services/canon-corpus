@@ -1,0 +1,32 @@
+{
+ "_about": "Theocritus, Bion and Moschus in English. C. S. Calverley's verse Theocritus, clean Gutenberg. J. Banks's literal prose (Bohn, 1853), with J. M. Chapman's metrical versions and Polwhele's Tyrtaeus, raw IA OCR. Lang's prose (PG 4775) is on lane D's lang shelf: cross-referenced, not fetched.",
+ "_name_words": [
+  "theocritus",
+  "bion",
+  "moschus",
+  "idylls"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "theocritus-calverley": [
+   11533,
+   "Theocritus, translated into English Verse",
+   "tr. Charles Stuart Calverley"
+  ]
+ },
+ "internet_archive": {
+  "theocritus-bion-moschus-banks": [
+   "idyllstheocritu00biongoog",
+   "The Idylls of Theocritus, Bion, and Moschus, and the War-Songs of Tyrtaeus (Bohn, 1853)",
+   "tr. J. Banks (prose), J. M. Chapman (verse); Tyrtaeus tr. R. Polwhele"
+  ]
+ },
+ "_cross_ref": {
+  "lang theocritus-bion-moschus (PG 4775)": "lane D, pipeline/lang_shelf.json"
+ },
+ "_excluded": {
+  "Edmonds, The Greek Bucolic Poets (Loeb, 1912)": "US PD by date but Greek facing; pending",
+  "idyllstheocritus00theoiala": "same Banks edition, lower OCR (0.827 vs 0.858)",
+  "idyllsoftheocrit00theorich": "1878 Banks reprint; empty text layer"
+ }
+}
