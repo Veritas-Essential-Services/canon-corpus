@@ -1,0 +1,38 @@
+{
+ "_about": "Snorri Sturluson (1179-1241) in English: Heimskringla in Samuel Laing's translation (1844) as revised by R. B. Anderson (1889): the Gutenberg file names no translator, so it was identified by collating its preface against IA's scan of that edition (heimskringlaorsa01snor), which it matches word for word, and its notes are signed '--L.' (Laing) and '--Ed.' (Anderson), and the Prose (Younger) Edda in Rasmus B. Anderson's translation (1880). Clean Gutenberg text; US public domain.",
+ "_author": "Snorri Sturluson",
+ "_name_words": [
+  "heimskringla",
+  "edda",
+  "sturluson",
+  "sturlason",
+  "snorre"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sturluson-heimskringla-laing": [
+   598,
+   "Heimskringla, or The Chronicle of the Kings of Norway, tr. Samuel Laing (1844), rev. Rasmus B. Anderson (1889); translator identified by collation, see the shelf note",
+   {
+    "levels": [
+     {
+      "re": "(?=[A-Z0-9 ,.()’'-]+$).*\\bSAGA\\b.*$",
+      "strip": "\\s*\\(\\d+\\)"
+     },
+     {
+      "re": "(?:PRELIMINARY REMARKS\\.?|\\d+\\. [A-Z][A-Z0-9 ,.;:()’'-]+)$"
+     }
+    ]
+   }
+  ],
+  "sturluson-younger-edda-anderson": [
+   18947,
+   "The Younger Edda, also called Snorre's Edda, or The Prose Edda, tr. Rasmus B. Anderson (1880)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "sturluson-selection": "The Sagas of Olaf Tryggvason and of Harald the Tyrant (PG 22093, tr. Ethel Harriet Hearn from Storm's Norwegian): two sagas of Heimskringla, translated at second hand; not taken",
+  "sturluson-thorpe": "Thorpe and Blackwell's Elder and Younger Eddas (PG 14726): noted on the Poetic Edda shelf"
+ }
+}

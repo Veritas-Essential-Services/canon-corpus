@@ -174,3 +174,6 @@
 
 ## 2026-10-02 17:09 CDT — sagas: done
 - Sagas: dasent shelf gains Burnt Njal (Gutenberg 17919, 4,096 units, 0 ~2, by chapter) and Gisli the Outlaw (IA storygislioutla00dasegoog, raw OCR, grade A). PG 597 left out as the older transcription; the Orkneyingers' Saga (1894) not found as a usable scan. Sturluson on its own shelf (next commit).
+
+## 2026-10-02 17:09 CDT — sturluson: done
+- 2/2 fetched (Gutenberg 598, 18947), 3,554 units. Heimskringla nested Saga > chapter (all 16 sagas, 0 ~2); translator unnamed in the file, identified as Laing rev. Anderson (1889) by collation with IA heimskringlaorsa01snor and the --L./--Ed. note signatures. Younger Edda tr. Anderson, 3 ~2 ids.

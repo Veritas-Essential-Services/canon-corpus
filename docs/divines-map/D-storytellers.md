@@ -886,6 +886,17 @@ Shelf: `pipeline/kalevala_shelf.json` (2026-10-02; added at the coordinator's re
 | kalevala-duplicates | excluded | Crawford's Kalevala volumes 1 and 2 (PG 5184, 5185): the same text as the complete file |
 | kalevala-kirby | excluded | W. F. Kirby's Kalevala, The Land of the Heroes (PG 25953, 33089, 1907): another translation, not named by the relay; a candidate for a later batch |
 
+## Snorri Sturluson (Heimskringla, the Prose Edda)
+
+Shelf: `pipeline/sturluson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Heimskringla in Laing's translation as revised by Anderson (1889), cut Saga > chapter, and the Prose (Younger) Edda in Anderson's translation (1880). The Gutenberg Heimskringla names no translator; it was identified by collating its preface word for word against IA's scan of the 1889 edition, and its notes are signed --L. (Laing) and --Ed. (Anderson). Hearn's second-hand Olaf Tryggvason and Harald saga (PG 22093) is not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Heimskringla, or The Chronicle of the Kings of Norway, tr. Samuel Laing (1844), rev. Rasmus B. Anderson (1889); translator identified by collation, see the shelf note | have | PG 598, `sturluson-heimskringla-laing` (2785 units) |
+| The Younger Edda, also called Snorre's Edda, or The Prose Edda, tr. Rasmus B. Anderson (1880) | have | PG 18947, `sturluson-younger-edda-anderson` (769 units) |
+| sturluson-selection | excluded | The Sagas of Olaf Tryggvason and of Harald the Tyrant (PG 22093, tr. Ethel Harriet Hearn from Storm's Norwegian): two sagas of Heimskringla, translated at second hand; not taken |
+| sturluson-thorpe | excluded | Thorpe and Blackwell's Elder and Younger Eddas (PG 14726): noted on the Poetic Edda shelf |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
