@@ -554,5 +554,29 @@ check("brenton: scheme and rights say what the book is",
       _bb["scheme"]["versification"] == "lxx-brenton"
       and _bb["rights"]["license"] == "public-domain")
 
+# The historic English Bibles (scrollmapper JSON on CrossWire's KJV grid).
+# Fixture is invented text in the source's shape: 66 books, two verses.
+_ej = {"books": [{"name": f"Book{i}", "chapters": []} for i in range(66)]}
+_ej["books"][0] = {"name": "Genesis", "chapters": [{"chapter": 1, "verses": [
+    {"verse": 1, "chapter": 1, "name": "Genesis 1:1", "text": "In the beginningGod made it."},
+    {"verse": 2, "chapter": 1, "name": "Genesis 1:2", "text": "  "}]}]}
+_ej["books"][49] = {"name": "Philippians", "chapters": [{"chapter": 1, "verses": [
+    {"verse": 16, "chapter": 1, "name": "Philippians 1:16", "text": "the one do it of love,"}]}]}
+_ep = os.path.join(_tf.mkdtemp(), "Darby.json")
+with open(_ep, "w", encoding="utf-8") as _fh:
+    json.dump(_ej, _fh)
+_eb = st.convert_english(_ep, "darby", "pin")
+_eu = {u["id"]: u for u in _eb["units"]}
+check("english: ids are the source's slots on OSIS books; an empty slot is no unit",
+      list(_eu) == ["darby:Gen.1.1", "darby:Phil.1.16"] and _eb["scheme"]["empty_slots_not_units"] == 1)
+check("english: Darby's per-book rule restores the space the markup ate before 'God'",
+      _eu["darby:Gen.1.1"]["text"] == "In the beginning God made it."
+      and _eb["scheme"]["rules"][0]["applied"] == 1)
+check("english: each unit's `kjv` comes from the committed map (Darby Phil 1:16 is KJV 1:17)",
+      _eu["darby:Phil.1.16"]["kjv"] == {"resolved": True, "target": "kjv:Phil.1.17"}
+      and _eu["darby:Gen.1.1"]["kjv"] == {"resolved": True, "target": "kjv:Gen.1.1"})
+check("english: rights say public domain and carry the source's own rights line",
+      _eb["rights"]["license"] == "public-domain" and "Public Domain" in _eb["rights"]["rights_line"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
