@@ -161,6 +161,16 @@ TEI_BLOCKS = {TEI_NS + t for t in ("l", "lg", "p", "div", "head", "item", "list"
                                    "quote", "sp", "speaker", "ab", "gap")}
 
 
+# A name or foreign word tagged with no space after it: "Sicily</placeName>
+# was" (Yonge's Verrines, 93 times), "βαπουλκός</foreign>In" (Vitruvius). A
+# whole word after the tag is a missing space; a lone letter is a suffix the
+# markup split off ("Cyru</persName>s", "Alexandria</
+# placeName>n") and stays joined. Measured on every Perseus book here.
+TEI_NAMES = {TEI_NS + t for t in ("persName", "placeName", "name", "rs", "orgName",
+                                   "foreign")}
+RE_NAME_WELD = re.compile(r"(?:[A-Za-z]{2,}|I)\b")
+
+
 def tei_pieces(e, _parent=None):
     """itertext(), minus Perseus's gazetteer: inside <name type="place"> a
     <reg> holds "Bodrum [27.466,37.5] (inhabited place), Turkey..." -- the
@@ -200,6 +210,12 @@ def tei_split(el):
     T = TEI_NS
     parts, stage, notes, sics = [], [], [], []
 
+    def last():
+        for x in reversed(parts):
+            if x:
+                return x
+        return ""
+
     def lift(e):
         if parts and e.tail and parts[-1][-1:].isalnum() and e.tail[:1].isalnum():
             parts.append(" ")
@@ -236,9 +252,19 @@ def tei_split(el):
         block = e is not el and e.tag in TEI_BLOCKS
         if block: parts.append("\x00")
         if e.text: parts.append(e.text)
+        prev = None
         for c in e:
+            # Two Greek words tagged back to back with nothing between them
+            # (Vitruvius: <foreign>ναὸς</foreign><foreign>ἐν</foreign>) are two words.
+            if (prev is not None and c.tag == prev.tag == T + "foreign" and not prev.tail
+                    and last()[-1:].isalnum()):
+                parts.append(" ")
             walk(c, e.tag)
+            prev = c
         if block: parts.append("\x00")
+        if (e is not el and e.tag in TEI_NAMES and e.tail and RE_NAME_WELD.match(e.tail)
+                and last()[-1:].isalnum()):
+            parts.append(" ")
         if e is not el and e.tail: parts.append(e.tail)
     walk(el)
     joined = re.sub(r"\x00+(?=\s*[;:,.!?)\]])", "", "".join(parts)).replace("\x00", " ")
@@ -354,6 +380,35 @@ TEI_PROSE = {
     "suetonius-vespasian-thomson": "Suet. Vesp.",
     "suetonius-titus-thomson": "Suet. Tit.",
     "suetonius-domitian-thomson": "Suet. Dom.",
+    "cicero-quinctius-yonge": "Cic. Quinct.",
+    "cicero-roscius-amerinus-yonge": "Cic. S. Rosc.",
+    "cicero-roscius-comoedus-yonge": "Cic. Q. Rosc.",
+    "cicero-divinatio-caecilium-yonge": "Cic. Div. Caec.",
+    "cicero-verrines-yonge": "Cic. Ver.",
+    "cicero-tullius-yonge": "Cic. Tul.",
+    "cicero-fonteius-yonge": "Cic. Font.",
+    "cicero-caecina-yonge": "Cic. Caec.",
+    "cicero-manilian-law-yonge": "Cic. Man.",
+    "cicero-cluentius-yonge": "Cic. Clu.",
+    "cicero-agrarian-law-yonge": "Cic. Agr.",
+    "cicero-rabirius-yonge": "Cic. Rab. Perd.",
+    "cicero-catiline-yonge": "Cic. Catil.",
+    "cicero-murena-yonge": "Cic. Mur.",
+    "cicero-sulla-yonge": "Cic. Sul.",
+    "cicero-archias-yonge": "Cic. Arch.",
+    "cicero-flaccus-yonge": "Cic. Flac.",
+    "cicero-post-reditum-quirites-yonge": "Cic. Red. Pop.",
+    "cicero-post-reditum-senatu-yonge": "Cic. Red. Sen.",
+    "cicero-philippics-yonge": "Cic. Phil.",
+    "cicero-de-senectute-falconer": "Cic. Sen.",
+    "cicero-de-amicitia-falconer": "Cic. Amic.",
+    "cicero-de-divinatione-falconer": "Cic. Div.",
+    "cicero-de-officiis-miller": "Cic. Off.",
+    "sallust-catiline-watson": "Sal. Cat.",
+    "sallust-jugurthine-war-watson": "Sal. Jug.",
+    "vitruvius-architecture-morgan": "Vitr.",
+    "quintilian-institutio-butler": "Quint. Inst.",
+    "seneca-apocolocyntosis-rouse": "Sen. Apoc.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -370,25 +425,230 @@ TEI_RIGHTS_NOTE = {s: ("Perseus keyed this text from the Modern Library's 1942 r
 RE_TGN = re.compile(r"tgn,(\d+)")
 
 
+# Beta code: Perseus's older files write Greek in ASCII ("filo/sofos",
+# "*)eumolpidw=n"). Converted to Unicode by the standard TLG table, as a rule
+# (rule 2). Only inside a Greek-tagged <foreign>, and only where a beta
+# diacritic shows it IS beta code: "marna" in Apollodorus is a modern place
+# name in Latin letters, and stays as printed.
+BETA_LETTERS = dict(zip("abgdezhqiklmncoprstufxywv", "αβγδεζηθικλμνξοπρστυφχψωϝ"))
+BETA_MARKS = {")": "\u0313", "(": "\u0314", "/": "\u0301", "\\": "\u0300",
+              "=": "\u0342", "+": "\u0308", "|": "\u0345"}
+RE_BETA = re.compile(r"[/\\=()|]")
+RE_BETA_TOKEN = re.compile(r"(\*)?([)(/\\=+|]*)([A-Za-z])([123]?)([)(/\\=+|]*)")
+
+
+def beta_to_unicode(t):
+    def tok(m):
+        star, pre, ch, num, post = m.groups()
+        c = ch.lower()
+        if c not in BETA_LETTERS:
+            return m.group(0)
+        g = BETA_LETTERS[c]
+        if c == "s" and num == "2":
+            g = "ς"
+        if star:
+            g = g.upper()
+        marks = "".join(BETA_MARKS[x] for x in pre + post)
+        return g + marks
+    # A capital diphthong's marks are written after the asterisk but sit
+    # on the second vowel: *)eu -> Εὐ, not Ἐυ (unless a diaeresis splits them).
+    t = re.sub(r"\*([)(/\\=]+)([aeoh])([iu])(?!\+)", r"*\2\3\1", t)
+    out = RE_BETA_TOKEN.sub(tok, t)
+    out = re.sub(r"σ(?![\w\u0300-\u036f])", "ς", out)   # final sigma
+    out = out.replace(":", "\u00b7")
+    return unicodedata.normalize("NFC", out)
+
+
+def tei_beta(body):
+    """Convert beta-code Greek in place; returns how many phrases."""
+    n = 0
+    if body is None:
+        return 0
+    for e in body.iter(TEI_NS + "foreign"):
+        lang = e.get("{http://www.w3.org/XML/1998/namespace}lang") or e.get("lang") or ""
+        if not lang.startswith("gr"):
+            continue
+        t = "".join(e.itertext())
+        if not RE_BETA.search(t) or not re.fullmatch(r"[\x00-\x7f]*", t):
+            continue
+        n += 1
+        for d in e.iter():
+            if d.text:
+                d.text = beta_to_unicode(d.text)
+            if d is not e and d.tail:
+                d.tail = beta_to_unicode(d.tail)
+    return n
+
+
+# Books whose finest citation is a MILESTONE, not a division: Cicero's
+# essays mark sections as <milestone unit="section" n="12"/> inside the
+# paragraphs. Opt-in per book (value: the milestone units that are cuts,
+# the first naming the level); every other book is untouched. De
+# Divinatione spells one of its 280 "seciton".
+TEI_PROSE_CUT = {
+    "cicero-de-senectute-falconer": ("section",),
+    "cicero-de-divinatione-falconer": ("section", "seciton"),
+    "cicero-de-officiis-miller": ("section",),
+}
+
+
+# Numbering slips in the source, fixed by rule (rule 2) so a refetch reruns
+# them: (milestone unit or division subtype, printed n, which occurrence of
+# that n, 1-based) -> the n the sequence and the heading require.
+TEI_PROSE_N_FIX = {
+    # Book III is headed "Book III" but numbered n="1" like Book I.
+    "cicero-de-officiis-miller": {("book", "1", 2): "3"},
+    # Two milestones numbered 35; the second sits where 36 belongs (34, 35, 35, 37).
+    "cicero-de-senectute-falconer": {("section", "35", 2): "36"},
+}
+
+
+def tei_fix_n(body, slug):
+    fix = TEI_PROSE_N_FIX.get(slug)
+    if not fix or body is None:
+        return
+    seen = {}
+    for e in body.iter():
+        if e.tag == TEI_NS + "div" and e.get("type") == "textpart":
+            kind = e.get("subtype")
+        elif e.tag == TEI_NS + "milestone":
+            kind = e.get("unit")
+        else:
+            continue
+        k = (kind, e.get("n"))
+        seen[k] = seen.get(k, 0) + 1
+        if k + (seen[k],) in fix:
+            e.set("n", fix[k + (seen[k],)])
+
+
+def tei_cuts(e, units):
+    """The numbered milestones of the given units inside e, in order."""
+    return [m for m in e.iter(TEI_NS + "milestone")
+            if m.get("unit") in units and re.search(r"\d", m.get("n") or "")]
+
+
+def tei_slice(el, start, end):
+    """A copy of el holding only what lies between two milestones in
+    document order (start None: from the beginning; end None: to the end).
+    Elements cut across keep their tags, so a paragraph split mid-way is
+    still a paragraph on each side and tei_split reads both halves the same
+    way it reads a whole one."""
+    on = [start is None]
+
+    def add(new, t):
+        if not t:
+            return
+        if len(new):
+            new[-1].tail = (new[-1].tail or "") + t
+        else:
+            new.text = (new.text or "") + t
+
+    def rec(e):
+        was_on = on[0]
+        new = ET.Element(e.tag, e.attrib)
+        if on[0]:
+            new.text = e.text
+        for c in e:
+            if c is start:
+                on[0] = True
+            elif c is end:
+                on[0] = False
+            else:
+                cc = rec(c)
+                if cc is not None:
+                    new.append(cc)
+            if on[0] and c is not end:
+                add(new, c.tail)
+        return new if (was_on or on[0] or len(new) or new.text) else None
+
+    return rec(el) if el is not start else ET.Element(el.tag)
+
+
 def convert_tei_prose(path, slug, abbrev):
     T = TEI_NS
     root = tei_load(path)
     title, author, transl = tei_meta(root)
     body = root.find(f".//{T}body")
+    tei_fix_n(body, slug)
+    nbeta = tei_beta(body)
     units, pending_head, levels = [], [], []
     nnotes = 0
 
     def is_part(e):
         return e.tag == T + "div" and e.get("type") == "textpart"
 
+    parent_of = {c: p for p in body.iter() for c in p} if body is not None else {}
+
+    def aside(e):
+        if re.search(r"\d", e.get("n") or ""):
+            return False
+        return any(is_part(d) and re.search(r"\d", d.get("n") or "")
+                   and d.get("subtype") != e.get("subtype")
+                   for d in parent_of.get(e, []))
+
     def visit(e, path_ns):
         nonlocal nnotes
         kids = [c for c in e if is_part(c)]
-        if is_part(e) and e.get("subtype") and e.get("subtype").lower() not in levels:
+        # Not every division is a level: Yonge's Philippics put an argument
+        # (n="arg", once misspelt subtype="argumnt") beside the numbered
+        # chapters -- a unit, but not a level of the citation. An unnumbered
+        # division is an aside when numbered siblings of another kind stand
+        # beside it. (Plutarch's "Agis" / "Cleomenes" books are unnumbered
+        # too, but have no such siblings: they are a level.)
+        if (is_part(e) and e.get("subtype") and not aside(e)
+                and e.get("subtype").lower() not in levels):
             levels.append(e.get("subtype").lower())
         if is_part(e) and not kids:
+            if cut and tei_cuts(e, cut):
+                split(e, path_ns)
+            else:
+                leaf(e, ".".join(path_ns))
+            return
+        for c in e:
+            if is_part(c):
+                visit(c, path_ns + [c.get("n") or "?"])
+            elif any(is_part(d) for d in c.iter()):
+                visit(c, path_ns)               # a wrapper (the translation div)
+            elif c.tag != T + "milestone":
+                # Text between divisions (a book's <head>, an argument):
+                # kept, riding on the next unit as apparatus.head.
+                t, _s, n2, _c = tei_split(c)
+                if t:
+                    pending_head.append(t)
+                if n2:
+                    pending_head.extend(n["text"] for n in n2)
+
+    def split(e, path_ns):
+        """A division cut at its section milestones (Cicero's essays: the
+        sections are <milestone unit="section"/> inside the paragraphs, not
+        divisions). Each section becomes a unit; what precedes the first
+        (the title) rides on it as apparatus.head."""
+        ms = tei_cuts(e, cut)
+        pre = tei_slice(e, None, ms[0])
+        t, _s, n2, _c = tei_split(pre)
+        if t:
+            pending_head.append(t)
+        pending_head.extend(n["text"] for n in n2)
+        chapter = None
+        chap = {m: m.get("n") for m in e.iter(T + "milestone") if m.get("unit") == "chapter"}
+        order = [m for m in e.iter(T + "milestone") if m in chap or m in ms]
+        at = {}
+        for m in order:
+            if m in chap:
+                chapter = chap[m]
+            else:
+                at[m] = chapter
+        for i, m in enumerate(ms):
+            piece = tei_slice(e, m, ms[i + 1] if i + 1 < len(ms) else None)
+            leaf(piece, ".".join(path_ns + [m.get("n")]),
+                 {"chapter": at[m]} if at.get(m) else None)
+        if cut[0] not in levels:
+            levels.append(cut[0])
+
+    def leaf(e, ref, milestones=None):
+        nonlocal nnotes
+        if True:
             text, _stage, notes, sic = tei_split(e)
-            ref = ".".join(path_ns)
             links, seen = [], set()
             for pl in e.iter(T + "placeName"):
                 m = RE_TGN.search(pl.get("key") or "")
@@ -408,6 +668,8 @@ def convert_tei_prose(path, slug, abbrev):
             if text:
                 u = {"id": f"{slug}:{ref}", "ref": f"{abbrev} {ref}", "text": text,
                      "links": links}
+                if milestones:
+                    u["milestones"] = milestones
                 if app:
                     u["apparatus"] = app
                 units.append(u)
@@ -418,22 +680,12 @@ def convert_tei_prose(path, slug, abbrev):
                         a[k] = True             # a lacuna in a textless division
                     else:
                         a.setdefault(k, []).extend(v)
-            return
-        for c in e:
-            if is_part(c):
-                visit(c, path_ns + [c.get("n") or "?"])
-            elif any(is_part(d) for d in c.iter()):
-                visit(c, path_ns)               # a wrapper (the translation div)
-            elif c.tag != T + "milestone":
-                # Text between divisions (a book's <head>, an argument):
-                # kept, riding on the next unit as apparatus.head.
-                t, _s, n2, _c = tei_split(c)
-                if t:
-                    pending_head.append(t)
-                if n2:
-                    pending_head.extend(n["text"] for n in n2)
 
-    visit(body, [])
+    cut = TEI_PROSE_CUT.get(slug)
+    if cut and body is not None and not any(is_part(d) for d in body.iter()):
+        split(body, [])                         # no divisions at all: De Senectute
+    else:
+        visit(body, [])
     if pending_head and units:
         units[-1].setdefault("apparatus", {}).setdefault("head", []).extend(pending_head)
     places = sum(len(u["links"]) for u in units)
@@ -470,7 +722,9 @@ def convert_tei_prose(path, slug, abbrev):
                                f"divisions (headings, arguments) kept as apparatus.head; "
                                f"{places} place reference(s) linked by Getty TGN id "
                                f"(Perseus's gazetteer glosses dropped from the text, the "
-                               f"id kept)."},
+                               f"id kept)."
+                               + (f" {nbeta} Greek phrase(s) the file writes in beta code "
+                                  f"converted to Unicode by the standard table." if nbeta else "")},
             "rights": rights,
             "units": units}
 

@@ -717,5 +717,72 @@ check("tei-p4: the urn still picks the latinLit repository",
 check("tei-p4: every Tacitus book carries the 1942-reprint caveat",
       all(s in st.TEI_RIGHTS_NOTE for s in st.TEI_PROSE if s.startswith("tacitus-")))
 
+# Cicero (2026-10-02). Invented text. Sections as milestones inside the
+# paragraphs, a numbering slip, beta-code Greek, a name with no space after
+# it, two Greek words tagged back to back, and an argument beside chapters.
+_CIC = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>'
+        '<title>On Old Age</title><author>Cicero</author></titleStmt></fileDesc></teiHeader>'
+        '<text><body xml:base="urn:cts:latinLit:phi0474.phi051.perseus-eng1">'
+        '<div type="translation"><head>Cato on old age</head>'
+        '<p><milestone unit="chapter" n="1"/><milestone unit="section" n="1"/>First, '
+        '<placeName key="tgn,7000874">Rome</placeName>was great; the <foreign xml:lang="greek">'
+        'filo/sofos</foreign> agrees.<note>A note.</note> <milestone unit="section" n="2"/>Second '
+        'part of the same paragraph.</p><p>Still two, <foreign xml:lang="grc">ναὸς</foreign>'
+        '<foreign xml:lang="grc">ἐν</foreign> said.</p><p><milestone unit="section" n="2"/>Third.</p>'
+        '</div></body></text></TEI>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_CIC)
+_saved = (st.CORPUS, dict(st.TEI_PROSE_CUT), dict(st.TEI_PROSE_N_FIX))
+st.CORPUS = os.path.dirname(_fh.name)
+st.TEI_PROSE_CUT["cic"] = ("section",)
+st.TEI_PROSE_N_FIX["cic"] = {("section", "2", 2): "3"}
+_cb = st.convert_tei_prose(_fh.name, "cic", "Cic. Sen.")
+st.CORPUS = _saved[0]; st.TEI_PROSE_CUT.clear(); st.TEI_PROSE_CUT.update(_saved[1])
+st.TEI_PROSE_N_FIX.clear(); st.TEI_PROSE_N_FIX.update(_saved[2])
+os.unlink(_fh.name)
+_cu = {u["id"]: u for u in _cb["units"]}
+check("milestones: one unit per section, cut mid-paragraph",
+      list(_cu) == ["cic:1", "cic:2", "cic:3"] and _cb["scheme"]["citation"] == "Cic. Sen. section")
+check("milestones: a section ends where the next begins",
+      _cu["cic:1"]["text"].endswith("agrees.") and _cu["cic:2"]["text"].startswith("Second part"))
+check("milestones: a section runs across paragraphs",
+      "Still two" in _cu["cic:2"]["text"])
+check("milestones: the title before the first section rides as head",
+      _cu["cic:1"]["apparatus"]["head"] == ["Cato on old age"])
+check("milestones: the chapter is recorded beside the section",
+      _cu["cic:1"].get("milestones") == {"chapter": "1"})
+check("milestones: a note stays with its own section",
+      [n["text"] for n in _cu["cic:1"]["apparatus"]["notes"]] == ["A note."]
+      and "notes" not in _cu["cic:2"].get("apparatus", {}))
+check("n-fix: a repeated section number is corrected by rule",
+      "Third" in _cu["cic:3"]["text"])
+check("beta code: Greek written in ASCII becomes Unicode",
+      "φιλόσοφος" in _cu["cic:1"]["text"] and "nbeta" not in _cb["scheme"]["note"]
+      and "1 Greek phrase(s)" in _cb["scheme"]["note"])
+check("beta code: capital diphthongs, iota subscript, final sigma",
+      st.beta_to_unicode("*)eumolpidw=n tw=| qew=|") == "Εὐμολπιδῶν τῷ θεῷ")
+check("beta code: transliteration with no beta marks is left alone",
+      not st.RE_BETA.search("marna"))
+check("weld: a name with no space after it gets one",
+      "Rome was great" in _cu["cic:1"]["text"])
+check("weld: two Greek words tagged back to back are two words",
+      "ναὸς ἐν said" in _cu["cic:2"]["text"])
+check("weld: a one-letter suffix the markup split off stays joined",
+      not st.RE_NAME_WELD.match("s ") and st.RE_NAME_WELD.match("was"))
+_ARG = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Phil</title>'
+        '</titleStmt></fileDesc></teiHeader><text><body>'
+        '<div type="textpart" subtype="speech" n="1">'
+        '<div type="textpart" subtype="argumnt" n="arg"><p>The argument.</p></div>'
+        '<div type="textpart" subtype="chapter" n="1"><p>One.</p></div></div></body></text></TEI>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_ARG)
+st.CORPUS = os.path.dirname(_fh.name)
+_ab = st.convert_tei_prose(_fh.name, "ph", "Cic. Phil.")
+st.CORPUS = _saved[0]
+os.unlink(_fh.name)
+check("levels: an unnumbered argument beside numbered chapters is not a level",
+      _ab["scheme"]["citation"] == "Cic. Phil. speech.chapter"
+      and [u["id"] for u in _ab["units"]] == ["ph:1.arg", "ph:1.1"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

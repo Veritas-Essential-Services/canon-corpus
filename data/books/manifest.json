@@ -2381,7 +2381,7 @@
    "citation": "Hdt. book.chapter.section",
    "resolution": "section",
    "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
-   "note": "Perseus TEI, one unit per innermost textpart div. 528 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1073 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+   "note": "Perseus TEI, one unit per innermost textpart div. 528 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1073 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 1 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
   },
   "rights": {
    "license": "CC BY-SA 4.0",
@@ -3821,7 +3821,7 @@
    "citation": "Joseph. AJ book.section",
    "resolution": "section (span)",
    "honesty": "each unit is the run of numbered sections from its id to the next unit's (1,363 of 1,424 steps skip numbers): a citation resolves to the unit that contains it",
-   "note": "Perseus TEI, one unit per innermost textpart div. 558 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 275 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+   "note": "Perseus TEI, one unit per innermost textpart div. 558 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 275 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 1 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
   },
   "rights": {
    "license": "CC BY-SA 4.0",
@@ -4449,6 +4449,586 @@
    "source_url": "https://github.com/PerseusDL/canonical-latinLit",
    "redistribute_whole": true,
    "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence. Perseus keyed this text from the Modern Library's 1942 reprint of Church & Brodribb (Macmillan, 1864-77). The translation is theirs and public domain; whether the marginal headings (apparatus.head and apparatus.notes here, never the reading text) are Church & Brodribb's or the 1942 reprint's was not checked against the Macmillan scan."
+  }
+ },
+ "cicero-agrarian-law-yonge": {
+  "title": "On the Agrarian Law",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "73d89fbea1b3e36fd2fcd84917dd7c0c4a1e30954d6e9223cd79e62a1bd896af",
+  "units": 149,
+  "scheme": {
+   "citation": "Cic. Agr. speech.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 18 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 84 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-archias-yonge": {
+  "title": "For A. L. Archias",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "bbf074b7466ea4ec7a63da22e5129726ccb9743fc21fa1a64aff26cb9ffd61ed",
+  "units": 33,
+  "scheme": {
+   "citation": "Cic. Arch. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-caecina-yonge": {
+  "title": "For Aulus Caecina",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "e0c5c7125c75ca663ec3bf8bc925082848856e12c8b670e92bafc5617bcc7180",
+  "units": 104,
+  "scheme": {
+   "citation": "Cic. Caec. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 8 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 4 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-catiline-yonge": {
+  "title": "Against L. Catiline",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "3bc560631ba6297905cac0be93cd28ddb3c0f60d2a034fd65d2ffa7c50e14dce",
+  "units": 119,
+  "scheme": {
+   "citation": "Cic. Catil. speech.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 14 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 15 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-cluentius-yonge": {
+  "title": "For A. Cluentius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "9a96f59870fdf8c242e091ed2b0821935f4a1848c361d6561519e53844ab3cc4",
+  "units": 202,
+  "scheme": {
+   "citation": "Cic. Clu. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 13 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 24 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-de-amicitia-falconer": {
+  "title": "Laelius on Friendship",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "ba5521bd239168dbff0ad34a49707a1235ef8c54381b77d57c660897c0c8f662",
+  "units": 104,
+  "scheme": {
+   "citation": "Cic. Amic. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 68 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-de-divinatione-falconer": {
+  "title": "Divination",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "95c68d314be20776523b8730ad92d1a83d813a15160604d979cfdc98822dd198",
+  "units": 281,
+  "scheme": {
+   "citation": "Cic. Div. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 288 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 29 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-de-officiis-miller": {
+  "title": "De Officiis",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "c77f65d9b7b2bb89276aa83539f6d9a6b1f057750a3686e0b352fb8e82866a14",
+  "units": 371,
+  "scheme": {
+   "citation": "Cic. Off. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 392 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 21 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-de-senectute-falconer": {
+  "title": "Cato the Elder: on old age",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "3c6f0e42cf7fffc1c102724754966321762d1a440ac2a18d73bd6123ad6ae196",
+  "units": 85,
+  "scheme": {
+   "citation": "Cic. Sen. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 60 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 8 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-divinatio-caecilium-yonge": {
+  "title": "Against Quintus Caecilius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "d72432bfa2597d10c41731f157ba3d98e840599c882d79ccd4c4b6ac16c30d1e",
+  "units": 73,
+  "scheme": {
+   "citation": "Cic. Div. Caec. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 11 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 25 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-flaccus-yonge": {
+  "title": "For L. Flaccus",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "a4a8f8feb593cbab18f35f85e9155bd71ef16c4ca94bd2a072ebeb3537b469dd",
+  "units": 113,
+  "scheme": {
+   "citation": "Cic. Flac. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 10 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-fonteius-yonge": {
+  "title": "For M. Fonteius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "d85ff3b10ed20931ae141beb4a38b48fd2864fd18e2c43bfae7b25cbcb00cb69",
+  "units": 48,
+  "scheme": {
+   "citation": "Cic. Font. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 5 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 23 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-manilian-law-yonge": {
+  "title": "In Defense of the Proposed Manilian Law",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "bc74b759cb6d95404f9436120f582c4b48583e99b561e117a49aec7ee66cce91",
+  "units": 71,
+  "scheme": {
+   "citation": "Cic. Man. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 7 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 55 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-murena-yonge": {
+  "title": "For L. Murena",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "9eba3d80b01ce42b4e8391dab1a5c74faabf0d2a567acd3a6f71b310ebeb4d47",
+  "units": 91,
+  "scheme": {
+   "citation": "Cic. Mur. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 14 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-philippics-yonge": {
+  "title": "Orations",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "ea44bb7caba88cbf4d0ffb364117c937f30ef5c09e1d138cd7e1392909024578",
+  "units": 222,
+  "scheme": {
+   "citation": "Cic. Phil. speech.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 55 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 234 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 6 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-post-reditum-quirites-yonge": {
+  "title": "To the Citizens after his Return",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "f9527dc9c607e9f54f63f3c943f9b9a06e65e574d512b759359bda13d3fc1493",
+  "units": 26,
+  "scheme": {
+   "citation": "Cic. Red. Pop. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-post-reditum-senatu-yonge": {
+  "title": "In the Senate after his Return",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "dc6623d14a8a56e6e83fa42a2ed2d9e0b11021d9a7c777dadb9cfac699e6662a",
+  "units": 40,
+  "scheme": {
+   "citation": "Cic. Red. Sen. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 7 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-quinctius-yonge": {
+  "title": "For P. Quinctius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "db77e9d06a17b39e9130414e45815bda823e7389af0258331201cc5ca0137944",
+  "units": 99,
+  "scheme": {
+   "citation": "Cic. Quinct. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 26 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 20 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-rabirius-yonge": {
+  "title": "For C. Rabirius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "917465c827d98095cc2f53726e83291f4bae1c7b3acee37a83ba6570383c05d4",
+  "units": 38,
+  "scheme": {
+   "citation": "Cic. Rab. Perd. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 3 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 8 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-roscius-amerinus-yonge": {
+  "title": "For Sextus Roscius of Ameria",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "5c6d60e680d405f65aef830ffdb2fc4a057a7470d59682146d8fc3753041655c",
+  "units": 154,
+  "scheme": {
+   "citation": "Cic. S. Rosc. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 19 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 12 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 3 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-roscius-comoedus-yonge": {
+  "title": "Quintus Roscius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "6137b3b40dc9ebcc5a30ca69911a82fa843994f7f6c743fcbb1f3e0d7149f5ea",
+  "units": 56,
+  "scheme": {
+   "citation": "Cic. Q. Rosc. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 4 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 2 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-sulla-yonge": {
+  "title": "For P. Sulla",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "ee137854fdb341bb10b21669fc61487c5bf41f3258c13afe341ac7bcdad6b3b6",
+  "units": 94,
+  "scheme": {
+   "citation": "Cic. Sul. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 5 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-tullius-yonge": {
+  "title": "For M. Tullius",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "6fc164ae0adfff31e74069e8a702ca865898cfeb007b5908b07e703fa00a5def",
+  "units": 56,
+  "scheme": {
+   "citation": "Cic. Tul. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 2 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "cicero-verrines-yonge": {
+  "title": "Against Verres",
+  "author": "M. Tullius Cicero",
+  "format": "tei",
+  "sha256": "04a88de59a18cf2b145331dd8a33ec0ec6e7f14b5593ecd66d5b72873e804c2c",
+  "units": 974,
+  "scheme": {
+   "citation": "Cic. Ver. actio.book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 94 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 526 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept). 10 Greek phrase(s) the file writes in beta code converted to Unicode by the standard table."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "quintilian-institutio-butler": {
+  "title": "Institutio Oratoria",
+  "author": "Quintilian",
+  "format": "tei",
+  "sha256": "db36c65d179110cb65194a3b3529f9e25d37c28346402cd50149e0826369b05a",
+  "units": 3732,
+  "scheme": {
+   "citation": "Quint. Inst. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1773 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "sallust-catiline-watson": {
+  "title": "Conspiracy of Catiline",
+  "author": "Sallust",
+  "format": "tei",
+  "sha256": "3c68139f8e3e218c6175c6438517c5da4146d78cad38b6c69113f68084e0aaeb",
+  "units": 61,
+  "scheme": {
+   "citation": "Sal. Cat. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 363 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 92 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "sallust-jugurthine-war-watson": {
+  "title": "The Jugurthine War",
+  "author": "Sallust",
+  "format": "tei",
+  "sha256": "4a93c8b53836b83f82e0a362bde7b9771fed67dc0d9246545cbde00a431aa3ee",
+  "units": 114,
+  "scheme": {
+   "citation": "Sal. Jug. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 329 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 49 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "seneca-apocolocyntosis-rouse": {
+  "title": "Apocolocyntosis",
+  "author": "Seneca, Lucius Annaeus",
+  "format": "tei",
+  "sha256": "1b5cf000dbc35d520802c71f4017f9c95c5e85fc37093e3bcabcc500b36c8e59",
+  "units": 11,
+  "scheme": {
+   "citation": "Sen. Apoc. card",
+   "resolution": "card (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (3 of 10 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 36 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "vitruvius-architecture-morgan": {
+  "title": "The Ten Books on Architecture",
+  "author": "Vitruvius Pollio",
+  "format": "tei",
+  "sha256": "dd30c0bf623863e9f2e2be70f10d6223052b64ca1cdd549b2a5e5271cff9010a",
+  "units": 731,
+  "scheme": {
+   "citation": "Vitr. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 13 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 161 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-latinLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
  }
 }

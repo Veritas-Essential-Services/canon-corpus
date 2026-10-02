@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 110 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 124 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -149,6 +149,16 @@ The living truth for project state is the Obsidian vault:
   untouched. Perseus keyed Tacitus from a 1942 Modern Library reprint, so
   its marginal headings (apparatus only) carry an unverified-provenance
   line in the rights note (`TEI_RIGHTS_NOTE`).
+  Cicero's speeches (Yonge), De Senectute, De Amicitia, De Divinatione
+  (Falconer), De Officiis (Walter Miller); Sallust (Watson), Vitruvius
+  (Morgan), Quintilian (Butler), Seneca's Apocolocyntosis (Rouse). Cicero's
+  essays mark sections as `<milestone unit="section"/>` inside paragraphs:
+  `TEI_PROSE_CUT` opts a book in and `tei_slice()` cuts it there (the
+  chapter rides on each unit as `milestones.chapter`). Numbering slips are
+  fixed by rule in `TEI_PROSE_N_FIX`. Beta-code Greek ("filo/sofos") inside
+  a Greek `<foreign>` is converted to Unicode (`beta_to_unicode`). Cicero's
+  letters (Shuckburgh) are NOT in yet: their files overlap and number
+  letters in parts; they need their own pass.
   convert_tei_prose: one unit per innermost textpart div, id = born-in
   book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
   Footnotes under `apparatus.notes`, headings between divisions under
