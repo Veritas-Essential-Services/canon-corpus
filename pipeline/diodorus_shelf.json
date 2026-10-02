@@ -1,0 +1,27 @@
+{
+ "_about": "Diodorus Siculus, The Historical Library, in George Booth's translation (1700; 1814 edition, 2 vols., with the fragments), raw IA OCR.",
+ "_name_words": [
+  "diodorus",
+  "sicilian",
+  "historical",
+  "library"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "diodorus-booth-v1": [
+   "historicallibra01bootgoog",
+   "The Historical Library of Diodorus the Sicilian, vol. 1 (1814)",
+   "tr. George Booth"
+  ],
+  "diodorus-booth-v2": [
+   "historicallibra00bootgoog",
+   "The Historical Library of Diodorus the Sicilian, vol. 2 (1814)",
+   "tr. George Booth"
+  ]
+ },
+ "_excluded": {
+  "historicallibra00diodgoog, historicallibra01diodgoog": "a second scan of the same 1814 edition",
+  "Oldfather, Loeb (1933-)": "not PD"
+ }
+}
