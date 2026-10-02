@@ -119,6 +119,37 @@
       "started": "2026-10-02T15:58:36-05:00",
       "finished": "2026-10-02T16:02:54-05:00",
       "notes": "Lucian 6 (Fowler complete), Cicero 15 (Yonge Orations complete; Shuckburgh correspondence complete; philosophy and rhetoric). Winstedt's Atticus held back: Latin facing."
+    },
+    {
+      "id": "greek-orators",
+      "status": "running",
+      "scope": "CLASSICAL (census gap) \u2014 Demosthenes (Kennedy, Bohn), Lysias, Isocrates (Freese; Dinsmore), Aeschines, the minor Attic orators where PD English exists; shelf per author + fetch + map",
+      "started": "2026-10-02T16:04:22-05:00"
+    },
+    {
+      "id": "greek-poets-minor",
+      "status": "todo",
+      "scope": "CLASSICAL (census gap) \u2014 Pindar (Myers, Moore; cross-ref cary-pindar lane C), Theocritus/Bion/Moschus (Calverley, Banks; Lang's cross-ref lane D), Apollonius Rhodius (Seaton, Coleridge, Way), Quintus Smyrnaeus (Way), Musaeus, the Greek Anthology (Mackail, Paton); shelf per author + fetch + map"
+    },
+    {
+      "id": "greek-late-philosophy",
+      "status": "todo",
+      "scope": "CLASSICAL (census gap) \u2014 Diogenes Laertius (Yonge), Plotinus (MacKenna where cleared, Taylor), Longinus (Havell, Roberts), Sextus Empiricus, Porphyry (Taylor); shelf per author + fetch + map"
+    },
+    {
+      "id": "greek-geographers-historians",
+      "status": "todo",
+      "scope": "CLASSICAL (census gap) \u2014 Pausanias (Frazer, Taylor), Strabo (Hamilton and Falconer), Appian (White), Diodorus Siculus (Booth), Dio Cassius (Cary where cleared), Athenaeus (Yonge); shelf per author + fetch + map"
+    },
+    {
+      "id": "greek-science",
+      "status": "todo",
+      "scope": "CLASSICAL (census gap) \u2014 Euclid (Heath), Archimedes (Heath), Hippocrates (Adams), Galen (Brock where cleared), Aretaeus (Adams), Theophrastus (Characters: Jebb); shelf per author + fetch + map"
+    },
+    {
+      "id": "latin-silver-late",
+      "status": "todo",
+      "scope": "CLASSICAL (census gap) \u2014 Martial (Bohn), Statius, Valerius Flaccus, Silius Italicus, Claudian (Hawkins; Platnauer where cleared), Quintilian (Watson), Vitruvius (Morgan; Gwilt), Aulus Gellius, Ammianus Marcellinus (Yonge), Macrobius; shelf per author + fetch + map"
     }
   ]
 }
