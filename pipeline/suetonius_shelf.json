@@ -1,0 +1,21 @@
+{
+ "_about": "Suetonius in English: Alexander Thomson's translation revised by T. Forester (Bohn), the Twelve Caesars with the Lives of the Grammarians, Rhetoricians and Poets, in Gutenberg's complete edition. The 14 single-life Gutenberg files are the same text and are not fetched.",
+ "_name_words": [
+  "suetonius",
+  "caesars"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "suetonius-thomson-forester": [
+   6400,
+   "The Lives of the Twelve Caesars, complete",
+   "tr. Alexander Thomson, rev. T. Forester"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg6386-6399": "the same text split into 14 files",
+  "Philemon Holland (1606)": "PD; pending",
+  "J. C. Rolfe, Loeb (1914)": "US PD by date; on Perseus; pending"
+ }
+}

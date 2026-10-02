@@ -1,0 +1,56 @@
+{
+ "_about": "The two Plinys in English, translator per title. Elder: John Bostock and H. T. Riley's Natural History (Bohn, 1855-57), 6 vols., clean Gutenberg. Younger: William Melmoth's Letters (1746), revised by F. C. T. Bosanquet; John B. Firth's Letters, First Series vol. 1.",
+ "_name_words": [
+  "pliny",
+  "plinius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pliny-elder-bostock-riley-v1": [
+   57493,
+   "The Natural History of Pliny, vol. 1 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v2": [
+   60230,
+   "The Natural History of Pliny, vol. 2 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v3": [
+   59131,
+   "The Natural History of Pliny, vol. 3 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v4": [
+   61113,
+   "The Natural History of Pliny, vol. 4 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v5": [
+   60688,
+   "The Natural History of Pliny, vol. 5 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-elder-bostock-riley-v6": [
+   62704,
+   "The Natural History of Pliny, vol. 6 (of 6)",
+   "tr. John Bostock and H. T. Riley (Bohn)"
+  ],
+  "pliny-younger-melmoth-letters": [
+   2811,
+   "Letters of Pliny",
+   "tr. William Melmoth, rev. F. C. T. Bosanquet"
+  ],
+  "pliny-younger-firth-letters-1": [
+   3234,
+   "The Letters of the Younger Pliny, First Series, vol. 1",
+   "tr. John B. Firth"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg58589": "The Boys' and Girls' Pliny: adaptation",
+  "Firth, the remaining volume(s)": "not on Gutenberg; pending",
+  "Philemon Holland's Natural History (1601)": "PD; pending"
+ }
+}

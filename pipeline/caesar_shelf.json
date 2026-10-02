@@ -1,0 +1,21 @@
+{
+ "_about": "Julius Caesar in English: W. A. McDevitte and W. S. Bohn (Bohn, 1869), the Gallic and Civil Wars with the Alexandrian, African and Spanish Wars, clean Gutenberg.",
+ "_name_words": [
+  "caesar",
+  "gallico",
+  "commentaries"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "caesar-mcdevitte-bohn": [
+   10657,
+   "'De Bello Gallico' and Other Commentaries",
+   "tr. W. A. McDevitte and W. S. Bohn"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Arthur Golding (1565)": "PD; pending",
+  "H. J. Edwards, Loeb Gallic War (1917)": "US PD by date, Latin facing; pending"
+ }
+}

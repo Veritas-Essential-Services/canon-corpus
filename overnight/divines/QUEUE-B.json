@@ -98,8 +98,11 @@
     },
     {
       "id": "roman-historians",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Tacitus (Church and Brodribb), Livy (Roberts, Spillan), Caesar (McDevitte and Bohn), Suetonius (Thomson/Forester, Rolfe 1914), Sallust; shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Tacitus (Church and Brodribb), Livy (Roberts, Spillan), Caesar (McDevitte and Bohn), Suetonius (Thomson/Forester, Rolfe 1914), Sallust; shelf per author + fetch + map",
+      "started": "2026-10-02T15:52:28-05:00",
+      "finished": "2026-10-02T15:54:45-05:00",
+      "notes": "Tacitus 6, Livy 5 (Bohn complete), Caesar 1, Suetonius 1, Sallust 1, Pliny 8 fetched; 22.8 MB; trial PG 52,933 units. Finding: the Adler shelf's tacitus-annals (PG 7959) is Gordon's 'Reign of Tiberius' (Annals I-VI selection), not Church and Brodribb as labelled."
     },
     {
       "id": "roman-poets",

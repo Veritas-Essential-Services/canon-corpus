@@ -621,6 +621,89 @@ Pending (wishlist): Gummere's Moral Epistles (Loeb 1917-25, Latin facing); Thoma
 
 Excluded: PG 59025 (index), PG 55705 (another Seneca, wrong author).
 
+## Tacitus
+
+Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories (raw IA), the Oxford Germany and Agricola, Fyfe's Histories (US PD per Gutenberg), Gordon's Germany, Murphy's Dialogue. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Germany and the Agricola of Tacitus | the Oxford translation revised (with notes) | `tacitus-oxford-germany-agricola` | have (PG 7524) |
+| Tacitus: The Histories, vols. I and II | W. Hamilton Fyfe (1912); US PD per Gutenberg | `tacitus-fyfe-histories` | have (PG 16927) |
+| Tacitus on Germany | Thomas Gordon | `tacitus-gordon-germany` | have (PG 2995) |
+| A Dialogue Concerning Oratory, or the Causes of Corrupt Eloquence | Arthur Murphy | `tacitus-murphy-dialogue` | have (PG 15017) |
+| Annals of Tacitus, translated into English with notes and maps (1906 printing) | A. J. Church and W. J. Brodribb | `tacitus-church-brodribb-annals` | have-raw (IA `annalstacitustr00brodgoog`) |
+| The History of Tacitus, translated into English (1894 printing) | A. J. Church and W. J. Brodribb | `tacitus-church-brodribb-histories` | have-raw (IA `historyoftacitus00taci`) |
+| — | — | `tacitus-annals` | cross-ref → Adler shelf: PG 7959, which is Thomas GORDON's 'The Reign of Tiberius, out of the First Six Annals' (ed. Galton), not Church and Brodribb's Annals as the Adler label says; the full Church-Brodribb Annals is now on this shelf |
+
+Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); Gordon's complete Tacitus (1728-31).
+
+Excluded: PG 59786 (index).
+
+## Livy
+
+Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Edmonds, McDevitte) across four Gutenberg texts; Church and Brodribb Books I-III. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, Books I-VIII | D. Spillan (Bohn) | `livy-bohn-1-8` | have (PG 19725) |
+| The History of Rome, Books IX-XXVI | D. Spillan and Cyrus Edmonds (Bohn) | `livy-bohn-9-26` | have (PG 10907) |
+| The History of Rome, Books XXVII-XXXVI | Cyrus Edmonds (Bohn) | `livy-bohn-27-36` | have (PG 12582) |
+| The History of Rome, Books XXXVII to the end, with the Epitomes and Fragments | W. A. McDevitte (Bohn) | `livy-bohn-37-end` | have (PG 44318) |
+| Roman History, Books I-III | A. J. Church and W. J. Brodribb, ed. Duffield Osborne | `livy-church-brodribb-1-3` | have (PG 10828) |
+
+Pending (wishlist): Philemon Holland (1600); Foster's Loeb, early volumes.
+
+## Julius Caesar
+
+Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five commentaries, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| 'De Bello Gallico' and Other Commentaries | W. A. McDevitte and W. S. Bohn | `caesar-mcdevitte-bohn` | have (PG 10657) |
+
+Pending (wishlist): Arthur Golding's Caesar (1565); Edwards's Loeb Gallic War (1917).
+
+## Suetonius
+
+Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Lives of the Twelve Caesars, complete | Alexander Thomson, rev. T. Forester | `suetonius-thomson-forester` | have (PG 6400) |
+
+Pending (wishlist): Philemon Holland (1606); Rolfe's Loeb (1914), on Perseus.
+
+Excluded: PG 6386-6399 (the same text split into 14 files).
+
+## Sallust
+
+Shelf: `pipeline/sallust_shelf.json`. Watson (Bohn). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Conspiracy of Catiline and the Jugurthine War | J. S. Watson (Bohn) | `sallust-watson` | have (PG 7990) |
+
+Pending (wishlist): Rolfe's Loeb (1921), on Perseus.
+
+## Pliny the Elder and the Younger
+
+Shelf: `pipeline/pliny_shelf.json`. Bostock and Riley's Natural History, 6 vols.; Melmoth's Letters (rev. Bosanquet); Firth's Letters vol. 1. Clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Natural History of Pliny, vol. 1 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v1` | have (PG 57493) |
+| The Natural History of Pliny, vol. 2 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v2` | have (PG 60230) |
+| The Natural History of Pliny, vol. 3 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v3` | have (PG 59131) |
+| The Natural History of Pliny, vol. 4 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v4` | have (PG 61113) |
+| The Natural History of Pliny, vol. 5 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v5` | have (PG 60688) |
+| The Natural History of Pliny, vol. 6 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v6` | have (PG 62704) |
+| Letters of Pliny | William Melmoth, rev. F. C. T. Bosanquet | `pliny-younger-melmoth-letters` | have (PG 2811) |
+| The Letters of the Younger Pliny, First Series, vol. 1 | John B. Firth | `pliny-younger-firth-letters-1` | have (PG 3234) |
+
+Pending (wishlist): Firth's remaining volume(s); Holland's Natural History (1601).
+
+Excluded: PG 58589 (adaptation).
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

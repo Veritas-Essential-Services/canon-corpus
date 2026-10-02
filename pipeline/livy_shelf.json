@@ -1,0 +1,41 @@
+{
+ "_about": "Livy in English: the Bohn translation, complete across four Gutenberg texts (D. Spillan, Cyrus Edmonds, W. A. McDevitte; Books I-VIII, IX-XXVI, XXVII-XXXVI, XXXVII to the end with the Epitomes and fragments). Also Church and Brodribb's Books I-III (ed. Osborne).",
+ "_name_words": [
+  "livy",
+  "rome",
+  "roman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "livy-bohn-1-8": [
+   19725,
+   "The History of Rome, Books I-VIII",
+   "tr. D. Spillan (Bohn)"
+  ],
+  "livy-bohn-9-26": [
+   10907,
+   "The History of Rome, Books IX-XXVI",
+   "tr. D. Spillan and Cyrus Edmonds (Bohn)"
+  ],
+  "livy-bohn-27-36": [
+   12582,
+   "The History of Rome, Books XXVII-XXXVI",
+   "tr. Cyrus Edmonds (Bohn)"
+  ],
+  "livy-bohn-37-end": [
+   44318,
+   "The History of Rome, Books XXXVII to the end, with the Epitomes and Fragments",
+   "tr. W. A. McDevitte (Bohn)"
+  ],
+  "livy-church-brodribb-1-3": [
+   10828,
+   "Roman History, Books I-III",
+   "tr. A. J. Church and W. J. Brodribb, ed. Duffield Osborne"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Philemon Holland (1600)": "PD; pending",
+  "B. O. Foster, Loeb (1919-)": "early vols. US PD by date, Latin facing; pending"
+ }
+}

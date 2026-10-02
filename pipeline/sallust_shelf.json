@@ -1,0 +1,20 @@
+{
+ "_about": "Sallust in English: J. S. Watson (Bohn), the Catiline and the Jugurthine War, clean Gutenberg.",
+ "_name_words": [
+  "sallust",
+  "catiline",
+  "jugurthine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sallust-watson": [
+   7990,
+   "Conspiracy of Catiline and the Jugurthine War",
+   "tr. J. S. Watson (Bohn)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "J. C. Rolfe, Loeb (1921)": "US PD by date; on Perseus; pending"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_about": "Tacitus in English, translator per title. Alfred John Church and William Jackson Brodribb: Annals (1876; 1906 printing) and Histories (1864; 1894 printing), raw IA; Germany and Agricola ('the Oxford translation revised'), clean Gutenberg. W. Hamilton Fyfe's Histories (Oxford, 1912; Gutenberg clears it as US PD; Fyfe d. 1965). Thomas Gordon (1728-31): Germany, clean Gutenberg; his Annals I-VI selection is already on the Adler shelf. Arthur Murphy's Dialogue on Oratory.",
+ "_name_words": [
+  "tacitus",
+  "cornelius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tacitus-oxford-germany-agricola": [
+   7524,
+   "The Germany and the Agricola of Tacitus",
+   "tr. the Oxford translation revised (with notes)"
+  ],
+  "tacitus-fyfe-histories": [
+   16927,
+   "Tacitus: The Histories, vols. I and II",
+   "tr. W. Hamilton Fyfe (1912); US PD per Gutenberg"
+  ],
+  "tacitus-gordon-germany": [
+   2995,
+   "Tacitus on Germany",
+   "tr. Thomas Gordon"
+  ],
+  "tacitus-murphy-dialogue": [
+   15017,
+   "A Dialogue Concerning Oratory, or the Causes of Corrupt Eloquence",
+   "tr. Arthur Murphy"
+  ]
+ },
+ "internet_archive": {
+  "tacitus-church-brodribb-annals": [
+   "annalstacitustr00brodgoog",
+   "Annals of Tacitus, translated into English with notes and maps (1906 printing)",
+   "tr. A. J. Church and W. J. Brodribb"
+  ],
+  "tacitus-church-brodribb-histories": [
+   "historyoftacitus00taci",
+   "The History of Tacitus, translated into English (1894 printing)",
+   "tr. A. J. Church and W. J. Brodribb"
+  ]
+ },
+ "_cross_ref": {
+  "tacitus-annals": "Adler shelf: PG 7959, which is Thomas GORDON's 'The Reign of Tiberius, out of the First Six Annals' (ed. Galton), not Church and Brodribb's Annals as the Adler label says; the full Church-Brodribb Annals is now on this shelf"
+ },
+ "_excluded": {
+  "pg59786": "index page",
+  "John Jackson, Loeb Annals (1931-37)": "not cleared"
+ }
+}
