@@ -253,6 +253,14 @@
   "garnett-goncharov-common-story": [
    "cu31924026662183",
    "A Common Story"
+  ],
+  "garnett-gogol-overcoat": [
+   "overcoatothersto0000niko",
+   "The Overcoat, and Other Stories"
+  ],
+  "garnett-gogol-dikanka": [
+   "Dikanka",
+   "Evenings on a Farm near Dikanka"
   ]
  },
  "titles": {
@@ -605,12 +613,40 @@
    "of": "Herzen",
    "work": "My Past and Thoughts (6 vols)",
    "translated": "1924-27"
+  },
+  "garnett-gogol-overcoat": {
+   "source": "garnett-gogol-overcoat",
+   "of": "Gogol",
+   "work": "The Overcoat, and Other Stories",
+   "translated": 1923,
+   "scan_edition": "Knopf, copyright 1923 (title page also names 1928: a later printing, still pre-1931)"
+  },
+  "garnett-gogol-dikanka": {
+   "source": "garnett-gogol-dikanka",
+   "of": "Gogol",
+   "work": "Evenings on a Farm near Dikanka",
+   "translated": 1926,
+   "scan_edition": "Knopf 1926 (MCMXXVI)"
+  },
+  "garnett-notes-from-underground": {
+   "source": "garnett-white-nights",
+   "start": [
+    "NOTES FROM UNDERGROUND[1]",
+    1
+   ],
+   "end": [
+    "A FAINT HEART",
+    1
+   ],
+   "of": "Dostoevsky",
+   "work": "Notes from Underground",
+   "translated": 1918,
+   "note": "A title cut from inside the White Nights volume (1918). The volume and this title overlap: at minting, the passages get ONE uid each, never two."
   }
  },
  "_pending": {
-  "garnett-gogol-other": "Works of Gogol vols 3-6 (Chatto 1923-28: The Overcoat and Other Stories; Evenings on a Farm near Dikanka; The Government Inspector and Other Plays; Mirgorod) - all pre-1931, PD; no verified IA scan found this run.",
-  "garnett-dostoevsky-poor-folk": "Poor Folk and The Uncle's Dream volumes of the Heinemann Novels (1915-20): not located with a verified Garnett title page this run.",
-  "garnett-notes-from-underground": "Cut out of garnett-white-nights as its own title (heading markers) - pending.",
+  "garnett-gogol-other": "Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers).",
+  "garnett-dostoevsky-poor-folk": "Poor Folk / Uncle's Dream: no Garnett version verified. The 1915 'Poor Folk and The Gambler' scans on IA are the Everyman (C. J. Hogarth) translation. Whether Garnett ever published these is unverified - do not list as hers without a title page.",
   "garnett-war-and-peace-1904": "Heinemann 1904 first printing, wanted to replace the later scan.",
   "garnett-turgenev-novels-1894": "The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective."
  },
@@ -622,7 +658,9 @@
   "ia-houseofdeadorpri00dostuoft": "House of the Dead 1911: predates Garnett's 1915 version; no Garnett on the title page.",
   "ia-warpeace01tols_0": "War and Peace, Carlton House edition, undated: rule - undatable printings excluded.",
   "ia-dli/in.ernet scans": "Digital Library of India copies: their _djvu.txt files 404 at the expected path; Cornell/Toronto/other scans used instead.",
-  "chekhov-plays-1930-modern-library": "The Plays of Anton Tchekov (Modern Library, 1929-30): a reprint of the 1923 volumes, which are used."
+  "chekhov-plays-1930-modern-library": "The Plays of Anton Tchekov (Modern Library, 1929-30): a reprint of the 1923 volumes, which are used.",
+  "ia-mirgorodgogol": "Mirgorod, Potsdam 1924 (Kiepenheuer): a Russian-language edition, not Garnett.",
+  "ia-poorfolkgambler00dost": "Poor Folk; The Gambler (1915): Everyman edition, C. J. Hogarth's translation."
  },
  "_notes": {
   "pg-30723": "PG 30723 Fathers and Children credits Garnett in its header (catalogue lists W. A. Neilson as introducer)."

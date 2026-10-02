@@ -16,6 +16,14 @@
       "started": "2026-10-02T15:18-05:00",
       "finished": "2026-10-02T15:30-05:00",
       "notes": "Shelf pipeline/garnett_shelf.json: 60 sources (40 PG, 20 IA), 40.3 MB, 0 failed; 52 titles cut (multi-volume titles joined), 0 failed. Every PG file's Translator line reads Constance Garnett. IA OCR quality 0.92-0.97 (share of tokens in a clean Garnett vocabulary; PG Anna Karenina 0.962). Defects: not converted to unit-id JSON (needs fetch_sources.py entry: off limits); no uids minted (52 titles await Adam); War and Peace, House of the Dead, Honest Thief, plays are later printings (scan_edition recorded); Notes from Underground still inside garnett-white-nights; Gogol vols 3-6, Poor Folk, Uncle's Dream not found with a verified title page (pending)."
+    },
+    {
+      "id": "overflow-garnett-gaps",
+      "status": "done-with-defects",
+      "started": "2026-10-02T15:31-05:00",
+      "scope": "Overflow (found while finishing shelf-garnett): Gogol vols 3-6 scans, Notes from Underground as its own cut title, re-check Poor Folk / Uncle's Dream attribution",
+      "finished": "2026-10-02T15:31-05:00",
+      "notes": "Added Gogol: The Overcoat and Other Stories (1923) and Evenings on a Farm near Dikanka (1926), both Knopf scans naming Garnett; Notes from Underground cut from White Nights as its own title (overlap flagged for minting). Still pending: Government Inspector (1926), Mirgorod (1928) - no verified scan. Poor Folk / Uncle's Dream: no Garnett version found; IA 1915 copies are Hogarth (Everyman). Shelf now 62 sources, 55 titles."
     }
   ]
 }

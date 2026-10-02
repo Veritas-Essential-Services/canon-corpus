@@ -19,3 +19,9 @@
 - Excluded: PG 600/6536 (duplicate of Notes inside White Nights), PG 4602 (older transcription), PG 1944 (no translator named in file), non-Garnett PG versions (Martin, Hogarth), IA 1911 House of the Dead (not Garnett), DLI scans (txt 404).
 - Pending: Gogol vols 3-6, Poor Folk / Uncle's Dream, Notes from Underground as its own cut title, 1904 War and Peace first printing.
 - tests/structure_test.py: 64 passed, 0 failed.
+
+## 2026-10-02T15:31-05:00 — overflow-garnett-gaps: done-with-defects
+- +2 Gogol (IA overcoatothersto0000niko, 1923; IA Dikanka, Knopf 1926), both title pages name Garnett. Fetched 2/2.
+- +1 cut title: garnett-notes-from-underground (from inside garnett-white-nights; overlap flagged so minting gives one uid per passage).
+- Not found: Government Inspector (1926), Mirgorod (1928). IA mirgorodgogol is a Russian edition (excluded). Poor Folk / Uncle's Dream: no Garnett version located; the 1915 IA copies are Hogarth's (excluded).
+- Garnett shelf now 62 sources, 55 titles, all cut.

@@ -305,9 +305,11 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | `garnett-ostrovsky-storm` | Ostrovsky | The Storm (play) | 1899 | have | PG 7991 |
 | `garnett-goncharov-common-story` | Goncharov | A Common Story | 1894 | have-raw | IA `cu31924026662183` |
 | `garnett-herzen-my-past-and-thoughts` | Herzen | My Past and Thoughts (6 vols) | 1924-27 | have | PG 76599 + PG 78332 + PG 78336 + PG 78360 + PG 78361 + PG 78377 |
-| `garnett-gogol-other` | — | Works of Gogol vols 3-6 (Chatto 1923-28: The Overcoat and Other Stories; Evenings on a Farm near Dikanka; The Government Inspector and Other Plays; Mirgorod) - all pre-1931, PD; no verified IA scan found this run. | — | pending | — |
-| `garnett-dostoevsky-poor-folk` | — | Poor Folk and The Uncle's Dream volumes of the Heinemann Novels (1915-20): not located with a verified Garnett title page this run. | — | pending | — |
-| `garnett-notes-from-underground` | — | Cut out of garnett-white-nights as its own title (heading markers) - pending. | — | pending | — |
+| `garnett-gogol-overcoat` | Gogol | The Overcoat, and Other Stories | 1923 | have-raw | IA `overcoatothersto0000niko` |
+| `garnett-gogol-dikanka` | Gogol | Evenings on a Farm near Dikanka | 1926 | have-raw | IA `Dikanka` |
+| `garnett-notes-from-underground` | Dostoevsky | Notes from Underground | 1918 | have | PG 36034 (cut from the volume) |
+| `garnett-gogol-other` | — | Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers). | — | pending | — |
+| `garnett-dostoevsky-poor-folk` | — | Poor Folk / Uncle's Dream: no Garnett version verified. The 1915 'Poor Folk and The Gambler' scans on IA are the Everyman (C. J. Hogarth) translation. Whether Garnett ever published these is unverified - do not list as hers without a title page. | — | pending | — |
 | `garnett-war-and-peace-1904` | — | Heinemann 1904 first printing, wanted to replace the later scan. | — | pending | — |
 | `garnett-turgenev-novels-1894` | — | The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective. | — | pending | — |
 | — | — | pg-600, pg-6536: Notes from Underground standalone: duplicates the text inside garnett-white-nights. | — | excluded | — |
@@ -318,6 +320,8 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | — | — | ia-warpeace01tols_0: War and Peace, Carlton House edition, undated: rule - undatable printings excluded. | — | excluded | — |
 | — | — | ia-dli/in.ernet scans: Digital Library of India copies: their _djvu.txt files 404 at the expected path; Cornell/Toronto/other scans used instead. | — | excluded | — |
 | — | — | chekhov-plays-1930-modern-library: The Plays of Anton Tchekov (Modern Library, 1929-30): a reprint of the 1923 volumes, which are used. | — | excluded | — |
+| — | — | ia-mirgorodgogol: Mirgorod, Potsdam 1924 (Kiepenheuer): a Russian-language edition, not Garnett. | — | excluded | — |
+| — | — | ia-poorfolkgambler00dost: Poor Folk; The Gambler (1915): Everyman edition, C. J. Hogarth's translation. | — | excluded | — |
 # Storytellers
 
 ## Andrew Lang
