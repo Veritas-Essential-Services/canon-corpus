@@ -106,6 +106,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_english_versification.py --check  # their KJV maps byte-identical; invariants
     python3 pipeline/build_english_versification.py --audit geneva  # verses a nearby KJV verse fits better
     python3 tests/english_versification_test.py  # the five maps, offline
+    python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
+    python3 pipeline/build_parallel_index.py --check  # the index byte-identical
+    python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -220,6 +223,13 @@ The living truth for project state is the Obsidian vault:
   one reachable PD copy, BibleNLP's eBible extract, drops verses where the
   Vulgate's chapters run longer than the Hebrew's), Coverdale and the
   Bishops' (no reachable machine-readable PD source found).
+  Candidates for a full-network lane: docs/pending-sources.md.
+- pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
+  generated): one row per KJV verse (with its uid), naming the verse(s) that
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
+  pilot on this branch), and each shelf version, in that version's own
+  numbering. Read off the committed maps and the built books' `kjv`; no new
+  judgement. A version's verse with no KJV verse is in no row.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
