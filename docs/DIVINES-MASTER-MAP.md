@@ -2746,6 +2746,19 @@ Shelf: `pipeline/dickens-christmas_shelf.json` (2026-10-02; added at the coordin
 | dickens-not-his | excluded | stage adaptations by others: C. A. Scott's Old Scrooge (40729), C. Z. Barnett's The Miser's Warning (41739) |
 | dickens-not-this-shelf | excluded | his Christmas stories written for Household Words and All the Year Round, and his novels: outside the relay's five Christmas books |
 
+## Carlo Collodi (Pinocchio)
+
+Shelf: `pipeline/collodi_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two public-domain English Pinocchios, one slug each with the translator in the title: Della Chiesa (1914), clean and cited by chapter, and Murray (1892), the first English translation, as raw OCR. A 1916 Whitman edition that names no translator is held back until someone identifies the translator. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adventures of Pinocchio, tr. Carol Della Chiesa (1914) | have | PG 500, `collodi-pinocchio-della-chiesa` (1757 units) |
+| The Story of a Puppet; or, The Adventures of Pinocchio, tr. M. A. Murray (London: T. Fisher Unwin, 1892) | have-raw | IA `storyofpuppetora00colliala`, `collodi-pinocchio-murray` |
+| collodi-duplicates | excluded | The Adventures of Pinocchio (PG 19516, Della Chiesa again) |
+| collodi-translator-unrecorded | pending | Pinocchio: The Tale of a Puppet (PG 16865, Whitman 1916, ill. Alice Carsey) names no translator; it does not enter the shelf until the translator is identified (the 2026-07-26 rights rule) |
+| collodi-not-pinocchio | excluded | Beppo, tr. W. S. Cramp (PG 78089): not Pinocchio, outside the relay's ask; The Heart of Pinocchio (41446) is by Collodi Nipote, not Collodi |
+| collodi-translations | excluded | Italian originals (19517, 52484) and the Finnish translation (53077): this shelf is English |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

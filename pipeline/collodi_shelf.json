@@ -1,0 +1,27 @@
+{
+ "_about": "Carlo Collodi's (Carlo Lorenzini, 1826-1890) Pinocchio in two public-domain English translations, each its own work with the translator in its title, as with Andersen: Carol Della Chiesa's (1914, clean Gutenberg text) and M. A. Murray's, the first English Pinocchio (London: T. Fisher Unwin, 1892; raw Internet Archive OCR). Both published before 1930: US public domain.",
+ "_author": "Carlo Collodi",
+ "_name_words": [
+  "collodi",
+  "pinocchio"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "collodi-pinocchio-della-chiesa": [
+   500,
+   "The Adventures of Pinocchio, tr. Carol Della Chiesa (1914)"
+  ]
+ },
+ "internet_archive": {
+  "collodi-pinocchio-murray": [
+   "storyofpuppetora00colliala",
+   "The Story of a Puppet; or, The Adventures of Pinocchio, tr. M. A. Murray (London: T. Fisher Unwin, 1892)"
+  ]
+ },
+ "_excluded": {
+  "collodi-duplicates": "The Adventures of Pinocchio (PG 19516, Della Chiesa again)",
+  "collodi-translator-unrecorded": "PENDING: Pinocchio: The Tale of a Puppet (PG 16865, Whitman 1916, ill. Alice Carsey) names no translator; it does not enter the shelf until the translator is identified (the 2026-07-26 rights rule)",
+  "collodi-not-pinocchio": "Beppo, tr. W. S. Cramp (PG 78089): not Pinocchio, outside the relay's ask; The Heart of Pinocchio (41446) is by Collodi Nipote, not Collodi",
+  "collodi-translations": "Italian originals (19517, 52484) and the Finnish translation (53077): this shelf is English"
+ }
+}

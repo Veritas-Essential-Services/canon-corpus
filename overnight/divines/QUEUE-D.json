@@ -211,8 +211,11 @@
     },
     {
       "id": "collodi",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Carlo Collodi: Pinocchio in a public-domain English translation (Della Chiesa 1914 and/or Murray 1892, translator recorded); no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Carlo Collodi: Pinocchio in a public-domain English translation (Della Chiesa 1914 and/or Murray 1892, translator recorded); no minting",
+      "started": "2026-10-02T16:33:27-05:00",
+      "finished": "2026-10-02T16:34:20-05:00",
+      "notes": "2/2 fetched: Della Chiesa 1914 (Gutenberg 500; 1,757 units, 36 chapters) and Murray 1892 (IA raw OCR, translator confirmed on the title page). PG 16865 held back: no translator named. No uids minted; not in manifest."
     },
     {
       "id": "lofting",
