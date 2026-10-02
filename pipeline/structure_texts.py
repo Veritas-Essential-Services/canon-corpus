@@ -735,6 +735,95 @@ def convert_brenton(zpath, sha, slug="brenton"):
                        "requests": "eBible asks that errors in the text be reported to it"},
             "units": units}
 
+# ---------------------------------------------------------------- historic English Bibles
+#
+# Geneva 1599, Tyndale, Young's, Darby, the ASV 1901 (fetch_sources.ENGLISH:
+# scrollmapper's JSON of CrossWire's modules, pinned). A module sits on the
+# KJV's verse grid, so the ids are its slots: the Bible's own numbers, except
+# where a chapter numbers otherwise and its overflow is merged into the last
+# slot. Each unit's `kjv` comes from data/versification/<slug>-kjv.json
+# (build_english_versification.py), read off the English against the KJV's.
+# Empty slots are not units. The text is the source's, never edited.
+
+# Per-book rules (golden rule 2: fixes live here, so they rerun on refetch).
+# Darby: CrossWire's module marks every "God", and scrollmapper's stripping of
+# the mark ate the space before it ("In the beginningGod", 3,437 times;
+# "Godhead" twice). No English word has a lower-case letter before "God".
+ENGLISH_RULES = {
+    "darby": [(re.compile(r"(?<=[a-z])(?=God(?:head)?\b)"), " ",
+               "a space restored before 'God', lost when the source's markup was stripped")],
+}
+
+
+def convert_english(path, slug, sha):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    import fetch_sources as _fs
+    e = _fs.ENGLISH[slug]
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    with open(os.path.join(HERE, "..", "data", "greppable", "kjv.tsv"), encoding="utf-8") as f:
+        books = list(dict.fromkeys(l.split("\t", 1)[0][4:].split(".")[0]
+                                   for l in f if l.startswith("kjv:")))
+    if len(data["books"]) != len(books):
+        raise ValueError(f"{slug}: {len(data['books'])} books, expected {len(books)}")
+    emap = None
+    if os.path.exists(_V.english_path(slug)):
+        emap = _V.load(_V.english_path(slug))
+    units, empty, fixed = [], 0, 0
+    resolved = {True: 0, False: 0}
+    for osis, book in zip(books, data["books"]):
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                for rx, rep, _why in ENGLISH_RULES.get(slug, []):
+                    text, n = rx.subn(rep, text)
+                    fixed += n
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if emap:
+                    u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
+                units.append(u)
+    merged = sum(isinstance(x, list) for x in emap["map"].values()) if emap else 0
+    return {"slug": slug, "title": e["title"], "author": e["author"],
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse as the source's CrossWire module "
+                                   "numbers it (the KJV's grid; OSIS book ids)",
+                       "resolution": "verse",
+                       "honesty": "exact" if not merged else
+                                  f"exact, except {merged} verses holding several KJV verses "
+                                  f"(a merged last slot or the Bible's own division)",
+                       "versification": f"{slug} (CrossWire, KJV grid)",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "empty_slots_not_units": empty,
+                       **({"coverage": e["coverage"]} if "coverage" in e else {}),
+                       **({"rules": [{"why": w, "applied": fixed}
+                                     for _r, _p, w in ENGLISH_RULES[slug]]}
+                          if slug in ENGLISH_RULES else {}),
+                       "note": "Ids are the module's slots: the Bible's own numbers wherever it "
+                               "numbers as the KJV does; where a chapter numbers otherwise "
+                               "(the Geneva follows the Hebrew in Num 13, Dan 4 and others) "
+                               "its verses fill the KJV's slots in order and the overflow sits "
+                               "in the last slot. Each unit's `kjv` names the KJV verse(s) "
+                               "holding the same words, by "
+                               f"data/versification/{slug}-kjv.json; no uids minted."},
+            "rights": {"license": "public-domain",
+                       "attribution": f"{e['title']}, via scrollmapper/bible_databases "
+                                      "(from CrossWire's SWORD module)",
+                       "source_url": "https://github.com/scrollmapper/bible_databases",
+                       "rights_line": e["readme"]},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -1996,6 +2085,10 @@ def main():
     bz = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
     if os.path.exists(bz):
         jobs.append(("brenton", lambda: convert_brenton(bz, sha256(bz))))
+    for eslug, e in _fs.ENGLISH.items():
+        ep = os.path.join(CORPUS, "english", e["file"])
+        if os.path.exists(ep):
+            jobs.append((eslug, lambda p=ep, s=eslug: convert_english(p, s, sha256(p))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))

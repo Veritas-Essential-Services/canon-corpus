@@ -25,6 +25,11 @@ built by build_brenton_versification.py), whose verse labels may be lettered
     g = load(BRENTON_PATH)
     resolve_brenton("Ps.50.3", g, kjv_ids)   -> {"resolved": True, "target": "kjv:Ps.51.1"}
     resolve_brenton("Ezra.11.1", g, kjv_ids) -> {"resolved": True, "target": "kjv:Neh.1.1"}
+
+And the historic English Bibles' (data/versification/<slug>-kjv.json):
+
+    e = load(english_path("geneva"))
+    resolve_english("Num.13.1", e, kjv_ids) -> {"resolved": True, "target": "kjv:Num.12.16"}
 """
 import json
 import os
@@ -33,6 +38,11 @@ PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                     "data", "versification", "bhs-kjv.json")
 VULGATE_PATH = os.path.join(os.path.dirname(PATH), "vulgate-kjv.json")
 BRENTON_PATH = os.path.join(os.path.dirname(PATH), "brenton-kjv.json")
+
+
+def english_path(slug):
+    """The map of one of the historic English Bibles (build_english_versification.py)."""
+    return os.path.join(os.path.dirname(PATH), f"{slug}-kjv.json")
 
 
 BOOKS = {"Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth", "1Sam", "2Sam",
@@ -172,3 +182,28 @@ def resolve_brenton(osis, m, kjv_ids):
     if len(ts) > 1:
         out["spans"] = [f"kjv:{t}" if not t.endswith(".title") else t for t in ts]
     return out
+
+
+def resolve_english(osis, m, kjv_ids):
+    """What a verse in one historic English Bible's numbering names in the
+    KJV, by that Bible's map. Resolved only when every KJV verse it lands on
+    has a unit id."""
+    b, ch, v = osis.split(".")
+    have = m["chapters"].get(f"{b}.{ch}", 0)
+    if not (int(v) <= have if isinstance(have, int) else v in have.split(",")) or int(v) < 1:
+        return {"resolved": False, "why": f"no such verse in {m['source']['name']}"}
+    for row in m["no_kjv_verse"]:
+        for run in row["verses"]:
+            rb, rch, rv = run.split(".")
+            lo, _, hi = rv.partition("-")
+            if (rb, rch) == (b, ch) and int(lo) <= int(v) <= int(hi or lo):
+                return {"resolved": False, "why": row["why"]}
+    ts = targets(osis, m)
+    ids = [f"kjv:{t}" for t in ts]
+    if not all(i in kjv_ids for i in ids):
+        return {"resolved": False, "why": "no such verse in the KJV"}  # unreachable while --check holds
+    out = {"resolved": True, "target": ids[0]}
+    if len(ids) > 1:
+        out["spans"] = ids
+    return out
+

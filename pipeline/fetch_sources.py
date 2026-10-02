@@ -156,6 +156,68 @@ def fetch_douay():
         raise RuntimeError(f"Douay-Rheims sha256 {got} != pinned {DOUAY['sha256']}")
     return "1 file, sha256 pinned"
 
+# ENGLISH -- the historic Protestant English Bibles, from the same pinned
+# scrollmapper commit as the Douay. scrollmapper builds them from CrossWire's
+# SWORD modules, so each sits on the KJV's verse GRID: where a Bible numbers
+# otherwise (the Geneva follows the Hebrew in Num 13, Dan 4...), its verses
+# stand in the KJV's slots and a chapter's overflow is merged into its last
+# slot. build_english_versification.py measures each against the KJV's
+# English. Rights lines, read 2026-10-02 in each folder's README.md at the
+# pin ("**License:** Public Domain" for all five; the folder's KJV, built
+# from a module with Strong's markup, says GPL and is not used).
+ENGLISH = {
+    "geneva": {"file": "Geneva1599.json", "title": "The Geneva Bible (1599)",
+               "author": "the Geneva translators (Whittingham and others)", "year": 1599,
+               "sha256": "94258cf6fd486759b4b7ad2af7186b49eff2e85b595bdce89fd5e0e6c226cf0d",
+               "readme": "# Geneva1599: Geneva Bible (1599) / **License:** Public Domain"},
+    "tyndale": {"file": "Tyndale.json", "title": "Tyndale's Bible (1525-1534)",
+                "author": "William Tyndale (translator)", "year": 1534,
+                "sha256": "dbd7bc4ee0ddd5d315d80899958f8e96858c71e1dbb1ec4f954bfd9f9f1cf609",
+                "readme": "# Tyndale: William Tyndale Bible (1525/1530) / **License:** Public Domain",
+                "coverage": "ten books only: Genesis, Matthew-Acts, Romans, 1 Corinthians, "
+                            "Hebrews, Revelation (the module's transcription; Tyndale's "
+                            "other New Testament books, Exodus-Deuteronomy and Jonah are "
+                            "not in it)"},
+    "ylt": {"file": "YLT.json", "title": "Young's Literal Translation (1898)",
+            "author": "Robert Young (translator)", "year": 1898,
+            "sha256": "73c9dd9466ee24cdab7872ec956aae2a8ada2d1c92203e40caeba5a14587dcea",
+            "readme": "# YLT: Young's Literal Translation (1898) / **License:** Public Domain"},
+    "darby": {"file": "Darby.json", "title": "The Darby Bible (1889)",
+              "author": "John Nelson Darby (translator)", "year": 1889,
+              "sha256": "b7198ffbf978ae5670a5ecb2b7b1c073a4d9cf6a459b0c647884e0d340f0a05f",
+              "readme": "# Darby: Darby Bible (1889) / **License:** Public Domain"},
+    "asv": {"file": "ASV.json", "title": "The American Standard Version (1901)",
+            "author": "the American Revision Committee", "year": 1901,
+            "sha256": "1589f16be31b2aa2e9374951ac2ba1ce9566bf3704248b2daf034b3ff9b47b40",
+            "readme": "# ASV: American Standard Version (1901) / **License:** Public Domain"},
+}
+ENGLISH_PIN = {"repo": "scrollmapper/bible_databases",
+               "commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c", "dir": "sources/en"}
+
+
+def fetch_english(slug):
+    """data/corpus/english/<file> (skips a present file); hard stop on a
+    sha256 other than the pin."""
+    import hashlib
+    e = ENGLISH[slug]
+    p = os.path.join(CORPUS, "english", e["file"])
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        folder = e["file"].rsplit(".", 1)[0]
+        url = (f"https://raw.githubusercontent.com/{ENGLISH_PIN['repo']}/"
+               f"{ENGLISH_PIN['commit']}/{ENGLISH_PIN['dir']}/{folder}/{e['file']}")
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != e["sha256"]:
+        raise RuntimeError(f"{slug} sha256 {got} != pinned {e['sha256']}")
+    return "1 file, sha256 pinned"
+
 # BRENTON -- Brenton's English Septuagint (1851), as eBible.org transcribed
 # and corrected it (eng-Brenton). eBible's rights line, in the archive's own
 # copr.htm: "Translation of the Greek Septuagint into English by Sir Lancelot
@@ -505,6 +567,9 @@ def main():
         print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
         print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
         print(f"github/brenton: {BRENTON['repo']}@{BRENTON['commit'][:7]} -- {BRENTON['note']}")
+        for slug, e in ENGLISH.items():
+            print(f"github/{slug}: {ENGLISH_PIN['repo']}@{ENGLISH_PIN['commit'][:7]} -- "
+                  f"{e['title']}; PD")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -548,6 +613,11 @@ def main():
         print(f"github/brenton: {fetch_brenton()}")
     except Exception as e:
         failures.append("brenton"); print(f"github/brenton: FAIL {e}")
+    for slug in ENGLISH:
+        try:
+            print(f"github/{slug}: {fetch_english(slug)}")
+        except Exception as e:
+            failures.append(slug); print(f"github/{slug}: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":
