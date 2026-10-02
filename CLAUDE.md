@@ -367,6 +367,13 @@ first found no Strong's headword (157 entries, evidence `second-ocr`).
 Known residue: the first OCR sometimes reads part of a right-hand column
 before the end of the left (p. 580), and the alphabetical chain then has to
 drop one run or the other (πτέρυξ…πτόησις, 6 entries lost vs 153 gained).
+And three pages (305, 397, 657) were OCR'd straight across both columns, the
+halves joined by " | " on only some lines; ~25 entries there stay folded.
+Splitting at the bar was tried and recovered 1 (too many lines lack it), so
+it was not kept. Where the remaining gap to ~5,600 sits: of Strong's 5,494
+headword keys, 5,100 are found; most of the 394 others are inflected forms
+Strong's numbers separately (ἐμέ, ὑμῖν, μία) that Thayer does not head. The
+next real gain is proofreading those three pages, not another rule.
 
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 
