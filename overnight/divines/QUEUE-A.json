@@ -3,9 +3,11 @@
   "items": [
     {
       "id": "flavel",
-      "status": "running",
+      "status": "done",
       "scope": "John Flavel \u2014 complete public-domain works; shelf + fetch + map section",
-      "started": "2026-10-02T15:11:12-05:00"
+      "started": "2026-10-02T15:11:12-05:00",
+      "finished": "2026-10-02T15:16:54-05:00",
+      "notes": "11/11 fetched, 0 failed. CCEL: grace, pneum, saintindeed, lovely, life (fountain already held). IA: 1820 Whole Works 6 vols, raw OCR, 12.1 MB, 1.83M words. CCEL converted with convert_thml via new pipeline/convert_shelf.py: 4,622 units, 3,942 scripture links. No Gutenberg Flavel exists. Awaiting uid minting: all 11 slugs."
     },
     {
       "id": "bunyan",

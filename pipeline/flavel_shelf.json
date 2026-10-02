@@ -1,0 +1,82 @@
+{
+ "_about": "Every public-domain John Flavel (1630?-1691, Dartmouth) text the Word Hoard holds. The target is the complete Whole Works (London: W. Baynes, 1820, six volumes), Internet Archive OCR text, raw and unconverted (the Edwards precedent). CCEL ThML is clean and structured and is fetched for every CCEL title. No Gutenberg Flavel exists (searched 2026-10-02). Modern reprints (1930 onward) are excluded: their editorial matter may be in copyright.",
+ "_ccel_author": "f/flavel",
+ "_name_words": [
+  "flavel",
+  "john"
+ ],
+ "_held": {
+  "flavel-fountain": "already in pipeline/fetch_sources.py CCEL dict (The Fountain of Life); not refetched here"
+ },
+ "ccel": {
+  "flavel-grace": [
+   "grace",
+   "The Method of Grace in the Gospel Redemption",
+   ""
+  ],
+  "flavel-pneumatologia": [
+   "pneum",
+   "Pneumatologia: A Treatise of the Soul of Man",
+   ""
+  ],
+  "flavel-saint-indeed": [
+   "saintindeed",
+   "A Saint Indeed, or the Great Work of a Christian in Keeping the Heart",
+   ""
+  ],
+  "flavel-lovely": [
+   "lovely",
+   "Christ Altogether Lovely (sermon from The Fountain of Life)",
+   ""
+  ],
+  "flavel-life": [
+   "life",
+   "The Life of the late Rev. Mr. John Flavel (anonymous memoir prefixed to the Works)",
+   "about Flavel, not by him"
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "flavel-works-1820-01": [
+   "wholeworksofjohn01flav",
+   "The Whole Works of John Flavel (London: Baynes, 1820), vol. 1"
+  ],
+  "flavel-works-1820-02": [
+   "wholeworksofjohn02flav",
+   "The Whole Works of John Flavel (London: Baynes, 1820), vol. 2"
+  ],
+  "flavel-works-1820-03": [
+   "wholeworksofjohn03flav",
+   "The Whole Works of John Flavel (London: Baynes, 1820), vol. 3"
+  ],
+  "flavel-works-1820-04": [
+   "wholeworksofjohn04flav",
+   "The Whole Works of John Flavel (London: Baynes, 1820), vol. 4"
+  ],
+  "flavel-works-1820-05": [
+   "wholeworksofjohn05flav",
+   "The Whole Works of John Flavel (London: Baynes, 1820), vol. 5"
+  ],
+  "flavel-works-1820-06": [
+   "wholeworksofjohn06flav",
+   "The Whole Works of John Flavel (London: Baynes, 1820), vol. 6"
+  ]
+ },
+ "_alternates": {
+  "wholeworkstowhic01flavuoft..06": "A second scan of the same 1820 six-volume edition (University of Toronto copy). All six verified 2026-10-02; IA metadata labels vol. 2 as '3' (wholeworkstowhic02flavuoft). Not fetched: duplicate of the set above; useful to repair a bad OCR page.",
+  "wholeworksrever00flavgoog..06flavgoog": "The Whole Works, 1770 edition (Google scans). Not fetched: the 1820 edition supersedes it.",
+  "bim_eighteenth-century_the-whole-works-of-the-r_flavel-john_1701_1": "The Whole Works, 1701 two-volume folio, vol. 1 (ECCO). Not fetched.",
+  "bub_gb_lAcjAQAAMAAJ": "The Whole Works, 1762 (Google scan). Not fetched."
+ },
+ "_excluded": {
+  "triumphingoversi0000flav": "Triumphing over Sinful Fear, 2011 modern edition: editorial matter may be in copyright; the text is in the 1820 Works",
+  "mysteryofprovide0000flav": "The Mystery of Providence, 2006 modern edition (Banner of Truth): in copyright; the text is in the 1820 Works",
+  "keepingheart0000john_e6p5": "Keeping the Heart, 1972 modern edition: in copyright",
+  "fountainoflifeor00flav": "The Fountain of Life, catalogued 1977 reprint: held from CCEL instead",
+  "altreftutfelstve0000flav": "Dutch translation (2017): in copyright, not English",
+  "divineconductorm0000unse": "Divine Conduct, 1935 printing: may carry copyrighted editorial matter; the text is in the 1820 Works",
+  "keepingheartorsa00flav": "Keeping the Heart, 1930 printing: held from CCEL (saintindeed) instead",
+  "mineachadhairsui1879flav": "Scottish Gaelic translation (1879): PD but not English; listed in the map as pending",
+  "Flavel31784 and others": "Same-name people who are not John Flavel the divine: Flavel Shurtleff, Flavel S. Mines, John Flavel Mines, David Flavel Jamison, Flavel B. Tiffany, John Flavel Curwen, John Flavel Bliss, Nellie Flavel, Sidney Flavel & Co."
+ }
+}
