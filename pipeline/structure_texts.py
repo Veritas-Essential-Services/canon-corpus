@@ -326,9 +326,13 @@ def convert_kjv(path, slug="kjv"):
 # is not the KJV's. Its Psalms follow the Greek count (Vulgate Ps 50 is KJV
 # Ps 51) and count a title in verse 1, as the Hebrew does; Daniel 3
 # carries the Song of the Three Children (3:24-90) and Esther its Greek
-# additions (10:4-16:24). So `vulgate:Ps.50.3` is a citation in the Vulgate
-# and is NOT linked to any kjv: unit, and no Word Hoard uid is minted here.
-# Mapping it is a versification job of its own, like BDB's.
+# additions (10:4-16:24). So `vulgate:Ps.50.3` stays a citation in the
+# Vulgate, and no Word Hoard uid is minted here. Each unit's `kjv` says which
+# KJV verse holds the same text, by the map data/versification/vulgate-kjv.json
+# (pipeline/build_vulgate_versification.py, STEPBible TVTMS run against this
+# very text): {"resolved": true, "target": "kjv:Ps.51.1"}, with `spans` when
+# the verse holds several KJV verses; or {"resolved": false, "why": ...} for a
+# psalm title (the KJV numbers none) or text the KJV's canon does not hold.
 
 VULGATE_BOOKS = {   # file -> (OSIS, the book's Latin name)
     "Gn": ("Gen", "Genesis"), "Ex": ("Exod", "Exodus"), "Lv": ("Lev", "Leviticus"),
@@ -376,6 +380,16 @@ def vulgate_layout(marked):
 
 def convert_vulgate(vdir, books, digest, slug="vulgate"):
     """`books`: file names in canonical order; `digest`: the pinned digest."""
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
     units = []
     for b in books:
         osis, name = VULGATE_BOOKS[b]
@@ -393,6 +407,9 @@ def convert_vulgate(vdir, books, digest, slug="vulgate"):
                      "text": text, "links": [], "marked": marked}
                 if speakers:
                     u["speakers"] = speakers
+                if vmap:
+                    u["kjv"] = _V.resolve_vulgate(f"{osis}.{c}.{v}", vmap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
                 units.append(u)
     return {"slug": slug, "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
             "author": "—",
@@ -402,11 +419,15 @@ def convert_vulgate(vdir, books, digest, slug="vulgate"):
             "scheme": {"citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
                        "resolution": "verse", "honesty": "exact",
                        "versification": "vulgate",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
                        "note": "Ids follow the Clementine numbering, NOT the KJV's: the "
                                "Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV "
                                "Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 "
-                               "and Esther 10:4-16:24 the Greek additions. Not linked to "
-                               "kjv: units; no uids minted. `text` is the verse with the "
+                               "and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` "
+                               "names the KJV verse(s) holding the same text, by the map "
+                               "data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY "
+                               "4.0, tested against this text), or says why there is none; "
+                               "no uids minted. `text` is the verse with the "
                                "project's markup turned into line and paragraph breaks; "
                                "`marked` is the file's line as is. The Clementine appendix "
                                "(Prayer of Manasses, 3-4 Esdras) is not in the source."},

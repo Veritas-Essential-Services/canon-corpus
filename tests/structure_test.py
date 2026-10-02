@@ -266,9 +266,17 @@ check("vulgate: a speaker heading is lifted out of the text",
       vu["vulgate:Song.1.1"]["speakers"] == ["Sponsa"]
       and vu["vulgate:Song.1.1"]["text"].startswith("Osculetur"))
 check("vulgate: read as cp1252 (the oe ligature survives)", "œ" in vu["vulgate:Song.1.2"]["text"])
-check("vulgate: scheme says Vulgate numbering, not KJV; nothing links to kjv:",
+check("vulgate: scheme says Vulgate numbering; ids are not rewritten, links[] stays empty",
       vg["scheme"]["versification"] == "vulgate"
       and not any(u["links"] for u in vg["units"]))
+check("vulgate: each unit's `kjv` names the KJV verse by the committed map (Ps 50:3 = KJV 51:1)",
+      vu["vulgate:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"}
+      and vu["vulgate:Song.1.1"]["kjv"] == {"resolved": True, "target": "kjv:Song.1.2"})
+check("vulgate: a psalm title is not resolved, and says where it is in the KJV",
+      vu["vulgate:Ps.50.1"]["kjv"]["resolved"] is False
+      and vu["vulgate:Ps.50.1"]["kjv"]["kjv"] == ["Ps.51.title"])
+check("vulgate: the scheme counts resolved and unresolved units",
+      vg["scheme"]["kjv_resolved"] == 3 and vg["scheme"]["kjv_unresolved"] == 1)
 check("vulgate: the rights block travels with the book",
       vg["rights"]["license"] == "public-domain" and "Clementine" in vg["rights"]["attribution"])
 shutil.rmtree(vd)

@@ -10,12 +10,20 @@ KJV reference(s) it names.
     targets("Ps.51.1", m)   -> ["Ps.51.title"]     (the KJV's unnumbered superscription)
     targets("Isa.63.19", m) -> ["Isa.63.19", "Isa.64.1"]
     targets("Gen.1.1", m)   -> ["Gen.1.1"]         (not in the map: same number)
+
+The Clementine Vulgate's map (data/versification/vulgate-kjv.json, built by
+build_vulgate_versification.py) reads the same way:
+
+    v = load(VULGATE_PATH)
+    targets("Ps.50.3", v)   -> ["Ps.51.1"]
+    resolve_vulgate("Jonah.2.1", v, kjv_ids) -> {"resolved": True, "target": "kjv:Jonah.1.17"}
 """
 import json
 import os
 
 PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                     "data", "versification", "bhs-kjv.json")
+VULGATE_PATH = os.path.join(os.path.dirname(PATH), "vulgate-kjv.json")
 
 
 BOOKS = {"Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth", "1Sam", "2Sam",
@@ -56,4 +64,43 @@ def resolve(osis, m, kjv_ids):
     out = {"resolved": True, "target": ids[0]}
     if len(ids) > 1:
         out["spans"] = ids
+    return out
+
+
+def _no_kjv(osis, m):
+    """Why Clementine verse `osis` has no KJV verse, or None."""
+    b, ch, v = osis.split(".")
+    for row in m["no_kjv_verse"]:
+        for run in row["verses"]:
+            if run.endswith(" (the whole book)"):
+                if run == f"{b} (the whole book)":
+                    return row["why"]
+                continue
+            rb, rch, rv = run.split(".")
+            lo, _, hi = rv.partition("-")
+            if (rb, rch) == (b, ch) and int(lo) <= int(v) <= int(hi or lo):
+                return row["why"]
+    return None
+
+
+def resolve_vulgate(osis, m, kjv_ids):
+    """What a verse in the Clementine's numbering ('Ps.50.3') names in the
+    KJV, as fields for a unit or a link. Resolved only when every KJV verse it
+    lands on has a unit id."""
+    b, ch, v = osis.split(".")
+    if not 1 <= int(v) <= m["vulgate_chapters"].get(f"{b}.{ch}", 0):
+        return {"resolved": False, "why": "no such verse in the Clementine Vulgate"}
+    why = _no_kjv(osis, m)
+    if why:
+        return {"resolved": False, "why": why}
+    ts = targets(osis, m)
+    ids = [f"kjv:{t}" for t in ts if not t.endswith(".title")]
+    if not ids:
+        return {"resolved": False, "kjv": ts,
+                "why": "psalm title: the KJV prints it before v.1, with no verse number"}
+    if not all(i in kjv_ids for i in ids):
+        return {"resolved": False, "why": "no such verse in the KJV"}  # unreachable while --check holds
+    out = {"resolved": True, "target": ids[0]}
+    if len(ts) > 1:
+        out["spans"] = [f"kjv:{t}" if not t.endswith(".title") else t for t in ts]
     return out
