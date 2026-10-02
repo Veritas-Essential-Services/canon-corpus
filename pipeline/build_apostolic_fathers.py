@@ -43,11 +43,11 @@ Anything else is null: a form the NT reads under two numbers (ἡ / ἤ, both η
 is ambiguous without accents and morphology, and a word the NT never uses has
 no Strong's number at all. Never a guess. The rule id rides with every tag.
 
-SCRIPTURE REFERENCES. Lake's notes cite scripture; First1KGreek encodes each
-as a CTS URN (`urn:cts:greekLit:tlg0031.tlg017:3.1` for Titus 3:1). They go in
-links[] as the source states them, `resolved: false`: the OT ones use the
-Septuagint's numbering, and at least one URN names the wrong book (a note on
-Jonah 3 points at John 3), so resolving them needs a check of its own.
+SCRIPTURE REFERENCES. Lake's notes cite scripture, and First1KGreek keyed
+each as a CTS URN. Both are read (pipeline/af_scripture.py): the note's own
+words first, the URN as a cross-check, and every URN that disagrees with the
+note kept as a flagged, unresolved link. OT references resolve through
+Brenton's LXX -> KJV map (PR #9), NT references to the KJV verse directly.
 
 NOT DONE HERE: Lightfoot & Harmer's English (1891, PD) is on CCEL, which this
 environment cannot reach. It is listed under PENDING.
@@ -65,6 +65,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import build_nt_corpus as N  # noqa: E402
+import af_scripture as S  # noqa: E402
+import versification as VM  # noqa: E402
 
 BOOKS = os.path.join(ROOT, "data", "books")
 MANIFEST = os.path.join(BOOKS, "manifest.json")
@@ -216,14 +218,11 @@ def restore_latin(text):
     return "".join(pieces), len(latin)
 
 
-def harvest_refs(el):
-    refs = []
-    for b in el.iter(T + "bibl"):
-        urns = (b.get("corresp") or "").split()
-        label = clean("".join(b.itertext()))
-        for u in urns or [None]:
-            refs.append({"cts": u, "label": label, "resolved": False})
-    return refs
+def harvest_notes(el):
+    """Each <bibl> in the textpart as Lake printed it (label) and as
+    First1KGreek keyed it (CTS URNs); af_scripture.resolve_note reads them."""
+    return [{"label": clean("".join(b.itertext())), "cts": (b.get("corresp") or "").split()}
+            for b in el.iter(T + "bibl")]
 
 
 def cite(slug, abbrev, parts):
@@ -265,7 +264,7 @@ def convert(slug, rel, title, author, abbrev):
         text, n_latin = restore_latin(clean(text_of(div)))
         if not text:
             continue
-        unit = {"id": f"{slug}:{uid}", "ref": ref, "text": text, "links": harvest_refs(div)}
+        unit = {"id": f"{slug}:{uid}", "ref": ref, "text": text, "links": harvest_notes(div)}
         if n_latin:
             unit["lang"] = "la" if not any(_marked(w) for w in WORD.findall(text)) else "grc+la"
         units.append(unit)
@@ -281,8 +280,9 @@ def convert(slug, rel, title, author, abbrev):
                                   "of the Loeb, corrected but not proofread here, and carries "
                                   "OCR slips (e.g. παῤ for παρ᾽)",
                        "note": "Text only: Lake's notes, heads and apparatus are left out of "
-                               "`text`; his scripture references are in links[] as stated, "
-                               "unresolved (LXX numbering; at least one wrong URN)."},
+                               "`text`. His scripture references are in links[], resolved to "
+                               "kjv: unit ids where the note and the map allow "
+                               "(pipeline/af_scripture.py); the rest say why not."},
             "rights": dict(RIGHTS),
             "units": units}
 
@@ -381,7 +381,10 @@ def entry(book, blob):
          "sha256": book["source"]["sha256"], "units": len(book["units"]),
          "scheme": book["scheme"], "rights": book["rights"]}
     e["tagging"] = {k: v for k, v in book["tagging"].items() if k != "scheme"}
-    e["scripture_refs"] = sum(len(u["links"]) for u in book["units"])
+    links = [x for u in book["units"] for x in u["links"]]
+    e["scripture_refs"] = len(links)
+    e["scripture_refs_resolved"] = sum(1 for x in links if x["resolved"])
+    e["scripture_refs_flagged"] = sum(1 for x in links if x.get("source") == "urn" and not x["resolved"])
     e["built_sha256"] = hashlib.sha256(blob).hexdigest()
     return e
 
@@ -389,12 +392,23 @@ def entry(book, blob):
 def build():
     verify_pins()
     tables = tag_tables()
+    books = {slug: convert(slug, rel, title, author, abbrev) for slug, rel, title, author, abbrev in WORKS}
+    ctx = scripture_context(books)
     out = {}
-    for slug, rel, title, author, abbrev in WORKS:
-        book = tag(convert(slug, rel, title, author, abbrev), tables)
+    for slug, book in books.items():
+        for u in book["units"]:
+            u["links"] = [x for note in u["links"] for x in S.resolve_note(note["label"], note["cts"], ctx)]
+        book = tag(book, tables)
         blob = json.dumps(book, ensure_ascii=False).encode("utf-8")
         out[slug] = (book, blob, entry(book, blob))
     return out
+
+
+def scripture_context(books):
+    with open(os.path.join(ROOT, "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    return {"kjv_ids": kjv_ids, "bmap": VM.load(VM.BRENTON_PATH),
+            "af_ids": {u["id"] for b in books.values() for u in b["units"]}}
 
 
 def write_atomic(path, data):

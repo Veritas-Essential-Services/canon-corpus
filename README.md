@@ -113,7 +113,9 @@ standard way (`1 Clem. 1.1`, `Ign. Eph. 1.1`, `Herm. Sim. 9.1.1`). The TEI
 is CC BY-SA 4.0, so the books are built locally and only their manifest
 entries are committed, each labelled. 85% of the Greek words carry a Strong's
 number by fixed rules against the Greek NT; the rest are left blank, never
-guessed. `python3 pipeline/build_apostolic_fathers.py --fetch`. Lightfoot's
+guessed. Lake's scripture references resolve to KJV verses, the Old Testament
+through Brenton's Septuagint map, and the ones First1KGreek keyed to the wrong
+book are flagged. `python3 pipeline/build_apostolic_fathers.py --fetch`. Lightfoot's
 English translation is still to come (CCEL).
 
 ## The reader (reverse interlinear, D5)

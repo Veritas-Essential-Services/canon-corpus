@@ -1730,7 +1730,7 @@
    "citation": "1 Clem. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1749,8 +1749,10 @@
    "unseen": 1621,
    "latin": 0
   },
-  "scripture_refs": 239,
-  "built_sha256": "28273e06c3040315547f65fb1c11b70ed6f6a5a7b5cea129cbfedc3ce4283e2f"
+  "scripture_refs": 268,
+  "scripture_refs_resolved": 217,
+  "scripture_refs_flagged": 8,
+  "built_sha256": "99dae845418d1dc2fab8d095b3f32db919b395e851749e7df87d3732927e66e3"
  },
  "2clement-lake": {
   "title": "Second Epistle of Clement (an ancient homily)",
@@ -1762,7 +1764,7 @@
    "citation": "2 Clem. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1781,8 +1783,10 @@
    "unseen": 344,
    "latin": 0
   },
-  "scripture_refs": 53,
-  "built_sha256": "3cd66e852585a3eb9c64fcdeb15b3ddff4946ce6e0ff41e1baae15b57cc03894"
+  "scripture_refs": 55,
+  "scripture_refs_resolved": 45,
+  "scripture_refs_flagged": 5,
+  "built_sha256": "0f30f614602623abbeb84e2182376353374d28910af65f0027f988c6978363de"
  },
  "ignatius-lake": {
   "title": "The Seven Letters of Ignatius (middle recension)",
@@ -1794,7 +1798,7 @@
    "citation": "Ign. letter chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1813,8 +1817,10 @@
    "unseen": 1132,
    "latin": 0
   },
-  "scripture_refs": 85,
-  "built_sha256": "82f0148acd3d3d06cc1cb50a5cf12dd508a339cb2b96de55138daa994b073517"
+  "scripture_refs": 91,
+  "scripture_refs_resolved": 78,
+  "scripture_refs_flagged": 7,
+  "built_sha256": "58a01d5e4bd98c6752be52425d025eb1a517f3e2cad7e7d77839e59b775d9a20"
  },
  "polycarp-phil-lake": {
   "title": "Epistle of Polycarp to the Philippians",
@@ -1826,7 +1832,7 @@
    "citation": "Pol. Phil. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1845,8 +1851,10 @@
    "unseen": 125,
    "latin": 450
   },
-  "scripture_refs": 90,
-  "built_sha256": "0658e03fab39d3d776d2ad37ed27fe967530b66be54576f20ce27808027b73ea"
+  "scripture_refs": 99,
+  "scripture_refs_resolved": 89,
+  "scripture_refs_flagged": 3,
+  "built_sha256": "267cb5f135099f970807894f44d9c06377907afff1d4af0cbbe61cb4d8e97d1b"
  },
  "martyrdom-polycarp-lake": {
   "title": "The Martyrdom of Polycarp",
@@ -1858,7 +1866,7 @@
    "citation": "Mart. Pol. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1877,8 +1885,10 @@
    "unseen": 465,
    "latin": 0
   },
-  "scripture_refs": 15,
-  "built_sha256": "356f02ba2f1884eb8ab90f8e70b7da52ef5dee00a125b627659d4fe618777864"
+  "scripture_refs": 16,
+  "scripture_refs_resolved": 15,
+  "scripture_refs_flagged": 1,
+  "built_sha256": "4de81b283c49e70e0fe917b3eba2b7af19c073d44815f4f4bc2c53dacdf04602"
  },
  "didache-lake": {
   "title": "The Didache (Teaching of the Twelve Apostles)",
@@ -1890,7 +1900,7 @@
    "citation": "Did. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1909,8 +1919,10 @@
    "unseen": 232,
    "latin": 0
   },
-  "scripture_refs": 64,
-  "built_sha256": "0f1115d6085d1a586deccc771385abd7896eda5d11ba0cec14ef585955ee5f10"
+  "scripture_refs": 71,
+  "scripture_refs_resolved": 56,
+  "scripture_refs_flagged": 0,
+  "built_sha256": "75450b3103b0867556fe75c28d8a08965969bdb70cefa98d089dc5a51e359835"
  },
  "barnabas-lake": {
   "title": "The Epistle of Barnabas",
@@ -1922,7 +1934,7 @@
    "citation": "Barn. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1941,8 +1953,10 @@
    "unseen": 788,
    "latin": 0
   },
-  "scripture_refs": 140,
-  "built_sha256": "7dd3377fa7e2e04cb67ddf3f345f4f79ad498bb17dbd6e23f9f41286436957a7"
+  "scripture_refs": 202,
+  "scripture_refs_resolved": 167,
+  "scripture_refs_flagged": 0,
+  "built_sha256": "7a30cc404d18082609ae1589b5120c3a246d91e7f3220f6ed20d7cd197849f8e"
  },
  "hermas-lake": {
   "title": "The Shepherd of Hermas",
@@ -1954,7 +1968,7 @@
    "citation": "Herm. Vis./Mand./Sim. book.chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -1973,8 +1987,10 @@
    "unseen": 3688,
    "latin": 1265
   },
-  "scripture_refs": 189,
-  "built_sha256": "77a86dd791576ebf12affe3a28a44339e2321e7be7f2590f10e7efb7624814f6"
+  "scripture_refs": 212,
+  "scripture_refs_resolved": 189,
+  "scripture_refs_flagged": 16,
+  "built_sha256": "4ac1b635cdcdcdc146e15888260f5f555c361e806709e8019dec60b903ce08e7"
  },
  "diognetus-lake": {
   "title": "The Epistle to Diognetus",
@@ -1986,7 +2002,7 @@
    "citation": "Diogn. chapter.section",
    "resolution": "section, where the edition has one",
    "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
-   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
   },
   "rights": {
    "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
@@ -2005,7 +2021,9 @@
    "unseen": 507,
    "latin": 0
   },
-  "scripture_refs": 35,
-  "built_sha256": "3f0467efcd6f461e879c4a1c340b9b09beb05e610fec3c70ffa7a529daad8346"
+  "scripture_refs": 53,
+  "scripture_refs_resolved": 53,
+  "scripture_refs_flagged": 0,
+  "built_sha256": "d2963d12c6173afd2b3350c81d6c1f0cac9d69abf4673fc868dc70acdda5fac4"
  }
 }

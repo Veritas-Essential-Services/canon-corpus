@@ -101,6 +101,27 @@ t, n = A.restore_latin("οὐ πιστευθήσονται: ετ εγο συμ �
 check("a Latin run inside Greek is restored and the Greek kept",
       t.startswith("οὐ πιστευθήσονται: et ego sum pastor") and n == 5, (t, n))
 
+print("--- scripture labels, on fixtures")
+import af_scripture as S  # noqa: E402
+check("book, chapter, verses, and a continuation in the same book",
+      S.parse_label("Mk. 4, 18; Mt. 13, 20. 22") == [("nt", "Mark", 4, 18, None), ("nt", "Matt", 13, 20, None),
+                                                     ("nt", "Matt", 13, 22, None)])
+check("a range, and a book with one chapter", S.parse_label("I Cor. 7, 38-40; II Joh. 7")
+      == [("nt", "1Cor", 7, 38, 40), ("nt", "2John", 1, 7, None)])
+check("OCR spellings: '11 Kings', 'Dent.', 'Is. I, 16'",
+      S.parse_label("11 Kings 5, 7") == [("lxx", "2Kgs", 5, 7, None)]
+      and S.parse_label("Dent. 4, 2") == [("lxx", "Deut", 4, 2, None)]
+      and S.parse_label("Is. I, 16-20") == [("lxx", "Isa", 1, 16, 20)])
+check("a parenthesis of verses is read; another numbering in one is not",
+      S.parse_label("Is. 5, 26 (11, 12)") == [("lxx", "Isa", 5, 26, None), ("lxx", "Isa", 11, 12, None)]
+      and S.parse_label("Ecclus. 32, 9 (*wulg. 35.9)") == [("lxx", "Sir", 32, 9, None)])
+check("a chapter alone stays a chapter", S.parse_label("Num. 12") == [("lxx", "Num", 12, None, None)])
+check("a URN: NT, LXX, malformed, not scripture",
+      S.parse_urn("urn:cts:greekLit:tlg0031.tlg017:3.1")[0] == ("nt", "Titus", 3, 1, None)
+      and S.parse_urn("cts:urn:greekLit:tlg0527.tlg027:33.9")[0] == ("lxx", "Ps", 33, 9, None)
+      and S.parse_urn("NN")[0] is None
+      and S.parse_urn("urn:cts:greekLit:tlg0098.tlg001:1.50")[0] is None)
+
 print("--- Strong's rules, on fixtures")
 fk = A.form_key
 forms = {fk("ἐν"): {"G1722": 50}, fk("ἕν"): {"G1520": 9}, fk("αὐτοῦ"): {"G846": 1474, "G847": 4},
@@ -152,8 +173,19 @@ else:
     check("no converter debris (#3) in any text", not [i for i, x in u.items() if "#" in x["text"]])
     check("every token is a word of the unit's text, in order",
           all(" ".join(w for w, _, _ in x["lex"]["tokens"]) == " ".join(A.WORD.findall(x["text"])) for x in u.values()))
-    check("scripture references are recorded unresolved, as the source states them",
-          all(l["resolved"] is False and l["label"] for x in u.values() for l in x["links"]))
+    links = [l for x in u.values() for l in x["links"]]
+    check("every scripture link is resolved to a KJV unit, or says why not",
+          all((l["resolved"] and l["target"].startswith(("kjv:", "1clement-lake:", "2clement-lake:")))
+              or (not l["resolved"] and l["why"]) for l in links))
+    check(f"most of them resolve ({sum(l['resolved'] for l in links)} of {len(links)})",
+          sum(l["resolved"] for l in links) / len(links) >= 0.8)
+    pp = [l for l in u["hermas-lake:Sim.9.13.8"]["links"]] + [l for x in u.values() for l in x["links"]
+                                                            if l["label"].startswith("Ps. 54, 23")]
+    check("Lake's 'Ps. 54, 23' is the KJV's Ps 55:22 (through Brenton)",
+          any(l.get("target") == "kjv:Ps.55.22" and l.get("via") == "brenton-kjv" for l in pp))
+    jon = [l for l in u["1clement-lake:7.6"]["links"] if l.get("cts", "") and "tlg0031.tlg004" in l["cts"]]
+    check("the URN that keys Lake's 'Jon. 3' as John 3 is flagged, not followed",
+          jon and not jon[0]["resolved"] and "keying error" in jon[0]["why"])
 
 print(f"\n{PASS} passed, {FAIL} failed")
 sys.exit(1 if FAIL else 0)
