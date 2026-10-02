@@ -133,7 +133,7 @@ The living truth for project state is the Obsidian vault:
     python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
     python3 pipeline/build_latin_key.py --fetch  # Lewis & Short (Perseus TEI, CC BY-SA), pinned
     python3 pipeline/build_latin_key.py      # L&S key <- Whitaker lemma <- every Vulgate word
-    python3 pipeline/build_latin_key.py --check  # data/lemmas/latin-key byte-identical
+    python3 pipeline/build_latin_key.py --check  # manifest byte-identical; build/latin-key = its sha256
     python3 tests/latin_key_test.py          # the Latin key, its links, the Vulgate concordance
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
@@ -354,21 +354,26 @@ The living truth for project state is the Obsidian vault:
   as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
   table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
   in data/uids/ until Adam rules, then `--adopt`), the BDB/TBESG/LSJ/Thayer
-  entries for each number (citations only), the KJV's English words tagged
-  with their numbers (eBible, labelled PD; rights call is Adam's), and number →
-  passage uids (kjv, nt), and concordance-view.jsonl: one row per number
-  with its KJV verses and renderings, lexicon entries, and Vulgate/Douay/Brenton
-  verse ids where the numbering differs. OSHB's CC BY tags for data/ot/ build to build/ only,
-  never committed. Rules: pipeline/README-strongs.md
+  entries for each number (citations only), number → NT passage uids, and
+  KJV verse ids in the Vulgate/Douay/Brenton where the numbering differs.
+  🔴 The KJV's English words tagged with their numbers (eBible says PD,
+  CrossWire's conf says GPL; Adam's call) and everything built from them
+  (renderings, the kjv concordance, concordance-view.jsonl) build to
+  build/strongs/ only, sha256 in manifest.local, until he rules; removed from
+  the branch history 2026-10-02. OSHB's CC BY tags for data/ot/ build to
+  build/ only, never committed. Rules: pipeline/README-strongs.md
 - pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
   CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
-  entry key, homographs numbered: malus1) → data/lemmas/latin-key/ (COMMITTED:
-  entry keys and printed facts only, never definitions; whether even that may
-  be committed is Adam's call). Whitaker lemmas link to L&S by spelling and
+  entry key, homographs numbered: malus1) → build/latin-key/ (gitignored;
+  only data/lemmas/latin-key/manifest.json is committed, with each file's
+  sha256. Entry keys and printed facts only, never definitions; whether even
+  that may be committed is Adam's call; removed from the branch history
+  2026-10-02). Whitaker lemmas link to L&S by spelling and
   class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
   sure by form (69%), or resolved in its verse by a named context rule
-  (12.5%; idem-dem, rare-entry, prep-object ... each tagged), else null and
-  listed `possible` (15.3%). Rules only remove readings (README s.4b).
+  (12.6%; idem-dem, possessive-agrees, rare-entry ... each tagged), else null
+  and listed `possible` (15.1%). A verb never links to a noun-only entry
+  (status clash: WORDS's vis "you want" is not L&S's vis "force"). Rules only remove readings (README s.4b).
   strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,
   dilectio), by verse co-occurrence: statistical evidence, never a reading.
   Mints nothing. Rules: pipeline/README-latin-key.md

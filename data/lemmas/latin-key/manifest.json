@@ -34,60 +34,65 @@
   "lewis_short_entries": 51645,
   "whitaker_lemmas": 40827,
   "whitaker_lemmas_by_status": {
-   "ambiguous": 409,
+   "ambiguous": 410,
    "case": 305,
-   "class": 1046,
+   "clash": 30,
+   "class": 1045,
    "gender": 59,
-   "headword": 24608,
+   "headword": 24584,
    "none": 13427,
-   "spelling": 873,
-   "voice": 100
+   "spelling": 877,
+   "voice": 90
   },
   "vulgate_forms": 46316,
   "vulgate_forms_by_status": {
-   "no-ls": 3933,
-   "several": 9212,
-   "sure": 32940,
+   "no-ls": 3934,
+   "several": 9204,
+   "sure": 32947,
    "unread": 231
   },
   "vulgate_tokens_by_status": {
-   "no-ls": 19303,
-   "several": 169923,
-   "sure": 422301,
+   "no-ls": 19304,
+   "several": 169984,
+   "sure": 422239,
    "unread": 502
   },
   "vulgate_tokens_by_outcome": {
-   "no-ls": 19303,
-   "resolved": 76264,
-   "sure": 422300,
+   "no-ls": 19304,
+   "resolved": 77354,
+   "sure": 422238,
    "unread": 502,
-   "unresolved": 93660
+   "unresolved": 92631
   },
   "vulgate_tokens_resolved_by_rule": {
-   "rare-entry": 51160,
+   "rare-entry": 50124,
    "idem-dem": 8957,
    "prep-object": 4936,
-   "rare-inflection": 3110,
+   "rare-inflection": 2912,
    "idem-dem+rare-entry": 2325,
+   "possessive-agrees": 2227,
    "no-prep-object": 1713,
-   "proper-lower": 1574,
-   "proper-lower+rare-entry": 644,
+   "proper-lower": 1549,
+   "proper-lower+rare-entry": 642,
    "rare-entry+no-prep-object": 533,
-   "rare-inflection+rare-entry": 533,
-   "proper-lower+prep-object": 467,
+   "rare-inflection+rare-entry": 523,
+   "proper-lower+prep-object": 465,
    "si-quis": 183,
+   "possessive-agrees+rare-entry": 128,
    "rare-entry+prep-object": 46,
-   "proper-lower+rare-inflection+rare-entry": 37,
+   "proper-lower+rare-inflection+rare-entry": 36,
    "rare-inflection+prep-object": 28,
    "proper-lower+rare-inflection": 9,
-   "rare-entry+si-quis": 9
+   "rare-entry+si-quis": 9,
+   "proper-lower+possessive-agrees": 7,
+   "proper-lower+possessive-agrees+prep-object": 2
   },
-  "vulgate_keys": 8609,
+  "vulgate_keys": 8651,
   "strongs_latin": {
    "verse_pairs": 31057,
    "numbers_seen": 14047,
-   "numbers_with_latin": 4057,
-   "numbers_with_latin_thin": 1310,
+   "numbers_with_latin": 4066,
+   "numbers_with_latin_thin": 1314,
    "rule": {
     "min_verses": 3,
     "min_dice": 0.1,
@@ -108,23 +113,24 @@
  "files": {
   "lewis-short.jsonl": {
    "rows": 51645,
-   "sha256": "91af7141f5ee4e25ff685d8f16c448603b26f7f652a8aa19e06951e669353c58"
+   "sha256": "85d2962fc4562cb666f4e5ac7cfb2d1ef7122cd7dacec25e344b4c9a3551f1a6"
   },
   "whitaker-ls.jsonl": {
    "rows": 40827,
-   "sha256": "d62abe08dd8e6e88e227211db3213bb2017549a6111dbde8bc045343fe456e22"
+   "sha256": "0646d28a72fee8bcef11e7d7d4a3f5edfaf8f1207ca53c71bb6db9e5e265d529"
   },
   "vulgate-forms.jsonl": {
    "rows": 46316,
-   "sha256": "3aad9f54f7e9e9c0db0adeb9fb0f2c4b799f8a8b4909b8bf1495e8fa684f8026"
+   "sha256": "0ff55003ecd2c0e744809e718b4f19e98473b1c0f3154df130010fc377b99f71"
   },
   "vulgate-concordance.jsonl": {
-   "rows": 8609,
-   "sha256": "df51421279d558500127eca690b678afe70f75a42b9edb8b3fdab5b77a12240d"
+   "rows": 8651,
+   "sha256": "275d8f2eb5e0af13790b3f9af39fdd79736952d1ad799de47b3e1a515a1b7c56"
   },
   "strongs-latin.jsonl": {
-   "rows": 4057,
-   "sha256": "b98a191a5117de9581a2ee0ebb1cbd317093a01a03780c4a28e7138c7f62d41b"
+   "rows": 4066,
+   "sha256": "c54b537fab4786f3a93d8478c39d12c18e15600ca65ffd6f7220168a9cae0dc3"
   }
- }
+ },
+ "files_dir": "build/latin-key/ (gitignored: built from Perseus's CC BY-SA text)"
 }

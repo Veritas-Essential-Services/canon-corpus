@@ -18,7 +18,7 @@ WORDS, the house Latin analyzer (README-lemma-spine.md), gets from a form as
 written to its dictionary lemma; this build gets from that lemma to the L&S
 entry. Rules and reasons: pipeline/README-latin-key.md.
 
-WHAT IT WRITES (data/lemmas/latin-key/, all committed)
+WHAT IT WRITES (build/latin-key/, gitignored; only data/lemmas/latin-key/manifest.json is committed)
     lewis-short.jsonl     THE TABLE. One row per L&S entry (51,645): its key,
                           citation, Perseus entry id, homograph number, entry
                           type, folded headword, and word class as L&S marks
@@ -59,7 +59,11 @@ sys.path.insert(0, HERE)
 import structure_texts as S  # noqa: E402
 import whitaker as W  # noqa: E402
 
-OUT = os.path.join(ROOT, "data", "lemmas", "latin-key")
+OUT = os.path.join(ROOT, "data", "lemmas", "latin-key")      # committed: manifest.json only
+# Every file that carries Lewis & Short's keys is built from Perseus's CC BY-SA
+# text, so it is built here, gitignored, until Adam rules; the committed
+# manifest records each one's sha256 and the rights block (README s.5).
+LOCAL = os.path.join(ROOT, "build", "latin-key")
 
 LS = {
     "repo": "https://github.com/PerseusDL/lexica",
@@ -125,6 +129,8 @@ CLASS_WORDS = (("prep", "PREP"), ("conj", "CONJ"), ("interj", "INTERJ"), ("pron"
 
 def ls_class(pos, gen):
     """The word class L&S prints, in Whitaker's terms; None where it prints none."""
+    if pos and pos.lower().startswith("v."):
+        return "V"      # comitio, "v. n. and a.": a gender further on is a later sense's
     if gen:
         return "N"
     if not pos:
@@ -173,6 +179,26 @@ def is_affix(o):
     return o.startswith("-") or o.endswith("-")
 
 
+RE_ITYPE = re.compile(r"<itype>([^<]*)</itype>")
+RE_VERB_BEFORE = re.compile(r"\bv\.\s*(dep\.\s*)?(a\.?\s*)?(and\s*)?$")
+
+
+def verb_neuter(head, gen, gen_at, pos):
+    """Perseus tags L&S's "v. n." (verbum neutrum, an intransitive verb) as a
+    <gen>n.</gen>, so miror, vereor and abstineo would read as neuter nouns.
+    The n. is a verb's when L&S prints a verb class (<pos>v. dep. a.</pos>), a
+    conjugation number in the inflection (miror "ātus, 1"), or "v. a. and"
+    just before it."""
+    if gen != "n.":
+        return False
+    if pos and pos.lower().startswith("v."):
+        return True
+    it = RE_ITYPE.search(head)
+    if it and re.search(r"(^|,)\s*[1-4]\s*$", it.group(1)):
+        return True
+    return bool(RE_VERB_BEFORE.search(RE_TAG.sub("", head[:gen_at])[-40:]))
+
+
 def read_ls():
     """One row per entry. The headword is the first spelling L&S prints, NOT
     the key: Perseus keys some compounds by their prefix (super10 is
@@ -188,8 +214,12 @@ def read_ls():
         body = m.group(2)
         head = body[:HEAD_CHARS]
         pos, gen = RE_POS.search(head), RE_GEN.search(head)
+        gen_at = gen.start() if gen else None
         pos = pos.group(1).strip() if pos else None
         gen = gen.group(1).strip() if gen else None
+        if gen and verb_neuter(head, gen, gen_at, pos):
+            gen = None      # "v. dep. a. and n.": n. is neuter (intransitive), not a gender
+            pos = pos or "v."
         key = a["key"]
         lead, _, rest = body.partition("<sense")
         orths = [o.strip() for o in RE_ORTH.findall(lead) if o.strip()]
@@ -203,6 +233,8 @@ def read_ls():
             if not is_affix(o) and " " not in f and f != hw and f not in alts:
                 alts.append(f)
         cls = ls_class(pos, gen)
+        if cls == "V":
+            gen = None
         hint = None if cls else sense_class(rest[:400])
         plain = RE_TAG.sub("", body)
         pointer = len(plain) < 120 and bool(re.search(r"\bv\. ", plain)) and not gen and not pos
@@ -226,6 +258,10 @@ def read_ls():
 WCLASS = {"N": {"N"}, "V": {"V"}, "VPAR": {"V", "ADJ"}, "SUPINE": {"V"}, "ADJ": {"ADJ", "NUM"},
           "NUM": {"NUM", "ADJ", "ADV"}, "ADV": {"ADV", "CONJ"}, "PREP": {"PREP"}, "CONJ": {"CONJ"},
           "INTERJ": {"INTERJ"}, "PRON": {"PRON", "ADJ"}, "PACK": {"PRON", "ADJ"}}
+# A verb and a noun are never one entry. When the only entry of that spelling
+# is the other class, it is another word (WORDS's vis, "you want", is not
+# L&S's vis, "force"; canto, cantonis is not canto, to sing): left unlinked.
+CLASHES = ({"V", "N"},)
 SKIP_TYPES = {"spur"}     # L&S's own "spurious" entries never take a word
 
 
@@ -241,6 +277,8 @@ def _choose(cands, pos, gender=None, proper=None):
     step that left one entry, "one" if no step was needed."""
     pool = [r for r in cands if not r["pointer"]] or cands
     if len(pool) == 1:
+        if {pos, pool[0]["class"]} in CLASHES:
+            return "clash", []
         return "one", [pool[0]["key"]]
     want = WCLASS.get(pos, set())
     fit = [r for r in pool if r["class"] in want]
@@ -283,20 +321,26 @@ def link(headword, pos, by_head, by_spelling, gender=None, proper=None):
                 first sense (rursum under rursus);
     voice    -- only the other voice is there (WORDS domino, L&S dominor);
     ambiguous-- several remain; all are listed, none is chosen;
+    clash    -- the only entry is a noun for a verb or a verb for a noun
+                (WORDS's vis "you want", L&S's vis "force"): another word;
     none     -- L&S has none of these."""
     tries = [(by_head, headword, "headword"), (by_spelling, headword, "spelling")]
     tries += [(ix, v, "voice") for v in voice_variants(headword, pos) for ix in (by_head, by_spelling)]
+    clash = False
     for index, hw, tag in tries:
         cands = [r for r in index.get(hw, []) if r["type"] not in SKIP_TYPES]
         if not cands:
             continue
         how, keys = _choose(cands, pos, gender, proper)
+        if how == "clash":
+            clash = True
+            continue
         if how == "ambiguous":
             return "ambiguous", keys
         if tag == "headword":
             return ("headword" if how == "one" else how), keys
         return tag, keys
-    return "none", []
+    return ("clash" if clash else "none"), []
 
 
 LINKED = ("headword", "class", "case", "gender", "spelling", "voice")
@@ -372,8 +416,20 @@ COMMON_INFLECTION = {"A", "B"}
 CASED_POS = {"N", "ADJ", "PRON", "VPAR", "NUM", "SUPINE"}
 PUNCT = re.compile(r"[,.;:?!]")
 INDEF_AFTER = {"si", "ne", "num"}       # after these, quis is indefinite (not nisi: nisi qui is relative)
-RULES = ("idem-dem", "proper-lower", "rare-inflection", "rare-entry", "prep-object",
-         "no-prep-object", "si-quis")
+RULES = ("idem-dem", "proper-lower", "possessive-agrees", "rare-inflection", "rare-entry",
+         "prep-object", "no-prep-object", "si-quis")
+POSSESSIVES = {"meus", "tuus", "suus", "noster", "vester"}
+NOMINAL = {"N", "ADJ", "PRON", "NUM"}
+
+
+def _agree(a, b):
+    """Case, number and gender agree (X any; C, common, is m or f)."""
+    def eq(x, y):
+        return x == y or "X" in (x, y) or None in (x, y)
+
+    def geq(x, y):
+        return eq(x, y) or (x == "C" and y in "MF") or (y == "C" and x in "MF")
+    return eq(a["case"], b["case"]) and eq(a["number"], b["number"]) and geq(a["gender"], b["gender"])
 
 
 def flag_tables(X):
@@ -411,6 +467,7 @@ def readings(X, c, links, by_head, flags):
         target = tuple(row["ls"]) if row["ls"] else ("~" + a["key"],)
         out.append({"target": target, "linked": row["status"] in LINKED, "wkey": a["key"],
                     "pos": a["parse"]["pos"], "case": a["parse"].get("case"),
+                    "number": a["parse"].get("number"), "gender": a["parse"].get("gender"),
                     "efreq": FREQ_RANK.get(ef["freq"]) if ef else None,
                     "ifreq": ifreq, "iage": age,
                     "proper": a["form_by"] == "house-names" or a["key"][:1].isupper()})
@@ -426,7 +483,7 @@ def _keep(groups, keep, rule, used):
     return groups
 
 
-def resolve(tok, nxt_tok, prev_form):
+def resolve(tok, nxt_tok, prev_form, prev_tok=None):
     """(L&S key or None, [rule ids]) for one token. `tok`/`nxt_tok`:
     {"form", "cased", "R": readings, "punct_after"}. A rule only removes
     readings; it never adds one, and it never removes them all."""
@@ -457,6 +514,14 @@ def resolve(tok, nxt_tok, prev_form):
                 return not all(r["proper"] for r in R)
             return not all(k[:1].isupper() for k in t)
         groups = _keep(groups, common, "proper-lower", used)
+    # a possessive beside it that can only be a possessive (meus, tuum) needs a
+    # noun or adjective to agree with: salutare tuum is "thy salvation", not
+    # the verb's infinitive. Only readings that agree with it are kept.
+    for nb in (prev_tok, nxt_tok):
+        if not nb or not nb["R"] or not all(r["target"] in {(p,) for p in POSSESSIVES} for r in nb["R"]):
+            continue
+        groups = _keep(groups, lambda t, R: any(r["pos"] in NOMINAL and any(_agree(r, q) for q in nb["R"])
+                                                for r in R), "possessive-agrees", used)
     # an ending WORDS marks less than common (dominum as domina's genitive plural)
     groups = _keep(groups, lambda t, R: any(r["ifreq"] in COMMON_INFLECTION or r["ifreq"] is None
                                             for r in R), "rare-inflection", used)
@@ -529,7 +594,7 @@ def build_vulgate(X, links, by_head, units):
             targets = {k for r in t["R"] for k in r["target"] if not k.startswith("~")}
             f["ls"].update(targets)
             key, used = resolve(t, toks[i + 1] if i + 1 < len(toks) else None,
-                                toks[i - 1]["form"] if i else None)
+                                toks[i - 1]["form"] if i else None, toks[i - 1] if i else None)
             if key and not used:
                 s_here.add(key)
             elif key:
@@ -575,7 +640,7 @@ def build_vulgate(X, links, by_head, units):
 # Strong's number -> the Vulgate's Latin for it (README-latin-key s.4c)
 # ---------------------------------------------------------------------------
 
-KJV_TAGS = os.path.join(ROOT, "data", "strongs", "kjv-tags.jsonl")
+KJV_TAGS = os.path.join(ROOT, "build", "strongs", "kjv-tags.jsonl")   # local too (README-strongs s.6)
 EQ_MIN_VERSES = 3          # a pair seen in fewer verses is not evidence
 EQ_MIN_DICE = 0.10
 EQ_OF_TOP = 0.40           # a second word must score at least 40% of the first
@@ -589,7 +654,7 @@ def strongs_latin(units, token_rows):
     """Which L&S entries stand in the Vulgate where each Strong's number
     stands in the KJV, by verse co-occurrence. A Vulgate verse is paired with
     the KJV verse(s) its map names (convert_vulgate's `kjv`); a KJV verse
-    brings its Strong's tags (data/strongs/kjv-tags.jsonl), a Vulgate verse
+    brings its Strong's tags (build/strongs/kjv-tags.jsonl), a Vulgate verse
     the L&S keys of its sure and resolved words. Score: Dice, 2c / (n_s + n_l).
     Kept: the pairs strong on both sides (EQ_* above). Statistical: a pair is
     evidence that two words translate each other, never a reading of a verse."""
@@ -662,13 +727,13 @@ def read_committed(name):
 
 def build():
     have = os.path.exists(LS_FILE) and W.have_cache() and os.path.isdir(os.path.join(S.CORPUS, "vulgate"))
+    prior = read_committed("manifest.json")
     if not have:
-        prior = {n: read_committed(n) for n in FILES}
-        if any(v is None for v in prior.values()):
-            raise SystemExit("missing sources and no committed files: run with --fetch, "
+        if prior is None:
+            raise SystemExit("missing sources and no committed manifest: run with --fetch, "
                              "build_lemma_spine.py --fetch and fetch_sources.py first")
-        print("  sources missing here: committed files carried forward unchanged")
-        return prior
+        print("  sources missing here: the committed manifest is carried forward unchanged")
+        return {"manifest.json": prior}, {}
     if sha256_file(LS_FILE) != LS["sha256"]:
         raise SystemExit("HARD STOP: Lewis & Short file differs from the pin")
     import proper_names
@@ -678,7 +743,11 @@ def build():
     links, by_head = whitaker_links(X, ls_rows)
     units = vulgate_units()
     form_rows, conc, n_units, token_rows, rule_tokens = build_vulgate(X, links, by_head, units)
-    eq_rows, eq_stats = strongs_latin(units, token_rows)
+    if os.path.exists(KJV_TAGS):
+        eq_rows, eq_stats = strongs_latin(units, token_rows)
+    else:                       # the KJV tags are local to build_strongs: keep what was recorded
+        eq_rows, eq_stats = None, (json.loads(prior)["counts"].get("strongs_latin") if prior else None)
+        print("  build/strongs/kjv-tags.jsonl not here: strongs-latin carried forward")
     wl = [links[k] for k in sorted(links, key=lambda k: (W.fold(k), k))]
     tok = collections.Counter()
     for r in form_rows:
@@ -716,18 +785,18 @@ def build():
         ],
         "files": {},
     }
-    out = {"lewis-short.jsonl": jsonl(ls_rows), "whitaker-ls.jsonl": jsonl(wl),
-           "vulgate-forms.jsonl": jsonl(form_rows), "vulgate-concordance.jsonl": jsonl(conc),
-           "strongs-latin.jsonl": jsonl(eq_rows)}
-    for n, text in out.items():
+    local = {"lewis-short.jsonl": jsonl(ls_rows), "whitaker-ls.jsonl": jsonl(wl),
+             "vulgate-forms.jsonl": jsonl(form_rows), "vulgate-concordance.jsonl": jsonl(conc)}
+    if eq_rows is not None:
+        local["strongs-latin.jsonl"] = jsonl(eq_rows)
+    for n, text in local.items():
         manifest["files"][n] = {"rows": text.count("\n"),
                                 "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest()}
-    out["manifest.json"] = json.dumps(manifest, ensure_ascii=False, indent=1) + "\n"
-    write_tokens(token_rows)
-    return out
-
-
-TOKENS = os.path.join(ROOT, "build", "latin-key", "vulgate-tokens.jsonl")
+    if eq_rows is None and prior and "strongs-latin.jsonl" in json.loads(prior)["files"]:
+        manifest["files"]["strongs-latin.jsonl"] = json.loads(prior)["files"]["strongs-latin.jsonl"]
+    manifest["files_dir"] = "build/latin-key/ (gitignored: built from Perseus's CC BY-SA text)"
+    local["vulgate-tokens.jsonl"] = jsonl(token_rows)
+    return {"manifest.json": json.dumps(manifest, ensure_ascii=False, indent=1) + "\n"}, local
 
 
 def token_outcomes(token_rows, form_rows):
@@ -740,23 +809,14 @@ def token_outcomes(token_rows, form_rows):
     return dict(sorted(c.items()))
 
 
-def write_tokens(token_rows):
-    """Every word of the Vulgate, [form, L&S key or null, rule ids or null],
-    one row per verse: build/ (gitignored), for checking a rule's work."""
-    os.makedirs(os.path.dirname(TOKENS), exist_ok=True)
-    with open(TOKENS + ".tmp", "w", encoding="utf-8", newline="\n") as f:
-        f.write(jsonl(token_rows))
-    os.replace(TOKENS + ".tmp", TOKENS)
+LOCAL_FILES = ("lewis-short.jsonl", "whitaker-ls.jsonl", "vulgate-forms.jsonl",
+               "vulgate-concordance.jsonl", "strongs-latin.jsonl")
 
 
-FILES = ("lewis-short.jsonl", "whitaker-ls.jsonl", "vulgate-forms.jsonl",
-         "vulgate-concordance.jsonl", "strongs-latin.jsonl", "manifest.json")
-
-
-def write(out):
-    os.makedirs(OUT, exist_ok=True)
+def write(out, where=OUT):
+    os.makedirs(where, exist_ok=True)
     for n, text in out.items():
-        p = os.path.join(OUT, n)
+        p = os.path.join(where, n)
         with open(p + ".tmp", "w", encoding="utf-8", newline="\n") as f:
             f.write(text)
         os.replace(p + ".tmp", p)                # atomic: a killed run never truncates
@@ -767,16 +827,25 @@ def main():
     if "--fetch" in args:
         fetch()
         return
-    out = build()
+    committed, local = build()
     if "--check" in args:
-        bad = [n for n in FILES if read_committed(n) != out[n]]
-        for n in FILES:
+        bad = [n for n, t in committed.items() if read_committed(n) != t]
+        m = json.loads(committed["manifest.json"])
+        for n in committed:
             print(f"  {'DIFFERS' if n in bad else 'same':8} {n}")
+        for n in LOCAL_FILES:
+            if n in local:
+                same = hashlib.sha256(local[n].encode("utf-8")).hexdigest() == m["files"][n]["sha256"]
+                bad += [] if same else [n]
+                print(f"  {'same' if same else 'DIFFERS':8} build/latin-key/{n} (sha256 in the manifest)")
+            else:
+                print(f"  {'skip':8} build/latin-key/{n} (not built here)")
         if bad:
             raise SystemExit(1)
         return
-    write(out)
-    m = json.loads(out["manifest.json"])
+    write(committed)
+    write(local, LOCAL)
+    m = json.loads(committed["manifest.json"])
     for k, v in m["counts"].items():
         print(f"  {k:28} {v}")
 

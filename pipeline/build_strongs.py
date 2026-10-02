@@ -12,7 +12,7 @@ Adam, 2026-10-02: "use Strong's ... as the source of truth for those words and
 use the strongs numbering and save those beside the UID". Rules and the
 reasoning behind each choice: pipeline/README-strongs.md.
 
-WHAT IT WRITES (data/strongs/, all committed)
+WHAT IT WRITES (data/strongs/, committed; the KJV-tag files go to build/strongs/, see LOCAL_FILES)
     strongs.jsonl         THE TABLE. One row per Strong's number, H1-H8674 and
                           G1-G5624, from Strong's own 1890 dictionaries (PD).
                           Every other file here, and every corpus that names a
@@ -61,8 +61,21 @@ LEX = os.path.join(S.CORPUS, "lexicons")
 BOOKS = os.path.join(ROOT, "data", "books")
 
 FILES = ("strongs.jsonl", "proposed-uids.jsonl", "witnesses.jsonl",
-         "concordance.jsonl", "kjv-tags.jsonl", "kjv-renderings.jsonl", "parallels.jsonl",
-         "concordance-view.jsonl", "manifest.json")
+         "concordance.jsonl", "parallels.jsonl", "manifest.json")
+# Built from the KJV's Strong's tags, whose rights call is Adam's (README s.6):
+# written to build/strongs/ (gitignored), never committed; the manifest
+# records each one's sha256 and the rights line, so a rebuild is checkable.
+LOCAL = os.path.join(ROOT, "build", "strongs")
+LOCAL_FILES = ("kjv-tags.jsonl", "kjv-renderings.jsonl", "concordance-kjv.jsonl",
+               "concordance-view.jsonl")
+KJV_TAG_RIGHTS = {
+    "license": "unresolved: eBible.org labels the text Public Domain; the tags are CrossWire's, "
+               "whose kjv.conf grants use 'for any purpose' and says DistributionLicense=GPL",
+    "committed": False,
+    "why": "Not committed until Adam rules (README-strongs s.6). Built to build/strongs/; "
+           "the manifest carries each file's sha256.",
+    "redistribute_whole": False,
+}
 
 CITATION_SLUG = "strongs"      # strongs:G26 -- the WORD; strongs-greek:G26 is its 1890 entry
 KIND = "lexeme"
@@ -337,7 +350,7 @@ def build_concordance(table, prior_rows, prior_manifest, kjv_rows=None):
         for k in occ:
             if isinstance(occ[k].get("kjv"), dict):
                 occ[k]["kjv"] = list(occ[k]["kjv"])
-        stats["kjv"] = {"dir": "data/strongs/kjv-tags.jsonl",
+        stats["kjv"] = {"dir": "build/strongs/kjv-tags.jsonl (local)",
                         "tokens": sum(len(r["tags"]) + len(r.get("title_tags", [])) for r in kjv_rows),
                         "numbers_occurring": sum(1 for k in occ if "kjv" in occ[k]),
                         "note": "tagged KJV words, not original-language tokens"}
@@ -741,26 +754,32 @@ def build():
     wit, wstats, carried = build_witnesses(table, read_jsonl(os.path.join(OUT, "witnesses.jsonl")),
                                            prior_manifest)
     kjv_rows, kstats = read_kjv_tags(table)
-    if kjv_rows is None:                     # source not here: the committed layer stands
-        kjv_text = {n: open(os.path.join(OUT, n), encoding="utf-8").read()
-                    for n in ("kjv-tags.jsonl", "kjv-renderings.jsonl")
-                    if os.path.exists(os.path.join(OUT, n))}
+    local = {}
+    if kjv_rows is None:                     # source not here: the recorded stats stand
         kstats = prior_manifest.get("kjv") or {}     # unchanged, so --check holds without the source
         carried.append("kjv")
     else:
-        kjv_text = {"kjv-tags.jsonl": dump_jsonl(kjv_rows),
-                    "kjv-renderings.jsonl": dump_jsonl(kjv_renderings(kjv_rows))}
+        local = {"kjv-tags.jsonl": dump_jsonl(kjv_rows),
+                 "kjv-renderings.jsonl": dump_jsonl(kjv_renderings(kjv_rows))}
     conc, cstats = build_concordance(table, read_jsonl(os.path.join(OUT, "concordance.jsonl")),
                                      prior_manifest, kjv_rows)
+    # the KJV's part of the concordance is local; the committed file keeps the
+    # original-language corpora only
+    if kjv_rows is not None:
+        local["concordance-kjv.jsonl"] = dump_jsonl(
+            [{"strongs": r["strongs"], "tokens": r["tokens"]["kjv"], "passages": r["passages"]["kjv"]}
+             for r in conc if "kjv" in r["passages"]])
+    conc = [dict(r, tokens={c: n for c, n in r["tokens"].items() if c != "kjv"},
+                 passages={c: v for c, v in r["passages"].items() if c != "kjv"})
+            for r in conc if set(r["passages"]) - {"kjv"}]
     par, pstats, pcarried = build_parallels(read_jsonl(os.path.join(OUT, "parallels.jsonl")))
     for name in pcarried:
         pstats[name] = (prior_manifest.get("parallels") or {}).get(name, {})
     carried += [f"parallels:{n}" for n in pcarried]
     if kjv_rows is not None:
-        view = dump_jsonl(build_view(table, wit, kjv_rows, par))
-    else:                                     # the view needs the KJV tags: keep the committed one
-        vp = os.path.join(OUT, "concordance-view.jsonl")
-        view = open(vp, encoding="utf-8").read() if os.path.exists(vp) else ""
+        local["concordance-view.jsonl"] = dump_jsonl(build_view(table, wit, kjv_rows, par))
+    local_meta = ({n: {"sha256": hashlib.sha256(t.encode("utf-8")).hexdigest(), "rows": t.count("\n")}
+                   for n, t in local.items()} if local else (prior_manifest.get("local") or {}).get("files", {}))
     heb = [t for t in table if t["strongs"][0] == "H"]
     grk = [t for t in table if t["strongs"][0] == "G"]
     manifest = {
@@ -780,10 +799,12 @@ def build():
         "witnesses": wstats,
         "concordance": cstats,
         "kjv": kstats,
+        "local": {"dir": "build/strongs/", "rights": KJV_TAG_RIGHTS, "files": local_meta,
+                  "how": "python3 pipeline/build_strongs.py --fetch, then python3 pipeline/build_strongs.py"},
         "parallels": dict(pstats, rule=("parallels.jsonl lists a KJV verse only where a parallel "
                                         "Bible does not hold it under the same number; [] = none "
                                         "of its verses does"), not_yet=PARALLELS_NOT_YET),
-        "view": {"file": "concordance-view.jsonl",
+        "view": {"file": "build/strongs/concordance-view.jsonl (local: built from the KJV tags)",
                  "row": ("one per used Strong's number: lemma, definition, every lexicon entry "
                          "(citations), every KJV verse and English rendering, and for each "
                          "verse whose number differs, its Vulgate, Douay and Brenton verse ids")},
@@ -805,17 +826,15 @@ def build():
         "proposed-uids.jsonl": dump_jsonl(proposals),
         "witnesses.jsonl": dump_jsonl(wit),
         "concordance.jsonl": dump_jsonl(conc),
-        **kjv_text,
         "parallels.jsonl": dump_jsonl(par),
-        "concordance-view.jsonl": view,
         "manifest.json": json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True) + "\n",
-    }, minted, carried
+    }, local, minted, carried
 
 
-def write(outputs):
-    os.makedirs(OUT, exist_ok=True)
+def write(outputs, out=OUT):
+    os.makedirs(out, exist_ok=True)
     for name, text in outputs.items():
-        p = os.path.join(OUT, name)
+        p = os.path.join(out, name)
         tmp = p + ".tmp"
         with open(tmp, "w", encoding="utf-8", newline="\n") as f:
             f.write(text)
@@ -850,7 +869,7 @@ def main():
         return adopt()
     if "--fetch" in sys.argv:
         return fetch_kjv()
-    outputs, minted, carried = build()
+    outputs, local, minted, carried = build()
     if "--check" in sys.argv:
         bad = []
         for name, text in outputs.items():
@@ -863,8 +882,11 @@ def main():
             print(f"carried forward, source not here: {', '.join(carried)}")
         for name in FILES:
             print(("DIFF  " if name in bad else "same  ") + name)
+        for name in LOCAL_FILES:
+            print(("built " if name in local else "skip  ") + f"build/strongs/{name} (local; sha256 in the manifest)")
         sys.exit(1 if bad or minted else 0)
     write(outputs)
+    write(local, LOCAL)
     layer = build_oshb_layer()
     if layer:
         os.makedirs(OSHB_OUT, exist_ok=True)

@@ -2,7 +2,7 @@
  "citation": "strongs:<key> names the WORD; strongs-hebrew:/strongs-greek:<key> names its 1890 entry",
  "concordance": {
   "kjv": {
-   "dir": "data/strongs/kjv-tags.jsonl",
+   "dir": "build/strongs/kjv-tags.jsonl (local)",
    "note": "tagged KJV words, not original-language tokens",
    "numbers_occurring": 14057,
    "tokens": 349308
@@ -44,6 +44,34 @@
   "tags": 349308,
   "verses": 31102,
   "verses_without_tags": 3
+ },
+ "local": {
+  "dir": "build/strongs/",
+  "files": {
+   "concordance-kjv.jsonl": {
+    "rows": 14057,
+    "sha256": "d998545fc8f22b42648c1c794aff90cf99cd958f1129dfa9e8739e35b6ab4d6d"
+   },
+   "concordance-view.jsonl": {
+    "rows": 14197,
+    "sha256": "3339c4127345d0f4a13ef61f68583ebd9a953a55e5d491e052b5b7146a37c794"
+   },
+   "kjv-renderings.jsonl": {
+    "rows": 14057,
+    "sha256": "15173f4f1babfbf0c2a47f1ac7cc0050ddbad72ab3bae861105c6ffc8cb4d5f5"
+   },
+   "kjv-tags.jsonl": {
+    "rows": 31102,
+    "sha256": "03488642df7039f3381b6b82dec802e1a429fb6859ff716a5591e340d083eb17"
+   }
+  },
+  "how": "python3 pipeline/build_strongs.py --fetch, then python3 pipeline/build_strongs.py",
+  "rights": {
+   "committed": false,
+   "license": "unresolved: eBible.org labels the text Public Domain; the tags are CrossWire's, whose kjv.conf grants use 'for any purpose' and says DistributionLicense=GPL",
+   "redistribute_whole": false,
+   "why": "Not committed until Adam rules (README-strongs s.6). Built to build/strongs/; the manifest carries each file's sha256."
+  }
  },
  "not_claimed": [
   "The KJV tags are CrossWire's, as eBible.org publishes them; they are not checked here against the Hebrew or Greek, and the rights call on them is Adam's (README s.6).",
@@ -219,7 +247,7 @@
   "status": "PROPOSED -- not in data/uids/; minting awaits Adam (CLAUDE.md 3b)"
  },
  "view": {
-  "file": "concordance-view.jsonl",
+  "file": "build/strongs/concordance-view.jsonl (local: built from the KJV tags)",
   "row": "one per used Strong's number: lemma, definition, every lexicon entry (citations), every KJV verse and English rendering, and for each verse whose number differs, its Vulgate, Douay and Brenton verse ids"
  },
  "witnesses": {
