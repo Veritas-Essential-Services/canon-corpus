@@ -171,3 +171,6 @@
 
 ## 2026-10-02 17:09 CDT — kalevala: done
 - 1/1 fetched (Gutenberg 5186), 1,534 units, 0 ~2 ids; cut by rune; translator Crawford captured from the header.
+
+## 2026-10-02 17:09 CDT — sagas: done
+- Sagas: dasent shelf gains Burnt Njal (Gutenberg 17919, 4,096 units, 0 ~2, by chapter) and Gisli the Outlaw (IA storygislioutla00dasegoog, raw OCR, grade A). PG 597 left out as the older transcription; the Orkneyingers' Saga (1894) not found as a usable scan. Sturluson on its own shelf (next commit).

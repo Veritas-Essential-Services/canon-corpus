@@ -76,6 +76,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `beowulf` | 4 Gutenberg | 0 | 2,181 | tr. Hall (1892), Morris and Wyatt (1895), Kirtlan (1914), Gummere (1910). Earle and Tinker exist as scans, not taken |
 | `poetic-edda` | 1 Gutenberg | 0 | 4,703 | Bellows (1923), each poem's introduction, text and notes apart. Thorpe's 1866 Eddas and Morris's Volsunga Saga noted for a later batch |
 | `kalevala` | 1 Gutenberg | 0 | 1,534 | tr. Crawford (1888), by rune. Kirby (1907) noted for a later batch |
+| `dasent` (extended) | +1 Gutenberg | +1 | +4,096 | Burnt Njal (1861; 1900 one-volume reprint) by chapter; Gisli the Outlaw (1866) raw OCR |
 
 ## For Adam to decide
 1. **Minting:** 497 slugs are waiting for the attended uid pass and manifest registration: 285 from the second run (lang 124, lamb 11, macdonald 60, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20), 130 from the third (carroll 16, kipling 5, stevenson 45, chesterton-gaps 5, aesop 2, nesbit 34, potter 23) and 63 from the fourth (grahame 5, barrie 26, baum 15, ruskin-golden-river 1, wilde-fairy-tales 2, dickens-christmas 5, collodi 2, lofting 7) and 19 from the fifth (jacobs-fairy 6, dasent 2, ralston 1, perrault 3, colum 7). The audit found passages held in two volumes (reprints, collected editions, Lang's borrowings from Ralston and Samber): mint those once, with two witnesses; the list is in `AUDIT-D.md` §1.

@@ -781,16 +781,19 @@ Shelf: `pipeline/jacobs-fairy_shelf.json` (2026-10-02; added at the coordinator'
 | jacobs-edited-only | excluded | works Jacobs only edited or introduced: Painter's Palace of Pleasure (PG 20241, 34053, 34840), Morris's Old French Romances (PG 5988) |
 | jacobs-not-fairy-tales | excluded | The Story of Geographical Discovery (PG 14291), As Others Saw Him (PG 48974): outside the relay's ask |
 
-## George Webbe Dasent (Norse tales)
+## George Webbe Dasent (Norse tales and sagas)
 
-Shelf: `pipeline/dasent_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Asbjørnsen and Moe's Norwegian tales in Dasent's translation; the translator is in each title and the fetch captured him from the Gutenberg header. Tales from the Fjeld prints two different tales called The Haunted Mill and sets The Companion over its frame and again over the tale, so 14 of its ids carry a ~2 suffix; left so rather than merging two tales. Not in the manifest; no uids minted.
+Shelf: `pipeline/dasent_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Asbjørnsen and Moe's Norwegian tales in Dasent's translation, and (relay 6) two of his saga translations: The Story of Burnt Njal, from the proofread transcription of the 1900 one-volume reprint (saga text complete, his introduction abridged), cut by its 158 chapters, and The Story of Gisli the Outlaw (1866), raw IA OCR graded A. The translator is in each title. Tales from the Fjeld prints two different tales called The Haunted Mill and sets The Companion over its frame and again over the tale, so 14 of its ids carry a ~2 suffix; left so rather than merging two tales. The older Gutenberg Njal (PG 597) is the same translation and is not taken. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Popular Tales from the Norse, Asbjørnsen and Moe, tr. George Webbe Dasent (1859) | have | PG 8933, `dasent-popular-tales-from-the-norse` (3348 units) |
 | Tales from the Fjeld, Asbjørnsen, tr. George Webbe Dasent (1874) | have | PG 36385, `dasent-tales-from-the-fjeld` (2368 units) |
+| The Story of Burnt Njal, from the Icelandic of the Njals Saga, tr. George Webbe Dasent (1861; one-volume reprint, 1900, with Dasent's preface abridged) | have | PG 17919, `dasent-burnt-njal` (4096 units) |
+| The Story of Gisli the Outlaw, from the Icelandic, tr. George Webbe Dasent (Edinburgh, 1866) | have-raw | IA `storygislioutla00dasegoog`, `dasent-gisli-the-outlaw` |
 | dasent-selection | excluded | A Selection from the Norse Tales for the Use of Children (PG 64189): a selection from Popular Tales from the Norse, a duplicate of its stories |
-| dasent-sagas | excluded | The Story of Burnt Njal (PG 597, 17919): a saga, not a folk tale; outside the relay's ask (it would belong on a sagas shelf) |
+| dasent-njal-duplicate | excluded | The Story of Burnt Njal (PG 597, 1995 e-text by Douglas Killings): an older transcription of the same translation; the header does not name Dasent as translator. PG 17919 is held instead |
+| dasent-orkneyingers | excluded | The Orkneyingers' Saga (Rolls Series, 1894): no usable scan found on this pass |
 
 ## W. R. S. Ralston (Russian tales)
 

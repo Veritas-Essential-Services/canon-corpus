@@ -1,5 +1,5 @@
 {
- "_about": "Sir George Webbe Dasent's (1817-1896) English translations of the Norwegian folk tales collected by Peter Christen Asbjørnsen and Jørgen Moe: Popular Tales from the Norse (1859) and Tales from the Fjeld (1874). Dasent is the translator, recorded in each title. Clean Gutenberg text; US public domain.",
+ "_about": "Sir George Webbe Dasent's (1817-1896) English translations of the Norwegian folk tales collected by Peter Christen Asbjørnsen and Jørgen Moe: Popular Tales from the Norse (1859) and Tales from the Fjeld (1874). Dasent is the translator, recorded in each title. Added on relay 6 at the coordinator's ask for the sagas: his Story of Burnt Njal (1861; clean Gutenberg, the proofread transcription of the 1900 one-volume reprint, whose saga text is complete and whose long introduction is abridged) and The Story of Gisli the Outlaw (1866; raw Internet Archive OCR). Clean Gutenberg text unless stated; US public domain.",
  "_author": "George Webbe Dasent",
  "_name_words": [
   "norse",
@@ -15,11 +15,32 @@
   "dasent-tales-from-the-fjeld": [
    36385,
    "Tales from the Fjeld, Asbjørnsen, tr. George Webbe Dasent (1874)"
+  ],
+  "dasent-burnt-njal": [
+   17919,
+   "The Story of Burnt Njal, from the Icelandic of the Njals Saga, tr. George Webbe Dasent (1861; one-volume reprint, 1900, with Dasent's preface abridged)",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "[A-Z][A-Z’' ,.-]{5,}$"
+     }
+    ]
+   }
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dasent-gisli-the-outlaw": [
+   "storygislioutla00dasegoog",
+   "The Story of Gisli the Outlaw, from the Icelandic, tr. George Webbe Dasent (Edinburgh, 1866)"
+  ]
+ },
  "_excluded": {
   "dasent-selection": "A Selection from the Norse Tales for the Use of Children (PG 64189): a selection from Popular Tales from the Norse, a duplicate of its stories",
-  "dasent-sagas": "The Story of Burnt Njal (PG 597, 17919): a saga, not a folk tale; outside the relay's ask (it would belong on a sagas shelf)"
+  "dasent-njal-duplicate": "The Story of Burnt Njal (PG 597, 1995 e-text by Douglas Killings): an older transcription of the same translation; the header does not name Dasent as translator. PG 17919 is held instead",
+  "dasent-orkneyingers": "The Orkneyingers' Saga (Rolls Series, 1894): no usable scan found on this pass"
  }
 }
