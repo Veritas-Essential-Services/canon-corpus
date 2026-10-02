@@ -1039,8 +1039,9 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | — | — | `sophocles-philoctetes-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
 | — | — | `sophocles-oedipus-colonus-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
 | The Tragedies of Sophocles, a new translation (1865) | E. H. Plumptre | `sophocles-plumptre` | have-raw (IA `tragediesofsopho1865soph`) |
+| The Tragedies of Sophocles, from the Greek (London, 1759; all seven plays in this scan) | Thomas Francklin | `sophocles-francklin-1759` | have-raw (IA `tragediesofsopho00soph`) |
 
-Pending (wishlist): Thomas Francklin (1759; vol. 2 of the 1809 Greek Tragic Theatre, not yet readable); Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
+Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
 Excluded: PG 806 (McNamee, a COPYRIGHTED Gutenberg eBook), PG 7073 (excerpts).
 
