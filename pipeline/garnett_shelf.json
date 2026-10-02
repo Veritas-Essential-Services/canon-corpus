@@ -1,0 +1,630 @@
+{
+ "_about": "TRANSLATOR SHELF: Constance Garnett (1861-1946) and her Russians. Each TITLE is its own work with its own slug; author sections (a Dostoevsky or Tolstoy section later) cross-reference these slugs, never a second copy. SOURCES are fetched by fetch_shelf.py; TITLES (one volume, or several joined) by split_shelf_titles.py. Rights: every title here was first published 1894-1927, so US public domain (published before 1931); UK public domain since 2017 (Garnett d. 1946). 'translated' = first publication of her translation; 'scan_edition' = the printing actually scanned when it is a later one. Gutenberg titles were checked for the PG Translator line (fetch report). No uids minted in the relay burst.",
+ "_name_words": [
+  "garnett",
+  "constance",
+  "dostoevsky",
+  "dostoyevsky",
+  "tolstoy",
+  "chekhov",
+  "turgenev",
+  "gogol"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "garnett-karamazov": [
+   28054,
+   "The Brothers Karamazov"
+  ],
+  "garnett-possessed": [
+   8117,
+   "The Possessed"
+  ],
+  "garnett-crime-and-punishment": [
+   2554,
+   "Crime and Punishment"
+  ],
+  "garnett-white-nights": [
+   36034,
+   "White Nights, and Other Stories (incl. Notes from Underground)"
+  ],
+  "garnett-anna-karenina": [
+   1399,
+   "Anna Karenina"
+  ],
+  "garnett-kingdom-of-god": [
+   43302,
+   "\"The Kingdom of God Is Within You\""
+  ],
+  "garnett-chekhov-darling": [
+   13416,
+   "Tales of Chekhov vol. 1: The Darling, and Other Stories"
+  ],
+  "garnett-chekhov-duel": [
+   13505,
+   "Tales of Chekhov vol. 2: The Duel, and Other Stories"
+  ],
+  "garnett-chekhov-lady-with-the-dog": [
+   13415,
+   "Tales of Chekhov vol. 3: The Lady with the Dog, and Other Stories"
+  ],
+  "garnett-chekhov-party": [
+   13413,
+   "Tales of Chekhov vol. 4: The Party, and Other Stories"
+  ],
+  "garnett-chekhov-wife": [
+   1883,
+   "Tales of Chekhov vol. 5: The Wife, and Other Stories"
+  ],
+  "garnett-chekhov-bishop": [
+   13419,
+   "Tales of Chekhov vol. 7: The Bishop, and Other Stories"
+  ],
+  "garnett-chekhov-chorus-girl": [
+   13418,
+   "Tales of Chekhov vol. 8: The Chorus Girl, and Other Stories"
+  ],
+  "garnett-chekhov-schoolmistress": [
+   1732,
+   "Tales of Chekhov vol. 9: The Schoolmistress, and Other Stories"
+  ],
+  "garnett-chekhov-horse-stealers": [
+   13409,
+   "Tales of Chekhov vol. 10: The Horse-Stealers, and Other Stories"
+  ],
+  "garnett-chekhov-schoolmaster": [
+   13412,
+   "Tales of Chekhov vol. 11: The Schoolmaster, and Other Stories"
+  ],
+  "garnett-chekhov-cooks-wedding": [
+   13417,
+   "Tales of Chekhov vol. 12: The Cook's Wedding, and Other Stories"
+  ],
+  "garnett-chekhov-love": [
+   13414,
+   "Tales of Chekhov vol. 13: Love, and Other Stories"
+  ],
+  "garnett-chekhov-letters": [
+   6408,
+   "Letters of Anton Chekhov to His Family and Friends"
+  ],
+  "garnett-turgenev-rudin": [
+   6900,
+   "Rudin"
+  ],
+  "garnett-turgenev-house-of-gentlefolk": [
+   5721,
+   "A House of Gentlefolk"
+  ],
+  "garnett-turgenev-on-the-eve": [
+   6902,
+   "On the Eve"
+  ],
+  "garnett-turgenev-fathers-and-children": [
+   30723,
+   "Fathers and Children"
+  ],
+  "garnett-turgenev-smoke": [
+   40813,
+   "Smoke"
+  ],
+  "garnett-turgenev-torrents-of-spring": [
+   9911,
+   "The Torrents of Spring"
+  ],
+  "garnett-turgenev-lear-of-the-steppes": [
+   52642,
+   "A Lear of the Steppes, etc."
+  ],
+  "garnett-turgenev-dream-tales": [
+   8935,
+   "Dream Tales and Prose Poems"
+  ],
+  "garnett-turgenev-diary-of-a-superfluous-man": [
+   9615,
+   "The Diary of a Superfluous Man, and Other Stories"
+  ],
+  "garnett-turgenev-desperate-character": [
+   8871,
+   "A Desperate Character, and Other Stories"
+  ],
+  "garnett-turgenev-jew": [
+   8696,
+   "The Jew, and Other Stories"
+  ],
+  "garnett-turgenev-knock-knock-knock": [
+   7120,
+   "Knock, Knock, Knock, and Other Stories"
+  ],
+  "garnett-turgenev-sportsman-1": [
+   8597,
+   "A Sportsman's Sketches, vol. 1"
+  ],
+  "garnett-turgenev-sportsman-2": [
+   8744,
+   "A Sportsman's Sketches, vol. 2"
+  ],
+  "garnett-ostrovsky-storm": [
+   7991,
+   "The Storm (play)"
+  ],
+  "garnett-herzen-past-1": [
+   76599,
+   "Herzen, My Past and Thoughts, vol. 1 of 6"
+  ],
+  "garnett-herzen-past-2": [
+   78332,
+   "Herzen, My Past and Thoughts, vol. 2 of 6"
+  ],
+  "garnett-herzen-past-3": [
+   78336,
+   "Herzen, My Past and Thoughts, vol. 3 of 6"
+  ],
+  "garnett-herzen-past-4": [
+   78360,
+   "Herzen, My Past and Thoughts, vol. 4 of 6"
+  ],
+  "garnett-herzen-past-5": [
+   78361,
+   "Herzen, My Past and Thoughts, vol. 5 of 6"
+  ],
+  "garnett-herzen-past-6": [
+   78377,
+   "Herzen, My Past and Thoughts, vol. 6 of 6"
+  ]
+ },
+ "internet_archive": {
+  "garnett-idiot": [
+   "idiotnovelinfour0000fyod",
+   "The Idiot"
+  ],
+  "garnett-gambler": [
+   "cu31924014422020",
+   "The Gambler, and Other Stories"
+  ],
+  "garnett-house-of-the-dead": [
+   "bwb_O4-BDO-591",
+   "The House of the Dead"
+  ],
+  "garnett-insulted-and-injured": [
+   "cu31924026647549",
+   "The Insulted and Injured"
+  ],
+  "garnett-raw-youth": [
+   "rawyouth00dostuoft",
+   "A Raw Youth"
+  ],
+  "garnett-eternal-husband": [
+   "eternalhusbandot00dost_3",
+   "The Eternal Husband, and Other Stories"
+  ],
+  "garnett-honest-thief": [
+   "honestthief0000fyod",
+   "An Honest Thief, and Other Stories"
+  ],
+  "garnett-friend-of-the-family": [
+   "novelsoffyodordo12dost",
+   "The Friend of the Family; and Another Story (Novels vol. XII)"
+  ],
+  "garnett-war-and-peace": [
+   "bwb_P9-DUB-268",
+   "War and Peace"
+  ],
+  "garnett-death-of-ivan-ilyitch": [
+   "deathofivanilyit00tols",
+   "The Death of Ivan Ilyitch, and Other Stories"
+  ],
+  "garnett-christianity-and-patriotism": [
+   "christianitypatr00tols",
+   "Christianity and Patriotism, with Pertinent Extracts from Other Essays"
+  ],
+  "garnett-chekhov-witch": [
+   "witchotherstorie00chek_0",
+   "Tales of Chekhov vol. 6: The Witch, and Other Stories"
+  ],
+  "garnett-chekhov-plays-1": [
+   "bwb_KR-628-394",
+   "The Plays of Tchehov vol. 1: The Cherry Orchard, and Other Plays"
+  ],
+  "garnett-chekhov-plays-2": [
+   "bwb_KU-774-685",
+   "The Plays of Tchehov vol. 2: Three Sisters, and Other Plays"
+  ],
+  "garnett-turgenev-virgin-soil-1": [
+   "virginsoil01turguoft",
+   "Virgin Soil, vol. 1"
+  ],
+  "garnett-turgenev-virgin-soil-2": [
+   "virginsoil02turguoft",
+   "Virgin Soil, vol. 2"
+  ],
+  "garnett-turgenev-two-friends": [
+   "twofriendsothers00turgrich",
+   "The Two Friends, and Other Stories"
+  ],
+  "garnett-gogol-dead-souls-1": [
+   "p1theworksofniko01gogo",
+   "Works of Nikolay Gogol: Dead Souls, vol. 1"
+  ],
+  "garnett-gogol-dead-souls-2": [
+   "pt2theworksofnik01gogouoft",
+   "Works of Nikolay Gogol: Dead Souls, vol. 2"
+  ],
+  "garnett-goncharov-common-story": [
+   "cu31924026662183",
+   "A Common Story"
+  ]
+ },
+ "titles": {
+  "garnett-karamazov": {
+   "source": "garnett-karamazov",
+   "of": "Dostoevsky",
+   "work": "The Brothers Karamazov",
+   "translated": 1912
+  },
+  "garnett-idiot": {
+   "source": "garnett-idiot",
+   "of": "Dostoevsky",
+   "work": "The Idiot",
+   "translated": 1913,
+   "scan_edition": "Heinemann/Macmillan, IA-dated 1916"
+  },
+  "garnett-possessed": {
+   "source": "garnett-possessed",
+   "of": "Dostoevsky",
+   "work": "The Possessed",
+   "translated": 1913
+  },
+  "garnett-crime-and-punishment": {
+   "source": "garnett-crime-and-punishment",
+   "of": "Dostoevsky",
+   "work": "Crime and Punishment",
+   "translated": 1914
+  },
+  "garnett-gambler": {
+   "source": "garnett-gambler",
+   "of": "Dostoevsky",
+   "work": "The Gambler, and Other Stories",
+   "translated": 1914,
+   "scan_edition": "Heinemann 1914 (Cornell copy)"
+  },
+  "garnett-house-of-the-dead": {
+   "source": "garnett-house-of-the-dead",
+   "of": "Dostoevsky",
+   "work": "The House of the Dead",
+   "translated": 1915,
+   "scan_edition": "reprint, IA-dated 1923"
+  },
+  "garnett-insulted-and-injured": {
+   "source": "garnett-insulted-and-injured",
+   "of": "Dostoevsky",
+   "work": "The Insulted and Injured",
+   "translated": 1915,
+   "scan_edition": "Heinemann 1915 (Cornell copy)"
+  },
+  "garnett-raw-youth": {
+   "source": "garnett-raw-youth",
+   "of": "Dostoevsky",
+   "work": "A Raw Youth",
+   "translated": 1916,
+   "scan_edition": "Heinemann 1916 (Toronto copy)"
+  },
+  "garnett-eternal-husband": {
+   "source": "garnett-eternal-husband",
+   "of": "Dostoevsky",
+   "work": "The Eternal Husband, and Other Stories",
+   "translated": 1917,
+   "scan_edition": "IA-dated 1917"
+  },
+  "garnett-white-nights": {
+   "source": "garnett-white-nights",
+   "of": "Dostoevsky",
+   "work": "White Nights, and Other Stories (incl. Notes from Underground)",
+   "translated": 1918,
+   "note": "Notes from Underground is inside this volume; PG 600/6536 standalone copies excluded as duplicates. Splitting it out as its own title is pending."
+  },
+  "garnett-honest-thief": {
+   "source": "garnett-honest-thief",
+   "of": "Dostoevsky",
+   "work": "An Honest Thief, and Other Stories",
+   "translated": 1919,
+   "scan_edition": "IA-dated 1919 (text names 1923 in ads: a reprint)"
+  },
+  "garnett-friend-of-the-family": {
+   "source": "garnett-friend-of-the-family",
+   "of": "Dostoevsky",
+   "work": "The Friend of the Family; and Another Story (Novels vol. XII)",
+   "translated": 1920,
+   "scan_edition": "Heinemann Novels of FD vol. 12, 1920"
+  },
+  "garnett-anna-karenina": {
+   "source": "garnett-anna-karenina",
+   "of": "Tolstoy",
+   "work": "Anna Karenina",
+   "translated": 1901
+  },
+  "garnett-war-and-peace": {
+   "source": "garnett-war-and-peace",
+   "of": "Tolstoy",
+   "work": "War and Peace",
+   "translated": 1904,
+   "scan_edition": "reprint, IA-dated 1910; title page names Garnett",
+   "note": "The 1904 Heinemann first edition was not found on IA; this scan is a later printing of the same translation."
+  },
+  "garnett-death-of-ivan-ilyitch": {
+   "source": "garnett-death-of-ivan-ilyitch",
+   "of": "Tolstoy",
+   "work": "The Death of Ivan Ilyitch, and Other Stories",
+   "translated": 1902,
+   "scan_edition": "Heinemann 1902"
+  },
+  "garnett-kingdom-of-god": {
+   "source": "garnett-kingdom-of-god",
+   "of": "Tolstoy",
+   "work": "\"The Kingdom of God Is Within You\"",
+   "translated": 1894,
+   "note": "PG 43302 (DP proofread from page images) preferred over the older PG 4602 transcription."
+  },
+  "garnett-christianity-and-patriotism": {
+   "source": "garnett-christianity-and-patriotism",
+   "of": "Tolstoy",
+   "work": "Christianity and Patriotism, with Pertinent Extracts from Other Essays",
+   "translated": 1922,
+   "scan_edition": "1922"
+  },
+  "garnett-chekhov-darling": {
+   "source": "garnett-chekhov-darling",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 1: The Darling, and Other Stories",
+   "translated": 1916
+  },
+  "garnett-chekhov-duel": {
+   "source": "garnett-chekhov-duel",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 2: The Duel, and Other Stories",
+   "translated": 1916
+  },
+  "garnett-chekhov-lady-with-the-dog": {
+   "source": "garnett-chekhov-lady-with-the-dog",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 3: The Lady with the Dog, and Other Stories",
+   "translated": 1917
+  },
+  "garnett-chekhov-party": {
+   "source": "garnett-chekhov-party",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 4: The Party, and Other Stories",
+   "translated": 1917
+  },
+  "garnett-chekhov-wife": {
+   "source": "garnett-chekhov-wife",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 5: The Wife, and Other Stories",
+   "translated": 1918
+  },
+  "garnett-chekhov-bishop": {
+   "source": "garnett-chekhov-bishop",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 7: The Bishop, and Other Stories",
+   "translated": 1919
+  },
+  "garnett-chekhov-chorus-girl": {
+   "source": "garnett-chekhov-chorus-girl",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 8: The Chorus Girl, and Other Stories",
+   "translated": 1920
+  },
+  "garnett-chekhov-schoolmistress": {
+   "source": "garnett-chekhov-schoolmistress",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 9: The Schoolmistress, and Other Stories",
+   "translated": 1920
+  },
+  "garnett-chekhov-horse-stealers": {
+   "source": "garnett-chekhov-horse-stealers",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 10: The Horse-Stealers, and Other Stories",
+   "translated": 1921
+  },
+  "garnett-chekhov-schoolmaster": {
+   "source": "garnett-chekhov-schoolmaster",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 11: The Schoolmaster, and Other Stories",
+   "translated": 1921
+  },
+  "garnett-chekhov-cooks-wedding": {
+   "source": "garnett-chekhov-cooks-wedding",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 12: The Cook's Wedding, and Other Stories",
+   "translated": 1922
+  },
+  "garnett-chekhov-love": {
+   "source": "garnett-chekhov-love",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 13: Love, and Other Stories",
+   "translated": 1922
+  },
+  "garnett-chekhov-witch": {
+   "source": "garnett-chekhov-witch",
+   "of": "Chekhov",
+   "work": "Tales of Chekhov vol. 6: The Witch, and Other Stories",
+   "translated": 1918,
+   "scan_edition": "Macmillan 1918, copyright-deposit copy",
+   "note": "PG 1944 is this volume but its file names no translator, so the dated scan is used."
+  },
+  "garnett-chekhov-letters": {
+   "source": "garnett-chekhov-letters",
+   "of": "Chekhov",
+   "work": "Letters of Anton Chekhov to His Family and Friends",
+   "translated": 1920
+  },
+  "garnett-chekhov-plays-1": {
+   "source": "garnett-chekhov-plays-1",
+   "of": "Chekhov",
+   "work": "The Plays of Tchehov vol. 1: The Cherry Orchard, and Other Plays",
+   "translated": 1923,
+   "scan_edition": "Chatto & Windus (Phoenix Library reprint), IA-dated 1923"
+  },
+  "garnett-chekhov-plays-2": {
+   "source": "garnett-chekhov-plays-2",
+   "of": "Chekhov",
+   "work": "The Plays of Tchehov vol. 2: Three Sisters, and Other Plays",
+   "translated": 1923,
+   "scan_edition": "Chatto & Windus, IA-dated 1923"
+  },
+  "garnett-turgenev-rudin": {
+   "source": "garnett-turgenev-rudin",
+   "of": "Turgenev",
+   "work": "Rudin",
+   "translated": 1894
+  },
+  "garnett-turgenev-house-of-gentlefolk": {
+   "source": "garnett-turgenev-house-of-gentlefolk",
+   "of": "Turgenev",
+   "work": "A House of Gentlefolk",
+   "translated": 1894
+  },
+  "garnett-turgenev-on-the-eve": {
+   "source": "garnett-turgenev-on-the-eve",
+   "of": "Turgenev",
+   "work": "On the Eve",
+   "translated": 1895
+  },
+  "garnett-turgenev-fathers-and-children": {
+   "source": "garnett-turgenev-fathers-and-children",
+   "of": "Turgenev",
+   "work": "Fathers and Children",
+   "translated": 1895
+  },
+  "garnett-turgenev-smoke": {
+   "source": "garnett-turgenev-smoke",
+   "of": "Turgenev",
+   "work": "Smoke",
+   "translated": 1896
+  },
+  "garnett-turgenev-torrents-of-spring": {
+   "source": "garnett-turgenev-torrents-of-spring",
+   "of": "Turgenev",
+   "work": "The Torrents of Spring",
+   "translated": 1897
+  },
+  "garnett-turgenev-lear-of-the-steppes": {
+   "source": "garnett-turgenev-lear-of-the-steppes",
+   "of": "Turgenev",
+   "work": "A Lear of the Steppes, etc.",
+   "translated": 1898
+  },
+  "garnett-turgenev-dream-tales": {
+   "source": "garnett-turgenev-dream-tales",
+   "of": "Turgenev",
+   "work": "Dream Tales and Prose Poems",
+   "translated": 1897
+  },
+  "garnett-turgenev-diary-of-a-superfluous-man": {
+   "source": "garnett-turgenev-diary-of-a-superfluous-man",
+   "of": "Turgenev",
+   "work": "The Diary of a Superfluous Man, and Other Stories",
+   "translated": 1899
+  },
+  "garnett-turgenev-desperate-character": {
+   "source": "garnett-turgenev-desperate-character",
+   "of": "Turgenev",
+   "work": "A Desperate Character, and Other Stories",
+   "translated": 1899
+  },
+  "garnett-turgenev-jew": {
+   "source": "garnett-turgenev-jew",
+   "of": "Turgenev",
+   "work": "The Jew, and Other Stories",
+   "translated": 1899
+  },
+  "garnett-turgenev-knock-knock-knock": {
+   "source": "garnett-turgenev-knock-knock-knock",
+   "of": "Turgenev",
+   "work": "Knock, Knock, Knock, and Other Stories",
+   "translated": 1921
+  },
+  "garnett-turgenev-sportsmans-sketches": {
+   "source": [
+    "garnett-turgenev-sportsman-1",
+    "garnett-turgenev-sportsman-2"
+   ],
+   "of": "Turgenev",
+   "work": "A Sportsman's Sketches (2 vols)",
+   "translated": 1895
+  },
+  "garnett-turgenev-virgin-soil": {
+   "source": [
+    "garnett-turgenev-virgin-soil-1",
+    "garnett-turgenev-virgin-soil-2"
+   ],
+   "of": "Turgenev",
+   "work": "Virgin Soil (2 vols)",
+   "translated": 1896,
+   "scan_edition": "Heinemann reprint, IA-dated 1920"
+  },
+  "garnett-turgenev-two-friends": {
+   "source": "garnett-turgenev-two-friends",
+   "of": "Turgenev",
+   "work": "The Two Friends, and Other Stories",
+   "translated": 1921,
+   "scan_edition": "Heinemann 1921"
+  },
+  "garnett-gogol-dead-souls": {
+   "source": [
+    "garnett-gogol-dead-souls-1",
+    "garnett-gogol-dead-souls-2"
+   ],
+   "of": "Gogol",
+   "work": "Dead Souls (Works of Gogol vols 1-2)",
+   "translated": 1922,
+   "scan_edition": "Chatto & Windus 1922"
+  },
+  "garnett-ostrovsky-storm": {
+   "source": "garnett-ostrovsky-storm",
+   "of": "Ostrovsky",
+   "work": "The Storm (play)",
+   "translated": 1899
+  },
+  "garnett-goncharov-common-story": {
+   "source": "garnett-goncharov-common-story",
+   "of": "Goncharov",
+   "work": "A Common Story",
+   "translated": 1894,
+   "scan_edition": "Heinemann 1894 (Cornell copy)"
+  },
+  "garnett-herzen-my-past-and-thoughts": {
+   "source": [
+    "garnett-herzen-past-1",
+    "garnett-herzen-past-2",
+    "garnett-herzen-past-3",
+    "garnett-herzen-past-4",
+    "garnett-herzen-past-5",
+    "garnett-herzen-past-6"
+   ],
+   "of": "Herzen",
+   "work": "My Past and Thoughts (6 vols)",
+   "translated": "1924-27"
+  }
+ },
+ "_pending": {
+  "garnett-gogol-other": "Works of Gogol vols 3-6 (Chatto 1923-28: The Overcoat and Other Stories; Evenings on a Farm near Dikanka; The Government Inspector and Other Plays; Mirgorod) - all pre-1931, PD; no verified IA scan found this run.",
+  "garnett-dostoevsky-poor-folk": "Poor Folk and The Uncle's Dream volumes of the Heinemann Novels (1915-20): not located with a verified Garnett title page this run.",
+  "garnett-notes-from-underground": "Cut out of garnett-white-nights as its own title (heading markers) - pending.",
+  "garnett-war-and-peace-1904": "Heinemann 1904 first printing, wanted to replace the later scan.",
+  "garnett-turgenev-novels-1894": "The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective."
+ },
+ "_excluded": {
+  "pg-600, pg-6536": "Notes from Underground standalone: duplicates the text inside garnett-white-nights.",
+  "pg-4602": "Older transcription of the same Kingdom of God translation; PG 43302 kept.",
+  "pg-1944": "The Witch and Other Stories: almost certainly Garnett's Tales vol. 6, but the PG file names no translator; the dated IA scan is used instead.",
+  "pg-2638, pg-2197, pg-2302, pg-1081, pg-47935": "The Idiot (Eva Martin), The Gambler and Poor Folk (C. J. Hogarth), Dead Souls (D. J. Hogarth), Fathers and Sons (Hogarth): not Garnett.",
+  "ia-houseofdeadorpri00dostuoft": "House of the Dead 1911: predates Garnett's 1915 version; no Garnett on the title page.",
+  "ia-warpeace01tols_0": "War and Peace, Carlton House edition, undated: rule - undatable printings excluded.",
+  "ia-dli/in.ernet scans": "Digital Library of India copies: their _djvu.txt files 404 at the expected path; Cornell/Toronto/other scans used instead.",
+  "chekhov-plays-1930-modern-library": "The Plays of Anton Tchekov (Modern Library, 1929-30): a reprint of the 1923 volumes, which are used."
+ },
+ "_notes": {
+  "pg-30723": "PG 30723 Fathers and Children credits Garnett in its header (catalogue lists W. A. Neilson as introducer)."
+ }
+}

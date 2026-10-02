@@ -10,3 +10,12 @@
 - Not converted to unit-id JSON (needs fetch_sources.py entry: forbidden in the relay). Awaiting uid minting: all 21 titles.
 - Excluded: "Dryden's Plutarch" (Dryden translated none of the Lives), Polybius/Lucian prefaces, PG 24901 (wrong Dryden), Gilfillan and PG 7490 duplicates.
 - Lane B pointers dryden-aeneid / -georgics / -eclogues / -metamorphoses now resolve.
+
+## 2026-10-02T15:30-05:00 — shelf-garnett: done-with-defects
+- Shelf pipeline/garnett_shelf.json: 60 sources (40 Gutenberg, 20 Internet Archive), 40.3 MB, 0 failed. All 40 PG headers: Translator = Constance Garnett; no COPYRIGHTED markers.
+- 52 titles cut (split_shelf_titles.py now joins multi-volume titles: Sportsman's Sketches, Virgin Soil, Dead Souls, Herzen's My Past and Thoughts 6 vols). Dostoevsky 12, Tolstoy 5, Chekhov 16 (13 Tales vols, letters, 2 plays vols), Turgenev 15, Gogol 1, Ostrovsky 1, Goncharov 1, Herzen 1.
+- Dating: every title first published 1894-1927 (US PD, pre-1931). Later printings scanned are recorded per title as scan_edition (War and Peace IA-dated 1910, House of the Dead 1923, plays 1923 Phoenix reprint). Undatable Carlton House War and Peace excluded.
+- IA OCR quality (tokens in a clean-text vocabulary): 0.921 (plays vol 1) to 0.974 (Insulted and Injured); clean PG baseline 0.962.
+- Excluded: PG 600/6536 (duplicate of Notes inside White Nights), PG 4602 (older transcription), PG 1944 (no translator named in file), non-Garnett PG versions (Martin, Hogarth), IA 1911 House of the Dead (not Garnett), DLI scans (txt 404).
+- Pending: Gogol vols 3-6, Poor Folk / Uncle's Dream, Notes from Underground as its own cut title, 1904 War and Peace first printing.
+- tests/structure_test.py: 64 passed, 0 failed.

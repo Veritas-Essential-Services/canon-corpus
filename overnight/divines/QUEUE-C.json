@@ -11,9 +11,11 @@
     },
     {
       "id": "shelf-garnett",
-      "status": "running",
+      "status": "done-with-defects",
       "scope": "TRANSLATOR SHELF \u2014 Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section",
-      "started": "2026-10-02T15:18-05:00"
+      "started": "2026-10-02T15:18-05:00",
+      "finished": "2026-10-02T15:30-05:00",
+      "notes": "Shelf pipeline/garnett_shelf.json: 60 sources (40 PG, 20 IA), 40.3 MB, 0 failed; 52 titles cut (multi-volume titles joined), 0 failed. Every PG file's Translator line reads Constance Garnett. IA OCR quality 0.92-0.97 (share of tokens in a clean Garnett vocabulary; PG Anna Karenina 0.962). Defects: not converted to unit-id JSON (needs fetch_sources.py entry: off limits); no uids minted (52 titles await Adam); War and Peace, House of the Dead, Honest Thief, plays are later printings (scan_edition recorded); Notes from Underground still inside garnett-white-nights; Gogol vols 3-6, Poor Folk, Uncle's Dream not found with a verified title page (pending)."
     }
   ]
 }

@@ -16,7 +16,9 @@ heading markers:
 
 A marker is [exact heading line, stripped; which occurrence, 1-based]. "end"
 null = to the end of the source's body. No "start" = the whole body. The
-Gutenberg header and licence are always cut off first.
+Gutenberg header and licence are always cut off first. "source" may be a
+LIST of source slugs (a title in several volumes): their bodies are joined
+in order, then cut.
 
 Writes data/corpus/<shelf>/titles/<slug>.txt (gitignored, atomic temp+rename)
 and titles_report.json (lines, bytes, marker line numbers). A missing marker
@@ -58,12 +60,15 @@ def main():
     report = {}
     for slug, t in shelf.get("titles", {}).items():
         src = t["source"]
-        path = next((os.path.join(src_dir, src + x) for x in (".txt", ".xml")
-                     if os.path.exists(os.path.join(src_dir, src + x))), None)
-        if not path:
+        srcs = src if isinstance(src, list) else [src]   # a list = volumes, joined in order
+        paths = [next((os.path.join(src_dir, s + x) for x in (".txt", ".xml")
+                       if os.path.exists(os.path.join(src_dir, s + x))), None) for s in srcs]
+        if not all(paths):
             report[slug] = {"status": "NO-SOURCE", "source": src}
             print(slug, "NO-SOURCE", src); continue
-        lines = body(open(path, encoding="utf-8", errors="replace").read()).splitlines()
+        lines = []
+        for path in paths:
+            lines += body(open(path, encoding="utf-8", errors="replace").read()).splitlines()
         try:
             a = find(lines, t["start"]) if t.get("start") else 0
             b = find(lines, t["end"], after=a + 1) if t.get("end") else len(lines)
