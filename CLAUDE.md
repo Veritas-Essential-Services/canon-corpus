@@ -106,6 +106,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/place_catena.py --fetch # RP2018 books for the catenae, pinned
     python3 pipeline/place_catena.py --check # catena verse placements byte-identical
+    python3 pipeline/tag_fathers.py          # fathers: Strong's / Lewis & Short tags + scripture links
+    python3 pipeline/tag_fathers.py --check  # data/fathers/ byte-identical
+    python3 tests/fathers_scripture_test.py  # the editors' scripture references, read and resolved
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
     python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)
@@ -387,6 +390,21 @@ The living truth for project state is the Obsidian vault:
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
+- pipeline/tag_fathers.py (2026-10-02) -- every word of the fathers keyed, every
+  scripture reference in their editors' notes resolved; each tag and link
+  carries its RULE id. Greek (-grc, catenae included): Strong's number by
+  build_apostolic_fathers.tag_word's rules against data/nt (rebuild_bible.py
+  first). Latin (-lat): Lewis & Short key by build_latin_key's machinery (L&S
+  and WORDS fetched locally; the L&S data is not committed): `sure`, the
+  context rules that settled it, or null with `several` / `no-ls` / `unread`.
+  Scripture: pipeline/fathers_scripture.py reads CSEL's Latin, GCS's German,
+  Archambault's French and the English editors' notes; the OT goes through
+  the Vulgate map in a Latin book and Brenton's in a Greek one (the edition
+  family's convention, with the English numbering kept as `alt_target`), and
+  an apparatus line number is never read as a verse. Tokens are the text
+  (CC BY-SA TEI), so they and the links go to build/fathers/ (gitignored);
+  committed: data/fathers/manifest.json (counts by rule, sha256 of every
+  input book and every output).
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
