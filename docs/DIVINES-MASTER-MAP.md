@@ -1841,6 +1841,7 @@ Shelf: `pipeline/strabo_shelf.json`. Hamilton (Books I-VI) and Falconer (Gutenbe
 | The Geography of Strabo, vol. 1 | H. C. Hamilton and W. Falconer | `strabo-hamilton-falconer-v1` | have (PG 44884) |
 | The Geography of Strabo, vol. 2 | H. C. Hamilton and W. Falconer | `strabo-hamilton-falconer-v2` | have (PG 44885) |
 | The Geography of Strabo, vol. 3 | H. C. Hamilton and W. Falconer | `strabo-hamilton-falconer-v3` | have (PG 44886) |
+| Geography (Books 6-14) | Horace Leonard Jones | `strabo-perseus-jones-geography-books-6-14` | have (Perseus TEI `tlg0099.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
 
 ## Appian
 

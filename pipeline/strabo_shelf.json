@@ -1,29 +1,37 @@
 {
- "_about": "Strabo, Geography, in the Bohn translation by H. C. Hamilton (Books I-VI) and W. Falconer (Books VII-XVII), 3 vols., clean Gutenberg.",
- "_name_words": [
-  "strabo",
-  "geography"
- ],
- "ccel": {},
- "gutenberg": {
-  "strabo-hamilton-falconer-v1": [
-   44884,
-   "The Geography of Strabo, vol. 1",
-   "tr. H. C. Hamilton and W. Falconer"
+  "_about": "Strabo, Geography, in the Bohn translation by H. C. Hamilton (Books I-VI) and W. Falconer (Books VII-XVII), 3 vols., clean Gutenberg. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+  "_name_words": [
+    "strabo",
+    "geography"
   ],
-  "strabo-hamilton-falconer-v2": [
-   44885,
-   "The Geography of Strabo, vol. 2",
-   "tr. H. C. Hamilton and W. Falconer"
-  ],
-  "strabo-hamilton-falconer-v3": [
-   44886,
-   "The Geography of Strabo, vol. 3",
-   "tr. H. C. Hamilton and W. Falconer"
-  ]
- },
- "internet_archive": {},
- "_excluded": {
-  "Jones, Loeb (1917-32)": "Greek facing; later vols. not PD; pending"
- }
+  "ccel": {},
+  "gutenberg": {
+    "strabo-hamilton-falconer-v1": [
+      44884,
+      "The Geography of Strabo, vol. 1",
+      "tr. H. C. Hamilton and W. Falconer"
+    ],
+    "strabo-hamilton-falconer-v2": [
+      44885,
+      "The Geography of Strabo, vol. 2",
+      "tr. H. C. Hamilton and W. Falconer"
+    ],
+    "strabo-hamilton-falconer-v3": [
+      44886,
+      "The Geography of Strabo, vol. 3",
+      "tr. H. C. Hamilton and W. Falconer"
+    ]
+  },
+  "internet_archive": {},
+  "_excluded": {
+    "Jones, Loeb (1917-32)": "Greek facing; later vols. not PD; pending"
+  },
+  "perseus": {
+    "strabo-perseus-jones-geography-books-6-14": [
+      "tlg0099.tlg001.perseus-eng3",
+      "Geography (Books 6-14)",
+      "Horace Leonard Jones",
+      "Translation published 1929: US public domain (in or before 1930). Perseus source line: Strabo. The Geography of Strabo, Vols. 3-6. Jones, Horace Leonard, translator. Cambridge, Mass.: Harvard University Press; London: William Heinemann, Ltd., 1924-1929 (printing)."
+    ]
+  }
 }
