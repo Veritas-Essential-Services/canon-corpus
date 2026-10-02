@@ -1,0 +1,159 @@
+{
+ "_about": "Every public-domain Richard Baxter (1615-1691) text the Word Hoard holds. The target is Orme's edition of the Practical Works (London, 1830), 23 volumes, vol. 1 being William Orme's Life (Orme d. 1830). All 23 volumes are held as raw IA OCR, unconverted (the Edwards precedent); no single scan series is complete, so the set mixes Toronto, other library and Google/BSB scans, and each volume number was read off the title-page OCR. Every CCEL Baxter title is held as clean ThML, and Gutenberg's four-part Christian Directory (rights lines checked by the fetcher). Modern reprints are excluded.",
+ "_ccel_author": "b/baxter",
+ "_name_words": [
+  "baxter"
+ ],
+ "_held": {},
+ "ccel": {
+  "baxter-causes": [
+   "causes",
+   "The Causes and Danger of Slighting Christ and His Gospel",
+   ""
+  ],
+  "baxter-reformed-pastor": [
+   "pastor",
+   "The Reformed Pastor",
+   ""
+  ],
+  "baxter-saints-rest": [
+   "saints_rest",
+   "The Saints' Everlasting Rest",
+   ""
+  ],
+  "baxter-call-unconverted": [
+   "unconverted",
+   "A Call to the Unconverted to Turn and Live",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "baxter-directory-1": [
+   41633,
+   "A Christian Directory, Part 1: Christian Ethics"
+  ],
+  "baxter-directory-2": [
+   43800,
+   "A Christian Directory, Part 2: Christian Economics"
+  ],
+  "baxter-directory-3": [
+   44655,
+   "A Christian Directory, Part 3: Christian Ecclesiastics"
+  ],
+  "baxter-directory-4": [
+   43967,
+   "A Christian Directory, Part 4: Christian Politics"
+  ]
+ },
+ "internet_archive": {
+  "baxter-works-orme-01": [
+   "practicalworksof01baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 1 (Orme's Life of Baxter)"
+  ],
+  "baxter-works-orme-02": [
+   "practicalworksof02baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 2"
+  ],
+  "baxter-works-orme-03": [
+   "practicalworksof03baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 3"
+  ],
+  "baxter-works-orme-04": [
+   "10785346bsb",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 4"
+  ],
+  "baxter-works-orme-05": [
+   "10785347bsb",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 5"
+  ],
+  "baxter-works-orme-06": [
+   "practicalworksof06baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 6"
+  ],
+  "baxter-works-orme-07": [
+   "practicalworksof07baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 7"
+  ],
+  "baxter-works-orme-08": [
+   "practicalworksof08baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 8"
+  ],
+  "baxter-works-orme-09": [
+   "practicalworksof09baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 9"
+  ],
+  "baxter-works-orme-10": [
+   "practicalworksof10baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 10"
+  ],
+  "baxter-works-orme-11": [
+   "practicalworksof11baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 11"
+  ],
+  "baxter-works-orme-12": [
+   "practicalworksof12baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 12"
+  ],
+  "baxter-works-orme-13": [
+   "practicalworksof13baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 13"
+  ],
+  "baxter-works-orme-14": [
+   "practicalworksof14baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 14"
+  ],
+  "baxter-works-orme-15": [
+   "practicalworksof15baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 15"
+  ],
+  "baxter-works-orme-16": [
+   "practicalworksof16baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 16"
+  ],
+  "baxter-works-orme-17": [
+   "practicalworksof17baxt",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 17"
+  ],
+  "baxter-works-orme-18": [
+   "practicalworksof18baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 18"
+  ],
+  "baxter-works-orme-19": [
+   "practicalworksof19baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 19"
+  ],
+  "baxter-works-orme-20": [
+   "practicalworksr00ormegoog",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 20"
+  ],
+  "baxter-works-orme-21": [
+   "practicalworksof21baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 21"
+  ],
+  "baxter-works-orme-22": [
+   "practicalworksof22baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 22"
+  ],
+  "baxter-works-orme-23": [
+   "practicalworksof23baxtuoft",
+   "The Practical Works of the Rev. Richard Baxter, ed. William Orme (London: James Duncan, 1830), vol. 23"
+  ]
+ },
+ "_alternates": {
+  "PG 58135": "The Saint's Everlasting Rest on Gutenberg; not fetched: CCEL's is held. Which edition each follows is unchecked.",
+  "practicalworksof{02,09,12}baxt, practicalworksof03baxtuoft, practicalworksr*baxtgoog, practicalworksr0[0-3]unkngoog/ormegoog, 10785351bsb": "Further scans of Orme 1830 volumes; verified by title page where read, not fetched: duplicates of the set above.",
+  "practicalworksof0001baxt, practicalworksof0004baxt, bim_eighteenth-century_works-the-practical-wo_baxter-richard_1707_*": "The Practical Works in four folio volumes (1707); not fetched: Orme supersedes it for the practical works. Note: the 1707 folios hold some texts Orme omitted.",
+  "practicalworksof0[2-4]baxt_0, practicalworksr22baxtgoog": "The 1838/1845 four-volume Practical Works; not fetched.",
+  "achristiandirec0[0-4]baxtgoog": "A Christian Directory, 1825; not fetched: Gutenberg's is held.",
+  "selectpractical*": "Select Practical Writings, ed. Leonard Bacon (1831-1855); not fetched: a selection."
+ },
+ "_excluded": {
+  "saintseverlastin00baxt_1, bim_eighteenth-century_the-saints-everlasting-r_baxter-richard_179*": "Wesley's abridgement, not Baxter's text",
+  "worksmoralandre*": "The works of Sir Matthew Hale, Baxter only a contributor",
+  "CCEL baxter/practical": "CCEL's 'Practical Works of Richard Baxter' is a stub: 965 paragraph tags but only about 8.5 KB of text (contents and page breaks; the chapters are empty). Fetched once 2026-10-02, measured, and dropped. The Christian Directory it outlines is held from Gutenberg."
+ },
+ "_pending": {
+  "Reliquiae Baxterianae (1696)": "Baxter's autobiography; not in Orme's Practical Works; no scan verified yet",
+  "Methodus Theologiae, Catholick Theology and other controversial works": "not in the Practical Works; not searched this burn"
+ }
+}

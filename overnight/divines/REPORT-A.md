@@ -83,3 +83,7 @@
 ## 2026-10-02 16:07 CDT — watson done
 - `pipeline/watson_shelf.json`: 6 CCEL titles fetched and converted (5,867 units, 8,024 links), 2 IA items raw (about 9.8 MB in all). `--verify`: 0 mismatched. No Gutenberg Watson.
 - Pending: four treatises found only in 1660s-1780s printings. A title count in the Select Works OCR was inconclusive (generic words), so they stay pending rather than being claimed as held. 0 uids minted.
+
+## 2026-10-02 16:08 CDT — baxter done
+- `pipeline/baxter_shelf.json`: 4 CCEL titles converted (1,275 units, 214 links: these CCEL editions carry little scripRef markup), Gutenberg's Christian Directory in 4 parts (rights lines passed the fetcher's gate), and Orme's Practical Works, all 23 volumes, raw IA OCR (about 48 MB in all). No single IA scan series is complete; the set is assembled from four series, each volume read off its title page. `--verify`: 0 mismatched.
+- Dropped: CCEL `baxter/practical` turned out to be a stub (about 8.5 KB of text under 965 empty paragraphs); it is recorded under `_excluded` and its file deleted. 0 uids minted.

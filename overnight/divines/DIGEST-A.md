@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:07 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:08 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -27,6 +27,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | John Owen | owen_shelf.json | 27 CCEL (+4 already held) | 24 (Goold Works 1850-55, complete incl. Hebrews) | none | Banner reprints, modern editions |
 | Richard Sibbes | sibbes_shelf.json | 0 (no CCEL or Gutenberg found) | 7 (Grosart Complete Works 1862-64, complete) | a clean Bruised Reed | modern editions; Kater-Sibbes (different author) |
 | Thomas Watson | watson_shelf.json | 6 CCEL (Body of Divinity, Commandments, Lord's Prayer, Beatitudes, Contentment, Cordial) | 2 (Select Works 1855, Saints' Spiritual Delight 1830) | Godly Man's Picture, Repentance, Heaven Taken by Storm | other Watsons |
+| Richard Baxter | baxter_shelf.json | 4 CCEL (Reformed Pastor, Saints' Rest, Call to the Unconverted, Causes and Danger) + 4 Gutenberg (Christian Directory) | 23 (Orme Practical Works 1830, complete) | Reliquiae Baxterianae, controversial works | Wesley abridgement, a CCEL stub |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

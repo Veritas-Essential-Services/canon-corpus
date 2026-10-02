@@ -301,3 +301,46 @@ Watson (c.1620-1686) has no collected Works. The six CCEL titles are held as cle
 | The Godly Man's Picture; The Doctrine of Repentance; Heaven Taken by Storm; A Plea for the Godly | pending | only 1660s-1780s printings found (long-s OCR); first check whether the Select Works carries them |
 | A Body of Practical Divinity, printings 1741-1859 | alternate | CCEL Body of Divinity held |
 | Thomas Watson of Lincoln (1513-1584), Richard Watson (1781-1833), Thomas E. Watson | excluded | different people |
+
+
+## Richard Baxter (round 2, 2026-10-02)
+
+Target: Orme's *Practical Works of the Rev. Richard Baxter* (London: James Duncan, 1830), 23 volumes, vol. 1 being Orme's Life of Baxter. All 23 are held as raw IA OCR; no one scan series is complete, so the set mixes Toronto, other library and Google/BSB scans, every volume number read off the title page. Clean text: four CCEL titles and Gutenberg's four-part Christian Directory.
+
+| Work | Status | Where |
+|---|---|---|
+| The Causes and Danger of Slighting Christ and His Gospel | have | CCEL `causes` (`baxter-causes`) |
+| The Reformed Pastor | have | CCEL `pastor` (`baxter-reformed-pastor`) |
+| The Saints' Everlasting Rest | have | CCEL `saints_rest` (`baxter-saints-rest`) |
+| A Call to the Unconverted to Turn and Live | have | CCEL `unconverted` (`baxter-call-unconverted`) |
+| A Christian Directory, Part 1: Christian Ethics | have | Gutenberg 41633 (`baxter-directory-1`) |
+| A Christian Directory, Part 2: Christian Economics | have | Gutenberg 43800 (`baxter-directory-2`) |
+| A Christian Directory, Part 3: Christian Ecclesiastics | have | Gutenberg 44655 (`baxter-directory-3`) |
+| A Christian Directory, Part 4: Christian Politics | have | Gutenberg 43967 (`baxter-directory-4`) |
+| Orme vol. 1 (Life) | have-raw | IA `practicalworksof01baxtuoft` |
+| Orme vol. 2 | have-raw | IA `practicalworksof02baxtuoft` |
+| Orme vol. 3 | have-raw | IA `practicalworksof03baxt` |
+| Orme vol. 4 | have-raw | IA `10785346bsb` |
+| Orme vol. 5 | have-raw | IA `10785347bsb` |
+| Orme vol. 6 | have-raw | IA `practicalworksof06baxtuoft` |
+| Orme vol. 7 | have-raw | IA `practicalworksof07baxtuoft` |
+| Orme vol. 8 | have-raw | IA `practicalworksof08baxtuoft` |
+| Orme vol. 9 | have-raw | IA `practicalworksof09baxt` |
+| Orme vol. 10 | have-raw | IA `practicalworksof10baxt` |
+| Orme vol. 11 | have-raw | IA `practicalworksof11baxtuoft` |
+| Orme vol. 12 | have-raw | IA `practicalworksof12baxtuoft` |
+| Orme vol. 13 | have-raw | IA `practicalworksof13baxtuoft` |
+| Orme vol. 14 | have-raw | IA `practicalworksof14baxt` |
+| Orme vol. 15 | have-raw | IA `practicalworksof15baxtuoft` |
+| Orme vol. 16 | have-raw | IA `practicalworksof16baxtuoft` |
+| Orme vol. 17 | have-raw | IA `practicalworksof17baxt` |
+| Orme vol. 18 | have-raw | IA `practicalworksof18baxtuoft` |
+| Orme vol. 19 | have-raw | IA `practicalworksof19baxtuoft` |
+| Orme vol. 20 | have-raw | IA `practicalworksr00ormegoog` |
+| Orme vol. 21 | have-raw | IA `practicalworksof21baxtuoft` |
+| Orme vol. 22 | have-raw | IA `practicalworksof22baxtuoft` |
+| Orme vol. 23 | have-raw | IA `practicalworksof23baxtuoft` |
+| Reliquiae Baxterianae (1696); Methodus Theologiae, Catholick Theology and the controversial works | pending | not in the Practical Works; no scan verified yet |
+| Practical Works 1707 (4 folio vols); 1838/1845 four-volume edition; Select Practical Writings (Bacon) | alternate | not fetched |
+| CCEL `practical` | excluded | a stub with almost no text |
+| Wesley's abridged Saints' Rest | excluded | not Baxter's text |
