@@ -96,6 +96,47 @@
       "started": "2026-10-02T15:46:32-05:00",
       "finished": "2026-10-02T15:46:32-05:00",
       "notes": "20/20 fetched (0 CCEL, 19 Gutenberg, 1 IA raw), 8.0 MB, 0 failed, 0 copyright markers; 24597 units converted. Robin Hood, the four Arthur books, Pepper & Salt, Wonder Clock, Twilight Land, the novels and pirate tales; Garden Behind the Moon as raw OCR. Illustrator-only books excluded. Arthur books' Book>Part>Chapter nesting is a known citation gap. No uids minted; not in manifest."
+    },
+    {
+      "id": "pyle-nesting",
+      "status": "running",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Converter: Book > Part > Chapter nesting for Pyle's four Arthur books, in a NEW file (structure_texts.py untouched); no minting",
+      "started": "2026-10-02T15:48:35-05:00"
+    },
+    {
+      "id": "carroll",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Lewis Carroll: Alice books, Sylvie and Bruno, Hunting of the Snark, verse, logic/puzzle books; no minting"
+    },
+    {
+      "id": "kipling",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Rudyard Kipling: the Jungle Books, Just So Stories, Puck of Pook's Hill (+ Rewards and Fairies) and his other story books published before 1930; rest listed pending; no minting"
+    },
+    {
+      "id": "stevenson",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Robert Louis Stevenson: fiction, verse, essays, travel; Treasure Island already held as `treasure_island` (fetch_sources.py) — cross-reference, do not duplicate; no minting"
+    },
+    {
+      "id": "chesterton-gaps",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — G. K. Chesterton, pre-1929 only: the repo ALREADY holds 61 works (fetch_sources.py CHESTERTON_*); this item only fills the gaps that file lists as deferred (1926-1928 books), cross-referencing the rest; no minting"
+    },
+    {
+      "id": "aesop",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Aesop's Fables in George Fyler Townsend's (1867) and Joseph Jacobs's (1894) translations. Lane note: earlier fables work may exist outside this repo — flag for Adam before minting; no minting"
+    },
+    {
+      "id": "nesbit",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — E. Nesbit: the children's books (Psammead trilogy, Railway Children, Bastables, etc.), published before 1930; no minting"
+    },
+    {
+      "id": "potter",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Beatrix Potter: the little books published before 1930; no minting"
     }
   ]
 }
