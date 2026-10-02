@@ -148,7 +148,10 @@ The living truth for project state is the Obsidian vault:
   pipeline/README-lemma-spine.md
 - pipeline/build_nt_corpus.py — the Greek NT (Robinson-Pierpont 2018, PD;
   lemmas = Strong's 1890 headword by Robinson's number) → data/nt/<Book>/
-  (COMMITTED, one folder per book, one manifest; read via load_nt()).
+  (one folder per book, one manifest; read via load_nt()). COMMITTED: the
+  manifest, the house inputs, and John; the other books' shards are
+  gitignored and rebuilt by pipeline/rebuild_bible.py (byte-identical, the
+  manifest holds their sha256).
   One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
   mints 0. Whole NT since 2026-10-02 (7,953 verses); the drafts and the
   reader cover the John 1:1-18 pilot. Doxology placement and sharding are
@@ -160,8 +163,9 @@ The living truth for project state is the Obsidian vault:
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
 - pipeline/build_ot_corpus.py — the Hebrew OT (Westminster Leningrad Codex via
-  OSHB at 3d15126; the TEXT is PD) → data/ot/<Book>/ (COMMITTED, one folder per
-  book, one manifest; read via load_ot()). One row per KJV verse on its EXISTING
+  OSHB at 3d15126; the TEXT is PD) → data/ot/<Book>/ (one folder per
+  book, one manifest; read via load_ot(); only the manifest is COMMITTED, the
+  shards are rebuilt by pipeline/rebuild_bible.py). One row per KJV verse on its EXISTING
   uid, mapped through data/versification/bhs-kjv.json; mints 0. 🔴 OSHB's
   lemmas/morphology are CC BY 4.0 and are NOT in these files: lemma, parsing,
   gloss are null until ADR 0019. Psalm titles, spans, joined verses: house

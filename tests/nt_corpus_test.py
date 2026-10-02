@@ -112,6 +112,10 @@ TOKEN_FIELDS = ("surface", "normalized", "search_key", "translit",
 print("--- files")
 check("manifest.json exists", os.path.exists(os.path.join(DATA, "manifest.json")))
 manifest = json.load(open(os.path.join(DATA, "manifest.json"), encoding="utf-8"))
+missing = [fn for fn in manifest["files_sha256"] if not os.path.exists(os.path.join(DATA, fn))]
+if missing:
+    raise SystemExit(f"data/nt/ is not built here: {len(missing)} shard files are absent "
+                     f"(they are rebuilt, not committed). Run: python3 pipeline/rebuild_bible.py")
 sh = manifest["shards"]
 check(f"the shards are the {EXPECTED_NT['books']} books in canonical order, one folder each",
       sh["layout"] == "book" and sh["order"] == [o for _, _, o in B.BOOKS] == manifest["selection"]["books"]

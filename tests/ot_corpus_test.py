@@ -57,6 +57,10 @@ EXPECTED = {"books": 39, "wlc_verses": 23213, "verses": 23142, "tokens": 305124,
 
 print("--- files")
 man = json.load(open(os.path.join(DATA, "manifest.json"), encoding="utf-8"))
+missing = [fn for fn in man["files_sha256"] if not os.path.exists(os.path.join(DATA, fn))]
+if missing:
+    raise SystemExit(f"data/ot/ is not built here: {len(missing)} shard files are absent "
+                     f"(they are rebuilt, not committed). Run: python3 pipeline/rebuild_bible.py")
 sh = man["shards"]
 check(f"{EXPECTED['books']} shards, the KJV's book order, one folder each",
       sh["layout"] == "book" and sh["order"] == O.BOOKS and len(O.BOOKS) == EXPECTED["books"]

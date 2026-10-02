@@ -439,6 +439,9 @@ def load_ot(root=ROOT, books=None):
             continue
         for k in FILES:
             rel = f"{k}.jsonl" if b is None else f"{sh['books'][b]['dir']}/{k}.jsonl"
+            if not os.path.exists(os.path.join(d, rel)):
+                raise SystemExit(f"data/ot/{rel} is not built here (the shards are rebuilt, "
+                                 "not committed). Run: python3 pipeline/rebuild_bible.py")
             with open(os.path.join(d, rel), encoding="utf-8") as fh:
                 out[k].extend(json.loads(line) for line in fh if line.strip())
     out["manifest"] = man

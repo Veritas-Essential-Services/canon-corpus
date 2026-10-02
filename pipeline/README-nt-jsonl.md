@@ -580,6 +580,14 @@ about 7 MB gzipped; the largest file is 13 MB, under GitHub's 50 MB warning
   over the warning); the other options in s.10 (provenance moved to the
   manifest, or tokens gitignored and rebuilt from the pins) are larger
   changes and would want their own PR.
+- *Not committing them* (the commit "Rebuild, don't commit" on PR #8, which
+  can be dropped): every shard but John's is gitignored and rebuilt by
+  `python3 pipeline/rebuild_bible.py` (one shallow git fetch per source repo,
+  sha256-checked; 35 s cold for both testaments, measured 2026-10-02). What
+  stays committed is the manifest, which carries every shard's sha256, so
+  `--check` proves a rebuild byte-identical without the files in git; the
+  house inputs; and John, so the review sheets and the reader need no fetch.
+  A loader or validator run before the rebuild stops and says to run it.
 
 **What else changed.**
 
