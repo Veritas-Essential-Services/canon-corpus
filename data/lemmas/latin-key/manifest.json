@@ -82,7 +82,21 @@
    "proper-lower+rare-inflection": 9,
    "rare-entry+si-quis": 9
   },
-  "vulgate_keys": 8609
+  "vulgate_keys": 8609,
+  "strongs_latin": {
+   "verse_pairs": 31057,
+   "numbers_seen": 14047,
+   "numbers_with_latin": 4057,
+   "numbers_with_latin_thin": 1310,
+   "rule": {
+    "min_verses": 3,
+    "min_dice": 0.1,
+    "of_top": 0.4,
+    "max": 5,
+    "mutual_top": 3,
+    "thin_below": 10
+   }
+  }
  },
  "not_claimed": [
   "A Whitaker lemma is matched to L&S by headword, then by word class; never by meaning.",
@@ -107,6 +121,10 @@
   "vulgate-concordance.jsonl": {
    "rows": 8609,
    "sha256": "df51421279d558500127eca690b678afe70f75a42b9edb8b3fdab5b77a12240d"
+  },
+  "strongs-latin.jsonl": {
+   "rows": 4057,
+   "sha256": "b98a191a5117de9581a2ee0ebb1cbd317093a01a03780c4a28e7138c7f62d41b"
   }
  }
 }

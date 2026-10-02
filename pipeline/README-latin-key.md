@@ -43,7 +43,8 @@ Getting there takes two steps:
 | `lewis-short.jsonl` | L&S entry (51,645) | See below. No definition text. |
 | `whitaker-ls.jsonl` | Whitaker lemma (40,827) | The L&S key(s) it links to, and the `status` saying how. |
 | `vulgate-forms.jsonl` | Vulgate form as written, lower-cased (46,316) | Token count, Whitaker lemmas, L&S keys, `status`. |
-| `vulgate-concordance.jsonl` | L&S key the Vulgate uses (9,617) | `sure` verses (the form can only be this word) and `possible` verses (one reading of several). |
+| `strongs-latin.jsonl` | Strong's number with a Latin equivalent (4,057) | The L&S entries the Vulgate uses where the KJV has that number, scored (s.4c). |
+| `vulgate-concordance.jsonl` | L&S key the Vulgate uses (8,609) | `sure` verses (the form alone decides), `resolved` verses by rule id (s.4b), and `possible` verses (left null). |
 | `manifest.json` | — | Pins, rights, counts, what is not claimed. |
 
 Each `lewis-short.jsonl` row holds:
@@ -178,6 +179,49 @@ and its `unresolved` count.
 Every word, with its key and rule ids, goes to `build/latin-key/vulgate-tokens.jsonl`.
 That file is gitignored and the build rebuilds it in about 30 seconds, so a
 rule's work can be checked verse by verse.
+
+## 4c. Strong's number to the Vulgate's Latin: `strongs-latin.jsonl`
+
+This bridges the two keys. For each Strong's number, it lists the L&S entries
+that stand in the Vulgate where that number stands in the KJV, scored by verse
+co-occurrence.
+
+How the pairs are made:
+
+- Each Vulgate verse is paired with the KJV verse(s) its map names (31,057
+  pairs; the books outside the KJV's canon have none).
+- The KJV side brings its Strong's tags (`data/strongs/kjv-tags.jsonl`). The
+  Vulgate side brings the L&S keys of its sure and resolved words. Null words
+  bring nothing.
+- The score is Dice: 2 × verses together / (verses with the number + verses
+  with the word).
+
+A word is kept for a number only if all of these hold:
+
+- it is seen with the number in 3 or more verses;
+- it scores 0.10 or more;
+- it scores at least 40% of the number's best word;
+- the number is among the word's own top 3 numbers in that language.
+
+The last test removes words that merely travel with a number. *Christus*
+follows θεός (G2316) but is G5547's word.
+
+| Strong's | Vulgate |
+|---|---|
+| G26 ἀγάπη | `caritas` 56 verses, `dilectio` 22 |
+| H2617 חֶסֶד | `misericordia` 214 |
+| G3056 λόγος | `verbum` 198, `sermo` 103 |
+| G3870 παρακαλέω | `rogo`, `exhortor`, `obsecro`, `deprecor` |
+
+4,057 of the 14,047 numbers the KJV tags get at least one word. 1,310 of them
+are marked `evidence: "thin"`, because the number stands in fewer than 10 KJV
+verses. With so few verses, one passage's other words can score as high as the
+right one: H4, Aramaic "fruit", comes out as `ramus` and `subter`.
+
+**This is statistical evidence that two words translate each other. It is
+not a reading of any verse.** It also inherits the lemma layer's errors, and
+it shows where they are. H3444 יְשׁוּעָה pairs with `saluto` because the
+Vulgate's noun *salutare* ("thy salvation") is read as the verb's infinitive.
 
 ## 5. Rights
 

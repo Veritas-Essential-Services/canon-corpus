@@ -497,8 +497,7 @@ def resolve(tok, nxt_tok, prev_form):
     return done(), used
 
 
-def build_vulgate(X, links, by_head):
-    units = vulgate_units()
+def build_vulgate(X, links, by_head, units):
     flags = flag_tables(X)
     seen = {}
     forms = collections.defaultdict(lambda: {"tokens": 0, "whitaker": set(), "ls": set(),
@@ -573,6 +572,79 @@ def build_vulgate(X, links, by_head):
 
 
 # ---------------------------------------------------------------------------
+# Strong's number -> the Vulgate's Latin for it (README-latin-key s.4c)
+# ---------------------------------------------------------------------------
+
+KJV_TAGS = os.path.join(ROOT, "data", "strongs", "kjv-tags.jsonl")
+EQ_MIN_VERSES = 3          # a pair seen in fewer verses is not evidence
+EQ_MIN_DICE = 0.10
+EQ_OF_TOP = 0.40           # a second word must score at least 40% of the first
+EQ_MAX = 5
+EQ_MUTUAL = 3              # ... and the number must be among the word's own top 3
+EQ_THIN = 10               # a number in fewer KJV verses: marked "thin" (H4 "fruit", 3 verses,
+                           # pairs with ramus and subter: one passage's other words)
+
+
+def strongs_latin(units, token_rows):
+    """Which L&S entries stand in the Vulgate where each Strong's number
+    stands in the KJV, by verse co-occurrence. A Vulgate verse is paired with
+    the KJV verse(s) its map names (convert_vulgate's `kjv`); a KJV verse
+    brings its Strong's tags (data/strongs/kjv-tags.jsonl), a Vulgate verse
+    the L&S keys of its sure and resolved words. Score: Dice, 2c / (n_s + n_l).
+    Kept: the pairs strong on both sides (EQ_* above). Statistical: a pair is
+    evidence that two words translate each other, never a reading of a verse."""
+    tags = {}
+    with open(KJV_TAGS, encoding="utf-8") as f:
+        for l in f:
+            r = json.loads(l)
+            tags[r["citation"]] = {t[1] for t in r["tags"]}
+    latin = {"vulgate:" + v["verse"]: {k for _, k, _ in v["tokens"] if k} for v in token_rows}
+    pairs = collections.defaultdict(lambda: (set(), set()))
+    for u in units:
+        t = u.get("kjv") or {}
+        if not t.get("resolved"):
+            continue
+        ks = sorted({t["target"]} | {x for x in t.get("spans", []) if x.startswith("kjv:")})
+        S, L = pairs[tuple(ks)]
+        L |= latin.get(u["id"], set())
+        for k in ks:
+            S |= tags.get(k, set())
+    ns, nl, c = collections.Counter(), collections.Counter(), collections.Counter()
+    for S, L in pairs.values():
+        ns.update(S)
+        nl.update(L)
+        for s_ in S:
+            for l_ in L:
+                c[(s_, l_)] += 1
+    dice = {sl: 2 * n / (ns[sl[0]] + nl[sl[1]]) for sl, n in c.items() if n >= EQ_MIN_VERSES}
+    by_l = collections.defaultdict(list)
+    for (s_, l_), d in dice.items():
+        by_l[(l_, s_[0])].append((-d, s_))
+    mutual = set()
+    for (l_, _), v in by_l.items():
+        for _, s_ in sorted(v)[:EQ_MUTUAL]:
+            mutual.add((s_, l_))
+    by_s = collections.defaultdict(list)
+    for (s_, l_), d in dice.items():
+        by_s[s_].append((-d, l_))
+    rows = []
+    import build_strongs
+    for s_ in sorted(by_s, key=build_strongs.sort_key):
+        cand = sorted(by_s[s_])
+        top = -cand[0][0]
+        keep = [{"ls": l_, "verses": c[(s_, l_)], "dice": round(-d, 3)} for d, l_ in cand[:EQ_MAX]
+                if -d >= EQ_MIN_DICE and -d >= EQ_OF_TOP * top and (s_, l_) in mutual]
+        if keep:
+            rows.append({"strongs": s_, "verses": ns[s_],
+                         "evidence": "thin" if ns[s_] < EQ_THIN else "ok", "latin": keep})
+    stats = {"verse_pairs": len(pairs), "numbers_seen": len(ns), "numbers_with_latin": len(rows),
+             "numbers_with_latin_thin": sum(r["evidence"] == "thin" for r in rows),
+             "rule": {"min_verses": EQ_MIN_VERSES, "min_dice": EQ_MIN_DICE, "of_top": EQ_OF_TOP,
+                      "max": EQ_MAX, "mutual_top": EQ_MUTUAL, "thin_below": EQ_THIN}}
+    return rows, stats
+
+
+# ---------------------------------------------------------------------------
 # Build, write, check
 # ---------------------------------------------------------------------------
 
@@ -604,7 +676,9 @@ def build():
     X = W.Whitaker(house_supplement=True)
     X.names = proper_names.load()
     links, by_head = whitaker_links(X, ls_rows)
-    form_rows, conc, n_units, token_rows, rule_tokens = build_vulgate(X, links, by_head)
+    units = vulgate_units()
+    form_rows, conc, n_units, token_rows, rule_tokens = build_vulgate(X, links, by_head, units)
+    eq_rows, eq_stats = strongs_latin(units, token_rows)
     wl = [links[k] for k in sorted(links, key=lambda k: (W.fold(k), k))]
     tok = collections.Counter()
     for r in form_rows:
@@ -630,6 +704,7 @@ def build():
             "vulgate_tokens_by_outcome": token_outcomes(token_rows, form_rows),
             "vulgate_tokens_resolved_by_rule": dict(sorted(rule_tokens.items(), key=lambda kv: -kv[1])),
             "vulgate_keys": len(conc),
+            "strongs_latin": eq_stats,
         },
         "not_claimed": [
             "A Whitaker lemma is matched to L&S by headword, then by word class; never by meaning.",
@@ -642,7 +717,8 @@ def build():
         "files": {},
     }
     out = {"lewis-short.jsonl": jsonl(ls_rows), "whitaker-ls.jsonl": jsonl(wl),
-           "vulgate-forms.jsonl": jsonl(form_rows), "vulgate-concordance.jsonl": jsonl(conc)}
+           "vulgate-forms.jsonl": jsonl(form_rows), "vulgate-concordance.jsonl": jsonl(conc),
+           "strongs-latin.jsonl": jsonl(eq_rows)}
     for n, text in out.items():
         manifest["files"][n] = {"rows": text.count("\n"),
                                 "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest()}
@@ -674,7 +750,7 @@ def write_tokens(token_rows):
 
 
 FILES = ("lewis-short.jsonl", "whitaker-ls.jsonl", "vulgate-forms.jsonl",
-         "vulgate-concordance.jsonl", "manifest.json")
+         "vulgate-concordance.jsonl", "strongs-latin.jsonl", "manifest.json")
 
 
 def write(out):

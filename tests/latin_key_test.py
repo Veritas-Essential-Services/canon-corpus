@@ -156,6 +156,22 @@ out = man["counts"]["vulgate_tokens_by_outcome"]
 ok(sum(out.values()) == 612029 and out["unresolved"] < 0.16 * 612029,
    f"unresolved words {out['unresolved']} ({100 * out['unresolved'] / 612029:.1f}%), under 16%")
 
+# -- Strong's -> the Vulgate's Latin -------------------------------------------
+eq = {r["strongs"]: r for r in rows("strongs-latin.jsonl")}
+first = {k: r["latin"][0]["ls"] for k, r in eq.items()}
+for num, word in (("G26", "caritas"), ("G25", "diligo"), ("H2617", "misericordia"), ("H3068", "dominus"),
+                  ("G1577", "ecclesia"), ("G1680", "spes"), ("H7307", "spiritus")):
+    ok(first.get(num) == word, f"{num}: the Vulgate's first word for it is {word}")
+ok([x["ls"] for x in eq["G26"]["latin"]] == ["caritas", "dilectio"], "agape: caritas, then dilectio, nothing else")
+rule = man["counts"]["strongs_latin"]["rule"]
+ok(all(x["verses"] >= rule["min_verses"] and x["dice"] >= rule["min_dice"] for r in eq.values() for x in r["latin"]),
+   "every pair is seen in 3+ verses with Dice 0.1+")
+ok(all(r["latin"] == sorted(r["latin"], key=lambda x: -x["dice"]) and len(r["latin"]) <= rule["max"]
+       for r in eq.values()), "each number's words are ranked by score, at most five")
+ok(all(set(x["ls"] for x in r["latin"]) <= keys for r in eq.values()), "every Latin word is an L&S key")
+ok(all((r["evidence"] == "thin") == (r["verses"] < rule["thin_below"]) for r in eq.values()),
+   "a number seen in fewer than 10 KJV verses is marked thin")
+
 # -- the build, end to end ---------------------------------------------------
 if os.path.exists(B.LS_FILE):
     r = subprocess.run([sys.executable, os.path.join(ROOT, "pipeline", "build_latin_key.py"), "--check"],
