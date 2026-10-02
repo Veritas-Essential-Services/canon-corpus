@@ -1,0 +1,45 @@
+{
+ "_about": "Cassius Dio, Roman History, in Herbert Baldwin Foster's translation, Dio's Rome (1905-06), 6 vols., clean Gutenberg.",
+ "_name_words": [
+  "dio",
+  "rome",
+  "roman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dio-foster-v1": [
+   18047,
+   "Dio's Rome, vol. 1",
+   "tr. Herbert Baldwin Foster"
+  ],
+  "dio-foster-v2": [
+   11607,
+   "Dio's Rome, vol. 2",
+   "tr. Herbert Baldwin Foster"
+  ],
+  "dio-foster-v3": [
+   10162,
+   "Dio's Rome, vol. 3",
+   "tr. Herbert Baldwin Foster"
+  ],
+  "dio-foster-v4": [
+   10883,
+   "Dio's Rome, vol. 4",
+   "tr. Herbert Baldwin Foster"
+  ],
+  "dio-foster-v5": [
+   10890,
+   "Dio's Rome, vol. 5",
+   "tr. Herbert Baldwin Foster"
+  ],
+  "dio-foster-v6": [
+   12061,
+   "Dio's Rome, vol. 6",
+   "tr. Herbert Baldwin Foster"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Cary, Loeb (1914-27)": "US PD by date but Greek facing; pending"
+ }
+}
