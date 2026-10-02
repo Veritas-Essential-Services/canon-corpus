@@ -137,3 +137,25 @@ Shelf: `pipeline/andrew-bonar_shelf.json` (2026-10-02). Andrew Alexander Bonar (
 
 ## Adolph Saphir
 
+Shelf: `pipeline/saphir_shelf.json` (2026-10-02). Adolph Saphir (1831-1891), Hebrew Christian expositor, born at Pesth, Presbyterian minister in London. No CCEL or Gutenberg Saphir exists; everything is Internet Archive OCR, raw.
+
+| Work | Status | Where |
+|---|---|---|
+| Expository Lectures on Hebrews, first series ch. 1-7 (1875) and second series ch. 8-13 (1874) | have-raw | IA |
+| Christ Crucified: Lectures on 1 Corinthians 2 (1873) | have-raw | IA |
+| Christ and the Church (1874) | have-raw | IA |
+| The Lord's Prayer (1872) | have-raw | IA |
+| The Hidden Life (1877) | have-raw | IA |
+| Our Life-Day (1878) | have-raw | IA |
+| The Divine Unity of Scripture (1892, posthumous) | have-raw | IA |
+| Christ and Israel (ed. David Baron, 1911, posthumous) | have-raw | IA |
+| Auberlen, The Prophecies of Daniel and the Revelation, tr. Saphir (1856) | have-raw | IA (Saphir as translator) |
+| Gavin Carlyle, "Mighty in the Scriptures": A Memoir of Adolph Saphir (1893) | have-raw | IA (about Saphir) |
+| Christ and the Scriptures (1867) | pending | IA item found; text file under a non-standard name |
+| Jesus and the Sinner (1851) / Found by the Good Shepherd | pending | IA credits Saphir; authorship to confirm |
+| Conversion Illustrated; The Compassion of Jesus; other titles in bibliographies | pending | no verified scan found yet |
+| The Epistle to the Hebrews: An Exposition (1902 one-work edition) | pending | same lectures as held; alternate edition |
+| Christus und die Schrift (German, 1894) | excluded | not English |
+| Modern reprints (1942-1984) | excluded | possibly in copyright |
+| Moritz Gottlieb, Jacob, Philipp, Marie, Elijah Saphir and others | excluded | different people |
+

@@ -34,3 +34,9 @@
 - Same-name diligence: Andrew Redman Bonar (1818-1867) wrote several IA-catalogued books (Incidents of Missionary Enterprise, Life of Wellington, Hymns for Christian Families); all excluded.
 - Rutherford editions are shelved as "ed. Bonar"; Adam may prefer them on a Rutherford shelf instead: his call.
 - Awaiting uid minting: all 17 slugs.
+
+## 2026-10-02 15:46 CDT — saphir: done
+- Shelf `pipeline/saphir_shelf.json`: 11 IA items, 7.1 MB, identity check clean. No CCEL or Gutenberg Saphir exists.
+- Includes Auberlen's Daniel and Revelation (Saphir as translator) and Carlyle's 1893 memoir (about him). Christ and Israel (1911) is posthumous, ed. David Baron, PD.
+- Pending: Christ and the Scriptures (IA text file under a non-standard name); Jesus and the Sinner (1851): IA credits Saphir, but he was 20 and a student; authorship unconfirmed, so not shelved.
+- Awaiting uid minting: all 11 slugs.

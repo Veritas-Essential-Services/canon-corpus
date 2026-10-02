@@ -1,0 +1,75 @@
+{
+ "_about": "Every public-domain Adolph Saphir (1831-1891) text the Word Hoard holds: the Hebrew Christian expositor, born at Pesth, Presbyterian minister in London. Not Moritz Gottlieb Saphir (humorist), not Jacob Saphir (traveller), not Philipp Saphir, not Elijah or Marie Saphir. All Internet Archive OCR, raw; no CCEL or Gutenberg Saphir exists (checked 2026-10-02). Posthumous printings before 1931 are PD and marked.",
+ "_name_words": [
+  "saphir"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "saphir-hebrews-1": [
+   "expositorylectur00saph",
+   "Expository Lectures on the Epistle to the Hebrews, first series, ch. 1-7 (1875 printing)"
+  ],
+  "saphir-hebrews-2": [
+   "expositorylectur02saph",
+   "Expository Lectures on the Epistle to the Hebrews, second series, ch. 8-13 (1874)"
+  ],
+  "saphir-christ-crucified": [
+   "christcrucified00saphgoog",
+   "Christ Crucified: Lectures on 1 Corinthians 2 (1873)"
+  ],
+  "saphir-christ-and-the-church": [
+   "christchurchserm00saph",
+   "Christ and the Church: Sermons on the Apostolic Commission (1874)"
+  ],
+  "saphir-lords-prayer": [
+   "lordsprayer00saph",
+   "The Lord's Prayer: Lectures (1872)"
+  ],
+  "saphir-hidden-life": [
+   "hiddenlifethoug00saph",
+   "The Hidden Life: Thoughts on Communion with God (1877)"
+  ],
+  "saphir-our-life-day": [
+   "ldpd_11733659_000",
+   "Our Life-Day: Thoughts on John 9:4 (1878)"
+  ],
+  "saphir-divine-unity": [
+   "divineunityofscr00saph",
+   "The Divine Unity of Scripture (1892, posthumous)"
+  ],
+  "saphir-christ-and-israel": [
+   "bwb_C0-ANG-874",
+   "Christ and Israel: Lectures and Addresses on the Jews (ed. David Baron, 1911, posthumous)"
+  ],
+  "saphir-tr-auberlen-daniel": [
+   "propheciesofdani00aube",
+   "K. A. Auberlen, The Prophecies of Daniel and the Revelation of St. John, translated by Adolph Saphir (1856)"
+  ],
+  "saphir-memoir-carlyle": [
+   "cu31924011500216",
+   "Gavin Carlyle, 'Mighty in the Scriptures': A Memoir of Adolph Saphir (1893); about Saphir, not by him"
+  ]
+ },
+ "_alternates": {
+  "lordsprayerlectu00saph": "The Lord's Prayer, 1874 printing",
+  "christchurchthou00saph": "Christ and the Church, 1884 printing",
+  "divineunityofscr00saphuoft, thedivineunityof00saphuoft": "Divine Unity, 1895 printings",
+  "the-hidden-life": "Hidden Life, another 1877 scan",
+  "propheciesdanie00roosgoog": "Auberlen, another scan",
+  "mightyinscripturs00carl, mightyinscriptu00carlgoog": "Carlyle memoir, other scans (the first returned HTTP 500 on 2026-10-02)"
+ },
+ "_pending": {
+  "jesussinnergospe00saph": "Jesus and the Sinner (1851), 'selected from Found by the Good Shepherd': IA attributes it to Saphir, but at 20 he was still a student; authorship to confirm before shelving",
+  "bs-475.-s-24-1869": "Christ and the Scriptures (1867/1869): text file under a non-standard name; fetch by hand",
+  "epistletohebrews01saph": "IA item's text file belongs to another book (a fashion book): bad upload",
+  "epistletohebrews0001saph, epistletohebrews0002saph, theepistletotheh00saphuoft, theepistletotheh02saphuoft": "The Epistle to the Hebrews: An Exposition, 1902 one-work edition of the two lecture series; the lectures are already held",
+  "found-by-the-good-shepherd, conversion-illustrated, the-compassion-of-jesus": "other Saphir titles named in bibliographies; no verified scan found yet"
+ },
+ "_excluded": {
+  "christusunddiesc0000saph": "German translation (1894)",
+  "ourlordspatternf0000saph, epistletohebrews0000adol, bwb_Y0-AHD-208, bwb_T3-BSD-972, bwb_Y0-DLC-118": "modern reprints (1942-1984)",
+  "disputedquestion00unse": "multi-author lecture volume (1874); Saphir's share not confirmed",
+  "same-name": "Moritz Gottlieb Saphir, Jacob (Ya'aqov) Saphir, Philipp Saphir, Marie Saphir, Elijah Saphir, Milka Saphir, Paul Saphir, H. F. S. Amery"
+ }
+}

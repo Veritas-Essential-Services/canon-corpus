@@ -43,13 +43,16 @@
     },
     {
       "id": "saphir",
-      "status": "todo",
-      "scope": "Adolph Saphir \u2014 all public-domain works"
+      "status": "done",
+      "scope": "Adolph Saphir \u2014 all public-domain works",
+      "finished": "2026-10-02T15:46:35-05:00",
+      "notes": "11/11 fetched, 7.1 MB, all IA raw (no CCEL or Gutenberg Saphir). Hebrews lectures 2 series, Christ Crucified, Christ and the Church, Lord's Prayer, Hidden Life, Our Life-Day, Divine Unity, Christ and Israel, Auberlen tr. Saphir, Carlyle's memoir. Pending: Christ and the Scriptures, Jesus and the Sinner (authorship). Awaiting uid minting: all 11."
     },
     {
       "id": "edwards-gaps",
-      "status": "todo",
-      "scope": "Jonathan Edwards \u2014 gap audit against edwards_shelf.json; add verified gaps only; map section"
+      "status": "running",
+      "scope": "Jonathan Edwards \u2014 gap audit against edwards_shelf.json; add verified gaps only; map section",
+      "started": "2026-10-02T15:46:35-05:00"
     },
     {
       "id": "overflow-summa",
