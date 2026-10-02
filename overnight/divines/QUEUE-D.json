@@ -385,8 +385,10 @@
     },
     {
       "id": "grinnell",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — George Bird Grinnell's Plains Indian tales; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — George Bird Grinnell's Plains Indian tales; no minting",
+      "finished": "2026-10-02T17:20:17-05:00",
+      "notes": "4/4 fetched (Gutenberg 36923, 11547, 66596, 13833), 3,491 units, 6 ~2 ids."
     },
     {
       "id": "harris-remus",

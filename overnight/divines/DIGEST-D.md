@@ -91,6 +91,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `mitford` | 1 Gutenberg | 0 | 1,630 | Tales of Old Japan (1871), tr. Mitford |
 | `steel` | 2 Gutenberg | 0 | 3,888 | Tales of the Punjab (1894), English Fairy Tales (1918) |
 | `crane` | 1 Gutenberg | 0 | 1,963 | Italian Popular Tales (1885), tr. Crane, by chapter and tale |
+| `grinnell` | 4 Gutenberg | 0 | 3,491 | Pawnee Hero Stories, Blackfoot Lodge Tales, The Punishment of the Stingy, Blackfeet Indian Stories |
 
 ## For Adam to decide
 1. **Minting:** 512 slugs are waiting for the attended uid pass and manifest registration: 285 from the second run (lang 124, lamb 11, macdonald 60, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20), 130 from the third (carroll 16, kipling 5, stevenson 45, chesterton-gaps 5, aesop 2, nesbit 34, potter 23) and 63 from the fourth (grahame 5, barrie 26, baum 15, ruskin-golden-river 1, wilde-fairy-tales 2, dickens-christmas 5, collodi 2, lofting 7) and 19 from the fifth (jacobs-fairy 6, dasent 2, ralston 1, perrault 3, colum 7) and 15 from the sixth (malory 3, beowulf 4, poetic-edda 1, kalevala 1, dasent +2, sturluson 2, dutt 2). The audit found passages held in two volumes (reprints, collected editions, Lang's borrowings from Ralston and Samber): mint those once, with two witnesses; the list is in `AUDIT-D.md` §1.

@@ -3563,6 +3563,18 @@ Shelf: `pipeline/crane_shelf.json` (2026-10-02; added at the coordinator's relay
 |---|---|---|
 | Italian Popular Tales, tr. Thomas Frederick Crane (1885) | have | PG 23634, `crane-italian-popular-tales` (1963 units) |
 
+## George Bird Grinnell (Plains Indian tales)
+
+Shelf: `pipeline/grinnell_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Pawnee and Blackfoot stories as told to Grinnell and set down by him in English; three books cut by their own Contents. His hunting, history and boys' books are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Pawnee Hero Stories and Folk-Tales (1889) | have | PG 36923, `grinnell-pawnee-hero-stories` (1111 units) |
+| Blackfoot Lodge Tales: The Story of a Prairie People (1892) | have | PG 11547, `grinnell-blackfoot-lodge-tales` (1208 units) |
+| The Punishment of the Stingy, and Other Indian Stories (1901) | have | PG 66596, `grinnell-punishment-of-the-stingy` (468 units) |
+| Blackfeet Indian Stories (1913) | have | PG 13833, `grinnell-blackfeet-indian-stories` (704 units) |
+| grinnell-other | excluded | When Buffalo Ran (PG 15189), Trails of the Pathfinders (53897), Beyond the Old Frontier (54125), the Jack books and Boone and Crockett volumes: history, fiction and hunting, outside a folk-tale batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

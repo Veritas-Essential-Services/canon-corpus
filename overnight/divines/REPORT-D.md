@@ -210,3 +210,6 @@
 
 ## 2026-10-02 17:20 CDT — crane: done
 - 1/1 fetched (Gutenberg 23634), 1,963 units, 0 ~2 ids; nested chapter > tale, notes apart.
+
+## 2026-10-02 17:20 CDT — grinnell: done
+- 4/4 fetched (Gutenberg 36923, 11547, 66596, 13833), 3,491 units, 6 ~2 ids.
