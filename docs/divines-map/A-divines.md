@@ -384,3 +384,23 @@ Target: Nichol's *Works of Thomas Goodwin, D.D.* (Edinburgh, 1861-1866), 12 volu
 | Other scans of Nichol; the 1681-1704 folio Works | alternate | not fetched |
 | Clean text of The Heart of Christ in Heaven towards Sinners on Earth | wishlist | no PD machine-readable edition found |
 | PG 52639 Moses and Aaron; CCEL goodwin/greekgrammar | excluded | different Goodwins (d. 1642; W. W. Goodwin) |
+
+
+## Samuel Rutherford (round 2, 2026-10-02)
+
+There is no collected Works. Bonar's editions of the Letters and of two sermon books are already held on the Andrew Bonar shelf and are not refetched. New here: two CCEL titles (clean) and IA OCR of Lex, Rex and the 1640s-1650s treatises.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters of Samuel Rutherford, ed. Bonar | have | `abonar-ed-rutherford-letters` on `andrew-bonar_shelf.json` |
+| Quaint Sermons (1885) | have | `abonar-ed-rutherford-quaint-sermons` on `andrew-bonar_shelf.json` |
+| Fourteen Communion Sermons (1876) | have | `abonar-ed-rutherford-communion-sermons` on `andrew-bonar_shelf.json` |
+| A Selection from his Letters (CCEL) | have | CCEL `letters` (`rutherford-letters-selection`) |
+| The Trial and Triumph of Faith (London: John Field, 1645) | have | CCEL `triumph` (`rutherford-trial-triumph`) |
+| Lex, Rex, or The Law and the Prince (Edinburgh, 1843 reprint) | have-raw | IA `lexrexorlawprinc00ruth` |
+| A Free Disputation against Pretended Liberty of Conscience (London, 1649) | have-raw | IA `freedisputationa00ruth` (title words partly unread: long s) |
+| The Covenant of Life Opened (Edinburgh, 1655) | have-raw | IA `covenli00ruth` |
+| Christ Dying and Drawing Sinners (1647); The Due Right of Presbyteries (1644); The Divine Right of Church-Government (1646) | pending | scans found, but their OCR never names Rutherford, so the fetcher refused them; check by eye |
+| A Survey of the Spiritual Antichrist (1648); The Influences of the Life of Grace (1659); the Latin works | pending | not yet found or searched |
+| Joshua Redivivus (1796, 1818) and other Letters editions | alternate | Bonar's Letters held |
+| S. R. Crockett's novels | excluded | different person |

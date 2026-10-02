@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:13 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:15 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -30,6 +30,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | Richard Baxter | baxter_shelf.json | 4 CCEL (Reformed Pastor, Saints' Rest, Call to the Unconverted, Causes and Danger) + 4 Gutenberg (Christian Directory) | 23 (Orme Practical Works 1830, complete) | Reliquiae Baxterianae, controversial works | Wesley abridgement, a CCEL stub |
 | Thomas Brooks | brooks_shelf.json | 0 (no CCEL or Gutenberg) | 6 (Grosart Complete Works 1866-67, complete) | a clean Precious Remedies | Welsh translation, anthology, other Brookses |
 | Thomas Goodwin | goodwin_shelf.json | 0 (none exists) | 12 (Nichol Works 1861-66, complete) | a clean Heart of Christ | two other Goodwins on PG and CCEL |
+| Samuel Rutherford | rutherford_shelf.json | 2 CCEL (Letters selection, Trial and Triumph of Faith); Bonar's Letters and two sermon books stay on the Andrew Bonar shelf | 3 (Lex, Rex 1843; Free Disputation 1649; Covenant of Life Opened 1655) | 3 refused 1640s scans; Spiritual Antichrist; Latin works | S. R. Crockett |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

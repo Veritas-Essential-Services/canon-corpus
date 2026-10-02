@@ -94,3 +94,7 @@
 ## 2026-10-02 16:13 CDT — goodwin done
 - `pipeline/goodwin_shelf.json`: Nichol's Works, all 12 volumes, raw IA OCR. `--verify`: 0 mismatched.
 - Name traps recorded under `_excluded`: Gutenberg's only "Thomas Goodwin" (PG 52639, Moses and Aaron) is the schoolmaster who died in 1642, and CCEL's `goodwin` is William Watson Goodwin's Greek Grammar. 0 uids minted.
+
+## 2026-10-02 16:15 CDT — rutherford done
+- `pipeline/rutherford_shelf.json`: 2 CCEL titles converted (920 units, 1,509 links), 3 IA items raw. The three Bonar-edited items on the Andrew Bonar shelf are listed under `_held` and were not refetched (the shelf move asked about in the digest is still yours).
+- The identity check refused three 1640s first printings (Christ Dying 1647, Due Right 1644, Divine Right 1646): their OCR never contains Rutherford's name in any spelling. Moved to `_pending`. Free Disputation (1649) passed but is flagged `title_weak` (long s garbles "against"). 0 uids minted.
