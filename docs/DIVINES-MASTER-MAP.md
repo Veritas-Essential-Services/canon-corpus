@@ -3575,6 +3575,19 @@ Shelf: `pipeline/grinnell_shelf.json` (2026-10-02; added at the coordinator's re
 | Blackfeet Indian Stories (1913) | have | PG 13833, `grinnell-blackfeet-indian-stories` (704 units) |
 | grinnell-other | excluded | When Buffalo Ran (PG 15189), Trails of the Pathfinders (53897), Beyond the Old Frontier (54125), the Jack books and Boone and Crockett volumes: history, fiction and hunting, outside a folk-tale batch |
 
+## Joel Chandler Harris (Uncle Remus)
+
+Shelf: `pipeline/harris-remus_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). African American folk tales of Brer Rabbit in Harris's rendering of plantation dialect, inside a frame that carries the racism of its time and place; the shelf note says so plainly. Four books, two cut by their own Contents. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Uncle Remus, His Songs and His Sayings (1880) | have | PG 2306, `remus-his-songs-and-sayings` (1128 units) |
+| Nights with Uncle Remus: Myths and Legends of the Old Plantation (1883) | have | PG 26429, `remus-nights-with-uncle-remus` (3087 units) |
+| Told by Uncle Remus: New Stories of the Old Plantation (1905) | have | PG 55676, `remus-told-by-uncle-remus` (702 units) |
+| Uncle Remus and Brer Rabbit (1907) | have | PG 22282, `remus-uncle-remus-and-brer-rabbit` (170 units) |
+| remus-duplicates | excluded | Uncle Remus, His Songs and His Sayings (PG 21605): a second transcription; Nights with Uncle Remus (PG 24430): the later Milo Winter edition of the same book |
+| remus-other | excluded | his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

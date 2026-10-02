@@ -1,0 +1,40 @@
+{
+ "_about": "Joel Chandler Harris's (1848-1908) Uncle Remus books: African American folk tales of Brer Rabbit set down in a white Georgia journalist's rendering of Black plantation dialect, framed by the figure of an elderly formerly enslaved storyteller. They preserve real folk tales and also carry the racism of their frame and period; both are part of the record. Uncle Remus, His Songs and His Sayings (1880), Nights with Uncle Remus (1883), Told by Uncle Remus (1905) and Uncle Remus and Brer Rabbit (1907). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Joel Chandler Harris",
+ "_name_words": [
+  "uncle",
+  "remus",
+  "rabbit",
+  "plantation"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "remus-his-songs-and-sayings": [
+   2306,
+   "Uncle Remus, His Songs and His Sayings (1880)"
+  ],
+  "remus-nights-with-uncle-remus": [
+   26429,
+   "Nights with Uncle Remus: Myths and Legends of the Old Plantation (1883)",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-told-by-uncle-remus": [
+   55676,
+   "Told by Uncle Remus: New Stories of the Old Plantation (1905)",
+   {
+    "contents_only": true
+   }
+  ],
+  "remus-uncle-remus-and-brer-rabbit": [
+   22282,
+   "Uncle Remus and Brer Rabbit (1907)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "remus-duplicates": "Uncle Remus, His Songs and His Sayings (PG 21605): a second transcription; Nights with Uncle Remus (PG 24430): the later Milo Winter edition of the same book",
+  "remus-other": "his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch"
+ }
+}
