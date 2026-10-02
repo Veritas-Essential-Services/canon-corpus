@@ -1,55 +1,55 @@
 {
-  "_about": "Lucretius in English, translator per title: H. A. J. Munro (prose; 4th ed. vol. 3, the translation, 1900 printing; raw IA), Cyril Bailey (prose, Oxford 1910; raw IA), R. C. Trevelyan (verse selections, 1920; clean Gutenberg). William Ellery Leonard's verse translation (1916) is already on the Adler shelf as lucretius-nature (PG 785), which that shelf labels 'tr. Munro'; PG 785 names Leonard. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "lucretius",
-    "lucreti",
-    "rerum",
-    "natura"
+ "_about": "Lucretius in English, translator per title: H. A. J. Munro (prose; 4th ed. vol. 3, the translation, 1900 printing; raw IA), Cyril Bailey (prose, Oxford 1910; raw IA), R. C. Trevelyan (verse selections, 1920; clean Gutenberg). William Ellery Leonard's verse translation (1916) is already on the Adler shelf as lucretius-nature (PG 785), which that shelf labels 'tr. Munro'; PG 785 names Leonard. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "lucretius",
+  "lucreti",
+  "rerum",
+  "natura"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lucretius-trevelyan-selections": [
+   64024,
+   "Translations from Lucretius",
+   "tr. R. C. Trevelyan (verse, 1920)"
+  ]
+ },
+ "internet_archive": {
+  "lucretius-munro-translation": [
+   "lucreticariderer03lucruoft",
+   "De rerum natura libri sex, ed. with notes and a translation by H. A. J. Munro, vol. 3: the translation (1900 printing)",
+   "tr. H. A. J. Munro"
   ],
-  "ccel": {},
-  "gutenberg": {
-    "lucretius-trevelyan-selections": [
-      64024,
-      "Translations from Lucretius",
-      "tr. R. C. Trevelyan (verse, 1920)"
-    ]
-  },
-  "internet_archive": {
-    "lucretius-munro-translation": [
-      "lucreticariderer03lucruoft",
-      "De rerum natura libri sex, ed. with notes and a translation by H. A. J. Munro, vol. 3: the translation (1900 printing)",
-      "tr. H. A. J. Munro"
-    ],
-    "lucretius-bailey-1910": [
-      "lucretiusonthena00lucruoft",
-      "Lucretius on the Nature of Things (Oxford, 1910)",
-      "tr. Cyril Bailey"
-    ],
-    "lucretius-creech-v1": [
-      "tlucretiuscaruso01lucr",
-      "T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714)",
-      "tr. Thomas Creech"
-    ],
-    "lucretius-creech-v2": [
-      "tlucretiuscaruso02lucr",
-      "T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714)",
-      "tr. Thomas Creech"
-    ]
-  },
-  "_cross_ref": {
-    "lucretius-nature": "Adler shelf: PG 785 is William Ellery LEONARD's 1916 verse translation, not Munro's as the Adler label says",
-    "dryden-lucretius": "Dryden shelf, lane C (Dryden's passages from Lucretius)"
-  },
-  "_excluded": {
-    "in.ernet.dli.2015.96329": "catalogued as Munro 4th ed.; its text layer is empty (146 bytes)",
-    "Thomas Creech (1682)": "PD verse; pending"
-  },
-  "perseus": {
-    "lucretius-perseus-leonard-de-rerum-natura": [
-      "phi0550.phi001.perseus-eng1",
-      "De Rerum Natura",
-      "William Ellery Leonard",
-      "Translation published 1916: US public domain (in or before 1930). Perseus source line: Lucretius. De Rerum Natura. William Ellery Leonard. E. P. Dutton. 1916."
-    ]
-  }
+  "lucretius-bailey-1910": [
+   "lucretiusonthena00lucruoft",
+   "Lucretius on the Nature of Things (Oxford, 1910)",
+   "tr. Cyril Bailey"
+  ],
+  "lucretius-creech-v1": [
+   "tlucretiuscaruso01lucr",
+   "T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714)",
+   "tr. Thomas Creech"
+  ],
+  "lucretius-creech-v2": [
+   "tlucretiuscaruso02lucr",
+   "T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714)",
+   "tr. Thomas Creech"
+  ]
+ },
+ "_cross_ref": {
+  "lucretius-nature": "Adler shelf: PG 785 is William Ellery LEONARD's 1916 verse translation, not Munro's as the Adler label says",
+  "dryden-lucretius": "Dryden shelf, lane C (Dryden's passages from Lucretius)"
+ },
+ "_excluded": {
+  "in.ernet.dli.2015.96329": "catalogued as Munro 4th ed.; its text layer is empty (146 bytes)",
+  "Thomas Creech (1682)": "PD verse; pending"
+ },
+ "perseus": {
+  "lucretius-perseus-leonard-de-rerum-natura": [
+   "phi0550.phi001.perseus-eng1",
+   "De Rerum Natura",
+   "William Ellery Leonard",
+   "Translation published 1916: US public domain (in or before 1930). Perseus source line: Lucretius. De Rerum Natura. William Ellery Leonard. E. P. Dutton. 1916."
+  ]
+ }
 }

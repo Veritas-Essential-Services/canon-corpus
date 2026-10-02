@@ -1,71 +1,71 @@
 {
-  "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "thucydides",
-    "translated",
-    "english",
-    "history"
+ "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "thucydides",
+  "translated",
+  "english",
+  "history"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thucydides-jowett-1881-v1": [
+   "a609583001thucuoft",
+   "Thucydides translated into English, vol. 1 (Oxford, 1881)",
+   "tr. Benjamin Jowett"
   ],
-  "ccel": {},
-  "gutenberg": {},
-  "internet_archive": {
-    "thucydides-jowett-1881-v1": [
-      "a609583001thucuoft",
-      "Thucydides translated into English, vol. 1 (Oxford, 1881)",
-      "tr. Benjamin Jowett"
-    ],
-    "thucydides-jowett-1881-v2": [
-      "a609583002thucuoft",
-      "Thucydides translated into English, vol. 2: notes (Oxford, 1881)",
-      "tr. Benjamin Jowett"
-    ],
-    "thucydides-hobbes-1841": [
-      "thucydides00thucuoft",
-      "Thucydides, chiefly from the translation of Hobbes of Malmesbury (Oxford, 1841)",
-      "tr. Thomas Hobbes (1629), corrected"
-    ],
-    "thucydides-smith-v1": [
-      "thucydidestrbyw01thucgoog",
-      "Thucydides, tr. by W. Smith, vol. 1 (1831)",
-      "tr. William Smith"
-    ],
-    "thucydides-smith-v2": [
-      "thucydides01smitgoog",
-      "Thucydides, tr. by W. Smith, vol. 2 (1831)",
-      "tr. William Smith"
-    ],
-    "thucydides-smith-v3": [
-      "thucydidestrbyw02thucgoog",
-      "Thucydides, tr. by W. Smith, vol. 3 (1831)",
-      "tr. William Smith"
-    ]
-  },
-  "_cross_ref": {
-    "thucydides-pelo": "Adler shelf: PG 7142, which is Richard CRAWLEY's translation; the Adler shelf labels it 'tr. Jowett', which is wrong (PG 7142's own header names Crawley)"
-  },
-  "_excluded": {
-    "pg26245": "Crawley, duplicate of PG 7142",
-    "pg9074": "Stories from Thucydides (Havell): an adaptation",
-    "C. F. Smith, Loeb (1919-23)": "on Perseus, US PD by date; pending"
-  },
-  "perseus": {
-    "thucydides-perseus-smith-history-of-the-peloponnesian-war": [
-      "tlg0003.tlg001.1st1K-eng1",
-      "History of the Peloponnesian War",
-      "Charles Foster Smith",
-      "Translation published 1923: US public domain (in or before 1930). Perseus source line: Thucydides, Vol. 1-4. Smith, Charles Foster, translator. London and Cambridge, MA: Heinemann and Harvard University Press, 1919-1923."
-    ],
-    "thucydides-perseus-dale-history-of-the-peloponnesian-war": [
-      "tlg0003.tlg001.1st1K-eng2",
-      "History of the Peloponnesian War",
-      "Henry Dale",
-      "Translation published 1852: US public domain (in or before 1930). Perseus source line: Thucydides. The history of the Peloponnesian War, Volume 1-2. Dale, Henry, translator. London: Heinemann and Henry G. Bohn, 1851-1852."
-    ],
-    "thucydides-perseus-hobbes-the-history-of-the-grecian-war": [
-      "tlg0003.tlg001.perseus-eng4",
-      "The History of the Grecian War",
-      "Thomas Hobbes",
-      "Translation published 1843: US public domain (in or before 1930). Perseus source line: Thucydides. The English works of Thomas Hobbes of Malmesbury. Hobbes, Thomas. translator. London: John Bohn, 1843."
-    ]
-  }
+  "thucydides-jowett-1881-v2": [
+   "a609583002thucuoft",
+   "Thucydides translated into English, vol. 2: notes (Oxford, 1881)",
+   "tr. Benjamin Jowett"
+  ],
+  "thucydides-hobbes-1841": [
+   "thucydides00thucuoft",
+   "Thucydides, chiefly from the translation of Hobbes of Malmesbury (Oxford, 1841)",
+   "tr. Thomas Hobbes (1629), corrected"
+  ],
+  "thucydides-smith-v1": [
+   "thucydidestrbyw01thucgoog",
+   "Thucydides, tr. by W. Smith, vol. 1 (1831)",
+   "tr. William Smith"
+  ],
+  "thucydides-smith-v2": [
+   "thucydides01smitgoog",
+   "Thucydides, tr. by W. Smith, vol. 2 (1831)",
+   "tr. William Smith"
+  ],
+  "thucydides-smith-v3": [
+   "thucydidestrbyw02thucgoog",
+   "Thucydides, tr. by W. Smith, vol. 3 (1831)",
+   "tr. William Smith"
+  ]
+ },
+ "_cross_ref": {
+  "thucydides-pelo": "Adler shelf: PG 7142, which is Richard CRAWLEY's translation; the Adler shelf labels it 'tr. Jowett', which is wrong (PG 7142's own header names Crawley)"
+ },
+ "_excluded": {
+  "pg26245": "Crawley, duplicate of PG 7142",
+  "pg9074": "Stories from Thucydides (Havell): an adaptation",
+  "C. F. Smith, Loeb (1919-23)": "on Perseus, US PD by date; pending"
+ },
+ "perseus": {
+  "thucydides-perseus-smith-history-of-the-peloponnesian-war": [
+   "tlg0003.tlg001.1st1K-eng1",
+   "History of the Peloponnesian War",
+   "Charles Foster Smith",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Thucydides, Vol. 1-4. Smith, Charles Foster, translator. London and Cambridge, MA: Heinemann and Harvard University Press, 1919-1923."
+  ],
+  "thucydides-perseus-dale-history-of-the-peloponnesian-war": [
+   "tlg0003.tlg001.1st1K-eng2",
+   "History of the Peloponnesian War",
+   "Henry Dale",
+   "Translation published 1852: US public domain (in or before 1930). Perseus source line: Thucydides. The history of the Peloponnesian War, Volume 1-2. Dale, Henry, translator. London: Heinemann and Henry G. Bohn, 1851-1852."
+  ],
+  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": [
+   "tlg0003.tlg001.perseus-eng4",
+   "The History of the Grecian War",
+   "Thomas Hobbes",
+   "Translation published 1843: US public domain (in or before 1930). Perseus source line: Thucydides. The English works of Thomas Hobbes of Malmesbury. Hobbes, Thomas. translator. London: John Bohn, 1843."
+  ]
+ }
 }

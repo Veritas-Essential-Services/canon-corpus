@@ -1,40 +1,40 @@
 {
-  "_about": "Euclid's Elements in T. L. Heath's translation with commentary, The Thirteen Books of Euclid's Elements (Cambridge, 1908), 3 vols., raw IA OCR (US PD by date). Mathematical OCR: clean-word 0.77-0.83, lower than prose because of symbols and lettered figures. Each volume identified by its title page (I: Introduction and Books I-II; II: Books III-IX; III: Books X-XIII). Proclus's commentary on Book I is on the proclus shelf. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "euclid",
-    "elements",
-    "thirteen"
+ "_about": "Euclid's Elements in T. L. Heath's translation with commentary, The Thirteen Books of Euclid's Elements (Cambridge, 1908), 3 vols., raw IA OCR (US PD by date). Mathematical OCR: clean-word 0.77-0.83, lower than prose because of symbols and lettered figures. Each volume identified by its title page (I: Introduction and Books I-II; II: Books III-IX; III: Books X-XIII). Proclus's commentary on Book I is on the proclus shelf. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "euclid",
+  "elements",
+  "thirteen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "euclid-heath-v1": [
+   "thirteenbookseu02heibgoog",
+   "The Thirteen Books of Euclid's Elements, vol. 1 (1908)",
+   "tr. T. L. Heath"
   ],
-  "ccel": {},
-  "gutenberg": {},
-  "internet_archive": {
-    "euclid-heath-v1": [
-      "thirteenbookseu02heibgoog",
-      "The Thirteen Books of Euclid's Elements, vol. 1 (1908)",
-      "tr. T. L. Heath"
-    ],
-    "euclid-heath-v2": [
-      "thirteenbookseu00heibgoog",
-      "The Thirteen Books of Euclid's Elements, vol. 2 (1908)",
-      "tr. T. L. Heath"
-    ],
-    "euclid-heath-v3": [
-      "thirteenbookseu01heibgoog",
-      "The Thirteen Books of Euclid's Elements, vol. 3 (1908)",
-      "tr. T. L. Heath"
-    ]
-  },
-  "_excluded": {
-    "thirteenbookseu03heibgoog": "second scan of vol. 3",
-    "Casey, First Six Books (PG 21076)": "a school adaptation, not a translation; not taken",
-    "Heath's 2nd ed. (1926)": "US PD by date; not yet located; pending"
-  },
-  "perseus": {
-    "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": [
-      "tlg1799.tlg001.perseus-eng2",
-      "The Thirteen Books of Euclid's Elements",
-      "Thomas Little Heath",
-      "Translation published 1908: US public domain (in or before 1930). Perseus source line: Euclid. The Thirteen Books of Euclid's Elements, Vols. 1-3. Heath, Thomas Little, editor. Cambridge, UK: Cambridge University Press, 1908."
-    ]
-  }
+  "euclid-heath-v2": [
+   "thirteenbookseu00heibgoog",
+   "The Thirteen Books of Euclid's Elements, vol. 2 (1908)",
+   "tr. T. L. Heath"
+  ],
+  "euclid-heath-v3": [
+   "thirteenbookseu01heibgoog",
+   "The Thirteen Books of Euclid's Elements, vol. 3 (1908)",
+   "tr. T. L. Heath"
+  ]
+ },
+ "_excluded": {
+  "thirteenbookseu03heibgoog": "second scan of vol. 3",
+  "Casey, First Six Books (PG 21076)": "a school adaptation, not a translation; not taken",
+  "Heath's 2nd ed. (1926)": "US PD by date; not yet located; pending"
+ },
+ "perseus": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": [
+   "tlg1799.tlg001.perseus-eng2",
+   "The Thirteen Books of Euclid's Elements",
+   "Thomas Little Heath",
+   "Translation published 1908: US public domain (in or before 1930). Perseus source line: Euclid. The Thirteen Books of Euclid's Elements, Vols. 1-3. Heath, Thomas Little, editor. Cambridge, UK: Cambridge University Press, 1908."
+  ]
+ }
 }

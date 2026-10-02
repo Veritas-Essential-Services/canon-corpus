@@ -1,44 +1,44 @@
 {
-  "_about": "Catullus in English, translator per title: Robinson Ellis (in the metres of the original, 1871) and Sir Richard Burton with Leonard Smithers (1894), clean Gutenberg. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "catullus",
-    "catulli"
+ "_about": "Catullus in English, translator per title: Robinson Ellis (in the metres of the original, 1871) and Sir Richard Burton with Leonard Smithers (1894), clean Gutenberg. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "catullus",
+  "catulli"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "catullus-ellis": [
+   18867,
+   "The Poems and Fragments of Catullus translated in the metres of the original",
+   "tr. Robinson Ellis (1871)"
   ],
-  "ccel": {},
-  "gutenberg": {
-    "catullus-ellis": [
-      18867,
-      "The Poems and Fragments of Catullus translated in the metres of the original",
-      "tr. Robinson Ellis (1871)"
-    ],
-    "catullus-burton-smithers": [
-      20732,
-      "The Carmina of Caius Valerius Catullus",
-      "tr. Sir Richard Burton (verse) and Leonard C. Smithers (prose)"
-    ]
-  },
-  "internet_archive": {
-    "catullus-tibullus-pervigilium-loeb": [
-      "catullustibullus00catu",
-      "Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913)",
-      "tr. F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium)"
-    ]
-  },
-  "_excluded": {
-    "pg23720": "To Lesbia: catalogued, serves a 404 page"
-  },
-  "perseus": {
-    "catullus-perseus-burton-carmina": [
-      "phi0472.phi001.perseus-eng3",
-      "Carmina",
-      "Sir Richard Francis Burton",
-      "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Burton, Sir Richard Francis, translator. London, Printed for the Translators, 1894."
-    ],
-    "catullus-perseus-smithers-carmina": [
-      "phi0472.phi001.perseus-eng4",
-      "Carmina",
-      "Leonard C. Smithers",
-      "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Smithers, Leonard Charles, prose translator. London, Printed for the Translators, 1894. (Modernized by Perseus.)"
-    ]
-  }
+  "catullus-burton-smithers": [
+   20732,
+   "The Carmina of Caius Valerius Catullus",
+   "tr. Sir Richard Burton (verse) and Leonard C. Smithers (prose)"
+  ]
+ },
+ "internet_archive": {
+  "catullus-tibullus-pervigilium-loeb": [
+   "catullustibullus00catu",
+   "Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913)",
+   "tr. F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium)"
+  ]
+ },
+ "_excluded": {
+  "pg23720": "To Lesbia: catalogued, serves a 404 page"
+ },
+ "perseus": {
+  "catullus-perseus-burton-carmina": [
+   "phi0472.phi001.perseus-eng3",
+   "Carmina",
+   "Sir Richard Francis Burton",
+   "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Burton, Sir Richard Francis, translator. London, Printed for the Translators, 1894."
+  ],
+  "catullus-perseus-smithers-carmina": [
+   "phi0472.phi001.perseus-eng4",
+   "Carmina",
+   "Leonard C. Smithers",
+   "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Smithers, Leonard Charles, prose translator. London, Printed for the Translators, 1894. (Modernized by Perseus.)"
+  ]
+ }
 }

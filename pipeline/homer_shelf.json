@@ -1,122 +1,122 @@
 {
-  "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "homer",
-    "homers",
-    "iliad",
-    "odyssey",
-    "iliads",
-    "odysseys",
-    "translated",
-    "english"
+ "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "homer",
+  "homers",
+  "iliad",
+  "odyssey",
+  "iliads",
+  "odysseys",
+  "translated",
+  "english"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "homer-chapman-iliad": [
+   51355,
+   "The Iliads of Homer Translated according to the Greek",
+   "tr. George Chapman (verse, 1611)"
   ],
-  "ccel": {},
-  "gutenberg": {
-    "homer-chapman-iliad": [
-      51355,
-      "The Iliads of Homer Translated according to the Greek",
-      "tr. George Chapman (verse, 1611)"
-    ],
-    "homer-chapman-odyssey": [
-      48895,
-      "The Odysseys of Homer, together with the shorter poems",
-      "tr. George Chapman (verse, 1614-16; Hymns, Batrachomyomachia, Epigrams)"
-    ],
-    "homer-pope-iliad": [
-      6130,
-      "The Iliad",
-      "tr. Alexander Pope (verse, 1715-20), notes by T. A. Buckley"
-    ],
-    "homer-pope-odyssey": [
-      3160,
-      "The Odyssey",
-      "tr. Alexander Pope, with William Broome and Elijah Fenton (verse, 1725-26)"
-    ],
-    "homer-cowper-iliad": [
-      16452,
-      "The Iliad of Homer Translated into English Blank Verse",
-      "tr. William Cowper (1791), ed. Robert Southey"
-    ],
-    "homer-cowper-odyssey": [
-      24269,
-      "The Odyssey of Homer",
-      "tr. William Cowper (blank verse, 1791)"
-    ],
-    "homer-derby-iliad": [
-      6150,
-      "The Iliad",
-      "tr. Edward Stanley, Earl of Derby (blank verse, 1864)"
-    ],
-    "homer-buckley-iliad": [
-      22382,
-      "The Iliad",
-      "tr. Theodore Alois Buckley (prose, Bohn, 1851)"
-    ],
-    "homer-butler-odyssey": [
-      1727,
-      "The Odyssey Rendered into English prose",
-      "tr. Samuel Butler (prose, 1900), unrevised"
-    ]
-  },
-  "internet_archive": {
-    "homer-bryant-iliad-v1": [
-      "iliadofhomertran01homeuoft",
-      "The Iliad of Homer, translated into English blank verse, vol. 1 (1875 printing)",
-      "tr. William Cullen Bryant"
-    ],
-    "homer-bryant-iliad-v2": [
-      "iliadofhomertran02homeuoft",
-      "The Iliad of Homer, translated into English blank verse, vol. 2 (1875 printing)",
-      "tr. William Cullen Bryant"
-    ],
-    "homer-bryant-odyssey-v1": [
-      "odysseyofhomertr11homeuoft",
-      "The Odyssey of Homer, translated into English blank verse, vol. 1 (1873 printing)",
-      "tr. William Cullen Bryant"
-    ],
-    "homer-bryant-odyssey-v2": [
-      "odysseyofhomertr22homeuoft",
-      "The Odyssey of Homer, translated into English blank verse, vol. 2 (1873 printing)",
-      "tr. William Cullen Bryant"
-    ],
-    "homer-norgate-iliad": [
-      "iliadorachillesw00homeuoft",
-      "Homer, The Iliad, or Achilles' Wrath at the Siege of Ilion, in English blank verse (1864)",
-      "tr. T. S. Norgate (attributed by catalogue)"
-    ],
-    "homer-hobbes-iliad-odyssey": [
-      "englishworksofth0010hobb_d2j3",
-      "The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth)",
-      "tr. Thomas Hobbes"
-    ]
-  },
-  "_cross_ref": {
-    "iliad-butler": "build manifest (fetch_sources.PERSEUS), Butler's Iliad 1898; PG 2199 is the same translation, not fetched",
-    "odyssey-eng4": "build manifest (fetch_sources.PERSEUS): Butler's Odyssey revised by Timothy Power and Gregory Nagy, a modern revision; homer-butler-odyssey here is the unrevised 1900 text",
-    "lang-iliad": "Lang shelf, lane D (PG 3059, Lang, Leaf and Myers)",
-    "lang-odyssey": "Lang shelf, lane D (PG 1728, Butcher and Lang)",
-    "lang-homeric-hymns": "Lang shelf, lane D (PG 16338)",
-    "dryden-iliad": "Dryden shelf, lane C (Iliad I and the Last Parting of Hector and Andromache)",
-    "hesiod-evelyn-white": "Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914)"
-  },
-  "_excluded": {
-    "pg2199": "Butler's Iliad: already in the build from Perseus (iliad-butler)",
-    "pg28797": "Butler's Odyssey: duplicate of PG 1727",
-    "pg24856": "Odysseus, the Hero of Ithaca (Burt, Ragozin): a schoolbook adaptation",
-    "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "on Perseus (eng3), US public domain by date. Pending: needs a Perseus manifest entry"
-  },
-  "perseus": {
-    "homer-perseus-murray-iliad": [
-      "tlg0012.tlg001.perseus-eng3",
-      "Iliad",
-      "Augustus Taber Murray",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Homer. The Iliad, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1924-1925."
-    ],
-    "homer-perseus-murray-odyssey": [
-      "tlg0012.tlg002.perseus-eng3",
-      "Odyssey",
-      "Augustus Taber Murray",
-      "Translation published 1919: US public domain (in or before 1930). Perseus source line: Homer. The Odyssey, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1919."
-    ]
-  }
+  "homer-chapman-odyssey": [
+   48895,
+   "The Odysseys of Homer, together with the shorter poems",
+   "tr. George Chapman (verse, 1614-16; Hymns, Batrachomyomachia, Epigrams)"
+  ],
+  "homer-pope-iliad": [
+   6130,
+   "The Iliad",
+   "tr. Alexander Pope (verse, 1715-20), notes by T. A. Buckley"
+  ],
+  "homer-pope-odyssey": [
+   3160,
+   "The Odyssey",
+   "tr. Alexander Pope, with William Broome and Elijah Fenton (verse, 1725-26)"
+  ],
+  "homer-cowper-iliad": [
+   16452,
+   "The Iliad of Homer Translated into English Blank Verse",
+   "tr. William Cowper (1791), ed. Robert Southey"
+  ],
+  "homer-cowper-odyssey": [
+   24269,
+   "The Odyssey of Homer",
+   "tr. William Cowper (blank verse, 1791)"
+  ],
+  "homer-derby-iliad": [
+   6150,
+   "The Iliad",
+   "tr. Edward Stanley, Earl of Derby (blank verse, 1864)"
+  ],
+  "homer-buckley-iliad": [
+   22382,
+   "The Iliad",
+   "tr. Theodore Alois Buckley (prose, Bohn, 1851)"
+  ],
+  "homer-butler-odyssey": [
+   1727,
+   "The Odyssey Rendered into English prose",
+   "tr. Samuel Butler (prose, 1900), unrevised"
+  ]
+ },
+ "internet_archive": {
+  "homer-bryant-iliad-v1": [
+   "iliadofhomertran01homeuoft",
+   "The Iliad of Homer, translated into English blank verse, vol. 1 (1875 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-bryant-iliad-v2": [
+   "iliadofhomertran02homeuoft",
+   "The Iliad of Homer, translated into English blank verse, vol. 2 (1875 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-bryant-odyssey-v1": [
+   "odysseyofhomertr11homeuoft",
+   "The Odyssey of Homer, translated into English blank verse, vol. 1 (1873 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-bryant-odyssey-v2": [
+   "odysseyofhomertr22homeuoft",
+   "The Odyssey of Homer, translated into English blank verse, vol. 2 (1873 printing)",
+   "tr. William Cullen Bryant"
+  ],
+  "homer-norgate-iliad": [
+   "iliadorachillesw00homeuoft",
+   "Homer, The Iliad, or Achilles' Wrath at the Siege of Ilion, in English blank verse (1864)",
+   "tr. T. S. Norgate (attributed by catalogue)"
+  ],
+  "homer-hobbes-iliad-odyssey": [
+   "englishworksofth0010hobb_d2j3",
+   "The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth)",
+   "tr. Thomas Hobbes"
+  ]
+ },
+ "_cross_ref": {
+  "iliad-butler": "build manifest (fetch_sources.PERSEUS), Butler's Iliad 1898; PG 2199 is the same translation, not fetched",
+  "odyssey-eng4": "build manifest (fetch_sources.PERSEUS): Butler's Odyssey revised by Timothy Power and Gregory Nagy, a modern revision; homer-butler-odyssey here is the unrevised 1900 text",
+  "lang-iliad": "Lang shelf, lane D (PG 3059, Lang, Leaf and Myers)",
+  "lang-odyssey": "Lang shelf, lane D (PG 1728, Butcher and Lang)",
+  "lang-homeric-hymns": "Lang shelf, lane D (PG 16338)",
+  "dryden-iliad": "Dryden shelf, lane C (Iliad I and the Last Parting of Hector and Andromache)",
+  "hesiod-evelyn-white": "Hesiod shelf: Evelyn-White's Homeric Hymns, Epigrams, Contest of Homer and Hesiod (1914)"
+ },
+ "_excluded": {
+  "pg2199": "Butler's Iliad: already in the build from Perseus (iliad-butler)",
+  "pg28797": "Butler's Odyssey: duplicate of PG 1727",
+  "pg24856": "Odysseus, the Hero of Ithaca (Burt, Ragozin): a schoolbook adaptation",
+  "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "on Perseus (eng3), US public domain by date. Pending: needs a Perseus manifest entry"
+ },
+ "perseus": {
+  "homer-perseus-murray-iliad": [
+   "tlg0012.tlg001.perseus-eng3",
+   "Iliad",
+   "Augustus Taber Murray",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Homer. The Iliad, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1924-1925."
+  ],
+  "homer-perseus-murray-odyssey": [
+   "tlg0012.tlg002.perseus-eng3",
+   "Odyssey",
+   "Augustus Taber Murray",
+   "Translation published 1919: US public domain (in or before 1930). Perseus source line: Homer. The Odyssey, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1919."
+  ]
+ }
 }

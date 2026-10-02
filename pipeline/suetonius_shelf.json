@@ -1,39 +1,39 @@
 {
-  "_about": "Suetonius in English: Alexander Thomson's translation revised by T. Forester (Bohn), the Twelve Caesars with the Lives of the Grammarians, Rhetoricians and Poets, in Gutenberg's complete edition. The 14 single-life Gutenberg files are the same text and are not fetched. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "suetonius",
-    "caesars"
+ "_about": "Suetonius in English: Alexander Thomson's translation revised by T. Forester (Bohn), the Twelve Caesars with the Lives of the Grammarians, Rhetoricians and Poets, in Gutenberg's complete edition. The 14 single-life Gutenberg files are the same text and are not fetched. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "suetonius",
+  "caesars"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "suetonius-thomson-forester": [
+   6400,
+   "The Lives of the Twelve Caesars, complete",
+   "tr. Alexander Thomson, rev. T. Forester"
+  ]
+ },
+ "internet_archive": {
+  "suetonius-rolfe-v1": [
+   "suetonius01suet",
+   "Suetonius, vol. 1 (Loeb, 1913)",
+   "tr. J. C. Rolfe"
   ],
-  "ccel": {},
-  "gutenberg": {
-    "suetonius-thomson-forester": [
-      6400,
-      "The Lives of the Twelve Caesars, complete",
-      "tr. Alexander Thomson, rev. T. Forester"
-    ]
-  },
-  "internet_archive": {
-    "suetonius-rolfe-v1": [
-      "suetonius01suet",
-      "Suetonius, vol. 1 (Loeb, 1913)",
-      "tr. J. C. Rolfe"
-    ],
-    "suetonius-rolfe-v2": [
-      "suetonius02suetuoft",
-      "Suetonius, vol. 2 (Loeb, 1914)",
-      "tr. J. C. Rolfe"
-    ]
-  },
-  "_excluded": {
-    "pg6386-6399": "the same text split into 14 files",
-    "Philemon Holland (1606)": "PD; pending"
-  },
-  "perseus": {
-    "suetonius-perseus-rolfe-the-deified-julius": [
-      "phi1348.abo011.rolfe-eng1",
-      "The Deified Julius",
-      "John C. Rolfe",
-      "Translation published 1914: US public domain (in or before 1930). Perseus source line: Suetonius. Rolfe, John C., translator. London: William Heineman; New York: The Macmillan Company, 1914."
-    ]
-  }
+  "suetonius-rolfe-v2": [
+   "suetonius02suetuoft",
+   "Suetonius, vol. 2 (Loeb, 1914)",
+   "tr. J. C. Rolfe"
+  ]
+ },
+ "_excluded": {
+  "pg6386-6399": "the same text split into 14 files",
+  "Philemon Holland (1606)": "PD; pending"
+ },
+ "perseus": {
+  "suetonius-perseus-rolfe-the-deified-julius": [
+   "phi1348.abo011.rolfe-eng1",
+   "The Deified Julius",
+   "John C. Rolfe",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Suetonius. Rolfe, John C., translator. London: William Heineman; New York: The Macmillan Company, 1914."
+  ]
+ }
 }

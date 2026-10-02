@@ -1,361 +1,361 @@
 {
-  "_about": "Lucian of Samosata in English, translator per title: H. W. and F. G. Fowler (Oxford, 1905), 4 vols., clean Gutenberg; Thomas Francklin's Trips to the Moon (Morley's Universal Library); Francis Hickes's True History (1634; 1894 edition). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
-  "_name_words": [
-    "lucian",
-    "samosata"
+ "_about": "Lucian of Samosata in English, translator per title: H. W. and F. G. Fowler (Oxford, 1905), 4 vols., clean Gutenberg; Thomas Francklin's Trips to the Moon (Morley's Universal Library); Francis Hickes's True History (1634; 1894 edition). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "lucian",
+  "samosata"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lucian-fowler-v1": [
+   6327,
+   "The Works of Lucian of Samosata, vol. 1",
+   "tr. H. W. and F. G. Fowler"
   ],
-  "ccel": {},
-  "gutenberg": {
-    "lucian-fowler-v1": [
-      6327,
-      "The Works of Lucian of Samosata, vol. 1",
-      "tr. H. W. and F. G. Fowler"
-    ],
-    "lucian-fowler-v2": [
-      6585,
-      "The Works of Lucian of Samosata, vol. 2",
-      "tr. H. W. and F. G. Fowler"
-    ],
-    "lucian-fowler-v3": [
-      6829,
-      "The Works of Lucian of Samosata, vol. 3",
-      "tr. H. W. and F. G. Fowler"
-    ],
-    "lucian-fowler-v4": [
-      47242,
-      "The Works of Lucian of Samosata, vol. 4",
-      "tr. H. W. and F. G. Fowler"
-    ],
-    "lucian-francklin-trips-to-the-moon": [
-      10430,
-      "Trips to the Moon",
-      "tr. Thomas Francklin"
-    ],
-    "lucian-hickes-true-history": [
-      45858,
-      "Lucian's True History",
-      "tr. Francis Hickes"
-    ]
-  },
-  "internet_archive": {},
-  "_cross_ref": {
-    "dryden-polybius-lucian": "Dryden shelf, lane C (Dryden's Life of Lucian)"
-  },
-  "_excluded": {
-    "A. M. Harmon, Loeb (1913-)": "early vols. US PD by date, Greek facing; on Perseus; pending"
-  },
-  "perseus": {
-    "lucian-perseus-harmon-the-ignorant-book-collector": [
-      "tlg0062.tlg028.perseus-eng2",
-      "The Ignorant Book Collector",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-alexander-the-false-prophet": [
-      "tlg0062.tlg038.perseus-eng2",
-      "Alexander the False Prophet",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-anacharsis-or-athletics": [
-      "tlg0062.tlg034.perseus-eng2",
-      "Anacharsis, or Athletics",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-dionysus-an-introduction": [
-      "tlg0062.tlg003.perseus-eng2",
-      "Dionysus: an Introduction",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-the-double-indictment": [
-      "tlg0062.tlg026.perseus-eng2",
-      "The Double Indictment",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": [
-      "tlg0062.tlg013.perseus-eng2",
-      "Slander: on not Being Quick to Put Faith in it",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-the-downward-journey-or-the-tyrant": [
-      "tlg0062.tlg016.perseus-eng2",
-      "The Downward Journey, or the Tyrant",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-smith-the-ferry": [
-      "tlg0062.tlg016.perseus-eng5",
-      "The Ferry",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York; Harper Brothers, 1892."
-    ],
-    "lucian-perseus-harmon-charon-or-the-inspectors": [
-      "tlg0062.tlg023.perseus-eng2",
-      "Charon, or the Inspectors",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-harmon-the-hall": [
-      "tlg0062.tlg009.perseus-eng2",
-      "The Hall",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-on-sacrifices": [
-      "tlg0062.tlg027.perseus-eng2",
-      "On Sacrifices",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-the-goddesse-of-surrye": [
-      "tlg0062.tlg041.perseus-eng2",
-      "The Goddesse of Surrye",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-on-funerals": [
-      "tlg0062.tlg036.perseus-eng2",
-      "On Funerals",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-on-salaried-posts-in-great-houses": [
-      "tlg0062.tlg033.perseus-eng2",
-      "On Salaried Posts in Great Houses",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-the-parasite-tychiades": [
-      "tlg0062.tlg030.perseus-eng2",
-      "The Parasite Tychiades",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-the-judgement-of-the-goddesses": [
-      "tlg0062.tlg032.perseus-eng2",
-      "The Judgement of the Goddesses",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-demonax": [
-      "tlg0062.tlg008.perseus-eng2",
-      "Demonax",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-amber-or-the-swan": [
-      "tlg0062.tlg005.perseus-eng2",
-      "Amber, or the Swan",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-the-dream-or-the-cock": [
-      "tlg0062.tlg019.perseus-eng2",
-      "The Dream, or the Cock",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-smith-the-cock": [
-      "tlg0062.tlg019.perseus-eng5",
-      "The Cock",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Lucian. Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
-    ],
-    "lucian-perseus-harmon-heracles-an-introduction": [
-      "tlg0062.tlg004.perseus-eng2",
-      "Heracles: an Introduction",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-hippias-or-the-bath": [
-      "tlg0062.tlg002.perseus-eng2",
-      "Hippias, or the Bath",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-icaromenippus-or-the-sky-man": [
-      "tlg0062.tlg021.perseus-eng2",
-      "Icaromenippus, or the Sky-man",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-harmon-essays-in-portraiture": [
-      "tlg0062.tlg039.perseus-eng2",
-      "Essays in Portraiture",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": [
-      "tlg0062.tlg014.perseus-eng2",
-      "The Consonants at Law Sigma Vs. Tau, in the Court of the Seven Vowels",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-zeus-catechized": [
-      "tlg0062.tlg017.perseus-eng2",
-      "Zeus Catechized",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-harmon-zeus-rants": [
-      "tlg0062.tlg018.perseus-eng2",
-      "Zeus Rants",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-smith-zeus-the-tragedian": [
-      "tlg0062.tlg018.perseus-eng5",
-      "Zeus the Tragedian",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
-    ],
-    "lucian-perseus-harmon-octogenerians": [
-      "tlg0062.tlg011.perseus-eng2",
-      "Octogenerians",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-the-fly": [
-      "tlg0062.tlg006.perseus-eng2",
-      "The Fly",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-menippus-or-the-descent-into-hades": [
-      "tlg0062.tlg035.perseus-eng2",
-      "Menippus, or the Descent Into Hades",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-nigrinus": [
-      "tlg0062.tlg007.perseus-eng2",
-      "Nigrinus",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-my-native-land": [
-      "tlg0062.tlg010.perseus-eng2",
-      "My Native Land",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-phalaris": [
-      "tlg0062.tlg001.perseus-eng2",
-      "Phalaris",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad": [
-      "tlg0062.tlg031.perseus-eng2",
-      "The Lover of Lies, or the Doubter Tychiades",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman": [
-      "tlg0062.tlg025.perseus-eng2",
-      "The Dead Come to Life, or the Fisherman",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-harmon-essays-in-portraiture-defended": [
-      "tlg0062.tlg040.perseus-eng2",
-      "Essays in Portraiture Defended",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-prometheus": [
-      "tlg0062.tlg020.perseus-eng2",
-      "Prometheus",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-harmon-a-professor-of-public-speaking": [
-      "tlg0062.tlg037.perseus-eng2",
-      "A Professor of Public Speaking",
-      "Austin Morris Harmon",
-      "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
-    ],
-    "lucian-perseus-harmon-the-dream-or-lucian-s-career": [
-      "tlg0062.tlg029.perseus-eng2",
-      "The Dream or Lucian’s Career",
-      "Austin Morris Harmon",
-      "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
-    ],
-    "lucian-perseus-smith-the-dream": [
-      "tlg0062.tlg029.perseus-eng5",
-      "The Dream",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Lucian. Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
-    ],
-    "lucian-perseus-harmon-the-carousal-or-the-lapiths": [
-      "tlg0062.tlg015.perseus-eng2",
-      "The Carousal, or the Lapiths",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-harmon-timon-or-the-misanthrope": [
-      "tlg0062.tlg022.perseus-eng2",
-      "Timon, or the Misanthrope",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-smith-toxaris-or-friendship": [
-      "tlg0062.tlg044.perseus-eng5",
-      "Toxaris; Or, Friendship",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
-    ],
-    "lucian-perseus-harmon-a-true-story": [
-      "tlg0062.tlg012.perseus-eng2",
-      "A True Story",
-      "Austin Morris Harmon",
-      "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
-    ],
-    "lucian-perseus-smith-a-true-history": [
-      "tlg0062.tlg012.perseus-eng5",
-      "A True History",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York; Harper Brothers, 1892."
-    ],
-    "lucian-perseus-harmon-philosophies-for-sale": [
-      "tlg0062.tlg024.perseus-eng2",
-      "Philosophies for Sale",
-      "Austin Morris Harmon",
-      "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
-    ],
-    "lucian-perseus-smith-the-sale-of-lives": [
-      "tlg0062.tlg024.perseus-eng5",
-      "The Sale of Lives",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Lucian. Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
-    ],
-    "lucian-perseus-smith-loukios-or-the-ass": [
-      "tlg0061.tlg001.perseus-eng1",
-      "Loukios, or the Ass",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translators. New York; Harper Brothers, 1892."
-    ],
-    "lucian-perseus-fowler-the-cynic": [
-      "tlg0061.tlg006.perseus-eng1",
-      "The Cynic",
-      "Henry Watson Fowler and Francis George Fowler",
-      "Translation published 1905: US public domain (in or before 1930). Perseus source line: The Works of Lucian of Samosata, complete, with exceptions specified in the preface, Vol. 4. Fowler, H. W. and Fowler, F.G., translators. Oxford: Clarendon Press, 1905."
-    ],
-    "lucian-perseus-fowler-demosthenes-an-encomium": [
-      "tlg0061.tlg003.perseus-eng1",
-      "Demosthenes: an Encomium",
-      "Henry Watson Fowler and Francis George Fowler",
-      "Translation published 1905: US public domain (in or before 1930). Perseus source line: The Works of Lucian of Samosata; complete, with exceptions specified in the preface, Vol. 4. Fowler, H. W. and Fowler, F.G., translators. Oxford: Clarendon Press, 1905."
-    ],
-    "lucian-perseus-smith-the-halcyon": [
-      "tlg0061.tlg004.perseus-eng1",
-      "The Halcyon",
-      "Emily James Smith",
-      "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
-    ]
-  }
+  "lucian-fowler-v2": [
+   6585,
+   "The Works of Lucian of Samosata, vol. 2",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-fowler-v3": [
+   6829,
+   "The Works of Lucian of Samosata, vol. 3",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-fowler-v4": [
+   47242,
+   "The Works of Lucian of Samosata, vol. 4",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-francklin-trips-to-the-moon": [
+   10430,
+   "Trips to the Moon",
+   "tr. Thomas Francklin"
+  ],
+  "lucian-hickes-true-history": [
+   45858,
+   "Lucian's True History",
+   "tr. Francis Hickes"
+  ]
+ },
+ "internet_archive": {},
+ "_cross_ref": {
+  "dryden-polybius-lucian": "Dryden shelf, lane C (Dryden's Life of Lucian)"
+ },
+ "_excluded": {
+  "A. M. Harmon, Loeb (1913-)": "early vols. US PD by date, Greek facing; on Perseus; pending"
+ },
+ "perseus": {
+  "lucian-perseus-harmon-the-ignorant-book-collector": [
+   "tlg0062.tlg028.perseus-eng2",
+   "The Ignorant Book Collector",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-alexander-the-false-prophet": [
+   "tlg0062.tlg038.perseus-eng2",
+   "Alexander the False Prophet",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-anacharsis-or-athletics": [
+   "tlg0062.tlg034.perseus-eng2",
+   "Anacharsis, or Athletics",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-dionysus-an-introduction": [
+   "tlg0062.tlg003.perseus-eng2",
+   "Dionysus: an Introduction",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-the-double-indictment": [
+   "tlg0062.tlg026.perseus-eng2",
+   "The Double Indictment",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": [
+   "tlg0062.tlg013.perseus-eng2",
+   "Slander: on not Being Quick to Put Faith in it",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-the-downward-journey-or-the-tyrant": [
+   "tlg0062.tlg016.perseus-eng2",
+   "The Downward Journey, or the Tyrant",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-smith-the-ferry": [
+   "tlg0062.tlg016.perseus-eng5",
+   "The Ferry",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York; Harper Brothers, 1892."
+  ],
+  "lucian-perseus-harmon-charon-or-the-inspectors": [
+   "tlg0062.tlg023.perseus-eng2",
+   "Charon, or the Inspectors",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-harmon-the-hall": [
+   "tlg0062.tlg009.perseus-eng2",
+   "The Hall",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-on-sacrifices": [
+   "tlg0062.tlg027.perseus-eng2",
+   "On Sacrifices",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-the-goddesse-of-surrye": [
+   "tlg0062.tlg041.perseus-eng2",
+   "The Goddesse of Surrye",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-on-funerals": [
+   "tlg0062.tlg036.perseus-eng2",
+   "On Funerals",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-on-salaried-posts-in-great-houses": [
+   "tlg0062.tlg033.perseus-eng2",
+   "On Salaried Posts in Great Houses",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-the-parasite-tychiades": [
+   "tlg0062.tlg030.perseus-eng2",
+   "The Parasite Tychiades",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-the-judgement-of-the-goddesses": [
+   "tlg0062.tlg032.perseus-eng2",
+   "The Judgement of the Goddesses",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-demonax": [
+   "tlg0062.tlg008.perseus-eng2",
+   "Demonax",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-amber-or-the-swan": [
+   "tlg0062.tlg005.perseus-eng2",
+   "Amber, or the Swan",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-the-dream-or-the-cock": [
+   "tlg0062.tlg019.perseus-eng2",
+   "The Dream, or the Cock",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-smith-the-cock": [
+   "tlg0062.tlg019.perseus-eng5",
+   "The Cock",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Lucian. Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
+  ],
+  "lucian-perseus-harmon-heracles-an-introduction": [
+   "tlg0062.tlg004.perseus-eng2",
+   "Heracles: an Introduction",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-hippias-or-the-bath": [
+   "tlg0062.tlg002.perseus-eng2",
+   "Hippias, or the Bath",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-icaromenippus-or-the-sky-man": [
+   "tlg0062.tlg021.perseus-eng2",
+   "Icaromenippus, or the Sky-man",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-harmon-essays-in-portraiture": [
+   "tlg0062.tlg039.perseus-eng2",
+   "Essays in Portraiture",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": [
+   "tlg0062.tlg014.perseus-eng2",
+   "The Consonants at Law Sigma Vs. Tau, in the Court of the Seven Vowels",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-zeus-catechized": [
+   "tlg0062.tlg017.perseus-eng2",
+   "Zeus Catechized",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-harmon-zeus-rants": [
+   "tlg0062.tlg018.perseus-eng2",
+   "Zeus Rants",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-smith-zeus-the-tragedian": [
+   "tlg0062.tlg018.perseus-eng5",
+   "Zeus the Tragedian",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
+  ],
+  "lucian-perseus-harmon-octogenerians": [
+   "tlg0062.tlg011.perseus-eng2",
+   "Octogenerians",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-the-fly": [
+   "tlg0062.tlg006.perseus-eng2",
+   "The Fly",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-menippus-or-the-descent-into-hades": [
+   "tlg0062.tlg035.perseus-eng2",
+   "Menippus, or the Descent Into Hades",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-nigrinus": [
+   "tlg0062.tlg007.perseus-eng2",
+   "Nigrinus",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-my-native-land": [
+   "tlg0062.tlg010.perseus-eng2",
+   "My Native Land",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-phalaris": [
+   "tlg0062.tlg001.perseus-eng2",
+   "Phalaris",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad": [
+   "tlg0062.tlg031.perseus-eng2",
+   "The Lover of Lies, or the Doubter Tychiades",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman": [
+   "tlg0062.tlg025.perseus-eng2",
+   "The Dead Come to Life, or the Fisherman",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-harmon-essays-in-portraiture-defended": [
+   "tlg0062.tlg040.perseus-eng2",
+   "Essays in Portraiture Defended",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-prometheus": [
+   "tlg0062.tlg020.perseus-eng2",
+   "Prometheus",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-harmon-a-professor-of-public-speaking": [
+   "tlg0062.tlg037.perseus-eng2",
+   "A Professor of Public Speaking",
+   "Austin Morris Harmon",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 4. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1925 (printing)."
+  ],
+  "lucian-perseus-harmon-the-dream-or-lucian-s-career": [
+   "tlg0062.tlg029.perseus-eng2",
+   "The Dream or Lucian’s Career",
+   "Austin Morris Harmon",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 3. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1921."
+  ],
+  "lucian-perseus-smith-the-dream": [
+   "tlg0062.tlg029.perseus-eng5",
+   "The Dream",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Lucian. Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
+  ],
+  "lucian-perseus-harmon-the-carousal-or-the-lapiths": [
+   "tlg0062.tlg015.perseus-eng2",
+   "The Carousal, or the Lapiths",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-harmon-timon-or-the-misanthrope": [
+   "tlg0062.tlg022.perseus-eng2",
+   "Timon, or the Misanthrope",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-smith-toxaris-or-friendship": [
+   "tlg0062.tlg044.perseus-eng5",
+   "Toxaris; Or, Friendship",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
+  ],
+  "lucian-perseus-harmon-a-true-story": [
+   "tlg0062.tlg012.perseus-eng2",
+   "A True Story",
+   "Austin Morris Harmon",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 1. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1913."
+  ],
+  "lucian-perseus-smith-a-true-history": [
+   "tlg0062.tlg012.perseus-eng5",
+   "A True History",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York; Harper Brothers, 1892."
+  ],
+  "lucian-perseus-harmon-philosophies-for-sale": [
+   "tlg0062.tlg024.perseus-eng2",
+   "Philosophies for Sale",
+   "Austin Morris Harmon",
+   "Translation published 1915: US public domain (in or before 1930). Perseus source line: Lucian, Vol. 2. Harmon, Austin Morris, editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1915."
+  ],
+  "lucian-perseus-smith-the-sale-of-lives": [
+   "tlg0062.tlg024.perseus-eng5",
+   "The Sale of Lives",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Lucian. Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
+  ],
+  "lucian-perseus-smith-loukios-or-the-ass": [
+   "tlg0061.tlg001.perseus-eng1",
+   "Loukios, or the Ass",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translators. New York; Harper Brothers, 1892."
+  ],
+  "lucian-perseus-fowler-the-cynic": [
+   "tlg0061.tlg006.perseus-eng1",
+   "The Cynic",
+   "Henry Watson Fowler and Francis George Fowler",
+   "Translation published 1905: US public domain (in or before 1930). Perseus source line: The Works of Lucian of Samosata, complete, with exceptions specified in the preface, Vol. 4. Fowler, H. W. and Fowler, F.G., translators. Oxford: Clarendon Press, 1905."
+  ],
+  "lucian-perseus-fowler-demosthenes-an-encomium": [
+   "tlg0061.tlg003.perseus-eng1",
+   "Demosthenes: an Encomium",
+   "Henry Watson Fowler and Francis George Fowler",
+   "Translation published 1905: US public domain (in or before 1930). Perseus source line: The Works of Lucian of Samosata; complete, with exceptions specified in the preface, Vol. 4. Fowler, H. W. and Fowler, F.G., translators. Oxford: Clarendon Press, 1905."
+  ],
+  "lucian-perseus-smith-the-halcyon": [
+   "tlg0061.tlg004.perseus-eng1",
+   "The Halcyon",
+   "Emily James Smith",
+   "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translator. New York: Harper Brothers, 1892."
+  ]
+ }
 }
