@@ -43,8 +43,9 @@
     },
     {
       "id": "macdonald",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — George MacDonald (1824-1905): fantasies, fairy tales, novels, sermons, poetry; shelf + fetch + convert + map section; no minting"
+      "status": "running",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — George MacDonald (1824-1905): fantasies, fairy tales, novels, sermons, poetry; shelf + fetch + convert + map section; no minting",
+      "started": "2026-10-02T15:34:21-05:00"
     },
     {
       "id": "grimm",
