@@ -207,3 +207,6 @@
 
 ## 2026-10-02 17:20 CDT — steel: done
 - 2/2 fetched (Gutenberg 6145, 17034), 3,888 units; Punjab nested (0 ~2), English Fairy Tales 24 ~2 from captions.
+
+## 2026-10-02 17:20 CDT — crane: done
+- 1/1 fetched (Gutenberg 23634), 1,963 units, 0 ~2 ids; nested chapter > tale, notes apart.

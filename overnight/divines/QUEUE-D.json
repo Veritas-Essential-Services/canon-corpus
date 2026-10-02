@@ -378,8 +378,10 @@
     },
     {
       "id": "crane",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — T. F. Crane's Italian Popular Tales; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — T. F. Crane's Italian Popular Tales; no minting",
+      "finished": "2026-10-02T17:20:15-05:00",
+      "notes": "1/1 fetched (Gutenberg 23634), 1,963 units, 0 ~2 ids; nested chapter > tale, notes apart."
     },
     {
       "id": "grinnell",

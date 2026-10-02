@@ -986,6 +986,14 @@ Shelf: `pipeline/steel_shelf.json` (2026-10-02; added at the coordinator's relay
 | English Fairy Tales, retold by Flora Annie Steel (1918) | have | PG 17034, `steel-english-fairy-tales` (2073 units) |
 | steel-novels | excluded | her novels and Indian stories (On the Face of the Waters and some twenty others, PG 39794-40142): fiction, outside a folk-tale batch |
 
+## T. F. Crane (Italian Popular Tales)
+
+Shelf: `pipeline/crane_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Crane's translations, cut Chapter > numbered tale (the tales are numbered through the book), and his notes nested under NOTES by chapter. The introduction and bibliography are front matter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Italian Popular Tales, tr. Thomas Frederick Crane (1885) | have | PG 23634, `crane-italian-popular-tales` (1963 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

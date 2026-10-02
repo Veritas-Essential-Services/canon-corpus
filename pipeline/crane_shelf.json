@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Frederick Crane's (1844-1927) Italian Popular Tales (1885): Italian folk tales he translated from the Italian collections, with his notes. Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Thomas Frederick Crane",
+ "_name_words": [
+  "italian",
+  "popular",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "crane-italian-popular-tales": [
+   23634,
+   "Italian Popular Tales, tr. Thomas Frederick Crane (1885)",
+   {
+    "levels": [
+     {
+      "re": "(?:NOTES|INDEX)\\.?$"
+     },
+     {
+      "re": "(?:FAIRY TALES(?: CONTINUED)?|STORIES OF ORIENTAL ORIGIN|LEGENDS AND GHOST STORIES|NURSERY TALES|STORIES AND JESTS)\\.?$"
+     },
+     {
+      "re": "[IVXLC]+\\. [A-Z][A-Z’' ,.:-]+\\.?$"
+     }
+    ],
+    "start": "FAIRY TALES\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
