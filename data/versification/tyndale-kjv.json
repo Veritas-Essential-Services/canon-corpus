@@ -19,15 +19,15 @@
   "verses": 7888,
   "books": 10,
   "verses_landing_on_no_kjv_verse_unexplained": 0,
-  "kjv_verses_reached_from_no_verse": 1
+  "kjv_verses_reached_from_no_verse": 3
  },
  "counts": {
-  "differing_verses": 7,
-  "spanning_several_kjv_verses": 7,
-  "kjv_verses_shared_by_several_verses": 0,
+  "differing_verses": 9,
+  "spanning_several_kjv_verses": 6,
+  "kjv_verses_shared_by_several_verses": 1,
   "verses_with_no_kjv_verse": 0,
   "aligned_chapters": 0,
-  "house_rows": 2
+  "house_rows": 6
  },
  "aligned_chapters": {},
  "house_rows": {
@@ -44,6 +44,31 @@
     "1Cor.3.22"
    ],
    "why": "the slot before it is empty: the transcription puts both verses' words here (old spelling hides it from the alignment; read in both texts)"
+  },
+  "Rom.14.7": {
+   "kjv": [
+    "Rom.14.6"
+   ],
+   "why": "the end of the KJV's 14:6, which Tyndale numbers as 14:7 (found in review)"
+  },
+  "Rom.14.8": {
+   "kjv": [
+    "Rom.14.7",
+    "Rom.14.8"
+   ],
+   "why": "Tyndale's 14:8 holds the KJV's 14:7 and 14:8 (found in review)"
+  },
+  "Luke.17.36": {
+   "kjv": [
+    "Luke.17.37"
+   ],
+   "why": "the KJV's 17:37 in the 17:36 slot; this transcription has no words for the KJV's 17:36 (found in review)"
+  },
+  "Rev.21.26": {
+   "kjv": [
+    "Rev.21.27"
+   ],
+   "why": "the KJV's 21:27 in the 21:26 slot; this transcription has no words for the KJV's 21:26 (found in review)"
   }
  },
  "empty_slots": [
@@ -1249,7 +1274,9 @@
  },
  "no_kjv_verse": [],
  "kjv_without_verse": {
-  "Mark.11.26": "this transcription of Tyndale has no words for it"
+  "Mark.11.26": "this transcription of Tyndale has no words for it",
+  "Luke.17.36": "this transcription of Tyndale has no words for it",
+  "Rev.21.26": "this transcription of Tyndale has no words for it"
  },
  "map": {
   "Gen.9.28": [
@@ -1260,13 +1287,15 @@
    "Matt.5.47",
    "Matt.5.48"
   ],
-  "Luke.17.36": [
-   "Luke.17.36",
-   "Luke.17.37"
-  ],
+  "Luke.17.36": "Luke.17.37",
   "Rom.1.23": [
    "Rom.1.22",
    "Rom.1.23"
+  ],
+  "Rom.14.7": "Rom.14.6",
+  "Rom.14.8": [
+   "Rom.14.7",
+   "Rom.14.8"
   ],
   "1Cor.3.22": [
    "1Cor.3.21",
@@ -1276,9 +1305,6 @@
    "Heb.11.39",
    "Heb.11.40"
   ],
-  "Rev.21.26": [
-   "Rev.21.26",
-   "Rev.21.27"
-  ]
+  "Rev.21.26": "Rev.21.27"
  }
 }

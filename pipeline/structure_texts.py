@@ -179,6 +179,15 @@ def convert_thml(path, slug):
                                   "of print editions need an anchor table (Concordance)"},
             "units": units}
 
+def _kjv_field_rights(map_rel):
+    """The rights of each unit's `kjv` field, which comes from a TVTMS-derived
+    map (CC BY 4.0), not from the public-domain text it sits beside."""
+    return {"from": map_rel, "license": "CC BY 4.0",
+            "attribution": "Data created by www.STEPBible.org based on work at Tyndale "
+                           "House Cambridge (CC BY 4.0)",
+            "source_url": "https://github.com/STEPBible/STEPBible-Data",
+            "redistribute_whole": False}
+
 # ---------------------------------------------------------------- KJV (Gutenberg)
 
 KJV_BOOKS = [
@@ -435,7 +444,8 @@ def convert_vulgate(vdir, books, digest, slug="vulgate"):
                        "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
                        "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
                        "requests": "acknowledge the source; report typographical errors to the "
-                                   "project; make modifications clear (requests, not a licence)"},
+                                   "project; make modifications clear (requests, not a licence)",
+                       "kjv_field": _kjv_field_rights("data/versification/vulgate-kjv.json")},
             "units": units}
 
 # ---------------------------------------------------------------- Douay-Rheims
@@ -472,7 +482,11 @@ DOUAY_NAMES = [   # the file's own book names, in order: a reordered file fails 
 # the Douay verse), where that is not the verse of the same number. Each was
 # read against the Latin; the words are checked, so a changed file fails loudly.
 DOUAY_ROWS = {
-    "Ps.15.11": (["Ps.15.10"], "made known to me the ways of life"),
+    # A third element names the KJV verse(s) outright, where the Douay splits a
+    # Clementine verse that holds several KJV verses (Clementine Ps 15:10 is the
+    # KJV's 16:10-11; the Douay's 15:10 and 15:11 are one each).
+    "Ps.15.10": (["Ps.15.10"], "not leave my soul in hell", ["Ps.16.10"]),
+    "Ps.15.11": (["Ps.15.10"], "made known to me the ways of life", ["Ps.16.11"]),
     "Ps.42.5": (["Ps.42.4", "Ps.42.5"], "give praise upon the harp"),
     "Ps.42.6": (["Ps.42.5"], "Hope in God"),
     "Ps.125.7": (["Ps.125.6"], "carrying their sheaves"),
@@ -504,7 +518,7 @@ def douay_vulgate(ref, vchapters):
     if ref in DOUAY_ROWS:
         return list(DOUAY_ROWS[ref][0])
     b, c, v = ref.split(".")
-    return [ref] if int(v) <= vchapters.get(f"{b}.{c}", 0) else []
+    return [ref] if 1 <= int(v) <= vchapters.get(f"{b}.{c}", 0) else []
 
 
 def convert_douay(path, books, sha, slug="douay"):
@@ -544,7 +558,15 @@ def convert_douay(path, books, sha, slug="douay"):
                     vl = douay_vulgate(ref, vch)
                     u["vulgate"] = [f"vulgate:{x}" for x in vl]
                     rs = [_V.resolve_vulgate(x, vmap, kjv_ids) for x in vl]
-                    if rs and all(r["resolved"] for r in rs):
+                    named = DOUAY_ROWS[ref][2] if len(DOUAY_ROWS.get(ref, ())) > 2 else None
+                    if named:
+                        ks = [f"kjv:{k}" for k in named]
+                        if any(k not in kjv_ids for k in ks):
+                            raise ValueError(f"DOUAY_ROWS {ref}: {ks} is not a KJV unit")
+                        u["kjv"] = {"resolved": True, "target": ks[0]}
+                        if len(ks) > 1:
+                            u["kjv"]["spans"] = ks
+                    elif rs and all(r["resolved"] for r in rs):
                         ts = []
                         for r in rs:
                             for t in r.get("spans", [r["target"]]):
@@ -579,7 +601,10 @@ def convert_douay(path, books, sha, slug="douay"):
             "rights": {"license": "public-domain",
                        "attribution": "Douay-Rheims Bible, Challoner revision, via "
                                       "scrollmapper/bible_databases",
-                       "source_url": "https://github.com/scrollmapper/bible_databases"},
+                       "source_url": "https://github.com/scrollmapper/bible_databases",
+                       "rights_line": "DRC: Douay-Rheims Bible, Challoner Revision. "
+                                      "License: Public Domain",
+                       "kjv_field": _kjv_field_rights("data/versification/vulgate-kjv.json")},
             "units": units}
 
 # ---------------------------------------------------------------- Brenton
@@ -732,7 +757,8 @@ def convert_brenton(zpath, sha, slug="brenton"):
                        "attribution": "Brenton's English Septuagint, transcribed and corrected "
                                       "by eBible.org (eng-Brenton)",
                        "source_url": "https://ebible.org/eng-Brenton/",
-                       "requests": "eBible asks that errors in the text be reported to it"},
+                       "requests": "eBible asks that errors in the text be reported to it",
+                       "kjv_field": _kjv_field_rights("data/versification/brenton-kjv.json")},
             "units": units}
 
 # ---------------------------------------------------------------- historic English Bibles
@@ -752,6 +778,11 @@ def convert_brenton(zpath, sha, slug="brenton"):
 ENGLISH_RULES = {
     "darby": [(re.compile(r"(?<=[a-z])(?=God(?:head)?\b)"), " ",
                "a space restored before 'God', lost when the source's markup was stripped")],
+    "tyndale": [(re.compile(r"\b(sayde|them|him|saynge)(?=(?:Wylt|And|Beholde|Whe)\b)"), r"\1 ",
+                 "a space restored between two words the source runs together (Gen 18:23, "
+                 "19:9, 27:39, 32:17); 'BenIamin' and 'xM' (Rev 9:16) are left as printed")],
+    "geneva": [(re.compile(r"\btoAsaph\b"), "to Asaph",
+                "a space restored in Ps 75:1's title ('committed toAsaph')")],
 }
 
 
@@ -812,8 +843,10 @@ def convert_english(path, slug, sha):
                           if slug in ENGLISH_RULES else {}),
                        "note": "Ids are the module's slots: the Bible's own numbers wherever it "
                                "numbers as the KJV does; where a chapter numbers otherwise "
-                               "(the Geneva follows the Hebrew in Num 13, Dan 4 and others) "
-                               "its verses fill the KJV's slots in order and the overflow sits "
+                               + ("(the Geneva follows the Hebrew in Num 13, Dan 4 and others) "
+                                  if slug == "geneva" else
+                                  "(the map's `aligned_chapters` lists any; often none) ")
+                               + "its verses fill the KJV's slots in order and the overflow sits "
                                "in the last slot. Each unit's `kjv` names the KJV verse(s) "
                                "holding the same words, by "
                                f"data/versification/{slug}-kjv.json; no uids minted."},
@@ -2093,10 +2126,26 @@ def main():
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))
     force = "--force" in os.sys.argv
+    # A Bible's `kjv` fields come from a committed map, read at build time. A
+    # kept book records the map it was built with; a changed (or newly built)
+    # map rebuilds it, so the fields never go stale behind the resume.
+    vdir_ = os.path.join(HERE, "..", "data", "versification")
+    map_of = {"vulgate": "vulgate-kjv.json", "douay": "vulgate-kjv.json",
+              "brenton": "brenton-kjv.json",
+              **{s_: f"{s_}-kjv.json" for s_ in _fs.ENGLISH}}
+
+    def map_sha(slug):
+        mp = os.path.join(vdir_, map_of[slug]) if slug in map_of else None
+        return sha256(mp) if mp and os.path.exists(mp) else None
     for slug, job in jobs:
         out = os.path.join(BOOKS, slug + ".json")
+        book = None
         if os.path.exists(out) and not force:   # resumable: reuse, still record in manifest
             book = json.load(open(out, encoding="utf-8"))
+            if book["scheme"].get("kjv_map_sha256") != map_sha(slug):
+                print(f"{slug}: its KJV map changed since it was built: rebuilding")
+                book = None
+        if book is not None:
             manifest[slug] = {"title": book["title"], "author": book["author"],
                               "format": book["source"]["format"],
                               "sha256": book["source"]["sha256"],
@@ -2105,6 +2154,8 @@ def main():
             print(f"{slug}: {len(book['units'])} units (kept)")
             continue
         book = job()
+        if map_sha(slug):
+            book["scheme"]["kjv_map_sha256"] = map_sha(slug)
         seen = {}                       # guarantee unique unit ids (stable refs)
         for u in book["units"]:
             if u["id"] in seen:

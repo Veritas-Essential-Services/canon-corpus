@@ -19,15 +19,15 @@
   "verses": 31099,
   "books": 66,
   "verses_landing_on_no_kjv_verse_unexplained": 0,
-  "kjv_verses_reached_from_no_verse": 3
+  "kjv_verses_reached_from_no_verse": 4
  },
  "counts": {
-  "differing_verses": 2,
+  "differing_verses": 3,
   "spanning_several_kjv_verses": 0,
-  "kjv_verses_shared_by_several_verses": 0,
+  "kjv_verses_shared_by_several_verses": 1,
   "verses_with_no_kjv_verse": 0,
   "aligned_chapters": 0,
-  "house_rows": 2
+  "house_rows": 3
  },
  "aligned_chapters": {},
  "house_rows": {
@@ -42,6 +42,12 @@
     "Phil.1.16"
    ],
    "why": "Phil 1:16-17 in the order of the Greek the revisers followed: the KJV's two verses swapped"
+  },
+  "1John.5.7": {
+   "kjv": [
+    "1John.5.8"
+   ],
+   "why": "the opening of the KJV's 5:8; Darby prints no heavenly witnesses (found in review)"
   }
  },
  "empty_slots": [
@@ -1244,10 +1250,12 @@
  "kjv_without_verse": {
   "Matt.23.14": "Darby leaves it out of his text (a verse the oldest manuscripts lack)",
   "Acts.8.37": "Darby leaves it out of his text (a verse the oldest manuscripts lack)",
-  "Acts.15.34": "Darby leaves it out of his text (a verse the oldest manuscripts lack)"
+  "Acts.15.34": "Darby leaves it out of his text (a verse the oldest manuscripts lack)",
+  "1John.5.7": "the heavenly witnesses (the Comma Johanneum), which Darby does not print; his 5:7-8 are the KJV's 5:8"
  },
  "map": {
   "Phil.1.16": "Phil.1.17",
-  "Phil.1.17": "Phil.1.16"
+  "Phil.1.17": "Phil.1.16",
+  "1John.5.7": "1John.5.8"
  }
 }

@@ -105,7 +105,10 @@ def _no_kjv(osis, m):
 def resolve_vulgate(osis, m, kjv_ids):
     """What a verse in the Clementine's numbering ('Ps.50.3') names in the
     KJV, as fields for a unit or a link. Resolved only when every KJV verse it
-    lands on has a unit id."""
+    lands on has a unit id. A verse holding a psalm title and verse 1 is
+    resolved to verse 1, and its `spans` keep the title as a bare 'Ps.13.title'
+    (no kjv: prefix: a KJV title is no unit). The Hebrew `resolve` marks the
+    same case unresolved, since a BDB citation of it means the title."""
     b, ch, v = osis.split(".")
     if not 1 <= int(v) <= m["vulgate_chapters"].get(f"{b}.{ch}", 0):
         return {"resolved": False, "why": "no such verse in the Clementine Vulgate"}
@@ -164,7 +167,8 @@ def _no_kjv_brenton(osis, m):
 def resolve_brenton(osis, m, kjv_ids):
     """What a verse in Brenton's numbering ('Ps.50.3', '1Kgs.12.24a',
     'Ezra.11.1') names in the KJV, as fields for a unit or a link. Resolved
-    only when every KJV verse it lands on has a unit id."""
+    only when every KJV verse it lands on has a unit id. `spans` keeps a psalm
+    title bare, as resolve_vulgate does."""
     b, ch, v = osis.split(".")
     if v not in brenton_labels(f"{b}.{ch}", m):
         return {"resolved": False, "why": "no such verse in Brenton's Septuagint"}
@@ -190,6 +194,8 @@ def resolve_english(osis, m, kjv_ids):
     has a unit id."""
     b, ch, v = osis.split(".")
     have = m["chapters"].get(f"{b}.{ch}", 0)
+    if not v.isdigit():
+        return {"resolved": False, "why": f"no such verse in {m['source']['name']}"}
     if not (int(v) <= have if isinstance(have, int) else v in have.split(",")) or int(v) < 1:
         return {"resolved": False, "why": f"no such verse in {m['source']['name']}"}
     for row in m["no_kjv_verse"]:

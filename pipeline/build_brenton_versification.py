@@ -39,8 +39,8 @@ verse, so a changed source fails loudly. The build refuses to write unless
   * every Brenton verse lands on a kjv: unit or a KJV psalm title, or is
     named as having no KJV verse, with why;
   * every KJV verse is reached from a Brenton verse, or the followed column
-    says Brenton has none, or Brenton prints no verse of its number (taken
-    to be wanting in the Greek, and said so).
+    says Brenton has none, or Brenton prints no verse of its number (said
+    so, and not read verse by verse: the text may be in a neighbour).
 
 WHAT THE MAP SAYS: `map` lists the Brenton verses whose KJV reference
 differs (a list value: several KJV verses). `no_kjv_verse` names, by run,
@@ -128,6 +128,11 @@ SKIP_BLOCKS = {"$Jer.49:1-49:39": _JER49}
 # KJV verses no Brenton verse holds, where a skipped block would have said so.
 KJV_ABSENT = {"Jer.49.6": "the Greek has no verse for it (TVTMS: Jer.30:22 [Empty]); "
                           "Brenton prints 30:22 empty"}
+_REVIEW = ("found in review, reading Brenton's English against the KJV's: the KJV verse(s) "
+           "named hold this verse's text, and TVTMS's row (or its silence, the same number) "
+           "does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], "
+           "which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. "
+           "1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)")
 HOUSE_ROWS = {
     **{v: (es, w, _PROV24) for v, (es, w) in {
         "Prov.24.22f": (["Prov.30.1"], "My son, reverence my words"),
@@ -212,6 +217,26 @@ HOUSE_ROWS = {
         "Prov.16.9": (["Prov.16.4"], "All the works of the"),
         "Obad.1.2": (["Obad.1.1"], "Arise ye, and let us"),
         "Obad.1.3": (["Obad.1.2", "Obad.1.3"], "Behold, I have made thee"),
+    }.items()},
+    **{v: (es, w, _REVIEW) for v, (es, w) in {
+        "Ps.97.1": (["Ps.98.title", "Ps.98.1"], "A Psalm of David. Sing to the Lord a new song"),
+        "Ps.98.1": (["Ps.99.1"], "A Psalm of David. The Lord reigns"),
+        "Josh.19.47": (["Josh.19.48"], "This is the inheritance of the tribe"),
+        "Josh.19.48": (["Josh.19.47"], "fought against Lachis"),
+        "Deut.23.25": (["Deut.23.25"], "the corn field of thy neighbour"),
+        "Deut.23.26": (["Deut.23.24"], "the vineyard of thy neighbour"),
+        "Prov.31.26": (["Prov.31.27"], "The ways of her household"),
+        "Prov.31.27": (["Prov.31.26"], "she opens her mouth wisely"),
+        "Gen.35.16": (["Gen.35.16", "Gen.35.21"], "beyond the tower of Gader"),
+        "2Sam.23.29": (["2Sam.23.29", "2Sam.23.31", "2Sam.23.32"], "Asmoth the Bardiamite"),
+        "1Kgs.2.46b": (["1Kgs.4.21"], "they brought gifts, and served Solomon"),
+        "1Kgs.2.46c": ([], "open the domains of Libanus"),
+        "1Kgs.2.46d": (["1Kgs.9.18"], "built Therm"),
+        "1Kgs.2.46e": (["1Kgs.4.22", "1Kgs.4.23"], "the daily provision of Solomon"),
+        "1Kgs.2.46f": (["1Kgs.4.24"], "from Raphi unto Gaza"),
+        "1Kgs.2.46g": (["1Kgs.4.24", "1Kgs.4.25"], "at peace on all sides"),
+        "1Kgs.2.46h": (["1Kgs.4.2", "1Kgs.4.3", "1Kgs.4.4", "1Kgs.4.5", "1Kgs.4.6"],
+                       "these were the princes of Solomon"),
     }.items()},
     "Jer.10.9a": (["Jer.10.5"], "They must certainly be borne",
                   "the second half of the KJV's Jer 10:5, which the Greek has after 10:9"),
@@ -726,8 +751,10 @@ def compute():
             without[e] = (f"TVTMS's followed column puts it at {', '.join(paired_from[e])}, "
                           f"which Brenton does not print")
         elif e not in vw:
-            without[e] = ("Brenton prints no verse of this number: taken to be wanting "
-                          "in the Greek (TVTMS does not say)")
+            without[e] = ("Brenton prints no verse of this number and TVTMS does not say "
+                          "why; not read verse by verse, so the text may stand in a "
+                          "neighbouring verse of his (review found Gen 35:21 in his 35:16 "
+                          "and 2 Sam 23:31 in his 23:29)")
         else:
             unexplained.append(e)
     if unexplained and os.environ.get("BRENTON_EXPLORE"):
@@ -1005,6 +1032,9 @@ def main():
         audit()
         return
     blob = render(build())
+    if os.environ.get("BRENTON_EXPLORE"):
+        _stop("BRENTON_EXPLORE is set: the invariants are not enforced, so nothing is "
+              "written or checked")
     rel = os.path.relpath(OUT, ROOT)
     if a.check:
         if not os.path.exists(OUT):
@@ -1013,8 +1043,6 @@ def main():
             _stop(f"{rel} differs from a rebuild")
         print(f"OK: {rel} byte-identical; every invariant holds")
         return
-    if os.environ.get("BRENTON_EXPLORE"):
-        _stop("BRENTON_EXPLORE is set: the invariants were not enforced, so nothing is written")
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT + ".tmp", "wb") as f:
         f.write(blob)

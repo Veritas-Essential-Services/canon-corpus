@@ -83,6 +83,16 @@ HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
     "tyndale": {
         "Rom.1.23": (["Rom.1.22", "Rom.1.23"], "When they couted them selves wyse", _EMPTY),
         "1Cor.3.22": (["1Cor.3.21", "1Cor.3.22"], "Therfore let no ma reioyce in men", _EMPTY),
+        "Rom.14.7": (["Rom.14.6"], "he yt eateth not eateth not",
+                     "the end of the KJV's 14:6, which Tyndale numbers as 14:7 (found in review)"),
+        "Rom.14.8": (["Rom.14.7", "Rom.14.8"], "none of vs lyveth his awne servaut",
+                     "Tyndale's 14:8 holds the KJV's 14:7 and 14:8 (found in review)"),
+        "Luke.17.36": (["Luke.17.37"], "wheare Lorde",
+                       "the KJV's 17:37 in the 17:36 slot; this transcription has no words "
+                       "for the KJV's 17:36 (found in review)"),
+        "Rev.21.26": (["Rev.21.27"], "none vnclene thynge",
+                      "the KJV's 21:27 in the 21:26 slot; this transcription has no words "
+                      "for the KJV's 21:26 (found in review)"),
     },
     "ylt": {
         "Gen.18.11": (["Gen.18.10"], "Sarah is hearkening at the opening of the tent",
@@ -96,10 +106,16 @@ HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
                      "Young's 1:17 ends with the KJV's 2:1; his 2:1-2 are the KJV's 2:2"),
         "Zech.7.6": (["Zech.7.5", "Zech.7.6"], "When ye fasted with mourning",
                      "Young's 7:6 opens with the second half of the KJV's 7:5"),
+        "Hos.13.9": (["Hos.13.8"], "I consume them there as a lioness",
+                     "the end of the KJV's 13:8; Young's 13:10 holds the KJV's 13:9-10 "
+                     "(found in review)"),
     },
     "darby": {
         "Phil.1.16": (["Phil.1.17"], "These indeed out of love", _PHIL),
         "Phil.1.17": (["Phil.1.16"], "but those out of contention", _PHIL),
+        "1John.5.7": (["1John.5.8"], "For they that bear witness are three",
+                      "the opening of the KJV's 5:8; Darby prints no heavenly witnesses "
+                      "(found in review)"),
     },
     "asv": {
         "Phil.1.16": (["Phil.1.17"], "the one do it of love", _PHIL),
@@ -328,9 +344,12 @@ def compute(slug):
 
 
 HOUSE_MISSING = {    # {slug: {KJV verse: why the Bible has no verse for it}}
-    "tyndale": {"Mark.11.26": "this transcription of Tyndale has no words for it"},
+    "tyndale": {v: "this transcription of Tyndale has no words for it"
+                for v in ["Mark.11.26", "Luke.17.36", "Rev.21.26"]},
     "darby": {v: "Darby leaves it out of his text (a verse the oldest manuscripts lack)"
-              for v in ["Matt.23.14", "Acts.8.37", "Acts.15.34"]},
+              for v in ["Matt.23.14", "Acts.8.37", "Acts.15.34"]}
+              | {"1John.5.7": "the heavenly witnesses (the Comma Johanneum), which Darby "
+                              "does not print; his 5:7-8 are the KJV's 5:8"},
     "asv": {**{v: "the ASV leaves it out of its text (a verse the oldest manuscripts lack)"
                for v in ["Matt.17.21", "Matt.18.11", "Matt.23.14", "Mark.7.16", "Mark.9.44",
                          "Mark.9.46", "Mark.11.26", "Mark.15.28", "Luke.17.36", "Luke.23.17",
@@ -469,6 +488,10 @@ def main():
         return
     for s in slugs:
         blob = render(build(s))
+        if os.environ.get("ENGLISH_EXPLORE"):
+            print(f"{s}: ENGLISH_EXPLORE is set: invariants not enforced; nothing written "
+                  f"or checked")
+            continue
         rel = os.path.relpath(out_path(s), ROOT)
         if a.check:
             if not os.path.exists(out_path(s)):
@@ -477,8 +500,6 @@ def main():
                 _stop(f"{rel} differs from a rebuild")
             print(f"OK: {rel} byte-identical; every invariant holds")
             continue
-        if os.environ.get("ENGLISH_EXPLORE"):
-            _stop("ENGLISH_EXPLORE is set: the invariants were not enforced, so nothing is written")
         with open(out_path(s) + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(out_path(s) + ".tmp", out_path(s))

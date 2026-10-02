@@ -145,6 +145,10 @@ _1CHR11 = ("1 Chr 11:32-35: the Clementine's breaks in the list of David's might
 _DOUAY_AUDIT = ("found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's "
                 "verse breaks, aligned against the KJV's) and read in the Latin: Jerome "
                 "re-divides the passage, so the KJV verse of the TVTMS number holds none of it")
+_HALF = ("found in review, reading the Douay against the KJV: the Clementine breaks a "
+         "psalm verse mid-line, so this verse also holds a clause the KJV numbers with a "
+         "neighbouring verse (the quoted Latin). Not every such half-verse is listed: the map names "
+         "the verse holding most of the text, and these are the ones review read")
 HOUSE_ROWS = {
     "Neh.7.42": (["Neh.7.42", "Neh.7.43"], "Levit", _NEH7),
     "Neh.7.43": (["Neh.7.43"], "Cedmihel", _NEH7),
@@ -191,7 +195,7 @@ HOUSE_ROWS = {
         "2Tim.4.9": (["2Tim.4.10"], "Demas enim me reliquit"),
         "Rev.20.7": (["Rev.20.7", "Rev.20.8"], "Gog, et Magog"),
         "Rev.20.8": (["Rev.20.9"], "circuierunt castra sanctorum"),
-        "Rev.20.9": (["Rev.20.10"], "missus est in stagnum"),
+        "Rev.20.9": (["Rev.20.9", "Rev.20.10"], "descendit ignis a Deo de c"),
     }.items()},
     "Matt.5.4": (["Matt.5.5"], "Beati mites",
                  "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then "
@@ -199,6 +203,21 @@ HOUSE_ROWS = {
     "Matt.5.5": (["Matt.5.4"], "Beati qui lugent",
                  "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then "
                  "meek. Same numbers, swapped text: TVTMS maps numbers, so it has no row"),
+    "Ps.97.1": (["Ps.98.title", "Ps.98.1"], "Psalmus ipsi David. Cantate",
+                "the Clementine prints the title in verse 1, and the KJV's Ps 98 has a title "
+                "('A Psalm'); TVTMS's Latin cell for that title reads [=Psa.98:1], which in the "
+                "Latin's numbering is KJV Ps 99, a psalm with no title"),
+    "Ps.98.1": (["Ps.99.1"], "Dominus regnavit",
+                "the KJV's Ps 99 has no title; the title TVTMS puts here is the KJV Ps 98's "
+                "(see Ps.97.1)"),
+    **{v: (es, w, _HALF) for v, (es, w) in {
+        # A Latin verse that also holds a clause of the KJV's verse before or after.
+        "Ps.3.7": (["Ps.3.6", "Ps.3.7"], "Exsurge, Domine"),
+        "Ps.5.6": (["Ps.5.4", "Ps.5.5"], "Neque habitabit juxta te malignus"),
+        "Ps.63.6": (["Ps.64.4", "Ps.64.5"], "Subito sagittabunt eum"),
+        "Ps.138.3": (["Ps.139.2", "Ps.139.3"], "Intellexisti cogitationes meas de longe"),
+        "Ps.145.2": (["Ps.146.2", "Ps.146.3"], "Nolite confidere in principibus"),
+    }.items()},
     "Ps.15.10": (["Ps.16.10", "Ps.16.11"], "Notas mihi fecisti vias vit",
                  "KJV 16:11 'Thou wilt shew me the path of life'; TVTMS's Latin has a "
                  "verse 15:11 the Clementine does not"),

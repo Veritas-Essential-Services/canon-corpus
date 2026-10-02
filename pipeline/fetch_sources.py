@@ -114,7 +114,8 @@ def fetch_vulgate():
             os.replace(p + ".tmp", p)
     got = vulgate_digest(d)
     if got != VULGATE["pin"]:
-        raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}")
+        raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}: delete "
+                           f"{d} and re-fetch (only the 73 files together are pinned)")
     return f"{len(VULGATE['books'])} books, digest pinned"
 
 
@@ -147,12 +148,14 @@ def fetch_douay():
         req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != DOUAY["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
         with open(p + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(p + ".tmp", p)
     with open(p, "rb") as f:
         got = hashlib.sha256(f.read()).hexdigest()
-    if got != DOUAY["sha256"]:
+    if got != DOUAY["sha256"]:     # a file already here: delete it and re-fetch
         raise RuntimeError(f"Douay-Rheims sha256 {got} != pinned {DOUAY['sha256']}")
     return "1 file, sha256 pinned"
 
@@ -209,12 +212,14 @@ def fetch_english(slug):
         req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != e["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
         with open(p + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(p + ".tmp", p)
     with open(p, "rb") as f:
         got = hashlib.sha256(f.read()).hexdigest()
-    if got != e["sha256"]:
+    if got != e["sha256"]:     # a file already here: delete it and re-fetch
         raise RuntimeError(f"{slug} sha256 {got} != pinned {e['sha256']}")
     return "1 file, sha256 pinned"
 
@@ -248,12 +253,14 @@ def fetch_brenton():
         req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != BRENTON["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
         with open(p + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(p + ".tmp", p)
     with open(p, "rb") as f:
         got = hashlib.sha256(f.read()).hexdigest()
-    if got != BRENTON["sha256"]:
+    if got != BRENTON["sha256"]:     # a file already here: delete it and re-fetch
         raise RuntimeError(f"Brenton sha256 {got} != pinned {BRENTON['sha256']}")
     return "1 archive, sha256 pinned"
 

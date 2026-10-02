@@ -183,7 +183,7 @@ The living truth for project state is the Obsidian vault:
 - pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
   map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
   rights block). TVTMS's tests are RUN against the Clementine to pick the
-  column each block follows; HOUSE_ROWS holds the 48 verses no column fits,
+  column each block follows; HOUSE_ROWS holds the 55 verses no column fits,
   each checked against the Latin (most found by --audit-douay). convert_vulgate
   gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
   numbering.
@@ -229,7 +229,12 @@ The living truth for project state is the Obsidian vault:
   hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
   pilot on this branch), and each shelf version, in that version's own
   numbering. Read off the committed maps and the built books' `kjv`; no new
-  judgement. A version's verse with no KJV verse is in no row.
+  judgement. A version's verse with no KJV verse is in no row. Its rights
+  note is data/parallel/README.md: the hebrew, vulgate, douay and brenton
+  columns are TVTMS-derived (CC BY 4.0), and so is every Vulgate, Douay and
+  Brenton unit's `kjv` (the manifest's `rights.kjv_field` says so). A built
+  Bible records its map's sha256 (`scheme.kjv_map_sha256`); structure_texts.py
+  rebuilds it when the map changes, so `kjv` never goes stale.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).

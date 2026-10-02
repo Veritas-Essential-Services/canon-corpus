@@ -27,17 +27,17 @@
   "brenton_verses": 28617,
   "kjv_verses": 23145,
   "brenton_verses_landing_on_no_kjv_verse_unexplained": 0,
-  "kjv_verses_reached_from_no_brenton_verse": 245,
+  "kjv_verses_reached_from_no_brenton_verse": 243,
   "tvtms_blocks_followed": 296,
   "tvtms_tests_brenton_cannot_answer": 67
  },
  "counts": {
-  "differing_brenton_verses": 4820,
+  "differing_brenton_verses": 4825,
   "to_psalm_titles": 120,
-  "spanning_several_kjv_verses": 78,
-  "kjv_verses_shared_by_several_brenton_verses": 31,
+  "spanning_several_kjv_verses": 83,
+  "kjv_verses_shared_by_several_brenton_verses": 39,
   "brenton_verses_with_no_kjv_verse": 5649,
-  "house_rows": 141
+  "house_rows": 158
  },
  "blocks_not_greek": {
   "$Gen.5:31--6:1": {
@@ -749,6 +749,116 @@
     "Obad.1.3"
    ],
    "why": "Brenton divides the passage differently from the KJV (the Greek's own verse breaks); read in both texts"
+  },
+  "Ps.97.1": {
+   "kjv": [
+    "Ps.98.title",
+    "Ps.98.1"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Ps.98.1": {
+   "kjv": [
+    "Ps.99.1"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Josh.19.47": {
+   "kjv": [
+    "Josh.19.48"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Josh.19.48": {
+   "kjv": [
+    "Josh.19.47"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Deut.23.25": {
+   "kjv": [
+    "Deut.23.25"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Deut.23.26": {
+   "kjv": [
+    "Deut.23.24"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Prov.31.26": {
+   "kjv": [
+    "Prov.31.27"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Prov.31.27": {
+   "kjv": [
+    "Prov.31.26"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "Gen.35.16": {
+   "kjv": [
+    "Gen.35.16",
+    "Gen.35.21"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "2Sam.23.29": {
+   "kjv": [
+    "2Sam.23.29",
+    "2Sam.23.31",
+    "2Sam.23.32"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46b": {
+   "kjv": [
+    "1Kgs.4.21"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46c": {
+   "kjv": [],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46d": {
+   "kjv": [
+    "1Kgs.9.18"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46e": {
+   "kjv": [
+    "1Kgs.4.22",
+    "1Kgs.4.23"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46f": {
+   "kjv": [
+    "1Kgs.4.24"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46g": {
+   "kjv": [
+    "1Kgs.4.24",
+    "1Kgs.4.25"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "1Kgs.2.46h": {
+   "kjv": [
+    "1Kgs.4.2",
+    "1Kgs.4.3",
+    "1Kgs.4.4",
+    "1Kgs.4.5",
+    "1Kgs.4.6"
+   ],
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
   },
   "Jer.10.9a": {
    "kjv": [
@@ -2246,7 +2356,6 @@
     "2Sam.23.37a-37c",
     "1Kgs.2.35a-35f",
     "1Kgs.2.35l-35o",
-    "1Kgs.2.46f",
     "1Kgs.2.46l",
     "1Kgs.6.36a",
     "1Kgs.10.26a",
@@ -2295,7 +2404,7 @@
     "Prov.27.21a",
     "Prov.28.17a"
    ],
-   "count": 122,
+   "count": 121,
    "why": "a passage the Greek has here and the Hebrew does not, lettered by Brenton; the KJV has no verse for it (some such passages repeat text the KJV has elsewhere)"
   },
   {
@@ -2311,6 +2420,13 @@
    ],
    "count": 1,
    "why": "the Greek's account of the finished work names the tabernacle's furnishings in its own order, and its 39:12 (the gold left over) is in no KJV verse; read item by item"
+  },
+  {
+   "verses": [
+    "1Kgs.2.46c"
+   ],
+   "count": 1,
+   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
   },
   {
    "verses": [
@@ -2467,12 +2583,11 @@
   }
  ],
  "kjv_without_brenton_verse": {
-  "Gen.35.21": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
   "Exod.28.23": "LongVerseElsewhere: English KJV Exo.28:23-28, which Brenton does not print (TVTMS line 235)",
   "Exod.28.26": "LongVerseElsewhere: English KJV Exo.28:23-28, which Brenton does not print (TVTMS line 235)",
   "Exod.28.27": "LongVerseElsewhere: English KJV Exo.28:23-28, which Brenton does not print (TVTMS line 235)",
   "Exod.28.28": "LongVerseElsewhere: English KJV Exo.28:23-28, which Brenton does not print (TVTMS line 235)",
-  "Exod.32.9": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Exod.32.9": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Exod.35.8": "OneToOne: Greek* Exo.35:8 [Empty] (TVTMS line 243)",
   "Exod.35.15": "OneToOne: Greek* Exo.35:15 [Empty] (TVTMS line 250)",
   "Exod.35.17": "OneToOne: Greek* Exo.35:17, which Brenton does not print (TVTMS line 252)",
@@ -2519,51 +2634,50 @@
   "Exod.40.30": "OneToOne: English KJV Exo.40:30, which Brenton does not print (TVTMS line 342)",
   "Deut.14.14": "OneToOne: English KJV Deu.14:14, which Brenton does not print (TVTMS line 435)",
   "Josh.6.4": "TVTMS's followed column puts it at Josh.6.4, which Brenton does not print",
-  "Josh.8.13": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Josh.8.26": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Josh.10.15": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Josh.8.13": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Josh.8.26": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Josh.10.15": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Josh.10.43": "TextMayBeMissing: Greek Absent (TVTMS line 477)",
   "Josh.13.33": "TextMayBeMissing: Greek Absent (TVTMS line 481)",
-  "Josh.20.4": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Josh.20.5": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Josh.20.6": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.13.1": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.17.41": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.17.50": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Josh.20.4": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Josh.20.5": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Josh.20.6": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.13.1": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.17.41": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.17.50": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Sam.17.55": "TextMayBeMissing: Greek Absent (TVTMS line 513)",
   "1Sam.17.56": "TextMayBeMissing: Greek Absent (TVTMS line 513)",
   "1Sam.17.57": "TextMayBeMissing: Greek Absent (TVTMS line 513)",
   "1Sam.17.58": "TextMayBeMissing: Greek Absent (TVTMS line 513)",
-  "1Sam.18.1": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.2": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.3": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.4": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.5": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.9": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.10": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.11": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.17": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.18": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Sam.18.19": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "1Sam.18.1": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.2": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.3": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.4": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.5": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.9": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.10": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.11": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.17": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.18": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Sam.18.19": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Sam.18.30": "TextMayBeMissing: Greek Absent (TVTMS line 517)",
-  "1Sam.23.12": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "2Sam.23.30": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "2Sam.23.31": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.11": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.12": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.13": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.14": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.18": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.32": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.6.33": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "1Sam.23.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "2Sam.23.30": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.11": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.13": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.14": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.18": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.32": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.6.33": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.7.22": "TextMayBeMissing: Greek* Absent (TVTMS line 584)",
   "1Kgs.7.31": "TextMayBeMissing: Greek* Absent (TVTMS line 590)",
-  "1Kgs.11.3": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "1Kgs.11.3": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.11.23": "LongVerseElsewhere: Greek* 1Ki.11:14.1, which Brenton does not print (TVTMS line 632)",
   "1Kgs.11.24": "LongVerseElsewhere: Greek* 1Ki.11:14.2, which Brenton does not print (TVTMS line 633)",
-  "1Kgs.11.39": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "1Kgs.11.39": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.12.17": "LongVerseDuplicated: Greek* 1Ki.12:17 [=1Ki.12:24.20], which Brenton does not print (TVTMS line 653)",
-  "1Kgs.13.27": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "1Kgs.13.27": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.14.7": "TextMayBeMissing: Greek* Absent (TVTMS line 664)",
   "1Kgs.14.8": "TextMayBeMissing: Greek* Absent (TVTMS line 664)",
   "1Kgs.14.9": "TextMayBeMissing: Greek* Absent (TVTMS line 664)",
@@ -2575,52 +2689,52 @@
   "1Kgs.14.18": "TextMayBeMissing: Greek* Absent (TVTMS line 669)",
   "1Kgs.14.19": "TextMayBeMissing: Greek* Absent (TVTMS line 669)",
   "1Kgs.14.20": "TextMayBeMissing: Greek* Absent (TVTMS line 669)",
-  "1Kgs.15.6": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Kgs.15.32": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.11": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.12": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.13": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.14": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.15": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.16": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.18": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.19": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.20": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.21": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.22": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "1Chr.1.23": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "2Chr.3.12": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "2Chr.27.8": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "1Kgs.15.6": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Kgs.15.32": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.11": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.13": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.14": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.15": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.16": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.18": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.19": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.20": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.21": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.22": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "1Chr.1.23": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "2Chr.3.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "2Chr.27.8": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Neh.4.6": "OneToOne: Greek Absent (TVTMS line 743)",
   "Neh.7.68": "MergedFollVerse: Greek Neh.7:68, which Brenton does not print (TVTMS line 749)",
-  "Neh.11.16": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.20": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.21": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.28": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.29": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.32": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.33": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.34": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.11.35": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.12.4": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.12.5": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Neh.12.6": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Neh.11.16": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.20": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.21": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.28": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.29": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.32": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.33": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.34": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.11.35": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.12.4": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.12.5": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Neh.12.6": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Neh.12.38": "TVTMS's followed column puts it at Neh.12.38, which Brenton does not print",
   "Neh.12.40": "TVTMS's followed column puts it at Neh.12.40, which Brenton does not print",
   "Neh.12.41": "TVTMS's followed column puts it at Neh.12.41, which Brenton does not print",
   "Esth.4.6": "TVTMS's followed column puts it at Esth.4.6, which Brenton does not print",
-  "Esth.9.5": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Esth.9.5": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Esth.9.30": "OneToOne: Greek Est.9:30, which Brenton does not print (TVTMS line 838)",
-  "Job.23.14": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Job.35.3": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.1.16": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.4.7": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.8.33": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.11.4": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.13.6": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.15.31": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.16.1": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.16.3": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Job.23.14": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Job.35.3": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.1.16": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.4.7": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.8.33": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.11.4": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.13.6": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.15.31": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.16.1": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.16.3": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Prov.18.23": "TextMayBeMissing: Greek Absent (TVTMS line 2480)",
   "Prov.18.24": "TextMayBeMissing: Greek Absent (TVTMS line 2480)",
   "Prov.19.1": "TextMayBeMissing: Greek Absent (TVTMS line 2481)",
@@ -2631,24 +2745,24 @@
   "Prov.20.17": "OneToOne: Greek Absent (TVTMS line 2487)",
   "Prov.20.18": "OneToOne: Greek Absent (TVTMS line 2487)",
   "Prov.20.19": "OneToOne: Greek Absent (TVTMS line 2487)",
-  "Prov.21.5": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.22.6": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Prov.23.23": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Prov.21.5": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.22.6": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Prov.23.23": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Isa.2.22": "TextMayBeMissing: Greek Absent (TVTMS line 2517)",
   "Isa.56.12": "TextMayBeMissing: Greek Absent (TVTMS line 2533)",
-  "Jer.2.1": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.7.1": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.8.11": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.8.12": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.10.6": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.10.7": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.10.8": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.10.10": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.11.7": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.17.1": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.17.2": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.17.3": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.17.4": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
+  "Jer.2.1": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.7.1": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.8.11": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.8.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.10.6": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.10.7": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.10.8": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.10.10": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.11.7": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.17.1": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.17.2": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.17.3": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.17.4": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "Jer.25.14": "OneToOne: Greek2 (eg Brenton)* Absent (TVTMS line 2550)",
   "Jer.27.1": "TextMayBeMissing: Greek2 (eg Brenton)* Jer.34:1, which Brenton does not print (TVTMS line 2560)",
   "Jer.27.7": "TextMayBeMissing: Greek2 (eg Brenton)* Absent (TVTMS line 2562)",
@@ -2697,21 +2811,21 @@
   "Jer.51.46": "TVTMS's followed column puts it at Jer.28.46, which Brenton does not print",
   "Jer.51.47": "TVTMS's followed column puts it at Jer.28.47, which Brenton does not print",
   "Jer.51.48": "TVTMS's followed column puts it at Jer.28.48, which Brenton does not print",
-  "Jer.52.2": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.52.3": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.52.15": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.52.28": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.52.29": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Jer.52.30": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Lam.3.29": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.1.14": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.10.14": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.11.11": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.11.12": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.27.31": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.32.19": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.33.26": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)",
-  "Ezek.40.30": "Brenton prints no verse of this number: taken to be wanting in the Greek (TVTMS does not say)"
+  "Jer.52.2": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.52.3": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.52.15": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.52.28": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.52.29": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Jer.52.30": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Lam.3.29": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.1.14": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.10.14": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.11.11": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.11.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.27.31": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.32.19": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.33.26": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
+  "Ezek.40.30": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)"
  },
  "map": {
   "Gen.8.3": [
@@ -2753,6 +2867,10 @@
   "Gen.32.31": "Gen.32.30",
   "Gen.32.32": "Gen.32.31",
   "Gen.32.33": "Gen.32.32",
+  "Gen.35.16": [
+   "Gen.35.16",
+   "Gen.35.21"
+  ],
   "Exod.7.26": "Exod.8.1",
   "Exod.7.27": "Exod.8.2",
   "Exod.7.28": "Exod.8.3",
@@ -3150,14 +3268,15 @@
   "Deut.23.22": "Deut.23.21",
   "Deut.23.23": "Deut.23.22",
   "Deut.23.24": "Deut.23.23",
-  "Deut.23.25": "Deut.23.24",
-  "Deut.23.26": "Deut.23.25",
+  "Deut.23.26": "Deut.23.24",
   "Josh.9.2a": "Josh.8.30",
   "Josh.9.2b": "Josh.8.31",
   "Josh.9.2c": "Josh.8.32",
   "Josh.9.2d": "Josh.8.33",
   "Josh.9.2e": "Josh.8.34",
   "Josh.9.2f": "Josh.8.35",
+  "Josh.19.47": "Josh.19.48",
+  "Josh.19.48": "Josh.19.47",
   "Josh.24.29": "Josh.24.31",
   "Josh.24.30": "Josh.24.29",
   "Josh.24.31": "Josh.24.30",
@@ -3244,6 +3363,11 @@
   "2Sam.19.42": "2Sam.19.41",
   "2Sam.19.43": "2Sam.19.42",
   "2Sam.19.44": "2Sam.19.43",
+  "2Sam.23.29": [
+   "2Sam.23.29",
+   "2Sam.23.31",
+   "2Sam.23.32"
+  ],
   "1Kgs.2.35g": "1Kgs.9.25",
   "1Kgs.2.35h": "1Kgs.9.23",
   "1Kgs.2.35i": [
@@ -3253,12 +3377,24 @@
   ],
   "1Kgs.2.35k": "1Kgs.9.15",
   "1Kgs.2.46a": "1Kgs.4.20",
-  "1Kgs.2.46b": "1Kgs.4.20",
-  "1Kgs.2.46c": "1Kgs.4.20",
-  "1Kgs.2.46d": "1Kgs.4.20",
-  "1Kgs.2.46e": "1Kgs.4.20",
-  "1Kgs.2.46g": "1Kgs.4.25",
-  "1Kgs.2.46h": "1Kgs.4.25",
+  "1Kgs.2.46b": "1Kgs.4.21",
+  "1Kgs.2.46d": "1Kgs.9.18",
+  "1Kgs.2.46e": [
+   "1Kgs.4.22",
+   "1Kgs.4.23"
+  ],
+  "1Kgs.2.46f": "1Kgs.4.24",
+  "1Kgs.2.46g": [
+   "1Kgs.4.24",
+   "1Kgs.4.25"
+  ],
+  "1Kgs.2.46h": [
+   "1Kgs.4.2",
+   "1Kgs.4.3",
+   "1Kgs.4.4",
+   "1Kgs.4.5",
+   "1Kgs.4.6"
+  ],
   "1Kgs.2.46i": "1Kgs.4.26",
   "1Kgs.2.46k": "1Kgs.4.21",
   "1Kgs.4.17": "1Kgs.4.18",
@@ -5743,7 +5879,10 @@
   "Ps.96.10": "Ps.97.10",
   "Ps.96.11": "Ps.97.11",
   "Ps.96.12": "Ps.97.12",
-  "Ps.97.1": "Ps.98.1",
+  "Ps.97.1": [
+   "Ps.98.title",
+   "Ps.98.1"
+  ],
   "Ps.97.2": "Ps.98.2",
   "Ps.97.3": "Ps.98.3",
   "Ps.97.4": "Ps.98.4",
@@ -5752,10 +5891,7 @@
   "Ps.97.7": "Ps.98.7",
   "Ps.97.8": "Ps.98.8",
   "Ps.97.9": "Ps.98.9",
-  "Ps.98.1": [
-   "Ps.98.title",
-   "Ps.99.1"
-  ],
+  "Ps.98.1": "Ps.99.1",
   "Ps.98.2": "Ps.99.2",
   "Ps.98.3": "Ps.99.3",
   "Ps.98.4": "Ps.99.4",
@@ -6765,6 +6901,8 @@
   "Prov.24.60": "Prov.31.7",
   "Prov.24.61": "Prov.31.8",
   "Prov.24.62": "Prov.31.9",
+  "Prov.31.26": "Prov.31.27",
+  "Prov.31.27": "Prov.31.26",
   "Eccl.4.17": "Eccl.5.1",
   "Eccl.5.1": "Eccl.5.2",
   "Eccl.5.2": "Eccl.5.3",
