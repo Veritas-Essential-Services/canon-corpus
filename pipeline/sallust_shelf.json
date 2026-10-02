@@ -1,5 +1,5 @@
 {
- "_about": "Sallust in English: J. S. Watson (Bohn), the Catiline and the Jugurthine War, clean Gutenberg.",
+ "_about": "Sallust in English: J. S. Watson (Bohn), the Catiline and the Jugurthine War, clean Gutenberg. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "sallust",
   "catiline",
@@ -13,8 +13,12 @@
    "tr. J. S. Watson (Bohn)"
   ]
  },
- "internet_archive": {},
- "_excluded": {
-  "J. C. Rolfe, Loeb (1921)": "US PD by date; on Perseus; pending"
- }
+ "internet_archive": {
+  "sallust-rolfe": [
+   "sallustsa00sall",
+   "Sallust (Loeb, 1921)",
+   "tr. J. C. Rolfe"
+  ]
+ },
+ "_excluded": {}
 }
