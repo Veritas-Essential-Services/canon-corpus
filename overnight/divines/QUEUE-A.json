@@ -71,6 +71,83 @@
       "started": "2026-10-02T15:51:14-05:00",
       "finished": "2026-10-02T15:51:14-05:00",
       "notes": "Added 4: Andrew Bonar Redemption Drawing Nigh; Horatius Bonar A Stranger Here and Light and Truth OT (1869); Ryle A Call to Prayer (1860 scan). Saphir Christ and the Scriptures refused by the identity check, stays pending."
+    },
+    {
+      "id": "owen",
+      "status": "todo",
+      "scope": "John Owen: Works, ed. Goold (24 vols); CCEL titles already in fetch_sources.py listed as held",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "sibbes",
+      "status": "todo",
+      "scope": "Richard Sibbes: Works, ed. Grosart (Nichol, 7 vols)",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "baxter",
+      "status": "todo",
+      "scope": "Richard Baxter: Practical Works and the major single titles",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "watson",
+      "status": "todo",
+      "scope": "Thomas Watson: all public-domain works",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "brooks",
+      "status": "todo",
+      "scope": "Thomas Brooks: Works, ed. Grosart (Nichol, 6 vols)",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "goodwin",
+      "status": "todo",
+      "scope": "Thomas Goodwin: Works (Nichol, 12 vols)",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "rutherford",
+      "status": "todo",
+      "scope": "Samuel Rutherford: Letters and other works; cross-reference the Bonar-edited items already on the Andrew Bonar shelf, don't refetch",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "mcheyne",
+      "status": "todo",
+      "scope": "Robert Murray M'Cheyne: prose works (sermons, letters); hymns and poems to the hymn manifest; the Memoir is on the Andrew Bonar shelf",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "matthew-henry",
+      "status": "todo",
+      "scope": "Matthew Henry: Commentary (6 vols) and other works",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "calvin",
+      "status": "todo",
+      "scope": "Calvin in the Calvin Translation Society English: census against CALVIN_COMMENTARIES already in fetch_sources.py; add the Institutes, Tracts and Letters only if verified gaps",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+    },
+    {
+      "id": "spurgeon",
+      "status": "todo",
+      "scope": "C. H. Spurgeon: Metropolitan Tabernacle / New Park Street Pulpit sermons and The Treasury of David; plus other PD books as time allows",
+      "added": "2026-10-02T15:56:35-05:00",
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
     }
   ]
 }
