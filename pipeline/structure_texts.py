@@ -1197,8 +1197,37 @@ def convert_tei_prose(path, slug, abbrev):
 CATENA = {
     # slug: (abbrev, OSIS book, Robinson-Pierpont file stem)
     "catena-matthew-cramer-grc": ("Cat. Matt.", "Matt", "MAT"),
+    "catena-mark-cramer-grc": ("Cat. Mk.", "Mark", "MAR"),
+    "catena-luke-cramer-grc": ("Cat. Lk.", "Luke", "LUK"),
+    "catena-john-cramer-grc": ("Cat. Jn.", "John", "JOH"),
+    "catena-acts-cramer-grc": ("Cat. Act.", "Acts", "ACT"),
+    "catena-romans-cramer-grc": ("Cat. Rom.", "Rom", "ROM"),
+    "catena-1corinthians-cramer-grc": ("Cat. 1 Cor.", "1Cor", "1CO"),
+    "catena-2corinthians-cramer-grc": ("Cat. 2 Cor.", "2Cor", "2CO"),
+    "catena-galatians-cramer-grc": ("Cat. Gal.", "Gal", "GAL"),
+    "catena-ephesians-cramer-grc": ("Cat. Eph.", "Eph", "EPH"),
+    "catena-philippians-cramer-grc": ("Cat. Phil.", "Phil", "PHP"),
+    "catena-colossians-cramer-grc": ("Cat. Col.", "Col", "COL"),
+    "catena-1thessalonians-cramer-grc": ("Cat. 1 Thess.", "1Thess", "1TH"),
+    "catena-2thessalonians-cramer-grc": ("Cat. 2 Thess.", "2Thess", "2TH"),
+    "catena-1timothy-cramer-grc": ("Cat. 1 Tim.", "1Tim", "1TI"),
+    "catena-2timothy-cramer-grc": ("Cat. 2 Tim.", "2Tim", "2TI"),
+    "catena-titus-cramer-grc": ("Cat. Tit.", "Titus", "TIT"),
+    "catena-philemon-cramer-grc": ("Cat. Philem.", "Phlm", "PHM"),
+    "catena-hebrews-cramer-grc": ("Cat. Heb.", "Heb", "HEB"),
+    "catena-james-cramer-grc": ("Cat. Jas.", "Jas", "JAM"),
+    "catena-1peter-cramer-grc": ("Cat. 1 Pet.", "1Pet", "1PE"),
+    "catena-2peter-cramer-grc": ("Cat. 2 Pet.", "2Pet", "2PE"),
+    "catena-1john-cramer-grc": ("Cat. 1 Jn.", "1John", "1JO"),
+    "catena-2john-cramer-grc": ("Cat. 2 Jn.", "2John", "2JO"),
+    "catena-3john-cramer-grc": ("Cat. 3 Jn.", "3John", "3JO"),
 }
 CATENA_DIR = os.path.join(HERE, "..", "data", "catenae")
+# Kephalaia that are apparatus, not commentary: Cramer's table of contents,
+# his index of authors, addenda, and the "Supplementum" of variant readings
+# by page and line (2 Cor, Hebrews), whose numbers are LINE numbers. Their
+# numbers are never verse candidates; their text stays, one unit each.
+CATENA_APPARATUS = re.compile(r"^(toc|authors|index|addenda|sup\w*)$")
 
 
 def catena_marks(body):
@@ -1214,6 +1243,7 @@ def catena_marks(body):
             continue
         kn = k.get("n")
         just_marked = False
+        apparatus = bool(CATENA_APPARATUS.match(kn or ""))
         for c in k:
             n = None
             if c.tag == T + "note" and c.get("type") == "marginal":
@@ -1221,14 +1251,14 @@ def catena_marks(body):
             elif c.tag == T + "lb":
                 n, src = c.get("n") or "", "lb"
             if n is not None:
-                if n.isdigit():
+                if n.isdigit() and not apparatus:
                     ordinal += 1
                     items.append({"k": kn, "kind": "mark", "n": n, "ord": ordinal, "src": src})
                     just_marked = True
                 continue
             inner = [clean("".join(x.itertext())) for x in c.iter(T + "note")
                      if x.get("type") == "marginal"]
-            inner = [x for x in inner if x.isdigit()]
+            inner = [x for x in inner if x.isdigit() and not apparatus]
             if c.tag == T + "p" and inner and not just_marked:
                 ordinal += 1
                 items.append({"k": kn, "kind": "mark", "n": inner[0], "ord": ordinal,

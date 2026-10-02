@@ -224,10 +224,87 @@ FIRST1K = {
         "1 Enoch, the Greek fragments (1-32, 89) -- ed. H. B. Swete, The Old Testament in Greek "
         "III (Cambridge UP, 1905)"),
     # Cramer's catenae (2026-10-02), through convert_catena, not the prose
-    # converter: see CATENA in structure_texts.py. Pilot: Matthew.
+    # converter: see CATENA in structure_texts.py. Every book Cramer
+    # printed with verse marks. NOT taken: his three "Supplementum et
+    # varietas lectionis" (tlg003, 006, 007), which are variant readings by
+    # page and line, not comments; the Munich-type Romans (tlg011) and Jude
+    # (tlg046), which First1KGreek already divides by verse and want the
+    # verse divs read, not measured.
     "catena-matthew-cramer-grc": ("tlg4102/tlg001/tlg4102.tlg001.1st1K-grc1.xml",
         "Catena on Matthew (Paris. Coislin. 23 etc.) -- Greek, ed. J. A. Cramer, Catenae Graecorum "
         "Patrum in Novum Testamentum I (Oxford, 1840)"),
+    "catena-mark-cramer-grc": ("tlg4102/tlg002/tlg4102.tlg002.1st1K-grc1.xml",
+        "Catena on Mark -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum I "
+        "(Oxford, 1840)"),
+    "catena-luke-cramer-grc": ("tlg4102/tlg004/tlg4102.tlg004.1st1K-grc1.xml",
+        "Catena on Luke -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum II "
+        "(Oxford, 1841)"),
+    "catena-john-cramer-grc": ("tlg4102/tlg005/tlg4102.tlg005.1st1K-grc1.xml",
+        "Catena on John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum II "
+        "(Oxford, 1841)"),
+    "catena-acts-cramer-grc": ("tlg4102/tlg008/tlg4102.tlg008.1st1K-grc1.xml",
+        "Catena on Acts -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum III "
+        "(Oxford, 1838)"),
+    "catena-romans-cramer-grc": ("tlg4102/tlg010/tlg4102.tlg010.1st1K-grc1.xml",
+        "Catena on Romans (Vatican type) -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum IV "
+        "(Oxford, 1844)"),
+    "catena-1corinthians-cramer-grc": ("tlg4102/tlg012/tlg4102.tlg012.1st1K-grc1.xml",
+        "Catena on 1 Corinthians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum V "
+        "(Oxford, 1841)"),
+    "catena-2corinthians-cramer-grc": ("tlg4102/tlg013/tlg4102.tlg013.1st1K-grc1.xml",
+        "Catena on 2 Corinthians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum V "
+        "(Oxford, 1841)"),
+    "catena-galatians-cramer-grc": ("tlg4102/tlg019/tlg4102.tlg019.1st1K-grc1.xml",
+        "Catena on Galatians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-ephesians-cramer-grc": ("tlg4102/tlg020/tlg4102.tlg020.1st1K-grc1.xml",
+        "Catena on Ephesians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-philippians-cramer-grc": ("tlg4102/tlg021/tlg4102.tlg021.1st1K-grc1.xml",
+        "Catena on Philippians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-colossians-cramer-grc": ("tlg4102/tlg022/tlg4102.tlg022.1st1K-grc1.xml",
+        "Catena on Colossians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-1thessalonians-cramer-grc": ("tlg4102/tlg023/tlg4102.tlg023.1st1K-grc1.xml",
+        "Catena on 1 Thessalonians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-2thessalonians-cramer-grc": ("tlg4102/tlg024/tlg4102.tlg024.1st1K-grc1.xml",
+        "Catena on 2 Thessalonians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-1timothy-cramer-grc": ("tlg4102/tlg034/tlg4102.tlg034.1st1K-grc1.xml",
+        "Catena on 1 Timothy -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-2timothy-cramer-grc": ("tlg4102/tlg035/tlg4102.tlg035.1st1K-grc1.xml",
+        "Catena on 2 Timothy -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-titus-cramer-grc": ("tlg4102/tlg036/tlg4102.tlg036.1st1K-grc1.xml",
+        "Catena on Titus -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-philemon-cramer-grc": ("tlg4102/tlg037/tlg4102.tlg037.1st1K-grc1.xml",
+        "Catena on Philemon -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-hebrews-cramer-grc": ("tlg4102/tlg038/tlg4102.tlg038.1st1K-grc1.xml",
+        "Catena on Hebrews -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-james-cramer-grc": ("tlg4102/tlg040/tlg4102.tlg040.1st1K-grc1.xml",
+        "Catena on James -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-1peter-cramer-grc": ("tlg4102/tlg041/tlg4102.tlg041.1st1K-grc1.xml",
+        "Catena on 1 Peter -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-2peter-cramer-grc": ("tlg4102/tlg042/tlg4102.tlg042.1st1K-grc1.xml",
+        "Catena on 2 Peter -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-1john-cramer-grc": ("tlg4102/tlg043/tlg4102.tlg043.1st1K-grc1.xml",
+        "Catena on 1 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-2john-cramer-grc": ("tlg4102/tlg044/tlg4102.tlg044.1st1K-grc1.xml",
+        "Catena on 2 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-3john-cramer-grc": ("tlg4102/tlg045/tlg4102.tlg045.1st1K-grc1.xml",
+        "Catena on 3 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes

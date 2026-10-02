@@ -1072,6 +1072,16 @@ _pg = _pc.place([(0, "1", "1", "margin", {"αλφα", "βητα", "γαμμα"})
                  (3, "2", "9", "margin", {"καππα", "λαμβδα", "μυ"})], _nt)
 check("place_catena: chapters advance; a page-line <lb> is left out; a wrong margin is read by its lemma",
       _pg == {0: (1, 1, 1.0), 2: (2, 1, 1.0), 3: (2, 2, 1.0)})
+_pg2 = _pc.place([(0, "1", "1", "lb", {"αλφα", "βητα", "γαμμα"}),
+                  (1, "1", "5", "lb", {"δελτα", "εψιλον", "ζητα"}),
+                  (2, "2", "2", "lb", {"ουδεν", "αλλο", "τουτο"})], _nt)
+check("place_catena: a bare number not a multiple of 5 is a printed verse; a multiple of 5 must earn it",
+      _pg2 == {0: (1, 1, 1.0), 1: (1, 5, 1.0), 2: (2, 2, 0.0)})
+_ct2 = st.ET.fromstring('<body xmlns="http://www.tei-c.org/ns/1.0"><div subtype="chapter" n="sup1">'
+                        '<lb n="7"/><p>α</p></div><div subtype="chapter" n="1"><lb n="7"/><p>β</p>'
+                        '</div></body>')
+check("catena: numbers in the supplement, contents or index are never verse candidates",
+      [i["k"] for i in st.catena_marks(_ct2) if i["kind"] == "mark"] == ["1"])
 check("place_catena: two shared words are not a 100% match for a two-word lemma",
       _pc.score({"αλφα", "βητα"}, {"αλφα", "βητα", "γαμμα", "δελτα"}) < 0.7)
 _bt, _br, _bf = st.tei_brackets("ὑψηλῷ [cf. Deut., v, 45]· εὐ[fol. 51]δαιμονίαν [καὶ] [ΙS., II, 2] τε [?]")

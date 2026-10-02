@@ -9058,12 +9058,12 @@
   "author": "Catena (Cramer)",
   "format": "tei",
   "sha256": "dd297ff8fd5415c691917a90aed0111edb4e0923cd1ea27dd696c9bd805b3767",
-  "units": 231,
+  "units": 252,
   "scheme": {
    "citation": "Cat. Matt. chapter.verse (placed sections); k<kephalaion> (the rest)",
    "resolution": "verse (placed sections); kephalaion (the rest)",
-   "honesty": "The chapter of every verse is MEASURED, not printed: of 412 numbered marks, 206 were placed at a verse by pipeline/place_catena.py (165 printed margin numbers, 41 bare line numbers whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 202 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 206 at least 30% (the others are linked as weak); 4 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-27; a kephalaion with no placed mark is one unlinked unit.",
-   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 206 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 101 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 400 numbered marks, 237 were placed at a verse by pipeline/place_catena.py (225 printed verse numbers, 12 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 206 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 234 at least 30% (the others are linked as weak); 5 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-28; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 237 unit(s) link to the KJV verse(s) they comment on (3 weak: the lemma shares under 30% of its words with the verse). 101 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
   },
   "rights": {
    "license": "CC BY-SA 4.0",
@@ -9071,6 +9071,486 @@
    "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-1corinthians-cramer-grc": {
+  "title": "Catena In Epistulam I Ad Corinthios",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "4ce1f4619a3c04e2b7e40a4ac9ec1a2a444209394d86f74537db49e1097c2fe9",
+  "units": 123,
+  "scheme": {
+   "citation": "Cat. 1 Cor. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 298 numbered marks, 121 were placed at a verse by pipeline/place_catena.py (98 printed verse numbers, 23 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 121 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 121 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-16; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 121 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 103 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1841); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-1john-cramer-grc": {
+  "title": "Catena In Epistulam Joannis I",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "8e8b7358b84b7e9e053e6018ae1e4400d9e81afdcc03b49c052df125ac64bb5d",
+  "units": 53,
+  "scheme": {
+   "citation": "Cat. 1 Jn. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 97 numbered marks, 51 were placed at a verse by pipeline/place_catena.py (44 printed verse numbers, 7 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 51 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 51 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-5; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 51 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 17 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-1peter-cramer-grc": {
+  "title": "Catena In Epistulam Petri I",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "0bd1d2d4e19ed4b13ef0dec004f93817c13954b0036e3145cc647bd490955c90",
+  "units": 65,
+  "scheme": {
+   "citation": "Cat. 1 Pet. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 102 numbered marks, 64 were placed at a verse by pipeline/place_catena.py (51 printed verse numbers, 13 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 63 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 64 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-5; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 64 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 18 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-1thessalonians-cramer-grc": {
+  "title": "Catena In Epistulam I Ad Thessalonicenses",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "364205025a0aab929922eaae194090411e8f25defdb43a22d6d0cd0ed1ec3ce3",
+  "units": 46,
+  "scheme": {
+   "citation": "Cat. 1 Thess. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 67 numbered marks, 43 were placed at a verse by pipeline/place_catena.py (39 printed verse numbers, 4 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 43 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 43 at least 30% (the others are linked as weak); 1 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-5; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 43 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 2 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1842); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-1timothy-cramer-grc": {
+  "title": "Catena In Epistulam I Ad Timotheum",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "c8cc8018e3e3d478d289b8568d1d01ca837f3f7b5973a93874100df60bda8c89",
+  "units": 71,
+  "scheme": {
+   "citation": "Cat. 1 Tim. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 119 numbered marks, 65 were placed at a verse by pipeline/place_catena.py (53 printed verse numbers, 12 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 65 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 65 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-6; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 65 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 2 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1843); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-2corinthians-cramer-grc": {
+  "title": "Catena In Epistulam II Ad Corinthios",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "d26b7597dbfcc6886cb55b7144cb6b4a26fbaa29e541bf3f69db13a84b9e36ee",
+  "units": 239,
+  "scheme": {
+   "citation": "Cat. 2 Cor. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 420 numbered marks, 234 were placed at a verse by pipeline/place_catena.py (193 printed verse numbers, 41 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 215 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 231 at least 30% (the others are linked as weak); 2 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-13; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 234 unit(s) link to the KJV verse(s) they comment on (3 weak: the lemma shares under 30% of its words with the verse). 10 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1841); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-2john-cramer-grc": {
+  "title": "Catena In Epistulam Joannis II",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "88137e9ee8237e689e4ac52f97c56724b492859004a0e64105e18a0020ddab6c",
+  "units": 5,
+  "scheme": {
+   "citation": "Cat. 2 Jn. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 9 numbered marks, 4 were placed at a verse by pipeline/place_catena.py (3 printed verse numbers, 1 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 4 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 4 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-1; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 4 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 0 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-2peter-cramer-grc": {
+  "title": "Catena In Epistulam Petri II",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "1b8cbe0a029041b3ceeeb8c5f42c977b102bd01f4d90d05aeea125f8407b81ff",
+  "units": 34,
+  "scheme": {
+   "citation": "Cat. 2 Pet. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 53 numbered marks, 33 were placed at a verse by pipeline/place_catena.py (25 printed verse numbers, 8 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 33 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 33 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-3; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 33 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 9 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-2thessalonians-cramer-grc": {
+  "title": "Catena In Epistulam II Ad Thessalonicenses",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "a972c549d07b9f3d1a3657b61c4e9586094a0cdc16521564cdb96ee945240eef",
+  "units": 32,
+  "scheme": {
+   "citation": "Cat. 2 Thess. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 81 numbered marks, 27 were placed at a verse by pipeline/place_catena.py (23 printed verse numbers, 4 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 27 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 27 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-3; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 27 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 4 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1842); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-2timothy-cramer-grc": {
+  "title": "Catena In Epistulam II Ad Timotheum",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "d5faae68d7f587405ec4856954c9c1d39b75137445f4d9ecacbf9951796861ff",
+  "units": 68,
+  "scheme": {
+   "citation": "Cat. 2 Tim. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 100 numbered marks, 66 were placed at a verse by pipeline/place_catena.py (53 printed verse numbers, 13 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 66 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 66 at least 30% (the others are linked as weak); 2 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-4; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 66 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 4 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1843); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-3john-cramer-grc": {
+  "title": "Catena In Epistulam Joannis III",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "229695e30c5ab462b36cde57a236b3b897106c2edd8ff3efe33f456c02100383",
+  "units": 6,
+  "scheme": {
+   "citation": "Cat. 3 Jn. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 10 numbered marks, 5 were placed at a verse by pipeline/place_catena.py (5 printed verse numbers, 0 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 5 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 5 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-1; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 5 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 2 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-acts-cramer-grc": {
+  "title": "Catena In Acta",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "b95daf231fafcac1a57ec9d297dc4ea805d78b2a4d983d83b350bbda9c075255",
+  "units": 639,
+  "scheme": {
+   "citation": "Cat. Act. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 1100 numbered marks, 635 were placed at a verse by pipeline/place_catena.py (508 printed verse numbers, 127 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 632 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 634 at least 30% (the others are linked as weak); 7 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-28; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 635 unit(s) link to the KJV verse(s) they comment on (1 weak: the lemma shares under 30% of its words with the verse). 183 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1838); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-colossians-cramer-grc": {
+  "title": "Catena In Epistulam Ad Colossenses",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "920505a849668f3603c7dde3d976a5d9ea8aa1b4bd474257302694bc3c7e1680",
+  "units": 71,
+  "scheme": {
+   "citation": "Cat. Col. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 121 numbered marks, 66 were placed at a verse by pipeline/place_catena.py (54 printed verse numbers, 12 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 64 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 65 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-4; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 66 unit(s) link to the KJV verse(s) they comment on (1 weak: the lemma shares under 30% of its words with the verse). 2 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1842); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-ephesians-cramer-grc": {
+  "title": "Catena In Epistulam Ad Ephesios",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "f986de3662076f517df846c9371ee3ed09bc824c5f86de5acd1fae415692bfa7",
+  "units": 86,
+  "scheme": {
+   "citation": "Cat. Eph. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 162 numbered marks, 78 were placed at a verse by pipeline/place_catena.py (63 printed verse numbers, 15 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 77 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 78 at least 30% (the others are linked as weak); 2 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-6; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 78 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 14 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1842); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-galatians-cramer-grc": {
+  "title": "Catena In Epistulam Ad Galatas",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "34533331058d7a9925b4ff39a73470d1585630a0f457588f47553b790129dcbd",
+  "units": 115,
+  "scheme": {
+   "citation": "Cat. Gal. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 219 numbered marks, 111 were placed at a verse by pipeline/place_catena.py (90 printed verse numbers, 21 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 111 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 111 at least 30% (the others are linked as weak); 1 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-6; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 111 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 10 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1842); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-hebrews-cramer-grc": {
+  "title": "Catena In Epistulam Ad Hebraeos",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "cc8241a080b1f5f431abe50cab4f11ea91080ce8f0acaa84916625d7a8d1e40a",
+  "units": 153,
+  "scheme": {
+   "citation": "Cat. Heb. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 235 numbered marks, 142 were placed at a verse by pipeline/place_catena.py (124 printed verse numbers, 18 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 139 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 142 at least 30% (the others are linked as weak); 1 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-13; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 142 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 72 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1843); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-james-cramer-grc": {
+  "title": "Catena In Epistulam Jacobi",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "ff00a7b45a5eb858c587956c18969f7ec57faff7a79cead5a3b9883a0bbe1c7f",
+  "units": 61,
+  "scheme": {
+   "citation": "Cat. Jas. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 102 numbered marks, 57 were placed at a verse by pipeline/place_catena.py (48 printed verse numbers, 9 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 57 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 57 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-5; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 57 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 15 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-john-cramer-grc": {
+  "title": "Catena In Joannem",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "3d78242146e0bb25557e3cf94bbeb0f29547f90d0c9d085e7adecd1f67c60e53",
+  "units": 263,
+  "scheme": {
+   "citation": "Cat. Jn. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 466 numbered marks, 256 were placed at a verse by pipeline/place_catena.py (220 printed verse numbers, 36 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 184 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 226 at least 30% (the others are linked as weak); 8 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-21; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 255 unit(s) link to the KJV verse(s) they comment on (29 weak: the lemma shares under 30% of its words with the verse). 59 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1841); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-luke-cramer-grc": {
+  "title": "Catena In Lucam",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "71b380d87f1241025d3e10a90aec837f917705fd0aae4887a37c5f67199dc13e",
+  "units": 222,
+  "scheme": {
+   "citation": "Cat. Lk. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 340 numbered marks, 200 were placed at a verse by pipeline/place_catena.py (183 printed verse numbers, 17 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 119 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 163 at least 30% (the others are linked as weak); 5 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-24; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 200 unit(s) link to the KJV verse(s) they comment on (37 weak: the lemma shares under 30% of its words with the verse). 41 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1841); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-mark-cramer-grc": {
+  "title": "Catena In Marcum",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "b52e6d5e5704244adb41fec0c371504b882bbdbff973ed30b154e3c2ab4f914d",
+  "units": 191,
+  "scheme": {
+   "citation": "Cat. Mk. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 290 numbered marks, 183 were placed at a verse by pipeline/place_catena.py (141 printed verse numbers, 42 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 182 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 183 at least 30% (the others are linked as weak); 3 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-16; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 183 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 168 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1840); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-philemon-cramer-grc": {
+  "title": "Catena In Epistulam Ad Philemonem",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "bd5503f04a07f1b65b1b8134a43f4481f915aecc625cc51cb2f274a4dddc53ee",
+  "units": 24,
+  "scheme": {
+   "citation": "Cat. Philem. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 40 numbered marks, 22 were placed at a verse by pipeline/place_catena.py (19 printed verse numbers, 3 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 22 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 22 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-1; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 22 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 0 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1843); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-philippians-cramer-grc": {
+  "title": "Catena In Epistulam Ad Philippenses",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "c6a8ca08d01e2920084344984fb38b2fbc53aee4915dadb813a193b6ff2ac2c6",
+  "units": 61,
+  "scheme": {
+   "citation": "Cat. Phil. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 88 numbered marks, 55 were placed at a verse by pipeline/place_catena.py (48 printed verse numbers, 7 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 54 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 55 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-4; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 55 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 2 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1842); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-romans-cramer-grc": {
+  "title": "Catena In Epistulam Ad Romanos (typus Vaticanus)",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "f8607385670152659c2af0800b10261193593d786abd3989b99c1512f3f3a61f",
+  "units": 102,
+  "scheme": {
+   "citation": "Cat. Rom. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 185 numbered marks, 94 were placed at a verse by pipeline/place_catena.py (74 printed verse numbers, 20 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 91 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 94 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-8; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 94 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 92 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1844); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "catena-titus-cramer-grc": {
+  "title": "Catena In Epistulam Ad Titum",
+  "author": "Catena (Cramer)",
+  "format": "tei",
+  "sha256": "982032436cd3d3aea6a968edd97067215f5b13aaad681699cf908a67a9b5b94a",
+  "units": 28,
+  "scheme": {
+   "citation": "Cat. Tit. chapter.verse (placed sections); k<kephalaion> (the rest)",
+   "resolution": "verse (placed sections); kephalaion (the rest)",
+   "honesty": "The chapter of every verse is MEASURED, not printed: of 42 numbered marks, 24 were placed at a verse by pipeline/place_catena.py (18 printed verse numbers, 6 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 24 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 24 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-3; a kephalaion with no placed mark is one unlinked unit.",
+   "note": "First1KGreek TEI of Cramer's catena. One unit per verse mark placed by pipeline/place_catena.py (lemma and the comments after it); 24 unit(s) link to the KJV verse(s) they comment on (0 weak: the lemma shares under 30% of its words with the verse). 1 footnote(s) in apparatus.notes; kephalaion headings and titles in apparatus.head. Units with Latin-letter words (OCR residue) carry apparatus.latin_letters."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1843); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
  }
 }

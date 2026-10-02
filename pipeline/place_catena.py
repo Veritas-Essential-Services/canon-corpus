@@ -7,6 +7,7 @@ structure_texts.py only reads it.
     python3 pipeline/place_catena.py --fetch   # the Robinson-Pierpont books, pinned
     python3 pipeline/place_catena.py           # place every catena, write the JSON
     python3 pipeline/place_catena.py --check   # recompute; the JSON must be byte-identical
+    python3 pipeline/place_catena.py <slug>... # only these
 
 WHY THIS EXISTS. Cramer's catenae (Oxford, 1838-44; data/corpus/first1k/)
 are divided only by the ancient kephalaia. He printed the VERSE number
@@ -26,12 +27,16 @@ either a verse or "not a verse", maximizing total score, under:
     - inside a chapter a verse may step back (Cramer is not strictly in
       order), at a cost of 0.25;
     - "not a verse" costs 0.3 -- a page-line number is skipped this way;
-    - a margin number is a printed verse number, so leaving it out costs 0.3;
-      a bare <lb n> is as likely a page line, so placing it must earn 0.5
-      (it is placed only where its lemma shares half its words with the verse);
-    - a margin number that is wrong may be placed at another verse of the
-      same or next chapter only when the lemma matches that verse at 0.6 or
-      more, at a cost of 0.35 (11:23 printed "33"). The printed number is kept.
+    - a margin number is a printed verse number, and so is a bare <lb n>
+      that is not a multiple of 5, since Cramer numbers his page lines in
+      fives only: leaving one out costs 0.3. A bare multiple of 5 is as likely
+      a page line, so placing it must earn 0.5 (it is placed only where its
+      lemma shares half its words with the verse);
+    - a printed number that is wrong may be placed at another verse of the
+      same or next chapter only when the lemma matches the printed verse
+      under 0.3 and that other verse at 0.6 or more, at a cost of 0.35 (11:23
+      printed "33"). The printed number is kept. (A comment often quotes the
+      NEXT verse; a printed number its lemma matches at 0.3 or more stays put.)
     - a lemma of under three words is scored as if it had three, so two
       common words cannot make a 100% match.
 The verse text is Robinson-Pierpont 2018 (PD), the NT pilot's pinned
@@ -51,9 +56,33 @@ RP_DIR = os.path.join(HERE, "..", "data", "corpus", "byz", "csv-unicode", "ccat"
 # sha256 measured 2026-10-02; a mismatch is a hard stop.
 PINS = {
     "MAT": "f098a3be6c8a7ecf406189ff41000f7933adf41d522fc6b6484b303314820d5d",
+    "MAR": "80e7a72edb34474381c0287b58e2feea1d2495bf8318503dbaee570d4c056550",
+    "LUK": "68edd943238ec1cb51fd1ba7f0f59ff0d9b6841fe780ea6812449e9b0debee98",
+    "JOH": "06251d70a77f4d17e8dbde054e82ee947ef7834378348e5bcfa938803b42447b",
+    "ACT": "922d4e0e618438c2595114346865b322d8599bca76edc62b9ba1811f746d83cb",
+    "ROM": "0cda390213ff3782ceeb6a99a2686d541fb298977186ade0f60b024a17b92981",
+    "1CO": "3df74494005fbde8705623f9f5c58225dbe53138a3c21d544b175220d3ba455a",
+    "2CO": "500e00228db3b04f5eff6de2dc2614ff44dba60b7085a194f96e2c121b2adad9",
+    "GAL": "0eb3b8e924e9c7c826b1bc189c272f9020f37b00e305ccc519521ffc4d2b71bb",
+    "EPH": "d6d0f6c83d616350e5f78a26af2f6ac5f9836f8b98ef3703526ee90ebad0591d",
+    "PHP": "ff818b91ba818894fcf9bf901e93687611307f0c020cba6a5d2308111fee82f6",
+    "COL": "2ff3f88b702d59e31192de87ccbf97f8478704c9fffc8be606090d74fa21c7f8",
+    "1TH": "06889bdfcaef08c16ecbe65141acbc66c04a5498fb39780b7e3278e25381c814",
+    "2TH": "0cfbe3d62e5ba1933608fa1a89566c353264b620f3679e4c8d39b673123f4967",
+    "1TI": "09ff4375a477e1836492fc2bb8ff64de460e264db928f709474b211f6be524b4",
+    "2TI": "baf93b830c393d9b99d5b924bc223af6580daac150b78a783cfaa3b19fd7984f",
+    "TIT": "1e18cf9ac5e168baee75ba9041209ad3fa251cc0a8214a6b253dc463514ef063",
+    "PHM": "2af01ed66ab87fc6ba13e5fd5a607db8d223f2b143f8ec7352091ac091a9baf3",
+    "HEB": "3fd70fa4077efa736ebb8ac33fdde6bc5d6460ac14b51ae5c4acfea90e6c51ba",
+    "JAM": "aedd167524683df076f8a6a0518347a4788f8f7b3130122e0a9ca2ce0d0ab8e0",
+    "1PE": "78bced495de92e84be3210e879fdb5d10d0aa0b4d3f68003a33c11e7702667fd",
+    "2PE": "28cc901bb641c65d747bc05874f76f7caf325835cb9b043d1c772b74330f9c64",
+    "1JO": "4a5837d952c3bdf1b46b25f73aab153af788aba65914165d3e17f3dcdcd03af8",
+    "2JO": "ffe5d0b2b96458edc279cbc1197d4cd87fbf843cd20cdf0db22516f17aa7ca85",
+    "3JO": "2b19485c09429cbecc20e74a6ba3b01a10781f3c4a736c0c5f95535be6b82e77",
 }
 
-SKIP, BACK, GAP, JUMP0, FIX, FIX_MIN, LB, SHORT = 0.3, 0.25, 0.05, 0.02, 0.35, 0.6, 0.5, 3
+SKIP, BACK, GAP, JUMP0, FIX, FIX_MIN, FIX_AT, LB, SHORT = 0.3, 0.25, 0.05, 0.02, 0.35, 0.6, 0.3, 0.5, 3
 BEAM = 3000
 
 
@@ -104,9 +133,11 @@ def place(marks, nt):
     states = {(chs[0], 0): (0.0, ())}
     for o, k, n, src, lem in marks:
         n = int(n)
-        margin = src == "margin"
-        # A margin number IS a printed verse number: leaving it out costs.
-        # A bare <lb n> is as likely a page line: placing it must earn LB.
+        # A margin number IS a printed verse number, and so is a bare <lb n>
+        # that is not a multiple of 5 (Cramer numbers his page lines only in
+        # fives): leaving one out costs. A bare multiple of 5 is as likely a
+        # page line: placing it must earn LB.
+        margin = src == "margin" or n % 5 != 0
         skip, base = (SKIP, 0.0) if margin else (0.0, LB)
         new = {}
 
@@ -125,7 +156,8 @@ def place(marks, nt):
                     put((c2, n), v + s - base - cost - (BACK if c2 == c and n < lv else 0),
                         path + ((o, c2, n, s),))
                 # a misprinted margin: another verse of the chapter, strongly matched
-                if margin and c2 in (c, c + 1):
+                at = score(lem, verses[n]) if n in verses else 0.0
+                if margin and c2 in (c, c + 1) and at < FIX_AT:
                     for vv, vw in verses.items():
                         if vv == n:
                             continue
@@ -157,12 +189,12 @@ def run(slug):
     third = sum(p["score"] >= 0.3 for p in placed)
     fixed = sum(int(p["n"]) != p["verse"] for p in placed)
     chapters = sorted({p["chapter"] for p in placed})
-    n_lb = sum(p["src"] == "lb" for p in placed)
+    n_lb = sum(p["src"] == "lb" and int(p["n"]) % 5 == 0 for p in placed)
     honesty = (f"The chapter of every verse is MEASURED, not printed: of {n_all} numbered "
                f"marks, {n_pl} were placed at a verse by pipeline/place_catena.py "
-               f"({n_pl - n_lb} printed margin numbers, {n_lb} bare line numbers whose lemma "
-               f"matched the verse at half its words or more); the rest read as page-line "
-               f"numbers or unplaceable. Of the placed, {half} have a lemma sharing at least "
+               f"({n_pl - n_lb} printed verse numbers, {n_lb} bare multiples of 5 -- which "
+               f"may be page-line numbers -- whose lemma matched the verse at half its words "
+               f"or more); the rest read as page-line numbers or unplaceable. Of the placed, {half} have a lemma sharing at least "
                f"half its words with the Robinson-Pierpont verse, {third} at least 30% (the "
                f"others are linked as weak); {fixed} printed number(s) were read as another "
                f"verse on the lemma's evidence, the printed number kept. Placed marks fall in "
@@ -171,7 +203,7 @@ def run(slug):
     doc = {"slug": slug, "source_sha256": st.sha256(path),
            "rp2018": {"commit": BYZ_COMMIT, "file": stem + ".csv"},
            "rule": {"skip": SKIP, "back": BACK, "gap": GAP, "jump": JUMP0, "fix": FIX,
-                    "fix_min": FIX_MIN, "lb": LB, "short": SHORT},
+                    "fix_min": FIX_MIN, "fix_at": FIX_AT, "lb": LB, "short": SHORT},
            "honesty": honesty, "placed": placed}
     return json.dumps(doc, ensure_ascii=False, indent=1) + "\n"
 
@@ -181,7 +213,8 @@ def main():
         fetch(); return
     os.makedirs(st.CATENA_DIR, exist_ok=True)
     bad = []
-    for slug in st.CATENA:
+    only = [a for a in sys.argv[1:] if not a.startswith("--")]
+    for slug in only or st.CATENA:
         out = run(slug)
         p = os.path.join(st.CATENA_DIR, slug + ".json")
         if "--check" in sys.argv:

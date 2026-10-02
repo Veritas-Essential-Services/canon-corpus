@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 162 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 164 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -220,7 +220,11 @@ The living truth for project state is the Obsidian vault:
   and commits the decision per mark in data/catenae/<slug>.json (reviewable;
   --check must be byte-identical). convert_catena only reads that file, and
   every placed mark names the kephalaion and printed number it expects, so
-  a changed source fails loudly.
+  a changed source fails loudly. All 25 catenae with verse marks (Matthew to
+  3 John, 3,010 units, 2,872 linked to a KJV verse). Not taken: the three
+  variant-reading supplements, the Munich-type Romans and Jude (already
+  verse-divided; they want their divs read). Running commentary (Luke,
+  John) places by printed number with weak lemma evidence; it says so.
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
