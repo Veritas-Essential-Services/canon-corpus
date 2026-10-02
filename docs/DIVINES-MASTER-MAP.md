@@ -1694,7 +1694,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 
 Pending (wishlist): Edmonds's De Officiis; Watson's Bohn De Oratore (the one scan found answers 404); King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
-Excluded: Winstedt's Atticus (PG 58418, 50692, 51403): Latin facing, pending as a bilingual witness.
+Excluded: none. (Winstedt's Atticus, once held back as Latin facing, is now held: Latin-facing Loebs are taken.)
 
 ## Demosthenes
 
