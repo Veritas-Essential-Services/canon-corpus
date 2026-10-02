@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:31 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:32 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -34,6 +34,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | R. M. M'Cheyne (prose) | mcheyne_shelf.json | 0 new (Bonar's Memoir already on the Andrew Bonar shelf) | 5 (Works 1847, 2 vols; Additional Remains 1849; Familiar Letters 1848; Sermons 1863) | none | hymns (see hymn manifest), Gaelic translations |
 | Matthew Henry | matthew-henry_shelf.json | 7 CCEL (the whole Commentary in 6 vols + Concise) | 2 (Miscellaneous Works 1830; Life of Philip Henry) | Complete Works 1847 (vol. 1 only found) | German translation |
 | John Calvin (English) | calvin_shelf.json | Institutes (Beveridge) + Relics from CCEL; Letters vols 1-2 from Gutenberg (the 45 CTS commentaries were already held) | 5 (Letters vols 3-4; CTS Tracts 3 vols) | Allen's Institutes | French sermons, Latin stubs, 1970s reprints |
+| C. H. Spurgeon | spurgeon_shelf.json | 70 CCEL (Sermons 63 vols, Morning and Evening, All of Grace, Faith's Checkbook, and 4 more) | 7 (Treasury of David, complete) | Lectures to My Students, John Ploughman, Gutenberg titles | CCEL's Treasury stubs |
 
 ## Round 3: my picks, also for your veto
 

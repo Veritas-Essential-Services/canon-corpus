@@ -1,0 +1,404 @@
+{
+ "_about": "Every public-domain C. H. Spurgeon (1834-1892) text the Word Hoard holds. CCEL ThML (clean) for the sermons, 63 volumes (1855-1917, the New Park Street and Metropolitan Tabernacle Pulpit as CCEL issues them), and seven other CCEL works. The Treasury of David is NOT taken from CCEL: CCEL's treasury1-6 XML files are stubs (about 4 KB of text each; the psalms live on separate web pages), so it is held as Internet Archive OCR of the seven-volume American printing (Funk & Wagnalls, 1882-1886), assembled from two scan series, each volume identified by the psalm range on its title page. Raw and unconverted. Gutenberg Spurgeon titles were not searched this burn.",
+ "_ccel_author": "s/spurgeon",
+ "_name_words": [
+  "spurgeon"
+ ],
+ "_held": {},
+ "ccel": {
+  "spurgeon-sermons-01": [
+   "sermons01",
+   "Spurgeon's Sermons, vol. 1 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-02": [
+   "sermons02",
+   "Spurgeon's Sermons, vol. 2 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-03": [
+   "sermons03",
+   "Spurgeon's Sermons, vol. 3 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-04": [
+   "sermons04",
+   "Spurgeon's Sermons, vol. 4 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-05": [
+   "sermons05",
+   "Spurgeon's Sermons, vol. 5 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-06": [
+   "sermons06",
+   "Spurgeon's Sermons, vol. 6 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-07": [
+   "sermons07",
+   "Spurgeon's Sermons, vol. 7 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-08": [
+   "sermons08",
+   "Spurgeon's Sermons, vol. 8 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-09": [
+   "sermons09",
+   "Spurgeon's Sermons, vol. 9 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-10": [
+   "sermons10",
+   "Spurgeon's Sermons, vol. 10 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-11": [
+   "sermons11",
+   "Spurgeon's Sermons, vol. 11 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-12": [
+   "sermons12",
+   "Spurgeon's Sermons, vol. 12 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-13": [
+   "sermons13",
+   "Spurgeon's Sermons, vol. 13 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-14": [
+   "sermons14",
+   "Spurgeon's Sermons, vol. 14 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-15": [
+   "sermons15",
+   "Spurgeon's Sermons, vol. 15 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-16": [
+   "sermons16",
+   "Spurgeon's Sermons, vol. 16 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-17": [
+   "sermons17",
+   "Spurgeon's Sermons, vol. 17 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-18": [
+   "sermons18",
+   "Spurgeon's Sermons, vol. 18 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-19": [
+   "sermons19",
+   "Spurgeon's Sermons, vol. 19 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-20": [
+   "sermons20",
+   "Spurgeon's Sermons, vol. 20 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-21": [
+   "sermons21",
+   "Spurgeon's Sermons, vol. 21 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-22": [
+   "sermons22",
+   "Spurgeon's Sermons, vol. 22 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-23": [
+   "sermons23",
+   "Spurgeon's Sermons, vol. 23 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-24": [
+   "sermons24",
+   "Spurgeon's Sermons, vol. 24 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-25": [
+   "sermons25",
+   "Spurgeon's Sermons, vol. 25 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-26": [
+   "sermons26",
+   "Spurgeon's Sermons, vol. 26 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-27": [
+   "sermons27",
+   "Spurgeon's Sermons, vol. 27 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-28": [
+   "sermons28",
+   "Spurgeon's Sermons, vol. 28 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-29": [
+   "sermons29",
+   "Spurgeon's Sermons, vol. 29 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-30": [
+   "sermons30",
+   "Spurgeon's Sermons, vol. 30 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-31": [
+   "sermons31",
+   "Spurgeon's Sermons, vol. 31 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-32": [
+   "sermons32",
+   "Spurgeon's Sermons, vol. 32 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-33": [
+   "sermons33",
+   "Spurgeon's Sermons, vol. 33 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-34": [
+   "sermons34",
+   "Spurgeon's Sermons, vol. 34 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-35": [
+   "sermons35",
+   "Spurgeon's Sermons, vol. 35 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-36": [
+   "sermons36",
+   "Spurgeon's Sermons, vol. 36 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-37": [
+   "sermons37",
+   "Spurgeon's Sermons, vol. 37 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-38": [
+   "sermons38",
+   "Spurgeon's Sermons, vol. 38 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-39": [
+   "sermons39",
+   "Spurgeon's Sermons, vol. 39 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-40": [
+   "sermons40",
+   "Spurgeon's Sermons, vol. 40 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-41": [
+   "sermons41",
+   "Spurgeon's Sermons, vol. 41 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-42": [
+   "sermons42",
+   "Spurgeon's Sermons, vol. 42 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-43": [
+   "sermons43",
+   "Spurgeon's Sermons, vol. 43 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-44": [
+   "sermons44",
+   "Spurgeon's Sermons, vol. 44 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-45": [
+   "sermons45",
+   "Spurgeon's Sermons, vol. 45 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-46": [
+   "sermons46",
+   "Spurgeon's Sermons, vol. 46 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-47": [
+   "sermons47",
+   "Spurgeon's Sermons, vol. 47 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-48": [
+   "sermons48",
+   "Spurgeon's Sermons, vol. 48 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-49": [
+   "sermons49",
+   "Spurgeon's Sermons, vol. 49 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-50": [
+   "sermons50",
+   "Spurgeon's Sermons, vol. 50 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-51": [
+   "sermons51",
+   "Spurgeon's Sermons, vol. 51 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-52": [
+   "sermons52",
+   "Spurgeon's Sermons, vol. 52 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-53": [
+   "sermons53",
+   "Spurgeon's Sermons, vol. 53 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-54": [
+   "sermons54",
+   "Spurgeon's Sermons, vol. 54 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-55": [
+   "sermons55",
+   "Spurgeon's Sermons, vol. 55 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-56": [
+   "sermons56",
+   "Spurgeon's Sermons, vol. 56 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-57": [
+   "sermons57",
+   "Spurgeon's Sermons, vol. 57 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-58": [
+   "sermons58",
+   "Spurgeon's Sermons, vol. 58 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-59": [
+   "sermons59",
+   "Spurgeon's Sermons, vol. 59 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-60": [
+   "sermons60",
+   "Spurgeon's Sermons, vol. 60 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-61": [
+   "sermons61",
+   "Spurgeon's Sermons, vol. 61 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-62": [
+   "sermons62",
+   "Spurgeon's Sermons, vol. 62 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-sermons-63": [
+   "sermons63",
+   "Spurgeon's Sermons, vol. 63 (CCEL; New Park Street and Metropolitan Tabernacle Pulpit)",
+   ""
+  ],
+  "spurgeon-morning-evening": [
+   "morneve",
+   "Morning and Evening: Daily Readings",
+   ""
+  ],
+  "spurgeon-all-of-grace": [
+   "grace",
+   "All of Grace",
+   ""
+  ],
+  "spurgeon-faiths-checkbook": [
+   "checkbook",
+   "Faith's Checkbook",
+   ""
+  ],
+  "spurgeon-puritan-catechism": [
+   "catechism",
+   "A Puritan Catechism",
+   ""
+  ],
+  "spurgeon-commenting": [
+   "comment",
+   "Commenting and Commentaries",
+   ""
+  ],
+  "spurgeon-sermons-proverbs": [
+   "proverbs",
+   "Sermons on Proverbs",
+   ""
+  ],
+  "spurgeon-till-he-come": [
+   "till_he_come",
+   "Till He Come",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "spurgeon-treasury-david-1": [
+   "treasurydavidco08spurgoog",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 1: Psalms 1-26"
+  ],
+  "spurgeon-treasury-david-2": [
+   "treasuryofdavidc0002spur",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 2: Psalms 27-52"
+  ],
+  "spurgeon-treasury-david-3": [
+   "treasuryofdavidc0000spur",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 3: Psalms 53-78"
+  ],
+  "spurgeon-treasury-david-4": [
+   "treasurydavidco06spurgoog",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 4: Psalms 79-103"
+  ],
+  "spurgeon-treasury-david-5": [
+   "treasuryofdavidc0005spur",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 5: Psalms 104-118"
+  ],
+  "spurgeon-treasury-david-6": [
+   "treasuryofdavidc0006spur",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 6: Psalms 119-124"
+  ],
+  "spurgeon-treasury-david-7": [
+   "treasuryofdavidc0007spur",
+   "The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 7: Psalms 125-150"
+  ]
+ },
+ "_alternates": {
+  "thetreasuryofdav0[0-3]spuruoft, treasuryofdavid0[2,4,6]spuruoft": "Toronto scans catalogued 1881: their volumes break at different psalms (1-26, 27-57, 58-87, 88-110, 111-119, 120-134) and two are missing; not fetched.",
+  "treasurydavidco07spurgoog, treasurydavidvo00spurgoog (vol. 6), treasurydavid00spurgoog (vol. 4), treasurydavidvo01spurgoog (vol. 3), treasurydavidco04spurgoog (vol. 7), treasuryofdavidc0000spur_n6o0": "Further scans of the same volumes; not fetched.",
+  "treasuryofdavid0001chsp_r4x0 (1868), 0002unse_m4d3 (1870), 0003chsp_p3x5 (1872), 0005chsp (1878), 0007chsp_g3q6 (1885)": "First London printings (Passmore & Alabaster), not checked for a complete set this burn."
+ },
+ "_excluded": {
+  "CCEL spurgeon/treasury1..6, treasury-series": "stubs: contents pages only",
+  "ch-spurgeon-the-treasury-of-david-in-one-volume*": "undated modern digitisation of uncertain edition",
+  "treasuryofdavid0000chsp, bwb_KU-197-561 (1908), isbn_0000052256_2": "later reprints; not needed"
+ },
+ "_pending": {
+  "Lectures to My Students; John Ploughman's Talk; The Soul Winner; Around the Wicket Gate; Gutenberg Spurgeon": "not searched this burn"
+ }
+}

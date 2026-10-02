@@ -516,3 +516,28 @@ Target: the Nisbet *Complete Works of Thomas Manton* (22 vols, 1870-1875). CCEL 
 | Nisbet vol. 21 | have-raw | IA `completeworksoft21mant` |
 | Nisbet vol. 22 | have-raw | IA `completeworksoft22mant` |
 | IA scans of the CCEL volumes; Toronto scans | alternate | not fetched |
+
+
+## C. H. Spurgeon (round 2, 2026-10-02)
+
+The sermons, 63 volumes (1855-1917), and seven other works are held clean from CCEL. The Treasury of David is not usable from CCEL (its files are contents-only stubs), so it is held as raw IA OCR of the seven-volume American printing (Funk & Wagnalls, 1882-1886), each volume identified by the psalm range on its title page.
+
+| Work | Status | Where |
+|---|---|---|
+| Spurgeon's Sermons, vols 1-63 (1855-1917) | have | CCEL `sermons01`..`sermons63` (`spurgeon-sermons-01`..`63`) |
+| Morning and Evening: Daily Readings | have | CCEL `morneve` (`spurgeon-morning-evening`) |
+| All of Grace | have | CCEL `grace` (`spurgeon-all-of-grace`) |
+| Faith's Checkbook | have | CCEL `checkbook` (`spurgeon-faiths-checkbook`) |
+| A Puritan Catechism | have | CCEL `catechism` (`spurgeon-puritan-catechism`) |
+| Commenting and Commentaries | have | CCEL `comment` (`spurgeon-commenting`) |
+| Sermons on Proverbs | have | CCEL `proverbs` (`spurgeon-sermons-proverbs`) |
+| Till He Come | have | CCEL `till_he_come` (`spurgeon-till-he-come`) |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 1: Psalms 1-26 | have-raw | IA `treasurydavidco08spurgoog` |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 2: Psalms 27-52 | have-raw | IA `treasuryofdavidc0002spur` |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 3: Psalms 53-78 | have-raw | IA `treasuryofdavidc0000spur` |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 4: Psalms 79-103 | have-raw | IA `treasurydavidco06spurgoog` |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 5: Psalms 104-118 | have-raw | IA `treasuryofdavidc0005spur` |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 6: Psalms 119-124 | have-raw | IA `treasuryofdavidc0006spur` |
+| The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 7: Psalms 125-150 | have-raw | IA `treasuryofdavidc0007spur` |
+| Lectures to My Students; John Ploughman's Talk; The Soul Winner; Gutenberg Spurgeon | pending | not searched this burn |
+| CCEL Treasury of David (treasury1-6) | excluded | stubs |
