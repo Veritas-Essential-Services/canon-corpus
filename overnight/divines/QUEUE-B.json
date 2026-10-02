@@ -90,8 +90,11 @@
     },
     {
       "id": "stoics",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Marcus Aurelius (George Long, Casaubon), Epictetus (Long, Higginson, Carter), Seneca (Lodge 1614, Stewart, Basore where cleared); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Marcus Aurelius (George Long, Casaubon), Epictetus (Long, Higginson, Carter), Seneca (Lodge 1614, Stewart, Basore where cleared); shelf per author + fetch + map",
+      "started": "2026-10-02T15:49:32-05:00",
+      "finished": "2026-10-02T15:52:20-05:00",
+      "notes": "Marcus Aurelius 2, Epictetus 8, Seneca 8 fetched. Findings on the Adler shelf: marcus-meditations (PG 2680) is Casaubon by wording, not Long as labelled (inferred); epictetus-discourses (PG 45109) is Higginson's Enchiridion, not Matheson's Discourses (stated by the PG header)."
     },
     {
       "id": "roman-historians",

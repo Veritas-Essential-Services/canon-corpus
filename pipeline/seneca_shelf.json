@@ -1,0 +1,57 @@
+{
+ "_about": "Seneca in English, translator per title: Aubrey Stewart (Bohn: On Benefits; Minor Dialogues with On Clemency), Roger L'Estrange (Morals, 1678), John Clarke (Quaestiones Naturales as Physical Science in the Time of Nero, 1910), Frank Justus Miller (the Tragedies, verse, 1907), Ella Isabel Harris (Medea and Daughters of Troy), Elizabeth Twining Hall (Octavia, dubious), W. H. D. Rouse (Apocolocyntosis; Gutenberg clears it as US PD; Rouse d. 1950). All clean Gutenberg.",
+ "_name_words": [
+  "seneca",
+  "annaeus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "seneca-stewart-benefits": [
+   3794,
+   "L. Annaeus Seneca on Benefits",
+   "tr. Aubrey Stewart"
+  ],
+  "seneca-stewart-minor-dialogues": [
+   64576,
+   "Minor Dialogues, together with the Dialogue on Clemency",
+   "tr. Aubrey Stewart"
+  ],
+  "seneca-lestrange-morals": [
+   56075,
+   "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
+   "tr. Sir Roger L'Estrange"
+  ],
+  "seneca-clarke-natural-questions": [
+   76392,
+   "Physical Science in the Time of Nero (Quaestiones Naturales)",
+   "tr. John Clarke (1910)"
+  ],
+  "seneca-miller-tragedies": [
+   57999,
+   "The Tragedies of Seneca, translated into English verse",
+   "tr. Frank Justus Miller"
+  ],
+  "seneca-harris-medea-troy": [
+   46058,
+   "Two Tragedies of Seneca: Medea and The Daughters of Troy",
+   "tr. Ella Isabel Harris"
+  ],
+  "seneca-hall-octavia": [
+   54702,
+   "A Translation of Octavia, a Latin Tragedy",
+   "tr. Elizabeth Twining Hall (play of doubtful authorship)"
+  ],
+  "seneca-rouse-apocolocyntosis": [
+   10001,
+   "Apocolocyntosis",
+   "tr. W. H. D. Rouse; US PD per Gutenberg"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg59025": "an index page",
+  "pg55705": "a different Seneca (a 20th-century outdoor writer): wrong author",
+  "R. M. Gummere, Ad Lucilium Epistulae Morales (Loeb, 1917-25)": "US PD by date but printed with the Latin facing; pending",
+  "Thomas Lodge, Works (1614)": "PD; pending (IA)"
+ }
+}
