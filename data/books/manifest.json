@@ -4372,5 +4372,127 @@
    "unmatched": []
   },
   "built_sha256": "cc78b687228b7619433796379bd8618bc600032bd49537bd49b892341642933a"
+ },
+ "geneva": {
+  "title": "The Geneva Bible (1599)",
+  "author": "the Geneva translators (Whittingham and others)",
+  "format": "scrollmapper-json",
+  "sha256": "94258cf6fd486759b4b7ad2af7186b49eff2e85b595bdce89fd5e0e6c226cf0d",
+  "units": 31064,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact, except 26 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "geneva (CrossWire, KJV grid)",
+   "kjv_resolved": 31064,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 40,
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/geneva-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Geneva Bible (1599), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "# Geneva1599: Geneva Bible (1599) / **License:** Public Domain"
+  }
+ },
+ "tyndale": {
+  "title": "Tyndale's Bible (1525-1534)",
+  "author": "William Tyndale (translator)",
+  "format": "scrollmapper-json",
+  "sha256": "dbd7bc4ee0ddd5d315d80899958f8e96858c71e1dbb1ec4f954bfd9f9f1cf609",
+  "units": 7888,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact, except 7 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "tyndale (CrossWire, KJV grid)",
+   "kjv_resolved": 7888,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 23214,
+   "coverage": "ten books only: Genesis, Matthew-Acts, Romans, 1 Corinthians, Hebrews, Revelation (the module's transcription; Tyndale's other New Testament books, Exodus-Deuteronomy and Jonah are not in it)",
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/tyndale-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Tyndale's Bible (1525-1534), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "# Tyndale: William Tyndale Bible (1525/1530) / **License:** Public Domain"
+  }
+ },
+ "ylt": {
+  "title": "Young's Literal Translation (1898)",
+  "author": "Robert Young (translator)",
+  "format": "scrollmapper-json",
+  "sha256": "73c9dd9466ee24cdab7872ec956aae2a8ada2d1c92203e40caeba5a14587dcea",
+  "units": 31102,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact, except 6 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "ylt (CrossWire, KJV grid)",
+   "kjv_resolved": 31102,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 0,
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/ylt-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Young's Literal Translation (1898), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "# YLT: Young's Literal Translation (1898) / **License:** Public Domain"
+  }
+ },
+ "darby": {
+  "title": "The Darby Bible (1889)",
+  "author": "John Nelson Darby (translator)",
+  "format": "scrollmapper-json",
+  "sha256": "b7198ffbf978ae5670a5ecb2b7b1c073a4d9cf6a459b0c647884e0d340f0a05f",
+  "units": 31099,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "darby (CrossWire, KJV grid)",
+   "kjv_resolved": 31099,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 3,
+   "rules": [
+    {
+     "why": "a space restored before 'God', lost when the source's markup was stripped",
+     "applied": 3681
+    }
+   ],
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/darby-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Darby Bible (1889), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "# Darby: Darby Bible (1889) / **License:** Public Domain"
+  }
+ },
+ "asv": {
+  "title": "The American Standard Version (1901)",
+  "author": "the American Revision Committee",
+  "format": "scrollmapper-json",
+  "sha256": "1589f16be31b2aa2e9374951ac2ba1ce9566bf3704248b2daf034b3ff9b47b40",
+  "units": 31086,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "asv (CrossWire, KJV grid)",
+   "kjv_resolved": 31086,
+   "kjv_unresolved": 0,
+   "empty_slots_not_units": 16,
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/asv-kjv.json; no uids minted."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The American Standard Version (1901), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "# ASV: American Standard Version (1901) / **License:** Public Domain"
+  }
  }
 }

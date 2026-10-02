@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 87 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 91 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -102,6 +102,13 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
     python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
     python3 tests/brenton_versification_test.py  # the Brenton map, offline
+    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, pinned
+    python3 pipeline/build_english_versification.py --check  # their KJV maps byte-identical; invariants
+    python3 pipeline/build_english_versification.py --audit geneva  # verses a nearby KJV verse fits better
+    python3 tests/english_versification_test.py  # the five maps, offline
+    python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
+    python3 pipeline/build_parallel_index.py --check  # the index byte-identical
+    python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -249,6 +256,29 @@ The living truth for project state is the Obsidian vault:
   the words agree (Jer 10:9a is NOT 10:10). versification.resolve_brenton.
   No Greek LXX: Rahlfs and CATSS are restricted; Swete awaits a ruling (its
   only machine-readable text is CC BY-SA markup over the PD edition).
+- The historic English Bibles: Geneva 1599, Tyndale, Young's (1898), Darby
+  (1889), ASV (1901) — fetch_sources.ENGLISH, scrollmapper's JSON of CrossWire
+  modules at the Douay's pin, each README read ("License: Public Domain") →
+  convert_english → data/books/<slug>.json (gitignored). A CrossWire module sits
+  on the KJV's verse GRID: ids are its slots, the Bible's own numbers except
+  where it numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4,
+  Job 39-41...) and the chapter's overflow is merged into its last slot.
+  build_english_versification.py → data/versification/<slug>-kjv.json
+  (COMMITTED; the house's own reading, PD): each chapter aligned against the
+  KJV's English, followed only where it reads clearly better; HOUSE_ROWS for
+  swaps (Phil 1:16-17) and what old spelling hides. This Tyndale holds ten
+  books only; Darby's "beginningGod" is mended by a per-book rule
+  (ENGLISH_RULES). versification.resolve_english. NOT here: Wycliffe (the
+  one reachable PD copy, BibleNLP's eBible extract, drops verses where the
+  Vulgate's chapters run longer than the Hebrew's), Coverdale and the
+  Bishops' (no reachable machine-readable PD source found).
+  Candidates for a full-network lane: docs/pending-sources.md.
+- pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
+  generated): one row per KJV verse (with its uid), naming the verse(s) that
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
+  pilot on this branch), and each shelf version, in that version's own
+  numbering. Read off the committed maps and the built books' `kjv`; no new
+  judgement. A version's verse with no KJV verse is in no row.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
