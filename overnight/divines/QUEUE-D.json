@@ -139,8 +139,11 @@
     },
     {
       "id": "aesop",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Aesop's Fables in George Fyler Townsend's (1867) and Joseph Jacobs's (1894) translations. Lane note: earlier fables work may exist outside this repo — flag for Adam before minting; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Aesop's Fables in George Fyler Townsend's (1867) and Joseph Jacobs's (1894) translations. Lane note: earlier fables work may exist outside this repo — flag for Adam before minting; no minting",
+      "started": "2026-10-02T16:08:18-05:00",
+      "finished": "2026-10-02T16:11:25-05:00",
+      "notes": "2/2 fetched (Gutenberg), 0 copyright markers; 768 units (Townsend 503 in 311 fables+front matter, Jacobs 265 in 82 fables). Found a structure_texts.py Contents bug: _contents_key strips a lowercase roman 'page number' with no separator, eating title endings in c/i/l/v/x (Council -> Coun, Jewel -> Je"
     },
     {
       "id": "nesbit",

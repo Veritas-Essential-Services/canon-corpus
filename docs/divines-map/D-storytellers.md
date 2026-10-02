@@ -29,7 +29,7 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | Tales of Romance (based on The Book of Romance) | have | PG 33152, `lang-tales-of-romance` (650 units) |
 | The Red Book of Heroes (1909), by Mrs. Lang, ed. Andrew Lang | have | PG 19078, `lang-red-book-of-heroes` (1358 units) |
 | The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang | have | PG 46145, `lang-book-of-princes-and-princesses` (942 units) |
-| The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang | have | PG 37396, `lang-strange-story-book` (1623 units) |
+| The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang | have | PG 37396, `lang-strange-story-book` (1622 units) |
 | Prince Prigio (1889) | have | PG 20850, `lang-prince-prigio` (428 units) |
 | Prince Ricardo of Pantouflia (1893) | have | PG 21994, `lang-prince-ricardo` (669 units) |
 | The Gold of Fairnilee (1888) | have | PG 21934, `lang-gold-of-fairnilee` (324 units) |
@@ -72,7 +72,7 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The Puzzle of Dickens's Last Plot (1905) | have | PG 738, `lang-puzzle-dickens-last-plot` (139 units) |
 | Shakespeare, Bacon, and the Great Unknown (1912) | have | PG 5127, `lang-shakespeare-bacon` (933 units) |
 | Alfred Tennyson (1901) | have | PG 3654, `lang-alfred-tennyson` (643 units) |
-| Sir Walter Scott (1906) | have | PG 61245, `lang-sir-walter-scott` (533 units) |
+| Sir Walter Scott (1906) | have | PG 61245, `lang-sir-walter-scott` (531 units) |
 | Sir Walter Scott and the Border Minstrelsy (1910) | have | PG 4088, `lang-scott-border-minstrelsy` (848 units) |
 | History of English Literature from Beowulf to Swinburne (1912) | have | PG 56613, `lang-history-english-literature` (2932 units) |
 | Oxford: Brief Historical and Descriptive Notes | have | PG 2444, `lang-oxford` (192 units) |
@@ -228,7 +228,7 @@ Shelf: `pipeline/macdonald_shelf.json` (2026-10-02; added at the coordinator's r
 | Paul Faber, Surgeon (1879) | have | PG 12387, `macdonald-paul-faber` (2113 units) |
 | Mary Marston (1881) | have | PG 8201, `macdonald-mary-marston` (3060 units) |
 | Warlock o' Glenwarlock (Castle Warlock, 1882) | have | PG 6364, `macdonald-warlock-o-glenwarlock` (2907 units) |
-| Weighed and Wanting (1882) | have | PG 9096, `macdonald-weighed-and-wanting` (2425 units) |
+| Weighed and Wanting (1882) | have | PG 9096, `macdonald-weighed-and-wanting` (2419 units) |
 | Stephen Archer, and Other Tales (1883) | have | PG 9191, `macdonald-stephen-archer` (2288 units) |
 | What's Mine's Mine (1886) | have | PG 5969, `macdonald-whats-mines-mine` (3140 units) |
 | Home Again (1887) | have | PG 8924, `macdonald-home-again` (999 units) |
@@ -238,11 +238,11 @@ Shelf: `pipeline/macdonald_shelf.json` (2026-10-02; added at the coordinator's r
 | For the Right (1888) | have | PG 36904, `macdonald-for-the-right` (2333 units) |
 | The Light Princess and Other Fairy Stories (collection) | have | PG 18811, `macdonald-light-princess-other-stories` (839 units) |
 | A Dish of Orts: Chiefly Papers on the Imagination, and on Shakespeare (1893) | have | PG 9393, `macdonald-dish-of-orts` (694 units) |
-| England's Antiphon (1868), an anthology of English religious verse with MacDonald's commentary | have | PG 10375, `macdonald-englands-antiphon` (1701 units) |
+| England's Antiphon (1868), an anthology of English religious verse with MacDonald's commentary | have | PG 10375, `macdonald-englands-antiphon` (1698 units) |
 | The Tragedie of Hamlet: A Study with the Text of the Folio of 1623 (1885) | have | PG 10606, `macdonald-hamlet-study` (3340 units) |
 | A Hidden Life and Other Poems | have | PG 10578, `macdonald-hidden-life` (1132 units) |
-| The Poetical Works of George MacDonald (1893), vol. 1 | have | PG 9543, `macdonald-poetical-works-1` (2674 units) |
-| The Poetical Works of George MacDonald (1893), vol. 2 | have | PG 9984, `macdonald-poetical-works-2` (2230 units) |
+| The Poetical Works of George MacDonald (1893), vol. 1 | have | PG 9543, `macdonald-poetical-works-1` (2670 units) |
+| The Poetical Works of George MacDonald (1893), vol. 2 | have | PG 9984, `macdonald-poetical-works-2` (2214 units) |
 | Rampolli: Growths from a Long-Planted Root (1897), translations and poems | have | PG 8949, `macdonald-rampolli` (617 units) |
 | Dealings with the Fairies (1867), the first fairy-tale collection | have-raw | IA `dealingswithfair00macd_0`, `macdonald-dealings-with-the-fairies` |
 | A Threefold Cord: Poems by Three Friends (1883), ed. MacDonald | have-raw | IA `threefoldcordpoe00macd`, `macdonald-threefold-cord` |
@@ -276,7 +276,7 @@ Shelf: `pipeline/andersen_shelf.json` (2026-10-02; added at the coordinator's re
 
 | Work | Status | Where |
 |---|---|---|
-| Fairy Tales of Hans Christian Andersen (translator not named in the Gutenberg file; its wording matches the text usually credited to Mrs. H. B. Paull, 1872 — unverified) | have | PG 27200, `andersen-fairy-tales-paull` (4835 units) |
+| Fairy Tales of Hans Christian Andersen (translator not named in the Gutenberg file; its wording matches the text usually credited to Mrs. H. B. Paull, 1872 — unverified) | have | PG 27200, `andersen-fairy-tales-paull` (4825 units) |
 | What the Moon Saw, and Other Tales, tr. H. W. Dulcken (1866) | have | PG 27000, `andersen-what-the-moon-saw-dulcken` (2225 units) |
 | Wonderful Stories for Children, tr. Mary Howitt (1846) | have | PG 43600, `andersen-wonderful-stories-howitt` (501 units) |
 | The True Story of My Life, tr. Mary Howitt (1847) | have | PG 7007, `andersen-true-story-of-my-life-howitt` (579 units) |
@@ -375,7 +375,7 @@ Shelf: `pipeline/bulfinch_shelf.json` (2026-10-02; added at the coordinator's re
 |---|---|---|
 | The Age of Fable, or Stories of Gods and Heroes (1855) | have | PG 4925, `bulfinch-age-of-fable` (2605 units) |
 | The Age of Chivalry, or Legends of King Arthur (1858) | have | PG 4926, `bulfinch-age-of-chivalry` (2239 units) |
-| Legends of Charlemagne, or Romance of the Middle Ages (1863) | have | PG 4927, `bulfinch-legends-of-charlemagne` (2197 units) |
+| Legends of Charlemagne, or Romance of the Middle Ages (1863) | have | PG 4927, `bulfinch-legends-of-charlemagne` (2195 units) |
 | Oregon and Eldorado; or, Romance of the Rivers (1866) | have | PG 38774, `bulfinch-oregon-and-eldorado` (731 units) |
 | bulfinch-combined | excluded | Bulfinch's Mythology in one file (PG 4928, 56644) and a second Age of Fable (PG 3327): the three books are held singly |
 | bulfinch-gayley | excluded | The Classic Myths in English Literature (PG 46063): Charles Mills Gayley's book based on Bulfinch, not Bulfinch's text |
@@ -450,7 +450,7 @@ Shelf: `pipeline/kipling_shelf.json` (2026-10-02; added at the coordinator's rel
 | The Jungle Book (1894) | have | PG 35997, `kipling-jungle-book` (1072 units) |
 | The Second Jungle Book (1895) | have | PG 37364, `kipling-second-jungle-book` (1168 units) |
 | Just So Stories (1902) | have | PG 32488, `kipling-just-so-stories` (839 units) |
-| Puck of Pook's Hill (1906) | have | PG 15976, `kipling-puck-of-pooks-hill` (1481 units) |
+| Puck of Pook's Hill (1906) | have | PG 15976, `kipling-puck-of-pooks-hill` (1480 units) |
 | Rewards and Fairies (1910) | have | PG 32772, `kipling-rewards-and-fairies` (1892 units) |
 | kipling-duplicates | excluded | other Gutenberg transcriptions of the same books: Jungle Book (PG 236), Second Jungle Book (1937), Just So Stories (2781), Puck of Pook's Hill (557, 26027), Rewards and Fairies (556): texts held |
 | kipling-not-this-shelf | pending | PENDING, outside the relay's list unless Adam widens it: Kim (PG 35555/2226), Captains Courageous (2186/2225), Stalky & Co. (3006), Land and Sea Tales (63619), The Day's Work (2569), Plain Tales from the Hills (1858), Soldiers Three (6120), Life's Handicap (5777), Many Inventions (78240), Traffics and Discoveries (9790), Actions and Reactions (2381), A Diversity of Creatures (13085), Debits and Credits (71002), The Light That Failed (2876), the verse (Departmental Ditties and Barrack-Room Ballads 7846, The Seven Seas 27870, The Five Nations 60260-60261, The Years Between 21777, Songs from Books 15529), travel and war writing (American Notes, From Sea to Sea, Letters of Travel, Sea Warfare, The Irish Guards in the Great War, and others) |
@@ -531,10 +531,22 @@ Shelf: `pipeline/chesterton-gaps_shelf.json` (2026-10-02; added at the coordinat
 | chesterton-not-pd | excluded | 1931 and later (Autobiography, The Well and the Shallows, Chaucer, The Scandal of Father Brown, St. Thomas Aquinas and the rest): not yet US public domain |
 | chesterton-other-scans | excluded | other scans of the same books (DLI copies 404 on the text file; later reprints of 1937 and 1953; the 1906 Robert Louis Stevenson booklet with W. Robertson Nicoll is a different work) |
 
+## Aesop (Townsend and Jacobs)
+
+Shelf: `pipeline/aesop_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The two English versions the relay named, each its own work: Townsend's literal translation (1867) and Jacobs's retelling (1894). Both cite by fable title, read from each book's own Contents. Townsend gives ten fables a title another fable already has (two called The Two Frogs, for instance) and numbers none of them, so the second of each pair cites with `~2`. Other English versions are listed as pending. Earlier house fables work was not found in this repo (see Fables below). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Aesop's Fables, tr. George Fyler Townsend (1867) | have | PG 21, `aesop-townsend` (503 units) |
+| The Fables of Aesop, selected, told anew and their history traced by Joseph Jacobs (1894) | have | PG 28, `aesop-jacobs` (265 units) |
+| aesop-other-versions | pending | PENDING, outside the relay's two translations unless Adam widens it: V. S. Vernon Jones's translation with G. K. Chesterton's introduction and Rackham's pictures (PG 11339, 1912), Croxall (39187), L'Estrange's Fables of Aesop and other mythologists (79038), Bewick's editions (60004, 60874), the 1884 Revised Version (18732), Alfred Caldecott (34588), and the children's versions (Winter 19994, Stickney 49010, C. Robinson 53103, Park's rhymes 21189, Crane's Baby's Own Aesop 25433, Aikin's one-syllable version 76243) |
+| aesop-translations | excluded | Finnish (PG 74326): this shelf is English |
+| aesop-stevenson | excluded | Stevenson's own Fables (1896) are his, not Aesop's: held on the stevenson shelf |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
 
 | Work | Status | Where |
 |---|---|---|
-| Earlier fables work | pending | locate it: it may live in a sibling repo (armarium, wordhoard) or the vault, which this run cannot reach |
+| Earlier fables work | pending | locate it: it may live in a sibling repo (armarium, wordhoard) or the vault, which this run cannot reach. Reconcile it with the Aesop shelf above before anything is minted |

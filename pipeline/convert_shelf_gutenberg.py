@@ -33,10 +33,24 @@ Internet Archive items stay raw OCR (the Edwards precedent).
 import json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from structure_texts import convert_gutenberg_prose, contents_chapre, strip_boilerplate, _contents_key
+from structure_texts import convert_gutenberg_prose, contents_chapre, strip_boilerplate
 from convert_nested import convert_nested
 
 RE_CONTENTS_HEAD_LOOSE = re.compile(r"^\s*_?(TABLE OF )?CONTENTS\.?_?\s*$", re.I | re.M)
+# A Contents line's page number, only when set off from the title by a space or
+# leader. structure_texts._contents_key's tail rule takes a lower-case roman page
+# number with no separator, so it eats the end of any title ending in c/i/l/v/x
+# ("The Mice in Council" -> "The Mice in Coun", "The Cock and the Jewel" -> "...Jewe")
+# and that heading is never found in the body. Kept here, not fixed there:
+# structure_texts.py is not this lane's to edit (reported for Adam, 2026-10-02).
+# Likewise a leading number only when a space or stop follows it: the house rule,
+# case-blind, reads the "Li" of "Lion and the Mouse" as a roman numeral.
+RE_CONTENTS_NUM_SEP = re.compile(r"^(?:CHAPTER|CHAP\.)?\s*(?:(?:[IVXLC]+|\d+)(?=[\s.:)]))?\s*[.:)]?\s*", re.I)
+RE_CONTENTS_TAIL_SEP = re.compile(r"(?:[\s.~_*\u00b7\u2026]+(?:\d+|[ivxlc]+))?[\s.~_*\u00b7\u2026]*$")
+
+def _lenient_key(line):
+    t = RE_CONTENTS_NUM_SEP.sub("", line.strip(), count=1)
+    return RE_CONTENTS_TAIL_SEP.sub("", t).strip(" .:-\u2014")
 
 def lenient_contents_chapre(path):
     """contents_chapre's idea, made forgiving, for {"contents_only": true} books:
@@ -58,7 +72,7 @@ def lenient_contents_chapre(path):
         blank_run = 0
         if len(line.strip()) > 80 and keys and not re.search(r"\d\s*$", line):
             break
-        k = _contents_key(line.replace("_", " "))
+        k = _lenient_key(line.replace("_", " "))
         if k.upper() in ("PAGE", "CHAPTER", "CONTENTS") or not re.search(r"[A-Za-z]{3}", k):
             continue
         if 3 <= len(k) <= 80:

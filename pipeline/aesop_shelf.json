@@ -1,0 +1,31 @@
+{
+ "_about": "Aesop's Fables in the two English versions the relay named: George Fyler Townsend's translation (1867) and Joseph Jacobs's retelling with his history of the fables (1894). Each is its own work and its own slug, as with Andersen. Clean Gutenberg text; US public domain. Earlier house fables work was not found in this repo (see the map's Fables section); it may sit in another repository or the vault, and should be reconciled with this shelf before anything is minted.",
+ "_author": "Aesop",
+ "_name_words": [
+  "aesop",
+  "æsop"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aesop-townsend": [
+   21,
+   "Aesop's Fables, tr. George Fyler Townsend (1867)",
+   {
+    "contents_only": true
+   }
+  ],
+  "aesop-jacobs": [
+   28,
+   "The Fables of Aesop, selected, told anew and their history traced by Joseph Jacobs (1894)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "aesop-other-versions": "PENDING, outside the relay's two translations unless Adam widens it: V. S. Vernon Jones's translation with G. K. Chesterton's introduction and Rackham's pictures (PG 11339, 1912), Croxall (39187), L'Estrange's Fables of Aesop and other mythologists (79038), Bewick's editions (60004, 60874), the 1884 Revised Version (18732), Alfred Caldecott (34588), and the children's versions (Winter 19994, Stickney 49010, C. Robinson 53103, Park's rhymes 21189, Crane's Baby's Own Aesop 25433, Aikin's one-syllable version 76243)",
+  "aesop-translations": "Finnish (PG 74326): this shelf is English",
+  "aesop-stevenson": "Stevenson's own Fables (1896) are his, not Aesop's: held on the stevenson shelf"
+ }
+}
