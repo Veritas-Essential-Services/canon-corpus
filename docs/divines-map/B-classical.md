@@ -759,7 +759,7 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Pharsalia; Dramatic Episodes of the Civil Wars | Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation | `lucan-ridley-pharsalia` | have (PG 602) |
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 | Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
-| Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
+| Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | pending (IA `bub_gb_GEsNZ2BDG1QC`: title page read, vol. II, 1812; the text file answers HTTP 500 intermittently, retrying) |
 
 Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
