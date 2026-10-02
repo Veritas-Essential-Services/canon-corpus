@@ -1972,6 +1972,7 @@ Shelf: `pipeline/galen_shelf.json`. Brock's Natural Faculties 1916 (Gutenberg; f
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Galen: On the Natural Faculties | Arthur John Brock | `galen-brock-natural-faculties` | have (PG 43383) |
+| On the Natural Faculties | Arthur John Brock | `galen-perseus-brock-on-the-natural-faculties` | have (Perseus TEI `tlg0057.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
 
 ## Aretaeus
 

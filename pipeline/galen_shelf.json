@@ -1,17 +1,25 @@
 {
- "_about": "Galen, On the Natural Faculties, in A. J. Brock's Loeb translation (1916), clean Gutenberg; the Gutenberg text keeps the facing Greek.",
- "_name_words": [
-  "galen",
-  "natural",
-  "faculties"
- ],
- "ccel": {},
- "gutenberg": {
-  "galen-brock-natural-faculties": [
-   43383,
-   "Galen: On the Natural Faculties",
-   "tr. Arthur John Brock"
-  ]
- },
- "internet_archive": {}
+  "_about": "Galen, On the Natural Faculties, in A. J. Brock's Loeb translation (1916), clean Gutenberg; the Gutenberg text keeps the facing Greek. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+  "_name_words": [
+    "galen",
+    "natural",
+    "faculties"
+  ],
+  "ccel": {},
+  "gutenberg": {
+    "galen-brock-natural-faculties": [
+      43383,
+      "Galen: On the Natural Faculties",
+      "tr. Arthur John Brock"
+    ]
+  },
+  "internet_archive": {},
+  "perseus": {
+    "galen-perseus-brock-on-the-natural-faculties": [
+      "tlg0057.tlg010.perseus-eng2",
+      "On the Natural Faculties",
+      "Arthur John Brock",
+      "Translation published 1916: US public domain (in or before 1930). Perseus source line: Galen. On the Natural Faculties. Brock, Arthur John, translator. London: William Heinemann Ltd.; Cambridge, MA.: Harvard University Press, 1916."
+    ]
+  }
 }
