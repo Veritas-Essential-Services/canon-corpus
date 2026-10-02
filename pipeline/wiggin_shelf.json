@@ -1,0 +1,67 @@
+{
+ "_about": "Kate Douglas Wiggin's (1856-1923) children's books: Rebecca of Sunnybrook Farm (1903) and New Chronicles of Rebecca (1907), The Birds' Christmas Carol (1887), Mother Carey's Chickens (1911), Timothy's Quest (1890) and Polly Oliver's Problem (1893). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Kate Douglas Wiggin",
+ "_name_words": [
+  "rebecca",
+  "sunnybrook",
+  "carey",
+  "christmas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wiggin-rebecca-of-sunnybrook-farm": [
+   498,
+   "Rebecca of Sunnybrook Farm (1903)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-new-chronicles-of-rebecca": [
+   1375,
+   "New Chronicles of Rebecca (1907)",
+   {
+    "levels": [
+     {
+      "re": "\\w+ Chronicle\\. .*"
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "First Chronicle\\. ",
+    "front": true
+   }
+  ],
+  "wiggin-birds-christmas-carol": [
+   721,
+   "The Birds' Christmas Carol (1887)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-mother-careys-chickens": [
+   10540,
+   "Mother Carey's Chickens (1911)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-timothys-quest": [
+   18531,
+   "Timothy's Quest (1890)"
+  ],
+  "wiggin-polly-olivers-problem": [
+   15630,
+   "Polly Oliver's Problem (1893)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "wiggin-duplicate": "The Birds' Christmas Carol (PG 24286): a second transcription",
+  "wiggin-anthologies": "the anthologies she edited with Nora Archibald Smith (The Fairy Ring, Tales of Laughter, Tales of Wonder, The Arabian Nights, Pinafore Palace, The Posy Ring, Golden Numbers): other people's texts, which other shelves hold at source",
+  "wiggin-adult": "Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics"
+ }
+}

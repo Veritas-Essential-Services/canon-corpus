@@ -1108,6 +1108,22 @@ Shelf: `pipeline/montgomery_shelf.json` (2026-10-02; added at the coordinator's 
 | montgomery-duplicate | excluded | Anne of Green Gables (PG 64365): a later illustrated printing |
 | montgomery-short-stories | excluded | the six magazine short-story gatherings (PG 24873-24878): candidates for a later batch |
 
+## Kate Douglas Wiggin
+
+Shelf: `pipeline/wiggin_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her children's books; New Chronicles of Rebecca nested chronicle > part. The anthologies she edited are not taken (other people's texts). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rebecca of Sunnybrook Farm (1903) | have | PG 498, `wiggin-rebecca-of-sunnybrook-farm` (1292 units) |
+| New Chronicles of Rebecca (1907) | have | PG 1375, `wiggin-new-chronicles-of-rebecca` (1195 units) |
+| The Birds' Christmas Carol (1887) | have | PG 721, `wiggin-birds-christmas-carol` (215 units) |
+| Mother Carey's Chickens (1911) | have | PG 10540, `wiggin-mother-careys-chickens` (1342 units) |
+| Timothy's Quest (1890) | have | PG 18531, `wiggin-timothys-quest` (560 units) |
+| Polly Oliver's Problem (1893) | have | PG 15630, `wiggin-polly-olivers-problem` (783 units) |
+| wiggin-duplicate | excluded | The Birds' Christmas Carol (PG 24286): a second transcription |
+| wiggin-anthologies | excluded | the anthologies she edited with Nora Archibald Smith (The Fairy Ring, Tales of Laughter, Tales of Wonder, The Arabian Nights, Pinafore Palace, The Posy Ring, Golden Numbers): other people's texts, which other shelves hold at source |
+| wiggin-adult | excluded | Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

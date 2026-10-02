@@ -442,7 +442,9 @@
     {
       "id": "wiggin",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Kate Douglas Wiggin's children's books; children's classics batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T17:29:42-05:00",
+      "notes": "6/6 fetched (Gutenberg 498, 1375, 721, 10540, 18531, 15630), 5,387 units, 6 ~2 ids."
     },
     {
       "id": "ewing",
