@@ -1,0 +1,28 @@
+{
+ "_about": "Athenaeus, The Deipnosophists, in C. D. Yonge's translation (Bohn), 3 vols., clean Gutenberg.",
+ "_name_words": [
+  "athenaeus",
+  "athenæus",
+  "deipnosophists",
+  "banquet"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "athenaeus-yonge-v1": [
+   36921,
+   "The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 1",
+   "tr. Charles Duke Yonge"
+  ],
+  "athenaeus-yonge-v2": [
+   65023,
+   "The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 2",
+   "tr. Charles Duke Yonge"
+  ],
+  "athenaeus-yonge-v3": [
+   66508,
+   "The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 3",
+   "tr. Charles Duke Yonge"
+  ]
+ },
+ "internet_archive": {}
+}
