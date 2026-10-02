@@ -1,0 +1,17 @@
+{
+ "_about": "Aretaeus the Cappadocian, The Extant Works, edited and translated by Francis Adams (Sydenham Society, 1856), raw IA OCR. The volume prints the Greek text and the English translation; the OCR of the Greek is unreliable (clean-word 0.83 overall).",
+ "_name_words": [
+  "aretaeus",
+  "aretæus",
+  "cappadocian"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aretaeus-adams": [
+   "extantworksaret00adamgoog",
+   "The Extant Works of Aretaeus, the Cappadocian (1856)",
+   "ed. and tr. Francis Adams"
+  ]
+ }
+}
