@@ -128,6 +128,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
     python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
     python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
+    python3 pipeline/build_philo.py --fetch      # Philo: Cohn-Wendland Greek + Yonge English (First1KGreek, pinned)
+    python3 pipeline/build_philo.py --check      # rebuild = the committed manifest entries
+    python3 pipeline/build_philo.py --measure    # how Cohn-Wendland number scripture: the evidence
+    python3 tests/philo_test.py              # Philo: alignment, scripture refs, OCR cruft
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -208,6 +212,12 @@ The living truth for project state is the Obsidian vault:
   book.chapter.section in both languages, linked to each other; each Greek
   unit lists its Niese sections (lex.niese). Perseus's Whiston milestones have
   four slips, corrected by FIXES rows; the build stops on any new one.
+- pipeline/build_philo.py — Philo, 31 treatises: Cohn-Wendland's Greek and
+  Yonge's English (both PD; First1KGreek TEI CC BY-SA 4.0, so books gitignored,
+  labelled manifest entries committed), aligned by Cohn-Wendland section.
+  The editors' scripture references leave the Greek text for links[]; they
+  number Psalms and Exod 35-40 as the LXX, the rest as the KJV (measured,
+  `--measure`). Bohn's running heads in the English are CRUFT rows.
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves

@@ -128,6 +128,18 @@ every Greek unit also gives its Niese sections (`18.63-64`), so either
 citation finds it. 2,304 aligned units; 72% of the Greek words carry a
 Strong's number. `python3 pipeline/build_josephus.py --fetch`.
 
+## Philo (Greek and English)
+
+The 31 treatises of Philo of Alexandria that survive in Greek: Cohn-Wendland's
+Greek (1896-1915) and Yonge's English (1854-55), both public domain, from the
+First1KGreek TEI, which is CC BY-SA (built locally, labelled in the manifest).
+62 books, cited by treatise and Cohn-Wendland section (`Spec. 1.177`) and
+aligned section for section; only *On the Special Laws* has Greek sections the
+English file lacks, 58 of them, listed. The editors' 1,836 scripture
+references are moved out of the Greek into links, and 1,827 resolve to a KJV
+verse (`--measure` shows how they number). 70% of the Greek words carry a
+Strong's number. `python3 pipeline/build_philo.py --fetch`.
+
 ## The reader (reverse interlinear, D5)
 
     python3 pipeline/render_reader.py       # -> build/reader/reader.html (gitignored)
