@@ -1,0 +1,26 @@
+{
+ "_about": "Statius in J. H. Mozley's Loeb translation (1928), 2 vols. (Silvae, Thebaid, Achilleid), raw IA OCR; Latin and English on facing pages. Published 1928, so US PD by date.",
+ "_name_words": [
+  "statius",
+  "thebaid",
+  "silvae",
+  "achilleid"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "statius-mozley-v1": [
+   "statius01stat",
+   "Statius, vol. 1: Silvae, Thebaid I-IV (Loeb, 1928)",
+   "tr. J. H. Mozley"
+  ],
+  "statius-mozley-v2": [
+   "statius02stat",
+   "Statius, vol. 2: Thebaid V-XII, Achilleid (Loeb, 1928)",
+   "tr. J. H. Mozley"
+  ]
+ },
+ "_excluded": {
+  "statiusstat01statuoft, statiuswithengli02statuoft": "second scans; lower OCR"
+ }
+}
