@@ -1,0 +1,20 @@
+{
+  "lane": "D",
+  "items": [
+    {
+      "id": "lang",
+      "status": "todo",
+      "scope": "STORYTELLERS — Andrew Lang, all public-domain works (Coloured Fairy Books, poetry, folklore, histories, Homer trans.); shelf + fetch + map section"
+    },
+    {
+      "id": "lamb",
+      "status": "todo",
+      "scope": "STORYTELLERS — Charles Lamb, all public-domain works (Essays of Elia, letters, Tales from Shakespeare w/ Mary Lamb); shelf + fetch + map section"
+    },
+    {
+      "id": "fables-fold",
+      "status": "todo",
+      "scope": "STORYTELLERS — locate the fables work already in the repo (git grep, do not guess a path), fold it into the Storytellers map by cross-reference; no re-ingest, no new uids"
+    }
+  ]
+}

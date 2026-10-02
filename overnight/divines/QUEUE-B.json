@@ -1,0 +1,35 @@
+{
+  "lane": "B",
+  "items": [
+    {
+      "id": "plato-jowett",
+      "status": "todo",
+      "scope": "CLASSICAL — Benjamin Jowett complete English Plato (all dialogues); shelf + fetch + classical map section"
+    },
+    {
+      "id": "aristotle-ross",
+      "status": "todo",
+      "scope": "CLASSICAL — W.D. Ross Oxford English Aristotle (12-vol Works Translated into English); Perseus English gap-fill only, no Greek; shelf + fetch + classical map section"
+    },
+    {
+      "id": "hesiod",
+      "status": "todo",
+      "scope": "CLASSICAL — Hesiod, English (Evelyn-White); shelf + fetch + classical map section"
+    },
+    {
+      "id": "ovid",
+      "status": "todo",
+      "scope": "CLASSICAL — Ovid, English, translator-per-work; cross-ref Dryden-Garth from the Dryden shelf; shelf + fetch + classical map section"
+    },
+    {
+      "id": "virgil",
+      "status": "todo",
+      "scope": "CLASSICAL — Virgil standalone (Aeneid, Georgics, Eclogues); cross-ref Dryden's Virgil; shelf + fetch + classical map section"
+    },
+    {
+      "id": "overflow-perseus",
+      "status": "overflow",
+      "scope": "Perseus — census pipeline/perseus_catalog.py against what is fetched; record the gap as a measured list in docs/; fetch only if the existing pipeline supports it without editing fetch_sources.py"
+    }
+  ]
+}
