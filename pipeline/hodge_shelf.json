@@ -1,0 +1,94 @@
+{
+ "_about": "Every public-domain Charles Hodge (1797-1878, Princeton) text the Word Hoard holds. The Systematic Theology (3 vols + index), the Ephesians commentary and What is Darwinism? are held clean from CCEL. The Romans and Corinthians commentaries, The Way of Life and four collections of essays, discourses and church history are raw Internet Archive OCR. Gutenberg has only What is Darwinism? (PG 19192), which CCEL already supplies. Not A. A. Hodge, his son, whose books are not shelved here.",
+ "_ccel_author": "h/hodge",
+ "_name_words": [
+  "hodge"
+ ],
+ "_held": {},
+ "ccel": {
+  "hodge-systematic-theology-1": [
+   "theology1",
+   "Systematic Theology, vol. I (1871-1873)",
+   ""
+  ],
+  "hodge-systematic-theology-2": [
+   "theology2",
+   "Systematic Theology, vol. II",
+   ""
+  ],
+  "hodge-systematic-theology-3": [
+   "theology3",
+   "Systematic Theology, vol. III",
+   ""
+  ],
+  "hodge-systematic-theology-index": [
+   "theology4",
+   "Systematic Theology, Index",
+   ""
+  ],
+  "hodge-ephesians": [
+   "ephesians",
+   "A Commentary on the Epistle to the Ephesians (1856)",
+   ""
+  ],
+  "hodge-what-is-darwinism": [
+   "darwinism",
+   "What is Darwinism? (1874)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "hodge-romans-1864": [
+   "commentaryonepis00hodgiala",
+   "Commentary on the Epistle to the Romans (revised edition, 1864)"
+  ],
+  "hodge-1-corinthians-1857": [
+   "expositionoffirs00hodg",
+   "An Exposition of the First Epistle to the Corinthians (1857)"
+  ],
+  "hodge-way-of-life-1841": [
+   "wayoflife00hodg",
+   "The Way of Life (Philadelphia: American Sunday-School Union, 1841)"
+  ],
+  "hodge-essays-reviews-1857": [
+   "essaysreviews00hodg",
+   "Essays and Reviews, selected from the Princeton Review (1857)"
+  ],
+  "hodge-church-polity-1878": [
+   "discussionsinchu00hodg",
+   "Discussions in Church Polity (1878)"
+  ],
+  "hodge-conference-papers-1879": [
+   "conferencepapers00hodg",
+   "Conference Papers: Analyses of Discourses, Doctrinal and Practical (1879)"
+  ],
+  "hodge-constitutional-history-1851": [
+   "constitutionalhi1851hodg",
+   "The Constitutional History of the Presbyterian Church in the United States of America (1851 edition)"
+  ],
+  "hodge-2-corinthians-1860": [
+   "expositionofseco00hodg",
+   "An Exposition of the Second Epistle to the Corinthians (1860)"
+  ]
+ },
+ "_alternates": {
+  "PG 19192": "What is Darwinism? on Gutenberg; CCEL's text is held.",
+  "systematictheolo000[1-3]hodg, systematictheol0[0-2]hodggoog": "IA scans of the Systematic Theology; CCEL held.",
+  "commentaryon00hodg, acommentaryonep03hodggoog, commentaryonepis75hodg": "IA scans of Ephesians; CCEL held.",
+  "commentaryonepis00hodg (1835) and other Romans printings 1836-1896": "The 1835 first edition of Romans differs from the 1864 revision held; not fetched this burn.",
+  "anexpositionfir00hodggoog, expositionoffi00hodg": "Other printings of 1 Corinthians.",
+  "constitutionalhip00hodg, constitutionalh02hodg and other 1839-40 two-part scans": "The first edition of the Constitutional History, in two parts; the 1851 one-volume edition is held.",
+  "wayoflife00hodg_0 (1869), wayoflifewithana00hodg (1893)": "Later printings of The Way of Life.",
+  "expositionofsecon00hodg (1872)": "Refused by the identity check 2026-10-02: its OCR never names Hodge (front matter lost or unread). The 1860 scan, which does, is held instead.",
+  "expositionofseco00hodgrich, anexpositionsec00hodggoog": "Other scans of 2 Corinthians (1860, 1862)."
+ },
+ "_excluded": {
+  "indextosystema00hodg, questionsontexto00hodg": "by A. A. Hodge",
+  "queeselpresbiter00hodg": "Spanish translation",
+  "cottoniskingpros00elli": "a pro-slavery anthology that reprints a Hodge essay among others; Hodge's essays are held from his own collection"
+ },
+ "_pending": {
+  "Princeton Sermons (1879) princetonsermons00hodg; England and America (1862) englandamerica00hodg": "not fetched this burn"
+ }
+}

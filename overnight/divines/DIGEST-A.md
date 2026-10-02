@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:38 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:39 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -49,6 +49,7 @@ The coordinator's list was done by 16:32 CDT with most of the burn left, so lane
 | Jeremiah Burroughs | burroughs_shelf.json | 0 (none exists) | 4 (Hosea 1863, Saints' Happiness 1867, Moses his Choice 1650, Four Books on Matthew 11 1659) | Rare Jewel and 3 more refused scans | modern reprint, abridgements |
 | John Newton (prose) | newton_shelf.json | 2 CCEL (Messiah, 2 vols) | 7 (Works 1810, 6 vols; Bull's Letters 1869) | none | Olney Hymns (see hymn manifest) |
 | George Whitefield | whitefield_shelf.json | 6 Gutenberg (Works 1771-72, complete) + 1 CCEL (Selected Sermons) | 7 (the Journals, first printings 1739-1756) | second journal | biographies by others |
+| Charles Hodge | hodge_shelf.json | 6 CCEL (Systematic Theology 3 vols + index, Ephesians, What is Darwinism?) | 8 (Romans, 1-2 Corinthians, Way of Life, Essays and Reviews, Church Polity, Conference Papers, Constitutional History) | Princeton Sermons | A. A. Hodge |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

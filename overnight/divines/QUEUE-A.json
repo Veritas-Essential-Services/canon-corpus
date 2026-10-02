@@ -251,11 +251,13 @@
     },
     {
       "id": "hodge",
-      "status": "running",
+      "status": "done",
       "scope": "Charles Hodge: Systematic Theology and commentaries (d. 1878)",
       "added": "2026-10-02T16:28:03-05:00",
       "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
-      "started": "2026-10-02T16:37:46-05:00"
+      "started": "2026-10-02T16:37:46-05:00",
+      "finished": "2026-10-02T16:39:39-05:00",
+      "notes": "6 CCEL + 8 IA"
     }
   ]
 }

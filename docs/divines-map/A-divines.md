@@ -632,3 +632,28 @@ The Works (1771-72, 6 vols: sermons, tracts, letters) are clean from Gutenberg; 
 | The Two First Parts of his Life, with his Journals, revised and abridged by himself (1756) | have-raw | IA `twofirst00whit` (title words partly unread) |
 | The second journal (Savannah to London, 1739) | pending | only ECCO long-s scans found |
 | Tyerman's Life; Belcher's biography | excluded here | by other hands |
+
+
+## Charles Hodge (round 3, my pick, 2026-10-02)
+
+Systematic Theology (3 vols + index), Ephesians and What is Darwinism? clean from CCEL; the other commentaries and collections as raw IA OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| Systematic Theology, vol. I (1871-1873) | have | CCEL `theology1` (`hodge-systematic-theology-1`) |
+| Systematic Theology, vol. II | have | CCEL `theology2` (`hodge-systematic-theology-2`) |
+| Systematic Theology, vol. III | have | CCEL `theology3` (`hodge-systematic-theology-3`) |
+| Systematic Theology, Index | have | CCEL `theology4` (`hodge-systematic-theology-index`) |
+| A Commentary on the Epistle to the Ephesians (1856) | have | CCEL `ephesians` (`hodge-ephesians`) |
+| What is Darwinism? (1874) | have | CCEL `darwinism` (`hodge-what-is-darwinism`) |
+| Commentary on the Epistle to the Romans (revised edition, 1864) | have-raw | IA `commentaryonepis00hodgiala` |
+| An Exposition of the First Epistle to the Corinthians (1857) | have-raw | IA `expositionoffirs00hodg` |
+| The Way of Life (Philadelphia: American Sunday-School Union, 1841) | have-raw | IA `wayoflife00hodg` |
+| Essays and Reviews, selected from the Princeton Review (1857) | have-raw | IA `essaysreviews00hodg` |
+| Discussions in Church Polity (1878) | have-raw | IA `discussionsinchu00hodg` |
+| Conference Papers: Analyses of Discourses, Doctrinal and Practical (1879) | have-raw | IA `conferencepapers00hodg` |
+| The Constitutional History of the Presbyterian Church in the United States of America (1851 edition) | have-raw | IA `constitutionalhi1851hodg` |
+| An Exposition of the Second Epistle to the Corinthians (1860) | have-raw | IA `expositionofseco00hodg` |
+| Princeton Sermons (1879); England and America (1862) | pending | not fetched this burn |
+| Romans, first edition (1835) | alternate | the 1864 revision is held |
+| A. A. Hodge's books | excluded here | his son |

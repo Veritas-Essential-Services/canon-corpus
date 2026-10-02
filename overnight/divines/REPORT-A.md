@@ -138,3 +138,7 @@
 
 ## 2026-10-02 16:38 CDT — whitefield done
 - `pipeline/whitefield_shelf.json`: the Works (1771-72), all 6 volumes, clean from Gutenberg (rights lines passed); CCEL's Selected Sermons (1904, ed. Buckland) converted (2,319 units, 273 links); the Journals in 7 IA items from their first printings (1739-1756), raw. About 10 MB. `--verify`: 0 mismatched; the 1756 revised Life and Journals is flagged `title_weak` (long s). 0 uids minted.
+
+## 2026-10-02 16:39 CDT — hodge done
+- `pipeline/hodge_shelf.json`: 6 CCEL titles converted (7,133 units, 3,489 links), 8 IA items raw (about 21 MB in all). `--verify`: 0 mismatched.
+- The identity check refused the 1872 scan of the 2 Corinthians commentary: its OCR never names Hodge. The 1860 scan, which does, is held instead. 0 uids minted.
