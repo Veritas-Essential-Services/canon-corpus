@@ -1,0 +1,53 @@
+{
+ "_about": "Demosthenes in English, translator per title. Charles Rann Kennedy (Bohn, 1852-63, 5 vols.): vols. 1-4 as raw IA OCR from mixed printings (1855, 1880, 1856, 1877); his Olynthiacs and Philippics clean on Gutenberg. A. W. Pickard-Cambridge, The Public Orations (Oxford, 1912), 2 vols., clean Gutenberg (US PD by date; Pickard-Cambridge d. 1952).",
+ "_name_words": [
+  "demosthenes",
+  "orations",
+  "philippics",
+  "olynthiacs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "demosthenes-kennedy-olynthiacs-philippics": [
+   6878,
+   "The Olynthiacs and the Philippics of Demosthenes",
+   "tr. Charles Rann Kennedy"
+  ],
+  "demosthenes-pickard-cambridge-v1": [
+   9060,
+   "The Public Orations of Demosthenes, vol. 1",
+   "tr. A. W. Pickard-Cambridge (1912)"
+  ],
+  "demosthenes-pickard-cambridge-v2": [
+   9061,
+   "The Public Orations of Demosthenes, vol. 2",
+   "tr. A. W. Pickard-Cambridge (1912)"
+  ]
+ },
+ "internet_archive": {
+  "demosthenes-kennedy-v1": [
+   "orationsdemosth03kenngoog",
+   "The Orations of Demosthenes, vol. 1 (Bohn; 1855 printing)",
+   "tr. Charles Rann Kennedy"
+  ],
+  "demosthenes-kennedy-v2": [
+   "orationsofdemost002demo",
+   "The Orations of Demosthenes, vol. 2 (Bohn; 1880 printing)",
+   "tr. Charles Rann Kennedy"
+  ],
+  "demosthenes-kennedy-v3": [
+   "orationsdemosth01kenngoog",
+   "The Orations of Demosthenes against Leptines, Midias, Androtion and Aristocrates, vol. 3 (Bohn; 1856)",
+   "tr. Charles Rann Kennedy"
+  ],
+  "demosthenes-kennedy-v4": [
+   "orationsdemosth02kenngoog",
+   "The Orations of Demosthenes against Timocrates, Aristogiton, Aphobus and others, vol. 4 (Bohn; 1877)",
+   "tr. Charles Rann Kennedy"
+  ]
+ },
+ "_excluded": {
+  "Kennedy vol. 5": "not identified among IA scans: orationsofdemos05demo has no usable title page, orationsofdemos04demo has an empty text layer; pending",
+  "J. H. Vince and others, Loeb (1926-)": "US PD by date for the earliest vols., Greek facing; pending"
+ }
+}
