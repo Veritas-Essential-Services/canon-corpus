@@ -1,0 +1,69 @@
+{
+ "_about": "Frances Hodgson Burnett's (1849-1924) children's books: The Secret Garden (1911), A Little Princess (1905) with its first form Sara Crewe (1888), Little Lord Fauntleroy (1886), The Lost Prince (1915), Racketty-Packetty House (1906) and Little Saint Elizabeth and Other Stories (1890). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Frances Hodgson Burnett",
+ "_name_words": [
+  "garden",
+  "princess",
+  "fauntleroy",
+  "sara",
+  "crewe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burnett-secret-garden": [
+   113,
+   "The Secret Garden (1911)"
+  ],
+  "burnett-little-princess": [
+   146,
+   "A Little Princess (1905)",
+   {
+    "contents_only": true
+   }
+  ],
+  "burnett-sara-crewe": [
+   137,
+   "Sara Crewe; or, What Happened at Miss Minchin's (1888)"
+  ],
+  "burnett-little-lord-fauntleroy": [
+   479,
+   "Little Lord Fauntleroy (1886)",
+   {
+    "chapre_only": "[IVXL]+\\.?$"
+   }
+  ],
+  "burnett-lost-prince": [
+   384,
+   "The Lost Prince (1915)",
+   {
+    "contents_only": true
+   }
+  ],
+  "burnett-racketty-packetty-house": [
+   8574,
+   "Racketty-Packetty House (1906)"
+  ],
+  "burnett-little-saint-elizabeth": [
+   10466,
+   "Little Saint Elizabeth and Other Stories (1890)",
+   {
+    "levels": [
+     {
+      "re": "(LITTLE SAINT ELIZABETH|THE STORY OF PRINCE FAIRYFOOT|THE PROUD LITTLE GRAIN OF WHEAT|BEHIND THE WHITE BRICK)$"
+     },
+     {
+      "re": "(PREFATORY NOTE|PART [IVX]+)$"
+     }
+    ],
+    "start": "LIST OF ILLUSTRATIONS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "burnett-duplicates": "second transcriptions: The Secret Garden (PG 17396), A Little Princess (PG 37332), Sara Crewe (PG 24772)",
+  "burnett-adult": "her adult novels and stories (That Lass o' Lowrie's, A Lady of Quality, T. Tembarom, The Shuttle and others): not children's classics; candidates for a later batch",
+  "burnett-german-school-edition": "Little Lord Fauntleroy abridged for German schools (PG 49579): an abridgement with German apparatus"
+ }
+}

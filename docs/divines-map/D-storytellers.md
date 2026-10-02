@@ -1019,6 +1019,23 @@ Shelf: `pipeline/harris-remus_shelf.json` (2026-10-02; added at the coordinator'
 | remus-duplicates | excluded | Uncle Remus, His Songs and His Sayings (PG 21605): a second transcription; Nights with Uncle Remus (PG 24430): the later Milo Winter edition of the same book |
 | remus-other | excluded | his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch |
 
+## Frances Hodgson Burnett
+
+Shelf: `pipeline/burnett_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her children's books, cut by their own Contents or chapter lines; Little Saint Elizabeth is nested story > part. Her adult novels are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Secret Garden (1911) | have | PG 113, `burnett-secret-garden` (2136 units) |
+| A Little Princess (1905) | have | PG 146, `burnett-little-princess` (1730 units) |
+| Sara Crewe; or, What Happened at Miss Minchin's (1888) | have | PG 137, `burnett-sara-crewe` (380 units) |
+| Little Lord Fauntleroy (1886) | have | PG 479, `burnett-little-lord-fauntleroy` (1234 units) |
+| The Lost Prince (1915) | have | PG 384, `burnett-lost-prince` (2153 units) |
+| Racketty-Packetty House (1906) | have | PG 8574, `burnett-racketty-packetty-house` (197 units) |
+| Little Saint Elizabeth and Other Stories (1890) | have | PG 10466, `burnett-little-saint-elizabeth` (709 units) |
+| burnett-duplicates | excluded | second transcriptions: The Secret Garden (PG 17396), A Little Princess (PG 37332), Sara Crewe (PG 24772) |
+| burnett-adult | excluded | her adult novels and stories (That Lass o' Lowrie's, A Lady of Quality, T. Tembarom, The Shuttle and others): not children's classics; candidates for a later batch |
+| burnett-german-school-edition | excluded | Little Lord Fauntleroy abridged for German schools (PG 49579): an abridgement with German apparatus |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

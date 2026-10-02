@@ -396,6 +396,58 @@
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Joel Chandler Harris's Uncle Remus books; no minting",
       "finished": "2026-10-02T17:20:19-05:00",
       "notes": "4/4 fetched (Gutenberg 2306, 26429, 55676, 22282), 5,087 units, 21 ~2 ids. Content flagged for Adam in DIGEST."
+    },
+    {
+      "id": "burnett",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Frances Hodgson Burnett's children's books; children's classics batch; no minting",
+      "status": "done",
+      "finished": "2026-10-02T17:29:13-05:00",
+      "notes": "7/7 fetched (Gutenberg 113, 146, 137, 479, 384, 8574, 10466), 8,539 units, 0 ~2 ids."
+    },
+    {
+      "id": "alcott",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Louisa May Alcott's books for young readers; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "spyri",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Johanna Spyri in named translations; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "sewell",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Anna Sewell's Black Beauty; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "dodge",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Mary Mapes Dodge's Hans Brinker; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "montgomery",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — L. M. Montgomery's pre-1931 books; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "wiggin",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Kate Douglas Wiggin's children's books; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "ewing",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Juliana Horatia Ewing's stories; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "molesworth",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Mrs. Molesworth's best-known children's books; children's classics batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "wyss",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — The Swiss Family Robinson, Kingston's translation; children's classics batch; no minting",
+      "status": "running"
     }
   ]
 }
