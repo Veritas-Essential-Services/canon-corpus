@@ -1,0 +1,23 @@
+{
+ "_about": "Ausonius in H. G. Evelyn-White's Loeb translation (1919-21), 2 vols., raw IA OCR; Latin facing.",
+ "_name_words": [
+  "ausonius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ausonius-evelyn-white-v1": [
+   "ausonius01evelgoog",
+   "Ausonius, with an English translation, vol. 1",
+   "tr. Hugh G. Evelyn-White"
+  ],
+  "ausonius-evelyn-white-v2": [
+   "ausonius02evelgoog",
+   "Ausonius, with an English translation, vol. 2",
+   "tr. Hugh G. Evelyn-White"
+  ]
+ },
+ "_excluded": {
+  "ausoniuswithengl02ausouoft": "second scan of vol. 2"
+ }
+}
