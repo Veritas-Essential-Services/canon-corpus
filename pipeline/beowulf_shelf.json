@@ -1,0 +1,32 @@
+{
+ "_about": "Beowulf in four English translations published before 1929, each its own work with its translator in the title, as with Andersen: John Lesslie Hall's verse (1892), William Morris and A. J. Wyatt's (1895), Ernest J. B. Kirtlan's prose (1914) and Francis B. Gummere's verse (1909/1910). Clean Gutenberg text; US public domain.",
+ "_author": "Beowulf poet (Old English, anonymous)",
+ "_name_words": [
+  "beowulf"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "beowulf-hall": [
+   16328,
+   "Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892)"
+  ],
+  "beowulf-morris-wyatt": [
+   20431,
+   "The Tale of Beowulf, tr. William Morris and A. J. Wyatt (1895)"
+  ],
+  "beowulf-kirtlan": [
+   50742,
+   "The Story of Beowulf, tr. Ernest J. B. Kirtlan (1914)"
+  ],
+  "beowulf-gummere": [
+   981,
+   "Beowulf, tr. Francis B. Gummere (1910)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "beowulf-scholarship": "Chambers's Beowulf: An Introduction (PG 34117), Olson's Hrolfs Saga and Beowulf (14878), Tinker's Translations of Beowulf (25942): about the poem, not the poem",
+  "beowulf-elsewhere": "Longfellow's Beowulf passage is on the Longfellow translator shelf (lane C)",
+  "beowulf-ia-candidates": "Earle (1892) and Tinker (1902) translations exist as IA scans; not taken in this batch"
+ }
+}

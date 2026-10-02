@@ -279,8 +279,10 @@
     },
     {
       "id": "beowulf",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Beowulf in pre-1929 translations, translator in each title; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Beowulf in pre-1929 translations, translator in each title; no minting",
+      "finished": "2026-10-02T17:09:16-05:00",
+      "notes": "4/4 fetched (Gutenberg 16328, 20431, 50742, 981), 2,181 units, 1 ~2 id; translators Hall, Morris, Kirtlan, Gummere captured from the headers."
     },
     {
       "id": "poetic-edda",

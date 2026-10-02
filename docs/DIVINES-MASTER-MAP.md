@@ -3116,6 +3116,20 @@ Shelf: `pipeline/malory_shelf.json` (2026-10-02; added at the coordinator's rela
 | malory-anthologies | excluded | Harvard Classics vol. 35, Chronicle and Romance (PG 13674): extracts only |
 | malory-sommer | excluded | Sommer's critical edition (1889-91, with Lang's essay), named on the Lang shelf: not taken in this batch; IA scans exist if Adam wants the scholarly text |
 
+## Beowulf (translations before 1929)
+
+Shelf: `pipeline/beowulf_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Four translations, each its own work with its translator in the title, as with Andersen. Hall's carries his glossary and notes; Morris and Wyatt's is cut by its fitts; Gummere's and Kirtlan's by their numbered sections. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892) | have | PG 16328, `beowulf-hall` (1402 units) |
+| The Tale of Beowulf, tr. William Morris and A. J. Wyatt (1895) | have | PG 20431, `beowulf-morris-wyatt` (212 units) |
+| The Story of Beowulf, tr. Ernest J. B. Kirtlan (1914) | have | PG 50742, `beowulf-kirtlan` (366 units) |
+| Beowulf, tr. Francis B. Gummere (1910) | have | PG 981, `beowulf-gummere` (201 units) |
+| beowulf-scholarship | excluded | Chambers's Beowulf: An Introduction (PG 34117), Olson's Hrolfs Saga and Beowulf (14878), Tinker's Translations of Beowulf (25942): about the poem, not the poem |
+| beowulf-elsewhere | excluded | Longfellow's Beowulf passage is on the Longfellow translator shelf (lane C) |
+| beowulf-ia-candidates | excluded | Earle (1892) and Tinker (1902) translations exist as IA scans; not taken in this batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
