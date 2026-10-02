@@ -342,10 +342,12 @@
     },
     {
       "id": "perkins",
-      "status": "todo",
+      "status": "done",
       "scope": "William Perkins: Works (d. 1602)",
       "added": "2026-10-02T16:51:54-05:00",
-      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T17:16:44-05:00",
+      "notes": "3 IA (EEBO)"
     },
     {
       "id": "andrew-murray",

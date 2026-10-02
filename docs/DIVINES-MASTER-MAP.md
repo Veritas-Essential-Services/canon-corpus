@@ -770,6 +770,16 @@ No CCEL or Gutenberg text; all raw IA OCR.
 | The Life and Death of Joseph Alleine (Baxter, Theodosia Alleine and others) with his Christian Letters (1815) | have-raw | IA `anaccountoftheli00baxtuoft`; the Life is by others, the Letters are his |
 | Other printings of the Alarm (1689-1855, under several titles) | alternate | the 1834 printing is held |
 | Heaven Opened | excluded | chiefly Richard Alleine's |
+
+## William Perkins (round 4, my pick, 2026-10-02)
+
+No CCEL, Gutenberg or later collected edition. The Workes (printed by John Legatt, 1616-1618, 3 vols) from EEBO scans, raw IA OCR, rough (71-77%).
+
+| Work | Status | Where |
+|---|---|---|
+| The Workes, vols. 1-3 (1616, 1617, 1618) | have-raw | IA `bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1616_1`, `_1617_2`, `_1618_3` |
+| Workes of 1603-1635, broken sets; separate treatises | alternate | the 1616-18 set is held |
+| Sir William Perkins (d. 1696); Francis Perkins's almanacs | excluded | other men |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

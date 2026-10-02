@@ -189,3 +189,6 @@
 
 ## 2026-10-02 17:14 CDT — alleine done
 - `pipeline/alleine_shelf.json`: three IA items raw (about 1.4 MB): the Alarm (1834, 99.1%), Alleine on the Promises (1828, 93.3%), the Life and Death with his Christian Letters (1815, 98.5%). The Life is by Baxter, Theodosia Alleine and others: only the letters are his, and the digest says so. `--verify`: 0 mismatched. 0 uids minted.
+
+## 2026-10-02 17:16 CDT — perkins done
+- `pipeline/perkins_shelf.json`: the Workes (Legatt, 1616-18), 3 vols, EEBO scans, raw IA OCR, about 15 MB. The three are vols. 1-3 of one IA series; the printer's name occurs in each. OCR 71-77%, the roughest on this lane: early 17th-century type. Good for finding a passage, not for quoting one. `--verify`: 0 mismatched. 0 uids minted.

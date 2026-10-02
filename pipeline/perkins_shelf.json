@@ -1,0 +1,32 @@
+{
+ "_about": "Public-domain William Perkins (1558-1602, Cambridge) for the Word Hoard: the Workes (printed by John Legatt, 1616-1618, 3 vols), from Early English Books scans, raw Internet Archive OCR. The three items are volumes 1-3 of one IA series (sim_pubid 99011), each dated on its record; the printer's name occurs in all three. CCEL and Gutenberg hold nothing of his, and IA has no later collected edition. 17th-century type: the OCR is rough. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "perkins"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "perkins-workes-1616-1": [
+   "bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1616_1",
+   "The Workes of that Famous and Worthy Minister of Christ, M. William Perkins, vol. 1 (1616)"
+  ],
+  "perkins-workes-1617-2": [
+   "bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1617_2",
+   "The Workes of that Famous and Worthy Minister of Christ, M. William Perkins, vol. 2 (1617)"
+  ],
+  "perkins-workes-1618-3": [
+   "bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1618_3",
+   "The Workes of that Famous and Worthy Minister of Christ, M. William Perkins, vol. 3 (1618)"
+  ]
+ },
+ "_alternates": {
+  "EEBO Workes of 1603, 1605, 1609 (vols 1, 3), 1612, 1613, 1626 (vol 1), 1631, 1635 (vol 1)": "Other printings, mostly single volumes of broken sets.",
+  "EEBO separate treatises (A Golden Chaine, A Graine of Musterd-Seed, The Foundation of Christian Religion, Cases of Conscience, etc.)": "Contained in the Workes."
+ },
+ "_excluded": {
+  "bim_*_almanacs-perkins-franc_*": "Francis Perkins's almanacs.",
+  "bim_*_remarks-on-the-papers_perkins-william_1696; *_a-defence-of-the-absolut_collier-jeremy_1696": "Sir William Perkins, the 1696 Jacobite plotter: another man.",
+  "worksofwilliampe0000perk (2014); williamperkins150000will (1966)": "Modern editions, not PD scans."
+ }
+}
