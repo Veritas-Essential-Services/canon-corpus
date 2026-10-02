@@ -1697,6 +1697,7 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Orations of Demosthenes, vol. 2 (Bohn; 1880 printing) | Charles Rann Kennedy | `demosthenes-kennedy-v2` | have-raw (IA `orationsofdemost002demo`) |
 | The Orations of Demosthenes against Leptines, Midias, Androtion and Aristocrates, vol. 3 (Bohn; 1856) | Charles Rann Kennedy | `demosthenes-kennedy-v3` | have-raw (IA `orationsdemosth01kenngoog`) |
 | The Orations of Demosthenes against Timocrates, Aristogiton, Aphobus and others, vol. 4 (Bohn; 1877) | Charles Rann Kennedy | `demosthenes-kennedy-v4` | have-raw (IA `orationsdemosth02kenngoog`) |
+| The Orations of Demosthenes against Macartatus, Leochares, Stephanus and others; the Funeral Oration, Exordia and Epistles, vol. 5 (Bohn; 1878) | Charles Rann Kennedy | `demosthenes-kennedy-v5` | have-raw (IA `orationsofdemos05demo`) |
 | Against Leptines | James Herbert Vince | `demosthenes-perseus-vince-against-leptines` | have (Perseus TEI `tlg0014.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
 | Answer to Philip’s Letter | James Herbert Vince | `demosthenes-perseus-vince-answer-to-philip-s-letter` | have (Perseus TEI `tlg0014.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
 | First Olynthiac | James Herbert Vince | `demosthenes-perseus-vince-first-olynthiac` | have (Perseus TEI `tlg0014.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
@@ -1716,7 +1717,7 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | Second Philippic | James Herbert Vince | `demosthenes-perseus-vince-second-philippic` | have (Perseus TEI `tlg0014.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
 | Third Olynthiac | James Herbert Vince | `demosthenes-perseus-vince-third-olynthiac` | have (Perseus TEI `tlg0014.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): Kennedy vol. 5 (no identifiable scan); early Loeb vols. (Vince, 1926-)
+Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
 ## Lysias
 

@@ -1,5 +1,5 @@
 {
- "_about": "Demosthenes in English, translator per title. Charles Rann Kennedy (Bohn, 1852-63, 5 vols.): vols. 1-4 as raw IA OCR from mixed printings (1855, 1880, 1856, 1877); his Olynthiacs and Philippics clean on Gutenberg. A. W. Pickard-Cambridge, The Public Orations (Oxford, 1912), 2 vols., clean Gutenberg (US PD by date; Pickard-Cambridge d. 1952). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Demosthenes in English, translator per title. Charles Rann Kennedy (Bohn, 1852-63, 5 vols.): vols. 1-5 as raw IA OCR from mixed printings (1855, 1880, 1856, 1877, 1878); his Olynthiacs and Philippics clean on Gutenberg. A. W. Pickard-Cambridge, The Public Orations (Oxford, 1912), 2 vols., clean Gutenberg (US PD by date; Pickard-Cambridge d. 1952). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
  "_name_words": [
   "demosthenes",
   "orations",
@@ -43,6 +43,11 @@
   "demosthenes-kennedy-v4": [
    "orationsdemosth02kenngoog",
    "The Orations of Demosthenes against Timocrates, Aristogiton, Aphobus and others, vol. 4 (Bohn; 1877)",
+   "tr. Charles Rann Kennedy"
+  ],
+  "demosthenes-kennedy-v5": [
+   "orationsofdemos05demo",
+   "The Orations of Demosthenes against Macartatus, Leochares, Stephanus and others; the Funeral Oration, Exordia and Epistles, vol. 5 (Bohn; 1878)",
    "tr. Charles Rann Kennedy"
   ]
  },
