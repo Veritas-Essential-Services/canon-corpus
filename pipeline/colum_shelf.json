@@ -32,7 +32,8 @@
       "re": "[IVXL]+$"
      }
     ],
-    "start": "PART I$"
+    "start": "PART I$",
+    "front": true
    }
   ],
   "colum-boy-who-knew-what-the-birds-said": [

@@ -159,3 +159,6 @@
 
 ## 2026-10-02 16:57 CDT — session end (fifth run)
 - Relay 5 done. Spot-check of the Chesterton zero sent to the upkeep thread; DIGEST item 2 corrected (99 truncated headings, 68 missed, not 1,229). Five folk-tale shelves added: jacobs-fairy (6), dasent (2), ralston (1), perrault (3), colum (7), 25,715 units. convert_nested.py gained opt-in per-level `strip` and `max`. Lock released. Queue: 34/34 done.
+
+## 2026-10-02 17:08 CDT — malory: done
+- 3/3 fetched (Gutenberg 1251, 1252, 46853), 4,737 units. Nested Book > Chapter; convert_nested.py gains opt-in level label/keep and a front option (front matter before 'start' is not read for headings); ralston and colum-adventures-of-odysseus now use front (Ralston's 10 Contents ~2 ids gone).

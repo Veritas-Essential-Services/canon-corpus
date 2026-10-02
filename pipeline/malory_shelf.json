@@ -1,0 +1,74 @@
+{
+ "_about": "Sir Thomas Malory's (d. 1471) Le Morte d'Arthur in two public-domain texts, each its own work: Caxton's 1485 text in modern spelling, in two volumes (clean Gutenberg; Caxton's book and chapter division), and Sir Edward Strachey's Globe edition (1868, rev. 1891, clean Gutenberg), which modernises and expurgates. Malory wrote in English, so no translator is owed; the editor is in each title. Retellings for children (Knowles, Lanier's Boy's King Arthur, Cutler, Macgregor, Holland, Charles Morris) are left out.",
+ "_author": "Sir Thomas Malory",
+ "_name_words": [
+  "morte",
+  "arthur",
+  "malory"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "malory-morte-darthur-caxton-1": [
+   1251,
+   "Le Morte d'Arthur, Caxton's text (1485) in modern spelling, vol. 1",
+   {
+    "levels": [
+     {
+      "re": "BOOK [IVXL]+\\.$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+\\.?\\s",
+      "max": 400,
+      "strip": "(?<=[IVXL])\\.?\\s.*$"
+     }
+    ],
+    "start": "BOOK I\\.$",
+    "front": true
+   }
+  ],
+  "malory-morte-darthur-caxton-2": [
+   1252,
+   "Le Morte d'Arthur, Caxton's text (1485) in modern spelling, vol. 2",
+   {
+    "levels": [
+     {
+      "re": "BOOK [IVXL]+\\.$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+\\.?\\s",
+      "max": 400,
+      "strip": "(?<=[IVXL])\\.?\\s.*$"
+     }
+    ],
+    "start": "BOOK X\\.$",
+    "front": true
+   }
+  ],
+  "malory-morte-darthur-strachey": [
+   46853,
+   "Le Morte Darthur, ed. Sir Edward Strachey (Globe edition, 1868, rev. 1891)",
+   {
+    "levels": [
+     {
+      "re": "(?:The [A-Z][a-z]+(?:[- ][A-Za-z]+)? Book|Book the [A-Z][a-z]+|KNIGHTS OF THE ROUND TABLE)\\.$",
+      "label": {
+       "KNIGHTS": "The First Book",
+       "Book the Second": "The Second Book"
+      }
+     },
+     {
+      "re": "CHAP\\. [IVXL]+\\.$"
+     }
+    ],
+    "start": "Explicit the Table\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "malory-retellings": "retellings and abridgements: Knowles's Legends of King Arthur (PG 12753), Lanier's Boy's King Arthur (66585), Cutler (22053), Macgregor (25654), Holland (36462), Charles Morris's Historic Tales vols 13-14 (31900, 32292)",
+  "malory-anthologies": "Harvard Classics vol. 35, Chronicle and Romance (PG 13674): extracts only",
+  "malory-sommer": "Sommer's critical edition (1889-91, with Lang's essay), named on the Lang shelf: not taken in this batch; IA scans exist if Adam wants the scholarly text"
+ }
+}

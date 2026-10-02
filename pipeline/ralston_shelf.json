@@ -22,7 +22,8 @@
       "strip": "\\[\\d+\\]"
      }
     ],
-    "start": "RUSSIAN FOLK-TALES\\.$"
+    "start": "RUSSIAN FOLK-TALES\\.$",
+    "front": true
    }
   ]
  },

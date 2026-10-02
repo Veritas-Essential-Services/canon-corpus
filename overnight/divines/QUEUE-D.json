@@ -268,6 +268,44 @@
       "started": "2026-10-02T16:53:19-05:00",
       "notes": "Audit written to overnight/divines/AUDIT-D.md and summarised in DIGEST-D: 497 URLs resolve, map complete; no source held twice; ~a dozen reprint containments; Hunt Grimm 1884 IA duplicates the PG Hunt; OCR 43 A / 11 B; macdonald-for-the-right removed (Franzos, tr. Sutter); five Andersen rows lack translators (for Adam).",
       "finished": "2026-10-02T16:57:30-05:00"
+    },
+    {
+      "id": "malory",
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Malory, Le Morte d'Arthur; no minting",
+      "started": "2026-10-02T17:08:55-05:00",
+      "notes": "3/3 fetched (Gutenberg 1251, 1252, 46853), 4,737 units. Nested Book > Chapter; convert_nested.py gains opt-in level label/keep and a front option (front matter before 'start' is not read for headings); ralston and colum-adventures-of-odysseus now use front (Ralston's 10 Contents ~2 ids gone).",
+      "finished": "2026-10-02T17:08:56-05:00"
+    },
+    {
+      "id": "beowulf",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Beowulf in pre-1929 translations, translator in each title; no minting"
+    },
+    {
+      "id": "poetic-edda",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Bellows's Poetic Edda (1923); no minting"
+    },
+    {
+      "id": "kalevala",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Crawford's Kalevala; no minting"
+    },
+    {
+      "id": "sagas",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — the sagas: Dasent's (Burnt Njal, Gisli, added to the dasent shelf) and Sturluson's (Heimskringla, Prose Edda); no minting"
+    },
+    {
+      "id": "dutt",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — R. C. Dutt's Ramayana and Mahabharata; no minting"
+    },
+    {
+      "id": "mabinogion",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Guest's Mabinogion: already held by lane C on pipeline/guest_shelf.json; cross-reference only, no second shelf"
     }
   ]
 }

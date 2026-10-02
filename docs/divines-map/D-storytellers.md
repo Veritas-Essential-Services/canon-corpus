@@ -835,6 +835,19 @@ Shelf: `pipeline/colum_shelf.json` (2026-10-02; added at the coordinator's relay
 | colum-commentary-only | excluded | Stephens's Mary, Mary (PG 24742): Colum wrote the introduction only |
 | colum-post-1928 | excluded | anything Colum published after 1928 is not taken (the relay's pre-1929 line) |
 
+## Sir Thomas Malory (Le Morte d'Arthur)
+
+Shelf: `pipeline/malory_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two public-domain texts, each its own work: Caxton's 1485 text in modern spelling (two volumes) and Strachey's Globe edition (1868, rev. 1891). Both are cut Book > Chapter, the citation Caxton's own division (`BOOK III / CHAPTER VI, par. 2`); front matter is cited `front, par. n` so the Contents cannot file it under a chapter. The Caxton volumes keep 22 ~2 ids where a chapter heading is printed in a shape the rule misses. Retellings for children are left out. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Le Morte d'Arthur, Caxton's text (1485) in modern spelling, vol. 1 | have | PG 1251, `malory-morte-darthur-caxton-1` (679 units) |
+| Le Morte d'Arthur, Caxton's text (1485) in modern spelling, vol. 2 | have | PG 1252, `malory-morte-darthur-caxton-2` (870 units) |
+| Le Morte Darthur, ed. Sir Edward Strachey (Globe edition, 1868, rev. 1891) | have | PG 46853, `malory-morte-darthur-strachey` (3188 units) |
+| malory-retellings | excluded | retellings and abridgements: Knowles's Legends of King Arthur (PG 12753), Lanier's Boy's King Arthur (66585), Cutler (22053), Macgregor (25654), Holland (36462), Charles Morris's Historic Tales vols 13-14 (31900, 32292) |
+| malory-anthologies | excluded | Harvard Classics vol. 35, Chronicle and Romance (PG 13674): extracts only |
+| malory-sommer | excluded | Sommer's critical edition (1889-91, with Lang's essay), named on the Lang shelf: not taken in this batch; IA scans exist if Adam wants the scholarly text |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
