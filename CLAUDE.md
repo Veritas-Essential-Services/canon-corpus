@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 146 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 152 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -185,6 +185,19 @@ The living truth for project state is the Obsidian vault:
   NOT text (tei_pieces drops them). Slug -> abbreviation in TEI_PROSE.
   perseus_rights() gives every Perseus book (epic, drama, prose) its CC BY-SA
   rights block.
+- The Greek FATHERS (2026-10-02): the Greek text itself, not a translation,
+  from First1KGreek (OpenGreekAndLatin/First1KGreek, raw.githubusercontent
+  only). `FIRST1K` in fetch_sources.py -> data/corpus/first1k/ -> the same
+  convert_tei_prose, slug suffix `-grc` (`origen-contra-celsum-grc:1.1`).
+  Rights: the TEI is CC BY-SA; the printed edition must be dated before 1931
+  (the sourceDesc is read; editor and date ride in `source.edition` and the
+  rights note). What is only true of these files: a section milestone may sit
+  OUTSIDE the chapter it opens (Stählin's Clement); OCR damage is real, so a
+  unit with Latin-letter words carries `apparatus.latin_letters` (a Latin
+  passage, or OCR residue: never silently clean); Archambault's Justin
+  printed references and folios inside the Greek in brackets, lifted into
+  `apparatus.refs` / `apparatus.folio` (TEI_PROSE_BRACKETS), unresolved.
+  Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:

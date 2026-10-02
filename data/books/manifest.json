@@ -7771,5 +7771,465 @@
    "redistribute_whole": true,
    "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "athenagoras-de-resurrectione-grc": {
+  "title": "De Resurrectione",
+  "author": "Athenagoras",
+  "format": "tei",
+  "sha256": "7cb6b86a31d53cba03632d9481518dc736d7920db96c220802d0b59f53920369",
+  "units": 25,
+  "scheme": {
+   "citation": "Athenag. Res. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Johann Karl Theodor von Otto, Athenagorae Philosophi Atheniensis Opera, Jena, 1857); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "athenagoras-legatio-grc": {
+  "title": "Legatio sive Supplicatio pro Christianis",
+  "author": "Athenagoras",
+  "format": "tei",
+  "sha256": "fd9c1bcfe25ad2236823a7383152741b88ce62f76f0cbd7fbc35797aa450ad2b",
+  "units": 38,
+  "scheme": {
+   "citation": "Athenag. Leg. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Johann Karl Theodor von Otto, Athenagorae Philosophi Atheniensis Opera, Jena, 1857); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "clement-eclogae-propheticae-grc": {
+  "title": "Eclogae propheticae",
+  "author": "Clement of Alexandria",
+  "format": "tei",
+  "sha256": "88aad17aa2873eee84a2fc94d25d71ddda810be37cf56e5424426f3c24e176b9",
+  "units": 65,
+  "scheme": {
+   "citation": "Clem. Al. Ecl. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Otto Stählin, Stromata, Buch VII-VIII. Excerpta ex Theodoto. Eclogae prophetica., Leipzig, 1909); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "clement-excerpta-theodoto-grc": {
+  "title": "Excerpta ex Theodoto",
+  "author": "Clement of Alexandria",
+  "format": "tei",
+  "sha256": "533189e2bfca51426c5fc8cd61e61a13dfd469296d3b2543986e89e340ec1eec",
+  "units": 86,
+  "scheme": {
+   "citation": "Clem. Al. Exc. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Otto Stählin, Stromata, Buch VII-VIII. Excerpta ex Theodoto. Eclogae prophetica., Leipzig, 1909); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "clement-paedagogus-grc": {
+  "title": "Paedagogus",
+  "author": "Clement of Alexandria",
+  "format": "tei",
+  "sha256": "03e6a03655189105f5e897462085cc5d5943f90151d03235c605b14a7b9afea4",
+  "units": 336,
+  "scheme": {
+   "citation": "Clem. Al. Paed. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to Stählin's section, which runs on through each book (Paed. 1.1.1 is book 1, chapter 1, section 1); the subsection a standard citation adds is inside the unit, not split out.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 25 word(s) in 4 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Otto Stählin, Protrepticus und Paedagogus, Leipzig, 1905); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "clement-protrepticus-grc": {
+  "title": "Protrepticus",
+  "author": "Clement of Alexandria",
+  "format": "tei",
+  "sha256": "485b2e4c6fcaeb280c1ebfa448a40388427a7db317604889f2bb7befa5a256d4",
+  "units": 123,
+  "scheme": {
+   "citation": "Clem. Al. Protr. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to Stählin's section, which runs on through the work (Protr. 1.5 is chapter 1, section 5); the subsection a standard citation adds (Protr. 1.5.1) is inside the unit, not split out.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Otto Stählin, Protrepticus und Paedagogus, Leipzig, 1905); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "clement-quis-dives-grc": {
+  "title": "Quis dives salvetur",
+  "author": "Clement of Alexandria",
+  "format": "tei",
+  "sha256": "f300ef6a2ccfa81990a32dc00acd86f5a54c0147cf855ac38dc3d7b67475aa29",
+  "units": 42,
+  "scheme": {
+   "citation": "Clem. Al. QDS chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Otto Stählin, Stromata, Buch VII-VIII. Excerpta ex Theodoto. Eclogae prophetica., Leipzig, 1909); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "hippolytus-refutatio-grc": {
+  "title": "Refutatio Omnium Haeresium",
+  "author": "Hippolytus",
+  "format": "tei",
+  "sha256": "3287cdc7f5b3537edebf1385cc505b1d91e8cdb4d63a97411d8132f14f6dfef9",
+  "units": 1420,
+  "scheme": {
+   "citation": "Hippol. Haer. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 600 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 274 word(s) in 91 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Paul Wendland, Hippolytus Werke, Leipzig, 1916); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "justin-apology-1-grc": {
+  "title": "Apologia",
+  "author": "Justin Martyr",
+  "format": "tei",
+  "sha256": "d89772ab0d12a0a293c299652ddf4a5d69ccbd6cced5c4f9181ae887bde074bf",
+  "units": 68,
+  "scheme": {
+   "citation": "Just. 1 Apol. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 3 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Gerhard Rauschen, S. Iustini Aplogiae Duae, Bonn, 1911); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "justin-apology-2-grc": {
+  "title": "Apologia Secunda",
+  "author": "Justin Martyr",
+  "format": "tei",
+  "sha256": "ac7938667236b7472046f0956333ebfde31b3b4dc8f78c162b6307cad09901bf",
+  "units": 15,
+  "scheme": {
+   "citation": "Just. 2 Apol. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Gerhard Rauschen, S. Iustini Aplogiae Duae, Bonnae, 1911); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "justin-dialogue-trypho-grc": {
+  "title": "Dialogus cum Tryphone",
+  "author": "Justin Martyr",
+  "format": "tei",
+  "sha256": "d5e87fafb4ee51cd83389a17253a540f86e342c095a9083435886ecd232c663f",
+  "units": 752,
+  "scheme": {
+   "citation": "Just. Dial. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 744 bracketed reference(s) the editor printed inside the text ([cf. Is., LIII, 8]) lifted out into apparatus.refs as printed, NOT resolved to verse ids (his Psalms follow the Greek numbering); 286 manuscript folio mark(s) ([fol. 51]) lifted into apparatus.folio, a word they split rejoined (a bracket the source leaves unclosed stays in the text). 25 word(s) in 5 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Georges Archambault, Dialogue avec Tryphon, Paris, 1909); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "methodius-symposium-grc": {
+  "title": "Symposium Sive Convivium Decem Virginum",
+  "author": "Methodius",
+  "format": "tei",
+  "sha256": "f578699c791b33d161acce516af02c84e7ff46effc50bce4b2d8ffa268429c94",
+  "units": 84,
+  "scheme": {
+   "citation": "Meth. Symp. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 329 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 95 word(s) in 15 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (D.G. Nathanael Bonwetsch, Methodius, Leipzig, 1917); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-commentary-john-grc": {
+  "title": "Commentarii in Evangelium Joannis",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "1b6849ba6cf3e699db20813de17ae594de3be9b737a6edf08404a152325819ac",
+  "units": 2848,
+  "scheme": {
+   "citation": "Orig. Comm. Jo. book.section",
+   "resolution": "section",
+   "honesty": "exact to Preuschen's section (book.section). Only books 1, 2, 6, 10, 13, 19, 20, 28 and 32 survive whole; books 4 and 5 are fragments, cited book.fragment.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 863 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 115 word(s) in 103 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erwin Preuschen, Origenes Werke, Leipzig, 1903); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-contra-celsum-grc": {
+  "title": "Contra Celsum",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "9ca7246da545316e6ec858f2485350948a4aceace694bb188ea1439c8431481d",
+  "units": 628,
+  "scheme": {
+   "citation": "Orig. Cels. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Paul Koetschau, Origenes Werke, Leipzig, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-de-engastrimytho-grc": {
+  "title": "De Engastrimytho",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "4fa5d8a6250ed28ef2dbc0c3bfbda1dda19ce06a1c448cbad0ff9da016fe4ef8",
+  "units": 10,
+  "scheme": {
+   "citation": "Orig. Engastr. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 24 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 15 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Origenes Werke, Leipzig, 1901); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-de-oratione-grc": {
+  "title": "De oratione",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "1bc5446843d8880bf20c1ae7f44bf0717f7c9645f6365fccc09c18d93a4bd6fc",
+  "units": 157,
+  "scheme": {
+   "citation": "Orig. Or. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 1 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Paul Koetschau, Origenes Werke, Leipzig, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-epistula-africanum-grc": {
+  "title": "Epistula ad Africanum",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "ef2a182af1d9c4e7db2e160a91a1cb3fb3576aef6a0753648b502c620317ac0f",
+  "units": 18,
+  "scheme": {
+   "citation": "Orig. Ep. Afr. epistle.paragraph",
+   "resolution": "paragraph",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 68 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 3 word(s) in 3 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Charles de La Rue & Charles Vincent de La Rue, Origenis Opera Omnia, Paris, 1857); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-exhortatio-martyrium-grc": {
+  "title": "Exhortatio ad martyrium",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "dedb6ae89519545a0ab274061c858a0549760bb3ac97223a5f744130c13fb83b",
+  "units": 51,
+  "scheme": {
+   "citation": "Orig. Mart. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Paul Koetschau, Origenes Werke, Leipzig, 1899); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-homilies-jeremiah-1-11-grc": {
+  "title": "In Jeremiam (Homiliae 1-11)",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "dc765756d37f0514dcbdcd589758efd6ae522b76168645bff7e6f562f8bacee8",
+  "units": 76,
+  "scheme": {
+   "citation": "Orig. Hom. Jer. homilia.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 167 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 15 word(s) in 12 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Origenes Werke, Leipzig, 1901); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-homilies-jeremiah-12-20-grc": {
+  "title": "In Jeremiam (Homiliae 12-20)",
+  "author": "Origenes",
+  "format": "tei",
+  "sha256": "f327202f853334893f25d1fe7feb21502e35a1423695efd5100453cf37f6e147",
+  "units": 79,
+  "scheme": {
+   "citation": "Orig. Hom. Jer. homilia.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 215 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 276 word(s) in 6 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Erich Klostermann, Origenes Werke, Leipzig, 1901); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "origen-philocalia-grc": {
+  "title": "Philocalia",
+  "author": "Origen",
+  "format": "tei",
+  "sha256": "449753df2a7363a4b63cd08e9dab0a06efecfc6e5abc800e9dfb4ee6d8773348",
+  "units": 245,
+  "scheme": {
+   "citation": "Orig. Philoc. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 1247 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 144 word(s) in 54 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one. 142 character(s) the source writes as a code-point name (U+03F2) decoded to the character."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (James Armitage Robinson, The Philocalia of Origen, Cambridge, 1893); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "tatian-oratio-grc": {
+  "title": "Oratio ad Graecos",
+  "author": "Tatianus",
+  "format": "tei",
+  "sha256": "bfe1671160c9155552055a24bd86345d2efb5392cd03e70a947d4a7a9ce00e4a",
+  "units": 42,
+  "scheme": {
+   "citation": "Tat. Orat. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Johann Carl Theodor Otto, Oratio ad Graecos, Jena, 1851); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "theophilus-ad-autolycum-grc": {
+  "title": "Ad Autolycum",
+  "author": "Theophilus",
+  "format": "tei",
+  "sha256": "0b4a6d70231ac71abcd9cd2e7212b512739ef160b7764dd3f77351383607799e",
+  "units": 82,
+  "scheme": {
+   "citation": "Theoph. Autol. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from First1KGreek)",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (William Gilson Humphry, Libri tres ad Autolycum, Cambridge, 1852); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
  }
 }

@@ -290,7 +290,8 @@ check("prose: divisions numbered by their first section (1, 9) are SPANS, and ho
       and pb["scheme"]["resolution"] == "section")
 os.unlink(_sp_path)
 check("prose: every prose slug in the fetch manifest has an abbreviation, and back",
-      set(st.TEI_PROSE) <= set(load("fetch_sources").PERSEUS))
+      set(st.TEI_PROSE) <= set(load("fetch_sources").PERSEUS) | set(load("fetch_sources").FIRST1K)
+      and set(load("fetch_sources").FIRST1K) <= set(st.TEI_PROSE))
 os.unlink(pr_path)
 
 # ---------------------------------------------------------- Perseus drama
@@ -939,6 +940,51 @@ check("roman comedy: a scene head is kept, on the next unit",
       _pu["am:1"]["drama"].get("head") == ["THE PROLOGUE."] and "head" not in _pu["am:6"]["drama"])
 check("drama honesty: segment length is measured, not assumed",
       "the longest runs 147" in _pb["scheme"]["honesty"])
+
+# The Greek fathers from First1KGreek (2026-10-02). Invented text in a
+# "first1k" folder: a section milestone OUTSIDE the chapter it opens, an
+# OCR'd code-point name, a Latin-letter slip, the edition's sourceDesc.
+_GK = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Protr</title>'
+       '<author>Clement</author></titleStmt><publicationStmt><availability><licence>CC BY-SA 4.0'
+       '</licence></availability></publicationStmt><sourceDesc><biblStruct><monogr>'
+       '<editor>&gt;Otto Stählin</editor><title>Protrepticus</title><imprint><publisher>Hinrichs'
+       '</publisher><pubPlace>Leipzig</pubPlace><date>1905</date></imprint></monogr></biblStruct>'
+       '</sourceDesc></fileDesc></teiHeader><text><body><div type="edition" xml:lang="grc">'
+       '<milestone unit="section" n="1"/><div type="textpart" subtype="chapter" n="1">'
+       '<p>ἄλφα βῆτα <milestone unit="section" n="2"/>γάμμα τῆU+03F2 λέrει</p></div>'
+       '<milestone unit="section" n="3"/><div type="textpart" subtype="chapter" n="2">'
+       '<p>δέλτα</p></div></div></body></text></TEI>')
+_gd = _tf.mkdtemp()
+os.makedirs(os.path.join(_gd, "first1k"))
+_gp = os.path.join(_gd, "first1k", "gk.xml")
+open(_gp, "w", encoding="utf-8").write(_GK)
+st.CORPUS = _gd
+st.TEI_PROSE_CUT["gk"] = ("section",)
+_gb = st.convert_tei_prose(_gp, "gk", "Clem. Protr.")
+_np = os.path.join(_gd, "gk.xml")                  # the same file, NOT from First1KGreek
+open(_np, "w", encoding="utf-8").write(_GK)
+_nb = st.convert_tei_prose(_np, "gk", "Clem. Protr.")
+del st.TEI_PROSE_CUT["gk"]
+st.CORPUS = _saved[0]
+_gu = {u["id"]: u for u in _gb["units"]}
+check("fathers: a section milestone outside its chapter opens that chapter's text",
+      list(_gu) == ["gk:1.1", "gk:1.2", "gk:2.3"] and _gu["gk:1.1"]["text"] == "ἄλφα βῆτα")
+check("fathers: the edition is recorded, a stray '>' in the editor dropped",
+      _gb["source"]["edition"]["editor"] == "Otto Stählin"
+      and _gb["source"]["edition"]["date"] == "1905" and _gb["source"]["language"] == "grc")
+check("fathers: rights credit First1KGreek and name the printed edition",
+      _gb["rights"]["attribution"].startswith("First1KGreek")
+      and "Otto Stählin, Protrepticus, Leipzig, 1905" in _gb["rights"]["note"])
+check("fathers: a code-point name is decoded; a Latin-letter word is counted, not changed",
+      "τῆϲ" in _gu["gk:1.2"]["text"] and "λέrει" in _gu["gk:1.2"]["text"]
+      and _gu["gk:1.2"]["apparatus"]["latin_letters"] == 1 and "apparatus" not in _gu["gk:2.3"])
+check("fathers: outside First1KGreek the same markup is not taken for an original",
+      "edition" not in _nb["source"] and "latin_letters" not in str(_nb["units"])
+      and _nb["rights"]["attribution"].startswith("Perseus"))
+_bt, _br, _bf = st.tei_brackets("ὑψηλῷ [cf. Deut., v, 45]· εὐ[fol. 51]δαιμονίαν [καὶ] [ΙS., II, 2] τε [?]")
+check("fathers: bracketed references and folios lifted; Greek supplements stay",
+      _bt == "ὑψηλῷ· εὐδαιμονίαν [καὶ] τε [?]" and _br == ["cf. Deut., v, 45", "ΙS., II, 2"]
+      and _bf == ["51"])
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

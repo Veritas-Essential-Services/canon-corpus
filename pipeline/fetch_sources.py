@@ -29,6 +29,83 @@ CORPUS = os.path.join(HERE, "..", "data", "corpus")
 
 RAW = "https://raw.githubusercontent.com/PerseusDL/{repo}/master/data/{path}"
 
+# First1KGreek (Open Greek and Latin, Leipzig/Tufts/Harvard): the GREEK
+# text of the church fathers, each the TEI of a printed critical edition.
+# Rights, read per file 2026-10-02: every file's licence line is CC BY-SA 4.0
+# (the markup); the edition itself must be published before 1931 (US public
+# domain). The ancient text has no author's right, and an editor's right in
+# a critical edition, where a country grants one at all (Germany: 25 years
+# from publication, s.70 UrhG), is long expired. Taken only where the
+# sourceDesc date is before 1931.
+F1K_RAW = "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/{path}"
+
+# slug -> (path, note)
+FIRST1K = {
+    # Wave 1, 2026-10-02: Clement, Justin, the apologists, Origen,
+    # Hippolytus, Methodius. NOT taken, and why:
+    #   - the Apostolic Fathers and Diognetus (another thread's work);
+    #   - Irenaeus, Adv. haer. (Harvey 1857): the file numbers its chapters
+    #     in one series off by one from Harvey's printed Κεφ., runs Book II
+    #     fragments on as chapters 38-46, and keeps marginal source
+    #     references (Massuet, Theodoret) inside the Greek -- no citation it
+    #     yields could be trusted;
+    #   - Origen, Homilies on Luke (Rauer 1930): mostly Jerome's LATIN
+    #     version (32k of 52k words), not a Greek text;
+    #   - Origen, Comm. in Matt. books 10-17 (Klostermann 1935-37): after 1930;
+    #   - Origen, Comm. in Jo. books 19/20/28/32 as tlg079: the same Preuschen
+    #     text the whole commentary (tlg005) already carries;
+    #   - Methodius, De libero arbitrio (Bonwetsch 1917): a third of it is
+    #     Bonwetsch's German rendering of the Slavonic, interleaved.
+    "clement-protrepticus-grc": ("tlg0555/tlg001/tlg0555.tlg001.1st1K-grc1.xml",
+        "Clement of Alexandria, Protrepticus -- Greek, ed. Otto Stählin (GCS, Leipzig: Hinrichs, 1905)"),
+    "clement-paedagogus-grc": ("tlg0555/tlg002/tlg0555.tlg002.1st1K-grc1.xml",
+        "Clement of Alexandria, Paedagogus -- Greek, ed. Stählin (Hinrichs, 1905)"),
+    "clement-eclogae-propheticae-grc": ("tlg0555/tlg005/tlg0555.tlg005.1st1K-grc1.xml",
+        "Clement of Alexandria, Eclogae propheticae -- Greek, ed. Stählin (Hinrichs, 1909)"),
+    "clement-quis-dives-grc": ("tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml",
+        "Clement of Alexandria, Quis dives salvetur -- Greek, ed. Stählin (Hinrichs, 1909)"),
+    "clement-excerpta-theodoto-grc": ("tlg0555/tlg007/tlg0555.tlg007.1st1K-grc1.xml",
+        "Clement of Alexandria, Excerpta ex Theodoto -- Greek, ed. Stählin (Hinrichs, 1909)"),
+    "justin-apology-1-grc": ("tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+        "Justin Martyr, First Apology -- Greek, ed. Gerhard Rauschen (Bonn: Hanstein, 1911)"),
+    "justin-apology-2-grc": ("tlg0645/tlg002/tlg0645.tlg002.perseus-grc2.xml",
+        "Justin Martyr, Second Apology -- Greek, ed. Rauschen (Hanstein, 1911)"),
+    "justin-dialogue-trypho-grc": ("tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml",
+        "Justin Martyr, Dialogue with Trypho -- Greek, ed. Georges Archambault (Paris: Picard, 1909); "
+        "his French translation is NOT in this file"),
+    "tatian-oratio-grc": ("tlg1766/tlg001/tlg1766.tlg001.perseus-grc1.xml",
+        "Tatian, Oratio ad Graecos -- Greek, ed. J. C. T. Otto (Jena: Mauke, 1851)"),
+    "athenagoras-legatio-grc": ("tlg1205/tlg001/tlg1205.tlg001.perseus-grc1.xml",
+        "Athenagoras, Legatio -- Greek, ed. J. C. T. von Otto (Mauke, 1857)"),
+    "athenagoras-de-resurrectione-grc": ("tlg1205/tlg002/tlg1205.tlg002.perseus-grc1.xml",
+        "Athenagoras, De resurrectione -- Greek, ed. von Otto (Mauke, 1857)"),
+    "theophilus-ad-autolycum-grc": ("tlg1725/tlg001/tlg1725.tlg001.perseus-grc1.xml",
+        "Theophilus of Antioch, Ad Autolycum -- Greek, ed. W. G. Humphry (Cambridge: Parker, 1852)"),
+    "origen-contra-celsum-grc": ("tlg2042/tlg001/tlg2042.tlg001.perseus-grc1.xml",
+        "Origen, Contra Celsum -- Greek, ed. Paul Koetschau (GCS, Hinrichs, 1899)"),
+    "origen-commentary-john-grc": ("tlg2042/tlg005/tlg2042.tlg005.1st1K-grc1.xml",
+        "Origen, Commentary on John -- Greek, ed. Erwin Preuschen (GCS, Hinrichs, 1903)"),
+    "origen-exhortatio-martyrium-grc": ("tlg2042/tlg007/tlg2042.tlg007.perseus-grc1.xml",
+        "Origen, Exhortation to Martyrdom -- Greek, ed. Koetschau (Hinrichs, 1899)"),
+    "origen-de-oratione-grc": ("tlg2042/tlg008/tlg2042.tlg008.perseus-grc1.xml",
+        "Origen, On Prayer -- Greek, ed. Koetschau (Hinrichs, 1899)"),
+    "origen-homilies-jeremiah-1-11-grc": ("tlg2042/tlg009/tlg2042.tlg009.opp-grc1.xml",
+        "Origen, Homilies on Jeremiah 1-11 -- Greek, ed. Erich Klostermann (GCS, Hinrichs, 1901)"),
+    "origen-homilies-jeremiah-12-20-grc": ("tlg2042/tlg021/tlg2042.tlg021.opp-grc1.xml",
+        "Origen, Homilies on Jeremiah 12-20 -- Greek, ed. Klostermann (Hinrichs, 1901)"),
+    "origen-de-engastrimytho-grc": ("tlg2042/tlg013/tlg2042.tlg013.opp-grc1.xml",
+        "Origen, On the Witch of Endor (Homily on 1 Sam 28) -- Greek, ed. Klostermann (Hinrichs, 1901)"),
+    "origen-philocalia-grc": ("tlg2042/tlg019/tlg2042.tlg019.1st1K-grc1.xml",
+        "Origen, Philocalia (compiled by Basil and Gregory Nazianzen) -- Greek, ed. J. Armitage "
+        "Robinson (Cambridge UP, 1893); parts of the OCR are badly damaged, flagged per unit"),
+    "origen-epistula-africanum-grc": ("tlg2042/tlg045/tlg2042.tlg045.1st1K-grc1.xml",
+        "Origen, Letter to Africanus -- Greek, ed. de La Rue, repr. Migne PG 11 (1857)"),
+    "hippolytus-refutatio-grc": ("tlg2115/tlg060/tlg2115.tlg060.opp-grc1.xml",
+        "Hippolytus, Refutation of All Heresies -- Greek, ed. Paul Wendland (GCS, Hinrichs, 1916)"),
+    "methodius-symposium-grc": ("tlg2959/tlg001/tlg2959.tlg001.opp-grc1.xml",
+        "Methodius of Olympus, Symposium -- Greek, ed. G. Nathanael Bonwetsch (GCS, Hinrichs, 1917)"),
+}
+
 # slug -> (repo, path, note)   — PD status verified per edition, see notes
 PERSEUS = {
     "iliad-butler": ("canonical-greekLit",
@@ -1359,6 +1436,8 @@ def main():
     if "--list" in sys.argv:
         for slug, (repo, path, note) in PERSEUS.items():
             print(f"perseus/{slug}: {note}")
+        for slug, (path, note) in FIRST1K.items():
+            print(f"first1k/{slug}: {note}")
         for slug, (author, work, note) in CCEL.items():
             print(f"ccel/{slug}: {note}")
         for slug, (url, fn, note) in LEXICONS.items():
@@ -1373,6 +1452,13 @@ def main():
             print(f"perseus/{slug}: {fetch(RAW.format(repo=repo, path=path), dest)}")
         except Exception as e:
             failures.append(slug); print(f"perseus/{slug}: FAIL {e}")
+        time.sleep(0.5)
+    for slug, (path, note) in FIRST1K.items():
+        dest = os.path.join(CORPUS, "first1k", slug + ".xml")
+        try:
+            print(f"first1k/{slug}: {fetch(F1K_RAW.format(path=path), dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"first1k/{slug}: FAIL {e}")
         time.sleep(0.5)
     for slug, (author, work, note) in CCEL.items():
         dest = os.path.join(CORPUS, "ccel", slug + ".xml")

@@ -81,7 +81,28 @@ def tei_load(path):
             e.tag = TEI_NS + e.tag
     return root
 
-def perseus_rights(root):
+def tei_edition(root):
+    """The printed edition a TEI file was made from, as its sourceDesc states
+    it (First1KGreek's Greek texts: editor, title, publisher, place, date).
+    Only what the file says -- a blank editor stays blank."""
+    T = "{http://www.tei-c.org/ns/1.0}"
+    m = root.find(f".//{T}sourceDesc//{T}monogr")
+    if m is None:
+        return {}
+    def txt(e):
+        return clean("".join(e.itertext())) if e is not None else ""
+    # A stray ">" opens one editor's name (Wendland's Hippolytus): a markup
+    # slip, dropped by rule.
+    eds = [txt(e).lstrip("<> ") for e in m.findall(f"{T}editor")]
+    ed = {"editor": " & ".join(e for e in eds if e),
+          "title": txt(m.find(f"{T}title")),
+          "publisher": txt(m.find(f".//{T}imprint/{T}publisher")),
+          "place": txt(m.find(f".//{T}imprint/{T}pubPlace")),
+          "date": txt(m.find(f".//{T}imprint/{T}date"))}
+    return {k: v for k, v in ed.items() if v}
+
+
+def perseus_rights(root, path=None):
     """The rights block every Perseus-derived book carries. The translations
     are PD; Perseus's TEI, and any modernizing of the wording it did (the
     title says when), are CC BY-SA 4.0 -- share-alike. The licence is read
@@ -95,6 +116,27 @@ def perseus_rights(root):
         d = root.find(f".//{T}body/{T}div")
         base = (d.get("n") or "") if d is not None else ""
     repo = "canonical-latinLit" if ":latinLit:" in base else "canonical-greekLit"
+    if path and os.path.basename(os.path.dirname(path)) == "first1k":
+        # First1KGreek (Open Greek and Latin): the Greek text of a printed
+        # critical edition, not a translation. The edition is public domain
+        # (published before 1931; the ancient text has no author's right,
+        # and an editor's right in a critical edition -- where a country
+        # grants one, e.g. Germany's 25 years, s.70 UrhG -- long expired);
+        # the TEI is CC BY-SA.
+        ed = tei_edition(root)
+        printed = ", ".join(x for x in (ed.get("editor"), ed.get("title"),
+                                         ed.get("place"), ed.get("date")) if x)
+        return {"license": "CC BY-SA 4.0",
+                "attribution": "First1KGreek, Open Greek and Latin "
+                               "(OpenGreekAndLatin/First1KGreek)",
+                "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+                "redistribute_whole": True,
+                "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
+                         if lic is not None else
+                         "this file states no licence; the repository's licence is CC BY-SA 4.0")
+                        + f". The Greek text is a public-domain printed edition ({printed}); "
+                          "the TEI is share-alike: a derivative must credit First1KGreek "
+                          "and carry the same licence."}
     return {"license": "CC BY-SA 4.0",
             "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
             "source_url": f"https://github.com/PerseusDL/{repo}",
@@ -526,6 +568,34 @@ TEI_PROSE = {
     "horace-satires-smart": "Hor. S.",
     "horace-ars-poetica-smart": "Hor. Ars",
     "caesar-civil-war-duncan": "Caes. Civ.",
+    # The Greek FATHERS, 2026-10-02: the Greek text itself (not a
+    # translation), from First1KGreek (OpenGreekAndLatin), each the TEI of
+    # a printed critical edition published before 1931. Built from
+    # data/corpus/first1k/; rights read from each file (perseus_rights).
+    # Wave 1: Clement, Justin, the apologists, Origen, Hippolytus, Methodius.
+    "clement-protrepticus-grc": "Clem. Al. Protr.",
+    "clement-paedagogus-grc": "Clem. Al. Paed.",
+    "clement-eclogae-propheticae-grc": "Clem. Al. Ecl.",
+    "clement-quis-dives-grc": "Clem. Al. QDS",
+    "clement-excerpta-theodoto-grc": "Clem. Al. Exc.",
+    "justin-apology-1-grc": "Just. 1 Apol.",
+    "justin-apology-2-grc": "Just. 2 Apol.",
+    "justin-dialogue-trypho-grc": "Just. Dial.",
+    "tatian-oratio-grc": "Tat. Orat.",
+    "athenagoras-legatio-grc": "Athenag. Leg.",
+    "athenagoras-de-resurrectione-grc": "Athenag. Res.",
+    "theophilus-ad-autolycum-grc": "Theoph. Autol.",
+    "origen-contra-celsum-grc": "Orig. Cels.",
+    "origen-commentary-john-grc": "Orig. Comm. Jo.",
+    "origen-exhortatio-martyrium-grc": "Orig. Mart.",
+    "origen-de-oratione-grc": "Orig. Or.",
+    "origen-homilies-jeremiah-1-11-grc": "Orig. Hom. Jer.",
+    "origen-homilies-jeremiah-12-20-grc": "Orig. Hom. Jer.",
+    "origen-de-engastrimytho-grc": "Orig. Engastr.",
+    "origen-philocalia-grc": "Orig. Philoc.",
+    "origen-epistula-africanum-grc": "Orig. Ep. Afr.",
+    "hippolytus-refutatio-grc": "Hippol. Haer.",
+    "methodius-symposium-grc": "Meth. Symp.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -606,7 +676,37 @@ TEI_PROSE_CUT = {
     "cicero-de-senectute-falconer": ("section",),
     "cicero-de-divinatione-falconer": ("section", "seciton"),
     "cicero-de-officiis-miller": ("section",),
+    # Stählin's Clement: sections run on through the work, as milestones
+    # inside the chapters (the subsections inside them ride along).
+    "clement-protrepticus-grc": ("section",),
+    "clement-paedagogus-grc": ("section",),
 }
+
+
+# Books whose editor printed references and manuscript folios INSIDE the
+# text in square brackets (Archambault's Justin, 1909: "[cf. Rom., IV, 10]",
+# "εὐ[fol. 51]δαιμονίαν"). Lifted out by rule into apparatus.refs /
+# apparatus.folio. Only a bracket with a Latin letter or digit and no
+# lower-case Greek is lifted (the OCR writes some references with Greek
+# capitals, "[ΙS., II, 2]"): a Greek supplement or title in brackets is the
+# editor's text and stays, as does "[?]".
+TEI_PROSE_BRACKETS = {"justin-dialogue-trypho-grc"}
+RE_BRACKET = re.compile(r"(\s*)\[([^\[\]\u03ac-\u03ce\u1f00-\u1fff]*[A-Za-z0-9][^\[\]\u03ac-\u03ce\u1f00-\u1fff]*)\](\s*)(?=([·.,;:])?)")
+
+
+def tei_brackets(text):
+    refs, folios = [], []
+    def lift(m):
+        inner = clean(m.group(2))
+        f = re.fullmatch(r"fol\.\s*(\S+)", inner)
+        (folios if f else refs).append(f.group(1) if f else inner)
+        # Spaces on both sides: one stays. On neither: the bracket split a
+        # word, which closes up. Before punctuation: none (ὑψηλῷ [cf. ...]·).
+        if m.group(4) and not m.group(3):
+            return ""
+        return " " if (m.group(1) and m.group(3)) else (m.group(1) or m.group(3))
+    text = RE_BRACKET.sub(lift, text)
+    return text.strip(), refs, folios
 
 
 # Where the source's divisions are exact but are NOT the standard citation,
@@ -616,6 +716,18 @@ _APPIAN = ("exact to the source's innermost division. The last number is the "
            "the unit ending .6); the number before it is Horace White's "
            "chapter, which a standard citation does not use.")
 TEI_PROSE_HONESTY = {
+    "clement-protrepticus-grc": (
+        "exact to Stählin's section, which runs on through the work (Protr. 1.5 "
+        "is chapter 1, section 5); the subsection a standard citation adds "
+        "(Protr. 1.5.1) is inside the unit, not split out."),
+    "clement-paedagogus-grc": (
+        "exact to Stählin's section, which runs on through each book (Paed. "
+        "1.1.1 is book 1, chapter 1, section 1); the subsection a standard "
+        "citation adds is inside the unit, not split out."),
+    "origen-commentary-john-grc": (
+        "exact to Preuschen's section (book.section). Only books 1, 2, 6, 10, "
+        "13, 19, 20, 28 and 32 survive whole; books 4 and 5 are fragments, "
+        "cited book.fragment."),
     "athenaeus-deipnosophists-yonge": (
         "exact to the source's divisions, which are Yonge's chapters, numbered "
         "per book. The standard citation of Athenaeus is Casaubon's page and "
@@ -643,6 +755,7 @@ for _s in ("concerning-the-kings", "concerning-italy", "the-samnite-history",
 # A level the source misnames: Appian's Syrian and Illyrian Wars mark the
 # standard sections as "card" and White's chapters as "textpart".
 TEI_PROSE_LEVELS = {
+    "origen-commentary-john-grc": "book.section",
     "appian-the-syrian-wars-white": "chapter.section",
     "appian-the-illyrian-wars-white": "chapter.section",
 }
@@ -757,6 +870,8 @@ def convert_tei_prose(path, slug, abbrev):
         if is_part(e) and not kids:
             if cut and tei_cuts(e, cut):
                 split(e, path_ns)
+            elif outside:                       # one section, opened outside
+                leaf(e, ".".join(path_ns + outside)); outside.clear()
             else:
                 leaf(e, ".".join(path_ns))
             return
@@ -765,7 +880,14 @@ def convert_tei_prose(path, slug, abbrev):
                 visit(c, path_ns + [c.get("n") or "?"])
             elif any(is_part(d) for d in c.iter()):
                 visit(c, path_ns)               # a wrapper (the translation div)
-            elif c.tag != T + "milestone":
+            elif c.tag == T + "milestone":
+                # A section milestone standing just OUTSIDE the division it
+                # opens (Stählin's Clement: <milestone n="1"/><div n="1">):
+                # the text before the division's first inner milestone is
+                # that section, not a heading.
+                if cut and c.get("unit") in cut:
+                    outside[:] = [c.get("n")]
+            else:
                 # Text between divisions (a book's <head>, an argument):
                 # kept, riding on the next unit as apparatus.head.
                 t, _s, n2, _c = tei_split(c)
@@ -782,9 +904,13 @@ def convert_tei_prose(path, slug, abbrev):
         ms = tei_cuts(e, cut)
         pre = tei_slice(e, None, ms[0])
         t, _s, n2, _c = tei_split(pre)
-        if t:
-            pending_head.append(t)
-        pending_head.extend(n["text"] for n in n2)
+        if t and outside:
+            leaf(pre, ".".join(path_ns + outside))
+        else:
+            if t:
+                pending_head.append(t)
+            pending_head.extend(n["text"] for n in n2)
+        outside.clear()
         chapter = None
         chap = {m: m.get("n") for m in e.iter(T + "milestone") if m.get("unit") == "chapter"}
         order = [m for m in e.iter(T + "milestone") if m in chap or m in ms]
@@ -802,9 +928,18 @@ def convert_tei_prose(path, slug, abbrev):
             levels.append(cut[0])
 
     def leaf(e, ref, milestones=None):
-        nonlocal nnotes
+        nonlocal nnotes, nrefs, nfol, ncode
         if True:
             text, _stage, notes, sic = tei_split(e)
+            refs, folios = [], []
+            if original:
+                # The OCR wrote some lunate sigmas as their code point's
+                # NAME ("τῆU+03F2"): decoded by rule, counted.
+                text, k = re.subn(r"U\+([0-9A-F]{4})", lambda m: chr(int(m.group(1), 16)), text)
+                ncode += k
+            if slug in TEI_PROSE_BRACKETS:
+                text, refs, folios = tei_brackets(text)
+                nrefs += len(refs); nfol += len(folios)
             links, seen = [], set()
             for pl in e.iter(T + "placeName"):
                 m = RE_TGN.search(pl.get("key") or "")
@@ -819,6 +954,13 @@ def convert_tei_prose(path, slug, abbrev):
                 app["notes"] = notes; nnotes += len(notes)
             if sic:
                 app["sic"] = sic
+            nlat = original and sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+            if nlat:
+                app["latin_letters"] = nlat     # a Latin passage, or OCR residue
+            if refs:
+                app["refs"] = refs
+            if folios:
+                app["folio"] = folios
             if e.find(f".//{T}gap") is not None:
                 app["gap"] = True               # a lacuna: flagged, never filled
             if text:
@@ -838,6 +980,14 @@ def convert_tei_prose(path, slug, abbrev):
                         a.setdefault(k, []).extend(v)
 
     cut = TEI_PROSE_CUT.get(slug)
+    outside = []
+    nrefs = nfol = ncode = 0
+    # The text itself, not a translation: a First1KGreek edition div. (Not
+    # read off the markup alone: some Perseus translations are labelled
+    # type="edition", and Smart's English Horace xml:lang="lat".)
+    ed_div = body.find(f"{T}div[@type='edition']") if body is not None else None
+    original = (ed_div is not None and os.path.basename(os.path.dirname(path)) == "first1k"
+                and ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") == "grc")
     if cut and body is not None and not any(is_part(d) for d in body.iter()):
         split(body, [])                         # no divisions at all: De Senectute
     else:
@@ -857,34 +1007,58 @@ def convert_tei_prose(path, slug, abbrev):
             steps += 1
             jumps += int(pb_[-1]) - int(pa[-1]) > 1
     spans = steps and jumps / steps > 0.1
+    house = ("First1KGreek" if os.path.basename(os.path.dirname(path)) == "first1k"
+             else "Perseus")
     honesty = ("each unit is the run of numbered sections from its id to the next "
                f"unit's ({jumps:,} of {steps:,} steps skip numbers): a citation "
                "resolves to the unit that contains it" if spans else
                "exact to the source's innermost division (the standard section "
-               "numbering, born-in from Perseus)")
+               f"numbering, born-in from {house})")
     if slug in TEI_PROSE_HONESTY and not spans:
         honesty = TEI_PROSE_HONESTY[slug]
-    rights = perseus_rights(root)
+    rights = perseus_rights(root, path)
     if slug in TEI_RIGHTS_NOTE:
         rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
+    source = {"path": os.path.relpath(path, CORPUS), "format": "tei",
+              "translator": transl, "sha256": sha256(path)}
+    if original:
+        # The text itself, not a translation: say whose edition it is.
+        source["edition"] = tei_edition(root)
+        source["language"] = ed_div.get("{http://www.w3.org/XML/1998/namespace}lang")
+    latin = sum(u.get("apparatus", {}).get("latin_letters", 0) for u in units)
+    latin_units = sum(1 for u in units if u.get("apparatus", {}).get("latin_letters"))
     return {"slug": slug, "title": title, "author": author,
-            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
-                       "translator": transl, "sha256": sha256(path)},
+            "source": source,
             "scheme": {"citation": f"{abbrev} {TEI_PROSE_LEVELS.get(slug) or '.'.join(levels)}",
                        "resolution": ((TEI_PROSE_LEVELS[slug].split(".")[-1]
                                        if slug in TEI_PROSE_LEVELS else
                                        levels[-1] if levels else "section"))
                                      + (" (span)" if spans else ""),
                        "honesty": honesty,
-                       "note": f"Perseus TEI, one unit per innermost textpart div. "
+                       "note": f"{house} TEI, one unit per innermost textpart div. "
                                f"{nnotes} translator's/editor's footnote(s) lifted out of "
                                f"the reading text into apparatus.notes; text between "
-                               f"divisions (headings, arguments) kept as apparatus.head; "
-                               f"{places} place reference(s) linked by Getty TGN id "
-                               f"(Perseus's gazetteer glosses dropped from the text, the "
-                               f"id kept)."
+                               f"divisions (headings, arguments) kept as apparatus.head"
+                               + (f"; {places} place reference(s) linked by Getty TGN id "
+                                  f"(Perseus's gazetteer glosses dropped from the text, the "
+                                  f"id kept)." if house == "Perseus" else ".")
                                + (f" {nbeta} Greek phrase(s) the file writes in beta code "
-                                  f"converted to Unicode by the standard table." if nbeta else "")},
+                                  f"converted to Unicode by the standard table." if nbeta else "")
+                               + (f" {nrefs} bracketed reference(s) the editor printed inside "
+                                  f"the text ([cf. Is., LIII, 8]) lifted out into apparatus.refs "
+                                  f"as printed, NOT resolved to verse ids (his Psalms follow the "
+                                  f"Greek numbering); {nfol} manuscript folio mark(s) ([fol. 51]) "
+                                  f"lifted into apparatus.folio, a word they split rejoined (a "
+                                  f"bracket the source leaves unclosed stays in the text)."
+                                  if nrefs or nfol else "")
+                               + (f" {latin} word(s) in {latin_units} unit(s) carry Latin "
+                                  f"letters -- a Latin passage the edition prints, or OCR "
+                                  f"residue in the source (r for γ, a for α): left as the "
+                                  f"source has them, and counted on each such unit as "
+                                  f"apparatus.latin_letters, so a reader can tell a clean "
+                                  f"unit from a damaged one." if original and latin else "")
+                               + (f" {ncode} character(s) the source writes as a code-point "
+                                  f"name (U+03F2) decoded to the character." if ncode else "")},
             "rights": rights,
             "units": units}
 
@@ -3104,6 +3278,15 @@ def main():
                 jobs.append((slug, lambda p=path, s=slug: convert_tei_letters(p, s, *TEI_LETTERS[s])))
                 continue
             jobs.append((slug, lambda p=path, s=slug: convert_tei(p, s, tei_abbrevs.get(s, s))))
+    # First1KGreek: Greek texts of the fathers, through the prose converter
+    # only (a file with no TEI_PROSE entry is not built).
+    fdir = os.path.join(CORPUS, "first1k")
+    if os.path.isdir(fdir):
+        for fn in sorted(os.listdir(fdir)):
+            slug = fn[:-4]
+            if slug in TEI_PROSE:
+                jobs.append((slug, lambda p=os.path.join(fdir, fn), s=slug:
+                             convert_tei_prose(p, s, TEI_PROSE[s])))
     cdir = os.path.join(CORPUS, "ccel")
     if os.path.isdir(cdir):
         for fn in sorted(os.listdir(cdir)):
