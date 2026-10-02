@@ -1,0 +1,31 @@
+{
+ "_about": "Porphyry in English. Thomas Taylor's Select Works (1823), clean Gutenberg. Alice Zimmern's Porphyry to his Wife Marcella (1896, preface by Richard Garnett), raw IA OCR. Nathaniel Lardner's 18th-century collection of the pagan arguments of Celsus, Porphyry and Julian, clean Gutenberg. Taylor's Life of Plotinus by Porphyry is inside the plotinus shelf's Select Works.",
+ "_name_words": [
+  "porphyry",
+  "marcella",
+  "celsus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "porphyry-taylor-select": [
+   77014,
+   "Select Works of Porphyry",
+   "tr. Thomas Taylor"
+  ],
+  "celsus-porphyry-julian-lardner": [
+   37696,
+   "Arguments of Celsus, Porphyry, and the Emperor Julian, against the Christians",
+   "tr. Nathaniel Lardner"
+  ]
+ },
+ "internet_archive": {
+  "porphyry-marcella-zimmern": [
+   "porphyryphiloso00garngoog",
+   "Porphyry the Philosopher to his Wife Marcella (1896)",
+   "tr. Alice Zimmern"
+  ]
+ },
+ "_excluded": {
+  "Porphyry's Isagoge in Owen's Organon (Bohn, 1853)": "belongs with the aristotle shelf; not taken here"
+ }
+}
