@@ -802,6 +802,21 @@ Shelf: `pipeline/ralston_shelf.json` (2026-10-02; added at the coordinator's rel
 | ralston-other-translations | excluded | Turgenev's Liza (PG 12194) and Schiefner's Tibetan Tales (PG 66870), both tr. Ralston: outside the relay's ask (Russian tales); Tibetan Tales would suit a later folk-tale batch |
 | ralston-commentary-only | excluded | Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only |
 
+## Charles Perrault (English translations before 1929)
+
+Shelf: `pipeline/perrault_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three translations, each its own work with its translator in the title, as with Andersen. Samber's 1729 version as revised by Mansion (1922) is cut by its own Contents, read leniently; each tale's half-title and body title both register, so a tale's opening caption sits under the half-title. Johnson's Old-Time Stories also carries three tales by Mme de Beaumont and Mme d'Aulnoy, said so in its title. Lang's 1888 Perrault's Popular Tales is the French text and is held back; Tales of Passed Times names no translator and is pending. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Tales of Mother Goose, tr. Charles Welsh (1901) | have | PG 17208, `perrault-mother-goose-welsh` (404 units) |
+| The Fairy Tales of Charles Perrault, tr. Robert Samber, rev. J. E. Mansion (1922) | have | PG 29021, `perrault-fairy-tales-samber-mansion` (565 units) |
+| Old-Time Stories, tr. A. E. Johnson (1921), with three tales by Mme de Beaumont and Mme d'Aulnoy | have | PG 31431, `perrault-old-time-stories-johnson` (925 units) |
+| perrault-lang-french | excluded | Perrault's Popular Tales, ed. Andrew Lang (PG 33931, Oxford 1888): the French text with Lang's English introduction, not an English translation; the Lang shelf points here, so it is noted here, held back for Adam |
+| perrault-translator-unrecorded | pending | Tales of Passed Times (PG 33511, ill. Charles Robinson, with d'Aulnoy and Beaumont) names no translator; it does not enter the shelf until one is identified (the 2026-07-26 rights rule) |
+| perrault-anthologies | excluded | Planché's Four and Twenty Fairy Tales (PG 52719, 1858) and Quiller-Couch's The Sleeping Beauty (PG 51275): anthologies mostly of other French writers; Perrault is a minority of each |
+| perrault-chapbooks | excluded | single-tale Blue Beard chapbooks (PG 43457, 44288, 45381): anonymous retellings, no translator recorded |
+| perrault-other | excluded | Vitruvius abridged by Claude Perrault (PG 27877): a different Perrault |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

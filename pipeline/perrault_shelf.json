@@ -1,0 +1,38 @@
+{
+ "_about": "Charles Perrault's (1628-1703) fairy tales in three public-domain English translations, each its own work with its translator in the title, as with Andersen: Charles Welsh's The Tales of Mother Goose (1901), Robert Samber's translation as revised by J. E. Mansion in The Fairy Tales of Charles Perrault (1922, ill. Harry Clarke), and A. E. Johnson's Old-Time Stories (1921, ill. W. Heath Robinson). All published before 1929: US public domain.",
+ "_author": "Charles Perrault",
+ "_name_words": [
+  "perrault",
+  "mother",
+  "goose",
+  "fairy",
+  "tales",
+  "time"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "perrault-mother-goose-welsh": [
+   17208,
+   "The Tales of Mother Goose, tr. Charles Welsh (1901)"
+  ],
+  "perrault-fairy-tales-samber-mansion": [
+   29021,
+   "The Fairy Tales of Charles Perrault, tr. Robert Samber, rev. J. E. Mansion (1922)",
+   {
+    "contents_only": true
+   }
+  ],
+  "perrault-old-time-stories-johnson": [
+   31431,
+   "Old-Time Stories, tr. A. E. Johnson (1921), with three tales by Mme de Beaumont and Mme d'Aulnoy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "perrault-lang-french": "Perrault's Popular Tales, ed. Andrew Lang (PG 33931, Oxford 1888): the French text with Lang's English introduction, not an English translation; the Lang shelf points here, so it is noted here, held back for Adam",
+  "perrault-translator-unrecorded": "PENDING: Tales of Passed Times (PG 33511, ill. Charles Robinson, with d'Aulnoy and Beaumont) names no translator; it does not enter the shelf until one is identified (the 2026-07-26 rights rule)",
+  "perrault-anthologies": "Planché's Four and Twenty Fairy Tales (PG 52719, 1858) and Quiller-Couch's The Sleeping Beauty (PG 51275): anthologies mostly of other French writers; Perrault is a minority of each",
+  "perrault-chapbooks": "single-tale Blue Beard chapbooks (PG 43457, 44288, 45381): anonymous retellings, no translator recorded",
+  "perrault-other": "Vitruvius abridged by Claude Perrault (PG 27877): a different Perrault"
+ }
+}

@@ -147,3 +147,6 @@
 
 ## 2026-10-02 16:48 CDT — ralston: done
 - 1/1 fetched (Gutenberg 22373), 3,465 units, nested Chapter > tale, all 51 tales found. convert_nested.py gains two opt-in level keys: strip (a footnote mark on a title) and max (a title longer than 90 characters, used by Colum). 10 ~2 ids from Contents summaries.
+
+## 2026-10-02 16:49 CDT — perrault: done
+- 3/3 fetched (Gutenberg 17208, 29021, 31431), 1,894 units, 0 duplicate ids; translators Welsh, Mansion, Johnson captured from the headers. Samber/Mansion via contents_only (all 10 tales; the house rule missed Puss in Boots and Cinderilla). PG 33511 pending (no translator named); PG 33931 is French.

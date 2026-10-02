@@ -249,8 +249,10 @@
     },
     {
       "id": "perrault",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Perrault in pre-1929 English translations, translator in each title; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Perrault in pre-1929 English translations, translator in each title; no minting",
+      "finished": "2026-10-02T16:49:29-05:00",
+      "notes": "3/3 fetched (Gutenberg 17208, 29021, 31431), 1,894 units, 0 duplicate ids; translators Welsh, Mansion, Johnson captured from the headers. Samber/Mansion via contents_only (all 10 tales; the house rule missed Puss in Boots and Cinderilla). PG 33511 pending (no translator named); PG 33931 is French."
     },
     {
       "id": "colum",
