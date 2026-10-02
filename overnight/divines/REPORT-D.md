@@ -165,3 +165,6 @@
 
 ## 2026-10-02 17:09 CDT — beowulf: done
 - 4/4 fetched (Gutenberg 16328, 20431, 50742, 981), 2,181 units, 1 ~2 id; translators Hall, Morris, Kirtlan, Gummere captured from the headers.
+
+## 2026-10-02 17:09 CDT — poetic-edda: done
+- 1/1 fetched (Gutenberg 73533), 4,703 units, nested Poem > note/text/notes; 14 ~2 ids in Brot af Sigurtharkvithu (its NOTES heading is run into prose in the source).

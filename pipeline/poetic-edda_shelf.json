@@ -1,0 +1,36 @@
+{
+ "_about": "The Poetic Edda in Henry Adams Bellows's translation (American-Scandinavian Foundation, 1923), as the relay asked: published 1923, US public domain since 2019. Clean Gutenberg text, translator in the title.",
+ "_author": "Poetic Edda (Old Norse, anonymous)",
+ "_name_words": [
+  "edda"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "edda-bellows": [
+   73533,
+   "The Poetic Edda, tr. Henry Adams Bellows (1923)",
+   {
+    "levels": [
+     {
+      "re": "(?!INTRODUCTORY NOTE$|NOTES?$)[A-ZÀ-Þ][A-ZÀ-Þ’‘' ,.?!-]{3,}$",
+      "title_next": true
+     },
+     {
+      "re": "(?:INTRODUCTORY NOTE|NOTES?|1\\.\\s[^|]*\\|.*)$",
+      "label": {
+       "1\\.\\s": "TEXT"
+      },
+      "keep": true,
+      "max": 3000
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "edda-other-translations": "Thorpe and Blackwell's Elder and Younger Eddas (PG 14726, 1866) and Morris and Magnusson's Volsunga Saga with Edda excerpts (PG 1152): other translations, not named by the relay; candidates for a later batch",
+  "edda-retellings": "Faraday's The Edda (PG 13007-13008), Guerber's Myths of the Norsemen (28497), Wilmot-Buxton (29551): studies and retellings",
+  "edda-prose": "Snorri's Prose (Younger) Edda is on the Sturluson shelf"
+ }
+}

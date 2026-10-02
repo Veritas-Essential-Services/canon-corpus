@@ -286,8 +286,10 @@
     },
     {
       "id": "poetic-edda",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Bellows's Poetic Edda (1923); no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Bellows's Poetic Edda (1923); no minting",
+      "finished": "2026-10-02T17:09:17-05:00",
+      "notes": "1/1 fetched (Gutenberg 73533), 4,703 units, nested Poem > note/text/notes; 14 ~2 ids in Brot af Sigurtharkvithu (its NOTES heading is run into prose in the source)."
     },
     {
       "id": "kalevala",

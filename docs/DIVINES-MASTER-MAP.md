@@ -3130,6 +3130,17 @@ Shelf: `pipeline/beowulf_shelf.json` (2026-10-02; added at the coordinator's rel
 | beowulf-elsewhere | excluded | Longfellow's Beowulf passage is on the Longfellow translator shelf (lane C) |
 | beowulf-ia-candidates | excluded | Earle (1892) and Tinker (1902) translations exist as IA scans; not taken in this batch |
 
+## The Poetic Edda (Bellows, 1923)
+
+Shelf: `pipeline/poetic-edda_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Henry Adams Bellows's translation, cut Poem > INTRODUCTORY NOTE / TEXT / NOTES: a poem's text has no heading of its own, so its stanza 1 (the first numbered paragraph with Bellows's caesura bar) marks where TEXT begins, through convert_nested.py's opt-in label and keep. One fragment (Brot af Sigurtharkvithu) prints its NOTES heading run into the preceding prose, so its notes sit under TEXT and 14 ids take ~2; the source is not hand-edited (rule 2). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Poetic Edda, tr. Henry Adams Bellows (1923) | have | PG 73533, `edda-bellows` (4703 units) |
+| edda-other-translations | excluded | Thorpe and Blackwell's Elder and Younger Eddas (PG 14726, 1866) and Morris and Magnusson's Volsunga Saga with Edda excerpts (PG 1152): other translations, not named by the relay; candidates for a later batch |
+| edda-retellings | excluded | Faraday's The Edda (PG 13007-13008), Guerber's Myths of the Norsemen (28497), Wilmot-Buxton (29551): studies and retellings |
+| edda-prose | excluded | Snorri's Prose (Younger) Edda is on the Sturluson shelf |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
