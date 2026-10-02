@@ -58,8 +58,11 @@
     },
     {
       "id": "overflow-summa",
-      "status": "overflow",
-      "scope": "Aquinas, Summa Theologiae \u2014 census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids"
+      "status": "done",
+      "scope": "Aquinas, Summa Theologiae \u2014 census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids",
+      "started": "2026-10-02T15:48:39-05:00",
+      "finished": "2026-10-02T15:49:58-05:00",
+      "notes": "Census only, nothing to add: Gutenberg I (119 Q), I-II (114), II-II (189), III (90) plus CCEL Supplement (99) and Appendix via ingest_summa_supplement.py = the whole Summa in the PD Dominican translation. Defects: 3 questions in the PG files lack the QUESTION heading line; the Supplement is not a row in adler_shelf.json."
     }
   ]
 }

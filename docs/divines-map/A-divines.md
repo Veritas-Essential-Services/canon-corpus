@@ -180,3 +180,18 @@ Shelf: `pipeline/saphir_shelf.json` (2026-10-02). Adolph Saphir (1831-1891), Heb
 | Modern reprints (1942-1984) | excluded | possibly in copyright |
 | Moritz Gottlieb, Jacob, Philipp, Marie, Elijah Saphir and others | excluded | different people |
 
+
+## Thomas Aquinas — Summa Theologiae census (lane A overflow, 2026-10-02)
+
+The whole Summa is already covered by public-domain English text: the Fathers of the English Dominican Province translation (2nd revised ed., 1920-22). Nothing needed a new shelf.
+
+| Part | Status | Where | Census |
+|---|---|---|---|
+| First Part (I), QQ. 1-119 | have | Gutenberg 17611, `aquinas-summa` in `pipeline/adler_shelf.json` | 119/119 questions present |
+| First Part of the Second Part (I-II), QQ. 1-114 | have | Gutenberg 17897, `aquinas-summa-1-2` | 114/114 |
+| Second Part of the Second Part (II-II), QQ. 1-189 | have | Gutenberg 18755, `aquinas-summa-2-2` | 189/189 |
+| Third Part (III), QQ. 1-90 (Aquinas died at Q. 90) | have | Gutenberg 19950, `aquinas-summa-3` | 90/90 |
+| Supplement, QQ. 1-99, and Appendix (2 questions + two articles on Purgatory) | have | CCEL `summa.xml`, cut by `pipeline/ingest_summa_supplement.py` into `aquinas-summa-supp` | 99/99 + appendix |
+| Latin text | pending | out of scope for this census; a PD Latin edition (Leonine or Piana) is a wishlist item |
+
+Defects found: in the Gutenberg files the first question of three treatises has no `QUESTION n` heading line (I Q. 116 "On Fate", I-II Q. 1 "Of Man's Last End", II-II Q. 183): the text is there, so a future question-level splitter must key on the question title too. `aquinas-summa-supp` is built by a standalone script and is not yet a row in `adler_shelf.json`, so a shelf-driven rebuild would miss it.

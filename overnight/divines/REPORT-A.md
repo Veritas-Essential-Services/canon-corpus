@@ -46,3 +46,7 @@
 - Two more first editions (Distinguishing Marks 1741, Humble Attempt 1747) are refused by the identity check because long-s OCR never yields "Edwards"; listed pending for a look by eye.
 - The shelf now sets `_name_words: [edwards, jonathan]`, so future fetch_shelf.py runs check author identity for Edwards too. `fetch_edwards.py` still reads the shelf unchanged.
 - Awaiting uid minting: the 6 new slugs.
+
+## 2026-10-02 15:49 CDT — overflow-summa: done (census, no new shelf)
+- Counted questions in the four Gutenberg Summa files and CCEL's full summa.xml. Repo coverage is complete: I 119/119, I-II 114/114, II-II 189/189, III 90/90 (adler_shelf.json), Supplement 99/99 + Appendix (ingest_summa_supplement.py from CCEL). No missing part, so no shelf was written.
+- Defects: three treatise-opening questions in the Gutenberg text lack their "QUESTION n" heading line (I 116, I-II 1, II-II 183); the Supplement is not a row in adler_shelf.json. Written into the map section.
