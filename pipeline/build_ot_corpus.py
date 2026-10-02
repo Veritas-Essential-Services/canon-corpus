@@ -9,6 +9,7 @@ the differences are written down in pipeline/README-ot-jsonl.md.
     python3 pipeline/build_ot_corpus.py             # build, write data/ot/
     python3 pipeline/build_ot_corpus.py --check     # rebuild: mint 0, byte-identical
     python3 pipeline/build_ot_corpus.py --report    # counts only, no write
+    python3 pipeline/build_ot_corpus.py --fetch     # the pinned WLC first (one git fetch)
 
     Inputs (pinned, gitignored): the WLC as the Open Scriptures Hebrew Bible
     ships it (build_versification.WLC_PINS, data/corpus/wlc/), and the
@@ -444,13 +445,35 @@ def load_ot(root=ROOT, books=None):
     return out
 
 
+def check(out, blobs):
+    """--check: every file this build writes is byte-identical to the one on
+    disk, and nothing else is there. A shard ABSENT from disk passes only when
+    manifest.json is present and identical, because the manifest carries every
+    shard's sha256 (files_sha256): that is how a rebuild is proved equal to the
+    published data in a checkout where the shards are not committed."""
+    on = lambda fn: os.path.join(out, fn)  # noqa: E731
+    absent = [fn for fn in blobs if not os.path.exists(on(fn))]
+    differ = [fn for fn in blobs if fn not in absent and open(on(fn), "rb").read() != blobs[fn]]
+    if differ or "manifest.json" in absent:
+        raise SystemExit(f"CHECK FAILED: rebuilt output differs from committed: {(differ or absent)[:8]}")
+    extra = stale_outputs(out, blobs)
+    if extra:
+        raise SystemExit(f"CHECK FAILED: output files this build does not write: {extra[:8]}")
+    if absent:
+        print(f"  {len(absent)} shard files not on disk: verified through manifest.json's sha256")
+    print("  CHECK PASSED: minted 0, output byte-identical.")
+
+
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--fetch", action="store_true", help="fetch the pinned WLC first")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--uids", default=UIDS)
     ap.add_argument("--out", default=OUT)
     a = ap.parse_args()
+    if a.fetch:
+        V.fetch()
     if not a.report and sorted(SCOPE) != sorted(BOOKS):
         raise SystemExit("HARD STOP: SCOPE is narrowed; writing or checking it would drop the other "
                          "books from data/ot/. Use --report, or restore SCOPE to every book.")
@@ -463,11 +486,7 @@ def main():
     print(f"  uids minted {s['minted']} / reused {s['reused']} / registry total {s['total']:,}")
     reg.assert_no_mint()
     if a.check:
-        bad = [fn for fn, blob in blobs.items() if not os.path.exists(os.path.join(a.out, fn))
-               or open(os.path.join(a.out, fn), "rb").read() != blob]
-        if bad or stale_outputs(a.out, blobs):
-            raise SystemExit(f"CHECK FAILED: {(bad or stale_outputs(a.out, blobs))[:8]}")
-        print("  CHECK PASSED: minted 0, output byte-identical.")
+        check(a.out, blobs)
         return
     if a.report:
         return

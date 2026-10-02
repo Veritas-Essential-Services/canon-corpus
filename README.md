@@ -97,6 +97,11 @@ qere are both kept. The OSHB lemmas and morphology are CC BY 4.0, so they are
 left out of this public repo. Schema, licence evidence and the open rulings
 (psalm titles, spans, joined verses): `pipeline/README-ot-jsonl.md`.
 
+Both testaments rebuild from pinned sources in under a minute:
+`python3 pipeline/rebuild_bible.py` fetches the pinned inputs (one shallow git
+fetch per source repo, sha256-checked), builds, and checks the result is
+byte-identical. `--verify` does the same in memory and writes nothing.
+
 ## The reader (reverse interlinear, D5)
 
     python3 pipeline/render_reader.py       # -> build/reader/reader.html (gitignored)

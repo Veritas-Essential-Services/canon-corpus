@@ -111,6 +111,8 @@ STRONGS_COMMIT = "0acd2f251c2d35ff8db2dece4e0593979d3ac223"
 STRONGS_RAW = "https://raw.githubusercontent.com/openscriptures/strongs/" + STRONGS_COMMIT + "/"
 STRONGS_XML = "greek/StrongsGreekDictionaryXML_1.4/strongsgreek.xml"
 
+REPOS = {"byz": ("byztxt/byzantine-majority-text", BYZ_COMMIT),
+         "strongs": ("openscriptures/strongs", STRONGS_COMMIT)}
 CACHE = {"byz": os.path.join(ROOT, "data", "corpus", "byztxt", BYZ_COMMIT[:12]),
          "strongs": os.path.join(ROOT, "data", "corpus", "strongs-greek", STRONGS_COMMIT[:12])}
 
@@ -647,26 +649,17 @@ def _url(repo, rel):
 
 
 def fetch(extra=(), quiet=False):
-    """Download every pinned file not already cached with the right sha256.
-    `extra` names further byztxt files (the --survey books), which are
-    fetched at the same commit but are NOT pinned: the survey reads them and
-    writes nothing."""
-    for (repo, rel), want in list(PINS.items()) + [(("byz", r), None) for r in extra]:
-        p = _path(repo, rel)
-        if os.path.exists(p) and (want is None or sha256(p) == want):
-            continue
-        os.makedirs(os.path.dirname(p), exist_ok=True)
-        if not quiet:
-            print(f"  fetch {rel}")
-        with urllib.request.urlopen(_url(repo, rel), timeout=120) as r:
-            blob = r.read()
-        got = hashlib.sha256(blob).hexdigest()
-        if want and got != want:
-            raise SystemExit(f"HARD STOP: {rel} sha256 {got} != pinned {want}")
-        tmp = p + ".tmp"
-        with open(tmp, "wb") as f:
-            f.write(blob)
-        os.replace(tmp, p)
+    """Fetch every pinned file not already cached with the right sha256
+    (pipeline/pinned_fetch.py: raw for a few files, a shallow git fetch of the
+    pinned commit for many). `extra` names further byztxt files (the --survey
+    books), fetched at the same commit but NOT pinned: the survey reads them
+    and writes nothing."""
+    import pinned_fetch as F
+    for repo, (slug, commit) in REPOS.items():
+        items = [(rel, _path(repo, rel), want) for (r, rel), want in PINS.items() if r == repo]
+        if repo == "byz":
+            items += [(rel, _path(repo, rel), None) for rel in extra]
+        F.fetch(slug, commit, items, quiet=quiet)
 
 
 def verify_pins():
@@ -1161,6 +1154,25 @@ def stale_outputs(out, blobs):
     return sorted(found)
 
 
+def check(out, blobs):
+    """--check: every file this build writes is byte-identical to the one on
+    disk, and nothing else is there. A shard ABSENT from disk passes only when
+    manifest.json is present and identical, because the manifest carries every
+    shard's sha256 (files_sha256): that is how a rebuild is proved equal to the
+    published data in a checkout where the shards are not committed."""
+    on = lambda fn: os.path.join(out, fn)  # noqa: E731
+    absent = [fn for fn in blobs if not os.path.exists(on(fn))]
+    differ = [fn for fn in blobs if fn not in absent and open(on(fn), "rb").read() != blobs[fn]]
+    if differ or "manifest.json" in absent:
+        raise SystemExit(f"CHECK FAILED: rebuilt output differs from committed: {(differ or absent)[:8]}")
+    extra = stale_outputs(out, blobs)
+    if extra:
+        raise SystemExit(f"CHECK FAILED: output files this build does not write: {extra[:8]}")
+    if absent:
+        print(f"  {len(absent)} shard files not on disk: verified through manifest.json's sha256")
+    print("  CHECK PASSED: minted 0, output byte-identical.")
+
+
 def load_nt(root=ROOT, pericope=None, books=None):
     """The committed NT as {passages, witnesses, tokens, alignments, manifest},
     whatever the shard layout: it reads the files the manifest lists, in its
@@ -1287,15 +1299,7 @@ def main():
     reg.assert_no_mint()
 
     if a.check:
-        stale = [fn for fn, blob in blobs.items()
-                 if not os.path.exists(os.path.join(a.out, fn))
-                 or open(os.path.join(a.out, fn), "rb").read() != blob]
-        if stale:
-            raise SystemExit(f"CHECK FAILED: rebuilt output differs from committed: {stale[:8]}")
-        extra = stale_outputs(a.out, blobs)
-        if extra:
-            raise SystemExit(f"CHECK FAILED: output files this build does not write: {extra[:8]}")
-        print("  CHECK PASSED: minted 0, output byte-identical.")
+        check(a.out, blobs)
         return
     if a.report:
         return

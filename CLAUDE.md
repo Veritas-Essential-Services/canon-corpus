@@ -110,6 +110,8 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
     python3 pipeline/build_ot_corpus.py --check   # Hebrew OT (WLC): mint 0, byte-identical
     python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
+    python3 pipeline/rebuild_bible.py        # NT + OT from the pins (one git fetch each), timed, then --check
+    python3 pipeline/rebuild_bible.py --verify  # same, in memory: proves = the manifests, writes nothing
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate

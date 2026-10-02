@@ -149,29 +149,17 @@ def sha256(path):
         return hashlib.sha256(f.read()).hexdigest()
 
 
-def _get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus/versification"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return r.read()
-
-
 def fetch():
-    """Every pinned file not already cached with the right sha256."""
-    todo = [(TVTMS_URL, TVTMS_PATH, TVTMS_SHA256)]
-    todo += [(WLC_URL.format(commit=WLC_COMMIT, book=b), os.path.join(WLC_DIR, b + ".xml"), want)
-             for b, want in WLC_PINS.items()]
-    for url, path, want in todo:
-        if os.path.exists(path) and sha256(path) == want:
-            continue
-        blob = _get(url)
-        got = hashlib.sha256(blob).hexdigest()
-        if got != want:
-            _stop(f"{os.path.basename(path)} sha256 {got} != pinned {want}")
-        os.makedirs(os.path.dirname(path), exist_ok=True)
-        with open(path + ".tmp", "wb") as f:
-            f.write(blob)
-        os.replace(path + ".tmp", path)
-        print(f"fetched {os.path.relpath(path, ROOT)}")
+    """Every pinned file not already cached with the right sha256
+    (pipeline/pinned_fetch.py: the 39 WLC books come in one shallow git fetch,
+    which raw.githubusercontent.com's rate limit does not touch)."""
+    import pinned_fetch as F
+    ua = "canon-corpus/versification"
+    F.fetch("STEPBible/STEPBible-Data", TVTMS_COMMIT,
+            [("Versification/" + TVTMS_NAME, TVTMS_PATH, TVTMS_SHA256)], ua=ua)
+    F.fetch("openscriptures/morphhb", WLC_COMMIT,
+            [(f"wlc/{b}.xml", os.path.join(WLC_DIR, b + ".xml"), want)
+             for b, want in WLC_PINS.items()], ua=ua)
 
 
 def _require_pins():
