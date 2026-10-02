@@ -53,3 +53,6 @@
 - Translator field on every title; `_name_words` translator-only; `_verified` evidence per source in every shelf (PG Translator: line + COPYRIGHTED marker; IA translator-named + front-matter years).
 - Late printings replaced: Raw Youth, Gambler, Friend of the Family, Honest Thief, Chekhov Plays 1. Garnett War and Peace moved to pending (no pre-1931 scan). Maude UK note and Chekhov dates fixed.
 - fetch_shelf --verify: 0 mismatched on all 14 shelves. split: 108 titles, 0 not cut. structure_test: 64 passed.
+
+## 2026-10-02T17:37-05:00 — lane A surname check adopted
+- `_surname` (translator surnames, whole words) added to all 14 lane C shelves; `fetch_shelf.py --verify --record` run on each: `_checks` committed, 0 mismatched, 0 rights flags.

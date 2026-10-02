@@ -1100,5 +1100,593 @@
    "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname": [
+  "garnett"
+ ],
+ "_checks": {
+  "garnett-possessed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-crime-and-punishment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-white-nights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-anna-karenina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-kingdom-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-darling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-duel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-lady-with-the-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-bishop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-chorus-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-schoolmistress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-horse-stealers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-schoolmaster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-cooks-wedding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-chekhov-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-rudin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-house-of-gentlefolk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-on-the-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-fathers-and-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-smoke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-torrents-of-spring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-lear-of-the-steppes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-dream-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-diary-of-a-superfluous-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-desperate-character": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-jew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-knock-knock-knock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-sportsman-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-turgenev-sportsman-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-ostrovsky-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-herzen-past-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Garnett"
+  },
+  "garnett-idiot": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-gambler": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-house-of-the-dead": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-insulted-and-injured": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-raw-youth": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-eternal-husband": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-honest-thief": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-friend-of-the-family": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-death-of-ivan-ilyitch": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-christianity-and-patriotism": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-chekhov-witch": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "garnett-chekhov-plays-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-chekhov-plays-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-turgenev-virgin-soil-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garnett-turgenev-virgin-soil-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garnett-turgenev-two-friends": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garnett-gogol-dead-souls-1": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-gogol-dead-souls-2": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "garnett-goncharov-common-story": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-gogol-overcoat": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-gogol-dikanka": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
 }

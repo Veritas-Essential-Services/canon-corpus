@@ -232,5 +232,136 @@
    "pg_translator": "Aylmer Maude"
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname": [
+  "maude"
+ ],
+ "_checks": {
+  "maude-resurrection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louise Maude"
+  },
+  "maude-father-sergius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-master-and-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-cossacks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-what-men-live-by": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-what-is-art": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-the-devil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-three-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-power-of-darkness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-first-distiller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-fruits-of-culture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-live-corpse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-cause-of-it-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  },
+  "maude-play-light-shines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "maude",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude"
+  }
+ }
 }
