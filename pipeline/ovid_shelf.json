@@ -1,0 +1,76 @@
+{
+ "_about": "Ovid in English. No single public-domain translator covers all of him, so the translator is recorded per work. Henry T. Riley's literal prose (Bohn, 1851-1852) is the one translator who covers the whole corpus: clean Gutenberg texts for the Metamorphoses, Amores, Ars Amatoria and Remedia Amoris; raw Internet Archive OCR of the two Bohn volumes for the Heroides and minor works (1852) and the Fasti, Tristia, Pontic Epistles, Ibis and Halieuticon (1851). Verse witnesses of the Metamorphoses: Arthur Golding (1567, ed. Rouse 1904, Shakespeare's Ovid) and J. J. Howard's blank verse (1807). The Dryden-Garth Metamorphoses (1717) lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here.",
+ "_name_words": [
+  "ovid",
+  "ovidus",
+  "publius",
+  "naso",
+  "riley",
+  "literally",
+  "translated"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ovid-riley-metamorphoses-1": [
+   21765,
+   "The Metamorphoses of Ovid, Books I-VII",
+   "tr. Henry T. Riley (prose, 1851)"
+  ],
+  "ovid-riley-metamorphoses-2": [
+   26073,
+   "The Metamorphoses of Ovid, Books VIII-XV",
+   "tr. Henry T. Riley (prose, 1851)"
+  ],
+  "ovid-howard-metamorphoses": [
+   28621,
+   "The Metamorphoses of Publius Ovidus Naso in English blank verse",
+   "tr. J. J. Howard (verse, 1807), all fifteen books"
+  ],
+  "ovid-riley-amores": [
+   47676,
+   "The Amores; or, Amours",
+   "tr. Henry T. Riley (prose, 1852)"
+  ],
+  "ovid-riley-ars-amatoria": [
+   47677,
+   "Ars Amatoria; or, The Art Of Love",
+   "tr. Henry T. Riley (prose, 1852)"
+  ],
+  "ovid-riley-remedia-amoris": [
+   47678,
+   "Remedia Amoris; or, The Remedy of Love",
+   "tr. Henry T. Riley (prose, 1852)"
+  ]
+ },
+ "internet_archive": {
+  "ovid-riley-heroides-1852": [
+   "herodesorepistle00ovid",
+   "The Heroides; or, Epistles of the Heroines, The Amours, Art of Love, Remedy of Love, and Minor Works of Ovid (Bohn, 1852): Heroides, the Responsive Epistles of Sabinus, Amores, Ars Amatoria, Remedia Amoris, De Medicamine Faciei, Nux, Consolatio ad Liviam",
+   "tr. Henry T. Riley"
+  ],
+  "ovid-riley-fasti-tristia-1851": [
+   "fastitristiapont00ovid",
+   "The Fasti, Tristia, Pontic Epistles, Ibis, and Halieuticon of Ovid (Bohn, 1851)",
+   "tr. Henry T. Riley"
+  ],
+  "ovid-golding-metamorphoses": [
+   "cu31924026559777",
+   "Shakespeare's Ovid: being Arthur Golding's translation of the Metamorphoses (ed. W. H. D. Rouse, 1904)",
+   "tr. Arthur Golding (verse, 1567)"
+  ]
+ },
+ "_cross_ref": {
+  "dryden-metamorphoses": "on the Dryden shelf, lane C (pipeline/dryden_shelf.json); never fetched here",
+  "dryden-ovid-metamorphoses": "on the Dryden shelf, lane C (pipeline/dryden_shelf.json); never fetched here",
+  "dryden-ovid-epistles": "on the Dryden shelf, lane C (pipeline/dryden_shelf.json); never fetched here",
+  "dryden-ovid-art-of-love": "on the Dryden shelf, lane C (pipeline/dryden_shelf.json); never fetched here",
+  "dryden-ovid-amores": "on the Dryden shelf, lane C (pipeline/dryden_shelf.json); never fetched here"
+ },
+ "_excluded": {
+  "pg21920": "The Last Poems of Ovid (Akrigg): a COPYRIGHTED Project Gutenberg eBook (2006). Refused by the rights gate",
+  "Brookes More, Metamorphoses": "only Book I (1922) is on IA; the complete translation (1933, 1941) is not cleared. Pending",
+  "Marlowe, All Ovid's Elegies (Amores)": "PD; inside The Works of Christopher Marlowe, vol. 3 (PG 21262), a whole Marlowe volume. Pending: belongs to a Marlowe shelf if one is built, cross-referenced from here",
+  "A. S. Kline and other modern translations": "copyrighted",
+  "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept"
+ }
+}

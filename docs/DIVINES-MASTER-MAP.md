@@ -157,6 +157,27 @@ Pending (wishlist): Elton's verse Hesiod with Chapman's Works and Days (PG 66350
 
 ## Ovid
 
+Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, so the translator is named per row. Henry T. Riley's literal prose (Bohn, 1851–52) is the only one that covers the whole corpus. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Metamorphoses I–VII | Riley (prose, 1851) | `ovid-riley-metamorphoses-1` | have (PG 21765) |
+| Metamorphoses VIII–XV | Riley (prose, 1851) | `ovid-riley-metamorphoses-2` | have (PG 26073) |
+| Metamorphoses I–XV | J. J. Howard (blank verse, 1807) | `ovid-howard-metamorphoses` | have (PG 28621) |
+| Metamorphoses I–XV | Arthur Golding (verse, 1567; ed. Rouse 1904) | `ovid-golding-metamorphoses` | have-raw (IA `cu31924026559777`) |
+| Metamorphoses (Garth composite, 1717) | Dryden, Garth and others | `dryden-metamorphoses` | cross-ref → Dryden shelf (lane C) |
+| Metamorphoses, Dryden's own parts | Dryden | `dryden-ovid-metamorphoses` | cross-ref → Dryden shelf (lane C) |
+| Amores | Riley (prose, 1852) | `ovid-riley-amores` | have (PG 47676) |
+| Ars Amatoria | Riley (prose, 1852) | `ovid-riley-ars-amatoria` | have (PG 47677) |
+| Remedia Amoris | Riley (prose, 1852) | `ovid-riley-remedia-amoris` | have (PG 47678) |
+| Heroides, Sabinus's Responsive Epistles, Medicamina, Nux, Consolatio ad Liviam (with Amores, Ars, Remedia) | Riley (Bohn, 1852) | `ovid-riley-heroides-1852` | have-raw (IA `herodesorepistle00ovid`) |
+| Fasti, Tristia, Epistulae ex Ponto, Ibis, Halieuticon | Riley (Bohn, 1851) | `ovid-riley-fasti-tristia-1851` | have-raw (IA `fastitristiapont00ovid`) |
+| Heroides (Canace, Helen, Dido); Ars I; Amores I.1, I.4 | Dryden | `dryden-ovid-epistles`, `dryden-ovid-art-of-love`, `dryden-ovid-amores` | cross-ref → Dryden shelf (lane C) |
+| Amores (All Ovid's Elegies) | Christopher Marlowe | — | pending: inside Marlowe's Works vol. 3 (PG 21262); belongs on a Marlowe shelf |
+| Metamorphoses | Brookes More (1922–33) | — | pending: only Book I (1922) is on IA; the complete text is not cleared |
+
+Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
+
 ## Virgil
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 

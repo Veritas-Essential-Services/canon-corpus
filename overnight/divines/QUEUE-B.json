@@ -26,8 +26,11 @@
     },
     {
       "id": "ovid",
-      "status": "todo",
-      "scope": "CLASSICAL \u2014 Ovid, English, translator-per-work; cross-ref Dryden-Garth from the Dryden shelf; shelf + fetch + classical map section"
+      "status": "done",
+      "scope": "CLASSICAL \u2014 Ovid, English, translator-per-work; cross-ref Dryden-Garth from the Dryden shelf; shelf + fetch + classical map section",
+      "started": "2026-10-02T15:24:50-05:00",
+      "finished": "2026-10-02T15:25:57-05:00",
+      "notes": "9/9 fetched, 7.5 MB: Riley prose for the whole corpus (6 clean PG texts + 2 Bohn volumes raw), Howard 1807 and Golding 1567 Metamorphoses. Trial conversion of PG texts: 4,610 paragraph units. Dryden titles cross-referenced to lane C's slugs. PG 21920 refused (copyrighted). Not minted."
     },
     {
       "id": "virgil",
