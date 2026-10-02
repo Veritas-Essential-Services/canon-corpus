@@ -39,16 +39,18 @@ def rows(name):
 
 
 # -- the linking rules, on fixtures -------------------------------------------
-def E(key, hw, cls=None, pointer=False, spellings=(), typ="main"):
+def E(key, hw, cls=None, pointer=False, spellings=(), typ="main", gen=None):
     return {"key": key, "headword": hw, "class": cls, "pointer": pointer,
-            "spellings": list(spellings), "type": typ}
+            "spellings": list(spellings), "type": typ, "gen": gen}
 
 
 fx = [E("malus1", "malus", "ADJ"), E("malus2", "malus", "N"), E("malus3", "malus", "N"),
       E("sum1", "sum"), E("sum2", "sum", pointer=True), E("sum3", "sum-"),
       E("rursus", "rursus", "ADV", spellings=["rursum"]), E("dominor", "dominor", "V"),
       E("cum1", "cum", "PREP"), E("cum2", "cum", "CONJ"), E("qui1", "qui"), E("qui2", "qui", "ADV"),
-      E("x1", "x", "N"), E("x2", "x", "N", typ="spur")]
+      E("x1", "x", "N"), E("x2", "x", "N", typ="spur"),
+      E("populus1", "populus", "N", gen="m."), E("populus2", "populus", "N", gen="f."),
+      E("rex1", "rex", "N", gen="m."), E("Rex2", "rex", "N", gen="m.")]
 ix = B.indexes(fx)
 ok(B.link("malus", "ADJ", *ix) == ("class", ["malus1"]), "class picks the one adjective among three malus")
 ok(B.link("malus", "N", *ix)[0] == "ambiguous", "two nouns malus stay ambiguous, both listed")
@@ -59,6 +61,45 @@ ok(B.link("cum", "CONJ", *ix) == ("class", ["cum2"]), "cum the conjunction is cu
 ok(B.link("qui", "PRON", *ix) == ("class", ["qui1"]), "qui the pronoun: the one entry printing no other class")
 ok(B.link("x", "N", *ix) == ("headword", ["x1"]), "an entry L&S marks spurious never takes a word")
 ok(B.link("nemo", "N", *ix) == ("none", []), "no entry: none, nothing guessed")
+ok(B.link("populus", "N", *ix, gender="F") == ("gender", ["populus2"]), "populus, feminine: the poplar (populus2)")
+ok(B.link("rex", "N", *ix, gender="M", proper=False) == ("case", ["rex1"]), "rex, a common noun: rex1, not the name Rex2")
+
+
+# -- the context rules, on fixtures ------------------------------------------
+def R(target, wkey="w", pos="N", case=None, efreq=0, ifreq="A", proper=False, linked=True):
+    return {"target": tuple(target), "linked": linked, "wkey": wkey, "pos": pos, "case": case,
+            "efreq": efreq, "ifreq": ifreq, "iage": "X", "proper": proper}
+
+
+def T(form, Rs, punct=False, cased=None):
+    return {"form": form, "cased": cased or form, "R": Rs, "punct_after": punct}
+
+
+est = T("est", [R(["edo2"], "edo, esse", "V", efreq=2), R(["sum1"], "sum, esse", "V", efreq=0)])
+ok(B.resolve(est, None, None) == ("sum1", ["rare-entry"]), "est: edo (WORDS grade C) loses to sum (A): rare-entry")
+ejus = T("ejus", [R(["is"], "is, ea, id", "PRON", "GEN"), R(["idem"], "idem, eadem, idem", "PRON", "GEN")])
+ok(B.resolve(ejus, None, None) == ("is", ["idem-dem"]), "ejus is not idem without -dem: idem-dem")
+cum = T("cum", [R(["cum1"], "cum PREP", "PREP", "ABL"), R(["cum2"], "cum ADV", "ADV")])
+eo = T("eo", [R(["is"], "is", "PRON", "ABL")])
+autem = T("autem", [R(["autem"], "autem", "CONJ")])
+Iesus = T("jesus", [R(["Jesus"], "Jesus", "N", None, proper=True)], cased="Jesus")
+longe = T("longe", [R(["longe"], "longe", "ADV")])
+ok(B.resolve(cum, eo, None) == ("cum1", ["prep-object"]), "cum eo: a preposition with its ablative")
+ok(B.resolve(cum, autem, None) == ("cum2", ["no-prep-object"]), "cum autem: no object, so the conjunction")
+ok(B.resolve(cum, Iesus, None)[0] == "cum1", "a name with no case may be the object")
+ok(B.resolve(cum, longe, None) == (None, []), "a preposition can take an adverb (a longe): left null")
+ok(B.resolve(T("cum", cum["R"], punct=True), autem, None) == ("cum2", ["no-prep-object"]),
+   "a clause ending after it: no object")
+quis = T("quis", [R(["quis1", "quis2"], "quis, quid", "PRON", "NOM"), R(["qui1"], "qui, quae, quod", "PRON", "NOM")])
+ok(B.resolve(quis, None, "si") == ("quis2", ["si-quis"]), "si quis: the indefinite (quis2)")
+ok(B.resolve(quis, None, "nisi") == (None, []), "nisi qui(s) may be relative: left null")
+panes = T("panes", [R(["panis"], "panis", "N", "NOM"), R(["Pan"], "Pan", "N", "NOM")])
+ok(B.resolve(panes, None, None) == ("panis", ["proper-lower"]), "panes, lower-case: bread, not the god Pan")
+dominum = T("dominum", [R(["domina"], "domina", "N", "GEN", ifreq="C"), R(["dominus"], "dominus", "N", "ACC")])
+ok(B.resolve(dominum, None, None) == ("dominus", ["rare-inflection"]),
+   "dominum as domina's genitive plural is an ending WORDS grades C: rare-inflection")
+sanctus = T("sanctus", [R(["sanctus"], "sanctus", "ADJ", "NOM"), R(["sancio"], "sancio", "VPAR", "NOM")])
+ok(B.resolve(sanctus, None, None) == (None, []), "adjective or participle, both common: null, never guessed")
 ok(B.ls_fold("a^credula") == "acredula" and B.ls_fold("ăd-ōro") == "adoro",
    "Perseus's quantity marks and hyphens fold away")
 ok(B.ls_class(None, "f.") == "N" and B.ls_class("v. dep.", None) == "V" and B.ls_class("P. a.", None) == "ADJ",
@@ -77,7 +118,7 @@ ok(rights["redistribute_whole"] is False and "CC BY-SA" in rights["license"] and
 
 ls = rows("lewis-short.jsonl")
 LS_FIELDS = {"key", "citation", "perseus_id", "homograph", "type", "headword", "spellings",
-             "class", "class_by", "pointer"}
+             "class", "class_by", "gen", "pointer"}
 ok(len(ls) == man["counts"]["lewis_short_entries"] == 51645, "51,645 L&S entries")
 ok(all(set(r) == LS_FIELDS for r in ls), "L&S rows carry pointers and facts only, never definition text")
 ok(all(r["citation"] == "lewis-short:" + r["key"] for r in ls), "every citation is lewis-short:<key>")
@@ -106,6 +147,14 @@ ok("John.1.1" in conc["verbum"]["sure"], "In principio erat Verbum: John 1:1 is 
 ok("Ps.22.1" in conc["dominus"]["sure"], "Dominus regit me: Vulgate Ps 22:1 is under dominus")
 ok(all(not (set(r["sure"]) & set(r["possible"])) for r in conc.values()),
    "a verse is sure or possible for a key, never both")
+ok(all(set(rule.split("+")) <= set(B.RULES) for r in conc.values() for rule in r["resolved"]),
+   "every resolution names its rules, and only known rule ids")
+ok("Gen.3.8" in conc["cum2"]["resolved"].get("no-prep-object", []), "Gen 3:8 et cum audissent: cum2, no-prep-object")
+ok("John.1.1" in conc["sum1"]["sure"] and "John.1.1" in conc["principium"]["resolved"].get("rare-entry", []),
+   "John 1:1: erat sure as sum1; principio resolved to principium by rare-entry")
+out = man["counts"]["vulgate_tokens_by_outcome"]
+ok(sum(out.values()) == 612029 and out["unresolved"] < 0.16 * 612029,
+   f"unresolved words {out['unresolved']} ({100 * out['unresolved'] / 612029:.1f}%), under 16%")
 
 # -- the build, end to end ---------------------------------------------------
 if os.path.exists(B.LS_FILE):

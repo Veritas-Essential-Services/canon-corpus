@@ -87,10 +87,12 @@ The tries run in order:
 | status | rule | lemmas |
 |---|---|---|
 | `headword` | exactly one entry prints this headword | 24,608 |
-| `class` | several do, and one has the word class WORDS gives. Also: one prints no class while every other prints a class that does not fit (*qui* the pronoun is `qui1`, because `qui2` is the adverb). | 1,045 |
-| `spelling` | no headword matches, but one entry prints this as another spelling before its first sense (*rursum* under `rursus`, *quatuor* under `quattuor`, *revertor* under `reverto`) | 872 |
-| `voice` | only the verb's other voice is there (WORDS *domino*, L&S `dominor`) | 99 |
-| `ambiguous` | several entries remain. All are listed and none is chosen. | 776 |
+| `class` | several do, and one has the word class WORDS gives. Also: one prints no class while every other prints a class that does not fit (*qui* the pronoun is `qui1`, because `qui2` is the adverb). WORDS's adverb *cum* ("when") may be L&S's conjunction. | 1,046 |
+| `case` | ... and exactly one is capitalised as the lemma is (*rex* is `rex1`, not the name `Rex2`) | 305 |
+| `gender` | ... and exactly one noun has the lemma's gender (*populus* m. is `populus1`, the people; f. is `populus2`, the poplar) | 59 |
+| `spelling` | no headword matches, but one entry prints this as another spelling before its first sense (*rursum* under `rursus`, *quatuor* under `quattuor`, *revertor* under `reverto`) | 873 |
+| `voice` | only the verb's other voice is there (WORDS *domino*, L&S `dominor`) | 100 |
+| `ambiguous` | several entries remain. All are listed and none is chosen. | 409 |
 | `none` | L&S has none of these | 13,427 |
 
 The class L&S prints is its `<pos>` tag, or a gender (meaning a noun). Where it
@@ -113,24 +115,69 @@ benchmark's own count (README-lemma-spine s.5b). WORDS's two-word guesses are
 never taken, as in the lemma spine. Neither are its abbreviations (*Non.*,
 *A.*), since the text is cut into words at every full stop and so has none.
 
+The first pass looks at a form alone:
+
 | status | forms | tokens | share of tokens |
 |---|---|---|---|
-| `sure`: every reading is the same L&S entry | 32,631 | 416,090 | 68.0% |
-| `several`: readings point at different entries, or one reading has none | 9,521 | 176,134 | 28.8% |
+| `sure`: every reading is the same L&S entry | 32,940 | 422,301 | 69.0% |
+| `several`: readings point at different entries, or one reading has none | 9,212 | 169,923 | 27.8% |
 | `no-ls`: read by WORDS, but no reading is in L&S | 3,933 | 19,303 | 3.2% |
 | `unread`: WORDS has no reading | 231 | 502 | 0.1% |
 
-`several` is real Latin ambiguity, and the build does not settle it.
-Examples:
+The `no-ls` tokens are nearly all biblical names (*Jerusalem* 828, *Jacob* 328).
 
-- *est* is `sum1` or `edo2` (he eats);
-- *ejus* is `is` or `idem`;
-- *sanctus* is the adjective or the participle of `sancio`.
+## 4b. One word in its verse: the context rules
 
-Choosing needs the sentence, and is for a later tagger or for Adam's review
-layer. Until then the concordance lists such verses under `possible`, never
-under `sure`. The `no-ls` tokens are nearly all biblical names (*Jerusalem*
-828, *Jacob* 328).
+A `several` word is then looked at in its verse. Each rule only **removes**
+readings, and only if at least one is left. A word is resolved when one L&S
+entry remains, and it is tagged with every rule that removed something. Any
+word still open stays **null**. No rule reads meaning.
+
+| rule id | what it removes | why it holds | tokens it settles (alone or with others) |
+|---|---|---|---|
+| `idem-dem` | an *idem* reading of a form without *-dem* (*ejus*, *eos*, *eis*) | WORDS's own entry for idem says "w/-dem ONLY" | 11,282 |
+| `proper-lower` | a reading that is a name, for a word written lower-case: a capitalised L&S key (*panes* not `Pan`, *principes* not `Princeps2`); where L&S has no entry, a WORDS name | the Clementine capitalises names | 2,731 |
+| `rare-inflection` | a reading by an ending WORDS grades less than common (C or rarer in INFLECTS.LAT: *dominum* as domina's genitive plural) | WORDS's own grade on the ending | 3,717 |
+| `rare-entry` | a reading whose dictionary entry is two or more of WORDS's frequency grades below the commonest reading, when that one is A or B (*est* as edo, "eats", grade C, against sum, A) | WORDS's own grade on the entry. **This is a frequency prior, not proof**; it is the rule most likely to be wrong in a given verse. | 55,287 |
+| `prep-object` | the non-preposition readings, when the next word in the clause can be in the case the preposition takes (*cum eo*, *a facie*) | a preposition needs an object | 5,477 |
+| `no-prep-object` | the preposition reading, when the clause ends after it (*a, a, a*) or the next word is lower-case, read, and has no case and no adverb reading (*cum autem*) | there is nothing for it to govern | 2,246 |
+| `si-quis` | every reading but the indefinite `quis2`, after *si*, *ne*, *num* | the grammar-book rule: after si, nisi, num, ne, ali- drops away. *nisi* is left out because *nisi qui* is usually relative (Isa 42:19). | 192 |
+
+Two cases look like no-object but are not, so `no-prep-object` stands aside
+for them:
+
+- **A capitalised next word** may be a name WORDS misreads. In *a Sidone*,
+  WORDS reads *Sidone* as the verb sido.
+- **An adverb** can be a preposition's object in the Vulgate. *a longe* means
+  "from afar".
+
+The result over all 612,029 words, in `manifest.counts`:
+
+| outcome | tokens | share |
+|---|---|---|
+| sure (the form alone decides) | 422,300 | 69.0% |
+| resolved by a rule, tagged | 76,264 | 12.5% |
+| **unresolved, null** | 93,660 | **15.3%** (from 27.8%) |
+| no L&S entry / unread | 19,805 | 3.2% |
+
+What stays null is real ambiguity that no rule here can see:
+
+- *qui*, *quae*, *quod*: relative, interrogative or indefinite;
+- *sanctus*: the adjective, or the participle of `sancio`;
+- *mea*: meus, or meo "go!", which WORDS grades only one step apart.
+
+`vulgate-concordance.jsonl` gives each key three lists:
+
+- `sure`;
+- `resolved`, as `{rule ids: [verses]}`;
+- `possible`, for a null reading.
+
+`vulgate-forms.jsonl` gives each `several` form its `resolved` counts by rule
+and its `unresolved` count.
+
+Every word, with its key and rule ids, goes to `build/latin-key/vulgate-tokens.jsonl`.
+That file is gitignored and the build rebuilds it in about 30 seconds, so a
+rule's work can be checked verse by verse.
 
 ## 5. Rights
 
@@ -151,7 +198,7 @@ there decides whether these files stay.
 ## 6. Not claimed
 
 - A link is a match of spelling and class, not a reading of the entry.
-- `possible` is every reading WORDS allows. The build chooses none.
+- A context rule chooses only by grammar or by WORDS's frequency grades. `possible` keeps every reading WORDS allows for a word no rule settled.
 - No uid is proposed or minted for a Latin word. That would follow the Strong's
   pattern (`proposed-uids.jsonl`, `--adopt`) only on Adam's ruling.
 - Only the Vulgate is linked so far. The hymns already carry Whitaker lemma

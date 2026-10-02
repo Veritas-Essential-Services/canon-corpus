@@ -238,8 +238,10 @@ The living truth for project state is the Obsidian vault:
   entry key, homographs numbered: malus1) → data/lemmas/latin-key/ (COMMITTED:
   entry keys and printed facts only, never definitions; whether even that may
   be committed is Adam's call). Whitaker lemmas link to L&S by spelling and
-  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S keys,
-  `sure` or `possible`, never chosen (vulgate-forms, vulgate-concordance).
+  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
+  sure by form (69%), or resolved in its verse by a named context rule
+  (12.5%; idem-dem, rare-entry, prep-object ... each tagged), else null and
+  listed `possible` (15.3%). Rules only remove readings (README s.4b).
   Mints nothing. Rules: pipeline/README-latin-key.md
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json

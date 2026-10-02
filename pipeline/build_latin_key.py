@@ -210,7 +210,7 @@ def read_ls():
                      "homograph": int(a["n"]) if a.get("n", "").isdigit() else None,
                      "type": a.get("type"), "headword": hw, "spellings": alts,
                      "class": cls or hint, "class_by": "tag" if cls else "sense" if hint else None,
-                     "pointer": pointer})
+                     "gen": gen, "pointer": pointer})
     keys = [r["key"] for r in rows]
     if len(set(keys)) != len(keys):
         raise SystemExit("HARD STOP: Lewis & Short keys are not unique")
@@ -222,28 +222,43 @@ def read_ls():
 # ---------------------------------------------------------------------------
 
 # Whitaker's part of speech -> the L&S classes that can print it
+# (WORDS files the conjunction cum, "when", as an ADV; L&S prints it conj.)
 WCLASS = {"N": {"N"}, "V": {"V"}, "VPAR": {"V", "ADJ"}, "SUPINE": {"V"}, "ADJ": {"ADJ", "NUM"},
-          "NUM": {"NUM", "ADJ", "ADV"}, "ADV": {"ADV"}, "PREP": {"PREP"}, "CONJ": {"CONJ"},
+          "NUM": {"NUM", "ADJ", "ADV"}, "ADV": {"ADV", "CONJ"}, "PREP": {"PREP"}, "CONJ": {"CONJ"},
           "INTERJ": {"INTERJ"}, "PRON": {"PRON", "ADJ"}, "PACK": {"PRON", "ADJ"}}
 SKIP_TYPES = {"spur"}     # L&S's own "spurious" entries never take a word
 
 
-def _choose(cands, pos):
-    """Narrow same-headword entries: real entries over pointers; then the one
-    whose class fits; then, if every other entry prints a class that does
-    not fit, the one entry that prints none."""
-    real = [r for r in cands if not r["pointer"]] or cands
-    if len(real) == 1:
-        return "one", [real[0]["key"]]
+LS_GEN = {"M": ("m.",), "F": ("f.",), "N": ("n.",), "C": ("comm.", "com.")}
+
+
+def _choose(cands, pos, gender=None, proper=None):
+    """Narrow same-headword entries, each step only if it leaves one or more:
+    real entries over pointers; the class that fits (or, if none fits, the
+    one entry printing no class); a proper name to a capitalised key and a
+    common word to a lower-case one (rex1, not Rex2); a noun's gender (populus
+    the people is m., populus the poplar f.). Returns (how, keys): how is the
+    step that left one entry, "one" if no step was needed."""
+    pool = [r for r in cands if not r["pointer"]] or cands
+    if len(pool) == 1:
+        return "one", [pool[0]["key"]]
     want = WCLASS.get(pos, set())
-    fit = [r for r in real if r["class"] in want]
-    if len(fit) == 1:
-        return "class", [fit[0]["key"]]
+    fit = [r for r in pool if r["class"] in want]
     if not fit:
-        blank = [r for r in real if r["class"] is None]
-        if len(blank) == 1:
-            return "class", [blank[0]["key"]]
-    return "ambiguous", [r["key"] for r in (fit or real)]
+        blank = [r for r in pool if r["class"] is None]
+        fit = blank if len(blank) == 1 else []
+    steps = [("class", fit)]
+    if proper is not None:
+        steps.append(("case", lambda P: [r for r in P if r["key"][:1].isupper() == proper]))
+    if gender in LS_GEN and pos == "N":
+        steps.append(("gender", lambda P: [r for r in P if r["gen"] in LS_GEN[gender]]))
+    for how, step in steps:
+        nxt = step if isinstance(step, list) else step(pool)
+        if nxt:
+            pool = nxt
+        if len(pool) == 1:
+            return how, [pool[0]["key"]]
+    return "ambiguous", [r["key"] for r in pool]
 
 
 def voice_variants(headword, pos):
@@ -258,10 +273,12 @@ def voice_variants(headword, pos):
     return []
 
 
-def link(headword, pos, by_head, by_spelling):
+def link(headword, pos, by_head, by_spelling, gender=None, proper=None):
     """(status, [L&S keys]) for one Whitaker lemma. Statuses, s.3 of the README:
     headword -- one L&S entry prints this headword first;
     class    -- several do, and exactly one has this word class;
+    case     -- ... and exactly one is capitalised as the lemma is (rex1, Rex2);
+    gender   -- ... and exactly one noun has the lemma's gender (populus1, 2);
     spelling -- none does, but one prints it as another spelling before its
                 first sense (rursum under rursus);
     voice    -- only the other voice is there (WORDS domino, L&S dominor);
@@ -273,16 +290,16 @@ def link(headword, pos, by_head, by_spelling):
         cands = [r for r in index.get(hw, []) if r["type"] not in SKIP_TYPES]
         if not cands:
             continue
-        how, keys = _choose(cands, pos)
+        how, keys = _choose(cands, pos, gender, proper)
         if how == "ambiguous":
             return "ambiguous", keys
         if tag == "headword":
-            return ("headword" if how == "one" else "class"), keys
+            return ("headword" if how == "one" else how), keys
         return tag, keys
     return "none", []
 
 
-LINKED = ("headword", "class", "spelling", "voice")
+LINKED = ("headword", "class", "case", "gender", "spelling", "voice")
 
 
 def indexes(ls_rows):
@@ -303,7 +320,8 @@ def whitaker_links(X, ls_rows):
             continue
         if form in out:
             continue
-        st, keys = link(W.headword_of(form), e["part"]["pos"], *by_head)
+        st, keys = link(W.headword_of(form), e["part"]["pos"], *by_head,
+                        gender=e["part"].get("gender"), proper=form[:1].isupper())
         out[form] = {"whitaker": form, "headword": W.headword_of(form), "pos": e["part"]["pos"],
                      "status": st, "ls": keys}
     return out, by_head
@@ -317,7 +335,9 @@ def describe_key(a, links, by_head):
         return links[k]
     if a["form_by"] == "whitaker-roman":
         return {"whitaker": k, "headword": a["headword"], "pos": "NUM", "status": "none", "ls": []}
-    st, keys = link(a["headword"], a["parse"]["pos"], *by_head)
+    proper = a["form_by"] == "house-names" or k[:1].isupper()
+    st, keys = link(a["headword"], a["parse"]["pos"], *by_head,
+                    gender=a["parse"].get("gender"), proper=proper)
     row = {"whitaker": k, "headword": a["headword"], "pos": a["parse"]["pos"], "status": st, "ls": keys}
     links[k] = row
     return row
@@ -343,55 +363,213 @@ def cased(t):
     return s.replace("Æ", "Ae").replace("æ", "ae").replace("Œ", "Oe").replace("œ", "oe")
 
 
+# ---------------------------------------------------------------------------
+# One word in its verse: the context rules (README-latin-key s.4b)
+# ---------------------------------------------------------------------------
+
+FREQ_RANK = {"A": 0, "B": 1, "C": 2, "D": 3, "E": 4, "F": 5, "I": 6, "M": 6, "N": 6}
+COMMON_INFLECTION = {"A", "B"}
+CASED_POS = {"N", "ADJ", "PRON", "VPAR", "NUM", "SUPINE"}
+PUNCT = re.compile(r"[,.;:?!]")
+INDEF_AFTER = {"si", "ne", "num"}       # after these, quis is indefinite (not nisi: nisi qui is relative)
+RULES = ("idem-dem", "proper-lower", "rare-inflection", "rare-entry", "prep-object",
+         "no-prep-object", "si-quis")
+
+
+def flag_tables(X):
+    """DICTLINE line -> entry flags, INFLECTS line -> (age, freq): WORDS's own
+    frequency marks, which this port reads but never used to drop anything."""
+    entry = {}
+    for e in X.entries:
+        for n in e.get("lines") or []:
+            entry[f"DICTLINE.GEN:{n}"] = e["flags"]
+        if e.get("synthetic"):
+            entry[e["synthetic"]] = e["flags"]
+    infl = {}
+    with open(os.path.join(X.cache, "INFLECTS.LAT"), encoding="latin-1") as f:
+        for n, raw in enumerate(f, 1):
+            t = raw.split("--", 1)[0].split()
+            if len(t) >= 3:
+                infl[f"INFLECTS.LAT:{n}"] = (t[-2], t[-1])
+    return entry, infl
+
+
+def readings(X, c, links, by_head, flags):
+    """Every WORDS reading of one form as written, with its L&S target.
+    Never taken: WORDS's two-words guesses (README-lemma-spine s.3), and its
+    abbreviations (Non., A.): the text has none, its words are cut at every stop."""
+    entry_flags, infl_flags = flags
+    out = []
+    for a in X.analyze(c):
+        if any(v["kind"] == "TWO_WORDS" for v in a.get("via") or []):
+            continue
+        if a["key"].split("  ")[0].endswith(", abb."):
+            continue
+        row = describe_key(a, links, by_head)
+        ef = entry_flags.get(a["source"])
+        age, ifreq = infl_flags.get(a.get("inflect") or "", (None, None))
+        target = tuple(row["ls"]) if row["ls"] else ("~" + a["key"],)
+        out.append({"target": target, "linked": row["status"] in LINKED, "wkey": a["key"],
+                    "pos": a["parse"]["pos"], "case": a["parse"].get("case"),
+                    "efreq": FREQ_RANK.get(ef["freq"]) if ef else None,
+                    "ifreq": ifreq, "iage": age,
+                    "proper": a["form_by"] == "house-names" or a["key"][:1].isupper()})
+    return out
+
+
+def _keep(groups, keep, rule, used):
+    """Drop the groups `keep` rejects, only if at least one is left."""
+    nxt = {t: R for t, R in groups.items() if keep(t, R)}
+    if nxt and len(nxt) < len(groups):
+        used.append(rule)
+        return nxt
+    return groups
+
+
+def resolve(tok, nxt_tok, prev_form):
+    """(L&S key or None, [rule ids]) for one token. `tok`/`nxt_tok`:
+    {"form", "cased", "R": readings, "punct_after"}. A rule only removes
+    readings; it never adds one, and it never removes them all."""
+    groups = collections.OrderedDict()
+    for r in tok["R"]:
+        groups.setdefault(r["target"], []).append(r)
+    used = []
+
+    def done():
+        if len(groups) == 1:
+            (t, R), = groups.items()
+            if len(t) == 1 and not t[0].startswith("~") and all(r["linked"] for r in R):
+                return t[0]
+        return None
+
+    if done():
+        return done(), []
+    form = tok["form"]
+    # idem: WORDS's own entry says "w/-dem ONLY"
+    groups = _keep(groups, lambda t, R: not all(r["wkey"].startswith("idem,") for r in R)
+                   or "dem" in form, "idem-dem", used)
+    # a word written lower-case is not a name: drop readings that are names in
+    # L&S (a capitalised key: Pan for panes, Leo3 for leo), or, where L&S has
+    # no entry, in WORDS (the names table)
+    if tok["cased"][:1].islower():
+        def common(t, R):
+            if t[0].startswith("~"):
+                return not all(r["proper"] for r in R)
+            return not all(k[:1].isupper() for k in t)
+        groups = _keep(groups, common, "proper-lower", used)
+    # an ending WORDS marks less than common (dominum as domina's genitive plural)
+    groups = _keep(groups, lambda t, R: any(r["ifreq"] in COMMON_INFLECTION or r["ifreq"] is None
+                                            for r in R), "rare-inflection", used)
+    # an entry two or more of WORDS's frequency grades below the commonest reading
+    ranks = [min((r["efreq"] for r in R if r["efreq"] is not None), default=None)
+             for R in groups.values()]
+    known = [x for x in ranks if x is not None]
+    if known and min(known) <= 1:
+        best = min(known)
+        groups = _keep(groups, lambda t, R: min((r["efreq"] for r in R if r["efreq"] is not None),
+                                                 default=best) < best + 2, "rare-entry", used)
+    # a preposition takes an object in its case, next in the clause
+    preps = {t: {r["case"] for r in R if r["pos"] == "PREP"} for t, R in groups.items()}
+    if any(preps.values()) and len(groups) > 1:
+        nxt_cases = set()
+        if nxt_tok and not tok["punct_after"]:
+            # a name from the names table carries no case: it could be any
+            nxt_cases = {r["case"] or "X" for r in nxt_tok["R"] if r["pos"] in CASED_POS}
+        governs = any(c in nxt_cases or "X" in nxt_cases for P in preps.values() for c in P)
+        if governs:
+            groups = _keep(groups, lambda t, R: bool(preps[t] & (nxt_cases | {"X"})) or
+                           ("X" in nxt_cases and preps[t]), "prep-object", used)
+        elif tok["punct_after"] or (nxt_tok and nxt_tok["R"] and nxt_tok["cased"][:1].islower()
+                                    and not any(r["pos"] == "ADV" for r in nxt_tok["R"])):
+            # only when the clause ends (a, a, a), or the next word is read,
+            # written lower-case, has no case and is no adverb (cum autem): a
+            # capitalised word may be a name WORDS misreads (a Sidone, read as
+            # sido), and a preposition can take an adverb (a longe, from afar)
+            groups = _keep(groups, lambda t, R: not preps[t], "no-prep-object", used)
+    # si quis: after si, ne, num, quis is the indefinite (L&S quis2)
+    # (the WORDS lemma "quis, quid" links to both quis1 and quis2; this rule
+    # is what picks between them)
+    if prev_form in INDEF_AFTER and any("quis2" in t for t in groups):
+        groups = _keep(groups, lambda t, R: "quis2" in t, "si-quis", used)
+        if "si-quis" in used and len(groups) == 1:
+            (t, R), = groups.items()
+            groups = {("quis2",): [dict(r, linked=True) for r in R]}
+    return done(), used
+
+
 def build_vulgate(X, links, by_head):
     units = vulgate_units()
-    seen = {}                                   # cased form -> (whitaker keys, ls sure set, ls all)
+    flags = flag_tables(X)
+    seen = {}
     forms = collections.defaultdict(lambda: {"tokens": 0, "whitaker": set(), "ls": set(),
-                                             "ambiguous": False})
+                                             "ambiguous": False, "resolved": collections.Counter(),
+                                             "unresolved": 0})
     sure = collections.defaultdict(list)
+    by_rule = collections.defaultdict(lambda: collections.defaultdict(list))
     possible = collections.defaultdict(list)
+    token_rows = []
+    rule_tokens = collections.Counter()
     for u in units:
         vid = u["id"].split(":", 1)[1]
-        s_here, p_here = set(), set()
-        for t in WORD.findall(u["text"]):
-            c = cased(t)
+        text = u["text"]
+        toks, prev_end = [], 0
+        ms = list(WORD.finditer(text))
+        for i, m in enumerate(ms):
+            c = cased(m.group(0))
             if c not in seen:
-                # never taken: WORDS's two-words guesses (README-lemma-spine s.3),
-                # and its abbreviations (Non., A.): the text has none, its
-                # words are cut at every stop
-                A = [a for a in X.analyze(c)
-                     if not any(v["kind"] == "TWO_WORDS" for v in a.get("via") or [])
-                     and not a["key"].split("  ")[0].endswith(", abb.")]
-                wk = sorted({a["key"] for a in A})
-                ls_all, clean = set(), True
-                for a in A:
-                    row = describe_key(a, links, by_head)
-                    ls_all.update(row["ls"])
-                    if row["status"] not in LINKED:
-                        clean = False
-                seen[c] = (wk, ls_all, clean and len(ls_all) == 1)
-            wk, ls_all, is_sure = seen[c]
-            f = forms[c.lower()]
+                seen[c] = readings(X, c, links, by_head, flags)
+            after = text[m.end():ms[i + 1].start()] if i + 1 < len(ms) else ""
+            toks.append({"form": c.lower(), "cased": c, "R": seen[c],
+                         "punct_after": bool(PUNCT.search(after))})
+        s_here, r_here, p_here = set(), {}, set()
+        row = []
+        for i, t in enumerate(toks):
+            f = forms[t["form"]]
             f["tokens"] += 1
-            f["whitaker"].update(wk)
-            f["ls"].update(ls_all)
-            if not is_sure:
+            f["whitaker"].update(r["wkey"] for r in t["R"])
+            targets = {k for r in t["R"] for k in r["target"] if not k.startswith("~")}
+            f["ls"].update(targets)
+            key, used = resolve(t, toks[i + 1] if i + 1 < len(toks) else None,
+                                toks[i - 1]["form"] if i else None)
+            if key and not used:
+                s_here.add(key)
+            elif key:
                 f["ambiguous"] = True
-            (s_here if is_sure else p_here).update(ls_all)
+                f["resolved"]["+".join(used)] += 1
+                rule_tokens["+".join(used)] += 1
+                r_here.setdefault(key, set()).add("+".join(used))
+            else:
+                if targets:
+                    f["ambiguous"] = True
+                    f["unresolved"] += 1
+                p_here.update(targets)
+            row.append([t["form"], key, "+".join(used) if key and used else None])
+        token_rows.append({"verse": vid, "tokens": row})
         for k in s_here:
             sure[k].append(vid)
-        for k in p_here - s_here:
+        for k, rules in r_here.items():
+            if k in s_here:
+                continue
+            for rule in sorted(rules):
+                by_rule[k][rule].append(vid)
+        for k in p_here - s_here - set(r_here):
             possible[k].append(vid)
     form_rows = []
     for form in sorted(forms):
         f = forms[form]
         st = ("unread" if not f["whitaker"] else "no-ls" if not f["ls"]
               else "sure" if not f["ambiguous"] else "several")
-        form_rows.append({"form": form, "tokens": f["tokens"], "status": st,
-                          "whitaker": sorted(f["whitaker"]), "ls": sorted(f["ls"])})
-    conc = [{"key": k, "sure": sure.get(k, []), "possible": possible.get(k, [])}
-            for k in sorted(set(sure) | set(possible))]
-    return form_rows, conc, len(units)
+        r = {"form": form, "tokens": f["tokens"], "status": st,
+             "whitaker": sorted(f["whitaker"]), "ls": sorted(f["ls"])}
+        if st == "several":
+            r["resolved"] = dict(sorted(f["resolved"].items()))
+            r["unresolved"] = f["unresolved"]
+        form_rows.append(r)
+    keys = sorted(set(sure) | set(by_rule) | set(possible))
+    conc = [{"key": k, "sure": sure.get(k, []),
+             "resolved": {rule: v for rule, v in sorted(by_rule[k].items())} if k in by_rule else {},
+             "possible": possible.get(k, [])} for k in keys]
+    return form_rows, conc, len(units), token_rows, rule_tokens
 
 
 # ---------------------------------------------------------------------------
@@ -426,7 +604,7 @@ def build():
     X = W.Whitaker(house_supplement=True)
     X.names = proper_names.load()
     links, by_head = whitaker_links(X, ls_rows)
-    form_rows, conc, n_units = build_vulgate(X, links, by_head)
+    form_rows, conc, n_units, token_rows, rule_tokens = build_vulgate(X, links, by_head)
     wl = [links[k] for k in sorted(links, key=lambda k: (W.fold(k), k))]
     tok = collections.Counter()
     for r in form_rows:
@@ -449,11 +627,15 @@ def build():
             "vulgate_forms": len(form_rows),
             "vulgate_forms_by_status": dict(sorted(collections.Counter(r["status"] for r in form_rows).items())),
             "vulgate_tokens_by_status": dict(sorted(tok.items())),
+            "vulgate_tokens_by_outcome": token_outcomes(token_rows, form_rows),
+            "vulgate_tokens_resolved_by_rule": dict(sorted(rule_tokens.items(), key=lambda kv: -kv[1])),
             "vulgate_keys": len(conc),
         },
         "not_claimed": [
             "A Whitaker lemma is matched to L&S by headword, then by word class; never by meaning.",
-            "`possible` lists every reading WORDS allows; the build does not choose among them.",
+            "A context rule (README s.4b) only removes readings; what no rule settles stays null, "
+            "and its verse is listed under `possible` for every reading WORDS allows.",
+            "A resolved token is tagged with the rule ids that settled it; no rule reads meaning.",
             "Words L&S does not have (Church Latin coinages, many names) keep their Whitaker lemma only.",
             "No uid is proposed or minted.",
         ],
@@ -465,7 +647,30 @@ def build():
         manifest["files"][n] = {"rows": text.count("\n"),
                                 "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest()}
     out["manifest.json"] = json.dumps(manifest, ensure_ascii=False, indent=1) + "\n"
+    write_tokens(token_rows)
     return out
+
+
+TOKENS = os.path.join(ROOT, "build", "latin-key", "vulgate-tokens.jsonl")
+
+
+def token_outcomes(token_rows, form_rows):
+    st = {r["form"]: r["status"] for r in form_rows}
+    c = collections.Counter()
+    for v in token_rows:
+        for form, key, rule in v["tokens"]:
+            c["sure" if key and not rule else "resolved" if key else
+              st[form] if st[form] in ("no-ls", "unread") else "unresolved"] += 1
+    return dict(sorted(c.items()))
+
+
+def write_tokens(token_rows):
+    """Every word of the Vulgate, [form, L&S key or null, rule ids or null],
+    one row per verse: build/ (gitignored), for checking a rule's work."""
+    os.makedirs(os.path.dirname(TOKENS), exist_ok=True)
+    with open(TOKENS + ".tmp", "w", encoding="utf-8", newline="\n") as f:
+        f.write(jsonl(token_rows))
+    os.replace(TOKENS + ".tmp", TOKENS)
 
 
 FILES = ("lewis-short.jsonl", "whitaker-ls.jsonl", "vulgate-forms.jsonl",
