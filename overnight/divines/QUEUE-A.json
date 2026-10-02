@@ -11,9 +11,11 @@
     },
     {
       "id": "bunyan",
-      "status": "running",
+      "status": "done",
       "scope": "John Bunyan \u2014 complete public-domain works (collected Works); shelf + fetch + map section",
-      "started": "2026-10-02T15:17:03-05:00"
+      "started": "2026-10-02T15:17:03-05:00",
+      "finished": "2026-10-02T15:18:51-05:00",
+      "notes": "11/11 fetched, 0 failed. Offor's Works (1854) 3 vols as Gutenberg clean text (PG 6046-6048, 12.3 MB, 2.2M words) + 5 single PG titles + 3 CCEL (badman, grace, miscellaneous). pilgrim/holy_war already held. CCEL converted: 1,400 units, 501 scripture links. Offor not structured (needs a treatise splitter). Defects: CCEL miscellaneous vs PG 3613 likely duplicate; Exhortation to Peace and Unity is of doubted authorship. Awaiting uid minting: all 11 slugs."
     },
     {
       "id": "ryle",

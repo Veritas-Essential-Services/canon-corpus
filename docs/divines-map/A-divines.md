@@ -29,6 +29,32 @@ Shelf: `pipeline/flavel_shelf.json` (2026-10-02). Base edition: *The Whole Works
 
 ## John Bunyan
 
+Shelf: `pipeline/bunyan_shelf.json` (2026-10-02). Base edition: *The Works of John Bunyan*, ed. George Offor (Glasgow: Blackie, 1854), 3 vols, as Project Gutenberg clean text (PG 6046-6048; 12.3 MB, 2.2 million words). Offor is the fullest pre-modern collected edition. Vol. 1-2: experimental, doctrinal and practical works; vol. 3: allegorical, figurative and symbolical works. Placements below come from title counts in the text, not a printed contents page.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works, ed. Offor (1854), vols 1-3 | have | PG 6046-6048, slugs `bunyan-offor-01`..`03` (clean text, not yet structured) |
+| The Pilgrim's Progress | have | CCEL `bunyan-pilgrim` (fetch_sources.py); also Offor vol. 3 |
+| The Holy War | have | CCEL `bunyan-holy_war` (fetch_sources.py); also Offor vol. 3 |
+| Grace Abounding to the Chief of Sinners | have | CCEL `bunyan-grace-abounding`; also Offor vol. 1 |
+| The Life and Death of Mr. Badman | have | CCEL `bunyan-badman`; also Offor vol. 3 |
+| Miscellaneous Pieces | have | CCEL `bunyan-miscellaneous` and PG 3613 `bunyan-miscellaneous-pieces-pg` (likely the same pieces twice; compare before minting) |
+| The Jerusalem Sinner Saved | have | PG 3270 `bunyan-jerusalem-sinner`; also Offor vol. 1 |
+| The Pharisee and the Publican | have | PG 3548 `bunyan-pharisee-publican`; also Offor vol. 2 |
+| The Heavenly Footman | have | PG 13750 `bunyan-heavenly-footman`; also Offor |
+| An Exhortation to Peace and Unity | have | PG 3614 `bunyan-exhortation-peace`. Attribution to Bunyan is doubted by modern scholars; Offor printed it. Adam's call whether it is shelved as Bunyan |
+| Doctrinal and practical treatises: The Work of Jesus Christ as an Advocate; The Intercession of Christ; Come and Welcome to Jesus Christ; The Greatness of the Soul; The Strait Gate; The Doctrine of the Law and Grace Unfolded; I Will Pray with the Spirit; Christian Behaviour; A Treatise of the Fear of God; Justification by an Imputed Righteousness; Light for Them That Sit in Darkness; Christ a Complete Saviour; The Acceptable Sacrifice; A Few Sighs from Hell; Israel's Hope Encouraged; The Desire of the Righteous Granted; Saints' Privilege and Profit; Paul's Departure and Crown | have (in Offor) | Offor vols 1-2 |
+| Controversial and confessional pieces: The Resurrection of the Dead; A Confession of My Faith; Differences in Judgment about Water Baptism; Peaceable Principles and True; A Defence of the Doctrine of Justification; Some Gospel Truths Opened; Instruction for the Ignorant; A Holy Life the Beauty of Christianity; Seasonable Counsel; Of Antichrist and His Ruin; Exposition of Genesis 1-10; Of the Law and a Christian; The Trinity and a Christian | have (in Offor) | Offor vol. 2 |
+| Allegorical and symbolic works: Solomon's Temple Spiritualized; The House of the Forest of Lebanon; The Holy City; The Water of Life; The Barren Fig Tree; A Book for Boys and Girls (Divine Emblems); One Thing Is Needful; Ebal and Gerizzim; Prison Meditations | have (in Offor) | Offor vol. 3 (some in vol. 1) |
+| A Relation of the Imprisonment of Mr. John Bunyan; Profitable Meditations (1661); A Vindication of Some Gospel Truths; A Map Shewing the Order and Causes of Salvation | pending (to confirm) | not found under these titles in the Offor text; may be present under other wording, or (the Map) an image only |
+| Each Offor work as its own structured unit | pending | wishlist: a converter that splits Offor at its treatise headings |
+| The Entire Works, ed. Stebbing (1862, 4 vols) | pending | IA `entireworksofjoh01buny`..`04buny`, second collected edition |
+| Works, 1692 first collected (Doe) and 1771 sixth ed. (8 vols) | pending | IA scans of early printings, listed in shelf `_alternates` |
+| The Riches of Bunyan (Chaplin, 1850) | excluded | an anthology of extracts, not a Bunyan work |
+| Pilgrim's Progress in words of one syllable; children's versions | excluded | not Bunyan's text |
+| Oxford *Miscellaneous Works* (1976-94); 1968 and 2006 reprints | excluded | in copyright or carrying modern matter |
+| German, Dutch, Finnish translations on Gutenberg | excluded | not English |
+
 ## J.C. Ryle
 
 ## Horatius Bonar

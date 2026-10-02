@@ -1,0 +1,81 @@
+{
+ "_about": "Every public-domain John Bunyan (1628-1688) text the Word Hoard holds. The target is the collected Works: George Offor's edition (Glasgow: Blackie, 1854, 3 vols, the fullest collected edition), which Project Gutenberg carries as clean text (PG 6046-6048; PG 6049 is the same three volumes in one file and is not fetched). CCEL ThML is fetched for its structured titles. Single Gutenberg titles that are pieces of the Offor set are fetched too, so each is addressable as its own work. Modern editions (Oxford 'Miscellaneous Works' 1976-94, 1968 and 2006 reprints) are excluded.",
+ "_ccel_author": "b/bunyan",
+ "_name_words": [
+  "bunyan",
+  "john"
+ ],
+ "_held": {
+  "bunyan-pilgrim": "already in pipeline/fetch_sources.py CCEL dict (The Pilgrim's Progress); not refetched",
+  "bunyan-holy_war": "already in pipeline/fetch_sources.py CCEL dict (The Holy War); not refetched"
+ },
+ "ccel": {
+  "bunyan-badman": [
+   "badman",
+   "The Life and Death of Mr. Badman",
+   ""
+  ],
+  "bunyan-grace-abounding": [
+   "grace",
+   "Grace Abounding to the Chief of Sinners",
+   ""
+  ],
+  "bunyan-miscellaneous": [
+   "miscellaneous",
+   "Miscellaneous Pieces",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "bunyan-offor-01": [
+   6046,
+   "The Works of John Bunyan, ed. George Offor (1854), vol. 1: Experimental, Doctrinal and Practical"
+  ],
+  "bunyan-offor-02": [
+   6047,
+   "The Works of John Bunyan, ed. George Offor (1854), vol. 2: Experimental, Doctrinal and Practical (cont.)"
+  ],
+  "bunyan-offor-03": [
+   6048,
+   "The Works of John Bunyan, ed. George Offor (1854), vol. 3: Allegorical, Figurative and Symbolical"
+  ],
+  "bunyan-jerusalem-sinner": [
+   3270,
+   "The Jerusalem Sinner Saved; or, Good News for the Vilest of Men"
+  ],
+  "bunyan-pharisee-publican": [
+   3548,
+   "The Pharisee and the Publican"
+  ],
+  "bunyan-exhortation-peace": [
+   3614,
+   "An Exhortation to Peace and Unity (attribution disputed: see notes)"
+  ],
+  "bunyan-miscellaneous-pieces-pg": [
+   3613,
+   "Miscellaneous Pieces"
+  ],
+  "bunyan-heavenly-footman": [
+   13750,
+   "The Heavenly Footman; or, A Description of the Man That Gets to Heaven"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "PG 6049": "Works of John Bunyan, Complete: the same Offor text as PG 6046-6048 in one file. Not fetched.",
+  "PG 654, 1986, 395, 131": "Grace Abounding, Mr. Badman, The Holy War, The Pilgrim's Progress as single Gutenberg files: held from CCEL instead.",
+  "worksofjohnbunya01buny..03buny": "Offor's Works, 1855 printing, IA scans. Not fetched: Gutenberg carries the same edition as clean text.",
+  "entireworksofjoh01buny..04buny": "The Entire Works, ed. Henry Stebbing (1862, 4 vols), IA. A second collected edition; not fetched.",
+  "bim_eighteenth-century_the-works-of-that-eminen_bunyan-john_1771_1..8": "Works, 6th ed., 1771, 8 vols (ECCO). Not fetched.",
+  "bim_early-english-books-1641-1700_the-works-_bunyan-john_1692": "The first collected Works (1692, Charles Doe). Not fetched; a scan of an early printing."
+ },
+ "_excluded": {
+  "PG 5831": "The Riches of Bunyan (1850): an anthology of extracts selected by Jeremiah Chaplin, not a Bunyan work; the texts are in Offor",
+  "PG 7088, 39452, 43886": "Pilgrim's Progress paraphrases in words of one syllable / for children: not Bunyan's text",
+  "PG 21171": "A second Pilgrim's Progress edition; held from CCEL",
+  "PG 70845, 56282, 51157": "German, Dutch and Finnish translations",
+  "PG 70060": "Paul Bunyan (James Stevens): a different subject",
+  "miscellaneouswor0000buny, completeworks0001john, bwb_S0-BMD-105/108, completeworksofj0002john, worksofjohnbunya0002buny, worksofjohnbunya0000buny": "Modern editions or reprints (1968-2006): the Oxford Miscellaneous Works is in copyright; reprints carry modern matter",
+  "whyvideoworksnew00buny": "John A. Bunyan, a different author (1987)"
+ }
+}
