@@ -504,6 +504,54 @@ check("thayer-entries: accents pick the Strong's number among homographs",
       == ["strongs-greek:G1510", "strongs-greek:G1511"])
 os.unlink(t2_path); os.unlink(s2_path)
 
+# What the 2026-10-02 rebuild added: headwords followed by ; or [, misread
+# headwords read back to the one Strong's lemma they can be, and the stop at
+# the APPENDIX (whose later pages carry Greek running heads again).
+TH3 = {"6": "βαρέω\n\n"
+            "Bapéw, -ῶ : to burden.\n\n"
+            "Γεθσημανῆ [or -νεί], Gethsemane.\n\n"
+            "γυμνάζω; [pf. pass.] to exercise.\n\n"
+            "Δυσανίας, -ου, ὁ, Lysanias.\n\n"
+            "ὁράω, -ῶ; to see, the last entry.\n",
+       "7": "APPENDIX.\n\nψυχή, in a vocabulary list.\n",
+       "8": "ὤφθην\n\nὤφθην, 1 aor. pass. of ὁράω.\n"}
+SG3 = ('<strongsdictionary><entries>'
+       '<entry strongs="00916"><greek unicode="βαρέω"/></entry>'
+       '<entry strongs="01068"><greek unicode="Γεθσημανῆ"/></entry>'
+       '<entry strongs="01128"><greek unicode="γυμνάζω"/></entry>'
+       '<entry strongs="03078"><greek unicode="Λυσανίας"/></entry>'
+       '<entry strongs="03708"><greek unicode="ὁράω"/></entry>'
+       '</entries></strongsdictionary>')
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as f:
+    _json.dump(TH3, f); t3_path = f.name
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(SG3); s3_path = f.name
+t3 = st.convert_thayer_entries(t3_path, strongs_path=s3_path)
+ids3 = [u["id"] for u in t3["units"]]
+check("thayer-entries: a headword followed by ';' or '[' is a candidate",
+      "thayer-entries:p.6.gethsemane" in ids3 and "thayer-entries:p.6.gumnazo" in ids3)
+check("thayer-entries: a Greek headword one letter off a lemma is read back (Δυσανίας -> Λυσανίας)",
+      "thayer-entries:p.6.lusanias" in ids3
+      and t3["units"][ids3.index("thayer-entries:p.6.lusanias")]["lex"]["headword"]
+          == "Δυσανίας"
+      and {"kind": "strongs", "target": "strongs-greek:G3078",
+           "match": "headword, OCR misread read back"}
+          in t3["units"][ids3.index("thayer-entries:p.6.lusanias")]["links"])
+check("thayer-entries: a headword OCR'd in Latin lookalikes is read back (Bapéw -> βαρέω)",
+      ids3[0] == "thayer-entries:p.6.bareo"
+      and t3["units"][0]["lex"]["headword_read"] == "βαρέω"
+      and "ocr-read" in t3["units"][0]["lex"]["evidence"])
+check("thayer-entries: the last entry stops at the APPENDIX; later Greek-headed pages add nothing",
+      ids3[-1] == "thayer-entries:p.6.horao" and t3["units"][-1]["lex"]["pages"] == [6]
+      and len(ids3) == 5 and t3["scheme"]["segmentation"]["ocr_read_entries"] == 2)
+check("thayer-entries: a near-miss of a lemma the OCR spells right is NOT read as it (ἄγαμος)",
+      not any(u["lex"].get("headword_read") for u in te["units"]))
+check("thayer-entries: reading needs ONE lemma; two within reach is no reading",
+      st.thayer_read("αβγδε", {}, {5: ["αβγδζ", "αβγδη"]}) is None
+      and st.thayer_read("αβγδε", {}, {5: ["αβγδζ"]})
+          == "αβγδζ")
+os.unlink(t3_path); os.unlink(s3_path)
+
 # ------------------------------------------------------------ STEPBible Greek
 # Every case is a defect measured against the live files on 2026-09-06. Two of
 # them silently LOSE TEXT, which is why they are frozen here.

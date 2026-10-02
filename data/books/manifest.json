@@ -869,18 +869,19 @@
   "author": "C. L. W. Grimm & C. G. Wilke, tr./rev./enl. Joseph Henry Thayer (1889)",
   "format": "lexicon-ocr",
   "sha256": "91d96a35c24d3f471d7f942d1b06f5bf93465ae7c1df09f287d1a56c4140cb6e",
-  "units": 3567,
+  "units": 5333,
   "scheme": {
    "citation": "page of the 1889 edition + headword (s.v.)",
    "resolution": "entry",
    "honesty": "entries INFERRED from OCR; not proofread; ids provisional until segmentation is ruled on",
    "segmentation": {
-    "candidates": 7848,
-    "off_order": 4178,
-    "weak": 103,
-    "paragraph_initial_candidates": 4544
+    "candidates": 9406,
+    "off_order": 3957,
+    "weak": 116,
+    "paragraph_initial_candidates": 5388,
+    "ocr_read_entries": 335
    },
-   "note": "3,567 entries inferred from the page OCR of 740 body pages, against the ~5,600 Thayer's really has. Rule: line-initial Greek headword, kept only on the max-weight alphabetical chain and only if paragraph-initial or a Strong's lemma (see convert_thayer_entries). 4,178 candidates dropped as out of alphabetical order, 103 in order but with no other evidence. A real entry the rule missed is not lost: its text is inside the entry before it. Every unit links to the page(s) of the page book `thayer` it was cut from, which is the checkable citation. 3,271 entries linked to strongs-greek by headword (accents ignored); 9 matched more than one Strong's lemma and are left unlinked with the candidates under lex.strongs_candidates."
+   "note": "5,333 entries inferred from the page OCR of 699 body pages, against the ~5,600 Thayer's really has. Rule: line-initial Greek headword, kept only on the max-weight alphabetical chain and only if paragraph-initial or a Strong's lemma (see convert_thayer_entries). 3,957 candidates dropped as out of alphabetical order, 116 in order but with no other evidence. A real entry the rule missed is not lost: its text is inside the entry before it. Every unit links to the page(s) of the page book `thayer` it was cut from, which is the checkable citation. 335 entries open on a headword OCR misread (one letter off, or in Latin lookalikes) and read back to the one Strong's lemma it can be: lex.headword keeps the OCR, lex.headword_read the reading. The appendix pages after the last entry are not part of any entry. 4,940 entries linked to strongs-greek by headword (accents ignored); 12 matched more than one Strong's lemma and are left unlinked with the candidates under lex.strongs_candidates."
   }
  },
  "tbesg-greek": {

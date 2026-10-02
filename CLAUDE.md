@@ -303,6 +303,23 @@ rule misses is not lost — its text sits inside the entry before it. The
 manifest note reports the count against ~5,600. Strong's Greek is a plain
 GitHub fetch; without it the build runs and says the lemma evidence is absent.
 
+**Rebuild of 2026-10-02 evening: 3,567 → 5,333 entries, 4,940 linked to
+Strong's.** Three measured causes of missed entries, each fixed and tested:
+(1) the headword pattern took only `,` or `.` after the word, but verbs take
+`;` or `:` (`γυμνάζω; [pf. …`) and some nouns `[` or `(` — that alone was
+~1,500 entries; (2) OCR misreads of the headword itself, now READ back to a
+Strong's lemma only when exactly one fits: a Greek word one letter off
+(Τεθσημανῆ → Γεθσημανῆ, ≥5 letters), or a headword OCR'd in Latin lookalikes
+at a paragraph start (`épeOltw` → ἐρεθίζω, map `_THAYER_LOOK`); never to a
+lemma the OCR already spells right at a paragraph start (so ἄγαμος is not
+"read" as ἀγαθός). 335 entries carry `lex.headword_read` and evidence
+`ocr-read`; `lex.headword` keeps the OCR. (3) The body now stops at the
+APPENDIX running head (p. 709): the appendix pages have Greek running heads
+too, so the last entry, ὠφέλιμος, had swallowed all 40 of them. Tried and
+dropped: STEPBible headwords as extra evidence (+45 entries, not worth a
+CC BY dependency in a PD build). ~13 entries the old cut had now fall off the
+chain (e.g. ἄρνας, σιτίον); their text sits in the entry before, as always.
+
 ## STEPBible Greek — the one non-PD source, and how the limit is enforced (2026-09-06)
 
 `tbesg-greek` (Abbott-Smith-based brief lexicon, 9,550 entries) and `lsj-greek`

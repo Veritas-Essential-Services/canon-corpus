@@ -1557,7 +1557,11 @@ def convert_bdb(path, slug="bdb-hebrew"):
 
 GRK = "Ͱ-Ͽἀ-῿̀-ͯ"
 RE_GREEK = re.compile(f"[{GRK}]")
-RE_THAYER_HEAD = re.compile(rf"^([{GRK}][{GRK}’'\-]*)\s*[,.]\s+")
+# A headword is followed by a comma or full stop (nouns: "ἐλπίς, -ίδος"), a
+# semicolon or colon (verbs: "γυμνάζω; [pf. ..."), or an opening bracket
+# ("ἐλπίς [sometimes written ..."). OCR leaves a stray quote or star before
+# some of them ("“κόμη", "*Ἀχαΐα").
+RE_THAYER_HEAD = re.compile(rf"^[\"“”'‘«»„*\[(]?([{GRK}][{GRK}’'\-]*)\s*(?:[,.;;·:]|(?=[\[(]))\s*")
 
 
 def _thayer_page(raw):
@@ -1760,6 +1764,79 @@ def strongs_greek_lemmas(path):
     return out
 
 
+# OCR misreads of a headword, READ back to a Strong's lemma. Two kinds, both
+# accepted only when exactly ONE lemma fits, so a misread is never guessed:
+#   * a Greek headword one letter off a lemma (Τεθσημανῆ for Γεθσημανῆ,
+#     προτέρχομαι for προέρχομαι), at least 5 letters long;
+#   * a headword OCR'd in Latin lookalikes (épeOltw for ἐρεθίζω, Grtw for
+#     ἅπτω), only at a paragraph start, within one letter of a lemma when
+#     each Latin letter may stand for the Greek letters listed for it here.
+_THAYER_LOOK = {
+    "a": "α", "d": "αδ", "G": "αγ", "A": "λαδ", "v": "νυ", "p": "ρ", "x": "χξ",
+    "B": "β", "S": "δσ", "s": "σ", "t": "τιζ", "w": "ω", "y": "γυν", "e": "ε",
+    "é": "ε", "è": "ε", "ê": "ε", "o": "ο", "ó": "ο", "ò": "ο", "u": "υ",
+    "n": "ηπ", "k": "κ", "K": "κ", "r": "πρτ", "l": "ιλ", "i": "ι", "í": "ι",
+    "I": "ι", "L": "λ", "O": "θο", "T": "γτ", "E": "ε", "h": "η", "z": "ζ",
+    "f": "φ", "c": "σ", "P": "ρπ", "X": "χ", "Z": "ζ", "H": "η", "N": "ν",
+    "M": "μ", "m": "μ", "b": "βδ", "g": "γ", "j": "ι", "q": "θ", "Y": "υ",
+    "V": "υν", "D": "δ", "R": "ρ", "F": "φ", "C": "σ", "W": "ω", "U": "υ",
+    "Q": "θ", "á": "α", "à": "α", "ä": "α", "ú": "υ", "ü": "υ", "ö": "ο",
+    "ï": "ι", "ë": "ε"}
+RE_THAYER_LATIN = re.compile(rf"^[\"“”'‘«»„*\[(]?([A-Za-zÀ-ÿ][A-Za-zÀ-ÿ{GRK}’'\-]{{2,}})"
+                             rf"\s*(?:[,.;;·:]|(?=[\[(]))")
+
+
+def _thayer_slots(tok):
+    """A token -> for each letter, the set of Greek letters it can be."""
+    out = []
+    for ch in tok:
+        if ch in "-'’":
+            continue
+        g = thayer_key(ch)
+        if g:
+            out.append(g)
+        elif ch in _THAYER_LOOK:
+            out.append(_THAYER_LOOK[ch])
+        else:
+            return None
+    return out
+
+
+def _thayer_within1(slots, key):
+    """True if `key` is one substitution, insertion or deletion away from
+    some reading of `slots` (or matches one exactly)."""
+    n, m = len(slots), len(key)
+    if abs(n - m) > 1:
+        return False
+    i = 0
+    while i < min(n, m) and key[i] in slots[i]:
+        i += 1
+    if i == n == m:
+        return True
+
+    def rest(a, b):
+        return n - a == m - b and all(key[b + j] in slots[a + j] for j in range(n - a))
+    return rest(i + 1, i + 1) or rest(i + 1, i) or rest(i, i + 1)
+
+
+def thayer_read(tok, lemmas, by_len, spelled=frozenset()):
+    """The one Strong's key an OCR'd headword can be read as, else None. A
+    lemma in `spelled` -- one the OCR already prints correctly at a paragraph
+    start -- is never a reading: then the near-miss is a different word
+    (ἄγαμος beside ἀγαθός), not a misprint of that one."""
+    slots = _thayer_slots(tok)
+    if not slots:
+        return None
+    exact_greek = all(len(s) == 1 for s in slots)
+    if len(slots) < (5 if exact_greek else 4):
+        return None
+    hits = [k for L in (len(slots) - 1, len(slots), len(slots) + 1)
+            for k in by_len.get(L, ()) if _thayer_within1(slots, k)]
+    same = [k for k in hits if len(k) == len(slots) and all(c in s for c, s in zip(k, slots))]
+    hits = same or hits
+    return hits[0] if len(hits) == 1 and hits[0] not in spelled else None
+
+
 def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                            page_slug="thayer"):
     """Thayer's (1889) one unit per ENTRY, inferred from the page OCR.
@@ -1800,8 +1877,28 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
     parsed = {p: _thayer_page(pages[p]) for p in order}
     greek_head = [p for p in order if parsed[p][0] and RE_GREEK.search(parsed[p][0][0])]
     body = order[order.index(greek_head[0]):order.index(greek_head[-1]) + 1] if greek_head else []
+    # The lexicon ends where the APPENDIX begins (vocabulary classes, forms
+    # of verbs, additions): those pages have Greek running heads too, and
+    # without this stop the last entry swallowed all of them.
+    for i, p in enumerate(body):
+        if parsed[p][0] and "APPENDIX" in parsed[p][0][0].upper():
+            body = body[:i]
+            break
 
     lemmas = strongs_greek_lemmas(strongs_path) if strongs_path else {}
+    by_len = {}
+    for k in lemmas:
+        by_len.setdefault(len(k), []).append(k)
+
+    spelled = set()                        # lemmas the OCR spells right, paragraph-initial
+    for p in body:
+        prev_blank = True
+        for l in parsed[p][1]:
+            s = l.strip()
+            m = RE_THAYER_HEAD.match(s) if s and prev_blank else None
+            if m and thayer_key(m.group(1)) in lemmas:
+                spelled.add(thayer_key(m.group(1)))
+            prev_blank = not s
 
     lines, cands = [], []                  # lines: (page, text); cands index into lines
     for p in body:
@@ -1813,6 +1910,17 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                 continue
             m = RE_THAYER_HEAD.match(s)       # anywhere, not only after a blank line
             k = thayer_key(m.group(1)) if m else ""
+            read = ""
+            if k and k not in lemmas and lemmas:
+                read = thayer_read(m.group(1), lemmas, by_len, spelled) or ""
+            elif not k and prev_blank and lemmas:
+                ml = RE_THAYER_LATIN.match(s)
+                if ml:
+                    read = thayer_read(ml.group(1), lemmas, by_len, spelled) or ""
+                    if read:
+                        m = ml
+            if read:
+                k = read
             # One-letter headwords are real (ὁ the article, ἤ, ὦ) but a lone
             # Greek letter starting a line is usually a numeral or a siglum,
             # so one letter needs BOTH a paragraph break and a Strong's lemma.
@@ -1822,7 +1930,7 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                 exact = any(f == lf for _, lf in lemmas.get(k, ()))
                 cands.append({"line": len(lines), "page": p, "head": hw, "key": k,
                               "form": f, "para": prev_blank, "strongs": k in lemmas,
-                              "homograph": prev_blank and exact})
+                              "homograph": prev_blank and exact, "read": bool(read)})
             lines.append((p, s))
             prev_blank = False
 
@@ -1833,7 +1941,8 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
     stats = {"candidates": len(cands),
              "off_order": len(cands) - len(chain),
              "weak": len(chain) - len(heads),
-             "paragraph_initial_candidates": sum(c["para"] for c in cands)}
+             "paragraph_initial_candidates": sum(c["para"] for c in cands),
+             "ocr_read_entries": sum(h["read"] for h in heads)}
 
     units, used_ids, strongs_linked, ambiguous = [], set(), 0, 0
     for n, h in enumerate(heads):
@@ -1844,7 +1953,11 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
             if p not in spanned:
                 spanned.append(p)
         pno = int(h["page"])
-        base = f"{slug}:p.{pno}.{thayer_translit(h['head']) or 'x'}"
+        # A misread headword is read back to its Strong's lemma; the id is
+        # built from that reading, the OCR'd form stays in ref and lex.
+        pairs = lemmas.get(h["key"], [])
+        shown = pairs[0][1] if h["read"] and pairs else h["head"]
+        base = f"{slug}:p.{pno}.{thayer_translit(shown) or 'x'}"
         unit_id, i = base, 2
         while unit_id in used_ids:
             unit_id, i = f"{base}-{i}", i + 1
@@ -1852,12 +1965,12 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
         links = [{"kind": "page", "target": f"{page_slug}:p.{int(p)}"} for p in spanned]
         # Accents decide first (εἰμί G1510, not εἶμι); only when the OCR'd
         # accents match nothing do they get ignored.
-        pairs = lemmas.get(h["key"], [])
         exact = [g for g, f in pairs if f == h["form"]]
         gs = exact or [g for g, _ in pairs]
         if len(gs) == 1:
             links.append({"kind": "strongs", "target": f"strongs-greek:{gs[0]}",
-                          "match": "headword, accents matched" if exact
+                          "match": "headword, OCR misread read back" if h["read"]
+                                   else "headword, accents matched" if exact
                                    else "headword, accents ignored"})
             strongs_linked += 1
         elif gs:
@@ -1867,9 +1980,11 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                       "text": clean(" ".join(t for _, t in span)),
                       "links": links,
                       "lex": {"headword": h["head"],
+                              **({"headword_read": shown} if h["read"] else {}),
                               "pages": [int(p) for p in spanned],
                               "evidence": [w for w, on in (("paragraph-initial", h["para"]),
                                                            ("strongs-lemma", h["strongs"]),
+                                                           ("ocr-read", h["read"]),
                                                            ("alphabetical-order", True)) if on],
                               **({"strongs_candidates": gs} if len(gs) > 1 else {}),
                               "greek_chars": len(RE_GREEK.findall(" ".join(t for _, t in span)))}})
@@ -1897,7 +2012,12 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                                f"rule missed is not lost: its text is inside the entry "
                                f"before it. Every unit links to the page(s) of the page "
                                f"book `{page_slug}` it was cut from, which is the "
-                               f"checkable citation. "
+                               f"checkable citation. {stats['ocr_read_entries']:,} entries "
+                               f"open on a headword OCR misread (one letter off, or in Latin "
+                               f"lookalikes) and read back to the one Strong's lemma it can "
+                               f"be: lex.headword keeps the OCR, lex.headword_read the "
+                               f"reading. The appendix pages after the last entry are not "
+                               f"part of any entry. "
                                + (f"{strongs_linked:,} entries linked to strongs-greek by "
                                   f"headword (accents ignored); {ambiguous:,} matched more "
                                   f"than one Strong's lemma and are left unlinked with the "
