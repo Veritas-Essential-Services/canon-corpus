@@ -39,14 +39,14 @@ Shelf: `pipeline/flavel_shelf.json` (2026-10-02). Base edition: *The Whole Works
 | The Fountain of Life Opened | have | CCEL `flavel-fountain` (fetch_sources.py); also 1820 vol. 1 |
 | Christ Altogether Lovely (sermon from the Fountain) | have | CCEL `flavel-lovely` |
 | The Method of Grace | have | CCEL `flavel-grace`; also 1820 vol. 2 |
-| Pneumatologia: A Treatise of the Soul of Man | have | CCEL `flavel-pneumatologia`; in the 1820 set, volume not yet located |
+| Pneumatologia: A Treatise of the Soul of Man | have | CCEL `flavel-pneumatologia`; also 1820 vols 2-3 |
 | A Saint Indeed (Keeping the Heart) | have | CCEL `flavel-saint-indeed`; also 1820 vol. 5 |
 | The Life of the late Rev. Mr. John Flavel (anon. memoir) | have | CCEL `flavel-life`; also 1820 vol. 1 |
 | The Righteous Man's Refuge; A Blow at the Root; Gospel Unity | have-raw | 1820 vol. 3 |
 | England's Duty (Christ Knocking at the Door); Divine Conduct, or the Mystery of Providence; Antipharmacum Saluberrimum; Mount Pisgah; Tidings from Rome | have-raw | 1820 vol. 4 |
 | A Token for Mourners; The Touchstone of Sincerity; Husbandry Spiritualized; Navigation Spiritualized; The Seaman's Catechism | have-raw | 1820 vol. 5 |
 | Exposition of the Assembly's Shorter Catechism; Sacramental Meditations; The Balm of the Covenant; The Reasonableness of Personal Reformation; Preparation for Sufferings; the Coronation sermon | have-raw | 1820 vol. 6 |
-| Planelogia; Vindiciae Legis et Foederis | have-raw (to confirm) | in the 1820 set; volume not yet located in the OCR |
+| Planelogia (A Succinct and Seasonable Discourse); Vindiciae Legis et Foederis | have-raw | 1820 vol. 3 (located 2026-10-02 by running-title counts) |
 | Clean text of the works held only as raw OCR | pending | wishlist: a proofread transcription or a CCEL edition of each |
 | Second scan of the 1820 Works (U. Toronto) | pending | IA `wholeworkstowhic01flavuoft`..`06`, for repairing bad OCR pages |
 | Whole Works, 1701 / 1716 / 1762 / 1770 / 1799 editions | pending | IA (ECCO and Google scans), listed under `_alternates` in the shelf |
@@ -73,7 +73,8 @@ Shelf: `pipeline/bunyan_shelf.json` (2026-10-02). Base edition: *The Works of Jo
 | Doctrinal and practical treatises: The Work of Jesus Christ as an Advocate; The Intercession of Christ; Come and Welcome to Jesus Christ; The Greatness of the Soul; The Strait Gate; The Doctrine of the Law and Grace Unfolded; I Will Pray with the Spirit; Christian Behaviour; A Treatise of the Fear of God; Justification by an Imputed Righteousness; Light for Them That Sit in Darkness; Christ a Complete Saviour; The Acceptable Sacrifice; A Few Sighs from Hell; Israel's Hope Encouraged; The Desire of the Righteous Granted; Saints' Privilege and Profit; Paul's Departure and Crown | have (in Offor) | Offor vols 1-2 |
 | Controversial and confessional pieces: The Resurrection of the Dead; A Confession of My Faith; Differences in Judgment about Water Baptism; Peaceable Principles and True; A Defence of the Doctrine of Justification; Some Gospel Truths Opened; Instruction for the Ignorant; A Holy Life the Beauty of Christianity; Seasonable Counsel; Of Antichrist and His Ruin; Exposition of Genesis 1-10; Of the Law and a Christian; The Trinity and a Christian | have (in Offor) | Offor vol. 2 |
 | Allegorical and symbolic works: Solomon's Temple Spiritualized; The House of the Forest of Lebanon; The Holy City; The Water of Life; The Barren Fig Tree; A Book for Boys and Girls (Divine Emblems); One Thing Is Needful; Ebal and Gerizzim; Prison Meditations | have (in Offor) | Offor vol. 3 (some in vol. 1) |
-| A Relation of the Imprisonment of Mr. John Bunyan; Profitable Meditations (1661); A Vindication of Some Gospel Truths; A Map Shewing the Order and Causes of Salvation | pending (to confirm) | not found under these titles in the Offor text; may be present under other wording, or (the Map) an image only |
+| A Relation of the Imprisonment of Mr. John Bunyan | have (in Offor, to confirm) | Offor vol. 1 has one reference under the wording 'relation of my imprisonment' |
+| Profitable Meditations (1661); A Vindication of Some Gospel Truths Opened; A Map Shewing the Order and Causes of Salvation | pending | not found under these titles in the Offor text (rechecked 2026-10-02); the Map is a broadsheet diagram |
 | Each Offor work as its own structured unit | pending | wishlist: a converter that splits Offor at its treatise headings |
 | The Entire Works, ed. Stebbing (1862, 4 vols) | pending | IA `entireworksofjoh01buny`..`04buny`, second collected edition |
 | Works, 1692 first collected (Doe) and 1771 sixth ed. (8 vols) | pending | IA scans of early printings, listed in shelf `_alternates` |
