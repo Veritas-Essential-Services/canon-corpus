@@ -41,3 +41,6 @@
 
 ## 2026-10-02 15:46 CDT — macdonald: done
 - 61/61 fetched (31 CCEL, 27 Gutenberg, 3 IA raw), 36.5 MB, 0 failed, 0 copyright markers; 102687 units converted. Fantasies, fairy tales, novels, sermons, poetry. CCEL ThML first (Unspoken Sermons carry 67 scripture links in total). 10 Gutenberg books use their own Contents for headings. No uids minted; not in manifest.
+
+## 2026-10-02 15:46 CDT — grimm: done
+- 3/3 fetched (0 CCEL, 1 Gutenberg, 2 IA raw), 4.8 MB, 0 failed, 0 copyright markers; 1769 units converted. Margaret Hunt's Household Tales (1884). Gutenberg text cites by tale number (`53 Little Snow-White`): exactly 200 tales + 10 Children's Legends. The 1884 2-vol edition (Lang's introduction, the Grimms' notes) is raw OCR. Taylor/Edwardes and Lucy Crane are pending alternates. No uids minted; not in manifest.

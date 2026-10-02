@@ -1,0 +1,36 @@
+{
+ "_about": "The Brothers Grimm (Jacob 1785-1863, Wilhelm 1786-1859), Kinder- und Hausmärchen, in Margaret Hunt's English translation (Household Tales, 1884, 2 vols, with Andrew Lang's introduction and the Grimms' own notes). Gutenberg's clean text of the tales plus the 1884 volumes as raw Internet Archive OCR, which carry Lang's introduction and the notes. Translator: Margaret Hunt (Mrs. Alfred William Hunt, 1831-1912). Other public-domain English Grimms are listed as pending alternates, not held. Published 1884: US public domain.",
+ "_author": "Jacob and Wilhelm Grimm, tr. Margaret Hunt",
+ "_name_words": [
+  "grimm",
+  "jacob",
+  "wilhelm"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grimm-hunt-household-tales": [
+   5314,
+   "Household Tales by Brothers Grimm, tr. Margaret Hunt (1884), the 200 tales and 10 children's legends",
+   {
+    "chapre_only": "(?:Legend )?\\d{1,3} [A-Z][^\\n]{2,85}$"
+   }
+  ]
+ },
+ "internet_archive": {
+  "grimm-hunt-1884-01": [
+   "grimmshouseholdt01grim",
+   "Grimm's Household Tales, tr. Margaret Hunt, with the author's notes and an introduction by Andrew Lang (1884), vol. 1"
+  ],
+  "grimm-hunt-1884-02": [
+   "grimmshouseholdt2grim",
+   "Grimm's Household Tales, tr. Margaret Hunt (1884), vol. 2"
+  ]
+ },
+ "_excluded": {
+  "grimm-selections": "selections and retellings: Grimm's Fairy Stories (PG 11027, Owen/Gruelle), Snowdrop & Other Tales (PG 37381, Rackham, a Hunt selection), Grimm's Fairy Tales (PG 52521, ed. Olcott), Household Tales ill. Anning Bell (1912 selection)",
+  "grimm-widger-index": "PG 59508 is an index of Gutenberg's Grimm files, not a text",
+  "grimm-same-surname": "other Grimms: Florence M. Grimm (Astronomical Lore in Chaucer), George Grimm (Australian Explorers), Constantin de Grimm (illustrator)",
+  "grimm-other-languages": "French, Icelandic, Dutch, Polish, Portuguese, Hungarian and Finnish Gutenberg translations: not English",
+  "grimm-pending-alternates": "PENDING, not held: Edgar Taylor and Marian Edwardes's translation (PG 2591), Lucy Crane's Household Stories (PG 19068, ill. Walter Crane), and the German originals (Deutsche Sagen PG 76558; KHM) — alternate witnesses Adam may want"
+ }
+}

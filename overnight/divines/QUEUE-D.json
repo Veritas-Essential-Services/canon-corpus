@@ -51,9 +51,11 @@
     },
     {
       "id": "grimm",
-      "status": "running",
+      "status": "done",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Brothers Grimm in Margaret Hunt's translation (1884, with Lang's introduction); other PD English Grimm only as pending/excluded; shelf + fetch + convert + map section; no minting",
-      "started": "2026-10-02T15:36:06-05:00"
+      "started": "2026-10-02T15:46:13-05:00",
+      "finished": "2026-10-02T15:46:13-05:00",
+      "notes": "3/3 fetched (0 CCEL, 1 Gutenberg, 2 IA raw), 4.8 MB, 0 failed, 0 copyright markers; 1769 units converted. Margaret Hunt's Household Tales (1884). Gutenberg text cites by tale number (`53 Little Snow-White`): exactly 200 tales + 10 Children's Legends. The 1884 2-vol edition (Lang's introduction, the Grimms' notes) is raw OCR. Taylor/Edwardes and Lucy Crane are pending alternates. No uids minted; not in manifest."
     },
     {
       "id": "andersen",
