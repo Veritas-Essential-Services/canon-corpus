@@ -234,6 +234,46 @@ check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
 
+# ---------------------------------------------------------- Perseus drama
+DRAMA_FIX = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>
+<title>Fixture Play</title><author>Sophocles</author><editor role="translator">Richard Jebb</editor>
+</titleStmt></fileDesc></teiHeader><text><body><div type="translation">
+<div type="textpart" subtype="episode"><milestone unit="card" n="1"/>
+<stage>Enter A.</stage>
+<sp><speaker>A</speaker><l n="1">First words, <del>a doubtful phrase,</del> go on</l>
+<l n="5">and on <stage>Turning.</stage> still speaking.</l></sp>
+<sp><speaker>B</speaker><l n="1009a" part="F">Half a line.</l><l n="8"><gap reason="lost"/> after a gap.</l></sp>
+</div><div type="textpart" subtype="choral"><sp><speaker>Chorus</speaker><l n="10">Sung.</l></sp>
+<stage>Exeunt.</stage></div></div></body></text></TEI>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(DRAMA_FIX); dr_path = f.name
+_fixkey = ("fixture-play", "1009a")
+st.TEI_DRAMA_N_FIX[_fixkey] = "6a"
+dr = st.convert_tei_drama(dr_path, "fixture-play", "Fix.")
+del st.TEI_DRAMA_N_FIX[_fixkey]
+du = dr["units"]
+check("drama: one unit per <l> segment, id = Greek line number",
+      [u["id"] for u in du] == ["fixture-play:1", "fixture-play:5", "fixture-play:6a",
+                                "fixture-play:8", "fixture-play:10"])
+check("drama: speaker and choral section ride on each unit",
+      du[0]["drama"]["speaker"] == "A" and du[2]["drama"]["speaker"] == "B"
+      and du[4]["drama"] == {"speaker": "Chorus", "section": "choral", "stage": ["Exeunt."]})
+check("drama: stage directions kept out of the spoken text, never dropped",
+      du[0]["drama"]["stage"] == ["Enter A."] and du[1]["drama"]["stage"] == ["Turning."]
+      and "Turning" not in du[1]["text"] and du[1]["text"] == "and on still speaking.")
+check("drama: <del> is the translation's own text and is kept",
+      "a doubtful phrase" in du[0]["text"])
+check("drama: per-book line-number fix applies and is counted",
+      "1 line number(s) corrected" in dr["scheme"]["note"])
+check("drama: a lacuna is flagged, not invented",
+      du[3]["drama"].get("gap") is True and du[3]["text"] == "after a gap.")
+check("drama: honesty says segment, not exact line; translator from TEI",
+      dr["scheme"]["resolution"] == "segment" and dr["source"]["translator"] == "Richard Jebb")
+check("drama: every Sophocles slug in the fetch manifest has a converter abbreviation",
+      {k for k in load("fetch_sources").PERSEUS if k.startswith("sophocles-")}
+      == set(st.TEI_DRAMA))
+os.unlink(dr_path)
+
 # ---------------------------------------------------------------- Thayer (OCR)
 import json as _json
 THAYER_FIX = {"300": "\u1F21\u03B3\u03AD\u03BF\u03BC\u03B1\u03B9\n"

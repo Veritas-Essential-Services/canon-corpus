@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 77 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 85 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -120,6 +120,11 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- Perseus DRAMA (Sophocles' seven plays, Jebb, 2026-10-02): convert_tei_drama,
+  one unit per <l> segment keyed to the GREEK line number (`sophocles-antigone-jebb:450`,
+  ref "Soph. Ant. 450"); speaker / choral section / stage directions under each
+  unit's `drama`, stage directions never mixed into spoken text. Slug ->
+  abbreviation in TEI_DRAMA; Perseus line-number typos fixed in TEI_DRAMA_N_FIX.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:

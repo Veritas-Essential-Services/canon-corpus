@@ -40,6 +40,34 @@ PERSEUS = {
     "aeneid-williams": ("canonical-latinLit",
         "phi0690/phi003/phi0690.phi003.perseus-eng2.xml",
         "Virgil, Aeneid — Theodore C. Williams 1910 (PD); urn ...phi0690.phi003.perseus-eng2"),
+    # Sophocles, the seven plays (Adler vol. 5), 2026-10-02. All seven are
+    # R. C. Jebb's prose translations (Cambridge, 1887-1900: PD), "modernized by
+    # Perseus"; the rights line read is each file's own titleStmt/sourceDesc,
+    # and every one names Jebb. Perseus markup is CC BY-SA; what we keep is
+    # Jebb's PD text plus the Greek line numbers, which are facts. Trachiniae
+    # is eng3 on purpose: eng4 is Torrance 1966, in copyright (Perseus itself
+    # comments it out of the catalogue). Drama converter: convert_tei_drama.
+    "sophocles-trachiniae-jebb": ("canonical-greekLit",
+        "tlg0011/tlg001/tlg0011.tlg001.perseus-eng3.xml",
+        "Sophocles, Trachiniae — R. C. Jebb 1892 (PD); urn ...tlg0011.tlg001.perseus-eng3"),
+    "sophocles-antigone-jebb": ("canonical-greekLit",
+        "tlg0011/tlg002/tlg0011.tlg002.perseus-eng2.xml",
+        "Sophocles, Antigone — R. C. Jebb 1891 (PD); urn ...tlg0011.tlg002.perseus-eng2"),
+    "sophocles-ajax-jebb": ("canonical-greekLit",
+        "tlg0011/tlg003/tlg0011.tlg003.perseus-eng2.xml",
+        "Sophocles, Ajax — R. C. Jebb 1896 (PD); urn ...tlg0011.tlg003.perseus-eng2"),
+    "sophocles-oedipus-tyrannus-jebb": ("canonical-greekLit",
+        "tlg0011/tlg004/tlg0011.tlg004.perseus-eng2.xml",
+        "Sophocles, Oedipus Tyrannus — R. C. Jebb 1887 (PD); urn ...tlg0011.tlg004.perseus-eng2"),
+    "sophocles-electra-jebb": ("canonical-greekLit",
+        "tlg0011/tlg005/tlg0011.tlg005.perseus-eng2.xml",
+        "Sophocles, Electra — R. C. Jebb 1894 (PD); urn ...tlg0011.tlg005.perseus-eng2"),
+    "sophocles-philoctetes-jebb": ("canonical-greekLit",
+        "tlg0011/tlg006/tlg0011.tlg006.perseus-eng2.xml",
+        "Sophocles, Philoctetes — R. C. Jebb 1898 (PD); urn ...tlg0011.tlg006.perseus-eng2"),
+    "sophocles-oedipus-colonus-jebb": ("canonical-greekLit",
+        "tlg0011/tlg007/tlg0011.tlg007.perseus-eng2.xml",
+        "Sophocles, Oedipus at Colonus — R. C. Jebb 1889 (PD); urn ...tlg0011.tlg007.perseus-eng2"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).

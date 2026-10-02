@@ -1650,5 +1650,96 @@
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
+ },
+ "sophocles-ajax-jebb": {
+  "title": "Ajax",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "a71dc839ae82c9a19fb65814aa0ce91ac988810c6a060ac8daded28a49224322",
+  "units": 528,
+  "scheme": {
+   "citation": "Soph. Aj. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
+ },
+ "sophocles-antigone-jebb": {
+  "title": "Antigone",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "0b49ae88550a9eae3554588b1d24c9db3b3e0dd10b09686141ce5642e6217539",
+  "units": 516,
+  "scheme": {
+   "citation": "Soph. Ant. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
+ },
+ "sophocles-electra-jebb": {
+  "title": "Electra",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "1003b1902b00ed3a1e500204c5c0f3ea584f2076b5680750372c95ac2c5f4946",
+  "units": 644,
+  "scheme": {
+   "citation": "Soph. El. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
+ },
+ "sophocles-oedipus-colonus-jebb": {
+  "title": "Oedipus at Colonus",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "97773b8c04cb2f1bf2b2db382b9f39597df79b9ddf886e1542947012dc72b862",
+  "units": 818,
+  "scheme": {
+   "citation": "Soph. OC line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
+ },
+ "sophocles-oedipus-tyrannus-jebb": {
+  "title": "Oedipus Tyrannus",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "43e52981afd70242bbb54f663841a7df9c229b182e6ba64c5336db56adefdada",
+  "units": 684,
+  "scheme": {
+   "citation": "Soph. OT line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
+ },
+ "sophocles-philoctetes-jebb": {
+  "title": "Philoctetes",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "1b986c7f36585cff72aade0436f9c13d50477b372084a5f25a147d58e30a21c2",
+  "units": 630,
+  "scheme": {
+   "citation": "Soph. Phil. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
+ },
+ "sophocles-trachiniae-jebb": {
+  "title": "Trachiniae",
+  "author": "Sophocles",
+  "format": "tei",
+  "sha256": "199a3e07c434a3756d092435e4a1c28536cbb9390d4e75ffb719f408145bea94",
+  "units": 480,
+  "scheme": {
+   "citation": "Soph. Trach. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). Perseus markup is CC BY-SA; the translation is PD."
+  }
  }
 }

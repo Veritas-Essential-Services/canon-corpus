@@ -98,6 +98,112 @@ def convert_tei(path, slug, abbrev):
                        "honesty": honesty},
             "units": units}
 
+# Perseus drama: Greek plays in prose translation, marked up as <sp> speeches
+# whose <l n="..."> segments are anchored to the GREEK line numbers -- the
+# citation every commentary uses (Ant. 450). One unit per segment, so a
+# citation resolves to the segment containing it.
+TEI_DRAMA = {
+    "sophocles-trachiniae-jebb": "Soph. Trach.",
+    "sophocles-antigone-jebb": "Soph. Ant.",
+    "sophocles-ajax-jebb": "Soph. Aj.",
+    "sophocles-oedipus-tyrannus-jebb": "Soph. OT",
+    "sophocles-electra-jebb": "Soph. El.",
+    "sophocles-philoctetes-jebb": "Soph. Phil.",
+    "sophocles-oedipus-colonus-jebb": "Soph. OC",
+}
+# Per-book line-number fixes (rule 2: never hand-edit a source; fix here so it
+# reruns on refetch). Each is a typo in the Perseus file, shown by context.
+TEI_DRAMA_N_FIX = {
+    # Antigone's half-line completing Oedipus' 1099 ("Where? Where?" /
+    # "Father, father,"), between 1099 and 1100: the file says 1009a.
+    ("sophocles-oedipus-colonus-jebb", "1009a"): "1099a",
+}
+
+
+def convert_tei_drama(path, slug, abbrev):
+    T = "{http://www.tei-c.org/ns/1.0}"
+    root = ET.parse(path).getroot()
+    title, author, transl = tei_meta(root)
+    body = root.find(f".//{T}body")
+    units, pending_stage, fixes, gaps = [], [], 0, 0
+    section, speaker = "", ""
+
+    def seg_text(el):
+        # A stage direction inside a segment is not spoken text: lift it out
+        # (kept under drama.stage), keep everything else including <del>,
+        # which is the translation's own bracketed text.
+        parts, stage = [], []
+
+        def walk(e):
+            if e.tag == T + "stage":
+                stage.append(clean("".join(e.itertext())))
+                if e.tail: parts.append(e.tail)
+                return
+            if e.text: parts.append(e.text)
+            for c in e:
+                walk(c)
+            if e is not el and e.tail: parts.append(e.tail)
+        walk(el)
+        return clean("".join(parts)), [s for s in stage if s]
+
+    def visit(e):
+        nonlocal section, speaker, fixes, gaps
+        tag = e.tag
+        if tag == T + "div" and e.get("type") == "textpart":
+            section = e.get("subtype") or section
+        elif tag == T + "speaker":
+            speaker = clean("".join(e.itertext()))
+            return
+        elif tag == T + "stage":
+            s = clean("".join(e.itertext()))
+            if s:
+                pending_stage.append(s)
+            return
+        elif tag == T + "l":
+            n = e.get("n") or ""
+            if (slug, n) in TEI_DRAMA_N_FIX:
+                n = TEI_DRAMA_N_FIX[(slug, n)]
+                fixes += 1
+            text, inner = seg_text(e)
+            gap = e.find(f".//{T}gap") is not None
+            gaps += gap
+            drama = {"speaker": speaker, "section": section}
+            if pending_stage or inner:
+                drama["stage"] = pending_stage + inner
+            if gap:
+                drama["gap"] = True
+            pending_stage.clear()
+            if text:
+                units.append({"id": f"{slug}:{n}", "ref": f"{abbrev} {n}",
+                              "text": text, "links": [], "drama": drama})
+            elif drama.get("stage") and units:
+                units[-1]["drama"].setdefault("stage", []).extend(drama["stage"])
+            return
+        elif tag == T + "sp":
+            speaker = ""
+        for c in e:
+            visit(c)
+
+    visit(body)
+    if pending_stage and units:                 # the closing exit
+        units[-1]["drama"].setdefault("stage", []).extend(pending_stage)
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": transl, "sha256": sha256(path)},
+            "scheme": {"citation": f"{abbrev} line (Greek lineation)",
+                       "resolution": "segment",
+                       "honesty": "prose translation segmented at Greek line numbers: "
+                                  "a citation resolves to the segment that contains it "
+                                  "(segments run 1-5 Greek lines), not to an exact line",
+                       "note": f"Perseus TEI, one unit per <l> segment; speaker, choral "
+                               f"section and stage directions under each unit's `drama` "
+                               f"(stage directions are kept out of the spoken text, never "
+                               f"dropped). {fixes} line number(s) corrected by "
+                               f"TEI_DRAMA_N_FIX; {gaps} segment(s) contain a lacuna the "
+                               f"translator marks as lost (drama.gap). Perseus markup is "
+                               f"CC BY-SA; the translation is PD."},
+            "units": units}
+
 # ---------------------------------------------------------------- ThML (CCEL)
 
 RE_DIV2 = re.compile(r"<div[1-4]\b([^>]*)>", re.I)  # flat scan, any level — paragraphs belong to the preceding div
@@ -1733,6 +1839,9 @@ def main():
         for fn in sorted(os.listdir(pdir)):
             slug = fn[:-4]
             path = os.path.join(pdir, fn)
+            if slug in TEI_DRAMA:
+                jobs.append((slug, lambda p=path, s=slug: convert_tei_drama(p, s, TEI_DRAMA[s])))
+                continue
             jobs.append((slug, lambda p=path, s=slug: convert_tei(p, s, tei_abbrevs.get(s, s))))
     cdir = os.path.join(CORPUS, "ccel")
     if os.path.isdir(cdir):
