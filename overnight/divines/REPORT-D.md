@@ -90,3 +90,8 @@
 
 ## 2026-10-02 16:14 CDT — potter: done
 - 21/21 fetched (Gutenberg), 0 copyright markers; 2,337 units. 20 little books (1902-1922) and The Fairy Caravan (US 1929, by chapter). Gutenberg compilations 572/582 and duplicate transcriptions excluded; later little books not on Gutenberg pending. No uids minted; not in manifest.
+
+## 2026-10-02 16:17 CDT — §5 verification (third run)
+- All 413 shelf URLs across the 16 Lane D shelves resolve (one Gutenberg connection reset, 206 on recheck). Every slug appears in the map. tests/structure_test.py 64 passed.
+- Measured the structure_texts.py Contents-tail bug: 1,229 Contents titles in 224 of the 382 files under data/corpus/ lose trailing c/i/l/v/x letters. Reported in DIGEST item 2; not fixed in structure_texts.py.
+- DIGEST rewritten for the third run: 413 slugs await minting; decision list updated.
