@@ -1,0 +1,45 @@
+{
+ "_about": "Aristophanes in English, translator per title. Complete: The Eleven Comedies, 'now for the first time literally and completely translated' (anonymous, The Athenian Society, 1912), 2 vols. Single plays: W. J. Hickie's prose Clouds (Bohn), B. B. Rogers's verse Frogs, Jack Lindsay's Lysistrata (1926; Gutenberg treats it as US public domain; Lindsay d. 1990, so not PD in life+70 countries). PG 3012, 2571 and 3013 were checked by 8-word shingle overlap (0.85-0.87) and are the Athenian Society translation split out, so they are excluded as duplicates.",
+ "_name_words": [
+  "aristophanes",
+  "comedies",
+  "eleven",
+  "volume"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aristophanes-athenian-v1": [
+   8688,
+   "The Eleven Comedies, vol. 1: Knights, Acharnians, Peace, Lysistrata, The Clouds",
+   "tr. anonymous (The Athenian Society, 1912)"
+  ],
+  "aristophanes-athenian-v2": [
+   8689,
+   "The Eleven Comedies, vol. 2: Wasps, Birds, Frogs, Thesmophoriazusae, Ecclesiazusae, Plutus",
+   "tr. anonymous (The Athenian Society, 1912)"
+  ],
+  "aristophanes-hickie-clouds": [
+   2562,
+   "The Clouds",
+   "tr. W. J. Hickie (prose, Bohn)"
+  ],
+  "aristophanes-rogers-frogs": [
+   7998,
+   "The Frogs",
+   "tr. Benjamin Bickley Rogers (verse)"
+  ],
+  "aristophanes-lindsay-lysistrata": [
+   7700,
+   "Lysistrata",
+   "tr. Jack Lindsay (1926); US PD per Gutenberg"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg3012": "The Acharnians: the Athenian Society translation (shingle overlap 0.87 with PG 8688)",
+  "pg2571": "Peace: the Athenian Society translation (0.87 with PG 8688)",
+  "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
+  "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "PD verse with the Greek facing; pending (IA)",
+  "J. Hookham Frere (1840)": "PD verse (Acharnians, Knights, Birds, Frogs); pending (IA)"
+ }
+}

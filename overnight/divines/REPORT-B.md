@@ -45,3 +45,6 @@
 
 ## 2026-10-02 15:38 CDT — greek-tragedy (3/3): Sophocles; item done
 - Shelf `pipeline/sophocles_shelf.json`: 4/4 PG, 1.1 MB, trial 5,510 units. Aeschylus 6, Euripides 14, Sophocles 4 fetched (9.6 MB); Jebb's Sophocles cross-referenced to the unmerged PR; PG 806 refused (copyrighted).
+
+## 2026-10-02 15:39 CDT — aristophanes: done
+- Shelf `pipeline/aristophanes_shelf.json`. 5/5 PG fetched, 1.5 MB, trial 10,250 units. Complete in the Athenian Society 1912 translation; Hickie Clouds, Rogers Frogs, Lindsay Lysistrata (US PD per PG). PG 3012/2571/3013 excluded as duplicates (shingle overlap 0.85-0.87).

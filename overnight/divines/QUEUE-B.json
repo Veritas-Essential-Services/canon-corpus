@@ -66,8 +66,11 @@
     },
     {
       "id": "aristophanes",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Aristophanes, PD English (Rogers, Frere, Hickie, the anonymous Athenian Society 1912); shelf + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Aristophanes, PD English (Rogers, Frere, Hickie, the anonymous Athenian Society 1912); shelf + fetch + map",
+      "started": "2026-10-02T15:38:16-05:00",
+      "finished": "2026-10-02T15:39:49-05:00",
+      "notes": "5/5 PG fetched, 1.5 MB, trial 10,250 units. Complete in the Athenian Society 1912 translation; Hickie Clouds, Rogers Frogs, Lindsay Lysistrata (US PD per PG). PG 3012/2571/3013 excluded as duplicates (shingle overlap 0.85-0.87)."
     },
     {
       "id": "greek-historians",
