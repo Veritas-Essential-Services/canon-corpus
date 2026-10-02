@@ -150,8 +150,8 @@
       "status": "done",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — E. Nesbit: the children's books (Psammead trilogy, Railway Children, Bastables, etc.), published before 1930; no minting",
       "started": "2026-10-02T16:11:37-05:00",
-      "finished": "2026-10-02T16:13:22-05:00",
-      "notes": "33/33 fetched (Gutenberg), 0 copyright markers; 48,200 units. Bastable and Psammead books, Railway Children, Arden books, fantasies, dragon and fairy collections, Shakespeare retellings, Royal Children, adult novels, stories, verse. 16 books read chapters from their own Contents. Remaining ~n ids ar"
+      "finished": "2026-10-02T16:19:14-05:00",
+      "notes": "33 Gutenberg + Lays and Legends 1886 raw OCR; 48,200 units"
     },
     {
       "id": "potter",

@@ -187,10 +187,16 @@
    }
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "nesbit-lays-and-legends-1": [
+   "laysandlegends00nesbgoog",
+   "Lays and Legends (1886), the first series"
+  ]
+ },
  "_excluded": {
   "nesbit-duplicates": "illustrated transcriptions of books held: Five Children and It ill. Millar (PG 17314), The Wouldbegoods ill. Birch (32466), The Enchanted Castle ill. Millar (34219)",
   "nesbit-not-hers": "Landscape and Song (14320), an anthology she edited; Atlantic Narratives (38172), an anthology with other authors",
-  "nesbit-not-on-gutenberg": "PENDING: Lays and Legends (first series, 1886) and her other books not on Gutenberg; an Internet Archive search was not run this pass"
+  "nesbit-not-on-gutenberg": "PENDING: her other books on neither Gutenberg nor this shelf; only Lays and Legends (1886) was searched for on Internet Archive this pass",
+  "nesbit-other-scans": "other scans of Lays and Legends 1886 (laysandlegends01nesbgoog, cu31924013437656, cu31924060442591) and of the 1892 second series (layslegends00nesbrich; the second series is held from Gutenberg)"
  }
 }

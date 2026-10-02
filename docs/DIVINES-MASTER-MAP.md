@@ -2100,7 +2100,7 @@ Shelf: `pipeline/aesop_shelf.json` (2026-10-02; added at the coordinator's relay
 
 ## E. Nesbit
 
-Shelf: `pipeline/nesbit_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 33 books: the Bastable and Psammead series, The Railway Children, the Arden books and later fantasies, the dragon and fairy collections, her Shakespeare retellings and Royal Children, and the adult novels, stories and verse on Gutenberg. Most chapters are read from the book's own Contents (16 books use the lenient reader). The remaining duplicate ids sit in publishers' back-matter (book lists, THE END), not in her text. Illustrated duplicate transcriptions are excluded; books not on Gutenberg are pending. Not in the manifest; no uids minted.
+Shelf: `pipeline/nesbit_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 33 Gutenberg books: the Bastable and Psammead series, The Railway Children, the Arden books and later fantasies, the dragon and fairy collections, her Shakespeare retellings and Royal Children, and the adult novels, stories and verse; plus her first book of verse, Lays and Legends (1886), as raw Internet Archive OCR. Most chapters are read from the book's own Contents (16 books use the lenient reader). The remaining duplicate ids sit in publishers' back-matter (book lists, THE END), not in her text. Illustrated duplicate transcriptions are excluded. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -2137,9 +2137,11 @@ Shelf: `pipeline/nesbit_shelf.json` (2026-10-02; added at the coordinator's rela
 | Many Voices: Poems (1922) | have | PG 1924, `nesbit-many-voices` (287 units) |
 | Songs of Love and Empire (1898) | have | PG 50162, `nesbit-songs-of-love-and-empire` (627 units) |
 | The Rainbow and the Rose (1905) | have | PG 4513, `nesbit-rainbow-and-the-rose` (377 units) |
+| Lays and Legends (1886), the first series | have-raw | IA `laysandlegends00nesbgoog`, `nesbit-lays-and-legends-1` |
 | nesbit-duplicates | excluded | illustrated transcriptions of books held: Five Children and It ill. Millar (PG 17314), The Wouldbegoods ill. Birch (32466), The Enchanted Castle ill. Millar (34219) |
 | nesbit-not-hers | excluded | Landscape and Song (14320), an anthology she edited; Atlantic Narratives (38172), an anthology with other authors |
-| nesbit-not-on-gutenberg | pending | Lays and Legends (first series, 1886) and her other books not on Gutenberg; an Internet Archive search was not run this pass |
+| nesbit-not-on-gutenberg | pending | her other books on neither Gutenberg nor this shelf; only Lays and Legends (1886) was searched for on Internet Archive this pass |
+| nesbit-other-scans | excluded | other scans of Lays and Legends 1886 (laysandlegends01nesbgoog, cu31924013437656, cu31924060442591) and of the 1892 second series (layslegends00nesbrich; the second series is held from Gutenberg) |
 
 ## Beatrix Potter
 

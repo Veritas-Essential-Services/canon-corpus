@@ -98,3 +98,6 @@
 
 ## 2026-10-02 16:18 CDT — potter: done
 - Gap fill: 2 Internet Archive scans added as raw OCR: Pigling Bland (1913 text, 1987 reprint scan) and Little Pig Robinson (1930, undated Warne printing; US PD since 2026). Appley Dapply not found. 23 slugs.
+
+## 2026-10-02 16:19 CDT — nesbit: gap fill
+- Lays and Legends (1886, first series) added as raw Internet Archive OCR (laysandlegends00nesbgoog, 203 KB, 1886 imprint). 34 slugs.
