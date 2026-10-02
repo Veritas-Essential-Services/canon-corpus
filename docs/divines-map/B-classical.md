@@ -690,6 +690,58 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | Trips to the Moon | Thomas Francklin | `lucian-francklin-trips-to-the-moon` | have (PG 10430) |
 | Lucian's True History | Francis Hickes | `lucian-hickes-true-history` | have (PG 45858) |
 | — | — | `dryden-polybius-lucian` | cross-ref → Dryden shelf, lane C (Dryden's Life of Lucian) |
+| The Ignorant Book Collector | Austin Morris Harmon | `lucian-perseus-harmon-the-ignorant-book-collector` | have (Perseus TEI `tlg0062.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| Alexander the False Prophet | Austin Morris Harmon | `lucian-perseus-harmon-alexander-the-false-prophet` | have (Perseus TEI `tlg0062.tlg038.perseus-eng2`; markup CC BY-SA 4.0) |
+| Anacharsis, or Athletics | Austin Morris Harmon | `lucian-perseus-harmon-anacharsis-or-athletics` | have (Perseus TEI `tlg0062.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
+| Dionysus: an Introduction | Austin Morris Harmon | `lucian-perseus-harmon-dionysus-an-introduction` | have (Perseus TEI `tlg0062.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Double Indictment | Austin Morris Harmon | `lucian-perseus-harmon-the-double-indictment` | have (Perseus TEI `tlg0062.tlg026.perseus-eng2`; markup CC BY-SA 4.0) |
+| Slander: on not Being Quick to Put Faith in it | Austin Morris Harmon | `lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith` | have (Perseus TEI `tlg0062.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Downward Journey, or the Tyrant | Austin Morris Harmon | `lucian-perseus-harmon-the-downward-journey-or-the-tyrant` | have (Perseus TEI `tlg0062.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Ferry | Emily James Smith | `lucian-perseus-smith-the-ferry` | have (Perseus TEI `tlg0062.tlg016.perseus-eng5`; markup CC BY-SA 4.0) |
+| Charon, or the Inspectors | Austin Morris Harmon | `lucian-perseus-harmon-charon-or-the-inspectors` | have (Perseus TEI `tlg0062.tlg023.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Hall | Austin Morris Harmon | `lucian-perseus-harmon-the-hall` | have (Perseus TEI `tlg0062.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Sacrifices | Austin Morris Harmon | `lucian-perseus-harmon-on-sacrifices` | have (Perseus TEI `tlg0062.tlg027.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Goddesse of Surrye | Austin Morris Harmon | `lucian-perseus-harmon-the-goddesse-of-surrye` | have (Perseus TEI `tlg0062.tlg041.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Funerals | Austin Morris Harmon | `lucian-perseus-harmon-on-funerals` | have (Perseus TEI `tlg0062.tlg036.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Salaried Posts in Great Houses | Austin Morris Harmon | `lucian-perseus-harmon-on-salaried-posts-in-great-houses` | have (Perseus TEI `tlg0062.tlg033.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Parasite Tychiades | Austin Morris Harmon | `lucian-perseus-harmon-the-parasite-tychiades` | have (Perseus TEI `tlg0062.tlg030.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Judgement of the Goddesses | Austin Morris Harmon | `lucian-perseus-harmon-the-judgement-of-the-goddesses` | have (Perseus TEI `tlg0062.tlg032.perseus-eng2`; markup CC BY-SA 4.0) |
+| Demonax | Austin Morris Harmon | `lucian-perseus-harmon-demonax` | have (Perseus TEI `tlg0062.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Amber, or the Swan | Austin Morris Harmon | `lucian-perseus-harmon-amber-or-the-swan` | have (Perseus TEI `tlg0062.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Dream, or the Cock | Austin Morris Harmon | `lucian-perseus-harmon-the-dream-or-the-cock` | have (Perseus TEI `tlg0062.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Cock | Emily James Smith | `lucian-perseus-smith-the-cock` | have (Perseus TEI `tlg0062.tlg019.perseus-eng5`; markup CC BY-SA 4.0) |
+| Heracles: an Introduction | Austin Morris Harmon | `lucian-perseus-harmon-heracles-an-introduction` | have (Perseus TEI `tlg0062.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Hippias, or the Bath | Austin Morris Harmon | `lucian-perseus-harmon-hippias-or-the-bath` | have (Perseus TEI `tlg0062.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Icaromenippus, or the Sky-man | Austin Morris Harmon | `lucian-perseus-harmon-icaromenippus-or-the-sky-man` | have (Perseus TEI `tlg0062.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Essays in Portraiture | Austin Morris Harmon | `lucian-perseus-harmon-essays-in-portraiture` | have (Perseus TEI `tlg0062.tlg039.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Consonants at Law Sigma Vs. Tau, in the Court of the Seven Vowels | Austin Morris Harmon | `lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th` | have (Perseus TEI `tlg0062.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| Zeus Catechized | Austin Morris Harmon | `lucian-perseus-harmon-zeus-catechized` | have (Perseus TEI `tlg0062.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Zeus Rants | Austin Morris Harmon | `lucian-perseus-harmon-zeus-rants` | have (Perseus TEI `tlg0062.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Zeus the Tragedian | Emily James Smith | `lucian-perseus-smith-zeus-the-tragedian` | have (Perseus TEI `tlg0062.tlg018.perseus-eng5`; markup CC BY-SA 4.0) |
+| Octogenerians | Austin Morris Harmon | `lucian-perseus-harmon-octogenerians` | have (Perseus TEI `tlg0062.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Fly | Austin Morris Harmon | `lucian-perseus-harmon-the-fly` | have (Perseus TEI `tlg0062.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Menippus, or the Descent Into Hades | Austin Morris Harmon | `lucian-perseus-harmon-menippus-or-the-descent-into-hades` | have (Perseus TEI `tlg0062.tlg035.perseus-eng2`; markup CC BY-SA 4.0) |
+| Nigrinus | Austin Morris Harmon | `lucian-perseus-harmon-nigrinus` | have (Perseus TEI `tlg0062.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| My Native Land | Austin Morris Harmon | `lucian-perseus-harmon-my-native-land` | have (Perseus TEI `tlg0062.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Phalaris | Austin Morris Harmon | `lucian-perseus-harmon-phalaris` | have (Perseus TEI `tlg0062.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Lover of Lies, or the Doubter Tychiades | Austin Morris Harmon | `lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad` | have (Perseus TEI `tlg0062.tlg031.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Dead Come to Life, or the Fisherman | Austin Morris Harmon | `lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman` | have (Perseus TEI `tlg0062.tlg025.perseus-eng2`; markup CC BY-SA 4.0) |
+| Essays in Portraiture Defended | Austin Morris Harmon | `lucian-perseus-harmon-essays-in-portraiture-defended` | have (Perseus TEI `tlg0062.tlg040.perseus-eng2`; markup CC BY-SA 4.0) |
+| Prometheus | Austin Morris Harmon | `lucian-perseus-harmon-prometheus` | have (Perseus TEI `tlg0062.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
+| A Professor of Public Speaking | Austin Morris Harmon | `lucian-perseus-harmon-a-professor-of-public-speaking` | have (Perseus TEI `tlg0062.tlg037.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Dream or Lucian’s Career | Austin Morris Harmon | `lucian-perseus-harmon-the-dream-or-lucian-s-career` | have (Perseus TEI `tlg0062.tlg029.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Dream | Emily James Smith | `lucian-perseus-smith-the-dream` | have (Perseus TEI `tlg0062.tlg029.perseus-eng5`; markup CC BY-SA 4.0) |
+| The Carousal, or the Lapiths | Austin Morris Harmon | `lucian-perseus-harmon-the-carousal-or-the-lapiths` | have (Perseus TEI `tlg0062.tlg015.perseus-eng2`; markup CC BY-SA 4.0) |
+| Timon, or the Misanthrope | Austin Morris Harmon | `lucian-perseus-harmon-timon-or-the-misanthrope` | have (Perseus TEI `tlg0062.tlg022.perseus-eng2`; markup CC BY-SA 4.0) |
+| Toxaris; Or, Friendship | Emily James Smith | `lucian-perseus-smith-toxaris-or-friendship` | have (Perseus TEI `tlg0062.tlg044.perseus-eng5`; markup CC BY-SA 4.0) |
+| A True Story | Austin Morris Harmon | `lucian-perseus-harmon-a-true-story` | have (Perseus TEI `tlg0062.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| A True History | Emily James Smith | `lucian-perseus-smith-a-true-history` | have (Perseus TEI `tlg0062.tlg012.perseus-eng5`; markup CC BY-SA 4.0) |
+| Philosophies for Sale | Austin Morris Harmon | `lucian-perseus-harmon-philosophies-for-sale` | have (Perseus TEI `tlg0062.tlg024.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Sale of Lives | Emily James Smith | `lucian-perseus-smith-the-sale-of-lives` | have (Perseus TEI `tlg0062.tlg024.perseus-eng5`; markup CC BY-SA 4.0) |
+| Loukios, or the Ass | Emily James Smith | `lucian-perseus-smith-loukios-or-the-ass` | have (Perseus TEI `tlg0061.tlg001.perseus-eng1`; markup CC BY-SA 4.0) |
+| The Cynic | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-the-cynic` | have (Perseus TEI `tlg0061.tlg006.perseus-eng1`; markup CC BY-SA 4.0) |
+| Demosthenes: an Encomium | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-demosthenes-an-encomium` | have (Perseus TEI `tlg0061.tlg003.perseus-eng1`; markup CC BY-SA 4.0) |
+| The Halcyon | Emily James Smith | `lucian-perseus-smith-the-halcyon` | have (Perseus TEI `tlg0061.tlg004.perseus-eng1`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Harmon's Loeb (1913-); Francklin's complete Lucian (1780).
 
