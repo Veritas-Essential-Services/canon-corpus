@@ -192,3 +192,6 @@
 
 ## 2026-10-02 17:16 CDT — perkins done
 - `pipeline/perkins_shelf.json`: the Workes (Legatt, 1616-18), 3 vols, EEBO scans, raw IA OCR, about 15 MB. The three are vols. 1-3 of one IA series; the printer's name occurs in each. OCR 71-77%, the roughest on this lane: early 17th-century type. Good for finding a passage, not for quoting one. `--verify`: 0 mismatched. 0 uids minted.
+
+## 2026-10-02 17:18 CDT — andrew-murray done
+- `pipeline/andrew-murray_shelf.json`: 11 CCEL titles and 5 Gutenberg (rights lines passed), about 3 MB; CCEL converted (3,963 units, 2,925 links). Gutenberg's The Spirit-Filled Life is John MacNeil's (Murray wrote the introduction), excluded; Lord, Teach Us To Pray (1896) shares 71% of its 8-word runs with the School of Prayer, kept as an alternate. 0 uids minted.

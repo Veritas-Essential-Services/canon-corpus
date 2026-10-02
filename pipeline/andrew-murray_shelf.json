@@ -1,0 +1,95 @@
+{
+ "_about": "Public-domain Andrew Murray (1828-1917, Dutch Reformed, Wellington, South Africa) for the Word Hoard: his devotional books, all published before 1917. Eleven clean from CCEL and five more from Gutenberg (rights lines checked by the fetcher). Not John Murray, Gilbert Murray or the other Murrays on Gutenberg. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "m/murray",
+ "_name_words": [
+  "murray"
+ ],
+ "_held": {},
+ "ccel": {
+  "amurray-two-covenants": [
+   "covenants",
+   "The Two Covenants",
+   ""
+  ],
+  "amurray-deeper-christian-life": [
+   "deeper",
+   "The Deeper Christian Life",
+   ""
+  ],
+  "amurray-master-s-indwelling": [
+   "indwelling",
+   "The Master's Indwelling",
+   ""
+  ],
+  "amurray-lord-s-table": [
+   "lords_table",
+   "The Lord's Table",
+   ""
+  ],
+  "amurray-new-life": [
+   "new_life",
+   "The New Life: Words of God for Young Disciples",
+   ""
+  ],
+  "amurray-school-obedience": [
+   "obedience",
+   "The School of Obedience",
+   ""
+  ],
+  "amurray-with-christ-in-school-prayer": [
+   "prayer",
+   "With Christ in the School of Prayer",
+   ""
+  ],
+  "amurray-absolute-surrender": [
+   "surrender",
+   "Absolute Surrender",
+   ""
+  ],
+  "amurray-true-vine": [
+   "true_vine",
+   "The True Vine",
+   ""
+  ],
+  "amurray-waiting-god": [
+   "waiting",
+   "Waiting on God",
+   ""
+  ],
+  "amurray-working-god": [
+   "working",
+   "Working for God",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "amurray-holy-in-christ": [
+   26990,
+   "Holy in Christ"
+  ],
+  "amurray-humility": [
+   57121,
+   "Humility: The Beauty of Holiness"
+  ],
+  "amurray-ministry-intercession": [
+   29296,
+   "The Ministry of Intercession: A Plea for More Prayer"
+  ],
+  "amurray-jesus-himself": [
+   26003,
+   "'Jesus Himself' (1893)"
+  ],
+  "amurray-money": [
+   41994,
+   "Money: Thoughts for God's Stewards"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "Gutenberg 12854 (The Master's Indwelling); 19572 (Absolute Surrender and Other Addresses)": "The same books as CCEL's clean files, which are held.",
+  "Gutenberg 26709 (Lord, Teach Us To Pray, 1896)": "Measured 2026-10-02: 71% of its 8-word runs also occur in CCEL's With Christ in the School of Prayer, which is held; largely the same text."
+ },
+ "_excluded": {
+  "Gutenberg 33247 (The Spirit-Filled Life)": "By John MacNeil; Murray wrote only the introduction."
+ }
+}

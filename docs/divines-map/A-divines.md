@@ -774,3 +774,14 @@ No CCEL, Gutenberg or later collected edition. The Workes (printed by John Legat
 | The Workes, vols. 1-3 (1616, 1617, 1618) | have-raw | IA `bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1616_1`, `_1617_2`, `_1618_3` |
 | Workes of 1603-1635, broken sets; separate treatises | alternate | the 1616-18 set is held |
 | Sir William Perkins (d. 1696); Francis Perkins's almanacs | excluded | other men |
+
+## Andrew Murray (round 4, my pick, 2026-10-02)
+
+Devotional books, all published before his death in 1917: eleven clean from CCEL, five from Gutenberg.
+
+| Work | Status | Where |
+|---|---|---|
+| The Two Covenants; The Deeper Christian Life; The Master's Indwelling; The Lord's Table; The New Life; The School of Obedience; With Christ in the School of Prayer; Absolute Surrender; The True Vine; Waiting on God; Working for God | have | CCEL `m/murray` (`amurray-*`) |
+| Holy in Christ; Humility; The Ministry of Intercession; 'Jesus Himself' (1893); Money | have | Gutenberg 26990, 57121, 29296, 26003, 41994 |
+| Lord, Teach Us To Pray (1896) | alternate | 71% of it is in the School of Prayer, which is held |
+| The Spirit-Filled Life (Gutenberg 33247) | excluded | by John MacNeil; Murray's introduction only |
