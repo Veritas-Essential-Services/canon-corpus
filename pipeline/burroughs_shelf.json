@@ -25,6 +25,22 @@
   "burroughs-four-books-matthew-1659": [
    "fourbooksonelev00burrgoog",
    "Four Books on the Eleventh of Matthew (London, 1659)"
+  ],
+  "burroughs-rare-jewel-1649": [
+   "bim_early-english-books-1641-1700_the-rare-jewel-of-christ_burroughes-jeremiah_1649",
+   "The Rare Jewel of Christian Contentment (London, 1649 printing)"
+  ],
+  "burroughs-irenicum-1653": [
+   "bim_early-english-books-1641-1700_irenicum-to-the-lovers-_burroughes-jeremiah_1653",
+   "Irenicum, to the Lovers of Truth and Peace (London, 1653; EEBO scan)"
+  ],
+  "burroughs-saints-treasury-1656": [
+   "bim_early-english-books-1641-1700_the-saints-treasury_burroughes-jeremiah_1656",
+   "The Saints' Treasury: Sundry Sermons (London, 1656 printing; EEBO scan)"
+  ],
+  "burroughs-glorious-name-1643": [
+   "bim_early-english-books-1641-1700_the-glorious-name-of-god_burroughes-jeremiah_1643_0",
+   "The Glorious Name of God, the Lord of Hosts: Two Sermons (London, 1643; EEBO scan)"
   ]
  },
  "_alternates": {
@@ -32,17 +48,17 @@
   "irenicvmtolovers00burr (1646), irenicvmtolover00burrgoog": "Other printings of Irenicum.",
   "moseshischoicew00burrgoog (1641)": "Another printing of Moses his Choice.",
   "saintshappiness00greegoog (1660)": "First printing of The Saints' Happiness; Nichol 1867 held.",
-  "two-treatises": "A user upload ('Two Treatises on Earthly Mindedness and Heavenly Conversation', 1656) with no library provenance; not fetched until its source is known."
+  "two-treatises": "A user upload ('Two Treatises on Earthly Mindedness and Heavenly Conversation', 1656) with no library provenance; not fetched until its source is known.",
+  "rarejewelchrist00burrgoog (1651); bim_early-english-books-*_the-rare-jewel-of-christ_burroughes-jeremiah_1651/1652/1655/1659": "Other printings of The Rare Jewel. The 1651 Google scan never names Burroughs in its OCR and was refused; the 1649 EEBO scan, which does, is held.",
+  "irenicumtothelov00burruoft": "Refused by the identity check (OCR never names Burroughs); an EEBO scan that does is held as burroughs-irenicum-1653.",
+  "saintstreasuryb00burrgoog": "Refused by the identity check (OCR never names Burroughs); an EEBO scan that does is held as burroughs-saints-treasury-1656.",
+  "gloriousnamegod00burrgoog": "Refused by the identity check (OCR never names Burroughs); an EEBO scan that does is held as burroughs-glorious-name-1643."
  },
  "_excluded": {
   "isbn_9781240422135": "modern print-on-demand reprint",
   "causesevilscures00asbu (1849), causesevilsandc00baxtgoog (1855)": "abridgements extracted by other hands"
  },
  "_pending": {
-  "Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils": "no scan verified yet",
-  "rarejewelchrist00burrgoog (The Rare Jewel of Christian Contentment (London, 1651))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye.",
-  "irenicumtothelov00burruoft (Irenicum, to the Lovers of Truth and Peace (London, 1653))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye.",
-  "saintstreasuryb00burrgoog (The Saints' Treasury: Sundry Sermons (London, 1654))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye.",
-  "gloriousnamegod00burrgoog (The Glorious Name of God, the Lord of Hosts: Two Sermons (London, 1643))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye."
+  "Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils": "no scan verified yet"
  }
 }

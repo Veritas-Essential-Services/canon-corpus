@@ -13,7 +13,7 @@ Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-d
 | Horatius Bonar (prose) | horatius-bonar_shelf.json | 2 CCEL | 24 | 3 refused scans, How Shall I Go to God, Light and Truth: Revelation | hymns (see hymn manifest), edited works |
 | Andrew Bonar | andrew-bonar_shelf.json | 2 Gutenberg | 16 | Visitor's Book of Texts | Andrew Redman Bonar, Bonar Law |
 | Adolph Saphir | saphir_shelf.json | 0 (none exists) | 11 | Christ and the Scriptures, Jesus and the Sinner | other Saphirs |
-| Jonathan Edwards (gap audit) | edwards_shelf.json | unchanged | +6 first editions/early printings | Distinguishing Marks 1741, Humble Attempt 1747, Freedom of Will 1754 | Yale-only texts |
+| Jonathan Edwards (gap audit) | edwards_shelf.json | unchanged | +8 first editions/early printings (incl. Distinguishing Marks 1742, Humble Attempt 1747) | Distinguishing Marks 1741 first printing, Freedom of Will 1754 | Yale-only texts |
 | Aquinas Summa (census) | none needed | the whole Summa is already held | | | |
 
 126 items fetched this burn (120 for the six authors, 6 Edwards gaps), about 93 MB. None are minted: **every new slug awaits your single-writer uid pass.**
@@ -30,7 +30,7 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | Richard Baxter | baxter_shelf.json | 4 CCEL (Reformed Pastor, Saints' Rest, Call to the Unconverted, Causes and Danger) + 4 Gutenberg (Christian Directory) | 23 (Orme Practical Works 1830, complete) | Reliquiae Baxterianae, controversial works | Wesley abridgement, a CCEL stub |
 | Thomas Brooks | brooks_shelf.json | 0 (no CCEL or Gutenberg) | 6 (Grosart Complete Works 1866-67, complete) | a clean Precious Remedies | Welsh translation, anthology, other Brookses |
 | Thomas Goodwin | goodwin_shelf.json | 0 (none exists) | 12 (Nichol Works 1861-66, complete) | a clean Heart of Christ | two other Goodwins on PG and CCEL |
-| Samuel Rutherford | rutherford_shelf.json | 2 CCEL (Letters selection, Trial and Triumph of Faith); Bonar's Letters and two sermon books stay on the Andrew Bonar shelf | 3 (Lex, Rex 1843; Free Disputation 1649; Covenant of Life Opened 1655) | 3 refused 1640s scans; Spiritual Antichrist; Latin works | S. R. Crockett |
+| Samuel Rutherford | rutherford_shelf.json | 2 CCEL (Letters selection, Trial and Triumph of Faith); Bonar's Letters and two sermon books stay on the Andrew Bonar shelf | 4 (Lex, Rex 1843; Free Disputation 1649; Covenant of Life Opened 1655; Due Right of Presbyteries 1644) | Christ Dying 1647, Divine Right 1646 (refused scans); Spiritual Antichrist; Latin works | S. R. Crockett |
 | R. M. M'Cheyne (prose) | mcheyne_shelf.json | 0 new (Bonar's Memoir already on the Andrew Bonar shelf) | 5 (Works 1847, 2 vols; Additional Remains 1849; Familiar Letters 1848; Sermons 1863) | none | hymns (see hymn manifest), Gaelic translations |
 | Matthew Henry | matthew-henry_shelf.json | 7 CCEL (the whole Commentary in 6 vols + Concise) | 2 (Miscellaneous Works 1830; Life of Philip Henry) | Complete Works 1847 (vol. 1 only found) | German translation |
 | John Calvin (English) | calvin_shelf.json | Institutes (Beveridge) + Relics from CCEL; Letters vols 1-2 from Gutenberg (the 45 CTS commentaries were already held) | 5 (Letters vols 3-4; CTS Tracts 3 vols) | Allen's Institutes | French sermons, Latin stubs, 1970s reprints |
@@ -46,7 +46,7 @@ The coordinator's list was done by 16:32 CDT with most of the burn left, so lane
 | Thomas Manton | manton_shelf.json | 9 CCEL volumes of the Works (1-8, 20) | 13 (the other Nisbet volumes; Works complete, 22 vols) | none | none |
 | Thomas Boston | boston_shelf.json | 1 CCEL (The Crook in the Lot) | 12 (M'Millan Whole Works 1848-52, complete) | a clean Fourfold State | none |
 | William Gurnall | gurnall_shelf.json | 0 (CCEL's file is a stub) | 1 (The Christian in Complete Armour, 1862) | a clean Complete Armour | Welsh translation |
-| Jeremiah Burroughs | burroughs_shelf.json | 0 (none exists) | 4 (Hosea 1863, Saints' Happiness 1867, Moses his Choice 1650, Four Books on Matthew 11 1659) | Rare Jewel and 3 more refused scans | modern reprint, abridgements |
+| Jeremiah Burroughs | burroughs_shelf.json | 0 (none exists) | 8 (Hosea 1863, Saints' Happiness 1867, Moses his Choice 1650, Four Books on Matthew 11 1659, Rare Jewel 1649, Irenicum 1653, Saints' Treasury 1656, Glorious Name 1643) | Gospel Worship, Gospel Fear, Evil of Evils | modern reprint, abridgements |
 | John Newton (prose) | newton_shelf.json | 2 CCEL (Messiah, 2 vols) | 7 (Works 1810, 6 vols; Bull's Letters 1869) | none | Olney Hymns (see hymn manifest) |
 | George Whitefield | whitefield_shelf.json | 6 Gutenberg (Works 1771-72, complete) + 1 CCEL (Selected Sermons) | 7 (the Journals, first printings 1739-1756) | second journal | biographies by others |
 | Charles Hodge | hodge_shelf.json | 6 CCEL (Systematic Theology 3 vols + index, Ephesians, What is Darwinism?) | 8 (Romans, 1-2 Corinthians, Way of Life, Essays and Reviews, Church Polity, Conference Papers, Constitutional History) | Princeton Sermons | A. A. Hodge |
@@ -62,4 +62,5 @@ The coordinator's list was done by 16:32 CDT with most of the burn left, so lane
 - Six items the identity check refused because their OCR never names the author (listed under `_pending` in each shelf): shelve them after a look by eye, or leave them out.
 - *An Exhortation to Peace and Unity*: doubted Bunyan attribution; keep it on his shelf or not.
 - Rutherford editions (Letters, two sermon books) sit on the Andrew Bonar shelf as "ed. Bonar": move them to a Rutherford shelf if you prefer.
+- `pipeline/fetch_shelf.py`: a title with only one checkable word ("Works, Dwight ed.") is now flagged, not refused, and a shelf's `_identity_checked` {slug: reason} keeps an item confirmed another way. Without this my check would have refused 9 Edwards volumes you already held. Look at `edwards-worcester-04`'s reason.
 - `pipeline/fetch_shelf.py` now refuses wrong-book scans and takes an explicit IA text file name; `pipeline/convert_shelf.py` is new. Both want your review before merge.

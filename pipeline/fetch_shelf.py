@@ -44,7 +44,15 @@ def get(url, tries=5):
             time.sleep(2 ** i)
     raise RuntimeError(f"{url}: {err}")
 
-def check_identity(r, data, key, names, kind):
+def check_identity(r, data, key, names, kind, override=None):
+    try:
+        _check_identity(r, data, key, names, kind)
+    except RuntimeError as e:
+        if not override:
+            raise
+        r["identity_override"] = f"{e} -- kept: {override}"
+
+def _check_identity(r, data, key, names, kind):
     """Refuse a scan that is not the book the shelf names (lane A, 2026-10-02).
     The title words are looked for in the WHOLE text, not just the head (title
     pages are often lost to OCR); the author's name words (`_name_words`) must
@@ -52,7 +60,13 @@ def check_identity(r, data, key, names, kind):
     all, raises: the file is not written and the item is reported FAILED as a
     MISMATCH. Some but not all title words found is kept and flagged
     `title_weak` for a human to look at. Shelves without `_name_words`, and
-    titles with no checkable word, skip the respective test."""
+    titles with no checkable word, skip the respective test.
+    A title with only ONE checkable word (often an editor's name, as in
+    "Works, Dwight ed., vol. 2") is too thin to refuse on: a miss there is
+    flagged `title_weak`, not refused. A slug listed in the shelf's
+    `_identity_checked` ({slug: reason}) was confirmed another way (content
+    counts, a look by eye): a would-be MISMATCH is kept, flagged
+    `identity_override`, and the reason recorded."""
     full = data.decode("utf-8", "replace").lower()
     seen = {w: (w in full) for w in key}
     r["title_words_in_text"] = seen
@@ -60,7 +74,7 @@ def check_identity(r, data, key, names, kind):
         r["author_seen"] = any(n in full for n in names)
         if not r["author_seen"]:
             raise RuntimeError(f"MISMATCH: no author name {sorted(names)} anywhere in the {kind} text")
-    if key and not any(seen.values()):
+    if len(key) >= 2 and not any(seen.values()):
         raise RuntimeError(f"MISMATCH: none of the title words {key} anywhere in the {kind} text")
     if key and not all(seen.values()):
         r["title_weak"] = True
@@ -75,8 +89,10 @@ def verify(name, shelf, out, skip, names):
         key = [w for w in re.findall(r"[a-z]{5,}", re.sub(r"\(.*?\)", "", title).lower()) if w not in skip][:2]
         r = {}
         try:
-            check_identity(r, open(dest, "rb").read(), key, names, kind)
-            flag = "title_weak" if r.get("title_weak") else "ok"
+            check_identity(r, open(dest, "rb").read(), key, names, kind,
+                           shelf.get("_identity_checked", {}).get(slug))
+            flag = ("identity_override" if r.get("identity_override")
+                    else "title_weak" if r.get("title_weak") else "ok")
         except RuntimeError as e:
             flag = str(e)
             bad.append(slug)
@@ -132,7 +148,8 @@ def main():
             r = {"status": "fetched", "bytes": len(data), "url": url}
             key = [w for w in re.findall(r"[a-z]{5,}", re.sub(r"\(.*?\)", "", title).lower()) if w not in skip][:2]
             r["title_words_seen"] = {w: (w in low) for w in key}
-            check_identity(r, data, key, names, kind)
+            check_identity(r, data, key, names, kind,
+                           shelf.get("_identity_checked", {}).get(slug))
             if kind == "gutenberg":
                 r["pg_copyrighted"] = "copyrighted project gutenberg" in low
                 m = re.search(r"^Translator:\s*(.+)$", head, re.M)
@@ -150,8 +167,11 @@ def main():
         time.sleep(1)
     json.dump(report, open(rep_path + ".tmp", "w"), indent=1)
     os.replace(rep_path + ".tmp", rep_path)
-    bad = [s for s, r in report.items() if r["status"] == "FAILED"]
-    print(f"{len(report)} items, {len(bad)} failed: {bad}")
+    # count only the shelf's current slugs: a report can keep rows for
+    # entries since moved to _pending or _alternates
+    current = {j[0] for j in jobs_for(shelf, name)}
+    bad = [s for s, r in report.items() if s in current and r["status"] == "FAILED"]
+    print(f"{len(current)} items, {len(bad)} failed: {bad}")
 
 if __name__ == "__main__":
     main()

@@ -16,7 +16,8 @@ Shelf: `pipeline/edwards_shelf.json` (built 2026-09-28; gap audit 2026-10-02). B
 | **Added:** Freedom of the Will, London 1762 (earliest printing found) | have-raw | IA `carefulstrictenq1762edwa` |
 | **Added:** Miscellaneous Observations (ed. Erskine, 1793); Remarks on Important Theological Controversies (ed. Erskine, 1796) | have-raw | IA (ECCO scans; long-s OCR is poor) |
 | **Added:** Samuel Hopkins, Life and Character of Jonathan Edwards (1804 printing) | have-raw | IA, about Edwards |
-| Distinguishing Marks, first edition (1741); Humble Attempt, first edition (1747) | pending | ECCO scans found; their OCR never yields Edwards's name, so the fetcher refuses them until checked by eye |
+| Distinguishing Marks (1742 printing); Humble Attempt, first edition (1747) | have-raw | IA scans that name Edwards (`edwards-distinguishing-marks-1742`, `edwards-humble-attempt-1747`) |
+| Distinguishing Marks, first edition (1741) | pending | ECCO scan found; its OCR never yields Edwards's name, so the fetcher refuses it until checked by eye |
 | Freedom of the Will, first edition (Boston, 1754) | pending | not found on IA |
 | Works, 4 vols (New York, 1868, "with valuable additions") | pending | vols 2-4 on IA, vol. 1 not found; the additions not yet identified |
 | Clean text of everything held raw | pending | wishlist |
@@ -400,7 +401,8 @@ There is no collected Works. Bonar's editions of the Letters and of two sermon b
 | Lex, Rex, or The Law and the Prince (Edinburgh, 1843 reprint) | have-raw | IA `lexrexorlawprinc00ruth` |
 | A Free Disputation against Pretended Liberty of Conscience (London, 1649) | have-raw | IA `freedisputationa00ruth` (title words partly unread: long s) |
 | The Covenant of Life Opened (Edinburgh, 1655) | have-raw | IA `covenli00ruth` |
-| Christ Dying and Drawing Sinners (1647); The Due Right of Presbyteries (1644); The Divine Right of Church-Government (1646) | pending | scans found, but their OCR never names Rutherford, so the fetcher refused them; check by eye |
+| The Due Right of Presbyteries (London, 1644) | have-raw | IA EEBO scan (`rutherford-due-right-1644`); the library scan was refused |
+| Christ Dying and Drawing Sinners (1647); The Divine Right of Church-Government (1646) | pending | scans found, but their OCR never names Rutherford, so the fetcher refused them; no passing scan found; check by eye |
 | A Survey of the Spiritual Antichrist (1648); The Influences of the Life of Grace (1659); the Latin works | pending | not yet found or searched |
 | Joshua Redivivus (1796, 1818) and other Letters editions | alternate | Bonar's Letters held |
 | S. R. Crockett's novels | excluded | different person |
@@ -586,7 +588,7 @@ No collected Works, no CCEL, no Gutenberg. Two Nichol reprints (Hosea 1863, Sain
 | The Saints' Happiness: Lectures on the Beatitudes (Edinburgh: James Nichol, 1867) | have-raw | IA `saintshappinesst00burr` |
 | Moses his Choice, with his Eye Fixed upon Heaven (London, 1650) | have-raw | IA `moseshischoicewi00burr` |
 | Four Books on the Eleventh of Matthew (London, 1659) | have-raw | IA `fourbooksonelev00burrgoog` |
-| The Rare Jewel of Christian Contentment (1651); Irenicum (1653); The Saints' Treasury (1654); The Glorious Name of God (1643) | pending | scans found, but their OCR never names Burroughs, so the fetcher refused them; check by eye |
+| The Rare Jewel of Christian Contentment (London, 1649); Irenicum (1653); The Saints' Treasury (1656); The Glorious Name of God (1643) | have-raw | IA EEBO scans that name Burroughs (`burroughs-rare-jewel-1649`, `-irenicum-1653`, `-saints-treasury-1656`, `-glorious-name-1643`); the Google/library scans were refused; Irenicum flagged `title_weak` |
 | Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils | pending | no scan verified yet |
 | A clean Rare Jewel | wishlist | no PD machine-readable edition found |
 

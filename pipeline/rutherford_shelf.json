@@ -36,6 +36,10 @@
   "rutherford-covenant-life-1655": [
    "covenli00ruth",
    "The Covenant of Life Opened (Edinburgh, 1655)"
+  ],
+  "rutherford-due-right-1644": [
+   "bim_early-english-books-1641-1700_the-due-right-of-presbyt_rutherford-samuel_1644",
+   "The Due Right of Presbyteries (London, 1644; EEBO scan)"
   ]
  },
  "_alternates": {
@@ -44,7 +48,8 @@
   "trialtriumphoffa1845ruth, trialtrium00ruth, bim_eighteenth-century_the-trial-and-triumph-of_rutherford-samuel_1743": "Other printings of The Trial and Triumph of Faith; CCEL's is held.",
   "joshuaredivivuso00ruthiala (1818), joshdivo00ruth (1796), lettersofrevsamu1834ruth/1867ruth/1891ruth, lettersofsamuelr1894ruth, lettersofsamuelr0000ruth_d0y1, lettersofsamuelr00ruthrich, in.ernet.dli.2015.219418": "Earlier and later editions of the Letters (Joshua Redivivus); Bonar's text is held on the Andrew Bonar shelf.",
   "fourtcomm00ruth, quaintsermonsofs00ruth*": "Scans of the Bonar-edited sermons already on the Andrew Bonar shelf.",
-  "bim_early-english-books-*": "EEBO duplicates of the 1640s first editions."
+  "bim_early-english-books-*": "EEBO duplicates of the 1640s first editions.",
+  "duerightofpresby00ruth": "Due Right of Presbyteries (1644), library scan: its OCR never names Rutherford, so it was refused; the EEBO scan of the same edition, which does, is held."
  },
  "_excluded": {
   "S. R. Crockett novels (about 100 items)": "Samuel Rutherford Crockett (1860-1914): a different person",
@@ -56,7 +61,6 @@
   "Exercitationes Apologeticae pro Divina Gratia (1636); Disputatio Scholastica de Divina Providentia (1649); Examen Arminianismi (1668)": "Latin works; not searched this burn",
   "A Survey of the Spiritual Antichrist (1648); The Influences of the Life of Grace (1659)": "no scan verified yet",
   "christd00ruth (Christ Dying and Drawing Sinners to Himself (London, 1647))": "refused by the fetcher's identity check 2026-10-02: the 1640s OCR never names Rutherford (title page reads only initials or is lost). Shelve after a look by eye at the scan.",
-  "duerightofpresby00ruth (The Due Right of Presbyteries (London, 1644))": "refused by the fetcher's identity check 2026-10-02: the 1640s OCR never names Rutherford (title page reads only initials or is lost). Shelve after a look by eye at the scan.",
   "divinerightofchu00ruth (The Divine Right of Church-Government and Excommunication (London, 1646))": "refused by the fetcher's identity check 2026-10-02: the 1640s OCR never names Rutherford (title page reads only initials or is lost). Shelve after a look by eye at the scan."
  }
 }
