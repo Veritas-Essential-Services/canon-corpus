@@ -6,7 +6,7 @@ build_english_versification.py -- the historic English Bibles -> KJV verse
 maps, so a verse cited in a Bible's own numbering (geneva:Num.13.1) lands on
 the kjv: unit holding the same text (kjv:Num.12.16).
 
-    python3 pipeline/build_english_versification.py --fetch          # the five, pinned
+    python3 pipeline/build_english_versification.py --fetch          # every source, pinned
     python3 pipeline/build_english_versification.py                  # build every map
     python3 pipeline/build_english_versification.py geneva           # build one
     python3 pipeline/build_english_versification.py --check          # rebuild: byte-identical
@@ -20,6 +20,11 @@ Geneva follows the Hebrew in Num 13, 1 Sam 24, Dan 4, Hos 14...), its verses
 were poured into the KJV's slots in order, and a chapter's overflow merged
 into the chapter's last slot. The unit ids are the slots: the Bible's own
 numbers, except that a merged last slot holds more than its number says.
+The Tudor Bibles scrollmapper lacks come from Bible SuperSearch, on the same
+grid (fetch_sources.ENGLISH_BSS); Coverdale and Tyndale printed no verse
+numbers, so there the numbers are the transcription's. They are compared in
+folded spelling (OLD_SPELLING), and Coverdale's Psalter, which follows the
+Latin's division, is where the alignment does most of the work.
 
 THE MAP IS READ OFF THE WORDS. These are English Bibles of the same tradition
 as the KJV, so each chapter is aligned against the KJV's English (a monotonic
@@ -65,6 +70,12 @@ _EMPTY = ("the slot before it is empty: the transcription puts both verses' word
 _SHIFT18 = "Young's numbers in Genesis 18:11-14 run one ahead of the KJV's"
 _PHIL = ("Phil 1:16-17 in the order of the Greek the revisers followed: the KJV's two "
          "verses swapped")
+_HOLDS = ("the verse holds the words of both KJV verses (the slot after or before it is "
+          "empty or holds other words); read in both texts")
+_COVPS = ("Coverdale's Psalter (from the Latin) divides the psalm otherwise; read in both "
+          "texts")
+_ROM3 = ("the Latin Psalter's longer Ps 14:3 (13:3 in the Vulgate), the words of Rom "
+         "3:13-18, which Coverdale translates and the Hebrew and the KJV lack")
 HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
     "geneva": {
         "Num.13.33": (["Num.13.32", "Num.13.33"], "For there we sawe gyant",
@@ -96,6 +107,27 @@ HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
                      "Young's 1:17 ends with the KJV's 2:1; his 2:1-2 are the KJV's 2:2"),
         "Zech.7.6": (["Zech.7.5", "Zech.7.6"], "When ye fasted with mourning",
                      "Young's 7:6 opens with the second half of the KJV's 7:5"),
+    },
+    "coverdale": {
+        "Exod.38.14": (["Exod.38.14", "Exod.38.15"], "vpon either syde of the courte dore",
+                       _HOLDS),
+        "Deut.14.19": (["Deut.14.19"], "And all foules yt crepe",
+                       "the KJV's 14:19 only: the words of 14:20 ('of all clean fowls ye may "
+                       "eat') are in no verse of this transcription"),
+        "1Kgs.6.32": (["1Kgs.6.31", "1Kgs.6.32"], "he made two dores of olyue", _HOLDS),
+        "Ps.14.2": (["Ps.14.2", "Ps.14.3"], "But they are all gone out of the waye", _COVPS),
+        "Ps.14.3": ([], "Their throte is an open sepulcre", _ROM3),
+        "Ps.14.4": ([], "their fete are swift to shed bloude", _ROM3),
+        "Ps.18.46": (["Ps.18.45"], "The straunge children are waxe olde", _COVPS),
+        "Ps.40.14": (["Ps.40.15"], "that crie ouer me: there there", _COVPS),
+        "Ps.40.16": (["Ps.40.17"], "As for me, I am poore", _COVPS),
+        "Ps.79.13": (["Ps.79.12", "Ps.79.13"], "rewarde the (o LORDE) seuefolde", _COVPS),
+        "Ps.93.2": (["Ps.93.1"], "he hath made the rounde worlde so sure", _COVPS),
+        "Ps.93.4": (["Ps.93.3"], "The floudes aryse", _COVPS),
+        "Ps.93.5": (["Ps.93.4", "Ps.93.5"], "The wawes of the see are mightie", _COVPS),
+        "Ps.130.1": (["Ps.130.1", "Ps.130.2"], "LORDE heare my voyce", _COVPS),
+        "Hab.3.4": (["Hab.3.3", "Hab.3.4"], "His glory couereth the heauens",
+                    "the second half of the KJV's 3:3 opens Coverdale's 3:4"),
     },
     "darby": {
         "Phil.1.16": (["Phil.1.17"], "These indeed out of love", _PHIL),
@@ -142,34 +174,60 @@ def kjv_books():
 def verses(slug):
     """[(ref, text)] of the Bible's slots that have text, in order, with OSIS
     book ids (the file holds the 66 books in the KJV's order)."""
+    out = []
+    for ref, raw in slots(slug):
+        t = re.sub(r"\s+", " ", raw).strip()
+        if t:
+            out.append((ref, t))
+    return out
+
+
+def slots(slug):
+    """[(ref, text as the source has it)] of every slot in the file, in order."""
     e = FS.ENGLISH[slug]
     p = os.path.join(CORPUS, e["file"])
     if not os.path.exists(p) or BVV.BV.sha256(p) != e["sha256"]:
         _stop(f"{e['file']} missing or changed. Run --fetch.")
-    with open(p, encoding="utf-8") as f:
-        data = json.load(f)
     books = kjv_books()
-    if len(data["books"]) != len(books):
-        _stop(f"{slug}: {len(data['books'])} books, expected {len(books)}")
-    out = []
-    for osis, book in zip(books, data["books"]):
-        for ch in book["chapters"]:
-            for v in ch["verses"]:
-                t = re.sub(r"\s+", " ", v["text"]).strip()
-                if t:
-                    out.append((f"{osis}.{ch['chapter']}.{v['verse']}", t))
-    return out
+    try:
+        rows = FS.english_slots(slug, p, len(books))
+    except (ValueError, RuntimeError) as x:
+        _stop(str(x))
+    return [(f"{books[n - 1]}.{c}.{v}", t) for n, _name, c, v, t in rows]
 
 
 def empty_slots(slug):
-    e = FS.ENGLISH[slug]
-    with open(os.path.join(CORPUS, e["file"]), encoding="utf-8") as f:
-        data = json.load(f)
-    return [f"{o}.{c['chapter']}.{v['verse']}" for o, b in zip(kjv_books(), data["books"])
-            for c in b["chapters"] for v in c["verses"] if not v["text"].strip()]
+    return [r for r, t in slots(slug) if not t.strip()]
 
 
 # ---------------------------------------------------------------- alignment
+
+# Tudor spelling hides agreement from the plain tokens (Coverdale agrees with
+# the KJV's same-numbered verse at a mean Dice of 0.31 with them; 0.53 with
+# these). Both sides are folded the same way: v->u, j->i, y->i, ck->k,
+# doubled letters single, a final -e dropped ("heauen"/"heaven" -> "heauen",
+# "fete"/"feet" -> "fet"). Only the Bibles named here read this way, so the
+# five maps built before it are unchanged.
+OLD_SPELLING = {"coverdale"}
+
+
+def _fold(w):
+    w = w.replace("v", "u").replace("j", "i").replace("y", "i").replace("ck", "k")
+    w = re.sub(r"(.)\1+", r"\1", w)
+    return w[:-1] if len(w) > 3 and w.endswith("e") else w
+
+
+_OSTOP = {_fold(w) for w in BVV._STOP}
+
+
+def _otoks(t):
+    return {w[:5] for w in (_fold(x) for x in re.findall(r"[a-z]+", t.lower()))
+            if w not in _OSTOP and len(w) > 2}
+
+
+def tokens_for(slug):
+    return _otoks if slug in OLD_SPELLING else BVV._etoks
+
 
 def align(D, K):
     """Monotonic alignment of token sets D (the Bible's verses) against K (the
@@ -204,10 +262,11 @@ def align(D, K):
 
 
 def compute(slug):
+    tok = tokens_for(slug)
     kj = kjv()
     kord = list(kj)
     kidx = {k: i for i, k in enumerate(kord)}
-    KT = [BVV._etoks(kj[k]) for k in kord]
+    KT = [tok(kj[k]) for k in kord]
     vs = verses(slug)
     text = dict(vs)
     house = HOUSE_ROWS.get(slug, {})
@@ -218,7 +277,7 @@ def compute(slug):
     for ch, refs in chapters.items():
         book = ch.split(".")[0]
         same = [kidx.get(r) for r in refs]
-        D = [BVV._etoks(text[r]) for r in refs]
+        D = [tok(text[r]) for r in refs]
         id_score = sum(BVV._dice(D[i], KT[same[i]]) if same[i] is not None else 0
                        for i in range(len(refs))) / len(refs)
         ks = [i for i, k in enumerate(kord) if k.rsplit(".", 1)[0] == ch]
@@ -291,7 +350,7 @@ def compute(slug):
             continue
 
         def gain(x):
-            T = BVV._etoks(text[x])
+            T = tok(text[x])
             return (BVV._dice(T, set().union(*(KT[kidx[e]] for e in target[x] + gap)))
                     - BVV._dice(T, set().union(*(KT[kidx[e]] for e in target[x]))))
         ga = gain(a) if a not in house else -1
@@ -340,6 +399,16 @@ HOUSE_MISSING = {    # {slug: {KJV verse: why the Bible has no verse for it}}
                          "not print; its 5:7-8 are the KJV's 5:6b and 5:8"},
     "geneva": {"Song.1.1": "the title (\"The song of songs, which is Solomon's\"): the "
                            "Geneva prints it as the book's heading, not as a verse"},
+    "coverdale": {**{v: "this transcription has no words for it: the source's slot reads "
+                        "'(Omitted Text)', and the verses around it do not hold its words"
+                     for v in ["Lev.15.23", "Num.7.64", "Josh.15.52", "Josh.15.53",
+                               "Josh.15.54", "Neh.13.27", "Mark.6.46", "Mark.11.26",
+                               "Luke.17.36", "Rev.21.26"]},
+                  "Deut.14.20": "this transcription has no words for it: the source's slot "
+                                "reads '(Omitted Text)', and 14:19 holds only the KJV's 14:19",
+                  "Ps.136.24": "this transcription has no words for it ('And hath redeemed "
+                               "us from our enemies'): its 136:24-25 are the KJV's 136:25-26, "
+                               "and its 136:26 reads '(Omitted Text)'"},
 }
 
 
@@ -376,23 +445,26 @@ def build(slug):
     for v, es in r["target"].items():
         for k in es:
             shared.setdefault(k, []).append(v)
+    module = ("the CrossWire module the source was built from" if e.get("source") != "bss"
+              else "Bible SuperSearch's module")
     return {
         "note": (f"{e['title']} -> KJV verse numbers. Only the verses whose KJV reference "
                  "differs are in `map`; any other verse not named in `no_kjv_verse` has the "
-                 "same reference in the KJV. The ids are the slots of the CrossWire module "
-                 "the source was built from (the KJV's grid): the Bible's own numbers, except "
+                 f"same reference in the KJV. The ids are the slots of {module} "
+                 "(the KJV's grid): the Bible's own numbers, except "
                  "where it numbers otherwise and a chapter's overflow sits merged in its last "
                  "slot (a list value: one verse holding several KJV verses). "
                  "`aligned_chapters` are the chapters read off the English, with how well "
                  "the same numbers and the alignment agree with the KJV. Built by "
                  "pipeline/build_english_versification.py; do not hand-edit."),
         "from": slug, "to": "kjv",
-        "source": {"name": e["title"], "repo": FS.ENGLISH_PIN["repo"],
-                   "commit": FS.ENGLISH_PIN["commit"],
-                   "path": f"{FS.ENGLISH_PIN['dir']}/{e['file'].rsplit('.', 1)[0]}/{e['file']}",
-                   "sha256": e["sha256"], "rights_line": e["readme"]},
+        "source": FS.english_source(slug),
         "rights": {"license": "public-domain",
                    "note": "the house's own reading of two public-domain texts"},
+        **({"tokens": "old spelling folded on both sides before comparing (v/u, j/i, y/i, "
+                      "ck/k, doubled letters, final -e): build_english_versification._fold"}
+           if slug in OLD_SPELLING else {}),
+        **({"coverage": e["coverage"]} if e.get("source") == "bss" and "coverage" in e else {}),
         "checked_against": {"kjv": os.path.relpath(KJV_TSV, ROOT),
                             "verses": len(r["refs"]), "books": len(r["books"]),
                             "verses_landing_on_no_kjv_verse_unexplained": 0,
@@ -422,17 +494,18 @@ def audit(slug, show=80):
     spelling makes many verses agree weakly with every KJV verse; this lists
     only the ones some other nearby verse plainly fits."""
     r = compute(slug)
+    tok = tokens_for(slug)
     kj = kjv()
     kord = r["kord"]
     kidx = {k: i for i, k in enumerate(kord)}
-    toks = {k: BVV._etoks(t) for k, t in kj.items()}
+    toks = {k: tok(t) for k, t in kj.items()}
     print(f"{slug}: aligned chapters {r['aligned_chapters']}")
     flags = []
     for v in r["refs"]:
         es = r["target"].get(v, [])
         if not es:
             continue
-        T = BVV._etoks(r["text"][v])
+        T = tok(r["text"][v])
         s = BVV._dice(T, set().union(*(toks[e] for e in es)))
         i = kidx[es[0]]
         near = max(((BVV._dice(T, toks[kord[x]]), kord[x])

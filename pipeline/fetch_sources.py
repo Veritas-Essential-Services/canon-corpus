@@ -164,7 +164,9 @@ def fetch_douay():
 # slot. build_english_versification.py measures each against the KJV's
 # English. Rights lines, read 2026-10-02 in each folder's README.md at the
 # pin ("**License:** Public Domain" for all five; the folder's KJV, built
-# from a module with Strong's markup, says GPL and is not used).
+# from a module with Strong's markup, says GPL and is not used). The Tudor
+# Bibles scrollmapper lacks come from Bible SuperSearch ("source": "bss",
+# ENGLISH_BSS below), on the same KJV grid.
 ENGLISH = {
     "geneva": {"file": "Geneva1599.json", "title": "The Geneva Bible (1599)",
                "author": "the Geneva translators (Whittingham and others)", "year": 1599,
@@ -190,9 +192,86 @@ ENGLISH = {
             "author": "the American Revision Committee", "year": 1901,
             "sha256": "1589f16be31b2aa2e9374951ac2ba1ce9566bf3704248b2daf034b3ff9b47b40",
             "readme": "# ASV: American Standard Version (1901) / **License:** Public Domain"},
+    # From here, "source": "bss": Bible SuperSearch (ENGLISH_BSS below).
+    "coverdale": {"file": "bss-coverdale.json", "source": "bss", "module": "coverdale",
+                  "title": "The Coverdale Bible (1535)",
+                  "author": "Miles Coverdale (translator)", "year": 1535,
+                  "sha256": "b650b041ede53f3d09af02a9048b33643630b719da15b7a144fbcd8ebf2d755e",
+                  "readme": "This Bible is in the Public Domain.",
+                  "coverage": "the 66 books of the Protestant canon; the printed Bible's "
+                              "Apocrypha are not in this transcription",
+                  "numbering": "Coverdale (1535) printed no verse numbers: the numbers are "
+                               "the transcription's, on the KJV's grid",
+                  "rights_finding": "BSS does not name its transcription. The same text is "
+                                    "on textusreceptusbibles.com, whose site terms restrict "
+                                    "reuse; the 1535 text is PD and a verbatim transcription "
+                                    "carries no new US copyright. For Adam: "
+                                    "docs/pending-sources.md"},
 }
 ENGLISH_PIN = {"repo": "scrollmapper/bible_databases",
                "commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c", "dir": "sources/en"}
+
+
+# ENGLISH_BSS -- the Bibles with "source": "bss" come from Bible SuperSearch's
+# download API: one JSON file per Bible, {"metadata": {...}, "verses":
+# [{book_name, book, chapter, verse, text}]}, book = 1-66 in the KJV's order,
+# on the KJV's verse grid. The API is not versioned, so each file is pinned by
+# sha256 together with the module_version and the date it was retrieved, and
+# the reader stops on another module_version. Rights line, read 2026-10-02 in
+# each file's own metadata.copyright_statement: "This Bible is in the Public
+# Domain." BSS does not say where its transcriptions came from. The same
+# Coverdale text is on textusreceptusbibles.com, whose site terms restrict
+# reuse; those are website terms, the 16th-century text is PD, and a verbatim
+# transcription carries no new US copyright. A finding for Adam, not a cleared
+# licence: docs/pending-sources.md.
+ENGLISH_BSS = {"api": "https://api.biblesupersearch.com/api/download?bible={module}&format=json",
+               "module_version": "6.2.0", "retrieved": "2026-10-02",
+               "home": "https://www.biblesupersearch.com/bible-downloads/"}
+BSS_OMITTED = "(Omitted Text)"   # BSS's placeholder in a slot with no words
+
+
+def english_url(slug):
+    e = ENGLISH[slug]
+    if e.get("source") == "bss":
+        return ENGLISH_BSS["api"].format(module=e["module"])
+    folder = e["file"].rsplit(".", 1)[0]
+    return (f"https://raw.githubusercontent.com/{ENGLISH_PIN['repo']}/"
+            f"{ENGLISH_PIN['commit']}/{ENGLISH_PIN['dir']}/{folder}/{e['file']}")
+
+
+def english_source(slug):
+    """The pin of one English Bible's source, as its map records it."""
+    e = ENGLISH[slug]
+    if e.get("source") == "bss":
+        return {"name": e["title"], "api": "Bible SuperSearch", "url": english_url(slug),
+                "module": e["module"], "module_version": ENGLISH_BSS["module_version"],
+                "retrieved": ENGLISH_BSS["retrieved"], "sha256": e["sha256"],
+                "rights_line": e["readme"]}
+    return {"name": e["title"], "repo": ENGLISH_PIN["repo"], "commit": ENGLISH_PIN["commit"],
+            "path": f"{ENGLISH_PIN['dir']}/{e['file'].rsplit('.', 1)[0]}/{e['file']}",
+            "sha256": e["sha256"], "rights_line": e["readme"]}
+
+
+def english_slots(slug, path, nbooks=66):
+    """[(book number 1-66 in the KJV's order, book name, chapter, verse, text)]
+    of one English Bible's file, in the file's order, the text as the source
+    has it ('' for an empty slot). Both source formats read the same way.
+    BSS writes "(Omitted Text)" in a slot the transcription has no words for
+    (Coverdale: 14 slots); that placeholder is read as an empty slot."""
+    import json
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    if ENGLISH[slug].get("source") == "bss":
+        mv = data["metadata"].get("module_version")
+        if mv != ENGLISH_BSS["module_version"]:
+            raise RuntimeError(f"{slug}: module_version {mv} != {ENGLISH_BSS['module_version']}")
+        return [(v["book"], v["book_name"], v["chapter"], v["verse"],
+                 "" if v["text"].strip() == BSS_OMITTED else v["text"])
+                for v in data["verses"]]
+    if len(data["books"]) != nbooks:
+        raise ValueError(f"{slug}: {len(data['books'])} books, expected {nbooks}")
+    return [(n, b["name"], c["chapter"], v["verse"], v["text"])
+            for n, b in enumerate(data["books"], 1) for c in b["chapters"] for v in c["verses"]]
 
 
 def fetch_english(slug):
@@ -203,10 +282,7 @@ def fetch_english(slug):
     p = os.path.join(CORPUS, "english", e["file"])
     if not os.path.exists(p):
         os.makedirs(os.path.dirname(p), exist_ok=True)
-        folder = e["file"].rsplit(".", 1)[0]
-        url = (f"https://raw.githubusercontent.com/{ENGLISH_PIN['repo']}/"
-               f"{ENGLISH_PIN['commit']}/{ENGLISH_PIN['dir']}/{folder}/{e['file']}")
-        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        req = urllib.request.Request(english_url(slug), headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
         with open(p + ".tmp", "wb") as f:
@@ -568,7 +644,11 @@ def main():
         print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
         print(f"github/brenton: {BRENTON['repo']}@{BRENTON['commit'][:7]} -- {BRENTON['note']}")
         for slug, e in ENGLISH.items():
-            print(f"github/{slug}: {ENGLISH_PIN['repo']}@{ENGLISH_PIN['commit'][:7]} -- "
+            if e.get("source") == "bss":
+                print(f"bss/{slug}: Bible SuperSearch '{e['module']}' "
+                      f"v{ENGLISH_BSS['module_version']} -- {e['title']}; PD")
+                continue
+            print(f"github/{slug}:{ENGLISH_PIN['repo']}@{ENGLISH_PIN['commit'][:7]} -- "
                   f"{e['title']}; PD")
         return
     failures = []
@@ -613,11 +693,12 @@ def main():
         print(f"github/brenton: {fetch_brenton()}")
     except Exception as e:
         failures.append("brenton"); print(f"github/brenton: FAIL {e}")
-    for slug in ENGLISH:
+    for slug, en in ENGLISH.items():
+        src = "bss" if en.get("source") == "bss" else "github"
         try:
-            print(f"github/{slug}: {fetch_english(slug)}")
+            print(f"{src}/{slug}: {fetch_english(slug)}")
         except Exception as e:
-            failures.append(slug); print(f"github/{slug}: FAIL {e}")
+            failures.append(slug); print(f"{src}/{slug}: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":

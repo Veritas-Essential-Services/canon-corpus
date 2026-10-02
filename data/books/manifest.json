@@ -4494,5 +4494,31 @@
    "source_url": "https://github.com/scrollmapper/bible_databases",
    "rights_line": "# ASV: American Standard Version (1901) / **License:** Public Domain"
   }
+ },
+ "coverdale": {
+  "title": "The Coverdale Bible (1535)",
+  "author": "Miles Coverdale (translator)",
+  "format": "biblesupersearch-json",
+  "sha256": "b650b041ede53f3d09af02a9048b33643630b719da15b7a144fbcd8ebf2d755e",
+  "units": 31088,
+  "scheme": {
+   "citation": "Book chapter:verse as the source's Bible SuperSearch module numbers it (the KJV's grid; OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact, except 75 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "coverdale (Bible SuperSearch, KJV grid)",
+   "kjv_resolved": 31086,
+   "kjv_unresolved": 2,
+   "empty_slots_not_units": 14,
+   "coverage": "the 66 books of the Protestant canon; the printed Bible's Apocrypha are not in this transcription",
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/coverdale-kjv.json; no uids minted.",
+   "numbering": "Coverdale (1535) printed no verse numbers: the numbers are the transcription's, on the KJV's grid"
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Coverdale Bible (1535), via Bible SuperSearch (module 'coverdale'); the source does not name the transcription it publishes",
+   "source_url": "https://api.biblesupersearch.com/api/download?bible=coverdale&format=json",
+   "rights_line": "This Bible is in the Public Domain.",
+   "finding": "BSS does not name its transcription. The same text is on textusreceptusbibles.com, whose site terms restrict reuse; the 1535 text is PD and a verbatim transcription carries no new US copyright. For Adam: docs/pending-sources.md"
+  }
  }
 }
