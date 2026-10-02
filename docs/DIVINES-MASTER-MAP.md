@@ -1244,7 +1244,7 @@ Shelf: `pipeline/bulfinch_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Howard Pyle
 
-Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The books Pyle wrote; books by others that he only illustrated are excluded. Known structure gap: the four King Arthur books nest Book > Part > Chapter, and the house converter keeps only the chapter, so `Chapter First` repeats and citations need the `~n` suffix. Fixing this needs a nesting-aware converter, which is noted for Adam. Not in the manifest; no uids minted.
+Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The books Pyle wrote; books by others that he only illustrated are excluded. The four King Arthur books nest Book > Part > Chapter. They are converted by `pipeline/convert_nested.py`, which cites the whole path (`The Book of Three Worthies / PART II ... / Chapter First, par. 3`), with 0 duplicate unit ids (there were ~2,000 `~n` suffixes before). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1260,10 +1260,10 @@ Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay 
 | The Story of Jack Ballister's Fortunes (1895) | have | PG 49985, `pyle-jack-ballister` (2155 units) |
 | The Price of Blood (1899) | have | PG 48521, `pyle-price-of-blood` (185 units) |
 | Rejected of Men: A Story of To-day (1903) | have | PG 46841, `pyle-rejected-of-men` (1101 units) |
-| The Story of King Arthur and His Knights (1903) | have | PG 60184, `pyle-king-arthur` (1885 units) |
-| The Story of the Champions of the Round Table (1905) | have | PG 10745, `pyle-champions-round-table` (1683 units) |
-| The Story of Sir Launcelot and His Companions (1907) | have | PG 33702, `pyle-sir-launcelot` (2329 units) |
-| The Story of the Grail and the Passing of Arthur (1910) | have | PG 60405, `pyle-grail-passing-of-arthur` (1901 units) |
+| The Story of King Arthur and His Knights (1903) | have | PG 60184, `pyle-king-arthur` (1799 units) |
+| The Story of the Champions of the Round Table (1905) | have | PG 10745, `pyle-champions-round-table` (1657 units) |
+| The Story of Sir Launcelot and His Companions (1907) | have | PG 33702, `pyle-sir-launcelot` (2187 units) |
+| The Story of the Grail and the Passing of Arthur (1910) | have | PG 60405, `pyle-grail-passing-of-arthur` (1810 units) |
 | The Ruby of Kishmoor (1908) | have | PG 3687, `pyle-ruby-of-kishmoor` (157 units) |
 | Stolen Treasure (1907) | have | PG 10394, `pyle-stolen-treasure` (688 units) |
 | Howard Pyle's Book of Pirates (1921, compiled by Merle Johnson) | have | PG 973, `pyle-book-of-pirates` (1044 units) |
@@ -1273,7 +1273,6 @@ Shelf: `pipeline/pyle_shelf.json` (2026-10-02; added at the coordinator's relay 
 | pyle-edited | excluded | The Buccaneers and Marooners of America (PG 73564): Exquemelin and Johnson's texts, Pyle as editor |
 | pyle-not-pyle | excluded | That Marvel — The Movie (PG 66368): by Edward S. Van Zile; the catalogue match is a false hit |
 | pyle-pending | pending | Yankee Doodle (1881), The Story of the Revolution (Pyle's Book of the American Spirit, 1923 compilation), the magazine stories never collected |
-
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

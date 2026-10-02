@@ -99,9 +99,11 @@
     },
     {
       "id": "pyle-nesting",
-      "status": "running",
+      "status": "done",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Converter: Book > Part > Chapter nesting for Pyle's four Arthur books, in a NEW file (structure_texts.py untouched); no minting",
-      "started": "2026-10-02T15:48:35-05:00"
+      "started": "2026-10-02T15:48:35-05:00",
+      "finished": "2026-10-02T15:50:18-05:00",
+      "notes": "New pipeline/convert_nested.py (Book > Part > Chapter, optional title_next and start); convert_shelf_gutenberg.py hands it any row with {levels}. Pyle's 4 Arthur books: duplicate unit ids ~2,000 -> 0; citations carry the full path. structure_texts.py untouched; tests 64 passed."
     },
     {
       "id": "carroll",

@@ -69,19 +69,76 @@
   ],
   "pyle-king-arthur": [
    60184,
-   "The Story of King Arthur and His Knights (1903)"
+   "The Story of King Arthur and His Knights (1903)",
+   {
+    "levels": [
+     {
+      "re": "The Book of [A-Z][^.]{2,60}$"
+     },
+     {
+      "re": "PART [IVX]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "(?:Chapter [A-Z][a-z]+(?:-[a-z]+)?|Prologue|Epilogue|Conclusion)\\.?$"
+     }
+    ]
+   }
   ],
   "pyle-champions-round-table": [
    10745,
-   "The Story of the Champions of the Round Table (1905)"
+   "The Story of the Champions of the Round Table (1905)",
+   {
+    "levels": [
+     {
+      "re": "The Book of [A-Z][^.]{2,60}$"
+     },
+     {
+      "re": "PART [IVX]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "(?:Chapter [A-Z][a-z]+(?:-[a-z]+)?|Prologue|Epilogue|Conclusion)\\.?$"
+     }
+    ],
+    "start": "Prologue\\.?$"
+   }
   ],
   "pyle-sir-launcelot": [
    33702,
-   "The Story of Sir Launcelot and His Companions (1907)"
+   "The Story of Sir Launcelot and His Companions (1907)",
+   {
+    "levels": [
+     {
+      "re": "The Book of [A-Z][^.]{2,60}$"
+     },
+     {
+      "re": "PART [IVX]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "(?:Chapter [A-Z][a-z]+(?:-[a-z]+)?|Prologue|Epilogue|Conclusion)\\.?$"
+     }
+    ]
+   }
   ],
   "pyle-grail-passing-of-arthur": [
    60405,
-   "The Story of the Grail and the Passing of Arthur (1910)"
+   "The Story of the Grail and the Passing of Arthur (1910)",
+   {
+    "levels": [
+     {
+      "re": "The Book of [A-Z][^.]{2,60}$"
+     },
+     {
+      "re": "PART [IVX]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "(?:Chapter [A-Z][a-z]+(?:-[a-z]+)?|Prologue|Epilogue|Conclusion)\\.?$"
+     }
+    ]
+   }
   ],
   "pyle-ruby-of-kishmoor": [
    3687,

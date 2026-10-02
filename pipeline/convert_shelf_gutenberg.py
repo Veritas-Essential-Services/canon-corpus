@@ -15,7 +15,8 @@ rule misses ("CHAPTER I.--A Tale of Two Clubs."); it is unioned with the
 Contents rule. {"contents_only": true} uses only the book's own Contents, read
 leniently (lenient_contents_chapre), without the ALL-CAPS fallback (a book whose
 caps lines are part numbers or captions, not headings); {"chapre_only": "<regex>"}
-replaces the rule outright (Lucas's letters: "LETTER 12" and nothing else). Verse books go
+replaces the rule outright (Lucas's letters: "LETTER 12" and nothing else);
+{"levels": [...]} hands the book to convert_nested.py (Book > Part > Chapter). Verse books go
 through the same prose path, so a "paragraph" there is a stanza; the scheme's
 honesty field already says headings are detected, not known.
 
@@ -29,6 +30,7 @@ import json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from structure_texts import convert_gutenberg_prose, contents_chapre, strip_boilerplate, _contents_key
+from convert_nested import convert_nested
 
 RE_CONTENTS_HEAD_LOOSE = re.compile(r"^\s*_?(TABLE OF )?CONTENTS\.?_?\s*$", re.I | re.M)
 
@@ -92,7 +94,10 @@ def main():
             # an illustration placeholder is never a heading (a Contents of plates can
             # list them, and illustrated transcriptions put one on every page)
             chapre = rf"(?!\[?Illustration)(?:{chapre})"
-            book = convert_gutenberg_prose(path, slug, row[1], author, chapre)
+            if opts.get("levels"):       # Book > Part > Chapter: convert_nested.py
+                book = convert_nested(path, slug, row[1], author, opts["levels"], opts.get("start"))
+            else:
+                book = convert_gutenberg_prose(path, slug, row[1], author, chapre)
             seen = {}
             for u in book["units"]:
                 if u["id"] in seen:
