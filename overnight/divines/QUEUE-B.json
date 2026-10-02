@@ -58,8 +58,11 @@
     },
     {
       "id": "greek-tragedy",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Aeschylus and Euripides in PD English (Plumptre, Morshead, Coleridge, Way, Murray where PG clears it); Sophocles cross-ref the Jebb plays in the unmerged Sophocles PR, plus PD Gutenberg Sophocles (Plumptre, Storr where cleared); shelf + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Aeschylus and Euripides in PD English (Plumptre, Morshead, Coleridge, Way, Murray where PG clears it); Sophocles cross-ref the Jebb plays in the unmerged Sophocles PR, plus PD Gutenberg Sophocles (Plumptre, Storr where cleared); shelf + fetch + map",
+      "started": "2026-10-02T15:34:15-05:00",
+      "finished": "2026-10-02T15:38:07-05:00",
+      "notes": "Aeschylus 6, Euripides 14, Sophocles 4 fetched (9.6 MB); Jebb's Sophocles cross-referenced to the unmerged PR; PG 806 refused (copyrighted)."
     },
     {
       "id": "aristophanes",

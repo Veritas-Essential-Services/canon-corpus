@@ -1,0 +1,48 @@
+{
+ "_about": "Sophocles in English, translator per title. R. C. Jebb's prose seven plays come from Perseus in the unmerged Thayer/Sophocles PR (slugs sophocles-<play>-jebb) and are cross-referenced, not refetched. Here: Lewis Campbell's verse seven plays (1883), Francis Storr's Theban plays (Loeb, 1912), Gilbert Murray's Oedipus King of Thebes ( US PD per Gutenberg, not PD in life+70 countries), Thomas Sheridan's Philoctetes (1725). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out.",
+ "_name_words": [
+  "sophocles",
+  "translated",
+  "english",
+  "verse",
+  "plays"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sophocles-campbell-seven": [
+   14484,
+   "The Seven Plays in English Verse",
+   "tr. Lewis Campbell (verse, 1883)"
+  ],
+  "sophocles-storr-theban": [
+   31,
+   "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
+   "tr. Francis Storr (verse, Loeb 1912)"
+  ],
+  "sophocles-murray-oedipus": [
+   27673,
+   "Oedipus King of Thebes",
+   "tr. Gilbert Murray (rhyming verse)"
+  ],
+  "sophocles-sheridan-philoctetes": [
+   77548,
+   "The Philoctetes of Sophocles",
+   "tr. Thomas Sheridan (1725)"
+  ]
+ },
+ "internet_archive": {},
+ "_cross_ref": {
+  "sophocles-trachiniae-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-antigone-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-ajax-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-oedipus-tyrannus-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-electra-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-philoctetes-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-oedipus-colonus-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR"
+ },
+ "_excluded": {
+  "pg806": "Philoktetes (McNamee): a COPYRIGHTED Project Gutenberg eBook. Refused",
+  "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts",
+  "Plumptre, Sophocles (1865)": "PD verse, not on Gutenberg; pending (IA)"
+ }
+}

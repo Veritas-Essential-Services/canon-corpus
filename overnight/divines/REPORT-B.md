@@ -42,3 +42,6 @@
 
 ## 2026-10-02 15:38 CDT — greek-tragedy (2/3): Euripides
 - Shelf `pipeline/euripides_shelf.json`: 14/14 fetched, 6.1 MB (9 PG + Way 3 vols + Coleridge 2 vols raw). Trial PG 10,231 units. Murray's per-play years not verified, left out of the shelf.
+
+## 2026-10-02 15:38 CDT — greek-tragedy (3/3): Sophocles; item done
+- Shelf `pipeline/sophocles_shelf.json`: 4/4 PG, 1.1 MB, trial 5,510 units. Aeschylus 6, Euripides 14, Sophocles 4 fetched (9.6 MB); Jebb's Sophocles cross-referenced to the unmerged PR; PG 806 refused (copyrighted).
