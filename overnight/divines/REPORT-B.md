@@ -173,3 +173,10 @@
 - Lane B holds 84 shelves: 249 clean Gutenberg texts and 194 raw IA OCR volumes, about 348 MB on this worker's disk. Corpus text is gitignored; the shelf JSON files are the record. No uids were minted. pipeline/fetch_sources.py and structure_texts.py were not touched.
 - Every queue item is done except retry-503-volumes (todo, for a restarted worker).
 - Waiting on Adam (DIGEST-B): Greek-facing Loebs; Perseus English gap (832 texts); US-only PD items; the Adler-shelf label errors; unassigned Josephus and Prudentius.
+
+## 2026-10-02 17:07 CDT — lock re-taken for the coordinator's Perseus task
+- New queue items: perseus-fetcher, perseus-english. Census gap rows with likely_pd=yes: 559. Minus the 309 Perseus/1st1K ids already on PR #7 (branch claude/project-thread-hxenem), minus Philo (on PR #8) and the apostolic fathers, apocrypha and Old Testament rows (lane A's or PR #7's): 238 left, across 19 lane B authors.
+
+## 2026-10-02 17:10 CDT — perseus-fetcher done
+- pipeline/fetch_perseus.py, a new file: reads a shelf's "perseus" section, fetches the TEI from raw.githubusercontent.com (jsDelivr fallback), checks the translator's surname is in the header, records the sourceDesc years and refuses a year after 1930 unless the shelf says why, and records the markup licence (CC BY-SA 4.0 from the repository README for canonical-greekLit and canonical-latinLit). fetch_shelf.py ignores the new key; `fetch_shelf.py demosthenes --verify` still reports 0 mismatched.
+- First run: Demosthenes, 18 Vince speeches (Loeb 1930 printing), 0 failed.
