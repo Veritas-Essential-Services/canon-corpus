@@ -11,8 +11,9 @@
     },
     {
       "id": "bunyan",
-      "status": "todo",
-      "scope": "John Bunyan \u2014 complete public-domain works (collected Works); shelf + fetch + map section"
+      "status": "running",
+      "scope": "John Bunyan \u2014 complete public-domain works (collected Works); shelf + fetch + map section",
+      "started": "2026-10-02T15:17:03-05:00"
     },
     {
       "id": "ryle",
