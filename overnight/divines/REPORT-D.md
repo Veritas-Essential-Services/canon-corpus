@@ -131,3 +131,10 @@
 
 ## 2026-10-02 16:35 CDT — lofting: done
 - 7/7 fetched (6 Gutenberg, 1 IA raw: Caravan 1926 first printing); 5,086 units, 0 duplicate ids. Circus, Zoo, Garden pending (only later printings with new front matter found). No uids minted; not in manifest.
+
+## 2026-10-02 16:40 CDT — session end (fourth run)
+- Relay 4 done, one commit per author: grahame 5, barrie 26, baum 15, ruskin-golden-river 1, wilde-fairy-tales 2, dickens-christmas 5, collodi 2 (1 raw), lofting 7 (1 raw). 63 new slugs; 479 in the lane await minting. 0 Gutenberg copyright markers. No uids minted; manifest, structure_texts.py and fetch_sources.py untouched.
+- §5: all 479 shelf URLs across 24 shelves resolve (4 transient failures, all 206 on recheck). Every slug is in the map. tests/structure_test.py 64 passed.
+- Side job for the upkeep thread, at the coordinator's request: in a scratch worktree, removed afterwards with nothing committed, ran contents_key_diff.py on the 36 CHESTERTON_GUTENBERG books. Result: 0 ids change. Sent to that session.
+- Held back: Pinocchio PG 16865 (no translator named); Lofting's Circus, Zoo and Garden (later printings only). Baum's non-Oz books are pending Adam.
+- Next Lane D worker: queue empty; upkeep only.
