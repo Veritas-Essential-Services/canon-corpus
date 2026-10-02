@@ -23,10 +23,10 @@ no row: the index is keyed by the KJV, and each map's `no_kjv_verse` says why.
 
 WHERE EACH COLUMN COMES FROM (nothing here is a new judgement):
   hebrew    data/versification/bhs-kjv.json (the WLC's verse list, TVTMS)
-  greek_nt  data/nt/passages.jsonl + witnesses.jsonl: the RP2018 Greek is a
-            witness of the KJV verse's own passage, so its ref is the KJV's.
-            On this branch only the John 1:1-18 pilot; the whole Greek NT
-            (PR #8) fills the column when it lands.
+  greek_nt  data/nt/<Book>/passages.jsonl + witnesses.jsonl (the whole NT;
+            the shards are gitignored, so run pipeline/rebuild_bible.py
+            first): the RP2018 Greek is a witness of the KJV verse's own
+            passage, so its ref is the KJV's.
   vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv
             each unit's `kjv` in data/books/<slug>.json (gitignored: built by
             structure_texts.py from the pinned sources, through the committed
@@ -87,17 +87,25 @@ def columns():
                 if not k.endswith(".title"):
                     add(k, "hebrew", ref)
     nt = os.path.join(ROOT, "data", "nt")
-    greek = set()
-    with open(os.path.join(nt, "witnesses.jsonl"), encoding="utf-8") as f:
-        for line in f:
-            w = json.loads(line)
-            if w.get("lang") == "grc" and w.get("role") == "original":
-                greek.add(w["passage_uid"])
-    with open(os.path.join(nt, "passages.jsonl"), encoding="utf-8") as f:
-        for line in f:
-            p = json.loads(line)
-            if p["uid"] in greek and p["citation"].startswith("kjv:"):
-                add(p["citation"][4:], "greek_nt", p["osis"])
+    with open(os.path.join(nt, "manifest.json"), encoding="utf-8") as f:
+        nt_books = json.load(f)["selection"]["books"]
+    for bk in nt_books:
+        greek = set()
+        shard = os.path.join(nt, bk)
+        if not all(os.path.exists(os.path.join(shard, n))
+                   for n in ("witnesses.jsonl", "passages.jsonl")):
+            _stop(f"data/nt/{bk}/ has no shards (gitignored): run "
+                  f"pipeline/rebuild_bible.py first")
+        with open(os.path.join(shard, "witnesses.jsonl"), encoding="utf-8") as f:
+            for line in f:
+                w = json.loads(line)
+                if w.get("lang") == "grc" and w.get("role") == "original":
+                    greek.add(w["passage_uid"])
+        with open(os.path.join(shard, "passages.jsonl"), encoding="utf-8") as f:
+            for line in f:
+                p = json.loads(line)
+                if p["uid"] in greek and p["citation"].startswith("kjv:"):
+                    add(p["citation"][4:], "greek_nt", p["osis"])
     for slug in SHELF:
         path = os.path.join(BOOKS, f"{slug}.json")
         if not os.path.exists(path):

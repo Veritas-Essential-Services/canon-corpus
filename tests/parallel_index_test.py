@@ -55,8 +55,14 @@ check("Phil 1:16 is the Vulgate's, Darby's and the ASV's 1:17 (the Greek's order
       all(C("Phil.1.16", c) == ["Phil.1.17"] for c in ("vulgate", "douay", "darby", "asv")))
 check("Acts 8:37: empty for Darby and the ASV, which leave it out",
       C("Acts.8.37", "darby") == [] == C("Acts.8.37", "asv") and C("Acts.8.37", "ylt") == ["Acts.8.37"])
-check("the Greek NT column holds the John 1:1-18 pilot only on this branch",
-      sum(bool(r["greek_nt"]) for r in rows.values()) == 18 and C("John.1.1", "greek_nt") == ["John.1.1"])
+NT = {"Matt", "Mark", "Luke", "John", "Acts", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Phil", "Col",
+      "1Thess", "2Thess", "1Tim", "2Tim", "Titus", "Phlm", "Heb", "Jas", "1Pet", "2Pet", "1John",
+      "2John", "3John", "Jude", "Rev"}
+check("the Greek NT column holds the whole NT, each on its KJV verse; empty only for the four "
+      "verses the Byzantine text lacks (Luke 17:36, Acts 8:37, 15:34, 24:7)",
+      {k for k, r in rows.items() if k.split(".")[0] in NT and not r["greek_nt"]}
+      == {"Luke.17.36", "Acts.8.37", "Acts.15.34", "Acts.24.7"}
+      and all(r["greek_nt"] == [k] for k, r in rows.items() if r["greek_nt"]))
 check("the Old Testament has no Greek NT cell and the New no Hebrew cell",
       not C("Gen.1.1", "greek_nt") and not C("Matt.1.1", "hebrew") and not C("Matt.1.1", "brenton"))
 
