@@ -84,8 +84,9 @@ Shelf: `pipeline/hesiod_shelf.json`. Hugh G. Evelyn-White, prose (Loeb, 1914), P
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Works and Days; Theogony; Shield of Heracles; Catalogues of Women and other fragments; with the Homeric Hymns, Epigrams, Contest of Homer and Hesiod, and Homerica (one volume) | Evelyn-White | `hesiod-evelyn-white` | have (PG 348) |
+| The Remains of Hesiod the Ascraean, Including the Shield of Hercules | Charles Abraham Elton (with George Chapman's Works and Days) | `hesiod-elton` | have (PG 66350) |
 
-Pending (wishlist): Elton's verse Hesiod with Chapman's Works and Days (PG 66350), an alternate witness. When a Homer section exists, the Homeric Hymns in this volume should be cross-referenced from it, not refetched.
+Pending (wishlist): When a Homer section exists, the Homeric Hymns in this volume should be cross-referenced from it, not refetched.
 
 ## Ovid
 
@@ -304,8 +305,9 @@ Shelf: `pipeline/xenophon_shelf.json`. Dakyns's complete Works of Xenophon (1890
 | The Cavalry General | H. G. Dakyns | `xenophon-cavalry-general` | have (PG 1172) |
 | On Horsemanship | H. G. Dakyns | `xenophon-horsemanship` | have (PG 1176) |
 | The Sportsman (Cynegeticus) | H. G. Dakyns | `xenophon-sportsman` | have (PG 1180) |
+| The Memorable Thoughts of Socrates | Edward Bysshe (1712) | `xenophon-bysshe-memorabilia` | have (PG 17490) |
 
-Pending (wishlist): Bysshe's Memorable Thoughts of Socrates (1712, PG 17490); E. C. Marchant's and Carleton Brownson's Loebs, on Perseus.
+Pending (wishlist): E. C. Marchant's and Carleton Brownson's Loebs, on Perseus.
 
 Excluded: PG 29459 (index), PG 22003 (Anabasis I-IV only).
 
@@ -691,7 +693,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Verrine Orations, vol. 1 (Loeb, 1928) | L. H. G. Greenwood | `cicero-greenwood-verrines-v1` | have-raw (IA `ciceroverrineora0001unse`) |
 | De Re Publica, De Legibus (Loeb, 1928) | Clinton Walker Keyes | `cicero-keyes-de-re-publica-de-legibus` | have-raw (IA `derepublicadeleg0000cice_k7o1`) |
 
-Pending (wishlist): De Officiis (Cockman, Edmonds, Miller); Winstedt's Letters to Atticus (Loeb, Latin facing); Watson's Bohn De Oratore.
+Pending (wishlist): De Officiis (Cockman, Edmonds); Watson's Bohn De Oratore; King's Tusculans (Loeb 1927).
 
 Excluded: Winstedt's Atticus (PG 58418, 50692, 51403): Latin facing, pending as a bilingual witness.
 

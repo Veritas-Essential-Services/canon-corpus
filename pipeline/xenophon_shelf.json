@@ -1,5 +1,5 @@
 {
- "_about": "Xenophon in English: H. G. Dakyns's complete translation (The Works of Xenophon, 1890-97), clean Gutenberg, one text per work.",
+ "_about": "Xenophon in English: H. G. Dakyns's complete translation (The Works of Xenophon, 1890-97), clean Gutenberg, one text per work. Edward Bysshe's Memorable Thoughts of Socrates (1712; Morley's 1888 edition), clean Gutenberg, added 2026-10-02.",
  "_name_words": [
   "xenophon",
   "dakyns"
@@ -75,6 +75,11 @@
    1180,
    "The Sportsman (Cynegeticus)",
    "tr. H. G. Dakyns"
+  ],
+  "xenophon-bysshe-memorabilia": [
+   17490,
+   "The Memorable Thoughts of Socrates",
+   "tr. Edward Bysshe (1712)"
   ]
  },
  "internet_archive": {},
