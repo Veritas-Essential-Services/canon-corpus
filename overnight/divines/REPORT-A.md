@@ -186,3 +186,6 @@
 
 ## 2026-10-02 17:12 CDT — leighton done
 - `pipeline/leighton_shelf.json`: the Whole Works (London, 1830, ed. Pearson), all 4 vols, raw IA OCR, 98.7-99.0%. About 4.9 MB. `--verify`: 0 mismatched. Gutenberg's "Robert Leighton" is the novelist (1858-1934), excluded. 0 uids minted.
+
+## 2026-10-02 17:14 CDT — alleine done
+- `pipeline/alleine_shelf.json`: three IA items raw (about 1.4 MB): the Alarm (1834, 99.1%), Alleine on the Promises (1828, 93.3%), the Life and Death with his Christian Letters (1815, 98.5%). The Life is by Baxter, Theodosia Alleine and others: only the letters are his, and the digest says so. `--verify`: 0 mismatched. 0 uids minted.

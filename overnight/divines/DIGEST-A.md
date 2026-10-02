@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 17:12 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 17:14 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -65,6 +65,7 @@ Rounds 2 and 3 were done by 16:41 CDT. Lane A is carrying on with more Puritan, 
 | John Gill | gill_shelf.json | 3 CCEL (Body of Doctrinal Divinity, Body of Practical Divinity, Solomon's Song) | 3 (Cause of God and Truth 1838; Sermons and Tracts 1773, 2 vols) | the Exposition of the Old and New Testaments (no complete set of scans) | modern retypings and reprints |
 | William Guthrie | guthrie_shelf.json | 1 CCEL (The Christian's Great Interest) | 0 | none | Howie's multi-author Covenanter sermons; Gaelic translations; Thomas Guthrie |
 | Robert Leighton | leighton_shelf.json | 0 (none exists) | 4 (Whole Works, London 1830, ed. Pearson, complete) | none | Robert Leighton the novelist (Gutenberg) |
+| Joseph Alleine | alleine_shelf.json | 0 (none exists) | 3 (Alarm to Unconverted Sinners 1834; Alleine on the Promises 1828; Life and Death with his Letters 1815, partly by Baxter and others) | none | Heaven Opened (chiefly Richard Alleine); Stanford's biography |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

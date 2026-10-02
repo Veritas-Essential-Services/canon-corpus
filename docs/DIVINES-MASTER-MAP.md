@@ -758,6 +758,18 @@ No CCEL or Gutenberg text. The Whole Works (London: James Duncan, 1830, ed. Pear
 | The Whole Works, vols. I-IV (1830) | have-raw | IA `wholeworksofmost01leig`..`04leig` |
 | Works of 1805 (6 vols), 1822, 1825, 1828, 1846, 1853, 1862; separate Commentaries on 1 Peter | alternate | the 1830 edition is held |
 | Robert Leighton (1858-1934), novelist | excluded | another man |
+
+## Joseph Alleine (round 4, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text; all raw IA OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| An Alarm to Unconverted Sinners (American Tract Society, 1834) | have-raw | IA `alarmtounconver00alle` |
+| Alleine on the Promises (Baltimore, 1828) | have-raw | IA `alleineonpromis00nichgoog` |
+| The Life and Death of Joseph Alleine (Baxter, Theodosia Alleine and others) with his Christian Letters (1815) | have-raw | IA `anaccountoftheli00baxtuoft`; the Life is by others, the Letters are his |
+| Other printings of the Alarm (1689-1855, under several titles) | alternate | the 1834 printing is held |
+| Heaven Opened | excluded | chiefly Richard Alleine's |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,33 @@
+{
+ "_about": "Public-domain Joseph Alleine (1634-1668, Taunton, ejected 1662) for the Word Hoard, all raw Internet Archive OCR (CCEL and Gutenberg hold nothing of his): An Alarm to Unconverted Sinners (American Tract Society, 1834), Alleine on the Promises (Baltimore, 1828), and the Life and Death of Joseph Alleine by Richard Baxter, Theodosia Alleine and others with his Christian Letters (1815). Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "alleine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alleine-alarm-1834": [
+   "alarmtounconver00alle",
+   "An Alarm to Unconverted Sinners (New York: American Tract Society, 1834)"
+  ],
+  "alleine-on-the-promises-1828": [
+   "alleineonpromis00nichgoog",
+   "Alleine on the Promises: the Voice of God in his Promises (Baltimore, 1828)"
+  ],
+  "alleine-life-letters-1815": [
+   "anaccountoftheli00baxtuoft",
+   "An Account of the Life and Death of the Rev. Joseph Alleine, by Richard Baxter, Theodosia Alleine and others, with his Christian Letters (1815)"
+  ]
+ },
+ "_alternates": {
+  "convertalarmtoun00allerich; alarmtounconvert00al (1780), 00allerich (1816), 00alle (1824), 00alleiala/00alle_0/00alle_1 (1850); McGillLibrary-rbsc_unconverted-sinners_octavo-7072-17668 (1819); MN41529ucmf_6 (1816); admonitiontounco00alle (1801); anadmonitiontou00allegoog (1793); solemnwarningsof00alle* (1811-55); sureguidetohea00alle (1689)": "Other printings of the Alarm, under its several titles.",
+  "bim_* printings of The Voice of God in His Promises (1766-1775)": "Early printings of the Promises.",
+  "bim_early-english-books-*_alleine-mrs-theodosia_1671/1672": "First printings of the Life and Death."
+ },
+ "_excluded": {
+  "MN41830ucmf_4; heavenopenedorbr00rari": "Heaven Opened is chiefly Richard Alleine's.",
+  "josephalleinehis00stan": "Charles Stanford's 1861 biography: about Alleine, not by him.",
+  "earaildhurachdac*; leabharpocaidnao00alle; bim_*hyfforddwr*": "Gaelic and Welsh translations."
+ }
+}
