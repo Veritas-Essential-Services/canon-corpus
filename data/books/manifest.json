@@ -864,6 +864,25 @@
    "note": "OCR'd from the Internet Archive scan (greekenglishlexi00grimuoft, 760pp) with tesseract grc+eng at 300dpi on 2026-09-06, because no machine-readable Thayer's exists: that scan's own text layer contains ZERO Greek codepoints. This pass recovered 552,594. 744 pages carry text; the other 16 were checked individually and are the two cloth covers plus 14 blank leaves. 4,534 headwords detected heuristically and flagged as such -- Thayer's has ~5,600 entries and OCR cannot delimit them reliably, so no entry claim is made. Text is OCR output: it has not been proofread against the page, and Greek diacritics are where OCR errs most."
   }
  },
+ "thayer-entries": {
+  "title": "A Greek-English Lexicon of the New Testament (Thayer), by entry",
+  "author": "C. L. W. Grimm & C. G. Wilke, tr./rev./enl. Joseph Henry Thayer (1889)",
+  "format": "lexicon-ocr",
+  "sha256": "91d96a35c24d3f471d7f942d1b06f5bf93465ae7c1df09f287d1a56c4140cb6e",
+  "units": 3567,
+  "scheme": {
+   "citation": "page of the 1889 edition + headword (s.v.)",
+   "resolution": "entry",
+   "honesty": "entries INFERRED from OCR; not proofread; ids provisional until segmentation is ruled on",
+   "segmentation": {
+    "candidates": 7848,
+    "off_order": 4178,
+    "weak": 103,
+    "paragraph_initial_candidates": 4544
+   },
+   "note": "3,567 entries inferred from the page OCR of 740 body pages, against the ~5,600 Thayer's really has. Rule: line-initial Greek headword, kept only on the max-weight alphabetical chain and only if paragraph-initial or a Strong's lemma (see convert_thayer_entries). 4,178 candidates dropped as out of alphabetical order, 103 in order but with no other evidence. A real entry the rule missed is not lost: its text is inside the entry before it. Every unit links to the page(s) of the page book `thayer` it was cut from, which is the checkable citation. 3,271 entries linked to strongs-greek by headword (accents ignored); 9 matched more than one Strong's lemma and are left unlinked with the candidates under lex.strongs_candidates."
+  }
+ },
  "tbesg-greek": {
   "title": "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",
   "author": "Abbott-Smith definitions, ed. Tyndale House / STEPBible.org",
