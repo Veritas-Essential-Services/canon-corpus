@@ -1,0 +1,160 @@
+{
+ "_about": "Plutarch in English, translator per title. LIVES: Sir Thomas North (1579, from Amyot's French; Tudor Translations ed. George Wyndham, 1895-96, 6 vols., raw IA), John and William Langhorne (1770; 1813 printing, 6 vols., raw IA; vol. 4 is an 1844-46 printing), Aubrey Stewart and George Long (Bohn, 1880-82, 4 vols., clean Gutenberg). The 'Dryden' Lives revised by Clough is already held on the Adler shelf (plutarch-lives, PG 674); it is not Dryden's translation (lane C's Dryden shelf records that Dryden translated none of the Lives). MORALIA: the Goodwin edition, 'translated from the Greek by several hands' (1870; 5 vols., clean Gutenberg), Shilleto (Bohn), Holland's Roman Questions (1603, ed. Jevons 1892), Peabody's Delay of the Divine Justice, Tucker and Prickard's Selected Essays (1913-18).",
+ "_name_words": [
+  "plutarch",
+  "plutarchs",
+  "lives",
+  "volume",
+  "noble",
+  "grecians",
+  "romans",
+  "essays",
+  "miscellanies"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "plutarch-stewart-long-lives-v1": [
+   14033,
+   "Plutarch's Lives, vol. 1 (of 4)",
+   "tr. Aubrey Stewart and George Long (Bohn, 1880-82)"
+  ],
+  "plutarch-stewart-long-lives-v2": [
+   14114,
+   "Plutarch's Lives, vol. 2 (of 4)",
+   "tr. Aubrey Stewart and George Long (Bohn, 1880-82)"
+  ],
+  "plutarch-stewart-long-lives-v3": [
+   14140,
+   "Plutarch's Lives, vol. 3 (of 4)",
+   "tr. Aubrey Stewart and George Long (Bohn, 1880-82)"
+  ],
+  "plutarch-stewart-long-lives-v4": [
+   44315,
+   "Plutarch's Lives, vol. 4 (of 4)",
+   "tr. Aubrey Stewart and George Long (Bohn, 1880-82)"
+  ],
+  "plutarch-goodwin-moralia-v1": [
+   78134,
+   "Plutarch's Essays and Miscellanies, vol. 1 (of 5)",
+   "tr. several hands, ed. William W. Goodwin (1870)"
+  ],
+  "plutarch-goodwin-moralia-v2": [
+   78147,
+   "Plutarch's Essays and Miscellanies, vol. 2 (of 5)",
+   "tr. several hands, ed. William W. Goodwin (1870)"
+  ],
+  "plutarch-goodwin-moralia-v3": [
+   78851,
+   "Plutarch's Essays and Miscellanies, vol. 3 (of 5)",
+   "tr. several hands, ed. William W. Goodwin (1870)"
+  ],
+  "plutarch-goodwin-moralia-v4": [
+   79588,
+   "Plutarch's Essays and Miscellanies, vol. 4 (of 5)",
+   "tr. several hands, ed. William W. Goodwin (1870)"
+  ],
+  "plutarch-goodwin-moralia-v5": [
+   78000,
+   "Plutarch's Essays and Miscellanies, vol. 5 (of 5)",
+   "tr. several hands, ed. William W. Goodwin (1870)"
+  ],
+  "plutarch-shilleto-morals": [
+   23639,
+   "Plutarch's Morals",
+   "tr. A. R. Shilleto (Bohn)"
+  ],
+  "plutarch-holland-roman-questions": [
+   57513,
+   "Plutarch's Romane Questions",
+   "tr. Philemon Holland (1603), ed. F. B. Jevons (1892)"
+  ],
+  "plutarch-peabody-delay": [
+   58567,
+   "Plutarch on the Delay of the Divine Justice",
+   "tr. Andrew P. Peabody"
+  ],
+  "plutarch-tucker-essays": [
+   62618,
+   "Selected Essays of Plutarch, vol. I",
+   "tr. T. G. Tucker"
+  ],
+  "plutarch-prickard-essays": [
+   62858,
+   "Selected Essays of Plutarch, vol. II",
+   "tr. A. O. Prickard"
+  ]
+ },
+ "internet_archive": {
+  "plutarch-north-lives-v1": [
+   "plutarchslivesn03accigoog",
+   "Lives of the Noble Grecians and Romans, vol. 1 (Tudor Translations, 1895-96)",
+   "tr. Sir Thomas North (1579)"
+  ],
+  "plutarch-north-lives-v2": [
+   "plutarchslivesn01accigoog",
+   "Lives of the Noble Grecians and Romans, vol. 2 (Tudor Translations, 1895-96)",
+   "tr. Sir Thomas North (1579)"
+  ],
+  "plutarch-north-lives-v3": [
+   "plutarchslivesn04accigoog",
+   "Lives of the Noble Grecians and Romans, vol. 3 (Tudor Translations, 1895-96)",
+   "tr. Sir Thomas North (1579)"
+  ],
+  "plutarch-north-lives-v4": [
+   "plutarchslivesn00accigoog",
+   "Lives of the Noble Grecians and Romans, vol. 4 (Tudor Translations, 1895-96)",
+   "tr. Sir Thomas North (1579)"
+  ],
+  "plutarch-north-lives-v5": [
+   "plutarchslivesn06accigoog",
+   "Lives of the Noble Grecians and Romans, vol. 5 (Tudor Translations, 1895-96)",
+   "tr. Sir Thomas North (1579)"
+  ],
+  "plutarch-north-lives-v6": [
+   "plutarchslivesn02accigoog",
+   "Lives of the Noble Grecians and Romans, vol. 6 (Tudor Translations, 1895-96)",
+   "tr. Sir Thomas North (1579)"
+  ],
+  "plutarch-langhorne-lives-v1": [
+   "livestranslatedf01plutuoft",
+   "Plutarch's Lives, translated from the original Greek, vol. 1 (1813 printing)",
+   "tr. John and William Langhorne (1770)"
+  ],
+  "plutarch-langhorne-lives-v2": [
+   "livestranslatedf02plutuoft",
+   "Plutarch's Lives, translated from the original Greek, vol. 2 (1813 printing)",
+   "tr. John and William Langhorne (1770)"
+  ],
+  "plutarch-langhorne-lives-v3": [
+   "livestranslatedf03plutuoft",
+   "Plutarch's Lives, translated from the original Greek, vol. 3 (1813 printing)",
+   "tr. John and William Langhorne (1770)"
+  ],
+  "plutarch-langhorne-lives-v4": [
+   "livestranslatedf04plutuoft",
+   "Plutarch's Lives, translated from the original Greek, vol. 4 (1844-46 printing)",
+   "tr. John and William Langhorne (1770)"
+  ],
+  "plutarch-langhorne-lives-v5": [
+   "livestranslatedf05plutuoft",
+   "Plutarch's Lives, translated from the original Greek, vol. 5 (1813 printing)",
+   "tr. John and William Langhorne (1770)"
+  ],
+  "plutarch-langhorne-lives-v6": [
+   "livestranslatedf06plutuoft",
+   "Plutarch's Lives, translated from the original Greek, vol. 6 (1813 printing)",
+   "tr. John and William Langhorne (1770)"
+  ]
+ },
+ "_cross_ref": {
+  "plutarch-lives": "Adler shelf: PG 674, the Dryden-and-others translation revised by A. H. Clough (1859); Adler labels it 'tr. Dryden/Clough'"
+ },
+ "_excluded": {
+  "pg3052": "Complete Works of Plutarch vol. 3, Essays and Miscellanies: an older Gutenberg text of the Goodwin edition, superseded by the 5-vol. set",
+  "pg2484": "The Boys' and Girls' Plutarch: adaptation",
+  "Philemon Holland, The Morals (1603)": "PD; IA scans of the 1603 print (plutarchhollandmorals01/02) would OCR badly (black letter, long s). Pending a cleaner copy",
+  "Shakespeare's Plutarch (Skeat 1875; Tucker Brooke 1909)": "selections from North; the full North kept",
+  "Bernadotte Perrin and F. C. Babbitt, Loeb": "on Perseus, US PD by date for the early volumes; pending",
+  "plutarchslivesn05accigoog": "a second scan of North vol. 5, worse OCR (clean-word 0.74 against 0.95 for plutarchslivesn06accigoog, which is kept)"
+ }
+}

@@ -82,8 +82,11 @@
     },
     {
       "id": "plutarch",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Plutarch's Lives (North 1579, Langhorne, Clough's revision of the Dryden translation cross-ref \u2192 Dryden shelf if lane C holds it) and Moralia (Goodwin 1870, King, Shilleto); shelf + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Plutarch's Lives (North 1579, Langhorne, Clough's revision of the Dryden translation cross-ref \u2192 Dryden shelf if lane C holds it) and Moralia (Goodwin 1870, King, Shilleto); shelf + fetch + map",
+      "started": "2026-10-02T15:43:32-05:00",
+      "finished": "2026-10-02T15:48:59-05:00",
+      "notes": "26/26 fetched (13 PG + North 6 vols + Langhorne 6 vols raw). Lives complete in three translators; Goodwin Moralia complete. Duplicate North vol. 5 scan dropped (worse OCR). Adler's plutarch-lives cross-referenced."
     },
     {
       "id": "stoics",

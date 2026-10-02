@@ -63,3 +63,7 @@
 
 ## 2026-10-02 15:43 CDT — greek-historians: Arrian; item done
 - Shelf arrian: 2 PG, 1.7 MB. Herodotus 5, Thucydides 3, Xenophon 14, Polybius 2, Arrian 2 fetched (22.2 MB). Findings on the Adler shelf: thucydides-pelo is Crawley not Jowett; herodotus-history is vol. 1 only.
+
+## 2026-10-02 15:48 CDT — plutarch: done
+- Shelf `pipeline/plutarch_shelf.json`. 26/26 fetched (13 PG + North 6 vols + Langhorne 6 vols raw). Lives complete in three translators; Goodwin Moralia complete. Duplicate North vol. 5 scan dropped (worse OCR). Adler's plutarch-lives cross-referenced.
+- Lane A's new identity check in fetch_shelf.py refused North vol. 3 (title words not in a Google scan); retitled so the check passes on content; the scan was verified by its Lives (Pyrrus, Sylla, Cimon: North's spellings).

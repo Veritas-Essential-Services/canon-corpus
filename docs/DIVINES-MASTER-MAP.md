@@ -514,6 +514,44 @@ Shelf: `pipeline/arrian_shelf.json`. Chinnock's Anabasis (1884) and Dansey's On 
 
 Pending (wishlist): Chinnock's Indica; Hooke's 1729 Arrian.
 
+## Plutarch
+
+Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete three times over: North (1579, Tudor Translations 1895-96, raw), Langhorne (1770, raw), Stewart and Long (Bohn, clean); the Dryden-Clough Lives is on the Adler shelf. Moralia: the Goodwin edition (several hands, 1870, 5 vols.) and Bohn's Shilleto, clean. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Plutarch's Lives, vol. 1 (of 4) | Aubrey Stewart and George Long (Bohn, 1880-82) | `plutarch-stewart-long-lives-v1` | have (PG 14033) |
+| Plutarch's Lives, vol. 2 (of 4) | Aubrey Stewart and George Long (Bohn, 1880-82) | `plutarch-stewart-long-lives-v2` | have (PG 14114) |
+| Plutarch's Lives, vol. 3 (of 4) | Aubrey Stewart and George Long (Bohn, 1880-82) | `plutarch-stewart-long-lives-v3` | have (PG 14140) |
+| Plutarch's Lives, vol. 4 (of 4) | Aubrey Stewart and George Long (Bohn, 1880-82) | `plutarch-stewart-long-lives-v4` | have (PG 44315) |
+| Plutarch's Essays and Miscellanies, vol. 1 (of 5) | several hands, ed. William W. Goodwin (1870) | `plutarch-goodwin-moralia-v1` | have (PG 78134) |
+| Plutarch's Essays and Miscellanies, vol. 2 (of 5) | several hands, ed. William W. Goodwin (1870) | `plutarch-goodwin-moralia-v2` | have (PG 78147) |
+| Plutarch's Essays and Miscellanies, vol. 3 (of 5) | several hands, ed. William W. Goodwin (1870) | `plutarch-goodwin-moralia-v3` | have (PG 78851) |
+| Plutarch's Essays and Miscellanies, vol. 4 (of 5) | several hands, ed. William W. Goodwin (1870) | `plutarch-goodwin-moralia-v4` | have (PG 79588) |
+| Plutarch's Essays and Miscellanies, vol. 5 (of 5) | several hands, ed. William W. Goodwin (1870) | `plutarch-goodwin-moralia-v5` | have (PG 78000) |
+| Plutarch's Morals | A. R. Shilleto (Bohn) | `plutarch-shilleto-morals` | have (PG 23639) |
+| Plutarch's Romane Questions | Philemon Holland (1603), ed. F. B. Jevons (1892) | `plutarch-holland-roman-questions` | have (PG 57513) |
+| Plutarch on the Delay of the Divine Justice | Andrew P. Peabody | `plutarch-peabody-delay` | have (PG 58567) |
+| Selected Essays of Plutarch, vol. I | T. G. Tucker | `plutarch-tucker-essays` | have (PG 62618) |
+| Selected Essays of Plutarch, vol. II | A. O. Prickard | `plutarch-prickard-essays` | have (PG 62858) |
+| Lives of the Noble Grecians and Romans, vol. 1 (Tudor Translations, 1895-96) | Sir Thomas North (1579) | `plutarch-north-lives-v1` | have-raw (IA `plutarchslivesn03accigoog`) |
+| Lives of the Noble Grecians and Romans, vol. 2 (Tudor Translations, 1895-96) | Sir Thomas North (1579) | `plutarch-north-lives-v2` | have-raw (IA `plutarchslivesn01accigoog`) |
+| Lives of the Noble Grecians and Romans, vol. 3 (Tudor Translations, 1895-96) | Sir Thomas North (1579) | `plutarch-north-lives-v3` | have-raw (IA `plutarchslivesn04accigoog`) |
+| Lives of the Noble Grecians and Romans, vol. 4 (Tudor Translations, 1895-96) | Sir Thomas North (1579) | `plutarch-north-lives-v4` | have-raw (IA `plutarchslivesn00accigoog`) |
+| Lives of the Noble Grecians and Romans, vol. 5 (Tudor Translations, 1895-96) | Sir Thomas North (1579) | `plutarch-north-lives-v5` | have-raw (IA `plutarchslivesn06accigoog`) |
+| Lives of the Noble Grecians and Romans, vol. 6 (Tudor Translations, 1895-96) | Sir Thomas North (1579) | `plutarch-north-lives-v6` | have-raw (IA `plutarchslivesn02accigoog`) |
+| Plutarch's Lives, translated from the original Greek, vol. 1 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v1` | have-raw (IA `livestranslatedf01plutuoft`) |
+| Plutarch's Lives, translated from the original Greek, vol. 2 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v2` | have-raw (IA `livestranslatedf02plutuoft`) |
+| Plutarch's Lives, translated from the original Greek, vol. 3 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v3` | have-raw (IA `livestranslatedf03plutuoft`) |
+| Plutarch's Lives, translated from the original Greek, vol. 4 (1844-46 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v4` | have-raw (IA `livestranslatedf04plutuoft`) |
+| Plutarch's Lives, translated from the original Greek, vol. 5 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v5` | have-raw (IA `livestranslatedf05plutuoft`) |
+| Plutarch's Lives, translated from the original Greek, vol. 6 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v6` | have-raw (IA `livestranslatedf06plutuoft`) |
+| — | — | `plutarch-lives` | cross-ref → Adler shelf: PG 674, the Dryden-and-others translation revised by A. H. Clough (1859); Adler labels it 'tr. Dryden/Clough' |
+
+Pending (wishlist): Philemon Holland's complete Morals (1603) in a cleaner copy; Perrin's and Babbitt's Loebs, on Perseus.
+
+Excluded: PG 3052 (older text of Goodwin), PG 2484 (adaptation), `plutarchslivesn05accigoog` (a worse second scan of North vol. 5), Shakespeare's Plutarch (selections from North).
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
