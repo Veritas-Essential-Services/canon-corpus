@@ -160,3 +160,9 @@
 ## 2026-10-02 16:50 CDT — pending-volumes-hunt (done)
 - Found and fetched: Foster's Livy vol 3, Books V-VII (Loeb, 1924; IA, clean-word 0.91); Taylor's Pausanias 1824 vol 3, Books VII-X (IA, 0.86); Keyes's De Re Publica and De Legibus (Loeb, 1928; IA, 0.90; later reprints with no revision notice).
 - Still missing: Kennedy's Demosthenes vol 5 (the 1865 'On the Crown and On the Embassy' scan duplicates other Kennedy content, so it was not taken as vol 5); Beloe's Gellius vol 2 (the only scan reads 0.75 and does not name Beloe); Hawkins's Claudian vol 2; Frazer's Pausanias vol 1; Nixon's Plautus vol 2 (archive.org returns 503); Bennett's Horace Odes (best scan reads 0.74 and has no legible title verso).
+
+## 2026-10-02 16:56 CDT — wishlist-sweep-b (in progress)
+- Gutenberg: Elton's Hesiod, 2nd ed. 1815, with Chapman's Works and Days (PG 66350); Bysshe's Memorable Thoughts of Socrates, 1712 (PG 17490). Headers read; neither is COPYRIGHTED.
+- IA: The Greek Tragic Theatre (new ed., 1809). Vol 1 is Potter's Aeschylus; vols 3-5 are Wodhull's Euripides. Each was identified by its title page. Vol 2 (Francklin's Sophocles) returns 503 and is pending.
+- IA: Swanwick's Aeschylus (4th ed. 1899), Plumptre's Sophocles (1865), Creech's Lucretius (1714, 2 vols), Rowe's Lucan vol 1, Carter's Epictetus (Dublin 1759), Cary's Herodotus (1873). Clean-word 0.85-0.92, with long-s OCR in the 18th-century printings.
+- Skipped: Smart's prose Horace (best scan 0.81, title page not legible); Rogers's Aristophanes (Greek facing in both the Bell and Loeb printings).

@@ -185,8 +185,10 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | Four Plays of Aeschylus: Suppliant Maidens, Persians, Seven against Thebes, Prometheus Bound | E. D. A. Morshead (verse) | `aeschylus-morshead-four` | have (PG 8714) |
 | Prometheus Bound and the Seven Against Thebes | Theodore Alois Buckley (prose, Bohn) | `aeschylus-buckley-prometheus-seven` | have (PG 27458) |
 | The Agamemnon of Aeschylus, translated into English rhyming verse | Gilbert Murray; US PD per Gutenberg | `aeschylus-murray-agamemnon` | have (PG 14417) |
+| The Greek Tragic Theatre, vol. 1: Aeschylus (new ed., 1809) | Robert Potter | `aeschylus-potter-greek-tragic-theatre` | have-raw (IA `greektragicthea01wodhgoog`) |
+| The Dramas of Aeschylus (4th ed., revised, 1899) | Anna Swanwick | `aeschylus-swanwick` | have-raw (IA `dramasofaeschylu0000unse`) |
 
-Pending (wishlist): H. W. Smyth's Loeb (1922-26), on Perseus, US PD by date; Anna Swanwick's verse Aeschylus (1873); Robert Browning's Agamemnon (1877).
+Pending (wishlist): H. W. Smyth's Loeb (1922-26), on Perseus, US PD by date; Robert Browning's Agamemnon (1877).
 
 Excluded: PG 7073 (Goldwin Smith's Specimens: excerpts).
 
@@ -210,8 +212,11 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Tragedies of Euripides in English Verse, vol. 3 (1898) | Arthur S. Way | `euripides-way-1894-v3` | have-raw (IA `tragediesofeurip03euriuoft`) |
 | The Plays of Euripides, translated into English prose, vol. 1 (1891) | Edward P. Coleridge | `euripides-coleridge-1891-v1` | have-raw (IA `playseuripides01colegoog`) |
 | The Plays of Euripides, translated into English prose, vol. 2 (1891) | Edward P. Coleridge | `euripides-coleridge-1891-v2` | have-raw (IA `playseuripides00colegoog`) |
+| The Greek Tragic Theatre, vol. 3: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v3` | have-raw (IA `greektragictheat03pott`) |
+| The Greek Tragic Theatre, vol. 4: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v4` | have-raw (IA `greektragictheat04pott`) |
+| The Greek Tragic Theatre, vol. 5: Euripides (new ed., 1809) | Michael Wodhull | `euripides-wodhull-v5` | have-raw (IA `greektragicthea02wodhgoog`) |
 
-Pending (wishlist): Buckley vol. II; Way's 1912 Loeb (Greek facing); Wodhull's complete 1782 Euripides; Robert Potter (1781-83).
+Pending (wishlist): Buckley vol. II; Way's 1912 Loeb (Greek facing); Robert Potter's Euripides (1781-83). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
 Excluded: PG 35171 and 35173 (duplicate Murray Trojan Women and Bacchae).
 
@@ -232,8 +237,9 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | — | — | `sophocles-electra-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
 | — | — | `sophocles-philoctetes-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
 | — | — | `sophocles-oedipus-colonus-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
+| The Tragedies of Sophocles, a new translation (1865) | E. H. Plumptre | `sophocles-plumptre` | have-raw (IA `tragediesofsopho1865soph`) |
 
-Pending (wishlist): Plumptre's verse Sophocles (1865); Thomas Francklin (1759); Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
+Pending (wishlist): Thomas Francklin (1759; vol. 2 of the 1809 Greek Tragic Theatre, not yet readable); Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
 Excluded: PG 806 (McNamee, a COPYRIGHTED Gutenberg eBook), PG 7073 (excerpts).
 
@@ -265,8 +271,9 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | History of Herodotus: a new English version, vol. 3 (1861 printing) | George Rawlinson | `herodotus-rawlinson-v3` | have-raw (IA `c2historyofherod03hero`) |
 | History of Herodotus: a new English version, vol. 4 (1861 printing) | George Rawlinson | `herodotus-rawlinson-v4` | have-raw (IA `historyofherod04hero`) |
 | — | — | `herodotus-history` | cross-ref → Adler shelf (pipeline/adler_shelf.json): PG 2707, Macaulay vol. 1 (Books I-IV) only, although that shelf's title reads as the whole History |
+| Herodotus: a New and Literal Version from the Text of Baehr (Harper, 1873) | Henry Cary | `herodotus-cary` | have-raw (IA `herodotusnewlite0000hero`) |
 
-Pending (wishlist): Henry Cary (Bohn, 1847); A. D. Godley's Loeb (1920-25), on Perseus.
+Pending (wishlist): A. D. Godley's Loeb (1920-25), on Perseus.
 
 Excluded: PG 2131 (an extract of Book II), PG 55758 (adaptation).
 
@@ -401,8 +408,9 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | The Works of Epictetus: Discourses, Enchiridion and Fragments, vol. 1 (1890 printing) | Thomas Wentworth Higginson | `epictetus-higginson-works-v1` | have-raw (IA `worksepictetusc02epicgoog`) |
 | The Works of Epictetus, vol. 2 (1890 printing) | Thomas Wentworth Higginson | `epictetus-higginson-works-v2` | have-raw (IA `worksepictetusc00epicgoog`) |
 | — | — | `epictetus-discourses` | cross-ref → Adler shelf: PG 45109 is Higginson's ENCHIRIDION only; the Adler label 'The Discourses, tr. P.E. Matheson' is wrong |
+| All the Works of Epictetus, which are now Extant (Dublin, 1759) | Elizabeth Carter | `epictetus-carter` | have-raw (IA `allworksofepicte00epic`) |
 
-Pending (wishlist): Elizabeth Carter (1758); Oldfather's Loeb (1925-28).
+Pending (wishlist): Oldfather's Loeb (1925-28).
 
 ## Seneca
 
@@ -535,8 +543,10 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | Lucretius on the Nature of Things (Oxford, 1910) | Cyril Bailey | `lucretius-bailey-1910` | have-raw (IA `lucretiusonthena00lucruoft`) |
 | — | — | `lucretius-nature` | cross-ref → Adler shelf: PG 785 is William Ellery LEONARD's 1916 verse translation, not Munro's as the Adler label says |
 | — | — | `dryden-lucretius` | cross-ref → Dryden shelf, lane C (Dryden's passages from Lucretius) |
+| T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714) | Thomas Creech | `lucretius-creech-v1` | have-raw (IA `tlucretiuscaruso01lucr`) |
+| T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714) | Thomas Creech | `lucretius-creech-v2` | have-raw (IA `tlucretiuscaruso02lucr`) |
 
-Pending (wishlist): Thomas Creech (1682); Rouse's Loeb (1924).
+Pending (wishlist): Rouse's Loeb (1924).
 
 Excluded: `in.ernet.dli.2015.96329` (empty text layer).
 
@@ -617,8 +627,9 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 |---|---|---|---|
 | Pharsalia; Dramatic Episodes of the Civil Wars | Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation | `lucan-ridley-pharsalia` | have (PG 602) |
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
+| Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
 
-Pending (wishlist): Nicholas Rowe (1718); Marlowe's First Book (Marlowe shelf).
+Pending (wishlist): Rowe vol. 2; Marlowe's First Book (Marlowe shelf).
 
 ## Apuleius
 
