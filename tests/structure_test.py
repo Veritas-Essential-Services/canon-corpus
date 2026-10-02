@@ -433,6 +433,35 @@ check("shelf: numbering and page numbers are not part of a Contents key",
       st._contents_key("  II. THE MOCK GOOSE ~ ~ ~   12") == "THE MOCK GOOSE")
 check("shelf: a book with no Contents falls back to the CAPS rule",
       st.contents_chapre.__doc__ and st.CAPS_HEADING in _rx)
+# The Contents reader must not eat letters off a title (2026-10-02, needs
+# Adam's ruling). The old rule read a trailing c/i/l/v/x as a roman page number
+# and a leading I/V/X/L/C run as a chapter number.
+check("contents: a title ending in c/i/l/v/x keeps its last letters",
+      [st._contents_key(t) for t in ("The Mice in Council", "Music", "The Devil", "Panic 33")]
+      == ["The Mice in Council", "Music", "The Devil", "Panic"])
+check("contents: a title starting with I/V/X/L/C keeps its first letters",
+      [st._contents_key(t) for t in ("Civilization", "Lucifer", "CIVIL WAR", "Civic")]
+      == ["Civilization", "Lucifer", "CIVIL WAR", "Civic"])
+check("contents: real numbering and page numbers still come off",
+      [st._contents_key(t) for t in ("IX. THE BOOK OF JOB", "iv. On Lying", "Heretics   xi",
+                                      "The Rival.....vii", "CHAPTER XII. The End")]
+      == ["THE BOOK OF JOB", "On Lying", "Heretics", "The Rival", "The End"])
+check("contents: the old rule is kept only for the diff, and it did cut",
+      st._contents_key("The Mice in Council", old=True) == "The Mice in Coun")
+_FAB = ("CONTENTS\n\n  The Mice in Council\n  The Cock and the Jewel\n\n\n\n\n"
+        "The Mice in Council\n\nOnce the mice met.\n\nThey chose a bell.\n\n"
+        "The Cock and the Jewel\n\nA cock found a jewel.\n")
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_FAB)
+st.CORPUS = os.path.dirname(_fh.name)
+_new = st.convert_gutenberg_prose(_fh.name, "t", "T", "A", st.contents_chapre(_fh.name))
+_old = st.convert_gutenberg_prose(_fh.name, "t", "T", "A", st.contents_chapre(_fh.name, old=True))
+st.CORPUS = _saved_corpus
+os.unlink(_fh.name)
+check("contents: with no page number after them, title-case headings ending in -il/-el are found now, missed before",
+      [u["id"] for u in _new["units"]][1:] == ["t:The_Mice_in_Council.1", "t:The_Mice_in_Council.2",
+                                               "t:The_Cock_and_the_Jewel.1"]
+      and "t:The_Mice_in_Council.1" not in [u["id"] for u in _old["units"]])
 check("thml: <pre> verse is read only where a book opts in",
       "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
 

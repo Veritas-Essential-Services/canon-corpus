@@ -86,9 +86,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 64 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 69 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
+    python3 pipeline/contents_key_diff.py --write  # ids the Contents-reader fix moves (awaiting Adam)
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
