@@ -1,5 +1,5 @@
 {
- "_about": "Aulus Gellius, Attic Nights, in William Beloe's translation (1795), raw IA OCR: vol. 1 and vol. 3 (Books XIII-XX). Vol. 2 not yet found with a text layer. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_about": "Aulus Gellius, Attic Nights, in William Beloe's translation (1795), raw IA OCR: vols. 1-3 complete (vol. 2 found 2026-10-02 under atticnightsofaul02gelliala; its title page reads \"By the Rev. W. Beloe ... Vol. II ... MDCCXCV\"). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "gellius",
   "attic",
@@ -11,6 +11,11 @@
   "gellius-beloe-v1": [
    "bub_gb_j3kBAAAAMAAJ",
    "The Attic Nights of Aulus Gellius, vol. 1 (1795)",
+   "tr. William Beloe"
+  ],
+  "gellius-beloe-v2": [
+   "atticnightsofaul02gelliala",
+   "The Attic Nights of Aulus Gellius, vol. 2 (1795)",
    "tr. William Beloe"
   ],
   "gellius-beloe-v3": [

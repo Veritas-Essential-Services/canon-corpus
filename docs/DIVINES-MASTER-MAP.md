@@ -2185,12 +2185,13 @@ Shelf: `pipeline/gellius_shelf.json`. Beloe 1795, vols. 1 and 3 (IA, 0.84-0.86).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Attic Nights of Aulus Gellius, vol. 1 (1795) | William Beloe | `gellius-beloe-v1` | have-raw (IA `bub_gb_j3kBAAAAMAAJ`) |
+| The Attic Nights of Aulus Gellius, vol. 2 (1795) | William Beloe | `gellius-beloe-v2` | have-raw (IA `atticnightsofaul02gelliala`) |
 | The Attic Nights of Aulus Gellius, vol. 3 (1795) | William Beloe | `gellius-beloe-v3` | have-raw (IA `atticnightsaulu02gellgoog`) |
 | The Attic Nights of Aulus Gellius, vol. 1 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v1` | have-raw (IA `bwb_S0-AVN-133`) |
 | The Attic Nights of Aulus Gellius, vol. 2 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v2` | have-raw (IA `bwb_S0-AVN-132`) |
 | The Attic Nights of Aulus Gellius, vol. 3 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v3` | have-raw (IA `atticnightsofaul0003unse`) |
 
-Pending (wishlist): Beloe vol. 2 (no text layer)
+Pending (wishlist): 
 
 ## Ammianus Marcellinus
 
