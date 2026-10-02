@@ -280,7 +280,8 @@ DRAMA_FIX2 = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><t
 <note resp="perseus" place="inline">Adapted and modernized.</note>
 <div type="textpart" subtype="episode"><sp><speaker>Nurse</speaker>
 <l n="1">Would that the Argo<note resp="Coleridge" n="1">The ship of Jason.</note> had never sped.</l>
-</sp></div></div></body></text></TEI>"""
+</sp><stage>Enter Io<note resp="Smyth" n="561">On vase-paintings.</note></stage>
+<sp><speaker>Io</speaker><l n="2">By Pluto's<note resp="Smyth">Giver of wealth.</note>stream.</l></sp></div></div></body></text></TEI>"""
 with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
     f.write(DRAMA_FIX2); dr2_path = f.name
 dr2 = st.convert_tei_drama(dr2_path, "fixture-two", "Fix2")
@@ -291,7 +292,12 @@ check("drama: a footnote inside a line is lifted out of the spoken text, kept wi
 check("drama: the cast list is kept whole at book level; an editor's front note rides on line 1",
       dr2["dramatis_personae"] == ["Medea", "Nurse"]
       and {"by": "perseus", "text": "Adapted and modernized."} in d2["notes"]
-      and len(dr2["units"]) == 1)
+      and len(dr2["units"]) == 2)
+check("drama: a footnote lifted from between two words leaves them two words",
+      dr2["units"][1]["text"] == "By Pluto's stream.")
+check("drama: a footnote inside a stage direction goes to notes, not into the direction",
+      dr2["units"][1]["drama"]["stage"] == ["Enter Io"]
+      and {"by": "Smyth", "n": "561", "text": "On vase-paintings."} in dr2["units"][1]["drama"]["notes"])
 check("drama: a licence line in the file is the one recorded",
       "CC BY-SA licence line" in dr2["rights"]["note"])
 os.unlink(dr2_path)

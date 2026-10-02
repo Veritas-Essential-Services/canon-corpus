@@ -110,6 +110,13 @@ TEI_DRAMA = {
     "sophocles-electra-jebb": "Soph. El.",
     "sophocles-philoctetes-jebb": "Soph. Phil.",
     "sophocles-oedipus-colonus-jebb": "Soph. OC",
+    "aeschylus-supplices-smyth": "Aesch. Supp.",
+    "aeschylus-persians-smyth": "Aesch. Pers.",
+    "aeschylus-prometheus-smyth": "Aesch. PV",
+    "aeschylus-seven-smyth": "Aesch. Sept.",
+    "aeschylus-agamemnon-smyth": "Aesch. Ag.",
+    "aeschylus-libation-bearers-smyth": "Aesch. Cho.",
+    "aeschylus-eumenides-smyth": "Aesch. Eum.",
 }
 # Per-book line-number fixes (rule 2: never hand-edit a source; fix here so it
 # reruns on refetch). Each is a typo in the Perseus file, shown by context.
@@ -117,6 +124,8 @@ TEI_DRAMA_N_FIX = {
     # Antigone's half-line completing Oedipus' 1099 ("Where? Where?" /
     # "Father, father,"), between 1099 and 1100: the file says 1009a.
     ("sophocles-oedipus-colonus-jebb", "1009a"): "1099a",
+    # Between 405 and 410, a line number with a stray digit.
+    ("aeschylus-supplices-smyth", "4097"): "407",
 }
 
 
@@ -136,15 +145,25 @@ def convert_tei_drama(path, slug, abbrev):
         # Stage directions and footnotes inside a segment are not spoken
         # text: lift them out (kept under drama.stage / drama.notes), keep
         # everything else including <del>, the translation's own brackets.
+        # A lifted note or stage direction leaves a space where it sat when
+        # letters touch on both sides: Perseus often has "Pluto's<note>..
+        # </note>stream", which read as one word once the note is gone.
         parts, stage, notes = [], [], []
 
+        def lift(e):
+            if parts and e.tail and parts[-1][-1:].isalnum() and e.tail[:1].isalnum():
+                parts.append(" ")
+            if e.tail: parts.append(e.tail)
+
         def walk(e):
-            if e.tag in (T + "stage", T + "note"):
-                if e.tag == T + "stage":
-                    stage.append(clean("".join(e.itertext())))
-                else:
-                    notes.append(note_of(e))
-                if e.tail: parts.append(e.tail)
+            if e.tag == T + "stage" and e is not el:
+                t, s2, n2 = seg_text(e)          # a stage direction may carry a footnote
+                stage.extend([t] + s2); notes.extend(n2)
+                lift(e)
+                return
+            if e.tag == T + "note":
+                notes.append(note_of(e))
+                lift(e)
                 return
             if e.text: parts.append(e.text)
             for c in e:
@@ -162,9 +181,9 @@ def convert_tei_drama(path, slug, abbrev):
             speaker = clean("".join(e.itertext()))
             return
         elif tag == T + "stage":
-            s = clean("".join(e.itertext()))
-            if s:
-                pending_stage.append(s)
+            t, s2, n2 = seg_text(e)
+            pending_stage.extend(x for x in [t] + s2 if x)
+            pending_notes.extend(n2)
             return
         elif tag == T + "note":
             ps = [clean(" ".join(p.itertext())) for p in e.iter(T + "p")]

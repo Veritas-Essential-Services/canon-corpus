@@ -1790,5 +1790,145 @@
    "redistribute_whole": true,
    "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "aeschylus-agamemnon-smyth": {
+  "title": "Agamemnon",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "7a1a55dd9fa04b063bc2985d59172794e289136094024d46d2e0c2e98e13e906",
+  "units": 518,
+  "scheme": {
+   "citation": "Aesch. Ag. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 3 segment(s) contain a lacuna the translator marks as lost (drama.gap). 52 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "aeschylus-eumenides-smyth": {
+  "title": "Eumenides",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "20de940cd1dbb8ecdf84465e4d577fa002508359fa4999b2331e9aab60f58649",
+  "units": 363,
+  "scheme": {
+   "citation": "Aesch. Eum. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 33 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "aeschylus-libation-bearers-smyth": {
+  "title": "Libation Bearers",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "5847c9094ca2680b955330773fe9ad0dbca0d3e331f79fcd58ff437d44756749",
+  "units": 394,
+  "scheme": {
+   "citation": "Aesch. Cho. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 42 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "aeschylus-persians-smyth": {
+  "title": "Persians",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "c5319fde0af5388d0f43a9f18182bbe324b29196d176a59af843123df43239d1",
+  "units": 379,
+  "scheme": {
+   "citation": "Aesch. Pers. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 9 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "aeschylus-prometheus-smyth": {
+  "title": "Prometheus Bound",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "9f4a9a2c228294890e41497ee485c5fa79abc1ac56c04f143be1b05d6092d09e",
+  "units": 393,
+  "scheme": {
+   "citation": "Aesch. PV line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 13 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "aeschylus-seven-smyth": {
+  "title": "Seven Against Thebes",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "165683398f6168d215e9d081d4b97e0fbaf1050821f31220b2da8795c25f18b0",
+  "units": 373,
+  "scheme": {
+   "citation": "Aesch. Sept. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 18 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "aeschylus-supplices-smyth": {
+  "title": "Suppliant Maidens",
+  "author": "Aeschylus",
+  "format": "tei",
+  "sha256": "f85848cbec3fa851fd0796f363ac900e672857cb899713716ed8bc7f3eb6b260",
+  "units": 400,
+  "scheme": {
+   "citation": "Aesch. Supp. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 1 segment(s) contain a lacuna the translator marks as lost (drama.gap). 26 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }

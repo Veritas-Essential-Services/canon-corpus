@@ -68,6 +68,33 @@ PERSEUS = {
     "sophocles-oedipus-colonus-jebb": ("canonical-greekLit",
         "tlg0011/tlg007/tlg0011.tlg007.perseus-eng2.xml",
         "Sophocles, Oedipus at Colonus — R. C. Jebb 1889 (PD); urn ...tlg0011.tlg007.perseus-eng2"),
+    # Aeschylus, the seven plays (Adler vol. 5), 2026-10-02. Herbert Weir
+    # Smyth's Loeb prose (Heinemann/Putnam, 1922 & 1926), "modernized by
+    # Perseus". Rights line read per file: every titleStmt names Smyth. PD in
+    # the US (published before 1931) and life+70 elsewhere (Smyth d. 1937).
+    # Agamemnon is eng3 (Smyth) on purpose; eng4 is Browning's 1889 verse,
+    # also PD, left for a second witness later.
+    "aeschylus-supplices-smyth": ("canonical-greekLit",
+        "tlg0085/tlg001/tlg0085.tlg001.perseus-eng2.xml",
+        "Aeschylus, Suppliant Maidens — H. W. Smyth 1922 (PD); urn ...tlg0085.tlg001.perseus-eng2"),
+    "aeschylus-persians-smyth": ("canonical-greekLit",
+        "tlg0085/tlg002/tlg0085.tlg002.perseus-eng2.xml",
+        "Aeschylus, Persians — H. W. Smyth 1922 (PD); urn ...tlg0085.tlg002.perseus-eng2"),
+    "aeschylus-prometheus-smyth": ("canonical-greekLit",
+        "tlg0085/tlg003/tlg0085.tlg003.perseus-eng2.xml",
+        "Aeschylus, Prometheus Bound — H. W. Smyth 1922 (PD); urn ...tlg0085.tlg003.perseus-eng2"),
+    "aeschylus-seven-smyth": ("canonical-greekLit",
+        "tlg0085/tlg004/tlg0085.tlg004.perseus-eng2.xml",
+        "Aeschylus, Seven Against Thebes — H. W. Smyth 1922 (PD); urn ...tlg0085.tlg004.perseus-eng2"),
+    "aeschylus-agamemnon-smyth": ("canonical-greekLit",
+        "tlg0085/tlg005/tlg0085.tlg005.perseus-eng3.xml",
+        "Aeschylus, Agamemnon — H. W. Smyth 1926 (PD); urn ...tlg0085.tlg005.perseus-eng3"),
+    "aeschylus-libation-bearers-smyth": ("canonical-greekLit",
+        "tlg0085/tlg006/tlg0085.tlg006.perseus-eng2.xml",
+        "Aeschylus, Libation Bearers — H. W. Smyth 1926 (PD); urn ...tlg0085.tlg006.perseus-eng2"),
+    "aeschylus-eumenides-smyth": ("canonical-greekLit",
+        "tlg0085/tlg007/tlg0085.tlg007.perseus-eng2.xml",
+        "Aeschylus, Eumenides — H. W. Smyth 1926 (PD); urn ...tlg0085.tlg007.perseus-eng2"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).
