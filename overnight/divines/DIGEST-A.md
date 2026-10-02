@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:26 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:29 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -34,6 +34,14 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 | R. M. M'Cheyne (prose) | mcheyne_shelf.json | 0 new (Bonar's Memoir already on the Andrew Bonar shelf) | 5 (Works 1847, 2 vols; Additional Remains 1849; Familiar Letters 1848; Sermons 1863) | none | hymns (see hymn manifest), Gaelic translations |
 | Matthew Henry | matthew-henry_shelf.json | 7 CCEL (the whole Commentary in 6 vols + Concise) | 2 (Miscellaneous Works 1830; Life of Philip Henry) | Complete Works 1847 (vol. 1 only found) | German translation |
 | John Calvin (English) | calvin_shelf.json | Institutes (Beveridge) + Relics from CCEL; Letters vols 1-2 from Gutenberg (the 45 CTS commentaries were already held) | 5 (Letters vols 3-4; CTS Tracts 3 vols) | Allen's Institutes | French sermons, Latin stubs, 1970s reprints |
+
+## Round 3: my picks, also for your veto
+
+The coordinator's list was finished by 16:30 CDT with time to spare, so lane A carried on with further Puritan and Reformed classics of the same kind. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| Stephen Charnock | charnock_shelf.json | 6 CCEL discourses | 5 (Nichol Complete Works 1864-66, complete) | none | Richard Stephen Charnock (etymologist) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

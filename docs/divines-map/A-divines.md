@@ -464,3 +464,24 @@ Census first: the 45 Calvin Translation Society commentary volumes are already h
 | Institutes in John Allen's (1813) or Norton's (1561) translation | pending | not searched |
 | French sermons (Corpus Reformatorum 61-63, on CCEL); Latin Institutio | excluded here | not English; CCEL's Institutio files are stubs |
 | On the Christian Life; Of Prayer (CCEL) | alternate | extracts from the Institutes held |
+
+
+## Stephen Charnock (round 3, my pick, 2026-10-02)
+
+Target: Nichol's *Complete Works of Stephen Charnock* (1864-1866), 5 volumes, raw IA OCR; vols 1-2 hold the Existence and Attributes of God. Six CCEL discourses held clean. No Gutenberg Charnock.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discourse on the Cleansing Virtue of Christ's Blood | have | CCEL `cleansing` (`charnock-cleansing`) |
+| A Discourse of the Efficient of Regeneration | have | CCEL `efficient_regeneration` (`charnock-efficient-regeneration`) |
+| A Discourse of the Word, the Instrument of Regeneration | have | CCEL `instr_regen` (`charnock-instrument-regeneration`) |
+| A Discourse of the Nature of Regeneration | have | CCEL `nat_regen` (`charnock-nature-regeneration`) |
+| The Necessity of Regeneration | have | CCEL `nec_regen` (`charnock-necessity-regeneration`) |
+| A Discourse of God's being the Author of Reconciliation | have | CCEL `reconcil` (`charnock-reconciliation`) |
+| Nichol vol. 1 | have-raw | IA `completeworksofs01char` |
+| Nichol vol. 2 | have-raw | IA `completeworksofs02char` |
+| Nichol vol. 3 | have-raw | IA `completeworksofs03char` |
+| Nichol vol. 4 | have-raw | IA `completeworksofs04char` |
+| Nichol vol. 5 | have-raw | IA `completeworksofs05char` |
+| Parsons edition (1815, 9 vols); separate printings of the Attributes (1800-1874) | alternate | Nichol supersedes them |
+| Richard Stephen Charnock, etymologist | excluded | different person |

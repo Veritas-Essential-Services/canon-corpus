@@ -1,0 +1,74 @@
+{
+ "_about": "Every public-domain Stephen Charnock (1628-1680) text the Word Hoard holds. The target is Nichol's Complete Works (Nichol's Series of Standard Divines, 5 vols, 1864-1866, introduction by James M'Cosh, d. 1894), Internet Archive OCR, raw and unconverted, one scan series, each volume number read off its title page; vols 1-2 carry the Existence and Attributes of God. CCEL ThML is fetched for its six Charnock discourses (clean). No Gutenberg Charnock found. Not to be confused with Richard Stephen Charnock (1820-1904), the etymologist, who fills most IA results for the name.",
+ "_ccel_author": "c/charnock",
+ "_name_words": [
+  "charnock"
+ ],
+ "_held": {},
+ "ccel": {
+  "charnock-cleansing": [
+   "cleansing",
+   "A Discourse on the Cleansing Virtue of Christ's Blood",
+   ""
+  ],
+  "charnock-efficient-regeneration": [
+   "efficient_regeneration",
+   "A Discourse of the Efficient of Regeneration",
+   ""
+  ],
+  "charnock-instrument-regeneration": [
+   "instr_regen",
+   "A Discourse of the Word, the Instrument of Regeneration",
+   ""
+  ],
+  "charnock-nature-regeneration": [
+   "nat_regen",
+   "A Discourse of the Nature of Regeneration",
+   ""
+  ],
+  "charnock-necessity-regeneration": [
+   "nec_regen",
+   "The Necessity of Regeneration",
+   ""
+  ],
+  "charnock-reconciliation": [
+   "reconcil",
+   "A Discourse of God's being the Author of Reconciliation",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "charnock-works-nichol-1": [
+   "completeworksofs01char",
+   "The Complete Works of Stephen Charnock, intro. James M'Cosh (Edinburgh: James Nichol, 1864-1866), vol. 1"
+  ],
+  "charnock-works-nichol-2": [
+   "completeworksofs02char",
+   "The Complete Works of Stephen Charnock, intro. James M'Cosh (Edinburgh: James Nichol, 1864-1866), vol. 2"
+  ],
+  "charnock-works-nichol-3": [
+   "completeworksofs03char",
+   "The Complete Works of Stephen Charnock, intro. James M'Cosh (Edinburgh: James Nichol, 1864-1866), vol. 3"
+  ],
+  "charnock-works-nichol-4": [
+   "completeworksofs04char",
+   "The Complete Works of Stephen Charnock, intro. James M'Cosh (Edinburgh: James Nichol, 1864-1866), vol. 4"
+  ],
+  "charnock-works-nichol-5": [
+   "completeworksofs05char",
+   "The Complete Works of Stephen Charnock, intro. James M'Cosh (Edinburgh: James Nichol, 1864-1866), vol. 5"
+  ]
+ },
+ "_alternates": {
+  "completeworksofs0[0-3]charuoft, completeworksof01char, completeworksofs0000char, completeworksst0[0-3]mcogoog, completeworksst00chargoog, completeworksst00unkngoog": "Further scans of Nichol; not fetched.",
+  "worksoflaterevst01char..09char (1815, 9 vols)": "The Parsons edition; Nichol supersedes it.",
+  "discoursesupon*/discoursesuponex*/discoursesupone* (1800-1874)": "Separate printings of the Existence and Attributes of God; in Nichol vols 1-2.",
+  "discoursesonchri00char (1836), discoursesonchri00char_0 (1830), adiscourseprovi00chargoog (1838)": "Single-work printings; texts are in Nichol."
+ },
+ "_excluded": {
+  "Richard Stephen Charnock (about 40 items)": "the etymologist (1820-1904): a different person",
+  "attributesgodas00wishgoog": "an 1835 anthology by W. Wilson",
+  "doctrineofregene00char": "an 1840 selection by another hand"
+ }
+}
