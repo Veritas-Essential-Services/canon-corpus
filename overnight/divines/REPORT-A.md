@@ -204,3 +204,6 @@
 - **Edwards:** the 1903 Unpublished Essay on the Trinity was held twice (CCEL clean and an IA scan); the scan moved to `_alternates`. The shelf now has 47 items. Of the 8 early printings added this burn, one (Hopkins's Life, 1804) is about Edwards, not by him; the digest says so.
 - **Concise Matthew Henry:** CCEL's file names no abridger and no date. Recorded as `_rights_question` on the shelf and put to Adam.
 - `tests/structure_test.py`: 64 passed. 0 uids minted.
+
+## 2026-10-02 17:37 CDT — watts done
+- `pipeline/watts_shelf.json`: the London Works (1810, ed. Burder), 6 vols, raw IA OCR (98.3-99.3%); the Leeds Works vol. 1 and the Essay on Psalmody clean from Gutenberg (rights lines passed). About 20 MB. `--verify --record`: 0 mismatched, 0 rights flags. Hymns left to the hymn manifest. 0 uids minted.

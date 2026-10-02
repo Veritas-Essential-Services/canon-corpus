@@ -786,3 +786,15 @@ Devotional books, all published before his death in 1917: eleven clean from CCEL
 | Holy in Christ; Humility; The Ministry of Intercession; 'Jesus Himself' (1893); Money | have | Gutenberg 26990, 57121, 29296, 26003, 41994 |
 | Lord, Teach Us To Pray (1896) | alternate | 71% of it is in the School of Prayer, which is held |
 | The Spirit-Filled Life (Gutenberg 33247) | excluded | by John MacNeil; Murray's introduction only |
+
+## Isaac Watts (round 5, my pick, 2026-10-02)
+
+Prose only; the hymns and psalms are for the hymn manifest.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works, Leeds edition (Baines), vol. 1 of 9 | have | Gutenberg 77103 (`watts-works-leeds-1`) |
+| A Short Essay Toward the Improvement of Psalmody | have | Gutenberg 30409 (`watts-essay-psalmody`) |
+| The Works (London: Barfield, 1810, ed. Burder), vols. I-VI | have-raw | IA `worksofreverendl01watt`..`06watt` |
+| The Leeds Works, vols. 2-9 | pending | not yet released on Gutenberg |
+| Hymns and Spiritual Songs; The Psalms of David; Divine Songs | excluded here | hymn manifest |

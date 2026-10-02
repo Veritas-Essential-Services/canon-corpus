@@ -357,6 +357,92 @@
       "added_by": "lane A worker, round 4 (rounds 2-3 done with burn left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
       "finished": "2026-10-02T17:18:39-05:00",
       "notes": "11 CCEL + 5 PG"
+    },
+    {
+      "id": "watts",
+      "status": "done",
+      "scope": "Isaac Watts: prose works (d. 1748); hymns to the hymn manifest",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T17:37:49-05:00",
+      "notes": "2 PG + 6 IA"
+    },
+    {
+      "id": "chalmers",
+      "status": "todo",
+      "scope": "Thomas Chalmers: Works (d. 1847)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "erskines",
+      "status": "todo",
+      "scope": "Ebenezer and Ralph Erskine: sermons and works (d. 1754, 1752)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "halyburton",
+      "status": "todo",
+      "scope": "Thomas Halyburton: Works (d. 1712)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "durham",
+      "status": "todo",
+      "scope": "James Durham: commentaries (d. 1658)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "binning",
+      "status": "todo",
+      "scope": "Hugh Binning: Works (d. 1653)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "winslow",
+      "status": "todo",
+      "scope": "Octavius Winslow: devotional works (d. 1878)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "archibald-alexander",
+      "status": "todo",
+      "scope": "Archibald Alexander: works (d. 1851)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "warfield",
+      "status": "todo",
+      "scope": "B. B. Warfield: works published before 1929 (d. 1921)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "thornwell",
+      "status": "todo",
+      "scope": "J. H. Thornwell: Collected Writings (d. 1862)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "dabney",
+      "status": "todo",
+      "scope": "R. L. Dabney: works (d. 1898)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "samuel-davies",
+      "status": "todo",
+      "scope": "Samuel Davies: Sermons (d. 1761)",
+      "added": "2026-10-02T17:35:36-05:00",
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
     }
   ]
 }

@@ -1,0 +1,141 @@
+{
+ "_about": "Public-domain Isaac Watts (1674-1748, Independent minister, Stoke Newington) for the Word Hoard: his prose. The Works (London: J. Barfield, 1810, ed. George Burder, 6 vols, sermons, treatises and the pieces selected from his manuscripts by Jennings and Doddridge; volume numbers read off the title pages) as raw Internet Archive OCR; vol. 1 of the Leeds nine-volume Works and the Essay toward the Improvement of Psalmody clean from Gutenberg. His hymns and psalms belong to the hymn manifest, not here. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "watts",
+  "isaac"
+ ],
+ "_surname": [
+  "watts"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "watts-works-leeds-1": [
+   77103,
+   "The Works of the Rev. Isaac Watts, in nine volumes, vol. 1 (Leeds: Baines)"
+  ],
+  "watts-essay-psalmody": [
+   30409,
+   "A Short Essay Toward the Improvement of Psalmody"
+  ]
+ },
+ "internet_archive": {
+  "watts-works-1810-01": [
+   "worksofreverendl01watt",
+   "The Works of the Reverend and Learned Isaac Watts, vol. I (London, 1810)"
+  ],
+  "watts-works-1810-02": [
+   "worksofreverendl02watt",
+   "The Works of the Reverend and Learned Isaac Watts, vol. II (London, 1810)"
+  ],
+  "watts-works-1810-03": [
+   "worksofreverendl03watt",
+   "The Works of the Reverend and Learned Isaac Watts, vol. III (London, 1810)"
+  ],
+  "watts-works-1810-04": [
+   "worksofreverendl04watt",
+   "The Works of the Reverend and Learned Isaac Watts, vol. IV (London, 1810)"
+  ],
+  "watts-works-1810-05": [
+   "worksofreverendl05watt",
+   "The Works of the Reverend and Learned Isaac Watts, vol. V (London, 1810)"
+  ],
+  "watts-works-1810-06": [
+   "worksofreverendl06watt",
+   "The Works of the Reverend and Learned Isaac Watts, vol. VI (London, 1810)"
+  ]
+ },
+ "_excluded": {
+  "CCEL divsongs, psalmshymns; Gutenberg 13341, 13166, 13439, 37542, 37543": "Hymns, psalms and songs: for the hymn manifest.",
+  "Gutenberg 69963 (Hood, 1875); 78872 (Stone)": "About Watts, not by him."
+ },
+ "_pending": {
+  "The Leeds Works, vols. 2-9": "Gutenberg has released only vol. 1 so far; the London 1810 Works stands in for the rest."
+ },
+ "_checks": {
+  "watts-works-leeds-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "watts-essay-psalmody": {
+   "kind": "gutenberg",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "watts-works-1810-01": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watts-works-1810-02": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watts-works-1810-03": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watts-works-1810-04": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watts-works-1810-05": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watts-works-1810-06": {
+   "kind": "ia",
+   "checked": "2026-10-02",
+   "name_check": "surname",
+   "author_seen": "watts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
