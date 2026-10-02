@@ -80,9 +80,12 @@ def check(label, cond, detail=""):
 # Measured 2026-10-02 from RP2018 (byztxt v3.3.2), the whole NT. Not estimated.
 EXPECTED_NT = {"verses": 7953, "tokens": 140149, "witnesses": 7971, "alignments": 7953,
                "books": 27, "distinct_lemmas": 5380, "finite_verbs": 19571, "flagged": 28,
-               "glossed": 124516,
-               "gloss_by_rule": {"kjv-form": 27855, "kjv-sole": 20477, "kjv-in-def": 52792,
-                                 "def-head": 23255},
+               # the paradigm rule and the def-head repairs (2026-10-02) took this
+               # from 124,516 (88.8%) to 131,631 (93.9%)
+               "glossed": 131631,
+               "gloss_by_rule": {"kjv-form": 27855, "paradigm": 7103, "kjv-sole": 20489,
+                                 "kjv-in-def": 52792, "def-head": 23255},
+               "pronoun_nulls": 5,       # crasis only (kamoi "and me" is not "me")
                # the Byzantine text lacks these Textus Receptus verses; they keep their uids
                "kjv_without_grc": ["kjv:Acts.15.34", "kjv:Acts.24.7", "kjv:Acts.8.37", "kjv:Luke.17.36"],
                "largest_file_mb": 50}     # GitHub warns above 50 MB a file
@@ -92,11 +95,15 @@ EXPECTED = {"verses": 18, "tokens": 253, "witnesses": 36, "alignments": 18,
             "distinct_lemmas": 83, "finite_verbs": 41, "flagged": 1,
             # Strong's dictionary glosses (strongs_gloss.py), measured 2026-09-26,
             # before any override: what the rule gives, kept under `was` where overridden
-            "dict_glossed": 231,
-            "dict_by_rule": {"kjv-form": 49, "kjv-sole": 24, "kjv-in-def": 116, "def-head": 42},
+            # 231 until 2026-10-02; the paradigm rule glosses the 15 pronouns
+            # Strong's left null (13 autos, 2 plural ego)
+            "dict_glossed": 246,
+            "dict_by_rule": {"kjv-form": 49, "paradigm": 15, "kjv-sole": 24, "kjv-in-def": 116,
+                             "def-head": 42},
             # the house draft over it (gloss-overrides.jsonl, 2026-09-26)
             "overrides": 137, "glossed": 253,
-            "gloss_by_rule": {"kjv-form": 41, "kjv-sole": 19, "kjv-in-def": 56, "def-head": 0},
+            "gloss_by_rule": {"kjv-form": 41, "paradigm": 0, "kjv-sole": 19, "kjv-in-def": 56,
+                              "def-head": 0},
             "plain": 18}
 TOKEN_FIELDS = ("surface", "normalized", "search_key", "translit",
                 "lemma", "parsing", "gloss", "plain_form")
@@ -368,6 +375,10 @@ check(f"NT gloss coverage is the measured {EXPECTED_NT['glossed']:,} of {EXPECTE
       len(with_g) == EXPECTED_NT["glossed"] and manifest["counts"]["tokens_with_gloss"] == len(with_g)
       and manifest["counts"]["tokens_without_gloss"] == len(without), (len(with_g), len(without)))
 check("... split by rule as measured", gm["by_rule"] == EXPECTED_NT["gloss_by_rule"], gm["by_rule"])
+pron_null = [t for t in without if t["parsing"].startswith("P-")]
+check(f"every personal pronoun is glossed but the {EXPECTED_NT['pronoun_nulls']} in crasis",
+      len(pron_null) == EXPECTED_NT["pronoun_nulls"] and all("-K" in t["parsing"] for t in pron_null),
+      [(t["surface"], t["parsing"]) for t in pron_null][:5])
 pgm = pilot["manifest"]["gloss"]
 p_with = [t for t in p_tokens if t["gloss"] is not None]
 check(f"pilot gloss coverage is the measured {EXPECTED['glossed']} of {EXPECTED['tokens']}",
@@ -457,9 +468,10 @@ check("the manifest counts the draft rows and points at the review doc",
                                            else "none open: every row reviewed"))
 check("word glosses, not paraphrase: no gloss or plain_form over four words",
       all(len(re.split(r"[ -]", s)) <= 4 for r in ov_rows for s in (r.get("gloss"), r.get("plain_form")) if s))
-check("every null the dictionary left in the pilot is now glossed (the 22)",
+check("every null the dictionary left in the pilot is now glossed (22, of which the paradigm rule "
+      "now takes 15; the house drafts keep the other 7)",
       all(t["gloss"] for t in p_tokens)
-      and sum(1 for t in overridden if t["provenance"]["gloss"]["was"]["value"] is None) == 22)
+      and sum(1 for t in overridden if t["provenance"]["gloss"]["was"]["value"] is None) == 22 - 15)
 check("... and every override row is in the pilot (the drafts cover John 1:1-18 only)",
       all(t["passage_uid"] in p_uids for t in overridden))
 
@@ -527,10 +539,30 @@ check("a two-letter rendering counts only at the head of a clause ('in front of'
       G.gloss_for("PREP", E(7, "in front of", ":--before, of."))[0] is None
       and G.gloss_for("PREP", E(8, '"in," at', ":--at, in."))[0] == "in")
 pr = E(9, "the reflexive pronoun self", ":--her, it(-self), them, they.")
-check("pronouns agree in person, number, gender and case, or stay null",
+check("pronouns agree in person, number, gender and case: Strong's form first",
       G.gloss_for("P-ASF", pr)[0] == "her" and G.gloss_for("P-ASN", pr)[0] == "it"
       and G.gloss_for("P-DPM", pr)[0] == "them" and G.gloss_for("P-NPM", pr)[0] == "they"
-      and G.gloss_for("P-GSM", pr)[0] is None)
+      and G.gloss_for("P-DPM", pr)[1]["rule"] == "kjv-form")
+check("... then the paradigm, for a personal pronoun Strong's lists no form for (P-GSM -> his)",
+      G.gloss_for("P-GSM", pr) == ("his", {"source": G.SOURCE, "by": "lemma_key", "rule": "paradigm",
+                                           "kind": "dictionary"})
+      and G.gloss_for("P-2GP", E(12, "the personal pronoun of the second person singular", ":--thou."))[0]
+      == "your")
+check("... but never in crasis, nor for an entry Strong's does not call a pronoun",
+      G.gloss_for("P-1DS-K", E(13, "so also the dative case", ":--I."))[0] is None
+      and G.gloss_for("P-1DS", E(14, "a primary word", ":--I."))[0] is None)
+check("a demonstrative with no agreeing form goes on to the sense rules (an article never does)",
+      G.gloss_for("D-ASM", E(15, "truly this", ":--whiles."))[0] == "whiles"
+      and G.gloss_for("T-NSM", E(16, "the", ":--whiles."))[0] is None)
+check("def-head: a multi-word '(or ...)' alternative ends the head; a dangling 'in a good' is dropped",
+      G.gloss_for("V-PAI-3S", E(17, "to lower (or with violence) demolish", ":--+ cast down."))[0] == "lower"
+      and G.gloss_for("V-PAI-3S", E(18, "to render (or esteem) glorious", ":--+ honour."))[0]
+      == "render glorious"
+      and G.gloss_for("N-NSN", E(19, "a boast (properly, the object) in a good or a bad sense", ":--+ glory."))[0]
+      == "boast")
+check("the two entries whose ':--' Petersen's XML lost are repaired (G3372 length, G259)",
+      G.gloss_for("N-NSN", G.load_entries(open(B._path("strongs", B.STRONGS_XML), encoding="utf-8").read())[3372])
+      [0] == "length" if os.path.exists(B._path("strongs", B.STRONGS_XML)) else True)
 check("first-person forms read the person digit (P-1GS -> me, P-1DP -> none)",
       G.gloss_for("P-1GS", E(10, "", ":--I, me."))[0] == "me"
       and G.gloss_for("P-1NS", E(10, "", ":--I, me."))[0] == "I"
@@ -729,7 +761,10 @@ else:
         if g is None:
             continue
         rule = p["rule"]
-        if rule == "def-head":     # Strong's words, his parentheses taken out (README s.12)
+        if rule == "paradigm":     # the house paradigm's form, and it agrees
+            ok = (g == G.paradigm_form(t["parsing"], en)
+                  and G.form_fits(g, G.features(t["parsing"])))
+        elif rule == "def-head":     # Strong's words, his parentheses taken out (README s.12)
             ok = set(g.lower().split()) <= set(re.findall(r"[\w'-]+", en.definition.lower().replace('"', "")))
         else:
             ok = any(g == b or g in v for b, v in G.usable(en))
