@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # prov: 2026-09-26 claude-opus-5-5 drafted (from git trailer; backfilled 2026-09-30)
 # prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
+# prov: 2026-10-02 claude-opus-5-5 edited
 # fable_review: pending
 """
 review.py -- Adam's review sheets: rendered from the data, answered in the
@@ -1031,6 +1032,9 @@ def today_from_clock():
     return datetime.date.today().isoformat()
 
 
+FRONTMATTER = re.compile(r"\A---\n.*?\n---\n", re.S)
+
+
 def cmd_render(a):
     bad = 0
     for s in pick(a.sheets):
@@ -1038,6 +1042,11 @@ def cmd_render(a):
         text = s.render()
         rel = os.path.relpath(s.path, s.root)
         on_disk = read_text(s.path) if os.path.exists(s.path) else None
+        # a provenance header (model_log / fable_review) stamped on the sheet
+        # is not the data's to render: keep it, and compare what follows it
+        m = FRONTMATTER.match(on_disk or "")
+        if m:
+            text = m.group(0) + text
         if a.check:
             ok = on_disk == text
             print(f"  {rel}: {'byte-identical' if ok else 'DIFFERS from the data'}")
