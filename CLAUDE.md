@@ -86,8 +86,22 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 168 offline checks (no corpus needed)
-    python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 tests/structure_test.py          # 191 offline checks (no corpus needed)
+    python3 tests/wh_uid_test.py             # 67 identity-layer checks
+    python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
+    python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
+    python3 pipeline/build_versification.py --check    # Hebrew->KJV map byte-identical; WLC invariants
+    python3 pipeline/build_versification.py --measure  # BDB cites in Hebrew numbering: the evidence
+    python3 tests/versification_test.py      # the map, offline
+    python3 pipeline/build_vulgate_versification.py --fetch    # TVTMS + the Clementine, pinned
+    python3 pipeline/build_vulgate_versification.py --check    # Vulgate->KJV map byte-identical; invariants
+    python3 pipeline/build_vulgate_versification.py --measure  # the map vs proper names in both texts
+    python3 pipeline/build_vulgate_versification.py --audit-douay  # the map vs the Douay's English
+    python3 tests/vulgate_versification_test.py  # the Vulgate map, offline
+    python3 pipeline/build_brenton_versification.py --fetch  # TVTMS + Brenton's USFM, pinned
+    python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
+    python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
+    python3 tests/brenton_versification_test.py  # the Brenton map, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/place_catena.py --fetch # RP2018 books for the catenae, pinned
@@ -102,10 +116,25 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/proper_names.py --fetch  # the house proper-names table (Vulgate + Hitchcock, PD)
     python3 pipeline/proper_names.py --check  # names table byte-identical
     python3 tests/proper_names_test.py        # the names table; the house supplement's attestation
-    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT pilot: RP2018 + Strong's, pinned
+    python3 pipeline/build_nt_corpus.py --fetch   # Greek NT (all 27 books): RP2018 + Strong's, pinned
     python3 pipeline/build_nt_corpus.py --check   # NT JSONL: mint 0, byte-identical
-    python3 tests/nt_corpus_test.py          # validator for data/nt/*.jsonl
+    python3 tests/nt_corpus_test.py          # validator for data/nt/<Book>/*.jsonl
     python3 pipeline/build_nt_corpus.py --survey  # the whole NT measured; writes nothing
+    python3 pipeline/build_ot_corpus.py --check   # Hebrew OT (WLC): mint 0, byte-identical
+    python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
+    python3 pipeline/rebuild_bible.py        # NT + OT from the pins (one git fetch each), timed, then --check
+    python3 pipeline/rebuild_bible.py --verify  # same, in memory: proves = the manifests, writes nothing
+    python3 pipeline/build_strongs.py --fetch # the Strong's-tagged KJV (eBible) into data/corpus/
+    python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
+    python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
+    python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
+    python3 pipeline/build_latin_key.py --fetch  # Lewis & Short (Perseus TEI, CC BY-SA), pinned
+    python3 pipeline/build_latin_key.py      # L&S key <- Whitaker lemma <- every Vulgate word
+    python3 pipeline/build_latin_key.py --check  # data/lemmas/latin-key byte-identical
+    python3 tests/latin_key_test.py          # the Latin key, its links, the Vulgate concordance
+    python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
+    python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
+    python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -244,6 +273,13 @@ The living truth for project state is the Obsidian vault:
   books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
   edition and the rights say "Latin text", never "translation".
   Exclusions and why are in the FIRST1K comment.
+- The Clementine Vulgate (1592, PD) — `VULGATE` in fetch_sources.py, pinned
+  to a commit of github.com/BibleGet-I-O/Clementine-Vulgate (73 books, one
+  sha256 over the files); `convert_vulgate` -> data/books/vulgate.json,
+  35,809 verses. Ids are `vulgate:Ps.50.3` in the VULGATE's own numbering
+  (Greek Psalm count, titles in verse 1, Greek additions in Dan/Esth): not
+  linked to kjv: units, no uids minted. Each verse keeps the project's
+  marked-up line as `marked` beside the plain `text`.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
@@ -263,15 +299,91 @@ The living truth for project state is the Obsidian vault:
   slice committed; full table gitignored). Rules:
   pipeline/README-lemma-spine.md
 - pipeline/build_nt_corpus.py — the Greek NT (Robinson-Pierpont 2018, PD;
-  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/ (COMMITTED).
+  lemmas = Strong's 1890 headword by Robinson's number) → data/nt/<Book>/
+  (one folder per book, one manifest; read via load_nt()). COMMITTED: the
+  manifest, the house inputs, and John; the other books' shards are
+  gitignored and rebuilt by pipeline/rebuild_bible.py (byte-identical, the
+  manifest holds their sha256).
   One row per VERSE on the KJV verse's EXISTING uid: registry opened frozen,
-  mints 0. Pilot John 1:1-18. Schema + differences from the hymns:
+  mints 0. Whole NT since 2026-10-02 (7,953 verses); the drafts and the
+  reader cover the John 1:1-18 pilot. Doxology placement and sharding are
+  house defaults awaiting Adam (README-nt-jsonl s.16). Schema + differences from the hymns:
   pipeline/README-nt-jsonl.md. Glosses: Strong's DICTIONARY glosses by a
   fixed rule (pipeline/strongs_gloss.py, README s.12), not a translation;
   data/nt/gloss-overrides.jsonl is the contextual layer and
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_ot_corpus.py — the Hebrew OT (Westminster Leningrad Codex via
+  OSHB at 3d15126; the TEXT is PD) → data/ot/<Book>/ (one folder per
+  book, one manifest; read via load_ot(); only the manifest is COMMITTED, the
+  shards are rebuilt by pipeline/rebuild_bible.py). One row per KJV verse on its EXISTING
+  uid, mapped through data/versification/bhs-kjv.json; mints 0. 🔴 OSHB's
+  lemmas/morphology are CC BY 4.0 and are NOT in these files: lemma, parsing,
+  gloss are null until ADR 0019. Psalm titles, spans, joined verses: house
+  defaults awaiting Adam. pipeline/README-ot-jsonl.md
+- pipeline/build_apostolic_fathers.py — the Apostolic Fathers in Greek (Kirsopp
+  Lake's Loeb, 1912-13, PD; First1KGreek's TEI of it is CC BY-SA 4.0) → nine
+  books in data/books/ (gitignored; manifest entries committed with a rights
+  block, redistribute_whole false). Cited chapter.section (Ign. Eph. 1.1, Herm.
+  Sim. 9.1.1); unit ids are citations, nothing minted. Words carry Strong's
+  numbers by fixed rules against data/nt (85% of the Greek), never guessed.
+  Pol. Phil. 10-14 and Herm. Sim. 9.30-10.4 survive in Latin, which
+  First1KGreek garbled into Greek letters; a per-book rule restores it.
+  Lightfoot's English is PENDING (CCEL, unreachable from cloud sessions).
+- pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
+  -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
+  4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
+  BDB's scripture citations through it.
+- pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
+  map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
+  rights block). TVTMS's tests are RUN against the Clementine to pick the
+  column each block follows; HOUSE_ROWS holds the 48 verses no column fits,
+  each checked against the Latin (most found by --audit-douay). convert_vulgate
+  gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
+  numbering.
+- convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
+  GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 24
+  verses where this edition breaks verses off the Clementine's; empty padding
+  verses in the file are dropped, never given ids.
+- pipeline/build_strongs.py — Strong's numbers (H1–H8674, G1–G5624, 1890, PD)
+  as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
+  table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
+  in data/uids/ until Adam rules, then `--adopt`), the BDB/TBESG/LSJ/Thayer
+  entries for each number (citations only), the KJV's English words tagged
+  with their numbers (eBible, labelled PD; rights call is Adam's), and number →
+  passage uids (kjv, nt), and concordance-view.jsonl: one row per number
+  with its KJV verses and renderings, lexicon entries, and Vulgate/Douay/Brenton
+  verse ids where the numbering differs. OSHB's CC BY tags for data/ot/ build to build/ only,
+  never committed. Rules: pipeline/README-strongs.md
+- pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
+  CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
+  entry key, homographs numbered: malus1) → data/lemmas/latin-key/ (COMMITTED:
+  entry keys and printed facts only, never definitions; whether even that may
+  be committed is Adam's call). Whitaker lemmas link to L&S by spelling and
+  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
+  sure by form (69%), or resolved in its verse by a named context rule
+  (12.5%; idem-dem, rare-entry, prep-object ... each tagged), else null and
+  listed `possible` (15.3%). Rules only remove readings (README s.4b).
+  strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,
+  dilectio), by verse co-occurrence: statistical evidence, never a reading.
+  Mints nothing. Rules: pipeline/README-latin-key.md
+- Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
+  USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
+  (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek
+  count (title = v.1), Jeremiah's chapters in the Greek's order, Nehemiah as
+  Ezra 11-23, the Greek's additions lettered (1Kgs.12.24a), text before v.1 as
+  v.0. eBible's KJV-numbered NEH duplicate is skipped.
+  pipeline/build_brenton_versification.py → data/versification/brenton-kjv.json
+  (COMMITTED; same TVTMS file and rights block). Columns are picked by TVTMS's
+  hard tests, then by how well Brenton's English agrees with the KJV's (word
+  counts are only approximate on a translation). HOUSE_ROWS holds what no
+  column fits, each read in both texts (most found by --audit). A lettered
+  verse standing in a gap of Brenton's numbers is the KJV verse there only if
+  the words agree (Jer 10:9a is NOT 10:10). versification.resolve_brenton.
+  No Greek LXX: Rahlfs and CATSS are restricted; Swete awaits a ruling (its
+  only machine-readable text is CC BY-SA markup over the PD edition).
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
@@ -322,9 +434,17 @@ states "Public domain document". Recorded per entry in `LEXICONS`.
 versification, which parts company with the KJV's — most visibly in Psalms,
 where a superscription counts as verse 1 and shifts every later verse. So its
 **139,125 scripture citations are recorded as the source stated them**
-(`{osis, ref, versification: "bhs", resolved: false}`) and are NOT resolved to
-`kjv:` unit ids. Resolving them needs a versification map; that is its own
-piece of work. A labelled hole beats a confident wrong label.
+(`{osis, ref, versification: "bhs"}`), and since 2026-10-02 each is resolved
+through a Hebrew->KJV map, `data/versification/bhs-kjv.json`
+(`pipeline/build_versification.py`): **137,780 carry `target: "kjv:..."`**;
+1,345 stay `resolved: false` with a `why` (psalm titles, which the KJV does
+not number; references that name no Hebrew verse; NT references). The map is
+STEPBible's TVTMS (CC BY 4.0; only the derived OT Hebrew/KJV subset is
+committed, `redistribute_whole: false`), and the build refuses to write
+unless every one of the WLC's 23,213 verses lands on a KJV unit id. That BDB
+really numbers in Hebrew is measured, not assumed (`--measure`): where the
+schemes differ, the entry's own word is in the cited Hebrew verse 72% of the
+time and in the same-numbered KJV verse 5.5%.
 
 **Thayer's (added 2026-09-06) is the one book here that was OCR'd, not
 fetched.** It is PD and scanned (archive.org `greekenglishlexi00grimuoft`,

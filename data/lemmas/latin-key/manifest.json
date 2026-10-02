@@ -1,0 +1,130 @@
+{
+ "schema": "wordhoard/latin-key/v1",
+ "key": "Lewis & Short's own entry key (Perseus `key`), cited lewis-short:<key>",
+ "sources": {
+  "lewis-short": {
+   "repo": "https://github.com/PerseusDL/lexica",
+   "commit": "56061ca127f4a2844980baffc5f2b6d1332897b3",
+   "path": "CTS_XML_TEI/perseus/pdllex/lat/ls/lat.ls.perseus-eng2.xml",
+   "sha256": "a21c3799f42d33931b463c19a036b0e5c4a6504ccbd81ee55a262421a9e1836c",
+   "edition": "Lewis & Short, A Latin Dictionary (Oxford: Clarendon Press, 1879)",
+   "rights": {
+    "work": "public-domain (1879)",
+    "license": "CC BY-SA 4.0 (Perseus's machine-readable text)",
+    "attribution": "Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from The National Endowment for the Humanities. Data accessed from https://github.com/PerseusDL/lexica/ [2026-10-02].",
+    "source_url": "https://github.com/PerseusDL/lexica/tree/master/CTS_XML_TEI/perseus/pdllex/lat/ls",
+    "committed": "entry keys, Perseus entry ids, homograph numbers, entry types and the word-class tags only; no definition text",
+    "redistribute_whole": false
+   }
+  },
+  "whitaker": {
+   "commit": "1f2f0fb0867a896d7b9284a03d615ed635d6f992",
+   "license": "free-grant (README-lemma-spine.md s.1)",
+   "house_supplement": true,
+   "proper_names": true
+  },
+  "vulgate": {
+   "pin": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+   "license": "public-domain",
+   "verses": 35809,
+   "cited_as": "vulgate:<id>, the Vulgate's own numbering"
+  }
+ },
+ "counts": {
+  "lewis_short_entries": 51645,
+  "whitaker_lemmas": 40827,
+  "whitaker_lemmas_by_status": {
+   "ambiguous": 409,
+   "case": 305,
+   "class": 1046,
+   "gender": 59,
+   "headword": 24608,
+   "none": 13427,
+   "spelling": 873,
+   "voice": 100
+  },
+  "vulgate_forms": 46316,
+  "vulgate_forms_by_status": {
+   "no-ls": 3933,
+   "several": 9212,
+   "sure": 32940,
+   "unread": 231
+  },
+  "vulgate_tokens_by_status": {
+   "no-ls": 19303,
+   "several": 169923,
+   "sure": 422301,
+   "unread": 502
+  },
+  "vulgate_tokens_by_outcome": {
+   "no-ls": 19303,
+   "resolved": 76264,
+   "sure": 422300,
+   "unread": 502,
+   "unresolved": 93660
+  },
+  "vulgate_tokens_resolved_by_rule": {
+   "rare-entry": 51160,
+   "idem-dem": 8957,
+   "prep-object": 4936,
+   "rare-inflection": 3110,
+   "idem-dem+rare-entry": 2325,
+   "no-prep-object": 1713,
+   "proper-lower": 1574,
+   "proper-lower+rare-entry": 644,
+   "rare-entry+no-prep-object": 533,
+   "rare-inflection+rare-entry": 533,
+   "proper-lower+prep-object": 467,
+   "si-quis": 183,
+   "rare-entry+prep-object": 46,
+   "proper-lower+rare-inflection+rare-entry": 37,
+   "rare-inflection+prep-object": 28,
+   "proper-lower+rare-inflection": 9,
+   "rare-entry+si-quis": 9
+  },
+  "vulgate_keys": 8609,
+  "strongs_latin": {
+   "verse_pairs": 31057,
+   "numbers_seen": 14047,
+   "numbers_with_latin": 4057,
+   "numbers_with_latin_thin": 1310,
+   "rule": {
+    "min_verses": 3,
+    "min_dice": 0.1,
+    "of_top": 0.4,
+    "max": 5,
+    "mutual_top": 3,
+    "thin_below": 10
+   }
+  }
+ },
+ "not_claimed": [
+  "A Whitaker lemma is matched to L&S by headword, then by word class; never by meaning.",
+  "A context rule (README s.4b) only removes readings; what no rule settles stays null, and its verse is listed under `possible` for every reading WORDS allows.",
+  "A resolved token is tagged with the rule ids that settled it; no rule reads meaning.",
+  "Words L&S does not have (Church Latin coinages, many names) keep their Whitaker lemma only.",
+  "No uid is proposed or minted."
+ ],
+ "files": {
+  "lewis-short.jsonl": {
+   "rows": 51645,
+   "sha256": "91af7141f5ee4e25ff685d8f16c448603b26f7f652a8aa19e06951e669353c58"
+  },
+  "whitaker-ls.jsonl": {
+   "rows": 40827,
+   "sha256": "d62abe08dd8e6e88e227211db3213bb2017549a6111dbde8bc045343fe456e22"
+  },
+  "vulgate-forms.jsonl": {
+   "rows": 46316,
+   "sha256": "3aad9f54f7e9e9c0db0adeb9fb0f2c4b799f8a8b4909b8bf1495e8fa684f8026"
+  },
+  "vulgate-concordance.jsonl": {
+   "rows": 8609,
+   "sha256": "df51421279d558500127eca690b678afe70f75a42b9edb8b3fdab5b77a12240d"
+  },
+  "strongs-latin.jsonl": {
+   "rows": 4057,
+   "sha256": "b98a191a5117de9581a2ee0ebb1cbd317093a01a03780c4a28e7138c7f62d41b"
+  }
+ }
+}

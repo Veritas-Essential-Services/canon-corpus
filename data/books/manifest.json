@@ -848,7 +848,7 @@
    "citation": "BDB entry id (BDB1-BDB9000s); Strong's number where mapped",
    "resolution": "entry",
    "honesty": "exact text, partial keying",
-   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification and are NOT resolved to kjv: unit ids -- Psalms superscriptions shift the numbering. 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
+   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification (`osis`, as stated) and resolved to a kjv: unit id (`target`) through the Hebrew->KJV map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY 4.0): 137,780 resolved, 1,345 left unresolved with the reason (psalm titles, which the KJV does not number; references that name no Hebrew verse; NT references). 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
   }
  },
  "thayer": {
@@ -11831,6 +11831,363 @@
    "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, Sulpicii Severi libri qui supersunt, Vienna, 1866); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "vulgate": {
+  "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+  "author": "—",
+  "format": "clementine-lat",
+  "sha256": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+  "units": 35809,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "kjv_resolved": 31085,
+   "kjv_unresolved": 4724,
+   "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+   "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+   "requests": "acknowledge the source; report typographical errors to the project; make modifications clear (requests, not a licence)"
+  }
+ },
+ "douay": {
+  "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+  "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+  "format": "scrollmapper-json",
+  "sha256": "2c9b2ab58363bcddccdcaaf9e9a75924bbbc636d918e798d9ab517de07767b4f",
+  "units": 35805,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "empty_verses_dropped": 12,
+   "kjv_resolved": 31083,
+   "kjv_unresolved": 4722,
+   "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Douay-Rheims Bible, Challoner revision, via scrollmapper/bible_databases",
+   "source_url": "https://github.com/scrollmapper/bible_databases"
+  }
+ },
+ "1clement-lake": {
+  "title": "First Epistle of Clement to the Corinthians",
+  "author": "Clement of Rome",
+  "format": "tei-first1k",
+  "sha256": "235c325ceb7460d093f1ae01d0490ba897028e26e931993a25b8073d39041035",
+  "units": 400,
+  "scheme": {
+   "citation": "1 Clem. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 9832,
+   "nt-form": 7811,
+   "nt-form-nu": 6,
+   "nt-form-major": 183,
+   "nt-key": 93,
+   "headword": 36,
+   "ambiguous": 82,
+   "unseen": 1621,
+   "latin": 0
+  },
+  "scripture_refs": 239,
+  "built_sha256": "28273e06c3040315547f65fb1c11b70ed6f6a5a7b5cea129cbfedc3ce4283e2f"
+ },
+ "2clement-lake": {
+  "title": "Second Epistle of Clement (an ancient homily)",
+  "author": "Anonymous (attributed to Clement of Rome)",
+  "format": "tei-first1k",
+  "sha256": "37f652d71c183037e9dc84f1325f41450f0752f658bd8ffc508f8e3e3dc33843",
+  "units": 118,
+  "scheme": {
+   "citation": "2 Clem. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 3013,
+   "nt-form": 2585,
+   "nt-form-nu": 4,
+   "nt-form-major": 21,
+   "nt-key": 18,
+   "headword": 16,
+   "ambiguous": 25,
+   "unseen": 344,
+   "latin": 0
+  },
+  "scripture_refs": 53,
+  "built_sha256": "3cd66e852585a3eb9c64fcdeb15b3ddff4946ce6e0ff41e1baae15b57cc03894"
+ },
+ "ignatius-lake": {
+  "title": "The Seven Letters of Ignatius (middle recension)",
+  "author": "Ignatius of Antioch",
+  "format": "tei-first1k",
+  "sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+  "units": 205,
+  "scheme": {
+   "citation": "Ign. letter chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 7749,
+   "nt-form": 6317,
+   "nt-form-nu": 8,
+   "nt-form-major": 73,
+   "nt-key": 81,
+   "headword": 39,
+   "ambiguous": 99,
+   "unseen": 1132,
+   "latin": 0
+  },
+  "scripture_refs": 85,
+  "built_sha256": "82f0148acd3d3d06cc1cb50a5cf12dd508a339cb2b96de55138daa994b073517"
+ },
+ "polycarp-phil-lake": {
+  "title": "Epistle of Polycarp to the Philippians",
+  "author": "Polycarp of Smyrna",
+  "format": "tei-first1k",
+  "sha256": "3e4115e6c7026136ccede52edbab85fefc4b90cf4096b7cb008fa07613e0a317",
+  "units": 38,
+  "scheme": {
+   "citation": "Pol. Phil. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 1582,
+   "nt-form": 971,
+   "nt-form-nu": 6,
+   "nt-form-major": 13,
+   "nt-key": 10,
+   "headword": 1,
+   "ambiguous": 6,
+   "unseen": 125,
+   "latin": 450
+  },
+  "scripture_refs": 90,
+  "built_sha256": "0658e03fab39d3d776d2ad37ed27fe967530b66be54576f20ce27808027b73ea"
+ },
+ "martyrdom-polycarp-lake": {
+  "title": "The Martyrdom of Polycarp",
+  "author": "Anonymous (the church at Smyrna)",
+  "format": "tei-first1k",
+  "sha256": "a390233227173f7c65acf82c4822c5992569831a73b25b1687596b05d2aab5cd",
+  "units": 59,
+  "scheme": {
+   "citation": "Mart. Pol. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 2641,
+   "nt-form": 2082,
+   "nt-form-nu": 4,
+   "nt-form-major": 30,
+   "nt-key": 19,
+   "headword": 17,
+   "ambiguous": 24,
+   "unseen": 465,
+   "latin": 0
+  },
+  "scripture_refs": 15,
+  "built_sha256": "356f02ba2f1884eb8ab90f8e70b7da52ef5dee00a125b627659d4fe618777864"
+ },
+ "didache-lake": {
+  "title": "The Didache (Teaching of the Twelve Apostles)",
+  "author": "Anonymous",
+  "format": "tei-first1k",
+  "sha256": "bf34cbd5ca8bc93cf906326c250d89300e6d12faf23caa2a8fe4a2fbec9c877b",
+  "units": 100,
+  "scheme": {
+   "citation": "Did. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 2192,
+   "nt-form": 1861,
+   "nt-form-nu": 18,
+   "nt-form-major": 12,
+   "nt-key": 25,
+   "headword": 22,
+   "ambiguous": 22,
+   "unseen": 232,
+   "latin": 0
+  },
+  "scripture_refs": 64,
+  "built_sha256": "0f1115d6085d1a586deccc771385abd7896eda5d11ba0cec14ef585955ee5f10"
+ },
+ "barnabas-lake": {
+  "title": "The Epistle of Barnabas",
+  "author": "Anonymous (attributed to Barnabas)",
+  "format": "tei-first1k",
+  "sha256": "fac9b3a87f1e366f89fae6ba292f5b63c8073410633c9dbe3b7b9ecacd38781f",
+  "units": 194,
+  "scheme": {
+   "citation": "Barn. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 6715,
+   "nt-form": 5673,
+   "nt-form-nu": 5,
+   "nt-form-major": 88,
+   "nt-key": 71,
+   "headword": 35,
+   "ambiguous": 55,
+   "unseen": 788,
+   "latin": 0
+  },
+  "scripture_refs": 140,
+  "built_sha256": "7dd3377fa7e2e04cb67ddf3f345f4f79ad498bb17dbd6e23f9f41286436957a7"
+ },
+ "hermas-lake": {
+  "title": "The Shepherd of Hermas",
+  "author": "Hermas",
+  "format": "tei-first1k",
+  "sha256": "347ef6f5013ee2703713e06eb540c052f7e7c4a1772f22d533a1956b5fa802cc",
+  "units": 727,
+  "scheme": {
+   "citation": "Herm. Vis./Mand./Sim. book.chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 28551,
+   "nt-form": 22208,
+   "nt-form-nu": 400,
+   "nt-form-major": 257,
+   "nt-key": 378,
+   "headword": 203,
+   "ambiguous": 152,
+   "unseen": 3688,
+   "latin": 1265
+  },
+  "scripture_refs": 189,
+  "built_sha256": "77a86dd791576ebf12affe3a28a44339e2321e7be7f2590f10e7efb7624814f6"
+ },
+ "diognetus-lake": {
+  "title": "The Epistle to Diognetus",
+  "author": "Anonymous",
+  "format": "tei-first1k",
+  "sha256": "c9aff0733398334ec5ca0fb628269d4ff67734ff2478057d18fc531748b99fd5",
+  "units": 100,
+  "scheme": {
+   "citation": "Diogn. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`; his scripture references are in links[] as stated, unresolved (LXX numbering; at least one wrong URN)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 2615,
+   "nt-form": 1995,
+   "nt-form-nu": 35,
+   "nt-form-major": 16,
+   "nt-key": 11,
+   "headword": 19,
+   "ambiguous": 32,
+   "unseen": 507,
+   "latin": 0
+  },
+  "scripture_refs": 35,
+  "built_sha256": "3f0467efcd6f461e879c4a1c340b9b09beb05e610fec3c70ffa7a529daad8346"
+ },
+ "brenton": {
+  "title": "The Septuagint in English (Brenton, 1851)",
+  "author": "Sir Lancelot Charles Lee Brenton (translator)",
+  "format": "ebible-usfm-zip",
+  "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+  "units": 28617,
+  "scheme": {
+   "citation": "Book chapter:verse in Brenton's (the Greek's) numbering; the Greek's additions lettered (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "lxx-brenton",
+   "kjv_resolved": 22901,
+   "kjv_unresolved": 5716,
+   "empty_verses_not_units": [
+    "Prov.30.1"
+   ],
+   "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Brenton's English Septuagint, transcribed and corrected by eBible.org (eng-Brenton)",
+   "source_url": "https://ebible.org/eng-Brenton/",
+   "requests": "eBible asks that errors in the text be reported to it"
   }
  }
 }
