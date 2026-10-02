@@ -550,6 +550,31 @@ check("thayer-entries: reading needs ONE lemma; two within reach is no reading",
       st.thayer_read("αβγδε", {}, {5: ["αβγδζ", "αβγδη"]}) is None
       and st.thayer_read("αβγδε", {}, {5: ["αβγδζ"]})
           == "αβγδζ")
+
+# A headword the first OCR mangled past reading, printed clean by the second.
+TH4 = {"6": "βαρέω\n\n"
+            "βαρέω, -ῶ : to burden, weigh down.\n\n"
+            "#qq%9, -ov, 6, Lysanias, tetrarch of Abilene, Lk. iii. 1.\n\n"
+            "ὁράω, -ῶ; to see, the last entry.\n"}
+TH4_2 = {"6": "βαρέω\n\n"
+              "βαρέω, -ῶ : to burden, weigh down.\n\n"
+              "Λυσανίας, -ου, ὁ, Lysanias, tetrarch of Abilene, Lk. iii. 1.\n\n"
+              "ὁράω, -ῶ; to see, the last entry.\n"}
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as f:
+    _json.dump(TH4, f); t4_path = f.name
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as f:
+    _json.dump(TH4_2, f); t4b_path = f.name
+t4a = st.convert_thayer_entries(t4_path, strongs_path=s3_path)
+t4 = st.convert_thayer_entries(t4_path, strongs_path=s3_path, second_path=t4b_path)
+ly = [u for u in t4["units"] if u["lex"].get("headword_read") == "Λυσανίας"]
+check("thayer-entries: a second OCR cuts an entry where the first lost the headword",
+      len(t4a["units"]) == 2 and len(t4["units"]) == 3 and len(ly) == 1
+      and "second-ocr" in ly[0]["lex"]["evidence"]
+      and t4["scheme"]["segmentation"]["second_ocr_entries"] == 1)
+check("thayer-entries: the second OCR gives the boundary only; the text is the first OCR's",
+      ly[0]["text"].startswith("#qq%9, -ov, 6, Lysanias")
+      and "strongs-greek:G3078" in [l["target"] for l in ly[0]["links"]])
+os.unlink(t4_path); os.unlink(t4b_path)
 os.unlink(t3_path); os.unlink(s3_path)
 
 # ------------------------------------------------------------ STEPBible Greek

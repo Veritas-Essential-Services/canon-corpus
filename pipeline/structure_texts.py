@@ -1975,8 +1975,49 @@ def thayer_read(tok, lemmas, by_len, spelled=frozenset()):
     return hits[0] if len(hits) == 1 and hits[0] not in spelled else None
 
 
+def _thayer_second_heads(parsed1, second, body, lemmas):
+    """Where the SECOND OCR shows a headword the first one lost.
+
+    For each body page, every paragraph-initial line of the second reading
+    whose headword IS a Strong's lemma (accents ignored) is aligned to the
+    first reading's line on the same page whose text AFTER the headword
+    matches it best. A match must be close (ratio >= 0.6) and clear (no other
+    line of that page within 0.1 of it), or it is not used. Returns
+    {(page, line_no_in_page): (second_head, key)}. Only the boundary comes
+    from the second OCR; every word of the entry text stays the first's."""
+    import difflib
+    out = {}
+    for p in body:
+        if p not in second:
+            continue
+        rows1 = [l.strip() for l in parsed1[p][1]]
+        tails1 = [(i, RE_THAYER_HEAD.sub("", r, count=1) if RE_THAYER_HEAD.match(r)
+                   else r.split(" ", 1)[-1]) for i, r in enumerate(rows1) if r]
+        prev_blank = True
+        for l in _thayer_page(second[p])[1]:
+            s2 = l.strip()
+            if not s2:
+                prev_blank = True
+                continue
+            m = RE_THAYER_HEAD.match(s2) if prev_blank else None
+            prev_blank = False
+            if not m or thayer_key(m.group(1)) not in lemmas:
+                continue
+            tail = s2[m.end():][:60]
+            if len(tail) < 12:
+                continue
+            scored = sorted(((difflib.SequenceMatcher(None, tail, t[:60]).ratio(), i)
+                             for i, t in tails1), reverse=True)
+            if not scored or scored[0][0] < 0.6:
+                continue
+            if len(scored) > 1 and scored[1][0] > scored[0][0] - 0.1:
+                continue
+            out[(p, scored[0][1])] = (m.group(1), thayer_key(m.group(1)))
+    return out
+
+
 def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
-                           page_slug="thayer"):
+                           page_slug="thayer", second_path=None):
     """Thayer's (1889) one unit per ENTRY, inferred from the page OCR.
 
     The page book's docstring explains why neither line rule alone finds the
@@ -2024,6 +2065,12 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
             break
 
     lemmas = strongs_greek_lemmas(strongs_path) if strongs_path else {}
+    display = {}                           # G-number -> Strong's own spelling
+    if strongs_path:
+        for e in ET.parse(strongs_path).getroot().find("entries").findall("entry"):
+            g = e.find("greek")
+            if g is not None and g.get("unicode"):
+                display[strongs_id(e.get("strongs"), "greek")] = g.get("unicode")
     by_len = {}
     for k in lemmas:
         by_len.setdefault(len(k), []).append(k)
@@ -2038,10 +2085,13 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                 spelled.add(thayer_key(m.group(1)))
             prev_blank = not s
 
+    second = json.load(open(second_path, encoding="utf-8")) if second_path else {}
+    second_heads = _thayer_second_heads(parsed, second, body, lemmas) if second else {}
+
     lines, cands = [], []                  # lines: (page, text); cands index into lines
     for p in body:
         prev_blank = True                  # a page/column top counts as a break
-        for l in parsed[p][1]:
+        for li, l in enumerate(parsed[p][1]):
             s = l.strip()
             if not s:
                 prev_blank = True
@@ -2057,6 +2107,13 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                     read = thayer_read(ml.group(1), lemmas, by_len, spelled) or ""
                     if read:
                         m = ml
+            by = "first-ocr" if read else ""
+            # The second OCR fills ONLY where the first found no Strong's
+            # headword on this line at all.
+            if (not k or k not in lemmas) and not read and (p, li) in second_heads:
+                h2, k2 = second_heads[(p, li)]
+                read, by = k2, "second-ocr"
+                m = m or re.match(r"^(\S+?)[,.;;·:]?(?:\s|$)", s)
             if read:
                 k = read
             # One-letter headwords are real (ὁ the article, ἤ, ὦ) but a lone
@@ -2068,7 +2125,8 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                 exact = any(f == lf for _, lf in lemmas.get(k, ()))
                 cands.append({"line": len(lines), "page": p, "head": hw, "key": k,
                               "form": f, "para": prev_blank, "strongs": k in lemmas,
-                              "homograph": prev_blank and exact, "read": bool(read)})
+                              "homograph": prev_blank and exact, "read": bool(read),
+                              "read_by": by})
             lines.append((p, s))
             prev_blank = False
 
@@ -2080,7 +2138,8 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
              "off_order": len(cands) - len(chain),
              "weak": len(chain) - len(heads),
              "paragraph_initial_candidates": sum(c["para"] for c in cands),
-             "ocr_read_entries": sum(h["read"] for h in heads)}
+             "ocr_read_entries": sum(h["read_by"] == "first-ocr" for h in heads),
+             "second_ocr_entries": sum(h["read_by"] == "second-ocr" for h in heads)}
 
     units, used_ids, strongs_linked, ambiguous = [], set(), 0, 0
     for n, h in enumerate(heads):
@@ -2094,7 +2153,7 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
         # A misread headword is read back to its Strong's lemma; the id is
         # built from that reading, the OCR'd form stays in ref and lex.
         pairs = lemmas.get(h["key"], [])
-        shown = pairs[0][1] if h["read"] and pairs else h["head"]
+        shown = display.get(pairs[0][0], h["head"]) if h["read"] and pairs else h["head"]
         base = f"{slug}:p.{pno}.{thayer_translit(shown) or 'x'}"
         unit_id, i = base, 2
         while unit_id in used_ids:
@@ -2122,7 +2181,8 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                               "pages": [int(p) for p in spanned],
                               "evidence": [w for w, on in (("paragraph-initial", h["para"]),
                                                            ("strongs-lemma", h["strongs"]),
-                                                           ("ocr-read", h["read"]),
+                                                           ("ocr-read", h["read_by"] == "first-ocr"),
+                                                           ("second-ocr", h["read_by"] == "second-ocr"),
                                                            ("alphabetical-order", True)) if on],
                               **({"strongs_candidates": gs} if len(gs) > 1 else {}),
                               "greek_chars": len(RE_GREEK.findall(" ".join(t for _, t in span)))}})
@@ -2130,6 +2190,8 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
     src = {"path": os.path.relpath(path, CORPUS), "format": "lexicon-ocr", "sha256": sha256(path)}
     if strongs_path:
         src["strongs_sha256"] = sha256(strongs_path)
+    if second_path:
+        src["second_ocr_sha256"] = sha256(second_path)
     return {"slug": slug,
             "title": "A Greek-English Lexicon of the New Testament (Thayer), by entry",
             "author": "C. L. W. Grimm & C. G. Wilke, tr./rev./enl. Joseph Henry Thayer (1889)",
@@ -2154,7 +2216,13 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                                f"open on a headword OCR misread (one letter off, or in Latin "
                                f"lookalikes) and read back to the one Strong's lemma it can "
                                f"be: lex.headword keeps the OCR, lex.headword_read the "
-                               f"reading. The appendix pages after the last entry are not "
+                               f"reading. "
+                               + (f"{stats['second_ocr_entries']:,} more open where a SECOND "
+                                  f"OCR (pipeline/ocr_thayer2.py, the original JP2 scans) "
+                                  f"prints a Strong's headword the first OCR lost; only the "
+                                  f"boundary is taken from it, never a word of the text. "
+                                  if second else "")
+                               + f"The appendix pages after the last entry are not "
                                f"part of any entry. "
                                + (f"{strongs_linked:,} entries linked to strongs-greek by "
                                   f"headword (accents ignored); {ambiguous:,} matched more "
@@ -2993,8 +3061,10 @@ def main():
     th = os.path.join(CORPUS, "lexicons", "thayer-pages.json")
     sg = os.path.join(CORPUS, "lexicons", "strongs-greek.xml")
     if os.path.exists(th):
+        th2 = os.path.join(CORPUS, "lexicons", "thayer-pages-2.json")
         jobs.append(("thayer-entries", lambda: convert_thayer_entries(
-            th, strongs_path=sg if os.path.exists(sg) else None)))
+            th, strongs_path=sg if os.path.exists(sg) else None,
+            second_path=th2 if os.path.exists(th2) else None)))
     for slug, files, title, author, note in (
         ("tbesg-greek", ["tbesg-greek.txt"],
          "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",
