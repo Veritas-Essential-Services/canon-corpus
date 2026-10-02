@@ -11,8 +11,9 @@
     },
     {
       "id": "shelf-garnett",
-      "status": "todo",
-      "scope": "TRANSLATOR SHELF \u2014 Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section"
+      "status": "running",
+      "scope": "TRANSLATOR SHELF \u2014 Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section",
+      "started": "2026-10-02T15:18-05:00"
     }
   ]
 }
