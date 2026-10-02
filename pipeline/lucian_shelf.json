@@ -1,0 +1,47 @@
+{
+ "_about": "Lucian of Samosata in English, translator per title: H. W. and F. G. Fowler (Oxford, 1905), 4 vols., clean Gutenberg; Thomas Francklin's Trips to the Moon (Morley's Universal Library); Francis Hickes's True History (1634; 1894 edition).",
+ "_name_words": [
+  "lucian",
+  "samosata"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lucian-fowler-v1": [
+   6327,
+   "The Works of Lucian of Samosata, vol. 1",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-fowler-v2": [
+   6585,
+   "The Works of Lucian of Samosata, vol. 2",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-fowler-v3": [
+   6829,
+   "The Works of Lucian of Samosata, vol. 3",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-fowler-v4": [
+   47242,
+   "The Works of Lucian of Samosata, vol. 4",
+   "tr. H. W. and F. G. Fowler"
+  ],
+  "lucian-francklin-trips-to-the-moon": [
+   10430,
+   "Trips to the Moon",
+   "tr. Thomas Francklin"
+  ],
+  "lucian-hickes-true-history": [
+   45858,
+   "Lucian's True History",
+   "tr. Francis Hickes"
+  ]
+ },
+ "internet_archive": {},
+ "_cross_ref": {
+  "dryden-polybius-lucian": "Dryden shelf, lane C (Dryden's Life of Lucian)"
+ },
+ "_excluded": {
+  "A. M. Harmon, Loeb (1913-)": "early vols. US PD by date, Greek facing; on Perseus; pending"
+ }
+}

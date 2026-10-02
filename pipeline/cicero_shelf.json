@@ -1,0 +1,92 @@
+{
+ "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection.",
+ "_name_words": [
+  "cicero",
+  "tullius",
+  "tully"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cicero-yonge-orations-v4": [
+   11080,
+   "The Orations of Marcus Tullius Cicero, vol. 4",
+   "tr. C. D. Yonge (Bohn)"
+  ],
+  "cicero-yonge-academics-finibus-tusculans": [
+   29247,
+   "The Academic Questions, Treatise De Finibus, and Tusculan Disputations",
+   "tr. C. D. Yonge (Bohn)"
+  ],
+  "cicero-yonge-tusculans-nature-gods": [
+   14988,
+   "Tusculan Disputations; also Treatises on the Nature of the Gods and on the Commonwealth",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-shuckburgh-friendship-old-age": [
+   2808,
+   "Treatises on Friendship and Old Age",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-peabody-amicitia": [
+   7491,
+   "De Amicitia, Scipio's Dream",
+   "tr. Andrew P. Peabody"
+  ],
+  "cicero-featherstonhaugh-republic": [
+   54161,
+   "The Republic of Cicero",
+   "tr. George William Featherstonhaugh"
+  ],
+  "cicero-jones-brutus-orator": [
+   9776,
+   "Cicero's Brutus, or History of Famous Orators; also his Orator",
+   "tr. E. Jones"
+  ],
+  "cicero-shuckburgh-letters-v1": [
+   21200,
+   "The Letters of Cicero: the whole extant correspondence, vol. 1",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-shuckburgh-letters-selection": [
+   2812,
+   "Letters of Marcus Tullius Cicero (selection)",
+   "tr. Evelyn S. Shuckburgh"
+  ]
+ },
+ "internet_archive": {
+  "cicero-yonge-orations-v1": [
+   "orationsofmarcus01ciceuoft",
+   "The Orations of Marcus Tullius Cicero, vol. 1 (Bohn)",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-yonge-orations-v2": [
+   "orationsofmarcus02ciceuoft",
+   "The Orations of Marcus Tullius Cicero, vol. 2 (Bohn)",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-yonge-orations-v3": [
+   "orationsofmarcus03cice",
+   "The Orations of Marcus Tullius Cicero, vol. 3 (Bohn)",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-shuckburgh-letters-v2": [
+   "lettersofcicerow02cice",
+   "The Letters of Cicero: the whole extant correspondence, vol. 2 (1899)",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-shuckburgh-letters-v3": [
+   "lettersofcicero03ciceuoft",
+   "The Letters of Cicero: the whole extant correspondence, vol. 3 (1899)",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-shuckburgh-letters-v4": [
+   "lettersofcicerow04ciceuoft",
+   "The Letters of Cicero: the whole extant correspondence, vol. 4 (1899)",
+   "tr. Evelyn S. Shuckburgh"
+  ]
+ },
+ "_excluded": {
+  "pg58418, pg50692, pg51403": "Letters to Atticus (Winstedt, Loeb): PD in US by date but printed with the Latin facing (measured: hundreds of Latin function words); pending as a Latin-English witness",
+  "De Officiis (Cockman 1699; Edmonds, Bohn; Walter Miller, Loeb 1913)": "PD; pending (IA)"
+ }
+}

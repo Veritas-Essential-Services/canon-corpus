@@ -114,8 +114,11 @@
     },
     {
       "id": "lucian-cicero",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Lucian (H. W. and F. G. Fowler 1905, 4 vols.), Cicero (Yonge, Peabody, Shuckburgh's Letters, Melmoth); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Lucian (H. W. and F. G. Fowler 1905, 4 vols.), Cicero (Yonge, Peabody, Shuckburgh's Letters, Melmoth); shelf per author + fetch + map",
+      "started": "2026-10-02T15:58:36-05:00",
+      "finished": "2026-10-02T16:02:54-05:00",
+      "notes": "Lucian 6 (Fowler complete), Cicero 15 (Yonge Orations complete; Shuckburgh correspondence complete; philosophy and rhetoric). Winstedt's Atticus held back: Latin facing."
     }
   ]
 }
