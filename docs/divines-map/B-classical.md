@@ -1143,6 +1143,7 @@ Shelf: `pipeline/euclid_shelf.json`. Heath's Thirteen Books 1908, 3 vols. (IA, c
 | The Thirteen Books of Euclid's Elements, vol. 1 (1908) | T. L. Heath | `euclid-heath-v1` | have-raw (IA `thirteenbookseu02heibgoog`) |
 | The Thirteen Books of Euclid's Elements, vol. 2 (1908) | T. L. Heath | `euclid-heath-v2` | have-raw (IA `thirteenbookseu00heibgoog`) |
 | The Thirteen Books of Euclid's Elements, vol. 3 (1908) | T. L. Heath | `euclid-heath-v3` | have-raw (IA `thirteenbookseu01heibgoog`) |
+| The Thirteen Books of Euclid's Elements | Thomas Little Heath | `euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements` | have (Perseus TEI `tlg1799.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Heath 2nd ed. (1926)
 
