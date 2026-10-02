@@ -193,6 +193,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Agamemnon of Aeschylus, translated into English rhyming verse | Gilbert Murray; US PD per Gutenberg | `aeschylus-murray-agamemnon` | have (PG 14417) |
 | The Greek Tragic Theatre, vol. 1: Aeschylus (new ed., 1809) | Robert Potter | `aeschylus-potter-greek-tragic-theatre` | have-raw (IA `greektragicthea01wodhgoog`) |
 | The Dramas of Aeschylus (4th ed., revised, 1899) | Anna Swanwick | `aeschylus-swanwick` | have-raw (IA `dramasofaeschylu0000unse`) |
+| Agamemnon | Robert Browning | `aeschylus-perseus-browning-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng4`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): H. W. Smyth's Loeb (1922-26), on Perseus, US PD by date; Robert Browning's Agamemnon (1877).
 
