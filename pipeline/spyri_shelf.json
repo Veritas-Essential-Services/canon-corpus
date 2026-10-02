@@ -1,0 +1,37 @@
+{
+ "_about": "Johanna Spyri's (1827-1901) Swiss stories, in English translations whose translators are named: Heidi in two translations, the translation the Gutenberg header credits to Marion Edwards (PG 1448; the name is usually given as Marian Edwardes) and Elisabeth P. Stork's (PG 20781, 1915), so the shelf carries two witnesses of one book; Moni the Goat-Boy tr. Helen B. Dole; Rico and Wiseli tr. Louise Brooks. Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Johanna Spyri",
+ "_name_words": [
+  "heidi",
+  "alm",
+  "moni",
+  "rico"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "spyri-heidi-edwardes": [
+   1448,
+   "Heidi, tr. Marion Edwards"
+  ],
+  "spyri-heidi-stork": [
+   20781,
+   "Heidi, tr. Elisabeth P. Stork (1915)",
+   {
+    "contents_only": true
+   }
+  ],
+  "spyri-moni-the-goat-boy": [
+   9383,
+   "Moni the Goat-Boy, tr. Helen B. Dole"
+  ],
+  "spyri-rico-and-wiseli": [
+   9075,
+   "Rico and Wiseli, tr. Louise Brooks"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "spyri-heidi-abbott": "Heidi tr. Mabel Abbott (PG 46409, 1927): a third translation of the same book; US public domain, held back only to keep the shelf small",
+  "spyri-other": "her other translated stories (Toni, Veronica, Gritli's Children, Maezli, Vinzi, Dora and others, each with its translator named in the catalog): candidates for a later batch"
+ }
+}

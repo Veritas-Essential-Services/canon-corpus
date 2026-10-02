@@ -222,3 +222,6 @@
 
 ## 2026-10-02 17:29 CDT — alcott: done
 - 9/9 fetched (Gutenberg 514, 2788, 3499, 2726, 2804, 2787, 3795, 2786, 163), 17,897 units, 0 ~2 ids.
+
+## 2026-10-02 17:29 CDT — spyri: done
+- 4/4 fetched (Gutenberg 1448, 20781, 9383, 9075), 4,227 units, 0 ~2 ids.

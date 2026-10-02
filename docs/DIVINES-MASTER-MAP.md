@@ -3643,6 +3643,19 @@ Shelf: `pipeline/alcott_shelf.json` (2026-10-02; added at the coordinator's rela
 | alcott-duplicates | excluded | second transcriptions: Little Women (PG 37106), Little Men (PG 52900), Eight Cousins (PG 38567), Rose in Bloom (PG 41127) |
 | alcott-other | excluded | the Aunt Jo's Scrap-Bag and Lulu's Library volumes, story collections, the thrillers (Behind a Mask and others), Hospital Sketches, Work, Moods: candidates for a later batch |
 
+## Johanna Spyri
+
+Shelf: `pipeline/spyri_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Heidi in two translations, each a witness of one book, and two more stories; every translator named as the Gutenberg header gives it. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Heidi, tr. Marion Edwards | have | PG 1448, `spyri-heidi-edwardes` (1430 units) |
+| Heidi, tr. Elisabeth P. Stork (1915) | have | PG 20781, `spyri-heidi-stork` (1355 units) |
+| Moni the Goat-Boy, tr. Helen B. Dole | have | PG 9383, `spyri-moni-the-goat-boy` (209 units) |
+| Rico and Wiseli, tr. Louise Brooks | have | PG 9075, `spyri-rico-and-wiseli` (1233 units) |
+| spyri-heidi-abbott | excluded | Heidi tr. Mabel Abbott (PG 46409, 1927): a third translation of the same book; US public domain, held back only to keep the shelf small |
+| spyri-other | excluded | her other translated stories (Toni, Veronica, Gritli's Children, Maezli, Vinzi, Dora and others, each with its translator named in the catalog): candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
