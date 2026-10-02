@@ -1651,6 +1651,75 @@
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
  },
+ "vulgate": {
+  "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+  "author": "—",
+  "format": "clementine-lat",
+  "sha256": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+  "units": 35809,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "kjv_resolved": 31085,
+   "kjv_unresolved": 4724,
+   "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+   "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+   "requests": "acknowledge the source; report typographical errors to the project; make modifications clear (requests, not a licence)"
+  }
+ },
+ "douay": {
+  "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+  "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+  "format": "scrollmapper-json",
+  "sha256": "2c9b2ab58363bcddccdcaaf9e9a75924bbbc636d918e798d9ab517de07767b4f",
+  "units": 35805,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "empty_verses_dropped": 12,
+   "kjv_resolved": 31083,
+   "kjv_unresolved": 4722,
+   "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Douay-Rheims Bible, Challoner revision, via scrollmapper/bible_databases",
+   "source_url": "https://github.com/scrollmapper/bible_databases"
+  }
+ },
+ "brenton": {
+  "title": "The Septuagint in English (Brenton, 1851)",
+  "author": "Sir Lancelot Charles Lee Brenton (translator)",
+  "format": "ebible-usfm-zip",
+  "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+  "units": 28617,
+  "scheme": {
+   "citation": "Book chapter:verse in Brenton's (the Greek's) numbering; the Greek's additions lettered (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "lxx-brenton",
+   "kjv_resolved": 22901,
+   "kjv_unresolved": 5716,
+   "empty_verses_not_units": [
+    "Prov.30.1"
+   ],
+   "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Brenton's English Septuagint, transcribed and corrected by eBible.org (eng-Brenton)",
+   "source_url": "https://ebible.org/eng-Brenton/",
+   "requests": "eBible asks that errors in the text be reported to it"
+  }
+ },
  "1clement-lake": {
   "title": "First Epistle of Clement to the Corinthians",
   "author": "Clement of Rome",
