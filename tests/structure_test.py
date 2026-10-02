@@ -215,7 +215,10 @@ BDB_FIX = ("BDBid\tStrongNumber\tcontent\n"
            "BDB6\tH6_H8\t"
            '<h1><entry>BDB6</entry></h1><div class="navigation">BDB5 | BIBLICAL HEBREW | BDB7</div>'
            '<p><bdbheb>אַב</bdbheb> noun '
-           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref></p>\n'
+           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref> '
+           '<ref ref="Ps 51:3" b="19" cBegin="51" vBegin="3">Ps 51:3</ref> '
+           '<ref ref="Ps 51:1" b="19" cBegin="51" vBegin="1">Ps 51:1</ref> '
+           '<ref ref="Mal 4:1" b="39" cBegin="4" vBegin="1">Mal 4:1</ref></p>\n'
            "BDB7\t\t<h1>x</h1><p>no strongs equivalent</p>\n")
 with tempfile.NamedTemporaryFile("w", suffix=".tsv", delete=False, encoding="utf-8") as f:
     f.write(BDB_FIX); bdb_path = f.name
@@ -227,9 +230,16 @@ check("bdb: one entry can carry several Strong's numbers (H6_H8 -> two links)",
 check("bdb: header and prev|next navigation are furniture, stripped",
       "BIBLICAL HEBREW" not in b6["text"] and b6["text"].startswith("אַב"))
 scr = [l for l in b6["links"] if l["kind"] == "scripture"]
-check("bdb: scripture ref keeps the book number's OSIS and stays UNresolved",
-      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["resolved"] is False
-      and scr[0]["versification"] == "bhs")
+check("bdb: scripture ref keeps the book number's OSIS as stated, in Hebrew numbering",
+      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["versification"] == "bhs")
+check("bdb: a verse numbered alike in both schemes resolves to its kjv: unit id",
+      scr[0]["resolved"] is True and scr[0]["target"] == "kjv:Gen.24.12")
+check("bdb: Hebrew Ps 51:3 resolves to KJV Ps 51:1, the stated osis untouched",
+      scr[1]["osis"] == "Ps.51.3" and scr[1]["target"] == "kjv:Ps.51.1")
+check("bdb: Hebrew Ps 51:1 is the KJV's unnumbered title -- unresolved, and says why",
+      scr[2]["resolved"] is False and "title" in scr[2]["why"] and "target" not in scr[2])
+check("bdb: a reference naming no Hebrew verse stays unresolved (Mal has 3 chapters in Hebrew)",
+      scr[3]["osis"] == "Mal.4.1" and scr[3]["resolved"] is False and "target" not in scr[3])
 check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
