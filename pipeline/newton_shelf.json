@@ -1,0 +1,62 @@
+{
+ "_about": "Every public-domain John Newton (1725-1807) prose text the Word Hoard holds. His hymns are not shelved here: the Olney Hymns go to the hymn manifest. The target is the six-volume Works (1810), Internet Archive OCR, raw and unconverted, each volume number read off its title page, plus Josiah Bull's 1869 collection of letters not in the Works. CCEL's two volumes of Messiah (fifty discourses on the texts of Handel's oratorio) are held clean. No Gutenberg Newton prose found this burn. Not Isaac Newton or the other John Newtons.",
+ "_ccel_author": "n/newton",
+ "_name_words": [
+  "newton"
+ ],
+ "_held": {},
+ "ccel": {
+  "newton-messiah-1": [
+   "messiah1",
+   "Messiah: Fifty Expository Discourses, vol. 1",
+   ""
+  ],
+  "newton-messiah-2": [
+   "messiah2",
+   "Messiah: Fifty Expository Discourses, vol. 2",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "newton-works-1810-1": [
+   "worksrevjohnne01newt",
+   "The Works of the Rev. John Newton (1810), vol. 1"
+  ],
+  "newton-works-1810-2": [
+   "worksrevjohnne02newt",
+   "The Works of the Rev. John Newton (1810), vol. 2"
+  ],
+  "newton-works-1810-3": [
+   "worksrevjohnne03newt",
+   "The Works of the Rev. John Newton (1810), vol. 3"
+  ],
+  "newton-works-1810-4": [
+   "worksrevjohnne04newt",
+   "The Works of the Rev. John Newton (1810), vol. 4"
+  ],
+  "newton-works-1810-5": [
+   "worksrevjohnne05newt",
+   "The Works of the Rev. John Newton (1810), vol. 5"
+  ],
+  "newton-works-1810-6": [
+   "worksrevjohnne06newt",
+   "The Works of the Rev. John Newton (1810), vol. 6"
+  ],
+  "newton-letters-bull-1869": [
+   "lettersbynewton00newtuoft",
+   "Letters by the Rev. John Newton of Olney and St. Mary Woolnoth, ed. Josiah Bull (1869)"
+  ]
+ },
+ "_alternates": {
+  "worksrevjnewton01cecigoog (1824)": "Later Works edition with Cecil's memoir; vol. 1 only verified.",
+  "cardiphonia* (1807-1911)": "Cardiphonia, separate printings; in the Works.",
+  "lifeofrevjohnnew*, thelifeoftherevj00newtuoft, bub_gb_eLo7AAAAYAAJ, memoirsofrevjohn00newtrich": "The Authentic Narrative / Life, separate printings; in the Works.",
+  "revjohn00newt (1845), onehundredandtw01newtgoog (1847), lettersconversat00newt (1811), letterstoawifeb01newtgoog (1793), cu31924029450982 (1869)": "Other letter collections and a second scan of Bull's; not fetched this burn.",
+  "travelsinperudu01rossgoog": "Messiah (1812), mis-titled on IA; CCEL text held."
+ },
+ "_excluded": {
+  "CCEL newton/olneyhymns and the Olney Hymns printings on IA": "hymns: see the hymn manifest",
+  "selectpassagesfr1806blac, sermonsonpracti*, forceoftruth*, narrativesofeliz00ameriala, trialatlargeofth00hard": "other authors' books with a Newton preface or contribution"
+ }
+}

@@ -595,6 +595,25 @@ No collected Works, no CCEL, no Gutenberg. Two Nichol reprints (Hosea 1863, Sain
 | The Rare Jewel of Christian Contentment (1651); Irenicum (1653); The Saints' Treasury (1654); The Glorious Name of God (1643) | pending | scans found, but their OCR never names Burroughs, so the fetcher refused them; check by eye |
 | Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils | pending | no scan verified yet |
 | A clean Rare Jewel | wishlist | no PD machine-readable edition found |
+
+
+## John Newton, prose (round 3, my pick, 2026-10-02)
+
+His hymns (Olney Hymns) are not shelved here: see the hymn manifest. The six-volume Works (1810) and Bull's 1869 Letters are raw IA OCR; Messiah is clean from CCEL.
+
+| Work | Status | Where |
+|---|---|---|
+| Messiah: Fifty Expository Discourses, vol. 1 | have | CCEL `messiah1` (`newton-messiah-1`) |
+| Messiah: Fifty Expository Discourses, vol. 2 | have | CCEL `messiah2` (`newton-messiah-2`) |
+| The Works of the Rev. John Newton (1810), vol. 1 | have-raw | IA `worksrevjohnne01newt` |
+| The Works of the Rev. John Newton (1810), vol. 2 | have-raw | IA `worksrevjohnne02newt` |
+| The Works of the Rev. John Newton (1810), vol. 3 | have-raw | IA `worksrevjohnne03newt` |
+| The Works of the Rev. John Newton (1810), vol. 4 | have-raw | IA `worksrevjohnne04newt` |
+| The Works of the Rev. John Newton (1810), vol. 5 | have-raw | IA `worksrevjohnne05newt` |
+| The Works of the Rev. John Newton (1810), vol. 6 | have-raw | IA `worksrevjohnne06newt` |
+| Letters by the Rev. John Newton of Olney and St. Mary Woolnoth, ed. Josiah Bull (1869) | have-raw | IA `lettersbynewton00newtuoft` |
+| Olney Hymns | see hymn manifest | not shelved here |
+| Cardiphonia, Authentic Narrative, other letter collections: separate printings | alternate | mostly in the Works |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

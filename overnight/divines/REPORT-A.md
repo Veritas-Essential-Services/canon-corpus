@@ -132,3 +132,6 @@
 ## 2026-10-02 16:35 CDT — burroughs done
 - `pipeline/burroughs_shelf.json`: 4 IA items raw (about 12.5 MB): the Nichol Hosea (1863, with Hall's and Reynolds's continuations) and Saints' Happiness (1867), Moses his Choice (1650), Four Books on Matthew 11 (1659). `--verify`: 0 mismatched.
 - Refused by the identity check and moved to `_pending`: four 1640s-1650s scans, the Rare Jewel of Christian Contentment among them, whose OCR never contains Burroughs's name. Same pattern as Rutherford's first printings: old type defeats the name check. 0 uids minted.
+
+## 2026-10-02 16:36 CDT — newton done
+- `pipeline/newton_shelf.json` (prose; the Olney Hymns are for the hymn manifest): Messiah, 2 CCEL volumes converted (1,030 units, 1,193 links); the Works (1810), 6 vols, and Bull's Letters (1869), raw IA OCR. About 10 MB. `--verify`: 0 mismatched. 0 uids minted.

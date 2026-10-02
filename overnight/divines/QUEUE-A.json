@@ -231,17 +231,21 @@
     },
     {
       "id": "newton",
-      "status": "todo",
+      "status": "done",
       "scope": "John Newton: Works (prose; his hymns go to the hymn manifest)",
       "added": "2026-10-02T16:28:03-05:00",
-      "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T16:35:32-05:00",
+      "finished": "2026-10-02T16:36:30-05:00",
+      "notes": "Works 6 vols + Bull Letters IA; Messiah CCEL"
     },
     {
       "id": "whitefield",
-      "status": "todo",
+      "status": "running",
       "scope": "George Whitefield: sermons, journals, letters",
       "added": "2026-10-02T16:28:03-05:00",
-      "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T16:36:17-05:00"
     },
     {
       "id": "hodge",
