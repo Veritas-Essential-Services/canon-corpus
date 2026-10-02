@@ -141,3 +141,7 @@
 - Gutenberg books catalogued "en; la" or "en; grc", which earlier English-only catalogue searches missed: Miller's De Officiis (PG 47001) to cicero; Nixon's Plautus vol 1, 1916 (PG 16564) to roman-comedy; Stewart and Rand's Boethius, 1918 (PG 13316) to boethius; Super's De Providentia, 1899 (PG 60831) to seneca.
 - New shelves: dionysius-halicarnassus (Roberts 1910, PG 50212), augustus (Fairley's Res Gestae 1898, PG 66595).
 - All headers read: none COPYRIGHTED.
+
+## 2026-10-02 16:35 CDT — reverify-all-b, digest-refresh-b (done)
+- All 84 lane B shelves pass fetch_shelf.py --verify: 0 wrong books.
+- DIGEST-B refreshed: 84 shelves, 243 Gutenberg + 114 IA files, 262 MB.

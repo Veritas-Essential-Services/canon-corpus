@@ -177,13 +177,19 @@
     },
     {
       "id": "reverify-all-b",
-      "status": "todo",
-      "scope": "AUDIT: fetch_shelf.py --verify on every lane B shelf; record any wrong book"
+      "status": "done",
+      "scope": "AUDIT: fetch_shelf.py --verify on every lane B shelf; record any wrong book",
+      "started": "2026-10-02T16:34:54-05:00",
+      "finished": "2026-10-02T16:35:23-05:00",
+      "notes": "84 lane B shelves, fetch_shelf.py --verify: 0 wrong books"
     },
     {
       "id": "digest-refresh-b",
-      "status": "todo",
-      "scope": "Refresh DIGEST-B totals (shelves, texts, MB) and decisions for Adam"
+      "status": "done",
+      "scope": "Refresh DIGEST-B totals (shelves, texts, MB) and decisions for Adam",
+      "started": "2026-10-02T16:35:23-05:00",
+      "finished": "2026-10-02T16:35:45-05:00",
+      "notes": "84 shelves, 357 files, 262 MB"
     }
   ]
 }
