@@ -248,6 +248,37 @@ check("perseus: the epic converter carries the share-alike rights block too, rep
       and "states no licence" in _rb["rights"]["note"])
 os.unlink(_r_path)
 
+# ---------------------------------------------------------- Perseus prose
+PROSE_FIX = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>
+<title>The Histories</title><author>Herodotus</author><editor role="translator">A. D. Godley</editor>
+</titleStmt></fileDesc></teiHeader><text><body><div type="translation">
+<div type="textpart" subtype="Book" n="1"><head>Book One</head>
+<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="pr"><p><milestone unit="para"/>Herodotus of
+<name type="place" key="tgn,7016142"><reg>Bodrum [27.466,37.5] (inhabited place), Turkey</reg>
+<placeName key="tgn,7016142">Halicarnassus</placeName></name> here sets forth.</p></div>
+<div type="textpart" subtype="section" n="1"><p>The &lt;Pisidians&gt; came from the sea called
+Red,<note resp="ed">Not the modern one.</note> and settled.</p></div>
+</div></div></div></body></text></TEI>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(PROSE_FIX); pr_path = f.name
+pb = st.convert_tei_prose(pr_path, "hdt-fixture", "Hdt.")
+pu = pb["units"]
+check("prose: one unit per innermost division, id = the born-in book.chapter.section",
+      [u["id"] for u in pu] == ["hdt-fixture:1.1.pr", "hdt-fixture:1.1.1"]
+      and pb["scheme"]["citation"] == "Hdt. book.chapter.section")
+check("prose: Perseus's gazetteer gloss is not text; the place is a TGN link",
+      pu[0]["text"] == "Herodotus of Halicarnassus here sets forth."
+      and pu[0]["links"] == [{"kind": "place", "target": "tgn:7016142", "name": "Halicarnassus"}])
+check("prose: an editor's literal <angle brackets> are words, not a tag to strip",
+      pu[1]["text"].startswith("The <Pisidians> came"))
+check("prose: footnote lifted out; a heading between divisions rides on the next unit",
+      pu[1]["apparatus"]["notes"] == [{"by": "ed", "text": "Not the modern one."}]
+      and pu[0]["apparatus"]["head"] == ["Book One"] and "Not the modern" not in pu[1]["text"])
+check("prose: every prose slug in the fetch manifest has an abbreviation, and back",
+      set(st.TEI_PROSE) <= set(load("fetch_sources").PERSEUS))
+os.unlink(pr_path)
+
 # ---------------------------------------------------------- Perseus drama
 DRAMA_FIX = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>
 <title>Fixture Play</title><author>Sophocles</author><editor role="translator">Richard Jebb</editor>

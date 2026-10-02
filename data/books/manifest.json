@@ -2351,5 +2351,105 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "herodotus-histories-godley": {
+  "title": "The Histories",
+  "author": "Herodotus",
+  "format": "tei",
+  "sha256": "ad1d8c6da77212904c414409bb2e41c6de5f86db5c1c7ca34b8b1c3f4c0a75e5",
+  "units": 4338,
+  "scheme": {
+   "citation": "Hdt. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 528 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1073 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "thucydides-history-crawley": {
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides",
+  "format": "tei",
+  "sha256": "3037e1caf0b8d3a05a1adb53673d69357a1199e8b59bb10d76d6501a1363761e",
+  "units": 3587,
+  "scheme": {
+   "citation": "Thuc. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1241 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "xenophon-anabasis-brownson": {
+  "title": "Anabasis",
+  "author": "Xenophon",
+  "format": "tei",
+  "sha256": "f4c88203196a4f2ed315d47642d10f9515c568374139ba1e25e7934312586ea7",
+  "units": 1469,
+  "scheme": {
+   "citation": "Xen. Anab. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 319 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 245 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "xenophon-cyropaedia-miller": {
+  "title": "Cyropaedia",
+  "author": "Xenophon",
+  "format": "tei",
+  "sha256": "551c75ada9200d3558e7d14d1e1cf8fc47048131547ba074aed985223b7ebcd2",
+  "units": 1409,
+  "scheme": {
+   "citation": "Xen. Cyr. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 525 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 197 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "xenophon-hellenica-brownson": {
+  "title": "Hellenica",
+  "author": "Xenophon",
+  "format": "tei",
+  "sha256": "a0746b1e1e3a44c34f7fbe41369643f3aa614f6a2b54ab127f5d3fd24b323cf8",
+  "units": 1146,
+  "scheme": {
+   "citation": "Xen. Hell. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 695 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }

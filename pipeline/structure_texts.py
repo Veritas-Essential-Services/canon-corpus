@@ -126,6 +126,180 @@ def convert_tei(path, slug, abbrev):
             "rights": perseus_rights(root),
             "units": units}
 
+TEI_NS = "{http://www.tei-c.org/ns/1.0}"
+
+
+def tei_pieces(e, _parent=None):
+    """itertext(), minus Perseus's gazetteer: inside <name type="place"> a
+    <reg> holds "Bodrum [27.466,37.5] (inhabited place), Turkey..." -- the
+    modern place it resolves to, not the translator's words."""
+    if e.tag == TEI_NS + "reg" and _parent == TEI_NS + "name":
+        return
+    if e.text:
+        yield e.text
+    for c in e:
+        yield from tei_pieces(c, e.tag)
+        if c.tail:
+            yield c.tail
+
+
+def tei_clean(s):
+    """clean() for text that came out of an XML parser: it is already plain
+    text, so a literal "<Pisidians>" (an editor's angle-bracket supplement in
+    Godley) is words, not a tag, and must not be stripped as one."""
+    return clean(s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+
+def tei_note(e):
+    return {k: v for k, v in (("by", e.get("resp") or ""), ("n", e.get("n") or ""),
+                              ("text", tei_clean(" ".join(tei_pieces(e))))) if v}
+
+
+def tei_split(el):
+    """An element's reading text, with what is not reading text lifted out.
+
+    Stage directions and footnotes are not the text: they come back
+    separately (stage, notes), keep everything else including <del>, the
+    translation's own brackets. A lifted note or stage direction leaves a
+    space where it sat when letters touch on both sides: Perseus often has
+    "Pluto's<note>..</note>stream", which reads as one word once the note is
+    gone. <choice> reads the correction or regularization and keeps what was
+    printed (sic / orig) beside it. Returns (text, stage, notes, sic)."""
+    T = TEI_NS
+    parts, stage, notes, sics = [], [], [], []
+
+    def lift(e):
+        if parts and e.tail and parts[-1][-1:].isalnum() and e.tail[:1].isalnum():
+            parts.append(" ")
+        if e.tail: parts.append(e.tail)
+
+    def walk(e, parent=None):
+        if e.tag == T + "reg" and parent == T + "name":
+            if e.tail: parts.append(e.tail)       # gazetteer, not text
+            return
+        if e.tag == T + "stage" and e is not el:
+            t, s2, n2, c2 = tei_split(e)          # a stage direction may carry a footnote
+            stage.extend([t] + s2); notes.extend(n2); sics.extend(c2)
+            lift(e)
+            return
+        if e.tag == T + "note":
+            notes.append(tei_note(e))
+            lift(e)
+            return
+        if e.tag == T + "choice" and (e.find(T + "corr") is not None
+                                      or e.find(T + "reg") is not None):
+            # <choice><sic>Bacchus</sic><corr>Dionysus</corr></choice>: the
+            # reading text takes the correction (Perseus's modernizing, or a
+            # fixed typo); what the edition printed is kept, never thrown away.
+            good = e.find(T + "corr") if e.find(T + "corr") is not None else e.find(T + "reg")
+            bad = e.find(T + "sic") if e.find(T + "sic") is not None else e.find(T + "orig")
+            parts.append("".join(good.itertext()))
+            if bad is not None:
+                sics.append({"corr": clean("".join(good.itertext())),
+                             "sic": clean("".join(bad.itertext()))})
+            if e.tail: parts.append(e.tail)
+            return
+        if e.text: parts.append(e.text)
+        for c in e:
+            walk(c, e.tag)
+        if e is not el and e.tail: parts.append(e.tail)
+    walk(el)
+    return (tei_clean("".join(parts)), [s for s in stage if s],
+            [n for n in notes if n.get("text")], sics)
+
+
+# Perseus PROSE: histories and treatises in English, nested textpart divs
+# (book / chapter / section) carrying the canonical citation born-in. One
+# unit per innermost div, so "Hdt. 1.1.1" is exact to the section.
+TEI_PROSE = {
+    "herodotus-histories-godley": "Hdt.",
+    "thucydides-history-crawley": "Thuc.",
+    "xenophon-anabasis-brownson": "Xen. Anab.",
+    "xenophon-hellenica-brownson": "Xen. Hell.",
+    "xenophon-cyropaedia-miller": "Xen. Cyr.",
+}
+RE_TGN = re.compile(r"tgn,(\d+)")
+
+
+def convert_tei_prose(path, slug, abbrev):
+    T = TEI_NS
+    root = ET.parse(path).getroot()
+    title, author, transl = tei_meta(root)
+    body = root.find(f".//{T}body")
+    units, pending_head, levels = [], [], []
+    nnotes = 0
+
+    def is_part(e):
+        return e.tag == T + "div" and e.get("type") == "textpart"
+
+    def visit(e, path_ns):
+        nonlocal nnotes
+        kids = [c for c in e if is_part(c)]
+        if is_part(e) and e.get("subtype") and e.get("subtype").lower() not in levels:
+            levels.append(e.get("subtype").lower())
+        if is_part(e) and not kids:
+            text, _stage, notes, sic = tei_split(e)
+            ref = ".".join(path_ns)
+            links, seen = [], set()
+            for pl in e.iter(T + "placeName"):
+                m = RE_TGN.search(pl.get("key") or "")
+                if m and m.group(1) not in seen:
+                    seen.add(m.group(1))
+                    links.append({"kind": "place", "target": f"tgn:{m.group(1)}",
+                                  "name": clean("".join(pl.itertext()))})
+            app = {}
+            if pending_head:
+                app["head"] = list(pending_head); pending_head.clear()
+            if notes:
+                app["notes"] = notes; nnotes += len(notes)
+            if sic:
+                app["sic"] = sic
+            if text:
+                u = {"id": f"{slug}:{ref}", "ref": f"{abbrev} {ref}", "text": text,
+                     "links": links}
+                if app:
+                    u["apparatus"] = app
+                units.append(u)
+            elif units and app:
+                for k, v in app.items():
+                    units[-1].setdefault("apparatus", {}).setdefault(k, []).extend(v)
+            return
+        for c in e:
+            if is_part(c):
+                visit(c, path_ns + [c.get("n") or "?"])
+            elif any(is_part(d) for d in c.iter()):
+                visit(c, path_ns)               # a wrapper (the translation div)
+            elif c.tag != T + "milestone":
+                # Text between divisions (a book's <head>, an argument):
+                # kept, riding on the next unit as apparatus.head.
+                t, _s, n2, _c = tei_split(c)
+                if t:
+                    pending_head.append(t)
+                if n2:
+                    pending_head.extend(n["text"] for n in n2)
+
+    visit(body, [])
+    if pending_head and units:
+        units[-1].setdefault("apparatus", {}).setdefault("head", []).extend(pending_head)
+    places = sum(len(u["links"]) for u in units)
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": transl, "sha256": sha256(path)},
+            "scheme": {"citation": f"{abbrev} {'.'.join(levels)}",
+                       "resolution": levels[-1] if levels else "section",
+                       "honesty": "exact to the source's innermost division (the "
+                                  "standard section numbering, born-in from Perseus)",
+                       "note": f"Perseus TEI, one unit per innermost textpart div. "
+                               f"{nnotes} translator's/editor's footnote(s) lifted out of "
+                               f"the reading text into apparatus.notes; text between "
+                               f"divisions (headings, arguments) kept as apparatus.head; "
+                               f"{places} place reference(s) linked by Getty TGN id "
+                               f"(Perseus's gazetteer glosses dropped from the text, the "
+                               f"id kept)."},
+            "rights": perseus_rights(root),
+            "units": units}
+
+
 # Perseus drama: Greek plays in prose translation, marked up as <sp> speeches
 # whose <l n="..."> segments are anchored to the GREEK line numbers -- the
 # citation every commentary uses (Ant. 450). One unit per segment, so a
@@ -188,53 +362,7 @@ def convert_tei_drama(path, slug, abbrev):
     units, pending_stage, pending_notes, pending_sic, fixes, gaps = [], [], [], [], 0, 0
     section, speaker, personae = "", "", []
 
-    def note_of(e):
-        return {k: v for k, v in (("by", e.get("resp") or ""), ("n", e.get("n") or ""),
-                                  ("text", clean(" ".join(e.itertext())))) if v}
-
-    def seg_text(el):
-        # Stage directions and footnotes inside a segment are not spoken
-        # text: lift them out (kept under drama.stage / drama.notes), keep
-        # everything else including <del>, the translation's own brackets.
-        # A lifted note or stage direction leaves a space where it sat when
-        # letters touch on both sides: Perseus often has "Pluto's<note>..
-        # </note>stream", which read as one word once the note is gone.
-        parts, stage, notes, sics = [], [], [], []
-
-        def lift(e):
-            if parts and e.tail and parts[-1][-1:].isalnum() and e.tail[:1].isalnum():
-                parts.append(" ")
-            if e.tail: parts.append(e.tail)
-
-        def walk(e):
-            if e.tag == T + "stage" and e is not el:
-                t, s2, n2, c2 = seg_text(e)      # a stage direction may carry a footnote
-                stage.extend([t] + s2); notes.extend(n2); sics.extend(c2)
-                lift(e)
-                return
-            if e.tag == T + "note":
-                notes.append(note_of(e))
-                lift(e)
-                return
-            if e.tag == T + "choice" and e.find(T + "corr") is not None:
-                # <choice><sic>Bacchus</sic><corr>Dionysus</corr></choice>:
-                # the reading text takes the correction (Perseus's
-                # modernizing, or a fixed typo); what the edition printed is
-                # kept under drama.sic, never thrown away.
-                corr, sic = e.find(T + "corr"), e.find(T + "sic")
-                parts.append("".join(corr.itertext()))
-                if sic is not None:
-                    sics.append({"corr": clean("".join(corr.itertext())),
-                                 "sic": clean("".join(sic.itertext()))})
-                if e.tail: parts.append(e.tail)
-                return
-            if e.text: parts.append(e.text)
-            for c in e:
-                walk(c)
-            if e is not el and e.tail: parts.append(e.tail)
-        walk(el)
-        return (clean("".join(parts)), [s for s in stage if s],
-                [n for n in notes if n.get("text")], sics)
+    note_of, seg_text = tei_note, tei_split
 
     def visit(e):
         nonlocal section, speaker, fixes, gaps
@@ -2001,6 +2129,9 @@ def main():
             path = os.path.join(pdir, fn)
             if slug in TEI_DRAMA:
                 jobs.append((slug, lambda p=path, s=slug: convert_tei_drama(p, s, TEI_DRAMA[s])))
+                continue
+            if slug in TEI_PROSE:
+                jobs.append((slug, lambda p=path, s=slug: convert_tei_prose(p, s, TEI_PROSE[s])))
                 continue
             jobs.append((slug, lambda p=path, s=slug: convert_tei(p, s, tei_abbrevs.get(s, s))))
     cdir = os.path.join(CORPUS, "ccel")

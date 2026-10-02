@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 96 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 101 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -132,6 +132,15 @@ The living truth for project state is the Obsidian vault:
   the translations are PD but Perseus's TEI and "modernized" wording are CC
   BY-SA 4.0 (share-alike) -- each book carries a `rights` block saying so.
   Birds is NOT taken: Perseus's English is a 1938 Random House compilation.
+- Perseus PROSE (2026-10-02): Herodotus (Godley), Thucydides (Crawley),
+  Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller).
+  convert_tei_prose: one unit per innermost textpart div, id = born-in
+  book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
+  Footnotes under `apparatus.notes`, headings between divisions under
+  `apparatus.head`, places as TGN links; Perseus's gazetteer <reg> glosses are
+  NOT text (tei_pieces drops them). Slug -> abbreviation in TEI_PROSE.
+  perseus_rights() gives every Perseus book (epic, drama, prose) its CC BY-SA
+  rights block.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:

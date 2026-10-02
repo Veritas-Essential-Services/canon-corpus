@@ -168,6 +168,30 @@ PERSEUS = {
     "aristophanes-clouds-hickie": ("canonical-greekLit",
         "tlg0019/tlg003/tlg0019.tlg003.perseus-eng2.xml",
         "Aristophanes, Clouds — W. J. Hickie 1853 (PD); urn ...tlg0019.tlg003.perseus-eng2"),
+    # Greek historians in English prose (Adler vols. 5-6 and beyond),
+    # 2026-10-02. Rights line read per file (titleStmt translator, and the
+    # licence line where the file has one). All PD in the US (published
+    # before 1931) AND in life+70 countries: Godley d. 1925, Crawley d. 1893,
+    # Brownson d. 1948, Miller d. 1949. Perseus TEI is CC BY-SA (rights block).
+    # Herodotus and Thucydides are SECOND witnesses here: the Adler shelf
+    # has Macaulay and Jowett from Gutenberg without born-in sections.
+    # Xenophon's Memorabilia/Oeconomicus (Marchant d. 1960) and Symposium/
+    # Apology (Todd d. 1973) are NOT taken: PD in the US, not yet in the UK.
+    "herodotus-histories-godley": ("canonical-greekLit",
+        "tlg0016/tlg001/tlg0016.tlg001.perseus-eng2.xml",
+        "Herodotus, Histories — A. D. Godley 1920-25 (PD); urn ...tlg0016.tlg001.perseus-eng2"),
+    "thucydides-history-crawley": ("canonical-greekLit",
+        "tlg0003/tlg001/tlg0003.tlg001.perseus-eng6.xml",
+        "Thucydides, History of the Peloponnesian War — Richard Crawley (Dent 1914; PD); urn ...tlg0003.tlg001.perseus-eng6"),
+    "xenophon-anabasis-brownson": ("canonical-greekLit",
+        "tlg0032/tlg006/tlg0032.tlg006.perseus-eng2.xml",
+        "Xenophon, Anabasis — C. L. Brownson 1921-22 (PD); urn ...tlg0032.tlg006.perseus-eng2"),
+    "xenophon-hellenica-brownson": ("canonical-greekLit",
+        "tlg0032/tlg001/tlg0032.tlg001.perseus-eng2.xml",
+        "Xenophon, Hellenica — C. L. Brownson 1918-21 (PD); urn ...tlg0032.tlg001.perseus-eng2"),
+    "xenophon-cyropaedia-miller": ("canonical-greekLit",
+        "tlg0032/tlg007/tlg0032.tlg007.perseus-eng2.xml",
+        "Xenophon, Cyropaedia — Walter Miller 1914 (PD); urn ...tlg0032.tlg007.perseus-eng2"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).
