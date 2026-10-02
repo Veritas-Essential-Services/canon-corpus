@@ -33,3 +33,8 @@
 - Lucas letters now cite as `LETTER 263A, par. 4`: 259 and 354 letters, 0 duplicate ids. 30 books moved to own-Contents headings, each adopted only when it lands within 15% of its Contents count with no more duplicates (rule applied mechanically, list in the shelves). Blue/Red/Green Fairy Books = 37/37/42 tales; Tales from Shakespeare = 20 tales + preface.
 - Totals now: Lang 102,483 units, Lamb 22,015. tests/structure_test.py 64 passed.
 - Not fixed (recorded in the map): Helen of Troy (stanza-numbered verse), Elia volume and Lucas vol. I (Contents don't match body headings), some poetry books (Contents list first lines).
+
+## 2026-10-02 15:32 CDT — session end
+- Items: lang, lamb, fables-fold, overflow-verify-measure, overflow-boundaries — all done. Lock released.
+- Next Lane D worker: the queue is empty. Do §5 upkeep only: re-check that each shelf identifier still resolves, and keep the map in line with the shelves. Don't invent new authors. Adam decides whether the lane grows (see DIGEST-D.md).
+- Local-only by design (gitignored, gone with this container): data/corpus/{lang,lamb}/ and data/books/{lang,lamb}-*.json. `fetch_shelf.py <shelf>` then `convert_shelf_gutenberg.py <shelf>` rebuilds them.
