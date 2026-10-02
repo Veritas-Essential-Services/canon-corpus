@@ -2472,6 +2472,32 @@ Shelf: `pipeline/barrie_shelf.json` (2026-10-02; added at the coordinator's rela
 | barrie-not-his | excluded | anthologies and books by others he contributed to or introduced (PG 2135, 2588, 21415 Daisy Ashford's Young Visiters, 26146, 37970, 39755 O'Connor's retelling, 43084 Mrs. Oliphant, 62942), Widger's index (58824) |
 | barrie-not-on-gutenberg | pending | his books not on Gutenberg (for example The Boy Castaways, Shall We Join the Ladies?); not searched for this pass |
 
+## L. Frank Baum (the Oz books)
+
+Shelf: `pipeline/baum_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Baum's fourteen Oz novels and Little Wizard Stories of Oz, cited by chapter. The Gutenberg transcriptions mark chapters in four different ways, so each book has its own rule in its shelf row. The Marvelous Land of Oz has none in a form a rule can catch, so its 24 chapter titles are listed, and 21 are found. His other books are pending; the Thompson and Snow continuations are not his. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wonderful Wizard of Oz (1900) | have | PG 55, `baum-wonderful-wizard-of-oz` (1116 units) |
+| The Marvelous Land of Oz (1904) | have | PG 54, `baum-marvelous-land-of-oz` (1550 units) |
+| Ozma of Oz (1907) | have | PG 486, `baum-ozma-of-oz` (1235 units) |
+| Dorothy and the Wizard in Oz (1908) | have | PG 420, `baum-dorothy-and-the-wizard-in-oz` (1308 units) |
+| The Road to Oz (1909) | have | PG 485, `baum-road-to-oz` (1249 units) |
+| The Emerald City of Oz (1910) | have | PG 517, `baum-emerald-city-of-oz` (1742 units) |
+| The Patchwork Girl of Oz (1913) | have | PG 955, `baum-patchwork-girl-of-oz` (1807 units) |
+| Little Wizard Stories of Oz (1914), ill. John R. Neill | have | PG 25519, `baum-little-wizard-stories-of-oz` (358 units) |
+| Tik-Tok of Oz (1914) | have | PG 956, `baum-tik-tok-of-oz` (1497 units) |
+| The Scarecrow of Oz (1915) | have | PG 957, `baum-scarecrow-of-oz` (1250 units) |
+| Rinkitink in Oz (1916) | have | PG 958, `baum-rinkitink-in-oz` (1097 units) |
+| The Lost Princess of Oz (1917) | have | PG 959, `baum-lost-princess-of-oz` (1150 units) |
+| The Tin Woodman of Oz (1918) | have | PG 960, `baum-tin-woodman-of-oz` (1161 units) |
+| The Magic of Oz (1919) | have | PG 419, `baum-magic-of-oz` (1138 units) |
+| Glinda of Oz (1920) | have | PG 961, `baum-glinda-of-oz` (1005 units) |
+| baum-duplicates | excluded | other Gutenberg transcriptions of every Oz book held (illustrated Neill and Denslow editions and re-transcriptions: PG 17426, 19466, 53844, 43936, 21179, 23075, 33361, 19450, 22566, 21174, 26624, 21163, 41667, 32094, 23076, 52176, 51263, 25581, 21169, 24459, 30852, 50194, 39868); PG 19467 (Little Wizard Stories) has no plain-text file, so the Neill transcription 25519 is held |
+| baum-not-this-shelf | pending | PENDING, outside the relay's Oz list unless Adam widens it: his other fantasies (The Master Key, The Enchanted Island of Yew, Queen Zixi of Ix, John Dough and the Cherub, The Sea Fairies, Sky Island, Mother Goose in Prose, American Fairy Tales, The Magical Monarch of Mo, Dot and Tot of Merryland, the Santa Claus books, the Twinkle Tales, The Woggle-Bug Book), and the series and adult books (Aunt Jane's Nieces, Mary Louise, the Boy Fortune Hunters, Sam Steele, The Flying Girl, Daring Twins, The Fate of a Crown, The Last Egyptian, Tamawaca Folks, Annabel, Daughters of Destiny, the Hamburgs and window-dressing manuals) |
+| baum-not-his | excluded | the Oz books by Ruth Plumly Thompson and Jack Snow (PG 30537, 53765, 55806, 55851, 56073, 56079, 56085, 56555, 56683, 58765, 61681, 65849, 70152, 71273, 73170, 75720, 78637). The Royal Book of Oz (1921, PG 30537) was published under Baum's name but written by Thompson; listed here, not held |
+| baum-translations | excluded | non-English editions: this shelf is Baum's English |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

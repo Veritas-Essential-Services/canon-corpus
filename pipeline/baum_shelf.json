@@ -1,0 +1,150 @@
+{
+ "_about": "L. Frank Baum's (1856-1919) Oz books, as the relay asked: his fourteen Oz novels in order and Little Wizard Stories of Oz. Clean Gutenberg text; all published 1900-1920: public domain nearly everywhere. His other books, and the Oz books other writers continued after his death, are listed below as pending or excluded.",
+ "_author": "L. Frank Baum",
+ "_name_words": [
+  "frank",
+  "baum"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baum-wonderful-wizard-of-oz": [
+   55,
+   "The Wonderful Wizard of Oz (1900)",
+   {
+    "chapre_only": "Chapter [IVXL]+\\.?(?:\\s.{2,70})?$"
+   }
+  ],
+  "baum-marvelous-land-of-oz": [
+   54,
+   "The Marvelous Land of Oz (1904)",
+   {
+    "chapre_only": "(?i:[\\W_]*(?:The[\\W_]*Astonishing[\\W_]*Flight[\\W_]*of[\\W_]*the[\\W_]*Gump|The[\\W_]*Scarecrow[\\W_]*Takes[\\W_]*Time[\\W_]*to[\\W_]*Think|Dr[\\W_]*Nikidik[\\W_]*s[\\W_]*Famous[\\W_]*Wishing[\\W_]*Pills|Tip[\\W_]*Makes[\\W_]*an[\\W_]*Experiment[\\W_]*in[\\W_]*Magic|General[\\W_]*Jinjur[\\W_]*s[\\W_]*Army[\\W_]*of[\\W_]*Revolt|The[\\W_]*Awakening[\\W_]*of[\\W_]*the[\\W_]*Saw[\\W_]*Horse|The[\\W_]*Journey[\\W_]*to[\\W_]*the[\\W_]*Tin[\\W_]*Woodman|The[\\W_]*Tin[\\W_]*Woodman[\\W_]*Plucks[\\W_]*a[\\W_]*Rose|Old[\\W_]*Mombi[\\W_]*Indulges[\\W_]*in[\\W_]*Witchcraft|Mr[\\W_]*H[\\W_]*M[\\W_]*Woggle[\\W_]*Bug[\\W_]*T[\\W_]*E|The[\\W_]*Scarecrow[\\W_]*Appeals[\\W_]*to[\\W_]*Glinda|The[\\W_]*Transformation[\\W_]*of[\\W_]*Old[\\W_]*Mombi|The[\\W_]*Scarecrow[\\W_]*Plans[\\W_]*an[\\W_]*Escape|The[\\W_]*Marvelous[\\W_]*Powder[\\W_]*of[\\W_]*Life|The[\\W_]*Flight[\\W_]*of[\\W_]*the[\\W_]*Fugitives|The[\\W_]*Prisoners[\\W_]*of[\\W_]*the[\\W_]*Queen|Tip[\\W_]*Manufactures[\\W_]*a[\\W_]*Pumpkinhead|A[\\W_]*Highly[\\W_]*Magnified[\\W_]*History|His[\\W_]*Majesty[\\W_]*the[\\W_]*Scarecrow|Jack[\\W_]*Pumpkinhead[\\W_]*s[\\W_]*Ride|A[\\W_]*Nickel[\\W_]*Plated[\\W_]*Emperor|The[\\W_]*Riches[\\W_]*of[\\W_]*Content|In[\\W_]*the[\\W_]*Jackdaws[\\W_]*Nest|Princess[\\W_]*Ozma[\\W_]*of[\\W_]*Oz)[\\W_]*)$"
+   }
+  ],
+  "baum-ozma-of-oz": [
+   486,
+   "Ozma of Oz (1907)",
+   {
+    "chapre_only": "\\d{1,2}\\.\\s+[A-Z][^\\n]{2,70}$"
+   }
+  ],
+  "baum-dorothy-and-the-wizard-in-oz": [
+   420,
+   "Dorothy and the Wizard in Oz (1908)",
+   {
+    "chapre_only": "\\d{1,2}\\.\\s+[A-Z][^\\n]{2,70}$"
+   }
+  ],
+  "baum-road-to-oz": [
+   485,
+   "The Road to Oz (1909)",
+   {
+    "chapre_only": "\\d{1,2}\\.\\s+[A-Z][^\\n]{2,70}$"
+   }
+  ],
+  "baum-emerald-city-of-oz": [
+   517,
+   "The Emerald City of Oz (1910)",
+   {
+    "chapre_only": "\\d{1,2}\\.\\s+[A-Z][^\\n]{2,70}$"
+   }
+  ],
+  "baum-patchwork-girl-of-oz": [
+   955,
+   "The Patchwork Girl of Oz (1913)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:-[A-Za-z]+)?$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "baum-little-wizard-stories-of-oz": [
+   25519,
+   "Little Wizard Stories of Oz (1914), ill. John R. Neill"
+  ],
+  "baum-tik-tok-of-oz": [
+   956,
+   "Tik-Tok of Oz (1914)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:-[A-Za-z]+)?$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "baum-scarecrow-of-oz": [
+   957,
+   "The Scarecrow of Oz (1915)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:-[A-Za-z]+)?$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "baum-rinkitink-in-oz": [
+   958,
+   "Rinkitink in Oz (1916)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:-[A-Za-z]+)?$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "baum-lost-princess-of-oz": [
+   959,
+   "The Lost Princess of Oz (1917)",
+   {
+    "chapre_only": "CHAPTER \\d+\\s.{2,70}$"
+   }
+  ],
+  "baum-tin-woodman-of-oz": [
+   960,
+   "The Tin Woodman of Oz (1918)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:-[A-Za-z]+)?$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "baum-magic-of-oz": [
+   419,
+   "The Magic of Oz (1919)",
+   {
+    "chapre_only": "\\d{1,2}\\.\\s+[A-Z][^\\n]{2,70}$"
+   }
+  ],
+  "baum-glinda-of-oz": [
+   961,
+   "Glinda of Oz (1920)",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:-[A-Za-z]+)?$",
+      "title_next": true
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "baum-duplicates": "other Gutenberg transcriptions of every Oz book held (illustrated Neill and Denslow editions and re-transcriptions: PG 17426, 19466, 53844, 43936, 21179, 23075, 33361, 19450, 22566, 21174, 26624, 21163, 41667, 32094, 23076, 52176, 51263, 25581, 21169, 24459, 30852, 50194, 39868); PG 19467 (Little Wizard Stories) has no plain-text file, so the Neill transcription 25519 is held",
+  "baum-not-this-shelf": "PENDING, outside the relay's Oz list unless Adam widens it: his other fantasies (The Master Key, The Enchanted Island of Yew, Queen Zixi of Ix, John Dough and the Cherub, The Sea Fairies, Sky Island, Mother Goose in Prose, American Fairy Tales, The Magical Monarch of Mo, Dot and Tot of Merryland, the Santa Claus books, the Twinkle Tales, The Woggle-Bug Book), and the series and adult books (Aunt Jane's Nieces, Mary Louise, the Boy Fortune Hunters, Sam Steele, The Flying Girl, Daring Twins, The Fate of a Crown, The Last Egyptian, Tamawaca Folks, Annabel, Daughters of Destiny, the Hamburgs and window-dressing manuals)",
+  "baum-not-his": "the Oz books by Ruth Plumly Thompson and Jack Snow (PG 30537, 53765, 55806, 55851, 56073, 56079, 56085, 56555, 56683, 58765, 61681, 65849, 70152, 71273, 73170, 75720, 78637). The Royal Book of Oz (1921, PG 30537) was published under Baum's name but written by Thompson; listed here, not held",
+  "baum-translations": "non-English editions: this shelf is Baum's English"
+ }
+}

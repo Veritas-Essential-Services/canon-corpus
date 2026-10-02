@@ -113,3 +113,6 @@
 
 ## 2026-10-02 16:24 CDT — barrie: done
 - 26/26 fetched (Gutenberg), 0 copyright markers; 29,025 units. Peter Pan novel, 1928 play, Kensington Gardens, Little White Bird, Thrums, Tommy novels, sketches, 11 plays by act. PG 70315 dropped as a duplicate of Echoes of the War. No uids minted; not in manifest.
+
+## 2026-10-02 16:30 CDT — baum: done
+- 15/15 fetched (Gutenberg; Little Wizard Stories from 25519 because 19467 has no text file), 0 copyright markers; 18,663 units, 0 duplicate ids. The 14 Oz novels by chapter (Land of Oz: 21 of 24 chapter titles found) + Little Wizard Stories. Other Baum books pending. No uids minted; not in manifest.
