@@ -122,3 +122,6 @@
 
 ## 2026-10-02 16:32 CDT — wilde-fairy-tales: done
 - 2/2 fetched (Gutenberg), 0 copyright markers; 1,006 units, all 9 tales found as headings, 0 duplicate ids. No uids minted; not in manifest.
+
+## 2026-10-02 16:33 CDT — dickens-christmas: done
+- 5/5 fetched (Gutenberg), 0 copyright markers; 3,689 units, 0 duplicate ids; each book cited by its own staves, quarters, chirps, parts or Gifts. No uids minted; not in manifest.

@@ -2731,6 +2731,21 @@ Shelf: `pipeline/wilde-fairy-tales_shelf.json` (2026-10-02; added at the coordin
 | wilde-duplicates | excluded | other transcriptions of The Happy Prince (PG 23937, 30120 ill. Charles Robinson) |
 | wilde-not-this-shelf | excluded | his plays, The Picture of Dorian Gray, the poems, essays and Lord Arthur Savile's Crime: outside the storytellers shelf unless Adam widens it |
 
+## Charles Dickens (the Christmas books)
+
+Shelf: `pipeline/dickens-christmas_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The five Christmas books, each cited by Dickens's own divisions: staves (Carol), quarters (Chimes), chirps (Cricket), parts (Battle of Life) and the three Gifts (Haunted Man). His novels are on other shelves. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Christmas Carol in Prose; Being a Ghost Story of Christmas (1843) | have | PG 46, `dickens-christmas-carol` (717 units) |
+| The Chimes: A Goblin Story of Some Bells that Rang an Old Year Out and a New Year In (1844) | have | PG 653, `dickens-chimes` (690 units) |
+| The Cricket on the Hearth: A Fairy Tale of Home (1845) | have | PG 678, `dickens-cricket-on-the-hearth` (717 units) |
+| The Battle of Life: A Love Story (1846) | have | PG 676, `dickens-battle-of-life` (720 units) |
+| The Haunted Man and the Ghost's Bargain: A Fancy for Christmas-Time (1848) | have | PG 644, `dickens-haunted-man` (845 units) |
+| dickens-duplicates | excluded | other transcriptions of the five books: A Christmas Carol (PG 9696, 19337, 19505, 20673, 24022 ill. Rackham, 30368 the manuscript facsimile), The Chimes (9738), The Cricket on the Hearth (9739, 20795, 37581), The Battle of Life (9694, 40723), The Haunted Man (9713) |
+| dickens-not-his | excluded | stage adaptations by others: C. A. Scott's Old Scrooge (40729), C. Z. Barnett's The Miser's Warning (41739) |
+| dickens-not-this-shelf | excluded | his Christmas stories written for Household Words and All the Year Round, and his novels: outside the relay's five Christmas books |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

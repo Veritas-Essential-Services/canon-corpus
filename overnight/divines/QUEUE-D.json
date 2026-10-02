@@ -203,8 +203,11 @@
     },
     {
       "id": "dickens-christmas",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Dickens: the five Christmas books (A Christmas Carol, The Chimes, The Cricket on the Hearth, The Battle of Life, The Haunted Man); no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Dickens: the five Christmas books (A Christmas Carol, The Chimes, The Cricket on the Hearth, The Battle of Life, The Haunted Man); no minting",
+      "started": "2026-10-02T16:32:21-05:00",
+      "finished": "2026-10-02T16:33:15-05:00",
+      "notes": "5/5 fetched (Gutenberg), 0 copyright markers; 3,689 units, 0 duplicate ids; each book cited by its own staves, quarters, chirps, parts or Gifts. No uids minted; not in manifest."
     },
     {
       "id": "collodi",
