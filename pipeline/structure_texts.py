@@ -964,10 +964,13 @@ RE_CONTENTS_HEAD = re.compile(r"^\s*(TABLE OF )?CONTENTS\.?\s*$", re.I | re.M)
 # number, so "The Mice in Council" became "The Mice in Coun" and the body
 # heading was never matched; the head, case-insensitive, took any leading run
 # of I/V/X/L/C as a chapter number ("Civilization" -> "zation", "Civic" ->
-# nothing). Now a numeral must be well formed and stand apart. Fixing it moves the chapter boundaries, and so the unit ids, of
-# every book built from its own Contents: needs Adam's ruling (rule 3).
+# nothing). Now a numeral must be well formed and stand apart (a space, a
+# stop, a bracket or a dash). Fixing it CAN move the chapter boundaries, and so
+# the unit ids, of a book built from its own Contents: needs Adam's ruling
+# (rule 3). Measured 0 ids moved in the 36 committed books
+# (docs/review/2026-10-02-contents-key-ids.md); uncommitted shelves do move.
 _ROMAN = r"(?=[ivxlc])c{0,3}(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})"   # a well-formed numeral, 1-399
-RE_CONTENTS_NUM = re.compile(rf"^(?:CHAPTER|CHAP\.)?\s*(?:(?:{_ROMAN}|\d+)(?=[\s.:)]|$))?\s*[.:)]?\s*", re.I)
+RE_CONTENTS_NUM = re.compile(rf"^(?:CHAPTER|CHAP\.)?\s*(?:(?:{_ROMAN}|\d+)(?=[\s.:)\-–—]|$))?\s*[.:)\-–—]?\s*", re.I)
 RE_CONTENTS_TAIL = re.compile(rf"(?:[\s.~_*·…]+(?:\d+|{_ROMAN}))?[\s.~_*·…]*$")
 # The rule before 2026-10-02, kept so contents_key_diff.py can show what the
 # fix moves. Not used by any build.

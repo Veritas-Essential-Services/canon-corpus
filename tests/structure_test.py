@@ -444,8 +444,10 @@ check("contents: a title starting with I/V/X/L/C keeps its first letters",
       == ["Civilization", "Lucifer", "CIVIL WAR", "Civic"])
 check("contents: real numbering and page numbers still come off",
       [st._contents_key(t) for t in ("IX. THE BOOK OF JOB", "iv. On Lying", "Heretics   xi",
-                                      "The Rival.....vii", "CHAPTER XII. The End")]
-      == ["THE BOOK OF JOB", "On Lying", "Heretics", "The Rival", "The End"])
+                                      "The Rival.....vii", "CHAPTER XII. The End",
+                                      "I\u2014THE FOOL", "CHAPTER XII\u2013The End", "IV - On Lying")]
+      == ["THE BOOK OF JOB", "On Lying", "Heretics", "The Rival", "The End",
+          "THE FOOL", "The End", "On Lying"])
 check("contents: the old rule is kept only for the diff, and it did cut",
       st._contents_key("The Mice in Council", old=True) == "The Mice in Coun")
 _FAB = ("CONTENTS\n\n  The Mice in Council\n  The Cock and the Jewel\n\n\n\n\n"
