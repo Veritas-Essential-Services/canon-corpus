@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 85 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 88 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -245,7 +245,10 @@ fact both line rules ignored is that **a lexicon is alphabetical**: every line
 opening with a Greek word is a candidate, weighted +1 if paragraph-initial and
 +1 if it is a Strong's Greek lemma (accents ignored), and only the max-weight
 strictly-increasing alphabetical chain survives — and of that, only members
-that are paragraph-initial or a Strong's lemma. Ids are page + transliterated
+that are paragraph-initial or a Strong's lemma. Two exceptions, both from
+review: a one-letter headword (ὁ, ἤ, ὦ) counts only with a paragraph break AND
+a Strong's match, and two headwords that differ only by accent (εἰμί / εἶμι)
+may share a key when both open paragraphs and match Strong's exactly. Ids are page + transliterated
 headword (`thayer-entries:p.300.hedone`), **provisional** until segmentation
 is ruled on; each unit links to its `thayer:p.N` page(s) and, when the
 headword matches exactly one, its `strongs-greek:G…` entry. A real entry the

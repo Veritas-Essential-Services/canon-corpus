@@ -792,6 +792,13 @@ def thayer_key(word):
     return re.sub(r"[^α-ω]", "", d)
 
 
+def thayer_form(word):
+    """The headword WITH its accents (case and final sigma still ignored):
+    what tells εἰμί 'I am' from εἶμι 'I go', which thayer_key merges."""
+    d = unicodedata.normalize("NFC", word).lower()
+    return d.replace("ς", "σ").replace("ϲ", "σ")
+
+
 def thayer_translit(word):
     d = unicodedata.normalize("NFD", word)
     rough = "̔" in d[:4]
@@ -801,11 +808,17 @@ def thayer_translit(word):
     return ("h" + out) if rough else out
 
 
-def _lis_weighted(keys, weights):
+def _lis_weighted(keys, weights, forms=None, homograph=None):
     """Max-weight STRICTLY increasing subsequence, in reading order. Fenwick
     tree over key ranks: O(n log n), n ~ 8k. Returns the chosen indices.
     Ties on total weight go to the EARLIER predecessor, so a rerun on the same
-    input picks the same chain -- the build must be deterministic."""
+    input picks the same chain -- the build must be deterministic.
+
+    One exception to "strictly": two candidates may share a key when both are
+    flagged `homograph` and their accented `forms` differ -- εἰμί then εἶμι,
+    two real entries that only an accent tells apart. A repeated mention of
+    the SAME form never qualifies, which is what keeps a headword cited again
+    mid-entry from opening a second entry."""
     ranks = {k: i + 1 for i, k in enumerate(sorted(set(keys)))}
     size = len(ranks)
     tree = [(0, -1)] * (size + 1)          # (best weight, index) per prefix
@@ -825,11 +838,20 @@ def _lis_weighted(keys, weights):
             r += r & -r
 
     dp, prev = [0] * len(keys), [-1] * len(keys)
+    same = {}                              # key -> {form: (best dp, index)}, homographs only
     for i, k in enumerate(keys):
         r = ranks[k]
         w, j = query(r - 1)                # strictly smaller keys only
+        if homograph and homograph[i]:
+            for f, (hw, hj) in sorted(same.get(k, {}).items()):
+                if f != forms[i] and hw > w:
+                    w, j = hw, hj
         dp[i], prev[i] = w + weights[i], j
         update(r, (dp[i], i))
+        if homograph and homograph[i]:
+            bucket = same.setdefault(k, {})
+            if dp[i] > bucket.get(forms[i], (0, -1))[0]:
+                bucket[forms[i]] = (dp[i], i)
     if not keys:
         return []
     end = max(range(len(keys)), key=lambda i: (dp[i], -i))
@@ -841,7 +863,7 @@ def _lis_weighted(keys, weights):
 
 
 def strongs_greek_lemmas(path):
-    """Strong's Greek headwords -> {thayer_key: [G-number, ...]}. Strong's
+    """Strong's Greek headwords -> {thayer_key: [(G-number, thayer_form), ...]}. Strong's
     covers the same New Testament vocabulary Thayer's does, so a candidate
     headword that IS a Strong's lemma is far likelier to open an entry than a
     Greek word that merely starts a line."""
@@ -851,7 +873,7 @@ def strongs_greek_lemmas(path):
         if g is None or not g.get("unicode"):
             continue
         out.setdefault(thayer_key(g.get("unicode")), []).append(
-            strongs_id(e.get("strongs"), "greek"))
+            (strongs_id(e.get("strongs"), "greek"), thayer_form(g.get("unicode"))))
     return out
 
 
@@ -880,6 +902,11 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
       5. A chain member must ALSO be paragraph-initial or a Strong's lemma.
          A bare line-initial Greek word that merely happens to sort in order
          is not evidence of an entry.
+      6. Two exceptions. A ONE-LETTER headword (ὁ the article, ἤ, ὦ) is a
+         candidate only with a paragraph break AND a Strong's match, since a
+         lone letter is usually a numeral. And two headwords that differ ONLY
+         by accent (εἰμί / εἶμι) may share a key on the chain when both open
+         a paragraph and match a Strong's lemma accent for accent.
 
     The result is a heuristic and says so: the count is reported against the
     ~5,600 entries Thayer's really has, every unit links back to the exact
@@ -902,16 +929,23 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
                 prev_blank = True
                 continue
             m = RE_THAYER_HEAD.match(s)       # anywhere, not only after a blank line
-            if m and len(m.group(1)) > 1 and len(thayer_key(m.group(1))) > 1:
+            k = thayer_key(m.group(1)) if m else ""
+            # One-letter headwords are real (ὁ the article, ἤ, ὦ) but a lone
+            # Greek letter starting a line is usually a numeral or a siglum,
+            # so one letter needs BOTH a paragraph break and a Strong's lemma.
+            if k and (len(k) > 1 or (prev_blank and k in lemmas)):
                 hw = m.group(1)
-                k = thayer_key(hw)
+                f = thayer_form(hw)
+                exact = any(f == lf for _, lf in lemmas.get(k, ()))
                 cands.append({"line": len(lines), "page": p, "head": hw, "key": k,
-                              "para": prev_blank, "strongs": k in lemmas})
+                              "form": f, "para": prev_blank, "strongs": k in lemmas,
+                              "homograph": prev_blank and exact})
             lines.append((p, s))
             prev_blank = False
 
     weights = [1 + c["para"] + c["strongs"] for c in cands]
-    chain = _lis_weighted([c["key"] for c in cands], weights)
+    chain = _lis_weighted([c["key"] for c in cands], weights,
+                          [c["form"] for c in cands], [c["homograph"] for c in cands])
     heads = [cands[i] for i in chain if cands[i]["para"] or cands[i]["strongs"]]
     stats = {"candidates": len(cands),
              "off_order": len(cands) - len(chain),
@@ -933,10 +967,15 @@ def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
             unit_id, i = f"{base}-{i}", i + 1
         used_ids.add(unit_id)
         links = [{"kind": "page", "target": f"{page_slug}:p.{int(p)}"} for p in spanned]
-        gs = lemmas.get(h["key"], [])
+        # Accents decide first (εἰμί G1510, not εἶμι); only when the OCR'd
+        # accents match nothing do they get ignored.
+        pairs = lemmas.get(h["key"], [])
+        exact = [g for g, f in pairs if f == h["form"]]
+        gs = exact or [g for g, _ in pairs]
         if len(gs) == 1:
             links.append({"kind": "strongs", "target": f"strongs-greek:{gs[0]}",
-                          "match": "headword, accents ignored"})
+                          "match": "headword, accents matched" if exact
+                                   else "headword, accents ignored"})
             strongs_linked += 1
         elif gs:
             ambiguous += 1

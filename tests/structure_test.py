@@ -347,8 +347,8 @@ check("thayer-entries: an entry crossing a page keeps its text and links BOTH pa
 check("thayer-entries: id is page + transliterated headword; ref says s.v.",
       te["units"][0]["id"] == "thayer-entries:p.2.agathos"
       and te["units"][0]["ref"] == "Thayer p. 2, s.v. \u1F00\u03B3\u03B1\u03B8\u03CC\u03C2")
-check("thayer-entries: headword linked to its Strong's entry, accents ignored",
-      {"kind": "strongs", "target": "strongs-greek:G26", "match": "headword, accents ignored"}
+check("thayer-entries: headword linked to its Strong's entry, accents matched",
+      {"kind": "strongs", "target": "strongs-greek:G26", "match": "headword, accents matched"}
       in te["units"][-1]["links"])
 check("thayer-entries: exactly the four real entries, in order",
       [u["id"] for u in te["units"]] == ["thayer-entries:p.2.agathos",
@@ -371,6 +371,42 @@ check("thayer-entries: key ignores accents, breathings, case, final sigma",
 check("thayer-entries: weighted chain is the max-weight strictly increasing run",
       st._lis_weighted(["b", "a", "c", "b", "d"], [1, 1, 1, 3, 1]) == [1, 3, 4])
 os.unlink(te_path); os.unlink(sg_path)
+
+# Two ways the first cut dropped real entries (review of PR #7, 2026-10-02):
+# a one-letter headword (the article), and two headwords told apart only by
+# an accent (εἰμί "I am" / εἶμι "I go").
+EIMI, EIMI2 = "\u03B5\u1F30\u03BC\u03AF", "\u03B5\u1F36\u03BC\u03B9"
+TH2 = {"5": "\u1F41\n\n"
+            + EIMI + ", I am.\n"
+            + EIMI + ", cited again mid-entry.\n\n"
+            + EIMI2 + ", I go.\n\n"
+            "\u03BD\u03CD\u03BE, -\u03BA\u03C4\u03CC\u03C2, \u1F21, night.\n\n"
+            "\u1F41, \u1F21, \u03C4\u03CC, the article.\n"
+            "\u03B2, a lone letter numeral line.\n\n"
+            "\u03C0\u03B1\u03C4\u03AE\u03C1, -\u03C4\u03C1\u03CC\u03C2, \u1F41, father.\n"}
+SG2 = ('<strongsdictionary><entries>'
+       '<entry strongs="03571"><greek unicode="\u03BD\u03CD\u03BE"/></entry>'
+       '<entry strongs="03588"><greek unicode="\u1F41"/></entry>'
+       '<entry strongs="03962"><greek unicode="\u03C0\u03B1\u03C4\u03AE\u03C1"/></entry>'
+       '<entry strongs="01510"><greek unicode="' + EIMI + '"/></entry>'
+       '<entry strongs="01511"><greek unicode="' + EIMI2 + '"/></entry>'
+       '</entries></strongsdictionary>')
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as f:
+    _json.dump(TH2, f); t2_path = f.name
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(SG2); s2_path = f.name
+t2 = st.convert_thayer_entries(t2_path, strongs_path=s2_path)
+h2 = [u["lex"]["headword"] for u in t2["units"]]
+check("thayer-entries: a one-letter headword (the article) is an entry when it opens a "
+      "paragraph and is a Strong's lemma; a lone numeral letter is not",
+      h2[2:] == ["\u03BD\u03CD\u03BE", "\u1F41", "\u03C0\u03B1\u03C4\u03AE\u03C1"]
+      and "\u03B2" not in h2 and "numeral" in t2["units"][3]["text"])
+check("thayer-entries: accent-only homographs are two entries; the same form cited again is not",
+      h2[:2] == [EIMI, EIMI2] and "cited again" in t2["units"][0]["text"])
+check("thayer-entries: accents pick the Strong's number among homographs",
+      [l["target"] for u in t2["units"][:2] for l in u["links"] if l["kind"] == "strongs"]
+      == ["strongs-greek:G1510", "strongs-greek:G1511"])
+os.unlink(t2_path); os.unlink(s2_path)
 
 # ------------------------------------------------------------ STEPBible Greek
 # Every case is a defect measured against the live files on 2026-09-06. Two of
