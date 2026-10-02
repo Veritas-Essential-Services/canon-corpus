@@ -1,0 +1,27 @@
+{
+ "_about": "Hippocrates in Francis Adams's The Genuine Works of Hippocrates (Sydenham Society, 1849), 2 vols.: vol. 1 clean Gutenberg (from the 1886 New York reprint), vol. 2 raw IA OCR of the 1849 Sydenham printing.",
+ "_name_words": [
+  "hippocrates",
+  "genuine",
+  "works"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hippocrates-adams-v1": [
+   72583,
+   "The Genuine Works of Hippocrates, vol. 1",
+   "tr. Francis Adams"
+  ]
+ },
+ "internet_archive": {
+  "hippocrates-adams-v2": [
+   "b33291408_0004",
+   "The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849)",
+   "tr. Francis Adams"
+  ]
+ },
+ "_excluded": {
+  "genuineworksofhi02hippuoft": "empty text layer",
+  "Jones and Withington, Loeb (1923-31)": "Greek facing; pending"
+ }
+}
