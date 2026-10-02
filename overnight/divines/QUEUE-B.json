@@ -50,9 +50,11 @@
     },
     {
       "id": "homer",
-      "status": "running",
+      "status": "done",
       "scope": "CLASSICAL (added by lane B from the Perseus census) \u2014 Homer, English, translator per work: Chapman, Pope, Cowper, Butler (Iliad/Odyssey Butler already in the build via Perseus), Bryant, Lang/Leaf/Myers and Butcher/Lang cross-ref \u2192 Lang shelf (lane D), Dryden's Homer cross-ref \u2192 Dryden shelf (lane C); shelf + fetch + map",
-      "started": "2026-10-02T15:32:11-05:00"
+      "started": "2026-10-02T15:32:11-05:00",
+      "finished": "2026-10-02T15:34:07-05:00",
+      "notes": "13/13 fetched, 10.5 MB: Chapman, Pope, Cowper (both poems each), Derby, Buckley, Butler Odyssey 1900 (PG) + Bryant Iliad and Odyssey (IA raw, 2 vols each, clean-word 0.92). Trial conversion (prose mode): 9,810 units. Finding: the build's odyssey-eng4 is Butler revised by Power and Nagy (modern revision), not the 1900 text. Lang, Dryden, Evelyn-White Homer cross-referenced."
     },
     {
       "id": "greek-tragedy",
