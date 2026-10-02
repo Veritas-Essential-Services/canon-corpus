@@ -580,6 +580,21 @@ Target: M'Millan's *Whole Works of Thomas Boston* (12 vols, 1848-1852, including
 | Editions of 1803, 1821, 1845; second 1862 scan | alternate | not fetched |
 | CCEL `gurnall/armour` | excluded | a stub |
 | A clean text of the Complete Armour | wishlist | no PD machine-readable edition found |
+
+
+## Jeremiah Burroughs (round 3, my pick, 2026-10-02)
+
+No collected Works, no CCEL, no Gutenberg. Two Nichol reprints (Hosea 1863, Saints' Happiness 1867) plus two 1650s printings that passed the identity check, all raw IA OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| An Exposition of the Prophecy of Hosea, with continuations by Thomas Hall and Edward Reynolds (Edinburgh: James Nichol, 1863) | have-raw | IA `expositionofprop00burr` |
+| The Saints' Happiness: Lectures on the Beatitudes (Edinburgh: James Nichol, 1867) | have-raw | IA `saintshappinesst00burr` |
+| Moses his Choice, with his Eye Fixed upon Heaven (London, 1650) | have-raw | IA `moseshischoicewi00burr` |
+| Four Books on the Eleventh of Matthew (London, 1659) | have-raw | IA `fourbooksonelev00burrgoog` |
+| The Rare Jewel of Christian Contentment (1651); Irenicum (1653); The Saints' Treasury (1654); The Glorious Name of God (1643) | pending | scans found, but their OCR never names Burroughs, so the fetcher refused them; check by eye |
+| Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils | pending | no scan verified yet |
+| A clean Rare Jewel | wishlist | no PD machine-readable edition found |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

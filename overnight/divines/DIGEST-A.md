@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:34 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:35 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -46,6 +46,7 @@ The coordinator's list was done by 16:32 CDT with most of the burn left, so lane
 | Thomas Manton | manton_shelf.json | 9 CCEL volumes of the Works (1-8, 20) | 13 (the other Nisbet volumes; Works complete, 22 vols) | none | none |
 | Thomas Boston | boston_shelf.json | 1 CCEL (The Crook in the Lot) | 12 (M'Millan Whole Works 1848-52, complete) | a clean Fourfold State | none |
 | William Gurnall | gurnall_shelf.json | 0 (CCEL's file is a stub) | 1 (The Christian in Complete Armour, 1862) | a clean Complete Armour | Welsh translation |
+| Jeremiah Burroughs | burroughs_shelf.json | 0 (none exists) | 4 (Hosea 1863, Saints' Happiness 1867, Moses his Choice 1650, Four Books on Matthew 11 1659) | Rare Jewel and 3 more refused scans | modern reprint, abridgements |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

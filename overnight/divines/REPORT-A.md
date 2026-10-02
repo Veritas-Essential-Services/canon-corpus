@@ -128,3 +128,7 @@
 
 ## 2026-10-02 16:34 CDT — gurnall done
 - `pipeline/gurnall_shelf.json`: The Christian in Complete Armour (1862, intro. John Campbell), raw IA OCR, 4.6 MB. CCEL's `gurnall/armour` is a stub (about 7 KB of text). `--verify`: 0 mismatched. 0 uids minted.
+
+## 2026-10-02 16:35 CDT — burroughs done
+- `pipeline/burroughs_shelf.json`: 4 IA items raw (about 12.5 MB): the Nichol Hosea (1863, with Hall's and Reynolds's continuations) and Saints' Happiness (1867), Moses his Choice (1650), Four Books on Matthew 11 (1659). `--verify`: 0 mismatched.
+- Refused by the identity check and moved to `_pending`: four 1640s-1650s scans, the Rare Jewel of Christian Contentment among them, whose OCR never contains Burroughs's name. Same pattern as Rutherford's first printings: old type defeats the name check. 0 uids minted.

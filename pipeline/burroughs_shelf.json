@@ -1,0 +1,48 @@
+{
+ "_about": "Every public-domain Jeremiah Burroughs (1599-1646) text the Word Hoard holds. Burroughs has no collected Works. Two Nichol's Series reprints carry the most text (the Exposition of Hosea, 1863, with the continuations by Thomas Hall and Edward Reynolds; The Saints' Happiness, 1867); the rest survive on IA only in 1640s-1650s printings, whose old type OCRs badly. All raw IA OCR, unconverted. CCEL has no Burroughs (ccel.org/ccel/burroughs returned 404 on 2026-10-02) and Gutenberg has none.",
+ "_ccel_author": "",
+ "_name_words": [
+  "burroughs",
+  "burroughes",
+  "burrowes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burroughs-hosea-1863": [
+   "expositionofprop00burr",
+   "An Exposition of the Prophecy of Hosea, with continuations by Thomas Hall and Edward Reynolds (Edinburgh: James Nichol, 1863)"
+  ],
+  "burroughs-saints-happiness-1867": [
+   "saintshappinesst00burr",
+   "The Saints' Happiness: Lectures on the Beatitudes (Edinburgh: James Nichol, 1867)"
+  ],
+  "burroughs-moses-choice-1650": [
+   "moseshischoicewi00burr",
+   "Moses his Choice, with his Eye Fixed upon Heaven (London, 1650)"
+  ],
+  "burroughs-four-books-matthew-1659": [
+   "fourbooksonelev00burrgoog",
+   "Four Books on the Eleventh of Matthew (London, 1659)"
+  ]
+ },
+ "_alternates": {
+  "anexpositionpro00burrgoog, expositionofprop0[1-4]burr (1643), expositionwithpr00jere (1650)": "First printings of the Hosea lectures; the 1863 Nichol text is held.",
+  "irenicvmtolovers00burr (1646), irenicvmtolover00burrgoog": "Other printings of Irenicum.",
+  "moseshischoicew00burrgoog (1641)": "Another printing of Moses his Choice.",
+  "saintshappiness00greegoog (1660)": "First printing of The Saints' Happiness; Nichol 1867 held.",
+  "two-treatises": "A user upload ('Two Treatises on Earthly Mindedness and Heavenly Conversation', 1656) with no library provenance; not fetched until its source is known."
+ },
+ "_excluded": {
+  "isbn_9781240422135": "modern print-on-demand reprint",
+  "causesevilscures00asbu (1849), causesevilsandc00baxtgoog (1855)": "abridgements extracted by other hands"
+ },
+ "_pending": {
+  "Gospel Worship; Gospel Conversation; Gospel Fear; The Evil of Evils": "no scan verified yet",
+  "rarejewelchrist00burrgoog (The Rare Jewel of Christian Contentment (London, 1651))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye.",
+  "irenicumtothelov00burruoft (Irenicum, to the Lovers of Truth and Peace (London, 1653))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye.",
+  "saintstreasuryb00burrgoog (The Saints' Treasury: Sundry Sermons (London, 1654))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye.",
+  "gloriousnamegod00burrgoog (The Glorious Name of God, the Lord of Hosts: Two Sermons (London, 1643))": "refused by the fetcher's identity check 2026-10-02: the 1640s-1650s OCR never contains Burroughs's name in any spelling. Shelve after a look by eye."
+ }
+}

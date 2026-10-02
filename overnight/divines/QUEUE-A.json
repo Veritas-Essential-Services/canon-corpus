@@ -221,11 +221,13 @@
     },
     {
       "id": "burroughs",
-      "status": "running",
+      "status": "done",
       "scope": "Jeremiah Burroughs: Rare Jewel of Christian Contentment and other PD texts",
       "added": "2026-10-02T16:28:03-05:00",
       "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
-      "started": "2026-10-02T16:33:52-05:00"
+      "started": "2026-10-02T16:33:52-05:00",
+      "finished": "2026-10-02T16:35:13-05:00",
+      "notes": "4 IA; 4 refused to pending"
     },
     {
       "id": "newton",
