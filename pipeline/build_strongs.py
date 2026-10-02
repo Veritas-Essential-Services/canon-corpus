@@ -61,7 +61,7 @@ LEX = os.path.join(S.CORPUS, "lexicons")
 BOOKS = os.path.join(ROOT, "data", "books")
 
 FILES = ("strongs.jsonl", "proposed-uids.jsonl", "witnesses.jsonl",
-         "concordance.jsonl", "manifest.json")
+         "concordance.jsonl", "kjv-tags.jsonl", "kjv-renderings.jsonl", "manifest.json")
 
 CITATION_SLUG = "strongs"      # strongs:G26 -- the WORD; strongs-greek:G26 is its 1890 entry
 KIND = "lexeme"
@@ -311,11 +311,33 @@ def _books(base):
     return sorted(d for d in os.listdir(base) if os.path.isdir(os.path.join(base, d)))
 
 
-def build_concordance(table, prior_rows, prior_manifest):
+def build_concordance(table, prior_rows, prior_manifest, kjv_rows=None):
     keys = {t["strongs"] for t in table}
     occ = {}                                   # key -> {corpus: [uids in canon order]}
     tokens = {}
     stats = {}
+    # The KJV's own tagging: every verse of both testaments, by the English.
+    if kjv_rows is None:
+        for r in prior_rows:
+            if "kjv" in r["passages"]:
+                occ.setdefault(r["strongs"], {})["kjv"] = r["passages"]["kjv"]
+                tokens.setdefault(r["strongs"], {})["kjv"] = r["tokens"]["kjv"]
+        if (prior_manifest.get("concordance") or {}).get("kjv"):
+            stats["kjv"] = prior_manifest["concordance"]["kjv"]   # unchanged: see kstats
+    else:
+        for r in kjv_rows:
+            for _, k in r["tags"] + r.get("title_tags", []):
+                if k in keys:
+                    occ.setdefault(k, {}).setdefault("kjv", {})[r["passage_uid"]] = None
+                    tc = tokens.setdefault(k, {})
+                    tc["kjv"] = tc.get("kjv", 0) + 1
+        for k in occ:
+            if isinstance(occ[k].get("kjv"), dict):
+                occ[k]["kjv"] = list(occ[k]["kjv"])
+        stats["kjv"] = {"dir": "data/strongs/kjv-tags.jsonl",
+                        "tokens": sum(len(r["tags"]) + len(r.get("title_tags", [])) for r in kjv_rows),
+                        "numbers_occurring": sum(1 for k in occ if "kjv" in occ[k]),
+                        "note": "tagged KJV words, not original-language tokens"}
     for name, rel in CORPORA.items():
         base = os.path.join(ROOT, rel)
         if not os.path.isdir(base):
@@ -357,6 +379,233 @@ def build_concordance(table, prior_rows, prior_manifest):
 
 
 # ---------------------------------------------------------------------------
+# The English half: KJV words tagged with Strong's numbers (README s.6)
+# ---------------------------------------------------------------------------
+
+KJV_SRC = {
+    "url": "https://ebible.org/Scriptures/eng-kjv2006_usfm.zip",
+    "dir": os.path.join(S.CORPUS, "strongs-kjv", "eng-kjv2006_usfm"),
+    # sha256 of the 66 .usfm files, concatenated in file-name order. Not the
+    # zip's: eBible rebuilds the zip (and its dated copr.htm) on its own schedule.
+    "usfm_sha256": "6c4d66ade2f4d44c43f8652374b5a3952fb9b2e42fb821711d4bc5724141a9f4",
+    "edition": ("King James (Authorized) Version, 1769 standard text, protocanon, \"with "
+                "Strong's numbers added\" -- eBible.org eng-kjv2006, USFM"),
+    "rights_line": ("eBible.org, the edition's own page and copr.htm: \"Public Domain\" ... "
+                    "\"You may copy the King James Version of the Holy Bible freely.\" "
+                    "(Crown letters patent: UK printing only.)"),
+    "lineage": ("The tagging is CrossWire's KJV module: OT Strong's from The Bible Foundation "
+                "(bf.org), NT from CrossWire's KJV2003 project. CrossWire's kjv.conf: "
+                "\"CrossWire Bible Society hereby grants a general public license to use this "
+                "text for any purpose\"; DistributionLicense=GPL."),
+    "status": "rights ruling for Adam: labelled public domain on the exact edition, see README s.6",
+}
+
+USFM_OSIS = dict(zip(
+    "GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH EZR NEH EST JOB PSA PRO ECC SNG "
+    "ISA JER LAM EZK DAN HOS JOL AMO OBA JON MIC NAM HAB ZEP HAG ZEC MAL "
+    "MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE "
+    "1JN 2JN 3JN JUD REV".split(),
+    "Gen Exod Lev Num Deut Josh Judg Ruth 1Sam 2Sam 1Kgs 2Kgs 1Chr 2Chr Ezra Neh Esth Job Ps "
+    "Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal "
+    "Matt Mark Luke John Acts Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm "
+    "Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev".split()))
+
+RE_KJV_W = re.compile(r'\\\+?w ([^|\\]+)\|strong="([HG]\d+)"\\\+?w\*')
+RE_FOOTNOTE = re.compile(r"\\f .*?\\f\*", re.S)
+
+
+def fetch_kjv():
+    import io
+    import urllib.request
+    import zipfile
+    req = urllib.request.Request(KJV_SRC["url"], headers={"User-Agent": "canon-corpus"})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        zf = zipfile.ZipFile(io.BytesIO(r.read()))
+    os.makedirs(KJV_SRC["dir"], exist_ok=True)
+    for m in zf.infolist():
+        if m.filename.endswith((".usfm", ".htm")):
+            with open(os.path.join(KJV_SRC["dir"], os.path.basename(m.filename)), "wb") as f:
+                f.write(zf.read(m))
+    print(f"fetched {KJV_SRC['url']} -> {os.path.relpath(KJV_SRC['dir'], ROOT)}")
+
+
+def _usfm_files():
+    d = KJV_SRC["dir"]
+    if not os.path.isdir(d):
+        return None
+    fs = sorted(f for f in os.listdir(d) if f.endswith(".usfm"))
+    return [os.path.join(d, f) for f in fs] if len(fs) == 66 else None
+
+
+def read_kjv_tags(table):
+    """-> ([{passage_uid, citation, tags: [[english, key], ...]}], stats), or
+    (None, None) when the source is not here. `english` is the KJV word or
+    phrase exactly as tagged, in verse order; untagged words (the italics the
+    translators supplied, most articles) are not listed."""
+    files = _usfm_files()
+    if not files:
+        return None, None
+    h = hashlib.sha256()
+    for f in files:
+        with open(f, "rb") as fh:
+            h.update(fh.read())
+    got = h.hexdigest()
+    if got != KJV_SRC["usfm_sha256"]:
+        raise SystemExit(f"eBible KJV USFM sha256 {got[:12]} is not the pinned "
+                         f"{KJV_SRC['usfm_sha256'][:12]}: read the diff before re-pinning.")
+    reg = wh_uid.WhUidRegistry(REGISTRY)
+    keys = {t["strongs"] for t in table}
+    rows, missing, unknown, n_tags, n_title = [], [], {}, 0, 0
+
+    def tag(chunk):
+        nonlocal n_tags
+        out = []
+        for word, raw in RE_KJV_W.findall(chunk):
+            k, _ = normalize(raw)
+            n_tags += 1
+            if k not in keys:
+                unknown[k] = unknown.get(k, 0) + 1
+            out.append([word, k])
+        return out
+
+    for f in files:
+        code = os.path.basename(f)[3:6]
+        osis = USFM_OSIS[code]
+        text = RE_FOOTNOTE.sub("", open(f, encoding="utf-8-sig").read())
+        ch, title = None, []
+        for line in re.split(r"(?=\\[cv] )", text):
+            m = re.match(r"\\c (\d+)", line)
+            if m:
+                ch = int(m.group(1))
+                title = tag(line)        # a psalm title (\\d) sits before verse 1
+                n_title += len(title)
+                continue
+            m = re.match(r"\\v (\d+)", line)
+            if not m:
+                continue
+            cit = f"kjv:{osis}.{ch}.{int(m.group(1))}"
+            uid = reg.map.get(cit)
+            if uid is None:
+                missing.append(cit)
+                continue
+            row = {"passage_uid": uid, "citation": cit, "tags": tag(line)}
+            if title:
+                row["title_tags"] = title    # the KJV numbers no title: kept beside verse 1
+                title = []
+            rows.append(row)
+    stats = {"source": dict(KJV_SRC, usfm_sha256=got, dir=os.path.relpath(KJV_SRC["dir"], ROOT)),
+             "verses": len(rows), "tags": n_tags, "psalm_title_tags": n_title,
+             "verses_without_tags": sum(1 for r in rows if not r["tags"]),
+             "citations_without_uid": missing,
+             "keys_not_in_1890": dict(sorted(unknown.items(), key=lambda kv: sort_key(kv[0])))}
+    return rows, stats
+
+
+def kjv_renderings(rows):
+    """key -> {english: count}: the index at the back of Strong's Exhaustive
+    Concordance. Case folded, except words the KJV prints in capitals (LORD)."""
+    out = {}
+    for r in rows:
+        for word, k in r["tags"] + r.get("title_tags", []):
+            w = word if word.isupper() and len(word) > 1 else word.lower()
+            d = out.setdefault(k, {})
+            d[w] = d.get(w, 0) + 1
+    return [{"strongs": k, "renderings": dict(sorted(out[k].items(), key=lambda kv: (-kv[1], kv[0])))}
+            for k in sorted(out, key=sort_key)]
+
+
+# ---------------------------------------------------------------------------
+# OSHB's Strong's tags on the Hebrew OT tokens: CC BY 4.0, BUILT, NEVER COMMITTED
+# ---------------------------------------------------------------------------
+
+OSHB_OUT = os.path.join(ROOT, "build", "strongs", "oshb-ot")     # gitignored (build/)
+OSHB_RIGHTS = {
+    "license": "CC BY 4.0",
+    "attribution": ("Open Scriptures Hebrew Bible (OSHB), lemma and morphology tagging, "
+                    "openscriptures/morphhb; Westminster Leningrad Codex text public domain"),
+    "source_url": "https://github.com/openscriptures/morphhb",
+    "redistribute_whole": False,
+    "note": ("Not committed: data/ot/ withholds OSHB's CC BY layer under ADR 0001, and this "
+             "layer follows the same gate (as the STEPBible lexicons do). Built locally into "
+             "build/, gitignored. Drop it by deleting build/strongs/oshb-ot/."),
+}
+RE_OSHB_NUM = re.compile(r"(\d+)(?:\s*([a-z]))?")
+
+
+def oshb_keys(lemma):
+    """OSHB lemma attribute -> Strong's keys, suffix kept: 'c/d/776' -> ['H776'];
+    '1254 a' -> ['H1254a']; prefixes (b/, c/, l/ ...) carry no number."""
+    out = []
+    for part in (lemma or "").split("/"):
+        m = RE_OSHB_NUM.search(part)
+        if m:
+            out.append(f"H{int(m.group(1))}{m.group(2) or ''}")
+    return out
+
+
+def build_oshb_layer():
+    """Strong's keys for every data/ot/ token, from the same pinned OSHB files
+    build_ot_corpus.py reads, segmented by ITS rules: its read_book() is
+    wrapped, and each verse re-walked in parallel to collect lemma attributes
+    per word, then zipped against its tokens with the surfaces checked."""
+    try:
+        import build_ot_corpus as O
+        import xml.etree.ElementTree as ET
+    except ImportError:
+        return None
+    import build_versification as V
+    if not all(os.path.exists(os.path.join(V.WLC_DIR, b + ".xml")) for b in O.SCOPE):
+        return None
+    NS = O.NS
+    log = []                                   # (wlc ref, [[keys] per word]) in plan order
+    orig = O.read_book
+
+    def lemmas_of(osis):
+        root = ET.parse(os.path.join(V.WLC_DIR, osis + ".xml")).getroot()
+        per = {}
+        for v in root.iter(NS + "verse"):
+            words, prev = [], None
+            for el in v:
+                if el.tag == NS + "w" and prev is not None and prev.tag == NS + "w" \
+                        and not (prev.tail or "").strip(" \n\t") and not re.search(r"\s", prev.tail or ""):
+                    words[-1] += oshb_keys(el.get("lemma"))      # one WLC word OSHB divided
+                    prev = el
+                    continue
+                prev = el
+                if el.tag == NS + "w":
+                    words.append(oshb_keys(el.get("lemma")))
+            per[v.get("osisID")] = words
+        return per
+
+    def wrapped(osis):
+        out = orig(osis)
+        per = lemmas_of(osis)
+        for ref, verse in out:
+            if len(per[ref]) != len(verse["words"]):
+                raise SystemExit(f"OSHB layer: {ref} has {len(verse['words'])} words, "
+                                 f"lemma walk found {len(per[ref])}")
+            log.append((ref, per[ref]))
+        return out
+
+    O.read_book = wrapped
+    try:
+        data, manifest = O.build(wh_uid.WhUidRegistry(REGISTRY, frozen=True))
+    finally:
+        O.read_book = orig
+    skipped = {x["wlc"] for x in manifest["versification"]["left_out"]}
+    flat = [ks for ref, words in log if ref not in skipped for ks in words]
+    toks = data["tokens"]
+    if len(flat) != len(toks):
+        raise SystemExit(f"OSHB layer: {len(flat)} words vs {len(toks)} tokens")
+    book = {p["uid"]: p["book"] for p in data["passages"]}
+    per_book = {}
+    for t, ks in zip(toks, flat):
+        per_book.setdefault(book[t["passage_uid"]], []).append(
+            {"address": t["address"], "surface": t["surface"], "strongs": ks})
+    return per_book
+
+
+# ---------------------------------------------------------------------------
 
 def build():
     prior_manifest = {}
@@ -368,8 +617,18 @@ def build():
     proposals, minted = build_proposals(table, read_jsonl(os.path.join(OUT, "proposed-uids.jsonl")))
     wit, wstats, carried = build_witnesses(table, read_jsonl(os.path.join(OUT, "witnesses.jsonl")),
                                            prior_manifest)
+    kjv_rows, kstats = read_kjv_tags(table)
+    if kjv_rows is None:                     # source not here: the committed layer stands
+        kjv_text = {n: open(os.path.join(OUT, n), encoding="utf-8").read()
+                    for n in ("kjv-tags.jsonl", "kjv-renderings.jsonl")
+                    if os.path.exists(os.path.join(OUT, n))}
+        kstats = prior_manifest.get("kjv") or {}     # unchanged, so --check holds without the source
+        carried.append("kjv")
+    else:
+        kjv_text = {"kjv-tags.jsonl": dump_jsonl(kjv_rows),
+                    "kjv-renderings.jsonl": dump_jsonl(kjv_renderings(kjv_rows))}
     conc, cstats = build_concordance(table, read_jsonl(os.path.join(OUT, "concordance.jsonl")),
-                                     prior_manifest)
+                                     prior_manifest, kjv_rows)
     heb = [t for t in table if t["strongs"][0] == "H"]
     grk = [t for t in table if t["strongs"][0] == "G"]
     manifest = {
@@ -388,12 +647,16 @@ def build():
                  "registered": sum(p["status"] == "registered" for p in proposals)},
         "witnesses": wstats,
         "concordance": cstats,
+        "kjv": kstats,
+        "oshb_layer": dict(OSHB_RIGHTS, built_to="build/strongs/oshb-ot/<Book>.jsonl",
+                           how="python3 pipeline/build_strongs.py (when the pinned WLC is in data/corpus/)"),
         "not_claimed": [
-            "No KJV English word is linked to a Strong's number: that is the English half of "
-            "Strong's Exhaustive Concordance, and no public-domain tagged KJV has been verified "
-            "here yet (README s.6).",
-            "The concordance is by passage uid in the ORIGINAL-LANGUAGE corpora only; a number "
-            "absent from them is absent here, not unused in scripture.",
+            "The KJV tags are CrossWire's, as eBible.org publishes them; they are not checked "
+            "here against the Hebrew or Greek, and the rights call on them is Adam's (README s.6).",
+            "A KJV tag links an English word to the number of the word it translates; untagged "
+            "words (italics the translators supplied, most articles) are not listed.",
+            "The ot corpus carries no keys of its own: data/ot/ withholds OSHB's CC BY tags. "
+            "Old Testament occurrences come from the KJV's tagging (corpus kjv), by verse.",
             "Strong's numbering is the key, not a claim that each number is one word: Strong's "
             "lumps some homographs and splits some forms (README s.3).",
         ],
@@ -403,6 +666,7 @@ def build():
         "proposed-uids.jsonl": dump_jsonl(proposals),
         "witnesses.jsonl": dump_jsonl(wit),
         "concordance.jsonl": dump_jsonl(conc),
+        **kjv_text,
         "manifest.json": json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True) + "\n",
     }, minted, carried
 
@@ -443,6 +707,8 @@ def adopt():
 def main():
     if "--adopt" in sys.argv:
         return adopt()
+    if "--fetch" in sys.argv:
+        return fetch_kjv()
     outputs, minted, carried = build()
     if "--check" in sys.argv:
         bad = []
@@ -458,6 +724,18 @@ def main():
             print(("DIFF  " if name in bad else "same  ") + name)
         sys.exit(1 if bad or minted else 0)
     write(outputs)
+    layer = build_oshb_layer()
+    if layer:
+        os.makedirs(OSHB_OUT, exist_ok=True)
+        for book, recs in layer.items():
+            with open(os.path.join(OSHB_OUT, book + ".jsonl"), "w", encoding="utf-8", newline="\n") as f:
+                f.write(dump_jsonl(recs))
+        with open(os.path.join(OSHB_OUT, "rights.json"), "w", encoding="utf-8") as f:
+            json.dump(OSHB_RIGHTS, f, ensure_ascii=False, indent=1)
+        n = sum(len(v) for v in layer.values())
+        print(f"oshb layer (CC BY, not committed): {n} tokens -> {os.path.relpath(OSHB_OUT, ROOT)}")
+    else:
+        print("oshb layer: skipped (pinned WLC not in data/corpus; build_versification.py --fetch)")
     m = json.loads(outputs["manifest.json"])
     print(f"table: {m['table']['rows']} rows ({m['table']['hebrew']} H, {m['table']['greek']} G)")
     print(f"uids: {minted} newly proposed; {m['uids']['proposed']} proposed, "

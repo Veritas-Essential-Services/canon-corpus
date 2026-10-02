@@ -1,6 +1,12 @@
 {
  "citation": "strongs:<key> names the WORD; strongs-hebrew:/strongs-greek:<key> names its 1890 entry",
  "concordance": {
+  "kjv": {
+   "dir": "data/strongs/kjv-tags.jsonl",
+   "note": "tagged KJV words, not original-language tokens",
+   "numbers_occurring": 14057,
+   "tokens": 349308
+  },
   "nt": {
    "dir": "data/nt",
    "keys_not_in_1890": {},
@@ -9,15 +15,51 @@
    "tokens_key_not_in_1890": 0,
    "tokens_with_suffix": 0,
    "tokens_without_key": 0
+  },
+  "ot": {
+   "dir": "data/ot",
+   "keys_not_in_1890": {},
+   "numbers_occurring": 0,
+   "tokens": 305124,
+   "tokens_key_not_in_1890": 0,
+   "tokens_with_suffix": 0,
+   "tokens_without_key": 305124
   }
  },
  "doc": "pipeline/README-strongs.md",
  "key": "Strong's number: 'H' or 'G' + the number, no leading zeros (H2617, G26)",
+ "kjv": {
+  "citations_without_uid": [],
+  "keys_not_in_1890": {},
+  "psalm_title_tags": 424,
+  "source": {
+   "dir": "data/corpus/strongs-kjv/eng-kjv2006_usfm",
+   "edition": "King James (Authorized) Version, 1769 standard text, protocanon, \"with Strong's numbers added\" -- eBible.org eng-kjv2006, USFM",
+   "lineage": "The tagging is CrossWire's KJV module: OT Strong's from The Bible Foundation (bf.org), NT from CrossWire's KJV2003 project. CrossWire's kjv.conf: \"CrossWire Bible Society hereby grants a general public license to use this text for any purpose\"; DistributionLicense=GPL.",
+   "rights_line": "eBible.org, the edition's own page and copr.htm: \"Public Domain\" ... \"You may copy the King James Version of the Holy Bible freely.\" (Crown letters patent: UK printing only.)",
+   "status": "rights ruling for Adam: labelled public domain on the exact edition, see README s.6",
+   "url": "https://ebible.org/Scriptures/eng-kjv2006_usfm.zip",
+   "usfm_sha256": "6c4d66ade2f4d44c43f8652374b5a3952fb9b2e42fb821711d4bc5724141a9f4"
+  },
+  "tags": 349308,
+  "verses": 31102,
+  "verses_without_tags": 3
+ },
  "not_claimed": [
-  "No KJV English word is linked to a Strong's number: that is the English half of Strong's Exhaustive Concordance, and no public-domain tagged KJV has been verified here yet (README s.6).",
-  "The concordance is by passage uid in the ORIGINAL-LANGUAGE corpora only; a number absent from them is absent here, not unused in scripture.",
+  "The KJV tags are CrossWire's, as eBible.org publishes them; they are not checked here against the Hebrew or Greek, and the rights call on them is Adam's (README s.6).",
+  "A KJV tag links an English word to the number of the word it translates; untagged words (italics the translators supplied, most articles) are not listed.",
+  "The ot corpus carries no keys of its own: data/ot/ withholds OSHB's CC BY tags. Old Testament occurrences come from the KJV's tagging (corpus kjv), by verse.",
   "Strong's numbering is the key, not a claim that each number is one word: Strong's lumps some homographs and splits some forms (README s.3)."
  ],
+ "oshb_layer": {
+  "attribution": "Open Scriptures Hebrew Bible (OSHB), lemma and morphology tagging, openscriptures/morphhb; Westminster Leningrad Codex text public domain",
+  "built_to": "build/strongs/oshb-ot/<Book>.jsonl",
+  "how": "python3 pipeline/build_strongs.py (when the pinned WLC is in data/corpus/)",
+  "license": "CC BY 4.0",
+  "note": "Not committed: data/ot/ withholds OSHB's CC BY layer under ADR 0001, and this layer follows the same gate (as the STEPBible lexicons do). Built locally into build/, gitignored. Drop it by deleting build/strongs/oshb-ot/.",
+  "redistribute_whole": false,
+  "source_url": "https://github.com/openscriptures/morphhb"
+ },
  "schema": "wordhoard/strongs/v1",
  "sources": {
   "strongs-greek": {

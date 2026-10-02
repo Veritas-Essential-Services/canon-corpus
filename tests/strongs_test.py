@@ -122,6 +122,9 @@ for name, rel in B.CORPORA.items():
         pu |= {p["uid"] for p in B.read_jsonl(os.path.join(base, book, "passages.jsonl"))}
         ntok += sum(1 for _ in open(os.path.join(base, book, "tokens.jsonl"), encoding="utf-8"))
     got = [u for c in conc for u in c["passages"].get(name, [])]
+    if not got and man["concordance"][name]["tokens_without_key"] == man["concordance"][name]["tokens"]:
+        print(f"skip  {rel}: its tokens carry no Strong's key (withheld by the licence gate)")
+        continue
     ok(got and set(got) <= pu, f"{name}: every concordance passage is a {rel} passage uid ({len(got):,} links)")
     ok(sum(c["tokens"].get(name, 0) for c in conc) == ntok == man["concordance"][name]["tokens"],
        f"{name}: token counts sum to the corpus ({ntok:,})")
@@ -130,6 +133,49 @@ for name, rel in B.CORPORA.items():
 cc = {c["strongs"]: c for c in conc}
 if "nt" in cc.get("G26", {}).get("passages", {}):
     ok(cc["G26"]["tokens"]["nt"] == 116, f"ἀγάπη G26 occurs 116 times in the NT (got {cc['G26']['tokens']['nt']})")
+
+# -- the English half: KJV tags ----------------------------------------------
+kt = rows("kjv-tags.jsonl")
+kjv_uids = {c: u for c, u in reg.map.items() if c.startswith("kjv:")}
+ok(len(kt) == 31102 == len(kjv_uids), f"one row per KJV verse ({len(kt):,})")
+ok(all(kjv_uids.get(r["citation"]) == r["passage_uid"] for r in kt),
+   "every row's passage_uid is the registry's uid for its citation")
+alltags = [t for r in kt for t in r["tags"] + r.get("title_tags", [])]
+ok(all(k in by and not by[k].get("not_used") for _, k in alltags),
+   f"every tag is a used number in the table ({len(alltags):,} tags)")
+ok(man["kjv"]["tags"] == len(alltags) == 349308, "349,308 tags, as the source carries")
+g11 = next(r for r in kt if r["citation"] == "kjv:Gen.1.1")
+ok(["beginning", "H7225"] in g11["tags"] and ["God", "H430"] in g11["tags"],
+   "Gen 1:1: beginning is H7225, God is H430")
+j316 = next(r for r in kt if r["citation"] == "kjv:John.3.16")
+ok(["loved", "G25"] in j316["tags"], "John 3:16: loved is G25")
+ps3 = next(r for r in kt if r["citation"] == "kjv:Ps.3.1")
+ok(["Absalom", "H53"] in ps3.get("title_tags", []), "Psalm 3's title is kept beside verse 1, not in it")
+ren = {r["strongs"]: r["renderings"] for r in rows("kjv-renderings.jsonl")}
+ok(ren["H430"].get("god", 0) > 2000 and "LORD" in ren.get("H3068", {}),
+   "renderings: H430 is mostly god; H3068 keeps LORD in capitals")
+ok(sum(sum(v.values()) for v in ren.values()) == len(alltags), "renderings count every tag once")
+ku = {u for c in conc for u in c["passages"].get("kjv", [])}
+ok(ku and ku <= set(kjv_uids.values()), "concordance kjv passages are KJV verse uids")
+
+# -- OSHB's CC BY layer: built locally, never committed -------------------------
+r = subprocess.run(["git", "-C", ROOT, "ls-files", "build/strongs"], capture_output=True, text=True)
+ok(r.returncode == 0 and not r.stdout.strip(), "no OSHB layer file is tracked by git")
+ok(man["oshb_layer"]["license"] == "CC BY 4.0" and man["oshb_layer"]["redistribute_whole"] is False,
+   "the manifest labels the OSHB layer CC BY, not for redistribution")
+if os.path.isdir(B.OSHB_OUT) and os.path.isdir(os.path.join(ROOT, "data", "ot")):
+    lay = [x for f in sorted(os.listdir(B.OSHB_OUT)) if f.endswith(".jsonl")
+           for x in B.read_jsonl(os.path.join(B.OSHB_OUT, f))]
+    ot_tok = {}
+    for book in B._books(os.path.join(ROOT, "data", "ot")):
+        for t in B.read_jsonl(os.path.join(ROOT, "data", "ot", book, "tokens.jsonl")):
+            ot_tok[t["address"]] = t["surface"]
+    ok(len(lay) == len(ot_tok) and all(ot_tok.get(x["address"]) == x["surface"] for x in lay),
+       f"OSHB layer: one row per data/ot token, surfaces agree ({len(lay):,})")
+    ok(all(B.normalize(k)[0] in by for x in lay for k in x["strongs"]),
+       "OSHB layer: every key is in the table")
+else:
+    print("skip  OSHB layer: not built here")
 
 # -- rebuild -----------------------------------------------------------------
 srcs = [os.path.join(B.LEX, s["file"]) for s in B.SOURCES.values()]
