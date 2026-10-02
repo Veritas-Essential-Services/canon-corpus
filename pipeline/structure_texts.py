@@ -129,6 +129,10 @@ def convert_tei(path, slug, abbrev):
 TEI_NS = "{http://www.tei-c.org/ns/1.0}"
 
 
+TEI_BLOCKS = {TEI_NS + t for t in ("l", "lg", "p", "div", "head", "item", "list",
+                                   "quote", "sp", "speaker", "ab")}
+
+
 def tei_pieces(e, _parent=None):
     """itertext(), minus Perseus's gazetteer: inside <name type="place"> a
     <reg> holds "Bodrum [27.466,37.5] (inhabited place), Turkey..." -- the
@@ -199,12 +203,18 @@ def tei_split(el):
                              "sic": clean("".join(bad.itertext()))})
             if e.tail: parts.append(e.tail)
             return
+        # A verse line or paragraph is a break even when the TEI runs them
+        # together ("virtuous</q></l><l><q>And"): never weld two lines.
+        block = e is not el and e.tag in TEI_BLOCKS
+        if block: parts.append("\x00")
         if e.text: parts.append(e.text)
         for c in e:
             walk(c, e.tag)
+        if block: parts.append("\x00")
         if e is not el and e.tail: parts.append(e.tail)
     walk(el)
-    return (tei_clean("".join(parts)), [s for s in stage if s],
+    joined = re.sub(r"\x00+(?=\s*[;:,.!?)\]])", "", "".join(parts)).replace("\x00", " ")
+    return (tei_clean(joined), [s for s in stage if s],
             [n for n in notes if n.get("text")], sics)
 
 
