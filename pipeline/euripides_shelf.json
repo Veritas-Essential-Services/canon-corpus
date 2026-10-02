@@ -96,6 +96,21 @@
    "greektragicthea02wodhgoog",
    "The Greek Tragic Theatre, vol. 5: Euripides (new ed., 1809)",
    "tr. Michael Wodhull"
+  ],
+  "euripides-potter-v1": [
+   "euripides00pottgoog",
+   "Euripides, translated by R. Potter, vol. 1 (Valpy, 1832)",
+   "tr. Robert Potter"
+  ],
+  "euripides-potter-v2": [
+   "euripides01pottgoog",
+   "Euripides, translated by R. Potter, vol. 2 (Valpy, 1832)",
+   "tr. Robert Potter"
+  ],
+  "euripides-potter-v3": [
+   "euripides02pottgoog",
+   "Euripides, translated by R. Potter, vol. 3 (Valpy, 1832)",
+   "tr. Robert Potter"
   ]
  },
  "_excluded": {
