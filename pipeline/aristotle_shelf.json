@@ -1,0 +1,66 @@
+{
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled).",
+ "_name_words": [
+  "aristotle",
+  "works",
+  "oxford",
+  "translated"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aristotle-ross-v01": [
+   "worksofaristotle01arisuoft",
+   "Works of Aristotle, vol. I (1928): Categoriae, De Interpretatione (E. M. Edghill); Analytica Priora (A. J. Jenkinson); Analytica Posteriora (G. R. G. Mure); Topica, De Sophisticis Elenchis (W. A. Pickard-Cambridge)"
+  ],
+  "aristotle-ross-v02": [
+   "worksofaristotle0002wdro",
+   "Works of Aristotle, vol. II (1930; this copy a lithographic reprint from sheets of the first edition): Physica (R. P. Hardie and R. K. Gaye); De Caelo (J. L. Stocks); De Generatione et Corruptione (H. H. Joachim)"
+  ],
+  "aristotle-ross-v04": [
+   "worksofaristotle04arisuoft",
+   "Works of Aristotle, vol. IV (1910): Historia Animalium (D'Arcy Wentworth Thompson)"
+  ],
+  "aristotle-ross-v05": [
+   "worksofaristotle05arisuoft",
+   "Works of Aristotle, vol. V (1912): De Partibus Animalium (W. Ogle); De Motu and De Incessu Animalium (A. S. L. Farquharson); De Generatione Animalium (A. Platt)"
+  ],
+  "aristotle-ross-v06": [
+   "worksofaristotle06arisuoft",
+   "Works of Aristotle, vol. VI (1913): Opuscula: De Coloribus, De Audibilibus, Physiognomonica, De Plantis, De Mirabilibus Auscultationibus, Mechanica, De Lineis Insecabilibus, Ventorum Situs, De Melisso Xenophane Gorgia (T. Loveday, E. S. Forster, L. D. Dowdall, H. H. Joachim)"
+  ],
+  "aristotle-ross-v07": [
+   "worksofaristotle07arisuoft",
+   "Works of Aristotle, vol. VII (1927): Problemata (E. S. Forster)"
+  ],
+  "aristotle-ross-v08": [
+   "theworksofaristo08arisuoft",
+   "Works of Aristotle, vol. VIII, 2nd ed. (1928): Metaphysica (W. D. Ross)"
+  ],
+  "aristotle-ross-v09": [
+   "theworksofaristo09arisuoft",
+   "Works of Aristotle, vol. IX (1925): Ethica Nicomachea (W. D. Ross); Magna Moralia (St. George Stock); Ethica Eudemia, De Virtutibus et Vitiis (J. Solomon)"
+  ],
+  "aristotle-ross-v10": [
+   "theworksofaristo10arisuoft",
+   "Works of Aristotle, vol. X (1921): Politica (Benjamin Jowett); Oeconomica (E. S. Forster); Atheniensium Respublica (Frederic G. Kenyon)"
+  ],
+  "aristotle-ross-v11": [
+   "theworksofaristo11arisuoft",
+   "Works of Aristotle, vol. XI (1924): Rhetorica (W. Rhys Roberts); De Rhetorica ad Alexandrum (E. S. Forster); De Poetica (Ingram Bywater)"
+  ],
+  "aristotle-hammond-psychology": [
+   "aristotlespsycho00arisuoft",
+   "Aristotle's Psychology: De Anima and Parva Naturalia (William Alexander Hammond, 1902), gap-fill for vol. III, NOT the Oxford translation"
+  ]
+ },
+ "_excluded": {
+  "vol. III (1931)": "Meteorologica (Webster), De Mundo (Forster), De Anima (J. A. Smith), Parva Naturalia (Beare and Ross), De Spiritu (Dobson). Published 1931: US public domain from 2027-01-01. Pending; IA has worksofaristotle03arisuoft ready",
+  "vol. XII (1952)": "Select Fragments (Ross). Published 1952; renewal status not checked; not cleared. Pending",
+  "worksofaristotle10arisuoft / 11 / 12": "duplicate Toronto scans of vols. X-XII; the 'theworksofaristo' scans kept",
+  "R. D. Hicks, De Anima (1907)": "PD and a fine translation, but printed with the Greek text facing; Greek-English mixed OCR. Pending as an alternative De Anima",
+  "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched",
+  "worksofaristotle00unse (1830)": "'Aristotle's Masterpiece', a popular sex-and-midwifery manual falsely ascribed to Aristotle. Wrong author",
+  "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues"
+ }
+}

@@ -123,6 +123,28 @@ Excluded: PG 150 (duplicate Republic, shorter introduction), PG 19840 (Euthyphro
 
 ## Aristotle (tr. Ross, Oxford)
 
+Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith and W. D. Ross, 12 vols. (1908–1952). Raw Internet Archive OCR, one file per volume (Edwards precedent); translator per work in the shelf. US public domain for vols. published 1930 or earlier. Not PD in the UK (several translators died after 1956). Not converted, not minted.
+
+| Volume | Works (translator) | Slug | Status |
+|---|---|---|---|
+| Works of Aristotle, vol. I (1928) | Categoriae, De Interpretatione (E. M. Edghill); Analytica Priora (A. J. Jenkinson); Analytica Posteriora (G. R. G. Mure); Topica, De Sophisticis Elenchis (W. A. Pickard-Cambridge) | `aristotle-ross-v01` | have-raw (IA `worksofaristotle01arisuoft`) |
+| Works of Aristotle, vol. II (1930; this copy a lithographic reprint from sheets of the first edition) | Physica (R. P. Hardie and R. K. Gaye); De Caelo (J. L. Stocks); De Generatione et Corruptione (H. H. Joachim) | `aristotle-ross-v02` | have-raw (IA `worksofaristotle0002wdro`) |
+| Works of Aristotle, vol. IV (1910) | Historia Animalium (D'Arcy Wentworth Thompson) | `aristotle-ross-v04` | have-raw (IA `worksofaristotle04arisuoft`) |
+| Works of Aristotle, vol. V (1912) | De Partibus Animalium (W. Ogle); De Motu and De Incessu Animalium (A. S. L. Farquharson); De Generatione Animalium (A. Platt) | `aristotle-ross-v05` | have-raw (IA `worksofaristotle05arisuoft`) |
+| Works of Aristotle, vol. VI (1913) | Opuscula: De Coloribus, De Audibilibus, Physiognomonica, De Plantis, De Mirabilibus Auscultationibus, Mechanica, De Lineis Insecabilibus, Ventorum Situs, De Melisso Xenophane Gorgia (T. Loveday, E. S. Forster, L. D. Dowdall, H. H. Joachim) | `aristotle-ross-v06` | have-raw (IA `worksofaristotle06arisuoft`) |
+| Works of Aristotle, vol. VII (1927) | Problemata (E. S. Forster) | `aristotle-ross-v07` | have-raw (IA `worksofaristotle07arisuoft`) |
+| Works of Aristotle, vol. VIII, 2nd ed. (1928) | Metaphysica (W. D. Ross) | `aristotle-ross-v08` | have-raw (IA `theworksofaristo08arisuoft`) |
+| Works of Aristotle, vol. IX (1925) | Ethica Nicomachea (W. D. Ross); Magna Moralia (St. George Stock); Ethica Eudemia, De Virtutibus et Vitiis (J. Solomon) | `aristotle-ross-v09` | have-raw (IA `theworksofaristo09arisuoft`) |
+| Works of Aristotle, vol. X (1921) | Politica (Benjamin Jowett); Oeconomica (E. S. Forster); Atheniensium Respublica (Frederic G. Kenyon) | `aristotle-ross-v10` | have-raw (IA `theworksofaristo10arisuoft`) |
+| Works of Aristotle, vol. XI (1924) | Rhetorica (W. Rhys Roberts); De Rhetorica ad Alexandrum (E. S. Forster); De Poetica (Ingram Bywater) | `aristotle-ross-v11` | have-raw (IA `theworksofaristo11arisuoft`) |
+| Aristotle's Psychology | Aristotle's Psychology: De Anima and Parva Naturalia (William Alexander Hammond, 1902), gap-fill for vol. III, NOT the Oxford translation | `aristotle-hammond-psychology` | have-raw (IA `aristotlespsycho00arisuoft`) |
+| Works of Aristotle, vol. III (1931) | Meteorologica (Webster), De Mundo (Forster), De Anima (J. A. Smith), Parva Naturalia (Beare and Ross), De Spiritu (Dobson) | — | pending: US public domain from 2027-01-01; IA `worksofaristotle03arisuoft` ready |
+| Works of Aristotle, vol. XII (1952) | Select Fragments (Ross) | — | pending: 1952, renewal not checked |
+
+Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923), De Mundo (1914) and Parva Naturalia (1908), which are PD now; R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
+
+Excluded: `meteorologica00aris` (catalogued as the 1923 separate issue, but the scan is all of vol. III and carries the 1931 De Anima); duplicate Toronto scans of vols. X–XII; Perseus English (Loeb) not used; `worksofaristotle00unse` (*Aristotle's Masterpiece*, falsely ascribed).
+
 ## Hesiod
 
 ## Ovid

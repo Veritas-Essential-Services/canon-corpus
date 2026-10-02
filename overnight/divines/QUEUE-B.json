@@ -11,8 +11,10 @@
     },
     {
       "id": "aristotle-ross",
-      "status": "todo",
-      "scope": "CLASSICAL \u2014 W.D. Ross Oxford English Aristotle (12-vol Works Translated into English); Perseus English gap-fill only, no Greek; shelf + fetch + classical map section"
+      "status": "done-with-defects",
+      "scope": "CLASSICAL \u2014 W.D. Ross Oxford English Aristotle (12-vol Works Translated into English); Perseus English gap-fill only, no Greek; shelf + fetch + classical map section",
+      "finished": "2026-10-02T15:22:55-05:00",
+      "notes": "10 Oxford volumes (I, II, IV-XI) + Hammond 1902 De Anima/Parva Naturalia gap-fill fetched as raw IA OCR, 12.0 MB, ~2.0M words, clean-word ratio 0.81-0.89 per volume. Vol. III (1931) and XII (1952) pending on rights. meteorologica00aris fetched then removed: it is all of vol. III (contains the 1931 De Anima)."
     },
     {
       "id": "hesiod",

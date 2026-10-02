@@ -7,3 +7,9 @@
 - Finding: Alcibiades II and Eryxias were translated by Jowett's secretary Matthew Knight, not Jowett; recorded per title.
 - Baseline: tests/structure_test.py 64 passed before and after.
 - Awaits minting: all 29 plato-* slugs (+ the 5 raw volumes if Adam wants them addressable).
+
+## 2026-10-02 15:22 CDT — aristotle-ross: done-with-defects
+- Shelf `pipeline/aristotle_shelf.json`. 10 Oxford volumes (I, II, IV-XI) + Hammond 1902 De Anima/Parva Naturalia gap-fill fetched as raw IA OCR, 12.0 MB, ~2.0M words, clean-word ratio 0.81-0.89 per volume. Vol. III (1931) and XII (1952) pending on rights. meteorologica00aris fetched then removed: it is all of vol. III (contains the 1931 De Anima).
+- Defects: raw OCR only; vol. III and XII missing (rights); Bekker margins survive in vols. VIII–XI (hundreds of matches) but hardly at all in I–VII.
+- Finding: the IA item `meteorologica00aris` is mis-catalogued; check sub-title pages, not IA metadata, before trusting a "separate issue".
+- Awaits minting: 11 aristotle-* slugs, once Adam decides whether raw volumes get uids.
