@@ -112,10 +112,12 @@
     },
     {
       "id": "brooks",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Brooks: Works, ed. Grosart (Nichol, 6 vols)",
       "added": "2026-10-02T15:56:35-05:00",
-      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)",
+      "finished": "2026-10-02T16:09:19-05:00",
+      "notes": "Grosart 6 vols IA"
     },
     {
       "id": "goodwin",

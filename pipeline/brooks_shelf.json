@@ -1,0 +1,48 @@
+{
+ "_about": "Every public-domain Thomas Brooks (1608-1680) text the Word Hoard holds. The target is Grosart's Complete Works (Nichol's Series of Standard Divines, 6 vols, 1866-1867), Internet Archive OCR text (University of Toronto scans, volume numbers read off the title-page OCR), raw and unconverted (the Edwards precedent). CCEL has no Brooks author page (ccel.org/ccel/brooks returned 404 on 2026-10-02) and no Gutenberg Brooks exists, so there is no clean text yet. Modern reprints are excluded. Many other Thomas Brookses are on IA; only the Puritan (1608-1680) is held.",
+ "_ccel_author": "",
+ "_name_words": [
+  "brooks"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brooks-works-grosart-1": [
+   "completeworksoft01broouoft",
+   "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-1867), vol. 1"
+  ],
+  "brooks-works-grosart-2": [
+   "completeworksoft02broouoft",
+   "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-1867), vol. 2"
+  ],
+  "brooks-works-grosart-3": [
+   "completeworksoft03broouoft",
+   "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-1867), vol. 3"
+  ],
+  "brooks-works-grosart-4": [
+   "completeworksoft04broouoft",
+   "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-1867), vol. 4"
+  ],
+  "brooks-works-grosart-5": [
+   "completeworksoft05broouoft",
+   "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-1867), vol. 5"
+  ],
+  "brooks-works-grosart-6": [
+   "completeworksoft06broouoft",
+   "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-1867), vol. 6"
+  ]
+ },
+ "_alternates": {
+  "completeworksoft0[1-6]broo, completeworksoft0[1-6]broo_0, completeworks03broo, completeworksth0[0-5]grosgoog": "Further scans of the same Grosart set; not fetched: duplicates, useful to repair bad OCR pages.",
+  "applesgoldforyo00broogoog (1859), applesgoldforyo01broogoog (1814)": "Apples of Gold, single-work printings; text is in Grosart.",
+  "londonslamentati00broo (1670)": "London's Lamentations, first edition; text is in Grosart.",
+  "bim_eighteenth-century_* (Precious Remedies 1705/1799, Ark for All God's Noahs 1766, Golden Key 1763, Cabinet of Jewels 1762, Treatise on Assurance 1777, Evangelical Library 1789)": "18th-century printings, long-s OCR; Grosart supersedes them."
+ },
+ "_excluded": {
+  "allweddddirgelyn00broo": "Welsh translation of The Privie Key of Heaven (1845); not English",
+  "greatgaingleane00broogoog": "Great Gain (1869), an anthology gleaned from Brooks by another hand",
+  "ACabinetOfJewelsThomasBrooks": "undated upload with no edition data; unverifiable",
+  "other Thomas Brookses (physicians, geologists, court cases)": "different people"
+ }
+}

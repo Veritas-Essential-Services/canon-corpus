@@ -344,3 +344,20 @@ Target: Orme's *Practical Works of the Rev. Richard Baxter* (London: James Dunca
 | Practical Works 1707 (4 folio vols); 1838/1845 four-volume edition; Select Practical Writings (Bacon) | alternate | not fetched |
 | CCEL `practical` | excluded | a stub with almost no text |
 | Wesley's abridged Saints' Rest | excluded | not Baxter's text |
+
+
+## Thomas Brooks (round 2, 2026-10-02)
+
+Target: Grosart's *Complete Works of Thomas Brooks* (Edinburgh: James Nichol, 1866-1867), 6 volumes, all held as raw IA OCR (Toronto scans). No CCEL or Gutenberg Brooks exists, so there is no clean text yet.
+
+| Work | Status | Where |
+|---|---|---|
+| Grosart vol. 1 | have-raw | IA `completeworksoft01broouoft` |
+| Grosart vol. 2 | have-raw | IA `completeworksoft02broouoft` |
+| Grosart vol. 3 | have-raw | IA `completeworksoft03broouoft` |
+| Grosart vol. 4 | have-raw | IA `completeworksoft04broouoft` |
+| Grosart vol. 5 | have-raw | IA `completeworksoft05broouoft` |
+| Grosart vol. 6 | have-raw | IA `completeworksoft06broouoft` |
+| Other scans of Grosart; Apples of Gold 1814/1859; London's Lamentations 1670; 18th-century printings | alternate | texts are in Grosart |
+| Clean text of Precious Remedies against Satan's Devices | wishlist | no PD machine-readable edition found |
+| Welsh Privie Key (1845); Great Gain (1869 anthology); other Thomas Brookses | excluded | not English / not Brooks's text / different people |

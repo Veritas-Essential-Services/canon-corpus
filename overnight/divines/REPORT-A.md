@@ -87,3 +87,6 @@
 ## 2026-10-02 16:08 CDT — baxter done
 - `pipeline/baxter_shelf.json`: 4 CCEL titles converted (1,275 units, 214 links: these CCEL editions carry little scripRef markup), Gutenberg's Christian Directory in 4 parts (rights lines passed the fetcher's gate), and Orme's Practical Works, all 23 volumes, raw IA OCR (about 48 MB in all). No single IA scan series is complete; the set is assembled from four series, each volume read off its title page. `--verify`: 0 mismatched.
 - Dropped: CCEL `baxter/practical` turned out to be a stub (about 8.5 KB of text under 965 empty paragraphs); it is recorded under `_excluded` and its file deleted. 0 uids minted.
+
+## 2026-10-02 16:09 CDT — brooks done
+- `pipeline/brooks_shelf.json`: Grosart's Complete Works, all 6 volumes, raw IA OCR (Toronto scans, volume numbers read off title pages). `--verify`: 0 mismatched. CCEL `ccel/brooks` returned 404; no Gutenberg Brooks. 0 uids minted.
