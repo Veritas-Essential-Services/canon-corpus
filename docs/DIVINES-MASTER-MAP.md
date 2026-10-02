@@ -410,6 +410,25 @@ There is no collected Works. Bonar's editions of the Letters and of two sermon b
 | A Survey of the Spiritual Antichrist (1648); The Influences of the Life of Grace (1659); the Latin works | pending | not yet found or searched |
 | Joshua Redivivus (1796, 1818) and other Letters editions | alternate | Bonar's Letters held |
 | S. R. Crockett's novels | excluded | different person |
+
+
+## Robert Murray M'Cheyne, prose (round 2, 2026-10-02)
+
+His hymns and poems are not shelved here: see the hymn manifest. Bonar's Memoir and Remains and the Mission of Inquiry are already on the Andrew Bonar shelf. New here: four prose collections as raw IA OCR. No CCEL M'Cheyne exists; Gutenberg has only Bonar's Memoir.
+
+| Work | Status | Where |
+|---|---|---|
+| `abonar-mcheyne-memoir` | have | Gutenberg 15251, on andrew-bonar_shelf.json |
+| `abonar-mcheyne-memoir-1844` | have | on andrew-bonar_shelf.json |
+| `abonar-mcheyne-memoir-1878` | have | on andrew-bonar_shelf.json |
+| `Narrative of a Mission of Inquiry (with Bonar)` | have | on andrew-bonar_shelf.json |
+| The Works of the Late Rev. Robert Murray McCheyne (New York: Robert Carter, 1847), vol. 1 | have-raw | IA `worksoflaterevro01mche` |
+| The Works of the Late Rev. Robert Murray McCheyne (New York: Robert Carter, 1847), vol. 2 | have-raw | IA `worksoflaterevro02mche` |
+| Familiar Letters by the Rev. Robert Murray M'Cheyne, ed. Adam M'Cheyne (1848) | have-raw | IA `familiarletters00mchgoog` |
+| The Sermons of the Rev. Robert Murray McCheyne (1863) | have-raw | IA `sermonsofrevrobe00mche` |
+| Additional Remains of the Rev. Robert Murray M'Cheyne (1849 printing, microform scan) | have-raw | IA `MN5152ucmf_2` |
+| Hymns and poems | see hymn manifest | not shelved here |
+| Gaelic translations (1879, 1916); Coventry's abridged Memoir (1865) | excluded | not English / not the full text |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,47 @@
+{
+ "_about": "Every public-domain Robert Murray M'Cheyne (1813-1843, St Peter's, Dundee) prose text the Word Hoard holds. His hymns and poems are not shelved here: see the hymn manifest. Bonar's Memoir and Remains (Gutenberg 15251 and the 1844/1878 IA editions) and the Narrative of a Mission of Inquiry to the Jews are already on the Andrew Bonar shelf, recorded under _held. New here: The Works (New York: Robert Carter, 1847, 2 vols), the Additional Remains (1849 printing), the Familiar Letters (1848, ed. his father Adam M'Cheyne) and The Sermons (1863), all Internet Archive OCR, raw and unconverted. No CCEL M'Cheyne exists (ccel.org/ccel/mcheyne returned 404 on 2026-10-02) and Gutenberg has only Bonar's Memoir.",
+ "_ccel_author": "",
+ "_name_words": [
+  "cheyne"
+ ],
+ "_held": {
+  "abonar-mcheyne-memoir": "Gutenberg 15251, on andrew-bonar_shelf.json",
+  "abonar-mcheyne-memoir-1844": "on andrew-bonar_shelf.json",
+  "abonar-mcheyne-memoir-1878": "on andrew-bonar_shelf.json",
+  "Narrative of a Mission of Inquiry (with Bonar)": "on andrew-bonar_shelf.json"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcheyne-works-1847-1": [
+   "worksoflaterevro01mche",
+   "The Works of the Late Rev. Robert Murray McCheyne (New York: Robert Carter, 1847), vol. 1"
+  ],
+  "mcheyne-works-1847-2": [
+   "worksoflaterevro02mche",
+   "The Works of the Late Rev. Robert Murray McCheyne (New York: Robert Carter, 1847), vol. 2"
+  ],
+  "mcheyne-familiar-letters-1848": [
+   "familiarletters00mchgoog",
+   "Familiar Letters by the Rev. Robert Murray M'Cheyne, ed. Adam M'Cheyne (1848)"
+  ],
+  "mcheyne-sermons-1863": [
+   "sermonsofrevrobe00mche",
+   "The Sermons of the Rev. Robert Murray McCheyne (1863)"
+  ],
+  "mcheyne-additional-remains-1849": [
+   "MN5152ucmf_2",
+   "Additional Remains of the Rev. Robert Murray M'Cheyne (1849 printing, microform scan)"
+  ]
+ },
+ "_alternates": {
+  "sermonsofrevrobe00mcheiala, sermonsofrevrobe0000mche": "Other scans of The Sermons; duplicates.",
+  "liferemainslette00mche, lifeandremainsl0*goog, liferemainslette00mcherich, memoirremainsofr* , memoirandremain01chegoog": "Further printings of Bonar's Memoir and Remains; held on the Andrew Bonar shelf.",
+  "additionalremai00chegoog": "Additional Remains, 1854 Google scan: its text file returned HTTP 500 three times on 2026-10-02, so the 1849 scan is held instead."
+ },
+ "_excluded": {
+  "guthmoghrdhaguss00mche (1916), iomradhairbeatha00mche (1879)": "Scottish Gaelic translations; not English",
+  "memoirandremain00chegoog": "Coventry's 1865 abridgement of the Memoir, not the full text",
+  "hymns and poems": "see the hymn manifest"
+ }
+}

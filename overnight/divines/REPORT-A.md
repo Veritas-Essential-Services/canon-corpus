@@ -98,3 +98,7 @@
 ## 2026-10-02 16:15 CDT — rutherford done
 - `pipeline/rutherford_shelf.json`: 2 CCEL titles converted (920 units, 1,509 links), 3 IA items raw. The three Bonar-edited items on the Andrew Bonar shelf are listed under `_held` and were not refetched (the shelf move asked about in the digest is still yours).
 - The identity check refused three 1640s first printings (Christ Dying 1647, Due Right 1644, Divine Right 1646): their OCR never contains Rutherford's name in any spelling. Moved to `_pending`. Free Disputation (1649) passed but is flagged `title_weak` (long s garbles "against"). 0 uids minted.
+
+## 2026-10-02 16:19 CDT — mcheyne done
+- `pipeline/mcheyne_shelf.json` (prose only; hymns are for the hymn manifest): 5 IA items raw. The Memoir and the Mission of Inquiry stay on the Andrew Bonar shelf (`_held`). `--verify`: 0 mismatched.
+- The 1854 Google scan of the Additional Remains returned HTTP 500 on three tries; the 1849 printing (`MN5152ucmf_2`) is held instead and the 1854 scan listed as an alternate. 0 uids minted.
