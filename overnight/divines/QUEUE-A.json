@@ -50,9 +50,11 @@
     },
     {
       "id": "edwards-gaps",
-      "status": "running",
+      "status": "done",
       "scope": "Jonathan Edwards \u2014 gap audit against edwards_shelf.json; add verified gaps only; map section",
-      "started": "2026-10-02T15:46:35-05:00"
+      "started": "2026-10-02T15:46:35-05:00",
+      "finished": "2026-10-02T15:48:24-05:00",
+      "notes": "6 verified gaps added to edwards_shelf.json and fetched (4.8 MB): Affections 1746, Brainerd 1749, Freedom of Will 1762, Erskine's 1793 and 1796 selections, Hopkins's Life. 2 more (Distinguishing Marks 1741, Humble Attempt 1747) pending: ECCO OCR never yields the name. Shelf now sets _name_words. Gutenberg has nothing more. Awaiting uid minting: the 6 new slugs."
     },
     {
       "id": "overflow-summa",

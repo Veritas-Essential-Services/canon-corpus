@@ -171,9 +171,49 @@
   "edwards-history-redemption-1774": [
    "historyofworkofr00edwa_2",
    "A History of the Work of Redemption (1774, first edition)"
+  ],
+  "edwards-affections-1746": [
+   "treatiseconcerni1746edwa",
+   "A Treatise concerning Religious Affections (Boston, 1746, first edition)"
+  ],
+  "edwards-brainerd-1749": [
+   "accountoflaterev00edwa",
+   "An Account of the Life of the late Reverend Mr. David Brainerd (Boston, 1749, Edwards's own edition)"
+  ],
+  "edwards-freedom-will-1762": [
+   "carefulstrictenq1762edwa",
+   "A Careful and Strict Enquiry into Freedom of Will (London, 1762; earliest printing found, the 1754 first edition not found on IA)"
+  ],
+  "edwards-misc-observations-1793": [
+   "bim_eighteenth-century_miscellaneous-observatio_edwards-jonathan_1793",
+   "Miscellaneous Observations on Important Theological Subjects (ed. John Erskine, Edinburgh, 1793)"
+  ],
+  "edwards-remarks-controversies-1796": [
+   "bim_eighteenth-century_remarks-on-important-the_edwards-jonathan_1796",
+   "Remarks on Important Theological Controversies (ed. John Erskine, Edinburgh, 1796)"
+  ],
+  "edwards-hopkins-life-1804": [
+   "lifeandcharacte00hopkgoog",
+   "Samuel Hopkins, The Life and Character of Jonathan Edwards (1804 printing; first 1765); about Edwards"
   ]
  },
  "_excluded": {
   "edwards-muhhekaneew-1801": "Ayer_4A_2704 -- 'Observations on the Language of the Muhhekaneew Indians' (1788/1801) is by Jonathan Edwards the YOUNGER (1745-1801), the son. Removed 2026-09-28."
+ },
+ "_name_words": [
+  "edwards",
+  "jonathan"
+ ],
+ "_gap_audit_2026_10_02": {
+  "added": "6 verified gaps (lane A relay): first editions of Religious Affections (1746) and Edwards's own Brainerd (1749); the earliest Freedom of the Will found (1762); Erskine's two Edinburgh selections from the manuscripts (1793, 1796); Hopkins's Life (about Edwards). Raw ECCO OCR of 18th-century type (long s) is poor.",
+  "pending": {
+   "workswithvaluabl02edwauoft..04edwa": "The Works, 4 vols (New York, 1868, Worcester text 'with valuable additions'); vol. 1 not found; the additions not yet identified",
+   "freedom of the will 1754": "first edition (Boston, 1754) not found on IA",
+   "edwardsonrevival183200edwa, thoughtsonreviva00edwa, faithfulnarrativ00edwa": "19th-century revival compilations; texts are in Dwight/Worcester",
+   "Images or Shadows of Divine Things; the Miscellanies; Notes on Scripture in full": "first printed by Yale (1948 on): in copyright, private shelf only",
+   "edwards-distinguishing-marks-1741": "bim_eighteenth-century_the-distinguishing-marks_edwards-jonathan_1741: The Distinguishing Marks of a Work of the Spirit of God (Boston, 1741, first edition). ECCO OCR of the long-s type never yields Edwards's name, so fetch_shelf.py's identity check refuses it; content checks out by counts. Shelve after a look by eye.",
+   "edwards-humble-attempt-1747": "bim_eighteenth-century_an-humble-attempt-to-pro_edwards-jonathan_1747: An Humble Attempt to Promote Explicit Agreement and Visible Union of God's People in Prayer (1747, first edition). ECCO OCR of the long-s type never yields Edwards's name, so fetch_shelf.py's identity check refuses it; content checks out by counts. Shelve after a look by eye."
+  },
+  "checked_not_gaps": "Gutenberg holds only the two Edwards items already shelved (34632, 65066). Original Sin 1758, Two Dissertations 1765, History of Redemption 1774, Some Thoughts 1742, Humble Inquiry 1749, the sermon volumes 1780-95, Charity and Its Fruits 1852, Grosart 1865, Smyth 1880 and Fisher 1903 were already on the shelf."
  }
 }

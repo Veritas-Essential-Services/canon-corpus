@@ -40,3 +40,9 @@
 - Includes Auberlen's Daniel and Revelation (Saphir as translator) and Carlyle's 1893 memoir (about him). Christ and Israel (1911) is posthumous, ed. David Baron, PD.
 - Pending: Christ and the Scriptures (IA text file under a non-standard name); Jesus and the Sinner (1851): IA credits Saphir, but he was 20 and a student; authorship unconfirmed, so not shelved.
 - Awaiting uid minting: all 11 slugs.
+
+## 2026-10-02 15:48 CDT — edwards-gaps: done
+- Audited IA (236 Edwards items 1700-1930) and Gutenberg against `edwards_shelf.json`. Most IA items are other printings of works the shelf already holds. Six verified gaps added: Religious Affections first edition (1746), Edwards's own Brainerd (1749), Freedom of the Will 1762 (1754 first edition not on IA), Erskine's Edinburgh selections from the manuscripts (1793, 1796), Hopkins's Life of Edwards (1804). Fetched, 4.8 MB.
+- Two more first editions (Distinguishing Marks 1741, Humble Attempt 1747) are refused by the identity check because long-s OCR never yields "Edwards"; listed pending for a look by eye.
+- The shelf now sets `_name_words: [edwards, jonathan]`, so future fetch_shelf.py runs check author identity for Edwards too. `fetch_edwards.py` still reads the shelf unchanged.
+- Awaiting uid minting: the 6 new slugs.

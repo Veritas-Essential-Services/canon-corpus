@@ -8,6 +8,27 @@ Shelves: pipeline/<author>_shelf.json. Relay files: overnight/divines/. This fil
 
 ## Jonathan Edwards
 
+Shelf: `pipeline/edwards_shelf.json` (built 2026-09-28; gap audit 2026-10-02). Before the audit it held all of CCEL (7), 2 Gutenberg and 31 Internet Archive items: the Dwight (1829-30, 10 vols) and Worcester (1808-09, 8 vols) Works and early printings. The Yale edition (1957-2008) is in copyright and private only.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, Hickman ed. (1834), vols 1-2; Religious Affections; Freedom of the Will; Sermons; Treatise on Grace; Essay on the Trinity | have | CCEL |
+| Selected Sermons (Gardiner, 1904); Life of David Brainerd | have | Gutenberg 34632, 65066 |
+| Works, Dwight ed. (10 vols) and Worcester ed. (8 vols) | have-raw | IA |
+| Grosart's Selections (1865); Charity and Its Fruits (1852); Observations on the Trinity (Smyth, 1880); Essay on the Trinity (Fisher, 1903) | have-raw | IA |
+| Early printings: Some Thoughts (1742); Humble Inquiry (1749); Original Sin (1758); Two Dissertations (1765); History of Redemption (1774); sermon volumes (1780, 1788, 1789, 1795) | have-raw | IA |
+| **Added by the gap audit:** Religious Affections, first edition (1746) | have-raw | IA `treatiseconcerni1746edwa` |
+| **Added:** An Account of the Life of David Brainerd, Edwards's own edition (1749) | have-raw | IA `accountoflaterev00edwa` |
+| **Added:** Freedom of the Will, London 1762 (earliest printing found) | have-raw | IA `carefulstrictenq1762edwa` |
+| **Added:** Miscellaneous Observations (ed. Erskine, 1793); Remarks on Important Theological Controversies (ed. Erskine, 1796) | have-raw | IA (ECCO scans; long-s OCR is poor) |
+| **Added:** Samuel Hopkins, Life and Character of Jonathan Edwards (1804 printing) | have-raw | IA, about Edwards |
+| Distinguishing Marks, first edition (1741); Humble Attempt, first edition (1747) | pending | ECCO scans found; their OCR never yields Edwards's name, so the fetcher refuses them until checked by eye |
+| Freedom of the Will, first edition (Boston, 1754) | pending | not found on IA |
+| Works, 4 vols (New York, 1868, "with valuable additions") | pending | vols 2-4 on IA, vol. 1 not found; the additions not yet identified |
+| Clean text of everything held raw | pending | wishlist |
+| Images or Shadows of Divine Things; the Miscellanies; full Notes on Scripture | excluded | first printed by Yale from 1948: in copyright, private shelf only |
+| Observations on the Language of the Muhhekaneew Indians | excluded | by Jonathan Edwards the YOUNGER |
+
 ## John Flavel
 
 Shelf: `pipeline/flavel_shelf.json` (2026-10-02). Base edition: *The Whole Works of John Flavel*, London: Baynes, 1820, 6 vols, Internet Archive OCR (raw). Placement of works in volumes below is from running-title counts in the OCR, not a printed contents page.
