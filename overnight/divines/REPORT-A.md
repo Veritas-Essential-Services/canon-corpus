@@ -176,3 +176,7 @@
 ## 2026-10-02 17:09 CDT — william-law done
 - `pipeline/william-law_shelf.json`: 10 CCEL titles converted (6,453 units, only 223 links: Law cites little scripture by reference); the Works (1892-93 reprint), 9 vols, raw IA OCR, median 99.5%. About 11 MB. `--verify`: 0 mismatched. CCEL `justific` is a stub; `humbleearnest` repeats two held files.
 - Weak spot: the fetcher's name check is empty here, since "law" is an ordinary word, and the OCR never prints "William Law". The volumes rest on their title pages (volume numbers read) and on IA's contents note, which the text bears out by counts (vol. I "Bangor" 91 times, vol. IV "serious call" 139, vol. VI "Trapp" 40). 0 uids minted.
+
+## 2026-10-02 17:10 CDT — gill done
+- `pipeline/gill_shelf.json`: the Bodies of Doctrinal and Practical Divinity and the Solomon's Song exposition from CCEL, converted (6,611 units, 13,788 links); The Cause of God and Truth (1838, 96.1%) and the 1773 Sermons and Tracts, 2 vols (83-84%, long s), raw IA OCR. About 17 MB. `--verify`: 0 mismatched.
+- The Exposition of the Bible, Gill's largest work, is pending: IA has only scattered 18th-century volumes and no complete set; several "Gill's Exposition" items are modern retypings with no library provenance and were left off. 0 uids minted.

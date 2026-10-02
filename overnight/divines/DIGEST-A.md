@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 17:09 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 17:10 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -62,6 +62,7 @@ Rounds 2 and 3 were done by 16:41 CDT. Lane A is carrying on with more Puritan, 
 | Thomas Shepard | shepard_shelf.json | 2 CCEL (Works vol. I, 1853; The Change of the Sabbath) | 4 (Works vols. II-III; Autobiography 1832; Clear Sun-shine of the Gospel, 1865 reprint) | none | early separate printings; Thomas Shepard Goodwin |
 | Henry Scougal | scougal_shelf.json | 1 CCEL (The Life of God in the Soul of Man) | 1 (Works, Pittsburgh 1830) | none | 18th-century printings; a misattributed letter-writing manual |
 | William Law | william-law_shelf.json | 10 CCEL (Serious Call, Christian Perfection, Spirit of Prayer, Spirit of Love, Way to Divine Knowledge and 5 more) | 9 (Works, 1892-93 reprint of 1762, complete) | none | his edition of Boehme |
+| John Gill | gill_shelf.json | 3 CCEL (Body of Doctrinal Divinity, Body of Practical Divinity, Solomon's Song) | 3 (Cause of God and Truth 1838; Sermons and Tracts 1773, 2 vols) | the Exposition of the Old and New Testaments (no complete set of scans) | modern retypings and reprints |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

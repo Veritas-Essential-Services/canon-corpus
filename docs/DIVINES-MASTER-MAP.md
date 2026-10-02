@@ -728,6 +728,18 @@ Ten titles clean from CCEL; the Works (Brockenhurst: privately reprinted for G. 
 | The Works, vols. I-IX (1892-93 reprint) | have-raw | IA `worksofreverendl01lawuoft`..`04lawuoft`, `worksoflaw05lawuoft`..`08lawuoft`, `worksofreverendw09laww` |
 | The Works (1762), 9 vols | alternate | the 1892-93 reprint is held |
 | Jacob Boehme's Works (1764-81) | excluded | Boehme's text |
+
+## John Gill (round 4, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| A Body of Doctrinal Divinity | have | CCEL `doctrinal` (`gill-doctrinal-divinity`) |
+| A Body of Practical Divinity | have | CCEL `practical` (`gill-practical-divinity`) |
+| An Exposition of the Book of Solomon's Song | have | CCEL `song` (`gill-solomons-song`) |
+| The Cause of God and Truth (London: Tegg, 1838) | have-raw | IA `causeofgodtruthi00gill` |
+| A Collection of Sermons and Tracts (London: G. Keith, 1773), 2 vols | have-raw | IA `collectionofserm01gill`, `collectionofserm02gill` |
+| An Exposition of the Old Testament; of the New Testament (9 vols) | pending | only scattered 18th-century volumes on IA; no complete set verified |
+| Modern retypings (Parisis uploads, 2016 compilation) and 1970s-80s reprints | excluded | no library provenance, or not PD scans |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

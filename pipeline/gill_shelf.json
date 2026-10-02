@@ -1,0 +1,52 @@
+{
+ "_about": "Public-domain John Gill (1697-1771, Baptist, Carter Lane, Southwark) for the Word Hoard. The Body of Doctrinal Divinity, the Body of Practical Divinity and the Exposition of Solomon's Song clean from CCEL; The Cause of God and Truth (London: Tegg, 1838) and A Collection of Sermons and Tracts (London: G. Keith, 1773, 2 vols) as raw Internet Archive OCR. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "g/gill",
+ "_name_words": [
+  "gill"
+ ],
+ "_held": {},
+ "ccel": {
+  "gill-doctrinal-divinity": [
+   "doctrinal",
+   "A Body of Doctrinal Divinity",
+   ""
+  ],
+  "gill-practical-divinity": [
+   "practical",
+   "A Body of Practical Divinity",
+   ""
+  ],
+  "gill-solomons-song": [
+   "song",
+   "An Exposition of the Book of Solomon's Song",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "gill-cause-god-truth-1838": [
+   "causeofgodtruthi00gill",
+   "The Cause of God and Truth, in four parts (London, 1838)"
+  ],
+  "gill-sermons-tracts-1773-1": [
+   "collectionofserm01gill",
+   "A Collection of Sermons and Tracts, vol. I (London, 1773)"
+  ],
+  "gill-sermons-tracts-1773-2": [
+   "collectionofserm02gill",
+   "A Collection of Sermons and Tracts, vol. II (London, 1773)"
+  ]
+ },
+ "_alternates": {
+  "gillscompletebod00gill (1810); completebodyofdo01/02gill (1839); acompletebodydo00/01gillgoog (1795)": "Printings of the Body of Divinity; CCEL's clean text is held.",
+  "expositionofbook00gill (1854)": "The Song of Solomon exposition; CCEL's clean text is held.",
+  "acollectionserm00/02gillgoog": "Google scans of the 1773 Sermons and Tracts."
+ },
+ "_pending": {
+  "An Exposition of the Old Testament / of the New Testament (9 vols)": "No complete set of scans verified: IA has scattered 18th-century volumes (1746-1776 printings, ECCO) and a stray 1811 NT vol. 3. Not shelved until a whole set is found."
+ },
+ "_excluded": {
+  "Peter-John Parisis uploads; JohnGillsCommentaryOnTheBible (2016); ephesians-j-gill-complete-issuu_20260529": "Modern retypings or uploads with no library provenance.",
+  "sermonstracts000Ngill (1981); causeofgodtruthi0000gill (1978); expositionofsong0000gill (1971)": "Modern reprints (lending library), not PD scans."
+ }
+}
