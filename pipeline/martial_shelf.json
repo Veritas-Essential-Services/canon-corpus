@@ -1,5 +1,5 @@
 {
- "_about": "Martial, Epigrams, in the Bohn prose translation (anonymous, with verse renderings by many hands; Bohn's 1897 printing), raw IA OCR.",
+ "_about": "Martial, Epigrams, in the Bohn prose translation (anonymous, with verse renderings by many hands; Bohn's 1897 printing), raw IA OCR. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "martial",
   "epigrams"
@@ -11,11 +11,20 @@
    "epigramsmartial00bohngoog",
    "The Epigrams of Martial, translated into English prose (Bohn; 1897 printing)",
    "Bohn prose translation (anonymous), with verse renderings by various hands"
+  ],
+  "martial-ker-v1": [
+   "martialepigrams01martiala",
+   "Martial, Epigrams, vol. 1: Spectacles, Books I-VII (Loeb, 1919)",
+   "tr. Walter C. A. Ker"
+  ],
+  "martial-ker-v2": [
+   "martialepigrams02martiala",
+   "Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920)",
+   "tr. Walter C. A. Ker"
   ]
  },
  "_excluded": {
   "epigramsmartial02bohngoog": "1904 printing of the same edition; lower OCR",
-  "epigramsofmarti00mart": "1865 printing; empty text layer",
-  "Ker, Loeb (1919-20)": "US PD by date, Latin facing; not yet located; pending"
+  "epigramsofmarti00mart": "1865 printing; empty text layer"
  }
 }
