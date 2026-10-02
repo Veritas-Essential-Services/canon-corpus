@@ -3713,6 +3713,23 @@ Shelf: `pipeline/wiggin_shelf.json` (2026-10-02; added at the coordinator's rela
 | wiggin-anthologies | excluded | the anthologies she edited with Nora Archibald Smith (The Fairy Ring, Tales of Laughter, Tales of Wonder, The Arabian Nights, Pinafore Palace, The Posy Ring, Golden Numbers): other people's texts, which other shelves hold at source |
 | wiggin-adult | excluded | Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics |
 
+## Juliana Horatia Ewing
+
+Shelf: `pipeline/ewing_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children; the Jackanapes volume nested story > chapter or scene. Two volumes measured as contained in Lob Lie-by-the-Fire are excluded, not held twice. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jackanapes, Daddy Darwin's Dovecot and Other Stories | have | PG 7865, `ewing-jackanapes-and-other-stories` (745 units) |
+| Old-Fashioned Fairy Tales (1882) | have | PG 15592, `ewing-old-fashioned-fairy-tales` (878 units) |
+| Lob Lie-by-the-Fire, The Brownies and Other Tales | have | PG 62783, `ewing-lob-lie-by-the-fire` (2156 units) |
+| Jan of the Windmill (1876) | have | PG 5601, `ewing-jan-of-the-windmill` (1542 units) |
+| Mrs. Overtheway's Remembrances (1869) | have | PG 17772, `ewing-mrs-overtheways-remembrances` (1029 units) |
+| Six to Sixteen (1875) | have | PG 19360, `ewing-six-to-sixteen` (1287 units) |
+| A Flat Iron for a Farthing (1872) | have | PG 19859, `ewing-flat-iron-for-a-farthing` (1205 units) |
+| ewing-jackanapes-single | excluded | Jackanapes alone (PG 20351): contained in PG 7865 |
+| ewing-other | excluded | Melchior's Dream, A Great Emergency, Brothers of Pity, Mary's Meadow, The Peace Egg, We and the World, Last Words, verses and miscellanea: candidates for a later batch |
+| ewing-contained | excluded | The Brownies and Other Tales (PG 16052) and The Land of Lost Toys (PG 33880): measured 84% and 93% contained in Lob Lie-by-the-Fire, The Brownies and Other Tales (PG 62783), which is held |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

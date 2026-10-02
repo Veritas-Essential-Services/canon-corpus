@@ -237,3 +237,6 @@
 
 ## 2026-10-02 17:29 CDT — wiggin: done
 - 6/6 fetched (Gutenberg 498, 1375, 721, 10540, 18531, 15630), 5,387 units, 6 ~2 ids.
+
+## 2026-10-02 17:29 CDT — ewing: done
+- 7/7 fetched (Gutenberg 7865, 15592, 62783, 5601, 17772, 19360, 19859), 8,842 units, 6 ~2 ids.

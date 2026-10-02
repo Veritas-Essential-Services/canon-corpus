@@ -449,7 +449,9 @@
     {
       "id": "ewing",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Juliana Horatia Ewing's stories; children's classics batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T17:29:45-05:00",
+      "notes": "7/7 fetched (Gutenberg 7865, 15592, 62783, 5601, 17772, 19360, 19859), 8,842 units, 6 ~2 ids."
     },
     {
       "id": "molesworth",

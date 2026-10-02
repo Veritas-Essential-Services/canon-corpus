@@ -1,0 +1,62 @@
+{
+ "_about": "Juliana Horatia Ewing's (1841-1885) stories for children: Jackanapes and Daddy Darwin's Dovecot, Lob Lie-by-the-Fire with The Brownies and her other tales, Old-Fashioned Fairy Tales, Jan of the Windmill, Mrs. Overtheway's Remembrances, Six to Sixteen and A Flat Iron for a Farthing. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Juliana Horatia Ewing",
+ "_name_words": [
+  "jackanapes",
+  "brownies",
+  "windmill",
+  "overtheway"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ewing-jackanapes-and-other-stories": [
+   7865,
+   "Jackanapes, Daddy Darwin's Dovecot and Other Stories",
+   {
+    "levels": [
+     {
+      "re": "(JACKANAPES|DADDY DARWIN.S DOVECOT|THE BLIND MAN AND THE TALKING DOG|THE TRINITY FLOWER|THE KYRKEGRIM TURNED PREACHER)\\.?$"
+     },
+     {
+      "re": "(CHAPTER [IVX]+|PREAMBLE|SCENE [IVX]+)\\.$"
+     }
+    ],
+    "start": "\"If I might buffet",
+    "front": true
+   }
+  ],
+  "ewing-old-fashioned-fairy-tales": [
+   15592,
+   "Old-Fashioned Fairy Tales (1882)"
+  ],
+  "ewing-lob-lie-by-the-fire": [
+   62783,
+   "Lob Lie-by-the-Fire, The Brownies and Other Tales"
+  ],
+  "ewing-jan-of-the-windmill": [
+   5601,
+   "Jan of the Windmill (1876)"
+  ],
+  "ewing-mrs-overtheways-remembrances": [
+   17772,
+   "Mrs. Overtheway's Remembrances (1869)",
+   {
+    "contents_only": true
+   }
+  ],
+  "ewing-six-to-sixteen": [
+   19360,
+   "Six to Sixteen (1875)"
+  ],
+  "ewing-flat-iron-for-a-farthing": [
+   19859,
+   "A Flat Iron for a Farthing (1872)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ewing-jackanapes-single": "Jackanapes alone (PG 20351): contained in PG 7865",
+  "ewing-other": "Melchior's Dream, A Great Emergency, Brothers of Pity, Mary's Meadow, The Peace Egg, We and the World, Last Words, verses and miscellanea: candidates for a later batch",
+  "ewing-contained": "The Brownies and Other Tales (PG 16052) and The Land of Lost Toys (PG 33880): measured 84% and 93% contained in Lob Lie-by-the-Fire, The Brownies and Other Tales (PG 62783), which is held"
+ }
+}
