@@ -11,8 +11,11 @@
     },
     {
       "id": "lamb",
-      "status": "todo",
-      "scope": "STORYTELLERS — Charles Lamb, all public-domain works (Essays of Elia, letters, Tales from Shakespeare w/ Mary Lamb); shelf + fetch + map section"
+      "status": "done",
+      "scope": "STORYTELLERS — Charles Lamb, all public-domain works (Essays of Elia, letters, Tales from Shakespeare w/ Mary Lamb); shelf + fetch + map section",
+      "started": "2026-10-02T15:25:42-05:00",
+      "finished": "2026-10-02T15:25:42-05:00",
+      "notes": "Spine: Lucas, Works of Charles and Mary Lamb (1903-05, 7 vols): 6 vols Gutenberg (converted, 21,104 units incl. 3 standalone works), vol. IV Dramatic Specimens from IA raw OCR. 10/10 fetched, 8.4 MB, 0 copyright markers. Mary Lamb credited. No uids minted; not in manifest."
     },
     {
       "id": "fables-fold",

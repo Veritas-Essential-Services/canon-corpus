@@ -1,0 +1,61 @@
+{
+ "_about": "Every public-domain Charles Lamb (1775-1834) text the Word Hoard holds. The spine is E. V. Lucas's edition, The Works of Charles and Mary Lamb (Methuen, 1903-05, 7 vols): Gutenberg has six of the seven (clean text, US-issue volume numbers differ from Methuen's, both recorded in the title), Internet Archive supplies the seventh (vol. IV, Dramatic Specimens and the Garrick Plays) as raw OCR. Tales from Shakespeare, The Adventures of Ulysses and Poetry for Children are also held standalone so each is addressable as its own work. Mary Lamb (1764-1847) is credited on every work she co-wrote: Tales from Shakespeare, Poetry for Children, Mrs. Leicester's School (in Lucas vol. III) and her letters (Lucas vols. VI-VII). CCEL holds no Lamb. Lucas's edition (1903-05) is US public domain.",
+ "_author": "Charles Lamb",
+ "_name_words": [
+  "charles",
+  "lamb"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lamb-tales-from-shakespeare": [
+   573,
+   "Tales from Shakespeare (1807), by Charles and Mary Lamb"
+  ],
+  "lamb-adventures-of-ulysses": [
+   7768,
+   "The Adventures of Ulysses (1808)"
+  ],
+  "lamb-poetry-for-children": [
+   68359,
+   "Poetry for Children (1809), by Charles and Mary Lamb"
+  ],
+  "lamb-works-lucas-misc-prose": [
+   40988,
+   "Works of Charles and Mary Lamb, ed. E. V. Lucas (1903-05) — Miscellaneous Prose (Methuen vol. I; PG 'Volume 1')"
+  ],
+  "lamb-works-lucas-elia": [
+   10343,
+   "Works, ed. Lucas — Elia and The Last Essays of Elia (Methuen vol. II; PG 'Volume 2')"
+  ],
+  "lamb-works-lucas-books-for-children": [
+   10130,
+   "Works, ed. Lucas — Books for Children, by Charles and Mary Lamb (Methuen vol. III; PG 'Volume 3')"
+  ],
+  "lamb-works-lucas-poems-and-plays": [
+   11576,
+   "Works, ed. Lucas — Poems and Plays (Methuen vol. V; PG labels it 'Volume 4')"
+  ],
+  "lamb-works-lucas-letters-1796-1820": [
+   9365,
+   "Works, ed. Lucas — Letters of Charles and Mary Lamb, 1796-1820 (Methuen vol. VI; PG 'Volume 5')"
+  ],
+  "lamb-works-lucas-letters-1821-1842": [
+   10851,
+   "Works, ed. Lucas — Letters 1821-1842 (Methuen vol. VII; PG 'Volume 6')"
+  ]
+ },
+ "internet_archive": {
+  "lamb-works-lucas-dramatic-specimens": [
+   "cu31924016657193",
+   "Works, ed. Lucas (Methuen 1903-05), vol. IV: Dramatic Specimens and the Garrick Plays — the one Lucas volume Gutenberg lacks"
+  ]
+ },
+ "_excluded": {
+  "lamb-tales-from-shakespeare-alt": "duplicates of Tales from Shakespeare: PG 1286 (second transcription) and PG 20657 (1909 Rackham-illustrated edition); PG 573 held, and Lucas vol. III carries it again",
+  "lamb-selections": "selections from works already held: The Best Letters of Charles Lamb (PG 10125, ed. Johnson), A Dissertation upon Roast Pig (PG 43566, one Elia essay), A Masque of Days (PG 24015, Crane's decorated Elia extract), Old China, Select Essays of Elia and the many school editions",
+  "lamb-works-four-volumes-v4": "PG 14129, The Works of Charles Lamb in Four Volumes, vol. 4 only: one stray volume of an older edition, superseded by Lucas",
+  "lamb-blue-jar-story-book": "PG 34470: a multi-author children's anthology (Edgeworth et al.) with a Lamb piece",
+  "lamb-on-lamb": "books ABOUT Lamb or by others: Lucas's Life of Charles Lamb, Charles Lamb and the Lloyds, Talfourd's Final Memorials (memoir parts), Bon-mots of Lamb and Jerrold, Christ's Hospital recollections",
+  "lamb-coleridge-poems-1796-97": "Coleridge's Poems on Various Subjects (1796) and Poems (1797) carry early Lamb sonnets; they belong on Coleridge's shelf (Lucas vol. V holds Lamb's poems)"
+ }
+}
