@@ -1273,6 +1273,7 @@ Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Ed
 | Livy, vol. 5: Books XXI-XXII (Loeb, 1929) | B. O. Foster | `livy-foster-v5` | have-raw (IA `livy05livy`) |
 | Livy, vol. 3: Books V-VII (Loeb, 1924) | B. O. Foster | `livy-foster-v3` | have-raw (IA `livywithenglisht0000bofo`) |
 | The Romane Historie written by T. Livius of Padua (1659 edition) | Philemon Holland | `livy-holland` | have-raw (IA `romanehistorie00livy`) |
+| The History of Rome | Rev. Canon Roberts | `livy-perseus-roberts-the-history-of-rome` | have (Perseus TEI `phi0914.phi001.perseus-eng3`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused).
 
