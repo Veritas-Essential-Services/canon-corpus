@@ -1,45 +1,53 @@
 {
- "_about": "Horace in English, translator per title: John Conington (verse; Odes and Carmen Saeculare; Satires, Epistles and Art of Poetry), the 'Handy Literal Translations' prose Works (translator unnamed), Eugene and Roswell Field's Echoes from the Sabine Farm (free verse versions). Clean Gutenberg. Dryden's Horace on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
- "_name_words": [
-  "horace",
-  "horatius",
-  "sabine"
- ],
- "ccel": {},
- "gutenberg": {
-  "horace-conington-odes": [
-   5432,
-   "The Odes and Carmen Saeculare of Horace",
-   "tr. John Conington (verse)"
+  "_about": "Horace in English, translator per title: John Conington (verse; Odes and Carmen Saeculare; Satires, Epistles and Art of Poetry), the 'Handy Literal Translations' prose Works (translator unnamed), Eugene and Roswell Field's Echoes from the Sabine Farm (free verse versions). Clean Gutenberg. Dryden's Horace on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+  "_name_words": [
+    "horace",
+    "horatius",
+    "sabine"
   ],
-  "horace-conington-satires-epistles": [
-   5419,
-   "The Satires, Epistles, and Art of Poetry of Horace",
-   "tr. John Conington (verse)"
-  ],
-  "horace-literal-works": [
-   14020,
-   "The Works of Horace, translated literally into English prose",
-   "tr. unnamed ('Handy Literal Translations')"
-  ],
-  "horace-field-sabine-farm": [
-   13885,
-   "Echoes from the Sabine Farm",
-   "tr. Eugene and Roswell Martin Field (free versions)"
-  ]
- },
- "internet_archive": {
-  "horace-fairclough-satires-epistles": [
-   "satiresepistlesa00horauoft",
-   "Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929)",
-   "tr. H. Rushton Fairclough"
-  ]
- },
- "_cross_ref": {
-  "dryden-horace": "Dryden shelf, lane C"
- },
- "_excluded": {
-  "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles now held (IA); Bennett's Odes and Epodes (1914): no scan with a text layer found; pending",
-  "Christopher Smart's prose Horace (1756)": "PD; pending"
- }
+  "ccel": {},
+  "gutenberg": {
+    "horace-conington-odes": [
+      5432,
+      "The Odes and Carmen Saeculare of Horace",
+      "tr. John Conington (verse)"
+    ],
+    "horace-conington-satires-epistles": [
+      5419,
+      "The Satires, Epistles, and Art of Poetry of Horace",
+      "tr. John Conington (verse)"
+    ],
+    "horace-literal-works": [
+      14020,
+      "The Works of Horace, translated literally into English prose",
+      "tr. unnamed ('Handy Literal Translations')"
+    ],
+    "horace-field-sabine-farm": [
+      13885,
+      "Echoes from the Sabine Farm",
+      "tr. Eugene and Roswell Martin Field (free versions)"
+    ]
+  },
+  "internet_archive": {
+    "horace-fairclough-satires-epistles": [
+      "satiresepistlesa00horauoft",
+      "Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929)",
+      "tr. H. Rushton Fairclough"
+    ]
+  },
+  "_cross_ref": {
+    "dryden-horace": "Dryden shelf, lane C"
+  },
+  "_excluded": {
+    "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles now held (IA); Bennett's Odes and Epodes (1914): no scan with a text layer found; pending",
+    "Christopher Smart's prose Horace (1756)": "PD; pending"
+  },
+  "perseus": {
+    "horace-perseus-conington-odes": [
+      "phi0893.phi001.perseus-eng2",
+      "Odes",
+      "John Conington",
+      "Translation published 1882: US public domain (in or before 1930). Perseus source line: Horace. The Odes and Carmen Saeculare of Horace. Conington, John, translator. London: George Bell and Sons, 1882."
+    ]
+  }
 }

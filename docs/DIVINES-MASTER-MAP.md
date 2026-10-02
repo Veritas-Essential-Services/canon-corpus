@@ -1365,6 +1365,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | Echoes from the Sabine Farm | Eugene and Roswell Martin Field (free versions) | `horace-field-sabine-farm` | have (PG 13885) |
 | — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
+| Odes | John Conington | `horace-perseus-conington-odes` | have (Perseus TEI `phi0893.phi001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Christopher Smart's prose (1756).
 
