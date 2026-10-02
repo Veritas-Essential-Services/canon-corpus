@@ -1,0 +1,18 @@
+{
+ "_about": "Tibullus in English: Theodore C. Williams's verse Elegies (1905), clean Gutenberg.",
+ "_name_words": [
+  "tibullus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tibullus-williams": [
+   9610,
+   "The Elegies of Tibullus",
+   "tr. Theodore Chickering Williams (verse)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "J. P. Postgate, Loeb (1913)": "US PD by date; pending"
+ }
+}

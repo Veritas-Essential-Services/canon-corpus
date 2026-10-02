@@ -1,0 +1,48 @@
+{
+ "_about": "Plautus and Terence in English, translator per title. Plautus: Henry T. Riley's prose Comedies (Bohn, 1852; 1913 printing, 2 vols., raw IA, complete) and his Captivi and Mostellaria (clean Gutenberg). Terence: Riley's prose Comedies (Bohn) and George Colman's verse, clean Gutenberg; W. R. Goodluck's Andrian.",
+ "_name_words": [
+  "plautus",
+  "terence",
+  "terenti",
+  "comedies"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "plautus-riley-captivi-mostellaria": [
+   7282,
+   "The Captivi and the Mostellaria",
+   "tr. Henry T. Riley (prose)"
+  ],
+  "terence-riley-comedies": [
+   22188,
+   "The Comedies of Terence, literally translated into English prose",
+   "tr. Henry T. Riley (Bohn)"
+  ],
+  "terence-colman-comedies": [
+   22695,
+   "The Comedies of Terence",
+   "tr. George Colman (verse)"
+  ],
+  "terence-goodluck-andrian": [
+   72921,
+   "Terence's Andrian, a comedy in five acts",
+   "tr. W. R. Goodluck"
+  ]
+ },
+ "internet_archive": {
+  "plautus-riley-comedies-v1": [
+   "comediesofplautu01plauuoft",
+   "The Comedies of Plautus, vol. 1 (Bohn; 1913 printing)",
+   "tr. Henry T. Riley"
+  ],
+  "plautus-riley-comedies-v2": [
+   "comediesofplautu02plauuoft",
+   "The Comedies of Plautus, vol. 2 (Bohn; 1913 printing)",
+   "tr. Henry T. Riley"
+  ]
+ },
+ "_excluded": {
+  "Paul Nixon, Loeb Plautus (1916-38)": "early vols. US PD by date; pending",
+  "Bonnell Thornton's Plautus (1767-74)": "PD verse; pending"
+ }
+}

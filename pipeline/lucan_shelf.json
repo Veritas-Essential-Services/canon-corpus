@@ -1,0 +1,21 @@
+{
+ "_about": "Lucan in English: Sir Edward Ridley's blank-verse Pharsalia (1896). Gutenberg's PG 602 names no translator; collated against Ridley's 1905 printing (IA pharsaliatransla00lucauoft) by 6-word shingle overlap, 0.75 against noisy OCR, so identified as Ridley.",
+ "_name_words": [
+  "lucan",
+  "pharsalia",
+  "lucanus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lucan-ridley-pharsalia": [
+   602,
+   "Pharsalia; Dramatic Episodes of the Civil Wars",
+   "tr. Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Nicholas Rowe (1718)": "PD verse; pending",
+  "Christopher Marlowe, Lucan's First Book": "belongs on a Marlowe shelf; pending"
+ }
+}

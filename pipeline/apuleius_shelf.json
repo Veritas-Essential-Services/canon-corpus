@@ -1,0 +1,25 @@
+{
+ "_about": "Apuleius in English: William Adlington's Golden Asse (1566) and H. E. Butler's Apologia and Florida (Oxford, 1909), clean Gutenberg.",
+ "_name_words": [
+  "apuleius",
+  "asse",
+  "madaura"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "apuleius-adlington-golden-asse": [
+   1666,
+   "The Golden Asse",
+   "tr. William Adlington (1566)"
+  ],
+  "apuleius-butler-apologia-florida": [
+   26294,
+   "The Apologia and Florida of Apuleius of Madaura",
+   "tr. H. E. Butler (1909)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "H. E. Butler, Metamorphoses (1910)": "PD; pending (IA)"
+ }
+}

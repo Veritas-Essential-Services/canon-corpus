@@ -1,0 +1,26 @@
+{
+ "_about": "Petronius in English: W. C. Firebaugh's complete and unexpurgated Satyricon (Gutenberg treats it as US PD; Firebaugh d. 1945) and William Burnaby's. Clean Gutenberg. Firebaugh's text includes the Nodot and Marchena supplements (later forgeries), which his notes discuss.",
+ "_name_words": [
+  "petronius",
+  "satyricon",
+  "arbiter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "petronius-firebaugh-satyricon": [
+   5225,
+   "The Satyricon, complete",
+   "tr. W. C. Firebaugh; US PD per Gutenberg"
+  ],
+  "petronius-burnaby-satyricon": [
+   5611,
+   "The Satyricon of Petronius Arbiter",
+   "tr. William Burnaby"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg5218-5224": "Firebaugh split into 7 files; the complete PG 5225 kept",
+  "Michael Heseltine, Loeb (1913)": "US PD by date; pending"
+ }
+}

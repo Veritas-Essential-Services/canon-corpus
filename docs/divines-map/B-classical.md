@@ -498,6 +498,120 @@ Pending (wishlist): Firth's remaining volume(s); Holland's Natural History (1601
 
 Excluded: PG 58589 (adaptation).
 
+## Lucretius
+
+Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and Bailey (1910), raw IA; Trevelyan's selections, clean. Leonard's verse is on the Adler shelf (mislabelled Munro there). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Translations from Lucretius | R. C. Trevelyan (verse, 1920) | `lucretius-trevelyan-selections` | have (PG 64024) |
+| De rerum natura libri sex, ed. with notes and a translation by H. A. J. Munro, vol. 3: the translation (1900 printing) | H. A. J. Munro | `lucretius-munro-translation` | have-raw (IA `lucreticariderer03lucruoft`) |
+| Lucretius on the Nature of Things (Oxford, 1910) | Cyril Bailey | `lucretius-bailey-1910` | have-raw (IA `lucretiusonthena00lucruoft`) |
+| — | — | `lucretius-nature` | cross-ref → Adler shelf: PG 785 is William Ellery LEONARD's 1916 verse translation, not Munro's as the Adler label says |
+| — | — | `dryden-lucretius` | cross-ref → Dryden shelf, lane C (Dryden's passages from Lucretius) |
+
+Pending (wishlist): Thomas Creech (1682); Rouse's Loeb (1924).
+
+Excluded: `in.ernet.dli.2015.96329` (empty text layer).
+
+## Horace
+
+Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles, Ars Poetica), an unnamed literal prose Works, the Fields' Sabine Farm versions. Clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Odes and Carmen Saeculare of Horace | John Conington (verse) | `horace-conington-odes` | have (PG 5432) |
+| The Satires, Epistles, and Art of Poetry of Horace | John Conington (verse) | `horace-conington-satires-epistles` | have (PG 5419) |
+| The Works of Horace, translated literally into English prose | unnamed ('Handy Literal Translations') | `horace-literal-works` | have (PG 14020) |
+| Echoes from the Sabine Farm | Eugene and Roswell Martin Field (free versions) | `horace-field-sabine-farm` | have (PG 13885) |
+| — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
+
+Pending (wishlist): Bennett's and Fairclough's Loebs; Christopher Smart's prose (1756).
+
+## Catullus
+
+Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Poems and Fragments of Catullus translated in the metres of the original | Robinson Ellis (1871) | `catullus-ellis` | have (PG 18867) |
+| The Carmina of Caius Valerius Catullus | Sir Richard Burton (verse) and Leonard C. Smithers (prose) | `catullus-burton-smithers` | have (PG 20732) |
+
+Pending (wishlist): Cornish's Loeb (1913).
+
+Excluded: PG 23720 (serves a 404).
+
+## Tibullus
+
+Shelf: `pipeline/tibullus_shelf.json`. Theodore C. Williams (1905), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Elegies of Tibullus | Theodore Chickering Williams (verse) | `tibullus-williams` | have (PG 9610) |
+
+Pending (wishlist): Postgate's Loeb (1913).
+
+## Juvenal and Persius
+
+Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse (Bohn), clean Gutenberg. Dryden's on lane C. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Satires of Juvenal, Persius, Sulpicia, and Lucilius | Lewis Evans (prose), with William Gifford's verse translation | `juvenal-persius-evans-gifford` | have (PG 50657) |
+| — | — | `dryden-juvenal` | cross-ref → Dryden shelf, lane C |
+| — | — | `dryden-persius` | cross-ref → Dryden shelf, lane C |
+
+Pending (wishlist): Ramsay's Loeb (1918).
+
+## Plautus and Terence
+
+Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 vols.) and Captivi/Mostellaria; Riley's and Colman's Terence; Goodluck's Andrian. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Captivi and the Mostellaria | Henry T. Riley (prose) | `plautus-riley-captivi-mostellaria` | have (PG 7282) |
+| The Comedies of Terence, literally translated into English prose | Henry T. Riley (Bohn) | `terence-riley-comedies` | have (PG 22188) |
+| The Comedies of Terence | George Colman (verse) | `terence-colman-comedies` | have (PG 22695) |
+| Terence's Andrian, a comedy in five acts | W. R. Goodluck | `terence-goodluck-andrian` | have (PG 72921) |
+| The Comedies of Plautus, vol. 1 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v1` | have-raw (IA `comediesofplautu01plauuoft`) |
+| The Comedies of Plautus, vol. 2 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v2` | have-raw (IA `comediesofplautu02plauuoft`) |
+
+Pending (wishlist): Nixon's Loeb Plautus; Thornton's verse Plautus (1767-74).
+
+## Lucan
+
+Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG names no translator, identified by collation with Ridley's 1905 printing. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pharsalia; Dramatic Episodes of the Civil Wars | Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation | `lucan-ridley-pharsalia` | have (PG 602) |
+
+Pending (wishlist): Nicholas Rowe (1718); Marlowe's First Book (Marlowe shelf).
+
+## Apuleius
+
+Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler's Apologia and Florida (1909), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Golden Asse | William Adlington (1566) | `apuleius-adlington-golden-asse` | have (PG 1666) |
+| The Apologia and Florida of Apuleius of Madaura | H. E. Butler (1909) | `apuleius-butler-apologia-florida` | have (PG 26294) |
+
+Pending (wishlist): Butler's Metamorphoses (1910).
+
+## Petronius
+
+Shelf: `pipeline/petronius_shelf.json`. Firebaugh's complete Satyricon (US PD per Gutenberg) and Burnaby's. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Satyricon, complete | W. C. Firebaugh; US PD per Gutenberg | `petronius-firebaugh-satyricon` | have (PG 5225) |
+| The Satyricon of Petronius Arbiter | William Burnaby | `petronius-burnaby-satyricon` | have (PG 5611) |
+
+Pending (wishlist): Heseltine's Loeb (1913).
+
+Excluded: PG 5218-5224 (Firebaugh split into seven files).
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

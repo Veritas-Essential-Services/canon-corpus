@@ -1,0 +1,25 @@
+{
+ "_about": "Catullus in English, translator per title: Robinson Ellis (in the metres of the original, 1871) and Sir Richard Burton with Leonard Smithers (1894), clean Gutenberg.",
+ "_name_words": [
+  "catullus",
+  "catulli"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "catullus-ellis": [
+   18867,
+   "The Poems and Fragments of Catullus translated in the metres of the original",
+   "tr. Robinson Ellis (1871)"
+  ],
+  "catullus-burton-smithers": [
+   20732,
+   "The Carmina of Caius Valerius Catullus",
+   "tr. Sir Richard Burton (verse) and Leonard C. Smithers (prose)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg23720": "To Lesbia: catalogued, serves a 404 page",
+  "F. W. Cornish, Loeb (1913)": "US PD by date; on Perseus; pending"
+ }
+}

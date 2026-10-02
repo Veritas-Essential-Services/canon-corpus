@@ -106,8 +106,11 @@
     },
     {
       "id": "roman-poets",
-      "status": "todo",
-      "scope": "CLASSICAL (census) \u2014 Lucretius (Munro, Bailey 1910, Leonard where cleared), Horace (Conington, Lonsdale and Lee, Smart), Catullus (Burton, Cornish), Juvenal and Persius non-Dryden (Gifford), Plautus and Terence (Riley); Dryden's parts cross-ref lane C; shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census) \u2014 Lucretius (Munro, Bailey 1910, Leonard where cleared), Horace (Conington, Lonsdale and Lee, Smart), Catullus (Burton, Cornish), Juvenal and Persius non-Dryden (Gifford), Plautus and Terence (Riley); Dryden's parts cross-ref lane C; shelf per author + fetch + map",
+      "started": "2026-10-02T15:54:52-05:00",
+      "finished": "2026-10-02T15:58:29-05:00",
+      "notes": "9 shelves, 22 files: Lucretius 3, Horace 4, Catullus 2, Tibullus 1, Juvenal/Persius 1, Plautus/Terence 6, Lucan 1, Apuleius 2, Petronius 2. Lucan's PG 602 identified as Ridley by collation. Finding: the Adler shelf's lucretius-nature (PG 785) is Leonard, not Munro as labelled. Years not found in the files were dropped from the shelves."
     },
     {
       "id": "lucian-cicero",

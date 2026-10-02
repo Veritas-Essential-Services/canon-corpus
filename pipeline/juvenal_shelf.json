@@ -1,0 +1,25 @@
+{
+ "_about": "Juvenal and Persius in English: Lewis Evans's literal prose (Bohn), with William Gifford's verse translation and the satires of Sulpicia and Lucilius, clean Gutenberg. Dryden's Juvenal and Persius are on the Dryden shelf (lane C).",
+ "_name_words": [
+  "juvenal",
+  "persius",
+  "sulpicia",
+  "lucilius"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "juvenal-persius-evans-gifford": [
+   50657,
+   "The Satires of Juvenal, Persius, Sulpicia, and Lucilius",
+   "tr. Lewis Evans (prose), with William Gifford's verse translation"
+  ]
+ },
+ "internet_archive": {},
+ "_cross_ref": {
+  "dryden-juvenal": "Dryden shelf, lane C",
+  "dryden-persius": "Dryden shelf, lane C"
+ },
+ "_excluded": {
+  "G. G. Ramsay, Loeb (1918)": "US PD by date; pending"
+ }
+}
