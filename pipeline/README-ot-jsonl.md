@@ -93,7 +93,11 @@ Each is in the manifest with `status: "house default, awaiting Adam's ruling"`.
    verse; its alignment is `1:2` and names both. KJV Ps 13:6 and Isa 64:1
    then have no Hebrew witness of their own, and are listed with Neh 7:68
    (which the Hebrew lacks) under `kjv_verses_without_hbo`.
-4. **Sharding:** one folder per book, as the NT (PR #8).
+4. **Sharding:** one folder per book, as the NT (PR #8). Committing the
+   shards or rebuilding them is the same question as the NT's: see
+   README-nt-jsonl s.16, ruling 2. If they are not committed, `data/ot/` keeps
+   only `manifest.json` in git, and `python3 pipeline/rebuild_bible.py`
+   rebuilds the 156 files byte-identical from the pinned WLC.
 
 ## 5. The records
 
