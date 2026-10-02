@@ -91,8 +91,11 @@
     },
     {
       "id": "pyle",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Howard Pyle: Robin Hood, the four King Arthur books, Pepper & Salt, Wonder Clock, Otto of the Silver Hand, etc.; shelf + fetch + convert + map section; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Howard Pyle: Robin Hood, the four King Arthur books, Pepper & Salt, Wonder Clock, Otto of the Silver Hand, etc.; shelf + fetch + convert + map section; no minting",
+      "started": "2026-10-02T15:46:32-05:00",
+      "finished": "2026-10-02T15:46:32-05:00",
+      "notes": "20/20 fetched (0 CCEL, 19 Gutenberg, 1 IA raw), 8.0 MB, 0 failed, 0 copyright markers; 24597 units converted. Robin Hood, the four Arthur books, Pepper & Salt, Wonder Clock, Twilight Land, the novels and pirate tales; Garden Behind the Moon as raw OCR. Illustrator-only books excluded. Arthur books' Book>Part>Chapter nesting is a known citation gap. No uids minted; not in manifest."
     }
   ]
 }

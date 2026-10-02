@@ -1,0 +1,115 @@
+{
+ "_about": "Howard Pyle (1853-1911), the books he wrote (most he also illustrated): Robin Hood, the four King Arthur books, the fairy-tale collections (Pepper & Salt, The Wonder Clock, Twilight Land, The Garden Behind the Moon), the historical novels and the pirate stories. Books by others that Pyle only illustrated are excluded. Gutenberg clean text; one Internet Archive OCR volume. US public domain.",
+ "_author": "Howard Pyle",
+ "_name_words": [
+  "howard",
+  "pyle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pyle-robin-hood": [
+   964,
+   "The Merry Adventures of Robin Hood (1883)",
+   {
+    "contents_only": true
+   }
+  ],
+  "pyle-pepper-and-salt": [
+   15664,
+   "Pepper & Salt, or Seasoning for Young Folk (1886)"
+  ],
+  "pyle-wonder-clock": [
+   63383,
+   "The Wonder Clock (1888), verses by Katharine Pyle"
+  ],
+  "pyle-otto-of-the-silver-hand": [
+   2865,
+   "Otto of the Silver Hand (1888)",
+   {
+    "contents_only": true
+   }
+  ],
+  "pyle-within-the-capes": [
+   48458,
+   "Within the Capes (1885)"
+  ],
+  "pyle-rose-of-paradise": [
+   31673,
+   "The Rose of Paradise (1888)"
+  ],
+  "pyle-men-of-iron": [
+   1557,
+   "Men of Iron (1891)"
+  ],
+  "pyle-modern-aladdin": [
+   48444,
+   "A Modern Aladdin (1892)"
+  ],
+  "pyle-twilight-land": [
+   47564,
+   "Twilight Land (1895)",
+   {
+    "contents_only": true
+   }
+  ],
+  "pyle-jack-ballister": [
+   49985,
+   "The Story of Jack Ballister's Fortunes (1895)"
+  ],
+  "pyle-price-of-blood": [
+   48521,
+   "The Price of Blood (1899)"
+  ],
+  "pyle-rejected-of-men": [
+   46841,
+   "Rejected of Men: A Story of To-day (1903)",
+   {
+    "contents_only": true
+   }
+  ],
+  "pyle-king-arthur": [
+   60184,
+   "The Story of King Arthur and His Knights (1903)"
+  ],
+  "pyle-champions-round-table": [
+   10745,
+   "The Story of the Champions of the Round Table (1905)"
+  ],
+  "pyle-sir-launcelot": [
+   33702,
+   "The Story of Sir Launcelot and His Companions (1907)"
+  ],
+  "pyle-grail-passing-of-arthur": [
+   60405,
+   "The Story of the Grail and the Passing of Arthur (1910)"
+  ],
+  "pyle-ruby-of-kishmoor": [
+   3687,
+   "The Ruby of Kishmoor (1908)"
+  ],
+  "pyle-stolen-treasure": [
+   10394,
+   "Stolen Treasure (1907)",
+   {
+    "contents_only": true
+   }
+  ],
+  "pyle-book-of-pirates": [
+   973,
+   "Howard Pyle's Book of Pirates (1921, compiled by Merle Johnson)"
+  ]
+ },
+ "internet_archive": {
+  "pyle-garden-behind-the-moon": [
+   "gardenbehindmoo00pylegoog",
+   "The Garden Behind the Moon (1895)"
+  ]
+ },
+ "_excluded": {
+  "pyle-duplicates": "Robin Hood PG 10148, Twilight Land PG 1751, Book of Pirates PG 26862: second transcriptions",
+  "pyle-illustrator-only": "books by others that Pyle illustrated: Dulcibel (Peterson), Grandmother's Story and The One Hoss Shay (Holmes), Chivalry (Cabell), The Island of Enchantment (Forman), Captain Ravenshaw (Stephens), Sir Christopher (Goodwin), A Story of the Golden Age (Baldwin), Hugh Wynne (Mitchell) and others",
+  "pyle-edited": "The Buccaneers and Marooners of America (PG 73564): Exquemelin and Johnson's texts, Pyle as editor",
+  "pyle-not-pyle": "That Marvel — The Movie (PG 66368): by Edward S. Van Zile; the catalogue match is a false hit",
+  "pyle-pending": "PENDING: Yankee Doodle (1881), The Story of the Revolution (Pyle's Book of the American Spirit, 1923 compilation), the magazine stories never collected"
+ }
+}

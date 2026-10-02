@@ -56,3 +56,6 @@
 
 ## 2026-10-02 15:46 CDT — bulfinch: done
 - 4/4 fetched (0 CCEL, 4 Gutenberg, 0 IA raw), 2.7 MB, 0 failed, 0 copyright markers; 7772 units converted. Age of Fable, Age of Chivalry and Legends of Charlemagne held as three works, plus Oregon and Eldorado. No uids minted; not in manifest.
+
+## 2026-10-02 15:46 CDT — pyle: done
+- 20/20 fetched (0 CCEL, 19 Gutenberg, 1 IA raw), 8.0 MB, 0 failed, 0 copyright markers; 24597 units converted. Robin Hood, the four Arthur books, Pepper & Salt, Wonder Clock, Twilight Land, the novels and pirate tales; Garden Behind the Moon as raw OCR. Illustrator-only books excluded. Arthur books' Book>Part>Chapter nesting is a known citation gap. No uids minted; not in manifest.
