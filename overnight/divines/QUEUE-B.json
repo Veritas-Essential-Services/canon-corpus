@@ -225,8 +225,10 @@
     },
     {
       "id": "retry-503-volumes",
-      "status": "todo",
-      "scope": "archive.org answered 503 on 2026-10-02 for: plautuswithengli02plauuoft (Nixon Plautus vol 2, 1917), greektragictheat02pott / greektragicthea04wodhgoog (Greek Tragic Theatre 1809 vol 2, Francklin's Sophocles). Retry; if readable, identify by title page and add to roman-comedy / sophocles"
+      "status": "running",
+      "scope": "archive.org answered 503 on 2026-10-02 for: plautuswithengli02plauuoft (Nixon Plautus vol 2, 1917), greektragictheat02pott / greektragicthea04wodhgoog (Greek Tragic Theatre 1809 vol 2, Francklin's Sophocles). Retry; if readable, identify by title page and add to roman-comedy / sophocles",
+      "started": "2026-10-02T17:18:43-05:00",
+      "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly."
     },
     {
       "id": "perseus-fetcher",

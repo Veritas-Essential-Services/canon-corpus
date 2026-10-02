@@ -742,11 +742,12 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence's Andrian, a comedy in five acts | W. R. Goodluck | `terence-goodluck-andrian` | have (PG 72921) |
 | The Comedies of Plautus, vol. 1 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v1` | have-raw (IA `comediesofplautu01plauuoft`) |
 | The Comedies of Plautus, vol. 2 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v2` | have-raw (IA `comediesofplautu02plauuoft`) |
+| Plautus, vol. 2: Casina, The Casket Comedy, Curculio, Epidicus, Menaechmi (Loeb, 1917) | Paul Nixon | `plautus-nixon-v2` | have-raw (IA `plautusvolume00plaugoog`) |
 | Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | have-raw (IA `plautus03plau`) |
 | Terence, vol. 1 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v1` | have-raw (IA `terence000ijohn`) |
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
 
-Pending (wishlist): Nixon's Loeb Plautus vol. 2 (1917; no readable scan yet); Thornton's verse Plautus (1767-74).
+Pending (wishlist): Thornton's verse Plautus (1767-74).
 
 ## Lucan
 
