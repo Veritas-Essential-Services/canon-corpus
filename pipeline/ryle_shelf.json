@@ -1,0 +1,220 @@
+{
+ "_about": "Every public-domain J. C. Ryle (1816-1900, Bishop of Liverpool) text the Word Hoard holds. Works published in his lifetime are public domain; posthumous printings before 1931 are PD too and are marked. Later abridgements, 'modernised' editions and reprints from 1927 on are excluded. Expository Thoughts on the Gospels (7 vols) is assembled from single volumes of different lifetime printings, each identified by the chapter range of its section headings: Matthew from CCEL, Mark, Luke 1-2, John 1-3 from Internet Archive. Ryle's compiled hymnals belong to the hymn manifest.",
+ "_ccel_author": "r/ryle",
+ "_name_words": [
+  "ryle",
+  "charles"
+ ],
+ "ccel": {
+  "ryle-holiness": [
+   "holiness",
+   "Holiness: Its Nature, Hindrances, Difficulties, and Roots",
+   ""
+  ],
+  "ryle-et-matthew": [
+   "matthew",
+   "Expository Thoughts on Matthew",
+   ""
+  ],
+  "ryle-upper-room": [
+   "upper_room",
+   "The Upper Room: Being a Few Truths for the Times",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "ryle-practical-religion": [
+   38162,
+   "Practical Religion"
+  ],
+  "ryle-the-cross": [
+   62001,
+   "The Cross: A Tract for the Times"
+  ],
+  "ryle-whitefield": [
+   34727,
+   "A Sketch of the Life and Labors of George Whitefield"
+  ]
+ },
+ "internet_archive": {
+  "ryle-et-mark-1863": [
+   "saintmark0000ryle",
+   "Expository Thoughts on the Gospels: St. Mark (1863 printing; Mark 1-16)"
+  ],
+  "ryle-et-luke-1": [
+   "expositorythoug06rylegoog",
+   "Expository Thoughts on the Gospels: St. Luke, vol. 1 (Luke 1-10)"
+  ],
+  "ryle-et-luke-2": [
+   "saintluke0002ryle",
+   "Expository Thoughts on the Gospels: St. Luke, vol. 2 (1862; Luke 11-24)"
+  ],
+  "ryle-et-john-1": [
+   "saintjohn0000ryle",
+   "Expository Thoughts on the Gospels: St. John, vol. 1 (1866; John 1-6)"
+  ],
+  "ryle-et-john-2": [
+   "expositorythough06ryle",
+   "Expository Thoughts on the Gospels: St. John, vol. 2 (John 7-12)"
+  ],
+  "ryle-et-john-3": [
+   "expositorythough07ryle",
+   "Expository Thoughts on the Gospels: St. John, vol. 3 (John 13-21)"
+  ],
+  "ryle-knots-untied": [
+   "knotsuntied00ryleuoft",
+   "Knots Untied (1885 printing)"
+  ],
+  "ryle-old-paths": [
+   "oldpathsbeingpla00ryle",
+   "Old Paths (1878)"
+  ],
+  "ryle-christian-leaders": [
+   "christianleaders00ryle",
+   "The Christian Leaders of the Last Century (1869)"
+  ],
+  "ryle-bishops-clergy": [
+   "bishopsclergyofo00ryle",
+   "Bishops and Clergy of Other Days (1868)"
+  ],
+  "ryle-facts-and-men": [
+   "factsandmenpage00rylegoog",
+   "Facts and Men: Pages from English Church History, 1553-1683 (1882)"
+  ],
+  "ryle-light-old-times": [
+   "lightfromoldtime00ryleuoft",
+   "Light from Old Times (1902 printing; first ed. 1890)"
+  ],
+  "ryle-principles-churchmen": [
+   "principlesforchu00ryleuoft",
+   "Principles for Churchmen (1900 printing; first ed. 1884)"
+  ],
+  "ryle-home-truths-1854": [
+   "hometruthsmisce01rylegoog",
+   "Home Truths: Miscellaneous Addresses and Tracts (1854 printing; series not confirmed from OCR)"
+  ],
+  "ryle-home-truths-1857": [
+   "hometruthsmisce02rylegoog",
+   "Home Truths: Miscellaneous Addresses and Tracts (1857 printing; fifth series per its title page, to confirm)"
+  ],
+  "ryle-home-truths-1859": [
+   "hometruthsmisce00rylegoog",
+   "Home Truths: Miscellaneous Addresses and Tracts (1859 printing; seventh series per its title page, to confirm)"
+  ],
+  "ryle-living-or-dead": [
+   "livingordeadseri00ryle",
+   "Living or Dead? A Series of Home Truths (1852)"
+  ],
+  "ryle-startling-questions": [
+   "startlingquestio00ryle",
+   "Startling Questions (1853)"
+  ],
+  "ryle-priest-puritan-preacher": [
+   "priestpuritanpre00ryle",
+   "The Priest, the Puritan, and the Preacher (1856)"
+  ],
+  "ryle-christian-race": [
+   "thechristianrace00ryleuoft",
+   "The Christian Race and Other Sermons (1900, posthumous)"
+  ],
+  "ryle-lessons-church-history": [
+   "lessonsofenglish00ryle",
+   "The Lessons of English Church History (1903-04 printing)"
+  ],
+  "ryle-two-bears": [
+   "twobearsandothe00rylegoog",
+   "The Two Bears, and Other Sermons for Children (1869)"
+  ],
+  "ryle-simplicity-preaching": [
+   "simplicityinpre00rylegoog",
+   "Simplicity in Preaching (1882)"
+  ],
+  "ryle-bible-inspiration": [
+   "bibleinspiratio00rylegoog",
+   "Bible Inspiration: Its Reality and Nature (1877)"
+  ],
+  "ryle-thoughts-immortality": [
+   "thoughtsonimmor00farrgoog",
+   "Thoughts on Immortality, with remarks on Canon Farrar's Eternal Hope (1883)"
+  ],
+  "ryle-what-good-will-it-do": [
+   "a633784100ryleuoft",
+   "What Good Will It Do? (disestablishment, 1872)"
+  ],
+  "ryle-child-trained": [
+   "howshouldchildbe00ryle",
+   "How Should a Child Be Trained? (1910s printing)"
+  ],
+  "ryle-what-time-is-it": [
+   "whattimeisitbein00ryle",
+   "What Time Is It? (tract no. 195, 1854)"
+  ],
+  "ryle-have-you-the-spirit": [
+   "haveyouspiritque00ryle",
+   "Have You the Spirit? (tract no. 192, 1854)"
+  ],
+  "ryle-rich-and-poor": [
+   "richpoortractfor00ryle",
+   "Rich and Poor (tract no. 193, 1853)"
+  ],
+  "ryle-what-is-your-hope": [
+   "whatisyourhopequ00ryle",
+   "What Is Your Hope? (tract no. 194, 1856)"
+  ],
+  "ryle-no-more-crying": [
+   "nomorecryingaddr00ryle",
+   "No More Crying: An Address to Children (tract no. 196, 1859)"
+  ],
+  "ryle-only-one-way": [
+   "cihm_40623",
+   "Only One Way (tract, 1851)"
+  ],
+  "ryle-are-you-forgiven": [
+   "cihm_64164",
+   "Are You Forgiven? (tract, 1851)"
+  ],
+  "ryle-occupy-till-i-come": [
+   "occupytillicomeb00ryle",
+   "Occupy Till I Come (1865)"
+  ],
+  "ryle-do-you-pray": [
+   "doyoupray00ryle",
+   "Do You Pray? (tract, undated printing)"
+  ]
+ },
+ "_alternates": {
+  "expositorythough01ryle / expositorythoug00ryle / expositorythoug04rylegoog / expositorythough0000ryle": "Expository Thoughts, Matthew, IA printings 1856-1896; held from CCEL instead.",
+  "expositorythough05ryle / expositorythoug02rylegoog": "Expository Thoughts, John vol. 1, 1879 printings; the 1866 printing is held.",
+  "expositorythoug01rylegoog": "Expository Thoughts, John vol. 2, 1878 printing; duplicate.",
+  "expositorythoug08rylegoog": "Expository Thoughts, Luke vol. 1, second scan; duplicate.",
+  "expositorythough0000ryle_p5i8": "Expository Thoughts, Luke vol. 2, 1875 printing; duplicate.",
+  "expositorythough00ryleuoft / expositorythough00ryleiala": "Expository Thoughts, Mark, 1859-60 printings; duplicate.",
+  "practicalreligio00ryle": "Practical Religion, 1883 IA scan; Gutenberg text held instead.",
+  "christianleaders00ryleuoft / christianleader00ryle": "Christian Leaders, other printings; duplicate.",
+  "asketchlifeandl00rylegoog": "Whitefield, 1854 scan; Gutenberg text held.",
+  "a-call-to-prayer, ryle-simplicity-in-preaching, HolinessJ.C.Ryle1887": "IA items whose text file is not named <id>_djvu.txt (the fetcher's pattern); same works held from other items."
+ },
+ "_excluded": {
+  "PG 48182": "The Sabbath: by Andrew Thomson; Ryle is only a contributor",
+  "twobears (CCEL)": "CCEL's 'twobears' XML returns 402 bytes (empty); the 1869 IA scan is held instead",
+  "youmustpray00ryle": "You Must Pray: text layer only 2,369 bytes, unusable",
+  "iinviteyoubyjcry00ryle": "I Invite You!: undated single-sheet tract (7 KB), provenance unclear; listed as pending",
+  "hymnsforchurchon66ryle and other 'Hymns for the Church on Earth' / spiritualsongsfo00ryle": "Hymnals Ryle compiled (others' hymns): see hymn manifest",
+  "modern reprints": "practicalreligio0000ryle*, holiness0000ryle, holiness_JC_Ryle, holinessitsnatur*, bwb_*, expositorythough0001john etc., calltoprayer0000ryle, fiveenglishrefor0000ryle, knotsuntied0000john (1927), thoughtsforyoung00calv (1992), isbn_* (2012-16), dailyreadingsfro*: 1927-2017 printings, possibly in copyright or 'modernised'",
+  "translations": "bub_gb_Jgo-AAAAcAAJ (French), elsecretodelavid00ryle (Spanish), bub_gb_f_054xdutaQC, bub_gb__pBDAw6uXrAC (Italian), nagravnligaordtil00ryle (Swedish), viesdelatimerba00rylegoog (French)",
+  "same-name authors": "John A. Ryle MD (medicine), James Ryle, John Ryle (Dinka), John Ryle Wood, Julia Ryle, Wesley T. Ryle, Anne Libby Ryle; Gilbert Ryle (philosopher)",
+  "selectsermonsofg0000jcry": "Select Sermons of George Whitefield (1964): Whitefield's sermons with Ryle's sketch; modern edition"
+ },
+ "_pending": {
+  "ryle-worldly-conformity": [
+   "worldlyconformi00rylegoog",
+   "Worldly Conformity (1878)",
+   "text matches the title but never names Ryle (title page lost to OCR); attribution rests on the IA catalogue only"
+  ],
+  "ryle-call-to-prayer": [
+   "pts_caltoprayer_1753_21",
+   "A Call to Prayer (tract; IA date 1836 is a catalogue error)",
+   "same: the tract text never names Ryle; IA catalogue date 1836 is also wrong"
+  ]
+ }
+}

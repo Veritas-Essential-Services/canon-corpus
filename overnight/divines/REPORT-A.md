@@ -15,3 +15,10 @@
 - Defects for Adam: CCEL `miscellaneous` and PG 3613 are probably the same pieces; *An Exhortation to Peace and Unity* is of doubted authorship.
 - Four titles not found under their usual names in Offor (Relation of the Imprisonment, Profitable Meditations, Vindication of Some Gospel Truths, the Map of salvation) — marked pending/to confirm in the map.
 - structure_test 64/64. Awaiting uid minting: all 11 bunyan slugs.
+
+## 2026-10-02 15:37 CDT — ryle: done; fetch_shelf.py identity check added
+- Shelf `pipeline/ryle_shelf.json`: 3 CCEL, 3 Gutenberg, 36 Internet Archive. Expository Thoughts assembled from single lifetime volumes, each identified by the chapter range of its own section headings (Matthew from CCEL; Mark 1863; Luke 1-10, Luke 11-24 1862; John 1-6 1866, John 7-12, John 13-21). 42/42 fetched, 22.3 MB. CCEL converted: 4,157 units, 1,604 scripture links.
+- **fetch_shelf.py change (asked by the coordinator after a review):** the title check only recorded, never refused. Added `check_identity`: title words are now looked for in the whole text, and a scan with none of the title words anywhere, or (when the shelf sets `_name_words`) no author name anywhere, is REFUSED as MISMATCH and never written. Partial title matches are kept and flagged `title_weak`. Parenthetical notes in a shelf title are no longer used as check words. New `--verify` mode re-checks files already on disk. Backward compatible: shelves without `_name_words` skip the author test.
+- Re-verified every file already fetched: flavel 11/11, bunyan 11/11 clean. Ryle: 2 tracts (Worldly Conformity, A Call to Prayer) never name Ryle in their text; removed from the shelf to `_pending`. 3 flagged `title_weak` and kept (Home Truths 1859, Are You Forgiven?, Do You Pray?: OCR lost the title page; content checked by counts).
+- CCEL defect: CCEL's `twobears` XML is empty (402 bytes); the 1869 IA scan is held instead.
+- structure_test 64/64. Awaiting uid minting: all 42 ryle slugs.

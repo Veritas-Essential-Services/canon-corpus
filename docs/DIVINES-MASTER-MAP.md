@@ -63,6 +63,36 @@ Shelf: `pipeline/bunyan_shelf.json` (2026-10-02). Base edition: *The Works of Jo
 
 ## J.C. Ryle
 
+Shelf: `pipeline/ryle_shelf.json` (2026-10-02). Ryle died 1900: works printed in his lifetime are public domain; posthumous printings before 1931 are marked. No single collected edition exists, so the shelf is title by title. *Expository Thoughts on the Gospels* (7 vols) is assembled from single volumes of lifetime printings, each identified by the chapter range of its own section headings.
+
+| Work | Status | Where |
+|---|---|---|
+| Holiness | have | CCEL `ryle-holiness` |
+| The Upper Room | have | CCEL `ryle-upper-room` |
+| Expository Thoughts: Matthew | have | CCEL `ryle-et-matthew` |
+| Expository Thoughts: Mark (1863) | have-raw | IA `saintmark0000ryle` |
+| Expository Thoughts: Luke 1-10 / Luke 11-24 (1862) | have-raw | IA `expositorythoug06rylegoog`, `saintluke0002ryle` |
+| Expository Thoughts: John 1-6 (1866) / 7-12 / 13-21 | have-raw | IA `saintjohn0000ryle`, `expositorythough06ryle`, `expositorythough07ryle` |
+| Practical Religion | have | Gutenberg 38162 |
+| The Cross: A Tract for the Times | have | Gutenberg 62001 |
+| A Sketch of the Life and Labors of George Whitefield | have | Gutenberg 34727 |
+| Knots Untied (1885); Old Paths (1878) | have-raw | IA |
+| The Christian Leaders of the Last Century (1869); Bishops and Clergy of Other Days (1868); Facts and Men (1882); Light from Old Times (1902 printing of 1890); The Priest, the Puritan, and the Preacher (1856) | have-raw | IA |
+| Principles for Churchmen (1900 printing of 1884); The Lessons of English Church History (1903-04 printing); What Good Will It Do? (1872) | have-raw | IA |
+| Home Truths, three series (1854, 1857, 1859 printings; which series each is awaits confirmation) | have-raw | IA |
+| Living or Dead? (1852); Startling Questions (1853) | have-raw | IA (collections of tracts; overlap with Home Truths likely) |
+| The Christian Race (1900, posthumous); The Two Bears (1869); How Should a Child Be Trained? (1910s printing) | have-raw | IA |
+| Bible Inspiration (1877); Thoughts on Immortality (1883); Simplicity in Preaching (1882) | have-raw | IA |
+| Tracts: What Time Is It?; Have You the Spirit?; Rich and Poor; What Is Your Hope?; No More Crying; Only One Way; Are You Forgiven?; Occupy Till I Come; Do You Pray? | have-raw | IA, one slug each |
+| Worldly Conformity (1878); A Call to Prayer | pending | IA scans found, but the text never names Ryle (title page lost); held back under `_pending` until checked by eye |
+| Coming Events and Present Duties; Shall We Know One Another?; Thoughts for Young Men; Duties of Parents; Charges and Addresses | pending | lifetime works not yet found as a verified PD scan (some are inside the Home Truths series) |
+| Clean text of everything held raw | pending | wishlist: proofread transcriptions |
+| Hymns for the Church on Earth; Spiritual Songs for a Month | see hymn manifest | hymnals Ryle compiled |
+| The Sabbath (Gutenberg 48182) | excluded | by Andrew Thomson; Ryle only contributes |
+| Modern reprints and 'modernised' editions (1927 on: Banner of Truth, Evangelical Press, Daily Readings, etc.) | excluded | possibly in copyright |
+| French, Spanish, Italian, Swedish translations | excluded | not English |
+| Same-name authors (John A. Ryle MD, James Ryle, Gilbert Ryle, John Ryle Wood and others) | excluded | not J.C. Ryle |
+
 ## Horatius Bonar
 
 ## Andrew Bonar

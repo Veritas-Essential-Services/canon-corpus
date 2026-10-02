@@ -19,9 +19,11 @@
     },
     {
       "id": "ryle",
-      "status": "running",
+      "status": "done",
       "scope": "J.C. Ryle \u2014 all public-domain works; shelf + fetch + map section",
-      "started": "2026-10-02T15:19:04-05:00"
+      "started": "2026-10-02T15:19:04-05:00",
+      "finished": "2026-10-02T15:37:39-05:00",
+      "notes": "42 fetched, 0 failed: 3 CCEL (holiness, matthew, upper_room), 3 Gutenberg, 36 IA (Expository Thoughts Mark/Luke/John 6 vols + 30 books and tracts). 22.3 MB. CCEL converted: 4,157 units, 1,604 scripture links. 2 tracts held back as _pending (text never names Ryle). Home Truths series numbers unconfirmed. Awaiting uid minting: all 42."
     },
     {
       "id": "horatius-bonar",
