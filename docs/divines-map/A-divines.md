@@ -742,3 +742,13 @@ Ten titles clean from CCEL; the Works (Brockenhurst: privately reprinted for G. 
 | The Christian's Great Interest, in two parts | have | CCEL `interest2` (`guthrie-christians-great-interest`) |
 | Printings of 1750, 1763, 1825, 1833 | alternate | CCEL's clean text is held |
 | A Collection of Lectures and Sermons (ed. John Howie, 1779, 1809) | excluded here | many Covenanting preachers, Guthrie among them; would suit a Covenanters shelf |
+
+## Robert Leighton (round 4, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. The Whole Works (London: James Duncan, 1830, ed. Pearson, 4 vols) as raw IA OCR; the Commentary on 1 Peter falls in vols. I-II by name counts.
+
+| Work | Status | Where |
+|---|---|---|
+| The Whole Works, vols. I-IV (1830) | have-raw | IA `wholeworksofmost01leig`..`04leig` |
+| Works of 1805 (6 vols), 1822, 1825, 1828, 1846, 1853, 1862; separate Commentaries on 1 Peter | alternate | the 1830 edition is held |
+| Robert Leighton (1858-1934), novelist | excluded | another man |

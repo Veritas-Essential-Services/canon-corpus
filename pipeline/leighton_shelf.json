@@ -1,0 +1,34 @@
+{
+ "_about": "Public-domain Robert Leighton (1611-1684, Bishop of Dunblane, Archbishop of Glasgow) for the Word Hoard: the Whole Works (London: James Duncan, 1830, ed. John Norman Pearson, 4 vols, with a life; volume numbers read off the title pages) as raw Internet Archive OCR. The Practical Commentary upon the First Epistle of Peter is in it. CCEL and Gutenberg hold nothing of his (Gutenberg's Robert Leighton is the 19th-century novelist). Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "leighton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leighton-whole-works-01": [
+   "wholeworksofmost01leig",
+   "The Whole Works of Robert Leighton, vol. I (London, 1830)"
+  ],
+  "leighton-whole-works-02": [
+   "wholeworksofmost02leig",
+   "The Whole Works of Robert Leighton, vol. II (London, 1830)"
+  ],
+  "leighton-whole-works-03": [
+   "wholeworksofmost03leig",
+   "The Whole Works of Robert Leighton, vol. III (London, 1830)"
+  ],
+  "leighton-whole-works-04": [
+   "wholeworksofmost04leig",
+   "The Whole Works of Robert Leighton, vol. IV (London, 1830)"
+  ]
+ },
+ "_alternates": {
+  "workslei01..06leiguoft (1805, ed. Jerment, 6 vols); wholeworksofrobe01/02leig (1828); wholeworksrober00/01peargoog (1825); wholeworksofmost01/02leig_0 (1853); wholeworksofrobe00leig (1846); workstowhichispr00leiguoft (1862); genuineworksrob00..02middgoog (1822)": "Other editions of the Works.",
+  "practicalcom01leig (1819); practicalcomment02leiguoft (1800); 1864practicalcom02leiguoft": "Separate editions of the Commentary on 1 Peter."
+ },
+ "_excluded": {
+  "Gutenberg 'Robert Leighton' (Olaf the Glorious, Dogs and All about Them, etc.)": "Robert Leighton (1858-1934), novelist: another man."
+ }
+}

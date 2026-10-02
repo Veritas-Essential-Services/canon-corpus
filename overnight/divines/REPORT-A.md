@@ -183,3 +183,6 @@
 
 ## 2026-10-02 17:11 CDT — guthrie done
 - `pipeline/guthrie_shelf.json`: The Christian's Great Interest from CCEL, converted (431 units, 5 links). Howie's Collection of Lectures and Sermons was left off: by name counts it is many Covenanters' sermons (Cargill 96, Cameron 69, Peden 45), not Guthrie's alone. 0 uids minted.
+
+## 2026-10-02 17:12 CDT — leighton done
+- `pipeline/leighton_shelf.json`: the Whole Works (London, 1830, ed. Pearson), all 4 vols, raw IA OCR, 98.7-99.0%. About 4.9 MB. `--verify`: 0 mismatched. Gutenberg's "Robert Leighton" is the novelist (1858-1934), excluded. 0 uids minted.
