@@ -122,6 +122,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
     python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
     python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
+    python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
+    python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
+    python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -187,6 +190,15 @@ The living truth for project state is the Obsidian vault:
   lemmas/morphology are CC BY 4.0 and are NOT in these files: lemma, parsing,
   gloss are null until ADR 0019. Psalm titles, spans, joined verses: house
   defaults awaiting Adam. pipeline/README-ot-jsonl.md
+- pipeline/build_apostolic_fathers.py — the Apostolic Fathers in Greek (Kirsopp
+  Lake's Loeb, 1912-13, PD; First1KGreek's TEI of it is CC BY-SA 4.0) → nine
+  books in data/books/ (gitignored; manifest entries committed with a rights
+  block, redistribute_whole false). Cited chapter.section (Ign. Eph. 1.1, Herm.
+  Sim. 9.1.1); unit ids are citations, nothing minted. Words carry Strong's
+  numbers by fixed rules against data/nt (85% of the Greek), never guessed.
+  Pol. Phil. 10-14 and Herm. Sim. 9.30-10.4 survive in Latin, which
+  First1KGreek garbled into Greek letters; a per-book rule restores it.
+  Lightfoot's English is PENDING (CCEL, unreachable from cloud sessions).
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves

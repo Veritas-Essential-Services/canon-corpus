@@ -7,8 +7,9 @@ OT reads). Two routes to the same bytes:
 - raw.githubusercontent.com, one request per file. Fine for a handful, but it
   rate-limits a bulk fetch (HTTP 429 after a few dozen files, seen 2026-10-02).
   Retries back off and honour Retry-After.
-- a shallow git fetch of the pinned commit, then `git show <commit>:<path>`.
-  One request for any number of files. Used whenever a repo has more than
+- a shallow, blobless git fetch of the pinned commit, then `git show
+  <commit>:<path>`, which pulls just the blobs named (a repo like First1KGreek
+  is gigabytes; the files wanted are megabytes). Not rate-limited like raw. Used whenever a repo has more than
   RAW_LIMIT files missing, and as the fallback when raw gives up.
 
 Either way a file is written only if its sha256 is the pinned one (temp file +
@@ -75,7 +76,11 @@ def _via_git(repo, commit, items, quiet):
         run("remote", "add", "origin", GIT.format(repo=repo))
         if not quiet:
             print(f"  git fetch {repo}@{commit[:12]} ({len(items)} files)")
-        run("fetch", "-q", "--depth", "1", "origin", commit)
+        run("fetch", "-q", "--depth", "1", "--filter=blob:none", "origin", commit)
+        # One request for every blob wanted; `git show` would fetch them one by one.
+        oids = [run("rev-parse", f"{commit}:{rel}").stdout.decode().strip() for rel, _, _ in items]
+        run("-c", "fetch.negotiationAlgorithm=noop", "fetch", "-q", "--no-tags",
+            "--no-write-fetch-head", "--filter=blob:none", "origin", *oids)
         for rel, path, want in items:
             blob = run("show", f"{commit}:{rel}").stdout
             _write(path, blob, want, rel)

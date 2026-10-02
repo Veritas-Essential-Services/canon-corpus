@@ -103,6 +103,19 @@ Both testaments rebuild from pinned sources in under a minute:
 fetch per source repo, sha256-checked), builds, and checks the result is
 byte-identical. `--verify` does the same in memory and writes nothing.
 
+## Apostolic Fathers (Greek)
+
+Nine books from Kirsopp Lake's Loeb edition (1912-13, public domain), built
+from the First1KGreek TEI: 1 and 2 Clement, the seven letters of Ignatius,
+Polycarp to the Philippians, the Martyrdom of Polycarp, the Didache, Barnabas,
+Hermas and Diognetus. That is 1,941 sections and 64,890 words, cited the
+standard way (`1 Clem. 1.1`, `Ign. Eph. 1.1`, `Herm. Sim. 9.1.1`). The TEI
+is CC BY-SA 4.0, so the books are built locally and only their manifest
+entries are committed, each labelled. 85% of the Greek words carry a Strong's
+number by fixed rules against the Greek NT; the rest are left blank, never
+guessed. `python3 pipeline/build_apostolic_fathers.py --fetch`. Lightfoot's
+English translation is still to come (CCEL).
+
 ## The reader (reverse interlinear, D5)
 
     python3 pipeline/render_reader.py       # -> build/reader/reader.html (gitignored)
