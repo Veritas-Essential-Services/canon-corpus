@@ -20,3 +20,6 @@ Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every titl
 ## Defects
 - dryden-history-of-the-league: long-s OCR (78% of tokens in a clean vocabulary).
 - 1923 printings scanned for War and Peace (scan IA-dated 1910), House of the Dead, Honest Thief and the plays (their text is her translation; the printing date is recorded).
+
+## Shelves added after the first queue (vetoable — Adam's call)
+Added 2026-10-02T15:33-05:00 at the coordinator's relay ("keep going, more translator shelves"): Cary (Dante), Longfellow (Dante and others), Florio (Montaigne), Burton (Arabian Nights), the Maudes (Tolstoy, PD editions only). **Not taken: Pope and Chapman (Homer)** — lane B's running `homer` item already shelves them translator-per-work, and the relay forbids taking another lane's titles. Plutarch skipped (another thread has it). Veto any of these and the shelf file plus its map rows can simply be deleted; nothing was minted.

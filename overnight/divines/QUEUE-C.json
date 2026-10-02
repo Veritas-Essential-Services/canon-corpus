@@ -24,6 +24,31 @@
       "scope": "Overflow (found while finishing shelf-garnett): Gogol vols 3-6 scans, Notes from Underground as its own cut title, re-check Poor Folk / Uncle's Dream attribution",
       "finished": "2026-10-02T15:31-05:00",
       "notes": "Added Gogol: The Overcoat and Other Stories (1923) and Evenings on a Farm near Dikanka (1926), both Knopf scans naming Garnett; Notes from Underground cut from White Nights as its own title (overlap flagged for minting). Still pending: Government Inspector (1926), Mirgorod (1928) - no verified scan. Poor Folk / Uncle's Dream: no Garnett version found; IA 1915 copies are Hogarth (Everyman). Shelf now 62 sources, 55 titles."
+    },
+    {
+      "id": "shelf-cary",
+      "status": "todo",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay 2026-10-02, Adam may veto) \u2014 Henry Francis Cary's Dante (Divine Comedy blank verse) + other PD Cary translations; each title its own slug; no minting"
+    },
+    {
+      "id": "shelf-longfellow",
+      "status": "todo",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Longfellow as translator: Divine Comedy + other translations (Coplas de Manrique, Poets and Poetry of Europe pieces); no minting"
+    },
+    {
+      "id": "shelf-florio",
+      "status": "todo",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 John Florio: Montaigne's Essays (1603) and other PD Florio translations; no minting"
+    },
+    {
+      "id": "shelf-burton",
+      "status": "todo",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Richard F. Burton: Arabian Nights (+ Supplemental Nights) and other PD Burton translations; no minting"
+    },
+    {
+      "id": "shelf-maude",
+      "status": "todo",
+      "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Aylmer & Louise Maude: Tolstoy, public-domain editions only (pre-1931 US); record edition/year; no minting"
     }
   ]
 }
