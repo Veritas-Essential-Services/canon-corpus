@@ -9,15 +9,24 @@
  "gutenberg": {
   "lang-blue-fairy-book": [
    503,
-   "The Blue Fairy Book (1889)"
+   "The Blue Fairy Book (1889)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-red-fairy-book": [
    540,
-   "The Red Fairy Book (1890)"
+   "The Red Fairy Book (1890)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-green-fairy-book": [
    33571,
-   "The Green Fairy Book (1892), ill. H. J. Ford"
+   "The Green Fairy Book (1892), ill. H. J. Ford",
+   {
+    "contents_only": true
+   }
   ],
   "lang-yellow-fairy-book": [
    28314,
@@ -29,7 +38,10 @@
   ],
   "lang-grey-fairy-book": [
    33547,
-   "The Grey Fairy Book (1900), ill. H. J. Ford"
+   "The Grey Fairy Book (1900), ill. H. J. Ford",
+   {
+    "contents_only": true
+   }
   ],
   "lang-violet-fairy-book": [
    641,
@@ -41,19 +53,31 @@
   ],
   "lang-brown-fairy-book": [
    31201,
-   "The Brown Fairy Book (1904), ill. H. J. Ford"
+   "The Brown Fairy Book (1904), ill. H. J. Ford",
+   {
+    "contents_only": true
+   }
   ],
   "lang-orange-fairy-book": [
    36532,
-   "The Orange Fairy Book (1906), ill. H. J. Ford"
+   "The Orange Fairy Book (1906), ill. H. J. Ford",
+   {
+    "contents_only": true
+   }
   ],
   "lang-olive-fairy-book": [
    27826,
-   "The Olive Fairy Book (1907), ill. H. J. Ford"
+   "The Olive Fairy Book (1907), ill. H. J. Ford",
+   {
+    "contents_only": true
+   }
   ],
   "lang-lilac-fairy-book": [
    28096,
-   "The Lilac Fairy Book (1910), ill. H. J. Ford"
+   "The Lilac Fairy Book (1910), ill. H. J. Ford",
+   {
+    "contents_only": true
+   }
   ],
   "lang-arabian-nights": [
    128,
@@ -65,7 +89,10 @@
   ],
   "lang-true-story-book": [
    27602,
-   "The True Story Book (1893)"
+   "The True Story Book (1893)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-red-true-story-book": [
    27603,
@@ -73,7 +100,10 @@
   ],
   "lang-animal-story-book": [
    38208,
-   "The Animal Story Book (1896)"
+   "The Animal Story Book (1896)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-nursery-rhyme-book": [
    26197,
@@ -81,7 +111,10 @@
   ],
   "lang-book-of-romance": [
    26646,
-   "The Book of Romance (1902)"
+   "The Book of Romance (1902)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-red-romance-book": [
    24624,
@@ -89,19 +122,31 @@
   ],
   "lang-tales-of-romance": [
    33152,
-   "Tales of Romance (based on The Book of Romance)"
+   "Tales of Romance (based on The Book of Romance)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-red-book-of-heroes": [
    19078,
-   "The Red Book of Heroes (1909), by Mrs. Lang, ed. Andrew Lang"
+   "The Red Book of Heroes (1909), by Mrs. Lang, ed. Andrew Lang",
+   {
+    "contents_only": true
+   }
   ],
   "lang-book-of-princes-and-princesses": [
    46145,
-   "The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang"
+   "The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang",
+   {
+    "contents_only": true
+   }
   ],
   "lang-strange-story-book": [
    37396,
-   "The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang"
+   "The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang",
+   {
+    "contents_only": true
+   }
   ],
   "lang-prince-prigio": [
    20850,
@@ -165,11 +210,17 @@
   ],
   "lang-he": [
    25589,
-   "He (1887 parody), with W. H. Pollock"
+   "He (1887 parody), with W. H. Pollock",
+   {
+    "contents_only": true
+   }
   ],
   "lang-that-very-mab": [
    21337,
-   "'That Very Mab' (1885), with May Kendall"
+   "'That Very Mab' (1885), with May Kendall",
+   {
+    "contents_only": true
+   }
   ],
   "lang-odyssey": [
    1728,
@@ -201,7 +252,10 @@
   ],
   "lang-rhymes-a-la-mode": [
    1645,
-   "Rhymes a la Mode (1884)"
+   "Rhymes a la Mode (1884)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-grass-of-parnassus": [
    1060,
@@ -213,7 +267,10 @@
   ],
   "lang-new-collected-rhymes": [
    1746,
-   "New Collected Rhymes (1905)"
+   "New Collected Rhymes (1905)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-ballades-verses-vain": [
    45173,
@@ -225,7 +282,10 @@
   ],
   "lang-collection-of-ballads": [
    1054,
-   "A Collection of Ballads (ed. Lang, 1897)"
+   "A Collection of Ballads (ed. Lang, 1897)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-letters-to-dead-authors": [
    3319,
@@ -281,15 +341,24 @@
   ],
   "lang-alfred-tennyson": [
    3654,
-   "Alfred Tennyson (1901)"
+   "Alfred Tennyson (1901)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-sir-walter-scott": [
    61245,
-   "Sir Walter Scott (1906)"
+   "Sir Walter Scott (1906)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-scott-border-minstrelsy": [
    4088,
-   "Sir Walter Scott and the Border Minstrelsy (1910)"
+   "Sir Walter Scott and the Border Minstrelsy (1910)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-history-english-literature": [
    56613,
@@ -309,7 +378,10 @@
   ],
   "lang-custom-and-myth-new-ed": [
    33260,
-   "Custom and Myth, new edition (1885) — a distinct edition, kept as its own witness"
+   "Custom and Myth, new edition (1885) — a distinct edition, kept as its own witness",
+   {
+    "contents_only": true
+   }
   ],
   "lang-myth-ritual-religion-1": [
    2832,
@@ -333,7 +405,10 @@
   ],
   "lang-secret-of-the-totem": [
    45363,
-   "The Secret of the Totem (1905)"
+   "The Secret of the Totem (1905)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-method-study-totemism": [
    46546,
@@ -361,7 +436,10 @@
   ],
   "lang-world-of-homer": [
    45896,
-   "The World of Homer (1910)"
+   "The World of Homer (1910)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-short-history-scotland": [
    15955,
@@ -385,15 +463,24 @@
   ],
   "lang-companions-of-pickle": [
    68956,
-   "The Companions of Pickle (1898)"
+   "The Companions of Pickle (1898)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-historical-mysteries": [
    18679,
-   "Historical Mysteries (1904)"
+   "Historical Mysteries (1904)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-valets-tragedy": [
    2073,
-   "The Valet's Tragedy, and Other Studies (1903)"
+   "The Valet's Tragedy, and Other Studies (1903)",
+   {
+    "contents_only": true
+   }
   ],
   "lang-story-of-joan-of-arc": [
    48470,

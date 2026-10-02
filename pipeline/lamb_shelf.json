@@ -9,7 +9,10 @@
  "gutenberg": {
   "lamb-tales-from-shakespeare": [
    573,
-   "Tales from Shakespeare (1807), by Charles and Mary Lamb"
+   "Tales from Shakespeare (1807), by Charles and Mary Lamb",
+   {
+    "contents_only": true
+   }
   ],
   "lamb-adventures-of-ulysses": [
    7768,
@@ -37,11 +40,17 @@
   ],
   "lamb-works-lucas-letters-1796-1820": [
    9365,
-   "Works, ed. Lucas — Letters of Charles and Mary Lamb, 1796-1820 (Methuen vol. VI; PG 'Volume 5')"
+   "Works, ed. Lucas — Letters of Charles and Mary Lamb, 1796-1820 (Methuen vol. VI; PG 'Volume 5')",
+   {
+    "chapre_only": "LETTER \\d+[A-Z]?$"
+   }
   ],
   "lamb-works-lucas-letters-1821-1842": [
    10851,
-   "Works, ed. Lucas — Letters 1821-1842 (Methuen vol. VII; PG 'Volume 6')"
+   "Works, ed. Lucas — Letters 1821-1842 (Methuen vol. VII; PG 'Volume 6')",
+   {
+    "chapre_only": "LETTER \\d+[A-Z]?$"
+   }
   ]
  },
  "internet_archive": {

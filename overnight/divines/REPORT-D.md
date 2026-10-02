@@ -26,3 +26,10 @@
 - Heading check across the 104 converted books: four Lang novels had their "CHAPTER I.--Title" lines missed; `convert_shelf_gutenberg.py` now takes an optional per-book `{"chapre": ...}` in the shelf row, unioned with the Contents rule (backward-compatible). Mark of Cain 3 -> 18 headings, Gold of Fairnilee 4 -> 16, Much Darker Days 4 -> 16, Prince Ricardo 4 -> 13. Lang total now 102,100 units. Three books still mostly under one heading (Nursery Rhyme Book, Aucassin, Custom and Myth new ed.), recorded, not forced.
 - Re-searched pending: Tales of a Fairy Court is on neither Gutenberg nor IA. Added Beauty and the Beast (1811, attrib. Lamb; 1887 reprint, intro by Lang) to the Lamb shelf: fetched raw, 55.8 KB. Lamb shelf now 11 items.
 - tests/structure_test.py: 64 passed.
+
+## 2026-10-02 15:30 CDT — overflow-boundaries: done
+- Found: the house ALL-CAPS heading fallback splits stories and letters at signatures ("C. LAMB"), addressee lines, captions and part numerals; same heading recurs, so unit ids collide (Lucas letters vol. VI had 1,748 `~n` duplicates, vol. VII 1,932).
+- `convert_shelf_gutenberg.py` gained two shelf-row options (backward-compatible; structure_texts.py untouched): `{"chapre_only": regex}` and `{"contents_only": true}` (the book's own Contents, read leniently, no caps fallback).
+- Lucas letters now cite as `LETTER 263A, par. 4`: 259 and 354 letters, 0 duplicate ids. 30 books moved to own-Contents headings, each adopted only when it lands within 15% of its Contents count with no more duplicates (rule applied mechanically, list in the shelves). Blue/Red/Green Fairy Books = 37/37/42 tales; Tales from Shakespeare = 20 tales + preface.
+- Totals now: Lang 102,483 units, Lamb 22,015. tests/structure_test.py 64 passed.
+- Not fixed (recorded in the map): Helen of Troy (stanza-numbered verse), Elia volume and Lucas vol. I (Contents don't match body headings), some poetry books (Contents list first lines).

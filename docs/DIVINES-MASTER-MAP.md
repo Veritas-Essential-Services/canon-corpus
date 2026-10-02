@@ -322,34 +322,34 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 
 ## Andrew Lang
 
-Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, converted to `data/books/` by `pipeline/convert_shelf_gutenberg.py`: 102,100 paragraph units under headings read from each book's own Contents) and 29 Internet Archive volumes (raw OCR, unconverted). CCEL holds no Lang. Not yet registered in the manifest; no uids minted (attended step). Co-authors and co-translators are credited in each title; "Mrs. Lang" is Leonora Blanche Lang, who wrote much of the later story books. His Homer translations stay here with their own slugs (`lang-odyssey`, `lang-iliad`, `lang-homeric-hymns`) for a future Homer section to cross-reference.
+Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, converted to `data/books/` by `pipeline/convert_shelf_gutenberg.py`: 102,483 paragraph units under headings read from each book's own Contents) and 29 Internet Archive volumes (raw OCR, unconverted). CCEL holds no Lang. Not yet registered in the manifest; no uids minted (attended step). Co-authors and co-translators are credited in each title; "Mrs. Lang" is Leonora Blanche Lang, who wrote much of the later story books. His Homer translations stay here with their own slugs (`lang-odyssey`, `lang-iliad`, `lang-homeric-hymns`) for a future Homer section to cross-reference.
 
 | Work | Status | Where |
 |---|---|---|
-| The Blue Fairy Book (1889) | have | PG 503, `lang-blue-fairy-book` (1913 units) |
-| The Red Fairy Book (1890) | have | PG 540, `lang-red-fairy-book` (3161 units) |
-| The Green Fairy Book (1892), ill. H. J. Ford | have | PG 33571, `lang-green-fairy-book` (2046 units) |
+| The Blue Fairy Book (1889) | have | PG 503, `lang-blue-fairy-book` (1921 units) |
+| The Red Fairy Book (1890) | have | PG 540, `lang-red-fairy-book` (3187 units) |
+| The Green Fairy Book (1892), ill. H. J. Ford | have | PG 33571, `lang-green-fairy-book` (2028 units) |
 | The Yellow Fairy Book (1894), ill. H. J. Ford | have | PG 28314, `lang-yellow-fairy-book` (2150 units) |
 | The Pink Fairy Book (1897) | have | PG 5615, `lang-pink-fairy-book` (2141 units) |
-| The Grey Fairy Book (1900), ill. H. J. Ford | have | PG 33547, `lang-grey-fairy-book` (2389 units) |
+| The Grey Fairy Book (1900), ill. H. J. Ford | have | PG 33547, `lang-grey-fairy-book` (2369 units) |
 | The Violet Fairy Book (1901) | have | PG 641, `lang-violet-fairy-book` (2321 units) |
 | The Crimson Fairy Book (1903) | have | PG 2435, `lang-crimson-fairy-book` (1746 units) |
-| The Brown Fairy Book (1904), ill. H. J. Ford | have | PG 31201, `lang-brown-fairy-book` (1887 units) |
-| The Orange Fairy Book (1906), ill. H. J. Ford | have | PG 36532, `lang-orange-fairy-book` (2360 units) |
-| The Olive Fairy Book (1907), ill. H. J. Ford | have | PG 27826, `lang-olive-fairy-book` (1973 units) |
-| The Lilac Fairy Book (1910), ill. H. J. Ford | have | PG 28096, `lang-lilac-fairy-book` (2394 units) |
+| The Brown Fairy Book (1904), ill. H. J. Ford | have | PG 31201, `lang-brown-fairy-book` (1875 units) |
+| The Orange Fairy Book (1906), ill. H. J. Ford | have | PG 36532, `lang-orange-fairy-book` (2342 units) |
+| The Olive Fairy Book (1907), ill. H. J. Ford | have | PG 27826, `lang-olive-fairy-book` (1959 units) |
+| The Lilac Fairy Book (1910), ill. H. J. Ford | have | PG 28096, `lang-lilac-fairy-book` (2379 units) |
 | The Arabian Nights Entertainments (1898, Lang's selection) | have | PG 128, `lang-arabian-nights` (1836 units) |
 | The Blue Poetry Book (anthology ed. Lang, 7th ed.) | have | PG 46515, `lang-blue-poetry-book` (1612 units) |
-| The True Story Book (1893) | have | PG 27602, `lang-true-story-book` (935 units) |
+| The True Story Book (1893) | have | PG 27602, `lang-true-story-book` (961 units) |
 | The Red True Story Book (1895) | have | PG 27603, `lang-red-true-story-book` (1732 units) |
-| The Animal Story Book (1896) | have | PG 38208, `lang-animal-story-book` (1535 units) |
+| The Animal Story Book (1896) | have | PG 38208, `lang-animal-story-book` (1495 units) |
 | The Nursery Rhyme Book (1897) | have | PG 26197, `lang-nursery-rhyme-book` (1503 units) |
-| The Book of Romance (1902) | have | PG 26646, `lang-book-of-romance` (1329 units) |
+| The Book of Romance (1902) | have | PG 26646, `lang-book-of-romance` (1367 units) |
 | The Red Romance Book (1905) | have | PG 24624, `lang-red-romance-book` (1923 units) |
-| Tales of Romance (based on The Book of Romance) | have | PG 33152, `lang-tales-of-romance` (591 units) |
+| Tales of Romance (based on The Book of Romance) | have | PG 33152, `lang-tales-of-romance` (650 units) |
 | The Red Book of Heroes (1909), by Mrs. Lang, ed. Andrew Lang | have | PG 19078, `lang-red-book-of-heroes` (1358 units) |
-| The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang | have | PG 46145, `lang-book-of-princes-and-princesses` (924 units) |
-| The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang | have | PG 37396, `lang-strange-story-book` (1607 units) |
+| The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang | have | PG 46145, `lang-book-of-princes-and-princesses` (942 units) |
+| The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang | have | PG 37396, `lang-strange-story-book` (1623 units) |
 | Prince Prigio (1889) | have | PG 20850, `lang-prince-prigio` (428 units) |
 | Prince Ricardo of Pantouflia (1893) | have | PG 21994, `lang-prince-ricardo` (669 units) |
 | The Gold of Fairnilee (1888) | have | PG 21934, `lang-gold-of-fairnilee` (324 units) |
@@ -362,8 +362,8 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The Disentanglers (1902) | have | PG 17031, `lang-disentanglers` (3144 units) |
 | The World's Desire (1890), with H. Rider Haggard | have | PG 2763, `lang-worlds-desire` (1412 units) |
 | Parson Kelly (1899), with A. E. W. Mason | have | PG 38684, `lang-parson-kelly` (2683 units) |
-| He (1887 parody), with W. H. Pollock | have | PG 25589, `lang-he` (476 units) |
-| 'That Very Mab' (1885), with May Kendall | have | PG 21337, `lang-that-very-mab` (503 units) |
+| He (1887 parody), with W. H. Pollock | have | PG 25589, `lang-he` (521 units) |
+| 'That Very Mab' (1885), with May Kendall | have | PG 21337, `lang-that-very-mab` (511 units) |
 | The Odyssey of Homer, prose tr. S. H. Butcher & Andrew Lang | have | PG 1728, `lang-odyssey` (1372 units) |
 | The Iliad, prose tr. Andrew Lang, Walter Leaf & Ernest Myers | have | PG 3059, `lang-iliad` (1101 units) |
 | The Homeric Hymns: a new prose translation, and essays (1899) | have | PG 16338, `lang-homeric-hymns` (400 units) |
@@ -371,13 +371,13 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | Aucassin and Nicolete, tr. Andrew Lang | have | PG 1578, `lang-aucassin` (281 units) |
 | Ballads and Lyrics of Old France, with Other Poems (1872) | have | PG 795, `lang-ballads-lyrics-old-france` (358 units) |
 | XXXII Ballades in Blue China (1885) | have | PG 51160, `lang-ballades-blue-china` (215 units) |
-| Rhymes a la Mode (1884) | have | PG 1645, `lang-rhymes-a-la-mode` (295 units) |
+| Rhymes a la Mode (1884) | have | PG 1645, `lang-rhymes-a-la-mode` (342 units) |
 | Grass of Parnassus (1888) | have | PG 1060, `lang-grass-of-parnassus` (304 units) |
 | Ban and Arriere Ban: A Rally of Fugitive Rhymes (1894) | have | PG 1855, `lang-ban-and-arriere-ban` (256 units) |
-| New Collected Rhymes (1905) | have | PG 1746, `lang-new-collected-rhymes` (294 units) |
+| New Collected Rhymes (1905) | have | PG 1746, `lang-new-collected-rhymes` (272 units) |
 | Ballades and Verses Vain (1884) | have | PG 45173, `lang-ballades-verses-vain` (398 units) |
 | Helen of Troy (1882) | have | PG 3229, `lang-helen-of-troy` (427 units) |
-| A Collection of Ballads (ed. Lang, 1897) | have | PG 1054, `lang-collection-of-ballads` (1616 units) |
+| A Collection of Ballads (ed. Lang, 1897) | have | PG 1054, `lang-collection-of-ballads` (1622 units) |
 | Letters to Dead Authors (1886) | have | PG 3319, `lang-letters-to-dead-authors` (386 units) |
 | Letters on Literature (1889) | have | PG 1395, `lang-letters-on-literature` (430 units) |
 | Essays in Little (1891) | have | PG 1594, `lang-essays-in-little` (546 units) |
@@ -391,35 +391,35 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | Lost Leaders (1889), ed. W. Pett Ridge | have | PG 16529, `lang-lost-leaders` (157 units) |
 | The Puzzle of Dickens's Last Plot (1905) | have | PG 738, `lang-puzzle-dickens-last-plot` (139 units) |
 | Shakespeare, Bacon, and the Great Unknown (1912) | have | PG 5127, `lang-shakespeare-bacon` (933 units) |
-| Alfred Tennyson (1901) | have | PG 3654, `lang-alfred-tennyson` (635 units) |
-| Sir Walter Scott (1906) | have | PG 61245, `lang-sir-walter-scott` (497 units) |
-| Sir Walter Scott and the Border Minstrelsy (1910) | have | PG 4088, `lang-scott-border-minstrelsy` (819 units) |
+| Alfred Tennyson (1901) | have | PG 3654, `lang-alfred-tennyson` (643 units) |
+| Sir Walter Scott (1906) | have | PG 61245, `lang-sir-walter-scott` (533 units) |
+| Sir Walter Scott and the Border Minstrelsy (1910) | have | PG 4088, `lang-scott-border-minstrelsy` (848 units) |
 | History of English Literature from Beowulf to Swinburne (1912) | have | PG 56613, `lang-history-english-literature` (2932 units) |
 | Oxford: Brief Historical and Descriptive Notes | have | PG 2444, `lang-oxford` (192 units) |
 | Highways and Byways in the Border (1913), with John Lang | have | PG 47800, `lang-highways-byways-border` (2015 units) |
 | Custom and Myth (1884) | have | PG 14080, `lang-custom-and-myth` (701 units) |
-| Custom and Myth, new edition (1885) — a distinct edition, kept as its own witness | have | PG 33260, `lang-custom-and-myth-new-ed` (1380 units) |
+| Custom and Myth, new edition (1885) — a distinct edition, kept as its own witness | have | PG 33260, `lang-custom-and-myth-new-ed` (1406 units) |
 | Myth, Ritual and Religion, vol. 1 | have | PG 2832, `lang-myth-ritual-religion-1` (1136 units) |
 | Myth, Ritual and Religion, vol. 2 | have | PG 36794, `lang-myth-ritual-religion-2` (1389 units) |
 | The Making of Religion (1898) | have | PG 12353, `lang-making-of-religion` (1960 units) |
 | Modern Mythology (1897) | have | PG 14576, `lang-modern-mythology` (832 units) |
 | Magic and Religion (1901) | have | PG 46480, `lang-magic-and-religion` (1305 units) |
-| The Secret of the Totem (1905) | have | PG 45363, `lang-secret-of-the-totem` (831 units) |
+| The Secret of the Totem (1905) | have | PG 45363, `lang-secret-of-the-totem` (855 units) |
 | Method in the Study of Totemism (1911) | have | PG 46546, `lang-method-study-totemism` (242 units) |
 | Social Origins (Lang) and Primal Law (J. J. Atkinson), 1903 | have | PG 45724, `lang-social-origins` (1065 units) |
 | The Book of Dreams and Ghosts (1897) | have | PG 12621, `lang-book-of-dreams-and-ghosts` (976 units) |
 | Cock Lane and Common-Sense (1894) | have | PG 12674, `lang-cock-lane` (768 units) |
 | The Clyde Mystery: A Study in Forgeries and Folklore (1905) | have | PG 20902, `lang-clyde-mystery` (479 units) |
 | Homer and His Age (1906) | have | PG 7972, `lang-homer-and-his-age` (746 units) |
-| The World of Homer (1910) | have | PG 45896, `lang-world-of-homer` (1357 units) |
+| The World of Homer (1910) | have | PG 45896, `lang-world-of-homer` (1391 units) |
 | A Short History of Scotland (1912) | have | PG 15955, `lang-short-history-scotland` (645 units) |
 | John Knox and the Reformation (1905) | have | PG 14016, `lang-john-knox` (1043 units) |
 | The Mystery of Mary Stuart (1901) | have | PG 42910, `lang-mystery-of-mary-stuart` (1694 units) |
 | James VI and the Gowrie Mystery (1902) | have | PG 31033, `lang-james-vi-gowrie` (982 units) |
 | Pickle the Spy (1897) | have | PG 6807, `lang-pickle-the-spy` (1057 units) |
-| The Companions of Pickle (1898) | have | PG 68956, `lang-companions-of-pickle` (1274 units) |
-| Historical Mysteries (1904) | have | PG 18679, `lang-historical-mysteries` (757 units) |
-| The Valet's Tragedy, and Other Studies (1903) | have | PG 2073, `lang-valets-tragedy` (1115 units) |
+| The Companions of Pickle (1898) | have | PG 68956, `lang-companions-of-pickle` (1302 units) |
+| Historical Mysteries (1904) | have | PG 18679, `lang-historical-mysteries` (799 units) |
+| The Valet's Tragedy, and Other Studies (1903) | have | PG 2073, `lang-valets-tragedy` (1133 units) |
 | The Story of Joan of Arc (1906) | have | PG 48470, `lang-story-of-joan-of-arc` (233 units) |
 | Poetical Works, ed. Mrs. Lang (1923), vol. 1 | have-raw | IA `poeticalworks01lang`, `lang-poetical-works-01` |
 | Poetical Works (1923), vol. 2 | have-raw | IA `poeticalworks02languoft`, `lang-poetical-works-02` |
@@ -466,23 +466,23 @@ Shelf: `pipeline/lamb_shelf.json` (2026-10-02). Spine: *The Works of Charles and
 
 | Work | Status | Where |
 |---|---|---|
-| Tales from Shakespeare (1807), by Charles and Mary Lamb | have | PG 573, `lamb-tales-from-shakespeare` (821 units) |
+| Tales from Shakespeare (1807), by Charles and Mary Lamb | have | PG 573, `lamb-tales-from-shakespeare` (826 units) |
 | The Adventures of Ulysses (1808) | have | PG 7768, `lamb-adventures-of-ulysses` (275 units) |
 | Poetry for Children (1809), by Charles and Mary Lamb | have | PG 68359, `lamb-poetry-for-children` (333 units) |
 | Works of Charles and Mary Lamb, ed. E. V. Lucas (1903-05) — Miscellaneous Prose (Methuen vol. I; PG 'Volume 1') | have | PG 40988, `lamb-works-lucas-misc-prose` (3453 units) |
 | Works, ed. Lucas — Elia and The Last Essays of Elia (Methuen vol. II; PG 'Volume 2') | have | PG 10343, `lamb-works-lucas-elia` (2091 units) |
 | Works, ed. Lucas — Books for Children, by Charles and Mary Lamb (Methuen vol. III; PG 'Volume 3') | have | PG 10130, `lamb-works-lucas-books-for-children` (2220 units) |
 | Works, ed. Lucas — Poems and Plays (Methuen vol. V; PG labels it 'Volume 4') | have | PG 11576, `lamb-works-lucas-poems-and-plays` (3613 units) |
-| Works, ed. Lucas — Letters of Charles and Mary Lamb, 1796-1820 (Methuen vol. VI; PG 'Volume 5') | have | PG 9365, `lamb-works-lucas-letters-1796-1820` (3720 units) |
-| Works, ed. Lucas — Letters 1821-1842 (Methuen vol. VII; PG 'Volume 6') | have | PG 10851, `lamb-works-lucas-letters-1821-1842` (4578 units) |
+| Works, ed. Lucas — Letters of Charles and Mary Lamb, 1796-1820 (Methuen vol. VI; PG 'Volume 5') | have | PG 9365, `lamb-works-lucas-letters-1796-1820` (4074 units) |
+| Works, ed. Lucas — Letters 1821-1842 (Methuen vol. VII; PG 'Volume 6') | have | PG 10851, `lamb-works-lucas-letters-1821-1842` (5130 units) |
 | Works, ed. Lucas (Methuen 1903-05), vol. IV: Dramatic Specimens and the Garrick Plays — the one Lucas volume Gutenberg lacks | have-raw | IA `cu31924016657193`, `lamb-works-lucas-dramatic-specimens` |
+| Beauty and the Beast (1811; attributed to Lamb, attribution doubtful), 1887 facsimile reprint with an introduction by Andrew Lang | have-raw | IA `beautyandbeastwi00lambuoft`, `lamb-beauty-and-the-beast` |
 | Essays of Elia (1823) and The Last Essays of Elia (1833) | have | Lucas vol. II (`lamb-works-lucas-elia`) |
 | Rosamund Gray; the miscellaneous essays, criticism (On the Tragedies of Shakspeare, On the Genius of Hogarth), Table-Talk, uncollected periodical prose | have | Lucas vol. I (`lamb-works-lucas-misc-prose`) |
 | Mrs. Leicester's School (with Mary Lamb), The King and Queen of Hearts, Prince Dorus | have | Lucas vol. III (`lamb-works-lucas-books-for-children`) |
 | John Woodvil, Mr. H——, The Wife's Trial, Album Verses, Blank Verse (with Lloyd), the poems | have | Lucas vol. V (`lamb-works-lucas-poems-and-plays`) |
 | Specimens of English Dramatic Poets (1808) and the Garrick Plays extracts | have-raw | Lucas vol. IV (IA); also many standalone IA scans (1835-1907) |
 | The letters of Charles and Mary Lamb | have | Lucas vols. VI-VII |
-| Beauty and the Beast (1811, attributed to Lamb; 1887 reprint with intro. by Andrew Lang) | have-raw | IA `beautyandbeastwi00lambuoft`, `lamb-beauty-and-the-beast`; attribution doubtful, Lucas vol. III names it only in passing; Lang's introduction makes it a Lang cross-reference too |
 | Clean text of Lucas vol. IV (OCR 97.2% known words, see Measurements) | pending | wishlist: a proofread transcription; IA has a second Methuen scan and standalone Specimens editions to repair OCR from |
 | Ainger's edition (The Life and Works of Charles Lamb, 1899-1900, 12 vols) | pending | IA `lifeworksofcharl10lambuoft` and siblings; a second scholarly witness, not fetched |
 | Eliana (1864), Lamb and Hazlitt: Further Letters (1899-1900), Talfourd's Final Memorials (1848) | pending | IA; early gatherings of letters and uncollected pieces, superseded by Lucas but useful as witnesses |
@@ -498,6 +498,7 @@ Shelf: `pipeline/lamb_shelf.json` (2026-10-02). Spine: *The Works of Charles and
 
 - **OCR quality of the raw volumes.** Share of OCR words (2+ letters) found in a vocabulary built from the 104 clean Gutenberg texts of these two shelves (words seen twice or more, 56,402 words). All 30 raw volumes score 94.4%-99.1%. Lowest: Miracles of St Katherine 94.4% (much Old French), Politics of Aristotle essays 95.5%, St Andrews 95.7%, Origins of Religion 95.8%, Homer and the Epic 95.8%. Lucas vol. IV 97.2%. Highest: Story of the Golden Fleece 99.1%, All Sorts of Stories Book 98.9%. A rough guide to which volumes most want a clean text, not a proofreading score: the vocabulary is Lang and Lamb's own.
 - **Heading detection.** After a per-book chapter rule for four Lang novels (The Mark of Cain, The Gold of Fairnilee, Much Darker Days, Prince Ricardo — their "CHAPTER I.--Title" lines escaped the Contents rule), three books still sit mostly under one heading: The Nursery Rhyme Book (its five sections are italic numbered lines), Aucassin and Nicolete (the chantefable's alternating "Here singeth one / So say they" structure), and Custom and Myth, new edition (46% of its units are the index). Their citations are paragraph-in-book until a structure rule is written.
+- **Story and letter boundaries (second pass).** The house rule treats any ALL-CAPS line as a heading, which in these books also catches signatures ("C. LAMB"), addressee lines, plate captions and part numerals, so one story or letter was split across several "headings" and the same heading text recurred (duplicate unit ids). Two shelf-side options in `convert_shelf_gutenberg.py` fix this without touching structure_texts.py: Lucas's letters use `LETTER n` as the only heading (vol. VI: 259 letters, 0 duplicate ids, was 1,748; vol. VII: 354 letters, 0, was 1,932), so a citation reads `LETTER 263A, par. 4`. And 30 books use only their own Contents, read leniently (punctuation and hyphens may differ, Contents may be italic): adopted only where the result lands within 15% of the Contents count with no more duplicate ids than before. The Blue, Red and Green Fairy Books now hold exactly 37, 37 and 42 tales; Tales from Shakespeare exactly its 20 tales plus preface. Still unfixed, recorded: Helen of Troy (Book + numbered stanza wants a stanza-aware converter), the Elia volume and Lucas vol. I (their Contents do not match their body headings), and several poetry books whose Contents list first lines.
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
