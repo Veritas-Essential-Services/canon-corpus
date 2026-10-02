@@ -158,6 +158,31 @@ ok(sum(sum(v.values()) for v in ren.values()) == len(alltags), "renderings count
 ku = {u for c in conc for u in c["passages"].get("kjv", [])}
 ok(ku and ku <= set(kjv_uids.values()), "concordance kjv passages are KJV verse uids")
 
+# -- parallels and the concordance view ---------------------------------------
+par = rows("parallels.jsonl")
+pp = {r["kjv"]: r["parallels"] for r in par}
+ok(all(("kjv:" + r["kjv"]) in kjv_uids for r in par), "every parallels row is a KJV verse")
+ok(pp.get("Ps.23.1", {}).get("vulgate") == ["vulgate:Ps.22.1"] and pp["Ps.23.1"].get("douay") == ["douay:Ps.22.1"],
+   "Psalm 23:1 is Psalm 22:1 in the Vulgate and the Douay")
+ok("Gen.1.1" not in pp, "a verse with the same number everywhere is not listed")
+ok(pp.get("Gen.49.32", {}).get("vulgate") == [], "Gen 49:32, which the Clementine lacks, says so with []")
+ok(all(i.startswith(n + ":") for v in pp.values() for n, ids in v.items() for i in ids),
+   "parallel ids name their own Bible")
+view = rows("concordance-view.jsonl")
+vb = {r["strongs"]: r for r in view}
+ok([r["strongs"] for r in view] == [k for k in keys if k not in set(not_used)],
+   f"one view row per used number ({len(view):,})")
+ok(all(r["kjv"]["occurrences"] == sum(r["kjv"]["renderings"].values()) for r in view),
+   "each row's renderings add up to its KJV occurrences")
+ok(sum(r["kjv"]["occurrences"] for r in view) == len(alltags), "the view counts every KJV tag once")
+ok(all(set(r["parallels"]) <= set(r["kjv"]["verses"]) and all(pp[o] == v for o, v in r["parallels"].items())
+       for r in view), "a row's parallels are its own verses, as parallels.jsonl gives them")
+ok(all(r["lexicons"] == ww[r["strongs"]] for r in view), "a row's lexicons are its witnesses row")
+ok("Ps.23.1" in vb["H7462"]["kjv"]["verses"] and vb["H7462"]["parallels"]["Ps.23.1"]["vulgate"] == ["vulgate:Ps.22.1"],
+   "H7462 (shepherd): Ps 23:1, with its Vulgate verse 22:1")
+ok(vb["G26"]["kjv"]["renderings"].get("charity") == 28, "G26: the KJV renders it charity 28 times")
+ok("brenton" in man["parallels"]["not_yet"], "Brenton is named as not yet wired, not silently absent")
+
 # -- OSHB's CC BY layer: built locally, never committed -------------------------
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "build/strongs"], capture_output=True, text=True)
 ok(r.returncode == 0 and not r.stdout.strip(), "no OSHB layer file is tracked by git")

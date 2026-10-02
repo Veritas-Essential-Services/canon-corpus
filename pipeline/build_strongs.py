@@ -61,7 +61,8 @@ LEX = os.path.join(S.CORPUS, "lexicons")
 BOOKS = os.path.join(ROOT, "data", "books")
 
 FILES = ("strongs.jsonl", "proposed-uids.jsonl", "witnesses.jsonl",
-         "concordance.jsonl", "kjv-tags.jsonl", "kjv-renderings.jsonl", "manifest.json")
+         "concordance.jsonl", "kjv-tags.jsonl", "kjv-renderings.jsonl", "parallels.jsonl",
+         "concordance-view.jsonl", "manifest.json")
 
 CITATION_SLUG = "strongs"      # strongs:G26 -- the WORD; strongs-greek:G26 is its 1890 entry
 KIND = "lexeme"
@@ -410,6 +411,7 @@ USFM_OSIS = dict(zip(
     "Matt Mark Luke John Acts Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm "
     "Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev".split()))
 
+USFM_ORDER = {o: i for i, o in enumerate(USFM_OSIS.values())}
 RE_KJV_W = re.compile(r'\\\+?w ([^|\\]+)\|strong="([HG]\d+)"\\\+?w\*')
 RE_FOOTNOTE = re.compile(r"\\f .*?\\f\*", re.S)
 
@@ -606,6 +608,115 @@ def build_oshb_layer():
 
 
 # ---------------------------------------------------------------------------
+# The concordance VIEW: one row per number, everything about it in one place
+# ---------------------------------------------------------------------------
+
+# Parallel Bibles, each reached from the KJV verse through a committed verse
+# map: name -> (slug, how to build its units from data/corpus, inputs).
+def _vulgate_units():
+    import fetch_sources as F
+    return S.convert_vulgate(os.path.join(S.CORPUS, "vulgate"), F.VULGATE["books"],
+                             F.VULGATE["pin"])["units"]
+
+
+def _douay_units():
+    import fetch_sources as F
+    p = os.path.join(S.CORPUS, "douay", "DRC.json")
+    return S.convert_douay(p, F.VULGATE["books"], sha256(p))["units"]
+
+
+PARALLELS = {
+    "vulgate": (_vulgate_units, [os.path.join(S.CORPUS, "vulgate")],
+                "Clementine Vulgate (1592, PD), through data/versification/vulgate-kjv.json"),
+    "douay": (_douay_units, [os.path.join(S.CORPUS, "douay", "DRC.json")],
+              "Douay-Rheims, Challoner (PD), in the Vulgate's numbering, through the same map"),
+}
+PARALLELS_NOT_YET = {
+    "brenton": ("Brenton's Septuagint is not in this repo. A Septuagint->KJV map exists on "
+                "branch claude/happy-carson-m9ajwl (data/versification/lxx-kjv.tsv, CC BY-SA), "
+                "which is not a PR in this project; it wires in here once it lands."),
+}
+
+
+def build_parallels(prior_rows):
+    """KJV verse -> the unit ids in each parallel Bible holding its text.
+    Only verses where that is NOT simply the same number are listed; a verse
+    absent here has `<slug>:<same osis>` in each. Returns (rows, stats, carried)."""
+    by_kjv, stats, carried = {}, {}, []
+    have = {}
+    for name, (units_fn, paths, what) in PARALLELS.items():
+        if not all(os.path.exists(p) for p in paths) or not os.path.exists(
+                os.path.join(ROOT, "data", "versification", "vulgate-kjv.json")):
+            carried.append(name)
+            continue
+        units = units_fn()
+        have[name] = {u["id"] for u in units}
+        unresolved = 0
+        for u in units:
+            k = u.get("kjv") or {}
+            if not k.get("resolved"):
+                unresolved += 1
+                continue
+            ts = [t for t in (k.get("spans") or [k["target"]]) if t.startswith("kjv:")]
+            for t in ts:
+                by_kjv.setdefault(t[4:], {}).setdefault(name, []).append(u["id"])
+        stats[name] = {"what": what, "units": len(units), "units_without_kjv_verse": unresolved}
+    rows = []
+    for r in prior_rows:                      # a Bible not buildable here: keep its rows
+        for name in carried:
+            if name in r["parallels"]:
+                by_kjv.setdefault(r["kjv"], {})[name] = r["parallels"][name]
+    reg = wh_uid.WhUidRegistry(REGISTRY)
+    kjv_osis = sorted((c[4:] for c in reg.map if c.startswith("kjv:")),
+                      key=lambda o: (USFM_ORDER.get(o.split(".")[0], 99),
+                                     int(o.split(".")[1]), int(o.split(".")[2])))
+    for osis in kjv_osis:
+        par = by_kjv.get(osis, {})
+        out = {}
+        for name in PARALLELS:
+            if name in carried and name not in par:
+                continue                   # carried, and the committed file had it same-numbered
+            ids = par.get(name, [])
+            if ids != [f"{name}:{osis}"]:
+                out[name] = ids            # [] = no verse of that Bible holds it
+        if out:
+            rows.append({"kjv": osis, "parallels": out})
+    for name in PARALLELS:
+        if name in stats:
+            stats[name]["kjv_verses_renumbered_or_split"] = sum(1 for r in rows if r["parallels"].get(name))
+            stats[name]["kjv_verses_with_none"] = sum(1 for r in rows if r["parallels"].get(name) == [])
+    return rows, stats, carried
+
+
+def build_view(table, wit, kjv_rows, parallels):
+    """One row per number the KJV tags or the NT uses."""
+    by = {t["strongs"]: t for t in table}
+    w = {r["strongs"]: r["witnesses"] for r in wit}
+    par = {r["kjv"]: r["parallels"] for r in parallels}
+    verses, words = {}, {}
+    for r in kjv_rows:
+        osis = r["citation"][4:]
+        for word, k in r["tags"] + r.get("title_tags", []):
+            vs = verses.setdefault(k, {})
+            vs[osis] = vs.get(osis, 0) + 1
+            d = words.setdefault(k, {})
+            ww = word if word.isupper() and len(word) > 1 else word.lower()
+            d[ww] = d.get(ww, 0) + 1
+    rows = []
+    for k in sorted(set(verses) | {t["strongs"] for t in table if not t.get("not_used")}, key=sort_key):
+        t = by[k]
+        vs = verses.get(k, {})
+        lex = {name: cits for name, cits in w.get(k, {}).items()}
+        row = {"strongs": k, "lemma": t["lemma"], "translit": t["translit"], "lang": t["lang"],
+               "definition": t["definition"], "lexicons": lex,
+               "kjv": {"occurrences": sum(vs.values()), "verses": list(vs),
+                       "renderings": dict(sorted(words.get(k, {}).items(), key=lambda kv: (-kv[1], kv[0])))},
+               "parallels": {o: par[o] for o in vs if o in par}}
+        rows.append(row)
+    return rows
+
+
+# ---------------------------------------------------------------------------
 
 def build():
     prior_manifest = {}
@@ -629,6 +740,15 @@ def build():
                     "kjv-renderings.jsonl": dump_jsonl(kjv_renderings(kjv_rows))}
     conc, cstats = build_concordance(table, read_jsonl(os.path.join(OUT, "concordance.jsonl")),
                                      prior_manifest, kjv_rows)
+    par, pstats, pcarried = build_parallels(read_jsonl(os.path.join(OUT, "parallels.jsonl")))
+    for name in pcarried:
+        pstats[name] = (prior_manifest.get("parallels") or {}).get(name, {})
+    carried += [f"parallels:{n}" for n in pcarried]
+    if kjv_rows is not None:
+        view = dump_jsonl(build_view(table, wit, kjv_rows, par))
+    else:                                     # the view needs the KJV tags: keep the committed one
+        vp = os.path.join(OUT, "concordance-view.jsonl")
+        view = open(vp, encoding="utf-8").read() if os.path.exists(vp) else ""
     heb = [t for t in table if t["strongs"][0] == "H"]
     grk = [t for t in table if t["strongs"][0] == "G"]
     manifest = {
@@ -648,6 +768,13 @@ def build():
         "witnesses": wstats,
         "concordance": cstats,
         "kjv": kstats,
+        "parallels": dict(pstats, rule=("parallels.jsonl lists a KJV verse only where a parallel "
+                                        "Bible does not hold it under the same number; [] = none "
+                                        "of its verses does"), not_yet=PARALLELS_NOT_YET),
+        "view": {"file": "concordance-view.jsonl",
+                 "row": ("one per used Strong's number: lemma, definition, every lexicon entry "
+                         "(citations), every KJV verse and English rendering, and for each "
+                         "verse whose number differs, its Vulgate and Douay verse ids")},
         "oshb_layer": dict(OSHB_RIGHTS, built_to="build/strongs/oshb-ot/<Book>.jsonl",
                            how="python3 pipeline/build_strongs.py (when the pinned WLC is in data/corpus/)"),
         "not_claimed": [
@@ -667,6 +794,8 @@ def build():
         "witnesses.jsonl": dump_jsonl(wit),
         "concordance.jsonl": dump_jsonl(conc),
         **kjv_text,
+        "parallels.jsonl": dump_jsonl(par),
+        "concordance-view.jsonl": view,
         "manifest.json": json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True) + "\n",
     }, minted, carried
 

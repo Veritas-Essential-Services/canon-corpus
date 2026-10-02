@@ -203,7 +203,9 @@ The living truth for project state is the Obsidian vault:
   in data/uids/ until Adam rules, then `--adopt`), the BDB/TBESG/LSJ/Thayer
   entries for each number (citations only), the KJV's English words tagged
   with their numbers (eBible, labelled PD; rights call is Adam's), and number →
-  passage uids (kjv, nt). OSHB's CC BY tags for data/ot/ build to build/ only,
+  passage uids (kjv, nt), and concordance-view.jsonl: one row per number
+  with its KJV verses and renderings, lexicon entries, and Vulgate/Douay
+  verse ids where the numbering differs. OSHB's CC BY tags for data/ot/ build to build/ only,
   never committed. Rules: pipeline/README-strongs.md
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column

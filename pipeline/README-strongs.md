@@ -12,6 +12,7 @@ Built by `pipeline/build_strongs.py`; checked by `tests/strongs_test.py`.
 python3 pipeline/fetch_sources.py            # the dictionaries, into data/corpus/lexicons/
 python3 pipeline/build_strongs.py --fetch    # the Strong's-tagged KJV (eBible), into data/corpus/
 python3 pipeline/build_versification.py --fetch   # the pinned WLC, for the local OSHB layer
+python3 -c "import sys; sys.path.insert(0,'pipeline'); import fetch_sources as F; F.fetch_vulgate(); F.fetch_douay()"
 python3 pipeline/build_strongs.py            # build data/strongs/
 python3 pipeline/build_strongs.py --check    # THE GATE: byte-identical, 0 newly proposed
 python3 tests/strongs_test.py
@@ -27,6 +28,8 @@ python3 pipeline/build_strongs.py --adopt    # ONLY on Adam's ruling (s.4)
 | `witnesses.jsonl` | Strong's number | Which entries in BDB, TBESG, LSJ and Thayer write that word up. Citations only. |
 | `concordance.jsonl` | number that occurs | Every passage uid it occurs in, per corpus (`kjv`, `nt`), and how many tokens. |
 | `kjv-tags.jsonl` | KJV verse (31,102) | Each tagged English word or phrase, in verse order, with its Strong's key. |
+| `parallels.jsonl` | KJV verse numbered differently elsewhere (3,050) | Its verse ids in the Clementine Vulgate and the Douay-Rheims. |
+| `concordance-view.jsonl` | used number (14,197) | **The concordance view**: everything above about one number, in one row (s.9). |
 | `kjv-renderings.jsonl` | number the KJV tags | Every English rendering of it and how often: the index of Strong's Exhaustive Concordance. |
 | `manifest.json` | — | Sources and their sha256, counts, and what is not claimed. |
 
@@ -162,3 +165,35 @@ CC BY 4.0 (OpenScriptures HebrewLexicon). Only the PD text fields are carried, w
 attribution in the manifest. The STEPBible lexicons (CC BY, `redistribute_whole: false`)
 contribute **citations only**, never text, so nothing of theirs is redistributed. The
 KJV tags: s.6. OSHB's tags: s.5, never committed.
+
+## 9. The concordance view
+
+`concordance-view.jsonl` is the page of a printed concordance, one row per used number,
+built from the other files so nobody has to join them by hand:
+
+```
+{"strongs": "H7462", "lemma": "רָעָה", "translit": "râʻâh", "lang": "hbo",
+ "definition": "to tend a flock; i.e. pasture it; ...",
+ "lexicons": {"strongs-1890": "strongs-hebrew:H7462", "bdb": ["bdb-hebrew:BDB7994", ...]},
+ "kjv": {"occurrences": 172, "verses": ["Gen.4.2", ...],
+         "renderings": {"feed": 55, "shepherds": 33, "shepherd": 28, ...}},
+ "parallels": {"Ps.23.1": {"vulgate": ["vulgate:Ps.22.1"], "douay": ["douay:Ps.22.1"]}, ...}}
+```
+
+- **`kjv.verses`** are the KJV verses whose tagged words carry the number, in canon
+  order. Their uids are in `concordance.jsonl`.
+- **`lexicons`** is the number's `witnesses.jsonl` row: citations into Strong's, BDB,
+  TBESG, LSJ and Thayer.
+- **`parallels`** lists only the verses whose number differs in the parallel Bible. A
+  verse not listed is the same verse in each (`vulgate:Gen.1.1`, `douay:Gen.1.1`). An
+  empty list means that Bible has no verse holding the text (Gen 49:32 in the
+  Clementine). The ids come from `convert_vulgate` and `convert_douay` (PR #9): each
+  unit's `kjv` target, read backwards, through `data/versification/vulgate-kjv.json`.
+
+What the view does not have yet:
+- **Thayer.** PR #7's entries (4,940 linked to Strong's) are built from OCR that lives
+  only on Adam's machine. The entry links are gitignored, so they are not on any branch.
+  The first local build fills the `thayer` lists, and cloud builds keep them after that.
+- **Brenton's Septuagint.** No Brenton text is in this repo. A Septuagint to KJV map
+  exists on branch `claude/happy-carson-m9ajwl` (`lxx-kjv.tsv`, CC BY-SA), which is
+  not a PR in this project. It wires in as a third parallel once it lands.

@@ -60,6 +60,26 @@
   "redistribute_whole": false,
   "source_url": "https://github.com/openscriptures/morphhb"
  },
+ "parallels": {
+  "douay": {
+   "kjv_verses_renumbered_or_split": 3043,
+   "kjv_verses_with_none": 7,
+   "units": 35805,
+   "units_without_kjv_verse": 4722,
+   "what": "Douay-Rheims, Challoner (PD), in the Vulgate's numbering, through the same map"
+  },
+  "not_yet": {
+   "brenton": "Brenton's Septuagint is not in this repo. A Septuagint->KJV map exists on branch claude/happy-carson-m9ajwl (data/versification/lxx-kjv.tsv, CC BY-SA), which is not a PR in this project; it wires in here once it lands."
+  },
+  "rule": "parallels.jsonl lists a KJV verse only where a parallel Bible does not hold it under the same number; [] = none of its verses does",
+  "vulgate": {
+   "kjv_verses_renumbered_or_split": 3024,
+   "kjv_verses_with_none": 2,
+   "units": 35809,
+   "units_without_kjv_verse": 4724,
+   "what": "Clementine Vulgate (1592, PD), through data/versification/vulgate-kjv.json"
+  }
+ },
  "schema": "wordhoard/strongs/v1",
  "sources": {
   "strongs-greek": {
@@ -192,6 +212,10 @@
   "proposed": 14197,
   "registered": 0,
   "status": "PROPOSED -- not in data/uids/; minting awaits Adam (CLAUDE.md 3b)"
+ },
+ "view": {
+  "file": "concordance-view.jsonl",
+  "row": "one per used Strong's number: lemma, definition, every lexicon entry (citations), every KJV verse and English rendering, and for each verse whose number differs, its Vulgate and Douay verse ids"
  },
  "witnesses": {
   "bdb": {
