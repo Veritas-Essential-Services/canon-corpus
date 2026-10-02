@@ -201,8 +201,11 @@
     },
     {
       "id": "latin-loebs-1930",
-      "status": "todo",
-      "scope": "Latin-facing Loebs published 1930 or earlier, now that Latin-facing is taken: Gummere's Seneca Epistles, Fairclough's Virgil, Miller's Metamorphoses, Showerman's Heroides, Bennett's Horace, Rolfe's Suetonius/Sallust/Gellius, Ker's Martial, others found; add to existing shelves"
+      "status": "done",
+      "scope": "Latin-facing Loebs published 1930 or earlier, now that Latin-facing is taken: Gummere's Seneca Epistles, Fairclough's Virgil, Miller's Metamorphoses, Showerman's Heroides, Bennett's Horace, Rolfe's Suetonius/Sallust/Gellius, Ker's Martial, others found; add to existing shelves",
+      "started": "2026-10-02T16:37:14-05:00",
+      "finished": "2026-10-02T16:48:27-05:00",
+      "notes": "61 Latin-facing Loeb volumes (1912-1930) on 20 shelves; Winstedt's Atticus taken from Gutenberg; refused: Livy v2 (1939 revised printing), Plautus v4-v5 (1932, 1938), Basore v3 (1935)"
     },
     {
       "id": "pending-volumes-hunt",

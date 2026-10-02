@@ -772,6 +772,10 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | Heroides (Canace, Helen, Dido); Ars I; Amores I.1, I.4 | Dryden | `dryden-ovid-epistles`, `dryden-ovid-art-of-love`, `dryden-ovid-amores` | cross-ref → Dryden shelf (lane C) |
 | Amores (All Ovid's Elegies) | Christopher Marlowe | — | pending: inside Marlowe's Works vol. 3 (PG 21262); belongs on a Marlowe shelf |
 | Metamorphoses | Brookes More (1922–33) | — | pending: only Book I (1922) is on IA; the complete text is not cleared |
+| Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v1` | have-raw (IA `metamorphoses01ovid`) |
+| Metamorphoses, vol. 2: Books IX-XV (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v2` | have-raw (IA `metamorphoseswit02oviduoft`) |
+| Heroides and Amores (Loeb, 1914) | Grant Showerman | `ovid-showerman-heroides-amores` | have-raw (IA `heroidesamores00ovid`) |
+| Tristia, Ex Ponto (Loeb, 1924) | Arthur Leslie Wheeler | `ovid-wheeler-tristia-ponto` | have-raw (IA `bwb_W9-CQC-386`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -795,6 +799,8 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | Aeneid | Dryden | `dryden-aeneid` | cross-ref → Dryden shelf (lane C) |
 | Georgics | Dryden | `dryden-georgics` | cross-ref → Dryden shelf (lane C) |
 | Eclogues | Dryden | `dryden-eclogues` | cross-ref → Dryden shelf (lane C) |
+| Virgil, vol. 1: Eclogues, Georgics, Aeneid I-VI (Loeb, 1916) | H. Rushton Fairclough | `virgil-fairclough-v1` | have-raw (IA `virgilwithenglis01virg`) |
+| Virgil, vol. 2: Aeneid VII-XII, Minor Poems (Loeb, 1918) | H. Rushton Fairclough | `virgil-fairclough-v2` | have-raw (IA `virgil0002hrus`) |
 
 Pending (wishlist): Theodore C. Williams's Georgics and Eclogues (1915), PD verse (his Aeneid is already built from Perseus); Christopher Pearse Cranch's Aeneid (1872); Gavin Douglas's Eneados (1513, Scots), a landmark witness.
 
@@ -1076,8 +1082,14 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | A Translation of Octavia, a Latin Tragedy | Elizabeth Twining Hall (play of doubtful authorship) | `seneca-hall-octavia` | have (PG 54702) |
 | Between Heathenism and Christianity: De Providentia (with Plutarch) | Charles W. Super (1899) | `seneca-super-providentia` | have (PG 60831) |
 | Apocolocyntosis | W. H. D. Rouse; US PD per Gutenberg | `seneca-rouse-apocolocyntosis` | have (PG 10001) |
+| Ad Lucilium Epistulae Morales, vol. 1 (Loeb, 1917) | Richard M. Gummere | `seneca-gummere-epistles-v1` | have-raw (IA `adluciliumepistu01seneuoft`) |
+| Ad Lucilium Epistulae Morales, vol. 2 (Loeb, 1920) | Richard M. Gummere | `seneca-gummere-epistles-v2` | have-raw (IA `adluciliumepistu02seneuoft`) |
+| Ad Lucilium Epistulae Morales, vol. 3 (Loeb, 1925) | Richard M. Gummere | `seneca-gummere-epistles-v3` | have-raw (IA `adluciliumepistu03seneuoft`) |
+| Moral Essays, vol. 1 (Loeb, 1928) | John W. Basore | `seneca-basore-moral-essays-v1` | have-raw (IA `moralessayswithe01seneuoft`) |
+| Tragedies, vol. 1 (Loeb, 1917) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v1` | have-raw (IA `tragedieswitheng01seneuoft`) |
+| Tragedies, vol. 2 (Loeb, 1917; this printing revised 1929) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v2` | have-raw (IA `tragedieswitheng02seneuoft`) |
 
-Pending (wishlist): Gummere's Moral Epistles (Loeb 1917-25, Latin facing); Thomas Lodge's Works (1614).
+Pending (wishlist): Thomas Lodge's Works (1614); Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
 Excluded: PG 59025 (index), PG 55705 (another Seneca, wrong author).
 
@@ -1094,6 +1106,7 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | Annals of Tacitus, translated into English with notes and maps (1906 printing) | A. J. Church and W. J. Brodribb | `tacitus-church-brodribb-annals` | have-raw (IA `annalstacitustr00brodgoog`) |
 | The History of Tacitus, translated into English (1894 printing) | A. J. Church and W. J. Brodribb | `tacitus-church-brodribb-histories` | have-raw (IA `historyoftacitus00taci`) |
 | — | — | `tacitus-annals` | cross-ref → Adler shelf: PG 7959, which is Thomas GORDON's 'The Reign of Tiberius, out of the First Six Annals' (ed. Galton), not Church and Brodribb's Annals as the Adler label says; the full Church-Brodribb Annals is now on this shelf |
+| Dialogus, Agricola, Germania (Loeb, 1914) | W. Peterson (Dialogus), M. Hutton (Agricola, Germania) | `tacitus-hutton-peterson-dialogus-agricola-germania` | have-raw (IA `dialogusagricola0000taci_n3b1`) |
 
 Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); Gordon's complete Tacitus (1728-31).
 
@@ -1110,8 +1123,11 @@ Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Ed
 | The History of Rome, Books XXVII-XXXVI | Cyrus Edmonds (Bohn) | `livy-bohn-27-36` | have (PG 12582) |
 | The History of Rome, Books XXXVII to the end, with the Epitomes and Fragments | W. A. McDevitte (Bohn) | `livy-bohn-37-end` | have (PG 44318) |
 | Roman History, Books I-III | A. J. Church and W. J. Brodribb, ed. Duffield Osborne | `livy-church-brodribb-1-3` | have (PG 10828) |
+| Livy, vol. 1: Books I-II (Loeb, 1919) | B. O. Foster | `livy-foster-v1` | have-raw (IA `livy0000bofo_o9g8`) |
+| Livy, vol. 4: Books VIII-X (Loeb, 1926) | B. O. Foster | `livy-foster-v4` | have-raw (IA `livywithenglisht04livyuoft`) |
+| Livy, vol. 5: Books XXI-XXII (Loeb, 1929) | B. O. Foster | `livy-foster-v5` | have-raw (IA `livy05livy`) |
 
-Pending (wishlist): Philemon Holland (1600); Foster's Loeb, early volumes.
+Pending (wishlist): Philemon Holland (1600); Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused) and vol. 3 (1924).
 
 ## Julius Caesar
 
@@ -1120,8 +1136,10 @@ Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five comment
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | 'De Bello Gallico' and Other Commentaries | W. A. McDevitte and W. S. Bohn | `caesar-mcdevitte-bohn` | have (PG 10657) |
+| The Gallic War (Loeb, 1917) | H. J. Edwards | `caesar-edwards-gallic-war` | have-raw (IA `gallicwar00caes`) |
+| The Civil Wars (Loeb, 1914) | A. G. Peskett | `caesar-peskett-civil-wars` | have-raw (IA `civilwarswitheng00caesuoft`) |
 
-Pending (wishlist): Arthur Golding's Caesar (1565); Edwards's Loeb Gallic War (1917).
+Pending (wishlist): Arthur Golding's Caesar (1565).
 
 ## Suetonius
 
@@ -1130,8 +1148,10 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Lives of the Twelve Caesars, complete | Alexander Thomson, rev. T. Forester | `suetonius-thomson-forester` | have (PG 6400) |
+| Suetonius, vol. 1 (Loeb, 1913) | J. C. Rolfe | `suetonius-rolfe-v1` | have-raw (IA `suetonius01suet`) |
+| Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
 
-Pending (wishlist): Philemon Holland (1606); Rolfe's Loeb (1914), on Perseus.
+Pending (wishlist): Philemon Holland (1606).
 
 Excluded: PG 6386-6399 (the same text split into 14 files).
 
@@ -1142,8 +1162,8 @@ Shelf: `pipeline/sallust_shelf.json`. Watson (Bohn). Not minted.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Conspiracy of Catiline and the Jugurthine War | J. S. Watson (Bohn) | `sallust-watson` | have (PG 7990) |
+| Sallust (Loeb, 1921) | J. C. Rolfe | `sallust-rolfe` | have-raw (IA `sallustsa00sall`) |
 
-Pending (wishlist): Rolfe's Loeb (1921), on Perseus.
 
 ## Pliny the Elder and the Younger
 
@@ -1159,6 +1179,8 @@ Shelf: `pipeline/pliny_shelf.json`. Bostock and Riley's Natural History, 6 vols.
 | The Natural History of Pliny, vol. 6 (of 6) | John Bostock and H. T. Riley (Bohn) | `pliny-elder-bostock-riley-v6` | have (PG 62704) |
 | Letters of Pliny | William Melmoth, rev. F. C. T. Bosanquet | `pliny-younger-melmoth-letters` | have (PG 2811) |
 | The Letters of the Younger Pliny, First Series, vol. 1 | John B. Firth | `pliny-younger-firth-letters-1` | have (PG 3234) |
+| Letters, vol. 1 (Loeb, 1915) | William Melmoth, revised by W. M. L. Hutchinson | `pliny-melmoth-hutchinson-letters-v1` | have-raw (IA `letterswithengli01plinuoft`) |
+| Letters, vol. 2 (Loeb, 1915) | William Melmoth, revised by W. M. L. Hutchinson | `pliny-melmoth-hutchinson-letters-v2` | have-raw (IA `letterswithengli02plinuoft`) |
 
 Pending (wishlist): Firth's remaining volume(s); Holland's Natural History (1601).
 
@@ -1191,8 +1213,9 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace, translated literally into English prose | unnamed ('Handy Literal Translations') | `horace-literal-works` | have (PG 14020) |
 | Echoes from the Sabine Farm | Eugene and Roswell Martin Field (free versions) | `horace-field-sabine-farm` | have (PG 13885) |
 | — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
+| Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
 
-Pending (wishlist): Bennett's and Fairclough's Loebs; Christopher Smart's prose (1756).
+Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Christopher Smart's prose (1756).
 
 ## Catullus
 
@@ -1202,8 +1225,8 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 |---|---|---|---|
 | The Poems and Fragments of Catullus translated in the metres of the original | Robinson Ellis (1871) | `catullus-ellis` | have (PG 18867) |
 | The Carmina of Caius Valerius Catullus | Sir Richard Burton (verse) and Leonard C. Smithers (prose) | `catullus-burton-smithers` | have (PG 20732) |
+| Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913) | F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium) | `catullus-tibullus-pervigilium-loeb` | have-raw (IA `catullustibullus00catu`) |
 
-Pending (wishlist): Cornish's Loeb (1913).
 
 Excluded: PG 23720 (serves a 404).
 
@@ -1226,8 +1249,8 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | The Satires of Juvenal, Persius, Sulpicia, and Lucilius | Lewis Evans (prose), with William Gifford's verse translation | `juvenal-persius-evans-gifford` | have (PG 50657) |
 | — | — | `dryden-juvenal` | cross-ref → Dryden shelf, lane C |
 | — | — | `dryden-persius` | cross-ref → Dryden shelf, lane C |
+| Juvenal and Persius (Loeb, 1918) | G. G. Ramsay | `juvenal-persius-ramsay` | have-raw (IA `juvenalpersiuswi00juveuoft`) |
 
-Pending (wishlist): Ramsay's Loeb (1918).
 
 ## Plautus and Terence
 
@@ -1242,8 +1265,11 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence's Andrian, a comedy in five acts | W. R. Goodluck | `terence-goodluck-andrian` | have (PG 72921) |
 | The Comedies of Plautus, vol. 1 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v1` | have-raw (IA `comediesofplautu01plauuoft`) |
 | The Comedies of Plautus, vol. 2 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v2` | have-raw (IA `comediesofplautu02plauuoft`) |
+| Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | have-raw (IA `plautus03plau`) |
+| Terence, vol. 1 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v1` | have-raw (IA `terence000ijohn`) |
+| Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
 
-Pending (wishlist): Nixon's Loeb Plautus; Thornton's verse Plautus (1767-74).
+Pending (wishlist): Nixon's Loeb Plautus vol. 2 (1917; no readable scan yet); Thornton's verse Plautus (1767-74).
 
 ## Lucan
 
@@ -1252,6 +1278,7 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Pharsalia; Dramatic Episodes of the Civil Wars | Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by collation | `lucan-ridley-pharsalia` | have (PG 602) |
+| Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 
 Pending (wishlist): Nicholas Rowe (1718); Marlowe's First Book (Marlowe shelf).
 
@@ -1263,6 +1290,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 |---|---|---|---|
 | The Golden Asse | William Adlington (1566) | `apuleius-adlington-golden-asse` | have (PG 1666) |
 | The Apologia and Florida of Apuleius of Madaura | H. E. Butler (1909) | `apuleius-butler-apologia-florida` | have (PG 26294) |
+| The Golden Ass, being the Metamorphoses of Lucius Apuleius (Loeb, 1915) | William Adlington (1566), revised by S. Gaselee | `apuleius-adlington-gaselee` | have-raw (IA `goldenassbeingme00apuliala`) |
 
 Pending (wishlist): Butler's Metamorphoses (1910).
 
@@ -1274,8 +1302,8 @@ Shelf: `pipeline/petronius_shelf.json`. Firebaugh's complete Satyricon (US PD pe
 |---|---|---|---|
 | The Satyricon, complete | W. C. Firebaugh; US PD per Gutenberg | `petronius-firebaugh-satyricon` | have (PG 5225) |
 | The Satyricon of Petronius Arbiter | William Burnaby | `petronius-burnaby-satyricon` | have (PG 5611) |
+| Petronius (Satyricon); Seneca, Apocolocyntosis (Loeb, 1913) | Michael Heseltine (Petronius), W. H. D. Rouse (Seneca) | `petronius-heseltine-seneca-rouse` | have-raw (IA `petronius00petruoft`) |
 
-Pending (wishlist): Heseltine's Loeb (1913).
 
 Excluded: PG 5218-5224 (Firebaugh split into seven files).
 
@@ -1317,6 +1345,14 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Letters of Cicero: the whole extant correspondence, vol. 2 (1899) | Evelyn S. Shuckburgh | `cicero-shuckburgh-letters-v2` | have-raw (IA `lettersofcicerow02cice`) |
 | The Letters of Cicero: the whole extant correspondence, vol. 3 (1899) | Evelyn S. Shuckburgh | `cicero-shuckburgh-letters-v3` | have-raw (IA `lettersofcicero03ciceuoft`) |
 | The Letters of Cicero: the whole extant correspondence, vol. 4 (1899) | Evelyn S. Shuckburgh | `cicero-shuckburgh-letters-v4` | have-raw (IA `lettersofcicerow04ciceuoft`) |
+| Cicero: Letters to Atticus, vols. 1-3 (Loeb) | E. O. Winstedt (Latin facing kept) | `cicero-winstedt-atticus-v1..v3` | have (PG 58418, 50692, 51403) |
+| The Letters to his Friends, vol. 1 (Loeb, 1927) | W. Glynn Williams | `cicero-williams-friends-v1` | have-raw (IA `letterstohisfrie01ciceuoft`) |
+| The Letters to his Friends, vol. 2 (Loeb, 1928) | W. Glynn Williams | `cicero-williams-friends-v2` | have-raw (IA `letterstohisfrie02ciceuoft`) |
+| The Letters to his Friends, vol. 3 (Loeb, 1929) | W. Glynn Williams | `cicero-williams-friends-v3` | have-raw (IA `letterstohisfrie03ciceuoft`) |
+| De Finibus Bonorum et Malorum (Loeb, 1914) | H. Rackham | `cicero-rackham-de-finibus` | have-raw (IA `definibusbonoru02cicegoog`) |
+| De Senectute, De Amicitia, De Divinatione (Loeb, 1923) | W. A. Falconer | `cicero-falconer-senectute-amicitia-divinatione` | have-raw (IA `cicerodesenectut0000will_n8p4`) |
+| Philippics (Loeb, 1926) | Walter C. A. Ker | `cicero-ker-philippics` | have-raw (IA `philippics00ciceuoft`) |
+| The Verrine Orations, vol. 1 (Loeb, 1928) | L. H. G. Greenwood | `cicero-greenwood-verrines-v1` | have-raw (IA `ciceroverrineora0001unse`) |
 
 Pending (wishlist): De Officiis (Cockman, Edmonds, Miller); Winstedt's Letters to Atticus (Loeb, Latin facing); Watson's Bohn De Oratore.
 
@@ -1689,8 +1725,8 @@ Shelf: `pipeline/martial_shelf.json`. Bohn prose translation, 1897 printing (IA,
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Epigrams of Martial, translated into English prose (Bohn; 1897 printing) | Bohn prose translation (anonymous), with verse renderings by various hands | `martial-bohn` | have-raw (IA `epigramsmartial00bohngoog`) |
-
-Pending (wishlist): Ker Loeb (1919-20)
+| Martial, Epigrams, vol. 1: Spectacles, Books I-VII (Loeb, 1919) | Walter C. A. Ker | `martial-ker-v1` | have-raw (IA `martialepigrams01martiala`) |
+| Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920) | Walter C. A. Ker | `martial-ker-v2` | have-raw (IA `martialepigrams02martiala`) |
 
 ## Statius
 
@@ -1746,8 +1782,11 @@ Shelf: `pipeline/gellius_shelf.json`. Beloe 1795, vols. 1 and 3 (IA, 0.84-0.86).
 |---|---|---|---|
 | The Attic Nights of Aulus Gellius, vol. 1 (1795) | William Beloe | `gellius-beloe-v1` | have-raw (IA `bub_gb_j3kBAAAAMAAJ`) |
 | The Attic Nights of Aulus Gellius, vol. 3 (1795) | William Beloe | `gellius-beloe-v3` | have-raw (IA `atticnightsaulu02gellgoog`) |
+| The Attic Nights of Aulus Gellius, vol. 1 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v1` | have-raw (IA `bwb_S0-AVN-133`) |
+| The Attic Nights of Aulus Gellius, vol. 2 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v2` | have-raw (IA `bwb_S0-AVN-132`) |
+| The Attic Nights of Aulus Gellius, vol. 3 (Loeb, 1927) | J. C. Rolfe | `gellius-rolfe-v3` | have-raw (IA `atticnightsofaul0003unse`) |
 
-Pending (wishlist): Beloe vol. 2 (no text layer); Rolfe Loeb (1927-28)
+Pending (wishlist): Beloe vol. 2 (no text layer)
 
 ## Ammianus Marcellinus
 
@@ -1806,6 +1845,7 @@ Shelf: `pipeline/roman-epitomators_shelf.json`. Watson's Bohn volumes 1852-53 (I
 |---|---|---|---|
 | Justin, Cornelius Nepos, and Eutropius (Bohn, 1853) | John Selby Watson | `justin-nepos-eutropius-watson` | have-raw (IA `justincorneliusn00watsuoft`) |
 | Sallust, Florus, and Velleius Paterculus (Bohn, 1852) | John Selby Watson | `sallust-florus-velleius-watson` | have-raw (IA `sallustflorusve00sall`) |
+| Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929) | E. S. Forster (Florus), J. C. Rolfe (Nepos) | `florus-forster-nepos-rolfe` | have-raw (IA `luciusannaeusflo0000unse`) |
 
 ## Justinian
 

@@ -1,5 +1,5 @@
 {
- "_about": "The minor Roman historians in J. S. Watson's Bohn translations, raw IA OCR: Justin, Cornelius Nepos and Eutropius (1853); and Sallust, Florus and Velleius Paterculus (1852), taken for Florus and Velleius (Watson's Sallust is already on the sallust shelf from Gutenberg).",
+ "_about": "The minor Roman historians in J. S. Watson's Bohn translations, raw IA OCR: Justin, Cornelius Nepos and Eutropius (1853); and Sallust, Florus and Velleius Paterculus (1852), taken for Florus and Velleius (Watson's Sallust is already on the sallust shelf from Gutenberg). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "justin",
   "nepos",
@@ -20,6 +20,11 @@
    "sallustflorusve00sall",
    "Sallust, Florus, and Velleius Paterculus (Bohn, 1852)",
    "tr. John Selby Watson"
+  ],
+  "florus-forster-nepos-rolfe": [
+   "luciusannaeusflo0000unse",
+   "Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929)",
+   "tr. E. S. Forster (Florus), J. C. Rolfe (Nepos)"
   ]
  }
 }
