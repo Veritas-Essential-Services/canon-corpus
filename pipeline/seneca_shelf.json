@@ -1,5 +1,5 @@
 {
- "_about": "Seneca in English, translator per title: Aubrey Stewart (Bohn: On Benefits; Minor Dialogues with On Clemency), Roger L'Estrange (Morals, 1678), John Clarke (Quaestiones Naturales as Physical Science in the Time of Nero, 1910), Frank Justus Miller (the Tragedies, verse, 1907), Ella Isabel Harris (Medea and Daughters of Troy), Elizabeth Twining Hall (Octavia, dubious), W. H. D. Rouse (Apocolocyntosis; Gutenberg clears it as US PD; Rouse d. 1950). All clean Gutenberg. Charles W. Super's De Providentia (1899, with Plutarch's De Sera Numinis Vindicta) added 2026-10-02.",
+ "_about": "Seneca in English, translator per title: Aubrey Stewart (Bohn: On Benefits; Minor Dialogues with On Clemency), Roger L'Estrange (Morals, 1678), John Clarke (Quaestiones Naturales as Physical Science in the Time of Nero, 1910), Frank Justus Miller (the Tragedies, verse, 1907), Ella Isabel Harris (Medea and Daughters of Troy), Elizabeth Twining Hall (Octavia, dubious), W. H. D. Rouse (Apocolocyntosis; Gutenberg clears it as US PD; Rouse d. 1950). All clean Gutenberg. Charles W. Super's De Providentia (1899, with Plutarch's De Sera Numinis Vindicta) added 2026-10-02. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "seneca",
   "annaeus"
@@ -52,11 +52,41 @@
    "tr. Charles W. Super (1899)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "seneca-gummere-epistles-v1": [
+   "adluciliumepistu01seneuoft",
+   "Ad Lucilium Epistulae Morales, vol. 1 (Loeb, 1917)",
+   "tr. Richard M. Gummere"
+  ],
+  "seneca-gummere-epistles-v2": [
+   "adluciliumepistu02seneuoft",
+   "Ad Lucilium Epistulae Morales, vol. 2 (Loeb, 1920)",
+   "tr. Richard M. Gummere"
+  ],
+  "seneca-gummere-epistles-v3": [
+   "adluciliumepistu03seneuoft",
+   "Ad Lucilium Epistulae Morales, vol. 3 (Loeb, 1925)",
+   "tr. Richard M. Gummere"
+  ],
+  "seneca-basore-moral-essays-v1": [
+   "moralessayswithe01seneuoft",
+   "Moral Essays, vol. 1 (Loeb, 1928)",
+   "tr. John W. Basore"
+  ],
+  "seneca-miller-loeb-tragedies-v1": [
+   "tragedieswitheng01seneuoft",
+   "Tragedies, vol. 1 (Loeb, 1917)",
+   "tr. Frank Justus Miller"
+  ],
+  "seneca-miller-loeb-tragedies-v2": [
+   "tragedieswitheng02seneuoft",
+   "Tragedies, vol. 2 (Loeb, 1917; this printing revised 1929)",
+   "tr. Frank Justus Miller"
+  ]
+ },
  "_excluded": {
   "pg59025": "an index page",
   "pg55705": "a different Seneca (a 20th-century outdoor writer): wrong author",
-  "R. M. Gummere, Ad Lucilium Epistulae Morales (Loeb, 1917-25)": "US PD by date but printed with the Latin facing; pending",
   "Thomas Lodge, Works (1614)": "PD; pending (IA)"
  }
 }
