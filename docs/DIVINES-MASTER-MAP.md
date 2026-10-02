@@ -1574,7 +1574,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Apologia and Florida of Apuleius of Madaura | H. E. Butler (1909) | `apuleius-butler-apologia-florida` | have (PG 26294) |
 | The Golden Ass, being the Metamorphoses of Lucius Apuleius (Loeb, 1915) | William Adlington (1566), revised by S. Gaselee | `apuleius-adlington-gaselee` | have-raw (IA `goldenassbeingme00apuliala`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
-Pending (wishlist): none known.
+| The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v2` | have-raw (IA `metamorphosesorg02apuluoft`) |
 
 Pending (wishlist): none known.
 
