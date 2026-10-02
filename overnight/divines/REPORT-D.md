@@ -201,3 +201,6 @@
 
 ## 2026-10-02 17:20 CDT — ozaki: done
 - 3/3 fetched (Gutenberg 4018, 41437, 45933), 3,587 units, 11 ~2 ids.
+
+## 2026-10-02 17:20 CDT — mitford: done
+- 1/1 fetched (Gutenberg 13015), 1,630 units, 7 ~2 ids; contents_only.

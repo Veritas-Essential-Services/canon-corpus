@@ -1,0 +1,22 @@
+{
+ "_about": "A. B. Mitford's (later Lord Redesdale, 1837-1916) Tales of Old Japan (1871): Japanese tales and legends he translated, with his own accounts of ceremonies. Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. B. Mitford (Lord Redesdale)",
+ "_name_words": [
+  "tales",
+  "japan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mitford-tales-of-old-japan": [
+   13015,
+   "Tales of Old Japan, tr. A. B. Mitford (1871)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "mitford-memoirs": "The Attache at Peking (PG 70467) and his Memories (76182-76184): memoir, not tales"
+ }
+}

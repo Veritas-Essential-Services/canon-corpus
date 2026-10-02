@@ -967,6 +967,15 @@ Shelf: `pipeline/ozaki_shelf.json` (2026-10-02; added at the coordinator's relay
 | Romances of Old Japan, rendered into English from Japanese sources by Yei Theodora Ozaki (1919; New York: Brentano's, 1920) | have | PG 45933, `ozaki-romances-of-old-japan` (1386 units) |
 | ozaki-other-japanese | excluded | Grace James's Japanese Fairy Tales (PG 35853, 1910) and Griffis's Japanese Fairy World (29337, 1880): other hands; candidates for a later batch |
 
+## A. B. Mitford (Tales of Old Japan)
+
+Shelf: `pipeline/mitford_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mitford's 1871 translations, with his notes on ceremonies, cut by the book's own Contents read leniently. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales of Old Japan, tr. A. B. Mitford (1871) | have | PG 13015, `mitford-tales-of-old-japan` (1630 units) |
+| mitford-memoirs | excluded | The Attache at Peking (PG 70467) and his Memories (76182-76184): memoir, not tales |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
