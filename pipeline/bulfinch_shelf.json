@@ -1,0 +1,36 @@
+{
+ "_about": "Thomas Bulfinch (1796-1867): the three books later bound as Bulfinch's Mythology — The Age of Fable (1855), The Age of Chivalry (1858), Legends of Charlemagne (1863) — held as three works, plus his Oregon and Eldorado (1866). Clean Gutenberg text; US public domain.",
+ "_author": "Thomas Bulfinch",
+ "_name_words": [
+  "thomas",
+  "bulfinch"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bulfinch-age-of-fable": [
+   4925,
+   "The Age of Fable, or Stories of Gods and Heroes (1855)"
+  ],
+  "bulfinch-age-of-chivalry": [
+   4926,
+   "The Age of Chivalry, or Legends of King Arthur (1858)"
+  ],
+  "bulfinch-legends-of-charlemagne": [
+   4927,
+   "Legends of Charlemagne, or Romance of the Middle Ages (1863)",
+   {
+    "contents_only": true
+   }
+  ],
+  "bulfinch-oregon-and-eldorado": [
+   38774,
+   "Oregon and Eldorado; or, Romance of the Rivers (1866)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "bulfinch-combined": "Bulfinch's Mythology in one file (PG 4928, 56644) and a second Age of Fable (PG 3327): the three books are held singly",
+  "bulfinch-gayley": "The Classic Myths in English Literature (PG 46063): Charles Mills Gayley's book based on Bulfinch, not Bulfinch's text",
+  "bulfinch-pending": "PENDING: Poetry of the Age of Fable (1863), Shakespeare Adapted for Reading Classes (1865), The Boy Inventor (1860) — Internet Archive scans not yet checked"
+ }
+}

@@ -83,8 +83,11 @@
     },
     {
       "id": "bulfinch",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Thomas Bulfinch: Age of Fable, Age of Chivalry, Legends of Charlemagne (Bulfinch's Mythology); shelf + fetch + convert + map section; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Thomas Bulfinch: Age of Fable, Age of Chivalry, Legends of Charlemagne (Bulfinch's Mythology); shelf + fetch + convert + map section; no minting",
+      "started": "2026-10-02T15:46:32-05:00",
+      "finished": "2026-10-02T15:46:32-05:00",
+      "notes": "4/4 fetched (0 CCEL, 4 Gutenberg, 0 IA raw), 2.7 MB, 0 failed, 0 copyright markers; 7772 units converted. Age of Fable, Age of Chivalry and Legends of Charlemagne held as three works, plus Oregon and Eldorado. No uids minted; not in manifest."
     },
     {
       "id": "pyle",
