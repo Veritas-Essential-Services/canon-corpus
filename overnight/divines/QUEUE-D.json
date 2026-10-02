@@ -3,8 +3,9 @@
   "items": [
     {
       "id": "lang",
-      "status": "todo",
-      "scope": "STORYTELLERS — Andrew Lang, all public-domain works (Coloured Fairy Books, poetry, folklore, histories, Homer trans.); shelf + fetch + map section"
+      "status": "running",
+      "scope": "STORYTELLERS — Andrew Lang, all public-domain works (Coloured Fairy Books, poetry, folklore, histories, Homer trans.); shelf + fetch + map section",
+      "started": "2026-10-02T15:12:27-05:00"
     },
     {
       "id": "lamb",
