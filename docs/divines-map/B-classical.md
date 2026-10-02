@@ -392,6 +392,97 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Plutarch's Lives, translated from the original Greek, vol. 5 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v5` | have-raw (IA `livestranslatedf05plutuoft`) |
 | Plutarch's Lives, translated from the original Greek, vol. 6 (1813 printing) | John and William Langhorne (1770) | `plutarch-langhorne-lives-v6` | have-raw (IA `livestranslatedf06plutuoft`) |
 | — | — | `plutarch-lives` | cross-ref → Adler shelf: PG 674, the Dryden-and-others translation revised by A. H. Clough (1859); Adler labels it 'tr. Dryden/Clough' |
+| A discourse to an unlearned prince | John Kersey | `plutarch-perseus-kersey-a-discourse-to-an-unlearned-prince` | have (Perseus TEI `tlg0007.tlg116.perseus-eng4`; markup CC BY-SA 4.0) |
+| Against Colotes, the Disciple and Favorite of Epicurus. | A. G. | `plutarch-perseus-g-against-colotes-the-disciple-and-favorit` | have (Perseus TEI `tlg0007.tlg140.perseus-eng2`; markup CC BY-SA 4.0) |
+| Five Tragical Histories of Love | A.I. | `plutarch-perseus-ai-five-tragical-histories-of-love` | have (Perseus TEI `tlg0007.tlg114.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Love. | John Philips | `plutarch-perseus-philips-of-love` | have (Perseus TEI `tlg0007.tlg113.perseus-eng2`; markup CC BY-SA 4.0) |
+| Whether 'Twere Rightly Said, Live Concealed. | Charles Whitaker | `plutarch-perseus-whitaker-whether-twere-rightly-said-live-conceale` | have (Perseus TEI `tlg0007.tlg141.perseus-eng2`; markup CC BY-SA 4.0) |
+| That Virtue May Be Taught | John Patrick | `plutarch-perseus-patrick-that-virtue-may-be-taught` | have (Perseus TEI `tlg0007.tlg093.perseus-eng4`; markup CC BY-SA 4.0) |
+| Whether an Aged Man Ought to Meddle in State Affairs. | F. Fetherston | `plutarch-perseus-fetherston-whether-an-aged-man-ought-to-meddle-in-s` | have (Perseus TEI `tlg0007.tlg117.perseus-eng4`; markup CC BY-SA 4.0) |
+| Whether vice is sufficient to render a man unhappy | Samuel White | `plutarch-perseus-white-whether-vice-is-sufficient-to-render-a-m` | have (Perseus TEI `tlg0007.tlg099.perseus-eng4`; markup CC BY-SA 4.0) |
+| Whether the Passions of the Soul or Diseases of the Body Are Worse | Samuel White | `plutarch-perseus-white-whether-the-passions-of-the-soul-or-dise` | have (Perseus TEI `tlg0007.tlg100.perseus-eng4`; markup CC BY-SA 4.0) |
+| Laconic Apophthegms; or Remarkable Sayings of the Spartans. | unnamed (as in the Perseus header) | `plutarch-perseus-anon-laconic-apophthegms-or-remarkable-saying` | have (Perseus TEI `tlg0007.tlg082.perseus-eng4`; markup CC BY-SA 4.0) |
+| Whether water or fire be most useful. | F. Fetherston | `plutarch-perseus-fetherston-whether-water-or-fire-be-most-useful` | have (Perseus TEI `tlg0007.tlg128.perseus-eng4`; markup CC BY-SA 4.0) |
+| That brute beasts make use of reason | Sir A. J. | `plutarch-perseus-j-that-brute-beasts-make-use-of-reason` | have (Perseus TEI `tlg0007.tlg130.perseus-eng4`; markup CC BY-SA 4.0) |
+| An Abstract of a Comparison Betwixt Aristophanes and Menander | William Baxter | `plutarch-perseus-baxter-an-abstract-of-a-comparison-betwixt-aris` | have (Perseus TEI `tlg0007.tlg122.perseus-eng4`; markup CC BY-SA 4.0) |
+| A breviate of a discourse, showing that the Stoics speak greater improbabilities than the poets. | William Baxter | `plutarch-perseus-baxter-a-breviate-of-a-discourse-showing-that-t` | have (Perseus TEI `tlg0007.tlg137.perseus-eng2`; markup CC BY-SA 4.0) |
+| Advice to Bride and Groom | Frank Cole Babbitt | `plutarch-perseus-babbitt-advice-to-bride-and-groom` | have (Perseus TEI `tlg0007.tlg078.perseus-eng3`; markup CC BY-SA 4.0) |
+| Conjugal Precepts | John Philips | `plutarch-perseus-philips-conjugal-precepts` | have (Perseus TEI `tlg0007.tlg078.perseus-eng4`; markup CC BY-SA 4.0) |
+| Plutarch's Consolatory Letter to His Wife | Thomas Creech | `plutarch-perseus-creech-plutarch-s-consolatory-letter-to-his-wif` | have (Perseus TEI `tlg0007.tlg111.perseus-eng2`; markup CC BY-SA 4.0) |
+| A Letter of Condolence to Apollonius | Frank Cole Babbitt | `plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius` | have (Perseus TEI `tlg0007.tlg076.perseus-eng3`; markup CC BY-SA 4.0) |
+| Consolation to Apollonius | Matthew Morgan | `plutarch-perseus-morgan-consolation-to-apollonius` | have (Perseus TEI `tlg0007.tlg076.perseus-eng4`; markup CC BY-SA 4.0) |
+| Concerning the fortune or virtue of Alexander the Great. | John Phillips | `plutarch-perseus-phillips-concerning-the-fortune-or-virtue-of-alex` | have (Perseus TEI `tlg0007.tlg087.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Natural Affection Towards One's Offspring | R. Brown | `plutarch-perseus-brown-of-natural-affection-towards-one-s-offsp` | have (Perseus TEI `tlg0007.tlg098.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of the Love of Wealth | John Patrick | `plutarch-perseus-patrick-of-the-love-of-wealth` | have (Perseus TEI `tlg0007.tlg103.perseus-eng2`; markup CC BY-SA 4.0) |
+| Why the Oracles Cease to Give Answers | Robert Midgley | `plutarch-perseus-midgley-why-the-oracles-cease-to-give-answers` | have (Perseus TEI `tlg0007.tlg092.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of the word ΕΙ engraven over the gate of Apollo's temple at Delphi | R. Kippax | `plutarch-perseus-kippax-of-the-word-engraven-over-the-gate-of-ap` | have (Perseus TEI `tlg0007.tlg090.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of the Face Appearing Within the Orb Of the Moon | A.G. | `plutarch-perseus-ag-of-the-face-appearing-within-the-orb-of` | have (Perseus TEI `tlg0007.tlg126.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Fate. | A. G. | `plutarch-perseus-g-of-fate` | have (Perseus TEI `tlg0007.tlg108.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of Garrulity, or Talkativeness | John Philips | `plutarch-perseus-philips-of-garrulity-or-talkativeness` | have (Perseus TEI `tlg0007.tlg101.perseus-eng4`; markup CC BY-SA 4.0) |
+| A Discourse Concerning Socrates's Daemon | Thomas Creech | `plutarch-perseus-creech-a-discourse-concerning-socrates-s-daemon` | have (Perseus TEI `tlg0007.tlg109.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of Herodotus's Malice. | A. G. | `plutarch-perseus-g-of-herodotus-s-malice` | have (Perseus TEI `tlg0007.tlg123.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of Envy and Hatred | P. Lancaster | `plutarch-perseus-lancaster-of-envy-and-hatred` | have (Perseus TEI `tlg0007.tlg105.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of Isis and Osiris, or of the Ancient Religion and Philosophy of Egypt. | William Baxter | `plutarch-perseus-baxter-of-isis-and-osiris-or-of-the-ancient-rel` | have (Perseus TEI `tlg0007.tlg089.perseus-eng4`; markup CC BY-SA 4.0) |
+| Wherefore the Pythian Priestess now Ceases to Deliver her Oracles in Verse | John Philips | `plutarch-perseus-philips-wherefore-the-pythian-priestess-now-ceas` | have (Perseus TEI `tlg0007.tlg091.perseus-eng4`; markup CC BY-SA 4.0) |
+| How a Man May Inoffensively Praise Himself Without Being Liable to Envy | P. Lancaster | `plutarch-perseus-lancaster-how-a-man-may-inoffensively-praise-himse` | have (Perseus TEI `tlg0007.tlg106.perseus-eng2`; markup CC BY-SA 4.0) |
+| Concerning Such Whom God is Slow to Punish | John Philips | `plutarch-perseus-philips-concerning-such-whom-god-is-slow-to-puni` | have (Perseus TEI `tlg0007.tlg107.perseus-eng2`; markup CC BY-SA 4.0) |
+| The contradictions of the Stoics | E. Smith | `plutarch-perseus-smith-the-contradictions-of-the-stoics` | have (Perseus TEI `tlg0007.tlg136.perseus-eng2`; markup CC BY-SA 4.0) |
+| Superstition | Frank Cole Babbitt | `plutarch-perseus-babbitt-superstition` | have (Perseus TEI `tlg0007.tlg080.perseus-eng3`; markup CC BY-SA 4.0) |
+| Of Superstition, or Indiscreet Devotion | William Baxter | `plutarch-perseus-baxter-of-superstition-or-indiscreet-devotion` | have (Perseus TEI `tlg0007.tlg080.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of the Tranquillity of the Mind. | Matthew Morgan | `plutarch-perseus-morgan-of-the-tranquillity-of-the-mind` | have (Perseus TEI `tlg0007.tlg096.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Moral Virtue | Matthew Morgan | `plutarch-perseus-morgan-of-moral-virtue` | have (Perseus TEI `tlg0007.tlg094.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Bashfulness | Thomas Hoy | `plutarch-perseus-hoy-of-bashfulness` | have (Perseus TEI `tlg0007.tlg104.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Having Many Friends | Frank Cole Babbitt | `plutarch-perseus-babbitt-on-having-many-friends` | have (Perseus TEI `tlg0007.tlg073.perseus-eng3`; markup CC BY-SA 4.0) |
+| Of Large Acquaintance: or, an Essay to Prove the Folly of Seeking Many Friends | William W. Goodwin | `plutarch-perseus-goodwin-of-large-acquaintance-or-an-essay-to-pro` | have (Perseus TEI `tlg0007.tlg073.perseus-eng4`; markup CC BY-SA 4.0) |
+| Concerning the procreation of the soul as discoursed in Timaeus | John Philips | `plutarch-perseus-philips-concerning-the-procreation-of-the-soul-a` | have (Perseus TEI `tlg0007.tlg134.perseus-eng2`; markup CC BY-SA 4.0) |
+| How To Profit By One's Enemies | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies` | have (Perseus TEI `tlg0007.tlg072.perseus-eng3`; markup CC BY-SA 4.0) |
+| How a man may receive advantage and profit from his enemies. | John Hartcliffe | `plutarch-perseus-hartcliffe-how-a-man-may-receive-advantage-and-prof` | have (Perseus TEI `tlg0007.tlg072.perseus-eng4`; markup CC BY-SA 4.0) |
+| Concerning the cure of anger: a dialogue | William Dillingham | `plutarch-perseus-dillingham-concerning-the-cure-of-anger-a-dialogue` | have (Perseus TEI `tlg0007.tlg095.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of common conceptions, against the Stoics. | Samuel White | `plutarch-perseus-white-of-common-conceptions-against-the-stoics` | have (Perseus TEI `tlg0007.tlg138.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of Curiosity, or an Over-Busy Inquisitiveness into Things Impertinent. | Maurice Wheeler | `plutarch-perseus-wheeler-of-curiosity-or-an-over-busy-inquisitive` | have (Perseus TEI `tlg0007.tlg102.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of eating of flesh: Tract I. | William Baxter | `plutarch-perseus-baxter-of-eating-of-flesh-tract-i` | have (Perseus TEI `tlg0007.tlg131.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of eating of flesh: Tract II. | William Baxter | `plutarch-perseus-baxter-of-eating-of-flesh-tract-ii` | have (Perseus TEI `tlg0007.tlg132.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Banishment, or Flying One's Country. | John Patrick | `plutarch-perseus-patrick-of-banishment-or-flying-one-s-country` | have (Perseus TEI `tlg0007.tlg110.perseus-eng2`; markup CC BY-SA 4.0) |
+| Chance | Frank Cole Babbitt | `plutarch-perseus-babbitt-chance` | have (Perseus TEI `tlg0007.tlg074.perseus-eng3`; markup CC BY-SA 4.0) |
+| Of Fortune | William Baxter | `plutarch-perseus-baxter-of-fortune` | have (Perseus TEI `tlg0007.tlg074.perseus-eng4`; markup CC BY-SA 4.0) |
+| Concerning the fortune of the Romans | John Oswald | `plutarch-perseus-oswald-concerning-the-fortune-of-the-romans` | have (Perseus TEI `tlg0007.tlg086.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of Brotherly Love | John Thomson | `plutarch-perseus-thomson-of-brotherly-love` | have (Perseus TEI `tlg0007.tlg097.perseus-eng4`; markup CC BY-SA 4.0) |
+| Whether the Athenians Were More Renowned For Their Warlike Achievements or For Their Learning | R. Smith | `plutarch-perseus-smith-whether-the-athenians-were-more-renowned` | have (Perseus TEI `tlg0007.tlg088.perseus-eng4`; markup CC BY-SA 4.0) |
+| The Education of Children | Frank Cole Babbitt | `plutarch-perseus-babbitt-the-education-of-children` | have (Perseus TEI `tlg0007.tlg067.perseus-eng3`; markup CC BY-SA 4.0) |
+| A Discourse Touching the Training of Children | Simon Ford | `plutarch-perseus-ford-a-discourse-touching-the-training-of-chi` | have (Perseus TEI `tlg0007.tlg067.perseus-eng4`; markup CC BY-SA 4.0) |
+| Concerning the First Principle of Cold | F. Fetherston | `plutarch-perseus-fetherston-concerning-the-first-principle-of-cold` | have (Perseus TEI `tlg0007.tlg127.perseus-eng4`; markup CC BY-SA 4.0) |
+| On Listening to Lectures | Frank Cole Babbitt | `plutarch-perseus-babbitt-on-listening-to-lectures` | have (Perseus TEI `tlg0007.tlg069.perseus-eng3`; markup CC BY-SA 4.0) |
+| Of Hearing | Thomas Hoy | `plutarch-perseus-hoy-of-hearing` | have (Perseus TEI `tlg0007.tlg069.perseus-eng4`; markup CC BY-SA 4.0) |
+| Which are the most crafty, water-animals or those creatures that breed upon the land? | John Philips | `plutarch-perseus-philips-which-are-the-most-crafty-water-animals` | have (Perseus TEI `tlg0007.tlg129.perseus-eng4`; markup CC BY-SA 4.0) |
+| Advice About Keeping Well | Frank Cole Babbitt | `plutarch-perseus-babbitt-advice-about-keeping-well` | have (Perseus TEI `tlg0007.tlg077.perseus-eng3`; markup CC BY-SA 4.0) |
+| Plutarch's Rules for the Preservation of Health | Matthew Poole | `plutarch-perseus-poole-plutarch-s-rules-for-the-preservation-of` | have (Perseus TEI `tlg0007.tlg077.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of the Three Sorts of Government, Monarchy, Democracy, and Oligarchy. | R. Smith | `plutarch-perseus-smith-of-the-three-sorts-of-government-monarch` | have (Perseus TEI `tlg0007.tlg119.perseus-eng4`; markup CC BY-SA 4.0) |
+| Virtue and Vice | Frank Cole Babbitt | `plutarch-perseus-babbitt-virtue-and-vice` | have (Perseus TEI `tlg0007.tlg075.perseus-eng3`; markup CC BY-SA 4.0) |
+| Of Virtue and Vice | William Baxter | `plutarch-perseus-baxter-of-virtue-and-vice` | have (Perseus TEI `tlg0007.tlg075.perseus-eng4`; markup CC BY-SA 4.0) |
+| Against Running in Debt, or Taking up Money Upon Usury | R. Smith | `plutarch-perseus-smith-against-running-in-debt-or-taking-up-mon` | have (Perseus TEI `tlg0007.tlg120.perseus-eng4`; markup CC BY-SA 4.0) |
+| That a Philosopher Ought Chiefly to Converse with Great Men | Knightly Chetwood | `plutarch-perseus-chetwood-that-a-philosopher-ought-chiefly-to-conv` | have (Perseus TEI `tlg0007.tlg115.perseus-eng4`; markup CC BY-SA 4.0) |
+| Concerning the Virtues of Women | Isaac Chauncy | `plutarch-perseus-chauncy-concerning-the-virtues-of-women` | have (Perseus TEI `tlg0007.tlg083.perseus-eng4`; markup CC BY-SA 4.0) |
+| That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus | William Baxter | `plutarch-perseus-baxter-that-it-is-not-possible-to-live-pleasura` | have (Perseus TEI `tlg0007.tlg139.perseus-eng2`; markup CC BY-SA 4.0) |
+| Parallels, or a comparison between the Greek and Roman Histories. | John Oswald | `plutarch-perseus-oswald-parallels-or-a-comparison-between-the-gr` | have (Perseus TEI `tlg0007.tlg085.perseus-eng4`; markup CC BY-SA 4.0) |
+| Plutarch's Platonic questions | R. Brown | `plutarch-perseus-brown-plutarch-s-platonic-questions` | have (Perseus TEI `tlg0007.tlg133.perseus-eng2`; markup CC BY-SA 4.0) |
+| Political Precepts | Samuel White | `plutarch-perseus-white-political-precepts` | have (Perseus TEI `tlg0007.tlg118.perseus-eng4`; markup CC BY-SA 4.0) |
+| Symposiacs | Thomas Creech | `plutarch-perseus-creech-symposiacs` | have (Perseus TEI `tlg0007.tlg112.perseus-eng2`; markup CC BY-SA 4.0) |
+| Greek Questions | Isaac Chauncy | `plutarch-perseus-chauncy-greek-questions` | have (Perseus TEI `tlg0007.tlg084b.perseus-eng4`; markup CC BY-SA 4.0) |
+| Plutarch's Natural Questions | R. Brown | `plutarch-perseus-brown-plutarch-s-natural-questions` | have (Perseus TEI `tlg0007.tlg125.perseus-eng2`; markup CC BY-SA 4.0) |
+| Roman Questions | Isaac Chauncy | `plutarch-perseus-chauncy-roman-questions` | have (Perseus TEI `tlg0007.tlg084a.perseus-eng4`; markup CC BY-SA 4.0) |
+| How the Young Man Should Study Poetry | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-the-young-man-should-study-poetry` | have (Perseus TEI `tlg0007.tlg068.perseus-eng3`; markup CC BY-SA 4.0) |
+| How a Young Man Ought to Hear Poems | Simon Ford | `plutarch-perseus-ford-how-a-young-man-ought-to-hear-poems` | have (Perseus TEI `tlg0007.tlg068.perseus-eng4`; markup CC BY-SA 4.0) |
+| How to Tell a Flatterer from a Friend | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend` | have (Perseus TEI `tlg0007.tlg070.perseus-eng3`; markup CC BY-SA 4.0) |
+| How to Know a Flatterer from a Friend | George Tullie | `plutarch-perseus-tullie-how-to-know-a-flatterer-from-a-friend` | have (Perseus TEI `tlg0007.tlg070.perseus-eng4`; markup CC BY-SA 4.0) |
+| How a Man May Become Aware of His Progress in Virtue | Frank Cole Babbitt | `plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre` | have (Perseus TEI `tlg0007.tlg071.perseus-eng3`; markup CC BY-SA 4.0) |
+| How a Man May Be Sensible of His Progress in Virtue. | Hugh Tod(d) | `plutarch-perseus-todd-how-a-man-may-be-sensible-of-his-progres` | have (Perseus TEI `tlg0007.tlg071.perseus-eng4`; markup CC BY-SA 4.0) |
+| The apophthegms or remarkable sayings of kings and great commanders. | Edward Hinton | `plutarch-perseus-hinton-the-apophthegms-or-remarkable-sayings-of` | have (Perseus TEI `tlg0007.tlg081.perseus-eng4`; markup CC BY-SA 4.0) |
+| The Dinner of the Seven Wise Men | Frank Cole Babbitt | `plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men` | have (Perseus TEI `tlg0007.tlg079.perseus-eng3`; markup CC BY-SA 4.0) |
+| The Banquet of the Seven Wise Men | Roger Davis | `plutarch-perseus-davis-the-banquet-of-the-seven-wise-men` | have (Perseus TEI `tlg0007.tlg079.perseus-eng4`; markup CC BY-SA 4.0) |
+| Lives of the Ten Orators | Charles Barcroft | `plutarch-perseus-barcroft-lives-of-the-ten-orators` | have (Perseus TEI `tlg0007.tlg121.perseus-eng4`; markup CC BY-SA 4.0) |
+| Of the Names of Rivers and Mountains, and of Such Things as are to be Found Therein | R. White | `plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and` | have (Perseus TEI `tlg0094.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| Concerning music | John Philips | `plutarch-perseus-philips-concerning-music` | have (Perseus TEI `tlg0094.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Of Those Sentiments Concerning Nature with which Philosophers were Delighted | John Dowell | `plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi` | have (Perseus TEI `tlg0094.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Philemon Holland's complete Morals (1603) in a cleaner copy; Perrin's and Babbitt's Loebs, on Perseus.
 
