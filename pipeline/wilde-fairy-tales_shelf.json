@@ -1,0 +1,30 @@
+{
+ "_about": "Oscar Wilde's (1854-1900) two books of fairy tales, as the relay asked: The Happy Prince and Other Tales (1888) and A House of Pomegranates (1891). His plays, novel, poems and essays are outside the storytellers shelf. Clean Gutenberg text; public domain.",
+ "_author": "Oscar Wilde",
+ "_name_words": [
+  "oscar",
+  "wilde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wilde-happy-prince": [
+   902,
+   "The Happy Prince, and Other Tales (1888)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wilde-house-of-pomegranates": [
+   873,
+   "A House of Pomegranates (1891)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "wilde-duplicates": "other transcriptions of The Happy Prince (PG 23937, 30120 ill. Charles Robinson)",
+  "wilde-not-this-shelf": "his plays, The Picture of Dorian Gray, the poems, essays and Lord Arthur Savile's Crime: outside the storytellers shelf unless Adam widens it"
+ }
+}

@@ -119,3 +119,6 @@
 
 ## 2026-10-02 16:31 CDT — ruskin-golden-river: done
 - 1/1 fetched (Gutenberg 33673, Ginn 1885 with Doyle's pictures), 0 copyright markers; 248 units by chapter, 0 duplicate ids. No uids minted; not in manifest.
+
+## 2026-10-02 16:32 CDT — wilde-fairy-tales: done
+- 2/2 fetched (Gutenberg), 0 copyright markers; 1,006 units, all 9 tales found as headings, 0 duplicate ids. No uids minted; not in manifest.
