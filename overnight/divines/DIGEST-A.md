@@ -16,7 +16,7 @@ Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-d
 | Jonathan Edwards (gap audit) | edwards_shelf.json | unchanged | +6 first editions/early printings | Distinguishing Marks 1741, Humble Attempt 1747, Freedom of Will 1754 | Yale-only texts |
 | Aquinas Summa (census) | none needed | the whole Summa is already held | | | |
 
-About 150 titles fetched this burn. None are minted: **every new slug awaits your single-writer uid pass.**
+126 items fetched this burn (120 for the six authors, 6 Edwards gaps), about 93 MB. None are minted: **every new slug awaits your single-writer uid pass.**
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
