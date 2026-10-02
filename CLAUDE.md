@@ -133,7 +133,8 @@ The living truth for project state is the Obsidian vault:
   BY-SA 4.0 (share-alike) -- each book carries a `rights` block saying so.
   Birds is NOT taken: Perseus's English is a 1938 Random House compilation.
 - Perseus PROSE (2026-10-02): Herodotus (Godley), Thucydides (Crawley),
-  Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller).
+  Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller), and
+  Plutarch's Parallel Lives, all 66 pieces (Perrin), one book per Life.
   convert_tei_prose: one unit per innermost textpart div, id = born-in
   book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
   Footnotes under `apparatus.notes`, headings between divisions under

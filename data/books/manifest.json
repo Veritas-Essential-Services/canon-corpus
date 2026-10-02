@@ -2451,5 +2451,1325 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "plutarch-aemilius-paulus-perrin": {
+  "title": "Aemilius Paulus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "ef48c8e46f2d3ef939db0f75c9612c86fad1b4d44cc00ef01e9213d80a98e157",
+  "units": 319,
+  "scheme": {
+   "citation": "Plut. Aemilius Paulus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 31 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-agesilaus-perrin": {
+  "title": "Agesilaus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "6e6da97fb44e29d5af0d11845a0e67193d74ba0c85644cde73bc7aa98fd00073",
+  "units": 201,
+  "scheme": {
+   "citation": "Plut. Agesilaus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 95 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-agis-cleomenes-perrin": {
+  "title": "Agis and Cleomenes",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "769176e69b679a62679cda6ae8c7eb1eb295b33856ec609a06fc5a2c97e25d4a",
+  "units": 245,
+  "scheme": {
+   "citation": "Plut. Agis and Cleomenes book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 42 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-alcibiades-perrin": {
+  "title": "Alcibiades",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "3cc12af357d1881e4132e1c0590ad7e3a2745cb7d45084337ecff2ad9fcf5056",
+  "units": 187,
+  "scheme": {
+   "citation": "Plut. Alcibiades chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 71 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-alexander-perrin": {
+  "title": "Alexander",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "a8aaa9c4062b508b717195b25a2dcb222fb40939f8c7fb81efb22959b775126f",
+  "units": 377,
+  "scheme": {
+   "citation": "Plut. Alexander chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 124 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-antony-perrin": {
+  "title": "Antony",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "364e99f8bafeff173dac864df4145f0ddd5b41ca7c0d1974e74c3e10ae70189d",
+  "units": 359,
+  "scheme": {
+   "citation": "Plut. Antony chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 61 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-aratus-perrin": {
+  "title": "Aratus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "15cf8805498e885118ae194585f32a47ca669f096649d39bd8aeb5c855930b13",
+  "units": 232,
+  "scheme": {
+   "citation": "Plut. Aratus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 47 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-aristides-perrin": {
+  "title": "Aristides",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "b9ff37a57dfdc66da6bc7342b1c1776146f93ed27beb01267f5836bab92ffde6",
+  "units": 146,
+  "scheme": {
+   "citation": "Plut. Aristides chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 25 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-artaxerxes-perrin": {
+  "title": "Artaxerxes",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "ad2cdf01ca07ee9858967f69d33916bda4da7f4996e709b4627e5c28ac88c82e",
+  "units": 140,
+  "scheme": {
+   "citation": "Plut. Artaxerxes chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 30 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-brutus-perrin": {
+  "title": "Brutus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "bf70cc86f6b9ed15570104ed7f47b1fcea64f512adb2f6b768c1f7627561def1",
+  "units": 400,
+  "scheme": {
+   "citation": "Plut. Brutus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 47 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-caesar-perrin": {
+  "title": "Caesar",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "c9a4ecd404c2e33710906273a027f2e8b384dc74371e9c09006fc02e5d0dc641",
+  "units": 288,
+  "scheme": {
+   "citation": "Plut. Caesar chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 113 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-caius-marcius-coriolanus-perrin": {
+  "title": "Caius Marcius Coriolanus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "2909cf198eb8568d39a65300582a582c7496cc82f62a7f1a222612a3a13a37a2",
+  "units": 165,
+  "scheme": {
+   "citation": "Plut. Caius Marcius Coriolanus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 50 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-caius-marius-perrin": {
+  "title": "Caius Marius",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "6c583c11313b78708a65918c894164c94f50c43d119c1723b45d720eb15274a5",
+  "units": 234,
+  "scheme": {
+   "citation": "Plut. Caius Marius chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 42 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-camillus-perrin": {
+  "title": "Camillus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "0c209bf2b0d0ffdf4cf4ed4e4ce2910de88f4595810ca167b43a593002e72829",
+  "units": 192,
+  "scheme": {
+   "citation": "Plut. Camillus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 8 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-cato-the-younger-perrin": {
+  "title": "Cato the Younger",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "92f47222c81ca8ce751477240c600d4375248768b213c20483ddd453ec4b8231",
+  "units": 318,
+  "scheme": {
+   "citation": "Plut. Cato the Younger chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 77 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-cicero-perrin": {
+  "title": "Cicero",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "5865c1542455bb59e29d8786651542c982f94a8ec7009ec61fe2ed08cd21c828",
+  "units": 227,
+  "scheme": {
+   "citation": "Plut. Cicero chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 102 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-cimon-perrin": {
+  "title": "Cimon",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "206b907806d4efacc5f05a03b53b089b0f06b51802027ebd21a1b7d7fd8a7d9c",
+  "units": 109,
+  "scheme": {
+   "citation": "Plut. Cimon chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 22 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-agesilaus-pompey-perrin": {
+  "title": "Comparison of Agesilaus and Pompey",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "e71e7a004ea3e66efd095817b8ace6f42c6621b66868b67314df77fb6971e519",
+  "units": 20,
+  "scheme": {
+   "citation": "Plut. Comparison of Agesilaus and Pompey chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-agis-cleomenes-the-gracchi-perrin": {
+  "title": "Comparison of Agis and Cleomenes and the Gracchi",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "43d664553f3f4e14c2d927f201d283a81ec5ec3f518b1a342c1fcd14e2e52157",
+  "units": 19,
+  "scheme": {
+   "citation": "Plut. Comparison of Agis and Cleomenes and the Gracchi chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 3 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-alcibiades-coriolanus-perrin": {
+  "title": "Comparison of Alcibiades and Coriolanus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "9b2aa068b21de92ee60a6afc023df0da416a82fe7ff8e28d87618fd2c7817953",
+  "units": 22,
+  "scheme": {
+   "citation": "Plut. Comparison of Alcibiades and Coriolanus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 4 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-aristides-marcus-cato-perrin": {
+  "title": "Comparison of Aristides and Marcus Cato",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "75953562984e1f0cc8e54b8a88b14772c1711892a05aecc5d03944f673063ae0",
+  "units": 26,
+  "scheme": {
+   "citation": "Plut. Comparison of Aristides and Marcus Cato chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 7 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-demetrius-antony-perrin": {
+  "title": "Comparison of Demetrius and Antony",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "6ab741659737beaee5d9643792126ff0ec12749f5e9e2bb6b0a9a85307be23ef",
+  "units": 17,
+  "scheme": {
+   "citation": "Plut. Comparison of Demetrius and Antony chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-demosthenes-cicero-perrin": {
+  "title": "Comparison of Demosthenes with Cicero",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "955d3341a83ae12eabec48b77ad947123042116aac059dae765f8c729be6ef56",
+  "units": 19,
+  "scheme": {
+   "citation": "Plut. Comparison of Demosthenes and Cicero chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 10 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-dion-brutus-perrin": {
+  "title": "Comparison of Dion and Brutus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "404097c3e7e8d09a399195150c4c1cfd59e46f6c44968048db80de16040cc98d",
+  "units": 33,
+  "scheme": {
+   "citation": "Plut. Comparison of Dion and Brutus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-lucullus-cimon-perrin": {
+  "title": "Comparison of Lucullus and Cimon",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "c0a5c9e9ba460999a74ac6359a868bc9e92d2baba8341d963a83eb76a493b860",
+  "units": 18,
+  "scheme": {
+   "citation": "Plut. Comparison of Lucullus and Cimon chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 4 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-lycurgus-numa-perrin": {
+  "title": "Comparison of Lycurgus and Numa",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "c9a839a44647491a286ec0bfd2e7b32f2184fcafd99e6859c8e5f6b4e40a0618",
+  "units": 26,
+  "scheme": {
+   "citation": "Plut. Comparison of Lycurgus and Numa chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 6 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-lysander-sulla-perrin": {
+  "title": "Comparison of Lysander and Sulla",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "2e1ca5f9134664d9374b2eb8fc35a30084eb160a17fbdc2a17e9a38588c43174",
+  "units": 23,
+  "scheme": {
+   "citation": "Plut. Comparison of Lysander and Sulla chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-nicias-crassus-perrin": {
+  "title": "Comparison of Nicias and Crassus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "7578a73217c4b7b5874c1f8fb3d8ae5ef7a6f3127f1ec8115d49a5179ff29178",
+  "units": 23,
+  "scheme": {
+   "citation": "Plut. Comparison of Nicias and Crassus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-pelopidas-marcellus-perrin": {
+  "title": "Comparison of Pelopidas and Marcellus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "3c2eeeec2c6721117b62c61ebf8b7ec092c7d15146d2b2f22ad70b70ea0d5f53",
+  "units": 15,
+  "scheme": {
+   "citation": "Plut. Comparison of Pelopidas and Marcellus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-pericles-fabius-maximus-perrin": {
+  "title": "Comparison of Pericles and Fabius Maximus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "36ef213efbcc2fdb4cacb8eb40aa7e30d2683bf89411810d884049d2f1d7fc1a",
+  "units": 13,
+  "scheme": {
+   "citation": "Plut. Comparison of Pericles and Fabius Maximus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 1 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-philopoemen-titus-perrin": {
+  "title": "Comparison of Philopoemen and Titus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "ae1e4cfc626264c85c5852b84fda9bac93931a3b39281e5489a8e02befd4b1d2",
+  "units": 9,
+  "scheme": {
+   "citation": "Plut. Comparison of Philopoemen and Titus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-sertorius-eumenes-perrin": {
+  "title": "Comparison of Sertorius and Eumenes",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "83a4cf8ef7eae5311312af56963161d4b834017c35a54018eab42ede90b06d9d",
+  "units": 7,
+  "scheme": {
+   "citation": "Plut. Comparison of Sertorius and Eumenes chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-solon-publicola-perrin": {
+  "title": "Comparison of Solon and Publicola",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "7fd1061c9aec542bce672eb17be47cd38cbd9c4b6721ab89012eb7cea6b96b63",
+  "units": 16,
+  "scheme": {
+   "citation": "Plut. Comparison of Solon and Publicola chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 4 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-theseus-romulus-perrin": {
+  "title": "Comparison of Theseus and Romulus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "65123a215643f101fdd1584a546c9fc509e94c72cc2d3d4beaa0ecb3e78c48f3",
+  "units": 18,
+  "scheme": {
+   "citation": "Plut. Comparison of Theseus and Romulus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-comparison-timoleon-aemilius-perrin": {
+  "title": "Comparison of Timoleon and Aemilius",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "11e2722db6e1d34c636248b8245cc75406bc05ec9b1466e2d67d69580b358f7b",
+  "units": 17,
+  "scheme": {
+   "citation": "Plut. Comparison of Timoleon and Aemilius chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-crassus-perrin": {
+  "title": "Crassus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "f94b4df642857c74ef882a52da468a2f73ad1de493b6c1a39d61fa9dc361c6e7",
+  "units": 193,
+  "scheme": {
+   "citation": "Plut. Crassus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 41 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-demetrius-perrin": {
+  "title": "Demetrius",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "dc37a9dbfbfd6f290a74204d82287a99a13144f6248f60459124ea48fe9f902e",
+  "units": 240,
+  "scheme": {
+   "citation": "Plut. Demetrius chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 54 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-demosthenes-perrin": {
+  "title": "Demosthenes",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "6688e7b70b17b176c44ad7c5a424da92380ac9ce6f3d415a5b4b5c62296fea7e",
+  "units": 130,
+  "scheme": {
+   "citation": "Plut. Demosthenes chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 69 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-dion-perrin": {
+  "title": "Dion",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "415df29772fbdfea2232a347c6ea2f900cd07e7683c08db1d61b7a8f3b048aa4",
+  "units": 388,
+  "scheme": {
+   "citation": "Plut. Dion chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 33 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-eumenes-perrin": {
+  "title": "Eumenes",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "7e661b4a7789c04299c1b4ceb09bcfcd41490b186015735ce402254073ebb37f",
+  "units": 98,
+  "scheme": {
+   "citation": "Plut. Eumenes chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 34 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-fabius-maximus-perrin": {
+  "title": "Fabius Maximus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "f60f143b76b6ac579a75ad9877d546f2193b16f7af12fccfb5b87c7f20b38245",
+  "units": 132,
+  "scheme": {
+   "citation": "Plut. Fabius Maximus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 36 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-galba-perrin": {
+  "title": "Galba",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "a5c5977101c2599277be1c701a6a59c9a63d659a077dc2e00e257e1fa115f2c8",
+  "units": 122,
+  "scheme": {
+   "citation": "Plut. Galba chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 19 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-lucullus-perrin": {
+  "title": "Lucullus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "6c4ac1dca4457f37f878c5434a464683b9b10ab9f4fa7dd1aec4bdef6eae48dd",
+  "units": 253,
+  "scheme": {
+   "citation": "Plut. Lucullus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 22 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-lycurgus-perrin": {
+  "title": "Lycurgus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "f6240cb606cc84993d03f785093dcdd00b13ba87e09e1c492f0573bfeac5ebcd",
+  "units": 153,
+  "scheme": {
+   "citation": "Plut. Lycurgus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 34 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-lysander-perrin": {
+  "title": "Lysander",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "fa38ad58452c2447f2d119fa715c5e49ab1ae2bd556810fb662ab2d9495c11f9",
+  "units": 155,
+  "scheme": {
+   "citation": "Plut. Lysander chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 65 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-marcellus-perrin": {
+  "title": "Marcellus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "e530e5d0327fd8741ab2321dbb49f2f0cf9e905ebba03a79b35e2e4bc910d973",
+  "units": 153,
+  "scheme": {
+   "citation": "Plut. Marcellus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 48 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-marcus-cato-perrin": {
+  "title": "Marcus Cato",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "41a2ae6dae77ac1757b9deba4e8e94c0d93b60a392761b5c8c2ba3cf4092aa22",
+  "units": 146,
+  "scheme": {
+   "citation": "Plut. Marcus Cato chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 26 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-nicias-perrin": {
+  "title": "Nicias",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "9d4c7eefee6e7459317f6365e432a4de6e66560772027ab2bac749ce1a95de59",
+  "units": 162,
+  "scheme": {
+   "citation": "Plut. Nicias chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 65 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-numa-perrin": {
+  "title": "Numa",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "f50f4ca5318089588d18939306a4889fe122034ee0a6b47b7756da83c0194b5f",
+  "units": 130,
+  "scheme": {
+   "citation": "Plut. Numa chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 30 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-otho-perrin": {
+  "title": "Otho",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "1354837da93a0770d5853303f2d5a675a50965920e64bff0df487770cd97007b",
+  "units": 84,
+  "scheme": {
+   "citation": "Plut. Otho chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 4 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-pelopidas-perrin": {
+  "title": "Pelopidas",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "d935b21f78525e5de7951795628b006b5ad7e84a2b50e9a7bd7bc320a71ea188",
+  "units": 170,
+  "scheme": {
+   "citation": "Plut. Pelopidas chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 37 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-pericles-perrin": {
+  "title": "Pericles",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "ea289e4f5cb14b030a5452e73abe43c488460a2f298a1478b1d135c0d4f80dab",
+  "units": 181,
+  "scheme": {
+   "citation": "Plut. Pericles chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 69 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-philopoemen-perrin": {
+  "title": "Philopoemen",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "c93122ae4029c27b8ca0b2c20f00a739d74cbf9536dc6179b6fc22e5106bd7d3",
+  "units": 112,
+  "scheme": {
+   "citation": "Plut. Philopoemen chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 33 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-phocion-perrin": {
+  "title": "Phocion",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "9944e2ffc00e07635309a7140b81b47becc68d47bd5459d974245974322877f5",
+  "units": 148,
+  "scheme": {
+   "citation": "Plut. Phocion chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 56 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-pompey-perrin": {
+  "title": "Pompey",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "12cf8aa4dd491ad2b03dfe0caf70c6acc6169ffcd5520ac01fbcbef109b41d1c",
+  "units": 392,
+  "scheme": {
+   "citation": "Plut. Pompey chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 102 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-publicola-perrin": {
+  "title": "Publicola",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "cac347cfefec8a0e0e100030efe15f345983aac0a98364cf6b0e8e04302a61df",
+  "units": 103,
+  "scheme": {
+   "citation": "Plut. Publicola chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 40 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-pyrrhus-perrin": {
+  "title": "Pyrrhus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "5cf98bd1e6dbe44913ae3d5059a23542f49a01c95c8624c67e5187ddad74525c",
+  "units": 194,
+  "scheme": {
+   "citation": "Plut. Pyrrhus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 40 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-romulus-perrin": {
+  "title": "Romulus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "c0969b120f46f474dcd78388d0cb901454d16fc74b946ad77c85e4c0e7ff432e",
+  "units": 161,
+  "scheme": {
+   "citation": "Plut. Romulus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 65 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-sertorius-perrin": {
+  "title": "Sertorius",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "095ab3481adb5aa9e8c90325561911ae2d7a5a9d503562d205b4e0a3053b9914",
+  "units": 128,
+  "scheme": {
+   "citation": "Plut. Sertorius chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 34 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-solon-perrin": {
+  "title": "Solon",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "60fd2db966f48e77d031cf8c6911e54e5a788f57b9eb4f62ea36ce229624d514",
+  "units": 140,
+  "scheme": {
+   "citation": "Plut. Solon chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 65 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-sulla-perrin": {
+  "title": "Sulla",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "7d0772bb72c513aa2e63d93833a03b4be2c0366cf431a251e0c5c924ba1a8e2b",
+  "units": 204,
+  "scheme": {
+   "citation": "Plut. Sulla chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 70 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-themistocles-perrin": {
+  "title": "Themistocles",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "455c60d3a3d6cf113c26d92065de88166d3e006a5ca1c99ff15c6b37990d6a27",
+  "units": 136,
+  "scheme": {
+   "citation": "Plut. Themistocles chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 30 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-theseus-perrin": {
+  "title": "Theseus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "c6652125164231bd968a36f874d18fc780913ca52ef9c62875db2402dd9fd005",
+  "units": 132,
+  "scheme": {
+   "citation": "Plut. Theseus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 56 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-tiberius-caius-gracchus-perrin": {
+  "title": "Tiberius and Caius Gracchus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "70792c074971284bc591ff7445540417d575a0d90e0c276f9d2d1de854485a01",
+  "units": 176,
+  "scheme": {
+   "citation": "Plut. Tiberius and Caius Gracchus book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 35 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-timoleon-perrin": {
+  "title": "Timoleon",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "0104f69a73e6dea3332f9a04b3ea63a28ee136ccfcaccb97bf12767a4778ba46",
+  "units": 291,
+  "scheme": {
+   "citation": "Plut. Timoleon chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 30 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "plutarch-titus-flamininus-perrin": {
+  "title": "Titus Flamininus",
+  "author": "Plutarch",
+  "format": "tei",
+  "sha256": "727e275e59b5bdc59a6da49778ea64bb963043705bf8c5cc535d1a9b14b38554",
+  "units": 108,
+  "scheme": {
+   "citation": "Plut. Titus Flamininus chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 42 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 0 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }
