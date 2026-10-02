@@ -16,7 +16,9 @@ Contents rule. {"contents_only": true} uses only the book's own Contents, read
 leniently (lenient_contents_chapre), without the ALL-CAPS fallback (a book whose
 caps lines are part numbers or captions, not headings); {"chapre_only": "<regex>"}
 replaces the rule outright (Lucas's letters: "LETTER 12" and nothing else);
-{"levels": [...]} hands the book to convert_nested.py (Book > Part > Chapter). Verse books go
+{"levels": [...]} hands the book to convert_nested.py (Book > Part > Chapter);
+{"repeat_continues": true} runs the paragraph count on across a heading printed
+twice in a row (continue_repeated_heading). Verse books go
 through the same prose path, so a "paragraph" there is a stanza; the scheme's
 honesty field already says headings are detected, not known.
 
@@ -66,6 +68,24 @@ def lenient_contents_chapre(path):
     return (r"(?i:[\W_]*(?:CHAPTER\s+)?(?:[IVXLC]+|\d+)?\s*[.:)]?[\W_]*(?:"
             + "|".join(alts) + r")[\W_\d]*)$")
 
+def continue_repeated_heading(book):
+    """{"repeat_continues": true}: a heading printed twice in a row (Kipling sets a
+    story's title over its verse epigraph and again over the story) is one section,
+    not two. The paragraph count runs on across the repeat instead of restarting,
+    so the story's paragraphs are `KAA'S HUNTING, par. 8`, not a second par. 1."""
+    prev_head, last = None, 0
+    for u in book["units"]:
+        if ", par. " not in u["ref"]:
+            prev_head = None
+            continue
+        head, n = u["ref"].rsplit(", par. ", 1)
+        n = int(n)
+        if head == prev_head and n <= last:      # the count restarted under the same heading
+            n = last + 1
+            u["ref"] = f"{head}, par. {n}"
+            u["id"] = u["id"].rsplit(".", 1)[0] + f".{n}"
+        prev_head, last = head, n
+
 def main():
     if len(sys.argv) < 2:
         sys.exit("usage: convert_shelf_gutenberg.py <shelf>")
@@ -98,6 +118,8 @@ def main():
                 book = convert_nested(path, slug, row[1], author, opts["levels"], opts.get("start"))
             else:
                 book = convert_gutenberg_prose(path, slug, row[1], author, chapre)
+            if opts.get("repeat_continues"):
+                continue_repeated_heading(book)
             seen = {}
             for u in book["units"]:
                 if u["id"] in seen:

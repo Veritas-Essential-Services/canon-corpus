@@ -34,6 +34,7 @@ All 286 shelf URLs re-checked at the end of the run: all resolve. Every slug app
 | Shelf | Held | Raw OCR | Units | Notes |
 |---|---|---|---|---|
 | `carroll` | 16 Gutenberg | 0 | 14,130 | both Alices (+ Under Ground, Nursery), Sylvie and Bruno, verse, Tangled Tale, logic books. 3 maths works pending: no plain text |
+| `kipling` | 5 Gutenberg | 0 | 6,452 | the relay's list only: both Jungle Books, Just So, Puck, Rewards and Fairies. **Your call:** Kim, Captains Courageous, Stalky and the rest are listed as pending |
 
 ## For Adam to decide
 1. **Minting:** 135 + 151 = 286 slugs (lang 124, lamb 11, macdonald 61, grimm 3, andersen 16, kingsley 43, hawthorne 4, bulfinch 4, pyle 20) are waiting for the attended uid pass and manifest registration.

@@ -115,8 +115,11 @@
     },
     {
       "id": "kipling",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Rudyard Kipling: the Jungle Books, Just So Stories, Puck of Pook's Hill (+ Rewards and Fairies) and his other story books published before 1930; rest listed pending; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Rudyard Kipling: the Jungle Books, Just So Stories, Puck of Pook's Hill (+ Rewards and Fairies) and his other story books published before 1930; rest listed pending; no minting",
+      "started": "2026-10-02T15:59:42-05:00",
+      "finished": "2026-10-02T16:00:44-05:00",
+      "notes": "5/5 fetched (Gutenberg), 0 copyright markers; 6,452 units, 0 duplicate ids. Jungle Book, Second Jungle Book, Just So Stories, Puck of Pook's Hill, Rewards and Fairies. New convert_shelf_gutenberg option repeat_continues for a story title printed twice (over its epigraph and over the story). Other Ki"
     },
     {
       "id": "stevenson",

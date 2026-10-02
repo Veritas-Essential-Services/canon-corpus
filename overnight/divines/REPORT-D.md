@@ -72,3 +72,6 @@
 
 ## 2026-10-02 15:59 CDT — carroll: done
 - 16/19 fetched (16 Gutenberg), 0 copyright markers; 14,130 units. Alices by chapter; Symbolic Logic and Game of Logic by nested Book > Chapter > Section path via convert_nested.py; Tangled Tale by Knot. Pending: Condensation of Determinants and Curiosa Mathematica I-II (no Gutenberg plain text). No uids minted; not in manifest.
+
+## 2026-10-02 16:00 CDT — kipling: done
+- 5/5 fetched (Gutenberg), 0 copyright markers; 6,452 units, 0 duplicate ids. Jungle Book, Second Jungle Book, Just So Stories, Puck of Pook's Hill, Rewards and Fairies. New convert_shelf_gutenberg option repeat_continues for a story title printed twice (over its epigraph and over the story). Other Kipling books pending Adam. No uids minted; not in manifest.

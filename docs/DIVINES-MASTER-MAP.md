@@ -1552,6 +1552,22 @@ Shelf: `pipeline/carroll_shelf.json` (2026-10-02; added at the coordinator's rel
 | carroll-translations | excluded | Esperanto, German, Italian, Finnish and French translations of Alice (17482, 19778, 28371, 46569, 55456): this shelf is Carroll's English |
 | carroll-no-plain-text | pending | PENDING, no Gutenberg plain-text file, so fetch_shelf.py cannot take them: Condensation of Determinants (PG 37354, PDF and LaTeX only), Curiosa Mathematica Parts I and II (PG 78586, 79080, HTML zip only). Mathematics typeset as formulae; needs its own converter if wanted |
 
+## Rudyard Kipling (Jungle Books, Just So, Puck)
+
+Shelf: `pipeline/kipling_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The five children's books the relay named. Kipling sets each Jungle Book story's title twice, once over its verse epigraph and again over the story; the shelf row's `repeat_continues` option keeps that one section, with the paragraph count running on. His other books are pending for Adam to decide. US status only: Kipling died in 1936. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Jungle Book (1894) | have | PG 35997, `kipling-jungle-book` (1072 units) |
+| The Second Jungle Book (1895) | have | PG 37364, `kipling-second-jungle-book` (1168 units) |
+| Just So Stories (1902) | have | PG 32488, `kipling-just-so-stories` (839 units) |
+| Puck of Pook's Hill (1906) | have | PG 15976, `kipling-puck-of-pooks-hill` (1481 units) |
+| Rewards and Fairies (1910) | have | PG 32772, `kipling-rewards-and-fairies` (1892 units) |
+| kipling-duplicates | excluded | other Gutenberg transcriptions of the same books: Jungle Book (PG 236), Second Jungle Book (1937), Just So Stories (2781), Puck of Pook's Hill (557, 26027), Rewards and Fairies (556): texts held |
+| kipling-not-this-shelf | pending | PENDING, outside the relay's list unless Adam widens it: Kim (PG 35555/2226), Captains Courageous (2186/2225), Stalky & Co. (3006), Land and Sea Tales (63619), The Day's Work (2569), Plain Tales from the Hills (1858), Soldiers Three (6120), Life's Handicap (5777), Many Inventions (78240), Traffics and Discoveries (9790), Actions and Reactions (2381), A Diversity of Creatures (13085), Debits and Credits (71002), The Light That Failed (2876), the verse (Departmental Ditties and Barrack-Room Ballads 7846, The Seven Seas 27870, The Five Nations 60260-60261, The Years Between 21777, Songs from Books 15529), travel and war writing (American Notes, From Sea to Sea, Letters of Travel, Sea Warfare, The Irish Guards in the Great War, and others) |
+| kipling-not-his | excluded | anthologies with other authors (PG 2035, 2038, 12732, 15466, 21964, 62942, 60482, 30568), selections from his books (16578, 28537, 8649, 2334, 8147, 2163), Widger's index (57538) |
+| kipling-translations | excluded | Finnish, French, Esperanto and Spanish translations: this shelf is Kipling's English |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
