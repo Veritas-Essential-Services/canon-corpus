@@ -159,6 +159,15 @@ PERSEUS = {
     "euripides-rhesus-coleridge": ("canonical-greekLit",
         "tlg0006/tlg019/tlg0006.tlg019.perseus-eng3.xml",
         "Euripides, Rhesus — E. P. Coleridge 1906 (PD); urn ...tlg0006.tlg019.perseus-eng3"),
+    # Aristophanes (Adler vol. 5), 2026-10-02: Clouds ONLY. Perseus has
+    # English for two comedies. Clouds is W. J. Hickie (Bohn, 1853): PD, its
+    # titleStmt names Hickie. Birds is deliberately NOT taken: its edition is
+    # "Anonymous, ed. Eugene O'Neill Jr., The Complete Greek Drama, Random
+    # House 1938", and a 1938 compilation's editing cannot be assumed PD
+    # without checking its renewal -- a rights line we could not read here.
+    "aristophanes-clouds-hickie": ("canonical-greekLit",
+        "tlg0019/tlg003/tlg0019.tlg003.perseus-eng2.xml",
+        "Aristophanes, Clouds — W. J. Hickie 1853 (PD); urn ...tlg0019.tlg003.perseus-eng2"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).

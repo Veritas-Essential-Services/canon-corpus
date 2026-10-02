@@ -136,6 +136,7 @@ TEI_DRAMA = {
     "euripides-bacchae-buckley": "Eur. Ba.",
     "euripides-iphigenia-aulis-coleridge": "Eur. IA",
     "euripides-rhesus-coleridge": "Eur. Rh.",
+    "aristophanes-clouds-hickie": "Ar. Nub.",
 }
 # Per-book line-number fixes (rule 2: never hand-edit a source; fix here so it
 # reruns on refetch). Each is a typo in the Perseus file, shown by context.
@@ -303,9 +304,10 @@ def convert_tei_drama(path, slug, abbrev):
                                 + clean("".join(lic.itertext())) if lic is not None else
                                 "this file states no licence; the repository's licence is "
                                 "CC BY-SA 4.0")
-                               + ". The translation itself is public domain; the TEI and "
-                                 "Perseus's modernized wording are share-alike: a "
-                                 "derivative must credit Perseus and carry the same licence."},
+                               + ". The translation itself is public domain; the TEI, and "
+                                 "any modernizing of the wording Perseus did (the title "
+                                 "says when), are share-alike: a derivative must credit "
+                                 "Perseus and carry the same licence."},
             "units": units}
     if personae:
         book["dramatis_personae"] = personae
