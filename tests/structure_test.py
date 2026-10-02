@@ -683,5 +683,39 @@ check("shelf: a book with no Contents falls back to the CAPS rule",
 check("thml: <pre> verse is read only where a book opts in",
       "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
 
+# Perseus TEI P4 (Tacitus, 2026-10-02): <TEI.2>, no namespace, numbered
+# <div1>/<div2>, and HTML entities only the DTD defines. Lifted into the P5
+# shape in memory. Invented text.
+_P4 = ('<?xml version="1.0"?>\n<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" '
+       '"http://www.tei-c.org/Guidelines/DTD/tei2.dtd">\n'
+       '<TEI.2><teiHeader><fileDesc><titleStmt><title>Annals</title><author>Tacitus</author>'
+       '<editor role="translator">A. Church</editor><editor role="translator">W. Brodribb</editor>'
+       '</titleStmt></fileDesc></teiHeader><text><body xml:base="urn:cts:latinLit:phi1351.phi005.perseus-eng1">'
+       '<div1 type="book" n="1"><head>BOOK I</head>'
+       '<div2 type="chapter" n="1"><p>The C&aelig;sars ruled.</p></div2>'
+       '<div2 type="chapter" n="2"><p>Then Asiniu<name>s</name> spoke.</p></div2>'
+       '<div2 type="chapter" n="3"><p><gap/></p></div2>'
+       '</div1></body></text></TEI.2>')
+with _tf.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_P4)
+_saved_corpus = st.CORPUS
+st.CORPUS = os.path.dirname(_fh.name)
+_p4 = st.convert_tei_prose(_fh.name, "tac", "Tac. Ann.")
+st.CORPUS = _saved_corpus
+os.unlink(_fh.name)
+_p4u = {u["id"]: u for u in _p4["units"]}
+check("tei-p4: div1/div2 become book.chapter units",
+      list(_p4u) == ["tac:1.1", "tac:1.2"] and _p4["scheme"]["citation"] == "Tac. Ann. book.chapter")
+check("tei-p4: a DTD-only entity (&aelig;) is read, not fatal",
+      _p4u["tac:1.1"]["text"] == "The Cæsars ruled.")
+check("tei-p4: every translator the title names is recorded",
+      _p4["source"]["translator"] == "A. Church & W. Brodribb")
+check("tei-p4: a textless division's lacuna rides on the unit before it",
+      _p4u["tac:1.2"]["apparatus"].get("gap") is True)
+check("tei-p4: the urn still picks the latinLit repository",
+      "canonical-latinLit" in _p4["rights"]["source_url"])
+check("tei-p4: every Tacitus book carries the 1942-reprint caveat",
+      all(s in st.TEI_RIGHTS_NOTE for s in st.TEI_PROSE if s.startswith("tacitus-")))
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 104 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 110 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -141,6 +141,14 @@ The living truth for project state is the Obsidian vault:
   "section (span)" -- measured from the numbering, not assumed.
   Also Apollodorus (Frazer), Diogenes Laertius (Hicks), Epictetus
   (Higginson), Aeschines' three speeches (C. D. Adams).
+  Latin, from canonical-latinLit: Caesar's Gallic War (McDevitte & Bohn)
+  and Civil War (Peskett), Tacitus' five works (Church & Brodribb),
+  Suetonius' twelve Caesars (Thomson, rev. Reed 1883). Tacitus is TEI P4
+  (`<TEI.2>`, no namespace, `<div1>`/`<div2>`, DTD-only entities like
+  `&aelig;`): `tei_load()` lifts P4 into the P5 shape in memory, source
+  untouched. Perseus keyed Tacitus from a 1942 Modern Library reprint, so
+  its marginal headings (apparatus only) carry an unverified-provenance
+  line in the rights note (`TEI_RIGHTS_NOTE`).
   convert_tei_prose: one unit per innermost textpart div, id = born-in
   book.chapter.section (`herodotus-histories-godley:1.1.1`, ref "Hdt. 1.1.1").
   Footnotes under `apparatus.notes`, headings between divisions under

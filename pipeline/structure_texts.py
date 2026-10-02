@@ -23,7 +23,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html, unicodedata
+import os, re, json, hashlib, html, html.entities, unicodedata
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -48,10 +48,38 @@ def tei_meta(root):
     ns = {"t": "http://www.tei-c.org/ns/1.0"}
     title = root.find(".//t:titleStmt/t:title", ns)
     author = root.find(".//t:titleStmt/t:author", ns)
-    transl = root.find(".//t:titleStmt/t:editor[@role='translator']", ns)
+    # Every translator the title names, not just the first: Strabo is
+    # Hamilton & Falconer, Tacitus is Church & Brodribb.
+    transl = [(t.text or "").strip()
+              for t in root.findall(".//t:titleStmt/t:editor[@role='translator']", ns)]
     return (title.text if title is not None else "?",
             (author.text or "?") if author is not None else "?",
-            (transl.text or "").strip() if transl is not None else "")
+            " & ".join(t for t in transl if t))
+
+
+def tei_load(path):
+    """Parse a Perseus TEI file. Most are TEI P5. The older ones are TEI P4
+    (<TEI.2>, no namespace, numbered <div1>/<div2>, and HTML entities like
+    &aelig; that only their DTD defines). Those are lifted into the P5 shape
+    in memory -- namespaced, each numbered div a textpart -- so one set of
+    converters reads both. The source file is never touched (rule 2). An
+    unnumbered div (Agricola's lone book) stays a wrapper, not a level."""
+    parser = ET.XMLParser()
+    parser.entity.update({k: chr(v) for k, v in html.entities.name2codepoint.items()})
+    root = ET.parse(path, parser=parser).getroot()
+    if root.tag != "TEI.2":
+        return root
+    for e in root.iter():
+        if not isinstance(e.tag, str) or e.tag.startswith("{"):
+            continue
+        if re.fullmatch(r"div\d", e.tag):
+            if e.get("n") is not None:
+                e.set("subtype", e.get("type") or "")
+                e.set("type", "textpart")
+            e.tag = TEI_NS + "div"
+        else:
+            e.tag = TEI_NS + e.tag
+    return root
 
 def perseus_rights(root):
     """The rights block every Perseus-derived book carries. The translations
@@ -307,13 +335,44 @@ TEI_PROSE = {
     "aeschines-timarchus-adams": "Aeschin. 1",
     "aeschines-embassy-adams": "Aeschin. 2",
     "aeschines-ctesiphon-adams": "Aeschin. 3",
+    "caesar-gallic-war-mcdevitte": "Caes. Gal.",
+    "caesar-civil-war-peskett": "Caes. Civ.",
+    "tacitus-agricola-church": "Tac. Ag.",
+    "tacitus-germania-church": "Tac. Ger.",
+    "tacitus-dialogus-church": "Tac. Dial.",
+    "tacitus-histories-church": "Tac. Hist.",
+    "tacitus-annals-church": "Tac. Ann.",
+    "suetonius-julius-thomson": "Suet. Jul.",
+    "suetonius-augustus-thomson": "Suet. Aug.",
+    "suetonius-tiberius-thomson": "Suet. Tib.",
+    "suetonius-caligula-thomson": "Suet. Calig.",
+    "suetonius-claudius-thomson": "Suet. Claud.",
+    "suetonius-nero-thomson": "Suet. Ner.",
+    "suetonius-galba-thomson": "Suet. Galb.",
+    "suetonius-otho-thomson": "Suet. Otho",
+    "suetonius-vitellius-thomson": "Suet. Vit.",
+    "suetonius-vespasian-thomson": "Suet. Vesp.",
+    "suetonius-titus-thomson": "Suet. Tit.",
+    "suetonius-domitian-thomson": "Suet. Dom.",
 }
+
+# A per-book line appended to the Perseus rights note, where the edition
+# Perseus keyed carries matter whose provenance the file does not settle.
+TEI_RIGHTS_NOTE = {s: ("Perseus keyed this text from the Modern Library's 1942 reprint of "
+                       "Church & Brodribb (Macmillan, 1864-77). The translation is theirs "
+                       "and public domain; whether the marginal headings (apparatus.head "
+                       "and apparatus.notes here, never the reading text) are Church & "
+                       "Brodribb's or the 1942 reprint's was not checked against the "
+                       "Macmillan scan.")
+                   for s in ("tacitus-agricola-church", "tacitus-germania-church",
+                             "tacitus-dialogus-church", "tacitus-histories-church",
+                             "tacitus-annals-church")}
 RE_TGN = re.compile(r"tgn,(\d+)")
 
 
 def convert_tei_prose(path, slug, abbrev):
     T = TEI_NS
-    root = ET.parse(path).getroot()
+    root = tei_load(path)
     title, author, transl = tei_meta(root)
     body = root.find(f".//{T}body")
     units, pending_head, levels = [], [], []
@@ -354,7 +413,11 @@ def convert_tei_prose(path, slug, abbrev):
                 units.append(u)
             elif units and app:
                 for k, v in app.items():
-                    units[-1].setdefault("apparatus", {}).setdefault(k, []).extend(v)
+                    a = units[-1].setdefault("apparatus", {})
+                    if v is True:
+                        a[k] = True             # a lacuna in a textless division
+                    else:
+                        a.setdefault(k, []).extend(v)
             return
         for c in e:
             if is_part(c):
@@ -391,6 +454,9 @@ def convert_tei_prose(path, slug, abbrev):
                "resolves to the unit that contains it" if spans else
                "exact to the source's innermost division (the standard section "
                "numbering, born-in from Perseus)")
+    rights = perseus_rights(root)
+    if slug in TEI_RIGHTS_NOTE:
+        rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
                        "translator": transl, "sha256": sha256(path)},
@@ -405,7 +471,7 @@ def convert_tei_prose(path, slug, abbrev):
                                f"{places} place reference(s) linked by Getty TGN id "
                                f"(Perseus's gazetteer glosses dropped from the text, the "
                                f"id kept)."},
-            "rights": perseus_rights(root),
+            "rights": rights,
             "units": units}
 
 
@@ -465,7 +531,7 @@ TEI_DRAMA_N_FIX = {
 
 def convert_tei_drama(path, slug, abbrev):
     T = "{http://www.tei-c.org/ns/1.0}"
-    root = ET.parse(path).getroot()
+    root = tei_load(path)
     title, author, transl = tei_meta(root)
     body = root.find(f".//{T}body")
     units, pending_stage, pending_notes, pending_sic, fixes, gaps = [], [], [], [], 0, 0
