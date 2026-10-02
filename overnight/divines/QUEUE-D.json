@@ -160,6 +160,46 @@
       "started": "2026-10-02T16:18:12-05:00",
       "finished": "2026-10-02T16:18:59-05:00",
       "notes": "Gap fill: 2 Internet Archive scans added as raw OCR: Pigling Bland (1913 text, 1987 reprint scan) and Little Pig Robinson (1930, undated Warne printing; US PD since 2026). Appley Dapply not found. 23 slugs."
+    },
+    {
+      "id": "grahame",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Kenneth Grahame: The Wind in the Willows, The Golden Age, Dream Days, Pagan Papers and his other pre-1930 books; no minting"
+    },
+    {
+      "id": "barrie",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — J. M. Barrie: Peter Pan (Peter and Wendy, Peter Pan in Kensington Gardens) and his other books published before 1930; no minting"
+    },
+    {
+      "id": "baum",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — L. Frank Baum: the Oz books (the 14 by Baum) and his other children's books published before 1930; no minting"
+    },
+    {
+      "id": "ruskin-golden-river",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — John Ruskin: The King of the Golden River (1851) only; no minting"
+    },
+    {
+      "id": "wilde-fairy-tales",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Oscar Wilde: The Happy Prince and Other Tales (1888) and A House of Pomegranates (1891); no minting"
+    },
+    {
+      "id": "dickens-christmas",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Dickens: the five Christmas books (A Christmas Carol, The Chimes, The Cricket on the Hearth, The Battle of Life, The Haunted Man); no minting"
+    },
+    {
+      "id": "collodi",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Carlo Collodi: Pinocchio in a public-domain English translation (Della Chiesa 1914 and/or Murray 1892, translator recorded); no minting"
+    },
+    {
+      "id": "lofting",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Hugh Lofting: the Doctor Dolittle books and others first published before 1929 only; no minting"
     }
   ]
 }
