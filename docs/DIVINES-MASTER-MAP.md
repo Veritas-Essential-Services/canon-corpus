@@ -1194,6 +1194,10 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | The Works of Epictetus, vol. 2 (1890 printing) | Thomas Wentworth Higginson | `epictetus-higginson-works-v2` | have-raw (IA `worksepictetusc00epicgoog`) |
 | — | — | `epictetus-discourses` | cross-ref → Adler shelf: PG 45109 is Higginson's ENCHIRIDION only; the Adler label 'The Discourses, tr. P.E. Matheson' is wrong |
 | All the Works of Epictetus, which are now Extant (Dublin, 1759) | Elizabeth Carter | `epictetus-carter` | have-raw (IA `allworksofepicte00epic`) |
+| Arrian's Discourses of Epictetus | George Long | `epictetus-perseus-long-arrian-s-discourses-of-epictetus` | have (Perseus TEI `tlg0557.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
+| Fragments | George Long | `epictetus-perseus-long-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng3`; markup CC BY-SA 4.0) |
+| Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng4`; markup CC BY-SA 4.0) |
+| The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | have (Perseus TEI `tlg0557.tlg002.perseus-eng3`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
 
