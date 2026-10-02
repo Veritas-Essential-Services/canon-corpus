@@ -1,0 +1,36 @@
+{
+ "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced.",
+ "_name_words": [
+  "thucydides",
+  "translated",
+  "english",
+  "history"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thucydides-jowett-1881-v1": [
+   "a609583001thucuoft",
+   "Thucydides translated into English, vol. 1 (Oxford, 1881)",
+   "tr. Benjamin Jowett"
+  ],
+  "thucydides-jowett-1881-v2": [
+   "a609583002thucuoft",
+   "Thucydides translated into English, vol. 2: notes (Oxford, 1881)",
+   "tr. Benjamin Jowett"
+  ],
+  "thucydides-hobbes-1841": [
+   "thucydides00thucuoft",
+   "Thucydides, chiefly from the translation of Hobbes of Malmesbury (Oxford, 1841)",
+   "tr. Thomas Hobbes (1629), corrected"
+  ]
+ },
+ "_cross_ref": {
+  "thucydides-pelo": "Adler shelf: PG 7142, which is Richard CRAWLEY's translation; the Adler shelf labels it 'tr. Jowett', which is wrong (PG 7142's own header names Crawley)"
+ },
+ "_excluded": {
+  "pg26245": "Crawley, duplicate of PG 7142",
+  "pg9074": "Stories from Thucydides (Havell): an adaptation",
+  "C. F. Smith, Loeb (1919-23)": "on Perseus, US PD by date; pending"
+ }
+}

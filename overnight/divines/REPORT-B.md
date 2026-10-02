@@ -51,3 +51,6 @@
 
 ## 2026-10-02 15:43 CDT — greek-historians: Herodotus
 - Shelf herodotus: Macaulay vol. 2 (PG 2456) completes the Adler shelf's vol. 1 (PG 2707, whose Adler title reads as the whole History); Rawlinson 1861 4 vols raw. 5 files, 8.5 MB.
+
+## 2026-10-02 15:43 CDT — greek-historians: Thucydides
+- Shelf thucydides: Jowett 1881 2 vols + Hobbes 1841, raw (5.3 MB). FINDING: adler_shelf.json labels thucydides-pelo (PG 7142) 'tr. Jowett', but PG 7142 is Crawley; Jowett's real translation is now on this shelf.
