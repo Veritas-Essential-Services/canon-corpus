@@ -125,7 +125,7 @@ The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek
 TEI, which is CC BY-SA (built locally, labelled in the manifest). Each work's
 two books are aligned by Whiston's book.chapter.section (`Ant. 18.3.3`), and
 every Greek unit also gives its Niese sections (`18.63-64`), so either
-citation finds it. 2,304 aligned units; 74% of the Greek words carry a
+citation finds it. 2,304 aligned units; 72% of the Greek words carry a
 Strong's number. `python3 pipeline/build_josephus.py --fetch`.
 
 ## The reader (reverse interlinear, D5)
