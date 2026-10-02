@@ -72,7 +72,7 @@ TVTMS_COMMIT = "b99716b0cddb648ddb95cc786a197180f2f97d48"
 TVTMS_NAME = ("TVTMS - Translators Versification Traditions with Methodology for "
               "Standardisation for Eng+Heb+Lat+Grk+Others - STEPBible.org CC BY.txt")
 TVTMS_URL = ("https://raw.githubusercontent.com/STEPBible/STEPBible-Data/"
-             f"{TVTMS_COMMIT}/" + urllib.request.quote(TVTMS_NAME))
+             f"{TVTMS_COMMIT}/Versification/" + urllib.request.quote(TVTMS_NAME))
 TVTMS_SHA256 = "63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8"
 TVTMS_PATH = os.path.join(CORPUS, "versification", "tvtms.txt")
 
