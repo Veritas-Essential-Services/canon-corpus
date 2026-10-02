@@ -60,3 +60,6 @@
 
 ## 2026-10-02 15:43 CDT — greek-historians: Polybius
 - Shelf polybius: Shuckburgh 2 vols PG, 3.0 MB, trial 8,139 units.
+
+## 2026-10-02 15:43 CDT — greek-historians: Arrian; item done
+- Shelf arrian: 2 PG, 1.7 MB. Herodotus 5, Thucydides 3, Xenophon 14, Polybius 2, Arrian 2 fetched (22.2 MB). Findings on the Adler shelf: thucydides-pelo is Crawley not Jowett; herodotus-history is vol. 1 only.

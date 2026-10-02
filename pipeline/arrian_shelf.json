@@ -1,0 +1,24 @@
+{
+ "_about": "Arrian in English: E. J. Chinnock's Anabasis of Alexander (1884), clean Gutenberg; William Dansey's Arrian on Coursing (1831).",
+ "_name_words": [
+  "arrian",
+  "anabasis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "arrian-chinnock-anabasis": [
+   46976,
+   "The Anabasis of Alexander",
+   "tr. E. J. Chinnock (1884)"
+  ],
+  "arrian-dansey-coursing": [
+   78013,
+   "Arrian on Coursing (Cynegeticus)",
+   "tr. William Dansey (1831)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Epictetus's Discourses": "recorded by Arrian, shelved under Epictetus (stoics item)"
+ }
+}
