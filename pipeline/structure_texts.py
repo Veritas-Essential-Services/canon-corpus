@@ -439,9 +439,18 @@ def convert_vulgate(vdir, books, digest, slug="vulgate"):
 # KJV's -- most visibly in the Psalms, where a Hebrew superscription is
 # counted as verse 1 and every later verse in that psalm is off by one. So a
 # scripture citation is recorded as what the source actually said (its own
-# reference string, plus the OSIS book/chapter/verse it states) and is NOT
-# resolved to a kjv: unit id. A labelled hole beats a confident wrong label;
-# resolving these needs a versification map, which is its own piece of work.
+# reference string, plus the OSIS book/chapter/verse it states). A labelled
+# hole beats a confident wrong label.
+#
+# Since 2026-10-02 that hole is filled where it can be: the Hebrew -> KJV map
+# (data/versification/bhs-kjv.json, pipeline/build_versification.py) turns
+# the stated reference into a kjv: unit id, added as `target` with
+# `resolved: true`; the stated `osis` is kept as it was. A citation of a psalm
+# title (the KJV's unnumbered superscription) or of a verse the KJV lacks
+# stays `resolved: false` and says why. `build_versification.py --measure`
+# is the evidence BDB numbers in Hebrew: where the two schemes differ, the
+# entry's own word is in the cited Hebrew verse 72% of the time and in the
+# same-numbered KJV verse 5.5%.
 
 HEB_NS = "{http://openscriptures.github.com/morphhb/namespace}"
 
@@ -604,7 +613,17 @@ def convert_bdb(path, slug="bdb-hebrew"):
     BDBid \\t StrongNumber \\t content(HTML)."""
     import csv as _csv
     _csv.field_size_limit(1 << 27)          # single entries run past 200k chars
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
     units, furniture, extended = [], 0, 0
+    resolved = {True: 0, False: 0}
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.PATH):
+        vmap = _V.load()
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
     with open(path, encoding="utf-8", errors="replace", newline="") as f:
         rows = _csv.reader(f, delimiter="\t")
         header = next(rows, None)
@@ -645,9 +664,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                 if key in seen_refs:
                     continue
                 seen_refs.add(key)
-                links.append({"kind": "scripture", "osis": key,
-                              "ref": clean(label) or key, "versification": "bhs",
-                              "resolved": False})
+                link = {"kind": "scripture", "osis": key,
+                        "ref": clean(label) or key, "versification": "bhs",
+                        "resolved": False}
+                if vmap:
+                    link.update(_V.resolve(key, vmap, kjv_ids))
+                resolved[link["resolved"]] += 1
+                links.append(link)
             lemma = ""
             m = re.search(r"<bdbheb>(.*?)</bdbheb>", body, re.S)
             if m:
@@ -669,8 +692,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                        "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; "
                                "the rest are cross-reference and sub-root entries with no "
                                "Strong's equivalent. Scripture citations are recorded in the "
-                               "source's own (Hebrew/BHS) versification and are NOT resolved "
-                               "to kjv: unit ids -- Psalms superscriptions shift the numbering. "
+                               "source's own (Hebrew/BHS) versification (`osis`, as stated) and "
+                               "resolved to a kjv: unit id (`target`) through the Hebrew->KJV "
+                               "map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY "
+                               f"4.0): {resolved[True]:,} resolved, {resolved[False]:,} left "
+                               "unresolved with the reason (psalm titles, which the KJV does "
+                               "not number; references that name no Hebrew verse; NT "
+                               "references). "
                                f"{furniture} navigation/header furniture blocks stripped; "
                                f"{extended} refs above H{HEBREW_MAX} dropped as extended "
                                "Strong's prefix/particle codes."},
