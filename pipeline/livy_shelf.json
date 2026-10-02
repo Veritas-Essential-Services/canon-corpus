@@ -1,5 +1,5 @@
 {
- "_about": "Livy in English: the Bohn translation, complete across four Gutenberg texts (D. Spillan, Cyrus Edmonds, W. A. McDevitte; Books I-VIII, IX-XXVI, XXVII-XXXVI, XXXVII to the end with the Epitomes and fragments). Also Church and Brodribb's Books I-III (ed. Osborne).",
+ "_about": "Livy in English: the Bohn translation, complete across four Gutenberg texts (D. Spillan, Cyrus Edmonds, W. A. McDevitte; Books I-VIII, IX-XXVI, XXVII-XXXVI, XXXVII to the end with the Epitomes and fragments). Also Church and Brodribb's Books I-III (ed. Osborne). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
  "_name_words": [
   "livy",
   "rome",
@@ -33,9 +33,25 @@
    "tr. A. J. Church and W. J. Brodribb, ed. Duffield Osborne"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "livy-foster-v1": [
+   "livy0000bofo_o9g8",
+   "Livy, vol. 1: Books I-II (Loeb, 1919)",
+   "tr. B. O. Foster"
+  ],
+  "livy-foster-v4": [
+   "livywithenglisht04livyuoft",
+   "Livy, vol. 4: Books VIII-X (Loeb, 1926)",
+   "tr. B. O. Foster"
+  ],
+  "livy-foster-v5": [
+   "livy05livy",
+   "Livy, vol. 5: Books XXI-XXII (Loeb, 1929)",
+   "tr. B. O. Foster"
+  ]
+ },
  "_excluded": {
   "Philemon Holland (1600)": "PD; pending",
-  "B. O. Foster, Loeb (1919-)": "early vols. US PD by date, Latin facing; pending"
+  "B. O. Foster, Loeb (1919-)": "vols. 1, 4, 5 held (IA); vol. 2 (1922) only as a 1939 revised printing, refused; vol. 3 (1924) no scan found; vols. 6- after 1930"
  }
 }
