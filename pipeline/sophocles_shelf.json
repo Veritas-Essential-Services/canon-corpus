@@ -1,5 +1,5 @@
 {
- "_about": "Sophocles in English, translator per title. R. C. Jebb's prose seven plays come from Perseus in the unmerged Thayer/Sophocles PR (slugs sophocles-<play>-jebb) and are cross-referenced, not refetched. Here: Lewis Campbell's verse seven plays (1883), Francis Storr's Theban plays (Loeb, 1912), Gilbert Murray's Oedipus King of Thebes ( US PD per Gutenberg, not PD in life+70 countries), Thomas Sheridan's Philoctetes (1725). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out.",
+ "_about": "Sophocles in English, translator per title. R. C. Jebb's prose seven plays come from Perseus in the unmerged Thayer/Sophocles PR (slugs sophocles-<play>-jebb) and are cross-referenced, not refetched. Here: Lewis Campbell's verse seven plays (1883), Francis Storr's Theban plays (Loeb, 1912), Gilbert Murray's Oedipus King of Thebes ( US PD per Gutenberg, not PD in life+70 countries), Thomas Sheridan's Philoctetes (1725). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "sophocles",
   "translated",
@@ -30,7 +30,13 @@
    "tr. Thomas Sheridan (1725)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sophocles-plumptre": [
+   "tragediesofsopho1865soph",
+   "The Tragedies of Sophocles, a new translation (1865)",
+   "tr. E. H. Plumptre"
+  ]
+ },
  "_cross_ref": {
   "sophocles-trachiniae-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
   "sophocles-antigone-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
