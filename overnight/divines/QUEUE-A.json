@@ -27,8 +27,9 @@
     },
     {
       "id": "horatius-bonar",
-      "status": "todo",
-      "scope": "Horatius Bonar \u2014 prose works; hymns listed only as 'see hymn manifest'"
+      "status": "running",
+      "scope": "Horatius Bonar \u2014 prose works; hymns listed only as 'see hymn manifest'",
+      "started": "2026-10-02T15:38:36-05:00"
     },
     {
       "id": "andrew-bonar",
