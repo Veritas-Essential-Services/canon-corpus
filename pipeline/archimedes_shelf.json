@@ -1,0 +1,34 @@
+{
+ "_about": "Archimedes in T. L. Heath's editions, raw IA OCR: The Works of Archimedes (Cambridge, 1897) and its supplement The Method of Archimedes (1912). Apollonius of Perga's Conics in Heath's edition (1896) is here too, as the same editor's companion volume.",
+ "_name_words": [
+  "archimedes",
+  "method",
+  "mechanics",
+  "conic",
+  "apollonius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "archimedes-heath-works": [
+   "worksofarchimede00arch",
+   "The Works of Archimedes (1897)",
+   "ed. and tr. T. L. Heath"
+  ],
+  "archimedes-heath-method": [
+   "methodofarchimed00arch",
+   "The Method of Archimedes, a supplement to the Works (1912)",
+   "ed. and tr. T. L. Heath"
+  ],
+  "apollonius-perga-heath-conics": [
+   "treatiseonconics00apolrich",
+   "Apollonius of Perga, Treatise on Conic Sections (1896)",
+   "ed. T. L. Heath"
+  ]
+ },
+ "_excluded": {
+  "worksofarchimede029517mbp": "second scan of the 1897 Works, slightly lower OCR",
+  "Heath, Archimedes (PG 35550)": "a short study, not a translation; not taken",
+  "PG 7825 (Robinson's Geometrical Solutions Derived from Mechanics; a LaTeX file)": "Gutenberg serves this file only gzip-encoded and answers the fetcher with HTTP 406; header read by hand, not COPYRIGHTED; pending a backward-compatible fetcher fix"
+ }
+}
