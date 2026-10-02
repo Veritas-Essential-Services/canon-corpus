@@ -208,6 +208,7 @@ counterpart on the relay branch.
   module says GPL. Decide which.
 - The OSHB OT layer is CC BY. Commit it, or keep building it locally.
 - Merge #8's head into #10 first, to avoid conflict 5.
+- The Latin key (`data/lemmas/latin-key/`, added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? It adds no conflicts.
 
 **Relay branch**
 - Decide whether it becomes a PR at all, or which lanes do.
