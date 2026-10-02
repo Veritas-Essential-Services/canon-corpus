@@ -8852,5 +8852,205 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (J. Armitage Robinson, The Passion of S. Perpetua, Cambridge, 1891); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
+ },
+ "acts-of-barnabas-grc": {
+  "title": "Περίοδοι καὶ μαρτύριον τοῦ ἁγίου Βαρνάβα τοῦ ἀποστόλου",
+  "author": "Acta Barnabae",
+  "format": "tei",
+  "sha256": "b34332ecf51d988a3fbcffd268ff0e2074a52253884e49ea9dde54d4f1be8957",
+  "units": 26,
+  "scheme": {
+   "citation": "Act. Barn. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Maximilianus Bonnet, 1903). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 2 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation is public domain (Maximilianus Bonnet, Acta Philippi et Acta Thomae accedunt Acta Barnabae, Leipzig, 1903): published before 1931, its translator dead more than 70 years; the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "acts-of-philip-grc": {
+  "title": "Πράξεις τοῦ ἁγίου καὶ πανευφήμου ἀποστόλου Φιλίππου",
+  "author": "Acta Philippi",
+  "format": "tei",
+  "sha256": "d386b19036c979268c43e64f2f498b41c9a5321c89d11a1848e31e87754289ab",
+  "units": 148,
+  "scheme": {
+   "citation": "Act. Phil. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Maximilian Bonnet, 1903). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 2 word(s) in 2 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation is public domain (Maximilian Bonnet, Acta Philippi et Acta Thomae accedunt Acta Barnabae, Leipzig, 1903): published before 1931, its translator dead more than 70 years; the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "acts-of-philip-james": {
+  "title": "Acts of Philip",
+  "author": "Anonymous",
+  "format": "tei",
+  "sha256": "1953b0a8b3ab54b3d26ecc7ad5dab28a4cdb92945b5ceaf77fba4e846d302426",
+  "units": 145,
+  "scheme": {
+   "citation": "Act. Phil. section",
+   "resolution": "section",
+   "honesty": "on Bonnet's section numbers (1903), as James gives them (1924). James abridges: measured, 7,062 English words against 16,316 Greek in Bonnet, so a unit may be his summary of a section, not a translation of it, and four of Bonnet's sections have no unit.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 3 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation is public domain (James, Montague Rhodes, The Apocryphal New Testament, being the Apocryphal Gospels, Acts, Epistles, and Apocalypses, Oxford, 1924): published before 1931, its translator dead more than 70 years; the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "acts-of-thomas-grc": {
+  "title": "Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ",
+  "author": "Acta Thomae",
+  "format": "tei",
+  "sha256": "a438ef18808cd8d1e2c425db55c5741682407e25fb0f0ca5df111804dd561883",
+  "units": 170,
+  "scheme": {
+   "citation": "Act. Thom. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Maximilian Bonnet, 1903). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 1 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 6 word(s) in 6 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Maximilian Bonnet, Acta Philippi et Acta Thomae accedunt Acta Barnabae, Leipzig, 1903); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "acts-of-thomas-james": {
+  "title": "Acts of Thomas",
+  "author": "Anonymous",
+  "format": "tei",
+  "sha256": "5a8d00ef377b03977441d48c2c08d482f5863560adf8292332a2c9efdde9a182",
+  "units": 171,
+  "scheme": {
+   "citation": "Act. Thom. section",
+   "resolution": "section",
+   "honesty": "on Bonnet's section numbers (1903), as James gives them (1924); a citation of Act. Thom. 12 reaches the same section in the Greek book. One section James adds (144x) has no Greek counterpart.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 132 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation is public domain (James, Montague Rhodes, The Apocryphal New Testament, being the Apocryphal Gospels, Acts, Epistles, and Apocalypses, Oxford, 1924): published before 1931, its translator dead more than 70 years; the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "enoch-swete-grc": {
+  "title": "Apocalypsis Enochi",
+  "author": "Liber Enoch",
+  "format": "tei",
+  "sha256": "97ef42427781d8f96b1f3f4d98b687a622b67dafa223ec2ff0a0b75451152ca4",
+  "units": 246,
+  "scheme": {
+   "citation": "1 En. chapter.verse",
+   "resolution": "verse",
+   "honesty": "exact to the verse in the chapter.verse numbering of the Ethiopic book, as Swete prints it (1905). Only what survives in Greek is here: chapters 1-32 and a fragment of 89, so most of 1 Enoch has no unit.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 63 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 1 word(s) in 1 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one. 243 printed verse number(s) glued to a verse's first word dropped (the id carries the number)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Henry Barclay Swete D.D., The Old Testament in Greek, Cambridge, 1905); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "lives-of-prophets-anonymous-grc": {
+  "title": "De prophetarum vita et obitu (recensio anonyma)",
+  "author": "Vitae Prophetarum",
+  "format": "tei",
+  "sha256": "14f16b56fb89a58f2282a2e053036061d23be411bdca45e73aa6983ae0194794",
+  "units": 23,
+  "scheme": {
+   "citation": "Vit. Proph. (anon.) section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Theodorus Schermann, 1907). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 12 word(s) in 7 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Theodorus Schermann, Prophetarum vitae fabulosae, Leipzig, 1907); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "lives-of-prophets-dorotheus-grc": {
+  "title": "De prophetarum vita et obitu (Dorothei recensio)",
+  "author": "Pseudo-Dorotheus (Vitae Prophetarum)",
+  "format": "tei",
+  "sha256": "3dee5207c6113c4eada20bff4081266451426db77aeb12f22ec1bf143ad953ce",
+  "units": 23,
+  "scheme": {
+   "citation": "Vit. Proph. (Dor.) section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Theodorus Schermann, 1907). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 0 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Theodorus Schermann, Prophetarum vitae fabulosae, Leipzig, 1907); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "testament-of-abraham-a-grc": {
+  "title": "The Testament of Abraham Recension A",
+  "author": "Testamentum Abrahae",
+  "format": "tei",
+  "sha256": "d3c693ce3fd5a0d9ed02e46581d0857fb5ec5d523f86ecc0a145b351eff70fe4",
+  "units": 20,
+  "scheme": {
+   "citation": "T. Ab. A chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Montague Rhodes James, 1892). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 60 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 18 word(s) in 18 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Montague Rhodes James, The Testament of Abraham, Cambridge, 1892); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
+ },
+ "testament-of-abraham-b-grc": {
+  "title": "The Testament of Abraham Recension B",
+  "author": "Testamentum Abrahae",
+  "format": "tei",
+  "sha256": "7f476d8ba0753368b1775942c91ae53d01a1f1e176e23bbd192fb4ea863321a5",
+  "units": 14,
+  "scheme": {
+   "citation": "T. Ab. B chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Montague Rhodes James, 1892). Where a later edition renumbered the work, the standard citation can differ.",
+   "note": "First1KGreek TEI, one unit per innermost textpart div. 34 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head. 7 word(s) in 7 unit(s) carry Latin letters -- a Latin passage the edition prints, or OCR residue in the source (r for γ, a for α): left as the source has them, and counted on each such unit as apparatus.latin_letters, so a reader can tell a clean unit from a damaged one."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "First1KGreek, Open Greek and Latin (OpenGreekAndLatin/First1KGreek)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (Montague Rhodes James, The Testament of Abraham, Cambridge, 1892); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
+  }
  }
 }

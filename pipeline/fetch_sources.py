@@ -193,6 +193,36 @@ FIRST1K = {
     "passio-perpetuae-grc": ("tlg2016/tlg001/tlg2016.tlg001.1st1K-grc1.xml",
         "The Passion of Perpetua and Felicity, Greek version -- ed. J. Armitage Robinson "
         "(Cambridge UP, 1891)"),
+    # Wave 4, 2026-10-02: early Christian apocrypha and pseudepigrapha. Two
+    # ENGLISH witnesses: M. R. James, The Apocryphal New Testament (Oxford,
+    # 1924) -- published before 1931; James died 1936, so public domain in
+    # life+70 countries too. NOT taken:
+    #   - Enoch in Flemming & Radermacher (1901): their German of the
+    #     Ethiopic is interleaved (6,486 Latin-letter words); Swete taken;
+    #   - Cramer's NT catenae (1838-44): one unit per chapter of the catena,
+    #     too coarse to cite; they want their own verse-keyed converter.
+    "acts-of-thomas-grc": ("tlg2038/tlg001/tlg2038.tlg001.1st1K-grc1.xml",
+        "Acts of Thomas -- Greek, ed. Maximilian Bonnet (Leipzig: Mendelssohn, 1903)"),
+    "acts-of-thomas-james": ("tlg2038/tlg001/tlg2038.tlg001.1st1K-eng1.xml",
+        "Acts of Thomas -- English, M. R. James, The Apocryphal New Testament (Oxford, 1924)"),
+    "acts-of-philip-grc": ("tlg2948/tlg001/tlg2948.tlg001.1st1K-grc1.xml",
+        "Acts of Philip -- Greek, ed. Bonnet (1903)"),
+    "acts-of-philip-james": ("tlg2948/tlg001/tlg2948.tlg001.1st1K-eng1.xml",
+        "Acts of Philip -- English, M. R. James (1924), abridged"),
+    "acts-of-barnabas-grc": ("tlg2949/tlg001/tlg2949.tlg001.1st1K-grc1.xml",
+        "Acts of Barnabas -- Greek, ed. Bonnet (1903)"),
+    "testament-of-abraham-a-grc": ("tlg1701/tlg001/tlg1701.tlg001.1st1K-grc1.xml",
+        "Testament of Abraham, long recension (A) -- Greek, ed. M. R. James (Cambridge UP, 1892)"),
+    "testament-of-abraham-b-grc": ("tlg1701/tlg002/tlg1701.tlg002.1st1K-grc1.xml",
+        "Testament of Abraham, short recension (B) -- Greek, ed. James (1892)"),
+    "lives-of-prophets-dorotheus-grc": ("tlg1750/tlg001/tlg1750.tlg001.1st1K-grc1.xml",
+        "Lives of the Prophets, recension of Pseudo-Dorotheus -- Greek, ed. Theodor Schermann "
+        "(Teubner, 1907)"),
+    "lives-of-prophets-anonymous-grc": ("tlg1750/tlg002/tlg1750.tlg002.1st1K-grc1.xml",
+        "Lives of the Prophets, anonymous recension -- Greek, ed. Schermann (1907)"),
+    "enoch-swete-grc": ("tlg1463/tlg001/tlg1463.tlg001.1st1K-grc1.xml",
+        "1 Enoch, the Greek fragments (1-32, 89) -- ed. H. B. Swete, The Old Testament in Greek "
+        "III (Cambridge UP, 1905)"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes

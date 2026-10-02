@@ -984,6 +984,29 @@ check("fathers: honesty names the printed edition whose numbering the ids are",
 check("fathers: outside First1KGreek the same markup is not taken for an original",
       "edition" not in _nb["source"] and "latin_letters" not in str(_nb["units"])
       and _nb["rights"]["attribution"].startswith("Perseus"))
+# An English translation from First1KGreek: the translator is the printed
+# book's author; the rights say translation, not edition.
+_EN = (_GK.replace('<div type="edition" xml:lang="grc">', '<div type="translation" xml:lang="eng">')
+       .replace('<editor>&gt;Otto Stählin</editor>', '<author>James, Montague Rhodes</author>')
+       .replace('<date>1905</date>', '<date>1924</date>'))
+_ep = os.path.join(_gd, "first1k", "en.xml")
+open(_ep, "w", encoding="utf-8").write(_EN)
+st.CORPUS = _gd
+_eb = st.convert_tei_prose(_ep, "en", "Act. Thom.")
+st.CORPUS = _saved[0]
+check("fathers: a First1KGreek translation names its translator and says so in the rights",
+      _eb["source"]["translator"] == "James, Montague Rhodes" and "edition" not in _eb["source"]
+      and "The translation is public domain (James, Montague Rhodes" in _eb["rights"]["note"]
+      and "(James, Montague Rhodes, 1924)" in _eb["scheme"]["honesty"])
+_open = open(_gp, encoding="utf-8").read().replace("<p>δέλτα", "<p>³δέλτα")
+open(_gp, "w", encoding="utf-8").write(_open)
+st.CORPUS = _gd
+st.TEI_PROSE_VERSE_NUMERALS.add("gk")
+_vb = st.convert_tei_prose(_gp, "gk", "1 En.")
+st.TEI_PROSE_VERSE_NUMERALS.discard("gk")
+st.CORPUS = _saved[0]
+check("fathers: a verse number glued to the verse's first word is dropped, and counted",
+      _vb["units"][-1]["text"] == "δέλτα" and "1 printed verse number(s)" in _vb["scheme"]["note"])
 _bt, _br, _bf = st.tei_brackets("ὑψηλῷ [cf. Deut., v, 45]· εὐ[fol. 51]δαιμονίαν [καὶ] [ΙS., II, 2] τε [?]")
 check("fathers: bracketed references and folios lifted; Greek supplements stay",
       _bt == "ὑψηλῷ· εὐδαιμονίαν [καὶ] τε [?]" and _br == ["cf. Deut., v, 45", "ΙS., II, 2"]

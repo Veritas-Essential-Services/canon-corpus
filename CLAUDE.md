@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 153 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 155 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -204,6 +204,12 @@ The living truth for project state is the Obsidian vault:
   Wave 3: the church historians after Eusebius (Socrates, Sozomen,
   Theodoret, Evagrius, Gelasius), Theodoret's Religious History, Mark the
   Deacon's Porphyry, the Greek Perpetua.
+  Wave 4: apocrypha and pseudepigrapha in Greek (Acts of Thomas, Philip,
+  Barnabas; Testament of Abraham; Lives of the Prophets; Swete's Greek
+  Enoch) and M. R. James's English (1924) for Thomas and Philip, on
+  Bonnet's sections, so a citation reaches both. A First1KGreek translation
+  is recognised by its type="translation" div; its translator is the
+  printed book's author.
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of

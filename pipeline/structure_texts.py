@@ -94,7 +94,8 @@ def tei_edition(root):
     # A stray ">" opens one editor's name (Wendland's Hippolytus): a markup
     # slip, dropped by rule.
     eds = [txt(e).lstrip("<> ") for e in m.findall(f"{T}editor")]
-    ed = {"editor": " & ".join(e for e in eds if e),
+    ed = {"author": " & ".join(a for a in (txt(e) for e in m.findall(f"{T}author")) if a),
+          "editor": " & ".join(e for e in eds if e),
           "title": txt(m.find(f"{T}title")),
           "publisher": txt(m.find(f".//{T}imprint/{T}publisher")),
           "place": txt(m.find(f".//{T}imprint/{T}pubPlace")),
@@ -106,7 +107,11 @@ def printed_by(root):
     """'Otto Stählin, 1905' -- the editor and date a First1KGreek file's
     sourceDesc states (blank parts left out)."""
     ed = tei_edition(root)
-    return ", ".join(x for x in (ed.get("editor"), ed.get("date")) if x) or "edition unnamed"
+    T = "{http://www.tei-c.org/ns/1.0}"
+    who = ed.get("editor")
+    if not who and root.find(f".//{T}body/{T}div[@type='translation']") is not None:
+        who = ed.get("author")                  # a translation: its translator
+    return ", ".join(x for x in (who, ed.get("date")) if x) or "edition unnamed"
 
 
 def perseus_rights(root, path=None):
@@ -131,7 +136,9 @@ def perseus_rights(root, path=None):
         # grants one, e.g. Germany's 25 years, s.70 UrhG -- long expired);
         # the TEI is CC BY-SA.
         ed = tei_edition(root)
-        printed = ", ".join(x for x in (ed.get("editor"), ed.get("title"),
+        transl = body is not None and body.find(f"{T}div[@type='translation']") is not None
+        printed = ", ".join(x for x in ((ed.get("author") if transl else None),
+                                         ed.get("editor"), ed.get("title"),
                                          ed.get("place"), ed.get("date")) if x)
         return {"license": "CC BY-SA 4.0",
                 "attribution": "First1KGreek, Open Greek and Latin "
@@ -141,8 +148,11 @@ def perseus_rights(root, path=None):
                 "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                          if lic is not None else
                          "this file states no licence; the repository's licence is CC BY-SA 4.0")
-                        + f". The Greek text is a public-domain printed edition ({printed}); "
-                          "the TEI is share-alike: a derivative must credit First1KGreek "
+                        + (f". The translation is public domain ({printed}): published "
+                           "before 1931, its translator dead more than 70 years; "
+                           if transl else
+                           f". The Greek text is a public-domain printed edition ({printed}); ")
+                        + "the TEI is share-alike: a derivative must credit First1KGreek "
                           "and carry the same licence."}
     return {"license": "CC BY-SA 4.0",
             "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
@@ -636,6 +646,18 @@ TEI_PROSE = {
     "gelasius-historia-ecclesiastica-grc": "Gelas. HE",
     "mark-deacon-vita-porphyrii-grc": "Marc. Diac. V. Porph.",
     "passio-perpetuae-grc": "Pass. Perp.",
+    # Wave 4: early Christian apocrypha and pseudepigrapha in Greek, and
+    # M. R. James's English (1924) beside two of them, on Bonnet's sections.
+    "acts-of-thomas-grc": "Act. Thom.",
+    "acts-of-thomas-james": "Act. Thom.",
+    "acts-of-philip-grc": "Act. Phil.",
+    "acts-of-philip-james": "Act. Phil.",
+    "acts-of-barnabas-grc": "Act. Barn.",
+    "testament-of-abraham-a-grc": "T. Ab. A",
+    "testament-of-abraham-b-grc": "T. Ab. B",
+    "lives-of-prophets-dorotheus-grc": "Vit. Proph. (Dor.)",
+    "lives-of-prophets-anonymous-grc": "Vit. Proph. (anon.)",
+    "enoch-swete-grc": "1 En.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -755,6 +777,11 @@ def tei_brackets(text):
     return text.strip(), refs, folios
 
 
+# Books that print each verse's number at the head of its text.
+TEI_PROSE_VERSE_NUMERALS = {"enoch-swete-grc"}
+RE_VERSE_NUMERAL = re.compile(r"^[0-9\u2070\u00b9\u00b2\u00b3\u2074-\u2079]+\s*")
+
+
 # Where the source's divisions are exact but are NOT the standard citation,
 # the honesty field says so instead of claiming the standard numbering.
 _APPIAN = ("exact to the source's innermost division. The last number is the "
@@ -762,6 +789,20 @@ _APPIAN = ("exact to the source's innermost division. The last number is the "
            "the unit ending .6); the number before it is Horace White's "
            "chapter, which a standard citation does not use.")
 TEI_PROSE_HONESTY = {
+    "acts-of-philip-james": (
+        "on Bonnet's section numbers (1903), as James gives them (1924). James "
+        "abridges: measured, 7,062 English words against 16,316 Greek in "
+        "Bonnet, so a unit may be his summary of a section, not a "
+        "translation of it, and four of Bonnet's sections have no unit."),
+    "acts-of-thomas-james": (
+        "on Bonnet's section numbers (1903), as James gives them (1924); "
+        "a citation of Act. Thom. 12 reaches the same section in the Greek "
+        "book. One section James adds (144x) has no Greek counterpart."),
+    "enoch-swete-grc": (
+        "exact to the verse in the chapter.verse numbering of the Ethiopic "
+        "book, as Swete prints it (1905). Only what survives in Greek is "
+        "here: chapters 1-32 and a fragment of 89, so most of 1 Enoch has "
+        "no unit."),
     "athanasius-de-decretis-grc": (
         "chapters 41-42 only -- the passage Gelasius of Cyzicus quotes in his "
         "Church History, from whose edition (Loeschke & Heinemann, 1918) this "
@@ -894,6 +935,10 @@ def convert_tei_prose(path, slug, abbrev):
     root = tei_load(path)
     title, author, transl = tei_meta(root)
     body = root.find(f".//{T}body")
+    if (not transl and os.path.basename(os.path.dirname(path)) == "first1k"
+            and body is not None and body.find(f"{T}div[@type='translation']") is not None):
+        # First1KGreek names the translator only as the printed book's author.
+        transl = tei_edition(root).get("author", "")
     tei_fix_n(body, slug)
     nbeta = tei_beta(body)
     units, pending_head, levels = [], [], []
@@ -984,7 +1029,7 @@ def convert_tei_prose(path, slug, abbrev):
             levels.append(cut[0])
 
     def leaf(e, ref, milestones=None):
-        nonlocal nnotes, nrefs, nfol, ncode
+        nonlocal nnotes, nrefs, nfol, ncode, nnum
         if True:
             text, _stage, notes, sic = tei_split(e)
             refs, folios = [], []
@@ -993,6 +1038,11 @@ def convert_tei_prose(path, slug, abbrev):
                 # NAME ("τῆU+03F2"): decoded by rule, counted.
                 text, k = re.subn(r"U\+([0-9A-F]{4})", lambda m: chr(int(m.group(1), 16)), text)
                 ncode += k
+            if slug in TEI_PROSE_VERSE_NUMERALS:
+                # Swete prints the verse number glued to the verse's first
+                # word ("⁷καὶ"); the unit id already carries it.
+                text, k = RE_VERSE_NUMERAL.subn("", text, count=1)
+                nnum += k
             if slug in TEI_PROSE_BRACKETS:
                 text, refs, folios = tei_brackets(text)
                 nrefs += len(refs); nfol += len(folios)
@@ -1037,7 +1087,7 @@ def convert_tei_prose(path, slug, abbrev):
 
     cut = TEI_PROSE_CUT.get(slug)
     outside = []
-    nrefs = nfol = ncode = 0
+    nrefs = nfol = ncode = nnum = 0
     # The text itself, not a translation: a First1KGreek edition div. (Not
     # read off the markup alone: some Perseus translations are labelled
     # type="edition", and Smart's English Horace xml:lang="lat".)
@@ -1118,6 +1168,8 @@ def convert_tei_prose(path, slug, abbrev):
                                   f"source has them, and counted on each such unit as "
                                   f"apparatus.latin_letters, so a reader can tell a clean "
                                   f"unit from a damaged one." if original and latin else "")
+                               + (f" {nnum} printed verse number(s) glued to a verse's "
+                                  f"first word dropped (the id carries the number)." if nnum else "")
                                + (f" {ncode} character(s) the source writes as a code-point "
                                   f"name (U+03F2) decoded to the character." if ncode else "")},
             "rights": rights,
