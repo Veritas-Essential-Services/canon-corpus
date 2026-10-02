@@ -19,8 +19,9 @@
     },
     {
       "id": "ryle",
-      "status": "todo",
-      "scope": "J.C. Ryle \u2014 all public-domain works; shelf + fetch + map section"
+      "status": "running",
+      "scope": "J.C. Ryle \u2014 all public-domain works; shelf + fetch + map section",
+      "started": "2026-10-02T15:19:04-05:00"
     },
     {
       "id": "horatius-bonar",
