@@ -23,7 +23,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html
+import os, re, json, hashlib, html, unicodedata
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -571,6 +571,25 @@ RE_GREEK = re.compile(f"[{GRK}]")
 RE_THAYER_HEAD = re.compile(rf"^([{GRK}][{GRK}’'\-]*)\s*[,.]\s+")
 
 
+def _thayer_page(raw):
+    """One OCR page -> (furniture, body_lines). Page furniture: line 1 of a
+    body page is the running head (the Greek catchword) and bare page numbers
+    sit on their own line. Stripped by pattern and counted, never silently.
+    Shared by the page book and the entry book so both see the same body."""
+    lines = raw.split("\n")
+    furniture = []
+    if lines and lines[0].strip() and len(lines[0].strip()) < 40:
+        furniture.append(lines[0].strip())
+        lines = lines[1:]
+    body_lines = []
+    for l in lines:
+        if re.fullmatch(r"\s*\d{1,4}\s*", l):
+            furniture.append(l.strip())
+            continue
+        body_lines.append(l)
+    return furniture, body_lines
+
+
 def convert_thayer(path, slug="thayer"):
     """Thayer's Greek-English Lexicon of the New Testament (1889), OCR'd.
 
@@ -599,21 +618,7 @@ def convert_thayer(path, slug="thayer"):
     units = []
     heads_total = 0
     for pno in sorted(pages, key=int):
-        raw = pages[pno]
-        lines = raw.split("\n")
-        # Page furniture: line 1 of a body page is the running head (the Greek
-        # catchword) and bare page numbers sit on their own line. Stripped by
-        # pattern and counted, never silently.
-        furniture = []
-        if lines and lines[0].strip() and len(lines[0].strip()) < 40:
-            furniture.append(lines[0].strip())
-            lines = lines[1:]
-        body_lines = []
-        for l in lines:
-            if re.fullmatch(r"\s*\d{1,4}\s*", l):
-                furniture.append(l.strip())
-                continue
-            body_lines.append(l)
+        furniture, body_lines = _thayer_page(pages[pno])
         text = clean("\n".join(body_lines))
         if not text:
             continue
@@ -654,6 +659,224 @@ def convert_thayer(path, slug="thayer"):
                                f"cannot delimit them reliably, so no entry claim is made. "
                                f"Text is OCR output: it has not been proofread against the "
                                f"page, and Greek diacritics are where OCR errs most."},
+            "units": units}
+
+# ------------------------------------------------- Thayer, split into entries
+#
+# A SECOND book over the same OCR, not a change to the first. `thayer` stays
+# the page book, byte for byte: its ids (thayer:p.300) are citations and rule 3
+# says existing id schemes don't move without a vault ruling. `thayer-entries`
+# is a new door onto the same pages, one unit per inferred entry, and every
+# entry links back to the page(s) it sits on so it can always be checked
+# against the scan.
+
+# Greek -> Latin for ids only (never for display). Rough breathing becomes h.
+_GR2LAT = dict(zip("αβγδεζηθικλμνξοπρστυφχψως",
+                   ["a", "b", "g", "d", "e", "z", "e", "th", "i", "k", "l", "m", "n",
+                    "x", "o", "p", "r", "s", "t", "u", "ph", "ch", "ps", "o", "s"]))
+
+
+def thayer_key(word):
+    """The alphabetising key: accents, breathings, case, final sigma and stray
+    apostrophes/hyphens all ignored. OCR errs most in diacritics (see the page
+    book's honesty field), so ordering on bare letters is what survives it."""
+    d = unicodedata.normalize("NFD", word)
+    d = "".join(c for c in d if not unicodedata.combining(c)).lower()
+    d = d.replace("ς", "σ").replace("ϲ", "σ")
+    return re.sub(r"[^α-ω]", "", d)
+
+
+def thayer_translit(word):
+    d = unicodedata.normalize("NFD", word)
+    rough = "̔" in d[:4]
+    out = "".join(_GR2LAT.get(c, "") for c in thayer_key(word))
+    if rough and out.startswith("r"):
+        return "rh" + out[1:]              # ῥῆμα -> rhema, not hrema
+    return ("h" + out) if rough else out
+
+
+def _lis_weighted(keys, weights):
+    """Max-weight STRICTLY increasing subsequence, in reading order. Fenwick
+    tree over key ranks: O(n log n), n ~ 8k. Returns the chosen indices.
+    Ties on total weight go to the EARLIER predecessor, so a rerun on the same
+    input picks the same chain -- the build must be deterministic."""
+    ranks = {k: i + 1 for i, k in enumerate(sorted(set(keys)))}
+    size = len(ranks)
+    tree = [(0, -1)] * (size + 1)          # (best weight, index) per prefix
+
+    def query(r):                          # best over ranks 1..r
+        best = (0, -1)
+        while r > 0:
+            if tree[r][0] > best[0]:
+                best = tree[r]
+            r -= r & -r
+        return best
+
+    def update(r, val):
+        while r <= size:
+            if val[0] > tree[r][0]:
+                tree[r] = val
+            r += r & -r
+
+    dp, prev = [0] * len(keys), [-1] * len(keys)
+    for i, k in enumerate(keys):
+        r = ranks[k]
+        w, j = query(r - 1)                # strictly smaller keys only
+        dp[i], prev[i] = w + weights[i], j
+        update(r, (dp[i], i))
+    if not keys:
+        return []
+    end = max(range(len(keys)), key=lambda i: (dp[i], -i))
+    chain = []
+    while end != -1:
+        chain.append(end)
+        end = prev[end]
+    return chain[::-1]
+
+
+def strongs_greek_lemmas(path):
+    """Strong's Greek headwords -> {thayer_key: [G-number, ...]}. Strong's
+    covers the same New Testament vocabulary Thayer's does, so a candidate
+    headword that IS a Strong's lemma is far likelier to open an entry than a
+    Greek word that merely starts a line."""
+    out = {}
+    for e in ET.parse(path).getroot().find("entries").findall("entry"):
+        g = e.find("greek")
+        if g is None or not g.get("unicode"):
+            continue
+        out.setdefault(thayer_key(g.get("unicode")), []).append(
+            strongs_id(e.get("strongs"), "greek"))
+    return out
+
+
+def convert_thayer_entries(path, slug="thayer-entries", strongs_path=None,
+                           page_slug="thayer"):
+    """Thayer's (1889) one unit per ENTRY, inferred from the page OCR.
+
+    The page book's docstring explains why neither line rule alone finds the
+    entries: requiring a blank line before a Greek headword finds 4,532 (OCR
+    drops blank lines), dropping the requirement finds 7,983 (it promotes Greek
+    words that merely start a line). This converter adds the one fact both
+    rules ignore: A LEXICON IS IN ALPHABETICAL ORDER.
+
+      1. Body pages only: the run from the first page whose running head has
+         Greek in it to the last. Preface, abbreviations and the English-index
+         appendix are outside that run and contribute no entries.
+      2. Candidates: every line that opens with a Greek word and a comma or
+         full stop -- the LOOSE rule, so an entry whose blank line OCR lost is
+         still a candidate.
+      3. Weight each: 1, +1 if paragraph-initial (the strict rule), +1 if the
+         word is a Strong's Greek lemma (accents ignored).
+      4. Keep the max-weight strictly-increasing chain under thayer_key.
+         Mid-entry Greek is mostly out of order with its neighbours, so the
+         chain drops it; a real headword that OCR garbled at its first letter
+         falls out too, and its text joins the entry before it (counted).
+      5. A chain member must ALSO be paragraph-initial or a Strong's lemma.
+         A bare line-initial Greek word that merely happens to sort in order
+         is not evidence of an entry.
+
+    The result is a heuristic and says so: the count is reported against the
+    ~5,600 entries Thayer's really has, every unit links back to the exact
+    page(s) it was cut from, and the page book is untouched.
+    """
+    pages = json.load(open(path, encoding="utf-8"))
+    order = sorted(pages, key=int)
+    parsed = {p: _thayer_page(pages[p]) for p in order}
+    greek_head = [p for p in order if parsed[p][0] and RE_GREEK.search(parsed[p][0][0])]
+    body = order[order.index(greek_head[0]):order.index(greek_head[-1]) + 1] if greek_head else []
+
+    lemmas = strongs_greek_lemmas(strongs_path) if strongs_path else {}
+
+    lines, cands = [], []                  # lines: (page, text); cands index into lines
+    for p in body:
+        prev_blank = True                  # a page/column top counts as a break
+        for l in parsed[p][1]:
+            s = l.strip()
+            if not s:
+                prev_blank = True
+                continue
+            m = RE_THAYER_HEAD.match(s)       # anywhere, not only after a blank line
+            if m and len(m.group(1)) > 1 and len(thayer_key(m.group(1))) > 1:
+                hw = m.group(1)
+                k = thayer_key(hw)
+                cands.append({"line": len(lines), "page": p, "head": hw, "key": k,
+                              "para": prev_blank, "strongs": k in lemmas})
+            lines.append((p, s))
+            prev_blank = False
+
+    weights = [1 + c["para"] + c["strongs"] for c in cands]
+    chain = _lis_weighted([c["key"] for c in cands], weights)
+    heads = [cands[i] for i in chain if cands[i]["para"] or cands[i]["strongs"]]
+    stats = {"candidates": len(cands),
+             "off_order": len(cands) - len(chain),
+             "weak": len(chain) - len(heads),
+             "paragraph_initial_candidates": sum(c["para"] for c in cands)}
+
+    units, used_ids, strongs_linked, ambiguous = [], set(), 0, 0
+    for n, h in enumerate(heads):
+        stop = heads[n + 1]["line"] if n + 1 < len(heads) else len(lines)
+        span = lines[h["line"]:stop]
+        spanned = []
+        for p, _ in span:
+            if p not in spanned:
+                spanned.append(p)
+        pno = int(h["page"])
+        base = f"{slug}:p.{pno}.{thayer_translit(h['head']) or 'x'}"
+        unit_id, i = base, 2
+        while unit_id in used_ids:
+            unit_id, i = f"{base}-{i}", i + 1
+        used_ids.add(unit_id)
+        links = [{"kind": "page", "target": f"{page_slug}:p.{int(p)}"} for p in spanned]
+        gs = lemmas.get(h["key"], [])
+        if len(gs) == 1:
+            links.append({"kind": "strongs", "target": f"strongs-greek:{gs[0]}",
+                          "match": "headword, accents ignored"})
+            strongs_linked += 1
+        elif gs:
+            ambiguous += 1
+        units.append({"id": unit_id,
+                      "ref": f"Thayer p. {pno}, s.v. {h['head']}",
+                      "text": clean(" ".join(t for _, t in span)),
+                      "links": links,
+                      "lex": {"headword": h["head"],
+                              "pages": [int(p) for p in spanned],
+                              "evidence": [w for w, on in (("paragraph-initial", h["para"]),
+                                                           ("strongs-lemma", h["strongs"]),
+                                                           ("alphabetical-order", True)) if on],
+                              **({"strongs_candidates": gs} if len(gs) > 1 else {}),
+                              "greek_chars": len(RE_GREEK.findall(" ".join(t for _, t in span)))}})
+    target = 5600
+    src = {"path": os.path.relpath(path, CORPUS), "format": "lexicon-ocr", "sha256": sha256(path)}
+    if strongs_path:
+        src["strongs_sha256"] = sha256(strongs_path)
+    return {"slug": slug,
+            "title": "A Greek-English Lexicon of the New Testament (Thayer), by entry",
+            "author": "C. L. W. Grimm & C. G. Wilke, tr./rev./enl. Joseph Henry Thayer (1889)",
+            "source": src,
+            "scheme": {"citation": "page of the 1889 edition + headword (s.v.)",
+                       "resolution": "entry",
+                       "honesty": "entries INFERRED from OCR; not proofread; "
+                                  "ids provisional until segmentation is ruled on",
+                       "segmentation": stats,
+                       "note": f"{len(units):,} entries inferred from the page OCR of "
+                               f"{len(body)} body pages, against the ~{target:,} Thayer's "
+                               f"really has. Rule: line-initial Greek headword, kept only "
+                               f"on the max-weight alphabetical chain and only if "
+                               f"paragraph-initial or a Strong's lemma (see "
+                               f"convert_thayer_entries). {stats['off_order']:,} candidates "
+                               f"dropped as out of alphabetical order, {stats['weak']:,} "
+                               f"in order but with no other evidence. A real entry the "
+                               f"rule missed is not lost: its text is inside the entry "
+                               f"before it. Every unit links to the page(s) of the page "
+                               f"book `{page_slug}` it was cut from, which is the "
+                               f"checkable citation. "
+                               + (f"{strongs_linked:,} entries linked to strongs-greek by "
+                                  f"headword (accents ignored); {ambiguous:,} matched more "
+                                  f"than one Strong's lemma and are left unlinked with the "
+                                  f"candidates under lex.strongs_candidates."
+                                  if strongs_path else
+                                  "Built WITHOUT Strong's Greek (not fetched): the lemma "
+                                  "evidence and strongs links are absent from this build.")},
             "units": units}
 
 RE_STEP_ROW = re.compile(r"^[GH]\d{4}\t")
@@ -1477,6 +1700,15 @@ def main():
         p = os.path.join(CORPUS, "lexicons", fn)
         if os.path.exists(p):
             jobs.append((slug, lambda p=p, s=slug, c=conv: c(p, s)))
+    # Thayer's by entry: the same OCR as the page book, cut into entries. It
+    # uses Strong's Greek as evidence when that file is fetched (it is a plain
+    # GitHub fetch, so it normally is); without it the build still runs and
+    # its note says the lemma evidence is absent.
+    th = os.path.join(CORPUS, "lexicons", "thayer-pages.json")
+    sg = os.path.join(CORPUS, "lexicons", "strongs-greek.xml")
+    if os.path.exists(th):
+        jobs.append(("thayer-entries", lambda: convert_thayer_entries(
+            th, strongs_path=sg if os.path.exists(sg) else None)))
     for slug, files, title, author, note in (
         ("tbesg-greek", ["tbesg-greek.txt"],
          "Translators Brief Lexicon of Extended Strong's for Greek (TBESG)",

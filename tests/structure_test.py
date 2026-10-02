@@ -257,6 +257,81 @@ check("thayer: honesty says entries are NOT segmented",
       "NOT segmented" in tb["scheme"]["honesty"])
 os.unlink(th_path)
 
+# ------------------------------------------------- Thayer, split into entries
+# Synthetic pages in Thayer's shape (headword, -gen., article; gloss). Each
+# line is there to exercise one decision of convert_thayer_entries.
+THAYER_PAGES = {
+    "1": "PREFACE\n\n\u1F00\u03B3\u03AC\u03C0\u03B7, quoted in the preface, not an entry.\n",
+    "2": "\u1F00\u03B3\u03B1\u03B8\u03CC\u03C2\n"
+         "\n"
+         "\u1F00\u03B3\u03B1\u03B8\u03CC\u03C2, -\u03AE, -\u03CC\u03BD, good, Mt. v. 45.\n"
+         "so used of persons and things alike;\n"
+         "\u03C8\u03C5\u03C7\u03AE, out of order: mid-entry Greek, not a head.\n"
+         "\u1F00\u03B3\u03B1\u03B8\u03C9\u03C3\u03CD\u03BD\u03B7, -\u03B7\u03C2, \u1F21, goodness; its blank line lost.\n"
+         "\n"
+         "\u1F00\u03B3\u03B1\u03BB\u03BB\u03AF\u03B1\u03C3\u03B9\u03C2, -\u03B5\u03C9\u03C2, \u1F21, exultation,\n"
+         "\u1F00\u03B3\u03B1\u03BC\u03BF\u03C2, in order but bare: no blank line, no lemma.\n"
+         "2\n",
+    "3": "\u1F00\u03B3\u03AC\u03C0\u03B7\n"
+         "continued from the page before, Lk. i. 14.\n"
+         "\n"
+         "\u1F00\u03B3\u03AC\u03C0\u03B7, -\u03B7\u03C2, \u1F21, love, Jn. xiii. 35.\n",
+    "4": "INDEX\n\n\u1F00\u03B2\u03B2\u1FB6, in the English index, not an entry.\n",
+}
+SG_FIX = ('<strongsdictionary><entries>'
+          '<entry strongs="00018"><greek unicode="\u1F00\u03B3\u03B1\u03B8\u03CC\u03C2"/></entry>'
+          '<entry strongs="00019"><greek unicode="\u1F00\u03B3\u03B1\u03B8\u03C9\u03C3\u03CD\u03BD\u03B7"/></entry>'
+          '<entry strongs="00020"><greek unicode="\u1F00\u03B3\u03B1\u03BB\u03BB\u03AF\u03B1\u03C3\u03B9\u03C2"/></entry>'
+          '<entry strongs="00026"><greek unicode="\u1F00\u03B3\u03AC\u03C0\u03B7"/></entry>'
+          '</entries></strongsdictionary>')
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as f:
+    _json.dump(THAYER_PAGES, f); te_path = f.name
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(SG_FIX); sg_path = f.name
+te = st.convert_thayer_entries(te_path, strongs_path=sg_path)
+heads = [u["lex"]["headword"] for u in te["units"]]
+check("thayer-entries: front matter and appendix (no Greek running head) give no entries",
+      all(1 < p < 4 for u in te["units"] for p in u["lex"]["pages"]))
+check("thayer-entries: out-of-order mid-entry Greek is not a headword, its line stays in the entry",
+      "\u03C8\u03C5\u03C7\u03AE" not in heads and "\u03C8\u03C5\u03C7\u03AE" in te["units"][0]["text"])
+check("thayer-entries: a Strong's lemma in order is a headword even with its blank line lost",
+      "\u1F00\u03B3\u03B1\u03B8\u03C9\u03C3\u03CD\u03BD\u03B7" in heads)
+check("thayer-entries: in order but no other evidence is NOT a headword (text kept in the entry before)",
+      "\u1F00\u03B3\u03B1\u03BC\u03BF\u03C2" not in heads
+      and "in order but bare" in te["units"][2]["text"])
+check("thayer-entries: an entry crossing a page keeps its text and links BOTH pages",
+      te["units"][2]["lex"]["pages"] == [2, 3]
+      and "continued from the page before" in te["units"][2]["text"]
+      and [l["target"] for l in te["units"][2]["links"] if l["kind"] == "page"]
+          == ["thayer:p.2", "thayer:p.3"])
+check("thayer-entries: id is page + transliterated headword; ref says s.v.",
+      te["units"][0]["id"] == "thayer-entries:p.2.agathos"
+      and te["units"][0]["ref"] == "Thayer p. 2, s.v. \u1F00\u03B3\u03B1\u03B8\u03CC\u03C2")
+check("thayer-entries: headword linked to its Strong's entry, accents ignored",
+      {"kind": "strongs", "target": "strongs-greek:G26", "match": "headword, accents ignored"}
+      in te["units"][-1]["links"])
+check("thayer-entries: exactly the four real entries, in order",
+      [u["id"] for u in te["units"]] == ["thayer-entries:p.2.agathos",
+                                        "thayer-entries:p.2.agathosune",
+                                        "thayer-entries:p.2.agalliasis",
+                                        "thayer-entries:p.3.agape"])
+check("thayer-entries: honesty says INFERRED; the page book still says NOT segmented",
+      "INFERRED" in te["scheme"]["honesty"] and te["scheme"]["segmentation"]["weak"] == 1)
+te0 = st.convert_thayer_entries(te_path)
+check("thayer-entries: without Strong's it still builds, drops lemma-only heads, and says so",
+      "WITHOUT Strong's" in te0["scheme"]["note"]
+      and "\u1F00\u03B3\u03B1\u03B8\u03C9\u03C3\u03CD\u03BD\u03B7" not in
+          [u["lex"]["headword"] for u in te0["units"]])
+check("thayer-entries: deterministic -- same input, same bytes",
+      _json.dumps(st.convert_thayer_entries(te_path, strongs_path=sg_path), ensure_ascii=False)
+      == _json.dumps(te, ensure_ascii=False))
+check("thayer-entries: key ignores accents, breathings, case, final sigma",
+      st.thayer_key("\u1F08\u03B3\u03B1\u03B8\u03CC\u03C2") == st.thayer_key("\u03B1\u03B3\u03B1\u03B8\u03BF\u03C3")
+      and st.thayer_translit("\u1FE5\u1FC6\u03BC\u03B1") == "rhema")
+check("thayer-entries: weighted chain is the max-weight strictly increasing run",
+      st._lis_weighted(["b", "a", "c", "b", "d"], [1, 1, 1, 3, 1]) == [1, 3, 4])
+os.unlink(te_path); os.unlink(sg_path)
+
 # ------------------------------------------------------------ STEPBible Greek
 # Every case is a defect measured against the live files on 2026-09-06. Two of
 # them silently LOSE TEXT, which is why they are frozen here.
