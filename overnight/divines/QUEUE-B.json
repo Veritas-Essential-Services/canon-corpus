@@ -42,8 +42,11 @@
     },
     {
       "id": "overflow-perseus",
-      "status": "overflow",
-      "scope": "Perseus \u2014 census pipeline/perseus_catalog.py against what is fetched; record the gap as a measured list in docs/; fetch only if the existing pipeline supports it without editing fetch_sources.py"
+      "status": "done",
+      "scope": "Perseus \u2014 census pipeline/perseus_catalog.py against what is fetched; record the gap as a measured list in docs/; fetch only if the existing pipeline supports it without editing fetch_sources.py",
+      "started": "2026-10-02T15:28:44-05:00",
+      "finished": "2026-10-02T15:30:44-05:00",
+      "notes": "Census only (no fetch: the pipeline needs a PERSEUS entry in fetch_sources.py). Scaife catalogue: 923 English greekLit/latinLit texts, 82 authors; 3 in build, 34 same translation held, 54 author-shelf, 832 gap (625 likely US PD). docs/perseus-census.md + .csv, pipeline/perseus_census.py. Finding: Williams's Aeneid is already in the build (aeneid-williams); Virgil map corrected."
     }
   ]
 }
