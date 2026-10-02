@@ -201,11 +201,13 @@
     },
     {
       "id": "boston",
-      "status": "running",
+      "status": "done",
       "scope": "Thomas Boston: Complete Works (ed. McMillan, 12 vols, 1853) + Fourfold State, Crook in the Lot",
       "added": "2026-10-02T16:28:03-05:00",
       "added_by": "lane A worker, round 3 (the coordinator's default list was finished; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
-      "started": "2026-10-02T16:30:57-05:00"
+      "started": "2026-10-02T16:30:57-05:00",
+      "finished": "2026-10-02T16:33:01-05:00",
+      "notes": "Whole Works 12 vols + CCEL Crook"
     },
     {
       "id": "gurnall",

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:32 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:33 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -38,12 +38,13 @@ Adam did not choose these; the coordinator picked them as defaults while you wer
 
 ## Round 3: my picks, also for your veto
 
-The coordinator's list was nearly done by 16:30 CDT (Spurgeon still fetching), with most of the burn left, so lane A carried on with further Puritan and Reformed classics of the same kind. Nobody chose these but the worker: drop any you do not want.
+The coordinator's list was done by 16:32 CDT with most of the burn left, so lane A carried on with further Puritan and Reformed classics of the same kind. Nobody chose these but the worker: drop any you do not want.
 
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | Stephen Charnock | charnock_shelf.json | 6 CCEL discourses | 5 (Nichol Complete Works 1864-66, complete) | none | Richard Stephen Charnock (etymologist) |
 | Thomas Manton | manton_shelf.json | 9 CCEL volumes of the Works (1-8, 20) | 13 (the other Nisbet volumes; Works complete, 22 vols) | none | none |
+| Thomas Boston | boston_shelf.json | 1 CCEL (The Crook in the Lot) | 12 (M'Millan Whole Works 1848-52, complete) | a clean Fourfold State | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

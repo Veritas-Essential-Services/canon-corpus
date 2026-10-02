@@ -547,6 +547,29 @@ The sermons, 63 volumes (1855-1917), and seven other works are held clean from C
 | The Treasury of David (New York: Funk & Wagnalls, 1882-1886 printing), vol. 7: Psalms 125-150 | have-raw | IA `treasuryofdavidc0007spur` |
 | Lectures to My Students; John Ploughman's Talk; The Soul Winner; Gutenberg Spurgeon | pending | not searched this burn |
 | CCEL Treasury of David (treasury1-6) | excluded | stubs |
+
+
+## Thomas Boston (round 3, my pick, 2026-10-02)
+
+Target: M'Millan's *Whole Works of Thomas Boston* (12 vols, 1848-1852, including his Memoirs), raw IA OCR, each volume read off its title page. The Crook in the Lot is held clean from CCEL.
+
+| Work | Status | Where |
+|---|---|---|
+| The Crook in the Lot | have | CCEL `crook` (`boston-crook-in-lot`) |
+| Whole Works vol. 1 | have-raw | IA `wholeworksoflate01bost` |
+| Whole Works vol. 2 | have-raw | IA `wholeworksoflate02bost` |
+| Whole Works vol. 3 | have-raw | IA `wholeworksoflate03bost` |
+| Whole Works vol. 4 | have-raw | IA `wholeworksoflate04bost` |
+| Whole Works vol. 5 | have-raw | IA `wholeworksoflate05bost` |
+| Whole Works vol. 6 | have-raw | IA `wholeworksoflate06bost` |
+| Whole Works vol. 7 | have-raw | IA `wholeworksoflate07bost` |
+| Whole Works vol. 8 | have-raw | IA `wholeworksoflate08bost` |
+| Whole Works vol. 9 | have-raw | IA `wholeworkslater02bostgoog` |
+| Whole Works vol. 10 | have-raw | IA `wholeworksoflate10bost` |
+| Whole Works vol. 11 | have-raw | IA `wholeworksoflate11bost` |
+| Whole Works vol. 12 | have-raw | IA `wholeworksoflate12bost` |
+| Human Nature in its Fourfold State, Memoirs, Crook in the Lot: separate printings 1775-1899 | alternate | in the Whole Works |
+| A clean Fourfold State | wishlist | no PD machine-readable edition found |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

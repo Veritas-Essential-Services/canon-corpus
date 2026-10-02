@@ -122,3 +122,6 @@
 ## 2026-10-02 16:32 CDT — spurgeon done
 - `pipeline/spurgeon_shelf.json`: 70 CCEL works fetched and converted: the Sermons in 63 volumes plus Morning and Evening, All of Grace, Faith's Checkbook, A Puritan Catechism, Commenting and Commentaries, Sermons on Proverbs, Till He Come. 194,800 units but only 6,138 scripture links: CCEL's Spurgeon files carry little scripRef markup, so the sermons' texts are not yet linked to verses. The Treasury of David, 7 vols, as raw IA OCR. About 157 MB in all, the largest shelf of the burn. `--verify`: 0 mismatched.
 - CCEL's `spurgeon/treasury1`..`6` are stubs (about 4 KB of text each; the psalms are on separate web pages), recorded under `_excluded`. Rights: DC.Rights is empty in 66 files and "Public Domain" in 4; Commenting and Commentaries reproduces its 1890 title-page "All rights reserved", which is historical (Spurgeon d. 1892). 0 uids minted.
+
+## 2026-10-02 16:33 CDT — boston done
+- `pipeline/boston_shelf.json`: M'Millan's Whole Works, all 12 volumes, raw IA OCR (vol. 9 from a Google scan because the main series' text file returned HTTP 500), plus The Crook in the Lot from CCEL (439 units, 4 links). About 24 MB. `--verify`: 0 mismatched. 0 uids minted.

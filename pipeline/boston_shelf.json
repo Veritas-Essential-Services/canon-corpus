@@ -1,0 +1,78 @@
+{
+ "_about": "Every public-domain Thomas Boston (1677-1732, Ettrick) text the Word Hoard holds. The target is M'Millan's Whole Works (12 vols, 1848-1852, including his Memoirs), Internet Archive OCR, raw and unconverted, each volume number read off its title page; vol. 9 comes from a Google scan because the main series' copy returned HTTP 500 on 2026-10-02. The Crook in the Lot is held clean from CCEL. No Gutenberg Boston found.",
+ "_ccel_author": "b/boston",
+ "_name_words": [
+  "boston"
+ ],
+ "_held": {},
+ "ccel": {
+  "boston-crook-in-lot": [
+   "crook",
+   "The Crook in the Lot",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "boston-works-01": [
+   "wholeworksoflate01bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 1"
+  ],
+  "boston-works-02": [
+   "wholeworksoflate02bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 2"
+  ],
+  "boston-works-03": [
+   "wholeworksoflate03bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 3"
+  ],
+  "boston-works-04": [
+   "wholeworksoflate04bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 4"
+  ],
+  "boston-works-05": [
+   "wholeworksoflate05bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 5"
+  ],
+  "boston-works-06": [
+   "wholeworksoflate06bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 6"
+  ],
+  "boston-works-07": [
+   "wholeworksoflate07bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 7"
+  ],
+  "boston-works-08": [
+   "wholeworksoflate08bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 8"
+  ],
+  "boston-works-09": [
+   "wholeworkslater02bostgoog",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 9"
+  ],
+  "boston-works-10": [
+   "wholeworksoflate10bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 10"
+  ],
+  "boston-works-11": [
+   "wholeworksoflate11bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 11"
+  ],
+  "boston-works-12": [
+   "wholeworksoflate12bost",
+   "The Whole Works of the Late Reverend Thomas Boston of Ettrick, ed. Samuel M'Millan (Aberdeen, 1848-1852), vol. 12"
+  ]
+ },
+ "_alternates": {
+  "wholeworksoflate09bost": "Main-series scan of vol. 9: text file returned HTTP 500 twice; the Google scan is held instead.",
+  "wholeworkslater0[0-9]bostgoog, wholeworkslater10bostgoog": "Google scans of the same set (title-page volume numbers differ from file names).",
+  "humannatureinit*, humannatureinits* (1784-1850)": "Human Nature in its Fourfold State, separate printings; in the Whole Works.",
+  "crookinlot* (1791-1852), MN41375ucmf_3": "The Crook in the Lot, separate printings; CCEL text held.",
+  "memoirs* (1776-1899)": "Boston's Memoirs, separate printings; in the Whole Works.",
+  "posthumousworks0[0-2]bostgoog (1802), viewofcovenantof01bost (1775)": "Earlier printings; in the Whole Works.",
+  "marrmod00fish, marrowmoderndiv01bostgoog": "Fisher's Marrow of Modern Divinity with Boston's notes; Boston's notes are in the Whole Works."
+ },
+ "_excluded": {
+  "Boston Public Library and other 'Boston' catalogue hits": "not Thomas Boston"
+ }
+}
