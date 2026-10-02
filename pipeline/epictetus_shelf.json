@@ -1,5 +1,5 @@
 {
- "_about": "Epictetus in English (Arrian's Discourses and the Encheiridion), translator per title. Complete: George Long (1877, raw IA), P. E. Matheson (Oxford, 1916, 2 vols., raw IA; English only), Thomas Wentworth Higginson (1865; 1890 printing, 2 vols., raw IA). Clean Gutenberg: Long's Selection (1890), Crossley's Golden Sayings, Rolleston's Teaching. The Adler shelf's epictetus-discourses is labelled 'The Discourses, tr. P.E. Matheson' there, but its PG 45109 is Higginson's Enchiridion alone; Matheson's Discourses are on this shelf.",
+ "_about": "Epictetus in English (Arrian's Discourses and the Encheiridion), translator per title. Complete: George Long (1877, raw IA), P. E. Matheson (Oxford, 1916, 2 vols., raw IA; English only), Thomas Wentworth Higginson (1865; 1890 printing, 2 vols., raw IA). Clean Gutenberg: Long's Selection (1890), Crossley's Golden Sayings, Rolleston's Teaching. The Adler shelf's epictetus-discourses is labelled 'The Discourses, tr. P.E. Matheson' there, but its PG 45109 is Higginson's Enchiridion alone; Matheson's Discourses are on this shelf. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
  "_name_words": [
   "epictetus",
   "discourses",
@@ -49,6 +49,11 @@
    "worksepictetusc00epicgoog",
    "The Works of Epictetus, vol. 2 (1890 printing)",
    "tr. Thomas Wentworth Higginson"
+  ],
+  "epictetus-carter": [
+   "allworksofepicte00epic",
+   "All the Works of Epictetus, which are now Extant (Dublin, 1759)",
+   "tr. Elizabeth Carter"
   ]
  },
  "_cross_ref": {
