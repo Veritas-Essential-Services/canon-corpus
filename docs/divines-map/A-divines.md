@@ -198,3 +198,68 @@ The whole Summa is already covered by public-domain English text: the Fathers of
 | Latin text | pending | out of scope for this census; a PD Latin edition (Leonine or Piana) is a wishlist item |
 
 Defects found: in the Gutenberg files the first question of three treatises has no `QUESTION n` heading line (I Q. 116 "On Fate", I-II Q. 1 "Of Man's Last End", II-II Q. 183): the text is there, so a future question-level splitter must key on the question title too. `aquinas-summa-supp` is built by a standalone script and is not yet a row in `adler_shelf.json`, so a shelf-driven rebuild would miss it.
+
+
+## John Owen (round 2, 2026-10-02)
+
+Target: the Goold edition, *The Works of John Owen* (Edinburgh: Johnstone & Hunter, 1850-1855), 24 volumes, vols. 18-24 the Exposition of Hebrews. All 24 are held as raw IA OCR; each volume number was read off the title-page OCR. Every CCEL Owen title is held as clean ThML. No Gutenberg Owen exists.
+
+| Work | Status | Where |
+|---|---|---|
+| `owen-mort` | have | already in `fetch_sources.py` (CCEL) |
+| `owen-temptation` | have | already in `fetch_sources.py` (CCEL) |
+| `owen-communion` | have | already in `fetch_sources.py` (CCEL) |
+| `owen-glory` | have | already in `fetch_sources.py` (CCEL) |
+| Nature and Causes of Apostasy from the Gospel | have | CCEL `apostasy` (`owen-apostasy`) |
+| Two Short Catechisms | have | CCEL `catechisms` (`owen-catechisms`) |
+| A Discourse concerning Evangelical Love, Church Peace, and Unity | have | CCEL `churchlove` (`owen-churchlove`) |
+| Several Practical Cases of Conscience Resolved | have | CCEL `conscience` (`owen-conscience`) |
+| The Death of Death in the Death of Christ | have | CCEL `deathofdeath` (`owen-deathofdeath`) |
+| Sacramental Discourses | have | CCEL `discourses` (`owen-discourses`) |
+| A Display of Arminianism | have | CCEL `display` (`owen-display`) |
+| Eshcol; A Cluster of the Fruit of Canaan | have | CCEL `eshcol` (`owen-eshcol`) |
+| An Inquiry into the Original, Nature, Institution, Power, Order, and Communion of Evangelical Churches | have | CCEL `evangelicalchurches` (`owen-evangelicalchurches`) |
+| Gospel Grounds and Evidences of the Faith of God's Elect | have | CCEL `faith` (`owen-faith`) |
+| A Review of the Annotations of Hugo Grotius | have | CCEL `grotius` (`owen-grotius`) |
+| The Nature, Power, Deceit, and Prevelancy of the Remainders of Indwelling Sin in Believers | have | CCEL `indwellingsin` (`owen-indwellingsin`) |
+| The Doctrine of Justification by Faith | have | CCEL `just` (`owen-just`) |
+| A Dissertation on Divine Justice | have | CCEL `justice` (`owen-justice`) |
+| A Discourse Concerning Liturgies, and their Imposition | have | CCEL `liturgies` (`owen-liturgies`) |
+| The Doctrine of the Saints' Perseverance Explained and Confirmed | have | CCEL `perseverance` (`owen-perseverance`) |
+| Pneumatologia | have | CCEL `pneum` (`owen-pneum`) |
+| Poema | have | CCEL `poema` (`owen-poema`) |
+| A Practical Exposition upon Psalm CXXX | have | CCEL `psalm130` (`owen-psalm130`) |
+| Of Schism | have | CCEL `schism` (`owen-schism`) |
+| The Sermons of John Owen | have | CCEL `sermons` (`owen-sermons`) |
+| A Treatise of the Dominion of Sin and Grace | have | CCEL `sin_grace` (`owen-sin-grace`) |
+| The Grace and Duty of being Spiritually Minded | have | CCEL `spirituallyminded` (`owen-spirituallyminded`) |
+| A Brief Declaration and Vindication of The Doctrine of the Trinity | have | CCEL `trinity` (`owen-trinity`) |
+| Truth and Innocence Vindicated | have | CCEL `truthinnocence` (`owen-truthinnocence`) |
+| Vindiciæ Evangelicæ or, the Mystery of the Gospel Vindicated and Socinianism Examined | have | CCEL `vindicevang` (`owen-vindicevang`) |
+| A Brief Instruction in the Worship of God | have | CCEL `worship` (`owen-worship`) |
+| Goold vol. 1 | have-raw | IA `worksofjohnowe185001owen` |
+| Goold vol. 2 | have-raw | IA `worksofjohnowe185002owen` |
+| Goold vol. 3 | have-raw | IA `worksofjohnowe185003owen` |
+| Goold vol. 4 | have-raw | IA `worksofjohnowen04owen` |
+| Goold vol. 5 | have-raw | IA `worksofjohnowe185005owen` |
+| Goold vol. 6 | have-raw | IA `worksofjohnowen06owen` |
+| Goold vol. 7 | have-raw | IA `worksofjohnowen185007owen` |
+| Goold vol. 8 | have-raw | IA `theworksofowen08owenuoft` |
+| Goold vol. 9 | have-raw | IA `worksofjohnowe185009owen` |
+| Goold vol. 10 | have-raw | IA `worksofjohnowe185010owen` |
+| Goold vol. 11 | have-raw | IA `worksofjohnowend0011owen` |
+| Goold vol. 12 | have-raw | IA `theworksofowen12owenuoft` |
+| Goold vol. 13 | have-raw | IA `worksofjohnowe185013owen` |
+| Goold vol. 14 | have-raw | IA `worksofjohnowen14owen` |
+| Goold vol. 15 | have-raw | IA `worksofjohnowen15owen` |
+| Goold vol. 16 | have-raw | IA `worksofjohnowe185016owen` |
+| Goold vol. 17 | have-raw | IA `worksofjohnowend0017owen` |
+| Goold vol. 18 (Hebrews) | have-raw | IA `worksofjohnowend0018owen` |
+| Goold vol. 19 (Hebrews) | have-raw | IA `owensworks19owenuoft` |
+| Goold vol. 20 (Hebrews) | have-raw | IA `owensworks20owenuoft` |
+| Goold vol. 21 (Hebrews) | have-raw | IA `owensworks04owenuoft` |
+| Goold vol. 22 (Hebrews) | have-raw | IA `owensworks05owenuoft` |
+| Goold vol. 23 (Hebrews) | have-raw | IA `worksofjohnowend0023owen` |
+| Goold vol. 24 (Hebrews) | have-raw | IA `owensworks07owenuoft` |
+| Russell edition 1826; separate Hebrews editions 1811/1839/1840; Goold reprints 1862/1869 | alternate | not fetched: Goold supersedes them |
+| Banner of Truth reprints (1965 onward); 1953/1954/1991 editions | excluded | possibly in copyright |

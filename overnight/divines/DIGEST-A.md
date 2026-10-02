@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 15:53 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 16:02 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -17,6 +17,14 @@ Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-d
 | Aquinas Summa (census) | none needed | the whole Summa is already held | | | |
 
 126 items fetched this burn (120 for the six authors, 6 Edwards gaps), about 93 MB. None are minted: **every new slug awaits your single-writer uid pass.**
+
+## Round 2: added for your veto (coordinator's default picks)
+
+Adam did not choose these; the coordinator picked them as defaults while you were away. Say the word and any shelf is dropped before merge.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| John Owen | owen_shelf.json | 27 CCEL (+4 already held) | 24 (Goold Works 1850-55, complete incl. Hebrews) | none | Banner reprints, modern editions |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

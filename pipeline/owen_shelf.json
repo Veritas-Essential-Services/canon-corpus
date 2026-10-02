@@ -1,0 +1,259 @@
+{
+ "_about": "Every public-domain John Owen (1616-1683) text the Word Hoard holds. The target is the complete Goold edition (The Works of John Owen, ed. William H. Goold, Edinburgh: Johnstone & Hunter, 1850-1855; 24 volumes, vols. 18-24 the Exposition of Hebrews), Internet Archive OCR text, raw and unconverted (the Edwards precedent). Each volume number was read from the title-page OCR, not from IA metadata. CCEL ThML is fetched for every CCEL Owen title not already held. No Gutenberg Owen exists (searched 2026-10-02). Banner of Truth reprints (1965 onward) and modern editions are excluded: their editorial matter may be in copyright.",
+ "_ccel_author": "o/owen",
+ "_name_words": [
+  "owen"
+ ],
+ "_held": {
+  "owen-mort": "already in pipeline/fetch_sources.py CCEL dict; not refetched here",
+  "owen-temptation": "already in pipeline/fetch_sources.py CCEL dict; not refetched here",
+  "owen-communion": "already in pipeline/fetch_sources.py CCEL dict; not refetched here",
+  "owen-glory": "already in pipeline/fetch_sources.py CCEL dict; not refetched here"
+ },
+ "ccel": {
+  "owen-apostasy": [
+   "apostasy",
+   "Nature and Causes of Apostasy from the Gospel",
+   ""
+  ],
+  "owen-catechisms": [
+   "catechisms",
+   "Two Short Catechisms",
+   ""
+  ],
+  "owen-churchlove": [
+   "churchlove",
+   "A Discourse concerning Evangelical Love, Church Peace, and Unity",
+   ""
+  ],
+  "owen-conscience": [
+   "conscience",
+   "Several Practical Cases of Conscience Resolved",
+   ""
+  ],
+  "owen-deathofdeath": [
+   "deathofdeath",
+   "The Death of Death in the Death of Christ",
+   ""
+  ],
+  "owen-discourses": [
+   "discourses",
+   "Sacramental Discourses",
+   ""
+  ],
+  "owen-display": [
+   "display",
+   "A Display of Arminianism",
+   ""
+  ],
+  "owen-eshcol": [
+   "eshcol",
+   "Eshcol; A Cluster of the Fruit of Canaan",
+   ""
+  ],
+  "owen-evangelicalchurches": [
+   "evangelicalchurches",
+   "An Inquiry into the Original, Nature, Institution, Power, Order, and Communion of Evangelical Churches",
+   ""
+  ],
+  "owen-faith": [
+   "faith",
+   "Gospel Grounds and Evidences of the Faith of God's Elect",
+   ""
+  ],
+  "owen-grotius": [
+   "grotius",
+   "A Review of the Annotations of Hugo Grotius",
+   ""
+  ],
+  "owen-indwellingsin": [
+   "indwellingsin",
+   "The Nature, Power, Deceit, and Prevelancy of the Remainders of Indwelling Sin in Believers",
+   ""
+  ],
+  "owen-just": [
+   "just",
+   "The Doctrine of Justification by Faith",
+   ""
+  ],
+  "owen-justice": [
+   "justice",
+   "A Dissertation on Divine Justice",
+   ""
+  ],
+  "owen-liturgies": [
+   "liturgies",
+   "A Discourse Concerning Liturgies, and their Imposition",
+   ""
+  ],
+  "owen-perseverance": [
+   "perseverance",
+   "The Doctrine of the Saints' Perseverance Explained and Confirmed",
+   ""
+  ],
+  "owen-pneum": [
+   "pneum",
+   "Pneumatologia",
+   ""
+  ],
+  "owen-poema": [
+   "poema",
+   "Poema",
+   ""
+  ],
+  "owen-psalm130": [
+   "psalm130",
+   "A Practical Exposition upon Psalm CXXX",
+   ""
+  ],
+  "owen-schism": [
+   "schism",
+   "Of Schism",
+   ""
+  ],
+  "owen-sermons": [
+   "sermons",
+   "The Sermons of John Owen",
+   ""
+  ],
+  "owen-sin-grace": [
+   "sin_grace",
+   "A Treatise of the Dominion of Sin and Grace",
+   ""
+  ],
+  "owen-spirituallyminded": [
+   "spirituallyminded",
+   "The Grace and Duty of being Spiritually Minded",
+   ""
+  ],
+  "owen-trinity": [
+   "trinity",
+   "A Brief Declaration and Vindication of The Doctrine of the Trinity",
+   ""
+  ],
+  "owen-truthinnocence": [
+   "truthinnocence",
+   "Truth and Innocence Vindicated",
+   ""
+  ],
+  "owen-vindicevang": [
+   "vindicevang",
+   "Vindiciæ Evangelicæ or, the Mystery of the Gospel Vindicated and Socinianism Examined",
+   ""
+  ],
+  "owen-worship": [
+   "worship",
+   "A Brief Instruction in the Worship of God",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "owen-works-goold-01": [
+   "worksofjohnowe185001owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 1"
+  ],
+  "owen-works-goold-02": [
+   "worksofjohnowe185002owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 2"
+  ],
+  "owen-works-goold-03": [
+   "worksofjohnowe185003owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 3"
+  ],
+  "owen-works-goold-04": [
+   "worksofjohnowen04owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 4"
+  ],
+  "owen-works-goold-05": [
+   "worksofjohnowe185005owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 5"
+  ],
+  "owen-works-goold-06": [
+   "worksofjohnowen06owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 6"
+  ],
+  "owen-works-goold-07": [
+   "worksofjohnowen185007owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 7"
+  ],
+  "owen-works-goold-08": [
+   "theworksofowen08owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 8"
+  ],
+  "owen-works-goold-09": [
+   "worksofjohnowe185009owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 9"
+  ],
+  "owen-works-goold-10": [
+   "worksofjohnowe185010owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 10"
+  ],
+  "owen-works-goold-11": [
+   "worksofjohnowend0011owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 11"
+  ],
+  "owen-works-goold-12": [
+   "theworksofowen12owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 12"
+  ],
+  "owen-works-goold-13": [
+   "worksofjohnowe185013owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 13"
+  ],
+  "owen-works-goold-14": [
+   "worksofjohnowen14owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 14"
+  ],
+  "owen-works-goold-15": [
+   "worksofjohnowen15owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 15"
+  ],
+  "owen-works-goold-16": [
+   "worksofjohnowe185016owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 16"
+  ],
+  "owen-works-goold-17": [
+   "worksofjohnowend0017owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 17"
+  ],
+  "owen-works-goold-18": [
+   "worksofjohnowend0018owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 18 (Exposition of Hebrews)"
+  ],
+  "owen-works-goold-19": [
+   "owensworks19owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 19 (Exposition of Hebrews)"
+  ],
+  "owen-works-goold-20": [
+   "owensworks20owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 20 (Exposition of Hebrews)"
+  ],
+  "owen-works-goold-21": [
+   "owensworks04owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 21 (Exposition of Hebrews)"
+  ],
+  "owen-works-goold-22": [
+   "owensworks05owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 22 (Exposition of Hebrews)"
+  ],
+  "owen-works-goold-23": [
+   "worksofjohnowend0023owen",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 23 (Exposition of Hebrews)"
+  ],
+  "owen-works-goold-24": [
+   "owensworks07owenuoft",
+   "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-1855), vol. 24 (Exposition of Hebrews)"
+  ]
+ },
+ "_alternates": {
+  "worksofjohnowend0019owen": "Second scan of Goold vol. 19; not fetched (owensworks19owenuoft is used).",
+  "Russell 1826 edition": "The Works of John Owen, ed. Thomas Russell (London: Baynes, 1826), 21 vols + Hebrews; scans exist on IA; not fetched: Goold supersedes it.",
+  "Hebrews 1811/1839/1840": "Separate editions of the Exposition of Hebrews; not fetched: duplicates Goold vols. 18-24.",
+  "Goold reprints 1862/1869": "Later printings of the Goold plates; not fetched: duplicates."
+ },
+ "_excluded": {
+  "Banner of Truth 1965/1980 reprints": "modern reprint; editorial matter may be in copyright",
+  "1953/1954/1991 editions": "modern editions; in copyright"
+ }
+}

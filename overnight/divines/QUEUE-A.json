@@ -74,10 +74,13 @@
     },
     {
       "id": "owen",
-      "status": "todo",
+      "status": "done",
       "scope": "John Owen: Works, ed. Goold (24 vols); CCEL titles already in fetch_sources.py listed as held",
       "added": "2026-10-02T15:56:35-05:00",
-      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)"
+      "added_by": "coordinator relay 2026-10-02 (default picks; Adam may veto in the digest)",
+      "started": "2026-10-02T15:56:45-05:00",
+      "finished": "2026-10-02T16:02:18-05:00",
+      "notes": "27 CCEL + 24 Goold IA; verify 0 mismatched"
     },
     {
       "id": "sibbes",
