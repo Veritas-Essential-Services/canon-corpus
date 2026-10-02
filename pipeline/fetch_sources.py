@@ -307,6 +307,187 @@ FIRST1K = {
         "(Oxford, 1840)"),
 }
 
+
+# CSEL (Corpus Scriptorum Ecclesiasticorum Latinorum, Vienna) -- the Latin
+# FATHERS, 2026-10-02, from OpenGreekAndLatin/csel-dev: each the TEI of a
+# CSEL volume published 1867-1922 (all before 1931; the Latin text has no
+# author's right and any editor's right is long expired), OCR'd and
+# machine-corrected by Leipzig, licence CC BY-SA 4.0 read from each file.
+# The text is NOT proofread: the books say so. NOT taken:
+#   - verse (Commodian; Lactantius' Phoenix and De passione; Augustine's
+#     Psalmus contra partem Donati): no prose divisions to cite;
+#   - stoa0040.stoa054.opp-lat2, filed as Augustine's De natura et gratia
+#     but from Zangemeister's 1882 volume (Orosius): mislabelled;
+#   - Cyprian: not in csel-dev; Jerome beyond the Letters and Jeremiah, and
+#     Augustine's sermons and Psalms: not there either.
+CSEL_RAW = "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/{path}"
+CSEL = {
+    "ambrose-apologia-david-altera-lat": ("stoa0022/stoa014/stoa0022.stoa014.opp-lat1.xml",
+        "Apologia Altera Prophetae David -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-apologia-david-lat": ("stoa0022/stoa015/stoa0022.stoa015.opp-lat1.xml",
+        "Apologia Prophetae David Ad Theodosium Augustum -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-benedictionibus-patriarcharum-lat": ("stoa0022/stoa019/stoa0022.stoa019.opp-lat1.xml",
+        "De Benedictionibus Patriarcharum Liber Unus -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-cain-et-abel-lat": ("stoa0022/stoa021/stoa0022.stoa021.opp-lat1.xml",
+        "De Cain et Abel -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "ambrose-de-helia-lat": ("stoa0022/stoa025/stoa0022.stoa025.opp-lat1.xml",
+        "De Helia et Ieiunio -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-fuga-saeculi-lat": ("stoa0022/stoa029/stoa0022.stoa029.opp-lat1.xml",
+        "De Fuga Saeculi -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-interpellatione-iob-lat": ("stoa0022/stoa032/stoa0022.stoa032.opp-lat1.xml",
+        "De Interpellatione Iob et David -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-iacob-lat": ("stoa0022/stoa034/stoa0022.stoa034.opp-lat1.xml",
+        "De Iacob -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-ioseph-lat": ("stoa0022/stoa035/stoa0022.stoa035.opp-lat1.xml",
+        "De Joseph -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-nabuthae-lat": ("stoa0022/stoa038/stoa0022.stoa038.opp-lat1.xml",
+        "De Nabuthae -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-noe-lat": ("stoa0022/stoa039/stoa0022.stoa039.opp-lat1.xml",
+        "De Noe -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "ambrose-de-paradiso-lat": ("stoa0022/stoa042/stoa0022.stoa042.opp-lat1.xml",
+        "De Paradiso -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "ambrose-de-tobia-lat": ("stoa0022/stoa044/stoa0022.stoa044.opp-lat1.xml",
+        "De Tobia -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-explanatio-psalmorum-xii-lat": ("stoa0022/stoa048/stoa0022.stoa048.opp-lat1.xml",
+        "Explanatio Psalmorum XII -- ed. Michael Petschenig, CSEL 64 (1919)"),
+    "ambrose-expositio-lucam-lat": ("stoa0022/stoa051/stoa0022.stoa051.opp-lat1.xml",
+        "Expositio Evangelii secundum Lucan -- ed. Karl Schenkl & Henricus Schenkl, CSEL 32.4 (1902)"),
+    "ambrose-expositio-psalmi-118-lat": ("stoa0022/stoa052/stoa0022.stoa052.opp-lat1.xml",
+        "Expositio Psalmi CXVIII -- ed. Michael Petschenig, CSEL 62 (1913)"),
+    "ambrose-exameron-lat": ("stoa0022/stoa054/stoa0022.stoa054.opp-lat1.xml",
+        "Exameron -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "arnobius-adversus-nationes-lat": ("stoa0034/stoa001/stoa0034.stoa001.opp-lat1.xml",
+        "Adversus nationes Libri VII -- ed. August Reifferscheid, CSEL 4 (1875)"),
+    "augustine-confessiones-lat": ("stoa0040/stoa001/stoa0040.stoa001.opp-lat1.xml",
+        "Confessiones -- ed. Pius Knöll, CSEL 33 (1896)"),
+    "augustine-de-civitate-dei-lat": ("stoa0040/stoa003/stoa0040.stoa003.opp-lat3.xml",
+        "De Civitate Dei -- ed. Emmanuel Hoffmann, CSEL 40 (1899-1900)"),
+    "augustine-de-fide-et-symbolo-lat": ("stoa0040/stoa006/stoa0040.stoa006.opp-lat1.xml",
+        "De Fide et Symbolo -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-epistulae-lat": ("stoa0040/stoa011/stoa0040.stoa011.opp-lat2.xml",
+        "Epistulae -- ed. Alois Goldbacher, CSEL 34.1-2, 44, 57 (1895-1911)"),
+    "augustine-contra-academicos-lat": ("stoa0040/stoa016/stoa0040.stoa016.opp-lat1.xml",
+        "Contra Academicos -- ed. Pius Knöll, CSEL 63 (1922)"),
+    "augustine-contra-adimantum-lat": ("stoa0040/stoa017/stoa0040.stoa017.opp-lat1.xml",
+        "Contra Adimantum -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-contra-cresconium-lat": ("stoa0040/stoa019/stoa0040.stoa019.opp-lat1.xml",
+        "Contra Cresconium -- ed. Michael Petschenig, CSEL 52 (1909)"),
+    "augustine-ad-catholicos-de-secta-donatistarum-lat": ("stoa0040/stoa020/stoa0040.stoa020.opp-lat1.xml",
+        "Epistula ad Catholicos de Secta Donatistarum -- ed. Michael Petschenig, CSEL 52 (1909)"),
+    "augustine-contra-duas-epistulas-pelagianorum-lat": ("stoa0040/stoa021/stoa0040.stoa021.opp-lat1.xml",
+        "Contra Duas Epistulas Pelegianorum -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-contra-epistulam-parmeniani-lat": ("stoa0040/stoa023/stoa0040.stoa023.opp-lat1.xml",
+        "Contra Epistulam Parmeniani -- ed. Michael Petschenig, CSEL 51 (1908)"),
+    "augustine-contra-faustum-lat": ("stoa0040/stoa024/stoa0040.stoa024.opp-lat1.xml",
+        "Contra Faustum -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-contra-gaudentium-lat": ("stoa0040/stoa025/stoa0040.stoa025.opp-lat1.xml",
+        "Contra Gaudentium Donatistarum Episcopum -- ed. Michael Petschenig, CSEL 53 (1910)"),
+    "augustine-contra-litteras-petiliani-lat": ("stoa0040/stoa027/stoa0040.stoa027.opp-lat1.xml",
+        "Contra Litteras Petiliani -- ed. Michael Petschenig, CSEL 52 (1909)"),
+    "augustine-contra-mendacium-lat": ("stoa0040/stoa029/stoa0040.stoa029.opp-lat1.xml",
+        "Contra Mendacium -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-contra-secundinum-lat": ("stoa0040/stoa031/stoa0040.stoa031.opp-lat1.xml",
+        "Contra Secundinem -- ed. Joseph Zycha, CSEL 25.2 (1892)"),
+    "augustine-de-agone-christiano-lat": ("stoa0040/stoa032/stoa0040.stoa032.opp-lat1.xml",
+        "De agone christiano -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-natura-et-origine-animae-lat": ("stoa0040/stoa033/stoa0040.stoa033.opp-lat1.xml",
+        "De Natura et Origine Animae -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-beata-vita-lat": ("stoa0040/stoa034/stoa0040.stoa034.opp-lat1.xml",
+        "De Beata Vita -- ed. Pius Knöll, CSEL 63 (1922)"),
+    "augustine-de-bono-coniugali-lat": ("stoa0040/stoa035/stoa0040.stoa035.opp-lat1.xml",
+        "De bono coniugali -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-coniugiis-adulterinis-lat": ("stoa0040/stoa036/stoa0040.stoa036.opp-lat1.xml",
+        "De Conjugiis Adulterinis -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-consensu-evangelistarum-lat": ("stoa0040/stoa037/stoa0040.stoa037.opp-lat1.xml",
+        "De Consensu Evangelistarum -- ed. Franz Weirich, CSEL 43 (1904)"),
+    "augustine-de-duabus-animabus-lat": ("stoa0040/stoa040/stoa0040.stoa040.opp-lat1.xml",
+        "Du Duabus Animabus -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-de-fide-et-operibus-lat": ("stoa0040/stoa041/stoa0040.stoa041.opp-lat1.xml",
+        "De Fide et Operibus -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-genesi-ad-litteram-imperfectus-lat": ("stoa0040/stoa042/stoa0040.stoa042.opp-lat1.xml",
+        "De Genesi Ad Litteram Imperfectus Liber -- ed. Joseph Zycha, CSEL 28.1 (1894)"),
+    "augustine-de-gestis-pelagii-lat": ("stoa0040/stoa044/stoa0040.stoa044.opp-lat1.xml",
+        "De Gestis Pelagii -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1904)"),
+    "augustine-de-gratia-christi-lat": ("stoa0040/stoa046/stoa0040.stoa046.opp-lat1.xml",
+        "De Gratia Christ -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1904)"),
+    "augustine-de-mendacio-lat": ("stoa0040/stoa050/stoa0040.stoa050.opp-lat1.xml",
+        "De Mendacio -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-natura-boni-lat": ("stoa0040/stoa053/stoa0040.stoa053.opp-lat1.xml",
+        "De Natura Boni -- ed. Joseph Zycha, CSEL 25.2 (1892)"),
+    "augustine-de-natura-et-gratia-lat": ("stoa0040/stoa054/stoa0040.stoa054.opp-lat1.xml",
+        "De Natura et Gratia -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-opere-monachorum-lat": ("stoa0040/stoa055/stoa0040.stoa055.opp-lat1.xml",
+        "De Opere Monachorum -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-ordine-lat": ("stoa0040/stoa056/stoa0040.stoa056.opp-lat1.xml",
+        "De Ordine -- ed. Pius Knöll, CSEL 63 (1922)"),
+    "augustine-de-peccatorum-meritis-lat": ("stoa0040/stoa057/stoa0040.stoa057.opp-lat1.xml",
+        "De Peccatorum Meritis et Remissione et de Baptismo Parvulorum -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-sancta-virginitate-lat": ("stoa0040/stoa060/stoa0040.stoa060.opp-lat1.xml",
+        "De Sancta Virginitate -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-spiritu-et-littera-lat": ("stoa0040/stoa062/stoa0040.stoa062.opp-lat1.xml",
+        "De Spiritu et Littera -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-unico-baptismo-lat": ("stoa0040/stoa063/stoa0040.stoa063.opp-lat1.xml",
+        "Liber de Unico Baptismo -- ed. Michael Petschenig, CSEL 53 (1910)"),
+    "augustine-de-utilitate-credendi-lat": ("stoa0040/stoa064/stoa0040.stoa064.opp-lat1.xml",
+        "De Utilitate Credendi -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-quaestiones-in-heptateuchum-lat": ("stoa0040/stoa074/stoa0040.stoa074.opp-lat1.xml",
+        "Quaestiones in Heptateuchum -- ed. Joseph Zycha, CSEL 28.2 (1895)"),
+    "augustine-retractationes-lat": ("stoa0040/stoa077/stoa0040.stoa077.opp-lat1.xml",
+        "Retractationum -- ed. Pius Knöll, CSEL 36 (1902)"),
+    "augustine-speculum-lat": ("stoa0040/stoa080/stoa0040.stoa080.opp-lat1.xml",
+        "Liber qui appellatur Speculum -- ed. Franz Weihrich, CSEL 12 (1887)"),
+    "jerome-epistulae-lat": ("stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "Epistulae -- ed. Isidor Hilberg, CSEL 54-56 (1910-1918)"),
+    "jerome-in-hieremiam-lat": ("stoa0162/stoa024/stoa0162.stoa024.opp-lat1.xml",
+        "In Hieremiam Prophetam Libri Sex -- ed. Siegfried Reiter, CSEL 59 (1913)"),
+    "lactantius-de-mortibus-persecutorum-lat": ("stoa0171/stoa002/stoa0171.stoa002.opp-lat1.xml",
+        "De Mortibus Persecutorum -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "lactantius-de-ira-dei-lat": ("stoa0171/stoa006/stoa0171.stoa006.opp-lat1.xml",
+        "De Ira Dei -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "lactantius-de-opificio-dei-lat": ("stoa0171/stoa007/stoa0171.stoa007.opp-lat1.xml",
+        "De Opificio Dei -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "lactantius-epitome-lat": ("stoa0171/stoa008/stoa0171.stoa008.opp-lat1.xml",
+        "Epitome Divinarum Institutionum -- ed. Samuel Brandt & Georg Laubmann, CSEL 19 (1890)"),
+    "lactantius-divinae-institutiones-lat": ("stoa0171/stoa009/stoa0171.stoa009.opp-lat1.xml",
+        "Divinarum Institutionum -- ed. Samuel Brandt & Georg Laubmann, CSEL 19 (1890)"),
+    "lactantius-fragmenta-lat": ("stoa0171/stoa010/stoa0171.stoa010.opp-lat1.xml",
+        "Fragmenta -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "minucius-felix-octavius-lat": ("stoa0203/stoa001/stoa0203.stoa001.opp-lat2.xml",
+        "Octavius -- ed. Karl Halm, CSEL 2 (1867)"),
+    "tertullian-ad-nationes-lat": ("stoa0275/stoa002/stoa0275.stoa002.opp-lat2.xml",
+        "Ad Nationes Libri Duo -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-adversus-hermogenem-lat": ("stoa0275/stoa004/stoa0275.stoa004.opp-lat2.xml",
+        "Adversus Hermogenem -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-adversus-marcionem-lat": ("stoa0275/stoa006/stoa0275.stoa006.opp-lat2.xml",
+        "Adversus Marcionem -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-adversus-praxean-lat": ("stoa0275/stoa007/stoa0275.stoa007.opp-lat2.xml",
+        "Adversus Praxean -- ed. Emil Kroymann, CSEL 47 (1900)"),
+    "tertullian-adversus-valentinianos-lat": ("stoa0275/stoa008/stoa0275.stoa008.opp-lat2.xml",
+        "Adversus Valentinianos -- ed. Emil Kroymann, CSEL 47 (1900)"),
+    "tertullian-de-anima-lat": ("stoa0275/stoa010/stoa0275.stoa010.opp-lat2.xml",
+        "De Anima -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-baptismo-lat": ("stoa0275/stoa011/stoa0275.stoa011.opp-lat2.xml",
+        "De Anima -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-idololatria-lat": ("stoa0275/stoa017/stoa0275.stoa017.opp-lat2.xml",
+        "De idololatria -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-ieiunio-lat": ("stoa0275/stoa018/stoa0275.stoa018.opp-lat2.xml",
+        "De Ieiunio Adversus Psychicos -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-oratione-lat": ("stoa0275/stoa020/stoa0275.stoa020.opp-lat2.xml",
+        "De Oratione -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-patientia-lat": ("stoa0275/stoa023/stoa0275.stoa023.opp-lat2.xml",
+        "De Patientia -- ed. Emil Kroymann, CSEL 47 (1900)"),
+    "tertullian-de-pudicitia-lat": ("stoa0275/stoa025/stoa0275.stoa025.opp-lat2.xml",
+        "De Pudicitia -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-resurrectione-carnis-lat": ("stoa0275/stoa026/stoa0275.stoa026.opp-lat2.xml",
+        "De Carnis Resurrectione -- ed. Emil Kroymann, CSEL 47 (1900)"),
+    "tertullian-de-spectaculis-lat": ("stoa0275/stoa027/stoa0275.stoa027.opp-lat2.xml",
+        "De Spectaculis -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-testimonio-animae-lat": ("stoa0275/stoa028/stoa0275.stoa028.opp-lat2.xml",
+        "De Testimonio Animae -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-scorpiace-lat": ("stoa0275/stoa030/stoa0275.stoa030.opp-lat2.xml",
+        "Scorpiace -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+}
+
 # slug -> (repo, path, note)   — PD status verified per edition, see notes
 PERSEUS = {
     "iliad-butler": ("canonical-greekLit",
@@ -1639,6 +1820,8 @@ def main():
             print(f"perseus/{slug}: {note}")
         for slug, (path, note) in FIRST1K.items():
             print(f"first1k/{slug}: {note}")
+        for slug, (path, note) in CSEL.items():
+            print(f"csel/{slug}: {note}")
         for slug, (author, work, note) in CCEL.items():
             print(f"ccel/{slug}: {note}")
         for slug, (url, fn, note) in LEXICONS.items():
@@ -1660,6 +1843,13 @@ def main():
             print(f"first1k/{slug}: {fetch(F1K_RAW.format(path=path), dest)}")
         except Exception as e:
             failures.append(slug); print(f"first1k/{slug}: FAIL {e}")
+        time.sleep(0.5)
+    for slug, (path, note) in CSEL.items():
+        dest = os.path.join(CORPUS, "csel", slug + ".xml")
+        try:
+            print(f"csel/{slug}: {fetch(CSEL_RAW.format(path=path), dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"csel/{slug}: FAIL {e}")
         time.sleep(0.5)
     for slug, (author, work, note) in CCEL.items():
         dest = os.path.join(CORPUS, "ccel", slug + ".xml")

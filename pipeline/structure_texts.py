@@ -114,6 +114,24 @@ def printed_by(root):
     return ", ".join(x for x in (who, ed.get("date")) if x) or "edition unnamed"
 
 
+# Open Greek and Latin corpora, one directory each under data/corpus/: the
+# text of a printed critical edition (not a translation), in its language.
+OGL = {
+    "first1k": {"house": "First1KGreek", "repo": "OpenGreekAndLatin/First1KGreek",
+                "lang": "grc", "language": "Greek"},
+    # CSEL, the Vienna Corpus Scriptorum Ecclesiasticorum Latinorum: the
+    # volumes' scans OCR'd and machine-corrected by Leipzig (2014), the
+    # Konstanz-proofread files aside -- the text is NOT proofread.
+    "csel": {"house": "CSEL (Open Greek and Latin)", "repo": "OpenGreekAndLatin/csel-dev",
+             "lang": "lat", "language": "Latin"},
+}
+
+
+def ogl(path):
+    """The OGL corpus a file came from (by its directory), or None."""
+    return OGL.get(os.path.basename(os.path.dirname(path))) if path else None
+
+
 def perseus_rights(root, path=None):
     """The rights block every Perseus-derived book carries. The translations
     are PD; Perseus's TEI, and any modernizing of the wording it did (the
@@ -128,8 +146,9 @@ def perseus_rights(root, path=None):
         d = root.find(f".//{T}body/{T}div")
         base = (d.get("n") or "") if d is not None else ""
     repo = "canonical-latinLit" if ":latinLit:" in base else "canonical-greekLit"
-    if path and os.path.basename(os.path.dirname(path)) == "first1k":
-        # First1KGreek (Open Greek and Latin): the Greek text of a printed
+    o = ogl(path)
+    if o:
+        # First1KGreek / CSEL (Open Greek and Latin): the text of a printed
         # critical edition, not a translation. The edition is public domain
         # (published before 1931; the ancient text has no author's right,
         # and an editor's right in a critical edition -- where a country
@@ -141,9 +160,9 @@ def perseus_rights(root, path=None):
                                          ed.get("editor"), ed.get("title"),
                                          ed.get("place"), ed.get("date")) if x)
         return {"license": "CC BY-SA 4.0",
-                "attribution": "First1KGreek, Open Greek and Latin "
-                               "(OpenGreekAndLatin/First1KGreek)",
-                "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+                "attribution": f"{o['house'].split(' (')[0]}, Open Greek and Latin "
+                               f"({o['repo']})",
+                "source_url": f"https://github.com/{o['repo']}",
                 "redistribute_whole": True,
                 "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                          if lic is not None else
@@ -151,9 +170,10 @@ def perseus_rights(root, path=None):
                         + (f". The translation is public domain ({printed}): published "
                            "before 1931, its translator dead more than 70 years; "
                            if transl else
-                           f". The Greek text is a public-domain printed edition ({printed}); ")
-                        + "the TEI is share-alike: a derivative must credit First1KGreek "
-                          "and carry the same licence."}
+                           f". The {o['language']} text is a public-domain printed edition "
+                           f"({printed}); ")
+                        + f"the TEI is share-alike: a derivative must credit "
+                          f"{o['house'].split(' (')[0]} and carry the same licence."}
     return {"license": "CC BY-SA 4.0",
             "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
             "source_url": f"https://github.com/PerseusDL/{repo}",
@@ -658,6 +678,91 @@ TEI_PROSE = {
     "lives-of-prophets-dorotheus-grc": "Vit. Proph. (Dor.)",
     "lives-of-prophets-anonymous-grc": "Vit. Proph. (anon.)",
     "enoch-swete-grc": "1 En.",
+    # The LATIN fathers, 2026-10-02: CSEL volumes (1867-1922) from
+    # OpenGreekAndLatin/csel-dev, built from data/corpus/csel/. Unproofread
+    # OCR, machine-corrected; the honesty field says so.
+    "ambrose-apologia-david-altera-lat": "Ambr. Apol. alt.",
+    "ambrose-apologia-david-lat": "Ambr. Apol. Dav.",
+    "ambrose-de-benedictionibus-patriarcharum-lat": "Ambr. Patr.",
+    "ambrose-de-cain-et-abel-lat": "Ambr. Cain",
+    "ambrose-de-helia-lat": "Ambr. Hel.",
+    "ambrose-de-fuga-saeculi-lat": "Ambr. Fug.",
+    "ambrose-de-interpellatione-iob-lat": "Ambr. Interp.",
+    "ambrose-de-iacob-lat": "Ambr. Iac.",
+    "ambrose-de-ioseph-lat": "Ambr. Ioseph",
+    "ambrose-de-nabuthae-lat": "Ambr. Nab.",
+    "ambrose-de-noe-lat": "Ambr. Noe",
+    "ambrose-de-paradiso-lat": "Ambr. Parad.",
+    "ambrose-de-tobia-lat": "Ambr. Tob.",
+    "ambrose-explanatio-psalmorum-xii-lat": "Ambr. Psal.",
+    "ambrose-expositio-lucam-lat": "Ambr. in Luc.",
+    "ambrose-expositio-psalmi-118-lat": "Ambr. in Psal. 118",
+    "ambrose-exameron-lat": "Ambr. Hex.",
+    "arnobius-adversus-nationes-lat": "Arnob. Nat.",
+    "augustine-confessiones-lat": "Aug. Conf.",
+    "augustine-de-civitate-dei-lat": "Aug. Civ.",
+    "augustine-de-fide-et-symbolo-lat": "Aug. Fid. et symb.",
+    "augustine-epistulae-lat": "Aug. Ep.",
+    "augustine-contra-academicos-lat": "Aug. Acad.",
+    "augustine-contra-adimantum-lat": "Aug. Adim.",
+    "augustine-contra-cresconium-lat": "Aug. Cresc.",
+    "augustine-ad-catholicos-de-secta-donatistarum-lat": "Aug. Cath.",
+    "augustine-contra-duas-epistulas-pelagianorum-lat": "Aug. C. du. ep. Pel.",
+    "augustine-contra-epistulam-parmeniani-lat": "Aug. C. ep. Parm.",
+    "augustine-contra-faustum-lat": "Aug. C. Faust.",
+    "augustine-contra-gaudentium-lat": "Aug. C. Gaud.",
+    "augustine-contra-litteras-petiliani-lat": "Aug. C. litt. Pet.",
+    "augustine-contra-mendacium-lat": "Aug. C. mend.",
+    "augustine-contra-secundinum-lat": "Aug. C. Sec.",
+    "augustine-de-agone-christiano-lat": "Aug. Agon.",
+    "augustine-de-natura-et-origine-animae-lat": "Aug. Nat. et orig. an.",
+    "augustine-de-beata-vita-lat": "Aug. Beata v.",
+    "augustine-de-bono-coniugali-lat": "Aug. Bon. coniug.",
+    "augustine-de-coniugiis-adulterinis-lat": "Aug. Adult. coniug.",
+    "augustine-de-consensu-evangelistarum-lat": "Aug. Cons. ev.",
+    "augustine-de-duabus-animabus-lat": "Aug. Duab.",
+    "augustine-de-fide-et-operibus-lat": "Aug. Fid. et op.",
+    "augustine-de-genesi-ad-litteram-imperfectus-lat": "Aug. Gen. imp.",
+    "augustine-de-gestis-pelagii-lat": "Aug. Gest. Pel.",
+    "augustine-de-gratia-christi-lat": "Aug. Grat. Chr.",
+    "augustine-de-mendacio-lat": "Aug. Mend.",
+    "augustine-de-natura-boni-lat": "Aug. Nat. b.",
+    "augustine-de-natura-et-gratia-lat": "Aug. Nat. et gr.",
+    "augustine-de-opere-monachorum-lat": "Aug. Op. mon.",
+    "augustine-de-ordine-lat": "Aug. Ord.",
+    "augustine-de-peccatorum-meritis-lat": "Aug. Pecc. mer.",
+    "augustine-de-sancta-virginitate-lat": "Aug. Virg.",
+    "augustine-de-spiritu-et-littera-lat": "Aug. Spir. et litt.",
+    "augustine-de-unico-baptismo-lat": "Aug. Bapt. un.",
+    "augustine-de-utilitate-credendi-lat": "Aug. Util. cred.",
+    "augustine-quaestiones-in-heptateuchum-lat": "Aug. Quaest. Hept.",
+    "augustine-retractationes-lat": "Aug. Retract.",
+    "augustine-speculum-lat": "Aug. Spec.",
+    "jerome-epistulae-lat": "Hier. Ep.",
+    "jerome-in-hieremiam-lat": "Hier. in Hier.",
+    "lactantius-de-mortibus-persecutorum-lat": "Lact. Mort. pers.",
+    "lactantius-de-ira-dei-lat": "Lact. Ira",
+    "lactantius-de-opificio-dei-lat": "Lact. Opif.",
+    "lactantius-epitome-lat": "Lact. Epit.",
+    "lactantius-divinae-institutiones-lat": "Lact. Inst.",
+    "lactantius-fragmenta-lat": "Lact. Frag.",
+    "minucius-felix-octavius-lat": "Min. Fel. Oct.",
+    "tertullian-ad-nationes-lat": "Tert. Nat.",
+    "tertullian-adversus-hermogenem-lat": "Tert. Herm.",
+    "tertullian-adversus-marcionem-lat": "Tert. Marc.",
+    "tertullian-adversus-praxean-lat": "Tert. Prax.",
+    "tertullian-adversus-valentinianos-lat": "Tert. Val.",
+    "tertullian-de-anima-lat": "Tert. An.",
+    "tertullian-de-baptismo-lat": "Tert. Bapt.",
+    "tertullian-de-idololatria-lat": "Tert. Idol.",
+    "tertullian-de-ieiunio-lat": "Tert. Ieiun.",
+    "tertullian-de-oratione-lat": "Tert. Or.",
+    "tertullian-de-patientia-lat": "Tert. Pat.",
+    "tertullian-de-pudicitia-lat": "Tert. Pud.",
+    "tertullian-de-resurrectione-carnis-lat": "Tert. Res.",
+    "tertullian-de-spectaculis-lat": "Tert. Spect.",
+    "tertullian-de-testimonio-animae-lat": "Tert. Test.",
+    "tertullian-scorpiace-lat": "Tert. Scorp.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -930,12 +1035,24 @@ def tei_slice(el, start, end):
     return rec(el) if el is not start else ET.Element(el.tag)
 
 
+# A title the file's titleStmt gets wrong, by slug (the text is untouched).
+TEI_PROSE_TITLE = {
+    "tertullian-de-baptismo-lat": "De Baptismo",       # filed as "De Anima"
+    "augustine-contra-secundinum-lat": "Contra Secundinum",
+    "augustine-de-duabus-animabus-lat": "De Duabus Animabus",
+    "augustine-de-gratia-christi-lat": "De Gratia Christi",
+    "augustine-contra-duas-epistulas-pelagianorum-lat": "Contra Duas Epistulas Pelagianorum",
+    "ambrose-expositio-lucam-lat": "Expositio Evangelii secundum Lucam",
+}
+
+
 def convert_tei_prose(path, slug, abbrev):
     T = TEI_NS
     root = tei_load(path)
     title, author, transl = tei_meta(root)
+    title = TEI_PROSE_TITLE.get(slug, title)
     body = root.find(f".//{T}body")
-    if (not transl and os.path.basename(os.path.dirname(path)) == "first1k"
+    if (not transl and ogl(path)
             and body is not None and body.find(f"{T}div[@type='translation']") is not None):
         # First1KGreek names the translator only as the printed book's author.
         transl = tei_edition(root).get("author", "")
@@ -978,7 +1095,11 @@ def convert_tei_prose(path, slug, abbrev):
             return
         for c in e:
             if is_part(c):
-                visit(c, path_ns + [c.get("n") or "?"])
+                # An unnumbered part (a preface, a table of chapters): "?"
+                # in the books already built; a CSEL book names it by its
+                # subtype instead (1.preface), a citable name.
+                visit(c, path_ns + [c.get("n") or (c.get("subtype", "?").lower()
+                                                   if csel else "?")])
             elif any(is_part(d) for d in c.iter()):
                 visit(c, path_ns)               # a wrapper (the translation div)
             elif c.tag == T + "milestone":
@@ -1060,7 +1181,7 @@ def convert_tei_prose(path, slug, abbrev):
                 app["notes"] = notes; nnotes += len(notes)
             if sic:
                 app["sic"] = sic
-            nlat = original and sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+            nlat = greek and sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
             if nlat:
                 app["latin_letters"] = nlat     # a Latin passage, or OCR residue
             if refs:
@@ -1086,14 +1207,16 @@ def convert_tei_prose(path, slug, abbrev):
                         a.setdefault(k, []).extend(v)
 
     cut = TEI_PROSE_CUT.get(slug)
+    csel = ogl(path) is OGL["csel"]
     outside = []
     nrefs = nfol = ncode = nnum = 0
     # The text itself, not a translation: a First1KGreek edition div. (Not
     # read off the markup alone: some Perseus translations are labelled
     # type="edition", and Smart's English Horace xml:lang="lat".)
     ed_div = body.find(f"{T}div[@type='edition']") if body is not None else None
-    original = (ed_div is not None and os.path.basename(os.path.dirname(path)) == "first1k"
-                and ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") == "grc")
+    original = (ed_div is not None and ogl(path) is not None
+                and ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") == ogl(path)["lang"])
+    greek = original and ogl(path)["lang"] == "grc"
     if cut and body is not None and not any(is_part(d) for d in body.iter()):
         split(body, [])                         # no divisions at all: De Senectute
     else:
@@ -1113,8 +1236,7 @@ def convert_tei_prose(path, slug, abbrev):
             steps += 1
             jumps += int(pb_[-1]) - int(pa[-1]) > 1
     spans = steps and jumps / steps > 0.1
-    house = ("First1KGreek" if os.path.basename(os.path.dirname(path)) == "first1k"
-             else "Perseus")
+    house = ogl(path)["house"] if ogl(path) else "Perseus"
     honesty = ("each unit is the run of numbered sections from its id to the next "
                f"unit's ({jumps:,} of {steps:,} steps skip numbers): a citation "
                "resolves to the unit that contains it" if spans else
@@ -1125,6 +1247,11 @@ def convert_tei_prose(path, slug, abbrev):
                "renumbered the work, the standard citation can differ.")
     if slug in TEI_PROSE_HONESTY and not spans:
         honesty = TEI_PROSE_HONESTY[slug]
+    if csel:
+        honesty = (honesty.rstrip(".") + ". The text is OCR of the printed CSEL volume, "
+                   "machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and "
+                   "run-together words. A part the edition leaves unnumbered (a preface, "
+                   "a table of chapters) is named by what it is: 1.preface.")
     rights = perseus_rights(root, path)
     if slug in TEI_RIGHTS_NOTE:
         rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
@@ -1167,7 +1294,7 @@ def convert_tei_prose(path, slug, abbrev):
                                   f"residue in the source (r for γ, a for α): left as the "
                                   f"source has them, and counted on each such unit as "
                                   f"apparatus.latin_letters, so a reader can tell a clean "
-                                  f"unit from a damaged one." if original and latin else "")
+                                  f"unit from a damaged one." if greek and latin else "")
                                + (f" {nnum} printed verse number(s) glued to a verse's "
                                   f"first word dropped (the id carries the number)." if nnum else "")
                                + (f" {ncode} character(s) the source writes as a code-point "
@@ -3620,10 +3747,11 @@ def main():
                 jobs.append((slug, lambda p=path, s=slug: convert_tei_letters(p, s, *TEI_LETTERS[s])))
                 continue
             jobs.append((slug, lambda p=path, s=slug: convert_tei(p, s, tei_abbrevs.get(s, s))))
-    # First1KGreek: Greek texts of the fathers, through the prose converter
-    # only (a file with no TEI_PROSE entry is not built).
-    fdir = os.path.join(CORPUS, "first1k")
-    if os.path.isdir(fdir):
+    # Open Greek and Latin (First1KGreek, CSEL): the fathers, through the
+    # prose converter only (a file with no TEI_PROSE entry is not built).
+    for fdir in (os.path.join(CORPUS, d) for d in OGL):
+        if not os.path.isdir(fdir):
+            continue
         for fn in sorted(os.listdir(fdir)):
             slug = fn[:-4]
             if slug in TEI_PROSE:

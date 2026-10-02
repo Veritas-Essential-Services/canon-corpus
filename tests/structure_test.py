@@ -290,8 +290,10 @@ check("prose: divisions numbered by their first section (1, 9) are SPANS, and ho
       and pb["scheme"]["resolution"] == "section")
 os.unlink(_sp_path)
 check("prose: every prose slug in the fetch manifest has an abbreviation, and back",
-      set(st.TEI_PROSE) <= set(load("fetch_sources").PERSEUS) | set(load("fetch_sources").FIRST1K)
-      and set(load("fetch_sources").FIRST1K) <= set(st.TEI_PROSE) | set(st.CATENA))
+      set(st.TEI_PROSE) <= (set(load("fetch_sources").PERSEUS) | set(load("fetch_sources").FIRST1K)
+                            | set(load("fetch_sources").CSEL))
+      and set(load("fetch_sources").FIRST1K) <= set(st.TEI_PROSE) | set(st.CATENA)
+      and set(load("fetch_sources").CSEL) <= set(st.TEI_PROSE))
 os.unlink(pr_path)
 
 # ---------------------------------------------------------- Perseus drama
@@ -1007,6 +1009,28 @@ st.TEI_PROSE_VERSE_NUMERALS.discard("gk")
 st.CORPUS = _saved[0]
 check("fathers: a verse number glued to the verse's first word is dropped, and counted",
       _vb["units"][-1]["text"] == "δέλτα" and "1 printed verse number(s)" in _vb["scheme"]["note"])
+# CSEL (Open Greek and Latin, Latin): the edition's rights and language,
+# the OCR caveat, and an unnumbered preface named by what it is.
+_CS = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>De Anima</title>'
+       '<author>Tertullian</author></titleStmt><publicationStmt><availability><licence>CC BY-SA 4.0'
+       '</licence></availability></publicationStmt><sourceDesc><biblStruct><monogr><editor>Emil '
+       'Kroymann</editor><title>Opera</title><imprint><pubPlace>Vienna</pubPlace><date>1906</date>'
+       '</imprint></monogr></biblStruct></sourceDesc></fileDesc></teiHeader><text><body>'
+       '<div type="edition" xml:lang="lat"><div type="textpart" subtype="preface"><p>Praefatio.</p></div>'
+       '<div type="textpart" subtype="chapter" n="1"><p>Felix sacramentum aquae nostrae.</p></div>'
+       '</div></body></text></TEI>')
+os.makedirs(os.path.join(_gd, "csel"), exist_ok=True)
+_csp = os.path.join(_gd, "csel", "tertullian-de-baptismo-lat.xml")
+open(_csp, "w", encoding="utf-8").write(_CS)
+_csb = st.convert_tei_prose(_csp, "tertullian-de-baptismo-lat", "Tert. Bapt.")
+check("csel: a Latin edition, its rights read from the file, the OCR caveat in honesty",
+      _csb["source"]["language"] == "lat" and _csb["source"]["edition"]["date"] == "1906"
+      and "The Latin text is a public-domain printed edition (Emil Kroymann" in _csb["rights"]["note"]
+      and _csb["rights"]["source_url"].endswith("OpenGreekAndLatin/csel-dev")
+      and "NOT proofread" in _csb["scheme"]["honesty"] and ".." not in _csb["scheme"]["honesty"])
+check("csel: an unnumbered part is named by its subtype; a mislabelled title is fixed by slug",
+      [u["id"].split(":")[1] for u in _csb["units"]] == ["preface", "1"]
+      and _csb["title"] == "De Baptismo" and "latin_letters" not in str(_csb["units"]))
 # A catena (Cramer): kephalaia, margin verse numbers, a lemma that runs on
 # over a second mark, a page-line <lb n> left unplaced, a misprinted margin
 # placed by the measured file, an unplaced kephalaion, and a placement file

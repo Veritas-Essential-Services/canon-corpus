@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 164 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 166 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 54 identity-layer checks
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
@@ -225,6 +225,15 @@ The living truth for project state is the Obsidian vault:
   variant-reading supplements, the Munich-type Romans and Jude (already
   verse-divided; they want their divs read). Running commentary (Luke,
   John) places by printed number with weak lemma evidence; it says so.
+  The LATIN fathers (2026-10-02): 82 CSEL volumes (Vienna, 1867-1922) from
+  OpenGreekAndLatin/csel-dev, slug suffix `-lat`, data/corpus/csel/, table
+  CSEL in fetch_sources.py, through the same prose converter (OGL in
+  structure_texts.py names the corpus by directory). Augustine, Jerome
+  (Letters, Jeremiah), Tertullian, Ambrose, Lactantius, Arnobius, Minucius
+  Felix: 25,547 units, 3.1M words. Unproofread machine-corrected OCR, and
+  every book's honesty says so. An unnumbered part is named by its subtype
+  (1.preface) in CSEL books only -- older books keep "?". Cyprian is not in
+  csel-dev. Exclusions and why are in the CSEL comment.
   Exclusions and why are in the FIRST1K comment.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of

@@ -9552,5 +9552,1645 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxford, 1843); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
+ },
+ "ambrose-apologia-david-altera-lat": {
+  "title": "Apologia Altera Prophetae David",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "c5f7212b27e7f99d640924dcebf8ce72cd6e83e654c117bd26c6f3862a60b4ac",
+  "units": 75,
+  "scheme": {
+   "citation": "Ambr. Apol. alt. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 263 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-apologia-david-lat": {
+  "title": "Apologia Prophetae David Ad Theodosium Augustum",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "a7d0d6c65c04b5fdbf56bcc7fba0038ace78d408b63c1ff654bb55b10fa9d86b",
+  "units": 85,
+  "scheme": {
+   "citation": "Ambr. Apol. Dav. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 289 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-benedictionibus-patriarcharum-lat": {
+  "title": "De Benedictionibus Patriarcharum Liber Unus",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "1c44bc4caa824830610e1797f64885858b16573e32247735816a29fdcd4ad52a",
+  "units": 59,
+  "scheme": {
+   "citation": "Ambr. Patr. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 182 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-cain-et-abel-lat": {
+  "title": "De Cain et Abel",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "48b11b4ceae09ed30b61030249475139ad1ccde984eb430123e3b2aa6720df22",
+  "units": 85,
+  "scheme": {
+   "citation": "Ambr. Cain book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1896). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 392 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1896); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-fuga-saeculi-lat": {
+  "title": "De Fuga Saeculi",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "8668fc1ff6fdaf5d13d351d08a7304a624b633555381cdaeb4b3add8625e48c6",
+  "units": 58,
+  "scheme": {
+   "citation": "Ambr. Fug. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 228 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-helia-lat": {
+  "title": "De Helia et Ieiunio",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "bb8a8b1c034b72ae881f0a752625a6f2b851cbceaaf3942f79706e24e145e6de",
+  "units": 85,
+  "scheme": {
+   "citation": "Ambr. Hel. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 277 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-iacob-lat": {
+  "title": "De Iacob",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "72b88f63a47a79d40492e2a4e15ca3f5bcb60f77848df85ee2d9a01c90c1233a",
+  "units": 95,
+  "scheme": {
+   "citation": "Ambr. Iac. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 359 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-interpellatione-iob-lat": {
+  "title": "De Interpellatione Iob et David",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "ed697e1f043615c8c6e9988629030f3a6971ef1e95d875d8a9a4dda55b5afb7f",
+  "units": 121,
+  "scheme": {
+   "citation": "Ambr. Interp. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 462 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-ioseph-lat": {
+  "title": "De Joseph",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "e8afae9196a4e14c2f9e6187a6bd9200a1095652d103418fa57196452e638173",
+  "units": 85,
+  "scheme": {
+   "citation": "Ambr. Ioseph section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 263 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-nabuthae-lat": {
+  "title": "De Nabuthae",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "7c764c16f591a0ebc3d7dc54b2f6302706d1ea1806242528fa62bcb9fcd284c1",
+  "units": 73,
+  "scheme": {
+   "citation": "Ambr. Nab. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 236 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-noe-lat": {
+  "title": "De Noe",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "5c83cea91f0252f8a35755e474f0d3a61e2c375468cd474f6940f3905c99e45f",
+  "units": 128,
+  "scheme": {
+   "citation": "Ambr. Noe section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1896). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 480 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1896); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-paradiso-lat": {
+  "title": "De Paradiso",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "8fbe7eaaa9d6a366c021eb77b565b95343fc9bf73f0f969a57f6bb2fd3ab1f7f",
+  "units": 77,
+  "scheme": {
+   "citation": "Ambr. Parad. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1896). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 361 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1896); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-de-tobia-lat": {
+  "title": "De Tobia",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "d8b0f54968376119616a112c4ec1ef9258ee527f62ca1ebeb20ad32e8f3e32de",
+  "units": 93,
+  "scheme": {
+   "citation": "Ambr. Tob. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 283 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-exameron-lat": {
+  "title": "Exameron",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "c2ee3cb04bff291a72ed9468d1c1330ef011ec1ebb483cfc6164158c04f789fe",
+  "units": 334,
+  "scheme": {
+   "citation": "Ambr. Hex. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl, 1896). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1399 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl, Sanctii Ambrosii Opera, Prague, 1896); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-explanatio-psalmorum-xii-lat": {
+  "title": "Explanatio Psalmorum XII",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "825ec8e3432a0eccb3dd36ead36ce8924f13d718a0dc03075cd27a62a480c09b",
+  "units": 1476,
+  "scheme": {
+   "citation": "Ambr. Psal. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1919). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 900 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sanctii Ambrosii Opera, Vienna, 1919); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-expositio-lucam-lat": {
+  "title": "Expositio Evangelii secundum Lucam",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "817e5da0422dbcb6109a0066e74dcaed9c3f28af2961cd4ae7da75acf25078a2",
+  "units": 1071,
+  "scheme": {
+   "citation": "Ambr. in Luc. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Schenkl & Henricus Schenkl, 1902). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 3333 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Schenkl & Henricus Schenkl, Sanctii Ambrosii Opera, Prague, 1902); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "ambrose-expositio-psalmi-118-lat": {
+  "title": "Expositio Psalmi CXVIII",
+  "author": "Ambrose",
+  "format": "tei",
+  "sha256": "bda59aebe717a66099eff8bd560c4f35561d26c04bd41415fdf22a868ed05265",
+  "units": 1925,
+  "scheme": {
+   "citation": "Ambr. in Psal. 118 book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1260 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sanctii Ambrosii Opera, Vienna, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "arnobius-adversus-nationes-lat": {
+  "title": "Adversus nationes Libri VII",
+  "author": "Arnobius of Sicca",
+  "format": "tei",
+  "sha256": "c5ca130aa57334ec8bfeda7fa079d573a720d41005d55851686771ce0d6c0942",
+  "units": 347,
+  "scheme": {
+   "citation": "Arnob. Nat. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid, 1875). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 379 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid, Arnobii adversus nationes Libri VII, Wien, Österreich, 1875); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-ad-catholicos-de-secta-donatistarum-lat": {
+  "title": "Epistula ad Catholicos de Secta Donatistarum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "6a9ce28e49f27bd63799613ad4206d1dd400bc9809021b4fb076e303a0239b40",
+  "units": 75,
+  "scheme": {
+   "citation": "Aug. Cath. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1909). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 196 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sancti Aureli Augustini Opera, Prague, 1909); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-confessiones-lat": {
+  "title": "Confessiones",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "733d179607989d38524875d65788644aab32114dd76bbd5c0a143ea14911f07c",
+  "units": 453,
+  "scheme": {
+   "citation": "Aug. Conf. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1896). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 755 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Sancti Aureli Augustini Opera, Prague, 1896); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-academicos-lat": {
+  "title": "Contra Academicos",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "da7ef11cd09926c1c08a22b7156393ef0f241f12a15a710fe7a4de62eb24fd8a",
+  "units": 113,
+  "scheme": {
+   "citation": "Aug. Acad. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1922). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 145 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Sancti Aureli Augustini Opera, Prague, 1922); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-adimantum-lat": {
+  "title": "Contra Adimantum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "9c9770f57683acbf9968781d860cac234298e0011fd027afae3575adc7a5e2a0",
+  "units": 28,
+  "scheme": {
+   "citation": "Aug. Adim. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1891). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 156 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1891); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-cresconium-lat": {
+  "title": "Contra Cresconium",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "ba0048399295efe40065e1fcfd28128d2d8891e0475a4b1b7315f90fc4d21a46",
+  "units": 268,
+  "scheme": {
+   "citation": "Aug. Cresc. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1909). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 582 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sancti Aureli Augustini Opera, Prague, 1909); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-duas-epistulas-pelagianorum-lat": {
+  "title": "Contra Duas Epistulas Pelagianorum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "086e34e17f63da9b9f34ff9125bc9cd9b05f16da75ab272a71a99d4761c6fad2",
+  "units": 127,
+  "scheme": {
+   "citation": "Aug. C. du. ep. Pel. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 333 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-epistulam-parmeniani-lat": {
+  "title": "Contra Epistulam Parmeniani",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "611c805b6065cb624e9f4a1b9c5a0b01f03e2930ddcc59a618d963050e90f3ed",
+  "units": 96,
+  "scheme": {
+   "citation": "Aug. C. ep. Parm. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1908). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 261 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sancti Aureli Augustini Opera, Prague, 1908); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-faustum-lat": {
+  "title": "Contra Faustum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "40ac3a37c27cec01efc9c8de7c7150d1d0cb5b8b8751ec458679a3348e30ac44",
+  "units": 431,
+  "scheme": {
+   "citation": "Aug. C. Faust. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1891). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1083 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1891); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-gaudentium-lat": {
+  "title": "Contra Gaudentium Donatistarum Episcopum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "d5e7a3635c4ee0d82644712fab524033235390201a027d4c7645e6408139ce19",
+  "units": 77,
+  "scheme": {
+   "citation": "Aug. C. Gaud. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1910). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 187 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sancti Aureli Augustini Opera, Prague, 1910); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-litteras-petiliani-lat": {
+  "title": "Contra Litteras Petiliani",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "9d51a69196afe563c74a3d7c46c57f494dd6e0c923dd1e5902715f2ff754b25e",
+  "units": 351,
+  "scheme": {
+   "citation": "Aug. C. litt. Pet. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1909). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 491 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sancti Aureli Augustini Opera, Prague, 1909); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-mendacium-lat": {
+  "title": "Contra Mendacium",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "53d89565aef8c36f24e76635cb595b16f0780ed00aa7645b02a8baf32c15072c",
+  "units": 41,
+  "scheme": {
+   "citation": "Aug. C. mend. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 105 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-contra-secundinum-lat": {
+  "title": "Contra Secundinum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "87245a98de55d6d87c3b9d32178ab82d52cf91d20e5813ccd36842bcb0ab0921",
+  "units": 26,
+  "scheme": {
+   "citation": "Aug. C. Sec. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1892). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 76 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1892); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-agone-christiano-lat": {
+  "title": "De agone christiano",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "6a2de507646e128aeb3d8f7c10737ce9b40f7a67518d066f6c4f69e55ca6b2e5",
+  "units": 35,
+  "scheme": {
+   "citation": "Aug. Agon. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 78 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-beata-vita-lat": {
+  "title": "De Beata Vita",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "84da0819e73c2309e78baf37c8902d822e7c56f9253d5c0a90eddbf153eaf9e4",
+  "units": 37,
+  "scheme": {
+   "citation": "Aug. Beata v. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1922). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 51 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Sancti Aureli Augustini Opera, Prague, 1922); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-bono-coniugali-lat": {
+  "title": "De bono coniugali",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "336f1c13e0273edf91e354c7ae1018837ee27580a6c66171262e41fa1b1e706b",
+  "units": 36,
+  "scheme": {
+   "citation": "Aug. Bon. coniug. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 90 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-civitate-dei-lat": {
+  "title": "De Civitate Dei",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "ee65f8941721f4ccb9425ea90412581334c075238102986c9978fda503a716f4",
+  "units": 664,
+  "scheme": {
+   "citation": "Aug. Civ. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emmanuel Hoffmann, 1899-1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 2375 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emmanuel Hoffmann, Sancti Aureli Augustini Opera, Prague, 1899-1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-coniugiis-adulterinis-lat": {
+  "title": "De Conjugiis Adulterinis",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "cdb9fd989b0b932573a4c3432d0925acf504c1ee7263f7995d2d032d6fb04ade",
+  "units": 56,
+  "scheme": {
+   "citation": "Aug. Adult. coniug. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 129 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-consensu-evangelistarum-lat": {
+  "title": "De Consensu Evangelistarum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "56edb6fd627e4b4b5a6c7280edb206e1fb6d3dd3edc25a1e200bc1b844ff7092",
+  "units": 321,
+  "scheme": {
+   "citation": "Aug. Cons. ev. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Franz Weirich, 1904). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 883 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Weirich, Sancti Aureli Augustini Opera, Prague, 1904); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-duabus-animabus-lat": {
+  "title": "De Duabus Animabus",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "4cfeb03232deeb6f7e2dc2335c934de1df1e67c711547d995c76b0545c5c5600",
+  "units": 24,
+  "scheme": {
+   "citation": "Aug. Duab. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1891). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 41 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1891); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-fide-et-operibus-lat": {
+  "title": "De Fide et Operibus",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "51e0bf266d5612d4ffb79ae62b937bc0571c0d763ef7b4feb3b9742a93cca693",
+  "units": 49,
+  "scheme": {
+   "citation": "Aug. Fid. et op. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 132 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-fide-et-symbolo-lat": {
+  "title": "De Fide et Symbolo",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "29fd6c0fbf180bc9e3b3ec1926f347a636f8cd719811918f37cd13ec895249c1",
+  "units": 26,
+  "scheme": {
+   "citation": "Aug. Fid. et symb. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 62 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-genesi-ad-litteram-imperfectus-lat": {
+  "title": "De Genesi Ad Litteram Imperfectus Liber",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "ca2d77b0200348298c1f9b001da725339e261a1da3821efc88d03871a13a52ac",
+  "units": 16,
+  "scheme": {
+   "citation": "Aug. Gen. imp. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1894). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 89 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1894); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-gestis-pelagii-lat": {
+  "title": "De Gestis Pelagii",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "ba83e28a87e1d661e08842a51cea1619a9416f3b899db40bcdb195b319d744b0",
+  "units": 66,
+  "scheme": {
+   "citation": "Aug. Gest. Pel. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1904). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 140 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1904); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-gratia-christi-lat": {
+  "title": "De Gratia Christi",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "bcfeb15f2517ae92fa58da668b67994e90fd86da8eace2f99ae161c0dcdd7ae6",
+  "units": 55,
+  "scheme": {
+   "citation": "Aug. Grat. Chr. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1904). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 88 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1904); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-mendacio-lat": {
+  "title": "De Mendacio",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "10fe573d3064006cb5cefefaec6fa53106a37f6c5175bb0c114e420874b07e41",
+  "units": 43,
+  "scheme": {
+   "citation": "Aug. Mend. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 97 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-natura-boni-lat": {
+  "title": "De Natura Boni",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "4caaeb3b127c8fea7e94993f75c3b3a9c37de81c118acd139947ff863b67b05e",
+  "units": 48,
+  "scheme": {
+   "citation": "Aug. Nat. b. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1892). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 53 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1892); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-natura-et-gratia-lat": {
+  "title": "De Natura et Gratia",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "77663813613aaf7a0dc143bbe2ad97c96598b8ea16ab9cd332a99e3e6a7525d7",
+  "units": 86,
+  "scheme": {
+   "citation": "Aug. Nat. et gr. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 147 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-natura-et-origine-animae-lat": {
+  "title": "De Natura et Origine Animae",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "0a45559dd62ae82b013de16334414bf977f3030776633c6a5ff1672b68af62f8",
+  "units": 122,
+  "scheme": {
+   "citation": "Aug. Nat. et orig. an. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 257 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-opere-monachorum-lat": {
+  "title": "De Opere Monachorum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "f9ba9aca977a0f29ef98a368b7e24b93ede019c217b432792d5199a8019a1bcc",
+  "units": 41,
+  "scheme": {
+   "citation": "Aug. Op. mon. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 141 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-ordine-lat": {
+  "title": "De Ordine",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "39b735119ff8da46a3d05ea9ab42a7a9f3f6dcd7aaef7bc67e71e56c84e0f331",
+  "units": 96,
+  "scheme": {
+   "citation": "Aug. Ord. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1922). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 106 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Sancti Aureli Augustini Opera, Prague, 1922); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-peccatorum-meritis-lat": {
+  "title": "De Peccatorum Meritis et Remissione et de Baptismo Parvulorum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "9c58ef9f1dcbc1c61f710b8e92ccad674359376c244c794520f0fd7e3b0f4802",
+  "units": 156,
+  "scheme": {
+   "citation": "Aug. Pecc. mer. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 324 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-sancta-virginitate-lat": {
+  "title": "De Sancta Virginitate",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "e6a7035f35ca8bc9151773db302c21304c256cc419930fd4f7f207c560004e80",
+  "units": 57,
+  "scheme": {
+   "citation": "Aug. Virg. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 138 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-spiritu-et-littera-lat": {
+  "title": "De Spiritu et Littera",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "59522f67942b7286485e3893f76b320c704d9e12a61156efb8c35ce57537b2cd",
+  "units": 69,
+  "scheme": {
+   "citation": "Aug. Spir. et litt. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl F. Urba & Joseph Zycha, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 177 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl F. Urba & Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-unico-baptismo-lat": {
+  "title": "Liber de Unico Baptismo",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "8b1f32fc118512a66dc56435e5cd0ca1e126aaab12c35b6befbc8f68cfcbe1a8",
+  "units": 35,
+  "scheme": {
+   "citation": "Aug. Bapt. un. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Michael Petschenig, 1910). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 71 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Michael Petschenig, Sancti Aureli Augustini Opera, Prague, 1910); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-de-utilitate-credendi-lat": {
+  "title": "De Utilitate Credendi",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "f13cf9947916deb1263492d81af1c38f7d9adba94d3d6d4dc9c8508e109ca293",
+  "units": 36,
+  "scheme": {
+   "citation": "Aug. Util. cred. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1891). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 62 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1891); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-epistulae-lat": {
+  "title": "Epistulae",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "f7a90e7ab73fa60b100ae414064915b5d97d92483c305848461bce43936a9a84",
+  "units": 2230,
+  "scheme": {
+   "citation": "Aug. Ep. letter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Alois Goldbacher, 1895-1911). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 6056 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Alois Goldbacher, Sancti Aureli Augustini Opera, Prague, 1895-1911); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-quaestiones-in-heptateuchum-lat": {
+  "title": "Quaestiones in Heptateuchum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "4309fac2318eeae07765e3e3c922222ed964d83444fd6a2132e58e994a1559c2",
+  "units": 675,
+  "scheme": {
+   "citation": "Aug. Quaest. Hept. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Joseph Zycha, 1895). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1082 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Joseph Zycha, Sancti Aureli Augustini Opera, Prague, 1895); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-retractationes-lat": {
+  "title": "Retractationum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "9e662b9b80061f70e1dd190200aab4848a49dbda8e8ae2cc9a05e539dec61a58",
+  "units": 454,
+  "scheme": {
+   "citation": "Aug. Retract. book.section.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1902). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 520 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Sancti Aureli Augustini Opera, Vienna, 1902); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "augustine-speculum-lat": {
+  "title": "Liber qui appellatur Speculum",
+  "author": "Augustine",
+  "format": "tei",
+  "sha256": "a12601d1be4eb9e01dcadcb559b57ea969eb911ad1188f06592355225ff44fa8",
+  "units": 52,
+  "scheme": {
+   "citation": "Aug. Spec. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Franz Weihrich, 1887). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 594 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Franz Weihrich, Sancti Aureli Augustini Opera, Vienna, 1887); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "jerome-epistulae-lat": {
+  "title": "Epistulae",
+  "author": "Jerome, Saint",
+  "format": "tei",
+  "sha256": "6d95660c77a846a81335a43d66872cb3bfa577ab8217e23125becb7461457e05",
+  "units": 4551,
+  "scheme": {
+   "citation": "Hier. Ep. letter.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Isidor Hilberg, 1910-1918). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 4546 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Isidor Hilberg, S. Euesebii Hieronymi Opera, Vienna, 1910-1918); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "jerome-in-hieremiam-lat": {
+  "title": "In Hieremiam Prophetam Libri Sex",
+  "author": "Jerome, Saint",
+  "format": "tei",
+  "sha256": "eae734bd45f12c382c8845bde7c963a59e3cb48dbfd9c51c739d46bd41daf72f",
+  "units": 1408,
+  "scheme": {
+   "citation": "Hier. in Hier. book.section.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Siegfried Reiter, 1913). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1453 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Siegfried Reiter, S. Euesebii Hieronymi Opera, Vienna, 1913); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "lactantius-de-ira-dei-lat": {
+  "title": "De Ira Dei",
+  "author": "Lactantius",
+  "format": "tei",
+  "sha256": "7a41864811cf9a9e43e8c86f415d5f9aece9417fd1ebbd0706151b47b3d84440",
+  "units": 306,
+  "scheme": {
+   "citation": "Lact. Ira chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Samuel Brandt & Georg Laubmann, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 151 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Samuel Brandt & Georg Laubmann, L. Caeli Firmiani Lactanti Opera omnia, Vienna, Austria, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "lactantius-de-mortibus-persecutorum-lat": {
+  "title": "De Mortibus Persecutorum",
+  "author": "Lactantius",
+  "format": "tei",
+  "sha256": "bd655aa01c4dddad0951c08ac34f9f27528ba2c357eaabb5b0c3ce7237544eb4",
+  "units": 366,
+  "scheme": {
+   "citation": "Lact. Mort. pers. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Samuel Brandt & Georg Laubmann, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 120 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Samuel Brandt & Georg Laubmann, L. Caeli Firmiani Lactanti Opera omnia, Vienna, Austria, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "lactantius-de-opificio-dei-lat": {
+  "title": "De Opificio Dei",
+  "author": "Lactantius",
+  "format": "tei",
+  "sha256": "5c0b9490dd85e6fe8f4ef04ec083363208e93eafdadc7e839871a35ce144ea0a",
+  "units": 278,
+  "scheme": {
+   "citation": "Lact. Opif. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Samuel Brandt & Georg Laubmann, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 124 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Samuel Brandt & Georg Laubmann, L. Caeli Firmiani Lactanti Opera omnia, Vienna, Austria, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "lactantius-divinae-institutiones-lat": {
+  "title": "Divinarum Institutionum",
+  "author": "Lactantius",
+  "format": "tei",
+  "sha256": "365fbc5eb2f77f08d0ac46876d51c5127acc44e82cdc78e4f7eab49f0374db21",
+  "units": 3275,
+  "scheme": {
+   "citation": "Lact. Inst. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Samuel Brandt & Georg Laubmann, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1855 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Samuel Brandt & Georg Laubmann, L. Caeli Firmiani Lactanti Opera omnia, Wien, Österreich, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "lactantius-epitome-lat": {
+  "title": "Epitome Divinarum Institutionum",
+  "author": "Lactantius",
+  "format": "tei",
+  "sha256": "ce324341b4d614258ce5209c3817a16ba3cf0fd26db30f109d4eb4adf181a346",
+  "units": 491,
+  "scheme": {
+   "citation": "Lact. Epit. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Samuel Brandt & Georg Laubmann, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 244 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Samuel Brandt & Georg Laubmann, L. Caeli Firmiani Lactanti Opera omnia, Wien, Österreich, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "lactantius-fragmenta-lat": {
+  "title": "Fragmenta",
+  "author": "Lactantius",
+  "format": "tei",
+  "sha256": "58f6cfd368ae4b657da86ed1e6e44b56785af508f9502a4a2aad9b5560a10e79",
+  "units": 27,
+  "scheme": {
+   "citation": "Lact. Frag. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Samuel Brandt & Georg Laubmann, 1897). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 26 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Samuel Brandt & Georg Laubmann, L. Caeli Firmiani Lactanti Opera omnia, Vienna, Austria, 1897); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "minucius-felix-octavius-lat": {
+  "title": "Octavius",
+  "author": "Minucius Felix",
+  "format": "tei",
+  "sha256": "efc347bdd01f344979a42d6c1074d089a020b2e8cdd685641487a782016c7537",
+  "units": 304,
+  "scheme": {
+   "citation": "Min. Fel. Oct. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Halm, 1867). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 70 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, M. Minucii Felicis Octavius Iulii Firmici Materni Liber de errore profanarum religionum, Wien, Österreich, 1867); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-ad-nationes-lat": {
+  "title": "Ad Nationes Libri Duo",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "d7296ca1c125fe5f3f323ecbfeb7b068617339bec1d155a1208837cfaabd1c4d",
+  "units": 37,
+  "scheme": {
+   "citation": "Tert. Nat. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 101 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-adversus-hermogenem-lat": {
+  "title": "Adversus Hermogenem",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "2dd87f359ede19c2600f23685e83eaabcf24fbb14b336da645e8876475ebeb20",
+  "units": 45,
+  "scheme": {
+   "citation": "Tert. Herm. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1906). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 92 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1906); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-adversus-marcionem-lat": {
+  "title": "Adversus Marcionem",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "d0869cd3c1cf2303f5a4d077555a0fd329a6a47f7406c2d3c482b6aa5048937e",
+  "units": 146,
+  "scheme": {
+   "citation": "Tert. Marc. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1906). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 762 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1906); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-adversus-praxean-lat": {
+  "title": "Adversus Praxean",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "93a36f6ef010b003420dc746c48b0774fc56c7d1ebebee5350a2e3af43686287",
+  "units": 31,
+  "scheme": {
+   "citation": "Tert. Prax. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 136 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-adversus-valentinianos-lat": {
+  "title": "Adversus Valentinianos",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "b58de43b3aa150c05fef8ed4917828d8dbb4b3a7c037c6d22daa1355744be9f5",
+  "units": 39,
+  "scheme": {
+   "citation": "Tert. Val. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 76 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-anima-lat": {
+  "title": "De Anima",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "f9519b0b12b951edd43c9259b12d9f67588373df8f762669d1a53d4c0f23ba8f",
+  "units": 58,
+  "scheme": {
+   "citation": "Tert. An. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 178 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-baptismo-lat": {
+  "title": "De Baptismo",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "716afb5aec75dfb77909064335175732e94c29ba1723a10af1ac25fe4dca0eea",
+  "units": 20,
+  "scheme": {
+   "citation": "Tert. Bapt. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 33 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-idololatria-lat": {
+  "title": "De idololatria",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "769e545ab6bce7053cb9f3ce632c5e65ae114ef4b0d71d68d4b5ba4ad0c81b9e",
+  "units": 24,
+  "scheme": {
+   "citation": "Tert. Idol. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 52 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-ieiunio-lat": {
+  "title": "De Ieiunio Adversus Psychicos",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "537858a24aab6789daa2ea27ed21a53da79d78b14911079929b53931e21ef796",
+  "units": 17,
+  "scheme": {
+   "citation": "Tert. Ieiun. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 49 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-oratione-lat": {
+  "title": "De Oratione",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "f11f6c66009513c3c137351d0dc29b8528ba782e12b872235dbe8b4ee4fd6dbe",
+  "units": 29,
+  "scheme": {
+   "citation": "Tert. Or. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 42 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-patientia-lat": {
+  "title": "De Patientia",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "1b0e9af413ff02f58bad6272d22d8a344ab8d21bfc31340687c2dc756b666074",
+  "units": 16,
+  "scheme": {
+   "citation": "Tert. Pat. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 50 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-pudicitia-lat": {
+  "title": "De Pudicitia",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "b063a24d6c5f736b61520fa1bdb6388aa924f6cf96c4b387fced71f835c04d5b",
+  "units": 22,
+  "scheme": {
+   "citation": "Tert. Pud. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 108 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-resurrectione-carnis-lat": {
+  "title": "De Carnis Resurrectione",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "6e75e182456f4f86e6f2657e0236ebedd8c62080abfd93e67470e4f88089e40b",
+  "units": 63,
+  "scheme": {
+   "citation": "Tert. Res. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1900). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 208 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1900); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-spectaculis-lat": {
+  "title": "De Spectaculis",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "685de144612f17fdca65fc64e3d322650a1d967c8620cf1430ea6d76a7f26bed",
+  "units": 30,
+  "scheme": {
+   "citation": "Tert. Spect. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 50 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-de-testimonio-animae-lat": {
+  "title": "De Testimonio Animae",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "b44377b387ab51e045dcaf78dbbb94d65566fd68497968238049189d33d28c7f",
+  "units": 6,
+  "scheme": {
+   "citation": "Tert. Test. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 10 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "tertullian-scorpiace-lat": {
+  "title": "Scorpiace",
+  "author": "Tertullian",
+  "format": "tei",
+  "sha256": "5648fc174e977dcd7c6b558a48ed7a128a8a17ca48a9c0205c4fab16feab75c2",
+  "units": 15,
+  "scheme": {
+   "citation": "Tert. Scorp. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (August Reifferscheid & Georg Wissowa, 1890). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 73 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (August Reifferscheid & Georg Wissowa, Quinti Septimi Florentis Tertulliani opera, Prague, 1890); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
  }
 }
