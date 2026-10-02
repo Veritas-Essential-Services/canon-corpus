@@ -2958,6 +2958,16 @@ Shelf: `pipeline/dasent_shelf.json` (2026-10-02; added at the coordinator's rela
 | dasent-selection | excluded | A Selection from the Norse Tales for the Use of Children (PG 64189): a selection from Popular Tales from the Norse, a duplicate of its stories |
 | dasent-sagas | excluded | The Story of Burnt Njal (PG 597, 17919): a saga, not a folk tale; outside the relay's ask (it would belong on a sagas shelf) |
 
+## W. R. S. Ralston (Russian tales)
+
+Shelf: `pipeline/ralston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ralston's translation with his commentary, cut Chapter > tale (51 tales, as his Contents lists them); footnote marks on tale titles are stripped from the citation through a new opt-in 'strip' on convert_nested.py levels. Ten ids carry ~2: the Contents prints each chapter's summary under the same heading as the chapter's opening. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873) | have | PG 22373, `ralston-russian-fairy-tales` (3465 units) |
+| ralston-other-translations | excluded | Turgenev's Liza (PG 12194) and Schiefner's Tibetan Tales (PG 66870), both tr. Ralston: outside the relay's ask (Russian tales); Tibetan Tales would suit a later folk-tale batch |
+| ralston-commentary-only | excluded | Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

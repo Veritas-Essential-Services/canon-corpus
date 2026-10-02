@@ -1,0 +1,34 @@
+{
+ "_about": "William Ralston Shedden Ralston's (1828-1889) Russian folk tales, translated from Afanasyev's and other Russian collections, with his commentary: Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore (New York, 1873), the American edition of his Russian Folk-Tales (London, 1873). Ralston is the translator, recorded in the title. Clean Gutenberg text; US public domain.",
+ "_author": "W. R. S. Ralston",
+ "_name_words": [
+  "russian",
+  "fairy",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ralston-russian-fairy-tales": [
+   22373,
+   "Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873)",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVX]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "(?:[A-Z][A-Z’' ,&-]{2,}[A-Z]\\.?(?:\\[\\d+\\])?|FOOTNOTES:)$",
+      "strip": "\\[\\d+\\]"
+     }
+    ],
+    "start": "RUSSIAN FOLK-TALES\\.$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ralston-other-translations": "Turgenev's Liza (PG 12194) and Schiefner's Tibetan Tales (PG 66870), both tr. Ralston: outside the relay's ask (Russian tales); Tibetan Tales would suit a later folk-tale batch",
+  "ralston-commentary-only": "Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only"
+ }
+}

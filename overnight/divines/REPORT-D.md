@@ -144,3 +144,6 @@
 
 ## 2026-10-02 16:48 CDT — dasent: done
 - 2/2 fetched (Gutenberg 8933, 36385), 5,716 units; translator Dasent captured from both headers. Fjeld: 14 ids carry ~2 (two different tales titled The Haunted Mill; The Companion headed over frame and tale).
+
+## 2026-10-02 16:48 CDT — ralston: done
+- 1/1 fetched (Gutenberg 22373), 3,465 units, nested Chapter > tale, all 51 tales found. convert_nested.py gains two opt-in level keys: strip (a footnote mark on a title) and max (a title longer than 90 characters, used by Colum). 10 ~2 ids from Contents summaries.

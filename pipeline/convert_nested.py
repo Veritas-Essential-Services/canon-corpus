@@ -16,7 +16,10 @@ Called by convert_shelf_gutenberg.py when a shelf row carries
 optionally "start": "<regex>" -- the first paragraph matching it begins the
 body, and every heading read before it (a Contents list) is forgotten.
 "title_next" folds the next short paragraph into that heading (a part number
-followed by its name). Illustration placeholders are removed before matching
+followed by its name). "strip": "<regex>" removes matches from that level's
+heading text (a footnote mark printed on a title, "THE FIEND.[18]"); "max": n
+lets that level's headings run past the default 90 characters (a long title).
+Illustration placeholders are removed before matching
 and never become units. Same output contract as convert_gutenberg_prose
 ({id, ref, text, links[]}); structure_texts.py is imported, not modified.
 """
@@ -32,6 +35,8 @@ def convert_nested(path, slug, title, author, levels, start=None):
     raw, apparatus_note = apply_body_rules(raw, slug)
     raw = RE_ILLUS.sub("", raw)
     LV = [(re.compile(l["re"]), bool(l.get("title_next"))) for l in levels]
+    MAX = [int(l.get("max", 90)) for l in levels]
+    STRIP = [re.compile(l["strip"]) if l.get("strip") else None for l in levels]
     heads = [None] * len(LV)
     units, pnum, pending_title = [], 0, None
     START = re.compile(start) if start else None
@@ -46,9 +51,9 @@ def convert_nested(path, slug, title, author, levels, start=None):
             pending_title = None
             continue
         pending_title = None
-        hit = next((i for i, (rx, _) in enumerate(LV) if len(p) < 90 and rx.match(p)), None)
+        hit = next((i for i, (rx, _) in enumerate(LV) if len(p) < MAX[i] and rx.match(p)), None)
         if hit is not None:
-            heads[hit] = p.rstrip(".")
+            heads[hit] = (STRIP[hit].sub("", p) if STRIP[hit] else p).rstrip(".")
             for j in range(hit + 1, len(heads)):
                 heads[j] = None
             pnum = 0
