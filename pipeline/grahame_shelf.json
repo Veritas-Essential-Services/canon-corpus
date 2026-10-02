@@ -1,0 +1,42 @@
+{
+ "_about": "Kenneth Grahame's (1859-1932) books: The Wind in the Willows, the two books of the Golden Age children (The Golden Age, Dream Days), the essays of Pagan Papers, and the story The Headswoman. Clean Gutenberg text; all published before 1930: US public domain.",
+ "_author": "Kenneth Grahame",
+ "_name_words": [
+  "kenneth",
+  "grahame"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grahame-wind-in-the-willows": [
+   289,
+   "The Wind in the Willows (1908)",
+   {
+    "contents_only": true
+   }
+  ],
+  "grahame-golden-age": [
+   291,
+   "The Golden Age (1895)"
+  ],
+  "grahame-dream-days": [
+   270,
+   "Dream Days (1898)"
+  ],
+  "grahame-pagan-papers": [
+   5319,
+   "Pagan Papers (1893)",
+   {
+    "contents_only": true
+   }
+  ],
+  "grahame-headswoman": [
+   34243,
+   "The Headswoman (1898; 1921 edition ill. Marcia Lane Foster)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "grahame-duplicates": "other transcriptions of books held: The Wind in the Willows (PG 22340, 22341, 26293, 27805 ill. Bransom), The Golden Age (32501 ill. Parrish, 53250), Dream Days (1288, 35187 ill. Parrish), The Reluctant Dragon (21588, a chapter of Dream Days)",
+  "grahame-not-his": "anthologies he edited: The Cambridge Book of Poetry for Children (50994), Eugene Field's Lullaby-Land (54874)"
+ }
+}

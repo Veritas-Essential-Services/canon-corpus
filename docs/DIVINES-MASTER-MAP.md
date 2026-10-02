@@ -2216,6 +2216,20 @@ Shelf: `pipeline/potter_shelf.json` (2026-10-02; added at the coordinator's rela
 | potter-not-on-gutenberg | pending | Appley Dapply's Nursery Rhymes (1917) and other later books found on neither Gutenberg nor Internet Archive in a title search |
 | potter-translations | excluded | French Peter Rabbit (29052): this shelf is English |
 
+## Kenneth Grahame
+
+Shelf: `pipeline/grahame_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Wind in the Willows, The Golden Age, Dream Days, Pagan Papers and The Headswoman, one clean Gutenberg text each, cited by chapter or essay. The Reluctant Dragon is held inside Dream Days, where Grahame put it. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wind in the Willows (1908) | have | PG 289, `grahame-wind-in-the-willows` (921 units) |
+| The Golden Age (1895) | have | PG 291, `grahame-golden-age` (492 units) |
+| Dream Days (1898) | have | PG 270, `grahame-dream-days` (459 units) |
+| Pagan Papers (1893) | have | PG 5319, `grahame-pagan-papers` (110 units) |
+| The Headswoman (1898; 1921 edition ill. Marcia Lane Foster) | have | PG 34243, `grahame-headswoman` (133 units) |
+| grahame-duplicates | excluded | other transcriptions of books held: The Wind in the Willows (PG 22340, 22341, 26293, 27805 ill. Bransom), The Golden Age (32501 ill. Parrish, 53250), Dream Days (1288, 35187 ill. Parrish), The Reluctant Dragon (21588, a chapter of Dream Days) |
+| grahame-not-his | excluded | anthologies he edited: The Cambridge Book of Poetry for Children (50994), Eugene Field's Lullaby-Land (54874) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

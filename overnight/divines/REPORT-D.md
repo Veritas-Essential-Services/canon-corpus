@@ -107,3 +107,6 @@
 - convert_shelf_gutenberg.py gained the sub and repeat_continues options and a separator-aware lenient Contents reader. The house _contents_key tail bug is measured and reported (DIGEST item 2), not fixed.
 - Defects: three Carroll maths works have no plain text; Stevenson Letters 38 ~n ids; Townsend Aesop 10 repeated titles; publishers' back-matter in some Nesbit files; Potter's little books cite by paragraph only.
 - Next Lane D worker: the queue is empty. Upkeep only unless Adam adds authors or answers the DIGEST's widen-or-not list (Kipling, Hawthorne, Chesterton 1929-30, Swanston, other Aesops).
+
+## 2026-10-02 16:21 CDT — grahame: done
+- 5/5 fetched (Gutenberg), 0 copyright markers; 2,115 units, 0 duplicate ids. Wind in the Willows, Golden Age, Dream Days, Pagan Papers, The Headswoman. No uids minted; not in manifest.

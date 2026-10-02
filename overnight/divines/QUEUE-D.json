@@ -163,8 +163,11 @@
     },
     {
       "id": "grahame",
-      "status": "todo",
-      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Kenneth Grahame: The Wind in the Willows, The Golden Age, Dream Days, Pagan Papers and his other pre-1930 books; no minting"
+      "status": "done",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Kenneth Grahame: The Wind in the Willows, The Golden Age, Dream Days, Pagan Papers and his other pre-1930 books; no minting",
+      "started": "2026-10-02T16:20:40-05:00",
+      "finished": "2026-10-02T16:21:13-05:00",
+      "notes": "5/5 fetched (Gutenberg), 0 copyright markers; 2,115 units, 0 duplicate ids. Wind in the Willows, Golden Age, Dream Days, Pagan Papers, The Headswoman. No uids minted; not in manifest."
     },
     {
       "id": "barrie",
