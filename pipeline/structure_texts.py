@@ -582,6 +582,159 @@ def convert_douay(path, books, sha, slug="douay"):
                        "source_url": "https://github.com/scrollmapper/bible_databases"},
             "units": units}
 
+# ---------------------------------------------------------------- Brenton
+#
+# Brenton's English Septuagint (1851), from eBible.org's own USFM archive
+# (fetch_sources.BRENTON, pinned: the archive kept unaltered in a GitHub
+# repository, because ebible.org is out of this sandbox's reach). One file per
+# book. Read: the scripture books; not read: the front matter, Brenton's
+# introductions, and his appendix of Alexandrinus readings (FRT, INT, BAK,
+# OTH, XX*), and NEH, eBible's own copy of Nehemiah RENUMBERED to the KJV
+# (Brenton prints Nehemiah as chapters 11-23 of "Ezra and Nehemiah", the
+# Greek's 2 Esdras, and that is the file read).
+#
+# Markup, read from the files: \v and \c number; \add ... \add* are the
+# words Brenton supplies (in italics in print), \sc small capitals, \it
+# italics: kept as plain words, with `marked` holding the verse's USFM as is.
+# \f ... \f* are Brenton's footnotes and \x ... \x* his cross references:
+# out of `text`, into `notes`. \d (a psalm title) and \p, \nb are layout.
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in BRENTON's numbering, the Greek's,
+# not the KJV's: the Psalms counted as in the Greek with the title as verse 1,
+# Jeremiah's oracles in the Greek's order, the Greek's additions LETTERED
+# after the verse they follow (1Kgs.12.24a, Esth.1.1b), verses the Greek lacks
+# simply absent. `kjv` names the KJV verse(s) holding the same text by the map
+# data/versification/brenton-kjv.json (build_brenton_versification.py), or says
+# why there is none. No uids are minted.
+
+BRENTON_BOOKS = {   # USFM id -> OSIS (the id's book code)
+    "GEN": "Gen", "EXO": "Exod", "LEV": "Lev", "NUM": "Num", "DEU": "Deut", "JOS": "Josh",
+    "JDG": "Judg", "RUT": "Ruth", "1SA": "1Sam", "2SA": "2Sam", "1KI": "1Kgs", "2KI": "2Kgs",
+    "1CH": "1Chr", "2CH": "2Chr", "EZR": "Ezra", "JOB": "Job", "PSA": "Ps",
+    "PRO": "Prov", "ECC": "Eccl", "SNG": "Song", "ISA": "Isa", "JER": "Jer", "LAM": "Lam",
+    "EZK": "Ezek", "HOS": "Hos", "JOL": "Joel", "AMO": "Amos", "OBA": "Obad", "JON": "Jonah",
+    "MIC": "Mic", "NAM": "Nah", "HAB": "Hab", "ZEP": "Zeph", "HAG": "Hag", "ZEC": "Zech",
+    "MAL": "Mal", "TOB": "Tob", "JDT": "Jdt", "ESG": "Esth", "WIS": "Wis", "SIR": "Sir",
+    "BAR": "Bar", "LJE": "EpJer", "SUS": "Sus", "BEL": "Bel", "1MA": "1Macc", "2MA": "2Macc",
+    "1ES": "1Esd", "MAN": "PrMan", "3MA": "3Macc", "4MA": "4Macc", "DAG": "Dan",
+}
+BRENTON_SKIP = {"FRT", "INT", "BAK", "OTH", "XXA", "XXB", "XXC", "NEH"}
+RE_USFM_NOTE = re.compile(r"\\(f|x) .*?\\\1\*", re.S)
+RE_USFM_MARK = re.compile(r"\\[a-z]+[0-9]*\*?")
+RE_USFM_PARA = re.compile(r"\\(?:p|d|nb|b|q[0-9]?|m)(?=\s|$)")   # layout: a space
+RE_USFM_CHAR = re.compile(r"\\[a-z]+[0-9]*(?:\*| )")          # \add ... \add*: the words stay
+
+
+def brenton_note(raw):
+    """A footnote's or cross reference's text, its markers dropped."""
+    body = re.sub(r"^\\[fx] \S+\s*", "", raw)[:-3]
+    body = re.sub(r"\\(fr|xo) \S+\s*", "", body)
+    return re.sub(r"\s+", " ", RE_USFM_MARK.sub(" ", body)).strip()
+
+
+def brenton_verses(zpath):
+    """[(osis, book name, chapter, verse label, marked USFM)] in file order,
+    scripture books only. A label is "12"; "24a" for a lettered addition; "0"
+    for text before a chapter's verse 1. Refuses a repeated label."""
+    import zipfile
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        for name in sorted(z.namelist(), key=lambda n: int(n.split("-")[0]) if n[0].isdigit() else 999):
+            if not name.endswith(".usfm"):
+                continue
+            code = name.split("-", 1)[1][:3]
+            if code in BRENTON_SKIP:
+                continue
+            if code not in BRENTON_BOOKS:
+                raise ValueError(f"Brenton {name}: an unknown book")
+            t = z.read(name).decode("utf-8")
+            title = re.search(r"^\\h (.+?)\s*$", t, re.M).group(1)
+            ch, seen, in_verse = None, set(), False
+            for part in re.split(r"(\\c \d+|\\v \S+)", t):
+                m = re.match(r"\\(c|v) (\S+)$", part)
+                if m and m.group(1) == "c":
+                    ch, in_verse = m.group(2), False
+                    continue
+                if m:
+                    if (ch, m.group(2)) in seen:
+                        raise ValueError(f"Brenton {code} {ch}:{m.group(2)} twice")
+                    seen.add((ch, m.group(2)))
+                    out.append([BRENTON_BOOKS[code], title, ch, m.group(2), ""])
+                    in_verse = True
+                    continue
+                if in_verse:
+                    out[-1][4] += part
+                elif ch is not None and RE_USFM_MARK.sub("", RE_USFM_NOTE.sub("", part)).strip():
+                    # Text Brenton prints before a chapter's verse 1 (the
+                    # Greek's prologue to Lamentations): verse "0".
+                    seen.add((ch, "0"))
+                    out.append([BRENTON_BOOKS[code], title, ch, "0", part])
+    return [tuple(x[:4]) + (x[4].strip(),) for x in out]
+
+
+def brenton_text(marked):
+    """(text, notes) for one verse's USFM."""
+    notes = [brenton_note(m.group(0)) for m in RE_USFM_NOTE.finditer(marked)]
+    t = RE_USFM_PARA.sub(" ", RE_USFM_NOTE.sub("", marked))
+    t = re.sub(r"\s+", " ", RE_USFM_CHAR.sub("", t)).strip()
+    if "\\" in t:
+        raise ValueError(f"Brenton: a marker left in {t[:80]!r}")
+    return t, notes
+
+
+def convert_brenton(zpath, sha, slug="brenton"):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    bmap, kjv_ids = None, set()
+    if os.path.exists(_V.BRENTON_PATH):
+        bmap = _V.load(_V.BRENTON_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    units, empty = [], []
+    for osis, title, c, v, marked in brenton_verses(zpath):
+        text, notes = brenton_text(marked)
+        if not text:
+            empty.append(f"{osis}.{c}.{v}")     # Prov 30:1: only a note ("see chapter 24")
+            continue
+        u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{title} {c}:{v}", "text": text,
+             "links": [], "marked": marked}
+        if notes:
+            u["notes"] = notes
+        if bmap:
+            u["kjv"] = _V.resolve_brenton(f"{osis}.{c}.{v}", bmap, kjv_ids)
+            resolved[u["kjv"]["resolved"]] += 1
+        units.append(u)
+    return {"slug": slug, "title": "The Septuagint in English (Brenton, 1851)",
+            "author": "Sir Lancelot Charles Lee Brenton (translator)",
+            "source": {"path": os.path.relpath(zpath, CORPUS), "format": "ebible-usfm-zip",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in Brenton's (the Greek's) numbering; "
+                                   "the Greek's additions lettered (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "lxx-brenton",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "empty_verses_not_units": empty,
+                       "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms "
+                               "as in the Greek with a title as verse 1, Jeremiah's oracles "
+                               "in the Greek's order, Nehemiah as chapters 11-23 of Ezra "
+                               "(the Greek's 2 Esdras), the Greek's additions lettered after "
+                               "the verse they follow. Each unit's `kjv` names the KJV "
+                               "verse(s) holding the same text by "
+                               "data/versification/brenton-kjv.json, or says why there is "
+                               "none; no uids minted. `text` drops Brenton's notes, which "
+                               "are in `notes`; `marked` is the verse's USFM as is. eBible's "
+                               "corrections to the printing are in the text; its "
+                               "KJV-renumbered Nehemiah and Brenton's appendix are not read."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Brenton's English Septuagint, transcribed and corrected "
+                                      "by eBible.org (eng-Brenton)",
+                       "source_url": "https://ebible.org/eng-Brenton/",
+                       "requests": "eBible asks that errors in the text be reported to it"},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -1840,6 +1993,9 @@ def main():
     drc = os.path.join(CORPUS, "douay", "DRC.json")
     if os.path.exists(drc):
         jobs.append(("douay", lambda: convert_douay(drc, _fs.VULGATE["books"], sha256(drc))))
+    bz = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    if os.path.exists(bz):
+        jobs.append(("brenton", lambda: convert_brenton(bz, sha256(bz))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))
