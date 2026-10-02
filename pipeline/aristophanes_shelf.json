@@ -34,7 +34,13 @@
    "tr. Jack Lindsay (1926); US PD per Gutenberg"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "aristophanes-frere-morley": [
+   "aristophanesmetr00arisiala",
+   "Aristophanes: a Metrical Version of the Acharnians, the Knights and the Birds (Morley's Universal Library; 2nd ed., Routledge, 1887)",
+   "tr. John Hookham Frere"
+  ]
+ },
  "_excluded": {
   "pg3012": "The Acharnians: the Athenian Society translation (shingle overlap 0.87 with PG 8688)",
   "pg2571": "Peace: the Athenian Society translation (0.87 with PG 8688)",

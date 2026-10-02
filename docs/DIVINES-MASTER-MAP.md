@@ -1060,8 +1060,9 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Clouds | W. J. Hickie (prose, Bohn) | `aristophanes-hickie-clouds` | have (PG 2562) |
 | The Frogs | Benjamin Bickley Rogers (verse) | `aristophanes-rogers-frogs` | have (PG 7998) |
 | Lysistrata | Jack Lindsay (1926); US PD per Gutenberg | `aristophanes-lindsay-lysistrata` | have (PG 7700) |
+| Aristophanes: a Metrical Version of the Acharnians, the Knights and the Birds (Morley's Universal Library; 2nd ed., Routledge, 1887) | John Hookham Frere | `aristophanes-frere-morley` | have-raw (IA `aristophanesmetr00arisiala`) |
 
-Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16); J. Hookham Frere's four plays (1840).
+Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above.
 
 Excluded: PG 3012, 2571, 3013 (the Athenian Society translation split into single plays).
 
@@ -1297,8 +1298,9 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | — | — | `marcus-meditations` | cross-ref → Adler shelf: PG 2680, Casaubon's translation by its wording (inferred); the Adler label 'tr. George Long' looks wrong |
 | The Emperor Marcus Antoninus, his Conversation with Himself (1702) | Jeremy Collier | `marcus-aurelius-collier` | have-raw (IA `emperormarcusant00marcrich`) |
 | Marcus Aurelius Antoninus to Himself (1898) | Gerald H. Rendall | `marcus-aurelius-rendall` | have-raw (IA `marcusaureliusan00marcrich`) |
+| The Meditations of Marcus Aurelius Antoninus (Oxford, Frowde, 1906; introduction by Charles Bigg) | John Jackson (from the catalogue; the scan's title page names no translator) | `marcus-aurelius-jackson-1906` | have-raw (IA `meditationsmarc00jackgoog`) |
 
-Pending (wishlist): Jackson (1906), Haines's Loeb (1916).
+Pending (wishlist): Haines's Loeb (1916; Greek facing).
 
 Excluded: PG 6920 (serves no text), PG 59784 (index).
 
@@ -1417,8 +1419,9 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | Suetonius, vol. 1 (Loeb, 1913) | J. C. Rolfe | `suetonius-rolfe-v1` | have-raw (IA `suetonius01suet`) |
 | Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
 | The Deified Julius | John C. Rolfe | `suetonius-perseus-rolfe-the-deified-julius` | have (Perseus TEI `phi1348.abo011.rolfe-eng1`; markup CC BY-SA 4.0) |
+| The Historie of Twelve Caesars, Emperours of Rome (London, 1606) | Philemon Holland | `suetonius-holland-1606` | have-raw (IA `suetoniushollandtwelvecaesars`) |
 
-Pending (wishlist): Philemon Holland (1606).
+Pending (wishlist): none known.
 
 Excluded: PG 6386-6399 (the same text split into 14 files).
 
@@ -1487,8 +1490,9 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
 | Odes | John Conington | `horace-perseus-conington-odes` | have (Perseus TEI `phi0893.phi001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
 
-Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Christopher Smart's prose (1756).
+Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Smart's prose in its first, unrevised form (1756).
 
 ## Catullus
 
@@ -1684,8 +1688,9 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Philippics (Loeb, 1926) | Walter C. A. Ker | `cicero-ker-philippics` | have-raw (IA `philippics00ciceuoft`) |
 | The Verrine Orations, vol. 1 (Loeb, 1928) | L. H. G. Greenwood | `cicero-greenwood-verrines-v1` | have-raw (IA `ciceroverrineora0001unse`) |
 | De Re Publica, De Legibus (Loeb, 1928) | Clinton Walker Keyes | `cicero-keyes-de-re-publica-de-legibus` | have-raw (IA `derepublicadeleg0000cice_k7o1`) |
+| Cicero: the Offices; Cato, or an Essay on Old Age; Laelius, or an Essay on Friendship (Harper, 1838, vol. 3) | Thomas Cockman (Offices); William Melmoth (Cato, Laelius) | `cicero-cockman-offices-melmoth-cato-laelius` | have-raw (IA `bub_gb_IGgRfydq6YwC`) |
 
-Pending (wishlist): De Officiis (Cockman, Edmonds); Watson's Bohn De Oratore; King's Tusculans (Loeb 1927).
+Pending (wishlist): Edmonds's De Officiis; Watson's Bohn De Oratore (the one scan found answers 404); King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
 Excluded: Winstedt's Atticus (PG 58418, 50692, 51403): Latin facing, pending as a bilingual witness.
 
@@ -2185,8 +2190,9 @@ Shelf: `pipeline/vitruvius_shelf.json`. Morgan 1914 (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Ten Books on Architecture | Morris Hicky Morgan | `vitruvius-morgan` | have (PG 20239) |
+| The Architecture of Marcus Vitruvius Pollio, in Ten Books (London, Priestley and Weale, 1826) | Joseph Gwilt | `vitruvius-gwilt-1826` | have-raw (IA `architectureofma00vitruoft`) |
 
-Pending (wishlist): Gwilt (1826)
+Pending (wishlist): none known
 
 Excluded: Perrault's abridgment
 
