@@ -1,0 +1,61 @@
+{
+ "_about": "Epictetus in English (Arrian's Discourses and the Encheiridion), translator per title. Complete: George Long (1877, raw IA), P. E. Matheson (Oxford, 1916, 2 vols., raw IA; English only), Thomas Wentworth Higginson (1865; 1890 printing, 2 vols., raw IA). Clean Gutenberg: Long's Selection (1890), Crossley's Golden Sayings, Rolleston's Teaching. The Adler shelf's epictetus-discourses is labelled 'The Discourses, tr. P.E. Matheson' there, but its PG 45109 is Higginson's Enchiridion alone; Matheson's Discourses are on this shelf.",
+ "_name_words": [
+  "epictetus",
+  "discourses",
+  "encheiridion",
+  "enchiridion"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "epictetus-long-selection": [
+   10661,
+   "A Selection from the Discourses of Epictetus with the Encheiridion",
+   "tr. George Long"
+  ],
+  "epictetus-crossley-golden-sayings": [
+   871,
+   "The Golden Sayings of Epictetus, with the Hymn of Cleanthes",
+   "tr. Hastings Crossley"
+  ],
+  "epictetus-rolleston-teaching": [
+   39855,
+   "The Teaching of Epictetus",
+   "tr. T. W. Rolleston"
+  ]
+ },
+ "internet_archive": {
+  "epictetus-long-discourses-1877": [
+   "discoursesofepic00epicrich",
+   "The Discourses of Epictetus, with the Encheiridion and Fragments (1877)",
+   "tr. George Long"
+  ],
+  "epictetus-matheson-1916-v1": [
+   "epictetus01epicuoft",
+   "Epictetus: the Discourses and Manual, vol. 1 (Oxford, 1916)",
+   "tr. P. E. Matheson"
+  ],
+  "epictetus-matheson-1916-v2": [
+   "epictetus02epicuoft",
+   "Epictetus: the Discourses and Manual, vol. 2 (Oxford, 1916)",
+   "tr. P. E. Matheson"
+  ],
+  "epictetus-higginson-works-v1": [
+   "worksepictetusc02epicgoog",
+   "The Works of Epictetus: Discourses, Enchiridion and Fragments, vol. 1 (1890 printing)",
+   "tr. Thomas Wentworth Higginson"
+  ],
+  "epictetus-higginson-works-v2": [
+   "worksepictetusc00epicgoog",
+   "The Works of Epictetus, vol. 2 (1890 printing)",
+   "tr. Thomas Wentworth Higginson"
+  ]
+ },
+ "_cross_ref": {
+  "epictetus-discourses": "Adler shelf: PG 45109 is Higginson's ENCHIRIDION only; the Adler label 'The Discourses, tr. P.E. Matheson' is wrong"
+ },
+ "_excluded": {
+  "Elizabeth Carter, All the Works of Epictetus (1758)": "PD; pending (IA)",
+  "W. A. Oldfather, Loeb (1925-28)": "PD in US by date, Greek facing; pending"
+ }
+}
