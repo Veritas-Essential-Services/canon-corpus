@@ -11512,5 +11512,325 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Greek text is a public-domain printed edition (John Anthony Cramer, Catenae Graecorum Patrum in Novum Testamentum, Oxonii, 1844); the TEI is share-alike: a derivative must credit First1KGreek and carry the same licence."
   }
+ },
+ "adamnan-de-locis-sanctis-lat": {
+  "title": "De Locis Sanctis",
+  "author": "Adamnan",
+  "format": "tei",
+  "sha256": "8957a0b70c76f1ea745c163fc521db93d1c37f4122e11311918cf597dfe1851c",
+  "units": 65,
+  "scheme": {
+   "citation": "Adamn. Loc. sanct. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Geyer, 1898). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 114 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Paul Geyer, Itinera hierosolymitana saecvli IIII-VIII, Prague, 1898); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "egeria-itinerarium-lat": {
+  "title": "S. Silviae Peregrinatio",
+  "author": "Anonymous",
+  "format": "tei",
+  "sha256": "80a189f9c91f184539a236609a3d3439c5ce81dd035d2a6e0b99a0b198d48cb6",
+  "units": 278,
+  "scheme": {
+   "citation": "Itin. Eger. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Geyer, 1898). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 117 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Paul Geyer, Itinera hierosolymitana saeculi IIII-VIII, Prague, 1898); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "eucherius-de-laude-heremi-lat": {
+  "title": "De Laude Heremi",
+  "author": "Eucherius of Lyon",
+  "format": "tei",
+  "sha256": "8a5d3f3b1f48f16072182ab6ecf00896c6f3d459d01842b990467adc58d7d844",
+  "units": 44,
+  "scheme": {
+   "citation": "Eucher. Laud. her. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Wotke, 1894). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 35 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Wotke, Sancti Eucherii Lugdunensis, Prague, 1894); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "eucherius-formulae-lat": {
+  "title": "Formulae Spiritalis Intellegentiae",
+  "author": "Eucherius of Lyon",
+  "format": "tei",
+  "sha256": "027fcfdd032df2052e67cde7c56a783b225545597261a3daa9f6cde65ffe5292",
+  "units": 12,
+  "scheme": {
+   "citation": "Eucher. Form. chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Wotke, 1894). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 129 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Wotke, Sancti Eucherii Lugdunensis, Prague, 1894); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "eucherius-instructiones-lat": {
+  "title": "Instructiones",
+  "author": "Eucherius of Lyon",
+  "format": "tei",
+  "sha256": "47e801bb6acea5bfbc59e6e4764a221087012c22ade7f0a12832bec0bb53a769",
+  "units": 221,
+  "scheme": {
+   "citation": "Eucher. Instr. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Wotke, 1894). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 195 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Wotke, Sancti Eucherii Lugdunensis, Prague, 1894); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "eucherius-passio-agaunensium-lat": {
+  "title": "Passio Agaunensium Martyrum",
+  "author": "Eucherius of Lyon",
+  "format": "tei",
+  "sha256": "fdf911de73813f6118244bafc69dd43e2f2d13b73d9b1a8a44349b34dec3da04",
+  "units": 9,
+  "scheme": {
+   "citation": "Eucher. Pass. Acaun. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Wotke, 1894). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 9 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Wotke, Sancti Eucherii Lugdunensis, Prague, 1894); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "eugippius-excerpta-augustini-lat": {
+  "title": "Excerpta ex Operibus Augustini",
+  "author": "Eugippius",
+  "format": "tei",
+  "sha256": "862d6ae547447d4d2515f92eee70745b985fd2ab523c0e96e5f32a4a1d0b1381",
+  "units": 393,
+  "scheme": {
+   "citation": "Eugipp. Exc. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1885). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 2221 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Eugippi Opera, Vienna, 1885); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "eugippius-vita-severini-lat": {
+  "title": "Vita Sancti Severini",
+  "author": "Eugippius",
+  "format": "tei",
+  "sha256": "fd500119454100c22071b20b7474ac88cd22497d117601a357b28d6d38a9b5fa",
+  "units": 198,
+  "scheme": {
+   "citation": "Eugipp. Sev. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Pius Knöll, 1886). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 108 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Pius Knöll, Eugippi Opera, Vienna, 1886); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "itinerarium-burdigalense-lat": {
+  "title": "Itinerarium Hierosolymitanum",
+  "author": "Anonymous",
+  "format": "tei",
+  "sha256": "4e9d397b0140ee3740d1aee4a7c5ed49c5c69489657c2c66a4bf6d86134d5c2d",
+  "units": 69,
+  "scheme": {
+   "citation": "Itin. Burdig. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Paul Geyer, 1898). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 70 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Paul Geyer, Itinera hierosolymitana saecvli IIII-VIII, Wien, Österreich, 1898); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "paulinus-nola-epistulae-lat": {
+  "title": "Epistulae",
+  "author": "Paulinus of Nola",
+  "format": "tei",
+  "sha256": "de5e5c70d5eb93b975cbde3cdba8e47f641b97847887d504e72bbe8ae820daee",
+  "units": 494,
+  "scheme": {
+   "citation": "Paul. Nol. Ep. letter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Wilhelm von Hartel, 1894). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 1020 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Wilhelm von Hartel, Sancti Pontii Meropii Paulini Epistulae, Vienna, 1894); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "pseudo-tertullian-adversus-omnes-haereses-lat": {
+  "title": "Adversus Omnes Haereses",
+  "author": "Pseudo-Tertullian",
+  "format": "tei",
+  "sha256": "52ad79437cee0db64a293233ea85b1d9e2ab4ac90167236a4d86cd574449cea2",
+  "units": 8,
+  "scheme": {
+   "citation": "Ps.-Tert. Haer. section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Emil Kroymann, 1906). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 29 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Emil Kroymann, Quinti Septimi Florentis Tertulliani opera, Vienna, 1906); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "sedulius-opus-paschale-lat": {
+  "title": "Opus Paschale",
+  "author": "Sedulius",
+  "format": "tei",
+  "sha256": "370b52075f6d2ba56a2fc8e6ed10deb7c624a72b3dcfc15d0b1c95b42334b2cf",
+  "units": 134,
+  "scheme": {
+   "citation": "Sedul. Op. pasch. book.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Johann Huemer, 1885). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 229 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Johann Huemer, Sedulii Opera omnia, Vienna, 1885); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "sulpicius-chronica-lat": {
+  "title": "Chronica",
+  "author": "Severus, Sulpicius",
+  "format": "tei",
+  "sha256": "efd271d6b5f43207bf0f5829c37e817979456aca3a9d53bda7b5f353646eb070",
+  "units": 727,
+  "scheme": {
+   "citation": "Sulp. Sev. Chron. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Halm, 1866). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 195 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, Sulpicii Severi libri qui supersunt, Vienna, 1866); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "sulpicius-dialogi-lat": {
+  "title": "Dialogi",
+  "author": "Severus, Sulpicius",
+  "format": "tei",
+  "sha256": "2660556168c156ad8a33d242a66acf4f5f4f8372b5d6e6e5e1ad1a4b80e86961",
+  "units": 406,
+  "scheme": {
+   "citation": "Sulp. Sev. Dial. dialog.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Halm, 1866). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 79 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, Sulpicii Severi libri qui supersunt, Vienna, 1866); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "sulpicius-epistulae-lat": {
+  "title": "Epistulae (Tres)",
+  "author": "Severus, Sulpicius",
+  "format": "tei",
+  "sha256": "48d883dc582f4056725343ca184b299040542b1c51b42cbe6ca1fe0bfc30a714",
+  "units": 55,
+  "scheme": {
+   "citation": "Sulp. Sev. Ep. letter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Halm, 1866). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 18 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, Sulpicii Severi libri qui supersunt, Vienna, 1866); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
+ },
+ "sulpicius-vita-martini-lat": {
+  "title": "Vita Sancti Martini",
+  "author": "Severus, Sulpicius",
+  "format": "tei",
+  "sha256": "9c75cb21bc4bbba244f7c424ef360e275f8692fc4f802aceab2cca1a8158ce50",
+  "units": 190,
+  "scheme": {
+   "citation": "Sulp. Sev. Mart. chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division, numbered as the printed edition numbers it (Karl Halm, 1866). Where a later edition renumbered the work, the standard citation can differ. The text is OCR of the printed CSEL volume, machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and run-together words. A part the edition leaves unnumbered (a preface, a table of chapters) is named by what it is: 1.preface.",
+   "note": "CSEL (Open Greek and Latin) TEI, one unit per innermost textpart div. 35 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "CSEL, Open Greek and Latin (OpenGreekAndLatin/csel-dev)",
+   "source_url": "https://github.com/OpenGreekAndLatin/csel-dev",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The Latin text is a public-domain printed edition (Karl Halm, Sulpicii Severi libri qui supersunt, Vienna, 1866); the TEI is share-alike: a derivative must credit CSEL and carry the same licence."
+  }
  }
 }

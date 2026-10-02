@@ -236,7 +236,10 @@ The living truth for project state is the Obsidian vault:
   Felix: 25,547 units, 3.1M words. Unproofread machine-corrected OCR, and
   every book's honesty says so. An unnumbered part is named by its subtype
   (1.preface) in CSEL books only -- older books keep "?". Cyprian is not in
-  csel-dev. Exclusions and why are in the CSEL comment.
+  csel-dev. Wave 2 (16 books, 3,303 units): Egeria, the Bordeaux pilgrim,
+  Adamnan, Eucherius, Eugippius, Paulinus of Nola's letters, Sedulius'
+  Opus paschale, Sulpicius Severus. Exclusions and why are in the CSEL
+  comment.
   Tertullian's works CSEL lacks come from Perseus (Oehler, 1853-54): 14
   books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
   edition and the rights say "Latin text", never "translation".

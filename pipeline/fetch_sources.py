@@ -491,6 +491,42 @@ CSEL = {
         "De Testimonio Animae -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-scorpiace-lat": ("stoa0275/stoa030/stoa0275.stoa030.opp-lat2.xml",
         "Scorpiace -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    # Wave 2, 2026-10-02: the other CSEL prose -- pilgrims (Egeria, the
+    # Bordeaux pilgrim, Adamnan), Gallic monks (Eucherius, Sulpicius
+    # Severus), Eugippius, Paulinus of Nola, Sedulius. NOT taken: verse;
+    # Boethius (philosophy, the classical lane's); undivided single letters.
+    "adamnan-de-locis-sanctis-lat": ("stoa0007/stoa002/stoa0007.stoa002.opp-lat1.xml",
+        "De locis sanctis -- ed. Paul Geyer, CSEL 39 (1898)"),
+    "egeria-itinerarium-lat": ("stoa0111/stoa001/stoa0111.stoa001.opp-lat3.xml",
+        "Itinerarium Egeriae (Peregrinatio Silviae) -- ed. Paul Geyer, CSEL 39 (1898)"),
+    "eucherius-de-laude-heremi-lat": ("stoa0117/stoa001/stoa0117.stoa001.opp-lat1.xml",
+        "De laude heremi -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eucherius-formulae-lat": ("stoa0117/stoa002/stoa0117.stoa002.opp-lat1.xml",
+        "Formulae spiritalis intellegentiae -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eucherius-instructiones-lat": ("stoa0117/stoa003/stoa0117.stoa003.opp-lat1.xml",
+        "Instructiones -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eucherius-passio-agaunensium-lat": ("stoa0117/stoa004/stoa0117.stoa004.opp-lat1.xml",
+        "Passio Agaunensium martyrum -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eugippius-vita-severini-lat": ("stoa0119/stoa001/stoa0119.stoa001.opp-lat2.xml",
+        "Vita sancti Severini -- ed. Pius Knöll, CSEL 9.2 (1886)"),
+    "eugippius-excerpta-augustini-lat": ("stoa0119/stoa003/stoa0119.stoa003.opp-lat1.xml",
+        "Excerpta ex operibus Augustini -- ed. Pius Knöll, CSEL 9.1 (1885)"),
+    "paulinus-nola-epistulae-lat": ("stoa0223/stoa002/stoa0223.stoa002.opp-lat1.xml",
+        "Epistulae -- ed. Wilhelm von Hartel, CSEL 1 (1894)"),
+    "sedulius-opus-paschale-lat": ("stoa0252/stoa008/stoa0252.stoa008.opp-lat1.xml",
+        "Opus paschale -- ed. Johann Huemer, CSEL 10 (1885)"),
+    "sulpicius-chronica-lat": ("stoa0270/stoa001/stoa0270.stoa001.opp-lat1.xml",
+        "Chronica -- ed. Karl Halm, CSEL 1 (1866)"),
+    "sulpicius-vita-martini-lat": ("stoa0270/stoa002/stoa0270.stoa002.opp-lat2.xml",
+        "Vita sancti Martini -- ed. Karl Halm, CSEL 1 (1866)"),
+    "sulpicius-dialogi-lat": ("stoa0270/stoa003/stoa0270.stoa003.opp-lat2.xml",
+        "Dialogi -- ed. Karl Halm, CSEL 1 (1866)"),
+    "sulpicius-epistulae-lat": ("stoa0270/stoa005/stoa0270.stoa005.opp-lat1.xml",
+        "Epistulae tres -- ed. Karl Halm, CSEL 1 (1866)"),
+    "pseudo-tertullian-adversus-omnes-haereses-lat": ("stoa0276/stoa003/stoa0276.stoa003.opp-lat2.xml",
+        "Adversus omnes haereses -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "itinerarium-burdigalense-lat": ("stoa0329/stoa001/stoa0329.stoa001.opp-lat1.xml",
+        "Itinerarium Burdigalense (Hierosolymitanum) -- ed. Paul Geyer, CSEL 39 (1898)"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes

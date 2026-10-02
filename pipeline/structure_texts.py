@@ -790,6 +790,22 @@ TEI_PROSE = {
     "lactantius-divinae-institutiones-lat": "Lact. Inst.",
     "lactantius-fragmenta-lat": "Lact. Frag.",
     "minucius-felix-octavius-lat": "Min. Fel. Oct.",
+    "adamnan-de-locis-sanctis-lat": "Adamn. Loc. sanct.",
+    "egeria-itinerarium-lat": "Itin. Eger.",
+    "eucherius-de-laude-heremi-lat": "Eucher. Laud. her.",
+    "eucherius-formulae-lat": "Eucher. Form.",
+    "eucherius-instructiones-lat": "Eucher. Instr.",
+    "eucherius-passio-agaunensium-lat": "Eucher. Pass. Acaun.",
+    "eugippius-vita-severini-lat": "Eugipp. Sev.",
+    "eugippius-excerpta-augustini-lat": "Eugipp. Exc.",
+    "paulinus-nola-epistulae-lat": "Paul. Nol. Ep.",
+    "sedulius-opus-paschale-lat": "Sedul. Op. pasch.",
+    "sulpicius-chronica-lat": "Sulp. Sev. Chron.",
+    "sulpicius-vita-martini-lat": "Sulp. Sev. Mart.",
+    "sulpicius-dialogi-lat": "Sulp. Sev. Dial.",
+    "sulpicius-epistulae-lat": "Sulp. Sev. Ep.",
+    "pseudo-tertullian-adversus-omnes-haereses-lat": "Ps.-Tert. Haer.",
+    "itinerarium-burdigalense-lat": "Itin. Burdig.",
     "tertullian-ad-nationes-lat": "Tert. Nat.",
     "tertullian-adversus-hermogenem-lat": "Tert. Herm.",
     "tertullian-adversus-marcionem-lat": "Tert. Marc.",
@@ -1086,6 +1102,8 @@ TEI_PROSE_TITLE = {
     "augustine-de-gratia-christi-lat": "De Gratia Christi",
     "augustine-contra-duas-epistulas-pelagianorum-lat": "Contra Duas Epistulas Pelagianorum",
     "ambrose-expositio-lucam-lat": "Expositio Evangelii secundum Lucam",
+    "eucherius-passio-agaunensium-lat": "Passio Agaunensium Martyrum",  # titleStmt empty
+    "adamnan-de-locis-sanctis-lat": "De Locis Sanctis",
 }
 
 
