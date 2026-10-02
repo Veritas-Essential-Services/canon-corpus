@@ -1930,5 +1930,385 @@
    "redistribute_whole": true,
    "note": "this file states no licence; the repository's licence is CC BY-SA 4.0. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "euripides-alcestis-coleridge": {
+  "title": "Alcestis",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "c691321012bdc039dcac8bb84e99785508843a56956b52b741b884437d14d1da",
+  "units": 504,
+  "scheme": {
+   "citation": "Eur. Alc. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 26 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-andromache-coleridge": {
+  "title": "Andromache",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "9c9c6531a742e08d6eed475a4b1a532d3d89935a46233ca251211236e3246080",
+  "units": 436,
+  "scheme": {
+   "citation": "Eur. Andr. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 72 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (11)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-bacchae-buckley": {
+  "title": "Bacchae",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "83c47b08ee7c0a0aaaafd1471f579364f01eeb71557ae2fbecac54fac57b4f22",
+  "units": 541,
+  "scheme": {
+   "citation": "Eur. Ba. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 6 segment(s) contain a lacuna the translator marks as lost (drama.gap). 19 footnote(s) lifted out of the spoken text into drama.notes."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-cyclops-coleridge": {
+  "title": "The Cyclops",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "5f185b4592ada921bd9a0168850871b1f5013d1541727df7cff7c287063ef615",
+  "units": 356,
+  "scheme": {
+   "citation": "Eur. Cyc. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 4 segment(s) contain a lacuna the translator marks as lost (drama.gap). 13 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (4)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-electra-coleridge": {
+  "title": "Electra",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "94ca9b9f6268bcf1bdcbf48baa8267eb24a8749176e922407e68926732a347f1",
+  "units": 568,
+  "scheme": {
+   "citation": "Eur. El. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-hecuba-coleridge": {
+  "title": "Hecuba",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "35af98160f2b2a1b163171ccadc91354495b02204863d2aea1f64db84d5b545f",
+  "units": 489,
+  "scheme": {
+   "citation": "Eur. Hec. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-helen-coleridge": {
+  "title": "Helen",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "015a5f8b6812d2023b8a0e54468a2427f829beaac18cc718b816a48510213c08",
+  "units": 754,
+  "scheme": {
+   "citation": "Eur. Hel. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-heracleidae-coleridge": {
+  "title": "Heracleidae",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "1d9b59ffb7cd2b027f70ae9db5be0bfeea53f9fa201ca3cbb89a5023aba08846",
+  "units": 381,
+  "scheme": {
+   "citation": "Eur. Heracl. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 51 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (8)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-heracles-coleridge": {
+  "title": "Heracles",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "f82fb9213b3c1a0a0c5e52c95173c36c1a20ae68a49e0df2888aaa70016b0a55",
+  "units": 550,
+  "scheme": {
+   "citation": "Eur. HF line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-hippolytus-coleridge": {
+  "title": "Hippolytus",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "87e674b1a7cc40e816cac266cdbc5bfaaed2b860775e06c504ac89726f27dff7",
+  "units": 561,
+  "scheme": {
+   "citation": "Eur. Hipp. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 53 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-ion-coleridge": {
+  "title": "Ion",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "da9f085e2c5a73560e666a520974797a2b3e19fd40623c580157587d466f45fc",
+  "units": 801,
+  "scheme": {
+   "citation": "Eur. Ion line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 2 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-iphigenia-aulis-coleridge": {
+  "title": "Iphigenia in Aulis",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "ff5e6d4dbc6972bee1dd2fc532944ca09c35f9f051b54ee016730e3d0cf3b1bb",
+  "units": 704,
+  "scheme": {
+   "citation": "Eur. IA line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 125 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-iphigenia-tauris-coleridge": {
+  "title": "Iphigenia Among the Tauri",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "b27be61766a19f32306071b47a6dae0292b7538fb27e220fcdb446ff9069aab5",
+  "units": 664,
+  "scheme": {
+   "citation": "Eur. IT line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 1 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 3 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (8)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-medea-coleridge": {
+  "title": "Medea",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "73456305fbb5d1dd4e757d322907fc26b9137e02f33d14334b7e691110e78a3e",
+  "units": 502,
+  "scheme": {
+   "citation": "Eur. Med. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 37 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-orestes-coleridge": {
+  "title": "Orestes",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "38fe40212aefc20fbc0fb8c2e13f52be40239459fdabbeac24b002c509e63905",
+  "units": 827,
+  "scheme": {
+   "citation": "Eur. Or. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 1 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (11)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-phoenissae-coleridge": {
+  "title": "The Phoenician Maidens",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "fb43d377a41a146953f4e5abb0dab9d401c5d3d906f4b5a1780182a7e9e6e9fe",
+  "units": 736,
+  "scheme": {
+   "citation": "Eur. Phoen. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 0 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (12)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-rhesus-coleridge": {
+  "title": "Rhesus",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "a4d11f0e4213277ca50ffba0d5bc4cc1e2d048b14f1286174d3c403bcec7f522",
+  "units": 393,
+  "scheme": {
+   "citation": "Eur. Rh. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 2 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (12)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-suppliants-coleridge": {
+  "title": "The Suppliants",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "953fa0677ab9fa286aaa15ae3d6a8acb60b3cdb6d0d4e88735e574bff459182d",
+  "units": 473,
+  "scheme": {
+   "citation": "Eur. Supp. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 2 segment(s) contain a lacuna the translator marks as lost (drama.gap). 55 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (10)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "euripides-trojan-women-coleridge": {
+  "title": "The Trojan Women",
+  "author": "Euripides",
+  "format": "tei",
+  "sha256": "52969b58753ae0213caae11bfad8bdab43b5dc6244267fc7cc91e8295b632389",
+  "units": 457,
+  "scheme": {
+   "citation": "Eur. Tro. line (Greek lineation)",
+   "resolution": "segment",
+   "honesty": "prose translation segmented at Greek line numbers: a citation resolves to the segment that contains it (segments run 1-5 Greek lines), not to an exact line",
+   "note": "Perseus TEI, one unit per <l> segment; speaker, choral section and stage directions under each unit's `drama` (stage directions are kept out of the spoken text, never dropped). 0 line number(s) corrected by TEI_DRAMA_N_FIX; 0 segment(s) contain a lacuna the translator marks as lost (drama.gap). 11 footnote(s) lifted out of the spoken text into drama.notes; the cast list is under dramatis_personae (9)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI and Perseus's modernized wording are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }

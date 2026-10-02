@@ -117,6 +117,25 @@ TEI_DRAMA = {
     "aeschylus-agamemnon-smyth": "Aesch. Ag.",
     "aeschylus-libation-bearers-smyth": "Aesch. Cho.",
     "aeschylus-eumenides-smyth": "Aesch. Eum.",
+    "euripides-cyclops-coleridge": "Eur. Cyc.",
+    "euripides-alcestis-coleridge": "Eur. Alc.",
+    "euripides-medea-coleridge": "Eur. Med.",
+    "euripides-heracleidae-coleridge": "Eur. Heracl.",
+    "euripides-hippolytus-coleridge": "Eur. Hipp.",
+    "euripides-andromache-coleridge": "Eur. Andr.",
+    "euripides-hecuba-coleridge": "Eur. Hec.",
+    "euripides-suppliants-coleridge": "Eur. Supp.",
+    "euripides-heracles-coleridge": "Eur. HF",
+    "euripides-ion-coleridge": "Eur. Ion",
+    "euripides-trojan-women-coleridge": "Eur. Tro.",
+    "euripides-electra-coleridge": "Eur. El.",
+    "euripides-iphigenia-tauris-coleridge": "Eur. IT",
+    "euripides-helen-coleridge": "Eur. Hel.",
+    "euripides-phoenissae-coleridge": "Eur. Phoen.",
+    "euripides-orestes-coleridge": "Eur. Or.",
+    "euripides-bacchae-buckley": "Eur. Ba.",
+    "euripides-iphigenia-aulis-coleridge": "Eur. IA",
+    "euripides-rhesus-coleridge": "Eur. Rh.",
 }
 # Per-book line-number fixes (rule 2: never hand-edit a source; fix here so it
 # reruns on refetch). Each is a typo in the Perseus file, shown by context.
@@ -126,6 +145,9 @@ TEI_DRAMA_N_FIX = {
     ("sophocles-oedipus-colonus-jebb", "1009a"): "1099a",
     # Between 405 and 410, a line number with a stray digit.
     ("aeschylus-supplices-smyth", "4097"): "407",
+    # Between 1187 and 1189, and between 562 and 564: digits dropped / doubled.
+    ("euripides-iphigenia-tauris-coleridge", "188"): "1188",
+    ("euripides-helen-coleridge", "5563"): "563",
 }
 
 
@@ -134,7 +156,7 @@ def convert_tei_drama(path, slug, abbrev):
     root = ET.parse(path).getroot()
     title, author, transl = tei_meta(root)
     body = root.find(f".//{T}body")
-    units, pending_stage, pending_notes, fixes, gaps = [], [], [], 0, 0
+    units, pending_stage, pending_notes, pending_sic, fixes, gaps = [], [], [], [], 0, 0
     section, speaker, personae = "", "", []
 
     def note_of(e):
@@ -148,7 +170,7 @@ def convert_tei_drama(path, slug, abbrev):
         # A lifted note or stage direction leaves a space where it sat when
         # letters touch on both sides: Perseus often has "Pluto's<note>..
         # </note>stream", which read as one word once the note is gone.
-        parts, stage, notes = [], [], []
+        parts, stage, notes, sics = [], [], [], []
 
         def lift(e):
             if parts and e.tail and parts[-1][-1:].isalnum() and e.tail[:1].isalnum():
@@ -157,20 +179,33 @@ def convert_tei_drama(path, slug, abbrev):
 
         def walk(e):
             if e.tag == T + "stage" and e is not el:
-                t, s2, n2 = seg_text(e)          # a stage direction may carry a footnote
-                stage.extend([t] + s2); notes.extend(n2)
+                t, s2, n2, c2 = seg_text(e)      # a stage direction may carry a footnote
+                stage.extend([t] + s2); notes.extend(n2); sics.extend(c2)
                 lift(e)
                 return
             if e.tag == T + "note":
                 notes.append(note_of(e))
                 lift(e)
                 return
+            if e.tag == T + "choice" and e.find(T + "corr") is not None:
+                # <choice><sic>Bacchus</sic><corr>Dionysus</corr></choice>:
+                # the reading text takes the correction (Perseus's
+                # modernizing, or a fixed typo); what the edition printed is
+                # kept under drama.sic, never thrown away.
+                corr, sic = e.find(T + "corr"), e.find(T + "sic")
+                parts.append("".join(corr.itertext()))
+                if sic is not None:
+                    sics.append({"corr": clean("".join(corr.itertext())),
+                                 "sic": clean("".join(sic.itertext()))})
+                if e.tail: parts.append(e.tail)
+                return
             if e.text: parts.append(e.text)
             for c in e:
                 walk(c)
             if e is not el and e.tail: parts.append(e.tail)
         walk(el)
-        return clean("".join(parts)), [s for s in stage if s], [n for n in notes if n.get("text")]
+        return (clean("".join(parts)), [s for s in stage if s],
+                [n for n in notes if n.get("text")], sics)
 
     def visit(e):
         nonlocal section, speaker, fixes, gaps
@@ -181,9 +216,10 @@ def convert_tei_drama(path, slug, abbrev):
             speaker = clean("".join(e.itertext()))
             return
         elif tag == T + "stage":
-            t, s2, n2 = seg_text(e)
+            t, s2, n2, c2 = seg_text(e)
             pending_stage.extend(x for x in [t] + s2 if x)
             pending_notes.extend(n2)
+            pending_sic.extend(c2)
             return
         elif tag == T + "note":
             ps = [clean(" ".join(p.itertext())) for p in e.iter(T + "p")]
@@ -199,7 +235,7 @@ def convert_tei_drama(path, slug, abbrev):
             if (slug, n) in TEI_DRAMA_N_FIX:
                 n = TEI_DRAMA_N_FIX[(slug, n)]
                 fixes += 1
-            text, inner, inotes = seg_text(e)
+            text, inner, inotes, isic = seg_text(e)
             gap = e.find(f".//{T}gap") is not None
             gaps += gap
             drama = {"speaker": speaker, "section": section}
@@ -207,20 +243,24 @@ def convert_tei_drama(path, slug, abbrev):
                 drama["stage"] = pending_stage + inner
             if pending_notes or inotes:
                 drama["notes"] = pending_notes + inotes
+            if pending_sic or isic:
+                drama["sic"] = pending_sic + isic
             if gap:
                 drama["gap"] = True
             pending_stage.clear()
             pending_notes.clear()
+            pending_sic.clear()
             if text:
                 units.append({"id": f"{slug}:{n}", "ref": f"{abbrev} {n}",
                               "text": text, "links": [], "drama": drama})
             elif units:
-                for k in ("stage", "notes"):
+                for k in ("stage", "notes", "sic"):
                     if drama.get(k):
                         units[-1]["drama"].setdefault(k, []).extend(drama[k])
             else:
                 pending_stage.extend(drama.get("stage", []))
                 pending_notes.extend(drama.get("notes", []))
+                pending_sic.extend(drama.get("sic", []))
             return
         elif tag == T + "sp":
             speaker = ""
@@ -229,7 +269,7 @@ def convert_tei_drama(path, slug, abbrev):
 
     visit(body)
     if units:                                   # the closing exit, a last note
-        for k, v in (("stage", pending_stage), ("notes", pending_notes)):
+        for k, v in (("stage", pending_stage), ("notes", pending_notes), ("sic", pending_sic)):
             if v:
                 units[-1]["drama"].setdefault(k, []).extend(v)
     lic = root.find(f".//{T}publicationStmt//{T}licence")
