@@ -30,6 +30,14 @@ And the historic English Bibles' (data/versification/<slug>-kjv.json):
 
     e = load(english_path("geneva"))
     resolve_english("Num.13.1", e, kjv_ids) -> {"resolved": True, "target": "kjv:Num.12.16"}
+
+The deuterocanon has its own key, the KJV's Apocrypha verse (kjva:), one map
+for every witness (data/versification/deuterocanon.json, built by
+build_deuterocanon.py):
+
+    d = load(DC_PATH)
+    resolve_dc("Sir.33.12", "brenton", d) -> {"resolved": True, "target": "kjva:Sir.30.25"}
+    resolve_dc("Gen.1.1", "brenton", d)   -> None   (not a deuterocanonical verse)
 """
 import json
 import os
@@ -38,6 +46,7 @@ PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                     "data", "versification", "bhs-kjv.json")
 VULGATE_PATH = os.path.join(os.path.dirname(PATH), "vulgate-kjv.json")
 BRENTON_PATH = os.path.join(os.path.dirname(PATH), "brenton-kjv.json")
+DC_PATH = os.path.join(os.path.dirname(PATH), "deuterocanon.json")
 
 
 def english_path(slug):
@@ -213,3 +222,44 @@ def resolve_english(osis, m, kjv_ids):
         out["spans"] = ids
     return out
 
+
+
+_DC_RUNS = {}
+
+
+def _in_runs(osis, runs):
+    """Is `osis` in a list of runs ('Sir.1.1-30', 'Esth.1.1a')?"""
+    b, ch, v = osis.split(".")
+    for run in runs:
+        rb, rch, rv = run.split(".")
+        if (rb, rch) != (b, ch):
+            continue
+        lo, _, hi = rv.partition("-")
+        if rv == v or (lo.isdigit() and v.isdigit() and int(lo) <= int(v) <= int(hi or lo)):
+            return True
+    return False
+
+
+def resolve_dc(osis, witness, m):
+    """The shared deuterocanon key(s) of a verse in `witness`'s own numbering
+    ('vulgate', 'douay', 'brenton'): {"resolved": True, "target": "kjva:...",
+    "spans": [...]} or {"resolved": False, "why": ...}; None for a verse the
+    map does not cover (the protocanonical books, keyed to the KJV instead)."""
+    w = m["witnesses"][witness]
+    if not _in_runs(osis, w["verses"]):
+        return None
+    if osis in w["map"]:
+        ks = w["map"][osis]
+        ks = [ks] if isinstance(ks, str) else ks
+    else:
+        for row in w["no_key"]:
+            if _in_runs(osis, row["verses"]):
+                return {"resolved": False, "why": row["why"]}
+        b, ch, v = osis.split(".")
+        ks = [f"kjva:{'Bar' if b == 'EpJer' else b}.{'6' if b == 'EpJer' else ch}.{v}"]
+    out = {"resolved": True, "target": ks[0]}
+    if len(ks) > 1:
+        out["spans"] = ks
+    if _in_runs(osis, w.get("weak", [])):
+        out["weak"] = True
+    return out

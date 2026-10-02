@@ -30,12 +30,13 @@ provenance) is the committed record of the collection.
 
 ## Tests
 
-    python3 tests/structure_test.py         # 91 offline checks, no corpus needed
+    python3 tests/structure_test.py         # 95 offline checks, no corpus needed
     python3 tests/versification_test.py     # the Hebrew->KJV verse map (BDB's citations)
     python3 tests/vulgate_versification_test.py  # the Clementine Vulgate->KJV verse map
     python3 tests/brenton_versification_test.py  # Brenton's Septuagint->KJV verse map
     python3 tests/english_versification_test.py  # Geneva, Tyndale, Young's, Darby, ASV->KJV maps
     python3 tests/parallel_index_test.py    # the parallel-Bible index (data/parallel/)
+    python3 tests/deuterocanon_test.py      # the deuterocanon's shared key (KJV Apocrypha)
     python3 tests/hymn_corpus_test.py       # the hymn JSONL validator (D1-D2)
     python3 tests/lemma_spine_test.py       # the Latin lemma spine (D3)
     python3 tests/nt_corpus_test.py         # the Greek NT JSONL validator (D2-D5 pilot)

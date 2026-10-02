@@ -1664,8 +1664,11 @@
    "versification": "vulgate",
    "kjv_resolved": 31085,
    "kjv_unresolved": 4724,
+   "kjva_keyed": 4343,
+   "kjva_unkeyed": 314,
+   "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source.",
-   "kjv_map_sha256": "5d02cf94d21981baffe891d75f39263b960eea7bef0621d039fb8ccf70b755d4"
+   "kjv_map_sha256": "265a718f58c4ac01d090ee401842b1bec3031bfc17b965729a86b9a8bfaec718"
   },
   "rights": {
    "license": "public-domain",
@@ -1695,8 +1698,11 @@
    "empty_verses_dropped": 12,
    "kjv_resolved": 31083,
    "kjv_unresolved": 4722,
+   "kjva_keyed": 4343,
+   "kjva_unkeyed": 312,
+   "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them.",
-   "kjv_map_sha256": "5d02cf94d21981baffe891d75f39263b960eea7bef0621d039fb8ccf70b755d4"
+   "kjv_map_sha256": "265a718f58c4ac01d090ee401842b1bec3031bfc17b965729a86b9a8bfaec718"
   },
   "rights": {
    "license": "public-domain",
@@ -1725,11 +1731,14 @@
    "versification": "lxx-brenton",
    "kjv_resolved": 22901,
    "kjv_unresolved": 5716,
+   "kjva_keyed": 4798,
+   "kjva_unkeyed": 725,
+   "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "empty_verses_not_units": [
     "Prov.30.1"
    ],
    "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read.",
-   "kjv_map_sha256": "04034aaf6098d66d60c40a2a566d05f90ebca76392e6b2ccbe3a2c44edca231f"
+   "kjv_map_sha256": "fc40b9b30c588e68af39b3889260243827bc9f7f372e6dd7524f6596b760665e"
   },
   "rights": {
    "license": "public-domain",
@@ -1882,6 +1891,43 @@
    "attribution": "The American Standard Version (1901), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
    "source_url": "https://github.com/scrollmapper/bible_databases",
    "rights_line": "# ASV: American Standard Version (1901) / **License:** Public Domain"
+  }
+ },
+ "kjva": {
+  "title": "The Apocrypha of the King James Version (Cambridge Paragraph Bible)",
+  "author": "the King James translators (1611); F. H. A. Scrivener (ed., 1873)",
+  "format": "usfm-zip",
+  "sha256": "7940a2d164513b2bd2dbec2c8570b89ef8673621ed4f30f3099218a7ddd04936",
+  "units": 5722,
+  "scheme": {
+   "citation": "Book chapter:verse in the KJV's own numbering (OSIS book ids); Sirach's two prologues are chapter 0",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "kjv-apocrypha",
+   "books": [
+    "Tob",
+    "Jdt",
+    "AddEsth",
+    "Wis",
+    "Sir",
+    "Bar",
+    "PrAzar",
+    "Sus",
+    "Bel",
+    "1Macc",
+    "2Macc",
+    "1Esd",
+    "PrMan",
+    "2Esd"
+   ],
+   "note": "The KJV's Apocrypha only (the Old and New Testaments of this file are not read: the shelf's KJV is the Gutenberg text). These verse numbers are the shared key of data/versification/deuterocanon.json. The Rest of Esther is renumbered 10:4-16:24 from the file's Greek-order segments (structure_texts.KJVA_ESTHER); every other number is the file's."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "KJV Cambridge Paragraph Bible, eBible.org (engkjvcpb)",
+   "source_url": "https://ebible.org/engkjvcpb/",
+   "rights_line": "Public Domain",
+   "note": "eBible: letters patent restrict printing the KJV in the United Kingdom; elsewhere it is in the public domain"
   }
  }
 }

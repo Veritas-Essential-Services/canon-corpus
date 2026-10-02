@@ -42,3 +42,21 @@ Search results that led here:
 - [English (1568) Bishops Bible - NT (text)](https://archive.org/details/ENGBSB_DBS_HS)
 - [1568 Bishop's Bible](https://archive.org/details/1568-bishops-bible)
 - [Bible Bishop's 1568](https://archive.org/details/BibleBishops1568.ropt)
+
+## R. H. Charles, *The Apocrypha and Pseudepigrapha of the Old Testament* (1913)
+
+Another thread is fetching this. It is the slot the deuterocanon index left
+open (`pipeline/build_deuterocanon.py`). To plug it in:
+
+1. Pin it in `fetch_sources.py` with the rights line as read. Charles is 1913,
+   so check the exact scan or transcription, not only the date.
+2. Convert it to `data/books/charles.json` in Charles's own numbering. Where
+   he prints more than one recension of a book, give each its own ids.
+3. Uncomment the `charles` row in `WITNESSES`, with a `passages` function
+   that groups his verses by the KJV Apocrypha book they belong to, and add
+   `charles` to `TSV_COLUMNS`.
+4. Run `build_deuterocanon.py --audit` and read Charles's weak pairings.
+   Add `HOUSE_ROWS` for what the alignment misses.
+5. Charles prints 3 and 4 Maccabees, which the KJV's Apocrypha does not. They
+   stay without a key (`NO_KEY_BOOKS`) until a ruling picks one, probably
+   Charles's own numbering.

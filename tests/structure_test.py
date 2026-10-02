@@ -580,5 +580,42 @@ check("english: each unit's `kjv` comes from the committed map (Darby Phil 1:16 
 check("english: rights say public domain and carry the source's own rights line",
       _eb["rights"]["license"] == "public-domain" and "Public Domain" in _eb["rights"]["rights_line"])
 
+# The KJV's Apocrypha (eBible USFM): Sirach's prologues; the Rest of Esther
+# renumbered from the file's Greek-order segments. Invented text, the file's shape.
+import zipfile as _zf
+_kz = os.path.join(_tf.mkdtemp(), "kjva.zip")
+with _zf.ZipFile(_kz, "w") as _z:
+    _z.writestr("46-SIRengkjvcpb.usfm", "\\id SIR x\n\\h Ecclesiasticus\n\\is1 A Prologue.\n"
+                "\\im \\sc This\\sc* Jesus was the son of Sirach.\n\\is1 The Prologue.\n"
+                "\\im Whereas many things.\n\\c 1\n\\q1\n\\v 1 All wisdom cometh from the Lord.\n")
+    _z.writestr("43-ESGengkjvcpb.usfm", "\\id ESG x\n\\h The Rest of Esther\n\\c 1\n"
+                "\\iex [PLACED IN THE GREEK BEFORE CH. I.]\n\\cp 11\n\\p\n\\v 2 In the second year.\n"
+                "\\v 3 A Jew.\n\\cp 12\n\\v 12a \\vp 1\\vp* And Mardocheus took his rest.\n"
+                "\\c 10\n\\v 4 Then Mardocheus said.\n")
+    _z.writestr("02-GENengkjvcpb.usfm", "\\id GEN x\n\\h Genesis\n\\c 1\n\\v 1 In the beginning.\n")
+_keep = st.KJVA_ESTHER
+st.KJVA_ESTHER = [(11, 2, 3), (12, 1, 1), (10, 4, 4)]
+_ka = st.convert_kjva(_kz, "pin")
+st.KJVA_ESTHER = _keep
+_ku = {u["id"]: u for u in _ka["units"]}
+check("kjva: the Apocrypha only, ids in the KJV's numbering; Sirach's prologues are 0.1, 0.2",
+      list(_ku) == ["kjva:AddEsth.10.4", "kjva:AddEsth.11.2", "kjva:AddEsth.11.3",
+                    "kjva:AddEsth.12.1", "kjva:Sir.0.1", "kjva:Sir.0.2", "kjva:Sir.1.1"]
+      and _ku["kjva:Sir.0.1"]["text"] == "This Jesus was the son of Sirach.")
+check("kjva: Esther's segments counted on from the KJV's starts; the printed \\vp agrees, "
+      "and placement notes are not text",
+      _ku["kjva:AddEsth.12.1"]["text"] == "And Mardocheus took his rest."
+      and _ku["kjva:AddEsth.11.2"]["text"] == "In the second year.")
+st.KJVA_ESTHER = [(11, 2, 3), (12, 1, 2), (10, 4, 4)]
+try:
+    st.convert_kjva(_kz, "pin")
+    _ok = False
+except ValueError:
+    _ok = True
+st.KJVA_ESTHER = _keep
+check("kjva: a segment that stops short of the KJV's passage is refused", _ok)
+check("kjva: rights public domain, with eBible's rights line",
+      _ka["rights"]["license"] == "public-domain" and _ka["rights"]["rights_line"] == "Public Domain")
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
