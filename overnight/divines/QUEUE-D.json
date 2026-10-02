@@ -40,6 +40,41 @@
       "started": "2026-10-02T15:30:43-05:00",
       "finished": "2026-10-02T15:30:43-05:00",
       "notes": "Lucas letters: LETTER n headings (259 + 354 letters, dup ids 1748/1932 -> 0). 30 books on lenient own-Contents headings (Blue/Red/Green Fairy = 37/37/42 tales). Lang 102,483 units, Lamb 22,015. Unfixed, recorded: Helen of Troy, Elia vol., Lucas vol. I, some poetry books."
+    },
+    {
+      "id": "macdonald",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — George MacDonald (1824-1905): fantasies, fairy tales, novels, sermons, poetry; shelf + fetch + convert + map section; no minting"
+    },
+    {
+      "id": "grimm",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Brothers Grimm in Margaret Hunt's translation (1884, with Lang's introduction); other PD English Grimm only as pending/excluded; shelf + fetch + convert + map section; no minting"
+    },
+    {
+      "id": "andersen",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Hans Christian Andersen in public-domain English translation(s); translator recorded per title; shelf + fetch + convert + map section; no minting"
+    },
+    {
+      "id": "kingsley",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Charles Kingsley: The Heroes, The Water-Babies, and his other PD works; shelf + fetch + convert + map section; no minting"
+    },
+    {
+      "id": "hawthorne-wonder",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Nathaniel Hawthorne's children's myths: A Wonder-Book, Tanglewood Tales (and Grandfather's Chair if fitting); not his whole oeuvre; shelf + fetch + convert + map section; no minting"
+    },
+    {
+      "id": "bulfinch",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Thomas Bulfinch: Age of Fable, Age of Chivalry, Legends of Charlemagne (Bulfinch's Mythology); shelf + fetch + convert + map section; no minting"
+    },
+    {
+      "id": "pyle",
+      "status": "todo",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — Howard Pyle: Robin Hood, the four King Arthur books, Pepper & Salt, Wonder Clock, Otto of the Silver Hand, etc.; shelf + fetch + convert + map section; no minting"
     }
   ]
 }
