@@ -1,0 +1,19 @@
+{
+ "_about": "The Greek novels in the Bohn volume of Rowland Smith (Heliodorus, Longus, Achilles Tatius), clean Gutenberg.",
+ "_name_words": [
+  "heliodorus",
+  "longus",
+  "achilles",
+  "tatius",
+  "romances"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "greek-romances-smith": [
+   55406,
+   "The Greek Romances of Heliodorus, Longus and Achilles Tatius",
+   "tr. Rowland Smith"
+  ]
+ },
+ "internet_archive": {}
+}

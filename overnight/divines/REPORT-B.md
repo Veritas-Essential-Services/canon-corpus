@@ -107,3 +107,14 @@
 - pythagoreans: Taylor's Ocellus 1831 (PG 75391). sextus-empiricus: Patrick 1899 (PG 17556). julian: Wright vols 1-2 (PG 48664, 48768). boethius: James 1897 (PG 14328).
 - Longinus: Havell is on lane D's lang shelf (PG 17957); Roberts 1907 IA scan has facing Greek and clean-word 0.64; pending.
 - All PG headers read: none COPYRIGHTED.
+
+## 2026-10-02 16:22 CDT — greek-geographers-historians (done)
+- pausanias: Shilleto (PG 68946, 68680); Taylor 1824 2nd ed. vols 1-2 (IA; title page names no translator, Taylor is the catalogue's attribution); Verrall's Attica 1890 (IA). Frazer vol 1: only an empty DLI scan found.
+- strabo: Hamilton (Books I-VI, per the preface) and Falconer, 3 vols (PG 44884-44886).
+- appian: Horace White 1899, Foreign Wars and Civil Wars (IA, identified by the title pages).
+- diodorus: Booth, 1814 ed., 2 vols (IA).
+- dio-cassius: Foster's Dio's Rome, 6 vols (PG). athenaeus: Yonge, 3 vols (PG).
+- procopius (overflow): Dewing Wars I-VI, Secret History (translator unnamed), Stewart's Buildings (PG).
+- greek-romances (overflow): Rowland Smith's Heliodorus/Longus/Achilles Tatius (PG 55406).
+- Josephus (Whiston, PG 2846-2850) is on no shelf in any lane; left for the coordinator to assign rather than taking it into lane B.
+- All PG headers read: none COPYRIGHTED.

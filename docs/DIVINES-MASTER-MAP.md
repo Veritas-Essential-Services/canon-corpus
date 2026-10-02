@@ -1301,6 +1301,97 @@ Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
 
 Excluded: Chaucer's Middle English Boece
 
+## Pausanias
+
+Shelf: `pipeline/pausanias_shelf.json`. Shilleto (Gutenberg); Taylor 1824 vols. 1-2 (IA, 0.93; attribution is the catalogue's); Verrall's Attica 1890 (IA, 0.88).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pausanias' Description of Greece, vol. 1 | A. R. Shilleto | `pausanias-shilleto-v1` | have (PG 68946) |
+| Pausanias' Description of Greece, vol. 2 | A. R. Shilleto | `pausanias-shilleto-v2` | have (PG 68680) |
+| The Description of Greece by Pausanias, vol. 1 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v1` | have-raw (IA `descriptiongree07pausgoog`) |
+| The Description of Greece by Pausanias, vol. 2 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v2` | have-raw (IA `descriptiongree06pausgoog`) |
+| Mythology and Monuments of Ancient Athens: being a translation of a portion of the Attica of Pausanias (1890) | Margaret de G. Verrall; commentary Jane E. Harrison | `pausanias-attica-verrall` | have-raw (IA `mythologymonume00pausgoog`) |
+
+Pending (wishlist): Taylor 1824 vol. 3; Frazer 1898 vol. 1 (no usable scan); Jones Loeb (Greek facing)
+
+## Strabo
+
+Shelf: `pipeline/strabo_shelf.json`. Hamilton (Books I-VI) and Falconer (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Geography of Strabo, vol. 1 | H. C. Hamilton and W. Falconer | `strabo-hamilton-falconer-v1` | have (PG 44884) |
+| The Geography of Strabo, vol. 2 | H. C. Hamilton and W. Falconer | `strabo-hamilton-falconer-v2` | have (PG 44885) |
+| The Geography of Strabo, vol. 3 | H. C. Hamilton and W. Falconer | `strabo-hamilton-falconer-v3` | have (PG 44886) |
+
+## Appian
+
+Shelf: `pipeline/appian_shelf.json`. Horace White 1899 (IA, 0.90-0.92).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman History of Appian of Alexandria, vol. 1: The Foreign Wars (1899) | Horace White | `appian-white-v1` | have-raw (IA `romanhistoryapp03whitgoog`) |
+| The Roman History of Appian of Alexandria, vol. 2: The Civil Wars (1899) | Horace White | `appian-white-v2` | have-raw (IA `romanhistoryapp02whitgoog`) |
+
+## Diodorus Siculus
+
+Shelf: `pipeline/diodorus_shelf.json`. Booth (1814 edition, IA, 0.92-0.93).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Historical Library of Diodorus the Sicilian, vol. 1 (1814) | George Booth | `diodorus-booth-v1` | have-raw (IA `historicallibra01bootgoog`) |
+| The Historical Library of Diodorus the Sicilian, vol. 2 (1814) | George Booth | `diodorus-booth-v2` | have-raw (IA `historicallibra00bootgoog`) |
+
+Pending (wishlist): Oldfather Loeb is not PD
+
+## Cassius Dio
+
+Shelf: `pipeline/dio-cassius_shelf.json`. Foster's Dio's Rome 1905-06 (Gutenberg, 6 vols.).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Dio's Rome, vol. 1 | Herbert Baldwin Foster | `dio-foster-v1` | have (PG 18047) |
+| Dio's Rome, vol. 2 | Herbert Baldwin Foster | `dio-foster-v2` | have (PG 11607) |
+| Dio's Rome, vol. 3 | Herbert Baldwin Foster | `dio-foster-v3` | have (PG 10162) |
+| Dio's Rome, vol. 4 | Herbert Baldwin Foster | `dio-foster-v4` | have (PG 10883) |
+| Dio's Rome, vol. 5 | Herbert Baldwin Foster | `dio-foster-v5` | have (PG 10890) |
+| Dio's Rome, vol. 6 | Herbert Baldwin Foster | `dio-foster-v6` | have (PG 12061) |
+
+Pending (wishlist): Cary Loeb (Greek facing)
+
+## Athenaeus
+
+Shelf: `pipeline/athenaeus_shelf.json`. Yonge (Gutenberg, 3 vols.).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 1 | Charles Duke Yonge | `athenaeus-yonge-v1` | have (PG 36921) |
+| The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 2 | Charles Duke Yonge | `athenaeus-yonge-v2` | have (PG 65023) |
+| The Deipnosophists, or Banquet of the Learned of Athenaeus, vol. 3 | Charles Duke Yonge | `athenaeus-yonge-v3` | have (PG 66508) |
+
+## Procopius
+
+Shelf: `pipeline/procopius_shelf.json`. Dewing Wars I-VI, the Secret History, Stewart's Buildings (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of the Wars, Books I and II: The Persian War | H. B. Dewing | `procopius-dewing-persian` | have (PG 16764) |
+| History of the Wars, Books III and IV: The Vandalic War | H. B. Dewing | `procopius-dewing-vandalic` | have (PG 16765) |
+| History of the Wars, Books V and VI: The Gothic War | H. B. Dewing | `procopius-dewing-gothic` | have (PG 20298) |
+| The Secret History of the Court of Justinian | translator not named in the file | `procopius-secret-history` | have (PG 12916) |
+| Of the Buildings of Justinian | Aubrey Stewart | `procopius-stewart-buildings` | have (PG 65404) |
+
+Pending (wishlist): Dewing Wars VII-VIII
+
+## Greek romances
+
+Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus, Achilles Tatius (Gutenberg).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Romances of Heliodorus, Longus and Achilles Tatius | Rowland Smith | `greek-romances-smith` | have (PG 55406) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

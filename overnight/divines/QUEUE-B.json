@@ -145,8 +145,11 @@
     },
     {
       "id": "greek-geographers-historians",
-      "status": "todo",
-      "scope": "CLASSICAL (census gap) \u2014 Pausanias (Frazer, Taylor), Strabo (Hamilton and Falconer), Appian (White), Diodorus Siculus (Booth), Dio Cassius (Cary where cleared), Athenaeus (Yonge); shelf per author + fetch + map"
+      "status": "done",
+      "scope": "CLASSICAL (census gap) \u2014 Pausanias (Frazer, Taylor), Strabo (Hamilton and Falconer), Appian (White), Diodorus Siculus (Booth), Dio Cassius (Cary where cleared), Athenaeus (Yonge); shelf per author + fetch + map",
+      "started": "2026-10-02T16:18:25-05:00",
+      "finished": "2026-10-02T16:22:35-05:00",
+      "notes": "pausanias, strabo, appian, diodorus, dio-cassius, athenaeus, procopius, greek-romances"
     },
     {
       "id": "greek-science",
