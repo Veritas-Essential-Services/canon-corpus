@@ -3625,6 +3625,24 @@ Shelf: `pipeline/burnett_shelf.json` (2026-10-02; added at the coordinator's rel
 | burnett-adult | excluded | her adult novels and stories (That Lass o' Lowrie's, A Lady of Quality, T. Tembarom, The Shuttle and others): not children's classics; candidates for a later batch |
 | burnett-german-school-edition | excluded | Little Lord Fauntleroy abridged for German schools (PG 49579): an abridgement with German apparatus |
 
+## Louisa May Alcott
+
+Shelf: `pipeline/alcott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The March family books and her other books for young readers, cut by their own chapter lines. Her thrillers, sketches and story collections are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Women (1868-69) | have | PG 514, `alcott-little-women` (3820 units) |
+| Little Men (1871) | have | PG 2788, `alcott-little-men` (2423 units) |
+| Jo's Boys (1886) | have | PG 3499, `alcott-jos-boys` (1628 units) |
+| Eight Cousins (1875) | have | PG 2726, `alcott-eight-cousins` (1810 units) |
+| Rose in Bloom (1876) | have | PG 2804, `alcott-rose-in-bloom` (1890 units) |
+| An Old-Fashioned Girl (1870) | have | PG 2787, `alcott-old-fashioned-girl` (2236 units) |
+| Under the Lilacs (1878) | have | PG 3795, `alcott-under-the-lilacs` (1774 units) |
+| Jack and Jill (1880) | have | PG 2786, `alcott-jack-and-jill` (1739 units) |
+| Flower Fables (1855) | have | PG 163, `alcott-flower-fables` (577 units) |
+| alcott-duplicates | excluded | second transcriptions: Little Women (PG 37106), Little Men (PG 52900), Eight Cousins (PG 38567), Rose in Bloom (PG 41127) |
+| alcott-other | excluded | the Aunt Jo's Scrap-Bag and Lulu's Library volumes, story collections, the thrillers (Behind a Mask and others), Hospital Sketches, Work, Moods: candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

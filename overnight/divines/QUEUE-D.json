@@ -407,7 +407,9 @@
     {
       "id": "alcott",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Louisa May Alcott's books for young readers; children's classics batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T17:29:31-05:00",
+      "notes": "9/9 fetched (Gutenberg 514, 2788, 3499, 2726, 2804, 2787, 3795, 2786, 163), 17,897 units, 0 ~2 ids."
     },
     {
       "id": "spyri",

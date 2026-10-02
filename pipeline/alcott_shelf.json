@@ -1,0 +1,76 @@
+{
+ "_about": "Louisa May Alcott's (1832-1888) books for young readers: the March family books (Little Women, Little Men, Jo's Boys), Eight Cousins and Rose in Bloom, An Old-Fashioned Girl, Under the Lilacs, Jack and Jill, and her first book, Flower Fables (1855). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Louisa May Alcott",
+ "_name_words": [
+  "little",
+  "women",
+  "jo",
+  "march",
+  "plumfield"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "alcott-little-women": [
+   514,
+   "Little Women (1868-69)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alcott-little-men": [
+   2788,
+   "Little Men (1871)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alcott-jos-boys": [
+   3499,
+   "Jo's Boys (1886)",
+   {
+    "chapre_only": "Chapter \\d+\\. [A-Z].*"
+   }
+  ],
+  "alcott-eight-cousins": [
+   2726,
+   "Eight Cousins (1875)",
+   {
+    "chapre_only": "Chapter \\d+--.*"
+   }
+  ],
+  "alcott-rose-in-bloom": [
+   2804,
+   "Rose in Bloom (1876)",
+   {
+    "chapre_only": "Chapter \\d+ [A-Z].*"
+   }
+  ],
+  "alcott-old-fashioned-girl": [
+   2787,
+   "An Old-Fashioned Girl (1870)"
+  ],
+  "alcott-under-the-lilacs": [
+   3795,
+   "Under the Lilacs (1878)"
+  ],
+  "alcott-jack-and-jill": [
+   2786,
+   "Jack and Jill (1880)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alcott-flower-fables": [
+   163,
+   "Flower Fables (1855)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "alcott-duplicates": "second transcriptions: Little Women (PG 37106), Little Men (PG 52900), Eight Cousins (PG 38567), Rose in Bloom (PG 41127)",
+  "alcott-other": "the Aunt Jo's Scrap-Bag and Lulu's Library volumes, story collections, the thrillers (Behind a Mask and others), Hospital Sketches, Work, Moods: candidates for a later batch"
+ }
+}
