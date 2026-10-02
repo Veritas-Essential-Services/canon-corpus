@@ -275,6 +275,14 @@ check("prose: an editor's literal <angle brackets> are words, not a tag to strip
 check("prose: footnote lifted out; a heading between divisions rides on the next unit",
       pu[1]["apparatus"]["notes"] == [{"by": "ed", "text": "Not the modern one."}]
       and pu[0]["apparatus"]["head"] == ["Book One"] and "Not the modern" not in pu[1]["text"])
+_SPAN = PROSE_FIX.replace('n="pr"', 'n="1"').replace('subtype="section" n="1"><p>The', 'subtype="section" n="9"><p>The')
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(_SPAN); _sp_path = f.name
+_sb = st.convert_tei_prose(_sp_path, "span-fixture", "Joseph. AJ")
+check("prose: divisions numbered by their first section (1, 9) are SPANS, and honesty says so",
+      _sb["scheme"]["resolution"] == "section (span)" and "contains it" in _sb["scheme"]["honesty"]
+      and pb["scheme"]["resolution"] == "section")
+os.unlink(_sp_path)
 check("prose: every prose slug in the fetch manifest has an abbreviation, and back",
       set(st.TEI_PROSE) <= set(load("fetch_sources").PERSEUS))
 os.unlink(pr_path)

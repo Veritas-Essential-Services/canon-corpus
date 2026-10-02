@@ -283,6 +283,12 @@ TEI_PROSE = {
     "plutarch-artaxerxes-perrin": "Plut. Artaxerxes",
     "plutarch-galba-perrin": "Plut. Galba",
     "plutarch-otho-perrin": "Plut. Otho",
+    "polybius-histories-shuckburgh": "Polyb.",
+    "josephus-antiquities-whiston": "Joseph. AJ",
+    "josephus-life-whiston": "Joseph. Vit.",
+    "josephus-against-apion-whiston": "Joseph. Ap.",
+    "josephus-jewish-war-whiston": "Joseph. BJ",
+    "strabo-geography-hamilton": "Strab.",
 }
 RE_TGN = re.compile(r"tgn,(\d+)")
 
@@ -348,13 +354,30 @@ def convert_tei_prose(path, slug, abbrev):
     if pending_head and units:
         units[-1].setdefault("apparatus", {}).setdefault("head", []).extend(pending_head)
     places = sum(len(u["links"]) for u in units)
+    # Is each unit ONE numbered division, or a run of them? Josephus in
+    # Perseus is divided at Whiston's paragraphs, numbered by their first
+    # Niese section (AJ 1.1, 1.5, 1.27...): a citation of AJ 1.3 lives in
+    # unit 1.1. Measured, not assumed: count numbering jumps between
+    # siblings.
+    jumps = steps = 0
+    for a, b in zip(units, units[1:]):
+        pa, pb_ = a["id"].split(":", 1)[1].split("."), b["id"].split(":", 1)[1].split(".")
+        if pa[:-1] == pb_[:-1] and pa[-1].isdigit() and pb_[-1].isdigit():
+            steps += 1
+            jumps += int(pb_[-1]) - int(pa[-1]) > 1
+    spans = steps and jumps / steps > 0.1
+    honesty = ("each unit is the run of numbered sections from its id to the next "
+               f"unit's ({jumps:,} of {steps:,} steps skip numbers): a citation "
+               "resolves to the unit that contains it" if spans else
+               "exact to the source's innermost division (the standard section "
+               "numbering, born-in from Perseus)")
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
                        "translator": transl, "sha256": sha256(path)},
             "scheme": {"citation": f"{abbrev} {'.'.join(levels)}",
-                       "resolution": levels[-1] if levels else "section",
-                       "honesty": "exact to the source's innermost division (the "
-                                  "standard section numbering, born-in from Perseus)",
+                       "resolution": (levels[-1] if levels else "section")
+                                     + (" (span)" if spans else ""),
+                       "honesty": honesty,
                        "note": f"Perseus TEI, one unit per innermost textpart div. "
                                f"{nnotes} translator's/editor's footnote(s) lifted out of "
                                f"the reading text into apparatus.notes; text between "

@@ -3771,5 +3771,125 @@
    "redistribute_whole": true,
    "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
   }
+ },
+ "josephus-against-apion-whiston": {
+  "title": "Against Apion",
+  "author": "Flavius Josephus",
+  "format": "tei",
+  "sha256": "a12149bb02da48c6a9efb697debe757438adb9f88044bb7f4ad7dff40c34645c",
+  "units": 77,
+  "scheme": {
+   "citation": "Joseph. Ap. book.section",
+   "resolution": "section (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (72 of 75 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 55 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 161 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "josephus-antiquities-whiston": {
+  "title": "Antiquities of the Jews",
+  "author": "Flavius Josephus",
+  "format": "tei",
+  "sha256": "de21842b55845aeeb1f60ae46b18217fd59ed3531b55b941dc066cd7e09c00a5",
+  "units": 1444,
+  "scheme": {
+   "citation": "Joseph. AJ book.section",
+   "resolution": "section (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (1,363 of 1,424 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 558 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 275 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "josephus-jewish-war-whiston": {
+  "title": "The Wars of the Jews",
+  "author": "Flavius Josephus",
+  "format": "tei",
+  "sha256": "bb948d1a1dff1cb4459fbaa5aeb99ef17d957ff111104fb862c0b6498a0fe780",
+  "units": 707,
+  "scheme": {
+   "citation": "Joseph. BJ book.section",
+   "resolution": "section (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (683 of 700 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 195 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 123 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "josephus-life-whiston": {
+  "title": "The Life of Flavius Josephus",
+  "author": "Flavius Josephus",
+  "format": "tei",
+  "sha256": "8e7ef9b8ba39403ada9559b367e545d5fecffba9ce2b106f8e6a8915f96b38a6",
+  "units": 76,
+  "scheme": {
+   "citation": "Joseph. Vit. section",
+   "resolution": "section (span)",
+   "honesty": "each unit is the run of numbered sections from its id to the next unit's (74 of 75 steps skip numbers): a citation resolves to the unit that contains it",
+   "note": "Perseus TEI, one unit per innermost textpart div. 27 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 176 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "polybius-histories-shuckburgh": {
+  "title": "The Histories",
+  "author": "Polybius",
+  "format": "tei",
+  "sha256": "f8a488c961a0dc8c04d3ed8a1d080b3d1374a4cffd2f1fc2aa3733bdc2196393",
+  "units": 1390,
+  "scheme": {
+   "citation": "Polyb. book.chapter",
+   "resolution": "chapter",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 2533 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 1481 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
+ },
+ "strabo-geography-hamilton": {
+  "title": "Geography",
+  "author": "Strabo",
+  "format": "tei",
+  "sha256": "2cbb3f2fc0337d82649258b8d3ea00169970e4ea8d7b89b4b84363f8bfd282dd",
+  "units": 1610,
+  "scheme": {
+   "citation": "Strab. book.chapter.section",
+   "resolution": "section",
+   "honesty": "exact to the source's innermost division (the standard section numbering, born-in from Perseus)",
+   "note": "Perseus TEI, one unit per innermost textpart div. 5500 translator's/editor's footnote(s) lifted out of the reading text into apparatus.notes; text between divisions (headings, arguments) kept as apparatus.head; 11 place reference(s) linked by Getty TGN id (Perseus's gazetteer glosses dropped from the text, the id kept)."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit",
+   "redistribute_whole": true,
+   "note": "licence line read from this file: Available under a Creative Commons Attribution-ShareAlike 4.0 International License. The translation itself is public domain; the TEI, and any modernizing of the wording Perseus did (the title says when), are share-alike: a derivative must credit Perseus and carry the same licence."
+  }
  }
 }
