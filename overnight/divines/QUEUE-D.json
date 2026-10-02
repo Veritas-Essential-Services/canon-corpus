@@ -24,6 +24,14 @@
       "started": "2026-10-02T15:25:53-05:00",
       "finished": "2026-10-02T15:25:53-05:00",
       "notes": "Searched whole tree + every origin branch: no fables shelf/section/ingest exists in canon-corpus. Only hits: KJV verses, fable_review provenance fields, the Chesterton-Aesop exclusion note in fetch_sources.py. Map carries 'pending: locate earlier fables work' (maybe in armarium/wordhoard/vault). Nothing re-ingested, no uids."
+    },
+    {
+      "id": "overflow-verify-measure",
+      "status": "done",
+      "scope": "Overflow (RULES §5): measure OCR quality of the raw volumes, check heading detection of converted books and fix what a shelf-side rule can, re-search pending titles",
+      "started": "2026-10-02T15:27:31-05:00",
+      "finished": "2026-10-02T15:27:31-05:00",
+      "notes": "OCR known-word share for all 30 raw volumes (94.4-99.1%); per-book chapter rule for 4 Lang novels (headings 3-4 -> 13-18); 3 books still mostly one heading, recorded; Tales of a Fairy Court not on IA; added Beauty and the Beast (attrib. Lamb, intro Lang) to the Lamb shelf."
     }
   ]
 }

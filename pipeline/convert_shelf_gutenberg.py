@@ -9,7 +9,10 @@ The companion of convert_shelf.py (which does a shelf's CCEL ThML). Reads
 data/corpus/<shelf>/<slug>.txt; writes data/books/<slug>.json (gitignored)
 atomically (temp + rename), skips books already built (rule 5), and makes unit
 ids unique the way structure_texts.main() does (`~2` suffix). Headings come from
-each book's own Contents; paragraphs run within a heading. Verse books go
+each book's own Contents; paragraphs run within a heading. A shelf row may add a
+third element {"chapre": "<regex>"} for a book whose chapter lines the Contents
+rule misses ("CHAPTER I.--A Tale of Two Clubs."); it is unioned with, never
+replaces, the Contents rule. Verse books go
 through the same prose path, so a "paragraph" there is a stanza; the scheme's
 honesty field already says headings are detected, not known.
 
@@ -41,7 +44,11 @@ def main():
         if os.path.exists(dest):
             book = json.load(open(dest, encoding="utf-8"))
         else:
-            book = convert_gutenberg_prose(path, slug, row[1], author, contents_chapre(path))
+            chapre = contents_chapre(path)
+            opts = row[2] if len(row) > 2 and isinstance(row[2], dict) else {}
+            if opts.get("chapre"):     # per-book heading rule, unioned with the Contents one
+                chapre = f"(?:{opts['chapre']})|{chapre}"
+            book = convert_gutenberg_prose(path, slug, row[1], author, chapre)
             seen = {}
             for u in book["units"]:
                 if u["id"] in seen:

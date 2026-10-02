@@ -2,7 +2,7 @@
 
 ## Andrew Lang
 
-Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, converted to `data/books/` by `pipeline/convert_shelf_gutenberg.py`: 102,165 paragraph units under headings read from each book's own Contents) and 29 Internet Archive volumes (raw OCR, unconverted). CCEL holds no Lang. Not yet registered in the manifest; no uids minted (attended step). Co-authors and co-translators are credited in each title; "Mrs. Lang" is Leonora Blanche Lang, who wrote much of the later story books. His Homer translations stay here with their own slugs (`lang-odyssey`, `lang-iliad`, `lang-homeric-hymns`) for a future Homer section to cross-reference.
+Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, converted to `data/books/` by `pipeline/convert_shelf_gutenberg.py`: 102,100 paragraph units under headings read from each book's own Contents) and 29 Internet Archive volumes (raw OCR, unconverted). CCEL holds no Lang. Not yet registered in the manifest; no uids minted (attended step). Co-authors and co-translators are credited in each title; "Mrs. Lang" is Leonora Blanche Lang, who wrote much of the later story books. His Homer translations stay here with their own slugs (`lang-odyssey`, `lang-iliad`, `lang-homeric-hymns`) for a future Homer section to cross-reference.
 
 | Work | Status | Where |
 |---|---|---|
@@ -31,13 +31,13 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The Book of Princes and Princesses (1908), by Mrs. Lang, ed. Andrew Lang | have | PG 46145, `lang-book-of-princes-and-princesses` (924 units) |
 | The Strange Story Book (1913), by Mrs. Lang, ed. Andrew Lang | have | PG 37396, `lang-strange-story-book` (1607 units) |
 | Prince Prigio (1889) | have | PG 20850, `lang-prince-prigio` (428 units) |
-| Prince Ricardo of Pantouflia (1893) | have | PG 21994, `lang-prince-ricardo` (679 units) |
-| The Gold of Fairnilee (1888) | have | PG 21934, `lang-gold-of-fairnilee` (337 units) |
+| Prince Ricardo of Pantouflia (1893) | have | PG 21994, `lang-prince-ricardo` (669 units) |
+| The Gold of Fairnilee (1888) | have | PG 21934, `lang-gold-of-fairnilee` (324 units) |
 | The Princess Nobody: A Tale of Fairyland (1884) | have | PG 52545, `lang-princess-nobody` (178 units) |
 | Tales of Troy and Greece (1907) | have | PG 32326, `lang-tales-of-troy-and-greece` (849 units) |
 | A Monk of Fife (1895) | have | PG 1631, `lang-monk-of-fife` (1509 units) |
-| The Mark of Cain (1886) | have | PG 21821, `lang-mark-of-cain` (1266 units) |
-| Much Darker Days (1884) | have | PG 21933, `lang-much-darker-days` (583 units) |
+| The Mark of Cain (1886) | have | PG 21821, `lang-mark-of-cain` (1250 units) |
+| Much Darker Days (1884) | have | PG 21933, `lang-much-darker-days` (557 units) |
 | In the Wrong Paradise, and Other Stories (1886) | have | PG 13984, `lang-in-the-wrong-paradise` (677 units) |
 | The Disentanglers (1902) | have | PG 17031, `lang-disentanglers` (3144 units) |
 | The World's Desire (1890), with H. Rider Haggard | have | PG 2763, `lang-worlds-desire` (1412 units) |
@@ -130,7 +130,7 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The Dead Leman, and Other Tales from the French (1889), tr. Lang & Paul Sylvester | have-raw | IA `deadlemanotherta00langiala`, `lang-dead-leman` |
 | The Miracles of Madame Saint Katherine of Fierbois (1897), tr. Lang | have-raw | IA `MiraclesOfMadameStKatherineOfFierbois`, `lang-miracles-st-katherine` |
 | The Origins of Religion, and Other Essays (1908) | have-raw | IA `originsreligion01assogoog`, `lang-origins-of-religion` |
-| Tales of a Fairy Court (1907) | pending | not found on Gutenberg or in the IA author search; wanted |
+| Tales of a Fairy Court (1907) | pending | not on Gutenberg; not on Internet Archive (author and title searches, 2026-10-02); wanted |
 | La Jeanne d'Arc de M. Anatole France (1909) | pending | IA `lajeannedarcdema00lang`; French; whether Lang wrote it in French or it was translated is unverified |
 | Clean text of the 29 OCR-only volumes (History of Scotland, Poetical Works, Lockhart, Northcote, Maid of France, ...) | pending | wishlist: proofread transcriptions |
 | Duplicate Gutenberg transcriptions (fairy books PG 640, 3027, 3282, 3454, 6746, 7277; Letters to Dead Authors PG 1491; Prince Prigio PG 21935; Tales of Troy part PG 1973) | excluded | one transcription of each book is held |
@@ -162,8 +162,8 @@ Shelf: `pipeline/lamb_shelf.json` (2026-10-02). Spine: *The Works of Charles and
 | John Woodvil, Mr. H——, The Wife's Trial, Album Verses, Blank Verse (with Lloyd), the poems | have | Lucas vol. V (`lamb-works-lucas-poems-and-plays`) |
 | Specimens of English Dramatic Poets (1808) and the Garrick Plays extracts | have-raw | Lucas vol. IV (IA); also many standalone IA scans (1835-1907) |
 | The letters of Charles and Mary Lamb | have | Lucas vols. VI-VII |
-| Beauty and the Beast (1811, attributed to Lamb; 1887 reprint with intro. by Andrew Lang) | pending | IA `beautyandbeastwi00lambuoft`; attribution doubtful, Lucas vol. III names it only in passing — a cross-reference to the Lang shelf |
-| Clean text of Lucas vol. IV | pending | wishlist: a proofread transcription; IA has a second Methuen scan and standalone Specimens editions to repair OCR from |
+| Beauty and the Beast (1811, attributed to Lamb; 1887 reprint with intro. by Andrew Lang) | have-raw | IA `beautyandbeastwi00lambuoft`, `lamb-beauty-and-the-beast`; attribution doubtful, Lucas vol. III names it only in passing; Lang's introduction makes it a Lang cross-reference too |
+| Clean text of Lucas vol. IV (OCR 97.2% known words, see Measurements) | pending | wishlist: a proofread transcription; IA has a second Methuen scan and standalone Specimens editions to repair OCR from |
 | Ainger's edition (The Life and Works of Charles Lamb, 1899-1900, 12 vols) | pending | IA `lifeworksofcharl10lambuoft` and siblings; a second scholarly witness, not fetched |
 | Eliana (1864), Lamb and Hazlitt: Further Letters (1899-1900), Talfourd's Final Memorials (1848) | pending | IA; early gatherings of letters and uncollected pieces, superseded by Lucas but useful as witnesses |
 | The Letters of Charles Lamb, ed. Lucas (1935, 3 vols) | pending | likely still in copyright (1935); Adam might license; not fetched |
@@ -173,6 +173,11 @@ Shelf: `pipeline/lamb_shelf.json` (2026-10-02). Spine: *The Works of Charles and
 | Blue Jar Story Book (PG 34470) | excluded | multi-author anthology |
 | Coleridge's Poems (1796, 1797) with early Lamb sonnets | excluded | Coleridge's shelf; Lamb's poems are in Lucas vol. V |
 | Books about Lamb (Lucas's Life, Charles Lamb and the Lloyds, Bon-mots) | excluded | not Lamb's text |
+
+### Lane D measurements (2026-10-02)
+
+- **OCR quality of the raw volumes.** Share of OCR words (2+ letters) found in a vocabulary built from the 104 clean Gutenberg texts of these two shelves (words seen twice or more, 56,402 words). All 30 raw volumes score 94.4%-99.1%. Lowest: Miracles of St Katherine 94.4% (much Old French), Politics of Aristotle essays 95.5%, St Andrews 95.7%, Origins of Religion 95.8%, Homer and the Epic 95.8%. Lucas vol. IV 97.2%. Highest: Story of the Golden Fleece 99.1%, All Sorts of Stories Book 98.9%. A rough guide to which volumes most want a clean text, not a proofreading score: the vocabulary is Lang and Lamb's own.
+- **Heading detection.** After a per-book chapter rule for four Lang novels (The Mark of Cain, The Gold of Fairnilee, Much Darker Days, Prince Ricardo — their "CHAPTER I.--Title" lines escaped the Contents rule), three books still sit mostly under one heading: The Nursery Rhyme Book (its five sections are italic numbered lines), Aucassin and Nicolete (the chantefable's alternating "Here singeth one / So say they" structure), and Custom and Myth, new edition (46% of its units are the index). Their citations are paragraph-in-book until a structure rule is written.
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

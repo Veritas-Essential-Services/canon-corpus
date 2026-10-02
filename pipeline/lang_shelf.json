@@ -109,11 +109,17 @@
   ],
   "lang-prince-ricardo": [
    21994,
-   "Prince Ricardo of Pantouflia (1893)"
+   "Prince Ricardo of Pantouflia (1893)",
+   {
+    "chapre": "CHAPTER\\s+[IVXLC]+\\b.{0,80}$"
+   }
   ],
   "lang-gold-of-fairnilee": [
    21934,
-   "The Gold of Fairnilee (1888)"
+   "The Gold of Fairnilee (1888)",
+   {
+    "chapre": "CHAPTER\\s+[IVXLC]+\\b.{0,80}$"
+   }
   ],
   "lang-princess-nobody": [
    52545,
@@ -129,11 +135,17 @@
   ],
   "lang-mark-of-cain": [
    21821,
-   "The Mark of Cain (1886)"
+   "The Mark of Cain (1886)",
+   {
+    "chapre": "CHAPTER\\s+[IVXLC]+\\b.{0,80}$"
+   }
   ],
   "lang-much-darker-days": [
    21933,
-   "Much Darker Days (1884)"
+   "Much Darker Days (1884)",
+   {
+    "chapre": "CHAPTER\\s+[IVXLC]+\\b.{0,80}$"
+   }
   ],
   "lang-in-the-wrong-paradise": [
    13984,
