@@ -1577,15 +1577,14 @@ Excluded: Casey's school adaptation
 
 ## Archimedes and Apollonius of Perga
 
-Shelf: `pipeline/archimedes_shelf.json`. Heath's Works (1897), Method (1912), Apollonius's Conics (1896) (IA, 0.73-0.83).
+Shelf: `pipeline/archimedes_shelf.json`. Heath's Works (1897), Method (1912), Apollonius's Conics (1896) (IA, 0.73-0.83); Robinson's Method from Heiberg's German (Gutenberg, LaTeX source).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Geometrical Solutions Derived from Mechanics: a Treatise of Archimedes | Lydia G. Robinson from Heiberg's German | `archimedes-method-robinson` | have (PG 7825) |
 | The Works of Archimedes (1897) | ed. and T. L. Heath | `archimedes-heath-works` | have-raw (IA `worksofarchimede00arch`) |
 | The Method of Archimedes, a supplement to the Works (1912) | ed. and T. L. Heath | `archimedes-heath-method` | have-raw (IA `methodofarchimed00arch`) |
 | Apollonius of Perga, Treatise on Conic Sections (1896) | ed. T. L. Heath | `apollonius-perga-heath-conics` | have-raw (IA `treatiseonconics00apolrich`) |
-
-Pending (wishlist): Robinson's Method (PG 7825: gzip-only file the fetcher cannot read)
 
 ## Hippocrates
 

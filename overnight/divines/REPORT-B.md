@@ -145,3 +145,7 @@
 ## 2026-10-02 16:35 CDT — reverify-all-b, digest-refresh-b (done)
 - All 84 lane B shelves pass fetch_shelf.py --verify: 0 wrong books.
 - DIGEST-B refreshed: 84 shelves, 243 Gutenberg + 114 IA files, 262 MB.
+
+## 2026-10-02 16:36 CDT — fetcher-gzip (done)
+- pipeline/fetch_shelf.py get(): on HTTP 406 it asks once more accepting gzip, and decompresses any gzip body. Plain responses are unchanged (tested on PG 1727 and an IA djvu file). Backward-compatible: no shelf format change.
+- archimedes: Robinson's Method (PG 7825) now fetched and verified; header not COPYRIGHTED.

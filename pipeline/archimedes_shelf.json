@@ -1,5 +1,5 @@
 {
- "_about": "Archimedes in T. L. Heath's editions, raw IA OCR: The Works of Archimedes (Cambridge, 1897) and its supplement The Method of Archimedes (1912). Apollonius of Perga's Conics in Heath's edition (1896) is here too, as the same editor's companion volume.",
+ "_about": "Archimedes in T. L. Heath's editions, raw IA OCR: The Works of Archimedes (Cambridge, 1897) and its supplement The Method of Archimedes (1912). Apollonius of Perga's Conics in Heath's edition (1896) is here too, as the same editor's companion volume. Lydia G. Robinson's English of Heiberg's German edition of the Method, Geometrical Solutions Derived from Mechanics, clean Gutenberg (the Gutenberg file is LaTeX source).",
  "_name_words": [
   "archimedes",
   "method",
@@ -8,7 +8,13 @@
   "apollonius"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "archimedes-method-robinson": [
+   7825,
+   "Geometrical Solutions Derived from Mechanics: a Treatise of Archimedes",
+   "tr. Lydia G. Robinson from Heiberg's German"
+  ]
+ },
  "internet_archive": {
   "archimedes-heath-works": [
    "worksofarchimede00arch",
@@ -28,7 +34,6 @@
  },
  "_excluded": {
   "worksofarchimede029517mbp": "second scan of the 1897 Works, slightly lower OCR",
-  "Heath, Archimedes (PG 35550)": "a short study, not a translation; not taken",
-  "PG 7825 (Robinson's Geometrical Solutions Derived from Mechanics; a LaTeX file)": "Gutenberg serves this file only gzip-encoded and answers the fetcher with HTTP 406; header read by hand, not COPYRIGHTED; pending a backward-compatible fetcher fix"
+  "Heath, Archimedes (PG 35550)": "a short study, not a translation; not taken"
  }
 }

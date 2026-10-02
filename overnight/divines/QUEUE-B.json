@@ -190,6 +190,24 @@
       "started": "2026-10-02T16:35:23-05:00",
       "finished": "2026-10-02T16:35:45-05:00",
       "notes": "84 shelves, 357 files, 262 MB"
+    },
+    {
+      "id": "fetcher-gzip",
+      "status": "done",
+      "scope": "fetch_shelf.py: accept gzip-only Gutenberg responses (PG 7825 gives HTTP 406), backward-compatibly; then fetch Robinson's Method",
+      "started": "2026-10-02T16:36:06-05:00",
+      "finished": "2026-10-02T16:36:44-05:00",
+      "notes": "fetch_shelf.get retries a 406 with Accept-Encoding gzip and decompresses; PG 7825 fetched"
+    },
+    {
+      "id": "latin-loebs-1930",
+      "status": "todo",
+      "scope": "Latin-facing Loebs published 1930 or earlier, now that Latin-facing is taken: Gummere's Seneca Epistles, Fairclough's Virgil, Miller's Metamorphoses, Showerman's Heroides, Bennett's Horace, Rolfe's Suetonius/Sallust/Gellius, Ker's Martial, others found; add to existing shelves"
+    },
+    {
+      "id": "pending-volumes-hunt",
+      "status": "todo",
+      "scope": "Re-search IA for the missing volumes recorded as pending: Kennedy Demosthenes v5, Beloe Gellius v2, Hawkins Claudian v2, Taylor Pausanias v3, Frazer Pausanias v1"
     }
   ]
 }
