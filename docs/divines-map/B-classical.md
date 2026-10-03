@@ -1907,6 +1907,7 @@ Shelf: `pipeline/celsus_shelf.json`. Greive, 1814 edition (Gutenberg).
 |---|---|---|---|
 | Of Medicine, in Eight Books | James Greive | `celsus-greive` | have (PG 64207) |
 | A Translation of the Eight Books of Aul. Corn. Celsus on Medicine (London: printed by A. J. Valpy, 1831) | G. F. Collier | `celsus-collier-1831` | have-raw (IA `atranslationeig00celsgoog`) |
+| Aur. Cor. Celsus on Medicine, in eight books, Latin and English, translated from L. Targa's edition, vol. I (London: E. Cox, MDCCCXXXI) | Alexander Lee | `celsus-lee-1831-v1` | have-raw (IA `aurcorcelsusonm00rodegoog`) |
 
 ## Cato and Varro
 

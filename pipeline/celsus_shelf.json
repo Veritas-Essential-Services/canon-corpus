@@ -17,6 +17,11 @@
    "atranslationeig00celsgoog",
    "A Translation of the Eight Books of Aul. Corn. Celsus on Medicine (London: printed by A. J. Valpy, 1831)",
    "tr. G. F. Collier"
+  ],
+  "celsus-lee-1831-v1": [
+   "aurcorcelsusonm00rodegoog",
+   "Aur. Cor. Celsus on Medicine, in eight books, Latin and English, translated from L. Targa's edition, vol. I (London: E. Cox, MDCCCXXXI)",
+   "tr. Alexander Lee"
   ]
  },
  "_surname": [
@@ -24,7 +29,8 @@
  ],
  "_translators": {
   "celsus-greive": "James Greive",
-  "celsus-collier-1831": "Collier"
+  "celsus-collier-1831": "Collier",
+  "celsus-lee-1831-v1": "Alex. Lee"
  },
  "_checks": {
   "celsus-greive": {
@@ -45,6 +51,19 @@
    "name_check": "surname",
    "author_seen": "celsus",
    "translator_claimed": "Collier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "celsus-lee-1831-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "celsus",
+   "translator_claimed": "Alex. Lee",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1831",
