@@ -18,7 +18,18 @@
    "tr. H. F. Stewart and E. K. Rand (Loeb, 1918; Latin facing; the Consolation is the 1609 'I.T.' version revised)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "boethius-ridpath-1785": [
+   "boethiussconsol00boetgoog",
+   "Boethius's Consolation of Philosophy, translated from the Latin, with notes and illustrations (London: C. Dilly, M.DCC.LXXXV)",
+   "tr. Philip Ridpath"
+  ],
+  "boethius-colville-1556": [
+   "cu31924029003824",
+   "Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII)",
+   "tr. George Colville"
+  ]
+ },
  "_excluded": {
   "PG 23082": "Gutenberg serves an HTML page for the .txt; not fetched",
   "Chaucer's Boece (PG 42083, 44833)": "Middle English; not a modern translation; not taken"
@@ -29,7 +40,9 @@
  ],
  "_translators": {
   "boethius-james": "H. R. James",
-  "boethius-rand-stewart": "H. F. Stewart"
+  "boethius-rand-stewart": "H. F. Stewart",
+  "boethius-colville-1556": "George Colville",
+  "boethius-ridpath-1785": "Ridpath"
  },
  "_checks": {
   "boethius-james": {
@@ -55,6 +68,33 @@
    "pg_copyrighted": false,
    "pg_translator": "Edward Kennard Rand; H. F. Stewart",
    "translator_match": true
+  },
+  "boethius-ridpath-1785": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "Ridpath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boethius-colville-1556": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "George Colville",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
- }
+ },
+ "_translator_unchecked": {}
 }
