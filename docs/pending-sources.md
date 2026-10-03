@@ -53,11 +53,86 @@ stops on another hash or module_version.
 A better transcription of any of these would fill the gaps. The Apocrypha
 of Coverdale and the Bishops' are still wanted.
 
+## Wycliffe: read from the 1850 scans (2026-10-03, branch `wycliffe-fm`)
+
+<!-- prov: 2026-10-03 edited (Claude Code): Wycliffe sources checked; Forshall and Madden built from the scans -->
+
+What the reachable copies hold:
+
+- **eBible `engWycliffe`** (`https://ebible.org/Scriptures/engWycliffe_usfm.zip`,
+  419,866 bytes, sha256 `d3bca9a2304c1c2d...`, copr.htm "Public Domain"): nine
+  books only (Gen-Deut and the four Gospels), the LATER version, numbered as
+  the KJV. The BibleNLP vref extract is made from it.
+- **Bible SuperSearch:** no Wycliffe module.
+- **CrossWire `Wycliffe` v2.4.1:** complete, with the Apocrypha, but CC BY-SA
+  4.0, and the printed edition it was transcribed from is not named.
+  **Awaiting Adam's ruling; not used.**
+- **Forshall and Madden, Oxford 1850, 4 vols** (both versions in parallel
+  columns: earlier on the left, later on the right). Public domain. Scanned
+  from the University of Toronto (Robarts) copy. Every item's
+  `possible-copyright-status` field reads `NOT_IN_COPYRIGHT`. There is no
+  `rights` or `licenseurl` field.
+
+  | Vol. | Books | archive.org item | Leaves |
+  |---|---|---|---|
+  | I | Genesis - Ruth | `holybiblecontain01wycluoft` | 770 |
+  | II | 1 Kings - Psalms (with 3 Esdras) | `holybiblecontain02wycluoft` | 908 |
+  | III | Proverbs - 2 Maccabees | `holybiblecontain03wycluoft` | 916 |
+  | IV | the New Testament (with Laodiceans) | `holybiblecontain04wycluoft` | 786 |
+
+  There is also a second scan, `ENGW850_DBS_HS` (the Digital Bible Society).
+  It is one 215 MB PDF with its own OCR. Its rights field reads "The Digital
+  Bible Society is unaware of any copyright restrictions". It was not opened.
+
+**The probe.** Each item has a `_djvu.txt` and an ABBYY `_hocr.html` (word
+boxes). The measures:
+
+- **OCR quality.** Genesis was sampled, both columns, 54,796 alphabetic
+  tokens. 92.1% are words in eBible's Wycliffe, once the OCR's `3` is read
+  as the yogh (eBible's `y`). 95.2% are, if one trailing letter may be
+  dropped. That letter is one of F&M's collation sigla, printed superscript
+  and run into the word by the OCR (`li3tb`). Junk tokens: 3.0%.
+- **The columns** separate cleanly by x position. The gutter is a 50-75 px
+  empty strip, and it moves between versos and rectos. Two exceptions:
+  - The later version's marginal glosses and the Psalter's Latin incipits
+    stand in the outer margin, in smaller type. They are told apart by
+    position and dropped.
+  - On some leaves ABBYY ran a left-column line into the right column's,
+    and stretched the joining word across the gutter. The reader assigns
+    that word to the left column.
+- **Verse numbers.** Most are legible digits in the outer margin of each
+  column. The rest are misread in a few regular ways (`s` for 5 or 8, `e`
+  for 6, `IG` for 16, `u` for 11). Each chapter opens with a heading in
+  each column (`CAP. VI.`, `PSALM VII.`). Each page has a running head with
+  its chapter and verse range.
+
+**Built.** `pipeline/build_wycliffe.py` follows the Charles pattern, with
+tests in `tests/wycliffe_test.py`. It produces two books, `wycliffe-earlier`
+and `wycliffe-later`. Their ids are in the Clementine's numbering
+(`wycliffe-later:Ps.50.3`), and each unit's `kjv` is resolved through
+`vulgate-kjv.json`. The coverage of the Clementine's 35,809 verses:
+
+| | Verses present | Numbers read / with a fix / inferred | Books by verse / by leaf |
+|---|---|---|---|
+| earlier | 33,797 (94.4%) | 20,664 / 5,077 / 6,949 | 73 / 0 |
+| later | 30,625 (85.5%) | 16,376 / 5,643 / 7,972 | 69 / 4 (Prov, Sir, 2 John, Jude) |
+
+The later version was also compared with eBible's transcription of the
+same verses (nine books, 8,526 verses):
+
+- 81.7% agree (word-sequence ratio 0.6 or more).
+- 6.8% agree in part.
+- 11.5% disagree. Most of these are runs where a missed margin number
+  shifts the division by one verse until the next number read
+  (Deuteronomy 4 is the worst).
+
+The text itself is unproofread OCR, and each book says so.
+
 ## Still pending
 
 | Bible | Why it is pending | Candidates (unverified) |
 |---|---|---|
-| Wycliffe (c.1395) | The one reachable PD copy (BibleNLP/ebible `eng-engWycliffe.txt`) holds only the Pentateuch and Gospels, in vref slots. It also drops verses wherever the Vulgate's chapters run longer than the Hebrew's (Lev 6:24-30, Num 16:36-50) | eBible's own `engWycliffe` USFM zip (ebible.org, which carries its own numbering); Forshall and Madden's 1850 edition on archive.org (no identifier found yet); check whether Bible SuperSearch has a module |
+| Wycliffe (c.1395) | Built from the F&M scans (above), but the text is unproofread OCR and 6-15% of verses are missing or misdivided. A clean complete transcription is still wanted | CrossWire `Wycliffe` v2.4.1 (CC BY-SA 4.0, base edition unnamed: Adam's ruling); proofreading F&M against the scans; the DBS scan `ENGW850_DBS_HS` as a second OCR to vote with |
 | Coverdale / Bishops' Apocrypha | BSS has the 66 books only | archive.org `ENGCVD_DBS_HS`, `1568TheBishopsBible` (unopened) |
 
 ## When one is fetched

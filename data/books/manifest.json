@@ -24642,5 +24642,3768 @@
    "rights_line": "Public Domain",
    "note": "eBible: letters patent restrict printing the KJV in the United Kingdom; elsewhere it is in the public domain"
   }
+ },
+ "wycliffe-earlier": {
+  "title": "The Wycliffite Bible, the earlier version (c. 1382) (Forshall and Madden 1850)",
+  "author": "John Wycliffe and his followers; ed. Josiah Forshall and Frederic Madden",
+  "format": "ia-hocr",
+  "sha256": "610c5bec697a3d68ab2a12e587223e8b2fccabc5b95e0500e672d76d0d8ef31a",
+  "units": 33956,
+  "scheme": {
+   "citation": "Book.chapter.verse in the Clementine Vulgate's numbering (F&M number as the Vulgate); ids not linked to kjv: units, each unit's `kjv` resolves it",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the margin OCR of the 1850 scans; each unit says how its number was got (scan.number: read as printed, read with a letter-for-digit fix, inferred from the sequence, or 'heading' for a chapter's first verse, which follows its heading unnumbered); a verse that begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a book below the bar is given by scan leaf, not by verse",
+   "note": "Josiah Forshall and Frederic Madden (eds), The Holy Bible, containing the Old and New Testaments, with the Apocryphal Books, in the earliest English versions made from the Latin Vulgate by John Wycliffe and his followers, 4 vols (Oxford: University Press, 1850); the earlier version (c. 1382), F&M's left column"
+  },
+  "source": {
+   "format": "ia-hocr",
+   "volumes": {
+    "1": {
+     "ia": "holybiblecontain01wycluoft",
+     "sha256": "894d26547e8f8d75f86f6fd7dba0943a8055bbcfb13c9d50f177af87e3f8c72d"
+    },
+    "2": {
+     "ia": "holybiblecontain02wycluoft",
+     "sha256": "f1dce32502f7654db2178082a53b021777732b63b6d32c72f863d8095c76b937"
+    },
+    "3": {
+     "ia": "holybiblecontain03wycluoft",
+     "sha256": "9e460c596cd2a62f3597fe3fbb2f901be3cb6919fcb4aa595a58cccab1b32500"
+    },
+    "4": {
+     "ia": "holybiblecontain04wycluoft",
+     "sha256": "a5e6ebc5c74ac67016cccc48930e3eb6b96e4514c8be3c439e957a0a9293c504"
+    }
+   }
+  },
+  "rights": {
+   "license": "public domain (published 1850); the scans and their OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, holybiblecontain01-04wycluoft (University of Toronto, Robarts Library copy)",
+   "source_url": "https://archive.org/details/holybiblecontain01wycluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "total": {
+    "verses": 33956,
+    "clementine_verses": 35809,
+    "present": 33797,
+    "beyond_clementine": 37,
+    "duplicate_numbers": 122,
+    "number_read": 20664,
+    "number_read_with_fix": 5077,
+    "number_inferred": 6949,
+    "verse_1_after_heading": 48,
+    "books_by_verse": 73,
+    "books_by_leaf": 0,
+    "kjv_resolved": 29262
+   },
+   "books": {
+    "Gen": {
+     "verses": 1485,
+     "clementine_verses": 1530,
+     "present": 1483,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 989,
+     "number_read_with_fix": 187,
+     "number_inferred": 260,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 407,
+      "line-start": 170,
+      "sentence": 823,
+      "sentence-before": 30,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      106,
+      106
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Exod": {
+     "verses": 1166,
+     "clementine_verses": 1211,
+     "present": 1165,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 785,
+     "number_read_with_fix": 163,
+     "number_inferred": 180,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 350,
+      "line-start": 149,
+      "sentence": 616,
+      "sentence-before": 7,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      93,
+      94
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Lev": {
+     "verses": 829,
+     "clementine_verses": 858,
+     "present": 829,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 569,
+     "number_read_with_fix": 94,
+     "number_inferred": 141,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 346,
+      "line-start": 91,
+      "sentence": 349,
+      "sentence-before": 8,
+      "sentence-first": 10
+     },
+     "running_heads_agree": [
+      64,
+      64
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Num": {
+     "verses": 1234,
+     "clementine_verses": 1288,
+     "present": 1234,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 861,
+     "number_read_with_fix": 146,
+     "number_inferred": 193,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 479,
+      "line-start": 121,
+      "sentence": 588,
+      "sentence-before": 12
+     },
+     "running_heads_agree": [
+      93,
+      93
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Deut": {
+     "verses": 894,
+     "clementine_verses": 959,
+     "present": 890,
+     "beyond_clementine": 4,
+     "duplicate_numbers": 0,
+     "number_read": 549,
+     "number_read_with_fix": 135,
+     "number_inferred": 177,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 298,
+      "line-start": 100,
+      "sentence": 456,
+      "sentence-before": 5,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      81,
+      81
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Josh": {
+     "verses": 626,
+     "clementine_verses": 658,
+     "present": 626,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 425,
+     "number_read_with_fix": 83,
+     "number_inferred": 94,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 232,
+      "line-start": 69,
+      "sentence": 293,
+      "sentence-before": 7,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      50,
+      50
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Judg": {
+     "verses": 593,
+     "clementine_verses": 618,
+     "present": 592,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 368,
+     "number_read_with_fix": 87,
+     "number_inferred": 118,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 113,
+      "line-start": 76,
+      "sentence": 375,
+      "sentence-before": 7,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      58,
+      58
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Ruth": {
+     "verses": 76,
+     "clementine_verses": 85,
+     "present": 76,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 42,
+     "number_read_with_fix": 14,
+     "number_inferred": 16,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 18,
+      "line-start": 10,
+      "sentence": 44
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "1Sam": {
+     "verses": 778,
+     "clementine_verses": 811,
+     "present": 778,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 493,
+     "number_read_with_fix": 108,
+     "number_inferred": 147,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 88,
+      "line-start": 119,
+      "sentence": 534,
+      "sentence-before": 3,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      56,
+      56
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Sam": {
+     "verses": 668,
+     "clementine_verses": 695,
+     "present": 668,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 416,
+     "number_read_with_fix": 85,
+     "number_inferred": 144,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 70,
+      "line-start": 93,
+      "sentence": 466,
+      "sentence-before": 10,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      34,
+      34
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1Kgs": {
+     "verses": 790,
+     "clementine_verses": 817,
+     "present": 790,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 524,
+     "number_read_with_fix": 105,
+     "number_inferred": 139,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 142,
+      "line-start": 122,
+      "sentence": 500,
+      "sentence-before": 4
+     },
+     "running_heads_agree": [
+      30,
+      32
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Kgs": {
+     "verses": 688,
+     "clementine_verses": 719,
+     "present": 688,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 426,
+     "number_read_with_fix": 104,
+     "number_inferred": 134,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 87,
+      "line-start": 102,
+      "sentence": 459,
+      "sentence-before": 11,
+      "sentence-first": 5
+     },
+     "running_heads_agree": [
+      42,
+      42
+     ],
+     "rubric_lines_dropped": 2,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "1Chr": {
+     "verses": 877,
+     "clementine_verses": 940,
+     "present": 877,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 563,
+     "number_read_with_fix": 124,
+     "number_inferred": 164,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 262,
+      "line-start": 114,
+      "sentence": 445,
+      "sentence-before": 7,
+      "sentence-first": 23
+     },
+     "running_heads_agree": [
+      59,
+      59
+     ],
+     "rubric_lines_dropped": 2,
+     "stray_markers": 2,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "2Chr": {
+     "verses": 782,
+     "clementine_verses": 822,
+     "present": 782,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 459,
+     "number_read_with_fix": 134,
+     "number_inferred": 154,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 167,
+      "line-start": 76,
+      "sentence": 500,
+      "sentence-before": 4
+     },
+     "running_heads_agree": [
+      45,
+      45
+     ],
+     "rubric_lines_dropped": 2,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Ezra": {
+     "verses": 260,
+     "clementine_verses": 280,
+     "present": 260,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 172,
+     "number_read_with_fix": 39,
+     "number_inferred": 40,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 103,
+      "line-start": 34,
+      "sentence": 108,
+      "sentence-before": 2,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      13,
+      13
+     ],
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Neh": {
+     "verses": 333,
+     "clementine_verses": 404,
+     "present": 333,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 209,
+     "number_read_with_fix": 60,
+     "number_inferred": 53,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 106,
+      "line-start": 38,
+      "sentence": 171,
+      "sentence-before": 5,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      11,
+      11
+     ],
+     "stray_markers": 1,
+     "single_column_leaves_skipped": 1,
+     "rows_after_last_clementine_chapter_dropped": 82,
+     "resolution": "verse"
+    },
+    "Tob": {
+     "verses": 283,
+     "clementine_verses": 298,
+     "present": 283,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 150,
+     "number_read_with_fix": 50,
+     "number_inferred": 69,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 50,
+      "line-start": 40,
+      "sentence": 178,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Jdt": {
+     "verses": 331,
+     "clementine_verses": 346,
+     "present": 331,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 182,
+     "number_read_with_fix": 63,
+     "number_inferred": 72,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 66,
+      "line-start": 35,
+      "sentence": 215,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "resolution": "verse"
+    },
+    "Esth": {
+     "verses": 262,
+     "clementine_verses": 275,
+     "present": 261,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 135,
+     "number_read_with_fix": 53,
+     "number_inferred": 58,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 65,
+      "line-start": 38,
+      "sentence": 138,
+      "sentence-before": 5
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "resolution": "verse"
+    },
+    "Job": {
+     "verses": 1008,
+     "clementine_verses": 1070,
+     "present": 991,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 17,
+     "number_read": 636,
+     "number_read_with_fix": 141,
+     "number_inferred": 195,
+     "verse_1_after_heading": 7,
+     "start": {
+      "line": 119,
+      "line-start": 135,
+      "sentence": 708,
+      "sentence-before": 6,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      12,
+      12
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Ps": {
+     "verses": 2394,
+     "clementine_verses": 2527,
+     "present": 2353,
+     "beyond_clementine": 8,
+     "duplicate_numbers": 33,
+     "number_read": 1367,
+     "number_read_with_fix": 401,
+     "number_inferred": 486,
+     "verse_1_after_heading": 14,
+     "start": {
+      "line": 144,
+      "line-start": 498,
+      "sentence": 1541,
+      "sentence-before": 60,
+      "sentence-first": 11
+     },
+     "running_heads_agree": [
+      66,
+      66
+     ],
+     "gloss_words_dropped": 70,
+     "stray_markers": 4,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Prov": {
+     "verses": 876,
+     "clementine_verses": 915,
+     "present": 821,
+     "beyond_clementine": 6,
+     "duplicate_numbers": 49,
+     "number_read": 534,
+     "number_read_with_fix": 142,
+     "number_inferred": 173,
+     "verse_1_after_heading": 4,
+     "start": {
+      "line": 87,
+      "line-start": 146,
+      "sentence": 596,
+      "sentence-before": 6,
+      "sentence-first": 14
+     },
+     "running_heads_agree": [
+      40,
+      40
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Eccl": {
+     "verses": 214,
+     "clementine_verses": 222,
+     "present": 213,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 108,
+     "number_read_with_fix": 43,
+     "number_inferred": 51,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 23,
+      "line-start": 30,
+      "sentence": 148,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      17,
+      17
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Song": {
+     "verses": 106,
+     "clementine_verses": 116,
+     "present": 106,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 64,
+     "number_read_with_fix": 22,
+     "number_inferred": 12,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 10,
+      "line-start": 17,
+      "sentence": 70,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      11,
+      11
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Wis": {
+     "verses": 417,
+     "clementine_verses": 439,
+     "present": 415,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 234,
+     "number_read_with_fix": 61,
+     "number_inferred": 107,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 63,
+      "line-start": 62,
+      "sentence": 277
+     },
+     "running_heads_agree": [
+      30,
+      30
+     ],
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "chapter_1_not_marked": 1,
+     "resolution": "verse"
+    },
+    "Sir": {
+     "verses": 1552,
+     "clementine_verses": 1592,
+     "present": 1552,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 1022,
+     "number_read_with_fix": 210,
+     "number_inferred": 270,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 160,
+      "line-start": 197,
+      "sentence": 1141,
+      "sentence-before": 4
+     },
+     "running_heads_agree": [
+      71,
+      71
+     ],
+     "rubric_lines_dropped": 4,
+     "resolution": "verse"
+    },
+    "Isa": {
+     "verses": 1229,
+     "clementine_verses": 1292,
+     "present": 1227,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 703,
+     "number_read_with_fix": 221,
+     "number_inferred": 240,
+     "verse_1_after_heading": 5,
+     "start": {
+      "line": 174,
+      "line-start": 159,
+      "sentence": 807,
+      "sentence-before": 10,
+      "sentence-first": 14
+     },
+     "running_heads_agree": [
+      90,
+      90
+     ],
+     "rubric_lines_dropped": 2,
+     "resolution": "verse"
+    },
+    "Jer": {
+     "verses": 1301,
+     "clementine_verses": 1363,
+     "present": 1301,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 797,
+     "number_read_with_fix": 189,
+     "number_inferred": 263,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 220,
+      "line-start": 169,
+      "sentence": 844,
+      "sentence-before": 1,
+      "sentence-first": 15
+     },
+     "running_heads_agree": [
+      114,
+      114
+     ],
+     "resolution": "verse"
+    },
+    "Lam": {
+     "verses": 134,
+     "clementine_verses": 154,
+     "present": 134,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 85,
+     "number_read_with_fix": 15,
+     "number_inferred": 30,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line-start": 25,
+      "sentence": 27,
+      "sentence-first": 78
+     },
+     "running_heads_agree": [
+      9,
+      9
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Bar": {
+     "verses": 204,
+     "clementine_verses": 213,
+     "present": 204,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 129,
+     "number_read_with_fix": 28,
+     "number_inferred": 43,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 31,
+      "line-start": 26,
+      "sentence": 141,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      15,
+      15
+     ],
+     "rubric_lines_dropped": 2,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Ezek": {
+     "verses": 1211,
+     "clementine_verses": 1272,
+     "present": 1211,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 705,
+     "number_read_with_fix": 174,
+     "number_inferred": 284,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 241,
+      "line-start": 143,
+      "sentence": 759,
+      "sentence-before": 14,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      105,
+      106
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Dan": {
+     "verses": 498,
+     "clementine_verses": 531,
+     "present": 497,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 321,
+     "number_read_with_fix": 66,
+     "number_inferred": 98,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 59,
+      "line-start": 64,
+      "sentence": 358,
+      "sentence-before": 3,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      41,
+      41
+     ],
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Hos": {
+     "verses": 184,
+     "clementine_verses": 198,
+     "present": 183,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 87,
+     "number_read_with_fix": 35,
+     "number_inferred": 49,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 9,
+      "line-start": 31,
+      "sentence": 126,
+      "sentence-before": 3,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      14,
+      14
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Joel": {
+     "verses": 68,
+     "clementine_verses": 73,
+     "present": 68,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 32,
+     "number_read_with_fix": 15,
+     "number_inferred": 18,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 5,
+      "line-start": 14,
+      "sentence": 44,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Amos": {
+     "verses": 149,
+     "clementine_verses": 147,
+     "present": 142,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 7,
+     "number_read": 83,
+     "number_read_with_fix": 32,
+     "number_inferred": 25,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 16,
+      "line-start": 14,
+      "sentence": 106,
+      "sentence-before": 1,
+      "sentence-first": 3
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Obad": {
+     "verses": 21,
+     "clementine_verses": 21,
+     "present": 21,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 12,
+     "number_read_with_fix": 3,
+     "number_inferred": 6,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 5,
+      "line-start": 4,
+      "sentence": 11,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 1,
+     "chapter_1_not_marked": 1,
+     "resolution": "verse"
+    },
+    "Jonah": {
+     "verses": 47,
+     "clementine_verses": 48,
+     "present": 47,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 26,
+     "number_read_with_fix": 12,
+     "number_inferred": 5,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 4,
+      "line-start": 5,
+      "sentence": 34
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Mic": {
+     "verses": 97,
+     "clementine_verses": 104,
+     "present": 97,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 46,
+     "number_read_with_fix": 26,
+     "number_inferred": 18,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 9,
+      "line-start": 6,
+      "sentence": 72,
+      "sentence-before": 2,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "resolution": "verse"
+    },
+    "Nah": {
+     "verses": 43,
+     "clementine_verses": 47,
+     "present": 43,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 23,
+     "number_read_with_fix": 8,
+     "number_inferred": 9,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 4,
+      "line-start": 9,
+      "sentence": 26,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      4,
+      4
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Hab": {
+     "verses": 50,
+     "clementine_verses": 56,
+     "present": 50,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 27,
+     "number_read_with_fix": 12,
+     "number_inferred": 8,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 1,
+      "line-start": 7,
+      "sentence": 39
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Zeph": {
+     "verses": 50,
+     "clementine_verses": 53,
+     "present": 50,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 21,
+     "number_read_with_fix": 14,
+     "number_inferred": 13,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 7,
+      "line-start": 6,
+      "sentence": 34,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      2,
+      2
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Hag": {
+     "verses": 34,
+     "clementine_verses": 38,
+     "present": 34,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 17,
+     "number_read_with_fix": 8,
+     "number_inferred": 8,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 12,
+      "line-start": 2,
+      "sentence": 19
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Zech": {
+     "verses": 205,
+     "clementine_verses": 211,
+     "present": 205,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 110,
+     "number_read_with_fix": 38,
+     "number_inferred": 43,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 27,
+      "line-start": 29,
+      "sentence": 134,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      17,
+      17
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Mal": {
+     "verses": 51,
+     "clementine_verses": 55,
+     "present": 51,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 32,
+     "number_read_with_fix": 8,
+     "number_inferred": 8,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 9,
+      "line-start": 5,
+      "sentence": 32,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      5,
+      5
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1Macc": {
+     "verses": 889,
+     "clementine_verses": 929,
+     "present": 889,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 555,
+     "number_read_with_fix": 115,
+     "number_inferred": 203,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 141,
+      "line-start": 112,
+      "sentence": 611,
+      "sentence-before": 7,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      54,
+      54
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Macc": {
+     "verses": 529,
+     "clementine_verses": 558,
+     "present": 529,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 317,
+     "number_read_with_fix": 60,
+     "number_inferred": 137,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 104,
+      "line-start": 72,
+      "sentence": 337,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      26,
+      26
+     ],
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Matt": {
+     "verses": 1006,
+     "clementine_verses": 1070,
+     "present": 1003,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 0,
+     "number_read": 617,
+     "number_read_with_fix": 120,
+     "number_inferred": 242,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 158,
+      "line-start": 154,
+      "sentence": 655,
+      "sentence-before": 5,
+      "sentence-first": 7
+     },
+     "running_heads_agree": [
+      65,
+      65
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Mark": {
+     "verses": 626,
+     "clementine_verses": 677,
+     "present": 625,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 365,
+     "number_read_with_fix": 79,
+     "number_inferred": 168,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 75,
+      "line-start": 86,
+      "sentence": 446,
+      "sentence-before": 3,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      50,
+      50
+     ],
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Luke": {
+     "verses": 1093,
+     "clementine_verses": 1151,
+     "present": 1093,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 663,
+     "number_read_with_fix": 137,
+     "number_inferred": 271,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 184,
+      "line-start": 145,
+      "sentence": 733,
+      "sentence-before": 5,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      82,
+      82
+     ],
+     "rubric_lines_dropped": 2,
+     "stray_markers": 1,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "John": {
+     "verses": 831,
+     "clementine_verses": 879,
+     "present": 831,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 503,
+     "number_read_with_fix": 95,
+     "number_inferred": 212,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 90,
+      "line-start": 127,
+      "sentence": 586,
+      "sentence-before": 3,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      45,
+      45
+     ],
+     "rubric_lines_dropped": 5,
+     "single_column_leaves_skipped": 1,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "Rom": {
+     "verses": 410,
+     "clementine_verses": 433,
+     "present": 410,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 234,
+     "number_read_with_fix": 70,
+     "number_inferred": 90,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 93,
+      "line-start": 57,
+      "sentence": 232,
+      "sentence-before": 6,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      30,
+      30
+     ],
+     "gloss_words_dropped": 5,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "1Cor": {
+     "verses": 405,
+     "clementine_verses": 437,
+     "present": 405,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 243,
+     "number_read_with_fix": 61,
+     "number_inferred": 85,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 80,
+      "line-start": 53,
+      "sentence": 248,
+      "sentence-before": 4,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      29,
+      29
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Cor": {
+     "verses": 228,
+     "clementine_verses": 255,
+     "present": 228,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 97,
+     "number_read_with_fix": 51,
+     "number_inferred": 69,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 59,
+      "line-start": 31,
+      "sentence": 124,
+      "sentence-before": 2,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      20,
+      20
+     ],
+     "gloss_words_dropped": 1,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Gal": {
+     "verses": 138,
+     "clementine_verses": 149,
+     "present": 138,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 84,
+     "number_read_with_fix": 25,
+     "number_inferred": 23,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 31,
+      "line-start": 20,
+      "sentence": 79,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      10,
+      10
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Eph": {
+     "verses": 146,
+     "clementine_verses": 155,
+     "present": 146,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 87,
+     "number_read_with_fix": 24,
+     "number_inferred": 29,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 69,
+      "line-start": 20,
+      "sentence": 51
+     },
+     "running_heads_agree": [
+      10,
+      10
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Phil": {
+     "verses": 99,
+     "clementine_verses": 104,
+     "present": 99,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 51,
+     "number_read_with_fix": 21,
+     "number_inferred": 23,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 30,
+      "line-start": 14,
+      "sentence": 50,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Col": {
+     "verses": 92,
+     "clementine_verses": 95,
+     "present": 92,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 49,
+     "number_read_with_fix": 20,
+     "number_inferred": 19,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 34,
+      "line-start": 11,
+      "sentence": 42,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 3,
+     "resolution": "verse"
+    },
+    "1Thess": {
+     "verses": 77,
+     "clementine_verses": 89,
+     "present": 77,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 41,
+     "number_read_with_fix": 18,
+     "number_inferred": 13,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 22,
+      "line-start": 9,
+      "sentence": 41
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Thess": {
+     "verses": 44,
+     "clementine_verses": 47,
+     "present": 44,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 23,
+     "number_read_with_fix": 11,
+     "number_inferred": 7,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 13,
+      "line-start": 8,
+      "sentence": 19,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      4,
+      4
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1Tim": {
+     "verses": 109,
+     "clementine_verses": 113,
+     "present": 109,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 61,
+     "number_read_with_fix": 28,
+     "number_inferred": 14,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 33,
+      "line-start": 11,
+      "sentence": 56,
+      "sentence-before": 1,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Tim": {
+     "verses": 76,
+     "clementine_verses": 83,
+     "present": 76,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 37,
+     "number_read_with_fix": 20,
+     "number_inferred": 16,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 14,
+      "line-start": 14,
+      "sentence": 44,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Titus": {
+     "verses": 42,
+     "clementine_verses": 46,
+     "present": 42,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 14,
+     "number_read_with_fix": 10,
+     "number_inferred": 15,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 18,
+      "line-start": 3,
+      "sentence": 17,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Phlm": {
+     "verses": 23,
+     "clementine_verses": 25,
+     "present": 23,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 15,
+     "number_read_with_fix": 5,
+     "number_inferred": 2,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 13,
+      "line-start": 3,
+      "sentence": 6
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 2,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "Heb": {
+     "verses": 262,
+     "clementine_verses": 303,
+     "present": 262,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 128,
+     "number_read_with_fix": 58,
+     "number_inferred": 63,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 70,
+      "line-start": 23,
+      "sentence": 152,
+      "sentence-before": 1,
+      "sentence-first": 3
+     },
+     "running_heads_agree": [
+      24,
+      24
+     ],
+     "stray_markers": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Acts": {
+     "verses": 948,
+     "clementine_verses": 1004,
+     "present": 945,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 0,
+     "number_read": 557,
+     "number_read_with_fix": 135,
+     "number_inferred": 229,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 142,
+      "line-start": 138,
+      "sentence": 634,
+      "sentence-before": 2,
+      "sentence-first": 5
+     },
+     "running_heads_agree": [
+      77,
+      77
+     ],
+     "rubric_lines_dropped": 2,
+     "resolution": "verse"
+    },
+    "Jas": {
+     "verses": 99,
+     "clementine_verses": 108,
+     "present": 99,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 44,
+     "number_read_with_fix": 21,
+     "number_inferred": 29,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 21,
+      "line-start": 16,
+      "sentence": 57
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "1Pet": {
+     "verses": 96,
+     "clementine_verses": 105,
+     "present": 96,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 48,
+     "number_read_with_fix": 17,
+     "number_inferred": 26,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 33,
+      "line-start": 13,
+      "sentence": 44,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Pet": {
+     "verses": 56,
+     "clementine_verses": 61,
+     "present": 56,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 27,
+     "number_read_with_fix": 13,
+     "number_inferred": 14,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 17,
+      "line-start": 7,
+      "sentence": 29,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1John": {
+     "verses": 101,
+     "clementine_verses": 105,
+     "present": 93,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 8,
+     "number_read": 48,
+     "number_read_with_fix": 22,
+     "number_inferred": 26,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 11,
+      "line-start": 14,
+      "sentence": 70,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2John": {
+     "verses": 21,
+     "clementine_verses": 13,
+     "present": 13,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 8,
+     "number_read": 11,
+     "number_read_with_fix": 6,
+     "number_inferred": 4,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 5,
+      "line-start": 3,
+      "sentence": 13
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 1,
+     "chapter_1_not_marked": 1,
+     "resolution": "verse"
+    },
+    "3John": {
+     "verses": 13,
+     "clementine_verses": 14,
+     "present": 13,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 6,
+     "number_read_with_fix": 2,
+     "number_inferred": 5,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 3,
+      "line-start": 2,
+      "sentence": 8
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 1,
+     "chapter_1_not_marked": 1,
+     "resolution": "verse"
+    },
+    "Jude": {
+     "verses": 25,
+     "clementine_verses": 25,
+     "present": 25,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 18,
+     "number_read_with_fix": 3,
+     "number_inferred": 3,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 7,
+      "line-start": 3,
+      "sentence": 14
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 3,
+     "resolution": "verse"
+    },
+    "Rev": {
+     "verses": 374,
+     "clementine_verses": 405,
+     "present": 374,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 183,
+     "number_read_with_fix": 72,
+     "number_inferred": 97,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 51,
+      "line-start": 44,
+      "sentence": 248,
+      "sentence-before": 1,
+      "sentence-first": 8
+     },
+     "running_heads_agree": [
+      37,
+      37
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    }
+   },
+   "mode_bar": {
+    "coverage": 0.75,
+    "read": 0.4
+   }
+  },
+  "built_sha256": "5724fa15f66c6ea8698abf02ac282b7bc0352d2b1239c58dbcbf68a1d4225628"
+ },
+ "wycliffe-later": {
+  "title": "The Wycliffite Bible, the later version (c. 1395) (Forshall and Madden 1850)",
+  "author": "John Wycliffe and his followers; ed. Josiah Forshall and Frederic Madden",
+  "format": "ia-hocr",
+  "sha256": "610c5bec697a3d68ab2a12e587223e8b2fccabc5b95e0500e672d76d0d8ef31a",
+  "units": 29494,
+  "scheme": {
+   "citation": "Book.chapter.verse in the Clementine Vulgate's numbering (F&M number as the Vulgate); ids not linked to kjv: units, each unit's `kjv` resolves it",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the margin OCR of the 1850 scans; each unit says how its number was got (scan.number: read as printed, read with a letter-for-digit fix, inferred from the sequence, or 'heading' for a chapter's first verse, which follows its heading unnumbered); a verse that begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a book below the bar is given by scan leaf, not by verse",
+   "note": "Josiah Forshall and Frederic Madden (eds), The Holy Bible, containing the Old and New Testaments, with the Apocryphal Books, in the earliest English versions made from the Latin Vulgate by John Wycliffe and his followers, 4 vols (Oxford: University Press, 1850); the later version (c. 1395), F&M's right column"
+  },
+  "source": {
+   "format": "ia-hocr",
+   "volumes": {
+    "1": {
+     "ia": "holybiblecontain01wycluoft",
+     "sha256": "894d26547e8f8d75f86f6fd7dba0943a8055bbcfb13c9d50f177af87e3f8c72d"
+    },
+    "2": {
+     "ia": "holybiblecontain02wycluoft",
+     "sha256": "f1dce32502f7654db2178082a53b021777732b63b6d32c72f863d8095c76b937"
+    },
+    "3": {
+     "ia": "holybiblecontain03wycluoft",
+     "sha256": "9e460c596cd2a62f3597fe3fbb2f901be3cb6919fcb4aa595a58cccab1b32500"
+    },
+    "4": {
+     "ia": "holybiblecontain04wycluoft",
+     "sha256": "a5e6ebc5c74ac67016cccc48930e3eb6b96e4514c8be3c439e957a0a9293c504"
+    }
+   }
+  },
+  "rights": {
+   "license": "public domain (published 1850); the scans and their OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, holybiblecontain01-04wycluoft (University of Toronto, Robarts Library copy)",
+   "source_url": "https://archive.org/details/holybiblecontain01wycluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "total": {
+    "verses": 31186,
+    "clementine_verses": 35809,
+    "present": 30625,
+    "beyond_clementine": 290,
+    "duplicate_numbers": 271,
+    "number_read": 16376,
+    "number_read_with_fix": 5643,
+    "number_inferred": 7972,
+    "verse_1_after_heading": 150,
+    "books_by_verse": 69,
+    "books_by_leaf": 4,
+    "kjv_resolved": 26207,
+    "ebible_agreement": {
+     "compared": 8526,
+     "agree": 6967,
+     "partly": 577,
+     "disagree": 982
+    }
+   },
+   "books": {
+    "Gen": {
+     "verses": 1383,
+     "clementine_verses": 1530,
+     "present": 1381,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 938,
+     "number_read_with_fix": 206,
+     "number_inferred": 190,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 377,
+      "line-start": 171,
+      "sentence": 751,
+      "sentence-before": 27,
+      "sentence-first": 8
+     },
+     "running_heads_agree": [
+      106,
+      106
+     ],
+     "gloss_words_dropped": 63,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "ebible_agreement": {
+      "compared": 1378,
+      "agree": 1254,
+      "partly": 67,
+      "disagree": 57
+     },
+     "resolution": "verse"
+    },
+    "Exod": {
+     "verses": 1133,
+     "clementine_verses": 1211,
+     "present": 1115,
+     "beyond_clementine": 7,
+     "duplicate_numbers": 11,
+     "number_read": 671,
+     "number_read_with_fix": 198,
+     "number_inferred": 224,
+     "verse_1_after_heading": 4,
+     "start": {
+      "line": 377,
+      "line-start": 111,
+      "sentence": 594,
+      "sentence-before": 9,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      92,
+      94
+     ],
+     "gloss_words_dropped": 407,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 11,
+     "ebible_agreement": {
+      "compared": 1124,
+      "agree": 862,
+      "partly": 80,
+      "disagree": 182
+     },
+     "resolution": "verse"
+    },
+    "Lev": {
+     "verses": 780,
+     "clementine_verses": 858,
+     "present": 779,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 473,
+     "number_read_with_fix": 141,
+     "number_inferred": 143,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 327,
+      "line-start": 72,
+      "sentence": 339,
+      "sentence-before": 10,
+      "sentence-first": 9
+     },
+     "running_heads_agree": [
+      65,
+      65
+     ],
+     "gloss_words_dropped": 292,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 13,
+     "ebible_agreement": {
+      "compared": 778,
+      "agree": 615,
+      "partly": 60,
+      "disagree": 103
+     },
+     "resolution": "verse"
+    },
+    "Num": {
+     "verses": 1185,
+     "clementine_verses": 1288,
+     "present": 1167,
+     "beyond_clementine": 7,
+     "duplicate_numbers": 11,
+     "number_read": 734,
+     "number_read_with_fix": 195,
+     "number_inferred": 226,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 477,
+      "line-start": 117,
+      "sentence": 547,
+      "sentence-before": 11,
+      "sentence-first": 3
+     },
+     "running_heads_agree": [
+      93,
+      93
+     ],
+     "gloss_words_dropped": 440,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 13,
+     "ebible_agreement": {
+      "compared": 1176,
+      "agree": 849,
+      "partly": 120,
+      "disagree": 207
+     },
+     "resolution": "verse"
+    },
+    "Deut": {
+     "verses": 846,
+     "clementine_verses": 959,
+     "present": 837,
+     "beyond_clementine": 9,
+     "duplicate_numbers": 0,
+     "number_read": 425,
+     "number_read_with_fix": 166,
+     "number_inferred": 223,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 298,
+      "line-start": 92,
+      "sentence": 411,
+      "sentence-before": 9,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      81,
+      81
+     ],
+     "gloss_words_dropped": 458,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 12,
+     "ebible_agreement": {
+      "compared": 837,
+      "agree": 577,
+      "partly": 71,
+      "disagree": 189
+     },
+     "resolution": "verse"
+    },
+    "Josh": {
+     "verses": 578,
+     "clementine_verses": 658,
+     "present": 575,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 0,
+     "number_read": 342,
+     "number_read_with_fix": 98,
+     "number_inferred": 117,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 234,
+      "line-start": 77,
+      "sentence": 234,
+      "sentence-before": 10,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      50,
+      50
+     ],
+     "gloss_words_dropped": 173,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 3,
+     "resolution": "verse"
+    },
+    "Judg": {
+     "verses": 589,
+     "clementine_verses": 618,
+     "present": 575,
+     "beyond_clementine": 9,
+     "duplicate_numbers": 5,
+     "number_read": 293,
+     "number_read_with_fix": 107,
+     "number_inferred": 169,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 158,
+      "line-start": 71,
+      "sentence": 333,
+      "sentence-before": 5,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      57,
+      58
+     ],
+     "gloss_words_dropped": 507,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 9,
+     "resolution": "verse"
+    },
+    "Ruth": {
+     "verses": 70,
+     "clementine_verses": 85,
+     "present": 70,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 38,
+     "number_read_with_fix": 7,
+     "number_inferred": 21,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 14,
+      "line-start": 9,
+      "sentence": 39,
+      "sentence-before": 2,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "gloss_words_dropped": 34,
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "1Sam": {
+     "verses": 772,
+     "clementine_verses": 811,
+     "present": 759,
+     "beyond_clementine": 13,
+     "duplicate_numbers": 0,
+     "number_read": 379,
+     "number_read_with_fix": 139,
+     "number_inferred": 225,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 157,
+      "line-start": 109,
+      "sentence": 462,
+      "sentence-before": 9,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      56,
+      56
+     ],
+     "gloss_words_dropped": 688,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 9,
+     "resolution": "verse"
+    },
+    "2Sam": {
+     "verses": 637,
+     "clementine_verses": 695,
+     "present": 624,
+     "beyond_clementine": 13,
+     "duplicate_numbers": 0,
+     "number_read": 252,
+     "number_read_with_fix": 129,
+     "number_inferred": 233,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 171,
+      "line-start": 72,
+      "sentence": 360,
+      "sentence-before": 9,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      33,
+      33
+     ],
+     "gloss_words_dropped": 873,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 12,
+     "resolution": "verse"
+    },
+    "1Kgs": {
+     "verses": 776,
+     "clementine_verses": 817,
+     "present": 755,
+     "beyond_clementine": 16,
+     "duplicate_numbers": 5,
+     "number_read": 322,
+     "number_read_with_fix": 164,
+     "number_inferred": 270,
+     "verse_1_after_heading": 5,
+     "start": {
+      "line": 219,
+      "line-start": 88,
+      "sentence": 433,
+      "sentence-before": 14,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      29,
+      31
+     ],
+     "gloss_words_dropped": 922,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 24,
+     "resolution": "verse"
+    },
+    "2Kgs": {
+     "verses": 709,
+     "clementine_verses": 719,
+     "present": 667,
+     "beyond_clementine": 19,
+     "duplicate_numbers": 23,
+     "number_read": 293,
+     "number_read_with_fix": 145,
+     "number_inferred": 248,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 191,
+      "line-start": 73,
+      "sentence": 415,
+      "sentence-before": 5,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      41,
+      42
+     ],
+     "gloss_words_dropped": 882,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 28,
+     "resolution": "verse"
+    },
+    "1Chr": {
+     "verses": 804,
+     "clementine_verses": 940,
+     "present": 796,
+     "beyond_clementine": 8,
+     "duplicate_numbers": 0,
+     "number_read": 472,
+     "number_read_with_fix": 151,
+     "number_inferred": 155,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 250,
+      "line-start": 91,
+      "sentence": 424,
+      "sentence-before": 4,
+      "sentence-first": 9
+     },
+     "running_heads_agree": [
+      59,
+      59
+     ],
+     "gloss_words_dropped": 165,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 7,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "2Chr": {
+     "verses": 710,
+     "clementine_verses": 822,
+     "present": 708,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 400,
+     "number_read_with_fix": 129,
+     "number_inferred": 145,
+     "verse_1_after_heading": 5,
+     "start": {
+      "line": 138,
+      "line-start": 99,
+      "sentence": 427,
+      "sentence-before": 7,
+      "sentence-first": 3
+     },
+     "running_heads_agree": [
+      45,
+      45
+     ],
+     "gloss_words_dropped": 138,
+     "stray_markers": 3,
+     "rows_after_last_clementine_chapter_dropped": 124,
+     "resolution": "verse"
+    },
+    "Ezra": {
+     "verses": 267,
+     "clementine_verses": 280,
+     "present": 258,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 6,
+     "number_read": 152,
+     "number_read_with_fix": 44,
+     "number_inferred": 61,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 114,
+      "line-start": 18,
+      "sentence": 117,
+      "sentence-before": 5,
+      "sentence-first": 3
+     },
+     "running_heads_agree": [
+      13,
+      13
+     ],
+     "gloss_words_dropped": 108,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Neh": {
+     "verses": 324,
+     "clementine_verses": 404,
+     "present": 321,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 0,
+     "number_read": 164,
+     "number_read_with_fix": 69,
+     "number_inferred": 78,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 126,
+      "line-start": 33,
+      "sentence": 145,
+      "sentence-before": 5,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      11,
+      11
+     ],
+     "gloss_words_dropped": 156,
+     "stray_markers": 6,
+     "single_column_leaves_skipped": 1,
+     "rows_after_last_clementine_chapter_dropped": 85,
+     "resolution": "verse"
+    },
+    "Tob": {
+     "verses": 242,
+     "clementine_verses": 298,
+     "present": 238,
+     "beyond_clementine": 4,
+     "duplicate_numbers": 0,
+     "number_read": 115,
+     "number_read_with_fix": 54,
+     "number_inferred": 59,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 58,
+      "line-start": 34,
+      "sentence": 135,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "gloss_words_dropped": 249,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 5,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Jdt": {
+     "verses": 293,
+     "clementine_verses": 346,
+     "present": 293,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 143,
+     "number_read_with_fix": 65,
+     "number_inferred": 70,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 67,
+      "line-start": 32,
+      "sentence": 177,
+      "sentence-before": 2
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "gloss_words_dropped": 128,
+     "rubric_lines_dropped": 2,
+     "resolution": "verse"
+    },
+    "Esth": {
+     "verses": 244,
+     "clementine_verses": 275,
+     "present": 237,
+     "beyond_clementine": 7,
+     "duplicate_numbers": 0,
+     "number_read": 115,
+     "number_read_with_fix": 42,
+     "number_inferred": 72,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 74,
+      "line-start": 27,
+      "sentence": 125,
+      "sentence-before": 2,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "gloss_words_dropped": 119,
+     "rubric_lines_dropped": 2,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Job": {
+     "verses": 836,
+     "clementine_verses": 1070,
+     "present": 817,
+     "beyond_clementine": 19,
+     "duplicate_numbers": 0,
+     "number_read": 252,
+     "number_read_with_fix": 177,
+     "number_inferred": 372,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 240,
+      "line-start": 82,
+      "sentence": 458,
+      "sentence-before": 17,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      10,
+      11
+     ],
+     "gloss_words_dropped": 1692,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 15,
+     "resolution": "verse"
+    },
+    "Ps": {
+     "verses": 2196,
+     "clementine_verses": 2527,
+     "present": 2174,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 19,
+     "number_read": 1272,
+     "number_read_with_fix": 402,
+     "number_inferred": 378,
+     "verse_1_after_heading": 52,
+     "start": {
+      "line": 158,
+      "line-start": 420,
+      "sentence": 1416,
+      "sentence-before": 46,
+      "sentence-first": 12
+     },
+     "running_heads_agree": [
+      65,
+      66
+     ],
+     "gloss_words_dropped": 298,
+     "stray_markers": 11,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Prov": {
+     "verses": 585,
+     "clementine_verses": 915,
+     "present": 569,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 13,
+     "number_read": 126,
+     "number_read_with_fix": 109,
+     "number_inferred": 329,
+     "verse_1_after_heading": 4,
+     "start": {
+      "line": 183,
+      "line-start": 53,
+      "sentence": 304,
+      "sentence-before": 23,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      32,
+      34
+     ],
+     "gloss_words_dropped": 1430,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 7,
+     "resolution": "page",
+     "refused": "verse decoding below the bar (Clementine verses present 62%, numbers read 40%): built by scan leaf instead"
+    },
+    "Eccl": {
+     "verses": 195,
+     "clementine_verses": 222,
+     "present": 186,
+     "beyond_clementine": 9,
+     "duplicate_numbers": 0,
+     "number_read": 48,
+     "number_read_with_fix": 44,
+     "number_inferred": 97,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 64,
+      "line-start": 26,
+      "sentence": 94,
+      "sentence-before": 3,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      15,
+      15
+     ],
+     "gloss_words_dropped": 622,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 4,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "Song": {
+     "verses": 110,
+     "clementine_verses": 116,
+     "present": 93,
+     "beyond_clementine": 11,
+     "duplicate_numbers": 6,
+     "number_read": 33,
+     "number_read_with_fix": 17,
+     "number_inferred": 56,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 50,
+      "line-start": 11,
+      "sentence": 45
+     },
+     "running_heads_agree": [
+      9,
+      9
+     ],
+     "gloss_words_dropped": 269,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Wis": {
+     "verses": 416,
+     "clementine_verses": 439,
+     "present": 357,
+     "beyond_clementine": 23,
+     "duplicate_numbers": 36,
+     "number_read": 113,
+     "number_read_with_fix": 74,
+     "number_inferred": 218,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 190,
+      "line-start": 42,
+      "sentence": 167,
+      "sentence-before": 6
+     },
+     "running_heads_agree": [
+      27,
+      28
+     ],
+     "gloss_words_dropped": 1253,
+     "stray_markers": 2,
+     "single_column_leaves_skipped": 1,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "Sir": {
+     "verses": 1252,
+     "clementine_verses": 1592,
+     "present": 1146,
+     "beyond_clementine": 22,
+     "duplicate_numbers": 84,
+     "number_read": 283,
+     "number_read_with_fix": 225,
+     "number_inferred": 715,
+     "verse_1_after_heading": 7,
+     "start": {
+      "line": 483,
+      "line-start": 110,
+      "sentence": 612,
+      "sentence-before": 18
+     },
+     "running_heads_agree": [
+      64,
+      68
+     ],
+     "gloss_words_dropped": 3164,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 16,
+     "resolution": "page",
+     "refused": "verse decoding below the bar (Clementine verses present 72%, numbers read 41%): built by scan leaf instead"
+    },
+    "Isa": {
+     "verses": 1122,
+     "clementine_verses": 1292,
+     "present": 1118,
+     "beyond_clementine": 4,
+     "duplicate_numbers": 0,
+     "number_read": 632,
+     "number_read_with_fix": 190,
+     "number_inferred": 236,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 180,
+      "line-start": 146,
+      "sentence": 705,
+      "sentence-before": 14,
+      "sentence-first": 13
+     },
+     "running_heads_agree": [
+      89,
+      89
+     ],
+     "gloss_words_dropped": 550,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 12,
+     "resolution": "verse"
+    },
+    "Jer": {
+     "verses": 1137,
+     "clementine_verses": 1363,
+     "present": 1135,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 627,
+     "number_read_with_fix": 211,
+     "number_inferred": 250,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 200,
+      "line-start": 145,
+      "sentence": 725,
+      "sentence-before": 3,
+      "sentence-first": 15
+     },
+     "running_heads_agree": [
+      113,
+      113
+     ],
+     "gloss_words_dropped": 104,
+     "stray_markers": 2,
+     "resolution": "verse"
+    },
+    "Lam": {
+     "verses": 122,
+     "clementine_verses": 154,
+     "present": 122,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 75,
+     "number_read_with_fix": 21,
+     "number_inferred": 22,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 2,
+      "line-start": 16,
+      "sentence": 27,
+      "sentence-before": 1,
+      "sentence-first": 72
+     },
+     "running_heads_agree": [
+      9,
+      9
+     ],
+     "gloss_words_dropped": 6,
+     "rubric_lines_dropped": 3,
+     "resolution": "verse"
+    },
+    "Bar": {
+     "verses": 195,
+     "clementine_verses": 213,
+     "present": 188,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 6,
+     "number_read": 115,
+     "number_read_with_fix": 42,
+     "number_inferred": 32,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 34,
+      "line-start": 27,
+      "sentence": 126,
+      "sentence-before": 2
+     },
+     "running_heads_agree": [
+      15,
+      15
+     ],
+     "gloss_words_dropped": 51,
+     "rubric_lines_dropped": 2,
+     "stray_markers": 3,
+     "resolution": "verse"
+    },
+    "Ezek": {
+     "verses": 1065,
+     "clementine_verses": 1272,
+     "present": 1065,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 598,
+     "number_read_with_fix": 213,
+     "number_inferred": 210,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 215,
+      "line-start": 133,
+      "sentence": 648,
+      "sentence-before": 19,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      105,
+      106
+     ],
+     "gloss_words_dropped": 35,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 4,
+     "resolution": "verse"
+    },
+    "Dan": {
+     "verses": 472,
+     "clementine_verses": 531,
+     "present": 462,
+     "beyond_clementine": 10,
+     "duplicate_numbers": 0,
+     "number_read": 289,
+     "number_read_with_fix": 79,
+     "number_inferred": 92,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 81,
+      "line-start": 74,
+      "sentence": 303,
+      "sentence-before": 2
+     },
+     "running_heads_agree": [
+      40,
+      41
+     ],
+     "gloss_words_dropped": 210,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 4,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Hos": {
+     "verses": 165,
+     "clementine_verses": 198,
+     "present": 163,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 83,
+     "number_read_with_fix": 35,
+     "number_inferred": 34,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 14,
+      "line-start": 21,
+      "sentence": 111,
+      "sentence-before": 4,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      14,
+      14
+     ],
+     "gloss_words_dropped": 21,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Joel": {
+     "verses": 58,
+     "clementine_verses": 73,
+     "present": 58,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 35,
+     "number_read_with_fix": 12,
+     "number_inferred": 9,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 7,
+      "line-start": 5,
+      "sentence": 43,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Amos": {
+     "verses": 134,
+     "clementine_verses": 147,
+     "present": 128,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 5,
+     "number_read": 71,
+     "number_read_with_fix": 27,
+     "number_inferred": 27,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 12,
+      "line-start": 21,
+      "sentence": 89,
+      "sentence-before": 1,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Obad": {
+     "verses": 19,
+     "clementine_verses": 21,
+     "present": 19,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 12,
+     "number_read_with_fix": 5,
+     "number_inferred": 2,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 3,
+      "line-start": 4,
+      "sentence": 12
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 1,
+     "chapter_1_not_marked": 1,
+     "resolution": "verse"
+    },
+    "Jonah": {
+     "verses": 39,
+     "clementine_verses": 48,
+     "present": 39,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 16,
+     "number_read_with_fix": 10,
+     "number_inferred": 9,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 3,
+      "line-start": 5,
+      "sentence": 27
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Mic": {
+     "verses": 81,
+     "clementine_verses": 104,
+     "present": 81,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 38,
+     "number_read_with_fix": 15,
+     "number_inferred": 23,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 10,
+      "line-start": 11,
+      "sentence": 55
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "gloss_words_dropped": 4,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Nah": {
+     "verses": 42,
+     "clementine_verses": 47,
+     "present": 42,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 25,
+     "number_read_with_fix": 6,
+     "number_inferred": 8,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 3,
+      "line-start": 7,
+      "sentence": 27,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      4,
+      4
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Hab": {
+     "verses": 48,
+     "clementine_verses": 56,
+     "present": 48,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 31,
+     "number_read_with_fix": 7,
+     "number_inferred": 7,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 1,
+      "line-start": 11,
+      "sentence": 33
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "gloss_words_dropped": 6,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Zeph": {
+     "verses": 46,
+     "clementine_verses": 53,
+     "present": 46,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 26,
+     "number_read_with_fix": 8,
+     "number_inferred": 10,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 6,
+      "line-start": 6,
+      "sentence": 31,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      2,
+      2
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Hag": {
+     "verses": 36,
+     "clementine_verses": 38,
+     "present": 36,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 13,
+     "number_read_with_fix": 2,
+     "number_inferred": 19,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 14,
+      "line-start": 4,
+      "sentence": 16
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "gloss_words_dropped": 26,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Zech": {
+     "verses": 174,
+     "clementine_verses": 211,
+     "present": 173,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 78,
+     "number_read_with_fix": 36,
+     "number_inferred": 47,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 25,
+      "line-start": 21,
+      "sentence": 114,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      16,
+      17
+     ],
+     "gloss_words_dropped": 4,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Mal": {
+     "verses": 47,
+     "clementine_verses": 55,
+     "present": 47,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 20,
+     "number_read_with_fix": 10,
+     "number_inferred": 14,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 6,
+      "line-start": 7,
+      "sentence": 28,
+      "sentence-before": 1,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      4,
+      4
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1Macc": {
+     "verses": 823,
+     "clementine_verses": 929,
+     "present": 821,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 515,
+     "number_read_with_fix": 141,
+     "number_inferred": 152,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 139,
+      "line-start": 129,
+      "sentence": 535,
+      "sentence-before": 4,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      54,
+      54
+     ],
+     "gloss_words_dropped": 166,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 5,
+     "resolution": "verse"
+    },
+    "2Macc": {
+     "verses": 486,
+     "clementine_verses": 558,
+     "present": 480,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 6,
+     "number_read": 294,
+     "number_read_with_fix": 70,
+     "number_inferred": 108,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 101,
+      "line-start": 62,
+      "sentence": 304,
+      "sentence-before": 3,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      25,
+      26
+     ],
+     "gloss_words_dropped": 138,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Matt": {
+     "verses": 889,
+     "clementine_verses": 1070,
+     "present": 889,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 576,
+     "number_read_with_fix": 142,
+     "number_inferred": 144,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 133,
+      "line-start": 133,
+      "sentence": 581,
+      "sentence-before": 3,
+      "sentence-first": 12
+     },
+     "running_heads_agree": [
+      65,
+      65
+     ],
+     "single_column_leaves_skipped": 1,
+     "ebible_agreement": {
+      "compared": 889,
+      "agree": 752,
+      "partly": 67,
+      "disagree": 70
+     },
+     "resolution": "verse"
+    },
+    "Mark": {
+     "verses": 597,
+     "clementine_verses": 677,
+     "present": 597,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 412,
+     "number_read_with_fix": 79,
+     "number_inferred": 90,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 66,
+      "line-start": 96,
+      "sentence": 411,
+      "sentence-before": 7,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      48,
+      49
+     ],
+     "gloss_words_dropped": 9,
+     "rubric_lines_dropped": 4,
+     "stray_markers": 1,
+     "single_column_leaves_skipped": 1,
+     "ebible_agreement": {
+      "compared": 597,
+      "agree": 508,
+      "partly": 20,
+      "disagree": 69
+     },
+     "resolution": "verse"
+    },
+    "Luke": {
+     "verses": 998,
+     "clementine_verses": 1151,
+     "present": 997,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 684,
+     "number_read_with_fix": 154,
+     "number_inferred": 137,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 138,
+      "line-start": 128,
+      "sentence": 697,
+      "sentence-before": 6,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      82,
+      82
+     ],
+     "gloss_words_dropped": 14,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 2,
+     "chapter_1_from_rubric": 1,
+     "ebible_agreement": {
+      "compared": 997,
+      "agree": 902,
+      "partly": 49,
+      "disagree": 46
+     },
+     "resolution": "verse"
+    },
+    "John": {
+     "verses": 750,
+     "clementine_verses": 879,
+     "present": 750,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 511,
+     "number_read_with_fix": 114,
+     "number_inferred": 106,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 72,
+      "line-start": 103,
+      "sentence": 546,
+      "sentence-before": 4,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      44,
+      45
+     ],
+     "gloss_words_dropped": 11,
+     "rubric_lines_dropped": 2,
+     "single_column_leaves_skipped": 1,
+     "chapter_1_from_rubric": 1,
+     "ebible_agreement": {
+      "compared": 750,
+      "agree": 648,
+      "partly": 43,
+      "disagree": 59
+     },
+     "resolution": "verse"
+    },
+    "Rom": {
+     "verses": 413,
+     "clementine_verses": 433,
+     "present": 402,
+     "beyond_clementine": 11,
+     "duplicate_numbers": 0,
+     "number_read": 208,
+     "number_read_with_fix": 77,
+     "number_inferred": 114,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 111,
+      "line-start": 44,
+      "sentence": 226,
+      "sentence-before": 9,
+      "sentence-first": 9
+     },
+     "running_heads_agree": [
+      30,
+      30
+     ],
+     "gloss_words_dropped": 443,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 16,
+     "resolution": "verse"
+    },
+    "1Cor": {
+     "verses": 394,
+     "clementine_verses": 437,
+     "present": 388,
+     "beyond_clementine": 6,
+     "duplicate_numbers": 0,
+     "number_read": 205,
+     "number_read_with_fix": 69,
+     "number_inferred": 107,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 104,
+      "line-start": 47,
+      "sentence": 223,
+      "sentence-before": 3,
+      "sentence-first": 4
+     },
+     "running_heads_agree": [
+      28,
+      28
+     ],
+     "gloss_words_dropped": 420,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 6,
+     "resolution": "verse"
+    },
+    "2Cor": {
+     "verses": 220,
+     "clementine_verses": 255,
+     "present": 214,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 6,
+     "number_read": 96,
+     "number_read_with_fix": 48,
+     "number_inferred": 65,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 62,
+      "line-start": 29,
+      "sentence": 115,
+      "sentence-before": 1,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      20,
+      20
+     ],
+     "gloss_words_dropped": 162,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Gal": {
+     "verses": 132,
+     "clementine_verses": 149,
+     "present": 132,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 85,
+     "number_read_with_fix": 16,
+     "number_inferred": 26,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 24,
+      "line-start": 22,
+      "sentence": 78,
+      "sentence-before": 2,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      10,
+      10
+     ],
+     "gloss_words_dropped": 27,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 4,
+     "resolution": "verse"
+    },
+    "Eph": {
+     "verses": 128,
+     "clementine_verses": 155,
+     "present": 128,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 70,
+     "number_read_with_fix": 27,
+     "number_inferred": 26,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 61,
+      "line-start": 16,
+      "sentence": 45,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      10,
+      10
+     ],
+     "gloss_words_dropped": 28,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "Phil": {
+     "verses": 90,
+     "clementine_verses": 104,
+     "present": 90,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 48,
+     "number_read_with_fix": 22,
+     "number_inferred": 18,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 25,
+      "line-start": 16,
+      "sentence": 45,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "gloss_words_dropped": 1,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Col": {
+     "verses": 83,
+     "clementine_verses": 95,
+     "present": 83,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 58,
+     "number_read_with_fix": 13,
+     "number_inferred": 8,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 29,
+      "line-start": 10,
+      "sentence": 38,
+      "sentence-before": 2
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1Thess": {
+     "verses": 77,
+     "clementine_verses": 89,
+     "present": 77,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 48,
+     "number_read_with_fix": 12,
+     "number_inferred": 12,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 17,
+      "line-start": 13,
+      "sentence": 41,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "gloss_words_dropped": 9,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Thess": {
+     "verses": 40,
+     "clementine_verses": 47,
+     "present": 40,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 21,
+     "number_read_with_fix": 7,
+     "number_inferred": 9,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 14,
+      "line-start": 5,
+      "sentence": 16,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      4,
+      4
+     ],
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1Tim": {
+     "verses": 101,
+     "clementine_verses": 113,
+     "present": 99,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 56,
+     "number_read_with_fix": 20,
+     "number_inferred": 20,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 31,
+      "line-start": 11,
+      "sentence": 52,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      7,
+      7
+     ],
+     "gloss_words_dropped": 8,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Tim": {
+     "verses": 72,
+     "clementine_verses": 83,
+     "present": 72,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 40,
+     "number_read_with_fix": 15,
+     "number_inferred": 13,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 16,
+      "line-start": 6,
+      "sentence": 44,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      2,
+      3
+     ],
+     "gloss_words_dropped": 7,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Titus": {
+     "verses": 43,
+     "clementine_verses": 46,
+     "present": 43,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 18,
+     "number_read_with_fix": 11,
+     "number_inferred": 11,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 20,
+      "line-start": 1,
+      "sentence": 18,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      3,
+      3
+     ],
+     "gloss_words_dropped": 25,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "Phlm": {
+     "verses": 21,
+     "clementine_verses": 25,
+     "present": 21,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 14,
+     "number_read_with_fix": 4,
+     "number_inferred": 2,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 8,
+      "line-start": 2,
+      "sentence": 9,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "rubric_lines_dropped": 1,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "Heb": {
+     "verses": 263,
+     "clementine_verses": 303,
+     "present": 258,
+     "beyond_clementine": 5,
+     "duplicate_numbers": 0,
+     "number_read": 141,
+     "number_read_with_fix": 49,
+     "number_inferred": 62,
+     "verse_1_after_heading": 1,
+     "start": {
+      "line": 77,
+      "line-start": 30,
+      "sentence": 144,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      24,
+      24
+     ],
+     "gloss_words_dropped": 158,
+     "rubric_lines_dropped": 2,
+     "stray_markers": 4,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    },
+    "Acts": {
+     "verses": 910,
+     "clementine_verses": 1004,
+     "present": 876,
+     "beyond_clementine": 11,
+     "duplicate_numbers": 23,
+     "number_read": 369,
+     "number_read_with_fix": 165,
+     "number_inferred": 351,
+     "verse_1_after_heading": 3,
+     "start": {
+      "line": 263,
+      "line-start": 86,
+      "sentence": 526,
+      "sentence-before": 8,
+      "sentence-first": 2
+     },
+     "running_heads_agree": [
+      76,
+      76
+     ],
+     "gloss_words_dropped": 1469,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 20,
+     "resolution": "verse"
+    },
+    "Jas": {
+     "verses": 103,
+     "clementine_verses": 108,
+     "present": 101,
+     "beyond_clementine": 2,
+     "duplicate_numbers": 0,
+     "number_read": 18,
+     "number_read_with_fix": 28,
+     "number_inferred": 53,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 37,
+      "line-start": 11,
+      "sentence": 46,
+      "sentence-before": 5
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "gloss_words_dropped": 205,
+     "rubric_lines_dropped": 1,
+     "stray_markers": 1,
+     "resolution": "verse"
+    },
+    "1Pet": {
+     "verses": 93,
+     "clementine_verses": 105,
+     "present": 84,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 6,
+     "number_read": 27,
+     "number_read_with_fix": 16,
+     "number_inferred": 45,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 53,
+      "line-start": 9,
+      "sentence": 24,
+      "sentence-before": 1,
+      "sentence-first": 1
+     },
+     "running_heads_agree": [
+      8,
+      8
+     ],
+     "gloss_words_dropped": 177,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2Pet": {
+     "verses": 55,
+     "clementine_verses": 61,
+     "present": 52,
+     "beyond_clementine": 3,
+     "duplicate_numbers": 0,
+     "number_read": 13,
+     "number_read_with_fix": 10,
+     "number_inferred": 30,
+     "verse_1_after_heading": 2,
+     "start": {
+      "line": 24,
+      "line-start": 6,
+      "sentence": 22,
+      "sentence-before": 1
+     },
+     "running_heads_agree": [
+      5,
+      6
+     ],
+     "gloss_words_dropped": 108,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "1John": {
+     "verses": 91,
+     "clementine_verses": 105,
+     "present": 85,
+     "beyond_clementine": 6,
+     "duplicate_numbers": 0,
+     "number_read": 22,
+     "number_read_with_fix": 24,
+     "number_inferred": 41,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 30,
+      "line-start": 7,
+      "sentence": 48,
+      "sentence-before": 2
+     },
+     "running_heads_agree": [
+      6,
+      6
+     ],
+     "gloss_words_dropped": 216,
+     "rubric_lines_dropped": 1,
+     "resolution": "verse"
+    },
+    "2John": {
+     "verses": 10,
+     "clementine_verses": 13,
+     "present": 10,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 3,
+     "number_read_with_fix": 0,
+     "number_inferred": 6,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 1,
+      "line-start": 2,
+      "sentence": 6
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "gloss_words_dropped": 49,
+     "rubric_lines_dropped": 1,
+     "chapter_1_from_rubric": 1,
+     "resolution": "page",
+     "refused": "verse decoding below the bar (Clementine verses present 77%, numbers read 30%): built by scan leaf instead"
+    },
+    "3John": {
+     "verses": 15,
+     "clementine_verses": 14,
+     "present": 14,
+     "beyond_clementine": 1,
+     "duplicate_numbers": 0,
+     "number_read": 2,
+     "number_read_with_fix": 4,
+     "number_inferred": 8,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 4,
+      "sentence": 10
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "gloss_words_dropped": 62,
+     "rubric_lines_dropped": 1,
+     "chapter_1_from_rubric": 1,
+     "resolution": "verse"
+    },
+    "Jude": {
+     "verses": 8,
+     "clementine_verses": 25,
+     "present": 8,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 3,
+     "number_read_with_fix": 3,
+     "number_inferred": 1,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 1,
+      "line-start": 1,
+      "sentence": 5
+     },
+     "running_heads_agree": [
+      0,
+      0
+     ],
+     "gloss_words_dropped": 34,
+     "rows_after_last_clementine_chapter_dropped": 141,
+     "resolution": "page",
+     "refused": "verse decoding below the bar (Clementine verses present 32%, numbers read 75%): built by scan leaf instead"
+    },
+    "Rev": {
+     "verses": 347,
+     "clementine_verses": 405,
+     "present": 347,
+     "beyond_clementine": 0,
+     "duplicate_numbers": 0,
+     "number_read": 187,
+     "number_read_with_fix": 77,
+     "number_inferred": 62,
+     "verse_1_after_heading": 0,
+     "start": {
+      "line": 50,
+      "line-start": 52,
+      "sentence": 217,
+      "sentence-before": 1,
+      "sentence-first": 6
+     },
+     "running_heads_agree": [
+      37,
+      37
+     ],
+     "gloss_words_dropped": 50,
+     "rubric_lines_dropped": 1,
+     "single_column_leaves_skipped": 1,
+     "resolution": "verse"
+    }
+   },
+   "mode_bar": {
+    "coverage": 0.75,
+    "read": 0.4
+   }
+  },
+  "built_sha256": "9eff391aa74bbff752b2694840427171e331b36a944a972c0fd99840ac722a1f"
  }
 }
