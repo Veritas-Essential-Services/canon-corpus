@@ -2,7 +2,7 @@
 
 <!-- prov: 2026-10-03 drafted (Claude Code) · fable_review: pending -->
 
-Four whole-Bible commentaries keyed to the KJV verse unit ids (`kjv:Gen.1.1`):
+Five whole-Bible commentaries keyed to the KJV verse unit ids (`kjv:Gen.1.1`):
 which verses each comment is on, and which verses it cites. Nothing is minted.
 The ids are read from `data/uids/wordhoard.uids.json` and never written.
 
@@ -12,10 +12,11 @@ The ids are read from `data/uids/wordhoard.uids.json` and never written.
 | Jamieson, Fausset and Brown (1871) | 19,776 | 19,776 | 59,019 | CCEL |
 | Matthew Poole, *Annotations* (1683-85) | 26,208 | 26,208 | 55,433 (+16,020 margin parallels) | EEBO-TCP, hand-keyed first edition |
 | Albert Barnes, *Notes on the New Testament* | 7,947 | 7,947 | 39,586 | CCEL (keyed from Baker's 1949 reprint) |
+| Adam Clarke, *Commentary* (1810-26) | 18,129 | 18,129 | 9,100 | archive.org OCR of two printings of each Testament |
 
 ```
 python3 pipeline/build_commentary.py --fetch    # CCEL's texts, Poole's TCP files, the scans' OCR, all sha256-pinned
-python3 pipeline/build_commentary.py            # build (~1 min)
+python3 pipeline/build_commentary.py            # build (~2 min; Clarke also needs data/corpus/kjv_bible.txt)
 python3 pipeline/build_commentary.py --check    # rebuild in memory: byte-identical to the committed files
 python3 pipeline/build_commentary.py --collate  # CCEL's wording against the period printings -> collation.json
 python3 pipeline/commentary.py kjv:John.3.16    # the comments on a verse, and the comments that cite it
@@ -23,14 +24,14 @@ python3 tests/commentary_test.py                # the reader's commentary rules,
 ```
 
 Not taken here: Gill, Alford, Ellicott, Bengel and Keil-Delitzsch (the
-archive.org pickups thread has them; Gill is on lane A's shelves). Adam
-Clarke is not on CCEL; see section 6.
+archive.org pickups thread has them; Gill is on lane A's shelves).
 
 ## 1. Rows
 
 ```json
 {"id":"jfb:Gen.1.1","on":"kjv:Gen.1.1","anchor":"agrees","cites":["kjv:Ps.33.6","..."],"in_print":2}
 {"id":"poole:Gen.1.1","on":"kjv:Gen.1.1","anchor":"agrees","cites":["kjv:Gen.2.1","..."],"parallels":[]}
+{"id":"clarke:Acts.7.42","on":"kjv:Acts.7.42","anchor":"both printings","cites":["kjv:Amos.5.25"]}
 ```
 
 - `id` is the work plus the passage the comment is on. A second comment on
@@ -175,13 +176,83 @@ be collated against a period printing, or taken from one.
 
 Poole's text is the first edition itself, in 17th-century spelling.
 
-## 6. Adam Clarke
+## 6. Adam Clarke (`clarke_read.py`)
 
-Clarke is not on CCEL: its paths return 404. sacred-texts refuses
-(403). Open archive.org scans exist: the 1843 four-volume set
-(`holybiblecontai01clar` to `04clar`), the 1846 set, and Google scans of
-1836-37. Taking Clarke means OCR alignment like the Treasury's: verse heads
-read from the scans, with two printings agreeing. It is not in this layer yet.
+Clarke is on no keyed site: CCEL has no Clarke (404), and sacred-texts
+refuses (403). So both readings come from the OCR of open archive.org scans,
+two printings of each Testament:
+
+| | first printing | second printing |
+|---|---|---|
+| Old Testament | New York, Lane & Sandford, 1843, four volumes | New York, Lane & Tippett, 1846, four volumes |
+| New Testament | New York, Lane & Tippett, 1846, two volumes | New York, P. D. Myers, 1835, one volume |
+
+The 1843 and 1846 Old Testaments are very likely the same stereotype plates.
+Their agreement mostly removes OCR error, not editorial difference. The two
+New Testaments are set differently.
+
+Not taken: the 1883-84 Phillips & Hunt New Testament. It is Daniel Curry's
+revision, not Clarke's words.
+
+**The page.** The KJV text, its margin and its chronology are at the top,
+and Clarke's notes are below. The OCR runs them together, so a note's text is
+interleaved with Bible text and margin. Each chapter's notes open with
+"NOTES ON CHAP. IV." (or "NOTES ON PSALM XXIII.", or "NOTES.--" in 1835).
+
+**Where a note is.** A note opens with a head: "Verse 17. The priests--stood
+firm on dry ground]" (in 1835, the bare number). The note headings cut the
+notes into runs. A run is cut again where its verse numbers fall back to 1-3,
+which marks a heading the OCR lost. The runs are then aligned in order to the
+volume's chapters by dynamic programming. A run scores, for a chapter, how
+far its lemmas' words are in the KJV verses its heads name. It gains a bonus
+when the heading's Roman numeral, read through its OCR confusions (H for II),
+names that chapter.
+
+A head is placed when at least half of its lemma's words (two or more, of 3+
+letters) are in the KJV verse it names:
+
+| | heads | placed | chapters found |
+|---|---|---|---|
+| OT 1843 | 11,534 | 10,695 | 927 of 929 |
+| OT 1846 | 11,047 | 10,133 | 924 of 929 |
+| NT 1846 | 6,232 | 5,645 | 260 of 260 |
+| NT 1835 | 5,633 | 4,803 | 255 of 260 |
+
+A row is written for every verse either printing places: 13,065 placed in
+both (`anchor: "both printings"`) and 5,064 in one (`"one printing"`).
+
+**What a note cites.** The text runs from the head to the next head, cut at
+the next chapter, and is read paragraph by paragraph. These paragraphs are
+dropped:
+
+- the chronology margin and page feet (11,496);
+- the Bible text, where half of its word pairs are in this chapter's KJV or
+  the next one's (63,405);
+- the margin's references (34,276). These are letter-marked references,
+  "Or," and "Heb." glosses, or a run of references with no prose in it.
+
+`topical_read.refs()` reads what is left, with Clarke's forms: lower-case
+Roman chapters, and "ver. 10" and "chap. iii. 17" read in the note's own book
+and chapter. Two kinds of reading are not kept:
+
+- "ver. 407" just after a classical work ("Iliad i., ver. 407"). That is
+  Homer's line, not a verse.
+- A citation of the note's own verse (471).
+
+**A citation is committed only when both printings read it in their notes on
+the same verse.** 9,100 are. 15,130 are read in one printing only. They go to
+`build/commentary/clarke.rejected.jsonl`, with the printing that read them.
+
+The Treasury check (section 3) puts Clarke's citations near Poole's notes:
+23.0% at that verse, 0.25% at an unrelated one.
+
+**What it is not.** The head placement and the citations are only as good as
+the OCR and these rules. A Bible-text or margin paragraph the rules miss is
+read as the note's. The two-printing vote catches that in the New Testament,
+where the pages are set differently. In the Old Testament it catches it less
+well, because the plates are the same. The prose in
+`build/commentary/clarke.text.jsonl` is unproofread OCR of the printing
+named, and its rows say so.
 
 ## 7. Not committed, not claimed
 

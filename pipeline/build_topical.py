@@ -230,7 +230,7 @@ def kjv_id(t, shape, books):
         v = 1
     if v2 is None:
         v2 = ch[c2]
-    if v > ch[c] or v2 > ch[c2] or (c2, v2) < (c, v):
+    if v < 1 or v2 < 1 or v > ch[c] or v2 > ch[c2] or (c2, v2) < (c, v):
         return None, "no such verse"
     return T.ref_id((b, c, v, c2, v2)), None
 

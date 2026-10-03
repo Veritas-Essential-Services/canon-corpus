@@ -20,6 +20,11 @@ fetch_shelf.py does):
 and one from EEBO-TCP (hand-keyed from the first edition, CC0):
   poole   Matthew Poole, Annotations upon the Holy Bible (1683-85): read by
           build_tcp_work, one comment per verse with a note (below)
+and one read from scans, there being no keyed text:
+  clarke  Adam Clarke, Commentary (1810-26): archive.org OCR of two
+          printings of each Testament (1843 and 1846 OT, 1846 and 1835 NT),
+          read by clarke_read.py; build_scan_work commits a citation only
+          when both printings read it in their notes on the same verse
 
 A COMMENT. CCEL marks each comment's passage with an empty
 <scripCom osisRef=.../>. A comment runs from its mark to the next one, or to
@@ -60,6 +65,7 @@ sys.path.insert(0, HERE)
 import topical_read as R  # noqa: E402
 import tsk_read as T  # noqa: E402
 import build_topical as BT  # noqa: E402
+import clarke_read as CR  # noqa: E402
 
 CORPUS = os.path.join(ROOT, "data", "corpus", "commentary")
 OUT = os.path.join(ROOT, "data", "commentary")
@@ -122,12 +128,41 @@ WORKS = {
                 ("notesexplanatory01inbarn", "6ece4e6dc4f095e90d7addd5d4f6af7f67af23db74c7fba31df019a974d8a869"),
                 ("notesexplanatory02barn_0", "c920932b4ae56677b20916478b75764e059a4118a066c0c90f49e4cde2cab19a")]),
         ],
+    },    "clarke": {
+        "kind": "scan",
+        "title": "The Holy Bible ... with a Commentary and Critical Notes",
+        "author": "Adam Clarke (1760?-1832)",
+        "files": [],
+        "scans": [],
+        # two printings of each Testament; (archive.org id, sha256 of its OCR, first book, last book, bare heads)
+        "testaments": [
+            ("Old Testament", [
+                ("New York: G. Lane & P. P. Sandford, 1843, four volumes", [
+                    ("holybiblecontai01clar", "60e08d6933e937eac95bfeb74d25d1fc61be7450a5e257a242fbe93f23288071", "Gen", "Deut", False),
+                    ("holybiblecontai02clar", "aea6d2bdda8180c511590d0a09d0626ce237c44ef651457e3d96a7641e42c654", "Josh", "Esth", False),
+                    ("holybiblecontai03clar", "5015e2244eca20e1662f57ec8e7e10236015f64f1bf189d47728eed565433d3e", "Job", "Song", False),
+                    ("holybiblecontai04clar", "f9c1b82d279c7ce60017c3505777b15b5a7ee2274e0c5173c0df0be98ebaf602", "Isa", "Mal", False)]),
+                ("New York: G. Lane & C. B. Tippett, 1846, four volumes", [
+                    ("holybiblecontain184601clar", "3b4897ca1f376c4424834051d3b0db912b9418066f46ee0dce38b17b3d6772f0", "Gen", "Deut", False),
+                    ("holybiblecontai184602clar", "a15b62dcb0b05d48fd9fd7b96dd498c2d4c9713de45437f5db7c8b38a2fdc994", "Josh", "Esth", False),
+                    ("holybiblecontai184603clar", "2eda5c108dd51938657a1b3ec1c0061c5a856b4f9d9a9e6a60fd61816d769f3b", "Job", "Song", False),
+                    ("holybiblecontain184604clar", "d328ce5cc6469ca85306948d758d9c74bd9475bd2ce2f4a9cd6fd3efa1aec956", "Isa", "Mal", False)]),
+            ]),
+            ("New Testament", [
+                ("New York: G. Lane & C. B. Tippett, 1846, two volumes", [
+                    ("newtestamentofou01clar", "9c3f5f4207ef5f3ca8b5588561425bc10a3a835461f16e57d69153b58ff3bb18", "Matt", "Acts", False),
+                    ("newtestamentofo02clar", "3fd1c33abe18d1727af8d7f1018ae15bf1fb4b96e449e4c7549ecc8b065e3fbe", "Rom", "Rev", False)]),
+                ("New York: P. D. Myers, 1835, one volume", [
+                    ("newtestamentofou00clar", "1e719f547663439a17079e35fa360e5ad3a0fe9988a2d86a8d0bdc64ec21531d", "Matt", "Rev", True)]),
+            ]),
+        ],
     },
 }
 
 RIGHTS = {
     "license": "public-domain",
-    "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85; every author died before 1931."
+    "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Clarke 1810-26 (read from"
+             " archive.org scans of the 1835-46 New York printings); every author died before 1931."
              " Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
     "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
     "redistribute_whole": True,
@@ -151,6 +186,10 @@ for _n, _o in (("Samuel", "Sam"), ("Kings", "Kgs"), ("Chronicles", "Chr"), ("Cor
 _FULL["Acts of the Apostles"] = "Acts"
 
 
+KJV_TXT = os.path.join(ROOT, "data", "corpus", "kjv_bible.txt")
+KJV_SHA = "0204adaed1f25700aa854218cae63c7172228c41088f335e99167a071eed83c0"
+
+
 def path(name):
     return os.path.join(CORPUS, name + ".xml")
 
@@ -162,6 +201,10 @@ def fetch():
         for _, idents in d["scans"]:
             for ident, want in idents:
                 BT._get(f"{IA}{ident}/{ident}_djvu.txt", scan_path(ident), want)
+        for _, printings in d.get("testaments", []):
+            for _, vols in printings:
+                for ident, want, *_ in vols:
+                    BT._get(f"{IA}{ident}/{ident}_djvu.txt", scan_path(ident), want)
 
 
 def verify():
@@ -172,6 +215,17 @@ def verify():
                 raise SystemExit(f"{p} missing: run build_commentary.py --fetch")
             if BT.sha(p) != want:
                 raise SystemExit(f"HARD STOP: {p} changed upstream (sha256 mismatch)")
+        for _, printings in d.get("testaments", []):
+            for _, vols in printings:
+                for ident, want, *_ in vols:
+                    p = scan_path(ident)
+                    if not os.path.exists(p):
+                        raise SystemExit(f"{p} missing: run build_commentary.py --fetch")
+                    if BT.sha(p) != want:
+                        raise SystemExit(f"HARD STOP: {p} changed upstream (sha256 mismatch)")
+    if any(d.get("kind") == "scan" for d in WORKS.values()):
+        if not os.path.exists(KJV_TXT) or BT.sha(KJV_TXT) != KJV_SHA:
+            raise SystemExit(f"{KJV_TXT} missing or changed: run fetch_sources.py (Project Gutenberg 10)")
 
 
 def print_source(s):
@@ -558,6 +612,86 @@ def build_tcp_work(work, shape):
     return rows, prose, rejected, dict(sorted(counts.items())), sources, None, []
 
 
+def build_scan_work(work, shape):
+    """Clarke: both readings from scans (clarke_read.py). A note is placed in
+    each of two printings of its Testament; a row is written for every verse
+    either printing places, and says which (`anchor`: both printings / one
+    printing). A citation is committed only when both printings read it in
+    their notes on the same verse."""
+    import structure_texts as S
+    d = WORKS[work]
+    kjv = CR.Kjv({u["id"]: u["text"] for u in S.convert_kjv(KJV_TXT)["units"]}, shape)
+    V = T.Verses(shape)
+    rows, prose, rejected, sources = [], [], [], []
+    counts = collections.Counter()
+    for testament, printings in d["testaments"]:
+        read = []
+        for label, vols in printings:
+            got = collections.OrderedDict()
+            for ident, want, b0, b1, bare in vols:
+                sources.append({"testament": testament, "printing": label, "scan": ident,
+                                "url": f"{IA}{ident}/{ident}_djvu.txt", "sha256": want})
+                with open(scan_path(ident), encoding="utf-8", errors="replace") as f:
+                    t = f.read()
+                hs, vc = CR.read_volume(t, b0, b1, kjv, V.seq, bare)
+                for k, v in vc.items():
+                    counts[f"{testament}, {label}: {k}"] += v
+                for i, h in enumerate(hs):
+                    if not h["placed"]:
+                        continue
+                    b, c = h["chapter"]
+                    txt, dropped = CR.note_text(t, hs, i, kjv)
+                    for k, v in dropped.items():
+                        counts[f"paragraphs dropped: {k}"] += v
+                    g = got.setdefault((b, c, h["n"]), {"n2": set(), "cites": [], "text": []})
+                    g["n2"].add(h["n2"])
+                    g["text"].append(txt)
+                    for r in CR.citations(txt, b, c):
+                        rid, why = BT.kjv_id(r, shape, BT.APOCRYPHA)
+                        if rid is None:
+                            counts["cite apocrypha" if why == "apocrypha" else "cite names no KJV verse"] += 1
+                            continue
+                        if rid == "kjv:%s.%d.%d" % (b, c, h["n"]):
+                            counts["cite of the note's own verse, not kept"] += 1
+                            continue
+                        if rid not in g["cites"]:
+                            g["cites"].append(rid)
+            read.append((label, got))
+        (la, a), (lb, b_) = read
+        for key in sorted(set(a) | set(b_), key=lambda k: V.index[k]):
+            b, c, v = key
+            both = key in a and key in b_
+            first = a.get(key) or b_[key]
+            n2 = first["n2"] if not both else first["n2"] & b_[key]["n2"]
+            n2 = max((x for x in n2 if x), default=None)
+            on = "kjv:%s.%d.%d" % key
+            if n2 and v < n2 <= shape[b][c]:
+                on += "-%d" % n2
+            if both:
+                cites = [x for x in a[key]["cites"] if x in b_[key]["cites"]]
+                for lab, mine, other in ((la, a[key], b_[key]), (lb, b_[key], a[key])):
+                    for x in mine["cites"]:
+                        if x not in other["cites"]:
+                            counts["cites one printing reads, not committed"] += 1
+                            rejected.append({"on": on, "ref": x, "why": "read in one printing only", "printing": lab})
+            else:
+                cites = []
+                for x in first["cites"]:
+                    counts["cites one printing reads, not committed"] += 1
+                    rejected.append({"on": on, "ref": x, "why": "the note is placed in one printing only",
+                                     "printing": la if key in a else lb})
+            row = {"id": f"{work}:{on[4:]}", "on": on, "anchor": "both printings" if both else "one printing",
+                   "cites": cites}
+            rows.append(row)
+            counts["comments"] += 1
+            counts["comments placed in both printings" if both else "comments placed in one printing"] += 1
+            counts["citations"] += len(cites)
+            prose.append({"id": row["id"], "printing": la if key in a else lb,
+                          "text": "\n\n".join(first["text"]), "ocr": "unproofread"})
+    counts["verses_covered"] = len(rows)
+    return rows, prose, rejected, dict(sorted(counts.items())), sources, None, []
+
+
 def treasury_measure(rows, shape):
     """An outside check: the share of a work's citations that the Treasury
     (data/xrefs/tsk.jsonl, read from its own 1830s scans) also lists at the
@@ -610,6 +744,8 @@ def build(write=True):
         print(f"{w}: reading")
         if d.get("kind") == "tcp":
             rows, prose, rejected, counts, sources, measure, scans = build_tcp_work(w, shape)
+        elif d.get("kind") == "scan":
+            rows, prose, rejected, counts, sources, measure, scans = build_scan_work(w, shape)
         else:
             rows, prose, rejected, counts, sources, measure, scans = build_work(w, shape)
         files[f"{w}.jsonl"] = BT.dumps(rows)
@@ -619,7 +755,8 @@ def build(write=True):
                      "explicit_citations_by_reading": measure, "print_check": scans,
                      "treasury_check": treasury_measure(rows, shape),
                      "source": {"title": d["title"], "author": d["author"],
-                                "edition": "EEBO-TCP TEI (hand-keyed from the first edition)" if d.get("kind") == "tcp" else "CCEL ThML",
+                                "edition": {"tcp": "EEBO-TCP TEI (hand-keyed from the first edition)",
+                                            "scan": "archive.org OCR of two printings of each Testament"}.get(d.get("kind"), "CCEL ThML"),
                                 "files": sources}}
         print(f"  {counts}")
         if write:

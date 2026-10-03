@@ -2,7 +2,7 @@
  "about": "Whole-Bible commentaries keyed to KJV verse ids. pipeline/build_commentary.py; rules in pipeline/README-commentary.md",
  "rights": {
   "license": "public-domain",
-  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85; every author died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
+  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings); every author died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
   "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
   "redistribute_whole": true
  },
@@ -316,6 +316,138 @@
       "ccel_print_source": "Grand Rapids, Mich. : Baker Book House, 1949.",
       "ccel_print_source_check": true,
       "ccel_dc_rights": "Public Domain"
+     }
+    ]
+   }
+  },
+  "clarke": {
+   "file": "data/commentary/clarke.jsonl",
+   "sha256": "4ff3af6f14260217342f46d0149263916755eab1de9b3c39e47428567100204e",
+   "rows": 18129,
+   "counts": {
+    "New Testament, New York: G. Lane & C. B. Tippett, 1846, two volumes: chapters": 260,
+    "New Testament, New York: G. Lane & C. B. Tippett, 1846, two volumes: chapters_found": 260,
+    "New Testament, New York: G. Lane & C. B. Tippett, 1846, two volumes: heads": 6232,
+    "New Testament, New York: G. Lane & C. B. Tippett, 1846, two volumes: heads not placed": 587,
+    "New Testament, New York: G. Lane & C. B. Tippett, 1846, two volumes: heads placed": 5645,
+    "New Testament, New York: P. D. Myers, 1835, one volume: chapters": 260,
+    "New Testament, New York: P. D. Myers, 1835, one volume: chapters_found": 255,
+    "New Testament, New York: P. D. Myers, 1835, one volume: heads": 5633,
+    "New Testament, New York: P. D. Myers, 1835, one volume: heads not placed": 830,
+    "New Testament, New York: P. D. Myers, 1835, one volume: heads placed": 4803,
+    "Old Testament, New York: G. Lane & C. B. Tippett, 1846, four volumes: chapters": 929,
+    "Old Testament, New York: G. Lane & C. B. Tippett, 1846, four volumes: chapters_found": 924,
+    "Old Testament, New York: G. Lane & C. B. Tippett, 1846, four volumes: heads": 11047,
+    "Old Testament, New York: G. Lane & C. B. Tippett, 1846, four volumes: heads not placed": 914,
+    "Old Testament, New York: G. Lane & C. B. Tippett, 1846, four volumes: heads placed": 10133,
+    "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: chapters": 929,
+    "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: chapters_found": 927,
+    "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: heads": 11534,
+    "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: heads not placed": 839,
+    "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: heads placed": 10695,
+    "citations": 9100,
+    "cite apocrypha": 133,
+    "cite names no KJV verse": 1698,
+    "cite of the note's own verse, not kept": 471,
+    "cites one printing reads, not committed": 15130,
+    "comments": 18129,
+    "comments placed in both printings": 13065,
+    "comments placed in one printing": 5064,
+    "paragraphs dropped: bible": 63405,
+    "paragraphs dropped: chronology": 11496,
+    "paragraphs dropped: margin": 34276,
+    "verses_covered": 18129
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 7676,
+     "in_treasury_at_that_verse": 0.2302,
+     "in_treasury_at_an_unrelated_verse": 0.0025
+    }
+   },
+   "source": {
+    "title": "The Holy Bible ... with a Commentary and Critical Notes",
+    "author": "Adam Clarke (1760?-1832)",
+    "edition": "archive.org OCR of two printings of each Testament",
+    "files": [
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & P. P. Sandford, 1843, four volumes",
+      "scan": "holybiblecontai01clar",
+      "url": "https://archive.org/download/holybiblecontai01clar/holybiblecontai01clar_djvu.txt",
+      "sha256": "60e08d6933e937eac95bfeb74d25d1fc61be7450a5e257a242fbe93f23288071"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & P. P. Sandford, 1843, four volumes",
+      "scan": "holybiblecontai02clar",
+      "url": "https://archive.org/download/holybiblecontai02clar/holybiblecontai02clar_djvu.txt",
+      "sha256": "aea6d2bdda8180c511590d0a09d0626ce237c44ef651457e3d96a7641e42c654"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & P. P. Sandford, 1843, four volumes",
+      "scan": "holybiblecontai03clar",
+      "url": "https://archive.org/download/holybiblecontai03clar/holybiblecontai03clar_djvu.txt",
+      "sha256": "5015e2244eca20e1662f57ec8e7e10236015f64f1bf189d47728eed565433d3e"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & P. P. Sandford, 1843, four volumes",
+      "scan": "holybiblecontai04clar",
+      "url": "https://archive.org/download/holybiblecontai04clar/holybiblecontai04clar_djvu.txt",
+      "sha256": "f9c1b82d279c7ce60017c3505777b15b5a7ee2274e0c5173c0df0be98ebaf602"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & C. B. Tippett, 1846, four volumes",
+      "scan": "holybiblecontain184601clar",
+      "url": "https://archive.org/download/holybiblecontain184601clar/holybiblecontain184601clar_djvu.txt",
+      "sha256": "3b4897ca1f376c4424834051d3b0db912b9418066f46ee0dce38b17b3d6772f0"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & C. B. Tippett, 1846, four volumes",
+      "scan": "holybiblecontai184602clar",
+      "url": "https://archive.org/download/holybiblecontai184602clar/holybiblecontai184602clar_djvu.txt",
+      "sha256": "a15b62dcb0b05d48fd9fd7b96dd498c2d4c9713de45437f5db7c8b38a2fdc994"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & C. B. Tippett, 1846, four volumes",
+      "scan": "holybiblecontai184603clar",
+      "url": "https://archive.org/download/holybiblecontai184603clar/holybiblecontai184603clar_djvu.txt",
+      "sha256": "2eda5c108dd51938657a1b3ec1c0061c5a856b4f9d9a9e6a60fd61816d769f3b"
+     },
+     {
+      "testament": "Old Testament",
+      "printing": "New York: G. Lane & C. B. Tippett, 1846, four volumes",
+      "scan": "holybiblecontain184604clar",
+      "url": "https://archive.org/download/holybiblecontain184604clar/holybiblecontain184604clar_djvu.txt",
+      "sha256": "d328ce5cc6469ca85306948d758d9c74bd9475bd2ce2f4a9cd6fd3efa1aec956"
+     },
+     {
+      "testament": "New Testament",
+      "printing": "New York: G. Lane & C. B. Tippett, 1846, two volumes",
+      "scan": "newtestamentofou01clar",
+      "url": "https://archive.org/download/newtestamentofou01clar/newtestamentofou01clar_djvu.txt",
+      "sha256": "9c3f5f4207ef5f3ca8b5588561425bc10a3a835461f16e57d69153b58ff3bb18"
+     },
+     {
+      "testament": "New Testament",
+      "printing": "New York: G. Lane & C. B. Tippett, 1846, two volumes",
+      "scan": "newtestamentofo02clar",
+      "url": "https://archive.org/download/newtestamentofo02clar/newtestamentofo02clar_djvu.txt",
+      "sha256": "3fd1c33abe18d1727af8d7f1018ae15bf1fb4b96e449e4c7549ecc8b065e3fbe"
+     },
+     {
+      "testament": "New Testament",
+      "printing": "New York: P. D. Myers, 1835, one volume",
+      "scan": "newtestamentofou00clar",
+      "url": "https://archive.org/download/newtestamentofou00clar/newtestamentofou00clar_djvu.txt",
+      "sha256": "1e719f547663439a17079e35fa360e5ad3a0fe9988a2d86a8d0bdc64ec21531d"
      }
     ]
    }

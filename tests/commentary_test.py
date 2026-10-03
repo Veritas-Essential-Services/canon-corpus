@@ -90,6 +90,37 @@ el = ET.fromstring(f'<note xmlns="{NS}" place="bottom">see Ier. <gap reason="ill
 check("Poole: an unread word is a mark, and an end-of-line hyphen joins",
       C.tcp_flat(el) == "see Ier. ◊ 51. 15. and Matthew 5. 3.")
 
+# ---- Clarke, read from scans (clarke_read.py), on fixtures
+import clarke_read as CR
+check("Clarke: a note heading's Roman numeral through its OCR ('XLH' is 42, 'HI' is 3); 'NOTES.--' has none",
+      CR.heading_numeral("NOTES ON CHAP. XLH.") == 42 and CR.heading_numeral("NOTES ON PSALM HI.") == 3
+      and CR.heading_numeral("NOTES.\u2014") is None)
+check("Clarke: heads 'Verse 17. lemma]' and, in the 1835 New Testament, '25. lemma]'",
+      [h[1:] for h in CR.heads("Verse 17. The priests\u2014stood firm] They stood")] == [(17, None, "The priests\u2014stood firm")]
+      and [h[1:] for h in CR.heads("x\n25. Judas\u2014said, Master,\nis it I] What", bare=True)] == [(25, None, "Judas\u2014said, Master, is it I")]
+      and CR.heads("x\n25. Judas] What") == [])
+_shape = {"Gen": {1: 3, 2: 3, 3: 2}}
+_kjv = CR.Kjv({"kjv:Gen.1.1": "In the beginning God created the heaven and the earth.",
+               "kjv:Gen.1.2": "And the earth was without form, and void; and darkness was upon the face of the deep.",
+               "kjv:Gen.1.3": "And God said, Let there be light: and there was light.",
+               "kjv:Gen.2.1": "Thus the heavens and the earth were finished, and all the host of them.",
+               "kjv:Gen.2.2": "And on the seventh day God ended his work which he had made.",
+               "kjv:Gen.2.3": "And God blessed the seventh day, and sanctified it.",
+               "kjv:Gen.3.1": "Now the serpent was more subtil than any beast of the field.",
+               "kjv:Gen.3.2": "And the woman said unto the serpent, We may eat of the fruit."}, _shape)
+_runs = [{"num": None, "heads": [(0, 1, None, "the beginning created"), (1, 3, None, "Let there be light")]},
+         {"num": 7, "heads": [(2, 1, None, "the serpent was more subtil")]}]
+check("Clarke: runs align to chapters in order by their lemmas, a chapter with no notes skipped (and a misread numeral outvoted)",
+      CR.align(_runs, [("Gen", 1), ("Gen", 2), ("Gen", 3)], _kjv) == [("Gen", 1), ("Gen", 3)])
+check("Clarke: the chronology margin, the Bible text, and the margin's references are not the note",
+      CR.classify("A. M. 3278. B. C. 726.", "Gen", 1, _kjv) == "chronology"
+      and CR.classify("And the earth was without form, and void; and darkness was upon the face", "Gen", 1, _kjv) == "bible"
+      and CR.classify("xxiv. 11 ; 2 Kings xvii. 13 ; 1 Chron. xxvi. 28 ; xxix. 29 ; 2 Chron.", "Gen", 1, _kjv) == "margin"
+      and CR.classify("P Mai. iii. 10. 1 Or, store-houses. * Neh. xiii. 13.", "Gen", 1, _kjv) == "margin"
+      and CR.classify("Jeremiah gives us his character at large, chap. xxii. 13, to which the reader will refer.", "Gen", 1, _kjv) == "note")
+check("Clarke: 'ver. 407' after 'Iliad i.,' is Homer's line; 'See ver. 35' is this chapter's",
+      CR.citations("Iliad i., ver. 407. See ver. 35, and Exod. iii. 7", "Exod", 9) == [("Exod", 9, 35, 9, 35), ("Exod", 3, 7, 3, 7)])
+
 # ---- the committed files
 D = os.path.join(ROOT, "data", "commentary")
 man = json.load(open(os.path.join(D, "manifest.json"), encoding="utf-8"))
@@ -111,7 +142,8 @@ for w in C.WORKS:
     refs_all = [x for r in rows for x in [r["on"]] + r["cites"] + r.get("parallels", [])]
     check(f"{w}: every place is a KJV verse or run of verses ({len(refs_all)})", all(valid(x) for x in refs_all))
     check(f"{w}: citations = manifest", sum(len(r["cites"]) for r in rows) == L["counts"]["citations"])
-    check(f"{w}: anchors are read, not assumed", {r["anchor"] for r in rows} <= {"agrees", "differs", "unread", "by order"})
+    check(f"{w}: anchors are read, not assumed", {r["anchor"] for r in rows}
+          <= {"agrees", "differs", "unread", "by order", "both printings", "one printing"})
     check(f"{w}: no prose committed", all(set(r) <= {"id", "on", "anchor", "cites", "parallels", "in_print"} for r in rows))
     tc = L["treasury_check"]["cites"]
     check(f"{w}: the Treasury lists its citations at that verse far more than at an unrelated one",
@@ -121,6 +153,15 @@ check("Barnes: CCEL's print source (Baker, 1949) is flagged for a person to look
       srcs["barnes"][0]["ccel_print_source_check"] is True)
 check("Poole: both volumes CC0, first edition dated", [(f["tcp_licence"], f["edition_date"]) for f in srcs["poole"]]
       == [("CC0 1.0", "1683"), ("CC0 1.0", "1685")])
+check("Clarke: two printings of each Testament, every scan pinned",
+      {(f["testament"], f["printing"].split(", ")[-2]) for f in srcs["clarke"]}
+      == {("Old Testament", "1843"), ("Old Testament", "1846"), ("New Testament", "1846"), ("New Testament", "1835")}
+      and all(len(f["sha256"]) == 64 for f in srcs["clarke"]))
+_cl = [json.loads(x) for x in open(os.path.join(D, "clarke.jsonl"), encoding="utf-8")]
+check("Clarke: a note placed in one printing only commits no citation",
+      all(not r["cites"] for r in _cl if r["anchor"] == "one printing")
+      and sum(r["anchor"] == "both printings" for r in _cl) > 12000)
+check("Clarke: no note cites its own verse", all(r["on"].split("-")[0] not in r["cites"] for r in _cl))
 check("Poole: two thirds of the margin's parallel places are the Treasury's too",
       man["layers"]["poole"]["treasury_check"]["parallels"]["in_treasury_at_that_verse"] > 0.6)
 col = json.load(open(os.path.join(D, "collation.json"), encoding="utf-8"))
