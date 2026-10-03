@@ -397,7 +397,7 @@ def build():
     out = {}
     for slug, book in books.items():
         for u in book["units"]:
-            u["links"] = [x for note in u["links"] for x in S.resolve_note(note["label"], note["cts"], ctx)]
+            u["links"] = [x for note in u["links"] for x in S.resolve_note(note["label"], note["cts"], ctx, u["id"])]
         book = tag(book, tables)
         blob = json.dumps(book, ensure_ascii=False).encode("utf-8")
         out[slug] = (book, blob, entry(book, blob))

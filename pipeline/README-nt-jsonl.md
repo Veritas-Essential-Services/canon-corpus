@@ -216,8 +216,8 @@ The whole NT, measured 2026-10-02 (`tests/nt_corpus_test.py`, `EXPECTED_NT`):
 |---|---|
 | verses | 7,953 in 27 shards (uids reused 7,953, minted 0) |
 | tokens | 140,149; 5,380 distinct lemmas |
-| tokens with lemma / parsing / gloss | 140,149 / 140,149 / 131,631 (93.9%; 124,516 before s.17) |
-| dictionary glosses by rule | kjv-form 27,855; paradigm 7,103; kjv-sole 20,489; kjv-in-def 52,792; def-head 23,255 |
+| tokens with lemma / parsing / gloss | 140,149 / 140,149 / 131,627 (93.9%; 124,516 before s.17) |
+| dictionary glosses by rule | kjv-form 27,855; paradigm 7,103; kjv-sole 20,489; kjv-in-def 52,792; def-head 23,251 |
 | no gloss | 8,518: 7,642 function words, 871 with no usable head, 5 pronouns in crasis |
 | finite verbs | 19,571 |
 | tokens flagged for review | 28 (Robinson's double parsings) |
@@ -616,7 +616,7 @@ by the gloss-rule changes in s.17.
 
 ## 17. Gloss-rule changes after the full run (2026-10-02)
 
-Coverage went from 124,516 to **131,631 of 140,149 (93.9%)**. The rule is
+Coverage went from 124,516 to **131,631 of 140,149 (93.9%)** (131,627 since 2026-10-03: a cut at a comma no longer drops a trailing "of the mind"). The rule is
 still a fixed function of (parsing, Strong's entry), and the validator still
 re-derives every gloss and checks it is never invented.
 

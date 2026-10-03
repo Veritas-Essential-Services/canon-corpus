@@ -81,6 +81,19 @@ except SystemExit:
 check("a skipped chapter (Ant. 5: 6, 8, 8 as Perseus keyed the English) stops the build", stopped)
 check("every FIXES row names its file", all(k[1] in J.EDITIONS and k[0] in EXPECTED for k in J.FIXES))
 
+# Lengths of a plausible run of sections; the English ~1.3x the Greek, with noise.
+_g = [400, 1200, 300, 2500, 700, 150, 1800, 900, 350, 2200, 600, 1300, 500, 1600, 250, 1000]
+_e = [int(x * 1.3 * f) for x, f in zip(_g, [1, .9, 1.1, 1, .95, 1.2, 1, 1.05, .9, 1, 1.1, .95, 1, 1, 1.15, 1])]
+_k = [("1", "1", str(i + 1)) for i in range(len(_g))]
+check("shift check: an aligned run reports nothing",
+      J.shift_runs([(k, "x" * g, "x" * e) for k, g, e in zip(_k, _g, _e)]) == [])
+# Ant. 8's shape: English 4 also holds Greek 5, English 5-11 hold Greek 6-12, and
+# English 12-13 split Greek 13 between them; aligned again from 14.
+_slid = _e[:3] + [_e[3] + _e[4]] + _e[5:12] + [_e[12] // 2, _e[12] // 2] + _e[13:]
+check("shift check: a run where each English holds the next Greek is found (Ant. 8.6.1-8.10.3, 2026-10-03)",
+      [s for s, *_ in J.shift_runs([(k, "x" * g, "x" * e) for k, g, e in zip(_k, _g, _slid)])] == [+1],
+      J.shift_runs([(k, "x" * g, "x" * e) for k, g, e in zip(_k, _g, _slid)]))
+
 have = all(os.path.exists(J.local(r)) for r in pins)
 nt_built = os.path.exists(os.path.join(REPO, "data", "nt", "Rev", "tokens.jsonl"))
 if not (have and nt_built):
@@ -98,7 +111,24 @@ else:
         diff = {k for k in g if k[-1] != "arg" and g[k] != e.get(k)}
         check(f"{w}: each Whiston unit begins at the same Niese section in both files",
               diff <= NIESE_START_EXCEPTIONS, sorted(diff - NIESE_START_EXCEPTIONS)[:5])
+    for w in EXPECTED:
+        g = {k: t for k, t, _ in J.read(w, "niese")}
+        runs = J.shift_runs([(k, g[k], t) for k, t, _ in J.read(w, "whiston") if t and g.get(k)
+                             and k[-1] != "arg"])
+        check(f"{w}: no run of units fits its neighbour's text better than its own", not runs, runs)
     u = {x["id"]: x for b, _, _ in built.values() for x in b["units"]}
+    for cid, gr, en in [("4.8.32", "Ὁμοίως μηδὲ βλασφημείτω", "In like manner, let no one revile"),
+                        ("4.8.33", "Ἐν μάχῃ", "If men strive together"),
+                        ("4.8.41", "Αὕτη μὲν οὖν ὑμῖν", "Let this be the constitution"),
+                        ("8.6.1", "Ἐπεὶ δʼ ἑώρα τὰ τῶν Ἱεροσολύμων τείχη", "Now when the king saw that the walls"),
+                        ("8.7.1", "Κατὰ δὲ τὸν αὐτὸν καιρὸν", "ABOUT the same time"),
+                        ("8.10.3", "ἐγκεκλεισμένου τοῦ Ῥοβοάμου", "Now when Rehoboam, and the multitude")]:
+        check(f"Ant. {cid}: the slid runs (FIXES slide) pair the right Greek and English",
+              u[f"josephus-ant-niese:{cid}"]["text"].startswith(gr)
+              and u[f"josephus-ant-whiston:{cid}"]["text"].startswith(en))
+    check("... and Menander on Hiram stays in Ant. 8.5.3, after Dius",
+          "Μένανδρος" in u["josephus-ant-niese:8.5.3"]["text"]
+          and u["josephus-ant-niese:8.5.3"]["lex"]["niese"][-1] == "8.149")
     t = u["josephus-ant-niese:18.3.3"]
     check("Ant. 18.3.3 is the Testimonium, Niese 18.63-64, in Niese's brackets",
           t["lex"]["niese"] == ["18.63", "18.64"] and t["text"].startswith("[Γίνεται δὲ κατὰ τοῦτον")

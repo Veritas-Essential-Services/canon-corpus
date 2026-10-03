@@ -1804,10 +1804,10 @@
    "unseen": 1621,
    "latin": 0
   },
-  "scripture_refs": 268,
-  "scripture_refs_resolved": 217,
+  "scripture_refs": 267,
+  "scripture_refs_resolved": 211,
   "scripture_refs_flagged": 8,
-  "built_sha256": "99dae845418d1dc2fab8d095b3f32db919b395e851749e7df87d3732927e66e3"
+  "built_sha256": "b5c213724213963ed975173585fb1ecc4a3868df39cd4e449b6f1e83d1b0cf61"
  },
  "2clement-lake": {
   "title": "Second Epistle of Clement (an ancient homily)",
@@ -1872,10 +1872,10 @@
    "unseen": 1132,
    "latin": 0
   },
-  "scripture_refs": 91,
-  "scripture_refs_resolved": 78,
-  "scripture_refs_flagged": 7,
-  "built_sha256": "58a01d5e4bd98c6752be52425d025eb1a517f3e2cad7e7d77839e59b775d9a20"
+  "scripture_refs": 90,
+  "scripture_refs_resolved": 77,
+  "scripture_refs_flagged": 6,
+  "built_sha256": "47dde72280c1b16cc98657c04e626a6550d746c1010b7aad3a67a359db56401c"
  },
  "polycarp-phil-lake": {
   "title": "Epistle of Polycarp to the Philippians",
@@ -1909,7 +1909,7 @@
   "scripture_refs": 99,
   "scripture_refs_resolved": 89,
   "scripture_refs_flagged": 3,
-  "built_sha256": "267cb5f135099f970807894f44d9c06377907afff1d4af0cbbe61cb4d8e97d1b"
+  "built_sha256": "b153bd6789169d813a10910e8a40e5f1f707f5e4187eff3c696869bb9020ce52"
  },
  "martyrdom-polycarp-lake": {
   "title": "The Martyrdom of Polycarp",
@@ -1943,7 +1943,7 @@
   "scripture_refs": 16,
   "scripture_refs_resolved": 15,
   "scripture_refs_flagged": 1,
-  "built_sha256": "4de81b283c49e70e0fe917b3eba2b7af19c073d44815f4f4bc2c53dacdf04602"
+  "built_sha256": "ae4b1f74cb7a066281eb1d8cd51e075ba30de3faabe7e59e355817c6f73a101a"
  },
  "didache-lake": {
   "title": "The Didache (Teaching of the Twelve Apostles)",
@@ -1977,7 +1977,7 @@
   "scripture_refs": 71,
   "scripture_refs_resolved": 56,
   "scripture_refs_flagged": 0,
-  "built_sha256": "75450b3103b0867556fe75c28d8a08965969bdb70cefa98d089dc5a51e359835"
+  "built_sha256": "8867e776bfd2f9afdb74a78ecd43855d95ed255bc9e39f649fae8c29ba3ba366"
  },
  "barnabas-lake": {
   "title": "The Epistle of Barnabas",
@@ -2011,7 +2011,7 @@
   "scripture_refs": 202,
   "scripture_refs_resolved": 167,
   "scripture_refs_flagged": 0,
-  "built_sha256": "7a30cc404d18082609ae1589b5120c3a246d91e7f3220f6ed20d7cd197849f8e"
+  "built_sha256": "cf09ce63ba702e6cd82a75615eaf48852c41ed4cd34fc7827df039366f7298fd"
  },
  "hermas-lake": {
   "title": "The Shepherd of Hermas",
@@ -2042,10 +2042,10 @@
    "unseen": 3688,
    "latin": 1265
   },
-  "scripture_refs": 212,
-  "scripture_refs_resolved": 189,
-  "scripture_refs_flagged": 16,
-  "built_sha256": "4ac1b635cdcdcdc146e15888260f5f555c361e806709e8019dec60b903ce08e7"
+  "scripture_refs": 210,
+  "scripture_refs_resolved": 188,
+  "scripture_refs_flagged": 15,
+  "built_sha256": "2a2132aa33d50b99d1c962c5ec2e7e2e35cad505e04151f608d5797a1c1c0d56"
  },
  "diognetus-lake": {
   "title": "The Epistle to Diognetus",
@@ -2079,7 +2079,7 @@
   "scripture_refs": 53,
   "scripture_refs_resolved": 53,
   "scripture_refs_flagged": 0,
-  "built_sha256": "d2963d12c6173afd2b3350c81d6c1f0cac9d69abf4673fc868dc70acdda5fac4"
+  "built_sha256": "7e0c115c90969782db66966cca3a49e0c0d05be71254424106efb35e3ffa0d95"
  },
  "josephus-ant-niese": {
   "title": "Antiquities of the Jews (Greek)",
@@ -2137,7 +2137,7 @@
    "unseen": 80248,
    "latin": 0
   },
-  "built_sha256": "f967f852632d7f4ff0e33f29c714ebd22857c19581055acce65afe47effe656a"
+  "built_sha256": "eab565d3a258f63538ddce8ac4924a727a25c8f32700dc5c572bb2b2fca4204f"
  },
  "josephus-ant-whiston": {
   "title": "Antiquities of the Jews (English)",
@@ -2148,7 +2148,7 @@
   "scheme": {
    "citation": "Ant. book.chapter.section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2163,7 +2163,7 @@
    "matched": 1444,
    "unmatched": []
   },
-  "built_sha256": "31b680dc42ab1208934913b3a631a0bd092db29d97bb87b3478c950f10862cab"
+  "built_sha256": "87500cf6e9664a47d5550a881fc305f1145d897bf45a8ef793990b008055daa0"
  },
  "josephus-war-niese": {
   "title": "The Jewish War (Greek)",
@@ -2211,7 +2211,7 @@
   "scheme": {
    "citation": "J.W. book.chapter.section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2226,7 +2226,7 @@
    "matched": 707,
    "unmatched": []
   },
-  "built_sha256": "e5cd950fa27e047a70fd66ee7a1faccdddbfd8c19855dad51b6c7a4bdafe3494"
+  "built_sha256": "2e1a20ec69cdcb6a6c17d66f7a393ef00a0b81b6374a974a2c52d865721cb695"
  },
  "josephus-life-niese": {
   "title": "The Life of Flavius Josephus (Greek)",
@@ -2274,7 +2274,7 @@
   "scheme": {
    "citation": "Life section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2289,7 +2289,7 @@
    "matched": 76,
    "unmatched": []
   },
-  "built_sha256": "ec1c9379c57f2bc3de92d9de156b8027730a3e72b85a110dde7505ed75df9968"
+  "built_sha256": "f22aafd7b0324068d15c497a460485c31f64bfe0add42b4daf7ba1a9463915cd"
  },
  "josephus-apion-niese": {
   "title": "Against Apion (Greek)",
@@ -2337,7 +2337,7 @@
   "scheme": {
    "citation": "Ag. Ap. book.section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2352,7 +2352,7 @@
    "matched": 77,
    "unmatched": []
   },
-  "built_sha256": "423bcb0de92d44738f9e6a1d42ac3e1de69e95ec0012f8797e6b5552439131a1"
+  "built_sha256": "69411410ef072d2095c0ed48dc079be41b9c0235ecc0741bb30529884e9cfb2e"
  },
  "philo-opif-cw": {
   "title": "On the Creation of the World (Greek)",
@@ -3429,9 +3429,9 @@
    "unseen": 2985,
    "latin": 0
   },
-  "scripture_refs": 117,
-  "scripture_refs_resolved": 115,
-  "built_sha256": "db36230f349b201e467239f4bbc1803030c054948e38e955a34a2df483f94360"
+  "scripture_refs": 116,
+  "scripture_refs_resolved": 114,
+  "built_sha256": "e580ffc7d7277b99f05cae94709167b773d8ea9f37ad93ff8d1020e10637d223"
  },
  "philo-fug-yonge": {
   "title": "On Flight and Finding (English)",
@@ -24639,7 +24639,7 @@
    "citation": "KJV book chapter:verse (TAGNT's KJV number where it differs from the NRSV's)",
    "resolution": "word, within the verse",
    "honesty": "TAGNT's own collation of eight printed editions, not a manuscript apparatus; 'significant' is TAGNT's judgement (upper-case variant codes). Its Byz is RP2005, not data/nt's RP2018: --measure says how far they agree.",
-   "note": "One unit per KJV verse where the editions differ; `text` is a readable apparatus line, `lex` the structured readings. TAGNT's English (Berean) and Spanish columns are never read in."
+   "note": "One unit per KJV verse where the editions differ; `text` is a readable apparatus line, `lex` the structured readings. Word numbers `n` count within a TAGNT verse; where a KJV verse takes words from two, `lex.tagnt_refs` lists them and every entry names its own `tagnt`. TAGNT's English (Berean) and Spanish columns are never read in."
   },
   "rights": {
    "license": "CC BY 4.0 (STEPBible-Data, Tyndale House Cambridge); STEPBible asks that the data not be redistributed, only pointed to",
@@ -24658,7 +24658,7 @@
    "meaning": 3866,
    "displaced": 1748
   },
-  "built_sha256": "318fcb2c6ed6ff3a8dfc56992860bc6231aea13edd06c26ec54bc4d6487c72dd"
+  "built_sha256": "bb631a9acdef2b4b7a81fdb3fb937f710d8d0ef10b3ab701630bc04d7e2c1ec8"
  },
  "kjva": {
   "title": "The Apocrypha of the King James Version (Cambridge Paragraph Bible)",

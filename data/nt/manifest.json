@@ -53,8 +53,8 @@
   "alignments": 7953,
   "tokens_with_lemma": 140149,
   "tokens_with_parsing": 140149,
-  "tokens_with_gloss": 131631,
-  "tokens_without_gloss": 8518,
+  "tokens_with_gloss": 131627,
+  "tokens_without_gloss": 8522,
   "tokens_flagged_for_review": 28,
   "distinct_lemmas": 5380,
   "finite_verbs": 19571
@@ -413,17 +413,17 @@
    "paradigm": 7103,
    "kjv-sole": 20489,
    "kjv-in-def": 52792,
-   "def-head": 23255
+   "def-head": 23251
   },
   "by_override": {
    "adam-reviewed": 0,
    "house": 137
   },
-  "none": 8518,
+  "none": 8522,
   "none_by_reason": {
    "no KJV rendering agrees in person, number, gender and case": 5,
    "no KJV rendering in the definition; a function word takes no definition head": 7642,
-   "no KJV rendering in the definition; no usable definition head": 871
+   "no KJV rendering in the definition; no usable definition head": 875
   },
   "overrides": {
    "file": "data/nt/gloss-overrides.jsonl",
@@ -688,7 +688,7 @@
   "3John/witnesses.jsonl": "accc7197e1e9fe23b7d73bbb9496a81705bfd6ffa97b8693e2d080220875824c",
   "Acts/alignments.jsonl": "984b348e73b44550fab39d69a0985ba24dcfd8afd1d4c9f1b99985a52e22b5ba",
   "Acts/passages.jsonl": "a735d18fd892eb1d1976cfea1b0674a41b3da00ca61d897053275e3e88698bdd",
-  "Acts/tokens.jsonl": "46ca0caa6e724605f28a62a8a99353aef394559719bfa89b73ee487281c4c3ee",
+  "Acts/tokens.jsonl": "a7a6bbc0631a2f87863dd7ce4e1f2922dbf0acb09b69caa9003aa5ada10a86b4",
   "Acts/witnesses.jsonl": "0913f7392d13a1a9f7eaa408ed9b09a3859e06f462b3cc8b517953a8a0439824",
   "Col/alignments.jsonl": "1520a3127b8d4c637311350037b591784a587882a395d96ffd09a32f9095d11f",
   "Col/passages.jsonl": "647348e672f32681adfb2f05526c9a6a5944924b8bc33d9b716ece638d0f9fb6",
@@ -720,11 +720,11 @@
   "Jude/witnesses.jsonl": "37366ab8b259ac16454673a295a51f010902345bda431a051020e3c5c94808fb",
   "Luke/alignments.jsonl": "11d6517119cc1ab5460a026c448e346a24a406b17c960d5d06bcfcabc4e50655",
   "Luke/passages.jsonl": "d8f59df731747fba572fabda07e28ffaca2d313f4f1e329685ed5318af5ec59d",
-  "Luke/tokens.jsonl": "0b49d21a76a3ed4ff0626dfe28b8b65ceced3bf1a40cfac73e88dcbb70777969",
+  "Luke/tokens.jsonl": "b90969c2f67a4d406eaa856847bc745831361b647f643650b8cbed1e1d5b6096",
   "Luke/witnesses.jsonl": "1f5dff7eba130afb50df156d3bb5c0b2c527b78568f849254de6ed90a354483b",
   "Mark/alignments.jsonl": "d413f6a5fe1a31f601214faaf2f0ba0bd4142b888a53207c94dadf46b110f548",
   "Mark/passages.jsonl": "fdc014c6e43557c1f7e14d3d51c4e3d40c42293d81b3fe8231b076393d6081d5",
-  "Mark/tokens.jsonl": "59531f5ee9fbf0e9ff4748a5a13e4088fb6b7df3b91ac2f9b17602d9700a2a3e",
+  "Mark/tokens.jsonl": "e664fbaf8838b02d789c41a42cc87b657f839a280c95669fccad53e9e4c03640",
   "Mark/witnesses.jsonl": "6c669ed8297d0a9619bbeee4bd2c3eb90c2e395366d43a960e45218bcaca15b7",
   "Matt/alignments.jsonl": "106781bb6ba9af653907fbe3422da3c394493735dbc0664585f3764a306d4869",
   "Matt/passages.jsonl": "ff18e34d07325305e6ea86dda453e72983377f0e8b98194270220fc0c172ad93",
@@ -748,7 +748,7 @@
   "Rom/witnesses.jsonl": "ba983d0ee6c4d0b4d8c39232cc47a029df4744616de50e117cc872e3069cf8b6",
   "Titus/alignments.jsonl": "660b64e636d8c773fefbefe25a377e8f6462cd0c59ae5ea98be40220a0d38490",
   "Titus/passages.jsonl": "f87aaca9532bce03c9591707c7e2a80f9c04069897d5f4608c53afd8ac89e0f0",
-  "Titus/tokens.jsonl": "9c29315512cf5ae197350809273a138f0aaa0fda35dbab6c702a86ff3c22996a",
+  "Titus/tokens.jsonl": "18fb0bf41708bbad3b10775ec0c288c031d223e410826cb0d141b469a242050c",
   "Titus/witnesses.jsonl": "42cc70bc387176eea38104d65671d9fee535c5b8f3f97ea3251d5e8217742538"
  }
 }

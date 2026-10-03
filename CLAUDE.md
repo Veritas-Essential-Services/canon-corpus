@@ -410,7 +410,10 @@ The living truth for project state is the Obsidian vault:
   gitignored, labelled manifest entries committed). Units are Whiston's
   book.chapter.section in both languages, linked to each other; each Greek
   unit lists its Niese sections (lex.niese). Perseus's Whiston milestones have
-  four slips, corrected by FIXES rows; the build stops on any new one.
+  four slips and two slid runs (Ant. 4.8.32-41, 8.6.1-8.10.3: the Greek's
+  milestones one section off, the English's Niese numbers copied from them),
+  corrected by FIXES rows; the build stops on any new slip, and on any run of
+  units whose Greek-to-English length fits a neighbour better (shift_runs).
 - pipeline/build_philo.py — Philo, 31 treatises: Cohn-Wendland's Greek and
   Yonge's English (both PD; First1KGreek TEI CC BY-SA 4.0, so books gitignored,
   labelled manifest entries committed), aligned by Cohn-Wendland section.
