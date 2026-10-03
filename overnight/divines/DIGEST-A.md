@@ -235,6 +235,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | James Denney | james-denney_shelf.json | 3 CCEL (The Death of Christ, keyed from a 1911 printing; Expositor's Bible Second Corinthians, Hodder 1894; Thessalonians, Hodder) | none | none | none |
 | Alexander Whyte | alexander-whyte_shelf.json | 3 CCEL (Lord, Teach Us to Pray, Hodder 1922; Jacob Behmen and Santa Teresa appreciations, Oliphant Anderson & Ferrier) | none | none | none |
 | H. C. G. Moule | h-c-g-moule_shelf.json | 3 CCEL (Expositor's Bible Romans, Hodder; To My Younger Brethren, Hodder 1902; Messages from Hebrews, Elliot Stock 1909) | none | none | none |
+| F. B. Meyer | f-b-meyer_shelf.json | 3 CCEL (The Secret of Guidance; Our Daily Homily vol. 2, 1 Samuel to Job; The Way into the Holiest), print sources not named | Our Daily Homily other volumes | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

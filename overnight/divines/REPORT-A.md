@@ -562,3 +562,6 @@
 
 ## 2026-10-03 05:51 CDT — h-c-g-moule done
 - `pipeline/h-c-g-moule_shelf.json`: 3 CCEL texts, print sources Hodder (1902) and Elliot Stock 1909. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:51 CDT — f-b-meyer done
+- `pipeline/f-b-meyer_shelf.json`: 3 CCEL texts. CCEL's Daily Homily is volume 2 only (1 Samuel to Job), labelled so; CCEL's Way into the Holiest carries a wrong short title ("Our Daily Homily") in its metadata, but its contents are the Hebrews book. `--verify --record`: 0 mismatched. 0 uids minted.

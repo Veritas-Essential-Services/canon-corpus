@@ -1943,3 +1943,12 @@ Slugs `moule-*`.
 | Work | Status | Where |
 |---|---|---|
 | Romans (Expositor's Bible); To My Younger Brethren; Messages from the Epistle to the Hebrews | have-clean | CCEL (Hodder; Hodder 1902; Elliot Stock 1909) |
+
+## F. B. Meyer (round 12, my pick, 2026-10-03)
+
+Slugs `meyer-*`. Name forms are full forms only (no bare "meyer": H. A. W. Meyer the commentator shares it).
+
+| Work | Status | Where |
+|---|---|---|
+| The Secret of Guidance; Our Daily Homily vol. 2 (1 Samuel to Job); The Way into the Holiest | have-clean | CCEL (print source not named) |
+| Our Daily Homily vols. 1, 3-5 | pending | CCEL has only vol. 2 |
