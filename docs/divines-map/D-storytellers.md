@@ -2368,6 +2368,15 @@ Shelf: `pipeline/mackenzie_shelf.json` (2026-10-02; added at the coordinator's r
 | Indian Myth and Legend | have | PG 47228, `mackenzie-indian-myth-and-legend` (3748 units) |
 | Myths of China and Japan | have | PG 67344, `mackenzie-myths-of-china-and-japan` (2027 units) |
 
+## James Stephens
+
+Shelf: `pipeline/stephens_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish legends retold: the Fenian tales and the story of Deirdre; cut by tale, and Deirdre by book and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Irish Fairy Tales | have | PG 2892, `stephens-irish-fairy-tales` (2130 units) |
+| Deirdre | have | PG 65950, `stephens-deirdre` (1871 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
