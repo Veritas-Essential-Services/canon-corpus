@@ -311,6 +311,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | Homer's Iliad in English rhymed verse, 2 vols. in one file (London, 1869) | Charles Merivale | `homer-merivale-iliad-1869` | have-raw (IA `homersiliadineng00home`) |
 | The Iliad of Homer translated, 2 vols. in one file (1809) | James Morrice | `homer-morrice-iliad-1809` | have-raw (IA `homeriliadof00homerich`) |
 | The Odyssey of Homer rendered into English blank verse, vol. II: Books XIII-XXIV (London: Bell and Daldy, 1865) | George Musgrave | `homer-musgrave-odyssey-1865-v2` | have-raw (IA `odysseyhomer00musggoog`) |
+| The Odyssey of Homer rendered into English blank verse (London, 1876) | Mordaunt Barnard | `homer-barnard-odyssey-1876` | have-raw (IA `odysseyofhomerre00homerich`) |
 
 Pending (wishlist): none known beyond the rows above.
 
