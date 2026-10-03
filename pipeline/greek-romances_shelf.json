@@ -43,7 +43,6 @@
   "achilles",
   "tatius",
   "chariton",
-  "xenophon",
   "parthenius"
  ],
  "_translators": {
@@ -102,7 +101,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "xenophon",
+   "author_seen": "abrocomas",
    "identity": "ok",
    "ia_rights": "ok: published 1727",
    "ia_date": "1727",
@@ -134,7 +133,8 @@
    "chariton"
   ],
   "xenophon-ephesius-1727": [
-   "xenophon"
+   "abrocomas",
+   "anthia"
   ]
  }
 }

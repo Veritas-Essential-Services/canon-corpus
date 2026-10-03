@@ -84,7 +84,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "apollonius",
+   "author_seen": "apollonius of perga",
    "translator_claimed": "t. l. heath",
    "translator_in_text": true,
    "identity": "ok",
@@ -99,7 +99,8 @@
  },
  "_surname_by_slug": {
   "apollonius-perga-heath-conics": [
-   "apollonius"
+   "apollonius of perga",
+   "perga"
   ]
  }
 }

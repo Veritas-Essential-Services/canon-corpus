@@ -35,8 +35,8 @@
   ]
  },
  "_surname": [
-  "hermes",
-  "trismegistus"
+  "trismegistus",
+  "hermes trismegistus"
  ],
  "_translators": {
   "hermetica-chambers-1882": "John David Chambers",
@@ -50,7 +50,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hermes",
+   "author_seen": "trismegistus",
    "translator_claimed": "John David Chambers",
    "translator_in_text": true,
    "identity": "ok",
@@ -63,7 +63,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hermes",
+   "author_seen": "trismegistus",
    "translator_claimed": "Dr. Everard",
    "translator_in_text": true,
    "identity": "ok",
@@ -76,7 +76,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hermes",
+   "author_seen": "trismegistus",
    "translator_claimed": "G. R. S. Mead",
    "translator_in_text": true,
    "identity": "ok",
@@ -89,7 +89,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hermes",
+   "author_seen": "trismegistus",
    "translator_claimed": "G. R. S. Mead",
    "translator_in_text": true,
    "identity": "ok",
@@ -102,7 +102,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hermes",
+   "author_seen": "trismegistus",
    "translator_claimed": "G. R. S. Mead",
    "translator_in_text": true,
    "identity": "ok",

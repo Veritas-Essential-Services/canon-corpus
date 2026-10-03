@@ -491,5 +491,8 @@
  },
  "_rights_checked": {
   "virgil-fairclough-v1": "Title page read: 'First printed 1916; reprinted 1920 ... 1929, 1930': a 1930 reprint of the unrevised 1916 text (Fairclough's revision is 1935). Works published in 1930 or earlier are US public domain."
+ },
+ "_identity_checked": {
+  "virgil-pitt-warton-1763-v3": "title_weak only on spelling: the 1763 print has the Æ ligature, which OCRs as '/ENEID', 'JENEID' or 'iENEID' (49 times), so the word 'aeneid' never appears. Title page read: 'IN FOUR VOLUMES. VOL. III. LONDON, Printed for R. and J. Dodsley, in Pall-mall. MDCCLXIII. VOLUME THE THIRD. CONTAINING The ÆNEID; Book V. Book VI. Book VII. Book VIII. A Dissertation on the Sixth Book'"
  }
 }
