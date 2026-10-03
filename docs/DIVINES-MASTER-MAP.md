@@ -2131,6 +2131,15 @@ Slugs `asbury-journal-N`.
 |---|---|---|
 | Journal, 3 vols (New York: Lane & Scott, 1852) | have-ocr | IA, OCR 97-99% |
 | Journal, first collected edition (1821) | alternate | IA |
+
+## Richard Cecil (round 13, my pick, 2026-10-03)
+
+Slugs `cecil-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Remains (1843); Original Thoughts on Various Passages of Scripture (1849) | have-ocr | IA, OCR 99% |
+| Memoirs of the Rev. John Newton (1809); Works (1847) | pending | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

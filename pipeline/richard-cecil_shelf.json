@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Richard Cecil (1748-1810, evangelical Anglican, minister of St John's Chapel, Bedford Row, London) for the Word Hoard: Remains of the Rev. Richard Cecil, with a view of his character by Josiah Pratt (New York: Carter, 1843), and Original Thoughts on Various Passages of Scripture (New York: Carter, 1849), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "cecil",
+  "richard"
+ ],
+ "_surname": [
+  "richard cecil",
+  "r. cecil",
+  "cecil, richard",
+  "rev. richard cecil",
+  "mr. cecil"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cecil-remains-1843": [
+   "remainsofrevrich01ceci",
+   "Remains of the Rev. Richard Cecil, to which is prefixed a view of his character by Josiah Pratt (New York: R. Carter, 1843)"
+  ],
+  "cecil-original-thoughts-1849": [
+   "originalthoughts00ceci",
+   "Original Thoughts on Various Passages of Scripture, being the substance of sermons preached by the late Rev. Richard Cecil (New York: Robert Carter & Brothers, 1849)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_pending": {
+  "cecil-memoirs-newton": "Memoirs of the Rev. John Newton (New York, 1809; IA memoirsofrevjohn00ceci) returned HTTP 500 on 2026-10-03; retry",
+  "cecil-works": "The Works, ed. Josiah Pratt (Carter, 1847; IA works00cecigoog, works01cecigoog): not yet read"
+ },
+ "_checks": {
+  "cecil-remains-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard cecil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cecil-original-thoughts-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard cecil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
