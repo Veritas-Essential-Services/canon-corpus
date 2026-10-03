@@ -1,0 +1,30 @@
+{
+ "_about": "The Scottish Fairy Book, retold by Elizabeth W. Grierson (1869-1943), Lippincott's American printing; undated in the text. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Elizabeth W. Grierson",
+ "_name_words": [
+  "grierson"
+ ],
+ "_surname": [
+  "grierson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grierson-scottish-fairy-book": [
+   37532,
+   "The Scottish Fairy Book"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "grierson-scottish-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grierson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

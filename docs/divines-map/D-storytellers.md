@@ -2266,6 +2266,14 @@ Shelf: `pipeline/sellers_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | Tales from the Lands of Nuts and Grapes | have | PG 31481, `sellers-tales-from-the-lands-of-nuts-and-grapes` (867 units) |
 
+## Elizabeth W. Grierson
+
+Shelf: `pipeline/grierson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Scottish fairy tales retold, with a glossary. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scottish Fairy Book | have | PG 37532, `grierson-scottish-fairy-book` (1661 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
