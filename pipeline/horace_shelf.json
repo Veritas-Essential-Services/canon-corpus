@@ -134,6 +134,11 @@
    "odeshoraceinfou00ravegoog",
    "The Odes of Horace in four books translated into English lyric verse (London: Upham and Beet, 1858)",
    "tr. Lord Ravensworth"
+  ],
+  "horace-obrien-odes-i-1860": [
+   "odeshoracetrint00flacgoog",
+   "The Odes of Horace translated into English verse with the original measures preserved, second edition: the first book (Dublin: Hodges, Smith; London: Longman, 1860)",
+   "tr. Richard O'Brien"
   ]
  },
  "_cross_ref": {
@@ -175,7 +180,8 @@
   "horace-forsyth-odes-1876": "Forsyth",
   "horace-marris-odes-1912": "Marris",
   "horace-whyte-melville-1850": "Melville",
-  "horace-ravensworth-odes-1858": "Ravensworth"
+  "horace-ravensworth-odes-1858": "Ravensworth",
+  "horace-obrien-odes-i-1860": "O'Brien"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -495,6 +501,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1858",
    "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-obrien-odes-i-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "translator_claimed": "O'Brien",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
