@@ -1761,8 +1761,10 @@
     {
       "id": "ballantyne",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: ballantyne; no minting",
-      "status": "running",
-      "started": "2026-10-03T06:23:29-05:00"
+      "status": "done",
+      "started": "2026-10-03T06:23:29-05:00",
+      "finished": "2026-10-03T06:34:20-05:00",
+      "notes": "2/2 fetched (Gutenberg 646, 21736), 3,159 units, 0 ~2 ids."
     },
     {
       "id": "martha-finley",

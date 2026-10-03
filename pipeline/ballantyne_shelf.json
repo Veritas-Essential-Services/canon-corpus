@@ -1,0 +1,45 @@
+{
+ "_about": "R. M. Ballantyne's The Coral Island (Edinburgh and New York, 1884 printing) and its sequel The Gorilla Hunters (undated in the text). Gutenberg's other Coral Island texts (PG 7124, 21721) are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "R. M. Ballantyne",
+ "_name_words": [
+  "ballantyne"
+ ],
+ "_surname": [
+  "r. m. ballantyne",
+  "r.m. ballantyne",
+  "robert michael ballantyne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ballantyne-coral-island": [
+   646,
+   "The Coral Island: A Tale of the Pacific Ocean"
+  ],
+  "ballantyne-gorilla-hunters": [
+   21736,
+   "The Gorilla Hunters"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ballantyne-coral-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-gorilla-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
