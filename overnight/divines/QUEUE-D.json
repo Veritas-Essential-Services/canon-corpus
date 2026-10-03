@@ -680,7 +680,9 @@
     {
       "id": "ingelow",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: ingelow; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T20:07:49-05:00",
+      "notes": "2/2 fetched (Gutenberg 32867, 21014), 1,639 units, 0 ~2 ids."
     },
     {
       "id": "stockton",

@@ -1,0 +1,32 @@
+{
+ "_about": "Jean Ingelow's (1820-1897) fairy tales: Mopsa the Fairy and the Wonder-Box Tales. Clean Gutenberg text; public domain. Her poems and novel are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jean Ingelow",
+ "_name_words": [
+  "mopsa",
+  "fairy",
+  "wonder",
+  "box"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ingelow-mopsa-the-fairy": [
+   32867,
+   "Mopsa the Fairy",
+   {
+    "contents_only": true
+   }
+  ],
+  "ingelow-wonder-box-tales": [
+   21014,
+   "Wonder-Box Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ingelow-duplicate": "Mopsa the Fairy (PG 67087): a later illustrated printing",
+  "ingelow-other": "her Poems (PG 13223-13224) and Fated to Be Free (12303)"
+ }
+}

@@ -336,3 +336,6 @@
 
 ## 2026-10-02 20:07 CDT — craik: done
 - 3/3 fetched (Gutenberg 496, 30494, 19734), 3,272 units, 19 ~2 ids.
+
+## 2026-10-02 20:07 CDT — ingelow: done
+- 2/2 fetched (Gutenberg 32867, 21014), 1,639 units, 0 ~2 ids.
