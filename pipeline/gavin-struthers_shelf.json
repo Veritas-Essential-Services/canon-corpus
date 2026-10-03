@@ -1,0 +1,32 @@
+{
+ "_about": "Gavin Struthers (1790-1858), Relief minister of Anderston, Glasgow: The History of the Rise, Progress and Principles of the Relief Church, embracing notices of the other religious denominations in Scotland (Glasgow: Fullarton, 1843). The Relief Church, with the Secession, made up the United Presbyterian Church in 1847. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "struthers"
+ ],
+ "_surname": [
+  "struthers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "struthers-relief-church-1843": [
+   "historyofrisepro00stru",
+   "The History of the Rise, Progress and Principles of the Relief Church (Glasgow: Fullarton, 1843)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "struthers-relief-church-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "struthers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

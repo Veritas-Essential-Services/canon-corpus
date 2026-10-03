@@ -154,6 +154,9 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Robert Buchanan, The Ten Years' Conflict (2 vols, 1849) | have-raw | `robert-buchanan_shelf.json` |
 | Thomas Brown, Annals of the Disruption (1884) | have-raw | `thomas-brown-disruption_shelf.json` |
 | Reid, History of the Presbyterian Church in Ireland, continued by Killen (3 vols, 1867) | have-raw | `james-seaton-reid_shelf.json` |
+| Killen, The Ecclesiastical History of Ireland (2 vols, 1875) | have-raw | `killen_shelf.json` |
+| Struthers, History of the Relief Church (1843) | have-raw | `gavin-struthers_shelf.json` |
+| Disruption Worthies, ed. Wylie (new ed., [1881]) | have-raw | `james-wylie_shelf.json` |
 
 ## The Westminster Assembly
 
