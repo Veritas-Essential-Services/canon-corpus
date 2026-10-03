@@ -1,0 +1,40 @@
+{
+ "_about": "Roumanian Fairy Tales, collected by Mite Kremnitz (1852-1916), adapted and arranged in English by J. M. Percival (New York: Henry Holt, 1885, per the title page). Translations from Ispirescu, Creanga and others, named in the preface. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mite Kremnitz (collector); J. M. Percival (adapter)",
+ "_name_words": [
+  "kremnitz",
+  "percival"
+ ],
+ "_surname": [
+  "kremnitz",
+  "percival"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kremnitz-roumanian-fairy-tales": [
+   20552,
+   "Roumanian Fairy Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "kremnitz-roumanian-fairy-tales": "Percival"
+ },
+ "_checks": {
+  "kremnitz-roumanian-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kremnitz",
+   "translator_claimed": "Percival",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
