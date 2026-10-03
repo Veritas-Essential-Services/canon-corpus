@@ -399,6 +399,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Hecuba, Orestes, Phoenician Virgins, and Medea, literally translated (Oxford: Talboys and Wheeler; undated, 3rd ed.) | unnamed | `euripides-oxford-literal-hecuba-etc` | have-raw (IA `hecubaorestespho00euriuoft`) |
 | The Crowned Hippolytus of Euripides, with a selection from the pastoral and lyric poets of Greece, translated into English verse (Chapman and Hall, 1867) | Maurice Purcell Fitz-Gerald | `euripides-fitzgerald-hippolytus-1867` | have-raw (IA `crownedhippolytu00euri`) |
 | Three Dramas of Euripides: essays with the entire plays in translation (Boston: Houghton Mifflin; copyright 1889) | William Cranston Lawton | `euripides-lawton-three-dramas-1889` | have-raw (IA `threedramasofeur00euririch`) |
+| The Alcestis of Euripides translated into English verse for the thirteenth annual rendition of the Classical Department (Beloit, Wis.: Ingersoll, 1898) | the Class of 1900 of Beloit College | `euripides-beloit-alcestis-1898` | have-raw (IA `alcestisofeuripi00euri_1`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 

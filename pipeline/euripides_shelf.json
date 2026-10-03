@@ -136,6 +136,11 @@
    "threedramasofeur00euririch",
    "Three Dramas of Euripides: essays with the entire plays in translation (Boston: Houghton Mifflin; copyright 1889)",
    "tr. William Cranston Lawton"
+  ],
+  "euripides-beloit-alcestis-1898": [
+   "alcestisofeuripi00euri_1",
+   "The Alcestis of Euripides translated into English verse for the thirteenth annual rendition of the Classical Department (Beloit, Wis.: Ingersoll, 1898)",
+   "tr. the Class of 1900 of Beloit College"
   ]
  },
  "_excluded": {
@@ -168,7 +173,8 @@
   "euripides-potter-v3": "R. Potter",
   "euripides-buckley-v2": "Theodore Alois Buckley",
   "euripides-webster-medea-1868": "Augusta Webster",
-  "euripides-lawton-three-dramas-1889": "Lawton"
+  "euripides-lawton-three-dramas-1889": "Lawton",
+  "euripides-beloit-alcestis-1898": "Beloit"
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -483,6 +489,19 @@
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euripides-beloit-alcestis-1898": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "translator_claimed": "Beloit",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
