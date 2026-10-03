@@ -3893,6 +3893,21 @@ Shelf: `pipeline/church_shelf.json` (2026-10-02; added at the coordinator's rela
 | church-tacitus | excluded | Tacitus, tr. Church and Brodribb: held by Lane B on tacitus_shelf.json |
 | church-iliad-audio | excluded | The Iliad for Boys and Girls (PG 21584): on Gutenberg only as a LibriVox audiobook, with no text file |
 
+## H. A. Guerber
+
+Shelf: `pipeline/guerber_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her handbooks of myth and legend, cut by their own chapter lines or Contents. Her school histories are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths of Greece and Rome, Narrated with Special Reference to Literature and Art | have | PG 39250, `guerber-myths-of-greece-and-rome` (3455 units) |
+| Myths of Northern Lands | have | PG 73021, `guerber-myths-of-northern-lands` (2779 units) |
+| Myths of the Norsemen, from the Eddas and Sagas | have | PG 28497, `guerber-myths-of-the-norsemen` (1893 units) |
+| Legends of the Middle Ages, Narrated with Special Reference to Literature and Art | have | PG 12455, `guerber-legends-of-the-middle-ages` (1472 units) |
+| The Book of the Epic: The World's Great Epics Told in Story | have | PG 13983, `guerber-book-of-the-epic` (1770 units) |
+| Legends of Switzerland | have | PG 64163, `guerber-legends-of-switzerland` (1549 units) |
+| Stories of the Wagner Opera | have | PG 16840, `guerber-stories-of-the-wagner-opera` (448 units) |
+| guerber-histories | excluded | The Story of the Greeks (PG 23495), The Story of the Thirteen Colonies (48051) and her other school histories: history, not myth |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

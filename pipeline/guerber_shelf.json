@@ -1,0 +1,83 @@
+{
+ "_about": "Hélène Adeline Guerber's (1859-1929) handbooks of myth and legend, retold with reference to literature and art: Myths of Greece and Rome, Myths of Northern Lands, Myths of the Norsemen, Legends of the Middle Ages, The Book of the Epic, Legends of Switzerland and Stories of the Wagner Opera. Her own English prose. All published before 1929; clean Gutenberg text; US public domain. Her school histories are not taken. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "H. A. Guerber",
+ "_name_words": [
+  "myths",
+  "legends",
+  "greece",
+  "rome",
+  "norsemen",
+  "northern",
+  "middle",
+  "epic",
+  "switzerland",
+  "wagner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "guerber-myths-of-greece-and-rome": [
+   39250,
+   "Myths of Greece and Rome, Narrated with Special Reference to Literature and Art",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ],
+  "guerber-myths-of-northern-lands": [
+   73021,
+   "Myths of Northern Lands",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ],
+  "guerber-myths-of-the-norsemen": [
+   28497,
+   "Myths of the Norsemen, from the Eddas and Sagas",
+   {
+    "contents_only": true
+   }
+  ],
+  "guerber-legends-of-the-middle-ages": [
+   12455,
+   "Legends of the Middle Ages, Narrated with Special Reference to Literature and Art",
+   {
+    "contents_only": true
+   }
+  ],
+  "guerber-book-of-the-epic": [
+   13983,
+   "The Book of the Epic: The World's Great Epics Told in Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "guerber-legends-of-switzerland": [
+   64163,
+   "Legends of Switzerland"
+  ],
+  "guerber-stories-of-the-wagner-opera": [
+   16840,
+   "Stories of the Wagner Opera",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "guerber-histories": "The Story of the Greeks (PG 23495), The Story of the Thirteen Colonies (48051) and her other school histories: history, not myth"
+ }
+}

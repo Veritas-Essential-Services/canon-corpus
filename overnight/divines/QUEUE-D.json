@@ -477,7 +477,9 @@
     {
       "id": "guerber",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — H. A. Guerber's myths and legends; myth and saints batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:42:31-05:00",
+      "notes": "7/7 fetched (Gutenberg 39250, 73021, 28497, 12455, 13983, 64163, 16840), 13,366 units, 0 ~2 ids."
     },
     {
       "id": "peabody",
