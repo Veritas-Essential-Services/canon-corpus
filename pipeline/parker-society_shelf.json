@@ -1,0 +1,246 @@
+{
+ "_about": "The Parker Society's collective volumes, which have no single author: liturgies, prayer collections, letter collections, poetry and the General Index (Cambridge, 1842-1855). The name check here looks for the Society's own name ('Parker' as a word, which also covers Matthew Parker's Correspondence), not an author's. The authored Parker volumes have their own shelves (cranmer, latimer, ... whitgift). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "parker"
+ ],
+ "_surname": [
+  "parker"
+ ],
+ "_identity_checked": {
+  "ps-select-poetry-2": "Title page read 2026-10-03: Select Poetry, chiefly Devotional, of the Reign of Queen Elizabeth, collected and edited by Edward Farr for the Parker Society, part 2, Cambridge 1845. The Society's name is printed in blackletter and OCR'd as 'Barker', so the name check cannot see it."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ps-liturgies-edward-vi": [
+   "twoliturgiesad1500churuoft",
+   "The Two Liturgies, A.D. 1549 and 1552, with Other Documents set forth in the Reign of King Edward the Sixth, ed. Joseph Ketley (Parker Society, Cambridge, 1844)"
+  ],
+  "ps-liturgies-elizabeth": [
+   "liturgicalservic00unknuoft",
+   "Liturgical Services: Liturgies and Occasional Forms of Prayer set forth in the Reign of Queen Elizabeth, ed. W. K. Clay (Parker Society, Cambridge, 1847)"
+  ],
+  "ps-private-prayers-elizabeth": [
+   "privateprayerspu00churuoft",
+   "Private Prayers put forth by authority during the Reign of Queen Elizabeth, ed. W. K. Clay (Parker Society, Cambridge, 1851)"
+  ],
+  "ps-christian-prayers-bull": [
+   "christianprayers00bulluoft",
+   "Christian Prayers and Holy Meditations, collected by Henry Bull (1566) (Parker Society, Cambridge, 1842)"
+  ],
+  "ps-zurich-letters-1": [
+   "zurichletterscom00robiuoft",
+   "The Zurich Letters, A.D. 1558-1579 (first series), tr. and ed. Hastings Robinson (Parker Society, Cambridge, 1842)"
+  ],
+  "ps-zurich-letters-1-latin": [
+   "zurichletterscom02hunt",
+   "The Zurich Letters, A.D. 1558-1579 (first series), the Latin originals, ed. Hastings Robinson (Parker Society, Cambridge, 1842)"
+  ],
+  "ps-zurich-letters-2": [
+   "zurichletterssec44robiuoft",
+   "The Zurich Letters (second series), A.D. 1558-1602, tr. and ed. Hastings Robinson (Parker Society, Cambridge, 1845)"
+  ],
+  "ps-original-letters-1": [
+   "originallettersr01robiuoft",
+   "Original Letters relative to the English Reformation, First Portion, tr. and ed. Hastings Robinson (Parker Society, Cambridge, 1846)"
+  ],
+  "ps-original-letters-2": [
+   "originallettersr02robi",
+   "Original Letters relative to the English Reformation, Second Portion, tr. and ed. Hastings Robinson (Parker Society, Cambridge, 1847)"
+  ],
+  "ps-epistolae-tigurinae": [
+   "epistolaetigurin0054vari",
+   "Epistolae Tigurinae, A.D. 1531-1558 (Latin originals of the Original Letters) (Parker Society, Cambridge, 1848)"
+  ],
+  "ps-parker-correspondence": [
+   "correspondenceof00park",
+   "Correspondence of Matthew Parker, Archbishop of Canterbury, A.D. 1535-1575, ed. John Bruce and T. T. Perowne (Parker Society, Cambridge, 1853)"
+  ],
+  "ps-select-poetry-1": [
+   "selectpoetrychie00farruoft",
+   "Select Poetry, chiefly Devotional, of the Reign of Queen Elizabeth, ed. Edward Farr (Parker Society, Cambridge, 1845), part 1"
+  ],
+  "ps-select-poetry-2": [
+   "poetrydevotional02farruoft",
+   "Select Poetry, chiefly Devotional, of the Reign of Queen Elizabeth, ed. Edward Farr (Parker Society, Cambridge, 1845), part 2"
+  ],
+  "ps-general-index": [
+   "ageneralindextot00unknuoft",
+   "A General Index to the Publications of the Parker Society, comp. Henry Gough (Parker Society, Cambridge, 1855)"
+  ]
+ },
+ "_alternates": {
+  "thetwoliturgiesa00unknuoft": "Second Toronto copy of the Edward VI liturgies.",
+  "liturgiesandocca00elizuoft": "Second Toronto copy of the Elizabethan liturgies.",
+  "privateprayerspu04unknuoft": "Trinity College copy of the Private Prayers.",
+  "christianprayers00bull, parkersocietyfor06park": "Other copies of Bull's Christian Prayers.",
+  "thezurichletters43unknuoft, parkersocietyfor07park, zurichlettersorc00park": "The 1846 second edition of the first series, chronologically arranged in one series (Toronto copy's text file returned HTTP 500 on 2026-10-03).",
+  "zurichletterssec0000revh, zurichletterscom02hunt_0, parkersocietyfor18park": "Other copies of the second series.",
+  "originallettersr00robiuoft, originallettersr01robi, originallettersrefor0[12]robi": "Other copies of the Original Letters (Toronto's 00 is a portion not yet identified).",
+  "corresp00park, correspondenceof00park_0": "Princeton copies of Parker's Correspondence.",
+  "ageneralindextot00unnnuoft, generalindextopu00park": "Other copies of the Index."
+ },
+ "_pending": {
+  "The Zurich Letters, second series, Latin originals": "Not yet identified among the scans.",
+  "Annual reports of the Parker Society": "Bound into the Index volume (thirteenth and final report)."
+ },
+ "_excluded": {
+  "Parker in other titles (Nathaniel Parker Willis, Theodore Parker, etc.)": "Not Parker Society volumes."
+ },
+ "_checks": {
+  "ps-liturgies-edward-vi": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-liturgies-elizabeth": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-private-prayers-elizabeth": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-christian-prayers-bull": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-zurich-letters-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-zurich-letters-1-latin": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-zurich-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-original-letters-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-original-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846-47",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-epistolae-tigurinae": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ps-parker-correspondence": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ps-select-poetry-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-select-poetry-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ps-general-index": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "parker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
