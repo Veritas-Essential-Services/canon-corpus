@@ -5649,6 +5649,15 @@ Shelf: `pipeline/gesta-romanorum_shelf.json` (2026-10-02; added at the coordinat
 |---|---|---|
 | Tales from the Gesta Romanorum | have | PG 58655, `gesta-romanorum-tales` (1470 units) |
 
+## Ellen C. Babbitt
+
+Shelf: `pipeline/babbitt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Buddhist birth stories retold for young children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jataka Tales | have | PG 62514, `babbitt-jataka-tales` (464 units) |
+| More Jataka Tales | have | PG 7518, `babbitt-more-jataka-tales` (429 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

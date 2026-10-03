@@ -1129,8 +1129,10 @@
     {
       "id": "babbitt",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: babbitt; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:37:01-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:08-05:00",
+      "notes": "2/2 fetched (Gutenberg 62514, 7518), 893 units, 0 ~2 ids."
     },
     {
       "id": "abby-diaz",

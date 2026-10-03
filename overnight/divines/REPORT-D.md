@@ -519,3 +519,6 @@
 
 ## 2026-10-02 21:37 CDT — gesta-romanorum: done
 - 1/1 fetched (Gutenberg 58655), 1,470 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — babbitt: done
+- 2/2 fetched (Gutenberg 62514, 7518), 893 units, 0 ~2 ids.
