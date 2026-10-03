@@ -360,10 +360,24 @@ read it as Latin letters, which stay in the text as the OCR gave them.
 Every honesty field says so.
 
 **Not shelved.** Alford vol. I and Bengel vols I and V have no scan that
-keeps the Greek. Delitzsch's Isaiah, Job and Proverbs rarely mark their sections
-"Ver.", so they need a different reader; their scans are measured and
-listed in the code. Delitzsch's Ecclesiastes and Song of Songs (1877) has
+keeps the Greek. Delitzsch's Ecclesiastes and Song of Songs (1877) has
 no scan printed before 1929 on the Internet Archive.
+
+**Job, Proverbs and Isaiah: read by their running heads.** Delitzsch's Job
+(2 vols, tr. Bolton, 1866), Proverbs (2 vols, tr. Easton, 1874-75) and Isaiah
+(2 vols, from the 4th edition, 1890) rarely print "Ver.", so a second reader
+(`kdh`) keys them by the head at the top of each right-hand page, which names
+the chapter and verses on it ("CHAP. III. 10-12."). The heads are read with
+the OCR's usual slips undone (L for I, a lost hyphen) and then checked as a
+sequence, the way the Charles reader checks margin numbers: a head that jumps
+ahead or runs backwards is dropped and counted
+(`running_heads_out_of_order`). A page with no head takes the verses between
+the heads around it. Inside a page, a "Ver." opener or a block of numbered
+translation lines opens its own, finer unit. Every note says how its key was
+got (`keyed_by`: opener, translation, running-head, inferred). Keyed by the
+page, a unit is the verses the page names, not the note's own boundaries, and
+the honesty field says so. The scans were chosen by measuring each candidate
+with this reader; `scheme.scan_choice` names the ones that lost.
 
 ### The third shelf: Meyer (drafts); Godet not shelved
 

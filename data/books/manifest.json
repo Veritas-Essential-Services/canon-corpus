@@ -30130,11 +30130,14 @@
      ]
     },
     "Isa": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1221,
+     "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
     },
     "Jer": {
      "read": 1542,
@@ -30147,11 +30150,14 @@
      ]
     },
     "Job": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1139,
+     "only_hebrew": 7,
      "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": []
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
     },
     "Joel": {
      "read": 90,
@@ -30226,11 +30232,14 @@
      ]
     },
     "Prov": {
-     "read": 0,
+     "read": 1320,
      "only_hebrew": 0,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
     },
     "Ps": {
      "read": 2829,
@@ -30290,7 +30299,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "3507d4be7574ef99e2dbcdfa9b53e748c472ea73b40c6998ff16dc3824bfb590"
+  "built_sha256": "2715755ccde4e85b60a7b0a200e2ea80c2ef38fa97cf72c3b2d618cc8b85cb12"
  },
  "keil-delitzsch-pentateuch-2": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. II",
@@ -30536,11 +30545,14 @@
      ]
     },
     "Isa": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1221,
+     "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
     },
     "Jer": {
      "read": 1542,
@@ -30553,11 +30565,14 @@
      ]
     },
     "Job": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1139,
+     "only_hebrew": 7,
      "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": []
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
     },
     "Joel": {
      "read": 90,
@@ -30632,11 +30647,14 @@
      ]
     },
     "Prov": {
-     "read": 0,
+     "read": 1320,
      "only_hebrew": 0,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
     },
     "Ps": {
      "read": 2829,
@@ -30689,7 +30707,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "9d95005fea060c77ff7607b8d71adcd050ee1a2b7be62eba3f70723e8e9da3cc"
+  "built_sha256": "48e940e2d0958a774464c65faa01048234d0f6bad6020968fced980e92d2a663"
  },
  "keil-delitzsch-pentateuch-3": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. III",
@@ -31643,7 +31661,7 @@
    },
    "scripture_links": {
     "read": 3730,
-    "resolved": 3540,
+    "resolved": 3541,
     "ranges": 168,
     "ranges_start_only": 10
    },
@@ -31836,11 +31854,14 @@
      ]
     },
     "Isa": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1221,
+     "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
     },
     "Jer": {
      "read": 1542,
@@ -31853,11 +31874,14 @@
      ]
     },
     "Job": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1139,
+     "only_hebrew": 7,
      "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": []
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
     },
     "Joel": {
      "read": 90,
@@ -31941,11 +31965,14 @@
      ]
     },
     "Prov": {
-     "read": 0,
+     "read": 1320,
      "only_hebrew": 0,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
     },
     "Ps": {
      "read": 2829,
@@ -31998,7 +32025,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "b0912d8faccd095e25ef0e7e5ebc8b99c8f078e739e5b8833bc1876e3c55044b"
+  "built_sha256": "3235617ef361346aaf1b3bc3d75ff6b4a108e794500b30d1873fb82bf66d9357"
  },
  "keil-delitzsch-samuel": {
   "title": "Biblical Commentary on the Books of Samuel",
@@ -33183,7 +33210,7 @@
    },
    "scripture_links": {
     "read": 3406,
-    "resolved": 3116,
+    "resolved": 3117,
     "ranges": 193,
     "ranges_start_only": 5
    },
@@ -33403,11 +33430,14 @@
      ]
     },
     "Isa": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1221,
+     "only_hebrew": 3,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
     },
     "Jer": {
      "read": 1542,
@@ -33420,11 +33450,14 @@
      ]
     },
     "Job": {
-     "read": 0,
-     "only_hebrew": 0,
+     "read": 1139,
+     "only_hebrew": 7,
      "only_kjv": 0,
-     "decision": "undecided",
-     "volumes": []
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
     },
     "Joel": {
      "read": 90,
@@ -33535,11 +33568,14 @@
      ]
     },
     "Prov": {
-     "read": 0,
+     "read": 1320,
      "only_hebrew": 0,
      "only_kjv": 0,
      "decision": "undecided",
-     "volumes": []
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
     },
     "Ruth": {
      "read": 33,
@@ -33581,7 +33617,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "573e36d21bb77b39f9290260f1526ea06e78a0d3cf78fd098782b22ca3ae72f8"
+  "built_sha256": "8e3bd667c5b7fd61c8dd61509ff463490fab26cd6e7fbd343fa67cabc0dea6db"
  },
  "keil-delitzsch-minor-prophets-2": {
   "title": "Biblical Commentary on the Twelve Minor Prophets, vol. II",
@@ -33788,5 +33824,1688 @@
    }
   },
   "built_sha256": "aa40891fc245261a0924361b2a0f4a3daf7b51bbe6c5956fd691f6e1a4169801"
+ },
+ "delitzsch-job-1": {
+  "title": "Biblical Commentary on the Book of Job, vol. I",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "a685a4a5d717e9556f68b3c6acb150f3255e4bfcfcccfa0644a36d563ddc4fde",
+  "units": 284,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Job": "undecided"
+   },
+   "scan_choice": "biblicalcommejob01deliuoft (Toronto, 1866): 537 of 550 KJV verses keyed, 201 running heads decoded, 0 out of order; biblicalcommenta00deli 535/550 (3 out of order), bookofjob00deliuoft 531/550 (1)",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Book of Job, vol. I (chap. i.-xxii.), tr. Francis Bolton (1866), as its title page reads; scan leaves 6-465 of biblicalcommejob01deliuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1866); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommejob01deliuoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/biblicalcommejob01deliuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 234,
+    "page": 50
+   },
+   "empty_segments_dropped": 3,
+   "footnote_lines": 722,
+   "junk_lines_dropped": 129,
+   "leaves_commentary": 410,
+   "leaves_page": 50,
+   "notes_keyed_by_inferred": 21,
+   "notes_keyed_by_opener": 37,
+   "notes_keyed_by_opener_to_head": 16,
+   "notes_keyed_by_running_head": 25,
+   "notes_keyed_by_translation": 100,
+   "notes_keyed_by_translation_to_head": 35,
+   "openers_accepted": 56,
+   "openers_rejected": 7,
+   "openers_run_to_head": 53,
+   "printed_page_from_neighbours": 176,
+   "printed_page_read": 274,
+   "running_heads_fixed": 15,
+   "running_heads_out_of_order": 0,
+   "running_heads_read": 201,
+   "running_heads_unreadable": 3,
+   "translation_lines": 425,
+   "translations_accepted": 145,
+   "translations_rejected": 19,
+   "kjv_coverage": {
+    "Job": {
+     "kjv_verses": 1070,
+     "commented": 537,
+     "with_own_note": 80,
+     "chapters": [
+      1,
+      22
+     ],
+     "kjv_verses_in_chapters": 550
+    }
+   },
+   "scripture_links": {
+    "read": 2064,
+    "resolved": 1928,
+    "ranges": 26,
+    "ranges_start_only": 1
+   },
+   "numbering_own": {
+    "Job": {
+     "read": 606,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 196,
+     "only_hebrew": 4,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 865,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 1221,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 1139,
+     "only_hebrew": 7,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Mal": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 15,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Mic": {
+     "read": 162,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Obad": {
+     "read": 56,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Prov": {
+     "read": 1320,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Song": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "4b4060c9a0bed9a7831e983c98269f5de092391ffc58f593bbaca0a600d72dab"
+ },
+ "delitzsch-job-2": {
+  "title": "Biblical Commentary on the Book of Job, vol. II",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "9ebd46aac655acb312add994f35b5eaa1bf7c111419b2c1f919235b918072cf9",
+  "units": 296,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Job": "hebrew"
+   },
+   "scan_choice": "biblicalcommejob02deliuoft (Toronto, 1866): 503 of 520 KJV verses keyed, 185 heads, 3 out of order; biblicalcommenta02deli 505/520 (4 out of order), biblicalcommenta01deli (vol. II, though IA catalogues it vol. 1) 502/520 (4), thebookofjob02deliuoft 502/520 (8), biblicalco2ndjob02deliuoft 494/520; fewest heads dropped among the near-equal",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Book of Job, vol. II (chap. xxiii.-xlii., with Wetzstein's appendix), tr. Francis Bolton (1866), as its title page reads; scan leaves 10-470 of biblicalcommejob02deliuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1866); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommejob02deliuoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/biblicalcommejob02deliuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 229,
+    "page": 67
+   },
+   "empty_segments_dropped": 6,
+   "footnote_lines": 954,
+   "junk_lines_dropped": 46,
+   "leaves_commentary": 394,
+   "leaves_page": 67,
+   "notes_keyed_by_inferred": 31,
+   "notes_keyed_by_opener": 28,
+   "notes_keyed_by_opener_to_head": 9,
+   "notes_keyed_by_running_head": 31,
+   "notes_keyed_by_translation": 81,
+   "notes_keyed_by_translation_to_head": 49,
+   "openers_accepted": 38,
+   "openers_rejected": 6,
+   "openers_run_to_head": 59,
+   "printed_page_from_neighbours": 56,
+   "printed_page_read": 379,
+   "running_heads_chapter_only": 5,
+   "running_heads_fixed": 25,
+   "running_heads_out_of_order": 3,
+   "running_heads_read": 185,
+   "running_heads_unreadable": 5,
+   "translation_lines": 327,
+   "translations_accepted": 133,
+   "translations_rejected": 40,
+   "kjv_coverage": {
+    "Job": {
+     "kjv_verses": 1070,
+     "commented": 503,
+     "with_own_note": 76,
+     "chapters": [
+      23,
+      42
+     ],
+     "kjv_verses_in_chapters": 520
+    }
+   },
+   "scripture_links": {
+    "read": 1871,
+    "resolved": 1781,
+    "ranges": 14,
+    "ranges_start_only": 1
+   },
+   "numbering_own": {
+    "Job": {
+     "read": 533,
+     "only_hebrew": 7,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 141,
+     "only_hebrew": 2,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 717,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_work": {
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "7aa92097457d8d85a80fb76457c0157c913b96c75c77bd6e82b3e81cbaa41a2b"
+ },
+ "delitzsch-proverbs-1": {
+  "title": "Biblical Commentary on the Proverbs of Solomon, vol. I",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "dfe4b27b5cb2736a62e46232d1d74cfa4513a6a57c577a798cd2937b09bceb6d",
+  "units": 442,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Prov": "undecided"
+   },
+   "scan_choice": "biblicalcommentary01deli (Princeton, 1874): 462 of 501 KJV verses keyed, 154 heads, 2 out of order; biblicalcommenta01deliuoft (IA: 1880) 461/501 (4)",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Proverbs of Solomon, vol. I (chap. i.-xvii.), tr. M. G. Easton (1874), as its title page reads; scan leaves 9-390 of biblicalcommentary01deli"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1874); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommentary01deli (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/biblicalcommentary01deli",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 382,
+    "page": 60
+   },
+   "empty_segments_dropped": 5,
+   "footnote_lines": 283,
+   "junk_lines_dropped": 2,
+   "leaves_commentary": 321,
+   "leaves_page": 60,
+   "notes_keyed_by_inferred": 25,
+   "notes_keyed_by_opener": 232,
+   "notes_keyed_by_opener_to_head": 35,
+   "notes_keyed_by_running_head": 37,
+   "notes_keyed_by_translation": 45,
+   "notes_keyed_by_translation_to_head": 8,
+   "notes_rejoined": 3,
+   "openers_accepted": 289,
+   "openers_rejected": 11,
+   "openers_run_to_head": 44,
+   "printed_page_from_neighbours": 143,
+   "printed_page_read": 226,
+   "running_heads_chapter_only": 3,
+   "running_heads_fixed": 15,
+   "running_heads_out_of_order": 2,
+   "running_heads_read": 154,
+   "running_heads_unreadable": 2,
+   "translation_lines": 84,
+   "translations_accepted": 59,
+   "translations_rejected": 23,
+   "kjv_coverage": {
+    "Prov": {
+     "kjv_verses": 915,
+     "commented": 462,
+     "with_own_note": 246,
+     "chapters": [
+      1,
+      17
+     ],
+     "kjv_verses_in_chapters": 501
+    }
+   },
+   "scripture_links": {
+    "read": 1682,
+    "resolved": 1602,
+    "ranges": 32,
+    "ranges_start_only": 1
+   },
+   "numbering_own": {
+    "Prov": {
+     "read": 701,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 232,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    },
+    "other": {
+     "read": 1076,
+     "only_hebrew": 8,
+     "only_kjv": 1,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_work": {
+    "Prov": {
+     "read": 1320,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "88a14766309d9c98b3820e1034127ccfc052467f62ff8bea45cad5f202bd0613"
+ },
+ "delitzsch-proverbs-2": {
+  "title": "Biblical Commentary on the Proverbs of Solomon, vol. II",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "22327865dac4aa5538d277f926758bbb46e4ed54fa35af8f50079e322f7aab05",
+  "units": 355,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Prov": "undecided"
+   },
+   "scan_choice": "biblicalcommentary02deli (Princeton, 1875): 378 of 414 KJV verses keyed, 155 heads, 5 out of order; biblicalcommenta02deliuoft 383/414 refused: IA dates it 1880, but its title page prints no date and its imprint (Simpkin, Marshall, Hamilton, Kent) is of 1889 or later, so the issue cannot be dated",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Proverbs of Solomon, vol. II (chap. xviii.-xxxi.), tr. M. G. Easton (1875), as its title page reads; scan leaves 11-365 of biblicalcommentary02deli"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1875); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommentary02deli (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/biblicalcommentary02deli",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 344,
+    "page": 11
+   },
+   "empty_segments_dropped": 4,
+   "footnote_lines": 430,
+   "junk_lines_dropped": 4,
+   "leaves_commentary": 342,
+   "leaves_page": 11,
+   "notes_keyed_by_inferred": 22,
+   "notes_keyed_by_opener": 207,
+   "notes_keyed_by_opener_to_head": 40,
+   "notes_keyed_by_running_head": 39,
+   "notes_keyed_by_translation": 29,
+   "notes_keyed_by_translation_to_head": 7,
+   "notes_rejoined": 13,
+   "openers_accepted": 263,
+   "openers_rejected": 4,
+   "openers_run_to_head": 49,
+   "printed_page_from_neighbours": 102,
+   "printed_page_read": 237,
+   "running_heads_chapter_only": 3,
+   "running_heads_fixed": 7,
+   "running_heads_out_of_order": 5,
+   "running_heads_read": 155,
+   "running_heads_unreadable": 3,
+   "translation_lines": 39,
+   "translations_accepted": 36,
+   "translations_rejected": 33,
+   "kjv_coverage": {
+    "Prov": {
+     "kjv_verses": 915,
+     "commented": 378,
+     "with_own_note": 238,
+     "chapters": [
+      18,
+      31
+     ],
+     "kjv_verses_in_chapters": 414
+    }
+   },
+   "scripture_links": {
+    "read": 1347,
+    "resolved": 1254,
+    "ranges": 24,
+    "ranges_start_only": 1
+   },
+   "numbering_own": {
+    "Prov": {
+     "read": 619,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 181,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 895,
+     "only_hebrew": 4,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 1221,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 1139,
+     "only_hebrew": 7,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Mic": {
+     "read": 162,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Prov": {
+     "read": 1320,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "8013409b8ef4ff32298c88c61ab30127efb459f908cb8b3e16861d29214b7f5a"
+ },
+ "delitzsch-isaiah-1": {
+  "title": "Biblical Commentary on the Prophecies of Isaiah, vol. I",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "f05085fa5e015134f3b67c6bca38f35b539d0b4debfbad6b8eba09f4c7ccbb6a",
+  "units": 361,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Isa": "undecided"
+   },
+   "scan_choice": "biblicalcommenta1deliuoft (Toronto, 1890, 4th ed.): 479 of 510 KJV verses keyed, 189 heads, 3 out of order; biblicalcommenta1894deli (1894) 478/510 (4), isaiahsprophecie01deliuoft (1884, 3rd ed.) 463/510 (7), biblicalcomment03deligoog 464/510 (27), biblicalcommenta00delirich 22 out of order",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library), New Series: Franz Delitzsch, Biblical Commentary on the Prophecies of Isaiah, vol. I (chap. i.-xxvii.), translated from the fourth edition, with an introduction by S. R. Driver (1890), as its title page reads (it names no translator); scan leaves 5-478 of biblicalcommenta1deliuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1890); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommenta1deliuoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/biblicalcommenta1deliuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 298,
+    "page": 63
+   },
+   "footnote_lines": 629,
+   "junk_lines_dropped": 87,
+   "leaves_commentary": 410,
+   "leaves_page": 63,
+   "notes_keyed_by_inferred": 61,
+   "notes_keyed_by_opener": 103,
+   "notes_keyed_by_opener_to_head": 64,
+   "notes_keyed_by_running_head": 67,
+   "notes_keyed_by_translation": 2,
+   "notes_keyed_by_translation_to_head": 1,
+   "openers_accepted": 179,
+   "openers_rejected": 5,
+   "openers_run_to_head": 66,
+   "printed_page_from_neighbours": 36,
+   "printed_page_read": 415,
+   "running_heads_chapter_only": 4,
+   "running_heads_fixed": 20,
+   "running_heads_out_of_order": 3,
+   "running_heads_read": 189,
+   "running_heads_unreadable": 4,
+   "translation_lines": 3,
+   "translations_accepted": 3,
+   "translations_rejected": 32,
+   "kjv_coverage": {
+    "Isa": {
+     "kjv_verses": 1292,
+     "commented": 479,
+     "with_own_note": 96,
+     "chapters": [
+      1,
+      27
+     ],
+     "kjv_verses_in_chapters": 510
+    }
+   },
+   "scripture_links": {
+    "read": 2592,
+    "resolved": 2401,
+    "ranges": 66,
+    "ranges_start_only": 2
+   },
+   "numbering_own": {
+    "Isa": {
+     "read": 621,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 157,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1623,
+     "only_hebrew": 9,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_work": {
+    "Isa": {
+     "read": 1221,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "fd802152ffcb39146870b93d5c8d833b158bb86dd47604d411e3f60dcb98c4b4"
+ },
+ "delitzsch-isaiah-2": {
+  "title": "Biblical Commentary on the Prophecies of Isaiah, vol. II",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "349c3a341f55971b7307b9f8dd95d91d0dc39e95925547968a97f36e988a0858",
+  "units": 391,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering); a run of verses: chapter.verse-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. 10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names (keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed 40 verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', 'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run (at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Isa": "undecided"
+   },
+   "scan_choice": "biblicalcoisaiah02deliuoft (Toronto, 1890, 4th ed.): 757 of 782 KJV verses keyed, 220 heads, 5 out of order; isaiahsprophecie02deliuoft (1884, 3rd ed.) 735/782 (6), biblicalcomment04deligoog (1877) 432/782 (49)",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library), New Series: Franz Delitzsch, Biblical Commentary on the Prophecies of Isaiah, vol. II (chap. xxviii.-lxvi.), translated from the fourth edition (1890), as its title page reads (it names no translator); scan leaves 9-501 of biblicalcoisaiah02deliuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1890); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcoisaiah02deliuoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/biblicalcoisaiah02deliuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 387,
+    "page": 4
+   },
+   "empty_segments_dropped": 10,
+   "footnote_lines": 530,
+   "junk_lines_dropped": 32,
+   "leaves_commentary": 489,
+   "leaves_page": 4,
+   "notes_keyed_by_inferred": 137,
+   "notes_keyed_by_opener": 68,
+   "notes_keyed_by_opener_to_head": 38,
+   "notes_keyed_by_running_head": 142,
+   "notes_keyed_by_translation": 1,
+   "notes_keyed_by_translation_to_head": 1,
+   "notes_rejoined": 1,
+   "openers_accepted": 112,
+   "openers_rejected": 1,
+   "openers_run_to_head": 39,
+   "printed_page_from_neighbours": 64,
+   "printed_page_read": 390,
+   "running_heads_chapter_only": 3,
+   "running_heads_fixed": 20,
+   "running_heads_out_of_order": 5,
+   "running_heads_read": 220,
+   "running_heads_unreadable": 2,
+   "translation_lines": 2,
+   "translations_accepted": 2,
+   "translations_rejected": 10,
+   "kjv_coverage": {
+    "Isa": {
+     "kjv_verses": 1292,
+     "commented": 757,
+     "with_own_note": 82,
+     "chapters": [
+      28,
+      66
+     ],
+     "kjv_verses_in_chapters": 782
+    }
+   },
+   "scripture_links": {
+    "read": 2621,
+    "resolved": 2399,
+    "ranges": 143,
+    "ranges_start_only": 1
+   },
+   "numbering_own": {
+    "Isa": {
+     "read": 600,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 214,
+     "only_hebrew": 4,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1525,
+     "only_hebrew": 6,
+     "only_kjv": 4,
+     "decision": "undecided"
+    }
+   },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 1221,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-isaiah-1",
+      "delitzsch-isaiah-2"
+     ]
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 1139,
+     "only_hebrew": 7,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-job-1",
+      "delitzsch-job-2"
+     ]
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Mal": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 15,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Obad": {
+     "read": 56,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Prov": {
+     "read": 1320,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "delitzsch-proverbs-1",
+      "delitzsch-proverbs-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Song": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "f998908f92a62f62fbf78db611f2c4a9a5ec75d898278377c7abb31a0bd767b3"
  }
 }

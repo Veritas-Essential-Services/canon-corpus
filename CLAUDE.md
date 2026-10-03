@@ -191,7 +191,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
     python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
-    python3 pipeline/build_commentaries.py --fetch   # 43 commentary volumes: IA hOCR scans + PG #50857, pinned
+    python3 pipeline/build_commentaries.py --fetch   # 49 commentary volumes: IA hOCR scans + PG #50857, pinned
     python3 pipeline/build_commentaries.py           # notes keyed by verse -> data/books/<slug>.json + manifest
     python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
@@ -636,8 +636,7 @@ The living truth for project state is the Obsidian vault:
   bhs-kjv.json where it is the Hebrew's (Delitzsch's Psalms: Hebrew; psalm
   titles stay unresolved with why); their Hebrew is lost in every scan
   (OCR'd as Latin debris), and the honesty says so. Not shelved, and why:
-  Alford vol. I and Bengel vols I and V (no scan keeps the Greek);
-  Delitzsch's Isaiah (no 'Ver.' openers: needs a running-head reader).
+  Alford vol. I and Bengel vols I and V (no scan keeps the Greek).
 - The commentaries' third shelf (2026-10-03, pipeline/build_commentaries.py,
   table MEYER, reader build_scan_meyer, hooked into build_book_2b by
   SCAN_READERS/READER_TEXTS): H. A. W. Meyer's Critical and Exegetical
@@ -652,8 +651,7 @@ The living truth for project state is the Obsidian vault:
   scan. Godet (John, Luke, Romans, 1 Cor.) NOT shelved: all 50 scans have
   0.0% Greek (comment above MEYER). Acts and Corinthians measured, not yet
   shelved.
-  Delitzsch's Isaiah, Job, Proverbs (few 'Ver.' openers: need a running-head
-  reader); Ecclesiastes/Song (no pre-1929 scan; BYU's is Eerdmans' 1986 reprint).
+  Ecclesiastes/Song not shelved (no pre-1929 scan; BYU's is Eerdmans' 1986 reprint).
   4c (2026-10-03, table KD4C): the rest of K&D's OT, 12 volumes, Joshua-Ruth
   to the Minor Prophets, scans chosen by measure (comment above KD4C). Two
   rules gated to KD4C: monotone_heads (a running head out of order against
@@ -665,6 +663,18 @@ The living truth for project state is the Obsidian vault:
   work_numbering: the book's own-id votes pooled over every kd volume
   (measure.numbering_work); still undecided, a verse the Hebrew and the
   KJV read differently is resolved:false with both `candidates`.
+  4d (2026-10-03, table KD4D, reader kdh = build_scan_kdh): Delitzsch's Job
+  (2 vols, Bolton 1866), Proverbs (2 vols, Easton 1874-75), Isaiah (2 vols,
+  4th ed. tr., 1890), which rarely print 'Ver.'. Keyed by the RUNNING HEADS
+  ('CHAP. III. 10-12.'): read with the OCR's confusions undone (kdh_head),
+  decoded as a sequence by shortest path (kdh_decode; a head that does not
+  fit is dropped, measure.running_heads_out_of_order); a leaf with no head is
+  the run between its neighbours' heads (inferred), over 40 verses a leaf.N
+  page unit. Inside a leaf, 'Ver.' openers and numbered translation lines
+  open finer units. Every note says how in `keyed_by` (opener, translation,
+  running-head, inferred, *-to-head). A unit is the verses the PAGE heads
+  name, not the note's own bounds; the honesty says so. Scans chosen by
+  measure with this reader (scheme.scan_choice names the losers).
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

@@ -297,7 +297,7 @@ check("manifest: 1 John, 95% of verses", cov("westcott-john", "1John")["commente
 LOW_GREEK = {"hort-ante-nicene", "lightfoot-horae"}     # lectures; and the Horae, whose quotations are Hebrew
 check("manifest: the commentaries' Greek survived as Greek (over 5% of letters)",
       all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER
-          if k not in LOW_GREEK and B.SCANS.get(k, {}).get("reader") != "kd"))
+          if k not in LOW_GREEK and B.SCANS.get(k, {}).get("reader") not in B.KD_READERS))
 check("manifest: most scripture references resolve",
       all(e["measure"]["scripture_links"]["resolved"] >= 0.8 * e["measure"]["scripture_links"]["read"]
           for k, e in ents.items() if k not in LOW_GREEK))
@@ -505,7 +505,7 @@ for k in B.SECOND:
     got = sum(c["commented"] for c in cv.values())
     floor = 0.5 if k.startswith("alford") else 0.7
     check(f"manifest: {k} notes reach {floor:.0%} of its verses", got >= floor * tot)
-    if B.SECOND[k]["reader"] == "kd":
+    if B.SECOND[k]["reader"] in B.KD_READERS:
         check(f"manifest: {k} records the numbering measured", set(e["scheme"]["numbering"]) == set(cv)
               and "numbering_references" in e["measure"])
         check(f"manifest: {k} says its Hebrew is lost", e["measure"]["hebrew"]["hebrew_letters"] == 0
@@ -582,7 +582,7 @@ check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are 
       B.work_numbering("Ps", ids)["decision"] == "hebrew" and len(B.work_numbering("Ps", ids)["volumes"]) == 3)
 check("work_numbering: Joel and Malachi measure KJV; a book no volume holds is undecided",
       B.work_numbering("Joel", ids)["decision"] == "kjv" and B.work_numbering("Mal", ids)["decision"] == "kjv"
-      and B.work_numbering("Isa", ids) == dict(B.work_numbering("Isa", ids), decision="undecided", volumes=[]))
+      and B.work_numbering("Song", ids) == dict(B.work_numbering("Song", ids), decision="undecided", volumes=[]))
 x = B.ot_link("Ps", 34, 12, "undecided", ids, "t")
 check("ot_link: undecided, a verse the two numberings read differently stays unresolved, with both candidates",
       not x["resolved"] and [c.get("target") for c in x["candidates"]] == ["kjv:Ps.34.12", "kjv:Ps.34.11"])
@@ -591,7 +591,7 @@ check("ot_link: undecided, a verse both read alike resolves", x["resolved"] and 
 _s = B.SCANS["delitzsch-psalms-2"]
 _s["_numbering"] = {"Ps": {"decision": "undecided"}}
 _u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
-       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Isa. ix. 1; Joel iii. 1."}]
+       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Eccl. v. 1; Joel iii. 1."}]
 _n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
 _s.pop("_numbering")
 lk = {x["ref"]: x for x in _u[0]["links"]}
@@ -600,10 +600,10 @@ check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's 
 check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
 check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
       and lk["Ps 34:12"]["rule"].endswith("/work"))
-check("harvest: Isa 9:1, where no volume measures Isaiah, is unresolved with both candidates",
-      not lk.get("Isa 9:1", {"resolved": True})["resolved"] and len(lk["Isa 9:1"].get("candidates", [])) == 2)
+check("harvest: Eccl 5:1, where no volume measures Ecclesiastes, is unresolved with both candidates",
+      not lk.get("Eccl 5:1", {"resolved": True})["resolved"] and len(lk["Eccl 5:1"].get("candidates", [])) == 2)
 check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
-check("harvest: the work's numbering consulted is recorded", {"Ps", "Isa", "Joel"} <= set(_x["numbering_work"]))
+check("harvest: the work's numbering consulted is recorded", {"Ps", "Eccl", "Joel"} <= set(_x["numbering_work"]))
 
 # -- Keil & Delitzsch, the rest of the set (4c)
 its = [{"leaf": i, "book": "Jer", "hc": c} for i, c in enumerate([10, 10, 11, 11, 40, 11, 12, 12, 12, 13, 13])]
@@ -636,7 +636,8 @@ check("reopen: only the volumes that ask for it", B.reopen("delitzsch-psalms-1",
 
 check("K&D 4c: twelve volumes, each in ORDER after the earlier K&D", len(B.KD4C) == 12
       and B.ORDER.index(next(iter(B.KD4C))) > max(B.ORDER.index(k) for k in B.SECOND
-                                                     if k not in B.KD4C and k.startswith(("keil-", "delitzsch-"))))
+                                                     if k not in B.KD4C and k not in B.KD4D
+                                                     and k.startswith(("keil-", "delitzsch-"))))
 check("K&D 4c: every volume says why its scan was chosen, and reads its rights field",
       all(s.get("scan_choice") and "ia_rights" in s for s in B.KD4C.values()))
 check("K&D 4c: a volume continuing a book starts at its chapter (Jer 30, Ezek 29)",
@@ -662,6 +663,61 @@ if len(num) == 12:
           num["keil-delitzsch-kings"]["1Kgs"] == "kjv" and num["keil-delitzsch-minor-prophets-1"]["Hos"] == "kjv")
     check("manifest: Jeremiah vol. II covers only chapters 30-52",
           ents["keil-delitzsch-jeremiah-2"]["measure"]["kjv_coverage"]["Jer"].get("chapters") == [30, 52])
+
+# -- K&D 4d: Delitzsch's Job, Proverbs, Isaiah, keyed by their running heads (reader kdh); synthetic heads
+_r = B.kdh_head("CHAP. III. 10-12. 79", 79, 60)
+check("kdh_head: 'CHAP. III. 10-12. 79' reads 3:10-12 at no cost, the folio dropped",
+      min(_r, key=lambda r: r[4])[:4] == (3, 10, 3, 12))
+_r = B.kdh_head("CHAP. IX. 34-X. 2. 201", 201, 60)
+check("kdh_head: a run crossing a chapter, 'IX. 34-X. 2.'", min(_r, key=lambda r: r[4])[:4] == (9, 34, 10, 2))
+check("kdh_head: 'IIL' (a final I read as L) is III, at a cost",
+      any(r[:4] == (3, 5, 3, 8) and r[4] > 0 for r in B.kdh_head("CHAP. IIL 5-8.", None, 60)))
+check("kdh_head: '611' (a hyphen lost) can be 6-11",
+      any(r[:4] == (14, 6, 14, 11) for r in B.kdh_head("CHAP. XIV. 611. 201", 201, 60)))
+check("kdh_head: a verso's head and an introduction's name no verse",
+      B.kdh_head("THE BOOK OF JOB. 80", 80, 60) == [] and B.kdh_head("INTRODUCTION. 5", 5, 60) == [])
+check("kdh_romans: 'XL.' is 40 as read, 11 only at a cost", B.kdh_romans("XL.")[0] == (40, 0.0)
+      and any(n == 11 and c > 0 for n, c in B.kdh_romans("XL.")))
+_got, _drop, _unread = B.kdh_decode([(1, [(1, 1, 1, 4, 0.)]), (3, [(1, 5, 1, 9, 0.)]), (5, [(3, 15, 3, 18, 0.)]),
+                                     (7, [(1, 10, 1, 13, 0.)]), (9, [(1, 2, 1, 3, 0.)]), (11, [(1, 14, 1, 17, 0.)])],
+                                    {1: 20, 2: 20, 3: 20}, 1, 0)
+check("kdh_decode: a head leaping ahead and a head running back are dropped, the sequence kept",
+      sorted(_got) == [1, 3, 7, 11] and sorted(_drop) == [5, 9])
+check("kdh_span_key: a verse, a run, a run crossing a chapter",
+      (B.kdh_span_key(3, 5, 3, 5), B.kdh_span_key(3, 10, 3, 12), B.kdh_span_key(9, 34, 10, 2))
+      == ("3.5", "3.10-12", "9.34-10.2"))
+check("kdh_verses_of: a run crossing a chapter lists its verses",
+      B.kdh_verses_of(9, 34, 10, 2, {9: 35, 10: 20}) == [(9, 34), (9, 35), (10, 1), (10, 2)])
+check("K&D 4d: six volumes, reader kdh, pinned, printed before 1929, in SECOND, SCANS and ORDER",
+      len(B.KD4D) == 6 and all(s["reader"] == "kdh" and re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) and s["printed"] < 1929
+                               and k in B.SECOND and k in B.SCANS and k in B.ORDER for k, s in B.KD4D.items()))
+check("K&D 4d: every volume says why its scan was chosen, with its IA date and rights field",
+      all(s.get("scan_choice") and s.get("ia_date") and "ia_rights" in s for s in B.KD4D.values()))
+check("K&D 4d: an IA date that is not the title page's year says why",
+      all(s.get("ia_date_note") for s in B.KD4D.values() if not s["ia_date"].startswith(str(s["printed"]))))
+check("K&D 4d: a volume continuing a book starts at its chapter (Job 23, Prov 18, Isa 28)",
+      B.SCANS["delitzsch-job-2"]["first_chapter"] == {"Job": 23}
+      and B.SCANS["delitzsch-proverbs-2"]["first_chapter"] == {"Prov": 18}
+      and B.SCANS["delitzsch-isaiah-2"]["first_chapter"] == {"Isa": 28})
+_KB = {"opener", "opener-to-head", "translation", "translation-to-head", "running-head", "inferred"}
+for k in B.KD4D:
+    e = ents.get(k)
+    if not e:
+        continue
+    ms = e["measure"]
+    check(f"manifest: {k} names its dropped heads in honesty and measure (under 5% dropped)",
+          "running_heads_out_of_order" in e["scheme"]["honesty"] and "running_heads_out_of_order" in ms
+          and ms["running_heads_out_of_order"] <= 0.05 * ms["running_heads_read"])
+    check(f"manifest: {k} counts every note by how its key was got",
+          sum(v for x, v in ms.items() if x.startswith("notes_keyed_by_")) == ms["units"]["note"]
+          and {x[len("notes_keyed_by_"):].replace("_", "-") for x in ms if x.startswith("notes_keyed_by_")} <= _KB)
+    check(f"manifest: {k} scripture mostly resolves (85%)",
+          ms["scripture_links"]["resolved"] >= 0.85 * ms["scripture_links"]["read"])
+    check(f"manifest: {k} has a rights block as read", e["rights"]["ia_possible_copyright_status"]
+          and e["rights"]["source_url"].endswith(B.SCANS[k]["ia"]))
+if "delitzsch-job-2" in ents:
+    check("manifest: Delitzsch's Job II is measured as numbered in the Hebrew",
+          ents["delitzsch-job-2"]["scheme"]["numbering"]["Job"] == "hebrew")
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

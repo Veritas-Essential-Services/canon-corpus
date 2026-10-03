@@ -2677,10 +2677,10 @@ def work_numbering(book, ids):
         tot = {"read": 0, "only_hebrew": 0, "only_kjv": 0}
         vols = []
         for k, s in SCANS.items():
-            if s.get("reader") != "kd" or book not in [e[0] for e in s.get("epistles", [])]:
-                continue
+            if s.get("reader") not in KD_READERS or book not in [e[0] for e in s.get("epistles", [])]:
+                continue                                # KD4D: was != "kd"
             if k not in _OWN:
-                _OWN[k] = build_scan_2b(k, ids, votes_only=True)
+                _OWN[k] = KD_VOTES.get(s["reader"], build_scan_2b)(k, ids, votes_only=True)   # KD4D: KD_VOTES
             for f in tot:
                 tot[f] += _OWN[k][book][f]
             vols.append(k)
@@ -3063,7 +3063,7 @@ def harvest_2b(slug, units, ids):
     Psalms and the other OT books apart), and each OT reference is resolved in
     it, the Hebrew through data/versification/bhs-kjv.json."""
     s = SCANS[slug]
-    if s["reader"] != "kd":
+    if s["reader"] not in KD_READERS:          # KD4D: was != "kd"
         n = r = 0
         own_single = s["epistles"][0][0] if len(s["epistles"]) == 1 else None
         for u in units:
@@ -3781,6 +3781,612 @@ MEYER_HONESTY = (
 
 SCAN_READERS = {"meyer": build_scan_meyer}
 READER_TEXTS = {"meyer": {"honesty": MEYER_HONESTY, "citation": citation_meyer}}
+
+
+# ================================================================== Keil & Delitzsch: Job, Proverbs, Isaiah (4d)
+#
+# Franz Delitzsch on Job (2 vols), on Proverbs (2 vols) and on Isaiah (2 vols), in the T. & T. Clark
+# translation (Clark's Foreign Theological Library), read by their own reader, `kdh`: these volumes print
+# few 'Ver. 3.' openers (Job 40-63 a volume, Isaiah 113-340), so the `kd` reader would leave most verses
+# unkeyed. What they all print is a RUNNING HEAD on every recto naming the chapter and the verses the page
+# treats ('CHAP. III. 10-12. 79', 'CHAPTER XL. 9. 139'; the verso prints only the book's name), and Job
+# and Proverbs print the translation of each strophe or proverb with its verse numbers at the line starts
+# ('6 That night! let darkness ...'). The reader (build_scan_kdh):
+#   1. reads each recto's head into candidate readings (kdh_head: the chapter's roman numeral with the
+#      usual OCR confusions undone, the verse or run after it, a run crossing into the next chapter
+#      'IX. 34-X. 2', the folio dropped where it is the expected one; old-style figures the OCR swaps,
+#      3/8, 1/7, 5/6, 0/9, offered as costlier readings), and decodes them AS A SEQUENCE (kdh_decode,
+#      a shortest path: a head's verse may not run backwards, nor leap further ahead than the leaves
+#      between allow; a head that fits no path is dropped and counted, running_heads_out_of_order);
+#   2. keys each commentary leaf by its decoded head ('running-head'), or a leaf without one (a verso,
+#      a head unread or dropped) by the run between the heads around it, from the verse the last head
+#      ends at to the verse the next one starts at ('inferred'); a run may cross a chapter
+#      ('3.24-4.2'); a leaf whose run would exceed KDH_MAX_RUN verses is a page unit, unkeyed;
+#   3. inside the leaves, an opener ('Ver. 8:', 'Vers. 9-11.') or a translation block (indented lines
+#      opening with a verse number: the block's first number to its last) that falls inside the leaf's
+#      run (two verses' slack) opens its own unit ('opener', 'translation'), which runs on into the next
+#      leaf while that leaf's run still reaches its verses;
+#   4. units with the same key (a run printed on two rectos, an opener's unit and a head's) are one unit.
+# Every unit says how its key was got (`keyed_by`). The numbering is measured as the `kd` volumes'
+# (numbering_votes over the decoded heads and the accepted openers; work_numbering pools them with any
+# `kd` volume of the same book).
+# Scans: see KD4D_CHOICE (every candidate measured with this reader, 2026-10-03).
+
+KD_READERS = {"kd", "kdh"}          # readers whose numbering is measured (harvest_2b, work_numbering)
+KDH_MAX_RUN = 40                     # a leaf inferred to span more verses than this is a page unit
+KDH_SKIP = 2.0                       # the cost of dropping a running head from the sequence
+
+KDH_ROMAN_FIX = str.maketrans({"1": "I", "|": "I", "!": "I", "Ι": "I", "Χ": "X", "Υ": "V", "'": "", "’": "",
+                               "‘": "", "`": ""})
+KDH_ROMAN = re.compile(r'(?=[IVXLC])(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})')   # I to LXXXIX
+KDH_DIG = str.maketrans({"I": "1", "l": "1", "i": "1", "|": "1", "O": "0", "o": "0", "S": "5", "s": "5",
+                         "G": "6", "b": "6", "g": "9", "Z": "2", "z": "2", "B": "8", "T": "7", "J": "1"})
+KDH_CHAPWORD = re.compile(r'^[^\w]*[CcGOe][a-zA-Z\'’]{0,4}[AaPpRr][a-zA-Z\'’]{0,5}[.,:]*$|^[CcGO][HhUu]?\.?$|^AP\.?$')
+KDH_VERLINE = re.compile(r'^[\W_]{0,2}Vers?\.\s*(\d{1,2})(?:\s*[-—–,]\s*(\d{1,2}))?\s+(?=[A-Z“"‘\'(])')   # 'Ver. 22 Jahve's ...'
+KDH_NUMLINE = re.compile(r'^[\W_]{0,2}([0-9IlOoSGgZB]{1,2})[.,]?\s+(?=[A-Z“"‘\'(])')
+
+
+def kdh_romans(tok):
+    """[(chapter, cost)] that a running head's chapter token may be: as read (0), with T/Y/R read as
+    I/V/I (0.3), a final L as I ('XVIL', 'IIL': 0.5), every L as I (0.8)."""
+    t = tok.translate(KDH_ROMAN_FIX).strip(".,:;")
+    if not t or not t.isalpha() or len(t) > 9:
+        return []
+    out, seen = [], set()
+    v0 = t.replace("l", "I").upper()
+    v1 = v0.replace("T", "I").replace("Y", "V").replace("R", "I")
+    v2 = v1[:-1] + "I" if v1.endswith("L") and len(v1) > 1 else None
+    v3 = v1.replace("L", "I")
+    v4 = v1 + "I"                                  # a final I lost ('XXXII' for 'XXXIII')
+    for v, cost in ((v0, 0.0), (v1, 0.3), (v2, 0.5), (v3, 0.8), (v4, 0.9)):
+        if v and v not in seen and KDH_ROMAN.fullmatch(v):
+            seen.add(v)
+            n = FS.roman(v)
+            if n and n not in [x[0] for x in out]:
+                out.append((n, cost))
+    return out
+
+
+def kdh_num(tok):
+    t = tok.strip(".,:;’‘'\"_()[]*")
+    if not t or len(t) > 3 or not (any(ch.isdigit() for ch in t) or (len(t) <= 2 and set(t) <= set("IlOoSG"))):
+        return None
+    u = t.translate(KDH_DIG)
+    return int(u) if u.isdigit() else None
+
+
+def kdh_head(text, folio=None, vmax=60):
+    """Candidate readings (c1, v1, c2, v2, cost) of a recto running head: 'CHAP. III. 10-12. 79' ->
+    (3, 10, 3, 12); 'CHAP. IX. 84-X. 2.' -> (9, 34, 10, 2) among others; 'CHAPTER LX. 381' -> (60, 0, 60, 0)
+    (a chapter, no verse). [] where the head names no chapter (a verso's 'THE BOOK OF JOB.', an
+    introduction's). The folio is dropped where it reads as `folio` (or, unknown, where it is past any
+    verse the book has, `vmax`)."""
+    t = re.sub(r'[—–~]', '-', text.replace("|", " "))
+    toks = t.split()
+    if not toks:
+        return []
+    # the folio: last token (recto) or first (verso)
+    for idx in (-1, 0):
+        if len(toks) < 2:
+            break
+        d = toks[idx].strip(".,:;’‘'\"_()[]*-").translate(KDH_DIG)
+        if d.isdigit() and ((folio is not None and (d == str(folio) or (d.endswith(str(folio)) and len(d) <= len(str(folio)) + 1)))
+                            or (idx == -1 and int(d) > vmax)):
+            toks = toks[:-1] if idx == -1 else toks[1:]
+    chap_word = False
+    for i, tok in enumerate(toks[:4]):
+        if KDH_CHAPWORD.match(tok):
+            chap_word = True
+            continue
+        rs = kdh_romans(tok)
+        if not rs:
+            continue
+        rest = " ".join(toks[i + 1:])
+        if not chap_word and not re.match(r'^\s*[\dIlOoSGgZB]', rest):
+            return []
+        return kdh_verses(rs, rest)
+    return []
+
+
+def kdh_verses(rs, rest):
+    """The verse part of a running head after its chapter: '10-12.', '4, 5.', '84-X. 2.', '32, XI. 1.',
+    '611' (a hyphen lost: 6-11)."""
+    parts = re.findall(r'[IVXLC]{1,7}\.|[A-Za-z0-9]+|[-,;]', rest)
+    nums, c2at = [], None
+    for k, p in enumerate(parts):
+        if p in "-,;":
+            continue
+        if p.endswith(".") and re.fullmatch(r'[IVXLC]{1,7}\.', p) and k + 1 < len(parts) \
+                and kdh_num(parts[k + 1]) is not None and nums and c2at is None and FS.roman(p[:-1]):
+            c2at = (len(nums), FS.roman(p[:-1]))
+            continue
+        n = kdh_num(p)
+        if n is not None:
+            nums.append(n)
+    out = []
+    for c, rc in rs:
+        if not nums:
+            out.append((c, 0, c, 0, rc))
+            continue
+        if c2at:
+            k, c2 = c2at
+            if k < len(nums):
+                v1s, v2s = nums[0], nums[k]
+                out += [(c, a, c2, b, rc + 0.6 * ((a != v1s) + (b != v2s)))
+                        for a in C.alts(v1s) for b in C.alts(v2s)]
+                continue
+        v1, v2 = nums[0], nums[-1]
+        reads = [(v1, v2, 0.0)] if v2 >= v1 else [(v1, v2, 0.0), (v1, v1, 0.4)]
+        if v1 >= 100:
+            s = str(v1)                        # '611': 6-11 with its hyphen lost
+            reads = [(int(s[:j]), int(s[j:]), 0.6) for j in range(1, len(s)) if s[j] != "0"]
+        for a0, b0, rr in reads:
+            for a in C.alts(a0):
+                for b in C.alts(b0):
+                    out.append((c, a, c, b, rc + rr + 0.6 * ((a != a0) + (b != b0))))
+    return out
+
+
+def kdh_page(p):
+    """sc_page, with the running head found where sc_page missed it (OCR debris above it at the scan's
+    edge): a short line, mostly capitals, with a number, in the top sixth of the page among the first
+    body lines; the debris above it is dropped and counted with the junk."""
+    head, nums, body, foot, junk = sc_page(p)
+    if head and re.search(r'\d', head):
+        return head, nums, body, foot, junk
+    for i, (l, _) in enumerate(body[:6]):
+        if l["bbox"][1] > 0.16 * p["h"]:
+            break
+        letters = [c for c in l["text"] if c.isalpha()]
+        if len(l["words"]) <= 10 and letters and sum(c.isupper() for c in letters) >= 0.5 * len(letters) \
+                and re.search(r'\d', l["text"]) and len(letters) >= 3:
+            top = l["bbox"][1]
+            above = [x for x, _ in body[:i] if x["bbox"][3] <= top + 0.3 * (l["bbox"][3] - top)]
+            if len(above) < i:
+                break
+            toks = l["text"].split()
+            nums = [int(x) for x in (toks[0], toks[-1]) if re.fullmatch(r'\d{1,3}', x)]
+            return l["text"], nums, body[i + 1:], foot, junk + len(above)
+    return head, nums, body, foot, junk
+
+
+def kdh_decode(heads, counts, fc, start_leaf):
+    """The running heads as a sequence: a shortest path over each head's readings (heads in leaf
+    order), where a head's first verse may not come before the last head's, nor leap further ahead
+    than the leaves between allow; dropping a head costs KDH_SKIP. -> ({leaf: reading}, [dropped leaf])."""
+    cum, tot = {}, 0
+    for c in range(1, max(counts) + 1):
+        cum[c] = tot
+        tot += counts.get(c, 0)
+    P = lambda c, v: cum[c] + v  # noqa: E731
+
+    def ok(r):
+        c1, v1, c2, v2, _ = r
+        return c1 in cum and c2 in cum and 0 <= v1 <= counts.get(c1, 0) and v2 <= counts.get(c2, 0) \
+            and (v1 > 0 or v2 == 0) and P(c1, v1) <= P(c2, v2) <= P(c1, v1) + 40 and (v1 > 0 or c1 == c2)
+    H = [(leaf, [r for r in rs if ok(r)]) for leaf, rs in heads]
+    H = [(leaf, rs) for leaf, rs in H if rs]
+
+    def trans(prev, pl, r, leaf):
+        s0, e0, s1 = P(prev[0], prev[1]), P(prev[2], prev[3]), P(r[0], r[1])
+        if s1 < s0:
+            return None
+        pages = max(1, (leaf - pl + 1) // 2)
+        gap = s1 - e0
+        if gap > 25 + 8 * pages:
+            return None
+        return 0.08 * max(0, gap - 4 * pages)
+    start = (fc, 0, fc, 0, 0.0)
+    best = []
+    W = 30
+    for i, (leaf, rs) in enumerate(H):
+        row = []
+        for r in rs:
+            cand = []
+            t = trans(start, start_leaf, r, leaf)
+            if t is not None:
+                cand.append((KDH_SKIP * i + t + r[4], None))
+            for j in range(max(0, i - W), i):
+                for kk, (cj, _) in enumerate(best[j]):
+                    t = trans(H[j][1][kk], H[j][0], r, leaf)
+                    if t is not None:
+                        cand.append((cj + KDH_SKIP * (i - j - 1) + t + r[4], (j, kk)))
+            row.append(min(cand, key=lambda x: x[0]) if cand else (float("inf"), None))
+        best.append(row)
+    n = len(H)
+    end = (KDH_SKIP * n, None)
+    for i in range(n):
+        for k, (c, _) in enumerate(best[i]):
+            if c + KDH_SKIP * (n - 1 - i) < end[0]:
+                end = (c + KDH_SKIP * (n - 1 - i), (i, k))
+    chosen = {}
+    at = end[1]
+    while at is not None:
+        i, k = at
+        chosen[H[i][0]] = H[i][1][k]
+        at = best[i][k][1]
+    dropped = [leaf for leaf, _ in H if leaf not in chosen]
+    return chosen, dropped, [leaf for leaf, rs in heads if rs and leaf not in dict(H)]
+
+
+def kdh_span_key(c1, v1, c2, v2):
+    if c1 == c2:
+        return f"{c1}.{v1}" + (f"-{v2}" if v2 != v1 else "")
+    return f"{c1}.{v1}-{c2}.{v2}"
+
+
+def kdh_verses_of(c1, v1, c2, v2, counts):
+    out = []
+    for c in range(c1, c2 + 1):
+        a = v1 if c == c1 else 1
+        b = v2 if c == c2 else counts.get(c, 0)
+        out += [(c, v) for v in range(a, b + 1)]
+    return out
+
+
+def build_scan_kdh(slug, ids, votes_only=False):
+    s = SCANS[slug]
+    P = pages(slug)
+    a0, b0 = s["leaves"]
+    seg = {}
+    for book, x, y in s["epistles"]:
+        for leaf in range(x, y + 1):
+            seg[leaf] = book
+    m = collections.Counter()
+    units = []
+    A = {leaf: analyse(P[leaf]) for leaf in range(a0, b0 + 1)}
+    SC = {leaf: kdh_page(P[leaf]) for leaf in range(a0, b0 + 1)}
+    pp = printed_pages({leaf: sorted(set(A[leaf]["nums"]) | set(SC[leaf][1])) for leaf in A})
+    kjv_counts = {book: verse_counts(ids, book) for book, _, _ in s["epistles"]}
+    counts = {}
+    for book, kc in kjv_counts.items():
+        hc_ = heb_counts(book)
+        counts[book] = {c: max(n, hc_.get(c, 0)) for c, n in set(kc.items()) | set(hc_.items())}
+    vmax = {book: max(c.values()) for book, c in counts.items()}
+    # 1. the running heads, decoded as a sequence per book
+    decoded, how = {}, {}
+    for book, x, y in s["epistles"]:
+        heads = []
+        for leaf in range(x, y + 1):
+            rs = kdh_head(SC[leaf][0], pp.get(leaf, (None,))[0], vmax[book])
+            if rs:
+                heads.append((leaf, rs))
+        fc = s.get("first_chapter", {}).get(book, 1)
+        got, dropped, unread = kdh_decode(heads, counts[book], fc, x - 1)
+        m["running_heads_read"] += len(got)
+        m["running_heads_out_of_order"] += len(dropped)
+        m["running_heads_unreadable"] += len(unread)
+        m["running_heads_fixed"] += sum(1 for r in got.values() if r[4] > 0)
+        for leaf, r in got.items():
+            if r[1] == 0:
+                m["running_heads_chapter_only"] += 1
+            else:
+                decoded[leaf] = r[:4]
+                how[leaf] = "running-head"
+    # 2. each commentary leaf's run
+    span = {}
+    for book, x, y in s["epistles"]:
+        fc = s.get("first_chapter", {}).get(book, 1)
+        hl = sorted(leaf for leaf in decoded if x <= leaf <= y)
+        cnt = counts[book]
+        for leaf in range(x, y + 1):
+            if leaf in decoded:
+                span[leaf] = decoded[leaf]
+                continue
+            prev = [q for q in hl if q < leaf]
+            nxt = [q for q in hl if q > leaf]
+            a = decoded[prev[-1]][2:4] if prev else (fc, 1)
+            b = decoded[nxt[0]][0:2] if nxt else (a[0], cnt.get(a[0], a[1]))
+            if (a[0], a[1]) > (b[0], b[1]):
+                a, b = b, a
+            span[leaf] = (a[0], a[1], b[0], b[1])
+            how[leaf] = "inferred"
+            if len(kdh_verses_of(*span[leaf], cnt)) > KDH_MAX_RUN:
+                span[leaf] = None
+    # 3. the stream: openers and translation blocks inside each leaf's run
+    segs = []            # {book, c1, v1, c2, v2, how, text, leaves, pages, notes}
+    pairs = collections.defaultdict(list)
+    for leaf, r in decoded.items():
+        pairs[seg[leaf]] += [(seg[leaf], r[0], r[1]), (seg[leaf], r[2], r[3])]
+    cur = {}
+
+    def P_(book, c, v):
+        return sum(counts[book].get(k, 0) for k in range(1, c)) + v
+
+    def new(book, c1, v1, c2, v2, kind, leaf):
+        sg = {"book": book, "c1": c1, "v1": v1, "c2": c2, "v2": v2, "how": kind, "text": "", "leaves": [],
+              "pages": [], "notes": [], "open": kind == "translation", "own_end": (c2, v2)}
+        segs.append(sg)
+        cur[book] = sg
+        add(sg, "", leaf, False)
+        return sg
+
+    def add(sg, text, leaf, para):
+        if text:
+            sg["text"] = sg["text"] + "\n" + text if (para and sg["text"]) else C.join(sg["text"], text)
+        if leaf not in sg["leaves"]:
+            sg["leaves"].append(leaf)
+            if leaf in pp and pp[leaf][0] not in sg["pages"]:
+                sg["pages"].append(pp[leaf][0])
+
+    def fit(book, n, sp, after):
+        """The chapter an opener's verse n belongs to inside the leaf's run sp (two verses' slack), at or
+        after `after`; None where it lies outside."""
+        c1, v1, c2, v2 = sp
+        rng = [(c1, v1 - 2, (v2 if c1 == c2 else counts[book].get(c1, 0)) + 2)]
+        if c2 != c1:
+            rng.append((c2, 1, v2 + 2))
+        for c, lo, hi in rng:
+            if lo <= n <= hi and 1 <= n <= counts[book].get(c, 0) and (after is None or P_(book, c, n) >= after):
+                return c
+        return None
+
+    for leaf in range(a0, b0 + 1):
+        a = A[leaf]
+        book = seg.get(leaf)
+        head, _, body, foot, junk = SC[leaf]
+        m["junk_lines_dropped"] += junk
+        if not book or span.get(leaf) is None:
+            lines = [l for l, _ in body] + foot
+            if lines:
+                u = page_unit(slug, s, leaf, lines, dict(a, head=head or a["head"]), pp)
+                if book:
+                    u["book"] = book
+                    u["scan"]["between_running_heads"] = "the run inferred here exceeds " + str(KDH_MAX_RUN) + " verses"
+                    m["leaves_unkeyed"] += 1
+                else:
+                    m["leaves_page"] += 1
+                units.append(u)
+            cur.pop(book, None)
+            continue
+        m["leaves_commentary"] += 1
+        sp = span[leaf]
+        c = cur.get(book)
+        floor, carried = None, None
+        if c and c["how"].split("-")[0] in ("opener", "translation") and \
+                P_(book, *c["own_end"]) >= P_(book, sp[0], sp[1]) - 1 and P_(book, c["c1"], c["v1"]) <= P_(book, sp[2], sp[3]):
+            add(c, "", leaf, False)            # an opener's note running on into this leaf
+            floor = P_(book, c["c1"], c["v1"])
+            carried = c
+        else:
+            c = new(book, *sp, how[leaf], leaf)
+        for l, para in body:
+            text = l["text"]
+            cands = []
+            mt = KDH_NUMLINE.match(text)
+            mv = KDH_VERLINE.match(text) if para else None
+            cc = cur[book]
+            if mt and kdh_num(mt.group(1)) and (para or (cc["how"].startswith("translation") and cc["open"])):
+                # a translation line; one set flush (its number's box read short) only continuing a block
+                cands.append((0, kdh_num(mt.group(1)), None, "translation" if para else "translation-cont"))
+            elif mv and not kd_cands(text):
+                cands.append((0, int(mv.group(1)), int(mv.group(2)) if mv.group(2) else None, "opener"))
+            else:
+                cands += [(p, o[1], o[2], "opener") for p, o in kd_cands(text)]
+            pos = 0
+            for p, n, e, kind in cands:
+                cc = cur[book]
+                if kind.startswith("translation") and cc["how"].startswith("translation") and cc["open"] \
+                        and cc["c2"] == cc["c1"] and cc["v2"] < n <= cc["v2"] + 3 and n <= counts[book].get(cc["c2"], 0):
+                    cc["v2"] = n                 # the next verse of the same translation block
+                    cc["own_end"] = (cc["c2"], n)
+                    m["translation_lines"] += 1
+                    continue
+                if kind == "translation-cont":
+                    continue
+                ch = fit(book, n, sp, floor)
+                if ch is None:
+                    m[f"{kind}s_rejected"] += 1
+                    continue
+                if e and not (n < e <= counts[book].get(ch, 0) and e - n <= 15):
+                    e = None
+                add(cc, text[pos:p].strip(), leaf, para)
+                new(book, ch, n, ch, e or n, kind, leaf)
+                m[f"{kind}s_accepted"] += 1
+                if kind == "translation":
+                    m["translation_lines"] += 1
+                pairs[book] += [(book, ch, n)] + ([(book, ch, e)] if e else [])
+                floor = P_(book, ch, n)
+                pos, para = p, True
+            if not para and cur[book]["open"] and pos == 0 and not mt:
+                cur[book]["open"] = False       # a flush line: the translation block has ended
+            add(cur[book], text[pos:].strip(), leaf, para)
+        if carried is not None and cur[book] is carried and P_(book, sp[2], sp[3]) > P_(book, carried["c2"], carried["v2"]) \
+                and len(kdh_verses_of(carried["c1"], carried["v1"], sp[2], sp[3], counts[book])) <= 15:
+            # an opener's note filling a leaf with no opener of its own: it runs to the verse the leaf's
+            # run ends at (its head's, or the next head's start)
+            carried["c2"], carried["v2"] = sp[2], sp[3]
+            if not carried["how"].endswith("-to-head"):
+                carried["how"] += "-to-head"
+                m["openers_run_to_head"] += 1
+        if foot:
+            m["footnote_lines"] += len(foot)
+            t = ""
+            for l in foot:
+                t = C.join(t, l["text"])
+            cur[book]["notes"].append(t)
+    # the numbering the volume's own verses are in, measured as the `kd` volumes'
+    numbering = {}
+    for book in kjv_counts:
+        v = numbering_votes(pairs[book], ids)
+        v["decision"] = decide(v)
+        numbering[book] = v
+    if votes_only:
+        return numbering
+    _OWN[slug] = {b: dict(v) for b, v in numbering.items()}
+    m["numbering_own"] = numbering
+    # 4. units: one per key
+    notes = collections.OrderedDict()
+    for sg in segs:
+        if not sg["text"].strip() and not sg["notes"]:
+            m["empty_segments_dropped"] += 1
+            continue
+        key = ids_prefix(slug, sg["book"]) + kdh_span_key(sg["c1"], sg["v1"], sg["c2"], sg["v2"])
+        if key in notes:
+            nu = notes[key]
+            if nu["leaves"][-1] < sg["leaves"][0] - 1 or nu is not next(reversed(notes.values())):
+                m["notes_rejoined"] += 1
+            nu["text"] = nu["text"] + "\n" + sg["text"] if nu["text"] else sg["text"]
+            for leaf in sg["leaves"]:
+                if leaf not in nu["leaves"]:
+                    nu["leaves"].append(leaf)
+            nu["pages"] += [x for x in sg["pages"] if x not in nu["pages"]]
+            nu["notes"] += sg["notes"]
+            continue
+        notes[key] = dict(sg)
+    for key, nu in notes.items():
+        book = nu["book"]
+        nb = effective(numbering[book]["decision"], book, ids, "")[0]
+        links = []
+        for c, v in kdh_verses_of(nu["c1"], nu["v1"], nu["c2"], nu["v2"], counts[book]):
+            lk = dict(ot_link(book, c, v, nb, ids, "comments-on"), type="comments-on")
+            lk.pop("rule", None)
+            links.append(lk)
+        who = s["short"].split(",")[0]
+        ref = f"{who} on {book} " + kdh_span_key(nu["c1"], nu["v1"], nu["c2"], nu["v2"])
+        u = {"id": f"{slug}:{key}", "ref": ref, "kind": "note", "book": book, "text": nu["text"].strip(),
+             "keyed_by": nu["how"], "links": links, "scan": {"leaves": nu["leaves"]}}
+        if nu["pages"]:
+            u["scan"]["printed_pages"] = nu["pages"]
+        if nu["notes"]:
+            u["notes"] = nu["notes"]
+        units.append(u)
+        m[f"notes_keyed_by_{nu['how'].replace('-', '_')}"] += 1
+    order = {"page": 0, "note": 1}
+    units.sort(key=lambda u: (min(u["scan"]["leaves"]), order[u["kind"]]))
+    return units, m, (a0, b0), pp
+
+
+def citation_kdh(slug):
+    lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
+    return (f"note: {lead} of the verse commented on, in the numbering the volume prints (scheme.numbering); a run "
+            f"of verses: {lead}-end, a run crossing a chapter: chapter.verse-chapter.verse (each unit's keyed_by "
+            "says how: opener, translation, running-head, inferred); everything else: scan leaf (leaf.N; folio in "
+            "scan.printed_page)")
+
+
+KDH_HONESTY = (
+    "notes keyed by the RUNNING HEADS where the OCR'd page has no better mark: each recto's head ('CHAP. III. "
+    "10-12.') read with the OCR's usual confusions undone and decoded as a sequence (a head that does not fit "
+    "the sequence is dropped: measure.running_heads_out_of_order; one read only with a figure or numeral "
+    "changed: running_heads_fixed); a leaf with a decoded head is the unit of the verses it names "
+    "(keyed_by running-head), a leaf without one (every verso, and a head unread or dropped) the run between "
+    "the heads around it, from the verse the last head ends at to the verse the next begins at (keyed_by "
+    "inferred), a run that may cross a chapter; so a unit's verses are the verses the PAGES print in their "
+    "heads, not a note's own boundaries, and a page's text about a verse outside its head's run (the end of "
+    "one section, the opening of the next) sits under that run; a leaf whose inferred run would exceed "
+    f"{KDH_MAX_RUN} verses is a page unit (leaves_unkeyed); inside a leaf's run, an opener ('Ver. 8:', "
+    "'Vers. 9-11.') or a block of translation lines opening with verse numbers ('6 That night ...', the "
+    "block's first verse to its last) opens its own unit (keyed_by opener, translation) where its verse lies "
+    "inside the run, two verses' slack, and not behind an opener already taken on the leaf (else it stays in "
+    "the text, counted rejected); that unit runs on into the next leaf while that leaf's run reaches its "
+    "verses, and where that leaf opens no unit of its own, the unit is widened to the end of the leaf's run "
+    "(at most 15 verses; keyed_by opener-to-head, translation-to-head: measure.openers_run_to_head), since "
+    "the page's text then reaches verses the opener did not name; units of one key are one unit, a key met again later joining its text (notes_rejoined); ids are "
+    "in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV "
+    "through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the "
+    "numbering measured for them (measure.numbering_references); where either measure is undecided, the "
+    "commentary's own numbering of that book decides, pooled over every Keil & Delitzsch volume holding it "
+    "(measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only "
+    "where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes` of the "
+    "unit open at the foot of the page; prefaces, introductions, appendices and indexes by scan leaf "
+    "(leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays "
+    "in the text as printed by the OCR, unremoved; unproofread OCR")
+
+SCAN_READERS["kdh"] = build_scan_kdh
+READER_TEXTS["kdh"] = {"honesty": KDH_HONESTY, "citation": citation_kdh}
+KD_VOTES = {"kdh": build_scan_kdh}
+
+# KD4D volumes: Delitzsch's Job (2 vols, tr. Bolton 1866), Proverbs (2 vols, tr. Easton 1874-75) and Isaiah
+# (2 vols, the fourth edition's translation, 1890). Every candidate scan was MEASURED with the kdh reader:
+# KJV verses keyed of the verses in the chapters reached, running heads decoded, heads dropped out of order.
+# Refused: anything printed after 1928 (the Eerdmans reprints, 1949-1986, and the Hendrickson 1996 set);
+# biblicalcommenta02deliuoft (Proverbs II) for its imprint (undated, the Simpkin Marshall Hamilton Kent
+# issue, 1889 or later); biblicalco2ndjob01deliuoft (its hOCR refused, HTTP 500, twice). Lane A
+# (claude/armarium-divines, pipeline/*_shelf.json) holds no Delitzsch item, so no same_scan_as.
+_DEL = "Franz Delitzsch"
+KD4D = {
+    "delitzsch-job-1": _kd(
+        "Biblical Commentary on the Book of Job, vol. I", "Delitzsch, Job I", _DEL,
+        "biblicalcommejob01deliuoft", "a685a4a5d717e9556f68b3c6acb150f3255e4bfcfcccfa0644a36d563ddc4fde",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Book of Job, vol. I (chap. i.-xxii.), tr. Francis "
+        "Bolton (1866), as its title page reads", 1866, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (6, 465), [("Job", 56, 465)]),
+    "delitzsch-job-2": _kd(
+        "Biblical Commentary on the Book of Job, vol. II", "Delitzsch, Job II", _DEL,
+        "biblicalcommejob02deliuoft", "9ebd46aac655acb312add994f35b5eaa1bf7c111419b2c1f919235b918072cf9",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Book of Job, vol. II (chap. xxiii.-xlii., with "
+        "Wetzstein's appendix), tr. Francis Bolton (1866), as its title page reads", 1866,
+        "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (10, 470), [("Job", 20, 413)]),
+    "delitzsch-proverbs-1": _kd(
+        "Biblical Commentary on the Proverbs of Solomon, vol. I", "Delitzsch, Prov. I", _DEL,
+        "biblicalcommentary01deli", "dfe4b27b5cb2736a62e46232d1d74cfa4513a6a57c577a798cd2937b09bceb6d",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Proverbs of Solomon, vol. I (chap. i.-xvii.), tr. "
+        "M. G. Easton (1874), as its title page reads", 1874, "Princeton Theological Seminary Library",
+        "NOT_IN_COPYRIGHT", (9, 390), [("Prov", 70, 390)]),
+    "delitzsch-proverbs-2": _kd(
+        "Biblical Commentary on the Proverbs of Solomon, vol. II", "Delitzsch, Prov. II", _DEL,
+        "biblicalcommentary02deli", "22327865dac4aa5538d277f926758bbb46e4ed54fa35af8f50079e322f7aab05",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Proverbs of Solomon, vol. II (chap. xviii.-xxxi.), "
+        "tr. M. G. Easton (1875), as its title page reads", 1875, "Princeton Theological Seminary Library",
+        "NOT_IN_COPYRIGHT", (11, 365), [("Prov", 19, 360)]),
+    "delitzsch-isaiah-1": _kd(
+        "Biblical Commentary on the Prophecies of Isaiah, vol. I", "Delitzsch, Isa. I", _DEL,
+        "biblicalcommenta1deliuoft", "f05085fa5e015134f3b67c6bca38f35b539d0b4debfbad6b8eba09f4c7ccbb6a",
+        f"{_KD}, New Series: Franz Delitzsch, Biblical Commentary on the Prophecies of Isaiah, vol. I (chap. "
+        "i.-xxvii.), translated from the fourth edition, with an introduction by S. R. Driver (1890), as its "
+        "title page reads (it names no translator)", 1890, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (5, 478), [("Isa", 69, 478)]),
+    "delitzsch-isaiah-2": _kd(
+        "Biblical Commentary on the Prophecies of Isaiah, vol. II", "Delitzsch, Isa. II", _DEL,
+        "biblicalcoisaiah02deliuoft", "349c3a341f55971b7307b9f8dd95d91d0dc39e95925547968a97f36e988a0858",
+        f"{_KD}, New Series: Franz Delitzsch, Biblical Commentary on the Prophecies of Isaiah, vol. II (chap. "
+        "xxviii.-lxvi.), translated from the fourth edition (1890), as its title page reads (it names no "
+        "translator)", 1890, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (9, 501), [("Isa", 13, 501)]),
+}
+KD4D_CHOICE = {
+    "delitzsch-job-1": "biblicalcommejob01deliuoft (Toronto, 1866): 537 of 550 KJV verses keyed, 201 running heads "
+                       "decoded, 0 out of order; biblicalcommenta00deli 535/550 (3 out of order), "
+                       "bookofjob00deliuoft 531/550 (1)",
+    "delitzsch-job-2": "biblicalcommejob02deliuoft (Toronto, 1866): 503 of 520 KJV verses keyed, 185 heads, 3 out of "
+                       "order; biblicalcommenta02deli 505/520 (4 out of order), biblicalcommenta01deli (vol. II, "
+                       "though IA catalogues it vol. 1) 502/520 (4), thebookofjob02deliuoft 502/520 (8), "
+                       "biblicalco2ndjob02deliuoft 494/520; fewest heads dropped among the near-equal",
+    "delitzsch-proverbs-1": "biblicalcommentary01deli (Princeton, 1874): 462 of 501 KJV verses keyed, 154 heads, 2 "
+                            "out of order; biblicalcommenta01deliuoft (IA: 1880) 461/501 (4)",
+    "delitzsch-proverbs-2": "biblicalcommentary02deli (Princeton, 1875): 378 of 414 KJV verses keyed, 155 heads, 5 out "
+                            "of order; biblicalcommenta02deliuoft 383/414 refused: IA dates it 1880, but its title page "
+                            "prints no date and its imprint (Simpkin, Marshall, Hamilton, Kent) is of 1889 or later, "
+                            "so the issue cannot be dated",
+    "delitzsch-isaiah-1": "biblicalcommenta1deliuoft (Toronto, 1890, 4th ed.): 479 of 510 KJV verses keyed, 189 heads, "
+                          "3 out of order; biblicalcommenta1894deli (1894) 478/510 (4), isaiahsprophecie01deliuoft (1884, 3rd ed.) 463/510 "
+                          "(7), biblicalcomment03deligoog 464/510 (27), biblicalcommenta00delirich 22 out of order",
+    "delitzsch-isaiah-2": "biblicalcoisaiah02deliuoft (Toronto, 1890, 4th ed.): 757 of 782 KJV verses keyed, 220 heads, "
+                          "5 out of order; isaiahsprophecie02deliuoft (1884, 3rd ed.) 735/782 (6), biblicalcomment04deligoog (1877) 432/782 "
+                          "(49)",
+}
+KD4D_IA_DATES = {
+    "biblicalcommejob01deliuoft": ("1866", None),
+    "biblicalcommejob02deliuoft": ("1866", None),
+    "biblicalcommentary01deli": ("1874", None),
+    "biblicalcommentary02deli": ("1874", "IA dates the set; this volume's title page reads 1875"),
+    "biblicalcommenta1deliuoft": ("1890", None),
+    "biblicalcoisaiah02deliuoft": ("1890", None),
+}
+# a volume continuing a book starts its notes where the volume before left off
+KD4D_FIRST_CHAPTER = {"delitzsch-job-2": {"Job": 23}, "delitzsch-proverbs-2": {"Prov": 18},
+                      "delitzsch-isaiah-2": {"Isa": 28}}
+for _k, _s in KD4D.items():
+    _s["reader"] = "kdh"
+    _s["scan_choice"] = KD4D_CHOICE[_k]
+    if _k in KD4D_FIRST_CHAPTER:
+        _s["first_chapter"] = KD4D_FIRST_CHAPTER[_k]
+    _s["ia_date"], _why = KD4D_IA_DATES[_s["ia"]]
+    if _why:
+        _s["ia_date_note"] = _why
+SECOND.update(KD4D)
+SCANS.update(KD4D)
+ORDER.extend(KD4D)
 
 
 # ------------------------------------------------------------------ books
