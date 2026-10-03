@@ -60,6 +60,11 @@
    "lucretiusonnatu00goodgoog",
    "Lucretius On the Nature of Things, literally translated into English prose, with the metrical version of John Mason Good (Bohn, MDCCCLI)",
    "tr. John Selby Watson (prose); John Mason Good (verse)"
+  ],
+  "lucretius-johnson-1872": [
+   "lucretiusonnatu00lucr",
+   "Lucretius On the Nature of Things, translated into English verse (London: Sampson Low, 1872)",
+   "tr. Charles Frederick Johnson"
   ]
  },
  "_cross_ref": {
@@ -90,7 +95,8 @@
   "lucretius-good-1805-v1": "John Mason Good",
   "lucretius-good-1805-v2": "John Mason Good",
   "lucretius-rouse-loeb-1924": "W. H. D. Rouse",
-  "lucretius-watson-good-bohn-1851": "Watson"
+  "lucretius-watson-good-bohn-1851": "Watson",
+  "lucretius-johnson-1872": "Johnson"
  },
  "_checks": {
   "lucretius-trevelyan-selections": {
@@ -219,6 +225,19 @@
    "ia_rights": "ok: published 1851",
    "ia_date": "1851",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-johnson-1872": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Johnson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
