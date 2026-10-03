@@ -65,6 +65,11 @@
    "tragediesofsopho02soph",
    "The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824)",
    "tr. Thomas Dale"
+  ],
+  "sophocles-sheppard-oedipus-tyrannus-1922": [
+   "oedipustyr00soph",
+   "The Oedipus Tyrannus of Sophocles (1922)",
+   "tr. J. T. Sheppard"
   ]
  },
  "_cross_ref": {
@@ -95,7 +100,8 @@
   "sophocles-jebb-prose-1904": "Richard C. Jebb",
   "sophocles-whitelaw-1883": "Robert Whitelaw",
   "sophocles-dale-1824-v1": "Thomas Dale",
-  "sophocles-dale-1824-v2": "Thomas Dale"
+  "sophocles-dale-1824-v2": "Thomas Dale",
+  "sophocles-sheppard-oedipus-tyrannus-1922": "Sheppard"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -234,6 +240,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1824",
    "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-sheppard-oedipus-tyrannus-1922": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Sheppard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
