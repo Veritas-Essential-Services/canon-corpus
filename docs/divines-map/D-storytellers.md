@@ -2123,6 +2123,18 @@ Shelf: `pipeline/babbitt_shelf.json` (2026-10-02; added at the coordinator's rel
 | Jataka Tales | have | PG 62514, `babbitt-jataka-tales` (464 units) |
 | More Jataka Tales | have | PG 7518, `babbitt-more-jataka-tales` (429 units) |
 
+## Abby Morton Diaz
+
+Shelf: `pipeline/abby-diaz_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her comic and fairy stories for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cats' Arabian Nights, or, King Grimalkum | have | PG 69482, `abby-diaz-cats-arabian-nights` (520 units) |
+| The Entertaining Story of King Brondé, His Lily and His Rosebud | have | PG 68833, `abby-diaz-king-bronde` (732 units) |
+| The Jimmyjohns, and Other Stories | have | PG 70939, `abby-diaz-jimmyjohns` (1589 units) |
+| The William Henry Letters | have | PG 34335, `abby-diaz-william-henry-letters` (1555 units) |
+| abby-diaz-essays | excluded | PG 6704 (A Domestic Problem) and 68812 (The Schoolmaster's Trunk) are essays, not stories; left out |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
