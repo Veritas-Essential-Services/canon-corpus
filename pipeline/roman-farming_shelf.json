@@ -1,9 +1,10 @@
 {
- "_about": "Cato and Varro on agriculture in Fairfax Harrison's Roman Farm Management (1918), clean Gutenberg.",
+ "_about": "Roman agricultural writers in English: Cato and Varro in Fairfax Harrison's Roman Farm Management (1918), clean Gutenberg; Columella's twelve books plus De arboribus (London: A. Millar, 1745), raw IA OCR, translator not named on the title page.",
  "_name_words": [
   "cato",
   "varro",
-  "farm"
+  "farm",
+  "columella"
  ],
  "ccel": {},
  "gutenberg": {
@@ -13,5 +14,14 @@
    "tr. Fairfax Harrison"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {
+  "columella-1745": [
+   "ljuniusmoderatus00colu",
+   "L. Junius Moderatus Columella Of Husbandry, in twelve books, and his book concerning trees (London: A. Millar, 1745)",
+   "tr. unnamed (not on the title page)"
+  ]
+ },
+ "_rights_checked": {
+  "columella-1745": "Printed 1745; public domain by date. Translator unnamed in the edition."
+ }
 }
