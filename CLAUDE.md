@@ -149,6 +149,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
     python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
     python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
+    python3 pipeline/build_nt_variants.py --fetch    # NT variant apparatus: STEPBible TAGNT (CC BY), pinned
+    python3 pipeline/build_nt_variants.py --check    # rebuild = the committed manifest entry
+    python3 pipeline/build_nt_variants.py --measure  # TAGNT's Byz (RP2005) vs data/nt (RP2018), word by word
+    python3 tests/nt_variants_test.py        # the apparatus: parsing rules, famous variants
     python3 pipeline/build_philo.py --fetch      # Philo: Cohn-Wendland Greek + Yonge English (First1KGreek, pinned)
     python3 pipeline/build_philo.py --check      # rebuild = the committed manifest entries
     python3 pipeline/build_philo.py --measure    # how Cohn-Wendland number scripture: the evidence
@@ -399,6 +403,13 @@ The living truth for project state is the Obsidian vault:
   to it, but only where a MEASURE (chapter-length r and shared names, on vs
   one off the diagonal) passes; else refused, no links. Cyprian (ANF 5) as
   five work books with no counterpart (no Latin Cyprian on GitHub).
+- pipeline/build_nt_variants.py — a variant apparatus for the NT from
+  STEPBible's TAGNT (CC BY 4.0; STEPBible asks it not be redistributed, so
+  the book is gitignored and only the manifest entry is committed): per KJV
+  verse, which of eight editions (NA28/27, THGNT, SBLGNT, WH, Tregelles, TR,
+  Byz) print which words. TAGNT's English (Berean, by permission) and Spanish
+  are never read in. MorphGNT/SBLGNT (EULA) and OpenGNT (Berean/NET content)
+  were turned down on their licences.
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
