@@ -1,5 +1,5 @@
 {
- "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Mackail's Odyssey is one set whose IA record dates every volume 1903; the title pages read 1903 (vol. I), 1905 (vol. II) and 1910 (vol. III), so the 1903 in _checks' ia_date and ia_rights is IA's set date, not those volumes' printing (all three are before 1930).",
+ "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Mackail's Odyssey is one set whose IA record dates every volume 1903; the title pages read 1903 (vol. I), 1905 (vol. II) and 1910 (vol. III), so the 1903 in _checks' ia_date and ia_rights is IA's set date, not those volumes' printing (all three are before 1930). Added 2026-10-03 (later): Sotheby's Odyssey Books I-XII, the missing vol. III of his Iliad and Odyssey, from a Google scan of another copy (title page MDCCCXXXIV, 1834; vols. I, II and IV above are the 1833-dated set).",
  "_name_words": [
   "homer",
   "homers",
@@ -248,6 +248,11 @@
    "iliadodyssey04home",
    "The Iliad and Odyssey, vol. IV: the Odyssey (London: Nicol and Murray, 1833)",
    "tr. William Sotheby"
+  ],
+  "homer-sotheby-odyssey-1834-v3": [
+   "iliadandodyssey02homegoog",
+   "The Iliad and Odyssey, [vol. III]: the Odyssey, Books I-XII (London: G. and W. Nicol; J. Murray, 1834; volume number not legible in the OCR, contents fill the gap between vols. II and IV)",
+   "tr. William Sotheby"
   ]
  },
  "_cross_ref": {
@@ -327,7 +332,8 @@
   "homer-cordery-iliad-1871-v2": "Cordery",
   "homer-sotheby-iliad-1833-v1": "Sotheby",
   "homer-sotheby-iliad-1833-v2": "Sotheby",
-  "homer-sotheby-odyssey-1833-v4": "Sotheby"
+  "homer-sotheby-odyssey-1833-v4": "Sotheby",
+  "homer-sotheby-odyssey-1834-v3": "william sotheby"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -929,6 +935,19 @@
    "ia_rights": "ok: published 1833",
    "ia_date": "1833",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-sotheby-odyssey-1834-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "william sotheby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
