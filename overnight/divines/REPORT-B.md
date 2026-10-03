@@ -555,3 +555,8 @@
 - Roscoe Mongan, literal Oedipus Tyrannus (1865), 0.89
 - A. C. A. Hull, Oedipus at Colonus (1894), 0.88
 - G. H. Palmer, Antigone (copyright 1899), 0.91
+
+## 2026-10-03 07:13 CDT — Aeschylus, Euripides, Juvenal title sweeps
+- Anonymous ('a Member of the University of Oxford'), Bacchae and Heraclidae literally translated (1846), 0.92
+- Refused under the OCR bar: Conington's Agamemnon 1848 (0.74), a W. F. Alcestis 1870 (0.77), Hadley's Alcestis (0.68), an ECCO 1786 Hippolytus and Iphigenia (0.71)
+- Skipped as already covered: Madan's Juvenal (Dublin 1822), Dryden's multi-hand Juvenal and Persius (1812; the Dryden shelf)

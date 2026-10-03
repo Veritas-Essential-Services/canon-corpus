@@ -151,3 +151,4 @@
 - Homer: four more translators held (Brandreth, Du Cane, Dart, Purves) (07:03). No decision needed.
 - Virgil and Horace: eight more translators held from title sweeps (07:08). No decision needed.
 - Sophocles: five more translators held (Young, Doyle, Mongan, Hull, Palmer) (07:11). No decision needed.
+- Tragedy and satire sweeps: one new Euripides volume, the rest already covered (07:13). No decision needed.
