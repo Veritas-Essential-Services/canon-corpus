@@ -435,5 +435,8 @@
  },
  "_held": {
   "euripides-perseus-murray-rhesus": "same translation as euripides-murray-rhesus (PG 35170) on this shelf; Perseus TEI urn:cts:greekLit:tlg0006.tlg019.perseus-eng4 (Rhesus, tr. Gilbert Murray) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_cross_ref": {
+  "euripides-milman-bacchae-1865": "aeschylus shelf: aeschylus-milman-agamemnon-1865 (Milman's Agamemnon and Bacchanals, Murray 1865) holds Milman's Bacchae; not refetched here"
  }
 }
