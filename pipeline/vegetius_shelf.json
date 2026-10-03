@@ -1,0 +1,19 @@
+{
+ "_about": "Vegetius, Epitoma rei militaris, in English: Lieutenant John Clarke's 1767 translation (translator from the catalogue title; the title page is illegible in the OCR), raw IA OCR.",
+ "_name_words": [
+  "vegetius",
+  "military"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vegetius-clarke-1767": [
+   "bim_eighteenth-century_de-re-militari-english_vegetius-renatus-flaviu_1767",
+   "Military Institutions of Vegetius, in five books, translated from the original Latin, with a preface and notes (London, 1767)",
+   "tr. John Clarke"
+  ]
+ },
+ "_rights_checked": {
+  "vegetius-clarke-1767": "Printed 1767; public domain by date. Translator per the archive.org catalogue title."
+ }
+}

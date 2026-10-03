@@ -2369,11 +2369,12 @@ Shelf: `pipeline/celsus_shelf.json`. Greive, 1814 edition (Gutenberg).
 
 ## Cato and Varro
 
-Shelf: `pipeline/roman-farming_shelf.json`. Harrison, Roman Farm Management 1918 (Gutenberg).
+Shelf: `pipeline/roman-farming_shelf.json`. Harrison, Roman Farm Management 1918 (Gutenberg); Columella, 1745 (IA, translator unnamed).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Roman Farm Management: The Treatises of Cato and Varro | Fairfax Harrison | `cato-varro-harrison` | have (PG 12140) |
+| L. Junius Moderatus Columella Of Husbandry, in twelve books, and his book concerning trees (London: A. Millar, 1745) | unnamed (not on the title page) | `columella-1745` | have-raw (IA `ljuniusmoderatus00colu`) |
 
 ## Phaedrus
 
@@ -2501,6 +2502,16 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722) | William Diaper and John Jones (attributed; the title page names no translator) | `oppian-diaper-jones-halieuticks` | have-raw (IA `bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722`) |
 
 Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Mair's Loebs (Greek facing).
+
+## Vegetius
+
+Shelf: `pipeline/vegetius_shelf.json`. Clarke's 1767 translation of the Epitoma rei militaris; translator from the catalogue title. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Military Institutions of Vegetius, in five books, translated from the original Latin, with a preface and notes (London, 1767) | John Clarke | `vegetius-clarke-1767` | have-raw (IA `bim_eighteenth-century_de-re-militari-english_vegetius-renatus-flaviu_1767`) |
+
+Pending (wishlist): Milner's 1993 translation is in copyright, so it is not wanted.
 
 ## Perseus census (overflow)
 
