@@ -7623,6 +7623,14 @@ Shelf: `pipeline/kincaid_shelf.json` (2026-10-02; added at the coordinator's rel
 | Deccan Nursery Tales; or, Fairy Tales from the South | have | PG 11167, `kincaid-deccan-nursery-tales` (103 units) |
 | Folk Tales of Sind and Guzarat | have | PG 76982, `kincaid-folk-tales-of-sind-and-guzarat` (181 units) |
 
+## Cornelius Mathews
+
+Shelf: `pipeline/cornelius-mathews_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ojibwe and other Great Lakes legends from Schoolcraft's collecting, retold; cut by numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Indian Fairy Book: From the Original Legends | have | PG 22248, `mathews-indian-fairy-book` (1673 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

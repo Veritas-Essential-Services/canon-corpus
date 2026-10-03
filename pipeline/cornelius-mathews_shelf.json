@@ -1,0 +1,40 @@
+{
+ "_about": "Cornelius Mathews's The Indian Fairy Book: From the Original Legends (1869), Native American tales retold. The schoolcraft shelf holds a 1916 Stokes printing under the same title whose title page reads \"By Henry R. Schoolcraft\" (Gutenberg 48469); a quarter of each book's paragraphs are word-for-word in the other, so both are kept as a partial overlap and the shared passages mint once. Which name the collection belongs under is Adam's call (DIGEST-D). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Cornelius Mathews",
+ "_name_words": [
+  "mathews"
+ ],
+ "_surname": [
+  "cornelius mathews"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mathews-indian-fairy-book": [
+   22248,
+   "The Indian Fairy Book: From the Original Legends",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mathews-indian-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cornelius mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

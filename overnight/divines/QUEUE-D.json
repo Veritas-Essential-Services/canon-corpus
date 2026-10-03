@@ -1665,8 +1665,10 @@
     {
       "id": "cornelius-mathews",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: cornelius-mathews; no minting",
-      "status": "running",
-      "started": "2026-10-03T05:55:49-05:00"
+      "status": "done",
+      "started": "2026-10-03T05:55:49-05:00",
+      "finished": "2026-10-03T05:59:05-05:00",
+      "notes": "1/1 fetched (Gutenberg 22248), 1,673 units, 0 ~2 ids."
     },
     {
       "id": "andrew-campbell",
