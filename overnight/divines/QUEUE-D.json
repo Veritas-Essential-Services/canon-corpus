@@ -1477,6 +1477,62 @@
       "started": "2026-10-03T02:12:54-05:00",
       "finished": "2026-10-03T02:25:07-05:00",
       "notes": "1/1 fetched (Gutenberg 73293), 811 units, 0 ~2 ids."
+    },
+    {
+      "id": "mclaughlin",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: mclaughlin; no minting",
+      "status": "done",
+      "started": "2026-10-03T02:27:06-05:00",
+      "finished": "2026-10-03T02:27:06-05:00",
+      "notes": "1/1 fetched (Gutenberg 341), 680 units, 0 ~2 ids."
+    },
+    {
+      "id": "friedlander",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: friedlander; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "ginzberg",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: ginzberg; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "ewald",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: ewald; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "elizabeth-harrison",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: elizabeth-harrison; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "howes",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: howes; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "dracott",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: dracott; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "wratislaw",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: wratislaw; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
+    },
+    {
+      "id": "borrow",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: borrow; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:27:06-05:00"
     }
   ]
 }
