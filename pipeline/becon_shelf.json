@@ -1,0 +1,66 @@
+{
+ "_about": "Thomas Becon (c.1512-1567), chaplain to Cranmer. The target is the Parker Society edition, ed. John Ayre (3 vols, Cambridge 1843-1844), Internet Archive OCR, raw; each title page read. No CCEL or Gutenberg Becon exists.",
+ "_name_words": [
+  "becon"
+ ],
+ "_surname": [
+  "becon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "becon-ps-early": [
+   "earlyworksofthom00becouoft",
+   "Early Works of Thomas Becon, ed. John Ayre (Parker Society, Cambridge, 1843), vol. 1"
+  ],
+  "becon-ps-catechism": [
+   "catechismofthoma03beco",
+   "Catechism of Thomas Becon, with other pieces, ed. John Ayre (Parker Society, Cambridge, 1844), vol. 2"
+  ],
+  "becon-ps-prayers": [
+   "prayersotherpiec00becouoft",
+   "Prayers and Other Pieces of Thomas Becon, ed. John Ayre (Parker Society, Cambridge, 1844), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "earlyworksofthom0000thom, prayersotherpiec0000thom, prayersotherpiec0004beco_o6e5, CatechismOfThomasBeconSTP": "Other scans of the same three volumes.",
+  "catechismthomas00becogoog, catechismthomas00ayregoog, prayersandother00becogoog": "Google scans.",
+  "parkersocietyfor13park": "California copy of the Catechism volume (series no. 13)."
+ },
+ "_excluded": {},
+ "_checks": {
+  "becon-ps-early": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "becon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "becon-ps-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "becon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "becon-ps-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "becon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
