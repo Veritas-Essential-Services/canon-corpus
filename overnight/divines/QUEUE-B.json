@@ -420,6 +420,14 @@
    "started": "2026-10-02T22:05:09-05:00",
    "finished": "2026-10-02T22:08:53-05:00",
    "notes": "Way Iliad vol. I translator unchecked (name garbled in OCR, reason recorded)"
+  },
+  {
+   "id": "satirists-comedy-hesiod-pythagoreans",
+   "status": "done",
+   "scope": "Mair's Hesiod, Hickie's Aristophanes vol. I, Mitchell's vol. II, Madan/Badham/Hodgson Juvenal, Hallard's Theocritus, Taylor's Pythagorean fragments",
+   "started": "2026-10-02T22:08:53-05:00",
+   "finished": "2026-10-02T22:13:59-05:00",
+   "notes": "Hickie vol. II and Mitchell vol. I wanted; Aristaenetus 1771 and Madan 1789 ECCO refused on OCR"
   }
  ]
 }

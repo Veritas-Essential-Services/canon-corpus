@@ -235,3 +235,8 @@
 - Added (raw IA, title pages read, OCR 0.88-0.93): Morris's verse Odyssey (1887); Palmer's prose Odyssey (preface 1891); Worsley's Spenserian Odyssey (1861-62, 2 vols); Way's Odyssey (3rd ed., 1904); Newman's Iliad (1856); the Worsley-Conington Spenserian Iliad (1865, 1868); Way's Iliad (1886, 1888).
 - Way's Iliad vol. I is in `_translator_unchecked`: the title-page OCR garbles his name.
 - `fetch_shelf.py --verify --record` on homer: 25 items, 0 mismatched, 0 rights flags.
+
+## 2026-10-02 22:13 CDT — Juvenal, Aristophanes, Hesiod, Theocritus, Pythagoreans
+- Added (raw IA, title pages read, OCR 0.85-0.93): Mair's prose Hesiod (1908); Hickie's Bohn Aristophanes vol. I (1887 printing); Mitchell's Aristophanes vol. II (Clouds, Wasps; 1822); Madan's literal Juvenal and Persius (1814); Badham's verse Juvenal (1814); Hodgson's Juvenal (1807); Hallard's Theocritus (1901, revised from 1894); Taylor's Political Fragments of the Pythagoreans (1822).
+- Refused on OCR: Aristaenetus (Halhed and Sheridan, 1771; 0.54), Madan's 1789 ECCO edition (0.63; held from 1814). Wanted: Hickie vol. II (IA has no text file), Mitchell vol. I.
+- `fetch_shelf.py --verify --record` on the five shelves: 0 mismatched, 0 rights flags.

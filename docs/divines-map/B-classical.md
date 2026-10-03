@@ -144,6 +144,7 @@ Shelf: `pipeline/hesiod_shelf.json`. Hugh G. Evelyn-White, prose (Loeb, 1914), P
 | The Remains of Hesiod the Ascraean, Including the Shield of Hercules | Charles Abraham Elton (with George Chapman's Works and Days) | `hesiod-elton` | have (PG 66350) |
 | The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 1 | Thomas Cooke ('Mr. Cooke' on the title page) | `hesiod-cooke-1728-v1` | have-raw (IA `bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_1`) |
 | The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 2 | Thomas Cooke ('Mr. Cooke' on the title page) | `hesiod-cooke-1728-v2` | have-raw (IA `bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_2`) |
+| Hesiod: the Poems and Fragments done into English Prose (Oxford: Clarendon Press, 1908) | A. W. Mair | `hesiod-mair-1908` | have-raw (IA `hesiodpoemsandf01mairgoog`) |
 
 Pending (wishlist): When a Homer section exists, the Homeric Hymns in this volume should be cross-referenced from it, not refetched.
 
@@ -353,8 +354,10 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Frogs | Benjamin Bickley Rogers (verse) | `aristophanes-rogers-frogs` | have (PG 7998) |
 | Lysistrata | Jack Lindsay (1926); US PD per Gutenberg | `aristophanes-lindsay-lysistrata` | have (PG 7700) |
 | Aristophanes: a Metrical Version of the Acharnians, the Knights and the Birds (Morley's Universal Library; 2nd ed., Routledge, 1887) | John Hookham Frere | `aristophanes-frere-morley` | have-raw (IA `aristophanesmetr00arisiala`) |
+| The Comedies of Aristophanes, a new and literal translation, vol. I: Acharnians, Knights, Clouds, Wasps, Peace, Birds (Bohn; London: George Bell, 1887) | William James Hickie | `aristophanes-hickie-1887-v1` | have-raw (IA `comediesofaristo0001will`) |
+| The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822) | Thomas Mitchell | `aristophanes-mitchell-1822-v2` | have-raw (IA `comediesaristop00mitcgoog`) |
 
-Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above.
+Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (no IA text file) and Mitchell's vol. I (1820; no scan found).
 
 Excluded: PG 3012, 2571, 3013 (the Athenian Society translation split into single plays).
 
@@ -862,6 +865,9 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | Juvenal and Persius (Loeb, 1918) | G. G. Ramsay | `juvenal-persius-ramsay` | have-raw (IA `juvenalpersiuswi00juveuoft`) |
 | The Satires of A. Persius Flaccus, with a translation and commentary (2nd ed., ed. H. Nettleship, Oxford, 1874; Latin facing) | John Conington | `persius-conington-1874` | have-raw (IA `satireswithtrans00persuoft`) |
 | The Satires of Persius, translated, with notes (London: W. Bulmer for J. Wright, 1799) | William Drummond | `persius-drummond-1799` | have-raw (IA `bim_eighteenth-century_the-satires-of-persius-t_persius_1799`) |
+| A New and Literal Translation of Juvenal and Persius, with explanatory notes, 2 vols. bound as one (London: William Baynes, 1814) | Martin Madan | `juvenal-persius-madan-1814` | have-raw (IA `newliteraltransl00juveiala`) |
+| The Satires of Juvenal translated into English Verse (London: Longman and others, 1814) | Charles Badham | `juvenal-badham-1814` | have-raw (IA `satiresofjuvenal00ju`) |
+| The Satires of Juvenal, translated and illustrated (London: Payne and Mackinlay, 1807) | Francis Hodgson | `juvenal-hodgson-1807` | have-raw (IA `b28269743`) |
 
 
 ## Plautus and Terence
@@ -1149,6 +1155,7 @@ Shelf: `pipeline/theocritus_shelf.json`. Calverley's verse (Gutenberg) and the B
 | The Idylls of Theocritus, Bion, and Moschus, and the War-Songs of Tyrtaeus (Bohn, 1853) | J. Banks (prose), J. M. Chapman (verse); Tyrtaeus R. Polwhele | `theocritus-bion-moschus-banks` | have-raw (IA `idyllstheocritu00biongoog`) |
 | — | — | `lang theocritus-bion-moschus (PG 4775)` | cross-ref → lane D, pipeline/lang_shelf.json |
 | The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767) | Francis Fawkes | `theocritus-fawkes-1767` | have-raw (IA `idylliumsoftheoc00theo`) |
+| The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894) | James Henry Hallard | `theocritus-hallard-1901` | have-raw (IA `idyllsoftheocrit00theo`) |
 
 Pending (wishlist): Edmonds Loeb (1912; Greek facing)
 
@@ -1259,6 +1266,7 @@ Shelf: `pipeline/pythagoreans_shelf.json`. Taylor (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Ocellus Lucanus on the Nature of the Universe | Thomas Taylor | `ocellus-taylor` | have (PG 75391) |
+| Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822) | Thomas Taylor | `pythagoreans-taylor-political-fragments-1822` | have-raw (IA `politicalfragmen00taylrich`) |
 
 ## Sextus Empiricus
 
