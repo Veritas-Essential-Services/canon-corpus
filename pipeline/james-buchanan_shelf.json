@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain James Buchanan (1804-1870, Free Church of Scotland, professor of systematic theology at New College, Edinburgh) for the Word Hoard: The Doctrine of Justification (1867), The Office and Work of the Holy Spirit (1842), Comfort in Affliction (1844), Faith in God and Modern Atheism (1855, 2 vols) and Analogy Considered as a Guide to Truth (1864), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "buchanan",
+  "james"
+ ],
+ "_surname": [
+  "buchanan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jbuchanan-justification-1867": [
+   "doctrineofjustif00buch",
+   "The Doctrine of Justification: an Outline of its History in the Church and of its Exposition from Scripture (Edinburgh: T. & T. Clark, 1867)"
+  ],
+  "jbuchanan-holy-spirit-1842": [
+   "officeworkofholy00buch",
+   "The Office and Work of the Holy Spirit (Edinburgh: Johnstone, 1842)"
+  ],
+  "jbuchanan-comfort-1844": [
+   "comfortinafflict00buch",
+   "Comfort in Affliction: a Series of Meditations (New York: Carter, 1844)"
+  ],
+  "jbuchanan-faith-in-god-1": [
+   "faithingodmodern01buch",
+   "Faith in God and Modern Atheism Compared, vol. 1 (Edinburgh, 1855)"
+  ],
+  "jbuchanan-faith-in-god-2": [
+   "faithingodmodern02buch",
+   "Faith in God and Modern Atheism Compared, vol. 2 (Edinburgh, 1855)"
+  ],
+  "jbuchanan-analogy-1864": [
+   "analogyconsidere00buch",
+   "Analogy Considered as a Guide to Truth, and Applied as an Aid to Faith (Edinburgh: Johnstone, Hunter, 1864)"
+  ]
+ },
+ "_alternates": {
+  "officeworkofholy00buch_0 (New York, 1847)": "American edition of the Holy Spirit.",
+  "analogyconsidere00buch_0, analogyconsider00buchgoog (1867)": "Later edition of Analogy.",
+  "modernatheismund00buch (Boston, 1857)": "American edition of Faith in God and Modern Atheism, under a shorter title."
+ },
+ "_excluded": {
+  "lecturesonnature00buch (1835)": "Lectures on civil establishments of religion: church politics.",
+  "essaysreviewsexa00buch, essaysreviewsexa00buchuoft (1861)": "Newspaper articles on Essays and Reviews; IA's attribution not checked.",
+  "historicaltheocun02cunn; reformerstheolog00cunn": "William Cunningham's books, which Buchanan co-edited: on the Cunningham shelf."
+ },
+ "_checks": {
+  "jbuchanan-justification-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbuchanan-holy-spirit-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbuchanan-comfort-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbuchanan-faith-in-god-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbuchanan-faith-in-god-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbuchanan-analogy-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

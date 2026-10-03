@@ -271,3 +271,6 @@
 
 ## 2026-10-02 20:41 CDT — robert-haldane done
 - `pipeline/robert-haldane_shelf.json`: 6 volumes, raw IA OCR, median 98.5% (96.6-99.0%), about 4.9 MB; title pages read. A line in the first draft about his Geneva lectures was cut as unverified. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:43 CDT — james-buchanan done
+- `pipeline/james-buchanan_shelf.json`: 6 volumes, raw IA OCR, median 97.8% (97.6-98.7%), about 5.6 MB. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

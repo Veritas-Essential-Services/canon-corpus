@@ -1004,3 +1004,13 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `haldane-*`.
 | The Books of the Old and New Testaments Proved to be Canonical (1832) | have-raw | IA |
 | One-volume Romans (1847-1874) | alternate | IA |
 | Pamphlets (1824-1840) | excluded | controversy |
+
+## James Buchanan (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `jbuchanan-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Doctrine of Justification (1867); The Office and Work of the Holy Spirit (1842); Comfort in Affliction (1844); Faith in God and Modern Atheism, 2 vols (1855); Analogy Considered as a Guide to Truth (1864) | have-raw | IA (identifiers in the shelf) |
+| Later and American editions | alternate | IA |
+| Lectures on church establishments (1835); Essays and Reviews articles (1861) | excluded | church politics; attribution not checked |
