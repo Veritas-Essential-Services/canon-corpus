@@ -1,0 +1,39 @@
+{
+ "_about": "Alexander Nowell (c.1507-1602), Dean of St Paul's: his Catechism in Latin with Thomas Norton's English translation (1570), Parker Society ed. G. E. Corrie (1853). Norton's translation is 1570 and PD; it is checked as translator. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "nowell"
+ ],
+ "_surname": [
+  "nowell"
+ ],
+ "_translators": {
+  "nowell-ps-catechism": "Norton"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nowell-ps-catechism": [
+   "catechismwritten00noweuoft",
+   "A Catechism written in Latin by Alexander Nowell, together with the same Catechism translated into English by Thomas Norton, ed. G. E. Corrie (Parker Society, Cambridge, 1853)"
+  ]
+ },
+ "_alternates": {
+  "catechismwritten0000unse": "internetarchivebooks copy."
+ },
+ "_excluded": {},
+ "_checks": {
+  "nowell-ps-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nowell",
+   "translator_claimed": "Norton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
