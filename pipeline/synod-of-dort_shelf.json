@@ -1,0 +1,46 @@
+{
+ "_about": "The Synod of Dort (1618-1619): The Articles of the Synod of Dort and its Rejection of Errors, with the History of Events which made way for that Synod, as published by the authority of the States-General, and the documents confirming its decisions, translated from the Latin with notes by Thomas Scott, rector of Aston Sandford (Philadelphia: Towar and Hogan, 1831; first published London, 1818). The Synod is the author, so the name check looks for 'Dort'; Scott is checked as translator. Kept beside lane A's thomas-scott shelf, which holds his Essays and The Force of Truth, not this. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "dort"
+ ],
+ "_surname": [
+  "dort"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dort-articles-scott-1831": [
+   "articlesofsynodo00syno",
+   "The Articles of the Synod of Dort, and its Rejection of Errors, tr. Thomas Scott (Philadelphia, 1831)"
+  ]
+ },
+ "_alternates": {
+  "articlesofsynodo00dort, articlesofsynodo00dort_0 (1856); articlessynoddo01scotgoog, articlesofsynodo00syno_1 (1841)": "Later printings of Scott's translation."
+ },
+ "_pending": {
+  "Brandt, The History of the Reformation in the Low-Countries, tr. Chamberlayne (London, 1720-1723, 4 vols; ECCO scans bim_eighteenth-century_the-history-of-the-refor_brandt-geeraert_1723_1..4)": "A Remonstrant history down to Dort. Not shelved 2026-10-03: the OCR of the title pages is too broken to read volumes 1 and 3's numbers, and the shelf rule is to read them off the page.",
+  "John Hales, Letters from the Synod of Dort (1765, ECCO)": "Not yet read."
+ },
+ "_excluded": {
+  "memoirssimonepi00unkngoog (Memoirs of Episcopius, 1837)": "A Remonstrant biography; not the Synod's text.",
+  "worksjamesarmin*": "Arminius's Works: another subject."
+ },
+ "_translators": {
+  "dort-articles-scott-1831": "Scott"
+ },
+ "_checks": {
+  "dort-articles-scott-1831": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dort",
+   "translator_claimed": "Scott",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
