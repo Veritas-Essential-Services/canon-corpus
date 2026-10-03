@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:40 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:48 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -259,6 +259,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Benjamin Keach | benjamin-keach_shelf.json | none | 5 (Exposition of the Parables, 1858; Tropologia, 1858; A Golden Mine Opened, 1694; The Breach Repaired, 1691; Gold Refined, 1689) | none | none |
 | John Ryland Jr. | john-ryland_shelf.json | none | 2 (The Work of Faith, life of Andrew Fuller, 2nd ed. 1818; Pastoral Memorials vol. 1, catalogued 1826) | Pastoral Memorials vol. 2 | Character of Hervey (his father's), Memoirs of Pearce (Fuller's), both catalogued under him |
 | Matthew Mead | matthew-mead_shelf.json | none | 1 (The Almost Christian Discovered, Glasgow, catalogued 1825, intro. David Young) | none | none |
+| Gilbert Tennent | gilbert-tennent_shelf.json | none | 2 (Twenty-three Sermons, Philadelphia 1744; Irenicum Ecclesiasticum, 1749) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

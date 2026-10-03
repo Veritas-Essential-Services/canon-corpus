@@ -623,3 +623,6 @@
 
 ## 2026-10-03 06:40 CDT — matthew-mead done
 - `pipeline/matthew-mead_shelf.json`: 1 IA volume. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 06:48 CDT — gilbert-tennent done
+- `pipeline/gilbert-tennent_shelf.json`: 2 IA volumes, title pages read. `--verify --record`: 0 mismatched. OCR 83.8% (long s). 0 uids minted.

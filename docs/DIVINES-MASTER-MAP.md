@@ -2105,6 +2105,14 @@ Slug `mead-almost-christian-1825`.
 | Work | Status | Where |
 |---|---|---|
 | The Almost Christian Discovered (Glasgow: Chalmers and Collins, 1825) | have-ocr | IA, OCR 98.8% |
+
+## Gilbert Tennent (round 13, my pick, 2026-10-03)
+
+Slugs `tennent-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Twenty-three Sermons (Philadelphia, 1744); Irenicum Ecclesiasticum (1749) | have-raw | IA, OCR 81-87% (long s) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
