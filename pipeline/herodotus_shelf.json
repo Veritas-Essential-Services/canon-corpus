@@ -278,8 +278,20 @@
     1920,
     1925
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (Steven Ott, to remove archaisms, then reviewed and revised): an editorial layer over A. D. Godley's translation (Loeb 1920-25, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "The Histories Modernized by Perseus Herodotus A",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0016/tlg001/tlg0016.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
+ },
+ "_rights_checked": {
+  "herodotus-perseus-godley-histories": "the Perseus header says this text was modernized by Perseus (Steven Ott, to remove archaisms, then reviewed and revised): an editorial layer over A. D. Godley's translation (Loeb 1920-25, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B"
  }
 }

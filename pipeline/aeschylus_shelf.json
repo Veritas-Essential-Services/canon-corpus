@@ -357,7 +357,14 @@
     1889
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg005/tlg0085.tlg005.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-agamemnon": {
    "checked": "2026-10-03",
@@ -369,8 +376,17 @@
    "source_years": [
     1926
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Gregory Crane and Graeme Bird'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Agamemnon Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg005/tlg0085.tlg005.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-eumenides": {
    "checked": "2026-10-03",
@@ -382,8 +398,17 @@
    "source_years": [
     1926
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Judith Nelson'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Eumenides Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg007/tlg0085.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-libation-bearers": {
    "checked": "2026-10-03",
@@ -395,8 +420,17 @@
    "source_years": [
     1926
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by James Erdman'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Libation Bearers Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg006/tlg0085.tlg006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-persians": {
    "checked": "2026-10-03",
@@ -408,8 +442,17 @@
    "source_years": [
     1922
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Annete Giesecke'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Persians Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg002/tlg0085.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-prometheus-bound": {
    "checked": "2026-10-03",
@@ -421,8 +464,17 @@
    "source_years": [
     1922
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Prometheus Bound Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg003/tlg0085.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-seven-against-thebes": {
    "checked": "2026-10-03",
@@ -434,8 +486,17 @@
    "source_years": [
     1922
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Pierre Habel'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Seven Against Thebes Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg004/tlg0085.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschylus-perseus-smyth-suppliant-maidens": {
    "checked": "2026-10-03",
@@ -447,12 +508,30 @@
    "source_years": [
     1922
    ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Suppliant Maidens Modernized by Perseus Aeschylus Herbert Weir Smyth",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg001/tlg0085.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_identity_checked": {
   "aeschylus-way-1906-part1": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART I' by Arthur S. Way, Macmillan 1906; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
   "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it"
+ },
+ "_rights_checked": {
+  "aeschylus-perseus-smyth-agamemnon": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Gregory Crane and Graeme Bird'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-eumenides": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Judith Nelson'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-libation-bearers": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by James Erdman'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-persians": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Annete Giesecke'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-prometheus-bound": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-seven-against-thebes": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Pierre Habel'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-suppliant-maidens": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B"
  }
 }
