@@ -1576,3 +1576,17 @@ Slugs `pusey-*`.
 | Daniel the Prophet: Nine Lectures (Oxford: Parker, 1868) | have-raw | IA |
 | Lenten Sermons (Oxford: Parker, 1874) | have-raw | IA |
 | Nine Sermons Preached before the University of Oxford (1879) | pending | no text file |
+
+
+## H. P. Liddon (round 10, my pick, 2026-10-03)
+
+Slugs `liddon-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Divinity of Our Lord and Saviour Jesus Christ (Bampton Lectures) (London: Rivingtons, 1867) | have-raw | IA (identifiers in the shelf) |
+| Easter in St. Paul's (Longmans, 1897 printing) | have-raw | IA |
+| Advent in St. Paul's (Longmans, 1906 printing) | have-raw | IA |
+| Passiontide Sermons (Longmans, 1891) | have-raw | IA |
+| Clerical Life and Work (Longmans, 1895) | have-raw | IA |
+| Christmastide in St. Paul's | not shelved | the copy tried was refused |

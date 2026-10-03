@@ -189,6 +189,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 | Henry Alford | henry-alford_shelf.json | none | 3 (The Greek Testament, vols 1-2 London: Rivington, catalogued 1849-56; vol. 4 Boston: Lee and Shepard, catalogued 1874) | vol. 3 (HTTP 500 on every try; another copy refused by the gate) | Boston vols 1-2 (one 81% OCR, one never naming Alford) |
 | John Keble | john-keble_shelf.json | 1 CCEL (The Christian Year, verse) + 1 PG (National Apostasy, the Assize Sermon) | 2 (Sermons Academical and Occasional, 1847; Occasional Papers and Reviews, 1877) | none | Plain Sermons (several Tractarian authors); the 11-vol. Sermons for the Christian Year not shelved yet |
 | E. B. Pusey | e-b-pusey_shelf.json | none | 3 (The Minor Prophets with a commentary, Parker, catalogued 1860; Daniel the Prophet, 1868; Lenten Sermons, 1874) | Nine Sermons before the University (1879): the copy has no text file | A Course of Sermons on Solemn Subjects (several preachers; the gate refused it) |
+| H. P. Liddon | h-p-liddon_shelf.json | none | 5 (The Divinity of Our Lord, Bampton Lectures, 1867; Easter in St. Paul's; Advent in St. Paul's; Passiontide Sermons; Clerical Life and Work) | none | a Christmastide in St. Paul's scan that never names him |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

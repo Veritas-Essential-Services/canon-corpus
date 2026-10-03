@@ -1582,6 +1582,20 @@ Slugs `pusey-*`.
 | Daniel the Prophet: Nine Lectures (Oxford: Parker, 1868) | have-raw | IA |
 | Lenten Sermons (Oxford: Parker, 1874) | have-raw | IA |
 | Nine Sermons Preached before the University of Oxford (1879) | pending | no text file |
+
+
+## H. P. Liddon (round 10, my pick, 2026-10-03)
+
+Slugs `liddon-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Divinity of Our Lord and Saviour Jesus Christ (Bampton Lectures) (London: Rivingtons, 1867) | have-raw | IA (identifiers in the shelf) |
+| Easter in St. Paul's (Longmans, 1897 printing) | have-raw | IA |
+| Advent in St. Paul's (Longmans, 1906 printing) | have-raw | IA |
+| Passiontide Sermons (Longmans, 1891) | have-raw | IA |
+| Clerical Life and Work (Longmans, 1895) | have-raw | IA |
+| Christmastide in St. Paul's | not shelved | the copy tried was refused |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -2598,6 +2612,8 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 | Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
 | Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
+| The Pharsalia of Lucan, translated into blank verse (Longmans, 1896) | Edward Ridley | `lucan-ridley-1896` | have-raw (IA `cu31924026485809`) |
+| The Pharsalia of Lucan, translated into blank verse, second edition, revised and corrected (Longmans, 1905) | Edward Ridley | `lucan-ridley-1905` | have-raw (IA `pharsaliatransla00lucauoft`) |
 
 Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
@@ -3239,6 +3255,8 @@ Shelf: `pipeline/statius_shelf.json`. Mozley Loeb 1928, 2 vols. (IA, 0.91-0.92; 
 | Statius, vol. 2: Thebaid V-XII, Achilleid (Loeb, 1928) | J. H. Mozley | `statius-mozley-v2` | have-raw (IA `statius02stat`) |
 | The Thebaid of Statius, translated into English verse, with notes and observations (Oxford, 1767), both volumes in one scan | William Lillington Lewis (not named on the title page; attributed in catalogues) | `statius-lewis-thebaid-1767` | have-raw (IA `thebaidstatius00conggoog`) |
 | The Silvae of Statius, translated with introduction and notes (Oxford, 1908) | D. A. Slater | `statius-slater-silvae-1908` | have-raw (IA `silvaetranslated00statuoft`) |
+| The Thebaid of Statius, translated into English verse, with notes and observations, vol. I, second edition corrected (London: T. Becket; the year OCRs as 'MDCCLXm'; IA records 1767) | William Lillington Lewis | `statius-lewis-thebaid-v1` | have-raw (IA `thebaidstatiust01lewigoog`) |
+| The Thebaid of Statius, vol. II (Books VII-XII), second edition corrected (London: T. Becket; no year in the OCR; IA records 1773) | William Lillington Lewis | `statius-lewis-thebaid-v2` | have-raw (IA `thebaidstatiust00lewigoog`) |
 
 ## Claudian
 

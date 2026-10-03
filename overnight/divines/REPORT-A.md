@@ -439,3 +439,6 @@
 
 ## 2026-10-03 01:45 CDT — e-b-pusey done
 - `pipeline/e-b-pusey_shelf.json`: 3 IA volumes of raw OCR, about 8 MB: the Minor Prophets 81.0% (Hebrew and Greek in the notes), Daniel 95.9%, Lenten Sermons 98.6%; title pages read (1860, 1868, 1874). The Minor Prophets item offers only a plain `<id>.txt`, so `fetch_shelf.py` now accepts any `.txt` name in an IA row's third element (it required `_djvu.txt`). The gate refused A Course of Sermons on Solemn Subjects (Pusey's name never appears; several preachers). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:45 CDT — h-p-liddon done
+- `pipeline/h-p-liddon_shelf.json`: 5 IA volumes of raw OCR, median 98.6% (96.5-99.1%), about 5 MB; title pages read (1867-1906). The gate refused a Christmastide in St. Paul's copy whose text never names Liddon. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
