@@ -1,0 +1,93 @@
+{
+ "_about": "Maud Lindsay's kindergarten story books: Mother Stories (this printing Milton Bradley, 1928), A Story Garden for Little Children (1913) and The Story-teller (1915). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Maud Lindsay",
+ "_name_words": [
+  "lindsay"
+ ],
+ "_surname": [
+  "maud lindsay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lindsay-mother-stories": [
+   15929,
+   "Mother Stories",
+   {
+    "levels": [
+     {
+      "re": "(?i:[\\W_]*(?:The[\\W_]*Giant[\\W_]*Energy[\\W_]*The[\\W_]*Fairy[\\W_]*Skill|The[\\W_]*Little[\\W_]*Girl[\\W_]*with[\\W_]*the[\\W_]*Light|The[\\W_]*Search[\\W_]*for[\\W_]*a[\\W_]*Good[\\W_]*Child|Fleet[\\W_]*Wing[\\W_]*and[\\W_]*Sweet[\\W_]*Voice|How[\\W_]*the[\\W_]*Home[\\W_]*Was[\\W_]*Built|Inside[\\W_]*the[\\W_]*Garden[\\W_]*Gate|The[\\W_]*Story[\\W_]*of[\\W_]*Gretchen|The[\\W_]*Little[\\W_]*Gray[\\W_]*Pony|The[\\W_]*Minstrel[\\W_]*s[\\W_]*Song|The[\\W_]*King[\\W_]*s[\\W_]*Birthday|Dust[\\W_]*Under[\\W_]*the[\\W_]*Rug|The[\\W_]*Wind[\\W_]*s[\\W_]*Work|The[\\W_]*Little[\\W_]*Traveler|The[\\W_]*Closing[\\W_]*Door|Mrs[\\W_]*Tabby[\\W_]*Gray|The[\\W_]*Open[\\W_]*Gate|The[\\W_]*Journey)[\\W_]*)$",
+      "strip": "_"
+     },
+     {
+      "re": "PART [IV]+\\.$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "_THE WIND'S WORK_$",
+    "front": true
+   }
+  ],
+  "lindsay-story-garden": [
+   62748,
+   "A Story Garden for Little Children",
+   {
+    "levels": [
+     {
+      "re": "(?:LITTLE\\ SLEEPY\\ HEAD|THE\\ LOVELY\\ MOON|THE\\ WIND'S\\ FUN|THE\\ BROWN\\ BIRDS|THE\\ STICK\\ HORSE|\"TICKITY\\-TOCK\"|THE\\ SAUCER\\ PIE|THIMBLE\\ BISCUIT|THE\\ WEE\\ NEST|THE\\ STRAWBERRY\\ SHORTCAKE|GOOD\\ NEWS|THE\\ ROLL\\ OF\\ BREAD|THREE\\ GUESSES|THE\\ SNOWBALL|SANTA\\ CLAUS|TEN\\ PENNIES|THE\\ LOST\\ DOLL|LITTLE\\ DOG\\ AND\\ BIG\\ DOG|THE\\ LITTLE\\ KING'S\\ RABBITS|THE\\ SNOWMAN)$"
+     }
+    ],
+    "start": "LITTLE SLEEPY HEAD$",
+    "front": true
+   }
+  ],
+  "lindsay-story-teller": [
+   23735,
+   "The Story-teller",
+   {
+    "levels": [
+     {
+      "re": "(?i:[\\W_]*(?:THE[\\W_]*QUEST[\\W_]*FOR[\\W_]*THE[\\W_]*NIGHTINGALE|THE[\\W_]*LIONS[\\W_]*IN[\\W_]*THE[\\W_]*WAY|THE[\\W_]*SONG[\\W_]*THAT[\\W_]*TRAVELED|THE[\\W_]*PLATE[\\W_]*OF[\\W_]*PANCAKES|THE[\\W_]*GREAT[\\W_]*WHITE[\\W_]*BEAR|THE[\\W_]*JAR[\\W_]*OF[\\W_]*ROSEMARY|THE[\\W_]*KING[\\W_]*S[\\W_]*SERVANT|LITTLE[\\W_]*MAID[\\W_]*HILDEGARDE|THE[\\W_]*APPLE[\\W_]*DUMPLING|THE[\\W_]*TWO[\\W_]*BROTHERS|THE[\\W_]*MAGIC[\\W_]*FLOWER|THE[\\W_]*STORY[\\W_]*TELLER|THE[\\W_]*PROMISE|ILLUSTRATIONS|INTRODUCTION)[\\W_]*)(?:\\[\\d+\\])?$",
+      "strip": "\\[\\d+\\]",
+      "repeat_continues": true
+     },
+     {
+      "re": "THE HARPER'S SONG$|FIVE BRAVE KNIGHTS$"
+     }
+    ],
+    "start": "ILLUSTRATIONS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lindsay-mother-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "maud lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lindsay-story-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "maud lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lindsay-story-teller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "maud lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

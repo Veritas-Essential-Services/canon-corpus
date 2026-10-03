@@ -7706,6 +7706,16 @@ Shelf: `pipeline/flora-cooke_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | Nature Myths and Stories for Little Children | have | PG 30800, `cooke-nature-myths` (934 units) |
 
+## Maud Lindsay
+
+Shelf: `pipeline/maud-lindsay_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Kindergarten story books; cut by story, with parts and songs under their story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mother Stories | have | PG 15929, `lindsay-mother-stories` (698 units) |
+| A Story Garden for Little Children | have | PG 62748, `lindsay-story-garden` (479 units) |
+| The Story-teller | have | PG 23735, `lindsay-story-teller` (544 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

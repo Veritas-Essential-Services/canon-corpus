@@ -1697,8 +1697,10 @@
     {
       "id": "maud-lindsay",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: maud-lindsay; no minting",
-      "status": "running",
-      "started": "2026-10-03T05:55:49-05:00"
+      "status": "done",
+      "started": "2026-10-03T05:55:49-05:00",
+      "finished": "2026-10-03T06:05:48-05:00",
+      "notes": "3/3 fetched (Gutenberg 15929, 62748, 23735), 1,721 units, 0 ~2 ids."
     },
     {
       "id": "bain-polevoi",
