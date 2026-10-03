@@ -82,6 +82,11 @@
    "ovidartofloveoth0000unse",
    "The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing)",
    "tr. J. H. Mozley"
+  ],
+  "ovid-king-metamorphoses-1871": [
+   "metamorphosesofp00ovid",
+   "The Metamorphoses of Publius Ovidius Naso translated in English blank verse (Blackwood, MDCCCLXXI)",
+   "tr. Henry King"
   ]
  },
  "_cross_ref": {
@@ -303,6 +308,17 @@
    "ia_date": "1929",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "ovid-king-metamorphoses-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ovid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  },
  "_held": {
@@ -351,7 +367,8 @@
   "ovid-perseus-1855-art-of-beauty": "the Perseus source line names no translator",
   "ovid-perseus-1855-art-of-love": "the Perseus source line names no translator",
   "ovid-perseus-1855-remedy-of-love": "the Perseus source line names no translator",
-  "ovid-perseus-1813-epistles": "the Perseus source line names no translator"
+  "ovid-perseus-1813-epistles": "the Perseus source line names no translator",
+  "ovid-king-metamorphoses-1871": "title page reads 'Henry King, M.A., Fellow of Wadham College, Oxford' (the OCR prints 'ICING'); 'king' also occurs as a common word, so the word check cannot confirm the name"
  },
  "_perseus_checks": {
   "ovid-perseus-more-metamorphoses": {
