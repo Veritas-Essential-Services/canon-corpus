@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain William Bates (1625-1699, Presbyterian divine ejected in 1662, called 'silver-tongued') for the Word Hoard: the Whole Works (London: Black, 1815, 4 vols), vols 2-4 from Google scans, with three of his books printed separately standing in for the missing vol. 1: The Harmony of the Divine Attributes (New York, 1831), The Four Last Things (London: Seeley, 1826) and Spiritual Perfection (London: Hatchard, 1834). Raw Internet Archive OCR. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bates",
+  "william"
+ ],
+ "_surname": [
+  "bates"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wbates-works-2": [
+   "wholeworksrevwb00unkngoog",
+   "The Whole Works of the Rev. W. Bates, vol. 2 (London: Black, 1815)"
+  ],
+  "wbates-works-3": [
+   "wholeworksrevwb00bategoog",
+   "The Whole Works of the Rev. W. Bates, vol. 3 (London: Black, 1815)"
+  ],
+  "wbates-works-4": [
+   "wholeworksrevwb01bategoog",
+   "The Whole Works of the Rev. W. Bates, vol. 4 (London: Black, 1815)"
+  ],
+  "wbates-harmony-1831": [
+   "harmonyofdivinea00bate_0",
+   "The Harmony of the Divine Attributes in the Contrivance and Accomplishment of Man's Redemption (New York: Leavitt, 1831)"
+  ],
+  "wbates-four-last-things-1826": [
+   "fourlastthingsde00bate",
+   "The Four Last Things: Death, Judgment, Heaven, Hell (London: Seeley, 1826)"
+  ],
+  "wbates-spiritual-perfection-1834": [
+   "spiritualperfect00bate",
+   "Spiritual Perfection Unfolded and Enforced from 2 Cor. vii. 1 (London: Hatchard, 1834)"
+  ]
+ },
+ "_alternates": {
+  "harmonyofdivinea00bat (1771), harmonyofdivinea00bate (1831, NYPL), harmonyofdivinea0000bate, harmonyofdivinea00bate_1 (1850)": "Other editions of the Harmony.",
+  "fourlastthingsna00bate (1832), fourlastthingsd00bategoog (1838)": "Other editions of the Four Last Things."
+ },
+ "_excluded": {
+  "collegelectureso00bate_0; cu31924031452976": "College lectures by a 19th-century William Bates, another author.",
+  "accountoflifedea00henr": "Matthew Henry's life of Philip Henry; Bates is named only in it."
+ },
+ "_pending": {
+  "wbates-works-1": "Vol. 1 of the 1815 Whole Works: no scan found on IA. Three of his books are shelved from separate printings meanwhile; whether they are the whole of vol. 1 was not checked."
+ },
+ "_checks": {
+  "wbates-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bates",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbates-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bates",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbates-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bates",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbates-harmony-1831": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bates",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbates-four-last-things-1826": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bates",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wbates-spiritual-perfection-1834": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bates",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

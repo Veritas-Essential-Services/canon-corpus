@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:02 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:04 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -118,6 +118,7 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 |---|---|---|---|---|---|
 | William Bridge | william-bridge_shelf.json | 0 (none exists) | 5 (Works, London: Tegg 1845, complete) | none | none |
 | Edward Reynolds | edward-reynolds_shelf.json | 0 (none exists) | 6 (Whole Works, London: Holdsworth 1826, complete, memoir by Alexander Chalmers) | none | Burroughs's Hosea, which he helped complete |
+| William Bates | william-bates_shelf.json | 0 (none exists) | 6 (Whole Works 1815, vols 2-4; Harmony of the Divine Attributes 1831; Four Last Things 1826; Spiritual Perfection 1834) | Whole Works vol. 1 (no scan found) | a 19th-century namesake's lectures |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

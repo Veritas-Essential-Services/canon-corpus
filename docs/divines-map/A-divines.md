@@ -1071,3 +1071,13 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `ereynolds-*`.
 |---|---|---|
 | Whole Works, 6 vols (London: Holdsworth, 1826, memoir by Alexander Chalmers): the Passions and Faculties of the Soul, Psalm 110, Hosea 14, sermons | have-raw | IA (identifiers in the shelf) |
 | Explication of Psalm 110 (1837) | alternate | IA |
+
+## William Bates (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Google and Princeton scans; slugs `wbates-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Whole Works (London: Black, 1815), vols 2-4: sermons on forgiveness, the Everlasting Rest of the Saints, miscellaneous sermons | have-raw | IA (Google scans) |
+| The Harmony of the Divine Attributes (1831); The Four Last Things (1826); Spiritual Perfection (1834, with Pye Smith's essay) | have-raw | IA |
+| Whole Works, vol. 1 | pending | no scan found |
