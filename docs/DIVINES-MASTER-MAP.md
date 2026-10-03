@@ -7798,6 +7798,16 @@ Shelf: `pipeline/catherine-sinclair_shelf.json` (2026-10-02; added at the coordi
 |---|---|---|
 | Holiday House: A Series of Tales | have | PG 32811, `csinclair-holiday-house` (1077 units) |
 
+## Hesba Stretton
+
+Shelf: `pipeline/hesba-stretton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical stories of London street children; cut by chapter, Jessica's Mother under its own title. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jessica's First Prayer; and, Jessica's Mother | have | PG 50104, `stretton-jessicas-first-prayer` (473 units) |
+| Little Meg's Children | have | PG 30555, `stretton-little-megs-children` (419 units) |
+| Alone in London | have | PG 12172, `stretton-alone-in-london` (444 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

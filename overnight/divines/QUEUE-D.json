@@ -1721,8 +1721,10 @@
     {
       "id": "hesba-stretton",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: hesba-stretton; no minting",
-      "status": "running",
-      "started": "2026-10-03T06:23:29-05:00"
+      "status": "done",
+      "started": "2026-10-03T06:23:29-05:00",
+      "finished": "2026-10-03T06:25:20-05:00",
+      "notes": "3/3 fetched (Gutenberg 50104, 30555, 12172), 1,336 units, 0 ~2 ids."
     },
     {
       "id": "bottrell",

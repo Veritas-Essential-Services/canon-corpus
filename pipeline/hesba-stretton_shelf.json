@@ -1,0 +1,89 @@
+{
+ "_about": "Hesba Stretton's evangelical children's stories of London street children: Jessica's First Prayer with its sequel Jessica's Mother (New York, H. M. Caldwell; undated in the text), Little Meg's Children (London, 1905 printing) and Alone in London (undated in the text). Gutenberg's second Alone in London (PG 61455) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Hesba Stretton",
+ "_name_words": [
+  "stretton"
+ ],
+ "_surname": [
+  "hesba stretton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stretton-jessicas-first-prayer": [
+   50104,
+   "Jessica's First Prayer; and, Jessica's Mother",
+   {
+    "levels": [
+     {
+      "re": "Jessica’s Mother$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ],
+  "stretton-little-megs-children": [
+   30555,
+   "Little Meg's Children",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ],
+  "stretton-alone-in-london": [
+   12172,
+   "Alone in London",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "stretton-jessicas-first-prayer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesba stretton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stretton-little-megs-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesba stretton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stretton-alone-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesba stretton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
