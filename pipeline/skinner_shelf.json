@@ -1,11 +1,11 @@
 {
- "_about": "Charles M. Skinner's (1852-1907) collections of American legends, place by place: Myths and Legends of Our Own Land (all nine parts in one file; undated in the text) and Myths and Legends of Our New Possessions and Protectorate (1900 in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Charles M. Skinner's (1852-1907) collections of American legends, place by place: Myths and Legends of Our Own Land (all nine parts in one file; undated in the text: the Internet Archive catalogue dates the Lippincott edition 1896, records mythslegendsofou03skin and mythslegendsofou04skin, read 2026-10-03) and Myths and Legends of Our New Possessions and Protectorate (1900 in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "Charles M. Skinner",
  "_name_words": [
   "skinner"
  ],
  "_surname": [
-  "skinner"
+  "charles m. skinner"
  ],
  "ccel": {},
  "gutenberg": {
@@ -27,7 +27,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "skinner",
+   "author_seen": "charles m. skinner",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -36,7 +36,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "skinner",
+   "author_seen": "charles m. skinner",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

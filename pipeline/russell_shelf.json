@@ -5,7 +5,8 @@
   "russell"
  ],
  "_surname": [
-  "russell"
+  "nellie naomi russell",
+  "nellie n. russell"
  ],
  "ccel": {},
  "gutenberg": {
@@ -21,7 +22,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "russell",
+   "author_seen": "nellie naomi russell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

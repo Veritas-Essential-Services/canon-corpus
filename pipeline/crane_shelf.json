@@ -7,7 +7,8 @@
   "tales"
  ],
  "_surname": [
-  "crane"
+  "thomas frederick crane",
+  "t. f. crane"
  ],
  "_translators": {
   "crane-italian-popular-tales": "Crane"
@@ -41,7 +42,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "crane",
+   "author_seen": "thomas frederick crane",
    "translator_claimed": "Crane",
    "translator_in_text": true,
    "identity": "ok",

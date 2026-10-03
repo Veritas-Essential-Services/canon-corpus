@@ -5,8 +5,7 @@
   "beowulf"
  ],
  "_surname": [
-  "hall",
-  "morris",
+  "william morris",
   "kirtlan",
   "gummere",
   "wyatt"
@@ -45,7 +44,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hall",
+   "author_seen": "william morris",
    "translator_claimed": "Morris",
    "translator_in_text": true,
    "identity": "ok",
@@ -57,7 +56,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hall",
+   "author_seen": "william morris",
    "translator_claimed": "Kirtlan",
    "translator_in_text": true,
    "identity": "ok",
@@ -69,7 +68,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hall",
+   "author_seen": "gummere",
    "translator_claimed": "Gummere",
    "translator_in_text": true,
    "identity": "ok",

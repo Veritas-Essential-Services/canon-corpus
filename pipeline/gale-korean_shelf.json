@@ -5,7 +5,8 @@
   "gale"
  ],
  "_surname": [
-  "gale"
+  "james scarth gale",
+  "james s. gale"
  ],
  "ccel": {},
  "gutenberg": {
@@ -27,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gale",
+   "author_seen": "james scarth gale",
    "translator_claimed": "Gale",
    "translator_in_text": true,
    "identity": "ok",

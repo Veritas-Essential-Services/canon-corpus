@@ -4086,7 +4086,7 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The King over the Water (1907), with Alice Shield | have-raw | IA `kingoverwater00shieuoft`, `lang-king-over-the-water` |
 | The Story of the Golden Fleece (1903) | have-raw | IA `storyofgoldenfle00lang`, `lang-story-of-the-golden-fleece` |
 | New and Old Letters to Dead Authors (1907) | have-raw | IA `newandoldletters00languoft`, `lang-new-and-old-letters-dead-authors` |
-| Devil-Dancers, Witch-Finders, Rain-Makers, and Medicine-Men (1896) | have-raw | IA `devildancerswitc00lang`, `lang-devil-dancers` |
+| Devil-Dancers, Witch-Finders, Rain-Makers, and Medicine-Men (1896) | held (not his: "compiled from Lang, Caldwell, Conway, Tylor, … and others") | IA `devildancerswitc00lang` |
 | The Politics of Aristotle: Introductory Essays (1886) | have-raw | IA `politicsofaristo00langrich`, `lang-politics-of-aristotle-essays` |
 | The Dead Leman, and Other Tales from the French (1889), tr. Lang & Paul Sylvester | have-raw | IA `deadlemanotherta00langiala`, `lang-dead-leman` |
 | The Miracles of Madame Saint Katherine of Fierbois (1897), tr. Lang | have-raw | IA `MiraclesOfMadameStKatherineOfFierbois`, `lang-miracles-st-katherine` |

@@ -598,3 +598,10 @@
 
 ## 2026-10-03 00:45 CDT — ralston-tibetan: done
 - 1/1 fetched (Gutenberg 66870), 1,848 units, 0 ~2 ids.
+
+## 2026-10-03 00:58 CDT — review round 6 and Lane A's surname gate (e1ef08b)
+- 31 Lane D shelves now name their author in full in `_surname` (e.g. "andrew lang", "beatrice e. clay", "james scarth gale", "charles m. skinner", "w. h. barker", "mrs. a. w. hall"), replacing bare words that occur in most English books. Each form was matched against every book on its shelf before the change, then `fetch_shelf --verify --record` re-run on all 31: 0 mismatches, 0 rights flags. All 163 Lane D shelves pass the new load-time check.
+- The change exposed one wrong attribution: `lang-devil-dancers` is a Christian Literature Society for India pamphlet "compiled from Lang, Caldwell, Conway, Tylor ... and others". Moved to `_held` on the lang shelf (DIGEST decision 16).
+- basile: the translator note no longer quotes the book's text. andersen: punctuation in three translator notes.
+- Grierson and Skinner: undated in the text; the Internet Archive catalogue dates are now recorded with the record ids. Grierson's life dates, which came from memory and not from the text or a record, were removed.
+- DIGEST: the minting list is now counted from the shelf files (926 slugs on 163 shelves) instead of hand-summed by batch; the headline says 161 storytellers and lists batch 21.

@@ -5,7 +5,8 @@
   "hall"
  ],
  "_surname": [
-  "hall"
+  "mrs. angus w. hall",
+  "mrs. a. w. hall"
  ],
  "ccel": {},
  "gutenberg": {
@@ -37,7 +38,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hall",
+   "author_seen": "mrs. angus w. hall",
    "translator_claimed": "Hall",
    "translator_in_text": true,
    "identity": "ok",
