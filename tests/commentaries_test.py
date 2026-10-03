@@ -407,5 +407,65 @@ check("manifest: Delitzsch's Psalms are measured as numbered in the Hebrew",
 check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["scheme"]
                                                      for k in ("alford-commentary-2", "alford-commentary-4") if k in ents))
 
+# -- the third shelf: Meyer (T&T Clark translation), and Godet not shelved
+check("meyer: every volume pinned, printed before 1929, IA date recorded, in SECOND and ORDER",
+      B.MEYER and all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) and v["printed"] < 1929 and v.get("ia_date")
+                      and k in B.SECOND and k in B.ORDER and v["reader"] == "meyer" for k, v in B.MEYER.items()))
+check("meyer: the Gospels and Romans are shelved",
+      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} >= {"Matt", "Mark", "Luke", "John", "Rom"})
+check("meyer: an IA date that is not the title page's year says why",
+      all(v.get("ia_date_note") for v in B.MEYER.values() if not v["ia_date"].startswith(str(v["printed"]))))
+check("meyer: no Godet volume is shelved (no scan keeps its Greek)", not any("godet" in k for k in B.ORDER))
+check("meyer: the Funk & Wagnalls issues name their American editor",
+      all(v.get("american") for v in B.MEYER.values() if "Funk" in v["edition"]))
+check("meyer_open: 'Ver. 1. Βίβλος]'", B.meyer_open("Ver. 1. Βίβλος γενέσεως] Book of origin") == (None, 1, None, "read"))
+check("meyer_open: 'Vv. 1-17.' is a run", B.meyer_open("Vv. 1-17. In the writing")[1:3] == (1, 17))
+check("meyer_open: 'VER. 8.' (small capitals)", B.meyer_open("VER. 8. ἀκριβ. ἐξετάσατε]")[1] == 8)
+check("meyer_open: 'Ver. 1 f.'", B.meyer_open("Ver. 1 f. Ἔν ἐκείνῳ")[1] == 1)
+check("meyer_open: 'Ver. 7 ἢ' (the period read as ἢ)", B.meyer_open("Ver. 7 ἢ Ἀδ.] Inconsistently")[1] == 7)
+check("meyer_open: the American editor's '[See Note LVII. p. 476.]' before 'Vv. 1, 2.'",
+      B.meyer_open("[See Note LVII. p. 476.] Vv. 1, 2. The parting")[1:3] == (1, 2))
+check("meyer_open: 'ver. 5' (lower case) and prose are not openers",
+      B.meyer_open("ver. 5 shows") is None and B.meyer_open("Very well") is None)
+check("meyer_inline: '— Ver. 14.' after a dash opens", [c[1][1] for c in B.meyer_inline("p. 335).— Ver. 14.", "")] == [14])
+check("meyer_inline: a line opening 'Ver.' after a line ending in a dash opens",
+      B.meyer_inline("Ver. 14. παράγων] in passing", "of Mark. —") == [(0, (None, 14, None, "read"))])
+check("meyer_inline: 'ver. 14' inside a sentence is a reference", B.meyer_inline("as in ver. 14. and so", "") == [])
+check("meyer_critical: a reading's paragraph (Tisch., uncials) scores two",
+      B.meyer_critical("Ver. 1. Instead of ἤλθεν, we must read with Tisch., following", "BCLAY, ἔρχεται.") >= 2)
+check("meyer_critical: exegesis citing the LXX scores under two",
+      B.meyer_critical("Ver. 1. Βίβλος γενέσεως] Book of origin ; Gen.", "ii. 4, v. 1, LXX.; comp. Gen. vi. 9") < 2)
+check("meyer_heading: 'CHAPTER XVIL' set in from the margin is read (L for I)",
+      17 in B.meyer_heading(line("CHAPTER XVIL", 620, 900, 1000, 40), None, "", 1770, 2800, 100))
+check("meyer_heading: a garbled heading over a critical paragraph is a heading, its number unread",
+      B.meyer_heading(line("CH APR R Vol", 613, 900, 1000, 40),
+                      line("Ver. 1. Instead of ἤλθεν, we must read with Tisch., following", 110, 950, 1700, 40),
+                      "BCLAY, ἔρχεται.", 1856, 2800, 110) == ())
+check("meyer_heading: a running head 'CHAP. I. 18. 67' is not a heading",
+      B.meyer_heading(line("CHAP. I. 18. 67", 745, 60, 1100, 32), None, "", 1770, 2800, 110) is False)
+check("meyer_heading: a short line in lower case is not a heading",
+      B.meyer_heading(line("and so on", 700, 900, 900, 40), None, "", 1770, 2800, 110) is False)
+for k in B.MEYER:
+    e = ents.get(k)
+    if not e:
+        continue
+    ms = e["measure"]
+    check(f"manifest: {k} has notes, chapter intros, and coverage", ms["units"].get("note", 0) > 100
+          and ms["units"].get("intro", 0) >= 2 and ms["kjv_coverage"])
+    check(f"manifest: {k} under 2% of notes against a confirmed running head",
+          ms.get("openers_against_running_head", 0) <= 0.02 * ms["units"]["note"])
+    check(f"manifest: {k} scripture mostly resolves (80%)",
+          ms["scripture_links"]["resolved"] >= 0.8 * ms["scripture_links"]["read"])
+    check(f"manifest: {k} says its Hebrew is lost", ms["hebrew"]["hebrew_letters"] == 0
+          and "Hebrew words are lost" in e["scheme"]["honesty"])
+    check(f"manifest: {k} carries its IA date and scan choice",
+          e["scheme"].get("scan_choice") and B.MEYER[k]["ia_date"] in json.dumps(B.MEYER[k]))
+    if B.MEYER[k].get("american"):
+        check(f"manifest: {k} keeps the American editor's notes apart (editor-notes)",
+              ms["units"].get("editor-notes", 0) > 0 and ms.get("american_blocks", 0) > 0)
+check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
+      all(ents[k]["measure"]["kjv_coverage"][b]["commented"] >= 0.95 * ents[k]["measure"]["kjv_coverage"][b]["kjv_verses"]
+          for k, b in (("meyer-mark-luke-1", "Mark"), ("meyer-romans", "Rom")) if k in ents))
+
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

@@ -2701,6 +2701,8 @@ HEBREW_CHAR = re.compile(r'[֐-׿]')
 
 def honesty_2b(slug):
     s = SCANS[slug]
+    if s["reader"] in READER_TEXTS:
+        return READER_TEXTS[s["reader"]]["honesty"]
     if s["reader"] == "alford":
         return ("notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline "
                 "('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a "
@@ -2730,6 +2732,8 @@ def honesty_2b(slug):
 
 
 def citation_2b(slug):
+    if SCANS[slug]["reader"] in READER_TEXTS:
+        return READER_TEXTS[SCANS[slug]["reader"]]["citation"](slug)
     lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
     extra = ", in the numbering the volume prints (scheme.numbering)" if SCANS[slug]["reader"] == "kd" else ""
     text = "leaf.N.text; " if SCANS[slug]["reader"] == "alford" else ""
@@ -2741,7 +2745,7 @@ def build_book_2b(slug, ids):
     """build_book for the second shelf: the same book shape, with the reader,
     the numbering measured, and Hebrew retention in measure."""
     s = SCANS[slug]
-    units, m, (a0, b0), pp = build_scan_2b(slug, ids)
+    units, m, (a0, b0), pp = SCAN_READERS.get(s["reader"], build_scan_2b)(slug, ids)
     s["_numbering"] = m.get("numbering_own", {})
     rights = {"license": f"public domain in the US (printed {s['printed']}); the scan and its OCR are the "
                          "Internet Archive's",
@@ -2795,6 +2799,505 @@ def build_book_2b(slug, ids):
     s.pop("_numbering", None)
     return {"slug": slug, "title": s["title"], "author": s["author"], "edition": s["edition"], "source": source,
             "scheme": scheme, "rights": rights, "measure": measure, "units": units}
+
+
+# ================================================================== the third shelf: Meyer (2026-10-03)
+#
+# H. A. W. Meyer, Critical and Exegetical Commentary (Handbook) on the New
+# Testament, in the T. & T. Clark translation (Edinburgh, 1873-1882; Clark's
+# Foreign Theological Library). One book per volume, read from Internet
+# Archive hOCR. Every scan of each volume was measured on its _djvu.txt
+# (2026-10-03): Greek letters as a share of all letters, and Greek tokens of 3+
+# letters found in the Strong's/John yardstick (greek_vocab), the manifest's
+# figure; then the chosen ones again on their commentary leaves (hOCR):
+#
+#   Matthew I       criticalexeget01meyeiala (T&T Clark, 1880 issue) 5.1% / 34.9%  <- the only scan with Greek
+#                   Funk & Wagnalls 1884 (one volume): criticalexegetic01meye, criticalandexeg02meyegoog,
+#                   criticalexegetic0000meye_y5k0: 0.0% Greek (every Greek word in Latin letters)
+#   Matthew II      criticalexegetic12meye (T&T Clark, 1879) 6.2% / 37.1% on its commentary leaves  <- chosen
+#                   criticalexegetic02meyeiala (1881 issue) 6.3% / 36.1%: not clearly better;
+#                   criticalexeg02meye (1877 cat.): 0.0%
+#   Mark & Luke I   criticalexegetic21meye (1880) 8.4% / 35.3%  <- chosen: the same Princeton set as vol. II
+#                   criticalexeget01meye (1880, another Princeton copy) 8.4% / 35.3%: the same;
+#                   Funk 1884/1893 (one volume): criticalexegetic00meye 7.0%/36.2%, criticalexegetic02meye
+#                   7.0%/36.8% (the American issue: the T&T Clark text with the American editor's notes);
+#                   criticalandexeg00riddgoog, criticalexegetic0000meye, handbooktogospel0000hein: 0.0%
+#   Mark & Luke II  criticalexegetic22meye (1880) 7.9% / 36.8%  <- chosen; criticalexeget02meye (1880): 0.0%
+#   John            every T&T Clark scan has 0.0% Greek: criticalexegeticjohn01meye, criticalexegeticjohn02meye
+#                   (1874-75), criticalexegetic188101meye (1881), bwb_P9-EDR-284_1 (1883). The Funk & Wagnalls
+#                   issue (New York, 1884: the T&T Clark translation, with A. C. Kendrick's notes for the
+#                   American edition) keeps it: criticalexegetic04meye 5.1% / 42.1%  <- chosen;
+#                   criticalandexeg01meyegoog 5.0% / 42.0%, commentaryonnew01unkngoog (1883) 5.1% / 42.0%:
+#                   the same printing, not better; bwb_S0-ATB-610: 0.0%
+#   Romans          every T&T Clark scan has 0.0% Greek: criticalandexeg00dickgoog (1873), criticalexegetic62meye
+#                   (1874, vol. II), criticalexeg00meye (1881, vol. I). The Funk & Wagnalls issue (New York,
+#                   1884, with Timothy Dwight's notes for the American edition): criticalexegetic06meye
+#                   6.5% / 40.5%  <- chosen; criticalandexeg03meyegoog, criticalandexege05meyeuoft: 0.0%
+#   (Acts: criticalexegetic51meye / 52meye 1877 keep the Greek, 6.2% and 7.4%; Corinthians: criticalexegetic71meye
+#   / 72meye 1877, 7.3% and 8.3%: measured, not yet shelved. CriticalExegeticalHandbookNewTestament11Volumes,
+#   a modern compilation of no stated edition, and in.ernet.dli.2015.350526: 0.0%.)
+#
+# F. Godet's commentaries in the T. & T. Clark translation (John, 3 vols, 1876-77 and later issues; Luke,
+# 2 vols, 1875 and later; Romans, 2 vols, 1880-81; 1 Corinthians, 2 vols, 1886-87) are NOT SHELVED: all 50
+# scans of them with a text layer (the Edinburgh issues and the Funk & Wagnalls reprints) have 0.0% Greek
+# letters; dli.ernet.73313 and commentaryonstp00godegoog would not give their text (2026-10-03), and the
+# Zondervan/Kregel reprints (1956-91: commentaryonepis0000fgod, commentaryonfirs0000fgod, ...) are after 1928. Godet quotes the Greek in the body of his notes ('the pron. αὐτός'), and
+# the OCR turned every such word into Latin-letter debris ('auTo^;'). Neither CCEL nor Project Gutenberg
+# holds them (searched 2026-10-03). The candidates and their measures are in the README.
+#
+# THE PAGE. One column. Each chapter opens with a heading 'CHAPTER IV.' and Meyer's critical notes on its
+# readings, a paragraph running its verses on inline ('Ver. 4. ὁ ἄνθρωπ.] Elz. Scholz omit ... — Ver. 6.
+# ...'); the exegesis follows, a paragraph per verse or run, opening 'Ver. 1. Βίβλος γενέσεως] ...' or
+# 'Vv. 2-6.'. So the chapter heading opens the unit <chapter>.intro (the critical notes); only an
+# INDENTED paragraph that opens 'Ver. N.' (or 'Vv.', 'Vers.') is a candidate verse opener, and never the
+# first line after a heading; a candidate whose first two lines read like the critical apparatus (two or
+# more of Lachm., Tisch., Elz., Recepta, Curss., Codd., vss...) is critical notes, not exegesis. A heading
+# the OCR lost or garbled is found as a short centred line followed by such a critical paragraph; its
+# number, if unread, is the next chapter (Meyer comments on every chapter in order). A critical paragraph
+# with no heading at all, where the running heads say the chapter has turned (or the last chapter's
+# verses are done), is taken as the heading (chapter_headings_implied). The Funk & Wagnalls issues print
+# the American editor's 'Notes by American Editor' at the end of a chapter or a group of chapters: the
+# unit <chapter>.american (kind editor-notes), never mixed into Meyer's notes.
+
+
+def _meyer(ia, sha, title, short, edition, printed, copy, leaves, books, ia_date, ia_date_note=None,
+           first_chapter=None, american=None, scan_choice=None, inline=True):
+    s = {"ia": ia, "sha256": sha, "title": title, "short": short, "author": "H. A. W. Meyer", "edition": edition,
+         "printed": printed, "copy": copy, "ia_rights": "NOT_IN_COPYRIGHT", "leaves": leaves, "epistles": books,
+         "apparatus": False, "reader": "meyer", "ia_date": ia_date}
+    for k, v in (("ia_date_note", ia_date_note), ("first_chapter", first_chapter), ("american", american),
+                 ("scan_choice", scan_choice)):
+        if v:
+            s[k] = v
+    if not inline:
+        s["inline"] = False          # measured: Romans keeps more verses with paragraph openers only
+    return s
+
+
+_MEY = ("H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German "
+        "(Edinburgh: T. & T. Clark, Clark's Foreign Theological Library)")
+_MEY_FUNK = ("H. A. W. Meyer, Critical and Exegetical Hand-book, the T. & T. Clark translation reissued "
+             "with supplementary notes for the American edition (New York: Funk & Wagnalls, 1884)")
+MEYER = {
+    "meyer-matthew-1": _meyer(
+        "criticalexeget01meyeiala", "fe4a4957a2ae1fae7aac1338aeedda5672a0bf6d54171d4315fd9020c344b601",
+        "Critical and Exegetical Handbook to the Gospel of Matthew, vol. I", "Meyer, Matt. I",
+        f"{_MEY}: the Gospel of Matthew, vol. I (chapters i.-xvii.), tr. from the sixth German edition by Peter "
+        "Christie, revised and edited by Frederick Crombie (MDCCCLXXX: the 1880 issue), as its title page reads",
+        1880, "University of California Libraries", (4, 499), [("Matt", 94, 498)], "1880",
+        scan_choice="the only scan of vol. I whose OCR kept the Greek (5.1% of letters, 34.9% known); the Funk & "
+                    "Wagnalls scans (1884) have 0.0% Greek"),
+    "meyer-matthew-2": _meyer(
+        "criticalexegetic12meye", "ebff2f82b306d0fd53c73b1c18f8a7eecfa8018e995f13826183194e27ee00ef",
+        "Critical and Exegetical Handbook to the Gospel of Matthew, vol. II", "Meyer, Matt. II",
+        f"{_MEY}: the Gospel of Matthew, vol. II (chapters xviii.-xxviii.), tr. Peter Christie, revised and "
+        "edited by Frederick Crombie (MDCCCLXXIX: 1879), as its title page reads", 1879,
+        "Princeton Theological Seminary Library", (9, 322), [("Matt", 15, 322)], "1877",
+        ia_date_note="IA catalogues it 1877 (the set's first date); this volume's title page reads 1879",
+        first_chapter={"Matt": 18},
+        scan_choice="criticalexegetic12meye (1879): Greek 6.2%, known 37.1% on the commentary leaves; "
+                    "criticalexegetic02meyeiala (1881 issue) 6.3% / 36.1%: not clearly better; "
+                    "criticalexeg02meye: 0.0% Greek"),
+    "meyer-mark-luke-1": _meyer(
+        "criticalexegetic21meye", "0b07ab24a5e2d534672d113ece616db303f7f42762cee74e4177025c61c78615",
+        "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. I", "Meyer, Mark-Luke I",
+        f"{_MEY}: the Gospels of Mark and Luke, vol. I (Mark; Luke i.-ii.), tr. from the fifth German edition "
+        "by Robert Ernest Wallis, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title "
+        "page reads", 1880, "Princeton Theological Seminary Library", (7, 372),
+        [("Mark", 36, 279), ("Luke", 293, 371)], "1880",
+        scan_choice="criticalexegetic21meye, the same Princeton set as vol. II: Greek 8.4%, known 35.3%; "
+                    "criticalexeget01meye (another copy, 1880) measures the same; the Funk & Wagnalls one-volume "
+                    "issue criticalexegetic00meye 7.0% / 36.2%"),
+    "meyer-mark-luke-2": _meyer(
+        "criticalexegetic22meye", "6ac63a270d1f958035c6dbab864e8680a4ae175b40d926a9f24aa3ac901e6ad9",
+        "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. II", "Meyer, Mark-Luke II",
+        f"{_MEY}: the Gospels of Mark and Luke, vol. II (Luke iii.-xxiv.), tr. Robert Ernest Wallis, revised "
+        "and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads", 1880,
+        "Princeton Theological Seminary Library", (9, 381), [("Luke", 11, 381)], "1880",
+        first_chapter={"Luke": 3},
+        scan_choice="criticalexegetic22meye: Greek 7.9%, known 36.8%; criticalexeget02meye (1880): 0.0% Greek"),
+    "meyer-john": _meyer(
+        "criticalexegetic04meye", "fe47adc8baa7f50621c494c909b567a86a5a4cea2ebaad78872bf6dd0b78f9d8",
+        "Critical and Exegetical Hand-book to the Gospel of John", "Meyer, John",
+        f"{_MEY_FUNK}: the Gospel of John, tr. from the fifth German edition by William Urwick, revised and "
+        "edited by Frederick Crombie, with a preface and supplementary notes by A. C. Kendrick (New York: Funk "
+        "& Wagnalls, 1884), as its title page reads", 1884, "Princeton Theological Seminary Library",
+        (5, 596), [("John", 63, 579)], "1884", american="A. C. Kendrick",
+        scan_choice="every T&T Clark scan of John (1874-75, 1881, 1883) has 0.0% Greek; this Funk & Wagnalls "
+                    "issue of the same translation keeps it: Greek 5.1%, known 42.1%; criticalandexeg01meyegoog "
+                    "5.0% / 42.0% and commentaryonnew01unkngoog 5.1% / 42.0% are the same printing"),
+    "meyer-romans": _meyer(
+        "criticalexegetic06meye", "86abbfce229a86115080899b968073cbfa2eaf235a2526f69421b986b7e73055",
+        "Critical and Exegetical Hand-book to the Epistle to the Romans", "Meyer, Romans",
+        f"{_MEY_FUNK}: the Epistle to the Romans, tr. from the fifth German edition by John C. Moore and Edwin "
+        "Johnson, revised and edited by William P. Dickson, with a preface and supplementary notes by Timothy "
+        "Dwight (New York: Funk & Wagnalls, 1884), as its title page reads", 1884,
+        "Princeton Theological Seminary Library", (7, 628), [("Rom", 58, 612)], "1884", american="Timothy Dwight", inline=False,
+        scan_choice="every T&T Clark scan of Romans (1873, 1874, 1881) has 0.0% Greek; this Funk & Wagnalls issue "
+                    "keeps it: Greek 6.5%, known 40.5%; criticalandexeg03meyegoog and criticalandexege05meyeuoft "
+                    "(the same issue): 0.0%"),
+}
+SCANS.update(MEYER)
+SECOND.update(MEYER)
+ORDER.extend(MEYER)
+MULTI.update(k for k, s in MEYER.items() if len(s["epistles"]) > 1)
+
+MEYER_OPEN = re.compile(r'^[\W_]{0,2}(?:\[[^\]]{0,40}\]\s*)?V(?:[Ee][RrNn][Ss]?|[vVy])\s?[.,:]?\s*(\d{1,3})'
+                        r'((?:\s*(?:[,—–\-]+|\s+and)\s*\d{1,3}){0,6})'
+                        r'(?:\s*f{1,2}\.|\s*[.,:;\]]|\s+ἢ\s|\s+(?=[Ͱ-Ͽἀ-῿]))')
+# ('Ver. 7 ἢ Ἀδ.': the period read as ἢ; '[See Note LVII. p. 476.] Vv. 1, 2.': the American editor's pointer)
+MEYER_SIGLA = re.compile(r'\b(?:Lachm|Tisch|Elz|Griesb|Scholz|Recepta|Rec|Curss?|Cursives|min|Codd|vss|Verss|'
+                         r'Vulg|Copt|Sahid|Aeth|Arm|Goth|Syr|It)\b')
+MEYER_CHAPTER = re.compile(r'^\W{0,3}[CGO0]\s?H\s?A\s?P\s?T\s?[EF]\s?[RBK]\w{0,2}[\W_]*\s*([^\d]{0,10})$')
+MEYER_AMERICAN = re.compile(r'AMERICAN\s+E[a-zA-Z]{3,5}')
+MEYER_ROMAN = str.maketrans({"l": "I", "1": "I", "|": "I", "!": "I", "Y": "V", "Ι": "I", "Χ": "X", "Υ": "V",
+                             "v": "V", "i": "I", "x": "X"})
+
+
+def meyer_open(text):
+    """'Ver. 4.', 'VER. 1.', 'Vv. 2-6.', 'Vers. 14-19.': (None, n, end, 'read') or None."""
+    m = MEYER_OPEN.match(text)
+    if not m:
+        return None
+    n = int(m.group(1))
+    nums = [int(x) for x in re.findall(r'\d{1,3}', m.group(2) or "")]
+    e = nums[-1] if nums and nums[-1] > n else None
+    return (None, n, e, "read") if n else None
+
+
+def meyer_heading(l, nxt, after, W, H, mg):
+    """A chapter heading: a short line set in from the margin, reading CHAPTER (fuzzily), or a short centred
+    line followed by a paragraph of critical notes. The numbers its roman may be read as (() if none), or False."""
+    words = l["text"].split()
+    if not 1 <= len(words) <= 4 or l["bbox"][0] - mg < 0.12 * W or l["bbox"][1] < 0.08 * H:
+        return False                    # (not a running head the page reader left in the body)
+    m = MEYER_CHAPTER.match(l["text"])
+    letters = [c for c in l["text"] if c.isalpha()]
+    if not letters or sum(c.isupper() for c in letters) < 0.6 * len(letters):
+        return False                    # a heading is in capitals
+    crit = nxt is not None and meyer_open(nxt["text"]) and meyer_critical(nxt["text"], after) >= 2
+    if not m and not crit:
+        return False
+    tok = re.sub(r'[^A-Za-z|!1ΙΧΥ]', '', m.group(1) if m else words[-1]).translate(MEYER_ROMAN)
+    out = []
+    for t in (tok, tok[:-1] + "I" if tok.endswith("L") else None, tok[:-1] if tok.endswith("L") else None,
+              tok.replace("L", "I")):       # a final L is an I, or the period
+        if t and ROMAN_STRICT.fullmatch(t) and FS.roman(t) not in out:
+            out.append(FS.roman(t))
+    return tuple(out)                   # the readings (the caller takes the one that comes next), () if none
+
+
+ROMAN_STRICT = re.compile(r'(?=[IVXL])L?X{0,3}(?:IX|IV|V?I{0,3})')
+
+
+MEYER_DASH = re.compile(r'(?:[—–]|--+|-\s)\s*-?\s*(?=[VY])')
+
+
+def meyer_inline(text, prev):
+    """Openers run on inside a paragraph (Mark, Luke: 'Vv. 13-17. See on Matt. ix. 9-13. ... — Ver. 14.
+    παράγων]'): 'Ver. N.' after a dash, or at the start of a line when the line before ends with one:
+    [(pos, (None, n, end, 'read'))]."""
+    out = []
+    if prev.rstrip().endswith(("—", "–", "-")):
+        o = meyer_open(text)
+        if o:
+            out.append((0, o))
+    for d in MEYER_DASH.finditer(text):
+        o = meyer_open(text[d.end():])
+        if o and d.end() > 0:
+            out.append((d.end(), o))
+    return out
+
+
+MEYER_UNCIALS = re.compile(r'(?<![\w.])(?!LXX\b)[ABCDEFGHKLMNPSUWXYZΓΔΘΛΞΠΨ]{2,7}\b|(?<![\w.])[A-Z]\*{1,2}')
+
+
+def meyer_critical(text, nxt):
+    """How much a paragraph's first lines read like Meyer's critical notes rather than his exegesis: the
+    apparatus's sigla named (Lachm., Tisch., Elz., Recepta, min., vss....), a run of uncials ('BCLΔ', 'D*')
+    counting as one. Two make a critical paragraph after a chapter's heading; in the exegesis it takes three."""
+    t = text + " " + (nxt or "")
+    return len(set(MEYER_SIGLA.findall(t))) + (1 if MEYER_UNCIALS.search(t) else 0)
+
+
+def build_scan_meyer(slug, ids):
+    s = SCANS[slug]
+    P = pages(slug)
+    a0, b0 = s["leaves"]
+    seg = {}
+    for book, x, y in s["epistles"]:
+        for leaf in range(x, y + 1):
+            seg[leaf] = book
+    m = collections.Counter()
+    units = []
+    A = {leaf: analyse(P[leaf]) for leaf in range(a0, b0 + 1)}
+    SC = {leaf: sc_page(P[leaf]) for leaf in range(a0, b0 + 1)}
+    pp = printed_pages({leaf: sorted(set(A[leaf]["nums"]) | set(SC[leaf][1])) for leaf in A})
+    kjv_counts = {book: verse_counts(ids, book) for book, _, _ in s["epistles"]}
+    nch = {book: max(c) for book, c in kjv_counts.items()}
+    items = []
+    for leaf in range(a0, b0 + 1):
+        a, book = A[leaf], seg.get(leaf)
+        head, nums, body, foot, junk = SC[leaf]
+        m["junk_lines_dropped"] += junk
+        if not book:
+            lines = [l for l, _ in body] + foot
+            if lines:
+                units.append(page_unit(slug, s, leaf, lines, dict(a, head=head or a["head"]), pp))
+                m["leaves_page"] += 1
+            continue
+        m["leaves_commentary"] += 1
+        hc, hv = sc_head(head, nch[book])
+        hv = [v for v in hv if v not in nums]
+        xs0 = sorted(l["bbox"][0] for l, _ in body if len(l["words"]) >= 4)
+        mg = xs0[len(xs0) // 5] if xs0 else 0
+        xs1 = sorted(l["bbox"][2] for l, _ in body if len(l["words"]) >= 4)
+        right = xs1[len(xs1) // 2] if xs1 else P[leaf]["w"]
+        for i, (l, para) in enumerate(body):
+            nxt = body[i + 1][0] if i + 1 < len(body) else None
+            after = " ".join(x["text"] for x, _ in body[i + 1:i + 4])     # the next three lines
+            it = {"book": book, "leaf": leaf, "text": l["text"], "para": para, "cands": [], "hc": hc, "hv": hv}
+            if s.get("american") and MEYER_AMERICAN.search(l["text"]) and len(l["text"].split()) <= 5:
+                it["american"] = True
+            else:
+                h = meyer_heading(l, nxt, " ".join(x["text"] for x, _ in body[i + 2:i + 4]), P[leaf]["w"], P[leaf]["h"], mg)
+                if h is not False:
+                    it["heading"] = h
+                else:
+                    o = meyer_open(l["text"]) if para else None
+                    # a paragraph of critical notes, indented or not (after a heading the OCR lost, the line
+                    # before it ends a paragraph short of the measure)
+                    starts = para or i == 0 or body[i - 1][0]["bbox"][2] < right - 0.15 * (right - mg)
+                    score = meyer_critical(l["text"], after) if starts and meyer_open(l["text"]) else 0
+                    if score >= 2:
+                        it["critical"] = score
+                    if score < 2 or para:
+                        it["cands"] = meyer_inline(l["text"], body[i - 1][0]["text"] if i else "") \
+                            if s.get("inline", True) else []
+                        if o:
+                            it["cands"] = [(0, o)] + [c for c in it["cands"] if c[0] > 0]
+            items.append(it)
+        if foot:
+            m["footnote_lines"] += len(foot)
+            t = ""
+            mid = (min(l["bbox"][0] for l in foot) + max(l["bbox"][2] for l in foot)) / 2
+            cols = C.columns(foot, 2 * mid)       # Funk & Wagnalls set the footnotes in two columns
+            m["footnote_blocks_two_columns"] += len(cols) == 2
+            for col in cols:
+                for l in col:
+                    t = C.join(t, l["text"])
+            items.append({"book": book, "leaf": leaf, "text": t, "foot": True, "cands": [], "hc": hc, "hv": hv})
+    # running heads confirmed by a neighbour, as build_scan_2b
+    headed = {}
+    for it in items:
+        if it["hc"] is not None:
+            headed.setdefault(it["leaf"], (it["book"], it["hc"]))
+
+    def near(leaf, book, step):
+        for k in range(1, 4):
+            h = headed.get(leaf + step * k)
+            if h:
+                return h[1] if h[0] == book else None
+        return None
+    for it in items:
+        hn, hp = near(it["leaf"], it["book"], 1), near(it["leaf"], it["book"], -1)
+        it["hc_next"] = hn
+        it["hsure"] = it["hc"] is not None and (it["hc"] in (hn, hp) or (
+            hn is not None and hp is not None and hp <= it["hc"] <= hn))
+    decoders = {}
+    for book in kjv_counts:
+        d = HeadDecoder(kjv_counts[book])
+        d.c = s.get("first_chapter", {}).get(book, 1)
+        decoders[book] = d
+    notes = decode_meyer(slug, items, decoders, pp, m)
+    for key, nu in notes.items():
+        book, kind = nu["book"], nu["kind"]
+        links = []
+        if nu["c"] is None:
+            ref = f"{note_ref(s, book)}, before the first chapter"
+        elif kind == "intro":
+            ref = f"{note_ref(s, book)} {nu['c']}, chapter heading and critical notes"
+        elif kind == "editor-notes":
+            ref = f"{note_ref(s, book)} {nu['c']}, notes by the American editor ({s['american']})"
+        else:
+            vs = range(nu["n"], (nu["e"] or nu["n"]) + 1)
+            links = [{"target": f"kjv:{book}.{nu['c']}.{v}", "type": "comments-on",
+                      "resolved": f"kjv:{book}.{nu['c']}.{v}" in ids} for v in vs]
+            ref = note_ref(s, book, nu["c"], nu["n"], nu["e"])
+        u = {"id": f"{slug}:{key}", "ref": ref, "kind": kind, "book": book, "text": nu["text"], "links": links,
+             "scan": {"leaves": nu["leaves"]}}
+        if kind == "editor-notes":
+            u["by"] = s["american"]
+        if nu["pages"]:
+            u["scan"]["printed_pages"] = nu["pages"]
+        if nu["notes"]:
+            u["notes"] = nu["notes"]
+        units.append(u)
+    order = {"page": 0, "intro": 1, "note": 1, "editor-notes": 1}
+    units.sort(key=lambda u: (min(u["scan"]["leaves"]), order[u["kind"]]))
+    return units, m, (a0, b0), pp
+
+
+def decode_meyer(slug, items, decoders, pp, m):
+    """decode_2b's verse sequence, with Meyer's chapter headings (each opens <c>.intro, the critical notes,
+    and sets the sequence to that chapter) and the American editor's notes (<c>.american) between."""
+    notes = collections.OrderedDict()
+    current, last_ch, in_crit = {}, {}, {}
+    flat = [(i, j) for i, it in enumerate(items) for j in range(len(it["cands"]))]
+    seg, k = [], 0
+    for it in items:
+        k += 1 if ("heading" in it or it.get("critical")) else 0
+        seg.append((it["book"], k))       # a chapter's heading closes the look-ahead
+    ahead = {}
+    for k, (i, j) in enumerate(flat):
+        ahead[(i, j)] = [items[i2]["cands"][j2][1][:2] for i2, j2 in flat[k + 1:k + 7] if seg[i2] == seg[i]]
+
+    def unit(key, book, kind, c=None, n=None, e=None):
+        return notes.setdefault(key, {"book": book, "kind": kind, "c": c, "n": n, "e": e, "text": "", "leaves": [],
+                                      "pages": [], "notes": []})
+
+    def put(key, text, leaf, para):
+        nu = notes[key]
+        if text:
+            nu["text"] = nu["text"] + "\n" + text if (para and nu["text"]) else C.join(nu["text"], text)
+        if leaf not in nu["leaves"]:
+            nu["leaves"].append(leaf)
+            if leaf in pp and pp[leaf][0] not in nu["pages"]:
+                nu["pages"].append(pp[leaf][0])
+
+    def chapter(book, ch, it, how):
+        dec = decoders[book]
+        pre = ids_prefix(slug, book)
+        dec.c, dec.v = ch, 0
+        last_ch[book] = ch
+        current[book] = f"{pre}{ch}.intro"
+        m[how] += 1
+        unit(current[book], book, "intro", ch)
+        put(current[book], it["text"], it["leaf"], True)
+
+    for i, it in enumerate(items):
+        book, leaf = it["book"], it["leaf"]
+        dec = decoders[book]
+        pre = ids_prefix(slug, book)
+        if book not in last_ch:
+            last_ch[book] = dec.c - 1
+        if current.get(book) is None:
+            current[book] = f"{pre}title"
+            unit(current[book], book, "intro")
+        if it.get("foot"):
+            unit(current[book], book, "intro")["notes"].append(it["text"])
+            put(current[book], "", leaf, False)
+            continue
+        if "heading" in it:
+            nxt_c = last_ch[book] + 1
+            # of the readings ('IIL' is II or III), the next chapter first, else one skipped
+            h = next((x for x in sorted(it["heading"]) if last_ch[book] < x <= last_ch[book] + 2 and x <= dec.nch), None)
+            if h is not None:
+                chapter(book, h, it, "chapter_headings_read")
+            elif nxt_c <= dec.nch:
+                chapter(book, nxt_c, it, "chapter_headings_unread_next")
+            else:
+                put(current[book], it["text"], leaf, True)
+                m["chapter_headings_refused"] += 1
+            continue
+        crit = it.get("critical", 0)
+        if crit and current[book] in (f"{pre}{last_ch[book]}.intro", f"{pre}title"):
+            put(current[book], it["text"], leaf, it["para"])      # more of the chapter's critical notes
+            continue
+        if crit == 2 and it["para"] and it["cands"]:
+            crit = 0                    # in the exegesis two sigla are not enough: an opener (see meyer_critical)
+            m["openers_naming_sigla"] += 1
+        if crit:
+            hn = it["hc_next"]
+            nxt_c = last_ch[book] + 1
+            if nxt_c <= dec.nch and current[book] != f"{pre}{last_ch[book]}.intro" and (
+                    it["hc"] == nxt_c or hn == nxt_c or dec.v >= dec.counts.get(dec.c, 0) - 3):
+                # a critical paragraph whose heading the OCR lost: the chapter turns here
+                chapter(book, nxt_c, it, "chapter_headings_implied")
+                continue
+            m["critical_paragraphs_in_text"] += 1
+        if it.get("american"):
+            current[book] = f"{pre}{dec.c}.american"
+            unit(current[book], book, "editor-notes", dec.c)
+            put(current[book], it["text"], leaf, True)
+            m["american_blocks"] += 1
+            continue
+        if current[book].endswith(".american") and not it["cands"]:
+            put(current[book], it["text"], leaf, it["para"])
+            continue
+        if current[book].endswith(".american"):
+            m["openers_in_american_notes"] += 1
+            put(current[book], it["text"], leaf, it["para"])
+            continue
+        if crit:
+            in_crit[book] = True        # a critical paragraph left in the text: its 'Ver.'s are readings
+            it = dict(it, cands=[])
+        elif it["para"]:
+            in_crit[book] = False
+        hc, hsure = it["hc"], it["hsure"]
+        if hc is None and it.get("hc_next") is not None and it["hc_next"] > dec.c:
+            hc = it["hc_next"]
+        if hc is not None and hc < dec.c:
+            hc, hsure = None, False     # the headings set the chapter: a running head never takes it back
+        pos, para = 0, it["para"]
+        for j, (p, o) in enumerate(it["cands"]):
+            cp, n, e, how = o
+            nxt = ahead[(i, j)]
+            if not (p == 0 and it["para"]) and (in_crit.get(book) or not notes[current[book]]["kind"] == "note"):
+                m["inline_openers_outside_notes"] += 1     # the critical notes run their verses on inline too
+                continue
+            if n > dec.v + 1 and any(a[0] is None and dec.v < a[1] < n for a in nxt[:3]):
+                m["openers_out_of_sequence"] += 1
+                continue
+            took = dec.offer(n, e, hc, it["hv"], cp, hsure, nxt)
+            m["openers_accepted" if took else "openers_rejected"] += 1
+            if not took:
+                continue
+            c, n2, _ = took
+            if it["hsure"] and it["hc"] != c:
+                m["openers_against_running_head"] += 1
+            if c != last_ch[book]:
+                m["chapter_turns_without_heading"] += 1
+                last_ch[book] = c
+            e2 = e if (e and n2 < e <= dec.counts.get(c, 0) and e - n2 <= 60) else None
+            put(current[book], it["text"][pos:p].strip(), leaf, para)
+            key = f"{pre}{c}.{n2}" + (f"-{e2}" if e2 else "")
+            if key in notes:
+                m["notes_reopened"] += 1
+            unit(key, book, "note", c, n2, e2)
+            current[book] = key
+            pos, para = p, True
+        put(current[book], it["text"][pos:].strip(), leaf, para)
+    return notes
+
+
+def citation_meyer(slug):
+    lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
+    am = "; the American editor's notes: <chapter>.american" if SCANS[slug].get("american") else ""
+    return (f"note: {lead} of the verse commented on (a run of verses: {lead}-end); a chapter's heading and "
+            f"critical notes: {lead.rsplit('.', 1)[0]}.intro{am}; everything else: scan leaf (leaf.N; folio in "
+            "scan.printed_page)")
+
+
+MEYER_HONESTY = (
+    "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph "
+    "'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse "
+    "sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the "
+    "next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose "
+    "number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, "
+    "from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with "
+    "the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph "
+    "of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); "
+    "the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; "
+    "the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that "
+    "point; boundaries are only as good as the numbers read off the page, and a misread or rejected number "
+    "merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by "
+    "scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew "
+    "script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); "
+    "unproofread OCR")
+
+SCAN_READERS = {"meyer": build_scan_meyer}
+READER_TEXTS = {"meyer": {"honesty": MEYER_HONESTY, "citation": citation_meyer}}
 
 
 # ------------------------------------------------------------------ books

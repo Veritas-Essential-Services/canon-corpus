@@ -30457,5 +30457,445 @@
    }
   },
   "built_sha256": "142b3f1fe752f95bc2c983831825f0e23def11e010ea72dc8ee3ce583ca6b386"
+ },
+ "meyer-matthew-1": {
+  "title": "Critical and Exegetical Handbook to the Gospel of Matthew, vol. I",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "fe4a4957a2ae1fae7aac1338aeedda5672a0bf6d54171d4315fd9020c344b601",
+  "units": 548,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "the only scan of vol. I whose OCR kept the Greek (5.1% of letters, 34.9% known); the Funk & Wagnalls scans (1884) have 0.0% Greek",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospel of Matthew, vol. I (chapters i.-xvii.), tr. from the sixth German edition by Peter Christie, revised and edited by Frederick Crombie (MDCCCLXXX: the 1880 issue), as its title page reads; scan leaves 4-499 of criticalexeget01meyeiala"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexeget01meyeiala (University of California Libraries copy)",
+   "source_url": "https://archive.org/details/criticalexeget01meyeiala",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 18,
+    "note": 439,
+    "page": 91
+   },
+   "chapter_headings_read": 16,
+   "chapter_headings_unread_next": 1,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 827,
+   "inline_openers_outside_notes": 193,
+   "junk_lines_dropped": 21,
+   "leaves_commentary": 405,
+   "leaves_page": 91,
+   "notes_reopened": 1,
+   "openers_accepted": 440,
+   "openers_naming_sigla": 2,
+   "openers_out_of_sequence": 2,
+   "printed_page_from_neighbours": 182,
+   "printed_page_read": 264,
+   "kjv_coverage": {
+    "Matt": {
+     "kjv_verses": 1071,
+     "commented": 504,
+     "with_own_note": 386,
+     "chapters": [
+      1,
+      17
+     ],
+     "kjv_verses_in_chapters": 583
+    }
+   },
+   "scripture_links": {
+    "read": 2833,
+    "resolved": 2550,
+    "ranges": 59,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 41345,
+    "greek_share_of_letters": 0.0517,
+    "greek_tokens_3plus": 6516,
+    "greek_tokens_in_reference_vocab": 0.3499,
+    "mixed_script_tokens": 24
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "9e4f70d12f30d99e5198bd3b79fad898a9bd3c370b3879accb8e5d7a5570d8b5"
+ },
+ "meyer-matthew-2": {
+  "title": "Critical and Exegetical Handbook to the Gospel of Matthew, vol. II",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "ebff2f82b306d0fd53c73b1c18f8a7eecfa8018e995f13826183194e27ee00ef",
+  "units": 355,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic12meye (1879): Greek 6.2%, known 37.1% on the commentary leaves; criticalexegetic02meyeiala (1881 issue) 6.3% / 36.1%: not clearly better; criticalexeg02meye: 0.0% Greek",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospel of Matthew, vol. II (chapters xviii.-xxviii.), tr. Peter Christie, revised and edited by Frederick Crombie (MDCCCLXXIX: 1879), as its title page reads; scan leaves 9-322 of criticalexegetic12meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1879); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic12meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic12meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 12,
+    "note": 338,
+    "page": 5
+   },
+   "chapter_headings_implied": 1,
+   "chapter_headings_read": 6,
+   "chapter_headings_unread_next": 4,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 368,
+   "inline_openers_outside_notes": 200,
+   "junk_lines_dropped": 13,
+   "leaves_commentary": 308,
+   "leaves_page": 5,
+   "notes_reopened": 1,
+   "openers_accepted": 339,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 86,
+   "printed_page_read": 220,
+   "kjv_coverage": {
+    "Matt": {
+     "kjv_verses": 1071,
+     "commented": 365,
+     "with_own_note": 323,
+     "chapters": [
+      18,
+      28
+     ],
+     "kjv_verses_in_chapters": 488
+    }
+   },
+   "scripture_links": {
+    "read": 1781,
+    "resolved": 1579,
+    "ranges": 46,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 32340,
+    "greek_share_of_letters": 0.0634,
+    "greek_tokens_3plus": 5203,
+    "greek_tokens_in_reference_vocab": 0.3709,
+    "mixed_script_tokens": 18
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "0775dbeba7194d8213ca5ce8a065991861e915b7cefc1f46dc9b3eb38806f814"
+ },
+ "meyer-mark-luke-1": {
+  "title": "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. I",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "0b07ab24a5e2d534672d113ece616db303f7f42762cee74e4177025c61c78615",
+  "units": 609,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic21meye, the same Princeton set as vol. II: Greek 8.4%, known 35.3%; criticalexeget01meye (another copy, 1880) measures the same; the Funk & Wagnalls one-volume issue criticalexegetic00meye 7.0% / 36.2%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospels of Mark and Luke, vol. I (Mark; Luke i.-ii.), tr. from the fifth German edition by Robert Ernest Wallis, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads; scan leaves 7-372 of criticalexegetic21meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic21meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic21meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 20,
+    "note": 547,
+    "page": 42
+   },
+   "chapter_headings_implied": 3,
+   "chapter_headings_read": 2,
+   "chapter_headings_unread_next": 13,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 880,
+   "inline_openers_outside_notes": 377,
+   "junk_lines_dropped": 43,
+   "leaves_commentary": 323,
+   "leaves_page": 42,
+   "openers_accepted": 547,
+   "openers_out_of_sequence": 3,
+   "printed_page_from_neighbours": 173,
+   "printed_page_read": 180,
+   "kjv_coverage": {
+    "Mark": {
+     "kjv_verses": 678,
+     "commented": 660,
+     "with_own_note": 372
+    },
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 81,
+     "with_own_note": 70,
+     "chapters": [
+      1,
+      2
+     ],
+     "kjv_verses_in_chapters": 132
+    }
+   },
+   "scripture_links": {
+    "read": 2215,
+    "resolved": 1972,
+    "ranges": 158,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 46218,
+    "greek_share_of_letters": 0.0823,
+    "greek_tokens_3plus": 7478,
+    "greek_tokens_in_reference_vocab": 0.3553,
+    "mixed_script_tokens": 18
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "c35d3efc8e95249a09080fa0756e353dd009ba904a688330cd282ceeca026470"
+ },
+ "meyer-mark-luke-2": {
+  "title": "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. II",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "6ac63a270d1f958035c6dbab864e8680a4ae175b40d926a9f24aa3ac901e6ad9",
+  "units": 704,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic22meye: Greek 7.9%, known 36.8%; criticalexeget02meye (1880): 0.0% Greek",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospels of Mark and Luke, vol. II (Luke iii.-xxiv.), tr. Robert Ernest Wallis, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads; scan leaves 9-381 of criticalexegetic22meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic22meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic22meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 23,
+    "note": 679,
+    "page": 2
+   },
+   "chapter_headings_implied": 2,
+   "chapter_headings_read": 11,
+   "chapter_headings_unread_next": 9,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1079,
+   "inline_openers_outside_notes": 361,
+   "junk_lines_dropped": 4,
+   "leaves_commentary": 371,
+   "leaves_page": 2,
+   "notes_reopened": 1,
+   "openers_accepted": 680,
+   "openers_against_running_head": 1,
+   "openers_out_of_sequence": 5,
+   "printed_page_from_neighbours": 157,
+   "printed_page_read": 206,
+   "kjv_coverage": {
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 972,
+     "with_own_note": 449,
+     "chapters": [
+      3,
+      24
+     ],
+     "kjv_verses_in_chapters": 1019
+    }
+   },
+   "scripture_links": {
+    "read": 2564,
+    "resolved": 2267,
+    "ranges": 148,
+    "ranges_start_only": 2
+   },
+   "greek": {
+    "greek_letters": 48183,
+    "greek_share_of_letters": 0.0833,
+    "greek_tokens_3plus": 7838,
+    "greek_tokens_in_reference_vocab": 0.3696,
+    "mixed_script_tokens": 25
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "dba6a647a120b89e1b7a07b44d9440feb70dd1d2c90013ea8721facd8052188c"
+ },
+ "meyer-john": {
+  "title": "Critical and Exegetical Hand-book to the Gospel of John",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "fe47adc8baa7f50621c494c909b567a86a5a4cea2ebaad78872bf6dd0b78f9d8",
+  "units": 659,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; the American editor's notes: <chapter>.american; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "every T&T Clark scan of John (1874-75, 1881, 1883) has 0.0% Greek; this Funk & Wagnalls issue of the same translation keeps it: Greek 5.1%, known 42.1%; criticalandexeg01meyegoog 5.0% / 42.0% and commentaryonnew01unkngoog 5.1% / 42.0% are the same printing",
+   "note": "H. A. W. Meyer, Critical and Exegetical Hand-book, the T. & T. Clark translation reissued with supplementary notes for the American edition (New York: Funk & Wagnalls, 1884): the Gospel of John, tr. from the fifth German edition by William Urwick, revised and edited by Frederick Crombie, with a preface and supplementary notes by A. C. Kendrick (New York: Funk & Wagnalls, 1884), as its title page reads; scan leaves 5-596 of criticalexegetic04meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1884); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic04meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic04meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "editor-notes": 13,
+    "intro": 22,
+    "note": 555,
+    "page": 69
+   },
+   "american_blocks": 13,
+   "chapter_headings_read": 18,
+   "chapter_headings_unread_next": 3,
+   "footnote_blocks_two_columns": 192,
+   "footnote_lines": 4723,
+   "inline_openers_outside_notes": 269,
+   "junk_lines_dropped": 37,
+   "leaves_commentary": 517,
+   "leaves_page": 69,
+   "notes_reopened": 2,
+   "openers_accepted": 557,
+   "openers_against_running_head": 5,
+   "openers_in_american_notes": 1,
+   "openers_naming_sigla": 1,
+   "openers_out_of_sequence": 26,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 215,
+   "printed_page_read": 337,
+   "kjv_coverage": {
+    "John": {
+     "kjv_verses": 879,
+     "commented": 801,
+     "with_own_note": 317
+    }
+   },
+   "scripture_links": {
+    "read": 4175,
+    "resolved": 3643,
+    "ranges": 94,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 68122,
+    "greek_share_of_letters": 0.0503,
+    "greek_tokens_3plus": 11726,
+    "greek_tokens_in_reference_vocab": 0.4304,
+    "mixed_script_tokens": 53
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "6adb38b3eb0da906b6e8d1fa7a4c25eaa8d20878e305f791e99402faeb8a6711"
+ },
+ "meyer-romans": {
+  "title": "Critical and Exegetical Hand-book to the Epistle to the Romans",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "86abbfce229a86115080899b968073cbfa2eaf235a2526f69421b986b7e73055",
+  "units": 454,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; the American editor's notes: <chapter>.american; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "every T&T Clark scan of Romans (1873, 1874, 1881) has 0.0% Greek; this Funk & Wagnalls issue keeps it: Greek 6.5%, known 40.5%; criticalandexeg03meyegoog and criticalandexege05meyeuoft (the same issue): 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Hand-book, the T. & T. Clark translation reissued with supplementary notes for the American edition (New York: Funk & Wagnalls, 1884): the Epistle to the Romans, tr. from the fifth German edition by John C. Moore and Edwin Johnson, revised and edited by William P. Dickson, with a preface and supplementary notes by Timothy Dwight (New York: Funk & Wagnalls, 1884), as its title page reads; scan leaves 7-628 of criticalexegetic06meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1884); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic06meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic06meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "editor-notes": 11,
+    "intro": 17,
+    "note": 367,
+    "page": 59
+   },
+   "american_blocks": 11,
+   "chapter_headings_read": 11,
+   "chapter_headings_unread_next": 5,
+   "footnote_blocks_two_columns": 169,
+   "footnote_lines": 4162,
+   "junk_lines_dropped": 36,
+   "leaves_commentary": 555,
+   "leaves_page": 59,
+   "notes_reopened": 3,
+   "openers_accepted": 370,
+   "openers_out_of_sequence": 5,
+   "openers_rejected": 3,
+   "printed_page_from_neighbours": 229,
+   "printed_page_read": 333,
+   "kjv_coverage": {
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 419,
+     "with_own_note": 288
+    }
+   },
+   "scripture_links": {
+    "read": 4964,
+    "resolved": 4333,
+    "ranges": 145,
+    "ranges_start_only": 5
+   },
+   "greek": {
+    "greek_letters": 92361,
+    "greek_share_of_letters": 0.063,
+    "greek_tokens_3plus": 15061,
+    "greek_tokens_in_reference_vocab": 0.414,
+    "mixed_script_tokens": 77
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "e58d6fd4b74535bef229ddf4a991ae489e1d41c8a17238f51600464fee25c254"
  }
 }

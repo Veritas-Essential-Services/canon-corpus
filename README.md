@@ -337,6 +337,55 @@ Every honesty field says so.
 keeps the Greek. Delitzsch's Isaiah does not mark its sections "Ver.", so it
 needs a different reader; its scans are measured and listed in the code.
 
+### The third shelf: Meyer (drafts); Godet not shelved
+
+H. A. W. Meyer's *Critical and Exegetical Handbook to the New Testament*, in
+the T&T Clark translation, one book per volume, read from Internet Archive
+scans:
+
+| Book | Volume | Printed | IA item |
+|---|---|---|---|
+| `meyer-matthew-1` | Matthew I (ch. 1-17) | Edinburgh, 1880 | criticalexeget01meyeiala |
+| `meyer-matthew-2` | Matthew II (ch. 18-28) | Edinburgh, 1879 | criticalexegetic12meye |
+| `meyer-mark-luke-1` | Mark; Luke 1-2 | Edinburgh, 1880 | criticalexegetic21meye |
+| `meyer-mark-luke-2` | Luke 3-24 | Edinburgh, 1880 | criticalexegetic22meye |
+| `meyer-john` | John | New York (Funk & Wagnalls), 1884 | criticalexegetic04meye |
+| `meyer-romans` | Romans | New York (Funk & Wagnalls), 1884 | criticalexegetic06meye |
+
+Every T&T Clark scan of John and of Romans lost its Greek, so those two come
+from the American issue of the same translation. That issue adds notes by an
+American editor (A. C. Kendrick on John, Timothy Dwight on Romans). They are
+kept apart, as `<chapter>.american` (kind `editor-notes`, with `by`), and
+never mixed into Meyer's notes.
+
+**How a page is read.** Each chapter opens "CHAPTER IV." and then Meyer's
+critical notes on its readings. That heading and those notes are the unit
+`<chapter>.intro`. The exegesis follows, a paragraph per verse or run,
+opening "Ver. 1." or "Vv. 2-6." Only such an indented paragraph opens a
+note. In Mark and Luke (and, where it measured better, the other volumes)
+Meyer also runs notes on after a dash ("— Ver. 14."), and those are read too.
+Romans measured better without them. A heading the OCR garbled or lost is
+found by the critical paragraph under it. Its number is checked against the
+chapter that should come next. The running heads never move a note back to
+an earlier chapter.
+
+**Coverage** (verses with a note, of the verses in the chapters the volume
+holds): Matthew I 86%, Matthew II 75%, Mark 97%, Luke 1-2 61%, Luke 3-24
+95%, John 91%, Romans 97%. Meyer passes over some verses, and the measure in
+each manifest entry counts the openers accepted, refused and taken from the
+running heads. The Hebrew is lost in every scan, and every honesty field
+says so.
+
+**Not shelved yet:** Meyer on Acts and on Corinthians. Their scans keep the
+Greek and are listed in the code.
+
+**Godet is not shelved.** All 50 scans of his John, Luke, Romans and
+1 Corinthians in English (the Edinburgh issues and the Funk & Wagnalls
+reprints) have no Greek letters at all. Godet quotes the Greek in his notes,
+and the OCR turned every such word into Latin letters. CCEL and Project
+Gutenberg do not have these books. Shelving them without their Greek, as
+Keil & Delitzsch are shelved without their Hebrew, is Adam's call.
+
 ## Josephus (Greek and English)
 
 The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek
