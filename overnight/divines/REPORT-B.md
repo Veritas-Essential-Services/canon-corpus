@@ -417,3 +417,7 @@
 ## 2026-10-03 02:43 CDT — Horace; retry
 - Horace: verse Odes by C. S. Mathews (1867), H. H. Pierce (1884), W. H. Cudworth (1917)
 - Retry: three items now show metadata but their text still answers 500 (Queen Elizabeth's Boethius, the 1670 Aelian, Sheppard's Oedipus); the rest unchanged
+
+## 2026-10-03 02:45 CDT — Virgil: Aeneids
+- Virgil: Aeneid by G. K. Rickards (I-VI, 1871), John D. Long (1879), Oliver Crane (1888), Sir Charles Bowen (Eclogues and I-VI, 1889)
+- IA aeneidvirgil00rickgoog mislabelled (Rickards, not Ravensworth); Ravensworth's VII-XII still wanted

@@ -692,6 +692,14 @@
    "started": "2026-10-03T02:38:58-05:00",
    "finished": "2026-10-03T02:43:00-05:00",
    "notes": "OCR 0.86-0.92. Cudworth 1917 privately printed, PD by date. Retry: Queen Elizabeth's Boethius, the 1670 Aelian and Sheppard's Oedipus now show metadata but the text files still answer 500."
+  },
+  {
+   "id": "virgil-aeneids",
+   "status": "done",
+   "scope": "Four Aeneid translations (1871-1889)",
+   "started": "2026-10-03T02:43:00-05:00",
+   "finished": "2026-10-03T02:45:55-05:00",
+   "notes": "Rickards I-VI 1871, Long 1879, Crane 1888, Bowen 1889 (2nd ed.). OCR 0.89-0.92. IA's 'Books VII-XII' Ravensworth item is mislabelled (it holds Rickards I-VI); Ravensworth's half still wanted. Storr's Rivingtons volumes are Latin school editions, not taken."
   }
  ]
 }

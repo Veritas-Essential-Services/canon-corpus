@@ -2087,6 +2087,10 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Works of Virgil, translated, vol. II (London, MDCCCXLIX) | Rann Kennedy and Charles Rann Kennedy | `virgil-kennedy-1849-v2` | have-raw (IA `worksofvirgiltra0002char`) |
 | The Works of Virgil in English Verse, vol. I of four: the Eclogues and Georgics by Joseph Warton, with the Life and two essays (London: R. and J. Dodsley, MDCCLXIII) | Joseph Warton | `virgil-pitt-warton-1763-v1` | have-raw (IA `worksvirgilinen01attegoog`) |
 | The Works of Virgil in English Verse, vol. III of four: the Aeneid, Books V-VIII, by Christopher Pitt, with Warburton's dissertation on the sixth book (Dodsley, MDCCLXIII) | Christopher Pitt | `virgil-pitt-warton-1763-v3` | have-raw (IA `worksvirgilinen00attegoog`) |
+| Virgil's Aeneid, translated literally, line by line, into English dactylic hexameter (Baker and Taylor, 1888) | Oliver Crane | `virgil-crane-aeneid-1888` | have-raw (IA `virgilsneid00virgrich`) |
+| The Aeneid of Virgil, translated into English (blank verse; Lockwood, Brooks, 1879) | John D. Long | `virgil-long-aeneid-1879` | have-raw (IA `neidofvirgil00vir`) |
+| The Aeneid of Virgil, Books I-VI, translated in English blank verse (Blackwood, 1871) | G. K. Rickards | `virgil-rickards-aeneid-1-6-1871` | have-raw (IA `neidvirgilbooks00rickgoog`) |
+| Virgil in English Verse: Eclogues and Aeneid I-VI, second edition (Murray, 1889) | Charles Bowen | `virgil-bowen-1889` | have-raw (IA `virgilinenglishv00virguoft`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
