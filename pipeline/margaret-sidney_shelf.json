@@ -1,0 +1,198 @@
+{
+ "_about": "Margaret Sidney's (1844-1924) Five Little Peppers books. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Margaret Sidney",
+ "_name_words": [
+  "pepper",
+  "peppers"
+ ],
+ "_surname": [
+  "sidney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "margaret-sidney-five-little-peppers": [
+   2770,
+   "Five Little Peppers and How They Grew"
+  ],
+  "margaret-sidney-peppers-midway": [
+   5632,
+   "Five Little Peppers Midway"
+  ],
+  "margaret-sidney-peppers-and-their-friends": [
+   6418,
+   "Five Little Peppers and their Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-peppers-abroad": [
+   6987,
+   "Five Little Peppers Abroad",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-peppers-grown-up": [
+   7498,
+   "Five Little Peppers Grown Up",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-peppers-at-school": [
+   26122,
+   "Five Little Peppers at School",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-peppers-little-brown-house": [
+   71128,
+   "Five Little Peppers in the Little Brown House",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-joel-pepper": [
+   7434,
+   "The Adventures of Joel Pepper",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-ben-pepper": [
+   35178,
+   "Ben Pepper",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-phronsie-pepper": [
+   71146,
+   "Phronsie Pepper"
+  ],
+  "margaret-sidney-our-davie-pepper": [
+   71215,
+   "Our Davie Pepper",
+   {
+    "contents_only": true
+   }
+  ],
+  "margaret-sidney-stories-polly-pepper-told": [
+   49471,
+   "The Stories Polly Pepper Told"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "margaret-sidney-five-little-peppers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-peppers-midway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-peppers-and-their-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-peppers-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-peppers-grown-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-peppers-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-peppers-little-brown-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-joel-pepper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-ben-pepper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-phronsie-pepper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-our-davie-pepper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "margaret-sidney-stories-polly-pepper-told": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

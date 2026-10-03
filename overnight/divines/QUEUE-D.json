@@ -945,8 +945,10 @@
     {
       "id": "margaret-sidney",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: margaret-sidney; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:58:20-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:58:20-05:00",
+      "finished": "2026-10-02T21:04:14-05:00",
+      "notes": "12/12 fetched (Gutenberg 2770, 5632, 6418, 6987, 7498, 26122, 71128, 7434, 35178, 71146, 71215, 49471), 31,901 units, 61 ~2 ids."
     },
     {
       "id": "eleanor-porter",

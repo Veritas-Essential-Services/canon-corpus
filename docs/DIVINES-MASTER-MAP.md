@@ -5194,6 +5194,25 @@ Shelf: `pipeline/lucretia-hale_shelf.json` (2026-10-02; added at the coordinator
 | The Last of the Peterkins, with Others of Their Kin | have | PG 15546, `lucretia-hale-last-of-the-peterkins` (847 units) |
 | lucretia-hale-peterkin-papers-2 | excluded | PG 25648, a second transcription of The Peterkin Papers. Paragraph-start containment against PG 3028 measured 82% both ways, so it is the same text; held once (PG 3028). |
 
+## Margaret Sidney (Harriett Mulford Stone Lothrop)
+
+Shelf: `pipeline/margaret-sidney_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Five Little Peppers series, the family saga of the Pepper children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Five Little Peppers and How They Grew | have | PG 2770, `margaret-sidney-five-little-peppers` (2426 units) |
+| Five Little Peppers Midway | have | PG 5632, `margaret-sidney-peppers-midway` (2333 units) |
+| Five Little Peppers and their Friends | have | PG 6418, `margaret-sidney-peppers-and-their-friends` (3063 units) |
+| Five Little Peppers Abroad | have | PG 6987, `margaret-sidney-peppers-abroad` (2412 units) |
+| Five Little Peppers Grown Up | have | PG 7498, `margaret-sidney-peppers-grown-up` (2754 units) |
+| Five Little Peppers at School | have | PG 26122, `margaret-sidney-peppers-at-school` (2867 units) |
+| Five Little Peppers in the Little Brown House | have | PG 71128, `margaret-sidney-peppers-little-brown-house` (2586 units) |
+| The Adventures of Joel Pepper | have | PG 7434, `margaret-sidney-joel-pepper` (2408 units) |
+| Ben Pepper | have | PG 35178, `margaret-sidney-ben-pepper` (2999 units) |
+| Phronsie Pepper | have | PG 71146, `margaret-sidney-phronsie-pepper` (2186 units) |
+| Our Davie Pepper | have | PG 71215, `margaret-sidney-our-davie-pepper` (3360 units) |
+| The Stories Polly Pepper Told | have | PG 49471, `margaret-sidney-stories-polly-pepper-told` (2507 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
