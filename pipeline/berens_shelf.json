@@ -1,0 +1,30 @@
+{
+ "_about": "E. M. Berens's Myths and Legends of Ancient Greece and Rome, a handbook of classical mythology for schools (New York: Maynard, Merrill; undated in the text). Gutenberg cleared it as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "E. M. Berens",
+ "_name_words": [
+  "berens"
+ ],
+ "_surname": [
+  "berens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "berens-myths-and-legends-greece-rome": [
+   22381,
+   "Myths and Legends of Ancient Greece and Rome"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "berens-myths-and-legends-greece-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "berens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
