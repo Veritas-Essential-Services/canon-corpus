@@ -232,3 +232,18 @@ Rerun of §0-§3 over all 55 Lane D shelves (598 slugs), including the twenty ad
 - **Text held twice, new this pass.** One case, settled before commit: Ewing's *The Brownies and Other Tales* (PG 16052) and *The Land of Lost Toys* (PG 33880) measured 84% and 93% contained in *Lob Lie-by-the-Fire, The Brownies and Other Tales* (PG 62783). Only PG 62783 is held, and the other two are in `ewing_shelf.json` `_excluded` with the figures. Other new overlaps are small borrowings between collectors, which is expected: Jacobs's *Celtic Fairy Tales* draws on Hyde and on Yeats's anthology (17 and 31 paragraphs), Jacobs's *Indian Fairy Tales* draws on Steel's *Tales of the Punjab* (24), and Steel's *English Fairy Tales* retells Jacobs (32 + 11). Mint those passages once with two witnesses, as in §1. *Sara Crewe* (1888) and *A Little Princess* (1905) share only 23 paragraphs, because Burnett rewrote the story, so they are two works.
 - **Translators.** Every translated row in batches 7-8 names its translator in the title, and the catalog agrees. The rows are Spyri (Edwards, Stork, Dole, Brooks), Wyss (Kingston), Ozaki, Mitford, Crane, Hyde and Gregory. The catalog check (`TR-NOT-IN-TITLE`) is empty for all 55 shelves. One `COPYRIGHTED` header was found and kept out: PG 3836 *Swiss Family Robinson*.
 - **OCR.** 63 raw volumes graded: 46 A, 12 B, 3 C, 1 D. The new C is Hyde's *Beside the Fire* (0.917). Its Irish texts were printed in Gaelic type, which the Archive OCR turns into strings like `pijín 1 muic, nÁ b]\oc`. The English pages read cleanly. The Irish is unusable as OCR and would need re-OCR with an Irish model or a clean source. Campbell vols. 1-3 (C, D, C) fall for the same reason, the facing Gaelic, and his English was spot-checked as readable.
+
+## 5. Third pass (2026-10-02 late evening, after batches 9 and 10)
+
+All 80 shelves (652 slugs).
+
+- **URLs.** Every URL was checked. On the first sweep, 16 calls failed with connection resets or TLS hiccups. Every one answered on retry except Lang's Lockhart vol. 1 on the Internet Archive, which still returns HTTP 500 (see §4).
+- **Same source held twice.** None.
+- **Translators.** The catalog check is clean. Every translated row on the new shelves names its translator in the title, and the catalog agrees: Bain, Giles, Mijatovich, Bleek, Webster, Thorpe and Blackwell, Magnússon and Morris, and Kirby.
+- **Text held twice, new this pass:**
+  - *Mijatovich, Serbian Fairy Tales* (1918) is 91% contained in her *Serbian Folk-lore*. Only the larger book is held, and the other is excluded with the figure.
+  - *Petrovitch* shares about 200 paragraphs (13%) with Mijatovich. Mint those once.
+  - Church's *Stories from Virgil* is 42% the same text as his *Stories of the Old World*, which reuses it. Both are held, as two witnesses.
+  - Guerber's *Myths of Northern Lands* and *Myths of the Norsemen* share about 12%. The later book reworks the earlier one. Both are held.
+- **OCR.** The Golden Legend's seven volumes all grade A (0.974-0.985), even with Caxton's spelling. The totals are now 53 A, 12 B, 3 C and 1 D.
+- **Editions.** Wherever a title gives a year, it was checked against the fetched text's title page or Gutenberg header. Where the text is a later printing, the title says so: Frere 1870, Mijatovich 2nd ed. 1899, Webster 2nd ed. 1879, Crooke 1922 reprint, Kúnos/Bain 1901, Church's Iliad 1920, Milne's *Once on a Time* 1922. Where the text carries no date (Grace James, Petrovitch, Zitkala-Ša, Bain's Cossack tales), the title gives none.
