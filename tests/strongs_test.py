@@ -141,6 +141,9 @@ ok(not any("bdb" in v and "BDB9800" in str(v) for v in [W_["H6611"]]) and "bdb-h
 # Strong's printed "(Aramaic)" note wins over the markup's language tag
 ok(all(t["lang"] == "arc" for t in table if t["derivation"].startswith("(Aramaic)")),
    "every number whose derivation opens '(Aramaic)' is Aramaic")
+ok(sum(t.get("lang_from") == "derivation" for t in table) == json.load(open(os.path.join(B.OUT, "manifest.json"), encoding="utf-8"))["table"]["aramaic_by_derivation"] == 25
+   and all(t["proper_name"] for t in table if t.get("lang_from")),
+   "25 Aramaic names the markup tags x-pn carry lang_from: derivation")
 ok(TAB["H1841"]["lang"] == "arc" and TAB["H1840"]["lang"] == "hbo", "H1841 Daniel (Aramaic) is arc; H1840 is hbo")
 ok("bdb-hebrew:BDB9445" in W_["H1841"].get("bdb", []), "BDB's Aramaic Daniel is H1841's own entry")
 ww = {w["strongs"]: w["witnesses"] for w in wit}

@@ -112,7 +112,6 @@ def bdb_part(table, wit, bdb_units):
     facts["bdb_aramaic_hebrew_only_kinds"] = dict(collections.Counter(r[3].split(":")[0] for r in arc_only_heb))
     facts["bdb_keys_not_spelling_headword"] = len(sus)
     facts["bdb_suspect_kinds"] = dict(collections.Counter(r[3].split(":")[0] for r in sus))
-    facts["bdb_overrides"] = len(ov)
     return lists, facts
 
 
@@ -231,17 +230,21 @@ def report(facts, lists):
           "  headword, that one is the entry's own: BDB842 תְּאַשּׁוּר is H8391, not H839 listed first;",
           "  BDB1292 בּוֺקֵר \"herdsman\" is H951, not H941 (Buzi). 68 entries changed (58 Hebrew, 10 Aramaic).",
           "- Together 340 BDB entries changed which number they witness, against PR #10 at 0819e9a.",
-          f"- **Slips in BDB's key, overridden.** {f['bdb_overrides']} rows. 39 entries (37 Hebrew, 2 Aramaic) are keyed to a word",
+          "  (The counts in these first two items were measured against that commit; those below are",
+          "  read from the data on every run.)",
+          f"- **Slips in BDB's key, overridden.** {f['bdb_overrides']} rows. {f['ov_slips']} entries ({f['ov_slips_hbo']} Hebrew, "
+          f"{f['ov_slips'] - f['ov_slips_hbo']} Aramaic) are keyed to a word",
           "  they are not about, most by one digit (BDB7322 קֹדֶשׁ H6994 for H6944, BDB578 H8396 Tabor",
           "  for H8386). `data/strongs/bdb-key-overrides.jsonl` gives each its own number and why;",
-          "  37 slipped keys are dropped, and a related word the source also lists stays shared.",
-          "  One more Aramaic entry only drops a slip (BDB9800 עֲשַׂב keyed H6611 Pethahiah), and four",
+          f"  {f['ov_dropped']} slipped keys are dropped, and a related word the source also lists stays shared.",
+          f"  {f['ov_drop_only']} more Aramaic entry only drops a slip (BDB9800 עֲשַׂב keyed H6611 Pethahiah), and {f['ov_cross_lang']}",
           "  names that occur only in the Aramaic of Ezra (Achmetha, Asnappar, Shethar-bozenai,",
           "  Tattenai), which Strong's numbers once, as Hebrew, now have their BDB entry as their own.",
-          "- **Aramaic words tagged Hebrew.** 25 numbers whose printed derivation opens \"(Aramaic)\" were",
-          "  tagged Hebrew by the markup, mostly names (H1841 Daniel, H3567 Cyrus). The printed note now",
-          "  wins, so BDB's Aramaic entries for them are their own entries: 26 of the 87 Aramaic entries",
-          "  that listed only Hebrew-tagged numbers were these words.",
+          f"- **Aramaic words tagged Hebrew.** {f['arc_by_note']} numbers whose printed derivation opens \"(Aramaic)\" read as",
+          "  Hebrew: the markup tags proper names `x-pn` in place of a language (H1841 Daniel, H3567",
+          "  Cyrus). The printed note now wins (`lang_from: derivation` on the row), so BDB's Aramaic",
+          "  entries for them are their own entries. Of the 87 Aramaic entries counted above as listing",
+          "  only Hebrew numbers, 26 were these words (counted before this rule).",
           "",
           "## Greek: Strong's against Thayer",
           "",
@@ -277,6 +280,16 @@ def build():
     files = {f"{name}.tsv": tsv(sorted(rows, key=lambda r: B.sort_key(r[0]) if re.match(r"^[HG]\d", str(r[0]))
                                        else (0, int(re.sub(r"\D", "", str(r[0])) or 0), str(r[0]))), head)
              for name, (rows, head) in lists.items()}
+    # the override table and the language rule, read whether or not BDB is here
+    ov = list(B.read_bdb_overrides().values())
+    facts["bdb_overrides"] = len(ov)
+    slips = [r for r in ov if r["own"] and not r.get("own_lang_differs")]
+    facts["ov_slips"] = len(slips)
+    facts["ov_slips_hbo"] = sum(B._bdb_no(r["bdb"]) < B.BDB_ARAMAIC_FROM for r in slips)
+    facts["ov_dropped"] = sum(len(r["drop"]) for r in slips)
+    facts["ov_drop_only"] = sum(not r["own"] for r in ov)
+    facts["ov_cross_lang"] = sum(bool(r.get("own_lang_differs")) for r in ov)
+    facts["arc_by_note"] = sum(t.get("lang_from") == "derivation" for t in table)
     files["REPORT.md"] = report(facts, lists) + "\n"
     return files
 

@@ -49,17 +49,20 @@ Each list below is a TSV beside this file.
   headword, that one is the entry's own: BDB842 תְּאַשּׁוּר is H8391, not H839 listed first;
   BDB1292 בּוֺקֵר "herdsman" is H951, not H941 (Buzi). 68 entries changed (58 Hebrew, 10 Aramaic).
 - Together 340 BDB entries changed which number they witness, against PR #10 at 0819e9a.
+  (The counts in these first two items were measured against that commit; those below are
+  read from the data on every run.)
 - **Slips in BDB's key, overridden.** 44 rows. 39 entries (37 Hebrew, 2 Aramaic) are keyed to a word
   they are not about, most by one digit (BDB7322 קֹדֶשׁ H6994 for H6944, BDB578 H8396 Tabor
   for H8386). `data/strongs/bdb-key-overrides.jsonl` gives each its own number and why;
   37 slipped keys are dropped, and a related word the source also lists stays shared.
-  One more Aramaic entry only drops a slip (BDB9800 עֲשַׂב keyed H6611 Pethahiah), and four
+  1 more Aramaic entry only drops a slip (BDB9800 עֲשַׂב keyed H6611 Pethahiah), and 4
   names that occur only in the Aramaic of Ezra (Achmetha, Asnappar, Shethar-bozenai,
   Tattenai), which Strong's numbers once, as Hebrew, now have their BDB entry as their own.
-- **Aramaic words tagged Hebrew.** 25 numbers whose printed derivation opens "(Aramaic)" were
-  tagged Hebrew by the markup, mostly names (H1841 Daniel, H3567 Cyrus). The printed note now
-  wins, so BDB's Aramaic entries for them are their own entries: 26 of the 87 Aramaic entries
-  that listed only Hebrew-tagged numbers were these words.
+- **Aramaic words tagged Hebrew.** 25 numbers whose printed derivation opens "(Aramaic)" read as
+  Hebrew: the markup tags proper names `x-pn` in place of a language (H1841 Daniel, H3567
+  Cyrus). The printed note now wins (`lang_from: derivation` on the row), so BDB's Aramaic
+  entries for them are their own entries. Of the 87 Aramaic entries counted above as listing
+  only Hebrew numbers, 26 were these words (counted before this rule).
 
 ## Greek: Strong's against Thayer
 

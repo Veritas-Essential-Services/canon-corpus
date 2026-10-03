@@ -139,11 +139,15 @@ the uid column as provisional.
   Where the source's key is a slip (BDB7322 קֹדֶשׁ "holiness" keyed H6994 קָטֹן, for
   H6944), `data/strongs/bdb-key-overrides.jsonl` names the entry, the keys the source
   gives, the number that is its own, the keys that are slips and are dropped, and why:
-  39 rows, each read in both books. The source is never edited. The build stops if a
+  44 rows, each read in both books: 39 slips given their own number, 4 names found only
+  in the Aramaic of Ezra that Strong's numbers once, as Hebrew (`own_lang_differs` says
+  why), and one row that only drops a slip. The source is never edited. The build stops if a
   row's entry or number is unknown, if the source's keys are no longer what the row was
   written for, or if a row matches nothing; the manifest records the file's sha256.
   A number is Aramaic where the markup tags it so or where Strong's printed derivation
-  opens "(Aramaic)": the markup tags 25 such words as Hebrew (H1841 Daniel, H3567 Cyrus).
+  opens "(Aramaic)". The markup tags proper names `x-pn` in place of a language, so 25
+  Aramaic names (H1841 Daniel, H3567 Cyrus) would read as Hebrew; those rows carry
+  `lang_from: "derivation"`.
   `pipeline/strongs_coverage.py` reports what no entry covers: `docs/strongs-coverage/`.
 - **Thayer:** PR #7's `thayer-entries` book already links each entry to `strongs-greek`.
   It is built only on Adam's machine (the OCR lives there), so a cloud build carries

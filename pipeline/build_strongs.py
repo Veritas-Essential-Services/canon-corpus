@@ -204,10 +204,11 @@ def build_table():
             lx = u["lex"]
             if lang == "hebrew":
                 # Strong's prints "(Aramaic)" at the head of an Aramaic word's
-                # derivation; the markup tags 25 of them (mostly names: H1841
-                # Daniel, H3567 Cyrus) as Hebrew. The printed note wins.
-                aram = lx.get("lang") == "arc" or (lx.get("derivation") or "").startswith("(Aramaic)")
-                tongue = "arc" if aram else "hbo"
+                # derivation. The markup tags proper names `x-pn` in place of a
+                # language, so 25 Aramaic names (H1841 Daniel, H3567 Cyrus) read
+                # as Hebrew. The printed note wins, and the row says so.
+                by_note = lx.get("lang") != "arc" and (lx.get("derivation") or "").startswith("(Aramaic)")
+                tongue = "arc" if lx.get("lang") == "arc" or by_note else "hbo"
             else:
                 tongue = "grc"
             see = []
@@ -225,6 +226,8 @@ def build_table():
             if lang == "hebrew":
                 row["pos"] = lx.get("pos", "")
                 row["proper_name"] = lx.get("lang") == "x-pn"
+                if by_note:
+                    row["lang_from"] = "derivation"
             else:
                 row["beta"] = lx.get("beta", "")
             if lx.get("not_used"):
@@ -919,6 +922,7 @@ def build():
                     for k, v in SOURCES.items()},
         "table": {"rows": len(table), "hebrew": len(heb), "greek": len(grk),
                   "aramaic": sum(t["lang"] == "arc" for t in heb),
+                  "aramaic_by_derivation": sum(t.get("lang_from") == "derivation" for t in heb),
                   "hebrew_proper_names": sum(t.get("proper_name", False) for t in heb),
                   "not_used": [t["strongs"] for t in table if t.get("not_used")]},
         "uids": {"status": "PROPOSED -- not in data/uids/; minting awaits Adam (CLAUDE.md 3b)",

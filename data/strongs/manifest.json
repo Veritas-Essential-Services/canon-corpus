@@ -135,6 +135,7 @@
  },
  "table": {
   "aramaic": 678,
+  "aramaic_by_derivation": 25,
   "greek": 5624,
   "hebrew": 8674,
   "hebrew_proper_names": 2628,

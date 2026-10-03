@@ -53,6 +53,14 @@ one moved, repeat the trial (last section).
 - **The relay branch is last.** It is 158 new files (shelf lists, converters,
   `overnight/`, `docs/divines-map`) and merged clean at every point. It is
   not a PR yet.
+- **The relay and PR #14 (English Reformers) clash on four shelves.** The relay
+  handed `george-smeaton`, `hugh-martin`, `john-kennedy-dingwall` and
+  `thomas-mccrie` (`pipeline/<name>_shelf.json`) to #14 and deleted its own
+  copies (relay commit 6ffdde1); #14 edits them. `git merge-tree` of the two
+  heads (relay dfdbcab, #14 571473e, checked 2026-10-03 11:20 UTC) gives a
+  modify/delete conflict on all four. Whichever merges second: **keep #14's
+  copies** (`git checkout --theirs` or `--ours`, whichever side is #14, then
+  `git add` them). Deleting them loses #14's shelves.
 
 ## The trial merge, step by step
 
