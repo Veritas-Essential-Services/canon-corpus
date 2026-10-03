@@ -1643,7 +1643,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace, translated literally into English prose (London, 1756), vol. 1 | Christopher Smart (prose, first unrevised form) | `horace-smart-1756-v1` | have-raw (IA `bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1`) |
 | The Works of Horace, translated literally into English prose (London, 1756), vol. 2 | Christopher Smart (prose, first unrevised form) | `horace-smart-1756-v2` | have-raw (IA `bim_eighteenth-century_the-works-of-horace-tra_horace_1756_2`) |
 
-Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); none further: Smart's prose in its first, unrevised form (1756) is held above.
+Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found). Smart's prose in its first, unrevised form (1756) is held above.
 
 ## Catullus
 
@@ -1811,8 +1811,10 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | The Cynic | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-the-cynic` | have (Perseus TEI `tlg0061.tlg006.perseus-eng1`; markup CC BY-SA 4.0) |
 | Demosthenes: an Encomium | Henry Watson Fowler and Francis George Fowler | `lucian-perseus-fowler-demosthenes-an-encomium` | have (Perseus TEI `tlg0061.tlg003.perseus-eng1`; markup CC BY-SA 4.0) |
 | The Halcyon | Emily James Smith | `lucian-perseus-smith-the-halcyon` | have (Perseus TEI `tlg0061.tlg004.perseus-eng1`; markup CC BY-SA 4.0) |
+| The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 1 | Thomas Francklin | `lucian-francklin-1780-v1` | have-raw (IA `worksoflucian01luci`) |
+| The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2 | Thomas Francklin | `lucian-francklin-1780-v2` | have-raw (IA `worksoflucian02luci`) |
 
-Pending (wishlist): Francklin's complete Lucian (1780). Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
+Pending (wishlist): none for Francklin: his Works of Lucian (1780, 2 vols.) is held above. Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 
 ## Cicero
 

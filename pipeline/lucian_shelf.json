@@ -37,7 +37,18 @@
    "tr. Francis Hickes"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lucian-francklin-1780-v1": [
+   "worksoflucian01luci",
+   "The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 1",
+   "tr. Thomas Francklin"
+  ],
+  "lucian-francklin-1780-v2": [
+   "worksoflucian02luci",
+   "The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2",
+   "tr. Thomas Francklin"
+  ]
+ },
  "_cross_ref": {
   "dryden-polybius-lucian": "Dryden shelf, lane C (Dryden's Life of Lucian)"
  },
