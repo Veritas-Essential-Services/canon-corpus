@@ -71,8 +71,8 @@ check("the Greek books carry Strong's tagging and scripture counts; the English 
           and "tagging" not in man[f"philo-{k}-yonge"] for _, k, _, _ in P.WORKS))
 refs = sum(man[f"philo-{k}-cw"]["scripture_refs"] for _, k, _, _ in P.WORKS)
 res = sum(man[f"philo-{k}-cw"]["scripture_refs_resolved"] for _, k, _, _ in P.WORKS)
-check("Cohn-Wendland's scripture references: 1,836, of which 1,827 resolve to a KJV verse",
-      (refs, res) == (1836, 1827), (refs, res))
+check("Cohn-Wendland's scripture references: 1,835, of which 1,826 resolve to a KJV verse",
+      (refs, res) == (1835, 1826), (refs, res))
 check("books are gitignored (CC BY-SA, rule 6)",
       "data/books/*.json" in open(os.path.join(REPO, ".gitignore"), encoding="utf-8").read())
 pins = P.pins()

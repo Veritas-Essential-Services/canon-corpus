@@ -135,8 +135,8 @@ Greek (1896-1915) and Yonge's English (1854-55), both public domain, from the
 First1KGreek TEI, which is CC BY-SA (built locally, labelled in the manifest).
 62 books, cited by treatise and Cohn-Wendland section (`Spec. 1.177`) and
 aligned section for section; only *On the Special Laws* has Greek sections the
-English file lacks, 58 of them, listed. The editors' 1,836 scripture
-references are moved out of the Greek into links, and 1,827 resolve to a KJV
+English file lacks, 58 of them, listed. The editors' 1,835 scripture
+references are moved out of the Greek into links, and 1,826 resolve to a KJV
 verse (`--measure` shows how they number). 70% of the Greek words carry a
 Strong's number. `python3 pipeline/build_philo.py --fetch`.
 
