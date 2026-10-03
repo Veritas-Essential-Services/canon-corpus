@@ -242,6 +242,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | C. H. Mackintosh | c-h-mackintosh_shelf.json | 12 Gutenberg (Notes on the Pentateuch, 6 vols; Miscellaneous Writings, 6 vols) | none | none | none |
 | Phillips Brooks | phillips-brooks_shelf.json | 4 IA (Lectures on Preaching 1877; Sermons first series, catalogued 1878; New Starts in Life 1896; Seeking Life 1904) + 1 Gutenberg (Addresses) | Purpose and Use of Comfort (IA HTTP 500) | none | none |
 | Richard Watson (Methodist) | richard-watson-methodist_shelf.json | 2 IA (Theological Institutes, M'Clintock ed., Lane & Scott 1850-51) + 1 Gutenberg (Biblical and Theological Dictionary) | none | none | shares his name with Bishop Watson of Llandaff, so the title words carry the identity check |
+| Abraham Booth | abraham-booth_shelf.json | 5 IA (Reign of Grace, Hartford 1814; Glad Tidings, Philadelphia 1797; Paedobaptism Examined, 3 vols, London 1829) | none | none | Glad Tidings OCR 85% (long s) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

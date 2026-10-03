@@ -2012,6 +2012,16 @@ Slugs `rwatson-*`. Not Bishop Richard Watson of Llandaff; Thomas Watson the Puri
 |---|---|---|
 | Theological Institutes, 2 vols (Lane & Scott, 1851, 1850) | have-ocr | IA, OCR 98% |
 | A Biblical and Theological Dictionary | have-clean | Gutenberg 53884 |
+
+## Abraham Booth (round 12, my pick, 2026-10-03)
+
+Slugs `booth-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Reign of Grace (Hartford, 1814); Paedobaptism Examined, 3 vols (London, 1829) | have-ocr | IA, OCR 94.6-97.6% |
+| Glad Tidings to Perishing Sinners (Philadelphia, 1797) | have-raw | IA, OCR 85.2% (long s) |
+| An Apology for the Baptists; An Essay on the Kingdom of Christ | not yet | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

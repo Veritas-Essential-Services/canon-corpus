@@ -583,3 +583,6 @@
 
 ## 2026-10-03 06:04 CDT — richard-watson-methodist done
 - `pipeline/richard-watson-methodist_shelf.json`: 2 IA + 1 Gutenberg, title pages read. `--verify --record`: 0 mismatched. OCR 98.1%. 0 uids minted.
+
+## 2026-10-03 06:04 CDT — abraham-booth done
+- `pipeline/abraham-booth_shelf.json`: 5 IA volumes, title pages read. `--verify --record`: 0 mismatched. OCR 97.1% mean, lowest Glad Tidings 85.2% (long s). 0 uids minted.
