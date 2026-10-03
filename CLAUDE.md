@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 91 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 95 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -102,10 +102,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
     python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
     python3 tests/brenton_versification_test.py  # the Brenton map, offline
-    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, pinned
+    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, Coverdale, Bishops', pinned
     python3 pipeline/build_english_versification.py --check  # their KJV maps byte-identical; invariants
     python3 pipeline/build_english_versification.py --audit geneva  # verses a nearby KJV verse fits better
-    python3 tests/english_versification_test.py  # the five maps, offline
+    python3 tests/english_versification_test.py  # the seven maps, offline
     python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
     python3 pipeline/build_parallel_index.py --check  # the index byte-identical
     python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
@@ -296,17 +296,22 @@ The living truth for project state is the Obsidian vault:
   build_english_versification.py → data/versification/<slug>-kjv.json
   (COMMITTED; the house's own reading, PD): each chapter aligned against the
   KJV's English, followed only where it reads clearly better; HOUSE_ROWS for
-  swaps (Phil 1:16-17) and what old spelling hides. This Tyndale holds ten
-  books only; Darby's "beginningGod" is mended by a per-book rule
-  (ENGLISH_RULES). versification.resolve_english. NOT here: Wycliffe (the
-  one reachable PD copy, BibleNLP's eBible extract, drops verses where the
-  Vulgate's chapters run longer than the Hebrew's), Coverdale and the
-  Bishops' (no reachable machine-readable PD source found).
-  Candidates for a full-network lane: docs/pending-sources.md.
+  swaps (Phil 1:16-17) and what old spelling hides. Darby's "beginningGod"
+  is mended by a per-book rule (ENGLISH_RULES). versification.resolve_english.
+  Coverdale (1535), the Bishops' (1568) and Tyndale (33 books) come from
+  Bible SuperSearch (ENGLISH_BSS: "source": "bss", module_version + sha256
+  pinned, "(Omitted Text)" read as an empty slot) on the same KJV grid, and
+  are compared in folded spelling (OLD_SPELLING). Coverdale's Latin-based
+  Psalter is where the alignment and the house rows do most of the work.
+  BSS names no transcription, and the same text is on a site whose terms
+  restrict reuse: a finding for Adam in docs/pending-sources.md. NOT here:
+  Wycliffe (the one reachable PD copy, BibleNLP's eBible extract, drops
+  verses where the Vulgate's chapters run longer than the Hebrew's).
 - pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
   generated): one row per KJV verse (with its uid), naming the verse(s) that
-  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
-  pilot on this branch), and each shelf version, in that version's own
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt/<Book>/, the
+  whole NT; its shards are gitignored, so pipeline/rebuild_bible.py runs
+  first), and each shelf version, in that version's own
   numbering. Read off the committed maps and the built books' `kjv`; no new
   judgement. A version's verse with no KJV verse is in no row.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →

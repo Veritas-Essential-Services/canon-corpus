@@ -1,44 +1,72 @@
 # Pending sources: historic English Bibles not yet on the shelf
 
 <!-- prov: 2026-10-02 drafted (Claude Code); candidates found by web search, none opened -->
+<!-- prov: 2026-10-03 edited (Claude Code): Coverdale, the Bishops' and full Tyndale landed from Bible SuperSearch -->
 
-Sessions without archive.org access cannot fetch these Bibles. This file lists
-them for a lane with full network access. **None of the candidates below has
-been opened or checked.** Each still needs the standing rights check: read the
-rights line of the exact edition before anything is fetched. Each also needs
-a check that the text is a transcription, not page images.
+## On the shelf since 2026-10-02: Coverdale, the Bishops', Tyndale in full
 
-| Bible | Why it is pending | Candidate archive.org items (unverified) |
+All three come from Bible SuperSearch's download API
+(`https://api.biblesupersearch.com/api/download?bible=<module>&format=json`,
+`fetch_sources.ENGLISH_BSS`), module_version 6.2.0, retrieved 2026-10-02.
+The API is not versioned, so each file is pinned by sha256 and the reader
+stops on another hash or module_version.
+
+| Bible | Module | Verses | Books | Map |
+|---|---|---|---|---|
+| Coverdale (1535) | `coverdale` | 31,088 | 66 (no Apocrypha) | `data/versification/coverdale-kjv.json` |
+| Bishops' (1568) | `bishops` | 31,096 | 66 (no Apocrypha) | `data/versification/bishops-kjv.json` |
+| Tyndale | `tyndale` | 13,852 | 33: Gen-Deut, Jonah, the NT | `data/versification/tyndale-kjv.json` (replaces the ten-book scrollmapper source) |
+
+### Rights findings, for Adam
+
+- **Rights line, as read:** each file's own `metadata.copyright_statement`:
+  "This Bible is in the Public Domain."
+- **Where the text came from is not stated.** BSS names no transcription or
+  editor for any of the three.
+- **The same Coverdale and Bishops' text is on textusreceptusbibles.com**
+  (Gen 1:1-2 compared, word for word). That site's terms restrict reuse.
+  Those are website terms of service, not a copyright: the 16th-century
+  texts are public domain, and a verbatim transcription adds no new US
+  copyright. Whether to honour the site's wishes anyway (as the house does
+  STEPBible's request) is Adam's call. Nothing is redistributed whole: the
+  corpus files are gitignored, and only pins, manifest entries and the
+  verse maps are committed.
+- **Tyndale cross-check:** eBible.org's `engtnt` (the 1534 NT, copr.htm:
+  "Public Domain") was compared verse by verse against BSS's NT: of 7,954
+  verses, 55% are identical and 96% agree at a character ratio of 0.95 or
+  more. Most of the rest are spelling variants or a chapter divided
+  otherwise (John 18). All three of Mark 11:26, Luke 17:36 and Rev 21:26 are
+  empty in both. eBible was used only to check; it is not a second source.
+- **Bishops' italics:** the metadata says `italics: 1`, but the text has no
+  italic markup at all, so the printed italics are not recoverable from this
+  source.
+
+### What the transcriptions lack (named in each map's `kjv_without_verse`)
+
+- Coverdale: 13 KJV verses. Most are slots BSS marks "(Omitted Text)". Also
+  KJV Ps 72:20 and 136:24.
+- Bishops': six empty slots (Gen 11:10, 46:9, Exod 6:14, 36:8, Deut 16:4,
+  Esth 1:1). Each looks like a lost first verse of a section.
+- Tyndale: Mark 11:26, Luke 17:36, Rev 21:26, Exod 40:14, Num 7:22.
+
+A better transcription of any of these would fill the gaps. The Apocrypha
+of Coverdale and the Bishops' are still wanted.
+
+## Still pending
+
+| Bible | Why it is pending | Candidates (unverified) |
 |---|---|---|
-| Coverdale (1535) | No machine-readable PD source was reachable from a cloud thread | `ENGCVD_DBS_HS` (Digital Bible Society, "English (1535) Coverdale Bible", likely text: **try first**); `CoverdaleBible1535_838`; `1535-coverdale-bible`; `coverdale-bible-1535`; `holyscriptures00cove` (a 19th-century reprint) |
-| Bishops' Bible (1568) | Same as Coverdale | `ENGBSB_DBS_HS` ("Bishops Bible - NT (text)", NT only, likely text: **try first**); `1568TheBishopsBible`; `1568-bishops-bible`; `BibleBishops1568.ropt` |
-| Tyndale, in full | The shelf's Tyndale (`fetch_sources.ENGLISH["tyndale"]`) holds ten books only | `1534-tyndale-nt`; `0410Tyndale1534NT` (1534 NT); `ThePentateuch` (Tyndale's Pentateuch); `tyndale-rogers-coverdale-bible-1526-1535-tyndale-translation-holy-scriptures` |
-| Wycliffe (c.1395) | The one reachable PD copy (BibleNLP/ebible `eng-engWycliffe.txt`) holds the Pentateuch and Gospels only, in vref slots, and drops verses wherever the Vulgate's chapters run longer than the Hebrew's (Lev 6:24-30, Num 16:36-50) | eBible's own `engWycliffe` USFM zip (ebible.org, which carries its own numbering), or Forshall and Madden's 1850 edition on archive.org (no identifier found yet) |
+| Wycliffe (c.1395) | The one reachable PD copy (BibleNLP/ebible `eng-engWycliffe.txt`) holds only the Pentateuch and Gospels, in vref slots. It also drops verses wherever the Vulgate's chapters run longer than the Hebrew's (Lev 6:24-30, Num 16:36-50) | eBible's own `engWycliffe` USFM zip (ebible.org, which carries its own numbering); Forshall and Madden's 1850 edition on archive.org (no identifier found yet); check whether Bible SuperSearch has a module |
+| Coverdale / Bishops' Apocrypha | BSS has the 66 books only | archive.org `ENGCVD_DBS_HS`, `1568TheBishopsBible` (unopened) |
 
 ## When one is fetched
 
-1. Pin it: commit or item identifier, file name, and sha256, in
-   `fetch_sources.ENGLISH` or its own dict.
+1. Pin it with its commit or item identifier, file name and sha256, in
+   `fetch_sources.ENGLISH` (a scrollmapper or BSS file) or in its own dict.
 2. Record the rights line as read.
-3. If it is USFM, read it with `brenton_verses` and `brenton_text` (eBible's
-   markup). If it is plain text, write a converter in the same pattern.
-4. Add its map with `build_english_versification.py`. Note that this builder
-   assumes the KJV verse grid. A source with its own numbering (eBible USFM)
-   keeps that numbering. Then the alignment carries the whole map, as it does
-   for the Geneva's Hebrew-numbered chapters.
+3. For USFM, read it with `brenton_verses` and `brenton_text` (eBible's
+   markup). For another format, extend `fetch_sources.english_slots`.
+4. Add its map with `build_english_versification.py`. Old spelling belongs in
+   `OLD_SPELLING`. Read the `--audit` output, and read the multi-verse spans,
+   in both texts.
 5. Add its column to `build_parallel_index.py`.
-
-Search results that led here:
-- [Coverdale Bible, 1535 (CoverdaleBible1535_838)](https://archive.org/details/CoverdaleBible1535_838)
-- [1535 Coverdale Bible](https://archive.org/details/1535-coverdale-bible)
-- [English (1535) Coverdale Bible](https://archive.org/details/ENGCVD_DBS_HS)
-- [Coverdale Bible (1535)](https://archive.org/details/coverdale-bible-1535)
-- [Tyndale Rogers Coverdale Bible 1526-1535](https://archive.org/details/tyndale-rogers-coverdale-bible-1526-1535-tyndale-translation-holy-scriptures)
-- [The Holy Scriptures (Coverdale)](https://archive.org/details/holyscriptures00cove)
-- [1534 Tyndale New Testament](https://archive.org/details/1534-tyndale-nt)
-- [1534 Tyndale New Testament (0410Tyndale1534NT)](https://archive.org/details/0410Tyndale1534NT)
-- [The Pentateuch (Tyndale)](https://archive.org/details/ThePentateuch)
-- [1568 The Bishop's Bible](https://archive.org/details/1568TheBishopsBible)
-- [English (1568) Bishops Bible - NT (text)](https://archive.org/details/ENGBSB_DBS_HS)
-- [1568 Bishop's Bible](https://archive.org/details/1568-bishops-bible)
-- [Bible Bishop's 1568](https://archive.org/details/BibleBishops1568.ropt)

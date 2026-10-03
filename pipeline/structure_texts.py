@@ -738,7 +738,8 @@ def convert_brenton(zpath, sha, slug="brenton"):
 # ---------------------------------------------------------------- historic English Bibles
 #
 # Geneva 1599, Tyndale, Young's, Darby, the ASV 1901 (fetch_sources.ENGLISH:
-# scrollmapper's JSON of CrossWire's modules, pinned). A module sits on the
+# scrollmapper's JSON of CrossWire's modules, pinned), and Coverdale and the
+# Bishops' (Bible SuperSearch's JSON, ENGLISH_BSS, pinned). A module sits on the
 # KJV's verse grid, so the ids are its slots: the Bible's own numbers, except
 # where a chapter numbers otherwise and its overflow is merged into the last
 # slot. Each unit's `kjv` comes from data/versification/<slug>-kjv.json
@@ -752,6 +753,9 @@ def convert_brenton(zpath, sha, slug="brenton"):
 ENGLISH_RULES = {
     "darby": [(re.compile(r"(?<=[a-z])(?=God(?:head)?\b)"), " ",
                "a space restored before 'God', lost when the source's markup was stripped")],
+    # Bishops': one stray "/>" (the tail of a markup tag) ends Gen 46:27.
+    "bishops": [(re.compile(r"\s*/>"), "",
+                 "a stray '/>' removed, the tail of markup left in the source")],
 }
 
 
@@ -762,48 +766,48 @@ def convert_english(path, slug, sha):
     import versification as _V
     import fetch_sources as _fs
     e = _fs.ENGLISH[slug]
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
+    bss = e.get("source") == "bss"
     with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
         kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
     with open(os.path.join(HERE, "..", "data", "greppable", "kjv.tsv"), encoding="utf-8") as f:
         books = list(dict.fromkeys(l.split("\t", 1)[0][4:].split(".")[0]
                                    for l in f if l.startswith("kjv:")))
-    if len(data["books"]) != len(books):
-        raise ValueError(f"{slug}: {len(data['books'])} books, expected {len(books)}")
+    slots = _fs.english_slots(slug, path, len(books))
     emap = None
     if os.path.exists(_V.english_path(slug)):
         emap = _V.load(_V.english_path(slug))
     units, empty, fixed = [], 0, 0
     resolved = {True: 0, False: 0}
-    for osis, book in zip(books, data["books"]):
-        for ch in book["chapters"]:
-            for vs in ch["verses"]:
-                text = re.sub(r"\s+", " ", vs["text"]).strip()
-                if not text:
-                    empty += 1
-                    continue
-                for rx, rep, _why in ENGLISH_RULES.get(slug, []):
-                    text, n = rx.subn(rep, text)
-                    fixed += n
-                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
-                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
-                     "text": text, "links": []}
-                if emap:
-                    u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
-                    resolved[u["kjv"]["resolved"]] += 1
-                units.append(u)
+    for n, name, c, v, raw in slots:
+        text = re.sub(r"\s+", " ", raw).strip()
+        if not text:
+            empty += 1
+            continue
+        for rx, rep, _why in ENGLISH_RULES.get(slug, []):
+            text, k = rx.subn(rep, text)
+            fixed += k
+        ref = f"{books[n - 1]}.{c}.{v}"
+        u = {"id": f"{slug}:{ref}", "ref": f"{name} {c}:{v}", "text": text, "links": []}
+        if emap:
+            u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
+            resolved[u["kjv"]["resolved"]] += 1
+        units.append(u)
     merged = sum(isinstance(x, list) for x in emap["map"].values()) if emap else 0
+    module = "Bible SuperSearch module" if bss else "CrossWire module"
     return {"slug": slug, "title": e["title"], "author": e["author"],
-            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
-                       "sha256": sha},
-            "scheme": {"citation": "Book chapter:verse as the source's CrossWire module "
+            "source": {"path": os.path.relpath(path, CORPUS),
+                       "format": "biblesupersearch-json" if bss else "scrollmapper-json",
+                       "sha256": sha,
+                       **({"module_version": _fs.ENGLISH_BSS["module_version"],
+                           "retrieved": _fs.ENGLISH_BSS["retrieved"]} if bss else {})},
+            "scheme": {"citation": f"Book chapter:verse as the source's {module} "
                                    "numbers it (the KJV's grid; OSIS book ids)",
                        "resolution": "verse",
                        "honesty": "exact" if not merged else
                                   f"exact, except {merged} verses holding several KJV verses "
                                   f"(a merged last slot or the Bible's own division)",
-                       "versification": f"{slug} (CrossWire, KJV grid)",
+                       "versification": f"{slug} ({'Bible SuperSearch' if bss else 'CrossWire'}, "
+                                        "KJV grid)",
                        "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
                        "empty_slots_not_units": empty,
                        **({"coverage": e["coverage"]} if "coverage" in e else {}),
@@ -816,12 +820,21 @@ def convert_english(path, slug, sha):
                                "its verses fill the KJV's slots in order and the overflow sits "
                                "in the last slot. Each unit's `kjv` names the KJV verse(s) "
                                "holding the same words, by "
-                               f"data/versification/{slug}-kjv.json; no uids minted."},
-            "rights": {"license": "public-domain",
-                       "attribution": f"{e['title']}, via scrollmapper/bible_databases "
-                                      "(from CrossWire's SWORD module)",
-                       "source_url": "https://github.com/scrollmapper/bible_databases",
-                       "rights_line": e["readme"]},
+                               f"data/versification/{slug}-kjv.json; no uids minted.",
+                       **({"numbering": e["numbering"]} if "numbering" in e else {})},
+            "rights": ({"license": "public-domain",
+                        "attribution": f"{e['title']}, via Bible SuperSearch "
+                                       f"(module '{e['module']}'); the source does not name "
+                                       "the transcription it publishes",
+                        "source_url": _fs.english_url(slug),
+                        "rights_line": e["readme"],
+                        **({"finding": e["rights_finding"]} if "rights_finding" in e else {})}
+                       if bss else
+                       {"license": "public-domain",
+                        "attribution": f"{e['title']}, via scrollmapper/bible_databases "
+                                       "(from CrossWire's SWORD module)",
+                        "source_url": "https://github.com/scrollmapper/bible_databases",
+                        "rights_line": e["readme"]}),
             "units": units}
 
 # ---------------------------------------------------------------- Lexicons
