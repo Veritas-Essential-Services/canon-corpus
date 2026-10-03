@@ -1,0 +1,78 @@
+{
+ "_about": "Anna Jameson's (1794-1860) saints' and Marian legends as told through their pictures: Sacred and Legendary Art, volume 1 (Longmans, 1870; angels, evangelists, apostles, doctors, Magdalene) and Legends of the Madonna (Houghton, Mifflin, 1881 reprint of the last English edition). Volume 2 is not on Gutenberg. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Anna Jameson",
+ "_name_words": [
+  "jameson"
+ ],
+ "_surname": [
+  "jameson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jameson-sacred-and-legendary-art-1": [
+   69581,
+   "Sacred and Legendary Art, volume 1",
+   {
+    "levels": [
+     {
+      "re": "(?:PART I|The Four Evangelists|The Twelve Apostles|The Doctors of the Church|St\\. Mary Magdalene, St\\. Martha, .*Penitents|FOOTNOTES:)\\.?$",
+      "max": 200
+     },
+     {
+      "re": "[IVX]+\\. (?:OF |THE )[A-Z ,]+\\.?$",
+      "max": 120
+     },
+     {
+      "re": "(?:ST\\. [A-Z][A-Z .]+|ADDITIONAL NOTES ON ANGELS|JUDAS ISCARIOT|THE LAST SUPPER)\\.$",
+      "max": 60
+     }
+    ],
+    "start": "I\\. OF THE ORIGIN",
+    "front": true
+   }
+  ],
+  "jameson-legends-of-the-madonna": [
+   12047,
+   "Legends of the Madonna as Represented in the Fine Arts",
+   {
+    "levels": [
+     {
+      "re": "(?:AUTHOR'S PREFACE|INTRODUCTION|SUPPLEMENTARY NOTES TO THE SECOND EDITION|DEVOTIONAL SUBJECTS|HISTORICAL SUBJECTS)\\.?$"
+     },
+     {
+      "re": "(?:PART [IVX]+\\.?|[IVX]+\\.(?: [A-Z][A-Z ,]+\\.)?)$",
+      "title_next": true
+     },
+     {
+      "re": "(?:THE VIRGIN MARY|L'INCORONATA|THE VIRGIN OF MERCY|THE MATER DOLOROSA|OUR LADY OF THE IMMACULATE CONCEPTION|THE VIRGIN AND CHILD ENTHRONED|THE MATER AMABILIS|THE LEGEND OF JOACHIM AND ANNA|THE NATIVITY OF THE BLESSED VIRGIN|THE PRESENTATION OF THE VIRGIN|THE MARRIAGE OF THE VIRGIN|THE ANNUNCIATION|THE ANNUNCIATION AS A MYSTERY|THE ANNUNCIATION AS AN EVENT|THE VISITATION|THE NATIVITY|THE NATIVITY AS A MYSTERY|THE NATIVITY AS AN EVENT|THE ADORATION OF THE SHEPHERDS|THE ADORATION OF THE MAGI|THE PURIFICATION OF THE VIRGIN, THE PRESENTATION, AND THE CIRCUMCISION OF CHRIST|THE FLIGHT INTO EGYPT|THE REPOSE OF THE HOLY FAMILY|THE RETURN FROM EGYPT|THE HOLY FAMILY|TWO FIGURES|THREE FIGURES|FOUR FIGURES|FIVE OR SIX FIGURES|THE DISPUTE IN THE TEMPLE|THE DEATH OF JOSEPH|THE MARRIAGE AT CANA IN GALILEE|LO SPASIMO|THE CRUCIFIXION|THE APPARITION OF CHRIST TO HIS MOTHER|THE LEGEND OF THE DEATH AND ASSUMPTION OF THE MOST GLORIOUS VIRGIN MARY|THE LEGEND OF THE HOLY GIRDLE)\\.?$",
+      "max": 100
+     }
+    ],
+    "start": "AUTHOR'S PREFACE$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jameson-sacred-and-legendary-art-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jameson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jameson-legends-of-the-madonna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jameson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

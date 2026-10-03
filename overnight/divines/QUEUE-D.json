@@ -1305,8 +1305,10 @@
     {
       "id": "jameson",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: jameson; no minting",
-      "status": "running",
-      "started": "2026-10-02T22:16:11-05:00"
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:43:47-05:00",
+      "notes": "2/2 fetched (Gutenberg 69581, 12047), 3,486 units, 0 ~2 ids."
     },
     {
       "id": "griffis-b21",
