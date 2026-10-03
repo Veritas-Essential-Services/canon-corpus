@@ -195,6 +195,11 @@
    "ecloguesandgeor00kinggoog",
    "The Eclogues and Georgics of Virgil translated into English verse (London, 1882)",
    "tr. J. M. King"
+  ],
+  "virgil-rose-eclogues-georgics": [
+   "ecloguesandgeor00rosegoog",
+   "The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated, IA catalogue 1866)",
+   "tr. John Benson Rose"
   ]
  },
  "_cross_ref": {
@@ -279,7 +284,8 @@
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
   "virgil-pitt-warton-1763-v3": "title page OCRs the name as 'CHRISTOPH ER PITT' (split by OCR; Dodsley, MDCCLXIII); the claim is not matched as written",
-  "virgil-king-eclogues-georgics-1882": "title page names the Rev. J. M. King (London, 1882); 'king' is a common word, so the word check cannot confirm the name"
+  "virgil-king-eclogues-georgics-1882": "title page names the Rev. J. M. King (London, 1882); 'king' is a common word, so the word check cannot confirm the name",
+  "virgil-rose-eclogues-georgics": "title page names John Benson Rose (London: Dorrell and Son; undated); the OCR reads 'BOSE', and 'rose' is a common word"
  },
  "_checks": {
   "virgil-rhoades-eclogues": {
@@ -754,6 +760,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1882",
    "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-rose-eclogues-georgics": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
