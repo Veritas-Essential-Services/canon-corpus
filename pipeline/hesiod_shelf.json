@@ -28,6 +28,11 @@
    "bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_2",
    "The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 2",
    "tr. Thomas Cooke ('Mr. Cooke' on the title page)"
+  ],
+  "hesiod-mair-1908": [
+   "hesiodpoemsandf01mairgoog",
+   "Hesiod: the Poems and Fragments done into English Prose (Oxford: Clarendon Press, 1908)",
+   "tr. A. W. Mair"
   ]
  },
  "_excluded": {
@@ -41,7 +46,8 @@
   "hesiod-evelyn-white": "Hugh G. Evelyn-White",
   "hesiod-elton": "Charles Abraham Elton",
   "hesiod-cooke-1728-v1": "Thomas Cooke",
-  "hesiod-cooke-1728-v2": "Thomas Cooke"
+  "hesiod-cooke-1728-v2": "Thomas Cooke",
+  "hesiod-mair-1908": "A. W. Mair"
  },
  "_checks": {
   "hesiod-evelyn-white": {
@@ -95,6 +101,19 @@
    "ia_rights": "ok: published 1728",
    "ia_date": "1728",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hesiod-mair-1908": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "A. W. Mair",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
