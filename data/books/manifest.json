@@ -28788,5 +28788,305 @@
    }
   },
   "built_sha256": "eecccb864c0075813a22dd2d79bde232a38ee7dcf4201b7afc81b03c01194326"
+ },
+ "alford-commentary-2": {
+  "title": "The Greek Testament, vol. II",
+  "author": "Henry Alford",
+  "format": "ia-hocr",
+  "sha256": "d19889cfbb6cf820564721633a48e0e26204a10bdf4a56211648400d56853a7e",
+  "units": 1975,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "status": "draft",
+   "same_scan_as": "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)",
+   "scan_choice": "Lane A's item (same scan); measured against greektestamentwiptsl02alfo (1899): Greek 17.3% vs 17.1% of letters, Greek tokens known 34.1% vs 34.8%: not clearly better",
+   "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. II (Acts, Romans, Corinthians), 3rd ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1857), as its title page reads; scan leaves 5-794 of greektestamentwi02alfo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1857); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, greektestamentwi02alfo (University of California Libraries copy)",
+   "source_url": "https://archive.org/details/greektestamentwi02alfo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 610,
+    "note": 1173,
+    "page": 192
+   },
+   "junk_lines_dropped": 7240,
+   "leaves_commentary": 610,
+   "leaves_page": 180,
+   "leaves_with_tail": 12,
+   "openers_accepted": 1197,
+   "openers_out_of_sequence": 72,
+   "openers_rejected": 149,
+   "printed_page_from_neighbours": 71,
+   "printed_page_read": 614,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 553,
+     "with_own_note": 376
+    },
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 390,
+     "with_own_note": 271
+    },
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 341,
+     "with_own_note": 226
+    },
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 178,
+     "with_own_note": 117,
+     "chapters": [
+      1,
+      12
+     ],
+     "kjv_verses_in_chapters": 243
+    }
+   },
+   "scripture_links": {
+    "read": 9086,
+    "resolved": 7761
+   },
+   "greek": {
+    "greek_letters": 374516,
+    "greek_share_of_letters": 0.1682,
+    "greek_tokens_3plus": 60509,
+    "greek_tokens_in_reference_vocab": 0.3476,
+    "mixed_script_tokens": 511
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "65a830a56b4b0a1e66540933d92afad576b2707efb05e17f1879094e412df0d9"
+ },
+ "alford-commentary-3": {
+  "title": "The Greek Testament, vol. III",
+  "author": "Henry Alford",
+  "format": "ia-hocr",
+  "sha256": "0d6492f87b3e3ce6a6adee9a61d5ff9832fd6f4ed83f1f5c5601511e5a7d26fd",
+  "units": 1088,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "greektestamentwi00alfo (4th ed., 1865; Lane A has no vol. III): Greek 15.4%, known 35.5%; greektestamentw03alfo 15.8%/35.5% is a catalogue-1849 copy of unstated edition",
+   "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. III (Galatians to Philemon), 4th ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1865), as its title page reads; scan leaves 7-579 of greektestamentwi00alfo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1865); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, greektestamentwi00alfo (Boston University School of Theology copy)",
+   "source_url": "https://archive.org/details/greektestamentwi00alfo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 425,
+    "note": 515,
+    "page": 148
+   },
+   "junk_lines_dropped": 4661,
+   "leaves_commentary": 427,
+   "leaves_page": 146,
+   "leaves_with_tail": 2,
+   "openers_accepted": 516,
+   "openers_out_of_sequence": 40,
+   "openers_rejected": 51,
+   "printed_page_from_neighbours": 69,
+   "printed_page_read": 355,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 123,
+     "with_own_note": 97
+    },
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 97,
+     "with_own_note": 51
+    },
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 87,
+     "with_own_note": 57
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 69,
+     "with_own_note": 41
+    },
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 73,
+     "with_own_note": 60
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 26,
+     "with_own_note": 11,
+     "chapters": [
+      1,
+      2
+     ],
+     "kjv_verses_in_chapters": 29
+    },
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 75,
+     "with_own_note": 44
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 64,
+     "with_own_note": 25
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 25,
+     "with_own_note": 16,
+     "chapters": [
+      1,
+      2
+     ],
+     "kjv_verses_in_chapters": 31
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 18,
+     "with_own_note": 15
+    }
+   },
+   "scripture_links": {
+    "read": 8422,
+    "resolved": 7115
+   },
+   "greek": {
+    "greek_letters": 252627,
+    "greek_share_of_letters": 0.1558,
+    "greek_tokens_3plus": 40412,
+    "greek_tokens_in_reference_vocab": 0.3552,
+    "mixed_script_tokens": 376
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "9ba3ec7ffef62164b7246f5d5781d7650bd2e7b1bcc36f8803400d04945591b1"
+ },
+ "alford-commentary-4": {
+  "title": "The Greek Testament, vol. IV",
+  "author": "Henry Alford",
+  "format": "ia-hocr",
+  "sha256": "770fee70202d9a1a3ccd92aacc00072cda2496ed124f984993dd70879ea544d5",
+  "units": 1700,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "status": "draft",
+   "same_scan_as": "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)",
+   "scan_choice": "Lane A's item (same scan); measured against greektestamentwi5604alfo (3rd ed., 1866): Greek 14.0% vs 13.6%, known 35.7% vs 35.5%",
+   "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. IV (Hebrews to the Revelation), 4th ed. (Boston: Lee and Shepard; New York: Lee, Shepard and Dillingham), the American issue of Rivingtons' London edition; the title page is undated, the item's catalogue date is 1874; scan leaves 5-1057 of greektestamentwi04alfo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1874); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, greektestamentwi04alfo (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/greektestamentwi04alfo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 735,
+    "note": 632,
+    "page": 333
+   },
+   "junk_lines_dropped": 7687,
+   "leaves_commentary": 739,
+   "leaves_page": 311,
+   "leaves_with_tail": 22,
+   "openers_accepted": 643,
+   "openers_out_of_sequence": 47,
+   "openers_rejected": 68,
+   "printed_page_from_neighbours": 126,
+   "printed_page_read": 614,
+   "kjv_coverage": {
+    "Heb": {
+     "kjv_verses": 303,
+     "commented": 212,
+     "with_own_note": 160
+    },
+    "Jas": {
+     "kjv_verses": 108,
+     "commented": 94,
+     "with_own_note": 76
+    },
+    "1Pet": {
+     "kjv_verses": 105,
+     "commented": 85,
+     "with_own_note": 72
+    },
+    "2Pet": {
+     "kjv_verses": 61,
+     "commented": 58,
+     "with_own_note": 42
+    },
+    "1John": {
+     "kjv_verses": 105,
+     "commented": 84,
+     "with_own_note": 49
+    },
+    "2John": {
+     "kjv_verses": 13,
+     "commented": 12,
+     "with_own_note": 4
+    },
+    "3John": {
+     "kjv_verses": 14,
+     "commented": 8,
+     "with_own_note": 4
+    },
+    "Jude": {
+     "kjv_verses": 25,
+     "commented": 13,
+     "with_own_note": 9
+    },
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 243,
+     "with_own_note": 40
+    }
+   },
+   "scripture_links": {
+    "read": 9666,
+    "resolved": 8043
+   },
+   "greek": {
+    "greek_letters": 417466,
+    "greek_share_of_letters": 0.1365,
+    "greek_tokens_3plus": 67451,
+    "greek_tokens_in_reference_vocab": 0.3613,
+    "mixed_script_tokens": 462
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "4d6f95a5bafcc6d47631f91e2fc08a7711de7fcc4bfb29c0e387f89732e0fac5"
  }
 }

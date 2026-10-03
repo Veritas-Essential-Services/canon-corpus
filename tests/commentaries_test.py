@@ -143,7 +143,7 @@ check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s i
 with open(os.path.join(ROOT, "data", "books", "manifest.json"), encoding="utf-8") as f:
     man = json.load(f)
 ents = {k: man[k] for k in B.ORDER if k in man}
-check("manifest: one entry per book", len(ents) == len(B.ORDER) == 6)
+check("manifest: one entry per book", len(ents) == len(B.ORDER) == 6 + len(B.SECOND))
 check("manifest: honesty, rights and draft status on every entry",
       all(e["scheme"].get("honesty") and e.get("rights") and e["scheme"].get("status") == "draft" for e in ents.values()))
 check("manifest: every OCR'd book says it is unproofread",
@@ -158,7 +158,8 @@ check("manifest: Philippians, 90% of verses", cov("lightfoot-philippians", "Phil
 check("manifest: Hebrews, 90% of verses", cov("westcott-hebrews", "Heb")["commented"] >= 0.9 * 303)
 check("manifest: 1 John, 95% of verses", cov("westcott-john", "1John")["commented"] >= 0.95 * 105)
 check("manifest: the commentaries' Greek survived as Greek (over 5% of letters)",
-      all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER if k != "hort-ante-nicene"))
+      all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER
+          if k != "hort-ante-nicene" and B.SCANS.get(k, {}).get("reader") != "kd"))
 check("manifest: most scripture references resolve",
       all(e["measure"]["scripture_links"]["resolved"] >= 0.8 * e["measure"]["scripture_links"]["read"]
           for k, e in ents.items() if k != "hort-ante-nicene"))
@@ -177,8 +178,102 @@ for k in B.ORDER:
     check(f"built: {k} = its manifest entry", hashlib.sha256(blob).hexdigest() == ents[k]["built_sha256"])
     units = json.loads(blob)["units"]
     check(f"built: {k} ids unique", len({u["id"] for u in units}) == len(units))
-    check(f"built: {k} comments-on links name KJV verses that exist",
-          all(lk["resolved"] for u in units for lk in u["links"] if lk.get("type") == "comments-on"))
+    check(f"built: {k} comments-on links name KJV verses that exist (or say why not: a psalm's title)",
+          all(lk["resolved"] or lk.get("why") for u in units for lk in u["links"] if lk.get("type") == "comments-on"))
+
+# -- the second shelf (Alford, Bengel, Keil & Delitzsch)
+check("second shelf: slugs not Lane A's (alford-greek-testament-*)",
+      B.SECOND and not any(k.startswith("alford-greek-testament") for k in B.SECOND))
+check("second shelf: every volume pinned, printed before 1929, and in ORDER",
+      all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) and v["printed"] < 1929 and k in B.ORDER for k, v in B.SECOND.items()))
+check("second shelf: Alford vol. I is not shelved (no scan keeps its Greek)", "alford-commentary-1" not in B.SECOND)
+check("second shelf: a volume of several books leads its ids with the book",
+      all((k in B.MULTI) == (len(v["epistles"]) > 1) for k, v in B.SECOND.items()))
+
+# Alford's inline openers
+c = B.alford_cands("9.] As we said before", "of the whole matter.")
+check("alford: '9.]' after a sentence is an opener", [x[1][1] for x in c] == [9])
+c = B.alford_cands("And so ver. 8.] is not", "")
+check("alford: after 'ver.' a number is a reference", c == [])
+c = B.alford_cands("see Rom. ix. 3.] the same", "")
+check("alford: after a roman numeral a number is a reference", c == [])
+c = B.alford_cands("these things). 6—10.| ANNOUNCEMENT of", "")
+check("alford: a run '6—10.|' opens 6 and ends 10", [x[1][1:3] for x in c] == [(6, 10)])
+c = B.alford_cands("5. ᾧ ἡ δόξα", "")
+check("alford: a number before Greek opens", [x[1][1] for x in c] == [5])
+check("alford_head: 'IIETPOT A. II.' (ΠΕΤΡΟΥ OCR'd) is chapter II, not the title's II",
+      B.alford_head({"head": "IIETPOT A. | II."}, 5)[0] == 2 and B.alford_head({"head": "IIETPOT A."}, 5)[0] is None)
+
+# the single-column books
+check("bengel: '14. μηκέτι)' opens 14", B.sc_cand("14. μηκέτι) no longer", "bengel") == (None, 14, None, "read"))
+check("bengel: 'IV. 1. ' opens chapter IV", B.sc_cand("IV. 1. Παρακαλῶ) I beseech", "bengel")[:2] == (4, 1))
+check("bengel: prose is not an opener", B.sc_cand("the word", "bengel") is None)
+check("kd: 'Vers. 14-19.' opens a run", B.kd_cands("Vers. 14-19. The account") == [(0, (None, 14, 19, "read"))])
+check("kd: 'Vers. 9-12 contain' opens a run", [x[1][1:3] for x in B.kd_cands("Vers. 9-12 contain a description")] == [(9, 12)])
+check("kd: '— Ver. 3.' inside a paragraph opens", [x[1][1] for x in B.kd_cands("rooted there. — Ver. 3. As Adam")] == [3])
+check("kd: 'ver. 3' (lower case) is a reference", B.kd_cands("The heading in ver. 1 runs thus") == [])
+check("kd: a capital 'Ver.' mid-sentence is not an opener", B.kd_cands("as shown in Ver. 3. here") == [])
+check("sc_head: 'CHAP. X. 8-12.'", B.sc_head("CHAP. X. 8-12. 165", 50)[0] == 10)
+check("sc_head: 'PSALM XXXVII. 7'", B.sc_head("PSALM XXXVII. 7", 150)[0] == 37)
+W = 2000
+check("psalm_title: the next psalm's title line is read",
+      B.psalm_title(line("PSALM XLI.", 600, 100, 1100, 40), W, 40) == 41)
+check("psalm_title: 'XLL' (a final I read as L) is XLI", B.psalm_title(line("PSALM XLL", 600, 100, 1100, 40), W, 40) == 41)
+check("psalm_title: a psalm far from the last read is not a title",
+      B.psalm_title(line("PSALM LX.", 600, 100, 1100, 40), W, 40) is None)
+check("psalm_title: flush left is a sentence, not the title", B.psalm_title(line("PSALM XLI.", 100, 100, 600, 40), W, 40) is None)
+
+# numbering: existence votes
+v = B.numbering_votes([("Ps", 51, 21), ("Ps", 51, 20), ("Ps", 3, 9), ("Ps", 18, 51), ("Ps", 60, 14), ("Ps", 34, 23)], ids)
+check("numbering_votes: verses only the Hebrew has are Hebrew votes", v["only_hebrew"] == 6 and v["only_kjv"] == 0)
+check("decide: six Hebrew votes and none against is hebrew", B.decide(v) == "hebrew")
+check("decide: too few votes is undecided", B.decide({"only_hebrew": 3, "only_kjv": 0}) == "undecided")
+check("decide: a split is undecided", B.decide({"only_hebrew": 6, "only_kjv": 4}) == "undecided")
+check("decide: KJV votes", B.decide({"only_hebrew": 2, "only_kjv": 5}) == "kjv")
+x = B.ot_link("Ps", 51, 3, "hebrew", ids, "t")
+check("ot_link: Hebrew Ps 51:3 is the KJV's 51:1", x["resolved"] and x["target"] == "kjv:Ps.51.1")
+x = B.ot_link("Ps", 51, 1, "hebrew", ids, "t")
+check("ot_link: a psalm's title is unresolved, with why", not x["resolved"] and "title" in x["why"])
+x = B.ot_link("Ps", 51, 1, "kjv", ids, "t")
+check("ot_link: in the KJV's numbering, Ps 51:1 is itself", x["target"] == "kjv:Ps.51.1")
+x = B.ot_link("Gen", 32, 33, "undecided", ids, "t")
+check("ot_link: undecided reads a verse only the Hebrew has as Hebrew", x["resolved"] and x["target"] == "kjv:Gen.32.32")
+
+# the decoder's ways out of a missed chapter turn
+d = B.HeadDecoder({1: 30, 2: 30, 3: 30, 4: 30})
+d.c, d.v = 1, 20
+check("HeadDecoder: a confirmed later head takes a section opening mid-chapter", d.offer(7, None, 2, [], None, True) == (2, 7, None))
+d = B.HeadDecoder({1: 30, 2: 30, 3: 30, 4: 30})
+d.c, d.v = 1, 20
+check("HeadDecoder: 'IV. 1' with this chapter's numbers after it is a reference",
+      d.offer(1, None, None, [], 4, False, [(None, 21), (None, 22)]) is None and (d.c, d.v) == (1, 20))
+d = B.HeadDecoder({1: 30, 2: 30, 3: 30, 4: 30})
+d.c, d.v = 1, 28
+r = [d.offer(n, None, 3, []) for n in (5, 6, 8)]
+check("HeadDecoder: three refusals under one later head follow the head", r[:2] == [None, None] and r[2] == (3, 8, None))
+
+# the manifest's measures for the second shelf
+for k in B.SECOND:
+    e = ents.get(k)
+    if not e:
+        continue
+    cv = e["measure"]["kjv_coverage"]
+    tot = sum(c.get("kjv_verses_in_chapters", c["kjv_verses"]) for c in cv.values())
+    got = sum(c["commented"] for c in cv.values())
+    floor = 0.5 if k.startswith("alford") else 0.7
+    check(f"manifest: {k} notes reach {floor:.0%} of its verses", got >= floor * tot)
+    if B.SECOND[k]["reader"] == "kd":
+        check(f"manifest: {k} records the numbering measured", set(e["scheme"]["numbering"]) == set(cv)
+              and "numbering_references" in e["measure"])
+        check(f"manifest: {k} says its Hebrew is lost", e["measure"]["hebrew"]["hebrew_letters"] == 0
+              and "Hebrew words are lost" in e["scheme"]["honesty"])
+    else:
+        check(f"manifest: {k} kept its Greek", e["measure"]["greek"]["greek_share_of_letters"] > 0.05)
+check("manifest: Delitzsch's Psalms are measured as numbered in the Hebrew",
+      all(ents[k]["scheme"]["numbering"]["Ps"] == "hebrew" for k in ("delitzsch-psalms-1", "delitzsch-psalms-2", "delitzsch-psalms-3")
+          if k in ents))
+check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["scheme"]
+                                                     for k in ("alford-commentary-2", "alford-commentary-4") if k in ents))
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

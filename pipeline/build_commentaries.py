@@ -88,6 +88,11 @@ and "vv. 8, 9" in a note mean the verse of the same chapter, and Westcott's
 HONESTY. The five scanned books are unproofread OCR and every honesty field
 says so; their notes' boundaries rest on verse numbers read off the page and
 checked only against the sequence. Nothing is minted: ids are citations.
+
+THE SECOND SHELF (Alford, Bengel, Keil & Delitzsch: one book per volume) is
+the table SECOND and its own reader, build_book_2b: see the comment above
+SECOND for the scans measured and chosen, and harvest_2b for how Keil &
+Delitzsch's Old Testament numbering is measured and mapped.
 """
 import argparse
 import collections
@@ -1129,6 +1134,935 @@ def _page(pages, slug, page, section, g):
     return pages[page]
 
 
+# ================================================================== the second shelf (2026-10-03)
+#
+# Henry Alford's Greek Testament (vols II-IV), J. A. Bengel's Gnomon in the
+# T. & T. Clark English (vols II-IV), and Keil & Delitzsch's Biblical
+# Commentary on the Old Testament (the Pentateuch and Delitzsch on the Psalms;
+# Isaiah measured but not shelved), all from Internet Archive hOCR, every scan chosen by measuring
+# its text layer (2026-10-03, on each item's _djvu.txt: Greek letters as a share
+# of all letters; Greek tokens of 3+ letters found in the Strong's/John
+# vocabulary above; English tokens found in the dwyl word list; Hebrew letters
+# as a share of all letters):
+#
+#   Alford I (Gospels)  greektestamentwi01alfo 1849-cat. (Lane A's item), greektestamentwidv01alfo 1874,
+#                       greektestamentwi189801alfo 1897: 0.0% Greek (every Greek word in Latin letters);
+#                       greektestament00alfogoog 1849, greektestamentw00unkngoog 1863: ~100% Greek letters
+#                       (the English OCR'd as Greek). bub_gb_YOY2AAAAMAAJ (Michigan): its text layer would
+#                       not download (HTTP 500, 2026-10-03). NOT SHELVED: no scan keeps both languages.
+#   Alford II           greektestamentwi02alfo 3rd ed. 1857  17.3%  34.1%  84.1%   <- chosen (Lane A's item)
+#                       greektestamentwiptsl02alfo 1899 (7th ed., new impr.) 17.1% 34.8% 84.0% (not clearly better)
+#                       greektestamentw02alfo 1849-cat., greektestamentwidvr02alfo 1874, greektestamentwi0002alfo
+#                       1859: 0.0% Greek; greektestament02alfo 1868: ~100% Greek letters
+#   Alford III          greektestamentwi00alfo 4th ed. 1865  15.4%  35.5%  86.8%   <- chosen (Lane A has no vol. III)
+#                       greektestamentw03alfo 1849-cat. 15.8% 35.5% 86.5%; greektestamentwi0003alfo 1859: 0.0%;
+#                       greektestament03alfo 1868: ~100% Greek letters; greektestamentwi03alfo 1856: no text layer (HTTP 500)
+#   Alford IV           greektestamentwi04alfo 4th ed., Boston (Lee & Shepard) 14.0% 35.7% 87.6%  <- chosen (Lane A's item)
+#                       greektestamentwi5604alfo 3rd ed. 1866 13.6% 35.5% 87.4%; greektestamentwiptsl04alfo 1897 14.0% 35.3%
+#   Bengel I, V         every scan of the English Gnomon's vols I and V (gnomonofthenewte01benguoft 1857,
+#                       gnomonofnewt01beng 1873, gnomonofnewtest01beng 1873, cu31924092350515 1877,
+#                       cu31924092350531 1866, gnomonofnewtesta05beng 1859, the Philadelphia 2-vol. translation
+#                       gnomonnewtestam00benggoog 1864 and johnalbertbenge00benggoog 1860...): 0.0% Greek. NOT SHELVED.
+#   Bengel II + III     gnomonofnewtesta23beng 1873 (7th ed., vols II and III bound as one) 6.3% 34.4% 95.8%  <- chosen
+#                       cu31924092350523 1877 (vol. II only) 5.9% 33.1% 95.7%; cu31924092350499 1877 (vol. III): 0.0%
+#   Bengel IV           cu31924092350507 1877 (7th ed.) 7.5% 32.4% 95.3%   <- chosen
+#                       gnomonofnewtesta03benguoft 1873: 0.0% Greek
+#   (Neither CCEL nor Project Gutenberg has Bengel's Gnomon or Keil & Delitzsch: searched 2026-10-03.)
+#   K&D: no scan of any volume keeps its Hebrew (0.00% Hebrew letters in all 40 measured: the pointed
+#   Hebrew is OCR'd as Latin-letter debris). Chosen by English share:
+#   Pentateuch I        thepentateuch01keiluoft 1878 95.2%  <- (pentateuch01keil 1866 95.1%, biblicalcomm01keiluoft 1869 94.8%)
+#   Pentateuch II       biblicalcomm02keiluoft 1872 95.3%   <- (pentateuch02keiluoft 1872 95.2%)
+#   Pentateuch III      pentateuch03keiluoft 1871 95.2%     <- (biblicalcommenta03keiluoft 1867 94.9%, pentateuch03keil 94.7%)
+#   Psalms I            commentarypsalm01deliuoft 1880 91.6% <- (biblicalcommenta187101deli 1871 91.2%, ...188001 1877 91.2%)
+#   Psalms II           biblicalcommenta187102deli 1871 91.3% <- (biblicalcommenta188002deli 1877 91.1%)
+#   Psalms III          commentarypsalm03deliuoft 1880 92.0% <- (biblicalcommenta03deli 1877 91.2%, biblicalcomment02unkngoog no hOCR)
+#   Isaiah I, II        biblicalcommenta1deliuoft / biblicalcoisaiah02deliuoft 1890 (4th ed.) 93.3% / 93.0%
+#                       (isaiahsprophecie01/02deliuoft 1884 93.3/93.1%; the 1867 Indian-library scans 92.8/93.1%).
+#                       NOT SHELVED YET: Delitzsch's Isaiah does not open its sections 'Ver. 3.' as the Pentateuch
+#                       and the Psalms do (39 such openers in vol. I's 400 pages, against ~600 verses; the 1867
+#                       translation measures the same on its text layer). It needs a reader keyed by the running
+#                       heads ('CHAPTER V. 11, 12.', recto only) instead. Their hOCR, measured 2026-10-03:
+#                       f05085fa5e015134f3b67c6bca38f35b539d0b4debfbad6b8eba09f4c7ccbb6a (vol. I),
+#                       349c3a341f55971b7307b9f8dd95d91d0dc39e95925547968a97f36e988a0858 (vol. II).
+
+def _alford(vol, ia, sha, edition, printed, copy, rights, leaves, books, lane_a):
+    return {"ia": ia, "sha256": sha, "title": f"The Greek Testament, vol. {vol}", "short": f"Alford, Gk Test. {vol}",
+            "author": "Henry Alford", "edition": edition, "printed": printed, "copy": copy, "ia_rights": rights,
+            "leaves": leaves, "epistles": books, "apparatus": True, "reader": "alford", "lane_a": lane_a}
+
+
+def _bengel(vol, ia, sha, edition, printed, copy, rights, leaves, books):
+    return {"ia": ia, "sha256": sha, "title": f"Gnomon of the New Testament, vol. {vol}", "short": f"Bengel, Gnomon {vol}",
+            "author": "J. A. Bengel", "edition": edition, "printed": printed, "copy": copy, "ia_rights": rights,
+            "leaves": leaves, "epistles": books, "apparatus": False, "reader": "bengel"}
+
+
+def _kd(title, short, author, ia, sha, edition, printed, copy, rights, leaves, books):
+    return {"ia": ia, "sha256": sha, "title": title, "short": short, "author": author, "edition": edition,
+            "printed": printed, "copy": copy, "ia_rights": rights, "leaves": leaves, "epistles": books,
+            "apparatus": False, "reader": "kd"}
+
+
+_ALF = ("Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, "
+        "marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary")
+_BEN = ("John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited "
+        "by Andrew R. Fausset (Edinburgh: T. & T. Clark)")
+_KD = "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library)"
+_KDP = "C. F. Keil and F. Delitzsch"
+SECOND = {
+    "alford-commentary-2": _alford(
+        "II", "greektestamentwi02alfo", "d19889cfbb6cf820564721633a48e0e26204a10bdf4a56211648400d56853a7e",
+        f"{_ALF}, vol. II (Acts, Romans, Corinthians), 3rd ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1857), "
+        "as its title page reads", 1857, "University of California Libraries", "NOT_IN_COPYRIGHT", (5, 794),
+        [("Acts", 105, 392), ("Rom", 393, 549), ("1Cor", 550, 698), ("2Cor", 699, 794)], True),
+    "alford-commentary-3": _alford(
+        "III", "greektestamentwi00alfo", "0d6492f87b3e3ce6a6adee9a61d5ff9832fd6f4ed83f1f5c5601511e5a7d26fd",
+        f"{_ALF}, vol. III (Galatians to Philemon), 4th ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1865), "
+        "as its title page reads", 1865, "Boston University School of Theology", None, (7, 579),
+        [("Gal", 145, 211), ("Eph", 212, 295), ("Phil", 296, 339), ("Col", 340, 391), ("1Thess", 392, 427),
+         ("2Thess", 428, 443), ("1Tim", 444, 510), ("2Tim", 511, 551), ("Titus", 552, 572), ("Phlm", 573, 579)],
+        False),
+    "alford-commentary-4": _alford(
+        "IV", "greektestamentwi04alfo", "770fee70202d9a1a3ccd92aacc00072cda2496ed124f984993dd70879ea544d5",
+        f"{_ALF}, vol. IV (Hebrews to the Revelation), 4th ed. (Boston: Lee and Shepard; New York: Lee, Shepard and "
+        "Dillingham), the American issue of Rivingtons' London edition; the title page is undated, the item's "
+        "catalogue date is 1874", 1874, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (5, 1057),
+        [("Heb", 307, 579), ("Jas", 580, 636), ("1Pet", 637, 694), ("2Pet", 695, 726), ("1John", 727, 821),
+         ("2John", 822, 827), ("3John", 828, 834), ("Jude", 835, 849), ("Rev", 850, 1057)], True),
+}
+# How each scan was chosen, carried into the manifest (scheme.scan_choice), so a reader of the manifest
+# sees the other witnesses without opening this file.
+SCAN_CHOICE = {
+    "alford-commentary-2": "Lane A's item (same scan); measured against greektestamentwiptsl02alfo (1899): "
+                           "Greek 17.3% vs 17.1% of letters, Greek tokens known 34.1% vs 34.8%: not clearly better",
+    "alford-commentary-3": "greektestamentwi00alfo (4th ed., 1865; Lane A has no vol. III): Greek 15.4%, known 35.5%; "
+                           "greektestamentw03alfo 15.8%/35.5% is a catalogue-1849 copy of unstated edition",
+    "alford-commentary-4": "Lane A's item (same scan); measured against greektestamentwi5604alfo (3rd ed., 1866): "
+                           "Greek 14.0% vs 13.6%, known 35.7% vs 35.5%",
+    "bengel-gnomon-2": "gnomonofnewtesta23beng (vols. II and III bound as one): Greek 6.3%, known 34.4%; "
+                       "cu31924092350523 (1877, vol. II) 5.9%/33.1%",
+    "bengel-gnomon-3": "gnomonofnewtesta23beng (vols. II and III bound as one); cu31924092350499 (1877, vol. III): "
+                       "0.0% Greek",
+    "bengel-gnomon-4": "cu31924092350507 (1877): Greek 7.5%, known 32.4%; gnomonofnewtesta03benguoft (1873): 0.0% Greek",
+}
+# the chapter a volume's notes on a book begin at, where an earlier volume holds the book's start
+FIRST_CHAPTER = {"keil-delitzsch-pentateuch-2": {"Exod": 12}, "delitzsch-psalms-2": {"Ps": 36},
+                 "delitzsch-psalms-3": {"Ps": 84}}
+for _k in SECOND:
+    if _k in SCAN_CHOICE:
+        SECOND[_k]["scan_choice"] = SCAN_CHOICE[_k]
+    if _k in FIRST_CHAPTER:
+        SECOND[_k]["first_chapter"] = FIRST_CHAPTER[_k]
+SCANS.update(SECOND)
+ORDER.extend(SECOND)
+MULTI.update(k for k, s in SECOND.items() if len(s["epistles"]) > 1)
+
+# ------------------------------------------------------------------ second shelf: Alford's page
+
+ALF_APP = {"rec", "om", "ins", "txt", "bef", "aft", "rel", "latt", "vss", "syrr", "copt", "arm", "eth", "aeth",
+           "vulg", "al", "chr", "thdrt", "lat-ff", "goth", "syr", "it", "elz", "lachm", "tischdf"}
+
+
+def alford_layout(a, W):
+    """Alford's page: the Greek text (with its marginal references), the
+    digest of readings under it, then the notes in two columns. The columns
+    are the largest cluster of side-by-side line pairs; everything above them
+    is text or digest; the digest begins at the first line that reads like it
+    (a verse number, or the digest's sigla: rec, om, txt, ins...)."""
+    body = a["body"]
+    box = text_box(body)
+    if not box:
+        return None
+    x0, x1 = box
+    cx, tw = (x0 + x1) / 2, x1 - x0
+    slack = 0.02 * W
+    left = [l for l in body if l["bbox"][2] < cx + slack]
+    right = [l for l in body if l["bbox"][0] > cx - slack]
+    wide = lambda l: l["bbox"][2] - l["bbox"][0] > 0.3 * tw  # noqa: E731
+    pairs = []
+    for l in left:
+        if not wide(l):
+            continue
+        for r in right:
+            if wide(r) and abs(r["bbox"][1] - l["bbox"][1]) < 0.7 * max(l["xs"], 10):
+                pairs.append((l, r))
+                break
+    if len(pairs) < 4:
+        return None
+    lh = st.median([l["bbox"][3] - l["bbox"][1] for pr in pairs for l in pr])
+    pairs.sort(key=lambda pr: pr[0]["bbox"][1])
+    clusters = [[pairs[0]]]
+    for pr in pairs[1:]:
+        if pr[0]["bbox"][1] - clusters[-1][-1][0]["bbox"][1] > 3.5 * lh:
+            clusters.append([])
+        clusters[-1].append(pr)
+    zone = max(reversed(clusters), key=len)
+    if len(zone) < 4:
+        return None
+    note_xs = st.median([l["xs"] for pr in zone for l in pr])
+    y_tc = min(min(l["bbox"][1], r["bbox"][1]) for l, r in zone)
+    cols = [l for l in left + right if l["bbox"][1] >= y_tc - 0.3 * note_xs]
+    zone_end = max(l["bbox"][3] for l in cols)
+    above, cols_l, cols_r, tail = [], [], [], []
+    for l in body:
+        y0 = l["bbox"][1]
+        if y0 < y_tc - 0.3 * note_xs:
+            above.append(l)
+        elif l in left:
+            cols_l.append(l)
+        elif l in right:
+            cols_r.append(l)
+        elif y0 > zone_end - 0.3 * note_xs:
+            tail.append(l)
+        else:
+            cols_l.append(l)
+    prose = [l for l in above if sum(w[5].lower().strip(".,;:") in STOP for w in l["words"]) >= 3]
+    if len(prose) >= 4:
+        return None                     # prose above two columns: a prolegomena page with footnotes
+    above.sort(key=lambda l: l["bbox"][1])
+    start = None
+    for l in above:
+        toks = [w[5].lower().strip(".,;:()[]") for w in l["words"]]
+        sig = sum(t in ALF_APP for t in toks)
+        if l["bbox"][2] - l["bbox"][0] > 0.5 * tw and (sig >= 2 or (re.match(r'\s*\d{1,2}\.\s', l["text"]) and sig >= 1)):
+            start = l["bbox"][1]
+            break
+    text = [l for l in above if start is None or l["bbox"][1] < start]
+    app = [l for l in above if start is not None and l["bbox"][1] >= start]
+    return {"text": text, "apparatus": app, "left": C.merge_rows(cols_l), "right": C.merge_rows(cols_r),
+            "tail": tail, "note_xs": note_xs}
+
+
+ALF_OPEN = re.compile(r'(?<![\w.,;:\-])(?:([IVX]{1,5})\.\s*)?(\d{1,2})((?:\s*[,—–\-]+\s*\d{1,2}){0,3})\s?\.\s?'
+                      r'(?:[\]\)\}\|]|[17J]{1,2}(?=\s)|(?=\s?[Ͱ-Ͽἀ-῿]))')
+ALF_ABBR = {"ver", "vv", "vers", "ch", "chap", "c", "p", "pp", "cf", "see", "comp", "ib", "ibid", "l", "ll", "sect",
+            "§", "v", "ff", "art", "no", "fol", "col", "bk", "lib", "ed", "vol", "n", "note", "and", "&"}
+
+
+def alford_cands(text, prev):
+    """Inline verse openers in a line of Alford's notes ('9.] As we said',
+    '5. ᾧ ἡ δόξα', '6—10.| ANNOUNCEMENT'): [(pos, (chapter or None, n, end, how))].
+    A number counts only after the end of a clause and not after a numeral or
+    a reference's abbreviation ('Rom. ix. 3.' 'ver. 8.' are references)."""
+    out = []
+    for m in ALF_OPEN.finditer(text):
+        before = (prev + " " + text[:m.start()]).rstrip()
+        if before:
+            if before[-1] not in ".)]};:!?’”\"'—|·":
+                continue
+            w = before.split()[-1].strip(".,;:()[]{}’‘'\"")
+            if re.fullmatch(r'[ivxlcIVXLC]+|\d+', w) or w.lower() in ALF_ABBR:
+                continue
+        n = int(m.group(2))
+        run = re.findall(r'\d{1,2}', m.group(3) or "")
+        e = int(run[-1]) if run and int(run[-1]) > n else None
+        cp = FS.roman(m.group(1)) if m.group(1) else None
+        if n == 0 or (m.group(1) and not cp):
+            continue
+        out.append((m.start(), (cp, n, e, "read")))
+    return out
+
+
+ALF_ROMAN = str.maketrans({"Ι": "I", "Χ": "X", "Υ": "V", "l": "I", "1": "I", "|": "I"})
+
+
+def alford_head(a, nch):
+    """(chapter, verse numbers) of an Alford running head: its roman chapter
+    stands alone or before the verses ('IV. 15—18.'), read only from the
+    letters a roman numeral can have."""
+    if nch == 1:
+        return 1, head_verses(a["head"])
+    for piece in re.split(r'\s*\|\s*|\s{2,}', a["head"]):
+        for m in re.finditer(r'(?<![\w])([IVXΙΧΥl1|]{1,6})(?![A-Za-zͰ-Ͽἀ-῿])[.,:]?\s*((?:\d{1,2}\s*[—–\-,.]*\s*){0,3})', piece):
+            tok = m.group(1).translate(ALF_ROMAN)
+            if not re.fullmatch(r'[IVX]+', tok) or (tok == "I" and not m.group(1) in ("I", "Ι")):
+                continue
+            c = FS.roman(tok)
+            if c and 1 <= c <= nch:
+                return c, [int(x) for x in re.findall(r'\d{1,2}', m.group(2) or "")]
+    return None, []
+
+# ------------------------------------------------------------------ second shelf: the single-column page
+
+
+def sc_page(p):
+    """A single-column page (Bengel, Keil & Delitzsch): its running head,
+    folio, body lines with whether each opens a paragraph, and the footnote
+    block at the foot (smaller type), as (head, nums, body, foot, junk)."""
+    L = [l for l in p["lines"] if l["words"] and l["text"].strip()]
+    if not L:
+        return "", [], [], [], 0
+    many = [l for l in L if len(l["words"]) >= 4]
+    med = st.median([l["xs"] for l in many]) if many else None
+    medh = st.median([l["bbox"][3] - l["bbox"][1] for l in many]) if many else None
+    L.sort(key=lambda l: l["bbox"][1])
+    head = []
+    if len(L) > 1 and len(L[0]["words"]) <= 10 and L[0]["bbox"][1] < 0.12 * p["h"]:
+        t = L[0]
+        letters = [c for c in t["text"] if c.isalpha()]
+        if letters and sum(c.isupper() for c in letters) >= 0.5 * len(letters):
+            head = [l for l in L if l["bbox"][1] < t["bbox"][3] - 0.3 * (t["bbox"][3] - t["bbox"][1])]
+    rest = [l for l in L if l not in head]
+    nums = []
+    for l in head:
+        for tok in l["text"].split():
+            if re.fullmatch(r'\d{1,3}', tok) and (tok is l["text"].split()[0] or tok is l["text"].split()[-1]):
+                nums.append(int(tok))
+    # signature marks and a lone folio at the foot
+    sig = [l for l in rest if l["bbox"][1] > 0.9 * p["h"] and len(l["words"]) <= 6
+           and (re.fullmatch(r'[\W\d]*\d{1,3}[\W]*', l["text"].strip()) or re.search(r'VOL\.', l["text"]))]
+    for l in sig:
+        if re.fullmatch(r'\d{1,3}', l["text"].strip()):
+            nums.append(int(l["text"].strip()))
+    rest = [l for l in rest if l not in sig]
+    junk = [l for l in rest if not any(c.isalnum() for c in l["text"])]
+    rest = [l for l in rest if l not in junk]
+    foot = []
+    wh = lambda l: st.median([w[3] - w[1] for w in l["words"]])  # noqa: E731  (the type's height, per line)
+    medw = st.median([wh(l) for l in many]) if many else None
+    if medh:
+        small = lambda l: wh(l) < 0.9 * medw or (med and l["xs"] < 0.88 * med)  # noqa: E731
+        for l in reversed(rest):
+            if small(l) or (foot and len(l["words"]) < 4):
+                foot.insert(0, l)
+            else:
+                break
+        while foot and not small(foot[0]):
+            foot.pop(0)
+        if len(foot) == len(rest):
+            foot = []                   # a page all in small type is text, not footnotes
+    body = [l for l in rest if l not in foot]
+    xs0 = sorted(l["bbox"][0] for l in body if len(l["words"]) >= 4)
+    mg = xs0[len(xs0) // 5] if xs0 else 0
+    em = med or 40
+    out = [(l, 0.6 * em <= l["bbox"][0] - mg <= 4.5 * em) for l in body]
+    return " | ".join(l["text"] for l in sorted(head, key=lambda l: l["bbox"][0])), nums, out, foot, len(junk)
+
+
+HEAD_ROMAN = str.maketrans({"Ι": "I", "Χ": "X", "Υ": "V", "l": "I", "|": "I"})
+
+
+def sc_head(head, nch):
+    """(chapter, verse numbers) of a single-column running head: 'CHAP. L.
+    15-21.', 'PSALM XXXV. 1—3.', 'ST JOHN IV. 7-10.', 'EPHESIANS IV. 14, 15.'"""
+    t = head.translate(HEAD_ROMAN)
+    for m in re.finditer(r'(?<![A-Za-z])([IVXLC]{1,8})(?![A-Za-z])[.,:]?((?:\s*\d{1,3}\s*[—–\-,.]*){0,4})', t):
+        c = FS.roman(m.group(1))
+        if c and 1 <= c <= nch:
+            vs = [int(x) for x in re.findall(r'\d{1,3}', m.group(2) or "") if int(x) <= 180]
+            return c, vs
+    if nch == 1:
+        return 1, [int(x) for x in re.findall(r'\b\d{1,2}\b', t)]
+    return None, []
+
+
+BENGEL_OPEN = re.compile(r'^[‘“"\'(]?(?:([IVX]{1,5})\.\s*)?(\d{1,2})((?:\s*(?:[,—–\-]+|\s+and)\s*\d{1,2}){0,4})'
+                         r'\s*[.,]\s*\d?\s*(?=[^\d\s])')
+KD_OPEN = re.compile(r'[‘“"\'(]?(?:[VY][eco]r?s?|Ver)\s?[.,]\s*(\d{1,3})'
+                     r'((?:\s*(?:[,—–\-]+|\s+and)\s*\d{1,3}){0,6})(?:\s*sqq?\.?)?(?:\s*[.,:;]|\s+(?=[a-z]))')
+
+
+def sc_cand(text, reader):
+    """A verse number opening a paragraph (Bengel): '14. μηκέτι)', '7.1 °Ex
+    τῆς'."""
+    m = BENGEL_OPEN.match(text)
+    if not m:
+        return None
+    cp = FS.roman(m.group(1)) if m.group(1) else None
+    if m.group(1) and not cp:
+        return None
+    n, run = int(m.group(2)), m.group(3)
+    nums = [int(x) for x in re.findall(r'\d{1,2}', run or "")]
+    e = nums[-1] if nums and nums[-1] > n else None
+    return (cp, n, e, "read") if n else None
+
+
+def kd_cands(text):
+    """Keil & Delitzsch's section openers: 'Ver. 3.', 'Vers. 14-19.', 'Vers.
+    9-12 contain', with a capital V (a reference inside a sentence is 'ver.
+    3'), at the start of a line or after a dash or a sentence's end, where they
+    run on inside a paragraph ('... rooted there. — Ver. 3. As Adam ...'):
+    [(pos, (None, n, end, how))]."""
+    out = []
+    for m in KD_OPEN.finditer(text):
+        before = text[:m.start()].rstrip()
+        if before and before[-1] not in "—–-.;:!?)”\"'":
+            continue
+        n = int(m.group(1))
+        nums = [int(x) for x in re.findall(r'\d{1,3}', m.group(2) or "")]
+        e = nums[-1] if nums and nums[-1] > n else None
+        if n:
+            out.append((m.start(), (None, n, e, "read")))
+    return out
+
+PSALM_TITLE = re.compile(r'^\W{0,3}[PFr][SB]A[LI]M\s+([IVXLCl1]{1,9})[.,]?(?:\s*[-—–]\s*([IVXLCl1]{1,9})[.,]?)?\s*$')
+
+
+def psalm_title(l, W, last):
+    """Delitzsch's title line over each psalm ('PSALM XXXVI.', 'PSALM
+    XLII.-XLIII.'), centred in the column: the psalm's number, read where it
+    is the next psalm or a near one after the last read (a final I is often
+    OCR'd as L: 'PSALM XLL'), else None."""
+    m = PSALM_TITLE.match(l["text"])
+    if not m or l["bbox"][0] < 0.15 * W:
+        return None
+    raw = m.group(1).replace("l", "I").replace("1", "I")
+    for tok in (raw, raw[:-1] + "I" if raw.endswith("L") else None):
+        n = FS.roman(tok) if tok else None
+        if n and 1 <= n <= 150 and (last is None or last < n <= last + 3):
+            return n
+    return None
+
+# ------------------------------------------------------------------ second shelf: numbering (Keil & Delitzsch)
+
+
+_VMAP = None
+
+
+def vmap():
+    global _VMAP
+    if _VMAP is None:
+        import versification as V
+        _VMAP = V.load()
+    return _VMAP
+
+
+def heb_counts(book):
+    out = {}
+    for k, n in vmap()["hebrew_chapters"].items():
+        b, c = k.rsplit(".", 1)
+        if b == book:
+            out[int(c)] = n
+    return out
+
+
+def numbering_votes(pairs, ids):
+    """Existence votes over (book, chapter, verse) as printed: a verse only the
+    Hebrew (WLC) has is a vote for the Hebrew numbering, a verse only the KJV
+    has a vote for the KJV's; a verse both have (or neither) says nothing."""
+    heb = only_heb = only_kjv = 0
+    for b, c, v in pairs:
+        h = 1 <= v <= vmap()["hebrew_chapters"].get(f"{b}.{c}", 0)
+        k = f"kjv:{b}.{c}.{v}" in ids
+        if h and not k:
+            only_heb += 1
+        elif k and not h:
+            only_kjv += 1
+        heb += 1
+    return {"read": heb, "only_hebrew": only_heb, "only_kjv": only_kjv}
+
+
+def decide(v):
+    """hebrew / kjv when one side has at least 5 votes and twice the other's;
+    otherwise undecided (and then each reference is read where it exists)."""
+    if v["only_hebrew"] >= 5 and v["only_hebrew"] >= 2 * v["only_kjv"]:
+        return "hebrew"
+    if v["only_kjv"] >= 5 and v["only_kjv"] >= 2 * v["only_hebrew"]:
+        return "kjv"
+    return "undecided"
+
+
+def ot_link(b, c, v, numbering, ids, rule):
+    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided)."""
+    import versification as V
+    osis = f"{b}.{c}.{v}"
+    if numbering == "undecided":
+        h = 1 <= v <= vmap()["hebrew_chapters"].get(f"{b}.{c}", 0)
+        k = f"kjv:{osis}" in ids
+        numbering = "hebrew" if (h and not k) else "kjv"
+        rule += "/undecided"
+    if numbering == "hebrew":
+        r = V.resolve(osis, vmap(), ids)
+        out = {"printed": osis, "numbering": "hebrew", "rule": rule}
+        out.update(r)
+        return out
+    t = f"kjv:{osis}"
+    if t in ids:
+        return {"printed": osis, "target": t, "resolved": True, "numbering": "kjv", "rule": rule}
+    return {"printed": osis, "resolved": False, "numbering": "kjv", "why": "no such verse in the KJV", "rule": rule}
+
+# ------------------------------------------------------------------ second shelf: the build
+
+
+def build_scan_2b(slug, ids):
+    s = SCANS[slug]
+    reader = s["reader"]
+    P = pages(slug)
+    a0, b0 = s["leaves"]
+    seg = {}
+    for book, x, y in s["epistles"]:
+        for leaf in range(x, y + 1):
+            seg[leaf] = book
+    m = collections.Counter()
+    units = []
+    A = {leaf: analyse(P[leaf]) for leaf in range(a0, b0 + 1)}
+    nums = {leaf: list(a["nums"]) for leaf, a in A.items()}
+    SC = {}
+    if reader != "alford":
+        for leaf in range(a0, b0 + 1):
+            SC[leaf] = sc_page(P[leaf])
+            nums[leaf] = sorted(set(nums[leaf]) | set(SC[leaf][1]))
+    pp = printed_pages(nums)
+    kjv_counts = {book: verse_counts(ids, book) for book, _, _ in s["epistles"]}
+    nch = {book: max(c) for book, c in kjv_counts.items()}
+    items = []
+    last_psalm = None
+    for leaf in range(a0, b0 + 1):
+        a = A[leaf]
+        book = seg.get(leaf)
+        if reader == "alford":
+            m["junk_lines_dropped"] += a["junk"]
+            lay = alford_layout(a, P[leaf]["w"]) if book else None
+            if lay is None:
+                if a["body"]:
+                    units.append(page_unit(slug, s, leaf, a["body"], a, pp))
+                    m["leaves_page"] += 1
+                continue
+            m["leaves_commentary"] += 1
+            hc, hv = alford_head(a, nch[book])
+            if lay["text"] or lay["apparatus"]:
+                t = ""
+                for l in lay["text"]:
+                    t = C.join(t, l["text"])
+                u = {"id": f"{slug}:leaf.{leaf}.text",
+                     "ref": f"{s['short']}, " + (f"p. {pp[leaf][0]}" if leaf in pp else f"leaf {leaf}") + ", text",
+                     "kind": "epistle-text", "book": book, "text": t, "links": [], "scan": {"leaves": [leaf]}}
+                if lay["apparatus"]:
+                    u["apparatus"] = " ".join(l["text"] for l in lay["apparatus"])
+                if a["head"]:
+                    u["scan"]["running_head"] = a["head"]
+                if leaf in pp:
+                    u["scan"]["printed_page"] = pp[leaf][0]
+                units.append(u)
+            prev = ""
+            for col in (lay["left"], lay["right"]):
+                for l in col:
+                    items.append({"book": book, "leaf": leaf, "text": l["text"], "para": False,
+                                  "cands": alford_cands(l["text"], prev), "hc": hc, "hv": hv})
+                    prev = l["text"]
+            if lay["tail"]:
+                units.append(page_unit(slug, s, leaf, lay["tail"], a, pp, {"after_notes": True}))
+                m["leaves_with_tail"] += 1
+        else:
+            head, _, body, foot, junk = SC[leaf]
+            m["junk_lines_dropped"] += junk
+            if not book:
+                lines = [l for l, _ in body] + foot
+                if lines:
+                    aa = dict(a, head=head or a["head"])
+                    units.append(page_unit(slug, s, leaf, lines, aa, pp))
+                    m["leaves_page"] += 1
+                continue
+            m["leaves_commentary"] += 1
+            hc, hv = sc_head(head, 150 if book == "Ps" else nch[book])
+            hv = [v for v in hv if v not in SC[leaf][1]]          # not the folio
+            prev = ""
+            for l, para in body:
+                ps = psalm_title(l, P[leaf]["w"], last_psalm) if book == "Ps" else None
+                if ps:
+                    last_psalm = ps
+                    items.append({"book": book, "leaf": leaf, "text": l["text"], "para": True, "psalm": ps,
+                                  "cands": [], "hc": hc, "hv": hv, "head": head})
+                    m["psalm_titles_read"] += 1
+                    continue
+                if reader == "kd":
+                    cands = kd_cands(l["text"])
+                else:
+                    c = sc_cand(l["text"], reader) if para else None
+                    cands = [(0, c)] if c else []
+                items.append({"book": book, "leaf": leaf, "text": l["text"], "para": para,
+                              "cands": cands, "hc": hc, "hv": hv, "head": head})
+                prev = l["text"]
+            if foot:
+                m["footnote_lines"] += len(foot)
+                t = ""
+                for l in foot:
+                    t = C.join(t, l["text"])
+                items.append({"book": book, "leaf": leaf, "text": t, "foot": True, "cands": [], "hc": hc, "hv": hv})
+    # heads confirmed by the nearest headed leaves (a verso head may name only
+    # the book): sure when a neighbour agrees, or the chapter lies between them
+    headed = {}
+    for it in items:
+        if it["hc"] is not None:
+            headed.setdefault(it["leaf"], (it["book"], it["hc"]))
+
+    def near(leaf, book, step):
+        for k in range(1, 4):
+            h = headed.get(leaf + step * k)
+            if h:
+                return h[1] if h[0] == book else None
+        return None
+    for it in items:
+        hn, hp = near(it["leaf"], it["book"], 1), near(it["leaf"], it["book"], -1)
+        it["hc_next"] = hn
+        it["hsure"] = it["hc"] is not None and (it["hc"] in (hn, hp) or (
+            hn is not None and hp is not None and hp <= it["hc"] <= hn))
+    # which numbering the volume's own verses are in (Keil & Delitzsch only)
+    numbering = {}
+    if reader == "kd":
+        for book in kjv_counts:
+            pairs = []
+            seen_heads = set()
+            for it in items:
+                if it["book"] != book or it["hc"] is None:
+                    continue
+                if it["leaf"] not in seen_heads:
+                    seen_heads.add(it["leaf"])
+                    pairs += [(book, it["hc"], v) for v in it["hv"]]
+                pairs += [(book, it["hc"], o[1]) for _, o in it["cands"]]
+                pairs += [(book, it["hc"], o[2]) for _, o in it["cands"] if o[2]]
+            v = numbering_votes(pairs, ids)
+            v["decision"] = decide(v)
+            numbering[book] = v
+        m["numbering_own"] = numbering
+    counts = {}
+    for book in kjv_counts:
+        if numbering.get(book, {}).get("decision") == "hebrew":
+            counts[book] = heb_counts(book)
+        elif numbering.get(book, {}).get("decision") == "undecided":
+            hc_ = heb_counts(book)
+            counts[book] = {c: max(n, hc_.get(c, 0)) for c, n in kjv_counts[book].items()}
+        else:
+            counts[book] = kjv_counts[book]
+    decoders = {}
+    for book in counts:
+        d = HeadDecoder(counts[book])
+        if reader == "kd":
+            d.GAP, d.USE_HV = 30, False     # K&D's heads give the page's verses, not a bound on the notes
+        d.c = s.get("first_chapter", {}).get(book, 1)     # a volume continuing a book starts where it does
+        decoders[book] = d
+    notes = decode_2b(slug, items, decoders, pp, m)
+    for key, nu in notes.items():
+        book = nu["book"]
+        if nu["c"] is None:
+            ref, links = f"{note_ref(s, book)}, before the first note", []
+        elif nu.get("intro"):
+            ref, links = f"{note_ref(s, book)} {nu['c']}, introduction", []
+        else:
+            vs = range(nu["n"], (nu["e"] or nu["n"]) + 1)
+            nb = numbering.get(book, {}).get("decision")
+            if nb:                  # an OT volume: its numbering measured, the Hebrew mapped
+                links = [dict(ot_link(book, nu["c"], v, nb, ids, "comments-on"), type="comments-on") for v in vs]
+                for lk in links:
+                    lk.pop("rule", None)
+            else:
+                links = [{"target": f"kjv:{book}.{nu['c']}.{v}", "type": "comments-on",
+                          "resolved": f"kjv:{book}.{nu['c']}.{v}" in ids} for v in vs]
+            ref = note_ref(s, book, nu["c"], nu["n"], nu["e"])
+        u = {"id": f"{slug}:{key}", "ref": ref, "kind": "intro" if nu.get("intro") else "note", "book": book,
+             "text": nu["text"], "links": links, "scan": {"leaves": nu["leaves"]}}
+        if nu["pages"]:
+            u["scan"]["printed_pages"] = nu["pages"]
+        if nu["notes"]:
+            u["notes"] = nu["notes"]
+        units.append(u)
+    order = {"page": 0, "epistle-text": 0, "intro": 1, "note": 1}
+    units.sort(key=lambda u: (min(u["scan"]["leaves"]), order[u["kind"]]))
+    return units, m, (a0, b0), pp
+
+
+class HeadDecoder(Decoder):
+    """The base sequence, with three ways out of a missed chapter turn, each
+    only where the base sequence refuses the number and only FORWARD:
+    (1) a running head confirmed by its neighbours (hsure) names a later
+    chapter that has the verse (K&D open a chapter's notes wherever its first
+    section starts, 'Vers. 7-17', not at verse 1-4); (2) a chapter printed
+    with the number ('VII. 1-40.', Alford's section heads) names a later
+    chapter, at its verse 1-3, the page's running head names the same
+    chapter, and the next numbers read go on from there;
+    (3) three refusals running, each under a running head naming the same
+    later chapter, which has the verse: the sequence was lost, the heads
+    agree, follow them."""
+
+    USE_HV = True
+
+    def __init__(self, counts):
+        super().__init__(counts)
+        self.stuck = []
+
+    def offer(self, n, e, hc, hv, cp=None, hsure=False, ahead=()):
+        if not self.USE_HV:
+            hv = ()
+        nxt = [a for a in list(ahead)[:2]]
+        if cp is not None and cp > self.c and len(nxt) == 2 and all(
+                a[0] is None and self.v < a[1] <= self.counts.get(self.c, 0) and a[1] > n + 3 for a in nxt):
+            return None         # 'IV. 1' while the numbers after it go on in this chapter: a reference
+        r = super().offer(n, e, hc, hv, cp, hsure, ahead)
+        if r is not None:
+            self.stuck = []
+            return r
+        later = lambda c: c is not None and self.c < c <= self.nch and n <= self.counts.get(c, 0)  # noqa: E731
+        if cp is None and hsure and later(hc) and (not hv or n <= max(hv) + 2):
+            r = self._take(hc, n, e)
+        elif cp is not None and later(cp) and cp == hc and n <= 3 \
+                and all(a[0] is None and n <= a[1] <= n + 12 for a in list(ahead)[:2]):
+            r = self._take(cp, n, e)
+        elif cp is None and later(hc):
+            self.stuck.append(hc)
+            if len(self.stuck) >= 3 and len(set(self.stuck[-3:])) == 1:
+                r = self._take(hc, n, e)
+        else:
+            self.stuck = []
+        if r is not None:
+            self.stuck = []
+        return r
+
+
+def decode_2b(slug, items, decoders, pp, m):
+    """The verse sequence over the reading-order lines: each candidate opener
+    is offered to its book's Decoder (seeing the next few candidates); a
+    number far ahead of the sequence while a nearer one follows close behind
+    is a misreading and is refused."""
+    notes = collections.OrderedDict()
+    current = {}
+    flat = [(i, j) for i, it in enumerate(items) for j in range(len(it["cands"]))]
+    seg, k = [], 0
+    for it in items:
+        k += 1 if it.get("psalm") else 0
+        seg.append((it["book"], k))       # a psalm's title closes the look-ahead
+    ahead = {}
+    for k, (i, j) in enumerate(flat):
+        ahead[(i, j)] = [items[i2]["cands"][j2][1][:2] for i2, j2 in flat[k + 1:k + 7] if seg[i2] == seg[i]]
+
+    def unit(key, book, c=None, n=None, e=None):
+        return notes.setdefault(key, {"book": book, "c": c, "n": n, "e": e, "text": "", "leaves": [], "pages": [],
+                                      "notes": []})
+
+    def put(key, text, leaf, para):
+        nu = notes[key]
+        if text:
+            nu["text"] = nu["text"] + "\n" + text if (para and nu["text"]) else C.join(nu["text"], text)
+        if leaf not in nu["leaves"]:
+            nu["leaves"].append(leaf)
+            if leaf in pp and pp[leaf][0] not in nu["pages"]:
+                nu["pages"].append(pp[leaf][0])
+
+    for i, it in enumerate(items):
+        book, leaf = it["book"], it["leaf"]
+        dec = decoders[book]
+        pre = ids_prefix(slug, book)
+        if current.get(book) is None:
+            current[book] = f"{pre}title"
+            unit(current[book], book)
+        if it.get("foot"):
+            unit(current[book], book)["notes"].append(it["text"])
+            put(current[book], "", leaf, False)
+            continue
+        if it.get("psalm"):
+            # a psalm's title line: the sequence moves to it, and what precedes its first verse note
+            # (Delitzsch's introduction to the psalm) is the unit <c>.intro
+            dec.c, dec.v = it["psalm"], 0
+            current[book] = f"{pre}{it['psalm']}.intro"
+            unit(current[book], book, it["psalm"])["intro"] = True
+            put(current[book], it["text"], leaf, True)
+            continue
+        hc = it["hc"]
+        if hc is None and it.get("hc_next") is not None and it["hc_next"] > dec.c:
+            hc = it["hc_next"]
+        pos, para = 0, it["para"]
+        for j, (p, o) in enumerate(it["cands"]):
+            cp, n, e, how = o
+            nxt = ahead[(i, j)]
+            if cp is None and n > dec.v + 1 and any(a[0] is None and dec.v < a[1] < n for a in nxt[:3]):
+                m["openers_out_of_sequence"] += 1
+                continue
+            took = dec.offer(n, e, hc, it["hv"], cp, it["hsure"], nxt)
+            m["openers_accepted" if took else "openers_rejected"] += 1
+            if not took:
+                continue
+            c, n2, _ = took
+            e2 = e if (e and n2 < e <= dec.counts.get(c, 0) and e - n2 <= 60) else None
+            put(current[book], it["text"][pos:p].strip(), leaf, para)
+            key = f"{pre}{c}.{n2}" + (f"-{e2}" if e2 else "")
+            unit(key, book, c, n2, e2)
+            current[book] = key
+            pos, para = p, True
+        put(current[book], it["text"][pos:].strip(), leaf, para)
+    return notes
+
+
+def harvest_2b(slug, units, ids):
+    """Scripture in the second shelf's units. Alford and Bengel: the English
+    references in the KJV's numbering, as the first shelf. Keil & Delitzsch:
+    which numbering the volume cites the OT in is MEASURED (existence votes,
+    Psalms and the other OT books apart), and each OT reference is resolved in
+    it, the Hebrew through data/versification/bhs-kjv.json."""
+    s = SCANS[slug]
+    if s["reader"] != "kd":
+        n = r = 0
+        own_single = s["epistles"][0][0] if len(s["epistles"]) == 1 else None
+        for u in units:
+            book = u.get("book") or own_single
+            ch = None
+            if u["kind"] == "note":
+                mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
+                ch = int(mm.group(1)) if mm else None
+            text = u["text"] + " " + " ".join(u.get("notes", []))
+            found = scripture(text, ids, own=book if u["kind"] in ("note", "page") else None, chapter=ch)
+            u["links"] += found
+            n += len(found)
+            r += sum(1 for x in found if x["resolved"])
+        return n, r, {}
+    import versification as V
+    parsed = []
+    votes = {"Ps": [], "other": []}
+    for u in units:
+        text = u["text"] + " " + " ".join(u.get("notes", []))
+        refs = FS.parse("¶ " + text, "eng")
+        parsed.append(refs)
+        for book, kind, ch, v, end, alt in refs:
+            if kind == "kjv" and v is not None and book in V.BOOKS:
+                votes["Ps" if book == "Ps" else "other"].append((book, ch, v))
+    measure = {}
+    for k, pairs in votes.items():
+        vv = numbering_votes(pairs, ids)
+        vv["decision"] = decide(vv)
+        measure[k] = vv
+    own_num = {}
+    n = r = 0
+    for u, refs in zip(units, parsed):
+        found, seen = [], set()
+        for ref in refs:
+            book, kind, ch, v, end, alt = ref
+            p = FS.printed(ref)
+            if p in seen:
+                continue
+            seen.add(p)
+            if kind != "kjv":
+                found.append({"ref": p, "resolved": False, "why": "a book outside the KJV", "rule": "text/kjv"})
+                continue
+            if v is None:
+                found.append({"ref": p, "resolved": False, "why": "cites a whole chapter, not a verse", "rule": "text"})
+                continue
+            if book in V.BOOKS:
+                cls = "Ps" if book == "Ps" else "other"
+                x = dict(ref=p, **ot_link(book, ch, v, measure[cls]["decision"], ids, f"text/{cls}"))
+            else:
+                t = f"kjv:{book}.{ch}.{v}"
+                x = ({"ref": p, "target": t, "resolved": True, "numbering": "kjv", "rule": "text/nt"} if t in ids else
+                     {"ref": p, "resolved": False, "why": "no such verse in the KJV", "rule": "text/nt"})
+            found.append(x)
+        if u["kind"] == "note" and u.get("book"):
+            mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
+            if mm:
+                b, c = u["book"], int(mm.group(1))
+                nb = own_num.setdefault(b, s["_numbering"].get(b, {}).get("decision", "kjv"))
+                for mt in SELF_VER.finditer(u["text"]):
+                    for v in [int(mt.group(1))] + [int(x) for x in re.findall(r'\d{1,2}', mt.group(2))]:
+                        p = f"{b} {c}:{v}"
+                        if p not in seen:
+                            seen.add(p)
+                            found.append(dict(ref=p, **ot_link(b, c, v, nb, ids, "self/ver")))
+                for mt in KD_CHAP.finditer(u["text"]):
+                    c2 = FS.roman(mt.group(1))
+                    p = f"{b} {c2}:{mt.group(2)}"
+                    if c2 and p not in seen and c2 <= max(heb_counts(b)):
+                        seen.add(p)
+                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids, "self/chap")))
+        u["links"] += found
+        n += len(found)
+        r += sum(1 for x in found if x.get("resolved"))
+    return n, r, {"numbering_references": measure}
+
+
+KD_CHAP = re.compile(r'\b(?:chap|ch)\.\s*([ivxlc]{1,8})\.\s*(\d{1,3})\b')   # 'chap. ii. 4': the same book
+HEBREW = re.compile(r'[֐-׿]')
+
+
+def honesty_2b(slug):
+    s = SCANS[slug]
+    if s["reader"] == "alford":
+        return ("notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline "
+                "('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a "
+                "bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, "
+                "accepted when the verse sequence (and the fuzzily read running head) allows it; every following "
+                "line, left column then right, belongs to it; boundaries are only as good as the numbers read off "
+                "the page, and a misread or rejected number merges a verse's notes into the verse before (counts in "
+                "measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it "
+                "(apparatus) and the marginal references run into the text; every other page by scan leaf "
+                "(leaf.N, the folio in scan.printed_page where read); unproofread OCR")
+    if s["reader"] == "bengel":
+        return ("notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse "
+                "number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head "
+                "allow it; following paragraphs belong to it until the next; the translator's footnotes (the "
+                "smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only "
+                "as good as the numbers read off the page (counts in measure); every other page by scan leaf "
+                "(leaf.N); unproofread OCR")
+    return ("notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or "
+            "'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. "
+            "14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next "
+            "section, belong to it until the next accepted opener; ids are in the numbering the volume prints, "
+            "MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the "
+            "Hebrew's; the OT references in the text are resolved in the numbering measured for them "
+            "(measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the "
+            "Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the "
+            "text as printed by the OCR, unremoved; unproofread OCR")
+
+
+def citation_2b(slug):
+    lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
+    extra = ", in the numbering the volume prints (scheme.numbering)" if SCANS[slug]["reader"] == "kd" else ""
+    text = "leaf.N.text; " if SCANS[slug]["reader"] == "alford" else ""
+    return (f"note: {lead} of the verse commented on{extra} (a run of verses: {lead}-end); {text}everything else: "
+            "scan leaf (leaf.N; folio in scan.printed_page)")
+
+
+def build_book_2b(slug, ids):
+    """build_book for the second shelf: the same book shape, with the reader,
+    the numbering measured, and Hebrew retention in measure."""
+    s = SCANS[slug]
+    units, m, (a0, b0), pp = build_scan_2b(slug, ids)
+    s["_numbering"] = m.get("numbering_own", {})
+    rights = {"license": f"public domain in the US (printed {s['printed']}); the scan and its OCR are the "
+                         "Internet Archive's",
+              "ia_possible_copyright_status": s["ia_rights"] or "(the item's metadata carries no rights field)",
+              "attribution": f"Internet Archive, {s['ia']} ({s['copy']} copy)",
+              "source_url": f"https://archive.org/details/{s['ia']}",
+              "redistribute_whole": True}
+    m["printed_page_read"] = sum(1 for x in pp.values() if x[1] == "read")
+    m["printed_page_from_neighbours"] = sum(1 for x in pp.values() if x[1] != "read")
+    n_links, n_resolved, extra = harvest_2b(slug, units, ids)
+    numbering_own = m.pop("numbering_own", None)
+    kinds = collections.Counter(u["kind"] for u in units)
+    measure = {"units": dict(sorted(kinds.items())), **dict(sorted(m.items()))}
+    cov = {}
+    for b, _, _ in s["epistles"]:
+        allv = {k for k in ids if k.startswith(f"kjv:{b}.")}
+        cl = lambda u: [x for x in u["links"] if x.get("type") == "comments-on"]  # noqa: E731
+        have = {x["target"] for u in units if u["kind"] == "note" and u.get("book") == b
+                for x in cl(u) if x.get("resolved")}
+        single = {x["target"] for u in units if u["kind"] == "note" and u.get("book") == b
+                  for x in cl(u) if x.get("resolved") and len(cl(u)) == 1}
+        chs = sorted({int(t.rsplit(".", 2)[1]) for t in have})
+        cov[b] = {"kjv_verses": len(allv), "commented": len(have), "with_own_note": len(single)}
+        if chs and (chs[0] > 1 or chs[-1] < max(verse_counts(ids, b))):
+            # a volume holding part of a book: the verses of the chapters its notes reach
+            cov[b]["chapters"] = [chs[0], chs[-1]]
+            cov[b]["kjv_verses_in_chapters"] = sum(1 for k in allv if chs[0] <= int(k.rsplit(".", 2)[1]) <= chs[-1])
+    measure["kjv_coverage"] = cov
+    measure["scripture_links"] = {"read": n_links, "resolved": n_resolved}
+    if numbering_own is not None:
+        measure["numbering_own"] = numbering_own
+    measure.update(extra)
+    measure["greek"] = greek_measure(u["text"] for u in units)
+    letters = heb = 0
+    for u in units:
+        letters += sum(c.isalpha() for c in u["text"])
+        heb += len(HEBREW.findall(u["text"]))
+    measure["hebrew"] = {"hebrew_letters": heb, "hebrew_share_of_letters": round(heb / letters, 4) if letters else 0}
+    scheme = {"citation": citation_2b(slug), "resolution": "verse-note", "honesty": honesty_2b(slug), "status": "draft"}
+    if numbering_own is not None:
+        scheme["numbering"] = {b: v["decision"] for b, v in numbering_own.items()}
+    if s.get("lane_a"):
+        scheme["same_scan_as"] = "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)"
+    if s.get("scan_choice"):
+        scheme["scan_choice"] = s["scan_choice"]
+    source = {"format": "ia-hocr", "sha256": s["sha256"], "ia": s["ia"], "leaves": [a0, b0]}
+    s.pop("_numbering", None)
+    return {"slug": slug, "title": s["title"], "author": s["author"], "edition": s["edition"], "source": source,
+            "scheme": scheme, "rights": rights, "measure": measure, "units": units}
+
+
 # ------------------------------------------------------------------ books
 
 
@@ -1186,6 +2120,8 @@ def citation(slug, ocr):
 
 
 def build_book(slug, ids):
+    if slug in SECOND:
+        return build_book_2b(slug, ids)      # the second shelf's reader
     ocr = slug in SCANS
     if ocr:
         s = SCANS[slug]
