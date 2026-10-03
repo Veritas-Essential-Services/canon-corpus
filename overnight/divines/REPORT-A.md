@@ -580,3 +580,6 @@
 
 ## 2026-10-03 06:00 CDT — phillips-brooks done
 - `pipeline/phillips-brooks_shelf.json`: 4 IA + 1 Gutenberg, title pages read. `--verify --record`: 0 mismatched. OCR 99.1% mean. 0 uids minted.
+
+## 2026-10-03 06:04 CDT — richard-watson-methodist done
+- `pipeline/richard-watson-methodist_shelf.json`: 2 IA + 1 Gutenberg, title pages read. `--verify --record`: 0 mismatched. OCR 98.1%. 0 uids minted.

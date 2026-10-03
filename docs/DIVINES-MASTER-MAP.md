@@ -2003,6 +2003,15 @@ Slugs `pbrooks-*` (Thomas Brooks has the `brooks-*` slugs). Name forms are full 
 | Lectures on Preaching (1877); Sermons, first series (catalogued 1878); New Starts in Life (8th series, 1896); Seeking Life (10th series, 1904) | have-ocr | IA, OCR 97.7-99.4% |
 | Addresses | have-clean | Gutenberg 14497 |
 | The Purpose and Use of Comfort (1906) | pending | IA HTTP 500 |
+
+## Richard Watson, Methodist (round 12, my pick, 2026-10-03)
+
+Slugs `rwatson-*`. Not Bishop Richard Watson of Llandaff; Thomas Watson the Puritan is on the `watson` shelf.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological Institutes, 2 vols (Lane & Scott, 1851, 1850) | have-ocr | IA, OCR 98% |
+| A Biblical and Theological Dictionary | have-clean | Gutenberg 53884 |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
