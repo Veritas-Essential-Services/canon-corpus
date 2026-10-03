@@ -77,3 +77,8 @@ I grepped each name across every shelf, fetch_sources.py and the four queues fir
 - **Nicholson:** Hujwiri's Kashf al-Mahjub (Gutenberg 64786) and Selected Poems from the Divani Shamsi Tabriz (1898). The Divani is raw OCR at 0.79 because the Persian text faces the English. Its OCR spells the name "Nichqlson", so that file is in `_identity_checked`.
 - The surname checks for "sale" and "arnold" are weak (a common word, and another Arnold), so the Gutenberg header's Translator line is the evidence for those two (`_checks`).
 - **Your call:** scripture of living religions. These are 19th-century scholarly translations, all PD. Veto any you would rather not host.
+
+## Second review round — 2026-10-02T19:56-05:00 (the roving reviewer)
+- **Bare surnames tightened.** "rose" matches "the sun rose", so the identity check passed on almost any text. Eleven shelves now require the full name: Rose, Sale, Edwin Arnold, Bayard Taylor, Charles Cotton, Charlotte Guest, E. W. Lane, John Payne, the Gileses, Eliot Norton and Richard Burton. Every source still passes.
+- **Shelton vol. 2** passed only because of a publisher's ad at the back; its title page is OCR'd as "Thomas Sbelton". That title page was read by eye, and the reading is recorded in the shelf.
+- **Found while checking: Palmer's Qur'an had part II twice and no part I.** Both IA copies held chapters XVII-CXIV. Part I (SBE 6, Michigan copy) now replaces the duplicate, and its title page reads "translated by E. H. Palmer, part I, chapters I to XVI".

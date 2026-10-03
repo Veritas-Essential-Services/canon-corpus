@@ -96,7 +96,8 @@
    "years_in_front_15k": [
     1900
    ],
-   "post_1930_years_in_front_15k": []
+   "post_1930_years_in_front_15k": [],
+   "title_page_reads": "Translated by Thomas Sbelton [OCR for Shelton], in three vols., vol. II, London: Macmillan, 1900"
   },
   "shelton-quixote-3": {
    "ia": "historyofvalorou03cerviala",
@@ -105,5 +106,8 @@
    "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_notes": {
+  "shelton-quixote-2": "The opening pages name him, but OCR spells the title page 'Translated by Thomas Sbelton ... vol. II ... Macmillan 1900'. The only correctly spelled 'Shelton' is a publisher's advertisement at the back, so the automatic check passes for the wrong reason; the title page was read by eye 2026-10-03."
+ }
 }

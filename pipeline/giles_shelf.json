@@ -4,7 +4,9 @@
   "giles"
  ],
  "_surname": [
-  "giles"
+  "a. giles",
+  "allen giles",
+  "lionel giles"
  ],
  "ccel": {},
  "gutenberg": {
@@ -70,7 +72,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "giles",
+   "author_seen": "a. giles",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Herbert Allen Giles"
@@ -79,7 +81,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "giles",
+   "author_seen": "a. giles",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Herbert Allen Giles"
@@ -88,7 +90,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "giles",
+   "author_seen": "lionel giles",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lionel Giles"
@@ -97,7 +99,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "giles",
+   "author_seen": "a. giles",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lionel Giles"
@@ -125,5 +127,6 @@
    "pg_translator": "Lionel Giles"
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03)."
 }

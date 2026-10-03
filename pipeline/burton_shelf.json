@@ -265,190 +265,193 @@
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
  "_surname": [
-  "burton"
+  "richard burton",
+  "f. burton",
+  "francis burton"
  ],
  "_checks": {
   "burton-nights-01": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-02": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-03": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-04": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-05": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-06": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-07": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-08": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-09": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-nights-10": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "richard burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-3a": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-3b": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "richard burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-4": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "richard burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-5": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-supplemental-6": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "richard burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-lusiads-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "francis burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-lusiads-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "francis burton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton"
   },
   "burton-camoens-lyricks": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "burton",
+   "author_seen": "f. burton",
    "identity": "ok",
    "ia_rights": "ok: published 1884",
    "ia_date": "1884",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
- }
+ },
+ "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03)."
 }

@@ -2943,7 +2943,8 @@ Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `palmer-quran` | The Qur'an | The Qur'an | E. H. Palmer | 1880 | have-raw | IA `thequraan09unknuoft` + IA `qurn01unkngoog` |
+| `palmer-quran` | The Qur'an | The Qur'an | E. H. Palmer | 1880 | have-raw | IA `1922707.0006.001.umich.edu` + IA `thequraan09unknuoft` |
+| — | — | qurn01unkngoog: Google copy of part II, a duplicate of the Toronto copy (both hold chapters XVII-CXIV; found in the second review round 2026-10-03). Toronto kept for its better OCR. | — | — | excluded | — |
 
 ## E. H. Whinfield (Rumi's Masnavi)
 

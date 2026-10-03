@@ -68,3 +68,6 @@
 
 ## 2026-10-02T19:53-05:00 — round 6: eight translator shelves (muller, edwin-arnold, griffith, rodwell, sale, palmer, whinfield, nicholson)
 - 14 sources fetched, 0 failed after one identity override (Nicholson Divani, OCR "Nichqlson"). 11 titles cut, 0 failed. `--verify --record`: 0 mismatched, 0 rights flags. Front-matter scan over rounds 5-6: one flag, a 2019 digitisation credit (examined, recorded).
+
+## 2026-10-02T19:56-05:00 — second review round
+- 11 shelves: full-name `_surname`; Shelton vol. 2 title page recorded; Palmer part I fetched (part II had been fetched twice). `--verify --record` re-run on 13 shelves: 0 mismatched, 0 rights flags.
