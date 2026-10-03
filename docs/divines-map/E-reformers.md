@@ -126,6 +126,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
 | Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
 | M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819); the Reformation in Italy and in Spain (1842 reprints) | have-raw | `thomas-mccrie_shelf.json` |
+| M'Crie, Sketches of Scottish Church History (1849, Google scan); his Life, by his son (1842) | have-raw | `thomas-mccrie_shelf.json` |
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
 | Sermons Delivered in Times of Persecution in Scotland, ed. Kerr (1880) | have-raw | `covenanter-sermons_shelf.json`; name check on the editor |
@@ -205,10 +206,11 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Pictet, Christian Theology, tr. Reyroux (London, 1834) | have-raw | `benedict-pictet_shelf.json`; translator checked |
 | Merle d'Aubigné, History of the Reformation of the Sixteenth Century, tr. White (ATS, 5 vols) | have-raw | `merle-daubigne_shelf.json`; translator checked |
 | Merle d'Aubigné, History of the Reformation in Europe in the Time of Calvin (Longmans, 1863-78, 8 vols) | have-raw | `merle-daubigne_shelf.json`; Cates checked on vols 6-8 |
+| Merle d'Aubigné, The Protector: a Vindication (1848) | have-raw | `merle-daubigne_shelf.json` |
 | Zanchius, Absolute Predestination, tr. Toplady | have | in lane A's Toplady Works |
 | Brandt, History of the Reformation in the Low-Countries (1720-23, 4 vols) | pending | ECCO OCR too broken to read two volumes' numbers |
 | Baird, Rise of the Huguenots (2 vols, 1879); Huguenots and Henry of Navarre (2 vols, 1886); Huguenots and the Revocation (1895, vol. 1); Theodore Beza (1899) | have-raw | `henry-baird_shelf.json`; Revocation vol. 2 pending |
-| Wylie, The History of Protestantism (Cassell, 3 vols) | have-raw | `james-wylie_shelf.json` |
+| Wylie, The History of Protestantism (Cassell, 3 vols); The Papacy (1852); Daybreak in Spain ([1870]) | have-raw | `james-wylie_shelf.json` |
 | Muston, The Israel of the Alps, tr. Montgomery (Blackie, 1875, 2 vols) | have-raw | `alexis-muston_shelf.json` |
 | Turretin on the Atonement of Christ, tr. Willson (New York, 1859) | have-raw | `turretin_shelf.json`; translator checked; the full Institutes are in copyright (1992) |
 
