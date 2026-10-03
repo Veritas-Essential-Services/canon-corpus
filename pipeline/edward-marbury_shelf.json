@@ -1,0 +1,35 @@
+{
+ "_about": "Edward Marbury (fl. 1649), rector of St James, Garlickhithe: A Commentary or Exposition upon the Prophecy of Obadiah, and upon the Prophecy of Habakkuk (1865). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "marbury"
+ ],
+ "_surname": [
+  "marbury"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marbury-obadiah-habakkuk-1865": [
+   "commentaryorexpo00marb",
+   "A Commentary or Exposition upon the Prophecies of Obadiah and Habakkuk (Edinburgh: Nichol, 1865)"
+  ]
+ },
+ "_alternates": {
+  "commentaryorexpo00marbuoft": "Toronto copy (IA dates it 1885).",
+  "abriefcommentar00marbgoog": "1649 printing of the Obadiah, Google scan."
+ },
+ "_excluded": {},
+ "_checks": {
+  "marbury-obadiah-habakkuk-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -251,3 +251,21 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Dunlop, A Collection of Confessions of Faith (1719-22, 2 vols) | pending | only long-s 18th-century scans, OCR at about a third common words |
 | Sprott and Leishman, Book of Common Order (Knox's Liturgy) and the Westminster Directory (1868) | have-raw | `george-sprott_shelf.json` |
 | Sprott, Scottish Liturgies of the Reign of James VI (revised, 1901); The Worship and Offices of the Church of Scotland (1882) | have-raw | `george-sprott_shelf.json` |
+
+## Nichol's Series of Commentaries (Puritan expositors)
+
+Edinburgh: James Nichol, 1863-1869, general editor Thomas Smith. Lane A already holds the Nichol works of Adams, Sibbes, Goodwin, Charnock, Manton, Brooks and Clarkson, Burroughs, and Thomas Fuller; these are the commentary volumes nobody had.
+
+| Work | Status | Where |
+|---|---|---|
+| Gouge, Commentary on the Whole Epistle to the Hebrews (3 vols, 1866-67) | have-raw | `william-gouge_shelf.json` |
+| Jenkyn on Jude, with Daillé on Philippians and Colossians (1865) | have-raw | `william-jenkyn_shelf.json` |
+| Greenhill, An Exposition of the Prophet Ezekiel (1864) | have-raw | `william-greenhill_shelf.json` |
+| Bayne, An Entire Commentary upon Ephesians (1866) | have-raw | `paul-bayne_shelf.json` |
+| Airay, Lectures upon Philippians (1864) | have-raw | `henry-airay_shelf.json` |
+| Byfield, An Exposition upon Colossians (1869) | have-raw | `nicholas-byfield_shelf.json` |
+| Stock on Malachi, with Torshell's Exercitation (1865) | have-raw | `richard-stock_shelf.json` |
+| King, Lectures upon Jonah (1864) | have-raw | `john-king_shelf.json`; Abbot on Jonah pending |
+| Marbury on Obadiah and Habakkuk (1865) | have-raw | `edward-marbury_shelf.json` |
+| Fuller, A Comment on Ruth and Notes upon Jonah (1868; commentonruthand00fullrich) | gap | belongs on lane A's `thomas-fuller_shelf.json`, not edited here |
+| Burroughs, Hall and Reynolds on Hosea (1863; expositionofprop00burr) | gap | check lane A's `burroughs_shelf.json` before adding |
