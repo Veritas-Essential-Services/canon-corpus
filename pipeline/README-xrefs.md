@@ -180,4 +180,12 @@ and nothing from it is written anywhere.
 - A verse the Treasury has no entry for, or whose entry neither alignment
   found, has no row.
 - The other Treasury scans on archive.org are lending-library items and are
-  not used.
+  not used. A third open scan, which would let a reference one scan read
+  stand on a 2-of-3 vote, was looked for on 2026-10-03 and not found:
+  archive.org's other five copies are all lending-only (1967, 1970, 1982,
+  and the 1992 *New Treasury*, a different book); its SwordSearcher plugin
+  is a module rip; Bagster's 1843 *Comprehensive Bible* (Google scan) is
+  the Treasury's ancestor, not the Treasury, so its references would not
+  vote on the same text; HathiTrust holds none of the Treasury's OCLC
+  numbers that Open Library lists, and its search refused this network.
+  Google Books' API was over its daily quota.
