@@ -1089,8 +1089,10 @@
     {
       "id": "ouida",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: ouida; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:23:39-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:23:39-05:00",
+      "finished": "2026-10-02T21:23:54-05:00",
+      "notes": "3/3 fetched (Gutenberg 5834, 75655, 50032), 2,223 units, 0 ~2 ids."
     },
     {
       "id": "stratton-porter",

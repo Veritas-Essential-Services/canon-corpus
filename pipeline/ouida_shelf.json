@@ -1,0 +1,68 @@
+{
+ "_about": "Ouida's (1839-1908) stories for children: Bimbi (The Nürnberg Stove, The Ambitious Rose Tree, Lampblack, Bandita, The Child of Urbino, Findelkind), A Dog of Flanders, The Nürnberg Stove, and Other Stories, and Moufflou and Other Stories (Lippincott 1910). The single-story books are held inside these collections. She died in 1908, so every edition is public domain. Her adult novels are left out. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Ouida (Maria Louise Ramé)",
+ "_name_words": [
+  "ouida",
+  "ramee",
+  "ramée"
+ ],
+ "_surname": [
+  "ouida",
+  "ramee",
+  "ramée",
+  "ramé"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ouida-bimbi": [
+   5834,
+   "Bimbi: Stories for Children"
+  ],
+  "ouida-moufflou": [
+   75655,
+   "Moufflou, and Other Stories"
+  ],
+  "ouida-dog-of-flanders-and-other-stories": [
+   50032,
+   "A Dog of Flanders, The Nürnberg Stove, and Other Stories",
+   {
+    "chapre_only": "(?:A DOG OF FLANDERS|THE NÜRNBERG STOVE|IN THE APPLE-COUNTRY|THE LITTLE EARL)$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ouida-dog-of-flanders": "PG 7766, A Dog of Flanders on its own: 91% of its long paragraphs are in PG 50032 (A Dog of Flanders, The Nürnberg Stove, and Other Stories), held here. Held once.",
+  "ouida-nurnberg-stove": "PG 20997, The Nürnberg Stove on its own (Lippincott, eighth edition): 87% of it is in PG 50032, held here. Held once.",
+  "ouida-findelkind": "PG 1367, Findelkind on its own: Bimbi (PG 5834), held here, prints the same story, and 78% of the long paragraphs match exactly. Held once."
+ },
+ "_checks": {
+  "ouida-bimbi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ouida",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ouida-moufflou": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ouida",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ouida-dog-of-flanders-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ouida",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

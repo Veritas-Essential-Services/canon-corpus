@@ -2056,6 +2056,19 @@ Shelf: `pipeline/francillon_shelf.json` (2026-10-02; added at the coordinator's 
 |---|---|---|
 | Gods and Heroes; or, The Kingdom of Jupiter | have | PG 45416, `francillon-gods-and-heroes` (1159 units) |
 
+## Ouida (Maria Louise Ramé)
+
+Shelf: `pipeline/ouida_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bimbi: Stories for Children | have | PG 5834, `ouida-bimbi` (740 units) |
+| Moufflou, and Other Stories | have | PG 75655, `ouida-moufflou` (333 units) |
+| A Dog of Flanders, The Nürnberg Stove, and Other Stories | have | PG 50032, `ouida-dog-of-flanders-and-other-stories` (1150 units) |
+| ouida-dog-of-flanders | excluded | PG 7766, A Dog of Flanders on its own: 91% of its long paragraphs are in PG 50032 (A Dog of Flanders, The Nürnberg Stove, and Other Stories), held here. Held once. |
+| ouida-nurnberg-stove | excluded | PG 20997, The Nürnberg Stove on its own (Lippincott, eighth edition): 87% of it is in PG 50032, held here. Held once. |
+| ouida-findelkind | excluded | PG 1367, Findelkind on its own: Bimbi (PG 5834), held here, prints the same story, and 78% of the long paragraphs match exactly. Held once. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
