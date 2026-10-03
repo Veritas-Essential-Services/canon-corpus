@@ -937,6 +937,8 @@ Shelf: `pipeline/pliny_shelf.json`. Bostock and Riley's Natural History, 6 vols.
 | The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 2 (1601) | Philemon Holland | `pliny-holland-natural-history-v2` | have-raw (IA `plinyhollandhistorie02`) |
 | The Letters of the Younger Pliny, literally translated (Kegan Paul, Trench, 1890) | John Delaware Lewis | `pliny-younger-lewis-letters` | have-raw (IA `lettersyoungerp00plingoog`) |
 | The Letters of the Younger Pliny, Second Series: Books VI-X (London and Felling-on-Tyne: Walter Scott Publishing Co.; no printed date, see _rights_checked) | John B. Firth | `pliny-younger-firth-letters-2` | have-raw (IA `in.ernet.dli.2015.38111`) |
+| The Letters of Pliny the Younger, with observations on each letter and an essay on Pliny's life, vol. I (Vaillant, 1751) | John, Earl of Orrery | `pliny-orrery-letters-1751-v1` | have-raw (IA `lettersplinyyou00plingoog`) |
+| The Letters of Pliny the Younger, with observations, vol. II, the second edition (Vaillant, 1752) | John, Earl of Orrery | `pliny-orrery-letters-1752-v2` | have-raw (IA `lettersplinyyou02plingoog`) |
 
 Pending (wishlist): a printed date for Firth's Second Series (the DLI scan has none).
 
