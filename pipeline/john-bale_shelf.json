@@ -1,0 +1,34 @@
+{
+ "_about": "John Bale (1495-1563), Bishop of Ossory: Select Works, Parker Society ed. Henry Christmas (1849). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "bale"
+ ],
+ "_surname": [
+  "bale"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bale-ps-select": [
+   "selectworksofjoh00baleuoft",
+   "Select Works of John Bale: the Examinations of Lord Cobham, William Thorpe and Anne Askewe, and The Image of Both Churches, ed. Henry Christmas (Parker Society, Cambridge, 1849)"
+  ]
+ },
+ "_alternates": {
+  "selectworksofbal00baleuoft": "Second Toronto copy."
+ },
+ "_excluded": {},
+ "_checks": {
+  "bale-ps-select": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
