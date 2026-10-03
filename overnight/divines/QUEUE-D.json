@@ -937,8 +937,10 @@
     {
       "id": "lucretia-hale",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: lucretia-hale; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:58:17-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:58:17-05:00",
+      "finished": "2026-10-02T21:04:12-05:00",
+      "notes": "2/2 fetched (Gutenberg 3028, 15546), 2,135 units, 1 ~2 ids."
     },
     {
       "id": "margaret-sidney",

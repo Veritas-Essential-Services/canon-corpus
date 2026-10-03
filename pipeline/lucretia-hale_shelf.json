@@ -1,0 +1,48 @@
+{
+ "_about": "Lucretia P. Hale's (1820-1900) comic Peterkin stories. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lucretia P. Hale",
+ "_name_words": [
+  "peterkin"
+ ],
+ "_surname": [
+  "hale"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lucretia-hale-peterkin-papers": [
+   3028,
+   "The Peterkin Papers"
+  ],
+  "lucretia-hale-last-of-the-peterkins": [
+   15546,
+   "The Last of the Peterkins, with Others of Their Kin",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "lucretia-hale-peterkin-papers-2": "PG 25648, a second transcription of The Peterkin Papers. Paragraph-start containment against PG 3028 measured 82% both ways, so it is the same text; held once (PG 3028)."
+ },
+ "_checks": {
+  "lucretia-hale-peterkin-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lucretia-hale-last-of-the-peterkins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

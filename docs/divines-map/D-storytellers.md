@@ -1825,6 +1825,16 @@ Shelf: `pipeline/coolidge_shelf.json` (2026-10-02; added at the coordinator's re
 | A Round Dozen | have | PG 35186, `coolidge-round-dozen` (1030 units) |
 | The New-Year's Bargain | have | PG 58762, `coolidge-new-years-bargain` (730 units) |
 
+## Lucretia P. Hale
+
+Shelf: `pipeline/lucretia-hale_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The comic Peterkin family stories. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Peterkin Papers | have | PG 3028, `lucretia-hale-peterkin-papers` (1288 units) |
+| The Last of the Peterkins, with Others of Their Kin | have | PG 15546, `lucretia-hale-last-of-the-peterkins` (847 units) |
+| lucretia-hale-peterkin-papers-2 | excluded | PG 25648, a second transcription of The Peterkin Papers. Paragraph-start containment against PG 3028 measured 82% both ways, so it is the same text; held once (PG 3028). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
