@@ -87,6 +87,16 @@
    "bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614",
    "The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614)",
    "tr. Thomas Lodge"
+  ],
+  "seneca-tenne-tragedies-v1": [
+   "senecahistennetr0000thom",
+   "Seneca his Tenne Tragedies, translated into English, ed. Thomas Newton 1581 (Tudor Translations, 1927), vol. 1",
+   "tr. Jasper Heywood, John Studley, Alexander Neville, Thomas Nuce, Thomas Newton (collected 1581); intro. T. S. Eliot (1927)"
+  ],
+  "seneca-tenne-tragedies-v2": [
+   "senecahistennetr0002thom",
+   "Seneca his Tenne Tragedies, translated into English, ed. Thomas Newton 1581 (Tudor Translations, 1927), vol. 2",
+   "tr. Jasper Heywood, John Studley, Alexander Neville, Thomas Nuce, Thomas Newton (collected 1581); intro. T. S. Eliot (1927)"
   ]
  },
  "_excluded": {
