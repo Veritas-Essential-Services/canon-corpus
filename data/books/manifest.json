@@ -29088,5 +29088,255 @@
    }
   },
   "built_sha256": "4d6f95a5bafcc6d47631f91e2fc08a7711de7fcc4bfb29c0e387f89732e0fac5"
+ },
+ "bengel-gnomon-2": {
+  "title": "Gnomon of the New Testament, vol. II",
+  "author": "J. A. Bengel",
+  "format": "ia-hocr",
+  "sha256": "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
+  "units": 2352,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "gnomonofnewtesta23beng (vols. II and III bound as one): Greek 6.3%, known 34.4%; cu31924092350523 (1877, vol. II) 5.9%/33.1%",
+   "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. II (Luke, John, Acts), tr. Andrew R. Fausset, seventh edition (1873), as its title page reads; bound with vol. III; scan leaves 9-754 of gnomonofnewtesta23beng"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, gnomonofnewtesta23beng (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/gnomonofnewtesta23beng",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 2348,
+    "page": 4
+   },
+   "footnote_lines": 1940,
+   "junk_lines_dropped": 25,
+   "leaves_commentary": 742,
+   "leaves_page": 4,
+   "openers_accepted": 2380,
+   "openers_out_of_sequence": 33,
+   "openers_rejected": 142,
+   "printed_page_from_neighbours": 24,
+   "printed_page_read": 165,
+   "kjv_coverage": {
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 788,
+     "with_own_note": 777
+    },
+    "John": {
+     "kjv_verses": 879,
+     "commented": 747,
+     "with_own_note": 744
+    },
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 812,
+     "with_own_note": 807
+    }
+   },
+   "scripture_links": {
+    "read": 4974,
+    "resolved": 4544
+   },
+   "greek": {
+    "greek_letters": 76095,
+    "greek_share_of_letters": 0.0585,
+    "greek_tokens_3plus": 12015,
+    "greek_tokens_in_reference_vocab": 0.3283,
+    "mixed_script_tokens": 57
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "4f0d5707776b8bf48c73512d4dbe9db4e6903e635bc024ee19a31e24c6dcd984"
+ },
+ "bengel-gnomon-3": {
+  "title": "Gnomon of the New Testament, vol. III",
+  "author": "J. A. Bengel",
+  "format": "ia-hocr",
+  "sha256": "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
+  "units": 1024,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "gnomonofnewtesta23beng (vols. II and III bound as one); cu31924092350499 (1877, vol. III): 0.0% Greek",
+   "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. III (Romans, Corinthians), tr. James Bryce, seventh edition (1873), as its own title page (leaf 755) reads; bound after vol. II; scan leaves 755-1199 of gnomonofnewtesta23beng"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, gnomonofnewtesta23beng (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/gnomonofnewtesta23beng",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 1022,
+    "page": 2
+   },
+   "footnote_lines": 1081,
+   "junk_lines_dropped": 10,
+   "leaves_commentary": 443,
+   "leaves_page": 2,
+   "openers_accepted": 1037,
+   "openers_out_of_sequence": 7,
+   "openers_rejected": 43,
+   "printed_page_from_neighbours": 25,
+   "printed_page_read": 354,
+   "kjv_coverage": {
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 393,
+     "with_own_note": 390
+    },
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 398,
+     "with_own_note": 395
+    },
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 221,
+     "with_own_note": 221
+    }
+   },
+   "scripture_links": {
+    "read": 3118,
+    "resolved": 2844
+   },
+   "greek": {
+    "greek_letters": 48767,
+    "greek_share_of_letters": 0.0687,
+    "greek_tokens_3plus": 7553,
+    "greek_tokens_in_reference_vocab": 0.376,
+    "mixed_script_tokens": 32
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "f0dca8074b2117664a0c0a7bedaab1a8f734cf44e0584828b1ef6d6a1c8d95ca"
+ },
+ "bengel-gnomon-4": {
+  "title": "Gnomon of the New Testament, vol. IV",
+  "author": "J. A. Bengel",
+  "format": "ia-hocr",
+  "sha256": "ac11e9768744c1f7d7b1b98a7b0acfb3a17aefa66b3d63c178fa5dd66a385e1c",
+  "units": 1076,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "cu31924092350507 (1877): Greek 7.5%, known 32.4%; gnomonofnewtesta03benguoft (1873): 0.0% Greek",
+   "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. IV (Galatians to Hebrews), tr. James Bryce, seventh edition (1877), as its title page reads; scan leaves 4-509 of cu31924092350507"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, cu31924092350507 (Cornell University Library copy)",
+   "source_url": "https://archive.org/details/cu31924092350507",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 1073,
+    "page": 3
+   },
+   "footnote_lines": 1377,
+   "junk_lines_dropped": 9,
+   "leaves_commentary": 502,
+   "leaves_page": 3,
+   "openers_accepted": 1083,
+   "openers_out_of_sequence": 23,
+   "openers_rejected": 87,
+   "printed_page_from_neighbours": 43,
+   "printed_page_read": 332,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 139,
+     "with_own_note": 138
+    },
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 131,
+     "with_own_note": 131
+    },
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 90,
+     "with_own_note": 90
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 88,
+     "with_own_note": 88
+    },
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 72,
+     "with_own_note": 72
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 38,
+     "with_own_note": 38
+    },
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 101,
+     "with_own_note": 101
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 74,
+     "with_own_note": 74
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 38,
+     "with_own_note": 37
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 21,
+     "with_own_note": 21
+    },
+    "Heb": {
+     "kjv_verses": 303,
+     "commented": 269,
+     "with_own_note": 267
+    }
+   },
+   "scripture_links": {
+    "read": 3927,
+    "resolved": 3603
+   },
+   "greek": {
+    "greek_letters": 59410,
+    "greek_share_of_letters": 0.0754,
+    "greek_tokens_3plus": 8914,
+    "greek_tokens_in_reference_vocab": 0.3293,
+    "mixed_script_tokens": 68
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "571e7819c52ff3de26a3c9791ffca4b44d8aa9b22b5c1881e7945c91a169ef6d"
  }
 }

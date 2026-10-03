@@ -1229,6 +1229,25 @@ SECOND = {
         "catalogue date is 1874", 1874, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (5, 1057),
         [("Heb", 307, 579), ("Jas", 580, 636), ("1Pet", 637, 694), ("2Pet", 695, 726), ("1John", 727, 821),
          ("2John", 822, 827), ("3John", 828, 834), ("Jude", 835, 849), ("Rev", 850, 1057)], True),
+    "bengel-gnomon-2": _bengel(
+        "II", "gnomonofnewtesta23beng", "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
+        f"{_BEN}, vol. II (Luke, John, Acts), tr. Andrew R. Fausset, seventh edition (1873), as its title page "
+        "reads; bound with vol. III", 1873,
+        "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (9, 754),
+        [("Luke", 13, 237), ("John", 238, 527), ("Acts", 528, 754)]),
+    "bengel-gnomon-3": _bengel(
+        "III", "gnomonofnewtesta23beng", "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
+        f"{_BEN}, vol. III (Romans, Corinthians), tr. James Bryce, seventh edition (1873), as its own title "
+        "page (leaf 755) reads; bound after vol. II",
+        1873, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (755, 1199),
+        [("Rom", 757, 960), ("1Cor", 961, 1110), ("2Cor", 1111, 1199)]),
+    "bengel-gnomon-4": _bengel(
+        "IV", "cu31924092350507", "ac11e9768744c1f7d7b1b98a7b0acfb3a17aefa66b3d63c178fa5dd66a385e1c",
+        f"{_BEN}, vol. IV (Galatians to Hebrews), tr. James Bryce, seventh edition (1877), as its title page reads", 1877,
+        "Cornell University Library", None, (4, 509),
+        [("Gal", 8, 66), ("Eph", 67, 125), ("Phil", 126, 163), ("Col", 164, 195), ("1Thess", 196, 218),
+         ("2Thess", 219, 244), ("1Tim", 245, 295), ("2Tim", 296, 323), ("Titus", 324, 333), ("Phlm", 334, 338),
+         ("Heb", 339, 509)]),
 }
 # How each scan was chosen, carried into the manifest (scheme.scan_choice), so a reader of the manifest
 # sees the other witnesses without opening this file.
