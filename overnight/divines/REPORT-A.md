@@ -506,3 +506,6 @@
 
 ## 2026-10-03 02:42 CDT — robert-candlish done
 - `pipeline/robert-candlish_shelf.json`: 6 IA volumes of raw OCR, median 98.5% (97.0-99.2%), about 4 MB; title pages read (1854-1875). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — hugh-martin done
+- `pipeline/hugh-martin_shelf.json`: 4 IA volumes of raw OCR, median 98.5%. Jonah names him only as "Dr. Huofh Martin" in the publisher's note and "H. M." under the preface, recorded in `_identity_checked`; it needed retries past HTTP 500. `--verify --record`: 0 mismatched. 0 uids minted.

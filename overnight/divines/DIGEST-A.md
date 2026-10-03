@@ -214,6 +214,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | Samuel Miller | samuel-miller_shelf.json | none | 6 (Letters on Clerical Manners, 1827; The Ruling Elder, Presbyterian Board printing; Infant Baptism, 1835; Letters on the Christian Ministry, 1809; Brief Retrospect of the Eighteenth Century, 1803, 2 vols) | none | the 1970 Burt Franklin reprint |
 | Ichabod Spencer | ichabod-spencer_shelf.json | none | 5 (A Pastor's Sketches, series 1, 1850, and series 2, 1853; Discourses on Sacramental Occasions, 1861; Sermons with memoir, 1885, 2 vols) | none | the 2001 Solid Ground reprint |
 | Robert S. Candlish | robert-candlish_shelf.json | none | 6 (Fatherhood of God, 1865; The Atonement, 1861; Life in a Risen Saviour, 1858; Examination of Maurice, 1854; Reason and Revelation, 1864; Ephesians, 1875) | none | Memorials of Candlish (1880), a book about him |
+| Hugh Martin | hugh-martin_shelf.json | none | 4 (The Atonement, 1877; The Prophet Jonah, 1889 reissue; Westminster Doctrine of Inspiration, 1890; Letters to Marcus Dods, 1877) | none | Gaelic items catalogued under him |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

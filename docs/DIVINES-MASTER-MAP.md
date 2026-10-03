@@ -1805,6 +1805,18 @@ Slugs `candlish-*`.
 | Examination of Mr. Maurice's Theological Essays (Nisbet, 1854) | have-raw | IA |
 | Reason and Revelation (Nelson, 1864) | have-raw | IA |
 | Paul's Epistle to the Ephesians, discourses (Black, 1875) | have-raw | IA |
+
+
+## Hugh Martin (round 11, my pick, 2026-10-03)
+
+Slugs `hmartin-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Atonement in its Relations to the Covenant, the Priesthood, the Intercession (Lyon and Gemmell, 1877) | have-raw | IA (identifiers in the shelf) |
+| The Prophet Jonah (Gemmell, 1889 reissue; preface 1866) | have-raw | IA |
+| The Westminster Doctrine of the Inspiration of Scripture (Nisbet, 1890) | have-raw | IA |
+| Letters to Marcus Dods (Nisbet, 1877) | have-raw | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
