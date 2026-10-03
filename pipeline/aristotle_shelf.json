@@ -138,6 +138,11 @@
    "politicseconomic00aris",
    "The Politics and Economics, with Gillies's introductory essay and life (Bohn, 1853)",
    "tr. Edward Walford"
+  ],
+  "aristotle-williams-ethics-1869": [
+   "nicomacheanet00aris",
+   "The Nicomachean Ethics of Aristotle (London: Longmans, Green, 1869)",
+   "tr. Robert Williams"
   ]
  },
  "_excluded": {
@@ -169,7 +174,8 @@
   "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon",
   "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham",
   "aristotle-mcmahon-metaphysics-1857": "M'Mahon",
-  "aristotle-walford-politics-economics-1853": "Edward Walford"
+  "aristotle-walford-politics-economics-1853": "Edward Walford",
+  "aristotle-williams-ethics-1869": "Williams"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -527,6 +533,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1853",
    "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-williams-ethics-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Williams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
