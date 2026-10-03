@@ -326,3 +326,8 @@
 - Diogenes Laertius: Hicks's Loeb (1925), whole Lives
 - Aristotle: Rackham's Nicomachean Ethics (Loeb 1926) as a second Ethics witness; Freese's Rhetoric refused (1947 printing in its record, no reason stated)
 - Apollodorus: Frazer's Epitome joins his Library
+
+## 2026-10-03 01:38 CDT — Perseus 'check' rows: Isaeus (Forster), Xenophon (Miller)
+- Isaeus: Forster's Loeb (1927), twelve speeches; Perseus keyed the 1962 printing, reason in _rights_checked
+- Xenophon: Miller's Cyropaedia (Loeb 1914); the census's '1949' is Miller's death year
+- The census is now exhausted for lane B: what remains is post-1930 Loebs (Murray's and Vince's later Demosthenes, Harmon's and Babbitt's later volumes), modern translations (Svarlien's Pindar and Bacchylides), or other lanes' authors

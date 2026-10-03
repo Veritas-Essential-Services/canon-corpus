@@ -2035,6 +2035,7 @@ Shelf: `pipeline/xenophon_shelf.json`. Dakyns's complete Works of Xenophon (1890
 | On the Art of Horsemanship | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-the-art-of-horsemanship` | have (Perseus TEI `tlg0032.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
 | On Hunting | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-hunting` | have (Perseus TEI `tlg0032.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Minor Works of Xenophon: Memoirs of Socrates, The Banquet, Hiero, Economics, translated from the Greek by several hands (London: Walker and others, 1813) | several hands: the Banquet by James Welwood, the Economics by R. Bradley; the Memoirs and Hiero unnamed in the volume | `xenophon-several-hands-minor-works-1813` | have-raw (IA `minorworksofxeno00xenouoft`) |
+| Cyropaedia | Walter Miller (Loeb 1914) | `xenophon-perseus-miller-cyropaedia` | have (Perseus TEI `tlg0032.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here. Marchant's and Todd's Loebs (1923-25) are held above as Perseus TEI; Brownson's Hellenica and Anabasis and Miller's Cyropaedia are on PR #7 as Perseus TEI.
 
@@ -3539,6 +3540,18 @@ Shelf: `pipeline/isaeus_shelf.json`. Sir William Jones's Speeches of Isaeus (177
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Speeches of Isaeus in Causes concerning the Law of Succession to Property at Athens (London, 1779) | William Jones | `isaeus-jones-1779` | have-raw (IA `speechesofisaeus00isae`) |
+| On Behalf of Euphiletus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-behalf-of-euphiletus` | have (Perseus TEI `tlg0017.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate Of Pyrrhus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-pyrrhus` | have (Perseus TEI `tlg0017.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Apollodorus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-apollodorus` | have (Perseus TEI `tlg0017.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Aristarchus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-aristarchus` | have (Perseus TEI `tlg0017.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Ciron | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-ciron` | have (Perseus TEI `tlg0017.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Cleonymus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-cleonymus` | have (Perseus TEI `tlg0017.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Astyphilus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-astyphilus` | have (Perseus TEI `tlg0017.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Dicaeogenes | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-dicaeogenes` | have (Perseus TEI `tlg0017.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Hagnias | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-hagnias` | have (Perseus TEI `tlg0017.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Menecles | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-menecles` | have (Perseus TEI `tlg0017.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Nicostratus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-nicostratus` | have (Perseus TEI `tlg0017.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Philoctemon | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-philoctemon` | have (Perseus TEI `tlg0017.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Forster's Loeb (1927; Greek facing)
 

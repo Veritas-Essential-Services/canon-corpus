@@ -556,6 +556,14 @@
    "started": "2026-10-03T01:30:02-05:00",
    "finished": "2026-10-03T01:35:59-05:00",
    "notes": "All English-only Perseus TEI, US PD by date. Godley and Smyth are texts 'modernized by Perseus', which their rows say. Freese's Rhetoric refused: its record gives a 1947 printing."
+  },
+  {
+   "id": "perseus-check-rows",
+   "status": "done",
+   "scope": "Perseus rows the census marked 'check' that are PD on their own record: Forster's Isaeus, Miller's Cyropaedia",
+   "started": "2026-10-03T01:35:59-05:00",
+   "finished": "2026-10-03T01:38:18-05:00",
+   "notes": "The census's year for Cyropaedia (1949) is Miller's death year; the file's own record gives 1914. Forster's Isaeus is the 1927 text in a 1962 printing, taken with a stated reason. The Vinces' Crown and Embassy were already held. Census otherwise exhausted for lane B: the rest are post-1930 Loebs, modern translations or other lanes' authors."
   }
  ]
 }
