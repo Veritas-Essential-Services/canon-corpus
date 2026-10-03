@@ -718,3 +718,6 @@
 
 ## 2026-10-03 03:01 CDT — ebbutt: done
 - 1/1 fetched (Gutenberg 25502), 1,680 units, 0 ~2 ids.
+
+## 2026-10-03 03:02 CDT — maurice-baring: done
+- 1/1 fetched (Gutenberg 36008), 769 units, 0 ~2 ids.

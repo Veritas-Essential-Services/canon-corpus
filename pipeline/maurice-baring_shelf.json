@@ -1,0 +1,43 @@
+{
+ "_about": "Maurice Baring's The Blue Rose Fairy Book (1911). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Maurice Baring",
+ "_name_words": [
+  "baring"
+ ],
+ "_surname": [
+  "maurice baring"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baring-blue-rose-fairy-book": [
+   36008,
+   "The Blue Rose Fairy Book",
+   {
+    "levels": [
+     {
+      "re": "(?!THE BLUE ROSE FAIRY BOOK|BY MAURICE)[A-Z][^a-z]+$",
+      "number_repeats": true
+     },
+     {
+      "re": "\\([^a-z]+\\)$"
+     }
+    ],
+    "start": "NOTE$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "baring-blue-rose-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "maurice baring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
