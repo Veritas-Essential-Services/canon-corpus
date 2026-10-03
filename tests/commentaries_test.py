@@ -177,6 +177,51 @@ check("scripture: 'Chrys. on Gal. c. iv. 3' is Gal 4.3, not 'Gal 100'",
       [(x["ref"], x.get("target")) for x in r] == [("Gal 4:3", "kjv:Gal.4.3")])
 check("scripture: 'Mic. v. 2' keeps its 'c' (not read as 'Mi' + 'c.')",
       [x.get("target") for x in B.scripture("Mic. v. 2", ids)] == ["kjv:Mic.5.2"])
+# (review c10) 'Gal. C. iv. 3': a capital 'C.' is 'chapter' too
+r = B.scripture("Gal. C. iv. 3", ids, own="Gal", chapter=2)
+check("scripture: 'Gal. C. iv. 3' is Gal 4.3, not 'Gal 100'",
+      [(x["ref"], x.get("target")) for x in r] == [("Gal 4:3", "kjv:Gal.4.3")])
+check("scripture: 'Mic. v. 2' still keeps its 'c' with 'C.' read too",
+      [x.get("target") for x in B.scripture("Mic. v. 2", ids, own="Gal", chapter=2)] == ["kjv:Mic.5.2"])
+# (review c10) a proper name opening a sentence before 'c.' is another work's author
+check("scripture: 'Irenaeus c. iv. 3' (opening the text, or a sentence) is not Gal 4.3",
+      not B.scripture("Irenaeus c. iv. 3", ids, own="Gal", chapter=2)
+      and not B.scripture("So he wrote. Irenaeus c. iv. 3", ids, own="Gal", chapter=2))
+check("scripture: 'Compare c. iv. 3', 'See c. iv. 3', 'Cf. c. iv. 3', 'Epistle c. iv. 3' at a sentence's start "
+      "are still Gal 4.3",
+      all([x.get("target") for x in B.scripture(t, ids, own="Gal", chapter=2)] == ["kjv:Gal.4.3"]
+          for t in ("thus. Compare c. iv. 3", "thus. See c. iv. 3", "thus. Cf. c. iv. 3", "Epistle c. iv. 3")))
+check("scripture: OCR'd English at a sentence's start is read, as in Westcott on Heb 3.3-4 and 4.6 "
+      "('Oompare c. x. 12', 'Boo c. v. 11')",
+      [x.get("target") for t in ("our thoughts. Oompare c. iv. 12", "the first. Boo c. v. 11")
+       for x in B.scripture(t, ids, own="Gal", chapter=2)] == ["kjv:Gal.4.12", "kjv:Gal.5.11"])
+# (review c10) a range closing a comma list keeps its end
+r = B.scripture("Gal. iii. 6, 7-iv. 2", ids)
+check("scripture: 'Gal. iii. 6, 7-iv. 2' is 3:6 and 3:7 through 4:2",
+      [(x["ref"], x["target"], x.get("through")) for x in r]
+      == [("Gal 3:6", "kjv:Gal.3.6", None), ("Gal 3:7-4:2", "kjv:Gal.3.7", "kjv:Gal.4.2")])
+r = B.scripture("Gal. 3:6, 7-4:2", ids)
+check("scripture: ... in arabic numbering too", [x.get("through") for x in r] == [None, "kjv:Gal.4.2"])
+r = B.scripture("Gal. iii. 6, 7-iv. 2; comp. Rom. iii. 7", ids)
+check("scripture: ... and the range stays on its own book's reference",
+      [(x["target"], x.get("through")) for x in r]
+      == [("kjv:Gal.3.6", None), ("kjv:Gal.3.7", "kjv:Gal.4.2"), ("kjv:Rom.3.7", None)])
+check("scripture: a dash after a list that skips chapters is a separator, not a range "
+      "(Bengel on 2 Cor 5.16: '1 Cor. ii. 8, 11—viii. 1')",
+      [(x["target"], x.get("through")) for x in B.scripture("1 Cor. ii. 8, 11—viii. 1", ids)]
+      == [("kjv:1Cor.2.8", None), ("kjv:1Cor.2.11", None)])
+# (review c10) the Bengel vol. II title page names Fausset as its only translator
+check("pins: Bengel vol. II is Fausset's translation, as its title page reads",
+      "tr. Andrew R. Fausset" in B.SCANS["bengel-gnomon-2"]["edition"]
+      and "Bandinel" not in B.SCANS["bengel-gnomon-2"]["edition"])
+# (review c10) Lane A's scans
+check("pins: same_scan_as names Lane A's items for the books that share its scans, and only them",
+      set(B.SAME_SCAN_AS) == {"westcott-hebrews", "westcott-john", "westcott-gospel-john",
+                              "alford-commentary-2", "alford-commentary-4"}
+      and "gospelaccordingt02west_0 (vol. 2)" not in B.SCANS["westcott-gospel-john"]["note"]
+      and "cu31924075537088" in B.SCANS["lightfoot-galatians"]["note"]
+      and "saintpaulsepistl00ligh" in B.SCANS["lightfoot-philippians"]["note"]
+      and "greektestamentwi03alfo" in B.SCAN_CHOICE["alford-commentary-3"])
 # (review c9) an arabic range into the next chapter; a backward range with the chapter repeated
 r = B.scripture("Rom. 8. 28-9. 3", ids)
 check("scripture: 'Rom. 8. 28-9. 3' keeps its end",
