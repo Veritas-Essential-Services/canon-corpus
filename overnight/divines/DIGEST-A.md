@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:42 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:58 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -225,6 +225,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
+| Alexander Maclaren | alexander-maclaren_shelf.json | 19 CCEL (Expositions of Holy Scripture in 14 parts, Genesis to First Timothy; Expositor's Bible Psalms, 3 vols, and Colossians-Philemon; Life of David) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -521,3 +521,6 @@
 
 ## 2026-10-03 02:52 CDT — retries
 - henry-alford vol. 3 (greektestamentwi03alfo) came through after several HTTP 500s: Rivingtons 1856, 91.1% OCR, 273,536 Greek characters. `--verify --record`: 0 mismatched. Eadie's Thessalonians and Tillotson vol. 3 still return HTTP 500.
+
+## 2026-10-03 02:58 CDT — alexander-maclaren done
+- `pipeline/alexander-maclaren_shelf.json`: 19 CCEL ThML texts. Print sources, where CCEL names one: Hodder and Stoughton 1892-1903, Armstrong 1894. None is late. `--verify --record`: 0 mismatched. 0 uids minted.

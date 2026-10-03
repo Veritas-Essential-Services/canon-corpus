@@ -1845,3 +1845,15 @@ Slugs `mccrie-*`.
 | Works, vol. 4: Review of Tales of My Landlord; On the Unity of the Church; Sermons (1857) | have-raw | IA |
 | Lectures on the Book of Esther (Carter, 1838) | have-raw | IA |
 | Life of John Knox | excluded | the English Reformers and Knox thread owns Knox |
+
+
+## Alexander Maclaren (round 12, my pick, 2026-10-03)
+
+Slugs `maclaren-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Expositions of Holy Scripture, 14 CCEL parts (Genesis to First Timothy) | have-clean | CCEL |
+| The Expositor's Bible: The Psalms, vols 1-3; Colossians and Philemon | have-clean | CCEL |
+| The Life of David as Reflected in his Psalms | have-clean | CCEL |
+| Expositions, Second Timothy to Revelation | not shelved | CCEL lists no such parts |
