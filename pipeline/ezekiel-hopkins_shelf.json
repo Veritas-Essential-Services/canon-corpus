@@ -5,7 +5,10 @@
   "ezekiel"
  ],
  "_surname": [
-  "hopkins"
+  "ezekiel hopkins",
+  "ezek. hopkins",
+  "bishop hopkins",
+  "e. hopkins"
  ],
  "_held": {},
  "ccel": {},
@@ -37,7 +40,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hopkins",
+   "author_seen": "ezekiel hopkins",
    "identity": "ok",
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",
@@ -48,7 +51,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hopkins",
+   "author_seen": "ezekiel hopkins",
    "identity": "ok",
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",
@@ -59,7 +62,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hopkins",
+   "author_seen": "ezekiel hopkins",
    "identity": "ok",
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",

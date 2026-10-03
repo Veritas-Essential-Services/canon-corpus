@@ -6,8 +6,10 @@
   "haddington"
  ],
  "_surname": [
-  "john brown",
-  "brown"
+  "john brown of haddington",
+  "brown of haddington",
+  "john brown, late",
+  "john brown, minister"
  ],
  "_held": {},
  "ccel": {},
@@ -56,8 +58,8 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1819",
    "ia_date": "1819",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
@@ -67,7 +69,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, late",
    "identity": "ok",
    "ia_rights": "ok: published 1839",
    "ia_date": "1839",
@@ -78,7 +80,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, late",
    "identity": "ok",
    "ia_rights": "ok: published 1845",
    "ia_date": "1845",
@@ -89,7 +91,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, late",
    "identity": "ok",
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
@@ -100,7 +102,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown of haddington",
    "identity": "ok",
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
@@ -111,12 +113,17 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, minister",
    "identity": "ok",
    "ia_rights": "ok: published 1812",
    "ia_date": "1812",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "jbrown-compendious-view-1819": {
+   "author": "title page reads 'BY THE REV. JOHN BROWN, ... LATE MINISTER OF THE GOSPEL IN HADDINGTON' with OCR noise between name and 'late'; checked by eye 2026-10-03"
   }
  }
 }

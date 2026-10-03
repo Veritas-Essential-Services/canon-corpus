@@ -106,4 +106,17 @@ check(c["ccel_print_source_check"] is False, "an 1863 print source is not")
 c = fs.ccel_rights(b"<ThML><ThML.head></ThML.head>")
 check(c["ccel_print_source"] is None and c["ccel_print_source_check"] is False, "no print source recorded is None, not a flag")
 
+# namesakes: a form two shelves both claim is reported (NOTE at load)
+import json, tempfile
+with tempfile.TemporaryDirectory() as d:
+    json.dump({"_surname": ["charles hodge", "hodge"]}, open(os.path.join(d, "ch_shelf.json"), "w"))
+    json.dump({"_surname": ["r. c. trench"]}, open(os.path.join(d, "rct_shelf.json"), "w"))
+    check(fs.shared_name_forms("aah", {"_surname": ["a. a. hodge", "hodge"]}, d) == {"hodge": ["ch"]},
+          "bare 'hodge' on two shelves is reported as shared")
+    check(fs.shared_name_forms("aah", {"_surname": ["a. a. hodge"]}, d) == {},
+          "a distinguishing form is not")
+    check(fs.shared_name_forms("x", {"_surname_by_slug": {"s": ["charles hodge"]}}, d) == {"charles hodge": ["ch"]},
+          "per-item lists count too")
+check("trench" in fs.COMMON_WORD_SURNAMES, "'trench' is on the common-word list")
+
 print(f"fetch_shelf_test: {ok} checks passed")

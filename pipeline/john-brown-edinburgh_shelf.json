@@ -6,7 +6,9 @@
   "john"
  ],
  "_surname": [
-  "john brown"
+  "john brown, d.d",
+  "john brown, d. d",
+  "john brown of edinburgh"
  ],
  "_held": {},
  "ccel": {},
@@ -39,7 +41,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, d. d",
    "identity": "ok",
    "ia_rights": "ok: published 1854",
    "ia_date": "1854",
@@ -50,7 +52,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, d. d",
    "identity": "ok",
    "ia_rights": "ok: published 1854",
    "ia_date": "1854",
@@ -61,7 +63,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, d.d",
    "identity": "ok",
    "ia_rights": "ok: published 1857",
    "ia_date": "1857",
@@ -72,7 +74,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john brown",
+   "author_seen": "john brown, d.d",
    "identity": "ok",
    "ia_rights": "ok: published 1855",
    "ia_date": "1855",

@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (London: Macmillan, 1890) and Philippians (1898), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (London: Macmillan, 1890) and Philippians (1898), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Overlap: PR #11's build_commentaries.py builds verse-keyed editions of Lightfoot on Galatians, Philippians, Colossians and Philemon; this shelf's copies of those are second copies, and Adam picks which is the reading of record.",
  "_ccel_author": "l/lightfoot",
  "_name_words": [
   "lightfoot",

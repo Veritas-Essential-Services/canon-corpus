@@ -448,3 +448,8 @@
 
 ## 2026-10-03 01:52 CDT — j-a-alexander done
 - `pipeline/j-a-alexander_shelf.json`: 12 IA volumes of raw OCR, median 97.1% (94.7-98.6%), about 15 MB; title pages read (1846-1861). The text layers hold 0 Hebrew and 0 Greek characters, so the Isaiah and Psalms commentaries have lost every original-language word. The gate refused the only Primitive Church Offices copy tried (its text never names him); it is pending. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:00 CDT — acted on roving review (cycle 8)
+- `fetch_shelf.py`: `shared_name_forms()` prints a NOTE at load for any name form another shelf also claims; "trench" added to the common-word list. `tests/fetch_shelf_test.py` 46/46, structure_test 64/64.
+- Nine lane A shelves moved to distinguishing name forms and were re-recorded (`--verify --record`, 0 mismatched): hodge, a-a-hodge, john-brown-edinburgh, john-brown-haddington, perkins, andrew-bonar, horatius-bonar, ezekiel-hopkins, samuel-hopkins. j-a-alexander dropped bare "alexander"; r-c-trench re-recorded. Five items with OCR-mangled title-page names went to `_identity_checked` with the reading quoted.
+- DIGEST-A: the Owen late-reprint count corrected from 25 to 26. Westcott, Alford and Lightfoot `_about` now note the overlap with PR #11.

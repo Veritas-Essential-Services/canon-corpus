@@ -5,7 +5,8 @@
   "samuel"
  ],
  "_surname": [
-  "hopkins"
+  "samuel hopkins",
+  "s. hopkins"
  ],
  "_held": {},
  "ccel": {},
@@ -43,7 +44,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hopkins",
+   "author_seen": "samuel hopkins",
    "identity": "ok",
    "ia_rights": "ok: published 1854",
    "ia_date": "1854",
@@ -54,7 +55,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hopkins",
+   "author_seen": "samuel hopkins",
    "identity": "ok",
    "ia_rights": "ok: published 1854",
    "ia_date": "1854",
@@ -65,7 +66,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hopkins",
+   "author_seen": "samuel hopkins",
    "identity": "ok",
    "ia_rights": "ok: published 1854",
    "ia_date": "1854",

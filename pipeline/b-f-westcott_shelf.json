@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain B. F. Westcott (1825-1901, Regius Professor of Divinity at Cambridge, then Bishop of Durham) for the Word Hoard: the commentaries on the Gospel of John (the Greek text, London: Murray, 1908, 2 vols; and the Authorised Version, 1892), the Epistles of John (1883) and Hebrews (1889), and the General Survey of the History of the Canon of the New Testament (1896), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain B. F. Westcott (1825-1901, Regius Professor of Divinity at Cambridge, then Bishop of Durham) for the Word Hoard: the commentaries on the Gospel of John (the Greek text, London: Murray, 1908, 2 vols; and the Authorised Version, 1892), the Epistles of John (1883) and Hebrews (1889), and the General Survey of the History of the Canon of the New Testament (1896), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Overlap: PR #11's build_commentaries.py builds verse-keyed editions of Westcott on Hebrews and on the Epistles of John, and plans John next; this shelf's raw OCR of the same works is a second copy, and Adam picks which is the reading of record.",
  "_ccel_author": "w/westcott",
  "_name_words": [
   "westcott",
