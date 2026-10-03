@@ -116,7 +116,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Baillie, Letters and Journals 1637-1662, ed. Laing (Bannatyne Club, 3 vols, 1841-1842) | have-raw | `robert-baillie_shelf.json` |
 | Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
 | Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
-| M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819) | have-raw | `thomas-mccrie_shelf.json` |
+| M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819); the Reformation in Italy and in Spain (1842 reprints) | have-raw | `thomas-mccrie_shelf.json` |
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
 | Wodrow's Analecta (Maitland Club, 1842-43); Kirkton's Life of John Welsh | pending | not yet searched |
@@ -156,3 +156,14 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
 | Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 25 volumes |
 | Strype, Life of Sir Thomas Smith (1820) | pending | Internet Archive server error |
+
+## Continental Reformed and the Reformation in Europe
+
+| Work | Status | Where |
+|---|---|---|
+| The Articles of the Synod of Dort, tr. Thomas Scott (Philadelphia, 1831; London 1818) | have-raw | `synod-of-dort_shelf.json`; translator checked |
+| Pictet, Christian Theology, tr. Reyroux (London, 1834) | have-raw | `benedict-pictet_shelf.json`; translator checked |
+| Merle d'Aubigné, History of the Reformation of the Sixteenth Century, tr. White (ATS, 5 vols) | have-raw | `merle-daubigne_shelf.json`; translator checked |
+| Merle d'Aubigné, History of the Reformation in Europe in the Time of Calvin (Longmans, 1863-78, 8 vols) | have-raw | `merle-daubigne_shelf.json`; Cates checked on vols 6-8 |
+| Zanchius, Absolute Predestination, tr. Toplady | have | in lane A's Toplady Works |
+| Brandt, History of the Reformation in the Low-Countries (1720-23, 4 vols) | pending | ECCO OCR too broken to read two volumes' numbers |
