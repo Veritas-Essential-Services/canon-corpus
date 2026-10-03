@@ -1,0 +1,84 @@
+{
+ "_about": "Public-domain Timothy Dwight (1752-1817, Congregational minister, president of Yale, grandson of Jonathan Edwards) for the Word Hoard: Theology Explained and Defended in a Series of Sermons (New York: Harper, 1846, 4 vols, with a memoir), raw Internet Archive OCR from California scans. His travels and poems are not divinity and stay off. CCEL and Gutenberg hold none of the Theology. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "dwight",
+  "timothy"
+ ],
+ "_surname": [
+  "dwight"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tdwight-theology-1": [
+   "theologyexplaine01dwigiala",
+   "Theology Explained and Defended in a Series of Sermons, vol. 1 (New York: Harper, 1846)"
+  ],
+  "tdwight-theology-2": [
+   "theologyexplaine02dwigiala",
+   "Theology Explained and Defended in a Series of Sermons, vol. 2 (New York: Harper, 1846)"
+  ],
+  "tdwight-theology-3": [
+   "theologyexplaine03dwigiala",
+   "Theology Explained and Defended in a Series of Sermons, vol. 3 (New York: Harper, 1846)"
+  ],
+  "tdwight-theology-4": [
+   "theologyexplaine04dwigiala",
+   "Theology Explained and Defended in a Series of Sermons, vol. 4 (New York: Harper, 1846)"
+  ]
+ },
+ "_alternates": {
+  "theologyexplaine01..04dwig (New Haven, 1823); theologyexplaine01..04dwig_2, theologyexplained01, 04dwig (New York, 1830); dwightstheology*, theologyexplaine02dwiguoft (London, 1822, 5 vols); theologyexplaine00dwig (Glasgow, 1837, one volume); theologyexplain*dwiggoog": "Other editions of the Theology."
+ },
+ "_excluded": {
+  "theologyexplaine0000dwig (2005)": "Modern reprint.",
+  "MN41511ucmf_3": "An abridgement by another hand (Beauties of Dwight)."
+ },
+ "_checks": {
+  "tdwight-theology-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dwight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdwight-theology-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dwight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdwight-theology-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dwight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdwight-theology-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dwight",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

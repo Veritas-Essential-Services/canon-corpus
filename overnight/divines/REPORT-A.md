@@ -310,3 +310,6 @@
 
 ## 2026-10-02 21:14 CDT — john-brown-haddington done
 - `pipeline/john-brown-haddington_shelf.json`: 6 items, raw IA OCR, median 95.9% (93.3-98.2%), about 12 MB. IA's catalogue mixes him with other John Browns, so each title page was read: all six name him (Haddington, or professor of divinity under the Associate Synod). The surname gate alone ("brown") would not tell them apart. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:15 CDT — timothy-dwight done
+- `pipeline/timothy-dwight_shelf.json`: 4 volumes, raw IA OCR, median 98.6%, about 7.2 MB; title pages read (Harper, 1846, vols I-IV). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

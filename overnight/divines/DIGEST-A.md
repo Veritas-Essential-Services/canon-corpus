@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:14 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:15 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -124,6 +124,7 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 | George Gillespie | george-gillespie_shelf.json | 1 Gutenberg (Works vol. 1, 1846) | 1 (Aaron's Rod Blossoming, 1844) | Works vol. 2; Miscellany Questions (only a 1649 scan, OCR 75%) | collections by others |
 | David Dickson | david-dickson_shelf.json | 0 (none exists) | 2 (Select Practical Writings vol. 1, 1845; Sum of Saving Knowledge, 1886, with Macpherson's notes) | Psalms, Hebrews, Matthew (only 17th-century printings); Therapeutica Sacra (1697 scan fails the identity gate) | a 1959 reprint; verse; covenant pamphlets |
 | John Brown of Haddington | john-brown-haddington_shelf.json | 0 (none exists) | 6 (Compendious View 1819; Dictionary 1839; Shorter Catechism 1845; British Churches 1820 ×2; Figures 1812) | his Concordance (left for later) | other John Browns that IA mixes with him (David Brown of JFB; John Brown of Edinburgh) |
+| Timothy Dwight | timothy-dwight_shelf.json | 0 (none exists) | 4 (Theology Explained and Defended, New York: Harper 1846, with memoir, complete) | none | his travels and poems (not divinity); a modern reprint |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

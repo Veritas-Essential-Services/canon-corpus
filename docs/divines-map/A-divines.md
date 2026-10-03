@@ -1129,3 +1129,12 @@ No CCEL or Gutenberg text. Raw IA OCR from Library of Congress, Cornell and Prin
 | A Compendious View of Natural and Revealed Religion (1819); A Dictionary of the Holy Bible (1839); Explication of the Shorter Catechism (1845); Compendious History of the British Churches, 2 vols (1820); A Brief View of the Figures of Scripture (1812) | have-raw | IA (identifiers in the shelf) |
 | Concordance | alternate | a word list, left for later |
 | Jamieson-Fausset-Brown; John Brown of Edinburgh's Romans | excluded | other authors |
+
+## Timothy Dwight (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text of the Theology. Raw IA OCR from California scans; slugs `tdwight-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Theology Explained and Defended in a Series of Sermons, 4 vols (New York: Harper, 1846, with a memoir) | have-raw | IA (identifiers in the shelf) |
+| Editions of 1818-1837 | alternate | IA |
