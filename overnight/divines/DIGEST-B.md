@@ -99,3 +99,4 @@
 - **Two new shelves (00:56):** the Historia Augusta (Magie, vols. I-II) and Fronto's letters with Marcus Aurelius (Haines, vols. I-II), all from first printings.
 - **Quintilian vol. 1 recovered (00:58):** a scan without the 1980 addendum replaces the held volume, so Butler's Quintilian is complete again. The other five held volumes are still held.
 - **Ovid and Velleius (01:00):** Mozley's Art of Love volume (1929, first printing) and Shipley's Velleius Paterculus with the Res Gestae (1924 text, later plain reprint).
+- **Demosthenes and Marcus Aurelius (01:03):** Leland's Demosthenes, and four more Marcus Aurelius translators (Casaubon, Collier twice, Rendall).

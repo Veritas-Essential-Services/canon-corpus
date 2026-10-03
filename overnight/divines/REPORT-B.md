@@ -276,3 +276,8 @@
 ## 2026-10-03 01:00 CDT — Ovid and Velleius Loebs
 - Mozley's Loeb Art of Love and Other Poems (Ars Amatoria, Remedia, Medicamina, Nux, Ibis, Halieuticon, Consolatio ad Liviam): MCMXXIX first printing, OCR 0.87.
 - Shipley's Loeb Velleius Paterculus and Res Gestae Divi Augusti (1924): a 1961 plain reprint ('Reprinted 1955, 1961'), no later matter; on roman-epitomators with its own author check. Listed in DIGEST-B as a decision.
+
+## 2026-10-03 01:03 CDT — Demosthenes and Marcus Aurelius
+- Leland's Orations of Demosthenes, new edition (1806, 2 vols; OCR 0.91-0.92).
+- Marcus Aurelius: Casaubon's Meditations (Everyman 1906, from the 1948 reprint, reason in `_rights_checked`; OCR 0.95), Rendall's To Himself (2nd ed., 1898; 0.89), Collier's Conversation with Himself (1701; 0.82; translator unchecked, OCR reads 'Cortrier'), Collier revised by Zimmern (Camelot, 1887; 0.93). The shelf's old 'Rendall and Collier pending' note is closed.
+- Refused on OCR: Gillies's Lysias and Isocrates (1778; 0.71).
