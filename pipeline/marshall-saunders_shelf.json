@@ -1,0 +1,40 @@
+{
+ "_about": "Marshall Saunders's Beautiful Joe: An Autobiography, a dog's life story, with Hezekiah Butterworth's introduction (1903 printing). Gutenberg's other text (PG 2818) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Marshall Saunders",
+ "_name_words": [
+  "saunders"
+ ],
+ "_surname": [
+  "marshall saunders"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "saunders-beautiful-joe": [
+   10226,
+   "Beautiful Joe: An Autobiography",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "saunders-beautiful-joe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marshall saunders",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

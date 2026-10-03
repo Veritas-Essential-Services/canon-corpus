@@ -2864,6 +2864,14 @@ Shelf: `pipeline/jack-london_shelf.json` (2026-10-02; added at the coordinator's
 | The Call of the Wild | have | PG 215, `jlondon-call-of-the-wild` (336 units) |
 | White Fang | have | PG 910, `jlondon-white-fang` (1069 units) |
 
+## Marshall Saunders
+
+Shelf: `pipeline/marshall-saunders_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A dog's life story, with Hezekiah Butterworth's introduction; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Beautiful Joe: An Autobiography | have | PG 10226, `saunders-beautiful-joe` (1458 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
