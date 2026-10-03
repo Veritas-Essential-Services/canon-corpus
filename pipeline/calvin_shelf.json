@@ -131,6 +131,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "calvin-treatise-relics": {
@@ -143,6 +145,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": false,
+   "ccel_print_source": "Amherst, N.Y.: Prometheus Books, 2008",
+   "ccel_print_source_check": true,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "calvin-letters-1": {

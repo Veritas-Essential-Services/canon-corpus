@@ -187,6 +187,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
 - CCEL serves no text for several titles it lists (Bonar: Follow the Lamb, How Shall I Go to God, Winners of Souls; Ryle: The Two Bears). Held from IA where possible.
 - Summa: three treatise-opening questions lack a QUESTION heading in the Gutenberg text; the Supplement is not a row in adler_shelf.json.
+- CCEL keys some texts from late reprints, which its DC.Rights line never says; `fetch_shelf.py` now records the `<printSourceInfo>` edition for every CCEL item it checks and notes any from 1930 or later. Found so far on lane A: **Bunyan's Miscellaneous Pieces from the Clarendon Press edition of 1976** (a modern critical edition; moved to `_pending`, Gutenberg 3613 kept), Calvin's Treatise on Relics from a 2008 Prometheus reprint, 25 Owen titles from the Banner of Truth reprints of 1965-68 (of Goold's 1850-53 edition), Wesley's Journal from Moody 1951, Lightfoot's Apostolic Fathers from Baker 1956. The old text under a reprint is public domain; whether the reprint added anything is for a person to check before republishing.
 - The IA date gate trusts the catalogue, and a catalogue can date a reprint by its source: the only Trapp Commentary scan says 1865 and is a 1958 reprint by its own front matter. It was caught by reading the title page, not by the gate. Several shelves label a year as "catalogued" where the title page prints none.
 
 ## Decisions that are yours

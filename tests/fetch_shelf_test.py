@@ -95,4 +95,14 @@ check(e is None and r["author_seen"] == "joseph hall", "the full name does")
 r, e = run("sermons preached by the bishop of norwich, joseph\nhall", surname=("joseph hall",))
 check(e is None, "a full name broken across an OCR line still matches")
 
+# CCEL print source (recorded, not refused)
+hdr = "<ThML><ThML.head><printSourceInfo>\n  <published>Baker Book House, 1956</published>\n</printSourceInfo></ThML.head>"
+c = fs.ccel_rights(hdr.encode())
+check(c["ccel_print_source"] == "Baker Book House, 1956" and c["ccel_print_source_check"],
+      "a CCEL text keyed from a 1956 reprint is recorded and marked for a look")
+c = fs.ccel_rights(b"<ThML><printSourceInfo><published>London: Nisbet, 1863</published></printSourceInfo>")
+check(c["ccel_print_source_check"] is False, "an 1863 print source is not")
+c = fs.ccel_rights(b"<ThML><ThML.head></ThML.head>")
+check(c["ccel_print_source"] is None and c["ccel_print_source_check"] is False, "no print source recorded is None, not a flag")
+
 print(f"fetch_shelf_test: {ok} checks passed")

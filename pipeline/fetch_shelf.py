@@ -219,8 +219,17 @@ CCEL_TERMS = ("CCEL asks that some of its prepared editions not be used commerci
 def ccel_rights(data):
     t = data.decode("utf-8", "replace") if isinstance(data, bytes) else data
     m = re.findall(r"<DC\.Rights[^>]*>(.*?)</DC\.Rights>", t, re.S)
+    # the printed edition CCEL keyed from (2026-10-03): often a later reprint
+    # (Lightfoot's 1891 Apostolic Fathers from Baker's 1956), which DC.Rights
+    # never mentions. Recorded, not refused: the reprint may add nothing, but
+    # a person should look when the year is 1930 or later.
+    src = re.search(r"<printSourceInfo>.*?<published>(.*?)</published>", t[:30000], re.S)
+    src = re.sub(r"\s+", " ", src.group(1)).strip() if src else None
+    years = [int(y) for y in re.findall(r"(?<!\d)(1[5-9]\d\d|20\d\d)(?!\d)", src or "")]
     return {"ccel_dc_rights": " / ".join(x.strip() for x in m if x.strip()) or None,
             "ccel_copyright_comment": "Copyright Christian Classics Ethereal Library" in t[:5000],
+            "ccel_print_source": src or None,
+            "ccel_print_source_check": bool(years) and max(years) >= 1930,
             "ccel_terms": CCEL_TERMS}
 
 def pg_rights(data, r, claimed=None):
@@ -284,6 +293,8 @@ def verify(name, shelf, out, skip, names, record=False):
                     or c.get("translator_match") is False:
                 flagged.append(slug)
                 flag += f" | RIGHTS {rights or c.get('pg_translator')}"
+            if c.get("ccel_print_source_check"):
+                flag += f" | NOTE CCEL keyed from {c['ccel_print_source']!r}: look before republishing"
             print(slug, flag, flush=True)
             continue
         r = {}
