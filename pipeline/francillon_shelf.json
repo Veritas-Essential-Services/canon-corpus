@@ -1,0 +1,30 @@
+{
+ "_about": "R. E. Francillon's (1841-1919) Gods and Heroes, or The Kingdom of Jupiter, the Greek myths retold for young readers (1894 in the front matter). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "R. E. Francillon",
+ "_name_words": [
+  "francillon"
+ ],
+ "_surname": [
+  "francillon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "francillon-gods-and-heroes": [
+   45416,
+   "Gods and Heroes; or, The Kingdom of Jupiter"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "francillon-gods-and-heroes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "francillon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
