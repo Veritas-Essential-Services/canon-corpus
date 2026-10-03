@@ -187,45 +187,59 @@
   },
   {
    "id": "shelf-curtin",
-   "status": "running",
+   "status": "done",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- curtin; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- curtin; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   },
   {
    "id": "shelf-hapgood",
-   "status": "running",
+   "status": "done",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hapgood; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hapgood; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   },
   {
    "id": "shelf-legge",
-   "status": "running",
+   "status": "done",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- legge; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- legge; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   },
   {
    "id": "shelf-giles",
-   "status": "running",
+   "status": "done",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- giles; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- giles; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   },
   {
    "id": "shelf-waley",
-   "status": "running",
+   "status": "done",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- waley; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- waley; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   },
   {
    "id": "shelf-hoole",
-   "status": "running",
+   "status": "done-with-defects",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hoole; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hoole; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   },
   {
    "id": "shelf-harington",
-   "status": "running",
+   "status": "done-with-defects",
    "started": "2026-10-02T19:43-05:00",
-   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- harington; PD printings before 1931 only; no minting"
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- harington; PD printings before 1931 only; no minting",
+   "finished": "2026-10-02T19:47-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
   }
  ]
 }

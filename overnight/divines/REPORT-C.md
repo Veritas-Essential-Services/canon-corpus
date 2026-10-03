@@ -61,3 +61,7 @@
 - 18 sources fetched, 0 failed (Rose's Gutenberg 615 placed by hand: the cache URL 404s, see `_manual_fetch`). 13 titles cut, 0 failed. `--verify --record`: 0 mismatched, 0 rights flags. Front-matter scan: 0 post-1930 years.
 - The coordinator's suggested Jowett, Church & Brodribb, Butler and Lang-Leaf-Myers are lane B/D's already; none taken.
 - Note for lane B: fetch_shelf.py could fall back to https://www.gutenberg.org/ebooks/<n>.txt.utf-8 when cache/epub 404s (PG 615).
+
+## 2026-10-02T19:47-05:00 — round 5: seven translator shelves (curtin, hapgood, legge, giles, waley, hoole, harington)
+- 31 sources fetched (one IA HTTP 500 retried), 0 failed. 27 titles cut, 0 failed. `--verify --record`: 0 mismatched, 0 rights flags; one identity override (Hoole vol. 2, split OCR name), one title_weak (Harington).
+- Defects: Harington 1591 OCR (0.66), Hoole 1803 long s (0.82). Rights notes: Waley UK to end-2036, Lionel Giles UK to end-2028 (US PD).

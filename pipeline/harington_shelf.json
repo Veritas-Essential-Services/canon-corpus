@@ -30,5 +30,19 @@
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "harington-orlando-1591": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "harington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1591",
+   "ia_date": "1591",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
 }

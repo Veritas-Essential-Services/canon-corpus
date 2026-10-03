@@ -54,5 +54,34 @@
  "_excluded": {
   "pg-3100-4094": "Gutenberg 3100 and 4094 are the Chinese-language text of the Chinese Classics, not the translation."
  },
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "legge-tao-teh-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Legge"
+  },
+  "legge-analects": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Legge"
+  },
+  "legge-faxian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Legge"
+  }
+ }
 }

@@ -84,5 +84,61 @@
   "curtin-myths": "Curtin's own collections of Irish, Russian and Native American myths: his own fieldwork rather than translations of a work; left out."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "curtin-quo-vadis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-fire-and-sword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-deluge-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-deluge-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pan-michael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-field-of-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  }
+ }
 }

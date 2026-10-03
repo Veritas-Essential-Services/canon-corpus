@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-02T19:41-05:00: 21 shelves, 121 titles (Dryden 21, Garnett 54, Cary 4, Longfellow 4, Florio 2, Burton 4, Maude 10, Cotton 1, Ormsby 1, Urquhart-Motteux 2, FitzGerald 2, Taylor 2, Lane 1, Guest 1; round 4: Rossetti 2, Fairfax 1, Rose 1, Shelton 1, Norton 4, Payne 2, Carlyle 2). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-02T19:47-05:00: 28 shelves, 148 titles (rounds 1-3: 108; round 4: 13 — Rossetti 2, Fairfax 1, Rose 1, Shelton 1, Norton 4, Payne 2, Carlyle 2; round 5: 27 — Curtin 5, Hapgood 7, Legge 3, Giles 4, Waley 6, Hoole 1, Harington 1). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -55,3 +55,14 @@ The coordinator suggested Jowett, Church & Brodribb, Butler and Lang-Leaf-Myers.
 - **John Payne:** the Decameron (Gutenberg 23700) and Villon (Villon Society 1878). **Your call:** his Thousand Nights and his Bandello are listed and not fetched, because the Nights already has Burton and Lane.
 - **Carlyle as translator:** Wilhelm Meister's Apprenticeship and Travels (Gutenberg 36483 + 78139), and the German tales of Musaeus, Tieck and Richter (Gutenberg 38779).
 - All of them passed the new surname check and the rights check (`_checks` recorded) and the front-matter year scan (`_verified`); no post-1930 year turned up. OCR quality on the scans is 0.93-0.96.
+
+## Round 5 — 2026-10-02T19:47-05:00, lane C's own choice (each shelf vetoable: delete the shelf file and its map rows)
+Each name was grepped across every shelf, fetch_sources.py and all four queues first, and none of them was held anywhere.
+- **Curtin:** Sienkiewicz's Quo Vadis, the Trilogy (With Fire and Sword, The Deluge, Pan Michael) and On the Field of Glory (6 Gutenberg files).
+- **Hapgood:** Hugo's Les Misérables (Gutenberg 135), Gorky's Orlóff, Bunin's The Village, and four Turgenev volumes. Her Turgenev is a second witness beside Garnett's.
+- **Legge:** the Tao Te Ching, the Analects, and Faxian. The rest of his Sacred Books of the East is pending.
+- **Giles:** H. A. Giles's Zhuangzi and Strange Stories from a Chinese Studio; Lionel Giles's Art of War and Sayings of Confucius. **Your call:** Lionel Giles died in 1958, so his work is US PD (published before 1931) but stays in UK copyright until the end of 2028.
+- **Waley:** only work published before 1931: 170 Chinese Poems, More Translations, Li Po, the Nō Plays, Genji parts 1-3, and the Pillow-Book. **Your call:** this is US PD only, because the UK term runs to the end of 2036. Drop the shelf if Armarium may ever serve outside the US.
+- **Hoole:** Tasso's Jerusalem Delivered (1803, 2 vols, raw OCR). Defect: the long s is still in use, so the OCR reads s as f (82% vocabulary). Vol. 2's title page names him, but the OCR splits the name; that is recorded in `_identity_checked`.
+- **Harington:** Orlando Furioso, 1591 first edition. Defect: Elizabethan spelling plus scan errors leave 66% of tokens in a modern vocabulary. **Your call:** keep it as a raw witness, or veto it until a transcription exists (EEBO-TCP may have one).
+- Every Gutenberg header names the expected translator; none is marked copyrighted (`_checks`). The archive.org rights gate raised no flags. Hoole's Ariosto is pending (only long-s printings or incomplete sets were found).

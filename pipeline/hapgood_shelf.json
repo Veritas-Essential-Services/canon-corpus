@@ -100,5 +100,70 @@
   "hapgood-tolstoy": "Hapgood's Tolstoy (Childhood, Boyhood, Youth 1886; Sevastopol 1888): not on Gutenberg in her version; IA not checked this run."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hapgood-les-miserables": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-orloff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-first-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-superfluous-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-reckless-character": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-nobleman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  }
+ }
 }

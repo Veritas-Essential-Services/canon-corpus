@@ -64,5 +64,43 @@
  "_excluded": {
   "giles-own-works": "H. A. Giles's History of Chinese Literature and China and the Chinese: his own works."
  },
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "giles-chuang-tzu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Allen Giles"
+  },
+  "giles-strange-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Allen Giles"
+  },
+  "giles-art-of-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lionel Giles"
+  },
+  "giles-sayings-of-confucius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lionel Giles"
+  }
+ }
 }

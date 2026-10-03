@@ -102,5 +102,79 @@
  "_excluded": {
   "waley-after-1930": "The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright."
  },
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "waley-170-chinese-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-more-translations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-li-po": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waley-no-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waley-genji-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-pillow-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  }
+ }
 }

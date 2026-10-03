@@ -28,12 +28,39 @@
    "work": "Jerusalem Delivered, 20 books",
    "translated": 1763,
    "translator": "John Hoole",
-   "scan_edition": "T. Bensley for J. Johnson, 1803, 2 vols (UC copy), raw OCR"
+   "scan_edition": "T. Bensley for J. Johnson, 1803, 'eighth edition, with notes', 2 vols (UC copy), raw OCR; the printing still uses the long s, so the OCR reads s as f"
   }
  },
  "_pending": {
   "hoole-orlando-furioso": "Hoole's Ariosto (1783): only 18th-century long-s printings and incomplete Google sets of the 1807 edition found. Not fetched."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "hoole-jerusalem-2": "Title page reads 'translated from the Italian of Torquato Tasso, by John Hoole ... vol. II ... 1803', but OCR splits the name ('HO 0 L E'). Checked by eye 2026-10-02."
+ },
+ "_checks": {
+  "hoole-jerusalem-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hoole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hoole-jerusalem-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
 }
