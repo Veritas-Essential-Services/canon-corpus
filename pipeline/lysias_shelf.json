@@ -289,7 +289,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg008/tlg0540.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-agoratus": {
    "checked": "2026-10-03",
@@ -303,7 +310,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg013/tlg0540.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-alcibiades-1": {
    "checked": "2026-10-03",
@@ -317,7 +331,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg014/tlg0540.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-alcibiades-2": {
    "checked": "2026-10-03",
@@ -331,7 +352,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg015/tlg0540.tlg015.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-andocides": {
    "checked": "2026-10-03",
@@ -345,7 +373,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg006/tlg0540.tlg006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-diogeiton": {
    "checked": "2026-10-03",
@@ -359,7 +394,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg032/tlg0540.tlg032.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": {
    "checked": "2026-10-03",
@@ -373,7 +415,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg027/tlg0540.tlg027.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-eratosthenes": {
    "checked": "2026-10-03",
@@ -387,7 +436,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg012/tlg0540.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-ergocles": {
    "checked": "2026-10-03",
@@ -401,7 +457,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg028/tlg0540.tlg028.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-nicomachus": {
    "checked": "2026-10-03",
@@ -415,7 +478,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg030/tlg0540.tlg030.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-pancleon": {
    "checked": "2026-10-03",
@@ -429,7 +499,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg023/tlg0540.tlg023.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-philocrates": {
    "checked": "2026-10-03",
@@ -443,7 +520,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg029/tlg0540.tlg029.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-philon": {
    "checked": "2026-10-03",
@@ -457,7 +541,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg031/tlg0540.tlg031.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-simon": {
    "checked": "2026-10-03",
@@ -471,7 +562,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg003/tlg0540.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-the-corn-dealers": {
    "checked": "2026-10-03",
@@ -485,7 +583,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg022/tlg0540.tlg022.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": {
    "checked": "2026-10-03",
@@ -499,7 +604,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg034/tlg0540.tlg034.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-theomnestus-1": {
    "checked": "2026-10-03",
@@ -513,7 +625,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg010/tlg0540.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-against-theomnestus-2": {
    "checked": "2026-10-03",
@@ -527,7 +646,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg011/tlg0540.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": {
    "checked": "2026-10-03",
@@ -541,7 +667,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg021/tlg0540.tlg021.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": {
    "checked": "2026-10-03",
@@ -555,7 +688,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg025/tlg0540.tlg025.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-for-callias": {
    "checked": "2026-10-03",
@@ -569,7 +709,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg005/tlg0540.tlg005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-for-polystratus": {
    "checked": "2026-10-03",
@@ -583,7 +730,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg020/tlg0540.tlg020.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-for-the-soldier": {
    "checked": "2026-10-03",
@@ -597,7 +751,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg009/tlg0540.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-funeral-oration": {
    "checked": "2026-10-03",
@@ -611,7 +772,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg002/tlg0540.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-in-defense-of-mantitheus": {
    "checked": "2026-10-03",
@@ -625,7 +793,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg016/tlg0540.tlg016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-olympic-oration": {
    "checked": "2026-10-03",
@@ -639,7 +814,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg033/tlg0540.tlg033.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-a-wound-by-premeditation": {
    "checked": "2026-10-03",
@@ -653,7 +835,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg004/tlg0540.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-property-of-eraton": {
    "checked": "2026-10-03",
@@ -667,7 +856,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg017/tlg0540.tlg017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-refusal-of-a-pension": {
    "checked": "2026-10-03",
@@ -681,7 +877,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg024/tlg0540.tlg024.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": {
    "checked": "2026-10-03",
@@ -695,7 +898,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg018/tlg0540.tlg018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-murder-of-eratosthenes": {
    "checked": "2026-10-03",
@@ -709,7 +919,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg001/tlg0540.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-olive-stump": {
    "checked": "2026-10-03",
@@ -723,7 +940,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg007/tlg0540.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-property-of-aristophanes": {
    "checked": "2026-10-03",
@@ -737,7 +961,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg019/tlg0540.tlg019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lysias-perseus-lamb-on-the-scrutiny-of-evandros": {
    "checked": "2026-10-03",
@@ -751,7 +982,14 @@
    ],
    "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg026/tlg0540.tlg026.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_rights_checked": {
