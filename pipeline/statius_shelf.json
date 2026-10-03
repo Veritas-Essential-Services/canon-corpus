@@ -49,7 +49,8 @@
  "_translators": {
   "statius-mozley-v1": "J. H. Mozley",
   "statius-mozley-v2": "J. H. Mozley",
-  "statius-slater-silvae-1908": "D. A. Slater"
+  "statius-slater-silvae-1908": "D. A. Slater",
+  "statius-lewis-thebaid-v1": "Lillington Lewis"
  },
  "_checks": {
   "statius-mozley-v1": {
@@ -107,6 +108,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "statius",
+   "translator_claimed": "Lillington Lewis",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1767",
    "ia_date": "1767",
@@ -127,7 +130,6 @@
  },
  "_translator_unchecked": {
   "statius-lewis-thebaid-1767": "not named on the title page; catalogue attribution. The only Lewis in the OCR is a 'Rev. Mr. John Lewis' in a list of names",
-  "statius-lewis-thebaid-v1": "the dedication is signed 'Will. Lillington Lewis' (abbreviated), so the full name is not matched as written",
   "statius-lewis-thebaid-v2": "vol. II's text layer does not name the translator (its title page lacks a name in the OCR); identified as the companion of vol. I, same Becket second edition"
  }
 }
