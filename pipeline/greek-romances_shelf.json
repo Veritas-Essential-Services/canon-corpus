@@ -114,5 +114,8 @@
   "chariton-1764-v1": "the title page and dedication name no translator ('made by two young persons')",
   "chariton-1764-v2": "no translator named in the edition (vol. 1's dedication: 'made by two young persons')",
   "xenophon-ephesius-1727": "the title page OCR loses the name ('By Mr. ...'); attributed elsewhere to John Rooke, not verified here"
+ },
+ "_excluded": {
+  "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan"
  }
 }

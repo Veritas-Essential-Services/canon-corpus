@@ -2613,6 +2613,8 @@ Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus,
 | The Loves of Chaereas and Callirrhoe, vol. 2: Books V-VIII (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication in vol. 1) | `chariton-1764-v2` | have-raw (IA `loveschrcasandc00chargoog`) |
 | Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727) | unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here | `xenophon-ephesius-1727` | have-raw (IA `gpl_1772898`) |
 
+Excluded: the 1733 Daphnis and Chloe (ECCO OCR 0.69)
+
 ## Euclid
 
 Shelf: `pipeline/euclid_shelf.json`. Heath's Thirteen Books 1908, 3 vols. (IA, clean-word 0.77-0.83; mathematical OCR).
@@ -2892,6 +2894,8 @@ Shelf: `pipeline/longinus_shelf.json`. Havell (1890), William Smith (1739; 1752 
 
 Pending (wishlist): Fyfe's Loeb (1927; Greek facing); the earlier English versions Smith's preface names (London, 1650s; Oxford, 1698), not located.
 
+Excluded: Rhys Roberts's Demetrius On Style, 1902 (Greek facing, OCR 0.59-0.72)
+
 ## Cassiodorus
 
 Shelf: `pipeline/cassiodorus_shelf.json`. Hodgkin's condensed Variae (1886). Not minted.
@@ -2959,6 +2963,8 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806) | Philip Yorke, Viscount Royston | `lycophron-royston-1806` | have-raw (IA `cassandra00lyco`) |
 
 Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Mair's Loebs (Greek facing).
+
+Excluded: Mawer's Cynegeticks, 1736 (ECCO OCR 0.76)
 
 ## Vegetius
 

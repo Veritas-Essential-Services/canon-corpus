@@ -179,5 +179,8 @@
    "ia_lending": null
   }
  },
- "_translator_unchecked": {}
+ "_translator_unchecked": {},
+ "_excluded": {
+  "bim_eighteenth-century_oppians-cynegeticks-tr_oppian_1736": "Oppian's Cynegeticks (Mawer, 1736): ECCO OCR 0.76, below the lane's bar; wanted only from a cleaner scan"
+ }
 }
