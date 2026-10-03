@@ -1,5 +1,5 @@
 {
- "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held).",
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file).",
  "_name_words": [
   "aristotle",
   "works",
@@ -27,6 +27,16 @@
    59058,
    "Aristotle's History of Animals, in ten books (Bohn, 1862)",
    "tr. Richard Cresswell"
+  ],
+  "aristotle-ellis-politics-pg": [
+   6762,
+   "Politics: A Treatise on Government (Everyman's Library edition)",
+   "tr. William Ellis"
+  ],
+  "aristotle-everyman-ethics-pg": [
+   8438,
+   "The Nicomachean Ethics of Aristotle (Everyman's Library, introduction by J. A. Smith)",
+   "tr. unnamed in the Gutenberg file"
   ]
  },
  "internet_archive": {
@@ -78,6 +88,51 @@
    "demundoarisrich",
    "De Mundo (Oxford, Clarendon Press, 1914; the separate issue later bound into vol. III)",
    "tr. E. S. Forster"
+  ],
+  "aristotle-browne-ethics-1850": [
+   "nicomacheanethi12arisgoog",
+   "The Nicomachean Ethics of Aristotle, translated with notes, analytical introduction and questions (Bohn's Classical Library; London: Henry G. Bohn, 1850)",
+   "tr. R. W. Browne"
+  ],
+  "aristotle-bohn-rhetoric-poetic-1857": [
+   "treatiseonrheto00aris",
+   "Aristotle's Treatise on Rhetoric, literally translated, with Hobbes's analysis; and The Poetic of Aristotle, literally translated (Bohn's Classical Library; London: Henry G. Bohn, new edition, 1857)",
+   "tr. anonymous literal translation of the Rhetoric, edited by Theodore Alois Buckley; the Poetic by Theodore Buckley"
+  ],
+  "aristotle-owen-organon-1853-v1": [
+   "organonorlogicalt01aris",
+   "The Organon, or Logical Treatises, of Aristotle, with the Introduction of Porphyry, literally translated, vol. I (Bohn; London: Henry G. Bohn, 1853)",
+   "tr. Octavius Freire Owen"
+  ],
+  "aristotle-owen-organon-1853-v2": [
+   "organonorlogica04porpgoog",
+   "The Organon, or Logical Treatises, of Aristotle, with the Introduction of Porphyry, literally translated, vol. II (Bohn; London: Henry G. Bohn, MDCCCLIII)",
+   "tr. Octavius Freire Owen"
+  ],
+  "aristotle-taylor-metaphysics-1801": [
+   "metaphysicsofari00aris",
+   "The Metaphysics of Aristotle, translated from the Greek, with copious notes (London: printed for the author, 1801)",
+   "tr. Thomas Taylor"
+  ],
+  "aristotle-welldon-ethics-1892": [
+   "nicomacheanethic1892aris",
+   "The Nicomachean Ethics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1892)",
+   "tr. J. E. C. Welldon"
+  ],
+  "aristotle-welldon-rhetoric-1886": [
+   "rhetoricofaristo00aristot",
+   "The Rhetoric of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1886)",
+   "tr. J. E. C. Welldon"
+  ],
+  "aristotle-welldon-politics-1901": [
+   "bwb_KU-767-069",
+   "The Politics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1901 printing; first published 1883)",
+   "tr. J. E. C. Welldon"
+  ],
+  "aristotle-peters-ethics-1881": [
+   "nicomacheanethi00petegoog",
+   "The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881)",
+   "tr. F. H. Peters"
   ]
  },
  "_excluded": {
@@ -98,7 +153,14 @@
   "aristotle-bywater-poetics-pg": "Ingram Bywater",
   "aristotle-kenyon-athenian-constitution-pg": "Frederic G. Kenyon",
   "aristotle-cresswell-history-of-animals-pg": "Richard Cresswell",
-  "aristotle-hammond-psychology": "william alexander hammond"
+  "aristotle-hammond-psychology": "william alexander hammond",
+  "aristotle-ellis-politics-pg": "William Ellis",
+  "aristotle-bohn-rhetoric-poetic-1857": "Theodore Buckley",
+  "aristotle-owen-organon-1853-v1": "Octavius Freire Owen",
+  "aristotle-owen-organon-1853-v2": "Octavius Freire Owen",
+  "aristotle-taylor-metaphysics-1801": "Thomas Taylor",
+  "aristotle-welldon-ethics-1892": "J. E. C. Welldon",
+  "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -111,7 +173,11 @@
   "aristotle-ross-v09": "no single translator to check: None",
   "aristotle-ross-v10": "no single translator to check: None",
   "aristotle-ross-v11": "no single translator to check: None",
-  "aristotle-forster-de-mundo-1914": "translator on the row (E. S. Forster) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+  "aristotle-forster-de-mundo-1914": "translator on the row (E. S. Forster) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "aristotle-everyman-ethics-pg": "the Gutenberg file names no translator (title page: 'By Aristotle, Introduction by J. A. Smith'). The Everyman Ethics is usually attributed to D. P. Chase; not verified here, so no claim is made",
+  "aristotle-browne-ethics-1850": "title page OCRs the name as 'E. W. BROWNE, M.A.' (professor of classical literature, King's College London; Bohn 1850); the claim is not matched as written",
+  "aristotle-welldon-politics-1901": "title page OCRs the name as 'J. EK. C. WELLDON, D.D.' (headmaster of Harrow); the claim is not matched as written",
+  "aristotle-peters-ethics-1881": "title page OCRs the name as 'F. H. PETEES, M.A.' (fellow of University College, Oxford); the claim is not matched as written"
  },
  "_checks": {
   "aristotle-butcher-poetics-pg": {
@@ -161,6 +227,27 @@
    "pg_copyrighted": false,
    "pg_translator": "Richard Cresswell",
    "translator_match": true
+  },
+  "aristotle-ellis-politics-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "William Ellis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Ellis",
+   "translator_match": true
+  },
+  "aristotle-everyman-ethics-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
   },
   "aristotle-ross-v01": {
    "kind": "ia",
@@ -304,6 +391,117 @@
    "identity": "ok",
    "ia_rights": "ok: published 1914",
    "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-browne-ethics-1850": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-bohn-rhetoric-poetic-1857": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Theodore Buckley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-owen-organon-1853-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Octavius Freire Owen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-owen-organon-1853-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Octavius Freire Owen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-taylor-metaphysics-1801": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-welldon-ethics-1892": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "J. E. C. Welldon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-welldon-rhetoric-1886": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "J. E. C. Welldon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-welldon-politics-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-peters-ethics-1881": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

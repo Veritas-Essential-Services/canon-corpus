@@ -127,6 +127,16 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Athenian Constitution | Sir Frederic G. Kenyon (1891) | `aristotle-kenyon-athenian-constitution-pg` | have (PG 26095) |
 | Aristotle's History of Animals, in ten books (Bohn, 1862) | Richard Cresswell | `aristotle-cresswell-history-of-animals-pg` | have (PG 59058) |
 | The Categories (the Oxford translation, also in vol. I above) | E. M. Edghill | `aristotle-edghill-categories-pg` | held elsewhere: PG 2412 is Edghill's Categories, the same Oxford translation held in aristotle-ross-v01 (Works vol. I, 1928) |
+| The Nicomachean Ethics of Aristotle (Everyman's Library, introduction by J. A. Smith) | unnamed in the Gutenberg file | `aristotle-everyman-ethics-pg` | have (PG 8438) |
+| The Nicomachean Ethics of Aristotle, translated with notes, analytical introduction and questions (Bohn's Classical Library; London: Henry G. Bohn, 1850) | R. W. Browne | `aristotle-browne-ethics-1850` | have-raw (IA `nicomacheanethi12arisgoog`) |
+| Aristotle's Treatise on Rhetoric, literally translated, with Hobbes's analysis; and The Poetic of Aristotle, literally translated (Bohn's Classical Library; London: Henry G. Bohn, new edition, 1857) | anonymous literal translation of the Rhetoric, edited by Theodore Alois Buckley; the Poetic by Theodore Buckley | `aristotle-bohn-rhetoric-poetic-1857` | have-raw (IA `treatiseonrheto00aris`) |
+| The Organon, or Logical Treatises, of Aristotle, with the Introduction of Porphyry, literally translated, vol. I (Bohn; London: Henry G. Bohn, 1853) | Octavius Freire Owen | `aristotle-owen-organon-1853-v1` | have-raw (IA `organonorlogicalt01aris`) |
+| The Organon, or Logical Treatises, of Aristotle, with the Introduction of Porphyry, literally translated, vol. II (Bohn; London: Henry G. Bohn, MDCCCLIII) | Octavius Freire Owen | `aristotle-owen-organon-1853-v2` | have-raw (IA `organonorlogica04porpgoog`) |
+| The Metaphysics of Aristotle, translated from the Greek, with copious notes (London: printed for the author, 1801) | Thomas Taylor | `aristotle-taylor-metaphysics-1801` | have-raw (IA `metaphysicsofari00aris`) |
+| The Nicomachean Ethics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1892) | J. E. C. Welldon | `aristotle-welldon-ethics-1892` | have-raw (IA `nicomacheanethic1892aris`) |
+| The Rhetoric of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1886) | J. E. C. Welldon | `aristotle-welldon-rhetoric-1886` | have-raw (IA `rhetoricofaristo00aristot`) |
+| The Politics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1901 printing; first published 1883) | J. E. C. Welldon | `aristotle-welldon-politics-1901` | have-raw (IA `bwb_KU-767-069`) |
+| The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 

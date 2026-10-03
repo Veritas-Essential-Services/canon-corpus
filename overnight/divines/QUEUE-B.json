@@ -492,6 +492,14 @@
    "started": "2026-10-03T01:00:07-05:00",
    "finished": "2026-10-03T01:03:00-05:00",
    "notes": "Gillies's Lysias and Isocrates refused (0.71); Casaubon from a 1948 Everyman reprint with _rights_checked"
+  },
+  {
+   "id": "aristotle-older-translations",
+   "status": "done",
+   "scope": "Aristotle before the Oxford translation: Taylor, Browne, Owen, Bohn Rhetoric/Poetic, Peters, Welldon x3; Ellis Politics and Everyman Ethics from Gutenberg",
+   "started": "2026-10-03T01:03:00-05:00",
+   "finished": "2026-10-03T01:08:19-05:00",
+   "notes": "three translator claims unchecked (names garbled in OCR); Everyman Ethics translator unnamed in the file, no claim made"
   }
  ]
 }

@@ -281,3 +281,9 @@
 - Leland's Orations of Demosthenes, new edition (1806, 2 vols; OCR 0.91-0.92).
 - Marcus Aurelius: Casaubon's Meditations (Everyman 1906, from the 1948 reprint, reason in `_rights_checked`; OCR 0.95), Rendall's To Himself (2nd ed., 1898; 0.89), Collier's Conversation with Himself (1701; 0.82; translator unchecked, OCR reads 'Cortrier'), Collier revised by Zimmern (Camelot, 1887; 0.93). The shelf's old 'Rendall and Collier pending' note is closed.
 - Refused on OCR: Gillies's Lysias and Isocrates (1778; 0.71).
+
+## 2026-10-03 01:08 CDT — Aristotle: the older translators
+- Raw IA, title pages read, OCR 0.84-0.93: Taylor's Metaphysics (1801); Browne's Bohn Ethics (1850); Owen's Bohn Organon (1853, 2 vols); the Bohn literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Rhetoric (1886), Ethics (1892) and Politics (1901 printing of 1883).
+- Gutenberg: Ellis's Politics (PG 6762); the Everyman Ethics (PG 8438), which names no translator, so none is claimed (usually given as D. P. Chase, not verified).
+- Translator claims unchecked because the OCR garbles the name: Browne ('E. W. BROWNE'), Peters ('PETEES'), Welldon's Politics ('J. EK. C.').
+- Skipped: Jowett's 1885 Politics (the same translation is in Oxford vol. X); Edghill's Categories on Gutenberg (the same translation is in Oxford vol. I).
