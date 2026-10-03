@@ -415,8 +415,11 @@ The living truth for project state is the Obsidian vault:
   an apparatus line number is never read as a verse. Not every editor
   numbers the same way, so pipeline/fathers_numbering.py MEASURES it per
   editor and class of book (Psalms, Jeremiah, the rest) and commits the
-  decision with its evidence in data/fathers/numbering.json: existence votes
-  (only one numbering has the verse) and, in Greek, content votes (the
+  decision with its evidence in data/fathers/numbering.json. Three numberings
+  are candidates per family: the Septuagint's (Brenton map) or the Vulgate's,
+  the Hebrew's (bhs-kjv.json, a psalm title is v.1: Heikel's Ps 7:16 is the
+  KJV's 7:15), and the English. Existence votes
+  (only the numberings that have the verse) and, in Greek, content votes (the
   father's Strong's-glossed words against Brenton's English of each
   candidate; calibrated 89% right between chapters, 75% between verses). An
   edition leans as its calibrated log-odds over a pooled prior say; in a mixed one, each

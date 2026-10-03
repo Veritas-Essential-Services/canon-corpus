@@ -26,12 +26,13 @@ the Greek editions mostly cite the Psalms as the Septuagint numbers them; but
 editors differ, so each edition's numbering per class of book (Psalms,
 Jeremiah, the rest) is MEASURED by fathers_numbering.py and committed in
 data/fathers/numbering.json, and resolve() reads a reference through that:
-the Clementine map (vulgate-kjv.json), Brenton's (brenton-kjv.json), or the
-KJV's chapter and verse as printed. Where the other numbering names a
+the Clementine map (vulgate-kjv.json), Brenton's (brenton-kjv.json), the
+Hebrew's (bhs-kjv.json, where a psalm's title is verse 1, as BDB cites), or
+the KJV's chapter and verse as printed. Where another numbering names a
 different KJV verse it is kept as `alt_target`; where the edition's
-numbering has no such verse but the other has, the other is the reading and
+numbering has no such verse but another has, that one is the reading and
 `numbering` says so. Every OT link says its `numbering` (vulgate, lxx,
-english). NT references are the KJV's numbering already. Every link carries `rule`, the id
+hebrew, english). NT references are the KJV's numbering already. Every link carries `rule`, the id
 of the rule that produced it:
 
   note/<map>        read from an editor's footnote (apparatus.notes)
@@ -226,6 +227,7 @@ def parse(label, family):
         # tokens after the book: numbers, separators, a bracketed number
         toks = []
         p = pos
+        after_more = False
         while True:
             t = TOKEN.match(s, p)
             if not t:
@@ -236,15 +238,20 @@ def parse(label, family):
                     break           # "; 2 Cor. 5, 21": the next book, numbered
                 # was it preceded by bare space (no separator since the last number)?
                 bare = bool(toks) and toks[-1][0] == "num" and s[toks[-1][2]:t.start("num")].strip() == ""
+                # "Psal. 7, 16ff. 23 Exod.": after "and following" a number is
+                # the apparatus's next line, not a chapter
+                bare = bare or after_more
                 line = bool(LINE_AFTER.match(s, t.end()))
                 toks.append(("num", t.group("num"), t.end(), bare, line))
             elif t.group("more"):
                 p = t.end()
+                after_more = True
                 continue
             elif t.group("paren"):
                 toks.append(("paren", re.sub(r"\D", "", t.group("paren")), t.end(), False, False))
             else:
                 toks.append(("sep", t.group("sep"), t.end(), False, False))
+            after_more = False
             p = t.end()
             # a number followed by a letter (a word) ends the run: "14 12 Gal."
             # is handled by `bare`; "3 sq." and "1 suiv." by the letter check
@@ -346,8 +353,37 @@ def printed(ref):
     return f"{book} {ch}" + (f"({alt})" if alt else "") + (f":{v}" if v else "") + (f"-{end}" if end else "")
 
 
-MAP_NAME = {"lat": "vulgate", "grc": "brenton"}
-NUMBERING_OF = {"vulgate": "vulgate", "brenton": "lxx", "kjv": "english"}
+FAMILY_NUMBERING = {"lat": "vulgate", "grc": "lxx"}
+# The rule id names the map a numbering is read through.
+MAP_OF = {"vulgate": "vulgate", "lxx": "brenton", "hebrew": "bhs", "english": "kjv"}
+FALLBACK = {"lat": ("vulgate", "english", "hebrew"), "grc": ("lxx", "english", "hebrew")}
+
+
+def read_in(numbering, book, ch, v, ctx):
+    """One OT verse read in one numbering: the versification module's fields
+    (resolved, target, why), plus `exists` when the numbering has the verse
+    but the KJV numbers none for it (a psalm title, a Greek addition)."""
+    osis = f"{book}.{ch}.{v}"
+    try:
+        if numbering == "english":
+            d = f"kjv:{osis}"
+            return ({"resolved": True, "target": d} if d in ctx["kjv_ids"]
+                    else {"resolved": False, "why": "no such verse in the KJV"})
+        if numbering == "vulgate":
+            if f"{book}.{ch}" not in ctx["vmap"]["vulgate_chapters"]:
+                return {"resolved": False, "why": "no such chapter in the Clementine Vulgate"}
+            r = V.resolve_vulgate(osis, ctx["vmap"], ctx["kjv_ids"])
+        elif numbering == "lxx":
+            r = V.resolve_brenton(osis, ctx["bmap"], ctx["kjv_ids"])
+        else:
+            if book not in V.BOOKS or f"{book}.{ch}" not in ctx["hmap"]["hebrew_chapters"]:
+                return {"resolved": False, "why": "no such chapter in the Hebrew Bible (WLC)"}
+            r = V.resolve(osis, ctx["hmap"], ctx["kjv_ids"])
+    except (ValueError, KeyError):
+        return {"resolved": False, "why": "no such verse in that numbering"}
+    if not r.get("resolved") and not r.get("why", "").startswith("no such"):
+        r = {**r, "exists": True}
+    return r
 
 
 def resolve(ref, family, ctx, scheme=None, vote=None):
@@ -355,67 +391,61 @@ def resolve(ref, family, ctx, scheme=None, vote=None):
 
     `scheme(book)` -> (numbering, per_reference) is the edition's measured
     numbering for that class of book (fathers_numbering.py); without one, the
-    family's.
-    `vote` is the content vote links_for() took for this reference's group,
-    used only in a class whose edition mixes numberings."""
+    family's. `vote` is the set of numberings the content vote links_for()
+    took for this reference's group favours, used only in a class whose
+    edition mixes numberings."""
     book, kind, ch, v, end, alt = ref
     out = {"ref": printed(ref)}
     if kind == "deutero":
         return {**out, "resolved": False, "why": "a book outside the KJV", "map": None}
     if v is None:
         return {**out, "resolved": False, "why": "cites a whole chapter, not a verse", "map": None}
-    nt = book in NT
-    fmap = MAP_NAME[family]
-    numbering, per_ref = scheme(book) if (scheme and not nt) else (NUMBERING_OF[fmap], False)
+    if book in NT:
+        direct = f"kjv:{book}.{ch}.{v}"
+        if direct in ctx["kjv_ids"]:
+            out.update({"resolved": True, "target": direct})
+            last = f"kjv:{book}.{ch}.{end}" if end and end > v else None
+            if last in ctx["kjv_ids"]:
+                out["through"] = last
+        else:
+            out.update({"resolved": False, "why": "no such verse in the KJV (an OCR digit?)"})
+        out["map"] = "nt"
+        return out
+    numbering, per_ref = scheme(book) if scheme else (FAMILY_NUMBERING[family], False)
     how = "edition"
     if per_ref and vote:
-        numbering, how = vote, "content"
-    mapname = "nt" if nt else ("kjv" if numbering == "english" else fmap)
-
-    def by_map(verse):
-        osis = f"{book}.{ch}.{verse}"
-        if fmap == "vulgate":
-            return V.resolve_vulgate(osis, ctx["vmap"], ctx["kjv_ids"]) if f"{book}.{ch}" in \
-                ctx["vmap"]["vulgate_chapters"] else {"resolved": False, "why": "no such chapter in the Clementine Vulgate"}
-        return V.resolve_brenton(osis, ctx["bmap"], ctx["kjv_ids"])
+        if numbering not in vote:
+            numbering = next(x for x in FALLBACK[family] if x in vote)
+        how = "content"
+    order = [numbering] + [x for x in FALLBACK[family] if x != numbering]
 
     def one(verse):
-        direct = f"kjv:{book}.{ch}.{verse}"
-        if nt:
-            return ({"resolved": True, "target": direct} if direct in ctx["kjv_ids"]
-                    else {"resolved": False, "why": "no such verse in the KJV (an OCR digit?)"})
-        r = by_map(verse)
-        if mapname == "kjv":
-            if direct in ctx["kjv_ids"]:
-                out = {"resolved": True, "target": direct}
-                if r.get("resolved") and r["target"] != direct:
-                    out["alt_target"] = r["target"]
-                return out
-            if r.get("resolved"):
-                return {**r, "numbering": NUMBERING_OF[fmap],
-                        "why_numbering": f"the English numbering has no such verse; the {fmap} numbering fits"}
-            return {"resolved": False, "why": "no such verse in the KJV's numbering or the " + fmap + "'s"}
-        if direct not in ctx["kjv_ids"]:
-            return r
+        """(fields, numbering read)."""
+        rs = {x: read_in(x, book, ch, verse, ctx) for x in order}
+        first = rs[numbering]
+        if first.get("resolved") or first.get("exists"):
+            used, r = numbering, first
+        else:
+            used = next((x for x in order[1:] if rs[x].get("resolved")), None)
+            if used is None:
+                return {"resolved": False, "why": f"no such verse in any numbering ({', '.join(order)})"}, numbering
+            r = {**rs[used], "why_numbering": f"the {numbering} numbering has no such verse; the {used} numbering fits"}
+        r = {k: r[k] for k in ("resolved", "target", "spans", "why", "why_numbering") if k in r}
         if r.get("resolved"):
-            return r if r["target"] == direct else {**r, "alt_target": direct}
-        if r.get("why", "").startswith("no such"):
-            return {"resolved": True, "target": direct, "numbering": "english",
-                    "why_numbering": f"the {fmap} numbering has no such verse; the English numbering fits"}
-        return r
+            other = next((rs[x]["target"] for x in order if x != used and rs[x].get("resolved")
+                          and rs[x]["target"] != r["target"]), None)
+            if other:
+                r["alt_target"] = other
+        return r, used
 
-    r = one(v)
-    out.update({k: r[k] for k in ("resolved", "target", "spans", "alt_target", "numbering",
-                                  "why_numbering", "why") if k in r})
-    if not nt:
-        out.setdefault("numbering", numbering)
-        # the rule names the numbering actually read, not the one first tried
-        mapname = {"english": "kjv", "lxx": "brenton", "vulgate": "vulgate"}[out["numbering"]]
+    r, used = one(v)
+    out.update(r)
+    out["numbering"] = used
     if r.get("resolved") and end and end > v:
-        last = one(end)
+        last, _ = one(end)
         if last.get("resolved"):
             out["through"] = last["target"]
-    out["map"] = mapname + ("+content" if how == "content" else "")
+    out["map"] = MAP_OF[used] + ("+content" if how == "content" else "")
     return out
 
 

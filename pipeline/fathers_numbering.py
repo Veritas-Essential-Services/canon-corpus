@@ -7,59 +7,67 @@ in that editor's numbering instead of assuming the family's.
     python3 pipeline/fathers_numbering.py           # measure -> data/fathers/numbering.json
     python3 pipeline/fathers_numbering.py --check   # re-measure: byte-identical
 
-WHY. A Greek editor cites the Old Testament as the Septuagint numbers it, or
-as the Hebrew and English Bibles do, and editors differ: most cite the Psalms
-by the Greek count (Ps. 71 for the KJV's Ps 72), but Heikel's Laus
-Constantini cites "Psal. 72, 8 ... 72, 7" beside Isa 2:4 for the peace psalm,
-the KJV's Ps 72. Read through the Septuagint's map, that lands on Ps 73
-("they are corrupt"). An editor can also
-number the Psalms one way and the rest of the Bible the other (Cohn-Wendland's
-Philo, PR #8). So the reading is decided per EDITOR and per CLASS of book:
-the Psalms, Jeremiah (whose Greek order of chapters is not the Hebrew's),
-and the rest.
+WHY. An editor cites the Old Testament in one of three numberings, and
+editors differ:
+  lxx / vulgate   the Septuagint's (Brenton's map) or the Clementine's: the
+                  Greek count of the Psalms, a long title counted as verse 1;
+  hebrew          the Hebrew Bible's chapter and verse (BHS, the German
+                  Bibles), a psalm's title counted as verse 1
+                  (data/versification/bhs-kjv.json);
+  english         the KJV's chapter and verse as printed.
+Most Greek editors cite the Psalms by the Greek count (Ps. 71 for the KJV's
+Ps 72), but Heikel's Eusebius cites "Psal. 72, 8 ... 72, 7" beside Isa 2:4
+for the peace psalm, the KJV's Ps 72, and "Psal. 7, 16ff." for the pit, the
+KJV's 7:15: the Hebrew count. An editor can also number the Psalms one way
+and the rest of the Bible another (Cohn-Wendland's Philo, PR #8). So the
+reading is decided per EDITOR and per CLASS of book: the Psalms, Jeremiah
+(whose Greek order of chapters is not the Hebrew's), and the rest.
 
-HOW. Every OT reference in an edition's notes is read in both numberings: the
-family's (Brenton's Septuagint for a Greek edition, the Clementine Vulgate for
-a Latin one) and the English (the KJV's chapter and verse as printed). Where
-the two name different KJV verses, the reference is evidence:
+HOW. Every OT reference in an edition's notes is read in all three of its
+family's numberings. Where they name different KJV verses, the reference is a
+vote for the numberings it supports:
 
-  existence   only one numbering has such a verse (LXX Ps 132 has 3 verses,
-              so "Ps. 132, 7" is the English count).
-  content     Greek only: both exist, and the father's own words decide.
+  existence   only some numberings have such a verse (LXX Ps 132 has 3
+              verses, so "Ps. 132, 7" is the Hebrew or English count).
+  content     Greek only: all exist, and the father's own words decide.
               Each Greek word's Strong's number (tag_fathers.py) gives its
               English glosses (data/strongs/strongs.jsonl: KJV usage and
               definition); each candidate verse is read in Brenton's English,
-              the Septuagint's own translation (the KJV verse the English
-              reading names is read as the Brenton verse(s) that map to it).
-              The share of the verse's words, weighted by rarity, found among
-              the unit's glosses is its score; a vote needs the winner ahead
-              by MARGIN and sharing at least MIN_SHARED words. The glosses of the COMMON words (NT count over
-              COMMON: the article, particles, prepositions, θεός, κύριος)
-              are left out: "pass", "over", "end" match any verse.
-              CALIBRATED on the same notes where both numberings name the
-              same verse (so which verse the editor meant is not in doubt),
-              against the same verse number in the next chapter and against
-              the next verse: 89% of votes are right between chapters and 75%
-              between neighbouring verses (numbering.json "calibration").
+              the Septuagint's own translation (as the Brenton verse(s) that
+              map to that KJV verse). The share of the verse's words,
+              weighted by rarity, found among the unit's glosses is its
+              score; a vote needs the winner ahead of the next by MARGIN and
+              sharing at least MIN_SHARED words. The glosses of the COMMON
+              words (NT count over COMMON: the article, particles,
+              prepositions, θεός, κύριος) are left out: "pass", "over",
+              "end" match any verse. CALIBRATED on the same notes where every
+              numbering names the same verse (so which verse the editor
+              meant is not in doubt), against the same verse number in the
+              next chapter and against the next verse: 89% of votes are right
+              between chapters and 75% between neighbouring verses
+              (numbering.json "calibration").
 
-DECISION, per editor and class (numbering.json "rule"): log-odds. The prior
-is the share of all the family's votes for the class that say English (the
-Greek editions number the Psalms as the Septuagint, 89%, and the rest as the
-English, 62%; Jeremiah is near even, so a thinly attested edition's Jeremiah
-is close to a coin flip, and its log-odds say so). Each vote adds the
-log-odds of a vote of its kind being right: content from the calibration,
+DECISION, per editor and class (numbering.json "rule"): each numbering scores
+the log of its share of the whole family's support for the class (the prior:
+the Greek editions number the Psalms as the Septuagint, 80%; Jeremiah and the
+rest are near even, so a thinly attested edition there is close to a coin
+flip, and its scores say so), plus, for every vote supporting it, the
+log-odds of a vote of that kind being right: content from the calibration,
 existence from the Latin editions' Psalms, where the Vulgate numbering is not
 in doubt and 5% of existence votes still say otherwise (OCR digits, slips).
-So a thinly attested edition leans on the pool and a well attested one
-decides for itself: Heikel's Psalms (Ps 132:7, which the Septuagint does not
-have, and the peace psalm) come out English against the pool. A Greek class
-with at least MIN_VOTES votes of which neither side has SHARE is MIXED
-(Dindorf's Demonstratio cites the Psalms both ways): there each note's run of
-references to one chapter is read as one quotation, by one content vote over
-all its verses, where the two numberings put it in different chapters (rule
-suffix +content); else as the edition leans. The evidence is committed beside
-each decision. Latin editions have no content votes (no English for their
-words), so existence alone decides them, and it says Vulgate throughout.
+The highest score wins. So a thinly attested edition leans on the pool and a
+well attested one decides for itself: Heikel's Psalms (Ps 132:7, which the
+Septuagint does not have, and the peace psalm) come out Hebrew against the
+pool, the Hebrew and English agreeing on both and the pool favouring the
+Hebrew. A Greek class with at least MIN_VOTES votes of which no numbering has
+SHARE is MIXED (Dindorf's Demonstratio cites the Psalms both ways): there each
+note's run of references to one chapter is read as one quotation, by one
+content vote over all its verses, where the winning and runner-up readings
+put it in different chapters (rule suffix +content); else as the edition
+leans. The evidence is committed beside each decision. Latin editions have no
+content votes (no English for their words), so existence alone decides them:
+Vulgate, except where an edition's existence votes say Hebrew
+(Reifferscheid-Wissowa's Tertullian, Psalms).
 
 INPUT: data/books/<slug>.json (the notes), build/fathers/<slug>.json (the
 Greek tags, tag_fathers.py), data/strongs/strongs.jsonl (committed),
@@ -109,30 +117,29 @@ def words(s):
 
 
 NO_KJV = "no-kjv-verse"
+SCHEMES = {"grc": ("lxx", "hebrew", "english"), "lat": ("vulgate", "hebrew", "english")}
 
 
 def readings(book, ch, v, family, ctx):
-    """(family-numbered KJV target, English-numbered KJV target); None where
-    that numbering has no such verse, NO_KJV where the family's Bible has it
-    but the KJV has no verse for it (an addition: still evidence that the
-    verse exists in that numbering)."""
-    osis = f"{book}.{ch}.{v}"
-    try:
-        if family == "lat":
-            r = (VM.resolve_vulgate(osis, ctx["vmap"], ctx["kjv_ids"])
-                 if f"{book}.{ch}" in ctx["vmap"]["vulgate_chapters"] else {})
-        else:
-            r = VM.resolve_brenton(osis, ctx["bmap"], ctx["kjv_ids"])
-    except (ValueError, KeyError):
-        r = {}
-    if r.get("resolved"):
-        fam = r["target"]
-    elif r and not r.get("why", "").startswith("no such"):
-        fam = NO_KJV  # the family's Bible has the verse; the KJV does not (Dan 3:24-90 Vulg.)
-    else:
-        fam = None
-    direct = f"kjv:{osis}"
-    return fam, (direct if direct in ctx["kjv_ids"] else None)
+    """{numbering: KJV target} for one reference read in each numbering the
+    family's editors might use: None where that numbering has no such verse,
+    NO_KJV where it has the verse but the KJV numbers none for it (a psalm
+    title in the Hebrew count, Dan 3:24-90 in the Vulgate's: still evidence
+    that the verse exists in that numbering)."""
+    out = {}
+    for scheme in SCHEMES[family]:
+        r = FS.read_in(scheme, book, ch, v, ctx)
+        out[scheme] = r["target"] if r.get("resolved") else (NO_KJV if r.get("exists") else None)
+    return out
+
+
+def candidates(R):
+    """{KJV target: [numberings naming it]}, real targets only, in scheme order."""
+    out = {}
+    for scheme, t in R.items():
+        if t and t != NO_KJV:
+            out.setdefault(t, []).append(scheme)
+    return out
 
 
 class Brenton:
@@ -159,16 +166,15 @@ class Brenton:
         got = [self.text[o] for o in self.inv.get(kjv, []) if o in self.text]
         return set().union(*got) if got else None
 
-    def pick(self, unit_words, a, b):
-        """0 or 1: the verse word set the father's words favour, by MARGIN and
-        with at least MIN_SHARED words in common; None if neither."""
-        sa, sb = self.score(unit_words, a), self.score(unit_words, b)
-        if abs(sa - sb) < MARGIN:
+    def pick(self, unit_words, sets):
+        """The index of the verse word set the father's words favour, by
+        MARGIN over the next and with at least MIN_SHARED words in common;
+        None if none does."""
+        scores = sorted(((self.score(unit_words, x), i) for i, x in enumerate(sets)), reverse=True)
+        (s1, i1), (s2, _i2) = scores[0], scores[1]
+        if s1 - s2 < MARGIN or len(sets[i1] & unit_words) < MIN_SHARED:
             return None
-        win = a if sa > sb else b
-        if len(win & unit_words) < MIN_SHARED:
-            return None
-        return 0 if sa > sb else 1
+        return i1
 
     def score(self, unit_words, vw):
         w = lambda x: self.idf.get(x, self.top)  # noqa: E731
@@ -218,59 +224,76 @@ def unit_words(tokens, gl):
     return out
 
 
-def content_vote(bren, uw, book, ch, v, eng):
-    """'lxx', 'english' or None: which reading of one Greek reference the
-    father's words favour, by MARGIN."""
-    a = bren.verse(osis=f"{book}.{ch}.{v}")
-    b = bren.verse(kjv=eng)
-    if not a or not b:
+def chapter_of(t):
+    return t.rsplit(".", 1)[0]
+
+
+def content_vote(bren, uw, cands):
+    """(numberings, kind) the father's words favour among the candidate
+    verses of one reference, or None; kind is 'chapter' when the winner and
+    the runner-up lie in different chapters, else 'verse'."""
+    ts = [t for t in cands if bren.verse(kjv=t)]
+    if len(ts) < 2:
         return None
-    w = bren.pick(uw, a, b)
-    return {0: "lxx", 1: "english"}.get(w)
+    sets = [bren.verse(kjv=t) for t in ts]
+    i = bren.pick(uw, sets)
+    if i is None:
+        return None
+    rest = sorted(((bren.score(uw, sets[j]), ts[j]) for j in range(len(ts)) if j != i), reverse=True)
+    kind = "chapter" if chapter_of(ts[i]) != chapter_of(rest[0][1]) else "verse"
+    return cands[ts[i]], kind
 
 
 def group_vote(bren, uw, items, ctx, family="grc"):
-    """'lxx', 'english' or None for the references one note prints together
-    in one chapter ("Jerem. 9, 23. 24"): they are one quotation, so they are
-    read in one numbering, by the words of all their verses at once. Only
-    where the two numberings put the passage in different CHAPTERS (the
-    measure's better-calibrated case); a shift of a verse or two within the
-    chapter is left to the edition's numbering."""
-    a, b, chapters = set(), set(), set()
+    """The numberings the father's words favour for the references one note
+    prints together in one chapter ("Jerem. 9, 23. 24"): one quotation, so
+    one numbering, judged by the words of all its verses at once. Only where
+    the winning and the runner-up readings put the passage in different
+    CHAPTERS (the better-calibrated case); a shift of a verse or two within
+    the chapter is left to the edition's numbering. None if undecided."""
+    per = collections.defaultdict(list)    # numbering -> its targets
     for book, ch, v in items:
-        fam, eng = readings(book, ch, v, family, ctx)
-        if not fam or fam == NO_KJV or not eng or fam == eng:
-            continue
-        chapters.add(fam.rsplit(".", 1)[0] != eng.rsplit(".", 1)[0])
-        va, vb = bren.verse(osis=f"{book}.{ch}.{v}"), bren.verse(kjv=eng)
-        if va and vb:
-            a |= va
-            b |= vb
-    if chapters != {True} or not a or not b:
+        for scheme, t in readings(book, ch, v, family, ctx).items():
+            per[scheme].append(t)
+    groups = {}
+    for scheme, ts in per.items():
+        if all(t and t != NO_KJV for t in ts):
+            groups.setdefault(tuple(ts), []).append(scheme)
+    keys = [k for k in groups if all(bren.verse(kjv=t) for t in k)]
+    if len(keys) < 2:
         return None
-    w = bren.pick(uw, a, b)
-    return {0: "lxx", 1: "english"}.get(w)
+    sets = [set().union(*(bren.verse(kjv=t) for t in k)) for k in keys]
+    i = bren.pick(uw, sets)
+    if i is None:
+        return None
+    rest = sorted(((bren.score(uw, sets[j]), j) for j in range(len(keys)) if j != i), reverse=True)
+    if chapter_of(keys[i][0]) == chapter_of(keys[rest[0][1]][0]):
+        return None
+    return set(groups[keys[i]])
 
 
-def calibrate(bren, uw, book, ch, v, cal):
-    """How often a content vote is right: where both numberings name the same
-    verse (no doubt which one the editor meant), score it against the same
-    verse number in the next chapter and against the next verse, as the
+def calibrate(bren, uw, target, cal):
+    """How often a content vote is right: where every numbering names the
+    same verse (no doubt which one the editor meant), score it against the
+    same verse number in the next chapter and against the next verse, as the
     measure would."""
-    true = bren.verse(osis=f"{book}.{ch}.{v}")
+    true = bren.verse(kjv=target)
     if not true:
         return
-    for kind, decoy in (("chapter", f"{book}.{ch + 1}.{v}"), ("verse", f"{book}.{ch}.{v + 1}")):
-        d = bren.verse(osis=decoy)
+    book, ch, v = target[4:].split(".")
+    for kind, decoy in (("chapter", f"kjv:{book}.{int(ch) + 1}.{v}"), ("verse", f"kjv:{book}.{ch}.{int(v) + 1}")):
+        d = bren.verse(kjv=decoy)
         if not d:
             continue
-        w = bren.pick(uw, true, d)
-        cal[kind][{None: "unclear", 0: "right", 1: "wrong"}[w]] += 1
+        i = bren.pick(uw, [true, d])
+        cal[kind][{None: "unclear", 0: "right", 1: "wrong"}[i]] += 1
 
 
 def measure(ctx, slugs, bren=None, gl=None, cal=None):
     """{family: {editor: {class: Counter}}} of votes, and the books behind each
-    editor; `cal` collects the content vote's calibration."""
+    editor; `cal` collects the content vote's calibration. A vote's key is
+    its kind and the numberings it supports: 'existence:lxx+english' (the
+    Hebrew count has no such verse), 'content_chapter:hebrew'."""
     cal = cal if cal is not None else collections.defaultdict(collections.Counter)
     bren = bren or Brenton(ctx)
     gl = gl or glosses()
@@ -295,44 +318,45 @@ def measure(ctx, slugs, bren=None, gl=None, cal=None):
                     book_, kind, ch, v, _end, _alt = ref
                     if kind == "deutero" or v is None or book_ in FS.NT:
                         continue
-                    fam, eng = readings(book_, ch, v, family, ctx)
-                    if fam == eng:
-                        if family == "grc" and fam:
+                    R = readings(book_, ch, v, family, ctx)
+                    have = [x for x in SCHEMES[family] if R[x] is not None]
+                    if not have:
+                        continue
+                    cands = candidates(R)
+                    if len(have) == len(R) and len(cands) == 1 and NO_KJV not in R.values():
+                        if family == "grc":
                             if uw is None:
                                 uw = unit_words(tokens.get(u["id"], []), gl)
-                            calibrate(bren, uw, book_, ch, v, cal)
+                            calibrate(bren, uw, next(iter(cands)), cal)
                         continue
                     c = votes[family][ed][numbering_class(book_)]
                     books_of[(family, ed)].add(slug)
-                    if fam is None or eng is None:
-                        c[f"existence_{'english' if fam is None else FAMILY_MAP[family]}"] += 1
+                    if len(have) < len(R):
+                        c["existence:" + "+".join(have)] += 1
                         continue
-                    if family != "grc":
+                    if family != "grc" or len(cands) < 2:
                         continue
                     if uw is None:
                         uw = unit_words(tokens.get(u["id"], []), gl)
-                    if fam == NO_KJV:
-                        continue
-                    cv = content_vote(bren, uw, book_, ch, v, eng)
+                    cv = content_vote(bren, uw, cands)
                     if cv:
-                        kind = "chapter" if fam.rsplit(".", 1)[0] != eng.rsplit(".", 1)[0] else "verse"
-                        c[f"content_{cv}_{kind}"] += 1
+                        c[f"content_{cv[1]}:" + "+".join(cv[0])] += 1
     return votes, books_of
 
 
-def tally(c, family):
-    """(English votes, family votes), every kind counted once."""
-    fam = FAMILY_MAP[family]
-    e = sum(n for k, n in c.items() if k.split("_")[1] == "english")
-    f = sum(n for k, n in c.items() if k.split("_")[1] == fam)
-    return e, f
+def support(c, family):
+    """{numbering: votes that support it} (a vote may support several)."""
+    out = {x: 0 for x in SCHEMES[family]}
+    for k, n in c.items():
+        for x in k.split(":")[1].split("+"):
+            out[x] += n
+    return out
 
 
 def is_mixed(c, family):
-    """Enough votes, and neither numbering has SHARE of them."""
-    e, f = tally(c, family)
-    n = e + f
-    return n >= MIN_VOTES and max(e, f) / n < SHARE
+    """Enough votes, and no numbering has SHARE of them."""
+    n = sum(c.values())
+    return n >= MIN_VOTES and max(support(c, family).values()) / n < SHARE
 
 
 def logit(p):
@@ -340,17 +364,21 @@ def logit(p):
     return math.log(p / (1 - p))
 
 
-def lean(c, family, prior, weights):
-    """The numbering this edition's votes favour: the pool's English share as
-    prior odds, each vote adding its measured weight (the log-odds of being
-    right: weights). A thinly attested edition leans on the pool, a well
-    attested one decides for itself; ties go to the family's map."""
-    odds = logit(prior)
+def decide(c, family, prior, weights):
+    """The numbering this edition's votes favour: each numbering's log prior
+    (its share of the pool's support for the class), plus the measured
+    weight of every vote that supports it (`weights`: the log-odds of a vote
+    of that kind being right). A thinly attested edition leans on the pool, a
+    well attested one decides for itself; ties go by SCHEMES order (the
+    family's own first)."""
+    score = {x: math.log(min(max(prior[x], CLIP), 1 - CLIP)) for x in SCHEMES[family]}
     for k, n in c.items():
-        kind, side = k.split("_")[0], k.split("_")[1]
-        w = weights["existence"] if kind == "existence" else weights[k.split("_")[2]]
-        odds += n * w * (1 if side == "english" else -1)
-    return ("english" if odds > 0 else FAMILY_MAP[family]), round(odds, 3)
+        kind, sup = k.split(":")
+        w = weights["existence"] if kind == "existence" else weights[kind.split("_")[1]]
+        for x in sup.split("+"):
+            score[x] += n * w
+    best = max(SCHEMES[family], key=lambda x: (round(score[x], 9), -SCHEMES[family].index(x)))
+    return best, {x: round(v, 3) for x, v in score.items()}
 
 
 CLASSES = ("Ps", "Jer", "rest")
@@ -359,55 +387,67 @@ CLASSES = ("Ps", "Jer", "rest")
 def build(ctx, slugs):
     cal = collections.defaultdict(collections.Counter)
     votes, books_of = measure(ctx, slugs, cal=cal)
-    out = {"schema": "canon-corpus/fathers-numbering/v1",
+    out = {"schema": "canon-corpus/fathers-numbering/v2",
            "built_by": "pipeline/fathers_numbering.py",
-           "rule": {"margin": MARGIN, "min_shared": MIN_SHARED, "min_votes": MIN_VOTES,
-                    "share": SHARE, "clip": CLIP,
-                    "common": COMMON,
+           "rule": {"numberings": {f: list(v) for f, v in SCHEMES.items()},
+                    "margin": MARGIN, "min_shared": MIN_SHARED, "min_votes": MIN_VOTES,
+                    "share": SHARE, "clip": CLIP, "common": COMMON,
                     "classes": list(CLASSES),
                     "how": [
-                        "votes: existence (only one numbering has the verse) and, in Greek, "
-                        "content (the father's glossed words favour one verse by margin)",
-                        "an edition's class is read as its log-odds say: the pool's English "
-                        "share for the class as prior odds (clipped to clip..1-clip), plus each "
-                        "vote's weight (`weights`: the log-odds of a vote of that kind being "
-                        "right, from `calibration` and, for existence, the Latin Psalms)",
-                        "mixed (Greek): at least min_votes and neither side has `share` of them; "
+                        "each OT reference is read in every numbering of its family: lxx "
+                        "(Brenton's map) or vulgate (the Clementine's), hebrew (BHS chapter and "
+                        "verse, a psalm's title counted as verse 1: data/versification/bhs-kjv.json) "
+                        "and english (the KJV's chapter and verse as printed)",
+                        "votes, keyed kind:numberings-supported: existence (only some numberings "
+                        "have the verse) and, in Greek, content_chapter / content_verse (the "
+                        "father's glossed words favour one candidate verse by margin)",
+                        "an edition's class takes the numbering with the highest score: the log of "
+                        "its pooled support share for the class (clipped to clip..1-clip), plus "
+                        "each supporting vote's weight (`weights`: the log-odds of a vote of that "
+                        "kind being right, from `calibration` and, for existence, the Latin Psalms)",
+                        "mixed (Greek): at least min_votes and no numbering has `share` of them; "
                         "each note's run of references to one chapter is then read by one content "
-                        "vote where the numberings differ by chapter, else as the edition leans"]},
+                        "vote where the candidates differ by chapter, else as the edition leans"]},
            "calibration": {k: {**dict(sorted(c.items())),
                                "right_share_of_votes": round(c["right"] / (c["right"] + c["wrong"]), 4)
                                if c["right"] + c["wrong"] else None}
                            for k, c in sorted(cal.items())},
            "pooled": {}, "editions": {}}
-    pooled = {}
+    prior = {}
     for family in ("grc", "lat"):
         for cls in CLASSES:
             c = collections.Counter()
             for ed in votes[family].values():
                 c.update(ed[cls])
-            e, f = tally(c, family)
-            pooled[(family, cls)] = round(e / (e + f), 4) if e + f else 0.0
-            out["pooled"].setdefault(family, {})[cls] = {"english_share": pooled[(family, cls)],
+            sup = support(c, family)
+            tot = sum(sup.values())
+            prior[(family, cls)] = {x: round(n / tot, 4) if tot else round(1 / len(sup), 4)
+                                   for x, n in sup.items()}
+            out["pooled"].setdefault(family, {})[cls] = {"support_share": prior[(family, cls)],
                                                          "votes": dict(sorted(c.items()))}
     # How far to trust a vote. Content: its calibration. Existence: measured
     # on the Latin editions' Psalms, where the Vulgate numbering is not in
-    # doubt; the share of existence votes there that say otherwise is what
-    # OCR digits and slips cost (and some editors' real Hebrew references).
-    ex = 1 - pooled[("lat", "Ps")]
+    # doubt: the share of existence votes there that do not support it is
+    # what OCR digits and slips cost (and some editors' real Hebrew references).
+    lat_ps = collections.Counter({k: n for k, n in out["pooled"]["lat"]["Ps"]["votes"].items()
+                                  if k.startswith("existence:")})
+    ex = support(lat_ps, "lat")["vulgate"] / sum(lat_ps.values()) if lat_ps else 0.95
     weights = {"existence": round(logit(ex), 4)}
     for kind in ("chapter", "verse"):
         r = out["calibration"].get(kind, {}).get("right_share_of_votes")
         weights[kind] = round(logit(r), 4) if r else 0.0
     out["rule"]["weights"] = weights
     for family in ("grc", "lat"):
+        for cls in CLASSES:
+            num, _ = decide(collections.Counter(), family, prior[(family, cls)], weights)
+            out["pooled"][family][cls]["numbering"] = num
         eds = {}
         for ed in sorted(votes[family]):
             row = {"books": sorted(books_of[(family, ed)])}
             for cls in CLASSES:
                 c = votes[family][ed][cls]
-                num, odds = lean(c, family, pooled[(family, cls)], weights)
-                r = {"numbering": num, "log_odds_english": odds}
+                num, score = decide(c, family, prior[(family, cls)], weights)
+                r = {"numbering": num, "score": score}
                 if family == "grc" and is_mixed(c, family):
                     r["per_reference"] = True
                 r["votes"] = dict(sorted(c.items()))
@@ -426,8 +466,8 @@ def load(path=OUT):
         for ed, row in eds.items():
             for cls in CLASSES:
                 table[(family, ed, cls)] = (row[cls]["numbering"], bool(row[cls].get("per_reference")))
-    pooled = {(family, cls): ("english" if v["english_share"] > 0.5 else FAMILY_MAP[family], False)
-              for family, p in m["pooled"].items() for cls, v in p.items()}
+    pooled = {(family, cls): (v["numbering"], False) for family, p in m["pooled"].items()
+              for cls, v in p.items()}
     return table, pooled
 
 
@@ -450,7 +490,8 @@ def main():
                 f"{c}={row[c]['numbering']}{'~' if row[c].get('per_reference') else ''}"
                 for c in ("Ps", "Jer", "rest")))
     print("  calibration:", m["calibration"])
-    print("  pooled english share:", {f: {c: v["english_share"] for c, v in p.items()} for f, p in m["pooled"].items()})
+    print("  weights:", m["rule"]["weights"])
+    print("  pooled:", {f: {c: (v["numbering"], v["support_share"]) for c, v in p.items()} for f, p in m["pooled"].items()})
     if "--check" in sys.argv:
         ok = os.path.exists(OUT) and open(OUT, "rb").read() == blob
         print("  CHECK", "PASSED: byte-identical" if ok else "FAILED: differs")

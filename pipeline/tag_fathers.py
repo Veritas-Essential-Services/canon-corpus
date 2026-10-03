@@ -84,7 +84,8 @@ def scripture_context(numbering=False):
     Strong's glosses)."""
     with open(os.path.join(ROOT, "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
         kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
-    ctx = {"kjv_ids": kjv_ids, "bmap": VM.load(VM.BRENTON_PATH), "vmap": VM.load(VM.VULGATE_PATH)}
+    ctx = {"kjv_ids": kjv_ids, "bmap": VM.load(VM.BRENTON_PATH), "vmap": VM.load(VM.VULGATE_PATH),
+           "hmap": VM.load(VM.PATH)}
     if numbering:
         import fathers_numbering as FN
         ctx["numbering"] = FN.load()
@@ -307,7 +308,7 @@ def manifest(entries):
         "scripture": {"rules": "fathers_scripture.py: note/<map> from a footnote, refs/<map> from a "
                                "printed bracketed reference; map = the edition's measured OT "
                                "numbering (fathers_numbering.py, data/fathers/numbering.json): "
-                               "vulgate, brenton (the Septuagint's) or kjv (the English), and nt; "
+                               "vulgate, brenton (the Septuagint's), bhs (the Hebrew's) or kjv (the English), and nt; "
                                "+content where an edition that mixes numberings was read by the "
                                "father's own words; +ocr-twin where Job/John was "
                                "read as its twin",
