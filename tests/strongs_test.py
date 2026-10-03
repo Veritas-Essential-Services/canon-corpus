@@ -140,7 +140,7 @@ if "nt" in cc.get("G26", {}).get("passages", {}):
 # -- the English half: KJV tags (built locally; rights call pending) ------------
 import hashlib  # noqa: E402
 kjv_uids = {c: u for c, u in reg.map.items() if c.startswith("kjv:")}
-IN_GIT = os.path.isdir(os.path.join(ROOT, ".git"))
+IN_GIT = os.path.exists(os.path.join(ROOT, ".git"))   # a file in a worktree
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "data/strongs", "build"], capture_output=True, text=True)
 tracked = set(r.stdout.split())
 allowed = {f"data/strongs/{n}" for n in B.FILES} | {f"data/strongs/{n}.prov.md" for n in B.FILES}

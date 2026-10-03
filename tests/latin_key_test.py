@@ -151,7 +151,7 @@ ok(set(man["files"]) == set(B.LOCAL_FILES) and "gitignored" in man["files_dir"],
    "the manifest lists every built file and says where they live (gitignored)")
 tracked = subprocess.run(["git", "ls-files", "data/lemmas/latin-key", "build/latin-key"], cwd=ROOT,
                          capture_output=True, text=True).stdout.split()
-if os.path.isdir(os.path.join(ROOT, ".git")):
+if os.path.exists(os.path.join(ROOT, ".git")):   # a file in a worktree
     ok(tracked == ["data/lemmas/latin-key/manifest.json", "data/lemmas/latin-key/manifest.json.prov.md"],
        "git tracks only the manifest: nothing derived from Lewis & Short is committed")
 else:

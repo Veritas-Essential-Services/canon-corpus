@@ -136,7 +136,8 @@ by path. Since PR #8's 44cb57d their shards are rebuilt by `pipeline/rebuild_bib
 not committed. When they are absent, the committed concordance rows stand.
 
 **A partial build never deletes.** A witness or corpus whose source is absent is
-carried forward from the committed files, and the manifest says `carried_forward`.
+carried forward from the committed files, with the committed manifest's stats
+unchanged (so `--check` still passes); the build says so on stdout.
 That is the 2026-09-06 manifest lesson, applied here from the start.
 
 ## 6. The English half: the KJV's words, tagged

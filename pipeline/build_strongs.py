@@ -287,10 +287,10 @@ def build_witnesses(table, prior_rows, prior_manifest):
                     out[k][name] = w[name]
                     n += 1
             carried.append(name)
-            stats[name] = dict((prior_manifest.get("witnesses") or {}).get(name, {}),
-                               book=label, carried_forward=True,
-                               numbers_covered=n,
-                               note="source not present in this build; committed links kept as they were")
+            # the committed stats as they were, so --check stays byte-identical;
+            # the carry is reported on stdout, never written into the manifest
+            stats[name] = (prior_manifest.get("witnesses") or {}).get(name) or {"book": label, "numbers_covered": n}
+            print(f"  {label} not here: {n} numbers' committed {name} links carried forward")
             continue
         linked, beyond, unkeyed = 0, 0, 0
         for u in units:
@@ -907,7 +907,7 @@ def main():
           f"{m['uids']['registered']} registered")
     for k, v in m["witnesses"].items():
         print(f"witness {k}: {v.get('numbers_covered')} numbers"
-              + (" (carried forward)" if v.get("carried_forward") else ""))
+              + (" (carried forward)" if k in carried else ""))
     for k, v in m["concordance"].items():
         print(f"concordance {k}: {v.get('numbers_occurring')} numbers from {v.get('tokens')} tokens")
 
