@@ -673,3 +673,6 @@
 
 ## 2026-10-03 02:28 CDT — friedlander: done
 - 1/1 fetched (Gutenberg 72880), 331 units, 0 ~2 ids.
+
+## 2026-10-03 02:29 CDT — ginzberg: done
+- 2/2 fetched (Gutenberg 1493, 1494), 1,836 units, 0 ~2 ids.

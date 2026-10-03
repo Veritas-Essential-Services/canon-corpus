@@ -2515,6 +2515,17 @@ Shelf: `pipeline/friedlander_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | Jewish Fairy Stories | have | PG 72880, `friedlander-jewish-fairy-stories` (331 units) |
 
+## Louis Ginzberg (tr. Henrietta Szold)
+
+Shelf: `pipeline/ginzberg_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The legends of the Bible's people from Talmud, Midrash and later sources; cut by chapter and legend. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Legends of the Jews, Volume 1 | have | PG 1493, `ginzberg-legends-of-the-jews-1` (918 units) |
+| The Legends of the Jews, Volume 2 | have | PG 1494, `ginzberg-legends-of-the-jews-2` (918 units) |
+| ginzberg-legends-of-the-jews-3 | excluded | Gutenberg 2881, tr. Paul Radin (catalogue 1883-1959): held for Adam, UK copyright to 2029 |
+| ginzberg-legends-of-the-jews-4 | excluded | Gutenberg 2882, tr. Paul Radin with Henrietta Szold: held for Adam with volume 3 |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,84 @@
+{
+ "_about": "Louis Ginzberg's The Legends of the Jews, the legends of the Bible's people gathered from Talmud, Midrash and later sources: volume 1 (preface dated March 24, 1909) and volume 2 (preface dated March 28, 1910), both translated from the German manuscript by Henrietta Szold. Volumes 3 and 4 are held: their translator is Paul Radin, whose Gutenberg catalogue dates (1883-1959) put the translation in copyright in the UK until the end of 2029, the same question as Milne. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Louis Ginzberg",
+ "_name_words": [
+  "ginzberg"
+ ],
+ "_surname": [
+  "louis ginzberg"
+ ],
+ "_translators": {
+  "ginzberg-legends-of-the-jews-1": "Szold",
+  "ginzberg-legends-of-the-jews-2": "Szold"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ginzberg-legends-of-the-jews-1": [
+   1493,
+   "The Legends of the Jews, Volume 1",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+ [A-Z][^a-z]+$"
+     },
+     {
+      "re": "[A-Z][^a-z]+$",
+      "strip": "\\.$",
+      "number_repeats": true
+     }
+    ],
+    "start": "I [A-Z][^a-z]+$",
+    "front": true
+   }
+  ],
+  "ginzberg-legends-of-the-jews-2": [
+   1494,
+   "The Legends of the Jews, Volume 2",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+ [A-Z][^a-z]+$"
+     },
+     {
+      "re": "[A-Z][^a-z]+$",
+      "strip": "\\.$",
+      "number_repeats": true
+     }
+    ],
+    "start": "I [A-Z][^a-z]+$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ginzberg-legends-of-the-jews-3": "Gutenberg 2881, tr. Paul Radin (catalogue 1883-1959): held for Adam, UK copyright to 2029",
+  "ginzberg-legends-of-the-jews-4": "Gutenberg 2882, tr. Paul Radin with Henrietta Szold: held for Adam with volume 3"
+ },
+ "_checks": {
+  "ginzberg-legends-of-the-jews-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "louis ginzberg",
+   "translator_claimed": "Szold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henrietta Szold",
+   "translator_match": true
+  },
+  "ginzberg-legends-of-the-jews-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "louis ginzberg",
+   "translator_claimed": "Szold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henrietta Szold",
+   "translator_match": true
+  }
+ }
+}
