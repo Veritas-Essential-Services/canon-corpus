@@ -1368,3 +1368,12 @@ Slugs `venn-*`.
 | Work | Status | Where |
 |---|---|---|
 | The Complete Duty of Man (New York, 1838 printing) | have-raw | IA (identifier in the shelf) |
+
+
+## John Fletcher of Madeley (round 9, my pick, 2026-10-03)
+
+Slugs `fletcher-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 4 vols (New York: Carlton and Porter / Carlton and Lanahan, undated; catalogued 1833), incl. the Checks to Antinomianism | have-raw | IA (identifiers in the shelf) |

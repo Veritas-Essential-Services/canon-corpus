@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:53 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:55 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -161,6 +161,7 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 |---|---|---|---|---|---|
 | James Hervey | james-hervey_shelf.json | none | 1 (Whole Works in one volume, Edinburgh 1834: Meditations and Contemplations, Theron and Aspasio, letters) | none | the 1804 and 1825 six-volume sets (same works) |
 | Henry Venn | henry-venn_shelf.json | none | 1 (The Complete Duty of Man, New York 1838) | none | earlier printings with long s |
+| John Fletcher of Madeley | john-fletcher_shelf.json | none | 4 (Works, New York, 4 vols; catalogued 1833, imprints Carlton and Porter / Carlton and Lanahan, undated) | none | the 1826 and 1836 English sets; the Posthumous Works (1824) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

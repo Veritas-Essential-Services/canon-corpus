@@ -381,3 +381,6 @@
 
 ## 2026-10-03 00:53 CDT — henry-venn done
 - `pipeline/henry-venn_shelf.json`: The Complete Duty of Man, 1838 printing, raw IA OCR, 98.8%, about 0.9 MB; title page read (1838; a "1923" in the OCR is a library stamp). `--verify --record`: 0 mismatched, 0 rights flags; matched on "henry venn". 0 uids minted.
+
+## 2026-10-03 00:55 CDT — john-fletcher done
+- `pipeline/john-fletcher_shelf.json`: the New York Works, 4 volumes of raw IA OCR, median 98.8% (97.8-99.2%), about 9 MB. The catalogue says 1833; the title pages carry no year, and the imprints differ (Carlton and Porter on vol. 1, Carlton and Lanahan on vol. 2), so the shelf says so rather than claiming 1833. `--verify --record`: 0 mismatched, 0 rights flags; matched on "john fletcher". 0 uids minted.

@@ -947,10 +947,13 @@
     },
     {
       "id": "john-fletcher",
-      "status": "queued",
+      "status": "done",
       "scope": "John Fletcher of Madeley: Works, incl. Checks to Antinomianism (d. 1785)",
       "added": "2026-10-03T00:49:54-05:00",
-      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:53:55-05:00",
+      "finished": "2026-10-03T00:55:29-05:00",
+      "notes": "4 IA"
     },
     {
       "id": "robert-hall",
