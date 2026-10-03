@@ -312,6 +312,8 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad of Homer translated, 2 vols. in one file (1809) | James Morrice | `homer-morrice-iliad-1809` | have-raw (IA `homeriliadof00homerich`) |
 | The Odyssey of Homer rendered into English blank verse, vol. II: Books XIII-XXIV (London: Bell and Daldy, 1865) | George Musgrave | `homer-musgrave-odyssey-1865-v2` | have-raw (IA `odysseyhomer00musggoog`) |
 | The Odyssey of Homer rendered into English blank verse (London, 1876) | Mordaunt Barnard | `homer-barnard-odyssey-1876` | have-raw (IA `odysseyofhomerre00homerich`) |
+| The Odyssey of Homer rendered into English verse, Books I-XII (John Murray, 1879) | G. A. Schomberg | `homer-schomberg-odyssey-1879-v1` | have-raw (IA `odysseyrendered00schogoog`) |
+| The Odyssey of Homer rendered into English verse, Books XIII-XXIV (London, 1882) | G. A. Schomberg | `homer-schomberg-odyssey-1882-v2` | have-raw (IA `odysseyrendered01schogoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 

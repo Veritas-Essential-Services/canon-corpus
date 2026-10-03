@@ -208,6 +208,16 @@
    "odysseyofhomerre00homerich",
    "The Odyssey of Homer rendered into English blank verse (London, 1876)",
    "tr. Mordaunt Barnard"
+  ],
+  "homer-schomberg-odyssey-1879-v1": [
+   "odysseyrendered00schogoog",
+   "The Odyssey of Homer rendered into English verse, Books I-XII (John Murray, 1879)",
+   "tr. G. A. Schomberg"
+  ],
+  "homer-schomberg-odyssey-1882-v2": [
+   "odysseyrendered01schogoog",
+   "The Odyssey of Homer rendered into English verse, Books XIII-XXIV (London, 1882)",
+   "tr. G. A. Schomberg"
   ]
  },
  "_cross_ref": {
@@ -281,12 +291,14 @@
   "homer-merivale-iliad-1869": "Merivale",
   "homer-morrice-iliad-1809": "Morrice",
   "homer-musgrave-odyssey-1865-v2": "Musgrave",
-  "homer-barnard-odyssey-1876": "Barnard"
+  "homer-barnard-odyssey-1876": "Barnard",
+  "homer-schomberg-odyssey-1882-v2": "Schomberg"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
   "homer-norgate-iliad": "attributed by the catalogue; the text names Norgate only in a publisher's notice",
-  "homer-way-iliad-1886-v1": "title page OCRs the name as 'oie RS.) WAY, MEA.' (headmaster of Wesley College, Melbourne, as in vol. II, where 'Arthur S. Way' reads cleanly); the full name is not printed as a word in this OCR"
+  "homer-way-iliad-1886-v1": "title page OCRs the name as 'oie RS.) WAY, MEA.' (headmaster of Wesley College, Melbourne, as in vol. II, where 'Arthur S. Way' reads cleanly); the full name is not printed as a word in this OCR",
+  "homer-schomberg-odyssey-1879-v1": "title page names G. A. Schomberg, C.B. (John Murray, 1879); the OCR reads 'SCHOMBEEG'; vol. II of the same set prints the name cleanly"
  },
  "_checks": {
   "homer-chapman-iliad": {
@@ -781,6 +793,31 @@
    "ia_date": "1876",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "homer-schomberg-odyssey-1879-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-schomberg-odyssey-1882-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Schomberg",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -835,6 +872,7 @@
  },
  "_identity_checked": {
   "homer-mackail-odyssey-1903-v1": "title page reads 'The Odyssey, translated by J. W. Mackail, Books I-VIII' (John Murray, 1903); Homer's name is not printed in this volume; vol. III of the same set names him",
-  "homer-mackail-odyssey-1905-v2": "title page reads 'The Odyssey, translated by J. W. Mackail, Books IX-XVI' (John Murray, 1905); Homer's name is not printed in this volume; vol. III of the same set names him"
+  "homer-mackail-odyssey-1905-v2": "title page reads 'The Odyssey, translated by J. W. Mackail, Books IX-XVI' (John Murray, 1905); Homer's name is not printed in this volume; vol. III of the same set names him",
+  "homer-schomberg-odyssey-1882-v2": "title page reads 'The Odyssey of Homer rendered into English verse, Books XIII. to XXIV., by G. A. Schomberg, C.B., General' (John Murray, 1882); the OCR prints Homer as 'HOMEE'"
  }
 }
