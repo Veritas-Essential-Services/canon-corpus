@@ -507,3 +507,6 @@
 
 ## 2026-10-02 21:23 CDT — stratton-porter: done
 - 11/11 fetched (Gutenberg 111, 125, 286, 349, 532, 533, 9489, 3722, 904, 59823, 35188), 23,021 units, 1 ~2 ids.
+
+## 2026-10-02 21:24 CDT — note
+- The Garis commit (3088b95) says "34 books in all"; the shelf holds 35. The DIGEST row says 35.
