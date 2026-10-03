@@ -1,0 +1,53 @@
+{
+ "_about": "Minor Latin poets and moralists in English, one translator per row: Calpurnius Siculus (E. J. L. Scott, 1890), Grattius (Christopher Wase, 1654), Publilius Syrus (Darius Lyman, 1856) and the Distichs of Cato (Wayland Johnson Chase, 1922). Raw IA OCR.",
+ "_name_words": [
+  "calpurnius",
+  "grattius",
+  "gratius",
+  "publilius",
+  "publius",
+  "syrus",
+  "cato",
+  "distichs",
+  "faliscus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calpurnius-scott-1890": [
+   "ecloguesofcalpur00calprich",
+   "The Eclogues of Calpurnius, rendered into English verse (George Bell, 1890)",
+   "tr. Edward J. L. Scott"
+  ]
+ },
+ "_surname": [
+  "calpurnius",
+  "faliscus",
+  "publius syrus",
+  "publilius syrus",
+  "distichs of cato"
+ ],
+ "_surname_by_slug": {
+  "calpurnius-scott-1890": [
+   "calpurnius"
+  ]
+ },
+ "_translators": {
+  "calpurnius-scott-1890": "Edward J. L. Scott"
+ },
+ "_checks": {
+  "calpurnius-scott-1890": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calpurnius",
+   "translator_claimed": "Edward J. L. Scott",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
