@@ -67,6 +67,12 @@
    "worksoftacituswi05taci",
    "The Works of Tacitus, with Political Discourses, vol. 5 (1753)",
    "tr. Thomas Gordon"
+  ],
+  "tacitus-moore-histories-v1": [
+   "tacitus-in-5-volumes.-v.-2-loeb-111",
+   "Tacitus, The Histories, vol. I: Books I-III, with an English translation (Loeb; London: Heinemann, New York: Putnam, MCMXXV; Latin facing)",
+   "LAT-EN - Loeb 111, v.2 -Moore-Jackson_djvu.txt",
+   "tr. Clifford H. Moore"
   ]
  },
  "_cross_ref": {
@@ -90,7 +96,8 @@
   "tacitus-gordon-v2": "Thomas Gordon",
   "tacitus-gordon-v3": "Thomas Gordon",
   "tacitus-gordon-v4": "Thomas Gordon",
-  "tacitus-gordon-v5": "Thomas Gordon"
+  "tacitus-gordon-v5": "Thomas Gordon",
+  "tacitus-moore-histories-v1": "Clifford H. Moore"
  },
  "_translator_unchecked": {
   "tacitus-oxford-germany-agricola": "no single translator to check: the Oxford translation revised (with notes)"
@@ -243,6 +250,23 @@
    "ia_date": "1753",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "tacitus-moore-histories-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "Clifford H. Moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: 'MCMXXV', Heinemann/Putnam, series editors Capps, Page and Rouse; no reprint line. The 1925 first printing. IA dates the upload 1925."
   }
+ },
+ "_rights_checked": {
+  "tacitus-moore-histories-v1": "Title page read: 'MCMXXV', Heinemann/Putnam, series editors Capps, Page and Rouse; no reprint line. The 1925 first printing. IA dates the upload 1925."
  }
 }
