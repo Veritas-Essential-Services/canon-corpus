@@ -19,7 +19,11 @@
     "kind": "ia-extract",
     "shelf": "sibbes",
     "volume": "sibbes-works-grosart-1",
-    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 1"
+    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 1",
+    "leaves": [
+     176,
+     244
+    ]
    }
   },
   "rutherford-letters": {
@@ -65,7 +69,11 @@
     "kind": "ia-extract",
     "shelf": "william-bridge",
     "volume": "wbridge-works-2",
-    "edition": "The Works of the Rev. William Bridge (London: Thomas Tegg, 1845), vol. 2"
+    "edition": "The Works of the Rev. William Bridge (London: Thomas Tegg, 1845), vol. 2",
+    "leaves": [
+     8,
+     286
+    ]
    }
   },
   "burroughs-rare-jewel": {
@@ -97,9 +105,13 @@
     "volume": "brooks-works-grosart-1",
     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 1",
     "leaves": [
-     88,
+     89,
      253
-    ]
+    ],
+    "titlepage": {
+     "leaf": 89,
+     "from": "^P[ER]{2}CIOUS$"
+    }
    }
   },
   "baxter-reformed-pastor": {
@@ -190,7 +202,12 @@
     "kind": "ia-extract",
     "shelf": "flavel",
     "volume": "flavel-works-1820-05",
-    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 5"
+    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 5",
+    "leaves": [
+     610,
+     672
+    ],
+    "start": "^A$"
    }
   },
   "alleine-sure-guide": {
@@ -206,7 +223,11 @@
     "kind": "ia-extract",
     "shelf": "alleine",
     "volume": "alleine-alarm-1834",
-    "edition": "An Alarm to Unconverted Sinners (New York: American Tract Society, 1834)"
+    "edition": "An Alarm to Unconverted Sinners (New York: American Tract Society, 1834)",
+    "leaves": [
+     6,
+     170
+    ]
    }
   },
   "bunyan-prayer": {

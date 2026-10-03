@@ -79,12 +79,24 @@ words, 98.4% aligned to the 1862 printing; 3 transcription errors confirmed
 and corrected ("judgement" ×2 where Goold prints "judgment", "the evidence"
 for "the evidences"); 65 OCR misreads upheld; 18 spots left for a person.
 
+For a book set from OCR there is no transcription to check, so the proof is
+two engines against each other: every page of the treatise is read again by
+Tesseract and collated with ABBYY's reading. Where they differ and only one
+reading is a word, and the two are close enough in spelling to be misreads of
+one printed word, the word becomes an `ocr_fixes` entry tied to its leaf.
+Fixes apply as whole words, never inside a longer word; "&c." and splits that
+may have lost a hyphen ("co partners") are never fixed automatically.
+
+First result, Brooks's *Precious Remedies* (Grosart vol. 1, 1866): 89,094
+words, the engines agree on 97.5%; about 500 misreads fixed ("tbe", "Ood",
+"comfoH"); 394 Tesseract misreads overruled; the rest is on the proof sheet,
+most of it Latin and Greek in the footnotes.
+
 ## What is not done yet
 
-- Books set from OCR (tier-1 Brooks, Sibbes, Flavel, Bridge, Alleine) still
-  carry OCR errors until the two-engine proof (ABBYY vs Tesseract over every
-  page) is run over them. The QA's "rare unknown words" column is that
-  worklist.
+- Books set from OCR still carry the errors both engines made the same way,
+  and Latin and Greek quotations are unproofed. The QA's "rare unknown words"
+  column is that worklist.
 - Rights: CCEL asks that some prepared editions not be used commercially
   (CLAUDE.md rule 6). The words are public domain; whether to publish from a
   CCEL base or re-derive from the scan is Adam's ruling.

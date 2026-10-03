@@ -37,3 +37,7 @@ td, th { padding: 0.15em 0.6em; vertical-align: top; text-align: left; }
 @media (prefers-color-scheme: dark) { body { background: #1b1a18; color: #e7e2d8; } }
 .signature { text-align: right; font-variant: small-caps; margin: 0.6em 0 1.2em; }
 .signature p { text-indent: 0; }
+.pagefoot { font-size: 0.82em; margin: 0.8em 0 1.2em; padding-top: 0.4em; border-top: 1px solid currentColor;
+            border-top-width: 0.5px; width: 100%; }
+.pagefoot p { text-indent: 0; margin-bottom: 0.35em; }
+.pagefoot-head { font-variant: small-caps; letter-spacing: 0.04em; }

@@ -99,5 +99,16 @@ class C:  # minimal converter context
 out = press_text.tag_refs("as in (Psa 66:17,18) and Rom. viii. 13.", C)
 check("text refs tagged", [r["ids"] for r in C.refs], [["Ps.66.17", "Ps.66.18"], ["Rom.8.13"]])
 
+# --- OCR fixes: whole words only, across runs, never risky guesses
+import press_ocr, press_proof
+segs = press_ocr.apply_fixes([["tbe man, tbe ", False], ["tbeory", False]], [{"from": "tbe", "to": "the"}])
+check("fix every whole-word occurrence, never inside a word", "".join(s[0] for s in segs), "the man, the tbeory")
+segs = press_ocr.apply_fixes([["comf", False], ["oH sake", True]], [{"from": "comfoH", "to": "comfort"}])
+check("fix across an italic change", "".join(s[0] for s in segs), "comfort sake")
+check("plausible misread", press_proof.plausible("tbe", "the", "tbe"), True)
+check("'&c.' is not fixed to 'c'", press_proof.plausible("fec", "c", "fec"), False)
+check("far-apart words are not a misread", press_proof.plausible("following", "ores", "following"), False)
+check("a split that may have lost a hyphen", press_proof.plausible("cojkihners", "co partners", "cojKiHners"), False)
+
 print("\n%d failure(s)" % fails)
 sys.exit(1 if fails else 0)

@@ -133,6 +133,13 @@ def render(doc, meta):
                 L.append("")
         elif k == "pb":
             pending_pb.append(b["md"])
+        elif k == "pagefoot":
+            # notes whose call marks the scan lost: kept at the foot of their page
+            L.append("::: {.pagefoot}")
+            L.append(f"[Notes{' to p. ' + b['page'] if b.get('page') else ''}]{{.pagefoot-head}}\n")
+            for md in b["notes"]:
+                L.append(md + "\n")
+            L.append(":::\n")
     # footnotes (a note whose call the source lost is printed after the text,
     # under its own heading, rather than dropped or guessed into place)
     body_md = "\n".join(L)

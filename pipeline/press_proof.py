@@ -409,6 +409,155 @@ def write_sheet(slug, e, res):
                      f"…{f['before'][-25:]} ⟨⟩ {f['after'][:25]}… |")
     press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
 
+
+
+# ===================================================================== OCR books
+# A book set from a scan has no independent transcription to check against:
+# its text IS one OCR (ABBYY, archive.org's). The second witness is a fresh
+# Tesseract read of every page in the treatise. Two different engines reading
+# the same page and agreeing is strong evidence; where they disagree:
+#   ABBYY's word unknown, Tesseract's known   -> an OCR fix (applied, listed)
+#   ABBYY's word known, Tesseract's unknown   -> ABBYY upheld
+#   both known and different, or both unknown -> a person looks at the page
+RE_ANCHOR = re.compile(r'\[\]\{#[^}]*leaf="(\d+)"[^}]*\}')
+
+def book_tokens_leaves(doc):
+    toks, leaf = [], None
+    for bi, b in enumerate(doc["blocks"]):
+        if b.get("k") not in ("para", "heading", "argument", "quote"):
+            continue
+        md = b.get("md", "")
+        pos = 0
+        for m in list(RE_ANCHOR.finditer(md)) + [None]:
+            seg = md[pos: m.start() if m else len(md)]
+            for t in TOKEN.finditer(press_render.plain(seg)):
+                n = norm(t.group(0))
+                if n:
+                    toks.append((n, t.group(0), bi, leaf))
+            if m:
+                leaf = int(m.group(1))
+                pos = m.end()
+    return toks
+
+def tess_tokens(ident, leaves):
+    out = []
+    for leaf in leaves:
+        txt = re.sub(r"-\s*\n\s*(?=[a-z])", "", tess_page(ident, leaf))
+        for t in TOKEN.finditer(txt):
+            n = norm(t.group(0))
+            if n:
+                out.append((n, t.group(0), leaf))
+    return out
+
+def match_case(src, new):
+    if src.isupper() and len(src) > 1:
+        return new.upper()
+    if src[:1].isupper():
+        return new[:1].upper() + new[1:]
+    return new
+
+PREFIXES = {"co", "re", "pre", "self", "fore", "over", "under", "out", "non", "anti"}
+
+def plausible(an, bn, ao):
+    """A fix only when Tesseract's word could be a misread of ABBYY's: close in
+    spelling, more than one letter, not '&c.' (which tokenises to 'c'), and not
+    a split that may have lost a hyphen ('co partners' for 'co-partners')."""
+    if len(bn.replace(" ", "")) < 2 or "&" in ao or re.fullmatch(r"[fS]e?c", ao):
+        return False
+    if " " in bn and bn.split()[0].lower() in PREFIXES:
+        return False
+    return difflib.SequenceMatcher(None, an.lower(), bn.replace(" ", "").lower()).ratio() >= 0.6
+
+def proof_ocr(slug):
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    e = cat["titles"][slug]
+    src = e["source"]
+    ident = src.get("ia") or json.load(open(os.path.join(HERE, f"{src['shelf']}_shelf.json"),
+                                            encoding="utf-8"))["internet_archive"][src["volume"]][0]
+    lo, hi = src["leaves"]
+    leaves = list(range(lo, hi + 1))
+    prefetch(ident, leaves)
+    doc = press_build.convert(slug, e, press_build.source_file(slug, e))
+    a = book_tokens_leaves(doc)
+    b = tess_tokens(ident, leaves)
+    ops, _, _ = align(a, b, k=4)
+    words = press_build.wordlist()
+    ok = lambda w: press_build.known(w, words)
+    fixes, review, upheld = [], [], 0
+    for tag, i1, i2, j1, j2 in ops:
+        if tag != "replace":
+            continue
+        A, B = a[i1:i2], b[j1:j2]
+        if "".join(x[0] for x in A) == "".join(x[0] for x in B):
+            continue
+        if len(A) == len(B):
+            pairs = list(zip(A, B))
+        elif len(A) == 1 and len(B) == 2 and ok(B[0][0]) and ok(B[1][0]) and not ok(A[0][0]):
+            # ABBYY ran two words together ("andone" -> "and one")
+            pairs = [(A[0], (B[0][0] + " " + B[1][0], B[0][1] + " " + B[1][1], B[0][2]))]
+        elif len(A) == 2 and len(B) == 1 and ok(B[0][0]) and not (ok(A[0][0]) and ok(A[1][0])):
+            # ABBYY split one word ("afi ection")
+            pairs = [((A[0][0] + A[1][0], A[0][1] + " " + A[1][1], A[0][2], A[0][3]), B[0])]
+        else:
+            review.append({"a": " ".join(x[1] for x in A), "b": " ".join(x[1] for x in B),
+                           "leaf": A[0][3], "before": " ".join(x[1] for x in a[max(0, i1 - 4):i1]),
+                           "after": " ".join(x[1] for x in a[i2:i2 + 4])})
+            continue
+        for (an, ao, abi, aleaf), (bn, bo, bleaf) in pairs:
+            if an == bn:
+                continue
+            aok = ok(an) or an.isdigit()
+            bok = all(ok(x) for x in bn.split())
+            if aok and not bok:
+                upheld += 1
+            elif bok and not aok and not re.search(r"\d", bo) and plausible(an, bn, ao):
+                fixes.append({"leaf": aleaf, "from": ao, "to": match_case(ao.split()[0], bo),
+                              "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+                              "by": "press_proof"})
+            else:
+                review.append({"a": ao, "b": bo, "leaf": aleaf})
+    # merge the fixes into the rules file
+    p = os.path.join(press_build.RULES, f"{slug}.json")
+    rules = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    have = {(f["leaf"], f["from"]) for f in rules.get("ocr_fixes", [])}
+    new = []
+    for f in fixes:
+        if (f["leaf"], f["from"]) not in have and f["leaf"] is not None:
+            have.add((f["leaf"], f["from"]))
+            new.append(f)
+    rules.setdefault("ocr_fixes", []).extend(new)
+    press_build.atomic_write(p, json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
+    matched = sum(i2 - i1 for t, i1, i2, _, _ in ops if t == "equal")
+    res = {"slug": slug, "scan": ident, "mode": "two-engine", "book_words": len(a), "tesseract_words": len(b),
+           "agreeing_words": matched, "agreement": round(matched / max(1, len(a)), 4),
+           "ocr_fixes_new": len(new), "ocr_fixes_total": len(rules["ocr_fixes"]), "upheld": upheld,
+           "review": review, "checked": time.strftime("%Y-%m-%d")}
+    press_build.atomic_write(os.path.join(press_build.OUT, slug, "proof.json"),
+                             json.dumps(res, indent=1, ensure_ascii=False))
+    L = [f"# Proof sheet: {e['title']}", "",
+         f"`{slug}` is set from the OCR of archive.org `{ident}` (leaves {lo}-{hi}). Proofed by a second "
+         f"engine: every page re-read with Tesseract and collated word by word ({res['checked']}).", "",
+         f"- Words: {len(a):,}; the two engines agree on {matched:,} ({res['agreement']:.1%})",
+         f"- OCR errors fixed where only one engine's reading is a word: **{res['ocr_fixes_total']}** "
+         f"(`pipeline/press_rules/{slug}.json`, `ocr_fixes`)",
+         f"- ABBYY upheld against a Tesseract misread: {upheld}",
+         f"- For a person to look at: **{len(review)}**", ""]
+    if review:
+        L += ["| # | ABBYY | Tesseract | Leaf |", "|---:|---|---|---|"]
+        for n, r in enumerate(review[:400], 1):
+            L.append(f"| {n} | {r['a'] or '∅'} | {r['b'] or '∅'} | {r['leaf']} |")
+        if len(review) > 400:
+            L.append(f"\n…and {len(review) - 400} more in data/press/{slug}/proof.json.")
+    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
+    return res
+
 if __name__ == "__main__":
-    r = proof(sys.argv[1], use_tess="--no-tess" not in sys.argv)
-    print(json.dumps({k: r[k] for k in ("book_words", "scan_words", "aligned_words", "coverage", "counts")}))
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    slug = sys.argv[1]
+    if cat["titles"][slug]["source"]["kind"] == "ia-extract":
+        r = proof_ocr(slug)
+        print(json.dumps({k: r[k] for k in ("book_words", "agreeing_words", "agreement", "ocr_fixes_new",
+                                              "ocr_fixes_total", "upheld")}, ensure_ascii=False), "review", len(r["review"]))
+    else:
+        r = proof(slug, use_tess="--no-tess" not in sys.argv)
+        print(json.dumps({k: r[k] for k in ("book_words", "scan_words", "aligned_words", "coverage", "counts")}))

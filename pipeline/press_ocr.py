@@ -78,8 +78,9 @@ def classify_page(page, body_fs):
         if top and len(p0["lines"]) == 1 and (RE_HEAD_NUM.search(t0) or (t0.isupper() and len(t0) < 70)):
             head = t0
             pars = pars[1:]
-    while pars and RE_SIGNATURE.match(par_text(pars[-1]).strip()):
-        pars = pars[:-1]
+    while pars and (RE_SIGNATURE.match(par_text(pars[-1]).strip()) or
+                    not re.search(r"[A-Za-z0-9]{2}", par_text(pars[-1]))):
+        pars = pars[:-1]     # a signature mark ("VOL. I. A"), or specks read as text
     notes = []
     while pars:
         last = pars[-1]
@@ -111,6 +112,42 @@ def collect_hyphenated(pages):
                     keep[(m.group(1) + m.group(2)).lower()] += 1
     return keep
 
+def fix_rx(f):
+    """Whole-word pattern for a fix; a space in a split misread ('othei s',
+    'puiT^ose') matches one to three non-letters: spaces, a line-end hyphen, a
+    stray mark."""
+    # stray marks the proof's tokens drop ('puiT^ose') may sit between letters
+    parts = [r"[\^~]?".join(re.escape(c) for c in x) for x in f["from"].split()]
+    return re.compile(r"(?<![A-Za-z])" + r"[^A-Za-z*]{1,3}".join(parts) + r"(?![A-Za-z])")
+
+def apply_fixes(segs, fixes):
+    """A leaf's OCR fixes, as whole words (never inside a longer word), every
+    occurrence on the leaf. A misread that spans two runs (an italic change
+    mid-word) merges them, keeping the first run's style."""
+    for f in fixes:
+        rx = fix_rx(f)
+        hit = False
+        for s in segs:
+            s[0], n = rx.subn(f["to"], s[0])
+            hit = hit or n > 0
+        if not hit:
+            text = "".join(s[0] for s in segs)
+            m = rx.search(text)
+            if m:
+                pos, a = 0, None
+                for k, s in enumerate(segs):
+                    if a is None and pos + len(s[0]) > m.start():
+                        a = k
+                    pos += len(s[0])
+                    if pos >= m.end():
+                        merged = "".join(x[0] for x in segs[a:k + 1])
+                        segs = segs[:a] + [[rx.sub(f["to"], merged, 1), segs[a][1]]] + segs[k + 1:]
+                        hit = True
+                        break
+        if hit:
+            f["_done"] = True
+    return segs
+
 def par_md(par, keep_hyphen, words, fixes=None):
     """Lines -> one markdown string: italics kept, line-end hyphens resolved."""
     out = []
@@ -118,11 +155,7 @@ def par_md(par, keep_hyphen, words, fixes=None):
     for li, l in enumerate(lines):
         segs = [[r[0], r[1]] for r in l["runs"]]
         if fixes:
-            for f in fixes:
-                for s in segs:
-                    if f["from"] in s[0] and not f.get("_done"):
-                        s[0] = s[0].replace(f["from"], f["to"], 1)
-                        f["_done"] = True
+            segs = apply_fixes(segs, fixes)
         text = "".join(s[0] for s in segs)
         nxt = line_text(lines[li + 1]) if li + 1 < len(lines) else ""
         if text.rstrip().endswith("-") and nxt[:1].islower():
@@ -145,6 +178,10 @@ def par_md(par, keep_hyphen, words, fixes=None):
     md = re.sub(r"\*\*", "", md)                       # adjacent italic runs merge
     md = re.sub(r"\s+", " ", md).strip()
     md = re.sub(r"\s+([;:,?!.])(?=\s|$|\*)", r"\1", md)  # compositor's space before ; : , ? ! .
+    for f in fixes or []:
+        if not f.get("_done"):     # a misread split across a line end, rejoined above
+            md, n = fix_rx(f).subn(f["to"], md)
+            f["_done"] = n > 0
     return md
 
 def convert(path, slug, e):
@@ -159,14 +196,47 @@ def convert(path, slug, e):
     words = press_build.wordlist()
     rules = press_build.load_rules(slug)
     fixes_by_leaf = {}
+    all_fixes = []
     for f in rules.get("ocr_fixes", []):
-        fixes_by_leaf.setdefault(f["leaf"], []).append(dict(f))
+        if not any(g["from"] == f["from"] and g["leaf"] == f["leaf"] for g in all_fixes):
+            all_fixes.append(dict(f))
+    for f in all_fixes:
+        # the collation can place a word on the neighbouring leaf at a page
+        # turn; a misread is never a real word, so the neighbours are safe
+        for lf in (f["leaf"], f["leaf"] - 1, f["leaf"] + 1):
+            fixes_by_leaf.setdefault(lf, []).append(f)
     d = Doc(slug)
     d.notes = {}
     started = not src.get("start")
     nnote = 0
     carry = None    # a paragraph broken by the page turn
+    carry_leaf = None
+    tp = src.get("titlepage") or {}
     for page in rng:
+        if page["i"] == tp.get("leaf"):
+            # the edition's own title page: every paragraph from `from` on is a
+            # title-page line; nothing on it is a heading or a note
+            pars = [p for p in page["pars"] if par_text(p).strip()]
+            k0 = next((k for k, p in enumerate(pars) if re.search(tp["from"], par_text(p).strip())), None)
+            if k0 is not None:
+                before, pars = pars[:k0], pars[k0:]
+                page = dict(page, pars=before)
+                fixes = fixes_by_leaf.get(page["i"], [])
+                d.blocks.append({"k": "titlepage_start", "section": "tp"})
+                for p in pars:
+                    md = par_md(p, keep, words, fixes)
+                    if not md.strip("/\\|.,' "):
+                        continue
+                    # display lines by their form, not their measured size (a
+                    # facsimile title page is reduced, and its sizes don't separate)
+                    t = par_text(p).strip()
+                    letters = re.sub(r"[^A-Za-z]", "", t)
+                    cls = ("h2" if letters.isupper() and len(t) < 40 else
+                           "h3" if len(t) < 60 else "h4")
+                    d.blocks.append({"k": "tp", "md": md, "cls": cls, "section": "tp"})
+                d.blocks.append({"k": "titlepage_end", "section": "tp"})
+        n0 = len(d.blocks)
+        from_leaf = carry_leaf if carry is not None else None
         head, body, notes = classify_page(page, bfs)
         pn = printed_page(head)
         fixes = fixes_by_leaf.get(page["i"], [])
@@ -208,9 +278,14 @@ def convert(path, slug, e):
                     d.add("para", guard_start(tag_refs(carry, d)))
                 carry = None
             if par is body[-1] and not re.search(r"[.!?:”’'\")\]]\*?$", md):
-                carry = md
+                carry, carry_leaf = md, page["i"]
             else:
                 d.add("para", guard_start(tag_refs(md, d)))
+        # which leaves each new paragraph stands on (a carried one spans two)
+        for blk in d.blocks[n0:]:
+            if blk.get("k") == "para" and "leaves" not in blk:
+                blk["leaves"] = sorted({page["i"], from_leaf if from_leaf is not None else page["i"]})
+                from_leaf = None
         # footnotes of this page
         calls = []
         if page_notes:
@@ -219,37 +294,88 @@ def convert(path, slug, e):
                 lab = f"n{nnote}"
                 d.notes[lab] = tag_refs(re.sub(r"^[" + re.escape(NOTE_MARKS) + r"\d\s]{1,3}", "", nmd).strip(), d)
                 calls.append(lab)
-            d.blocks.append({"k": "pagenotes", "labels": calls, "section": d.section, "leaf": page["i"]})
+            d.blocks.append({"k": "pagenotes", "labels": calls, "section": d.section, "leaf": page["i"],
+                             "page": pn or ""})
     if carry:
         d.add("para", guard_start(tag_refs(carry, d)))
-    attach_note_calls(d)
+        d.blocks[-1]["leaves"] = [carry_leaf]
+    missed = [f for f in all_fixes if not f.get("_done")]
+    if missed:
+        d.problems.append(f"{len(missed)} OCR fix(es) found no match on their leaf: " +
+                          "; ".join(f"{f['leaf']}:{f['from']!r}" for f in missed[:12]))
+    attach_note_calls(d, ident)
     if d.nsec == 0:
         d.heading(esc(e["title"]))
     return d.out()
 
-RE_CALL = re.compile(r"(?<=[A-Za-z.,;:’'”\)])([" + re.escape(esc(NOTE_MARKS)) + r"]|\\\*|\\\^|[¹²³⁴⁵⁶⁷⁸⁹])(?=[\s,.;:)]|$)")
+RE_CALL = re.compile(r"(?<=[A-Za-z.,;:’'”\)])(\\\*|\\\^|[†‡§‖¶•°¹²³⁴⁵⁶⁷⁸⁹])(?=[\s,.;:)]|$)")  # never an italic's *
 
-def attach_note_calls(d):
-    """Pair each page's footnotes with the call marks in that page's text,
-    in order; pairing only when the counts agree."""
+RE_TESS_CALL = re.compile(r"([A-Za-z]{2,})([.,;:!?’')]{0,2}) ?([*†‡§])(?=\s|$)")
+
+def tess_calls(ident, leaf):
+    """Call marks the second engine saw on a page, as (word, punctuation):
+    read from press_proof's cached Tesseract text, never fetched here."""
+    p = os.path.join(press_abbyy.IA_DIR, "tess", ident or "", f"{leaf}.txt")
+    if not ident or not os.path.exists(p):
+        return []
+    lines = open(p, encoding="utf-8").read().split("\n")
+    out = []
+    for ln in lines[1:]:                    # line 0 is the running head
+        if re.match(r"\s*[*†‡§]", ln):        # the notes begin
+            break
+        out += [(m.group(1), m.group(2)) for m in RE_TESS_CALL.finditer(ln)]
+    return out
+
+def attach_note_calls(d, ident=None):
+    """Pair each page's footnotes with the call marks in that page's text, in
+    order, and only when the counts agree. Where ABBYY lost marks, the marks
+    Tesseract saw are added first, each only where its word is unambiguous."""
     blocks = d.blocks
     for bi, b in enumerate(blocks):
         if b.get("k") != "pagenotes":
             continue
-        # the paragraphs of the same page: back to the previous pagenotes block
-        j = bi - 1
-        paras = []
-        while j >= 0 and blocks[j].get("k") != "pagenotes":
-            if blocks[j].get("k") == "para":
-                paras.insert(0, j)
-            j -= 1
-        hits = [(pj, m) for pj in paras for m in RE_CALL.finditer(blocks[pj]["md"])]
+        paras = [j for j in range(bi) if blocks[j].get("k") == "para" and b["leaf"] in blocks[j].get("leaves", [])]
+        saved = {pj: blocks[pj]["md"] for pj in paras}
+
+        def on_page(pj, m, leaf=b["leaf"]):
+            # a paragraph crossing a page turn: only the part on this leaf counts
+            md = blocks[pj]["md"]
+            a = md.find(f'leaf="{leaf}"}}')
+            start = a if a >= 0 else 0
+            nxt = re.search(r'leaf="(\d+)"\}', md[start + 1:])
+            end = start + 1 + nxt.start() if nxt and int(nxt.group(1)) != leaf else len(md)
+            if a < 0 and blocks[pj]["leaves"][0] != leaf:
+                return False
+            return start <= m.start() < end
+
+        def calls():
+            return [(pj, m) for pj in paras for m in RE_CALL.finditer(blocks[pj]["md"]) if on_page(pj, m)]
+        hits = calls()
+        if len(hits) < len(b["labels"]):
+            for word, punct in tess_calls(ident, b["leaf"]):
+                rx = re.compile(r"(?<![A-Za-z])" + re.escape(word) + re.escape(punct) + r"(?![A-Za-z\\\[])")
+                where = [(pj, m) for pj in paras for m in rx.finditer(blocks[pj]["md"]) if on_page(pj, m)]
+                if len(where) == 1:
+                    pj, m = where[0]
+                    md = blocks[pj]["md"]
+                    blocks[pj]["md"] = md[:m.end()] + "\\*" + md[m.end():]
+            hits = calls()
         if len(hits) == len(b["labels"]) and hits:
             # replace right to left so offsets hold
             for (pj, m), lab in reversed(list(zip(hits, b["labels"]))):
                 md = blocks[pj]["md"]
                 blocks[pj]["md"] = md[:m.start()] + f"[^{lab}]" + md[m.end():]
             b["placed"] = True
+        else:
+            for pj, md in saved.items():         # no pairing: take back what was added
+                blocks[pj]["md"] = md
+        if not b.get("placed") and paras:
+            # The scan lost the call marks (both engines miss a superior * as
+            # often as they see it), so the notes cannot be tied to a word.
+            # They print where the page printed them: after the page's text,
+            # marked as that page's notes, never guessed into a sentence.
+            blocks[bi] = {"k": "pagefoot", "page": b.get("page", ""),
+                          "notes": [d.notes.pop(lab) for lab in b["labels"]]}
     d.blocks = [x for x in blocks if x.get("k") != "pagenotes"]
 
 def heads(ident):
