@@ -1,0 +1,64 @@
+{
+ "_about": "John Robinson (1576?-1625), pastor of the Pilgrim Fathers at Leiden: The Works of John Robinson, with a memoir and annotations by Robert Ashton (London: John Snow, 1851, 3 vols). Volume numbers read off each title page; each scan opens with the publisher's advertisements. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "robinson"
+ ],
+ "_surname": [
+  "robinson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "robinson-works-1": [
+   "worksofjohnrobin01robi",
+   "The Works of John Robinson, ed. Ashton (London: Snow, 1851), vol. 1"
+  ],
+  "robinson-works-2": [
+   "worksofjohnrobin02robi",
+   "The Works of John Robinson, ed. Ashton (London: Snow, 1851), vol. 2"
+  ],
+  "robinson-works-3": [
+   "worksofjohnrobin03robi",
+   "The Works of John Robinson, ed. Ashton (London: Snow, 1851), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "worksjohnrobins00/01/02/03ashtgoog, worksjohnrobins00/01waddgoog": "Google copies of the same 1851 set."
+ },
+ "_excluded": {},
+ "_checks": {
+  "robinson-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "robinson-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

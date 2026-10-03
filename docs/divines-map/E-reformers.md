@@ -268,4 +268,16 @@ Edinburgh: James Nichol, 1863-1869, general editor Thomas Smith. Lane A already 
 | King, Lectures upon Jonah (1864) | have-raw | `john-king_shelf.json`; Abbot on Jonah pending |
 | Marbury on Obadiah and Habakkuk (1865) | have-raw | `edward-marbury_shelf.json` |
 | Fuller, A Comment on Ruth and Notes upon Jonah (1868; commentonruthand00fullrich) | gap | belongs on lane A's `thomas-fuller_shelf.json`, not edited here |
-| Burroughs, Hall and Reynolds on Hosea (1863; expositionofprop00burr) | gap | check lane A's `burroughs_shelf.json` before adding |
+| Burroughs, Hall and Reynolds on Hosea (1863) | have-raw | lane A's `burroughs_shelf.json` |
+
+## Elizabethan Puritans and Separatists
+
+| Work | Status | Where |
+|---|---|---|
+| The Admonition to the Parliament (1572) and kindred documents, in Frere and Douglas, Puritan Manifestoes (1907) | have-raw | `puritan-manifestoes_shelf.json` |
+| The Marprelate tracts: Epistle (1842), Epitome (1843), Hay any Worke for Cooper (1845), Petheram reprints | have-raw | `marprelate_shelf.json` |
+| Maskell, History of the Martin Marprelate Controversy (1845); Pierce, Historical Introduction to the Marprelate Tracts (1908) | have-raw | `marprelate_shelf.json` |
+| Penry, The Aequity of an Humble Supplication, ed. Grieve (1905) | have-raw | `john-penry_shelf.json`; the anonymous Viewe (1861 reprint) pending |
+| Robinson, Works, ed. Ashton (3 vols, 1851) | have-raw | `john-robinson_shelf.json` |
+| Ainsworth, Annotations on the Pentateuch, Psalms and Song of Solomon (2 vols, 1843) | have-raw | `henry-ainsworth_shelf.json` |
+| Arber's Introductory Sketch (1879); Barrow, Greenwood, Browne and Cartwright | gap | Arber pending a title-page read; the others survive only in early printings or modern editions |

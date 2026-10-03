@@ -1,0 +1,106 @@
+{
+ "_about": "The Martin Marprelate tracts (1588-1589), anonymous Puritan satires against the bishops, in John Petheram's 'Puritan Discipline Tracts' reprints from the black-letter originals, with introductions and notes (London: Petheram, 1842-1845): the Epistle, the Epitome and Hay any Worke for Cooper. Also two histories of the controversy: William Maskell's (London: Pickering, 1845, hostile to Martin) and William Pierce's Historical Introduction to the Marprelate Tracts (London: Constable, 1908). The name check is on 'Marprelate', the tracts' own pseudonym. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "marprelate",
+  "mar-prelate"
+ ],
+ "_surname": [
+  "marprelate",
+  "mar-prelate"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marprelate-epistle-1842": [
+   "epistletoterribl00marp",
+   "An Epistle to the Terrible Priests of the Convocation House (London: Petheram, 1842)"
+  ],
+  "marprelate-epitome-1843": [
+   "anepitomefirstb00marpgoog",
+   "An Epitome of the First Book of Dr. John Bridges' Defence (London: Petheram, 1843; Google scan)"
+  ],
+  "marprelate-hay-any-worke-1845": [
+   "hayanyworkeforco00marp",
+   "Hay any Worke for Cooper (London: Petheram, 1845)"
+  ],
+  "maskell-marprelate-history-1845": [
+   "historyofmartinm00mask",
+   "William Maskell, A History of the Martin Marprelate Controversy in the Reign of Queen Elizabeth (London: Pickering, 1845)"
+  ],
+  "pierce-marprelate-introduction-1908": [
+   "cu31924029262973",
+   "William Pierce, An Historical Introduction to the Marprelate Tracts (London: Constable, 1908)"
+  ]
+ },
+ "_alternates": {
+  "anepistletoterr00pethgoog, epistletoterribl00marpuoft, theepistle00marpuoft (1895)": "Other copies of the Epistle.",
+  "anepitomefirstb00pethgoog, anepitomefirstb00bridgoog": "Other Google copies of the Epitome.",
+  "hayanyworkeforc00marpgoog": "Google copy of Hay any Worke.",
+  "ahistorymartinm00maskgoog, ahistorymartinm02maskgoog, cu31924029262940": "Other copies of Maskell.",
+  "historicalintrod00pier, introtomarprelat00pieruoft": "Toronto copies of Pierce (IA returned HTTP 500 on one of them 2026-10-03)."
+ },
+ "_pending": {
+  "Edward Arber, An Introductory Sketch to the Martin Marprelate Controversy (1879; anintroductorys00/01arbegoog, themartinmarprel00arbeuoft)": "Arber's name did not show in the opening text of the scans tried; read a title page before shelving.",
+  "Pierce's edition of The Marprelate Tracts (1911)": "Not yet looked for."
+ },
+ "_excluded": {
+  "martinmarprelate0000marp (2008), johnpenrymarprel0000unse (1966), martinmarprelate0000carl (1981), martinmarprelate00wilsrich (1912, J. D. Wilson's authorship theory)": "Modern editions and studies; Wilson's is a theory piece, not a text."
+ },
+ "_checks": {
+  "marprelate-epistle-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marprelate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marprelate-epitome-1843": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marprelate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marprelate-hay-any-worke-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marprelate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maskell-marprelate-history-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marprelate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierce-marprelate-introduction-1908": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marprelate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
