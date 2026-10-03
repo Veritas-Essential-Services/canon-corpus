@@ -376,3 +376,8 @@
 
 ## 2026-10-03 02:17 CDT — Arrian and others (McCrindle)
 - Arrian shelf: McCrindle's Invasion of India by Alexander the Great (Constable, 1893), Arrian, Curtius, Diodoros, Plutarch, Justin
+
+## 2026-10-03 02:18 CDT — Silius Italicus (Tytler)
+- New shelf silius: Tytler's verse Punics vol. I (Calcutta, 1828)
+- Duff's Loeb vol. I (1961 reprint) held for Adam; added to the later-printings decision
+- Duff vol. II (first printed 1934) not taken
