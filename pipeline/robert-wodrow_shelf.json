@@ -1,0 +1,84 @@
+{
+ "_about": "Robert Wodrow (1679-1734), minister of Eastwood: The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns, with a memoir of the author (Glasgow: Blackie, Fullarton, 1828-1830, 4 vols). Volume numbers read off each title page. Named robert-wodrow so it is not confused with the wodrow-society shelf, which holds the Society's collective volume. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wodrow"
+ ],
+ "_surname": [
+  "wodrow"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wodrow-sufferings-1": [
+   "historyofsufferi01wodr",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 1"
+  ],
+  "wodrow-sufferings-2": [
+   "historyofsufferi02wodr",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 2"
+  ],
+  "wodrow-sufferings-3": [
+   "historyofsufferi03wodr",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 3"
+  ],
+  "wodrow-sufferings-4": [
+   "historyofsufferi04wodr_0",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 4"
+  ]
+ },
+ "_alternates": {
+  "historyofsufferi04wodr (1835 reissue), historyofsuffe01wodr..03wodr (1835)": "Blackie's 1835 reissue.",
+  "histufferi01wodr, hisufferi02wodr (1721-22)": "The first edition, 2 vols folio.",
+  "historysufferin00..03burngoog, thehistoryofthes02wodruoft, sufferingsofchur03wodr": "Other copies of the 1828-30 edition."
+ },
+ "_pending": {
+  "Analecta (Maitland Club, 4 vols, 1842-43); Correspondence (Wodrow Society, 3 vols, 1842-43); Lives of the Reformers (Maitland Club)": "Not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wodrow-sufferings-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-sufferings-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-sufferings-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-sufferings-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
