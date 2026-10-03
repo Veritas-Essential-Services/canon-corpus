@@ -106,6 +106,9 @@ Lane A already holds Boston's Complete Works (`boston_shelf.json`), Ebenezer and
 | Boston; the Erskines | have | lane A, complete; no gaps found |
 | Gillespie, Works vol. 2 (1846); Miscellany Questions (1649) | pending | no usable scan; his Parliament sermons are already in Works vol. 1 |
 | Patrick Gillespie, The Ark of the Covenant Opened (1677) | pending | anonymous on its title page |
+| James Fergusson, Brief Exposition of Galatians to Thessalonians (reprint, Ward, 1841) | have-raw | `james-fergusson_shelf.json` |
+| George Hutcheson, Brief Exposition on the XII Small Prophets (1657); Forty-Five Sermons on Psalm 130 (1691) | have-raw | `george-hutcheson_shelf.json`, EEBO scans |
+| George Hutcheson, Exposition of John (1657); of Job (1669) | pending | no pre-1930 scan on IA |
 
 ## Scottish church histories
 
