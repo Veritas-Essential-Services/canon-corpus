@@ -1436,3 +1436,13 @@ Slugs `south-*`.
 | Work | Status | Where |
 |---|---|---|
 | Sermons Preached upon Several Occasions, 7 vols (Oxford: Clarendon Press, 1823) | have-raw | IA (identifiers in the shelf) |
+
+
+## Thomas Scott (round 9, my pick, 2026-10-03)
+
+Slugs `tscott-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on the Most Important Subjects in Religion; The Force of Truth (Edinburgh, 1825) | have-raw | IA (identifier in the shelf) |
+| The Holy Bible with Explanatory Notes (the Family Bible) | not looked for | |

@@ -402,3 +402,6 @@
 
 ## 2026-10-03 01:05 CDT — robert-south done
 - `pipeline/robert-south_shelf.json`: the Oxford 1823 Sermons, 7 volumes of raw IA OCR, median 98.5% (98.1-98.6%), about 8 MB; title pages read (MDCCCXXIII; the Trinity College copy catalogued without a volume number is vol. VII by its title page). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:07 CDT — thomas-scott done
+- `pipeline/thomas-scott_shelf.json`: the Essays with The Force of Truth (Edinburgh, 1825), raw IA OCR, 98.2%, 1.1 MB. `--verify --record`: 0 mismatched, 0 rights flags; matched on "thomas scott". 0 uids minted.
