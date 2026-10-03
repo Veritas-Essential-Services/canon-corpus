@@ -1537,8 +1537,10 @@
     {
       "id": "wratislaw",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: wratislaw; no minting",
-      "status": "running",
-      "started": "2026-10-03T02:27:06-05:00"
+      "status": "done",
+      "started": "2026-10-03T02:27:06-05:00",
+      "finished": "2026-10-03T02:36:03-05:00",
+      "notes": "1/1 fetched (Gutenberg 48761), 565 units, 0 ~2 ids."
     },
     {
       "id": "borrow",
