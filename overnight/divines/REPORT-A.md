@@ -568,3 +568,6 @@
 
 ## 2026-10-03 05:55 CDT — john-mcleod-campbell done
 - `pipeline/john-mcleod-campbell_shelf.json`: 1 CCEL text, print source Macmillan 1905. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:55 CDT — d-l-moody done
+- `pipeline/d-l-moody_shelf.json`: 1 CCEL + 10 Gutenberg texts; no Gutenberg header carries the COPYRIGHTED marker. `--verify --record`: 0 mismatched. 0 uids minted.

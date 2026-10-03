@@ -237,6 +237,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | H. C. G. Moule | h-c-g-moule_shelf.json | 3 CCEL (Expositor's Bible Romans, Hodder; To My Younger Brethren, Hodder 1902; Messages from Hebrews, Elliot Stock 1909) | none | none | none |
 | F. B. Meyer | f-b-meyer_shelf.json | 3 CCEL (The Secret of Guidance; Our Daily Homily vol. 2, 1 Samuel to Job; The Way into the Holiest), print sources not named | Our Daily Homily other volumes | none | none |
 | John McLeod Campbell (veto point: deposed 1831 over universal atonement) | john-mcleod-campbell_shelf.json | 1 CCEL (The Nature of the Atonement, keyed from Macmillan 1905) | none | none | none |
+| D. L. Moody | d-l-moody_shelf.json | 1 CCEL (Anecdotes, Rhodes & McClure 1899) + 10 Gutenberg (sermons and addresses; none marked COPYRIGHTED) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

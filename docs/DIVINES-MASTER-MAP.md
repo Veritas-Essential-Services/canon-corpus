@@ -1966,6 +1966,15 @@ Slug `mcleod-campbell-atonement`. A veto point: his view of the atonement depart
 | Work | Status | Where |
 |---|---|---|
 | The Nature of the Atonement | have-clean | CCEL (Macmillan, 1905) |
+
+## D. L. Moody (round 12, my pick, 2026-10-03)
+
+Slugs `moody-*`. Many of these books were taken down by stenographers and edited by others; each is shelved as published under his name.
+
+| Work | Status | Where |
+|---|---|---|
+| Moody's Anecdotes and Illustrations | have-clean | CCEL (Rhodes & McClure, 1899) |
+| Prevailing Prayer; The Overcoming Life; The Way to God; Sovereign Grace; Secret Power; Moody's Stories; Pleasure & Profit in Bible Study; To the Work!; Sowing and Reaping; Wondrous Love | have-clean | Gutenberg |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

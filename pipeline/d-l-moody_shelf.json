@@ -1,0 +1,175 @@
+{
+ "_about": "Public-domain D. L. Moody (Dwight Lyman Moody, 1837-1899, American evangelist, founder of the Northfield schools and the Moody Bible Institute) for the Word Hoard: Moody's Anecdotes clean from CCEL, and ten books of his sermons and addresses clean from Project Gutenberg (rights lines checked by the fetcher). Many were taken down by stenographers and edited by others; each is shelved as published under his name. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "m/moody",
+ "_name_words": [
+  "moody",
+  "dwight"
+ ],
+ "_surname": [
+  "d. l. moody",
+  "d.l. moody",
+  "dwight l. moody",
+  "dwight lyman moody",
+  "moody, dwight",
+  "moody, d. l",
+  "mr. moody",
+  "moody"
+ ],
+ "_held": {},
+ "ccel": {
+  "moody-anecdotes": [
+   "anecdotes",
+   "Moody's Anecdotes and Illustrations",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "moody-prevailing-prayer": [
+   "61883",
+   "Prevailing Prayer: What Hinders It?"
+  ],
+  "moody-overcoming-life": [
+   "33015",
+   "The Overcoming Life, and Other Sermons"
+  ],
+  "moody-way-to-god": [
+   "30449",
+   "The Way to God and How to Find It"
+  ],
+  "moody-sovereign-grace": [
+   "30657",
+   "Sovereign Grace: Its Source, Its Nature and Its Effects"
+  ],
+  "moody-secret-power": [
+   "33341",
+   "Secret Power; or, The Secret of Success in Christian Life and Work"
+  ],
+  "moody-stories": [
+   "33024",
+   "Moody's Stories: Being a Second Volume of Anecdotes, Incidents, and Illustrations"
+  ],
+  "moody-bible-study": [
+   "36655",
+   "Pleasure & Profit in Bible Study"
+  ],
+  "moody-to-the-work": [
+   "33014",
+   "To the Work! To the Work! Exhortations to Christians"
+  ],
+  "moody-sowing-reaping": [
+   "30768",
+   "Sowing and Reaping"
+  ],
+  "moody-wondrous-love": [
+   "33520",
+   "Wondrous Love, and Other Gospel Addresses"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "moody-anecdotes": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "Rhodes &amp; McClure Publishing Company, 1899",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "moody-prevailing-prayer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-overcoming-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-way-to-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-sovereign-grace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-secret-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-bible-study": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-to-the-work": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-sowing-reaping": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moody-wondrous-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "d. l. moody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
