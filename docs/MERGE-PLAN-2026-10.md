@@ -16,6 +16,9 @@ Merge in this order. Each step has at most a few text conflicts, and all of
 them have a mechanical fix (below). On the fully merged tree every test suite
 that can run in the cloud passes.
 
+Every branch has moved since the trial (review fixes keep landing), so re-read
+the heads at merge time; the last column is only what the trial ran.
+
 | Step | PR | Branch | What it is | Head tried |
 |---|---|---|---|---|
 | 1 | #6 | `claude/project-thread-ja8lqz` | upkeep + the Contents-reader title fix | 356ed3a |
@@ -23,7 +26,7 @@ that can run in the cloud passes.
 | 3 | #9 | `claude/project-thread-xatdhh` | Vulgate, Douay, Brenton + their KJV maps | db5f5a9 |
 | 4 | #8 | `claude/project-thread-tskfc3` | whole Greek NT, Hebrew OT text, Apostolic Fathers | f42632b |
 | 4b | — | — | **after #8: rerun `python3 pipeline/build_parallel_index.py` and commit the result.** It fills the Greek NT column; #9's build reads #8's one-folder-per-book layout. | — |
-| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word (**squash-merge**) | 97dc4c0 (head now 51bc8a1: the later commits touch only #10's own Latin-key and Strong's files, tests, READMEs and its CLAUDE.md lines) |
+| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word (**squash-merge**) | 97dc4c0 |
 | 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry (**squash-merge**) | 0281061 |
 | 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles, Schaff (**squash-merge**) | ff633ad |
 | 8 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 4aa2994 |

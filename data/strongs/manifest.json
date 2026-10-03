@@ -289,8 +289,6 @@
   },
   "thayer": {
    "book": "thayer-entries",
-   "carried_forward": true,
-   "note": "source not present in this build; committed links kept as they were",
    "numbers_covered": 0
   }
  }

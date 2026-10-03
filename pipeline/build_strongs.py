@@ -289,7 +289,12 @@ def build_witnesses(table, prior_rows, prior_manifest):
             carried.append(name)
             # the committed stats as they were, so --check stays byte-identical;
             # the carry is reported on stdout, never written into the manifest
-            stats[name] = (prior_manifest.get("witnesses") or {}).get(name) or {"book": label, "numbers_covered": n}
+            stats[name] = {k: v for k, v in ((prior_manifest.get("witnesses") or {}).get(name)
+                                             or {"book": label, "numbers_covered": n}).items()
+                           if k not in ("carried_forward", "note")}    # an older build's flags
+            if stats[name].get("numbers_covered") != n:
+                raise SystemExit(f"HARD STOP: {name} carried {n} numbers, the manifest says "
+                                 f"{stats[name].get('numbers_covered')}")
             print(f"  {label} not here: {n} numbers' committed {name} links carried forward")
             continue
         linked, beyond, unkeyed = 0, 0, 0
