@@ -1,0 +1,85 @@
+{
+ "_about": "J. Gresham Machen (1881-1937), professor at Princeton and founder of Westminster Seminary: The Literature and History of New Testament Times (Philadelphia: Presbyterian Board, 1915); The Origin of Paul's Religion (New York: Macmillan, 1923 printing of the 1921 Sprunt Lectures); Christianity and Liberalism (New York: Macmillan, 1923); What is Faith? (New York: Macmillan, 1925). All are US publications before 1930, so public domain in the US. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "machen"
+ ],
+ "_surname": [
+  "machen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "machen-literature-history-1915": [
+   "literaturehistor00mach",
+   "The Literature and History of New Testament Times (Philadelphia, 1915)"
+  ],
+  "machen-origin-pauls-religion": [
+   "originofpaulsrel00mach",
+   "The Origin of Paul's Religion (New York: Macmillan, 1921; this copy printed 1923)"
+  ],
+  "machen-christianity-liberalism-1923": [
+   "christianitylibe0000mach",
+   "Christianity and Liberalism (New York: Macmillan, 1923)"
+  ],
+  "machen-what-is-faith-1925": [
+   "whatisfaith0000mach",
+   "What is Faith? (New York: Macmillan, 1925)"
+  ]
+ },
+ "_alternates": {
+  "originofpaulsrel00machrich, paulsreligion00machuoft, originpaulsreli01machgoog, originofpaulsrel0000jgre_y2y0": "Other copies of the Origin of Paul's Religion.",
+  "christianitylibe0000jgre, christianitylibe0000jgre_l9u3, isbn_9780530132648": "Other copies of Christianity and Liberalism.",
+  "whatisfaith0000jgre_o7r9, whatisfaiith0000jgre, MN41619ucmf_6": "Other copies of What is Faith?"
+ },
+ "_pending": {
+  "virginbirthofchr00mach_0 (The Virgin Birth of Christ, 1930)": "Published 1930: public domain in the US since 1 January 2026, but this shelf follows the house's before-1930 line; Adam's call.",
+  "newtestamentgree00mach (New Testament Greek for Beginners, 1923)": "The only open scan is a 1937 printing; wait for a 1923 printing."
+ },
+ "_excluded": {},
+ "_checks": {
+  "machen-literature-history-1915": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "machen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "machen-origin-pauls-religion": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "machen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "machen-christianity-liberalism-1923": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "machen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machen-what-is-faith-1925": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "machen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

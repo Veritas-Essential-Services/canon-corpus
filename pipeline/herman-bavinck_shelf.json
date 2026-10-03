@@ -1,0 +1,57 @@
+{
+ "_about": "Herman Bavinck (1854-1921), Dutch Reformed dogmatician: The Philosophy of Revelation, the Stone Lectures for 1908-1909 (New York: Longmans, Green, 1909), and The Sacrifice of Praise, tr. John Dolfin (Grand Rapids: Kregel, 1922, second edition). All are US publications before 1930, so public domain in the US. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "bavinck"
+ ],
+ "_surname": [
+  "bavinck"
+ ],
+ "_translators": {
+  "bavinck-sacrifice-of-praise-1922": "Dolfin"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bavinck-philosophy-of-revelation-1909": [
+   "philosophyofreve00bavi",
+   "The Philosophy of Revelation: the Stone Lectures for 1908-1909 (New York: Longmans, 1909)"
+  ],
+  "bavinck-sacrifice-of-praise-1922": [
+   "sacrificeofprais00bavi",
+   "The Sacrifice of Praise, tr. Dolfin (Grand Rapids: Kregel, 1922)"
+  ]
+ },
+ "_alternates": {
+  "philosophyrevel00bavigoog, philosophyofreve0000herm, philosophyofreve0000herm_v5b3": "Other copies of the Stone Lectures.",
+  "sacrificeofprai00bavi, sacrificeofprais0000bavi_t0c2, bwb_C0-CEW-259": "Other copies of the Sacrifice of Praise."
+ },
+ "_excluded": {
+  "magnaliadeionder00bavi, christelijkewere00bavi, dealgemeenegena00bavigoog and other Dutch works": "Dutch-language; the Reformed Dogmatics was not translated until 2003-2008."
+ },
+ "_checks": {
+  "bavinck-philosophy-of-revelation-1909": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bavinck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bavinck-sacrifice-of-praise-1922": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bavinck",
+   "translator_claimed": "Dolfin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

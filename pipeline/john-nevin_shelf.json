@@ -1,0 +1,83 @@
+{
+ "_about": "John Williamson Nevin (1803-1886), German Reformed theologian of the Mercersburg school: The Anxious Bench, second edition (Chambersburg, 1844); The Mystical Presence, a vindication of the Reformed or Calvinistic doctrine of the Holy Eucharist (Philadelphia: Lippincott, 1846); History and Genius of the Heidelberg Catechism (Chambersburg, 1847); Vindication of the Revised Liturgy (Philadelphia, 1867). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "nevin"
+ ],
+ "_surname": [
+  "nevin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nevin-anxious-bench-1844": [
+   "anxiousbench00nevi",
+   "The Anxious Bench, second edition (Chambersburg, 1844)"
+  ],
+  "nevin-mystical-presence-1846": [
+   "mysticalpresence00nevi",
+   "The Mystical Presence (Philadelphia: Lippincott, 1846)"
+  ],
+  "nevin-heidelberg-catechism-1847": [
+   "historyandgenius00neviuoft",
+   "History and Genius of the Heidelberg Catechism (Chambersburg, 1847)"
+  ],
+  "nevin-revised-liturgy-1867": [
+   "vindicationofrev00nevi",
+   "Vindication of the Revised Liturgy, historical and theological (Philadelphia, 1867)"
+  ]
+ },
+ "_alternates": {
+  "mysticalpresence00nevi_0, mysticalpresenc01nevigoog, 10775390bsb": "Other copies of the 1846 Mystical Presence.",
+  "mysticalpresence1867nevi, mysticalpresenc00/02nevigoog": "The 1867 printing.",
+  "historyandgeniu00nevigoog, vindicationofrev00nevi_0": "Other copies."
+ },
+ "_excluded": {
+  "dieangstbankvon00nevigoog, dieangstbank00nevi": "German translation of the Anxious Bench."
+ },
+ "_checks": {
+  "nevin-anxious-bench-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nevin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "nevin-mystical-presence-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nevin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevin-heidelberg-catechism-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nevin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevin-revised-liturgy-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nevin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

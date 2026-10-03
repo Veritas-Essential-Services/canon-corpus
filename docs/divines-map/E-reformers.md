@@ -289,3 +289,16 @@ Edinburgh: James Nichol, 1863-1869, general editor Thomas Smith. Lane A already 
 | Robinson, Works, ed. Ashton (3 vols, 1851) | have-raw | `john-robinson_shelf.json` |
 | Ainsworth, Annotations on the Pentateuch, Psalms and Song of Solomon (2 vols, 1843) | have-raw | `henry-ainsworth_shelf.json` |
 | Arber's Introductory Sketch (1879); Barrow, Greenwood, Browne and Cartwright | gap | Arber pending a title-page read; the others survive only in early printings or modern editions |
+
+## Dutch, Mercersburg and Princeton Reformed
+
+US publications before 1930 are public domain in the US; the two 1930 books (Vos's Pauline Eschatology, Machen's Virgin Birth) are pending as Adam's call.
+
+| Work | Status | Where |
+|---|---|---|
+| Kuyper, Encyclopedia of Sacred Theology (1898), Calvinism (Stone Lectures, 1899), The Work of the Holy Spirit (1900), and six other translations (1893-1929) | have-raw | `abraham-kuyper_shelf.json` |
+| Bavinck, The Philosophy of Revelation (1909); The Sacrifice of Praise (1922) | have-raw | `herman-bavinck_shelf.json` |
+| Vos, The Teaching of Jesus concerning the Kingdom (1903), Grace and Glory (1922), The Self-Disclosure of Jesus (1926) | have-raw | `geerhardus-vos_shelf.json`; Pauline Eschatology (1930) pending |
+| Machen, Literature and History of NT Times (1915), Origin of Paul's Religion (1921), Christianity and Liberalism (1923), What is Faith? (1925) | have-raw | `gresham-machen_shelf.json`; Virgin Birth (1930) pending |
+| Nevin, The Anxious Bench (1844), The Mystical Presence (1846), History and Genius of the Heidelberg Catechism (1847), Vindication of the Revised Liturgy (1867) | have-raw | `john-nevin_shelf.json` |
+| Breckinridge, The Knowledge of God, Objectively and Subjectively Considered (1859-69) | have-raw | `robert-breckinridge_shelf.json` |
