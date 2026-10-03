@@ -133,6 +133,28 @@ of the proper names in the English are in the linked Greek (15.2% in the next
 unit's). Papias is not in CCEL's file. Built locally;
 manifest entries committed. `python3 pipeline/build_lightfoot.py --fetch`.
 
+## Charles's Apocrypha and Pseudepigrapha (1913, read from the scans)
+
+R. H. Charles's two volumes in English, 32 books from I Esdras to the
+Zadokite Fragments. No machine-readable edition exists, so the text is the
+Internet Archive's OCR of the Toronto scans (hOCR pinned by sha256),
+read by `pipeline/charles_ocr.py`: the translation is told from the notes by
+type size, verse numbers are read from the margin and decoded as a sequence
+checked against each page's running head. Ids are Charles's own citations
+(`charles-tob:5.16`, `charles-testxii:Jos.3.7`, `charles-sib:3.101` by line).
+
+Measured, not claimed: 26 books are built verse by verse (12,073 verses;
+86% of the numbers read off the page, the rest inferred and flagged as
+such); where the KJV Apocrypha has the book, Charles has a unit for 4,669 of
+its 4,984 verse numbers. Six books fall below the bar or print versions in
+parallel columns and are built by printed page. Where a page carries two
+witnesses side by side (Susanna and Bel's LXX and Theodotion), only the left
+column is read, and the 42 such leaves are counted in the manifest. Each
+unit records how its number was got and where its first words were placed;
+the text is unproofread OCR. Public domain in the US; the Additions to
+Esther (Gregg, d. 1961) are flagged `redistribute_whole: false`.
+`python3 pipeline/build_charles.py --fetch`, then `--report`.
+
 ## Josephus (Greek and English)
 
 The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek

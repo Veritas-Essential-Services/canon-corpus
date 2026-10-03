@@ -5077,5 +5077,1150 @@
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
   "built_sha256": "6a130a2d3a30463bf7c2cf5aea58ba4ce851debdc0355b7d54e6dbe81e805e1d"
+ },
+ "charles-1esd": {
+  "title": "I Esdras",
+  "author": "tr. and ed. S. A. Cook, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 419,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 36-73 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 419,
+   "number_read": 362,
+   "number_read_with_fix": 18,
+   "number_inferred": 39,
+   "start": {
+    "line": 144,
+    "line-start": 106,
+    "sentence": 154,
+    "sentence-first": 15
+   },
+   "headings_dropped": 0,
+   "two_column_leaves_left_kept": 23,
+   "running_heads_agree": [
+    32,
+    32
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 448,
+    "present": 419,
+    "beyond_kjv": 0
+   }
+  },
+  "built_sha256": "f563e67700a38779b46ecf49c9be401918bb5189bb1dd94a8c297f761bdde044"
+ },
+ "charles-1macc": {
+  "title": "I Maccabees",
+  "author": "tr. and ed. W. O. E. Oesterley, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 852,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 82-139 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 852,
+   "number_read": 726,
+   "number_read_with_fix": 40,
+   "number_inferred": 86,
+   "start": {
+    "line": 197,
+    "line-start": 176,
+    "sentence": 448,
+    "sentence-first": 31
+   },
+   "headings_dropped": 54,
+   "running_heads_agree": [
+    51,
+    53
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 924,
+    "present": 850,
+    "beyond_kjv": 2
+   }
+  },
+  "built_sha256": "94211f98fcf7b5a68c31b3d2bf1c600fe62fa56d4d904588fd4c06a3bd210300"
+ },
+ "charles-2macc": {
+  "title": "II Maccabees",
+  "author": "tr. and ed. James Moffatt, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 524,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 147-169 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 524,
+   "number_read": 413,
+   "number_read_with_fix": 48,
+   "number_inferred": 63,
+   "start": {
+    "line": 160,
+    "line-start": 71,
+    "sentence": 275,
+    "sentence-first": 18
+   },
+   "headings_dropped": 17,
+   "running_heads_agree": [
+    18,
+    19
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 555,
+    "present": 522,
+    "beyond_kjv": 2
+   }
+  },
+  "built_sha256": "324fe26ff7bc803cb1f44861b010facdddb86fb8c323671a507a664e565dc22a"
+ },
+ "charles-3macc": {
+  "title": "III Maccabees",
+  "author": "tr. and ed. Cyril W. Emmet, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 222,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 178-188 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 222,
+   "number_read": 204,
+   "number_read_with_fix": 6,
+   "number_inferred": 12,
+   "start": {
+    "line": 46,
+    "line-start": 31,
+    "sentence": 142,
+    "sentence-first": 3
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    10,
+    10
+   ]
+  },
+  "built_sha256": "7da98fd1652f7c9cf091c343e5ea0cb0dcfd78a5e0e187b2649f76d599f930bf"
+ },
+ "charles-tob": {
+  "title": "The Book of Tobit",
+  "author": "tr. and ed. D. C. Simpson, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 198,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 217-256 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 198,
+   "number_read": 114,
+   "number_read_with_fix": 23,
+   "number_inferred": 61,
+   "start": {
+    "line": 47,
+    "line-start": 33,
+    "sentence": 107,
+    "sentence-first": 11
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    35,
+    38
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 244,
+    "present": 197,
+    "beyond_kjv": 1
+   }
+  },
+  "built_sha256": "89a0ae4849fad689a4bcc8e41ad03238ef1d4c5ba84ea9f60e676b8a7255685a"
+ },
+ "charles-jdt": {
+  "title": "The Book of Judith",
+  "author": "tr. and ed. A. E. Cowley, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 315,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 263-282 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 315,
+   "number_read": 231,
+   "number_read_with_fix": 25,
+   "number_inferred": 59,
+   "start": {
+    "line": 57,
+    "line-start": 62,
+    "sentence": 192,
+    "sentence-first": 4
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    18,
+    18
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 339,
+    "present": 314,
+    "beyond_kjv": 1
+   }
+  },
+  "built_sha256": "d943373dc7728be4ce3afed482a8e558ac47a5ee669d86cfca78593f5c7dbe99"
+ },
+ "charles-sir": {
+  "title": "Sirach",
+  "author": "tr. and ed. G. H. Box and W. O. E. Oesterley, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 1472,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 331-533 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 1472,
+   "number_read": 823,
+   "number_read_with_fix": 321,
+   "number_inferred": 328,
+   "start": {
+    "line": 573,
+    "line-start": 879,
+    "sentence": 16,
+    "sentence-first": 4
+   },
+   "headings_dropped": 133,
+   "running_heads_agree": [
+    165,
+    177
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 1393,
+    "present": 1351,
+    "beyond_kjv": 99
+   }
+  },
+  "built_sha256": "0fe27639eb876c53d5b944677f9613d7c9861c97fae531ca9e46bb43d81bc6df"
+ },
+ "charles-wis": {
+  "title": "The Wisdom of Solomon",
+  "author": "tr. and ed. Samuel Holmes, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 423,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 550-583 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 423,
+   "number_read": 399,
+   "number_read_with_fix": 11,
+   "number_inferred": 13,
+   "start": {
+    "line": 50,
+    "line-start": 373
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    30,
+    32
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 436,
+    "present": 423,
+    "beyond_kjv": 0
+   }
+  },
+  "built_sha256": "967934a9254661320f473a7d3c7c69cb35a0bd62eff2cdf90e08f612b4f80904"
+ },
+ "charles-bar": {
+  "title": "The Book of Baruch",
+  "author": "tr. and ed. O. C. Whitehouse, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 14,
+  "scheme": {
+   "citation": "printed page of the 1913 edition",
+   "resolution": "page",
+   "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 598-611 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 76,
+   "number_read": 55,
+   "number_read_with_fix": 5,
+   "number_inferred": 16,
+   "start": {
+    "line": 23,
+    "line-start": 24,
+    "sentence": 28,
+    "sentence-first": 1
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    2,
+    3
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 140,
+    "present": 76,
+    "beyond_kjv": 0
+   },
+   "refused": "verse decoding below the bar (numbers read 79%; heads 2/3): built by printed page instead"
+  },
+  "built_sha256": "649efa702d470278191e589ea0a695901e76d14d80c0b0a028b302f3051ac698"
+ },
+ "charles-epjer": {
+  "title": "The Epistle of Jeremy",
+  "author": "tr. and ed. C. J. Ball, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 70,
+  "scheme": {
+   "citation": "verse",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 614-626 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 70,
+   "number_read": 66,
+   "number_read_with_fix": 1,
+   "number_inferred": 3,
+   "start": {
+    "line": 9,
+    "line-start": 8,
+    "sentence": 52,
+    "sentence-first": 1
+   },
+   "headings_dropped": 1
+  },
+  "built_sha256": "d9e7a448d40bd0ed87d9cf506e5e249b47314dab7a9d4dba7c9abba47fcea95a"
+ },
+ "charles-prman": {
+  "title": "The Prayer of Manasses",
+  "author": "tr. and ed. Herbert E. Ryle, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 5,
+  "scheme": {
+   "citation": "printed page of the 1913 edition",
+   "resolution": "page",
+   "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 635-639 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 8,
+   "number_read": 0,
+   "number_read_with_fix": 2,
+   "number_inferred": 6,
+   "start": {
+    "line": 3,
+    "line-start": 5
+   },
+   "headings_dropped": 0,
+   "refused": "verse decoding below the bar (numbers read 25%; heads 0/0): built by printed page instead"
+  },
+  "built_sha256": "a9b3a4f726c44d9bd7621e628d6837919113b41738fa9acb3ad17b0f7ae4d62c"
+ },
+ "charles-azar": {
+  "title": "The Prayer of Azariah and the Song of the Three Children",
+  "author": "tr. and ed. W. H. Bennett, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 53,
+  "scheme": {
+   "citation": "verse",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 647-652 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 53,
+   "number_read": 31,
+   "number_read_with_fix": 6,
+   "number_inferred": 16,
+   "start": {
+    "line": 34,
+    "line-start": 7,
+    "sentence": 12
+   },
+   "headings_dropped": 0
+  },
+  "built_sha256": "6dc6cd2d998bc0b13793681e0a45f798e6026bf1d6a48ff72e56715eb6aafb84"
+ },
+ "charles-sus": {
+  "title": "Susanna",
+  "author": "tr. and ed. D. M. Kay, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 43,
+  "scheme": {
+   "citation": "verse",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 662-666 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 43,
+   "number_read": 27,
+   "number_read_with_fix": 6,
+   "number_inferred": 10,
+   "start": {
+    "line": 9,
+    "line-start": 16,
+    "sentence": 18
+   },
+   "headings_dropped": 0,
+   "two_column_leaves_left_kept": 5
+  },
+  "built_sha256": "173f74c9267001b9abfaf7a2147c942caad953931be2b27d2aff1a2d1b9c78d9"
+ },
+ "charles-bel": {
+  "title": "Bel and the Dragon",
+  "author": "tr. and ed. T. Witton Davies, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 37,
+  "scheme": {
+   "citation": "verse",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 673-679 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 37,
+   "number_read": 34,
+   "number_read_with_fix": 2,
+   "number_inferred": 1,
+   "start": {
+    "line": 7,
+    "line-start": 10,
+    "sentence": 20
+   },
+   "headings_dropped": 0,
+   "two_column_leaves_left_kept": 6
+  },
+  "built_sha256": "c49764aadf93ecf691be6e8dc665bb22c629ad5788c78a7e1380f595b17497c8"
+ },
+ "charles-addesth": {
+  "title": "The Additions to Esther",
+  "author": "tr. and ed. J. A. F. Gregg, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
+  "units": 94,
+  "scheme": {
+   "citation": "section letter.verse (Charles's A-F)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 687-698 of theapocryphaandp01unknuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, theapocryphaandp01unknuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/theapocryphaandp01unknuoft",
+   "redistribute_whole": false,
+   "note": "J. A. F. Gregg died 1961 (general reference, unchecked): in copyright in life+70 countries until the end of 2031; public domain in the US"
+  },
+  "measure": {
+   "verses": 94,
+   "number_read": 81,
+   "number_read_with_fix": 2,
+   "number_inferred": 11,
+   "start": {
+    "line": 36,
+    "line-start": 43,
+    "sentence": 14,
+    "sentence-first": 1
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    8,
+    8
+   ]
+  },
+  "built_sha256": "a849aa467e8f6c67f0eafa877c4d15e50517a2818cc0f68684a7f533c47c6ebc"
+ },
+ "charles-jub": {
+  "title": "The Book of Jubilees",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 1194,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 30-101 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 1194,
+   "number_read": 955,
+   "number_read_with_fix": 113,
+   "number_inferred": 126,
+   "start": {
+    "line": 79,
+    "line-start": 197,
+    "sentence": 823,
+    "sentence-first": 95
+   },
+   "headings_dropped": 69,
+   "running_heads_agree": [
+    54,
+    59
+   ]
+  },
+  "built_sha256": "7ca6e233a7dcefee2d12934626f113676064fabe5c237c25e639b7651ca74541"
+ },
+ "charles-arist": {
+  "title": "The Letter of Aristeas",
+  "author": "tr. and ed. Herbert T. Andrews, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 319,
+  "scheme": {
+   "citation": "verse",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 113-141 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 319,
+   "number_read": 244,
+   "number_read_with_fix": 12,
+   "number_inferred": 63,
+   "start": {
+    "line": 50,
+    "line-start": 94,
+    "sentence": 162,
+    "sentence-first": 13
+   },
+   "headings_dropped": 0
+  },
+  "built_sha256": "405efd8fcb6686783144b9a4f2efa0a71653a8e521a1775032507b16693422df"
+ },
+ "charles-adam": {
+  "title": "The Books of Adam and Eve",
+  "author": "tr. and ed. L. S. A. Wells, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 21,
+  "scheme": {
+   "citation": "printed page of the 1913 edition",
+   "resolution": "page",
+   "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 153-173 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {},
+  "built_sha256": "7ce530657afa09f767bca9d7889542f13b1c9b45c49ba2c691b4899556a3e507"
+ },
+ "charles-mart": {
+  "title": "The Martyrdom of Isaiah",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 4,
+  "scheme": {
+   "citation": "printed page of the 1913 edition",
+   "resolution": "page",
+   "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 178-181 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 41,
+   "number_read": 14,
+   "number_read_with_fix": 10,
+   "number_inferred": 17,
+   "start": {
+    "line": 4,
+    "line-start": 8,
+    "sentence": 24,
+    "sentence-first": 5
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    1,
+    2
+   ],
+   "refused": "verse decoding below the bar (numbers read 59%; heads 1/2): built by printed page instead"
+  },
+  "built_sha256": "18dc7befa936831578363a0ecb06d42acf25d1af50a18e832fc4f1c23dab09e3"
+ },
+ "charles-1en": {
+  "title": "The Book of Enoch (1 Enoch)",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 841,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 207-300 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 841,
+   "number_read": 580,
+   "number_read_with_fix": 113,
+   "number_inferred": 148,
+   "start": {
+    "line": 94,
+    "line-start": 286,
+    "sentence": 446,
+    "sentence-first": 15
+   },
+   "headings_dropped": 19,
+   "two_column_leaves_left_kept": 4,
+   "running_heads_agree": [
+    72,
+    81
+   ]
+  },
+  "built_sha256": "e06bba417a23d6e8aa55567c67f17b9c082169b9cd8808a9cd77b1787c3c9052"
+ },
+ "charles-testxii": {
+  "title": "The Testaments of the Twelve Patriarchs",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 891,
+  "scheme": {
+   "citation": "testament.chapter.verse",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 315-379 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 891,
+   "number_read": 642,
+   "number_read_with_fix": 141,
+   "number_inferred": 108,
+   "start": {
+    "line": 101,
+    "line-start": 286,
+    "sentence": 434,
+    "sentence-first": 70
+   },
+   "headings_dropped": 0,
+   "two_column_leaves_left_kept": 3
+  },
+  "built_sha256": "063b8500d12fefad3a05e9a95d2e6efe0b1e0f7af45f85a35ff66f6ac6f0c352"
+ },
+ "charles-sib": {
+  "title": "The Sibylline Oracles",
+  "author": "tr. and ed. H. C. O. Lanchester, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 1597,
+  "scheme": {
+   "citation": "book or fragment.line (the Greek line numbers Charles prints inline)",
+   "resolution": "verse",
+   "honesty": "line numbers read from the inline '(n)' markers; text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 396-425 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 1597,
+   "number_read": 1508,
+   "number_read_with_fix": 0,
+   "number_inferred": 89,
+   "start": {},
+   "headings_dropped": 0
+  },
+  "built_sha256": "0c44d2e3d209b4fe5cc03e4c0bf01f7b7a230d5b84754b72b27644cb60476b5d"
+ },
+ "charles-asmos": {
+  "title": "The Assumption of Moses",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 120,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 433-443 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 120,
+   "number_read": 92,
+   "number_read_with_fix": 10,
+   "number_inferred": 18,
+   "start": {
+    "line": 19,
+    "line-start": 27,
+    "sentence": 67,
+    "sentence-first": 7
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    7,
+    7
+   ]
+  },
+  "built_sha256": "20b87607f4cb6c0755ae1a250c78cd2a619af9b15e758257e11e3d6418ad58f7"
+ },
+ "charles-2en": {
+  "title": "The Book of the Secrets of Enoch (2 Enoch)",
+  "author": "tr. and ed. Nevill Forbes and R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 39,
+  "scheme": {
+   "citation": "printed page of the 1913 edition",
+   "resolution": "page",
+   "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 450-488 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {},
+  "built_sha256": "a4a3bdc0276f4f34904fa2cfb29de12ab26ec191c158115b7ba959866692ff6c"
+ },
+ "charles-2bar": {
+  "title": "II Baruch (the Syriac Apocalypse)",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 583,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 500-545 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 583,
+   "number_read": 401,
+   "number_read_with_fix": 82,
+   "number_inferred": 100,
+   "start": {
+    "line": 67,
+    "line-start": 249,
+    "sentence": 241,
+    "sentence-first": 26
+   },
+   "headings_dropped": 8,
+   "running_heads_agree": [
+    26,
+    33
+   ]
+  },
+  "built_sha256": "fb308764cf0cabc5f56f84e7f01be285c56afbecb40d10f3c8a2ae52bac7fb55"
+ },
+ "charles-3bar": {
+  "title": "III Baruch (the Greek Apocalypse)",
+  "author": "tr. and ed. H. Maldwyn Hughes, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 114,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 552-560 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 114,
+   "number_read": 88,
+   "number_read_with_fix": 12,
+   "number_inferred": 14,
+   "start": {
+    "line": 3,
+    "line-start": 19,
+    "sentence": 71,
+    "sentence-first": 21
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    3,
+    4
+   ]
+  },
+  "built_sha256": "434bb0903194024aff68fcde6320eba5d8c196665f0ae8dd9e0ef1beabd448db"
+ },
+ "charles-4ezra": {
+  "title": "IV Ezra",
+  "author": "tr. and ed. G. H. Box, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 666,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 580-643 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 666,
+   "number_read": 462,
+   "number_read_with_fix": 103,
+   "number_inferred": 101,
+   "start": {
+    "line": 189,
+    "line-start": 261,
+    "sentence": 184,
+    "sentence-first": 32
+   },
+   "headings_dropped": 13,
+   "running_heads_agree": [
+    52,
+    60
+   ],
+   "kjv_verse_numbers": {
+    "kjv": 645,
+    "present": 593,
+    "beyond_kjv": 73
+   }
+  },
+  "built_sha256": "db5b38c2194de8754726db997ee95eb5422b87fda5c8bab32e822c5a0188d9c8"
+ },
+ "charles-pssol": {
+  "title": "The Psalms of Solomon",
+  "author": "tr. and ed. G. Buchanan Gray, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 276,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 650-671 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 276,
+   "number_read": 178,
+   "number_read_with_fix": 51,
+   "number_inferred": 47,
+   "start": {
+    "line": 46,
+    "line-start": 230
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    19,
+    19
+   ]
+  },
+  "built_sha256": "a97c8a69ca4a4923969b6ebdf69c9b2442784cd3171258d72f1d4a8217bb4903"
+ },
+ "charles-4macc": {
+  "title": "The Fourth Book of Maccabees",
+  "author": "tr. and ed. R. B. Townshend, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 387,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 685-704 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 387,
+   "number_read": 255,
+   "number_read_with_fix": 52,
+   "number_inferred": 80,
+   "start": {
+    "line": 112,
+    "line-start": 70,
+    "sentence": 194,
+    "sentence-first": 11
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    17,
+    18
+   ]
+  },
+  "built_sha256": "876c431acec08e3d871b6370ee5b4a6b6333a9423a4a81133107b31f2c15a0b8"
+ },
+ "charles-aboth": {
+  "title": "Pirke Aboth: The Sayings of the Fathers",
+  "author": "tr. and ed. R. Travers Herford, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 116,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 710-733 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 116,
+   "number_read": 85,
+   "number_read_with_fix": 11,
+   "number_inferred": 20,
+   "start": {
+    "line": 7,
+    "line-start": 84,
+    "sentence": 8,
+    "sentence-first": 17
+   },
+   "headings_dropped": 0,
+   "running_heads_agree": [
+    17,
+    20
+   ]
+  },
+  "built_sha256": "c98bdfbe492b0cac277dd397f80e2bbca5a3913346d3b0823420b5770fe34cca"
+ },
+ "charles-ahikar": {
+  "title": "The Story of Ahikar",
+  "author": "tr. and ed. F. C. Conybeare, J. Rendel Harris and Agnes Smith Lewis, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 61,
+  "scheme": {
+   "citation": "printed page of the 1913 edition",
+   "resolution": "page",
+   "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 743-803 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {},
+  "built_sha256": "20fb84e50f79e35510a4ca1a69336a4d9e9ba36ec029e37d17ed3be6b502a2df"
+ },
+ "charles-zad": {
+  "title": "Fragments of a Zadokite Work",
+  "author": "tr. and ed. R. H. Charles, in Charles (1913)",
+  "format": "ia-hocr",
+  "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
+  "units": 247,
+  "scheme": {
+   "citation": "chapter.verse (Charles's numbering)",
+   "resolution": "verse",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 817-853 of apocryphapseudep02charuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (published 1913); the scan and its OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, apocryphapseudep02charuoft (University of Toronto copy)",
+   "source_url": "https://archive.org/details/apocryphapseudep02charuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "verses": 247,
+   "number_read": 149,
+   "number_read_with_fix": 41,
+   "number_inferred": 57,
+   "start": {
+    "line": 46,
+    "line-start": 81,
+    "sentence": 107,
+    "sentence-first": 13
+   },
+   "headings_dropped": 45,
+   "two_column_leaves_left_kept": 1,
+   "running_heads_agree": [
+    26,
+    27
+   ]
+  },
+  "built_sha256": "756a358028b07d9063195593994af7dd4ea78e102cf235fbbb369f8e77dc62a5"
  }
 }

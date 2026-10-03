@@ -136,6 +136,11 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_lightfoot.py --check  # rebuild = the committed manifest entries
     python3 pipeline/build_lightfoot.py --survey # every chapter: CCEL paragraphs vs Lake sections, units
     python3 tests/lightfoot_test.py          # Lightfoot: rights, alignment rules on fixtures, measurements
+    python3 pipeline/build_charles.py --fetch    # Charles 1913 Apocrypha & Pseudepigrapha: archive.org hOCR, pinned
+    python3 pipeline/build_charles.py            # 32 books read from the OCR -> data/books/charles-*.json
+    python3 pipeline/build_charles.py --check    # rebuild = the committed manifest entries
+    python3 pipeline/build_charles.py --report   # per book: numbers read, running heads, KJV verse coverage
+    python3 tests/charles_test.py            # the scan reader on fixtures; the manifest's measures
     python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
     python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
     python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
@@ -226,6 +231,18 @@ The living truth for project state is the Obsidian vault:
   every near-best alignment must agree on; else a run, else the chapter.
   Links run English -> Greek only (Lake's books are not rewritten). The
   Moscow epilogue in Mart. Pol. 22 is a SPLIT row.
+- pipeline/build_charles.py + charles_ocr.py — R. H. Charles, *Apocrypha and
+  Pseudepigrapha of the OT* (1913, US PD; one contributor, Gregg on the
+  Additions to Esther, d. 1961, so that book is flagged redistribute_whole
+  false). No machine-readable edition exists: read from the Internet Archive's
+  hOCR of the Toronto scans (pinned by sha256; the BYU scans were OCR'd as
+  Greek). 32 books `charles-<book>`, ids `charles-tob:5.16`,
+  `charles-testxii:Jos.3.7`, `charles-sib:3.101` (Sibyllines by line). Verse
+  numbers come off the margin by a decoder checked against the running heads;
+  every unit says how its number was got and where its first words were put
+  (`scan`). Two-column pages keep the left column (counted). Parallel-column
+  books and any book under MODE_BAR are built by printed page. Unproofread
+  OCR, and the honesty field says so.
 - pipeline/build_josephus.py — Josephus (Ant., J.W., Life, Ag. Ap.): Niese's
   Greek and Whiston's English (both PD; Perseus TEI CC BY-SA 4.0, so books
   gitignored, labelled manifest entries committed). Units are Whiston's
