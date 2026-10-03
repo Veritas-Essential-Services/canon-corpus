@@ -243,7 +243,39 @@ taken only when it fits the sequence of verses and the page's running head.
 - Hort is by page only. Each page carries its `lecture`.
 
 **Scripture.** References in the English are resolved in the KJV's
-numbering. "ver. 8" means the same chapter of the note's own epistle.
+numbering. Some rules:
+
+- "ver. 8" means the same chapter of the note's own epistle.
+- A bare "c. iii. 13" means the note's own epistle too. Both readings
+  happen in note units only. They never happen after another work's
+  abbreviation: "Euseb. H.E. c. iv. 3" is Eusebius, not Galatians 4:3.
+- A range keeps its end in `through`. That includes "vv. 8-12" and a range
+  that crosses chapters, such as "Rom. viii. 28-ix. 3".
+- Sometimes the KJV cannot end a range, because the range runs past the
+  chapter or runs backwards. The link then keeps only the start verse and
+  says why in `through_unread`. These links are counted in
+  `scripture_links.ranges_start_only`.
+- A note may open with a run of verses. If the run is backwards, past the
+  chapter, or longer than 15 verses, only its first verse is kept
+  (`openers_run_cut`).
+- A run into the next chapter, such as "28—V. 1.", is not read as an opener
+  at all (`openers_crossing_chapter`).
+
+**Two Greek yardsticks.** The candidate table in the script and the
+manifest measure Greek against different word lists, so their numbers
+differ. For example, Lightfoot's Galatians scores 65.9% in the table and
+0.37 in the manifest.
+
+- The table (wave 1, read from each candidate's `_djvu.txt`) also counted
+  the Greek of the proofread Gutenberg Colossians. That list holds the
+  commentators' own vocabulary, so more words match. The table uses this
+  figure only to rank the scans of one book against each other.
+- The manifest's `greek.greek_tokens_in_reference_vocab` uses only Strong's
+  lemmas and the forms of John in `data/nt`. These lists are committed and
+  fixed, so the manifest can compare one book with another, and every
+  rebuild gives the same figure. Inflected forms outside John don't count,
+  so the figure reads low.
+- The wave-2a rows of the table already use the manifest's yardstick.
 
 **The second wave (2a)** uses the same rules, with three additions:
 

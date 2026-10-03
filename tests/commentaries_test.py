@@ -100,8 +100,18 @@ check("decoder: a chapter printed with the number", d.offer(1, None, None, [], 3
 d.c, d.v = 1, 3
 check("decoder: two agreeing running heads resync the chapter", d.offer(5, None, 3, [], None, True) == (3, 5, None))
 d.c, d.v = 1, 3
-check("decoder: one unconfirmed head does not", d.offer(5, None, 3, [], None, False) != (3, 5, None))
-check("decoder: a run's end beyond the chapter is dropped", B.Decoder(counts)._take(1, 20, 30) == (1, 20, None))
+check("decoder: one unconfirmed head does not: the note stays in its chapter",
+      d.offer(5, None, 3, [], None, False) == (1, 5, None) and (d.c, d.v) == (1, 5))
+d = B.Decoder(counts)
+check("decoder: a run's end beyond the chapter is dropped, and counted",
+      d._take(1, 20, 30) == (1, 20, None) and d.runs_cut == 1)
+check("decoder: a run over 15 verses keeps its start, and is counted",
+      d._take(2, 1, 20) == (2, 1, None) and d.runs_cut == 2)
+check("decoder: a run within the chapter is kept, not counted", d._take(3, 1, 5) == (3, 1, 5) and d.runs_cut == 2)
+check("opener: a run running backwards says so (openers_run_cut)",
+      B.opener("5, 3. text").run_cut and not B.opener("2, 3, 4. These verses").run_cut)
+check("CROSS_OPEN: a run into the next chapter ('28—V. 1.') is recognised, a plain opener is not",
+      B.CROSS_OPEN.match("28—V. 1. ‘So then") and not B.CROSS_OPEN.match("28. So then"))
 
 # -- scripture
 ids = B.kjv_ids()
@@ -115,6 +125,34 @@ check("scripture: another book, KJV numbering", any(x.get("target") == "kjv:Rom.
 r = B.scripture("see Rom. viii. 99", ids)
 check("scripture: a verse the KJV lacks stays unresolved, with why", r and not r[0]["resolved"] and r[0].get("why"))
 check("scripture: without its own book, 'ver. 20' is not read", not B.scripture("ver. 20", ids))
+r = B.scripture("Euseb. H.E. c. iv. 3", ids, own="Gal", chapter=2)
+check("scripture: 'Euseb. H.E. c. iv. 3' is Eusebius's chapter, not Gal 4.3", not r)
+check("scripture: 'ib. c. iii. 13' (another work) is refused, 'cf. c. iii. 13' is read",
+      not B.scripture("ib. c. iii. 13", ids, own="Gal", chapter=2)
+      and [x.get("target") for x in B.scripture("cf. c. iii. 13", ids, own="Gal", chapter=2)] == ["kjv:Gal.3.13"])
+units = [{"id": "x:leaf.9", "kind": "page", "text": "Euseb. H.E. c. iv. 3; and ver. 20", "links": []},
+         {"id": "x:2.20", "kind": "note", "book": "Gal", "text": "as in c. iii. 13", "links": []}]
+B.SCANS["_t"] = {"ia": "t", "epistles": [("Gal", 1, 2)]}
+B.harvest("_t", units, ids)
+del B.SCANS["_t"]
+check("harvest: an introduction page reads no 'c.'/'ver.' as the epistle's own", units[0]["links"] == [])
+check("harvest: a note unit does", [x.get("target") for x in units[1]["links"]] == ["kjv:Gal.3.13"])
+r = B.scripture("see vv. 8-12", ids, own="Gal", chapter=2)
+check("scripture: 'vv. 8-12' is one link, a range with `through`",
+      [(x["target"], x.get("through"), x["ref"]) for x in r] == [("kjv:Gal.2.8", "kjv:Gal.2.12", "Gal 2:8-12")])
+r = B.scripture("see ver. 3, 4", ids, own="Gal", chapter=2)
+check("scripture: 'ver. 3, 4' is two verses", [x["target"] for x in r] == ["kjv:Gal.2.3", "kjv:Gal.2.4"])
+r = B.scripture("See Rom. viii. 28-ix. 3", ids)
+check("scripture: a range crossing chapters keeps its end",
+      [(x["target"], x.get("through")) for x in r] == [("kjv:Rom.8.28", "kjv:Rom.9.3")])
+r = B.scripture("Rom. 8:28-9:3.", ids)
+check("scripture: ... in arabic numbering too", [x.get("through") for x in r] == ["kjv:Rom.9.3"])
+r = B.scripture("cf. Gal. iii. 12-8", ids)
+check("scripture: a range running backwards keeps its start and says so",
+      [(x["target"], "through" in x, x.get("through_unread")) for x in r] == [("kjv:Gal.3.12", False, "3:8: backwards")])
+r = B.scripture("cf. Gal. iii. 8-40", ids)
+check("scripture: a range past the chapter keeps its start and says so",
+      [(x["target"], "through" in x, x.get("through_unread")) for x in r] == [("kjv:Gal.3.8", False, "3:40: past the chapter")])
 
 # -- refs, rights, folios
 s = {"short": "Lightfoot, Gal."}
@@ -138,6 +176,10 @@ check("printed_pages: a stray number is not a folio", pp.get(15, (None,))[0] != 
 check("pins: every scan pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) for s in B.SCANS.values() for v in B.volumes(s)))
 check("pins: the Gutenberg file pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", g["sha256"]) for g in B.GUTENBERG.values()))
 check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s in list(B.SCANS.values()) + list(B.GUTENBERG.values())))
+check("pins: every scan's Internet Archive date (pinned from its metadata; fetch() stops if it changes) is "
+      "before 1929 and is the edition's printed year",
+      all(re.fullmatch(r"\d{4}", v.get("ia_date", "")) and int(v["ia_date"]) < 1929 and int(v["ia_date"]) == v["printed"]
+          for s in B.SCANS.values() for v in B.volumes(s)))
 
 # -- the manifest's measures
 with open(os.path.join(ROOT, "data", "books", "manifest.json"), encoding="utf-8") as f:
@@ -247,6 +289,7 @@ for k, bks in ELL.items():
 for k in B.ORDER:
     p = os.path.join(ROOT, "data", "books", f"{k}.json")
     if not os.path.exists(p):
+        print(f"SKIPPED built: {k} (data/books/{k}.json not built here)")
         continue
     with open(p, "rb") as f:
         blob = f.read()

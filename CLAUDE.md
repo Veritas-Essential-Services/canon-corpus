@@ -196,11 +196,6 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
     python3 tests/commentaries_test.py       # the note readers on fixtures; the manifest's measures
-    python3 pipeline/build_commentaries.py --fetch   # Lightfoot Gal/Phil/Col, Westcott Heb/John, Hort: PG + IA hOCR, pinned
-    python3 pipeline/build_commentaries.py           # notes by verse (kjv links), other pages by leaf -> data/books/
-    python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
-    python3 pipeline/build_commentaries.py --report  # per book: verse coverage, scripture links, Greek retention
-    python3 tests/commentaries_test.py       # the commentary reader: rules on fixtures, the manifest's measures
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -612,8 +607,10 @@ The living truth for project state is the Obsidian vault:
   Ellicott's five volumes on St Paul. Read from the Internet Archive's hOCR,
   each scan chosen by measuring its text layer (the measures are above
   CANDIDATES; many scans lost their Greek or read English as Greek) and
-  pinned by sha256; the item's possible-copyright-status is re-read on
-  --fetch. A note is cited by the verse it comments on
+  pinned by sha256; the item's possible-copyright-status and date
+  (`ia_date`, tested < 1929) are re-read on --fetch, which stops if either
+  changed. "c. iii. 13" / "ver. 8" are the commentary's own epistle in note
+  units only, never after another work's abbreviation. A note is cited by the verse it comments on
   (`ellicott-pastorals:Titus.3.5`, a run `1.6-9`), accepted only where the
   verse sequence and the running head allow it, and links `comments-on` its
   KJV verse(s). Everything else is kept by scan leaf (`leaf.N`, or

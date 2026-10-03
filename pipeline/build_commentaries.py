@@ -218,7 +218,7 @@ GUTENBERG = {
 
 SCANS = {
     "lightfoot-galatians": {
-        "ia": "saintpaulsepistl00lighrich",
+        "ia": "saintpaulsepistl00lighrich", "ia_date": "1910",
         "sha256": "fc65644766c7e56822907235645bcecfc878521f804f4c7870320057e05f282c",
         "title": "St Paul's Epistle to the Galatians",
         "short": "Lightfoot, Gal.",
@@ -234,7 +234,7 @@ SCANS = {
         "apparatus": False,
     },
     "lightfoot-philippians": {
-        "ia": "stpaulsepistleto00lighuoft",
+        "ia": "stpaulsepistleto00lighuoft", "ia_date": "1873",
         "sha256": "c7829cd1fd0666dbc339c4702c3e1b34165b573b83c4cf41b38a6407f5539d66",
         "title": "St Paul's Epistle to the Philippians",
         "short": "Lightfoot, Phil.",
@@ -250,7 +250,7 @@ SCANS = {
         "apparatus": False,
     },
     "westcott-hebrews": {
-        "ia": "epistletohebrew00westgoog",
+        "ia": "epistletohebrew00westgoog", "ia_date": "1892",
         "sha256": "2785db294c9077843e33c9305b30a8467fff12583f9c903675e8dcc22e0b33d3",
         "title": "The Epistle to the Hebrews",
         "short": "Westcott, Heb.",
@@ -265,7 +265,7 @@ SCANS = {
         "apparatus": True,
     },
     "westcott-john": {
-        "ia": "cu31924074296629",
+        "ia": "cu31924074296629", "ia_date": "1892",
         "sha256": "06dfd59ea42ff4aa504f0cc6089848ec92cf70da4f0fa909e5a1b6e9e6833134",
         "title": "The Epistles of St John",
         "short": "Westcott, Epp. John",
@@ -280,7 +280,7 @@ SCANS = {
         "apparatus": True,
     },
     "hort-ante-nicene": {
-        "ia": "sixlecturesonant00hortrich",
+        "ia": "sixlecturesonant00hortrich", "ia_date": "1895",
         "sha256": "acffe34d110c2a486981e1510b618a7dd9b282181724e346de710e7cd31dfb93",
         "title": "Six Lectures on the Ante-Nicene Fathers",
         "short": "Hort, Ante-Nicene Fathers",
@@ -326,11 +326,11 @@ SCANS.update({
                  "gospelaccordingt02west_0's text layer has no Greek codepoints (0.0% of letters, measured "
                  "2026-10-03 on its _djvu.txt) against 10.3% here"),
         "volumes": [
-            {"ia": "gospelaccordingt01west",
+            {"ia": "gospelaccordingt01west", "ia_date": "1908",
              "sha256": "ec341318718254bee14e7b664297519746defaf373a783b57128cdb29f04fc44",
              "copy": "Princeton Theological Seminary Library", "ia_rights": None,
              "leaves": (5, 483), "epistles": [("John", 202, 483)]},
-            {"ia": "gospelaccordingt02west",
+            {"ia": "gospelaccordingt02west", "ia_date": "1908",
              "sha256": "9c921a390547f8350b9cf7fabfb33a46b33968ad0bec9ed79a455550376f9d75",
              "copy": "University of Toronto (Robarts)", "ia_rights": None,
              "leaves": (5, 404), "epistles": [("John", 12, 387, 8)]},
@@ -356,25 +356,25 @@ SCANS.update({
                  "john-lightfoot shelf (branch claude/project-thread-c4l3cp) lists the Horae in Pitman's Whole "
                  "Works (1822-25) as pending, another edition, not shelved there"),
         "volumes": [
-            {"ia": "horaehebraicaeet0001ligh",
+            {"ia": "horaehebraicaeet0001ligh", "ia_date": "1859",
              "sha256": "1ba4063fdbc1c09f0a721e4c489f77fe8534d5ecb1fb8c7fcf1b863fa81ef4d6",
              "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 394), "epistles": []},
-            {"ia": "horaehebraicaeet0002ligh",
+            {"ia": "horaehebraicaeet0002ligh", "ia_date": "1859",
              "sha256": "e54b581870ba3818113c255170311583fbae9fe887d3ce66a5d6f7e26e5adebb",
              "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 486),
              "epistles": [("Matt", 13, 390), ("Mark", 399, 486)]},
-            {"ia": "horaehebraicaeet0003ligh",
+            {"ia": "horaehebraicaeet0003ligh", "ia_date": "1859",
              "sha256": "8ffc3f7c8498da9a72af76b4e7c284a30474db48349cdcf2970dbbcc01a02e7c",
              "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 462),
              "epistles": [("Luke", 11, 237), ("John", 243, 461)]},
-            {"ia": "horaehebraicaeet0004ligh",
+            {"ia": "horaehebraicaeet0004ligh", "ia_date": "1859",
              "sha256": "d373363ad662c0e272c3e220015a793b7ee23c8e79a4e3d1cdb8be08d1e1d373",
              "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 354),
              "epistles": [("Acts", 11, 159), ("Rom", 161, 170), ("1Cor", 177, 291)]},
         ],
     },
     "ellicott-galatians": {
-        "ia": "stpaulsepistleto00elli",
+        "ia": "stpaulsepistleto00elli", "ia_date": "1867",
         "sha256": "b8fe27d024d63d0d78ba12a90ddcffe5cd9aaed6b445a8b3116051bae40572a9",
         "title": "St Paul's Epistle to the Galatians",
         "short": "Ellicott, Gal.",
@@ -399,7 +399,7 @@ SCANS.update({
                     "unit of that verse"),
     },
     "ellicott-ephesians": {
-        "ia": "cu31924029294240",
+        "ia": "cu31924029294240", "ia_date": "1884",
         "sha256": "5acf89fdcb93b47401c7126f0d5097757b86b95fdaf9981214c6f96c82aa07ac",
         "title": "St Paul's Epistle to the Ephesians",
         "short": "Ellicott, Eph.",
@@ -424,7 +424,7 @@ SCANS.update({
                     "unit of that verse"),
     },
     "ellicott-philippians": {
-        "ia": "criticalgrammati00elli",
+        "ia": "criticalgrammati00elli", "ia_date": "1857",
         "sha256": "d48f012284e787f2bd8bae2fbe09a5a466a5c15473117bf8d7dc040210b76f9d",
         "title": "St Paul's Epistles to the Philippians, the Colossians, and Philemon",
         "short": "Ellicott, Phil. Col. Philem.",
@@ -449,7 +449,7 @@ SCANS.update({
                     "unit of that verse"),
     },
     "ellicott-thessalonians": {
-        "ia": "cu31924029294539",
+        "ia": "cu31924029294539", "ia_date": "1880",
         "sha256": "9d94507cc9e47f7a1019162cc6ae0a7845fd2e56d06798c04b084ee3a0b88d77",
         "title": "St Paul's Epistles to the Thessalonians",
         "short": "Ellicott, Thess.",
@@ -474,7 +474,7 @@ SCANS.update({
                     "unit of that verse"),
     },
     "ellicott-pastorals": {
-        "ia": "pastoralepistles00elli",
+        "ia": "pastoralepistles00elli", "ia_date": "1883",
         "sha256": "f9140c24e65007ef2f80c3070b3fa20585913e13b898f91d215a18287154945e",
         "title": "The Pastoral Epistles of St Paul",
         "short": "Ellicott, Past.",
@@ -552,6 +552,9 @@ def fetch():
             got = meta.get("metadata", {}).get("possible-copyright-status")
             if got != s["ia_rights"]:
                 raise SystemExit(f"{s['ia']}: possible-copyright-status {got!r} != recorded {s['ia_rights']!r}")
+            date = meta.get("metadata", {}).get("date")
+            if date != s["ia_date"]:
+                raise SystemExit(f"{s['ia']}: metadata date {date!r} != recorded {s['ia_date']!r}")
             f = f"{s['ia']}_hocr.html"
             download(f"https://archive.org/download/{s['ia']}/{f}", os.path.join(CACHE, f), s["sha256"])
             print(f"  {slug}: {s['ia']} hOCR present, sha256 pinned; rights field {got!r}")
@@ -814,9 +817,24 @@ def opener(text):
     if m.group(1) and not cp:
         return None
     fix = not m.group(2).isdigit() or bool(last and not last.isdigit())
-    if e is not None and e <= n:
+    cut = e is not None and e <= n
+    if cut:
         e = None
-    return cp, n, e, "read-fix" if fix else "read"
+    return Read((cp, n, e, "read-fix" if fix else "read"), cut)
+
+
+class Read(tuple):
+    """An opener as read; `run_cut` is true when its run ran backwards and
+    only its first verse was kept (counted in openers_run_cut)."""
+    def __new__(cls, t, run_cut=False):
+        x = super().__new__(cls, t)
+        x.run_cut = run_cut
+        return x
+
+
+# a run opener that crosses into the next chapter ('28—V. 1.'): not read as
+# a run (a note id names one chapter); counted in openers_crossing_chapter
+CROSS_OPEN = re.compile(r'^\W{0,2}\d{1,2}\s*[—–-]+\s*[IVX]{1,4}\.\s*\d{1,2}\s*\.')
 
 
 CHAPTER_WORD = re.compile(r'^\W{0,2}C[A-Za-z]{1,4}[Tt][Ee][Rr]\s*(?=[IVXΙΠ])')
@@ -872,6 +890,7 @@ class Decoder:
         self.nch = max(counts)
         self.c, self.v = 1, 0
         self.lookahead = lookahead
+        self.runs_cut = 0          # runs longer than 15 verses or past the chapter: first verse kept
 
     def offer(self, n, e, hc, hv, cp=None, hsure=False, ahead=()):
         """hc: the chapter of the page's running head (None if unread); hsure:
@@ -910,12 +929,17 @@ class Decoder:
         if v - 2 <= n < v and n >= 1 and hc in (None, c):
             # a note on a verse just passed (Lightfoot takes 3 after 4 at Gal 1.3):
             # taken, and the sequence stays where it was
-            return c, n, (e if e and e <= cnt.get(c, 0) and e - n <= 15 else None)
+            return c, n, self._run(c, n, e)
         return None
 
-    def _take(self, c, n, e):
+    def _run(self, c, n, e):
         if e is not None and (e > self.counts.get(c, 0) or e - n > 15):
-            e = None
+            self.runs_cut += 1
+            return None
+        return e
+
+    def _take(self, c, n, e):
+        e = self._run(c, n, e)
         self.c, self.v = c, n
         return c, n, e
 
@@ -927,6 +951,17 @@ FS.FAMILY.setdefault("eng", {}).update({
 })
 SELF_VER = re.compile(r'\b(?:ver|vv|vers)\.\s*(\d{1,2})((?:\s*[,–—-]\s*\d{1,2}(?!\s*[a-zA-Z]{2,}\.))*)')
 SELF_C = re.compile(r'\bc\.\s*([ivxl]{1,6})\.\s*(\d{1,2})\b')
+# the word before a bare 'c. iv. 3': an abbreviation ending in '.' names
+# another work ('Euseb. H.E. c. iv. 3', 'ib. c. 3'), unless it is one of these
+SELF_C_BEFORE = re.compile(r'(\S+)\s*$')
+SELF_C_OK = {"cf.", "comp.", "conf.", "cp.", "see", "so", "also", "esp.", "and", "in", "on", "with", "as", "e.g.",
+             "i.e.", "above", "below", "ver.", "vv.", "(", "[", ";", ","}
+# a range crossing a chapter: 'viii. 28-ix. 3' or '8:28-9:3' (FS.parse reads its start only)
+CROSS_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*([ivxlc]{1,7})\.\s*(\d{1,3})\b'
+                         r'|\b(\d{1,3}):(\d{1,3})\s*[–—-]+\s*(\d{1,3}):(\d{1,3})\b')
+# a range running backwards in one chapter ('iii. 12-8'): FS.parse drops its end
+BACK_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)'
+                        r'|\b(\d{1,3}):(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)')
 
 
 _CHAPTERS = {}
@@ -940,9 +975,45 @@ def chapters(ids):
     return _CHAPTERS
 
 
+def cross_ranges(text):
+    """(chapter, verse) -> (chapter, verse) for every range in the text that
+    crosses into a later chapter, or runs backwards in one."""
+    out = {}
+    for m in CROSS_RANGE.finditer(text):
+        if m.group(1):
+            a, b = FS.roman(m.group(1)), FS.roman(m.group(3))
+            v, w = int(m.group(2)), int(m.group(4))
+        else:
+            a, v, b, w = (int(m.group(k)) for k in (5, 6, 7, 8))
+        if a and b and b > a:
+            out.setdefault((a, v), (b, w))
+    for m in BACK_RANGE.finditer(text):
+        a = FS.roman(m.group(1)) if m.group(1) else int(m.group(4))
+        v, w = (int(m.group(2)), int(m.group(3))) if m.group(1) else (int(m.group(5)), int(m.group(6)))
+        if a and w < v:
+            out.setdefault((a, v), (a, w))
+    return out
+
+
+def self_c_refused(text, start):
+    """A bare 'c. iv. 3' is another work's chapter when the word before it is
+    an abbreviation ('Euseb. H.E. c. iv. 3')."""
+    m = SELF_C_BEFORE.search(text[max(0, start - 40):start])
+    if not m:
+        return False
+    w = m.group(1)
+    return w.endswith(".") and w.lower() not in SELF_C_OK and not re.fullmatch(r'[\d.]+', w)
+
+
 def scripture(text, ids, own=None, chapter=None):
-    """English references in a unit's text, resolved in the KJV's numbering."""
+    """English references in a unit's text, resolved in the KJV's numbering.
+    `own` (a note unit's epistle) also reads 'ver. 20' (with `chapter`) and a
+    bare 'c. iii. 13' as the commentary's own epistle, unless an abbreviation
+    of another work stands just before it. A range keeps its end in `through`;
+    a range the KJV cannot end (past the chapter, or backwards) keeps its
+    start only and says so in `through_unread`."""
     out, seen = [], set()
+    xr = cross_ranges(text)
     for r in FS.parse("¶ " + text, "eng"):
         book, kind, ch, v, end, alt = r
         p = FS.printed(r)
@@ -964,27 +1035,52 @@ def scripture(text, ids, own=None, chapter=None):
                         "another numbering)", "rule": "text/kjv"})
             continue
         x = {"ref": p, "target": t, "resolved": True, "numbering": "english", "rule": "text/kjv"}
-        if end and f"kjv:{book}.{ch}.{end}" in ids:
-            x["through"] = f"kjv:{book}.{ch}.{end}"
+        if end:
+            if end > v and f"kjv:{book}.{ch}.{end}" in ids:
+                x["through"] = f"kjv:{book}.{ch}.{end}"
+            else:
+                x["through_unread"] = f"{ch}:{end}: " + ("backwards" if end <= v else "past the chapter")
+        elif (ch, v) in xr:
+            c2, v2 = xr[(ch, v)]
+            if c2 == ch:
+                x["through_unread"] = f"{ch}:{v2}: backwards"
+            elif f"kjv:{book}.{c2}.{v2}" in ids:
+                x["through"] = f"kjv:{book}.{c2}.{v2}"
+                x["ref"] = p = f"{p}-{c2}:{v2}"
+            else:
+                x["through_unread"] = f"{c2}:{v2}: no such verse"
         out.append(x)
     if own:
         hits = []
         if chapter:
             for m in SELF_VER.finditer(text):
-                vs = [int(m.group(1))] + [int(x) for x in re.findall(r'\d{1,2}', m.group(2))]
-                hits += [("self/ver", chapter, x) for x in vs]
+                # '8-12' a range, '8, 9' two verses
+                parts = re.findall(r'([,–—-])?\s*(\d{1,2})', m.group(1) + m.group(2))
+                runs = []
+                for sep, d in parts:
+                    if sep and sep != "," and runs:
+                        runs[-1][1] = int(d)
+                    else:
+                        runs.append([int(d), None])
+                hits += [("self/ver", chapter, a, b) for a, b in runs]
         for m in SELF_C.finditer(text):
             c = FS.roman(m.group(1))
-            if c:
-                hits.append(("self/c", c, int(m.group(2))))
-        for rule, c, v in hits:
+            if c and not self_c_refused(text, m.start()):
+                hits.append(("self/c", c, int(m.group(2)), None))
+        for rule, c, v, e in hits:
             t = f"kjv:{own}.{c}.{v}"
-            p = f"{own} {c}:{v}"
+            p = f"{own} {c}:{v}" + (f"-{e}" if e else "")
             if p in seen:
                 continue
             seen.add(p)
             if t in ids:
-                out.append({"ref": p, "target": t, "resolved": True, "numbering": "english", "rule": rule})
+                x = {"ref": p, "target": t, "resolved": True, "numbering": "english", "rule": rule}
+                if e:
+                    if e > v and f"kjv:{own}.{c}.{e}" in ids:
+                        x["through"] = f"kjv:{own}.{c}.{e}"
+                    else:
+                        x["through_unread"] = f"{c}:{e}: " + ("backwards" if e <= v else "past the chapter")
+                out.append(x)
             else:
                 out.append({"ref": p, "resolved": False, "why": "no such verse in the KJV", "rule": rule})
     return out
@@ -1223,7 +1319,7 @@ def ver_opener(text):
     if not n or (rest and e is None):
         return None
     fix = not m.group(1).isdigit() or bool(rest and not rest[-1].isdigit())
-    return None, n, (e if e and e > n else None), "read-fix" if fix else "read"
+    return Read((None, n, (e if e and e > n else None), "read-fix" if fix else "read"), bool(e and e <= n))
 
 
 def chap_heading(text, nch):
@@ -1251,6 +1347,7 @@ class VerDecoder:
         self.counts = counts
         self.nch = max(counts)
         self.c, self.v = 0, 0
+        self.runs_cut = 0
 
     def offer(self, n, e, hc, ahead, heading):
         c = self.c
@@ -1266,6 +1363,7 @@ class VerDecoder:
             return None
         if e is not None and (e > self.counts[c] or e - n > 15):
             e = None
+            self.runs_cut += 1
         self.c, self.v = c, n
         return c, n, e
 
@@ -1406,6 +1504,10 @@ def build_scan(slug, ids):
             m["openers_accepted" if took else "openers_rejected"] += 1
             if took and o[3] == "read-fix":
                 m["openers_read_with_fix"] += 1
+            if took and o.run_cut:
+                m["openers_run_cut"] += 1
+        elif indented and CROSS_OPEN.match(l["text"]):
+            m["openers_crossing_chapter"] += 1
         cur = current.get(book)
         if took:
             c, n, e = took
@@ -1426,6 +1528,11 @@ def build_scan(slug, ids):
             nu["leaves"].append(leaf)
             if x["pp"] and x["pp"][0] not in nu["pages"]:
                 nu["pages"].append(x["pp"][0])
+    if books:
+        # runs kept only at their first verse: backwards, over 15 verses, past
+        # the chapter; and run openers into the next chapter, not read at all
+        m["openers_run_cut"] += sum(d.runs_cut for d in decoders.values())
+        m["openers_crossing_chapter"] += 0
     for key, nu in notes.items():
         book = nu["book"]
         s = s0
@@ -1503,7 +1610,7 @@ def build_gutenberg(slug, ids):
     main, fns = body[:fn_at], body[fn_at:]
     footnotes = {m.group(1): clean(m.group(2))
                  for m in re.finditer(r'<div class="footnote" id="(f\d+)">(.*?)</div>', fns, re.S)}
-    m = collections.Counter()
+    m = collections.Counter(openers_run_cut=0, openers_crossing_chapter=0)
     pages = collections.OrderedDict()      # page -> unit
     notes = collections.OrderedDict()
     greek = collections.OrderedDict()      # (book, c, v) -> text
@@ -1561,9 +1668,12 @@ def build_gutenberg(slug, ids):
                             greek[cur_verse] = (greek.get(cur_verse, "") + " " + x).strip()
                     continue
                 mo = NOTE_OPEN.match(t) if (tag == "p" and i == 0) else None
+                if not mo and tag == "p" and i == 0 and CROSS_OPEN.match(t):
+                    m["openers_crossing_chapter"] += 1
                 if mo:
                     n = int(mo.group(2))
                     e = int(mo.group(3)) if mo.group(3) and int(mo.group(3)) > n else None
+                    m["openers_run_cut"] += bool(mo.group(3)) and e is None     # a run backwards: its start kept
                     c0 = cur_verse[1] if cur_verse and cur_verse[0] == book else 1
                     seen = {(x[1], x[2]) for x in seen_anchor if x[0] == book}
                     # the chapter of the latest Greek verse, unless the number is
@@ -1665,14 +1775,35 @@ def harvest(slug, units, ids):
             mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', k)
             ch = int(mm.group(1)) if mm else None
         text = u["text"] + " " + " ".join(u.get("notes", []))
-        found = scripture(text, ids, own=book if u["kind"] in ("note", "page") else None, chapter=ch)
+        # 'ver. 20' and a bare 'c. iii. 13' are the epistle's own only in its
+        # notes: in an introduction or dissertation 'c.' is as often another
+        # work's chapter (Eusebius, Irenaeus)
+        found = scripture(text, ids, own=book if u["kind"] == "note" else None, chapter=ch)
         u["links"] += found
         n += len(found)
         r += sum(1 for x in found if x["resolved"])
     return n, r
 
 
+RUNS_HONESTY = (
+    "; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or "
+    "over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an "
+    "opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references "
+    "a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the "
+    "KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' "
+    "and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after "
+    "another work's abbreviation ('Euseb. H.E. c. iv. 3')")
+
+
 def honesty(slug, ocr):
+    h = _honesty(slug, ocr)
+    if slug == "hort-ante-nicene":
+        return h
+    tail = "; unproofread OCR"
+    return h[:-len(tail)] + RUNS_HONESTY + tail if h.endswith(tail) else h + RUNS_HONESTY
+
+
+def _honesty(slug, ocr):
     if not ocr:
         return ("notes keyed by verse exactly as the Project Gutenberg transcription marks them: a note "
                 "paragraph opening with a verse number (or a run, '3-8.') starts that verse's unit, its chapter "
@@ -1789,7 +1920,10 @@ def build_book(slug, ids):
                       and len([y for y in u["links"] if y.get("type") == "comments-on"]) == 1}
             cov[b] = {"kjv_verses": len(allv), "commented": len(have), "with_own_note": len(single)}
         measure["kjv_coverage"] = cov
-    measure["scripture_links"] = {"read": n_links, "resolved": n_resolved}
+    measure["scripture_links"] = {"read": n_links, "resolved": n_resolved,
+                                  "ranges": sum(1 for u in units for x in u["links"] if "through" in x),
+                                  "ranges_start_only": sum(1 for u in units for x in u["links"]
+                                                           if "through_unread" in x)}
     measure["greek"] = greek_measure(u["text"] for u in units)
     if slug in HEBREW:
         measure["hebrew"] = hebrew_measure(u["text"] for u in units)

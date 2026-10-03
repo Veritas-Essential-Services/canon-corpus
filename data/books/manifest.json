@@ -28467,7 +28467,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "J. B. Lightfoot, Saint Paul's Epistle to the Galatians: a revised text with introduction, notes, and dissertations, 10th ed. (1890); this copy the reprint of 1910 (London: Macmillan, 1910), as its title page and imprint read; scan leaves 8-403 of saintpaulsepistl00lighrich"
   },
@@ -28488,8 +28488,10 @@
    "leaves_commentary": 98,
    "leaves_page": 296,
    "openers_accepted": 193,
+   "openers_crossing_chapter": 1,
    "openers_read_with_fix": 7,
    "openers_rejected": 1,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 44,
    "printed_page_read": 338,
    "kjv_coverage": {
@@ -28500,8 +28502,10 @@
     }
    },
    "scripture_links": {
-    "read": 1352,
-    "resolved": 1196
+    "read": 1351,
+    "resolved": 1195,
+    "ranges": 44,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 57403,
@@ -28511,7 +28515,7 @@
     "mixed_script_tokens": 180
    }
   },
-  "built_sha256": "d306766f5c987803920743811893c82583c936fbfa0b4283dc5e7f6658185302"
+  "built_sha256": "4da422cef4ca744784b5b7615b5fcbbde4cc5bec40fbf98378bd1a4bfcecdadd"
  },
  "lightfoot-philippians": {
   "title": "St Paul's Epistle to the Philippians",
@@ -28522,7 +28526,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "J. B. Lightfoot, Saint Paul's Epistle to the Philippians: a revised text with introduction, notes, and dissertations, 3rd ed. (London and Cambridge: Macmillan, 1873), as its title page reads; scan leaves 9-362 of stpaulsepistleto00lighuoft"
   },
@@ -28543,8 +28547,10 @@
    "leaves_commentary": 61,
    "leaves_page": 290,
    "openers_accepted": 117,
+   "openers_crossing_chapter": 0,
    "openers_read_with_fix": 2,
    "openers_rejected": 1,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 76,
    "printed_page_read": 265,
    "kjv_coverage": {
@@ -28556,7 +28562,9 @@
    },
    "scripture_links": {
     "read": 1047,
-    "resolved": 854
+    "resolved": 854,
+    "ranges": 11,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 53711,
@@ -28566,7 +28574,7 @@
     "mixed_script_tokens": 160
    }
   },
-  "built_sha256": "955a8fc4de4dbdad3068548b7fc95f2beff5624d9805af41f098a4a5d3e53b22"
+  "built_sha256": "841d7bf1af0821cbb123f9bc04cfccf685ca2a3f04b290fda2d28f9f2027c3a8"
  },
  "lightfoot-colossians": {
   "title": "St Paul's Epistles to the Colossians and to Philemon",
@@ -28577,7 +28585,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: text.book.chapter.verse; everything else: printed page (p.N)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse exactly as the Project Gutenberg transcription marks them: a note paragraph opening with a verse number (or a run, '3-8.') starts that verse's unit, its chapter the latest verse anchor in Lightfoot's Greek text with that number; following lemma notes belong to it; Lightfoot's Greek text per verse (text.<book>.<c>.<v>); introductions, dissertations and index by printed page (p.N) as the transcription marks page breaks, footnotes on the unit holding their reference mark, marginal summaries in 'sidenotes'; the transcription is proofread (Distributed Proofreaders), not checked here against the print",
+   "honesty": "notes keyed by verse exactly as the Project Gutenberg transcription marks them: a note paragraph opening with a verse number (or a run, '3-8.') starts that verse's unit, its chapter the latest verse anchor in Lightfoot's Greek text with that number; following lemma notes belong to it; Lightfoot's Greek text per verse (text.<book>.<c>.<v>); introductions, dissertations and index by printed page (p.N) as the transcription marks page breaks, footnotes on the unit holding their reference mark, marginal summaries in 'sidenotes'; the transcription is proofread (Distributed Proofreaders), not checked here against the print; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3')",
    "status": "draft",
    "note": "J. B. Lightfoot, Saint Paul's Epistles to the Colossians and to Philemon: a revised text with introductions, notes, and dissertations (London: Macmillan, 1875), the first edition (title page as transcribed); PG #50857"
   },
@@ -28598,6 +28606,8 @@
    "footnotes_placed": 759,
    "openers": 142,
    "openers_before_their_verse_anchor": 4,
+   "openers_crossing_chapter": 0,
+   "openers_run_cut": 0,
    "text_chars_captured": 0.9955,
    "kjv_coverage": {
     "Col": {
@@ -28612,8 +28622,10 @@
     }
    },
    "scripture_links": {
-    "read": 2094,
-    "resolved": 1853
+    "read": 2093,
+    "resolved": 1852,
+    "ranges": 52,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 88497,
@@ -28623,7 +28635,7 @@
     "mixed_script_tokens": 43
    }
   },
-  "built_sha256": "b9b7aa32572608b0c3879944d06e816ef6ff98bd2e0bb5e6ca29ad31211952a5"
+  "built_sha256": "5175f821263d160e74ac46243a0c767f475ed535603bff00bc25f460d994d6e6"
  },
  "westcott-hebrews": {
   "title": "The Epistle to the Hebrews",
@@ -28634,7 +28646,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "B. F. Westcott, The Epistle to the Hebrews: the Greek text with notes and essays, 2nd ed. (London and New York: Macmillan, 1892), as its title page reads (first ed. 1889); scan leaves 9-594 of epistletohebrew00westgoog"
   },
@@ -28656,8 +28668,10 @@
    "leaves_page": 245,
    "leaves_with_tail": 2,
    "openers_accepted": 344,
+   "openers_crossing_chapter": 0,
    "openers_read_with_fix": 7,
    "openers_rejected": 25,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 42,
    "printed_page_read": 459,
    "kjv_coverage": {
@@ -28668,8 +28682,10 @@
     }
    },
    "scripture_links": {
-    "read": 4395,
-    "resolved": 3883
+    "read": 4309,
+    "resolved": 3804,
+    "ranges": 25,
+    "ranges_start_only": 1
    },
    "greek": {
     "greek_letters": 170851,
@@ -28679,7 +28695,7 @@
     "mixed_script_tokens": 197
    }
   },
-  "built_sha256": "8567cd45c79bf37910cacb0afd1e262b6d383aa9c66ee14534217c332b8d180f"
+  "built_sha256": "6fbcbfaed442c609ccb6fd644bcbcb0fd6b3cb4e9dede46a62f6ec84bb066ccf"
  },
  "westcott-john": {
   "title": "The Epistles of St John",
@@ -28690,7 +28706,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "B. F. Westcott, The Epistles of St John: the Greek text with notes and essays, 3rd ed. (Cambridge and London: Macmillan, 1892), as its title page reads (first ed. 1883); scan leaves 9-441 of cu31924074296629"
   },
@@ -28711,8 +28727,10 @@
    "leaves_commentary": 157,
    "leaves_page": 264,
    "openers_accepted": 158,
+   "openers_crossing_chapter": 0,
    "openers_read_with_fix": 6,
    "openers_rejected": 47,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 57,
    "printed_page_read": 320,
    "kjv_coverage": {
@@ -28733,8 +28751,10 @@
     }
    },
    "scripture_links": {
-    "read": 2871,
-    "resolved": 2547
+    "read": 2861,
+    "resolved": 2537,
+    "ranges": 15,
+    "ranges_start_only": 2
    },
    "greek": {
     "greek_letters": 74652,
@@ -28744,7 +28764,7 @@
     "mixed_script_tokens": 116
    }
   },
-  "built_sha256": "bd887e517dfc6bbee0375ba7d8422110f2fe2527593ddbbfb3f22132ded738c3"
+  "built_sha256": "42eed268c262753e01c2e38854bb6dc43a77b3e636aa292816035bd1625716b7"
  },
  "hort-ante-nicene": {
   "title": "Six Lectures on the Ante-Nicene Fathers",
@@ -28777,7 +28797,9 @@
    "printed_page_read": 111,
    "scripture_links": {
     "read": 1,
-    "resolved": 1
+    "resolved": 1,
+    "ranges": 0,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 0,
@@ -28787,7 +28809,7 @@
     "mixed_script_tokens": 0
    }
   },
-  "built_sha256": "eecccb864c0075813a22dd2d79bde232a38ee7dcf4201b7afc81b03c01194326"
+  "built_sha256": "6f611d4335202b4e94a754ada338f08adb4ab688951cf477d144bf8c103ab623"
  },
  "westcott-gospel-john": {
   "title": "The Gospel according to St John",
@@ -28798,7 +28820,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: v<N>.leaf.<M>.text; everything else: volume and scan leaf (v<N>.leaf.<M>; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; the chapter is printed in the left page's running head only ('[Cu. VII'), the verses in the right's ('Ver. 4-7]'); Westcott's additional notes after a chapter, where they are laid out in columns, run into the note of the verse they open with; the pericope of the adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; openers_against_running_head counts notes whose page head reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; the chapter is printed in the left page's running head only ('[Cu. VII'), the verses in the right's ('Ver. 4-7]'); Westcott's additional notes after a chapter, where they are laid out in columns, run into the note of the verse they open with; the pericope of the adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; openers_against_running_head counts notes whose page head reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "B. F. Westcott, The Gospel according to St John: the Greek text with introduction and notes, 2 vols (London: John Murray, 1908), as the title pages read; published after his death; vol. 1: scan leaves 5-483 of gospelaccordingt01west; vol. 2: scan leaves 5-404 of gospelaccordingt02west; Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of gospelaccordingt01west (vol. 1, used here too), gospelaccordingt02west_0 (vol. 2) and gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-greek-1/-2 and westcott-john-av-1892; vol. 2 here is gospelaccordingt02west (Toronto) instead, because gospelaccordingt02west_0's text layer has no Greek codepoints (0.0% of letters, measured 2026-10-03 on its _djvu.txt) against 10.3% here"
   },
@@ -28822,9 +28844,11 @@
    "notes_reopened": 39,
    "openers_accepted": 706,
    "openers_against_running_head": 9,
+   "openers_crossing_chapter": 0,
    "openers_on_headed_pages": 344,
    "openers_read_with_fix": 25,
    "openers_rejected": 420,
+   "openers_run_cut": 1,
    "printed_page_from_neighbours": 73,
    "printed_page_read": 600,
    "kjv_coverage": {
@@ -28835,8 +28859,10 @@
     }
    },
    "scripture_links": {
-    "read": 3351,
-    "resolved": 2989
+    "read": 3317,
+    "resolved": 2955,
+    "ranges": 68,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 132143,
@@ -28846,7 +28872,7 @@
     "mixed_script_tokens": 64
    }
   },
-  "built_sha256": "38cb8e2c9a4ad28cf15b62725571a55ddcb4c1f080aba9521c0d8ebdef28eb0f"
+  "built_sha256": "7e7faa4a2583fafd14a387790a1077cb2a22178392ea7b0963f09e4beb6c5a3b"
  },
  "lightfoot-horae": {
   "title": "Horae Hebraicae et Talmudicae",
@@ -28857,7 +28883,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); notes before a book's first: v<N>.book.title; everything else: volume and scan leaf (v<N>.leaf.<M>; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse as Lightfoot heads them, 'Ver. 5:' at the start of a line (the number read as printed, a footnote mark after it ignored), in one column; the CHAPTER is not printed with the verse and is read from a 'CHAP. XI.' heading in the body or from the running heads ('[Ch. xi. 4.'), a head counting only where a head within three leaves agrees, chapters only moving forward (he comments on chosen verses and skips whole chapters), so a misread head can put a run of notes in the wrong chapter (openers_against_running_head counts the notes whose page head reads another chapter; notes_reopened, the verses taken up again further on, whose text joins the first unit of that verse); every following line belongs to the note, the page's footnotes (Gandell's references) included where they stand; vol. 1 (the chorographical century and inquiries) and the dedications, prefaces, addenda and indexes by scan leaf (v<N>.leaf.<M>, the folio in scan.printed_page where read); lines of bare accents dropped and counted; the Hebrew and Aramaic quotations are the OCR's Hebrew script, unpointed and often misread (measure.hebrew); unproofread OCR",
+   "honesty": "notes keyed by verse as Lightfoot heads them, 'Ver. 5:' at the start of a line (the number read as printed, a footnote mark after it ignored), in one column; the CHAPTER is not printed with the verse and is read from a 'CHAP. XI.' heading in the body or from the running heads ('[Ch. xi. 4.'), a head counting only where a head within three leaves agrees, chapters only moving forward (he comments on chosen verses and skips whole chapters), so a misread head can put a run of notes in the wrong chapter (openers_against_running_head counts the notes whose page head reads another chapter; notes_reopened, the verses taken up again further on, whose text joins the first unit of that verse); every following line belongs to the note, the page's footnotes (Gandell's references) included where they stand; vol. 1 (the chorographical century and inquiries) and the dedications, prefaces, addenda and indexes by scan leaf (v<N>.leaf.<M>, the folio in scan.printed_page where read); lines of bare accents dropped and counted; the Hebrew and Aramaic quotations are the OCR's Hebrew script, unpointed and often misread (measure.hebrew); a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "John Lightfoot, Horae Hebraicae et Talmudicae: Hebrew and Talmudical exercitations upon the Gospels, the Acts, some chapters of St Paul's Epistle to the Romans, and the First Epistle to the Corinthians, a new edition by Robert Gandell, 4 vols (Oxford: University Press, 1859); the title pages print no date (Gandell's preface is dated 1 April 1859) and vol. 4 ends with a Macmillan advertisement, so these copies may be a later issue of the 1859 sheets; vol. 1: scan leaves 5-394 of horaehebraicaeet0001ligh; vol. 2: scan leaves 5-486 of horaehebraicaeet0002ligh; vol. 3: scan leaves 5-462 of horaehebraicaeet0003ligh; vol. 4: scan leaves 5-354 of horaehebraicaeet0004ligh; the Internet Archive's own scans of the four volumes, chosen because their OCR kept the Hebrew (about 2% of letters, real Hebrew codepoints); the Toronto (horaehebraicaeet0{1,2,4}lighuoft, horaehebraicaeet00lighuoft) and Princeton (horhebraicet0{1-4}ligh) scans of the same edition have no Hebrew codepoints at all; measured 2026-10-03 on each item's _djvu.txt; the raw-OCR john-lightfoot shelf (branch claude/project-thread-c4l3cp) lists the Horae in Pitman's Whole Works (1822-25) as pending, another edition, not shelved there"
   },
@@ -28881,9 +28907,11 @@
    "notes_reopened": 29,
    "openers_accepted": 1078,
    "openers_against_running_head": 30,
+   "openers_crossing_chapter": 0,
    "openers_on_headed_pages": 717,
    "openers_read_with_fix": 22,
    "openers_rejected": 22,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 260,
    "printed_page_read": 971,
    "kjv_coverage": {
@@ -28924,8 +28952,10 @@
     }
    },
    "scripture_links": {
-    "read": 2491,
-    "resolved": 1984
+    "read": 2490,
+    "resolved": 1983,
+    "ranges": 15,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 79618,
@@ -28942,7 +28972,7 @@
     "hebrew_tokens_strongs_lemma_or_prefixed": 0.3956
    }
   },
-  "built_sha256": "f427d23d4905393076b633630358c96a0de4c1c92507d11547b3296a061af411"
+  "built_sha256": "1464d274cce4368bbcf898d4c3f5f36cbceb948a75a947525773dd8f332fa4c7"
  },
  "ellicott-galatians": {
   "title": "St Paul's Epistle to the Galatians",
@@ -28953,7 +28983,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, St Paul's Epistle to the Galatians: with a critical and grammatical commentary, and a revised translation, 4th ed., corrected (London: Longmans, Green, Reader, & Dyer, 1867), as its title page reads (first ed. 1854); scan leaves 7-205 of stpaulsepistleto00elli"
   },
@@ -28975,8 +29005,10 @@
    "leaves_page": 56,
    "notes_reopened": 2,
    "openers_accepted": 151,
+   "openers_crossing_chapter": 0,
    "openers_read_with_fix": 2,
    "openers_rejected": 3,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 44,
    "printed_page_read": 123,
    "kjv_coverage": {
@@ -28987,8 +29019,10 @@
     }
    },
    "scripture_links": {
-    "read": 1056,
-    "resolved": 930
+    "read": 1053,
+    "resolved": 927,
+    "ranges": 5,
+    "ranges_start_only": 1
    },
    "greek": {
     "greek_letters": 44972,
@@ -28998,7 +29032,7 @@
     "mixed_script_tokens": 71
    }
   },
-  "built_sha256": "1dda7859cdc7452dcbe12e372cc9a40033d350619873871a4a3c980ea7f12436"
+  "built_sha256": "a899a7790736bf387d80f68ee4d27c224491d046f65d9c56339a4a40e3f01445"
  },
  "ellicott-ephesians": {
   "title": "St Paul's Epistle to the Ephesians",
@@ -29009,7 +29043,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, St Paul's Epistle to the Ephesians: with a critical and grammatical commentary, and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1884), as its title page reads (first ed. 1855); scan leaves 6-213 of cu31924029294240"
   },
@@ -29031,9 +29065,11 @@
    "leaves_page": 47,
    "openers_accepted": 146,
    "openers_against_running_head": 0,
+   "openers_crossing_chapter": 0,
    "openers_on_headed_pages": 8,
    "openers_read_with_fix": 2,
    "openers_rejected": 5,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 38,
    "printed_page_read": 153,
    "kjv_coverage": {
@@ -29044,8 +29080,10 @@
     }
    },
    "scripture_links": {
-    "read": 1261,
-    "resolved": 1120
+    "read": 1259,
+    "resolved": 1118,
+    "ranges": 5,
+    "ranges_start_only": 2
    },
    "greek": {
     "greek_letters": 53978,
@@ -29055,7 +29093,7 @@
     "mixed_script_tokens": 79
    }
   },
-  "built_sha256": "984be84141a70fad88e2228dd030c789064070e2c727d752b891fcd171228832"
+  "built_sha256": "4440760042d092fa159cea48e2fda08e8b0dc9734674c1b96cda30d5c69f0184"
  },
  "ellicott-philippians": {
   "title": "St Paul's Epistles to the Philippians, the Colossians, and Philemon",
@@ -29066,7 +29104,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, A critical and grammatical commentary on St Paul's Epistles to the Philippians, Colossians, and to Philemon, with a revised translation (London: John W. Parker and Son, 1857), the first edition, as its title page reads (MDCCCLVII); scan leaves 7-290 of criticalgrammati00elli"
   },
@@ -29089,9 +29127,11 @@
    "notes_reopened": 3,
    "openers_accepted": 219,
    "openers_against_running_head": 2,
+   "openers_crossing_chapter": 0,
    "openers_on_headed_pages": 133,
    "openers_read_with_fix": 8,
    "openers_rejected": 8,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 29,
    "printed_page_read": 232,
    "kjv_coverage": {
@@ -29112,8 +29152,10 @@
     }
    },
    "scripture_links": {
-    "read": 1748,
-    "resolved": 1514
+    "read": 1747,
+    "resolved": 1513,
+    "ranges": 6,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 69124,
@@ -29123,7 +29165,7 @@
     "mixed_script_tokens": 61
    }
   },
-  "built_sha256": "15c27fccec438fc1d9a96e2d7b8efc9f0b4dfff6d2b4d5cf70e8d0a37e2b8ec6"
+  "built_sha256": "f85eacfec142a9df9dcc3b19b091057d6e58501fa8084b185f19a301d07d5acd"
  },
  "ellicott-thessalonians": {
   "title": "St Paul's Epistles to the Thessalonians",
@@ -29134,7 +29176,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, St Paul's Epistles to the Thessalonians: with a critical and grammatical commentary, and a revised translation, 4th ed. (London: Longman, Green, Longman, Roberts & Green, 1880), as its title page reads (first ed. 1858); scan leaves 2-184 of cu31924029294539"
   },
@@ -29158,9 +29200,11 @@
    "notes_reopened": 2,
    "openers_accepted": 127,
    "openers_against_running_head": 0,
+   "openers_crossing_chapter": 0,
    "openers_on_headed_pages": 7,
    "openers_read_with_fix": 1,
    "openers_rejected": 2,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 37,
    "printed_page_read": 128,
    "kjv_coverage": {
@@ -29176,8 +29220,10 @@
     }
    },
    "scripture_links": {
-    "read": 1213,
-    "resolved": 1090
+    "read": 1212,
+    "resolved": 1089,
+    "ranges": 3,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 47336,
@@ -29187,7 +29233,7 @@
     "mixed_script_tokens": 68
    }
   },
-  "built_sha256": "7bf34acac0286ea8fca3fed52c0218a4ebfb549072b8d0adb5f2dffe89970621"
+  "built_sha256": "6b3fe58133a42fb859b0cf60e8df68ea89b5980ae20664030d17b2ed3fa8717f"
  },
  "ellicott-pastorals": {
   "title": "The Pastoral Epistles of St Paul",
@@ -29198,7 +29244,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, The Pastoral Epistles of St Paul: with a critical and grammatical commentary, and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1883), as its title page reads (first ed. 1856); scan leaves 7-290 of pastoralepistles00elli"
   },
@@ -29222,9 +29268,11 @@
    "notes_reopened": 6,
    "openers_accepted": 245,
    "openers_against_running_head": 0,
+   "openers_crossing_chapter": 0,
    "openers_on_headed_pages": 5,
    "openers_read_with_fix": 9,
    "openers_rejected": 7,
+   "openers_run_cut": 0,
    "printed_page_from_neighbours": 81,
    "printed_page_read": 174,
    "kjv_coverage": {
@@ -29245,8 +29293,10 @@
     }
    },
    "scripture_links": {
-    "read": 1829,
-    "resolved": 1557
+    "read": 1826,
+    "resolved": 1554,
+    "ranges": 10,
+    "ranges_start_only": 0
    },
    "greek": {
     "greek_letters": 75690,
@@ -29256,6 +29306,6 @@
     "mixed_script_tokens": 137
    }
   },
-  "built_sha256": "95e4b363950e3cb4285599085ae30e41b2a9dbd9627800cbfce7a360c742e38c"
+  "built_sha256": "697b19fd1e0a684607f971109958484a5fb0e5ee94aed4c325d3c66aa2c72040"
  }
 }
