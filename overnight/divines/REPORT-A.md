@@ -442,3 +442,6 @@
 
 ## 2026-10-03 01:45 CDT — h-p-liddon done
 - `pipeline/h-p-liddon_shelf.json`: 5 IA volumes of raw OCR, median 98.6% (96.5-99.1%), about 5 MB; title pages read (1867-1906). The gate refused a Christmastide in St. Paul's copy whose text never names Liddon. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:49 CDT — a-a-hodge done
+- `pipeline/a-a-hodge_shelf.json`: 5 IA volumes of raw OCR, median 98.1% (97.6-98.5%), about 6 MB; title pages read (1867-1887). The Confession commentary IA catalogues as 1869 is the 1885 new edition (preface dated June 1885), so it is labelled that way. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

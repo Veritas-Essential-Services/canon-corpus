@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain A. A. Hodge (Archibald Alexander Hodge, 1823-1886, Princeton Seminary professor, son of Charles Hodge) for the Word Hoard: Outlines of Theology in the rewritten and enlarged edition (New York: Carter, 1879), A Commentary on the Confession of Faith (the 1885 new edition of the 1869 book), The Atonement (1867), Popular Lectures on Theological Themes (1887) and The Life of Charles Hodge (New York: Scribner, 1880), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hodge",
+  "archibald",
+  "alexander"
+ ],
+ "_surname": [
+  "a. a. hodge",
+  "archibald alexander hodge",
+  "archibald a. hodge",
+  "a. alexander hodge",
+  "hodge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aa-hodge-outlines-1879": [
+   "outlinesoftheol00hodg",
+   "Outlines of Theology, rewritten and enlarged (New York: R. Carter, 1879)"
+  ],
+  "aa-hodge-atonement-1867": [
+   "atonement00hodguoft",
+   "The Atonement (Philadelphia: Presbyterian Board of Publication, 1867)"
+  ],
+  "aa-hodge-popular-lectures-1887": [
+   "popularlectures00hodguoft",
+   "Popular Lectures on Theological Themes (Philadelphia: Presbyterian Board of Publication, 1887)"
+  ],
+  "aa-hodge-life-charles-hodge-1880": [
+   "lifeofcharleshodg00hodg",
+   "The Life of Charles Hodge (New York: C. Scribner's Sons, 1880)"
+  ],
+  "aa-hodge-confession-1885": [
+   "commentaryonconf00hodguoft",
+   "A Commentary on the Confession of Faith, new edition with two appendices (Philadelphia: Presbyterian Board of Publication; author's preface dated June 1885; copyright line 1869, the catalogued year)"
+  ]
+ },
+ "_alternates": {
+  "aa-hodge-outlines-1860": "Outlines of Theology, first edition (New York: R. Carter, 1860), IA outlinesoftheolo1860hodg: the shorter text the 1879 edition rewrote"
+ },
+ "_excluded": {
+  "aa-hodge-shorter-catechism": "The System of Theology contained in the Westminster Shorter Catechism (1888): catalogued under A. A. and J. A. Hodge jointly",
+  "aa-hodge-theism-evolution": "Theism and Evolution (1886) is J. S. Van Dyke's book; Hodge wrote only the introduction"
+ },
+ "_checks": {
+  "aa-hodge-outlines-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. a. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aa-hodge-atonement-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archibald alexander hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aa-hodge-popular-lectures-1887": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archibald alexander hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aa-hodge-life-charles-hodge-1880": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. a. hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aa-hodge-confession-1885": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archibald alexander hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

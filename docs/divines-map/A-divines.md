@@ -1590,3 +1590,17 @@ Slugs `liddon-*`.
 | Passiontide Sermons (Longmans, 1891) | have-raw | IA |
 | Clerical Life and Work (Longmans, 1895) | have-raw | IA |
 | Christmastide in St. Paul's | not shelved | the copy tried was refused |
+
+
+## A. A. Hodge (round 10, my pick, 2026-10-03)
+
+Slugs `aa-hodge-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Outlines of Theology, rewritten and enlarged (New York: Carter, 1879) | have-raw | IA (identifiers in the shelf) |
+| A Commentary on the Confession of Faith (1885 new edition of the 1869 book) | have-raw | IA |
+| The Atonement (Presbyterian Board, 1867) | have-raw | IA |
+| Popular Lectures on Theological Themes (Presbyterian Board, 1887) | have-raw | IA |
+| The Life of Charles Hodge (Scribner, 1880) | have-raw | IA |
+| Outlines of Theology, first edition (1860) | alternate | IA |
