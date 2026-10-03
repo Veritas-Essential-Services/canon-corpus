@@ -1039,6 +1039,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | Horace: Odes, Epodes and Carmen Saeculare translated into English verse (London, 1850) | G. J. Whyte Melville | `horace-whyte-melville-1850` | have-raw (IA `horaceodesepode00flacgoog`) |
 | The Odes of Horace in four books translated into English lyric verse (London: Upham and Beet, 1858) | Lord Ravensworth | `horace-ravensworth-odes-1858` | have-raw (IA `odeshoraceinfou00ravegoog`) |
 | The Odes of Horace translated into English verse with the original measures preserved, second edition: the first book (Dublin: Hodges, Smith; London: Longman, 1860) | Richard O'Brien | `horace-obrien-odes-i-1860` | have-raw (IA `odeshoracetrint00flacgoog`) |
+| The Odes of Horace in English, in the original metres (1897) | Philip E. Phelps | `horace-phelps-odes-1897` | have-raw (IA `odesofhoraceinen00horarich`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
