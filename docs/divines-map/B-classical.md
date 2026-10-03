@@ -755,6 +755,7 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | Fragments | George Long | `epictetus-perseus-long-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
+| Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI) | George Stanhope | `epictetus-stanhope-simplicius-1741` | have-raw (IA `bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741`) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
 
