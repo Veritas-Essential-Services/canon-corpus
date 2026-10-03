@@ -652,7 +652,9 @@
     {
       "id": "busk",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: busk; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:49-05:00",
+      "notes": "1/1 fetched (Gutenberg 45859), 1,411 units, 3 ~2 ids."
     },
     {
       "id": "webster-basque",
