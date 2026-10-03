@@ -1,0 +1,66 @@
+{
+ "_about": "George Smeaton (1814-1889), professor of exegetical theology at New College, Edinburgh (Free Church of Scotland): The Doctrine of the Atonement as taught by Christ Himself (Edinburgh: T. & T. Clark, 1868), The Doctrine of the Atonement as taught by the Apostles (1870), and The Doctrine of the Holy Spirit (Cunningham Lectures, 1882). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "smeaton"
+ ],
+ "_surname": [
+  "smeaton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smeaton-atonement-christ-1868": [
+   "docofatone00smeauoft",
+   "The Doctrine of the Atonement as taught by Christ Himself (Edinburgh, 1868)"
+  ],
+  "smeaton-atonement-apostles-1870": [
+   "doctrineofatonem00smea",
+   "The Doctrine of the Atonement as taught by the Apostles, with historical appendix (Edinburgh, 1870)"
+  ],
+  "smeaton-holy-spirit-1882": [
+   "thedoctrineofthe00smeauoft",
+   "The Doctrine of the Holy Spirit, the ninth series of the Cunningham Lectures (Edinburgh, 1882)"
+  ]
+ },
+ "_alternates": {
+  "doctrineofatonem00smeauoft, doctrineofatonem00smea_2, doctrineatoneme01smeagoog, doctrineofatonem00smeaiala": "Other copies of the 1868/1871 Christ Himself.",
+  "doctrineofatonem00smea_1, doctrineatoneme00smeagoog, doctrineofatonem0000smea": "Other copies of the Apostles.",
+  "doctrineofholysp00smea (1889)": "Second edition of the Holy Spirit."
+ },
+ "_excluded": {},
+ "_checks": {
+  "smeaton-atonement-christ-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "smeaton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smeaton-atonement-apostles-1870": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "smeaton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smeaton-holy-spirit-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "smeaton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
