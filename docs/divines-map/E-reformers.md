@@ -2,6 +2,8 @@
 
 Built 2026-10-03 on its own branch (not a relay lane), with the relay's `pipeline/fetch_shelf.py` unchanged. Every shelf passed `fetch_shelf.py <shelf> --verify --record` (identity, surname, rights line; results in each shelf's `_checks`). Internet Archive volumes are raw OCR (the Edwards precedent); each title page was read before listing. Nothing minted into `data/uids/`; every slug below awaits Adam's minting pass.
 
+The `ia_date` in each item's `_checks` is the Internet Archive catalogue's date, which for a multi-volume set is often the date of the set's first volume or its whole range (Calderwood vols. 4-7 say 1842, Rollock vol. 1 says 1844, Knox vols. 4 and 6 say 1846). The year in each item's title was read off its own title page and is the one to trust.
+
 ## The Parker Society reformers
 
 | Work | Status | Where |
