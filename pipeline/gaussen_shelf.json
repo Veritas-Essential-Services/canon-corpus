@@ -1,0 +1,53 @@
+{
+ "_about": "Louis Gaussen (1790-1863), professor at the Oratoire, Geneva, of the Réveil: Theopneustia, the Bible, its divine origin and inspiration (Boston: Gould and Lincoln, 1867) and The Canon of the Holy Scriptures from the double point of view of science and of faith, abridged translation (London: Nisbet, 1862). Translators not claimed (not named on the title pages read). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "gaussen"
+ ],
+ "_surname": [
+  "gaussen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gaussen-theopneustia-1867": [
+   "theopneustiabibl00gaus",
+   "Theopneustia: the Bible, its divine origin and inspiration (Boston: Gould and Lincoln, 1867)"
+  ],
+  "gaussen-canon-1862": [
+   "canonofholyscrip00gaus",
+   "The Canon of the Holy Scriptures (London: Nisbet, 1862)"
+  ]
+ },
+ "_alternates": {
+  "theopneustiaple00gausgoog (1850), MN41625ucmf_3 (1894), theopneustyorple0000gaus (1842)": "Other editions of Theopneustia.",
+  "canonofholyscrip00gaus_0, canonofholyscr00gaus, canonholyscript00gausgoog, MN41596ucmf_8, canonofholyscrip0000gaus": "Other copies of the Canon.",
+  "prophetdanielex00/01gausgoog (1873-74), prophetdanielcon00gaus": "The Prophet Daniel Explained, tr. Blackstone (Google), and a Sunday-school abridgement."
+ },
+ "_excluded": {
+  "GenevaAndRomeSamuelRobertLouisGaussen": "Community upload with no source edition named."
+ },
+ "_checks": {
+  "gaussen-theopneustia-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gaussen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gaussen-canon-1862": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gaussen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

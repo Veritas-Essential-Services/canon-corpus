@@ -243,6 +243,12 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Félice, History of the Protestants of France, tr. Barnes (1853) | have-raw | `felice_shelf.json`, Google scan; translator not checkable in the OCR |
 | Saurin, Sermons, tr. Robinson, Hunter and Sutcliffe (8 vols, London 1812-13) | have-raw | `saurin_shelf.json`; vol. II is the 1813 Schenectady reprint until the London copy's text is served |
 | Daillé, A Treatise on the Right Use of the Fathers, tr. Smith (London: Bohn, 1843) | have-raw | `jean-daille_shelf.json`; his Philippians and Colossians are on `william-jenkyn_shelf.json` |
+| Claude, A Defence of the Reformation, tr. T. B. (2 vols, London 1815) | have-raw | `jean-claude_shelf.json`, Google scans |
+| Drelincourt, The Christian's Defence against the Fears of Death (New York, 1808) | have-raw | `drelincourt_shelf.json` |
+| Gaussen, Theopneustia (1867); The Canon of the Holy Scriptures (1862) | have-raw | `gaussen_shelf.json` |
+| Malan, The Baptized Family, tr. Bryce (1860); his son's Life, Labours and Writings (1869) | have-raw | `cesar-malan_shelf.json` |
+| Adolphe Monod, Sermons, tr. Hickey (1849); Lucilla (1851) | have-raw | `adolphe-monod_shelf.json` |
+| Vinet, Vital Christianity (1845), Gospel Studies (1849), Homiletics and Pastoral Theology (1853), Outlines of Theology (1865) | have-raw | `vinet_shelf.json` |
 
 ## Confessions and creeds
 

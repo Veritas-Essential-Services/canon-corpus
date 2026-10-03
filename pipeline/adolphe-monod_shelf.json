@@ -1,0 +1,58 @@
+{
+ "_about": "Adolphe Monod (1802-1856), Réveil preacher at Lyon, Montauban and Paris: Sermons, translated by William Hickey (London: Nisbet, 1849), and Lucilla, or the Reading of the Bible (New York: Carter, 1851; translator not named). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "monod"
+ ],
+ "_surname": [
+  "monod"
+ ],
+ "_translators": {
+  "monod-sermons-1849": "Hickey"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "monod-sermons-1849": [
+   "sermonsmonad00mono",
+   "Sermons, tr. Hickey (London: Nisbet, 1849)"
+  ],
+  "monod-lucilla-1851": [
+   "lucillaorreading00mono",
+   "Lucilla, or the Reading of the Bible (New York: Carter, 1851)"
+  ]
+ },
+ "_alternates": {
+  "MN41659ucmf_1 (1842)": "Microfilm of an earlier Lucilla.",
+  "selectdiscourses00krum (1860), selectdiscourse00/01/02mlgoog (1858)": "Select Discourses by Monod, Krummacher, Tholuck and Müller: a shared volume, not shelved under one author.",
+  "childhoodofjesus00mono (1889), adolphmonod01mono (1885)": "Not yet title-checked."
+ },
+ "_excluded": {
+  "explicationdelpi00mono, mariemagdeleine00monogoog, lafemmedeuxdisc00monogoog, lesadieuxdadolp00monogoog, jsusenfantmodle00monogoog": "French originals; a French shelf is its own decision."
+ },
+ "_checks": {
+  "monod-sermons-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "monod",
+   "translator_claimed": "Hickey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "monod-lucilla-1851": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "monod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
