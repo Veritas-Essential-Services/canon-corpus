@@ -1234,8 +1234,9 @@ Shelf: `pipeline/arrian_shelf.json`. Chinnock's Anabasis (1884) and Dansey's On 
 | The Anabasis of Alexander | E. J. Chinnock (1884) | `arrian-chinnock-anabasis` | have (PG 46976) |
 | Arrian on Coursing (Cynegeticus) | William Dansey (1831) | `arrian-dansey-coursing` | have (PG 78013) |
 | The Commerce and Navigation of the Erythraean Sea, with Arrian's Account of the Voyage of Nearkhos (Indica, chs. 18-43; 1879) | J. W. McCrindle | `arrian-mccrindle-nearkhos` | have (PG 55054) |
+| Ancient India as described by Megasthenes and Arrian: the fragments of Megasthenes and the first part of Arrian's Indika (chs. 1-17; 1877) | J. W. McCrindle | `arrian-mccrindle-ancient-india` | have-raw (IA `b29352290`) |
 
-Pending (wishlist): a complete Indica (Chinnock's Bohn 1893 or McCrindle 1877; the Nearchus voyage, chs. 18-43, is held above in McCrindle); Rooke's 1729 Arrian.
+Pending (wishlist): Chinnock's Indica (Bohn, 1893) as a second witness; Rooke's 1729 Arrian. The whole Indica is held in McCrindle's two books above (chs. 1-17 in Ancient India, 18-43 in the Voyage of Nearkhos).
 
 ## Plutarch
 
