@@ -1,0 +1,37 @@
+{
+ "_about": "Julius Solinus (3rd c.), the Polyhistor (Collectanea rerum memorabilium), in English. Lane B (classical translations).",
+ "_name_words": [
+  "solinus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "solinus-golding-1587": [
+   "bim_early-english-books-1475-1640_the-worthie-worke-of-jul_solinus-caius-julius_1587",
+   "The Worthie Worke of Julius Solinus Polyhistor (London, 1587)",
+   "tr. Arthur Golding"
+  ]
+ },
+ "_surname": [
+  "solinus"
+ ],
+ "_translator_unchecked": {},
+ "_checks": {
+  "solinus-golding-1587": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "solinus",
+   "translator_claimed": "Golding",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1587",
+   "ia_date": "1587",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_translators": {
+  "solinus-golding-1587": "Golding"
+ }
+}
