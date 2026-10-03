@@ -1,0 +1,49 @@
+{
+ "_about": "Evelyn Sharp's fairy stories: All the Way to Fairyland (copyright 1897) and The Other Side of the Sun (copyright 1899). Her school stories and suffrage writing are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Evelyn Sharp",
+ "_name_words": [
+  "sharp"
+ ],
+ "_surname": [
+  "evelyn sharp"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sharp-all-the-way-to-fairyland": [
+   30400,
+   "All the Way to Fairyland: Fairy Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "sharp-other-side-of-the-sun": [
+   40573,
+   "The Other Side of the Sun: Fairy Stories",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sharp-all-the-way-to-fairyland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "evelyn sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sharp-other-side-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "evelyn sharp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
