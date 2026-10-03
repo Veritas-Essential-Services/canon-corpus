@@ -1,0 +1,179 @@
+{
+ "_about": "Lafcadio Hearn's ghost stories and legends of Japan and China: Some Chinese Ghosts (copyright 1887), Kotto (1903), Kwaidan (introduction dated March 1904), The Romance of the Milky Way (copyright 1905), Shadowings (copyright 1900; a 1919 printing), In Ghostly Japan (undated in the text). His essays and travel books are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lafcadio Hearn",
+ "_name_words": [
+  "hearn"
+ ],
+ "_surname": [
+  "lafcadio hearn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hearn-some-chinese-ghosts": [
+   16261,
+   "Some Chinese Ghosts",
+   {
+    "levels": [
+     {
+      "re": "(?:THE SOUL OF THE GREAT BELL|THE STORY OF MING-Y|THE LEGEND OF TCHI-NIU|THE RETURN OF YEN-TCHIN-KING|THE TRADITION OF THE TEA-PLANT|THE TALE OF THE PORCELAIN-GOD|NOTES|GLOSSARY)\\.?$"
+     }
+    ],
+    "start": "_She hath spoken",
+    "front": true
+   }
+  ],
+  "hearn-kotto": [
+   55473,
+   "Kotto: Being Japanese Curios, with Sundry Cobwebs",
+   {
+    "levels": [
+     {
+      "re": "(?:Old Stories|The Legend of Yurei-Daki|In a Cup of Tea|Common Sense|Ikiryō|Shiryō|The Story of O-Kamé|Story of a Fly|Story of a Pheasant|The Story of Chūgorō|A Woman's Diary|Heiké-gani|Fireflies|A Drop of Dew|Gaki|A Matter of Custom|Revery|Pathological|In the Dead of the Night|Kusa-Hibari|The Eater of Dreams)(?:\\[\\d+\\])?$",
+      "strip": "\\[\\d+\\]"
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "Old Stories$",
+    "front": true
+   }
+  ],
+  "hearn-kwaidan": [
+   1210,
+   "Kwaidan: Stories and Studies of Strange Things",
+   {
+    "levels": [
+     {
+      "re": "Notes$"
+     },
+     {
+      "re": "(?!(?:Notes|BUTTERFLIES|MOSQUITOES|ANTS|BLOWING HER BREATH UPON HIM|BUTTERFLY DANCE|L\\. H\\.?)$)(?![IVX]+$)[A-Z][A-ZŌÏÉŪ’' .,-]+$",
+      "max": 50
+     },
+     {
+      "re": "(?:BUTTERFLIES|MOSQUITOES|ANTS)$"
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "Illustrations$",
+    "front": true
+   }
+  ],
+  "hearn-romance-of-the-milky-way": [
+   15320,
+   "The Romance of the Milky Way, and Other Studies and Stories",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|THE ROMANCE,? OF THE MILKY WAY|GOBLIN POETRY|\"ULTIMATE QUESTIONS\"|THE MIRROR MAIDEN|THE STORY OF IT\\[=O\\] NORISUK\\['E\\]|STRANGER THAN FICTION|A LETTER FROM JAPAN)$",
+      "label": {
+       "THE ROMANCE, OF": "THE ROMANCE OF THE MILKY WAY"
+      }
+     },
+     {
+      "re": "[IVX]+\\. [A-Z\\[].*$",
+      "strip": "\\[\\d+\\]$"
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ],
+  "hearn-shadowings": [
+   34215,
+   "Shadowings",
+   {
+    "levels": [
+     {
+      "re": "(?:STORIES FROM STRANGE BOOKS|JAPANESE STUDIES|FANTASIES)$"
+     },
+     {
+      "re": "(?:Semi \\(CICADAE\\)|The Reconciliation|A Legend of Fugen-Bosatsu|The Screen-Maiden|The Corpse-Rider|The Sympathy of Benten|The Gratitude of the Samebito|Semi|Japanese Female Names|Old Japanese Songs|Noctilucae|A Mystery of Crowds|Gothic Horror|Levitation|Nightmare-Touch|Readings from a Dream-book|In a Pair of Eyes)(?:\\[\\d+\\])?$",
+      "strip": "\\[\\d+\\]"
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "STORIES FROM STRANGE BOOKS$",
+    "front": true
+   }
+  ],
+  "hearn-in-ghostly-japan": [
+   8128,
+   "In Ghostly Japan",
+   {
+    "levels": [
+     {
+      "re": "(?:Fragment|Furisodé|Incense|A Story of Divination|Silkworms|A Passional Karma|Footprints of the Buddha|Ululation|Bits of Poetry|Japanese Buddhist Proverbs|Suggestion|Ingwa-banashi|Story of a Tengu|At Yaidzu)(?:\\[\\d+\\])?$",
+      "strip": "\\[\\d+\\]"
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hearn-some-chinese-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hearn-kotto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hearn-kwaidan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hearn-romance-of-the-milky-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hearn-shadowings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hearn-in-ghostly-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

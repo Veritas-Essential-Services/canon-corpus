@@ -2344,6 +2344,19 @@ Shelf: `pipeline/spence_shelf.json` (2026-10-02; added at the coordinator's rela
 | Legends and Romances of Spain | have | PG 38530, `spence-legends-of-spain` (1235 units) |
 | Legends and Romances of Brittany | have | PG 30871, `spence-legends-of-brittany` (2826 units) |
 
+## Lafcadio Hearn
+
+Shelf: `pipeline/hearn_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ghost stories and legends of Japan and China; cut by story, with numbered sections where he printed them. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Some Chinese Ghosts | have | PG 16261, `hearn-some-chinese-ghosts` (315 units) |
+| Kotto: Being Japanese Curios, with Sundry Cobwebs | have | PG 55473, `hearn-kotto` (772 units) |
+| Kwaidan: Stories and Studies of Strange Things | have | PG 1210, `hearn-kwaidan` (573 units) |
+| The Romance of the Milky Way, and Other Studies and Stories | have | PG 15320, `hearn-romance-of-the-milky-way` (581 units) |
+| Shadowings | have | PG 34215, `hearn-shadowings` (1090 units) |
+| In Ghostly Japan | have | PG 8128, `hearn-in-ghostly-japan` (627 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
