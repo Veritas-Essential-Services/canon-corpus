@@ -1628,6 +1628,7 @@ Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five comment
 | The Gallic War (Loeb, 1917) | H. J. Edwards | `caesar-edwards-gallic-war` | have-raw (IA `gallicwar00caes`) |
 | The Civil Wars (Loeb, 1914) | A. G. Peskett | `caesar-peskett-civil-wars` | have-raw (IA `civilwarswitheng00caesuoft`) |
 | The Eyght Bookes of Caius Julius Caesar, conteyning his Martiall Exploytes in the Realme of Gallia (London, Willyam Seres, 1565) | Arthur Golding | `caesar-golding-1565` | have-raw (IA `bim_early-english-books-1475-1640_the-eyght-bookes-of-caiu_caesar-caino-julius_1565`) |
+| The Commentaries of Caesar, translated into English, with a discourse concerning the Roman art of war (1753; Philadelphia stereotype, 1837) | William Duncan | `caesar-duncan-1837` | have-raw (IA `commentariesofc00caes`) |
 
 Pending (wishlist): none known (Golding's Caesar, 1565, is held above).
 
@@ -1655,6 +1656,8 @@ Shelf: `pipeline/sallust_shelf.json`. Watson (Bohn). Not minted.
 |---|---|---|---|
 | Conspiracy of Catiline and the Jugurthine War | J. S. Watson (Bohn) | `sallust-watson` | have (PG 7990) |
 | Sallust (Loeb, 1921) | J. C. Rolfe | `sallust-rolfe` | have-raw (IA `sallustsa00sall`) |
+| The Works of Sallust, translated into English, with political discourses, and Cicero's four orations against Catiline (London: R. Ware, 1744) | Thomas Gordon | `sallust-gordon-1744` | have-raw (IA `worksofsallusttr00sall`) |
+| Sallust, translated by W. Rose, with improvements and notes (Valpy's Family Classical Library, 1830) | William Rose (revised) | `sallust-rose-1830` | have-raw (IA `sallusttrbywros00crisgoog`) |
 
 
 ## Pliny the Elder and the Younger
@@ -1742,6 +1745,7 @@ Shelf: `pipeline/tibullus_shelf.json`. Theodore C. Williams (1905), clean Gutenb
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Elegies of Tibullus | Theodore Chickering Williams (verse) | `tibullus-williams` | have (PG 9610) |
+| A Poetical Translation of the Elegies of Tibullus, and of the poems of Sulpicia (London, 1759; Latin text facing), 2 vols. in one scan | James Grainger | `tibullus-grainger-1759` | have-raw (IA `apoeticaltransl00graigoog`) |
 
 Pending (wishlist): none known. Postgate's Loeb Tibullus (1913) is held in the Catullus shelf's Loeb volume (`catullus-tibullus-pervigilium-loeb`).
 
