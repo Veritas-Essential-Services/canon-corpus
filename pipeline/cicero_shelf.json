@@ -256,6 +256,11 @@
    "deamicitiaonfrie00cice",
    "De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906)",
    "tr. Benjamin E. Smith"
+  ],
+  "cicero-black-tusculan-i-1889": [
+   "deathnobaneanew00blacgoog",
+   "Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889)",
+   "tr. Robert Black"
   ]
  },
  "_excluded": {
@@ -309,7 +314,8 @@
   "cicero-melmoth-letters-1808-v4": "William Melmoth",
   "cicero-melmoth-letters-1808-v5": "William Melmoth",
   "cicero-melmoth-letters-1808-v1": "Melmoth",
-  "cicero-smith-amicitia-1897": "benjamin e. smith"
+  "cicero-smith-amicitia-1897": "benjamin e. smith",
+  "cicero-black-tusculan-i-1889": "robert black"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -932,6 +938,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1906",
    "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-black-tusculan-i-1889": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "robert black",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
