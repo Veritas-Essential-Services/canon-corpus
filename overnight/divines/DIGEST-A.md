@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 05:55 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 05:58 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -238,6 +238,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | F. B. Meyer | f-b-meyer_shelf.json | 3 CCEL (The Secret of Guidance; Our Daily Homily vol. 2, 1 Samuel to Job; The Way into the Holiest), print sources not named | Our Daily Homily other volumes | none | none |
 | John McLeod Campbell (veto point: deposed 1831 over universal atonement) | john-mcleod-campbell_shelf.json | 1 CCEL (The Nature of the Atonement, keyed from Macmillan 1905) | none | none | none |
 | D. L. Moody | d-l-moody_shelf.json | 1 CCEL (Anecdotes, Rhodes & McClure 1899) + 10 Gutenberg (sermons and addresses; none marked COPYRIGHTED) | none | none | none |
+| George Müller | george-muller_shelf.json | 5 Gutenberg (Narrative parts 1-4; Answers to Prayer, compiled by A. E. C. Brooks) | none | none | Life of Trust (Wayland abridgement) left out as a second copy |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

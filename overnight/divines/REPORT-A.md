@@ -571,3 +571,6 @@
 
 ## 2026-10-03 05:55 CDT — d-l-moody done
 - `pipeline/d-l-moody_shelf.json`: 1 CCEL + 10 Gutenberg texts; no Gutenberg header carries the COPYRIGHTED marker. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:58 CDT — george-muller done
+- `pipeline/george-muller_shelf.json`: 5 Gutenberg texts, none marked COPYRIGHTED. Editors read from the texts (Brooks; Wayland for the alternate). `--verify --record`: 0 mismatched. 0 uids minted.

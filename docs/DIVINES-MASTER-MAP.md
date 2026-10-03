@@ -1975,6 +1975,15 @@ Slugs `moody-*`. Many of these books were taken down by stenographers and edited
 |---|---|---|
 | Moody's Anecdotes and Illustrations | have-clean | CCEL (Rhodes & McClure, 1899) |
 | Prevailing Prayer; The Overcoming Life; The Way to God; Sovereign Grace; Secret Power; Moody's Stories; Pleasure & Profit in Bible Study; To the Work!; Sowing and Reaping; Wondrous Love | have-clean | Gutenberg |
+
+## George Müller (round 12, my pick, 2026-10-03)
+
+Slugs `muller-*`. Name forms are full forms only (no bare "müller": F. Max Müller has a shelf).
+
+| Work | Status | Where |
+|---|---|---|
+| A Narrative of Some of the Lord's Dealings with George Müller, parts 1-4; Answers to Prayer (comp. A. E. C. Brooks) | have-clean | Gutenberg |
+| The Life of Trust (ed. H. Lincoln Wayland, 1861) | alternate | Gutenberg 27288, an abridgement of the Narrative |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
