@@ -1,0 +1,129 @@
+{
+ "_about": "Public-domain Richard Chenevix Trench (1807-1886, Archbishop of Dublin, philologist) for the Word Hoard: On the Study of Words, English Past and Present, A Select Glossary of English Words and Proverbs and Their Lessons clean from Project Gutenberg; and Synonyms of the New Testament (London: Kegan Paul, 1901), Notes on the Parables (New York: Appleton, catalogued 1855) and Notes on the Miracles (Appleton, 1883), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "t/trench",
+ "_name_words": [
+  "trench",
+  "richard",
+  "chenevix"
+ ],
+ "_surname": [
+  "richard chenevix trench",
+  "r. c. trench",
+  "chenevix trench",
+  "trench"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "trench-study-of-words": [
+   "6480",
+   "On the Study of Words"
+  ],
+  "trench-english-past-present": [
+   "20900",
+   "English Past and Present"
+  ],
+  "trench-select-glossary": [
+   "70210",
+   "A Select Glossary of English Words Used Formerly in Senses Different from Their Present"
+  ],
+  "trench-proverbs": [
+   "56504",
+   "Proverbs and Their Lessons"
+  ]
+ },
+ "internet_archive": {
+  "trench-synonyms-nt-1901": [
+   "synonymsofthenew00trenuoft",
+   "Synonyms of the New Testament, with some etymological notes (London: Kegan Paul, Trench, Trübner, 1901)"
+  ],
+  "trench-parables-1855": [
+   "7ednotesonparabl00trenuoft",
+   "Notes on the Parables of Our Lord (New York: Appleton; catalogued 1855, title page undated)"
+  ],
+  "trench-miracles-1883": [
+   "notesonmiracleso00trenuoft",
+   "Notes on the Miracles of Our Lord (New York: Appleton, 1883)"
+  ]
+ },
+ "_alternates": {
+  "trench-synonyms": "many Macmillan and Kegan Paul printings, 1865-1906",
+  "trench-parables": "later London printings",
+  "trench-miracles": "London: Kegan Paul, 1880 and 1889"
+ },
+ "_excluded": {
+  "trench-poems": "his verse (PG 55507, 56521): poems, for the verse side if wanted",
+  "trench-household-book": "PG 55496: an anthology of other men's poems"
+ },
+ "_checks": {
+  "trench-study-of-words": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "trench-english-past-present": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "trench-select-glossary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "trench-proverbs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "trench-synonyms-nt-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "trench-parables-1855": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "trench-miracles-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard chenevix trench",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

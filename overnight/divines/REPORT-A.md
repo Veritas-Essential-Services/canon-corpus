@@ -417,3 +417,6 @@
 
 ## 2026-10-03 01:18 CDT — b-f-westcott done
 - `pipeline/b-f-westcott_shelf.json`: 6 IA volumes of raw OCR, median 91.0% (88.1-97.4%; Greek text and notes), about 8 MB; title pages read (1883-1908). The gate refused a Robarts Epistles of John scan whose text layer names neither the book nor Westcott; a Claremont copy replaced it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:21 CDT — r-c-trench done
+- `pipeline/r-c-trench_shelf.json`: 4 Gutenberg texts (rights lines checked) and 3 IA volumes of raw OCR, median 95.1% (95.1-96.1%), about 5.5 MB. All 7 matched on "richard chenevix trench" ("trench" alone is a common word). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

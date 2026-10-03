@@ -1492,3 +1492,18 @@ Slugs `westcott-*`.
 | The Epistles of St. John: the Greek text (London: Macmillan, 1883) | have-raw | IA |
 | The Epistle to the Hebrews: the Greek text (London: Macmillan, 1889) | have-raw | IA |
 | A General Survey of the History of the Canon of the New Testament (London: Macmillan, 1896) | have-raw | IA |
+
+
+## R. C. Trench (round 10, my pick, 2026-10-03)
+
+Slugs `trench-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Study of Words | have-clean | Gutenberg 6480 |
+| English Past and Present | have-clean | Gutenberg 20900 |
+| A Select Glossary of English Words Used Formerly in Senses Different from Their Present | have-clean | Gutenberg 70210 |
+| Proverbs and Their Lessons | have-clean | Gutenberg 56504 |
+| Synonyms of the New Testament (London: Kegan Paul, 1901) | have-raw | IA (identifier in the shelf) |
+| Notes on the Parables of Our Lord (New York: Appleton; catalogued 1855) | have-raw | IA |
+| Notes on the Miracles of Our Lord (New York: Appleton, 1883) | have-raw | IA |
