@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:01 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:03 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -166,6 +166,7 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 | Edward Payson | edward-payson_shelf.json | none | 3 (Complete Works, Philadelphia 1851) | none | none |
 | Cotton Mather | cotton-mather_shelf.json | none | 3 (Magnalia Christi Americana, Hartford: Andrus, 2 vols, copyright 1852, copies printed 1868 and 1858; Essays to Do Good, Boston 1808) | none | **Veto point:** The Wonders of the Invisible World (PG 28513), his defence of the Salem witch trials, bundled with Increase Mather's Cases of Conscience; left off for your call |
 | John Pearson | john-pearson_shelf.json | none | 1 (An Exposition of the Creed, with Walford's analysis, London: Bell; catalogued 1902) | none | Burton's 1857 Oxford edition and earlier printings |
+| William Paley | william-paley_shelf.json | 2 CCEL (Evidences of Christianity; Natural Theology with notes) | 1 (Works, Philadelphia: Crissy and Markley, one vol., catalogued 1853: adds Horae Paulinae, Moral and Political Philosophy, sermons) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

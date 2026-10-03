@@ -396,3 +396,6 @@
 
 ## 2026-10-03 01:01 CDT — john-pearson done
 - `pipeline/john-pearson_shelf.json`: An Exposition of the Creed (Bell, Walford's analysis), raw IA OCR, 90.2%, 2.4 MB. The score reflects the Greek and Latin of Pearson's notes more than the scan. Title page read (Bell, Walford; no year printed, catalogue 1902). `--verify --record`: 0 mismatched, 0 rights flags; matched on "john pearson". 0 uids minted.
+
+## 2026-10-03 01:03 CDT — william-paley done
+- `pipeline/william-paley_shelf.json`: 2 CCEL titles (converted) and the one-volume Philadelphia Works, raw IA OCR, 98.1%, about 6 MB (contents as the catalogue title lists them, confirmed by headings in the text; no year on the title page, catalogue 1853). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

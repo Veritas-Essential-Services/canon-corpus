@@ -1422,6 +1422,17 @@ Slugs `pearson-*`.
 | Work | Status | Where |
 |---|---|---|
 | An Exposition of the Creed, with Edward Walford's analysis (London: George Bell; catalogued 1902) | have-raw | IA (identifier in the shelf) |
+
+
+## William Paley (round 9, my pick, 2026-10-03)
+
+Slugs `paley-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A View of the Evidences of Christianity | have-clean | CCEL |
+| Natural Theology, with illustrative notes | have-clean | CCEL |
+| Works, 1 vol. (Philadelphia: Crissy and Markley; catalogued 1853), incl. Horae Paulinae, Moral and Political Philosophy, sermons | have-raw | IA (identifier in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
