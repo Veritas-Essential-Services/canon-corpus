@@ -1321,3 +1321,13 @@ Slugs `ken-*`.
 | Prose Works, ed. J. T. Round (London, 1838) | have-raw | IA (identifiers in the shelf) |
 | A Manual of Prayers for Winchester College (1857 printing) | have-raw | IA |
 | The Christian Year, or Hymns and Poems (London: Pickering, 1868) | have-raw | IA |
+
+
+## Joseph Hall (round 8, my pick, 2026-10-02)
+
+Slugs `hall-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. Philip Wynter (Oxford: University Press, 1863), vols 1-9 | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 10 | pending | no correct scan found yet |

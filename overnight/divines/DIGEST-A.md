@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 22:11 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 22:16 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -149,6 +149,7 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | John Henry Newman | john-henry-newman_shelf.json | 1 CCEL (Dream of Gerontius, verse) + 5 PG (Apologia, Development, Grammar of Assent, Idea of a University, Historical Sketches vol. 1) | 8 (Parochial and Plain Sermons, Longmans 1891) | none | Tracts for the Times (several authors); the novels; Hymni Ecclesiae; a later anthology. **Veto point:** Newman became a Roman Catholic in 1845; the sermons are his Anglican preaching, most of the Gutenberg titles are Catholic-period works |
 | George Herbert | george-herbert_shelf.json | 1 CCEL (A Priest to the Temple, or The Country Parson) | 3 (English Works, ed. G. H. Palmer, Boston 1905; vol. 1 a 1915 printing; the poems of The Temple are vols 2-3) | none | Grosart's 1874 Complete Works (another edition); CCEL's priesttemple stub. The Temple is verse: whether it belongs on the hymn/verse side is your call |
 | Thomas Ken | thomas-ken_shelf.json | none | 3 (Prose Works, ed. Round, 1838; Manual of Prayers for Winchester, 1857; Christian Year, hymns and poems, 1868) | none | Benham's 1872 Prose Works; the 1721 Works (long s). The Christian Year is verse at 84% OCR (two scans scored alike) |
+| Joseph Hall | joseph-hall_shelf.json | none | 9 (Works, ed. Philip Wynter, Oxford 1863, vols 1-9) | vol. 10 (no true scan found yet; the one labelled vol. 10 is vol. 7) | Pratt's 1808 and Talboys' 1837 editions |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

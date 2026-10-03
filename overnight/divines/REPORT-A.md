@@ -364,3 +364,6 @@
 
 ## 2026-10-02 22:11 CDT — thomas-ken done
 - `pipeline/thomas-ken_shelf.json`: 3 IA items of raw OCR: Prose Works 98.4% (the scan opens with a publisher's 1855 catalogue; the title page inside reads Round, London, 1838), Manual of Prayers 98.0%, Christian Year 84.1% (verse; a second scan scored 84.9%, so the score looks like the book, not the scan). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 22:16 CDT — joseph-hall done
+- `pipeline/joseph-hall_shelf.json`: Wynter's 1863 Works, vols 1-9 of raw IA OCR, median 98.0% (96.2-99.3%), about 17 MB; title pages read (MDCCC.LXIII). Vol. 10 is pending: the Google scan catalogued as vol. 10 reads VOL. VII on its own title page and was dropped. Vol. 3 is the Trinity College copy (the Robarts copy kept returning HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
