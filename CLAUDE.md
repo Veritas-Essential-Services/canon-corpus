@@ -567,7 +567,12 @@ The living truth for project state is the Obsidian vault:
   (only the numberings that have the verse) and, in Greek, content votes (the
   father's Strong's-glossed words against Brenton's English of each
   candidate; calibrated 89% right between chapters, 75% between verses). An
-  edition leans as its calibrated log-odds over a pooled prior say; in a mixed one, each
+  edition leans as its calibrated log-odds over a pooled prior say (the prior a
+  mixture estimate: a vote two numberings share is split by their shares). It
+  leaves the pool's numbering only on 2+ votes of its own that tell them apart,
+  and a rival its own votes don't rule out stays `undecided`: the link says
+  numbering_undecided, with that reading as alt_target (Heikel's Psalms:
+  Hebrew or English). In a mixed one, each
   note's run of references to one chapter is one quotation, read by one
   content vote where the numberings put it in different chapters (+content). Greek 1 Esdras is the apocryphal book,
   2 Esdras is Ezra-Nehemiah (Brenton's map). Tokens are the text

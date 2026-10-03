@@ -141,9 +141,32 @@ check("one verse-level vote against the same pool: it leans on the pool",
       N.decide(C({"content_verse:english": 1}), "grc", P, W)[0] == "lxx")
 check("ten votes split evenly: mixed, read reference by reference",
       N.is_mixed(C({"content_chapter:english": 5, "content_verse:lxx": 5}), "grc"))
+check("an LXX editor's lxx+hebrew votes (a title as verse 1) lend the Hebrew nothing against the English",
+      N.shares(C({"existence:lxx": 100, "existence:lxx+hebrew": 20, "content_verse:english": 5}), "grc")["hebrew"]
+      < 0.01)
+check("... while a hebrew+english vote still counts against the LXX",
+      N.shares(C({"existence:lxx": 10, "existence:hebrew+english": 10}), "grc")["lxx"] < 0.6)
+L = {"vulgate": 0.94, "hebrew": 0.05, "english": 0.01}
+got = N.decide(C({"existence:hebrew": 1}), "lat", L, W, "vulgate", 0.94)
+check("one OCR digit does not move an edition off the pool's numbering; the rival stays open",
+      got[0] == "vulgate" and got[2] == ["hebrew"])
+got = N.decide(C({"existence:hebrew+english": 1, "content_chapter:hebrew+english": 1}), "grc", P, W, "lxx", 0.8)
+check("two votes the Hebrew and English share rule out the LXX but leave those two undecided",
+      got[0] != "lxx" and set([got[0]] + got[2]) == {"hebrew", "english"})
 m = N.load()
 check("the committed measure: Pusey's Psalms are Septuagint-numbered",
       m[0][("grc", "Philip Edward Pusey", "Ps")][0] == "lxx")
+check("the committed measure: Heikel's Psalms are not the Greek count, Hebrew or English undecided",
+      m[0][("grc", "Ivar A. Heikel", "Ps")][0] in ("hebrew", "english")
+      and set(m[0][("grc", "Ivar A. Heikel", "Ps")][2]) | {m[0][("grc", "Ivar A. Heikel", "Ps")][0]}
+      == {"hebrew", "english"})
+heikel = N.scheme_for({"source": {"edition": {"editor": "Ivar A. Heikel"}}}, "grc", m)
+r = F.resolve(F.parse("Psal. 7, 16ff.", "grc")[0], "grc", ctx, heikel)
+check("... so his Ps 7:16 names both verses and says the numbering is undecided",
+      {r["target"], r.get("alt_target")} == {"kjv:Ps.7.15", "kjv:Ps.7.16"} and r.get("numbering_undecided"))
+r = F.resolve(F.parse("Psal. 72, 8", "grc")[0], "grc", ctx, heikel)
+check("... and his Ps 72:8 is the KJV's, the Hebrew and English agreeing", r["target"] == "kjv:Ps.72.8"
+      and "numbering_undecided" not in r)
 
 print(f"{PASS} passed, {len(FAIL)} failed")
 if FAIL:
