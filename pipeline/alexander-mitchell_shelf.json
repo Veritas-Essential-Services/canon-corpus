@@ -1,0 +1,52 @@
+{
+ "_about": "Alexander F. Mitchell (1822-1899), professor of church history at St Andrews and the Assembly's 19th-century editor: The Westminster Assembly, its History and Standards (Baird Lecture, London: Nisbet, 1883) and Catechisms of the Second Reformation (London: Nisbet, 1886), which prints the Shorter Catechism's Puritan precursors and Rutherfurd's and other Scottish catechisms. Named alexander-mitchell so other Mitchells cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "mitchell"
+ ],
+ "_surname": [
+  "mitchell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mitchell-westminster-assembly-1883": [
+   "westminsterassem1883mitc",
+   "The Westminster Assembly: its History and Standards (Baird Lecture for 1882; London, 1883)"
+  ],
+  "mitchell-catechisms-second-reformation-1886": [
+   "catechismsofthes00mitcuoft",
+   "Catechisms of the Second Reformation, with historical introduction and biographical notices (London, 1886)"
+  ]
+ },
+ "_alternates": {
+  "cateseco00mitc, catechismsofseco00mitc, catechismssecon00mitcgoog": "Other copies of the Catechisms."
+ },
+ "_pending": {
+  "The Wedderburns and their Work (1867); Mitchell's edition of the Records of the Commissions of the General Assemblies (Scottish History Society)": "Not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "mitchell-westminster-assembly-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mitchell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mitchell-catechisms-second-reformation-1886": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mitchell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
