@@ -36,6 +36,16 @@ THE BOOKS, AND WHICH PRINTING (every one printed before 1929: US public domain)
                           R. Gandell (Oxford, 1859, 4 vols): Matthew to 1 Corinthians, notes
                           headed "Ver. 5:" in one column. horaehebraicaeet000{1-4}ligh (the
                           Internet Archive's own scans: the only copies whose OCR kept Hebrew).
+  ellicott-galatians      C. J. Ellicott, St Paul's Epistle to the Galatians, 4th ed.
+                          (Longmans, 1867). stpaulsepistleto00elli (Princeton).
+  ellicott-ephesians      C. J. Ellicott, St Paul's Epistle to the Ephesians, 5th ed.
+                          (Longmans, 1884). cu31924029294240 (Cornell).
+  ellicott-philippians    C. J. Ellicott, Philippians, Colossians and Philemon (Parker,
+                          1857, the first edition). criticalgrammati00elli (Princeton).
+  ellicott-thessalonians  C. J. Ellicott, St Paul's Epistles to the Thessalonians, 4th ed.
+                          (Longmans, 1880). cu31924029294539 (Cornell).
+  ellicott-pastorals      C. J. Ellicott, The Pastoral Epistles of St Paul, 5th ed.
+                          (Longmans, 1883). pastoralepistles00elli (Princeton).
 
 Project Gutenberg has only the Colossians (searched 2026-10-03 by author and
 title); its Greek is real Unicode and its markup gives the verse anchors of
@@ -166,6 +176,25 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 #               horaehebraicaeet0{1,2,4}lighuoft, horaehebraicaeet00lighuoft (Toronto), horhebraicet0{1-4}ligh
 #               (Princeton), horhebraicettal00gandgoog: no Hebrew codepoints; horhebraicet02ligh,
 #               horhebraicettal00unkngoog: no Greek either; commentaryonnewt000*: 1979/1989 reprints.
+#   Ellicott    Galatians stpaulsepistleto00elli 1867 (4th ed.) 10.7%  39.9%  87.4%   <- chosen
+#               cu31924029294118 1867 10.7% 39.7%; criticalgrammat00elli 1854 11.0%; criticalgrammati59elli 1859;
+#               criticalgrammel00elli 1867 (Boston); commentarycritic00elli 1860: 99.9% Greek letters;
+#               acommentarycrit00elligoog, commentarycritic00ellirich/-iala 1860, acriticalandgra00elligoog 1859,
+#               bwb_P9-DVB-553 1876: 0.0% Greek
+#               Ephesians cu31924029294240 1884 (5th ed.)   11.6%  39.0%  86.2%   <- chosen
+#               commentarycrit00elli 1863 (Andover) 11.0%; stpaulsepistletoephe00elli 1864,
+#               stpaulsepistlet00elligoog 1868, stpaulsepistlet01elligoog 1884: 0.0% Greek;
+#               acriticalandgra04elligoog 1855, stpaulsepistleto01elli 1868: ~100% Greek letters
+#               Phil./Col./Philem. criticalgrammati00elli 1857 (1st ed.) 11.1%  39.7%  86.4%   <- chosen
+#               criticalgramma00elli 1865 (Andover) 10.6%; cu31924029292856 1888, stpaulsepistles00elligoog
+#               1865, criticalgrammati00elliuoft 1872: 0.0% Greek; acriticalandgra05elligoog: a 1998 reprint
+#               Thessalonians cu31924029294539 1880 (4th ed.) 12.2%  41.5%  86.9%   <- chosen
+#               stpaulsepistles00elliuoft 1866 12.3% 41.2%; acriticalandgra0{1,3,7}elligoog 1858,
+#               stpaulsepistles0{1,2}elligoog 1866: 0.0% Greek
+#               Pastorals pastoralepistles00elli 1883 (5th ed.)  12.3%  34.5%  85.3%   <- chosen
+#               criticalgrammati1856elli 1856 12.7%; acriticalandgra06elligoog, pastorialepistl00elligoog
+#               1865 (Andover); cu31924029294570 1883, pastoralepistles1869elli: ~100% Greek letters;
+#               criticalgrammtic0000rtre: 0.0% Greek
 #   Project Gutenberg has none of these (searched 2026-10-03: Westcott, Ellicott, Lightfoot).
 CANDIDATES = None
 
@@ -344,12 +373,138 @@ SCANS.update({
              "epistles": [("Acts", 11, 159), ("Rom", 161, 170), ("1Cor", 177, 291)]},
         ],
     },
+    "ellicott-galatians": {
+        "ia": "stpaulsepistleto00elli",
+        "sha256": "b8fe27d024d63d0d78ba12a90ddcffe5cd9aaed6b445a8b3116051bae40572a9",
+        "title": "St Paul's Epistle to the Galatians",
+        "short": "Ellicott, Gal.",
+        "author": "C. J. Ellicott",
+        "edition": ("C. J. Ellicott, St Paul's Epistle to the Galatians: with a critical and grammatical commentary, "
+                    "and a revised translation, 4th ed., corrected (London: Longmans, Green, Reader, & Dyer, "
+                    "1867), as its title page reads (first ed. 1854)"),
+        "printed": 1867,
+        "copy": "Princeton Theological Seminary Library",
+        "ia_rights": "NOT_IN_COPYRIGHT",
+        "leaves": (7, 205),
+        "epistles": [("Gal", 37, 176)],
+        "apparatus": False,
+        "head": "plain",
+        "prose_above": True,
+        "lookahead": True,
+        "honesty": ("Ellicott's textual notes, printed full width above the two columns, are read with the "
+                    "notes (a textual note opening with its verse number opens that verse's unit); his revised "
+                    "translation at the end of the volume is by page; openers_against_running_head counts notes "
+                    "whose page head (rarely legible in these scans) reads another chapter, "
+                    "and notes_reopened the verses taken up again further on, whose text joins the first "
+                    "unit of that verse"),
+    },
+    "ellicott-ephesians": {
+        "ia": "cu31924029294240",
+        "sha256": "5acf89fdcb93b47401c7126f0d5097757b86b95fdaf9981214c6f96c82aa07ac",
+        "title": "St Paul's Epistle to the Ephesians",
+        "short": "Ellicott, Eph.",
+        "author": "C. J. Ellicott",
+        "edition": ("C. J. Ellicott, St Paul's Epistle to the Ephesians: with a critical and grammatical commentary, "
+                    "and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1884), as its "
+                    "title page reads (first ed. 1855)"),
+        "printed": 1884,
+        "copy": "Cornell University Library",
+        "ia_rights": None,
+        "leaves": (6, 213),
+        "epistles": [("Eph", 22, 181)],
+        "apparatus": False,
+        "head": "plain",
+        "prose_above": True,
+        "lookahead": True,
+        "honesty": ("Ellicott's textual notes, printed full width above the two columns, are read with the "
+                    "notes (a textual note opening with its verse number opens that verse's unit); his revised "
+                    "translation at the end of the volume is by page; openers_against_running_head counts notes "
+                    "whose page head (rarely legible in these scans) reads another chapter, "
+                    "and notes_reopened the verses taken up again further on, whose text joins the first "
+                    "unit of that verse"),
+    },
+    "ellicott-philippians": {
+        "ia": "criticalgrammati00elli",
+        "sha256": "d48f012284e787f2bd8bae2fbe09a5a466a5c15473117bf8d7dc040210b76f9d",
+        "title": "St Paul's Epistles to the Philippians, the Colossians, and Philemon",
+        "short": "Ellicott, Phil. Col. Philem.",
+        "author": "C. J. Ellicott",
+        "edition": ("C. J. Ellicott, A critical and grammatical commentary on St Paul's Epistles to the Philippians, "
+                    "Colossians, and to Philemon, with a revised translation (London: John W. Parker and Son, "
+                    "1857), the first edition, as its title page reads (MDCCCLVII)"),
+        "printed": 1857,
+        "copy": "Princeton Theological Seminary Library",
+        "ia_rights": "NOT_IN_COPYRIGHT",
+        "leaves": (7, 290),
+        "epistles": [("Phil", 23, 127), ("Col", 131, 225), ("Phlm", 229, 244)],
+        "apparatus": False,
+        "head": "plain",
+        "prose_above": True,
+        "lookahead": True,
+        "honesty": ("Ellicott's textual notes, printed full width above the two columns, are read with the "
+                    "notes (a textual note opening with its verse number opens that verse's unit); his revised "
+                    "translation at the end of the volume is by page; openers_against_running_head counts notes "
+                    "whose page head (rarely legible in these scans) reads another chapter, "
+                    "and notes_reopened the verses taken up again further on, whose text joins the first "
+                    "unit of that verse"),
+    },
+    "ellicott-thessalonians": {
+        "ia": "cu31924029294539",
+        "sha256": "9d94507cc9e47f7a1019162cc6ae0a7845fd2e56d06798c04b084ee3a0b88d77",
+        "title": "St Paul's Epistles to the Thessalonians",
+        "short": "Ellicott, Thess.",
+        "author": "C. J. Ellicott",
+        "edition": ("C. J. Ellicott, St Paul's Epistles to the Thessalonians: with a critical and grammatical "
+                    "commentary, and a revised translation, 4th ed. (London: Longman, Green, Longman, Roberts & "
+                    "Green, 1880), as its title page reads (first ed. 1858)"),
+        "printed": 1880,
+        "copy": "Cornell University Library",
+        "ia_rights": None,
+        "leaves": (2, 184),
+        "epistles": [("1Thess", 14, 105), ("2Thess", 110, 153)],
+        "apparatus": False,
+        "head": "plain",
+        "prose_above": True,
+        "lookahead": True,
+        "honesty": ("Ellicott's textual notes, printed full width above the two columns, are read with the "
+                    "notes (a textual note opening with its verse number opens that verse's unit); his revised "
+                    "translation at the end of the volume is by page; openers_against_running_head counts notes "
+                    "whose page head (rarely legible in these scans) reads another chapter, "
+                    "and notes_reopened the verses taken up again further on, whose text joins the first "
+                    "unit of that verse"),
+    },
+    "ellicott-pastorals": {
+        "ia": "pastoralepistles00elli",
+        "sha256": "f9140c24e65007ef2f80c3070b3fa20585913e13b898f91d215a18287154945e",
+        "title": "The Pastoral Epistles of St Paul",
+        "short": "Ellicott, Past.",
+        "author": "C. J. Ellicott",
+        "edition": ("C. J. Ellicott, The Pastoral Epistles of St Paul: with a critical and grammatical commentary, "
+                    "and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1883), as its "
+                    "title page reads (first ed. 1856)"),
+        "printed": 1883,
+        "copy": "Princeton Theological Seminary Library",
+        "ia_rights": "NOT_IN_COPYRIGHT",
+        "leaves": (7, 290),
+        "epistles": [("1Tim", 23, 130), ("2Tim", 135, 200), ("Titus", 205, 241)],
+        "apparatus": False,
+        "head": "plain",
+        "prose_above": True,
+        "lookahead": True,
+        "honesty": ("Ellicott's textual notes, printed full width above the two columns, are read with the "
+                    "notes (a textual note opening with its verse number opens that verse's unit); his revised "
+                    "translation at the end of the volume is by page; openers_against_running_head counts notes "
+                    "whose page head (rarely legible in these scans) reads another chapter, "
+                    "and notes_reopened the verses taken up again further on, whose text joins the first "
+                    "unit of that verse"),
+    },
 })
 ORDER = ["lightfoot-galatians", "lightfoot-philippians", "lightfoot-colossians",
          "westcott-hebrews", "westcott-john", "hort-ante-nicene",
-         "westcott-gospel-john", "lightfoot-horae"]
+         "westcott-gospel-john", "lightfoot-horae", "ellicott-galatians", "ellicott-ephesians",
+         "ellicott-philippians", "ellicott-thessalonians", "ellicott-pastorals"]
 MULTI = {"lightfoot-colossians", "westcott-john",    # volumes of several epistles: ids lead with the book
-         "lightfoot-horae"}
+         "lightfoot-horae", "ellicott-philippians", "ellicott-thessalonians", "ellicott-pastorals"}
 
 # ------------------------------------------------------------------ files
 

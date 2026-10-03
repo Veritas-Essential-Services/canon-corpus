@@ -28943,5 +28943,319 @@
    }
   },
   "built_sha256": "f427d23d4905393076b633630358c96a0de4c1c92507d11547b3296a061af411"
+ },
+ "ellicott-galatians": {
+  "title": "St Paul's Epistle to the Galatians",
+  "author": "C. J. Ellicott",
+  "format": "ia-hocr",
+  "sha256": "b8fe27d024d63d0d78ba12a90ddcffe5cd9aaed6b445a8b3116051bae40572a9",
+  "units": 333,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "status": "draft",
+   "note": "C. J. Ellicott, St Paul's Epistle to the Galatians: with a critical and grammatical commentary, and a revised translation, 4th ed., corrected (London: Longmans, Green, Reader, & Dyer, 1867), as its title page reads (first ed. 1854); scan leaves 7-205 of stpaulsepistleto00elli"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1867); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, stpaulsepistleto00elli (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/stpaulsepistleto00elli",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 139,
+    "note": 138,
+    "page": 56
+   },
+   "junk_lines_dropped": 599,
+   "leaves_commentary": 140,
+   "leaves_page": 56,
+   "notes_reopened": 2,
+   "openers_accepted": 151,
+   "openers_read_with_fix": 2,
+   "openers_rejected": 3,
+   "printed_page_from_neighbours": 44,
+   "printed_page_read": 123,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 137,
+     "with_own_note": 137
+    }
+   },
+   "scripture_links": {
+    "read": 1056,
+    "resolved": 930
+   },
+   "greek": {
+    "greek_letters": 44972,
+    "greek_share_of_letters": 0.1068,
+    "greek_tokens_3plus": 7203,
+    "greek_tokens_in_reference_vocab": 0.3994,
+    "mixed_script_tokens": 71
+   }
+  },
+  "built_sha256": "1dda7859cdc7452dcbe12e372cc9a40033d350619873871a4a3c980ea7f12436"
+ },
+ "ellicott-ephesians": {
+  "title": "St Paul's Epistle to the Ephesians",
+  "author": "C. J. Ellicott",
+  "format": "ia-hocr",
+  "sha256": "5acf89fdcb93b47401c7126f0d5097757b86b95fdaf9981214c6f96c82aa07ac",
+  "units": 340,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "status": "draft",
+   "note": "C. J. Ellicott, St Paul's Epistle to the Ephesians: with a critical and grammatical commentary, and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1884), as its title page reads (first ed. 1855); scan leaves 6-213 of cu31924029294240"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1884); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, cu31924029294240 (Cornell University Library copy)",
+   "source_url": "https://archive.org/details/cu31924029294240",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 156,
+    "note": 137,
+    "page": 47
+   },
+   "junk_lines_dropped": 615,
+   "leaves_commentary": 159,
+   "leaves_page": 47,
+   "openers_accepted": 146,
+   "openers_against_running_head": 0,
+   "openers_on_headed_pages": 8,
+   "openers_read_with_fix": 2,
+   "openers_rejected": 5,
+   "printed_page_from_neighbours": 38,
+   "printed_page_read": 153,
+   "kjv_coverage": {
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 136,
+     "with_own_note": 136
+    }
+   },
+   "scripture_links": {
+    "read": 1261,
+    "resolved": 1120
+   },
+   "greek": {
+    "greek_letters": 53978,
+    "greek_share_of_letters": 0.1169,
+    "greek_tokens_3plus": 8899,
+    "greek_tokens_in_reference_vocab": 0.3923,
+    "mixed_script_tokens": 79
+   }
+  },
+  "built_sha256": "984be84141a70fad88e2228dd030c789064070e2c727d752b891fcd171228832"
+ },
+ "ellicott-philippians": {
+  "title": "St Paul's Epistles to the Philippians, the Colossians, and Philemon",
+  "author": "C. J. Ellicott",
+  "format": "ia-hocr",
+  "sha256": "d48f012284e787f2bd8bae2fbe09a5a466a5c15473117bf8d7dc040210b76f9d",
+  "units": 466,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "status": "draft",
+   "note": "C. J. Ellicott, A critical and grammatical commentary on St Paul's Epistles to the Philippians, Colossians, and to Philemon, with a revised translation (London: John W. Parker and Son, 1857), the first edition, as its title page reads (MDCCCLVII); scan leaves 7-290 of criticalgrammati00elli"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1857); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalgrammati00elli (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalgrammati00elli",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 193,
+    "note": 206,
+    "page": 67
+   },
+   "junk_lines_dropped": 927,
+   "leaves_commentary": 215,
+   "leaves_page": 67,
+   "notes_reopened": 3,
+   "openers_accepted": 219,
+   "openers_against_running_head": 2,
+   "openers_on_headed_pages": 133,
+   "openers_read_with_fix": 8,
+   "openers_rejected": 8,
+   "printed_page_from_neighbours": 29,
+   "printed_page_read": 232,
+   "kjv_coverage": {
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 98,
+     "with_own_note": 98
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 81,
+     "with_own_note": 81
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 24,
+     "with_own_note": 24
+    }
+   },
+   "scripture_links": {
+    "read": 1748,
+    "resolved": 1514
+   },
+   "greek": {
+    "greek_letters": 69124,
+    "greek_share_of_letters": 0.1123,
+    "greek_tokens_3plus": 11364,
+    "greek_tokens_in_reference_vocab": 0.4016,
+    "mixed_script_tokens": 61
+   }
+  },
+  "built_sha256": "15c27fccec438fc1d9a96e2d7b8efc9f0b4dfff6d2b4d5cf70e8d0a37e2b8ec6"
+ },
+ "ellicott-thessalonians": {
+  "title": "St Paul's Epistles to the Thessalonians",
+  "author": "C. J. Ellicott",
+  "format": "ia-hocr",
+  "sha256": "9d94507cc9e47f7a1019162cc6ae0a7845fd2e56d06798c04b084ee3a0b88d77",
+  "units": 353,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "status": "draft",
+   "note": "C. J. Ellicott, St Paul's Epistles to the Thessalonians: with a critical and grammatical commentary, and a revised translation, 4th ed. (London: Longman, Green, Longman, Roberts & Green, 1880), as its title page reads (first ed. 1858); scan leaves 2-184 of cu31924029294539"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, cu31924029294539 (Cornell University Library copy)",
+   "source_url": "https://archive.org/details/cu31924029294539",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 129,
+    "note": 118,
+    "page": 106
+   },
+   "junk_lines_dropped": 545,
+   "leaves_commentary": 132,
+   "leaves_page": 47,
+   "leaves_with_tail": 59,
+   "notes_reopened": 2,
+   "openers_accepted": 127,
+   "openers_against_running_head": 0,
+   "openers_on_headed_pages": 7,
+   "openers_read_with_fix": 1,
+   "openers_rejected": 2,
+   "printed_page_from_neighbours": 37,
+   "printed_page_read": 128,
+   "kjv_coverage": {
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 79,
+     "with_own_note": 79
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 37,
+     "with_own_note": 37
+    }
+   },
+   "scripture_links": {
+    "read": 1213,
+    "resolved": 1090
+   },
+   "greek": {
+    "greek_letters": 47336,
+    "greek_share_of_letters": 0.1219,
+    "greek_tokens_3plus": 7788,
+    "greek_tokens_in_reference_vocab": 0.4171,
+    "mixed_script_tokens": 68
+   }
+  },
+  "built_sha256": "7bf34acac0286ea8fca3fed52c0218a4ebfb549072b8d0adb5f2dffe89970621"
+ },
+ "ellicott-pastorals": {
+  "title": "The Pastoral Epistles of St Paul",
+  "author": "C. J. Ellicott",
+  "format": "ia-hocr",
+  "sha256": "f9140c24e65007ef2f80c3070b3fa20585913e13b898f91d215a18287154945e",
+  "units": 501,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "status": "draft",
+   "note": "C. J. Ellicott, The Pastoral Epistles of St Paul: with a critical and grammatical commentary, and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1883), as its title page reads (first ed. 1856); scan leaves 7-290 of pastoralepistles00elli"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1883); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, pastoralepistles00elli (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/pastoralepistles00elli",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 200,
+    "note": 230,
+    "page": 71
+   },
+   "junk_lines_dropped": 779,
+   "leaves_commentary": 206,
+   "leaves_page": 70,
+   "leaves_with_tail": 1,
+   "notes_reopened": 6,
+   "openers_accepted": 245,
+   "openers_against_running_head": 0,
+   "openers_on_headed_pages": 5,
+   "openers_read_with_fix": 9,
+   "openers_rejected": 7,
+   "printed_page_from_neighbours": 81,
+   "printed_page_read": 174,
+   "kjv_coverage": {
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 103,
+     "with_own_note": 103
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 80,
+     "with_own_note": 80
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 44,
+     "with_own_note": 44
+    }
+   },
+   "scripture_links": {
+    "read": 1829,
+    "resolved": 1557
+   },
+   "greek": {
+    "greek_letters": 75690,
+    "greek_share_of_letters": 0.1242,
+    "greek_tokens_3plus": 11707,
+    "greek_tokens_in_reference_vocab": 0.3467,
+    "mixed_script_tokens": 137
+   }
+  },
+  "built_sha256": "95e4b363950e3cb4285599085ae30e41b2a9dbd9627800cbfce7a360c742e38c"
  }
 }
