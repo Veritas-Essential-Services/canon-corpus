@@ -393,3 +393,6 @@
 
 ## 2026-10-03 01:00 CDT — cotton-mather done
 - `pipeline/cotton-mather_shelf.json`: the Magnalia (Andrus, 2 vols) and Essays to Do Good (1808), raw IA OCR, median 93.3% (91.9-95.9%; the Magnalia is thick with Latin and Greek), about 5 MB; title pages read: the two Magnalia copies were printed in 1868 and 1858 from the 1852 copyright, and the shelf says so rather than the catalogue's 1853. `--verify --record`: 0 mismatched, 0 rights flags; matched on "cotton mather". 0 uids minted.
+
+## 2026-10-03 01:01 CDT — john-pearson done
+- `pipeline/john-pearson_shelf.json`: An Exposition of the Creed (Bell, Walford's analysis), raw IA OCR, 90.2%, 2.4 MB. The score reflects the Greek and Latin of Pearson's notes more than the scan. Title page read (Bell, Walford; no year printed, catalogue 1902). `--verify --record`: 0 mismatched, 0 rights flags; matched on "john pearson". 0 uids minted.

@@ -1413,6 +1413,15 @@ Slugs `cmather-*`.
 | Magnalia Christi Americana, 2 vols (Hartford: Silas Andrus and Son; copyright 1852) | have-raw | IA (identifiers in the shelf) |
 | Essays to Do Good (Bonifacius) (Boston, 1808) | have-raw | IA |
 | The Wonders of the Invisible World | excluded | bundled with Increase Mather; Salem trials; Adam's call |
+
+
+## John Pearson (round 9, my pick, 2026-10-03)
+
+Slugs `pearson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| An Exposition of the Creed, with Edward Walford's analysis (London: George Bell; catalogued 1902) | have-raw | IA (identifier in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
