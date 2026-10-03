@@ -538,3 +538,6 @@
 ## 2026-10-02 21:47 CDT — convert_nested fix (coordinator relay)
 - `convert_nested.py`: a body start now also forgets a title the Contents' last heading was waiting for. Before, a book whose Contents ended on a title_next heading cited its first body heading as "None BOOK ONE". New test `tests/convert_nested_test.py` (11 checks) fails on the old code and passes on the new. Rebuilt all 85 Lane D books that use the nested converter in memory: no unit id or ref changes, so no Lane D book carried the bug.
 - `split_shelf_titles.py` (stale titles file after a failed split) is Lane C's file; not touched here.
+
+## 2026-10-02 21:55 CDT — skinner: done
+- 2/2 fetched (Gutenberg 6615, 24732), 1,810 units, 0 ~2 ids.

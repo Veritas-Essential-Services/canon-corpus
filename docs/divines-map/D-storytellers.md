@@ -2159,6 +2159,16 @@ Shelf: `pipeline/thorne-thomsen_shelf.json` (2026-10-02; added at the coordinato
 |---|---|---|
 | The Birch and the Star, and Other Stories | have | PG 49201, `thorne-thomsen-birch-and-the-star` (324 units) |
 
+## Charles M. Skinner
+
+Shelf: `pipeline/skinner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). American legends gathered place by place, from the Hudson to the Pacific slope, and from Puerto Rico, Hawaii and the Philippines. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of Our Own Land (complete) | have | PG 6615, `skinner-myths-and-legends-of-our-own-land` (1183 units) |
+| Myths and Legends of Our New Possessions and Protectorate | have | PG 24732, `skinner-myths-and-legends-of-our-new-possessions` (627 units) |
+| skinner-own-land-parts | excluded | PG 6606-6614, the nine parts of Myths and Legends of Our Own Land issued separately; the complete file PG 6615 is held, so the parts are held once inside it |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
