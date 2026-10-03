@@ -8,67 +8,72 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | alleine-sure-guide | ia-extract |  | 89,335 | 757 | 0 | 1 | 31 (31) | 47 | 3 | 0 | 0 | 245 | 0 |
 | baxter-dying-thoughts | tcp |  | 126,322 | 962 | 20 | 0 | 164 (164) | 207 | 6 | 0 | 185 | 425 | 0 |
-| baxter-reformed-pastor | ccel |  | 88,383 | 422 | 0 | 0 | 27 (26) | 26 | 1 | 0 | 0 | 39 | 0 |
-| binning-christian-love | gutenberg |  | 22,740 | 64 | 18 | 0 | 165 (165) | 171 | 0 | 0 | 0 | 96 | 0 |
-| bolton-christian-freedom | tcp |  | 88,203 | 943 | 428 | 0 | 416 (416) | 330 | 5 | 0 | 81 | 1841 | 0 |
-| boston-crook-in-the-lot | ia-extract |  | 46,600 | 424 | 0 | 1 | 571 (571) | 489 | 4 | 0 | 0 | 239 | 4 |
-| bridge-lifting-up | ia-extract |  | 121,921 | 720 | 26 | 52 | 161 (161) | 158 | 5 | 0 | 0 | 840 | 0 |
-| brooks-ark-for-noahs | tcp |  | 86,212 | 388 | 433 | 0 | 664 (664) | 923 | 11 | 0 | 51 | 509 | 0 |
-| brooks-heaven-on-earth | tcp |  | 141,662 | 516 | 1341 | 0 | 1,160 (1,160) | 1,193 | 10 | 0 | 533 | 1106 | 0 |
-| brooks-precious-remedies | ia-extract |  | 101,870 | 649 | 124 | 287 | 566 (566) | 739 | 7 | 0 | 0 | 769 | 7 |
-| brooks-secret-key | tcp |  | 96,382 | 630 | 480 | 0 | 1,012 (1,012) | 1,257 | 28 | 0 | 90 | 578 | 0 |
+| baxter-reformed-pastor | ccel | not stated | 88,383 | 422 | 0 | 0 | 27 (26) | 26 | 1 | 0 | 0 | 39 | 0 |
+| binning-christian-love | gutenberg |  | 22,740 | 64 | 18 | 0 | 175 (175) | 185 | 0 | 0 | 0 | 96 | 0 |
+| bolton-christian-freedom | tcp |  | 88,203 | 943 | 428 | 0 | 416 (416) | 330 | 5 | 0 | 81 | 1837 | 0 |
+| boston-crook-in-the-lot | ia-extract |  | 46,557 | 424 | 0 | 1 | 576 (576) | 491 | 5 | 0 | 0 | 100 | 4 |
+| bridge-lifting-up | ia-extract |  | 121,921 | 719 | 26 | 52 | 161 (161) | 158 | 5 | 0 | 0 | 840 | 0 |
+| brooks-ark-for-noahs | tcp |  | 86,212 | 388 | 433 | 0 | 664 (664) | 923 | 11 | 0 | 51 | 506 | 0 |
+| brooks-heaven-on-earth | tcp |  | 141,662 | 516 | 1341 | 0 | 1,160 (1,160) | 1,193 | 10 | 0 | 533 | 1105 | 0 |
+| brooks-precious-remedies | ia-extract |  | 101,869 | 648 | 124 | 287 | 566 (566) | 739 | 7 | 0 | 0 | 774 | 7 |
+| brooks-secret-key | tcp |  | 96,382 | 630 | 480 | 0 | 1,012 (1,012) | 1,257 | 28 | 0 | 90 | 569 | 0 |
 | bruce-true-peace | tcp |  | 145,015 | 587 | 321 | 0 | 38 (38) | 35 | 2 | 0 | 311 | 1244 | 0 |
 | bunyan-acceptable-sacrifice | gutenberg |  | 35,735 | 283 | 16 | 0 | 406 (406) | 577 | 13 | 0 | 0 | 27 | 0 |
 | bunyan-all-loves-excelling | gutenberg |  | 40,524 | 255 | 16 | 0 | 390 (390) | 523 | 11 | 0 | 0 | 21 | 0 |
-| bunyan-come-and-welcome | gutenberg |  | 60,484 | 695 | 22 | 0 | 742 (742) | 1,004 | 21 | 0 | 0 | 34 | 0 |
+| bunyan-come-and-welcome | gutenberg |  | 60,517 | 695 | 22 | 0 | 742 (742) | 1,004 | 21 | 0 | 0 | 34 | 45 |
 | bunyan-fear-of-god | gutenberg |  | 57,685 | 383 | 35 | 0 | 437 (437) | 627 | 21 | 0 | 0 | 25 | 0 |
-| bunyan-jerusalem-sinner | gutenberg |  | 35,148 | 455 | 0 | 0 | 212 (212) | 525 | 0 | 0 | 0 | 28 | 0 |
+| bunyan-jerusalem-sinner | gutenberg |  | 35,148 | 455 | 0 | 0 | 213 (213) | 526 | 1 | 0 | 0 | 28 | 0 |
 | bunyan-prayer | gutenberg |  | 20,608 | 137 | 9 | 0 | 217 (217) | 339 | 2 | 0 | 0 | 16 | 0 |
-| burroughs-rare-jewel | tcp |  | 102,960 | 418 | 12 | 0 | 53 (53) | 57 | 3 | 0 | 33 | 534 | 0 |
-| flavel-facing-grief | ia-extract |  | 33,316 | 474 | 12 | 19 | 104 (104) | 110 | 7 | 0 | 0 | 242 | 0 |
-| flavel-mystery-of-providence | ia-extract |  | 76,814 | 1,170 | 7 | 39 | 511 (511) | 593 | 11 | 0 | 0 | 711 | 0 |
-| flavel-preparations-sufferings | tcp |  | 40,704 | 378 | 15 | 0 | 493 (493) | 503 | 9 | 0 | 65 | 275 | 0 |
+| burroughs-rare-jewel | tcp |  | 102,960 | 418 | 12 | 0 | 53 (53) | 57 | 3 | 0 | 33 | 529 | 0 |
+| flavel-facing-grief | ia-extract |  | 33,313 | 473 | 12 | 19 | 104 (104) | 110 | 7 | 0 | 0 | 243 | 0 |
+| flavel-mystery-of-providence | ia-extract |  | 76,808 | 1,168 | 7 | 39 | 511 (511) | 593 | 11 | 0 | 0 | 718 | 0 |
+| flavel-preparations-sufferings | tcp |  | 40,704 | 378 | 15 | 0 | 493 (493) | 503 | 9 | 0 | 65 | 272 | 0 |
 | goodwin-christ-set-forth | tcp |  | 57,258 | 240 | 188 | 0 | 148 (148) | 143 | 4 | 0 | 34 | 372 | 0 |
 | goodwin-heart-of-christ | tcp |  | 37,793 | 147 | 3 | 0 | 88 (88) | 92 | 7 | 0 | 37 | 386 | 0 |
 | great-ejection-sermons | tcp |  | 124,715 | 1,032 | 0 | 0 | 246 (246) | 272 | 11 | 0 | 799 | 732 | 0 |
-| guthrie-great-interest | ccel |  | 67,149 | 428 | 4 | 0 | 10 (10) | 8 | 0 | 20 | 0 | 34 | 0 |
+| guthrie-great-interest | ccel | Glasgow: William Collins (1828) | 67,149 | 428 | 4 | 0 | 10 (10) | 8 | 0 | 20 | 0 | 34 | 0 |
 | owen-apostasy | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 129,889 | 593 | 15 | 0 | 542 (541) | 711 | 1 | 9 | 0 | 172 | 68 |
 | owen-christian-fellowship | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 15,567 | 309 | 0 | 0 | 386 (385) | 484 | 1 | 3 | 0 | 9 | 7 |
 | owen-communion-with-god | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 184,637 | 1,142 | 379 | 0 | 2,194 (2,189) | 1,587 | 7 | 49 | 0 | 891 | 59 |
 | owen-glory-of-christ | tcp |  | 88,338 | 677 | 1 | 0 | 428 (428) | 559 | 25 | 0 | 124 | 184 | 0 |
-| owen-holy-spirit | ccel | The Banner of Truth Trust, Edinburgh, 1965, 1967 | 598,044 | 2,410 | 164 | 0 | 3,763 (3,750) | 2,749 | 19 | 32 | 0 | 2943 | 38 |
+| owen-holy-spirit | ccel | The Banner of Truth Trust, Edinburgh, 1965, 1967 | 598,043 | 2,410 | 164 | 0 | 3,763 (3,750) | 2,749 | 19 | 32 | 0 | 2939 | 115 |
 | owen-indwelling-sin | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 86,816 | 470 | 4 | 0 | 476 (476) | 489 | 0 | 2 | 0 | 53 | 36 |
-| owen-mortification | ccel |  | 42,505 | 332 | 44 | 0 | 348 (343) | 299 | 5 | 0 | 0 | 27 | 3 |
+| owen-mortification | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 42,505 | 332 | 44 | 0 | 348 (343) | 299 | 5 | 0 | 0 | 27 | 3 |
 | owen-spiritual-mindedness | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 118,893 | 677 | 2 | 0 | 417 (417) | 544 | 0 | 3 | 0 | 56 | 12 |
 | owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 22 | 22 |
 | perkins-art-of-prophesying | tcp |  | 25,832 | 384 | 87 | 0 | 294 (294) | 287 | 4 | 0 | 115 | 723 | 0 |
+| rhb-a-blessed-hope | ia-extract |  | 159,767 | 821 | 0 | 4 | 1,201 (1,201) | 1,041 | 5 | 0 | 0 | 551 | 1 |
 | rhb-a-perfect-redeemer | tcp |  | 24,337 | 77 | 168 | 0 | 73 (73) | 72 | 6 | 0 | 54 | 620 | 0 |
+| rhb-advancing-christian-unity | tcp |  | 21,091 | 167 | 36 | 0 | 54 (54) | 59 | 11 | 0 | 25 | 216 | 0 |
 | rhb-christ-and-his-threefold | tcp |  | 259,763 | 1,870 | 976 | 0 | 1,455 (1,455) | 1,207 | 13 | 0 | 1763 | 3227 | 0 |
 | rhb-comfort-and-holiness-from | tcp |  | 36,466 | 221 | 15 | 0 | 13 (13) | 13 | 2 | 0 | 7 | 202 | 0 |
 | rhb-contentment-prosperity-and-gods | tcp |  | 25,925 | 115 | 3 | 0 | 11 (11) | 15 | 1 | 0 | 11 | 70 | 0 |
 | rhb-faith-seeking-assurance | tcp |  | 479,920 | 2,642 | 1701 | 0 | 842 (842) | 755 | 18 | 0 | 975 | 2184 | 0 |
-| rhb-freedom-from-sins-dominion | tcp |  | 29,639 | 244 | 0 | 0 | 78 (78) | 113 | 2 | 0 | 12 | 92 | 0 |
+| rhb-freedom-from-sins-dominion | tcp |  | 29,639 | 244 | 0 | 0 | 78 (78) | 113 | 2 | 0 | 12 | 87 | 0 |
 | rhb-gospel-evidences-of-saving | tcp |  | 27,098 | 206 | 0 | 0 | 103 (103) | 135 | 7 | 0 | 10 | 63 | 0 |
-| rhb-holy-helps-for-a | tcp |  | 55,456 | 1,030 | 397 | 0 | 173 (173) | 157 | 2 | 0 | 8 | 924 | 0 |
+| rhb-holy-helps-for-a | tcp |  | 50,836 | 370 | 397 | 0 | 173 (173) | 157 | 2 | 0 | 4 | 846 | 0 |
+| rhb-holy-meditation | ia-extract |  | 52,278 | 327 | 0 | 0 | 380 (380) | 362 | 5 | 0 | 0 | 194 | 1 |
+| rhb-prizing-public-worship | ia-extract |  | 15,340 | 104 | 0 | 0 | 64 (64) | 80 | 1 | 0 | 0 | 48 | 0 |
 | rhb-stop-loving-the-world | tcp |  | 20,101 | 112 | 0 | 0 | 63 (63) | 65 | 2 | 0 | 23 | 73 | 0 |
 | rhb-the-cure-for-unjust | tcp |  | 31,379 | 179 | 301 | 0 | 161 (161) | 86 | 7 | 0 | 63 | 1260 | 0 |
-| rhb-the-fading-of-the | tcp |  | 55,855 | 343 | 137 | 0 | 182 (182) | 197 | 4 | 0 | 123 | 663 | 0 |
+| rhb-the-fading-of-the | tcp |  | 55,855 | 343 | 137 | 0 | 182 (182) | 197 | 4 | 0 | 123 | 660 | 0 |
 | rhb-the-vanity-of-thoughts | tcp |  | 13,549 | 103 | 0 | 0 | 79 (79) | 67 | 4 | 0 | 24 | 269 | 0 |
 | rhb-triumphing-over-sinful-fear | tcp |  | 40,032 | 381 | 46 | 0 | 178 (178) | 185 | 5 | 0 | 238 | 481 | 0 |
 | rhb-turn-and-live | tcp |  | 23,302 | 217 | 0 | 0 | 103 (103) | 117 | 3 | 0 | 87 | 169 | 0 |
 | rutherford-letters | gutenberg |  | 341,280 | 5,249 | 0 | 0 | 551 (551) | 572 | 6 | 0 | 0 | 630 | 0 |
-| sibbes-bruised-reed | ia-extract |  | 43,352 | 494 | 13 | 25 | 288 (288) | 270 | 7 | 0 | 0 | 296 | 0 |
+| sibbes-bruised-reed | ia-extract |  | 43,356 | 493 | 13 | 25 | 288 (288) | 270 | 7 | 0 | 0 | 294 | 0 |
 | sibbes-glorious-feast | tcp |  | 54,756 | 361 | 385 | 0 | 40 (40) | 42 | 3 | 0 | 23 | 478 | 0 |
 | sibbes-glorious-freedom | tcp |  | 71,988 | 538 | 404 | 0 | 14 (14) | 11 | 1 | 0 | 316 | 709 | 0 |
 | sibbes-heavenly-conference | tcp |  | 49,854 | 280 | 347 | 0 | 94 (94) | 94 | 6 | 0 | 124 | 351 | 0 |
-| sibbes-josiahs-reformation | ia-extract |  | 40,164 | 350 | 8 | 0 | 137 (137) | 148 | 3 | 0 | 0 | 98 | 2 |
+| sibbes-josiahs-reformation | ia-extract |  | 40,164 | 350 | 8 | 0 | 137 (137) | 148 | 3 | 0 | 0 | 98 | 1 |
 | sibbes-love-of-christ | tcp |  | 129,465 | 1,118 | 1236 | 0 | 360 (360) | 339 | 5 | 0 | 1001 | 1383 | 0 |
-| swinnock-incomparableness | tcp |  | 60,845 | 318 | 21 | 0 | 1,022 (1,022) | 999 | 14 | 0 | 13 | 337 | 0 |
-| traill-justification-vindicated | tcp |  | 17,995 | 93 | 0 | 0 | 55 (55) | 79 | 1 | 0 | 4 | 97 | 0 |
-| venning-christs-school | tcp |  | 99,491 | 474 | 25 | 0 | 876 (876) | 797 | 13 | 0 | 393 | 560 | 0 |
-| venning-sinfulness-of-sin | tcp |  | 102,903 | 622 | 194 | 0 | 1,034 (1,034) | 1,034 | 18 | 0 | 495 | 689 | 0 |
+| spurgeon-flowers | ia-extract |  | 96,052 | 841 | 0 | 2 | 12 (12) | 12 | 1 | 0 | 0 | 617 | 1 |
+| swinnock-incomparableness | tcp |  | 60,845 | 318 | 21 | 0 | 1,022 (1,022) | 999 | 14 | 0 | 13 | 332 | 0 |
+| traill-justification-vindicated | tcp |  | 17,995 | 93 | 0 | 0 | 55 (55) | 79 | 1 | 0 | 4 | 91 | 0 |
+| venning-christs-school | tcp |  | 99,491 | 474 | 25 | 0 | 876 (876) | 797 | 13 | 0 | 393 | 559 | 0 |
+| venning-sinfulness-of-sin | tcp |  | 102,903 | 622 | 194 | 0 | 1,034 (1,034) | 1,034 | 18 | 0 | 495 | 683 | 0 |
 | vincent-shorter-catechism | tcp |  | 53,429 | 2,584 | 687 | 0 | 1,485 (1,485) | 1,530 | 13 | 0 | 427 | 328 | 0 |
-| watson-all-things-for-good | ccel |  | 39,254 | 373 | 0 | 0 | 420 (417) | 405 | 5 | 4 | 0 | 12 | 0 |
+| watson-all-things-for-good | ccel | London: Thomas Watson: Printed for Thomas Parkhurst ..., 1663 | 39,254 | 373 | 0 | 0 | 420 (417) | 405 | 5 | 4 | 0 | 12 | 0 |
 | watson-godly-mans-picture | tcp |  | 80,329 | 1,003 | 574 | 0 | 835 (835) | 772 | 9 | 0 | 527 | 1234 | 0 |
 | watson-great-gain | tcp |  | 42,563 | 495 | 298 | 0 | 519 (519) | 509 | 9 | 0 | 97 | 420 | 0 |
 | watson-heaven-taken-by-storm | tcp |  | 43,977 | 445 | 373 | 0 | 360 (360) | 341 | 6 | 0 | 639 | 756 | 0 |
