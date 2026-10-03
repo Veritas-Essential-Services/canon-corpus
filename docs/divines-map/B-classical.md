@@ -938,6 +938,8 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869) | Edward Bulwer-Lytton, Lord Lytton | `horace-lytton-1869` | have-raw (IA `odes00epodesofhorahorarich`) |
 | The Odes of Horace translated into English (London: John Murray; preface dated 1894) | William Ewart Gladstone | `horace-gladstone-1894` | have-raw (IA `odeshorace01gladgoog`) |
 | Horace, The Odes and Epodes, with an English translation (Loeb Classical Library; 1914 translation, Latin facing; this scan is a later impression, see _rights_checked) | C. E. Bennett | `horace-bennett-loeb-odes` | have-raw (IA `in.ernet.dli.2015.98705`) |
+| The Works of Horace, translated into English verse, with a life and notes, vol. I: Life, Odes (Blackwood, MDCCCLXXXI) | Theodore Martin | `horace-martin-works-1881-v1` | have-raw (IA `worksofhorace01horauoft`) |
+| The Works of Horace, translated into English verse, vol. II: Epodes, Secular Hymn, Satires, Epistles (Blackwood, 1881) | Theodore Martin | `horace-martin-works-1881-v2` | have-raw (IA `worksofhorace02horauoft`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 

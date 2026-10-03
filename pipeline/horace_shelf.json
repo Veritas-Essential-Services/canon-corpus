@@ -64,6 +64,16 @@
    "Horace, The Odes and Epodes, with an English translation (Loeb Classical Library; 1914 translation, Latin facing; this scan is a later impression, see _rights_checked)",
    "2015.98705.Horace-The-Odes-And-Epodes_djvu.txt",
    "tr. C. E. Bennett"
+  ],
+  "horace-martin-works-1881-v1": [
+   "worksofhorace01horauoft",
+   "The Works of Horace, translated into English verse, with a life and notes, vol. I: Life, Odes (Blackwood, MDCCCLXXXI)",
+   "tr. Theodore Martin"
+  ],
+  "horace-martin-works-1881-v2": [
+   "worksofhorace02horauoft",
+   "The Works of Horace, translated into English verse, vol. II: Epodes, Secular Hymn, Satires, Epistles (Blackwood, 1881)",
+   "tr. Theodore Martin"
   ]
  },
  "_cross_ref": {
@@ -88,7 +98,9 @@
   "horace-lonsdale-lee-1874": "James Lonsdale",
   "horace-lytton-1869": "Lord Lytton",
   "horace-gladstone-1894": "W. E. Gladstone",
-  "horace-bennett-loeb-odes": "Bennett"
+  "horace-bennett-loeb-odes": "Bennett",
+  "horace-martin-works-1881-v1": "Theodore Martin",
+  "horace-martin-works-1881-v2": "Theodore Martin"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -229,6 +241,32 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "Title page read: Bennett's Loeb Odes and Epodes, Harvard/Heinemann; the date OCRs as '1912' (the translation was first published 1914). The half-title lists later series editors (L. A. Post, E. H. Warmington), so the scan is a later impression; it carries no revision notice and its bibliography ends in 1912. Bennett died in 1921. Taken as the 1914 text, US public domain."
+  },
+  "horace-martin-works-1881-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "Theodore Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-martin-works-1881-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "Theodore Martin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_held": {
