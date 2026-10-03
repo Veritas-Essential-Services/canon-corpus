@@ -2391,12 +2391,13 @@ Shelf: `pipeline/celsus_shelf.json`. Greive, 1814 edition (Gutenberg).
 
 ## Cato and Varro
 
-Shelf: `pipeline/roman-farming_shelf.json`. Harrison, Roman Farm Management 1918 (Gutenberg); Columella, 1745 (IA, translator unnamed).
+Shelf: `pipeline/roman-farming_shelf.json`. Harrison, Roman Farm Management 1918 (Gutenberg); Columella, 1745 (IA, translator unnamed); Palladius in Middle English verse, c. 1420 (EETS, 1873).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Roman Farm Management: The Treatises of Cato and Varro | Fairfax Harrison | `cato-varro-harrison` | have (PG 12140) |
 | L. Junius Moderatus Columella Of Husbandry, in twelve books, and his book concerning trees (London: A. Millar, 1745) | unnamed (not on the title page) | `columella-1745` | have-raw (IA `ljuniusmoderatus00colu`) |
+| Palladius on Husbondrie, from the unique MS. of about 1420 (EETS o.s. 52, 1873), ed. Barton Lodge | anonymous Middle English verse translator (c. 1420) | `palladius-husbondrie-1873` | have-raw (IA `palladiusonhusbo00palluoft`) |
 
 ## Phaedrus
 
@@ -2534,6 +2535,43 @@ Shelf: `pipeline/vegetius_shelf.json`. Clarke's 1767 translation of the Epitoma 
 | Military Institutions of Vegetius, in five books, translated from the original Latin, with a preface and notes (London, 1767) | John Clarke | `vegetius-clarke-1767` | have-raw (IA `bim_eighteenth-century_de-re-militari-english_vegetius-renatus-flaviu_1767`) |
 
 Pending (wishlist): Milner's 1993 translation is in copyright, so it is not wanted.
+
+## Propertius
+
+Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the scan is the 1929 reprint) and Gantillon's Bohn prose (1895 reprint). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Propertius, with an English translation (Loeb, 1912; 1929 reprint) | H. E. Butler | `propertius-butler-loeb` | have-raw (IA `propertiuswithen00propuoft`) |
+| The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint) | P. J. F. Gantillon (select elegies in verse by Nott and Elton) | `propertius-gantillon-bohn` | have-raw (IA `elegiesofpropert00propiala`) |
+
+Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
+
+## Zosimus
+
+Shelf: `pipeline/zosimus_shelf.json`. The anonymous 1814 London translation of the New History. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Count Zosimus, translated from the original Greek (London: J. Davis, 1814) | unnamed (not on the title page) | `zosimus-1814` | have-raw (IA `historyofcountzo00zosiuoft`) |
+
+## Herodian
+
+Shelf: `pipeline/herodian_shelf.json`. The 1629 English Herodian (attributed to James Maxwell; not named in the scan). EEBO OCR, noisy. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Herodian of Alexandria his History of Twenty Roman Caesars and Emperors, interpreted out of the Greek original (London, 1629) | attributed to James Maxwell (not named in the scan) | `herodian-1629` | have-raw (IA `bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1629`) |
+
+Pending (wishlist): A cleaner eighteenth-century translation, if a scan turns up. The 1635 reissue (IA bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1635) is the same translation and was not added.
+
+## Polyaenus
+
+Shelf: `pipeline/polyaenus_shelf.json`. Shepherd's Stratagems of War (1793). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Polyaenus's Stratagems of War, translated from the original Greek (London: George Nicol, 1793) | R. Shepherd | `polyaenus-shepherd-1793` | have-raw (IA `bim_eighteenth-century_polynuss-stratagems-of_polyaenus-of-lampsacus_1793`) |
 
 ## Perseus census (overflow)
 
