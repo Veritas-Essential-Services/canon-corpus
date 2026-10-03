@@ -105,6 +105,11 @@
    "dipuskingthebes00sophgoog",
    "Oedipus, King of Thebes, translated from the Oedipus Tyrannus of Sophocles (Oxford and London: John Henry Parker, 1849)",
    "tr. Sir Francis Hastings Doyle"
+  ],
+  "sophocles-mongan-oedipus-tyrannus-1865": [
+   "sophoclesdipust00sophgoog",
+   "Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865)",
+   "tr. Roscoe Mongan"
   ]
  },
  "_cross_ref": {
@@ -142,6 +147,7 @@
   "sophocles-morshead-ajax-1895": "Morshead",
   "sophocles-coleridge-prose-1905": "edward p. coleridge",
   "sophocles-young-dramas-1888": "george young",
+  "sophocles-mongan-oedipus-tyrannus-1865": "roscoe mongan",
   "sophocles-doyle-oedipus-1849": "francis hastings doyle"
  },
  "_checks": {
@@ -383,6 +389,20 @@
    "identity": "ok",
    "ia_rights": "ok: published 1849",
    "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-mongan-oedipus-tyrannus-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "roscoe mongan",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
