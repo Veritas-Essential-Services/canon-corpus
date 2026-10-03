@@ -1,0 +1,30 @@
+{
+ "_about": "Thomas Hughes's Tom Brown's School Days, the Rugby school story (from the 1905 Thomas Nelson and Sons edition). Gutenberg's other text (PG 32224, the 1880 sixth edition, signed 'An Old Boy' on its title page) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Thomas Hughes",
+ "_name_words": [
+  "hughes"
+ ],
+ "_surname": [
+  "thomas hughes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hughes-tom-browns-school-days": [
+   1480,
+   "Tom Brown's School Days"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hughes-tom-browns-school-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
