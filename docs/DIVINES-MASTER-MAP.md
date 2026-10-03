@@ -5483,6 +5483,14 @@ Shelf: `pipeline/garis_shelf.json` (2026-10-02; added at the coordinator's relay
 | garis-series-fiction | excluded | Dick Hamilton, the Curlytops, Larry Dexter, Rick and Ruddy, Teddy, the Smith Boys, the Camp Fire Girls and the Daddy books are series fiction, not story-telling; left out of this shelf. |
 | garis-uncle-wiggily-and-old-mother-hubbard | excluded | PG 23213, Uncle Wiggily and Old Mother Hubbard Adventures of the Rabbit Gentleman with the Mother Goose Characters (1922): 97% of its long paragraphs are in Uncle Wiggily and Mother Goose (PG 69458, Fenno 1916), held here. Held once. |
 
+## Annie and Eliza Keary
+
+Shelf: `pipeline/keary_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales from Norse mythology retold for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Heroes of Asgard: Tales from Scandinavian Mythology | have | PG 41283, `keary-heroes-of-asgard` (1075 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

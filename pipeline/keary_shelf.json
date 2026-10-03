@@ -1,0 +1,43 @@
+{
+ "_about": "Annie (1825-1879) and Eliza Keary's The Heroes of Asgard, tales from Norse mythology retold for children. The text is Macmillan's new edition of 1906, reprinted 1909 (title page). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Annie and Eliza Keary",
+ "_name_words": [
+  "keary"
+ ],
+ "_surname": [
+  "keary"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "keary-heroes-of-asgard": [
+   41283,
+   "The Heroes of Asgard: Tales from Scandinavian Mythology",
+   {
+    "levels": [
+     {
+      "re": "(?:CHAPTER [IVX]+|INDEX OF NAMES, WITH MEANINGS)\\.$",
+      "title_next": true
+     },
+     {
+      "re": "PART [IVX]+\\.? [A-Z].*"
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "keary-heroes-of-asgard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "keary",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
