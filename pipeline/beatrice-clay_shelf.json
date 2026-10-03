@@ -1,0 +1,30 @@
+{
+ "_about": "Beatrice E. Clay's Stories from Le Morte D'Arthur and the Mabinogion, retold for young readers (Dent and Dutton, first edition 1920, reprinted 1922 and 1924, per the title page). Her own retelling, not Malory's or Lady Guest's text. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Beatrice E. Clay",
+ "_name_words": [
+  "clay"
+ ],
+ "_surname": [
+  "clay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "beatrice-clay-stories-from-morte-darthur-and-mabinogion": [
+   15551,
+   "Stories from Le Morte D'Arthur and the Mabinogion"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "beatrice-clay-stories-from-morte-darthur-and-mabinogion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
