@@ -153,6 +153,13 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Isaac Barrow | isaac-barrow_shelf.json | none | 9 (Theological Works, ed. Alexander Napier, Cambridge 1859, complete) | none | the Oxford 1830 and Valpy 1830-31 editions; the mathematical works (out of scope) |
 | Henry Martyn | henry-martyn_shelf.json | none | 3 (Journals and Letters, ed. Wilberforce, 1837, 2 vols; Sermons, Boston 1822) | none | Sargent's memoir (by another hand); the 1851 one-volume abridgement; his Urdu and Persian New Testaments (out of scope) |
 
+## Round 9: my picks, also for your veto
+
+Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (Poole, Trapp) and the 18th- and 19th-century evangelicals, British and American, with a few Anglican standards (Pearson, Paley, South, Beveridge). Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.

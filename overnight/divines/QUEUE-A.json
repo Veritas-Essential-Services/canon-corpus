@@ -906,6 +906,104 @@
       "started": "2026-10-03T00:47:55-05:00",
       "finished": "2026-10-03T00:48:58-05:00",
       "notes": "3 IA"
+    },
+    {
+      "id": "matthew-poole",
+      "status": "queued",
+      "scope": "Matthew Poole: Annotations upon the Holy Bible (d. 1679)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "john-trapp",
+      "status": "queued",
+      "scope": "John Trapp: Commentary on the Old and New Testaments (d. 1669)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "james-hervey",
+      "status": "queued",
+      "scope": "James Hervey: Meditations and Contemplations; Theron and Aspasio (d. 1758)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "henry-venn",
+      "status": "queued",
+      "scope": "Henry Venn: The Complete Duty of Man (d. 1797)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "john-fletcher",
+      "status": "queued",
+      "scope": "John Fletcher of Madeley: Works, incl. Checks to Antinomianism (d. 1785)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "robert-hall",
+      "status": "queued",
+      "scope": "Robert Hall of Leicester: Works (d. 1831)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "edward-payson",
+      "status": "queued",
+      "scope": "Edward Payson: Complete Works (d. 1827)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "cotton-mather",
+      "status": "queued",
+      "scope": "Cotton Mather: Magnalia Christi Americana; Bonifacius (d. 1728)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "john-pearson",
+      "status": "queued",
+      "scope": "John Pearson: An Exposition of the Creed (d. 1686)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "william-paley",
+      "status": "queued",
+      "scope": "William Paley: Evidences of Christianity; Natural Theology; Horae Paulinae (d. 1805)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "robert-south",
+      "status": "queued",
+      "scope": "Robert South: Sermons (d. 1716)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "william-beveridge",
+      "status": "queued",
+      "scope": "William Beveridge: Theological Works (d. 1708)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "thomas-scott",
+      "status": "queued",
+      "scope": "Thomas Scott: The Force of Truth; Essays (d. 1821)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "w-g-t-shedd",
+      "status": "queued",
+      "scope": "W. G. T. Shedd: Dogmatic Theology; History of Christian Doctrine (d. 1894)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list."
     }
   ]
 }
