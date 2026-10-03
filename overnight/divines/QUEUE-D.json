@@ -603,7 +603,9 @@
     {
       "id": "lal-behari-day",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: lal-behari-day; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:34-05:00",
+      "notes": "1/1 fetched (Gutenberg 38488), 387 units, 0 ~2 ids."
     },
     {
       "id": "crooke-rouse",

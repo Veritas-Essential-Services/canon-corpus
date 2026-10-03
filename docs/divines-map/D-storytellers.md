@@ -1333,6 +1333,14 @@ Shelf: `pipeline/frere_shelf.json` (2026-10-02; added at the coordinator's relay
 |---|---|---|
 | Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India, collected by Mary Frere from the telling of Anna Liberata de Souza (Philadelphia: Lippincott, 1870 printing) | have | PG 36696, `frere-old-deccan-days` (1120 units) |
 
+## Lal Behari Day
+
+Shelf: `pipeline/lal-behari-day_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Bengali tales in his English. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk-Tales of Bengal (1883) | have | PG 38488, `day-folk-tales-of-bengal` (387 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

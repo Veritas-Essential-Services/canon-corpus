@@ -1,0 +1,21 @@
+{
+ "_about": "Lal Behari Day's (1826-1894) Folk-Tales of Bengal (1883), tales he heard told in Bengal and wrote down in English. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lal Behari Day",
+ "_name_words": [
+  "bengal",
+  "folk",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "day-folk-tales-of-bengal": [
+   38488,
+   "Folk-Tales of Bengal (1883)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
