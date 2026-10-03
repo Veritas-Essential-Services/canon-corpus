@@ -86,7 +86,8 @@ Lane A's `calvin_shelf.json` already holds the Calvin Translation Society set (4
 | Knox's Works, ed. Laing (Wodrow Society vols) | have | `john-knox_shelf.json` |
 | Row, History of the Kirk, ed. Laing (1842) | have-raw | `john-row_shelf.json` |
 | Blair, Life and Autobiography, ed. M'Crie (1848) | have-raw | `robert-blair_shelf.json` |
-| Bruce's Sermons on the Sacrament, tr. Laidlaw (1901); Andrew Melville; Wodrow's Correspondence (3 vols, 1842-43) | pending | not yet searched |
+| Wodrow's Correspondence, ed. Thomas M'Crie (3 vols, 1842-43) | have-raw | `robert-wodrow_shelf.json` |
+| Bruce's Sermons on the Sacrament, tr. Laidlaw (1901); Andrew Melville | pending | not yet searched |
 
 ## Scottish divines: gaps beside lane A's shelves
 
@@ -119,7 +120,9 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819); the Reformation in Italy and in Spain (1842 reprints) | have-raw | `thomas-mccrie_shelf.json` |
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
-| Wodrow's Analecta (Maitland Club, 1842-43); Kirkton's Life of John Welsh | pending | not yet searched |
+| Wodrow's Analecta (Maitland Club, 4 vols, 1842-43) | have-raw | `robert-wodrow_shelf.json` |
+| Wodrow's Collections upon the Lives of the Reformers (Maitland Club, 2 vols, 1834-45) | have-raw | `robert-wodrow_shelf.json`; National Library of Scotland scans, CC BY-NC-SA on the digital copy (noted, not ruled on) |
+| Kirkton's Life of John Welsh | pending | not yet searched |
 
 ## The Westminster Assembly
 
@@ -154,8 +157,7 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 |---|---|---|
 | Foxe, The Acts and Monuments, ed. Cattley, with Townsend's dissertation (8 vols, 1837-1841) | have-raw | `john-foxe_shelf.json`; the full text, not the abridged Book of Martyrs |
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
-| Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 25 volumes |
-| Strype, Life of Sir Thomas Smith (1820) | pending | Internet Archive server error |
+| Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (1821), Sir Thomas Smith (1820) (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 26 volumes |
 
 ## Continental Reformed and the Reformation in Europe
 

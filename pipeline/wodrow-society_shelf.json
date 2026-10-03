@@ -26,10 +26,7 @@
   "miscellanyofwodr01lain, miscellanywodro00laingoog, miscellanywodro0[01]edingoog": "Other scans of the Miscellany.",
   "selectbiographi01twee, selectbiographi02twee, selectbiographi00socigoog": "Other copies of Select Biographies."
  },
- "_pending": {
-  "John Row, History of the Kirk of Scotland (Wodrow Society, 1842)": "Not yet searched.",
-  "Robert Blair's Life; James Melville's other pieces; Spottiswoode's History (Bannatyne/Spottiswoode Society)": "Not yet searched."
- },
+ "_pending": {},
  "_excluded": {},
  "_checks": {
   "wodrow-miscellany-1": {
