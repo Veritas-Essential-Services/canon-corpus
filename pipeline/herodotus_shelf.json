@@ -83,7 +83,7 @@
   "pg2131": "An Account of Egypt: Book II of Macaulay, a duplicate extract",
   "pg55758": "The Boys' and Girls' Herodotus: an adaptation",
   "Henry Cary (Bohn, 1847)": "now held: herodotus-cary",
-  "A. D. Godley, Loeb (1920-25)": "on Perseus, US PD by date; pending"
+  "A. D. Godley, Loeb (1920-25)": "now held from Perseus: herodotus-perseus-godley-histories (Perseus's modernized text, see its rights note)"
  },
  "_surname": [
   "herodotus"
@@ -97,7 +97,8 @@
   "herodotus-cary": "Henry Cary",
   "herodotus-beloe-1821-v1": "William Beloe",
   "herodotus-beloe-1821-v2": "William Beloe",
-  "herodotus-beloe-1821-v3": "William Beloe"
+  "herodotus-beloe-1821-v3": "William Beloe",
+  "herodotus-perseus-godley-histories": "A. D. Godley"
  },
  "_translator_unchecked": {
   "herodotus-littlebury-1737-v1": "translator on the row (Isaac Littlebury) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -255,6 +256,30 @@
    "ia_date": "1821",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  }
+ },
+ "perseus": {
+  "herodotus-perseus-godley-histories": [
+   "tlg0016.tlg001.perseus-eng2",
+   "Histories",
+   "A. D. Godley",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Herodotus. Godley, Alfred Denis, translator. Cambridge, MA; London: Harvard University Press; William Heinemann, Ltd., 1920-1925 (printing). (Modernized by Perseus.) Perseus's header says the text 'was modernized by Steven Ott, to remove archaisms' and revised after review, so this witness is Godley's translation as modernized by Perseus, not as printed."
+  ]
+ },
+ "_perseus_checks": {
+  "herodotus-perseus-godley-histories": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0016.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "A. D. Godley",
+   "author_seen": "herodotus",
+   "source_years": [
+    1920,
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
   }
  }
 }
