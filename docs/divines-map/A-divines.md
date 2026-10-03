@@ -1014,3 +1014,13 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `jbuchanan-*`.
 | The Doctrine of Justification (1867); The Office and Work of the Holy Spirit (1842); Comfort in Affliction (1844); Faith in God and Modern Atheism, 2 vols (1855); Analogy Considered as a Guide to Truth (1864) | have-raw | IA (identifiers in the shelf) |
 | Later and American editions | alternate | IA |
 | Lectures on church establishments (1835); Essays and Reviews articles (1861) | excluded | church politics; attribution not checked |
+
+## William Cunningham (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton and Toronto scans; slugs `wcunningham-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Reformers and the Theology of the Reformation (1862); Historical Theology, 2 vols (1862-63); Discussions on Church Principles (1863), all ed. Buchanan and Bannerman | have-raw | IA (identifiers in the shelf) |
+| Theological Lectures (1878) | have-raw | IA |
+| Works (1870) issue; other scans | alternate | IA |

@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain William Cunningham (1805-1861, Free Church of Scotland, principal of New College, Edinburgh) for the Word Hoard: the posthumous works edited by James Buchanan and James Bannerman (Edinburgh: T. & T. Clark, 1862-63): The Reformers and the Theology of the Reformation, Historical Theology (2 vols), Discussions on Church Principles; and his Theological Lectures (London: Nisbet, 1878), raw Internet Archive OCR from Princeton and Toronto scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "cunningham",
+  "william"
+ ],
+ "_surname": [
+  "cunningham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wcunningham-reformers-1862": [
+   "reformerstheolog00cunn_0",
+   "The Reformers and the Theology of the Reformation (Edinburgh: T. & T. Clark, 1862)"
+  ],
+  "wcunningham-historical-theology-1": [
+   "historicaltheolo00cunnuoft",
+   "Historical Theology, vol. 1 (Edinburgh: T. & T. Clark, 1862)"
+  ],
+  "wcunningham-historical-theology-2": [
+   "historicaltheolo02cunnuoft",
+   "Historical Theology, vol. 2 (Edinburgh: T. & T. Clark, 1863)"
+  ],
+  "wcunningham-church-principles-1863": [
+   "discussionsonchu00cunn",
+   "Discussions on Church Principles: Popish, Erastian, and Presbyterian (Edinburgh: T. & T. Clark, 1863)"
+  ],
+  "wcunningham-theological-lectures-1878": [
+   "theologicallectu00cunn",
+   "Theological Lectures on Natural Theology, Evidences, the Canon and Inspiration of Scripture (London: Nisbet, 1878)"
+  ]
+ },
+ "_alternates": {
+  "reformerstheolog00cunn (1866)": "Later printing of the Reformers.",
+  "historicaltheolo00cunn (1864), historicaltheocun02cunn (1863)": "Other scans of Historical Theology.",
+  "discussionsonchu00cunnuoft, discussionsonch00cunngoog": "Other scans of Church Principles.",
+  "theologicallectu00cunn_0 (New York, 1878)": "American edition of the Lectures.",
+  "worksofc02, 03cunnuoft, workscunn03cunn (Works, 1870)": "A later collected issue of the same books."
+ },
+ "_excluded": {
+  "objectsnaturesta00cunn (1840)": "A single lecture.",
+  "sermons00bruc": "Robert Bruce's sermons, which he edited."
+ },
+ "_checks": {
+  "wcunningham-reformers-1862": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wcunningham-historical-theology-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wcunningham-historical-theology-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wcunningham-church-principles-1863": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wcunningham-theological-lectures-1878": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
