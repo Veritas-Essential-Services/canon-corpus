@@ -1,0 +1,66 @@
+{
+ "_about": "Public-domain George Smeaton (1814-1889, Free Church professor of exegetical theology at New College, Edinburgh) for the Word Hoard: The Doctrine of the Atonement as Taught by Christ Himself (Edinburgh: T. and T. Clark, 1868), The Doctrine of the Atonement as Taught by the Apostles (1870) and The Doctrine of the Holy Spirit (Cunningham Lectures, 1882), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "smeaton",
+  "george"
+ ],
+ "_surname": [
+  "george smeaton",
+  "g. smeaton",
+  "smeaton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smeaton-atonement-christ-1868": [
+   "doctrineofatonem00smeauoft",
+   "The Doctrine of the Atonement as Taught by Christ Himself (Edinburgh: T. and T. Clark, 1868)"
+  ],
+  "smeaton-atonement-apostles-1870": [
+   "doctrineofatonem00smea",
+   "The Doctrine of the Atonement as Taught by the Apostles (Edinburgh: T. and T. Clark, 1870)"
+  ],
+  "smeaton-holy-spirit-1882": [
+   "thedoctrineofthe00smeauoft",
+   "The Doctrine of the Holy Spirit (Edinburgh: T. and T. Clark, 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "smeaton-atonement-christ-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george smeaton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smeaton-atonement-apostles-1870": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george smeaton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smeaton-holy-spirit-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george smeaton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

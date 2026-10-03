@@ -509,3 +509,6 @@
 
 ## 2026-10-03 02:42 CDT — hugh-martin done
 - `pipeline/hugh-martin_shelf.json`: 4 IA volumes of raw OCR, median 98.5%. Jonah names him only as "Dr. Huofh Martin" in the publisher's note and "H. M." under the preface, recorded in `_identity_checked`; it needed retries past HTTP 500. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — george-smeaton done
+- `pipeline/george-smeaton_shelf.json`: 3 IA volumes of raw OCR, median 98.5%, about 3.5 MB; title pages read (1868, 1870, 1882). `--verify --record`: 0 mismatched. 0 uids minted.

@@ -1811,3 +1811,14 @@ Slugs `hmartin-*`.
 | The Prophet Jonah (Gemmell, 1889 reissue; preface 1866) | have-raw | IA |
 | The Westminster Doctrine of the Inspiration of Scripture (Nisbet, 1890) | have-raw | IA |
 | Letters to Marcus Dods (Nisbet, 1877) | have-raw | IA |
+
+
+## George Smeaton (round 11, my pick, 2026-10-03)
+
+Slugs `smeaton-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Doctrine of the Atonement as Taught by Christ Himself (T. and T. Clark, 1868) | have-raw | IA (identifiers in the shelf) |
+| The Doctrine of the Atonement as Taught by the Apostles (T. and T. Clark, 1870) | have-raw | IA |
+| The Doctrine of the Holy Spirit (T. and T. Clark, 1882) | have-raw | IA |
