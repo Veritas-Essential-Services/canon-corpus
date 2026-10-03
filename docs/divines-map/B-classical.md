@@ -429,6 +429,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Ajax of Sophocles (George Allen and Unwin, first published 1919) | R. C. Trevelyan | `sophocles-trevelyan-ajax-1919` | have-raw (IA `cu31924026593446`) |
 | Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892]) | F. G. Plaistowe | `sophocles-plaistowe-philoctetes` | have-raw (IA `sophoclesphiloct00soph`) |
 | The Tragedies of Sophocles in English prose: the Oxford translation, new edition revised according to the text of Dindorf (New York: Harper, 1886) | unnamed (the Oxford translation; IA catalogue: T. A. Buckley) | `sophocles-oxford-prose-1886` | have-raw (IA `tragediesofsopho00sophrich`) |
+| The Ajax of Sophocles translated into English prose (London, 1895) | E. D. A. Morshead | `sophocles-morshead-ajax-1895` | have-raw (IA `ajaxofsophocles00sophrich`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
