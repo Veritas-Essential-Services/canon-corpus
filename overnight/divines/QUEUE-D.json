@@ -1777,8 +1777,10 @@
     {
       "id": "mark-twain",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: mark-twain; no minting",
-      "status": "running",
-      "started": "2026-10-03T06:23:29-05:00"
+      "status": "done",
+      "started": "2026-10-03T06:23:29-05:00",
+      "finished": "2026-10-03T06:38:03-05:00",
+      "notes": "5/5 fetched (Gutenberg 74, 76, 1837, 91, 93), 7,094 units, 0 ~2 ids."
     },
     {
       "id": "aldrich",

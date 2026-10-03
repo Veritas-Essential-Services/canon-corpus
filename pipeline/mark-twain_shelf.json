@@ -1,0 +1,128 @@
+{
+ "_about": "Mark Twain's books for young readers: The Adventures of Tom Sawyer (Hartford, 1876), Adventures of Huckleberry Finn, The Prince and the Pauper, Tom Sawyer Abroad and Tom Sawyer, Detective. Huckleberry Finn prints racial slurs in its characters' speech; it is kept as printed. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mark Twain",
+ "_name_words": [
+  "twain"
+ ],
+ "_surname": [
+  "mark twain"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "twain-tom-sawyer": [
+   74,
+   "The Adventures of Tom Sawyer",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?( .*)?$|PREFACE$|NOTICE\\.$|EXPLANATORY$|CONCLUSION$|CHAPTER THE LAST\\.?( .*)?$|FOOTNOTES AND TWAIN’S NOTES$",
+      "max": 200
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ],
+  "twain-huckleberry-finn": [
+   76,
+   "Adventures of Huckleberry Finn",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?( .*)?$|PREFACE$|NOTICE\\.$|EXPLANATORY$|CONCLUSION$|CHAPTER THE LAST\\.?( .*)?$|FOOTNOTES AND TWAIN’S NOTES$",
+      "max": 200
+     }
+    ],
+    "start": "NOTICE\\.$",
+    "front": true
+   }
+  ],
+  "twain-prince-and-the-pauper": [
+   1837,
+   "The Prince and the Pauper",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?( .*)?$|PREFACE$|NOTICE\\.$|EXPLANATORY$|CONCLUSION$|CHAPTER THE LAST\\.?( .*)?$|FOOTNOTES AND TWAIN’S NOTES$",
+      "max": 200
+     }
+    ],
+    "start": "CHAPTER I\\. The birth",
+    "front": true
+   }
+  ],
+  "twain-tom-sawyer-abroad": [
+   91,
+   "Tom Sawyer Abroad",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?( .*)?$|PREFACE$|NOTICE\\.$|EXPLANATORY$|CONCLUSION$|CHAPTER THE LAST\\.?( .*)?$|FOOTNOTES AND TWAIN’S NOTES$",
+      "max": 200
+     }
+    ]
+   }
+  ],
+  "twain-tom-sawyer-detective": [
+   93,
+   "Tom Sawyer, Detective",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?( .*)?$|PREFACE$|NOTICE\\.$|EXPLANATORY$|CONCLUSION$|CHAPTER THE LAST\\.?( .*)?$|FOOTNOTES AND TWAIN’S NOTES$",
+      "max": 200
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "twain-tom-sawyer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-huckleberry-finn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-prince-and-the-pauper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-tom-sawyer-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-tom-sawyer-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

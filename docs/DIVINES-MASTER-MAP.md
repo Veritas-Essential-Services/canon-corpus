@@ -7900,6 +7900,18 @@ Shelf: `pipeline/martha-finley_shelf.json` (2026-10-02; added at the coordinator
 | Holidays at Roselands | have | PG 14280, `finley-holidays-at-roselands` (2413 units) |
 | Elsie's Girlhood | have | PG 9963, `finley-elsies-girlhood` (2668 units) |
 
+## Mark Twain
+
+Shelf: `pipeline/mark-twain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Five books for young readers; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adventures of Tom Sawyer | have | PG 74, `twain-tom-sawyer` (2065 units) |
+| Adventures of Huckleberry Finn | have | PG 76, `twain-huckleberry-finn` (2230 units) |
+| The Prince and the Pauper | have | PG 1837, `twain-prince-and-the-pauper` (1603 units) |
+| Tom Sawyer Abroad | have | PG 91, `twain-tom-sawyer-abroad` (705 units) |
+| Tom Sawyer, Detective | have | PG 93, `twain-tom-sawyer-detective` (491 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
