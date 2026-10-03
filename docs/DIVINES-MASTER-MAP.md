@@ -4720,6 +4720,16 @@ Shelf: `pipeline/rolleston_shelf.json` (2026-10-02; added at the coordinator's r
 | rolleston-epictetus | excluded | The Teaching of Epictetus (PG 39855): on Lane B's epictetus_shelf.json |
 | rolleston-other | excluded | Sea Spray, Parallel Paths, Ireland and Poland, his Thomas Davis selection: verse and essays |
 
+## Eleanor Hull
+
+Shelf: `pipeline/hull_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish legend and Norse-British saga history retold. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cuchulain, the Hound of Ulster | have | PG 52963, `hull-cuchulain-hound-of-ulster` (845 units) |
+| The Northmen in Britain | have | PG 69131, `hull-northmen-in-britain` (1014 units) |
+| hull-poem-book | excluded | The Poem-Book of the Gael (PG 46917): an anthology of other hands' translations |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

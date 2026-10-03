@@ -1,0 +1,31 @@
+{
+ "_about": "Eleanor Hull's (1860-1935) retellings of Irish legend: Cuchulain, the Hound of Ulster, and The Northmen in Britain. Clean Gutenberg text; Gutenberg cleared these as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Eleanor Hull",
+ "_name_words": [
+  "cuchulain",
+  "hound",
+  "ulster",
+  "northmen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hull-cuchulain-hound-of-ulster": [
+   52963,
+   "Cuchulain, the Hound of Ulster",
+   {
+    "contents_only": true
+   }
+  ],
+  "hull-northmen-in-britain": [
+   69131,
+   "The Northmen in Britain",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "hull-poem-book": "The Poem-Book of the Gael (PG 46917): an anthology of other hands' translations"
+ }
+}

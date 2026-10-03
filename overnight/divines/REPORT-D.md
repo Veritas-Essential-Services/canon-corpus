@@ -375,3 +375,6 @@
 
 ## 2026-10-02 20:10 CDT — rolleston: done
 - 2/2 fetched (Gutenberg 14749, 34081), 3,450 units, 0 ~2 ids.
+
+## 2026-10-02 20:10 CDT — hull: done
+- 2/2 fetched (Gutenberg 52963, 69131), 1,859 units, 1 ~2 ids.
