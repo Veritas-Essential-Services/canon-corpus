@@ -1325,6 +1325,14 @@ Shelf: `pipeline/petrovitch_shelf.json` (2026-10-02; added at the coordinator's 
 |---|---|---|
 | Hero Tales and Legends of the Serbians | have | PG 38571, `petrovitch-hero-tales-serbians` (2057 units) |
 
+## Mary Frere
+
+Shelf: `pipeline/frere_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Deccan tales as told by Anna Liberata de Souza, cut by the book's Contents. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India, collected by Mary Frere from the telling of Anna Liberata de Souza (Philadelphia: Lippincott, 1870 printing) | have | PG 36696, `frere-old-deccan-days` (1120 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

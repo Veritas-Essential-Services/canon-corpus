@@ -1,0 +1,22 @@
+{
+ "_about": "Mary Frere's (1845-1911) Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India (first published 1868; the Gutenberg text is the Lippincott printing of 1870), tales told to her by her ayah Anna Liberata de Souza, whose own account opens the book. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mary Frere",
+ "_name_words": [
+  "deccan",
+  "days",
+  "hindoo",
+  "fairy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "frere-old-deccan-days": [
+   36696,
+   "Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India, collected by Mary Frere from the telling of Anna Liberata de Souza (Philadelphia: Lippincott, 1870 printing)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

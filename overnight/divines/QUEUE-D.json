@@ -596,7 +596,9 @@
     {
       "id": "frere",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: frere; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:32-05:00",
+      "notes": "1/1 fetched (Gutenberg 36696), 1,120 units, 0 ~2 ids."
     },
     {
       "id": "lal-behari-day",
