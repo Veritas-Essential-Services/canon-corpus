@@ -113,7 +113,7 @@ Lane A already holds Boston's Complete Works (`boston_shelf.json`), Ebenezer and
 | Alexander Henderson, Sermons, Prayers and Pulpit Addresses, ed. Martin (1867) | have-raw | `alexander-henderson_shelf.json` |
 | Alexander Shields, A Hind Let Loose (Glasgow, 1797) | have | `alexander-shields_shelf.json`, Gutenberg transcription |
 | Willison, Practical Works, with Hetherington's essay (Blackie, undated) | have-raw | `willison_shelf.json` |
-| Witherspoon, Works (Edinburgh, 1804-05, 9 vols) | have-raw | `witherspoon_shelf.json`; vol. VIII pending on an archive server error |
+| Witherspoon, Works (Edinburgh, 1804-05, 9 vols) | have-raw | `witherspoon_shelf.json` |
 
 ## Scottish church histories
 

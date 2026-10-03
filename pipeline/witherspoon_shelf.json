@@ -37,6 +37,10 @@
    "workjohnwi07with",
    "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. VII"
   ],
+  "witherspoon-works-8": [
+   "workjohnwi08with",
+   "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. VIII"
+  ],
   "witherspoon-works-9": [
    "workjohnwi09with",
    "The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. IX"
@@ -44,9 +48,6 @@
  },
  "_alternates": {
   "worksofrevjohnwi001..003with, worksofrevjohnwi01/02/03inwith, worksofrevjohnw01/02with, worksofrevjohnwi03with, worksrevjohnwit00..05rodggoog (Philadelphia: Woodward, 1800-1802, 4 vols)": "The first collected edition."
- },
- "_pending": {
-  "workjohnwi08with (The Works of John Witherspoon (Edinburgh: Ogle & Aikman, 1804-1805), vol. VIII)": "Internet Archive returned HTTP 500 for its text file on 2026-10-03; restore it to internet_archive as witherspoon-works-8 and refetch."
  },
  "_excluded": {},
  "_checks": {
@@ -117,6 +118,17 @@
    "ia_lending": null
   },
   "witherspoon-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witherspoon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witherspoon-works-8": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
