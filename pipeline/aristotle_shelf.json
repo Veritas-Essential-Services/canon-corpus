@@ -143,6 +143,11 @@
    "nicomacheanet00aris",
    "The Nicomachean Ethics of Aristotle (London: Longmans, Green, 1869)",
    "tr. Robert Williams"
+  ],
+  "aristotle-taylor-rhetoric-poetic-ethics-1818": [
+   "rhetoricpoetica00taylgoog",
+   "The Rhetoric, Poetic, and Nicomachean Ethics of Aristotle, vol. II (London, 1818)",
+   "tr. Thomas Taylor"
   ]
  },
  "_excluded": {
@@ -175,7 +180,8 @@
   "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham",
   "aristotle-mcmahon-metaphysics-1857": "M'Mahon",
   "aristotle-walford-politics-economics-1853": "Edward Walford",
-  "aristotle-williams-ethics-1869": "Williams"
+  "aristotle-williams-ethics-1869": "Williams",
+  "aristotle-taylor-rhetoric-poetic-ethics-1818": "Taylor"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -547,6 +553,19 @@
    "ia_rights": "ok: published 1869",
    "ia_date": "1869",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-taylor-rhetoric-poetic-ethics-1818": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
