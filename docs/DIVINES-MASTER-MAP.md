@@ -1661,6 +1661,19 @@ Slugs `mstuart-*`. Romans and Hebrews keep their Greek in the text layer; the ot
 | A Commentary on the Book of Proverbs (Dodd, 1852) | have-raw | IA |
 | A Letter to William E. Channing on Religious Liberty (1830) | have-raw | IA |
 | A Grammar of the New Testament Dialect (1841) | excluded | its OCR carries no Greek |
+
+
+## Increase Mather (round 11, my pick, 2026-10-03)
+
+Slugs `imather-*`. 19th-century editions only; Drake's 1862-64 editions keep the long s, which the OCR reads as f.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarkable Providences, ed. Offor (London: J. R. Smith, 1856) | have-raw | IA (identifiers in the shelf) |
+| Early History of New England, ed. Drake (Munsell, 1864) | have-raw | IA |
+| The History of King Philip's War, ed. Drake (Boston, 1862) | have-raw | IA |
+| Diary, 1675-76, ed. S. A. Green (Cambridge, 1900) | have-raw | IA |
+| Cases of Conscience concerning Witchcrafts (in the 1862 Wonders volume) | held back | same footing as Cotton Mather's Wonders |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

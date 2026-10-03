@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:09 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:14 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -194,6 +194,14 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 | J. A. Alexander | j-a-alexander_shelf.json | none | 12 (the critical Isaiah, 1846-47, 2 vols; Psalms, 1850, 3 vols; Acts, 1857, 2 vols; Mark, 1858; Matthew, 1861; Notes on NT Literature, 1861; Sermons, 1860, 2 vols) | Essays on the Primitive Church Offices (1851): the only copy tried never names him | modern Kregel, Zondervan and Banner of Truth reprints |
 | Albert Barnes | albert-barnes_shelf.json | 1 (New Testament Notes, complete; CCEL keyed it from the Baker 1949 reprint) | 16 (OT Notes on Job, Isaiah, Daniel and Psalms; Scriptural Views of Slavery, 1846; Evidences of Christianity, 1868; Essays, 1855; Manual of Prayer; How Shall Man Be Just; Apostolic Church; Life at Threescore and Ten) | none | CCEL's per-book OT Notes, which offer no full text file |
 | Moses Stuart | moses-stuart_shelf.json | none | 8 (Romans, 1832; Hebrews, 1833; Apocalypse, 1845, 2 vols; Daniel, 1850; Ecclesiastes, 1851; Proverbs, 1852; Letter to Channing, 1830) | none | his Hebrew grammars and the NT Grammar, whose OCR dropped the Hebrew or Greek they teach |
+
+## Round 11: my picks, also for your veto
+
+Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Puritans in 19th-century editions, later Anglican divines, Scots Free Church theologians and American Presbyterians. Nobody chose these but the worker: drop any you do not want. Thomas Hooker of Hartford was tried and dropped: IA has only his 1638-48 first printings, read at 78% OCR or refused.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| Increase Mather | increase-mather_shelf.json | none | 4 (Remarkable Providences, 1856; Early History of New England, 1864; King Philip's War, 1862; Diary 1675-76, 1900) | none | Cases of Conscience concerning Witchcrafts, held back with Cotton Mather's Wonders (your veto point); 1680s-1700s printings |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

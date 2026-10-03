@@ -1180,6 +1180,136 @@
       "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
       "finished": "2026-10-03T02:09:55-05:00",
       "notes": "8 IA volumes; NT Grammar excluded (no Greek)"
+    },
+    {
+      "id": "thomas-hooker",
+      "status": "skipped",
+      "scope": "Thomas Hooker of Hartford: The Soul's Preparation, The Application of Redemption (d. 1647)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:12:15-05:00",
+      "notes": "not shelved: IA holds only the 1638-48 first printings and 1956-82 facsimiles; the one 1648 copy that passed read at 77.7% OCR and the other three never name him in their text layer. Retry if a 19th-century edition or a clean transcription turns up."
+    },
+    {
+      "id": "john-cotton",
+      "status": "queued",
+      "scope": "John Cotton of Boston: The Way of Life, Christ the Fountain of Life, Milk for Babes (d. 1652)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "increase-mather",
+      "status": "done",
+      "scope": "Increase Mather: Cases of Conscience, sermons (d. 1723)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:14:46-05:00",
+      "notes": "4 IA volumes (19th-c. editions)"
+    },
+    {
+      "id": "samuel-willard",
+      "status": "queued",
+      "scope": "Samuel Willard: A Compleat Body of Divinity (1726) (d. 1707)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "solomon-stoddard",
+      "status": "queued",
+      "scope": "Solomon Stoddard: A Guide to Christ, The Safety of Appearing (d. 1729)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "thomas-wilson",
+      "status": "queued",
+      "scope": "Bishop Thomas Wilson of Sodor and Man: Sacra Privata, Maxims, sermons (d. 1755)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "daniel-waterland",
+      "status": "queued",
+      "scope": "Daniel Waterland: works on the Trinity and the Eucharist (d. 1740)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "john-tillotson",
+      "status": "queued",
+      "scope": "John Tillotson: sermons (d. 1694)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "william-wilberforce",
+      "status": "queued",
+      "scope": "William Wilberforce: A Practical View of the Prevailing Religious System (1797) (d. 1833)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "j-w-alexander",
+      "status": "queued",
+      "scope": "James W. Alexander: Thoughts on Preaching, Consolation, sermons (d. 1859)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "samuel-miller",
+      "status": "queued",
+      "scope": "Samuel Miller: Letters on Clerical Manners, The Ruling Elder (d. 1850)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "gardiner-spring",
+      "status": "queued",
+      "scope": "Gardiner Spring: Essays on the Distinguishing Traits of Christian Character (d. 1873)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "ichabod-spencer",
+      "status": "queued",
+      "scope": "Ichabod Spencer: A Pastor's Sketches (d. 1854)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "robert-candlish",
+      "status": "queued",
+      "scope": "Robert S. Candlish: The Fatherhood of God, Genesis lectures (d. 1873)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "hugh-martin",
+      "status": "queued",
+      "scope": "Hugh Martin: The Atonement, The Shadow of Calvary, Jonah (d. 1885)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "george-smeaton",
+      "status": "queued",
+      "scope": "George Smeaton: The Doctrine of the Atonement, The Holy Spirit (d. 1889)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "john-kennedy-dingwall",
+      "status": "queued",
+      "scope": "John Kennedy of Dingwall: The Days of the Fathers in Ross-shire (d. 1884)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+    },
+    {
+      "id": "thomas-mccrie",
+      "status": "queued",
+      "scope": "Thomas M'Crie the elder: Life of Andrew Melville, sermons (d. 1835); NOT his Life of Knox, which the Reformers/Knox thread owns",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
     }
   ]
 }

@@ -460,3 +460,7 @@
 
 ## 2026-10-03 02:09 CDT — moses-stuart done
 - `pipeline/moses-stuart_shelf.json`: 8 IA volumes of raw OCR, median 96.6% (94.9-98.0%), about 11 MB; title pages read (1830-1852). Romans and Hebrews keep their Greek (55,170 and 78,809 Greek characters). I fetched the NT Grammar (1841), found 0 Greek characters and 84.5% OCR, and excluded it, as I did the Hebrew grammars. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:14 CDT — increase-mather done
+- `pipeline/increase-mather_shelf.json`: 4 IA volumes of raw OCR, median 86.9% (84.0-95.3%; Drake's editions reprint the long s, which the OCR reads as f), about 2 MB; title pages read (1856-1900). Cases of Conscience is held back with Cotton Mather's Wonders. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+- Round 11 opened at 02:12 CDT with 18 picks in QUEUE-A. thomas-hooker was skipped: IA has only the 1638-48 first printings and modern facsimiles, the one copy that passed read at 77.7% OCR, and three never name him.
