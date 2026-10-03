@@ -1985,6 +1985,8 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | Aristophanes: a Metrical Version of the Acharnians, the Knights and the Birds (Morley's Universal Library; 2nd ed., Routledge, 1887) | John Hookham Frere | `aristophanes-frere-morley` | have-raw (IA `aristophanesmetr00arisiala`) |
 | The Comedies of Aristophanes, a new and literal translation, vol. I: Acharnians, Knights, Clouds, Wasps, Peace, Birds (Bohn; London: George Bell, 1887) | William James Hickie | `aristophanes-hickie-1887-v1` | have-raw (IA `comediesofaristo0001will`) |
 | The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822) | Thomas Mitchell | `aristophanes-mitchell-1822-v2` | have-raw (IA `comediesaristop00mitcgoog`) |
+| The Comedies of Aristophanes, translated into familiar blank verse, vol. I (Oxford: D. A. Talboys; IA records 1837) | C. A. Wheelwright | `aristophanes-wheelwright-1837-v1` | have-raw (IA `comediesaristop01arisgoog`) |
+| The Comedies of Aristophanes, translated into familiar blank verse, vol. II (Oxford: D. A. Talboys; IA records 1837) | C. A. Wheelwright | `aristophanes-wheelwright-1837-v2` | have-raw (IA `comediesofaristo02aris`) |
 
 Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (no IA text file) and Mitchell's vol. I (1820; no scan found).
 
@@ -2876,6 +2878,7 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749) | Gilbert West (verse; selected odes) | `pindar-west-1749` | have-raw (IA `bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749`) |
 | The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
 | The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868) | F. A. Paley | `pindar-paley-1868` | have-raw (IA `bub_gb_z9lUAAAAcAAJ`) |
+| Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830) | C. A. Wheelwright | `pindar-wheelwright-1830` | have-raw (IA `pindartrbycawhe00pindgoog`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 

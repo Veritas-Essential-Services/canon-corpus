@@ -331,3 +331,10 @@
 - Isaeus: Forster's Loeb (1927), twelve speeches; Perseus keyed the 1962 printing, reason in _rights_checked
 - Xenophon: Miller's Cyropaedia (Loeb 1914); the census's '1949' is Miller's death year
 - The census is now exhausted for lane B: what remains is post-1930 Loebs (Murray's and Vince's later Demosthenes, Harmon's and Babbitt's later volumes), modern translations (Svarlien's Pindar and Bacchylides), or other lanes' authors
+
+## 2026-10-03 01:45 CDT — Lucan (Ridley), Statius (Lewis), Aristophanes (Wheelwright), Pindar (Cary, Wheelwright), Herodotus (Littlebury)
+- Lucan: Ridley's blank-verse Pharsalia, first edition (Longmans, 1896) and his revised second edition (1905)
+- Statius: William Lillington Lewis's verse Thebaid, both volumes of the Becket second edition (IA dates them 1767 and 1773; the vol. I imprint year OCRs garbled)
+- Aristophanes: C. A. Wheelwright's complete Comedies in blank verse, 2 vols (Oxford, Talboys; IA 1837)
+- Pindar: Henry Francis Cary's Pindar in English Verse (Moxon; IA 1833) and Wheelwright's Pindar (Valpy, 1830)
+- Herodotus: Isaac Littlebury's translation, third edition, 2 vols (1737)
