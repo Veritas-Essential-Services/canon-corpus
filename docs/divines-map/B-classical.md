@@ -2071,6 +2071,17 @@ Shelf: `pipeline/vegetius_shelf.json`. Clarke's 1767 translation of the Epitoma 
 
 Pending (wishlist): Milner's 1993 translation is in copyright, so it is not wanted.
 
+## Valerius Flaccus
+
+Shelf: `pipeline/valerius-flaccus_shelf.json`. Book I of the Argonautica in two English versions; no complete PD English translation is known. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The First Book of the Argonautica of C. Valerius Flaccus Setinus Balbus, in English verse (London; catalogue date [1808]) | anonymous (catalogue attribution: T. Noble) | `valerius-flaccus-anon-1808-book1` | have-raw (IA `firstbookofargon00flacrich`) |
+| The Argonautica of Gaius Valerius Flaccus Setinus Balbus, Book I, translated into English prose with introduction and notes (Oxford: B. H. Blackwell, 1916) | H. G. Blomfield | `valerius-flaccus-blomfield-1916-book1` | have-raw (IA `argonauticabook100valeuoft`) |
+
+Pending (wishlist): Mozley's Loeb (1934) is after the 1930 line, so it is not wanted yet.
+
 ## Propertius
 
 Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the scan is the 1929 reprint) and Gantillon's Bohn prose (1895 reprint). Not minted.
