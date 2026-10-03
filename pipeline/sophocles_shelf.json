@@ -80,6 +80,11 @@
    "sophoclesphiloct00soph",
    "Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892])",
    "tr. F. G. Plaistowe"
+  ],
+  "sophocles-oxford-prose-1886": [
+   "tragediesofsopho00sophrich",
+   "The Tragedies of Sophocles in English prose: the Oxford translation, new edition revised according to the text of Dindorf (New York: Harper, 1886)",
+   "tr. unnamed (the Oxford translation; IA catalogue: T. A. Buckley)"
   ]
  },
  "_cross_ref": {
@@ -293,7 +298,20 @@
    "ia_date": "1892",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sophocles-oxford-prose-1886": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
- "_translator_unchecked": {}
+ "_translator_unchecked": {
+  "sophocles-oxford-prose-1886": "the title page reads 'The Oxford Translation, new edition, revised according to the text of Dindorf' and names no translator; T. A. Buckley is the IA catalogue's attribution only"
+ }
 }
