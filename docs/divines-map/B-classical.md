@@ -308,6 +308,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | Homer and the Iliad, vol. II: The Iliad in English verse, Books I-XII (Edinburgh: Edmonston and Douglas, 1866) | John Stuart Blackie | `homer-blackie-iliad-1866-v2` | have-raw (IA `homeriliad02homeuoft`) |
 | Homer and the Iliad, vol. III: The Iliad in English verse, Books XIII-XXIV (Edinburgh: Edmonston and Douglas, 1866) | John Stuart Blackie | `homer-blackie-iliad-1866-v3` | have-raw (IA `homeriliad33homeuoft`) |
 | The Iliad of Homer, homometrically translated (London, 1877) | C. B. Cayley | `homer-cayley-iliad-1877` | have-raw (IA `iliadhomer02caylgoog`) |
+| Homer's Iliad in English rhymed verse, 2 vols. in one file (London, 1869) | Charles Merivale | `homer-merivale-iliad-1869` | have-raw (IA `homersiliadineng00home`) |
 
 Pending (wishlist): none known beyond the rows above.
 

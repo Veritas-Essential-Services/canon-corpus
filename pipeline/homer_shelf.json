@@ -188,6 +188,11 @@
    "iliadhomer02caylgoog",
    "The Iliad of Homer, homometrically translated (London, 1877)",
    "tr. C. B. Cayley"
+  ],
+  "homer-merivale-iliad-1869": [
+   "homersiliadineng00home",
+   "Homer's Iliad in English rhymed verse, 2 vols. in one file (London, 1869)",
+   "tr. Charles Merivale"
   ]
  },
  "_cross_ref": {
@@ -257,7 +262,8 @@
   "homer-wright-iliad-1861-v1": "Wright",
   "homer-blackie-iliad-1866-v2": "Blackie",
   "homer-blackie-iliad-1866-v3": "Blackie",
-  "homer-cayley-iliad-1877": "Cayley"
+  "homer-cayley-iliad-1877": "Cayley",
+  "homer-merivale-iliad-1869": "Merivale"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -703,6 +709,19 @@
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-merivale-iliad-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Merivale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
