@@ -101,8 +101,9 @@ there the Bible's shape cannot tell, only the model chose, and the two scans
 agreeing adds little because both go through the same model. `--measure`
 scores those ("3/8, shape blind") apart from the ones shape confirms ("3/8,
 shape tells") and from "no-3/8". If "shape blind" matches OpenBible as often as
-"no-3/8", the model is not hiding errors there. The scan's
-OCR read 79,831 printed 3s as 8s; 17 corrections went the other way.
+"no-3/8", the model is not hiding errors there, and it does: measured
+2026-10-03, shape blind 94.0% (74,844), shape tells 94.0% (41,872), no-3/8
+93.9% (131,700). All 74,844 stay committed.
 
 ## 4. Two scans, and what is committed
 
@@ -121,14 +122,15 @@ Both scans are read independently, then:
   counted in the manifest. Most are misreadings of a reference the other scan
   read rightly, or entries one alignment missed.
 
-The first build (2026-10-03):
+The build of 2026-10-03, after review (an unsure reading in either scan now
+keeps the reference in `unsure_digit`, which is why that list grew from 1,038):
 
 | | references | also in OpenBible |
 |---|---|---|
 | **committed** | **248,416** on 25,622 verses | **94.0%** |
-| of which agreed (the manifest's `agreed`, 227,774, includes unsure_digit) | 226,736 | 94.6% |
+| of which agreed (the manifest's `agreed`, 227,774, includes unsure_digit) | 226,294 | 94.6% |
 | of which placed | 20,642 | 87.9% |
-| of which unsure_digit | 1,038 | 80.4% |
+| of which unsure_digit (the manifest's 1,667 includes 187 also placed) | 1,480 | 81.9% |
 | one scan only (not committed) | 122,369 | 55.9% |
 
 The jump from about 84% for either scan alone to 94.6% for what both read
@@ -148,13 +150,12 @@ with the Treasury, both ways.
 The first build covers 30,920 verses with 507,860 citations:
 
 - 442,557 from the Treasury, both ways, with a range counted once per verse;
-- 60,896 from the fathers' notes. That is every link PR #7's head resolves
-  (13,393 Greek and 47,503 Latin). PR #7's committed manifest says 60,903
-  because it predates the head's three-numbering change;
+- 60,896 from the fathers' notes: every link PR #7's head resolves (13,394
+  Greek and 47,502 Latin), 26,279 of them Old Testament and provisional;
 - 4,407 from book links, almost all the catenae.
 
-The fathers' links were built from PR #7's head (fbb3bd1); their sha256 is in
-the manifest. **The fathers' Old Testament citations are provisional:** a
+The fathers' links were built from PR #7's head (4ee7cbb, where
+`tag_fathers.py --check` passes); their sha256 is in the manifest. **The fathers' Old Testament citations are provisional:** a
 review of #7 found 30 of 64 checked OT links off (footnote line numbers read
 as verses, numbering misjudged, "et" and dashes misparsed), so each carries
 `"provisional": true` until #7 is fixed. Rerunning is one command once it is:

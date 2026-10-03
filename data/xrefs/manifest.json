@@ -5,14 +5,14 @@
  "layers": {
   "tsk": {
    "file": "data/xrefs/tsk.jsonl",
-   "sha256": "8ea69463f94822487a703b6888b5a188340ba82539ccc60933e69b2783cce3a3",
+   "sha256": "4b5703da1fdd21107363ab91e5fd2af8bc3545758a8f6a75346c1b068099fd69",
    "rows": 25622,
    "counts": {
     "verses_with_entries": 25622,
     "refs": 248416,
     "agreed": 227774,
     "placed": 20642,
-    "unsure_digit": 1038,
+    "unsure_digit": 1667,
     "one_scan_not_committed": 122369
    },
    "rights": {
@@ -41,8 +41,8 @@
       "refs": 325801,
       "glyphs_as-read": 245380,
       "resolved": 308495,
-      "glyphs_fixed": 71184,
-      "glyphs_unsure": 9237,
+      "glyphs_fixed": 69197,
+      "glyphs_unsure": 11224,
       "unresolved": 16983,
       "ambiguous_book": 323,
       "entries": 25865,
@@ -72,9 +72,9 @@
       "refs": 333824,
       "glyphs_as-read": 229654,
       "resolved": 315237,
-      "glyphs_fixed": 94637,
+      "glyphs_fixed": 91882,
       "unresolved": 18015,
-      "glyphs_unsure": 9533,
+      "glyphs_unsure": 12288,
       "ambiguous_book": 572,
       "entries": 26321,
       "headings": 822,
@@ -114,23 +114,25 @@
   },
   "cited_by": {
    "file": "build/xrefs/cited-by.jsonl (gitignored; rebuilt)",
-   "sha256": "2976b485f7be56254027638984e9d74d365109567240a07cbe4dcd38049333d7",
+   "sha256": "cc703f557dba64c11bfe0cb5ef5fb05f8d5b8181b1c216442479deafebf02b32",
    "verses": 30920,
    "counts": {
     "tsk": 442557,
+    "fathers-notes-ot-provisional": 26279,
     "fathers-notes": 60896,
     "book-links": 4407
    },
    "inputs": {
     "fathers_links": "build/fathers/scripture-links.jsonl (pipeline/tag_fathers.py, PR #7)",
-    "fathers_links_sha256": "dcf69101e9dd86d5b08928bea5ff0be7c5e482f75dd9cf742fab3cf101d92938",
+    "fathers_links_sha256": "2180daa2e3b46e5587ca895154e483cddf30a45cd1e43febc93b5c78676573d5",
     "books": "data/books/*.json (structure_texts.py): unit links of kind scripture to a kjv: verse"
    },
    "rights": {
     "license": "mixed: each citing passage keeps its own book's rights block",
     "redistribute_whole": false,
     "note": "Built from editions that are CC BY-SA (First1KGreek, CSEL TEI) or otherwise licensed; like PR #7's scripture links, rebuilt locally and never committed."
-   }
+   },
+   "provisional": "fathers-notes citations of Old Testament verses: PR #7's OT links are under review (30 of 64 checked were off); rebuild when #7 is fixed"
   }
  }
 }
