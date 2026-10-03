@@ -4146,6 +4146,15 @@ Shelf: `pipeline/fillmore_shelf.json` (2026-10-02; added at the coordinator's re
 | Czechoslovak Fairy Tales, retold by Parker Fillmore (1919) | have | PG 32217, `fillmore-czechoslovak-fairy-tales` (1342 units) |
 | The Shoemaker's Apron: A Second Book of Czechoslovak Fairy Tales and Folk Tales (1920) | have | PG 33002, `fillmore-shoemakers-apron` (1654 units) |
 
+## Elodie Lawton Mijatovich
+
+Shelf: `pipeline/mijatovich_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Serbian folk tales in her translation; her later selection is excluded as contained. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Serbian Folk-lore, tr. Elodie Lawton Mijatovich, ed. W. Denton (second edition, 1899) | have | PG 45321, `mijatovich-serbian-folk-lore` (963 units) |
+| mijatovich-fairy-tales-contained | excluded | Serbian Fairy Tales (PG 67191; New York: McBride, 1918): measured 91% contained in Serbian Folk-lore (PG 45321), which is held |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

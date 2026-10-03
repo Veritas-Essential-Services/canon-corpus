@@ -1,0 +1,21 @@
+{
+ "_about": "Serbian tales from Vuk Karadžić's collection in Elodie Lawton Mijatovich's (1825-1908) English: Serbian Folk-lore, ed. W. Denton (the Gutenberg text is the second edition, 1899). She is the translator. Her later Serbian Fairy Tales (1918) is not held separately: 91% of it is already in this book. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Elodie Lawton Mijatovich",
+ "_name_words": [
+  "serbian",
+  "folk",
+  "lore",
+  "fairy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mijatovich-serbian-folk-lore": [
+   45321,
+   "Serbian Folk-lore, tr. Elodie Lawton Mijatovich, ed. W. Denton (second edition, 1899)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "mijatovich-fairy-tales-contained": "Serbian Fairy Tales (PG 67191; New York: McBride, 1918): measured 91% contained in Serbian Folk-lore (PG 45321), which is held"
+ }
+}
