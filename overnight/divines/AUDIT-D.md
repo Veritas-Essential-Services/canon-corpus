@@ -302,3 +302,15 @@ All 137 shelves (890 slugs: 790 Gutenberg, 69 Internet Archive, 31 CCEL).
 - **Same source held twice.** None new.
 - **Translators.** The catalog lists Spenser as an author of Jean Lang's *Stories from the Faerie Queen*. It is her prose retelling, so no translator is involved.
 - **Text held twice.** Ouida's *Bimbi* shares stories with her two other collections (Nürnberg Stove, Lampblack, Bandita, The Ambitious Rose Tree): 27% and 13% of it. Mint those once, with two witnesses. The single-story books were held once before commit, as was Garis's *Old Mother Hubbard* (97% inside *Uncle Wiggily and Mother Goose*). Garis's fourteen picture pamphlets share almost nothing with his longer books (5% at most), so they stay.
+
+## 10. Eighth pass (2026-10-03 small hours, after batches 19-21 and review rounds 6-7)
+
+All 163 shelves (926 slugs).
+
+- **URLs.** 926 checked in three chunks (one sweep at higher concurrency tripped the proxy's Gutenberg tunnel and was discarded). Five Gutenberg files reset on the first try and all five answered on retry. Lang's Lockhart vol. 1 returned HTTP 500 again, as at the fifth pass; the Internet Archive record still lists its text file, and the local copy fetched on 2026-10-02 is intact. Every slug is in the map.
+- **Author names.** Lane A's load-time gate (e1ef08b) and the reviewer's round 6 led to full-name `_surname` forms on 32 shelves (REPORT-D). Every Lane D shelf passes `check_surnames`, and every re-recorded book matched. The change caught one misattribution: Lang's shelf held a 1896 Christian Literature Society for India pamphlet "compiled from Lang, Caldwell, Conway, Tylor ... and others", now in `_held` (DIGEST decision 16).
+- **Header-author check.** Unchanged since the seventh pass: three Gutenberg headers name only an illustrator (Burgess's Sammy Jay, Baldwin's Story of the Golden Age, Baring-Gould's Grettir), and each text names its author.
+- **Same source held twice.** None new. The only new title collision is "Welsh Fairy-Tales" (P. H. Emerson, PG 8675) against "Welsh Fairy Tales" (Griffis, PG 9368): different books.
+- **Translators.** The catalog check finds nothing new. Batch 21's translations carry `_translators` (Jones for the Magyar tales, Hall, O'Connor, Ralston for Tibetan Tales), and `--verify --record` matched each one; Gutenberg's header for Tibetan Tales names both Schiefner and Ralston.
+- **Text held twice.** Batch 21's sixteen new books were compared paragraph by paragraph against every built book. The only overlap above five paragraphs is seven quoted passages Jameson's Sacred and Legendary Art shares with Kingsley's lectures (7 of 1,327). Mint once.
+- **CCEL.** Lane A's print-source check (36ca012) flags four MacDonald books keyed from 1934-2001 reprints (DIGEST decision 17).
