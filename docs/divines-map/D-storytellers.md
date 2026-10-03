@@ -2483,6 +2483,14 @@ Shelf: `pipeline/gaster_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Rumanian Bird and Beast Stories | have | PG 43059, `gaster-rumanian-bird-and-beast-stories` (1601 units) |
 
+## George McCall Theal
+
+Shelf: `pipeline/theal_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Xhosa folk tales and proverbs as Theal printed them, with his notes; cut by story. The book's title uses a term now recognised as a slur. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kaffir Folk-lore | have | PG 71335, `theal-kaffir-folk-lore` (1264 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
