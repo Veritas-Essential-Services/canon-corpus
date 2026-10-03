@@ -23,6 +23,11 @@
    "bub_gb__QQSAAAAIAAJ",
    "The Moral Sayings of Publius Syrus, a Roman Slave, from the Latin (Cleveland: Barnard, 1856)",
    "tr. D. Lyman, Jun."
+  ],
+  "cato-distichs-chase-1922": [
+   "distichsofcato00chas",
+   "The Distichs of Cato, a famous medieval textbook, translated from the Latin (University of Wisconsin Studies, 1922)",
+   "tr. Wayland Johnson Chase"
   ]
  },
  "_surname": [
@@ -39,11 +44,17 @@
   "publilius-lyman-1856": [
    "publius syrus",
    "publilius syrus"
+  ],
+  "cato-distichs-chase-1922": [
+   "distichs of cato",
+   "dionysius cato",
+   "catonis"
   ]
  },
  "_translators": {
   "calpurnius-scott-1890": "Edward J. L. Scott",
-  "publilius-lyman-1856": "Lyman"
+  "publilius-lyman-1856": "Lyman",
+  "cato-distichs-chase-1922": "Wayland Johnson Chase"
  },
  "_checks": {
   "calpurnius-scott-1890": {
@@ -69,6 +80,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1856",
    "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cato-distichs-chase-1922": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "distichs of cato",
+   "translator_claimed": "Wayland Johnson Chase",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

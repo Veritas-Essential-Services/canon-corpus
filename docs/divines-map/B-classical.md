@@ -2198,6 +2198,7 @@ Shelf: `pipeline/latin-minor-poets_shelf.json`. Calpurnius Siculus, Grattius, Pu
 |---|---|---|---|
 | The Eclogues of Calpurnius, rendered into English verse (George Bell, 1890) | Edward J. L. Scott | `calpurnius-scott-1890` | have-raw (IA `ecloguesofcalpur00calprich`) |
 | The Moral Sayings of Publius Syrus, a Roman Slave, from the Latin (Cleveland: Barnard, 1856) | D. Lyman, Jun. | `publilius-lyman-1856` | have-raw (IA `bub_gb__QQSAAAAIAAJ`) |
+| The Distichs of Cato, a famous medieval textbook, translated from the Latin (University of Wisconsin Studies, 1922) | Wayland Johnson Chase | `cato-distichs-chase-1922` | have-raw (IA `distichsofcato00chas`) |
 
 Pending (wishlist): Nemesianus in English (only Keene's 1887 Latin edition found).
 
