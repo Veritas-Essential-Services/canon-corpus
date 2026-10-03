@@ -354,6 +354,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides, translated by R. Potter, vol. 3 (Valpy, 1832) | Robert Potter | `euripides-potter-v3` | have-raw (IA `euripides02pottgoog`) |
 | The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850) | Theodore Alois Buckley | `euripides-buckley-v2` | have-raw (IA `tragedieseuripi01eurigoog`) |
 | The Medea of Euripides, literally translated into English verse (Macmillan, 1868) | Augusta Webster | `euripides-webster-medea-1868` | have-raw (IA `medeaofeuripides00euririch`) |
+| The Hecuba, Orestes, Phoenician Virgins, and Medea, literally translated (Oxford: Talboys and Wheeler; undated, 3rd ed.) | unnamed | `euripides-oxford-literal-hecuba-etc` | have-raw (IA `hecubaorestespho00euriuoft`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 

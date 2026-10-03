@@ -121,6 +121,11 @@
    "medeaofeuripides00euririch",
    "The Medea of Euripides, literally translated into English verse (Macmillan, 1868)",
    "tr. Augusta Webster"
+  ],
+  "euripides-oxford-literal-hecuba-etc": [
+   "hecubaorestespho00euriuoft",
+   "The Hecuba, Orestes, Phoenician Virgins, and Medea of Euripides, literally translated into English prose from the text of Porson, third edition (Oxford: Talboys and Wheeler; undated)",
+   "tr. unnamed (an Oxford literal crib)"
   ]
  },
  "_excluded": {
@@ -156,7 +161,8 @@
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "euripides-wodhull-v4": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+  "euripides-wodhull-v4": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "euripides-oxford-literal-hecuba-etc": "the title page names no translator; the printing is undated (the catalogue gives [182-?], and Talboys and Wheeler were the Oxford publishers of the 1820s)"
  },
  "_checks": {
   "euripides-buckley-v1": {
@@ -429,6 +435,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1868",
    "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euripides-oxford-literal-hecuba-etc": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "[182-?]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
