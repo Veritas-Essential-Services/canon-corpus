@@ -346,3 +346,6 @@
 
 ## 2026-10-02 21:50 CDT — joseph-butler done
 - `pipeline/joseph-butler_shelf.json`: 2 CCEL titles (converted) and Gladstone's 1896 Works, 2 volumes of raw IA OCR (Illinois scans; the Toronto scans have no `_djvu.txt`), median 99.0%, about 1.9 MB; title pages read (1896). First shelf fetched under the fixed gates. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:51 CDT — thomas-fuller done
+- `pipeline/thomas-fuller_shelf.json`: 2 CCEL titles (converted) and 4 IA volumes of raw OCR, median 96.6% (94.2-97.9%), about 6 MB; title pages read (1837, 1840). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

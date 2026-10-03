@@ -1246,3 +1246,16 @@ Slugs `butler-*`.
 | The Analogy of Religion, with Two Brief Dissertations | have-clean | CCEL |
 | Fifteen Sermons Preached at the Rolls Chapel | have-clean | CCEL |
 | Works, ed. W. E. Gladstone, 2 vols (Oxford: Clarendon Press, 1896) | have-raw | IA (identifiers in the shelf) |
+
+
+## Thomas Fuller (round 8, my pick, 2026-10-02)
+
+Slugs `fuller-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Good Thoughts in Bad Times and Other Papers | have-clean | CCEL |
+| David's Heinous Sin, Hearty Repentance, Heavy Punishment (verse) | have-clean | CCEL |
+| The Church History of Britain, 3 vols (London: Tegg, 1837) | have-raw | IA (identifiers in the shelf) |
+| The Holy State and the Profane State (London: Pickering, 1840) | have-raw | IA |
+| The History of the Worthies of England | not looked for | |

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:50 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:51 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -143,6 +143,7 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Jeremy Taylor | jeremy-taylor_shelf.json | 2 CCEL (Holy Living, Holy Dying) | 10 (Whole Works, ed. Heber, rev. Eden, London: Longman, 1847-54, complete) | none | modern selections and editions with in-copyright notes |
 | Lancelot Andrewes | lancelot-andrewes_shelf.json | 1 CCEL (Preces Privatae, the Greek Devotions, tr. Newman) | 6 (Ninety-Six Sermons, Oxford 1841-43, 5 vols; Pattern of Catechistical Doctrine, 1846) | the Latin Devotions (Neale), not yet found | modern editions with in-copyright notes |
 | Joseph Butler | joseph-butler_shelf.json | 2 CCEL (Analogy of Religion; Fifteen Sermons at the Rolls Chapel) | 2 (Works, ed. W. E. Gladstone, Oxford 1896) | none | Gladstone's Studies Subsidiary (commentary, not Butler) |
+| Thomas Fuller | thomas-fuller_shelf.json | 2 CCEL (Good Thoughts in Bad Times; David's Heinous Sin, verse) | 4 (Church History of Britain, Tegg 1837, 3 vols; Holy State and Profane State, 1840) | none | Brewer's 1845 Church History (another edition); the Worthies of England (not looked for yet) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
