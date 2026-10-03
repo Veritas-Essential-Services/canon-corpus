@@ -128,7 +128,8 @@ def _check(data, tail, translator, slug, shelf):
     r["translator_checked"] = sn
     if sn and not _pat(sn).search(head_l):
         misses.append(f"MISMATCH: translator '{sn}' not in the file's header")
-    src = re.search(r"<sourceDesc.*?</sourceDesc>", head, re.S)
+    # "</sourceDesc" may close on the next line (Plato's Laws, tlg0059.tlg034)
+    src = re.search(r"<sourceDesc.*?</sourceDesc\s*>", head, re.S)
     # tags stripped first: years inside attributes (archive.org ids such as
     # in.ernet.dli.2015.12682) are not printing dates
     src_text = re.sub(r"<[^>]+>", " ", src.group(0)) if src else ""

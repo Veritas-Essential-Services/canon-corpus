@@ -329,7 +329,42 @@
   "plato-taylor-1804-v2": "Thomas Taylor",
   "plato-taylor-1804-v3": "Thomas Taylor",
   "plato-taylor-1804-v4": "Thomas Taylor",
-  "plato-taylor-1804-v5": "Thomas Taylor"
+  "plato-taylor-1804-v5": "Thomas Taylor",
+  "plato-perseus-fowler-euthyphro": "harold north fowler",
+  "plato-perseus-fowler-apology": "harold north fowler",
+  "plato-perseus-fowler-crito": "harold north fowler",
+  "plato-perseus-fowler-phaedo": "harold north fowler",
+  "plato-perseus-fowler-cratylus": "harold north fowler",
+  "plato-perseus-fowler-theaetetus": "harold north fowler",
+  "plato-perseus-fowler-sophist": "harold north fowler",
+  "plato-perseus-fowler-statesman": "harold north fowler",
+  "plato-perseus-fowler-parmenides": "harold north fowler",
+  "plato-perseus-fowler-philebus": "harold north fowler",
+  "plato-perseus-lamb-symposium": "walter rangeley maitland lamb",
+  "plato-perseus-fowler-phaedrus": "harold north fowler",
+  "plato-perseus-lamb-alcibiades-i": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-alcibiades-ii": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-hipparchus": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-lovers": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-theages": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-charmides": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-laches": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-lysis": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-euthydemus": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-protagoras": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-gorgias": "walter rangeley maitland lamb",
+  "plato-perseus-lamb-meno": "walter rangeley maitland lamb",
+  "plato-perseus-fowler-greater-hippias": "harold north fowler",
+  "plato-perseus-fowler-lesser-hippias": "harold north fowler",
+  "plato-perseus-lamb-ion": "rangeley maitland lamb",
+  "plato-perseus-bury-menexenus": "robert gregg bury",
+  "plato-perseus-bury-cleitophon": "robert gregg bury",
+  "plato-perseus-bury-timaeus": "robert gregg bury",
+  "plato-perseus-bury-critias": "robert gregg bury",
+  "plato-perseus-lamb-minos": "walter rangeley maitland lamb",
+  "plato-perseus-bury-laws": "robert gregg bury",
+  "plato-perseus-lamb-epinomis": "walter rangeley maitland lamb",
+  "plato-perseus-bury-letters": "robert gregg bury"
  },
  "_checks": {
   "plato-charmides": {
@@ -896,5 +931,674 @@
  "_translator_unchecked": {
   "plato-eryxias": "Gutenberg's header names Jowett, whose edition it is; the text credits the translation of the spurious dialogues to his secretary, Mr. Knight (as the row says), so no single surname is checked against the header",
   "plato-alcibiades-2": "Jowett's edition names no translator for this spurious dialogue; 'Mr. Knight' appears only as his secretary in the preface"
+ },
+ "perseus": {
+  "plato-perseus-fowler-euthyphro": [
+   "tlg0059.tlg001.perseus-eng2",
+   "Euthyphro",
+   "Harold North Fowler",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1914."
+  ],
+  "plato-perseus-fowler-apology": [
+   "tlg0059.tlg002.perseus-eng2",
+   "Apology",
+   "Harold North Fowler",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1914."
+  ],
+  "plato-perseus-fowler-crito": [
+   "tlg0059.tlg003.perseus-eng2",
+   "Crito",
+   "Harold North Fowler",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1914."
+  ],
+  "plato-perseus-fowler-phaedo": [
+   "tlg0059.tlg004.perseus-eng2",
+   "Phaedo",
+   "Harold North Fowler",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1914."
+  ],
+  "plato-perseus-fowler-cratylus": [
+   "tlg0059.tlg005.perseus-eng2",
+   "Cratylus",
+   "Harold North Fowler",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1926."
+  ],
+  "plato-perseus-fowler-theaetetus": [
+   "tlg0059.tlg006.perseus-eng2",
+   "Theaetetus",
+   "Harold North Fowler",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1921."
+  ],
+  "plato-perseus-fowler-sophist": [
+   "tlg0059.tlg007.perseus-eng2",
+   "Sophist",
+   "Harold North Fowler",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1921."
+  ],
+  "plato-perseus-fowler-statesman": [
+   "tlg0059.tlg008.perseus-eng2",
+   "Statesman",
+   "Harold North Fowler",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "plato-perseus-fowler-parmenides": [
+   "tlg0059.tlg009.perseus-eng2",
+   "Parmenides",
+   "Harold North Fowler",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1926."
+  ],
+  "plato-perseus-fowler-philebus": [
+   "tlg0059.tlg010.perseus-eng2",
+   "Philebus",
+   "Harold North Fowler",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "plato-perseus-lamb-symposium": [
+   "tlg0059.tlg011.perseus-eng2",
+   "Symposium",
+   "W. R. M. Lamb",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "plato-perseus-fowler-phaedrus": [
+   "tlg0059.tlg012.perseus-eng2",
+   "Phaedrus",
+   "Harold North Fowler",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1914."
+  ],
+  "plato-perseus-lamb-alcibiades-i": [
+   "tlg0059.tlg013.perseus-eng2",
+   "Alcibiades I",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-lamb-alcibiades-ii": [
+   "tlg0059.tlg014.perseus-eng2",
+   "Alcibiades II",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-lamb-hipparchus": [
+   "tlg0059.tlg015.perseus-eng2",
+   "Hipparchus",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-lamb-lovers": [
+   "tlg0059.tlg016.perseus-eng2",
+   "Lovers",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-lamb-theages": [
+   "tlg0059.tlg017.perseus-eng2",
+   "Theages",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-lamb-charmides": [
+   "tlg0059.tlg018.perseus-eng2",
+   "Charmides",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-lamb-laches": [
+   "tlg0059.tlg019.perseus-eng2",
+   "Laches",
+   "W. R. M. Lamb",
+   "Translation published 1924: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1924."
+  ],
+  "plato-perseus-lamb-lysis": [
+   "tlg0059.tlg020.perseus-eng2",
+   "Lysis",
+   "W. R. M. Lamb",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "plato-perseus-lamb-euthydemus": [
+   "tlg0059.tlg021.perseus-eng2",
+   "Euthydemus",
+   "W. R. M. Lamb",
+   "Translation published 1924: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1924."
+  ],
+  "plato-perseus-lamb-protagoras": [
+   "tlg0059.tlg022.perseus-eng2",
+   "Protagoras",
+   "W. R. M. Lamb",
+   "Translation published 1924: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1924."
+  ],
+  "plato-perseus-lamb-gorgias": [
+   "tlg0059.tlg023.perseus-eng2",
+   "Gorgias",
+   "W. R. M. Lamb",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "plato-perseus-lamb-meno": [
+   "tlg0059.tlg024.perseus-eng2",
+   "Meno",
+   "W. R. M. Lamb",
+   "Translation published 1924: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1924."
+  ],
+  "plato-perseus-fowler-greater-hippias": [
+   "tlg0059.tlg025.perseus-eng2",
+   "Greater Hippias",
+   "Harold North Fowler",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1926."
+  ],
+  "plato-perseus-fowler-lesser-hippias": [
+   "tlg0059.tlg026.perseus-eng2",
+   "Lesser Hippias",
+   "Harold North Fowler",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1926."
+  ],
+  "plato-perseus-lamb-ion": [
+   "tlg0059.tlg027.perseus-eng2",
+   "Ion",
+   "W. R. M. Lamb",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "plato-perseus-bury-menexenus": [
+   "tlg0059.tlg028.perseus-eng2",
+   "Menexenus",
+   "R. G. Bury",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1929."
+  ],
+  "plato-perseus-bury-cleitophon": [
+   "tlg0059.tlg029.perseus-eng2",
+   "Cleitophon",
+   "R. G. Bury",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1929."
+  ],
+  "plato-perseus-bury-timaeus": [
+   "tlg0059.tlg031.perseus-eng2",
+   "Timaeus",
+   "R. G. Bury",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1929."
+  ],
+  "plato-perseus-bury-critias": [
+   "tlg0059.tlg032.perseus-eng2",
+   "Critias",
+   "R. G. Bury",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1929."
+  ],
+  "plato-perseus-lamb-minos": [
+   "tlg0059.tlg033.perseus-eng2",
+   "Minos",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-bury-laws": [
+   "tlg0059.tlg034.perseus-eng2",
+   "Laws",
+   "R. G. Bury",
+   "Translation published None: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, None."
+  ],
+  "plato-perseus-lamb-epinomis": [
+   "tlg0059.tlg035.perseus-eng2",
+   "Epinomis",
+   "W. R. M. Lamb",
+   "Translation published 1927: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1927."
+  ],
+  "plato-perseus-bury-letters": [
+   "tlg0059.tlg036.perseus-eng2",
+   "Letters",
+   "R. G. Bury",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1929."
+  ]
+ },
+ "_perseus_checks": {
+  "plato-perseus-fowler-euthyphro": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-apology": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-crito": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-phaedo": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-cratylus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-theaetetus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg006.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1921
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-sophist": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1921
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-statesman": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-parmenides": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-philebus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-symposium": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-phaedrus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-alcibiades-i": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-alcibiades-ii": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-hipparchus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg015.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-lovers": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg016.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-theages": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg017.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-charmides": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg018.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-laches": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg019.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1924
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-lysis": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg020.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-euthydemus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg021.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1924
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-protagoras": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg022.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1924
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-gorgias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg023.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-meno": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg024.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1924
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-greater-hippias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg025.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-fowler-lesser-hippias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg026.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "harold north fowler",
+   "author_seen": "plato",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-ion": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg027.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-bury-menexenus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg028.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "robert gregg bury",
+   "author_seen": "plato",
+   "source_years": [
+    1929
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-bury-cleitophon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg029.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "robert gregg bury",
+   "author_seen": "plato",
+   "source_years": [
+    1929
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-bury-timaeus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg031.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "robert gregg bury",
+   "author_seen": "plato",
+   "source_years": [
+    1929
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-bury-critias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg032.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "robert gregg bury",
+   "author_seen": "plato",
+   "source_years": [
+    1929
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-minos": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg033.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-bury-laws": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg034.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "robert gregg bury",
+   "author_seen": "plato",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-lamb-epinomis": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg035.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "walter rangeley maitland lamb",
+   "author_seen": "plato",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plato-perseus-bury-letters": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0059.tlg036.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "robert gregg bury",
+   "author_seen": "plato",
+   "source_years": [
+    1929
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

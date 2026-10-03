@@ -1253,6 +1253,41 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 4 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v4` | have-raw (IA `vol4worksofplato00plat`) |
 | The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 5 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v5` | have-raw (IA `vol5worksofplato00plat`) |
 | The Prose Works of Percy Bysshe Shelley, vol. 2 (ed. R. H. Shepherd, 1888): The Banquet, Ion, Menexenus, with Shelley's essay On the Symposium | Percy Bysshe Shelley | `plato-shelley-prose-works-v2` | have (PG 67926) |
+| Euthyphro | Harold North Fowler (Loeb, 1914) | `plato-perseus-fowler-euthyphro` | have (Perseus TEI `tlg0059.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| Apology | Harold North Fowler (Loeb, 1914) | `plato-perseus-fowler-apology` | have (Perseus TEI `tlg0059.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Crito | Harold North Fowler (Loeb, 1914) | `plato-perseus-fowler-crito` | have (Perseus TEI `tlg0059.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Phaedo | Harold North Fowler (Loeb, 1914) | `plato-perseus-fowler-phaedo` | have (Perseus TEI `tlg0059.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cratylus | Harold North Fowler (Loeb, 1926) | `plato-perseus-fowler-cratylus` | have (Perseus TEI `tlg0059.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| Theaetetus | Harold North Fowler (Loeb, 1921) | `plato-perseus-fowler-theaetetus` | have (Perseus TEI `tlg0059.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Sophist | Harold North Fowler (Loeb, 1921) | `plato-perseus-fowler-sophist` | have (Perseus TEI `tlg0059.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Statesman | Harold North Fowler (Loeb, 1925) | `plato-perseus-fowler-statesman` | have (Perseus TEI `tlg0059.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Parmenides | Harold North Fowler (Loeb, 1926) | `plato-perseus-fowler-parmenides` | have (Perseus TEI `tlg0059.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| Philebus | Harold North Fowler (Loeb, 1925) | `plato-perseus-fowler-philebus` | have (Perseus TEI `tlg0059.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Symposium | W. R. M. Lamb (Loeb, 1925) | `plato-perseus-lamb-symposium` | have (Perseus TEI `tlg0059.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| Phaedrus | Harold North Fowler (Loeb, 1914) | `plato-perseus-fowler-phaedrus` | have (Perseus TEI `tlg0059.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| Alcibiades I | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-alcibiades-i` | have (Perseus TEI `tlg0059.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| Alcibiades II | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-alcibiades-ii` | have (Perseus TEI `tlg0059.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| Hipparchus | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-hipparchus` | have (Perseus TEI `tlg0059.tlg015.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lovers | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-lovers` | have (Perseus TEI `tlg0059.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Theages | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-theages` | have (Perseus TEI `tlg0059.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Charmides | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-charmides` | have (Perseus TEI `tlg0059.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Laches | W. R. M. Lamb (Loeb, 1924) | `plato-perseus-lamb-laches` | have (Perseus TEI `tlg0059.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lysis | W. R. M. Lamb (Loeb, 1925) | `plato-perseus-lamb-lysis` | have (Perseus TEI `tlg0059.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
+| Euthydemus | W. R. M. Lamb (Loeb, 1924) | `plato-perseus-lamb-euthydemus` | have (Perseus TEI `tlg0059.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Protagoras | W. R. M. Lamb (Loeb, 1924) | `plato-perseus-lamb-protagoras` | have (Perseus TEI `tlg0059.tlg022.perseus-eng2`; markup CC BY-SA 4.0) |
+| Gorgias | W. R. M. Lamb (Loeb, 1925) | `plato-perseus-lamb-gorgias` | have (Perseus TEI `tlg0059.tlg023.perseus-eng2`; markup CC BY-SA 4.0) |
+| Meno | W. R. M. Lamb (Loeb, 1924) | `plato-perseus-lamb-meno` | have (Perseus TEI `tlg0059.tlg024.perseus-eng2`; markup CC BY-SA 4.0) |
+| Greater Hippias | Harold North Fowler (Loeb, 1926) | `plato-perseus-fowler-greater-hippias` | have (Perseus TEI `tlg0059.tlg025.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lesser Hippias | Harold North Fowler (Loeb, 1926) | `plato-perseus-fowler-lesser-hippias` | have (Perseus TEI `tlg0059.tlg026.perseus-eng2`; markup CC BY-SA 4.0) |
+| Ion | W. R. M. Lamb (Loeb, 1925) | `plato-perseus-lamb-ion` | have (Perseus TEI `tlg0059.tlg027.perseus-eng2`; markup CC BY-SA 4.0) |
+| Menexenus | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-menexenus` | have (Perseus TEI `tlg0059.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cleitophon | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-cleitophon` | have (Perseus TEI `tlg0059.tlg029.perseus-eng2`; markup CC BY-SA 4.0) |
+| Timaeus | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-timaeus` | have (Perseus TEI `tlg0059.tlg031.perseus-eng2`; markup CC BY-SA 4.0) |
+| Critias | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-critias` | have (Perseus TEI `tlg0059.tlg032.perseus-eng2`; markup CC BY-SA 4.0) |
+| Minos | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-minos` | have (Perseus TEI `tlg0059.tlg033.perseus-eng2`; markup CC BY-SA 4.0) |
+| Laws | R. G. Bury (Loeb, None) | `plato-perseus-bury-laws` | have (Perseus TEI `tlg0059.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
+| Epinomis | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-epinomis` | have (Perseus TEI `tlg0059.tlg035.perseus-eng2`; markup CC BY-SA 4.0) |
+| Letters | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-letters` | have (Perseus TEI `tlg0059.tlg036.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist):
 
@@ -1330,12 +1365,17 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | Fasti, Tristia, Epistulae ex Ponto, Ibis, Halieuticon | Riley (Bohn, 1851) | `ovid-riley-fasti-tristia-1851` | have-raw (IA `fastitristiapont00ovid`) |
 | Heroides (Canace, Helen, Dido); Ars I; Amores I.1, I.4 | Dryden | `dryden-ovid-epistles`, `dryden-ovid-art-of-love`, `dryden-ovid-amores` | cross-ref → Dryden shelf (lane C) |
 | Amores (All Ovid's Elegies) | Christopher Marlowe | — | pending: inside Marlowe's Works vol. 3 (PG 21262); belongs on a Marlowe shelf |
-| Metamorphoses | Brookes More (1922–33) | — | pending: only Book I (1922) is on IA; the complete text is not cleared |
 | Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v1` | held: the scan is a 1970s reprint of the 1921 second edition carrying an added bibliography (items of 1963 to the 1970s), which is not public domain; not fetched (see `_held`) |
 | Metamorphoses, vol. 2: Books IX-XV (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v2` | have-raw (IA `metamorphoseswit02oviduoft`) |
 | Heroides and Amores (Loeb, 1914) | Grant Showerman | `ovid-showerman-heroides-amores` | have-raw (IA `heroidesamores00ovid`) |
 | Tristia, Ex Ponto (Loeb, 1924) | Arthur Leslie Wheeler | `ovid-wheeler-tristia-ponto` | have-raw (IA `bwb_W9-CQC-386`) |
 | Ovid's Metamorphosis Englished, mythologized and represented in figures (Oxford, 1632) | George Sandys (verse, 1632) | `ovid-sandys-1632` | have-raw (IA `ovidsmetamorphos00ovid_0`) |
+| Metamorphoses | Brookes More (blank verse, 1922) | `ovid-perseus-more-metamorphoses` | have (Perseus TEI `phi0959.phi006.perseus-eng3`; markup CC BY-SA 4.0) |
+| Amours | translators not named (1855) | `ovid-perseus-1855-amours` | have (Perseus TEI `phi0959.phi001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Art of Beauty | translators not named (1855) | `ovid-perseus-1855-art-of-beauty` | have (Perseus TEI `phi0959.phi003.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Art of Love | translators not named (1855) | `ovid-perseus-1855-art-of-love` | have (Perseus TEI `phi0959.phi004.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Remedy of Love | translators not named (1855) | `ovid-perseus-1855-remedy-of-love` | have (Perseus TEI `phi0959.phi005.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Epistles (Heroides) | translators not named (1813) | `ovid-perseus-1813-epistles` | have (Perseus TEI `phi0959.phi002.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -2582,8 +2622,9 @@ Shelf: `pipeline/hippocrates_shelf.json`. Adams: vol. 1 Gutenberg, vol. 2 Sydenh
 | Precepts | William Henry Samuel Jones | `hippocrates-perseus-jones-precepts` | have (Perseus TEI `tlg0627.tlg051.perseus-eng2`; markup CC BY-SA 4.0) |
 | Of the Prognostics | Francis Adams | `hippocrates-perseus-adams-of-the-prognostics` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Mochlicus | Francis Adams | `hippocrates-perseus-adams-mochlicus` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
+| Epidemics I and III | W. H. S. Jones (Loeb, 1923) | `hippocrates-perseus-jones-epidemics-1-3` | have (Perseus TEI `tlg0627.tlg006.perseus-eng4`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): the Jones/Withington Loeb beyond the five 1923 pieces held as Perseus TEI (Greek facing: OCR not taken)
+Pending (wishlist): the Jones/Withington Loeb beyond the six 1923 pieces held as Perseus TEI (Greek facing: OCR not taken)
 
 ## Galen
 
