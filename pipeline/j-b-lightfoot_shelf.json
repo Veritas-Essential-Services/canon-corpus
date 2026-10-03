@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (London: Macmillan, 1890) and Philippians (1898), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "l/lightfoot",
+ "_name_words": [
+  "lightfoot",
+  "joseph",
+  "barber"
+ ],
+ "_surname": [
+  "j. b. lightfoot",
+  "joseph barber lightfoot",
+  "lightfoot"
+ ],
+ "_held": {},
+ "ccel": {
+  "lightfoot-apostolic-fathers": [
+   "fathers",
+   "The Apostolic Fathers",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "lightfoot-colossians-philemon": [
+   "50857",
+   "St. Paul's Epistles to the Colossians and to Philemon"
+  ],
+  "lightfoot-supernatural-religion": [
+   "18191",
+   "Essays on the Work Entitled Supernatural Religion"
+  ],
+  "lightfoot-sermons": [
+   "37527",
+   "Sermons"
+  ]
+ },
+ "internet_archive": {
+  "lightfoot-galatians-1890": [
+   "saintpaulsepistl00lighuoft",
+   "Saint Paul's Epistle to the Galatians: a revised text with introduction, notes and dissertations (London: Macmillan, 1890)"
+  ],
+  "lightfoot-philippians-1898": [
+   "a590773100lighuoft",
+   "Saint Paul's Epistle to the Philippians: a revised text with introduction, notes and dissertations (London: Macmillan, 1898)"
+  ]
+ },
+ "_alternates": {
+  "lightfoot-galatians": "many Macmillan printings 1869-1896",
+  "lightfoot-philippians": "printings of 1869-1908"
+ },
+ "_excluded": {
+  "lightfoot-talmud": "CCEL l/lightfoot/talmud is John Lightfoot (1602-1675), another man"
+ },
+ "_translators": {
+  "lightfoot-apostolic-fathers": "lightfoot"
+ },
+ "_checks": {
+  "lightfoot-apostolic-fathers": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. b. lightfoot",
+   "translator_claimed": "lightfoot",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "lightfoot-colossians-philemon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. b. lightfoot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lightfoot-supernatural-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. b. lightfoot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lightfoot-sermons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. b. lightfoot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lightfoot-galatians-1890": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lightfoot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lightfoot-philippians-1898": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. b. lightfoot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

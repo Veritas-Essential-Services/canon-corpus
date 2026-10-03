@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:10 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:12 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -180,6 +180,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
+| J. B. Lightfoot | j-b-lightfoot_shelf.json | 1 CCEL (The Apostolic Fathers, his translation) + 3 PG (Colossians and Philemon; Essays on Supernatural Religion; Sermons) | 2 (Galatians, Macmillan 1890; Philippians, 1898) | none | CCEL's "From the Talmud and Hebraica" (John Lightfoot, 1602-75, another man) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

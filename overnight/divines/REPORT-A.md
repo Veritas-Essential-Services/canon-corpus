@@ -411,3 +411,6 @@
 
 ## 2026-10-03 01:10 CDT — w-g-t-shedd done
 - `pipeline/w-g-t-shedd_shelf.json`: 5 IA volumes of raw OCR, median 97.6% (96.2-98.0%), about 4.6 MB; title pages read (1888, 1894; 1863, and 1868 for the History's vol. 2). The first vol. 2 tried never showed Shedd's name and the gate refused it; another copy replaced it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:12 CDT — j-b-lightfoot done
+- `pipeline/j-b-lightfoot_shelf.json`: 1 CCEL title (converted; Lightfoot recorded as translator), 3 Gutenberg texts (rights lines checked) and 2 IA commentaries, raw OCR 92.3% each (Greek-heavy notes), about 5 MB; title pages read (1890, 1898). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

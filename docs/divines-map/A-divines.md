@@ -1465,3 +1465,17 @@ Slugs `shedd-*`.
 |---|---|---|
 | Dogmatic Theology, 2 vols (New York: Scribner, 1888) and vol. 3, supplement (1894) | have-raw | IA (identifiers in the shelf) |
 | A History of Christian Doctrine, 2 vols (New York: Scribner, 1863; vol. 2 an 1868 printing) | have-raw | IA |
+
+
+## J. B. Lightfoot (round 10, my pick, 2026-10-03)
+
+Slugs `lightfoot-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Apostolic Fathers (tr. Lightfoot) | have-clean | CCEL |
+| St. Paul's Epistles to the Colossians and to Philemon | have-clean | Gutenberg 50857 |
+| Essays on the Work Entitled Supernatural Religion | have-clean | Gutenberg 18191 |
+| Sermons | have-clean | Gutenberg 37527 |
+| Saint Paul's Epistle to the Galatians (London: Macmillan, 1890) | have-raw | IA (identifier in the shelf) |
+| Saint Paul's Epistle to the Philippians (London: Macmillan, 1898) | have-raw | IA |
