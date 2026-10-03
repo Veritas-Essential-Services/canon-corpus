@@ -36,7 +36,7 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | owen-communion-with-god | ccel |  | 184,637 | 1,142 | 379 | 0 | 2,194 (2,189) | 1,587 | 7 | 49 | 0 | 891 | 0 |
 | owen-glory-of-christ | ccel |  | 96,638 | 730 | 8 | 0 | 565 (550) | 721 | 30 | 1 | 0 | 63 | 0 |
 | owen-holy-spirit | ccel |  | 598,044 | 2,410 | 164 | 0 | 3,763 (3,750) | 2,749 | 19 | 32 | 0 | 2945 | 0 |
-| owen-indwelling-sin | ccel |  | 86,816 | 470 | 4 | 0 | 476 (476) | 489 | 0 | 2 | 0 | 54 | 0 |
+| owen-indwelling-sin | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 86,816 | 470 | 4 | 0 | 476 (476) | 489 | 0 | 2 | 0 | 53 | 36 |
 | owen-mortification | ccel |  | 42,505 | 332 | 44 | 0 | 348 (343) | 299 | 5 | 0 | 0 | 27 | 3 |
 | owen-spiritual-mindedness | ccel |  | 118,893 | 677 | 2 | 0 | 417 (417) | 544 | 0 | 3 | 0 | 56 | 0 |
 | owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 22 | 22 |
