@@ -1,0 +1,30 @@
+{
+ "_about": "Filipino Popular Tales (1921), collected by Dean S. Fansler (1885-1945) and his students in the Philippines and edited by him, each tale credited to its narrator, with his comparative notes. Public domain in the US. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Dean S. Fansler, ed.",
+ "_name_words": [
+  "fansler"
+ ],
+ "_surname": [
+  "fansler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fansler-filipino-popular-tales": [
+   8299,
+   "Filipino Popular Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "fansler-filipino-popular-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fansler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1923,6 +1923,14 @@ Shelf: `pipeline/westervelt_shelf.json` (2026-10-02; added at the coordinator's 
 | Legends of Old Honolulu | have | PG 66547, `westervelt-legends-of-old-honolulu` (1033 units) |
 | Hawaiian Historical Legends | have | PG 66357, `westervelt-historical-legends` (748 units) |
 
+## Dean S. Fansler, ed.
+
+Shelf: `pipeline/fansler_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Filipino folk tales collected by him and his students, each credited to its narrator, with comparative notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Filipino Popular Tales | have | PG 8299, `fansler-filipino-popular-tales` (3379 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
