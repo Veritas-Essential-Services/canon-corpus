@@ -1319,6 +1319,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v5` | have-raw (IA `lettersofmarcust05ciceuoft`) |
 | The Letters of Marcus Tullius Cicero to Several of His Friends, vol. I (1808) | William Melmoth | `cicero-melmoth-letters-1808-v1` | have-raw (IA `lettersofmarcust01ciceuoft`) |
 | The Academics of Cicero (London: Macmillan, 1880) | James S. Reid | `cicero-reid-academics-1880` | have-raw (IA `academicscicero00cicegoog`) |
+| De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906) | Benjamin E. Smith | `cicero-smith-amicitia-1897` | have-raw (IA `deamicitiaonfrie00cice`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
