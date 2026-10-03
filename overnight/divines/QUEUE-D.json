@@ -881,8 +881,10 @@
     {
       "id": "leland",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: leland; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:35:09-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:35:09-05:00",
+      "finished": "2026-10-02T20:49:30-05:00",
+      "notes": "4/4 fetched (Gutenberg 6803, 32786, 62335, 78673), 5,603 units, 4 ~2 ids."
     },
     {
       "id": "schoolcraft",

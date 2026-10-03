@@ -1,0 +1,104 @@
+{
+ "_about": "Charles Godfrey Leland's (1824-1903) collections of tales from the people: the Wabanaki and Passamaquoddy legends of Glooscap, the Florentine legends and the folk legends of Virgil the magician, and Kulóskap the Master, the Algonkin legends in verse, translated with John Dyneley Prince (1868-1945). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Charles Godfrey Leland",
+ "_name_words": [
+  "leland"
+ ],
+ "_surname": [
+  "leland"
+ ],
+ "_translators": {
+  "leland-kuloskap-the-master": "Leland"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "leland-algonquin-legends-of-new-england": [
+   6803,
+   "The Algonquin Legends of New England"
+  ],
+  "leland-legends-of-florence-1": [
+   32786,
+   "Legends of Florence, First Series",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?!TRANSLATION\\.?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,}$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "TRANSLATION\\.?$",
+      "strip": "\\.$"
+     }
+    ]
+   }
+  ],
+  "leland-unpublished-legends-of-virgil": [
+   62335,
+   "The Unpublished Legends of Virgil"
+  ],
+  "leland-kuloskap-the-master": [
+   78673,
+   "Kulóskap the Master, and Other Algonkin Poems, tr. Charles Godfrey Leland and John Dyneley Prince (1902)",
+   {
+    "levels": [
+     {
+      "re": "(?:[IVXL]+|(?![IVXL]+\\.?$)(?!FOOTNOTES:?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,})$",
+      "title_next": false
+     },
+     {
+      "re": "=Canto [A-Za-z]+=$",
+      "strip": "=",
+      "max": 40
+     },
+     {
+      "re": "FOOTNOTES:$",
+      "strip": ":$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "leland-algonquin-legends-of-new-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leland-legends-of-florence-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leland-unpublished-legends-of-virgil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leland-kuloskap-the-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "leland",
+   "translator_claimed": "Leland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Godfrey Leland",
+   "translator_match": true
+  }
+ }
+}

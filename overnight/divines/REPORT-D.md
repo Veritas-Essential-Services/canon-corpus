@@ -423,3 +423,6 @@
 - 8c69ae2 restores the file byte for byte from 2acacb0 and moves the Twins books to `pipeline/lfperkins_shelf.json` (slugs `lfperkins-*`).
 - Guard: `overnight/divines/precommit-D.py` (installed as the clone's pre-commit hook) refuses a commit that changes a shelf with another lane's commit in its history; the helper refuses an existing file.
 - 88bc65a: `_surname`, `_translators` and recorded `_checks` on 63 shelves (the subject says 64, wrongly). 0 mismatches, 0 rights flags.
+
+## 2026-10-02 20:49 CDT — leland: done
+- 4/4 fetched (Gutenberg 6803, 32786, 62335, 78673), 5,603 units, 4 ~2 ids.

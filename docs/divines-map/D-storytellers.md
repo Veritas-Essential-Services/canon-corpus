@@ -1750,6 +1750,17 @@ Shelf: `pipeline/baring-gould_shelf.json` (2026-10-02; added at the coordinator'
 | Grettir the Outlaw: A Story of Iceland | have | PG 48622, `baring-gould-grettir-the-outlaw` (1204 units) |
 | baring-gould-lives-of-the-saints | excluded | The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place |
 
+## Charles Godfrey Leland
+
+Shelf: `pipeline/leland_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales he took down from the people: Wabanaki legends of Glooskap, Florentine legends, the folk legends of Virgil the magician, and the Algonkin legends in verse. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Algonquin Legends of New England | have | PG 6803, `leland-algonquin-legends-of-new-england` (1319 units) |
+| Legends of Florence, First Series | have | PG 32786, `leland-legends-of-florence-1` (1611 units) |
+| The Unpublished Legends of Virgil | have | PG 62335, `leland-unpublished-legends-of-virgil` (1682 units) |
+| Kulóskap the Master, and Other Algonkin Poems, tr. Charles Godfrey Leland and John Dyneley Prince (1902) | have | PG 78673, `leland-kuloskap-the-master` (991 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
