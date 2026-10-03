@@ -961,6 +961,15 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `toplady-*`.
 |---|---|---|
 | Works, 6 vols (London: Baynes, 1825, with a memoir): Historic Proof of the Doctrinal Calvinism of the Church of England, sermons, essays, letters, hymns and poems | have-raw | IA (identifiers in the shelf) |
 | One-volume London editions (1837, 1844, 1857); the 1794 Works | alternate | IA |
+
+## William Romaine (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from a Princeton scan; slug `romaine-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Whole Works (London: Blake, 1837, one volume): Cadogan's Life, Discourses on the Law and Gospel, the Life, Walk and Triumph of Faith, Psalm 107, Letters, Sermons, Essay on Psalmody | have-raw | IA (identifier in the shelf) |
+| Works, 8 vols (London, 1801) | alternate | IA; long-s print OCRs at 85-88% |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

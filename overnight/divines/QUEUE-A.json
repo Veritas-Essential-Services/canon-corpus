@@ -519,10 +519,13 @@
     },
     {
       "id": "romaine",
-      "status": "todo",
+      "status": "done",
       "scope": "William Romaine: Life, Walk and Triumph of Faith; Works (d. 1795)",
       "added": "2026-10-02T20:14:56-05:00",
-      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T20:27:06-05:00",
+      "finished": "2026-10-02T20:30:58-05:00",
+      "notes": "1 IA (Whole Works 1837)"
     },
     {
       "id": "isaac-ambrose",
