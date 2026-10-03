@@ -381,3 +381,7 @@
 - New shelf silius: Tytler's verse Punics vol. I (Calcutta, 1828)
 - Duff's Loeb vol. I (1961 reprint) held for Adam; added to the later-printings decision
 - Duff vol. II (first printed 1934) not taken
+
+## 2026-10-03 02:20 CDT — Cebes (Guthrie)
+- New shelf cebes: Guthrie's Greek Pilgrim's Progress (1910)
+- Healey 1610 and two 18th-century versions refused on OCR

@@ -636,6 +636,14 @@
    "started": "2026-10-03T02:17:07-05:00",
    "finished": "2026-10-03T02:18:55-05:00",
    "notes": "New silius shelf. Tytler vol. I (Google scan, OCR 0.87); vol. II not found. Duff Loeb vol. I is a 1961 reprint of 1927, held for Adam with the later-printing class; vol. II is 1934, not taken."
+  },
+  {
+   "id": "cebes-guthrie",
+   "status": "done",
+   "scope": "Guthrie's Tablet of Cebes (1910)",
+   "started": "2026-10-03T02:18:55-05:00",
+   "finished": "2026-10-03T02:20:18-05:00",
+   "notes": "New cebes shelf; OCR 0.80; copyright line 1910. Older English versions refused on OCR (0.53-0.66)."
   }
  ]
 }
