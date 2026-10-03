@@ -33,7 +33,8 @@ THE BOOKS, AND WHICH PRINTING (every one printed before 1929: US public domain)
                           text with introduction and notes (London: Murray, 1908, 2 vols).
                           gospelaccordingt01west (Princeton), gospelaccordingt02west (Toronto).
   lightfoot-horae         John Lightfoot (1602-1675), Horae Hebraicae et Talmudicae, ed.
-                          R. Gandell (Oxford, 1859, 4 vols): Matthew to 1 Corinthians, notes
+                          R. Gandell (Oxford, 4 vols, the sheets of 1859; these copies possibly
+                          a later issue): Matthew to 1 Corinthians, notes
                           headed "Ver. 5:" in one column. horaehebraicaeet000{1-4}ligh (the
                           Internet Archive's own scans: the only copies whose OCR kept Hebrew).
   ellicott-galatians      C. J. Ellicott, St Paul's Epistle to the Galatians, 4th ed.
@@ -103,7 +104,11 @@ editors) and resolved in the KJV's own numbering, which these English
 editors use; a reference to a verse the KJV lacks, to a whole chapter, or to
 a book outside the KJV stays `resolved: false` with its reason. "ver. 8"
 and "vv. 8, 9" in a note mean the verse of the same chapter, and Westcott's
-"c. x. 11" the same epistle (`rule: self/...`).
+"c. x. 11" the same epistle (`rule: self/...`), unless another work's
+abbreviation, a Latin title word or a capitalised name stands just before it
+(self_c_refused); "Gal. c. iv. 3" is Gal 4:3 (book_c). A range FS.parse reads
+only the start of ("viii. 28-ix. 3", "8. 28-9. 3", "iii. 12-8") is found by
+cross_ranges and applied only to the reference under its own book.
 
 HONESTY. The five scanned books are unproofread OCR and every honesty field
 says so; their notes' boundaries rest on verse numbers read off the page and
@@ -323,7 +328,9 @@ SCANS.update({
                     "adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; "
                     "openers_against_running_head counts notes whose page head reads another chapter, "
                     "and notes_reopened the verses taken up again further on, whose text joins the first "
-                    "unit of that verse"),
+                    "unit of that verse (scan.leaves and scan.printed_pages are then the first volume's, and "
+                    "a unit taken up again in the other volume lists every leaf and page with its volume in "
+                    "scan.volume_leaves and scan.volume_printed_pages)"),
         "note": ("Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of "
                  "gospelaccordingt01west (vol. 1, used here too), gospelaccordingt02west_0 (vol. 2) and "
                  "gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-greek-1/-2 "
@@ -347,10 +354,12 @@ SCANS.update({
         "author": "John Lightfoot (1602-1675)",
         "edition": ("John Lightfoot, Horae Hebraicae et Talmudicae: Hebrew and Talmudical exercitations upon the "
                     "Gospels, the Acts, some chapters of St Paul's Epistle to the Romans, and the First Epistle to "
-                    "the Corinthians, a new edition by Robert Gandell, 4 vols (Oxford: University Press, 1859); "
+                    "the Corinthians, a new edition by Robert Gandell, 4 vols (Oxford: University Press, the "
+                    "sheets of 1859); "
                     "the title pages print no date (Gandell's preface is dated 1 April 1859) and vol. 4 ends with "
                     "a Macmillan advertisement, so these copies may be a later issue of the 1859 sheets"),
         "printed": 1859,
+        "printed_label": "1859 (the sheets; this copy possibly a later issue)",
         "apparatus": False,
         "head": "ch",
         "style": "ver",
@@ -958,12 +967,22 @@ SELF_VER = re.compile(r'\b(?:ver|vv|vers)\.\s*(\d{1,2})((?:\s*[,–—-]\s*\d{1,
 SELF_C = re.compile(r'\bc\.\s*([ivxl]{1,6})\.\s*(\d{1,2})\b')
 # the word before a bare 'c. iv. 3': an abbreviation ending in '.' names
 # another work ('Euseb. H.E. c. iv. 3', 'ib. c. 3'), unless it is one of these
-SELF_C_BEFORE = re.compile(r'(\S+)\s*$')
 SELF_C_OK = {"cf.", "comp.", "conf.", "cp.", "see", "so", "also", "esp.", "and", "in", "on", "with", "as", "e.g.",
-             "i.e.", "above", "below", "ver.", "vv.", "(", "[", ";", ","}
-# a range crossing a chapter: 'viii. 28-ix. 3' or '8:28-9:3' (FS.parse reads its start only)
+             "i.e.", "above", "below", "ver.", "vv.", "(", "[", ";", ",", "compare", "comp", "cf", "again", "here"}
+# ... and a work named without an abbreviation is another work too: a Latin title
+# word among the three words before ('Tertullian de Baptismo c. iv. 3', 'Pro
+# Cluentio, c. v. 12'), or a capitalised name just before, not opening a sentence
+# and not one of these English words ('this Epistle c. iii. 17' is the epistle's own)
+SELF_C_TITLE = {"de", "adv", "adv.", "adversus", "contra", "pro", "apud"}
+SELF_C_ENGLISH = {"epistle", "chapter", "compare", "contrast", "see", "comp", "cf", "note", "so", "also"}
+# '<Book>. c. iv. 3' ('Chrys. on Gal. c. iv. 3'): that book's chapter and verse, the
+# 'c.' a word ('chapter'), never Roman C; the 'c.' is dropped before FS.parse reads it
+BOOK_C = re.compile(r'(?<![\w])((?:(IV|III|II|I|[1-4])\.?\s?)?([A-Z][a-zA-Z]{0,11})\.?,?\s*)(?<![A-Za-z])c\.\s*'
+                    r'(?=[ivxlIVXL]{1,7}\.\s*\d)')
+# a range crossing a chapter: 'viii. 28-ix. 3', '8:28-9:3' or '8. 28-9. 3' (FS.parse reads its start
+# only); with the chapter repeated ('iii. 28-iii. 3') it may also run backwards in one chapter
 CROSS_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*([ivxlc]{1,7})\.\s*(\d{1,3})\b'
-                         r'|\b(\d{1,3}):(\d{1,3})\s*[–—-]+\s*(\d{1,3}):(\d{1,3})\b')
+                         r'|\b(\d{1,3})[:.]\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})[:.]\s*(\d{1,3})\b')
 # a range running backwards in one chapter ('iii. 12-8'): FS.parse drops its end
 BACK_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)'
                         r'|\b(\d{1,3}):(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)')
@@ -980,34 +999,79 @@ def chapters(ids):
     return _CHAPTERS
 
 
+def book_c(text):
+    """'Gal. c. iv. 3' -> 'Gal. iv. 3' where the name is a KJV book: FS.parse
+    would read the 'c.' as Roman 100 ('Gal 100')."""
+    def f(m):
+        b, kind = FS.book_of(m.group(2), m.group(3), "eng")
+        return m.group(1) if b and kind == "kjv" else m.group(0)
+    return BOOK_C.sub(f, text)
+
+
+ROMAN_NAME = re.compile(r'[IVXLC]+')
+
+
+def book_before(text, pos):
+    """The book a reference at `pos` is read under: the last name before it
+    that FS.parse would take as a book (a name that is no book, or another
+    work's title, ends the book before it). Roman chapter numerals are not names."""
+    book = None
+    for m in FS.BOOK_RE.finditer(text):
+        if m.start() >= pos:
+            break
+        if ROMAN_NAME.fullmatch(m.group("name")) and not m.group("pre"):
+            continue
+        b, kind = FS.book_of(m.group("pre"), m.group("name"), "eng")
+        book = b if b and kind == "kjv" and not FS.NOT_AFTER.search(text, 0, m.start()) else None
+    return book
+
+
 def cross_ranges(text):
-    """(chapter, verse) -> (chapter, verse) for every range in the text that
-    crosses into a later chapter, or runs backwards in one."""
+    """(book, chapter, verse) -> (chapter, verse) for every range in the text
+    that crosses into a later chapter, runs backwards in one, or repeats its
+    chapter ('iii. 28-iii. 3'). Keyed by the book it is read under, so a range
+    applies only to its own reference, never to another book cited at the same
+    chapter and verse ('Phil. iii. 20-iv. 1; comp. Col. iii. 20')."""
     out = {}
-    for m in CROSS_RANGE.finditer(text):
+    s = text.replace("—", "-").replace("–", "-").replace("‒", "-")
+    for m in CROSS_RANGE.finditer(s):
         if m.group(1):
             a, b = FS.roman(m.group(1)), FS.roman(m.group(3))
             v, w = int(m.group(2)), int(m.group(4))
         else:
             a, v, b, w = (int(m.group(k)) for k in (5, 6, 7, 8))
-        if a and b and b > a:
-            out.setdefault((a, v), (b, w))
-    for m in BACK_RANGE.finditer(text):
+        if a and b and (b > a or (b == a and w != v)):
+            out.setdefault((book_before(s, m.start()), a, v), (b, w))
+    for m in BACK_RANGE.finditer(s):
         a = FS.roman(m.group(1)) if m.group(1) else int(m.group(4))
         v, w = (int(m.group(2)), int(m.group(3))) if m.group(1) else (int(m.group(5)), int(m.group(6)))
         if a and w < v:
-            out.setdefault((a, v), (a, w))
+            out.setdefault((book_before(s, m.start()), a, v), (a, w))
     return out
 
 
 def self_c_refused(text, start):
     """A bare 'c. iv. 3' is another work's chapter when the word before it is
-    an abbreviation ('Euseb. H.E. c. iv. 3')."""
-    m = SELF_C_BEFORE.search(text[max(0, start - 40):start])
-    if not m:
+    an abbreviation ('Euseb. H.E. c. iv. 3'), when a Latin title word stands
+    among the three words before it ('Tertullian de Baptismo c. iv. 3'), or when
+    the word before is a capitalised name that does not open a sentence; 'cf.
+    c. iv. 3', 'comp. c. iv. 3', 'Compare c. x. 12' and 'Faith: c. ix. 15' are read."""
+    ws = text[max(0, start - 60):start].split()
+    if not ws:
         return False
-    w = m.group(1)
-    return w.endswith(".") and w.lower() not in SELF_C_OK and not re.fullmatch(r'[\d.]+', w)
+    w = ws[-1]
+    if w.lower() in SELF_C_OK or re.fullmatch(r'[\d.]+', w):
+        return False
+    if w.endswith("."):
+        return True
+    if any(x.lower().strip(",;:(") in SELF_C_TITLE for x in ws[-3:]):
+        return True
+    if w[-1] in ",;:":
+        return False            # a clause ends before the reference ('Faith: c. ix. 15')
+    if w[:1].isupper() and w.lower() not in SELF_C_ENGLISH:
+        before = ws[-2] if len(ws) > 1 else ""
+        return bool(before) and before[-1] not in ".!?)]"
+    return False
 
 
 def scripture(text, ids, own=None, chapter=None):
@@ -1018,8 +1082,9 @@ def scripture(text, ids, own=None, chapter=None):
     a range the KJV cannot end (past the chapter, or backwards) keeps its
     start only and says so in `through_unread`."""
     out, seen = [], set()
-    xr = cross_ranges(text)
-    for r in FS.parse("¶ " + text, "eng"):
+    read = book_c(text)
+    xr = cross_ranges(read)
+    for r in FS.parse("¶ " + read, "eng"):
         book, kind, ch, v, end, alt = r
         p = FS.printed(r)
         if p in seen:
@@ -1045,10 +1110,13 @@ def scripture(text, ids, own=None, chapter=None):
                 x["through"] = f"kjv:{book}.{ch}.{end}"
             else:
                 x["through_unread"] = f"{ch}:{end}: " + ("backwards" if end <= v else "past the chapter")
-        elif (ch, v) in xr:
-            c2, v2 = xr[(ch, v)]
-            if c2 == ch:
-                x["through_unread"] = f"{ch}:{v2}: backwards"
+        elif (book, ch, v) in xr:
+            c2, v2 = xr[(book, ch, v)]
+            if c2 < ch or (c2 == ch and v2 <= v):
+                x["through_unread"] = f"{c2}:{v2}: backwards"
+            elif c2 == ch and f"kjv:{book}.{ch}.{v2}" in ids:
+                x["through"] = f"kjv:{book}.{ch}.{v2}"
+                x["ref"] = p = f"{p}-{v2}"
             elif f"kjv:{book}.{c2}.{v2}" in ids:
                 x["through"] = f"kjv:{book}.{c2}.{v2}"
                 x["ref"] = p = f"{p}-{c2}:{v2}"
@@ -1181,6 +1249,41 @@ def hebrew_measure(texts):
             "hebrew_tokens_3plus": toks,
             "hebrew_tokens_strongs_lemma": round(known / toks, 4) if toks else 0,
             "hebrew_tokens_strongs_lemma_or_prefixed": round(known_p / toks, 4) if toks else 0}
+
+
+def hebrew_pairs(lines):
+    """Adjacent Hebrew words in a line, in the order the line holds them (the
+    hOCR's, or left to right where merge_rows joined two OCR rows): how many
+    pairs run right to left on the page (the second word's box left of the
+    first: Hebrew's reading order) and how many left to right (word-reversed)."""
+    rtl = ltr = 0
+    for l in lines:
+        ws = l["words"]
+        for a, b in zip(ws, ws[1:]):
+            if HEBREW_WORD.match(a[5].lstrip("([‘“'\"")) and HEBREW_WORD.match(b[5].lstrip("([‘“'\"")):
+                if b[0] < a[0]:
+                    rtl += 1
+                else:
+                    ltr += 1
+    return {"pairs_right_to_left": rtl, "pairs_left_to_right": ltr}
+
+
+def hebrew_word_order(slug):
+    """hebrew_pairs over every line as the build keeps it: the hOCR's word
+    order, which the build never reorders; a note leaf's lines after
+    merge_rows, which sorts the words of two joined OCR rows left to right."""
+    s0 = SCANS[slug]
+    tot = collections.Counter()
+    for s in volumes(s0):
+        P = pages(slug, s)
+        seg = {leaf for e in s["epistles"] for leaf in range(e[1], e[2] + 1)}
+        a0, b0 = s["leaves"]
+        for leaf in range(a0, b0 + 1):
+            body = analyse(P[leaf])["body"]
+            if leaf in seg and s0.get("style") == "ver":
+                body = C.merge_rows(body)
+            tot.update(hebrew_pairs(body))
+    return {k: tot[k] for k in ("pairs_right_to_left", "pairs_left_to_right")}
 
 # ------------------------------------------------------------------ printed pages
 
@@ -1373,6 +1476,36 @@ class VerDecoder:
         return c, n, e
 
 
+def note_leaf(nu, vol, leaf, pp):
+    """A note unit's leaves as (volume, leaf): a verse taken up again in a later
+    volume (Westcott's John) joins its first unit, and leaf numbers (and
+    folios) repeat from one volume to the next. `leaves` and `pages` keep the
+    unit's own (first) volume's only."""
+    if (vol, leaf) in nu["vleaves"]:
+        return
+    nu["vleaves"].append((vol, leaf))
+    if vol == nu["vol"]:
+        nu["leaves"].append(leaf)
+    if pp and (vol, pp[0]) not in nu["vpages"]:
+        nu["vpages"].append((vol, pp[0]))
+        if vol == nu["vol"]:
+            nu["pages"].append(pp[0])
+
+
+def note_scan(nu):
+    """A note unit's `scan`: its volume's leaves and folios; where it runs into
+    another volume, every leaf and folio with its volume as well."""
+    sc = {"leaves": nu["leaves"]}
+    if nu["pages"]:
+        sc["printed_pages"] = nu["pages"]
+    if nu["vol"]:
+        sc["volume"] = nu["vol"]
+    if any(v != nu["vol"] for v, _ in nu["vleaves"]):
+        sc["volume_leaves"] = [list(t) for t in nu["vleaves"]]
+        sc["volume_printed_pages"] = [list(t) for t in nu["vpages"]]
+    return sc
+
+
 def build_scan(slug, ids):
     s0 = SCANS[slug]
     vols = volumes(s0)
@@ -1521,18 +1654,15 @@ def build_scan(slug, ids):
                 m["notes_reopened"] += 1      # (wave 2a) the verse taken again later: its text joins the first
             if key not in notes:
                 notes[key] = {"book": book, "c": c, "n": n, "e": e, "text": "", "leaves": [], "pages": [],
-                              "vol": x["vol"]}
+                              "vol": x["vol"], "vleaves": [], "vpages": []}
             cur = current[book] = key
         if cur is None:
             cur = current[book] = f"{vol_id(x['vol'])}{ids_prefix(slug, book)}title"
             notes.setdefault(cur, {"book": book, "c": None, "n": None, "e": None, "text": "",
-                                   "leaves": [], "pages": [], "vol": x["vol"]})
+                                   "leaves": [], "pages": [], "vol": x["vol"], "vleaves": [], "vpages": []})
         nu = notes[cur]
         nu["text"] = nu["text"] + "\n" + l["text"] if (indented and nu["text"]) else C.join(nu["text"], l["text"])
-        if leaf not in nu["leaves"]:
-            nu["leaves"].append(leaf)
-            if x["pp"] and x["pp"][0] not in nu["pages"]:
-                nu["pages"].append(x["pp"][0])
+        note_leaf(nu, x["vol"], leaf, x["pp"])
     if books:
         # runs kept only at their first verse: backwards, over 15 verses, past
         # the chapter; and run openers into the next chapter, not read at all
@@ -1549,11 +1679,7 @@ def build_scan(slug, ids):
                       "resolved": f"kjv:{book}.{nu['c']}.{v}" in ids} for v in vs]
             ref = note_ref(s, book, nu["c"], nu["n"], nu["e"])
         u = {"id": f"{slug}:{key}", "ref": ref, "kind": "note", "book": book, "text": nu["text"], "links": links,
-             "scan": {"leaves": nu["leaves"]}}
-        if nu["pages"]:
-            u["scan"]["printed_pages"] = nu["pages"]
-        if nu["vol"]:
-            u["scan"]["volume"] = nu["vol"]
+             "scan": note_scan(nu)}
         units.append(u)
     order = {"page": 0, "epistle-text": 0, "note": 1}
     units.sort(key=lambda u: (u["scan"].get("volume", 0), min(u["scan"]["leaves"]), order[u["kind"]]))
@@ -2834,15 +2960,18 @@ RUNS_HONESTY = (
     "; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or "
     "over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an "
     "opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references "
-    "a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3', included) and a range the "
-    "KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' "
-    "and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after "
-    "another work's abbreviation ('Euseb. H.E. c. iv. 3')")
+    "a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; "
+    "a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its "
+    "start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' is Gal 4:3; "
+    "'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never "
+    "after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo "
+    "c. iv. 3') or a capitalised name not opening a sentence")
 
 
 RANGES_HONESTY_2B = (
-    "; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a "
-    "range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)")
+    "; in the scripture references a range keeps its end in `through` (one crossing chapters included; a "
+    "range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start "
+    "only, marked through_unread (scripture_links.ranges_start_only)")
 
 
 def honesty(slug, ocr):
@@ -2880,7 +3009,11 @@ def _honesty(slug, ocr):
                 "century and inquiries) and the dedications, prefaces, addenda and indexes by scan leaf "
                 "(v<N>.leaf.<M>, the folio in scan.printed_page where read); lines of bare accents dropped and "
                 "counted; the Hebrew and Aramaic quotations are the OCR's Hebrew script, unpointed and often "
-                "misread (measure.hebrew); unproofread OCR")
+                "misread (measure.hebrew), each line's words kept in the order the hOCR gives them, never "
+                "reordered: of adjacent Hebrew words in a line, measure.hebrew.word_order counts the pairs the "
+                "OCR gave right to left on the page (Hebrew's reading order: nearly all) and left to right "
+                "(word-reversed: where two OCR rows were joined, words sorted left to right, or the OCR erred); "
+                "unproofread OCR")
     tail = f"; {sc['honesty']}" if sc.get("honesty") else ""
     return ("notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note "
             "paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, "
@@ -2933,7 +3066,8 @@ def build_book(slug, ids):
                       "sha256": hashlib.sha256(" ".join(v["sha256"] for v in vs).encode()).hexdigest(),
                       "volumes": [{"vol": v["vol"], "ia": v["ia"], "sha256": v["sha256"], "leaves": list(sp)}
                                   for v, sp in zip(vs, spans)]}
-            rights = {"license": f"public domain in the US (printed {s['printed']}); the scans and their OCR are "
+            rights = {"license": f"public domain in the US (printed {s.get('printed_label', s['printed'])}); the "
+                                 "scans and their OCR are "
                                  "the Internet Archive's",
                       "ia_possible_copyright_status": "; ".join(
                           f"vol. {v['vol']} {v['ia']}: " + (v["ia_rights"] or "(the item's metadata carries no "
@@ -2978,7 +3112,7 @@ def build_book(slug, ids):
                                                            if "through_unread" in x)}
     measure["greek"] = greek_measure(u["text"] for u in units)
     if slug in HEBREW:
-        measure["hebrew"] = hebrew_measure(u["text"] for u in units)
+        measure["hebrew"] = dict(hebrew_measure(u["text"] for u in units), word_order=hebrew_word_order(slug))
     book = {"slug": slug, "title": meta["title"], "author": meta["author"], "edition": meta["edition"],
             "source": source,
             "scheme": {"citation": citation(slug, ocr), "resolution": "verse-note" if eps else "page",

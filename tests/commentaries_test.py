@@ -153,6 +153,40 @@ check("scripture: a range running backwards keeps its start and says so",
 r = B.scripture("cf. Gal. iii. 8-40", ids)
 check("scripture: a range past the chapter keeps its start and says so",
       [(x["target"], "through" in x, x.get("through_unread")) for x in r] == [("kjv:Gal.3.8", False, "3:40: past the chapter")])
+# (review c9) a range applies only to its own book's reference
+r = B.scripture("Phil. iii. 20-iv. 1; comp. Col. iii. 20", ids)
+check("scripture: 'Phil. iii. 20-iv. 1' does not spill onto 'Col. iii. 20'",
+      [(x["target"], x.get("through")) for x in r] == [("kjv:Phil.3.20", "kjv:Phil.4.1"), ("kjv:Col.3.20", None)])
+r = B.scripture("Phil. iii. 12-8 and Col. iii. 12", ids)
+check("scripture: 'Phil. iii. 12-8' is backwards, 'Col. iii. 12' is not",
+      [(x["target"], x.get("through_unread")) for x in r] == [("kjv:Phil.3.12", "3:8: backwards"), ("kjv:Col.3.12", None)])
+# (review c9) a work named without an abbreviation is another work
+check("scripture: 'Tertullian de Baptismo c. iv. 3' is not Gal 4.3",
+      not B.scripture("Tertullian de Baptismo c. iv. 3", ids, own="Gal", chapter=2))
+check("scripture: 'cf. c. iv. 3' and 'comp. c. iv. 3' are still Gal 4.3",
+      all([x.get("target") for x in B.scripture(t, ids, own="Gal", chapter=2)] == ["kjv:Gal.4.3"]
+          for t in ("cf. c. iv. 3", "comp. c. iv. 3")))
+check("scripture: a clause before 'c.' or a sentence opening it is the epistle's own ('Faith: c. ix. 15', "
+      "'thoughts. Compare c. x. 12', 'this Epistle c. iii. 17'); 'Pro Cluentio, c. v. 12' is not",
+      [x.get("target") for t in ("the Faith: c. iv. 15", "thoughts. Compare c. iv. 12", "this Epistle c. iii. 17")
+       for x in B.scripture(t, ids, own="Gal", chapter=2)] == ["kjv:Gal.4.15", "kjv:Gal.4.12", "kjv:Gal.3.17"]
+      and not B.scripture("Pro Cluentio, c. v. 12", ids, own="Gal", chapter=2))
+# (review c9) '<Book>. c. <roman>. <n>' is the book's chapter, never Roman C
+r = B.scripture("Chrys. on Gal. c. iv. 3", ids, own="Gal", chapter=2)
+check("scripture: 'Chrys. on Gal. c. iv. 3' is Gal 4.3, not 'Gal 100'",
+      [(x["ref"], x.get("target")) for x in r] == [("Gal 4:3", "kjv:Gal.4.3")])
+check("scripture: 'Mic. v. 2' keeps its 'c' (not read as 'Mi' + 'c.')",
+      [x.get("target") for x in B.scripture("Mic. v. 2", ids)] == ["kjv:Mic.5.2"])
+# (review c9) an arabic range into the next chapter; a backward range with the chapter repeated
+r = B.scripture("Rom. 8. 28-9. 3", ids)
+check("scripture: 'Rom. 8. 28-9. 3' keeps its end",
+      [(x["target"], x.get("through")) for x in r] == [("kjv:Rom.8.28", "kjv:Rom.9.3")])
+r = B.scripture("Gal. iii. 28-iii. 3", ids)
+check("scripture: 'Gal. iii. 28-iii. 3' keeps its start and says it runs backwards",
+      [(x["target"], "through" in x, x.get("through_unread")) for x in r] == [("kjv:Gal.3.28", False, "3:3: backwards")])
+r = B.scripture("Gal. iii. 3-iii. 5", ids)
+check("scripture: 'Gal. iii. 3-iii. 5' (chapter repeated, forwards) keeps its end",
+      [(x["target"], x.get("through")) for x in r] == [("kjv:Gal.3.3", "kjv:Gal.3.5")])
 
 # -- refs, rights, folios
 s = {"short": "Lightfoot, Gal."}
@@ -175,6 +209,9 @@ check("printed_pages: a stray number is not a folio", pp.get(15, (None,))[0] != 
 # -- the pins
 check("pins: every scan pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) for s in B.SCANS.values() for v in B.volumes(s)))
 check("pins: the Gutenberg file pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", g["sha256"]) for g in B.GUTENBERG.values()))
+check("pins: the Horae's printed year is 1859, labelled as the sheets, the copies possibly a later issue",
+      B.SCANS["lightfoot-horae"]["printed"] == 1859
+      and B.SCANS["lightfoot-horae"]["printed_label"] == "1859 (the sheets; this copy possibly a later issue)")
 check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s in list(B.SCANS.values()) + list(B.GUTENBERG.values())))
 check("pins: every scan's Internet Archive date (pinned from its metadata; fetch() stops if it changes) is "
       "before 1929 and is the edition's printed year, or a note says why not",
@@ -267,6 +304,27 @@ dl = B.Decoder({1: 25, 2: 25}, lookahead=True)
 dl.c, dl.v = 1, 22
 check("decoder lookahead: a list '1.' is not the turn while this chapter's later verses are ahead",
       dl.offer(1, None, None, [], ahead=[(None, 2), (None, 3), (None, 23)]) is None)
+# (review c9) a note taken up again in another volume: (volume, leaf) pairs
+nu = {"vol": 1, "leaves": [], "pages": [], "vleaves": [], "vpages": []}
+B.note_leaf(nu, 1, 400, (790, "read"))
+B.note_leaf(nu, 2, 15, (3, "read"))
+B.note_leaf(nu, 2, 400, (788, "read"))       # the same leaf number in vol. 2: not the vol. 1 leaf
+B.note_leaf(nu, 1, 400, (790, "read"))
+sc = B.note_scan(nu)
+check("westcott multi-volume: a unit running into vol. 2 keeps vol. 1's leaves and lists every (volume, leaf)",
+      sc["volume"] == 1 and sc["leaves"] == [400] and sc["printed_pages"] == [790]
+      and sc["volume_leaves"] == [[1, 400], [2, 15], [2, 400]]
+      and sc["volume_printed_pages"] == [[1, 790], [2, 3], [2, 788]])
+nu = {"vol": 2, "leaves": [], "pages": [], "vleaves": [], "vpages": []}
+B.note_leaf(nu, 2, 15, None)
+check("westcott multi-volume: a unit in one volume carries no volume_leaves",
+      B.note_scan(nu) == {"leaves": [15], "volume": 2})
+# (review c9) the Hebrew word order: the hOCR's, measured, never reordered
+heb = [{"words": [(300, 0, 340, 10, 90, "בראשית"), (250, 0, 290, 10, 90, "ברא"), (200, 0, 240, 10, 90, "אלהים"),
+                  (100, 0, 140, 10, 90, "God")]},
+       {"words": [(100, 0, 140, 10, 90, "ברא"), (150, 0, 190, 10, 90, "אלהים")]}]
+check("hebrew_pairs: right-to-left word boxes (reading order) and left-to-right ones counted apart",
+      B.hebrew_pairs(heb) == {"pairs_right_to_left": 2, "pairs_left_to_right": 1})
 hm = B.hebrew_measure(["the word בראשית and ובראשית here"])
 check("hebrew_measure: letters counted, a prefixed lemma found",
       hm["hebrew_letters"] == 13 and hm["hebrew_tokens_3plus"] == 2 and hm["hebrew_tokens_strongs_lemma_or_prefixed"] >= 0.5)
@@ -291,6 +349,14 @@ if "lightfoot-horae" in ents:
           e["measure"]["openers_against_running_head"] <= 0.05 * e["measure"]["openers_on_headed_pages"])
     check("manifest: the Horae's scripture references mostly resolve (75%: it cites the Talmud's books too)",
           e["measure"]["scripture_links"]["resolved"] >= 0.75 * e["measure"]["scripture_links"]["read"])
+    wo = e["measure"]["hebrew"]["word_order"]
+    check("manifest: the Horae's Hebrew word order is measured (nearly all right to left) and the honesty says "
+          "it is the hOCR's, not reordered",
+          wo["pairs_right_to_left"] > 50 * wo["pairs_left_to_right"]
+          and "never reordered" in e["scheme"]["honesty"] and "word_order" in e["scheme"]["honesty"])
+    check("manifest: the Horae's printed date says the copies may be a later issue",
+          "1859 (the sheets; this copy possibly a later issue)" in e["rights"]["license"]
+          and "may be a later issue" in e["scheme"]["note"])
 ELL = {"ellicott-galatians": ["Gal"], "ellicott-ephesians": ["Eph"], "ellicott-philippians": ["Phil", "Col", "Phlm"],
        "ellicott-thessalonians": ["1Thess", "2Thess"], "ellicott-pastorals": ["1Tim", "2Tim", "Titus"]}
 for k, bks in ELL.items():
