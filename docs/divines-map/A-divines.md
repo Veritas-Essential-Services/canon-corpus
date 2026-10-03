@@ -1867,3 +1867,12 @@ Slugs `finney-*`. A veto point: his theology departs from the Reformed divines.
 |---|---|---|
 | Lectures on Revivals of Religion; Systematic Theology (1878); Lectures to Professing Christians; Sermons on Gospel Themes; Letters on Revival; The Backslider in Heart | have-clean | CCEL |
 | Power from on High | have-clean | CCEL (keyed from the Christian Literature Crusade reprint, 1944) |
+
+
+## E. M. Bounds (round 12, my pick, 2026-10-03)
+
+Slugs `bounds-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Power Through Prayer; Purpose in Prayer; The Necessity of Prayer; The Essentials of Prayer; The Reality of Prayer; The Weapon of Prayer; Prayer and Praying Men | have-clean | CCEL |

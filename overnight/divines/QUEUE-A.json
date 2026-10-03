@@ -1363,10 +1363,12 @@
     },
     {
       "id": "e-m-bounds",
-      "status": "queued",
+      "status": "done",
       "scope": "E. M. Bounds: Power Through Prayer and the other prayer books (d. 1913)",
       "added": "2026-10-03T02:54:08-05:00",
-      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:58:59-05:00",
+      "notes": "7 CCEL texts"
     },
     {
       "id": "hannah-whitall-smith",

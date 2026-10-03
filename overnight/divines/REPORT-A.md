@@ -527,3 +527,6 @@
 
 ## 2026-10-03 02:58 CDT — charles-finney done
 - `pipeline/charles-finney_shelf.json`: 7 CCEL texts. Power from on High is keyed from a 1944 Christian Literature Crusade reprint and is flagged. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:58 CDT — e-m-bounds done
+- `pipeline/e-m-bounds_shelf.json`: 7 CCEL texts. Bare "bounds" is never used as a name form. CCEL writes "E.M. Bounds" with no space, so that form was added after Purpose in Prayer was refused on the first pass. `--verify --record`: 0 mismatched. 0 uids minted.

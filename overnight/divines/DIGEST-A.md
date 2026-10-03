@@ -227,6 +227,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 |---|---|---|---|---|---|
 | Alexander Maclaren | alexander-maclaren_shelf.json | 19 CCEL (Expositions of Holy Scripture in 14 parts, Genesis to First Timothy; Expositor's Bible Psalms, 3 vols, and Colossians-Philemon; Life of David) | none | none | none |
 | Charles G. Finney (veto point: not Reformed) | charles-finney_shelf.json | 7 CCEL (Lectures on Revivals; Systematic Theology, 1878; Lectures to Professing Christians; Sermons on Gospel Themes; Power from on High, keyed from a 1944 reprint; Letters on Revival; Backslider in Heart) | none | none | CCEL's duplicate Lectures to Professing Christians entry |
+| E. M. Bounds | e-m-bounds_shelf.json | 7 CCEL (Power Through Prayer; Purpose in Prayer; The Necessity, Essentials, Reality and Weapon of Prayer; Prayer and Praying Men) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain E. M. Bounds (1835-1913, Methodist minister and Confederate chaplain) for the Word Hoard: his seven books on prayer (Power Through Prayer, Purpose in Prayer, The Necessity of Prayer, The Essentials of Prayer, The Reality of Prayer, The Weapon of Prayer, Prayer and Praying Men), clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/bounds",
+ "_name_words": [
+  "bounds",
+  "edward"
+ ],
+ "_surname": [
+  "e. m. bounds",
+  "edward m. bounds",
+  "edward mckendree bounds",
+  "e.m. bounds",
+  "bounds, e.m",
+  "bounds, e. m"
+ ],
+ "_held": {},
+ "ccel": {
+  "bounds-power": [
+   "power",
+   "Power Through Prayer",
+   ""
+  ],
+  "bounds-purpose": [
+   "purpose",
+   "Purpose in Prayer",
+   ""
+  ],
+  "bounds-necessity": [
+   "necessity",
+   "The Necessity of Prayer",
+   ""
+  ],
+  "bounds-essentials": [
+   "essentials",
+   "The Essentials of Prayer",
+   ""
+  ],
+  "bounds-reality": [
+   "reality",
+   "The Reality of Prayer",
+   ""
+  ],
+  "bounds-weapon": [
+   "weapon",
+   "The Weapon of Prayer",
+   ""
+  ],
+  "bounds-prayingmen": [
+   "prayingmen",
+   "Prayer and Praying Men",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "bounds-power": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bounds-purpose": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e.m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bounds-necessity": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bounds-essentials": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bounds-reality": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bounds-weapon": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bounds-prayingmen": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. m. bounds",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}
