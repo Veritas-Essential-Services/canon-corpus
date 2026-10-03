@@ -34,6 +34,11 @@
    "bub_gb_z9lUAAAAcAAJ",
    "The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868)",
    "tr. F. A. Paley"
+  ],
+  "pindar-cary-1833": [
+   "pindarinenglish00carygoog",
+   "Pindar in English Verse (London: Edward Moxon; IA records 1833)",
+   "tr. Henry Francis Cary"
   ]
  },
  "_cross_ref": {
@@ -55,7 +60,8 @@
  "_translator_unchecked": {
   "pindar-west-1749": "the long-s OCR never prints Gilbert West's name; 'west' alone is a common word and proves nothing",
   "pindar-laurent-prose-1824": "attributed by the catalogue; the title page names no translator",
-  "pindar-paley-1868": "title page OCRs the name as 'F. A. PA LET, M.A., editor and translator of Aeschylus' (Williams and Norgate, 1868); the claim is not matched as written"
+  "pindar-paley-1868": "title page OCRs the name as 'F. A. PA LET, M.A., editor and translator of Aeschylus' (Williams and Norgate, 1868); the claim is not matched as written",
+  "pindar-cary-1833": "title page OCRs the name as 'HENRY FRANCIS ClUY, A.M.' (Moxon); the claim is not matched as written"
  },
  "_checks": {
   "pindar-myers": {
@@ -114,6 +120,17 @@
    "ia_rights": "ok: published 1868",
    "ia_date": "1868",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pindar-cary-1833": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
