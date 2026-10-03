@@ -841,8 +841,10 @@
     {
       "id": "croker",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: croker; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:31:17-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:31:17-05:00",
+      "finished": "2026-10-02T20:34:12-05:00",
+      "notes": "1/1 fetched (Gutenberg 39752), 1,213 units, 1 ~2 ids."
     },
     {
       "id": "keightley",
