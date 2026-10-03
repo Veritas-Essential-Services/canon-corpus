@@ -20,11 +20,13 @@ that can run in the cloud passes.
 |---|---|---|---|---|
 | 1 | #6 | `claude/project-thread-ja8lqz` | upkeep + the Contents-reader title fix | 356ed3a |
 | 2 | #5 | `claude/project-thread-rcfr2a` | BDB scripture refs resolved to KJV verses | 25fe747 |
-| 3 | #9 | `claude/project-thread-xatdhh` | Vulgate, Douay, Brenton + their KJV maps | a85df25 |
+| 3 | #9 | `claude/project-thread-xatdhh` | Vulgate, Douay, Brenton + their KJV maps | db5f5a9 |
 | 4 | #8 | `claude/project-thread-tskfc3` | whole Greek NT, Hebrew OT text, Apostolic Fathers | f42632b |
-| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word | 29c55c8 |
-| 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry | 232ae6d |
-| 7 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 92a1a06 |
+| 4b | — | — | **after #8: rerun `python3 pipeline/build_parallel_index.py` and commit the result.** It fills the Greek NT column; #9's build reads #8's one-folder-per-book layout. | — |
+| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word | 97dc4c0 |
+| 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry | 0281061 |
+| 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles | 0b231ed |
+| 8 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 4aa2994 |
 
 Heads move. Before merging, check each branch's head against this table; if
 one moved, repeat the trial (last section).
@@ -40,6 +42,9 @@ one moved, repeat the trial (last section).
   shows only the Strong's work.
 - **#7 contains an older #10** (merged at 232ae6d, for its tooling). So #10
   goes before #7.
+- **#11 is stacked on #8 and #9** (its own commits start after 9d6dae5), so it
+  goes after them; it is placed after #7 so the Apostolic Fathers manifest
+  entries are settled once.
 - **#6 is independent.** It is small and touches the reader, so it goes first.
   It now carries two commits that need your ruling (below).
 - **The relay branch is last.** It is 158 new files (shelf lists, converters,
@@ -50,19 +55,25 @@ one moved, repeat the trial (last section).
 
 Each step merged the branch into the result of the step before.
 
-Trial of 2026-10-03, at the heads in the table above:
+Trial of 2026-10-03 01:00 UTC, at the heads in the table above:
 
 | Step | Result | Conflicted files |
 |---|---|---|
 | #6 | clean | none |
 | #5 | conflict | `CLAUDE.md` |
-| #9 | clean | none |
-| #8 | clean | none |
-| #10 | conflict | `data/books/manifest.json` (fix 5) |
-| #7 | conflict | `CLAUDE.md` |
+| #9 | conflict | `CLAUDE.md` |
+| #8 | conflict | `CLAUDE.md` |
+| #10 | conflict | `CLAUDE.md`, `data/books/manifest.json` (fix 5) |
+| #7 | conflict | `CLAUDE.md`, `tests/structure_test.py` (fix 4) |
+| #11 | conflict | `CLAUDE.md`, `data/books/manifest.json` (fix 3), `pipeline/fetch_sources.py` |
 | relay | clean | none |
 
-Final tree against `main`: 362 files changed, +232,899 / -707. The 2026-10-02
+Final tree against `main`: 420 files changed, +249,677 / -701. The
+`CLAUDE.md` conflicts are all fixes 1 and 2. #11's `fetch_sources.py` conflict
+is new: #11 and the branches before it each added source dicts at the same
+place, so keep both sides. A full merge rehearsal is running on
+`claude/merge-rehearsal` (the build-check thread), which will report anything
+this quick trial missed. The 2026-10-02
 trial (#7 before #10) also conflicted in `tests/structure_test.py` and the
 book manifest at #7; with #10 first, #7's only conflict is `CLAUDE.md`. Fixes
 3 and 4 below are kept in case #7 moves again.
@@ -226,6 +237,20 @@ counterpart on the relay branch.
   the branch's history on 2026-10-02.
 - The OSHB OT layer is CC BY. Commit it, or keep building it locally.
 - The Latin key (added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? Until you say yes, only its manifest is committed; the files build to `build/latin-key/` and were removed from the branch's history on 2026-10-02. It adds no conflicts.
+
+**#11**
+- Before merging, apply the #11 review's fix to Lightfoot's `rights.license`
+  field (it currently reads "public domain (Lightfoot & Harmer, 1891; the
+  file's DC.Rights reads 'Public Domain'); CCEL's head also carries ...
+  'Copyright Christian Classics Ethereal Library'").
+- Lightfoot: should `redistribute_whole` be true? The text is PD; CCEL claims
+  copyright on its prepared file.
+- #8's `build_apostolic_fathers.py` still lists Lightfoot as pending; that fix
+  belongs in #8 (or a follow-up after #11).
+
+**Across #9 and #11**
+- Does the "no SWORD rips" rule cover the scrollmapper English Bibles and the
+  Douay?
 
 **Relay branch**
 - Decide whether it becomes a PR at all, or which lanes do.
