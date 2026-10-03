@@ -1,0 +1,37 @@
+{
+ "_about": "John Row (1568-1646), minister of Carnock: The History of the Kirk of Scotland from 1558 to August 1637, with a continuation to July 1639 by his son, ed. David Laing (Wodrow Society, Edinburgh, 1842). Named john-row because 'row' alone is an ordinary English word; for the same reason the surname check is weak here, and the title page was read by eye ('BY JOHN ROW, MINISTER OF CARNOCK'). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "row"
+ ],
+ "_surname": [
+  "row"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "row-history-of-the-kirk": [
+   "thekirkofscotlan00rowuoft",
+   "The History of the Kirk of Scotland, from the year 1558 to August 1637, with a continuation to July 1639, ed. David Laing (Wodrow Society, Edinburgh, 1842)"
+  ]
+ },
+ "_alternates": {
+  "historyofkirkofs00rowj, historyofkirkofs0000rowj": "Princeton and GTU copies.",
+  "historykirkscot00rowgoog, historykirkscot01rowgoog, historyofkirkofs02rowj": "Google and NLS scans."
+ },
+ "_excluded": {
+  "Sermons of James Row ('Pockmanty' and 'Red-shankes' sermons, 18th-century reprints)": "A different Row; satirical pieces."
+ },
+ "_checks": {
+  "row-history-of-the-kirk": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "row",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
