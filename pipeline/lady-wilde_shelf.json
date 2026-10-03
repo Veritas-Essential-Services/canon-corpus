@@ -1,0 +1,26 @@
+{
+ "_about": "Lady Wilde's (1821-1896) collection of Irish legends, charms and superstitions, gathered from the people. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lady Wilde (Speranza)",
+ "_name_words": [
+  "wilde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lady-wilde-ancient-legends-of-ireland": [
+   61436,
+   "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)[A-Z0-9][A-Z0-9' ,.!?;:\"’‘—()&-]{2,}$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "PREFACE\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

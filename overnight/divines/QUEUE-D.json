@@ -829,6 +829,44 @@
       "started": "2026-10-02T20:25:11-05:00",
       "finished": "2026-10-02T20:30:09-05:00",
       "notes": "6/6 fetched (Gutenberg 3048, 3696, 4364, 5313, 6489, 4538), 5,064 units, 0 ~2 ids."
+    },
+    {
+      "id": "lady-wilde",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: lady-wilde; no minting",
+      "status": "done",
+      "started": "2026-10-02T20:31:15-05:00",
+      "finished": "2026-10-02T20:34:05-05:00",
+      "notes": "1/1 fetched (Gutenberg 61436), 2,552 units, 19 ~2 ids."
+    },
+    {
+      "id": "croker",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: croker; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:31:17-05:00"
+    },
+    {
+      "id": "keightley",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: keightley; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:31:19-05:00"
+    },
+    {
+      "id": "morrison",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: morrison; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:31:21-05:00"
+    },
+    {
+      "id": "robert-hunt",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: robert-hunt; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:31:23-05:00"
+    },
+    {
+      "id": "baring-gould",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: baring-gould; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:31:25-05:00"
     }
   ]
 }
