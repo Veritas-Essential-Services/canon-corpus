@@ -138,7 +138,7 @@
   "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched Update 2026-10-03: Rackham's Nicomachean Ethics (Loeb, 1926 printing) taken as a second Ethics witness (aristotle-perseus-rackham-nicomachean-ethics); Freese's Rhetoric refused (1947 printing in its record).",
   "worksofaristotle00unse (1830)": "'Aristotle's Masterpiece', a popular sex-and-midwifery manual falsely ascribed to Aristotle. Wrong author",
   "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues",
-  "tlg0086.tlg038.perseus-eng2": "Freese's Loeb Rhetoric (1926) on Perseus: the file's sourceDesc gives a 1947 printing, so the gate refuses it and no reason was stated; the Bohn Rhetoric is held instead"
+  "tlg0086.tlg038.perseus-eng2": "Freese's Loeb Rhetoric (1926) on Perseus: the file's sourceDesc gives a 1947 printing, and the gate refused it because no reason was written. It is in the same position as the kept Aeschines and Isaeus printings, so it is put to Adam with that whole class in DIGEST-B; held back until he rules. The Bohn Rhetoric is held meanwhile"
  },
  "_surname": [
   "aristotle",
@@ -532,7 +532,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  }
 }

@@ -35,9 +35,9 @@
   "aeschines-perseus-adams-against-ctesiphon": "Charles Darwin Adams"
  },
  "_rights_checked": {
-  "aeschines-perseus-adams-against-timarchus": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930",
-  "aeschines-perseus-adams-on-the-embassy": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930",
-  "aeschines-perseus-adams-against-ctesiphon": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930"
+  "aeschines-perseus-adams-against-timarchus": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+  "aeschines-perseus-adams-on-the-embassy": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+  "aeschines-perseus-adams-against-ctesiphon": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric."
  },
  "_perseus_checks": {
   "aeschines-perseus-adams-against-timarchus": {
@@ -51,10 +51,17 @@
     1919,
     1958
    ],
-   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0026/tlg001/tlg0026.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschines-perseus-adams-on-the-embassy": {
    "checked": "2026-10-03",
@@ -67,10 +74,17 @@
     1919,
     1958
    ],
-   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0026/tlg002/tlg0026.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "aeschines-perseus-adams-against-ctesiphon": {
    "checked": "2026-10-03",
@@ -83,10 +97,17 @@
     1919,
     1958
    ],
-   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0026/tlg003/tlg0026.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_checks": {}
