@@ -263,3 +263,8 @@
 - Moore's Loeb Histories vol. I (Tacitus; MCMXXV first printing, OCR 0.94).
 - Cicero's speeches in three Loebs: Watts (Pro Archia and five others; 1923), Grose Hodge (Pro Lege Manilia and three others; 1927), Freese (Pro Quinctio, Pro Roscio x2, De Lege Agraria; 1930). The scans are 1960s printings marked 'Reprinted', not revised, with no addenda; reasons in `_rights_checked`, and listed in DIGEST-B as decisions for Adam. OCR 0.92.
 - Found through an uploader's 'X in N volumes [Loeb NNN]' series on IA, whose text files carry non-standard names (recorded as each row's third element).
+
+## 2026-10-03 00:56 CDT — New shelves: Historia Augusta, Fronto
+- historia-augusta (new shelf): Magie's Loeb Scriptores Historiae Augustae vols. I (MCMXXI) and II (MCMXXIV), first printings, OCR 0.89-0.90; author check per the biographers' names (Spartianus, Capitolinus, Lampridius, Vopiscus). Vol. III (1932) is past the line.
+- fronto (new shelf): Haines's Loeb Correspondence of Fronto vols. I (MCMXIX) and II (MCMXX), first printings, OCR 0.82-0.83.
+- Seen and not taken: IA's 1991/1993 reprints of the Magie volumes and a 1988 reprint of Fronto vol. II (which follows Haines's 1929 revision); first printings preferred.

@@ -96,3 +96,4 @@
 - **Two wishlist volumes found (00:45):** Bennett's Loeb Horace and Firth's second Pliny volume, both on Indian digital-library scans. Each was taken on stated evidence rather than a clean date, and the reasons are in the shelf for you to overrule: the Bennett is a later printing of the 1914 text, and the Firth scan prints no year.
 - **Rouse's Lucretius (00:49):** the 1924 Loeb, from a true first printing. Also the reviewer's round-7 fixes and a `fetch_shelf.py --help` fix.
 - **Tacitus and Cicero Loebs (00:53):** Moore's Histories from a 1925 first printing, and three volumes of Cicero's speeches (Watts, Grose Hodge, Freese) from later plain reprints. The Cicero ones are added to your decisions list.
+- **Two new shelves (00:56):** the Historia Augusta (Magie, vols. I-II) and Fronto's letters with Marcus Aurelius (Haines, vols. I-II), all from first printings.
