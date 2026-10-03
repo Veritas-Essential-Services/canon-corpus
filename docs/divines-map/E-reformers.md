@@ -262,7 +262,7 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 
 | Work | Status | Where |
 |---|---|---|
-| Schaff, The Creeds of Christendom (3 vols) | have | `philip-schaff_shelf.json`: vol. III from CCEL (proofed; Baker's 1977 reprint, text copyright 1877-1919); vols I-II as raw OCR of the 1878 Harper printing, because CCEL keyed its vols I-II from the 1931 sixth edition |
+| Schaff, The Creeds of Christendom (3 vols) | have-raw | `philip-schaff_shelf.json`: all three as raw OCR of the 1878 Harper printing; CCEL's proofed texts pending (vols I-II are the 1931 sixth edition, vol. III is keyed from Baker's 1977 reprint) |
 | The Harmony of Protestant Confessions, ed. Peter Hall (1842) | have-raw | `peter-hall_shelf.json` |
 | Dunlop, A Collection of Confessions of Faith (1719-22, 2 vols) | pending | only long-s 18th-century scans, OCR at about a third common words |
 | Sprott and Leishman, Book of Common Order (Knox's Liturgy) and the Westminster Directory (1868) | have-raw | `george-sprott_shelf.json` |
@@ -304,7 +304,7 @@ US publications before 1930 are public domain in the US; the two 1930 books (Vos
 
 | Work | Status | Where |
 |---|---|---|
-| Kuyper, Encyclopedia of Sacred Theology (1898), Calvinism (Stone Lectures, 1899), The Work of the Holy Spirit (1900), and six other translations (1893-1929) | have-raw | `abraham-kuyper_shelf.json` |
+| Kuyper, Encyclopedia of Sacred Theology (1898), Calvinism (Stone Lectures, 1899), The Work of the Holy Spirit (1900), and six other translations (1893-1929), To Be Near unto God from the 1918 first edition | have-raw | `abraham-kuyper_shelf.json` |
 | Bavinck, The Philosophy of Revelation (1909); The Sacrifice of Praise (1922) | have-raw | `herman-bavinck_shelf.json` |
 | Vos, The Teaching of Jesus concerning the Kingdom (1903), Grace and Glory (1922), The Self-Disclosure of Jesus (1926) | have-raw | `geerhardus-vos_shelf.json`; Pauline Eschatology (1930) pending |
 | Machen, Literature and History of NT Times (1915), Origin of Paul's Religion (1921), Christianity and Liberalism (1923), What is Faith? (1925) | have-raw | `gresham-machen_shelf.json`; Virgin Birth (1930) pending |

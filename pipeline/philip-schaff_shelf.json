@@ -1,5 +1,5 @@
 {
- "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes: vol. III, the Creeds of the Evangelical Protestant Churches, the Reformed confessions and catechisms in their original languages with English translations, CCEL's proofed edition. CCEL keyed it from Baker Book House's 1977 photographic reprint ('reprinted by arrangement with' Harper), whose text carries copyrights of 1877, 1905 and 1919 and nothing later; noted here as the relay asks. Vols. I and II are held instead as Internet Archive OCR of Harper's 1878 printing (title pages read: 'Volume I. The History of Creeds', 'Volume II. The Greek and Latin Creeds', New York: Harper, 1878), because CCEL keyed its vols. I-II from the 1931 sixth edition (see _pending). Vol. II is mostly Greek and Latin in parallel columns, so its English word share is low by nature. CCEL's vol. III lacks Part First (the Lutheran creeds).",
+ "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes (New York: Harper, 1877-1878, 3 vols): I, The History of Creeds; II, The Greek and Latin Creeds, with Translations; III, The Evangelical Protestant Creeds, with Translations, the Lutheran and Reformed confessions and catechisms in their original languages with English translations. All three are Internet Archive OCR of Harper's 1878 printing (title pages read: 'Volume I. The History of Creeds', 'Volume II. The Greek and Latin Creeds', 'Volume III. Evangelical Protestant Creeds, with Translations', New York: Harper, 1878). Vols. II and III are mostly Greek, Latin and German in parallel columns, so their English word share is low by nature. Princeton's vol. III has a short pamphlet by James I. Good on the Synod of Dort bound in ahead of the title page. CCEL's proofed texts are pending (see _pending): its vols. I-II are the 1931 sixth edition, and its vol. III is keyed from a 1977 reprint.",
  "_name_words": [
   "schaff",
   "philip"
@@ -7,13 +7,7 @@
  "_surname": [
   "schaff"
  ],
- "ccel": {
-  "schaff-creeds-3": [
-   "creeds3",
-   "The Creeds of Christendom, vol. III: The Evangelical Protestant Creeds, with Translations",
-   ""
-  ]
- },
+ "ccel": {},
  "gutenberg": {},
  "internet_archive": {
   "schaff-creeds-1-1878": [
@@ -23,32 +17,24 @@
   "schaff-creeds-2-1878": [
    "creedsofchristen02scha",
    "The Creeds of Christendom, vol. II: The Greek and Latin Creeds, with Translations (New York: Harper, 1878)"
+  ],
+  "schaff-creeds-3-1878": [
+   "creedsofchristen187803scha",
+   "The Creeds of Christendom, vol. III: The Evangelical Protestant Creeds, with Translations (New York: Harper, 1878)"
   ]
  },
  "_ccel_author": "s/schaff",
  "_alternates": {
-  "creedsofchristen01scha, creedsofchristen187803scha, bibliothecasymbo02/03scha, creedsofchristen011831mbp, creedsofchristen027251mbp": "Internet Archive scans of the 1877-1878 and later printings; CCEL's proofed text is held instead of raw OCR."
+  "creedsofchristen01scha, bibliothecasymbo02/03scha, creedsofchristen011831mbp, creedsofchristen027251mbp": "Other Internet Archive scans of the 1877-1878 and later printings; not title-checked against the held copies."
  },
  "_pending": {
-  "Creeds of Christendom vol. III, Part First (the Lutheran symbols)": "Missing from CCEL's vol. III; the 1878 Princeton scan (creedsofchristen187803scha) prints it, and could be shelved whole as raw OCR if wanted.",
-  "ccel creeds1, creeds2 (The Creeds of Christendom, vols. I-II)": "Moved here 2026-10-03 after a review: CCEL keyed them from the 'Sixth Edition', whose preface (vol. I) is dated New York, January 1931 and whose vol. II text runs to March 1930. A 1931 US publication is public domain only if its copyright was not renewed; not checked. The 1878 Harper scans are held in their place. Note that Internet Archive's Wellesley set catalogued as 1919 (bibliothecasymbo010/020/030scha) is in fact this 1931 edition (its preface is dated January 1931)."
+  "ccel creeds1, creeds2 (The Creeds of Christendom, vols. I-II)": "Moved here 2026-10-03 after a review: CCEL keyed them from the 'Sixth Edition', whose preface (vol. I) is dated New York, January 1931 and whose vol. II text runs to March 1930. A 1931 US publication is public domain only if its copyright was not renewed; not checked. The 1878 Harper scans are held in their place. Note that Internet Archive's Wellesley set catalogued as 1919 (bibliothecasymbo010/020/030scha) is in fact this 1931 edition (its preface is dated January 1931).",
+  "ccel creeds3 (The Creeds of Christendom, vol. III)": "Moved here 2026-10-03 after review cycle 11. CCEL's proofed vol. III is keyed from Baker Book House's 1977 photographic reprint ('reprinted by arrangement with' Harper; CCEL's print-source field says '1889 (Baker reprint)'), whose text carries copyrights of 1877, 1905 and 1919 and nothing later, so the words are almost certainly public domain in the US; but the edition CCEL keyed is a post-1930 printing, and it lacks Part First (the Lutheran creeds). Adam's call whether to prefer CCEL's proofed text over the 1878 OCR now held as schaff-creeds-3-1878."
  },
  "_excluded": {
   "creedsofchristen0001phil_r9t1, creedsofchristen0000phil_c6b9 and other internetarchivebooks copies": "Lending-library scans."
  },
  "_checks": {
-  "schaff-creeds-3": {
-   "kind": "ccel",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "schaff",
-   "identity": "ok",
-   "ccel_dc_rights": "Public Domain",
-   "ccel_copyright_comment": true,
-   "ccel_print_source": "1889 (Baker reprint)",
-   "ccel_print_source_check": false,
-   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
-  },
   "schaff-creeds-1-1878": {
    "kind": "ia",
    "checked": "2026-10-03",
@@ -68,6 +54,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schaff-creeds-3-1878": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
