@@ -171,12 +171,15 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 | Thomas Scott | thomas-scott_shelf.json | none | 1 (Essays on the Most Important Subjects in Religion, with The Force of Truth, Edinburgh 1825) | none | the Family Bible commentary (not looked for yet) |
 | William Beveridge | william-beveridge_shelf.json | none | 12 (Theological Works, Library of Anglo-Catholic Theology, Oxford 1842-48; vols 11-12 Latin) | none | none |
 | W. G. T. Shedd | w-g-t-shedd_shelf.json | none | 5 (Dogmatic Theology, Scribner 1888, 2 vols + supplementary vol. 3, 1894; History of Christian Doctrine, 2 vols, copyright 1863) | none | a 2013 upload of unknown source |
+| Matthew Poole | none | none | none | all: Annotations upon the Holy Bible (IA holds only the 1683-1700 folios, long s in double columns, and one volume of an 1861 printing) | none |
+| John Trapp | none | none | none | all: the Commentary (the only scan is catalogued 1865 but is the 1958 Sovereign Grace reprint) | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
 - CCEL serves no text for several titles it lists (Bonar: Follow the Lamb, How Shall I Go to God, Winners of Souls; Ryle: The Two Bears). Held from IA where possible.
 - Summa: three treatise-opening questions lack a QUESTION heading in the Gutenberg text; the Supplement is not a row in adler_shelf.json.
+- The IA date gate trusts the catalogue, and a catalogue can date a reprint by its source: the only Trapp Commentary scan says 1865 and is a 1958 reprint by its own front matter. It was caught by reading the title page, not by the gate. Several shelves label a year as "catalogued" where the title page prints none.
 
 ## Decisions that are yours
 - **CCEL's non-commercial request** applies to all 198 CCEL items on lane A's 37 shelves (Spurgeon's 70 among them). Each one's DC.Rights line and CCEL's copyright comment are now recorded in its shelf's `_checks`, and every built book carries `redistribute_whole: false` with `ruling: pending (Adam)` until you say otherwise. Rule on it once for all.
