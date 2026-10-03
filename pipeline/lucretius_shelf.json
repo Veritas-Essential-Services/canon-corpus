@@ -55,6 +55,11 @@
    "tlucretiuscaruso00lucr",
    "T. Lucretius Carus of the Nature of Things, in six books, with notes and plates engraved by Guernier and others, vol. I: Books I-III (London: Daniel Browne, MDCCXLIII; Latin facing)",
    "tr. anonymous (English prose)"
+  ],
+  "lucretius-watson-good-bohn-1851": [
+   "lucretiusonnatu00goodgoog",
+   "Lucretius On the Nature of Things, literally translated into English prose, with the metrical version of John Mason Good (Bohn, MDCCCLI)",
+   "tr. John Selby Watson (prose); John Mason Good (verse)"
   ]
  },
  "_cross_ref": {
@@ -84,7 +89,8 @@
   "lucretius-perseus-leonard-de-rerum-natura": "William Ellery Leonard",
   "lucretius-good-1805-v1": "John Mason Good",
   "lucretius-good-1805-v2": "John Mason Good",
-  "lucretius-rouse-loeb-1924": "W. H. D. Rouse"
+  "lucretius-rouse-loeb-1924": "W. H. D. Rouse",
+  "lucretius-watson-good-bohn-1851": "Watson"
  },
  "_checks": {
   "lucretius-trevelyan-selections": {
@@ -200,6 +206,19 @@
    "ia_rights": "ok: published 1743",
    "ia_date": "1743",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucretius-watson-good-bohn-1851": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
