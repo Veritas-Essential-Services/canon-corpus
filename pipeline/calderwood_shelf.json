@@ -1,0 +1,146 @@
+{
+ "_about": "David Calderwood (1575-1650): The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, 8 vols, Edinburgh 1842-1849). Volume numbers read off each title page (Toronto's 05 copy is vol. 6). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "calderwood"
+ ],
+ "_surname": [
+  "calderwood"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calderwood-history-1": [
+   "historyofkirkofs01cald",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1842), vol. 1"
+  ],
+  "calderwood-history-2": [
+   "historyofthekirk02calduoft",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1843), vol. 2"
+  ],
+  "calderwood-history-3": [
+   "historyofkirkofs03calduoft",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1843), vol. 3"
+  ],
+  "calderwood-history-4": [
+   "historyofkirkofs04cald",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1843), vol. 4"
+  ],
+  "calderwood-history-5": [
+   "historyofkirkofs05cald",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1844), vol. 5"
+  ],
+  "calderwood-history-6": [
+   "historyofkirkofs06cald",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1845), vol. 6"
+  ],
+  "calderwood-history-7": [
+   "historyofkirkofs07cald",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1845), vol. 7"
+  ],
+  "calderwood-history-8": [
+   "historyofkirkofs08calduoft",
+   "The History of the Kirk of Scotland, ed. Thomas Thomson (Wodrow Society, Edinburgh, 1849), vol. 8"
+  ]
+ },
+ "_alternates": {
+  "historyofkirkof00cald": "Toronto vol. 1.",
+  "thehistoryofthek05calduoft": "Toronto copy of vol. 6 (catalogued as 5).",
+  "historyofthekirk07calduoft, historyofkirkof07cald": "Toronto copies of vol. 7.",
+  "historyofkirkofs0002cald, historyofkirkofs0008cald": "GTU copies of vols 2 and 8.",
+  "historykirkscot0[0-7]caldgoog": "Google scans (their volume field disagrees with their title pages).",
+  "historyofkirk02cald": "Princeton vol. 2 record; text file missing."
+ },
+ "_excluded": {
+  "Henry Calderwood; Mrs Calderwood of Polton": "Different people."
+ },
+ "_checks": {
+  "calderwood-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calderwood-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842-1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calderwood-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842-1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calderwood-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calderwood-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calderwood-history-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calderwood-history-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calderwood-history-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calderwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842-1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
