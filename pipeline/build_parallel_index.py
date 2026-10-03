@@ -27,7 +27,7 @@ WHERE EACH COLUMN COMES FROM (nothing here is a new judgement):
             the shards are gitignored, so run pipeline/rebuild_bible.py
             first): the RP2018 Greek is a witness of the KJV verse's own
             passage, so its ref is the KJV's.
-  vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv
+  vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv, coverdale, bishops
             each unit's `kjv` in data/books/<slug>.json (gitignored: built by
             structure_texts.py from the pinned sources, through the committed
             maps). The build stops if a book is missing rather than write an
@@ -45,7 +45,8 @@ import versification as V  # noqa: E402
 ROOT = os.path.normpath(os.path.join(HERE, ".."))
 OUT = os.path.join(ROOT, "data", "parallel", "kjv-parallel.tsv")
 BOOKS = os.path.join(ROOT, "data", "books")
-SHELF = ["vulgate", "douay", "brenton", "geneva", "tyndale", "ylt", "darby", "asv"]
+SHELF = ["vulgate", "douay", "brenton", "geneva", "tyndale", "ylt", "darby", "asv",
+         "coverdale", "bishops"]
 COLUMNS = ["kjv", "uid", "hebrew", "greek_nt"] + SHELF
 
 

@@ -30,9 +30,18 @@ uids = json.load(open(os.path.join(ROOT, "data", "uids", "wordhoard.uids.json"),
 kjv = [k[4:] for k in uids if k.startswith("kjv:")]
 C = lambda k, col: rows[k][col]
 
-check("columns: kjv, uid, the Hebrew, the Greek NT, then the eight shelf versions",
+check("columns: kjv, uid, the Hebrew, the Greek NT, then the ten shelf versions",
       head == ["kjv", "uid", "hebrew", "greek_nt", "vulgate", "douay", "brenton", "geneva",
-               "tyndale", "ylt", "darby", "asv"])
+               "tyndale", "ylt", "darby", "asv", "coverdale", "bishops"])
+check("Ps 14:3 is Coverdale's 14:2 (his 14:3-4, the Latin's Rom 3 insertion, are in no row)",
+      C("Ps.14.3", "coverdale") == ["Ps.14.2"]
+      and not any(x in ("Ps.14.3", "Ps.14.4") for r in rows.values() for x in r["coverdale"]))
+check("Ps 87:1-2: the Bishops' swaps them; Coverdale's 87:1 holds both",
+      C("Ps.87.1", "bishops") == ["Ps.87.2"] and C("Ps.87.2", "bishops") == ["Ps.87.1"]
+      and C("Ps.87.1", "coverdale") == ["Ps.87.1"] == C("Ps.87.2", "coverdale"))
+check("Tyndale: Exodus and Jonah have cells, Joshua and Isaiah none",
+      C("Exod.1.1", "tyndale") == ["Exod.1.1"] and C("Jonah.1.1", "tyndale") == ["Jonah.1.1"]
+      and not C("Josh.1.1", "tyndale") and not C("Isa.1.1", "tyndale"))
 check("one row per KJV verse in the registry, 31,102", set(rows) == set(kjv) and len(rows) == 31102)
 check("every row's uid is the registry's for that KJV verse",
       all(r["uid"] == [uids[f"kjv:{k}"]] for k, r in rows.items()))
@@ -74,7 +83,7 @@ check("every Hebrew verse the map sends to a KJV verse is in that row",
 check("the Hebrew cell is empty only for the KJV verses the Hebrew map names as having none",
       {k for k in kjv if k.split(".")[0] in V.BOOKS and not C(k, "hebrew")}
       <= set(heb["kjv_without_hebrew_verse"]))
-for slug in ("geneva", "tyndale", "ylt", "darby", "asv"):
+for slug in ("geneva", "tyndale", "ylt", "darby", "asv", "coverdale", "bishops"):
     m = V.load(V.english_path(slug))
     ok = all(v in C(e, slug) for v, es in m["map"].items() for e in ([es] if isinstance(es, str) else es))
     books = {c.split(".")[0] for c in m["chapters"]}

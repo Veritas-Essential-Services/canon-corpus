@@ -578,5 +578,34 @@ check("english: each unit's `kjv` comes from the committed map (Darby Phil 1:16 
 check("english: rights say public domain and carry the source's own rights line",
       _eb["rights"]["license"] == "public-domain" and "Public Domain" in _eb["rights"]["rights_line"])
 
+# The Bible SuperSearch shape (Coverdale, the Bishops', Tyndale): a flat verse
+# list, book = 1-66. Invented text; "(Omitted Text)" is BSS's empty-slot mark.
+_sj = {"metadata": {"module_version": "6.2.0", "copyright_statement": "This Bible is in the Public Domain."},
+       "verses": [{"book_name": "Genesis", "book": 1, "chapter": 46, "verse": 27, "text": "threscore and ten. />"},
+                  {"book_name": "Psalms", "book": 19, "chapter": 87, "verse": 1, "text": "the gates of Sion"},
+                  {"book_name": "Mark", "book": 41, "chapter": 6, "verse": 46, "text": "(Omitted Text)"}]}
+_sp = os.path.join(_tf.mkdtemp(), "bss-bishops.json")
+with open(_sp, "w", encoding="utf-8") as _fh:
+    json.dump(_sj, _fh)
+_sb = st.convert_english(_sp, "bishops", "pin")
+_su = {u["id"]: u for u in _sb["units"]}
+check("english/bss: book numbers become OSIS ids; '(Omitted Text)' is an empty slot, no unit",
+      list(_su) == ["bishops:Gen.46.27", "bishops:Ps.87.1"]
+      and _sb["scheme"]["empty_slots_not_units"] == 1)
+check("english/bss: the Bishops' rule drops the stray '/>'; Ps 87:1 is KJV 87:2 by the map",
+      _su["bishops:Gen.46.27"]["text"] == "threscore and ten."
+      and _su["bishops:Ps.87.1"]["kjv"] == {"resolved": True, "target": "kjv:Ps.87.2"})
+check("english/bss: source, rights and finding carry the pin and the open question",
+      _sb["source"]["format"] == "biblesupersearch-json" and _sb["source"]["module_version"] == "6.2.0"
+      and "biblesupersearch" in _sb["rights"]["source_url"] and "finding" in _sb["rights"])
+_sj["metadata"]["module_version"] = "6.3.0"
+with open(_sp, "w", encoding="utf-8") as _fh:
+    json.dump(_sj, _fh)
+try:
+    st.convert_english(_sp, "bishops", "pin"); _stopped = False
+except RuntimeError:
+    _stopped = True
+check("english/bss: another module_version stops the read", _stopped)
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
