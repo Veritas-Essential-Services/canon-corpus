@@ -2684,6 +2684,14 @@ Shelf: `pipeline/macgowan_shelf.json` (2026-10-02; added at the coordinator's re
 |---|---|---|
 | Chinese Folk-Lore Tales | have | PG 26070, `macgowan-chinese-folk-lore-tales` (690 units) |
 
+## Elias Owen
+
+Shelf: `pipeline/elias-owen_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). North Wales fairy lore, legends, ghost stories, charms and omens; cut by part, chapter, titled tale and numbered church. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Welsh Folk-Lore | have | PG 20096, `owen-welsh-folk-lore` (1848 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
