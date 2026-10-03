@@ -133,3 +133,16 @@ Lane A holds Warfield's Westminster studies and the Assembly divines Reynolds an
 | Hetherington, History of the Westminster Assembly (1843; New York 1868 printing) | have-raw | `hetherington_shelf.json` |
 | Shaw, Exposition of the Confession of Faith (2nd ed., 1846) | have-raw | `robert-shaw_shelf.json` |
 | Lightfoot's Journal of the Assembly (Works vol. 13, 1824) | pending | not yet searched |
+
+## Free Church of Scotland divines
+
+Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan. These shelves add their New College colleagues and two Highland ministers.
+
+| Work | Status | Where |
+|---|---|---|
+| Bannerman, The Church of Christ (2 vols, 1868) | have-raw (vol. 1) | `james-bannerman_shelf.json`; vol. 2 pending on an Internet Archive server error |
+| Bannerman, Inspiration: the Infallible Truth and Divine Authority of the Holy Scriptures (1865) | have-raw | `james-bannerman_shelf.json` |
+| Smeaton, The Doctrine of the Atonement as taught by Christ Himself (1868); as taught by the Apostles (1870); The Doctrine of the Holy Spirit (1882) | have-raw | `george-smeaton_shelf.json` |
+| Kennedy, The Days of the Fathers in Ross-shire (4th ed., 1867) | have-raw | `john-kennedy-dingwall_shelf.json` |
+| Hugh Martin, The Atonement (1877); The Prophet Jonah (3rd ed., 1880) | have-raw | `hugh-martin_shelf.json` |
+| Hugh Martin, The Shadow of Calvary | pending | no pre-1930 scan found |
