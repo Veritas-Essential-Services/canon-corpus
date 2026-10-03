@@ -1,6 +1,7 @@
 ---
 model_log:
   - 2026-10-03 claude-opus-5-5 drafted
+  - 2026-10-03 claude-opus-5-5 edited (run 2)
 fable_review: pending
 ---
 # Merge rehearsal: the open drafts, in merge-plan order (2026-10-03)
@@ -10,6 +11,62 @@ planned order on a scratch tree, running the test suites after each merge, to
 find conflicts and breakage *before* anything lands on `main`. The scratch
 tree itself was not kept on GitHub (it held every draft at once); this file is
 the record. Once the real merges are done, this report can be deleted.
+
+## Run 2 (latest): after the owners' fixes, 2026-10-03 01:40Z
+
+Same order and same base. Heads: #6 `356ed3a`, #5 `25fe747`, #9 `9ebe96f`,
+#8 `f42632b`, #10 `5e0499d`, #7 `441b57e`, #11 `ff633ad`, divines `b4fc021`.
+`tests/json_duplicate_keys_test.py` ran at every step.
+
+**Both run-1 problems are fixed:**
+- Josephus has one owner now. #7's `441b57e` dropped all four
+  `josephus-*-whiston` books. After the merges the manifest holds each of
+  the eight Josephus slugs once, `build_josephus.py --check` passes, and the
+  duplicate-key test passes at every step (25 committed JSON files on main,
+  354 on the final tree).
+- The parallel index reads both NT layouts (#9's `db5f5a9`). After #8 is
+  merged, run `build_parallel_index.py` once without `--check` to rebuild
+  `data/parallel/kjv-parallel.tsv`; `--check` then passes. #11 doesn't have
+  this fix yet.
+
+**#11 now collides with #9, and I did not resolve it.** At `ff633ad`, #11
+switches Tyndale from #9's source (scrollmapper JSON, 7,888 verses) to
+biblesupersearch (13,852 verses). It also edits the same code: merging it
+conflicts in eight files:
+- `pipeline/build_english_versification.py`
+- `pipeline/structure_texts.py`
+- `pipeline/build_parallel_index.py` (where it would also undo #9's fix)
+- `pipeline/fetch_sources.py`
+- `data/versification/tyndale-kjv.json`
+- `data/parallel/kjv-parallel.tsv`
+- `tests/structure_test.py`
+- `docs/pending-sources.md`
+
+Choosing between two Tyndale sources is a call for #9 and #11 to make, not a
+merge detail, so run 2 left #11 out and merged divines on top of #7.
+
+**Smaller things, resolved on the scratch tree:**
+- #7 and #9 both add test blocks to the end of `tests/structure_test.py`.
+  Keeping both works: 210 checks pass.
+- #10 carries a stale `vulgate.author` (`"—"`). I kept #9's real value
+  (Jerome and the Old Latin, Clementine revision).
+- CLAUDE.md's command list conflicted again on #5, #9 and #7, the same way
+  as run 1.
+
+**Result without #11:** every test suite passes after every merge (up to 33
+suites). Every gate that can run here passes:
+- nt_corpus and ot_corpus, both minting 0
+- nt_variants
+- versification, vulgate, brenton and deuterocanon
+- josephus, apostolic_fathers and philo
+- parallel_index, after the rebuild above
+- review sheets and Mnemonicon packs
+
+The deuterocanon gate first needed `structure_texts.py` re-run to refresh
+the gitignored built books; that was this workspace's leftovers, not a merge
+problem.
+
+## Run 1, 2026-10-03 00:45Z
 
 **Base:** `main` @ `97b7b5e`. **Heads as fetched** (a branch that moved after
 this may behave differently):
