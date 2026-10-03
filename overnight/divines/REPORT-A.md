@@ -328,3 +328,6 @@
 
 ## 2026-10-02 21:24 CDT — lewis-bayly done
 - `pipeline/lewis-bayly_shelf.json`: 1 item, raw IA OCR, 89.6% (long-s type; no 19th-century printing is on IA), about 0.8 MB. The title page is anonymous, as in every edition, so the identity gate refused it; the dedication is signed "Lewis Bailey", and an `_identity_checked` reason records that. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:26 CDT — john-preston done
+- `pipeline/john-preston_shelf.json`: nothing shelved. All seven of his treatises on IA are 1630-1641 printings; fetched and scored, their OCR came to 79-81% (one more failed the identity gate), so they went to `_pending` with their identifiers and the texts were deleted. The shelf file stays so nobody repeats the search. 0 uids minted.

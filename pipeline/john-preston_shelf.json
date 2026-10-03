@@ -1,0 +1,31 @@
+{
+ "_about": "John Preston (1587-1628, Puritan master of Emmanuel College, Cambridge, and preacher at Lincoln's Inn), for the Word Hoard: NOTHING SHELVED. IA holds his treatises only in 17th-century printings; seven Princeton scans were fetched on 2026-10-02 and their OCR scored 79-81% (one more was refused by the identity gate), too poor to shelve. They are listed under _pending with their identifiers. CCEL and Gutenberg hold none of his work. Added by lane A, round 7 (my pick). No uids minted.",
+ "_name_words": [
+  "preston",
+  "john"
+ ],
+ "_surname": [
+  "preston"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {
+  "lifeeternallortr00pres (Duke, 1634)": "Another edition of Life Eternal."
+ },
+ "_excluded": {
+  "saintsdailyexerc0000pres (1976)": "A facsimile reprint.",
+  "TheGoldenSceptreHeldForthToTheHumble": "An upload without library provenance."
+ },
+ "_checks": {},
+ "_pending": {
+  "jpreston-breastplate-1630": "offai00pres: The Breast-Plate of Faith and Love, in 18 sermons (London, 1630). 17th-century printing; OCR about 80%.",
+  "jpreston-new-covenant-1631": "ntorsai00pres: The New Covenant (1631). 17th-century printing; the OCR never prints his name, so the identity gate refused it.",
+  "jpreston-life-eternal-1631": "llortr00pres: Life Eternal, or a Treatise of the Knowledge of the Divine Essence and Attributes (London, 1631). 17th-century printing; OCR about 80%.",
+  "jpreston-four-treatises-1633": "fouregod00pres: Four Godly and Learned Treatises (London, 1633). 17th-century printing; OCR about 80%.",
+  "jpreston-golden-sceptre-1638": "gorhel00pres: The Golden Sceptre Held Forth to the Humble (London, 1638). 17th-century printing; OCR about 80%.",
+  "jpreston-mount-ebal-1638": "baloave00pres: Mount Ebal, or a Heavenly Treatise of Divine Love (London, 1638). 17th-century printing; OCR about 80%.",
+  "jpreston-sins-overthrow-1641": "siwo00pres: Sin's Overthrow, or a Godly and Learned Treatise of Mortification (London, 1641). 17th-century printing; OCR about 80%."
+ }
+}

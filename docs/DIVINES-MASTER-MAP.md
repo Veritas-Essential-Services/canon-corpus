@@ -1189,6 +1189,14 @@ No CCEL or Gutenberg text. Raw IA OCR of an Eighteenth Century Collections Onlin
 |---|---|---|
 | The Practice of Piety (London, 1754) | have-raw | IA |
 | Editions of 1623-1734; the French (1661) and Massachusett (1665, 1685) translations | alternate | IA |
+
+## John Preston (round 7, my pick, 2026-10-02)
+
+Nothing shelved. IA holds only 17th-century printings, and their OCR scored 79-81%.
+
+| Work | Status | Where |
+|---|---|---|
+| The Breast-Plate of Faith and Love; The New Covenant; Life Eternal; Four Godly Treatises; The Golden Sceptre; Mount Ebal; Sin's Overthrow (1630-1641) | pending | IA identifiers in the shelf's `_pending` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
