@@ -580,6 +580,14 @@
    "started": "2026-10-03T01:45:50-05:00",
    "finished": "2026-10-03T01:52:39-05:00",
    "notes": "Pitt's 1740 Aeneid and Potter's 1820 Sophocles refused for OCR (0.74-0.76). The Bohn Martial names no translator, so none is claimed."
+  },
+  {
+   "id": "review-round-9",
+   "status": "done",
+   "scope": "Reviewer round 9: later-printings class, Perseus modernized texts, rights blocks, Cary Pindar duplicate, unchecked translators",
+   "started": "2026-10-03T01:52:39-05:00",
+   "finished": "2026-10-03T01:57:43-05:00",
+   "notes": "Later printings and modernized texts are now two decisions for Adam in DIGEST-B, not decided in-lane. fetch_perseus.py refuses a modernized file without a reason and writes a rights block (licence, attribution, source_url, share_alike, redistribute_whole false) into every kept _perseus_checks finding; tests/fetch_perseus_test.py (12 checks). The rights block lives in the committed shelf; carrying it into data/books/manifest.json needs a change to structure_texts.py, which lane B does not edit."
   }
  ]
 }

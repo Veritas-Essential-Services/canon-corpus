@@ -346,3 +346,10 @@
 - Martial: the Bohn Epigrams (Bell, 1877), prose with verse versions; no translator named, none claimed
 - Catullus and Tibullus: Kelly's Bohn Erotica (1854), which also prints Lamb's metrical Catullus whole (the missing Lamb vol. II's poems) and Grainger's Tibullus
 - Sophocles: Potter's 1820 translation refused for OCR (0.758)
+
+## 2026-10-03 01:57 CDT — Review round 9
+- Later printings: Ross v09 and v02, Bennett, three Cicero Loebs, Quintilian Butler v1, Velleius, Casaubon Everyman, Adams's Aeschines (1958), Forster's Isaeus (1962) and the refused Freese Rhetoric (1947) are one decision for Adam in DIGEST-B; nothing in the class is decided in-lane
+- Godley's Herodotus and seven Smyth Aeschylus plays are Perseus-modernized texts: each has a _rights_checked reason naming the modernizer its header gives, a DIGEST-B decision, and fetch_perseus.py now refuses any modernized file without a reason
+- Every kept Perseus finding (lane B, 290 texts) now carries a rights block with redistribute_whole false; markup_licence_in_file is recorded only where the file itself states a licence (Godley's and Smyth's files do not, so their block cites the repository README)
+- pindar-cary-1833 withdrawn: the same IA scan as lane C's cary-pindar, already cross-referenced
+- Unchecked translators: Lewis vol. I now matches ('Lillington Lewis' in the dedication); Ridley 1896, Paley, Watson vol. II, Morell (2), Lewis vol. II and Littlebury (2) print the name nowhere the OCR can read, so each stays under _translator_unchecked with the title page's OCR spelling
