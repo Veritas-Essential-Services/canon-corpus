@@ -1,0 +1,65 @@
+{
+ "_about": "John Whitgift (c.1530-1604), Archbishop of Canterbury: Works, Parker Society ed. John Ayre (3 'portions', 1851-1853). Portions read off each title page; Toronto's '00' copy is the Third Portion. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "whitgift"
+ ],
+ "_surname": [
+  "whitgift"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whitgift-ps-01": [
+   "worksofjohnwhitg01whituoft",
+   "The Works of John Whitgift, First Portion: Defence of the Answer to the Admonition, ed. John Ayre (Parker Society, Cambridge, 1851)"
+  ],
+  "whitgift-ps-02": [
+   "worksofjohnwhitg02whituoft",
+   "The Works of John Whitgift, Second Portion: Defence of the Answer to the Admonition, ed. John Ayre (Parker Society, Cambridge, 1852)"
+  ],
+  "whitgift-ps-03": [
+   "worksofjohnwhitg00whituoft",
+   "The Works of John Whitgift, Third Portion: Defence of the Answer to the Admonition, ed. John Ayre (Parker Society, Cambridge, 1853)"
+  ]
+ },
+ "_alternates": {
+  "worksofjohnwhitg02whit, worksofjohnwhitg03whit": "Princeton copies of portions 2 and 3.",
+  "worksofjohnwhitg0000whit, worksofjohnwhitg0000unse": "Other scans."
+ },
+ "_excluded": {},
+ "_checks": {
+  "whitgift-ps-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "whitgift",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1851-1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitgift-ps-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "whitgift",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1851-1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitgift-ps-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "whitgift",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851-53",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

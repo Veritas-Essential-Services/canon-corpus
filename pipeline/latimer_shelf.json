@@ -1,0 +1,87 @@
+{
+ "_about": "Hugh Latimer (c.1487-1555), Bishop of Worcester. The target is the Parker Society edition, ed. George Elwes Corrie (2 vols, Cambridge 1844-1845), Internet Archive OCR, raw; each title page read. Clean text alongside: CCEL's Sermons, and Henry Morley's 1883 selection from Gutenberg (PG header checked, no COPYRIGHTED marker).",
+ "_ccel_author": "l/latimer",
+ "_name_words": [
+  "latimer"
+ ],
+ "_surname": [
+  "latimer"
+ ],
+ "ccel": {
+  "latimer-sermons-ccel": [
+   "sermons",
+   "Sermons by Hugh Latimer",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "latimer-sermons-card": [
+   2458,
+   "Sermons on the Card, and Other Discourses, ed. Henry Morley (Cassell, 1883)"
+  ]
+ },
+ "internet_archive": {
+  "latimer-ps-01": [
+   "sermonsedforpark31latiuoft",
+   "Sermons by Hugh Latimer, ed. G. E. Corrie (Parker Society, Cambridge, 1844), vol. 1"
+  ],
+  "latimer-ps-02": [
+   "sermonsedforthep32latiuoft",
+   "Sermons and Remains of Hugh Latimer, ed. G. E. Corrie (Parker Society, Cambridge, 1845), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "worksofhughlatim0028lati, worksofhughlatim0000lati, sermonsbyhughlat0000geor": "Claremont / internetarchivebooks scans of the same Parker volumes.",
+  "sermons04unkngoog, sermons00britgoog": "Google scans of the same set."
+ },
+ "_excluded": {
+  "PG 28104, The Pulpit of the Reformation": "An 1856 anthology of Welch, Knox and Latimer sermons; a mixed-author volume, held for no single shelf.",
+  "Latimer in other titles (Elizabeth Latimer, Edward Latimer Beach, etc.)": "Different authors."
+ },
+ "_checks": {
+  "latimer-sermons-ccel": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "latimer",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "latimer-sermons-card": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "latimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "latimer-ps-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "latimer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844-45",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "latimer-ps-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "latimer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

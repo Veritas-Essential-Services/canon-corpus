@@ -1,0 +1,35 @@
+{
+ "_about": "Alexander Shields (1660?-1700), Cameronian minister, later of St Andrews: A Hind Let Loose, or an Historical Representation of the Testimonies of the Church of Scotland (first published 1687), from the Glasgow edition of 1797 as transcribed by Project Gutenberg's Distributed Proofreaders. The 1797 title page spells him 'Shiels', so the name check takes both spellings.",
+ "_name_words": [
+  "shields",
+  "shiels"
+ ],
+ "_surname": [
+  "shields",
+  "shiels"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "shields-hind-let-loose-1797": [
+   "37137",
+   "A Hind Let Loose (Glasgow: Paton for John Kirk, 1797; Gutenberg transcription)"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "hindletlooseorhi00shie (1744), hindletlooseo0shie (1744), ahindletlooseor00shiegoog, bim_* (1687, 1744)": "Scans of the 1687 and 1744 editions; the Gutenberg transcription is held instead of raw OCR.",
+  "ahindletlooseora37137gut": "IA's mirror of the same Gutenberg book."
+ },
+ "_excluded": {},
+ "_checks": {
+  "shields-hind-let-loose-1797": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shields",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

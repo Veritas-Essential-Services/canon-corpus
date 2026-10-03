@@ -1,0 +1,140 @@
+{
+ "_about": "John Knox (c.1514-1572). Named john-knox so Vicesimus Knox and others cannot collide. The target is David Laing's Works (6 vols, Wodrow Society / Bannatyne Club, Edinburgh 1846-1864, reissued by James Thin 1895). Vols. 1-2 (the History of the Reformation) are clean proofread text from Gutenberg (PG 21938, 40886; the 1895 Thin reissue; headers checked, no COPYRIGHTED marker). Vols. 3-6 are Internet Archive OCR, raw; each title page read. Vol. 4 is the 1895 reissue (the only readable scan found); vols. 3 and 6 are the original printings (1854, 1864). CCEL's First Blast and Treatise on Prayer are held clean alongside.",
+ "_ccel_author": "k/knox",
+ "_name_words": [
+  "knox"
+ ],
+ "_surname": [
+  "knox"
+ ],
+ "ccel": {
+  "knox-first-blast": [
+   "blast",
+   "The First Blast of the Trumpet Against the Monstrous Regiment of Women",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "knox-works-01": [
+   21938,
+   "The Works of John Knox, ed. David Laing, vol. 1 (History of the Reformation, books I-II)"
+  ],
+  "knox-works-02": [
+   40886,
+   "The Works of John Knox, ed. David Laing, vol. 2 (History of the Reformation, books III-V)"
+  ]
+ },
+ "internet_archive": {
+  "knox-works-03": [
+   "worksofjohnknox03knoxuoft",
+   "Works of John Knox, ed. David Laing (Edinburgh, Bannatyne Club, 1854), vol. 3"
+  ],
+  "knox-works-04": [
+   "worksofjohnknox04knox",
+   "Works of John Knox, ed. David Laing (Edinburgh, James Thin reissue, 1895), vol. 4"
+  ],
+  "knox-works-05": [
+   "worksofjohnknox05knox",
+   "Works of John Knox, ed. David Laing (Edinburgh, 1846-1864), vol. 5"
+  ],
+  "knox-works-06": [
+   "worksofjohnknox06knox",
+   "Works of John Knox, ed. David Laing (Edinburgh, 1864), vol. 6"
+  ]
+ },
+ "_alternates": {
+  "ccel knox/works1, knox/history_reformation": "CCEL conversions of PG 21938 and PG 48250; the Gutenberg texts are held instead.",
+  "worksofjohnkn01knox, worksofjohnkn02knox, worksofjohnknox01knox, worksofjohnknox2knox, worksofjohnknox3knox": "IA scans of vols. 1-3; the Gutenberg text and the Toronto vol. 3 are held instead.",
+  "worksofjohnknox03knox": "Princeton vol. 3 (1895 reissue).",
+  "worksofjohnknox62knoxuoft": "Toronto vol. 6, part 2 of a split binding.",
+  "cu31924092463029 .. cu31924092463078": "Cornell copies of the 1895 reissue (vol. 6 text file returned HTTP 500 on 2026-10-03).",
+  "worksjohnknox0[0-9]laingoog, worksjohnknoxvo00*goog": "Google scans.",
+  "PG 9660, First Blast, ed. Edward Arber (1878)": "A second clean edition of the First Blast; CCEL's is held."
+ },
+ "_pending": {
+  "PG 48250, History of the Reformation, ed. Cuthbert Lennox (London, 1905)": "A modernised one-volume edition; the Laing History is held. Could be added as a second witness.",
+  "CCEL knox/prayer (A Treatise on Prayer)": "Taken off the shelf 2026-10-03 in the CCEL rights sweep: CCEL keyed it from Presbyterian Heritage Publications, 1995 (via the Still Waters Revival Books site), a modern-spelling reprint, not the 16th-century text. Laing's Works vol. 3, on this shelf, prints the original. Restore only after someone reads the 1995 edition's rights line."
+ },
+ "_excluded": {
+  "worksofjohnknox000[1-6]davi, worksofjohnknox000[0-6]knox, bwb_S0-BTV-*": "1966 AMS reprints in the lending library.",
+  "Vicesimus Knox; Thomas Wallace Knox; Robert Knox; Marcus Knox": "Different authors.",
+  "M'Crie, Life of John Knox; Innes, John Knox; Lang, John Knox and the Reformation": "About Knox, not by him (Lang is already on lane D's shelf).",
+  "PG 28104, The Pulpit of the Reformation": "Mixed-author anthology."
+ },
+ "_checks": {
+  "knox-first-blast": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Southgate, London (1878)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "knox-works-01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "knox-works-02": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "knox-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1846-1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "knox-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "knox-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knox-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

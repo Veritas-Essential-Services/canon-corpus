@@ -1,0 +1,114 @@
+{
+ "_about": "James Aitken Wylie (1808-1890), Free Church of Scotland minister: The History of Protestantism (London, Paris and New York: Cassell, Petter and Galpin, undated, 3 vols, illustrated), from the Waldenses and Wycliffe to the Covenanters. Volume numbers read off each title page. Named james-wylie so other Wylies cannot collide. Added 2026-10-03: The Papacy (1852), Daybreak in Spain ([1870]) and Disruption Worthies, the Free Church's memorial of 1843 with biographical sketches by many hands, which he edited and introduced (new edition, [1881]). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wylie"
+ ],
+ "_surname": [
+  "wylie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wylie-history-protestantism-1": [
+   "historyofprotest01wyli",
+   "The History of Protestantism (London: Cassell, Petter and Galpin, undated), vol. 1"
+  ],
+  "wylie-history-protestantism-2": [
+   "historyofprotest02wyli",
+   "The History of Protestantism (London: Cassell, Petter and Galpin, undated), vol. 2"
+  ],
+  "wylie-history-protestantism-3": [
+   "historyofprotest03wyli",
+   "The History of Protestantism (London: Cassell, Petter and Galpin, undated), vol. 3"
+  ],
+  "wylie-papacy-1852": [
+   "papacyitshistory00wyli_0",
+   "The Papacy: its History, Dogmas, Genius and Prospects, the Evangelical Alliance prize essay on Popery (Edinburgh: Johnstone and Hunter, 1852)"
+  ],
+  "wylie-daybreak-in-spain": [
+   "daybreakinspaino00wylirich",
+   "Daybreak in Spain, or Sketches of Spain and its New Reformation (London: Cassell, Petter, and Galpin, undated; the catalogue gives [1870])"
+  ],
+  "wylie-disruption-worthies": [
+   "disruptionworthi00wyli",
+   "Disruption Worthies: a Memorial of 1843, with an historical sketch of the Free Church of Scotland, ed. Wylie, new edition (Edinburgh: Thomas C. Jack, undated; the catalogue gives 1881)"
+  ]
+ },
+ "_alternates": {
+  "historyofprotes01wyli..03wyli (Toronto, 1902 reissue); ldpd_10827110_001..003 (Columbia, 1899)": "Later Cassell issues.",
+  "papacyitshistory00wyli (1867), cu31924029388620 (1852; OCR breaks the name)": "Other copies and printings of The Papacy.",
+  "disruptionworthi00edin (1876)": "The first edition of Disruption Worthies, which sketched only the dead."
+ },
+ "_pending": {
+  "History of the Waldenses": "An excerpt of the History of Protestantism, published separately; the full text is already in vols. 1-3 here."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wylie-history-protestantism-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wylie-history-protestantism-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wylie-history-protestantism-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wylie-papacy-1852": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wylie-daybreak-in-spain": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "[1870]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wylie-disruption-worthies": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

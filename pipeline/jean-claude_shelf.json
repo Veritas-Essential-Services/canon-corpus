@@ -1,0 +1,52 @@
+{
+ "_about": "Jean Claude (1619-1687), pastor at Charenton and the Huguenots' chief controversialist: A Defence of the Reformation, translated by T. B., with a sketch of the author's life by John Townsend (London: Hatchard, 1815, 2 vols; Google scans). Volume numbers read off each title page. The name check is on 'Claude'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "claude"
+ ],
+ "_surname": [
+  "claude"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "claude-defence-reformation-1": [
+   "adefencereforma00bgoog",
+   "A Defence of the Reformation, tr. T. B. (London, 1815), vol. I"
+  ],
+  "claude-defence-reformation-2": [
+   "adefencereforma01bgoog",
+   "A Defence of the Reformation, tr. T. B. (London, 1815), vol. II"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_an-historical-defence-of_claude-jean_1683, ..._1683_0, ..._1683_1": "The 1683 English translation, EEBO scans."
+ },
+ "_pending": {
+  "An Essay on the Composition of a Sermon, ed. Robert Robinson": "Not yet looked for on its own; it is in The Young Preacher's Manual (youngpreachersm1829port), a collection."
+ },
+ "_excluded": {},
+ "_checks": {
+  "claude-defence-reformation-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "claude-defence-reformation-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

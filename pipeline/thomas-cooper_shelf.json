@@ -1,0 +1,32 @@
+{
+ "_about": "Thomas Cooper (c.1517-1594), Bishop of Winchester: An Answer in Defence of the Truth against the Apology of Private Mass (1562), Parker Society ed. William Goode (1850). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "cooper"
+ ],
+ "_surname": [
+  "cooper"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cooper-ps-answer": [
+   "ananswerindefenc00coopuoft",
+   "An Answer in Defence of the Truth against the Apology of Private Mass, ed. William Goode (Parker Society, Cambridge, 1850)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "cooper-ps-answer": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cooper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

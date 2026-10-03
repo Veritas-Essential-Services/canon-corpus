@@ -1,0 +1,58 @@
+{
+ "_about": "Alexis Muston (1810-1888), Waldensian pastor and historian: The Israel of the Alps, a complete history of the Waldenses and their colonies, translated by John Montgomery, with a documentary appendix by the translator (Glasgow, Edinburgh and London: Blackie, 1875, 2 vols). Volume numbers read off each title page. Montgomery is checked as translator on vol. 2 only: vol. 1's OCR prints his name 'MONTGOMEEY' on the title page, and the fetcher lets no override cover a translator. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "muston"
+ ],
+ "_surname": [
+  "muston"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "muston-israel-of-alps-1": [
+   "israelofalpscomp01must",
+   "The Israel of the Alps, tr. John Montgomery (London: Blackie, 1875), vol. 1"
+  ],
+  "muston-israel-of-alps-2": [
+   "israelofalpscomp02must",
+   "The Israel of the Alps, tr. John Montgomery (London: Blackie, 1875), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "israelofalpscom01must, israelofalpscom02must (1866), israelofalpscomp00must": "The 1857/1866 Blackie issues.",
+  "israelalpsahist00mustgoog, 01mustgoog (1852-53, tr. Hazlitt)": "William Hazlitt's earlier, shorter translation."
+ },
+ "_excluded": {
+  "waldensestheisra00brow (1915)": "A pamphlet by another author."
+ },
+ "_translators": {
+  "muston-israel-of-alps-2": "Montgomery"
+ },
+ "_checks": {
+  "muston-israel-of-alps-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "muston",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "muston-israel-of-alps-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "muston",
+   "translator_claimed": "Montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

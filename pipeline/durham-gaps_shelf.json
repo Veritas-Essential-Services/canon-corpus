@@ -1,0 +1,75 @@
+{
+ "_about": "James Durham (1622-1658) texts missing from lane A's durham_shelf.json, kept as a separate shelf so lane A's file is never edited. Lane A left The Dying Man's Testament (1659) pending because its OCR never names Durham; the 1680 second edition (EEBO scan) does, and the 1659 first edition is held with an identity note from its front matter. Durham's sermon collections, published posthumously, survive only in 17th- and 18th-century printings (EEBO and ECCO microfilm). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "durham"
+ ],
+ "_surname": [
+  "durham"
+ ],
+ "_identity_checked": {
+  "durham-dying-mans-testament-1659": "The 1659 OCR prints the name as 'DVRHAM' (old type V for U). The title page, read by eye, names 'Mr. JAMES DVRHAM, late Minister of the Gospel in Glasgow', published by John Carstares with a preface by Robert Blair."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "durham-dying-mans-testament-1659": [
+   "dymanste00durh",
+   "The Dying Man's Testament to the Church of Scotland, or a Treatise concerning Scandal (Edinburgh, 1659)"
+  ],
+  "durham-blessedness-of-death-1682": [
+   "bim_early-english-books-1641-1700_the-blessednesse-of-the-_durham-james_1682",
+   "The Blessedness of the Death of those that die in the Lord: seven sermons on Revelation 14:13 (1682; EEBO scan)"
+  ],
+  "durham-unsearchable-riches-1764": [
+   "bim_eighteenth-century_the-unsearchable-riches-_durham-james_1764",
+   "The Unsearchable Riches of Christ: fourteen sermons (Glasgow, 1764; ECCO scan)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_the-dying-mans-testament_durham-james_1680": "Second edition of The Dying Man's Testament (1680).",
+  "bim_early-english-books-1641-1700_the-blessedness-of-the-d_durham-james_1681": "Blessedness of the Death (1681); OCR worse.",
+  "bim_early-english-books-1641-1700_the-unsearchable-riches-_durham-james_1696": "First edition of The Unsearchable Riches (1696)."
+ },
+ "_pending": {
+  "The Great Corruption of Subtile Self (1686; EEBO)": "OCR too poor (about a quarter common words); left until a better scan turns up.",
+  "Heaven upon Earth: twenty-two sermons on a good conscience (1685, EEBO; 1732, ECCO)": "Refused 2026-10-03: the 1685 scan has lost its title page and the 1732 OCR garbles the name ('Mr. JAMES Dy xnan'). Shelve after a look at the 1732 title page image."
+ },
+ "_excluded": {},
+ "_checks": {
+  "durham-dying-mans-testament-1659": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "durham-blessedness-of-death-1682": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1682",
+   "ia_date": "1682",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "durham-unsearchable-riches-1764": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

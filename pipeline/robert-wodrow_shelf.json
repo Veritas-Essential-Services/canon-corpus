@@ -1,0 +1,222 @@
+{
+ "_about": "Robert Wodrow (1679-1734), minister of Eastwood: The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns, with a memoir of the author (Glasgow: Blackie, Fullarton, 1828-1830, 4 vols); his Correspondence (Wodrow Society, 1842-1843, 3 vols); the Analecta (Maitland Club, 1842-1843, 4 vols); and the Collections upon the Lives of the Reformers (Maitland Club, 1834-1845, 2 vols; dates as on the title pages). The two Collections scans come from the National Library of Scotland, which licenses its digital copies CC BY-NC-SA 2.5 Scotland: the 18th-century text is public domain, the non-commercial term is on the scan, and it is noted here, not ruled on. Volume numbers read off each title page. Named robert-wodrow so it is not confused with the wodrow-society shelf, which holds the Society's collective volume. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wodrow"
+ ],
+ "_surname": [
+  "wodrow"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wodrow-sufferings-1": [
+   "historyofsufferi01wodr",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 1"
+  ],
+  "wodrow-sufferings-2": [
+   "historyofsufferi02wodr",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 2"
+  ],
+  "wodrow-sufferings-3": [
+   "historyofsufferi03wodr",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 3"
+  ],
+  "wodrow-sufferings-4": [
+   "historyofsufferi04wodr_0",
+   "The History of the Sufferings of the Church of Scotland from the Restoration to the Revolution, ed. Robert Burns (Glasgow: Blackie, Fullarton, 1828-1830), vol. 4"
+  ],
+  "wodrow-correspondence-1": [
+   "correspondenceof01wodr",
+   "The Correspondence of the Rev. Robert Wodrow, ed. Thomas M'Crie (Edinburgh: Wodrow Society, 1842-1843), vol. 1"
+  ],
+  "wodrow-correspondence-2": [
+   "correspondenceof02wodr",
+   "The Correspondence of the Rev. Robert Wodrow, ed. Thomas M'Crie (Edinburgh: Wodrow Society, 1842-1843), vol. 2"
+  ],
+  "wodrow-correspondence-3": [
+   "correspondenceof03wodr",
+   "The Correspondence of the Rev. Robert Wodrow, ed. Thomas M'Crie (Edinburgh: Wodrow Society, 1842-1843), vol. 3"
+  ],
+  "wodrow-analecta-1": [
+   "analecta01wodr",
+   "Analecta, or Materials for a History of Remarkable Providences (Edinburgh: Maitland Club, 1842-1843), vol. 1"
+  ],
+  "wodrow-analecta-2": [
+   "analecta02wodr",
+   "Analecta, or Materials for a History of Remarkable Providences (Edinburgh: Maitland Club, 1842-1843), vol. 2"
+  ],
+  "wodrow-analecta-3": [
+   "analecta03wodr",
+   "Analecta, or Materials for a History of Remarkable Providences (Edinburgh: Maitland Club, 1842-1843), vol. 3"
+  ],
+  "wodrow-analecta-4": [
+   "analecta04wodr",
+   "Analecta, or Materials for a History of Remarkable Providences (Edinburgh: Maitland Club, 1842-1843), vol. 4"
+  ],
+  "wodrow-collections-1": [
+   "collectionsuponl01mait",
+   "Collections upon the Lives of the Reformers and Most Eminent Ministers of the Church of Scotland (Glasgow: Maitland Club, 1834), vol. 1"
+  ],
+  "wodrow-collections-2": [
+   "collectionsuponl02mait",
+   "Collections upon the Lives of the Reformers and Most Eminent Ministers of the Church of Scotland (Glasgow: Maitland Club, 1845), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "historyofsufferi04wodr (1835 reissue), historyofsuffe01wodr..03wodr (1835)": "Blackie's 1835 reissue.",
+  "histufferi01wodr, hisufferi02wodr (1721-22)": "The first edition, 2 vols folio.",
+  "historysufferin00..03burngoog, thehistoryofthes02wodruoft, sufferingsofchur03wodr": "Other copies of the 1828-30 edition.",
+  "correspondencer00..06wodrgoog, correspondence01/03wodruoft, wodrowcorrespod00wodrgoog": "Other copies of the Correspondence.",
+  "analectaormateri01..04mait, analectaormater00/01leisgoog, analecta00wodrgoog": "Other copies of the Analecta.",
+  "collectionsupon00wodrgoog": "A Google copy of part of the Collections."
+ },
+ "_pending": {},
+ "_excluded": {
+  "selectionsfromwo00wodruoft (1890)": "Selections from the Collections (New Spalding Club); the Maitland Club text is shelved whole."
+ },
+ "_checks": {
+  "wodrow-sufferings-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-sufferings-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-sufferings-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-sufferings-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-correspondence-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-correspondence-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-correspondence-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wodrow-analecta-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-analecta-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-analecta-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-analecta-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-collections-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wodrow-collections-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

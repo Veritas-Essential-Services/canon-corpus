@@ -1,0 +1,67 @@
+{
+ "_about": "William Gouge (1575-1653), Westminster divine: A Commentary on the Whole Epistle to the Hebrews, being the substance of thirty years' Wednesday's lectures at Blackfriars, with a narrative of his life (1866-1867, 3 vols). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. Volume numbers and dates read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "gouge"
+ ],
+ "_surname": [
+  "gouge"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gouge-hebrews-1": [
+   "commentaryonwhol01goug",
+   "A Commentary on the Whole Epistle to the Hebrews (Edinburgh: Nichol, 1866), vol. 1"
+  ],
+  "gouge-hebrews-2": [
+   "commentaryonwhol02goug",
+   "A Commentary on the Whole Epistle to the Hebrews (Edinburgh: Nichol, 1866), vol. 2"
+  ],
+  "gouge-hebrews-3": [
+   "commentaryonwhol03goug",
+   "A Commentary on the Whole Epistle to the Hebrews (Edinburgh: Nichol, 1867), vol. 3"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "Of Domesticall Duties (1622) and The Whole Armour of God (1616)": "Only 17th-century printings found so far; not yet looked at."
+ },
+ "_excluded": {
+  "commentaryonhebr0000will, commentaryonhebr0002will": "Lending-library scans of a modern edition (2006)."
+ },
+ "_checks": {
+  "gouge-hebrews-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gouge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gouge-hebrews-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gouge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gouge-hebrews-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gouge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

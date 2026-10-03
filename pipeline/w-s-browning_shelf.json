@@ -1,0 +1,32 @@
+{
+ "_about": "W. S. Browning, A History of the Huguenots, third edition, continued to the present time (London: Whittaker, 1842): his History of the Huguenots during the Sixteenth Century (1829) and its continuation to 1838, revised in one volume. Named w-s-browning so the poet cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "browning"
+ ],
+ "_surname": [
+  "browning"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "browning-history-of-huguenots-1842": [
+   "historyofhuguen00brow",
+   "A History of the Huguenots, 3rd ed., continued to the present time (London: Whittaker, 1842)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "browning-history-of-huguenots-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "browning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

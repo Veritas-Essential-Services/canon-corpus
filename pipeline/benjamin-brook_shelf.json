@@ -1,0 +1,64 @@
+{
+ "_about": "Benjamin Brook (1776-1848), The Lives of the Puritans, containing a biographical account of those divines who distinguished themselves in the cause of religious liberty, from the Reformation under Queen Elizabeth to the Act of Uniformity in 1662 (London, 1813, 3 vols). Volume numbers read off each title page. The name check looks for 'Benjamin Brook', since 'brook' is an ordinary word. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "benjamin brook"
+ ],
+ "_surname": [
+  "benjamin brook"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brook-lives-of-the-puritans-1": [
+   "livesofpuritansc01broo",
+   "The Lives of the Puritans (London, 1813), vol. 1"
+  ],
+  "brook-lives-of-the-puritans-2": [
+   "livesofpuritansc02broo",
+   "The Lives of the Puritans (London, 1813), vol. 2"
+  ],
+  "brook-lives-of-the-puritans-3": [
+   "livesofpuritansc03broo",
+   "The Lives of the Puritans (London, 1813), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "livespuritansco00/01/02broogoog, livespuritans03broouoft, thelivesofthepur01broouoft, 10069859..61bsb": "Other copies of the 1813 edition."
+ },
+ "_excluded": {},
+ "_checks": {
+  "brook-lives-of-the-puritans-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin brook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brook-lives-of-the-puritans-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin brook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brook-lives-of-the-puritans-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin brook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

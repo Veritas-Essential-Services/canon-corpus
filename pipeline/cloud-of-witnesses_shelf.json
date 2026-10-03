@@ -1,0 +1,37 @@
+{
+ "_about": "A Cloud of Witnesses for the Royal Prerogatives of Jesus Christ: the last speeches and testimonies of the Covenanters who suffered from 1680, reprinted from the original editions with notes by John H. Thomson (Edinburgh: Oliphant, Anderson & Ferrier, 1871). A compilation with no single author, so the name check looks for its editor, Thomson. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomson"
+ ],
+ "_surname": [
+  "thomson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cloud-of-witnesses-1871": [
+   "cloudofwitnesses00thom",
+   "A Cloud of Witnesses for the Royal Prerogatives of Jesus Christ, ed. John H. Thomson (Edinburgh, 1871)"
+  ]
+ },
+ "_alternates": {
+  "acloudwitnesses00thomgoog, acloudwitnesses00chrigoog": "Google scans of the 1871 edition.",
+  "cloudofwitnesses00glas (1842), cloudofwitnesses00pitt (1824), lastwordsdyingte00glas (1846)": "Earlier editions."
+ },
+ "_excluded": {
+  "Other books titled 'A Cloud of Witnesses' (Hanson 1880, Barrows 1891, etc.)": "Unrelated works."
+ },
+ "_checks": {
+  "cloud-of-witnesses-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "Guillaume de Félice (1803-1871), professor at Montauban: History of the Protestants of France from the commencement of the Reformation to the present time, translated from the second revised edition by Philip Edward Barnes (London: Routledge, 1853). From a Google scan (Google asks non-commercial use; noted): the Cornell copy's OCR misreads his name everywhere ('PELICE'). Both copies misread the translator as 'BAENES', so no translator check is claimed. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "felice",
+  "félice"
+ ],
+ "_surname": [
+  "felice",
+  "félice"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "felice-protestants-of-france-1853": [
+   "historyprotesta00flgoog",
+   "History of the Protestants of France, tr. Philip Edward Barnes (London: Routledge, 1853; Google scan)"
+  ]
+ },
+ "_alternates": {
+  "cu31924029439860": "Cornell copy of the same edition; its OCR never reads the name 'Felice'.",
+  "historyprotesta00toulgoog": "A Google copy catalogued under the same title; not title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "felice-protestants-of-france-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "felice",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "John King (1559?-1621), afterwards Bishop of London: Lectures upon Jonah, delivered at York in 1594 (1864). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. The name check is two words, as 'king' alone is a common word. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "john king"
+ ],
+ "_surname": [
+  "john king"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "king-jonah-1864": [
+   "lecturesuponjona00king",
+   "Lectures upon Jonah, delivered at York (Edinburgh: Nichol, 1864)"
+  ]
+ },
+ "_alternates": {
+  "lecturesuponjona00kinguoft": "Toronto copy of the same 1864 printing."
+ },
+ "_pending": {
+  "George Abbot, An Exposition upon the Prophet Jonah (1600)": "Nichol reprinted it with King's lectures, but no 19th-century scan was found; EEBO has the 1600 printing."
+ },
+ "_excluded": {},
+ "_checks": {
+  "king-jonah-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john king",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "_about": "James Ussher (1581-1656), Archbishop of Armagh, the Reformed primate of the Irish Church and the chief author of the Irish Articles of 1615: The Whole Works, now for the first time collected, with a Life of the author and an account of his writings, by Charles Richard Elrington, who died in 1850 before the set was finished (Dublin: Hodges, Smith, 1847-1864, 17 vols); the Princeton copies, whose title pages carry 1864. Volume numbers read off each title page (vol. XII's half-title misprints 'XI'; its contents page reads 'the twelfth volume'). The English-language volumes are shelved; the Latin ones wait in _pending, as the Parker Society's Latin Zurich Letters do. Vol. II is mostly Latin but carries his English sermons and speeches, so it is shelved. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "ussher"
+ ],
+ "_surname": [
+  "ussher"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ussher-works-01": [
+   "wholeworksofmost01ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. I: Life of Ussher by Elrington"
+  ],
+  "ussher-works-02": [
+   "wholeworksofmost02ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. II: De Christianarum Ecclesiarum successione (Latin), with English sermons and speeches"
+  ],
+  "ussher-works-03": [
+   "wholeworksofmost03ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. III: An Answer to a Challenge made by a Jesuit"
+  ],
+  "ussher-works-04": [
+   "wholeworksofmost04ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. IV: Gotteschalci historia (Latin); A Discourse of the Religion anciently professed by the Irish and British"
+  ],
+  "ussher-works-11": [
+   "wholeworksofmost11ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. XI: the end of the Annales (Latin), the Principles and Method of the Doctrine of Christian Religion"
+  ],
+  "ussher-works-13": [
+   "wholeworksofmost13ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. XIII: Sermons"
+  ],
+  "ussher-works-15": [
+   "wholeworksofmost15ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. XV: Letters"
+  ],
+  "ussher-works-16": [
+   "wholeworksofmost16ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. XVI: Letters"
+  ],
+  "ussher-works-17": [
+   "wholeworksofmost17ussh",
+   "The Whole Works of the Most Rev. James Ussher, ed. Elrington (Dublin: Hodges, Smith, 1847-1864), vol. XVII: The Cause of the Continuance of Contentions; notes of sermons; indexes"
+  ]
+ },
+ "_alternates": {
+  "wholeworkswithli06..17usshuoft, wholeworks00..08elrigoog, cu31924024758850 and other Cornell copies, 10786439bsb..10786452bsb": "Other copies of the same edition."
+ },
+ "_pending": {
+  "Whole Works vols. V-X, XII, XIV (wholeworksofmost05..10ussh, 12ussh, 14ussh)": "Latin: Britannicarum Ecclesiarum Antiquitates, the Annales Veteris et Novi Testamenti, Chronologia sacra and Historia dogmatica, the Tractatus de controversiis pontificiis and Praelectiones. The OCR reads 2-5% common English words. Shelve if Latin texts are wanted.",
+  "A Body of Divinity (1645 and later)": "Compiled from his notes by others and disowned by him in part; not in the Whole Works. Not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "ussher-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-13": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-15": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-16": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ussher-works-17": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ussher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

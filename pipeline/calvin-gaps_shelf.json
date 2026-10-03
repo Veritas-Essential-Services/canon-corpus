@@ -1,0 +1,104 @@
+{
+ "_about": "Calvin texts missing from lane A's calvin_shelf.json, which holds the Calvin Translation Society set (commentaries via fetch_sources.py, Beveridge's Institutes, Tracts, Letters) and lists John Allen's Institutes as 'pending, not searched'. Kept as a separate shelf (the chesterton-gaps precedent) so lane A's file is never edited. Allen's translation (London, 1813) is held in the first American edition 'from the London edition' (Philadelphia: Philip H. Nicklin, 1816, 3 vols), the only complete set of the three-volume form found; the London 1813 vols 2-3 are alternates. Calvin's Calvinism (Henry Cole's translation of De aeterna praedestinatione and De occulta providentia, London 1856-57) is held in the 1927 Sovereign Grace Union reprint, the only scan found with both parts. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "calvin"
+ ],
+ "_surname": [
+  "calvin"
+ ],
+ "_translators": {
+  "calvin-allen-institutes-1": "Allen",
+  "calvin-allen-institutes-2": "Allen",
+  "calvin-allen-institutes-3": "Allen",
+  "calvin-calvins-calvinism": "Cole"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "calvin-allen-institutes-1": [
+   "institutesofchr181601calv",
+   "Institutes of the Christian Religion, tr. John Allen, first American edition from the London edition (Philadelphia, 1816), vol. 1"
+  ],
+  "calvin-allen-institutes-2": [
+   "institutesofchr181602calv",
+   "Institutes of the Christian Religion, tr. John Allen, first American edition from the London edition (Philadelphia, 1816), vol. 2"
+  ],
+  "calvin-allen-institutes-3": [
+   "institutesofchr181603calv",
+   "Institutes of the Christian Religion, tr. John Allen, first American edition from the London edition (Philadelphia, 1816), vol. 3"
+  ],
+  "calvin-calvins-calvinism": [
+   "calvinscalvinism0000calv",
+   "Calvin's Calvinism: The Eternal Predestination of God; The Secret Providence of God, tr. Henry Cole (Sovereign Grace Union reprint, London, 1927)"
+  ]
+ },
+ "_alternates": {
+  "institutesofchrlond02calv, institutesofchr03calv": "London 1813 first edition, vols 2-3 (vol. 1 of that printing not found).",
+  "institutesofchri00calv, institutesofchricr01calv, institutesofchri03calv, institutesofchri03calviala": "Other copies of the 1816 Philadelphia printing.",
+  "institutesofchr01calv, institutesofchr02calv, institutesofchrindex02calv": "Sixth American edition (2 vols; the records' 1813 date is wrong).",
+  "institutesofchri01calv, institutesofchri02calv, institutesofchri1calv, institutesofchri2calv, institutesofchris01calv, institutesofchris02calv": "Fifth American edition (Philadelphia, 1841-1844), 2 vols.",
+  "calvinscalvinism02calv, calvinscalvinis00colegoog": "Calvin's Calvinism, second part (1857), Princeton and Google scans."
+ },
+ "_pending": {
+  "Thomas Norton's Institutes (1561)": "Only early-print microfilm seen; not searched further.",
+  "Arthur Golding's sermon translations (Job 1574, Deuteronomy 1583)": "EEBO-type scans only."
+ },
+ "_excluded": {
+  "1936-1987 reprints of the Institutes (Allen 1936, Beveridge 1949/1957, Battles 1960)": "Lending-library scans; the 1960 Battles translation is in copyright.",
+  "calvinscalvinism0000john, calvinscalvinism0000unse (1950s)": "Lending-library reprints."
+ },
+ "_checks": {
+  "calvin-allen-institutes-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "Allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-allen-institutes-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "Allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-allen-institutes-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "Allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-calvins-calvinism": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "Cole",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

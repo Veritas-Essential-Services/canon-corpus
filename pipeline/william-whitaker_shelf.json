@@ -1,0 +1,36 @@
+{
+ "_about": "William Whitaker (1548-1595): A Disputation on Holy Scripture against the Papists, tr. and ed. William Fitzgerald (Parker Society, 1849). Named william-whitaker so it cannot be confused with Whitaker's WORDS (pipeline/whitaker.py). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "whitaker"
+ ],
+ "_surname": [
+  "whitaker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whitaker-ps-disputation": [
+   "disputationonhol00whituoft",
+   "A Disputation on Holy Scripture, against the Papists, especially Bellarmine and Stapleton, tr. William Fitzgerald (Parker Society, Cambridge, 1849)"
+  ]
+ },
+ "_alternates": {
+  "adisputationonho00whituoft": "Second Toronto copy."
+ },
+ "_excluded": {
+  "William Whitaker's WORDS (Latin dictionary program)": "Different Whitaker; see pipeline/whitaker.py."
+ },
+ "_checks": {
+  "whitaker-ps-disputation": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "whitaker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

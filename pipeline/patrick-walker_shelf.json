@@ -1,0 +1,83 @@
+{
+ "_about": "Patrick Walker (1666?-1745), the Covenanter chapman: Six Saints of the Covenant, his lives of Peden, Semple, Welwood, Cameron, Cargill and Smith, edited with illustrative documents, introduction, notes and a glossary by D. Hay Fleming, with a foreword by S. R. Crockett (London: Hodder and Stoughton, 1901, 2 vols). Also Biographia Presbyteriana (Edinburgh, 1827, 2 vols), the older collected edition of his lives, whose vol. 2 adds Alexander Shields's Life of James Renwick. Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "walker"
+ ],
+ "_surname": [
+  "walker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walker-six-saints-1": [
+   "cu31924092462237",
+   "Six Saints of the Covenant, ed. D. Hay Fleming (London: Hodder and Stoughton, 1901), vol. 1"
+  ],
+  "walker-six-saints-2": [
+   "cu31924092462245",
+   "Six Saints of the Covenant, ed. D. Hay Fleming (London: Hodder and Stoughton, 1901), vol. 2"
+  ],
+  "walker-biographia-presbyteriana-1": [
+   "biographiapresby00walk",
+   "Biographia Presbyteriana (Edinburgh: D. Speare and J. Stevenson, 1827), vol. 1"
+  ],
+  "walker-biographia-presbyteriana-2": [
+   "biographiapresbyt02walk",
+   "Biographia Presbyteriana: the lives of Cargill and Walter Smith by Walker, and of James Renwick by Alexander Shields (Edinburgh: D. Speare and J. Stevenson, 1827), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "sixsaintscovena00/01/02walkgoog, sixsaintscovena00flemgoog": "Google copies of the same edition.",
+  "biographiapresby02walk, 10071175bsb": "Other copies of Biographia Presbyteriana vol. 2."
+ },
+ "_pending": {},
+ "_excluded": {
+  "bwb_S0-BRH-938, bwb_S0-BTC-901": "Lending-library scans."
+ },
+ "_checks": {
+  "walker-six-saints-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walker-six-saints-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walker-biographia-presbyteriana-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walker-biographia-presbyteriana-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

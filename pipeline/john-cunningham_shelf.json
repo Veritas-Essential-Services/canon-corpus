@@ -1,0 +1,51 @@
+{
+ "_about": "John Cunningham (1819-1893), minister of Crieff, later Principal of St Mary's College, St Andrews (not lane A's William Cunningham): The Church History of Scotland from the Commencement of the Christian Era to the Present Time, second edition (Edinburgh: James Thin, 1882, 2 vols). Volume numbers read off each title page. The name check looks for 'John Cunningham'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "john cunningham"
+ ],
+ "_surname": [
+  "john cunningham"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jcunningham-church-history-1": [
+   "church01cunn",
+   "The Church History of Scotland, 2nd edition (Edinburgh: James Thin, 1882), vol. 1"
+  ],
+  "jcunningham-church-history-2": [
+   "church02cunn",
+   "The Church History of Scotland, 2nd edition (Edinburgh: James Thin, 1882), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "cu31924092464530, cu31924092464548, churchhistoryofs02cunnuoft, churchhistorysc00cunngoog (1859)": "The first edition."
+ },
+ "_excluded": {
+  "churchhistoryofs0000john_t9m0, bwb_S0-EMD-195_1": "Lending-library scans."
+ },
+ "_checks": {
+  "jcunningham-church-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jcunningham-church-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john cunningham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

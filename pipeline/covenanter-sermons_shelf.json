@@ -1,0 +1,37 @@
+{
+ "_about": "Sermons Delivered in Times of Persecution in Scotland, by Sufferers for the Royal Prerogatives of Jesus Christ: the field-preachers' sermons (Welsh, Peden, Cameron, Cargill, Renwick and others) first gathered by John Howie, with his original preface, a commemoration sermon for the martyr bicentenary and biographical notices of the authors by James Kerr (Edinburgh: Johnstone, Hunter, 1880). A collection: the name check looks for its editor, James Kerr. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "james kerr"
+ ],
+ "_surname": [
+  "james kerr"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "covenanter-sermons-kerr-1880": [
+   "sermonsdelivered00unknuoft",
+   "Sermons Delivered in Times of Persecution in Scotland, ed. James Kerr (Edinburgh: Johnstone, Hunter, 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "Howie's own collection, A Collection of Lectures and Sermons (Glasgow, 1779)": "18th-century scans only; not yet read."
+ },
+ "_excluded": {
+  "sermonsdelivered0000unse": "Lending-library scan."
+ },
+ "_checks": {
+  "covenanter-sermons-kerr-1880": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james kerr",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

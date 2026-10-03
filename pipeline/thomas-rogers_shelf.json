@@ -1,0 +1,32 @@
+{
+ "_about": "Thomas Rogers (d. 1616): The Catholic Doctrine of the Church of England, an exposition of the Thirty-nine Articles, Parker Society ed. J. J. S. Perowne (1854). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "rogers"
+ ],
+ "_surname": [
+  "rogers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rogers-ps-catholic-doctrine": [
+   "catholicdoctrine00rogeuoft",
+   "The Catholic Doctrine of the Church of England, an Exposition of the Thirty-nine Articles, ed. J. J. S. Perowne (Parker Society, Cambridge, 1854)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "rogers-ps-catholic-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

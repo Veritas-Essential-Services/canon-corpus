@@ -1,0 +1,41 @@
+{
+ "_about": "Benedict Pictet (1655-1724), Turretin's nephew and successor at Geneva: Christian Theology, translated from the Latin by Frederick Reyroux (London: Seeley and Burnside, 1834), in Bickersteth's Christian's Family Library. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "pictet"
+ ],
+ "_surname": [
+  "pictet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pictet-christian-theology-1834": [
+   "christiantheolog00pict",
+   "Christian Theology, tr. Frederick Reyroux (London: Seeley and Burnside, 1834)"
+  ]
+ },
+ "_alternates": {
+  "christiantheolo00pictgoog (1834), christiantheolog01pict, christiantheolog00pictuoft, christiantheolog00pict_0 (Philadelphia, 1845)": "Other copies and the American printing."
+ },
+ "_excluded": {
+  "christiantheolog0000pict (1845)": "Lending-library copy."
+ },
+ "_translators": {
+  "pictet-christian-theology-1834": "Reyroux"
+ },
+ "_checks": {
+  "pictet-christian-theology-1834": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pictet",
+   "translator_claimed": "Reyroux",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

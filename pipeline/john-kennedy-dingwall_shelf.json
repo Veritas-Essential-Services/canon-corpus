@@ -1,49 +1,53 @@
 {
- "_about": "Public-domain John Kennedy of Dingwall (1819-1884, Free Church minister at Dingwall, Ross-shire) for the Word Hoard: The Days of the Fathers in Ross-shire (Toronto: J. Campbell, catalogued 1867) and The 'Apostle of the North': the Life and Labours of the Rev. Dr. M'Donald (London: T. Nelson, 1866), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "John Kennedy of Dingwall (1819-1884), Free Church of Scotland minister: The Days of the Fathers in Ross-shire (fourth edition, Toronto and Montreal: Campbell, 1867; first published Edinburgh, 1861), the Highland evangelical ministers and 'the Men'. Named john-kennedy-dingwall: John Kennedy is a common name. Internet Archive OCR, raw and unconverted; each title page read before listing. The Apostle of the North (Nelson, 1866) comes from lane A's round-11 copy of this shelf, merged 2026-10-03.",
  "_name_words": [
   "kennedy",
   "john"
  ],
  "_surname": [
+  "kennedy",
   "john kennedy, d.d",
   "rev. john kennedy",
   "john kennedy",
   "kennedy of dingwall"
  ],
- "_held": {},
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
-  "jkennedy-days-of-fathers": [
+  "kennedy-days-of-the-fathers": [
    "thedaysofthefath00kennuoft",
-   "The Days of the Fathers in Ross-shire (Toronto: J. Campbell, catalogued 1867)"
+   "The Days of the Fathers in Ross-shire, fourth edition (Toronto, 1867)"
   ],
-  "jkennedy-apostle-north-1866": [
+  "kennedy-apostle-of-the-north-1866": [
    "apostleofnorthli00kenn_0",
-   "The 'Apostle of the North': the Life and Labours of the Rev. Dr. M'Donald (London: T. Nelson, 1866)"
+   "The 'Apostle of the North': the Life and Labours of the Rev. Dr. M'Donald (London, Edinburgh and New York: Nelson, 1866)"
   ]
  },
- "_alternates": {},
+ "_alternates": {
+  "daysfathersinro00kenngoog, daysoffathersinr0000john (1861)": "The first edition.",
+  "cihm_25254 (1867)": "Microfiche of the same edition."
+ },
  "_excluded": {
+  "daysoffathersinr0000revj (1927)": "A 1927 reprint with later matter; the 1867 text suffices.",
   "jkennedy-gaelic": "his Gaelic sermons and addresses (1876-1916): Gaelic, outside this English shelf for now"
  },
  "_checks": {
-  "jkennedy-days-of-fathers": {
+  "kennedy-days-of-the-fathers": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john kennedy",
+   "author_seen": "kennedy",
    "identity": "ok",
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "jkennedy-apostle-north-1866": {
+  "kennedy-apostle-of-the-north-1866": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "john kennedy",
+   "author_seen": "kennedy",
    "identity": "ok",
    "ia_rights": "ok: published 1866",
    "ia_date": "1866",

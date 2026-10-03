@@ -1,81 +1,83 @@
 {
- "_about": "Public-domain Hugh Martin (1822-1885, Free Church of Scotland minister at Panbride, then Free Greyfriars, Edinburgh) for the Word Hoard: The Atonement in its Relations to the Covenant, the Priesthood, the Intercession of our Lord (Edinburgh, 1877), The Prophet Jonah (1889), The Westminster Doctrine of the Inspiration of Scripture (1890) and Letters to Marcus Dods (1877), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Hugh Martin (1822-1885), Free Church of Scotland minister: The Atonement, in its relations to the Covenant, the Priesthood, the Intercession of our Lord (Edinburgh: Lyon and Gemmell, 1877), and The Prophet Jonah, his character and mission to Nineveh (third edition, Edinburgh: Gemmell, 1880); The Westminster Doctrine of the Inspiration of Scripture (fourth edition, London: Nisbet, 1890) and Letters to Marcus Dods (second edition, London: Nisbet, 1877), the last two from lane A's round-11 copy of this shelf, merged 2026-10-03. The Shadow of Calvary survives on IA only in lending-library reprints (1954-1983), which the gate refuses. Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "martin",
   "hugh"
  ],
  "_surname": [
+  "martin",
   "hugh martin",
   "h. martin",
   "martin, hugh"
  ],
- "_held": {},
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
-  "hmartin-atonement-1877": [
+  "martin-atonement": [
    "atonere00mart",
-   "The Atonement: in its Relations to the Covenant, the Priesthood, the Intercession of our Lord (Edinburgh: Lyon and Gemmell, 1877)"
+   "The Atonement, in its relations to the Covenant, the Priesthood, the Intercession of our Lord (Edinburgh: Lyon and Gemmell, 1877)"
   ],
-  "hmartin-jonah-1889": [
+  "martin-prophet-jonah": [
    "prophetjonahhisc00mart",
-   "The Prophet Jonah: his Character and Mission to Nineveh (Edinburgh: J. Gemmell, 1889 reissue; preface dated 1866)"
+   "The Prophet Jonah: his character and mission to Nineveh, third edition (Edinburgh: Gemmell, 1880)"
   ],
-  "hmartin-westminster-inspiration-1890": [
+  "martin-westminster-inspiration-1890": [
    "westminsterdoctr00mart",
-   "The Westminster Doctrine of the Inspiration of Scripture (London: J. Nisbet, 1890)"
+   "The Westminster Doctrine of the Inspiration of Scripture, fourth edition (London: Nisbet, 1890)"
   ],
-  "hmartin-letters-dods-1877": [
+  "martin-letters-dods-1877": [
    "letterstomarcusd00mart",
-   "Letters to Marcus Dods (London: J. Nisbet, 1877)"
+   "Letters to Marcus Dods, second edition (London: Nisbet, 1877)"
   ]
  },
- "_alternates": {},
- "_excluded": {},
- "_identity_checked": {
-  "hmartin-jonah-1889": {
-   "author": "the publisher's note reads 'a constant demand for Dr. Huofh Martin's Works' (OCR of Hugh Martin's) and the preface is signed 'H. M.'; checked by eye 2026-10-03"
-  }
+ "_alternates": {
+  "atonementinitsre0000mart (1871), atonementinitsr00martgoog (1882), atonementinitsre00mart (1887)": "Other printings of The Atonement."
+ },
+ "_pending": {
+  "The Shadow of Calvary": "No pre-1930 scan found."
+ },
+ "_excluded": {
+  "bwb_*, shadowofcalvary00hugh, prophetjonah0000hugh* (1954-1983)": "Lending-library reprints."
  },
  "_checks": {
-  "hmartin-atonement-1877": {
+  "martin-atonement": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hugh martin",
+   "author_seen": "martin",
    "identity": "ok",
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   },
-  "hmartin-jonah-1889": {
+  "martin-prophet-jonah": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": null,
-   "identity": "identity_override",
+   "author_seen": "martin",
+   "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "hmartin-westminster-inspiration-1890": {
+  "martin-westminster-inspiration-1890": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "h. martin",
+   "author_seen": "martin",
    "identity": "ok",
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "hmartin-letters-dods-1877": {
+  "martin-letters-dods-1877": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hugh martin",
+   "author_seen": "martin",
    "identity": "ok",
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",

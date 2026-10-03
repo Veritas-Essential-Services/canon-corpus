@@ -1,0 +1,36 @@
+{
+ "_about": "Edwin Sandys (1519-1588), Archbishop of York: Sermons and miscellaneous pieces, Parker Society ed. John Ayre (1841). Named edwin-sandys so George Sandys (the Ovid translator) cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "sandys"
+ ],
+ "_surname": [
+  "sandys"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sandys-ps-sermons": [
+   "sermonsofedwinsa00sand",
+   "The Sermons of Edwin Sandys, with some miscellaneous pieces, ed. John Ayre (Parker Society, Cambridge, 1841)"
+  ]
+ },
+ "_alternates": {
+  "sermonsofedwinsa41sand, sermonsofedwinsa00sand_0, sermonsofedwinsa0000sand": "Other scans of the same volume."
+ },
+ "_excluded": {
+  "George Sandys; Sir Edwin Sandys (1561-1629, his son)": "Different authors."
+ },
+ "_checks": {
+  "sandys-ps-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

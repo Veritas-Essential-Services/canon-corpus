@@ -1,0 +1,34 @@
+{
+ "_about": "Nicholas Byfield (1579-1622), preacher at Chester and Isleworth: An Exposition upon the Epistle to the Colossians, being the substance of near seven years' week-day sermons (1869). Nichol's Series of Commentaries (Edinburgh: James Nichol; London: James Nisbet, general editor Thomas Smith), Princeton Seminary copy. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "byfield"
+ ],
+ "_surname": [
+  "byfield"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "byfield-colossians-1869": [
+   "expositionuponep00byfi",
+   "An Exposition upon the Epistle to the Colossians (Edinburgh: Nichol, 1869)"
+  ]
+ },
+ "_alternates": {
+  "expositionvponep00byfi (1615), exponep00byfi (1617), and EEBO scans of 1617 and 1649": "17th-century printings."
+ },
+ "_excluded": {},
+ "_checks": {
+  "byfield-colossians-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "byfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

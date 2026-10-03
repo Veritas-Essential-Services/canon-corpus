@@ -1,0 +1,183 @@
+{
+ "_about": "Abraham Kuyper (1837-1920), Dutch Reformed theologian, founder of the Free University and Prime Minister of the Netherlands, in English translation: Pantheism's Destruction of Boundaries (1893); Encyclopedia of Sacred Theology (New York: Scribner, 1898); Calvinism, the Stone Lectures (1899); The Work of the Holy Spirit (New York: Funk and Wagnalls, 1904 printing of the 1900 translation by Henri De Vries); The Biblical Criticism of the Present Day (1904); To Be Near unto God (Grand Rapids: Eerdmans; first published 1918); His Decease at Jerusalem and 'Keep Thy Solemn Feasts' (Grand Rapids: Eerdmans, 1928); When Thou Sittest in Thine House (1929). The translations other than the Stone Lectures and the Holy Spirit are J. Hendrik de Vries's. All are US publications before 1930, so public domain in the US. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "kuyper"
+ ],
+ "_surname": [
+  "kuyper"
+ ],
+ "_translators": {
+  "kuyper-pantheism-1893": "de Vries",
+  "kuyper-encyclopedia-1898": "de Vries",
+  "kuyper-work-holy-spirit-1904": "de Vries",
+  "kuyper-biblical-criticism-1904": "de Vries",
+  "kuyper-his-decease-1928": "de Vries",
+  "kuyper-solemn-feasts-1928": "de Vries",
+  "kuyper-when-thou-sittest-1929": "de Vries"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kuyper-pantheism-1893": [
+   "pantheismsdestru00kuyp",
+   "Pantheism's Destruction of Boundaries, tr. J. H. de Vries (1893)"
+  ],
+  "kuyper-encyclopedia-1898": [
+   "cu31924029192115",
+   "Encyclopedia of Sacred Theology: its principles, tr. J. H. de Vries (New York: Scribner, 1898)"
+  ],
+  "kuyper-calvinism-1899": [
+   "calvinismsixlect00kuyp",
+   "Calvinism: six lectures delivered in the Theological Seminary at Princeton (the Stone Lectures, 1898-1899)"
+  ],
+  "kuyper-work-holy-spirit-1904": [
+   "workofholyspirit0000kuyp",
+   "The Work of the Holy Spirit, tr. Henri De Vries (New York and London: Funk and Wagnalls, 1904; copyright 1900)"
+  ],
+  "kuyper-biblical-criticism-1904": [
+   "biblicalcritic00kuyp",
+   "The Biblical Criticism of the Present Day, tr. J. H. de Vries (1904)"
+  ],
+  "kuyper-near-unto-god": [
+   "tobenearunto00kuyp",
+   "To Be Near unto God, tr. J. H. de Vries (Grand Rapids: Eerdmans)"
+  ],
+  "kuyper-his-decease-1928": [
+   "hisdeceaseatjeru00kuyp",
+   "His Decease at Jerusalem: meditations on the passion, tr. J. H. de Vries (Grand Rapids: Eerdmans, 1928)"
+  ],
+  "kuyper-solemn-feasts-1928": [
+   "keepthysolemnfea00kuyp",
+   "'Keep Thy Solemn Feasts', tr. J. H. de Vries (Grand Rapids: Eerdmans, 1928)"
+  ],
+  "kuyper-when-thou-sittest-1929": [
+   "whenthousittesti00kuyp_0",
+   "When Thou Sittest in Thine House: meditations on home life, tr. J. H. de Vries (Grand Rapids: Eerdmans, 1929)"
+  ]
+ },
+ "_alternates": {
+  "encyclopediasac00kuypgoog, encyclopediaofsa00unknuoft": "Other copies of the Encyclopedia.",
+  "workofholyspirit0000abra_r2s5, tobenearuntogod0000kuyp/abra (1925), hisdeceaseatjeru0000abra, bwb_*": "Other scans and later printings.",
+  "calvinismorigins00kuyp (1895)": "Calvinism, the Origin and Safeguard of our Constitutional Liberties: not yet title-checked.",
+  "tobenearuntogod00kuyp (1918)": "Princeton copy dated 1918 on its title page; its OCR never names Kuyper, so the name check refuses it."
+ },
+ "_excluded": {
+  "onzeeredienst00kuypuoft, bibliadatisdeg00kuyp, hetcalvinisme0000drak": "Dutch-language works."
+ },
+ "_checks": {
+  "kuyper-pantheism-1893": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kuyper-encyclopedia-1898": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-calvinism-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kuyper-work-holy-spirit-1904": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-biblical-criticism-1904": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kuyper-near-unto-god": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-his-decease-1928": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-solemn-feasts-1928": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kuyper-when-thou-sittest-1929": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kuyper",
+   "translator_claimed": "de Vries",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

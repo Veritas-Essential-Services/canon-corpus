@@ -1,0 +1,52 @@
+{
+ "_about": "Robert Demaus: Hugh Latimer, a Biography (London: Religious Tract Society, 1869) and William Tyndale, a Biography, a contribution to the early history of the English Bible (London: Religious Tract Society, 1871). Both first editions. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "demaus"
+ ],
+ "_surname": [
+  "demaus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "demaus-hugh-latimer-1869": [
+   "hughlatimerabiog00demauoft",
+   "Hugh Latimer: a Biography (London: Religious Tract Society, 1869)"
+  ],
+  "demaus-william-tyndale-1871": [
+   "williamtyndaleb00demauoft",
+   "William Tyndale: a Biography (London: Religious Tract Society, 1871)"
+  ]
+ },
+ "_alternates": {
+  "hughlatimer00dema, hughlatimerabio00demagoog, hughlatimerbiogr00demarich (1881), hughlatimerbiogr00dema (1904)": "Other copies and later editions of the Latimer.",
+  "williamtyndalebi00dema (new edition, rev. Richard Lovett, 1886), williamtindalebi00dema, williamtindalebi00demauoft, williamtyndalea00demagoog, williamtyndalea01lovegoog, williamtindaleab034945mbp": "Other copies, and Lovett's revision of the Tyndale."
+ },
+ "_excluded": {
+  "hughlatimerbiogr0000dema": "Lending-library scan."
+ },
+ "_checks": {
+  "demaus-hugh-latimer-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demaus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "demaus-william-tyndale-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demaus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

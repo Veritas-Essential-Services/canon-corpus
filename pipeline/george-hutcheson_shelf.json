@@ -1,0 +1,56 @@
+{
+ "_about": "George Hutcheson (1615-1674), minister of Edinburgh and Irvine, one of the Scottish commentators of the 1650s: A Brief Exposition on the XII Small Prophets (London, 1657) and Forty-Five Sermons upon the CXXX Psalm (Edinburgh, 1691), both from EEBO microfilm scans set in long-s type; the OCR prints the long s as 'ſ', so the name check takes 'Hutcheſon' as well. His Exposition of John (1657) and of Job (1669) have no scan on IA except a 1971 reprint. CCEL and Gutenberg hold none of it. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "hutcheson",
+  "hutcheſon"
+ ],
+ "_surname": [
+  "hutcheson",
+  "hutcheſon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hutcheson-small-prophets-1657": [
+   "bim_early-english-books-1641-1700_a-brief-exposition-on-th_hutcheson-george_1657",
+   "A Brief Exposition on the XII Small Prophets (London, 1657; EEBO scan)"
+  ],
+  "hutcheson-psalm-130-sermons-1691": [
+   "bim_early-english-books-1641-1700_forty-five-sermons-_hutcheson-george_1691",
+   "Forty-Five Sermons upon the CXXX Psalm (Edinburgh, 1691; EEBO scan)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_a-brief-exposition-of-th_hutcheson-george_1654, bim_early-english-books-1641-1700_a-brief-exposition-of-th_hutcheson-george_1654_0": "The first parts (Haggai, Zechariah, Malachi; Obadiah to Zephaniah), 1654, gathered into the 1657 volume."
+ },
+ "_pending": {
+  "An Exposition of the Gospel of Jesus Christ according to John (1657); An Exposition of the Book of Job (1669)": "No pre-1930 scan found on IA (expositionofgosp0000geor is the 1971 reprint)."
+ },
+ "_excluded": {
+  "bim_early-english-books-1641-1700_a-review-and-examination_hutcheson-george_1659": "A controversial pamphlet of 1659, not a commentary; left off."
+ },
+ "_checks": {
+  "hutcheson-small-prophets-1657": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hutcheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hutcheson-psalm-130-sermons-1691": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hutcheſon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1691",
+   "ia_date": "1691",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

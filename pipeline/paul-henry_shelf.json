@@ -1,0 +1,57 @@
+{
+ "_about": "Paul Henry (1792-1853), Reformed pastor in Berlin: The Life and Times of John Calvin, the Great Reformer, translated from the German by Henry Stebbing (London: Whittaker, 1849, 2 vols), the standard 19th-century life of Calvin. Volume numbers read off each title page. The name check looks for 'Paul Henry', since 'henry' is a common word; the translator check looks for Stebbing. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "paul henry"
+ ],
+ "_surname": [
+  "paul henry"
+ ],
+ "_translators": {
+  "henry-life-of-calvin-1": "Stebbing",
+  "henry-life-of-calvin-2": "Stebbing"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-life-of-calvin-1": [
+   "lifetimesofjohnc01henr",
+   "The Life and Times of John Calvin, tr. Henry Stebbing (London: Whittaker, 1849), vol. 1"
+  ],
+  "henry-life-of-calvin-2": [
+   "lifetimesofjohnc02henr",
+   "The Life and Times of John Calvin, tr. Henry Stebbing (London: Whittaker, 1849), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "lifetimesofjohnc185101/185102henr, lifetimesofjohnc185201henr, lifeandtimesjoh00/02/03/04henrgoog": "The New York reprints (Carter, 1851-52) and Google copies."
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-life-of-calvin-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paul henry",
+   "translator_claimed": "Stebbing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henry-life-of-calvin-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paul henry",
+   "translator_claimed": "Stebbing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

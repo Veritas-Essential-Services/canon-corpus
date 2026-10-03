@@ -1,0 +1,36 @@
+{
+ "_about": "Puritan Manifestoes: a study of the origin of the Puritan revolt, with a reprint of the Admonition to the Parliament (Field and Wilcox, 1572) and kindred documents, edited by W. H. Frere and C. E. Douglas (London: SPCK for the Church Historical Society, 1907). Published before 1930, so public domain in the US; the editors' own notes are 1907 work. The name check is on Frere, named on the title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "frere"
+ ],
+ "_surname": [
+  "frere"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "puritan-manifestoes-1907": [
+   "puritanmanifesto00frer",
+   "Puritan Manifestoes, ed. Frere and Douglas (London, 1907)"
+  ]
+ },
+ "_alternates": {
+  "cu31924029479569, puritanmanifesto00freruoft": "Cornell and Toronto copies of the same 1907 printing."
+ },
+ "_excluded": {
+  "puritanmanifesto0000unse (1954), puritanmanifesto0000frer (1972), bwb_T5-AGA-708, puritanmanifesto0072revw": "Later reprints and lending-library scans."
+ },
+ "_checks": {
+  "puritan-manifestoes-1907": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frere",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "_about": "John Woolton (c.1535-1594), Bishop of Exeter: The Christian Manual (1576), Parker Society (1851). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "woolton"
+ ],
+ "_surname": [
+  "woolton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "woolton-ps-manual": [
+   "christianmanual00wool",
+   "The Christian Manual, or Of the Life and Manners of True Christians (Parker Society, Cambridge, 1851)"
+  ]
+ },
+ "_alternates": {
+  "christianmanualo00wool, christianmanualo00woolrich, christianmanualo0000wool": "Other scans."
+ },
+ "_excluded": {},
+ "_checks": {
+  "woolton-ps-manual": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "woolton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
