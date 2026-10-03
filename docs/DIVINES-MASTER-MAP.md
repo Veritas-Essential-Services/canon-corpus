@@ -2609,6 +2609,9 @@ Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus,
 |---|---|---|---|
 | The Greek Romances of Heliodorus, Longus and Achilles Tatius | Rowland Smith | `greek-romances-smith` | have (PG 55406) |
 | Heliodorus, An Aethiopian Romance (Broadway Translations; 1923 per the catalogue) | Thomas Underdowne (1587), revised and partly rewritten by F. A. Wright | `heliodorus-underdowne-wright` | have-raw (IA `thiopianromanc00heliuoft`) |
+| The Loves of Chaereas and Callirrhoe, written originally in Greek by Chariton of Aphrodisios, vol. 1 (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication) | `chariton-1764-v1` | have-raw (IA `loveschrcasandc01chargoog`) |
+| The Loves of Chaereas and Callirrhoe, vol. 2: Books V-VIII (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication in vol. 1) | `chariton-1764-v2` | have-raw (IA `loveschrcasandc00chargoog`) |
+| Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727) | unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here | `xenophon-ephesius-1727` | have-raw (IA `gpl_1772898`) |
 
 ## Euclid
 
@@ -2845,6 +2848,7 @@ Shelf: `pipeline/roman-epitomators_shelf.json`. Watson's Bohn volumes 1852-53 (I
 | Justin, Cornelius Nepos, and Eutropius (Bohn, 1853) | John Selby Watson | `justin-nepos-eutropius-watson` | have-raw (IA `justincorneliusn00watsuoft`) |
 | Sallust, Florus, and Velleius Paterculus (Bohn, 1852) | John Selby Watson | `sallust-florus-velleius-watson` | have-raw (IA `sallustflorusve00sall`) |
 | Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929) | E. S. Forster (Florus), J. C. Rolfe (Nepos) | `florus-forster-nepos-rolfe` | have-raw (IA `luciusannaeusflo0000unse`) |
+| The History of Justin, taken out of the Four and Forty Books of Trogus Pompeius, 5th ed. (London, 1688) | Robert Codrington | `justin-codrington-1688` | have-raw (IA `historyjustinta00codrgoog`) |
 
 ## Justinian
 
@@ -2952,6 +2956,7 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | The Destruction of Troy, being the sequel of the Iliad, translated from the Greek of Tryphiodorus (Oxford, 1739) | James Merrick | `tryphiodorus-merrick-destruction-of-troy` | have-raw (IA `bim_eighteenth-century_the-destruction-of-troy_tryphiodorus_1739`) |
 | Hero and Leander, from the Greek of Musaeus (Cassell, Petter and Galpin) | Edwin Arnold | `musaeus-arnold-hero-leander` | have-raw (IA `heroleanderfromg00musaiala`) |
 | Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722) | William Diaper and John Jones (attributed; the title page names no translator) | `oppian-diaper-jones-halieuticks` | have-raw (IA `bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722`) |
+| Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806) | Philip Yorke, Viscount Royston | `lycophron-royston-1806` | have-raw (IA `cassandra00lyco`) |
 
 Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Mair's Loebs (Greek facing).
 
@@ -3067,6 +3072,29 @@ Shelf: `pipeline/rutilius_shelf.json`. Keene's edition with George F. Savage-Arm
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus (London, 1907) | George F. Savage-Armstrong | `rutilius-savage-armstrong-1907` | have-raw (IA `cu31924026546386`) |
+
+Pending (wishlist): none known
+
+## Solinus
+
+Shelf: `pipeline/solinus_shelf.json`. Arthur Golding's Worthie Worke of Julius Solinus Polyhistor (London, 1587), raw IA (EEBO OCR, old spelling). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Worthie Worke of Julius Solinus Polyhistor (London, 1587) | Arthur Golding | `solinus-golding-1587` | have-raw (IA `bim_early-english-books-1475-1640_the-worthie-worke-of-jul_solinus-caius-julius_1587`) |
+
+Pending (wishlist): none known
+
+Excluded: the other EEBO copy (bim_early-english-books-1475-1640_the-excellent-worke-o_solinus-caius-jul_1587): OCR 0.66, a worse scan of the same edition
+
+## Greek voyages (Periplus, Hanno)
+
+Shelf: `pipeline/periploi_shelf.json`. Schoff's Periplus of the Erythraean Sea (1912) and Falconer's Voyage of Hanno (1797, with the Greek text), raw IA. McCrindle's Periplus (1879) is on the Arrian shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Periplus of the Erythraean Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century (New York, 1912) | Wilfred H. Schoff | `periplus-schoff-1912` | have-raw (IA `peripluserythra00schogoog`) |
+| The Voyage of Hanno, translated and accompanied with the Greek text (London, 1797) | Thomas Falconer | `hanno-falconer-1797` | have-raw (IA `voyagehannotran00hanngoog`) |
 
 Pending (wishlist): none known
 
