@@ -1,0 +1,67 @@
+{
+ "_about": "James Aitken Wylie (1808-1890), Free Church of Scotland minister: The History of Protestantism (London, Paris and New York: Cassell, Petter and Galpin, undated, 3 vols, illustrated), from the Waldenses and Wycliffe to the Covenanters. Volume numbers read off each title page. Named james-wylie so other Wylies cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wylie"
+ ],
+ "_surname": [
+  "wylie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wylie-history-protestantism-1": [
+   "historyofprotest01wyli",
+   "The History of Protestantism (London: Cassell, Petter and Galpin, undated), vol. 1"
+  ],
+  "wylie-history-protestantism-2": [
+   "historyofprotest02wyli",
+   "The History of Protestantism (London: Cassell, Petter and Galpin, undated), vol. 2"
+  ],
+  "wylie-history-protestantism-3": [
+   "historyofprotest03wyli",
+   "The History of Protestantism (London: Cassell, Petter and Galpin, undated), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "historyofprotes01wyli..03wyli (Toronto, 1902 reissue); ldpd_10827110_001..003 (Columbia, 1899)": "Later Cassell issues."
+ },
+ "_pending": {
+  "The Papacy (1851); Daybreak in Spain (1870); History of the Waldenses (excerpt)": "Not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wylie-history-protestantism-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wylie-history-protestantism-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wylie-history-protestantism-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wylie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
