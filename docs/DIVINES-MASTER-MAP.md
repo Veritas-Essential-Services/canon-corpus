@@ -6346,6 +6346,7 @@ Shelf: `pipeline/bain_shelf.json` (2026-10-02; added at the coordinator's relay 
 |---|---|---|
 | Cossack Fairy Tales and Folk Tales, ed. and tr. R. Nisbet Bain (Harrap printing, undated in the Gutenberg text) | have | PG 29672, `bain-cossack-fairy-tales` (439 units) |
 | Turkish Fairy Tales and Folk Tales, collected by Ignácz Kúnos, tr. R. Nisbet Bain (1901 printing) | have | PG 64807, `bain-turkish-fairy-tales` (896 units) |
+| Russian Fairy Tales from the Skazki of Polevoi | have | PG 34705, `bain-polevoi-russian-fairy-tales` (259 units) |
 
 ## Pu Songling, tr. Herbert A. Giles
 

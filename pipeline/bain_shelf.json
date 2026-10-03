@@ -1,5 +1,5 @@
 {
- "_about": "R. Nisbet Bain's (1854-1909) translations of folk tales: Cossack Fairy Tales and Folk Tales (from the Ruthenian collections; a Harrap printing) and Ignácz Kúnos's Turkish Fairy Tales and Folk Tales (the 1901 printing). Bain is the translator of both. The 1901 printing of the Turkish book ends with four Roumanian fairy tales; the book does not name a separate translator for them. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "R. Nisbet Bain's (1854-1909) translations of folk tales: Cossack Fairy Tales and Folk Tales (from the Ruthenian collections; a Harrap printing) and Ignácz Kúnos's Turkish Fairy Tales and Folk Tales (the 1901 printing). Bain is the translator of both. The 1901 printing of the Turkish book ends with four Roumanian fairy tales; the book does not name a separate translator for them. Clean Gutenberg text; public domain. Russian Fairy Tales from the Skazki of Polevoi, also in Bain's English (1901 on its title page), was added in batch 26. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "R. Nisbet Bain",
  "_name_words": [
   "cossack",
@@ -12,7 +12,8 @@
  ],
  "_translators": {
   "bain-cossack-fairy-tales": "Bain",
-  "bain-turkish-fairy-tales": "Bain"
+  "bain-turkish-fairy-tales": "Bain",
+  "bain-polevoi-russian-fairy-tales": "Bain"
  },
  "ccel": {},
  "gutenberg": {
@@ -25,6 +26,21 @@
    "Turkish Fairy Tales and Folk Tales, collected by Ignácz Kúnos, tr. R. Nisbet Bain (1901 printing)",
    {
     "contents_only": true
+   }
+  ],
+  "bain-polevoi-russian-fairy-tales": [
+   34705,
+   "Russian Fairy Tales from the Skazki of Polevoi",
+   {
+    "levels": [
+     {
+      "re": "(?!R\\. N\\. B)[A-Z][^a-z]*[A-Z.\\]]$",
+      "strip": " ?\\[\\d+\\]",
+      "max": 110
+     }
+    ],
+    "start": "RUSSIAN FAIRY TALES\\.$",
+    "front": true
    }
   ]
  },
@@ -44,6 +60,18 @@
    "translator_match": true
   },
   "bain-turkish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "translator_claimed": "Bain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain",
+   "translator_match": true
+  },
+  "bain-polevoi-russian-fairy-tales": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
