@@ -992,3 +992,15 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `simeon-horae-
 |---|---|---|
 | Horae Homileticae, 21 vols (London: Holdsworth and Ball, 1832-33): 2,536 sermon outlines, Genesis to Revelation, with Claude's Essay on the Composition of a Sermon and an index | have-raw | IA (identifiers in the shelf) |
 | Toronto scan of the same set; the 1819 and 1855 editions | alternate | IA |
+
+## Robert Haldane (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `haldane-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Exposition of the Epistle to the Romans, 3 vols (Edinburgh: Whyte, 1838) | have-raw | IA (identifiers in the shelf) |
+| The Evidence and Authority of Divine Revelation, 2 vols (1839) | have-raw | IA |
+| The Books of the Old and New Testaments Proved to be Canonical (1832) | have-raw | IA |
+| One-volume Romans (1847-1874) | alternate | IA |
+| Pamphlets (1824-1840) | excluded | controversy |

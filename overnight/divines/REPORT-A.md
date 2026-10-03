@@ -268,3 +268,6 @@
 
 ## 2026-10-02 20:39 CDT — simeon done
 - `pipeline/simeon_shelf.json`: 21 volumes, raw IA OCR, median 98.8% (97.8-99.0%), about 34 MB. Title pages read (Holdsworth and Ball; vol. 1 Genesis to Leviticus, vol. 21 Revelation, Claude, index); the figure 2,536 is the number of the last outline in vol. 21. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:41 CDT — robert-haldane done
+- `pipeline/robert-haldane_shelf.json`: 6 volumes, raw IA OCR, median 98.5% (96.6-99.0%), about 4.9 MB; title pages read. A line in the first draft about his Geneva lectures was cut as unverified. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

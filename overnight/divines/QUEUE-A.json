@@ -559,10 +559,13 @@
     },
     {
       "id": "robert-haldane",
-      "status": "todo",
+      "status": "done",
       "scope": "Robert Haldane: Exposition of Romans; Evidences (d. 1842)",
       "added": "2026-10-02T20:14:56-05:00",
-      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T20:39:35-05:00",
+      "finished": "2026-10-02T20:41:51-05:00",
+      "notes": "6 IA"
     },
     {
       "id": "james-buchanan",

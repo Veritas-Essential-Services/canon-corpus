@@ -1,0 +1,115 @@
+{
+ "_about": "Public-domain Robert Haldane (1764-1842, Scottish evangelical layman) for the Word Hoard: the Exposition of the Epistle to the Romans (Edinburgh: Whyte, 1838, 3 vols), The Evidence and Authority of Divine Revelation (1839, 2 vols) and The Books of the Old and New Testaments Proved to be Canonical (Edinburgh, 1832), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "haldane",
+  "robert"
+ ],
+ "_surname": [
+  "haldane"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "haldane-romans-1": [
+   "expositionofepis01hald",
+   "An Exposition of the Epistle to the Romans, vol. 1 (Edinburgh: Whyte, 1838)"
+  ],
+  "haldane-romans-2": [
+   "expositionofepis02hald",
+   "An Exposition of the Epistle to the Romans, vol. 2 (Edinburgh: Whyte, 1838)"
+  ],
+  "haldane-romans-3": [
+   "expositionofepis03hald",
+   "An Exposition of the Epistle to the Romans, vol. 3 (Edinburgh: Whyte, 1838)"
+  ],
+  "haldane-evidence-1": [
+   "evidenceauthorit01hald",
+   "The Evidence and Authority of Divine Revelation, vol. 1 (Edinburgh: Whyte; London: Hamilton, Adams, 1839)"
+  ],
+  "haldane-evidence-2": [
+   "evidenceauthorit02hald",
+   "The Evidence and Authority of Divine Revelation, vol. 2 (Edinburgh: Whyte; London: Hamilton, Adams, 1839)"
+  ],
+  "haldane-canonical-1832": [
+   "booksofoldnewtes00hald",
+   "The Books of the Old and New Testaments Proved to be Canonical, and their Verbal Inspiration Maintained (Edinburgh: Whyte, 1832)"
+  ]
+ },
+ "_alternates": {
+  "expositionofepis00hald (New York: Carter, 1847); cu31924029293805 (1858); expositionofthee00halduoft (London: Oliphant, 1874); expositionepist04, 05haldgoog": "One-volume American and later British editions of Romans.",
+  "booksofoldnewtes00hald_0 (1830)": "An earlier edition of The Books Proved to be Canonical."
+ },
+ "_excluded": {
+  "reviewofconducto00haldrich (1828); letterfromrobert00hald (1824); dutyofpayingtrib00hald (1840)": "Controversial pamphlets on the Bible Society Apocrypha dispute and the annuity tax.",
+  "righteousnessofg1849hald": "A Gaelic translation of a tract."
+ },
+ "_checks": {
+  "haldane-romans-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-romans-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-romans-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-evidence-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-evidence-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-canonical-1832": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
