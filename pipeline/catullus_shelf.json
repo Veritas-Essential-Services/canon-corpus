@@ -22,6 +22,11 @@
    "catullustibullus00catu",
    "Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913)",
    "tr. F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium)"
+  ],
+  "catullus-cranstoun-1867": [
+   "poemsofvaleriusc00caturich",
+   "The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867)",
+   "tr. James Cranstoun"
   ]
  },
  "_excluded": {
@@ -33,7 +38,8 @@
  "_translators": {
   "catullus-ellis": "Robinson Ellis",
   "catullus-burton-smithers": "Sir Richard Francis Burton",
-  "catullus-tibullus-pervigilium-loeb": "f. w. cornish"
+  "catullus-tibullus-pervigilium-loeb": "f. w. cornish",
+  "catullus-cranstoun-1867": "James Cranstoun"
  },
  "_checks": {
   "catullus-ellis": {
@@ -71,6 +77,19 @@
    "ia_rights": "ok: published 1918",
    "ia_date": "1918",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "catullus-cranstoun-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "James Cranstoun",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
