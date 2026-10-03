@@ -1180,6 +1180,17 @@ Shelf: `pipeline/isocrates_shelf.json`. J. H. Freese, The Orations of Isocrates 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Orations of Isocrates, vol. 1 (Bohn, 1894) | J. H. Freese | `isocrates-freese-v1` | have-raw (IA `orationsofisocra0000isoc`) |
+| Against the Sophists | George Norlin (1929) | `isocrates-perseus-norlin-against-the-sophists` | have (Perseus TEI `tlg0010.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Antidosis | George Norlin (1929) | `isocrates-perseus-norlin-antidosis` | have (Perseus TEI `tlg0010.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Archidamus | George Norlin (1928) | `isocrates-perseus-norlin-to-archidamus` | have (Perseus TEI `tlg0010.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Areopagiticus | George Norlin (1929) | `isocrates-perseus-norlin-areopagiticus` | have (Perseus TEI `tlg0010.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Nicocles or the Cyprians | George Norlin (1928) | `isocrates-perseus-norlin-nicocles-or-the-cyprians` | have (Perseus TEI `tlg0010.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Peace | George Norlin (1929) | `isocrates-perseus-norlin-on-the-peace` | have (Perseus TEI `tlg0010.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Panathenaicus | George Norlin (1929) | `isocrates-perseus-norlin-panathenaicus` | have (Perseus TEI `tlg0010.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Panegyricus | George Norlin (1928) | `isocrates-perseus-norlin-panegyricus` | have (Perseus TEI `tlg0010.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Demonicus | George Norlin (1928) | `isocrates-perseus-norlin-to-demonicus` | have (Perseus TEI `tlg0010.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Nicocles | George Norlin (1928) | `isocrates-perseus-norlin-to-nicocles` | have (Perseus TEI `tlg0010.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Philip | George Norlin (1928) | `isocrates-perseus-norlin-to-philip` | have (Perseus TEI `tlg0010.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Freese never published vol. 2; Norlin/Van Hook Loeb (1928-45) only vols. 1-2 PD by date
 
@@ -1991,6 +2002,7 @@ Shelf: `pipeline/apollodorus_shelf.json`. New shelf 2026-10-03: Frazer's Loeb Li
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Library | Sir James George Frazer (Loeb 1921) | `apollodorus-perseus-frazer-library` | have (Perseus TEI `tlg0548.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| Epitome | James George Frazer (1921) | `apollodorus-perseus-frazer-epitome` | have (Perseus TEI `tlg0548.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 
 ## Perseus census (overflow)
 
