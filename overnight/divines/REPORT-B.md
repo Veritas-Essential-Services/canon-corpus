@@ -364,3 +364,8 @@
 - Pythagoreans: Taylor's Sallust on the Gods and the World with Demophilus's Pythagoric Sentences (Jeffery; IA 1793); the book names no translator, so none is claimed
 - Orphica: new shelf, Taylor's Mystical Initiations; or, Hymns of Orpheus (1787, first edition); IA's mysticalhymnsor00taylgoog, catalogued 1824, is Dobell's 1896 reprint
 - Refused for OCR: Taylor's Two Orations of Julian (1793), the 1896 Alciphron, Scott's Hermetica vol. I
+
+## 2026-10-03 02:13 CDT — Proclus on the Timaeus (Taylor), Boethius (Ridpath, Colville)
+- Proclus: Taylor's Commentaries of Proclus on the Timaeus of Plato, 2 vols (printed for the author; IA 1820)
+- Boethius: Philip Ridpath's Consolation (Dilly, 1785); George Colville's 1556 translation in Ernest Belfort Bax's edition (Nutt, 1897; Tudor English, unlike Chaucer's Middle English Boece, which the shelf leaves out)
+- Retry list: Queen Elizabeth's Englishings of Boethius (EETS, 1899), archive.org 500

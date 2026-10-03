@@ -604,6 +604,14 @@
    "started": "2026-10-03T02:04:04-05:00",
    "finished": "2026-10-03T02:10:58-05:00",
    "notes": "Refused for OCR: Taylor's Two Orations of Julian (0.696), the 1896 Alciphron (0.50, 0.32), Walter Scott's Hermetica vol. I (0.761, Greek facing)."
+  },
+  {
+   "id": "proclus-boethius",
+   "status": "done",
+   "scope": "Taylor's Proclus on the Timaeus (2 vols); Ridpath's and Colville's Boethius",
+   "started": "2026-10-03T02:10:58-05:00",
+   "finished": "2026-10-03T02:13:18-05:00",
+   "notes": "Queen Elizabeth's Englishing of Boethius (EETS 1899, queenelizabethse00eliz) answered 500 twice; added to the hourly retry."
   }
  ]
 }

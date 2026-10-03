@@ -3069,6 +3069,8 @@ Shelf: `pipeline/proclus_shelf.json`. Taylor's Euclid commentaries and Theology 
 | The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements, vol. 2 | Thomas Taylor | `proclus-taylor-euclid-v2` | have (PG 79455) |
 | The Six Books of Proclus on the Theology of Plato, vol. 1 | Thomas Taylor | `proclus-taylor-theology-v1` | have (PG 77393) |
 | The Six Books of Proclus on the Theology of Plato, vol. 2 | Thomas Taylor | `proclus-taylor-theology-v2` | have (PG 78800) |
+| The Commentaries of Proclus on the Timaeus of Plato, in five books, containing a treasury of Pythagoric and Platonic physiology, vol. I (London: printed for the author; IA records 1820) | Thomas Taylor | `proclus-taylor-timaeus-v1` | have-raw (IA `proclusontimaeus01procuoft`) |
+| The Commentaries of Proclus on the Timaeus of Plato, vol. II (IA records 1820) | Thomas Taylor | `proclus-taylor-timaeus-v2` | have-raw (IA `proclusontimaeus02procuoft`) |
 
 ## Ocellus and the minor Pythagoreans
 
@@ -3109,6 +3111,8 @@ Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
 |---|---|---|---|
 | The Consolation of Philosophy | H. R. James | `boethius-james` | have (PG 14328) |
 | The Theological Tractates and The Consolation of Philosophy | Stewart and Rand (Loeb 1918; 'I.T.' 1609 revised) | `boethius-rand-stewart` | have (PG 13316) |
+| Boethius's Consolation of Philosophy, translated from the Latin, with notes and illustrations (London: C. Dilly, M.DCC.LXXXV) | Philip Ridpath | `boethius-ridpath-1785` | have-raw (IA `boethiussconsol00boetgoog`) |
+| Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII) | George Colville | `boethius-colville-1556` | have-raw (IA `cu31924029003824`) |
 
 Excluded: Chaucer's Middle English Boece
 
