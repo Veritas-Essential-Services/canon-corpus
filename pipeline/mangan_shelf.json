@@ -11,11 +11,11 @@
  "internet_archive": {
   "mangan-german-anthology-a": [
    "anthologiagerma02manggoog",
-   "Anthologia Germanica (1845), Harvard copy a"
+   "German Anthology, vol. I (Dublin 1845)"
   ],
   "mangan-german-anthology-b": [
    "anthologiagerma03manggoog",
-   "Anthologia Germanica (1845), Harvard copy b"
+   "German Anthology, vol. II (Dublin 1845)"
   ]
  },
  "titles": {
@@ -28,12 +28,60 @@
    "work": "Anthologia Germanica (German Anthology)",
    "translated": 1845,
    "translator": "James Clarence Mangan",
-   "scan_edition": "Curry, Dublin 1845, 2 vols (Harvard copies, Google scans), raw OCR; volume order to be confirmed"
+   "scan_edition": "Curry, Dublin 1845, 2 vols (Harvard copies, Google scans), raw OCR; vol. I title page reads 'German Anthology ... by James Clarence Mangan, in two volumes, vol. I'; the Latin title 'Anthologia Germanica' is lost to the OCR"
   }
  },
  "_pending": {
   "mangan-irish": "Mangan's translations from the Irish (The Poets and Poetry of Munster, 1849): not fetched."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "mangan-german-anthology-b": "Vol. II of the same Harvard pair: running heads read 'German Anthology' and signatures 'Vol. II'. Its title leaf is missing in the scan, so the name never appears; vol. I's title page names Mangan. Checked 2026-10-03."
+ },
+ "_checks": {
+  "mangan-german-anthology-a": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mangan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mangan-german-anthology-b": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "mangan-german-anthology-a": {
+   "ia": "anthologiagerma02manggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1832,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mangan-german-anthology-b": {
+   "ia": "anthologiagerma03manggoog",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1845,
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

@@ -4,7 +4,8 @@
   "palmer"
  ],
  "_surname": [
-  "palmer"
+  "e. h. palmer",
+  "h. palmer"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -37,13 +38,12 @@
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
- "_identity_note": "Surname kept as 'palmer': the Toronto part II names him only as 'E. H. PALMER' on its title page, which the OCR mangles in places; checked by eye.",
  "_checks": {
   "palmer-quran-1": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "palmer",
+   "author_seen": "e. h. palmer",
    "identity": "ok",
    "ia_rights": "ok: published 1879",
    "ia_date": "1879",
@@ -54,8 +54,8 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "palmer",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1880",
    "ia_date": "1880",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -79,5 +79,8 @@
    ],
    "post_1930_years_in_front_15k": []
   }
+ },
+ "_identity_checked": {
+  "palmer-quran-2": "Part II (Toronto copy): the title page reads 'The Qur'an translated by E. H. Palmer, part II, chapters XVII to CXIV' in the Google copy of the same volume, but this copy's OCR mangles the name ('Bet Pare Pak Eb'), and the series list prints it 'B.-hi.- Palmer'. IA record: creator 'Palmer, Edward Henry, 1840-1882'. Checked 2026-10-03."
  }
 }

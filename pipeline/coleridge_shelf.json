@@ -44,5 +44,38 @@
   "coleridge-piccolomini": "Gutenberg has no cache/epub/6786/pg6786.txt (404), the only URL fetch_shelf.py builds. Fetched by hand from https://www.gutenberg.org/ebooks/6786.txt.utf-8 into data/corpus/coleridge/coleridge-piccolomini.txt; fetch_shelf then keeps it.",
   "coleridge-death-of-wallenstein": "Gutenberg has no cache/epub/6787/pg6787.txt (404), the only URL fetch_shelf.py builds. Fetched by hand from https://www.gutenberg.org/ebooks/6787.txt.utf-8 into data/corpus/coleridge/coleridge-death-of-wallenstein.txt; fetch_shelf then keeps it."
  },
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "coleridge-piccolomini": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel Taylor Coleridge"
+  },
+  "coleridge-death-of-wallenstein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coleridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel Taylor Coleridge"
+  }
+ },
+ "_verified": {
+  "coleridge-piccolomini": {
+   "pg": 6786,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel Taylor Coleridge"
+  },
+  "coleridge-death-of-wallenstein": {
+   "pg": 6787,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel Taylor Coleridge"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-02T19:53-05:00: 36 shelves, 159 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11 — Müller 2, Edwin Arnold 1, Griffith 2, Rodwell 1, Sale 1, Palmer 1, Whinfield 1, Nicholson 2). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-03T00:51-05:00: 43 shelves, 171 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12 — Southey 2, Coleridge 2, Bowring 3, Anster 1, Hayward 1, Wicksteed 2, Mangan 1). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -82,3 +82,13 @@ I grepped each name across every shelf, fetch_sources.py and the four queues fir
 - **Bare surnames tightened.** "rose" matches "the sun rose", so the identity check passed on almost any text. Eleven shelves now require the full name: Rose, Sale, Edwin Arnold, Bayard Taylor, Charles Cotton, Charlotte Guest, E. W. Lane, John Payne, the Gileses, Eliot Norton and Richard Burton. Every source still passes.
 - **Shelton vol. 2** passed only because of a publisher's ad at the back; its title page is OCR'd as "Thomas Sbelton". That title page was read by eye, and the reading is recorded in the shelf.
 - **Found while checking: Palmer's Qur'an had part II twice and no part I.** Both IA copies held chapters XVII-CXIV. Part I (SBE 6, Michigan copy) now replaces the duplicate, and its title page reads "translated by E. H. Palmer, part I, chapters I to XVI".
+
+## Round 7 — 2026-10-03T00:51-05:00, Romantic-era translators (each shelf vetoable)
+The new coordinator listed Chapman, Pope, Cowper, Butcher and Lang, Jowett's Thucydides, Rawlinson's Herodotus, North's Plutarch, Florio and Urquhart. **All of them are already shelved:** the first seven by lanes B and D (homer, lang, thucydides, herodotus, plutarch), and Florio and Urquhart by lane C. Nothing was duplicated. Lane C's own picks instead:
+- **Southey:** the Chronicle of the Cid, and Amadis of Gaul (vols 2-4 from Gutenberg, vol. 1 from the Toronto 1803 scan). The vol. 1 copy has lost the half-title that names him; the Toronto catalogue records it, and that is noted in `_identity_checked`.
+- **Coleridge:** Schiller's The Piccolomini and The Death of Wallenstein (Gutenberg 6786-6787, placed by hand because the cache URL returns 404).
+- **The Bowrings:** Sir John Bowring's Peter Schlemihl, and his son E. A. Bowring's Goethe Poems and Heine Poems (two translators, one per title).
+- **Anster and Hayward:** Faust Part I in verse (1835) and in prose (1833), new witnesses beside Bayard Taylor's. **Caught by the gate:** IA's "Anster" item (fausttransanster00goetuoft) is actually John Stuart Blackie's Faust (Macmillan 1880), so it was excluded and replaced with Routledge's Anster.
+- **Wicksteed:** Dante's Paradiso (Temple Classics; the OCR mixes in the Italian, 0.71) and the Convivio (1903).
+- **Mangan:** German Anthology (Dublin 1845, 2 vols). Vol. II has no title leaf, which is recorded.
+- **Lane A's common-word surname guard (e1ef08b):** Palmer now uses "e. h. palmer". Part II's OCR mangles the name, which is recorded with the IA catalogue evidence. All 43 lane C shelves pass.

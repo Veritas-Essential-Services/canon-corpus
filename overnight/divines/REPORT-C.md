@@ -78,3 +78,6 @@
 
 ## 2026-10-02T21:52-05:00 — lane A gate fix (815a082) re-verified
 - `fetch_shelf.py --verify --record` re-run on all 36 lane C shelves under the fail-closed rights gate, per-miss overrides and max(years) date gate: 0 mismatched, 0 rights flags; the 6 identity overrides still cover only the miss each names. sturluson and lang are not lane C shelves.
+
+## 2026-10-03T00:51-05:00 — round 7: seven shelves (southey, coleridge, bowring, anster, hayward, wicksteed, mangan) + lane A guard
+- 15 sources, 0 failed after fixes (one IA mislabel, Blackie as Anster, replaced; three recorded identity overrides). 12 titles cut. `--verify --record` across all 43 lane C shelves under e1ef08b: 0 mismatched, 0 rights flags. Coordinator's suggested list was entirely held already (lanes B, C, D).
