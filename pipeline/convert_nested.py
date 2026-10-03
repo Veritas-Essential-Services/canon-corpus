@@ -28,7 +28,9 @@ and a "start", nothing before the start is read as a heading: a Contents that
 repeats the chapter headings would otherwise file the front matter under the
 last chapter it lists. Front matter is cited "front, par. n".
 Illustration placeholders are removed before matching
-and never become units. Same output contract as convert_gutenberg_prose
+and never become units, except that "caption": true on a level first turns an
+illustration whose caption matches that level's regex into a plain paragraph
+(a book that prints each story's title only on its headpiece plate). Same output contract as convert_gutenberg_prose
 ({id, ref, text, links[]}); structure_texts.py is imported, not modified.
 """
 import os, re, sys
@@ -41,6 +43,13 @@ RE_ILLUS = re.compile(r"\[Illustration[^\]]*\]", re.S)
 def convert_nested(path, slug, title, author, levels, start=None, front=False):
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
     raw, apparatus_note = apply_body_rules(raw, slug)
+    for l in levels:
+        if l.get("caption"):
+            rx_ = re.compile(l["re"])
+            def _cap(m, rx_=rx_):
+                c = re.sub(r"\s+", " ", m.group(0)[len("[Illustration:"):-1]).strip()
+                return f"\n\n{c}\n\n" if rx_.match(c) else m.group(0)
+            raw = RE_ILLUS.sub(_cap, raw)
     raw = RE_ILLUS.sub("", raw)
     LV = [(re.compile(l["re"]), bool(l.get("title_next"))) for l in levels]
     MAX = [int(l.get("max", 90)) for l in levels]

@@ -781,6 +781,44 @@
       "status": "done",
       "finished": "2026-10-02T20:10:59-05:00",
       "notes": "6/6 fetched (Gutenberg 47297, 47298, 8447, 45514, 66084, 46234), 3,143 units, 12 ~2 ids."
+    },
+    {
+      "id": "de-morgan",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: de-morgan; no minting",
+      "status": "done",
+      "started": "2026-10-02T20:21:35-05:00",
+      "finished": "2026-10-02T20:29:55-05:00",
+      "notes": "2/2 fetched (Gutenberg 38976, 69875), 1,457 units, 0 ~2 ids."
+    },
+    {
+      "id": "frances-browne",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: frances-browne; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:21:38-05:00"
+    },
+    {
+      "id": "stroebe",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: stroebe; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:21:40-05:00"
+    },
+    {
+      "id": "perkins",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: perkins; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:24:38-05:00"
+    },
+    {
+      "id": "richards",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: richards; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:24:57-05:00"
+    },
+    {
+      "id": "yonge",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: yonge; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:25:11-05:00"
     }
   ]
 }

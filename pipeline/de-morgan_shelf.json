@@ -1,0 +1,45 @@
+{
+ "_about": "Mary De Morgan's (1850-1907) literary fairy tales. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mary De Morgan",
+ "_name_words": [
+  "morgan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "de-morgan-necklace-of-princess-fiorimonde": [
+   38976,
+   "The Necklace of Princess Fiorimonde, and Other Stories",
+   {
+    "levels": [
+     {
+      "re": "(?:THE NECKLACE OF PRINCESS FIORIMONDE|THE WANDERINGS OF ARASMON|THE HEART OF PRINCESS JOAN|THE PEDLAR'S PACK|THE BREAD OF DISCONTENT|YE THREE CLEVER KINGS|THE WISE PRINCESS|LIST OF ILLUSTRATIONS\\.)$",
+      "label": {
+       "LIST OF ILLUSTRATIONS": "list of illustrations"
+      }
+     }
+    ],
+    "start": "LIST OF ILLUSTRATIONS\\.$",
+    "front": true
+   }
+  ],
+  "de-morgan-windfairies": [
+   69875,
+   "The Windfairies, and Other Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:THE WIND FAIRIES|VAIN KESTA|THE POOL & THE TREE|NANINA’S SHEEP|THE GIPSY’S CUP|THE STORY OF A CAT|DUMB OTHMAR|THE RAIN MAIDEN|THE PLOUGHMAN & THE GNOME|THE END)$",
+      "caption": true,
+      "label": {
+       "THE END$": "back matter"
+      }
+     }
+    ],
+    "start": "THE WIND FAIRIES$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

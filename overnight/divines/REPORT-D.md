@@ -381,3 +381,6 @@
 
 ## 2026-10-02 20:10 CDT — weston: done
 - 6/6 fetched (Gutenberg 47297, 47298, 8447, 45514, 66084, 46234), 3,143 units, 12 ~2 ids.
+
+## 2026-10-02 20:29 CDT — de-morgan: done
+- 2/2 fetched (Gutenberg 38976, 69875), 1,457 units, 0 ~2 ids.
