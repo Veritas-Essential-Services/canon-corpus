@@ -133,7 +133,7 @@ Lane A holds Warfield's Westminster studies and the Assembly divines Reynolds an
 | Mitchell, The Westminster Assembly: its History and Standards (1883); Catechisms of the Second Reformation (1886) | have-raw | `alexander-mitchell_shelf.json` |
 | Hetherington, History of the Westminster Assembly (1843; New York 1868 printing) | have-raw | `hetherington_shelf.json` |
 | Shaw, Exposition of the Confession of Faith (2nd ed., 1846) | have-raw | `robert-shaw_shelf.json` |
-| Lightfoot's Journal of the Assembly (Works vol. 13, 1824) | pending | not yet searched |
+| Lightfoot, Journal of the Proceedings of the Assembly, 1643-1644 (Whole Works vol. 13, ed. Pitman) | have-raw | `john-lightfoot_shelf.json` |
 
 ## Free Church of Scotland divines
 

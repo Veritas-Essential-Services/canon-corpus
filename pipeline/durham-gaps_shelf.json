@@ -41,6 +41,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": null,
+   "title_weak": true,
    "identity": "identity_override",
    "ia_rights": "ok: published 1659",
    "ia_date": "1659",

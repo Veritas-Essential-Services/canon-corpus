@@ -7,7 +7,10 @@
   "parker"
  ],
  "_identity_checked": {
-  "ps-select-poetry-2": "Title page read 2026-10-03: Select Poetry, chiefly Devotional, of the Reign of Queen Elizabeth, collected and edited by Edward Farr for the Parker Society, part 2, Cambridge 1845. The Society's name is printed in blackletter and OCR'd as 'Barker', so the name check cannot see it."
+  "ps-select-poetry-2": {
+   "author": "Title page read 2026-10-03: collected and edited by Edward Farr for the Parker Society, part 2, Cambridge 1845. The Society's name is printed in blackletter and OCR'd as 'Barker', so the name check cannot see it.",
+   "title": "The title words 'Select Poetry, chiefly Devotional' are also blackletter on the title page and OCR as '* Icct €!)tcfln Qcbotianal'; the page itself, read by eye, carries them. The volume continues part 1 (Thomas Tusser onward)."
+  }
  },
  "ccel": {},
  "gutenberg": {},

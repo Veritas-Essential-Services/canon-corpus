@@ -1,5 +1,5 @@
 {
- "_about": "The Westminster Assembly's own record: Minutes of the Sessions of the Westminster Assembly of Divines while engaged in preparing their Directory for Church Government, Confession of Faith and Catechisms (November 1644 to March 1649), ed. Alexander F. Mitchell and John Struthers (Edinburgh: Blackwood, 1874); and the Assembly's documents as the Church of Scotland printed them, the Confession, both Catechisms, the Directories and the Form of Church Government with the Sum of Saving Knowledge and the Covenants (Nelson, licensed 1877). The Assembly is the author, so the name check looks for 'Westminster'. Gillespie's and Baillie's first-hand accounts are on gillespie-gaps and robert-baillie. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "The Westminster Assembly's own record: Minutes of the Sessions of the Westminster Assembly of Divines while engaged in preparing their Directory for Church Government, Confession of Faith and Catechisms (November 1644 to March 1649), ed. Alexander F. Mitchell and John Struthers (Edinburgh: Blackwood, 1874); and the Assembly's documents as the Church of Scotland printed them, the Confession, both Catechisms, the Directories and the Form of Church Government with the Sum of Saving Knowledge and the Covenants (Nelson, licensed 1877). The Assembly is the author, so the name check looks for 'Westminster'. Gillespie's, Baillie's and Lightfoot's first-hand accounts are on gillespie-gaps, robert-baillie and john-lightfoot. Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "westminster"
  ],
@@ -21,9 +21,6 @@
  "_alternates": {
   "minutesofsession00westiala, minutesofsession0000reva": "Other copies.",
   "confessionoffait00westuoft (1860), confessionoffait00chur_0 (1855), confessionoffaith00chur (1894)": "Other printings of the same volume."
- },
- "_pending": {
-  "John Lightfoot's Journal of the Assembly (Works vol. 13, 1824)": "Not yet searched."
  },
  "_excluded": {},
  "_checks": {
