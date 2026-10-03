@@ -716,6 +716,14 @@
    "started": "2026-10-03T02:47:58-05:00",
    "finished": "2026-10-03T02:50:43-05:00",
    "notes": "Scott's Calpurnius (1890), Lyman's Publilius Syrus (1856), Chase's Distichs of Cato (1922), Wase's Grattius (1654, old spelling, OCR 0.83; translator unchecked: long s; IA date 1654, the title page OCR reads 1664). Per-slug name forms, no shared forms."
+  },
+  {
+   "id": "presocratics",
+   "status": "done",
+   "scope": "New shelf: Presocratics (Patrick's Heraclitus 1889, Leonard's Empedocles 1908)",
+   "started": "2026-10-03T02:50:43-05:00",
+   "finished": "2026-10-03T02:52:03-05:00",
+   "notes": "OCR 0.82 and 0.79. Fairbanks 1898 refused (Greek facing, 0.73-0.77). Burnet's Early Greek Philosophy not taken (a study, not a translation)."
   }
  ]
 }

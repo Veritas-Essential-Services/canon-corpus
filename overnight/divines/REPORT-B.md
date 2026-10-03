@@ -430,3 +430,7 @@
 ## 2026-10-03 02:50 CDT — Minor Latin poets
 - New shelf latin-minor-poets: Calpurnius (Scott, 1890), Publilius Syrus (Lyman, 1856), Distichs of Cato (Chase, 1922), Grattius (Wase, 1654)
 - Wase's date: IA gives 1654; the title page OCR reads 1664; label states both
+
+## 2026-10-03 02:52 CDT — Presocratics
+- New shelf presocratics: Heraclitus (G. T. W. Patrick, 1889), Empedocles in verse (W. E. Leonard, 1908)
+- Fairbanks's First Philosophers of Greece refused on OCR; Burnet not taken (a study)
