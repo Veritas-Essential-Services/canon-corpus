@@ -4112,6 +4112,15 @@ Shelf: `pipeline/griffis_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880) | have | PG 29337, `griffis-japanese-fairy-world` (741 units) |
 
+## Elphinstone Dayrell
+
+Shelf: `pipeline/dayrell_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). West African tales from Southern Nigeria, set down by a colonial officer; numbered stories. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk Stories from Southern Nigeria, West Africa (1910), introduction by Andrew Lang | have | PG 34655, `dayrell-folk-stories-southern-nigeria` (548 units) |
+| Ikom Folk Stories from Southern Nigeria (1913) | have | PG 70959, `dayrell-ikom-folk-stories` (739 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

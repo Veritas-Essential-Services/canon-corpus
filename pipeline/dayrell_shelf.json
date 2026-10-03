@@ -1,0 +1,33 @@
+{
+ "_about": "Elphinstone Dayrell's (1869-1917) collections of West African tales, gathered as a colonial district officer in Southern Nigeria and set down in his English: Folk Stories from Southern Nigeria (1910, introduction by Andrew Lang) and Ikom Folk Stories (1913). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Elphinstone Dayrell",
+ "_name_words": [
+  "nigeria",
+  "folk",
+  "stories",
+  "ikom"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dayrell-folk-stories-southern-nigeria": [
+   34655,
+   "Folk Stories from Southern Nigeria, West Africa (1910), introduction by Andrew Lang",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "INTRODUCTION\\.?$",
+    "front": true
+   }
+  ],
+  "dayrell-ikom-folk-stories": [
+   70959,
+   "Ikom Folk Stories from Southern Nigeria (1913)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

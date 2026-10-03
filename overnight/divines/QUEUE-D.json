@@ -554,7 +554,9 @@
     {
       "id": "dayrell",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: dayrell; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:17-05:00",
+      "notes": "2/2 fetched (Gutenberg 34655, 70959), 1,287 units, 1 ~2 ids."
     },
     {
       "id": "cronise-ward",
