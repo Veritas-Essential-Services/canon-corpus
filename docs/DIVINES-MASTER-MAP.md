@@ -1452,6 +1452,15 @@ Slugs `tscott-*`.
 |---|---|---|
 | Essays on the Most Important Subjects in Religion; The Force of Truth (Edinburgh, 1825) | have-raw | IA (identifier in the shelf) |
 | The Holy Bible with Explanatory Notes (the Family Bible) | not looked for | |
+
+
+## William Beveridge (round 9, my pick, 2026-10-03)
+
+Slugs `beveridge-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological Works, 12 vols (Oxford: Parker, 1842-48, Library of Anglo-Catholic Theology); vols 11-12 in Latin | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

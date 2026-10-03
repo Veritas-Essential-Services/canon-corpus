@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:07 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:10 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -169,6 +169,7 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 | William Paley | william-paley_shelf.json | 2 CCEL (Evidences of Christianity; Natural Theology with notes) | 1 (Works, Philadelphia: Crissy and Markley, one vol., catalogued 1853: adds Horae Paulinae, Moral and Political Philosophy, sermons) | none | none |
 | Robert South | robert-south_shelf.json | none | 7 (Sermons Preached upon Several Occasions, Oxford: Clarendon Press, 1823, complete) | none | Tegg's 1843 London and the 1844 Philadelphia editions |
 | Thomas Scott | thomas-scott_shelf.json | none | 1 (Essays on the Most Important Subjects in Religion, with The Force of Truth, Edinburgh 1825) | none | the Family Bible commentary (not looked for yet) |
+| William Beveridge | william-beveridge_shelf.json | none | 12 (Theological Works, Library of Anglo-Catholic Theology, Oxford 1842-48; vols 11-12 Latin) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

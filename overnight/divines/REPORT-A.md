@@ -405,3 +405,6 @@
 
 ## 2026-10-03 01:07 CDT — thomas-scott done
 - `pipeline/thomas-scott_shelf.json`: the Essays with The Force of Truth (Edinburgh, 1825), raw IA OCR, 98.2%, 1.1 MB. `--verify --record`: 0 mismatched, 0 rights flags; matched on "thomas scott". 0 uids minted.
+
+## 2026-10-03 01:10 CDT — william-beveridge done
+- `pipeline/william-beveridge_shelf.json`: the LACT Theological Works, 12 volumes of raw IA OCR, about 15 MB; title pages read (MDCCCXLII-MDCCCXLVIII). Median 98.4%; vols 11-12 score 70% because they are Latin (5 and 8 "the" against 1,700-3,500 "et"), vol. 7 90% for the same reason in part. `--verify --record`: 0 mismatched, 0 rights flags; matched on "william beveridge". 0 uids minted.
