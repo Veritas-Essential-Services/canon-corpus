@@ -226,6 +226,10 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Baird, Rise of the Huguenots (2 vols, 1879); Huguenots and Henry of Navarre (2 vols, 1886); Huguenots and the Revocation (1895, vol. 1); Theodore Beza (1899) | have-raw | `henry-baird_shelf.json`; Revocation vol. 2 pending |
 | Wylie, The History of Protestantism (Cassell, 3 vols); The Papacy (1852); Daybreak in Spain ([1870]) | have-raw | `james-wylie_shelf.json` |
 | Muston, The Israel of the Alps, tr. Montgomery (Blackie, 1875, 2 vols) | have-raw | `alexis-muston_shelf.json` |
+| Morland, History of the Evangelical Churches of the Valleys of Piemont (1658) | have-raw | `samuel-morland_shelf.json` |
+| William Jones, The History of the Waldenses, 2nd ed. (2 vols, 1816) | have-raw | `william-jones-waldenses_shelf.json` |
+| Gilly, Waldensian Researches (1831) | have-raw | `gilly_shelf.json` |
+| Monastier, A History of the Vaudois Church (RTS, [1846]) | have-raw | `monastier_shelf.json` |
 | Turretin on the Atonement of Christ, tr. Willson (New York, 1859) | have-raw | `turretin_shelf.json`; translator checked; the full Institutes are in copyright (1992) |
 | Paul Henry, The Life and Times of John Calvin, tr. Stebbing (2 vols, 1849) | have-raw | `paul-henry_shelf.json`; translator checked |
 | Christoffel, Zwingli, or the Rise of the Reformation in Switzerland, tr. Cochran (1858) | have-raw | `christoffel_shelf.json`; translator checked |
