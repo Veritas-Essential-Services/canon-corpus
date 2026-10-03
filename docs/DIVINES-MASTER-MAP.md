@@ -3547,6 +3547,9 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Odes of Anacreon | Thomas Moore | `anacreon-moore` | have (PG 38230) |
 | Bacchylides: A Prose Translation (Macmillan, 1898) | Edward Poste | `bacchylides-poste` | have-raw (IA `cu31924026462287`) |
 | The Greek Anthology, as selected for the use of Westminster, Eton and other public schools, literally translated into English prose, with metrical versions by Bland, Merivale and others (Bohn, MDCCCLIV) | George Burges | `greek-anthology-burges-1854` | have-raw (IA `greekanthology0000geor`) |
+| The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760) | Francis Fawkes | `anacreon-fawkes-1760` | have-raw (IA `worksofanacreons00fawkuoft`) |
+| The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804) | Thomas Girdlestone | `anacreon-girdlestone-1804` | have-raw (IA `odesanacreontra00girdgoog`) |
+| Anacreon in English, attempted in the metres of the original (undated; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 

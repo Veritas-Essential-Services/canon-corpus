@@ -498,3 +498,8 @@
 - lucretius: 1743 anon. prose (vol. I), Watson and Good 1851, Johnson 1872, 1879 private, Baring 1884
 - roman-comedy: Echard's Terence 1733, Evans's Trinummus 1883
 - Refused: 1743 vol. II (0.7798), Thornton's Plautus (0.70)
+
+## 2026-10-03 06:33 CDT — Anacreon
+- greek-lyric: Fawkes (IA 1760), Girdlestone 1804, T. J. Arnold (IA 1869)
+- Refused on OCR: Anacreon 1735, Bullen's Stanley 1893
+- Greek-facing Loebs measured 0.53-0.74 on the whole-text bar; left pending
