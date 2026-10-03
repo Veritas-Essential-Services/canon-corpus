@@ -925,6 +925,56 @@
       "started": "2026-10-02T20:35:47-05:00",
       "finished": "2026-10-02T20:49:41-05:00",
       "notes": "1/1 fetched (Gutenberg 58900), 1,528 units, 0 ~2 ids."
+    },
+    {
+      "id": "coolidge",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: coolidge; no minting",
+      "status": "done",
+      "started": "2026-10-02T20:58:04-05:00",
+      "finished": "2026-10-02T21:03:58-05:00",
+      "notes": "9/9 fetched (Gutenberg 8994, 5141, 8995, 15798, 28724, 27678, 27223, 35186, 58762), 8,508 units, 10 ~2 ids."
+    },
+    {
+      "id": "lucretia-hale",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: lucretia-hale; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:58:17-05:00"
+    },
+    {
+      "id": "margaret-sidney",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: margaret-sidney; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:58:20-05:00"
+    },
+    {
+      "id": "eleanor-porter",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: eleanor-porter; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:58:52-05:00"
+    },
+    {
+      "id": "jean-webster",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: jean-webster; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:58:57-05:00"
+    },
+    {
+      "id": "gruelle",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: gruelle; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:59:03-05:00"
+    },
+    {
+      "id": "albert-paine",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: albert-paine; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:59:22-05:00"
+    },
+    {
+      "id": "de-vere",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: de-vere; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:59:42-05:00"
     }
   ]
 }

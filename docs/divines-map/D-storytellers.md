@@ -1809,6 +1809,22 @@ Shelf: `pipeline/nassau_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Where Animals Talk: West African Folk Lore Tales | have | PG 58900, `nassau-where-animals-talk` (1528 units) |
 
+## Susan Coolidge (Sarah Chauncey Woolsey)
+
+Shelf: `pipeline/coolidge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Katy books and her other girls' stories, written for the young. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| What Katy Did | have | PG 8994, `coolidge-what-katy-did` (1132 units) |
+| What Katy Did at School | have | PG 5141, `coolidge-what-katy-did-at-school` (1117 units) |
+| What Katy Did Next | have | PG 8995, `coolidge-what-katy-did-next` (825 units) |
+| Clover | have | PG 15798, `coolidge-clover` (951 units) |
+| In the High Valley | have | PG 28724, `coolidge-in-the-high-valley` (926 units) |
+| Nine Little Goslings | have | PG 27678, `coolidge-nine-little-goslings` (940 units) |
+| Eyebright | have | PG 27223, `coolidge-eyebright` (857 units) |
+| A Round Dozen | have | PG 35186, `coolidge-round-dozen` (1030 units) |
+| The New-Year's Bargain | have | PG 58762, `coolidge-new-years-bargain` (730 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

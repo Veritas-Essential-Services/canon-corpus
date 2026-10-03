@@ -441,3 +441,6 @@
 
 ## 2026-10-02 20:49 CDT — nassau: done
 - 1/1 fetched (Gutenberg 58900), 1,528 units, 0 ~2 ids.
+
+## 2026-10-02 21:03 CDT — coolidge: done
+- 9/9 fetched (Gutenberg 8994, 5141, 8995, 15798, 28724, 27678, 27223, 35186, 58762), 8,508 units, 10 ~2 ids.

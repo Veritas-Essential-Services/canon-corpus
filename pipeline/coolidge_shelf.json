@@ -1,0 +1,155 @@
+{
+ "_about": "Susan Coolidge's (1835-1905) Katy books and her stories for children. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Susan Coolidge",
+ "_name_words": [
+  "coolidge"
+ ],
+ "_surname": [
+  "coolidge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "coolidge-what-katy-did": [
+   8994,
+   "What Katy Did",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-what-katy-did-at-school": [
+   5141,
+   "What Katy Did at School",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-what-katy-did-next": [
+   8995,
+   "What Katy Did Next",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-clover": [
+   15798,
+   "Clover",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-in-the-high-valley": [
+   28724,
+   "In the High Valley"
+  ],
+  "coolidge-nine-little-goslings": [
+   27678,
+   "Nine Little Goslings"
+  ],
+  "coolidge-eyebright": [
+   27223,
+   "Eyebright",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-round-dozen": [
+   35186,
+   "A Round Dozen",
+   {
+    "contents_only": true
+   }
+  ],
+  "coolidge-new-years-bargain": [
+   58762,
+   "The New-Year's Bargain",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "coolidge-what-katy-did": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-what-katy-did-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-what-katy-did-next": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-clover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-in-the-high-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-nine-little-goslings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-eyebright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-round-dozen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "coolidge-new-years-bargain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "coolidge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
