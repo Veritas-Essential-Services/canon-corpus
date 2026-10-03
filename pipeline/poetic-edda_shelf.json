@@ -88,7 +88,7 @@
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Joseph Andrew Blackwell",
+   "pg_translator": "Joseph Andrew Blackwell; Benjamin Thorpe",
    "translator_match": true
   },
   "edda-volsunga-morris": {
@@ -100,7 +100,7 @@
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Eiríkr Magnússon",
+   "pg_translator": "Eiríkr Magnússon; William Morris",
    "translator_match": true
   }
  }

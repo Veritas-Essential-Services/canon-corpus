@@ -13,5 +13,6 @@
  "_excluded": {
   "liaozhai-volumes": "vols. 1 and 2 as separate files (PG 43627, 43628): the same text as the combined file",
   "liaozhai-strange-stories-chinese-studio": "PG 43629: the same file Lane C holds as giles-strange-stories on giles_shelf.json (queued first, 2026-10-03 00:43 UTC); not fetched twice. If that row needs heading rules, Lane D's were: {\"levels\": [{\"re\": \"[IVXLC]+\\\\.$\", \"title_next\": true}, {\"re\": \"FOOTNOTES:$\"}], \"start\": \"STRANGE STORIES$\", \"front\": true}"
- }
+ },
+ "_checks": {}
 }
