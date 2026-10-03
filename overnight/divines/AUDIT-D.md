@@ -261,3 +261,20 @@ All 97 shelves (719 slugs).
   - Baldwin's *Hero Tales* draws on his own *Story of Siegfried* (43 paragraphs) and *Story of the Golden Age* (30). Mint those once.
   - Rolleston's two Celtic books share 12 paragraphs. That is too small to matter, but they should still be minted once.
 - **OCR.** Batches 11 and 12 added no Internet Archive volumes, so the grades are unchanged: 53 A, 12 B, 3 C, 1 D.
+
+## 7. Fifth pass (2026-10-02 night, after batches 13-15 and the shelf-ownership fix)
+
+All 115 shelves (779 slugs).
+
+- **Shelf ownership.** Lane D had written over Lane A's `perkins_shelf.json` (William Perkins) with Lucy Fitch Perkins. Lane A's file is restored byte for byte, and the Twins books moved to `lfperkins_shelf.json` (8c69ae2). Every other Lane D shelf file was created by a Lane D commit, and no other lane's commit touches one. `overnight/divines/precommit-D.py` now refuses a commit that changes another lane's shelf.
+- **Identity and rights checks recorded.** Every Lane D shelf with rows now carries `_surname` and the `_checks` that `fetch_shelf.py --verify --record` writes (88bc65a, 1015c74, and batch 15's own commits). The final result is 0 identity mismatches and 0 rights flags. The first pass's 7 mismatches and 6 flags are explained in 1015c74. Three were co-translations, where the claim named a different one of the two translators than Gutenberg's header does. Four were raw-OCR title pages that garble the translator's name and were confirmed by reading them. MacDonald's scans print "MAC DONALD". Dutt's Ramayana scan has an undated Archive record, and its title page reads 1899.
+- **URLs.** 779 checked. Eight Gutenberg files reset or dropped TLS on the first sweep, and all eight answered on retry; PG 496 took four tries. Lang's Lockhart vol. 1 still returns HTTP 500 (see §4). Every slug is in the map.
+- **Same source held twice.** None.
+- **Translators.** The catalog check is clean. Kulóskap the Master was published by Leland *and* John Dyneley Prince (title page, 1902), and the row now names both.
+- **Text held twice, new this pass.** Mint each of these once, with two witnesses:
+  - Richards's *The Pig Brother* (a school reader) reprints 56% of its long paragraphs from her other books held here: Toto, Toto's Merry Winter, Five Minute Stories and The Silver Crown.
+  - Schoolcraft's *Myth of Hiawatha* (1856) reprints 46% of its long paragraphs from his *Algic Researches* (1839).
+  - Croker's *Fairy Legends* shares 14% with Yeats's *Fairy and Folk Tales of the Irish Peasantry* and 12% of Yeats's *Irish Fairy Tales*, because Yeats reprinted Croker.
+  - Lady Wilde shares small amounts with Yeats for the same reason.
+- **Excluded before commit** (measured, not guessed): Richards's *Golden-Breasted Kootoo* (72% of it is in *Toto*), and Perkins's *Moon Princess* (written by Edith Ogden Harrison; Perkins only illustrated it).
+- **OCR.** Batches 13-15 added no Internet Archive volumes, so the grades are unchanged.
