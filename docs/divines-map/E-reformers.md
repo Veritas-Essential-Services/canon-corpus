@@ -152,4 +152,5 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Work | Status | Where |
 |---|---|---|
 | Foxe, The Acts and Monuments, ed. Cattley, with Townsend's dissertation (8 vols, 1837-1841) | have-raw | `john-foxe_shelf.json`; the full text, not the abridged Book of Martyrs |
-| Strype's Memorials, Annals and Lives (Oxford, 1812-1840); Burnet's History of the Reformation, ed. Pocock (1865) | pending | not yet searched |
+| Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
+| Strype's Memorials, Annals and Lives (Oxford, 1812-1840) | pending | not yet searched |
