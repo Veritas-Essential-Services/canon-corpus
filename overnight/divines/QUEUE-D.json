@@ -809,8 +809,10 @@
     {
       "id": "perkins",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: perkins; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:24:38-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:24:38-05:00",
+      "finished": "2026-10-02T20:30:00-05:00",
+      "notes": "13/13 fetched (Gutenberg 3496, 3497, 3642, 3774, 4012, 4086, 4091, 9966, 16644, 28425, 28426, 28431, 28889), 7,280 units, 0 ~2 ids."
     },
     {
       "id": "richards",

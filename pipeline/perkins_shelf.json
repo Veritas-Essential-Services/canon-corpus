@@ -1,70 +1,125 @@
 {
- "_about": "Public-domain William Perkins (1558-1602, Cambridge) for the Word Hoard: the Workes (printed by John Legatt, 1616-1618, 3 vols), from Early English Books scans, raw Internet Archive OCR. The three items are volumes 1-3 of one IA series (sim_pubid 99011), each dated on its record; the printer's name occurs in all three. CCEL and Gutenberg hold nothing of his, and IA has no later collected edition. 17th-century type: the OCR is rough. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Lucy Fitch Perkins's (1865-1937) Twins series, children's stories of other lands and times. Clean Gutenberg text; Gutenberg cleared each as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Lucy Fitch Perkins",
  "_name_words": [
   "perkins"
  ],
- "_surname": [
-  "perkins"
- ],
- "_held": {},
  "ccel": {},
- "gutenberg": {},
- "internet_archive": {
-  "perkins-workes-1616-1": [
-   "bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1616_1",
-   "The Workes of that Famous and Worthy Minister of Christ, M. William Perkins, vol. 1 (1616)"
+ "gutenberg": {
+  "perkins-japanese-twins": [
+   3496,
+   "The Japanese Twins"
   ],
-  "perkins-workes-1617-2": [
-   "bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1617_2",
-   "The Workes of that Famous and Worthy Minister of Christ, M. William Perkins, vol. 2 (1617)"
+  "perkins-swiss-twins": [
+   3497,
+   "The Swiss Twins"
   ],
-  "perkins-workes-1618-3": [
-   "bim_early-english-books-1475-1640_the-workes-of-that-famou_perkins-william_1618_3",
-   "The Workes of that Famous and Worthy Minister of Christ, M. William Perkins, vol. 3 (1618)"
+  "perkins-belgian-twins": [
+   3642,
+   "The Belgian Twins",
+   {
+    "levels": [
+     {
+      "re": "(?:[IVXL]+\\.?|SUGGESTIONS TO TEACHERS)$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.?$",
+    "front": true
+   }
+  ],
+  "perkins-eskimo-twins": [
+   3774,
+   "The Eskimo Twins",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ],
+    "start": "SUGGESTIONS TO TEACHERS$",
+    "front": true
+   }
+  ],
+  "perkins-dutch-twins": [
+   4012,
+   "The Dutch Twins"
+  ],
+  "perkins-scotch-twins": [
+   4086,
+   "The Scotch Twins"
+  ],
+  "perkins-french-twins": [
+   4091,
+   "The French Twins",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ]
+   }
+  ],
+  "perkins-spartan-twins": [
+   9966,
+   "The Spartan Twins",
+   {
+    "levels": [
+     {
+      "re": "(?:[IVXL]+\\.?|SUGGESTIONS TO TEACHERS)$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.?$",
+    "front": true
+   }
+  ],
+  "perkins-puritan-twins": [
+   16644,
+   "The Puritan Twins",
+   {
+    "contents_only": true
+   }
+  ],
+  "perkins-cave-twins": [
+   28425,
+   "The Cave Twins"
+  ],
+  "perkins-italian-twins": [
+   28426,
+   "The Italian Twins"
+  ],
+  "perkins-irish-twins": [
+   28431,
+   "The Irish Twins"
+  ],
+  "perkins-mexican-twins": [
+   28889,
+   "The Mexican Twins",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ],
+    "start": "CONTENTS$",
+    "front": true
+   }
   ]
  },
- "_alternates": {
-  "EEBO Workes of 1603, 1605, 1609 (vols 1, 3), 1612, 1613, 1626 (vol 1), 1631, 1635 (vol 1)": "Other printings, mostly single volumes of broken sets.",
-  "EEBO separate treatises (A Golden Chaine, A Graine of Musterd-Seed, The Foundation of Christian Religion, Cases of Conscience, etc.)": "Contained in the Workes."
- },
+ "internet_archive": {},
  "_excluded": {
-  "bim_*_almanacs-perkins-franc_*": "Francis Perkins's almanacs.",
-  "bim_*_remarks-on-the-papers_perkins-william_1696; *_a-defence-of-the-absolut_collier-jeremy_1696": "Sir William Perkins, the 1696 Jacobite plotter: another man.",
-  "worksofwilliampe0000perk (2014); williamperkins150000will (1966)": "Modern editions, not PD scans."
- },
- "_checks": {
-  "perkins-workes-1616-1": {
-   "kind": "ia",
-   "checked": "2026-10-02",
-   "name_check": "surname",
-   "author_seen": "perkins",
-   "identity": "ok",
-   "ia_rights": "ok: published 1616",
-   "ia_date": "1616",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "perkins-workes-1617-2": {
-   "kind": "ia",
-   "checked": "2026-10-02",
-   "name_check": "surname",
-   "author_seen": "perkins",
-   "identity": "ok",
-   "ia_rights": "ok: published 1617",
-   "ia_date": "1617",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "perkins-workes-1618-3": {
-   "kind": "ia",
-   "checked": "2026-10-02",
-   "name_check": "surname",
-   "author_seen": "perkins",
-   "identity": "ok",
-   "ia_rights": "ok: published 1618",
-   "ia_date": "1618",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  }
+  "perkins-folk-tales-from-the-russian": "PG 12851: by Verra de Blumenthal; Perkins only illustrated it",
+  "perkins-summers-readers": "PG 67302, 68453: school primers, not stories",
+  "perkins-moon-princess": "PG 60042, The Moon Princess (1905): written by Edith Ogden Harrison; Perkins only illustrated it (title page read)"
  }
 }

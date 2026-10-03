@@ -390,3 +390,6 @@
 
 ## 2026-10-02 20:29 CDT — stroebe: done
 - 2/2 fetched (Gutenberg 37193, 38070), 1,515 units, 0 ~2 ids.
+
+## 2026-10-02 20:30 CDT — perkins: done
+- 13/13 fetched (Gutenberg 3496, 3497, 3642, 3774, 4012, 4086, 4091, 9966, 16644, 28425, 28426, 28431, 28889), 7,280 units, 0 ~2 ids.

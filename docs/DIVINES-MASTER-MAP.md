@@ -4869,6 +4869,29 @@ Shelf: `pipeline/stroebe_shelf.json` (2026-10-02; added at the coordinator's rel
 | The Swedish Fairy Book, ed. Klara Stroebe, tr. Frederick H. Martens | have | PG 37193, `stroebe-swedish-fairy-book` (570 units) |
 | The Norwegian Fairy Book, ed. Klara Stroebe, tr. Frederick H. Martens | have | PG 38070, `stroebe-norwegian-fairy-book` (945 units) |
 
+## Lucy Fitch Perkins (1865-1937)
+
+Shelf: `pipeline/perkins_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her Twins series: children's stories of other lands and times. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Japanese Twins | have | PG 3496, `perkins-japanese-twins` (766 units) |
+| The Swiss Twins | have | PG 3497, `perkins-swiss-twins` (387 units) |
+| The Belgian Twins | have | PG 3642, `perkins-belgian-twins` (458 units) |
+| The Eskimo Twins | have | PG 3774, `perkins-eskimo-twins` (663 units) |
+| The Dutch Twins | have | PG 4012, `perkins-dutch-twins` (778 units) |
+| The Scotch Twins | have | PG 4086, `perkins-scotch-twins` (674 units) |
+| The French Twins | have | PG 4091, `perkins-french-twins` (453 units) |
+| The Spartan Twins | have | PG 9966, `perkins-spartan-twins` (531 units) |
+| The Puritan Twins | have | PG 16644, `perkins-puritan-twins` (461 units) |
+| The Cave Twins | have | PG 28425, `perkins-cave-twins` (554 units) |
+| The Italian Twins | have | PG 28426, `perkins-italian-twins` (328 units) |
+| The Irish Twins | have | PG 28431, `perkins-irish-twins` (621 units) |
+| The Mexican Twins | have | PG 28889, `perkins-mexican-twins` (606 units) |
+| perkins-folk-tales-from-the-russian | excluded | PG 12851: by Verra de Blumenthal; Perkins only illustrated it |
+| perkins-summers-readers | excluded | PG 67302, 68453: school primers, not stories |
+| perkins-moon-princess | excluded | PG 60042, The Moon Princess (1905): written by Edith Ogden Harrison; Perkins only illustrated it (title page read) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
