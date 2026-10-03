@@ -1,0 +1,37 @@
+{
+ "_about": "The Chinese Fairy Book (Stokes, copyright 1921), edited by Richard Wilhelm (1873-1930) and translated after original sources by Frederick H. Martens, Stroebe's translator. Public domain in the US. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Richard Wilhelm, ed.; tr. Frederick H. Martens",
+ "_name_words": [
+  "wilhelm",
+  "martens"
+ ],
+ "_surname": [
+  "wilhelm",
+  "martens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wilhelm-chinese-fairy-book": [
+   29939,
+   "The Chinese Fairy Book"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "wilhelm-chinese-fairy-book": "Martens"
+ },
+ "_checks": {
+  "wilhelm-chinese-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wilhelm",
+   "translator_claimed": "Martens",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

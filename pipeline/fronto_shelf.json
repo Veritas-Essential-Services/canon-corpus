@@ -1,0 +1,59 @@
+{
+ "_about": "Marcus Cornelius Fronto's correspondence (with Marcus Aurelius, Lucius Verus, Antoninus Pius and friends) in C. R. Haines's Loeb, the first English translation: vol. I (1919) and vol. II (1920) from first printings, raw IA OCR. Latin facing (some letters in Greek). Not minted.",
+ "_name_words": [
+  "fronto",
+  "cornelius",
+  "marcus",
+  "haines"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fronto-haines-v1": [
+   "correspondenceof01fronuoft",
+   "The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus, Lucius Verus, Antoninus Pius and various friends, vol. I (Loeb; London: Heinemann, New York: Putnam, MCMXIX)",
+   "tr. C. R. Haines"
+  ],
+  "fronto-haines-v2": [
+   "correspondenceof0002crha_r5s5",
+   "The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus, Lucius Verus, Antoninus Pius and various friends, vol. II (Loeb; London: Heinemann, New York: Putnam, MCMXX)",
+   "tr. C. R. Haines"
+  ]
+ },
+ "_surname": [
+  "fronto",
+  "frontonis"
+ ],
+ "_translators": {
+  "fronto-haines-v1": "C. R. Haines",
+  "fronto-haines-v2": "C. R. Haines"
+ },
+ "_checks": {
+  "fronto-haines-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fronto",
+   "translator_claimed": "C. R. Haines",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fronto-haines-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fronto",
+   "translator_claimed": "C. R. Haines",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

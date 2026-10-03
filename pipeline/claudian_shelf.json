@@ -21,6 +21,16 @@
    "worksclaudian00hawkgoog",
    "The Works of Claudian, vol. 1 (1817)",
    "tr. A. Hawkins"
+  ],
+  "claudian-strutt-1814": [
+   "rapeofproserpi00clau",
+   "The Rape of Proserpine, with other poems, from Claudian, translated into English Verse (London: Valpy, 1814)",
+   "tr. Jacob George Strutt"
+  ],
+  "claudian-howard-1823": [
+   "translationsfrom00clauuoft",
+   "Translations from Claudian (London: John Murray, 1823)",
+   "tr. Henry Howard"
   ]
  },
  "_excluded": {
@@ -33,7 +43,9 @@
  "_translators": {
   "claudian-platnauer-v1": "Maurice Platnauer",
   "claudian-platnauer-v2": "Maurice Platnauer",
-  "claudian-hawkins-v1": "A. Hawkins"
+  "claudian-hawkins-v1": "A. Hawkins",
+  "claudian-strutt-1814": "Jacob George Strutt",
+  "claudian-howard-1823": "Henry Howard"
  },
  "_checks": {
   "claudian-platnauer-v1": {
@@ -71,6 +83,32 @@
    "ia_rights": "ok: published 1817",
    "ia_date": "1817",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "claudian-strutt-1814": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "Jacob George Strutt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "claudian-howard-1823": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "Henry Howard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

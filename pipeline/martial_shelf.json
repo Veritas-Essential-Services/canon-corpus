@@ -25,7 +25,8 @@
  },
  "_excluded": {
   "epigramsmartial02bohngoog": "1904 printing of the same edition; lower OCR",
-  "epigramsofmarti00mart": "1865 printing; empty text layer"
+  "epigramsofmarti00mart": "1865 printing; empty text layer",
+  "Pott and Wright, The Twelve Books of Epigrams (Broadway Translations)": "the scan (martialtwelveboo0000tran) prints no date; IA dates it 1924. Not taken without a printed year; F. A. Wright died 1946"
  },
  "_surname": [
   "martial",
@@ -58,7 +59,7 @@
    "translator_claimed": "Walter C. A. Ker",
    "translator_in_text": true,
    "identity": "ok",
-   "ia_rights": "ok: published 1919",
+   "ia_rights": "ok: published 1920",
    "ia_date": "1919-1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
@@ -71,7 +72,7 @@
    "translator_claimed": "Walter C. A. Ker",
    "translator_in_text": true,
    "identity": "ok",
-   "ia_rights": "ok: published 1919",
+   "ia_rights": "ok: published 1920",
    "ia_date": "1919-1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null

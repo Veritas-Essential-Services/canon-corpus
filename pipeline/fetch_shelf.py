@@ -22,6 +22,12 @@ without them behaves as before):
   "_surname": ["edwards", ...]   the author's (or translator's) surname, as
       whole words; one must appear in the text. Without it the old test runs:
       any `_name_words` entry as a substring, which "john" or "law" passes.
+  "_surname_by_slug": {slug: [...]}  on a shelf holding several authors,
+      the names THIS item must show, in place of the shelf-wide `_surname`
+      (which any one author's name would pass). Added 2026-10-03.
+      A bare surname that is also a common English word ("hall", "ken";
+      COMMON_WORD_SURNAMES) is never matched on its own: list a multi-word
+      form beside it, or the shelf stops at load (2026-10-03).
   "_translators": {slug: "Constable"}  the translator claimed for an item;
       a Gutenberg header naming someone else, or a text that never names
       them, is refused as a MISMATCH.
@@ -75,52 +81,101 @@ def _scrub(data, ident):
             full = full.replace(v, " ")
     return full
 
+# Surnames that are also ordinary English words (lane A, 2026-10-03). As a
+# bare whole word, "hall" or "ken" is found in nearly every book, so the
+# author check would pass on anything and the gate would rest on title words
+# alone. A shelf may still list such a word, but only beside a multi-word
+# form ("joseph hall", "bishop hall"); the bare word is then never used to
+# match, and a shelf whose only forms are bare common words stops at load.
+COMMON_WORD_SURNAMES = frozenset("""
+    bacon baker barrow bates bishop black bridge bridges brown burns butler
+    church cook dean field fuller gale gay gill gray green grant hall henry
+    hill hood hooker hope hunt james jay jewel ken king lamb lane law love
+    mason more page palmer pope price prior rich rose skinner smith swift
+    taylor ward wells white wood young
+""".split())
+
+def _usable(surnames):
+    """The surname forms the gate may match on: never a bare common word."""
+    return [n for n in surnames or [] if len(n.split()) > 1 or n.lower() not in COMMON_WORD_SURNAMES]
+
+def check_surnames(shelf):
+    """Stop at load on a name list the gate could not use: one whose every
+    form is a bare common English word. Returns the problems found."""
+    lists = {"_surname": shelf.get("_surname")}
+    lists.update({f"_surname_by_slug[{k}]": v for k, v in shelf.get("_surname_by_slug", {}).items()})
+    bad = []
+    for where, names in lists.items():
+        if names and not _usable(names):
+            bad.append(f"{where} {names}: every form is a bare common English word; "
+                       f"add a multi-word form such as \"joseph hall\" or \"bishop hall\"")
+    return bad
+
 def check_identity(r, data, key, names, kind, override=None, surname=None, ident=None,
                    translator=None):
-    try:
-        _check_identity(r, data, key, names, kind, surname, ident, translator)
-    except RuntimeError as e:
-        if not override:
-            raise
-        r["identity_override"] = f"{e} -- kept: {override}"
+    """Run every identity check, then refuse on any miss an override does not
+    cover (fixed 2026-10-03: it used to raise at the FIRST miss, so an
+    `_identity_checked` excuse for the author silently skipped the translator
+    and title checks after it). An override covers only the miss it names:
+    a dict {"author": reason, "title": reason} names its kinds; a plain string
+    (every override written before this fix) covers the first author-or-title
+    miss, the one it was written for, since nothing after it was ever checked.
+    No override ever covers the translator."""
+    misses = _check_identity(r, data, key, names, kind, surname, ident, translator)
+    if not misses:
+        return
+    if isinstance(override, dict):
+        covered = {k: v for k, v in override.items() if k in ("author", "title")}
+    elif override:
+        first = next((k for k, _ in misses if k != "translator"), None)
+        covered = {first: override} if first else {}
+    else:
+        covered = {}
+    left = [m for k, m in misses if k not in covered]
+    if left:
+        raise RuntimeError("; ".join(left))
+    r["identity_override"] = "; ".join(f"{m} -- kept: {covered[k]}" for k, m in misses)
 
 def _check_identity(r, data, key, names, kind, surname=None, ident=None, translator=None):
     """Refuse a scan that is not the book the shelf names (lane A, 2026-10-02).
     The title words are looked for in the WHOLE text, not just the head (title
     pages are often lost to OCR); the author's name words (`_name_words`) must
     appear somewhere. None of the title words anywhere, or no author name at
-    all, raises: the file is not written and the item is reported FAILED as a
-    MISMATCH. Some but not all title words found is kept and flagged
+    all, is a miss: the file is not written and the item is reported FAILED as
+    a MISMATCH. Some but not all title words found is kept and flagged
     `title_weak` for a human to look at. Shelves without `_name_words`, and
     titles with no checkable word, skip the respective test.
     A title with only ONE checkable word (often an editor's name, as in
     "Works, Dwight ed., vol. 2") is too thin to refuse on: a miss there is
     flagged `title_weak`, not refused. A slug listed in the shelf's
-    `_identity_checked` ({slug: reason}) was confirmed another way (content
-    counts, a look by eye): a would-be MISMATCH is kept, flagged
-    `identity_override`, and the reason recorded."""
+    `_identity_checked` was confirmed another way (content counts, a look by
+    eye): the misses it covers (see check_identity) are kept, flagged
+    `identity_override`, and the reason recorded.
+    Returns every miss as (kind, message), kind in author/translator/title."""
     full = _scrub(data, ident)
+    misses = []
     seen = {w: (w in full) for w in key}
     r["title_words_in_text"] = seen
     if surname:
         r["name_check"] = "surname"
-        r["author_seen"] = next((n for n in surname if _pat(n).search(full)), None)
+        r["author_seen"] = next((n for n in _usable(surname) if _pat(n).search(full)), None)
         if not r["author_seen"]:
-            raise RuntimeError(f"MISMATCH: surname {surname} never appears as a word in the {kind} text")
+            misses.append(("author", f"MISMATCH: surname {surname} never appears as a word in the {kind} text"))
     elif names:
         r["name_check"] = "legacy: any _name_words substring"
         r["author_seen"] = any(n in full for n in names)
         if not r["author_seen"]:
-            raise RuntimeError(f"MISMATCH: no author name {sorted(names)} anywhere in the {kind} text")
+            misses.append(("author", f"MISMATCH: no author name {sorted(names)} anywhere in the {kind} text"))
     if translator:
         r["translator_claimed"] = translator
         r["translator_in_text"] = bool(_pat(translator).search(full))
         if not r["translator_in_text"]:
-            raise RuntimeError(f"MISMATCH: claimed translator {translator!r} never named in the {kind} text")
+            misses.append(("translator", f"MISMATCH: claimed translator {translator!r} never named in the {kind} text"))
     if len(key) >= 2 and not any(seen.values()):
-        raise RuntimeError(f"MISMATCH: none of the title words {key} anywhere in the {kind} text")
-    if key and not all(seen.values()):
+        misses.append(("title", f"MISMATCH: none of the title words {key} anywhere in the {kind} text"))
+    elif key and not all(seen.values()):
         r["title_weak"] = True
+    return misses
 
 LENDING = {"inlibrary", "printdisabled", "lendinglibrary"}  # not "internetarchivebooks": IA's own scans, PD ones included
 
@@ -128,7 +183,11 @@ def ia_rights(ident):
     """The rights gate for an archive.org item, from its catalogue record. A
     published year of 1930 or later, or a lending-library collection (the
     controlled-lending scans of in-copyright books), is flagged CHECK; the
-    caller refuses a new fetch on it unless `_rights_checked` names the slug."""
+    caller refuses a new fetch on it unless `_rights_checked` names the slug.
+    The caller refuses anything that is not "ok" (fixed 2026-10-03: an
+    unreachable catalogue used to read "unchecked" and slip past a gate that
+    only refused "CHECK"). The latest year on the record decides: "1965
+    [c1890]" is a 1965 printing, not an 1890 one (it used min, 2026-10-03)."""
     rec = {"ia_rights": "unchecked"}
     try:
         m = json.loads(get(f"https://archive.org/metadata/{ident}/metadata", tries=3))["result"]
@@ -145,13 +204,13 @@ def ia_rights(ident):
                 "ia_possible_copyright_status": m.get("possible-copyright-status"),
                 "ia_lending": sorted(set(cols) & LENDING) or None})
     why = []
-    if years and min(years) >= 1930:
-        why.append(f"published {min(years)}")
+    if years and max(years) >= 1930:
+        why.append(f"published {max(years)}")
     if not years:
         why.append("no date on the record")
     if rec["ia_lending"]:
         why.append("lending-library scan")
-    rec["ia_rights"] = ("CHECK: " + "; ".join(why)) if why else f"ok: published {min(years)}"
+    rec["ia_rights"] = ("CHECK: " + "; ".join(why)) if why else f"ok: published {max(years)}"
     return rec
 
 CCEL_TERMS = ("CCEL asks that some of its prepared editions not be used commercially "
@@ -160,8 +219,17 @@ CCEL_TERMS = ("CCEL asks that some of its prepared editions not be used commerci
 def ccel_rights(data):
     t = data.decode("utf-8", "replace") if isinstance(data, bytes) else data
     m = re.findall(r"<DC\.Rights[^>]*>(.*?)</DC\.Rights>", t, re.S)
+    # the printed edition CCEL keyed from (2026-10-03): often a later reprint
+    # (Lightfoot's 1891 Apostolic Fathers from Baker's 1956), which DC.Rights
+    # never mentions. Recorded, not refused: the reprint may add nothing, but
+    # a person should look when the year is 1930 or later.
+    src = re.search(r"<printSourceInfo>.*?<published>(.*?)</published>", t[:30000], re.S)
+    src = re.sub(r"\s+", " ", src.group(1)).strip() if src else None
+    years = [int(y) for y in re.findall(r"(?<!\d)(1[5-9]\d\d|20\d\d)(?!\d)", src or "")]
     return {"ccel_dc_rights": " / ".join(x.strip() for x in m if x.strip()) or None,
             "ccel_copyright_comment": "Copyright Christian Classics Ethereal Library" in t[:5000],
+            "ccel_print_source": src or None,
+            "ccel_print_source_check": bool(years) and max(years) >= 1930,
             "ccel_terms": CCEL_TERMS}
 
 def pg_rights(data, r, claimed=None):
@@ -176,12 +244,17 @@ def pg_rights(data, r, claimed=None):
         r["translator_match"] = bool(_pat(claimed).search(r["pg_translator"].lower()))
     return r
 
+def surname_for(shelf, slug):
+    """The names an item must show: its own `_surname_by_slug` entry when the
+    shelf gives one, else the shelf-wide `_surname`."""
+    return shelf.get("_surname_by_slug", {}).get(slug) or shelf.get("_surname")
+
 def checks_for(slug, kind, data, url, shelf, key, names, ident):
     """Everything --record commits for one item (no body text, only findings)."""
     r = {"kind": kind, "checked": time.strftime("%Y-%m-%d")}
     try:
         check_identity(r, data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
-                       shelf.get("_surname"), ident, shelf.get("_translators", {}).get(slug))
+                       surname_for(shelf, slug), ident, shelf.get("_translators", {}).get(slug))
         r["identity"] = ("identity_override" if r.get("identity_override")
                          else "title_weak" if r.get("title_weak") else "ok")
     except RuntimeError as e:
@@ -215,16 +288,19 @@ def verify(name, shelf, out, skip, names, record=False):
             if flag not in ("ok", "title_weak", "identity_override"):
                 bad.append(slug)
             rights = c.get("ia_rights", "")
-            if (rights.startswith("CHECK") and not c.get("rights_override")) or c.get("pg_copyrighted") \
+            if (c["kind"] == "ia" and not rights.startswith("ok") and not c.get("rights_override")) \
+                    or c.get("pg_copyrighted") \
                     or c.get("translator_match") is False:
                 flagged.append(slug)
                 flag += f" | RIGHTS {rights or c.get('pg_translator')}"
+            if c.get("ccel_print_source_check"):
+                flag += f" | NOTE CCEL keyed from {c['ccel_print_source']!r}: look before republishing"
             print(slug, flag, flush=True)
             continue
         r = {}
         try:
             check_identity(r, data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
-                           shelf.get("_surname"), ident, shelf.get("_translators", {}).get(slug))
+                           surname_for(shelf, slug), ident, shelf.get("_translators", {}).get(slug))
             flag = ("identity_override" if r.get("identity_override")
                     else "title_weak" if r.get("title_weak") else "ok")
         except RuntimeError as e:
@@ -266,10 +342,17 @@ def jobs_for(shelf, name):
     return jobs
 
 def main():
-    if len(sys.argv) < 2:
-        sys.exit("usage: fetch_shelf.py <shelf>   (reads pipeline/<shelf>_shelf.json)")
+    if len(sys.argv) < 2 or sys.argv[1] in ("-h", "--help"):
+        print(__doc__)
+        sys.exit(0 if len(sys.argv) >= 2 else "usage: fetch_shelf.py <shelf>   (reads pipeline/<shelf>_shelf.json)")
     name = sys.argv[1]
-    shelf = json.load(open(os.path.join(HERE, f"{name}_shelf.json"), encoding="utf-8"))
+    path = os.path.join(HERE, f"{name}_shelf.json")
+    if not os.path.exists(path):
+        sys.exit(f"no shelf named {name!r}: {path} does not exist (usage: fetch_shelf.py <shelf> [--verify [--record]])")
+    shelf = json.load(open(path, encoding="utf-8"))
+    bad = check_surnames(shelf)
+    if bad:
+        sys.exit(f"{name}_shelf.json: " + "; ".join(bad))
     out = os.path.join(ROOT, "data", "corpus", name)
     os.makedirs(out, exist_ok=True)
     skip = set(w.lower() for w in shelf.get("_name_words", [])) | {"works", "volume", "vol"}
@@ -298,7 +381,7 @@ def main():
             claimed = shelf.get("_translators", {}).get(slug)
             check_identity(r, data, key, names, kind,
                            shelf.get("_identity_checked", {}).get(slug),
-                           shelf.get("_surname"), ident_of(shelf, slug, kind), claimed)
+                           surname_for(shelf, slug), ident_of(shelf, slug, kind), claimed)
             if kind == "gutenberg":
                 pg_rights(data, r, claimed)
                 if r["pg_copyrighted"]:
@@ -307,7 +390,7 @@ def main():
                     raise RuntimeError(f"MISMATCH: Gutenberg names translator {r['pg_translator']!r}, the shelf claims {claimed!r}")
             if kind == "ia":
                 r.update(ia_rights(ident_of(shelf, slug, kind)))
-                if r["ia_rights"].startswith("CHECK") and slug not in shelf.get("_rights_checked", {}):
+                if not r["ia_rights"].startswith("ok") and slug not in shelf.get("_rights_checked", {}):
                     raise RuntimeError(f"RIGHTS: {r['ia_rights']}; read the title page, then list the slug in _rights_checked")
             open(dest + ".tmp", "wb").write(data)
             os.replace(dest + ".tmp", dest)

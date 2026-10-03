@@ -334,3 +334,83 @@
 
 ## 2026-10-02 21:32 CDT — john-wesley done
 - `pipeline/john-wesley_shelf.json`: 4 CCEL titles (converted with `convert_shelf.py`: 27,280 units, 4,078 scripture links) and the 1826-30 Works, 10 volumes of raw IA OCR, median 98.5%, about 29 MB with the CCEL files. The CCEL Journal is Parker's abridgement transcribed from a 1951 Moody Press reprint; flagged in the digest. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:37 CDT — richard-hooker done
+- `pipeline/richard-hooker_shelf.json`: 1 CCEL title and Keble's 1836 Works, 3 volumes of raw IA OCR, median 95.9% (94.5-96.2%), about 5.5 MB; title pages read (Keble, MDCCCXXXVI). Vol. 1 is a Claremont scan, vols 2-3 Toronto. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:40 CDT — jeremy-taylor done
+- `pipeline/jeremy-taylor_shelf.json`: 2 CCEL titles (converted) and the Heber/Eden Whole Works, 10 volumes of raw IA OCR, median 97.3% (95.1-98.2%), about 23 MB; title pages read (Eden, MDCCCXLVII-MDCCCLIV). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:41 CDT — lancelot-andrewes done
+- `pipeline/lancelot-andrewes_shelf.json`: 1 CCEL title (converted; Newman's translation recorded under `_translators`) and 6 IA volumes of raw OCR, median 97.0% (95.9-97.7%), about 7.5 MB; title pages read (MDCCCXLI-MDCCCXLIII, MDCCCXLVI; vol. 3 undated). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:50 CDT — joseph-butler done
+- `pipeline/joseph-butler_shelf.json`: 2 CCEL titles (converted) and Gladstone's 1896 Works, 2 volumes of raw IA OCR (Illinois scans; the Toronto scans have no `_djvu.txt`), median 99.0%, about 1.9 MB; title pages read (1896). First shelf fetched under the fixed gates. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:51 CDT — thomas-fuller done
+- `pipeline/thomas-fuller_shelf.json`: 2 CCEL titles (converted) and 4 IA volumes of raw OCR, median 96.6% (94.2-97.9%), about 6 MB; title pages read (1837, 1840). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:57 CDT — john-donne done
+- `pipeline/john-donne_shelf.json`: 3 CCEL titles (converted) and Alford's 1839 Works, 6 volumes of raw IA OCR, median 96.4% (89.1-96.7%), about 10 MB; title pages read (vols I-VI). Vol. 1 is the weakest scan (89%; the other copy tried scored 74%). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:59 CDT — thomas-traherne done
+- `pipeline/thomas-traherne_shelf.json`: 1 CCEL title (converted) and Dobell's 1903 Poetical Works (raw IA OCR, 98.4%; title page read, "4903" in the OCR). The first scan tried (Toronto) held about half the text and was swapped. Christian Ethicks 1675 is pending at 79.8%. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 22:03 CDT — john-henry-newman done
+- `pipeline/john-henry-newman_shelf.json`: 1 CCEL title (converted), 5 Gutenberg texts (rights lines checked by the gate) and the Parochial and Plain Sermons, 8 volumes of raw IA OCR (Longmans 1891), median 99.3%, about 9 MB. The 1868 Toronto set was tried first: 81-91% OCR and three volumes never showed the name, so it was swapped. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Digest flags Newman's 1845 conversion as a veto point.
+
+## 2026-10-02 22:06 CDT — george-herbert done
+- `pipeline/george-herbert_shelf.json`: 1 CCEL title (converted) and Palmer's English Works, 3 volumes of raw IA OCR, median 95.9% (95.7-96.3%), about 1.5 MB; title pages read (MDCCCCV; vol. 1 MDCCCCXV). Vol. 3 reads low per page (757 bytes/image, mostly verse with notes); it is the fuller of the two copies compared, and the other was swapped out. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 22:11 CDT — thomas-ken done
+- `pipeline/thomas-ken_shelf.json`: 3 IA items of raw OCR: Prose Works 98.4% (the scan opens with a publisher's 1855 catalogue; the title page inside reads Round, London, 1838), Manual of Prayers 98.0%, Christian Year 84.1% (verse; a second scan scored 84.9%, so the score looks like the book, not the scan). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 22:16 CDT — joseph-hall done
+- `pipeline/joseph-hall_shelf.json`: Wynter's 1863 Works, vols 1-9 of raw IA OCR, median 98.0% (96.2-99.3%), about 17 MB; title pages read (MDCCC.LXIII). Vol. 10 is pending: the Google scan catalogued as vol. 10 reads VOL. VII on its own title page and was dropped. Vol. 3 is the Trinity College copy (the Robarts copy kept returning HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 00:47 CDT — isaac-barrow done
+- `pipeline/isaac-barrow_shelf.json`: Napier's 1859 Theological Works, 9 volumes of raw IA OCR, median 96.3%, about 11 MB; title pages read (Napier; VOLUME I-IX). Vol. 9 scores 83.2% because much of it is Latin (about 3,300 "et" against 9,700 "the"), not because the scan is bad. Vols 7-8 are Emory scans (Toronto's vol. 7 kept returning HTTP 500, and Toronto has no vol. 8). Recorded on the full name "isaac barrow" under the new common-word guard: 9/9 matched. 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 00:48 CDT — henry-martyn done
+- `pipeline/henry-martyn_shelf.json`: 3 IA items of raw OCR, median 97.4% (97.2-98.6%), about 2.8 MB; title pages read (MDCCCXXXVII; 1822). `--verify --record`: 0 mismatched, 0 rights flags; matched on "henry martyn". 0 uids minted.
+- Gates, 2026-10-03 (relayed review findings, lane A owns them): `fetch_shelf.py` identity gate now collects every miss and an override covers only the miss it names, never the translator; the IA rights gate fails closed and the latest year on the record decides (815a082). A surname that is a common English word ("hall", "ken") never matches bare, and a shelf with only such forms stops at load (e1ef08b). Lane A's 13 affected shelves were re-recorded on full names: every item matched. `tests/fetch_shelf_test.py`, 35 checks.
+
+## 2026-10-03 00:52 CDT — james-hervey done
+- `pipeline/james-hervey_shelf.json`: the 1834 one-volume Whole Works, raw IA OCR, 95.3%, 5.7 MB; title page read (1834). `--verify --record`: 0 mismatched, 0 rights flags; matched on "james hervey". 0 uids minted.
+- Round 9, nothing shelved: Matthew Poole (only the 1683-1700 folios on IA, long s in double columns, plus one volume of an 1861 printing) and John Trapp (the one scan, catalogued 1865, is by its own front matter the Sovereign Grace Book Club's 1958 reprint). Both are `pending` in the queue.
+
+## 2026-10-03 00:53 CDT — henry-venn done
+- `pipeline/henry-venn_shelf.json`: The Complete Duty of Man, 1838 printing, raw IA OCR, 98.8%, about 0.9 MB; title page read (1838; a "1923" in the OCR is a library stamp). `--verify --record`: 0 mismatched, 0 rights flags; matched on "henry venn". 0 uids minted.
+
+## 2026-10-03 00:55 CDT — john-fletcher done
+- `pipeline/john-fletcher_shelf.json`: the New York Works, 4 volumes of raw IA OCR, median 98.8% (97.8-99.2%), about 9 MB. The catalogue says 1833; the title pages carry no year, and the imprints differ (Carlton and Porter on vol. 1, Carlton and Lanahan on vol. 2), so the shelf says so rather than claiming 1833. `--verify --record`: 0 mismatched, 0 rights flags; matched on "john fletcher". 0 uids minted.
+
+## 2026-10-03 00:57 CDT — robert-hall done
+- `pipeline/robert-hall_shelf.json`: Bohn's Works, 6 volumes, and the Miscellaneous Works and Remains, raw IA OCR, median 98.4% (98.3-98.7%), about 7 MB; title pages read (Gregory, Bohn; no year printed, so the catalogue's 1846 is labelled as such). `--verify --record`: 0 mismatched, 0 rights flags; all 7 matched on "robert hall". 0 uids minted.
+
+## 2026-10-03 00:59 CDT — edward-payson done
+- `pipeline/edward-payson_shelf.json`: the 1851 Complete Works, 3 volumes of raw IA OCR, median 99.0%, about 4.7 MB; title pages read (1851). `--verify --record`: 0 mismatched, 0 rights flags; matched on "edward payson". 0 uids minted.
+
+## 2026-10-03 01:00 CDT — cotton-mather done
+- `pipeline/cotton-mather_shelf.json`: the Magnalia (Andrus, 2 vols) and Essays to Do Good (1808), raw IA OCR, median 93.3% (91.9-95.9%; the Magnalia is thick with Latin and Greek), about 5 MB; title pages read: the two Magnalia copies were printed in 1868 and 1858 from the 1852 copyright, and the shelf says so rather than the catalogue's 1853. `--verify --record`: 0 mismatched, 0 rights flags; matched on "cotton mather". 0 uids minted.
+
+## 2026-10-03 01:01 CDT — john-pearson done
+- `pipeline/john-pearson_shelf.json`: An Exposition of the Creed (Bell, Walford's analysis), raw IA OCR, 90.2%, 2.4 MB. The score reflects the Greek and Latin of Pearson's notes more than the scan. Title page read (Bell, Walford; no year printed, catalogue 1902). `--verify --record`: 0 mismatched, 0 rights flags; matched on "john pearson". 0 uids minted.
+
+## 2026-10-03 01:03 CDT — william-paley done
+- `pipeline/william-paley_shelf.json`: 2 CCEL titles (converted) and the one-volume Philadelphia Works, raw IA OCR, 98.1%, about 6 MB (contents as the catalogue title lists them, confirmed by headings in the text; no year on the title page, catalogue 1853). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:05 CDT — robert-south done
+- `pipeline/robert-south_shelf.json`: the Oxford 1823 Sermons, 7 volumes of raw IA OCR, median 98.5% (98.1-98.6%), about 8 MB; title pages read (MDCCCXXIII; the Trinity College copy catalogued without a volume number is vol. VII by its title page). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:07 CDT — thomas-scott done
+- `pipeline/thomas-scott_shelf.json`: the Essays with The Force of Truth (Edinburgh, 1825), raw IA OCR, 98.2%, 1.1 MB. `--verify --record`: 0 mismatched, 0 rights flags; matched on "thomas scott". 0 uids minted.
+
+## 2026-10-03 01:10 CDT — william-beveridge done
+- `pipeline/william-beveridge_shelf.json`: the LACT Theological Works, 12 volumes of raw IA OCR, about 15 MB; title pages read (MDCCCXLII-MDCCCXLVIII). Median 98.4%; vols 11-12 score 70% because they are Latin (5 and 8 "the" against 1,700-3,500 "et"), vol. 7 90% for the same reason in part. `--verify --record`: 0 mismatched, 0 rights flags; matched on "william beveridge". 0 uids minted.
+
+## 2026-10-03 01:10 CDT — w-g-t-shedd done
+- `pipeline/w-g-t-shedd_shelf.json`: 5 IA volumes of raw OCR, median 97.6% (96.2-98.0%), about 4.6 MB; title pages read (1888, 1894; 1863, and 1868 for the History's vol. 2). The first vol. 2 tried never showed Shedd's name and the gate refused it; another copy replaced it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:12 CDT — j-b-lightfoot done
+- `pipeline/j-b-lightfoot_shelf.json`: 1 CCEL title (converted; Lightfoot recorded as translator), 3 Gutenberg texts (rights lines checked) and 2 IA commentaries, raw OCR 92.3% each (Greek-heavy notes), about 5 MB; title pages read (1890, 1898). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

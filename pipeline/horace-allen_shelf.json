@@ -5,7 +5,8 @@
   "allen"
  ],
  "_surname": [
-  "allen"
+  "horace newton allen",
+  "horace n. allen"
  ],
  "ccel": {},
  "gutenberg": {
@@ -35,7 +36,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "allen",
+   "author_seen": "horace newton allen",
    "translator_claimed": "Allen",
    "translator_in_text": true,
    "identity": "ok",

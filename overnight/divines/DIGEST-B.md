@@ -54,6 +54,7 @@
 - **Babbitt's Moralia vols. 1-2 (1927-28):** shelved here as US PD by date. PR #7's notes exclude "Moralia (Babbitt)" for copyright, probably for the later volumes (1931-), which are not shelved here. Confirm the line.
 - **Bilingual Loebs:** Latin-facing Loebs of 1930 or earlier are now taken (Statius, Quintilian, Ausonius, Frontinus), because Latin OCR is legible. Greek-facing Loebs are still held back as pending, because their Greek OCR is junk (Paton, Edmonds, Mair, Sandys, Hicks, Cary's Dio). Keep that line?
 - **More US-only PD:** several 1913-1930 Loebs and MacKenna's Plotinus are PD in the US by publication date. In life+70 countries each translator's death date decides; not checked per translator.
+- **Later impressions and undated scans, taken on stated evidence (overrule any of them):** `aristotle-ross-v09` is a physical 1931 impression of the 1925 Oxford volume (a photographic reprint of the PD text; the impression itself is dated 1931). `horace-bennett-loeb-odes` is a later Loeb impression (post-1930 series editors on the half-title) of the 1914 text, with no revision notice. `pliny-younger-firth-letters-2` prints no date at all; it was taken as the companion of the First Series that Gutenberg clears. Three Cicero Loebs (`cicero-watts-pro-archia-etc` 1923, `cicero-grose-hodge-pro-lege-manilia-etc` 1927, `cicero-freese-pro-quinctio-etc` 1930) come from 1960s plain reprints ('Reprinted', not 'Revised'), whose only later matter is the publisher's list of titles. `quintilian-butler-v1-1921` (DLI) prints only 'First printed 1921' but names later series editors; it has no addendum and no post-1930 year, and replaces the held vol. 1. `velleius-shipley-res-gestae` is a 1961 plain reprint of Shipley's 1924 Loeb. Each reason is in the shelf's `_rights_checked`. Keep or drop?
 - **Unassigned:** Josephus (Whiston, PG 2846-2850) and Prudentius (Pope, PG 14959) are on no lane's shelf. Lane B left them alone, since they may belong to lane A.
 
 ## Defects
@@ -82,3 +83,25 @@
   - two scans are REVISED texts, not the pre-1931 ones: Rolfe's Suetonius vol. 1 (revised 1951) and Williams's Cicero Letters to Friends vol. 3 (revised with additions 1954);
   - four carry a later bibliography: Nixon's Plautus vol. 3 (note of 1979), Butler's Quintilian vol. 1 (addendum of 1980), Miller's Metamorphoses vol. 1 (1960s-70s items), and Wright's Julian vol. 1, whose Gutenberg transcription (PG 48664) includes the 1980 addendum.
   The four addenda are bare reading lists (a few dozen citations). Lists of facts like that may not be protectable at all; that is your call. One word releases them, or a converter cut rule does.
+
+## Added since the review fixes (2026-10-02, 21:08-21:54 CDT)
+- **Clean Perseus texts that were waiting:** Plato in the Loeb versions of Fowler, Lamb and Bury (35 dialogues and the Letters, 1914-29), Xenophon's Memorabilia, Oeconomicus, Symposium, Apology and minor works (Marchant, Todd), Brookes More's complete blank-verse Metamorphoses (1922), and Jones's Epidemics. The map's old line saying More's complete text was "not cleared" is replaced: Perseus encodes the 1922 Cornhill printing, all 15 books.
+- **Seven new small shelves:** Jordanes, Sidonius, Isaeus, Herodas, Rutilius Namatianus, Solinus, and the two Greek voyages (Periplus, Hanno). Plus Herschel's Frontinus, Royston's Lycophron, Chariton (1764), Xenophon of Ephesus (1727) and Codrington's Justin.
+- **Unnamed translators, flagged not guessed:** Chariton 1764 ("made by two young persons"), Xenophon of Ephesus 1727 (name illegible; often given as John Rooke, not verified), the Ovid collections of 1813 and 1855.
+- **Each book now checked against its own author** on shelves holding several (a Lycophron used to pass on "Callimachus").
+- **Victorian scholars' versions (21:55-22:05):** Lonsdale and Lee's Globe Virgil and Horace, Davidson-Buckley Virgil, Slater's Silvae, Cranstoun's Catullus and Propertius, Jebb's prose Sophocles, and Way's verse Sophocles (Part I) and Aeschylus (all three parts). Way's Sophocles Part II (1914) is not on IA.
+- **Homer's Victorian translators (22:08):** Morris, Palmer, Worsley, Conington, Newman, and Way's Iliad and Odyssey: ten volumes, so the Homer shelf now spans Chapman to Murray.
+- **Satirists and comedy (22:13):** three more Juvenals (Madan, Badham, Hodgson), Hickie's and Mitchell's Aristophanes, Mair's Hesiod, Hallard's Theocritus, and Taylor's Pythagorean fragments.
+- **Horace, Catullus, Claudian (00:41):** three more Horaces (Martin, Bulwer-Lytton, Gladstone), Lamb's Catullus, and two Claudian translators (Strutt, Howard).
+- **Two wishlist volumes found (00:45):** Bennett's Loeb Horace and Firth's second Pliny volume, both on Indian digital-library scans. Each was taken on stated evidence rather than a clean date, and the reasons are in the shelf for you to overrule: the Bennett is a later printing of the 1914 text, and the Firth scan prints no year.
+- **Rouse's Lucretius (00:49):** the 1924 Loeb, from a true first printing. Also the reviewer's round-7 fixes and a `fetch_shelf.py --help` fix.
+- **Tacitus and Cicero Loebs (00:53):** Moore's Histories from a 1925 first printing, and three volumes of Cicero's speeches (Watts, Grose Hodge, Freese) from later plain reprints. The Cicero ones are added to your decisions list.
+- **Two new shelves (00:56):** the Historia Augusta (Magie, vols. I-II) and Fronto's letters with Marcus Aurelius (Haines, vols. I-II), all from first printings.
+- **Quintilian vol. 1 recovered (00:58):** a scan without the 1980 addendum replaces the held volume, so Butler's Quintilian is complete again. The other five held volumes are still held.
+- **Ovid and Velleius (01:00):** Mozley's Art of Love volume (1929, first printing) and Shipley's Velleius Paterculus with the Res Gestae (1924 text, later plain reprint).
+- **Demosthenes and Marcus Aurelius (01:03):** Leland's Demosthenes, and four more Marcus Aurelius translators (Casaubon, Collier twice, Rendall).
+- **Aristotle's older translators (01:08):** eleven volumes from before the Oxford translation (Taylor, Bohn's Browne, Owen and Buckley, Peters, Welldon), plus Ellis's Politics and the Everyman Ethics.
+- **Plato and Lucian (01:12):** Whewell's three-volume Plato for English readers, the Davies-Vaughan and Spens Republics, and Tooke's two-volume Lucian.
+- **Xenophon's Minor Works (01:13):** the 1813 'several hands' volume (Welwood's Banquet, Bradley's Economics, and an unsigned Memoirs of Socrates).
+- **Greek tragedy (01:15):** Whitelaw's and Dale's Sophocles; Campbell's, the Headlams' and Warr's Aeschylus.
+- **Pindar and the Bohn Hesiod (01:16):** Paley's Pindar, and Banks's Hesiod-Callimachus-Theognis volume, which brings Tytler's Callimachus in by the back door.

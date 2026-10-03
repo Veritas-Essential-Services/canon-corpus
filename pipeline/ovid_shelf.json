@@ -77,6 +77,11 @@
    "ovidsmetamorphos00ovid_0",
    "Ovid's Metamorphosis Englished, mythologized and represented in figures (Oxford, 1632)",
    "tr. George Sandys (verse, 1632)"
+  ],
+  "ovid-mozley-art-of-love-1929": [
+   "ovidartofloveoth0000unse",
+   "The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing)",
+   "tr. J. H. Mozley"
   ]
  },
  "_cross_ref": {
@@ -119,7 +124,8 @@
   "ovid-showerman-heroides-amores": "Grant Showerman",
   "ovid-wheeler-tristia-ponto": "Arthur Leslie Wheeler",
   "ovid-sandys-1632": "George Sandys",
-  "ovid-perseus-more-metamorphoses": "brookes more"
+  "ovid-perseus-more-metamorphoses": "brookes more",
+  "ovid-mozley-art-of-love-1929": "J. H. Mozley"
  },
  "_checks": {
   "ovid-riley-metamorphoses-1": {
@@ -282,6 +288,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1632",
    "ia_date": "1632",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ovid-mozley-art-of-love-1929": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ovid",
+   "translator_claimed": "J. H. Mozley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

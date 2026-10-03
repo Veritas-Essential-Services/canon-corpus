@@ -5,6 +5,8 @@
   "gill"
  ],
  "_surname": [
+  "john gill",
+  "dr. gill",
   "gill"
  ],
  "_held": {},
@@ -55,9 +57,9 @@
  "_checks": {
   "gill-doctrinal-divinity": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gill",
+   "author_seen": "john gill",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
@@ -65,9 +67,9 @@
   },
   "gill-practical-divinity": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gill",
+   "author_seen": "john gill",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
@@ -75,9 +77,9 @@
   },
   "gill-solomons-song": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gill",
+   "author_seen": "john gill",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
@@ -85,9 +87,9 @@
   },
   "gill-cause-god-truth-1838": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gill",
+   "author_seen": "john gill",
    "identity": "ok",
    "ia_rights": "ok: published 1838",
    "ia_date": "1838",
@@ -96,9 +98,9 @@
   },
   "gill-sermons-tracts-1773-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gill",
+   "author_seen": "john gill",
    "identity": "ok",
    "ia_rights": "ok: published 1773",
    "ia_date": "1773",
@@ -107,9 +109,9 @@
   },
   "gill-sermons-tracts-1773-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gill",
+   "author_seen": "john gill",
    "identity": "ok",
    "ia_rights": "ok: published 1773",
    "ia_date": "1773",

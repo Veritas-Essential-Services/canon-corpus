@@ -1,0 +1,39 @@
+{
+ "_about": "Public-domain John Pearson (1613-1686, Bishop of Chester) for the Word Hoard: An Exposition of the Creed, with Edward Walford's analysis (London: George Bell; catalogued 1902, title page undated), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "p/pearson",
+ "_name_words": [
+  "pearson",
+  "john"
+ ],
+ "_surname": [
+  "john pearson",
+  "bishop pearson",
+  "pearson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pearson-creed-1902": [
+   "expositionofcree00pearuoft",
+   "An Exposition of the Creed, with an analysis by Edward Walford (London: George Bell; catalogued 1902, title page undated)"
+  ]
+ },
+ "_alternates": {
+  "pearson-creed": "Burton's Oxford edition (1857, anexpositioncre02burtgoog); New York: Appleton, 1843 and 1859; London 1832"
+ },
+ "_excluded": {},
+ "_checks": {
+  "pearson-creed-1902": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john pearson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

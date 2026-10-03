@@ -54,7 +54,7 @@
  "_checks": {
   "motteux-quixote": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "motteux",
    "identity": "ok",

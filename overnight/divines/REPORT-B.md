@@ -215,3 +215,94 @@
 
 ## 2026-10-02 21:25 CDT — later-matter sweep
 - Swept every lane B text's front matter for post-1930 revisions or addenda. Six held back on rights (`_held`, not fetched, local copies removed): suetonius-rolfe-v1 (revised 1951), cicero-williams-friends-v3 (revised 1954), plautus-nixon-v3 (1979 note), quintilian-butler-v1 (1980 addendum), ovid-miller-metamorphoses-v1 (1960s-70s bibliography), julian-wright-v1 (PG transcription includes the 1980 addendum). Other later dates found were reprint lines or library stamps.
+
+## 2026-10-02 21:54 CDT — acquisitions since 21:25, and review rounds 5-6
+- Perseus TEI (clean, not on PR #7): Xenophon, Marchant and Todd, 11 works (1923-25); Plato, Fowler, Lamb and Bury, 35 texts (1914-29); Brookes More's complete Metamorphoses (Cornhill, 1922); Ovid's Art of Love volume (1855) and Epistles (1813), translators unnamed; Jones's Epidemics I and III (1923). Shorey's Republic excluded (file dated 1935-37).
+- New shelves (raw IA unless noted): jordanes (Mierow, 1908 PG and 1915), sidonius (Dalton, 1915, 2 vols), isaeus (Sir William Jones, 1779), herodas (Sharpley, 1906), rutilius (Savage-Armstrong's verse, ed. Keene, 1907), solinus (Golding, 1587), periploi (Schoff's Periplus, 1912; Falconer's Hanno, 1797).
+- Added to shelves: frontinus (Herschel, 1899), late-greek-poets (Royston's Lycophron, 1806), greek-romances (Chariton 1764, 2 vols; Xenophon of Ephesus 1727), roman-epitomators (Codrington's Justin, 1688).
+- Refused on OCR quality: Longus 1733 (0.69), Mawer's Oppian 1736 (0.76), Aelian 1665 (0.57), Francis's Horace 1743/1746 (0.61-0.64), Roberts's Demetrius 1902 (Greek facing, 0.59-0.72).
+- fetch_perseus.py: record() labels each failure by cause and records only this run's rows; 1930 now needs a stated reason (52 Vince/Lamb rows given one); "</sourceDesc" across a line break is read.
+- fetch_shelf.py (lane A's 815a082 pulled): new optional `_surname_by_slug`, so each book on a multi-author shelf is checked for its own author (13 shelves). Curtius Brende and Digby vol. 2 moved to `_translator_unchecked` (no override covers a translator now). Aristotle Oxford vols. I, IV-XI dated from their title pages in `_rights_checked` (vol. IX is a 1931 impression of 1925).
+- Hourly retry at 21:31: nothing recovered.
+
+## 2026-10-02 22:05 CDT — Victorian scholars' versions
+- Added (raw IA, title pages read, OCR 0.86-0.94): Davidson's prose Virgil revised by Buckley (Harper, 1874); Lonsdale and Lee's Globe Virgil (1871) and Horace (1874); Slater's Silvae (1908); Cranstoun's Catullus (1867) and Propertius (1875); Jebb's prose Sophocles (1904); Way's Sophocles Part I (1909) and Aeschylus Parts I-III (1906-08).
+- Way's Aeschylus I and III failed the surname test because the OCR reads the ligature as "JESCHYLUS"; title pages checked and recorded in `_identity_checked`. Way's Sophocles Part II (1914) not found on IA: wishlist.
+- Francis's Horace (1743/1746, OCR 0.61-0.64) recorded in the Horace shelf's `_excluded`.
+- `fetch_shelf.py --verify --record` on all seven shelves: 0 mismatched, 0 rights flags.
+
+## 2026-10-02 22:08 CDT — Homer's Victorian translators
+- Added (raw IA, title pages read, OCR 0.88-0.93): Morris's verse Odyssey (1887); Palmer's prose Odyssey (preface 1891); Worsley's Spenserian Odyssey (1861-62, 2 vols); Way's Odyssey (3rd ed., 1904); Newman's Iliad (1856); the Worsley-Conington Spenserian Iliad (1865, 1868); Way's Iliad (1886, 1888).
+- Way's Iliad vol. I is in `_translator_unchecked`: the title-page OCR garbles his name.
+- `fetch_shelf.py --verify --record` on homer: 25 items, 0 mismatched, 0 rights flags.
+
+## 2026-10-02 22:13 CDT — Juvenal, Aristophanes, Hesiod, Theocritus, Pythagoreans
+- Added (raw IA, title pages read, OCR 0.85-0.93): Mair's prose Hesiod (1908); Hickie's Bohn Aristophanes vol. I (1887 printing); Mitchell's Aristophanes vol. II (Clouds, Wasps; 1822); Madan's literal Juvenal and Persius (1814); Badham's verse Juvenal (1814); Hodgson's Juvenal (1807); Hallard's Theocritus (1901, revised from 1894); Taylor's Political Fragments of the Pythagoreans (1822).
+- Refused on OCR: Aristaenetus (Halhed and Sheridan, 1771; 0.54), Madan's 1789 ECCO edition (0.63; held from 1814). Wanted: Hickie vol. II (IA has no text file), Mitchell vol. I.
+- `fetch_shelf.py --verify --record` on the five shelves: 0 mismatched, 0 rights flags.
+
+## 2026-10-03 00:41 CDT — Horace, Catullus, Claudian
+- Added (raw IA, title pages read, OCR 0.84-0.89): Theodore Martin's Odes (Boston, 1866); Edward Bulwer-Lytton's Odes and Epodes (1869, Latin facing); Gladstone's Odes (preface 1894); George Lamb's Catullus vol. I (1821); Strutt's Claudian (1814); Howard's Translations from Claudian (1823).
+- Not taken: Dart's Tibullus (1720; OCR 0.69), Pott and Wright's Martial (no printed date in the scan), Wickham's prose Horace (title page missing from the OCR).
+- `fetch_shelf.py --verify --record` on the five shelves: 0 mismatched, 0 rights flags.
+
+## 2026-10-03 00:45 CDT — Hourly retry: two wishlist volumes found
+- Bennett's Loeb Odes and Epodes (DLI scan, OCR 0.86): a later impression of the 1914 text (later series editors on the half-title, no revision notice, bibliography ends 1912); taken with the reason in `_rights_checked`. Translator claim unchecked: the OCR reads 'C. E, BENNETT'.
+- Firth's Pliny, Second Series, Books VI-X (DLI scan, OCR 0.93): Walter Scott imprint, no printed date; companion of the First Series Gutenberg clears (PG 3234). Taken with the reason in `_rights_checked`; a printed date is still wanted.
+- Still missing: Greek Tragic Theatre vol. II, Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2.
+- The session stalled from about 22:25 to 00:40 CDT (tool calls refused while the safety check was rate-limited); nothing was lost.
+
+## 2026-10-03 00:49 CDT — Review round 7, and Rouse's Lucretius
+- Rouse's Loeb Lucretius from a 1924 first printing (IA, OCR 0.93; MCMXXIV title page, no reprint line, nothing later than 1921 in the front matter). Latin facing.
+- Reviewer notes: aristotle-ross-v09, Bennett's Horace and Firth's Pliny listed in DIGEST-B as decisions for Adam; rows for Way's Aeschylus II-III and Martin's Horace say their year is the title page's (IA records 1906 and 1864); rows for Way's and Worsley's Iliad vol. I and Martin's Horace say how identity was confirmed.
+- fetch_shelf.py: `--help`/`-h` print the usage; a missing shelf name gets a plain error. 35 fetch_shelf tests pass.
+- Not done, and why: merging main into claude/armarium-divines is a no-op (main's head 97b7b5e is already an ancestor); `tests/structure_test.py` reports 64 passed on this branch, and main's copy of the file is identical.
+- Checked and not taken: Foster's Livy vol. 2 and King's Tusculans on new uploads, both later revised printings (1939, 1945).
+
+## 2026-10-03 00:53 CDT — Loeb uploads: Tacitus and Cicero
+- Moore's Loeb Histories vol. I (Tacitus; MCMXXV first printing, OCR 0.94).
+- Cicero's speeches in three Loebs: Watts (Pro Archia and five others; 1923), Grose Hodge (Pro Lege Manilia and three others; 1927), Freese (Pro Quinctio, Pro Roscio x2, De Lege Agraria; 1930). The scans are 1960s printings marked 'Reprinted', not revised, with no addenda; reasons in `_rights_checked`, and listed in DIGEST-B as decisions for Adam. OCR 0.92.
+- Found through an uploader's 'X in N volumes [Loeb NNN]' series on IA, whose text files carry non-standard names (recorded as each row's third element).
+
+## 2026-10-03 00:56 CDT — New shelves: Historia Augusta, Fronto
+- historia-augusta (new shelf): Magie's Loeb Scriptores Historiae Augustae vols. I (MCMXXI) and II (MCMXXIV), first printings, OCR 0.89-0.90; author check per the biographers' names (Spartianus, Capitolinus, Lampridius, Vopiscus). Vol. III (1932) is past the line.
+- fronto (new shelf): Haines's Loeb Correspondence of Fronto vols. I (MCMXIX) and II (MCMXX), first printings, OCR 0.82-0.83.
+- Seen and not taken: IA's 1991/1993 reprints of the Magie volumes and a 1988 reprint of Fronto vol. II (which follows Haines's 1929 revision); first printings preferred.
+
+## 2026-10-03 00:58 CDT — Held volumes: one replaced
+- quintilian-butler-v1-1921: Butler's Quintilian vol. 1 from a DLI scan (OCR 0.91) whose imprint reads only 'First printed 1921', with no addendum and no year after 1930. It replaces the held quintilian-butler-v1, which carried the 1980 Bibliographical Addendum. Listed in DIGEST-B as a decision (later impression).
+- Re-searched the other held volumes for clean printings: Rolfe's Suetonius vol. 1 (only the 1951 revision, in a 1970 printing), Miller's Metamorphoses vol. 1 (1971 printing), Williams's Letters to Friends vol. 3 (a 1972 printing with a 1971 note), Wright's Julian (Greek facing). None taken.
+
+## 2026-10-03 01:00 CDT — Ovid and Velleius Loebs
+- Mozley's Loeb Art of Love and Other Poems (Ars Amatoria, Remedia, Medicamina, Nux, Ibis, Halieuticon, Consolatio ad Liviam): MCMXXIX first printing, OCR 0.87.
+- Shipley's Loeb Velleius Paterculus and Res Gestae Divi Augusti (1924): a 1961 plain reprint ('Reprinted 1955, 1961'), no later matter; on roman-epitomators with its own author check. Listed in DIGEST-B as a decision.
+
+## 2026-10-03 01:03 CDT — Demosthenes and Marcus Aurelius
+- Leland's Orations of Demosthenes, new edition (1806, 2 vols; OCR 0.91-0.92).
+- Marcus Aurelius: Casaubon's Meditations (Everyman 1906, from the 1948 reprint, reason in `_rights_checked`; OCR 0.95), Rendall's To Himself (2nd ed., 1898; 0.89), Collier's Conversation with Himself (1701; 0.82; translator unchecked, OCR reads 'Cortrier'), Collier revised by Zimmern (Camelot, 1887; 0.93). The shelf's old 'Rendall and Collier pending' note is closed.
+- Refused on OCR: Gillies's Lysias and Isocrates (1778; 0.71).
+
+## 2026-10-03 01:08 CDT — Aristotle: the older translators
+- Raw IA, title pages read, OCR 0.84-0.93: Taylor's Metaphysics (1801); Browne's Bohn Ethics (1850); Owen's Bohn Organon (1853, 2 vols); the Bohn literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Rhetoric (1886), Ethics (1892) and Politics (1901 printing of 1883).
+- Gutenberg: Ellis's Politics (PG 6762); the Everyman Ethics (PG 8438), which names no translator, so none is claimed (usually given as D. P. Chase, not verified).
+- Translator claims unchecked because the OCR garbles the name: Browne ('E. W. BROWNE'), Peters ('PETEES'), Welldon's Politics ('J. EK. C.').
+- Skipped: Jowett's 1885 Politics (the same translation is in Oxford vol. X); Edghill's Categories on Gutenberg (the same translation is in Oxford vol. I).
+
+## 2026-10-03 01:12 CDT — Plato and Lucian
+- Plato: Whewell's Platonic Dialogues for English Readers (vol. I, 2nd ed. 1860, DLI scan; vols. II 1860 and III 1861), noted as abridged in parts, as his preface says; Davies and Vaughan's Republic (Golden Treasury, 1892 printing of 1852); Spens's Republic (1763 translation, Everyman 1906 edition in its 1919 reprint). OCR 0.91-0.98.
+- Lucian: Tooke's Lucian of Samosata (1820, 2 vols; OCR 0.94).
+- Not found: Church's Trial and Death of Socrates (the 1880 scan has no text file).
+
+## 2026-10-03 01:13 CDT — Xenophon, Minor Works (1813)
+- The Minor Works of Xenophon 'by several hands' (1813; OCR 0.92): Welwood's Banquet and Bradley's Economics are named on their section titles; the Memoirs of Socrates and Hiero carry no name (the Memoirs is usually given to Sarah Fielding; not verified, not claimed).
+
+## 2026-10-03 01:15 CDT — Greek tragedy: more translators
+- Sophocles: Whitelaw's verse (1883; OCR 0.90); Dale's verse (1824, 2 vols; 0.89).
+- Aeschylus: Campbell's prose Oresteia (1893; 0.92); Walter and C. E. S. Headlam's prose Plays (Bell, 1909; 0.82); Warr's Oresteia (George Allen, 1900; 0.88).
+- Not taken: Cookson's Everyman Aeschylus (the scan's introduction cites a 1936 book).
+- Correction: the Palmer Odyssey row named a Boston publisher not read from the file; it now gives only the preface date the title page shows.
+
+## 2026-10-03 01:16 CDT — Pindar and the Bohn Hesiod
+- Paley's prose Odes of Pindar (1868; OCR 0.88; translator unchecked, OCR reads 'PA LET').
+- Banks's Bohn Works of Hesiod, Callimachus and Theognis (1856; OCR 0.84), with the verse of Elton (Hesiod), Tytler (Callimachus) and Frere (Theognis) appended, which answers the Tytler wishlist line.
+- Refused on OCR: Tytler's 1793 Callimachus (0.767, just under the bar), Polwhele's Theocritus (0.68).

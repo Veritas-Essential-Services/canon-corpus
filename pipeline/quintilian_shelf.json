@@ -22,6 +22,12 @@
    "institutioorator04quinuoft",
    "The Institutio Oratoria of Quintilian, vol. 4: Books X-XII",
    "tr. H. E. Butler"
+  ],
+  "quintilian-butler-v1-1921": [
+   "in.ernet.dli.2015.99822",
+   "The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing)",
+   "2015.99822.The-Institutio-Oratoria-Of-Quintilianvol1_djvu.txt",
+   "tr. H. E. Butler"
   ]
  },
  "_excluded": {
@@ -35,7 +41,8 @@
  "_translators": {
   "quintilian-butler-v2": "H. E. Butler",
   "quintilian-butler-v3": "H. E. Butler",
-  "quintilian-butler-v4": "H. E. Butler"
+  "quintilian-butler-v4": "H. E. Butler",
+  "quintilian-butler-v1-1921": "H. E. Butler"
  },
  "_checks": {
   "quintilian-butler-v2": {
@@ -76,9 +83,26 @@
    "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "quintilian-butler-v1-1921": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "H. E. Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
   }
  },
  "_held": {
-  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III"
+  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III Vol. 1 is now held from a DLI scan without the addendum as quintilian-butler-v1-1921."
+ },
+ "_rights_checked": {
+  "quintilian-butler-v1-1921": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
  }
 }

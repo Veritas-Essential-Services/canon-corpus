@@ -22,11 +22,6 @@
    "grace",
    "Grace Abounding to the Chief of Sinners",
    ""
-  ],
-  "bunyan-miscellaneous": [
-   "miscellaneous",
-   "Miscellaneous Pieces",
-   ""
   ]
  },
  "gutenberg": {
@@ -84,37 +79,31 @@
  "_checks": {
   "bunyan-badman": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": "London: Cambridge University Press, 1905",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "bunyan-grace-abounding": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
-   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
-  },
-  "bunyan-miscellaneous": {
-   "kind": "ccel",
-   "checked": "2026-10-02",
-   "name_check": "surname",
-   "author_seen": "bunyan",
-   "identity": "ok",
-   "ccel_dc_rights": "Public Domain",
-   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "bunyan-offor-01": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -123,7 +112,7 @@
   },
   "bunyan-offor-02": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -132,7 +121,7 @@
   },
   "bunyan-offor-03": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -141,7 +130,7 @@
   },
   "bunyan-jerusalem-sinner": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -150,7 +139,7 @@
   },
   "bunyan-pharisee-publican": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -159,7 +148,7 @@
   },
   "bunyan-exhortation-peace": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -168,7 +157,7 @@
   },
   "bunyan-miscellaneous-pieces-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
@@ -177,12 +166,15 @@
   },
   "bunyan-heavenly-footman": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bunyan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_pending": {
+  "bunyan-miscellaneous": "CCEL 'miscellaneous' (Miscellaneous Pieces): CCEL keyed it from the Clarendon Press edition of 1976, a modern critical edition whose editorial text may be in copyright; and it probably duplicates Gutenberg 3613. Moved off the shelf 2026-10-03 until Adam decides; Gutenberg 3613 stays."
  }
 }

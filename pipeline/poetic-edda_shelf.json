@@ -5,9 +5,9 @@
   "edda"
  ],
  "_surname": [
-  "bellows",
+  "henry adams bellows",
   "thorpe",
-  "morris",
+  "william morris",
   "magnússon"
  ],
  "_translators": {
@@ -71,7 +71,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bellows",
+   "author_seen": "henry adams bellows",
    "translator_claimed": "Bellows",
    "translator_in_text": true,
    "identity": "ok",
@@ -83,24 +83,24 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bellows",
+   "author_seen": "thorpe",
    "translator_claimed": "Blackwell",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Joseph Andrew Blackwell",
+   "pg_translator": "Joseph Andrew Blackwell; Benjamin Thorpe",
    "translator_match": true
   },
   "edda-volsunga-morris": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "morris",
+   "author_seen": "william morris",
    "translator_claimed": "Magnússon",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Eiríkr Magnússon",
+   "pg_translator": "Eiríkr Magnússon; William Morris",
    "translator_match": true
   }
  }

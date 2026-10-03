@@ -1,0 +1,89 @@
+{
+ "_about": "Abby Morton Diaz's (1821-1904) children's stories: The Cats' Arabian Nights (Lothrop, 1881), King Brondé (Ticknor and Fields, 1868), The Jimmyjohns (Osgood, 1877) and The William Henry Letters (1870 in the text). Her essays on household reform are left out. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Abby Morton Diaz",
+ "_name_words": [
+  "diaz"
+ ],
+ "_surname": [
+  "diaz"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abby-diaz-cats-arabian-nights": [
+   69482,
+   "The Cats' Arabian Nights, or, King Grimalkum",
+   {
+    "levels": [
+     {
+      "re": "(?i)(?:How It Happened|King Grimalkum and Pussyanita|The Story of Pinky-White|The Story of Black Velvet|What Snowball Told|Madame Pussy Hunter’s Story|The Spry White Kitten’s Story|Mrs\\. Beulah Black’s Story|Tweedledum and Tweedledee|Story of Mistress Tabby Furpurr|The Story of the Feeble Cat and Her Nine Lives|The Story of the Two Charcoals and the Four Spekkums|The Story of the Janjibo,? and of the Frog and the Rat|What the Mother Rat Told|A Spinning Story|The Blind Mice Story|The Air-Ball Story)[.;]?$",
+      "caption": true
+     }
+    ],
+    "repeat_continues": true
+   }
+  ],
+  "abby-diaz-king-bronde": [
+   68833,
+   "The Entertaining Story of King Brondé, His Lily and His Rosebud",
+   {
+    "contents_only": true
+   }
+  ],
+  "abby-diaz-jimmyjohns": [
+   70939,
+   "The Jimmyjohns, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "abby-diaz-william-henry-letters": [
+   34335,
+   "The William Henry Letters",
+   {
+    "chapre_only": "(?!)"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "abby-diaz-essays": "PG 6704 (A Domestic Problem) and 68812 (The Schoolmaster's Trunk) are essays, not stories; left out"
+ },
+ "_checks": {
+  "abby-diaz-cats-arabian-nights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diaz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abby-diaz-king-bronde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diaz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abby-diaz-jimmyjohns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diaz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abby-diaz-william-henry-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diaz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -23,6 +23,11 @@
    "thebaidstatius00conggoog",
    "The Thebaid of Statius, translated into English verse, with notes and observations (Oxford, 1767), both volumes in one scan",
    "tr. William Lillington Lewis (not named on the title page; attributed in catalogues)"
+  ],
+  "statius-slater-silvae-1908": [
+   "silvaetranslated00statuoft",
+   "The Silvae of Statius, translated with introduction and notes (Oxford, 1908)",
+   "tr. D. A. Slater"
   ]
  },
  "_excluded": {
@@ -33,7 +38,8 @@
  ],
  "_translators": {
   "statius-mozley-v1": "J. H. Mozley",
-  "statius-mozley-v2": "J. H. Mozley"
+  "statius-mozley-v2": "J. H. Mozley",
+  "statius-slater-silvae-1908": "D. A. Slater"
  },
  "_checks": {
   "statius-mozley-v1": {
@@ -70,6 +76,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1767",
    "ia_date": "1767",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "statius-slater-silvae-1908": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "statius",
+   "translator_claimed": "D. A. Slater",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -65,6 +65,7 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
             continue
         if START and START.match(p):   # body begins: forget headings read from the Contents
             heads, START = [None] * len(LV), None
+            pending_title = None       # ...and a title the Contents' last heading was waiting for
             if front:
                 pnum = 0
         elif START and front:          # front matter: no headings until the body begins

@@ -1,0 +1,49 @@
+{
+ "_about": "Ellen C. Babbitt's Jataka Tales (1912) and More Jataka Tales (1922): Buddhist birth stories retold for young children from the Cambridge translation (1895-1907). Public domain in the US. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Ellen C. Babbitt",
+ "_name_words": [
+  "babbitt"
+ ],
+ "_surname": [
+  "babbitt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "babbitt-jataka-tales": [
+   62514,
+   "Jataka Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "babbitt-more-jataka-tales": [
+   7518,
+   "More Jataka Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "babbitt-jataka-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "babbitt-more-jataka-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

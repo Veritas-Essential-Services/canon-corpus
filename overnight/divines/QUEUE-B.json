@@ -228,7 +228,7 @@
    "status": "running",
    "scope": "archive.org answered 503 on 2026-10-02 for: plautuswithengli02plauuoft (Nixon Plautus vol 2, 1917), greektragictheat02pott / greektragicthea04wodhgoog (Greek Tragic Theatre 1809 vol 2, Francklin's Sophocles). Retry; if readable, identify by title page and add to roman-comedy / sophocles",
    "started": "2026-10-02T17:18:43-05:00",
-   "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly. 2026-10-02T19:42:16-05:00: retried. Greek Tragic Theatre vol. 2 still 503 (empty metadata). The DLI 'Pausanias Vol. I' scan (in.ernet.dli.2015.282571) has a text file under another name; it is Frazer's vol. VI (indices), mislabelled, so Frazer's translation volume is still not found. King's Tusculans: still only the 1945 revised printing. Hawkins's Claudian vol. 2 and Bennett's Loeb Horace: no new scans. 2026-10-02T20:58:45-05:00: retried; nothing recovered. 2026-10-02T21:30:12-05:00: retried. Greek Tragic Theatre: the unseen ids greektragicthea00wodhgoog and 03wodhgoog are vols. III and IV (Euripides, held), india.history.resource.90260 is vol. I; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Bennett's Horace, Firth's Pliny: no new scans."
+   "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly. 2026-10-02T19:42:16-05:00: retried. Greek Tragic Theatre vol. 2 still 503 (empty metadata). The DLI 'Pausanias Vol. I' scan (in.ernet.dli.2015.282571) has a text file under another name; it is Frazer's vol. VI (indices), mislabelled, so Frazer's translation volume is still not found. King's Tusculans: still only the 1945 revised printing. Hawkins's Claudian vol. 2 and Bennett's Loeb Horace: no new scans. 2026-10-02T20:58:45-05:00: retried; nothing recovered. 2026-10-02T21:30:12-05:00: retried. Greek Tragic Theatre: the unseen ids greektragicthea00wodhgoog and 03wodhgoog are vols. III and IV (Euripides, held), india.history.resource.90260 is vol. I; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Bennett's Horace, Firth's Pliny: no new scans. 2026-10-03T00:45:28-05:00: retried (late; the session stalled from about 22:25 to 00:40). Found under DLI ids with non-standard file names: Bennett's Loeb Horace Odes and Epodes (in.ernet.dli.2015.98705) and Firth's Pliny Second Series (in.ernet.dli.2015.38111); both taken with reasons in _rights_checked. Greek Tragic Theatre: 01wodhgoog is vol. I, 02wodhgoog vol. V, 03pott and 04pott are Euripides volumes; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2: no new scans."
   },
   {
    "id": "perseus-fetcher",
@@ -252,6 +252,286 @@
    "scope": "coordinator relay 01:36Z: _surname/_translators on every lane B shelf, --verify --record, fetch_perseus.py review fixes",
    "started": "2026-10-02T20:58:45-05:00",
    "notes": "commit 2795e4b"
+  },
+  {
+   "id": "acq-persius-drummond",
+   "status": "done",
+   "scope": "juvenal: Drummond's Persius (1799)",
+   "started": "2026-10-02T21:05:58-05:00",
+   "finished": "2026-10-02T21:05:58-05:00",
+   "notes": "commit 82b4ed0; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-apollonius-preston",
+   "status": "done",
+   "scope": "apollonius: Preston's Argonautics (Dublin, 1803), vols. 1 and 3; vol. 2 not found",
+   "started": "2026-10-02T21:05:58-05:00",
+   "finished": "2026-10-02T21:05:58-05:00",
+   "notes": "commit 018e8cb; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-lucretius-good",
+   "status": "done",
+   "scope": "lucretius: John Mason Good (1805, 2 vols)",
+   "started": "2026-10-02T21:08:27-05:00",
+   "finished": "2026-10-02T21:08:27-05:00",
+   "notes": "commit ea7221f; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-xenophon-perseus-marchant",
+   "status": "done",
+   "scope": "xenophon: Marchant's and Todd's Loebs, 11 works (Perseus TEI, 1923-25)",
+   "started": "2026-10-02T21:24:36-05:00",
+   "finished": "2026-10-02T21:24:36-05:00",
+   "notes": "commit 1c95bbc; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-plato-perseus-loebs",
+   "status": "done",
+   "scope": "plato: Fowler, Lamb, Bury Loebs, 35 texts (Perseus TEI, 1914-29); Shorey's Republic excluded (1935-37)",
+   "started": "2026-10-02T21:28:57-05:00",
+   "finished": "2026-10-02T21:28:57-05:00",
+   "notes": "commit e61e8d6; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-ovid-more-and-older",
+   "status": "done",
+   "scope": "ovid: Brookes More's Metamorphoses (1922) and the 1813/1855 collections (Perseus TEI)",
+   "started": "2026-10-02T21:28:57-05:00",
+   "finished": "2026-10-02T21:28:57-05:00",
+   "notes": "commit 49a0b56; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-hippocrates-epidemics",
+   "status": "done",
+   "scope": "hippocrates: Jones's Epidemics I and III (Perseus TEI, 1923)",
+   "started": "2026-10-02T21:28:57-05:00",
+   "finished": "2026-10-02T21:28:57-05:00",
+   "notes": "commit 997a7d0; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-jordanes",
+   "status": "done",
+   "scope": "new shelf jordanes: Mierow's Getica (1908 PG, 1915 IA)",
+   "started": "2026-10-02T21:39:23-05:00",
+   "finished": "2026-10-02T21:39:23-05:00",
+   "notes": "commit 4680113; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-sidonius",
+   "status": "done",
+   "scope": "new shelf sidonius: Dalton's Letters (Oxford, 1915, 2 vols)",
+   "started": "2026-10-02T21:42:28-05:00",
+   "finished": "2026-10-02T21:42:28-05:00",
+   "notes": "commit 5f58b2e; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-isaeus",
+   "status": "done",
+   "scope": "new shelf isaeus: Sir William Jones (1779)",
+   "started": "2026-10-02T21:42:28-05:00",
+   "finished": "2026-10-02T21:42:28-05:00",
+   "notes": "commit aa9e980; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-herodas",
+   "status": "done",
+   "scope": "new shelf herodas: Sharpley's verse Mimes (1906)",
+   "started": "2026-10-02T21:42:28-05:00",
+   "finished": "2026-10-02T21:42:28-05:00",
+   "notes": "commit 5d412c9; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-rutilius",
+   "status": "done",
+   "scope": "new shelf rutilius: Savage-Armstrong's verse, ed. Keene (1907)",
+   "started": "2026-10-02T21:42:29-05:00",
+   "finished": "2026-10-02T21:42:29-05:00",
+   "notes": "commit f89638a; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-frontinus-herschel",
+   "status": "done",
+   "scope": "frontinus: Herschel's Two Books on the Water Supply (Boston, 1899)",
+   "started": "2026-10-02T21:42:29-05:00",
+   "finished": "2026-10-02T21:42:29-05:00",
+   "notes": "commit 9430045; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-lycophron-royston",
+   "status": "done",
+   "scope": "late-greek-poets: Royston's Cassandra (Cambridge, 1806)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit a4796e4; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-chariton-xenophon-ephesius",
+   "status": "done",
+   "scope": "greek-romances: Chariton (1764, 2 vols), Xenophon of Ephesus (1727); translators unnamed",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 163c02e; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-justin-codrington",
+   "status": "done",
+   "scope": "roman-epitomators: Codrington's Justin (5th ed., 1688)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 1bf9a35; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-solinus",
+   "status": "done",
+   "scope": "new shelf solinus: Golding's Solinus (1587)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 63173b0; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-periploi",
+   "status": "done",
+   "scope": "new shelf periploi: Schoff's Periplus (1912), Falconer's Hanno (1797)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 8574a1c; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "review-rounds-3-to-6",
+   "status": "done",
+   "scope": "coordinator relays 02:08Z-02:50Z: full-name translator claims, Perseus no-date and 1930 gates, record() outcomes, post-1930 later-matter holds, per-entry author names (_surname_by_slug), Aristotle title-page dates, Curtius claims under the new fetch_shelf gate",
+   "started": "2026-10-02T21:08:53-05:00",
+   "finished": "2026-10-02T21:54:28-05:00",
+   "notes": "commits 2e2e364, 0500e96, f2217dc, 4e410ff and the commit carrying this item"
+  },
+  {
+   "id": "victorian-scholars-prose-and-verse",
+   "status": "done",
+   "scope": "Davidson/Buckley and Lonsdale-Lee Virgil, Lonsdale-Lee Horace, Slater's Silvae, Cranstoun's Catullus and Propertius, Jebb's prose Sophocles, Way's Sophocles Part I and Aeschylus Parts I-III (raw IA; title pages read)",
+   "started": "2026-10-02T21:55:00-05:00",
+   "finished": "2026-10-02T22:05:09-05:00",
+   "notes": "Way Aeschylus I and III: OCR renders AE as 'JE', so identity is recorded in _identity_checked with the title page; Way's Sophocles Part II (1914) not found on IA"
+  },
+  {
+   "id": "homer-victorian-verse",
+   "status": "done",
+   "scope": "Homer: Morris, Palmer, Worsley (Odyssey 2 vols), Way (Odyssey; Iliad 2 vols), Newman, Worsley-Conington Iliad (2 vols); raw IA, title pages read",
+   "started": "2026-10-02T22:05:09-05:00",
+   "finished": "2026-10-02T22:08:53-05:00",
+   "notes": "Way Iliad vol. I translator unchecked (name garbled in OCR, reason recorded)"
+  },
+  {
+   "id": "satirists-comedy-hesiod-pythagoreans",
+   "status": "done",
+   "scope": "Mair's Hesiod, Hickie's Aristophanes vol. I, Mitchell's vol. II, Madan/Badham/Hodgson Juvenal, Hallard's Theocritus, Taylor's Pythagorean fragments",
+   "started": "2026-10-02T22:08:53-05:00",
+   "finished": "2026-10-02T22:13:59-05:00",
+   "notes": "Hickie vol. II and Mitchell vol. I wanted; Aristaenetus 1771 and Madan 1789 ECCO refused on OCR"
+  },
+  {
+   "id": "horace-catullus-claudian",
+   "status": "done",
+   "scope": "Martin, Lytton and Gladstone's Horace; Lamb's Catullus vol. I; Strutt's and Howard's Claudian",
+   "started": "2026-10-02T22:13:59-05:00",
+   "finished": "2026-10-03T00:41:15-05:00",
+   "notes": "Martin's Odes translator unchecked (name garbled in OCR); Dart, Pott-Wright and Wickham not taken"
+  },
+  {
+   "id": "retry-finds-bennett-firth",
+   "status": "done",
+   "scope": "Bennett's Loeb Horace and Firth's Pliny Second Series, found on the hourly retry under DLI file names",
+   "started": "2026-10-03T00:41:15-05:00",
+   "finished": "2026-10-03T00:45:29-05:00",
+   "notes": "both carry _rights_checked reasons (later impression; no printed date)"
+  },
+  {
+   "id": "review-round-7-and-rouse",
+   "status": "done",
+   "scope": "reviewer notes on 57770df..7f33a76; Rouse's Lucretius 1924; fetch_shelf --help",
+   "started": "2026-10-03T00:45:29-05:00",
+   "finished": "2026-10-03T00:49:59-05:00",
+   "notes": "main is already merged into the relay branch (97b7b5e is an ancestor); structure_test gives 64 on both main and this branch (the 87 figure matches no branch checked; PR #7 has more)"
+  },
+  {
+   "id": "loeb-uploads-tacitus-cicero",
+   "status": "done",
+   "scope": "Moore's Tacitus Histories I (1925 first printing); Cicero speeches by Watts (1923), Grose Hodge (1927), Freese (1930) from 1960s plain reprints",
+   "started": "2026-10-03T00:49:59-05:00",
+   "finished": "2026-10-03T00:53:55-05:00",
+   "notes": "the three Cicero reprints are listed in DIGEST-B as decisions; Livy 2, Tusculans, Verrines checked (revised or held)"
+  },
+  {
+   "id": "historia-augusta-fronto",
+   "status": "done",
+   "scope": "two new shelves: Magie's Historia Augusta I-II (1921, 1924) and Haines's Fronto I-II (1919, 1920), all first printings",
+   "started": "2026-10-03T00:53:55-05:00",
+   "finished": "2026-10-03T00:56:01-05:00",
+   "notes": "1990s reprints of the same Magie volumes and the 1988 Fronto II reprint were seen and not taken"
+  },
+  {
+   "id": "quintilian-v1-replacement",
+   "status": "done",
+   "scope": "Butler's Quintilian vol. 1 without the 1980 addendum, from a DLI scan; checked held volumes for clean printings",
+   "started": "2026-10-03T00:56:01-05:00",
+   "finished": "2026-10-03T00:58:17-05:00",
+   "notes": "Suetonius v1 (1951 revision), Ovid Miller v1 (1971 printing), Cicero Friends v3 (1971 note), Julian (Greek facing) still held"
+  },
+  {
+   "id": "ovid-mozley-velleius-shipley",
+   "status": "done",
+   "scope": "Mozley's Ovid Art of Love volume (1929 first printing); Shipley's Velleius Paterculus and Res Gestae (1924, from a 1961 plain reprint)",
+   "started": "2026-10-03T00:58:17-05:00",
+   "finished": "2026-10-03T01:00:07-05:00",
+   "notes": "Velleius reprint listed in DIGEST-B decisions"
+  },
+  {
+   "id": "marcus-demosthenes",
+   "status": "done",
+   "scope": "Leland's Demosthenes (1806, 2 vols); Marcus Aurelius by Casaubon (Everyman), Rendall (1898), Collier (1701) and Collier-Zimmern (1887)",
+   "started": "2026-10-03T01:00:07-05:00",
+   "finished": "2026-10-03T01:03:00-05:00",
+   "notes": "Gillies's Lysias and Isocrates refused (0.71); Casaubon from a 1948 Everyman reprint with _rights_checked"
+  },
+  {
+   "id": "aristotle-older-translations",
+   "status": "done",
+   "scope": "Aristotle before the Oxford translation: Taylor, Browne, Owen, Bohn Rhetoric/Poetic, Peters, Welldon x3; Ellis Politics and Everyman Ethics from Gutenberg",
+   "started": "2026-10-03T01:03:00-05:00",
+   "finished": "2026-10-03T01:08:19-05:00",
+   "notes": "three translator claims unchecked (names garbled in OCR); Everyman Ethics translator unnamed in the file, no claim made"
+  },
+  {
+   "id": "plato-lucian-older",
+   "status": "done",
+   "scope": "Whewell's Platonic Dialogues (3 vols), Davies and Vaughan's Republic, Spens's Republic (Everyman), Tooke's Lucian (2 vols)",
+   "started": "2026-10-03T01:08:19-05:00",
+   "finished": "2026-10-03T01:12:06-05:00",
+   "notes": "Whewell abridges in parts by his own account; noted in the rows"
+  },
+  {
+   "id": "xenophon-minor-works-1813",
+   "status": "done",
+   "scope": "Xenophon's Minor Works by several hands (1813)",
+   "started": "2026-10-03T01:12:06-05:00",
+   "finished": "2026-10-03T01:13:11-05:00",
+   "notes": "translators named only for two sections; no single claim"
+  },
+  {
+   "id": "greek-tragedy-older",
+   "status": "done",
+   "scope": "Whitelaw's and Dale's Sophocles; Campbell's prose Oresteia, the Headlams' prose Aeschylus, Warr's Oresteia",
+   "started": "2026-10-03T01:13:11-05:00",
+   "finished": "2026-10-03T01:15:00-05:00",
+   "notes": "Cookson's Everyman Aeschylus not taken (introduction cites 1936)"
+  },
+  {
+   "id": "pindar-paley-banks-hesiod",
+   "status": "done",
+   "scope": "Paley's Pindar (1868); Banks's Bohn Hesiod, Callimachus and Theognis (1856) with Elton, Tytler and Frere appended",
+   "started": "2026-10-03T01:15:00-05:00",
+   "finished": "2026-10-03T01:16:31-05:00",
+   "notes": "Tytler 1793 (0.767) and Polwhele (0.68) refused; Tytler's verse is in the Banks volume"
   }
  ]
 }

@@ -1,0 +1,165 @@
+{
+ "_about": "Public-domain Joseph Hall (1574-1656, Bishop of Exeter, then of Norwich) for the Word Hoard: Philip Wynter's edition of the Works (Oxford: University Press, 1863), vols 1-9 of 10, raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "h/hall",
+ "_name_words": [
+  "hall",
+  "joseph"
+ ],
+ "_surname": [
+  "joseph hall",
+  "bishop hall",
+  "bp. hall",
+  "jos. hall",
+  "hall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hall-works-1": [
+   "workshall01halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 1 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-2": [
+   "workshall02halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 2 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-3": [
+   "bishophallsworks03halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 3 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-4": [
+   "workshall04halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 4 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-5": [
+   "workshall05halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 5 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-6": [
+   "workshall06halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 6 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-7": [
+   "workshall07halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 7 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-8": [
+   "workshall08halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 8 (Oxford: University Press, 1863)"
+  ],
+  "hall-works-9": [
+   "workshall09halluoft",
+   "The Works of the Right Reverend Joseph Hall, ed. Philip Wynter, vol. 9 (Oxford: University Press, 1863)"
+  ]
+ },
+ "_alternates": {
+  "hall-works": "other scans of the 1863 Wynter set (trinitycollege bishophallwork01halluoft etc., cdl worksofrightreve0*hall, Google worksrightrever*); Pratt's 1808 and Talboys' 1837 editions not shelved; vol. 3 is the Trinity College scan because the Robarts copy (workshall03halluoft) returned HTTP 500 repeatedly"
+ },
+ "_excluded": {},
+ "_checks": {
+  "hall-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hall-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "joseph hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "hall-works-10": "Vol. 10 of the 1863 Wynter set: the Toronto series stops at vol. 9 and the Google scan labelled vol. 10 (worksrightrever10wyntgoog) is vol. VII by its own title page; a true vol. 10 scan not yet found."
+ }
+}

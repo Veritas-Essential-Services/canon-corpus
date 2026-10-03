@@ -1,0 +1,51 @@
+{
+ "_about": "The Nights of Straparola, volume 1 of 2, translated by W. G. Waters (London: Lawrence and Bullen, 1894). The Italian tale collection (1550-53) where several fairy-tale types first appear in print; some tales are bawdy. Volume 2 is not on Gutenberg yet. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Giovanni Francesco Straparola; tr. W. G. Waters",
+ "_name_words": [
+  "straparola"
+ ],
+ "_surname": [
+  "straparola",
+  "w. g. waters"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "straparola-nights-vol-1": [
+   75257,
+   "The Nights of Straparola, volume 1",
+   {
+    "levels": [
+     {
+      "re": "=?(?:PROEM|Night the [A-Z][a-z]+)\\.=?$",
+      "strip": "^=|\\.?=$"
+     },
+     {
+      "re": "THE [A-Z]+ FABLE\\.$"
+     }
+    ],
+    "repeat_continues": true,
+    "start": "PROEM\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "straparola-nights-vol-1": "Waters"
+ },
+ "_checks": {
+  "straparola-nights-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "straparola",
+   "translator_claimed": "Waters",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. G. Waters",
+   "translator_match": true
+  }
+ }
+}

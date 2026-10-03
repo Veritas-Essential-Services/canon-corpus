@@ -1,0 +1,148 @@
+{
+ "_about": "TRANSLATOR SHELF: Robert Southey (1774-1843) as translator. Amadis of Gaul (1803, from Lobeira/Montalvo) and the Chronicle of the Cid (1808). PD. His own poems are not shelved here. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "southey"
+ ],
+ "_surname": [
+  "robert southey",
+  "southey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "southey-cid": [
+   8491,
+   "Chronicle of the Cid"
+  ],
+  "southey-amadis-2": [
+   51099,
+   "Amadis of Gaul, Vol. 2"
+  ],
+  "southey-amadis-3": [
+   52941,
+   "Amadis of Gaul, Vol. 3"
+  ],
+  "southey-amadis-4": [
+   55005,
+   "Amadis of Gaul, Vol. 4"
+  ]
+ },
+ "internet_archive": {
+  "southey-amadis-1": [
+   "amadisofgaul01lobeuoft",
+   "Amadis of Gaul, vol. 1 (Longman 1803)"
+  ]
+ },
+ "titles": {
+  "southey-chronicle-of-the-cid": {
+   "source": "southey-cid",
+   "of": "Chronicle of the Cid (Crónica del Cid and others)",
+   "work": "Chronicle of the Cid",
+   "translated": 1808,
+   "translator": "Robert Southey",
+   "scan_edition": "Project Gutenberg 8491 (clean text)"
+  },
+  "southey-amadis-of-gaul": {
+   "source": [
+    "southey-amadis-1",
+    "southey-amadis-2",
+    "southey-amadis-3",
+    "southey-amadis-4"
+   ],
+   "of": "Lobeira / Montalvo",
+   "work": "Amadis of Gaul, 4 vols",
+   "translated": 1803,
+   "translator": "Robert Southey",
+   "scan_edition": "vol. 1: Longman 1803 (Toronto copy, raw OCR); vols 2-4: Project Gutenberg 51099, 52941, 55005 (clean text). Mixed witnesses within one title: vol. 1 should be replaced when Gutenberg publishes it."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "southey-own-poems": "Thalaba, Madoc, the Life of Nelson etc.: Southey's own works."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "southey-amadis-1": "This copy lacks the half-title, which per the University of Toronto catalogue record reads 'Amadis of Gaul, from the Spanish version of Garciordonez de Montalvo, by Robert Southey'. The imprint is the same as on Gutenberg's vols 2-4, whose header names Southey: Biggs for Longman and Rees, 1803. Checked 2026-10-03."
+ },
+ "_checks": {
+  "southey-cid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert southey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "southey-cid": {
+   "pg": 8491,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-2": {
+   "pg": 51099,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-3": {
+   "pg": 52941,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-4": {
+   "pg": 55005,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Southey"
+  },
+  "southey-amadis-1": {
+   "ia": "amadisofgaul01lobeuoft",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1791,
+    1792,
+    1803
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

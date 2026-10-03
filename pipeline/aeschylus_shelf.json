@@ -50,11 +50,42 @@
    "dramasofaeschylu0000unse",
    "The Dramas of Aeschylus (4th ed., revised, 1899)",
    "tr. Anna Swanwick"
+  ],
+  "aeschylus-way-1906-part1": [
+   "cu31924087947051",
+   "Aeschylus in English Verse, Part I: The Seven against Thebes, The Persians (London, 1906)",
+   "tr. Arthur S. Way"
+  ],
+  "aeschylus-way-1907-part2": [
+   "cu31924087947069",
+   "Aeschylus in English Verse, Part II: Prometheus Bound, The Suppliant Maidens (London, 1907) (year from the title page, 'Macmillan ... 1907'; IA records 1906)",
+   "tr. Arthur S. Way"
+  ],
+  "aeschylus-way-1908-part3": [
+   "aeschylusinengl04aescgoog",
+   "Aeschylus in English Verse, Part III: Agamemnon, Choephoroe, Eumenides (London, 1908) (year from the title page, 'Macmillan ... 1908'; IA records 1906)",
+   "tr. Arthur S. Way"
+  ],
+  "aeschylus-campbell-oresteia-prose-1893": [
+   "oresteiaofaeschy00aescrich",
+   "The Oresteia of Aeschylus translated into English Prose (London, 18 Bury Street, 1893)",
+   "tr. Lewis Campbell"
+  ],
+  "aeschylus-headlam-plays-1909": [
+   "aeschylusplays00aesciala",
+   "The Plays of Aeschylus translated from a revised text (prose; London: George Bell, 1909)",
+   "tr. Walter Headlam and C. E. S. Headlam"
+  ],
+  "aeschylus-warr-oresteia-1900": [
+   "oresteiatranslat00aescuoft",
+   "The Oresteia of Aeschylus translated and explained (London: George Allen, 1900)",
+   "tr. George C. W. Warr"
   ]
  },
  "_excluded": {
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts from Aeschylus and Sophocles, not whole plays",
-  "Herbert Weir Smyth, Loeb (1922-26)": "on Perseus with the Greek; US PD by date. Pending: Perseus manifest entry"
+  "Herbert Weir Smyth, Loeb (1922-26)": "on Perseus with the Greek; US PD by date. Pending: Perseus manifest entry",
+  "G. M. Cookson, Aeschylus' Plays (Everyman, 1906)": "the only scan with text (aeschylusplays0000gmco) is a later Everyman printing whose introduction cites a 1936 book, so it carries post-1930 matter; not taken"
  },
  "perseus": {
   "aeschylus-perseus-browning-agamemnon": [
@@ -79,7 +110,13 @@
   "aeschylus-murray-agamemnon": "Gilbert Murray",
   "aeschylus-potter-greek-tragic-theatre": "R. Potter",
   "aeschylus-swanwick": "Anna Swanwick",
-  "aeschylus-perseus-browning-agamemnon": "Robert Browning"
+  "aeschylus-perseus-browning-agamemnon": "Robert Browning",
+  "aeschylus-way-1906-part1": "Arthur S. Way",
+  "aeschylus-way-1907-part2": "Arthur S. Way",
+  "aeschylus-way-1908-part3": "Arthur S. Way",
+  "aeschylus-campbell-oresteia-prose-1893": "Lewis Campbell",
+  "aeschylus-headlam-plays-1909": "Walter Headlam",
+  "aeschylus-warr-oresteia-1900": "George C. W. Warr"
  },
  "_checks": {
   "aeschylus-plumptre": {
@@ -179,6 +216,84 @@
    "ia_date": "1899",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "aeschylus-way-1906-part1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-way-1907-part2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-way-1908-part3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-campbell-oresteia-prose-1893": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Lewis Campbell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-headlam-plays-1909": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Walter Headlam",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-warr-oresteia-1900": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "George C. W. Warr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -195,5 +310,9 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
+ },
+ "_identity_checked": {
+  "aeschylus-way-1906-part1": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART I' by Arthur S. Way, Macmillan 1906; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
+  "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it"
  }
 }

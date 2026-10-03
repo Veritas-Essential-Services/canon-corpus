@@ -7,7 +7,7 @@
   "tales"
  ],
  "_surname": [
-  "james"
+  "grace james"
  ],
  "ccel": {},
  "gutenberg": {
@@ -26,7 +26,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "james",
+   "author_seen": "grace james",
    "title_weak": true,
    "identity": "title_weak",
    "pg_copyrighted": false,

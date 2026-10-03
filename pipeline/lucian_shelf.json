@@ -47,6 +47,16 @@
    "worksoflucian02luci",
    "The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2",
    "tr. Thomas Francklin"
+  ],
+  "lucian-tooke-1820-v1": [
+   "lucianofsamosata01luciuoft",
+   "Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. I (London, 1820)",
+   "tr. William Tooke"
+  ],
+  "lucian-tooke-1820-v2": [
+   "lucianofsamosata02luciuoft",
+   "Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820)",
+   "tr. William Tooke"
   ]
  },
  "_cross_ref": {
@@ -419,7 +429,9 @@
   "lucian-perseus-harmon-philosophies-for-sale": "Austin Morris Harmon",
   "lucian-perseus-smith-the-sale-of-lives": "Emily James Smith",
   "lucian-perseus-smith-loukios-or-the-ass": "Emily James Smith",
-  "lucian-perseus-smith-the-halcyon": "Emily James Smith"
+  "lucian-perseus-smith-the-halcyon": "Emily James Smith",
+  "lucian-tooke-1820-v1": "William Tooke",
+  "lucian-tooke-1820-v2": "William Tooke"
  },
  "_checks": {
   "lucian-fowler-v1": {
@@ -517,6 +529,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1780",
    "ia_date": "1780",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucian-tooke-1820-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucian",
+   "translator_claimed": "William Tooke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucian-tooke-1820-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucian",
+   "translator_claimed": "William Tooke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

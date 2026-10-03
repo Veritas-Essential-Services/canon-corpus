@@ -1,0 +1,70 @@
+{
+ "_about": "Public-domain William Paley (1743-1805, Archdeacon of Carlisle) for the Word Hoard: A View of the Evidences of Christianity and Natural Theology (with illustrative notes) clean from CCEL, and the one-volume Works (Philadelphia: Crissy and Markley, catalogued 1853), raw Internet Archive OCR, which adds the Horae Paulinae, the Moral and Political Philosophy and sermons. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "p/paley",
+ "_name_words": [
+  "paley",
+  "william"
+ ],
+ "_surname": [
+  "william paley",
+  "dr. paley",
+  "paley"
+ ],
+ "_held": {},
+ "ccel": {
+  "paley-evidences": [
+   "evidence",
+   "A View of the Evidences of Christianity",
+   ""
+  ],
+  "paley-natural-theology": [
+   "paleysnatural",
+   "Natural Theology, with Illustrative Notes",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "paley-works-1853": [
+   "workscontainingh00paleuoft",
+   "The Works of William Paley, containing his Life, Moral and Political Philosophy, Evidences of Christianity, Natural Theology, Tracts, Horae Paulinae, Clergyman's Companion, and Sermons (Philadelphia: Crissy and Markley; catalogued 1853, title page undated)"
+  ]
+ },
+ "_alternates": {
+  "paley-works": "the 1850 printing (worksofwilliampa00paleuoft); Horae Paulinae alone, 1822 (10412262bsb)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "paley-evidences": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william paley",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "paley-natural-theology": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william paley",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "paley-works-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william paley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

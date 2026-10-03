@@ -12,13 +12,19 @@
    "frontinus0000unse",
    "Frontinus: The Stratagems and The Aqueducts of Rome (Loeb, 1925)",
    "tr. Charles E. Bennett"
+  ],
+  "frontinus-herschel-1899": [
+   "twobooksonwater01frongoog",
+   "The Two Books on the Water Supply of the City of Rome (Boston, 1899)",
+   "tr. Clemens Herschel"
   ]
  },
  "_surname": [
   "frontinus"
  ],
  "_translators": {
-  "frontinus-bennett": "Charles E. Bennett"
+  "frontinus-bennett": "Charles E. Bennett",
+  "frontinus-herschel-1899": "Clemens Herschel"
  },
  "_checks": {
   "frontinus-bennett": {
@@ -32,6 +38,19 @@
    "ia_rights": "ok: published 1925",
    "ia_date": "1925",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "frontinus-herschel-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frontinus",
+   "translator_claimed": "Clemens Herschel",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

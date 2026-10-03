@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Thomas Ken (1637-1711, Bishop of Bath and Wells, a nonjuror; author of the doxology 'Praise God, from whom all blessings flow') for the Word Hoard: the Prose Works, ed. J. T. Round (London: Rivington, 1838), the Manual of Prayers for Winchester College (Oxford: Parker, 1857 printing) and the Christian Year, or Hymns and Poems (London: Pickering, 1868), raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "k/ken",
+ "_name_words": [
+  "ken",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas ken",
+  "bishop ken",
+  "bp. ken",
+  "ken"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ken-prose-works-1838": [
+   "proseworksofrigh00kent",
+   "The Prose Works of Thomas Ken, ed. J. T. Round (London: Rivington, 1838)"
+  ],
+  "ken-manual-of-prayers-1857": [
+   "manualofprayersf00kent",
+   "A Manual of Prayers for the Use of the Scholars of Winchester College (Oxford: Parker, 1857)"
+  ],
+  "ken-christian-year-1868": [
+   "bishopkenschrist00kent",
+   "Bishop Ken's Christian Year, or Hymns and Poems for the Holy Days and Festivals of the Church (London: Pickering, 1868)"
+  ]
+ },
+ "_alternates": {
+  "ken-prose-works": "Benham's Prose Works (1872, proseworksofrigh187200kent) not shelved; the 1721 Works (4 vols, chiefly verse, long s) not shelved",
+  "ken-christian-year": "other scans of the 1868 Pickering printing: christianyear00kenuoft (84.9% OCR, swapped out), christian00kent, christianyearorh00ken"
+ },
+ "_excluded": {},
+ "_checks": {
+  "ken-prose-works-1838": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas ken",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ken-manual-of-prayers-1857": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas ken",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ken-christian-year-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas ken",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

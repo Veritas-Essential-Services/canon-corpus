@@ -1,0 +1,30 @@
+{
+ "_about": "Folk-Tales of the Khasis (Macmillan, 1920), tales of the Khasi Hills of Meghalaya retold by Mrs. Rafy. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mrs. Rafy",
+ "_name_words": [
+  "rafy"
+ ],
+ "_surname": [
+  "rafy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rafy-folk-tales-of-the-khasis": [
+   37884,
+   "Folk-Tales of the Khasis"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "rafy-folk-tales-of-the-khasis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rafy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

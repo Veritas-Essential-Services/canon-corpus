@@ -1,0 +1,39 @@
+{
+ "_about": "Georgian Folk Tales (1894), translated by Marjory Scott Wardrop (1869-1909). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Marjory Wardrop, tr.",
+ "_name_words": [
+  "wardrop"
+ ],
+ "_surname": [
+  "wardrop"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wardrop-georgian-folk-tales": [
+   44536,
+   "Georgian Folk Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "wardrop-georgian-folk-tales": "Wardrop"
+ },
+ "_checks": {
+  "wardrop-georgian-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wardrop",
+   "translator_claimed": "Wardrop",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marjory Scott Wardrop",
+   "translator_match": true
+  }
+ }
+}

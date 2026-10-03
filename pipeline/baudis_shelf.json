@@ -1,0 +1,39 @@
+{
+ "_about": "Czech Folk Tales (1917), selected and translated by Josef Baudiš. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Josef Baudiš, tr.",
+ "_name_words": [
+  "baudi"
+ ],
+ "_surname": [
+  "baudiš",
+  "baudis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baudis-czech-folk-tales": [
+   52596,
+   "Czech Folk Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "baudis-key-of-gold": "PG 20680, The Key of Gold: 23 Czech Folk Tales, has no plain-text file at Gutenberg (404); not fetched"
+ },
+ "_translators": {
+  "baudis-czech-folk-tales": "Baudiš"
+ },
+ "_checks": {
+  "baudis-czech-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baudiš",
+   "translator_claimed": "Baudiš",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Josef Baudiš",
+   "translator_match": true
+  }
+ }
+}

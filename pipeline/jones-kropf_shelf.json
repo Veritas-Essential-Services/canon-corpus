@@ -1,0 +1,51 @@
+{
+ "_about": "The Folk-Tales of the Magyars (London: Folk-Lore Society, 1889), collected by Kriza, Erdélyi, Pap and others, translated and edited with comparative notes by W. Henry Jones and Lewis L. Kropf. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "W. Henry Jones and Lewis L. Kropf, trs.",
+ "_name_words": [
+  "jones",
+  "kropf"
+ ],
+ "_surname": [
+  "w. henry jones",
+  "kropf"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jones-kropf-folk-tales-of-the-magyars": [
+   42981,
+   "The Folk-Tales of the Magyars",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|INTRODUCTION|CONTENTS|TALES AND NOTES|NOTES TO THE FOLK-TALES|INDEX)\\.?$"
+     },
+     {
+      "re": "(?!(?:PREFACE|INTRODUCTION|CONTENTS|TALES AND NOTES|NOTES TO THE FOLK-TALES|INDEX)\\.?$)(?:[IVX]+\\. )?[A-ZÁÉÍÓÚŐŰÖÜ][A-ZÁÉÍÓÚŐŰÖÜ'’ ,()-]*\\.(?:\\[\\d+\\])?(?: (?:Kriza|Erdélyi|Merényi).{0,20})?$",
+      "max": 130,
+      "strip": "\\[\\d+\\]|\\. (?:Kriza|Erdélyi|Merényi).*$"
+     }
+    ],
+    "start": "PREFACE\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "jones-kropf-folk-tales-of-the-magyars": "Jones"
+ },
+ "_checks": {
+  "jones-kropf-folk-tales-of-the-magyars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. henry jones",
+   "translator_claimed": "Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -24,6 +24,11 @@
    "idylliumsoftheoc00theo",
    "The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767)",
    "tr. Francis Fawkes"
+  ],
+  "theocritus-hallard-1901": [
+   "idyllsoftheocrit00theo",
+   "The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894)",
+   "tr. James Henry Hallard"
   ]
  },
  "_cross_ref": {
@@ -32,7 +37,8 @@
  "_excluded": {
   "Edmonds, The Greek Bucolic Poets (Loeb, 1912)": "US PD by date but Greek facing; pending",
   "idyllstheocritus00theoiala": "same Banks edition, lower OCR (0.827 vs 0.858)",
-  "idyllsoftheocrit00theorich": "1878 Banks reprint; empty text layer"
+  "idyllsoftheocrit00theorich": "1878 Banks reprint; empty text layer",
+  "Polwhele's Theocritus, Bion and Moschus (1786/1791-92, ECCO scans)": "PD; OCR 0.68. Refused for OCR quality on 2026-10-03; Polwhele's Tyrtaeus is in the Banks volume held above"
  },
  "_surname": [
   "theocritus",
@@ -42,7 +48,8 @@
  "_translators": {
   "theocritus-calverley": "Charles Stuart Calverley",
   "theocritus-bion-moschus-banks": "J. Chapman",
-  "theocritus-fawkes-1767": "Francis Fawkes"
+  "theocritus-fawkes-1767": "Francis Fawkes",
+  "theocritus-hallard-1901": "James Henry Hallard"
  },
  "_checks": {
   "theocritus-calverley": {
@@ -82,6 +89,30 @@
    "ia_date": "1767",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "theocritus-hallard-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theocritus",
+   "translator_claimed": "James Henry Hallard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "theocritus-calverley": [
+   "theocritus"
+  ],
+  "theocritus-bion-moschus-banks": [
+   "theocritus"
+  ],
+  "theocritus-fawkes-1767": [
+   "theocritus"
+  ]
  }
 }

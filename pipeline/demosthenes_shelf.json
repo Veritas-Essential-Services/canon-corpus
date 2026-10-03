@@ -49,6 +49,16 @@
    "orationsofdemos05demo",
    "The Orations of Demosthenes against Macartatus, Leochares, Stephanus and others; the Funeral Oration, Exordia and Epistles, vol. 5 (Bohn; 1878)",
    "tr. Charles Rann Kennedy"
+  ],
+  "demosthenes-leland-1806-v1": [
+   "orationsofdemost01demouoft",
+   "The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. I (London: Bensley, 1806)",
+   "tr. Thomas Leland"
+  ],
+  "demosthenes-leland-1806-v2": [
+   "orationsofdemost02demouoft",
+   "The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806)",
+   "tr. Thomas Leland"
   ]
  },
  "_excluded": {
@@ -208,7 +218,9 @@
   "demosthenes-perseus-vince-second-philippic": "James Herbert Vince",
   "demosthenes-perseus-vince-third-olynthiac": "James Herbert Vince",
   "demosthenes-perseus-vince-on-the-crown": "Charles Anthony Vince",
-  "demosthenes-perseus-vince-on-the-embassy": "Charles Anthony Vince"
+  "demosthenes-perseus-vince-on-the-embassy": "Charles Anthony Vince",
+  "demosthenes-leland-1806-v1": "Thomas Leland",
+  "demosthenes-leland-1806-v2": "Thomas Leland"
  },
  "_checks": {
   "demosthenes-kennedy-olynthiacs-philippics": {
@@ -311,6 +323,32 @@
    "ia_date": "1878",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "demosthenes-leland-1806-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "Thomas Leland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "demosthenes-leland-1806-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "Thomas Leland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -324,6 +362,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -337,6 +376,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -350,6 +390,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -363,6 +404,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -376,6 +418,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -389,6 +432,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -402,6 +446,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -415,6 +460,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -428,6 +474,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -441,6 +488,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -454,6 +502,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -467,6 +516,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -480,6 +530,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -493,6 +544,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -506,6 +558,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -519,6 +572,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -532,6 +586,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -545,6 +600,7 @@
    "source_years": [
     1930
    ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
@@ -574,5 +630,25 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
+ },
+ "_rights_checked": {
+  "demosthenes-perseus-vince-against-leptines": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-answer-to-philip-s-letter": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-first-olynthiac": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-for-the-liberty-of-the-rhodians": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-for-the-people-of-megalopolis": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-second-olynthiac": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-on-halonnesus": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-on-organization": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-on-the-chersonese": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-on-the-navy-boards": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-on-the-peace": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-on-the-treaty-with-alexander": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-first-philippic": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-third-philippic": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-fourth-philippic": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-philip-s-letter": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-second-philippic": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "demosthenes-perseus-vince-third-olynthiac": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is"
  }
 }

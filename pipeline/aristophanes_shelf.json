@@ -39,6 +39,16 @@
    "aristophanesmetr00arisiala",
    "Aristophanes: a Metrical Version of the Acharnians, the Knights and the Birds (Morley's Universal Library; 2nd ed., Routledge, 1887)",
    "tr. John Hookham Frere"
+  ],
+  "aristophanes-hickie-1887-v1": [
+   "comediesofaristo0001will",
+   "The Comedies of Aristophanes, a new and literal translation, vol. I: Acharnians, Knights, Clouds, Wasps, Peace, Birds (Bohn; London: George Bell, 1887)",
+   "tr. William James Hickie"
+  ],
+  "aristophanes-mitchell-1822-v2": [
+   "comediesaristop00mitcgoog",
+   "The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822)",
+   "tr. Thomas Mitchell"
   ]
  },
  "_excluded": {
@@ -46,7 +56,9 @@
   "pg2571": "Peace: the Athenian Society translation (0.87 with PG 8688)",
   "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
   "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "PD verse with the Greek facing; pending (IA)",
-  "J. Hookham Frere (1840)": "three of the four plays held (Acharnians, Knights, Birds: aristophanes-frere-morley, Morley 1887); the Frogs is not in that volume and is pending"
+  "J. Hookham Frere (1840)": "three of the four plays held (Acharnians, Knights, Birds: aristophanes-frere-morley, Morley 1887); the Frogs is not in that volume and is pending",
+  "Hickie's Bohn vol. II (Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus)": "PD; the only scans found (in.ernet.dli.2015.515630, .515629) have no text file on IA (404). Wanted to complete aristophanes-hickie-1887-v1",
+  "Mitchell vol. I (1820: Acharnians, Knights)": "no scan found on IA; vol. II held as aristophanes-mitchell-1822-v2"
  },
  "_surname": [
   "aristophanes"
@@ -55,7 +67,9 @@
   "aristophanes-hickie-clouds": "W. J. Hickie",
   "aristophanes-rogers-frogs": "b b rogers",
   "aristophanes-lindsay-lysistrata": "Jack Lindsay",
-  "aristophanes-frere-morley": "John Hookham Frere"
+  "aristophanes-frere-morley": "John Hookham Frere",
+  "aristophanes-hickie-1887-v1": "William James Hickie",
+  "aristophanes-mitchell-1822-v2": "T. Mitchell"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
@@ -125,6 +139,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-hickie-1887-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "William James Hickie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristophanes-mitchell-1822-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "T. Mitchell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

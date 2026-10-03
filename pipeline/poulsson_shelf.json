@@ -1,0 +1,36 @@
+{
+ "_about": "Top-of-the-World Stories for Boys and Girls (Lothrop, Lee & Shepard, 1916), Scandinavian children's stories by Topelius, Helena Nyblom and others, translated by Emilie and Laura E. Poulsson; one story is credited in the text to the translator Margaret Böcher. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Emilie and Laura E. Poulsson, trs.",
+ "_name_words": [
+  "poulsson"
+ ],
+ "_surname": [
+  "poulsson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "poulsson-top-of-the-world-stories": [
+   36465,
+   "Top-of-the-World Stories for Boys and Girls"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "poulsson-top-of-the-world-stories": "Poulsson"
+ },
+ "_checks": {
+  "poulsson-top-of-the-world-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "poulsson",
+   "translator_claimed": "Poulsson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Poulsson",
+   "translator_match": true
+  }
+ }
+}

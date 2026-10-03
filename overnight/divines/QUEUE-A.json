@@ -779,94 +779,372 @@
     },
     {
       "id": "jeremy-taylor",
-      "status": "todo",
+      "status": "done",
       "scope": "Jeremy Taylor: Holy Living, Holy Dying (CCEL) and Works (d. 1667)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:32:20-05:00",
+      "finished": "2026-10-02T21:40:54-05:00",
+      "notes": "2 CCEL + 10 IA"
     },
     {
       "id": "richard-hooker",
-      "status": "todo",
+      "status": "done",
       "scope": "Richard Hooker: Laws of Ecclesiastical Polity and Works (d. 1600)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:36:29-05:00",
+      "finished": "2026-10-02T21:37:34-05:00",
+      "notes": "1 CCEL + 3 IA"
     },
     {
       "id": "lancelot-andrewes",
-      "status": "todo",
+      "status": "done",
       "scope": "Lancelot Andrewes: Devotions (CCEL), Sermons (d. 1626)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:37:49-05:00",
+      "finished": "2026-10-02T21:41:28-05:00",
+      "notes": "1 CCEL + 6 IA"
     },
     {
       "id": "joseph-butler",
-      "status": "todo",
+      "status": "done",
       "scope": "Joseph Butler: Analogy, Fifteen Sermons (CCEL; d. 1752)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:42:14-05:00",
+      "finished": "2026-10-02T21:50:24-05:00",
+      "notes": "2 CCEL + 2 IA"
     },
     {
       "id": "thomas-fuller",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Fuller: Good Thoughts in Bad Times and other devotional works (CCEL; d. 1661)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:50:52-05:00",
+      "finished": "2026-10-02T21:51:55-05:00",
+      "notes": "2 CCEL + 4 IA"
     },
     {
       "id": "john-donne",
-      "status": "todo",
+      "status": "done",
       "scope": "John Donne: Devotions and sermons (CCEL; poems excluded; d. 1631)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:52:15-05:00",
+      "finished": "2026-10-02T21:57:02-05:00",
+      "notes": "3 CCEL + 6 IA"
     },
     {
       "id": "thomas-traherne",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Traherne: Centuries of Meditations (CCEL; d. 1674)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:57:29-05:00",
+      "finished": "2026-10-02T21:59:18-05:00",
+      "notes": "1 CCEL + 1 IA; 1 pending"
     },
     {
       "id": "john-henry-newman",
-      "status": "todo",
+      "status": "done",
       "scope": "John Henry Newman: Apologia, Parochial Sermons and other works published before 1891 (d. 1890)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T22:00:13-05:00",
+      "finished": "2026-10-02T22:03:22-05:00",
+      "notes": "1 CCEL + 5 PG + 8 IA"
     },
     {
       "id": "george-herbert",
-      "status": "todo",
+      "status": "done",
       "scope": "George Herbert: A Priest to the Temple (CCEL); The Temple listed for the hymn and verse manifests (d. 1633)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T22:04:17-05:00",
+      "finished": "2026-10-02T22:06:06-05:00",
+      "notes": "1 CCEL + 3 IA"
     },
     {
       "id": "joseph-hall",
-      "status": "todo",
+      "status": "done",
       "scope": "Joseph Hall: Works (d. 1656)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T22:08:04-05:00",
+      "finished": "2026-10-02T22:16:11-05:00",
+      "notes": "9 IA; vol. 10 pending"
     },
     {
       "id": "isaac-barrow",
-      "status": "todo",
+      "status": "done",
       "scope": "Isaac Barrow: Theological Works (d. 1677)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T22:08:29-05:00",
+      "finished": "2026-10-03T00:47:40-05:00",
+      "notes": "9 IA"
     },
     {
       "id": "thomas-ken",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Ken: prose works (d. 1711)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T22:09:33-05:00",
+      "finished": "2026-10-02T22:11:20-05:00",
+      "notes": "3 IA"
     },
     {
       "id": "henry-martyn",
-      "status": "todo",
+      "status": "done",
       "scope": "Henry Martyn: Journals and Letters, Sermons (d. 1812)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-03T00:47:55-05:00",
+      "finished": "2026-10-03T00:48:58-05:00",
+      "notes": "3 IA"
+    },
+    {
+      "id": "matthew-poole",
+      "status": "pending",
+      "scope": "Matthew Poole: Annotations upon the Holy Bible (d. 1679)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T00:50:49-05:00",
+      "notes": "nothing shelved: IA holds only the 1683-1700 folios (long s, double columns) and one volume of an 1861 Nisbet printing from the Digital Library of India; no full 19th-century set found"
+    },
+    {
+      "id": "john-trapp",
+      "status": "pending",
+      "scope": "John Trapp: Commentary on the Old and New Testaments (d. 1669)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T00:51:18-05:00",
+      "notes": "nothing shelved: the one IA scan (trappscommentary0000john) is catalogued 1865 but is the Sovereign Grace Book Club's 1958 reprint, by its own front matter; no 1860s scan of the full Commentary found"
+    },
+    {
+      "id": "james-hervey",
+      "status": "done",
+      "scope": "James Hervey: Meditations and Contemplations; Theron and Aspasio (d. 1758)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:51:30-05:00",
+      "finished": "2026-10-03T00:52:22-05:00",
+      "notes": "1 IA"
+    },
+    {
+      "id": "henry-venn",
+      "status": "done",
+      "scope": "Henry Venn: The Complete Duty of Man (d. 1797)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:52:40-05:00",
+      "finished": "2026-10-03T00:53:33-05:00",
+      "notes": "1 IA"
+    },
+    {
+      "id": "john-fletcher",
+      "status": "done",
+      "scope": "John Fletcher of Madeley: Works, incl. Checks to Antinomianism (d. 1785)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:53:55-05:00",
+      "finished": "2026-10-03T00:55:29-05:00",
+      "notes": "4 IA"
+    },
+    {
+      "id": "robert-hall",
+      "status": "done",
+      "scope": "Robert Hall of Leicester: Works (d. 1831)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:56:18-05:00",
+      "finished": "2026-10-03T00:57:49-05:00",
+      "notes": "7 IA"
+    },
+    {
+      "id": "edward-payson",
+      "status": "done",
+      "scope": "Edward Payson: Complete Works (d. 1827)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:58:06-05:00",
+      "finished": "2026-10-03T00:59:01-05:00",
+      "notes": "3 IA"
+    },
+    {
+      "id": "cotton-mather",
+      "status": "done",
+      "scope": "Cotton Mather: Magnalia Christi Americana; Bonifacius (d. 1728)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T00:59:28-05:00",
+      "finished": "2026-10-03T01:00:34-05:00",
+      "notes": "3 IA"
+    },
+    {
+      "id": "john-pearson",
+      "status": "done",
+      "scope": "John Pearson: An Exposition of the Creed (d. 1686)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:00:57-05:00",
+      "finished": "2026-10-03T01:01:49-05:00",
+      "notes": "1 IA"
+    },
+    {
+      "id": "william-paley",
+      "status": "done",
+      "scope": "William Paley: Evidences of Christianity; Natural Theology; Horae Paulinae (d. 1805)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:02:32-05:00",
+      "finished": "2026-10-03T01:03:28-05:00",
+      "notes": "2 CCEL + 1 IA"
+    },
+    {
+      "id": "robert-south",
+      "status": "done",
+      "scope": "Robert South: Sermons (d. 1716)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:04:14-05:00",
+      "finished": "2026-10-03T01:05:36-05:00",
+      "notes": "7 IA"
+    },
+    {
+      "id": "william-beveridge",
+      "status": "done",
+      "scope": "William Beveridge: Theological Works (d. 1708)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:06:46-05:00",
+      "finished": "2026-10-03T01:10:28-05:00",
+      "notes": "12 IA"
+    },
+    {
+      "id": "thomas-scott",
+      "status": "done",
+      "scope": "Thomas Scott: The Force of Truth; Essays (d. 1821)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:07:07-05:00",
+      "finished": "2026-10-03T01:07:53-05:00",
+      "notes": "1 IA"
+    },
+    {
+      "id": "w-g-t-shedd",
+      "status": "done",
+      "scope": "W. G. T. Shedd: Dogmatic Theology; History of Christian Doctrine (d. 1894)",
+      "added": "2026-10-03T00:49:54-05:00",
+      "added_by": "lane A worker, round 9 (round 8 done at 00:49 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Commentators and 18th-19th century evangelicals, British and American; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:08:07-05:00",
+      "finished": "2026-10-03T01:10:35-05:00",
+      "notes": "5 IA"
+    },
+    {
+      "id": "j-b-lightfoot",
+      "status": "done",
+      "scope": "J. B. Lightfoot: Galatians, Philippians, Colossians and Philemon; the Apostolic Fathers (d. 1889)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:11:48-05:00",
+      "finished": "2026-10-03T01:12:46-05:00",
+      "notes": "1 CCEL + 3 PG + 2 IA"
+    },
+    {
+      "id": "b-f-westcott",
+      "status": "queued",
+      "scope": "B. F. Westcott: commentaries on John, Hebrews, the Epistles of John; the Canon (d. 1901)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "r-c-trench",
+      "status": "queued",
+      "scope": "R. C. Trench: Synonyms of the New Testament; Notes on the Parables and Miracles; On the Study of Words (d. 1886)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "henry-alford",
+      "status": "queued",
+      "scope": "Henry Alford: The Greek Testament (d. 1871)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "john-eadie",
+      "status": "queued",
+      "scope": "John Eadie: commentaries on Ephesians, Colossians, Philippians, Galatians (d. 1876)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "john-brown-edinburgh",
+      "status": "queued",
+      "scope": "John Brown of Edinburgh: Expository Discourses (d. 1858)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "f-w-robertson",
+      "status": "queued",
+      "scope": "F. W. Robertson of Brighton: Sermons (d. 1853)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "john-keble",
+      "status": "queued",
+      "scope": "John Keble: The Christian Year; Sermons (d. 1866)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "e-b-pusey",
+      "status": "queued",
+      "scope": "E. B. Pusey: Parochial Sermons; The Minor Prophets (d. 1882)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "h-p-liddon",
+      "status": "queued",
+      "scope": "H. P. Liddon: The Divinity of Our Lord (Bampton Lectures); sermons (d. 1890)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "a-a-hodge",
+      "status": "queued",
+      "scope": "A. A. Hodge: Outlines of Theology; Commentary on the Confession (d. 1886)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "j-a-alexander",
+      "status": "queued",
+      "scope": "Joseph Addison Alexander: commentaries on Isaiah, Psalms, Mark, Acts (d. 1860)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "albert-barnes",
+      "status": "queued",
+      "scope": "Albert Barnes: Notes on the New Testament (d. 1870)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+    },
+    {
+      "id": "moses-stuart",
+      "status": "queued",
+      "scope": "Moses Stuart: commentaries on Hebrews and Romans; Hebrew grammar (d. 1852)",
+      "added": "2026-10-03T01:11:23-05:00",
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
     }
   ]
 }

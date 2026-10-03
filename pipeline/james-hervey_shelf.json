@@ -1,0 +1,39 @@
+{
+ "_about": "Public-domain James Hervey (1714-1758, rector of Weston Favell, one of the Oxford Methodists) for the Word Hoard: the Whole Works in one volume (Edinburgh: Peter Brown and Thomas Nelson, 1834), raw Internet Archive OCR, with the Meditations and Contemplations and Theron and Aspasio. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "h/hervey",
+ "_name_words": [
+  "hervey",
+  "james"
+ ],
+ "_surname": [
+  "james hervey",
+  "mr. hervey",
+  "hervey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hervey-whole-works-1834": [
+   "wholeworksofrevj00herv",
+   "The Whole Works of the Rev. James Hervey (Edinburgh: Peter Brown and Thomas Nelson, 1834)"
+  ]
+ },
+ "_alternates": {
+  "hervey-whole-works": "the 1835 issue (wholeworksofjame00herv); Rivington's Works, 1804, 6 vols (worksofjamesherv0*herv); Tegg's Whole Works, 1825, 6 vols (Google scans)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "hervey-whole-works-1834": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james hervey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

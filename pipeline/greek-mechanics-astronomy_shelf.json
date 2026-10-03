@@ -37,7 +37,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hero",
+   "author_seen": "hero of alexandria",
    "translator_claimed": "Joseph George Greenwood",
    "translator_in_text": true,
    "identity": "ok",
@@ -57,5 +57,15 @@
    "pg_translator": "J. M. Ashmand",
    "translator_match": true
   }
+ },
+ "_surname_by_slug": {
+  "hero-pneumatics-greenwood": [
+   "hero of alexandria",
+   "heron"
+  ],
+  "ptolemy-tetrabiblos-ashmand": [
+   "ptolemy",
+   "ptolemaeus"
+  ]
  }
 }

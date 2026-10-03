@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain W. G. T. Shedd (1820-1894, professor at Union Theological Seminary, New York) for the Word Hoard: Dogmatic Theology (New York: Scribner, 1888, 2 vols, with the supplementary vol. 3 of 1894) and A History of Christian Doctrine (New York: Scribner, 1863, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "s/shedd",
+ "_name_words": [
+  "shedd",
+  "william",
+  "greenough",
+  "thayer"
+ ],
+ "_surname": [
+  "william g. t. shedd",
+  "w. g. t. shedd",
+  "shedd"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shedd-dogmatic-1": [
+   "dogmatictheology01shed",
+   "Dogmatic Theology, vol. 1 (New York: Scribner, 1888)"
+  ],
+  "shedd-dogmatic-2": [
+   "dogmatictheology02shed_0",
+   "Dogmatic Theology, vol. 2 (New York: Scribner, 1888)"
+  ],
+  "shedd-dogmatic-3": [
+   "dogmatictheology03shed_0",
+   "Dogmatic Theology, vol. 3, supplement (New York: Scribner, 1894)"
+  ],
+  "shedd-history-doctrine-1": [
+   "historyofchristi01shediala",
+   "A History of Christian Doctrine, vol. 1 (New York: Scribner, 1863)"
+  ],
+  "shedd-history-doctrine-2": [
+   "historyofchristi0002shed",
+   "A History of Christian Doctrine, vol. 2 (New York: Scribner; this copy printed 1868, copyright 1863)"
+  ]
+ },
+ "_alternates": {
+  "shedd-dogmatic": "Trinity College and Cornell scans of the same set",
+  "shedd-history": "cdl historyofchristi02shediala (vol. 2: its OCR never shows Shedd's name, refused by the gate); the 1864-69 printings; T. and T. Clark's Edinburgh issue (1884)"
+ },
+ "_excluded": {
+  "shedd-dogmatic-2013": "dogmatic-theology-william-g-t: a 2013 upload of unknown source; not used"
+ },
+ "_checks": {
+  "shedd-dogmatic-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-dogmatic-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-dogmatic-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shedd-history-doctrine-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shedd-history-doctrine-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william g. t. shedd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

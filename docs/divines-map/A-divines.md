@@ -1202,3 +1202,280 @@ Slugs `wesley-*`.
 | Works, 10 vols (New York: J. & J. Harper, 1826-30) | have-raw | IA (identifiers in the shelf) |
 | Hymns and poems | see hymn manifest | |
 | Jackson's 1872 Works | alternate | on IA only as 1958-65 reprints, except vols 10 and 14 |
+
+## Richard Hooker (round 8, my pick, 2026-10-02)
+
+Slugs `hooker-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Learned Discourse of Justification | have-clean | CCEL |
+| Works, ed. John Keble, 3 vols (Oxford, 1836): Of the Laws of Ecclesiastical Polity, sermons, tractates, Walton's Life | have-raw | IA (identifiers in the shelf) |
+| The Church Defended (CCEL) | excluded | stubs |
+
+
+## Jeremy Taylor (round 8, my pick, 2026-10-02)
+
+Slugs `jtaylor-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rule and Exercises of Holy Living | have-clean | CCEL |
+| The Rule and Exercises of Holy Dying | have-clean | CCEL |
+| Whole Works, ed. Reginald Heber, rev. Charles Page Eden, 10 vols (London, 1847-54) | have-raw | IA (identifiers in the shelf) |
+
+
+## Lancelot Andrewes (round 8, my pick, 2026-10-02)
+
+Slugs `andrewes-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Private Devotions (the Greek), tr. J. H. Newman | have-clean | CCEL |
+| Ninety-Six Sermons, 5 vols (Oxford: Parker, 1841-43, Library of Anglo-Catholic Theology) | have-raw | IA (identifiers in the shelf) |
+| A Pattern of Catechistical Doctrine, and Other Minor Works (Oxford, 1846) | have-raw | IA |
+| Private Devotions (the Latin), tr. J. M. Neale | pending | not yet looked for |
+
+
+## Joseph Butler (round 8, my pick, 2026-10-02)
+
+Slugs `butler-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Analogy of Religion, with Two Brief Dissertations | have-clean | CCEL |
+| Fifteen Sermons Preached at the Rolls Chapel | have-clean | CCEL |
+| Works, ed. W. E. Gladstone, 2 vols (Oxford: Clarendon Press, 1896) | have-raw | IA (identifiers in the shelf) |
+
+
+## Thomas Fuller (round 8, my pick, 2026-10-02)
+
+Slugs `fuller-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Good Thoughts in Bad Times and Other Papers | have-clean | CCEL |
+| David's Heinous Sin, Hearty Repentance, Heavy Punishment (verse) | have-clean | CCEL |
+| The Church History of Britain, 3 vols (London: Tegg, 1837) | have-raw | IA (identifiers in the shelf) |
+| The Holy State and the Profane State (London: Pickering, 1840) | have-raw | IA |
+| The History of the Worthies of England | not looked for | |
+
+
+## John Donne (round 8, my pick, 2026-10-02)
+
+Slugs `donne-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Devotions upon Emergent Occasions | have-clean | CCEL |
+| Death's Duel | have-clean | CCEL |
+| Sermon Preached to the Lords upon Easter-day | have-clean | CCEL |
+| Works, ed. Henry Alford, 6 vols (London: Parker, 1839) | have-raw | IA (identifiers in the shelf) |
+| Sermon at the Spital (CCEL) | excluded | a fragment |
+
+
+## Thomas Traherne (round 8, my pick, 2026-10-02)
+
+Slugs `traherne-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Centuries of Meditations | have-clean | CCEL |
+| Poetical Works, ed. Bertram Dobell (London, 1903) | have-raw | IA (identifier in the shelf) |
+| Christian Ethicks (1675) | pending | long-s OCR, 79.8% |
+
+
+## John Henry Newman (round 8, my pick, 2026-10-02)
+
+Slugs `newman-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Dream of Gerontius (verse) | have-clean | CCEL |
+| Apologia pro Vita Sua (1890 printing) | have-clean | Gutenberg 22088 |
+| An Essay on the Development of Christian Doctrine | have-clean | Gutenberg 35110 |
+| An Essay in Aid of a Grammar of Assent | have-clean | Gutenberg 34022 |
+| The Idea of a University | have-clean | Gutenberg 24526 |
+| Historical Sketches, vol. 1 | have-clean | Gutenberg 21859 |
+| Parochial and Plain Sermons, 8 vols (London: Longmans, 1891) | have-raw | IA (identifiers in the shelf) |
+| Tracts for the Times (CCEL) | excluded | several authors |
+| Callista; Loss and Gain | excluded | novels |
+
+
+## George Herbert (round 8, my pick, 2026-10-02)
+
+Slugs `herbert-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Priest to the Temple, or The Country Parson | have-clean | CCEL |
+| English Works, ed. George Herbert Palmer, 3 vols (Boston: Houghton Mifflin, 1905; vol. 1 a 1915 printing), including The Temple | have-raw | IA (identifiers in the shelf) |
+
+
+## Thomas Ken (round 8, my pick, 2026-10-02)
+
+Slugs `ken-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Prose Works, ed. J. T. Round (London, 1838) | have-raw | IA (identifiers in the shelf) |
+| A Manual of Prayers for Winchester College (1857 printing) | have-raw | IA |
+| The Christian Year, or Hymns and Poems (London: Pickering, 1868) | have-raw | IA |
+
+
+## Joseph Hall (round 8, my pick, 2026-10-02)
+
+Slugs `hall-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. Philip Wynter (Oxford: University Press, 1863), vols 1-9 | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 10 | pending | no correct scan found yet |
+
+
+## Isaac Barrow (round 8, my pick, 2026-10-03)
+
+Slugs `barrow-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological Works, ed. Alexander Napier, 9 vols (Cambridge: University Press, 1859) | have-raw | IA (identifiers in the shelf) |
+
+
+## Henry Martyn (round 8, my pick, 2026-10-03)
+
+Slugs `martyn-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Journals and Letters, ed. Samuel Wilberforce, 2 vols (London, 1837) | have-raw | IA (identifiers in the shelf) |
+| Sermons (Boston, 1822) | have-raw | IA |
+
+
+## James Hervey (round 9, my pick, 2026-10-03)
+
+Slugs `hervey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Whole Works, 1 vol. (Edinburgh: Brown and Nelson, 1834), incl. Meditations and Contemplations, Theron and Aspasio | have-raw | IA (identifier in the shelf) |
+
+
+## Henry Venn (round 9, my pick, 2026-10-03)
+
+Slugs `venn-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Complete Duty of Man (New York, 1838 printing) | have-raw | IA (identifier in the shelf) |
+
+
+## John Fletcher of Madeley (round 9, my pick, 2026-10-03)
+
+Slugs `fletcher-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 4 vols (New York: Carlton and Porter / Carlton and Lanahan, undated; catalogued 1833), incl. the Checks to Antinomianism | have-raw | IA (identifiers in the shelf) |
+
+
+## Robert Hall (round 9, my pick, 2026-10-03)
+
+Slugs `rhall-*` (not `hall-*`, which is Joseph Hall's).
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. Olinthus Gregory, 6 vols (London: Bohn; catalogued 1846) | have-raw | IA (identifiers in the shelf) |
+| Miscellaneous Works and Remains (London: Bohn; catalogued 1846) | have-raw | IA |
+
+
+## Edward Payson (round 9, my pick, 2026-10-03)
+
+Slugs `payson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Complete Works, 3 vols (Philadelphia: Gihon, 1851) | have-raw | IA (identifiers in the shelf) |
+
+
+## Cotton Mather (round 9, my pick, 2026-10-03)
+
+Slugs `cmather-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Magnalia Christi Americana, 2 vols (Hartford: Silas Andrus and Son; copyright 1852) | have-raw | IA (identifiers in the shelf) |
+| Essays to Do Good (Bonifacius) (Boston, 1808) | have-raw | IA |
+| The Wonders of the Invisible World | excluded | bundled with Increase Mather; Salem trials; Adam's call |
+
+
+## John Pearson (round 9, my pick, 2026-10-03)
+
+Slugs `pearson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| An Exposition of the Creed, with Edward Walford's analysis (London: George Bell; catalogued 1902) | have-raw | IA (identifier in the shelf) |
+
+
+## William Paley (round 9, my pick, 2026-10-03)
+
+Slugs `paley-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A View of the Evidences of Christianity | have-clean | CCEL |
+| Natural Theology, with illustrative notes | have-clean | CCEL |
+| Works, 1 vol. (Philadelphia: Crissy and Markley; catalogued 1853), incl. Horae Paulinae, Moral and Political Philosophy, sermons | have-raw | IA (identifier in the shelf) |
+
+
+## Robert South (round 9, my pick, 2026-10-03)
+
+Slugs `south-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons Preached upon Several Occasions, 7 vols (Oxford: Clarendon Press, 1823) | have-raw | IA (identifiers in the shelf) |
+
+
+## Thomas Scott (round 9, my pick, 2026-10-03)
+
+Slugs `tscott-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on the Most Important Subjects in Religion; The Force of Truth (Edinburgh, 1825) | have-raw | IA (identifier in the shelf) |
+| The Holy Bible with Explanatory Notes (the Family Bible) | not looked for | |
+
+
+## William Beveridge (round 9, my pick, 2026-10-03)
+
+Slugs `beveridge-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological Works, 12 vols (Oxford: Parker, 1842-48, Library of Anglo-Catholic Theology); vols 11-12 in Latin | have-raw | IA (identifiers in the shelf) |
+
+
+## W. G. T. Shedd (round 9, my pick, 2026-10-03)
+
+Slugs `shedd-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Dogmatic Theology, 2 vols (New York: Scribner, 1888) and vol. 3, supplement (1894) | have-raw | IA (identifiers in the shelf) |
+| A History of Christian Doctrine, 2 vols (New York: Scribner, 1863; vol. 2 an 1868 printing) | have-raw | IA |
+
+
+## J. B. Lightfoot (round 10, my pick, 2026-10-03)
+
+Slugs `lightfoot-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Apostolic Fathers (tr. Lightfoot) | have-clean | CCEL |
+| St. Paul's Epistles to the Colossians and to Philemon | have-clean | Gutenberg 50857 |
+| Essays on the Work Entitled Supernatural Religion | have-clean | Gutenberg 18191 |
+| Sermons | have-clean | Gutenberg 37527 |
+| Saint Paul's Epistle to the Galatians (London: Macmillan, 1890) | have-raw | IA (identifier in the shelf) |
+| Saint Paul's Epistle to the Philippians (London: Macmillan, 1898) | have-raw | IA |

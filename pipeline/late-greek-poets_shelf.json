@@ -45,6 +45,11 @@
    "bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722",
    "Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722)",
    "tr. William Diaper and John Jones (attributed; the title page names no translator)"
+  ],
+  "lycophron-royston-1806": [
+   "cassandra00lyco",
+   "Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806)",
+   "tr. Philip Yorke, Viscount Royston"
   ]
  },
  "_surname": [
@@ -53,7 +58,8 @@
   "tryphiodorus",
   "musaeus",
   "musæus",
-  "oppian"
+  "oppian",
+  "lycophron"
  ],
  "_translators": {
   "callimachus-dodd-hymns": "William Dodd",
@@ -62,7 +68,8 @@
   "aratus-brown-phainomena": "brown, robt.",
   "tryphiodorus-merrick-destruction-of-troy": "merrick",
   "musaeus-arnold-hero-leander": "Edwin Arnold",
-  "oppian-diaper-jones-halieuticks": "mr. diaper"
+  "oppian-diaper-jones-halieuticks": "mr. diaper",
+  "lycophron-royston-1806": "Royston"
  },
  "_identity_checked": {
   "musaeus-arnold-hero-leander": "Title page reads 'Hero and Leander. From the Greek of [Musaeus, garbled by OCR]. Edwin Arnold'; the poem is Musaeus's Hero and Leander; checked by eye 2026-10-02."
@@ -86,7 +93,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "aratus",
    "translator_claimed": "John Lamb",
    "translator_in_text": true,
    "identity": "ok",
@@ -99,7 +106,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "aratus",
    "translator_claimed": "E. Poste",
    "translator_in_text": true,
    "identity": "ok",
@@ -125,7 +132,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "tryphiodorus",
    "translator_claimed": "merrick",
    "translator_in_text": true,
    "identity": "ok",
@@ -139,6 +146,9 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": null,
+   "translator_claimed": "Edwin Arnold",
+   "translator_in_text": true,
+   "title_weak": true,
    "identity": "identity_override",
    "ia_rights": "ok: published 1870",
    "ia_date": "[187-?]",
@@ -157,6 +167,51 @@
    "ia_date": "1722",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "lycophron-royston-1806": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lycophron",
+   "translator_claimed": "Royston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
+ },
+ "_translator_unchecked": {},
+ "_excluded": {
+  "bim_eighteenth-century_oppians-cynegeticks-tr_oppian_1736": "Oppian's Cynegeticks (Mawer, 1736): ECCO OCR 0.76, below the lane's bar; wanted only from a cleaner scan",
+  "Tytler's Callimachus (1793; IA worksofcallimach00call)": "OCR 0.767, just under the lane's bar; Tytler's verse Callimachus is held instead as an appendix to Banks's Bohn volume (hesiod-banks-bohn-1856 on the hesiod shelf)"
+ },
+ "_surname_by_slug": {
+  "callimachus-dodd-hymns": [
+   "callimachus"
+  ],
+  "aratus-lamb-phenomena": [
+   "aratus"
+  ],
+  "aratus-poste-skies": [
+   "aratus"
+  ],
+  "aratus-brown-phainomena": [
+   "aratus"
+  ],
+  "tryphiodorus-merrick-destruction-of-troy": [
+   "tryphiodorus"
+  ],
+  "musaeus-arnold-hero-leander": [
+   "musaeus",
+   "musæus"
+  ],
+  "oppian-diaper-jones-halieuticks": [
+   "oppian"
+  ],
+  "lycophron-royston-1806": [
+   "lycophron"
+  ]
  }
 }

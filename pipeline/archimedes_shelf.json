@@ -84,7 +84,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "archimedes",
+   "author_seen": "apollonius",
    "translator_claimed": "t. l. heath",
    "translator_in_text": true,
    "identity": "ok",
@@ -96,5 +96,10 @@
  },
  "_translator_unchecked": {
   "archimedes-heath-works": "the OCR garbles the title page ('rE 1. HEATH'); 'heath' alone is a common word and proves nothing"
+ },
+ "_surname_by_slug": {
+  "apollonius-perga-heath-conics": [
+   "apollonius"
+  ]
  }
 }

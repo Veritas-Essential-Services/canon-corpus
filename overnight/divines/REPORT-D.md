@@ -510,3 +510,98 @@
 
 ## 2026-10-02 21:24 CDT — note
 - The Garis commit (3088b95) says "34 books in all"; the shelf holds 35. The DIGEST row says 35.
+
+## 2026-10-02 21:37 CDT — basile: done
+- 1/1 fetched (Gutenberg 2198), 683 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — straparola: done
+- 1/1 fetched (Gutenberg 75257), 795 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — gesta-romanorum: done
+- 1/1 fetched (Gutenberg 58655), 1,470 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — babbitt: done
+- 2/2 fetched (Gutenberg 62514, 7518), 893 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — abby-diaz: done
+- 4/4 fetched (Gutenberg 69482, 68833, 70939, 34335), 4,396 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — beatrice-clay: done
+- 1/1 fetched (Gutenberg 15551), 309 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — poulsson: done
+- 1/1 fetched (Gutenberg 36465), 797 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — thorne-thomsen: done
+- 1/1 fetched (Gutenberg 49201), 324 units, 0 ~2 ids.
+
+## 2026-10-02 21:47 CDT — convert_nested fix (coordinator relay)
+- `convert_nested.py`: a body start now also forgets a title the Contents' last heading was waiting for. Before, a book whose Contents ended on a title_next heading cited its first body heading as "None BOOK ONE". New test `tests/convert_nested_test.py` (11 checks) fails on the old code and passes on the new. Rebuilt all 85 Lane D books that use the nested converter in memory: no unit id or ref changes, so no Lane D book carried the bug.
+- `split_shelf_titles.py` (stale titles file after a failed split) is Lane C's file; not touched here.
+
+## 2026-10-02 21:55 CDT — skinner: done
+- 2/2 fetched (Gutenberg 6615, 24732), 1,810 units, 0 ~2 ids.
+
+## 2026-10-02 21:55 CDT — wilhelm: done
+- 1/1 fetched (Gutenberg 29939), 1,526 units, 0 ~2 ids.
+
+## 2026-10-02 21:56 CDT — gale-korean: done
+- 1/1 fetched (Gutenberg 51002), 776 units, 0 ~2 ids.
+
+## 2026-10-02 21:57 CDT — bompas: done
+- 1/1 fetched (Gutenberg 11938), 1,409 units, 1 ~2 ids.
+
+## 2026-10-02 21:58 CDT — barker-sinclair: done
+- 1/1 fetched (Gutenberg 66923), 425 units, 0 ~2 ids.
+
+## 2026-10-02 21:58 CDT — rafy: done
+- 1/1 fetched (Gutenberg 37884), 505 units, 0 ~2 ids.
+
+## 2026-10-02 21:59 CDT — glinski: done
+- 1/1 fetched (Gutenberg 36668), 635 units, 0 ~2 ids.
+
+## 2026-10-02 22:00 CDT — baudis: done
+- 1/1 fetched (Gutenberg 52596), 796 units, 0 ~2 ids.
+
+## 2026-10-02 22:01 CDT — wardrop: done
+- 1/1 fetched (Gutenberg 44536), 773 units, 0 ~2 ids.
+
+## 2026-10-02 22:16 CDT — jones-kropf: done
+- 1/1 fetched (Gutenberg 42981), 3,152 units, 0 ~2 ids.
+
+## 2026-10-02 22:17 CDT — emerson: done
+- 1/1 fetched (Gutenberg 8675), 490 units, 0 ~2 ids.
+
+## 2026-10-02 22:18 CDT — thrum: done
+- 1/1 fetched (Gutenberg 18450), 1,216 units, 0 ~2 ids.
+
+## 2026-10-02 22:18 CDT — sellers: done
+- 1/1 fetched (Gutenberg 31481), 867 units, 0 ~2 ids.
+
+## 2026-10-02 22:19 CDT — grierson: done
+- 1/1 fetched (Gutenberg 37532), 1,661 units, 0 ~2 ids.
+
+## 2026-10-03 00:41 CDT — angus-hall: done
+- 1/1 fetched (Gutenberg 67085), 1,386 units, 0 ~2 ids.
+
+## 2026-10-03 00:42 CDT — oconnor: done
+- 1/1 fetched (Gutenberg 75000), 827 units, 0 ~2 ids.
+
+## 2026-10-03 00:42 CDT — russell: done
+- 1/1 fetched (Gutenberg 75089), 471 units, 0 ~2 ids.
+
+## 2026-10-03 00:43 CDT — jameson: done
+- 2/2 fetched (Gutenberg 69581, 12047), 3,486 units, 0 ~2 ids.
+
+## 2026-10-03 00:44 CDT — griffis-b21: done
+- 5/5 fetched (Gutenberg 7871, 9368, 69739, 67180, 67256), 4,342 units, 0 ~2 ids.
+
+## 2026-10-03 00:45 CDT — ralston-tibetan: done
+- 1/1 fetched (Gutenberg 66870), 1,848 units, 0 ~2 ids.
+
+## 2026-10-03 00:58 CDT — review round 6 and Lane A's surname gate (e1ef08b)
+- 31 Lane D shelves now name their author in full in `_surname` (e.g. "andrew lang", "beatrice e. clay", "james scarth gale", "charles m. skinner", "w. h. barker", "mrs. a. w. hall"), replacing bare words that occur in most English books. Each form was matched against every book on its shelf before the change, then `fetch_shelf --verify --record` re-run on all 31: 0 mismatches, 0 rights flags. All 163 Lane D shelves pass the new load-time check.
+- The change exposed one wrong attribution: `lang-devil-dancers` is a Christian Literature Society for India pamphlet "compiled from Lang, Caldwell, Conway, Tylor ... and others". Moved to `_held` on the lang shelf (DIGEST decision 16).
+- basile: the translator note no longer quotes the book's text. andersen: punctuation in three translator notes.
+- Grierson and Skinner: undated in the text; the Internet Archive catalogue dates are now recorded with the record ids. Grierson's life dates, which came from memory and not from the text or a record, were removed.
+- DIGEST: the minting list is now counted from the shelf files (926 slugs on 163 shelves) instead of hand-summed by batch; the headline says 161 storytellers and lists batch 21.

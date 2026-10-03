@@ -547,3 +547,79 @@ Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `nicholson-kashf-al-mahjub` | Hujwiri | Kashf al-Mahjub | Reynold A. Nicholson | 1911 | have | PG 64786 |
 | `nicholson-divani-shamsi-tabriz` | Rumi | Selected Poems from the Divani Shamsi Tabriz | Reynold A. Nicholson | 1898 | have-raw | IA `india.history.resource.111025` |
 | `nicholson-mathnawi` | — | The Mathnawi translation (Gibb series, 1925-40): vols 1-2 (1926, 1930) are US PD; the rest are not. Not fetched. | — | — | pending | — |
+
+## Southey as translator (Amadis, the Cid)
+
+Shelf: `pipeline/southey_shelf.json` · fetch `python3 pipeline/fetch_shelf.py southey` · titles `python3 pipeline/split_shelf_titles.py southey`.
+Round 7, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `southey-chronicle-of-the-cid` | Chronicle of the Cid (Crónica del Cid and others) | Chronicle of the Cid | Robert Southey | 1808 | have | PG 8491 |
+| `southey-amadis-of-gaul` | Lobeira / Montalvo | Amadis of Gaul, 4 vols | Robert Southey | 1803 | have-raw | IA `amadisofgaul01lobeuoft` + PG 51099 + PG 52941 + PG 55005 |
+| — | — | southey-own-poems: Thalaba, Madoc, the Life of Nelson etc.: Southey's own works. | — | — | excluded | — |
+
+## Coleridge as translator (Wallenstein)
+
+Shelf: `pipeline/coleridge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py coleridge` · titles `python3 pipeline/split_shelf_titles.py coleridge`.
+Round 7, vetoable. Gutenberg text placed by hand (cache URL 404s), see `_manual_fetch`. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `coleridge-piccolomini` | Schiller | The Piccolomini (Wallenstein, part 2) | Samuel Taylor Coleridge | 1800 | have | PG 6786 |
+| `coleridge-death-of-wallenstein` | Schiller | The Death of Wallenstein (Wallenstein, part 3) | Samuel Taylor Coleridge | 1800 | have | PG 6787 |
+| — | — | wallensteins-lager: Wallenstein's Camp (part 1) was not translated by Coleridge. | — | — | excluded | — |
+
+## John and E. A. Bowring (Chamisso, Goethe, Heine)
+
+Shelf: `pipeline/bowring_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bowring` · titles `python3 pipeline/split_shelf_titles.py bowring`.
+Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bowring-peter-schlemihl` | Chamisso | Peter Schlemihl | John Bowring | 1824 | have | PG 21943 |
+| `bowring-goethe-poems` | Goethe | Poems, in the original metres | Edgar Alfred Bowring | 1853 | have | PG 1287 |
+| `bowring-heine-poems` | Heine | Poems, complete | Edgar Alfred Bowring | 1859 | have | PG 52882 |
+| `john-bowring-anthologies` | — | Sir John Bowring's Specimens of the Russian Poets (1821-23), Servian Popular Poetry (1827), Poetry of the Magyars (1830): on IA; not fetched this run. | — | — | pending | — |
+
+## John Anster (Faust I)
+
+Shelf: `pipeline/anster_shelf.json` · fetch `python3 pipeline/fetch_shelf.py anster` · titles `python3 pipeline/split_shelf_titles.py anster`.
+Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `anster-faust-part-1` | Goethe | Faust, Part I (verse) | John Anster | 1835 | have-raw | IA `firstpartgoethe00anstgoog` |
+| `anster-faust-part-2` | — | Anster's Part II (1864): not fetched this run. | — | — | pending | — |
+| — | — | fausttransanster00goetuoft: IA catalogues it as Anster's (Harper 1886), but its title page reads 'translated into English verse ... by John Stuart Blackie', Macmillan 1880: a different translation. Refused by the identity gate 2026-10-03. | — | — | excluded | — |
+
+## Abraham Hayward (Faust I, prose)
+
+Shelf: `pipeline/hayward_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hayward` · titles `python3 pipeline/split_shelf_titles.py hayward`.
+Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hayward-faust-part-1` | Goethe | Faust, Part I (prose) | Abraham Hayward | 1833 | have-raw | IA `faustdramatichay00goetuoft` |
+
+## P. H. Wicksteed (Paradiso, Convivio)
+
+Shelf: `pipeline/wicksteed_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wicksteed` · titles `python3 pipeline/split_shelf_titles.py wicksteed`.
+Round 7, vetoable. Paradiso has the Italian facing: OCR mixes both. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wicksteed-paradiso` | Dante | Paradiso (prose, Italian facing) | Philip H. Wicksteed | 1899 | have-raw | IA `paradisoofdantea00dantuoft` |
+| `wicksteed-convivio` | Dante | Convivio | Philip H. Wicksteed | 1903 | have-raw | IA `convivioofdantea00dant` |
+| `wicksteed-latin-works` | — | The Latin Works of Dante (Temple Classics 1904): Wicksteed did the letters and eclogues, A. G. Ferrers Howell the rest; translator per piece needed. Not fetched. | — | — | pending | — |
+| — | — | six-sermons: Dante: Six Sermons (PG 36479): Wicksteed's own work. | — | — | excluded | — |
+
+## J. C. Mangan (German Anthology)
+
+Shelf: `pipeline/mangan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mangan` · titles `python3 pipeline/split_shelf_titles.py mangan`.
+Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mangan-german-anthology` | Goethe, Schiller, Uhland, Rückert and others | Anthologia Germanica (German Anthology) | James Clarence Mangan | 1845 | have-raw | IA `anthologiagerma02manggoog` + IA `anthologiagerma03manggoog` |
+| `mangan-irish` | — | Mangan's translations from the Irish (The Poets and Poetry of Munster, 1849): not fetched. | — | — | pending | — |

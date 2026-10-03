@@ -25,6 +25,16 @@
    "luciusannaeusflo0000unse",
    "Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929)",
    "tr. E. S. Forster (Florus), J. C. Rolfe (Nepos)"
+  ],
+  "justin-codrington-1688": [
+   "historyjustinta00codrgoog",
+   "The History of Justin, taken out of the Four and Forty Books of Trogus Pompeius, 5th ed. (London, 1688)",
+   "tr. Robert Codrington"
+  ],
+  "velleius-shipley-res-gestae": [
+   "compendiumofroma00velluoft",
+   "Velleius Paterculus, Compendium of Roman History; Res Gestae Divi Augusti (Loeb, first printed 1924; this scan a 1961 reprint; Latin facing)",
+   "tr. Frederick W. Shipley"
   ]
  },
  "_surname": [
@@ -39,7 +49,9 @@
  "_translators": {
   "justin-nepos-eutropius-watson": "John Selby Watson",
   "sallust-florus-velleius-watson": "John Selby Watson",
-  "florus-forster-nepos-rolfe": "edward seymour forster"
+  "florus-forster-nepos-rolfe": "edward seymour forster",
+  "justin-codrington-1688": "Rob. Codrington",
+  "velleius-shipley-res-gestae": "Frederick W. Shipley"
  },
  "_checks": {
   "justin-nepos-eutropius-watson": {
@@ -59,7 +71,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "justin",
+   "author_seen": "florus",
    "translator_claimed": "John Selby Watson",
    "translator_in_text": true,
    "identity": "ok",
@@ -72,7 +84,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "justin",
+   "author_seen": "florus",
    "translator_claimed": "edward seymour forster",
    "translator_in_text": true,
    "identity": "ok",
@@ -80,6 +92,58 @@
    "ia_date": "1929",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "justin-codrington-1688": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "Rob. Codrington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "velleius-shipley-res-gestae": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "velleius",
+   "translator_claimed": "Frederick W. Shipley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null,
+   "rights_override": "Imprint read: 'First printed 1924, Reprinted 1955, 1961' (OCR '3924'); reprinted, not revised; no year after 1930 elsewhere in the file. Taken as the 1924 text, US public domain."
   }
+ },
+ "_surname_by_slug": {
+  "justin-nepos-eutropius-watson": [
+   "justin",
+   "justinus"
+  ],
+  "sallust-florus-velleius-watson": [
+   "florus",
+   "velleius",
+   "paterculus"
+  ],
+  "florus-forster-nepos-rolfe": [
+   "florus"
+  ],
+  "justin-codrington-1688": [
+   "justin",
+   "justinus"
+  ],
+  "velleius-shipley-res-gestae": [
+   "velleius",
+   "paterculus"
+  ]
+ },
+ "_rights_checked": {
+  "velleius-shipley-res-gestae": "Imprint read: 'First printed 1924, Reprinted 1955, 1961' (OCR '3924'); reprinted, not revised; no year after 1930 elsewhere in the file. Taken as the 1924 text, US public domain."
  }
 }

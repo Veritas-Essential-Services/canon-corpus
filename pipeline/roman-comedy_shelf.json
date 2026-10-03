@@ -99,7 +99,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "plautus",
+   "author_seen": "terence",
    "translator_claimed": "Henry T. Riley",
    "translator_in_text": true,
    "identity": "ok",
@@ -111,7 +111,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "plautus",
+   "author_seen": "terence",
    "translator_claimed": "George Colman",
    "translator_in_text": true,
    "identity": "ok",
@@ -123,7 +123,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "plautus",
+   "author_seen": "terence",
    "translator_claimed": "W. R. Goodluck",
    "translator_in_text": true,
    "identity": "ok",
@@ -186,7 +186,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "plautus",
+   "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
    "translator_in_text": true,
    "identity": "ok",
@@ -199,7 +199,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "plautus",
+   "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
    "translator_in_text": true,
    "identity": "ok",
@@ -212,5 +212,42 @@
  "_rights_checked": {},
  "_held": {
   "plautus-nixon-v3": "held back on rights, not fetched: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA plautus03plau: Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)"
+ },
+ "_surname_by_slug": {
+  "plautus-riley-captivi-mostellaria": [
+   "plautus"
+  ],
+  "terence-riley-comedies": [
+   "terence",
+   "terentius"
+  ],
+  "terence-colman-comedies": [
+   "terence",
+   "terentius"
+  ],
+  "terence-goodluck-andrian": [
+   "terence",
+   "terentius"
+  ],
+  "plautus-nixon-v1": [
+   "plautus"
+  ],
+  "plautus-riley-comedies-v1": [
+   "plautus"
+  ],
+  "plautus-riley-comedies-v2": [
+   "plautus"
+  ],
+  "plautus-nixon-v2": [
+   "plautus"
+  ],
+  "terence-sargeaunt-v1": [
+   "terence",
+   "terentius"
+  ],
+  "terence-sargeaunt-v2": [
+   "terence",
+   "terentius"
+  ]
  }
 }

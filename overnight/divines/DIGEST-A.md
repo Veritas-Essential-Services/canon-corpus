@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:32 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:12 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -139,12 +139,56 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | John Wesley | john-wesley_shelf.json | 4 CCEL (Sermons, Notes on the Bible, Christian Perfection, Journal in Parker's abridgement) | 10 (Works, New York: Harper 1826-30, complete) | none | hymns and poems (hymn manifest); the 1958-65 reprints and the Bicentennial Edition (in copyright). **Flag:** CCEL's Journal was transcribed from a 1951 Moody reprint of Parker's 1903 abridgement; CCEL marks it Public Domain |
+| Richard Hooker | richard-hooker_shelf.json | 1 CCEL (Learned Discourse of Justification) | 3 (Works, ed. Keble, Oxford 1836, complete, with the Laws of Ecclesiastical Polity) | none | CCEL's three stub volumes; the Folger edition (in copyright); school editions with modern notes |
+| Jeremy Taylor | jeremy-taylor_shelf.json | 2 CCEL (Holy Living, Holy Dying) | 10 (Whole Works, ed. Heber, rev. Eden, London: Longman, 1847-54, complete) | none | modern selections and editions with in-copyright notes |
+| Lancelot Andrewes | lancelot-andrewes_shelf.json | 1 CCEL (Preces Privatae, the Greek Devotions, tr. Newman) | 6 (Ninety-Six Sermons, Oxford 1841-43, 5 vols; Pattern of Catechistical Doctrine, 1846) | the Latin Devotions (Neale), not yet found | modern editions with in-copyright notes |
+| Joseph Butler | joseph-butler_shelf.json | 2 CCEL (Analogy of Religion; Fifteen Sermons at the Rolls Chapel) | 2 (Works, ed. W. E. Gladstone, Oxford 1896) | none | Gladstone's Studies Subsidiary (commentary, not Butler) |
+| Thomas Fuller | thomas-fuller_shelf.json | 2 CCEL (Good Thoughts in Bad Times; David's Heinous Sin, verse) | 4 (Church History of Britain, Tegg 1837, 3 vols; Holy State and Profane State, 1840) | none | Brewer's 1845 Church History (another edition); the Worthies of England (not looked for yet) |
+| John Donne | john-donne_shelf.json | 3 CCEL (Devotions upon Emergent Occasions; Death's Duel; Easter sermon to the Lords) | 6 (Works, ed. Henry Alford, London 1839) | none | CCEL's "Spital" sermon (a 6 KB fragment); modern editions of the poems and sermons (in copyright) |
+| Thomas Traherne | thomas-traherne_shelf.json | 1 CCEL (Centuries of Meditations, first printed 1908) | 1 (Poetical Works, ed. Dobell, 1903) | Christian Ethicks 1675 (79.8% OCR, long s) | a Toronto 1903 scan holding half the text |
+| John Henry Newman | john-henry-newman_shelf.json | 1 CCEL (Dream of Gerontius, verse) + 5 PG (Apologia, Development, Grammar of Assent, Idea of a University, Historical Sketches vol. 1) | 8 (Parochial and Plain Sermons, Longmans 1891) | none | Tracts for the Times (several authors); the novels; Hymni Ecclesiae; a later anthology. **Veto point:** Newman became a Roman Catholic in 1845; the sermons are his Anglican preaching, most of the Gutenberg titles are Catholic-period works |
+| George Herbert | george-herbert_shelf.json | 1 CCEL (A Priest to the Temple, or The Country Parson) | 3 (English Works, ed. G. H. Palmer, Boston 1905; vol. 1 a 1915 printing; the poems of The Temple are vols 2-3) | none | Grosart's 1874 Complete Works (another edition); CCEL's priesttemple stub. The Temple is verse: whether it belongs on the hymn/verse side is your call |
+| Thomas Ken | thomas-ken_shelf.json | none | 3 (Prose Works, ed. Round, 1838; Manual of Prayers for Winchester, 1857; Christian Year, hymns and poems, 1868) | none | Benham's 1872 Prose Works; the 1721 Works (long s). The Christian Year is verse at 84% OCR (two scans scored alike) |
+| Joseph Hall | joseph-hall_shelf.json | none | 9 (Works, ed. Philip Wynter, Oxford 1863, vols 1-9) | vol. 10 (no true scan found yet; the one labelled vol. 10 is vol. 7) | Pratt's 1808 and Talboys' 1837 editions |
+| Isaac Barrow | isaac-barrow_shelf.json | none | 9 (Theological Works, ed. Alexander Napier, Cambridge 1859, complete) | none | the Oxford 1830 and Valpy 1830-31 editions; the mathematical works (out of scope) |
+| Henry Martyn | henry-martyn_shelf.json | none | 3 (Journals and Letters, ed. Wilberforce, 1837, 2 vols; Sermons, Boston 1822) | none | Sargent's memoir (by another hand); the 1851 one-volume abridgement; his Urdu and Persian New Testaments (out of scope) |
+
+## Round 9: my picks, also for your veto
+
+Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (Poole, Trapp) and the 18th- and 19th-century evangelicals, British and American, with a few Anglican standards (Pearson, Paley, South, Beveridge). Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| James Hervey | james-hervey_shelf.json | none | 1 (Whole Works in one volume, Edinburgh 1834: Meditations and Contemplations, Theron and Aspasio, letters) | none | the 1804 and 1825 six-volume sets (same works) |
+| Henry Venn | henry-venn_shelf.json | none | 1 (The Complete Duty of Man, New York 1838) | none | earlier printings with long s |
+| John Fletcher of Madeley | john-fletcher_shelf.json | none | 4 (Works, New York, 4 vols; catalogued 1833, imprints Carlton and Porter / Carlton and Lanahan, undated) | none | the 1826 and 1836 English sets; the Posthumous Works (1824) |
+| Robert Hall | robert-hall_shelf.json | none | 7 (Works, ed. Olinthus Gregory, London: Bohn, 6 vols; Miscellaneous Works and Remains; catalogued 1846) | none | the 1831-33 Holdsworth and Ball set; Harper's New York editions |
+| Edward Payson | edward-payson_shelf.json | none | 3 (Complete Works, Philadelphia 1851) | none | none |
+| Cotton Mather | cotton-mather_shelf.json | none | 3 (Magnalia Christi Americana, Hartford: Andrus, 2 vols, copyright 1852, copies printed 1868 and 1858; Essays to Do Good, Boston 1808) | none | **Veto point:** The Wonders of the Invisible World (PG 28513), his defence of the Salem witch trials, bundled with Increase Mather's Cases of Conscience; left off for your call |
+| John Pearson | john-pearson_shelf.json | none | 1 (An Exposition of the Creed, with Walford's analysis, London: Bell; catalogued 1902) | none | Burton's 1857 Oxford edition and earlier printings |
+| William Paley | william-paley_shelf.json | 2 CCEL (Evidences of Christianity; Natural Theology with notes) | 1 (Works, Philadelphia: Crissy and Markley, one vol., catalogued 1853: adds Horae Paulinae, Moral and Political Philosophy, sermons) | none | none |
+| Robert South | robert-south_shelf.json | none | 7 (Sermons Preached upon Several Occasions, Oxford: Clarendon Press, 1823, complete) | none | Tegg's 1843 London and the 1844 Philadelphia editions |
+| Thomas Scott | thomas-scott_shelf.json | none | 1 (Essays on the Most Important Subjects in Religion, with The Force of Truth, Edinburgh 1825) | none | the Family Bible commentary (not looked for yet) |
+| William Beveridge | william-beveridge_shelf.json | none | 12 (Theological Works, Library of Anglo-Catholic Theology, Oxford 1842-48; vols 11-12 Latin) | none | none |
+| W. G. T. Shedd | w-g-t-shedd_shelf.json | none | 5 (Dogmatic Theology, Scribner 1888, 2 vols + supplementary vol. 3, 1894; History of Christian Doctrine, 2 vols, copyright 1863) | none | a 2013 upload of unknown source |
+| Matthew Poole | none | none | none | all: Annotations upon the Holy Bible (IA holds only the 1683-1700 folios, long s in double columns, and one volume of an 1861 printing) | none |
+| John Trapp | none | none | none | all: the Commentary (the only scan is catalogued 1865 but is the 1958 Sovereign Grace reprint) | none |
+
+## Round 10: my picks, also for your veto
+
+Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical scholars and commentators whose Greek and English bear directly on the Word Hoard (Lightfoot, Westcott, Trench, Alford, Eadie, the Alexanders, Barnes, Stuart), with some Victorian preachers. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| J. B. Lightfoot | j-b-lightfoot_shelf.json | 1 CCEL (The Apostolic Fathers, his translation) + 3 PG (Colossians and Philemon; Essays on Supernatural Religion; Sermons) | 2 (Galatians, Macmillan 1890; Philippians, 1898) | none | CCEL's "From the Talmud and Hebraica" (John Lightfoot, 1602-75, another man) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
 - CCEL serves no text for several titles it lists (Bonar: Follow the Lamb, How Shall I Go to God, Winners of Souls; Ryle: The Two Bears). Held from IA where possible.
 - Summa: three treatise-opening questions lack a QUESTION heading in the Gutenberg text; the Supplement is not a row in adler_shelf.json.
+- CCEL keys some texts from late reprints, which its DC.Rights line never says; `fetch_shelf.py` now records the `<printSourceInfo>` edition for every CCEL item it checks and notes any from 1930 or later. Found so far on lane A: **Bunyan's Miscellaneous Pieces from the Clarendon Press edition of 1976** (a modern critical edition; moved to `_pending`, Gutenberg 3613 kept), Calvin's Treatise on Relics from a 2008 Prometheus reprint, 25 Owen titles from the Banner of Truth reprints of 1965-68 (of Goold's 1850-53 edition), Wesley's Journal from Moody 1951, Lightfoot's Apostolic Fathers from Baker 1956. The old text under a reprint is public domain; whether the reprint added anything is for a person to check before republishing.
+- The IA date gate trusts the catalogue, and a catalogue can date a reprint by its source: the only Trapp Commentary scan says 1865 and is a 1958 reprint by its own front matter. It was caught by reading the title page, not by the gate. Several shelves label a year as "catalogued" where the title page prints none.
 
 ## Decisions that are yours
 - **CCEL's non-commercial request** applies to all 198 CCEL items on lane A's 37 shelves (Spurgeon's 70 among them). Each one's DC.Rights line and CCEL's copyright comment are now recorded in its shelf's `_checks`, and every built book carries `redistribute_whole: false` with `ruling: pending (Adam)` until you say otherwise. Rule on it once for all.

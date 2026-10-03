@@ -125,7 +125,7 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The King over the Water (1907), with Alice Shield | have-raw | IA `kingoverwater00shieuoft`, `lang-king-over-the-water` |
 | The Story of the Golden Fleece (1903) | have-raw | IA `storyofgoldenfle00lang`, `lang-story-of-the-golden-fleece` |
 | New and Old Letters to Dead Authors (1907) | have-raw | IA `newandoldletters00languoft`, `lang-new-and-old-letters-dead-authors` |
-| Devil-Dancers, Witch-Finders, Rain-Makers, and Medicine-Men (1896) | have-raw | IA `devildancerswitc00lang`, `lang-devil-dancers` |
+| Devil-Dancers, Witch-Finders, Rain-Makers, and Medicine-Men (1896) | held (not his: "compiled from Lang, Caldwell, Conway, Tylor, … and others") | IA `devildancerswitc00lang` |
 | The Politics of Aristotle: Introductory Essays (1886) | have-raw | IA `politicsofaristo00langrich`, `lang-politics-of-aristotle-essays` |
 | The Dead Leman, and Other Tales from the French (1889), tr. Lang & Paul Sylvester | have-raw | IA `deadlemanotherta00langiala`, `lang-dead-leman` |
 | The Miracles of Madame Saint Katherine of Fierbois (1897), tr. Lang | have-raw | IA `MiraclesOfMadameStKatherineOfFierbois`, `lang-miracles-st-katherine` |
@@ -795,14 +795,15 @@ Shelf: `pipeline/dasent_shelf.json` (2026-10-02; added at the coordinator's rela
 | dasent-njal-duplicate | excluded | The Story of Burnt Njal (PG 597, 1995 e-text by Douglas Killings): an older transcription of the same translation; the header does not name Dasent as translator. PG 17919 is held instead |
 | dasent-orkneyingers | excluded | The Orkneyingers' Saga (Rolls Series, 1894): no usable scan found on this pass |
 
-## W. R. S. Ralston (Russian tales)
+## W. R. S. Ralston (Russian and Tibetan tales)
 
-Shelf: `pipeline/ralston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ralston's translation with his commentary, cut Chapter > tale (51 tales, as his Contents lists them); footnote marks on tale titles are stripped from the citation through a new opt-in 'strip' on convert_nested.py levels. Ten ids carry ~2: the Contents prints each chapter's summary under the same heading as the chapter's opening. Not in the manifest; no uids minted.
+Shelf: `pipeline/ralston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Russian Fairy Tales (1873), and Tibetan Tales (1906), Ralston's English of Schiefner's German from the Kah-gyur, cut by numbered tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
-| Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873) | have | PG 22373, `ralston-russian-fairy-tales` (3465 units) |
-| ralston-other-translations | excluded | Turgenev's Liza (PG 12194) and Schiefner's Tibetan Tales (PG 66870), both tr. Ralston: outside the relay's ask (Russian tales); Tibetan Tales would suit a later folk-tale batch |
+| Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873) | have | PG 22373, `ralston-russian-fairy-tales` (3485 units) |
+| Tibetan Tales, Derived from Indian Sources, tr. Ralston from Schiefner's German (1906) | have | PG 66870, `ralston-tibetan-tales` (1848 units) |
+| ralston-other-translations | excluded | Turgenev's Liza (PG 12194), tr. Ralston: outside the relay's ask (Russian tales) |
 | ralston-commentary-only | excluded | Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only |
 
 ## Charles Perrault (English translations before 1929)
@@ -857,7 +858,7 @@ Shelf: `pipeline/beowulf_shelf.json` (2026-10-02; added at the coordinator's rel
 
 | Work | Status | Where |
 |---|---|---|
-| Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892) | have | PG 16328, `beowulf-hall` (1402 units) |
+| Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892) | held on main | PG 16328 is slug `beowulf` in fetch_sources.py; not fetched twice (was `beowulf-hall`) |
 | The Tale of Beowulf, tr. William Morris and A. J. Wyatt (1895) | have | PG 20431, `beowulf-morris-wyatt` (212 units) |
 | The Story of Beowulf, tr. Ernest J. B. Kirtlan (1914) | have | PG 50742, `beowulf-kirtlan` (366 units) |
 | Beowulf, tr. Francis B. Gummere (1910) | have | PG 981, `beowulf-gummere` (201 units) |
@@ -1268,11 +1269,16 @@ Shelf: `pipeline/grace-james_shelf.json` (2026-10-02; added at the coordinator's
 
 ## William Elliot Griffis
 
-Shelf: `pipeline/griffis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Japanese wonder-tales retold, cut by his own Contents. Not in the manifest; no uids minted.
+Shelf: `pipeline/griffis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales from Japan, the Netherlands, Wales, Switzerland, Korea and Belgium, retold in his own English, cut by tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880) | have | PG 29337, `griffis-japanese-fairy-world` (741 units) |
+| Dutch Fairy Tales for Young Folks | have | PG 7871, `griffis-dutch-fairy-tales` (694 units) |
+| Welsh Fairy Tales | have | PG 9368, `griffis-welsh-fairy-tales` (1081 units) |
+| Swiss Fairy Tales | have | PG 69739, `griffis-swiss-fairy-tales` (856 units) |
+| Korean Fairy Tales | have | PG 67180, `griffis-korean-fairy-tales` (772 units) |
+| Belgian Fairy Tales | have | PG 67256, `griffis-belgian-fairy-tales` (939 units) |
 
 ## Elphinstone Dayrell
 
@@ -2089,6 +2095,223 @@ Shelf: `pipeline/stratton-porter_shelf.json` (2026-10-02; added at the coordinat
 | stratton-porter-second-transcriptions | excluded | PG 26220 (A Girl of the Limberlost), 26465 (The Harvester) and 26582 (Michael O'Halloran) have no plain-text file at Gutenberg (404); the plain-text transcriptions 125, 349 and 9489 are held. |
 | stratton-porter-moths-of-the-limberlost | excluded | PG 4907, natural history, not story-telling; left out |
 | stratton-porter-wild-heart | excluded | PG 77766, The Wild Heart (1922), is by Emma-Lindsay Squier; Stratton-Porter only wrote its introduction (title page and Gutenberg header). Not hers; left out. |
+
+## Giambattista Basile, tr. John Edward Taylor
+
+Shelf: `pipeline/basile_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Neapolitan fairy tales of the 1630s (Cinderella's and Rapunzel's early cousins) in Taylor's translation, as selected by E. F. Strange. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Stories from the Pentamerone | have | PG 2198, `basile-stories-from-the-pentamerone` (683 units) |
+
+## Giovanni Francesco Straparola, tr. W. G. Waters
+
+Shelf: `pipeline/straparola_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Italian Renaissance tales told over thirteen nights, where several fairy-tale types first appear in print; some are bawdy. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Nights of Straparola, volume 1 | have | PG 75257, `straparola-nights-vol-1` (795 units) |
+
+## Gesta Romanorum, tr. Charles Swan
+
+Shelf: `pipeline/gesta-romanorum_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The medieval Latin collection of tales with morals that Chaucer, Gower and Shakespeare drew on. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales from the Gesta Romanorum | have | PG 58655, `gesta-romanorum-tales` (1470 units) |
+
+## Ellen C. Babbitt
+
+Shelf: `pipeline/babbitt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Buddhist birth stories retold for young children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jataka Tales | have | PG 62514, `babbitt-jataka-tales` (464 units) |
+| More Jataka Tales | have | PG 7518, `babbitt-more-jataka-tales` (429 units) |
+
+## Abby Morton Diaz
+
+Shelf: `pipeline/abby-diaz_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her comic and fairy stories for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cats' Arabian Nights, or, King Grimalkum | have | PG 69482, `abby-diaz-cats-arabian-nights` (520 units) |
+| The Entertaining Story of King Brondé, His Lily and His Rosebud | have | PG 68833, `abby-diaz-king-bronde` (732 units) |
+| The Jimmyjohns, and Other Stories | have | PG 70939, `abby-diaz-jimmyjohns` (1589 units) |
+| The William Henry Letters | have | PG 34335, `abby-diaz-william-henry-letters` (1555 units) |
+| abby-diaz-essays | excluded | PG 6704 (A Domestic Problem) and 68812 (The Schoolmaster's Trunk) are essays, not stories; left out |
+
+## Beatrice E. Clay
+
+Shelf: `pipeline/beatrice-clay_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Arthurian and Welsh tales retold for young readers. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Stories from Le Morte D'Arthur and the Mabinogion | have | PG 15551, `beatrice-clay-stories-from-morte-darthur-and-mabinogion` (309 units) |
+
+## Emilie and Laura E. Poulsson, trs.
+
+Shelf: `pipeline/poulsson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Scandinavian children's stories by Topelius, Nyblom and others, in the Poulssons' English. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Top-of-the-World Stories for Boys and Girls | have | PG 36465, `poulsson-top-of-the-world-stories` (797 units) |
+
+## Gudrun Thorne-Thomsen
+
+Shelf: `pipeline/thorne-thomsen_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories by Jørgen Moe and Zacharias Topelius in her English. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Birch and the Star, and Other Stories | have | PG 49201, `thorne-thomsen-birch-and-the-star` (324 units) |
+
+## Charles M. Skinner
+
+Shelf: `pipeline/skinner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). American legends gathered place by place, from the Hudson to the Pacific slope, and from Puerto Rico, Hawaii and the Philippines. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of Our Own Land (complete) | have | PG 6615, `skinner-myths-and-legends-of-our-own-land` (1183 units) |
+| Myths and Legends of Our New Possessions and Protectorate | have | PG 24732, `skinner-myths-and-legends-of-our-new-possessions` (627 units) |
+| skinner-own-land-parts | excluded | PG 6606-6614, the nine parts of Myths and Legends of Our Own Land issued separately; the complete file PG 6615 is held, so the parts are held once inside it |
+
+## Richard Wilhelm, ed.; tr. Frederick H. Martens
+
+Shelf: `pipeline/wilhelm_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese fairy tales and legends, in Martens's English after Wilhelm's German. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Chinese Fairy Book | have | PG 29939, `wilhelm-chinese-fairy-book` (1526 units) |
+
+## Im Bang and Yi Ryuk, tr. James S. Gale
+
+Shelf: `pipeline/gale-korean_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Korean tales of imps, ghosts and fairies from two old Korean collections. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Korean Folk Tales | have | PG 51002, `gale-korean-korean-folk-tales` (776 units) |
+
+## Cecil Henry Bompas, tr.
+
+Shelf: `pipeline/bompas_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Santal tales collected by P. O. Bodding and written out in Santali, in Bompas's English. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folklore of the Santal Parganas | have | PG 11938, `bompas-folklore-of-the-santal-parganas` (1409 units) |
+
+## W. H. Barker and Cecilia Sinclair
+
+Shelf: `pipeline/barker-sinclair_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Anansi stories and other Gold Coast tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| West African Folk-Tales | have | PG 66923, `barker-sinclair-west-african-folk-tales` (425 units) |
+
+## Mrs. Rafy
+
+Shelf: `pipeline/rafy_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales of the Khasi Hills. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk-Tales of the Khasis | have | PG 37884, `rafy-folk-tales-of-the-khasis` (505 units) |
+
+## A. J. Gliński, tr. Maude Ashurst Biggs
+
+Shelf: `pipeline/glinski_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Polish fairy tales from Gliński's collection, with the translator's notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Polish Fairy Tales | have | PG 36668, `glinski-polish-fairy-tales` (635 units) |
+
+## Josef Baudiš, tr.
+
+Shelf: `pipeline/baudis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Czech folk tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Czech Folk Tales | have | PG 52596, `baudis-czech-folk-tales` (796 units) |
+| baudis-key-of-gold | excluded | PG 20680, The Key of Gold: 23 Czech Folk Tales, has no plain-text file at Gutenberg (404); not fetched |
+
+## Marjory Wardrop, tr.
+
+Shelf: `pipeline/wardrop_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Georgian, Mingrelian and Gurian folk tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Georgian Folk Tales | have | PG 44536, `wardrop-georgian-folk-tales` (773 units) |
+
+## W. Henry Jones and Lewis L. Kropf, trs.
+
+Shelf: `pipeline/jones-kropf_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hungarian tales from Kriza, Erdélyi, Pap and others, with the translators' long introduction and comparative notes; cut introduction > section, tales and notes > tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Folk-Tales of the Magyars | have | PG 42981, `jones-kropf-folk-tales-of-the-magyars` (3152 units) |
+
+## P. H. Emerson
+
+Shelf: `pipeline/emerson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales he took down in Anglesey in 1891-2, cut by story with numbered sections and his notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Welsh Fairy-Tales and Other Stories | have | PG 8675, `emerson-welsh-fairy-tales` (490 units) |
+
+## Thomas G. Thrum, ed.
+
+Shelf: `pipeline/thrum_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hawaiian legends gathered from several writers and translators, cut by numbered chapter and section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hawaiian Folk Tales | have | PG 18450, `thrum-hawaiian-folk-tales` (1216 units) |
+
+## Charles Sellers
+
+Shelf: `pipeline/sellers_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Spanish and Portuguese folk tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales from the Lands of Nuts and Grapes | have | PG 31481, `sellers-tales-from-the-lands-of-nuts-and-grapes` (867 units) |
+
+## Elizabeth W. Grierson
+
+Shelf: `pipeline/grierson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Scottish fairy tales retold, with a glossary. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scottish Fairy Book | have | PG 37532, `grierson-scottish-fairy-book` (1661 units) |
+
+## Mrs. A. W. Hall, tr.
+
+Shelf: `pipeline/angus-hall_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Icelandic fairy tales, cut by tale and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Icelandic Fairy Tales | have | PG 67085, `angus-hall-icelandic-fairy-tales` (1386 units) |
+
+## W. F. O'Connor, tr.
+
+Shelf: `pipeline/oconnor_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tibetan tales he collected and translated, with verses from Tibetan love-songs. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk Tales from Tibet | have | PG 75000, `oconnor-folk-tales-from-tibet` (827 units) |
+
+## Nellie N. Russell
+
+Shelf: `pipeline/russell_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese folklore and stories, with memorial pieces gathered by the compiler, Mary H. Porter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Gleanings from Chinese Folklore | have | PG 75089, `russell-gleanings-from-chinese-folklore` (471 units) |
+
+## Anna Jameson
+
+Shelf: `pipeline/jameson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' and Marian legends told through the pictures made of them; cut by part, section and saint or subject. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sacred and Legendary Art, volume 1 | have | PG 69581, `jameson-sacred-and-legendary-art-1` (1911 units) |
+| Legends of the Madonna as Represented in the Fine Arts | have | PG 12047, `jameson-legends-of-the-madonna` (1575 units) |
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

@@ -1,0 +1,47 @@
+{
+ "_about": "Polish Fairy Tales (1920), from A. J. Gliński's collection (1862), translated by Maude Ashurst Biggs. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. J. Gliński; tr. Maude Ashurst Biggs",
+ "_name_words": [
+  "gli"
+ ],
+ "_surname": [
+  "biggs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "glinski-polish-fairy-tales": [
+   36668,
+   "Polish Fairy Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:THE FROG PRINCESS|PRINCESS MIRANDA AND PRINCE HERO|THE EAGLES|THE WHIRLWIND|THE GOOD FERRYMAN AND THE WATER NYMPHS|THE PRINCESS OF THE BRAZEN MOUNTAIN|THE BEAR IN THE FOREST HUT|APPENDIX)\\.?$"
+     },
+     {
+      "re": "NOTE [IVX]+$",
+      "title_next": true
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "glinski-polish-fairy-tales": "Biggs"
+ },
+ "_checks": {
+  "glinski-polish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "biggs",
+   "translator_claimed": "Biggs",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maude Ashurst Biggs",
+   "translator_match": true
+  }
+ }
+}

@@ -107,6 +107,11 @@
    "cyropaediaorinst00xeno",
    "Cyropaedia, or the Institution of Cyrus (London: Vernor and Hood, 1803)",
    "tr. Maurice Ashley"
+  ],
+  "xenophon-several-hands-minor-works-1813": [
+   "minorworksofxeno00xenouoft",
+   "The Minor Works of Xenophon: Memoirs of Socrates, The Banquet, Hiero, Economics, translated from the Greek by several hands (London: Walker and others, 1813)",
+   "tr. several hands: the Banquet by James Welwood, the Economics by R. Bradley; the Memoirs and Hiero unnamed in the volume"
   ]
  },
  "_excluded": {
@@ -396,6 +401,17 @@
    "ia_date": "1803",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "xenophon-several-hands-minor-works-1813": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "perseus": {
@@ -621,5 +637,8 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
+ },
+ "_translator_unchecked": {
+  "xenophon-several-hands-minor-works-1813": "'by several hands': the volume names James Welwood (Banquet) and R. Bradley (Economics) on their section titles; the Memoirs of Socrates and Hiero carry no translator's name (the Memoirs is usually attributed to Sarah Fielding, not verified here), so no single claim is made"
  }
 }

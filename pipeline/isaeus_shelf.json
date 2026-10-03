@@ -1,0 +1,39 @@
+{
+ "_about": "Isaeus (4th c. BC), the speeches, in English. Lane B (classical translations).",
+ "_name_words": [
+  "isaeus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "isaeus-jones-1779": [
+   "speechesofisaeus00isae",
+   "The Speeches of Isaeus in Causes concerning the Law of Succession to Property at Athens (London, 1779)",
+   "tr. William Jones"
+  ]
+ },
+ "_surname": [
+  "isaeus",
+  "isæus",
+  "ifaeus"
+ ],
+ "_surname_note": "'ifaeus' is how the 1779 long-s printing ('Iſaeus') comes out of OCR: 25 times in the Jones text",
+ "_translators": {
+  "isaeus-jones-1779": "William Jones"
+ },
+ "_checks": {
+  "isaeus-jones-1779": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ifaeus",
+   "translator_claimed": "William Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1779",
+   "ia_date": "1779",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

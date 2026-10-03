@@ -1,0 +1,106 @@
+{
+ "_about": "TRANSLATOR SHELF: two Bowrings, translator recorded per title. Sir John Bowring (1792-1872): Chamisso's Peter Schlemihl (1824). His son Edgar Alfred Bowring (1826-1911): Goethe's Poems in the original metres (1853) and Heine's Poems, complete (1859). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "bowring"
+ ],
+ "_surname": [
+  "bowring"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bowring-schlemihl": [
+   21943,
+   "Peter Schlemihl"
+  ],
+  "bowring-goethe-poems": [
+   1287,
+   "The Poems of Goethe, Translated in the Original Metres"
+  ],
+  "bowring-heine-poems": [
+   52882,
+   "The poems of Heine; Complete"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bowring-peter-schlemihl": {
+   "source": "bowring-schlemihl",
+   "of": "Chamisso",
+   "work": "Peter Schlemihl",
+   "translated": 1824,
+   "translator": "John Bowring",
+   "scan_edition": "Project Gutenberg 21943 (clean text)"
+  },
+  "bowring-goethe-poems": {
+   "source": "bowring-goethe-poems",
+   "of": "Goethe",
+   "work": "Poems, in the original metres",
+   "translated": 1853,
+   "translator": "Edgar Alfred Bowring",
+   "scan_edition": "Project Gutenberg 1287 (clean text)"
+  },
+  "bowring-heine-poems": {
+   "source": "bowring-heine-poems",
+   "of": "Heine",
+   "work": "Poems, complete",
+   "translated": 1859,
+   "translator": "Edgar Alfred Bowring",
+   "scan_edition": "Project Gutenberg 52882 (clean text)"
+  }
+ },
+ "_pending": {
+  "john-bowring-anthologies": "Sir John Bowring's Specimens of the Russian Poets (1821-23), Servian Popular Poetry (1827), Poetry of the Magyars (1830): on IA; not fetched this run."
+ },
+ "_excluded": {},
+ "_manual_fetch": {
+  "bowring-heine-poems": "Gutenberg has no cache/epub/52882/pg52882.txt (404), the only URL fetch_shelf.py builds. Fetched by hand from https://www.gutenberg.org/ebooks/52882.txt.utf-8 into data/corpus/bowring/bowring-heine-poems.txt; fetch_shelf then keeps it."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bowring-schlemihl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-goethe-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Alfred Bowring"
+  },
+  "bowring-heine-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Alfred Bowring"
+  }
+ },
+ "_verified": {
+  "bowring-schlemihl": {
+   "pg": 21943,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-goethe-poems": {
+   "pg": 1287,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Alfred Bowring"
+  },
+  "bowring-heine-poems": {
+   "pg": 52882,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Alfred Bowring"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

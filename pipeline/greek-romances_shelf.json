@@ -20,6 +20,21 @@
    "thiopianromanc00heliuoft",
    "Heliodorus, An Aethiopian Romance (Broadway Translations; 1923 per the catalogue)",
    "tr. Thomas Underdowne (1587), revised and partly rewritten by F. A. Wright"
+  ],
+  "chariton-1764-v1": [
+   "loveschrcasandc01chargoog",
+   "The Loves of Chaereas and Callirrhoe, written originally in Greek by Chariton of Aphrodisios, vol. 1 (London: Becket and De Hondt, 1764)",
+   "tr. unnamed ('made by two young persons', per the dedication)"
+  ],
+  "chariton-1764-v2": [
+   "loveschrcasandc00chargoog",
+   "The Loves of Chaereas and Callirrhoe, vol. 2: Books V-VIII (London: Becket and De Hondt, 1764)",
+   "tr. unnamed ('made by two young persons', per the dedication in vol. 1)"
+  ],
+  "xenophon-ephesius-1727": [
+   "gpl_1772898",
+   "Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727)",
+   "tr. unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here"
   ]
  },
  "_surname": [
@@ -60,6 +75,65 @@
    "ia_date": "1923",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "chariton-1764-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chariton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chariton-1764-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chariton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "xenophon-ephesius-1727": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "xenophon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
+ },
+ "_translator_unchecked": {
+  "chariton-1764-v1": "the title page and dedication name no translator ('made by two young persons')",
+  "chariton-1764-v2": "no translator named in the edition (vol. 1's dedication: 'made by two young persons')",
+  "xenophon-ephesius-1727": "the title page OCR loses the name ('By Mr. ...'); attributed elsewhere to John Rooke, not verified here"
+ },
+ "_excluded": {
+  "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan",
+  "Aristaenetus, Love Epistles (Halhed and Sheridan, 1771)": "PD; the ECCO scan reads at 0.54 clean words. Refused for OCR quality on 2026-10-03; wanted from a cleaner scan"
+ },
+ "_surname_by_slug": {
+  "greek-romances-smith": [
+   "heliodorus"
+  ],
+  "heliodorus-underdowne-wright": [
+   "heliodorus"
+  ],
+  "chariton-1764-v1": [
+   "chariton"
+  ],
+  "chariton-1764-v2": [
+   "chariton"
+  ],
+  "xenophon-ephesius-1727": [
+   "xenophon"
+  ]
  }
 }

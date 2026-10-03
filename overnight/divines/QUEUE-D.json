@@ -1101,6 +1101,230 @@
       "started": "2026-10-02T21:23:39-05:00",
       "finished": "2026-10-02T21:23:56-05:00",
       "notes": "11/11 fetched (Gutenberg 111, 125, 286, 349, 532, 533, 9489, 3722, 904, 59823, 35188), 23,021 units, 1 ~2 ids."
+    },
+    {
+      "id": "basile",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: basile; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:01-05:00",
+      "notes": "1/1 fetched (Gutenberg 2198), 683 units, 0 ~2 ids."
+    },
+    {
+      "id": "straparola",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: straparola; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:04-05:00",
+      "notes": "1/1 fetched (Gutenberg 75257), 795 units, 0 ~2 ids."
+    },
+    {
+      "id": "gesta-romanorum",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: gesta-romanorum; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:06-05:00",
+      "notes": "1/1 fetched (Gutenberg 58655), 1,470 units, 0 ~2 ids."
+    },
+    {
+      "id": "babbitt",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: babbitt; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:08-05:00",
+      "notes": "2/2 fetched (Gutenberg 62514, 7518), 893 units, 0 ~2 ids."
+    },
+    {
+      "id": "abby-diaz",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: abby-diaz; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:11-05:00",
+      "notes": "4/4 fetched (Gutenberg 69482, 68833, 70939, 34335), 4,396 units, 0 ~2 ids."
+    },
+    {
+      "id": "beatrice-clay",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: beatrice-clay; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:13-05:00",
+      "notes": "1/1 fetched (Gutenberg 15551), 309 units, 0 ~2 ids."
+    },
+    {
+      "id": "poulsson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: poulsson; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:16-05:00",
+      "notes": "1/1 fetched (Gutenberg 36465), 797 units, 0 ~2 ids."
+    },
+    {
+      "id": "thorne-thomsen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: thorne-thomsen; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:18-05:00",
+      "notes": "1/1 fetched (Gutenberg 49201), 324 units, 0 ~2 ids."
+    },
+    {
+      "id": "skinner",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: skinner; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:55:11-05:00",
+      "notes": "2/2 fetched (Gutenberg 6615, 24732), 1,810 units, 0 ~2 ids."
+    },
+    {
+      "id": "wilhelm",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: wilhelm; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:55:58-05:00",
+      "notes": "1/1 fetched (Gutenberg 29939), 1,526 units, 0 ~2 ids."
+    },
+    {
+      "id": "gale-korean",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: gale-korean; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:56:42-05:00",
+      "notes": "1/1 fetched (Gutenberg 51002), 776 units, 0 ~2 ids."
+    },
+    {
+      "id": "bompas",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: bompas; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:57:30-05:00",
+      "notes": "1/1 fetched (Gutenberg 11938), 1,409 units, 1 ~2 ids."
+    },
+    {
+      "id": "barker-sinclair",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: barker-sinclair; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:58:14-05:00",
+      "notes": "1/1 fetched (Gutenberg 66923), 425 units, 0 ~2 ids."
+    },
+    {
+      "id": "rafy",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: rafy; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:58:58-05:00",
+      "notes": "1/1 fetched (Gutenberg 37884), 505 units, 0 ~2 ids."
+    },
+    {
+      "id": "glinski",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: glinski; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:59:48-05:00",
+      "notes": "1/1 fetched (Gutenberg 36668), 635 units, 0 ~2 ids."
+    },
+    {
+      "id": "baudis",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: baudis; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T22:00:39-05:00",
+      "notes": "1/1 fetched (Gutenberg 52596), 796 units, 0 ~2 ids."
+    },
+    {
+      "id": "wardrop",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: wardrop; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T22:01:25-05:00",
+      "notes": "1/1 fetched (Gutenberg 44536), 773 units, 0 ~2 ids."
+    },
+    {
+      "id": "jones-kropf",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: jones-kropf; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-02T22:16:39-05:00",
+      "notes": "1/1 fetched (Gutenberg 42981), 3,152 units, 0 ~2 ids."
+    },
+    {
+      "id": "emerson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: emerson; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-02T22:17:26-05:00",
+      "notes": "1/1 fetched (Gutenberg 8675), 490 units, 0 ~2 ids."
+    },
+    {
+      "id": "thrum",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: thrum; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-02T22:18:12-05:00",
+      "notes": "1/1 fetched (Gutenberg 18450), 1,216 units, 0 ~2 ids."
+    },
+    {
+      "id": "sellers",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: sellers; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-02T22:18:57-05:00",
+      "notes": "1/1 fetched (Gutenberg 31481), 867 units, 0 ~2 ids."
+    },
+    {
+      "id": "grierson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: grierson; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-02T22:19:44-05:00",
+      "notes": "1/1 fetched (Gutenberg 37532), 1,661 units, 0 ~2 ids."
+    },
+    {
+      "id": "angus-hall",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: angus-hall; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:41:13-05:00",
+      "notes": "1/1 fetched (Gutenberg 67085), 1,386 units, 0 ~2 ids."
+    },
+    {
+      "id": "oconnor",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: oconnor; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:42:07-05:00",
+      "notes": "1/1 fetched (Gutenberg 75000), 827 units, 0 ~2 ids."
+    },
+    {
+      "id": "russell",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: russell; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:42:57-05:00",
+      "notes": "1/1 fetched (Gutenberg 75089), 471 units, 0 ~2 ids."
+    },
+    {
+      "id": "jameson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: jameson; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:43:47-05:00",
+      "notes": "2/2 fetched (Gutenberg 69581, 12047), 3,486 units, 0 ~2 ids."
+    },
+    {
+      "id": "griffis-b21",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: griffis-b21; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:44:50-05:00",
+      "notes": "5/5 fetched (Gutenberg 7871, 9368, 69739, 67180, 67256), 4,342 units, 0 ~2 ids."
+    },
+    {
+      "id": "ralston-tibetan",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: ralston-tibetan; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-03T00:45:46-05:00",
+      "notes": "1/1 fetched (Gutenberg 66870), 1,848 units, 0 ~2 ids."
     }
   ]
 }

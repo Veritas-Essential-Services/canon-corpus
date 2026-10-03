@@ -13,7 +13,13 @@
    "tr. Thomas Taylor"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "pythagoreans-taylor-political-fragments-1822": [
+   "politicalfragmen00taylrich",
+   "Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822)",
+   "tr. Thomas Taylor"
+  ]
+ },
  "_surname": [
   "ocellus",
   "pythagoras",
@@ -23,7 +29,8 @@
   "archytas"
  ],
  "_translators": {
-  "ocellus-taylor": "Thomas Taylor"
+  "ocellus-taylor": "Thomas Taylor",
+  "pythagoreans-taylor-political-fragments-1822": "Thomas Taylor"
  },
  "_checks": {
   "ocellus-taylor": {
@@ -37,6 +44,30 @@
    "pg_copyrighted": false,
    "pg_translator": "Thomas Taylor",
    "translator_match": true
+  },
+  "pythagoreans-taylor-political-fragments-1822": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archytas",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "ocellus-taylor": [
+   "ocellus"
+  ],
+  "pythagoreans-taylor-political-fragments-1822": [
+   "archytas",
+   "charondas",
+   "zaleucus",
+   "pythagoreans"
+  ]
  }
 }

@@ -88,6 +88,56 @@
    "englishworksofth0010hobb_d2j3",
    "The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth)",
    "tr. Thomas Hobbes"
+  ],
+  "homer-morris-odyssey-1887": [
+   "odysseyofhomer00homeuoft",
+   "The Odyssey of Homer done into English Verse (London: Reeves & Turner, 1887)",
+   "tr. William Morris"
+  ],
+  "homer-palmer-odyssey-1891": [
+   "odysseyhomer02palmgoog",
+   "The Odyssey of Homer, translated into English prose (preface dated Cambridge, February 1891)",
+   "tr. George Herbert Palmer"
+  ],
+  "homer-worsley-odyssey-1861-v1": [
+   "odysseyhomer04worsgoog",
+   "The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1861)",
+   "tr. Philip Stanhope Worsley"
+  ],
+  "homer-worsley-odyssey-1862-v2": [
+   "odysseyhomer01worsgoog",
+   "The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1862)",
+   "tr. Philip Stanhope Worsley"
+  ],
+  "homer-way-odyssey-1904": [
+   "odysseyofhomerin00homerich",
+   "The Odyssey of Homer in English Verse, third edition (Macmillan, 1904)",
+   "tr. Arthur S. Way"
+  ],
+  "homer-newman-iliad-1856": [
+   "iliadhomerfaith00newmgoog",
+   "The Iliad of Homer faithfully translated into unrhymed English metre (London: Walton and Maberly, 1856; the title-page date OCRs poorly)",
+   "tr. Francis William Newman"
+  ],
+  "homer-worsley-iliad-1865-v1": [
+   "iliadhomertrans00conigoog",
+   "The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1865) (identity: title page read, 'The Iliad of Homer translated into English verse in the Spenserian stanza by Philip Stanhope Worsley ... vol. I, books I-XII'; IA files it under Conington, who finished vol. II, hence the ...conigoog id)",
+   "tr. Philip Stanhope Worsley"
+  ],
+  "homer-conington-iliad-1868-v2": [
+   "iliadhomertrans01conigoog",
+   "The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1868)",
+   "tr. John Conington"
+  ],
+  "homer-way-iliad-1886-v1": [
+   "iliadhomer01home",
+   "The Iliad of Homer done into English Verse, vol. I, books I-XII (Sampson Low, 1886) (identity: title page read, 'The Iliad of Homer done into English Verse ... vol. I, books I-XII', headmaster of Wesley College, Melbourne, Sampson Low 1886; the name is OCR'd as 'oie RS.) WAY', and vol. II names Arthur S. Way cleanly)",
+   "tr. Arthur S. Way"
+  ],
+  "homer-way-iliad-1888-v2": [
+   "iliaddoneintoen02homegoog",
+   "The Iliad of Homer done into English Verse, vol. II, books XIII-XXIV (Sampson Low, 1888)",
+   "tr. Arthur S. Way"
   ]
  },
  "_cross_ref": {
@@ -138,11 +188,21 @@
   "homer-bryant-odyssey-v1": "William Cullen Bryant",
   "homer-hobbes-iliad-odyssey": "Thomas Hobbes",
   "homer-perseus-murray-iliad": "Augustus Taber Murray",
-  "homer-perseus-murray-odyssey": "Augustus Taber Murray"
+  "homer-perseus-murray-odyssey": "Augustus Taber Murray",
+  "homer-morris-odyssey-1887": "William Morris",
+  "homer-palmer-odyssey-1891": "George Herbert Palmer",
+  "homer-worsley-odyssey-1861-v1": "Philip Stanhope Worsley",
+  "homer-worsley-odyssey-1862-v2": "Philip Stanhope Worsley",
+  "homer-way-odyssey-1904": "Arthur S. Way",
+  "homer-newman-iliad-1856": "F. W. Newman",
+  "homer-worsley-iliad-1865-v1": "Philip Stanhope Worsley",
+  "homer-conington-iliad-1868-v2": "John Conington",
+  "homer-way-iliad-1888-v2": "Arthur S. Way"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "homer-norgate-iliad": "attributed by the catalogue; the text names Norgate only in a publisher's notice"
+  "homer-norgate-iliad": "attributed by the catalogue; the text names Norgate only in a publisher's notice",
+  "homer-way-iliad-1886-v1": "title page OCRs the name as 'oie RS.) WAY, MEA.' (headmaster of Wesley College, Melbourne, as in vol. II, where 'Arthur S. Way' reads cleanly); the full name is not printed as a word in this OCR"
  },
  "_checks": {
   "homer-chapman-iliad": {
@@ -325,6 +385,134 @@
    "ia_rights": "ok: published 1839",
    "ia_date": "1839",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-morris-odyssey-1887": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "William Morris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-palmer-odyssey-1891": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "George Herbert Palmer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-worsley-odyssey-1861-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Philip Stanhope Worsley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-worsley-odyssey-1862-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Philip Stanhope Worsley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-way-odyssey-1904": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-newman-iliad-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "F. W. Newman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-worsley-iliad-1865-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Philip Stanhope Worsley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-conington-iliad-1868-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "John Conington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-way-iliad-1886-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-way-iliad-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
