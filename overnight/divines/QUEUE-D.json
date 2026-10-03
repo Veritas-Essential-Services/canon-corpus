@@ -1505,8 +1505,10 @@
     {
       "id": "ewald",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: ewald; no minting",
-      "status": "running",
-      "started": "2026-10-03T02:27:06-05:00"
+      "status": "done",
+      "started": "2026-10-03T02:27:06-05:00",
+      "finished": "2026-10-03T02:30:55-05:00",
+      "notes": "6/6 fetched (Gutenberg 31167, 31708, 65029, 62910, 62912, 40553), 4,968 units, 0 ~2 ids."
     },
     {
       "id": "elizabeth-harrison",

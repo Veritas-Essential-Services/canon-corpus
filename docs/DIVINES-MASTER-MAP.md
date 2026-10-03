@@ -7121,6 +7121,20 @@ Shelf: `pipeline/ginzberg_shelf.json` (2026-10-02; added at the coordinator's re
 | ginzberg-legends-of-the-jews-3 | excluded | Gutenberg 2881, tr. Paul Radin (catalogue 1883-1959): held for Adam, UK copyright to 2029 |
 | ginzberg-legends-of-the-jews-4 | excluded | Gutenberg 2882, tr. Paul Radin with Henrietta Szold: held for Adam with volume 3 |
 
+## Carl Ewald (tr. Teixeira de Mattos; Moore Smith)
+
+Shelf: `pipeline/ewald_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature fairy tales; cut by story and numbered section, or by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Willow Tree, and Other Stories | have | PG 31167, `ewald-old-willow-tree` (1075 units) |
+| The Pond | have | PG 31708, `ewald-pond` (710 units) |
+| Two-Legs | have | PG 65029, `ewald-two-legs` (1086 units) |
+| The Spider, and Other Tales | have | PG 62910, `ewald-spider` (946 units) |
+| The Four Seasons | have | PG 62912, `ewald-four-seasons` (605 units) |
+| The Queen Bee, and Other Nature Stories | have | PG 40553, `ewald-queen-bee` (546 units) |
+| ewald-adult | excluded | My Little Boy (35543) and The Old Room (62883): not stories for children |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

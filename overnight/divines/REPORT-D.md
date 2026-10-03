@@ -676,3 +676,6 @@
 
 ## 2026-10-03 02:29 CDT — ginzberg: done
 - 2/2 fetched (Gutenberg 1493, 1494), 1,836 units, 0 ~2 ids.
+
+## 2026-10-03 02:30 CDT — ewald: done
+- 6/6 fetched (Gutenberg 31167, 31708, 65029, 62910, 62912, 40553), 4,968 units, 0 ~2 ids.
