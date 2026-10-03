@@ -2316,6 +2316,9 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922) | Thomas Fletcher Royds | `virgil-royds-eclogues-1922` | have-raw (IA `ecloguesbucolics00virguoft`) |
 | The Eclogues of Virgil, in English hexameter (1909) | I. Perley Smith | `virgil-smith-eclogues-1909` | have-raw (IA `ecloguesofvirgil00vi`) |
 | The Aeneid of Virgil translated into English verse (New York: W. J. Widdleton, 1867; the American edition of the London 1866 first) | John Conington | `virgil-conington-verse-aeneid-1867` | have-raw (IA `neidofvirgil00virgrich`) |
+| The Aeneid of Virgil freely translated into English blank verse (Dublin University Press Series; Dublin: Hodges, Figgis; London: Longmans, 1886) | William J. Thornhill | `virgil-thornhill-aeneid-1886` | have-raw (IA `cu31924026565683`) |
+| The Eclogues and Georgics of Virgil translated into English verse (London, 1882) | J. M. King | `virgil-king-eclogues-georgics-1882` | have-raw (IA `ecloguesandgeor00kinggoog`) |
+| The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated, IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -3089,6 +3092,18 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes of Horace, complete in English rhyme and blank verse (Lippincott, 1884) | Henry Hubbard Pierce | `horace-pierce-odes-1884` | have-raw (IA `odeshoracecompl00horagoog`) |
 | Odes, Epodes, and the Secular Song, newly translated into verse (Longmans, 1867) | Charles Stephens Mathews | `horace-mathews-odes-1867` | have-raw (IA `odesepodessecula00horauoft`) |
 | The Odes and Secular Hymn of Horace, Englished into rimed verse corresponding to the original meters (privately printed, 1917) | Warren H. Cudworth | `horace-cudworth-odes-1917` | have-raw (IA `odessecularhymn00horauoft`) |
+| The Works of Horace translated, with the life of the translator, vol. I (New York: Solomon King, 1825) | Philip Francis | `horace-francis-1825-v1` | have-raw (IA `worksofhorace01hora`) |
+| The Works of Horace translated, vol. II (New York: S. King, 1825) | Philip Francis | `horace-francis-1825-v2` | have-raw (IA `worksofhorace02hora`) |
+| The Odes of Horace (Books I and II) done into English verse, with Andromeda, Ariadne and Jason (1895) | J. Howard Deazeley | `horace-deazeley-odes-1895` | have-raw (IA `odeshoracedonei00deazgoog`) |
+| The Odes, Epodes, Carmen Seculare and the first Satire of Horace translated into English verse (London, 1867) | Christopher Hughes | `horace-hughes-1867` | have-raw (IA `odesepodescarme00hughgoog`) |
+| The Odes of Horace in English verse (London, 1876) | W. E. H. Forsyth | `horace-forsyth-odes-1876` | have-raw (IA `odeshoraceineng00flacgoog`) |
+| The Odes and Epodes of Horace translated into English verse, with introduction, notes and Latin text (G. P. Putnam's Sons, 1892) | John B. Hague | `horace-hague-1892` | have-raw (IA `odesepodesofhora00horarich`) |
+| The Odes of Horace, Books I-IV and the Saecular Hymn, translated into English verse, with Wickham's Latin text in parallel (Oxford University Press, 1912) | W. S. Marris | `horace-marris-odes-1912` | have-raw (IA `odesofhoracebook00horauoft`) |
+| Horace: Odes, Epodes and Carmen Saeculare translated into English verse (London, 1850) | G. J. Whyte Melville | `horace-whyte-melville-1850` | have-raw (IA `horaceodesepode00flacgoog`) |
+| The Odes of Horace in four books translated into English lyric verse (London: Upham and Beet, 1858) | Lord Ravensworth | `horace-ravensworth-odes-1858` | have-raw (IA `odeshoraceinfou00ravegoog`) |
+| The Odes of Horace translated into English verse with the original measures preserved, second edition: the first book (Dublin: Hodges, Smith; London: Longman, 1860) | Richard O'Brien | `horace-obrien-odes-i-1860` | have-raw (IA `odeshoracetrint00flacgoog`) |
+| The Odes of Horace in English, in the original metres (1897) | Philip E. Phelps | `horace-phelps-odes-1897` | have-raw (IA `odesofhoraceinen00horarich`) |
+| The Odes of Horace and his Secular Hymn rendered in English verse (London, 1903) | W. C. Green | `horace-green-odes-1903` | have-raw (IA `cu31924026490742`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 

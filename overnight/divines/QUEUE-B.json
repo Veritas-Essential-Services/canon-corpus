@@ -796,6 +796,14 @@
    "started": "2026-10-03T06:14:27-05:00",
    "finished": "2026-10-03T06:21:19-05:00",
    "notes": "Demosthenes: Brougham's Crown (Charles Knight 1840, the NYPL copy at OCR 0.94; the Greek-facing Toronto copy at 0.61 refused) and Sir Robert Collier's Crown (Longmans 1876); both translators unchecked because the OCR garbles the names. Virgil: Conington's verse Aeneid (New York: Widdleton 1867). Refused on OCR: Laurent's Herodotus vol. I (0.75), Simpson's Crown (0.58), every copy of Edward Murphy's Select Dialogues of Lucian (Greek facing, 0.61-0.74). Retried via storage nodes, still dark (empty metadata): Greek Tragic Theatre vol. 2 (both ids), Sotheby vol. III, Nixon Plautus vol. 2 (the id; it is held under another id)."
+  },
+  {
+   "id": "latin-gapfill-4",
+   "status": "done",
+   "scope": "Gap-fill: Horace odes, Virgil",
+   "started": "2026-10-03T06:21:19-05:00",
+   "finished": "2026-10-03T06:26:50-05:00",
+   "notes": "Horace: Francis 1825 (2 vols., New York; the old scans had been refused for OCR), Deazeley 1895, Hughes 1867, Forsyth 1876, Hague 1892, Marris 1912, Whyte Melville 1850, Ravensworth 1858, O'Brien 1860 (Book I only), Phelps 1897, W. C. Green 1903. Virgil: Thornhill's Aeneid 1886, J. M. King's Eclogues and Georgics 1882, J. B. Rose's (undated; catalogue 1866). Skipped: Conington's Odes 1865 (held from Gutenberg), the 1844 literal Odes (OCR 0.72), the Valpy 1831 Francis vol. II (the complete 1825 set taken instead)."
   }
  ]
 }

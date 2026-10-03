@@ -488,3 +488,8 @@
 - virgil: Conington's verse Aeneid (1867 American edition)
 - Refused: Laurent's Herodotus I, Simpson's Crown, Murphy's Lucian (all copies)
 - Storage-node retry: four dark items still dark
+
+## 2026-10-03 06:26 CDT — Horace and Virgil
+- horace: 11 translators (Francis, Deazeley, Hughes, Forsyth, Hague, Marris, Whyte Melville, Ravensworth, O'Brien, Phelps, Green)
+- virgil: Thornhill's Aeneid, King and Rose Eclogues and Georgics
+- Whyte Melville: identity quoted from the title page (author printed only as 'Horace')
