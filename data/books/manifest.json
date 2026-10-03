@@ -1750,8 +1750,8 @@
    "resolution": "verse",
    "honesty": "exact",
    "versification": "lxx-brenton",
-   "kjv_resolved": 22901,
-   "kjv_unresolved": 5716,
+   "kjv_resolved": 22904,
+   "kjv_unresolved": 5713,
    "kjva_keyed": 4802,
    "kjva_unkeyed": 721,
    "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
@@ -1759,7 +1759,7 @@
     "Prov.30.1"
    ],
    "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read.",
-   "kjv_map_sha256": "fec35d66d7e7d214ced04d22e74cc147c382e832c0f2bc30dd8a9848e9a7c71f"
+   "kjv_map_sha256": "30dc55ff0b4947585aa997775ec8e0fd24ec055fe18fc9a143e714cf102e3dba"
   },
   "rights": {
    "license": "public-domain",

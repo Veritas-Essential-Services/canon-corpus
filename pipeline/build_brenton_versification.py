@@ -133,6 +133,12 @@ _REVIEW = ("found in review, reading Brenton's English against the KJV's: the KJ
            "does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], "
            "which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. "
            "1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)")
+_MIGHTY = ("David's mighty men, which the Greek lists in its own order and spelling: "
+           "Brenton's 23:29 runs the KJV's 'children of Benjamin' (23:29) into 'Benaiah the "
+           "Pirathonite' (23:30, the Greek's 'the Ephrathite') and on to 23:31-32; his "
+           "23:37a-c, which the Greek adds after Zelek, are the KJV's Hiddai 'of the brooks' "
+           "(23:30), Abi-albon the Arbathite (23:31) and Naharai the Beerothite, Joab's "
+           "armourbearer (23:37). Read name by name")
 HOUSE_ROWS = {
     **{v: (es, w, _PROV24) for v, (es, w) in {
         "Prov.24.22f": (["Prov.30.1"], "My son, reverence my words"),
@@ -228,11 +234,6 @@ HOUSE_ROWS = {
         "Prov.31.26": (["Prov.31.27"], "The ways of her household"),
         "Prov.31.27": (["Prov.31.26"], "she opens her mouth wisely"),
         "Gen.35.16": (["Gen.35.16", "Gen.35.21"], "beyond the tower of Gader"),
-        # "son of Benjamin the Ephrathite" runs the KJV's "children of Benjamin"
-        # (23:29) into its "Benaiah the Pirathonite" (23:30); Brenton has no
-        # Hiddai, so 23:30 is held only in part.
-        "2Sam.23.29": (["2Sam.23.29", "2Sam.23.30", "2Sam.23.31", "2Sam.23.32"],
-                       "son of Benjamin the Ephrathite; Asmoth the Bardiamite"),
         "1Kgs.2.46b": (["1Kgs.4.21"], "they brought gifts, and served Solomon"),
         "1Kgs.2.46c": ([], "open the domains of Libanus"),
         "1Kgs.2.46d": (["1Kgs.9.18"], "built Therm"),
@@ -241,6 +242,13 @@ HOUSE_ROWS = {
         "1Kgs.2.46g": (["1Kgs.4.24", "1Kgs.4.25"], "at peace on all sides"),
         "1Kgs.2.46h": (["1Kgs.4.2", "1Kgs.4.3", "1Kgs.4.4", "1Kgs.4.5", "1Kgs.4.6"],
                        "these were the princes of Solomon"),
+    }.items()},
+    **{v: (es, w, _MIGHTY) for v, (es, w) in {
+        "2Sam.23.29": (["2Sam.23.29", "2Sam.23.30", "2Sam.23.31", "2Sam.23.32"],
+                       "son of Benjamin the Ephrathite; Asmoth the Bardiamite"),
+        "2Sam.23.37a": (["2Sam.23.30"], "Adroi of the brooks"),
+        "2Sam.23.37b": (["2Sam.23.31"], "Gadabiel son of the Arabothæite"),
+        "2Sam.23.37c": (["2Sam.23.37"], "Gelore the Bethorite, armour-bearer to Joab"),
     }.items()},
     "Jer.10.9a": (["Jer.10.5"], "They must certainly be borne",
                   "the second half of the KJV's Jer 10:5, which the Greek has after 10:9"),

@@ -119,8 +119,11 @@ check("review: Brenton's 35:16 holds the KJV's Gen 35:21; Josh 19:47-48 swapped"
       C("Gen.35.21", "brenton") == ["Gen.35.16"] and C("Josh.19.47", "brenton") == ["Josh.19.48"])
 check("review: Young's Hos 13:9 is the end of the KJV's 13:8; Darby prints no 1 John 5:7",
       C("Hos.13.8", "ylt") == ["Hos.13.8", "Hos.13.9"] and C("1John.5.7", "darby") == [])
-check("review: Brenton's 2 Sam 23:29 ('son of Benjamin the Ephrathite') reaches into the KJV's 23:30",
-      C("2Sam.23.30", "brenton") == ["2Sam.23.29"])
+check("review: Brenton's 2 Sam 23:29 reaches into the KJV's 23:30; his 23:37a-c are the KJV's "
+      "Hiddai, Abi-albon and Naharai",
+      C("2Sam.23.30", "brenton") == ["2Sam.23.29", "2Sam.23.37a"]
+      and C("2Sam.23.31", "brenton") == ["2Sam.23.29", "2Sam.23.37b"]
+      and C("2Sam.23.37", "brenton") == ["2Sam.23.37", "2Sam.23.37c"])
 readme = open(os.path.join(ROOT, "data", "parallel", "README.md"), encoding="utf-8").read()
 check("the rights note travels with the index: TVTMS named, CC BY 4.0, attributed",
       "CC BY 4.0" in readme and "TVTMS" in readme and "www.STEPBible.org" in readme

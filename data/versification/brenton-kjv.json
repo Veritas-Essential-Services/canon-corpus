@@ -32,12 +32,12 @@
   "tvtms_tests_brenton_cannot_answer": 67
  },
  "counts": {
-  "differing_brenton_verses": 4825,
+  "differing_brenton_verses": 4828,
   "to_psalm_titles": 120,
   "spanning_several_kjv_verses": 83,
-  "kjv_verses_shared_by_several_brenton_verses": 39,
-  "brenton_verses_with_no_kjv_verse": 5649,
-  "house_rows": 158
+  "kjv_verses_shared_by_several_brenton_verses": 42,
+  "brenton_verses_with_no_kjv_verse": 5646,
+  "house_rows": 161
  },
  "blocks_not_greek": {
   "$Gen.5:31--6:1": {
@@ -806,15 +806,6 @@
    ],
    "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
   },
-  "2Sam.23.29": {
-   "kjv": [
-    "2Sam.23.29",
-    "2Sam.23.30",
-    "2Sam.23.31",
-    "2Sam.23.32"
-   ],
-   "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
-  },
   "1Kgs.2.46b": {
    "kjv": [
     "1Kgs.4.21"
@@ -860,6 +851,33 @@
     "1Kgs.4.6"
    ],
    "why": "found in review, reading Brenton's English against the KJV's: the KJV verse(s) named hold this verse's text, and TVTMS's row (or its silence, the same number) does not. Ps 97/98: TVTMS's title cell for the KJV's Ps 98 reads [=Psa.98:1], which in the Greek's numbering is the KJV's Ps 99, a psalm with no title. 1 Kgs 2:46c (Lebanon) has no KJV verse; 2:46d's Thermae is the KJV's Tadmor (9:18)"
+  },
+  "2Sam.23.29": {
+   "kjv": [
+    "2Sam.23.29",
+    "2Sam.23.30",
+    "2Sam.23.31",
+    "2Sam.23.32"
+   ],
+   "why": "David's mighty men, which the Greek lists in its own order and spelling: Brenton's 23:29 runs the KJV's 'children of Benjamin' (23:29) into 'Benaiah the Pirathonite' (23:30, the Greek's 'the Ephrathite') and on to 23:31-32; his 23:37a-c, which the Greek adds after Zelek, are the KJV's Hiddai 'of the brooks' (23:30), Abi-albon the Arbathite (23:31) and Naharai the Beerothite, Joab's armourbearer (23:37). Read name by name"
+  },
+  "2Sam.23.37a": {
+   "kjv": [
+    "2Sam.23.30"
+   ],
+   "why": "David's mighty men, which the Greek lists in its own order and spelling: Brenton's 23:29 runs the KJV's 'children of Benjamin' (23:29) into 'Benaiah the Pirathonite' (23:30, the Greek's 'the Ephrathite') and on to 23:31-32; his 23:37a-c, which the Greek adds after Zelek, are the KJV's Hiddai 'of the brooks' (23:30), Abi-albon the Arbathite (23:31) and Naharai the Beerothite, Joab's armourbearer (23:37). Read name by name"
+  },
+  "2Sam.23.37b": {
+   "kjv": [
+    "2Sam.23.31"
+   ],
+   "why": "David's mighty men, which the Greek lists in its own order and spelling: Brenton's 23:29 runs the KJV's 'children of Benjamin' (23:29) into 'Benaiah the Pirathonite' (23:30, the Greek's 'the Ephrathite') and on to 23:31-32; his 23:37a-c, which the Greek adds after Zelek, are the KJV's Hiddai 'of the brooks' (23:30), Abi-albon the Arbathite (23:31) and Naharai the Beerothite, Joab's armourbearer (23:37). Read name by name"
+  },
+  "2Sam.23.37c": {
+   "kjv": [
+    "2Sam.23.37"
+   ],
+   "why": "David's mighty men, which the Greek lists in its own order and spelling: Brenton's 23:29 runs the KJV's 'children of Benjamin' (23:29) into 'Benaiah the Pirathonite' (23:30, the Greek's 'the Ephrathite') and on to 23:31-32; his 23:37a-c, which the Greek adds after Zelek, are the KJV's Hiddai 'of the brooks' (23:30), Abi-albon the Arbathite (23:31) and Naharai the Beerothite, Joab's armourbearer (23:37). Read name by name"
   },
   "Jer.10.9a": {
    "kjv": [
@@ -2354,7 +2372,6 @@
     "Josh.24.33a-33b",
     "1Sam.30.28a",
     "2Sam.5.16a",
-    "2Sam.23.37a-37c",
     "1Kgs.2.35a-35f",
     "1Kgs.2.35l-35o",
     "1Kgs.2.46l",
@@ -2405,7 +2422,7 @@
     "Prov.27.21a",
     "Prov.28.17a"
    ],
-   "count": 121,
+   "count": 118,
    "why": "a passage the Greek has here and the Hebrew does not, lettered by Brenton; the KJV has no verse for it (some such passages repeat text the KJV has elsewhere)"
   },
   {
@@ -3369,6 +3386,9 @@
    "2Sam.23.31",
    "2Sam.23.32"
   ],
+  "2Sam.23.37a": "2Sam.23.30",
+  "2Sam.23.37b": "2Sam.23.31",
+  "2Sam.23.37c": "2Sam.23.37",
   "1Kgs.2.35g": "1Kgs.9.25",
   "1Kgs.2.35h": "1Kgs.9.23",
   "1Kgs.2.35i": [
