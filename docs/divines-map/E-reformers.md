@@ -365,3 +365,19 @@ Bunyan, Gill, Andrew Fuller, Spurgeon, Toplady, Romaine and Hervey are on lane A
 | Benjamin Keach, An Exposition of the Parables (1858) | have-raw | `benjamin-keach_shelf.json`; Tropologia and Travels of True Godliness pending |
 | Tobias Crisp, Christ Alone Exalted, with Gill's notes (7th ed., 1832), vol. II | have-raw | `tobias-crisp_shelf.json`; vol. I pending on an archive server error |
 | Robert Hawker of Plymouth, Works, ed. Williams (10 vols, 1831) | have-raw | `robert-hawker_shelf.json`; the Poor Man's Commentary is published separately |
+
+## Continental Reformed divines in Elizabethan and Stuart English
+
+Calvin, Bullinger's Decades and the Zurich Letters (Parker Society), Ursinus and Zanchius are already shelved. These are the other Continental divines the English Puritans read, in the translations they read them in. All are Early English Books Online scans; where the OCR prints the long s ("Chriſtian") the title check is covered by a recorded override.
+
+| Work | Status | Where |
+|---|---|---|
+| Peter Martyr Vermigli, The Common Places, tr. Marten (1583); Commentaries on Romans (1568) and Judges (1564) | have-raw | `peter-martyr-vermigli_shelf.json` |
+| Musculus, Common Places of Christian Religion, tr. John Man (1563) | have-raw | `wolfgang-musculus_shelf.json` |
+| Beza, A Briefe and Pithie Summe of the Christian Faith (1585), The Other Parte of Christian Questions (1580), Christian Meditations upon Eight Psalmes (1583), Houshold Prayers (1603) | have-raw | `theodore-beza_shelf.json`; the first part of the Questions is pending (the scan is incomplete) |
+| Polanus, The Substance of Christian Religion (1595) | have-raw | `amandus-polanus_shelf.json`; the 1599 Treatise of Predestination is pending, its OCR never names him |
+| Wollebius, The Abridgment of Christian Divinitie, tr. Alexander Ross (3rd ed., 1660) | have-raw | `johannes-wollebius_shelf.json` |
+| Bucanus, Institutions of Christian Religion, tr. Robert Hill (1606) | have-raw | `william-bucanus_shelf.json` |
+| Olevianus, An Exposition of the Symbole of the Apostles (1581) | have-raw | `caspar-olevianus_shelf.json` |
+| Marlorat, Expositions on John (tr. Tymme, 1575), Mark and Luke (1583) and the Revelation (1574) | have-raw | `augustin-marlorat_shelf.json`; Matthew (1570) pending on an archive timeout |
+| Viret, A Christian Instruction, tr. Shute (1573); The Christian Disputations (1579) | have-raw | `pierre-viret_shelf.json` |

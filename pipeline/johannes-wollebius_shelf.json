@@ -1,0 +1,47 @@
+{
+ "_about": "Johannes Wollebius (1586-1629), professor at Basel: The Abridgment of Christian Divinitie, faithfully translated and in some places cleared and enlarged by Alexander Ross, third edition (London: T. Mabb for Joseph Nevill, 1660). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wollebius",
+  "joan. wollebius",
+  "johannes wollebius",
+  "john wollebius"
+ ],
+ "_surname": [
+  "wollebius",
+  "joan. wollebius",
+  "johannes wollebius",
+  "john wollebius"
+ ],
+ "_translators": {
+  "wollebius-abridgment-1660": "Alexander Ross"
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wollebius-abridgment-1660": [
+   "bim_early-english-books-1641-1700_the-abridgment-of-christ_wolleb-john_1660",
+   "The Abridgment of Christian Divinitie, tr. Alexander Ross, 3rd ed. (London, 1660)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "bim_early-english-books-1641-1700_compendium-theologi-_wolleb-john_1642 and the other Compendium printings": "Latin; not taken."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wollebius-abridgment-1660": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wollebius",
+   "translator_claimed": "Alexander Ross",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "_about": "Wolfgang Musculus (1497-1563), Reformer of Augsburg and professor at Bern: Common Places of Christian Religion, translated by John Man (London, 1563). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "musculus",
+  "wolfgangus musculus",
+  "wolfgang musculus"
+ ],
+ "_surname": [
+  "musculus",
+  "wolfgangus musculus",
+  "wolfgang musculus",
+  "muſculus",
+  "wolfgangus muſculus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "musculus-common-places-1563": [
+   "bim_early-english-books-1475-1640_common-places-of-christi_1563",
+   "Common Places of Christian Religion, tr. John Man (London, 1563)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_common-places-of-christi_musculus-w_1578": "The second English edition (1578)."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_musculus-wolfgang-_1544, _1564, _1565": "Latin commentaries and Loci Communes; not taken."
+ },
+ "_excluded": {},
+ "_checks": {
+  "musculus-common-places-1563": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "muſculus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1563",
+   "ia_date": "1563",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

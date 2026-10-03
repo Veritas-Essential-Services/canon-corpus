@@ -1,0 +1,107 @@
+{
+ "_about": "Theodore Beza (1519-1605), Calvin's successor at Geneva, in Elizabethan translation: A Briefe and Pithie Summe of the Christian Faith, translated by R. F. (London, 1585); The Other Parte of Christian Questions and Answeres, translated by John Field (London, 1580); Christian Meditations upon Eight Psalmes (London, 1583, dedicated to Lady Anne Bacon); and Maister Bezaes Houshold Prayers (London, 1603). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "theodore beza",
+  "theodore de beza",
+  "theodori bezae",
+  "m. beza",
+  "master beza",
+  "beza",
+  "beze",
+  "bezaes"
+ ],
+ "_surname": [
+  "theodore beza",
+  "theodore de beza",
+  "theodori bezae",
+  "m. beza",
+  "master beza",
+  "beza",
+  "beze",
+  "bezaes"
+ ],
+ "_identity_checked": {
+  "beza-summe-christian-faith-1585": {
+   "author": "The blackletter title page OCRs as 'Made by TasoD. DI BIZ A. Translated out of F[rench] by R. F.'; read as 'Made by Theod. de Beza, translated out of French by R. F.' The translator's dedication to the Earl of Huntingdon is signed 'Robert F' and says he knew the author."
+  },
+  "beza-houshold-prayers-1603": {
+   "title": "The scan prints the long s, which the OCR keeps as 'ſ', so words such as 'Chriſtian' and 'Catholike' never match the plain spelling the title check looks for. The running head, 'Maiſter Bezaes Houſhold Prayers', is on nearly every page."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beza-summe-christian-faith-1585": [
+   "bim_early-english-books-1475-1640_a-briefe-and-pithy-summe_beze-theo-de_1585",
+   "A Briefe and Pithie Summe of the Christian Faith, tr. R. F. (London, 1585)"
+  ],
+  "beza-christian-questions-2-1580": [
+   "bim_early-english-books-1475-1640_the-other-parte-of-chris_beze-theodore_1580",
+   "The Other Parte of Christian Questions and Answeres, tr. John Field (London, 1580)"
+  ],
+  "beza-meditations-eight-psalmes-1583": [
+   "bim_early-english-books-1475-1640_christian-meditations-up_beze_1583",
+   "Christian Meditations upon Eight Psalmes of the Prophet David (London, 1583)"
+  ],
+  "beza-houshold-prayers-1603": [
+   "bim_early-english-books-1475-1640_maister-bezaes-houshold-_beze-theodore-de_1603",
+   "Maister Bezaes Houshold Prayers (London, 1603)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_naister-bezas-houshold-_beze-theodore_1607": "Another printing of the Houshold Prayers."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_a-booke-of-christian-que_beze-theodore_1578 (the first part of the Christian Questions)": "The scan holds 51 pages, too few for the book; left until a complete copy is found.",
+  "bim_early-english-books-1475-1640_a-booke-of-christian-que_beze-theodore-de_1586, a-little-catechisme-tha_beze-theodore-de_1579, the-popes-canons-_beze-theodore_1584, two-very-learned-sermons_beza-theodore-de_1588, a-tragedie-of-abrahams-s_beza-theodore_1577": "Not yet title-checked.",
+  "Beza's Latin works (Confessio, Quaestiones, Jobus, the Latin New Testament)": "Latin; not taken."
+ },
+ "_excluded": {},
+ "_checks": {
+  "beza-summe-christian-faith-1585": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1585",
+   "ia_date": "1585",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beza-christian-questions-2-1580": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theodore beza",
+   "identity": "ok",
+   "ia_rights": "ok: published 1580",
+   "ia_date": "1580",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beza-meditations-eight-psalmes-1583": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theodore beza",
+   "identity": "ok",
+   "ia_rights": "ok: published 1583",
+   "ia_date": "1583",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beza-houshold-prayers-1603": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bezaes",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1603",
+   "ia_date": "1603",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
