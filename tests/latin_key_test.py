@@ -224,6 +224,10 @@ ok(forms["absque"]["resolved"] == {"whole-word": forms["absque"]["tokens"]}, "ev
 ok(forms["septimo"]["ls"] == ["septimus"], "septimo is septimus, the ordinal, not septem")
 ok(forms["caelos"]["ls"] == ["caelum2"], "caelos is caelum2 (heaven): the pointer caelus, 'v. caelum', is followed")
 ok(forms["humiliter"]["ls"] == ["humiliter"], "humiliter: a pointer to an adjective is not followed for an adverb")
+ok(all(r["ls"] == [r["headword"]] for r in wl if r["headword"] in ("partim", "duis", "directe")),
+   "partim, duis, directe: a pointer to an entry printing no class (pars, do, dirigo) is not followed")
+ok(not any(r["status"] == "pointer" and r["pos"] == "ADV" and r["ls"][0] in ("pars", "do1", "dirigo", "res") for r in wl),
+   "no adverb is filed under a noun or verb by a pointer")
 ok("1Sam.23.9" not in str(conc["cum1"]["resolved"]), "1 Sam 23:9 Quod cum David rescisset: not cum 'with'")
 for f in sorted(B.OWN_LEMMA_STANDS):
     ok(not forms[f]["resolved"].get("rare-entry"), f"{f} is never forced off its own lemma by frequency")

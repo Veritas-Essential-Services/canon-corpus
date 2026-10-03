@@ -331,8 +331,8 @@ def link(headword, pos, by_head, by_spelling, gender=None, proper=None):
     status, keys = _link(headword, pos, by_head, by_spelling, gender, proper)
     # a lone pointer entry ("abjicio, v. abicio") is followed once, when the
     # entry it names is of this word's class: caelos is caelum, not the
-    # pointer caelus. Not when the class differs (humiliter, v. humilis: an
-    # adverb is not filed under its adjective) -- then the pointer stands.
+    # pointer caelus. Not when the class differs or is not printed (humiliter,
+    # v. humilis; partim, v. pars) -- then the pointer stands.
     if status in LINKED and len(keys) == 1:
         row = next((r for r in by_head.get(headword, []) + by_spelling.get(headword, [])
                     if r["key"] == keys[0]), None)
@@ -340,7 +340,7 @@ def link(headword, pos, by_head, by_spelling, gender=None, proper=None):
             cands = [r for r in by_head.get(row["points_to"], [])
                      if r["type"] not in SKIP_TYPES and not r["pointer"]]
             if cands:
-                fits = [r for r in cands if r["class"] in WCLASS.get(pos, set()) | {None}]
+                fits = [r for r in cands if r["class"] in WCLASS.get(pos, set())]   # a known class only
                 if len(fits) > 1:       # caelus -> caelum2 (heaven), which prints caelus; not caelum1, a chisel
                     fits = [r for r in fits if headword in r["spellings"]]
                 if len(fits) == 1:
