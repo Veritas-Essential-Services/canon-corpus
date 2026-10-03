@@ -1,0 +1,67 @@
+{
+ "slug": "catena-3john-cramer-grc",
+ "source_sha256": "229695e30c5ab462b36cde57a236b3b897106c2edd8ff3efe33f456c02100383",
+ "rp2018": {
+  "commit": "27a45ff1b7be6c17ccbfeac414f3f55732ae8e28",
+  "file": "3JO.csv"
+ },
+ "rule": {
+  "skip": 0.3,
+  "back": 0.25,
+  "gap": 0.05,
+  "jump": 0.02,
+  "fix": 0.35,
+  "fix_min": 0.6,
+  "fix_at": 0.3,
+  "lb": 0.5,
+  "short": 3
+ },
+ "honesty": "The chapter of every verse is MEASURED, not printed: of 10 numbered marks, 5 were placed at a verse by pipeline/place_catena.py (5 printed verse numbers, 0 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 5 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 5 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-1; a kephalaion with no placed mark is one unlinked unit.",
+ "placed": [
+  {
+   "ord": 0,
+   "k": "1",
+   "n": "1",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 2,
+   "k": "1",
+   "n": "3",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 3,
+   "score": 1.0
+  },
+  {
+   "ord": 5,
+   "k": "1",
+   "n": "9",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 9,
+   "score": 1.0
+  },
+  {
+   "ord": 7,
+   "k": "2",
+   "n": "12",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 12,
+   "score": 0.875
+  },
+  {
+   "ord": 9,
+   "k": "3",
+   "n": "13",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 13,
+   "score": 1.0
+  }
+ ]
+}
