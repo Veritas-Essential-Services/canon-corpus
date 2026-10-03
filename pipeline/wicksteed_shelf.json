@@ -1,0 +1,46 @@
+{
+ "_about": "TRANSLATOR SHELF: Philip H. Wicksteed (1844-1927). Dante's Paradiso (Temple Classics 1899, Italian facing English) and the Convivio (1903). PD. His Purgatorio and Inferno in the Temple series are by Okey and Carlyle-Okey, not him. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "wicksteed"
+ ],
+ "_surname": [
+  "wicksteed"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wicksteed-paradiso-1900": [
+   "paradisoofdantea00dantuoft",
+   "The Paradiso of Dante Alighieri (Temple Classics, Dent 1900)"
+  ],
+  "wicksteed-convivio-1903": [
+   "convivioofdantea00dant",
+   "The Convivio of Dante Alighieri (Dent 1903)"
+  ]
+ },
+ "titles": {
+  "wicksteed-paradiso": {
+   "source": "wicksteed-paradiso-1900",
+   "of": "Dante",
+   "work": "Paradiso (prose, Italian facing)",
+   "translated": 1899,
+   "translator": "Philip H. Wicksteed",
+   "scan_edition": "Dent 1900 reprint of the 1899 Temple Classics (Toronto copy), raw OCR with the Italian interleaved"
+  },
+  "wicksteed-convivio": {
+   "source": "wicksteed-convivio-1903",
+   "of": "Dante",
+   "work": "Convivio",
+   "translated": 1903,
+   "translator": "Philip H. Wicksteed",
+   "scan_edition": "Dent 1903 first edition (Getty copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "wicksteed-latin-works": "The Latin Works of Dante (Temple Classics 1904): Wicksteed did the letters and eclogues, A. G. Ferrers Howell the rest; translator per piece needed. Not fetched."
+ },
+ "_excluded": {
+  "six-sermons": "Dante: Six Sermons (PG 36479): Wicksteed's own work."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

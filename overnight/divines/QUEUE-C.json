@@ -304,6 +304,48 @@
    "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- nicholson; PD printings before 1931 only; no minting",
    "finished": "2026-10-02T19:53-05:00",
    "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 6. No uids minted."
+  },
+  {
+   "id": "shelf-southey",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- southey; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-coleridge",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- coleridge; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-bowring",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- bowring; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-anster",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- anster; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-hayward",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hayward; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-wicksteed",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- wicksteed; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-mangan",
+   "status": "running",
+   "started": "2026-10-03T00:45-05:00",
+   "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- mangan; PD printings before 1931 only; no minting"
   }
  ]
 }

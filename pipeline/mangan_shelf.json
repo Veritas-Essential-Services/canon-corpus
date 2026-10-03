@@ -1,0 +1,39 @@
+{
+ "_about": "TRANSLATOR SHELF: James Clarence Mangan (1803-1849). Anthologia Germanica: German Anthology (Dublin 1845, 2 vols). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "mangan"
+ ],
+ "_surname": [
+  "mangan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mangan-german-anthology-a": [
+   "anthologiagerma02manggoog",
+   "Anthologia Germanica (1845), Harvard copy a"
+  ],
+  "mangan-german-anthology-b": [
+   "anthologiagerma03manggoog",
+   "Anthologia Germanica (1845), Harvard copy b"
+  ]
+ },
+ "titles": {
+  "mangan-german-anthology": {
+   "source": [
+    "mangan-german-anthology-a",
+    "mangan-german-anthology-b"
+   ],
+   "of": "Goethe, Schiller, Uhland, Rückert and others",
+   "work": "Anthologia Germanica (German Anthology)",
+   "translated": 1845,
+   "translator": "James Clarence Mangan",
+   "scan_edition": "Curry, Dublin 1845, 2 vols (Harvard copies, Google scans), raw OCR; volume order to be confirmed"
+  }
+ },
+ "_pending": {
+  "mangan-irish": "Mangan's translations from the Irish (The Poets and Poetry of Munster, 1849): not fetched."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

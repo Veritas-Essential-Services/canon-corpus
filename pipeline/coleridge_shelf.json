@@ -1,0 +1,48 @@
+{
+ "_about": "TRANSLATOR SHELF: Samuel Taylor Coleridge (1772-1834) as translator. Schiller's Wallenstein, parts 2 and 3: The Piccolomini and The Death of Wallenstein (1800). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "coleridge"
+ ],
+ "_surname": [
+  "coleridge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "coleridge-piccolomini": [
+   6786,
+   "The Piccolomini: A Play"
+  ],
+  "coleridge-death-of-wallenstein": [
+   6787,
+   "The Death of Wallenstein"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "coleridge-piccolomini": {
+   "source": "coleridge-piccolomini",
+   "of": "Schiller",
+   "work": "The Piccolomini (Wallenstein, part 2)",
+   "translated": 1800,
+   "translator": "Samuel Taylor Coleridge",
+   "scan_edition": "Project Gutenberg 6786 (clean text)"
+  },
+  "coleridge-death-of-wallenstein": {
+   "source": "coleridge-death-of-wallenstein",
+   "of": "Schiller",
+   "work": "The Death of Wallenstein (Wallenstein, part 3)",
+   "translated": 1800,
+   "translator": "Samuel Taylor Coleridge",
+   "scan_edition": "Project Gutenberg 6787 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "wallensteins-lager": "Wallenstein's Camp (part 1) was not translated by Coleridge."
+ },
+ "_manual_fetch": {
+  "coleridge-piccolomini": "Gutenberg has no cache/epub/6786/pg6786.txt (404), the only URL fetch_shelf.py builds. Fetched by hand from https://www.gutenberg.org/ebooks/6786.txt.utf-8 into data/corpus/coleridge/coleridge-piccolomini.txt; fetch_shelf then keeps it.",
+  "coleridge-death-of-wallenstein": "Gutenberg has no cache/epub/6787/pg6787.txt (404), the only URL fetch_shelf.py builds. Fetched by hand from https://www.gutenberg.org/ebooks/6787.txt.utf-8 into data/corpus/coleridge/coleridge-death-of-wallenstein.txt; fetch_shelf then keeps it."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

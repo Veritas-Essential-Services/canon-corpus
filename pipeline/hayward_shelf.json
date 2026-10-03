@@ -1,0 +1,30 @@
+{
+ "_about": "TRANSLATOR SHELF: Abraham Hayward (1801-1884). Goethe's Faust, part 1, in prose (1833). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "hayward"
+ ],
+ "_surname": [
+  "hayward"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hayward-faust-1866": [
+   "faustdramatichay00goetuoft",
+   "Faust, a dramatic poem, tr. Hayward (Ticknor 1866)"
+  ]
+ },
+ "titles": {
+  "hayward-faust-part-1": {
+   "source": "hayward-faust-1866",
+   "of": "Goethe",
+   "work": "Faust, Part I (prose)",
+   "translated": 1833,
+   "translator": "Abraham Hayward",
+   "scan_edition": "Ticknor and Fields, Boston 1866 (Toronto copy), raw OCR"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

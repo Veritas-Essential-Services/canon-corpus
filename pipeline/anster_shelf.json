@@ -1,0 +1,32 @@
+{
+ "_about": "TRANSLATOR SHELF: John Anster (1793-1867). Goethe's Faust, part 1, in verse (1835). PD. A second witness beside Bayard Taylor's and Hayward's. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "anster"
+ ],
+ "_surname": [
+  "anster"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "anster-faust-1886": [
+   "fausttransanster00goetuoft",
+   "Faust, tr. Anster (Harper 1886)"
+  ]
+ },
+ "titles": {
+  "anster-faust-part-1": {
+   "source": "anster-faust-1886",
+   "of": "Goethe",
+   "work": "Faust, Part I (verse)",
+   "translated": 1835,
+   "translator": "John Anster",
+   "scan_edition": "Harper, New York 1886 (Toronto copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "anster-faust-part-2": "Anster's Part II (1864): not fetched this run."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}
