@@ -172,14 +172,27 @@ ENGLISH = {
                "author": "the Geneva translators (Whittingham and others)", "year": 1599,
                "sha256": "94258cf6fd486759b4b7ad2af7186b49eff2e85b595bdce89fd5e0e6c226cf0d",
                "readme": "# Geneva1599: Geneva Bible (1599) / **License:** Public Domain"},
-    "tyndale": {"file": "Tyndale.json", "title": "Tyndale's Bible (1525-1534)",
+    # Tyndale: Bible SuperSearch since 2026-10-02 (ENGLISH_BSS below). The
+    # scrollmapper file it replaces (Tyndale.json, sha256 dbd7bc4e...) held ten
+    # books only, and its 7,886 verses that BSS also has agree with BSS at a
+    # character-level ratio of 0.999 (the same transcription, BSS a little
+    # more corrected, with its empty slots filled). Its two other verses
+    # (Luke 17:36, Rev 21:26) held the next verse's words; BSS puts them in
+    # the next slot and has none for the two, as eBible's engtnt has none.
+    "tyndale": {"file": "bss-tyndale.json", "source": "bss", "module": "tyndale",
+                "title": "Tyndale's Bible (1525-1534)",
                 "author": "William Tyndale (translator)", "year": 1534,
-                "sha256": "dbd7bc4ee0ddd5d315d80899958f8e96858c71e1dbb1ec4f954bfd9f9f1cf609",
-                "readme": "# Tyndale: William Tyndale Bible (1525/1530) / **License:** Public Domain",
-                "coverage": "ten books only: Genesis, Matthew-Acts, Romans, 1 Corinthians, "
-                            "Hebrews, Revelation (the module's transcription; Tyndale's "
-                            "other New Testament books, Exodus-Deuteronomy and Jonah are "
-                            "not in it)"},
+                "sha256": "8d92615184b65c7d927060758605569b0d56ab1e170b67329f6e06f3097b63de",
+                "readme": "This Bible is in the Public Domain.",
+                "coverage": "what Tyndale translated and printed: Genesis-Deuteronomy, Jonah "
+                            "and the whole New Testament (33 books)",
+                "numbering": "Tyndale printed no verse numbers: the numbers are the "
+                             "transcription's, on the KJV's grid",
+                "rights_finding": "BSS does not name its transcription. The 16th-century "
+                                  "text is PD and a verbatim transcription carries no new US "
+                                  "copyright. eBible.org's engtnt (the 1534 NT, its "
+                                  "copr.htm: Public Domain) agrees closely: "
+                                  "docs/pending-sources.md"},
     "ylt": {"file": "YLT.json", "title": "Young's Literal Translation (1898)",
             "author": "Robert Young (translator)", "year": 1898,
             "sha256": "73c9dd9466ee24cdab7872ec956aae2a8ada2d1c92203e40caeba5a14587dcea",

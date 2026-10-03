@@ -4399,25 +4399,27 @@
  "tyndale": {
   "title": "Tyndale's Bible (1525-1534)",
   "author": "William Tyndale (translator)",
-  "format": "scrollmapper-json",
-  "sha256": "dbd7bc4ee0ddd5d315d80899958f8e96858c71e1dbb1ec4f954bfd9f9f1cf609",
-  "units": 7888,
+  "format": "biblesupersearch-json",
+  "sha256": "8d92615184b65c7d927060758605569b0d56ab1e170b67329f6e06f3097b63de",
+  "units": 13852,
   "scheme": {
-   "citation": "Book chapter:verse as the source's CrossWire module numbers it (the KJV's grid; OSIS book ids)",
+   "citation": "Book chapter:verse as the source's Bible SuperSearch module numbers it (the KJV's grid; OSIS book ids)",
    "resolution": "verse",
-   "honesty": "exact, except 7 verses holding several KJV verses (a merged last slot or the Bible's own division)",
-   "versification": "tyndale (CrossWire, KJV grid)",
-   "kjv_resolved": 7888,
+   "honesty": "exact, except 3 verses holding several KJV verses (a merged last slot or the Bible's own division)",
+   "versification": "tyndale (Bible SuperSearch, KJV grid)",
+   "kjv_resolved": 13852,
    "kjv_unresolved": 0,
-   "empty_slots_not_units": 23214,
-   "coverage": "ten books only: Genesis, Matthew-Acts, Romans, 1 Corinthians, Hebrews, Revelation (the module's transcription; Tyndale's other New Testament books, Exodus-Deuteronomy and Jonah are not in it)",
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/tyndale-kjv.json; no uids minted."
+   "empty_slots_not_units": 0,
+   "coverage": "what Tyndale translated and printed: Genesis-Deuteronomy, Jonah and the whole New Testament (33 books)",
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/tyndale-kjv.json; no uids minted.",
+   "numbering": "Tyndale printed no verse numbers: the numbers are the transcription's, on the KJV's grid"
   },
   "rights": {
    "license": "public-domain",
-   "attribution": "Tyndale's Bible (1525-1534), via scrollmapper/bible_databases (from CrossWire's SWORD module)",
-   "source_url": "https://github.com/scrollmapper/bible_databases",
-   "rights_line": "# Tyndale: William Tyndale Bible (1525/1530) / **License:** Public Domain"
+   "attribution": "Tyndale's Bible (1525-1534), via Bible SuperSearch (module 'tyndale'); the source does not name the transcription it publishes",
+   "source_url": "https://api.biblesupersearch.com/api/download?bible=tyndale&format=json",
+   "rights_line": "This Bible is in the Public Domain.",
+   "finding": "BSS does not name its transcription. The 16th-century text is PD and a verbatim transcription carries no new US copyright. eBible.org's engtnt (the 1534 NT, its copr.htm: Public Domain) agrees closely: docs/pending-sources.md"
   }
  },
  "ylt": {

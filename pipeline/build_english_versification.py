@@ -65,8 +65,6 @@ BEADS = BVV._BEADS + [(1, 4, .15)]
 
 _TAIL = ("the Bible's verse runs on into the words the KJV numbers as the next verse; read "
          "in both texts")
-_EMPTY = ("the slot before it is empty: the transcription puts both verses' words here "
-          "(old spelling hides it from the alignment; read in both texts)")
 _SHIFT18 = "Young's numbers in Genesis 18:11-14 run one ahead of the KJV's"
 _PHIL = ("Phil 1:16-17 in the order of the Greek the revisers followed: the KJV's two "
          "verses swapped")
@@ -94,8 +92,9 @@ HOUSE_ROWS = {     # {slug: {verse: ([KJV verses], words in the verse, why)}}
                       "the first words of the KJV's 13:1, which the Geneva ends chapter 12 with"),
     },
     "tyndale": {
-        "Rom.1.23": (["Rom.1.22", "Rom.1.23"], "When they couted them selves wyse", _EMPTY),
-        "1Cor.3.22": (["1Cor.3.21", "1Cor.3.22"], "Therfore let no ma reioyce in men", _EMPTY),
+        "Rom.2.11": (["Rom.2.11", "Rom.2.12"], "But whosoever hath synned with out lawe",
+                     "Tyndale's 2:11 runs on into the first half of the KJV's 2:12; read in "
+                     "both texts"),
     },
     "ylt": {
         "Gen.18.11": (["Gen.18.10"], "Sarah is hearkening at the opening of the tent",
@@ -229,7 +228,7 @@ def empty_slots(slug):
 # doubled letters single, a final -e dropped ("heauen"/"heaven" -> "heauen",
 # "fete"/"feet" -> "fet"). Only the Bibles named here read this way, so the
 # five maps built before it are unchanged.
-OLD_SPELLING = {"coverdale", "bishops"}
+OLD_SPELLING = {"coverdale", "bishops", "tyndale"}
 
 
 def _fold(w):
@@ -408,7 +407,11 @@ def compute(slug):
 
 
 HOUSE_MISSING = {    # {slug: {KJV verse: why the Bible has no verse for it}}
-    "tyndale": {"Mark.11.26": "this transcription of Tyndale has no words for it"},
+    "tyndale": {**{v: "this transcription of Tyndale has no verse for it, and eBible's "
+                      "engtnt (the 1534 New Testament) leaves it empty too"
+                   for v in ["Mark.11.26", "Luke.17.36", "Rev.21.26"]},
+                **{v: "this transcription of Tyndale has no verse for it, and the verses "
+                      "around it do not hold its words" for v in ["Exod.40.14", "Num.7.22"]}},
     "darby": {v: "Darby leaves it out of his text (a verse the oldest manuscripts lack)"
               for v in ["Matt.23.14", "Acts.8.37", "Acts.15.34"]},
     "asv": {**{v: "the ASV leaves it out of its text (a verse the oldest manuscripts lack)"
