@@ -29,6 +29,16 @@
    "argonauticsofapo00apoliala",
    "The Argonautics of Apollonius Rhodius, in four books (London, 1780)",
    "tr. Francis Fawkes (finished after his death by Henry Meen)"
+  ],
+  "apollonius-preston-1803-v1": [
+   "argonauticstrin00apolgoog",
+   "The Argonautics of Apollonius Rhodius, translated into English verse, with notes (Dublin, 1803), vol. 1 (holds all four books of the poem)",
+   "tr. William Preston"
+  ],
+  "apollonius-preston-1803-v3": [
+   "argonauticstrin01apolgoog",
+   "The Argonautics of Apollonius Rhodius, translated into English verse, with notes (Dublin, 1803), vol. 3 (notes and dissertations; vol. 2 not found on archive.org)",
+   "tr. William Preston"
   ]
  },
  "_excluded": {
@@ -41,7 +51,9 @@
   "apollonius-seaton": "seaton",
   "apollonius-way": "way",
   "apollonius-coleridge": "coleridge",
-  "apollonius-fawkes-1780": "fawkes"
+  "apollonius-fawkes-1780": "fawkes",
+  "apollonius-preston-1803-v1": "preston",
+  "apollonius-preston-1803-v3": "preston"
  },
  "_checks": {
   "apollonius-seaton": {
@@ -91,6 +103,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1780",
    "ia_date": "1780",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "apollonius-preston-1803-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius",
+   "translator_claimed": "preston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "apollonius-preston-1803-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius",
+   "translator_claimed": "preston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

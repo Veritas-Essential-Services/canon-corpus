@@ -789,6 +789,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | — | — | `dryden-persius` | cross-ref → Dryden shelf, lane C |
 | Juvenal and Persius (Loeb, 1918) | G. G. Ramsay | `juvenal-persius-ramsay` | have-raw (IA `juvenalpersiuswi00juveuoft`) |
 | The Satires of A. Persius Flaccus, with a translation and commentary (2nd ed., ed. H. Nettleship, Oxford, 1874; Latin facing) | John Conington | `persius-conington-1874` | have-raw (IA `satireswithtrans00persuoft`) |
+| The Satires of Persius, translated, with notes (London: W. Bulmer for J. Wright, 1799) | William Drummond | `persius-drummond-1799` | have-raw (IA `bim_eighteenth-century_the-satires-of-persius-t_persius_1799`) |
 
 
 ## Plautus and Terence
@@ -1089,6 +1090,8 @@ Shelf: `pipeline/apollonius_shelf.json`. Seaton, Way (Gutenberg) and Coleridge 1
 | The Tale of the Argonauts | Arthur S. Way | `apollonius-way` | have (PG 64235) |
 | The Argonautica of Apollonius Rhodius (Bell, 1889) | Edward P. Coleridge | `apollonius-coleridge` | have-raw (IA `B-001-014-458`) |
 | The Argonautics of Apollonius Rhodius, in four books (London, 1780) | Francis Fawkes (finished after his death by Henry Meen) | `apollonius-fawkes-1780` | have-raw (IA `argonauticsofapo00apoliala`) |
+| The Argonautics of Apollonius Rhodius, translated into English verse, with notes (Dublin, 1803), vol. 1 (holds all four books of the poem) | William Preston | `apollonius-preston-1803-v1` | have-raw (IA `argonauticstrin00apolgoog`) |
+| The Argonautics of Apollonius Rhodius, translated into English verse, with notes (Dublin, 1803), vol. 3 (notes and dissertations; vol. 2 not found on archive.org) | William Preston | `apollonius-preston-1803-v3` | have-raw (IA `argonauticstrin01apolgoog`) |
 
 Excluded: PG 830 (same Seaton text as PG 13977)
 
