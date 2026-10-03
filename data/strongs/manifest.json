@@ -55,7 +55,7 @@
    },
    "concordance-view.jsonl": {
     "rows": 14197,
-    "sha256": "acc8c2983b0471839cb161954e68605cb7dd0f04a306a8b24c634f5872f3a740"
+    "sha256": "083621d781eba1a8603f272ee6ce1942a293a1c214df7e4ee82aea6ad36cf92b"
    },
    "kjv-renderings.jsonl": {
     "rows": 14057,
@@ -134,7 +134,7 @@
   }
  },
  "table": {
-  "aramaic": 653,
+  "aramaic": 678,
   "greek": 5624,
   "hebrew": 8674,
   "hebrew_proper_names": 2628,
@@ -263,8 +263,14 @@
    },
    "linked": 9164,
    "no_strongs": 847,
-   "numbers_covered": 8202,
-   "numbers_shared_only": 410
+   "numbers_covered": 8262,
+   "numbers_shared_only": 374,
+   "overrides": {
+    "entries": 44,
+    "file": "data/strongs/bdb-key-overrides.jsonl",
+    "keys_dropped": 38,
+    "sha256": "f7600689908c488e2836e60d749fff4d7d5ded935c5e7a2e6dd9b5f7c93a4e05"
+   }
   },
   "lsj": {
    "beyond_1890": 3840,

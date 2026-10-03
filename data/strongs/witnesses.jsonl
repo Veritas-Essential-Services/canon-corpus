@@ -304,7 +304,7 @@
 {"strongs": "H304", "witnesses": {"bdb": ["bdb-hebrew:BDB331"], "strongs-1890": "strongs-hebrew:H304"}}
 {"strongs": "H305", "witnesses": {"bdb": ["bdb-hebrew:BDB279"], "strongs-1890": "strongs-hebrew:H305"}}
 {"strongs": "H306", "witnesses": {"bdb": ["bdb-hebrew:BDB332"], "strongs-1890": "strongs-hebrew:H306"}}
-{"strongs": "H307", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9288"], "strongs-1890": "strongs-hebrew:H307"}}
+{"strongs": "H307", "witnesses": {"bdb": ["bdb-hebrew:BDB9288"], "strongs-1890": "strongs-hebrew:H307"}}
 {"strongs": "H308", "witnesses": {"bdb": ["bdb-hebrew:BDB333"], "strongs-1890": "strongs-hebrew:H308"}}
 {"strongs": "H309", "witnesses": {"bdb": ["bdb-hebrew:BDB334"], "strongs-1890": "strongs-hebrew:H309"}}
 {"strongs": "H310", "witnesses": {"bdb": ["bdb-hebrew:BDB336", "bdb-hebrew:BDB337"], "bdb-shared": ["bdb-hebrew:BDB3524", "bdb-hebrew:BDB9289"], "strongs-1890": "strongs-hebrew:H310"}}
@@ -423,7 +423,7 @@
 {"strongs": "H423", "witnesses": {"bdb": ["bdb-hebrew:BDB472"], "strongs-1890": "strongs-hebrew:H423"}}
 {"strongs": "H424", "witnesses": {"bdb": ["bdb-hebrew:BDB207"], "strongs-1890": "strongs-hebrew:H424"}}
 {"strongs": "H425", "witnesses": {"bdb": ["bdb-hebrew:BDB208"], "strongs-1890": "strongs-hebrew:H425"}}
-{"strongs": "H426", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9300"], "strongs-1890": "strongs-hebrew:H426"}}
+{"strongs": "H426", "witnesses": {"bdb": ["bdb-hebrew:BDB9300"], "strongs-1890": "strongs-hebrew:H426"}}
 {"strongs": "H427", "witnesses": {"bdb": ["bdb-hebrew:BDB486"], "strongs-1890": "strongs-hebrew:H427"}}
 {"strongs": "H428", "witnesses": {"bdb": ["bdb-hebrew:BDB424"], "bdb-shared": ["bdb-hebrew:BDB9303"], "strongs-1890": "strongs-hebrew:H428"}}
 {"strongs": "H429", "witnesses": {"bdb": ["bdb-hebrew:BDB9301"], "strongs-1890": "strongs-hebrew:H429"}}
@@ -573,7 +573,7 @@
 {"strongs": "H573", "witnesses": {"bdb": ["bdb-hebrew:BDB544"], "strongs-1890": "strongs-hebrew:H573"}}
 {"strongs": "H574", "witnesses": {"bdb": ["bdb-hebrew:BDB9295"], "strongs-1890": "strongs-hebrew:H574"}}
 {"strongs": "H575", "witnesses": {"bdb": ["bdb-hebrew:BDB367", "bdb-hebrew:BDB570"], "strongs-1890": "strongs-hebrew:H575"}}
-{"strongs": "H576", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9312", "bdb-hebrew:BDB9313"], "strongs-1890": "strongs-hebrew:H576"}}
+{"strongs": "H576", "witnesses": {"bdb": ["bdb-hebrew:BDB9312", "bdb-hebrew:BDB9313"], "strongs-1890": "strongs-hebrew:H576"}}
 {"strongs": "H577", "witnesses": {"bdb": ["bdb-hebrew:BDB573"], "strongs-1890": "strongs-hebrew:H577"}}
 {"strongs": "H578", "witnesses": {"bdb": ["bdb-hebrew:BDB576"], "strongs-1890": "strongs-hebrew:H578"}}
 {"strongs": "H579", "witnesses": {"bdb": ["bdb-hebrew:BDB583"], "bdb-shared": ["bdb-hebrew:BDB9648"], "strongs-1890": "strongs-hebrew:H579"}}
@@ -617,7 +617,7 @@
 {"strongs": "H617", "witnesses": {"bdb": ["bdb-hebrew:BDB640"], "strongs-1890": "strongs-hebrew:H617"}}
 {"strongs": "H618", "witnesses": {"bdb": ["bdb-hebrew:BDB624"], "strongs-1890": "strongs-hebrew:H618"}}
 {"strongs": "H619", "witnesses": {"bdb": ["bdb-hebrew:BDB625"], "strongs-1890": "strongs-hebrew:H619"}}
-{"strongs": "H620", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9325"], "strongs-1890": "strongs-hebrew:H620"}}
+{"strongs": "H620", "witnesses": {"bdb": ["bdb-hebrew:BDB9325"], "strongs-1890": "strongs-hebrew:H620"}}
 {"strongs": "H621", "witnesses": {"bdb": ["bdb-hebrew:BDB626"], "strongs-1890": "strongs-hebrew:H621"}}
 {"strongs": "H622", "witnesses": {"bdb": ["bdb-hebrew:BDB627"], "strongs-1890": "strongs-hebrew:H622"}}
 {"strongs": "H623", "witnesses": {"bdb": ["bdb-hebrew:BDB629"], "strongs-1890": "strongs-hebrew:H623"}}
@@ -667,8 +667,8 @@
 {"strongs": "H667", "witnesses": {"bdb": ["bdb-hebrew:BDB6776"], "strongs-1890": "strongs-hebrew:H667"}}
 {"strongs": "H668", "witnesses": {"bdb": ["bdb-hebrew:BDB686"], "strongs-1890": "strongs-hebrew:H668"}}
 {"strongs": "H669", "witnesses": {"bdb": ["bdb-hebrew:BDB687"], "strongs-1890": "strongs-hebrew:H669"}}
-{"strongs": "H670", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9332"], "strongs-1890": "strongs-hebrew:H670"}}
-{"strongs": "H671", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9333", "bdb-hebrew:BDB9334"], "strongs-1890": "strongs-hebrew:H671"}}
+{"strongs": "H670", "witnesses": {"bdb": ["bdb-hebrew:BDB9332"], "strongs-1890": "strongs-hebrew:H670"}}
+{"strongs": "H671", "witnesses": {"bdb": ["bdb-hebrew:BDB9333", "bdb-hebrew:BDB9334"], "strongs-1890": "strongs-hebrew:H671"}}
 {"strongs": "H672", "witnesses": {"bdb": ["bdb-hebrew:BDB688"], "strongs-1890": "strongs-hebrew:H672"}}
 {"strongs": "H673", "witnesses": {"bdb": ["bdb-hebrew:BDB689"], "strongs-1890": "strongs-hebrew:H673"}}
 {"strongs": "H674", "witnesses": {"bdb": ["bdb-hebrew:BDB9335"], "strongs-1890": "strongs-hebrew:H674"}}
@@ -753,7 +753,7 @@
 {"strongs": "H753", "witnesses": {"bdb": ["bdb-hebrew:BDB756"], "strongs-1890": "strongs-hebrew:H753"}}
 {"strongs": "H754", "witnesses": {"bdb": ["bdb-hebrew:BDB9343"], "strongs-1890": "strongs-hebrew:H754"}}
 {"strongs": "H755", "witnesses": {"bdb": ["bdb-hebrew:BDB9389"], "strongs-1890": "strongs-hebrew:H755"}}
-{"strongs": "H756", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9346"], "strongs-1890": "strongs-hebrew:H756"}}
+{"strongs": "H756", "witnesses": {"bdb": ["bdb-hebrew:BDB9346"], "strongs-1890": "strongs-hebrew:H756"}}
 {"strongs": "H757", "witnesses": {"bdb": ["bdb-hebrew:BDB761"], "strongs-1890": "strongs-hebrew:H757"}}
 {"strongs": "H758", "witnesses": {"bdb": ["bdb-hebrew:BDB762"], "bdb-shared": ["bdb-hebrew:BDB4765"], "strongs-1890": "strongs-hebrew:H758"}}
 {"strongs": "H759", "witnesses": {"bdb": ["bdb-hebrew:BDB766"], "strongs-1890": "strongs-hebrew:H759"}}
@@ -804,7 +804,7 @@
 {"strongs": "H804", "witnesses": {"bdb": ["bdb-hebrew:BDB811"], "strongs-1890": "strongs-hebrew:H804"}}
 {"strongs": "H805", "witnesses": {"bdb": ["bdb-hebrew:BDB812", "bdb-hebrew:BDB813"], "strongs-1890": "strongs-hebrew:H805"}}
 {"strongs": "H806", "witnesses": {"bdb": ["bdb-hebrew:BDB8608"], "strongs-1890": "strongs-hebrew:H806"}}
-{"strongs": "H807", "witnesses": {"bdb": ["bdb-hebrew:BDB814", "bdb-hebrew:BDB893"], "strongs-1890": "strongs-hebrew:H807"}}
+{"strongs": "H807", "witnesses": {"bdb": ["bdb-hebrew:BDB814"], "strongs-1890": "strongs-hebrew:H807"}}
 {"strongs": "H808", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB848"], "strongs-1890": "strongs-hebrew:H808"}}
 {"strongs": "H809", "witnesses": {"bdb": ["bdb-hebrew:BDB848"], "strongs-1890": "strongs-hebrew:H809"}}
 {"strongs": "H810", "witnesses": {"bdb": ["bdb-hebrew:BDB815"], "strongs-1890": "strongs-hebrew:H810"}}
@@ -884,7 +884,7 @@
 {"strongs": "H884", "witnesses": {"bdb": ["bdb-hebrew:BDB877"], "bdb-shared": ["bdb-hebrew:BDB8433"], "strongs-1890": "strongs-hebrew:H884"}}
 {"strongs": "H885", "witnesses": {"bdb": ["bdb-hebrew:BDB882"], "bdb-shared": ["bdb-hebrew:BDB6328"], "strongs-1890": "strongs-hebrew:H885"}}
 {"strongs": "H886", "witnesses": {"bdb": ["bdb-hebrew:BDB881"], "strongs-1890": "strongs-hebrew:H886"}}
-{"strongs": "H887", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9359"], "strongs-1890": "strongs-hebrew:H887"}}
+{"strongs": "H887", "witnesses": {"bdb": ["bdb-hebrew:BDB893"], "bdb-shared": ["bdb-hebrew:BDB9359"], "strongs-1890": "strongs-hebrew:H887"}}
 {"strongs": "H888", "witnesses": {"bdb": ["bdb-hebrew:BDB9359"], "bdb-shared": ["bdb-hebrew:BDB9553"], "strongs-1890": "strongs-hebrew:H888"}}
 {"strongs": "H889", "witnesses": {"bdb": ["bdb-hebrew:BDB894"], "strongs-1890": "strongs-hebrew:H889"}}
 {"strongs": "H890", "witnesses": {"bdb": ["bdb-hebrew:BDB895"], "strongs-1890": "strongs-hebrew:H890"}}
@@ -893,7 +893,7 @@
 {"strongs": "H893", "witnesses": {"bdb": ["bdb-hebrew:BDB898"], "strongs-1890": "strongs-hebrew:H893"}}
 {"strongs": "H894", "witnesses": {"bdb": ["bdb-hebrew:BDB899"], "bdb-shared": ["bdb-hebrew:BDB9361"], "strongs-1890": "strongs-hebrew:H894"}}
 {"strongs": "H895", "witnesses": {"bdb": ["bdb-hebrew:BDB9361"], "strongs-1890": "strongs-hebrew:H895"}}
-{"strongs": "H896", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9362"], "strongs-1890": "strongs-hebrew:H896"}}
+{"strongs": "H896", "witnesses": {"bdb": ["bdb-hebrew:BDB9362"], "strongs-1890": "strongs-hebrew:H896"}}
 {"strongs": "H897", "witnesses": {"bdb": ["bdb-hebrew:BDB900"], "bdb-shared": ["bdb-hebrew:BDB989"], "strongs-1890": "strongs-hebrew:H897"}}
 {"strongs": "H898", "witnesses": {"bdb": ["bdb-hebrew:BDB901"], "strongs-1890": "strongs-hebrew:H898"}}
 {"strongs": "H899", "witnesses": {"bdb": ["bdb-hebrew:BDB902", "bdb-hebrew:BDB905"], "strongs-1890": "strongs-hebrew:H899"}}
@@ -1578,9 +1578,9 @@
 {"strongs": "H1578", "witnesses": {"bdb": ["bdb-hebrew:BDB1682"], "strongs-1890": "strongs-hebrew:H1578"}}
 {"strongs": "H1579", "witnesses": {"bdb": ["bdb-hebrew:BDB1678"], "strongs-1890": "strongs-hebrew:H1579"}}
 {"strongs": "H1580", "witnesses": {"bdb": ["bdb-hebrew:BDB1679"], "strongs-1890": "strongs-hebrew:H1580"}}
-{"strongs": "H1581", "witnesses": {"bdb": ["bdb-hebrew:BDB1684"], "strongs-1890": "strongs-hebrew:H1581"}}
+{"strongs": "H1581", "witnesses": {"strongs-1890": "strongs-hebrew:H1581"}}
 {"strongs": "H1582", "witnesses": {"bdb": ["bdb-hebrew:BDB1686"], "strongs-1890": "strongs-hebrew:H1582"}}
-{"strongs": "H1583", "witnesses": {"bdb": ["bdb-hebrew:BDB1683"], "strongs-1890": "strongs-hebrew:H1583"}}
+{"strongs": "H1583", "witnesses": {"bdb": ["bdb-hebrew:BDB1684"], "strongs-1890": "strongs-hebrew:H1583"}}
 {"strongs": "H1584", "witnesses": {"bdb": ["bdb-hebrew:BDB1692"], "bdb-shared": ["bdb-hebrew:BDB9417"], "strongs-1890": "strongs-hebrew:H1584"}}
 {"strongs": "H1585", "witnesses": {"bdb": ["bdb-hebrew:BDB9417"], "strongs-1890": "strongs-hebrew:H1585"}}
 {"strongs": "H1586", "witnesses": {"bdb": ["bdb-hebrew:BDB1693"], "strongs-1890": "strongs-hebrew:H1586"}}
@@ -1720,7 +1720,7 @@
 {"strongs": "H1720", "witnesses": {"bdb": ["bdb-hebrew:BDB1852"], "strongs-1890": "strongs-hebrew:H1720"}}
 {"strongs": "H1721", "witnesses": {"bdb": ["bdb-hebrew:BDB1853", "bdb-hebrew:BDB7774"], "bdb-shared": ["bdb-hebrew:BDB7773"], "strongs-1890": "strongs-hebrew:H1721"}}
 {"strongs": "H1722", "witnesses": {"bdb": ["bdb-hebrew:BDB9429"], "strongs-1890": "strongs-hebrew:H1722"}}
-{"strongs": "H1723", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9430"], "strongs-1890": "strongs-hebrew:H1723"}}
+{"strongs": "H1723", "witnesses": {"bdb": ["bdb-hebrew:BDB9430"], "strongs-1890": "strongs-hebrew:H1723"}}
 {"strongs": "H1724", "witnesses": {"bdb": ["bdb-hebrew:BDB1854"], "strongs-1890": "strongs-hebrew:H1724"}}
 {"strongs": "H1725", "witnesses": {"bdb": ["bdb-hebrew:BDB1855"], "strongs-1890": "strongs-hebrew:H1725"}}
 {"strongs": "H1726", "witnesses": {"bdb": ["bdb-hebrew:BDB1856"], "strongs-1890": "strongs-hebrew:H1726"}}
@@ -1743,9 +1743,9 @@
 {"strongs": "H1743", "witnesses": {"bdb": ["bdb-hebrew:BDB1877"], "strongs-1890": "strongs-hebrew:H1743"}}
 {"strongs": "H1744", "witnesses": {"bdb": ["bdb-hebrew:BDB1879"], "strongs-1890": "strongs-hebrew:H1744"}}
 {"strongs": "H1745", "witnesses": {"bdb": ["bdb-hebrew:BDB1881"], "strongs-1890": "strongs-hebrew:H1745"}}
-{"strongs": "H1746", "witnesses": {"strongs-1890": "strongs-hebrew:H1746"}}
+{"strongs": "H1746", "witnesses": {"bdb": ["bdb-hebrew:BDB1882"], "strongs-1890": "strongs-hebrew:H1746"}}
 {"strongs": "H1747", "witnesses": {"bdb": ["bdb-hebrew:BDB1883"], "strongs-1890": "strongs-hebrew:H1747"}}
-{"strongs": "H1748", "witnesses": {"bdb": ["bdb-hebrew:BDB1882", "bdb-hebrew:BDB1884"], "strongs-1890": "strongs-hebrew:H1748"}}
+{"strongs": "H1748", "witnesses": {"bdb": ["bdb-hebrew:BDB1884"], "strongs-1890": "strongs-hebrew:H1748"}}
 {"strongs": "H1749", "witnesses": {"bdb": ["bdb-hebrew:BDB1983"], "strongs-1890": "strongs-hebrew:H1749"}}
 {"strongs": "H1750", "witnesses": {"bdb": ["bdb-hebrew:BDB1887"], "strongs-1890": "strongs-hebrew:H1750"}}
 {"strongs": "H1751", "witnesses": {"bdb": ["bdb-hebrew:BDB9455"], "strongs-1890": "strongs-hebrew:H1751"}}
@@ -1754,7 +1754,7 @@
 {"strongs": "H1754", "witnesses": {"bdb": ["bdb-hebrew:BDB1891", "bdb-hebrew:BDB3922"], "strongs-1890": "strongs-hebrew:H1754"}}
 {"strongs": "H1755", "witnesses": {"bdb": ["bdb-hebrew:BDB1892"], "bdb-shared": ["bdb-hebrew:BDB9432"], "strongs-1890": "strongs-hebrew:H1755"}}
 {"strongs": "H1756", "witnesses": {"bdb": ["bdb-hebrew:BDB1800", "bdb-hebrew:BDB1893"], "strongs-1890": "strongs-hebrew:H1756"}}
-{"strongs": "H1757", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9436"], "strongs-1890": "strongs-hebrew:H1757"}}
+{"strongs": "H1757", "witnesses": {"bdb": ["bdb-hebrew:BDB9436"], "strongs-1890": "strongs-hebrew:H1757"}}
 {"strongs": "H1758", "witnesses": {"bdb": ["bdb-hebrew:BDB1895"], "strongs-1890": "strongs-hebrew:H1758"}}
 {"strongs": "H1759", "witnesses": {"bdb": ["bdb-hebrew:BDB9437"], "strongs-1890": "strongs-hebrew:H1759"}}
 {"strongs": "H1760", "witnesses": {"bdb": ["bdb-hebrew:BDB1901", "bdb-hebrew:BDB1904"], "bdb-shared": ["bdb-hebrew:BDB9438"], "strongs-1890": "strongs-hebrew:H1760"}}
@@ -1781,7 +1781,7 @@
 {"strongs": "H1781", "witnesses": {"bdb": ["bdb-hebrew:BDB1920"], "strongs-1890": "strongs-hebrew:H1781"}}
 {"strongs": "H1782", "witnesses": {"bdb": ["bdb-hebrew:BDB9443"], "strongs-1890": "strongs-hebrew:H1782"}}
 {"strongs": "H1783", "witnesses": {"bdb": ["bdb-hebrew:BDB1917"], "strongs-1890": "strongs-hebrew:H1783"}}
-{"strongs": "H1784", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9446"], "strongs-1890": "strongs-hebrew:H1784"}}
+{"strongs": "H1784", "witnesses": {"bdb": ["bdb-hebrew:BDB9446"], "strongs-1890": "strongs-hebrew:H1784"}}
 {"strongs": "H1785", "witnesses": {"bdb": ["bdb-hebrew:BDB1889"], "strongs-1890": "strongs-hebrew:H1785"}}
 {"strongs": "H1786", "witnesses": {"bdb": ["bdb-hebrew:BDB1896"], "strongs-1890": "strongs-hebrew:H1786"}}
 {"strongs": "H1787", "witnesses": {"bdb": ["bdb-hebrew:BDB1899"], "strongs-1890": "strongs-hebrew:H1787"}}
@@ -1838,7 +1838,7 @@
 {"strongs": "H1838", "witnesses": {"bdb": ["bdb-hebrew:BDB1985"], "strongs-1890": "strongs-hebrew:H1838"}}
 {"strongs": "H1839", "witnesses": {"bdb": ["bdb-hebrew:BDB1919"], "strongs-1890": "strongs-hebrew:H1839"}}
 {"strongs": "H1840", "witnesses": {"bdb": ["bdb-hebrew:BDB1921"], "strongs-1890": "strongs-hebrew:H1840"}}
-{"strongs": "H1841", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9445"], "strongs-1890": "strongs-hebrew:H1841"}}
+{"strongs": "H1841", "witnesses": {"bdb": ["bdb-hebrew:BDB9445"], "strongs-1890": "strongs-hebrew:H1841"}}
 {"strongs": "H1842", "witnesses": {"bdb": ["bdb-hebrew:BDB3626"], "bdb-shared": ["bdb-hebrew:BDB1918"], "strongs-1890": "strongs-hebrew:H1842"}}
 {"strongs": "H1843", "witnesses": {"bdb": ["bdb-hebrew:BDB3456"], "strongs-1890": "strongs-hebrew:H1843"}}
 {"strongs": "H1844", "witnesses": {"bdb": ["bdb-hebrew:BDB3457"], "strongs-1890": "strongs-hebrew:H1844"}}
@@ -2060,7 +2060,7 @@
 {"strongs": "H2060", "witnesses": {"bdb": ["bdb-hebrew:BDB2259"], "strongs-1890": "strongs-hebrew:H2060"}}
 {"strongs": "H2061", "witnesses": {"bdb": ["bdb-hebrew:BDB2262"], "strongs-1890": "strongs-hebrew:H2061"}}
 {"strongs": "H2062", "witnesses": {"bdb": ["bdb-hebrew:BDB2263"], "strongs-1890": "strongs-hebrew:H2062"}}
-{"strongs": "H2063", "witnesses": {"bdb": ["bdb-hebrew:BDB2264", "bdb-hebrew:BDB2289"], "strongs-1890": "strongs-hebrew:H2063"}}
+{"strongs": "H2063", "witnesses": {"bdb": ["bdb-hebrew:BDB2264"], "bdb-shared": ["bdb-hebrew:BDB2289"], "strongs-1890": "strongs-hebrew:H2063"}}
 {"strongs": "H2064", "witnesses": {"bdb": ["bdb-hebrew:BDB2268"], "strongs-1890": "strongs-hebrew:H2064"}}
 {"strongs": "H2065", "witnesses": {"bdb": ["bdb-hebrew:BDB2269"], "strongs-1890": "strongs-hebrew:H2065"}}
 {"strongs": "H2066", "witnesses": {"bdb": ["bdb-hebrew:BDB2270"], "strongs-1890": "strongs-hebrew:H2066"}}
@@ -2085,7 +2085,7 @@
 {"strongs": "H2085", "witnesses": {"bdb": ["bdb-hebrew:BDB2288"], "strongs-1890": "strongs-hebrew:H2085"}}
 {"strongs": "H2086", "witnesses": {"bdb": ["bdb-hebrew:BDB2338"], "strongs-1890": "strongs-hebrew:H2086"}}
 {"strongs": "H2087", "witnesses": {"bdb": ["bdb-hebrew:BDB2339"], "strongs-1890": "strongs-hebrew:H2087"}}
-{"strongs": "H2088", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB6199", "bdb-hebrew:BDB9422", "bdb-hebrew:BDB9440"], "strongs-1890": "strongs-hebrew:H2088"}}
+{"strongs": "H2088", "witnesses": {"bdb": ["bdb-hebrew:BDB2289"], "bdb-shared": ["bdb-hebrew:BDB6199", "bdb-hebrew:BDB9422", "bdb-hebrew:BDB9440"], "strongs-1890": "strongs-hebrew:H2088"}}
 {"strongs": "H2089", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB8172"], "strongs-1890": "strongs-hebrew:H2089"}}
 {"strongs": "H2090", "witnesses": {"bdb": ["bdb-hebrew:BDB2290"], "bdb-shared": ["bdb-hebrew:BDB9422"], "strongs-1890": "strongs-hebrew:H2090"}}
 {"strongs": "H2091", "witnesses": {"bdb": ["bdb-hebrew:BDB2294"], "bdb-shared": ["bdb-hebrew:BDB9429"], "strongs-1890": "strongs-hebrew:H2091"}}
@@ -2111,7 +2111,7 @@
 {"strongs": "H2111", "witnesses": {"bdb": ["bdb-hebrew:BDB2322"], "bdb-shared": ["bdb-hebrew:BDB9486"], "strongs-1890": "strongs-hebrew:H2111"}}
 {"strongs": "H2112", "witnesses": {"bdb": ["bdb-hebrew:BDB9486"], "strongs-1890": "strongs-hebrew:H2112"}}
 {"strongs": "H2113", "witnesses": {"bdb": ["bdb-hebrew:BDB2323"], "strongs-1890": "strongs-hebrew:H2113"}}
-{"strongs": "H2114", "witnesses": {"bdb": ["bdb-hebrew:BDB2326", "bdb-hebrew:BDB2327", "bdb-hebrew:BDB2328"], "strongs-1890": "strongs-hebrew:H2114"}}
+{"strongs": "H2114", "witnesses": {"bdb": ["bdb-hebrew:BDB2326", "bdb-hebrew:BDB2327"], "strongs-1890": "strongs-hebrew:H2114"}}
 {"strongs": "H2115", "witnesses": {"bdb": ["bdb-hebrew:BDB2329"], "strongs-1890": "strongs-hebrew:H2115"}}
 {"strongs": "H2116", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB2329"], "strongs-1890": "strongs-hebrew:H2116"}}
 {"strongs": "H2117", "witnesses": {"bdb": ["bdb-hebrew:BDB2310"], "strongs-1890": "strongs-hebrew:H2117"}}
@@ -2211,7 +2211,7 @@
 {"strongs": "H2211", "witnesses": {"bdb": ["bdb-hebrew:BDB9498"], "strongs-1890": "strongs-hebrew:H2211"}}
 {"strongs": "H2212", "witnesses": {"bdb": ["bdb-hebrew:BDB2439", "bdb-hebrew:BDB2440"], "strongs-1890": "strongs-hebrew:H2212"}}
 {"strongs": "H2213", "witnesses": {"bdb": ["bdb-hebrew:BDB2330"], "strongs-1890": "strongs-hebrew:H2213"}}
-{"strongs": "H2214", "witnesses": {"strongs-1890": "strongs-hebrew:H2214"}}
+{"strongs": "H2214", "witnesses": {"bdb": ["bdb-hebrew:BDB2328"], "strongs-1890": "strongs-hebrew:H2214"}}
 {"strongs": "H2215", "witnesses": {"bdb": ["bdb-hebrew:BDB2443"], "strongs-1890": "strongs-hebrew:H2215"}}
 {"strongs": "H2216", "witnesses": {"bdb": ["bdb-hebrew:BDB2444"], "bdb-shared": ["bdb-hebrew:BDB9499"], "strongs-1890": "strongs-hebrew:H2216"}}
 {"strongs": "H2217", "witnesses": {"bdb": ["bdb-hebrew:BDB9499"], "strongs-1890": "strongs-hebrew:H2217"}}
@@ -2295,7 +2295,7 @@
 {"strongs": "H2295", "witnesses": {"bdb": ["bdb-hebrew:BDB2549"], "strongs-1890": "strongs-hebrew:H2295"}}
 {"strongs": "H2296", "witnesses": {"bdb": ["bdb-hebrew:BDB2550"], "strongs-1890": "strongs-hebrew:H2296"}}
 {"strongs": "H2297", "witnesses": {"bdb": ["bdb-hebrew:BDB283", "bdb-hebrew:BDB2555"], "strongs-1890": "strongs-hebrew:H2297"}}
-{"strongs": "H2298", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9603"], "strongs-1890": "strongs-hebrew:H2298"}}
+{"strongs": "H2298", "witnesses": {"bdb": ["bdb-hebrew:BDB9285"], "bdb-shared": ["bdb-hebrew:BDB9603"], "strongs-1890": "strongs-hebrew:H2298"}}
 {"strongs": "H2299", "witnesses": {"bdb": ["bdb-hebrew:BDB2556", "bdb-hebrew:BDB2558"], "strongs-1890": "strongs-hebrew:H2299"}}
 {"strongs": "H2300", "witnesses": {"bdb": ["bdb-hebrew:BDB2557", "bdb-hebrew:BDB2562"], "strongs-1890": "strongs-hebrew:H2300"}}
 {"strongs": "H2301", "witnesses": {"bdb": ["bdb-hebrew:BDB2560"], "strongs-1890": "strongs-hebrew:H2301"}}
@@ -2826,7 +2826,7 @@
 {"strongs": "H2826", "witnesses": {"bdb": ["bdb-hebrew:BDB3223"], "strongs-1890": "strongs-hebrew:H2826"}}
 {"strongs": "H2827", "witnesses": {"bdb": ["bdb-hebrew:BDB9551"], "strongs-1890": "strongs-hebrew:H2827"}}
 {"strongs": "H2828", "witnesses": {"bdb": ["bdb-hebrew:BDB3224"], "strongs-1890": "strongs-hebrew:H2828"}}
-{"strongs": "H2829", "witnesses": {"bdb": ["bdb-hebrew:BDB3227", "bdb-hebrew:BDB3345"], "strongs-1890": "strongs-hebrew:H2829"}}
+{"strongs": "H2829", "witnesses": {"bdb": ["bdb-hebrew:BDB3227"], "strongs-1890": "strongs-hebrew:H2829"}}
 {"strongs": "H2830", "witnesses": {"bdb": ["bdb-hebrew:BDB3225"], "strongs-1890": "strongs-hebrew:H2830"}}
 {"strongs": "H2831", "witnesses": {"bdb": ["bdb-hebrew:BDB3226"], "strongs-1890": "strongs-hebrew:H2831"}}
 {"strongs": "H2832", "witnesses": {"bdb": ["bdb-hebrew:BDB3228"], "strongs-1890": "strongs-hebrew:H2832"}}
@@ -2926,7 +2926,7 @@
 {"strongs": "H2926", "witnesses": {"bdb": ["bdb-hebrew:BDB3342"], "bdb-shared": ["bdb-hebrew:BDB9560"], "strongs-1890": "strongs-hebrew:H2926"}}
 {"strongs": "H2927", "witnesses": {"bdb": ["bdb-hebrew:BDB9560"], "strongs-1890": "strongs-hebrew:H2927"}}
 {"strongs": "H2928", "witnesses": {"bdb": ["bdb-hebrew:BDB3344"], "strongs-1890": "strongs-hebrew:H2928"}}
-{"strongs": "H2929", "witnesses": {"strongs-1890": "strongs-hebrew:H2929"}}
+{"strongs": "H2929", "witnesses": {"bdb": ["bdb-hebrew:BDB3345"], "strongs-1890": "strongs-hebrew:H2929"}}
 {"strongs": "H2930", "witnesses": {"bdb": ["bdb-hebrew:BDB3346", "bdb-hebrew:BDB3349"], "strongs-1890": "strongs-hebrew:H2930"}}
 {"strongs": "H2931", "witnesses": {"bdb": ["bdb-hebrew:BDB3347"], "strongs-1890": "strongs-hebrew:H2931"}}
 {"strongs": "H2932", "witnesses": {"bdb": ["bdb-hebrew:BDB3348"], "bdb-shared": ["bdb-hebrew:BDB3349"], "strongs-1890": "strongs-hebrew:H2932"}}
@@ -2964,7 +2964,7 @@
 {"strongs": "H2964", "witnesses": {"bdb": ["bdb-hebrew:BDB3382"], "strongs-1890": "strongs-hebrew:H2964"}}
 {"strongs": "H2965", "witnesses": {"bdb": ["bdb-hebrew:BDB3381"], "strongs-1890": "strongs-hebrew:H2965"}}
 {"strongs": "H2966", "witnesses": {"bdb": ["bdb-hebrew:BDB3383"], "strongs-1890": "strongs-hebrew:H2966"}}
-{"strongs": "H2967", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9565"], "strongs-1890": "strongs-hebrew:H2967"}}
+{"strongs": "H2967", "witnesses": {"bdb": ["bdb-hebrew:BDB9565"], "strongs-1890": "strongs-hebrew:H2967"}}
 {"strongs": "H2968", "witnesses": {"bdb": ["bdb-hebrew:BDB3385"], "strongs-1890": "strongs-hebrew:H2968"}}
 {"strongs": "H2969", "witnesses": {"bdb": ["bdb-hebrew:BDB3386"], "strongs-1890": "strongs-hebrew:H2969"}}
 {"strongs": "H2970", "witnesses": {"bdb": ["bdb-hebrew:BDB270"], "strongs-1890": "strongs-hebrew:H2970"}}
@@ -3023,7 +3023,7 @@
 {"strongs": "H3023", "witnesses": {"bdb": ["bdb-hebrew:BDB3431"], "strongs-1890": "strongs-hebrew:H3023"}}
 {"strongs": "H3024", "witnesses": {"bdb": ["bdb-hebrew:BDB3432"], "strongs-1890": "strongs-hebrew:H3024"}}
 {"strongs": "H3025", "witnesses": {"bdb": ["bdb-hebrew:BDB3435"], "strongs-1890": "strongs-hebrew:H3025"}}
-{"strongs": "H3026", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9568"], "strongs-1890": "strongs-hebrew:H3026"}}
+{"strongs": "H3026", "witnesses": {"bdb": ["bdb-hebrew:BDB9568"], "strongs-1890": "strongs-hebrew:H3026"}}
 {"strongs": "H3027", "witnesses": {"bdb": ["bdb-hebrew:BDB3437"], "bdb-shared": ["bdb-hebrew:BDB3535", "bdb-hebrew:BDB9569"], "strongs-1890": "strongs-hebrew:H3027"}}
 {"strongs": "H3028", "witnesses": {"bdb": ["bdb-hebrew:BDB9569"], "strongs-1890": "strongs-hebrew:H3028"}}
 {"strongs": "H3029", "witnesses": {"bdb": ["bdb-hebrew:BDB9570"], "strongs-1890": "strongs-hebrew:H3029"}}
@@ -3059,7 +3059,7 @@
 {"strongs": "H3059", "witnesses": {"bdb": ["bdb-hebrew:BDB2103"], "strongs-1890": "strongs-hebrew:H3059"}}
 {"strongs": "H3060", "witnesses": {"bdb": ["bdb-hebrew:BDB2104"], "strongs-1890": "strongs-hebrew:H3060"}}
 {"strongs": "H3061", "witnesses": {"bdb": ["bdb-hebrew:BDB9574"], "strongs-1890": "strongs-hebrew:H3061"}}
-{"strongs": "H3062", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9575"], "strongs-1890": "strongs-hebrew:H3062"}}
+{"strongs": "H3062", "witnesses": {"bdb": ["bdb-hebrew:BDB9575"], "strongs-1890": "strongs-hebrew:H3062"}}
 {"strongs": "H3063", "witnesses": {"bdb": ["bdb-hebrew:BDB3477"], "bdb-shared": ["bdb-hebrew:BDB9574"], "strongs-1890": "strongs-hebrew:H3063"}}
 {"strongs": "H3064", "witnesses": {"bdb": ["bdb-hebrew:BDB3478"], "bdb-shared": ["bdb-hebrew:BDB9575"], "strongs-1890": "strongs-hebrew:H3064"}}
 {"strongs": "H3065", "witnesses": {"bdb": ["bdb-hebrew:BDB3480"], "strongs-1890": "strongs-hebrew:H3065"}}
@@ -3192,7 +3192,7 @@
 {"strongs": "H3192", "witnesses": {"bdb": ["bdb-hebrew:BDB3529"], "strongs-1890": "strongs-hebrew:H3192"}}
 {"strongs": "H3193", "witnesses": {"bdb": ["bdb-hebrew:BDB3530"], "strongs-1890": "strongs-hebrew:H3193"}}
 {"strongs": "H3194", "witnesses": {"bdb": ["bdb-hebrew:BDB5154"], "strongs-1890": "strongs-hebrew:H3194"}}
-{"strongs": "H3195", "witnesses": {"bdb": ["bdb-hebrew:BDB3324", "bdb-hebrew:BDB3864"], "strongs-1890": "strongs-hebrew:H3195"}}
+{"strongs": "H3195", "witnesses": {"bdb": ["bdb-hebrew:BDB3324"], "strongs-1890": "strongs-hebrew:H3195"}}
 {"strongs": "H3196", "witnesses": {"bdb": ["bdb-hebrew:BDB3534"], "strongs-1890": "strongs-hebrew:H3196"}}
 {"strongs": "H3197", "witnesses": {"bdb": ["bdb-hebrew:BDB3535"], "strongs-1890": "strongs-hebrew:H3197"}}
 {"strongs": "H3198", "witnesses": {"bdb": ["bdb-hebrew:BDB3536"], "strongs-1890": "strongs-hebrew:H3198"}}
@@ -3249,8 +3249,8 @@
 {"strongs": "H3249", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB5544"], "strongs-1890": "strongs-hebrew:H3249"}}
 {"strongs": "H3250", "witnesses": {"bdb": ["bdb-hebrew:BDB3603"], "strongs-1890": "strongs-hebrew:H3250"}}
 {"strongs": "H3251", "witnesses": {"bdb": ["bdb-hebrew:BDB3597"], "strongs-1890": "strongs-hebrew:H3251"}}
-{"strongs": "H3252", "witnesses": {"strongs-1890": "strongs-hebrew:H3252"}}
-{"strongs": "H3253", "witnesses": {"bdb": ["bdb-hebrew:BDB3598", "bdb-hebrew:BDB5633"], "strongs-1890": "strongs-hebrew:H3253"}}
+{"strongs": "H3252", "witnesses": {"bdb": ["bdb-hebrew:BDB3598"], "strongs-1890": "strongs-hebrew:H3252"}}
+{"strongs": "H3253", "witnesses": {"bdb": ["bdb-hebrew:BDB5633"], "strongs-1890": "strongs-hebrew:H3253"}}
 {"strongs": "H3254", "witnesses": {"bdb": ["bdb-hebrew:BDB3599"], "bdb-shared": ["bdb-hebrew:BDB9583"], "strongs-1890": "strongs-hebrew:H3254"}}
 {"strongs": "H3255", "witnesses": {"bdb": ["bdb-hebrew:BDB9583"], "strongs-1890": "strongs-hebrew:H3255"}}
 {"strongs": "H3256", "witnesses": {"bdb": ["bdb-hebrew:BDB3602"], "bdb-shared": ["bdb-hebrew:BDB8348", "bdb-hebrew:BDB8349"], "strongs-1890": "strongs-hebrew:H3256"}}
@@ -3409,7 +3409,7 @@
 {"strongs": "H3409", "witnesses": {"bdb": ["bdb-hebrew:BDB3742"], "bdb-shared": ["bdb-hebrew:BDB9595"], "strongs-1890": "strongs-hebrew:H3409"}}
 {"strongs": "H3410", "witnesses": {"bdb": ["bdb-hebrew:BDB9595"], "strongs-1890": "strongs-hebrew:H3410"}}
 {"strongs": "H3411", "witnesses": {"bdb": ["bdb-hebrew:BDB3743"], "strongs-1890": "strongs-hebrew:H3411"}}
-{"strongs": "H3412", "witnesses": {"bdb": ["bdb-hebrew:BDB3744", "bdb-hebrew:BDB3757"], "strongs-1890": "strongs-hebrew:H3412"}}
+{"strongs": "H3412", "witnesses": {"bdb": ["bdb-hebrew:BDB3744"], "strongs-1890": "strongs-hebrew:H3412"}}
 {"strongs": "H3413", "witnesses": {"bdb": ["bdb-hebrew:BDB3745"], "strongs-1890": "strongs-hebrew:H3413"}}
 {"strongs": "H3414", "witnesses": {"bdb": ["bdb-hebrew:BDB7952"], "strongs-1890": "strongs-hebrew:H3414"}}
 {"strongs": "H3415", "witnesses": {"bdb": ["bdb-hebrew:BDB3747"], "strongs-1890": "strongs-hebrew:H3415"}}
@@ -3418,7 +3418,7 @@
 {"strongs": "H3418", "witnesses": {"bdb": ["bdb-hebrew:BDB3751"], "strongs-1890": "strongs-hebrew:H3418"}}
 {"strongs": "H3419", "witnesses": {"bdb": ["bdb-hebrew:BDB3752"], "strongs-1890": "strongs-hebrew:H3419"}}
 {"strongs": "H3420", "witnesses": {"bdb": ["bdb-hebrew:BDB3755"], "strongs-1890": "strongs-hebrew:H3420"}}
-{"strongs": "H3421", "witnesses": {"strongs-1890": "strongs-hebrew:H3421"}}
+{"strongs": "H3421", "witnesses": {"bdb": ["bdb-hebrew:BDB3757"], "strongs-1890": "strongs-hebrew:H3421"}}
 {"strongs": "H3422", "witnesses": {"bdb": ["bdb-hebrew:BDB3756"], "strongs-1890": "strongs-hebrew:H3422"}}
 {"strongs": "H3423", "witnesses": {"bdb": ["bdb-hebrew:BDB3759"], "strongs-1890": "strongs-hebrew:H3423"}}
 {"strongs": "H3424", "witnesses": {"bdb": ["bdb-hebrew:BDB3760"], "strongs-1890": "strongs-hebrew:H3424"}}
@@ -3493,7 +3493,7 @@
 {"strongs": "H3493", "witnesses": {"bdb": ["bdb-hebrew:BDB9602"], "strongs-1890": "strongs-hebrew:H3493"}}
 {"strongs": "H3494", "witnesses": {"bdb": ["bdb-hebrew:BDB9162"], "strongs-1890": "strongs-hebrew:H3494"}}
 {"strongs": "H3495", "witnesses": {"bdb": ["bdb-hebrew:BDB3845"], "strongs-1890": "strongs-hebrew:H3495"}}
-{"strongs": "H3496", "witnesses": {"bdb": ["bdb-hebrew:BDB9204", "bdb-hebrew:BDB9205"], "strongs-1890": "strongs-hebrew:H3496"}}
+{"strongs": "H3496", "witnesses": {"bdb": ["bdb-hebrew:BDB9204"], "strongs-1890": "strongs-hebrew:H3496"}}
 {"strongs": "H3497", "witnesses": {"bdb": ["bdb-hebrew:BDB3849"], "strongs-1890": "strongs-hebrew:H3497"}}
 {"strongs": "H3498", "witnesses": {"bdb": ["bdb-hebrew:BDB3850"], "bdb-shared": ["bdb-hebrew:BDB9602"], "strongs-1890": "strongs-hebrew:H3498"}}
 {"strongs": "H3499", "witnesses": {"bdb": ["bdb-hebrew:BDB3852", "bdb-hebrew:BDB3853"], "strongs-1890": "strongs-hebrew:H3499"}}
@@ -3564,7 +3564,7 @@
 {"strongs": "H3564", "witnesses": {"bdb": ["bdb-hebrew:BDB3960"], "strongs-1890": "strongs-hebrew:H3564"}}
 {"strongs": "H3565", "witnesses": {"bdb": ["bdb-hebrew:BDB3961"], "strongs-1890": "strongs-hebrew:H3565"}}
 {"strongs": "H3566", "witnesses": {"bdb": ["bdb-hebrew:BDB3967", "bdb-hebrew:BDB4214"], "bdb-shared": ["bdb-hebrew:BDB9610"], "strongs-1890": "strongs-hebrew:H3566"}}
-{"strongs": "H3567", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9610"], "strongs-1890": "strongs-hebrew:H3567"}}
+{"strongs": "H3567", "witnesses": {"bdb": ["bdb-hebrew:BDB9610"], "strongs-1890": "strongs-hebrew:H3567"}}
 {"strongs": "H3568", "witnesses": {"bdb": ["bdb-hebrew:BDB3968", "bdb-hebrew:BDB3969"], "strongs-1890": "strongs-hebrew:H3568"}}
 {"strongs": "H3569", "witnesses": {"bdb": ["bdb-hebrew:BDB3970"], "strongs-1890": "strongs-hebrew:H3569"}}
 {"strongs": "H3570", "witnesses": {"bdb": ["bdb-hebrew:BDB3971"], "strongs-1890": "strongs-hebrew:H3570"}}
@@ -3776,7 +3776,7 @@
 {"strongs": "H3776", "witnesses": {"bdb": ["bdb-hebrew:BDB3912"], "strongs-1890": "strongs-hebrew:H3776"}}
 {"strongs": "H3777", "witnesses": {"bdb": ["bdb-hebrew:BDB4221"], "strongs-1890": "strongs-hebrew:H3777"}}
 {"strongs": "H3778", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB4222", "bdb-hebrew:BDB9627"], "strongs-1890": "strongs-hebrew:H3778"}}
-{"strongs": "H3779", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9627"], "strongs-1890": "strongs-hebrew:H3779"}}
+{"strongs": "H3779", "witnesses": {"bdb": ["bdb-hebrew:BDB9627"], "strongs-1890": "strongs-hebrew:H3779"}}
 {"strongs": "H3780", "witnesses": {"bdb": ["bdb-hebrew:BDB4223"], "strongs-1890": "strongs-hebrew:H3780"}}
 {"strongs": "H3781", "witnesses": {"bdb": ["bdb-hebrew:BDB4225"], "strongs-1890": "strongs-hebrew:H3781"}}
 {"strongs": "H3782", "witnesses": {"bdb": ["bdb-hebrew:BDB4224"], "strongs-1890": "strongs-hebrew:H3782"}}
@@ -4035,7 +4035,7 @@
 {"strongs": "H4035", "witnesses": {"bdb": ["bdb-hebrew:BDB1569"], "strongs-1890": "strongs-hebrew:H4035"}}
 {"strongs": "H4036", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB1575", "bdb-hebrew:BDB5477"], "strongs-1890": "strongs-hebrew:H4036"}}
 {"strongs": "H4037", "witnesses": {"bdb": ["bdb-hebrew:BDB1604"], "strongs-1890": "strongs-hebrew:H4037"}}
-{"strongs": "H4038", "witnesses": {"bdb": ["bdb-hebrew:BDB3549", "bdb-hebrew:BDB4972"], "strongs-1890": "strongs-hebrew:H4038"}}
+{"strongs": "H4038", "witnesses": {"bdb": ["bdb-hebrew:BDB4972"], "strongs-1890": "strongs-hebrew:H4038"}}
 {"strongs": "H4039", "witnesses": {"bdb": ["bdb-hebrew:BDB1664"], "bdb-shared": ["bdb-hebrew:BDB9416"], "strongs-1890": "strongs-hebrew:H4039"}}
 {"strongs": "H4040", "witnesses": {"bdb": ["bdb-hebrew:BDB9416"], "strongs-1890": "strongs-hebrew:H4040"}}
 {"strongs": "H4041", "witnesses": {"bdb": ["bdb-hebrew:BDB1689"], "strongs-1890": "strongs-hebrew:H4041"}}
@@ -4135,7 +4135,7 @@
 {"strongs": "H4135", "witnesses": {"bdb": ["bdb-hebrew:BDB4547"], "strongs-1890": "strongs-hebrew:H4135"}}
 {"strongs": "H4136", "witnesses": {"bdb": ["bdb-hebrew:BDB4432", "bdb-hebrew:BDB4546"], "strongs-1890": "strongs-hebrew:H4136"}}
 {"strongs": "H4137", "witnesses": {"bdb": ["bdb-hebrew:BDB3550"], "strongs-1890": "strongs-hebrew:H4137"}}
-{"strongs": "H4138", "witnesses": {"strongs-1890": "strongs-hebrew:H4138"}}
+{"strongs": "H4138", "witnesses": {"bdb": ["bdb-hebrew:BDB3549"], "strongs-1890": "strongs-hebrew:H4138"}}
 {"strongs": "H4139", "witnesses": {"bdb": ["bdb-hebrew:BDB4548"], "strongs-1890": "strongs-hebrew:H4139"}}
 {"strongs": "H4140", "witnesses": {"bdb": ["bdb-hebrew:BDB3551"], "strongs-1890": "strongs-hebrew:H4140"}}
 {"strongs": "H4141", "witnesses": {"bdb": ["bdb-hebrew:BDB5479"], "strongs-1890": "strongs-hebrew:H4141"}}
@@ -4192,7 +4192,7 @@
 {"strongs": "H4192", "witnesses": {"bdb": ["bdb-hebrew:BDB4320"], "bdb-shared": ["bdb-hebrew:BDB6111", "bdb-hebrew:BDB6116"], "strongs-1890": "strongs-hebrew:H4192"}}
 {"strongs": "H4193", "witnesses": {"bdb": ["bdb-hebrew:BDB9653"], "strongs-1890": "strongs-hebrew:H4193"}}
 {"strongs": "H4194", "witnesses": {"bdb": ["bdb-hebrew:BDB4562"], "strongs-1890": "strongs-hebrew:H4194"}}
-{"strongs": "H4195", "witnesses": {"strongs-1890": "strongs-hebrew:H4195"}}
+{"strongs": "H4195", "witnesses": {"bdb": ["bdb-hebrew:BDB3864"], "strongs-1890": "strongs-hebrew:H4195"}}
 {"strongs": "H4196", "witnesses": {"bdb": ["bdb-hebrew:BDB2280"], "strongs-1890": "strongs-hebrew:H4196"}}
 {"strongs": "H4197", "witnesses": {"bdb": ["bdb-hebrew:BDB4567"], "strongs-1890": "strongs-hebrew:H4197"}}
 {"strongs": "H4198", "witnesses": {"bdb": ["bdb-hebrew:BDB4569"], "strongs-1890": "strongs-hebrew:H4198"}}
@@ -4330,10 +4330,10 @@
 {"strongs": "H4330", "witnesses": {"bdb": ["bdb-hebrew:BDB4633"], "strongs-1890": "strongs-hebrew:H4330"}}
 {"strongs": "H4331", "witnesses": {"bdb": ["bdb-hebrew:BDB4634"], "strongs-1890": "strongs-hebrew:H4331"}}
 {"strongs": "H4332", "witnesses": {"bdb": ["bdb-hebrew:BDB4622"], "bdb-shared": ["bdb-hebrew:BDB9656"], "strongs-1890": "strongs-hebrew:H4332"}}
-{"strongs": "H4333", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9656"], "strongs-1890": "strongs-hebrew:H4333"}}
+{"strongs": "H4333", "witnesses": {"bdb": ["bdb-hebrew:BDB9656"], "strongs-1890": "strongs-hebrew:H4333"}}
 {"strongs": "H4334", "witnesses": {"bdb": ["bdb-hebrew:BDB3831"], "strongs-1890": "strongs-hebrew:H4334"}}
 {"strongs": "H4335", "witnesses": {"bdb": ["bdb-hebrew:BDB4635"], "bdb-shared": ["bdb-hebrew:BDB9657"], "strongs-1890": "strongs-hebrew:H4335"}}
-{"strongs": "H4336", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9657"], "strongs-1890": "strongs-hebrew:H4336"}}
+{"strongs": "H4336", "witnesses": {"bdb": ["bdb-hebrew:BDB9657"], "strongs-1890": "strongs-hebrew:H4336"}}
 {"strongs": "H4337", "witnesses": {"bdb": ["bdb-hebrew:BDB3821"], "strongs-1890": "strongs-hebrew:H4337"}}
 {"strongs": "H4338", "witnesses": {"bdb": ["bdb-hebrew:BDB3820"], "strongs-1890": "strongs-hebrew:H4338"}}
 {"strongs": "H4339", "witnesses": {"bdb": ["bdb-hebrew:BDB3830"], "strongs-1890": "strongs-hebrew:H4339"}}
@@ -4573,7 +4573,7 @@
 {"strongs": "H4573", "witnesses": {"bdb": ["bdb-hebrew:BDB4749"], "strongs-1890": "strongs-hebrew:H4573"}}
 {"strongs": "H4574", "witnesses": {"bdb": ["bdb-hebrew:BDB5831"], "strongs-1890": "strongs-hebrew:H4574"}}
 {"strongs": "H4575", "witnesses": {"bdb": ["bdb-hebrew:BDB4750", "bdb-hebrew:BDB6194"], "bdb-shared": ["bdb-hebrew:BDB5831"], "strongs-1890": "strongs-hebrew:H4575"}}
-{"strongs": "H4576", "witnesses": {"bdb": ["bdb-hebrew:BDB5839"], "bdb-shared": ["bdb-hebrew:BDB9677"], "strongs-1890": "strongs-hebrew:H4576"}}
+{"strongs": "H4576", "witnesses": {"bdb": ["bdb-hebrew:BDB5839"], "strongs-1890": "strongs-hebrew:H4576"}}
 {"strongs": "H4577", "witnesses": {"bdb": ["bdb-hebrew:BDB9676"], "strongs-1890": "strongs-hebrew:H4577"}}
 {"strongs": "H4578", "witnesses": {"bdb": ["bdb-hebrew:BDB4752"], "bdb-shared": ["bdb-hebrew:BDB9676"], "strongs-1890": "strongs-hebrew:H4578"}}
 {"strongs": "H4579", "witnesses": {"bdb": ["bdb-hebrew:BDB4753"], "strongs-1890": "strongs-hebrew:H4579"}}
@@ -4753,7 +4753,7 @@
 {"strongs": "H4753", "witnesses": {"bdb": ["bdb-hebrew:BDB4832"], "strongs-1890": "strongs-hebrew:H4753"}}
 {"strongs": "H4754", "witnesses": {"bdb": ["bdb-hebrew:BDB4794"], "bdb-shared": ["bdb-hebrew:BDB4806"], "strongs-1890": "strongs-hebrew:H4754"}}
 {"strongs": "H4755", "witnesses": {"bdb": ["bdb-hebrew:BDB4833"], "bdb-shared": ["bdb-hebrew:BDB4831"], "strongs-1890": "strongs-hebrew:H4755"}}
-{"strongs": "H4756", "witnesses": {"strongs-1890": "strongs-hebrew:H4756"}}
+{"strongs": "H4756", "witnesses": {"bdb": ["bdb-hebrew:BDB9677"], "strongs-1890": "strongs-hebrew:H4756"}}
 {"strongs": "H4757", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB4804"], "strongs-1890": "strongs-hebrew:H4757"}}
 {"strongs": "H4758", "witnesses": {"bdb": ["bdb-hebrew:BDB7668"], "strongs-1890": "strongs-hebrew:H4758"}}
 {"strongs": "H4759", "witnesses": {"bdb": ["bdb-hebrew:BDB7666", "bdb-hebrew:BDB7667"], "strongs-1890": "strongs-hebrew:H4759"}}
@@ -4981,7 +4981,7 @@
 {"strongs": "H4981", "witnesses": {"bdb": ["bdb-hebrew:BDB4900"], "strongs-1890": "strongs-hebrew:H4981"}}
 {"strongs": "H4982", "witnesses": {"bdb": ["bdb-hebrew:BDB5453"], "strongs-1890": "strongs-hebrew:H4982"}}
 {"strongs": "H4983", "witnesses": {"bdb": ["bdb-hebrew:BDB5452"], "strongs-1890": "strongs-hebrew:H4983"}}
-{"strongs": "H4984", "witnesses": {"bdb": ["bdb-hebrew:BDB5385"], "strongs-1890": "strongs-hebrew:H4984"}}
+{"strongs": "H4984", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB5385"], "strongs-1890": "strongs-hebrew:H4984"}}
 {"strongs": "H4985", "witnesses": {"bdb": ["bdb-hebrew:BDB4901"], "strongs-1890": "strongs-hebrew:H4985"}}
 {"strongs": "H4986", "witnesses": {"bdb": ["bdb-hebrew:BDB4902"], "strongs-1890": "strongs-hebrew:H4986"}}
 {"strongs": "H4987", "witnesses": {"bdb": ["bdb-hebrew:BDB4903"], "strongs-1890": "strongs-hebrew:H4987"}}
@@ -5372,15 +5372,15 @@
 {"strongs": "H5372", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB7754"], "strongs-1890": "strongs-hebrew:H5372"}}
 {"strongs": "H5373", "witnesses": {"bdb": ["bdb-hebrew:BDB5384"], "strongs-1890": "strongs-hebrew:H5373"}}
 {"strongs": "H5374", "witnesses": {"bdb": ["bdb-hebrew:BDB5091"], "strongs-1890": "strongs-hebrew:H5374"}}
-{"strongs": "H5375", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9721"], "strongs-1890": "strongs-hebrew:H5375"}}
+{"strongs": "H5375", "witnesses": {"bdb": ["bdb-hebrew:BDB5385"], "bdb-shared": ["bdb-hebrew:BDB9721"], "strongs-1890": "strongs-hebrew:H5375"}}
 {"strongs": "H5376", "witnesses": {"bdb": ["bdb-hebrew:BDB9721"], "strongs-1890": "strongs-hebrew:H5376"}}
 {"strongs": "H5377", "witnesses": {"bdb": ["bdb-hebrew:BDB5404"], "strongs-1890": "strongs-hebrew:H5377"}}
-{"strongs": "H5378", "witnesses": {"bdb": ["bdb-hebrew:BDB5401", "bdb-hebrew:BDB5409"], "strongs-1890": "strongs-hebrew:H5378"}}
+{"strongs": "H5378", "witnesses": {"bdb": ["bdb-hebrew:BDB5401"], "bdb-shared": ["bdb-hebrew:BDB5409"], "strongs-1890": "strongs-hebrew:H5378"}}
 {"strongs": "H5379", "witnesses": {"bdb": ["bdb-hebrew:BDB5386"], "bdb-shared": ["bdb-hebrew:BDB5385"], "strongs-1890": "strongs-hebrew:H5379"}}
 {"strongs": "H5380", "witnesses": {"bdb": ["bdb-hebrew:BDB5408"], "strongs-1890": "strongs-hebrew:H5380"}}
 {"strongs": "H5381", "witnesses": {"bdb": ["bdb-hebrew:BDB5398"], "strongs-1890": "strongs-hebrew:H5381"}}
 {"strongs": "H5382", "witnesses": {"bdb": ["bdb-hebrew:BDB5407", "bdb-hebrew:BDB5412"], "strongs-1890": "strongs-hebrew:H5382"}}
-{"strongs": "H5383", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB5401"], "strongs-1890": "strongs-hebrew:H5383"}}
+{"strongs": "H5383", "witnesses": {"bdb": ["bdb-hebrew:BDB5409"], "bdb-shared": ["bdb-hebrew:BDB5401"], "strongs-1890": "strongs-hebrew:H5383"}}
 {"strongs": "H5384", "witnesses": {"bdb": ["bdb-hebrew:BDB5415"], "strongs-1890": "strongs-hebrew:H5384"}}
 {"strongs": "H5385", "witnesses": {"bdb": ["bdb-hebrew:BDB5387"], "strongs-1890": "strongs-hebrew:H5385"}}
 {"strongs": "H5386", "witnesses": {"bdb": ["bdb-hebrew:BDB5410"], "strongs-1890": "strongs-hebrew:H5386"}}
@@ -5416,7 +5416,7 @@
 {"strongs": "H5416", "witnesses": {"bdb": ["bdb-hebrew:BDB5442"], "strongs-1890": "strongs-hebrew:H5416"}}
 {"strongs": "H5417", "witnesses": {"bdb": ["bdb-hebrew:BDB5445"], "strongs-1890": "strongs-hebrew:H5417"}}
 {"strongs": "H5418", "witnesses": {"bdb": ["bdb-hebrew:BDB5446"], "strongs-1890": "strongs-hebrew:H5418"}}
-{"strongs": "H5419", "witnesses": {"bdb": ["bdb-hebrew:BDB2217", "bdb-hebrew:BDB5443"], "strongs-1890": "strongs-hebrew:H5419"}}
+{"strongs": "H5419", "witnesses": {"bdb": ["bdb-hebrew:BDB5443"], "strongs-1890": "strongs-hebrew:H5419"}}
 {"strongs": "H5420", "witnesses": {"bdb": ["bdb-hebrew:BDB5456"], "strongs-1890": "strongs-hebrew:H5420"}}
 {"strongs": "H5421", "witnesses": {"bdb": ["bdb-hebrew:BDB5457"], "strongs-1890": "strongs-hebrew:H5421"}}
 {"strongs": "H5422", "witnesses": {"bdb": ["bdb-hebrew:BDB5458"], "strongs-1890": "strongs-hebrew:H5422"}}
@@ -5499,11 +5499,11 @@
 {"strongs": "H5499", "witnesses": {"bdb": ["bdb-hebrew:BDB5550"], "strongs-1890": "strongs-hebrew:H5499"}}
 {"strongs": "H5500", "witnesses": {"bdb": ["bdb-hebrew:BDB5524", "bdb-hebrew:BDB5551"], "strongs-1890": "strongs-hebrew:H5500"}}
 {"strongs": "H5501", "witnesses": {"bdb": ["bdb-hebrew:BDB5552"], "strongs-1890": "strongs-hebrew:H5501"}}
-{"strongs": "H5502", "witnesses": {"bdb": ["bdb-hebrew:BDB5554", "bdb-hebrew:BDB5555"], "strongs-1890": "strongs-hebrew:H5502"}}
-{"strongs": "H5503", "witnesses": {"strongs-1890": "strongs-hebrew:H5503"}}
+{"strongs": "H5502", "witnesses": {"bdb": ["bdb-hebrew:BDB5554"], "strongs-1890": "strongs-hebrew:H5502"}}
+{"strongs": "H5503", "witnesses": {"bdb": ["bdb-hebrew:BDB5555"], "strongs-1890": "strongs-hebrew:H5503"}}
 {"strongs": "H5504", "witnesses": {"bdb": ["bdb-hebrew:BDB5556"], "strongs-1890": "strongs-hebrew:H5504"}}
 {"strongs": "H5505", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB5556"], "strongs-1890": "strongs-hebrew:H5505"}}
-{"strongs": "H5506", "witnesses": {"bdb": ["bdb-hebrew:BDB5557", "bdb-hebrew:BDB5691"], "strongs-1890": "strongs-hebrew:H5506"}}
+{"strongs": "H5506", "witnesses": {"bdb": ["bdb-hebrew:BDB5557"], "strongs-1890": "strongs-hebrew:H5506"}}
 {"strongs": "H5507", "witnesses": {"bdb": ["bdb-hebrew:BDB5558"], "strongs-1890": "strongs-hebrew:H5507"}}
 {"strongs": "H5508", "witnesses": {"bdb": ["bdb-hebrew:BDB5560"], "strongs-1890": "strongs-hebrew:H5508"}}
 {"strongs": "H5509", "witnesses": {"bdb": ["bdb-hebrew:BDB5516"], "strongs-1890": "strongs-hebrew:H5509"}}
@@ -5603,7 +5603,7 @@
 {"strongs": "H5603", "witnesses": {"bdb": ["bdb-hebrew:BDB5683"], "strongs-1890": "strongs-hebrew:H5603"}}
 {"strongs": "H5604", "witnesses": {"bdb": ["bdb-hebrew:BDB5684"], "strongs-1890": "strongs-hebrew:H5604"}}
 {"strongs": "H5605", "witnesses": {"bdb": ["bdb-hebrew:BDB5689"], "strongs-1890": "strongs-hebrew:H5605"}}
-{"strongs": "H5606", "witnesses": {"bdb": ["bdb-hebrew:BDB8300"], "strongs-1890": "strongs-hebrew:H5606"}}
+{"strongs": "H5606", "witnesses": {"bdb": ["bdb-hebrew:BDB5691", "bdb-hebrew:BDB8300"], "strongs-1890": "strongs-hebrew:H5606"}}
 {"strongs": "H5607", "witnesses": {"bdb": ["bdb-hebrew:BDB5692", "bdb-hebrew:BDB8301"], "strongs-1890": "strongs-hebrew:H5607"}}
 {"strongs": "H5608", "witnesses": {"bdb": ["bdb-hebrew:BDB5695", "bdb-hebrew:BDB5696"], "bdb-shared": ["bdb-hebrew:BDB9740"], "strongs-1890": "strongs-hebrew:H5608"}}
 {"strongs": "H5609", "witnesses": {"bdb": ["bdb-hebrew:BDB9739"], "strongs-1890": "strongs-hebrew:H5609"}}
@@ -5655,17 +5655,17 @@
 {"strongs": "H5655", "witnesses": {"bdb": ["bdb-hebrew:BDB5743"], "strongs-1890": "strongs-hebrew:H5655"}}
 {"strongs": "H5656", "witnesses": {"bdb": ["bdb-hebrew:BDB5744"], "bdb-shared": ["bdb-hebrew:BDB9748"], "strongs-1890": "strongs-hebrew:H5656"}}
 {"strongs": "H5657", "witnesses": {"bdb": ["bdb-hebrew:BDB5745"], "strongs-1890": "strongs-hebrew:H5657"}}
-{"strongs": "H5658", "witnesses": {"bdb": ["bdb-hebrew:BDB5746", "bdb-hebrew:BDB5761", "bdb-hebrew:BDB5762"], "bdb-shared": ["bdb-hebrew:BDB5760", "bdb-hebrew:BDB5774"], "strongs-1890": "strongs-hebrew:H5658"}}
+{"strongs": "H5658", "witnesses": {"bdb": ["bdb-hebrew:BDB5746"], "bdb-shared": ["bdb-hebrew:BDB5760", "bdb-hebrew:BDB5774"], "strongs-1890": "strongs-hebrew:H5658"}}
 {"strongs": "H5659", "witnesses": {"bdb": ["bdb-hebrew:BDB5747"], "strongs-1890": "strongs-hebrew:H5659"}}
 {"strongs": "H5660", "witnesses": {"bdb": ["bdb-hebrew:BDB5748"], "strongs-1890": "strongs-hebrew:H5660"}}
 {"strongs": "H5661", "witnesses": {"bdb": ["bdb-hebrew:BDB5749"], "strongs-1890": "strongs-hebrew:H5661"}}
 {"strongs": "H5662", "witnesses": {"bdb": ["bdb-hebrew:BDB5750"], "strongs-1890": "strongs-hebrew:H5662"}}
 {"strongs": "H5663", "witnesses": {"bdb": ["bdb-hebrew:BDB5740"], "strongs-1890": "strongs-hebrew:H5663"}}
 {"strongs": "H5664", "witnesses": {"bdb": ["bdb-hebrew:BDB5741"], "bdb-shared": ["bdb-hebrew:BDB9747"], "strongs-1890": "strongs-hebrew:H5664"}}
-{"strongs": "H5665", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9747"], "strongs-1890": "strongs-hebrew:H5665"}}
-{"strongs": "H5666", "witnesses": {"bdb": ["bdb-hebrew:BDB5752", "bdb-hebrew:BDB5777", "bdb-hebrew:BDB5781"], "strongs-1890": "strongs-hebrew:H5666"}}
+{"strongs": "H5665", "witnesses": {"bdb": ["bdb-hebrew:BDB9747"], "strongs-1890": "strongs-hebrew:H5665"}}
+{"strongs": "H5666", "witnesses": {"bdb": ["bdb-hebrew:BDB5752"], "strongs-1890": "strongs-hebrew:H5666"}}
 {"strongs": "H5667", "witnesses": {"bdb": ["bdb-hebrew:BDB5756"], "strongs-1890": "strongs-hebrew:H5667"}}
-{"strongs": "H5668", "witnesses": {"strongs-1890": "strongs-hebrew:H5668"}}
+{"strongs": "H5668", "witnesses": {"bdb": ["bdb-hebrew:BDB5777"], "strongs-1890": "strongs-hebrew:H5668"}}
 {"strongs": "H5669", "witnesses": {"bdb": ["bdb-hebrew:BDB5776"], "strongs-1890": "strongs-hebrew:H5669"}}
 {"strongs": "H5670", "witnesses": {"bdb": ["bdb-hebrew:BDB5758"], "strongs-1890": "strongs-hebrew:H5670"}}
 {"strongs": "H5671", "witnesses": {"bdb": ["bdb-hebrew:BDB5757"], "strongs-1890": "strongs-hebrew:H5671"}}
@@ -5683,8 +5683,8 @@
 {"strongs": "H5683", "witnesses": {"bdb": ["bdb-hebrew:BDB5774"], "bdb-shared": ["bdb-hebrew:BDB5746"], "strongs-1890": "strongs-hebrew:H5683"}}
 {"strongs": "H5684", "witnesses": {"bdb": ["bdb-hebrew:BDB5775"], "strongs-1890": "strongs-hebrew:H5684"}}
 {"strongs": "H5685", "witnesses": {"bdb": ["bdb-hebrew:BDB5780"], "strongs-1890": "strongs-hebrew:H5685"}}
-{"strongs": "H5686", "witnesses": {"strongs-1890": "strongs-hebrew:H5686"}}
-{"strongs": "H5687", "witnesses": {"strongs-1890": "strongs-hebrew:H5687"}}
+{"strongs": "H5686", "witnesses": {"bdb": ["bdb-hebrew:BDB5781"], "strongs-1890": "strongs-hebrew:H5686"}}
+{"strongs": "H5687", "witnesses": {"bdb": ["bdb-hebrew:BDB5782"], "strongs-1890": "strongs-hebrew:H5687"}}
 {"strongs": "H5688", "witnesses": {"bdb": ["bdb-hebrew:BDB5783"], "strongs-1890": "strongs-hebrew:H5688"}}
 {"strongs": "H5689", "witnesses": {"bdb": ["bdb-hebrew:BDB5784"], "strongs-1890": "strongs-hebrew:H5689"}}
 {"strongs": "H5690", "witnesses": {"bdb": ["bdb-hebrew:BDB5785"], "strongs-1890": "strongs-hebrew:H5690"}}
@@ -5828,7 +5828,7 @@
 {"strongs": "H5828", "witnesses": {"bdb": ["bdb-hebrew:BDB5969"], "strongs-1890": "strongs-hebrew:H5828"}}
 {"strongs": "H5829", "witnesses": {"bdb": ["bdb-hebrew:BDB5970"], "strongs-1890": "strongs-hebrew:H5829"}}
 {"strongs": "H5830", "witnesses": {"bdb": ["bdb-hebrew:BDB5972"], "bdb-shared": ["bdb-hebrew:BDB9759"], "strongs-1890": "strongs-hebrew:H5830"}}
-{"strongs": "H5831", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9759"], "strongs-1890": "strongs-hebrew:H5831"}}
+{"strongs": "H5831", "witnesses": {"bdb": ["bdb-hebrew:BDB9759"], "strongs-1890": "strongs-hebrew:H5831"}}
 {"strongs": "H5832", "witnesses": {"bdb": ["bdb-hebrew:BDB5976"], "strongs-1890": "strongs-hebrew:H5832"}}
 {"strongs": "H5833", "witnesses": {"bdb": ["bdb-hebrew:BDB5973"], "strongs-1890": "strongs-hebrew:H5833"}}
 {"strongs": "H5834", "witnesses": {"bdb": ["bdb-hebrew:BDB5974"], "strongs-1890": "strongs-hebrew:H5834"}}
@@ -5836,7 +5836,7 @@
 {"strongs": "H5836", "witnesses": {"bdb": ["bdb-hebrew:BDB5979"], "strongs-1890": "strongs-hebrew:H5836"}}
 {"strongs": "H5837", "witnesses": {"bdb": ["bdb-hebrew:BDB5977"], "strongs-1890": "strongs-hebrew:H5837"}}
 {"strongs": "H5838", "witnesses": {"bdb": ["bdb-hebrew:BDB5978"], "bdb-shared": ["bdb-hebrew:BDB9760"], "strongs-1890": "strongs-hebrew:H5838"}}
-{"strongs": "H5839", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9760"], "strongs-1890": "strongs-hebrew:H5839"}}
+{"strongs": "H5839", "witnesses": {"bdb": ["bdb-hebrew:BDB9760"], "strongs-1890": "strongs-hebrew:H5839"}}
 {"strongs": "H5840", "witnesses": {"bdb": ["bdb-hebrew:BDB5980"], "strongs-1890": "strongs-hebrew:H5840"}}
 {"strongs": "H5841", "witnesses": {"bdb": ["bdb-hebrew:BDB5942"], "strongs-1890": "strongs-hebrew:H5841"}}
 {"strongs": "H5842", "witnesses": {"bdb": ["bdb-hebrew:BDB5984"], "strongs-1890": "strongs-hebrew:H5842"}}
@@ -5855,7 +5855,7 @@
 {"strongs": "H5855", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB5999"], "strongs-1890": "strongs-hebrew:H5855"}}
 {"strongs": "H5856", "witnesses": {"bdb": ["bdb-hebrew:BDB5866"], "strongs-1890": "strongs-hebrew:H5856"}}
 {"strongs": "H5857", "witnesses": {"bdb": ["bdb-hebrew:BDB6002"], "strongs-1890": "strongs-hebrew:H5857"}}
-{"strongs": "H5858", "witnesses": {"strongs-1890": "strongs-hebrew:H5858"}}
+{"strongs": "H5858", "witnesses": {"bdb": ["bdb-hebrew:BDB5761", "bdb-hebrew:BDB5762"], "strongs-1890": "strongs-hebrew:H5858"}}
 {"strongs": "H5859", "witnesses": {"bdb": ["bdb-hebrew:BDB6003"], "strongs-1890": "strongs-hebrew:H5859"}}
 {"strongs": "H5860", "witnesses": {"bdb": ["bdb-hebrew:BDB6005", "bdb-hebrew:BDB6007"], "strongs-1890": "strongs-hebrew:H5860"}}
 {"strongs": "H5861", "witnesses": {"bdb": ["bdb-hebrew:BDB6006"], "strongs-1890": "strongs-hebrew:H5861"}}
@@ -5884,7 +5884,7 @@
 {"strongs": "H5884", "witnesses": {"bdb": ["bdb-hebrew:BDB6025"], "bdb-shared": ["bdb-hebrew:BDB6017", "bdb-hebrew:BDB7957"], "strongs-1890": "strongs-hebrew:H5884"}}
 {"strongs": "H5885", "witnesses": {"bdb": ["bdb-hebrew:BDB6026"], "strongs-1890": "strongs-hebrew:H5885"}}
 {"strongs": "H5886", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB6016"], "strongs-1890": "strongs-hebrew:H5886"}}
-{"strongs": "H5887", "witnesses": {"bdb": ["bdb-hebrew:BDB5782", "bdb-hebrew:BDB6027"], "strongs-1890": "strongs-hebrew:H5887"}}
+{"strongs": "H5887", "witnesses": {"bdb": ["bdb-hebrew:BDB6027"], "strongs-1890": "strongs-hebrew:H5887"}}
 {"strongs": "H5888", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB6033"], "strongs-1890": "strongs-hebrew:H5888"}}
 {"strongs": "H5889", "witnesses": {"bdb": ["bdb-hebrew:BDB6034"], "strongs-1890": "strongs-hebrew:H5889"}}
 {"strongs": "H5890", "witnesses": {"bdb": ["bdb-hebrew:BDB5898"], "strongs-1890": "strongs-hebrew:H5890"}}
@@ -5959,7 +5959,7 @@
 {"strongs": "H5959", "witnesses": {"bdb": ["bdb-hebrew:BDB6116"], "strongs-1890": "strongs-hebrew:H5959"}}
 {"strongs": "H5960", "witnesses": {"bdb": ["bdb-hebrew:BDB6109"], "strongs-1890": "strongs-hebrew:H5960"}}
 {"strongs": "H5961", "witnesses": {"bdb": ["bdb-hebrew:BDB6111"], "bdb-shared": ["bdb-hebrew:BDB6116"], "strongs-1890": "strongs-hebrew:H5961"}}
-{"strongs": "H5962", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9774"], "strongs-1890": "strongs-hebrew:H5962"}}
+{"strongs": "H5962", "witnesses": {"bdb": ["bdb-hebrew:BDB9774"], "strongs-1890": "strongs-hebrew:H5962"}}
 {"strongs": "H5963", "witnesses": {"bdb": ["bdb-hebrew:BDB6110"], "strongs-1890": "strongs-hebrew:H5963"}}
 {"strongs": "H5964", "witnesses": {"bdb": ["bdb-hebrew:BDB6112"], "strongs-1890": "strongs-hebrew:H5964"}}
 {"strongs": "H5965", "witnesses": {"bdb": ["bdb-hebrew:BDB6120"], "strongs-1890": "strongs-hebrew:H5965"}}
@@ -6162,8 +6162,8 @@
 {"strongs": "H6162", "witnesses": {"bdb": ["bdb-hebrew:BDB6351"], "strongs-1890": "strongs-hebrew:H6162"}}
 {"strongs": "H6163", "witnesses": {"bdb": ["bdb-hebrew:BDB6358", "bdb-hebrew:BDB6360"], "strongs-1890": "strongs-hebrew:H6163"}}
 {"strongs": "H6164", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB1082"], "strongs-1890": "strongs-hebrew:H6164"}}
-{"strongs": "H6165", "witnesses": {"strongs-1890": "strongs-hebrew:H6165"}}
-{"strongs": "H6166", "witnesses": {"bdb": ["bdb-hebrew:BDB6369", "bdb-hebrew:BDB6371", "bdb-hebrew:BDB6372"], "strongs-1890": "strongs-hebrew:H6166"}}
+{"strongs": "H6165", "witnesses": {"bdb": ["bdb-hebrew:BDB6369"], "strongs-1890": "strongs-hebrew:H6165"}}
+{"strongs": "H6166", "witnesses": {"bdb": ["bdb-hebrew:BDB6371", "bdb-hebrew:BDB6372"], "strongs-1890": "strongs-hebrew:H6166"}}
 {"strongs": "H6167", "witnesses": {"bdb": ["bdb-hebrew:BDB9796"], "strongs-1890": "strongs-hebrew:H6167"}}
 {"strongs": "H6168", "witnesses": {"bdb": ["bdb-hebrew:BDB6373"], "bdb-shared": ["bdb-hebrew:BDB9797"], "strongs-1890": "strongs-hebrew:H6168"}}
 {"strongs": "H6169", "witnesses": {"bdb": ["bdb-hebrew:BDB6374"], "strongs-1890": "strongs-hebrew:H6169"}}
@@ -6445,7 +6445,7 @@
 {"strongs": "H6445", "witnesses": {"bdb": ["bdb-hebrew:BDB6690"], "strongs-1890": "strongs-hebrew:H6445"}}
 {"strongs": "H6446", "witnesses": {"bdb": ["bdb-hebrew:BDB6704"], "bdb-shared": ["bdb-hebrew:BDB9816"], "strongs-1890": "strongs-hebrew:H6446"}}
 {"strongs": "H6447", "witnesses": {"bdb": ["bdb-hebrew:BDB9817"], "strongs-1890": "strongs-hebrew:H6447"}}
-{"strongs": "H6448", "witnesses": {"bdb": ["bdb-hebrew:BDB6691", "bdb-hebrew:BDB7201"], "strongs-1890": "strongs-hebrew:H6448"}}
+{"strongs": "H6448", "witnesses": {"bdb": ["bdb-hebrew:BDB6691"], "strongs-1890": "strongs-hebrew:H6448"}}
 {"strongs": "H6449", "witnesses": {"bdb": ["bdb-hebrew:BDB6692"], "strongs-1890": "strongs-hebrew:H6449"}}
 {"strongs": "H6450", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB675"], "strongs-1890": "strongs-hebrew:H6450"}}
 {"strongs": "H6451", "witnesses": {"bdb": ["bdb-hebrew:BDB6705"], "strongs-1890": "strongs-hebrew:H6451"}}
@@ -6608,7 +6608,7 @@
 {"strongs": "H6608", "witnesses": {"bdb": ["bdb-hebrew:BDB6867"], "strongs-1890": "strongs-hebrew:H6608"}}
 {"strongs": "H6609", "witnesses": {"bdb": ["bdb-hebrew:BDB6869"], "strongs-1890": "strongs-hebrew:H6609"}}
 {"strongs": "H6610", "witnesses": {"bdb": ["bdb-hebrew:BDB6868"], "strongs-1890": "strongs-hebrew:H6610"}}
-{"strongs": "H6611", "witnesses": {"bdb": ["bdb-hebrew:BDB6870"], "bdb-shared": ["bdb-hebrew:BDB9800"], "strongs-1890": "strongs-hebrew:H6611"}}
+{"strongs": "H6611", "witnesses": {"bdb": ["bdb-hebrew:BDB6870"], "strongs-1890": "strongs-hebrew:H6611"}}
 {"strongs": "H6612", "witnesses": {"bdb": ["bdb-hebrew:BDB6858", "bdb-hebrew:BDB6859"], "strongs-1890": "strongs-hebrew:H6612"}}
 {"strongs": "H6613", "witnesses": {"bdb": ["bdb-hebrew:BDB9831"], "strongs-1890": "strongs-hebrew:H6613"}}
 {"strongs": "H6614", "witnesses": {"bdb": ["bdb-hebrew:BDB6878"], "strongs-1890": "strongs-hebrew:H6614"}}
@@ -6817,7 +6817,7 @@
 {"strongs": "H6817", "witnesses": {"bdb": ["bdb-hebrew:BDB7162"], "strongs-1890": "strongs-hebrew:H6817"}}
 {"strongs": "H6818", "witnesses": {"bdb": ["bdb-hebrew:BDB7163"], "strongs-1890": "strongs-hebrew:H6818"}}
 {"strongs": "H6819", "witnesses": {"bdb": ["bdb-hebrew:BDB7164"], "strongs-1890": "strongs-hebrew:H6819"}}
-{"strongs": "H6820", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB1151"], "strongs-1890": "strongs-hebrew:H6820"}}
+{"strongs": "H6820", "witnesses": {"bdb": ["bdb-hebrew:BDB7165"], "bdb-shared": ["bdb-hebrew:BDB1151"], "strongs-1890": "strongs-hebrew:H6820"}}
 {"strongs": "H6821", "witnesses": {"bdb": ["bdb-hebrew:BDB7173"], "strongs-1890": "strongs-hebrew:H6821"}}
 {"strongs": "H6822", "witnesses": {"bdb": ["bdb-hebrew:BDB7174"], "strongs-1890": "strongs-hebrew:H6822"}}
 {"strongs": "H6823", "witnesses": {"bdb": ["bdb-hebrew:BDB7183"], "strongs-1890": "strongs-hebrew:H6823"}}
@@ -6845,7 +6845,7 @@
 {"strongs": "H6845", "witnesses": {"bdb": ["bdb-hebrew:BDB7191"], "bdb-shared": ["bdb-hebrew:BDB7192"], "strongs-1890": "strongs-hebrew:H6845"}}
 {"strongs": "H6846", "witnesses": {"bdb": ["bdb-hebrew:BDB7197"], "strongs-1890": "strongs-hebrew:H6846"}}
 {"strongs": "H6847", "witnesses": {"bdb": ["bdb-hebrew:BDB7199"], "strongs-1890": "strongs-hebrew:H6847"}}
-{"strongs": "H6848", "witnesses": {"bdb": ["bdb-hebrew:BDB7202"], "strongs-1890": "strongs-hebrew:H6848"}}
+{"strongs": "H6848", "witnesses": {"bdb": ["bdb-hebrew:BDB7201", "bdb-hebrew:BDB7202"], "strongs-1890": "strongs-hebrew:H6848"}}
 {"strongs": "H6849", "witnesses": {"bdb": ["bdb-hebrew:BDB7206"], "strongs-1890": "strongs-hebrew:H6849"}}
 {"strongs": "H6850", "witnesses": {"bdb": ["bdb-hebrew:BDB7207"], "strongs-1890": "strongs-hebrew:H6850"}}
 {"strongs": "H6851", "witnesses": {"bdb": ["bdb-hebrew:BDB7208"], "strongs-1890": "strongs-hebrew:H6851"}}
@@ -6913,11 +6913,11 @@
 {"strongs": "H6913", "witnesses": {"bdb": ["bdb-hebrew:BDB7292"], "strongs-1890": "strongs-hebrew:H6913"}}
 {"strongs": "H6914", "witnesses": {"bdb": ["bdb-hebrew:BDB7293"], "strongs-1890": "strongs-hebrew:H6914"}}
 {"strongs": "H6915", "witnesses": {"bdb": ["bdb-hebrew:BDB7295"], "strongs-1890": "strongs-hebrew:H6915"}}
-{"strongs": "H6916", "witnesses": {"bdb": ["bdb-hebrew:BDB7298", "bdb-hebrew:BDB7299"], "strongs-1890": "strongs-hebrew:H6916"}}
+{"strongs": "H6916", "witnesses": {"bdb": ["bdb-hebrew:BDB7298"], "strongs-1890": "strongs-hebrew:H6916"}}
 {"strongs": "H6917", "witnesses": {"bdb": ["bdb-hebrew:BDB7310"], "strongs-1890": "strongs-hebrew:H6917"}}
 {"strongs": "H6918", "witnesses": {"bdb": ["bdb-hebrew:BDB7323"], "bdb-shared": ["bdb-hebrew:BDB9852"], "strongs-1890": "strongs-hebrew:H6918"}}
-{"strongs": "H6919", "witnesses": {"strongs-1890": "strongs-hebrew:H6919"}}
-{"strongs": "H6920", "witnesses": {"bdb": ["bdb-hebrew:BDB7165", "bdb-hebrew:BDB7300"], "strongs-1890": "strongs-hebrew:H6920"}}
+{"strongs": "H6919", "witnesses": {"bdb": ["bdb-hebrew:BDB7299"], "strongs-1890": "strongs-hebrew:H6919"}}
+{"strongs": "H6920", "witnesses": {"bdb": ["bdb-hebrew:BDB7300"], "strongs-1890": "strongs-hebrew:H6920"}}
 {"strongs": "H6921", "witnesses": {"bdb": ["bdb-hebrew:BDB7309"], "strongs-1890": "strongs-hebrew:H6921"}}
 {"strongs": "H6922", "witnesses": {"bdb": ["bdb-hebrew:BDB9853"], "bdb-shared": ["bdb-hebrew:BDB7323"], "strongs-1890": "strongs-hebrew:H6922"}}
 {"strongs": "H6923", "witnesses": {"bdb": ["bdb-hebrew:BDB7304"], "bdb-shared": ["bdb-hebrew:BDB7310"], "strongs-1890": "strongs-hebrew:H6923"}}
@@ -6941,9 +6941,9 @@
 {"strongs": "H6941", "witnesses": {"bdb": ["bdb-hebrew:BDB7318"], "strongs-1890": "strongs-hebrew:H6941"}}
 {"strongs": "H6942", "witnesses": {"bdb": ["bdb-hebrew:BDB7324"], "strongs-1890": "strongs-hebrew:H6942"}}
 {"strongs": "H6943", "witnesses": {"bdb": ["bdb-hebrew:BDB7326"], "bdb-shared": ["bdb-hebrew:BDB7638"], "strongs-1890": "strongs-hebrew:H6943"}}
-{"strongs": "H6944", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB7327", "bdb-hebrew:BDB7328"], "strongs-1890": "strongs-hebrew:H6944"}}
+{"strongs": "H6944", "witnesses": {"bdb": ["bdb-hebrew:BDB7322"], "bdb-shared": ["bdb-hebrew:BDB7327", "bdb-hebrew:BDB7328"], "strongs-1890": "strongs-hebrew:H6944"}}
 {"strongs": "H6945", "witnesses": {"bdb": ["bdb-hebrew:BDB7325"], "strongs-1890": "strongs-hebrew:H6945"}}
-{"strongs": "H6946", "witnesses": {"bdb": ["bdb-hebrew:BDB7322", "bdb-hebrew:BDB7327"], "bdb-shared": ["bdb-hebrew:BDB7904", "bdb-hebrew:BDB7905"], "strongs-1890": "strongs-hebrew:H6946"}}
+{"strongs": "H6946", "witnesses": {"bdb": ["bdb-hebrew:BDB7327"], "bdb-shared": ["bdb-hebrew:BDB7322", "bdb-hebrew:BDB7904", "bdb-hebrew:BDB7905"], "strongs-1890": "strongs-hebrew:H6946"}}
 {"strongs": "H6947", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB6023", "bdb-hebrew:BDB7327"], "strongs-1890": "strongs-hebrew:H6947"}}
 {"strongs": "H6948", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB7325"], "strongs-1890": "strongs-hebrew:H6948"}}
 {"strongs": "H6949", "witnesses": {"bdb": ["bdb-hebrew:BDB7329"], "strongs-1890": "strongs-hebrew:H6949"}}
@@ -6991,7 +6991,7 @@
 {"strongs": "H6991", "witnesses": {"bdb": ["bdb-hebrew:BDB7394"], "bdb-shared": ["bdb-hebrew:BDB9859"], "strongs-1890": "strongs-hebrew:H6991"}}
 {"strongs": "H6992", "witnesses": {"bdb": ["bdb-hebrew:BDB9859"], "strongs-1890": "strongs-hebrew:H6992"}}
 {"strongs": "H6993", "witnesses": {"bdb": ["bdb-hebrew:BDB7395"], "strongs-1890": "strongs-hebrew:H6993"}}
-{"strongs": "H6994", "witnesses": {"bdb": ["bdb-hebrew:BDB7396"], "bdb-shared": ["bdb-hebrew:BDB7322"], "strongs-1890": "strongs-hebrew:H6994"}}
+{"strongs": "H6994", "witnesses": {"bdb": ["bdb-hebrew:BDB7396"], "strongs-1890": "strongs-hebrew:H6994"}}
 {"strongs": "H6995", "witnesses": {"bdb": ["bdb-hebrew:BDB7400"], "strongs-1890": "strongs-hebrew:H6995"}}
 {"strongs": "H6996", "witnesses": {"bdb": ["bdb-hebrew:BDB7397", "bdb-hebrew:BDB7399"], "strongs-1890": "strongs-hebrew:H6996"}}
 {"strongs": "H6997", "witnesses": {"bdb": ["bdb-hebrew:BDB7398"], "strongs-1890": "strongs-hebrew:H6997"}}
@@ -7080,7 +7080,7 @@
 {"strongs": "H7080", "witnesses": {"bdb": ["bdb-hebrew:BDB7499"], "strongs-1890": "strongs-hebrew:H7080"}}
 {"strongs": "H7081", "witnesses": {"bdb": ["bdb-hebrew:BDB7498"], "strongs-1890": "strongs-hebrew:H7081"}}
 {"strongs": "H7082", "witnesses": {"bdb": ["bdb-hebrew:BDB7501"], "strongs-1890": "strongs-hebrew:H7082"}}
-{"strongs": "H7083", "witnesses": {"strongs-1890": "strongs-hebrew:H7083"}}
+{"strongs": "H7083", "witnesses": {"bdb": ["bdb-hebrew:BDB7623"], "strongs-1890": "strongs-hebrew:H7083"}}
 {"strongs": "H7084", "witnesses": {"bdb": ["bdb-hebrew:BDB7502"], "strongs-1890": "strongs-hebrew:H7084"}}
 {"strongs": "H7085", "witnesses": {"bdb": ["bdb-hebrew:BDB7504"], "strongs-1890": "strongs-hebrew:H7085"}}
 {"strongs": "H7086", "witnesses": {"bdb": ["bdb-hebrew:BDB7506"], "strongs-1890": "strongs-hebrew:H7086"}}
@@ -7180,7 +7180,7 @@
 {"strongs": "H7180", "witnesses": {"bdb": ["bdb-hebrew:BDB7629"], "strongs-1890": "strongs-hebrew:H7180"}}
 {"strongs": "H7181", "witnesses": {"bdb": ["bdb-hebrew:BDB7631"], "strongs-1890": "strongs-hebrew:H7181"}}
 {"strongs": "H7182", "witnesses": {"bdb": ["bdb-hebrew:BDB7632"], "strongs-1890": "strongs-hebrew:H7182"}}
-{"strongs": "H7183", "witnesses": {"bdb": ["bdb-hebrew:BDB7623", "bdb-hebrew:BDB7633", "bdb-hebrew:BDB7634"], "strongs-1890": "strongs-hebrew:H7183"}}
+{"strongs": "H7183", "witnesses": {"bdb": ["bdb-hebrew:BDB7633", "bdb-hebrew:BDB7634"], "strongs-1890": "strongs-hebrew:H7183"}}
 {"strongs": "H7184", "witnesses": {"bdb": ["bdb-hebrew:BDB7622"], "strongs-1890": "strongs-hebrew:H7184"}}
 {"strongs": "H7185", "witnesses": {"bdb": ["bdb-hebrew:BDB7635"], "strongs-1890": "strongs-hebrew:H7185"}}
 {"strongs": "H7186", "witnesses": {"bdb": ["bdb-hebrew:BDB7636"], "strongs-1890": "strongs-hebrew:H7186"}}
@@ -7621,7 +7621,7 @@
 {"strongs": "H7621", "witnesses": {"bdb": ["bdb-hebrew:BDB8434"], "strongs-1890": "strongs-hebrew:H7621"}}
 {"strongs": "H7622", "witnesses": {"bdb": ["bdb-hebrew:BDB8399"], "bdb-shared": ["bdb-hebrew:BDB8504"], "strongs-1890": "strongs-hebrew:H7622"}}
 {"strongs": "H7623", "witnesses": {"bdb": ["bdb-hebrew:BDB8406", "bdb-hebrew:BDB8407"], "bdb-shared": ["bdb-hebrew:BDB9927"], "strongs-1890": "strongs-hebrew:H7623"}}
-{"strongs": "H7624", "witnesses": {"bdb": ["bdb-hebrew:BDB9927"], "bdb-shared": ["bdb-hebrew:BDB8198"], "strongs-1890": "strongs-hebrew:H7624"}}
+{"strongs": "H7624", "witnesses": {"bdb": ["bdb-hebrew:BDB9927"], "strongs-1890": "strongs-hebrew:H7624"}}
 {"strongs": "H7625", "witnesses": {"bdb": ["bdb-hebrew:BDB9928"], "strongs-1890": "strongs-hebrew:H7625"}}
 {"strongs": "H7626", "witnesses": {"bdb": ["bdb-hebrew:BDB8410"], "bdb-shared": ["bdb-hebrew:BDB9928"], "strongs-1890": "strongs-hebrew:H7626"}}
 {"strongs": "H7627", "witnesses": {"bdb": ["bdb-hebrew:BDB8412"], "strongs-1890": "strongs-hebrew:H7627"}}
@@ -7798,7 +7798,7 @@
 {"strongs": "H7798", "witnesses": {"strongs-1890": "strongs-hebrew:H7798"}}
 {"strongs": "H7799", "witnesses": {"bdb": ["bdb-hebrew:BDB8572"], "strongs-1890": "strongs-hebrew:H7799"}}
 {"strongs": "H7800", "witnesses": {"bdb": ["bdb-hebrew:BDB8573"], "strongs-1890": "strongs-hebrew:H7800"}}
-{"strongs": "H7801", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9944"], "strongs-1890": "strongs-hebrew:H7801"}}
+{"strongs": "H7801", "witnesses": {"bdb": ["bdb-hebrew:BDB9944"], "strongs-1890": "strongs-hebrew:H7801"}}
 {"strongs": "H7802", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB8572"], "strongs-1890": "strongs-hebrew:H7802"}}
 {"strongs": "H7803", "witnesses": {"bdb": ["bdb-hebrew:BDB8575"], "strongs-1890": "strongs-hebrew:H7803"}}
 {"strongs": "H7804", "witnesses": {"bdb": ["bdb-hebrew:BDB9946"], "strongs-1890": "strongs-hebrew:H7804"}}
@@ -7821,7 +7821,7 @@
 {"strongs": "H7821", "witnesses": {"bdb": ["bdb-hebrew:BDB8588"], "strongs-1890": "strongs-hebrew:H7821"}}
 {"strongs": "H7822", "witnesses": {"bdb": ["bdb-hebrew:BDB8594"], "strongs-1890": "strongs-hebrew:H7822"}}
 {"strongs": "H7823", "witnesses": {"bdb": ["bdb-hebrew:BDB5553"], "strongs-1890": "strongs-hebrew:H7823"}}
-{"strongs": "H7824", "witnesses": {"strongs-1890": "strongs-hebrew:H7824"}}
+{"strongs": "H7824", "witnesses": {"bdb": ["bdb-hebrew:BDB8198"], "strongs-1890": "strongs-hebrew:H7824"}}
 {"strongs": "H7825", "witnesses": {"bdb": ["bdb-hebrew:BDB8583"], "strongs-1890": "strongs-hebrew:H7825"}}
 {"strongs": "H7826", "witnesses": {"bdb": ["bdb-hebrew:BDB8591"], "strongs-1890": "strongs-hebrew:H7826"}}
 {"strongs": "H7827", "witnesses": {"bdb": ["bdb-hebrew:BDB8592"], "strongs-1890": "strongs-hebrew:H7827"}}
@@ -8112,7 +8112,7 @@
 {"strongs": "H8112", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB8860"], "strongs-1890": "strongs-hebrew:H8112"}}
 {"strongs": "H8113", "witnesses": {"bdb": ["bdb-hebrew:BDB8852"], "strongs-1890": "strongs-hebrew:H8113"}}
 {"strongs": "H8114", "witnesses": {"bdb": ["bdb-hebrew:BDB8857"], "strongs-1890": "strongs-hebrew:H8114"}}
-{"strongs": "H8115", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9968"], "strongs-1890": "strongs-hebrew:H8115"}}
+{"strongs": "H8115", "witnesses": {"bdb": ["bdb-hebrew:BDB9968"], "strongs-1890": "strongs-hebrew:H8115"}}
 {"strongs": "H8116", "witnesses": {"bdb": ["bdb-hebrew:BDB8854"], "strongs-1890": "strongs-hebrew:H8116"}}
 {"strongs": "H8117", "witnesses": {"bdb": ["bdb-hebrew:BDB8862"], "strongs-1890": "strongs-hebrew:H8117"}}
 {"strongs": "H8118", "witnesses": {"bdb": ["bdb-hebrew:BDB8859"], "strongs-1890": "strongs-hebrew:H8118"}}
@@ -8121,7 +8121,7 @@
 {"strongs": "H8121", "witnesses": {"bdb": ["bdb-hebrew:BDB8874"], "bdb-shared": ["bdb-hebrew:BDB9969"], "strongs-1890": "strongs-hebrew:H8121"}}
 {"strongs": "H8122", "witnesses": {"bdb": ["bdb-hebrew:BDB9970"], "strongs-1890": "strongs-hebrew:H8122"}}
 {"strongs": "H8123", "witnesses": {"bdb": ["bdb-hebrew:BDB8875"], "strongs-1890": "strongs-hebrew:H8123"}}
-{"strongs": "H8124", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9972"], "strongs-1890": "strongs-hebrew:H8124"}}
+{"strongs": "H8124", "witnesses": {"bdb": ["bdb-hebrew:BDB9972"], "strongs-1890": "strongs-hebrew:H8124"}}
 {"strongs": "H8125", "witnesses": {"bdb": ["bdb-hebrew:BDB8876"], "strongs-1890": "strongs-hebrew:H8125"}}
 {"strongs": "H8126", "witnesses": {"bdb": ["bdb-hebrew:BDB8789", "bdb-hebrew:BDB8790"], "strongs-1890": "strongs-hebrew:H8126"}}
 {"strongs": "H8127", "witnesses": {"bdb": ["bdb-hebrew:BDB8891"], "bdb-shared": ["bdb-hebrew:BDB9975"], "strongs-1890": "strongs-hebrew:H8127"}}
@@ -8157,7 +8157,7 @@
 {"strongs": "H8157", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB8901"], "strongs-1890": "strongs-hebrew:H8157"}}
 {"strongs": "H8158", "witnesses": {"bdb": ["bdb-hebrew:BDB8902"], "strongs-1890": "strongs-hebrew:H8158"}}
 {"strongs": "H8159", "witnesses": {"bdb": ["bdb-hebrew:BDB8903"], "bdb-shared": ["bdb-hebrew:BDB8924"], "strongs-1890": "strongs-hebrew:H8159"}}
-{"strongs": "H8160", "witnesses": {"bdb": ["bdb-hebrew:BDB9977"], "bdb-shared": ["bdb-hebrew:BDB8934"], "strongs-1890": "strongs-hebrew:H8160"}}
+{"strongs": "H8160", "witnesses": {"bdb": ["bdb-hebrew:BDB9977"], "strongs-1890": "strongs-hebrew:H8160"}}
 {"strongs": "H8161", "witnesses": {"bdb": ["bdb-hebrew:BDB8905"], "strongs-1890": "strongs-hebrew:H8161"}}
 {"strongs": "H8162", "witnesses": {"bdb": ["bdb-hebrew:BDB8906"], "strongs-1890": "strongs-hebrew:H8162"}}
 {"strongs": "H8163", "witnesses": {"bdb": ["bdb-hebrew:BDB8282", "bdb-hebrew:BDB8283", "bdb-hebrew:BDB8286"], "strongs-1890": "strongs-hebrew:H8163"}}
@@ -8177,7 +8177,7 @@
 {"strongs": "H8177", "witnesses": {"bdb": ["bdb-hebrew:BDB9921"], "strongs-1890": "strongs-hebrew:H8177"}}
 {"strongs": "H8178", "witnesses": {"bdb": ["bdb-hebrew:BDB8281", "bdb-hebrew:BDB8291"], "strongs-1890": "strongs-hebrew:H8178"}}
 {"strongs": "H8179", "witnesses": {"bdb": ["bdb-hebrew:BDB8929"], "bdb-shared": ["bdb-hebrew:BDB6016", "bdb-hebrew:BDB10020"], "strongs-1890": "strongs-hebrew:H8179"}}
-{"strongs": "H8180", "witnesses": {"strongs-1890": "strongs-hebrew:H8180"}}
+{"strongs": "H8180", "witnesses": {"bdb": ["bdb-hebrew:BDB8934"], "strongs-1890": "strongs-hebrew:H8180"}}
 {"strongs": "H8181", "witnesses": {"bdb": ["bdb-hebrew:BDB8278"], "bdb-shared": ["bdb-hebrew:BDB9921"], "strongs-1890": "strongs-hebrew:H8181"}}
 {"strongs": "H8182", "witnesses": {"bdb": ["bdb-hebrew:BDB8936"], "strongs-1890": "strongs-hebrew:H8182"}}
 {"strongs": "H8183", "witnesses": {"bdb": ["bdb-hebrew:BDB8292"], "strongs-1890": "strongs-hebrew:H8183"}}
@@ -8207,7 +8207,7 @@
 {"strongs": "H8207", "witnesses": {"bdb": ["bdb-hebrew:BDB8984"], "strongs-1890": "strongs-hebrew:H8207"}}
 {"strongs": "H8208", "witnesses": {"bdb": ["bdb-hebrew:BDB8994"], "strongs-1890": "strongs-hebrew:H8208"}}
 {"strongs": "H8209", "witnesses": {"bdb": ["bdb-hebrew:BDB9982"], "strongs-1890": "strongs-hebrew:H8209"}}
-{"strongs": "H8210", "witnesses": {"bdb": ["bdb-hebrew:BDB8962"], "bdb-shared": ["bdb-hebrew:BDB5691"], "strongs-1890": "strongs-hebrew:H8210"}}
+{"strongs": "H8210", "witnesses": {"bdb": ["bdb-hebrew:BDB8962"], "strongs-1890": "strongs-hebrew:H8210"}}
 {"strongs": "H8211", "witnesses": {"bdb": ["bdb-hebrew:BDB8963"], "strongs-1890": "strongs-hebrew:H8211"}}
 {"strongs": "H8212", "witnesses": {"bdb": ["bdb-hebrew:BDB8964"], "strongs-1890": "strongs-hebrew:H8212"}}
 {"strongs": "H8213", "witnesses": {"bdb": ["bdb-hebrew:BDB8965"], "bdb-shared": ["bdb-hebrew:BDB9979"], "strongs-1890": "strongs-hebrew:H8213"}}
@@ -8326,7 +8326,7 @@
 {"strongs": "H8326", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9050"], "strongs-1890": "strongs-hebrew:H8326"}}
 {"strongs": "H8327", "witnesses": {"bdb": ["bdb-hebrew:BDB9059"], "strongs-1890": "strongs-hebrew:H8327"}}
 {"strongs": "H8328", "witnesses": {"bdb": ["bdb-hebrew:BDB9058"], "bdb-shared": ["bdb-hebrew:BDB9987"], "strongs-1890": "strongs-hebrew:H8328"}}
-{"strongs": "H8329", "witnesses": {"bdb": ["bdb-hebrew:BDB9060", "bdb-hebrew:BDB9065"], "strongs-1890": "strongs-hebrew:H8329"}}
+{"strongs": "H8329", "witnesses": {"bdb": ["bdb-hebrew:BDB9060"], "strongs-1890": "strongs-hebrew:H8329"}}
 {"strongs": "H8330", "witnesses": {"bdb": ["bdb-hebrew:BDB9987"], "strongs-1890": "strongs-hebrew:H8330"}}
 {"strongs": "H8331", "witnesses": {"bdb": ["bdb-hebrew:BDB9055"], "strongs-1890": "strongs-hebrew:H8331"}}
 {"strongs": "H8332", "witnesses": {"bdb": ["bdb-hebrew:BDB9988"], "strongs-1890": "strongs-hebrew:H8332"}}
@@ -8335,9 +8335,9 @@
 {"strongs": "H8335", "witnesses": {"bdb": ["bdb-hebrew:BDB9062"], "strongs-1890": "strongs-hebrew:H8335"}}
 {"strongs": "H8336", "witnesses": {"bdb": ["bdb-hebrew:BDB8647", "bdb-hebrew:BDB9063"], "strongs-1890": "strongs-hebrew:H8336"}}
 {"strongs": "H8337", "witnesses": {"bdb": ["bdb-hebrew:BDB8488"], "bdb-shared": ["bdb-hebrew:BDB8647", "bdb-hebrew:BDB9936"], "strongs-1890": "strongs-hebrew:H8337"}}
-{"strongs": "H8338", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB8491"], "strongs-1890": "strongs-hebrew:H8338"}}
-{"strongs": "H8339", "witnesses": {"bdb": ["bdb-hebrew:BDB9064"], "strongs-1890": "strongs-hebrew:H8339"}}
-{"strongs": "H8340", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9064"], "strongs-1890": "strongs-hebrew:H8340"}}
+{"strongs": "H8338", "witnesses": {"bdb": ["bdb-hebrew:BDB9064"], "bdb-shared": ["bdb-hebrew:BDB8491"], "strongs-1890": "strongs-hebrew:H8338"}}
+{"strongs": "H8339", "witnesses": {"bdb": ["bdb-hebrew:BDB9065"], "strongs-1890": "strongs-hebrew:H8339"}}
+{"strongs": "H8340", "witnesses": {"strongs-1890": "strongs-hebrew:H8340"}}
 {"strongs": "H8341", "witnesses": {"bdb": ["bdb-hebrew:BDB8491"], "bdb-shared": ["bdb-hebrew:BDB8489"], "strongs-1890": "strongs-hebrew:H8341"}}
 {"strongs": "H8342", "witnesses": {"bdb": ["bdb-hebrew:BDB8193"], "strongs-1890": "strongs-hebrew:H8342"}}
 {"strongs": "H8343", "witnesses": {"bdb": ["bdb-hebrew:BDB9066"], "strongs-1890": "strongs-hebrew:H8343"}}
@@ -8367,7 +8367,7 @@
 {"strongs": "H8367", "witnesses": {"bdb": ["bdb-hebrew:BDB9083"], "strongs-1890": "strongs-hebrew:H8367"}}
 {"strongs": "H8368", "witnesses": {"bdb": ["bdb-hebrew:BDB8354"], "bdb-shared": ["bdb-hebrew:BDB9744"], "strongs-1890": "strongs-hebrew:H8368"}}
 {"strongs": "H8369", "witnesses": {"bdb": ["bdb-hebrew:BDB9084"], "strongs-1890": "strongs-hebrew:H8369"}}
-{"strongs": "H8370", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB9993"], "strongs-1890": "strongs-hebrew:H8370"}}
+{"strongs": "H8370", "witnesses": {"bdb": ["bdb-hebrew:BDB9993"], "strongs-1890": "strongs-hebrew:H8370"}}
 {"strongs": "H8371", "witnesses": {"bdb": ["bdb-hebrew:BDB9085"], "bdb-shared": ["bdb-hebrew:BDB8526"], "strongs-1890": "strongs-hebrew:H8371"}}
 {"strongs": "H8372", "witnesses": {"bdb": ["bdb-hebrew:BDB9087"], "strongs-1890": "strongs-hebrew:H8372"}}
 {"strongs": "H8373", "witnesses": {"bdb": ["bdb-hebrew:BDB9088"], "strongs-1890": "strongs-hebrew:H8373"}}
@@ -8383,7 +8383,7 @@
 {"strongs": "H8383", "witnesses": {"bdb": ["bdb-hebrew:BDB224"], "strongs-1890": "strongs-hebrew:H8383"}}
 {"strongs": "H8384", "witnesses": {"bdb": ["bdb-hebrew:BDB9096"], "strongs-1890": "strongs-hebrew:H8384"}}
 {"strongs": "H8385", "witnesses": {"bdb": ["bdb-hebrew:BDB584"], "strongs-1890": "strongs-hebrew:H8385"}}
-{"strongs": "H8386", "witnesses": {"strongs-1890": "strongs-hebrew:H8386"}}
+{"strongs": "H8386", "witnesses": {"bdb": ["bdb-hebrew:BDB578"], "strongs-1890": "strongs-hebrew:H8386"}}
 {"strongs": "H8387", "witnesses": {"bdb": ["bdb-hebrew:BDB9097"], "strongs-1890": "strongs-hebrew:H8387"}}
 {"strongs": "H8388", "witnesses": {"bdb": ["bdb-hebrew:BDB9098", "bdb-hebrew:BDB9100"], "bdb-shared": ["bdb-hebrew:BDB9091"], "strongs-1890": "strongs-hebrew:H8388"}}
 {"strongs": "H8389", "witnesses": {"bdb": ["bdb-hebrew:BDB9099"], "strongs-1890": "strongs-hebrew:H8389"}}
@@ -8393,7 +8393,7 @@
 {"strongs": "H8393", "witnesses": {"bdb": ["bdb-hebrew:BDB950"], "strongs-1890": "strongs-hebrew:H8393"}}
 {"strongs": "H8394", "witnesses": {"bdb": ["bdb-hebrew:BDB1042"], "strongs-1890": "strongs-hebrew:H8394"}}
 {"strongs": "H8395", "witnesses": {"bdb": ["bdb-hebrew:BDB968"], "strongs-1890": "strongs-hebrew:H8395"}}
-{"strongs": "H8396", "witnesses": {"bdb": ["bdb-hebrew:BDB578", "bdb-hebrew:BDB9102"], "bdb-shared": ["bdb-hebrew:BDB4126"], "strongs-1890": "strongs-hebrew:H8396"}}
+{"strongs": "H8396", "witnesses": {"bdb": ["bdb-hebrew:BDB9102"], "bdb-shared": ["bdb-hebrew:BDB4126"], "strongs-1890": "strongs-hebrew:H8396"}}
 {"strongs": "H8397", "witnesses": {"bdb": ["bdb-hebrew:BDB1142"], "strongs-1890": "strongs-hebrew:H8397"}}
 {"strongs": "H8398", "witnesses": {"bdb": ["bdb-hebrew:BDB3404"], "strongs-1890": "strongs-hebrew:H8398"}}
 {"strongs": "H8399", "witnesses": {"bdb": ["bdb-hebrew:BDB1125"], "strongs-1890": "strongs-hebrew:H8399"}}
@@ -8401,11 +8401,11 @@
 {"strongs": "H8401", "witnesses": {"bdb": ["bdb-hebrew:BDB9103"], "strongs-1890": "strongs-hebrew:H8401"}}
 {"strongs": "H8402", "witnesses": {"bdb": ["bdb-hebrew:BDB9105"], "strongs-1890": "strongs-hebrew:H8402"}}
 {"strongs": "H8403", "witnesses": {"bdb": ["bdb-hebrew:BDB1197"], "strongs-1890": "strongs-hebrew:H8403"}}
-{"strongs": "H8404", "witnesses": {"strongs-1890": "strongs-hebrew:H8404"}}
+{"strongs": "H8404", "witnesses": {"bdb": ["bdb-hebrew:BDB1239"], "strongs-1890": "strongs-hebrew:H8404"}}
 {"strongs": "H8405", "witnesses": {"bdb": ["bdb-hebrew:BDB9106"], "strongs-1890": "strongs-hebrew:H8405"}}
 {"strongs": "H8406", "witnesses": {"bdb": ["bdb-hebrew:BDB9994"], "strongs-1890": "strongs-hebrew:H8406"}}
-{"strongs": "H8407", "witnesses": {"bdb": ["bdb-hebrew:BDB1239", "bdb-hebrew:BDB9107"], "strongs-1890": "strongs-hebrew:H8407"}}
-{"strongs": "H8408", "witnesses": {"strongs-1890": "strongs-hebrew:H8408"}}
+{"strongs": "H8407", "witnesses": {"bdb": ["bdb-hebrew:BDB9107"], "strongs-1890": "strongs-hebrew:H8407"}}
+{"strongs": "H8408", "witnesses": {"bdb": ["bdb-hebrew:BDB1683"], "strongs-1890": "strongs-hebrew:H8408"}}
 {"strongs": "H8409", "witnesses": {"bdb": ["bdb-hebrew:BDB1736"], "strongs-1890": "strongs-hebrew:H8409"}}
 {"strongs": "H8410", "witnesses": {"bdb": ["bdb-hebrew:BDB1857"], "strongs-1890": "strongs-hebrew:H8410"}}
 {"strongs": "H8411", "witnesses": {"bdb": ["bdb-hebrew:BDB9435"], "strongs-1890": "strongs-hebrew:H8411"}}
@@ -8416,7 +8416,7 @@
 {"strongs": "H8416", "witnesses": {"bdb": ["bdb-hebrew:BDB2178"], "strongs-1890": "strongs-hebrew:H8416"}}
 {"strongs": "H8417", "witnesses": {"bdb": ["bdb-hebrew:BDB9113"], "strongs-1890": "strongs-hebrew:H8417"}}
 {"strongs": "H8418", "witnesses": {"bdb": ["bdb-hebrew:BDB2167"], "strongs-1890": "strongs-hebrew:H8418"}}
-{"strongs": "H8419", "witnesses": {"strongs-1890": "strongs-hebrew:H8419"}}
+{"strongs": "H8419", "witnesses": {"bdb": ["bdb-hebrew:BDB2217"], "strongs-1890": "strongs-hebrew:H8419"}}
 {"strongs": "H8420", "witnesses": {"bdb": ["bdb-hebrew:BDB9119"], "strongs-1890": "strongs-hebrew:H8420"}}
 {"strongs": "H8421", "witnesses": {"bdb": ["bdb-hebrew:BDB9995"], "strongs-1890": "strongs-hebrew:H8421"}}
 {"strongs": "H8422", "witnesses": {"bdb": ["bdb-hebrew:BDB9116"], "strongs-1890": "strongs-hebrew:H8422"}}
@@ -8467,7 +8467,7 @@
 {"strongs": "H8467", "witnesses": {"bdb": ["bdb-hebrew:BDB2953"], "strongs-1890": "strongs-hebrew:H8467"}}
 {"strongs": "H8468", "witnesses": {"bdb": ["bdb-hebrew:BDB2954"], "strongs-1890": "strongs-hebrew:H8468"}}
 {"strongs": "H8469", "witnesses": {"bdb": ["bdb-hebrew:BDB2955"], "strongs-1890": "strongs-hebrew:H8469"}}
-{"strongs": "H8470", "witnesses": {"bdb": ["bdb-hebrew:BDB2921", "bdb-hebrew:BDB9200"], "strongs-1890": "strongs-hebrew:H8470"}}
+{"strongs": "H8470", "witnesses": {"bdb": ["bdb-hebrew:BDB2921"], "strongs-1890": "strongs-hebrew:H8470"}}
 {"strongs": "H8471", "witnesses": {"bdb": ["bdb-hebrew:BDB9133"], "strongs-1890": "strongs-hebrew:H8471"}}
 {"strongs": "H8472", "witnesses": {"bdb": ["bdb-hebrew:BDB9134"], "strongs-1890": "strongs-hebrew:H8472"}}
 {"strongs": "H8473", "witnesses": {"bdb": ["bdb-hebrew:BDB9135"], "strongs-1890": "strongs-hebrew:H8473"}}
@@ -8487,7 +8487,7 @@
 {"strongs": "H8487", "witnesses": {"bdb": ["bdb-hebrew:BDB3579"], "strongs-1890": "strongs-hebrew:H8487"}}
 {"strongs": "H8488", "witnesses": {"bdb": ["bdb-hebrew:BDB3581"], "strongs-1890": "strongs-hebrew:H8488"}}
 {"strongs": "H8489", "witnesses": {"bdb": ["bdb-hebrew:BDB3580"], "strongs-1890": "strongs-hebrew:H8489"}}
-{"strongs": "H8490", "witnesses": {"strongs-1890": "strongs-hebrew:H8490"}}
+{"strongs": "H8490", "witnesses": {"bdb": ["bdb-hebrew:BDB9200"], "strongs-1890": "strongs-hebrew:H8490"}}
 {"strongs": "H8491", "witnesses": {"bdb": ["bdb-hebrew:BDB9144"], "strongs-1890": "strongs-hebrew:H8491"}}
 {"strongs": "H8492", "witnesses": {"bdb": ["bdb-hebrew:BDB3768"], "strongs-1890": "strongs-hebrew:H8492"}}
 {"strongs": "H8493", "witnesses": {"bdb": ["bdb-hebrew:BDB3714", "bdb-hebrew:BDB9145"], "strongs-1890": "strongs-hebrew:H8493"}}
@@ -8564,7 +8564,7 @@
 {"strongs": "H8564", "witnesses": {"bdb": ["bdb-hebrew:BDB9201"], "strongs-1890": "strongs-hebrew:H8564"}}
 {"strongs": "H8565", "witnesses": {"bdb": ["bdb-hebrew:BDB9210"], "strongs-1890": "strongs-hebrew:H8565"}}
 {"strongs": "H8566", "witnesses": {"bdb": ["bdb-hebrew:BDB9202"], "strongs-1890": "strongs-hebrew:H8566"}}
-{"strongs": "H8567", "witnesses": {"strongs-1890": "strongs-hebrew:H8567"}}
+{"strongs": "H8567", "witnesses": {"bdb": ["bdb-hebrew:BDB9205"], "strongs-1890": "strongs-hebrew:H8567"}}
 {"strongs": "H8568", "witnesses": {"strongs-1890": "strongs-hebrew:H8568"}}
 {"strongs": "H8569", "witnesses": {"bdb": ["bdb-hebrew:BDB5029"], "strongs-1890": "strongs-hebrew:H8569"}}
 {"strongs": "H8570", "witnesses": {"bdb": ["bdb-hebrew:BDB5034"], "strongs-1890": "strongs-hebrew:H8570"}}
@@ -8613,9 +8613,9 @@
 {"strongs": "H8613", "witnesses": {"bdb": ["bdb-hebrew:BDB9236"], "strongs-1890": "strongs-hebrew:H8613"}}
 {"strongs": "H8614", "witnesses": {"bdb": ["bdb-hebrew:BDB10011"], "strongs-1890": "strongs-hebrew:H8614"}}
 {"strongs": "H8615", "witnesses": {"bdb": ["bdb-hebrew:BDB7350", "bdb-hebrew:BDB7351"], "strongs-1890": "strongs-hebrew:H8615"}}
-{"strongs": "H8616", "witnesses": {"strongs-1890": "strongs-hebrew:H8616"}}
+{"strongs": "H8616", "witnesses": {"bdb": ["bdb-hebrew:BDB7352"], "strongs-1890": "strongs-hebrew:H8616"}}
 {"strongs": "H8617", "witnesses": {"bdb": ["bdb-hebrew:BDB7370"], "strongs-1890": "strongs-hebrew:H8617"}}
-{"strongs": "H8618", "witnesses": {"bdb": ["bdb-hebrew:BDB7352", "bdb-hebrew:BDB7371"], "strongs-1890": "strongs-hebrew:H8618"}}
+{"strongs": "H8618", "witnesses": {"bdb": ["bdb-hebrew:BDB7371"], "strongs-1890": "strongs-hebrew:H8618"}}
 {"strongs": "H8619", "witnesses": {"bdb": ["bdb-hebrew:BDB9240"], "strongs-1890": "strongs-hebrew:H8619"}}
 {"strongs": "H8620", "witnesses": {"bdb": ["bdb-hebrew:BDB9241"], "strongs-1890": "strongs-hebrew:H8620"}}
 {"strongs": "H8621", "witnesses": {"bdb": ["bdb-hebrew:BDB9242"], "strongs-1890": "strongs-hebrew:H8621"}}
@@ -8643,9 +8643,9 @@
 {"strongs": "H8643", "witnesses": {"bdb": ["bdb-hebrew:BDB7825"], "strongs-1890": "strongs-hebrew:H8643"}}
 {"strongs": "H8644", "witnesses": {"bdb": ["bdb-hebrew:BDB7827"], "strongs-1890": "strongs-hebrew:H8644"}}
 {"strongs": "H8645", "witnesses": {"bdb": ["bdb-hebrew:BDB9250"], "strongs-1890": "strongs-hebrew:H8645"}}
-{"strongs": "H8646", "witnesses": {"strongs-1890": "strongs-hebrew:H8646"}}
+{"strongs": "H8646", "witnesses": {"bdb": ["bdb-hebrew:BDB9251"], "strongs-1890": "strongs-hebrew:H8646"}}
 {"strongs": "H8647", "witnesses": {"bdb": ["bdb-hebrew:BDB7877"], "strongs-1890": "strongs-hebrew:H8647"}}
-{"strongs": "H8648", "witnesses": {"bdb": ["bdb-hebrew:BDB10010", "bdb-hebrew:BDB10019"], "bdb-shared": ["bdb-hebrew:BDB9251"], "strongs-1890": "strongs-hebrew:H8648"}}
+{"strongs": "H8648", "witnesses": {"bdb": ["bdb-hebrew:BDB10010", "bdb-hebrew:BDB10019"], "strongs-1890": "strongs-hebrew:H8648"}}
 {"strongs": "H8649", "witnesses": {"bdb": ["bdb-hebrew:BDB7947", "bdb-hebrew:BDB7948", "bdb-hebrew:BDB7949"], "strongs-1890": "strongs-hebrew:H8649"}}
 {"strongs": "H8650", "witnesses": {"bdb": ["bdb-hebrew:BDB9252"], "strongs-1890": "strongs-hebrew:H8650"}}
 {"strongs": "H8651", "witnesses": {"bdb": ["bdb-hebrew:BDB10020"], "strongs-1890": "strongs-hebrew:H8651"}}
@@ -8671,7 +8671,7 @@
 {"strongs": "H8671", "witnesses": {"bdb": ["bdb-hebrew:BDB9262"], "strongs-1890": "strongs-hebrew:H8671"}}
 {"strongs": "H8672", "witnesses": {"bdb": ["bdb-hebrew:BDB9261"], "strongs-1890": "strongs-hebrew:H8672"}}
 {"strongs": "H8673", "witnesses": {"bdb": ["bdb-hebrew:BDB9263"], "strongs-1890": "strongs-hebrew:H8673"}}
-{"strongs": "H8674", "witnesses": {"bdb-shared": ["bdb-hebrew:BDB10022"], "strongs-1890": "strongs-hebrew:H8674"}}
+{"strongs": "H8674", "witnesses": {"bdb": ["bdb-hebrew:BDB10022"], "strongs-1890": "strongs-hebrew:H8674"}}
 {"strongs": "G1", "witnesses": {"lsj": ["lsj-greek:G0001G", "lsj-greek:G0001H"], "strongs-1890": "strongs-greek:G1", "tbesg": ["tbesg-greek:G0001G", "tbesg-greek:G0001H"]}}
 {"strongs": "G2", "witnesses": {"lsj": ["lsj-greek:G0002"], "strongs-1890": "strongs-greek:G2", "tbesg": ["tbesg-greek:G0002"]}}
 {"strongs": "G3", "witnesses": {"lsj": ["lsj-greek:G0003"], "strongs-1890": "strongs-greek:G3", "tbesg": ["tbesg-greek:G0003"]}}

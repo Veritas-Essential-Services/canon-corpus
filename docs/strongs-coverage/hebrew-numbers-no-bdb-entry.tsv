@@ -21,7 +21,6 @@ H169	hbo	אֹהֶל	shared
 H206	hbo	אָוֶן	shared
 H274	hbo	אֲחַזְיָה	shared
 H277	hbo	אֲחִי	shared
-H307	hbo	אַחְמְתָא	shared
 H317	arc	אׇחֳרִי	shared
 H341	hbo	אֹיֵב	shared
 H358	hbo	אֵילוֹן בֵּית חָנָן	shared
@@ -33,7 +32,6 @@ H382	hbo	אִישׁ־טוֹב	shared
 H388	hbo	אֵיתָנִים	shared
 H415	hbo	אֵל אֱלֹהֵי יִשְׂרָאֵל	shared
 H416	hbo	אֵל בֵּית־אֵל	shared
-H426	hbo	אֱלָהּ	shared
 H431	arc	אֲלוּ	shared
 H449	hbo	אֱלִידָד	shared
 H459	arc	אִלֵּין	shared
@@ -43,18 +41,13 @@ H516	hbo	אַל תַּשְׁחֵת	shared
 H527	hbo	אָמוֹן	shared
 H547	hbo	אֹמְנָה	shared
 H553	hbo	אָמַץ	none
-H576	hbo	אֲנָא	shared
 H612	hbo	אֵסוּר	shared
-H620	hbo	אׇסְנַפַּר	shared
 H624	hbo	אָסֻף	shared
-H670	hbo	אֲפָרְסַי	shared
-H671	hbo	אֲפַרְסְכַי	shared
 H706	hbo	אַרְבַּעְתַּיִם	shared
 H723	hbo	אֻרְוָה	shared
 H726	hbo	אֲרוֹמִי	shared
 H740	hbo	אֲרִיאֵל	shared
 H747	hbo	אֲרִיסַי	none
-H756	hbo	אַרְכְּוַי	shared
 H760	hbo	אֲרַם צוֹבָה	shared
 H763	hbo	אֲרַם נַהֲרַיִם	shared
 H791	hbo	אַשְׁבֵּעַ	none
@@ -67,8 +60,6 @@ H865	hbo	אֶתְמוֹל	shared
 H869	hbo	אֶתְנַן	shared
 H876	hbo	בְּאֵר	shared
 H879	hbo	בְּאֵר אֵלִים	shared
-H887	hbo	בָּאַשׁ	shared
-H896	hbo	בַּבְלִי	shared
 H960	hbo	בָּזֹה	shared
 H1028	hbo	בֵּית הָרָן	shared
 H1037	hbo	בֵּית מִלּוֹא	shared
@@ -102,14 +93,10 @@ H1447	hbo	גָּדֵר	shared
 H1499	hbo	גֵּזֶל	shared
 H1519	arc	גִּיחַ	none
 H1531	hbo	גֹּל	shared
+H1581	hbo	גָּמָל	none
 H1594	hbo	גִּנָּה	shared
 H1708	hbo	דַּבֶּשֶׁת	shared
-H1723	hbo	דַּהֲוָא	shared
-H1746	hbo	דּוּמָה	none
-H1757	hbo	דּוּרָא	shared
 H1771	hbo	דַּיָּג	shared
-H1784	hbo	דִּינַי	shared
-H1841	hbo	דָּנִיֵּאל	shared
 H1855	arc	דְּקַק	shared
 H1939	hbo	הוֹדַיְוָהוּ	shared
 H1941	hbo	הוֹדִיָּה	shared
@@ -118,14 +105,11 @@ H1965	arc	הֵיכַל	shared
 H1996	hbo	הֲמוֹן גּוֹג	shared
 H2017	hbo	הֹפֶךְ	shared
 H2042	hbo	הָרָר	shared
-H2088	hbo	זֶה	shared
 H2089	hbo	זֶה	shared
 H2116	hbo	זוּרֶה	shared
 H2176	hbo	זִמְרָת	shared
 H2185	hbo	זֹנוֹת	none
 H2189	hbo	זַעֲוָה	shared
-H2214	hbo	זָרָא	none
-H2298	arc	חַד	shared
 H2316	hbo	חֲדַר	shared
 H2334	hbo	חַוּוֹת יָעִיר	shared
 H2337	hbo	חָוָח	shared
@@ -153,13 +137,9 @@ H2798	hbo	חֲרָשִׁים	shared
 H2824	hbo	חֶשְׁכָה	shared
 H2890	hbo	טְהוֹר	shared
 H2922	hbo	טְלָא	shared
-H2929	hbo	טַלְמוֹן	none
 H2941	arc	טַעַם	shared
 H2962	hbo	טֶרֶם	shared
-H2967	hbo	טַרְפְּלַי	shared
-H3026	hbo	יְגַר שַׂהֲדוּתָא	shared
 H3057	hbo	יְהֻדִיָּה	shared
-H3062	hbo	יְהוּדָאִי	shared
 H3069	hbo	יְהֹוִה	shared
 H3070	hbo	יְהֹוָה יִרְאֶה	shared
 H3071	hbo	יְהֹוָה נִסִּי	shared
@@ -190,7 +170,6 @@ H3185	hbo	יַחְצִיאֵל	shared
 H3212	hbo	יָלַךְ	shared
 H3240	hbo	יָנַח	shared
 H3249	hbo	יָסוּר	shared
-H3252	hbo	יִסְכָּה	none
 H3273	hbo	יְעִיאֵל	shared
 H3274	hbo	יְעִישׁ	shared
 H3292	hbo	יַעֲקָן	shared
@@ -198,10 +177,8 @@ H3301	hbo	יִפְדְּיָה	none
 H3334	hbo	יָצַר	shared
 H3340	hbo	יִצְרִי	shared
 H3347	hbo	יׇקְדְעָם	shared
-H3421	hbo	יׇרְקְעָם	none
 H3442	hbo	יֵשׁוּעַ	shared
 H3482	hbo	יִשְׂרְאֵלִית	shared
-H3567	hbo	כּוֹרֶשׁ	shared
 H3571	hbo	כּוּשִׁית	shared
 H3613	hbo	כָּלֵב אֶפְרָתָה	shared
 H3659	hbo	כׇּנְיָהוּ	shared
@@ -213,7 +190,6 @@ H3762	hbo	כַּרְמְלִית	shared
 H3769	hbo	כָּרַר	shared
 H3773	hbo	כָּרֻתָה	shared
 H3778	hbo	כַּשְׂדִּי	shared
-H3779	hbo	כַּשְׂדַּי	shared
 H3827	hbo	לַבָּה	shared
 H3840	hbo	לִבְנָה	shared
 H3866	hbo	לוּדִי	shared
@@ -228,20 +204,16 @@ H4092	hbo	מְדָנִי	shared
 H4109	hbo	מַהֲלָךְ	shared
 H4118	hbo	מַהֵר	none
 H4123	hbo	מַהֲתַלָּה	none
-H4138	hbo	מוֹלֶדֶת	none
 H4142	hbo	מוּסַבָּה	none
 H4146	hbo	מוֹסָדָה	shared
 H4153	hbo	מוֹעַדְיָה	shared
 H4154	hbo	מוּעֶדֶת	shared
 H4176	hbo	מוֹרֶה	shared
 H4178	hbo	מוֹרָט	shared
-H4195	hbo	מוֹתָר	none
 H4215	hbo	מְזָרֶה	shared
 H4282	hbo	מַחֲרֶשֶׁת	shared
 H4319	hbo	מִיכָהוּ	shared
 H4328	hbo	מְיֻסָּדָה	shared
-H4333	hbo	מִישָׁאֵל	shared
-H4336	hbo	מֵישַׁךְ	shared
 H4342	hbo	מַכְבִּיר	shared
 H4356	hbo	מִכְלָאָה	shared
 H4369	hbo	מְכֻנָה	shared
@@ -261,7 +233,6 @@ H4704	hbo	מִצְּעִירָה	shared
 H4717	hbo	מַקָּבָה	shared
 H4725	hbo	מָקוֹם	none
 H4742	hbo	מְקֻצְעָה	shared
-H4756	arc	מָרֵא	none
 H4757	hbo	מְרֹאדַךְ בַּלְאָדָן	shared
 H4763	hbo	מְרַאֲשָׁה	shared
 H4798	hbo	מַרְזֵחַ	shared
@@ -272,6 +243,7 @@ H4930	hbo	מַשְׂמְרָה	shared
 H4965	hbo	מֶתֶג הָאַמָּה	shared
 H4972	hbo	מַתְּלָאָה	none
 H4973	hbo	מְתַלְּעָה	shared
+H4984	hbo	מִתְנַשֵּׂא	shared
 H4988	hbo	מָתָק	shared
 H4999	hbo	נָאָה	shared
 H5118	hbo	נוּחַ	shared
@@ -284,29 +256,19 @@ H5297	hbo	נֹף	shared
 H5300	hbo	נְפוּשְׁסִים	shared
 H5354	hbo	נָקַט	shared
 H5372	hbo	נִרְגָּן	shared
-H5375	hbo	נָשָׂא	shared
-H5383	hbo	נָשָׁה	shared
 H5494	hbo	סוּר	shared
-H5503	hbo	סָחַר	none
 H5505	hbo	סָחַר	shared
 H5574	hbo	סְנוּאָה	shared
 H5598	hbo	סִפַּי	shared
 H5626	hbo	סִרָה	shared
 H5635	hbo	סָרַף	shared
-H5665	hbo	עֲבֵד נְגוֹא	shared
-H5668	hbo	עָבוּר	none
-H5686	hbo	עָבַת	none
-H5687	hbo	עָבֹת	none
 H5722	hbo	עֲדִינוֹ	shared
 H5735	hbo	עֲדְעָדָה	shared
 H5815	hbo	עֲזִיאֵל	none
-H5831	hbo	עֶזְרָא	shared
-H5839	hbo	עֲזַרְיָה	shared
 H5843	arc	עֵטָא	shared
 H5853	hbo	עַטְרוֹת אַדָּר	shared
 H5854	hbo	עַטְרוֹת בֵּית יוֹאָב	shared
 H5855	hbo	עַטְרוֹת שׁוֹפָן	shared
-H5858	hbo	עֵיבָל	none
 H5863	hbo	עִיֵּי הָעֲבָרִים	none
 H5865	hbo	עֵילוֹם	shared
 H5875	hbo	עֵין הַקּוֹרֵא	shared
@@ -316,7 +278,6 @@ H5888	hbo	עָיֵף	shared
 H5917	hbo	עָכָר	shared
 H5921	hbo	עַל	shared
 H5932	hbo	עַלְוָה	shared
-H5962	hbo	עַלְמִי	shared
 H5976	hbo	עָמַד	shared
 H5978	hbo	עִמָּד	shared
 H5985	hbo	עַמּוֹנִית	shared
@@ -328,7 +289,6 @@ H6077	hbo	עֹפֶל	shared
 H6112	hbo	עֵצֶן	none
 H6159	hbo	עֹרֵב	shared
 H6164	hbo	עַרְבָתִי	shared
-H6165	hbo	עָרַג	none
 H6255	hbo	עַשְׁתְּרֹת קַרְנַיִם	shared
 H6264	hbo	עָתִיד	shared
 H6271	hbo	עֲתַלְיָה	shared
@@ -352,14 +312,11 @@ H6708	hbo	צְחִיחִי	none
 H6737	hbo	צָיַר	shared
 H6752	hbo	צֵלֶל	shared
 H6799	hbo	צְנָן	shared
-H6820	hbo	צֹעַר	shared
 H6827	hbo	צְפוֹן	shared
 H6839	hbo	צֹפִים	shared
 H6897	hbo	קֹבָה	shared
 H6905	hbo	קָבָל	shared
 H6909	hbo	קַבְצְאֵל	shared
-H6919	hbo	קָדַח	none
-H6944	hbo	קֹדֶשׁ	shared
 H6947	hbo	קָדֵשׁ בַּרְנֵעַ	shared
 H6948	hbo	קְדֵשָׁה	shared
 H6961	hbo	קָוֶה	shared
@@ -370,7 +327,6 @@ H7025	hbo	קִיר חֶרֶשׂ	shared
 H7029	hbo	קִישִׁי	shared
 H7041	hbo	קֵלָיָה	shared
 H7063	hbo	קִמָּשׁוֹן	shared
-H7083	hbo	קֶסֶת	none
 H7113	arc	קְצַץ	none
 H7119	hbo	קַר	none
 H7125	hbo	קִרְאָה	shared
@@ -413,10 +369,8 @@ H7773	hbo	שֶׁוַע	shared
 H7780	hbo	שׁוֹפָךְ	shared
 H7786	hbo	שׂוּר	shared
 H7798	hbo	שַׁוְשָׁא	none
-H7801	hbo	שׁוּשַׁנְכִי	shared
 H7802	hbo	שׁוּשַׁן עֵדוּת	shared
 H7820	hbo	שָׁחַט	shared
-H7824	hbo	שָׁחִיף	none
 H7864	hbo	שְׁיָא	none
 H7873	hbo	שִׂיג	shared
 H7917	hbo	שְׂכִירָה	shared
@@ -432,13 +386,10 @@ H8023	hbo	שִׁלֹנִי	shared
 H8067	hbo	שְׁמִינִית	shared
 H8073	hbo	שַׁמְלַי	shared
 H8112	hbo	שִׁמְרוֹן מְראוֹן	shared
-H8115	hbo	שׇׁמְרַיִן	shared
-H8124	hbo	שִׁמְשַׁי	shared
 H8132	hbo	שָׁנָא	shared
 H8133	arc	שְׁנָא	shared
 H8153	hbo	שְׁנָת	shared
 H8157	hbo	שֶׁסַע	shared
-H8180	hbo	שַׁעַר	none
 H8226	hbo	שָׂפַן	shared
 H8241	hbo	שֶׁצֶף	shared
 H8249	hbo	שִׁקֻּו	none
@@ -446,28 +397,17 @@ H8284	hbo	שָׁרָה	shared
 H8293	hbo	שֵׁרוּת	shared
 H8309	hbo	שְׁרֵמָה	shared
 H8326	hbo	שֹׁרֶר	shared
-H8338	hbo	שָׁשָׁא	shared
-H8340	hbo	שֵׁשְׁבַּצַּר	shared
+H8340	arc	שֵׁשְׁבַּצַּר	none
 H8351	hbo	שֵׁת	none
-H8370	hbo	שְׁתַר בּוֹזְנַי	shared
-H8386	hbo	תַּאֲנִיָּה	none
 H8390	hbo	תַּאֲרֵעַ	shared
-H8404	hbo	תַּבְעֵרָה	none
-H8408	hbo	תַּגְמוּל	none
-H8419	hbo	תַּהְפֻּכָה	none
 H8445	hbo	תּוֹקַהַת	shared
 H8448	hbo	תּוֹר	shared
 H8452	hbo	תּוֹרָה	shared
 H8459	hbo	תֹּחוּ	shared
 H8474	hbo	תַּחָרָה	shared
 H8479	arc	תַּחַת	shared
-H8490	hbo	תִּימָרָה	none
 H8499	hbo	תְּכוּנָה	shared
 H8501	hbo	תָּכָךְ	shared
 H8550	hbo	תֻּמִּים	shared
-H8567	hbo	תָּנָה	none
 H8568	hbo	תַּנָּה	none
-H8616	hbo	תִּקְוָה	none
 H8637	hbo	תִּרְגַּל	shared
-H8646	hbo	תֶּרַח	none
-H8674	hbo	תַּתְּנַי	shared

@@ -203,7 +203,11 @@ def build_table():
             key = u["id"].split(":", 1)[1]
             lx = u["lex"]
             if lang == "hebrew":
-                tongue = "arc" if lx.get("lang") == "arc" else "hbo"
+                # Strong's prints "(Aramaic)" at the head of an Aramaic word's
+                # derivation; the markup tags 25 of them (mostly names: H1841
+                # Daniel, H3567 Cyrus) as Hebrew. The printed note wins.
+                aram = lx.get("lang") == "arc" or (lx.get("derivation") or "").startswith("(Aramaic)")
+                tongue = "arc" if aram else "hbo"
             else:
                 tongue = "grc"
             see = []
@@ -304,6 +308,25 @@ def _bdb_heads(u):
     return heads
 
 
+# BDB's own keys that are wrong in the source (a digit slip: qodesh keyed H6994,
+# qaton, for H6944). Never fixed in the source: each row names the entry, the
+# keys the source gives (checked, so a changed source stops the build), the
+# number that is its own, the keys that are slips and are dropped, and why.
+BDB_OVERRIDES = os.path.join(ROOT, "data", "strongs", "bdb-key-overrides.jsonl")
+
+
+def read_bdb_overrides(path=None):
+    path = path or BDB_OVERRIDES
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        rows = [json.loads(l) for l in f if l.strip()]
+    out = {r["bdb"]: r for r in rows}
+    if len(out) != len(rows):
+        raise SystemExit("HARD STOP: bdb-key-overrides.jsonl names an entry twice")
+    return out
+
+
 def build_witnesses(table, prior_rows, prior_manifest):
     keys = {t["strongs"] for t in table}
     lang = {t["strongs"]: t["lang"] for t in table}
@@ -337,6 +360,19 @@ def build_witnesses(table, prior_rows, prior_manifest):
             head = next((u for u in units if _bdb_no(u["id"]) == BDB_ARAMAIC_FROM), None)
             if not head or "Dan 2:4-7:28" not in head["text"]:
                 raise SystemExit(f"HARD STOP: BDB's Aramaic part no longer opens at BDB{BDB_ARAMAIC_FROM}")
+        ov = read_bdb_overrides() if name == "bdb" else {}
+        if ov:
+            by_id = {u["id"] for u in units}
+            for uid, r in ov.items():
+                want = "arc" if _bdb_no(uid) >= BDB_ARAMAIC_FROM else "hbo"
+                # `own_lang_differs` (with why) where Strong's numbers a word once, as
+                # Hebrew, that BDB enters only in its Aramaic part (H8674 Tattenai);
+                # `own: null` where the row only drops slips
+                ok_lang = lang.get(r["own"]) == want or r.get("own_lang_differs")
+                if uid not in by_id or (r["own"] is not None and (not ok_lang or
+                                                                  lemma_of.get(r["own"]) != r["own_lemma"])):
+                    raise SystemExit(f"HARD STOP: override {uid} -> {r['own']} names no such entry or number")
+        dropped = applied = 0
         linked, beyond, unkeyed = 0, 0, 0
         for u in units:
             targets = []
@@ -370,6 +406,17 @@ def build_witnesses(table, prior_rows, prior_manifest):
                 # H8391, not H839 listed first), else the first
                 own = next((k for k in mine if _heb_skeleton(lemma_of.get(k)) in _bdb_heads(u)),
                            mine[0] if mine else None)
+                r = ov.get(u["id"])
+                if r:
+                    # the source must still say what the override corrects
+                    if r["source_keys"] != uniq or not set(r["drop"]) <= set(uniq) or r["own"] in r["drop"]:
+                        raise SystemExit(f"HARD STOP: {u['id']} keys are now {uniq}, the override "
+                                         f"was written for {r['source_keys']}")
+                    own = r["own"]
+                    dropped += len(r["drop"])
+                    applied += 1
+                    uniq = [k for k in [own] + uniq if k and k not in r["drop"]]
+                    uniq = list(dict.fromkeys(uniq))
             for k in uniq:
                 if k in keys:
                     out[k].setdefault(name if k == own else name + "-shared", []).append(u["id"])
@@ -383,6 +430,12 @@ def build_witnesses(table, prior_rows, prior_manifest):
                        "numbers_shared_only": sum(1 for k in out if name + "-shared" in out[k]
                                                   and name not in out[k]),
                        "inputs": shas}
+        if ov:
+            if applied != len(ov):
+                raise SystemExit(f"HARD STOP: {len(ov) - applied} BDB overrides matched no keyed entry")
+            stats[name]["overrides"] = {"file": os.path.relpath(BDB_OVERRIDES, ROOT),
+                                        "sha256": sha256(BDB_OVERRIDES),
+                                        "entries": len(ov), "keys_dropped": dropped}
     rows = [{"strongs": k, "witnesses": out[k]} for k in sorted(out, key=sort_key)]
     return rows, stats, carried
 

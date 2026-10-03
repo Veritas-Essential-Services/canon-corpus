@@ -86,25 +86,51 @@ def bdb_part(table, wit, bdb_units):
     facts["bdb_entries_no_strongs_pointed_word"] = len(words)
     facts["bdb_entries_no_strongs_see_also"] = sum(1 for u in words if re.search(r"\bsee\b", u["text"][:200]))
     # keyed entries whose numbers spell none of the entry's headwords
+    # The source's keys, before data/strongs/bdb-key-overrides.jsonl: each row
+    # says which kind it is, and where the key is a slip, what the build uses.
+    ov = B.read_bdb_overrides()
     sus, arc_only_heb = [], []
     for u in bdb_units:
         ks = [k for k in keys_of(u) if k in tab]
         if not ks:
             continue
+        r = ov.get(u["id"])
+        fix = ("override: " + (r["own"] or "drop " + " ".join(r["drop"]))) if r else ""
         want = "arc" if B._bdb_no(u["id"]) >= B.BDB_ARAMAIC_FROM else "hbo"
         if want == "arc" and not any(tab[k]["lang"] == "arc" for k in ks):
-            arc_only_heb.append((u["id"].split(":")[1], lemma(u), " ".join(ks)))
+            arc_only_heb.append((u["id"].split(":")[1], lemma(u), " ".join(ks),
+                                 fix or ("root" if ROOT_ENTRY.search(u["text"][:80]) else "the word's Hebrew number, shared")))
         if not POINTED.search(lemma(u)):
             continue
         heads = B._bdb_heads(u)
         if not any(B._heb_skeleton(tab[k]["lemma"]) in heads for k in ks):
             sus.append((u["id"].split(":")[1], lemma(u),
-                        " ".join(f"{k}={tab[k]['lemma']}" for k in ks)))
-    lists["bdb-aramaic-entries-hebrew-numbers-only"] = (arc_only_heb, ("bdb", "headword", "numbers"))
-    lists["bdb-keys-not-spelling-headword"] = (sus, ("bdb", "headword", "numbers=Strong's lemma"))
+                        " ".join(f"{k}={tab[k]['lemma']}" for k in ks), fix or suspect_kind(u, ks, heads, tab)))
+    lists["bdb-aramaic-entries-hebrew-numbers-only"] = (arc_only_heb, ("bdb", "headword", "numbers", "kind"))
+    lists["bdb-keys-not-spelling-headword"] = (sus, ("bdb", "headword", "numbers=Strong's lemma", "kind"))
     facts["bdb_aramaic_entries_hebrew_numbers_only"] = len(arc_only_heb)
+    facts["bdb_aramaic_hebrew_only_kinds"] = dict(collections.Counter(r[3].split(":")[0] for r in arc_only_heb))
     facts["bdb_keys_not_spelling_headword"] = len(sus)
+    facts["bdb_suspect_kinds"] = dict(collections.Counter(r[3].split(":")[0] for r in sus))
+    facts["bdb_overrides"] = len(ov)
     return lists, facts
+
+
+# a root heading in BDB's Aramaic part: "√ of following", "root of ..."
+ROOT_ENTRY = re.compile(r"√|\broot\b|\bverb\b")
+
+
+def suspect_kind(u, ks, heads, tab):
+    """Why a key that spells no form of the headword is not a slip. Order
+    matters: the first that fits is the row's kind."""
+    sk = [B._heb_skeleton(tab[k]["lemma"]) for k in ks]
+    if any(re.search(r"[\s\u05be]", tab[k]["lemma"].strip()) for k in ks):
+        return "compound name"                 # Allon-bachuth under bakuth
+    if re.search(r"\bsee\b", u["text"][:120]):
+        return "cross-reference"               # "see ..." to the word keyed
+    if any(s[:2] in {h[:2] for h in heads} or any(h[:2] in s for h in heads) for s in sk):
+        return "related form"                  # plural, variant, derivative
+    return "word the entry names"              # a reading it corrects, a cognate
 
 
 def greek_part(table, wit):
@@ -145,6 +171,10 @@ def greek_part(table, wit):
     return lists, facts
 
 
+def kinds(c):
+    return ", ".join(f"{v:,} {k}" for k, v in sorted(c.items(), key=lambda kv: (-kv[1], kv[0])))
+
+
 def report(facts, lists):
     f = facts
     L = ["# Strong's numbers against BDB and Thayer",
@@ -168,14 +198,25 @@ def report(facts, lists):
               f"{f['bdb_entries_no_strongs_pointed_word']:,} are pointed words,",
               f"  {f['bdb_entries_no_strongs_see_also']:,} of them cross-references (\"see ...\"). List: `bdb-entries-no-strongs.tsv`.",
               f"- {f['bdb_aramaic_entries_hebrew_numbers_only']:,} entries in BDB's Aramaic part list only Hebrew numbers",
-              "  (the Hebrew cognate). They count as `bdb-shared`, never as the Aramaic word's entry.",
-              "  List: `bdb-aramaic-entries-hebrew-numbers-only.tsv`.",
+              "  (the Hebrew cognate). They count as `bdb-shared` unless an override row says otherwise:",
+              "  " + kinds(f["bdb_aramaic_hebrew_only_kinds"]) + ". A root heading (\"√ of following\")",
+              "  is no word, so no Aramaic number is its own. The rest list the Hebrew number of the same word",
+              "  (Strong's numbers a name once, and כֹּר \"Aramaic the same\"); they stay shared, except where",
+              "  BDB has no Hebrew entry for the word (H8674 Tattenai): there the override table makes",
+              "  the Aramaic entry its own. Slips are in the override table too.",
+              "  List: `bdb-aramaic-entries-hebrew-numbers-only.tsv`, with each row's kind.",
               f"- {f['bdb_keys_not_spelling_headword']:,} pointed entries list numbers none of whose Strong's lemmas spells the",
               "  entry's headword, even with plene and defective spellings, -yahu/-yah, and final letters folded.",
-              "  Most are plurals, spelling variants and compound names (`תְּאֻנִים` under H8383).",
-              "  Some are errors in the source's key, e.g. BDB7322 קֹדֶשׁ keyed to H6994 (קָטֹן) and H6946",
-              "  (Kadesh), not H6944. They are listed for review, not changed: the key is the source's.",
-              "  List: `bdb-keys-not-spelling-headword.tsv`.",
+              "  By kind: " + kinds(f["bdb_suspect_kinds"]) + ".",
+              "  `suspect_kind()` tries compound name, cross-reference, related form, then word the entry",
+              "  names, and the first that fits is the row's kind. All but `override` stand",
+              "  as the source keys them: plurals, variants and derivatives (`תְּאֻנִים` under H8383),",
+              "  compound names, cross-references, and words the entry names (a reading it corrects, the",
+              "  word its lemma field also prints). `override` rows are slips in the source's key, e.g.",
+              "  BDB7322 קֹדֶשׁ keyed to H6994 (קָטֹן), not H6944. Every entry here for which some Strong's",
+              "  lemma spells the headword was read by hand; the slips found are",
+              f"  `data/strongs/bdb-key-overrides.jsonl` ({f['bdb_overrides']} rows, each with its reason, the source",
+              "  untouched). List: `bdb-keys-not-spelling-headword.tsv`, with each row's kind.",
               ""]
     L += ["### Fixed in this pass (PR #10)",
           "",
@@ -190,6 +231,17 @@ def report(facts, lists):
           "  headword, that one is the entry's own: BDB842 תְּאַשּׁוּר is H8391, not H839 listed first;",
           "  BDB1292 בּוֺקֵר \"herdsman\" is H951, not H941 (Buzi). 68 entries changed (58 Hebrew, 10 Aramaic).",
           "- Together 340 BDB entries changed which number they witness, against PR #10 at 0819e9a.",
+          f"- **Slips in BDB's key, overridden.** {f['bdb_overrides']} rows. 39 entries (37 Hebrew, 2 Aramaic) are keyed to a word",
+          "  they are not about, most by one digit (BDB7322 קֹדֶשׁ H6994 for H6944, BDB578 H8396 Tabor",
+          "  for H8386). `data/strongs/bdb-key-overrides.jsonl` gives each its own number and why;",
+          "  37 slipped keys are dropped, and a related word the source also lists stays shared.",
+          "  One more Aramaic entry only drops a slip (BDB9800 עֲשַׂב keyed H6611 Pethahiah), and four",
+          "  names that occur only in the Aramaic of Ezra (Achmetha, Asnappar, Shethar-bozenai,",
+          "  Tattenai), which Strong's numbers once, as Hebrew, now have their BDB entry as their own.",
+          "- **Aramaic words tagged Hebrew.** 25 numbers whose printed derivation opens \"(Aramaic)\" were",
+          "  tagged Hebrew by the markup, mostly names (H1841 Daniel, H3567 Cyrus). The printed note now",
+          "  wins, so BDB's Aramaic entries for them are their own entries: 26 of the 87 Aramaic entries",
+          "  that listed only Hebrew-tagged numbers were these words.",
           "",
           "## Greek: Strong's against Thayer",
           "",

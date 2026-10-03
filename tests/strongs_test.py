@@ -114,6 +114,35 @@ ok("bdb-hebrew:BDB9268" in W_["H69"].get("bdb", []) and "bdb-hebrew:BDB9268" in 
    "BDB's Aramaic 'stone' (H68_H69) is the Aramaic H69's entry; the Hebrew H68 is only listed beside it")
 ok("bdb-hebrew:BDB842" in W_["H8391"].get("bdb", []), "BDB842 te'ashshur is H8391, the number spelling its headword")
 ok("bdb-hebrew:BDB734" not in W_["H744"].get("bdb", []), "a Hebrew entry keyed only to an Aramaic number is not its entry")
+# the override table: slips in BDB's key, each corrected by a row, the source untouched
+OV = [json.loads(l) for l in open(B.BDB_OVERRIDES, encoding="utf-8") if l.strip()]
+ok(len({r["bdb"] for r in OV}) == len(OV) == 44, f"44 BDB key overrides, one row per entry ({len(OV)})")
+ok(all(r["reason"].strip() and set(r["drop"]) <= set(r["source_keys"]) and r["own"] not in r["drop"]
+       for r in OV), "every override has a reason, and drops only keys the source gives")
+TAB = {t["strongs"]: t for t in table}
+ok(all(r["own"] is None or TAB[r["own"]]["lemma"] == r["own_lemma"] for r in OV),
+   "every override's own number spells the lemma the row was written for")
+ok(all(r["own"] is None or r["bdb"] in W_[r["own"]].get("bdb", []) for r in OV),
+   "every override's own number has that entry as its own BDB witness")
+ok(all(r["bdb"] not in v for r in OV for k in r["drop"] for v in W_[k].values()),
+   "a dropped slip keeps no link to the entry, own or shared")
+for k, e, why in (("H6944", "BDB7322", "qodesh 'holiness' (keyed H6994 qaton)"),
+                  ("H8386", "BDB578", "ta'aniyyah (keyed H8396 Tabor)"),
+                  ("H5375", "BDB5385", "the verb nasa' (keyed only to its derivatives)"),
+                  ("H2298", "BDB9285", "Aramaic chad 'one' (keyed only to Hebrew H259)"),
+                  ("H4756", "BDB9677", "Aramaic mare' 'lord' (keyed H4576)"),
+                  ("H8674", "BDB10022", "Tattenai, BDB's only entry for the name")):
+    ok(W_[k].get("bdb") and f"bdb-hebrew:{e}" in W_[k]["bdb"], f"{k} is {e}, {why}")
+ok("bdb-hebrew:BDB7322" in W_["H6946"].get("bdb-shared", []) and "bdb-hebrew:BDB7322" not in str(W_["H6994"]),
+   "qodesh: Kadesh, which the entry names, stays shared; the slip H6994 is gone")
+ok("bdb-hebrew:BDB9285" in W_["H259"].get("bdb-shared", []), "Aramaic chad: the Hebrew cognate H259 stays shared")
+ok(not any("bdb" in v and "BDB9800" in str(v) for v in [W_["H6611"]]) and "bdb-hebrew:BDB9800" in W_["H6212"].get("bdb-shared", []),
+   "BDB9800 Aramaic esab: the slip H6611 dropped, no own number, Hebrew H6212 shared")
+# Strong's printed "(Aramaic)" note wins over the markup's language tag
+ok(all(t["lang"] == "arc" for t in table if t["derivation"].startswith("(Aramaic)")),
+   "every number whose derivation opens '(Aramaic)' is Aramaic")
+ok(TAB["H1841"]["lang"] == "arc" and TAB["H1840"]["lang"] == "hbo", "H1841 Daniel (Aramaic) is arc; H1840 is hbo")
+ok("bdb-hebrew:BDB9445" in W_["H1841"].get("bdb", []), "BDB's Aramaic Daniel is H1841's own entry")
 ww = {w["strongs"]: w["witnesses"] for w in wit}
 ok("bdb-hebrew:BDB2965" in ww["H2617"].get("bdb", []), "H2617 חֶסֶד is witnessed by BDB2965")
 ok("tbesg-greek:G0001G" in ww["G1"].get("tbesg", []) and "tbesg-greek:G0001H" in ww["G1"]["tbesg"],
@@ -151,7 +180,7 @@ kjv_uids = {c: u for c, u in reg.map.items() if c.startswith("kjv:")}
 IN_GIT = os.path.exists(os.path.join(ROOT, ".git"))   # a file in a worktree
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "data/strongs", "build"], capture_output=True, text=True)
 tracked = set(r.stdout.split())
-allowed = {f"data/strongs/{n}" for n in B.FILES} | {f"data/strongs/{n}.prov.md" for n in B.FILES}
+allowed = {f"data/strongs/{n}{x}" for n in [*B.FILES, os.path.basename(B.BDB_OVERRIDES)] for x in ("", ".prov.md")}
 if IN_GIT:
     ok(r.returncode == 0 and tracked <= allowed,
        "git tracks only the committed Strong's files: nothing built from the KJV tags (rights call pending)")
@@ -254,6 +283,22 @@ if all(os.path.exists(p) for p in srcs):
     ok(r.returncode == 0, "build_strongs.py --check: byte-identical, 0 proposed")
     if r.returncode:
         print(r.stdout + r.stderr)
+    # an override written for keys the source no longer gives stops the build
+    import tempfile
+    bad = dict(OV[0], source_keys=OV[0]["source_keys"] + ["H1"])
+    with tempfile.NamedTemporaryFile("w", suffix=".jsonl", delete=False, encoding="utf-8") as f:
+        f.write("\n".join(json.dumps(r, ensure_ascii=False) for r in [bad] + OV[1:]) + "\n")
+    keep, B.BDB_OVERRIDES = B.BDB_OVERRIDES, f.name
+    try:
+        B.build_witnesses(table, wit, man)
+        stopped = ""
+    except SystemExit as e:
+        stopped = str(e)
+    finally:
+        B.BDB_OVERRIDES = keep
+        os.unlink(f.name)
+    ok(stopped.startswith("HARD STOP") and OV[0]["bdb"] in stopped,
+       "an override whose source keys no longer match stops the build")
 else:
     print("skip  --check: Strong's sources not in data/corpus/lexicons (python3 pipeline/fetch_sources.py)")
 

@@ -6,24 +6,35 @@ Each list below is a TSV beside this file.
 
 ## Hebrew and Aramaic: Strong's against BDB
 
-- 8,674 Hebrew and Aramaic numbers. 8,202 have a BDB entry of their own.
-- 410 appear only in an entry for another word (`bdb-shared`):
+- 8,674 Hebrew and Aramaic numbers. 8,262 have a BDB entry of their own.
+- 374 appear only in an entry for another word (`bdb-shared`):
   BDB files them under a related word, a spelling or a root.
-- 62 appear in no BDB entry at all (4 arc, 58 hbo),
-  21 of them proper names. List: `hebrew-numbers-no-bdb-entry.tsv`.
+- 38 appear in no BDB entry at all (4 arc, 34 hbo),
+  14 of them proper names. List: `hebrew-numbers-no-bdb-entry.tsv`.
 
 - 10,022 BDB entries; 847 carry no Strong's number. 621 of those are roots
   or unpointed headings (Strong's numbers words, not roots); 226 are pointed words,
   42 of them cross-references ("see ..."). List: `bdb-entries-no-strongs.tsv`.
-- 87 entries in BDB's Aramaic part list only Hebrew numbers
-  (the Hebrew cognate). They count as `bdb-shared`, never as the Aramaic word's entry.
-  List: `bdb-aramaic-entries-hebrew-numbers-only.tsv`.
+- 61 entries in BDB's Aramaic part list only Hebrew numbers
+  (the Hebrew cognate). They count as `bdb-shared` unless an override row says otherwise:
+  45 root, 9 the word's Hebrew number, shared, 7 override. A root heading ("√ of following")
+  is no word, so no Aramaic number is its own. The rest list the Hebrew number of the same word
+  (Strong's numbers a name once, and כֹּר "Aramaic the same"); they stay shared, except where
+  BDB has no Hebrew entry for the word (H8674 Tattenai): there the override table makes
+  the Aramaic entry its own. Slips are in the override table too.
+  List: `bdb-aramaic-entries-hebrew-numbers-only.tsv`, with each row's kind.
 - 437 pointed entries list numbers none of whose Strong's lemmas spells the
   entry's headword, even with plene and defective spellings, -yahu/-yah, and final letters folded.
-  Most are plurals, spelling variants and compound names (`תְּאֻנִים` under H8383).
-  Some are errors in the source's key, e.g. BDB7322 קֹדֶשׁ keyed to H6994 (קָטֹן) and H6946
-  (Kadesh), not H6944. They are listed for review, not changed: the key is the source's.
-  List: `bdb-keys-not-spelling-headword.tsv`.
+  By kind: 223 related form, 80 cross-reference, 66 word the entry names, 36 override, 32 compound name.
+  `suspect_kind()` tries compound name, cross-reference, related form, then word the entry
+  names, and the first that fits is the row's kind. All but `override` stand
+  as the source keys them: plurals, variants and derivatives (`תְּאֻנִים` under H8383),
+  compound names, cross-references, and words the entry names (a reading it corrects, the
+  word its lemma field also prints). `override` rows are slips in the source's key, e.g.
+  BDB7322 קֹדֶשׁ keyed to H6994 (קָטֹן), not H6944. Every entry here for which some Strong's
+  lemma spells the headword was read by hand; the slips found are
+  `data/strongs/bdb-key-overrides.jsonl` (44 rows, each with its reason, the source
+  untouched). List: `bdb-keys-not-spelling-headword.tsv`, with each row's kind.
 
 ### Fixed in this pass (PR #10)
 
@@ -38,6 +49,17 @@ Each list below is a TSV beside this file.
   headword, that one is the entry's own: BDB842 תְּאַשּׁוּר is H8391, not H839 listed first;
   BDB1292 בּוֺקֵר "herdsman" is H951, not H941 (Buzi). 68 entries changed (58 Hebrew, 10 Aramaic).
 - Together 340 BDB entries changed which number they witness, against PR #10 at 0819e9a.
+- **Slips in BDB's key, overridden.** 44 rows. 39 entries (37 Hebrew, 2 Aramaic) are keyed to a word
+  they are not about, most by one digit (BDB7322 קֹדֶשׁ H6994 for H6944, BDB578 H8396 Tabor
+  for H8386). `data/strongs/bdb-key-overrides.jsonl` gives each its own number and why;
+  37 slipped keys are dropped, and a related word the source also lists stays shared.
+  One more Aramaic entry only drops a slip (BDB9800 עֲשַׂב keyed H6611 Pethahiah), and four
+  names that occur only in the Aramaic of Ezra (Achmetha, Asnappar, Shethar-bozenai,
+  Tattenai), which Strong's numbers once, as Hebrew, now have their BDB entry as their own.
+- **Aramaic words tagged Hebrew.** 25 numbers whose printed derivation opens "(Aramaic)" were
+  tagged Hebrew by the markup, mostly names (H1841 Daniel, H3567 Cyrus). The printed note now
+  wins, so BDB's Aramaic entries for them are their own entries: 26 of the 87 Aramaic entries
+  that listed only Hebrew-tagged numbers were these words.
 
 ## Greek: Strong's against Thayer
 
