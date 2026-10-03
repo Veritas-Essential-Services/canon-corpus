@@ -730,3 +730,10 @@
 
 ## 2026-10-03 03:07 CDT — macgowan: done
 - 1/1 fetched (Gutenberg 26070), 690 units, 0 ~2 ids.
+
+## 2026-10-03 05:42 CDT — session end (standing relay, batches 22-25)
+- Four batches chosen under the standing relay, each a DIGEST row Adam may veto: batch 22 (7 shelves and two more Abbie Farwell Brown books; 36 books, 42,927 units), batch 23 (11 world folk-tale shelves; 19 books, 35,489 units), batch 24 (9 folk-tale, sacred-legend and children's-story shelves; 16 books, 11,206 units), batch 25 (12 folk-tale, legend and fairy-story shelves; 17 books, 12,568 units). Every book retention-checked (no prose paragraph lost), compared against every built book, and `--verify --record`ed: 0 mismatches, 0 rights flags.
+- Held once as the same book: Jacobs's Celtic Folk and Fairy Tales (81%), Irving's Pennell Alhambra (66%), Leamy's Golden Spears (89%), an undated second Legends of Vancouver (92%). Held for Adam: Ginzberg's Legends of the Jews vols. 3-4 (tr. Paul Radin, UK copyright to 2029; DIGEST 18).
+- convert_nested.py gained `number_repeats` (counted once a heading holds text, after reviewer cycle 9) and `repeat_continues`; tests 17 passed, structure_test 64 passed. Reviewer cycle 9's name forms fixed (Webster, Wilde, Perkins).
+- Ninth audit pass in AUDIT-D §11: 983 URLs on 181 shelves resolve except Lang's Lockhart vol. 1 (HTTP 500, local copy intact).
+- Nothing minted; manifest, fetch_sources.py, structure_texts.py and the uid map untouched. DIGEST: 200 storytellers, 1,016 slugs on 202 shelves waiting for the attended uid pass. Lock released. Queue: 215/215 done.
