@@ -1,5 +1,5 @@
 {
- "_about": "The Emperor Julian in Wilmer Cave Wright's Loeb translation (1913), vols. 1-2, clean Gutenberg; the Gutenberg text keeps the facing Greek. Lardner's extracts of Julian against the Christians are on the porphyry shelf.",
+ "_about": "The Emperor Julian in Wilmer Cave Wright's Loeb translation (1913), vols. 1-2, clean Gutenberg; the Gutenberg text keeps the facing Greek. Lardner's extracts of Julian against the Christians are on the porphyry shelf. Added 2026-10-03: C. W. King's Julian the Emperor (Bohn, 1888), raw IA OCR, with two of Julian's orations and, translated by King in the same volume, Gregory Nazianzen's two Invectives against Julian and Libanius' funeral Monody. The title page OCRs the name as 'CG. W.YKING', so the claim checked is the surname King alone. Gregory's Invectives are a church father's text: a Gregory shelf should cross-reference this row rather than refetch it.",
  "_name_words": [
   "julian",
   "emperor"
@@ -12,7 +12,13 @@
    "tr. Wilmer Cave Wright"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "julian-king-1888": [
+   "julianemperor00king",
+   "Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888)",
+   "tr. C. W. King"
+  ]
+ },
  "_excluded": {
   "Wright vol. 3 (Loeb, 1923)": "not on Gutenberg; pending",
   "Thomas Taylor, Two Orations of the Emperor Julian (1793)": "PD; the only scan found (IA bim_eighteenth-century_two-orations-of-the-empe_julian-emperor-of-rome_1793, ECCO) reads at 0.696 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; Wright's Loeb translation of the same orations is held"
@@ -22,7 +28,8 @@
   "julianus"
  ],
  "_translators": {
-  "julian-wright-v2": "Wilmer Cave Wright"
+  "julian-wright-v2": "Wilmer Cave Wright",
+  "julian-king-1888": "King"
  },
  "_checks": {
   "julian-wright-v2": {
@@ -36,6 +43,19 @@
    "pg_copyrighted": false,
    "pg_translator": "Wilmer Cave Wright",
    "translator_match": true
+  },
+  "julian-king-1888": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "julian",
+   "translator_claimed": "King",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {
