@@ -173,7 +173,7 @@ Lane A holds Warfield's Westminster studies and the Assembly divines Reynolds an
 | Shaw, Exposition of the Confession of Faith (2nd ed., 1846) | have-raw | `robert-shaw_shelf.json` |
 | Lightfoot, Journal of the Proceedings of the Assembly, 1643-1644 (Whole Works vol. 13, ed. Pitman) | have-raw | `john-lightfoot_shelf.json` |
 
-## Free Church of Scotland divines
+## Free Church of Scotland divines, and other 19th-century Scottish theologians
 
 Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan. These shelves add their New College colleagues and two Highland ministers.
 
@@ -185,6 +185,13 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Kennedy, The Days of the Fathers in Ross-shire (4th ed., 1867); The Apostle of the North (1866) | have-raw | `john-kennedy-dingwall_shelf.json` |
 | Hugh Martin, The Atonement (1877); The Prophet Jonah (3rd ed., 1880); The Westminster Doctrine of the Inspiration of Scripture (1890); Letters to Marcus Dods (1877) | have-raw | `hugh-martin_shelf.json` |
 | Hugh Martin, The Shadow of Calvary | pending | no pre-1930 scan found |
+| Orr, The Christian View of God and the World (1893), The Progress of Dogma (1901), God's Image in Man (1905), The Problem of the Old Testament (1906), The Virgin Birth of Christ (1907) | have-raw | `james-orr_shelf.json` |
+| T. J. Crawford, The Doctrine of Holy Scripture respecting the Atonement (1871), The Mysteries of Christianity (1874), The Preaching of the Cross (1876) | have-raw | `thomas-j-crawford_shelf.json` |
+| 'Rabbi' Duncan, Colloquia Peripatetica, ed. Knight | have-raw | `john-duncan_shelf.json` |
+| Rainy, Delivery and Development of Christian Doctrine (1874) | have-raw | `robert-rainy_shelf.json` |
+| James Walker, The Theology and Theologians of Scotland (Cunningham Lectures) | have-raw | `james-walker-carnwath_shelf.json` |
+| Binnie, The Psalms: their History, Teachings and Use (1870) | have-raw | `william-binnie_shelf.json` |
+| Moody Stuart, The Song of Songs (1869) | have-raw | `moody-stuart_shelf.json` |
 
 ## English Reformation histories
 

@@ -1,0 +1,39 @@
+{
+ "_about": "Alexander Moody Stuart (1809-1898), Free St Luke's, Edinburgh: The Song of Songs, an exposition of the Song of Solomon (Philadelphia: Rentoul, 1869; preface dated Edinburgh, 1857). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "moody stuart",
+  "a. moody stuart",
+  "alexander moody stuart"
+ ],
+ "_surname": [
+  "moody stuart",
+  "a. moody stuart",
+  "alexander moody stuart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moody-stuart-song-of-songs": [
+   "songofsongsexpos00stua",
+   "The Song of Songs: an exposition of the Song of Solomon (Philadelphia: Rentoul, 1869)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "lifelettersofeli00gordrich (Life and Letters of Elizabeth, last Duchess of Gordon, 1865), fallofbabylonits00stua, ouroldbiblemoses00stua, oldisaiah00stua, fiftyfirstpsalme00stua": "Other works, not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "moody-stuart-song-of-songs": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moody stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
