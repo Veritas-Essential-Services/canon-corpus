@@ -94,19 +94,51 @@ for _b, _forms in BOOK_FORMS:
     for _f in _forms.split():
         FORM.setdefault(_f, _b)
 FORM["Ti"] = "Titus"        # unnumbered Ti is Titus; 1 Ti / 2 Ti is Timothy (below)
+# the 17th-century forms (Poole, 1683): I for J, and longer abbreviations.
+# Only refs(old=True) reads them: "Iob" or "Luc" in a modern book is not a book.
+OLD_BOOK_FORMS = [
+    ("Gen", "Gene"), ("Lev", "Levit"), ("Deut", "Deuter Deutr"),
+    ("Josh", "Ios Iosh Ioshua"), ("Judg", "Iudg Iudges"), ("Kgs", "King"), ("Chr", "Chro"),
+    ("Neh", "Nehem"), ("Job", "Iob"), ("Ps", "Psal"), ("Isa", "Isai Esa"),
+    ("Jer", "Ier Ierem Ieremiah Jerem"), ("Lam", "Lament"), ("Ezek", "Ezech Ezeck"), ("Hos", "Hose"),
+    ("Joel", "Ioel"), ("Amos", "Amo"), ("Jonah", "Ionah"), ("Mic", "Mich"), ("Hab", "Habak"),
+    ("Zeph", "Zephan Soph"), ("Zech", "Zach"), ("Mal", "Malach"),
+    ("Matt", "Matth Math"), ("Luke", "Luc"), ("John", "Ioh Iohn"), ("Gal", "Galath"),
+    ("Eph", "Ephes"), ("Col", "Colos Coloss"), ("Heb", "Hebr"), ("Jas", "Iam Iames"),
+    ("Jude", "Iude"), ("Rev", "Revel"), ("Macc", "Maccab"),
+]
+FORM_OLD = dict(FORM)
+for _b, _forms in OLD_BOOK_FORMS:
+    for _f in _forms.split():
+        FORM_OLD.setdefault(_f, _b)
 SINGLE_CHAPTER = {"Obad", "Phlm", "2John", "3John", "Jude"}
 
 _ORD = {"1": "1", "2": "2", "3": "3", "I": "1", "II": "2", "III": "3", "i": "1", "ii": "2", "iii": "3"}
 _BOOK_RE = r"(?:(?P<ord>[123]|I{1,3}|i{1,3})\s?\.?\s*)?(?P<name>[A-Z][a-z]{0,13})\b[.,]?"
 _NUM = r"\d{1,3}"
 # chapter : verse, the colon free to float ("19 : 16", "11: 4"), or a dot (Easton's "Gen. 4.1" never; but OCR)
-_CV = re.compile(r"\s*(?P<c>%s)\s*:\s*(?P<v>%s)" % (_NUM, _NUM))
+# chapter:verse, or (Henry, the older printings) a lower-case Roman chapter: "Heb. xi. 4"
+# (and JFB's 1873 printing writes "Genesis 19. 1": a point for the colon)
+_CV = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)" % (_NUM, _NUM))
+_CV_POINT = re.compile(r"\s*(?:(?P<c>%s)\s*(?::|\.(?=\s*\d))\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)(?!\s?[A-Z][a-z]{0,13}\.?\s*\d)" % (_NUM, _NUM))
+
+
+def _chap(cv):
+    return int(cv.group("c")) if cv.group("c") else _roman(cv.group("r"))
+
+
+def _roman(r):
+    vals = {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}
+    n = 0
+    for a, b in zip(r, r[1:] + " "):
+        n += -vals[a] if b != " " and vals[b] > vals[a] else vals[a]
+    return n
 _TOKEN = re.compile(_BOOK_RE)
 
 
-def book_of(ordinal, name):
+def book_of(ordinal, name, forms=FORM):
     """("1", "Kings") -> "1Kgs"; (None, "Ge") -> "Gen"; None if not a book."""
-    b = FORM.get(name)
+    b = forms.get(name)
     if name == "Jo" and ordinal:      # 1 Jo. is an epistle; a bare Jo. is Joshua or John, neither
         b = "John"
     if b is None:
@@ -123,11 +155,24 @@ def book_of(ordinal, name):
     return b
 
 
-def refs(text):
+def refs(text, here=None, point=False, old=False):
     """Every reference in text, in order: [{"book", "c", "v", "c2", "v2", "at"}].
     A book carries over to a following "c:v" after ";" or "," and to bare
     verse numbers after "," or "and"; a range ends at a verse ("16-20") or a
-    chapter:verse ("16:1-17:3")."""
+    chapter:verse ("16:1-17:3").
+
+    here=(book, chapter) is the passage a commentary is on: then "ver. 31",
+    "v. 3", "verses 25-27" are verses of that chapter and "ch. 3:5" / "ch. 3"
+    a place in that book. Without it they are not references.
+
+    old=True also reads the 17th-century book forms (OLD_BOOK_FORMS).
+
+    point=True also reads "Genesis 19. 1" (JFB's 1873 printing): only for
+    the commentaries' print check, where a point after a chapter is the colon.
+    The topical books' scans print "Gen. 19. 1" too rarely to need it, and
+    there it misreads more than it finds."""
+    _CV = _CV_POINT if point else globals()["_CV"]
+    forms = FORM_OLD if old else FORM
     out = []
     text = text.replace("\u2014", "-").replace("\u2013", "-")
     n = len(text)
@@ -149,7 +194,7 @@ def refs(text):
                     if ch:
                         c = int(ch.group(1))
                         c2 = int(ch.group(2)) if ch.group(2) else c
-                        out.append({"book": book, "c": c, "v": None, "c2": c2, "v2": None, "at": j})
+                        out.append({"book": book, "c": c, "v": None, "c2": c2, "v2": None, "at": j, "end": ch.end()})
                         chapter = c2
                         i = end = ch.end()
                         continue
@@ -157,22 +202,48 @@ def refs(text):
                 if vm and k.group(1) != ";" and out[-1]["v"] is not None:
                     v = int(vm.group(1))
                     v2 = int(vm.group(2)) if vm.group(2) else v
-                    out.append({"book": book, "c": chapter, "v": v, "c2": chapter, "v2": v2, "at": j})
+                    out.append({"book": book, "c": chapter, "v": v, "c2": chapter, "v2": v2, "at": j, "end": vm.end()})
                     i = end = vm.end()
                     continue
             book = None
+        # "Ver. 3", "Chap. 3. 4" capitalised only in the old books: CCEL's
+        # Barnes heads its comments "Chapter 1 - Verse 2", which cite nothing
+        if here and (i == 0 or not text[i - 1].isalnum()) and text[i] in ("vVcC" if old else "vc"):
+            rm = _REL_V.match(text, i)
+            if rm and _context(text, i, out, here, forms)[1] is not None:
+                book, chapter = _context(text, i, out, here, forms)
+                v = int(rm.group(1))
+                v2 = int(rm.group(2)) if rm.group(2) else v
+                out.append({"book": book, "c": chapter, "v": v, "c2": chapter, "v2": v2, "at": i, "end": rm.end()})
+                i = end = rm.end()
+                continue
+            rm = _REL_CH.match(text, i)
+            if rm:
+                book = _context(text, i, out, here, forms)[0]
+                c = int(rm.group(1)) if rm.group(1).isdigit() else _roman(rm.group(1))
+                if rm.group(2):
+                    v = int(rm.group(2))
+                    v2 = int(rm.group(3)) if rm.group(3) else v
+                    out.append({"book": book, "c": c, "v": v, "c2": c, "v2": v2, "at": i, "end": rm.end()})
+                else:
+                    out.append({"book": book, "c": c, "v": None, "c2": c, "v2": None, "at": i, "end": rm.end()})
+                chapter = c
+                i = end = rm.end()
+                continue
         if i == 0 or not text[i - 1].isalnum():
             m = _TOKEN.match(text, i)
             if m:
-                b = book_of(m.group("ord"), m.group("name"))
+                b = book_of(m.group("ord"), m.group("name"), forms)
                 if b:
                     cv = _CV.match(text, m.end())
+                    if cv and cv.group("r") and text[i:m.end()].endswith(","):
+                        cv = None        # "Daniel, v. 3" is a verse of here, not Daniel 5:3
                     if cv and b not in SINGLE_CHAPTER:
                         book = b
                         i = end = _take(text, cv, book, out, i)
                         chapter = out[-1]["c2"]
                         continue
-                    if cv and b in SINGLE_CHAPTER and cv.group("c") == "1":     # "Jude 1:3"
+                    if cv and b in SINGLE_CHAPTER and _chap(cv) == 1:     # "Jude 1:3"
                         book = b
                         i = end = _take(text, cv, book, out, i)
                         chapter = 1
@@ -182,7 +253,7 @@ def refs(text):
                         book = b
                         c = int(ch.group(1))
                         c2 = int(ch.group(2)) if ch.group(2) else c
-                        out.append({"book": b, "c": c, "v": None, "c2": c2, "v2": None, "at": i})
+                        out.append({"book": b, "c": c, "v": None, "c2": c2, "v2": None, "at": i, "end": ch.end()})
                         chapter = c2
                         i = end = ch.end()
                         continue
@@ -191,7 +262,7 @@ def refs(text):
                         book, chapter = b, 1
                         v = int(vm.group(1))
                         v2 = int(vm.group(2)) if vm.group(2) else v
-                        out.append({"book": b, "c": 1, "v": v, "c2": 1, "v2": v2, "at": i})
+                        out.append({"book": b, "c": 1, "v": v, "c2": 1, "v2": v2, "at": i, "end": vm.end()})
                         i = end = vm.end()
                         continue
                 i = max(m.end(), i + 1)
@@ -204,23 +275,56 @@ _CONT = re.compile(r"\s*([;,]|and\b|&)\s*(?:and\s+)?")
 # a number is not a chapter or verse if a ":" or digit follows, or if it is the
 # ordinal of the next book ("; 2 Sam. 4", "; 2Sa 4")
 _NOT_AFTER = r"(?![\d:]|\s*:|\s?[A-Z][a-z]{0,13}[.,]?\s*\d)"
+_REL_V = re.compile(r"(?:[Vv]erses|[Vv]erse|[Vv]ers|[Vv]er|vv|v)\.?\s*(\d{1,3})(?:\s*-\s*(\d{1,3}))?(?![\d:])")
+_REL_CH = re.compile(r"(?:[Cc]hapter|[Cc]hap|[Cc]ap|[Cc]h)\.?\s*(\d{1,3}|[ivxlc]{1,8}(?=\.))(?:(?:\s*[:.]\s*|\s*,\s*(?=[Vv]))(?:(?:[Vv]er(?:se)?|v)\.?\s*)?(\d{1,3})(?:\s*-\s*(\d{1,3}))?)?" + _NOT_AFTER)
 # a whole chapter (or run of chapters): a number not followed by ":" or another digit
 _CHAPTER = re.compile(r"\s*(%s)(?:\s*-\s*(%s))?" % (_NUM, _NUM) + _NOT_AFTER)
 _VERSE = re.compile(r"\s*(%s)(?:\s*-\s*(%s))?" % (_NUM, _NUM) + _NOT_AFTER)
 
 
+_NEAR = 40     # characters: a reference this close lends "ver. 31" its book and chapter
+_NAMED = re.compile(_BOOK_RE.replace("(?P<ord>", "(?P<o>").replace("(?P<name>", "(?P<n>"))
+
+
+def _context(text, i, out, here, forms):
+    """(book, chapter) for a relative "ver. 31" / "ch. 3. 4" at i: a book
+    named just before with no number after it ("as Luke tells us, ch. 1. 26",
+    "Ezek. chap. 27. 28"); else the reference just read, if it ended within
+    _NEAR characters in the same sentence ("Exod. 30. 25. to ver. 31"); else
+    the comment's own place."""
+    last_end = out[-1].get("end", -10 ** 9) if out else -10 ** 9
+    win_from = max(0, i - 40, last_end)
+    win = text[win_from:i]
+    last = None
+    for m in _NAMED.finditer(win):
+        last = m
+    # a short form only with its point ("So here" is not the Song)
+    if last and not re.search(r"\d", win[last.end():]) and len(win[last.end():].split()) <= 3 \
+            and (last.group(0).endswith(".") or len(last.group("n")) >= 4):
+        b = book_of(last.group("o"), last.group("n"), forms)
+        if b:
+            return b, here[1] if b == here[0] else None
+    if out and last_end > i - _NEAR and out[-1]["c2"] is not None \
+            and not re.search(r"[.;:?!]\s+[A-Z]|\(|\)", text[last_end:i]):
+        return out[-1]["book"], out[-1]["c2"]
+    return here
+
+
+_RANGE = re.compile(r"\s*-\s*(%s)(?:\s*:\s*(%s))?" % (_NUM, _NUM))
+
+
 def _take(text, cv, book, out, at=None):
-    c, v = int(cv.group("c")), int(cv.group("v"))
+    c, v = _chap(cv), int(cv.group("v"))
     j = cv.end()
     c2, v2 = c, v
-    r = re.match(r"\s*-\s*(%s)(?:\s*:\s*(%s))?" % (_NUM, _NUM), text[j:])
+    r = _RANGE.match(text, j)
     if r:
         if r.group(2):
             c2, v2 = int(r.group(1)), int(r.group(2))
         else:
             v2 = int(r.group(1))
-        j += r.end()
-    out.append({"book": book, "c": c, "v": v, "c2": c2, "v2": v2, "at": cv.start() if at is None else at})
+        j = r.end()
+    out.append({"book": book, "c": c, "v": v, "c2": c2, "v2": v2, "at": cv.start() if at is None else at, "end": j})
     return j
 
 

@@ -10,11 +10,11 @@
  "layers": {
   "nave": {
    "file": "data/topical/nave.jsonl",
-   "sha256": "e799e1d1f40c6706a2b9f8fda4c35a384724969179d7137c34f3235f0ae876e4",
+   "sha256": "1be48b022ee8e560c71128a6bdc19d98e7504c55e0e4037dfc05f38938bb8679",
    "rows": 5322,
    "counts": {
     "committed": 77879,
-    "committed, printed": 64487,
+    "committed, printed": 64488,
     "entries": 5322,
     "entries_with_refs": 4673,
     "headings_with_wording_not_in_print": 877,
@@ -24,12 +24,12 @@
     "refs_in_rows": 77879,
     "repeat in one paragraph": 110,
     "topics": 22259,
-    "topics_none_in_print": 393
+    "topics_none_in_print": 392
    },
    "by_reading": {
     "both": {
      "refs": 77643,
-     "printed": 64207,
+     "printed": 64208,
      "share_printed": 0.827
     },
     "ccel-only": {
@@ -47,13 +47,13 @@
     {
      "scan": "navestopicalbibl0000orvi_h3u8",
      "what": "1897, tesseract 5.3",
-     "refs_read": 65847,
+     "refs_read": 65848,
      "aligned": 59584
     },
     {
      "scan": "navestopicalbibl00nave",
      "what": "1903, ABBYY 8; NOT_IN_COPYRIGHT",
-     "refs_read": 65161,
+     "refs_read": 65171,
      "aligned": 56336
     }
    ],
@@ -106,13 +106,13 @@
     {
      "scan": "newtopicaltextbo00torr",
      "what": "1897 Revell; NOT_IN_COPYRIGHT",
-     "refs_read": 37939,
+     "refs_read": 37940,
      "aligned": 34718
     },
     {
      "scan": "newtopicaltextbo0000revr",
      "what": "1897 Revell, tesseract 5.3",
-     "refs_read": 29556,
+     "refs_read": 29557,
      "aligned": 23698
     }
    ],
@@ -128,12 +128,12 @@
   },
   "easton": {
    "file": "data/topical/easton.jsonl",
-   "sha256": "446b61faf88ae211c564429ec2962722ef17c9ba266f0e5cfb450f2c820145a1",
+   "sha256": "222722b2162248390b454437e4d34dd47f4127f0f0075e0b19bff1b46053bda2",
    "rows": 3964,
    "counts": {
     "apocrypha": 5,
     "committed": 23649,
-    "committed, printed": 21005,
+    "committed, printed": 21006,
     "entries": 3964,
     "entries_with_refs": 3866,
     "hitchcock_joined": 1768,
@@ -145,8 +145,8 @@
    "by_reading": {
     "both": {
      "refs": 23466,
-     "printed": 20768,
-     "share_printed": 0.885
+     "printed": 20769,
+     "share_printed": 0.8851
     },
     "ccel-only": {
      "refs": 177,
@@ -163,8 +163,8 @@
     {
      "scan": "illustratedbible00east",
      "what": "1893 first edition (N.Y.), ABBYY 8; the only open scan, and an earlier edition than CCEL's 1897",
-     "refs_read": 23876,
-     "aligned": 21327
+     "refs_read": 23897,
+     "aligned": 21328
     }
    ],
    "source": {
@@ -214,7 +214,7 @@
     {
      "scan": "dictionaryofbibl00smit_0",
      "what": "1884 Porter and Coates (Peloubet), ABBYY 9; the edition CCEL's text is",
-     "refs_read": 16666,
+     "refs_read": 16675,
      "aligned": 8890
     }
    ],

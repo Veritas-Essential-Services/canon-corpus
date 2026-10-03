@@ -189,7 +189,7 @@ def aligned(a, b):
     return {int(x[1:]) - 1 for x in out.split() if x.startswith("S")}
 
 
-def candidates(para):
+def candidates(para, here=None):
     """One paragraph's references, each with who read it:
     [{"t": (book, c, v, c2, v2), "ccel": bool, "reader": bool}] in reading order."""
     tags = []
@@ -197,7 +197,7 @@ def candidates(para):
         for o in t["osis"].split(" Bible:"):
             q = R.osis_parts(o)
             tags.append(q if q else ("?", o, None, None, None))
-    mine = [(r["book"], r["c"], r["v"], r["c2"], r["v2"]) for r in R.refs(para["text"])]
+    mine = [(r["book"], r["c"], r["v"], r["c2"], r["v2"]) for r in R.refs(para["text"], here=here)]
     out = []
     left = collections.Counter(x[:3] for x in tags)
     first = {}

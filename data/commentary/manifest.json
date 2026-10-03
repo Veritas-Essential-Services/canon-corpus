@@ -1,0 +1,324 @@
+{
+ "about": "Whole-Bible commentaries keyed to KJV verse ids. pipeline/build_commentary.py; rules in pipeline/README-commentary.md",
+ "rights": {
+  "license": "public-domain",
+  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85; every author died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
+  "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
+  "redistribute_whole": true
+ },
+ "layers": {
+  "henry": {
+   "file": "data/commentary/henry.jsonl",
+   "sha256": "8a39ed013e4a1e7ae9b9495574a51d6bc57d92e4b8a5954b8db6f2b27df618e7",
+   "rows": 5417,
+   "counts": {
+    "anchor agrees": 4232,
+    "anchor differs": 19,
+    "anchor names no KJV verse": 6,
+    "anchor unread": 1166,
+    "citations": 63877,
+    "cite apocrypha": 45,
+    "cite both": 66545,
+    "cite ccel-only": 2066,
+    "cite names no KJV verse": 103,
+    "cite reader-only": 8382,
+    "comments": 5417,
+    "verses_covered": 31065
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 33658,
+     "printed": 23914,
+     "share_printed": 0.7105
+    },
+    "ccel-only": {
+     "refs": 1672,
+     "printed": 60,
+     "share_printed": 0.0359
+    },
+    "reader-only": {
+     "refs": 4165,
+     "printed": 2215,
+     "share_printed": 0.5318
+    }
+   },
+   "print_check": [
+    {
+     "printing": "London, 1828, six volumes (NOT_IN_COPYRIGHT)",
+     "scans": [
+      "expositionofoldn01henr",
+      "expositionofoldn02henr",
+      "expositionofoldn03henr",
+      "expositionofoldn04henr",
+      "expositionofoldn05henr",
+      "expositionofoldn06henr"
+     ],
+     "refs_read": 29039,
+     "aligned": 26189
+    }
+   ],
+   "treasury_check": {
+    "cites": {
+     "refs": 60438,
+     "in_treasury_at_that_verse": 0.2924,
+     "in_treasury_at_an_unrelated_verse": 0.0162
+    }
+   },
+   "source": {
+    "title": "An Exposition of the Old and New Testaments (Commentary on the Whole Bible)",
+    "author": "Matthew Henry (1662-1714); Acts to Revelation completed by other ministers after his death",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "henry1",
+      "url": "https://ccel.org/ccel/h/henry/mhc1.xml",
+      "sha256": "6eb946647f806f46129001f83013d65c51e40ac59b939ac1c51404aa50375971",
+      "ccel_print_source": "Originally published 1706-1721. This version may be from the Revell edition.",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public domain. May be copied and distributed freely."
+     },
+     {
+      "file": "henry2",
+      "url": "https://ccel.org/ccel/h/henry/mhc2.xml",
+      "sha256": "673fcb4168ad946ab1e6923c0e331cc61e4adca4498fc0ee34cf1507285aa2f7",
+      "ccel_print_source": "1706-1721",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public domain. May be copied and distributed freely."
+     },
+     {
+      "file": "henry3",
+      "url": "https://ccel.org/ccel/h/henry/mhc3.xml",
+      "sha256": "8ba9779eba5d326acbfc9acaccf2ea1fa2d6b5c48b03ab86fc5e80b0bfa5b17e",
+      "ccel_print_source": "1706-1721",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public domain. May be copied and distributed freely."
+     },
+     {
+      "file": "henry4",
+      "url": "https://ccel.org/ccel/h/henry/mhc4.xml",
+      "sha256": "7b6ea0800caa1daab6b0c807f5b95c7567fb5d880290bbe91d848048a80486b2",
+      "ccel_print_source": "1706-1721",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public domain. May be copied and distributed freely."
+     },
+     {
+      "file": "henry5",
+      "url": "https://ccel.org/ccel/h/henry/mhc5.xml",
+      "sha256": "8b0853b116e9a68215a594bafe29f45502d4c766e1f128cbf5fb050f45cf2518",
+      "ccel_print_source": "1706-1721",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public domain. May be copied and distributed freely."
+     },
+     {
+      "file": "henry6",
+      "url": "https://ccel.org/ccel/h/henry/mhc6.xml",
+      "sha256": "296195d09d4fbb1e7516ea77c100dbc87ce37542c3109f9f570c3cf155b594c1",
+      "ccel_print_source": "1706-1721",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public domain. May be copied and distributed freely."
+     }
+    ]
+   }
+  },
+  "jfb": {
+   "file": "data/commentary/jfb.jsonl",
+   "sha256": "dac4ab5ef834eab92eac2b2391aa6fcf10a232ae59895e12475c51bfde56fc3d",
+   "rows": 19776,
+   "counts": {
+    "anchor agrees": 16604,
+    "anchor differs": 4,
+    "anchor unread": 3168,
+    "citations": 59013,
+    "cite apocrypha": 103,
+    "cite both": 60898,
+    "cite ccel-only": 62,
+    "cite names no KJV verse": 8,
+    "cite reader-only": 179,
+    "comments": 19776,
+    "verses_covered": 19776
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 50206,
+     "printed": 33412,
+     "share_printed": 0.6655
+    },
+    "ccel-only": {
+     "refs": 59,
+     "printed": 13,
+     "share_printed": 0.2203
+    },
+    "reader-only": {
+     "refs": 164,
+     "printed": 88,
+     "share_printed": 0.5366
+    }
+   },
+   "print_check": [
+    {
+     "printing": "1873 one-volume printing (NOT_IN_COPYRIGHT)",
+     "scans": [
+      "commentarycritic00jami"
+     ],
+     "refs_read": 36256,
+     "aligned": 30211
+    },
+    {
+     "printing": "1879 one-volume printing",
+     "scans": [
+      "commentarycritic00jami_0"
+     ],
+     "refs_read": 48603,
+     "aligned": 25969
+    }
+   ],
+   "treasury_check": {
+    "cites": {
+     "refs": 49314,
+     "in_treasury_at_that_verse": 0.2809,
+     "in_treasury_at_an_unrelated_verse": 0.0019
+    }
+   },
+   "source": {
+    "title": "A Commentary, Critical and Explanatory, on the Old and New Testaments",
+    "author": "Robert Jamieson, A. R. Fausset, David Brown",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "jfb",
+      "url": "https://ccel.org/ccel/j/jamieson/jfb.xml",
+      "sha256": "ce16900c4795d9bd3dc7f7aaec3fccd395c166d4d9593a14b9aae06869aab9af",
+      "ccel_print_source": "1871",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     }
+    ]
+   }
+  },
+  "poole": {
+   "file": "data/commentary/poole.jsonl",
+   "sha256": "0cf561fe63a96eafeff45ea7ed3db7ee843a6c0a395ed11e75acc78899a8c776",
+   "rows": 26208,
+   "counts": {
+    "chapter numbers misprinted, read by order": 1,
+    "chapters agrees": 1119,
+    "chapters by order": 20,
+    "chapters differs": 49,
+    "chapters with pages missing": 1,
+    "citations": 50684,
+    "cite apocrypha": 78,
+    "cite names no KJV verse": 671,
+    "cite next to an unread word, dropped": 2516,
+    "comments": 26208,
+    "notes": 58485,
+    "notes after missing pages, dropped": 24,
+    "parallels": 14181,
+    "unread words in the notes": 24876,
+    "verse numbers misprinted, read by order": 22,
+    "verses_covered": 26208
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 41881,
+     "in_treasury_at_that_verse": 0.2537,
+     "in_treasury_at_an_unrelated_verse": 0.0018
+    },
+    "parallels": {
+     "refs": 12147,
+     "in_treasury_at_that_verse": 0.6663,
+     "in_treasury_at_an_unrelated_verse": 0.0015
+    }
+   },
+   "source": {
+    "title": "Annotations upon the Holy Bible",
+    "author": "Matthew Poole (1624-1679); from Isaiah 59 on, finished after his death by other ministers (Vol. II)",
+    "edition": "EEBO-TCP TEI (hand-keyed from the first edition)",
+    "files": [
+     {
+      "file": "poole1",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A55363/master/A55363.xml",
+      "sha256": "fc494999def0b470be3e1d826d1bb310fe2e627da7d9946067485ddc92fbe6b5",
+      "edition_date": "1683",
+      "tcp_licence": "CC0 1.0"
+     },
+     {
+      "file": "poole2",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A55368/master/A55368.xml",
+      "sha256": "88e15a73286b932440edfa76936b374ba63360ffea2d62d0d3ba514c5cf9a6e6",
+      "edition_date": "1685",
+      "tcp_licence": "CC0 1.0"
+     }
+    ]
+   }
+  },
+  "barnes": {
+   "file": "data/commentary/barnes.jsonl",
+   "sha256": "40a241ed461301754e9cde8e9abdcbf2e415889165238c23c2af888d25ab6072",
+   "rows": 7947,
+   "counts": {
+    "anchor agrees": 7569,
+    "anchor unread": 378,
+    "citations": 39573,
+    "cite apocrypha": 52,
+    "cite both": 44886,
+    "cite ccel-only": 455,
+    "cite names no KJV verse": 9,
+    "cite reader-only": 766,
+    "comments": 7947,
+    "verses_covered": 7947
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 11890,
+     "printed": 5723,
+     "share_printed": 0.4813
+    },
+    "ccel-only": {
+     "refs": 78,
+     "printed": 9,
+     "share_printed": 0.1154
+    },
+    "reader-only": {
+     "refs": 80,
+     "printed": 25,
+     "share_printed": 0.3125
+    }
+   },
+   "print_check": [
+    {
+     "printing": "the Gospels only, 1840, two volumes (the rest of the New Testament is not checked)",
+     "scans": [
+      "notesexplanatory01inbarn",
+      "notesexplanatory02barn_0"
+     ],
+     "refs_read": 8330,
+     "aligned": 5757
+    }
+   ],
+   "treasury_check": {
+    "cites": {
+     "refs": 32170,
+     "in_treasury_at_that_verse": 0.3432,
+     "in_treasury_at_an_unrelated_verse": 0.0018
+    }
+   },
+   "source": {
+    "title": "Notes, Explanatory and Practical, on the New Testament",
+    "author": "Albert Barnes (1798-1870)",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "barnes",
+      "url": "https://ccel.org/ccel/b/barnes/ntnotes.xml",
+      "sha256": "88fdc365052dd5e037ce7e6d5d797b1a5b3ba8591f62b6b3755a706feb853e05",
+      "ccel_print_source": "Grand Rapids, Mich. : Baker Book House, 1949.",
+      "ccel_print_source_check": true,
+      "ccel_dc_rights": "Public Domain"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -84,7 +84,7 @@ mark this where it can be seen:
 - A heading with a word that appears in neither printed scan carries
   `wording_not_in_print` with those words. That is 877 of 27,581 Nave
   headings, and 562 of 22,167 for Torrey, nearly all spellings.
-- The references are what counts. In Nave, only 393 of 22,259 subtopics have
+- The references are what counts. In Nave, only 392 of 22,259 subtopics have
   no reference at all that is also found in print.
 
 ## 3. Three readings of every reference
