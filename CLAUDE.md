@@ -411,23 +411,34 @@ The living truth for project state is the Obsidian vault:
   Scripture: pipeline/fathers_scripture.py reads CSEL's Latin, GCS's German,
   Archambault's French and the English editors' notes; the OT goes through
   the Vulgate map in a Latin book and Brenton's in a Greek one (the edition
-  family's convention, with the English numbering kept as `alt_target`), and
-  an apparatus line number is never read as a verse. Not every editor
+  family's convention, with the English numbering kept as `alt_target`).
+  The apparatus's own numbers are not verses: a line number before a book,
+  a "N]" line marker, a GCS spaced em-dash between entries (" — 8 Esth."),
+  and in a note that never writes "chapter, verse" (Sulpicius) the number
+  after "Gen. 1."; "12 et 13" is two verses; a range into another chapter
+  keeps its start. A bracketed pair ("III Reg. 20 (21), 13") is read by both
+  numbers, in the one order that lands, else in the order the edition's
+  other brackets measure (+bracket). The Septuagint is Swete's numbering
+  (Isa 9, Jer 32:1-24, Mal 4 differ from Rahlfs', which Brenton's map
+  follows). A range's end is read in its start's numbering. Not every editor
   numbers the same way, so pipeline/fathers_numbering.py MEASURES it per
   editor and class of book (Psalms, Jeremiah, the rest) and commits the
   decision with its evidence in data/fathers/numbering.json. Three numberings
   are candidates per family: the Septuagint's (Brenton map) or the Vulgate's,
-  the Hebrew's (bhs-kjv.json, a psalm title is v.1: Heikel's Ps 7:16 is the
+  the Hebrew's (bhs-kjv.json, a psalm title is v.1: Ps 7:16 there is the
   KJV's 7:15), and the English. Existence votes
   (only the numberings that have the verse) and, in Greek, content votes (the
   father's Strong's-glossed words against Brenton's English of each
   candidate; calibrated 89% right between chapters, 75% between verses). An
   edition leans as its calibrated log-odds over a pooled prior say (the prior a
-  mixture estimate: a vote two numberings share is split by their shares). It
-  leaves the pool's numbering only on 2+ votes of its own that tell them apart,
-  and a rival its own votes don't rule out stays `undecided`: the link says
-  numbering_undecided, with that reading as alt_target (Heikel's Psalms:
-  Hebrew or English). In a mixed one, each
+  mixture estimate, to a fixed point: a vote two numberings share is split by
+  their shares). It leaves a pool holding 70% of the class only on 2+ votes of
+  its own that tell them apart (a near-even pool can't outvote one vote), and
+  a rival its own votes don't rule out stays `undecided`: the link says
+  numbering_undecided, with every open reading in undecided_targets and the
+  first as alt_target (Heikel's Psalms: English, Hebrew undecided). An editor
+  with no votes in a class, listed or not, gets the pool's verdict and its
+  undecided rivals. In a mixed one, each
   note's run of references to one chapter is one quotation, read by one
   content vote where the numberings put it in different chapters (+content). Greek 1 Esdras is the apocryphal book,
   2 Esdras is Ezra-Nehemiah (Brenton's map). Tokens are the text

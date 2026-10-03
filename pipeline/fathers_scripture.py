@@ -45,6 +45,7 @@ reference by reference by the father's own words. What is not
 scripture (Philo, Homer, the father's own other works) is not read at all:
 only a book in the table opens a reference.
 """
+import collections
 import re
 import unicodedata
 
@@ -209,10 +210,23 @@ def as_num(tok):
 
 def parse(label, family):
     """[(book, kind, chapter, verse or None, end or None, alt_chapter or None)]."""
-    s = label.replace("—", "-").replace("–", "-").replace("‒", "-")
+    # "9] Ps. 18, 6. 16] Io. 1,10.": an apparatus marker "N]" (the line a
+    # note belongs to) is never a verse, and a spaced em-dash is the GCS
+    # separator between entries ("Röm. 4, 17. — 8 Esth.", "29, 5 — 15 — 18"),
+    # unless the number after it ends the entry ("Matth. 7, 3 — 5;": a
+    # range). Both become a stop no number can be read across. "[17]" is a verse.
+    s = re.sub(r"(?<![\w\[])\d{1,3}\s?f{0,2}\]", " | ", label)
+    s = re.sub(r"(?:^|\s)—(?!\s?\d{1,3}\s?(?:[.,;)]|$))", " | ", s)
+    s = s.replace("—", "-").replace("–", "-").replace("‒", "-")
     refs = []
     pos = 0
     lined = bool(re.match(r"\s*\d", s))
+    # a lined note that mostly writes "Book. chapter. line Book" (Sulpicius'
+    # Chronica: "5 Gen. 1. 9 Gen. 2.") cites chapters; its "1. 9" is not a
+    # verse. One that mostly writes "chapter, verse" keeps an OCR full stop's
+    # verse ("2 Matth. 10. 10 Luc. 10, 4").
+    dots = len(re.findall(r"[A-Z][A-Za-z]+\.\s?\d{1,3}\.\s?\d{1,3}\s?(?:I{1,3}\s)?[A-Z]", s))
+    chapters_lined = lined and dots > len(re.findall(r"\d\s?,\s?\d", s))
     while True:
         m = BOOK_RE.search(s, pos)
         if not m:
@@ -234,8 +248,12 @@ def parse(label, family):
                 break
             if t.group("num"):
                 b = BOOK_RE.match(s, t.start("num"))
-                if b and b.group("pre") and book_of(b.group("pre"), b.group("name"), family, lined)[0]:
-                    break           # "; 2 Cor. 5, 21": the next book, numbered
+                if b and b.group("pre"):
+                    nb = book_of(b.group("pre"), b.group("name"), family, lined)[0]
+                    if nb and nb != book_of(None, b.group("name"), family)[0]:
+                        break       # "; 2 Cor. 5, 21": the next book, numbered
+                    # "Is. 53, 4 Matth.": the number is not part of the next
+                    # book's name, so it is this reference's verse (or a line)
                 # was it preceded by bare space (no separator since the last number)?
                 bare = bool(toks) and toks[-1][0] == "num" and s[toks[-1][2]:t.start("num")].strip() == ""
                 # "Psal. 7, 16ff. 23 Exod.": after "and following" a number is
@@ -256,7 +274,7 @@ def parse(label, family):
             # a number followed by a letter (a word) ends the run: "14 12 Gal."
             # is handled by `bare`; "3 sq." and "1 suiv." by the letter check
         pos = max(pos, p)
-        found = _refs(book, kind, toks)
+        found = _refs(book, kind, toks, chapters_lined)
         if len(fold(m.group("name"))) <= 2:
             # a one- or two-letter name is also a manuscript siglum ("Mt 7",
             # "Hl 19"): it opens a reference only with a verse
@@ -265,7 +283,7 @@ def parse(label, family):
     return refs
 
 
-def _refs(book, kind, toks):
+def _refs(book, kind, toks, lined=False):
     out = []
     i = 0
     n = len(toks)
@@ -306,8 +324,12 @@ def _refs(book, kind, toks):
                 i += 2
             continue
         # chapter, then a separator, then a verse
-        if not (i + 1 < n and toks[i][0] == "sep" and toks[i][1] in (",", ".", ":") and num_at(i + 1)
-                and toks[i + 1][1].isdigit()):
+        # "5 Gen. 1. 9 Gen. 2." (Sulpicius cites chapters): in a note that
+        # cites chapters (`lined` here), chapter and a full stop is a whole
+        # chapter, and the number after it the next line's
+        line_next = lined and i + 1 < n and toks[i][1] == "."
+        if line_next or not (i + 1 < n and toks[i][0] == "sep" and toks[i][1] in (",", ".", ":") and num_at(i + 1)
+                             and toks[i + 1][1].isdigit()):
             # "John i 3" (Philocalia): a Roman chapter, a bare space, a verse
             if i < n and toks[i][0] == "num" and toks[i][1].isdigit() and not toks[i - 1][1].isdigit():
                 v = int(toks[i][1])
@@ -322,20 +344,26 @@ def _refs(book, kind, toks):
         out.append((book, kind, ch, v, None, alt))
         i += 2
         # more verses of this chapter: "-32", ". 15", ", 41", "3-5. 27"
-        while i + 1 < n and toks[i][0] == "sep" and toks[i][1] in ("-", ".", ",") and cont_at(i + 1) \
+        while i + 1 < n and toks[i][0] == "sep" and toks[i][1] in ("-", ".", ",", "et") and cont_at(i + 1) \
                 and toks[i + 1][1].isdigit():
-            # ", 41, 5" or ". 20, 2": the number opens a new chapter of the same book
-            if toks[i][1] in (",", ".") and i + 3 < n and toks[i + 2][0] == "sep" and toks[i + 2][1] == "," \
+            # ", 41, 5", ". 20, 2" or "et 3, 4": the number opens a new chapter of the same book
+            if toks[i][1] in (",", ".", "et") and i + 3 < n and toks[i + 2][0] == "sep" and toks[i + 2][1] == "," \
                     and num_at(i + 3):
                 i += 1
+                break
+            # "21, 30 - 23, 2": a range into another chapter. The link keeps
+            # its first verse; the end chapter is not a verse of this one.
+            if toks[i][1] == "-" and i + 3 < n and toks[i + 2][0] == "sep" and toks[i + 2][1] == "," \
+                    and num_at(i + 3):
+                i += 4
                 break
             w = int(toks[i + 1][1])
             if toks[i][1] == "-":
                 b, k, c, vv, _, a = out[-1]
                 if w > vv:
                     out[-1] = (b, k, c, vv, w, a)
-            elif w > out[-1][3]:
-                out.append((book, kind, ch, w, None, alt))
+            elif w > out[-1][3] or (toks[i][1] == "et" and w != out[-1][3]):
+                out.append((book, kind, ch, w, None, alt))   # "17, 14 et 8": et may go back
             else:
                 break
             i += 2
@@ -359,6 +387,18 @@ MAP_OF = {"vulgate": "vulgate", "lxx": "brenton", "hebrew": "bhs", "english": "k
 FALLBACK = {"lat": ("vulgate", "english", "hebrew"), "grc": ("lxx", "english", "hebrew")}
 
 
+# The Septuagint these editors cite is Swete's (1887-94) or older, and
+# Brenton's map follows Rahlfs where they part: Swete's Isa 9 is the English
+# chapter (Rahlfs moved its 9:1 to 8:23), his Jer 32:1-24 is Rahlfs' 32:15-38
+# (the cup, the KJV's 25:15-38), his Mal 4:1-6 Rahlfs' 3:19-24.
+# (book, chapter) -> verse -> (chapter, verse) in Brenton's numbering.
+SWETE = {
+    ("Isa", 9): lambda v: (8, 23) if v == 1 else (9, v - 1),
+    ("Jer", 32): lambda v: (32, v + 14) if v <= 24 else None,
+    ("Mal", 4): lambda v: (3, v + 18) if v <= 6 else None,
+}
+
+
 def read_in(numbering, book, ch, v, ctx):
     """One OT verse read in one numbering: the versification module's fields
     (resolved, target, why), plus `exists` when the numbering has the verse
@@ -374,7 +414,11 @@ def read_in(numbering, book, ch, v, ctx):
                 return {"resolved": False, "why": "no such chapter in the Clementine Vulgate"}
             r = V.resolve_vulgate(osis, ctx["vmap"], ctx["kjv_ids"])
         elif numbering == "lxx":
-            r = V.resolve_brenton(osis, ctx["bmap"], ctx["kjv_ids"])
+            sw = SWETE.get((book, ch))
+            cv = sw(v) if sw else (ch, v)
+            if cv is None:
+                return {"resolved": False, "why": "no such verse in Swete's Septuagint"}
+            r = V.resolve_brenton(f"{book}.{cv[0]}.{cv[1]}", ctx["bmap"], ctx["kjv_ids"])
         else:
             if book not in V.BOOKS or f"{book}.{ch}" not in ctx["hmap"]["hebrew_chapters"]:
                 return {"resolved": False, "why": "no such chapter in the Hebrew Bible (WLC)"}
@@ -386,7 +430,84 @@ def read_in(numbering, book, ch, v, ctx):
     return r
 
 
-def resolve(ref, family, ctx, scheme=None, vote=None):
+def _cv(target):
+    """"kjv:Ps.74.5" or "Ps.74.5" -> ("Ps", 74, 5)."""
+    b, c, v = target.split(":")[-1].split(".")
+    return b, int(c), int(v)
+
+
+def _through(first, last):
+    """A range's end, kept only in the same book and not before its start."""
+    (b1, c1, v1), (b2, c2, v2) = _cv(first), _cv(last)
+    return last if b1 == b2 and (c2, v2) > (c1, v1) else None
+
+
+# The Greek side of a bracketed chapter pair ("III Reg. 20 (21), 13",
+# "Psalm. 73 (74), 5", "Hier. 31 (38)"): the Septuagint's (and in a Latin
+# book the Vulgate's) number beside the Hebrew-English one.
+BRACKET_SIDES = {"lat": ("vulgate", "lxx"), "grc": ("lxx",)}
+
+
+def bracket_orders(ref, family, ctx):
+    """Which order a bracketed reference can be read in: "greek-first" (the
+    first number is the Greek side's chapter and the bracket the KJV's) or
+    "kjv-first", each with (numbering, fields). Both orders fit only where the
+    two numberings swap whole chapters (1 Kgs 20/21)."""
+    book, kind, ch, v, end, alt = ref
+    got = {}
+    for order, (gch, kch) in (("greek-first", (ch, alt)), ("kjv-first", (alt, ch))):
+        for x in BRACKET_SIDES[family]:
+            r = read_in(x, book, gch, v, ctx)
+            if r.get("resolved") and _cv(r["target"])[:2] == (book, kch):
+                f = {"resolved": True, "target": r["target"]}
+                if end and end > v:
+                    e = read_in(x, book, gch, end, ctx)
+                    if e.get("resolved") and _through(r["target"], e["target"]):
+                        f["through"] = e["target"]
+                got[order] = (x, f)
+                break
+    return got
+
+
+def bracket_pref(labels, family, ctx):
+    """An editor prints his brackets one way round: the order this book's
+    brackets that fit only one way take, by majority (None if none, or tied)."""
+    n = collections.Counter()
+    for lab in labels:
+        for ref in parse(lab, family):
+            if ref[5] and ref[3] is not None and ref[1] == "kjv" and ref[0] not in NT:
+                o = bracket_orders(ref, family, ctx)
+                if len(o) == 1:
+                    n[next(iter(o))] += 1
+    if not n or n["greek-first"] == n["kjv-first"]:
+        return None
+    return n.most_common(1)[0][0]
+
+
+def bracketed(ref, family, ctx, pref=None):
+    """Link fields for a bracketed reference read by its two numbers, or None
+    if neither order lands (then it is read like any other reference)."""
+    o = bracket_orders(ref, family, ctx)
+    if not o:
+        return None
+    if len(o) == 1:
+        order = next(iter(o))
+        how = "the only order that lands"
+    else:
+        order = pref or "greek-first"
+        how = "this edition's order" if pref else "both orders land; no order measured for this edition"
+    x, f = o[order]
+    out = {**f, "numbering": x, "map": MAP_OF[x] + "+bracket", "bracket": order, "why_bracket": how}
+    if len(o) == 2 and not pref:
+        other = o["kjv-first" if order == "greek-first" else "greek-first"][1]
+        if other["target"] != f["target"]:
+            out["alt_target"] = other["target"]
+            out["numbering_undecided"] = ["bracket order"]
+            out["undecided_targets"] = [other["target"]]
+    return out
+
+
+def resolve(ref, family, ctx, scheme=None, vote=None, bracket_pref=None):
     """The link fields for one reference, with the id of the rule that made it.
 
     `scheme(book)` -> (numbering, per_reference[, undecided]) is the edition's
@@ -413,6 +534,10 @@ def resolve(ref, family, ctx, scheme=None, vote=None):
             out.update({"resolved": False, "why": "no such verse in the KJV (an OCR digit?)"})
         out["map"] = "nt"
         return out
+    if alt:
+        b = bracketed(ref, family, ctx, bracket_pref)
+        if b:
+            return {**out, **b}
     numbering, per_ref, *rest = scheme(book) if scheme else (FAMILY_NUMBERING[family], False)
     undecided = tuple(rest[0]) if rest else ()
     how = "edition"
@@ -446,15 +571,18 @@ def resolve(ref, family, ctx, scheme=None, vote=None):
             if other:
                 r["alt_target"] = other
             if open_:
+                # alt_target holds one; every open rival's reading is listed
                 r["numbering_undecided"] = open_
+                r["undecided_targets"] = list(dict.fromkeys(rs[x]["target"] for x in open_))
         return r, used
 
     r, used = one(v)
     out.update(r)
     out["numbering"] = used
     if r.get("resolved") and end and end > v:
-        last, _ = one(end)
-        if last.get("resolved"):
+        # the end in the numbering the start was read in, never another
+        last = read_in(used, book, ch, end, ctx)
+        if last.get("resolved") and _through(r["target"], last["target"]):
             out["through"] = last["target"]
     out["map"] = MAP_OF[used] + ("+content" if how == "content" else "")
     return out
@@ -488,17 +616,17 @@ def group_votes(refs, family, ctx, scheme, unit_words):
     return out
 
 
-def links_for(label, family, source, ctx, scheme=None, unit_words=None):
+def links_for(label, family, source, ctx, scheme=None, unit_words=None, bracket_pref=None):
     """Every scripture link in one note or bracketed reference."""
     out = []
     refs = parse(label, family)
     votes = group_votes(refs, family, ctx, scheme, unit_words)
     for i, ref in enumerate(refs):
-        r = resolve(ref, family, ctx, scheme, votes.get(i))
+        r = resolve(ref, family, ctx, scheme, votes.get(i), bracket_pref)
         rule = f"{source}/{r.pop('map') or 'none'}"
         twin = OCR_TWIN.get(ref[0])
         if not r["resolved"] and ref[3] and twin and r.get("why", "").startswith("no such"):
-            t = resolve((twin,) + ref[1:], family, ctx, scheme, votes.get(i))
+            t = resolve((twin,) + ref[1:], family, ctx, scheme, votes.get(i), bracket_pref)
             if t["resolved"]:
                 rule = f"{source}/{t.pop('map')}+ocr-twin"
                 r = {**t, "ref": r["ref"], "read_as": twin,

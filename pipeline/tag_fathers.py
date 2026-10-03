@@ -94,6 +94,13 @@ def scripture_context(numbering=False):
     return ctx
 
 
+def labels_of(u):
+    """[(source, label)]: a unit's editors' notes and printed references."""
+    app = u.get("apparatus") or {}
+    return [("note", n["text"]) for n in app.get("notes") or []] + \
+           [("refs", r) for r in app.get("refs") or []]
+
+
 def scripture(book, family, ctx, tokens=None):
     """{unit id: [links]} from the editors' notes and printed references,
     each OT reference read in the edition's measured numbering."""
@@ -102,10 +109,10 @@ def scripture(book, family, ctx, tokens=None):
         import fathers_numbering as FN
         scheme = FN.scheme_for(book, family, ctx["numbering"])
     out = {}
+    every = [lab for u in book["units"] for _, lab in labels_of(u)]
+    pref = FS.bracket_pref(every, family, ctx)
     for u in book["units"]:
-        app = u.get("apparatus") or {}
-        labels = [("note", n["text"]) for n in app.get("notes") or []] + \
-                 [("refs", r) for r in app.get("refs") or []]
+        labels = labels_of(u)
         if not labels:
             continue
         uw = None
@@ -114,7 +121,7 @@ def scripture(book, family, ctx, tokens=None):
             uw = FN.unit_words(tokens.get(u["id"], []), ctx["glosses"])
         links = []
         for source, lab in labels:
-            links += FS.links_for(lab, family, source, ctx, scheme, uw)
+            links += FS.links_for(lab, family, source, ctx, scheme, uw, pref)
         if links:
             out[u["id"]] = links
     return out
@@ -196,10 +203,13 @@ def link_rows(slug, sc):
         out = []
         for ln in links:
             d = {k: ln[k] for k in ("ref", "target", "through", "spans", "alt_target", "numbering",
-                                    "numbering_undecided", "read_as", "rule") if k in ln}
+                                    "numbering_undecided", "undecided_targets", "bracket", "read_as",
+                                    "rule") if k in ln}
             for k in ("target", "through", "alt_target"):
                 if k in d:
                     d[k] = d[k][4:]
+            if "undecided_targets" in d:
+                d["undecided_targets"] = [t[4:] for t in d["undecided_targets"]]
             if "spans" in d:
                 d["spans"] = [t[4:] for t in d["spans"]]
             if not ln.get("resolved"):
@@ -311,8 +321,11 @@ def manifest(entries):
                                "numbering (fathers_numbering.py, data/fathers/numbering.json): "
                                "vulgate, brenton (the Septuagint's), bhs (the Hebrew's) or kjv (the English), and nt; "
                                "+content where an edition that mixes numberings was read by the "
-                               "father's own words; +ocr-twin where Job/John was "
-                               "read as its twin",
+                               "father's own words; +bracket where the editor printed both "
+                               "chapters (\"20 (21), 13\") and the pair was read in the one order "
+                               "that lands, or in his measured order (`bracket`); +ocr-twin where "
+                               "Job/John was read as its twin. The Septuagint is read in Swete's "
+                               "numbering (Isa 9, Jer 32, Mal 4), mapped to Brenton's",
                       "file": "build/fathers/scripture-links.jsonl (gitignored; rebuilt)"},
         "not_claimed": [
             "A Greek word's number is the NT's reading of the same written form; the fathers' "
@@ -325,7 +338,9 @@ def manifest(entries):
             "and only where the numberings differ by chapter, where that vote is right 89% of "
             "the time. Where another numbering names another verse it is kept as alt_target. Where "
             "an edition's own notes do not tell two numberings apart, the class is not called: "
-            "the link reads as the pool leans and says numbering_undecided.",
+            "the link reads as the pool leans and says numbering_undecided, with every open "
+            "rival's reading in undecided_targets (alt_target alone is any other numbering's "
+            "reading, decided or not).",
             "The texts are OCR (CSEL, many First1KGreek files): a misread word is tagged as read.",
         ],
         "books": dict(sorted(entries.items())),

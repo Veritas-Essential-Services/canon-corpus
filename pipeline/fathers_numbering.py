@@ -59,17 +59,21 @@ against the English), plus, for every vote supporting it, the log-odds of a
 vote of that kind being right: content from the calibration, existence from
 the Latin editions' Psalms, where the Vulgate numbering is not in doubt and
 5% of existence votes still say otherwise (OCR digits, slips). The highest
-score wins, under two guards. An edition leaves the pool's numbering only on
-at least MIN_OWN votes of its own that tell the two apart (one OCR digit
-moves nothing: Halm's one Hebrew-only reference outside the Psalms). And a
+score wins, under two guards. An edition leaves a pool holding SHARE of the
+class only on at least MIN_OWN votes of its own that tell the two apart (one
+OCR digit moves nothing: Halm's one Hebrew-only reference outside the
+Psalms); a near-even pool cannot outvote even one vote, and stays undecided
+beside it instead. And a
 rival numbering is ruled out only by MIN_OWN of the edition's own votes
 netting against it, or, for the pool's numbering, by a pooled share of
 SHARE with no vote of the edition's against it. A rival not ruled out is
 UNDECIDED: the class reads as it leans, and every link a rival would read as
 another verse says so (numbering_undecided, with that verse as alt_target).
 Heikel's Psalms: Ps 132:7 and the peace psalm rule out the Greek count, but
-both fit the Hebrew and the English alike, so they read as the pool leans
+both fit the Hebrew and the English alike, so they read as the scores lean
 (English) and Ps 7:16 carries the Hebrew's 7:15 beside it, undecided.
+A bracketed reference ("20 (21), 13") does not vote: it is read by its
+brackets (fathers_scripture.bracketed).
 A Greek class with at least MIN_VOTES votes of which no numbering has
 SHARE is MIXED (Dindorf's Demonstratio cites the Psalms both ways): there each
 note's run of references to one chapter is read as one quotation, by one
@@ -78,7 +82,8 @@ put it in different chapters (rule suffix +content); else as the edition
 leans. The evidence is committed beside each decision. Latin editions have no
 content votes (no English for their words), so existence alone decides them:
 Vulgate, except where an edition's existence votes say otherwise
-(Reifferscheid-Wissowa's Tertullian, Psalms: Hebrew or English, undecided).
+(Reifferscheid-Wissowa's Tertullian, Psalms: the Vulgate, Hebrew and English
+undecided, once the "N]" line markers stopped voting as verses).
 
 INPUT: data/books/<slug>.json (the notes), build/fathers/<slug>.json (the
 Greek tags, tag_fathers.py), data/strongs/strongs.jsonl (committed),
@@ -327,9 +332,9 @@ def measure(ctx, slugs, bren=None, gl=None, cal=None):
             uw = None
             for lab in labs:
                 for ref in FS.parse(lab, family):
-                    book_, kind, ch, v, _end, _alt = ref
-                    if kind == "deutero" or v is None or book_ in FS.NT:
-                        continue
+                    book_, kind, ch, v, _end, alt = ref
+                    if kind == "deutero" or v is None or book_ in FS.NT or alt:
+                        continue        # a bracketed "20 (21), 13" is read by its brackets
                     R = readings(book_, ch, v, family, ctx)
                     have = [x for x in SCHEMES[family] if R[x] is not None]
                     if not have:
@@ -365,10 +370,11 @@ def support(c, family):
     return out
 
 
-def shares(c, family, rounds=200):
+def shares(c, family, tol=1e-12, rounds=100000):
     """{numbering: its share of the pool}: a mixture estimate in which a vote
     two numberings share is split between them in proportion to their
-    shares, repeated to a fixed point. So an LXX-numbered editor's
+    shares, repeated until no share moves by `tol` (a fixed point; `rounds`
+    only bounds it). So an LXX-numbered editor's
     'lxx+hebrew' votes (a psalm's title counted as verse 1) go almost wholly
     to the LXX and lend the Hebrew count nothing against the English, while
     a 'hebrew+english' vote still counts against the LXX."""
@@ -384,7 +390,11 @@ def shares(c, family, rounds=200):
             z = sum(p[x] for x in sup)
             for x in sup:
                 got[x] += n * (p[x] / z if z else 1 / len(sup))
-        p = {x: got[x] / tot for x in xs}
+        q = {x: got[x] / tot for x in xs}
+        done = max(abs(q[x] - p[x]) for x in xs) < tol
+        p = q
+        if done:
+            break
     return {x: round(v, 4) for x, v in p.items()}
 
 
@@ -440,7 +450,11 @@ def decide(c, family, prior, weights, pooled=None, pool_share=0.0):
         for x in sup.split("+"):
             score[x] += n * weight(kind, weights)
     best = max(SCHEMES[family], key=lambda x: (round(score[x], 9), -SCHEMES[family].index(x)))
-    if pooled and best != pooled and between(c, best, pooled, weights)[0] < MIN_OWN:
+    if pooled and best != pooled and between(c, best, pooled, weights)[0] < MIN_OWN \
+            and pool_share >= SHARE:
+        # too few votes of its own to leave a pool that knows its mind; a
+        # near-even pool cannot outvote even one, which leaves the pool's
+        # numbering undecided below instead
         best = pooled
     open_ = []
     for y in SCHEMES[family]:
@@ -483,7 +497,8 @@ def build(ctx, slugs):
                         "log-odds of a vote of that kind being right, from `calibration` and, for "
                         "existence, the Latin Psalms)",
                         "an edition leaves the pool's numbering only on at least min_own votes of its "
-                        "own that tell the two apart; a rival is ruled out only by min_own such votes "
+                        "own that tell the two apart, where the pool holds `share` of the class (a "
+                        "near-even pool cannot outvote one vote: it stays undecided); a rival is ruled out only by min_own such votes "
                         "netting against it, or, for the pool's numbering, by a pooled share of at "
                         "least `share` with no vote of the edition's against it. Rivals not "
                         "ruled out are `undecided`, and every link that would read differently in "
@@ -521,6 +536,11 @@ def build(ctx, slugs):
         for cls in CLASSES:
             num, _, _ = decide(collections.Counter(), family, prior[(family, cls)], weights)
             out["pooled"][family][cls]["numbering"] = num
+            # what an edition with no votes in the class gets, listed or not
+            _, _, und = decide(collections.Counter(), family, prior[(family, cls)], weights,
+                               num, prior[(family, cls)][num])
+            if und:
+                out["pooled"][family][cls]["undecided"] = und
         eds = {}
         for ed in sorted(votes[family]):
             row = {"books": sorted(books_of[(family, ed)])}
@@ -551,8 +571,8 @@ def load(path=OUT):
             for cls in CLASSES:
                 table[(family, ed, cls)] = (row[cls]["numbering"], bool(row[cls].get("per_reference")),
                                             tuple(row[cls].get("undecided", ())))
-    pooled = {(family, cls): (v["numbering"], False, ()) for family, p in m["pooled"].items()
-              for cls, v in p.items()}
+    pooled = {(family, cls): (v["numbering"], False, tuple(v.get("undecided", ())))
+              for family, p in m["pooled"].items() for cls, v in p.items()}
     return table, pooled
 
 

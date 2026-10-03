@@ -30,100 +30,110 @@
    "each OT reference is read in every numbering of its family: lxx (Brenton's map) or vulgate (the Clementine's), hebrew (BHS chapter and verse, a psalm's title counted as verse 1: data/versification/bhs-kjv.json) and english (the KJV's chapter and verse as printed)",
    "votes, keyed kind:numberings-supported: existence (only some numberings have the verse) and, in Greek, content_chapter / content_verse (the father's glossed words favour one candidate verse by margin)",
    "an edition's class takes the numbering with the highest score: the log of its pooled share for the class (a mixture estimate: a vote two numberings share is split between them by their shares, to a fixed point, so an LXX editor's lxx+hebrew votes lend the Hebrew count nothing against the English), clipped to clip..1-clip, plus each supporting vote's weight (`weights`: the log-odds of a vote of that kind being right, from `calibration` and, for existence, the Latin Psalms)",
-   "an edition leaves the pool's numbering only on at least min_own votes of its own that tell the two apart; a rival is ruled out only by min_own such votes netting against it, or, for the pool's numbering, by a pooled share of at least `share` with no vote of the edition's against it. Rivals not ruled out are `undecided`, and every link that would read differently in one says so (numbering_undecided)",
+   "an edition leaves the pool's numbering only on at least min_own votes of its own that tell the two apart, where the pool holds `share` of the class (a near-even pool cannot outvote one vote: it stays undecided); a rival is ruled out only by min_own such votes netting against it, or, for the pool's numbering, by a pooled share of at least `share` with no vote of the edition's against it. Rivals not ruled out are `undecided`, and every link that would read differently in one says so (numbering_undecided)",
    "mixed (Greek): at least min_votes and no numbering has `share` of them; each note's run of references to one chapter is then read by one content vote where the candidates differ by chapter, else as the edition leans"
   ],
   "weights": {
-   "existence": 2.8673,
-   "chapter": 2.1228,
-   "verse": 1.0869
+   "existence": 2.9444,
+   "chapter": 2.1249,
+   "verse": 1.0885
   }
  },
  "calibration": {
   "chapter": {
-   "right": 735,
+   "right": 737,
    "unclear": 2497,
    "wrong": 88,
-   "right_share_of_votes": 0.8931
+   "right_share_of_votes": 0.8933
   },
   "verse": {
-   "right": 691,
-   "unclear": 3123,
+   "right": 692,
+   "unclear": 3125,
    "wrong": 233,
-   "right_share_of_votes": 0.7478
+   "right_share_of_votes": 0.7481
   }
  },
  "pooled": {
   "grc": {
    "Ps": {
     "share": {
-     "lxx": 0.8865,
-     "hebrew": 0.0255,
-     "english": 0.088
+     "lxx": 0.8882,
+     "hebrew": 0.0251,
+     "english": 0.0867
     },
     "votes": {
      "content_chapter:english": 4,
      "content_chapter:hebrew": 3,
-     "content_chapter:hebrew+english": 27,
-     "content_chapter:lxx": 197,
+     "content_chapter:hebrew+english": 25,
+     "content_chapter:lxx": 195,
      "content_verse:english": 8,
      "content_verse:lxx+hebrew": 12,
      "existence:hebrew+english": 18,
-     "existence:lxx": 259,
+     "existence:lxx": 253,
      "existence:lxx+hebrew": 5
     },
     "numbering": "lxx"
    },
    "Jer": {
     "share": {
-     "lxx": 0.4583,
+     "lxx": 0.5745,
      "hebrew": 0.0,
-     "english": 0.5417
+     "english": 0.4255
     },
     "votes": {
-     "content_chapter:hebrew+english": 8,
-     "content_chapter:lxx": 5,
+     "content_chapter:hebrew+english": 9,
+     "content_chapter:lxx": 10,
      "content_verse:english": 3,
      "existence:english": 1,
-     "existence:hebrew+english": 14,
+     "existence:hebrew+english": 7,
      "existence:lxx": 17
     },
-    "numbering": "english"
+    "numbering": "lxx",
+    "undecided": [
+     "hebrew",
+     "english"
+    ]
    },
    "rest": {
     "share": {
-     "lxx": 0.3804,
-     "hebrew": 0.0,
-     "english": 0.6196
+     "lxx": 0.4122,
+     "hebrew": 0.0758,
+     "english": 0.5121
     },
     "votes": {
      "content_chapter:english": 2,
      "content_chapter:hebrew+english": 1,
      "content_chapter:lxx": 2,
-     "content_verse:english": 21,
+     "content_verse:english": 14,
+     "content_verse:hebrew": 4,
      "content_verse:hebrew+english": 1,
      "content_verse:lxx": 1,
-     "content_verse:lxx+hebrew": 8,
-     "existence:english": 23,
+     "content_verse:lxx+english": 7,
+     "content_verse:lxx+hebrew": 4,
+     "existence:english": 11,
      "existence:hebrew+english": 9,
      "existence:lxx": 18,
+     "existence:lxx+english": 12,
      "existence:lxx+hebrew": 6
     },
-    "numbering": "english"
+    "numbering": "english",
+    "undecided": [
+     "lxx",
+     "hebrew"
+    ]
    }
   },
   "lat": {
    "Ps": {
     "share": {
-     "vulgate": 0.944,
-     "hebrew": 0.056,
+     "vulgate": 0.9765,
+     "hebrew": 0.0235,
      "english": 0.0
     },
     "votes": {
-     "existence:hebrew": 5,
-     "existence:hebrew+english": 102,
-     "existence:vulgate": 1804,
-     "existence:vulgate+hebrew": 78
+     "existence:hebrew+english": 42,
+     "existence:vulgate": 1742,
+     "existence:vulgate+hebrew": 73
     },
     "numbering": "vulgate"
    },
@@ -136,19 +146,22 @@
     "votes": {
      "existence:vulgate+english": 2
     },
-    "numbering": "vulgate"
+    "numbering": "vulgate",
+    "undecided": [
+     "hebrew",
+     "english"
+    ]
    },
    "rest": {
     "share": {
-     "vulgate": 0.9421,
-     "hebrew": 0.0508,
-     "english": 0.0071
+     "vulgate": 0.9425,
+     "hebrew": 0.0,
+     "english": 0.0575
     },
     "votes": {
-     "existence:hebrew": 5,
      "existence:hebrew+english": 5,
      "existence:vulgate": 71,
-     "existence:vulgate+english": 104,
+     "existence:vulgate+english": 101,
      "existence:vulgate+hebrew": 11
     },
     "numbering": "vulgate"
@@ -168,9 +181,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 24.881,
-      "hebrew": 1.301,
-      "english": -0.308
+      "lxx": 25.28,
+      "hebrew": 1.306,
+      "english": -0.32
      },
      "votes": {
       "content_chapter:hebrew+english": 1,
@@ -182,9 +195,9 @@
     "Jer": {
      "numbering": "english",
      "score": {
-      "lxx": -0.78,
-      "hebrew": 1.994,
-      "english": 4.377
+      "lxx": -0.554,
+      "hebrew": 2.074,
+      "english": 4.215
      },
      "undecided": [
       "hebrew"
@@ -197,9 +210,9 @@
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": -0.967,
-      "hebrew": -2.996,
-      "english": 7.43
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": 7.397
      },
      "votes": {
       "content_verse:english": 2,
@@ -214,18 +227,18 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": -0.12,
+      "lxx": -0.119,
       "hebrew": -2.996,
-      "english": -2.43
+      "english": -2.445
      },
      "votes": {}
     },
     "Jer": {
      "numbering": "english",
      "score": {
-      "lxx": -0.78,
-      "hebrew": -0.128,
-      "english": 2.254
+      "lxx": -0.554,
+      "hebrew": -0.051,
+      "english": 2.09
      },
      "undecided": [
       "lxx",
@@ -238,9 +251,9 @@
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": -0.967,
-      "hebrew": -2.996,
-      "english": -0.479
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": -0.669
      },
      "undecided": [
       "lxx",
@@ -256,9 +269,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 23.975,
-      "hebrew": 6.24,
-      "english": 7.892
+      "lxx": 24.075,
+      "hebrew": 6.323,
+      "english": 7.962
      },
      "per_reference": true,
      "votes": {
@@ -272,9 +285,9 @@
     "Jer": {
      "numbering": "english",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": 2.254
+      "english": 2.09
      },
      "undecided": [
       "lxx",
@@ -287,16 +300,16 @@
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": -0.967,
-      "hebrew": -2.996,
-      "english": 2.389
+      "lxx": 2.058,
+      "hebrew": -2.58,
+      "english": 2.275
      },
      "undecided": [
       "lxx",
       "hebrew"
      ],
      "votes": {
-      "existence:english": 1
+      "existence:lxx+english": 1
      }
     }
    },
@@ -310,9 +323,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 141.374,
-      "hebrew": 15.235,
-      "english": 12.54
+      "lxx": 143.448,
+      "hebrew": 15.478,
+      "english": 12.763
      },
      "votes": {
       "content_chapter:hebrew+english": 3,
@@ -323,24 +336,26 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": 4.954,
-      "hebrew": 11.341,
-      "english": 15.897
+      "lxx": 11.709,
+      "hebrew": -0.871,
+      "english": 3.447
      },
+     "per_reference": true,
      "votes": {
+      "content_chapter:hebrew+english": 1,
+      "content_chapter:lxx": 3,
       "content_verse:english": 2,
-      "existence:hebrew+english": 5,
       "existence:lxx": 2
      }
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 2.988,
-      "hebrew": -2.996,
-      "english": 8.123
+      "lxx": 3.147,
+      "hebrew": -2.58,
+      "english": 8.164
      },
      "per_reference": true,
      "votes": {
@@ -357,9 +372,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 195.791,
-      "hebrew": 6.24,
-      "english": 4.682
+      "lxx": 200.072,
+      "hebrew": 6.323,
+      "english": 4.749
      },
      "votes": {
       "content_chapter:hebrew": 1,
@@ -370,32 +385,32 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": 2.087,
+      "lxx": 2.39,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {
       "existence:lxx": 1
      }
     },
     "rest": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": 7.635,
-      "hebrew": 8.473,
-      "english": 17.812
+      "lxx": 19.725,
+      "hebrew": 9.198,
+      "english": 18.086
      },
      "votes": {
       "content_verse:english": 1,
-      "existence:english": 4,
       "existence:hebrew+english": 2,
       "existence:lxx": 1,
+      "existence:lxx+english": 4,
       "existence:lxx+hebrew": 2
      }
     }
@@ -407,9 +422,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 118.495,
-      "hebrew": 4.46,
-      "english": 1.815
+      "lxx": 120.175,
+      "hebrew": 4.467,
+      "english": 1.804
      },
      "votes": {
       "content_chapter:hebrew": 1,
@@ -422,9 +437,9 @@
     "Jer": {
      "numbering": "english",
      "score": {
-      "lxx": 1.343,
-      "hebrew": 11.23,
-      "english": 13.613
+      "lxx": 1.571,
+      "hebrew": 11.393,
+      "english": 13.534
      },
      "undecided": [
       "hebrew"
@@ -438,14 +453,15 @@
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 0.12,
-      "hebrew": 0.958,
-      "english": 10.991
+      "lxx": 6.091,
+      "hebrew": 1.453,
+      "english": 11.108
      },
      "votes": {
       "content_verse:lxx+hebrew": 1,
-      "existence:english": 3,
-      "existence:hebrew+english": 1
+      "existence:english": 1,
+      "existence:hebrew+english": 1,
+      "existence:lxx+english": 2
      }
     }
    },
@@ -457,9 +473,9 @@
     "Ps": {
      "numbering": "english",
      "score": {
-      "lxx": -0.12,
-      "hebrew": 1.994,
-      "english": 2.56
+      "lxx": -0.119,
+      "hebrew": 2.074,
+      "english": 2.624
      },
      "undecided": [
       "hebrew"
@@ -470,31 +486,31 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": -0.967,
-      "hebrew": -2.996,
-      "english": 2.389
+      "lxx": 2.058,
+      "hebrew": -2.58,
+      "english": 2.275
      },
      "undecided": [
       "lxx",
       "hebrew"
      ],
      "votes": {
-      "existence:english": 1
+      "existence:lxx+english": 1
      }
     }
    },
@@ -505,9 +521,9 @@
     "Ps": {
      "numbering": "english",
      "score": {
-      "lxx": 0.966,
-      "hebrew": 0.958,
-      "english": 1.524
+      "lxx": 0.97,
+      "hebrew": 1.037,
+      "english": 1.588
      },
      "undecided": [
       "hebrew"
@@ -519,30 +535,30 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 1.901,
-      "hebrew": 5.606,
-      "english": 6.343
+      "lxx": 3.147,
+      "hebrew": 6.254,
+      "english": 6.308
      },
      "undecided": [
       "hebrew"
      ],
      "votes": {
-      "content_verse:english": 1,
+      "content_verse:lxx+english": 1,
       "existence:hebrew+english": 2,
       "existence:lxx+hebrew": 1
      }
@@ -555,33 +571,33 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 2.747,
+      "lxx": 2.826,
       "hebrew": -2.996,
-      "english": -2.43
+      "english": -2.445
      },
      "votes": {
       "existence:lxx": 1
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": -0.967,
-      "hebrew": -2.996,
-      "english": -0.479
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": -0.669
      },
      "undecided": [
       "lxx",
@@ -597,9 +613,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 32.798,
-      "hebrew": 1.25,
-      "english": 1.815
+      "lxx": 33.575,
+      "hebrew": 1.254,
+      "english": 1.804
      },
      "votes": {
       "content_chapter:hebrew+english": 2,
@@ -608,27 +624,27 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "lxx",
      "score": {
-      "lxx": 39.176,
-      "hebrew": 5.606,
-      "english": 6.343
+      "lxx": 41.424,
+      "hebrew": 6.254,
+      "english": 6.308
      },
      "votes": {
-      "content_verse:english": 1,
+      "content_verse:lxx+english": 1,
       "existence:english": 1,
       "existence:hebrew+english": 1,
       "existence:lxx": 12,
@@ -643,9 +659,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 23.452,
+      "lxx": 23.923,
       "hebrew": -2.996,
-      "english": -2.43
+      "english": -2.445
      },
      "votes": {
       "content_chapter:lxx": 3,
@@ -653,28 +669,28 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": 1.901,
-      "hebrew": -2.996,
-      "english": -0.479
+      "lxx": 2.058,
+      "hebrew": -2.58,
+      "english": -0.669
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {
       "existence:lxx": 1
@@ -688,9 +704,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 26.319,
-      "hebrew": -0.128,
-      "english": 0.437
+      "lxx": 26.867,
+      "hebrew": -0.051,
+      "english": 0.499
      },
      "votes": {
       "content_chapter:lxx": 3,
@@ -699,28 +715,28 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "lxx",
      "score": {
-      "lxx": 5.855,
-      "hebrew": -1.909,
-      "english": 0.608
+      "lxx": 6.091,
+      "hebrew": -1.491,
+      "english": 0.419
      },
      "votes": {
-      "content_verse:english": 1,
-      "content_verse:lxx+hebrew": 1,
+      "content_verse:hebrew": 1,
+      "content_verse:lxx+english": 1,
       "existence:lxx": 2
      }
     }
@@ -732,9 +748,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 29.639,
-      "hebrew": -1.909,
-      "english": -2.43
+      "lxx": 30.414,
+      "hebrew": -1.907,
+      "english": -2.445
      },
      "votes": {
       "content_verse:lxx+hebrew": 1,
@@ -742,28 +758,28 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": 1.901,
-      "hebrew": -0.128,
-      "english": -0.479
+      "lxx": 2.058,
+      "hebrew": 0.365,
+      "english": -0.669
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {
       "existence:lxx+hebrew": 1
@@ -777,9 +793,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 463.608,
-      "hebrew": 25.96,
-      "english": 18.557
+      "lxx": 470.828,
+      "hebrew": 26.436,
+      "english": 18.639
      },
      "votes": {
       "content_chapter:english": 3,
@@ -795,33 +811,34 @@
     "Jer": {
      "numbering": "lxx",
      "score": {
-      "lxx": 47.853,
-      "hebrew": 2.739,
-      "english": 5.122
+      "lxx": 53.417,
+      "hebrew": -2.996,
+      "english": -0.854
      },
      "votes": {
-      "content_chapter:lxx": 4,
-      "existence:hebrew+english": 2,
+      "content_chapter:lxx": 6,
       "existence:lxx": 14
      }
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 8.32,
-      "hebrew": 8.122,
-      "english": 33.963
+      "lxx": 11.429,
+      "hebrew": 8.7,
+      "english": 34.257
      },
      "votes": {
       "content_chapter:english": 2,
       "content_chapter:hebrew+english": 1,
       "content_chapter:lxx": 2,
-      "content_verse:english": 9,
+      "content_verse:english": 7,
+      "content_verse:hebrew": 2,
       "content_verse:hebrew+english": 1,
-      "content_verse:lxx+hebrew": 2,
-      "existence:english": 4,
+      "content_verse:lxx+english": 2,
+      "existence:english": 3,
       "existence:hebrew+english": 2,
-      "existence:lxx": 1
+      "existence:lxx": 1,
+      "existence:lxx+english": 1
      }
     }
    },
@@ -832,38 +849,38 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": -0.12,
+      "lxx": -0.119,
       "hebrew": -2.996,
-      "english": -2.43
+      "english": -2.445
      },
      "votes": {}
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 0.12,
-      "hebrew": -1.909,
-      "english": -0.479
+      "lxx": -0.886,
+      "hebrew": -1.491,
+      "english": -0.669
      },
      "undecided": [
       "lxx",
       "hebrew"
      ],
      "votes": {
-      "content_verse:lxx+hebrew": 1
+      "content_verse:hebrew": 1
      }
     }
    },
@@ -874,9 +891,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 7.737,
-      "hebrew": -0.873,
-      "english": -0.308
+      "lxx": 7.895,
+      "hebrew": -0.871,
+      "english": -0.32
      },
      "votes": {
       "content_chapter:hebrew+english": 1,
@@ -885,24 +902,24 @@
      }
     },
     "Jer": {
-     "numbering": "english",
+     "numbering": "lxx",
      "score": {
-      "lxx": -0.78,
+      "lxx": -0.554,
       "hebrew": -2.996,
-      "english": -0.613
+      "english": -0.854
      },
      "undecided": [
-      "lxx",
-      "hebrew"
+      "hebrew",
+      "english"
      ],
      "votes": {}
     },
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": -0.967,
-      "hebrew": -2.996,
-      "english": -0.479
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": -0.669
      },
      "undecided": [
       "lxx",
@@ -919,28 +936,28 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 88.998,
-      "hebrew": 43.002,
-      "english": 44.654
+      "lxx": 69.177,
+      "hebrew": 39.467,
+      "english": 41.106
      },
      "per_reference": true,
      "votes": {
       "content_chapter:english": 1,
       "content_chapter:hebrew": 1,
-      "content_chapter:hebrew+english": 8,
-      "content_chapter:lxx": 5,
+      "content_chapter:hebrew+english": 6,
+      "content_chapter:lxx": 3,
       "content_verse:english": 2,
       "content_verse:lxx+hebrew": 1,
       "existence:hebrew+english": 9,
-      "existence:lxx": 27
+      "existence:lxx": 21
      }
     },
     "Jer": {
      "numbering": "english",
      "score": {
-      "lxx": -0.78,
-      "hebrew": 6.984,
-      "english": 9.367
+      "lxx": -0.554,
+      "hebrew": 7.143,
+      "english": 9.284
      },
      "undecided": [
       "hebrew"
@@ -953,14 +970,15 @@
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 1.207,
-      "hebrew": -0.822,
-      "english": 13.558
+      "lxx": 11.212,
+      "hebrew": -0.403,
+      "english": 13.606
      },
      "votes": {
-      "content_verse:english": 5,
+      "content_verse:english": 4,
+      "content_verse:lxx+english": 1,
       "content_verse:lxx+hebrew": 2,
-      "existence:english": 3
+      "existence:lxx+english": 3
      }
     }
    },
@@ -974,9 +992,9 @@
     "Ps": {
      "numbering": "lxx",
      "score": {
-      "lxx": 5.614,
+      "lxx": 5.77,
       "hebrew": -2.996,
-      "english": -1.344
+      "english": -1.357
      },
      "votes": {
       "content_verse:english": 1,
@@ -986,9 +1004,9 @@
     "Jer": {
      "numbering": "english",
      "score": {
-      "lxx": -0.78,
-      "hebrew": 1.994,
-      "english": 5.464
+      "lxx": -0.554,
+      "hebrew": 2.074,
+      "english": 5.303
      },
      "undecided": [
       "hebrew"
@@ -1002,12 +1020,12 @@
     "rest": {
      "numbering": "english",
      "score": {
-      "lxx": 0.12,
-      "hebrew": 0.958,
-      "english": 6.343
+      "lxx": 1.291,
+      "hebrew": 1.453,
+      "english": 6.308
      },
      "votes": {
-      "content_verse:english": 1,
+      "content_verse:lxx+english": 1,
       "content_verse:lxx+hebrew": 1,
       "existence:english": 1,
       "existence:hebrew+english": 1
@@ -1023,9 +1041,9 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 430.037,
-      "hebrew": 11.454,
-      "english": 2.739
+      "vulgate": 441.609,
+      "hebrew": 11.726,
+      "english": 2.893
      },
      "votes": {
       "existence:hebrew+english": 2,
@@ -1049,9 +1067,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 77.357,
-      "hebrew": -0.113,
-      "english": 34.279
+      "vulgate": 79.44,
+      "hebrew": -0.051,
+      "english": 35.421
      },
      "votes": {
       "existence:vulgate": 13,
@@ -1071,18 +1089,19 @@
      "tertullian-scorpiace-lat"
     ],
     "Ps": {
-     "numbering": "hebrew",
+     "numbering": "vulgate",
      "score": {
-      "vulgate": 11.412,
-      "hebrew": 11.454,
-      "english": 8.473
+      "vulgate": 5.838,
+      "hebrew": 5.837,
+      "english": 2.893
      },
      "undecided": [
+      "hebrew",
       "english"
      ],
      "votes": {
-      "existence:hebrew+english": 4,
-      "existence:vulgate": 3,
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 1,
       "existence:vulgate+hebrew": 1
      }
     },
@@ -1102,12 +1121,12 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 5.675,
-      "hebrew": -2.98,
-      "english": 2.739
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
      },
      "votes": {
-      "existence:vulgate+english": 2
+      "existence:vulgate+english": 1
      }
     }
    },
@@ -1122,13 +1141,13 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 131.838,
-      "hebrew": 40.127,
-      "english": 40.014
+      "vulgate": 94.17,
+      "hebrew": 2.893,
+      "english": 2.893
      },
      "votes": {
-      "existence:hebrew+english": 15,
-      "existence:vulgate": 46
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 32
      }
     },
     "Jer": {
@@ -1147,14 +1166,13 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 37.215,
-      "hebrew": 2.755,
-      "english": 19.943
+      "vulgate": 29.385,
+      "hebrew": -0.051,
+      "english": 11.866
      },
      "votes": {
-      "existence:hebrew": 1,
       "existence:vulgate": 4,
-      "existence:vulgate+english": 8,
+      "existence:vulgate+english": 5,
       "existence:vulgate+hebrew": 1
      }
     }
@@ -1166,9 +1184,9 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 114.634,
-      "hebrew": 5.719,
-      "english": 5.606
+      "vulgate": 117.725,
+      "hebrew": 5.837,
+      "english": 5.837
      },
      "votes": {
       "existence:hebrew+english": 3,
@@ -1191,9 +1209,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 17.144,
-      "hebrew": -2.98,
-      "english": 11.341
+      "vulgate": 17.607,
+      "hebrew": -2.996,
+      "english": 11.866
      },
      "votes": {
       "existence:vulgate": 1,
@@ -1208,13 +1226,13 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 31.483,
-      "hebrew": 5.719,
-      "english": 2.739
+      "vulgate": 44.115,
+      "hebrew": 5.837,
+      "english": 2.893
      },
      "votes": {
       "existence:hebrew+english": 2,
-      "existence:vulgate": 10,
+      "existence:vulgate": 14,
       "existence:vulgate+hebrew": 1
      }
     },
@@ -1234,9 +1252,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 2.808,
-      "hebrew": -2.98,
-      "english": -0.128
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
      },
      "votes": {
       "existence:vulgate+english": 1
@@ -1250,12 +1268,12 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 20.013,
-      "hebrew": -2.882,
+      "vulgate": 17.615,
+      "hebrew": -2.996,
       "english": -2.996
      },
      "votes": {
-      "existence:vulgate": 7
+      "existence:vulgate": 6
      }
     },
     "Jer": {
@@ -1274,9 +1292,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 11.41,
-      "hebrew": -2.98,
-      "english": 5.606
+      "vulgate": 11.718,
+      "hebrew": -2.996,
+      "english": 5.977
      },
      "votes": {
       "existence:vulgate": 1,
@@ -1291,13 +1309,13 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 731.104,
-      "hebrew": 48.729,
-      "english": -0.128
+      "vulgate": 753.715,
+      "hebrew": 50.003,
+      "english": -0.051
      },
      "votes": {
       "existence:hebrew+english": 1,
-      "existence:vulgate": 238,
+      "existence:vulgate": 239,
       "existence:vulgate+hebrew": 17
      }
     },
@@ -1317,9 +1335,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 108.898,
-      "hebrew": 5.622,
-      "english": 60.085
+      "vulgate": 111.828,
+      "hebrew": 5.837,
+      "english": 61.921
      },
      "votes": {
       "existence:vulgate": 13,
@@ -1335,9 +1353,9 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 8.544,
-      "hebrew": -0.015,
-      "english": -0.128
+      "vulgate": 8.782,
+      "hebrew": -0.051,
+      "english": -0.051
      },
      "votes": {
       "existence:hebrew+english": 1,
@@ -1360,9 +1378,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 2.808,
-      "hebrew": -2.98,
-      "english": -0.128
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
      },
      "votes": {
       "existence:vulgate+english": 1
@@ -1390,13 +1408,13 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 123.236,
-      "hebrew": 2.852,
-      "english": -0.128
+      "vulgate": 129.502,
+      "hebrew": 2.893,
+      "english": -0.051
      },
      "votes": {
       "existence:hebrew+english": 1,
-      "existence:vulgate": 42,
+      "existence:vulgate": 43,
       "existence:vulgate+hebrew": 1
      }
     },
@@ -1416,9 +1434,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 34.348,
-      "hebrew": 2.755,
-      "english": 31.412
+      "vulgate": 35.274,
+      "hebrew": 2.893,
+      "english": 32.477
      },
      "undecided": [
       "english"
@@ -1443,9 +1461,9 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 117.502,
-      "hebrew": 14.321,
-      "english": -0.128
+      "vulgate": 120.669,
+      "hebrew": 14.671,
+      "english": -0.051
      },
      "votes": {
       "existence:hebrew+english": 1,
@@ -1469,9 +1487,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 11.41,
-      "hebrew": -2.98,
-      "english": -0.128
+      "vulgate": 11.718,
+      "hebrew": -2.996,
+      "english": 0.088
      },
      "votes": {
       "existence:vulgate": 3,
@@ -1481,14 +1499,13 @@
    },
    "Karl Halm": {
     "books": [
-     "sulpicius-chronica-lat",
      "sulpicius-vita-martini-lat"
     ],
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": -0.058,
-      "hebrew": -2.882,
+      "vulgate": -0.051,
+      "hebrew": -2.996,
       "english": -2.996
      },
      "votes": {}
@@ -1509,16 +1526,11 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": -0.06,
-      "hebrew": -0.113,
-      "english": -2.996
+      "vulgate": -0.059,
+      "hebrew": -2.996,
+      "english": -2.856
      },
-     "undecided": [
-      "hebrew"
-     ],
-     "votes": {
-      "existence:hebrew": 1
-     }
+     "votes": {}
     }
    },
    "Karl Schenkl": {
@@ -1541,8 +1553,8 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 263.734,
-      "hebrew": 5.719,
+      "vulgate": 270.834,
+      "hebrew": 5.837,
       "english": -2.996
      },
      "votes": {
@@ -1566,13 +1578,13 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 48.684,
-      "hebrew": -0.113,
-      "english": 19.943
+      "vulgate": 52.94,
+      "hebrew": -0.051,
+      "english": 23.644
      },
      "votes": {
       "existence:vulgate": 8,
-      "existence:vulgate+english": 8,
+      "existence:vulgate+english": 9,
       "existence:vulgate+hebrew": 1
      }
     }
@@ -1584,8 +1596,8 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 131.838,
-      "hebrew": 2.852,
+      "vulgate": 135.391,
+      "hebrew": 2.893,
       "english": -2.996
      },
      "votes": {
@@ -1609,9 +1621,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 5.675,
-      "hebrew": -2.98,
-      "english": -0.128
+      "vulgate": 5.83,
+      "hebrew": -2.996,
+      "english": 0.088
      },
      "votes": {
       "existence:vulgate": 1,
@@ -1628,9 +1640,9 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 123.236,
-      "hebrew": 17.189,
-      "english": 11.341
+      "vulgate": 126.558,
+      "hebrew": 17.615,
+      "english": 11.726
      },
      "votes": {
       "existence:hebrew+english": 5,
@@ -1654,9 +1666,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 5.675,
-      "hebrew": -0.113,
-      "english": -0.128
+      "vulgate": 5.83,
+      "hebrew": -0.051,
+      "english": 0.088
      },
      "votes": {
       "existence:vulgate+english": 1,
@@ -1677,13 +1689,13 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 2032.858,
-      "hebrew": 54.464,
-      "english": 2.739
+      "vulgate": 2084.584,
+      "hebrew": 55.892,
+      "english": 2.893
      },
      "votes": {
       "existence:hebrew+english": 2,
-      "existence:vulgate": 691,
+      "existence:vulgate": 690,
       "existence:vulgate+hebrew": 18
      }
     },
@@ -1703,9 +1715,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 94.561,
-      "hebrew": 8.489,
-      "english": 48.616
+      "vulgate": 97.106,
+      "hebrew": 8.782,
+      "english": 50.143
      },
      "votes": {
       "existence:hebrew+english": 1,
@@ -1723,8 +1735,8 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 2.81,
-      "hebrew": -2.882,
+      "vulgate": 2.893,
+      "hebrew": -2.996,
       "english": -2.996
      },
      "votes": {
@@ -1747,9 +1759,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": -0.06,
-      "hebrew": -2.98,
-      "english": -2.996
+      "vulgate": -0.059,
+      "hebrew": -2.996,
+      "english": -2.856
      },
      "votes": {}
     }
@@ -1766,15 +1778,14 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 387.028,
-      "hebrew": 97.473,
-      "english": 68.687
+      "vulgate": 356.221,
+      "hebrew": 50.003,
+      "english": 29.393
      },
      "votes": {
-      "existence:hebrew": 2,
-      "existence:hebrew+english": 25,
-      "existence:vulgate": 127,
-      "existence:vulgate+hebrew": 8
+      "existence:hebrew+english": 11,
+      "existence:vulgate": 114,
+      "existence:vulgate+hebrew": 7
      }
     },
     "Jer": {
@@ -1793,12 +1804,11 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 17.144,
-      "hebrew": 2.755,
-      "english": 8.473
+      "vulgate": 17.607,
+      "hebrew": -0.051,
+      "english": 8.922
      },
      "votes": {
-      "existence:hebrew": 1,
       "existence:hebrew+english": 1,
       "existence:vulgate": 3,
       "existence:vulgate+english": 3
@@ -1815,12 +1825,11 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 20.013,
-      "hebrew": -0.015,
-      "english": -0.128
+      "vulgate": 20.56,
+      "hebrew": -2.996,
+      "english": -2.996
      },
      "votes": {
-      "existence:hebrew+english": 1,
       "existence:vulgate": 7
      }
     },
@@ -1840,9 +1849,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 2.808,
-      "hebrew": -2.98,
-      "english": -0.128
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
      },
      "votes": {
       "existence:vulgate+english": 1
@@ -1856,21 +1865,21 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 120.369,
-      "hebrew": -0.015,
+      "vulgate": 120.669,
+      "hebrew": -0.051,
       "english": -2.996
      },
      "votes": {
-      "existence:vulgate": 41,
+      "existence:vulgate": 40,
       "existence:vulgate+hebrew": 1
      }
     },
     "Jer": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 5.041,
+      "vulgate": 5.196,
       "hebrew": -2.996,
-      "english": 5.041
+      "english": 5.196
      },
      "undecided": [
       "english"
@@ -1882,9 +1891,9 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 37.215,
-      "hebrew": -0.113,
-      "english": 11.341
+      "vulgate": 38.218,
+      "hebrew": -0.051,
+      "english": 11.866
      },
      "votes": {
       "existence:hebrew+english": 1,
@@ -1900,15 +1909,14 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 593.473,
-      "hebrew": 163.421,
-      "english": 108.829
+      "vulgate": 491.664,
+      "hebrew": 58.837,
+      "english": 23.504
      },
      "votes": {
-      "existence:hebrew": 3,
-      "existence:hebrew+english": 39,
-      "existence:vulgate": 191,
-      "existence:vulgate+hebrew": 16
+      "existence:hebrew+english": 9,
+      "existence:vulgate": 155,
+      "existence:vulgate+hebrew": 12
      }
     },
     "Jer": {
@@ -1927,12 +1935,11 @@
     "rest": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 11.41,
-      "hebrew": 5.622,
-      "english": 5.606
+      "vulgate": 11.718,
+      "hebrew": -0.051,
+      "english": 5.977
      },
      "votes": {
-      "existence:hebrew": 2,
       "existence:vulgate+english": 3,
       "existence:vulgate+hebrew": 1
      }

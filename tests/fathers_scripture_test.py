@@ -105,6 +105,52 @@ check("Greek 1 Esdras is the apocryphal book; 2 Esdras 11 is Nehemiah 1 by Brent
       and one("Vgl. 2 Esdr. 11, 1", "grc")[0]["target"] == "kjv:Neh.1.1")
 check("Latin 2 Esdras is Nehemiah", one("4 II Esdr. 8, 10", "lat")[0]["target"] == "kjv:Neh.8.10")
 
+# --- round 7: what the reviewers found the reader inventing ----------------
+check("'N]' is the apparatus's line marker, never a verse",
+      refs("9] Ps. 18, 6. 16] Io. 1,10. 17] I Tim. 1,15.", "lat") == ["Ps 18:6", "John 1:10", "1Tim 1:15"])
+check("... and '[17]' in brackets is still not taken for a marker", "Esth 4" in refs("8 Esth. 4, [17]", "grc")[0])
+check("Sulpicius cites chapters: '5 Gen. 1. 9 Gen. 2.' is Gen 1 and line 9, not Gen 1:9",
+      refs("5 Gen. 1. 9 Gen. 2. 18 Gen. 4.", "lat") == ["Gen 1", "Gen 2", "Gen 4"])
+check("... but a lined note that writes 'chapter, verse' keeps an OCR full stop's verse",
+      refs("1 Exod. 3, 5 2 Matth. 10. 10 Luc. 10, 4", "lat") == ["Exod 3:5", "Matt 10:10", "Luke 10:4"])
+check("'28, 12 et 13' is two verses, not chapter 13",
+      refs("7 Deut. 28, 12 et 13. 11 Deut. 5, 1.", "lat") == ["Deut 28:12", "Deut 28:13", "Deut 5:1"])
+check("'et' may go back a verse; 'et 3, 4' opens a chapter",
+      refs("8] Ps. 17, 14 et 8.", "lat") == ["Ps 17:14", "Ps 17:8"]
+      and refs("1 Gen. 2, 3 et 3, 4", "lat") == ["Gen 2:3", "Gen 3:4"])
+check("GCS: a spaced em-dash between entries is no range",
+      refs("2 vgl. Deut. 29, 5 — 15 — 18", "grc") == ["Deut 29:5"]
+      and refs("6 Vgl. Röm. 4, 17. — 8 Esth. 4, 2", "grc") == ["Rom 4:17", "Esth 4:2"])
+check("... but one that ends the entry is ('Matth. 7, 3 — 5;')",
+      refs("23 ff Matth. 7, 3 — 5; Luk. 6, 41. 42", "grc")[0] == "Matt 7:3-5")
+check("a verse before the next book is the verse ('Is. 53, 4 Matth.'), not a numbered book",
+      refs("cf. Is. 53, 4 Matth. 8, 17", "lat") == ["Isa 53:4", "Matt 8:17"])
+check("a range into another chapter keeps its start and invents nothing",
+      refs("Act. 21, 30 - 23,2", "lat") == ["Acts 21:30"] and refs("Matth. 5, 3-7, 29", "lat") == ["Matt 5:3"])
+ctx_ = T.scripture_context()
+r = F.resolve(F.parse("III Reg. 20 (21), 13", "lat")[0], "lat", ctx_)
+check("a bracket is read by both its numbers: III Reg. 20 (21), 13 is Naboth, the KJV's 1 Kgs 21:13 "
+      "(the chapters swap, so with no order measured the other stays open)",
+      r["target"] == "kjv:1Kgs.21.13" and r["bracket"] == "greek-first"
+      and r.get("alt_target") == "kjv:1Kgs.20.13")
+r = F.resolve(F.parse("III Reg. 20 (21), 13", "lat")[0], "lat", ctx_, bracket_pref="greek-first")
+check("... and in an edition whose brackets go Greek-first, it is decided", r["target"] == "kjv:1Kgs.21.13"
+      and "numbering_undecided" not in r)
+r = F.resolve(F.parse("Psalm. 73 (74), 5", "grc")[0], "grc", ctx_)
+check("Dindorf's 'Psalm. 73 (74), 5' (the axes) is the KJV's 74:5, whatever a content vote says",
+      r["target"] == "kjv:Ps.74.5" and r["map"] == "brenton+bracket")
+r = F.resolve(F.parse("Hier. 31 (38), 31", "lat")[0], "lat", ctx_)
+check("Reiter puts the Hebrew first: 'Hier. 31 (38), 31' is the KJV's Jer 31:31",
+      r["target"] == "kjv:Jer.31.31" and r["bracket"] == "kjv-first")
+r = F.resolve(F.parse("Jes. 9, 6", "grc")[0], "grc", ctx_, lambda b: ("lxx", False))
+check("Swete's Isaiah 9 is the English chapter: Holl's 'Jes. 9, 6' is the KJV's 9:6, not 9:7",
+      r["target"] == "kjv:Isa.9.6")
+r = F.resolve(F.parse("Jerem. 32, 1. 2", "grc")[0], "grc", ctx_, lambda b: ("lxx", False))
+check("Swete's Jer 32:1 is the cup, the KJV's 25:15", r["target"] == "kjv:Jer.25.15")
+r = F.resolve(F.parse("Ps. 112, 7-10", "grc")[0], "grc", ctx_, lambda b: ("lxx", False))
+check("a range's end is read in its start's numbering: LXX Ps 112:7-10 is the KJV's 113:7-9, never back to 112",
+      r["target"] == "kjv:Ps.113.7" and r.get("through", "kjv:Ps.113.9").startswith("kjv:Ps.113."))
+
 # --- each edition's numbering (fathers_numbering.py) ------------------------
 import fathers_numbering as N  # noqa: E402
 
@@ -156,10 +202,24 @@ check("two votes the Hebrew and English share rule out the LXX but leave those t
 m = N.load()
 check("the committed measure: Pusey's Psalms are Septuagint-numbered",
       m[0][("grc", "Philip Edward Pusey", "Ps")][0] == "lxx")
-check("the committed measure: Heikel's Psalms are not the Greek count, Hebrew or English undecided",
-      m[0][("grc", "Ivar A. Heikel", "Ps")][0] in ("hebrew", "english")
-      and set(m[0][("grc", "Ivar A. Heikel", "Ps")][2]) | {m[0][("grc", "Ivar A. Heikel", "Ps")][0]}
-      == {"hebrew", "english"})
+check("the committed measure: Heikel's Psalms are English-numbered, the Hebrew undecided",
+      m[0][("grc", "Ivar A. Heikel", "Ps")][0] == "english"
+      and m[0][("grc", "Ivar A. Heikel", "Ps")][2] == ("hebrew",))
+check("the committed measure: Halm's rest is the Vulgate's, decided (its one Hebrew vote was a line number)",
+      m[0][("lat", "Karl Halm", "rest")][0] == "vulgate" and m[0][("lat", "Karl Halm", "rest")][2] == ())
+check("the committed measure: Reifferscheid & Wissowa's Psalms are the Vulgate's (no invented verse votes)",
+      m[0][("lat", "August Reifferscheid & Georg Wissowa", "Ps")][0] == "vulgate")
+got = N.decide(C({"existence:lxx": 1}), "grc", {"lxx": 0.46, "hebrew": 0.0, "english": 0.54}, W, "english", 0.54)
+check("one vote against a near-even pool is not overruled by it: the pool's numbering stays open instead",
+      got[0] == "lxx" and "english" in got[2])
+nobody = N.scheme_for({"source": {"edition": {"editor": "Nobody Listed"}}}, "grc", m)
+check("an editor with no row reads as the pool, with the pool's undecided rivals, like a listed one with no votes",
+      nobody("Jer") == m[1][("grc", "Jer")])
+check("shares() runs to a fixed point, not a fixed number of rounds",
+      N.shares(C({"existence:vulgate": 900, "existence:vulgate+hebrew": 60, "existence:hebrew": 2,
+                  "existence:english": 5}), "lat")
+      == N.shares(C({"existence:vulgate": 900, "existence:vulgate+hebrew": 60, "existence:hebrew": 2,
+                     "existence:english": 5}), "lat", tol=1e-15, rounds=10 ** 6))
 heikel = N.scheme_for({"source": {"edition": {"editor": "Ivar A. Heikel"}}}, "grc", m)
 r = F.resolve(F.parse("Psal. 7, 16ff.", "grc")[0], "grc", ctx, heikel)
 check("... so his Ps 7:16 names both verses and says the numbering is undecided",
