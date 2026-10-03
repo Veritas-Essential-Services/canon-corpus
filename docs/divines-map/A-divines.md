@@ -1507,3 +1507,14 @@ Slugs `trench-*`.
 | Synonyms of the New Testament (London: Kegan Paul, 1901) | have-raw | IA (identifier in the shelf) |
 | Notes on the Parables of Our Lord (New York: Appleton; catalogued 1855) | have-raw | IA |
 | Notes on the Miracles of Our Lord (New York: Appleton, 1883) | have-raw | IA |
+
+
+## John Brown of Edinburgh (round 10, my pick, 2026-10-03)
+
+Slugs `jbrowne-*` (John Brown of Haddington, his grandfather, is `brown-*` on his own shelf).
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses and Sayings of Our Lord Jesus Christ, 2 vols (New York: Carter, 1854) | have-raw | IA (identifiers in the shelf) |
+| Analytical Exposition of the Epistle to the Romans (New York: Carter, 1857) | have-raw | IA |
+| Expository Discourses on the First Epistle of Peter (New York: Carter; catalogued 1855) | have-raw | IA |

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:21 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:31 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -183,6 +183,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 | J. B. Lightfoot | j-b-lightfoot_shelf.json | 1 CCEL (The Apostolic Fathers, his translation) + 3 PG (Colossians and Philemon; Essays on Supernatural Religion; Sermons) | 2 (Galatians, Macmillan 1890; Philippians, 1898) | none | CCEL's "From the Talmud and Hebraica" (John Lightfoot, 1602-75, another man) |
 | B. F. Westcott | b-f-westcott_shelf.json | none | 6 (Gospel of John: Greek text, Murray 1908, 2 vols, and the AV, 1892; Epistles of John, 1883; Hebrews, 1889; History of the Canon, 1896) | none | a Robarts scan of the Epistles of John that names neither book nor author in its text layer |
 | R. C. Trench | r-c-trench_shelf.json | 4 PG (On the Study of Words; English Past and Present; A Select Glossary; Proverbs and Their Lessons) | 3 (Synonyms of the New Testament, 1901; Notes on the Parables, Appleton, catalogued 1855; Notes on the Miracles, 1883) | none | his poems (verse); an anthology of others' poems |
+| John Brown of Edinburgh | john-brown-edinburgh_shelf.json | none | 4 (Discourses and Sayings of Our Lord, Carter 1854, 2 vols; Romans, 1857; First Peter, Carter) | none | 1956-58 reprints on IA |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

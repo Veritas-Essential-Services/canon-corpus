@@ -1077,24 +1077,29 @@
     },
     {
       "id": "henry-alford",
-      "status": "queued",
+      "status": "started",
       "scope": "Henry Alford: The Greek Testament (d. 1871)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:23:30-05:00"
     },
     {
       "id": "john-eadie",
-      "status": "queued",
+      "status": "started",
       "scope": "John Eadie: commentaries on Ephesians, Colossians, Philippians, Galatians (d. 1876)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:25:48-05:00"
     },
     {
       "id": "john-brown-edinburgh",
-      "status": "queued",
+      "status": "done",
       "scope": "John Brown of Edinburgh: Expository Discourses (d. 1858)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:30:32-05:00",
+      "finished": "2026-10-03T01:31:38-05:00",
+      "notes": "4 IA"
     },
     {
       "id": "f-w-robertson",

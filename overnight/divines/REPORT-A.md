@@ -420,3 +420,6 @@
 
 ## 2026-10-03 01:21 CDT — r-c-trench done
 - `pipeline/r-c-trench_shelf.json`: 4 Gutenberg texts (rights lines checked) and 3 IA volumes of raw OCR, median 95.1% (95.1-96.1%), about 5.5 MB. All 7 matched on "richard chenevix trench" ("trench" alone is a common word). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:31 CDT — john-brown-edinburgh done
+- `pipeline/john-brown-edinburgh_shelf.json`: 4 IA volumes of raw OCR, median 97.4% (97.0-98.1%), about 9 MB; title pages read (1854, 1857; First Peter shows Carter and 1849 though catalogued 1855, and the shelf says both). The name check is "john brown", which his grandfather shares; titles carry the distinction. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

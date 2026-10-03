@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain John Brown of Edinburgh (1784-1858, United Presbyterian minister and professor of exegetical theology; grandson of John Brown of Haddington, whose shelf is separate) for the Word Hoard: Discourses and Sayings of Our Lord (New York: Carter, 1854, 2 vols), the Analytical Exposition of Romans (Carter, 1857) and Expository Discourses on First Peter (Carter, catalogued 1855), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/brown",
+ "_name_words": [
+  "brown",
+  "john"
+ ],
+ "_surname": [
+  "john brown"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jbrowne-discourses-sayings-1": [
+   "discoursessaying01brow",
+   "Discourses and Sayings of Our Lord Jesus Christ, vol. 1 (New York: Robert Carter, 1854)"
+  ],
+  "jbrowne-discourses-sayings-2": [
+   "discoursessaying02brow",
+   "Discourses and Sayings of Our Lord Jesus Christ, vol. 2 (New York: Robert Carter, 1854)"
+  ],
+  "jbrowne-romans-1857": [
+   "analyticalexposi00brow",
+   "Analytical Exposition of the Epistle of Paul the Apostle to the Romans (New York: Robert Carter, 1857)"
+  ],
+  "jbrowne-first-peter": [
+   "expositorydisco00unkngoog",
+   "Expository Discourses on the First Epistle of the Apostle Peter (New York: Carter; catalogued 1855, the OCR shows 1849 near the title)"
+  ]
+ },
+ "_alternates": {
+  "jbrowne-first-peter": "the 1848 Edinburgh printing (Google scans, two volumes); the 1956-58 reprints on IA are avoided",
+  "jbrowne-discourses-sayings": "Edinburgh: Oliphant, 1850 (Google scans)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "jbrowne-discourses-sayings-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbrowne-discourses-sayings-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbrowne-romans-1857": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbrowne-first-peter": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
