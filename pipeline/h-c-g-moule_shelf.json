@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain H. C. G. Moule (Handley Carr Glyn Moule, 1841-1920, evangelical Bishop of Durham) for the Word Hoard: The Expositor's Bible volume on Romans, To My Younger Brethren and Messages from the Epistle to the Hebrews, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "m/moule",
+ "_name_words": [
+  "moule",
+  "handley"
+ ],
+ "_surname": [
+  "handley moule",
+  "h. c. g. moule",
+  "handley c. g. moule",
+  "moule, handley",
+  "handley carr glyn moule",
+  "moule"
+ ],
+ "_held": {},
+ "ccel": {
+  "moule-romans": [
+   "expositorromans",
+   "The Expositor's Bible: The Epistle of St. Paul to the Romans",
+   ""
+  ],
+  "moule-younger-brethren": [
+   "brethren",
+   "To My Younger Brethren",
+   ""
+  ],
+  "moule-hebrews": [
+   "hebrews",
+   "Messages from the Epistle to the Hebrews",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "moule-romans": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "handley moule",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "moule-younger-brethren": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "handley moule",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Hodder and Stoughton, 1902",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "moule-hebrews": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "handley moule",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Elliot Stock, 1909",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

@@ -1935,3 +1935,11 @@ Slugs `whyte-*`.
 |---|---|---|
 | Lord, Teach Us to Pray; Jacob Behmen; Santa Teresa | have-clean | CCEL (Hodder 1922; Oliphant Anderson & Ferrier) |
 | Bible Characters | not yet | IA, not searched |
+
+## H. C. G. Moule (round 12, my pick, 2026-10-03)
+
+Slugs `moule-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Romans (Expositor's Bible); To My Younger Brethren; Messages from the Epistle to the Hebrews | have-clean | CCEL (Hodder; Hodder 1902; Elliot Stock 1909) |

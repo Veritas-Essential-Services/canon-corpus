@@ -559,3 +559,6 @@
 
 ## 2026-10-03 05:51 CDT — alexander-whyte done
 - `pipeline/alexander-whyte_shelf.json`: 3 CCEL texts, print sources Hodder 1922 and Oliphant Anderson & Ferrier. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:51 CDT — h-c-g-moule done
+- `pipeline/h-c-g-moule_shelf.json`: 3 CCEL texts, print sources Hodder (1902) and Elliot Stock 1909. `--verify --record`: 0 mismatched. 0 uids minted.

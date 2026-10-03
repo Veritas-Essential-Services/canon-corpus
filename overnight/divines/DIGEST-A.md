@@ -234,6 +234,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | A. B. Bruce | a-b-bruce_shelf.json | 1 CCEL (The Training of the Twelve, print source not named) + 4 IA (Humiliation of Christ 2nd ed. 1889, Kingdom of God 1889, St. Paul's Conception 1896, Hebrews 1899) | Parabolic Teaching (IA HTTP 500) | none | none |
 | James Denney | james-denney_shelf.json | 3 CCEL (The Death of Christ, keyed from a 1911 printing; Expositor's Bible Second Corinthians, Hodder 1894; Thessalonians, Hodder) | none | none | none |
 | Alexander Whyte | alexander-whyte_shelf.json | 3 CCEL (Lord, Teach Us to Pray, Hodder 1922; Jacob Behmen and Santa Teresa appreciations, Oliphant Anderson & Ferrier) | none | none | none |
+| H. C. G. Moule | h-c-g-moule_shelf.json | 3 CCEL (Expositor's Bible Romans, Hodder; To My Younger Brethren, Hodder 1902; Messages from Hebrews, Elliot Stock 1909) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
