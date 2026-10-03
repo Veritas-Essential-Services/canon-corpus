@@ -149,3 +149,4 @@
 - Undated title pages: rows are kept when the book itself prints a 19th-century year (a dated preface or bound-in list), as with Plaistowe, Rose and Arnold; Pott and Wright stays held because its bound-in list runs to 1926 (06:56). Say if you want undated rows held regardless.
 - Frazer's Pausanias translation volume and Sotheby's Odyssey vol. III, both long missing, are now held (06:59). No decision needed.
 - Homer: four more translators held (Brandreth, Du Cane, Dart, Purves) (07:03). No decision needed.
+- Virgil and Horace: eight more translators held from title sweeps (07:08). No decision needed.

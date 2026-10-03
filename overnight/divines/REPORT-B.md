@@ -537,3 +537,14 @@
 - Sir Charles Du Cane, Odyssey I-XII (1880), 0.88
 - J. Henry Dart, Iliad in English hexameters (1865), 0.87
 - John Purves, prose Iliad, ed. Abbott (1891), 0.93
+
+## 2026-10-03 07:08 CDT — Virgil and Horace title sweeps
+- E. M. Millington, Eclogues in rhythmic prose (1870), 0.88
+- Robert Hoblyn, Georgics I in blank verse (1825), 0.84
+- J. O. Sargent, Horatian Echoes (1893), 0.89
+- F. Coutts and W. H. Pollock, Icarian Flights (1920), 0.89
+- 'A Native of America', Lyric Works of Horace (Philadelphia 1786), 0.85; translator unchecked
+- H. N. Jones, Odes I-II (1865), 0.89
+- G. Fenwick, Odes II (1918), 0.90
+- W. H. Mills, Nineteen Odes (1920), 0.92
+- Refused under the OCR bar: ECCO Neville Georgics 1767, 1750 Georgics, 1794 Aeneid, 1787 Aeneid II, 1753 prose Horace
