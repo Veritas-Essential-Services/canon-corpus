@@ -1,0 +1,49 @@
+{
+ "_about": "Robert Buchanan, minister of the Tron, Glasgow, and a leader of the Disruption: The Ten Years' Conflict, being the history of the Disruption of the Church of Scotland (Glasgow: Blackie, 1849, 2 vols). Volume numbers read off each title page. Named robert-buchanan so lane A's james-buchanan cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "buchanan"
+ ],
+ "_surname": [
+  "buchanan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "buchanan-ten-years-conflict-1": [
+   "tenyearsconflict184901buch",
+   "The Ten Years' Conflict (Glasgow: Blackie, 1849), vol. 1"
+  ],
+  "buchanan-ten-years-conflict-2": [
+   "tenyearsconflict184902buch",
+   "The Ten Years' Conflict (Glasgow: Blackie, 1849), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "tenyearsconflict01buch, thetenyearsconfl01buchuoft, tenyearsconflict01/02buchuoft, tenyearsconflic00buchgoog, tenyearsconflic00unkngoog": "Other copies and printings."
+ },
+ "_excluded": {},
+ "_checks": {
+  "buchanan-ten-years-conflict-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buchanan-ten-years-conflict-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "buchanan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

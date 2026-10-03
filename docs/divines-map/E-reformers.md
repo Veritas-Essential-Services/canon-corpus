@@ -146,6 +146,15 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Peterkin, Records of the Kirk of Scotland, the Assemblies from 1638 (vol. 1, 1838) | have-raw | `general-assembly_shelf.json` |
 | Acts of the General Assembly of the Church of Scotland 1638-1842 (Church Law Society, 1843) | have-raw | `general-assembly_shelf.json` |
 
+## Secession, Disruption and Irish Presbyterian histories
+
+| Work | Status | Where |
+|---|---|---|
+| M'Kerrow, History of the Secession Church (2 vols, 1839) | have-raw | `john-mckerrow_shelf.json` |
+| Robert Buchanan, The Ten Years' Conflict (2 vols, 1849) | have-raw | `robert-buchanan_shelf.json` |
+| Thomas Brown, Annals of the Disruption (1884) | have-raw | `thomas-brown-disruption_shelf.json` |
+| Reid, History of the Presbyterian Church in Ireland, continued by Killen (3 vols, 1867) | have-raw | `james-seaton-reid_shelf.json` |
+
 ## The Westminster Assembly
 
 Lane A holds Warfield's Westminster studies and the Assembly divines Reynolds and Bridge; Baillie's Letters are above. These shelves add the Assembly's own record and its 19th-century historians.
