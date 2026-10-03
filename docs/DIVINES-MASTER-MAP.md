@@ -804,6 +804,20 @@ Prose only; the hymns and psalms are for the hymn manifest.
 | The Works (London: Barfield, 1810, ed. Burder), vols. I-VI | have-raw | IA `worksofreverendl01watt`..`06watt` |
 | The Leeds Works, vols. 2-9 | pending | not yet released on Gutenberg |
 | Hymns and Spiritual Songs; The Psalms of David; Divine Songs | excluded here | hymn manifest |
+
+## Archibald Alexander (round 5, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| The Canon of the Old and New Testaments Ascertained | have | CCEL `canon` (`aalexander-canon`) |
+| The Evidences of the Christian Religion | have | CCEL `evidences` (`aalexander-evidences`) |
+| Outlines of Moral Science | have | CCEL `outlines` (`aalexander-moral-science`) |
+| Thoughts on Religious Experience (1844) | have-raw | IA `thoughtsonreligi00alexuoft` |
+| Biographical Sketches of the Log College (1851) | have-raw | IA `biographicalsketcheso00alex` |
+| Practical Sermons (1850) | have-raw | IA `practicalsermons00alexuoft` |
+| A History of the Israelitish Nation (1853) | have-raw | IA `historyofisraeli00alex` |
+| A History of Colonization on the Western Coast of Africa (1846) | have-raw | IA `historyofcoloniz00alex` |
+| J. W. and J. A. Alexander's books | excluded here | his sons |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

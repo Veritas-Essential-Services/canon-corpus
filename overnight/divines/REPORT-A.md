@@ -207,3 +207,6 @@
 
 ## 2026-10-02 17:37 CDT — watts done
 - `pipeline/watts_shelf.json`: the London Works (1810, ed. Burder), 6 vols, raw IA OCR (98.3-99.3%); the Leeds Works vol. 1 and the Essay on Psalmody clean from Gutenberg (rights lines passed). About 20 MB. `--verify --record`: 0 mismatched, 0 rights flags. Hymns left to the hymn manifest. 0 uids minted.
+
+## 2026-10-02 19:40 CDT — archibald-alexander done
+- `pipeline/archibald-alexander_shelf.json`: 3 CCEL titles converted (1,582 units, 183 links); 5 IA items raw (96.7-99.2%). About 7.6 MB. The surname check uses "archibald alexander" / "dr. alexander", since "alexander" alone is common and his sons share it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
