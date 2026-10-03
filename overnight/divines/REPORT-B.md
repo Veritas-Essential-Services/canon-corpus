@@ -450,3 +450,9 @@
 - Cicero: Guthrie's Offices, Cato, Laelius, Paradoxes, Scipio's Dream (1755); his On Oratory and Orators (1808, 2 vols.)
 - Cicero: Heberden's Letters to Atticus (1825, 2 vols.); Francklin's Nature of the Gods (1829); Jeans's Life and Letters (1887)
 - Three translator claims unchecked with reasons (OCR'd name, lost title page, name only in advertisements)
+
+## 2026-10-03 05:44 CDT — Thucydides, Pliny; cycle 10
+- Thucydides: S. T. Bloomfield's annotated translation (1829, 3 vols.)
+- Pliny: Orrery's Letters of Pliny the Younger (vol. I 1751, vol. II 1752)
+- Cycle 10: Paley 1879 confirmed; Perseus licence stated in _about on seven shelves (not in _rights_checked, which is the gate's override)
+- Gap 03:02-05:40: tool rate limit

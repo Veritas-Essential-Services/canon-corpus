@@ -134,3 +134,4 @@
 - **Plato (02:53):** Church's Trial and Death of Socrates, Lindsay's Republic, Cope's Gorgias and Phaedo.
 - **Plato, more (02:55):** Wright, Dyde, Talks with Athenian Youths, Paley's Philebus.
 - **Cicero (03:00):** ten volumes of older translations: Guthrie, Heberden, Francklin, Jeans.
+- **Thucydides and Pliny (05:44):** Bloomfield's Thucydides and Orrery's Pliny. Reviewer cycle 10 done. (The run paused 03:02-05:40 on a tool rate limit.)

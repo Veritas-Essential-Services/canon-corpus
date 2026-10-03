@@ -748,6 +748,14 @@
    "started": "2026-10-03T02:55:22-05:00",
    "finished": "2026-10-03T03:00:49-05:00",
    "notes": "Guthrie: Atticus 1752 vol. I + 1806 vols. II-III (different editions, labelled as such; vol. I of 1806 and vol. II of 1752 not found as text), Offices etc. 1755, De Oratore 1808 (2 vols.; translator named only in the volume's advertisements). Heberden's Atticus 1825 (2 vols.), Francklin 1829, Jeans 1887. OCR 0.88-0.96. A 1806 microform (epistlestoatticu00cice) with unclear volume contents not used."
+  },
+  {
+   "id": "bloomfield-orrery-cycle10",
+   "status": "done",
+   "scope": "Bloomfield's Thucydides (1829), Orrery's Pliny (1751-52); reviewer cycle 10",
+   "started": "2026-10-03T03:00:49-05:00",
+   "finished": "2026-10-03T05:44:39-05:00",
+   "notes": "Bloomfield 3 vols., OCR 0.87. Orrery vol. I 1751 + vol. II 1752 second edition (labelled). Cycle 10: Paley's Philebus is 1879 on its title page (IA's 1873 is the catalogue's); the Perseus licence (CC BY-SA 4.0 markup over PD text) now stated in _about on aristotle, diogenes-laertius, herodotus, isocrates, ovid, plato, xenophon. Not written into _rights_checked: that key is the gate's override for late or modernized texts, and filling it for every Perseus row would let a later printing through unasked. Melmoth's Cicero vol. I (lettersofmarcust01ciceuoft) answers 500: on the retry. Note: the session lost about 2.5 hours (03:02-05:40) to a rate limit on the command checker."
   }
  ]
 }

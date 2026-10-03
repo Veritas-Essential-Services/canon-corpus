@@ -2031,7 +2031,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Phaedrus, Lysis, and Protagoras of Plato, a new and literal translation (Macmillan, 1888) | J. Wright | `plato-wright-phaedrus-lysis-protagoras-1888` | have-raw (IA `phaedruslysisand02platuoft`) |
 | The Theaetetus of Plato, a translation with an introduction (Maclehose, 1899) | S. W. Dyde | `plato-dyde-theaetetus-1899` | have-raw (IA `theaetetustransl00plat`) |
 | Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891) | Ellen Francis Mason (from the catalogue; the volume names no translator) | `plato-mason-talks-1891` | have-raw (IA `talkswithathenia00platrich`) |
-| The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
+| The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879; IA's catalogue says 1873, the title page reads 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
 
 Pending (wishlist):
 
@@ -2404,6 +2404,9 @@ Shelf: `pipeline/thucydides_shelf.json`. Jowett's own Thucydides (1881) and Hobb
 | History of the Peloponnesian War | Charles Foster Smith | `thucydides-perseus-smith-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng1`; markup CC BY-SA 4.0) |
 | History of the Peloponnesian War | Henry Dale | `thucydides-perseus-dale-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng2`; markup CC BY-SA 4.0) |
 | The History of the Grecian War | Thomas Hobbes | `thucydides-perseus-hobbes-the-history-of-the-grecian-war` | have (Perseus TEI `tlg0003.tlg001.perseus-eng4`; markup CC BY-SA 4.0) |
+| The History of Thucydides, newly translated into English, with copious annotations, vol. I of three (Longman, 1829) | S. T. Bloomfield | `thucydides-bloomfield-1829-v1` | have-raw (IA `historyofthucydi01thuc`) |
+| The History of Thucydides, newly translated into English, with copious annotations, vol. II of three (Longman, 1829) | S. T. Bloomfield | `thucydides-bloomfield-1829-v2` | have-raw (IA `historyofthucydi02thuc`) |
+| The History of Thucydides, newly translated into English, with copious annotations, vol. III of three (Longman, 1829) | S. T. Bloomfield | `thucydides-bloomfield-1829-v3` | have-raw (IA `historyofthucydi03thuc`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -2864,6 +2867,8 @@ Shelf: `pipeline/pliny_shelf.json`. Bostock and Riley's Natural History, 6 vols.
 | The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 2 (1601) | Philemon Holland | `pliny-holland-natural-history-v2` | have-raw (IA `plinyhollandhistorie02`) |
 | The Letters of the Younger Pliny, literally translated (Kegan Paul, Trench, 1890) | John Delaware Lewis | `pliny-younger-lewis-letters` | have-raw (IA `lettersyoungerp00plingoog`) |
 | The Letters of the Younger Pliny, Second Series: Books VI-X (London and Felling-on-Tyne: Walter Scott Publishing Co.; no printed date, see _rights_checked) | John B. Firth | `pliny-younger-firth-letters-2` | have-raw (IA `in.ernet.dli.2015.38111`) |
+| The Letters of Pliny the Younger, with observations on each letter and an essay on Pliny's life, vol. I (Vaillant, 1751) | John, Earl of Orrery | `pliny-orrery-letters-1751-v1` | have-raw (IA `lettersplinyyou00plingoog`) |
+| The Letters of Pliny the Younger, with observations, vol. II, the second edition (Vaillant, 1752) | John, Earl of Orrery | `pliny-orrery-letters-1752-v2` | have-raw (IA `lettersplinyyou02plingoog`) |
 
 Pending (wishlist): a printed date for Firth's Second Series (the DLI scan has none).
 
@@ -3147,6 +3152,10 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, vol. II (Payne and Foss, 1825) | William Heberden | `cicero-heberden-atticus-1825-v2` | have-raw (IA `b24748742_0002`) |
 | M. Tullius Cicero of the Nature of the Gods, with notes, and an inquiry into the astronomy and anatomy of the ancients (Pickering, 1829) | Thomas Francklin | `cicero-francklin-nature-gods-1829` | have-raw (IA `naturegods00frangoog`) |
 | The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887) | G. E. Jeans | `cicero-jeans-letters-1887` | have-raw (IA `cu31924026480347`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. II of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v2` | have-raw (IA `lettersofmarcust02ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. III of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v3` | have-raw (IA `lettersofmarcust03ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. IV of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v4` | have-raw (IA `lettersofmarcust04ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v5` | have-raw (IA `lettersofmarcust05ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
