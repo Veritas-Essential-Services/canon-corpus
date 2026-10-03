@@ -1,0 +1,44 @@
+{
+ "_about": "Jonathan Ceredig Davies's Folk-Lore of West and Mid-Wales (1911): fairy, ghost, witch and wishing-well lore and legends of Cardiganshire and neighbouring counties. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jonathan Ceredig Davies",
+ "_name_words": [
+  "davies"
+ ],
+ "_surname": [
+  "jonathan ceredig davies"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cdavies-folk-lore-of-west-and-mid-wales": [
+   53915,
+   "Folk-Lore of West and Mid-Wales",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|INTRODUCTION\\.|CONTENTS\\.)$|CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "(?!CHAPTER |PAGE|ALICE|JONATHAN CEREDIG DAVIES)[A-Z“\"][^a-z]*$",
+      "max": 120
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cdavies-folk-lore-of-west-and-mid-wales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jonathan ceredig davies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
