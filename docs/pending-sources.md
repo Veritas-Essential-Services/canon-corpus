@@ -149,18 +149,26 @@ The text itself is unproofread OCR, and each book says so.
 
 ## R. H. Charles, *The Apocrypha and Pseudepigrapha of the Old Testament* (1913)
 
-It is the slot the deuterocanon index left open
-(`pipeline/build_deuterocanon.py`). Charles is now fetched, OCR'd and built
-by `pipeline/build_charles.py`, one book per work (`data/books/charles-<key>.json`,
-in Charles's own numbering). What remains, to plug it in:
+<!-- prov: 2026-10-03 edited (Claude Code): Charles keyed into the deuterocanon index -->
 
-1. (Done: pinned, rights read, converted; see `build_charles.py`.)
-2. (Done: one book per work, Charles's own numbering.)
-3. Uncomment the `charles` row in `WITNESSES`, with a `passages` function
-   that groups his verses by the KJV Apocrypha book they belong to, and add
-   `charles` to `TSV_COLUMNS`.
-4. Run `build_deuterocanon.py --audit` and read Charles's weak pairings.
-   Add `HOUSE_ROWS` for what the alignment misses.
-5. Charles prints 3 and 4 Maccabees, which the KJV's Apocrypha does not. They
-   stay without a key (`NO_KEY_BOOKS`) until a ruling picks one, probably
-   Charles's own numbering.
+On the shelf, and keyed. `pipeline/build_charles.py` builds one book per work
+(`data/books/charles-<key>.json`, in Charles's own numbering), and since
+2026-10-03 `pipeline/build_deuterocanon.py` reads fifteen of them as one
+witness, `charles`, with its own column in `deuterocanon-parallel.tsv`. A ref
+there is the KJV Apocrypha's book name before Charles's number (`Tob.5.16` is
+`charles-tob:5.16`; `AddEsth.A.1` is `charles-addesth:A.1`, Charles lettering
+the Additions A-F; `EpJer` and `4Ezra` keep his names).
+
+- **Keyed:** 4,801 of 5,783 verses. They reach 5,001 of the KJV's 5,722
+  Apocrypha verses.
+- **No key:**
+  - 3 and 4 Maccabees (`NO_KEY_BOOKS`).
+  - Baruch and the Prayer of Manasses. Both are built by scan page.
+  - 265 verses that share too few words with any KJV verse. Most are in
+    Tobit, where Charles translates Codex Sinaiticus's longer text, and in
+    Sirach, where he follows the Hebrew.
+- **Weak (166):** listed in the map, to read before relying on them.
+- **House rows:** 20, for every key `--audit` found far from its
+  neighbours', each read in both texts.
+- **KJV verses Charles does not reach:** 2 Esdras 1-2 and 15-16 (4 Ezra is
+  chapters 3-14), Baruch 1-5, and verses the OCR lost.
