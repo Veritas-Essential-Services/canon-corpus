@@ -1570,10 +1570,12 @@
     },
     {
       "id": "hanserd-knollys",
-      "status": "queued",
+      "status": "skipped",
       "scope": "Hanserd Knollys (d. 1691)",
       "added": "2026-10-03T06:05:55-05:00",
-      "added_by": "lane A worker, round 13 (round 12 done at 06:04 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Caroline and Restoration Anglicans, Georgian bishops, English Particular Baptists and Puritans, and early American revivalists and Methodists; all died before 1870. None from the English Reformers/Knox list, none on any branch's shelves, and no commentators PR #11 plans."
+      "added_by": "lane A worker, round 13 (round 12 done at 06:04 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Caroline and Restoration Anglicans, Georgian bishops, English Particular Baptists and Puritans, and early American revivalists and Methodists; all died before 1870. None from the English Reformers/Knox list, none on any branch's shelves, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T06:40:54-05:00",
+      "notes": "only short 1640s tracts on IA (Christ Exalted; The Shining of a Flaming Fire in Zion); not worth a shelf yet"
     },
     {
       "id": "john-ryland",
@@ -1586,10 +1588,12 @@
     },
     {
       "id": "john-fawcett",
-      "status": "queued",
+      "status": "skipped",
       "scope": "John Fawcett: Christ Precious, Essay on Anger (d. 1817)",
       "added": "2026-10-03T06:05:55-05:00",
-      "added_by": "lane A worker, round 13 (round 12 done at 06:04 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Caroline and Restoration Anglicans, Georgian bishops, English Particular Baptists and Puritans, and early American revivalists and Methodists; all died before 1870. None from the English Reformers/Knox list, none on any branch's shelves, and no commentators PR #11 plans."
+      "added_by": "lane A worker, round 13 (round 12 done at 06:04 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Caroline and Restoration Anglicans, Georgian bishops, English Particular Baptists and Puritans, and early American revivalists and Methodists; all died before 1870. None from the English Reformers/Knox list, none on any branch's shelves, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T06:40:54-05:00",
+      "notes": "only pamphlets on IA (Advice to Youth 1780, Hints on Education 1807); Christ Precious not found"
     },
     {
       "id": "matthew-mead",
