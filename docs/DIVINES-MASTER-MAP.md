@@ -907,13 +907,14 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 3 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v3` | have-raw (IA `vol3worksofplato00plat`) |
 | The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 4 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v4` | have-raw (IA `vol4worksofplato00plat`) |
 | The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 5 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v5` | have-raw (IA `vol5worksofplato00plat`) |
+| The Prose Works of Percy Bysshe Shelley, vol. 2 (ed. R. H. Shepherd, 1888): The Banquet, Ion, Menexenus, with Shelley's essay On the Symposium | Percy Bysshe Shelley | `plato-shelley-prose-works-v2` | have (PG 67926) |
 
 Pending (wishlist):
 
 - Held now (2026-10-02): the complete Bohn *Works of Plato* (Cary, Davis, Burges, 6 vols., 1848-54), which carries the dialogues Jowett left out (Greater Hippias, Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Vols. 1-2 are clean from Gutenberg as well. Whether a second translator belongs on this shelf or its own is still Adam's call; moving the rows is cheap.
 - The Republic, Jowett's separate 3rd ed. with marginal analysis and index (PG 55201): an alternate witness of the Republic.
 - The Dialogues of Plato, 1892, vol. 2 as a clean Gutenberg transcription (PG 76464, 2025): the other four volumes are not on Gutenberg yet; when they are, that is the cleanest collected edition.
-- Shelley's Symposium and Ion: PD, not fetched. Thomas Taylor's complete Plato (1804, with Sydenham's nine dialogues) is held above, 5 vols.
+- Shelley's Banquet (Symposium), Ion and Menexenus are held above (Prose Works vol. 2, PG 67926). Thomas Taylor's complete Plato (1804, with Sydenham's nine dialogues) is held above, 5 vols.
 - Perseus serves 36 English Plato texts (Loeb: Fowler, Lamb, Shorey, Bury); alternate witnesses, see `docs/perseus-census.md`.
 
 Excluded: PG 150 (duplicate Republic, shorter introduction), PG 19840 (Euthyphro; serves a 404), PG 29441 (an index page), PG 13726 (Cary, not Jowett).
@@ -1232,8 +1233,9 @@ Shelf: `pipeline/arrian_shelf.json`. Chinnock's Anabasis (1884) and Dansey's On 
 |---|---|---|---|
 | The Anabasis of Alexander | E. J. Chinnock (1884) | `arrian-chinnock-anabasis` | have (PG 46976) |
 | Arrian on Coursing (Cynegeticus) | William Dansey (1831) | `arrian-dansey-coursing` | have (PG 78013) |
+| The Commerce and Navigation of the Erythraean Sea, with Arrian's Account of the Voyage of Nearkhos (Indica, chs. 18-43; 1879) | J. W. McCrindle | `arrian-mccrindle-nearkhos` | have (PG 55054) |
 
-Pending (wishlist): Chinnock's Indica; Hooke's 1729 Arrian.
+Pending (wishlist): a complete Indica (Chinnock's Bohn 1893 or McCrindle 1877; the Nearchus voyage, chs. 18-43, is held above in McCrindle); Rooke's 1729 Arrian.
 
 ## Plutarch
 
@@ -1486,8 +1488,9 @@ Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five comment
 | 'De Bello Gallico' and Other Commentaries | W. A. McDevitte and W. S. Bohn | `caesar-mcdevitte-bohn` | have (PG 10657) |
 | The Gallic War (Loeb, 1917) | H. J. Edwards | `caesar-edwards-gallic-war` | have-raw (IA `gallicwar00caes`) |
 | The Civil Wars (Loeb, 1914) | A. G. Peskett | `caesar-peskett-civil-wars` | have-raw (IA `civilwarswitheng00caesuoft`) |
+| The Eyght Bookes of Caius Julius Caesar, conteyning his Martiall Exploytes in the Realme of Gallia (London, Willyam Seres, 1565) | Arthur Golding | `caesar-golding-1565` | have-raw (IA `bim_early-english-books-1475-1640_the-eyght-bookes-of-caiu_caesar-caino-julius_1565`) |
 
-Pending (wishlist): Arthur Golding's Caesar (1565).
+Pending (wishlist): none known (Golding's Caesar, 1565, is held above).
 
 ## Suetonius
 
