@@ -1,5 +1,5 @@
 {
- "_about": "Abbie Farwell Brown's (1871-1927) The Book of Saints and Friendly Beasts: legends of saints and the animals in their stories, retold for children. Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Abbie Farwell Brown's (1871-1927) The Book of Saints and Friendly Beasts: legends of saints and the animals in their stories, retold for children. Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto). Batch 22 (2026-10-03) adds In the Days of Giants: A Book of Norse Tales (copyright 1902) and The Curious Book of Birds (published October 1903), her retellings of Norse myth and of bird legends.",
  "_author": "Abbie Farwell Brown",
  "_name_words": [
   "saints",
@@ -14,12 +14,50 @@
   "abbie-brown-book-of-saints-and-friendly-beasts": [
    28990,
    "The Book of Saints and Friendly Beasts"
+  ],
+  "abbie-brown-in-the-days-of-giants": [
+   44622,
+   "In the Days of Giants: A Book of Norse Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "abbie-brown-curious-book-of-birds": [
+   16140,
+   "The Curious Book of Birds",
+   {
+    "levels": [
+     {
+      "re": "(?:THE\\ DISOBEDIENT\\ WOODPECKER|MOTHER\\ MAGPIE'S\\ KINDERGARTEN|THE\\ GORGEOUS\\ GOLDFINCH|KING\\ OF\\ THE\\ BIRDS|HALCYONE|THE\\ FORGETFUL\\ KINGFISHER|THE\\ WREN\\ WHO\\ BROUGHT\\ FIRE|HOW\\ THE\\ BLUEBIRD\\ CROSSED|THE\\ PEACOCK'S\\ COUSIN|THE\\ MASQUERADING\\ CROW|KING\\ SOLOMON\\ AND\\ THE\\ BIRDS|THE\\ PIOUS\\ ROBIN|THE\\ ROBIN\\ WHO\\ WAS\\ AN\\ INDIAN|THE\\ INQUISITIVE\\ WOMAN|WHY\\ THE\\ NIGHTINGALE\\ WAKES|MRS\\.\\ PARTRIDGE'S\\ BABIES|THE\\ EARLY\\ GIRL|HOW\\ THE\\ BLACKBIRD\\ SPOILED\\ HIS\\ COAT|THE\\ BLACKBIRD\\ AND\\ THE\\ FOX|THE\\ DOVE\\ WHO\\ SPOKE\\ TRUTH|THE\\ FOWLS\\ ON\\ PILGRIMAGE|THE\\ GROUND\\-PIGEON|SISTER\\ HEN\\ AND\\ THE\\ CROCODILE|THE\\ THRUSH\\ AND\\ THE\\ CUCKOO|THE\\ OWL\\ AND\\ THE\\ MOON|THE\\ TUFTED\\ CAP|THE\\ GOOD\\ HUNTER|THE\\ COURTSHIP\\ OF\\ MR\\.\\ STORK\\ AND\\ MISS\\ HERON|THE\\ PHOENIX)$"
+     }
+    ],
+    "start": "THE DISOBEDIENT WOODPECKER$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
  "_excluded": {},
  "_checks": {
   "abbie-brown-book-of-saints-and-friendly-beasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abbie farwell brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abbie-brown-in-the-days-of-giants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "abbie farwell brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abbie-brown-curious-book-of-birds": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",

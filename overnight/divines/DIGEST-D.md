@@ -108,7 +108,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `peabody` | 1 Gutenberg | 0 | 436 | Old Greek Folk Stories Told Anew. |
 | `golden-legend` | 0 Gutenberg | 7 | 0 | The Golden Legend in Caxton's English, ed. F. S. Ellis (1900), 7 vols., raw OCR. The saints' lives on this shelf may belong with Lane A; veto or move. |
 | `canton` | 1 Gutenberg | 0 | 934 | A Child's Book of Saints. |
-| `abbie-brown` | 1 Gutenberg | 0 | 656 | The Book of Saints and Friendly Beasts. |
+| `abbie-brown` | 3 Gutenberg | 0 | 2,144 | The Book of Saints and Friendly Beasts; batch 22 adds In the Days of Giants (1902) and The Curious Book of Birds (1903). |
 | `steedman` | 1 Gutenberg | 0 | 732 | In God's Garden. |
 | `poetic-edda` | 3 Gutenberg | 0 | 9,018 | Thorpe and Blackwell's Eddas (1906 Norrœna printing) and Magnússon and Morris's Volsunga Saga, added beside Bellows. Two pending translations promoted from the shelf's own exclusions. |
 | `kalevala` | 3 Gutenberg | 0 | 4,722 | Kirby's Kalevala (1907, 2 vols.), a second witness beside Crawford. |

@@ -5608,11 +5608,13 @@ Shelf: `pipeline/canton_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Abbie Farwell Brown
 
-Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, retold for children. Not in the manifest; no uids minted.
+Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, Norse myths and bird legends, retold for children; cut by legend or tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Book of Saints and Friendly Beasts | have | PG 28990, `abbie-brown-book-of-saints-and-friendly-beasts` (656 units) |
+| In the Days of Giants: A Book of Norse Tales | have | PG 44622, `abbie-brown-in-the-days-of-giants` (760 units) |
+| The Curious Book of Birds | have | PG 16140, `abbie-brown-curious-book-of-birds` (728 units) |
 
 ## Amy Steedman
 

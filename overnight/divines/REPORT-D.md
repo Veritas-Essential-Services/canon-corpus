@@ -610,3 +610,6 @@
 - jean-lang: `_surname` is now "jean lang" (it was bare "lang", which Andrew Lang's books also pass); re-recorded, 4/4 seen.
 - basile: the translator note describes the 1911 printing's prefatory note instead of quoting it.
 - macdonald (Lane D's only CCEL shelf, 31 CCEL items): re-recorded under 36ca012. 23 have a print source on CCEL's page, 8 have none. Correction to the first version of this line, which said none was 1930 or later: four are, and fetch_shelf flags them `ccel_print_source_check`: The Miracles of Our Lord (J. J. Flynn, c1987), The Vicar's Daughter (Sunrise Books, 2001), Salted with Fire (Sunrise Books, 1989) and The Princess and Curdie (D. McKay [1934]). All four are reprints of MacDonald's own nineteenth-century texts, not critical editions, so they stay on the shelf; whether a modern reprint added anything is not known from the record, and republishing waits on a look (DIGEST decision 17).
+
+## 2026-10-03 01:52 CDT — abbie-brown-b22: done
+- 2/2 fetched (Gutenberg 44622, 16140), 1,488 units, 0 ~2 ids.
