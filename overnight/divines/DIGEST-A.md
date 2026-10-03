@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:49 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:52 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -191,6 +191,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 | E. B. Pusey | e-b-pusey_shelf.json | none | 3 (The Minor Prophets with a commentary, Parker, catalogued 1860; Daniel the Prophet, 1868; Lenten Sermons, 1874) | Nine Sermons before the University (1879): the copy has no text file | A Course of Sermons on Solemn Subjects (several preachers; the gate refused it) |
 | H. P. Liddon | h-p-liddon_shelf.json | none | 5 (The Divinity of Our Lord, Bampton Lectures, 1867; Easter in St. Paul's; Advent in St. Paul's; Passiontide Sermons; Clerical Life and Work) | none | a Christmastide in St. Paul's scan that never names him |
 | A. A. Hodge | a-a-hodge_shelf.json | none | 5 (Outlines of Theology, 1879 enlarged edition; Commentary on the Confession of Faith, 1885 edition; The Atonement, 1867; Popular Lectures, 1887; Life of Charles Hodge, 1880) | none | the Shorter Catechism book written with J. A. Hodge, and Van Dyke's Theism and Evolution, which Hodge only introduced |
+| J. A. Alexander | j-a-alexander_shelf.json | none | 12 (the critical Isaiah, 1846-47, 2 vols; Psalms, 1850, 3 vols; Acts, 1857, 2 vols; Mark, 1858; Matthew, 1861; Notes on NT Literature, 1861; Sermons, 1860, 2 vols) | Essays on the Primitive Church Offices (1851): the only copy tried never names him | modern Kregel, Zondervan and Banner of Truth reprints |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -1604,3 +1604,21 @@ Slugs `aa-hodge-*`.
 | Popular Lectures on Theological Themes (Presbyterian Board, 1887) | have-raw | IA |
 | The Life of Charles Hodge (Scribner, 1880) | have-raw | IA |
 | Outlines of Theology, first edition (1860) | alternate | IA |
+
+
+## J. A. Alexander (round 10, my pick, 2026-10-03)
+
+Slugs `ja-alexander-*`. The text layers carry no Hebrew or Greek characters at all.
+
+| Work | Status | Where |
+|---|---|---|
+| The Earlier Prophecies of Isaiah (Wiley and Putnam, 1846) | have-raw | IA (identifiers in the shelf) |
+| The Later Prophecies of Isaiah (Wiley and Putnam, 1847) | have-raw | IA |
+| The Psalms Translated and Explained (Baker and Scribner, 1850), vols 1-3 | have-raw | IA |
+| The Acts of the Apostles Explained (Scribner, 1857), vols 1-2 | have-raw | IA |
+| The Gospel according to Mark Explained (Scribner, 1858) | have-raw | IA |
+| The Gospel according to Matthew Explained (Scribner, title page 1861, preface December 1860) | have-raw | IA |
+| Notes on New Testament Literature and Ecclesiastical History (Scribner, 1861) | have-raw | IA |
+| Sermons (Scribner, 1860), vols 1-2 | have-raw | IA |
+| Essays on the Primitive Church Offices (1851) | pending | the copy tried was refused |
+| Isaiah Translated and Explained, the abridgement (1851) | alternate | IA |

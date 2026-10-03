@@ -1156,10 +1156,12 @@
     },
     {
       "id": "j-a-alexander",
-      "status": "queued",
+      "status": "done",
       "scope": "Joseph Addison Alexander: commentaries on Isaiah, Psalms, Mark, Acts (d. 1860)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T01:52:44-05:00",
+      "notes": "12 IA volumes; Church Offices pending"
     },
     {
       "id": "albert-barnes",

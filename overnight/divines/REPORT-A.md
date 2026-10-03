@@ -445,3 +445,6 @@
 
 ## 2026-10-03 01:49 CDT — a-a-hodge done
 - `pipeline/a-a-hodge_shelf.json`: 5 IA volumes of raw OCR, median 98.1% (97.6-98.5%), about 6 MB; title pages read (1867-1887). The Confession commentary IA catalogues as 1869 is the 1885 new edition (preface dated June 1885), so it is labelled that way. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:52 CDT — j-a-alexander done
+- `pipeline/j-a-alexander_shelf.json`: 12 IA volumes of raw OCR, median 97.1% (94.7-98.6%), about 15 MB; title pages read (1846-1861). The text layers hold 0 Hebrew and 0 Greek characters, so the Isaiah and Psalms commentaries have lost every original-language word. The gate refused the only Primitive Church Offices copy tried (its text never names him); it is pending. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
