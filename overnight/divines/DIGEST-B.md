@@ -89,3 +89,4 @@
 - **Unnamed translators, flagged not guessed:** Chariton 1764 ("made by two young persons"), Xenophon of Ephesus 1727 (name illegible; often given as John Rooke, not verified), the Ovid collections of 1813 and 1855.
 - **Each book now checked against its own author** on shelves holding several (a Lycophron used to pass on "Callimachus").
 - **Victorian scholars' versions (21:55-22:05):** Lonsdale and Lee's Globe Virgil and Horace, Davidson-Buckley Virgil, Slater's Silvae, Cranstoun's Catullus and Propertius, Jebb's prose Sophocles, and Way's verse Sophocles (Part I) and Aeschylus (all three parts). Way's Sophocles Part II (1914) is not on IA.
+- **Homer's Victorian translators (22:08):** Morris, Palmer, Worsley, Conington, Newman, and Way's Iliad and Odyssey: ten volumes, so the Homer shelf now spans Chapman to Murray.

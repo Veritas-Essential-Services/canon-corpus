@@ -244,6 +244,16 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The English Works of Thomas Hobbes, vol. 10: Homer's Iliads and Odysses (ed. Molesworth) | Thomas Hobbes | `homer-hobbes-iliad-odyssey` | have-raw (IA `englishworksofth0010hobb_d2j3`) |
 | Iliad | Augustus Taber Murray | `homer-perseus-murray-iliad` | have (Perseus TEI `tlg0012.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
 | Odyssey | Augustus Taber Murray | `homer-perseus-murray-odyssey` | have (Perseus TEI `tlg0012.tlg002.perseus-eng3`; markup CC BY-SA 4.0) |
+| The Odyssey of Homer done into English Verse (London: Reeves & Turner, 1887) | William Morris | `homer-morris-odyssey-1887` | have-raw (IA `odysseyofhomer00homeuoft`) |
+| The Odyssey of Homer, translated into English prose (Boston; preface dated 1891) | George Herbert Palmer | `homer-palmer-odyssey-1891` | have-raw (IA `odysseyhomer02palmgoog`) |
+| The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1861) | Philip Stanhope Worsley | `homer-worsley-odyssey-1861-v1` | have-raw (IA `odysseyhomer04worsgoog`) |
+| The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1862) | Philip Stanhope Worsley | `homer-worsley-odyssey-1862-v2` | have-raw (IA `odysseyhomer01worsgoog`) |
+| The Odyssey of Homer in English Verse, third edition (Macmillan, 1904) | Arthur S. Way | `homer-way-odyssey-1904` | have-raw (IA `odysseyofhomerin00homerich`) |
+| The Iliad of Homer faithfully translated into unrhymed English metre (London: Walton and Maberly, 1856; the title-page date OCRs poorly) | Francis William Newman | `homer-newman-iliad-1856` | have-raw (IA `iliadhomerfaith00newmgoog`) |
+| The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1865) | Philip Stanhope Worsley | `homer-worsley-iliad-1865-v1` | have-raw (IA `iliadhomertrans00conigoog`) |
+| The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1868) | John Conington | `homer-conington-iliad-1868-v2` | have-raw (IA `iliadhomertrans01conigoog`) |
+| The Iliad of Homer done into English Verse, vol. I, books I-XII (Sampson Low, 1886) | Arthur S. Way | `homer-way-iliad-1886-v1` | have-raw (IA `iliadhomer01home`) |
+| The Iliad of Homer done into English Verse, vol. II, books XIII-XXIV (Sampson Low, 1888) | Arthur S. Way | `homer-way-iliad-1888-v2` | have-raw (IA `iliaddoneintoen02homegoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 

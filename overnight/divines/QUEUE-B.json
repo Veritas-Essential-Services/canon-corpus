@@ -412,6 +412,14 @@
    "started": "2026-10-02T21:55:00-05:00",
    "finished": "2026-10-02T22:05:09-05:00",
    "notes": "Way Aeschylus I and III: OCR renders AE as 'JE', so identity is recorded in _identity_checked with the title page; Way's Sophocles Part II (1914) not found on IA"
+  },
+  {
+   "id": "homer-victorian-verse",
+   "status": "done",
+   "scope": "Homer: Morris, Palmer, Worsley (Odyssey 2 vols), Way (Odyssey; Iliad 2 vols), Newman, Worsley-Conington Iliad (2 vols); raw IA, title pages read",
+   "started": "2026-10-02T22:05:09-05:00",
+   "finished": "2026-10-02T22:08:53-05:00",
+   "notes": "Way Iliad vol. I translator unchecked (name garbled in OCR, reason recorded)"
   }
  ]
 }

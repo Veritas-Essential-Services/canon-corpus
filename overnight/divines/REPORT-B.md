@@ -230,3 +230,8 @@
 - Way's Aeschylus I and III failed the surname test because the OCR reads the ligature as "JESCHYLUS"; title pages checked and recorded in `_identity_checked`. Way's Sophocles Part II (1914) not found on IA: wishlist.
 - Francis's Horace (1743/1746, OCR 0.61-0.64) recorded in the Horace shelf's `_excluded`.
 - `fetch_shelf.py --verify --record` on all seven shelves: 0 mismatched, 0 rights flags.
+
+## 2026-10-02 22:08 CDT — Homer's Victorian translators
+- Added (raw IA, title pages read, OCR 0.88-0.93): Morris's verse Odyssey (1887); Palmer's prose Odyssey (preface 1891); Worsley's Spenserian Odyssey (1861-62, 2 vols); Way's Odyssey (3rd ed., 1904); Newman's Iliad (1856); the Worsley-Conington Spenserian Iliad (1865, 1868); Way's Iliad (1886, 1888).
+- Way's Iliad vol. I is in `_translator_unchecked`: the title-page OCR garbles his name.
+- `fetch_shelf.py --verify --record` on homer: 25 items, 0 mismatched, 0 rights flags.
