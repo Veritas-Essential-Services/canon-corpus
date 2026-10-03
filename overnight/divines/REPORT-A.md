@@ -433,3 +433,6 @@
 ## 2026-10-03 01:37 CDT — henry-alford done
 - `pipeline/henry-alford_shelf.json`: The Greek Testament, vols 1, 2 and 4, raw IA OCR, 82.3%, 89.9% and 93.8%, about 13 MB. Vol. 1's text layer has no Greek characters at all (450,000 or so in each of vols 2 and 4). Vol. 3 is pending. Two Boston copies were refused by the identity gate. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
 - Greek in the text layer, measured 2026-10-03 (Greek codepoints per file): 0 in Lightfoot's Galatians and Philippians, Westcott's Canon, Epistles of John, Hebrews and John vol. 2, Eadie's Ephesians, Pearson's Creed and Alford vol. 1; present in Lightfoot's Colossians (PG), Westcott's John vol. 1, Eadie's Galatians, Trench's Synonyms and Alford vols 2 and 4. Where it is 0 the Greek was read as Latin letters, as with the Thayer scan; the English is usable, the Greek is not.
+
+## 2026-10-03 01:39 CDT — john-keble done
+- `pipeline/john-keble_shelf.json`: 1 CCEL title (converted), 1 Gutenberg text (rights line checked) and 2 IA volumes of raw OCR at 98.6%, about 2.9 MB; title pages read (1847, 1877). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

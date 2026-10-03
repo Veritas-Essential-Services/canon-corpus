@@ -1551,3 +1551,16 @@ Slugs `alford-*`.
 | The Greek Testament, vols 1-2 (London: Rivington; catalogued 1849-56) | have-raw | IA (identifiers in the shelf) |
 | The Greek Testament, vol. 4 (Boston: Lee and Shepard; catalogued 1874) | have-raw | IA |
 | The Greek Testament, vol. 3 | pending | archive.org errors |
+
+
+## John Keble (round 10, my pick, 2026-10-03)
+
+Slugs `keble-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian Year (verse) | have-clean | CCEL |
+| National Apostasy (the Assize Sermon, 1833) | have-clean | Gutenberg 49112 |
+| Sermons, Academical and Occasional (Oxford: Parker, 1847) | have-raw | IA (identifier in the shelf) |
+| Occasional Papers and Reviews (Oxford: Parker, 1877) | have-raw | IA |
+| Sermons for the Christian Year (1875-80, 11 vols) | not shelved yet | |
