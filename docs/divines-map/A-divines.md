@@ -1310,3 +1310,14 @@ Slugs `herbert-*`.
 |---|---|---|
 | A Priest to the Temple, or The Country Parson | have-clean | CCEL |
 | English Works, ed. George Herbert Palmer, 3 vols (Boston: Houghton Mifflin, 1905; vol. 1 a 1915 printing), including The Temple | have-raw | IA (identifiers in the shelf) |
+
+
+## Thomas Ken (round 8, my pick, 2026-10-02)
+
+Slugs `ken-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Prose Works, ed. J. T. Round (London, 1838) | have-raw | IA (identifiers in the shelf) |
+| A Manual of Prayers for Winchester College (1857 printing) | have-raw | IA |
+| The Christian Year, or Hymns and Poems (London: Pickering, 1868) | have-raw | IA |

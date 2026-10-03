@@ -361,3 +361,6 @@
 
 ## 2026-10-02 22:06 CDT — george-herbert done
 - `pipeline/george-herbert_shelf.json`: 1 CCEL title (converted) and Palmer's English Works, 3 volumes of raw IA OCR, median 95.9% (95.7-96.3%), about 1.5 MB; title pages read (MDCCCCV; vol. 1 MDCCCCXV). Vol. 3 reads low per page (757 bytes/image, mostly verse with notes); it is the fuller of the two copies compared, and the other was swapped out. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 22:11 CDT — thomas-ken done
+- `pipeline/thomas-ken_shelf.json`: 3 IA items of raw OCR: Prose Works 98.4% (the scan opens with a publisher's 1855 catalogue; the title page inside reads Round, London, 1838), Manual of Prayers 98.0%, Christian Year 84.1% (verse; a second scan scored 84.9%, so the score looks like the book, not the scan). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
