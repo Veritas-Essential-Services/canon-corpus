@@ -21,6 +21,11 @@
    "elegiessextuspr00unkngoog",
    "The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875)",
    "tr. James Cranstoun"
+  ],
+  "propertius-phillimore-1906": [
+   "propertius00propuoft",
+   "Propertius, translated (Oxford: Clarendon Press, 1906)",
+   "tr. J. S. Phillimore"
   ]
  },
  "_surname": [
@@ -29,7 +34,8 @@
  "_translators": {
   "propertius-butler-loeb": "H. E. Butler",
   "propertius-gantillon-bohn": "P. J. F. Gantillon",
-  "propertius-cranstoun-1875": "James Cranstoun"
+  "propertius-cranstoun-1875": "James Cranstoun",
+  "propertius-phillimore-1906": "Phillimore"
  },
  "_checks": {
   "propertius-butler-loeb": {
@@ -68,6 +74,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "propertius-phillimore-1906": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "Phillimore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
