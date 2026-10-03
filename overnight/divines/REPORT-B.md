@@ -531,3 +531,9 @@
 ## 2026-10-03 06:59 CDT — Dark volumes found
 - J. G. Frazer, Pausanias vol. I: Translation (1898), DLI scan, 0.92
 - William Sotheby, Odyssey Books I-XII (vol. III, 1834), Google scan, 0.80; completes his four-volume set
+
+## 2026-10-03 07:03 CDT — Homer gap-fill (3)
+- T. S. Brandreth, Iliad vol. I (Pickering; catalogue 1846), 0.88
+- Sir Charles Du Cane, Odyssey I-XII (1880), 0.88
+- J. Henry Dart, Iliad in English hexameters (1865), 0.87
+- John Purves, prose Iliad, ed. Abbott (1891), 0.93

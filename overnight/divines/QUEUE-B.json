@@ -860,6 +860,14 @@
    "started": "2026-10-03T06:56:07-05:00",
    "finished": "2026-10-03T06:59:32-05:00",
    "notes": "Frazer's Pausanias vol. I and Sotheby's Odyssey vol. III found under other ids and added."
+  },
+  {
+   "id": "homer-gapfill-3",
+   "status": "done",
+   "scope": "Iliad and Odyssey translations not yet held (title sweep 1800-1925)",
+   "started": "2026-10-03T06:59:32-05:00",
+   "finished": "2026-10-03T07:03:52-05:00",
+   "notes": "Added Brandreth Iliad vol. I (1846; vol. II not found), Du Cane Odyssey I-XII (1880), Dart's hexameter Iliad (1865), Purves's prose Iliad (1891). Pope and Bryant copies skipped (held)."
   }
  ]
 }
