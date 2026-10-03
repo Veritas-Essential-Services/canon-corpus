@@ -1,0 +1,38 @@
+{
+ "_about": "Herodas (3rd c. BC), the Mimes, in English. Lane B (classical translations).",
+ "_name_words": [
+  "herodas",
+  "herondas"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herodas-sharpley-1906": [
+   "cu31924026669642",
+   "A Realist of the Aegean: a verse-translation of the Mimes of Herodas (London, 1906)",
+   "tr. Hugo Sharpley"
+  ]
+ },
+ "_surname": [
+  "herodas",
+  "herondas"
+ ],
+ "_translators": {
+  "herodas-sharpley-1906": "Hugo Sharpley"
+ },
+ "_checks": {
+  "herodas-sharpley-1906": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodas",
+   "translator_claimed": "Hugo Sharpley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
