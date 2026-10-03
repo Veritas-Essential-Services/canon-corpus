@@ -153,7 +153,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
     python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
     python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
-    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes, Poole (EEBO-TCP), Clarke + period scans, pinned
+    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), Clarke + period scans, pinned
     python3 pipeline/build_commentary.py               # commentary layer -> data/commentary/ + build/commentary/
     python3 pipeline/build_commentary.py --check       # byte-identical
     python3 pipeline/build_commentary.py --collate     # CCEL's wording vs 1828/1840/1873 printings -> collation.json
@@ -472,8 +472,9 @@ The living truth for project state is the Obsidian vault:
   CCEL's Nave carries modern glosses (DONKEY, bronze): rows flag such wording
   (`wording_not_in_print`). Hitchcock (no references) joins by headword.
   pipeline/README-topical.md
-- pipeline/build_commentary.py (+ commentary.py, clarke_read.py) — Henry, JFB, Barnes (CCEL
-  ThML), Poole (EEBO-TCP's hand-keyed 1683-85 folio, CC0) and Clarke (scans) keyed to KJV
+- pipeline/build_commentary.py (+ commentary.py, clarke_read.py) — Henry, JFB, Barnes, Wesley,
+  Calvin (CCEL ThML; Calvin's CTS translators' footnotes dropped as the editors'),
+  Poole (EEBO-TCP's hand-keyed 1683-85 folio, CC0) and Clarke (scans) keyed to KJV
   verse ids -> data/commentary/*.jsonl (COMMITTED: which verses each comment
   is on, which it cites, Poole's margin parallels; the prose only in
   build/commentary/). Each comment's place is read twice (CCEL's mark and the

@@ -17,6 +17,10 @@ fetch_shelf.py does):
           on the Whole Bible (1871)
   barnes  Albert Barnes, Notes on the New Testament (CCEL keyed it from
           Baker's 1949 reprint: flagged)
+  wesley  John Wesley, Explanatory Notes upon the Old and New Testaments
+          (CCEL marks chapters only: split_verses cuts at each note's number)
+  calvin  John Calvin, Commentaries, Calvin Translation Society, 45 volumes
+          (the translators' footnotes dropped: drop_notes)
 and one from EEBO-TCP (hand-keyed from the first edition, CC0):
   poole   Matthew Poole, Annotations upon the Holy Bible (1683-85): read by
           build_tcp_work, one comment per verse with a note (below)
@@ -128,7 +132,68 @@ WORKS = {
                 ("notesexplanatory01inbarn", "6ece4e6dc4f095e90d7addd5d4f6af7f67af23db74c7fba31df019a974d8a869"),
                 ("notesexplanatory02barn_0", "c920932b4ae56677b20916478b75764e059a4118a066c0c90f49e4cde2cab19a")]),
         ],
-    },    "clarke": {
+    },
+    "wesley": {
+        "title": "Explanatory Notes upon the Old and New Testaments",
+        "author": "John Wesley (1703-1791)",
+        "files": [("wesley", "w/wesley/notes.xml", "c4534a8964bb8900256ade116209e2bb114caab6100b098b20bf68b682e3fdce")],
+        "split_verses": True,       # CCEL marks the chapter; each note opens with its verse number
+        "roman_comma": True,        # "Luke iii, 31"
+        "scans": [],
+    },
+    "calvin": {
+        "title": "Commentaries (Calvin Translation Society, Edinburgh, 1843-55)",
+        "author": "John Calvin (1509-1564); translated and annotated by the Calvin Translation Society's editors",
+        "files": [
+            ("calvin01", "c/calvin/calcom01.xml", "4b700a5aa4f799f9363cc232cde85409a4f2ff58ebba6c82d9c4830ba83c7b33"),
+            ("calvin02", "c/calvin/calcom02.xml", "fa675fccdbe4d1ad0e555069e0c00c46d732974cc1989b1ca3df87bb073f0663"),
+            ("calvin03", "c/calvin/calcom03.xml", "5f153f44091059eff0d75451785cee7e3d0d9e63edecee645fe7b1b7c1dcaf53"),
+            ("calvin04", "c/calvin/calcom04.xml", "d0af9b325ea95e6fec6cd69e7cb67e660379868cfed63006424e147e086db721"),
+            ("calvin05", "c/calvin/calcom05.xml", "228608eda64658283ba7672b84267f0a62615eec37abe72c2128ede9fce9ee7c"),
+            ("calvin06", "c/calvin/calcom06.xml", "de96d1361801c31a76db343b05fe227664184aeefeb365b895d1ecf3e7592ad6"),
+            ("calvin07", "c/calvin/calcom07.xml", "98657e5ee3b1564e7d16729a8fd4fc73b1f46439f02e750fdbe700488fc33879"),
+            ("calvin08", "c/calvin/calcom08.xml", "d536c3aef54fbece4f8411ee9e76279333c97cd321ce1fc99241da17ea917586"),
+            ("calvin09", "c/calvin/calcom09.xml", "ed4df1781f8f4fcc5c192adae0702a198f19176e2ae5e4790b34b5780971a591"),
+            ("calvin10", "c/calvin/calcom10.xml", "7663f8e936be7b2f896a01e146ac30e03884f6edc04f3fc65d2b97bb51f99070"),
+            ("calvin11", "c/calvin/calcom11.xml", "ba8b446e8df7599db0e8088704f5c108fab17a873f34df75f7449eb79b13d6ea"),
+            ("calvin12", "c/calvin/calcom12.xml", "53e9f7cb53092c67c71ed3f6b0bf6f625f0fcdc4b4f4272327c8939fb9e4b3de"),
+            ("calvin13", "c/calvin/calcom13.xml", "f87ca5809cf9d52d8a4dd90bca1453254f8d6518a1668f7af1418865cfd80043"),
+            ("calvin14", "c/calvin/calcom14.xml", "d4875806cb10179dd4ec51d38260c8d85150ac3272c38916858b06c25905c00d"),
+            ("calvin15", "c/calvin/calcom15.xml", "5470801c8e4f73adb79bc425d586298c79ec45ddb1f4ee69bebff0b2163a76dc"),
+            ("calvin16", "c/calvin/calcom16.xml", "14f5e0b5fb890e04a18d0907e3d9303d3bc7a5f91bc6958d13ee7fbe5dcb683c"),
+            ("calvin17", "c/calvin/calcom17.xml", "798e2868501737dbad1257ada4cc88415384bd0513dc89f5c3bd662108435b78"),
+            ("calvin18", "c/calvin/calcom18.xml", "2c7989b0bef3b1d9b5a8d5c977eb409d1ba7f515643f4f01a52a7bc0bb3dd5f9"),
+            ("calvin19", "c/calvin/calcom19.xml", "bdde519e98338ce70f1ebf26efc3040e57b716ef15ecb88af529095df0ae6249"),
+            ("calvin20", "c/calvin/calcom20.xml", "1fb1279732e1ec3820a9458094b74074c4146c8bb0f72ad4b775fd9cad1a3b00"),
+            ("calvin21", "c/calvin/calcom21.xml", "2cf559a316f8dd267805ea332e66c62300a45baf5c579bb105cd1ecc6fa8727b"),
+            ("calvin22", "c/calvin/calcom22.xml", "e1f87bee30d0c44206811f55508b83e30df6b4738c665c3e3e473646bcd4a8a0"),
+            ("calvin23", "c/calvin/calcom23.xml", "545b547bdaea2b48492da3530a4e369806c20dc734d13691014cac24e44970e9"),
+            ("calvin24", "c/calvin/calcom24.xml", "852e065780ef1969630ce55d7310c8df1029ab4e303d3b7efbf05626b84a2496"),
+            ("calvin25", "c/calvin/calcom25.xml", "a0d0e8a8afc1027bbd960a5ee6a6dfbefee08a5cb60fbcc74b1a1780bb0041e0"),
+            ("calvin26", "c/calvin/calcom26.xml", "fa11e0f55eb5228fb048abc3a79c93c03d877604274bf7a137ed68149dcb4ee5"),
+            ("calvin27", "c/calvin/calcom27.xml", "706711217a3b7e0bf3698bf855f5675371e41faf82bd6369874ff5051c94c171"),
+            ("calvin28", "c/calvin/calcom28.xml", "b88752f77e187112a3f920aa82e9aaa125f32765a9843daf3c94290f3dd44a67"),
+            ("calvin29", "c/calvin/calcom29.xml", "11295fba3e70f79968a46a1a499e7daef96d51e20552a517f1ae919d630d2054"),
+            ("calvin30", "c/calvin/calcom30.xml", "90e826641081bd15d455a799da7f60574d4394d884de75d6f351ade0d1763ab8"),
+            ("calvin31", "c/calvin/calcom31.xml", "4989da59aa4b29fd076d95bae451def22de137db54bd7c52eb070f544913b428"),
+            ("calvin32", "c/calvin/calcom32.xml", "a6a0045ee9a75603a35142bdcfa2fdeac79a9d867ea32b1e16cbc47a8c0d6681"),
+            ("calvin33", "c/calvin/calcom33.xml", "28cecf1fe7cdf9837f6760f8febb9bea5cee08ead5950596fa4dac1dfb4a98af"),
+            ("calvin34", "c/calvin/calcom34.xml", "69f6362ccb18d6e09c8c4aae165179b8dc4838ae19b268b3a3787fb6ed37c39a"),
+            ("calvin35", "c/calvin/calcom35.xml", "d4681c28a63055fa04fcd4883f8f9acf0e2614086bdfe40c0fd303bf26ddd035"),
+            ("calvin36", "c/calvin/calcom36.xml", "b48725d5eb77240b1bc4e5918d7141387811e9e2916e19f210a3cc75e6886af1"),
+            ("calvin37", "c/calvin/calcom37.xml", "a1ca28543d1700c301dfb9e72e9fa8646febd1575e76ae0bc91ddb95a871bf34"),
+            ("calvin38", "c/calvin/calcom38.xml", "83f148d977bb0e02928d209dd4cb2b19ebea440dd9c5e85fe3e73131fb53289c"),
+            ("calvin39", "c/calvin/calcom39.xml", "176ef9aa57b3973664dcf65d4ca12c1b7b319e51e8df7c270d237d6ad1aed012"),
+            ("calvin40", "c/calvin/calcom40.xml", "62b7b8c27c058d259cc4dc63564970ead43d516beeb9225b83a01c6d02fa1db2"),
+            ("calvin41", "c/calvin/calcom41.xml", "fac8c754eb4291391a28e94f9e285c40f9a5dfc43326f63a3438f65f9aa9aefd"),
+            ("calvin42", "c/calvin/calcom42.xml", "51096062bcf518040d5384f2597331b6e96dece4d0aaf2e5dda64c262dd921d2"),
+            ("calvin43", "c/calvin/calcom43.xml", "b5cdb241085c0eea44aa29388d88a53d2940ee0910cd43c39182f4a0c581528b"),
+            ("calvin44", "c/calvin/calcom44.xml", "b3bc9df38e418bc26ec525e01e9a4f59a41ca0b8f9c52ede49d880f0eac59827"),
+            ("calvin45", "c/calvin/calcom45.xml", "61ee8f73bf8a3f274bdf599c20631874a1070d489edf9fd659d572bfb20b1d1f")],
+        "drop_notes": True,         # the translators' footnotes are the editors', not Calvin's
+        "scans": [],
+    },
+    "clarke": {
         "kind": "scan",
         "title": "The Holy Bible ... with a Commentary and Critical Notes",
         "author": "Adam Clarke (1760?-1832)",
@@ -161,8 +226,9 @@ WORKS = {
 
 RIGHTS = {
     "license": "public-domain",
-    "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Clarke 1810-26 (read from"
-             " archive.org scans of the 1835-46 New York printings); every author died before 1931."
+    "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Calvin in the"
+             " Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46"
+             " New York printings); every author and translator died before 1931."
              " Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
     "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
     "redistribute_whole": True,
@@ -242,6 +308,8 @@ def print_source(s):
 _EVENT = re.compile(r"<scripCom\b([^>]*)/?>|<div(\d)\b([^>]*)>")
 _ATTR = re.compile(r'(\w+)="([^"]*)"')
 _DROP = re.compile(r"<h\d\b[^>]*>.*?</h\d>|<p\b[^>]*class=\"(?:Center|t8|passage)\"[^>]*>.*?</p>", re.S)
+_NOTE = re.compile(r"<note\b.*?</note>", re.S)
+_WESLEY_V = re.compile(r"<p\b[^>]*>\s*(\d{1,3})(?:\s*[,\-\u2013]\s*(\d{1,3}))?\.\s+")
 _PASSAGE = re.compile(r"<p\b[^>]*class=\"passage\"[^>]*>(.*?)</p>", re.S)
 
 
@@ -262,8 +330,11 @@ def comments(s, work):
             cur["raw"] += body[pos:m.start()]
         pos = m.end()
         if m.group(2):                                   # a division starts
-            close()
             a = dict(_ATTR.findall(m.group(3)))
+            if (WORKS.get(work, {}).get("split_verses") and cur is not None and cur["anchor"]
+                    and re.match(r"(?:Introduction to|Commentary on) Chapter", a.get("title", ""))):
+                continue                                 # Wesley's OT: a chapter's parts, after its mark
+            close()
             title = a.get("title", "")
             cm = re.match(r"(?:Chapter|CHAPTER|Psalm) (\d+)$", title)
             if cm:
@@ -313,6 +384,11 @@ def second_reading(c, work):
         if not m or c["chapter"] is None:
             return None
         return (b, c["chapter"], int(m.group(1)), c["chapter"], int(m.group(1)))
+    if work == "calvin":           # "<b>12.</b> <i>And Jesus entered</i>", in the mark's chapter
+        m = re.search(r"<b>\s*(\d{1,3})\.", _NOTE.sub("", c["raw"]))
+        if not m or c["anchor"][2] is None:
+            return None
+        return (b, ch, int(m.group(1)), ch, int(m.group(1)))
     if work == "barnes":
         m = re.match(r"(.+?) (\d+):(\d+)$", c["title"] or "")
         if not m or m.group(1) not in _FULL:
@@ -328,19 +404,64 @@ def anchor_check(c, work):
     a = c["anchor"]
     if a[2] is None:
         return "unread"
-    if work == "jfb":                      # a lemma opens the comment on its first verse
+    if work in ("jfb", "calvin"):          # a lemma opens the comment on its first verse
         return "agrees" if s[:3] == a[:3] else "differs"
     return "agrees" if (s[0], s[1], s[2], s[4]) == (a[0], a[1], a[2], a[4] if a[4] is not None else a[2]) else "differs"
 
 
-def cites(c):
-    """The comment's citations as candidates (the same vote as build_topical)."""
+def body(c, work):
+    """The comment's own markup: headings dropped, and the translators' footnotes where they are the editors'."""
     raw = _DROP.sub("", c["raw"])
+    return _NOTE.sub(" ", raw) if WORKS[work].get("drop_notes") else raw
+
+
+_KJV = {}
+
+
+def kjv_words(shape):
+    if "k" not in _KJV:
+        import structure_texts as S
+        _KJV["k"] = CR.Kjv({u["id"]: u["text"] for u in S.convert_kjv(KJV_TXT)["units"]}, shape)
+    return _KJV["k"]
+
+
+def split_verses(c, shape):
+    """Wesley: CCEL marks only the chapter, and each note opens with its verse
+    number ("5. And he opened his mouth - A phrase ..."). One comment per note;
+    the text before the first number is the chapter's introduction. The second
+    reading of each place is its lemma (the words before " - "), looked for in
+    the KJV verse it names."""
+    b, ch = c["anchor"][0], c["anchor"][1]
+    if c["anchor"][2] is not None or ch is None or b not in shape or ch not in shape[b]:
+        return [dict(c, check="unread")]
+    ms = list(_WESLEY_V.finditer(c["raw"]))
+    out = []
+    head = c["raw"][:ms[0].start()] if ms else c["raw"]
+    if R.plain(_DROP.sub("", head)):
+        out.append(dict(c, raw=head, check="unread"))
+    kjv = kjv_words(shape)
+    for i, m in enumerate(ms):
+        raw = c["raw"][m.start():ms[i + 1].start() if i + 1 < len(ms) else len(c["raw"])]
+        v, v2 = int(m.group(1)), int(m.group(2)) if m.group(2) else None
+        lemma = R.plain(raw[m.end() - m.start():]).split(" - ")[0][:160]
+        if CR.words(lemma) and len(CR.words(lemma)) >= 2 and 1 <= v <= shape[b][ch]:
+            here = kjv.sim(lemma, b, ch, v)
+            best = max(range(1, shape[b][ch] + 1), key=lambda x: (kjv.sim(lemma, b, ch, x), -abs(x - v)))
+            check = "agrees" if here >= CR.NEED else ("differs" if kjv.sim(lemma, b, ch, best) >= here + 0.5 else "unread")
+        else:
+            check = "unread"
+        out.append(dict(c, raw=raw, anchor=(b, ch, v, ch, v2 if v2 and v2 > v else v), check=check))
+    return out
+
+
+def cites(c, work):
+    """The comment's citations as candidates (the same vote as build_topical)."""
+    raw = body(c, work)
     tags = []
     for m in re.finditer(r"<scripRef\b([^>]*)>", raw):
         o = dict(_ATTR.findall(m.group(1))).get("osisRef", "")
         tags.append({"osis": re.sub(r"^Bible[^:]*:", "", o)})
-    para = {"text": R.plain(raw), "tagged": tags}
+    para = {"text": R.plain(raw), "tagged": tags, "roman_comma": WORKS[work].get("roman_comma", False)}
     return BT.candidates(para, here=c["anchor"][:2])
 
 
@@ -355,13 +476,16 @@ def build_work(work, shape):
             s = f.read()
         ps = print_source(s)
         sources.append({"file": name, "url": CCEL + rel, "sha256": want, **ps})
-        for c in comments(s, work):
+        cs = comments(s, work)
+        if d.get("split_verses"):
+            cs = [x for c in cs for x in split_verses(c, shape)]
+        for c in cs:
             on, why = BT.kjv_id(c["anchor"], shape, BT.APOCRYPHA)
             if on is None:
                 counts["anchor names no KJV verse"] += 1
                 rejected.append({"anchor": list(c["anchor"]), "why": why, "text": R.plain(c["raw"])[:300]})
                 continue
-            items.append((c, on, anchor_check(c, work), cites(c)))
+            items.append((c, on, c["check"] if "check" in c else anchor_check(c, work), cites(c, work)))
 
     # print: a citation that names its own book and chapter (not "ver. 3",
     # which only the comment's place resolves) is looked for in each printing,
@@ -422,7 +546,7 @@ def build_work(work, shape):
         rows.append(row)
         counts["comments"] += 1
         counts["citations"] += len(got)
-        prose.append({"id": uid, "text": R.plain(_DROP.sub("", c["raw"]))})
+        prose.append({"id": uid, "text": R.plain(body(c, work))})
     V = T.Verses(shape)
     covered = set()
     for r in rows:

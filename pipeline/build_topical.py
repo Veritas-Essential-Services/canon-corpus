@@ -197,7 +197,8 @@ def candidates(para, here=None):
         for o in t["osis"].split(" Bible:"):
             q = R.osis_parts(o)
             tags.append(q if q else ("?", o, None, None, None))
-    mine = [(r["book"], r["c"], r["v"], r["c2"], r["v2"]) for r in R.refs(para["text"], here=here)]
+    mine = [(r["book"], r["c"], r["v"], r["c2"], r["v2"])
+            for r in R.refs(para["text"], here=here, roman_comma=para.get("roman_comma", False))]
     out = []
     left = collections.Counter(x[:3] for x in tags)
     first = {}

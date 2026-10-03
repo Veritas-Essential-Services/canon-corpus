@@ -2,7 +2,7 @@
 
 <!-- prov: 2026-10-03 drafted (Claude Code) · fable_review: pending -->
 
-Five whole-Bible commentaries keyed to the KJV verse unit ids (`kjv:Gen.1.1`):
+Seven commentaries keyed to the KJV verse unit ids (`kjv:Gen.1.1`):
 which verses each comment is on, and which verses it cites. Nothing is minted.
 The ids are read from `data/uids/wordhoard.uids.json` and never written.
 
@@ -12,6 +12,8 @@ The ids are read from `data/uids/wordhoard.uids.json` and never written.
 | Jamieson, Fausset and Brown (1871) | 19,776 | 19,776 | 59,019 | CCEL |
 | Matthew Poole, *Annotations* (1683-85) | 26,208 | 26,208 | 55,433 (+16,020 margin parallels) | EEBO-TCP, hand-keyed first edition |
 | Albert Barnes, *Notes on the New Testament* | 7,947 | 7,947 | 39,586 | CCEL (keyed from Baker's 1949 reprint) |
+| John Wesley, *Explanatory Notes* (1755-66) | 19,073 | 28,160 | 3,151 | CCEL |
+| John Calvin, *Commentaries* (CTS English, 1843-55) | 14,041 | 16,363 | 17,102 | CCEL, 45 volumes |
 | Adam Clarke, *Commentary* (1810-26) | 18,129 | 18,129 | 9,100 | archive.org OCR of two printings of each Testament |
 
 ```
@@ -23,8 +25,12 @@ python3 pipeline/commentary.py kjv:John.3.16    # the comments on a verse, and t
 python3 tests/commentary_test.py                # the reader's commentary rules, fixtures, the committed layer
 ```
 
-Not taken here: Gill, Alford, Ellicott, Bengel and Keil-Delitzsch (the
-archive.org pickups thread has them; Gill is on lane A's shelves).
+Not taken here: Alford, Ellicott, Bengel and Keil-Delitzsch (the
+archive.org pickups thread, PR #11, has them). **Gill is not taken.** No keyed
+text exists. The open scans are scattered 18th-century volumes in long-s type
+(1758-65 Old Testament, an 1811 New Testament volume) with no second
+printing to vote against, and the complete uploads are modern retypings with
+no library provenance. Lane A's `gill_shelf.json` reached the same finding.
 
 ## 1. Rows
 
@@ -53,14 +59,24 @@ division. The second reading comes from the comment's own text, never the mark:
 - Henry: the verse numbers printed in the passage he quotes, first and last.
 - JFB: the verse number that opens the first lemma (`<b>13. pitieth</b>`).
 - Barnes: the division's title ("Matthew 2:14").
+- Calvin: the verse number that opens the comment (`<b>12.</b> <i>And Jesus
+  entered</i>`), in the mark's chapter.
+- Wesley: CCEL marks only the chapter. Each note opens with its verse number
+  ("5. And he opened his mouth - A phrase ..."), so the notes are split there.
+  The second reading is the lemma, the words before " - ", looked for in the
+  KJV verse the number names (`agrees` when half its words are there).
 
 | work | agrees | differs | unread |
 |---|---|---|---|
 | Henry | 4,232 | 19 | 1,166 |
 | JFB | 16,604 | 4 | 3,168 |
 | Barnes | 7,569 | 0 | 378 |
+| Wesley | 9,870 | 213 | 8,990 |
+| Calvin | 10,334 | 134 | 3,573 |
 
-"Unread" is mostly a comment with no quoted passage or lemma to read.
+"Unread" is mostly a comment with no quoted passage or lemma to read. Wesley's
+New Testament notes quote his own revision of the text, so many lemmas there
+do not match the KJV's words and are unread.
 
 **Poole.** His folio prints the KJV text with its verse numbers inline ("2. And
 the Earth", "33 And every"). His notes sit at the foot of the page, each keyed
@@ -93,6 +109,18 @@ The print check reads the archive.org OCR of open scans:
 
 A citation counts as printed only where it falls in the same run, aligned in
 order with GNU diff.
+
+Wesley and Calvin have no print check yet, so only citations both readings
+agree on are committed. Wesley loses most: CCEL's tagger reads none of his
+"ver. 3" references and only the first of "Acts xviii, 1, 2". 5,593
+references only the reader found go to `build/commentary/wesley.rejected.jsonl`
+(5,313 of them in the note's own chapter). Wesley prints "Luke iii, 31", a
+comma after the Roman chapter, which the reader takes only for him
+(`roman_comma`).
+
+Calvin's CTS volumes carry the translators' footnotes (French readings,
+cross-references). They are the editors' words, not Calvin's, so they are
+cut before his citations are read and are not in his prose.
 
 | work | both read it | found in print | CCEL only | found in print | reader only | found in print |
 |---|---|---|---|---|---|---|
@@ -137,6 +165,8 @@ how many at an unrelated verse, 1,000 verses on?
 | Barnes | 34.3% | 0.2% |
 | Poole, notes | 24.9% | 0.2% |
 | Poole, margin parallels | 68.0% | 0.2% |
+| Wesley | 45.1% | 0.1% |
+| Calvin | 14.2% | 0.2% |
 
 The check is a measure only. Nothing is kept or dropped by it. Henry's
 unrelated-verse figure is higher because his comments span whole sections.

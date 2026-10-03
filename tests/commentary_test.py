@@ -90,6 +90,21 @@ el = ET.fromstring(f'<note xmlns="{NS}" place="bottom">see Ier. <gap reason="ill
 check("Poole: an unread word is a mark, and an end-of-line hyphen joins",
       C.tcp_flat(el) == "see Ier. ◊ 51. 15. and Matthew 5. 3.")
 
+# ---- Wesley and Calvin (CCEL)
+check("Wesley: 'Luke iii, 31' is read only when asked (roman_comma)",
+      refs("Luke iii, 31; iv, 2.", roman_comma=True) == [("Luke", 3, 31, 31), ("Luke", 4, 2, 2)] and refs("Luke iii, 31.") == [])
+_w = {"anchor": ("Matt", 5, None, 5, None), "title": "", "chapter": None,
+      "raw": '<p id="a">Intro.</p><p id="b">1. And seeing the multitudes - At some distance.</p>'
+             '<p id="c">3. Happy are the poor - Who are unfeignedly penitent; see Luke vi, 20.</p>'}
+_ws = C.split_verses(_w, T.kjv_shape())
+check("Wesley: a chapter's notes split at their verse numbers, the lemma checked in the KJV verse",
+      [(x["anchor"][:3], x["check"]) for x in _ws] == [(("Matt", 5, None), "unread"), (("Matt", 5, 1), "agrees"), (("Matt", 5, 3), "agrees")])
+_c = {"anchor": ("Matt", 21, 13, 21, 13), "title": "", "chapter": None,
+      "raw": '<p><b>13.</b> <i>It is written.</i> from <scripRef osisRef="Bible:Isa.56.7">Isaiah 56:7</scripRef>'
+             '<note place="foot"><p>Compare Jer 7:11.</p></note></p>'}
+check("Calvin: the translators' footnotes are not Calvin's citations; '<b>13.</b>' is the second reading",
+      [x["t"][:3] for x in C.cites(_c, "calvin")] == [("Isa", 56, 7)] and C.anchor_check(_c, "calvin") == "agrees")
+
 # ---- Clarke, read from scans (clarke_read.py), on fixtures
 import clarke_read as CR
 check("Clarke: a note heading's Roman numeral through its OCR ('XLH' is 42, 'HI' is 3); 'NOTES.--' has none",
@@ -162,6 +177,8 @@ check("Clarke: a note placed in one printing only commits no citation",
       all(not r["cites"] for r in _cl if r["anchor"] == "one printing")
       and sum(r["anchor"] == "both printings" for r in _cl) > 12000)
 check("Clarke: no note cites its own verse", all(r["on"].split("-")[0] not in r["cites"] for r in _cl))
+check("Calvin: the CTS footnotes are dropped, the 45 CCEL volumes pinned", len(srcs["calvin"]) == 45
+      and C.WORKS["calvin"]["drop_notes"])
 check("Poole: two thirds of the margin's parallel places are the Treasury's too",
       man["layers"]["poole"]["treasury_check"]["parallels"]["in_treasury_at_that_verse"] > 0.6)
 col = json.load(open(os.path.join(D, "collation.json"), encoding="utf-8"))

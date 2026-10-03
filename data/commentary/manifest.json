@@ -2,7 +2,7 @@
  "about": "Whole-Bible commentaries keyed to KJV verse ids. pipeline/build_commentary.py; rules in pipeline/README-commentary.md",
  "rights": {
   "license": "public-domain",
-  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings); every author died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
+  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
   "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
   "redistribute_whole": true
  },
@@ -315,6 +315,475 @@
       "sha256": "88fdc365052dd5e037ce7e6d5d797b1a5b3ba8591f62b6b3755a706feb853e05",
       "ccel_print_source": "Grand Rapids, Mich. : Baker Book House, 1949.",
       "ccel_print_source_check": true,
+      "ccel_dc_rights": "Public Domain"
+     }
+    ]
+   }
+  },
+  "wesley": {
+   "file": "data/commentary/wesley.jsonl",
+   "sha256": "f8558f5de85251b76a5062da5c943734c7269c64b741380a17d490841e8876de",
+   "rows": 19073,
+   "counts": {
+    "anchor agrees": 9870,
+    "anchor differs": 213,
+    "anchor names no KJV verse": 8,
+    "anchor unread": 8990,
+    "citations": 3151,
+    "cite apocrypha": 5,
+    "cite both": 3179,
+    "cite ccel-only": 108,
+    "cite names no KJV verse": 3,
+    "cite reader-only": 5593,
+    "comments": 19073,
+    "verses_covered": 28160
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 3126,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "ccel-only": {
+     "refs": 102,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "reader-only": {
+     "refs": 280,
+     "printed": 0,
+     "share_printed": 0.0
+    }
+   },
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 2819,
+     "in_treasury_at_that_verse": 0.4505,
+     "in_treasury_at_an_unrelated_verse": 0.0014
+    }
+   },
+   "source": {
+    "title": "Explanatory Notes upon the Old and New Testaments",
+    "author": "John Wesley (1703-1791)",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "wesley",
+      "url": "https://ccel.org/ccel/w/wesley/notes.xml",
+      "sha256": "c4534a8964bb8900256ade116209e2bb114caab6100b098b20bf68b682e3fdce",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     }
+    ]
+   }
+  },
+  "calvin": {
+   "file": "data/commentary/calvin.jsonl",
+   "sha256": "79cb74492837d764f839b1bdbda9822ab4f0dedf7e0319c2683cdcaac7c19caa",
+   "rows": 14041,
+   "counts": {
+    "anchor agrees": 10334,
+    "anchor differs": 134,
+    "anchor unread": 3573,
+    "citations": 17102,
+    "cite apocrypha": 18,
+    "cite both": 17559,
+    "cite ccel-only": 787,
+    "cite names no KJV verse": 11,
+    "cite reader-only": 710,
+    "comments": 14041,
+    "verses_covered": 16363
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 12222,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "ccel-only": {
+     "refs": 389,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "reader-only": {
+     "refs": 493,
+     "printed": 0,
+     "share_printed": 0.0
+    }
+   },
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 14460,
+     "in_treasury_at_that_verse": 0.1416,
+     "in_treasury_at_an_unrelated_verse": 0.0022
+    }
+   },
+   "source": {
+    "title": "Commentaries (Calvin Translation Society, Edinburgh, 1843-55)",
+    "author": "John Calvin (1509-1564); translated and annotated by the Calvin Translation Society's editors",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "calvin01",
+      "url": "https://ccel.org/ccel/c/calvin/calcom01.xml",
+      "sha256": "4b700a5aa4f799f9363cc232cde85409a4f2ff58ebba6c82d9c4830ba83c7b33",
+      "ccel_print_source": "Baker, 1996",
+      "ccel_print_source_check": true,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin02",
+      "url": "https://ccel.org/ccel/c/calvin/calcom02.xml",
+      "sha256": "fa675fccdbe4d1ad0e555069e0c00c46d732974cc1989b1ca3df87bb073f0663",
+      "ccel_print_source": "Baker, 1996",
+      "ccel_print_source_check": true,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin03",
+      "url": "https://ccel.org/ccel/c/calvin/calcom03.xml",
+      "sha256": "5f153f44091059eff0d75451785cee7e3d0d9e63edecee645fe7b1b7c1dcaf53",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin04",
+      "url": "https://ccel.org/ccel/c/calvin/calcom04.xml",
+      "sha256": "d0af9b325ea95e6fec6cd69e7cb67e660379868cfed63006424e147e086db721",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin05",
+      "url": "https://ccel.org/ccel/c/calvin/calcom05.xml",
+      "sha256": "228608eda64658283ba7672b84267f0a62615eec37abe72c2128ede9fce9ee7c",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin06",
+      "url": "https://ccel.org/ccel/c/calvin/calcom06.xml",
+      "sha256": "de96d1361801c31a76db343b05fe227664184aeefeb365b895d1ecf3e7592ad6",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin07",
+      "url": "https://ccel.org/ccel/c/calvin/calcom07.xml",
+      "sha256": "98657e5ee3b1564e7d16729a8fd4fc73b1f46439f02e750fdbe700488fc33879",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin08",
+      "url": "https://ccel.org/ccel/c/calvin/calcom08.xml",
+      "sha256": "d536c3aef54fbece4f8411ee9e76279333c97cd321ce1fc99241da17ea917586",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin09",
+      "url": "https://ccel.org/ccel/c/calvin/calcom09.xml",
+      "sha256": "ed4df1781f8f4fcc5c192adae0702a198f19176e2ae5e4790b34b5780971a591",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin10",
+      "url": "https://ccel.org/ccel/c/calvin/calcom10.xml",
+      "sha256": "7663f8e936be7b2f896a01e146ac30e03884f6edc04f3fc65d2b97bb51f99070",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin11",
+      "url": "https://ccel.org/ccel/c/calvin/calcom11.xml",
+      "sha256": "ba8b446e8df7599db0e8088704f5c108fab17a873f34df75f7449eb79b13d6ea",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin12",
+      "url": "https://ccel.org/ccel/c/calvin/calcom12.xml",
+      "sha256": "53e9f7cb53092c67c71ed3f6b0bf6f625f0fcdc4b4f4272327c8939fb9e4b3de",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin13",
+      "url": "https://ccel.org/ccel/c/calvin/calcom13.xml",
+      "sha256": "f87ca5809cf9d52d8a4dd90bca1453254f8d6518a1668f7af1418865cfd80043",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin14",
+      "url": "https://ccel.org/ccel/c/calvin/calcom14.xml",
+      "sha256": "d4875806cb10179dd4ec51d38260c8d85150ac3272c38916858b06c25905c00d",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin15",
+      "url": "https://ccel.org/ccel/c/calvin/calcom15.xml",
+      "sha256": "5470801c8e4f73adb79bc425d586298c79ec45ddb1f4ee69bebff0b2163a76dc",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin16",
+      "url": "https://ccel.org/ccel/c/calvin/calcom16.xml",
+      "sha256": "14f5e0b5fb890e04a18d0907e3d9303d3bc7a5f91bc6958d13ee7fbe5dcb683c",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin17",
+      "url": "https://ccel.org/ccel/c/calvin/calcom17.xml",
+      "sha256": "798e2868501737dbad1257ada4cc88415384bd0513dc89f5c3bd662108435b78",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin18",
+      "url": "https://ccel.org/ccel/c/calvin/calcom18.xml",
+      "sha256": "2c7989b0bef3b1d9b5a8d5c977eb409d1ba7f515643f4f01a52a7bc0bb3dd5f9",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin19",
+      "url": "https://ccel.org/ccel/c/calvin/calcom19.xml",
+      "sha256": "bdde519e98338ce70f1ebf26efc3040e57b716ef15ecb88af529095df0ae6249",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin20",
+      "url": "https://ccel.org/ccel/c/calvin/calcom20.xml",
+      "sha256": "1fb1279732e1ec3820a9458094b74074c4146c8bb0f72ad4b775fd9cad1a3b00",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin21",
+      "url": "https://ccel.org/ccel/c/calvin/calcom21.xml",
+      "sha256": "2cf559a316f8dd267805ea332e66c62300a45baf5c579bb105cd1ecc6fa8727b",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin22",
+      "url": "https://ccel.org/ccel/c/calvin/calcom22.xml",
+      "sha256": "e1f87bee30d0c44206811f55508b83e30df6b4738c665c3e3e473646bcd4a8a0",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin23",
+      "url": "https://ccel.org/ccel/c/calvin/calcom23.xml",
+      "sha256": "545b547bdaea2b48492da3530a4e369806c20dc734d13691014cac24e44970e9",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin24",
+      "url": "https://ccel.org/ccel/c/calvin/calcom24.xml",
+      "sha256": "852e065780ef1969630ce55d7310c8df1029ab4e303d3b7efbf05626b84a2496",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin25",
+      "url": "https://ccel.org/ccel/c/calvin/calcom25.xml",
+      "sha256": "a0d0e8a8afc1027bbd960a5ee6a6dfbefee08a5cb60fbcc74b1a1780bb0041e0",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin26",
+      "url": "https://ccel.org/ccel/c/calvin/calcom26.xml",
+      "sha256": "fa11e0f55eb5228fb048abc3a79c93c03d877604274bf7a137ed68149dcb4ee5",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin27",
+      "url": "https://ccel.org/ccel/c/calvin/calcom27.xml",
+      "sha256": "706711217a3b7e0bf3698bf855f5675371e41faf82bd6369874ff5051c94c171",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin28",
+      "url": "https://ccel.org/ccel/c/calvin/calcom28.xml",
+      "sha256": "b88752f77e187112a3f920aa82e9aaa125f32765a9843daf3c94290f3dd44a67",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin29",
+      "url": "https://ccel.org/ccel/c/calvin/calcom29.xml",
+      "sha256": "11295fba3e70f79968a46a1a499e7daef96d51e20552a517f1ae919d630d2054",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin30",
+      "url": "https://ccel.org/ccel/c/calvin/calcom30.xml",
+      "sha256": "90e826641081bd15d455a799da7f60574d4394d884de75d6f351ade0d1763ab8",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin31",
+      "url": "https://ccel.org/ccel/c/calvin/calcom31.xml",
+      "sha256": "4989da59aa4b29fd076d95bae451def22de137db54bd7c52eb070f544913b428",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin32",
+      "url": "https://ccel.org/ccel/c/calvin/calcom32.xml",
+      "sha256": "a6a0045ee9a75603a35142bdcfa2fdeac79a9d867ea32b1e16cbc47a8c0d6681",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin33",
+      "url": "https://ccel.org/ccel/c/calvin/calcom33.xml",
+      "sha256": "28cecf1fe7cdf9837f6760f8febb9bea5cee08ead5950596fa4dac1dfb4a98af",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin34",
+      "url": "https://ccel.org/ccel/c/calvin/calcom34.xml",
+      "sha256": "69f6362ccb18d6e09c8c4aae165179b8dc4838ae19b268b3a3787fb6ed37c39a",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin35",
+      "url": "https://ccel.org/ccel/c/calvin/calcom35.xml",
+      "sha256": "d4681c28a63055fa04fcd4883f8f9acf0e2614086bdfe40c0fd303bf26ddd035",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin36",
+      "url": "https://ccel.org/ccel/c/calvin/calcom36.xml",
+      "sha256": "b48725d5eb77240b1bc4e5918d7141387811e9e2916e19f210a3cc75e6886af1",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin37",
+      "url": "https://ccel.org/ccel/c/calvin/calcom37.xml",
+      "sha256": "a1ca28543d1700c301dfb9e72e9fa8646febd1575e76ae0bc91ddb95a871bf34",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin38",
+      "url": "https://ccel.org/ccel/c/calvin/calcom38.xml",
+      "sha256": "83f148d977bb0e02928d209dd4cb2b19ebea440dd9c5e85fe3e73131fb53289c",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin39",
+      "url": "https://ccel.org/ccel/c/calvin/calcom39.xml",
+      "sha256": "176ef9aa57b3973664dcf65d4ca12c1b7b319e51e8df7c270d237d6ad1aed012",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin40",
+      "url": "https://ccel.org/ccel/c/calvin/calcom40.xml",
+      "sha256": "62b7b8c27c058d259cc4dc63564970ead43d516beeb9225b83a01c6d02fa1db2",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin41",
+      "url": "https://ccel.org/ccel/c/calvin/calcom41.xml",
+      "sha256": "fac8c754eb4291391a28e94f9e285c40f9a5dfc43326f63a3438f65f9aa9aefd",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin42",
+      "url": "https://ccel.org/ccel/c/calvin/calcom42.xml",
+      "sha256": "51096062bcf518040d5384f2597331b6e96dece4d0aaf2e5dda64c262dd921d2",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin43",
+      "url": "https://ccel.org/ccel/c/calvin/calcom43.xml",
+      "sha256": "b5cdb241085c0eea44aa29388d88a53d2940ee0910cd43c39182f4a0c581528b",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin44",
+      "url": "https://ccel.org/ccel/c/calvin/calcom44.xml",
+      "sha256": "b3bc9df38e418bc26ec525e01e9a4f59a41ca0b8f9c52ede49d880f0eac59827",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": "Public Domain"
+     },
+     {
+      "file": "calvin45",
+      "url": "https://ccel.org/ccel/c/calvin/calcom45.xml",
+      "sha256": "61ee8f73bf8a3f274bdf599c20631874a1070d489edf9fd659d572bfb20b1d1f",
+      "ccel_print_source": "",
+      "ccel_print_source_check": false,
       "ccel_dc_rights": "Public Domain"
      }
     ]

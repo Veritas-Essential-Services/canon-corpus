@@ -136,6 +136,8 @@ _NUM = r"\d{1,3}"
 _CV = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)" % (_NUM, _NUM))
 _CV_POINT = re.compile(r"\s*(?:(?P<c>%s)\s*(?::|\.(?=\s*\d))\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)(?!\s?[A-Z][a-z]{0,13}\.?\s*\d)" % (_NUM, _NUM))
 
+_CV_COMMA = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})[.,]\s*)(?P<v>%s)" % (_NUM, _NUM))
+
 
 def _chap(cv):
     return int(cv.group("c")) if cv.group("c") else _roman(cv.group("r"))
@@ -171,7 +173,7 @@ def book_of(ordinal, name, forms=FORM):
     return b
 
 
-def refs(text, here=None, point=False, old=False):
+def refs(text, here=None, point=False, old=False, roman_comma=False):
     """Every reference in text, in order: [{"book", "c", "v", "c2", "v2", "at"}].
     A book carries over to a following "c:v" after ";" or "," and to bare
     verse numbers after "," or "and"; a range ends at a verse ("16-20") or a
@@ -186,8 +188,11 @@ def refs(text, here=None, point=False, old=False):
     point=True also reads "Genesis 19. 1" (JFB's 1873 printing): only for
     the commentaries' print check, where a point after a chapter is the colon.
     The topical books' scans print "Gen. 19. 1" too rarely to need it, and
-    there it misreads more than it finds."""
-    _CV = _CV_POINT if point else globals()["_CV"]
+    there it misreads more than it finds.
+
+    roman_comma=True also reads a comma after a Roman chapter ("Luke iii, 31"),
+    as CCEL's Wesley prints them."""
+    _CV = _CV_POINT if point else (_CV_COMMA if roman_comma else globals()["_CV"])
     forms = FORM_OLD if old else FORM
     out = []
     text = text.replace("\u2014", "-").replace("\u2013", "-")
