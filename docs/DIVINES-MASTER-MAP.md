@@ -1984,6 +1984,15 @@ Slugs `muller-*`. Name forms are full forms only (no bare "müller": F. Max Mül
 |---|---|---|
 | A Narrative of Some of the Lord's Dealings with George Müller, parts 1-4; Answers to Prayer (comp. A. E. C. Brooks) | have-clean | Gutenberg |
 | The Life of Trust (ed. H. Lincoln Wayland, 1861) | alternate | Gutenberg 27288, an abridgement of the Narrative |
+
+## C. H. Mackintosh (round 12, my pick, 2026-10-03)
+
+Slugs `mackintosh-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Notes on Genesis, Exodus, Leviticus, Numbers, Deuteronomy (2 vols) | have-clean | Gutenberg |
+| Miscellaneous Writings, vols. I-VI | have-clean | Gutenberg |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

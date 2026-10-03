@@ -239,6 +239,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | John McLeod Campbell (veto point: deposed 1831 over universal atonement) | john-mcleod-campbell_shelf.json | 1 CCEL (The Nature of the Atonement, keyed from Macmillan 1905) | none | none | none |
 | D. L. Moody | d-l-moody_shelf.json | 1 CCEL (Anecdotes, Rhodes & McClure 1899) + 10 Gutenberg (sermons and addresses; none marked COPYRIGHTED) | none | none | none |
 | George Müller | george-muller_shelf.json | 5 Gutenberg (Narrative parts 1-4; Answers to Prayer, compiled by A. E. C. Brooks) | none | none | Life of Trust (Wayland abridgement) left out as a second copy |
+| C. H. Mackintosh | c-h-mackintosh_shelf.json | 12 Gutenberg (Notes on the Pentateuch, 6 vols; Miscellaneous Writings, 6 vols) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

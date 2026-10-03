@@ -574,3 +574,6 @@
 
 ## 2026-10-03 05:58 CDT — george-muller done
 - `pipeline/george-muller_shelf.json`: 5 Gutenberg texts, none marked COPYRIGHTED. Editors read from the texts (Brooks; Wayland for the alternate). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:58 CDT — c-h-mackintosh done
+- `pipeline/c-h-mackintosh_shelf.json`: 12 Gutenberg texts, none marked COPYRIGHTED. `--verify --record`: 0 mismatched. 0 uids minted.

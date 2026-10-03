@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain C. H. Mackintosh (Charles Henry Mackintosh, 1820-1896, Irish Plymouth Brethren writer, 'C.H.M.') for the Word Hoard: the Notes on the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy in two volumes) and the six volumes of his Miscellaneous Writings, clean from Project Gutenberg (rights lines checked by the fetcher). Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mackintosh",
+  "charles"
+ ],
+ "_surname": [
+  "c. h. mackintosh",
+  "c.h. mackintosh",
+  "charles henry mackintosh",
+  "c. h. m.",
+  "c.h.m.",
+  "mackintosh, c. h",
+  "mackintosh"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "mackintosh-genesis": [
+   "37915",
+   "Notes on the Book of Genesis"
+  ],
+  "mackintosh-exodus": [
+   "40596",
+   "Notes on the Book of Exodus"
+  ],
+  "mackintosh-leviticus": [
+   "40610",
+   "Notes on the Book of Leviticus"
+  ],
+  "mackintosh-numbers": [
+   "76552",
+   "Notes on the Book of Numbers"
+  ],
+  "mackintosh-deuteronomy-1": [
+   "41571",
+   "Notes on the Book of Deuteronomy, Volume I"
+  ],
+  "mackintosh-deuteronomy-2": [
+   "41584",
+   "Notes on the Book of Deuteronomy, Volume II"
+  ],
+  "mackintosh-misc-1": [
+   "41502",
+   "The All-Sufficiency of Christ. Miscellaneous Writings, vol. I"
+  ],
+  "mackintosh-misc-2": [
+   "40556",
+   "The Lord's Coming. Miscellaneous Writings, vol. II"
+  ],
+  "mackintosh-misc-3": [
+   "37274",
+   "The Assembly of God. Miscellaneous Writings, vol. III"
+  ],
+  "mackintosh-misc-4": [
+   "40575",
+   "The Great Commission. Miscellaneous Writings, vol. IV"
+  ],
+  "mackintosh-misc-5": [
+   "40515",
+   "Elijah the Tishbite. Miscellaneous Writings, vol. V"
+  ],
+  "mackintosh-misc-6": [
+   "42343",
+   "Life and Times of David. Miscellaneous Writings, vol. VI"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "mackintosh-genesis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles henry mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-exodus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-leviticus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-numbers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-deuteronomy-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-deuteronomy-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-misc-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-misc-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-misc-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-misc-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-misc-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-misc-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. h. mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
