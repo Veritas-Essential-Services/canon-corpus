@@ -18,6 +18,11 @@
    "ecloguesofcalpur00calprich",
    "The Eclogues of Calpurnius, rendered into English verse (George Bell, 1890)",
    "tr. Edward J. L. Scott"
+  ],
+  "publilius-lyman-1856": [
+   "bub_gb__QQSAAAAIAAJ",
+   "The Moral Sayings of Publius Syrus, a Roman Slave, from the Latin (Cleveland: Barnard, 1856)",
+   "tr. D. Lyman, Jun."
   ]
  },
  "_surname": [
@@ -30,10 +35,15 @@
  "_surname_by_slug": {
   "calpurnius-scott-1890": [
    "calpurnius"
+  ],
+  "publilius-lyman-1856": [
+   "publius syrus",
+   "publilius syrus"
   ]
  },
  "_translators": {
-  "calpurnius-scott-1890": "Edward J. L. Scott"
+  "calpurnius-scott-1890": "Edward J. L. Scott",
+  "publilius-lyman-1856": "Lyman"
  },
  "_checks": {
   "calpurnius-scott-1890": {
@@ -47,6 +57,19 @@
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "publilius-lyman-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "publius syrus",
+   "translator_claimed": "Lyman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
