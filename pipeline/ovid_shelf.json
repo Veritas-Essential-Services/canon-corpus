@@ -58,11 +58,6 @@
    "Shakespeare's Ovid: being Arthur Golding's translation of the Metamorphoses (ed. W. H. D. Rouse, 1904)",
    "tr. Arthur Golding (verse, 1567)"
   ],
-  "ovid-miller-metamorphoses-v1": [
-   "metamorphoses01ovid",
-   "Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916)",
-   "tr. Frank Justus Miller"
-  ],
   "ovid-miller-metamorphoses-v2": [
    "metamorphoseswit02oviduoft",
    "Metamorphoses, vol. 2: Books IX-XV (Loeb, 1916)",
@@ -120,7 +115,6 @@
   "ovid-riley-heroides-1852": "Henry T. Riley",
   "ovid-riley-fasti-tristia-1851": "Henry T. Riley",
   "ovid-golding-metamorphoses": "Arthur Golding",
-  "ovid-miller-metamorphoses-v1": "Frank Justus Miller",
   "ovid-miller-metamorphoses-v2": "Frank Justus Miller",
   "ovid-showerman-heroides-amores": "Grant Showerman",
   "ovid-wheeler-tristia-ponto": "Arthur Leslie Wheeler",
@@ -238,19 +232,6 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   },
-  "ovid-miller-metamorphoses-v1": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "ovid",
-   "translator_claimed": "Frank Justus Miller",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1916",
-   "ia_date": "1916",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
   "ovid-miller-metamorphoses-v2": {
    "kind": "ia",
    "checked": "2026-10-03",
@@ -303,5 +284,8 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_held": {
+  "ovid-miller-metamorphoses-v1": "held back on rights, not fetched: the scan is a 1970s reprint of the 1921 second edition carrying an added bibliography (items of 1963 to the 1970s), which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA metamorphoses01ovid: Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916)"
  }
 }

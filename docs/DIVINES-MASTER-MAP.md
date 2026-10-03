@@ -1306,7 +1306,7 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | Heroides (Canace, Helen, Dido); Ars I; Amores I.1, I.4 | Dryden | `dryden-ovid-epistles`, `dryden-ovid-art-of-love`, `dryden-ovid-amores` | cross-ref → Dryden shelf (lane C) |
 | Amores (All Ovid's Elegies) | Christopher Marlowe | — | pending: inside Marlowe's Works vol. 3 (PG 21262); belongs on a Marlowe shelf |
 | Metamorphoses | Brookes More (1922–33) | — | pending: only Book I (1922) is on IA; the complete text is not cleared |
-| Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v1` | have-raw (IA `metamorphoses01ovid`) |
+| Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v1` | held: the scan is a 1970s reprint of the 1921 second edition carrying an added bibliography (items of 1963 to the 1970s), which is not public domain; not fetched (see `_held`) |
 | Metamorphoses, vol. 2: Books IX-XV (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v2` | have-raw (IA `metamorphoseswit02oviduoft`) |
 | Heroides and Amores (Loeb, 1914) | Grant Showerman | `ovid-showerman-heroides-amores` | have-raw (IA `heroidesamores00ovid`) |
 | Tristia, Ex Ponto (Loeb, 1924) | Arthur Leslie Wheeler | `ovid-wheeler-tristia-ponto` | have-raw (IA `bwb_W9-CQC-386`) |
@@ -1845,7 +1845,7 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Lives of the Twelve Caesars, complete | Alexander Thomson, rev. T. Forester | `suetonius-thomson-forester` | have (PG 6400) |
-| Suetonius, vol. 1 (Loeb, 1913) | J. C. Rolfe | `suetonius-rolfe-v1` | have-raw (IA `suetonius01suet`) |
+| Suetonius, vol. 1 (Loeb, 1913) | J. C. Rolfe | `suetonius-rolfe-v1` | held: the scan is the 1951 revised printing ('Revised and Reprinted 1951') with an 'Editor's Note (1979)': the text is not the 1913 one; not fetched (see `_held`) |
 | Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
 | The Deified Julius | John C. Rolfe | `suetonius-perseus-rolfe-the-deified-julius` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Historie of Twelve Caesars, Emperours of Rome (London, 1606) | Philemon Holland | `suetonius-holland-1606` | have-raw (IA `suetoniushollandtwelvecaesars`) |
@@ -1982,7 +1982,7 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | The Comedies of Plautus, vol. 1 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v1` | have-raw (IA `comediesofplautu01plauuoft`) |
 | The Comedies of Plautus, vol. 2 (Bohn; 1913 printing) | Henry T. Riley | `plautus-riley-comedies-v2` | have-raw (IA `comediesofplautu02plauuoft`) |
 | Plautus, vol. 2: Casina, The Casket Comedy, Curculio, Epidicus, Menaechmi (Loeb, 1917) | Paul Nixon | `plautus-nixon-v2` | have-raw (IA `plautusvolume00plaugoog`) |
-| Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | have-raw (IA `plautus03plau`); the scan is a later reprint whose 1979 bibliographical note is not PD: drop it in conversion |
+| Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | held: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain; not fetched (see `_held`) |
 | Terence, vol. 1 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v1` | have-raw (IA `terence000ijohn`) |
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
 
@@ -2123,7 +2123,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Cicero: Letters to Atticus, vols. 1-3 (Loeb) | E. O. Winstedt (Latin facing kept) | `cicero-winstedt-atticus-v1..v3` | have (PG 58418, 50692, 51403) |
 | The Letters to his Friends, vol. 1 (Loeb, 1927) | W. Glynn Williams | `cicero-williams-friends-v1` | have-raw (IA `letterstohisfrie01ciceuoft`) |
 | The Letters to his Friends, vol. 2 (Loeb, 1928) | W. Glynn Williams | `cicero-williams-friends-v2` | have-raw (IA `letterstohisfrie02ciceuoft`) |
-| The Letters to his Friends, vol. 3 (Loeb, 1929) | W. Glynn Williams | `cicero-williams-friends-v3` | have-raw (IA `letterstohisfrie03ciceuoft`) |
+| The Letters to his Friends, vol. 3 (Loeb, 1929) | W. Glynn Williams | `cicero-williams-friends-v3` | held: the scan is the 1954 printing ('Revised and with additions 1954'): the text is not the 1929 one; not fetched (see `_held`) |
 | De Finibus Bonorum et Malorum (Loeb, 1914) | H. Rackham | `cicero-rackham-de-finibus` | have-raw (IA `definibusbonoru02cicegoog`) |
 | De Senectute, De Amicitia, De Divinatione (Loeb, 1923) | W. A. Falconer | `cicero-falconer-senectute-amicitia-divinatione` | have-raw (IA `cicerodesenectut0000will_n8p4`) |
 | Philippics (Loeb, 1926) | Walter C. A. Ker | `cicero-ker-philippics` | have-raw (IA `philippics00ciceuoft`) |
@@ -2380,7 +2380,7 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
-| The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | have (PG 48664) |
+| The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
 
 Pending (wishlist): Wright vol. 3 (1923)
@@ -2628,7 +2628,7 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
-| The Institutio Oratoria of Quintilian, vol. 1: Books I-III | H. E. Butler | `quintilian-butler-v1` | have-raw (IA `institutioorator00quin`) |
+| The Institutio Oratoria of Quintilian, vol. 1: Books I-III | H. E. Butler | `quintilian-butler-v1` | held: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain; not fetched (see `_held`) |
 | The Institutio Oratoria of Quintilian, vol. 2: Books IV-VI | H. E. Butler | `quintilian-butler-v2` | have-raw (IA `institutioorator02quin`) |
 | The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX | H. E. Butler | `quintilian-butler-v3` | have-raw (IA `institutioorator03quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 4: Books X-XII | H. E. Butler | `quintilian-butler-v4` | have-raw (IA `institutioorator04quinuoft`) |

@@ -6,11 +6,6 @@
  ],
  "ccel": {},
  "gutenberg": {
-  "julian-wright-v1": [
-   48664,
-   "The Works of the Emperor Julian, vol. 1",
-   "tr. Wilmer Cave Wright"
-  ],
   "julian-wright-v2": [
    48768,
    "The Works of the Emperor Julian, vol. 2",
@@ -26,22 +21,9 @@
   "julianus"
  ],
  "_translators": {
-  "julian-wright-v1": "Wilmer Cave Wright",
   "julian-wright-v2": "Wilmer Cave Wright"
  },
  "_checks": {
-  "julian-wright-v1": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "julian",
-   "translator_claimed": "Wilmer Cave Wright",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "Wilmer Cave Wright",
-   "translator_match": true
-  },
   "julian-wright-v2": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
@@ -54,5 +36,8 @@
    "pg_translator": "Wilmer Cave Wright",
    "translator_match": true
   }
+ },
+ "_held": {
+  "julian-wright-v1": "held back on rights, not fetched: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was PG 48664: The Works of the Emperor Julian, vol. 1"
  }
 }

@@ -8,11 +8,6 @@
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
-  "quintilian-butler-v1": [
-   "institutioorator00quin",
-   "The Institutio Oratoria of Quintilian, vol. 1: Books I-III",
-   "tr. H. E. Butler"
-  ],
   "quintilian-butler-v2": [
    "institutioorator02quin",
    "The Institutio Oratoria of Quintilian, vol. 2: Books IV-VI",
@@ -38,25 +33,11 @@
   "quintilianus"
  ],
  "_translators": {
-  "quintilian-butler-v1": "H. E. Butler",
   "quintilian-butler-v2": "H. E. Butler",
   "quintilian-butler-v3": "H. E. Butler",
   "quintilian-butler-v4": "H. E. Butler"
  },
  "_checks": {
-  "quintilian-butler-v1": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "quintilian",
-   "translator_claimed": "H. E. Butler",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1920",
-   "ia_date": "[1920-22]",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
   "quintilian-butler-v2": {
    "kind": "ia",
    "checked": "2026-10-03",
@@ -96,5 +77,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_held": {
+  "quintilian-butler-v1": "held back on rights, not fetched: the scan is a reprint of the 1920 translation carrying a 'Bibliographical Addendum (1980)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA institutioorator00quin: The Institutio Oratoria of Quintilian, vol. 1: Books I-III"
  }
 }

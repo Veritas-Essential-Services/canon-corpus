@@ -114,11 +114,6 @@
    "The Letters to his Friends, vol. 2 (Loeb, 1928)",
    "tr. W. Glynn Williams"
   ],
-  "cicero-williams-friends-v3": [
-   "letterstohisfrie03ciceuoft",
-   "The Letters to his Friends, vol. 3 (Loeb, 1929)",
-   "tr. W. Glynn Williams"
-  ],
   "cicero-rackham-de-finibus": [
    "definibusbonoru02cicegoog",
    "De Finibus Bonorum et Malorum (Loeb, 1914)",
@@ -190,7 +185,6 @@
   "cicero-shuckburgh-letters-v4": "Evelyn S. Shuckburgh",
   "cicero-williams-friends-v1": "W. Glynn Williams",
   "cicero-williams-friends-v2": "W. Glynn Williams",
-  "cicero-williams-friends-v3": "W. Glynn Williams",
   "cicero-rackham-de-finibus": "H. Rackham",
   "cicero-falconer-senectute-amicitia-divinatione": "W. A. Falconer",
   "cicero-greenwood-verrines-v1": "L. H. G. Greenwood",
@@ -463,19 +457,6 @@
    "ia_possible_copyright_status": "Permission Granted to Digitize Item",
    "ia_lending": null
   },
-  "cicero-williams-friends-v3": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "cicero",
-   "translator_claimed": "W. Glynn Williams",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1927",
-   "ia_date": "1927",
-   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
-   "ia_lending": null
-  },
   "cicero-rackham-de-finibus": {
    "kind": "ia",
    "checked": "2026-10-03",
@@ -576,5 +557,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_held": {
+  "cicero-williams-friends-v3": "held back on rights, not fetched: the scan is the 1954 printing ('Revised and with additions 1954'): the text is not the 1929 one. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA letterstohisfrie03ciceuoft: The Letters to his Friends, vol. 3 (Loeb, 1929)"
  }
 }

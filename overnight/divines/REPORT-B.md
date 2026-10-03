@@ -212,3 +212,6 @@
 - fetch_shelf.py: PG `Translators?:` header, whole-word translator match.
 - Stale rows fixed: Nixon vol. 2 exclusion, Sophocles Plumptre exclusion, Nixon vol. 3 date (1924 is right; the scan is a reprint with a 1979 note, flagged), Perseus counts in DIGEST-B.
 - All 97 lane B shelves re-recorded: `fetch_shelf.py --verify --record` 0 mismatched; `fetch_perseus.py --verify --record` 0 failed.
+
+## 2026-10-02 21:25 CDT — later-matter sweep
+- Swept every lane B text's front matter for post-1930 revisions or addenda. Six held back on rights (`_held`, not fetched, local copies removed): suetonius-rolfe-v1 (revised 1951), cicero-williams-friends-v3 (revised 1954), plautus-nixon-v3 (1979 note), quintilian-butler-v1 (1980 addendum), ovid-miller-metamorphoses-v1 (1960s-70s bibliography), julian-wright-v1 (PG transcription includes the 1980 addendum). Other later dates found were reprint lines or library stamps.

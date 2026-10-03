@@ -13,11 +13,6 @@
   ]
  },
  "internet_archive": {
-  "suetonius-rolfe-v1": [
-   "suetonius01suet",
-   "Suetonius, vol. 1 (Loeb, 1913)",
-   "tr. J. C. Rolfe"
-  ],
   "suetonius-rolfe-v2": [
    "suetonius02suetuoft",
    "Suetonius, vol. 2 (Loeb, 1914)",
@@ -38,7 +33,6 @@
  ],
  "_translators": {
   "suetonius-thomson-forester": "Alexander Thomson",
-  "suetonius-rolfe-v1": "J. C. Rolfe",
   "suetonius-rolfe-v2": "J. C. Rolfe",
   "suetonius-holland-1606": "philémon holland"
  },
@@ -54,19 +48,6 @@
    "pg_copyrighted": false,
    "pg_translator": "M.D. Alexander Thomson",
    "translator_match": true
-  },
-  "suetonius-rolfe-v1": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "suetonius",
-   "translator_claimed": "J. C. Rolfe",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1913",
-   "ia_date": "1913",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
   },
   "suetonius-rolfe-v2": {
    "kind": "ia",
@@ -96,6 +77,7 @@
   }
  },
  "_held": {
-  "suetonius-perseus-rolfe-the-deified-julius": "same translation as suetonius-rolfe-v1/v2 (IA): Rolfe's Loeb on this shelf; Perseus TEI urn:cts:latinLit:phi1348.abo011.rolfe-eng1 (The Deified Julius, tr. John C. Rolfe) is not taken as a second witness (moved here on review, 2026-10-02)"
+  "suetonius-perseus-rolfe-the-deified-julius": "same translation as suetonius-rolfe-v1/v2 (IA): Rolfe's Loeb on this shelf; Perseus TEI urn:cts:latinLit:phi1348.abo011.rolfe-eng1 (The Deified Julius, tr. John C. Rolfe) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "suetonius-rolfe-v1": "held back on rights, not fetched: the scan is the 1951 revised printing ('Revised and Reprinted 1951') with an 'Editor's Note (1979)': the text is not the 1913 one. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA suetonius01suet: Suetonius, vol. 1 (Loeb, 1913)"
  }
 }
