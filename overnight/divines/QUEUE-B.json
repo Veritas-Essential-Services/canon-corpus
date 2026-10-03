@@ -620,6 +620,14 @@
    "started": "2026-10-03T02:13:18-05:00",
    "finished": "2026-10-03T02:15:39-05:00",
    "notes": "Swan Sonnenschein 1902; translator named on the title page; rights gate passed (pre-1930 printing)."
+  },
+  {
+   "id": "arrian-mccrindle-invasion",
+   "status": "done",
+   "scope": "McCrindle's Invasion of India (1893)",
+   "started": "2026-10-03T02:15:39-05:00",
+   "finished": "2026-10-03T02:17:07-05:00",
+   "notes": "Cornell copy, OCR 0.92; title page prints M'Crindle; Constable 1893."
   }
  ]
 }

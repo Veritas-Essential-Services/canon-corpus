@@ -373,3 +373,6 @@
 ## 2026-10-03 02:15 CDT — Seneca tragedies (Bradshaw)
 - Seneca: Watson Bradshaw's prose Ten Tragedies (Swan Sonnenschein, 1902)
 - Tenne Tragedies (Tudor Translations, 1927) still held for Adam (Eliot introduction)
+
+## 2026-10-03 02:17 CDT — Arrian and others (McCrindle)
+- Arrian shelf: McCrindle's Invasion of India by Alexander the Great (Constable, 1893), Arrian, Curtius, Diodoros, Plutarch, Justin
