@@ -476,3 +476,9 @@
 - propertius: Phillimore 1906; tacitus: Ramsay's Annals (2 vols.); sallust: Pollard 1882; martial: Nixon 1911
 - Refused on OCR: Cholmeley's Theocritus, the 1720 Tibullus, Nott vol. II
 - Held: Pott and Wright's Martial (printing date not on the title page)
+
+## 2026-10-03 06:14 CDT — Ovid and Euripides
+- ovid: Henry King 1871 (translator unchecked: OCR 'ICING')
+- ovid: Garth 1826 and More's Book I not kept (Dryden shelf, lane C; Perseus)
+- euripides: Fitz-Gerald 1867, Lawton 1889, Beloit Class of 1900 (1898), Kynaston 1906
+- Excerpts skipped: Goldwin Smith, McBride

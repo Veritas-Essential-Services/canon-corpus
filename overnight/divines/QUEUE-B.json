@@ -780,6 +780,14 @@
    "started": "2026-10-03T06:05:27-05:00",
    "finished": "2026-10-03T06:10:57-05:00",
    "notes": "Sophocles: Trevelyan Ajax 1919, Plaistowe Philoctetes (undated; catalogue 1892), the Oxford prose translation (Harper 1886; Buckley catalogue-only), Morshead Ajax 1895, E. P. Coleridge 1905. Catullus: Nott vol. I 1795 (anonymous; catalogue attribution), Hart-Davies 1879, Stuttaford 1912. Propertius: Phillimore 1906. Tacitus: Ramsay's Annals I-VI 1904, XI-XVI 1909. Sallust: Pollard 1882. Martial: Nixon 1911. Refused: Cholmeley's Theocritus (OCR 0.50), the 1720 Tibullus (0.75), Nott vol. II (0.76). Held for Adam: Pott and Wright's Martial (Routledge Broadway Translations): undated title page, a 1926 series list in the back, IA says 1924, so the printing date cannot be fixed from the scan."
+  },
+  {
+   "id": "latin-greek-gapfill-2",
+   "status": "done",
+   "scope": "Gap-fill: Ovid and Euripides",
+   "started": "2026-10-03T06:10:57-05:00",
+   "finished": "2026-10-03T06:14:27-05:00",
+   "notes": "Ovid: Henry King's Metamorphoses (Blackwood 1871; translator unchecked, the OCR reads ICING). The Garth composite (1826) and Brookes More's Book I were added and then removed in the same session: Garth is on the Dryden shelf (lane C) and More is held from Perseus. Euripides: Fitz-Gerald's Crowned Hippolytus 1867 (theocritus cross-ref), Lawton's Three Dramas 1889, the Beloit Class of 1900 Alcestis 1898 (IA says 1908), Kynaston's Alcestis 1906. Skipped as excerpts, matching the existing exclusions of PG 7073: Goldwin Smith's Euripides specimens and McBride's Bacchae choruses."
   }
  ]
 }
