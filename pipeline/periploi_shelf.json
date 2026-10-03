@@ -1,0 +1,57 @@
+{
+ "_about": "Greek voyages: the Periplus of the Erythraean Sea (anonymous, 1st c.) and the Periplus of Hanno, in English. Lane B (classical translations).",
+ "_name_words": [
+  "periplus",
+  "hanno"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "periplus-schoff-1912": [
+   "peripluserythra00schogoog",
+   "The Periplus of the Erythraean Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century (New York, 1912)",
+   "tr. Wilfred H. Schoff"
+  ],
+  "hanno-falconer-1797": [
+   "voyagehannotran00hanngoog",
+   "The Voyage of Hanno, translated and accompanied with the Greek text (London, 1797)",
+   "tr. Thomas Falconer"
+  ]
+ },
+ "_surname": [
+  "periplus",
+  "hanno"
+ ],
+ "_translators": {
+  "periplus-schoff-1912": "Wilfred H. Schoff",
+  "hanno-falconer-1797": "Thomas Falconer"
+ },
+ "_checks": {
+  "periplus-schoff-1912": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "periplus",
+   "translator_claimed": "Wilfred H. Schoff",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hanno-falconer-1797": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "periplus",
+   "translator_claimed": "Thomas Falconer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
