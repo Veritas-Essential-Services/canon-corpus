@@ -191,6 +191,11 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
     python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
+    python3 pipeline/build_commentaries.py --fetch   # 13 commentaries: IA hOCR scans + PG #50857, pinned
+    python3 pipeline/build_commentaries.py           # notes keyed by verse -> data/books/<slug>.json + manifest
+    python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
+    python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
+    python3 tests/commentaries_test.py       # the note readers on fixtures; the manifest's measures
     python3 pipeline/build_commentaries.py --fetch   # Lightfoot Gal/Phil/Col, Westcott Heb/John, Hort: PG + IA hOCR, pinned
     python3 pipeline/build_commentaries.py           # notes by verse (kjv links), other pages by leaf -> data/books/
     python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
@@ -599,6 +604,23 @@ The living truth for project state is the Obsidian vault:
   how its number was got. Unproofread OCR; collation letters stay glued to
   words. The later version is checked against eBible's nine books (measure
   only). Status and the other Wycliffe sources: docs/pending-sources.md.
+- pipeline/build_commentaries.py — verse-keyed commentaries, drafts, all
+  printed before 1929: Lightfoot (Galatians, Philippians, Colossians-Philemon
+  from PG #50857), Westcott (Hebrews, the Epistles of John, the Gospel of
+  John in 2 vols, 1908), Hort's Ante-Nicene lectures (by page), John
+  Lightfoot's Horae Hebraicae (Gandell, 1859, 4 vols, Matthew to 1 Cor.) and
+  Ellicott's five volumes on St Paul. Read from the Internet Archive's hOCR,
+  each scan chosen by measuring its text layer (the measures are above
+  CANDIDATES; many scans lost their Greek or read English as Greek) and
+  pinned by sha256; the item's possible-copyright-status is re-read on
+  --fetch. A note is cited by the verse it comments on
+  (`ellicott-pastorals:Titus.3.5`, a run `1.6-9`), accepted only where the
+  verse sequence and the running head allow it, and links `comments-on` its
+  KJV verse(s). Everything else is kept by scan leaf (`leaf.N`, or
+  `v2.leaf.N` in a book of several volumes). Books gitignored; manifest
+  entries committed with each book's measures. Unproofread OCR, and every
+  honesty field says so. Westcott's Ephesians (1906) refused: no scan kept
+  its Greek. README "Commentaries".
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are

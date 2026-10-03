@@ -197,9 +197,9 @@ with the Charles books, awaiting Adam's ruling.
 
 `python3 pipeline/build_wycliffe.py --fetch`, then `--check`.
 
-## Commentaries: Lightfoot, Westcott, Hort (drafts)
+## Commentaries: Lightfoot, Westcott, Hort, Ellicott (drafts)
 
-The build is `pipeline/build_commentaries.py`. It shelves six books, all
+The build is `pipeline/build_commentaries.py`. It shelves thirteen books, all
 printed before 1929:
 
 | Book | Edition | Source |
@@ -210,6 +210,13 @@ printed before 1929:
 | Westcott on Hebrews | 2nd ed., 1892 | IA scan |
 | Westcott on the Epistles of St John | 3rd ed., 1892 | IA scan |
 | Hort, *Six Lectures on the Ante-Nicene Fathers* | 1895 | IA scan |
+| Westcott on St John's Gospel (the Greek text) | 1908, 2 vols | IA scans |
+| John Lightfoot, *Horae Hebraicae et Talmudicae* (Matthew to 1 Corinthians) | Gandell's ed., 1859, 4 vols | IA scans |
+| Ellicott on Galatians | 4th ed., 1867 | IA scan |
+| Ellicott on Ephesians | 5th ed., 1884 | IA scan |
+| Ellicott on Philippians, Colossians and Philemon | 1st ed., 1857 | IA scan |
+| Ellicott on Thessalonians | 4th ed., 1880 | IA scan |
+| Ellicott on the Pastoral Epistles | 5th ed., 1883 | IA scan |
 
 Every source is pinned by sha256. Each scan was picked by measuring its
 text layer. Many scans of these books have no Greek at all, because their
@@ -238,7 +245,27 @@ taken only when it fits the sequence of verses and the page's running head.
 **Scripture.** References in the English are resolved in the KJV's
 numbering. "ver. 8" means the same chapter of the note's own epistle.
 
-The five scanned books are unproofread OCR, and their honesty fields say
+**The second wave (2a)** uses the same rules, with three additions:
+
+- A book may come from several scans. Its page ids then lead with the
+  volume: `westcott-gospel-john:v2.leaf.15`. The notes keep the plain
+  citation: `westcott-gospel-john:8.12`, `lightfoot-horae:Matt.5.22`.
+- Lightfoot's *Horae* has one column, and each note opens "Ver. 5:". The
+  chapter is read from the "CHAP." headings and from running heads that a
+  neighbouring page agrees with. Lightfoot skips whole chapters, so the
+  chapter only moves forward. Its Hebrew survived the OCR in these scans
+  only (about 2% of letters), and `measure.hebrew` says how much of it reads
+  as biblical Hebrew.
+- For the new books, the measure also counts the notes whose page's
+  running head names another chapter (`openers_against_running_head`), and
+  the verses that were taken up again later (`notes_reopened`).
+
+Westcott's *Ephesians* (1906) is not shelved. In every scan of it, the
+Greek was lost or the English was read as Greek. The other scans that were
+measured, and why each was refused, are listed above `CANDIDATES` in the
+script.
+
+All the scanned books are unproofread OCR, and their honesty fields say
 so. Run `--fetch`, then `--check`. To see each book's coverage and Greek
 measures, run `--report`.
 
