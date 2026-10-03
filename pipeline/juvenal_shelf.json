@@ -94,7 +94,8 @@
   "persius-wollaston-1841": "Wollaston",
   "juvenal-leeper-1902": "Leeper",
   "juvenal-persius-owen-1786": "Owen",
-  "juvenal-persius-wallace-1848": "Wallace"
+  "juvenal-persius-wallace-1848": "Wallace",
+  "juvenal-persius-smart-1829": "William Smart"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -231,6 +232,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
+   "translator_claimed": "William Smart",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1829",
    "ia_date": "1829",
@@ -267,7 +270,5 @@
    "persius"
   ]
  },
- "_translator_unchecked": {
-  "juvenal-persius-smart-1829": "title page names William Smart, M.A., translator of Virgil (Whittaker, 1829); 'smart' is a common word, so the word check cannot confirm the name"
- }
+ "_translator_unchecked": {}
 }
