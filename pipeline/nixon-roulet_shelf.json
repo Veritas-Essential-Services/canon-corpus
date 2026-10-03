@@ -1,0 +1,39 @@
+{
+ "_about": "Mary F. Nixon-Roulet's Japanese Folk Stories and Fairy Tales (American Book Company, copyright 1908). Her Little Cousin travel books are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mary F. Nixon-Roulet",
+ "_name_words": [
+  "roulet"
+ ],
+ "_surname": [
+  "mary f. nixon-roulet"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nixon-roulet-japanese-folk-stories": [
+   73293,
+   "Japanese Folk Stories and Fairy Tales",
+   {
+    "levels": [
+     {
+      "re": "(?i:[\\W_]*(?:The[\\W_]*Sword[\\W_]*of[\\W_]*the[\\W_]*Clustering[\\W_]*Clouds[\\W_]*of[\\W_]*Heaven|The[\\W_]*Boy[\\W_]*and[\\W_]*the[\\W_]*Spirits[\\W_]*of[\\W_]*Things|The[\\W_]*Goddess[\\W_]*of[\\W_]*Green[\\W_]*growing[\\W_]*Things|The[\\W_]*Fishes[\\W_]*of[\\W_]*the[\\W_]*Boiling[\\W_]*Spring|The[\\W_]*Mirror[\\W_]*of[\\W_]*the[\\W_]*Sun[\\W_]*Goddess|The[\\W_]*Princess[\\W_]*and[\\W_]*the[\\W_]*Fox[\\W_]*Baby|The[\\W_]*Man[\\W_]*Who[\\W_]*Became[\\W_]*a[\\W_]*Serpent|The[\\W_]*Dream[\\W_]*of[\\W_]*the[\\W_]*Golden[\\W_]*Box|The[\\W_]*Hang[\\W_]*The[\\W_]*Money[\\W_]*Up[\\W_]*Tree|The[\\W_]*Waterfall[\\W_]*Which[\\W_]*Flowed[\\W_]*Sak|The[\\W_]*Evil[\\W_]*One[\\W_]*and[\\W_]*the[\\W_]*Rat|The[\\W_]*Knightly[\\W_]*Waste[\\W_]*paper[\\W_]*Man|The[\\W_]*Single[\\W_]*Lantern[\\W_]*of[\\W_]*Yamato|The[\\W_]*Choice[\\W_]*of[\\W_]*the[\\W_]*Princess|The[\\W_]*Hunter[\\W_]*and[\\W_]*the[\\W_]*Priest|The[\\W_]*Coming[\\W_]*of[\\W_]*Benten[\\W_]*Sama|The[\\W_]*Daughter[\\W_]*of[\\W_]*a[\\W_]*Samurai|The[\\W_]*Moon[\\W_]*and[\\W_]*the[\\W_]*Cuckoo|The[\\W_]*Soul[\\W_]*of[\\W_]*the[\\W_]*Samurai|The[\\W_]*Princess[\\W_]*of[\\W_]*the[\\W_]*Sea|The[\\W_]*Inao[\\W_]*of[\\W_]*the[\\W_]*Ainu|The[\\W_]*Sacrifice[\\W_]*to[\\W_]*Kompira|The[\\W_]*Firefly[\\W_]*of[\\W_]*Matsui|The[\\W_]*Painter[\\W_]*of[\\W_]*Cats|The[\\W_]*Angel[\\W_]*s[\\W_]*Robe|The[\\W_]*Princess[\\W_]*Moonbeam|The[\\W_]*Laughing[\\W_]*Dumpling|The[\\W_]*Boastful[\\W_]*Bamboo|The[\\W_]*Sworded[\\W_]*Falcon|The[\\W_]*Mountain[\\W_]*Rose|The[\\W_]*Phantom[\\W_]*Cats|The[\\W_]*Two[\\W_]*Brothers|The[\\W_]*Goblin[\\W_]*Tree)[\\W_]*)$"
+     }
+    ],
+    "start": "THE CHOICE OF THE PRINCESS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "nixon-roulet-japanese-folk-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mary f. nixon-roulet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
