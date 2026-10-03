@@ -298,6 +298,13 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Oresteia of Aeschylus translated into English Prose (London, 18 Bury Street, 1893) | Lewis Campbell | `aeschylus-campbell-oresteia-prose-1893` | have-raw (IA `oresteiaofaeschy00aescrich`) |
 | The Plays of Aeschylus translated from a revised text (prose; London: George Bell, 1909) | Walter Headlam and C. E. S. Headlam | `aeschylus-headlam-plays-1909` | have-raw (IA `aeschylusplays00aesciala`) |
 | The Oresteia of Aeschylus translated and explained (London: George Allen, 1900) | George C. W. Warr | `aeschylus-warr-oresteia-1900` | have-raw (IA `oresteiatranslat00aescuoft`) |
+| Agamemnon | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng3`; markup CC BY-SA 4.0) |
+| Eumenides | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-eumenides` | have (Perseus TEI `tlg0085.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Libation Bearers | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-libation-bearers` | have (Perseus TEI `tlg0085.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Persians | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-persians` | have (Perseus TEI `tlg0085.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Prometheus Bound | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-prometheus-bound` | have (Perseus TEI `tlg0085.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Seven Against Thebes | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-seven-against-thebes` | have (Perseus TEI `tlg0085.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Suppliant Maidens | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-suppliant-maidens` | have (Perseus TEI `tlg0085.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
