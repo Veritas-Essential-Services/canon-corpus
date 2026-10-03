@@ -1,0 +1,50 @@
+{
+ "_about": "William Larminie's West Irish Folk-Tales and Romances (1893), collected in Donegal, Mayo and Galway and translated by him. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "William Larminie",
+ "_name_words": [
+  "larminie"
+ ],
+ "_surname": [
+  "william larminie"
+ ],
+ "_translators": {
+  "larminie-west-irish-folk-tales": "Larminie"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "larminie-west-irish-folk-tales": [
+   57858,
+   "West Irish Folk-Tales and Romances",
+   {
+    "levels": [
+     {
+      "re": "_(?!THE CAMDEN)[A-Z][^a-z_]*\\._$|_PREVIOUS VOLUMES OF THE CAMDEN LIBRARY_$",
+      "max": 140,
+      "strip": "\\[\\d+\\]|_|\\.$"
+     },
+     {
+      "re": "THE STORY\\.$"
+     }
+    ],
+    "start": "_INTRODUCTION\\._$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "larminie-west-irish-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william larminie",
+   "translator_claimed": "Larminie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Larminie",
+   "translator_match": true
+  }
+ }
+}
