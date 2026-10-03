@@ -913,8 +913,10 @@
     {
       "id": "judson",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: judson; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:35:40-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:35:40-05:00",
+      "finished": "2026-10-02T20:49:39-05:00",
+      "notes": "5/5 fetched (Gutenberg 2503, 22083, 44935, 47146, 48409), 4,593 units, 63 ~2 ids."
     },
     {
       "id": "nassau",

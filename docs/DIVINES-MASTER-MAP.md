@@ -5101,6 +5101,18 @@ Shelf: `pipeline/mooney_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Myths of the Cherokee | have | PG 45634, `mooney-myths-of-the-cherokee` (3565 units) |
 
+## Katharine Berry Judson, ed.
+
+Shelf: `pipeline/judson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Regional anthologies of Native American myths, drawn from earlier printed sources and credited to them. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of California and the Old Southwest | have | PG 2503, `judson-california-and-the-old-southwest` (653 units) |
+| Myths and Legends of the Great Plains | have | PG 22083, `judson-great-plains` (1038 units) |
+| Myths and Legends of the Mississippi Valley and the Great Lakes | have | PG 44935, `judson-mississippi-valley-and-great-lakes` (1242 units) |
+| Myths and Legends of Alaska | have | PG 47146, `judson-alaska` (747 units) |
+| Myths and Legends of British North America | have | PG 48409, `judson-british-north-america` (913 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

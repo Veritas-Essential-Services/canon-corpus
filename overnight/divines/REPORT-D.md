@@ -435,3 +435,6 @@
 
 ## 2026-10-02 20:49 CDT — mooney: done
 - 1/1 fetched (Gutenberg 45634), 3,565 units, 3 ~2 ids.
+
+## 2026-10-02 20:49 CDT — judson: done
+- 5/5 fetched (Gutenberg 2503, 22083, 44935, 47146, 48409), 4,593 units, 63 ~2 ids.

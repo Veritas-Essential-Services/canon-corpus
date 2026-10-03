@@ -1,0 +1,114 @@
+{
+ "_about": "Katharine Berry Judson's (1866-1929) regional anthologies of Native American myths and legends, gathered from earlier printed sources and credited to them. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Katharine Berry Judson, ed.",
+ "_name_words": [
+  "judson"
+ ],
+ "_surname": [
+  "judson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "judson-california-and-the-old-southwest": [
+   2503,
+   "Myths and Legends of California and the Old Southwest",
+   {
+    "levels": [
+     {
+      "re": "(?:The\\ Beginning\\ of\\ Newness|The\\ Men\\ of\\ the\\ Early\\ Times|Creation\\ and\\ Longevity|Old\\ Moles\\ Creation|The\\ Creation\\ of\\ the\\ World|Spider's\\ Creation|The\\ Gods\\ and\\ the\\ Six\\ Regions|How\\ Old\\ Man\\ Above\\ Created\\ the\\ World|The\\ Search\\ for\\ the\\ Middle\\ and\\ the\\ Hardening\\ of\\ the\\ World|Origin\\ of\\ Light|Pokoh,\\ the\\ Old\\ Man|Thunder\\ and\\ Lightning|Creation\\ of\\ Man|The\\ First\\ Man\\ and\\ Woman|Old\\ Man\\ Above\\ and\\ the\\ Grizzlies|The\\ Creation\\ of\\ Man\\-kind\\ and\\ the\\ Flood|The\\ Birds\\ and\\ the\\ Flood|Legend\\ of\\ the\\ Flood|The\\ Great\\ Flood|The\\ Flood\\ and\\ the\\ Theft\\ of\\ Fire|Legend\\ of\\ the\\ Flood\\ in\\ Sacramento\\ Maidu\\ Valley|The\\ Fable\\ of\\ the\\ Animals|Coyote\\ and\\ Sun|The\\ Course\\ of\\ the\\ Sun|The\\ Foxes\\ and\\ the\\ Sun|The\\ Theft\\ of\\ Fire|The\\ Theft\\ of\\ Fire|The\\ Earth\\-hardening\\ after\\ the\\ Flood|The\\ Origins\\ of\\ the\\ Totems\\ and\\ of\\ Names|Traditions\\ of\\ Wanderings|The\\ Migration\\ of\\ the\\ Water\\ People|Coyote\\ and\\ the\\ Mesquite\\ Beans|Origin\\ of\\ the\\ Sierra\\ Nevadas\\ and\\ Coast\\ Range|Yosemite\\ Valley\\ and\\ its\\ Indian\\ Names|Legend\\ of\\ Tu\\-tok\\-a\\-nu'\\-la\\ \\(El\\ Capitan\\)|Legend\\ of\\ Tis\\-se'\\-yak\\ \\(South\\ Dome\\ and\\ North\\ Dome\\)\\ Yosemite\\ Valley|Historic\\ Tradition\\ of\\ the\\ Upper\\ Tuolumne|California\\ Big\\ Trees|The\\ Children\\ of\\ Cloud|The\\ Cloud\\ People|Rain\\ Song|Rain\\ Song|Rain\\ Song|The\\ Corn\\ Maidens|The\\ Search\\ for\\ the\\ Corn\\ Maidens|Hasjelti\\ and\\ Hostjoghon|The\\ Song\\-hunter|Sand\\ Painting\\ of\\ the\\ Song\\-hunter|The\\ Guiding\\ Duck\\ and\\ the\\ Lake\\ of\\ Death|The\\ Boy\\ who\\ Became\\ a\\ God|Origin\\ of\\ Clear\\ Lake|The\\ Great\\ Fire|Origin\\ of\\ the\\ Raven\\ and\\ the\\ Macaw|Coyote\\ and\\ the\\ Hare|Coyote\\ and\\ the\\ Quails|Coyote\\ and\\ the\\ Fawns|How\\ the\\ Bluebird\\ Got\\ its\\ Color|Coyote's\\ Eyes|Coyote\\ and\\ the\\ Tortillas|Coyote\\ as\\ a\\ Hunter|How\\ the\\ Rattlesnake\\ Learned\\ to\\ Bite|Coyote\\ and\\ the\\ Rattlesnake|Origin\\ of\\ the\\ Saguaro\\ and\\ Palo\\ Verde\\ Cacti|The\\ Thirsty\\ Quails|The\\ Boy\\ and\\ the\\ Beast|Why\\ the\\ Apaches\\ are\\ Fierce|Speech\\ on\\ the\\ Warpath|The\\ Spirit\\ Land|Song\\ of\\ the\\ Ghost\\ Dance)(?: .*)?$",
+      "max": 140
+     }
+    ]
+   }
+  ],
+  "judson-great-plains": [
+   22083,
+   "Myths and Legends of the Great Plains",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?!FOOTNOTES?:?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,}$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "FOOTNOTES?:?$",
+      "strip": ":$"
+     }
+    ]
+   }
+  ],
+  "judson-mississippi-valley-and-great-lakes": [
+   44935,
+   "Myths and Legends of the Mississippi Valley and the Great Lakes"
+  ],
+  "judson-alaska": [
+   47146,
+   "Myths and Legends of Alaska"
+  ],
+  "judson-british-north-america": [
+   48409,
+   "Myths and Legends of British North America",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?!FOOTNOTES?:?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,}$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "FOOTNOTES?:?$",
+      "strip": ":$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "judson-california-and-the-old-southwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "judson-great-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "judson-mississippi-valley-and-great-lakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "judson-alaska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "judson-british-north-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "judson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
