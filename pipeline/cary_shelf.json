@@ -89,7 +89,7 @@
  "_checks": {
   "cary-pindar": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",

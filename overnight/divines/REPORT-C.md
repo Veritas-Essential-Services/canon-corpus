@@ -75,3 +75,6 @@
 ## 2026-10-02T21:49-05:00 — split_shelf_titles.py stale-cut fix (coordinator finding)
 - A title that fails (missing marker, missing source, too short) or is held elsewhere now has any earlier titles/<slug>.txt (and .tmp) deleted; the report records "stale_removed". Good cuts were already temp-file + rename.
 - New test: `python3 tests/split_shelf_titles_test.py` (10 checks, offline, runs the real script on a temp copy). Fails 5 of 10 on the old code, passes 10 on the fix. All lane C shelves re-cut clean; structure_test 64 passed. (CLAUDE.md's command list is not a lane file: the new test command is for Adam to add.)
+
+## 2026-10-02T21:52-05:00 — lane A gate fix (815a082) re-verified
+- `fetch_shelf.py --verify --record` re-run on all 36 lane C shelves under the fail-closed rights gate, per-miss overrides and max(years) date gate: 0 mismatched, 0 rights flags; the 6 identity overrides still cover only the miss each names. sturluson and lang are not lane C shelves.

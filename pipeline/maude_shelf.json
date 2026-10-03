@@ -239,7 +239,7 @@
  "_checks": {
   "maude-resurrection": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
@@ -248,43 +248,43 @@
   },
   "maude-father-sergius": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-master-and-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-cossacks": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-what-men-live-by": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-what-is-art": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
@@ -293,7 +293,7 @@
   },
   "maude-the-devil": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
@@ -302,66 +302,66 @@
   },
   "maude-three-days": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-play-power-of-darkness": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-play-first-distiller": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-play-fruits-of-culture": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-play-live-corpse": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-play-cause-of-it-all": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   },
   "maude-play-light-shines": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maude",
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Aylmer Maude"
+   "pg_translator": "Aylmer Maude; Louise Maude"
   }
  }
 }

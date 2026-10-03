@@ -151,7 +151,7 @@
  "_checks": {
   "florio-decameron-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",
@@ -160,7 +160,7 @@
   },
   "florio-decameron-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",
@@ -169,7 +169,7 @@
   },
   "florio-montaigne-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",
@@ -180,7 +180,7 @@
   },
   "florio-montaigne-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -191,7 +191,7 @@
   },
   "florio-montaigne-3": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",
@@ -202,7 +202,7 @@
   },
   "florio-montaigne-4": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",
@@ -213,7 +213,7 @@
   },
   "florio-montaigne-5": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",
@@ -224,7 +224,7 @@
   },
   "florio-montaigne-6": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "florio",
    "identity": "ok",

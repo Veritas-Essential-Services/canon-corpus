@@ -60,7 +60,7 @@
  "_checks": {
   "fitzgerald-rubaiyat-salaman": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "fitzgerald",
    "identity": "ok",
@@ -69,7 +69,7 @@
   },
   "fitzgerald-calderon": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "fitzgerald",
    "identity": "ok",

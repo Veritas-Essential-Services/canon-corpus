@@ -428,7 +428,7 @@
  "_checks": {
   "dryden-scott-11": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -437,7 +437,7 @@
   },
   "dryden-scott-12": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -446,7 +446,7 @@
   },
   "dryden-scott-13": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -455,7 +455,7 @@
   },
   "dryden-scott-14": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "title_weak": true,
@@ -465,7 +465,7 @@
   },
   "dryden-scott-15": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "title_weak": true,
@@ -475,7 +475,7 @@
   },
   "dryden-scott-16": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -484,7 +484,7 @@
   },
   "dryden-scott-17": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -493,7 +493,7 @@
   },
   "dryden-garth-metamorphoses-1826": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",
@@ -504,7 +504,7 @@
   },
   "dryden-league-1684": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dryden",
    "identity": "ok",

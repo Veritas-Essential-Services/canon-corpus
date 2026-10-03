@@ -1107,7 +1107,7 @@
  "_checks": {
   "garnett-possessed": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1116,7 +1116,7 @@
   },
   "garnett-crime-and-punishment": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1125,7 +1125,7 @@
   },
   "garnett-white-nights": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1134,7 +1134,7 @@
   },
   "garnett-anna-karenina": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1143,7 +1143,7 @@
   },
   "garnett-kingdom-of-god": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1152,7 +1152,7 @@
   },
   "garnett-chekhov-darling": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1161,7 +1161,7 @@
   },
   "garnett-chekhov-duel": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "title_weak": true,
@@ -1171,7 +1171,7 @@
   },
   "garnett-chekhov-lady-with-the-dog": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1180,7 +1180,7 @@
   },
   "garnett-chekhov-party": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1189,7 +1189,7 @@
   },
   "garnett-chekhov-wife": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1198,7 +1198,7 @@
   },
   "garnett-chekhov-bishop": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1207,7 +1207,7 @@
   },
   "garnett-chekhov-chorus-girl": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1216,7 +1216,7 @@
   },
   "garnett-chekhov-schoolmistress": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1225,7 +1225,7 @@
   },
   "garnett-chekhov-horse-stealers": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1234,7 +1234,7 @@
   },
   "garnett-chekhov-schoolmaster": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1243,7 +1243,7 @@
   },
   "garnett-chekhov-cooks-wedding": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1252,7 +1252,7 @@
   },
   "garnett-chekhov-love": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1261,7 +1261,7 @@
   },
   "garnett-chekhov-letters": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1270,7 +1270,7 @@
   },
   "garnett-turgenev-rudin": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1279,7 +1279,7 @@
   },
   "garnett-turgenev-house-of-gentlefolk": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1288,7 +1288,7 @@
   },
   "garnett-turgenev-on-the-eve": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1297,7 +1297,7 @@
   },
   "garnett-turgenev-fathers-and-children": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1306,7 +1306,7 @@
   },
   "garnett-turgenev-smoke": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1315,7 +1315,7 @@
   },
   "garnett-turgenev-torrents-of-spring": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1324,7 +1324,7 @@
   },
   "garnett-turgenev-lear-of-the-steppes": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1333,7 +1333,7 @@
   },
   "garnett-turgenev-dream-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1342,7 +1342,7 @@
   },
   "garnett-turgenev-diary-of-a-superfluous-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1351,7 +1351,7 @@
   },
   "garnett-turgenev-desperate-character": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1360,7 +1360,7 @@
   },
   "garnett-turgenev-jew": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1369,7 +1369,7 @@
   },
   "garnett-turgenev-knock-knock-knock": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1378,7 +1378,7 @@
   },
   "garnett-turgenev-sportsman-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1387,7 +1387,7 @@
   },
   "garnett-turgenev-sportsman-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1396,7 +1396,7 @@
   },
   "garnett-ostrovsky-storm": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1405,7 +1405,7 @@
   },
   "garnett-herzen-past-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1414,7 +1414,7 @@
   },
   "garnett-herzen-past-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1423,7 +1423,7 @@
   },
   "garnett-herzen-past-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1432,7 +1432,7 @@
   },
   "garnett-herzen-past-4": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1441,7 +1441,7 @@
   },
   "garnett-herzen-past-5": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1450,7 +1450,7 @@
   },
   "garnett-herzen-past-6": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1459,7 +1459,7 @@
   },
   "garnett-idiot": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1470,7 +1470,7 @@
   },
   "garnett-gambler": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1481,7 +1481,7 @@
   },
   "garnett-house-of-the-dead": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1492,7 +1492,7 @@
   },
   "garnett-insulted-and-injured": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1503,7 +1503,7 @@
   },
   "garnett-raw-youth": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1514,7 +1514,7 @@
   },
   "garnett-eternal-husband": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1525,7 +1525,7 @@
   },
   "garnett-honest-thief": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1536,7 +1536,7 @@
   },
   "garnett-friend-of-the-family": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1547,7 +1547,7 @@
   },
   "garnett-death-of-ivan-ilyitch": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1558,7 +1558,7 @@
   },
   "garnett-christianity-and-patriotism": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1569,7 +1569,7 @@
   },
   "garnett-chekhov-witch": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1580,7 +1580,7 @@
   },
   "garnett-chekhov-plays-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1591,7 +1591,7 @@
   },
   "garnett-chekhov-plays-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1602,7 +1602,7 @@
   },
   "garnett-turgenev-virgin-soil-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1613,7 +1613,7 @@
   },
   "garnett-turgenev-virgin-soil-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1624,7 +1624,7 @@
   },
   "garnett-turgenev-two-friends": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1635,7 +1635,7 @@
   },
   "garnett-gogol-dead-souls-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1646,7 +1646,7 @@
   },
   "garnett-gogol-dead-souls-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1657,7 +1657,7 @@
   },
   "garnett-goncharov-common-story": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1668,7 +1668,7 @@
   },
   "garnett-gogol-overcoat": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1679,9 +1679,10 @@
   },
   "garnett-gogol-dikanka": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": null,
+   "title_weak": true,
    "identity": "identity_override",
    "ia_rights": "ok: published 1926",
    "ia_date": "1926",
