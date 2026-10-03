@@ -44,7 +44,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "periplus",
+   "author_seen": "hanno",
    "translator_claimed": "Thomas Falconer",
    "translator_in_text": true,
    "identity": "ok",
@@ -53,5 +53,13 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "periplus-schoff-1912": [
+   "periplus"
+  ],
+  "hanno-falconer-1797": [
+   "hanno"
+  ]
  }
 }

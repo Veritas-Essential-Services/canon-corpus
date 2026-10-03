@@ -38,5 +38,10 @@
    "pg_translator": "Thomas Taylor",
    "translator_match": true
   }
+ },
+ "_surname_by_slug": {
+  "ocellus-taylor": [
+   "ocellus"
+  ]
  }
 }

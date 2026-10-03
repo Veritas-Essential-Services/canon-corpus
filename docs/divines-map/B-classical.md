@@ -86,7 +86,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | Timaeus | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-timaeus` | have (Perseus TEI `tlg0059.tlg031.perseus-eng2`; markup CC BY-SA 4.0) |
 | Critias | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-critias` | have (Perseus TEI `tlg0059.tlg032.perseus-eng2`; markup CC BY-SA 4.0) |
 | Minos | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-minos` | have (Perseus TEI `tlg0059.tlg033.perseus-eng2`; markup CC BY-SA 4.0) |
-| Laws | R. G. Bury (Loeb, None) | `plato-perseus-bury-laws` | have (Perseus TEI `tlg0059.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
+| Laws | R. G. Bury (Loeb, 1926) | `plato-perseus-bury-laws` | have (Perseus TEI `tlg0059.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
 | Epinomis | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-epinomis` | have (Perseus TEI `tlg0059.tlg035.perseus-eng2`; markup CC BY-SA 4.0) |
 | Letters | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-letters` | have (Perseus TEI `tlg0059.tlg036.perseus-eng2`; markup CC BY-SA 4.0) |
 
@@ -96,9 +96,9 @@ Pending (wishlist):
 - The Republic, Jowett's separate 3rd ed. with marginal analysis and index (PG 55201): an alternate witness of the Republic.
 - The Dialogues of Plato, 1892, vol. 2 as a clean Gutenberg transcription (PG 76464, 2025): the other four volumes are not on Gutenberg yet; when they are, that is the cleanest collected edition.
 - Shelley's Banquet (Symposium), Ion and Menexenus are held above (Prose Works vol. 2, PG 67926). Thomas Taylor's complete Plato (1804, with Sydenham's nine dialogues) is held above, 5 vols.
-- Perseus serves 36 English Plato texts (Loeb: Fowler, Lamb, Shorey, Bury); alternate witnesses, see `docs/perseus-census.md`.
+- Perseus serves 36 English Plato texts (Loeb: Fowler, Lamb, Shorey, Bury). The 35 by Fowler, Lamb and Bury (1914-29) are held above as alternate witnesses; Shorey's Republic (1935-37 file) is excluded.
 
-Excluded: PG 150 (duplicate Republic, shorter introduction), PG 19840 (Euthyphro; serves a 404), PG 29441 (an index page), PG 13726 (Cary, not Jowett).
+Excluded: PG 150 (duplicate Republic, shorter introduction), PG 19840 (Euthyphro; serves a 404), PG 29441 (an index page), PG 13726 (Cary, not Jowett).; Shorey's Loeb Republic (Perseus file dated 1935-37)
 
 ## Aristotle (tr. Ross, Oxford)
 
@@ -1834,7 +1834,7 @@ Shelf: `pipeline/rutilius_shelf.json`. Keene's edition with George F. Savage-Arm
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
-| De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus (London, 1907) | George F. Savage-Armstrong | `rutilius-savage-armstrong-1907` | have-raw (IA `cu31924026546386`) |
+| De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus, ed. Charles Haines Keene (London, 1907) | George F. Savage-Armstrong (verse); ed. Charles Haines Keene | `rutilius-savage-armstrong-1907` | have-raw (IA `cu31924026546386`) |
 
 Pending (wishlist): none known
 

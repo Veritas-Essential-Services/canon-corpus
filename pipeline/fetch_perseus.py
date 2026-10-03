@@ -33,7 +33,8 @@ canonical repos). That licence travels with the file in the report, so a
 consumer sees "attribution + share-alike" without opening it.
 Identity, as fetch_shelf.py does it since the 2026-10-02 review (optional
 keys, all backward compatible): `_surname` (the author's names) must appear
-as a whole word in the file's header; `_translators` ({slug: surname}), when
+as a whole word in the file's header, or the item's own `_surname_by_slug`
+entry on a shelf of several authors; `_translators` ({slug: surname}), when
 it names the item, replaces the surname taken from the row; names match as
 whole words, never substrings; `_identity_checked` ({slug: reason}) keeps a
 would-be MISMATCH that a person confirmed. `--verify --record` writes
@@ -115,7 +116,7 @@ def _check(data, tail, translator, slug, shelf):
     head = text[:text.find("</teiHeader>")] if "</teiHeader>" in text else text[:20000]
     head_l = head.lower()
     r, misses = {"urn_in_file": tail in text}, []
-    surnames = shelf.get("_surname")
+    surnames = shelf.get("_surname_by_slug", {}).get(slug) or shelf.get("_surname")
     if surnames:
         r["author_seen"] = next((n for n in surnames if _pat(n).search(head_l)), None)
         if not r["author_seen"]:

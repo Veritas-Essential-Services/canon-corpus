@@ -59,7 +59,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "cato",
+   "author_seen": "columella",
    "identity": "ok",
    "ia_rights": "ok: published 1745",
    "ia_date": "1745",
@@ -71,12 +71,24 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "cato",
+   "author_seen": "palladius",
    "identity": "ok",
-   "ia_rights": "ok: published 1873",
+   "ia_rights": "ok: published 1879",
    "ia_date": "1873-1879",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "cato-varro-harrison": [
+   "cato",
+   "varro"
+  ],
+  "columella-1745": [
+   "columella"
+  ],
+  "palladius-husbondrie-1873": [
+   "palladius"
+  ]
  }
 }

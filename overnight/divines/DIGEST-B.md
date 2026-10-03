@@ -82,3 +82,9 @@
   - two scans are REVISED texts, not the pre-1931 ones: Rolfe's Suetonius vol. 1 (revised 1951) and Williams's Cicero Letters to Friends vol. 3 (revised with additions 1954);
   - four carry a later bibliography: Nixon's Plautus vol. 3 (note of 1979), Butler's Quintilian vol. 1 (addendum of 1980), Miller's Metamorphoses vol. 1 (1960s-70s items), and Wright's Julian vol. 1, whose Gutenberg transcription (PG 48664) includes the 1980 addendum.
   The four addenda are bare reading lists (a few dozen citations). Lists of facts like that may not be protectable at all; that is your call. One word releases them, or a converter cut rule does.
+
+## Added since the review fixes (2026-10-02, 21:08-21:54 CDT)
+- **Clean Perseus texts that were waiting:** Plato in the Loeb versions of Fowler, Lamb and Bury (35 dialogues and the Letters, 1914-29), Xenophon's Memorabilia, Oeconomicus, Symposium, Apology and minor works (Marchant, Todd), Brookes More's complete blank-verse Metamorphoses (1922), and Jones's Epidemics. The map's old line saying More's complete text was "not cleared" is replaced: Perseus encodes the 1922 Cornhill printing, all 15 books.
+- **Seven new small shelves:** Jordanes, Sidonius, Isaeus, Herodas, Rutilius Namatianus, Solinus, and the two Greek voyages (Periplus, Hanno). Plus Herschel's Frontinus, Royston's Lycophron, Chariton (1764), Xenophon of Ephesus (1727) and Codrington's Justin.
+- **Unnamed translators, flagged not guessed:** Chariton 1764 ("made by two young persons"), Xenophon of Ephesus 1727 (name illegible; often given as John Rooke, not verified), the Ovid collections of 1813 and 1855.
+- **Each book now checked against its own author** on shelves holding several (a Lycophron used to pass on "Callimachus").

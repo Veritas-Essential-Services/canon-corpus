@@ -59,7 +59,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "sappho",
+   "author_seen": "greek anthology",
    "translator_claimed": "J. W. Mackail",
    "translator_in_text": true,
    "identity": "ok",
@@ -102,5 +102,19 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "greek-anthology-mackail": [
+   "greek anthology"
+  ],
+  "sappho-wharton": [
+   "sappho"
+  ],
+  "anacreon-moore": [
+   "anacreon"
+  ],
+  "bacchylides-poste": [
+   "bacchylides"
+  ]
  }
 }

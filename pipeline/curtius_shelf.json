@@ -29,9 +29,7 @@
   "curcius"
  ],
  "_translators": {
-  "curtius-digby-1714-v1": "John Digby",
-  "curtius-brende-1553": "john brende",
-  "curtius-digby-1714-v2": "john digby"
+  "curtius-digby-1714-v1": "John Digby"
  },
  "_checks": {
   "curtius-brende-1553": {
@@ -39,9 +37,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "curtius",
-   "translator_claimed": "john brende",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "title_weak": true,
+   "identity": "title_weak",
    "ia_rights": "ok: published 1553",
    "ia_date": "1553",
    "ia_possible_copyright_status": null,
@@ -66,17 +63,16 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "curtius",
-   "translator_claimed": "john digby",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "title_weak": true,
+   "identity": "title_weak",
    "ia_rights": "ok: published 1714",
    "ia_date": "1714",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
- "_identity_checked": {
-  "curtius-brende-1553": "title page read by eye: the black-letter OCR prints the translator as 'lohn Brence' (John Brende), London, Richard Tottel, 1553",
-  "curtius-digby-1714-v2": "the vol. 2 scan has no title page (it opens at Book VII); it continues vol. 1 of the same 1714 edition, whose title page and text name John Digby"
+ "_translator_unchecked": {
+  "curtius-brende-1553": "the black-letter OCR prints the name as 'lohn Brence' (John Brende), read by eye on the title page (London, Richard Tottel, 1553); not checkable as a word, and no override covers a translator",
+  "curtius-digby-1714-v2": "the vol. 2 scan has no title page (it opens at Book VII); it continues vol. 1 of the same 1714 edition, whose title page and text name John Digby; not checkable in this volume"
  }
 }

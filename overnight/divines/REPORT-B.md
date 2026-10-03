@@ -215,3 +215,12 @@
 
 ## 2026-10-02 21:25 CDT — later-matter sweep
 - Swept every lane B text's front matter for post-1930 revisions or addenda. Six held back on rights (`_held`, not fetched, local copies removed): suetonius-rolfe-v1 (revised 1951), cicero-williams-friends-v3 (revised 1954), plautus-nixon-v3 (1979 note), quintilian-butler-v1 (1980 addendum), ovid-miller-metamorphoses-v1 (1960s-70s bibliography), julian-wright-v1 (PG transcription includes the 1980 addendum). Other later dates found were reprint lines or library stamps.
+
+## 2026-10-02 21:54 CDT — acquisitions since 21:25, and review rounds 5-6
+- Perseus TEI (clean, not on PR #7): Xenophon, Marchant and Todd, 11 works (1923-25); Plato, Fowler, Lamb and Bury, 35 texts (1914-29); Brookes More's complete Metamorphoses (Cornhill, 1922); Ovid's Art of Love volume (1855) and Epistles (1813), translators unnamed; Jones's Epidemics I and III (1923). Shorey's Republic excluded (file dated 1935-37).
+- New shelves (raw IA unless noted): jordanes (Mierow, 1908 PG and 1915), sidonius (Dalton, 1915, 2 vols), isaeus (Sir William Jones, 1779), herodas (Sharpley, 1906), rutilius (Savage-Armstrong's verse, ed. Keene, 1907), solinus (Golding, 1587), periploi (Schoff's Periplus, 1912; Falconer's Hanno, 1797).
+- Added to shelves: frontinus (Herschel, 1899), late-greek-poets (Royston's Lycophron, 1806), greek-romances (Chariton 1764, 2 vols; Xenophon of Ephesus 1727), roman-epitomators (Codrington's Justin, 1688).
+- Refused on OCR quality: Longus 1733 (0.69), Mawer's Oppian 1736 (0.76), Aelian 1665 (0.57), Francis's Horace 1743/1746 (0.61-0.64), Roberts's Demetrius 1902 (Greek facing, 0.59-0.72).
+- fetch_perseus.py: record() labels each failure by cause and records only this run's rows; 1930 now needs a stated reason (52 Vince/Lamb rows given one); "</sourceDesc" across a line break is read.
+- fetch_shelf.py (lane A's 815a082 pulled): new optional `_surname_by_slug`, so each book on a multi-author shelf is checked for its own author (13 shelves). Curtius Brende and Digby vol. 2 moved to `_translator_unchecked` (no override covers a translator now). Aristotle Oxford vols. I, IV-XI dated from their title pages in `_rights_checked` (vol. IX is a 1931 impression of 1925).
+- Hourly retry at 21:31: nothing recovered.

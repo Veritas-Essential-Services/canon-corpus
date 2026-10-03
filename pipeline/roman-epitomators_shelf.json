@@ -65,7 +65,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "justin",
+   "author_seen": "florus",
    "translator_claimed": "John Selby Watson",
    "translator_in_text": true,
    "identity": "ok",
@@ -78,7 +78,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "justin",
+   "author_seen": "florus",
    "translator_claimed": "edward seymour forster",
    "translator_in_text": true,
    "identity": "ok",
@@ -100,5 +100,23 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "justin-nepos-eutropius-watson": [
+   "justin",
+   "justinus"
+  ],
+  "sallust-florus-velleius-watson": [
+   "florus",
+   "velleius",
+   "paterculus"
+  ],
+  "florus-forster-nepos-rolfe": [
+   "florus"
+  ],
+  "justin-codrington-1688": [
+   "justin",
+   "justinus"
+  ]
  }
 }

@@ -22,6 +22,9 @@ without them behaves as before):
   "_surname": ["edwards", ...]   the author's (or translator's) surname, as
       whole words; one must appear in the text. Without it the old test runs:
       any `_name_words` entry as a substring, which "john" or "law" passes.
+  "_surname_by_slug": {slug: [...]}  on a shelf holding several authors,
+      the names THIS item must show, in place of the shelf-wide `_surname`
+      (which any one author's name would pass). Added 2026-10-03.
   "_translators": {slug: "Constable"}  the translator claimed for an item;
       a Gutenberg header naming someone else, or a text that never names
       them, is refused as a MISMATCH.
@@ -199,12 +202,17 @@ def pg_rights(data, r, claimed=None):
         r["translator_match"] = bool(_pat(claimed).search(r["pg_translator"].lower()))
     return r
 
+def surname_for(shelf, slug):
+    """The names an item must show: its own `_surname_by_slug` entry when the
+    shelf gives one, else the shelf-wide `_surname`."""
+    return shelf.get("_surname_by_slug", {}).get(slug) or shelf.get("_surname")
+
 def checks_for(slug, kind, data, url, shelf, key, names, ident):
     """Everything --record commits for one item (no body text, only findings)."""
     r = {"kind": kind, "checked": time.strftime("%Y-%m-%d")}
     try:
         check_identity(r, data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
-                       shelf.get("_surname"), ident, shelf.get("_translators", {}).get(slug))
+                       surname_for(shelf, slug), ident, shelf.get("_translators", {}).get(slug))
         r["identity"] = ("identity_override" if r.get("identity_override")
                          else "title_weak" if r.get("title_weak") else "ok")
     except RuntimeError as e:
@@ -248,7 +256,7 @@ def verify(name, shelf, out, skip, names, record=False):
         r = {}
         try:
             check_identity(r, data, key, names, kind, shelf.get("_identity_checked", {}).get(slug),
-                           shelf.get("_surname"), ident, shelf.get("_translators", {}).get(slug))
+                           surname_for(shelf, slug), ident, shelf.get("_translators", {}).get(slug))
             flag = ("identity_override" if r.get("identity_override")
                     else "title_weak" if r.get("title_weak") else "ok")
         except RuntimeError as e:
@@ -322,7 +330,7 @@ def main():
             claimed = shelf.get("_translators", {}).get(slug)
             check_identity(r, data, key, names, kind,
                            shelf.get("_identity_checked", {}).get(slug),
-                           shelf.get("_surname"), ident_of(shelf, slug, kind), claimed)
+                           surname_for(shelf, slug), ident_of(shelf, slug, kind), claimed)
             if kind == "gutenberg":
                 pg_rights(data, r, claimed)
                 if r["pg_copyrighted"]:

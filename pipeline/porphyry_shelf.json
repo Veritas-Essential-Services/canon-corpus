@@ -74,5 +74,10 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "celsus-porphyry-julian-lardner": [
+   "porphyry"
+  ]
  }
 }

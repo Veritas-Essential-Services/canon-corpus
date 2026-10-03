@@ -80,7 +80,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "heliodorus",
+   "author_seen": "chariton",
    "identity": "ok",
    "ia_rights": "ok: published 1764",
    "ia_date": "1764",
@@ -117,5 +117,22 @@
  },
  "_excluded": {
   "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan"
+ },
+ "_surname_by_slug": {
+  "greek-romances-smith": [
+   "heliodorus"
+  ],
+  "heliodorus-underdowne-wright": [
+   "heliodorus"
+  ],
+  "chariton-1764-v1": [
+   "chariton"
+  ],
+  "chariton-1764-v2": [
+   "chariton"
+  ],
+  "xenophon-ephesius-1727": [
+   "xenophon"
+  ]
  }
 }

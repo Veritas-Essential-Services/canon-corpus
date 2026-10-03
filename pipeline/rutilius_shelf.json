@@ -9,8 +9,8 @@
  "internet_archive": {
   "rutilius-savage-armstrong-1907": [
    "cu31924026546386",
-   "De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus (London, 1907)",
-   "tr. George F. Savage-Armstrong"
+   "De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus, ed. with introduction and notes by Charles Haines Keene (London, 1907)",
+   "tr. George F. Savage-Armstrong (English verse); ed. Charles Haines Keene"
   ]
  },
  "_surname": [
@@ -35,5 +35,8 @@
  },
  "_translators": {
   "rutilius-savage-armstrong-1907": "Savage-Armstrong"
+ },
+ "_translator_note": {
+  "rutilius-savage-armstrong-1907": "the claim is the hyphenated surname 'Savage-Armstrong' alone: the OCR prints 'GEORGE F:.SAVAGE-ARMSTRONG', so the full name cannot match as words; the surname is distinctive"
  }
 }

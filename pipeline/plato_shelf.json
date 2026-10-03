@@ -275,7 +275,8 @@
   "pg29441": "Project Gutenberg Works of Plato: An Index (an index page, not a text)",
   "pg13726": "Apology, Crito and Phaedo of Socrates: Henry Cary translation, not Jowett",
   "pg78618, pg79398": "The Works of Plato (Bohn, 6 vols.): Cary / Davis translations, not Jowett. Pending as a second translator shelf if wanted",
-  "Seventh Letter and the Epistles": "Jowett did not translate the Epistles in the Dialogues; not on this shelf"
+  "Seventh Letter and the Epistles": "Jowett did not translate the Epistles in the Dialogues; not on this shelf",
+  "tlg0059.tlg030.perseus-eng2 (Shorey, Republic)": "Paul Shorey's Loeb Republic: vol. 1 1930, vol. 2 1935; the one Perseus file holds both books and its sourceDesc dates it 1935-37 printings, so it is after the 1930 line as a whole. Not taken; Jowett's, Taylor's and Davis's (Bohn) Republics are held"
  },
  "_cross_ref": {
   "plato-republic": "already held on pipeline/adler_shelf.json as plato-republic (PG 1497, the same Jowett text); not refetched, never a second uid",
@@ -1129,7 +1130,7 @@
    "tlg0059.tlg034.perseus-eng2",
    "Laws",
    "R. G. Bury",
-   "Translation published None: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, None."
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Plato in Twelve Volumes (Loeb), Cambridge, MA: Harvard University Press; London: William Heinemann, 1926."
   ],
   "plato-perseus-lamb-epinomis": [
    "tlg0059.tlg035.perseus-eng2",

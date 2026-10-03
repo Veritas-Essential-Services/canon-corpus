@@ -77,7 +77,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "juvenal",
+   "author_seen": "persius",
    "translator_claimed": "John Conington",
    "translator_in_text": true,
    "identity": "ok",
@@ -90,7 +90,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "juvenal",
+   "author_seen": "persius",
    "translator_claimed": "William Drummond",
    "translator_in_text": true,
    "identity": "ok",
@@ -99,5 +99,21 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "juvenal-persius-evans-gifford": [
+   "juvenal",
+   "juvenalis"
+  ],
+  "juvenal-persius-ramsay": [
+   "juvenal",
+   "juvenalis"
+  ],
+  "persius-conington-1874": [
+   "persius"
+  ],
+  "persius-drummond-1799": [
+   "persius"
+  ]
  }
 }

@@ -252,6 +252,158 @@
    "scope": "coordinator relay 01:36Z: _surname/_translators on every lane B shelf, --verify --record, fetch_perseus.py review fixes",
    "started": "2026-10-02T20:58:45-05:00",
    "notes": "commit 2795e4b"
+  },
+  {
+   "id": "acq-persius-drummond",
+   "status": "done",
+   "scope": "juvenal: Drummond's Persius (1799)",
+   "started": "2026-10-02T21:05:58-05:00",
+   "finished": "2026-10-02T21:05:58-05:00",
+   "notes": "commit 82b4ed0; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-apollonius-preston",
+   "status": "done",
+   "scope": "apollonius: Preston's Argonautics (Dublin, 1803), vols. 1 and 3; vol. 2 not found",
+   "started": "2026-10-02T21:05:58-05:00",
+   "finished": "2026-10-02T21:05:58-05:00",
+   "notes": "commit 018e8cb; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-lucretius-good",
+   "status": "done",
+   "scope": "lucretius: John Mason Good (1805, 2 vols)",
+   "started": "2026-10-02T21:08:27-05:00",
+   "finished": "2026-10-02T21:08:27-05:00",
+   "notes": "commit ea7221f; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-xenophon-perseus-marchant",
+   "status": "done",
+   "scope": "xenophon: Marchant's and Todd's Loebs, 11 works (Perseus TEI, 1923-25)",
+   "started": "2026-10-02T21:24:36-05:00",
+   "finished": "2026-10-02T21:24:36-05:00",
+   "notes": "commit 1c95bbc; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-plato-perseus-loebs",
+   "status": "done",
+   "scope": "plato: Fowler, Lamb, Bury Loebs, 35 texts (Perseus TEI, 1914-29); Shorey's Republic excluded (1935-37)",
+   "started": "2026-10-02T21:28:57-05:00",
+   "finished": "2026-10-02T21:28:57-05:00",
+   "notes": "commit e61e8d6; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-ovid-more-and-older",
+   "status": "done",
+   "scope": "ovid: Brookes More's Metamorphoses (1922) and the 1813/1855 collections (Perseus TEI)",
+   "started": "2026-10-02T21:28:57-05:00",
+   "finished": "2026-10-02T21:28:57-05:00",
+   "notes": "commit 49a0b56; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-hippocrates-epidemics",
+   "status": "done",
+   "scope": "hippocrates: Jones's Epidemics I and III (Perseus TEI, 1923)",
+   "started": "2026-10-02T21:28:57-05:00",
+   "finished": "2026-10-02T21:28:57-05:00",
+   "notes": "commit 997a7d0; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-jordanes",
+   "status": "done",
+   "scope": "new shelf jordanes: Mierow's Getica (1908 PG, 1915 IA)",
+   "started": "2026-10-02T21:39:23-05:00",
+   "finished": "2026-10-02T21:39:23-05:00",
+   "notes": "commit 4680113; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-sidonius",
+   "status": "done",
+   "scope": "new shelf sidonius: Dalton's Letters (Oxford, 1915, 2 vols)",
+   "started": "2026-10-02T21:42:28-05:00",
+   "finished": "2026-10-02T21:42:28-05:00",
+   "notes": "commit 5f58b2e; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-isaeus",
+   "status": "done",
+   "scope": "new shelf isaeus: Sir William Jones (1779)",
+   "started": "2026-10-02T21:42:28-05:00",
+   "finished": "2026-10-02T21:42:28-05:00",
+   "notes": "commit aa9e980; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-herodas",
+   "status": "done",
+   "scope": "new shelf herodas: Sharpley's verse Mimes (1906)",
+   "started": "2026-10-02T21:42:28-05:00",
+   "finished": "2026-10-02T21:42:28-05:00",
+   "notes": "commit 5d412c9; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-rutilius",
+   "status": "done",
+   "scope": "new shelf rutilius: Savage-Armstrong's verse, ed. Keene (1907)",
+   "started": "2026-10-02T21:42:29-05:00",
+   "finished": "2026-10-02T21:42:29-05:00",
+   "notes": "commit f89638a; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-frontinus-herschel",
+   "status": "done",
+   "scope": "frontinus: Herschel's Two Books on the Water Supply (Boston, 1899)",
+   "started": "2026-10-02T21:42:29-05:00",
+   "finished": "2026-10-02T21:42:29-05:00",
+   "notes": "commit 9430045; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-lycophron-royston",
+   "status": "done",
+   "scope": "late-greek-poets: Royston's Cassandra (Cambridge, 1806)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit a4796e4; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-chariton-xenophon-ephesius",
+   "status": "done",
+   "scope": "greek-romances: Chariton (1764, 2 vols), Xenophon of Ephesus (1727); translators unnamed",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 163c02e; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-justin-codrington",
+   "status": "done",
+   "scope": "roman-epitomators: Codrington's Justin (5th ed., 1688)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 1bf9a35; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-solinus",
+   "status": "done",
+   "scope": "new shelf solinus: Golding's Solinus (1587)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 63173b0; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "acq-periploi",
+   "status": "done",
+   "scope": "new shelf periploi: Schoff's Periplus (1912), Falconer's Hanno (1797)",
+   "started": "2026-10-02T21:46:13-05:00",
+   "finished": "2026-10-02T21:46:13-05:00",
+   "notes": "commit 8574a1c; title page read; translator and identity gates recorded in _checks / _perseus_checks"
+  },
+  {
+   "id": "review-rounds-3-to-6",
+   "status": "done",
+   "scope": "coordinator relays 02:08Z-02:50Z: full-name translator claims, Perseus no-date and 1930 gates, record() outcomes, post-1930 later-matter holds, per-entry author names (_surname_by_slug), Aristotle title-page dates, Curtius claims under the new fetch_shelf gate",
+   "started": "2026-10-02T21:08:53-05:00",
+   "finished": "2026-10-02T21:54:28-05:00",
+   "notes": "commits 2e2e364, 0500e96, f2217dc, 4e410ff and the commit carrying this item"
   }
  ]
 }

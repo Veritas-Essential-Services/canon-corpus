@@ -83,5 +83,16 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_surname_by_slug": {
+  "theocritus-calverley": [
+   "theocritus"
+  ],
+  "theocritus-bion-moschus-banks": [
+   "theocritus"
+  ],
+  "theocritus-fawkes-1767": [
+   "theocritus"
+  ]
  }
 }

@@ -93,7 +93,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "aratus",
    "translator_claimed": "John Lamb",
    "translator_in_text": true,
    "identity": "ok",
@@ -106,7 +106,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "aratus",
    "translator_claimed": "E. Poste",
    "translator_in_text": true,
    "identity": "ok",
@@ -132,7 +132,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "tryphiodorus",
    "translator_claimed": "merrick",
    "translator_in_text": true,
    "identity": "ok",
@@ -146,6 +146,9 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": null,
+   "translator_claimed": "Edwin Arnold",
+   "translator_in_text": true,
+   "title_weak": true,
    "identity": "identity_override",
    "ia_rights": "ok: published 1870",
    "ia_date": "[187-?]",
@@ -169,7 +172,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "callimachus",
+   "author_seen": "lycophron",
    "translator_claimed": "Royston",
    "translator_in_text": true,
    "identity": "ok",
@@ -182,5 +185,32 @@
  "_translator_unchecked": {},
  "_excluded": {
   "bim_eighteenth-century_oppians-cynegeticks-tr_oppian_1736": "Oppian's Cynegeticks (Mawer, 1736): ECCO OCR 0.76, below the lane's bar; wanted only from a cleaner scan"
+ },
+ "_surname_by_slug": {
+  "callimachus-dodd-hymns": [
+   "callimachus"
+  ],
+  "aratus-lamb-phenomena": [
+   "aratus"
+  ],
+  "aratus-poste-skies": [
+   "aratus"
+  ],
+  "aratus-brown-phainomena": [
+   "aratus"
+  ],
+  "tryphiodorus-merrick-destruction-of-troy": [
+   "tryphiodorus"
+  ],
+  "musaeus-arnold-hero-leander": [
+   "musaeus",
+   "musæus"
+  ],
+  "oppian-diaper-jones-halieuticks": [
+   "oppian"
+  ],
+  "lycophron-royston-1806": [
+   "lycophron"
+  ]
  }
 }

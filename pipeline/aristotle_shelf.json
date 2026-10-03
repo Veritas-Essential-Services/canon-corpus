@@ -168,10 +168,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Categoriae, De Interpretatione, Analytics, Topica (Oxford: Clarendon Press, 1928); IA's date '1910-1931' is the series range"
   },
   "aristotle-ross-v02": {
    "kind": "ia",
@@ -191,10 +192,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Historia Animalium, D'Arcy Wentworth Thompson (Oxford: Clarendon Press, 1910); IA's date is the series range"
   },
   "aristotle-ross-v05": {
    "kind": "ia",
@@ -202,10 +204,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: De Partibus Animalium etc. (Oxford: Clarendon Press, 1912); IA's date is the series range"
   },
   "aristotle-ross-v06": {
    "kind": "ia",
@@ -214,10 +217,11 @@
    "author_seen": "aristotle",
    "title_weak": true,
    "identity": "title_weak",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Opuscula (Oxford: Clarendon Press, 1913); IA's date is the series range"
   },
   "aristotle-ross-v07": {
    "kind": "ia",
@@ -225,10 +229,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Problemata, E. S. Forster (Oxford: Clarendon Press, 1927; preface dated 1926); IA's date is the series range"
   },
   "aristotle-ross-v08": {
    "kind": "ia",
@@ -236,10 +241,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Metaphysica, second edition (Oxford: Clarendon Press, 1928); IA's date is the series range"
   },
   "aristotle-ross-v09": {
    "kind": "ia",
@@ -247,10 +253,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Ethica Nicomachea etc. (Oxford: Clarendon Press, 1925); this copy is the 'Impression of 1931' of the 1925 first edition, with no revision notice, so its text is the 1925 one (same grey area as the kept Loeb reprints); IA's date is the series range"
   },
   "aristotle-ross-v10": {
    "kind": "ia",
@@ -258,10 +265,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Politica (Jowett, revised edition), Oeconomica, Atheniensium Respublica (Oxford: Clarendon Press, 1921); IA's date is the series range"
   },
   "aristotle-ross-v11": {
    "kind": "ia",
@@ -269,10 +277,11 @@
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
-   "ia_rights": "ok: published 1910",
+   "ia_rights": "CHECK: published 1931",
    "ia_date": "1910-1931",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "title page read: Rhetorica, De Rhetorica ad Alexandrum, De Poetica (Oxford: Clarendon Press, 1924); IA's date is the series range"
   },
   "aristotle-hammond-psychology": {
    "kind": "ia",
@@ -300,7 +309,16 @@
   }
  },
  "_rights_checked": {
-  "aristotle-ross-v02": "Title page read: 'First edition 1930; reprinted lithographically ... from sheets of the first edition 1947, 1953, 1962'. A photographic reprint carries the 1930 text unchanged; works published in 1930 entered the US public domain on 2026-01-01."
+  "aristotle-ross-v02": "Title page read: 'First edition 1930; reprinted lithographically ... from sheets of the first edition 1947, 1953, 1962'. A photographic reprint carries the 1930 text unchanged; works published in 1930 entered the US public domain on 2026-01-01.",
+  "aristotle-ross-v01": "title page read: Categoriae, De Interpretatione, Analytics, Topica (Oxford: Clarendon Press, 1928); IA's date '1910-1931' is the series range",
+  "aristotle-ross-v04": "title page read: Historia Animalium, D'Arcy Wentworth Thompson (Oxford: Clarendon Press, 1910); IA's date is the series range",
+  "aristotle-ross-v05": "title page read: De Partibus Animalium etc. (Oxford: Clarendon Press, 1912); IA's date is the series range",
+  "aristotle-ross-v06": "title page read: Opuscula (Oxford: Clarendon Press, 1913); IA's date is the series range",
+  "aristotle-ross-v07": "title page read: Problemata, E. S. Forster (Oxford: Clarendon Press, 1927; preface dated 1926); IA's date is the series range",
+  "aristotle-ross-v08": "title page read: Metaphysica, second edition (Oxford: Clarendon Press, 1928); IA's date is the series range",
+  "aristotle-ross-v09": "title page read: Ethica Nicomachea etc. (Oxford: Clarendon Press, 1925); this copy is the 'Impression of 1931' of the 1925 first edition, with no revision notice, so its text is the 1925 one (same grey area as the kept Loeb reprints); IA's date is the series range",
+  "aristotle-ross-v10": "title page read: Politica (Jowett, revised edition), Oeconomica, Atheniensium Respublica (Oxford: Clarendon Press, 1921); IA's date is the series range",
+  "aristotle-ross-v11": "title page read: Rhetorica, De Rhetorica ad Alexandrum, De Poetica (Oxford: Clarendon Press, 1924); IA's date is the series range"
  },
  "_held": {
   "aristotle-chase-ethics-pg": "PG 8438 is already held on pipeline/adler_shelf.json as aristotle-ethics (labelled 'tr. Chase', which the collation agrees with: 167 of 200 sampled 8-word runs match the 1915 Everyman 'Translated by D. P. Chase'); not refetched",
