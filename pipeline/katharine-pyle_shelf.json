@@ -1,0 +1,158 @@
+{
+ "_about": "Katharine Pyle's fairy and folk tales retold for children: The Counterpane Fairy (Dutton, copyright 1898), As the Goose Flies (copyright 1901), Fairy Tales from Many Lands (copyright 1911), Mother's Nursery Tales (copyright 1918), Tales of Folk and Fairies (copyright 1919; a 1929 printing), Wonder Tales from Many Lands (first published August 1920), Fairy Tales from Far and Near (copyright 1922). Her verses in Howard Pyle's Wonder Clock stay on the pyle shelf. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Katharine Pyle",
+ "_name_words": [
+  "pyle"
+ ],
+ "_surname": [
+  "katharine pyle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "katharine-pyle-counterpane-fairy": [
+   3230,
+   "The Counterpane Fairy"
+  ],
+  "katharine-pyle-as-the-goose-flies": [
+   48593,
+   "As the Goose Flies",
+   {
+    "levels": [
+     {
+      "re": "_Chapter [A-Z][a-z]+_$",
+      "title_next": true,
+      "strip": "_"
+     }
+    ],
+    "start": "_Chapter One_$",
+    "front": true
+   }
+  ],
+  "katharine-pyle-fairy-tales-from-many-lands": [
+   47178,
+   "Fairy Tales from Many Lands",
+   {
+    "contents_only": true
+   }
+  ],
+  "katharine-pyle-mothers-nursery-tales": [
+   49001,
+   "Mother's Nursery Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "katharine-pyle-tales-of-folk-and-fairies": [
+   25913,
+   "Tales of Folk and Fairies",
+   {
+    "levels": [
+     {
+      "re": "(?:THE\\ MEESTER\\ STOORWORM|JEAN\\ MALIN\\ AND\\ THE\\ BULL\\-MAN|THE WIDOW.S SON|THE\\ WISE\\ GIRL|THE\\ HISTORY\\ OF\\ ALI\\ COGIA|OH!|THE\\ TALKING\\ EGGS|THE\\ FROG\\ PRINCESS|THE\\ MAGIC\\ TURBAN,\\ THE\\ MAGIC\\ SWORD\\ AND\\ THE\\ MAGIC\\ CARPET|THE\\ THREE\\ SILVER\\ CITRONS|THE\\ MAGIC\\ PIPE|THE\\ TRIUMPH\\ OF\\ TRUTH|LIFE.S SECRET|DAME\\ PRIDGETT\\ AND\\ THE\\ FAIRIES)\\.?$",
+      "title_next": true,
+      "max": 70
+     }
+    ],
+    "start": "THE\\ MEESTER\\ STOORWORM\\.?$",
+    "front": true
+   }
+  ],
+  "katharine-pyle-wonder-tales-from-many-lands": [
+   48351,
+   "Wonder Tales from Many Lands",
+   {
+    "levels": [
+     {
+      "re": "(?:LONG,\\ BROAD,\\ AND\\ SHARPSIGHT|THE\\ DWARF\\ WITH\\ THE\\ GOLDEN\\ BEARD|THE\\ GREAT\\ WHITE\\ BEAR\\ AND\\ THE\\ TROLLS|THE\\ STORY\\ OF\\ THE\\ THREE\\ BILLY\\ GOAT\\ GRUFFS|THE\\ STONES\\ OF\\ PLOUVINEC|THE\\ KING\\ OF\\ THE\\ BUFFALOES|THE\\ JACKAL\\ AND\\ THE\\ ALLIGATOR|THE\\ BABA\\ YAGA|TAMLANE|THE\\ FARMER\\ AND\\ THE\\ PIXY|RABBIT['’]S\\ EYES|MUDJEE\\ MONEDO|DAPPLEGRIM|THE\\ FISH\\ PRINCE|THE\\ MAGIC\\ RICE\\ KETTLE|THE\\ CROW\\ PERI|THE\\ FOUR\\ WISHES|WHY\\ THE\\ ANIMALS\\ NO\\ LONGER\\ FEAR\\ THE\\ SHEEP|PRINCESS\\ ROSETTA)\\.?$",
+      "title_next": true,
+      "max": 70
+     }
+    ],
+    "start": "LONG,\\ BROAD,\\ AND\\ SHARPSIGHT\\.?$",
+    "front": true
+   }
+  ],
+  "katharine-pyle-fairy-tales-from-far-and-near": [
+   66919,
+   "Fairy Tales from Far and Near",
+   {
+    "levels": [
+     {
+      "re": "(?:LITTLE\\ SURYA\\ BAI|THE\\ PRINCES\\ AND\\ THE\\ FRIENDLY\\ ANIMALS|GRACIOSA\\ AND\\ PERCINET|THE\\ GIANT['’]S\\ CLIFF|THE\\ STORY\\ OF\\ CONN\\-EDA|THE\\ BLUE\\ BELT|THE\\ DUTIFUL\\ DAUGHTER|THE\\ OAT\\ CAKE|THE\\ DREAMER|THE\\ STORY\\ OF\\ HARKA|SCHIPPEITARO|EROS\\ AND\\ PSYCHE)\\.?$",
+      "title_next": true,
+      "max": 70
+     }
+    ],
+    "start": "LITTLE\\ SURYA\\ BAI\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "katharine-pyle-counterpane-fairy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-pyle-as-the-goose-flies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-pyle-fairy-tales-from-many-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-pyle-mothers-nursery-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-pyle-tales-of-folk-and-fairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-pyle-wonder-tales-from-many-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "katharine-pyle-fairy-tales-from-far-and-near": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "katharine pyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

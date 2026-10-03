@@ -1329,8 +1329,10 @@
     {
       "id": "katharine-pyle",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths, legends and fairy tales retold: katharine-pyle; no minting",
-      "status": "running",
-      "started": "2026-10-03T01:52:02-05:00"
+      "status": "done",
+      "started": "2026-10-03T01:52:02-05:00",
+      "finished": "2026-10-03T01:53:46-05:00",
+      "notes": "7/7 fetched (Gutenberg 3230, 48593, 47178, 49001, 25913, 48351, 66919), 8,810 units, 0 ~2 ids."
     },
     {
       "id": "spence",

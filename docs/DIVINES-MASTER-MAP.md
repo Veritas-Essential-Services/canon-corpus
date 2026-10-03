@@ -6678,6 +6678,20 @@ Shelf: `pipeline/jameson_shelf.json` (2026-10-02; added at the coordinator's rel
 | Sacred and Legendary Art, volume 1 | have | PG 69581, `jameson-sacred-and-legendary-art-1` (1911 units) |
 | Legends of the Madonna as Represented in the Fine Arts | have | PG 12047, `jameson-legends-of-the-madonna` (1575 units) |
 
+## Katharine Pyle
+
+Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and folk tales retold for children, from many lands; cut by tale or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Counterpane Fairy | have | PG 3230, `katharine-pyle-counterpane-fairy` (845 units) |
+| As the Goose Flies | have | PG 48593, `katharine-pyle-as-the-goose-flies` (888 units) |
+| Fairy Tales from Many Lands | have | PG 47178, `katharine-pyle-fairy-tales-from-many-lands` (1154 units) |
+| Mother's Nursery Tales | have | PG 49001, `katharine-pyle-mothers-nursery-tales` (1914 units) |
+| Tales of Folk and Fairies | have | PG 25913, `katharine-pyle-tales-of-folk-and-fairies` (1385 units) |
+| Wonder Tales from Many Lands | have | PG 48351, `katharine-pyle-wonder-tales-from-many-lands` (1370 units) |
+| Fairy Tales from Far and Near | have | PG 66919, `katharine-pyle-fairy-tales-from-far-and-near` (1254 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
