@@ -1,0 +1,30 @@
+{
+ "_about": "James Mooney's (1861-1921) Myths of the Cherokee, recorded among the Eastern Cherokee, from the Bureau of American Ethnology's nineteenth annual report. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "James Mooney",
+ "_name_words": [
+  "mooney"
+ ],
+ "_surname": [
+  "mooney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mooney-myths-of-the-cherokee": [
+   45634,
+   "Myths of the Cherokee"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mooney-myths-of-the-cherokee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mooney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

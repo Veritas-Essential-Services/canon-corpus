@@ -432,3 +432,6 @@
 
 ## 2026-10-02 20:49 CDT — cushing: done
 - 2/2 fetched (Gutenberg 54682, 48342), 2,973 units, 9 ~2 ids.
+
+## 2026-10-02 20:49 CDT — mooney: done
+- 1/1 fetched (Gutenberg 45634), 3,565 units, 3 ~2 ids.
