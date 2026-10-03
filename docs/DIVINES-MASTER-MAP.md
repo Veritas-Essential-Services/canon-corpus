@@ -1461,6 +1461,16 @@ Slugs `beveridge-*`.
 | Work | Status | Where |
 |---|---|---|
 | Theological Works, 12 vols (Oxford: Parker, 1842-48, Library of Anglo-Catholic Theology); vols 11-12 in Latin | have-raw | IA (identifiers in the shelf) |
+
+
+## W. G. T. Shedd (round 9, my pick, 2026-10-03)
+
+Slugs `shedd-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Dogmatic Theology, 2 vols (New York: Scribner, 1888) and vol. 3, supplement (1894) | have-raw | IA (identifiers in the shelf) |
+| A History of Christian Doctrine, 2 vols (New York: Scribner, 1863; vol. 2 an 1868 printing) | have-raw | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -408,3 +408,6 @@
 
 ## 2026-10-03 01:10 CDT — william-beveridge done
 - `pipeline/william-beveridge_shelf.json`: the LACT Theological Works, 12 volumes of raw IA OCR, about 15 MB; title pages read (MDCCCXLII-MDCCCXLVIII). Median 98.4%; vols 11-12 score 70% because they are Latin (5 and 8 "the" against 1,700-3,500 "et"), vol. 7 90% for the same reason in part. `--verify --record`: 0 mismatched, 0 rights flags; matched on "william beveridge". 0 uids minted.
+
+## 2026-10-03 01:10 CDT — w-g-t-shedd done
+- `pipeline/w-g-t-shedd_shelf.json`: 5 IA volumes of raw OCR, median 97.6% (96.2-98.0%), about 4.6 MB; title pages read (1888, 1894; 1863, and 1868 for the History's vol. 2). The first vol. 2 tried never showed Shedd's name and the gate refused it; another copy replaced it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
