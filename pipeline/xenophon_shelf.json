@@ -153,7 +153,8 @@
   "xenophon-perseus-marchant-ways-and-means": "Edgar Carew Marchant",
   "xenophon-perseus-marchant-on-the-cavalry-commander": "Edgar Carew Marchant",
   "xenophon-perseus-marchant-on-the-art-of-horsemanship": "Edgar Carew Marchant",
-  "xenophon-perseus-marchant-on-hunting": "Edgar Carew Marchant"
+  "xenophon-perseus-marchant-on-hunting": "Edgar Carew Marchant",
+  "xenophon-perseus-miller-cyropaedia": "Walter Miller"
  },
  "_checks": {
   "xenophon-anabasis": {
@@ -480,6 +481,12 @@
    "On Hunting",
    "Edgar Carew Marchant",
    "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-miller-cyropaedia": [
+   "tlg0032.tlg007.perseus-eng2",
+   "Cyropaedia",
+   "Walter Miller",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vols. 5-6, tr. Walter Miller. Cambridge, MA: Harvard University Press; London: William Heinemann, 1914 (Loeb Classical Library). (The census CSV's '1949' is Miller's death year, not a printing.)"
   ]
  },
  "_perseus_checks": {
@@ -632,6 +639,20 @@
    "author_seen": "xenophon",
    "source_years": [
     1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-miller-cyropaedia": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Walter Miller",
+   "author_seen": "xenophon",
+   "source_years": [
+    1914
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
