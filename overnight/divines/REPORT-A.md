@@ -262,3 +262,6 @@
 
 ## 2026-10-02 20:32 CDT — isaac-ambrose done
 - `pipeline/isaac-ambrose_shelf.json`: 1 volume (Works, 1829), raw IA OCR, 99.1%, about 1.8 MB; the text was searched for each of the main treatises and all are present. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:35 CDT — charles-bridges done
+- `pipeline/charles-bridges_shelf.json`: 4 items, raw IA OCR, median 97.1% (96.5-98.2%), about 6.2 MB. Each Works volume's contents were read from its title page. Ecclesiastes: the California scan's OCR garbles his name, so the gate refused it; the Princeton scan, which names him, is used. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

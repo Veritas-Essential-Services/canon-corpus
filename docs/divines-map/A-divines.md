@@ -973,3 +973,13 @@ No CCEL or Gutenberg text. Raw IA OCR from a Princeton scan; slug `ambrose-*`.
 |---|---|---|
 | Works (London: Tegg, 1829, one volume): Prima, Media and Ultima (Regeneration, the Means, the Last Things), Looking unto Jesus, War with Devils, Communion with Angels, with a memoir | have-raw | IA (identifier in the shelf) |
 | Earlier Works (1799-1811) and separate printings (1737-1856) | alternate | IA |
+
+## Charles Bridges (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `bridges-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works (New York: Carter, 1849): vol. 1 Proverbs, vol. 2 The Christian Ministry, vol. 3 Psalm 119 with the Memoir of Mary Jane Graham | have-raw | IA (identifiers in the shelf) |
+| An Exposition of the Book of Ecclesiastes (1860) | have-raw | IA |
+| Separate editions (1832-1865) | alternate | IA |
