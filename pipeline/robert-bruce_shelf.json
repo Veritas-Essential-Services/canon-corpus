@@ -1,0 +1,40 @@
+{
+ "_about": "Robert Bruce (1554-1631), minister of Edinburgh: Sermons, ed. William Cunningham (Wodrow Society, 1843), including the Sermons on the Sacrament (1590). Named robert-bruce so the king of the same name cannot be mistaken for him. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "bruce"
+ ],
+ "_surname": [
+  "bruce"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bruce-sermons-wodrow": [
+   "sermons00bruc",
+   "Sermons by the Rev. Robert Bruce, with collections for his life by Robert Wodrow, ed. William Cunningham (Wodrow Society, Edinburgh, 1843)"
+  ]
+ },
+ "_alternates": {
+  "sermonsbyrevrobe0000bruc": "internetarchivebooks copy.",
+  "sermons00cunngoog, sermons03cunngoog": "Google scans."
+ },
+ "_pending": {
+  "Sermons on the Sacrament, done into English by John Laidlaw (1901)": "sermonsonsacrame00bruciala (California); a modernised second witness."
+ },
+ "_excluded": {
+  "Robert the Bruce and other Bruces": "Different people."
+ },
+ "_checks": {
+  "bruce-sermons-wodrow": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bruce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
