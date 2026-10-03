@@ -90,6 +90,11 @@
    "ajaxofsophocles00sophrich",
    "The Ajax of Sophocles translated into English prose (London, 1895)",
    "tr. E. D. A. Morshead"
+  ],
+  "sophocles-coleridge-prose-1905": [
+   "tragediesofsopho00sophiala",
+   "The Tragedies of Sophocles translated into English prose (George Bell, 1905)",
+   "tr. Edward P. Coleridge"
   ]
  },
  "_cross_ref": {
@@ -124,7 +129,8 @@
   "sophocles-sheppard-oedipus-tyrannus-1922": "Sheppard",
   "sophocles-trevelyan-ajax-1919": "Trevelyan",
   "sophocles-plaistowe-philoctetes": "Plaistowe",
-  "sophocles-morshead-ajax-1895": "Morshead"
+  "sophocles-morshead-ajax-1895": "Morshead",
+  "sophocles-coleridge-prose-1905": "Coleridge"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -326,6 +332,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1895",
    "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-coleridge-prose-1905": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Coleridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
