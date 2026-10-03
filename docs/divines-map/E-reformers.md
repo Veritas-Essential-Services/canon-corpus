@@ -126,7 +126,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
 | Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
 | M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819); the Reformation in Italy and in Spain (1842 reprints) | have-raw | `thomas-mccrie_shelf.json` |
-| M'Crie, Sketches of Scottish Church History (1849, Google scan); his Life, by his son (1842) | have-raw | `thomas-mccrie_shelf.json` |
+| Thomas M'Crie the younger, Sketches of Scottish Church History (6th ed., 1849, Google scan); Life of Thomas M'Crie (1842) | have-raw | `thomas-mccrie_shelf.json` |
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
 | Sermons Delivered in Times of Persecution in Scotland, ed. Kerr (1880) | have-raw | `covenanter-sermons_shelf.json`; name check on the editor |
