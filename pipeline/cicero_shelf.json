@@ -246,6 +246,11 @@
    "lettersofmarcust01ciceuoft",
    "The Letters of Marcus Tullius Cicero to Several of His Friends, vol. I (1808)",
    "tr. William Melmoth"
+  ],
+  "cicero-reid-academics-1880": [
+   "academicscicero00cicegoog",
+   "The Academics of Cicero (London: Macmillan, 1880)",
+   "tr. James S. Reid"
   ]
  },
  "_excluded": {
@@ -305,7 +310,8 @@
   "cicero-watson-on-oratory": "the OCR garbles the title page (\"J.' S,' WATSON\"); 'watson' alone is a common name and proves nothing",
   "cicero-guthrie-atticus-1806-v2": "the title page OCRs the name as 'WILLIAM GUTHEIE'; read by eye as William Guthrie",
   "cicero-guthrie-atticus-1806-v3": "this volume's title page is lost in the scan; the translator is the one named on vol. II of the same 1806 set (cicero-guthrie-atticus-1806-v2)",
-  "cicero-guthrie-de-oratore-1808-v2": "the title pages name no translator; vol. I's publisher's advertisements list 'Cicero on Oratory and Orators, translated by Guthrie, and amended by Jones, 2 vols.'"
+  "cicero-guthrie-de-oratore-1808-v2": "the title pages name no translator; vol. I's publisher's advertisements list 'Cicero on Oratory and Orators, translated by Guthrie, and amended by Jones, 2 vols.'",
+  "cicero-reid-academics-1880": "title page OCR reads 'JAMES S. RE ID', the surname split by the OCR; left unchecked on that reading"
  },
  "_checks": {
   "cicero-yonge-orations-v4": {
@@ -897,6 +903,17 @@
    "ia_rights": "ok: published 1808",
    "ia_date": "1808",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-reid-academics-1880": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
