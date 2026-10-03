@@ -317,6 +317,9 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad of Homer, Books I-IV, translated into English verse (George Bell, 1885) | H. Smith Wright | `homer-hs-wright-iliad-1885` | have-raw (IA `iliadhomer00wriggoog`) |
 | The Iliad of Homer translated, vol. I (1871) | J. G. Cordery | `homer-cordery-iliad-1871-v1` | have-raw (IA `iliadhomer02cordgoog`) |
 | The Iliad of Homer translated, vol. II (1871) | J. G. Cordery | `homer-cordery-iliad-1871-v2` | have-raw (IA `iliadhomer00cordgoog`) |
+| The Iliad and Odyssey, vol. I: the Iliad (London: Nicol and Murray, 1833 set) | William Sotheby | `homer-sotheby-iliad-1833-v1` | have-raw (IA `iliadodyssey01home`) |
+| The Iliad and Odyssey, vol. II: the Iliad (London: Nicol and Murray, 1833 set) | William Sotheby | `homer-sotheby-iliad-1833-v2` | have-raw (IA `iliadodyssey02home`) |
+| The Iliad and Odyssey, vol. IV: the Odyssey (London: Nicol and Murray, 1833) | William Sotheby | `homer-sotheby-odyssey-1833-v4` | have-raw (IA `iliadodyssey04home`) |
 
 Pending (wishlist): none known beyond the rows above.
 
