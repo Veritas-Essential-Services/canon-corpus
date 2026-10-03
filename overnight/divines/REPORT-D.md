@@ -297,3 +297,6 @@
 
 ## 2026-10-02 19:50 CDT — mijatovich: done
 - 1/1 fetched (Gutenberg 45321), 963 units, 0 ~2 ids.
+
+## 2026-10-02 19:50 CDT — petrovitch: done
+- 1/1 fetched (Gutenberg 38571), 2,057 units, 0 ~2 ids.

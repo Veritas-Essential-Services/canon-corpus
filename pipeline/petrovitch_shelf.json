@@ -1,0 +1,22 @@
+{
+ "_about": "Woislav M. Petrovitch's Hero Tales and Legends of the Serbians, with an introduction by Chedo Mijatovich: the Kosovo cycle, Marko Kraljević, and folk tales, written in English from the Serbian ballads and Karadžić. The printing is undated in the Gutenberg text (its preface speaks of the Balkan war of 1912-13); Gutenberg cleared it as US public domain. Clean Gutenberg text. About 200 of its paragraphs (13%) are the same text as Mijatovich's Serbian Folk-lore (measured; most likely he reused her translations). Mint those passages once, with two witnesses. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Woislav M. Petrovitch",
+ "_name_words": [
+  "serbians",
+  "hero",
+  "tales",
+  "legends"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "petrovitch-hero-tales-serbians": [
+   38571,
+   "Hero Tales and Legends of the Serbians",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
