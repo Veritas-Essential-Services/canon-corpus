@@ -5,8 +5,8 @@
   "kalevala"
  ],
  "_surname": [
-  "crawford",
-  "kirby",
+  "john martin crawford",
+  "w. f. kirby",
   "lönnrot",
   "lonnrot"
  ],
@@ -39,7 +39,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "crawford",
+   "author_seen": "john martin crawford",
    "translator_claimed": "Crawford",
    "translator_in_text": true,
    "identity": "ok",
@@ -51,7 +51,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "crawford",
+   "author_seen": "john martin crawford",
    "translator_claimed": "Kirby",
    "translator_in_text": true,
    "identity": "ok",
@@ -63,7 +63,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "kirby",
+   "author_seen": "w. f. kirby",
    "translator_claimed": "Kirby",
    "translator_in_text": true,
    "identity": "ok",
