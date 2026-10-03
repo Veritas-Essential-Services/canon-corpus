@@ -5633,6 +5633,14 @@ Shelf: `pipeline/basile_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Stories from the Pentamerone | have | PG 2198, `basile-stories-from-the-pentamerone` (683 units) |
 
+## Giovanni Francesco Straparola, tr. W. G. Waters
+
+Shelf: `pipeline/straparola_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Italian Renaissance tales told over thirteen nights, where several fairy-tale types first appear in print; some are bawdy. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Nights of Straparola, volume 1 | have | PG 75257, `straparola-nights-vol-1` (795 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

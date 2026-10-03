@@ -513,3 +513,6 @@
 
 ## 2026-10-02 21:37 CDT — basile: done
 - 1/1 fetched (Gutenberg 2198), 683 units, 0 ~2 ids.
+
+## 2026-10-02 21:37 CDT — straparola: done
+- 1/1 fetched (Gutenberg 75257), 795 units, 0 ~2 ids.
