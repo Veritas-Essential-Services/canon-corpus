@@ -303,7 +303,7 @@ measures, run `--report`.
 
 ### The second shelf: Alford, Bengel, Keil & Delitzsch (drafts)
 
-The same build shelves twelve more volumes, one book per volume, all read
+The same build shelves twenty-four more volumes, one per volume, all read
 from Internet Archive scans:
 
 | Books | Volumes | Printed |
@@ -312,6 +312,13 @@ from Internet Archive scans:
 | Bengel, *Gnomon of the New Testament* (T&T Clark English) | II (Luke-Acts), III (Rom-2 Cor), IV (Gal-Heb) | 1873, 1873, 1877 |
 | Keil, *The Pentateuch* (Keil & Delitzsch) | I-III | 1878, 1872, 1871 |
 | Delitzsch, *The Psalms* (Keil & Delitzsch) | I-III | 1880, 1871, 1881 |
+| Keil, *Joshua, Judges, Ruth* (Keil & Delitzsch) | one | 1875 |
+| Keil, *Samuel*; *Kings* (2nd ed.); *Chronicles* | one each | 1880, 1883, 1878 |
+| Keil, *Ezra, Nehemiah, Esther* | one | 1873 |
+| Keil, *Jeremiah* (with *Lamentations* in II) | I-II | 1880, 1874 |
+| Keil, *Ezekiel* | I-II | 1876 |
+| Keil, *Daniel* | one | 1872 |
+| Keil, *The Twelve Minor Prophets* | I (Hosea-Micah), II (Nahum-Malachi) | 1878 |
 
 Ids lead with the book in a volume of several books
 (`alford-commentary-3:Gal.2.20`, `bengel-gnomon-4:Heb.11.1`). Alford runs
@@ -328,14 +335,35 @@ is a vote for the KJV. Delitzsch's Psalms measure as Hebrew, so
 `data/versification/bhs-kjv.json`, and a psalm's title stays unresolved
 with its reason. The Pentateuch mostly measures undecided (the numberings
 rarely differ there), and then each verse is read where it exists.
+The other volumes measure differently book by book: 1 Chronicles,
+Nehemiah, Jeremiah 1-29 and Daniel as the Hebrew; 1 Kings, Hosea, Joel and
+Malachi as the KJV (the English translators followed the English Bible
+there); most others undecided.
+
+Where a count is too small to decide (the scripture a volume cites, or a
+book in a single volume), the whole commentary's own count for that book
+decides, pooled over every K&D volume that holds it: so a Psalm cited in
+the Pentateuch volumes is read as Delitzsch's Psalms number it, in the
+Hebrew. Where that is undecided too, a verse the two numberings read
+differently is left unresolved with both candidates, never guessed as
+the KJV's.
+
+**Two reading rules for the later volumes.** A running head out of order
+with its neighbours ("XL" printed for "XI") is dropped as a misreading,
+and counted. And where a section gives its translation verse by verse and
+then its exposition, the exposition's "Ver. 20." goes back into verse 20's
+unit, which is then not one continuous stretch of the printed page; the
+honesty field and the measures say so.
 
 **What is lost.** No scan of Keil & Delitzsch keeps its Hebrew: the OCR
 read it as Latin letters, which stay in the text as the OCR gave them.
 Every honesty field says so.
 
 **Not shelved.** Alford vol. I and Bengel vols I and V have no scan that
-keeps the Greek. Delitzsch's Isaiah does not mark its sections "Ver.", so it
-needs a different reader; its scans are measured and listed in the code.
+keeps the Greek. Delitzsch's Isaiah, Job and Proverbs rarely mark their sections
+"Ver.", so they need a different reader; their scans are measured and
+listed in the code. Delitzsch's Ecclesiastes and Song of Songs (1877) has
+no scan printed before 1929 on the Internet Archive.
 
 ### The third shelf: Meyer (drafts); Godet not shelved
 

@@ -106,9 +106,10 @@ a book outside the KJV stays `resolved: false` with its reason. "ver. 8"
 and "vv. 8, 9" in a note mean the verse of the same chapter, and Westcott's
 "c. x. 11" the same epistle (`rule: self/...`), unless another work's
 abbreviation, a Latin title word or a capitalised name stands just before it
-(self_c_refused); "Gal. c. iv. 3" is Gal 4:3 (book_c). A range FS.parse reads
-only the start of ("viii. 28-ix. 3", "8. 28-9. 3", "iii. 12-8") is found by
-cross_ranges and applied only to the reference under its own book.
+(self_c_refused); "Gal. c. iv. 3" and "Gal. C. iv. 3" are Gal 4:3 (book_c). A
+range FS.parse reads only the start of ("viii. 28-ix. 3", "8. 28-9. 3",
+"iii. 12-8", "iii. 6, 7-iv. 2") is found by cross_ranges and applied only to
+the reference under its own book.
 
 HONESTY. The five scanned books are unproofread OCR and every honesty field
 says so; their notes' boundaries rest on verse numbers read off the page and
@@ -149,11 +150,11 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 # Strong's Greek lemmas, the forms of data/nt/John and the Greek of PG
 # #50857; English tokens found in the dwyl word list (data/corpus/proof).
 #   Galatians   saintpaulsepistl00lighrich 1910  6.8%  65.9%  92.6%   <- chosen (IA: NOT_IN_COPYRIGHT)
-#               cu31924075537088 (a 1921 reprint) 6.8% 66.5% 92.7%
+#               cu31924075537088 (a 1921 reprint) 6.8% 66.5% 92.7%   (Lane A's item, lightfoot-galatians-1890)
 #               saintpaulepistle00lighuoft 1914, saintpaulsepistl00lighuoft 1890,
 #               sa590770400lighuoft 1880, stpaulsepistleto00ligh 1870: 0.0% Greek
 #   Philippians stpaulsepistleto00lighuoft 1873  7.3%  65.6%  92.4%   <- chosen
-#               saintpaulsepistl00ligh 1878      7.3%  65.1%  92.1%
+#               saintpaulsepistl00ligh 1878      7.3%  65.1%  92.1%   (4th ed.; Lane A's item, lightfoot-philippians-1878)
 #               epistlephilippia00lighuoft 1903, a590773100lighuoft 1898: 0.0% Greek
 #   Colossians  PG #50857 (1875)                11.5%  (transcribed)   93.3%   <- chosen
 #               saintpaulsepistl00unknuoft 1879: 0.0% Greek, English 82.6%
@@ -171,8 +172,8 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 # the figure the manifest records), so it reads lower than the column above.
 #   Westcott, John (Greek text, 1908)
 #               gospelaccordingt01west vol. 1     7.3%  40.8%  94.5%   <- chosen (also Lane A's vol. 1)
-#               gospelaccordingt02west vol. 2    10.3%  41.9%  93.5%   <- chosen
-#               gospelaccordingt02west_0 (Lane A's vol. 2), gtu_32400003017666_2, gospelaccordingt0002broo,
+#               gospelaccordingt02west vol. 2    10.3%  41.9%  93.5%   <- chosen (also Lane A's vol. 2, since 2026-10-03)
+#               gospelaccordingt02west_0 (Lane A's first vol. 2, replaced), gtu_32400003017666_2, gospelaccordingt0002broo,
 #               bwb_S0-ASP-656_1, gospelaccordingt0001broo: 0.0% Greek
 #               gospelaccording01westgoog vol. 1: 99.9% Greek letters (the English OCR'd as Greek)
 #               The Authorised Version edition (gospelaccordingt00westuoft 1892, gospelaccording00westgoog 1882,
@@ -242,6 +243,10 @@ SCANS = {
         "leaves": (8, 403),
         "epistles": [("Gal", 90, 244)],
         "apparatus": False,
+        "note": ("Lane A (branch claude/armarium-divines, pipeline/j-b-lightfoot_shelf.json, lightfoot-galatians-1890) "
+                 "shelves another copy of the same 10th edition, cu31924075537088 (its reprint list ends 1921): "
+                 "Greek 6.8% of letters, Greek tokens known 66.5%, English 92.7%, against 6.8%, 65.9% and 92.6% "
+                 "here (measured 2026-10-03 on each _djvu.txt): not clearly better"),
     },
     "lightfoot-philippians": {
         "ia": "stpaulsepistleto00lighuoft", "ia_date": "1873",
@@ -258,6 +263,10 @@ SCANS = {
         "leaves": (9, 362),
         "epistles": [("Phil", 95, 181)],
         "apparatus": False,
+        "note": ("Lane A (branch claude/armarium-divines, pipeline/j-b-lightfoot_shelf.json, "
+                 "lightfoot-philippians-1878) shelves another edition, the 4th (London: Macmillan, 1878), "
+                 "saintpaulsepistl00ligh: Greek 7.3% of letters, Greek tokens known 65.1%, English 92.1%, "
+                 "against 7.3%, 65.6% and 92.4% here (measured 2026-10-03 on each _djvu.txt)"),
     },
     "westcott-hebrews": {
         "ia": "epistletohebrew00westgoog", "ia_date": "1892",
@@ -332,11 +341,11 @@ SCANS.update({
                     "a unit taken up again in the other volume lists every leaf and page with its volume in "
                     "scan.volume_leaves and scan.volume_printed_pages)"),
         "note": ("Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of "
-                 "gospelaccordingt01west (vol. 1, used here too), gospelaccordingt02west_0 (vol. 2) and "
-                 "gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-greek-1/-2 "
-                 "and westcott-john-av-1892; vol. 2 here is gospelaccordingt02west (Toronto) instead, because "
-                 "gospelaccordingt02west_0's text layer has no Greek codepoints (0.0% of letters, measured "
-                 "2026-10-03 on its _djvu.txt) against 10.3% here"),
+                 "the same two scans, gospelaccordingt01west and gospelaccordingt02west, as westcott-john-greek-1/-2, "
+                 "and gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-av-1892; "
+                 "its vol. 2 was first gospelaccordingt02west_0, replaced 2026-10-03 because that copy's text "
+                 "layer has no Greek codepoints (0.0% of letters, measured 2026-10-03 on its _djvu.txt) against "
+                 "10.3% in gospelaccordingt02west"),
         "volumes": [
             {"ia": "gospelaccordingt01west", "ia_date": "1908",
              "sha256": "ec341318718254bee14e7b664297519746defaf373a783b57128cdb29f04fc44",
@@ -971,18 +980,28 @@ SELF_C_OK = {"cf.", "comp.", "conf.", "cp.", "see", "so", "also", "esp.", "and",
              "i.e.", "above", "below", "ver.", "vv.", "(", "[", ";", ",", "compare", "comp", "cf", "again", "here"}
 # ... and a work named without an abbreviation is another work too: a Latin title
 # word among the three words before ('Tertullian de Baptismo c. iv. 3', 'Pro
-# Cluentio, c. v. 12'), or a capitalised name just before, not opening a sentence
-# and not one of these English words ('this Epistle c. iii. 17' is the epistle's own)
+# Cluentio, c. v. 12'), or a capitalised name just before and not one of these English
+# words ('this Epistle c. iii. 17' is the epistle's own); opening a sentence, only a
+# name of four or more letters not one letter off them ('Irenaeus c. iv. 3' is refused,
+# 'Oompare c. x. 12' and 'Boo c. v. 11', OCR of 'Compare' and 'See', are read)
 SELF_C_TITLE = {"de", "adv", "adv.", "adversus", "contra", "pro", "apud"}
 SELF_C_ENGLISH = {"epistle", "chapter", "compare", "contrast", "see", "comp", "cf", "note", "so", "also"}
-# '<Book>. c. iv. 3' ('Chrys. on Gal. c. iv. 3'): that book's chapter and verse, the
-# 'c.' a word ('chapter'), never Roman C; the 'c.' is dropped before FS.parse reads it
-BOOK_C = re.compile(r'(?<![\w])((?:(IV|III|II|I|[1-4])\.?\s?)?([A-Z][a-zA-Z]{0,11})\.?,?\s*)(?<![A-Za-z])c\.\s*'
+# '<Book>. c. iv. 3' ('Chrys. on Gal. c. iv. 3', 'Gal. C. iv. 3'): that book's chapter and verse, the
+# 'c.' or 'C.' a word ('chapter'), never Roman C; it is dropped before FS.parse reads it
+BOOK_C = re.compile(r'(?<![\w])((?:(IV|III|II|I|[1-4])\.?\s?)?([A-Z][a-zA-Z]{0,11})\.?,?\s*)(?<![A-Za-z])[cC]\.\s*'
                     r'(?=[ivxlIVXL]{1,7}\.\s*\d)')
 # a range crossing a chapter: 'viii. 28-ix. 3', '8:28-9:3' or '8. 28-9. 3' (FS.parse reads its start
 # only); with the chapter repeated ('iii. 28-iii. 3') it may also run backwards in one chapter
 CROSS_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*([ivxlc]{1,7})\.\s*(\d{1,3})\b'
                          r'|\b(\d{1,3})[:.]\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})[:.]\s*(\d{1,3})\b')
+# a range closing a comma list and running into the next chapter ('iii. 6, 7-iv. 2'): FS.parse
+# reads the list's verses and drops the range's end; the key is the list's last verse. Only
+# the next chapter: Bengel's translators also set a dash between references ('1 Cor. ii. 8,
+# 11—viii. 1', 'viii. 1, 2, 13—ix. 27'), and a list does not open a range of chapters
+LIST_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*\d{1,3}(?:\s*,\s*\d{1,3})*\s*,\s*(\d{1,3})\s*[–—-]+\s*'
+                        r'([ivxlc]{1,7})\.\s*(\d{1,3})\b'
+                        r'|\b(\d{1,3})[:.]\s*\d{1,3}(?:\s*,\s*\d{1,3})*\s*,\s*(\d{1,3})\s*[–—-]+\s*'
+                        r'(\d{1,3})[:.]\s*(\d{1,3})\b')
 # a range running backwards in one chapter ('iii. 12-8'): FS.parse drops its end
 BACK_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)'
                         r'|\b(\d{1,3}):(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)')
@@ -1042,6 +1061,14 @@ def cross_ranges(text):
             a, v, b, w = (int(m.group(k)) for k in (5, 6, 7, 8))
         if a and b and (b > a or (b == a and w != v)):
             out.setdefault((book_before(s, m.start()), a, v), (b, w))
+    for m in LIST_RANGE.finditer(s):
+        if m.group(1):
+            a, b = FS.roman(m.group(1)), FS.roman(m.group(3))
+            v, w = int(m.group(2)), int(m.group(4))
+        else:
+            a, v, b, w = (int(m.group(k)) for k in (5, 6, 7, 8))
+        if a and b == a + 1:
+            out.setdefault((book_before(s, m.start()), a, v), (b, w))
     for m in BACK_RANGE.finditer(s):
         a = FS.roman(m.group(1)) if m.group(1) else int(m.group(4))
         v, w = (int(m.group(2)), int(m.group(3))) if m.group(1) else (int(m.group(5)), int(m.group(6)))
@@ -1054,7 +1081,8 @@ def self_c_refused(text, start):
     """A bare 'c. iv. 3' is another work's chapter when the word before it is
     an abbreviation ('Euseb. H.E. c. iv. 3'), when a Latin title word stands
     among the three words before it ('Tertullian de Baptismo c. iv. 3'), or when
-    the word before is a capitalised name that does not open a sentence; 'cf.
+    the word before is a capitalised name (opening a sentence too, if it has four
+    or more letters and is not an English word misread by one letter); 'cf.
     c. iv. 3', 'comp. c. iv. 3', 'Compare c. x. 12' and 'Faith: c. ix. 15' are read."""
     ws = text[max(0, start - 60):start].split()
     if not ws:
@@ -1070,8 +1098,21 @@ def self_c_refused(text, start):
         return False            # a clause ends before the reference ('Faith: c. ix. 15')
     if w[:1].isupper() and w.lower() not in SELF_C_ENGLISH:
         before = ws[-2] if len(ws) > 1 else ""
-        return bool(before) and before[-1] not in ".!?)]"
+        if before and before[-1] not in ".!?)]":
+            return True
+        # opening a sentence: a name of four or more letters is another work's author
+        # ('Irenaeus c. iv. 3'), unless it is an English word misread by one letter
+        # ('Oompare c. x. 12'); a shorter word is an English one misread ('Boo c. v. 11')
+        return len(w) >= 4 and not _near_english(w)
     return False
+
+
+_SELF_C_WORDS = {x.strip(".") for x in SELF_C_OK | SELF_C_ENGLISH if x.strip(".").isalpha()}
+
+
+def _near_english(w):
+    w = w.lower().strip(".")
+    return any(len(x) == len(w) and sum(a != b for a, b in zip(x, w)) <= 1 for x in _SELF_C_WORDS)
 
 
 def scripture(text, ids, own=None, chapter=None):
@@ -1903,9 +1944,12 @@ def _page(pages, slug, page, section, g):
 #                       greektestamentwiptsl02alfo 1899 (7th ed., new impr.) 17.1% 34.8% 84.0% (not clearly better)
 #                       greektestamentw02alfo 1849-cat., greektestamentwidvr02alfo 1874, greektestamentwi0002alfo
 #                       1859: 0.0% Greek; greektestament02alfo 1868: ~100% Greek letters
-#   Alford III          greektestamentwi00alfo 4th ed. 1865  15.4%  35.5%  86.8%   <- chosen (Lane A has no vol. III)
+#   Alford III          greektestamentwi00alfo 4th ed. 1865  15.4%  35.5%  86.8%   <- chosen
+#                       greektestamentwi03alfo 1856 (Lane A's item; its text layer would not download at first,
+#                       HTTP 500): re-measured 2026-10-03 beside 00alfo with greek_measure(): 16.3% vs 15.3%,
+#                       known 21.3% vs 35.5%, English 85.1% vs 86.8%, mixed-script tokens 378 vs 0: not better
 #                       greektestamentw03alfo 1849-cat. 15.8% 35.5% 86.5%; greektestamentwi0003alfo 1859: 0.0%;
-#                       greektestament03alfo 1868: ~100% Greek letters; greektestamentwi03alfo 1856: no text layer (HTTP 500)
+#                       greektestament03alfo 1868: ~100% Greek letters
 #   Alford IV           greektestamentwi04alfo 4th ed., Boston (Lee & Shepard) 14.0% 35.7% 87.6%  <- chosen (Lane A's item)
 #                       greektestamentwi5604alfo 3rd ed. 1866 13.6% 35.5% 87.4%; greektestamentwiptsl04alfo 1897 14.0% 35.3%
 #   Bengel I, V         every scan of the English Gnomon's vols I and V (gnomonofthenewte01benguoft 1857,
@@ -1981,7 +2025,7 @@ SECOND = {
     "bengel-gnomon-2": _bengel(
         "II", "gnomonofnewtesta23beng", "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
         f"{_BEN}, vol. II (Luke, John, Acts), tr. Andrew R. Fausset, seventh edition (1873), as its title page "
-        "reads; bound with vol. III", 1873,
+        "(leaf 11) reads, naming no other translator; bound with vol. III", 1873,
         "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (9, 754),
         [("Luke", 13, 237), ("John", 238, 527), ("Acts", 528, 754)]),
     "bengel-gnomon-3": _bengel(
@@ -2039,8 +2083,13 @@ SECOND = {
 SCAN_CHOICE = {
     "alford-commentary-2": "Lane A's item (same scan); measured against greektestamentwiptsl02alfo (1899): "
                            "Greek 17.3% vs 17.1% of letters, Greek tokens known 34.1% vs 34.8%: not clearly better",
-    "alford-commentary-3": "greektestamentwi00alfo (4th ed., 1865; Lane A has no vol. III): Greek 15.4%, known 35.5%; "
-                           "greektestamentw03alfo 15.8%/35.5% is a catalogue-1849 copy of unstated edition",
+    "alford-commentary-3": "greektestamentwi00alfo (4th ed., 1865): Greek 15.3% of letters, Greek tokens known 35.5%, "
+                           "English 86.8%, mixed-script tokens 0; Lane A's item (pipeline/henry-alford_shelf.json, "
+                           "alford-greek-testament-3) is greektestamentwi03alfo (title page dated 1856, no edition "
+                           "statement): Greek 16.3% (273,536 letters), known 21.3%, English 85.1%, mixed-script "
+                           "tokens 378 (both measured 2026-10-03 on each _djvu.txt with greek_measure()): more Greek "
+                           "letters, far fewer of them Greek words, so not better; greektestamentw03alfo 15.8%/35.5% "
+                           "is a catalogue-1849 copy of unstated edition",
     "alford-commentary-4": "Lane A's item (same scan); measured against greektestamentwi5604alfo (3rd ed., 1866): "
                            "Greek 14.0% vs 13.6%, known 35.7% vs 35.5%",
     "bengel-gnomon-2": "gnomonofnewtesta23beng (vols. II and III bound as one): Greek 6.3%, known 34.4%; "
@@ -2048,6 +2097,17 @@ SCAN_CHOICE = {
     "bengel-gnomon-3": "gnomonofnewtesta23beng (vols. II and III bound as one); cu31924092350499 (1877, vol. III): "
                        "0.0% Greek",
     "bengel-gnomon-4": "cu31924092350507 (1877): Greek 7.5%, known 32.4%; gnomonofnewtesta03benguoft (1873): 0.0% Greek",
+}
+# books whose scans are exactly the IA items Lane A shelves as raw OCR (checked 2026-10-03 against
+# origin/claude/armarium-divines:pipeline/<name>_shelf.json): scheme.same_scan_as
+_LANE_A = "branch claude/armarium-divines"
+SAME_SCAN_AS = {
+    "westcott-hebrews": f"same scan as Lane A: westcott-hebrews-1892 (pipeline/b-f-westcott_shelf.json, {_LANE_A})",
+    "westcott-john": f"same scan as Lane A: westcott-epistles-john-1892 (pipeline/b-f-westcott_shelf.json, {_LANE_A})",
+    "westcott-gospel-john": ("same scans as Lane A: westcott-john-greek-1 and westcott-john-greek-2 "
+                             f"(pipeline/b-f-westcott_shelf.json, {_LANE_A})"),
+    "alford-commentary-2": f"same scan as Lane A: alford-greek-testament-2 (pipeline/henry-alford_shelf.json, {_LANE_A})",
+    "alford-commentary-4": f"same scan as Lane A: alford-greek-testament-4 (pipeline/henry-alford_shelf.json, {_LANE_A})",
 }
 # the chapter a volume's notes on a book begin at, where an earlier volume holds the book's start
 FIRST_CHAPTER = {"keil-delitzsch-pentateuch-2": {"Exod": 12}, "delitzsch-psalms-2": {"Ps": 36},
@@ -2081,6 +2141,192 @@ for _s in SECOND.values():
         _s["ia_date_note"] = _why
 ORDER.extend(SECOND)
 MULTI.update(k for k, s in SECOND.items() if len(s["epistles"]) > 1)
+
+# ================================================================== Keil & Delitzsch: the rest of the set (4c)
+#
+# The other volumes of T. & T. Clark's Biblical Commentary on the Old Testament, read by the same `kd`
+# reader.
+# Every candidate scan measured 2026-10-03 on its _djvu.txt (Hebrew / Greek letters as a share of all
+# letters; English tokens of 3+ letters found in the dwyl word list; 'Ver.' openers as kd_cands reads
+# them, line by line; hOCR present or not). No scan of any volume keeps its Hebrew (0.00% in every one).
+# The Brigham Young set (biblicalcommenta00keil01 ... 07keil07, IA date '1900') is Eerdmans' photographic
+# reprint (its own leaves read "Reprinted, November 1986"): refused, not printed before 1929. The
+# india.history.resource.* items carry no rights field, no contributor and no page count: used only
+# as measures. Cornell's 1878 set (cu3192407068xxxx) has hOCR for only some volumes; where it has none,
+# it is a measure only.
+#   Joshua, Judges, Ruth  joshuajudgesruth04keil 1875 (Robarts) 94.2%  789 Ver.   <- chosen
+#               biblicalcommenta04keiluoft 1882 (Emmanuel; IA titles it Job) 94.0% 783; biblicalcomm04keiluoft
+#               1869- (Robarts) 93.6% 745; joshuajudgesruth1872keil 94.2% 783, joshuajudgesrut00keilgoog 1865
+#               94.1% 783, joshuajudgesruth1880keil 93.2% 759; cu31924070685734 93.0% 704; india...72625 94.0% 750
+#   Samuel      biblicalcomment00keiluoft 1880 (Trinity) 95.0%  915 Ver.   <- chosen
+#               commentarysamuel00keiluoft 1880 (Trinity) 94.9% 907; biblicalcommen00keil 1876 (Robarts) 94.9% 912;
+#               biblicalcomment00keil 1872 94.4% 902; biblicalcommenta68keil 1868 94.2% 898; cu31924052268087
+#               1891 94.3% 894; cu31924070685742 94.6% 884; india...72628 94.5% 888
+#   Kings       thebooksofthekin00keiluoft 1883 (Emmanuel; 2nd ed.) 93.6%  841 Ver.   <- chosen
+#               booksofkings00bhuoft 1872 (Robarts) 93.1% 649; booksofkings00keil 1872 93.4% 778;
+#               bookskingstrbyj00keilgoog 1872 91.2% 347
+#   Chronicles  booksofchronicle00keiluoft 1878 (Robarts) 93.1%  772 Ver.   <- chosen
+#               booksofchronicle00keiliala 1872 93.5% 783 (not clearly better; not Toronto); booksofchronicle00keil
+#               1872 93.2% 770; bookschronicles00keilgoog 1872 91.7% 416; cu31924070685767 92.9% 758; india...72634
+#   Ezra, Nehemiah, Esther  booksofezranehem00keil 1873 (Princeton) 93.3%  521 Ver.   <- chosen (no Toronto scan)
+#               booksofezranehem1888keil 1888 92.6% 515; booksezranehemi00keilgoog, cu31924058517529,
+#               cu31924070685775: no hOCR; india...72636 93.5% 508
+KD4C = {
+    "keil-delitzsch-joshua-judges-ruth": _kd(
+        "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth", "Keil, Josh.-Ruth", _KDP,
+        "joshuajudgesruth04keil", "4b0cb6d3360799a7228cd3fac29245621530e78e4c9f60e8829d39d48f2f295f",
+        f"{_KD}, vol. IV: Joshua, Judges, Ruth, by C. F. Keil and F. Delitzsch, tr. James Martin (1875 issue), "
+        "as its title page reads", 1875, "University of Toronto (Robarts)", None, (7, 508),
+        [("Josh", 39, 248), ("Judg", 261, 478), ("Ruth", 484, 508)]),
+    "keil-delitzsch-samuel": _kd(
+        "Biblical Commentary on the Books of Samuel", "Keil, Sam.", _KDP,
+        "biblicalcomment00keiluoft", "1560a2ea753736b564e2f5bc7e9fbe87e392865cab9eb780512ee86eee6c2679",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Books of Samuel, tr. James Martin (1880 issue), "
+        "as its title page reads", 1880, "University of Toronto (Trinity College)", "NOT_IN_COPYRIGHT", (6, 523),
+        [("1Sam", 24, 293), ("2Sam", 294, 523)]),
+    "keil-delitzsch-kings": _kd(
+        "Biblical Commentary on the Books of the Kings", "Keil, Kings", _KDP,
+        "thebooksofthekin00keiluoft", "6097e3f6bd3c190d18773c479b7fc86e9883e6647423e771af77869409b462d0",
+        f"{_KD}: C. F. Keil, The Books of the Kings, tr. James Martin, second edition (1883), as its title page "
+        "reads", 1883, "University of Toronto (Emmanuel College)", "NOT_IN_COPYRIGHT", (6, 534),
+        [("1Kgs", 26, 294), ("2Kgs", 295, 534)]),
+    "keil-delitzsch-chronicles": _kd(
+        "Biblical Commentary on the Books of the Chronicles", "Keil, Chron.", _KDP,
+        "booksofchronicle00keiluoft", "2beebc8ca2a4d11ef5ad17946c43a6a7ec938bffacaaf2363fcb5670a3d835c5",
+        f"{_KD}: C. F. Keil, The Books of the Chronicles, tr. Andrew Harper (1878), as its title page reads",
+        1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (6, 527),
+        [("1Chr", 58, 313), ("2Chr", 314, 527)]),
+    "keil-delitzsch-ezra-nehemiah-esther": _kd(
+        "Biblical Commentary on the Books of Ezra, Nehemiah, and Esther", "Keil, Ezra-Esth.", _KDP,
+        "booksofezranehem00keil", "8ceaeab881449655839e75e65844b072bc4f370896968dc07cae8f5ad5ad4d05",
+        f"{_KD}: C. F. Keil, The Books of Ezra, Nehemiah, and Esther, tr. Sophia Taylor (1873), as its title page "
+        "reads", 1873, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (11, 396),
+        [("Ezra", 35, 152), ("Neh", 170, 314), ("Esth", 335, 396)]),
+}
+# how each was chosen (scheme.scan_choice), and each item's IA `date` (fetch() stops if it changes)
+KD4C_CHOICE = {
+    "keil-delitzsch-joshua-judges-ruth": "joshuajudgesruth04keil (Toronto, 1875): English 94.2%, 789 'Ver.' openers; "
+                                         "biblicalcommenta04keiluoft (Toronto, 1882) 94.0%/783 and "
+                                         "biblicalcomm04keiluoft (Toronto, 1869) 93.6%/745",
+    "keil-delitzsch-samuel": "biblicalcomment00keiluoft (Toronto, 1880): English 95.0%, 915 'Ver.' openers; "
+                             "commentarysamuel00keiluoft (the same issue) 94.9%/907, biblicalcommen00keil (Toronto, "
+                             "1876) 94.9%/912",
+    "keil-delitzsch-kings": "thebooksofthekin00keiluoft (Toronto, 1883, 2nd ed.): English 93.6%, 841 'Ver.' openers; "
+                            "booksofkings00bhuoft (Toronto, 1872) 93.1%/649, booksofkings00keil (1872) 93.4%/778",
+    "keil-delitzsch-chronicles": "booksofchronicle00keiluoft (Toronto, 1878): English 93.1%, 772 'Ver.' openers; "
+                                 "booksofchronicle00keiliala (1872) 93.5%/783 is not clearly better",
+    "keil-delitzsch-ezra-nehemiah-esther": "booksofezranehem00keil (Princeton, 1873; no Toronto scan): English 93.3%, "
+                                           "521 'Ver.' openers; booksofezranehem1888keil 92.6%/515; the Oxford and "
+                                           "Cornell scans have no hOCR",
+}
+KD4C_IA_DATES = {
+    "joshuajudgesruth04keil": ("1875", None),
+    "biblicalcomment00keiluoft": ("1880", None),
+    "thebooksofthekin00keiluoft": ("1883", None),
+    "booksofchronicle00keiluoft": ("1878", None),
+    "booksofezranehem00keil": ("1873", None),
+}
+# The prophets: Jeremiah and Lamentations (2 vols), Ezekiel (2 vols), Daniel, the Minor Prophets (2 vols);
+# the candidates measured are in KD4C_CHOICE. The Ezekiel scans bind Andrews' Life of Christ after the
+# commentary: those leaves are outside the volume's range.
+KD4C.update({
+    "keil-delitzsch-jeremiah-1": _kd(
+        "Biblical Commentary on the Prophecies of Jeremiah, vol. I", "Keil, Jer. I", _KDP,
+        "propheciesofjere01keil", "e609bff9112327710351175b3308258e17b7e06ac6094e8aff100a25badc18a3",
+        f"{_KD}: C. F. Keil, The Prophecies of Jeremiah, vol. I (chap. i.-xxix.), tr. David Patrick (1880 issue), "
+        "as its title page reads", 1880, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (9, 433),
+        [("Jer", 51, 433)]),
+    "keil-delitzsch-jeremiah-2": _kd(
+        "Biblical Commentary on the Prophecies of Jeremiah, vol. II", "Keil, Jer. II", _KDP,
+        "propheciesofjere02keil", "8e714e17e98bb401fe5621a55a38ecd5310adb81efb8ade970e071878423a342",
+        f"{_KD}: C. F. Keil, The Prophecies of Jeremiah, vol. II (chap. xxx.-lii.; Lamentations), tr. James "
+        "Kennedy (1874), as its title page reads", 1874, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT",
+        (7, 467), [("Jer", 13, 343), ("Lam", 367, 467)]),
+    "keil-delitzsch-ezekiel-1": _kd(
+        "Biblical Commentary on the Prophecies of Ezekiel, vol. I", "Keil, Ezek. I", _KDP,
+        "biblicalcommenta01keiluoft", "ecec4e81ffab2306a5f2eb729290db4f3c3891d5f8218a940b403e032af07f6d",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. I (chap. i.-xxviii.), tr. "
+        "James Martin (1876), as its title page reads", 1876, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (8, 443), [("Ezek", 32, 443)]),
+    "keil-delitzsch-ezekiel-2": _kd(
+        "Biblical Commentary on the Prophecies of Ezekiel, vol. II", "Keil, Ezek. II", _KDP,
+        "biblicalcommenta02keiluoft", "c20737e357a7f3f1647ab1a79fc7131e3be1ea5d1becaf09e56dd14743bf3f7d",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. II (chap. xxix.-xlviii.), tr. "
+        "James Martin (1876), as its title page reads", 1876, "University of Toronto (Emmanuel College)", None,
+        (6, 459), [("Ezek", 14, 459)]),
+    "keil-delitzsch-daniel": _kd(
+        "Biblical Commentary on the Book of Daniel", "Keil, Dan.", _KDP,
+        "bookofprophetdan00keil", "51ab5c80ff5a5c6c39f20cb3928c0f0b30001aec7fb0ff7dafc86a664826df62",
+        f"{_KD}: C. F. Keil, The Book of the Prophet Daniel, tr. M. G. Easton (1872), as its title page reads",
+        1872, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (7, 526), [("Dan", 76, 526)]),
+    "keil-delitzsch-minor-prophets-1": _kd(
+        "Biblical Commentary on the Twelve Minor Prophets, vol. I", "Keil, Min. Proph. I", _KDP,
+        "thetwelveminorp01keiluoft", "f781e60b1c64f5c28c7684983c2b2469bdbc20a6fdbcb12e471fbbaa3e79b971",
+        f"{_KD}: C. F. Keil, The Twelve Minor Prophets, vol. I (Hosea to Micah), tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (4, 526),
+        [("Hos", 38, 178), ("Joel", 190, 243), ("Amos", 251, 347), ("Obad", 361, 389), ("Jonah", 400, 428),
+         ("Mic", 436, 526)]),
+    "keil-delitzsch-minor-prophets-2": _kd(
+        "Biblical Commentary on the Twelve Minor Prophets, vol. II", "Keil, Min. Proph. II", _KDP,
+        "thetwelveminorpr02keiluoft", "44995dcbef39e0e8ca4548baa1551cc211dd5634897dfeb85b3ef06367667092",
+        f"{_KD}: C. F. Keil, The Twelve Minor Prophets, vol. II (Nahum to Malachi), tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (4, 486),
+        [("Nah", 19, 59), ("Hab", 66, 127), ("Zeph", 137, 176), ("Hag", 185, 226), ("Zech", 234, 432),
+         ("Mal", 440, 486)]),
+})
+KD4C_CHOICE.update({
+    "keil-delitzsch-jeremiah-1": "propheciesofjere01keil (Princeton, 1880; no Toronto scan): English 94.8%, 895 'Ver.' "
+                                 "openers; cu31924070685882 (Cornell) 93.9%/881 has no hOCR",
+    "keil-delitzsch-jeremiah-2": "propheciesofjere02keil (Princeton, 1874; no Toronto scan): English 93.7%, 763 'Ver.' "
+                                 "openers; cu31924070685890 (Cornell) 93.6%/750 has no hOCR; prophesiesofjere0002unse "
+                                 "is a lending-library item (its text refused, HTTP 401)",
+    "keil-delitzsch-ezekiel-1": "biblicalcommenta01keiluoft (Toronto, 1876): English 95.8%, 794 'Ver.' openers; "
+                                "biblicalcommenta00keiluoft (Toronto) 95.4%/808, biblicalcommenta01keil (Princeton) "
+                                "94.4%/794",
+    "keil-delitzsch-ezekiel-2": "biblicalcommenta02keiluoft (Toronto, 1876): English 96.0%, 619 'Ver.' openers; "
+                                "india.history.resource.78885 95.6%/613; cu31924070685908/-916 (Cornell): no hOCR",
+    "keil-delitzsch-daniel": "bookofprophetdan00keil (Princeton, 1872; no Toronto scan): English 93.6%, 280 'Ver.' "
+                             "openers; cu31924070689447 (Cornell, 1878) 93.6%/284 is not clearly better",
+    "keil-delitzsch-minor-prophets-1": "thetwelveminorp01keiluoft (Toronto, 1878): English 95.5%, 610 'Ver.' openers; "
+                                       "cu31924070689454 (Cornell) 94.4%/595, india.history.resource.78876 (1868) "
+                                       "94.7%/580",
+    "keil-delitzsch-minor-prophets-2": "thetwelveminorpr02keiluoft (Toronto, 1878): English 95.2%, 508 'Ver.' openers; "
+                                       "cu31924070689462 (Cornell) 94.0%/493, india.history.resource.72629 (1868) "
+                                       "94.4%/487",
+})
+KD4C_IA_DATES.update({
+    "propheciesofjere01keil": ("1874-1880 [v. 1, 1880]", "IA dates the set; this volume's title page reads 1880"),
+    "propheciesofjere02keil": ("1874-1880 [v. 1, 1880]", "IA dates the set, naming vol. I's 1880; this volume's "
+                                                         "title page reads 1874"),
+    "biblicalcommenta01keiluoft": ("1876", None),
+    "biblicalcommenta02keiluoft": ("1876", None),
+    "bookofprophetdan00keil": ("1872", None),
+    "thetwelveminorp01keiluoft": ("1878", None),
+    "thetwelveminorpr02keiluoft": ("1878", None),
+})
+KD4C_HONESTY = (
+    "a running head naming a chapter below the median of the five headed leaves before it or above the median "
+    "of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence "
+    "refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' "
+    "after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which "
+    "is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it "
+    "without moving the sequence (measure.notes_opened_behind)")
+# a volume continuing a book starts its notes where the volume before left off
+KD4C_FIRST_CHAPTER = {"keil-delitzsch-jeremiah-2": {"Jer": 30}, "keil-delitzsch-ezekiel-2": {"Ezek": 29}}
+for _k, _s in KD4C.items():
+    _s["scan_choice"] = KD4C_CHOICE[_k]
+    _s["monotone_heads"] = True     # a misread head ('XL' for 'XI') must not carry the notes 29 chapters on
+    _s["reopen"] = True             # 'Ver. 20.' after 'Ver. 25.': the exposition after the translation
+    _s["honesty"] = KD4C_HONESTY
+    if _k in KD4C_FIRST_CHAPTER:
+        _s["first_chapter"] = KD4C_FIRST_CHAPTER[_k]
+    _s["ia_date"], _why = KD4C_IA_DATES[_s["ia"]]
+    if _why:
+        _s["ia_date_note"] = _why
+SECOND.update(KD4C)
+SCANS.update(KD4C)
+ORDER.extend(KD4C)
+MULTI.update(k for k, s in KD4C.items() if len(s["epistles"]) > 1)
 
 # ------------------------------------------------------------------ second shelf: Alford's page
 
@@ -2388,14 +2634,26 @@ def decide(v):
 
 
 def ot_link(b, c, v, numbering, ids, rule):
-    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided)."""
+    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided).
+    Undecided: a verse only one numbering has is read in it; a verse both have
+    is resolved only where the two read it alike, else it stays unresolved with
+    both candidates (never silently the KJV's)."""
     import versification as V
     osis = f"{b}.{c}.{v}"
     if numbering == "undecided":
         h = 1 <= v <= vmap()["hebrew_chapters"].get(f"{b}.{c}", 0)
         k = f"kjv:{osis}" in ids
-        numbering = "hebrew" if (h and not k) else "kjv"
         rule += "/undecided"
+        if h and k:
+            r = V.resolve(osis, vmap(), ids)
+            if r.get("resolved") and r["target"] == f"kjv:{osis}" and "spans" not in r:
+                return {"printed": osis, "target": f"kjv:{osis}", "resolved": True, "numbering": "either",
+                        "rule": rule}
+            heb = {"numbering": "hebrew", **({"target": r["target"]} if r.get("resolved") else {"why": r["why"]})}
+            return {"printed": osis, "resolved": False, "numbering": "undecided",
+                    "why": "the numbering is not measured here, and the Hebrew and the KJV read this verse differently",
+                    "candidates": [{"numbering": "kjv", "target": f"kjv:{osis}"}, heb], "rule": rule}
+        numbering = "hebrew" if (h and not k) else "kjv"
     if numbering == "hebrew":
         r = V.resolve(osis, vmap(), ids)
         out = {"printed": osis, "numbering": "hebrew", "rule": rule}
@@ -2406,10 +2664,42 @@ def ot_link(b, c, v, numbering, ids, rule):
         return {"printed": osis, "target": t, "resolved": True, "numbering": "kjv", "rule": rule}
     return {"printed": osis, "resolved": False, "numbering": "kjv", "why": "no such verse in the KJV", "rule": rule}
 
+
+_OWN, _WORK = {}, {}
+
+
+def work_numbering(book, ids):
+    """How Keil & Delitzsch's commentary numbers `book`, measured from its own
+    note ids: the existence votes of every `kd` volume holding the book,
+    pooled (one volume rarely has enough differing verses; the set does).
+    Undecided where no volume holds the book."""
+    if book not in _WORK:
+        tot = {"read": 0, "only_hebrew": 0, "only_kjv": 0}
+        vols = []
+        for k, s in SCANS.items():
+            if s.get("reader") != "kd" or book not in [e[0] for e in s.get("epistles", [])]:
+                continue
+            if k not in _OWN:
+                _OWN[k] = build_scan_2b(k, ids, votes_only=True)
+            for f in tot:
+                tot[f] += _OWN[k][book][f]
+            vols.append(k)
+        _WORK[book] = dict(tot, decision=decide(tot), volumes=vols)
+    return _WORK[book]
+
+
+def effective(decision, book, ids, rule, used=None):
+    """A measured decision, or, where it is undecided, the work's own."""
+    if decision != "undecided":
+        return decision, rule
+    if used is not None:
+        used.add(book)
+    return work_numbering(book, ids)["decision"], rule + "/work"
+
 # ------------------------------------------------------------------ second shelf: the build
 
 
-def build_scan_2b(slug, ids):
+def build_scan_2b(slug, ids, votes_only=False):
     s = SCANS[slug]
     reader = s["reader"]
     P = pages(slug)
@@ -2504,6 +2794,8 @@ def build_scan_2b(slug, ids):
                 for l in foot:
                     t = C.join(t, l["text"])
                 items.append({"book": book, "leaf": leaf, "text": t, "foot": True, "cands": [], "hc": hc, "hv": hv})
+    if s.get("monotone_heads"):
+        monotone_heads(items, m)
     # heads confirmed by the nearest headed leaves (a verso head may name only
     # the book): sure when a neighbour agrees, or the chapter lies between them
     headed = {}
@@ -2539,6 +2831,9 @@ def build_scan_2b(slug, ids):
             v = numbering_votes(pairs, ids)
             v["decision"] = decide(v)
             numbering[book] = v
+        if votes_only:
+            return numbering
+        _OWN[slug] = {b: dict(v) for b, v in numbering.items()}
         m["numbering_own"] = numbering
     counts = {}
     for book in kjv_counts:
@@ -2567,6 +2862,7 @@ def build_scan_2b(slug, ids):
             vs = range(nu["n"], (nu["e"] or nu["n"]) + 1)
             nb = numbering.get(book, {}).get("decision")
             if nb:                  # an OT volume: its numbering measured, the Hebrew mapped
+                nb = effective(nb, book, ids, "")[0]
                 links = [dict(ot_link(book, nu["c"], v, nb, ids, "comments-on"), type="comments-on") for v in vs]
                 for lk in links:
                     lk.pop("rule", None)
@@ -2584,6 +2880,28 @@ def build_scan_2b(slug, ids):
     order = {"page": 0, "epistle-text": 0, "intro": 1, "note": 1}
     units.sort(key=lambda u: (min(u["scan"]["leaves"]), order[u["kind"]]))
     return units, m, (a0, b0), pp
+
+
+def monotone_heads(items, m, w=5):
+    """(4c) A commentary's chapters only move forward, so a running head
+    naming a chapter below the median of the five headed leaves before it, or
+    above the median of the five after it (same book), is a misreading ('XL'
+    for 'XI', 'XXV' for 'XXVIII'): its chapter is dropped, and counted."""
+    seq, seen = [], set()
+    for it in items:
+        if it["hc"] is not None and it["leaf"] not in seen:
+            seen.add(it["leaf"])
+            seq.append((it["leaf"], it["book"], it["hc"]))
+    bad = set()
+    for i, (leaf, book, hc) in enumerate(seq):
+        prev = [x[2] for x in seq[max(0, i - w):i] if x[1] == book]
+        nxt = [x[2] for x in seq[i + 1:i + 1 + w] if x[1] == book]
+        if (prev and hc < st.median_low(prev)) or (nxt and hc > st.median_high(nxt)):
+            bad.add(leaf)
+    for it in items:
+        if it["leaf"] in bad:
+            it["hc"] = None
+    m["running_heads_out_of_order"] = len(bad)
 
 
 class HeadDecoder(Decoder):
@@ -2692,6 +3010,17 @@ def decode_2b(slug, items, decoders, pp, m):
                 m["openers_out_of_sequence"] += 1
                 continue
             took = dec.offer(n, e, hc, it["hv"], cp, it["hsure"], nxt)
+            back = reopen(slug, notes, pre, dec, n, cp) if not took else None
+            if back:
+                # (4c) a verse of this section taken up again (Keil's Jeremiah: the section's
+                # translation verse by verse, then the exposition verse by verse): its text joins
+                # that verse's unit, and the sequence stays where it was
+                m["notes_reopened" if back in notes else "notes_opened_behind"] += 1
+                put(current[book], it["text"][pos:p].strip(), leaf, para)
+                unit(back, book, dec.c, n)
+                current[book] = back
+                pos, para = p, True
+                continue
             m["openers_accepted" if took else "openers_rejected"] += 1
             if not took:
                 continue
@@ -2704,6 +3033,27 @@ def decode_2b(slug, items, decoders, pp, m):
             pos, para = p, True
         put(current[book], it["text"][pos:].strip(), leaf, para)
     return notes
+
+
+def reopen(slug, notes, pre, dec, n, cp):
+    """(4c) The unit of a verse already passed in the current chapter, for an
+    opener the sequence refused ('Ver. 20.' after 'Ver. 25.') inside the
+    section the chapter's latest run opened ('Vers. 20-25.'): the verse's own
+    unit, else the latest run that opens at it, else a new unit for that verse
+    (the exposition after a translation printed without verse numbers); None
+    elsewhere, or where the volume does not reopen."""
+    if not SCANS[slug].get("reopen") or cp is not None or n >= dec.v:
+        return None
+    run = next((k for k in reversed(notes) if k.startswith(f"{pre}{dec.c}.") and "-" in k), None)
+    if not run:
+        return None
+    a, b = (int(x) for x in run.rsplit(".", 1)[1].split("-"))
+    if not a <= n <= b:
+        return None         # only inside the section the latest run opened ('Vers. 20-25.')
+    key = f"{pre}{dec.c}.{n}"
+    if key in notes:
+        return key
+    return next((k for k in reversed(notes) if k.startswith(key + "-")), None) or key
 
 
 def harvest_2b(slug, units, ids):
@@ -2743,7 +3093,7 @@ def harvest_2b(slug, units, ids):
         vv = numbering_votes(pairs, ids)
         vv["decision"] = decide(vv)
         measure[k] = vv
-    own_num = {}
+    own_num, used = {}, set()
     n = r = 0
     for u, refs in zip(units, parsed):
         found, seen = [], set()
@@ -2761,9 +3111,9 @@ def harvest_2b(slug, units, ids):
                 continue
             if book in V.BOOKS:
                 cls = "Ps" if book == "Ps" else "other"
-                x = dict(ref=p, **ot_link(book, ch, v, measure[cls]["decision"], ids, f"text/{cls}"))
-                y = (ot_link(book, ch, end, measure[cls]["decision"], ids, f"text/{cls}")
-                     if end and end > v else None)
+                dec, rl = effective(measure[cls]["decision"], book, ids, f"text/{cls}", used)
+                x = dict(ref=p, **ot_link(book, ch, v, dec, ids, rl))
+                y = ot_link(book, ch, end, dec, ids, rl) if end and end > v else None
             else:
                 t = f"kjv:{book}.{ch}.{v}"
                 x = ({"ref": p, "target": t, "resolved": True, "numbering": "kjv", "rule": "text/nt"} if t in ids else
@@ -2776,13 +3126,14 @@ def harvest_2b(slug, units, ids):
             mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
             if mm:
                 b, c = u["book"], int(mm.group(1))
-                nb = own_num.setdefault(b, s["_numbering"].get(b, {}).get("decision", "kjv"))
+                nb, srl = own_num.setdefault(b, effective(s["_numbering"].get(b, {}).get("decision", "kjv"), b, ids,
+                                                          "self", used))
                 for mt in SELF_VER.finditer(u["text"]):
                     for v, end in _ver_spans(mt):
                         p = f"{b} {c}:{v}" + (f"-{end}" if end else "")
                         if p not in seen:
                             seen.add(p)
-                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, "self/ver"))
+                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, srl.replace("self", "self/ver", 1)))
                             _kd_through(x, c, v, end, ot_link(b, c, end, nb, ids, "self/ver")
                                         if end and end > v else None)
                             found.append(x)
@@ -2791,11 +3142,13 @@ def harvest_2b(slug, units, ids):
                     p = f"{b} {c2}:{mt.group(2)}"
                     if c2 and p not in seen and c2 <= max(heb_counts(b)):
                         seen.add(p)
-                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids, "self/chap")))
+                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids,
+                                                           srl.replace("self", "self/chap", 1))))
         u["links"] += found
         n += len(found)
         r += sum(1 for x in found if x.get("resolved"))
-    return n, r, {"numbering_references": measure}
+    return n, r, {"numbering_references": measure,
+                  "numbering_work": {b: work_numbering(b, ids) for b in sorted(used)}}
 
 
 def _ver_spans(mt):
@@ -2852,9 +3205,13 @@ def honesty_2b(slug):
             "section, belong to it until the next accepted opener; ids are in the numbering the volume prints, "
             "MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the "
             "Hebrew's; the OT references in the text are resolved in the numbering measured for them "
-            "(measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the "
+            "(measure.numbering_references); where either measure is undecided, the commentary's own numbering of "
+            "that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled "
+            "(measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only "
+            "where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the "
             "Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the "
-            "text as printed by the OCR, unremoved; unproofread OCR")
+            "text as printed by the OCR, unremoved" + (f"; {s['honesty']}" if s.get("honesty") else "")
+            + "; unproofread OCR")
 
 
 def citation_2b(slug):
@@ -2917,8 +3274,8 @@ def build_book_2b(slug, ids):
               "honesty": honesty_2b(slug) + RANGES_HONESTY_2B, "status": "draft"}
     if numbering_own is not None:
         scheme["numbering"] = {b: v["decision"] for b, v in numbering_own.items()}
-    if s.get("lane_a"):
-        scheme["same_scan_as"] = "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)"
+    if slug in SAME_SCAN_AS:
+        scheme["same_scan_as"] = SAME_SCAN_AS[slug]
     if s.get("scan_choice"):
         scheme["scan_choice"] = s["scan_choice"]
     source = {"format": "ia-hocr", "sha256": s["sha256"], "ia": s["ia"], "leaves": [a0, b0]}
@@ -2994,8 +3351,10 @@ def build_book_2b(slug, ids):
 
 
 def _meyer(ia, sha, title, short, edition, printed, copy, leaves, books, ia_date, ia_date_note=None,
-           first_chapter=None, american=None, scan_choice=None, inline=True, author="H. A. W. Meyer",
-           ia_rights="NOT_IN_COPYRIGHT"):
+           first_chapter=None, american=None, scan_choice=None, inline=True, author="H. A. W. Meyer", *,
+           ia_rights):
+    # ia_rights: the item's possible-copyright-status as IA's metadata gives it (None when absent), read
+    # 2026-10-03 and checked again live by --fetch, which stops on any change
     s = {"ia": ia, "sha256": sha, "title": title, "short": short, "author": author, "edition": edition,
          "printed": printed, "copy": copy, "ia_rights": ia_rights, "leaves": leaves, "epistles": books,
          "apparatus": False, "reader": "meyer", "ia_date": ia_date}
@@ -3019,6 +3378,7 @@ MEYER = {
         f"{_MEY}: the Gospel of Matthew, vol. I (chapters i.-xvii.), tr. from the sixth German edition by Peter "
         "Christie, revised and edited by Frederick Crombie (MDCCCLXXX: the 1880 issue), as its title page reads",
         1880, "University of California Libraries", (4, 499), [("Matt", 94, 498)], "1880",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="the only scan of vol. I whose OCR kept the Greek (5.1% of letters, 34.9% known); the Funk & "
                     "Wagnalls scans (1884) have 0.0% Greek"),
     "meyer-matthew-2": _meyer(
@@ -3029,6 +3389,7 @@ MEYER = {
         "Princeton Theological Seminary Library", (9, 322), [("Matt", 15, 322)], "1877",
         ia_date_note="IA catalogues it 1877 (the set's first date); this volume's title page reads 1879",
         first_chapter={"Matt": 18},
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic12meye (1879): Greek 6.2%, known 37.1% on the commentary leaves; "
                     "criticalexegetic02meyeiala (1881 issue) 6.3% / 36.1%: not clearly better; "
                     "criticalexeg02meye: 0.0% Greek"),
@@ -3039,6 +3400,7 @@ MEYER = {
         "by Robert Ernest Wallis, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title "
         "page reads", 1880, "Princeton Theological Seminary Library", (7, 372),
         [("Mark", 36, 279), ("Luke", 293, 371)], "1880",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic21meye, the same Princeton set as vol. II: Greek 8.4%, known 35.3%; "
                     "criticalexeget01meye (another copy, 1880) measures the same; the Funk & Wagnalls one-volume "
                     "issue criticalexegetic00meye 7.0% / 36.2%"),
@@ -3049,6 +3411,7 @@ MEYER = {
         "and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads", 1880,
         "Princeton Theological Seminary Library", (9, 381), [("Luke", 11, 381)], "1880",
         first_chapter={"Luke": 3},
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic22meye: Greek 7.9%, known 36.8%; criticalexeget02meye (1880): 0.0% Greek"),
     "meyer-john": _meyer(
         "criticalexegetic04meye", "fe47adc8baa7f50621c494c909b567a86a5a4cea2ebaad78872bf6dd0b78f9d8",
@@ -3057,6 +3420,7 @@ MEYER = {
         "edited by Frederick Crombie, with a preface and supplementary notes by A. C. Kendrick (New York: Funk "
         "& Wagnalls, 1884), as its title page reads", 1884, "Princeton Theological Seminary Library",
         (5, 596), [("John", 63, 579)], "1884", american="A. C. Kendrick",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="every T&T Clark scan of John (1874-75, 1881, 1883) has 0.0% Greek; this Funk & Wagnalls "
                     "issue of the same translation keeps it: Greek 5.1%, known 42.1%; criticalandexeg01meyegoog "
                     "5.0% / 42.0% and commentaryonnew01unkngoog 5.1% / 42.0% are the same printing"),
@@ -3066,7 +3430,9 @@ MEYER = {
         f"{_MEY_FUNK}: the Epistle to the Romans, tr. from the fifth German edition by John C. Moore and Edwin "
         "Johnson, revised and edited by William P. Dickson, with a preface and supplementary notes by Timothy "
         "Dwight (New York: Funk & Wagnalls, 1884), as its title page reads", 1884,
-        "Princeton Theological Seminary Library", (7, 628), [("Rom", 58, 612)], "1884", american="Timothy Dwight", inline=False,
+        "Princeton Theological Seminary Library", (7, 628), [("Rom", 58, 612)], "1884",
+        american="Timothy Dwight", inline=False,
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="every T&T Clark scan of Romans (1873, 1874, 1881) has 0.0% Greek; this Funk & Wagnalls issue "
                     "keeps it: Greek 6.5%, known 40.5%; criticalandexeg03meyegoog and criticalandexege05meyeuoft "
                     "(the same issue): 0.0%"),
@@ -3076,6 +3442,7 @@ MEYER = {
         f"{_MEY}: the Acts of the Apostles, vol. I (chapters i.-xii.), tr. from the fourth German edition by "
         "Paton J. Gloag, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads",
         1877, "Princeton Theological Seminary Library", (7, 340), [("Acts", 53, 338)], "1877",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic51meye (the Princeton set): Greek 6.2%, known 33.8%; criticalexegetic01meyeiala "
                     "6.1% / 33.4% and criticalexeget00meye 5.7% / 33.3%: not better"),
     "meyer-acts-2": _meyer(
@@ -3085,6 +3452,7 @@ MEYER = {
         "edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads", 1877,
         "Princeton Theological Seminary Library", (9, 338), [("Acts", 13, 337)], "1877",
         first_chapter={"Acts": 13},
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic52meye, the same Princeton set as vol. I: Greek 7.4%, known 31.0%"),
     "meyer-corinthians-1": _meyer(
         "criticalexegetic71meye", "fcaf4b22a50fb767972384cc029e1e53ae34a366397bf728c9d6ed4dbf1ac334",
@@ -3093,6 +3461,7 @@ MEYER = {
         "German edition by D. Douglas Bannerman, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), "
         "as its title page reads", 1877, "Princeton Theological Seminary Library", (9, 425),
         [("1Cor", 34, 424)], "1877",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic71meye (the Princeton set): Greek 7.3%, known 40.3%; criticalexege01meye "
                     "6.9% / 40.6% and the Funk & Wagnalls issue criticalexegetme00meye (1884) 7.3% / 41.0%: not "
                     "clearly better; criticalhandbook01meyeuoft is catalogued 1906-"),
@@ -3105,6 +3474,7 @@ MEYER = {
         "Princeton Theological Seminary Library", (13, 540), [("1Cor", 19, 142), ("2Cor", 151, 534)], "1877",
         ia_date_note="IA catalogues it 1877 (the set's first date); this volume's title page reads 1879",
         first_chapter={"1Cor": 14},
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic72meye, the same Princeton set as vol. I: Greek 8.3%, known 41.0%"),
     "meyer-galatians": _meyer(
         "criticalexeget09meye", "411892e95302cbb1f492cbdffd0de25bcf2963465966c4dc6fb4153346dc707c",
@@ -3112,6 +3482,7 @@ MEYER = {
         f"{_MEY}: the Epistle to the Galatians, tr. from the fifth German edition (the translator's line is "
         "illegible in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads", 1873,
         "Princeton Theological Seminary Library", (13, 383), [("Gal", 39, 382)], "1873",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexeget09meye (1873): Greek 6.3%, known 40.0%; the Funk & Wagnalls issue (1884: "
                     "criticalexegetic09meye, criticalexegetic0000hein_g2k4, criticalexegetic0000unse_b7h8): 0.0%"),
     "meyer-ephesians-philemon": _meyer(
@@ -3120,6 +3491,7 @@ MEYER = {
         f"{_MEY}: the Epistle to the Ephesians and the Epistle to Philemon, tr. from the fourth German edition by "
         "Maurice J. Evans, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads",
         1880, "Princeton Theological Seminary Library", (7, 405), [("Eph", 51, 374), ("Phlm", 379, 405)], "1880",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic1880meye: Greek 7.7%, known 37.5%; criticalexegetic10meye (another copy, 1880) "
                     "would not give its text (HTTP 500, 2026-10-03); the Funk & Wagnalls Ephesians "
                     "criticalandexeg05meyegoog (1884): 0.0%"),
@@ -3130,6 +3502,7 @@ MEYER = {
         "Moore, revised and edited by William P. Dickson (MDCCCLXXV: 1875), as its title page reads (the "
         "prefatory note: Philippians first translated by G. H. Venables)", 1875,
         "Princeton Theological Seminary Library", (9, 504), [("Phil", 27, 253), ("Col", 270, 503)], "1875",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexeget11meye (1875): Greek 8.3%, known 37.6%; the Funk & Wagnalls issue (1885) "
                     "criticalexegetic11meye 7.5% / 38.9% and criticalexegeticphilcolphile00meye 7.5% / 38.9%: not "
                     "clearly better; criticalandexeg00unkngoog (1875), criticalexegetic0000hein_r9x0: 0.0%"),
@@ -3140,6 +3513,7 @@ MEYER = {
         "David Hunter (MDCCCLXXXI: 1881), as its title page reads", 1881,
         "Princeton Theological Seminary Library", (9, 394),
         [("1Tim", 87, 254), ("2Tim", 255, 345), ("Titus", 346, 393)], "1881", author="J. E. Huther",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexeget15huth (1881): Greek 11.0%, known 35.9%; criticalexeget1881huth (another copy, "
                     "1881, IA rights unstated) 11.7% / 36.0%: not clearly better; the Funk & Wagnalls issue (1885) "
                     "criticalexegetic15huth 9.7% / 34.7%; criticalexegetictimtitu00huth, "
@@ -3150,6 +3524,7 @@ MEYER = {
         f"{_MEY}: the Epistle to the Hebrews, by Gottlieb Lünemann, tr. from the fourth German edition by "
         "Maurice J. Evans (MDCCCLXXXII: 1882), as its title page reads", 1882,
         "Princeton Theological Seminary Library", (9, 514), [("Heb", 87, 513)], "1882", author="Gottlieb Lünemann",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexegetic19ln (1882): Greek 11.2%, known 34.0%; criticalexegeticheb00ln (1882): 0.0%"),
     "huther-james-john": _meyer(
         "criticalexeget20huth", "21c7b5d43162490d6d46c7ee2b2cdcf219ee83391a8c6edf782c6fb9afbed8d9",
@@ -3159,6 +3534,7 @@ MEYER = {
         "Princeton Theological Seminary Library", (7, 542),
         [("Jas", 52, 241), ("1John", 278, 501), ("2John", 513, 528), ("3John", 529, 542)], "1882",
         author="J. E. Huther",
+        ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexeget20huth (1882): Greek 8.9%, known 42.3%; the Funk & Wagnalls issue (1887, with "
                     "Peter and Jude) criticalexegetic20huth 7.8% / 40.2%; criticalexegetic00huth (1882), "
                     "criticalexegetic0000johe_d6k9, criticalexegetic0000johe_g5m5: 0.0%"),
@@ -3602,10 +3978,12 @@ RUNS_HONESTY = (
     "opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references "
     "a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; "
     "a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its "
-    "start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' is Gal 4:3; "
+    "start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, "
+    "and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; "
     "'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never "
     "after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo "
-    "c. iv. 3') or a capitalised name not opening a sentence")
+    "c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an "
+    "English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3')")
 
 
 RANGES_HONESTY_2B = (
@@ -3758,6 +4136,8 @@ def build_book(slug, ids):
             "scheme": {"citation": citation(slug, ocr), "resolution": "verse-note" if eps else "page",
                        "honesty": honesty(slug, ocr), "status": "draft"},
             "rights": rights, "measure": measure, "units": units}
+    if slug in SAME_SCAN_AS:
+        book["scheme"]["same_scan_as"] = SAME_SCAN_AS[slug]
     return book
 
 

@@ -191,7 +191,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
     python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
-    python3 pipeline/build_commentaries.py --fetch   # 42 commentary volumes: IA hOCR scans + PG #50857, pinned
+    python3 pipeline/build_commentaries.py --fetch   # 54 commentary volumes: IA hOCR scans + PG #50857, pinned
     python3 pipeline/build_commentaries.py           # notes keyed by verse -> data/books/<slug>.json + manifest
     python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
@@ -657,6 +657,20 @@ The living truth for project state is the Obsidian vault:
   scan. Godet (John, Luke, Romans, 1 Cor.) NOT shelved: all 50 scans have
   0.0% Greek (comment above MEYER). Thessalonians (Lünemann) NOT shelved:
   its one scan has 0.0% Greek.
+- Keil & Delitzsch, continued (second shelf): not shelved,
+  Delitzsch's Isaiah, Job, Proverbs (few 'Ver.' openers: need a running-head
+  reader); Ecclesiastes/Song (no pre-1929 scan; BYU's is Eerdmans' 1986 reprint).
+  4c (2026-10-03, table KD4C): the rest of K&D's OT, 12 volumes, Joshua-Ruth
+  to the Minor Prophets, scans chosen by measure (comment above KD4C). Two
+  rules gated to KD4C: monotone_heads (a running head out of order against
+  its neighbours' median is a misread, counted) and reopen (an exposition's
+  'Ver. 20.' after the translation's 'Ver. 25.' rejoins verse 20's unit,
+  measure.notes_reopened). Jer II and Ezek II start at their chapter
+  (first_chapter).
+  An undecided numbering (in-text refs or a volume's own) falls back to
+  work_numbering: the book's own-id votes pooled over every kd volume
+  (measure.numbering_work); still undecided, a verse the Hebrew and the
+  KJV read differently is resolved:false with both `candidates`.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
