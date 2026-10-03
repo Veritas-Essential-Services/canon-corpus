@@ -141,6 +141,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_philo.py --check      # rebuild = the committed manifest entries
     python3 pipeline/build_philo.py --measure    # how Cohn-Wendland number scripture: the evidence
     python3 tests/philo_test.py              # Philo: alignment, scripture refs, OCR cruft
+    python3 pipeline/build_schaff.py --fetch     # ANF + NPNF1/2 (Schaff, CCEL ThML, 38 vols pinned) -> data/books/
+    python3 pipeline/build_schaff.py --check     # rebuild = the committed manifest entries
+    python3 pipeline/build_schaff.py --report    # volume stats + every work's alignment measure; writes nothing
+    python3 tests/schaff_test.py                 # Schaff: ThML rules on fixtures, rights, alignment gate
     python3 pipeline/export_mnemonicon_pack.py         # hymns -> Mnemonicon import files (C5)
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
@@ -349,6 +353,19 @@ The living truth for project state is the Obsidian vault:
   The editors' scripture references leave the Greek text for links[]; they
   number Psalms and Exod 35-40 as the LXX, the rest as the KJV (measured,
   `--measure`). Bohn's running heads in the English are CRUFT rows.
+- pipeline/build_schaff.py — Schaff's Ante-Nicene and Nicene & Post-Nicene
+  Fathers in English (38 vols, 1885-1900, PD; CCEL ThML pinned by sha256 in
+  schaff_pins.json, kept in data/corpus/schaff/ so structure_texts.py does not
+  build it too). Each file's DC.Rights is read ("Public Domain" in all 38) and
+  CCEL's copyright page asks personal/educational/non-profit use: rights block,
+  redistribute_whole false, commercial "ask CCEL". Volume books
+  `schaff-<vol>`: one unit per CCEL paragraph (its id is CCEL's anchor), print
+  page from <pb>, footnotes in `notes`, scripture by convert_thml's regexes.
+  ANF 10 is a page-image facsimile: 0 units. Work books `<work>-schaff` cut
+  from the volumes, keyed in the PR #7 Greek/Latin book's numbering and linked
+  to it, but only where a MEASURE (chapter-length r and shared names, on vs
+  one off the diagonal) passes; else refused, no links. Cyprian (ANF 5) as
+  five work books with no counterpart (no Latin Cyprian on GitHub).
 - pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
   -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
   4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
