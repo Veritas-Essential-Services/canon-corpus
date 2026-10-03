@@ -49,8 +49,9 @@ words first, the URN as a cross-check, and every URN that disagrees with the
 note kept as a flagged, unresolved link. OT references resolve through
 Brenton's LXX -> KJV map (PR #9), NT references to the KJV verse directly.
 
-NOT DONE HERE: Lightfoot & Harmer's English (1891, PD) is on CCEL, which this
-environment cannot reach. It is listed under PENDING.
+LIGHTFOOT'S ENGLISH: Lightfoot & Harmer (1891, PD) is built from CCEL by
+pipeline/build_lightfoot.py, keyed to these books' sections. PENDING lists
+what is still missing (nothing, since Lightfoot landed).
 """
 import argparse
 import hashlib
@@ -109,11 +110,7 @@ HERMAS = {str(i): ("Vis", i) for i in range(1, 6)}
 HERMAS.update({str(i): ("Mand", i - 5) for i in range(6, 18)})
 HERMAS.update({str(i): ("Sim", i - 17) for i in range(18, 28)})
 
-PENDING = [{
-    "what": "Lightfoot & Harmer, The Apostolic Fathers (1891), English (public domain)",
-    "where": "CCEL (ccel.org/ccel/lightfoot/fathers)",
-    "why": "ccel.org is blocked from the cloud sessions that built this; fetch on Adam's machine",
-}]
+PENDING = []   # Lightfoot & Harmer's English: pipeline/build_lightfoot.py
 
 RIGHTS = {
     "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, "
