@@ -29,6 +29,11 @@
    "odespindarineng01pindgoog",
    "The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan",
    "tr. Peter Edmund Laurent per the catalogue (not named on the title page)"
+  ],
+  "pindar-paley-1868": [
+   "bub_gb_z9lUAAAAcAAJ",
+   "The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868)",
+   "tr. F. A. Paley"
   ]
  },
  "_cross_ref": {
@@ -49,7 +54,8 @@
  },
  "_translator_unchecked": {
   "pindar-west-1749": "the long-s OCR never prints Gilbert West's name; 'west' alone is a common word and proves nothing",
-  "pindar-laurent-prose-1824": "attributed by the catalogue; the title page names no translator"
+  "pindar-laurent-prose-1824": "attributed by the catalogue; the title page names no translator",
+  "pindar-paley-1868": "title page OCRs the name as 'F. A. PA LET, M.A., editor and translator of Aeschylus' (Williams and Norgate, 1868); the claim is not matched as written"
  },
  "_checks": {
   "pindar-myers": {
@@ -97,6 +103,17 @@
    "ia_rights": "ok: published 1824",
    "ia_date": "1824",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-paley-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
