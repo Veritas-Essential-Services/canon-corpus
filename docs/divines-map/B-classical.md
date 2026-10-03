@@ -718,7 +718,7 @@ Excluded: PG 58589 (adaptation).
 
 ## Lucretius
 
-Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and Bailey (1910), raw IA; Trevelyan's selections, clean. Leonard's verse is on the Adler shelf (mislabelled Munro there). Not minted.
+Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and Bailey (1910), raw IA; Creech (1714 ed.) and Good (1805, with the Latin), raw IA; Trevelyan's selections, clean. Leonard's verse is on the Adler shelf (mislabelled Munro there). Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -730,8 +730,10 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714) | Thomas Creech | `lucretius-creech-v1` | have-raw (IA `tlucretiuscaruso01lucr`) |
 | T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714) | Thomas Creech | `lucretius-creech-v2` | have-raw (IA `tlucretiuscaruso02lucr`) |
 | De Rerum Natura | William Ellery Leonard | `lucretius-perseus-leonard-de-rerum-natura` | have (Perseus TEI `phi0550.phi001.perseus-eng1`; markup CC BY-SA 4.0) |
+| The Nature of Things: a didactic poem, vol. I (London 1805) | John Mason Good | `lucretius-good-1805-v1` | have-raw (IA `natureofthingsdi01lucr`) |
+| The Nature of Things: a didactic poem, vol. II (London 1805) | John Mason Good | `lucretius-good-1805-v2` | have-raw (IA `natureofthingsdi02lucr`) |
 
-Pending (wishlist): Rouse's Loeb (1924).
+Pending (wishlist): Rouse's Loeb (1924); only 1953 and 1959 printings found on IA, which follow the 1937 revision, so not taken.
 
 Excluded: `in.ernet.dli.2015.96329` (empty text layer).
 

@@ -34,6 +34,16 @@
    "tlucretiuscaruso02lucr",
    "T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714)",
    "tr. Thomas Creech"
+  ],
+  "lucretius-good-1805-v1": [
+   "natureofthingsdi01lucr",
+   "The Nature of Things: a didactic poem, vol. I (London 1805)",
+   "tr. John Mason Good"
+  ],
+  "lucretius-good-1805-v2": [
+   "natureofthingsdi02lucr",
+   "The Nature of Things: a didactic poem, vol. II (London 1805)",
+   "tr. John Mason Good"
   ]
  },
  "_cross_ref": {
@@ -41,8 +51,7 @@
   "dryden-lucretius": "Dryden shelf, lane C (Dryden's passages from Lucretius)"
  },
  "_excluded": {
-  "in.ernet.dli.2015.96329": "catalogued as Munro 4th ed.; its text layer is empty (146 bytes)",
-  "Thomas Creech (1682)": "PD verse; pending"
+  "in.ernet.dli.2015.96329": "catalogued as Munro 4th ed.; its text layer is empty (146 bytes)"
  },
  "perseus": {
   "lucretius-perseus-leonard-de-rerum-natura": [
@@ -61,7 +70,9 @@
   "lucretius-bailey-1910": "bailey",
   "lucretius-creech-v1": "creech",
   "lucretius-creech-v2": "creech",
-  "lucretius-perseus-leonard-de-rerum-natura": "leonard"
+  "lucretius-perseus-leonard-de-rerum-natura": "leonard",
+  "lucretius-good-1805-v1": "Good",
+  "lucretius-good-1805-v2": "Good"
  },
  "_checks": {
   "lucretius-trevelyan-selections": {
@@ -126,6 +137,32 @@
    "ia_rights": "ok: published 1714",
    "ia_date": "1714",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucretius-good-1805-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Good",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-good-1805-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Good",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
