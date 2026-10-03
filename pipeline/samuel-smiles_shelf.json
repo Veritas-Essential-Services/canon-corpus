@@ -1,0 +1,51 @@
+{
+ "_about": "Samuel Smiles (1812-1904): The Huguenots, their Settlements, Churches and Industries in England and Ireland (New York: Harper, 1868, from the London edition of 1867); and The Huguenots in France after the Revocation of the Edict of Nantes, with a visit to the country of the Vaudois (London: Strahan, 1873). The name check looks for 'Samuel Smiles'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "samuel smiles"
+ ],
+ "_surname": [
+  "samuel smiles"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smiles-huguenots-england-ireland": [
+   "huguenotstheirse00smil",
+   "The Huguenots: their Settlements, Churches and Industries in England and Ireland (New York: Harper, 1868)"
+  ],
+  "smiles-huguenots-in-france-1873": [
+   "huguenotsinfranc00smil_2",
+   "The Huguenots in France after the Revocation of the Edict of Nantes (London: Strahan, 1873)"
+  ]
+ },
+ "_alternates": {
+  "huguenotstheirse00smil_0, huguenotstheirsesmil (1876), huguenotsinfranc00smil_3, cu31924029484197": "Other copies and printings."
+ },
+ "_excluded": {
+  "huguenotstheirse0000smil, huguenots0000samu": "Lending-library scans."
+ },
+ "_checks": {
+  "smiles-huguenots-england-ireland": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel smiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "c1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smiles-huguenots-in-france-1873": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel smiles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

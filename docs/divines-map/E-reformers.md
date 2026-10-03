@@ -227,6 +227,10 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Wylie, The History of Protestantism (Cassell, 3 vols); The Papacy (1852); Daybreak in Spain ([1870]) | have-raw | `james-wylie_shelf.json` |
 | Muston, The Israel of the Alps, tr. Montgomery (Blackie, 1875, 2 vols) | have-raw | `alexis-muston_shelf.json` |
 | Turretin on the Atonement of Christ, tr. Willson (New York, 1859) | have-raw | `turretin_shelf.json`; translator checked; the full Institutes are in copyright (1992) |
+| Paul Henry, The Life and Times of John Calvin, tr. Stebbing (2 vols, 1849) | have-raw | `paul-henry_shelf.json`; translator checked |
+| Christoffel, Zwingli, or the Rise of the Reformation in Switzerland, tr. Cochran (1858) | have-raw | `christoffel_shelf.json`; translator checked |
+| Lechler, John Wycliffe and his English Precursors, tr. Lorimer (RTS, 1884) | have-raw | `lechler_shelf.json`; translator checked |
+| Smiles, The Huguenots in England and Ireland (1868); The Huguenots in France (1873) | have-raw | `samuel-smiles_shelf.json` |
 
 ## Confessions and creeds
 
