@@ -7,6 +7,9 @@
   "world",
   "wonder"
  ],
+ "_surname": [
+  "griffis"
+ ],
  "ccel": {},
  "gutenberg": {
   "griffis-japanese-fairy-world": [
@@ -18,5 +21,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "griffis-japanese-fairy-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

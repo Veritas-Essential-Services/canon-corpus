@@ -6,6 +6,10 @@
   "thrush",
   "india"
  ],
+ "_surname": [
+  "crooke",
+  "rouse"
+ ],
  "ccel": {},
  "gutenberg": {
   "crooke-talking-thrush": [
@@ -14,5 +18,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "crooke-talking-thrush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

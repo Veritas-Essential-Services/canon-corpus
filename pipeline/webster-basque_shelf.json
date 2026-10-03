@@ -5,6 +5,12 @@
   "basque",
   "legends"
  ],
+ "_surname": [
+  "webster"
+ ],
+ "_translators": {
+  "webster-basque-legends": "Webster"
+ },
  "ccel": {},
  "gutenberg": {
   "webster-basque-legends": [
@@ -13,5 +19,18 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "webster-basque-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "webster",
+   "translator_claimed": "Webster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

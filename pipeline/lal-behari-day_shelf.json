@@ -6,6 +6,9 @@
   "folk",
   "tales"
  ],
+ "_surname": [
+  "behari"
+ ],
  "ccel": {},
  "gutenberg": {
   "day-folk-tales-of-bengal": [
@@ -17,5 +20,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "day-folk-tales-of-bengal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "behari",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

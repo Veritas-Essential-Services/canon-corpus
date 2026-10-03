@@ -6,6 +6,9 @@
   "brinker",
   "skates"
  ],
+ "_surname": [
+  "dodge"
+ ],
  "ccel": {},
  "gutenberg": {
   "dodge-hans-brinker": [
@@ -17,5 +20,16 @@
  "_excluded": {
   "dodge-duplicate": "Hans Brinker (PG 34378): a later illustrated printing",
   "dodge-st-nicholas": "the St. Nicholas magazine issues she edited: many authors, not hers"
+ },
+ "_checks": {
+  "dodge-hans-brinker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dodge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

@@ -5,6 +5,9 @@
   "child",
   "saints"
  ],
+ "_surname": [
+  "canton"
+ ],
  "ccel": {},
  "gutenberg": {
   "canton-childs-book-of-saints": [
@@ -16,5 +19,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "canton-childs-book-of-saints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "canton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

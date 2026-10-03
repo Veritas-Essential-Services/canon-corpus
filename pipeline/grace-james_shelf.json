@@ -6,6 +6,9 @@
   "fairy",
   "tales"
  ],
+ "_surname": [
+  "james"
+ ],
  "ccel": {},
  "gutenberg": {
   "grace-james-japanese-fairy-tales": [
@@ -17,5 +20,17 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "grace-james-japanese-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

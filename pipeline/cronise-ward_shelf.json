@@ -7,6 +7,10 @@
   "spider",
   "african"
  ],
+ "_surname": [
+  "cronise",
+  "ward"
+ ],
  "ccel": {},
  "gutenberg": {
   "cronise-cunnie-rabbit": [
@@ -15,5 +19,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "cronise-cunnie-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cronise",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

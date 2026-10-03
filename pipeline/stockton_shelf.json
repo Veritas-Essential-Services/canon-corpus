@@ -8,6 +8,9 @@
   "fanciful",
   "tales"
  ],
+ "_surname": [
+  "stockton"
+ ],
  "ccel": {},
  "gutenberg": {
   "stockton-bee-man-of-orn": [
@@ -36,5 +39,34 @@
  "internet_archive": {},
  "_excluded": {
   "stockton-adult": "The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch"
+ },
+ "_checks": {
+  "stockton-bee-man-of-orn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-ting-a-ling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-fanciful-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

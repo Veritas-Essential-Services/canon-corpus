@@ -7,6 +7,9 @@
   "legends",
   "knights"
  ],
+ "_surname": [
+  "knowles"
+ ],
  "ccel": {},
  "gutenberg": {
   "knowles-legends-of-king-arthur": [
@@ -15,5 +18,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "knowles-legends-of-king-arthur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "knowles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

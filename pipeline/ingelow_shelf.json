@@ -7,6 +7,9 @@
   "wonder",
   "box"
  ],
+ "_surname": [
+  "ingelow"
+ ],
  "ccel": {},
  "gutenberg": {
   "ingelow-mopsa-the-fairy": [
@@ -28,5 +31,25 @@
  "_excluded": {
   "ingelow-duplicate": "Mopsa the Fairy (PG 67087): a later illustrated printing",
   "ingelow-other": "her Poems (PG 13223-13224) and Fated to Be Free (12303)"
+ },
+ "_checks": {
+  "ingelow-mopsa-the-fairy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ingelow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ingelow-wonder-box-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ingelow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

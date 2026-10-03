@@ -7,6 +7,10 @@
   "brownie",
   "fairy"
  ],
+ "_surname": [
+  "craik",
+  "mulock"
+ ],
  "ccel": {},
  "gutenberg": {
   "craik-little-lame-prince": [
@@ -26,5 +30,35 @@
  "_excluded": {
   "craik-duplicates": "The Little Lame Prince (PG 23977, 45975): other printings; the Margaret Waters rewriting (24053): an adaptation",
   "craik-novels": "John Halifax, Gentleman and her other novels: not children's books"
+ },
+ "_checks": {
+  "craik-little-lame-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "craik",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-adventures-of-a-brownie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

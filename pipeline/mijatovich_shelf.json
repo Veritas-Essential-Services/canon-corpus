@@ -7,6 +7,14 @@
   "lore",
   "fairy"
  ],
+ "_surname": [
+  "mijatovich",
+  "mijatovics",
+  "mijatović"
+ ],
+ "_translators": {
+  "mijatovich-serbian-folk-lore": "Mijatovich"
+ },
  "ccel": {},
  "gutenberg": {
   "mijatovich-serbian-folk-lore": [
@@ -17,5 +25,19 @@
  "internet_archive": {},
  "_excluded": {
   "mijatovich-fairy-tales-contained": "Serbian Fairy Tales (PG 67191; New York: McBride, 1918): measured 91% contained in Serbian Folk-lore (PG 45321), which is held"
+ },
+ "_checks": {
+  "mijatovich-serbian-folk-lore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mijatovich",
+   "translator_claimed": "Mijatovich",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elodie Lawton Mijatovich",
+   "translator_match": true
+  }
  }
 }

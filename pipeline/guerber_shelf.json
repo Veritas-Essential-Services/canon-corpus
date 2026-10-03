@@ -13,6 +13,9 @@
   "switzerland",
   "wagner"
  ],
+ "_surname": [
+  "guerber"
+ ],
  "ccel": {},
  "gutenberg": {
   "guerber-myths-of-greece-and-rome": [
@@ -79,5 +82,70 @@
  "internet_archive": {},
  "_excluded": {
   "guerber-histories": "The Story of the Greeks (PG 23495), The Story of the Thirteen Colonies (48051) and her other school histories: history, not myth"
+ },
+ "_checks": {
+  "guerber-myths-of-greece-and-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-myths-of-northern-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-myths-of-the-norsemen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-legends-of-the-middle-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-book-of-the-epic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-legends-of-switzerland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guerber-stories-of-the-wagner-opera": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "guerber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

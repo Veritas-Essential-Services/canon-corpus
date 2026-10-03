@@ -7,6 +7,9 @@
   "windmill",
   "overtheway"
  ],
+ "_surname": [
+  "ewing"
+ ],
  "ccel": {},
  "gutenberg": {
   "ewing-jackanapes-and-other-stories": [
@@ -58,5 +61,70 @@
   "ewing-jackanapes-single": "Jackanapes alone (PG 20351): contained in PG 7865",
   "ewing-other": "Melchior's Dream, A Great Emergency, Brothers of Pity, Mary's Meadow, The Peace Egg, We and the World, Last Words, verses and miscellanea: candidates for a later batch",
   "ewing-contained": "The Brownies and Other Tales (PG 16052) and The Land of Lost Toys (PG 33880): measured 84% and 93% contained in Lob Lie-by-the-Fire, The Brownies and Other Tales (PG 62783), which is held"
+ },
+ "_checks": {
+  "ewing-jackanapes-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewing-old-fashioned-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewing-lob-lie-by-the-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewing-jan-of-the-windmill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewing-mrs-overtheways-remembrances": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewing-six-to-sixteen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewing-flat-iron-for-a-farthing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

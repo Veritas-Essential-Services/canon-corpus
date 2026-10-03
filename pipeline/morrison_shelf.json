@@ -4,6 +4,9 @@
  "_name_words": [
   "manx"
  ],
+ "_surname": [
+  "morrison"
+ ],
  "ccel": {},
  "gutenberg": {
   "morrison-manx-fairy-tales": [
@@ -15,5 +18,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "morrison-manx-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

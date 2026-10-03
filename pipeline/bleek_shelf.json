@@ -7,6 +7,12 @@
   "africa",
   "hottentot"
  ],
+ "_surname": [
+  "bleek"
+ ],
+ "_translators": {
+  "bleek-reynard-in-south-africa": "Bleek"
+ },
  "ccel": {},
  "gutenberg": {
   "bleek-reynard-in-south-africa": [
@@ -18,5 +24,18 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "bleek-reynard-in-south-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bleek",
+   "translator_claimed": "Bleek",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

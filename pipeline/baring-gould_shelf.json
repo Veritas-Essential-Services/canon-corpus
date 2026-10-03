@@ -4,6 +4,10 @@
  "_name_words": [
   "baring"
  ],
+ "_surname": [
+  "baring-gould",
+  "baring"
+ ],
  "ccel": {},
  "gutenberg": {
   "baring-gould-curious-myths-of-the-middle-ages": [
@@ -73,5 +77,52 @@
  "internet_archive": {},
  "_excluded": {
   "baring-gould-lives-of-the-saints": "The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place"
+ },
+ "_checks": {
+  "baring-gould-curious-myths-of-the-middle-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-book-of-were-wolves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-book-of-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-legends-of-the-patriarchs-and-prophets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baring-gould-grettir-the-outlaw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baring-gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

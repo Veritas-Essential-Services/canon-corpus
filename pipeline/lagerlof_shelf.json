@@ -6,6 +6,14 @@
   "christ",
   "legends"
  ],
+ "_surname": [
+  "lagerlöf",
+  "lagerlof"
+ ],
+ "_translators": {
+  "lagerlof-wonderful-adventures-of-nils": "Howard",
+  "lagerlof-christ-legends": "Howard"
+ },
  "ccel": {},
  "gutenberg": {
   "lagerlof-wonderful-adventures-of-nils": [
@@ -23,5 +31,31 @@
  "internet_archive": {},
  "_excluded": {
   "lagerlof-novels": "Gösta Berling, Jerusalem, The Emperor of Portugallia and her other novels and stories, translators named in the catalog: candidates for a later batch"
+ },
+ "_checks": {
+  "lagerlof-wonderful-adventures-of-nils": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lagerlöf",
+   "translator_claimed": "Howard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Velma Swanston Howard",
+   "translator_match": true
+  },
+  "lagerlof-christ-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lagerlöf",
+   "translator_claimed": "Howard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Velma Swanston Howard",
+   "translator_match": true
+  }
  }
 }

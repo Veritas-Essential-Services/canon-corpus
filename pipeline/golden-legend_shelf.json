@@ -7,6 +7,10 @@
   "saints",
   "lives"
  ],
+ "_surname": [
+  "caxton",
+  "voragine"
+ ],
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
@@ -43,5 +47,87 @@
   "golden-legend-longfellow": "Longfellow's The Golden Legend (PG 10490): a dramatic poem of the same name, not this book",
   "golden-legend-other-printings": "later Dent reprints of the same Temple Classics edition (1922-1935) and the Wellesley scans of vols. 3 and 5 (goldenlegendorli03jaco, goldenlegendorli05jaco): the 1900 set is held",
   "golden-legend-ryan": "Ryan and Ripperger's translation (Longmans, 1941) and the Princeton translation (1993): in copyright"
+ },
+ "_checks": {
+  "golden-legend-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "golden-legend-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "golden-legend-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "golden-legend-vol-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "golden-legend-vol-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "golden-legend-vol-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "golden-legend-vol-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caxton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

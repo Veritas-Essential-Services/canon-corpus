@@ -7,6 +7,9 @@
   "shoemaker",
   "apron"
  ],
+ "_surname": [
+  "fillmore"
+ ],
  "ccel": {},
  "gutenberg": {
   "fillmore-czechoslovak-fairy-tales": [
@@ -19,5 +22,25 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "fillmore-czechoslovak-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fillmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fillmore-shoemakers-apron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fillmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

@@ -4,6 +4,9 @@
  "_name_words": [
   "hunt"
  ],
+ "_surname": [
+  "hunt"
+ ],
  "ccel": {},
  "gutenberg": {
   "robert-hunt-popular-romances-west-of-england-2": [
@@ -15,5 +18,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "robert-hunt-popular-romances-west-of-england-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hunt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

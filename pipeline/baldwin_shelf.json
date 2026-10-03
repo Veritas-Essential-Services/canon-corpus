@@ -9,6 +9,9 @@
   "golden",
   "sampo"
  ],
+ "_surname": [
+  "baldwin"
+ ],
  "ccel": {},
  "gutenberg": {
   "baldwin-story-of-siegfried": [
@@ -54,5 +57,61 @@
  "internet_archive": {},
  "_excluded": {
   "baldwin-other": "Fifty Famous People (PG 6168), Four Great Americans (11174), the readers and the Book-Lover: history, schoolbooks and criticism"
+ },
+ "_checks": {
+  "baldwin-story-of-siegfried": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baldwin-old-greek-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baldwin-hero-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baldwin-fifty-famous-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baldwin-story-of-the-golden-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "baldwin-sampo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

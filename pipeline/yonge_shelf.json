@@ -4,6 +4,9 @@
  "_name_words": [
   "yonge"
  ],
+ "_surname": [
+  "yonge"
+ ],
  "ccel": {},
  "gutenberg": {
   "yonge-little-duke": [
@@ -37,5 +40,61 @@
  "internet_archive": {},
  "_excluded": {
   "yonge-little-lucys-wonderful-globe-2": "PG 26487, a second transcription of Little Lucy's Wonderful Globe; held once"
+ },
+ "_checks": {
+  "yonge-little-duke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-prince-and-the-page": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-lances-of-lynwood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-herd-boy-and-his-hermit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-book-of-golden-deeds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-little-lucys-wonderful-globe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

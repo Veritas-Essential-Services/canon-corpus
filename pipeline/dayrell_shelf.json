@@ -7,6 +7,9 @@
   "stories",
   "ikom"
  ],
+ "_surname": [
+  "dayrell"
+ ],
  "ccel": {},
  "gutenberg": {
   "dayrell-folk-stories-southern-nigeria": [
@@ -29,5 +32,25 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "dayrell-folk-stories-southern-nigeria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dayrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dayrell-ikom-folk-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dayrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

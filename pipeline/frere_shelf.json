@@ -7,6 +7,9 @@
   "hindoo",
   "fairy"
  ],
+ "_surname": [
+  "frere"
+ ],
  "ccel": {},
  "gutenberg": {
   "frere-old-deccan-days": [
@@ -18,5 +21,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "frere-old-deccan-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

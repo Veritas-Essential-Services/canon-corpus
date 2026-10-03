@@ -7,6 +7,9 @@
   "ulster",
   "northmen"
  ],
+ "_surname": [
+  "hull"
+ ],
  "ccel": {},
  "gutenberg": {
   "hull-cuchulain-hound-of-ulster": [
@@ -27,5 +30,25 @@
  "internet_archive": {},
  "_excluded": {
   "hull-poem-book": "The Poem-Book of the Gael (PG 46917): an anthology of other hands' translations"
+ },
+ "_checks": {
+  "hull-cuchulain-hound-of-ulster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hull-northmen-in-britain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

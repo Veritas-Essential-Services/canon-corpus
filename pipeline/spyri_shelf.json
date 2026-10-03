@@ -7,6 +7,15 @@
   "moni",
   "rico"
  ],
+ "_surname": [
+  "spyri"
+ ],
+ "_translators": {
+  "spyri-heidi-edwardes": "Edwards",
+  "spyri-heidi-stork": "Stork",
+  "spyri-moni-the-goat-boy": "Dole",
+  "spyri-rico-and-wiseli": "Brooks"
+ },
  "ccel": {},
  "gutenberg": {
   "spyri-heidi-edwardes": [
@@ -33,5 +42,55 @@
  "_excluded": {
   "spyri-heidi-abbott": "Heidi tr. Mabel Abbott (PG 46409, 1927): a third translation of the same book; US public domain, held back only to keep the shelf small",
   "spyri-other": "her other translated stories (Toni, Veronica, Gritli's Children, Maezli, Vinzi, Dora and others, each with its translator named in the catalog): candidates for a later batch"
+ },
+ "_checks": {
+  "spyri-heidi-edwardes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spyri",
+   "translator_claimed": "Edwards",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marion Edwards",
+   "translator_match": true
+  },
+  "spyri-heidi-stork": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spyri",
+   "translator_claimed": "Stork",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elisabeth P. Stork",
+   "translator_match": true
+  },
+  "spyri-moni-the-goat-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spyri",
+   "translator_claimed": "Dole",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helen B. Dole",
+   "translator_match": true
+  },
+  "spyri-rico-and-wiseli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spyri",
+   "translator_claimed": "Brooks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louise Brooks",
+   "translator_match": true
+  }
  }
 }

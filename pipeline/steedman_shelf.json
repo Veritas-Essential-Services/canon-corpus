@@ -6,6 +6,9 @@
   "saints",
   "children"
  ],
+ "_surname": [
+  "steedman"
+ ],
  "ccel": {},
  "gutenberg": {
   "steedman-in-gods-garden": [
@@ -14,5 +17,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "steedman-in-gods-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "steedman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

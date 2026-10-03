@@ -10,6 +10,9 @@
   "tragedians",
   "livy"
  ],
+ "_surname": [
+  "church"
+ ],
  "ccel": {},
  "gutenberg": {
   "church-story-of-the-iliad": [
@@ -88,5 +91,88 @@
   "church-history": "Roman Life in the Days of Cicero (PG 13481): history, not story",
   "church-tacitus": "Tacitus, tr. Church and Brodribb: held by Lane B on tacitus_shelf.json",
   "church-iliad-audio": "The Iliad for Boys and Girls (PG 21584): on Gutenberg only as a LibriVox audiobook, with no text file"
+ },
+ "_checks": {
+  "church-story-of-the-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-story-of-the-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-stories-from-virgil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-stories-from-the-greek-tragedians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-stories-from-livy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-stories-of-the-old-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-stories-of-the-persian-wars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred John Church"
+  },
+  "church-faery-queen-and-her-knights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "church-stories-of-charlemagne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

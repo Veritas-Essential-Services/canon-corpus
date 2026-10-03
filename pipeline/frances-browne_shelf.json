@@ -6,6 +6,9 @@
   "wonderful",
   "chair"
  ],
+ "_surname": [
+  "browne"
+ ],
  "ccel": {},
  "gutenberg": {
   "frances-browne-grannys-wonderful-chair": [
@@ -19,5 +22,16 @@
  "internet_archive": {},
  "_excluded": {
   "grannys-wonderful-chair-curtis": "PG 35820, a later illustrated edition of the same book with Dollie Radford's introduction; held once"
+ },
+ "_checks": {
+  "frances-browne-grannys-wonderful-chair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

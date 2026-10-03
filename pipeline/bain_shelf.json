@@ -7,6 +7,13 @@
   "fairy",
   "folk"
  ],
+ "_surname": [
+  "bain"
+ ],
+ "_translators": {
+  "bain-cossack-fairy-tales": "Bain",
+  "bain-turkish-fairy-tales": "Bain"
+ },
  "ccel": {},
  "gutenberg": {
   "bain-cossack-fairy-tales": [
@@ -22,5 +29,31 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "bain-cossack-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "translator_claimed": "Bain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain",
+   "translator_match": true
+  },
+  "bain-turkish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "translator_claimed": "Bain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain",
+   "translator_match": true
+  }
+ }
 }

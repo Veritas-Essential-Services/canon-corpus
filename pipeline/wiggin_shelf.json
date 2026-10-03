@@ -7,6 +7,9 @@
   "carey",
   "christmas"
  ],
+ "_surname": [
+  "wiggin"
+ ],
  "ccel": {},
  "gutenberg": {
   "wiggin-rebecca-of-sunnybrook-farm": [
@@ -63,5 +66,61 @@
   "wiggin-duplicate": "The Birds' Christmas Carol (PG 24286): a second transcription",
   "wiggin-anthologies": "the anthologies she edited with Nora Archibald Smith (The Fairy Ring, Tales of Laughter, Tales of Wonder, The Arabian Nights, Pinafore Palace, The Posy Ring, Golden Numbers): other people's texts, which other shelves hold at source",
   "wiggin-adult": "Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics"
+ },
+ "_checks": {
+  "wiggin-rebecca-of-sunnybrook-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-new-chronicles-of-rebecca": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-birds-christmas-carol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-mother-careys-chickens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-timothys-quest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-polly-olivers-problem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

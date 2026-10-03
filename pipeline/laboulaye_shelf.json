@@ -6,6 +6,12 @@
   "book",
   "laboulaye"
  ],
+ "_surname": [
+  "laboulaye"
+ ],
+ "_translators": {
+  "laboulaye-fairy-book": "Booth"
+ },
  "ccel": {},
  "gutenberg": {
   "laboulaye-fairy-book": [
@@ -17,5 +23,19 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "laboulaye-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "laboulaye",
+   "translator_claimed": "Booth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary L. Booth",
+   "translator_match": true
+  }
+ }
 }

@@ -4,6 +4,10 @@
  "_name_words": [
   "wilde"
  ],
+ "_surname": [
+  "wilde",
+  "speranza"
+ ],
  "ccel": {},
  "gutenberg": {
   "lady-wilde-ancient-legends-of-ireland": [
@@ -22,5 +26,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "lady-wilde-ancient-legends-of-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

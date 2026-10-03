@@ -7,6 +7,9 @@
   "tales",
   "legends"
  ],
+ "_surname": [
+  "petrovitch"
+ ],
  "ccel": {},
  "gutenberg": {
   "petrovitch-hero-tales-serbians": [
@@ -18,5 +21,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "petrovitch-hero-tales-serbians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "petrovitch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

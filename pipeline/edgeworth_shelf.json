@@ -7,6 +7,9 @@
   "stories",
   "children"
  ],
+ "_surname": [
+  "edgeworth"
+ ],
  "ccel": {},
  "gutenberg": {
   "edgeworth-parents-assistant": [
@@ -21,5 +24,16 @@
  "_excluded": {
   "edgeworth-duplicate": "The Parent's Assistant (PG 36132, Macmillan, with Anne Thackeray Ritchie's introduction): another printing; candidate as a second witness",
   "edgeworth-other": "Castle Rackrent, The Absentee, Belinda and the Tales and Novels volumes: not children's books"
+ },
+ "_checks": {
+  "edgeworth-parents-assistant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edgeworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

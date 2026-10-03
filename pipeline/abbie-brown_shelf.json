@@ -6,6 +6,9 @@
   "friendly",
   "beasts"
  ],
+ "_surname": [
+  "brown"
+ ],
  "ccel": {},
  "gutenberg": {
   "abbie-brown-book-of-saints-and-friendly-beasts": [
@@ -14,5 +17,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "abbie-brown-book-of-saints-and-friendly-beasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

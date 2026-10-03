@@ -8,6 +8,9 @@
   "siegfried",
   "ballads"
  ],
+ "_surname": [
+  "macgregor"
+ ],
  "ccel": {},
  "gutenberg": {
   "macgregor-stories-of-king-arthurs-knights": [
@@ -30,5 +33,34 @@
  "_excluded": {
   "macgregor-histories": "The Story of Greece (PG 66070), The Story of Rome (66147): history",
   "macgregor-undine": "Undine (PG 18752): her adaptation of La Motte-Fouqué; a candidate for a later batch"
+ },
+ "_checks": {
+  "macgregor-stories-of-king-arthurs-knights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macgregor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macgregor-stories-of-siegfried": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macgregor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macgregor-stories-from-the-ballads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macgregor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

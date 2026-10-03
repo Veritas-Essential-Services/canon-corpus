@@ -4,6 +4,9 @@
  "_name_words": [
   "croker"
  ],
+ "_surname": [
+  "croker"
+ ],
  "ccel": {},
  "gutenberg": {
   "croker-fairy-legends-south-of-ireland": [
@@ -22,5 +25,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "croker-fairy-legends-south-of-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

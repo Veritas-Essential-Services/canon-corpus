@@ -8,6 +8,9 @@
   "march",
   "plumfield"
  ],
+ "_surname": [
+  "alcott"
+ ],
  "ccel": {},
  "gutenberg": {
   "alcott-little-women": [
@@ -72,5 +75,88 @@
  "_excluded": {
   "alcott-duplicates": "second transcriptions: Little Women (PG 37106), Little Men (PG 52900), Eight Cousins (PG 38567), Rose in Bloom (PG 41127)",
   "alcott-other": "the Aunt Jo's Scrap-Bag and Lulu's Library volumes, story collections, the thrillers (Behind a Mask and others), Hospital Sketches, Work, Moods: candidates for a later batch"
+ },
+ "_checks": {
+  "alcott-little-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-little-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-jos-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-eight-cousins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-rose-in-bloom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-old-fashioned-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-under-the-lilacs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-jack-and-jill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alcott-flower-fables": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

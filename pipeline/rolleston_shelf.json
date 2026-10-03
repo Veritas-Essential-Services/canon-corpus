@@ -7,6 +7,9 @@
   "legends",
   "finn"
  ],
+ "_surname": [
+  "rolleston"
+ ],
  "ccel": {},
  "gutenberg": {
   "rolleston-high-deeds-of-finn": [
@@ -25,5 +28,25 @@
  "_excluded": {
   "rolleston-epictetus": "The Teaching of Epictetus (PG 39855): on Lane B's epictetus_shelf.json",
   "rolleston-other": "Sea Spray, Parallel Paths, Ireland and Poland, his Thomas Davis selection: verse and essays"
+ },
+ "_checks": {
+  "rolleston-high-deeds-of-finn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rolleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rolleston-myths-legends-celtic-race": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rolleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

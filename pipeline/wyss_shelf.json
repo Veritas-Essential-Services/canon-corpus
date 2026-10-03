@@ -7,6 +7,13 @@
   "robinson",
   "island"
  ],
+ "_surname": [
+  "wyss",
+  "kingston"
+ ],
+ "_translators": {
+  "wyss-swiss-family-robinson-kingston": "Kingston"
+ },
  "ccel": {},
  "gutenberg": {
   "wyss-swiss-family-robinson-kingston": [
@@ -29,5 +36,19 @@
   "wyss-copyrighted": "Swiss Family Robinson (PG 3836): its Gutenberg header reads 'This is a COPYRIGHTED Project Gutenberg eBook' (the 2026-07-26 rights rule)",
   "wyss-godwin": "The Family Robinson Crusoe (PG 72813): the first English version, published by M. J. Godwin and Co.; the edition names no translator (usually attributed to the Godwins), so it waits for Adam",
   "wyss-unnamed": "The Swiss Family Robinson (PG 11703) and the Milo Winter and T. H. Robinson printings (PG 34808, 78017): no translator named in the catalog; Words of One Syllable (PG 6692): Lucy Aikin's adaptation"
+ },
+ "_checks": {
+  "wyss-swiss-family-robinson-kingston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wyss",
+   "translator_claimed": "Kingston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Henry Giles Kingston",
+   "translator_match": true
+  }
  }
 }

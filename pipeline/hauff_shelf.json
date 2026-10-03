@@ -8,6 +8,13 @@
   "fairy",
   "tales"
  ],
+ "_surname": [
+  "hauff"
+ ],
+ "_translators": {
+  "hauff-tales-of-the-caravan-inn-palace": "Stowell",
+  "hauff-fairy-tales-weedon": "Weedon"
+ },
  "ccel": {},
  "gutenberg": {
   "hauff-tales-of-the-caravan-inn-palace": [
@@ -26,5 +33,31 @@
  "_excluded": {
   "hauff-unnamed": "The Little Glass Man and Other Stories (PG 45606): the Gutenberg header names Lina Eckenstein only as contributor; held back until the translator is confirmed",
   "hauff-other": "The Oriental Story Book (24593), The Severed Hand (22664), The Wine-Ghosts of Bremen (32064), The Banished (32071): translator to be checked; candidates for a later batch"
+ },
+ "_checks": {
+  "hauff-tales-of-the-caravan-inn-palace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hauff",
+   "translator_claimed": "Stowell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward L. Stowell",
+   "translator_match": true
+  },
+  "hauff-fairy-tales-weedon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hauff",
+   "translator_claimed": "Weedon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. L. Weedon",
+   "translator_match": true
+  }
  }
 }

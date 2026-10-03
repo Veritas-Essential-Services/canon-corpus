@@ -6,6 +6,9 @@
   "folk",
   "stories"
  ],
+ "_surname": [
+  "peabody"
+ ],
  "ccel": {},
  "gutenberg": {
   "peabody-old-greek-folk-stories": [
@@ -16,5 +19,16 @@
  "internet_archive": {},
  "_excluded": {
   "peabody-poems-plays": "The Piper (PG 11661), The Singing Man (14531), The Singing Leaves (75847), The Book of the Little Past (39131): verse and drama"
+ },
+ "_checks": {
+  "peabody-old-greek-folk-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "peabody",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

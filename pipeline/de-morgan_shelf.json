@@ -4,6 +4,9 @@
  "_name_words": [
   "morgan"
  ],
+ "_surname": [
+  "morgan"
+ ],
  "ccel": {},
  "gutenberg": {
   "de-morgan-necklace-of-princess-fiorimonde": [
@@ -41,5 +44,25 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "de-morgan-necklace-of-princess-fiorimonde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "de-morgan-windfairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

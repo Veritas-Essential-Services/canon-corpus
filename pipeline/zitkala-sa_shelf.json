@@ -6,6 +6,9 @@
   "legends",
   "iktomi"
  ],
+ "_surname": [
+  "zitkala"
+ ],
  "ccel": {},
  "gutenberg": {
   "zitkala-sa-old-indian-legends": [
@@ -14,5 +17,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "zitkala-sa-old-indian-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "zitkala",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

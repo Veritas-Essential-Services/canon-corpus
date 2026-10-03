@@ -6,6 +6,14 @@
   "book",
   "martens"
  ],
+ "_surname": [
+  "stroebe",
+  "martens"
+ ],
+ "_translators": {
+  "stroebe-swedish-fairy-book": "Martens",
+  "stroebe-norwegian-fairy-book": "Martens"
+ },
  "ccel": {},
  "gutenberg": {
   "stroebe-swedish-fairy-book": [
@@ -48,5 +56,31 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "stroebe-swedish-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stroebe",
+   "translator_claimed": "Martens",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Herman Martens",
+   "translator_match": true
+  },
+  "stroebe-norwegian-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stroebe",
+   "translator_claimed": "Martens",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Herman Martens",
+   "translator_match": true
+  }
+ }
 }

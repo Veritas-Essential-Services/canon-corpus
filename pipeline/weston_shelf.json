@@ -7,6 +7,14 @@
   "parzival",
   "lais"
  ],
+ "_surname": [
+  "weston"
+ ],
+ "_translators": {
+  "weston-parzival-1": "Weston",
+  "weston-parzival-2": "Weston",
+  "weston-gawain-and-the-lady-of-lys": "Weston"
+ },
  "ccel": {},
  "gutenberg": {
   "weston-parzival-1": [
@@ -59,5 +67,70 @@
  "internet_archive": {},
  "_excluded": {
   "weston-studies": "From Ritual to Romance (PG 4090), The Legend of Sir Lancelot du Lac (46497), The Three Days' Tournament (46636): scholarship, not story"
+ },
+ "_checks": {
+  "weston-parzival-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "weston",
+   "translator_claimed": "Weston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jessie L. Weston",
+   "translator_match": true
+  },
+  "weston-parzival-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "weston",
+   "translator_claimed": "Weston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jessie L. Weston",
+   "translator_match": true
+  },
+  "weston-morien": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "weston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weston-gawain-and-the-lady-of-lys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "weston",
+   "translator_claimed": "Weston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jessie L. Weston",
+   "translator_match": true
+  },
+  "weston-gawain-and-the-green-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "weston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weston-four-lais": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "weston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jessie L. Weston"
+  }
  }
 }

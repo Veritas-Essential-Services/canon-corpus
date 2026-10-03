@@ -7,6 +7,10 @@
   "southern",
   "india"
  ],
+ "_surname": [
+  "sastri",
+  "kingscote"
+ ],
  "ccel": {},
  "gutenberg": {
   "sastri-tales-of-the-sun": [
@@ -15,5 +19,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "sastri-tales-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sastri",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

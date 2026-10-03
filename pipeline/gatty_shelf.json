@@ -7,6 +7,9 @@
   "fairy",
   "godmothers"
  ],
+ "_surname": [
+  "gatty"
+ ],
  "ccel": {},
  "gutenberg": {
   "gatty-aunt-judys-tales": [
@@ -21,5 +24,25 @@
  "internet_archive": {},
  "_excluded": {
   "gatty-translation": "The History of a Mouthful of Bread (PG 6970): her translation of Jean Macé's science book, not story"
+ },
+ "_checks": {
+  "gatty-aunt-judys-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gatty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gatty-fairy-godmothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gatty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

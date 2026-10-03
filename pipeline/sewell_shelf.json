@@ -6,6 +6,9 @@
   "beauty",
   "horse"
  ],
+ "_surname": [
+  "sewell"
+ ],
  "ccel": {},
  "gutenberg": {
   "sewell-black-beauty": [
@@ -19,5 +22,16 @@
  "internet_archive": {},
  "_excluded": {
   "sewell-young-folks": "Black Beauty, Young Folks' Edition (PG 11860): an adaptation"
+ },
+ "_checks": {
+  "sewell-black-beauty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sewell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

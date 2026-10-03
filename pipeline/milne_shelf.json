@@ -8,6 +8,9 @@
   "six",
   "once"
  ],
+ "_surname": [
+  "milne"
+ ],
  "ccel": {},
  "gutenberg": {
   "milne-winnie-the-pooh": [
@@ -40,5 +43,52 @@
  "internet_archive": {},
  "_excluded": {
   "milne-adult": "his plays, essays, humour collections and The Red House Mystery: not children's books"
+ },
+ "_checks": {
+  "milne-winnie-the-pooh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "milne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milne-house-at-pooh-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "milne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milne-when-we-were-very-young": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "milne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milne-now-we-are-six": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "milne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "milne-once-on-a-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "milne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

@@ -4,6 +4,9 @@
  "_name_words": [
   "keightley"
  ],
+ "_surname": [
+  "keightley"
+ ],
  "ccel": {},
  "gutenberg": {
   "keightley-fairy-mythology": [
@@ -15,5 +18,16 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "keightley-fairy-mythology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "keightley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }
