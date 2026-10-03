@@ -58,13 +58,19 @@
    "odeshorace01gladgoog",
    "The Odes of Horace translated into English (London: John Murray; preface dated 1894)",
    "tr. William Ewart Gladstone"
+  ],
+  "horace-bennett-loeb-odes": [
+   "in.ernet.dli.2015.98705",
+   "Horace, The Odes and Epodes, with an English translation (Loeb Classical Library; 1914 translation, Latin facing; this scan is a later impression, see _rights_checked)",
+   "2015.98705.Horace-The-Odes-And-Epodes_djvu.txt",
+   "tr. C. E. Bennett"
   ]
  },
  "_cross_ref": {
   "dryden-horace": "Dryden shelf, lane C"
  },
  "_excluded": {
-  "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles now held (IA); Bennett's Odes and Epodes (1914): no scan with a text layer found; pending",
+  "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles held (IA); Bennett's Odes and Epodes held from a DLI scan (horace-bennett-loeb-odes), found 2026-10-03",
   "Christopher Smart's prose Horace (1756)": "PD; the only scans (IA bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1/_2) are ECCO OCR at 0.74-0.76 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review. Smart's text is held in Buckley's 1869 revision; wanted only from a cleaner scan",
   "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans found read at 0.61-0.64 clean words. Refused for OCR quality on 2026-10-02; wanted only from a cleaner scan",
   "E. C. Wickham, Horace for English Readers (prose, 1903)": "the scan (horaceforenglis00wickgoog) lacks its title page in the OCR, so the translator and date cannot be read from the file; wanted from another scan"
@@ -85,7 +91,8 @@
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
-  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR"
+  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR",
+  "horace-bennett-loeb-odes": "title page OCRs the name as 'C. E, BENNETT' (comma for the second point), so the claim is not matched as written"
  },
  "_checks": {
   "horace-conington-odes": {
@@ -208,6 +215,18 @@
    "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "horace-bennett-loeb-odes": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: Bennett's Loeb Odes and Epodes, Harvard/Heinemann; the date OCRs as '1912' (the translation was first published 1914). The half-title lists later series editors (L. A. Post, E. H. Warmington), so the scan is a later impression; it carries no revision notice and its bibliography ends in 1912. Bennett died in 1921. Taken as the 1914 text, US public domain."
   }
  },
  "_held": {
@@ -215,5 +234,8 @@
  },
  "_collation": {
   "horace-literal-works": "PG 14020 names no translator. Collated against horace-smart-buckley-1869 (Smart's prose revised by Buckley): 107 of 200 sampled 8-word runs match, against 3 of 200 for the unrevised 1756 scan (ECCO OCR, long s). So PG 14020 is Smart's translation in a revised form, probably Buckley's or one close to it; the exact revision is not established. Both are kept until Adam rules (2026-10-02)"
+ },
+ "_rights_checked": {
+  "horace-bennett-loeb-odes": "Title page read: Bennett's Loeb Odes and Epodes, Harvard/Heinemann; the date OCRs as '1912' (the translation was first published 1914). The half-title lists later series editors (L. A. Post, E. H. Warmington), so the scan is a later impression; it carries no revision notice and its bibliography ends in 1912. Bennett died in 1921. Taken as the 1914 text, US public domain."
  }
 }
