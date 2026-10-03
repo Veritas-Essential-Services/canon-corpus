@@ -97,6 +97,11 @@
    "epistlesluciusa00senegoog",
    "The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI)",
    "tr. Thomas Morell"
+  ],
+  "seneca-bradshaw-tragedies-1902": [
+   "cu31924104730209",
+   "The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902)",
+   "tr. Watson Bradshaw"
   ]
  },
  "_excluded": {
@@ -123,7 +128,8 @@
   "seneca-gummere-epistles-v3": "Richard M. Gummere",
   "seneca-basore-moral-essays-v1": "John W. Basore",
   "seneca-miller-loeb-tragedies-v1": "Frank Justus Miller",
-  "seneca-miller-loeb-tragedies-v2": "Frank Justus Miller"
+  "seneca-miller-loeb-tragedies-v2": "Frank Justus Miller",
+  "seneca-bradshaw-tragedies-1902": "Watson Bradshaw"
  },
  "_checks": {
   "seneca-stewart-benefits": {
@@ -342,6 +348,19 @@
    "ia_rights": "ok: published 1786",
    "ia_date": "1786",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seneca-bradshaw-tragedies-1902": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "seneca",
+   "translator_claimed": "Watson Bradshaw",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
