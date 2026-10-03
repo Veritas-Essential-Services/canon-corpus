@@ -1721,6 +1721,14 @@ Shelf: `pipeline/keightley_shelf.json` (2026-10-02; added at the coordinator's r
 |---|---|---|
 | The Fairy Mythology | have | PG 41006, `keightley-fairy-mythology` (3358 units) |
 
+## Sophia Morrison
+
+Shelf: `pipeline/morrison_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales collected on the Isle of Man. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Manx Fairy Tales | have | PG 51762, `morrison-manx-fairy-tales` (686 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

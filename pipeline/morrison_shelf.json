@@ -1,0 +1,19 @@
+{
+ "_about": "Sophia Morrison's (1859-1917) Manx Fairy Tales, collected on the Isle of Man. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Sophia Morrison",
+ "_name_words": [
+  "manx"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "morrison-manx-fairy-tales": [
+   51762,
+   "Manx Fairy Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
