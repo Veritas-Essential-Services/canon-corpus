@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Thomas Traherne (1636?-1674, Church of England clergyman and poet) for the Word Hoard: the Centuries of Meditations (first printed 1908, ed. Bertram Dobell) clean from CCEL, and the Poetical Works (London: Dobell, 1903), raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "t/traherne",
+ "_name_words": [
+  "traherne",
+  "thomas"
+ ],
+ "_surname": [
+  "traherne"
+ ],
+ "_held": {},
+ "ccel": {
+  "traherne-centuries": [
+   "centuries",
+   "Centuries of Meditations",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "traherne-poetical-works-1903": [
+   "poeticalworksoft027447mbp",
+   "The Poetical Works of Thomas Traherne, ed. Bertram Dobell (London, 1903)"
+  ]
+ },
+ "_alternates": {
+  "traherne-poetical-works": "the 1906 second edition (poeticalworksoft00trahuoft); other 1903 scans (poeticalworksth0*trahgoog); the Toronto 1903 scan worksoftrahearn00trahuoft has about half the text of the others and was swapped out"
+ },
+ "_excluded": {},
+ "_pending": {
+  "traherne-christian-ethicks-1675": "Christian Ethicks (1675), christianethicks01trah: 79.8% OCR (long s); kept off the shelf, as with Preston. A 19th- or early 20th-century reprint has not been found."
+ },
+ "_checks": {
+  "traherne-centuries": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "traherne",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "traherne-poetical-works-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "traherne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

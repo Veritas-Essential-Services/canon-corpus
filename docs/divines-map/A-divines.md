@@ -1272,3 +1272,14 @@ Slugs `donne-*`.
 | Sermon Preached to the Lords upon Easter-day | have-clean | CCEL |
 | Works, ed. Henry Alford, 6 vols (London: Parker, 1839) | have-raw | IA (identifiers in the shelf) |
 | Sermon at the Spital (CCEL) | excluded | a fragment |
+
+
+## Thomas Traherne (round 8, my pick, 2026-10-02)
+
+Slugs `traherne-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Centuries of Meditations | have-clean | CCEL |
+| Poetical Works, ed. Bertram Dobell (London, 1903) | have-raw | IA (identifier in the shelf) |
+| Christian Ethicks (1675) | pending | long-s OCR, 79.8% |

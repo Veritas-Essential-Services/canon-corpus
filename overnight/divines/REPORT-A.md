@@ -352,3 +352,6 @@
 
 ## 2026-10-02 21:57 CDT — john-donne done
 - `pipeline/john-donne_shelf.json`: 3 CCEL titles (converted) and Alford's 1839 Works, 6 volumes of raw IA OCR, median 96.4% (89.1-96.7%), about 10 MB; title pages read (vols I-VI). Vol. 1 is the weakest scan (89%; the other copy tried scored 74%). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:59 CDT — thomas-traherne done
+- `pipeline/thomas-traherne_shelf.json`: 1 CCEL title (converted) and Dobell's 1903 Poetical Works (raw IA OCR, 98.4%; title page read, "4903" in the OCR). The first scan tried (Toronto) held about half the text and was swapped. Christian Ethicks 1675 is pending at 79.8%. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

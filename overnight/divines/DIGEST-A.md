@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:57 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:59 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -145,6 +145,7 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Joseph Butler | joseph-butler_shelf.json | 2 CCEL (Analogy of Religion; Fifteen Sermons at the Rolls Chapel) | 2 (Works, ed. W. E. Gladstone, Oxford 1896) | none | Gladstone's Studies Subsidiary (commentary, not Butler) |
 | Thomas Fuller | thomas-fuller_shelf.json | 2 CCEL (Good Thoughts in Bad Times; David's Heinous Sin, verse) | 4 (Church History of Britain, Tegg 1837, 3 vols; Holy State and Profane State, 1840) | none | Brewer's 1845 Church History (another edition); the Worthies of England (not looked for yet) |
 | John Donne | john-donne_shelf.json | 3 CCEL (Devotions upon Emergent Occasions; Death's Duel; Easter sermon to the Lords) | 6 (Works, ed. Henry Alford, London 1839) | none | CCEL's "Spital" sermon (a 6 KB fragment); modern editions of the poems and sermons (in copyright) |
+| Thomas Traherne | thomas-traherne_shelf.json | 1 CCEL (Centuries of Meditations, first printed 1908) | 1 (Poetical Works, ed. Dobell, 1903) | Christian Ethicks 1675 (79.8% OCR, long s) | a Toronto 1903 scan holding half the text |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
