@@ -438,7 +438,9 @@ def compute():
                     x["score"] = min(g["score"] for g in got)
                 vkeyed[ref] = x
             else:
-                vkeyed[ref] = (reads[ref][0] if ref in reads else {"why": WHY_DOUAY_EMPTY})
+                # The Douay's house rows are its own; the Vulgate's are VULGATE_ROWS.
+                vkeyed[ref] = ({"why": reads[ref][0]["why"]} if ref in reads
+                               else {"why": WHY_DOUAY_EMPTY})
     for ref, (ks, words, why) in VULGATE_ROWS.items():
         if words not in vtext.get(ref, ""):
             _stop(f"VULGATE_ROWS {ref}: {words!r} is not in the verse")
