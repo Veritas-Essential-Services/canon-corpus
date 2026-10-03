@@ -305,6 +305,8 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer, Books I-XII, translated into English verse (1886) | the Earl of Carnarvon | `homer-carnarvon-odyssey-1886` | have-raw (IA `homerodyssey00homerich`) |
 | Homer's Iliad, vol. II (Boston: Little and Brown, 1846) | William Munford | `homer-munford-iliad-1846-v2` | have-raw (IA `homersiliad00munfgoog`) |
 | The Iliad of Homer translated into English verse, vol. I: Books I-XII (1861) | Ichabod Charles Wright | `homer-wright-iliad-1861-v1` | have-raw (IA `wrighthomer00homerich`) |
+| Homer and the Iliad, vol. II: The Iliad in English verse, Books I-XII (Edinburgh: Edmonston and Douglas, 1866) | John Stuart Blackie | `homer-blackie-iliad-1866-v2` | have-raw (IA `homeriliad02homeuoft`) |
+| Homer and the Iliad, vol. III: The Iliad in English verse, Books XIII-XXIV (Edinburgh: Edmonston and Douglas, 1866) | John Stuart Blackie | `homer-blackie-iliad-1866-v3` | have-raw (IA `homeriliad33homeuoft`) |
 
 Pending (wishlist): none known beyond the rows above.
 
