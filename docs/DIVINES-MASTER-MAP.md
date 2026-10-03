@@ -934,6 +934,14 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `tadams-*`.
 | Work | Status | Where |
 |---|---|---|
 | Works, 3 vols (Edinburgh: Nichol, 1861-62, memoir by Joseph Angus): his sermons, meditations and discourses | have-raw | IA (identifiers in the shelf) |
+
+## David Clarkson (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `clarkson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical Works, 3 vols (Edinburgh: Nichol, 1864-65) | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -247,3 +247,6 @@
 
 ## 2026-10-02 20:21 CDT — thomas-adams done
 - `pipeline/thomas-adams_shelf.json`: 3 volumes, raw IA OCR, median 96.1% (95.7-96.8%), about 6.9 MB; title pages read (Nichol, Angus, vols I-III). The surname check uses "thomas adams", since "adams" alone is too common. A line in the first draft quoting Southey on Adams was dropped: it was not found in the text. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:22 CDT — clarkson done
+- `pipeline/clarkson_shelf.json`: 3 volumes, raw IA OCR, median 99.1% (95.7-99.2%), about 6.8 MB; title pages read (Nichol, vols I-III). No printed year survives in the OCR, so the titles carry the Princeton records' 1864. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

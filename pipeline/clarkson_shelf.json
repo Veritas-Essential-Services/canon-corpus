@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain David Clarkson (1622-1686, Puritan divine, fellow and tutor of Clare Hall, Cambridge, ejected 1662, colleague and successor of John Owen) for the Word Hoard: the Practical Works (Edinburgh: James Nichol, 1864-65 by the catalogues, 3 vols; no date survives in the OCR, so the titles use the Princeton records' 1864, Nichol's Series of Standard Divines), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "clarkson",
+  "david"
+ ],
+ "_surname": [
+  "clarkson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clarkson-works-1": [
+   "practicalworksof01clar_0",
+   "The Practical Works of David Clarkson, vol. 1 (Edinburgh: Nichol, 1864)"
+  ],
+  "clarkson-works-2": [
+   "practicalworksof02clar_0",
+   "The Practical Works of David Clarkson, vol. 2 (Edinburgh: Nichol, 1864)"
+  ],
+  "clarkson-works-3": [
+   "practicalworksof03clar",
+   "The Practical Works of David Clarkson, vol. 3 (Edinburgh: Nichol, 1864)"
+  ]
+ },
+ "_alternates": {
+  "practicalworksof01clar, 02clar (Toronto); practicalworksof0001..0003clar (GTU); clarksonsworks01, 03claruoft, practicalclarkso02claruoft (Trinity College, Toronto); practicalworks*clargoog (Google)": "Other scans of the same Nichol set."
+ },
+ "_excluded": {
+  "truehistoryofcou00baxt": "Baxter's book; Clarkson is only named in its controversy.",
+  "historyofchurcho00clar; onkeltominenglan121clar": "Other authors named Clarkson."
+ },
+ "_checks": {
+  "clarkson-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "clarkson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clarkson-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "clarkson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clarkson-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "clarkson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
