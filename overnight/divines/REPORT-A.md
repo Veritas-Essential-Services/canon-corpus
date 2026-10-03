@@ -488,3 +488,6 @@
 
 ## 2026-10-03 02:30 CDT — j-w-alexander done
 - `pipeline/j-w-alexander_shelf.json`: 3 IA volumes of raw OCR, median 97.2% (97.2-98.0%). His title pages print "JAMES W: ALEXANDER" with a colon, so that form was added to the name list. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:31 CDT — gardiner-spring done
+- `pipeline/gardiner-spring_shelf.json`: 5 IA volumes of raw OCR, median 97.1% (96.5-98.5%). The two First Things volumes print his name as "gardiner'^pring" and "GARDINER SFRINQ" in the OCR; both are in `_identity_checked` with the reading quoted. `--verify --record`: 0 mismatched. 0 uids minted.

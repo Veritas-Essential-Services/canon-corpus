@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Gardiner Spring (1785-1873, pastor of the Brick Presbyterian Church, New York, for 63 years) for the Word Hoard: Essays on the Distinguishing Traits of Christian Character (copyright and preface 1813, catalogued 1822), A Dissertation on the Rule of Faith (1844), A Pastor's Tribute to One of His Flock (1849) and First Things (New York: M. W. Dodd, fourth edition, 1855, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "spring",
+  "gardiner"
+ ],
+ "_surname": [
+  "gardiner spring",
+  "g. spring",
+  "spring, gardiner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gspring-traits-1822": [
+   "essaysondistingu00spri",
+   "Essays on the Distinguishing Traits of Christian Character (New York; catalogued 1822, copyright notice and preface dated 1813)"
+  ],
+  "gspring-rule-of-faith-1844": [
+   "dissertationonru00spri",
+   "A Dissertation on the Rule of Faith (New York: Leavitt, Trow and Co., 1844)"
+  ],
+  "gspring-pastors-tribute-1849": [
+   "pastorstributeto00spri",
+   "A Pastor's Tribute to One of His Flock: the Memoirs of the late Hannah L. Murray (New York: R. Carter, 1849)"
+  ],
+  "gspring-first-things-1855-v1": [
+   "firstthingsserie185501spri",
+   "First Things: a Series of Lectures on the Great Facts and Moral Lessons First Revealed to Mankind, vol. 1, fourth edition (New York: M. W. Dodd, 1855)"
+  ],
+  "gspring-first-things-1855-v2": [
+   "firstthingsaser02sprigoog",
+   "First Things, vol. 2, fourth edition (New York: M. W. Dodd; catalogued 1855, the year is cut off in the OCR)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "gspring-first-things-1855-v1": {
+   "author": "title page reads 'BY gardiner'^pring, d.d.' (OCR of Gardiner Spring), Dodd, fourth edition, 1855; checked by eye 2026-10-03"
+  },
+  "gspring-first-things-1855-v2": {
+   "author": "title page reads 'BT GARDINER SFRINQ, D.D.' (OCR of Gardiner Spring), Dodd, fourth edition, vol. II; checked by eye 2026-10-03"
+  }
+ },
+ "_checks": {
+  "gspring-traits-1822": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gardiner spring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gspring-rule-of-faith-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gardiner spring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gspring-pastors-tribute-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gardiner spring",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gspring-first-things-1855-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gspring-first-things-1855-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

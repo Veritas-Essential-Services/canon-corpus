@@ -1748,3 +1748,15 @@ Slugs `jwalexander-*`.
 | Consolation, in Discourses on Select Topics (Scribner, sixth edition; copyright 1852) | have-raw | IA (identifiers in the shelf) |
 | Discourses on Common Topics of Christian Faith and Practice (Scribner, 1858) | have-raw | IA |
 | Thoughts on Preaching (Scribner, 1869) | have-raw | IA |
+
+
+## Gardiner Spring (round 11, my pick, 2026-10-03)
+
+Slugs `gspring-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on the Distinguishing Traits of Christian Character (catalogued 1822; copyright and preface 1813) | have-raw | IA (identifiers in the shelf) |
+| A Dissertation on the Rule of Faith (1844) | have-raw | IA |
+| A Pastor's Tribute to One of His Flock (Carter, 1849) | have-raw | IA |
+| First Things (Dodd, fourth edition, 1855), vols 1-2 | have-raw | IA |
