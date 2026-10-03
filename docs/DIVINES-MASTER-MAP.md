@@ -4569,6 +4569,16 @@ Shelf: `pipeline/burgess_shelf.json` (2026-10-02; added at the coordinator's rel
 | burgess-later | excluded | Lightfoot, Whitefoot, Blacky, Old Granny Fox, Bowser, Happy Jack, Mrs. Peter Rabbit, Buster Bear's Twins, Billy Mink, Little Joe Otter, Wishing-Stone Stories, The Christmas Reindeer and the Boy Scout books: candidates for a later batch, each to be checked against the 1929 line |
 | burgess-handbooks | excluded | the Burgess Animal and Bird Books (PG 2441, 3074, 23708, 23709): natural history, not story |
 
+## Selma Lagerlöf
+
+Shelf: `pipeline/lagerlof_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two books in Velma Swanston Howard's translation. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wonderful Adventures of Nils, tr. Velma Swanston Howard | have | PG 10935, `lagerlof-wonderful-adventures-of-nils` (3053 units) |
+| Christ Legends, tr. Velma Swanston Howard | have | PG 44818, `lagerlof-christ-legends` (1332 units) |
+| lagerlof-novels | excluded | Gösta Berling, Jerusalem, The Emperor of Portugallia and her other novels and stories, translators named in the catalog: candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

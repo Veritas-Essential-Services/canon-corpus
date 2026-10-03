@@ -1,0 +1,27 @@
+{
+ "_about": "Selma Lagerlöf's (1858-1940) The Wonderful Adventures of Nils (tr. Velma Swanston Howard; first published 1907, the Gutenberg text is undated) and Christ Legends (tr. Velma Swanston Howard; the text is dated 1908). US public domain (translations published before 1929). Clean Gutenberg text. Her novels are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Selma Lagerlöf",
+ "_name_words": [
+  "nils",
+  "christ",
+  "legends"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lagerlof-wonderful-adventures-of-nils": [
+   10935,
+   "The Wonderful Adventures of Nils, tr. Velma Swanston Howard"
+  ],
+  "lagerlof-christ-legends": [
+   44818,
+   "Christ Legends, tr. Velma Swanston Howard",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "lagerlof-novels": "Gösta Berling, Jerusalem, The Emperor of Portugallia and her other novels and stories, translators named in the catalog: candidates for a later batch"
+ }
+}
