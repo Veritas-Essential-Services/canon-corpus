@@ -596,3 +596,6 @@
 ## 2026-10-03 06:14 CDT — review cycle 11 follow-ups
 - Bare surname forms dropped: "moody" and "mr. moody" (collided with PR #14's A. Moody Stuart), "mackintosh" (Sir James Mackintosh), "moule" (other Moules). All items still verify on the full forms.
 - DIGEST: the Bounds round 12 row now shows six books with Weapon pending; the six undated CCEL print sources (Meyer x3, Bruce, Whyte x2) added under Decisions.
+
+## 2026-10-03 06:21 CDT — george-bull done
+- `pipeline/george-bull_shelf.json`: 13 IA volumes, title pages read. Works vol. 7 is the Trinity College copy (the San Marino copy returned HTTP 500). `--verify --record`: 0 mismatched. 0 uids minted.

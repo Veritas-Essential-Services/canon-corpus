@@ -2035,3 +2035,12 @@ Slugs `sanderson-works-0N`.
 |---|---|---|
 | Works, ed. William Jacobson, 6 vols (Oxford, 1854): sermons (vols. 1-3), Latin lectures on oaths and conscience (vol. 4), cases of conscience (vol. 5), Latin logic (vol. 6) | have-ocr | IA; the English-vocabulary OCR score reads low for the Latin vols. 4 (84.9%) and 6 (88.5%) |
 | De Obligatione Conscientiae, ed. Whewell (Cambridge, 1851) | alternate | IA |
+
+## George Bull (round 13, my pick, 2026-10-03)
+
+Slugs `bull-*`. Name forms are full forms only (no bare "bull").
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. Edward Burton, 7 vols in 8 (Oxford, 1846): English sermons and discourses, the Latin treatises in Latin | have-ocr | IA; the English-vocabulary OCR score reads 75-83% on the Latin volumes |
+| Defence of the Nicene Creed, 2 vols (1851); Harmonia Apostolica (1842); Examen Censurae (1844); Judgment of the Catholic Church (1855), all LACT English translations | have-ocr | IA, OCR 92-98% |

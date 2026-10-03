@@ -1,0 +1,223 @@
+{
+ "_about": "Public-domain George Bull (1634-1710, Bishop of St David's, defender of the Nicene faith) for the Word Hoard: his Works edited by Edward Burton with Robert Nelson's Life (7 vols in 8, Oxford 1846; the Latin treatises are in Latin there), and the Library of Anglo-Catholic Theology English translations of the Defensio Fidei Nicaenae (2 vols, 1851), Harmonia Apostolica (1842), Examen Censurae (1844) and the Judicium Ecclesiae Catholicae (1855), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bull",
+  "george"
+ ],
+ "_surname": [
+  "george bull",
+  "bishop bull",
+  "dr. bull",
+  "georgii bulli",
+  "georgius bullus",
+  "bull, george",
+  "g. bull"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bull-works-1": [
+   "worksofgeorgebul01bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 1 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-2": [
+   "worksofgeorgebul02bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 2 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-3": [
+   "worksofgeorgebul03bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 3 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-4": [
+   "worksofgeorgebul04bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 4 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-5-1": [
+   "worksofgeorgebul51bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 5, part 1 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-5-2": [
+   "worksofgeorgebul52bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 5, part 2 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-6": [
+   "worksofgeorgebul06bull",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 6 (Oxford: University Press, 1846)"
+  ],
+  "bull-works-7": [
+   "bullsworks07bulluoft",
+   "The Works of George Bull, D.D., Lord Bishop of St. David's, ed. Edward Burton, with the Life by Robert Nelson, vol. 7 (Oxford: University Press, 1846)"
+  ],
+  "bull-defensio-english-1": [
+   "defensiofidei01bulluoft",
+   "A Defence of the Nicene Creed, out of the Extant Writings of the Catholick Doctors, a new translation, vol. 1 (Oxford: John Henry Parker, 1851; Library of Anglo-Catholic Theology)"
+  ],
+  "bull-defensio-english-2": [
+   "defensiofideinic02bulluoft",
+   "A Defence of the Nicene Creed, a new translation, vol. 2 (Oxford: John Henry Parker, 1851; Library of Anglo-Catholic Theology)"
+  ],
+  "bull-harmonia-english-1842": [
+   "harmoniaapostoli00bull",
+   "Harmonia Apostolica, or Two Dissertations (Oxford: John Henry Parker, 1842; Library of Anglo-Catholic Theology, in English)"
+  ],
+  "bull-examen-english-1844": [
+   "examencensuraean00bull",
+   "Examen Censurae, or An Answer to Certain Strictures (Oxford: John Henry Parker, 1844; Library of Anglo-Catholic Theology, in English)"
+  ],
+  "bull-judgement-english-1855": [
+   "thejudgementofth00bulluoft",
+   "The Judgment of the Catholic Church on the Necessity of Believing that our Lord Jesus Christ is Very God, Bishop Bull's Works on the Trinity vol. 3 (Oxford: John Henry Parker, 1855)"
+  ]
+ },
+ "_alternates": {
+  "bull-works": "Trinity College (Toronto) copies of the same 1846 set: worksofbull01bulluoft, bullsworks0205bulluoft, bullsworks03bulluoft, worksofbull04bulluoft, worksofbullpt105bulluoft, bullsworks06bulluoft, bullsworks07bulluoft",
+  "bull-works-7": "worksofgeorgebul07bull (the San Marino copy used for vols. 1-6) returned HTTP 500 for its text on 2026-10-03; vol. 7 is the Trinity College copy"
+ },
+ "_excluded": {},
+ "_checks": {
+  "bull-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-5-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-5-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bull-defensio-english-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1851-1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bull-defensio-english-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1851-1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bull-harmonia-english-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-examen-english-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bull-judgement-english-1855": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george bull",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
