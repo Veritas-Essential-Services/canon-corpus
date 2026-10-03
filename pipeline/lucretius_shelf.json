@@ -70,6 +70,11 @@
    "firstsecondbooks00londiala",
    "The First and Second Books of Lucretius translated (privately printed, London, 1879)",
    "tr. unnamed ('the translators', per the preface)"
+  ],
+  "lucretius-baring-1884": [
+   "schemeofepicurus00lucrrich",
+   "The Scheme of Epicurus: a rendering into English verse of the unfinished poem of Lucretius (London, 1884)",
+   "tr. Thomas Charles Baring"
   ]
  },
  "_cross_ref": {
@@ -101,7 +106,8 @@
   "lucretius-good-1805-v2": "John Mason Good",
   "lucretius-rouse-loeb-1924": "W. H. D. Rouse",
   "lucretius-watson-good-bohn-1851": "Watson",
-  "lucretius-johnson-1872": "Johnson"
+  "lucretius-johnson-1872": "Johnson",
+  "lucretius-baring-1884": "Baring"
  },
  "_checks": {
   "lucretius-trevelyan-selections": {
@@ -253,6 +259,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1879",
    "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-baring-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "Baring",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

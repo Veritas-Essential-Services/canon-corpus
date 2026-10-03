@@ -1006,6 +1006,7 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | Lucretius On the Nature of Things, literally translated into English prose, with the metrical version of John Mason Good (Bohn, MDCCCLI) | John Selby Watson (prose); John Mason Good (verse) | `lucretius-watson-good-bohn-1851` | have-raw (IA `lucretiusonnatu00goodgoog`) |
 | Lucretius On the Nature of Things, translated into English verse (London: Sampson Low, 1872) | Charles Frederick Johnson | `lucretius-johnson-1872` | have-raw (IA `lucretiusonnatu00lucr`) |
 | The First and Second Books of Lucretius translated (privately printed, London, 1879) | unnamed ('the translators', per the preface) | `lucretius-anon-books-i-ii-1879` | have-raw (IA `firstsecondbooks00londiala`) |
+| The Scheme of Epicurus: a rendering into English verse of the unfinished poem of Lucretius (London, 1884) | Thomas Charles Baring | `lucretius-baring-1884` | have-raw (IA `schemeofepicurus00lucrrich`) |
 
 Pending (wishlist): none. Rouse's Loeb is held above from a 1924 first printing (IA `text-lucretius-rouse`); the 1953 and 1959 printings follow the 1937 revision and were not taken.
 
