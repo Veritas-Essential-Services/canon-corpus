@@ -310,3 +310,16 @@ US publications before 1930 are public domain in the US; the two 1930 books (Vos
 | Machen, Literature and History of NT Times (1915), Origin of Paul's Religion (1921), Christianity and Liberalism (1923), What is Faith? (1925) | have-raw | `gresham-machen_shelf.json`; Virgin Birth (1930) pending |
 | Nevin, The Anxious Bench (1844), The Mystical Presence (1846), History and Genius of the Heidelberg Catechism (1847), Vindication of the Revised Liturgy (1867) | have-raw | `john-nevin_shelf.json` |
 | Breckinridge, The Knowledge of God, Objectively and Subjectively Considered (1859-69) | have-raw | `robert-breckinridge_shelf.json` |
+
+## Southern and Old School Presbyterians
+
+Thornwell, Dabney, Hodge, Samuel Miller, the Alexanders and Gardiner Spring are on lane A's shelves; these fill the gaps beside them.
+
+| Work | Status | Where |
+|---|---|---|
+| Thomas Smyth, Complete Works, ed. Flinn (10 vols, Columbia, S.C., 1908-1912) | have-raw | `thomas-smyth_shelf.json` |
+| Thomas E. Peck, Miscellanies, ed. T. C. Johnson (3 vols, Richmond, 1895-1897) | have-raw | `thomas-peck_shelf.json` |
+| W. S. Plumer, Studies in the Book of Psalms (1867), Romans (1870), Hints and Helps in Pastoral Theology (1874) | have-raw | `william-plumer_shelf.json` |
+| Stuart Robinson, The Church of God as an Essential Element of the Gospel (1858) | have-raw | `stuart-robinson_shelf.json` |
+| F. R. Beattie, The Presbyterian Standards (1896); Apologetics, vol. I (1903) | have-raw | `francis-beattie_shelf.json` |
+| Ashbel Green, Lectures on the Shorter Catechism (2 vols, 1841) | have-raw | `ashbel-green_shelf.json` |

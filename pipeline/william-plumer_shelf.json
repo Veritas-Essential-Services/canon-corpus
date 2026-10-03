@@ -1,0 +1,78 @@
+{
+ "_about": "William Swan Plumer (1802-1880), Old School Presbyterian, professor at Western, Columbia and Union seminaries: Studies in the Book of Psalms (Philadelphia: Lippincott; Edinburgh: Black, 1867) and Commentary on Paul's Epistle to the Romans (New York: Anson D. F. Randolph, 1870); Hints and Helps in Pastoral Theology (New York: Harper, 1874). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "william s. plumer",
+  "w. s. plumer",
+  "william swan plumer",
+  "dr. plumer",
+  "dr plumer"
+ ],
+ "_surname": [
+  "william s. plumer",
+  "w. s. plumer",
+  "william swan plumer",
+  "dr. plumer",
+  "dr plumer",
+  "wm. s. plumer",
+  "wm. s.'plumer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "plumer-psalms-1867": [
+   "studiesinbookofp00plum",
+   "Studies in the Book of Psalms (Philadelphia: Lippincott, 1867)"
+  ],
+  "plumer-romans": [
+   "commentaryonpaul00plum",
+   "Commentary on Paul's Epistle to the Romans (New York: Randolph, 1870)"
+  ],
+  "plumer-hints-helps": [
+   "hintshelpsinpa00plum",
+   "Hints and Helps in Pastoral Theology (New York: Harper, 1874)"
+  ]
+ },
+ "_alternates": {
+  "studiesinbookofp1872plum (1872), studiesinbookofp0000plum, studiesinbookofp0000plum_h9l5, psalmscriticalex0000will": "Other printings of the Psalms.",
+  "MN41509ucmf_2": "Microfilm of the Romans."
+ },
+ "_excluded": {
+  "thoughtsonreligi00plum, thoughtsonreligi00lcplum (1848)": "On the religious instruction of slaves; a period tract, not theology; left for a decision.",
+  "truthsforpeople00plum, wordsoftruthlove00plum, saintsinner00plum, christian00plum, bibletrueinfidel00plum": "Shorter popular works, not yet title-checked."
+ },
+ "_checks": {
+  "plumer-psalms-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william s. plumer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plumer-romans": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wm. s.'plumer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plumer-hints-helps": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william s. plumer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
