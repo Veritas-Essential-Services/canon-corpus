@@ -82,7 +82,9 @@ Lane A's `calvin_shelf.json` already holds the Calvin Translation Society set (4
 | Robert Bruce, Sermons, ed. Cunningham (1843) | have-raw | `robert-bruce_shelf.json` |
 | Miscellany of the Wodrow Society, vol. 1 (1844) | have-raw | `wodrow-society_shelf.json` |
 | Knox's Works, ed. Laing (Wodrow Society vols) | have | `john-knox_shelf.json` |
-| Row, History of the Kirk (1842); Bruce's Sermons on the Sacrament, tr. Laidlaw (1901); Andrew Melville | pending | not yet searched |
+| Row, History of the Kirk, ed. Laing (1842) | have-raw | `john-row_shelf.json` |
+| Blair, Life and Autobiography, ed. M'Crie (1848) | have-raw | `robert-blair_shelf.json` |
+| Bruce's Sermons on the Sacrament, tr. Laidlaw (1901); Andrew Melville; Wodrow's Correspondence (3 vols, 1842-43) | pending | not yet searched |
 
 ## Scottish divines: gaps beside lane A's shelves
 
@@ -101,3 +103,15 @@ Lane A already holds Boston's Complete Works (`boston_shelf.json`), Ebenezer and
 | Boston; the Erskines | have | lane A, complete; no gaps found |
 | Gillespie, Works vol. 2 (1846); Miscellany Questions (1649) | pending | no usable scan; his Parliament sermons are already in Works vol. 1 |
 | Patrick Gillespie, The Ark of the Covenant Opened (1677) | pending | anonymous on its title page |
+
+## Scottish church histories
+
+The narrative histories of the Kirk from the Reformation to the Revolution, in their 19th-century club editions. Calderwood, Row and Blair are in the Wodrow Society section above; Knox's History is in his Works.
+
+| Work | Status | Where |
+|---|---|---|
+| Spottiswoode, History of the Church of Scotland, ed. Russell and Napier (Spottiswoode Society, 3 vols, 1847-1851) | have-raw | `spottiswoode_shelf.json`, NLS set |
+| Baillie, Letters and Journals 1637-1662, ed. Laing (Bannatyne Club, 3 vols, 1841-1842) | have-raw | `robert-baillie_shelf.json` |
+| Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
+| Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
+| Wodrow's Analecta (Maitland Club, 1842-43); Kirkton's Life of John Welsh | pending | not yet searched |
