@@ -737,3 +737,6 @@
 - convert_nested.py gained `number_repeats` (counted once a heading holds text, after reviewer cycle 9) and `repeat_continues`; tests 17 passed, structure_test 64 passed. Reviewer cycle 9's name forms fixed (Webster, Wilde, Perkins).
 - Ninth audit pass in AUDIT-D §11: 983 URLs on 181 shelves resolve except Lang's Lockhart vol. 1 (HTTP 500, local copy intact).
 - Nothing minted; manifest, fetch_sources.py, structure_texts.py and the uid map untouched. DIGEST: 200 storytellers, 1,016 slugs on 202 shelves waiting for the attended uid pass. Lock released. Queue: 215/215 done.
+
+## 2026-10-03 05:44 CDT — lock retaken
+- The session end above was early: I read the stop time as Saturday 07:00, but RUN-CONTROL's stop_after is Sunday 2026-10-04 07:00 CDT. RUN-CONTROL was already right and was not touched. Lane D resumes with batch 26.
