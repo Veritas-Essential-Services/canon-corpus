@@ -1,0 +1,314 @@
+{
+ "_about": "Public-domain B. B. Warfield (1851-1921, Princeton Theological Seminary) for the Word Hoard: books published in his lifetime (1886-1921), raw Internet Archive OCR from library scans. The ten-volume Oxford Works (1927-1932) is left off: published after his death, partly in 1929 or later, and mostly reprints of review articles; the rights gate refuses those years anyway. CCEL and Gutenberg hold none of his books. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "warfield",
+  "benjamin",
+  "breckinridge"
+ ],
+ "_surname": [
+  "warfield"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "warfield-textual-criticism-1886": [
+   "introductionto00warf",
+   "An Introduction to the Textual Criticism of the New Testament (1886)"
+  ],
+  "warfield-revision-confession-1890": [
+   "onrevisionofconf00warf",
+   "On the Revision of the Confession of Faith (1890)"
+  ],
+  "warfield-two-studies-1897": [
+   "twostudiesinhist00warf_0",
+   "Two Studies in the History of Doctrine: Augustine and the Pelagian Controversy; the Development of the Doctrine of Infant Salvation (1897)"
+  ],
+  "warfield-right-systematic-theology-1897": [
+   "rightofsystemat00warf",
+   "The Right of Systematic Theology (1897)"
+  ],
+  "warfield-evolution-1900": [
+   "presentdayconcep00warf",
+   "The Present Day Conception of Evolution (1900)"
+  ],
+  "warfield-predestination-confessions-1901": [
+   "predestinationin00warf",
+   "Predestination in the Reformed Confessions (1901)"
+  ],
+  "warfield-making-westminster-confession-1901": [
+   "makingofwestmins00warf",
+   "The Making of the Westminster Confession (1901)"
+  ],
+  "warfield-power-of-god-1903": [
+   "powerofgoduntos00warf",
+   "The Power of God unto Salvation (1903)"
+  ],
+  "warfield-millennium-apocalypse-1904": [
+   "millenniumapocal00warf",
+   "The Millennium and the Apocalypse (1904)"
+  ],
+  "warfield-lord-of-glory-1907": [
+   "lordofglorys00warf",
+   "The Lord of Glory (1907)"
+  ],
+  "warfield-africa-latin-literature-1907": [
+   "beginnings00warf",
+   "Africa and the Beginnings of Christian Latin Literature (1907)"
+  ],
+  "warfield-westminster-assembly-1908": [
+   "westmi00warf",
+   "The Westminster Assembly and its Work (1908)"
+  ],
+  "warfield-literary-history-institutes-1909": [
+   "literaryhistoryo00warf",
+   "The Literary History of the Institutes of the Christian Religion by John Calvin (1909)"
+  ],
+  "warfield-is-jesus-god-1912": [
+   "isjesusgodargum00warf",
+   "Is Jesus God? An Argument (1912)"
+  ],
+  "warfield-saviour-of-world-1913": [
+   "saviourofworldse00warf",
+   "The Saviour of the World: Sermons (1913)"
+  ],
+  "warfield-plan-of-salvation-1915": [
+   "planofsalvation00warf",
+   "The Plan of Salvation: Five Lectures (1915)"
+  ],
+  "warfield-faith-and-life-1916": [
+   "faithandlife00warfuoft",
+   "Faith and Life: 'Conferences' in the Oratory of Princeton Seminary (1916)"
+  ],
+  "warfield-counterfeit-miracles-1918": [
+   "counterfeitmir00warf",
+   "Counterfeit Miracles (1918)"
+  ],
+  "warfield-john-humphrey-noyes-1921": [
+   "johnhump00warf",
+   "John Humphrey Noyes and his 'Bible Communists' (1921)"
+  ]
+ },
+ "_alternates": {
+  "introductiontowa00warf, introductiontot00warf (1890); counterfeitmirac00warf, counterfeitmira02warfgoog, b29826251, MN40256ucmf_6; developmentofdo00warf (1891, in Two Studies); powerofgodunto00warf, powergoduntosal00warfgoog; planofsalvationf00warf_0 (1918), plansalvationfi00warfgoog; faithlifeconfere00warf; printingwestmin*warfgoog (1901)": "Other printings or scans, or pieces contained in a held book."
+ },
+ "_excluded": {
+  "Oxford Works (1927-1932): studiesintheolog*, christologycriti*, biblicaldoctrine*, perfectionism*, calvincalvinism*, westminsterassem0000benj*, criticalreviews*": "Posthumous; 1929-1932 volumes fail the rights gate; lending scans.",
+  "Reprints 1935-1997 (Plan of Salvation, Person and Work of Christ, etc.)": "Modern editions.",
+  "presbyterianrefo* (The Presbyterian and Reformed Review)": "A journal he edited: many authors.",
+  "fourhymns00warf (1910)": "Verse: for the hymn manifest.",
+  "calvinandreform00warfgoog; inspiration00hodg; westminsterdoct00howi; apologeticsorrat01beat; introductionto00kerr; oughtconfessiono00dewi": "Books by others with a contribution or preface by him.",
+  "election_202602": "A 2026 upload with no library provenance."
+ },
+ "_checks": {
+  "warfield-textual-criticism-1886": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-revision-confession-1890": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "warfield-two-studies-1897": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-right-systematic-theology-1897": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-evolution-1900": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-predestination-confessions-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-making-westminster-confession-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-power-of-god-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-millennium-apocalypse-1904": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-lord-of-glory-1907": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-africa-latin-literature-1907": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-westminster-assembly-1908": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-literary-history-institutes-1909": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-is-jesus-god-1912": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "c1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-saviour-of-world-1913": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-plan-of-salvation-1915": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-faith-and-life-1916": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warfield-counterfeit-miracles-1918": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warfield-john-humphrey-noyes-1921": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "warfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

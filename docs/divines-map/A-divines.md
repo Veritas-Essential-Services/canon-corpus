@@ -868,3 +868,14 @@ No CCEL or Gutenberg text. Fifteen books from library scans, raw IA OCR; slugs `
 | Experimental and Practical Views of the Atonement (1838); The Silver Trumpet (1844); The Work of the Holy Spirit (1846); Personal Declension and Revival (1847); The Inner Life (1853); The Glory of the Redeemer (1855); Glimpses of the Truth (1856); Midnight Harmonies (1856); Life in Jesus (his mother's memoir, 1860); Christ Ever With You (1863); The Sympathy of Christ (1863); The Precious Things of God (1867); The Ministry of Home (1867); None Like Christ (1868); Go and Tell Jesus (1869) | have-raw | IA (identifiers in the shelf) |
 | Bare uploads of None Like Christ, Consider Jesus, The Inquirer Directed | excluded | no library provenance |
 | 1961-2010 reprints | excluded | modern editions |
+
+## B. B. Warfield (round 5, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Nineteen books he published in his lifetime, from library scans, raw IA OCR; slugs `warfield-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Textual Criticism of the NT (1886); Revision of the Confession (1890); Two Studies in the History of Doctrine (1897); Right of Systematic Theology (1897); Present Day Conception of Evolution (1900); Predestination in the Reformed Confessions (1901); Making of the Westminster Confession (1901); Power of God unto Salvation (1903); Millennium and the Apocalypse (1904); Lord of Glory (1907); Africa and Christian Latin Literature (1907); Westminster Assembly and its Work (1908); Literary History of Calvin's Institutes (1909); Is Jesus God? (1912); Saviour of the World (1913); Plan of Salvation (1915); Faith and Life (1916); Counterfeit Miracles (1918); John Humphrey Noyes (1921) | have-raw | IA (identifiers in the shelf) |
+| Oxford Works, 10 vols (1927-1932) | excluded | posthumous; lending scans; later volumes fail the rights gate |
+| Four Hymns (1910) | excluded | verse, for the hymn manifest |
+| Reprints 1935-1997; books by others with his contribution | excluded | modern or not his |

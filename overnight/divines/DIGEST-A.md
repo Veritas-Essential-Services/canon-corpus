@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 19:56 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:03 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -83,6 +83,7 @@ Round 4 was done by 17:19 CDT. Lane A carries on with more Puritan, Scottish and
 | Hugh Binning | binning_shelf.json | 0 (none exists) | 1 (Works, Edinburgh 1851, ed. Leishman, one volume, complete) | none | Howie's Covenanter collection |
 | James Durham | durham_shelf.json | 0 (none exists) | 5 (Christ Crucified 1792, 2 vols; Law Unsealed 1777; Revelation 1680; Clavis Cantici 1723; all old type, rough OCR) | Treatise concerning Scandal 1659 (refused scan) | Dickson's Sum of Saving Knowledge |
 | Octavius Winslow | octavius-winslow_shelf.json | 0 (none exists) | 15 books (1838-1869: Personal Declension, Work of the Holy Spirit, the Atonement, Glory of the Redeemer, Precious Things of God and more) | none | uploads without provenance; modern reprints; memorials of others |
+| B. B. Warfield | warfield_shelf.json | 0 (none exists) | 19 lifetime books (1886-1921: Textual Criticism, Two Studies, Lord of Glory, Plan of Salvation, Counterfeit Miracles and more) | none | the posthumous Oxford Works (lending scans; the later volumes fail the rights gate); modern reprints; books by others with his preface |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

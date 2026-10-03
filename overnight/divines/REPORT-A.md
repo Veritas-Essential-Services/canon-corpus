@@ -228,3 +228,6 @@
 
 ## 2026-10-02 19:56 CDT — octavius-winslow done
 - `pipeline/octavius-winslow_shelf.json`: 15 books (1838-1869), raw IA OCR, 90.7-98.6%, about 6.5 MB. Two scans swapped: None Like Christ for a fuller scan (89 page images, not 59), Go and Tell Jesus for the scan whose OCR names Winslow. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:03 CDT — warfield done
+- `pipeline/warfield_shelf.json`: 19 lifetime books (1886-1921), raw IA OCR, median 97.5% (lowest 91.8%, the Institutes history), about 5.9 MB. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. The posthumous Oxford Works are left out: lending scans, and the later volumes fall after the 1930 line.
