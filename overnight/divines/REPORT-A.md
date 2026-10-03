@@ -552,3 +552,7 @@
 - Lightfoot Philippians note corrected: the 1873 third edition (stpaulsepistleto00lighuoft) carries 55,039 Greek characters.
 - DIGEST: Finney 1944 and Torrey 1974 printings, Bounds hold, round 12 veto points and the PR #14 clash added under Decisions.
 - The four PR #14 shelves are held unchanged.
+
+## 2026-10-03 05:47 CDT — four round 11 shelves handed to PR #14
+- Removed `george-smeaton`, `hugh-martin`, `john-kennedy-dingwall`, `thomas-mccrie` shelf files: PR #14 owns them and reconciled them in 400f0b9; checked that every source id of this branch's versions is on #14.
+- Martin's Jonah corrected to the third edition of 1880 (read from the title page OCR).

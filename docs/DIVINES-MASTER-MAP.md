@@ -1814,7 +1814,7 @@ Slugs `hmartin-*`.
 | Work | Status | Where |
 |---|---|---|
 | The Atonement in its Relations to the Covenant, the Priesthood, the Intercession (Lyon and Gemmell, 1877) | have-raw | IA (identifiers in the shelf) |
-| The Prophet Jonah (Gemmell, 1889 reissue; preface 1866) | have-raw | IA |
+| The Prophet Jonah (Gemmell, third edition, 1880; preface 1866) | have-raw | IA |
 | The Westminster Doctrine of the Inspiration of Scripture (Nisbet, 1890) | have-raw | IA |
 | Letters to Marcus Dods (Nisbet, 1877) | have-raw | IA |
 
@@ -1928,6 +1928,10 @@ Slugs `denney-*`.
 | Work | Status | Where |
 |---|---|---|
 | The Death of Christ; The Second Epistle to the Corinthians; The Epistles to the Thessalonians | have-clean | CCEL (print sources 1894-1911) |
+
+## Note on four round 11 shelves (2026-10-03)
+
+The George Smeaton, Hugh Martin, John Kennedy (Dingwall) and Thomas M'Crie shelves were also added on PR #14, which owns them. PR #14 reconciled both versions in 400f0b9, so the relay branch no longer carries these four shelf files. The entries above record what lane A found.
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
