@@ -252,6 +252,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Georgics of Virgil, Books I, II, translated into English verse (Murray, 1900) | Lord Burghclere | `virgil-burghclere-georgics-1-2-1900` | have-raw (IA `georgicsbooks0102virguoft`) |
 | The Bucolics of Virgil, literally translated into English prose from the text of Heyne, with a freer translation and notes (1825) | T. W. C. Edwards | `virgil-edwards-bucolics-1825` | have-raw (IA `publiivirgiliima00virg`) |
 | The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922) | Thomas Fletcher Royds | `virgil-royds-eclogues-1922` | have-raw (IA `ecloguesbucolics00virguoft`) |
+| The Eclogues of Virgil, in English hexameter (1909) | I. Perley Smith | `virgil-smith-eclogues-1909` | have-raw (IA `ecloguesofvirgil00vi`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 

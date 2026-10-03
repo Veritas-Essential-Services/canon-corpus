@@ -175,6 +175,11 @@
    "ecloguesbucolics00virguoft",
    "The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922)",
    "tr. Thomas Fletcher Royds"
+  ],
+  "virgil-smith-eclogues-1909": [
+   "ecloguesofvirgil00vi",
+   "The Eclogues of Virgil, in English hexameter (1909)",
+   "tr. I. Perley Smith"
   ]
  },
  "_cross_ref": {
@@ -251,7 +256,8 @@
   "virgil-preston-georgics-1881": "Harriet Waters Preston",
   "virgil-burghclere-georgics-1-2-1900": "Burghclere",
   "virgil-edwards-bucolics-1825": "T. W. C. Edwards",
-  "virgil-royds-eclogues-1922": "Thomas Fletcher Royds"
+  "virgil-royds-eclogues-1922": "Thomas Fletcher Royds",
+  "virgil-smith-eclogues-1909": "Perley Smith"
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -680,6 +686,19 @@
    "ia_rights": "ok: published 1922",
    "ia_date": "1922",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-smith-eclogues-1909": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Perley Smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
