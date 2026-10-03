@@ -1081,3 +1081,12 @@ No CCEL or Gutenberg text. Raw IA OCR from Google and Princeton scans; slugs `wb
 | Whole Works (London: Black, 1815), vols 2-4: sermons on forgiveness, the Everlasting Rest of the Saints, miscellaneous sermons | have-raw | IA (Google scans) |
 | The Harmony of the Divine Attributes (1831); The Four Last Things (1826); Spiritual Perfection (1834, with Pye Smith's essay) | have-raw | IA |
 | Whole Works, vol. 1 | pending | no scan found |
+
+## Ezekiel Hopkins (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `ehopkins-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 3 vols (Philadelphia: Leighton, ed. C. W. Quick from Pratt's London edition, 1867-74): the Ten Commandments, the Lord's Prayer, the Two Covenants, Death Disarmed, sermons | have-raw | IA (identifiers in the shelf) |
+| Pratt's London Works (1809); separate printings (1701-1860) | alternate | IA |

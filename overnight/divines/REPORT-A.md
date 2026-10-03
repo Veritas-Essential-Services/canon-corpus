@@ -295,3 +295,6 @@
 
 ## 2026-10-02 21:04 CDT — william-bates done
 - `pipeline/william-bates_shelf.json`: 6 items, raw IA OCR, median 95.0%; the three Google-scanned Works volumes score 89-92%, the three separate books 98-99%. IA does not number the Google scans; the volumes were identified from their title pages (II, III, IV). Vol. 1 has no scan, so three of his books printed separately stand in, and whether they make up the whole of vol. 1 was not checked. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:06 CDT — ezekiel-hopkins done
+- `pipeline/ezekiel-hopkins_shelf.json`: 3 volumes, raw IA OCR, median 98.7% (98.5-99.2%), about 6.1 MB; title pages read (Quick from Pratt, vols I-III). The copies scanned are dated 1867 and 1874 by their shelfmarks, so the titles say 1867-74. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

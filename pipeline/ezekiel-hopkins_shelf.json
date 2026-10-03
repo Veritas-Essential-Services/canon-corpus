@@ -1,0 +1,70 @@
+{
+ "_about": "Public-domain Ezekiel Hopkins (1634-1690, Bishop of Raphoe and then of Derry) for the Word Hoard: the Works (Philadelphia: Leighton Publications, ed. Charles W. Quick from Pratt's London edition, 3 vols; Princeton's shelfmarks date the scanned copies 1867 and 1874), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hopkins",
+  "ezekiel"
+ ],
+ "_surname": [
+  "hopkins"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ehopkins-works-1": [
+   "worksofezekielho01hopk",
+   "The Works of Ezekiel Hopkins, vol. 1 (Philadelphia: Leighton, ed. C. W. Quick, 1867-74)"
+  ],
+  "ehopkins-works-2": [
+   "worksofezekielho02hopk",
+   "The Works of Ezekiel Hopkins, vol. 2 (Philadelphia: Leighton, ed. C. W. Quick, 1867-74)"
+  ],
+  "ehopkins-works-3": [
+   "worksofezekielho03hopk_0",
+   "The Works of Ezekiel Hopkins, vol. 3 (Philadelphia: Leighton, ed. C. W. Quick, 1867-74)"
+  ]
+ },
+ "_alternates": {
+  "worksofezekielho02hopk_0": "Another scan of vol. 2.",
+  "worksezekielhop00..02hopkgoog (London, 1809, ed. Josiah Pratt)": "The earlier collected edition (Google scans).",
+  "expositionoftenc*, apracticalexpos00hopkgoog, doctrineoftwocov*, bim_eighteenth-century_*hopkins-ezekiel*": "Separate printings of pieces the Works collect (1701-1860)."
+ },
+ "_excluded": {
+  "9105243.nlm.nih.gov": "A druggist's notice: not his."
+ },
+ "_checks": {
+  "ehopkins-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ehopkins-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ehopkins-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
