@@ -331,6 +331,11 @@
    "philebusplato00platuoft",
    "The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879)",
    "tr. F. A. Paley"
+  ],
+  "plato-mackay-sophistes-1868": [
+   "bub_gb_CZqC4O8wSdoC",
+   "The Sophistes of Plato: a dialogue on true and false teaching, translated with explanatory notes and an introduction on ancient and modern sophistry (London: Williams and Norgate, 1868)",
+   "tr. R. W. Mackay"
   ]
  },
  "_excluded": {
@@ -442,7 +447,8 @@
   "plato-cope-phaedo-1875": "e. m. cope",
   "plato-wright-phaedrus-lysis-protagoras-1888": "J. Wright",
   "plato-dyde-theaetetus-1899": "S. W. Dyde",
-  "plato-paley-philebus-1879": "Paley"
+  "plato-paley-philebus-1879": "Paley",
+  "plato-mackay-sophistes-1868": "r. w. mackay"
  },
  "_checks": {
   "plato-charmides": {
@@ -1170,6 +1176,19 @@
    "ia_rights": "ok: published 1873",
    "ia_date": "1873",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-mackay-sophistes-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "r. w. mackay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
