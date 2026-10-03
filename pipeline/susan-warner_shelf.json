@@ -1,0 +1,66 @@
+{
+ "_about": "Susan Warner's two novels of girlhood: The Wide, Wide World (Grosset and Dunlap; undated in the text) and Queechy, signed with her pen name Elizabeth Wetherell (undated in the text). Gutenberg's Tauchnitz text of The Wide, Wide World (PG 18689) and the two-volume Queechy are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Susan Warner",
+ "_name_words": [
+  "warner",
+  "wetherell"
+ ],
+ "_surname": [
+  "susan warner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "warner-wide-wide-world": [
+   28376,
+   "The Wide, Wide World",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$"
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ],
+  "warner-queechy": [
+   8874,
+   "Queechy",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXL]+\\.$",
+      "strip": "\\.$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_surname_by_slug": {
+  "warner-queechy": [
+   "elizabeth wetherell"
+  ]
+ },
+ "_checks": {
+  "warner-wide-wide-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-queechy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "elizabeth wetherell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
