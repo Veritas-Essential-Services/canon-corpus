@@ -825,8 +825,10 @@
     {
       "id": "yonge",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: yonge; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:25:11-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:25:11-05:00",
+      "finished": "2026-10-02T20:30:09-05:00",
+      "notes": "6/6 fetched (Gutenberg 3048, 3696, 4364, 5313, 6489, 4538), 5,064 units, 0 ~2 ids."
     }
   ]
 }

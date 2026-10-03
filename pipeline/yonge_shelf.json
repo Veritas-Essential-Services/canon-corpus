@@ -1,0 +1,41 @@
+{
+ "_about": "Charlotte M. Yonge's (1823-1901) stories and tales for the young: The Little Duke, The Prince and the Page, The Lances of Lynwood, The Herd Boy and His Hermit, A Book of Golden Deeds and Little Lucy's Wonderful Globe. Her many domestic novels are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Charlotte M. Yonge",
+ "_name_words": [
+  "yonge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "yonge-little-duke": [
+   3048,
+   "The Little Duke: Richard the Fearless"
+  ],
+  "yonge-prince-and-the-page": [
+   3696,
+   "The Prince and the Page: A Story of the Last Crusade"
+  ],
+  "yonge-lances-of-lynwood": [
+   4364,
+   "The Lances of Lynwood"
+  ],
+  "yonge-herd-boy-and-his-hermit": [
+   5313,
+   "The Herd Boy and His Hermit"
+  ],
+  "yonge-book-of-golden-deeds": [
+   6489,
+   "A Book of Golden Deeds",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-little-lucys-wonderful-globe": [
+   4538,
+   "Little Lucy's Wonderful Globe"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "yonge-little-lucys-wonderful-globe-2": "PG 26487, a second transcription of Little Lucy's Wonderful Globe; held once"
+ }
+}

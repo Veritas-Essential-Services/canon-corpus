@@ -4909,6 +4909,20 @@ Shelf: `pipeline/richards_shelf.json` (2026-10-02; added at the coordinator's re
 | Snow-White; or, The House in the Wood | have | PG 49724, `richards-snow-white` (524 units) |
 | richards-golden-breasted-kootoo | excluded | PG 49750, The Golden-Breasted Kootoo, and Other Stories (1899 reissue; copyright 1885): the stories told inside The Joyous Story of Toto, reprinted; 72% of its long paragraphs are in richards-joyous-story-of-toto |
 
+## Charlotte M. Yonge (1823-1901)
+
+Shelf: `pipeline/yonge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her historical tales and story books for the young; the domestic novels are left for now. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Little Duke: Richard the Fearless | have | PG 3048, `yonge-little-duke` (794 units) |
+| The Prince and the Page: A Story of the Last Crusade | have | PG 3696, `yonge-prince-and-the-page` (1166 units) |
+| The Lances of Lynwood | have | PG 4364, `yonge-lances-of-lynwood` (1030 units) |
+| The Herd Boy and His Hermit | have | PG 5313, `yonge-herd-boy-and-his-hermit` (896 units) |
+| A Book of Golden Deeds | have | PG 6489, `yonge-book-of-golden-deeds` (878 units) |
+| Little Lucy's Wonderful Globe | have | PG 4538, `yonge-little-lucys-wonderful-globe` (300 units) |
+| yonge-little-lucys-wonderful-globe-2 | excluded | PG 26487, a second transcription of Little Lucy's Wonderful Globe; held once |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

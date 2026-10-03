@@ -396,3 +396,6 @@
 
 ## 2026-10-02 20:30 CDT — richards: done
 - 9/9 fetched (Gutenberg 7790, 7824, 19892, 43336, 49748, 49751, 35281, 41603, 49724), 6,182 units, 13 ~2 ids.
+
+## 2026-10-02 20:30 CDT — yonge: done
+- 6/6 fetched (Gutenberg 3048, 3696, 4364, 5313, 6489, 4538), 5,064 units, 0 ~2 ids.
