@@ -29,13 +29,30 @@
    "bim_eighteenth-century_the-satires-of-persius-t_persius_1799",
    "The Satires of Persius, translated, with notes (London: W. Bulmer for J. Wright, 1799)",
    "tr. William Drummond"
+  ],
+  "juvenal-persius-madan-1814": [
+   "newliteraltransl00juveiala",
+   "A New and Literal Translation of Juvenal and Persius, with explanatory notes, 2 vols. bound as one (London: William Baynes, 1814)",
+   "tr. Martin Madan"
+  ],
+  "juvenal-badham-1814": [
+   "satiresofjuvenal00ju",
+   "The Satires of Juvenal translated into English Verse (London: Longman and others, 1814)",
+   "tr. Charles Badham"
+  ],
+  "juvenal-hodgson-1807": [
+   "b28269743",
+   "The Satires of Juvenal, translated and illustrated (London: Payne and Mackinlay, 1807)",
+   "tr. Francis Hodgson"
   ]
  },
  "_cross_ref": {
   "dryden-juvenal": "Dryden shelf, lane C",
   "dryden-persius": "Dryden shelf, lane C"
  },
- "_excluded": {},
+ "_excluded": {
+  "Madan's Juvenal and Persius, 1789 (ECCO scans, 2 vols)": "OCR 0.63; the same translation is held from the 1814 edition (juvenal-persius-madan-1814)"
+ },
  "_surname": [
   "juvenal",
   "juvenalis",
@@ -45,7 +62,10 @@
   "juvenal-persius-evans-gifford": "Lewis Evans",
   "juvenal-persius-ramsay": "G. G. Ramsay",
   "persius-conington-1874": "John Conington",
-  "persius-drummond-1799": "William Drummond"
+  "persius-drummond-1799": "William Drummond",
+  "juvenal-persius-madan-1814": "M. Madan",
+  "juvenal-badham-1814": "Charles Badham",
+  "juvenal-hodgson-1807": "Francis Hodgson"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -98,6 +118,45 @@
    "ia_date": "1799",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "juvenal-persius-madan-1814": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "M. Madan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "juvenal-badham-1814": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "Charles Badham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "juvenal-hodgson-1807": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "Francis Hodgson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1807",
+   "ia_date": "1807",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
@@ -115,5 +174,6 @@
   "persius-drummond-1799": [
    "persius"
   ]
- }
+ },
+ "_translator_unchecked": {}
 }
