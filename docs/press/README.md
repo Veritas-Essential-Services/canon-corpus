@@ -58,7 +58,9 @@ book's corrections, each with its evidence), `docs/press/QA.md` and
    Offor's footnote marks; such notes print under "Further Notes" rather than
    being guessed into place, and the QA counts them.
 3. **EEBO-TCP** (`press_tcp.py`): the Text Creation Partnership's hand-keyed
-   transcriptions of first editions, Phase I released under CC0. Used where no
+   transcriptions of first editions, Phases I and II both released under CC0
+   (each file's own `<availability>` statement is read; the catalog CSV's
+   "Restricted" column is out of date). Used where no
    19th-century editor reprinted the book (Burroughs's *Rare Jewel*, 1649;
    Watson's *Godly Man's Picture*, 1666, and *Doctrine of Repentance*, 1668;
    Perkins's *Arte of Prophecying* in Tuke's 1607 English). Spelling is the
