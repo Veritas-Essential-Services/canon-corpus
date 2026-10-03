@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:52 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:55 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -107,6 +107,7 @@ Round 5 was nearly done by 20:15 CDT. Lane A carries on with the Puritans of Nic
 | James Buchanan | james-buchanan_shelf.json | 0 (none exists) | 6 (Justification 1867, Holy Spirit 1842, Comfort in Affliction 1844, Faith in God and Modern Atheism 1855 ×2, Analogy 1864) | none | church-establishment lectures; newspaper articles on Essays and Reviews |
 | William Cunningham | william-cunningham_shelf.json | 0 (none exists) | 5 (Reformers 1862; Historical Theology 1862-63, 2 vols; Church Principles 1863; Theological Lectures 1878) | none | a single 1840 lecture; Bruce's sermons, which he edited |
 | Patrick Fairbairn | fairbairn_shelf.json | 0 (none exists) | 9 (Typology 1864 ×2, Jonah 1849, Hermeneutical Manual 1858, Prophecy 1866, Revelation of Law 1869, Pastoral Epistles 1874, Pastoral Theology 1875, Ezekiel 1876) | none | his translations of Hengstenberg, Dorner, Lisco and Steiger (other men's books); the Imperial Bible-Dictionary |
+| John Angell James | john-angell-james_shelf.json | 0 (none exists) | 16 (Works, ed. T. S. James, London: Hamilton, Adams from 1860; 16 of 17 vols) | Works vol. 15 (no scan with text) | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

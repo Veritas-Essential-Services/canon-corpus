@@ -1040,6 +1040,15 @@ No CCEL or Gutenberg text. Raw IA OCR from Toronto, Princeton, Library of Congre
 | The Typology of Scripture, 4th ed., 2 vols (1864); Jonah (1849); Hermeneutical Manual (1858); Prophecy (1866); The Revelation of Law in Scripture (1869); The Pastoral Epistles (1874); Pastoral Theology, with Dodds's memoir (1875); Ezekiel (1876) | have-raw | IA (identifiers in the shelf) |
 | Other editions and scans | alternate | IA |
 | His translations from the German | excluded | other men's books |
+
+## John Angell James (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `jajames-works-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. T. S. James, vols 1-14, 16-17 (London: Hamilton, Adams, from 1860): The Anxious Inquirer, Christian Charity, the Family Monitor, addresses, sermons and the rest | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 15 | pending | no scan with a text layer |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,265 @@
+{
+ "_about": "Public-domain John Angell James (1785-1859, Congregational minister of Carr's Lane, Birmingham, author of The Anxious Inquirer) for the Word Hoard: the Works edited by his son T. S. James (London: Hamilton, Adams, from 1860, 17 vols), raw Internet Archive OCR from Princeton scans. 16 of the 17 volumes are on the shelf; vol. 15 has no scan with a text layer. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "james",
+  "angell",
+  "john"
+ ],
+ "_surname": [
+  "angell james"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jajames-works-01": [
+   "worksofjohnangel12jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 1 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-02": [
+   "worksofjohnangel13jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 2 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-03": [
+   "worksofjohnangel14jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 3 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-04": [
+   "worksofjohnangel16jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 4 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-05": [
+   "worksofjohnangel15jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 5 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-06": [
+   "worksofjohnangel02jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 6 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-07": [
+   "worksofjohnangel03jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 7 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-08": [
+   "worksofjohnangel11jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 8 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-09": [
+   "worksofjohnangel06jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 9 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-10": [
+   "worksofjohnangel04jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 10 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-11": [
+   "worksofjohnangel05jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 11 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-12": [
+   "worksofjohnangel07jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 12 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-13": [
+   "worksofjohnangel08jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 13 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-14": [
+   "worksofjohnangel09jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 14 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-16": [
+   "worksofjohnangel10jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 16 (London: Hamilton, Adams, from 1860)"
+  ],
+  "jajames-works-17": [
+   "worksofjohnangel01jame",
+   "The Works of John Angell James, ed. T. S. James, vol. 17 (London: Hamilton, Adams, from 1860)"
+  ]
+ },
+ "_alternates": {
+  "worksjohnangell01jamegoog (Google, vol. 4)": "Another scan of vol. 4."
+ },
+ "_excluded": {},
+ "_pending": {
+  "jajames-works-15": "Vol. 15 of the Works: no scan on IA with a text layer (worksjohnangell00jamegoog has none; its volume number is unknown)."
+ },
+ "_checks": {
+  "jajames-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-12": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-13": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-14": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-16": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jajames-works-17": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "angell james",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

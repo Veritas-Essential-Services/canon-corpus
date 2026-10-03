@@ -280,3 +280,6 @@
 
 ## 2026-10-02 20:52 CDT — fairbairn done
 - `pipeline/fairbairn_shelf.json`: 9 volumes, raw IA OCR, median 98.5% (95.5-99.0%), about 12 MB. The identity gate refused two scans. Revelation of Law: the Princeton scan never prints his name, so it was swapped for the Toronto scan, which does. Prophecy: the OCR reads "Faiebairk", so an `_identity_checked` reason quotes the title page. The two Typology volumes come from two Toronto libraries, both the 1864 Clark 4th edition. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:55 CDT — john-angell-james done
+- `pipeline/john-angell-james_shelf.json`: 16 of 17 volumes, raw IA OCR, median 99.0% (98.1-99.3%), about 16 MB. IA's identifiers do not follow the volume order; the shelf maps them by the catalogue's volume field, and the title pages confirm it for 14 of the 16 (vols 9 and 11 print no volume number in the opening pages). Vol. 15 has no scan with a text layer, so it is pending. The surname check uses "angell james", because "james" alone would match almost any book. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
