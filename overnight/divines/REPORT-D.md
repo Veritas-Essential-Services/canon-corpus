@@ -264,3 +264,6 @@
 
 ## 2026-10-02 19:42 CDT — abbie-brown: done
 - 1/1 fetched (Gutenberg 28990), 656 units, 0 ~2 ids.
+
+## 2026-10-02 19:42 CDT — steedman: done
+- 1/1 fetched (Gutenberg 36674), 732 units, 0 ~2 ids.

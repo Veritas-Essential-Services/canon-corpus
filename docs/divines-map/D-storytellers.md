@@ -1246,6 +1246,14 @@ Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | The Book of Saints and Friendly Beasts | have | PG 28990, `abbie-brown-book-of-saints-and-friendly-beasts` (656 units) |
 
+## Amy Steedman
+
+Shelf: `pipeline/steedman_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' lives retold for young children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In God's Garden: Stories of the Saints for Little Children | have | PG 36674, `steedman-in-gods-garden` (732 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -512,7 +512,9 @@
     {
       "id": "steedman",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Amy Steedman's In God's Garden; myth and saints batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:42:47-05:00",
+      "notes": "1/1 fetched (Gutenberg 36674), 732 units, 0 ~2 ids."
     }
   ]
 }
