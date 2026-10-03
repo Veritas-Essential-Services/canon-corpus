@@ -301,6 +301,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey translated into English verse, vol. I: Books I-VIII (John Murray, 1903) | J. W. Mackail | `homer-mackail-odyssey-1903-v1` | have-raw (IA `cu31924087936112`) |
 | The Odyssey translated into English verse, vol. II: Books IX-XVI (John Murray, 1905) | J. W. Mackail | `homer-mackail-odyssey-1905-v2` | have-raw (IA `cu31924087936120`) |
 | The Odyssey translated into English verse, vol. III: Books XVII-XXIV (John Murray, 1910) | J. W. Mackail | `homer-mackail-odyssey-1910-v3` | have-raw (IA `cu31924087936138`) |
+| Homer's Odyssey, a line-for-line translation in the metre of the original (Harrap, 1911) | H. B. Cotterill | `homer-cotterill-odyssey-1911` | have-raw (IA `homersodyssey00homeuoft`) |
 
 Pending (wishlist): none known beyond the rows above.
 
