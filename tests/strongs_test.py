@@ -105,7 +105,10 @@ ok([w["strongs"] for w in wit] == keys, "one witness row per table row")
 CIT = re.compile(r"^[a-z0-9][a-z0-9.\-]*:[A-Za-z0-9.\-_]+$")
 cits = [c for w in wit for v in w["witnesses"].values() for c in ([v] if isinstance(v, str) else v)]
 ok(all(CIT.match(c) for c in cits), f"witnesses are citations only, no text ({len(cits):,} links)")
-ok(all(set(w["witnesses"]) <= {"strongs-1890", *B.WITNESSES} for w in wit), "only known witness books")
+ok(all(set(w["witnesses"]) <= {"strongs-1890", *B.WITNESSES, *(n + "-shared" for n in B.WITNESSES)} for w in wit),
+   "only known witness books")
+ok(wit[[w["strongs"] for w in wit].index("H430")]["witnesses"].get("bdb") == ["bdb-hebrew:BDB430"],
+   "H430: BDB's own entry only; the entry for YHWH, which also lists it, is bdb-shared")
 ww = {w["strongs"]: w["witnesses"] for w in wit}
 ok("bdb-hebrew:BDB2965" in ww["H2617"].get("bdb", []), "H2617 חֶסֶד is witnessed by BDB2965")
 ok("tbesg-greek:G0001G" in ww["G1"].get("tbesg", []) and "tbesg-greek:G0001H" in ww["G1"]["tbesg"],
@@ -205,9 +208,12 @@ else:
     vb = {r["strongs"]: r for r in view}
     ok([r["strongs"] for r in view] == [k for k in keys if k not in set(not_used)],
        f"one view row per used number ({len(view):,})")
-    ok(all(r["kjv"]["occurrences"] == sum(r["kjv"]["renderings"].values()) for r in view),
-       "each row's renderings add up to its KJV occurrences")
-    ok(sum(r["kjv"]["occurrences"] for r in view) == len(alltags), "the view counts every KJV tag once")
+    occ = lambda r: r["kjv"]["occurrences"] + r["kjv"]["psalm_title_occurrences"]
+    ok(all(occ(r) == sum(r["kjv"]["renderings"].values()) for r in view),
+       "each row's renderings add up to its KJV occurrences, Psalm titles included")
+    ok(sum(occ(r) for r in view) == len(alltags), "the view counts every KJV tag once")
+    ok(vb["H4210"]["kjv"]["verses"] == [] and "Ps.3" in vb["H4210"]["kjv"]["psalm_titles"],
+       "mizmor (H4210) stands only in Psalm titles: filed under the titles, never under verse 1")
     ok(all(set(r["parallels"]) <= set(r["kjv"]["verses"]) and all(pp[o] == v for o, v in r["parallels"].items())
            for r in view), "a row's parallels are its own verses, as parallels.jsonl gives them")
     ok(all(r["lexicons"] == ww[r["strongs"]] for r in view), "a row's lexicons are its witnesses row")

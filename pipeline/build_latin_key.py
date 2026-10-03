@@ -238,11 +238,13 @@ def read_ls():
         hint = None if cls else sense_class(rest[:400])
         plain = RE_TAG.sub("", body)
         pointer = len(plain) < 120 and bool(re.search(r"\bv\. ", plain)) and not gen and not pos
+        # the word it points to: "abjicio, v. abicio"; "caelus, i, v. caelum init."
+        to = re.search(r"\bv\. (?:\d\. )?([^\W\d_]+)", plain) if pointer else None
         rows.append({"key": key, "citation": f"lewis-short:{key}", "perseus_id": a["id"],
                      "homograph": int(a["n"]) if a.get("n", "").isdigit() else None,
                      "type": a.get("type"), "headword": hw, "spellings": alts,
                      "class": cls or hint, "class_by": "tag" if cls else "sense" if hint else None,
-                     "gen": gen, "pointer": pointer})
+                     "gen": gen, "pointer": pointer, "points_to": ls_fold(to.group(1)) if to else None})
     keys = [r["key"] for r in rows]
     if len(set(keys)) != len(keys):
         raise SystemExit("HARD STOP: Lewis & Short keys are not unique")
@@ -320,10 +322,33 @@ def link(headword, pos, by_head, by_spelling, gender=None, proper=None):
     spelling -- none does, but one prints it as another spelling before its
                 first sense (rursum under rursus);
     voice    -- only the other voice is there (WORDS domino, L&S dominor);
+    pointer  -- the one entry is a bare cross-reference ("abjicio, v.
+                abicio"), followed to the entry it names, of the same class;
     ambiguous-- several remain; all are listed, none is chosen;
     clash    -- the only entry is a noun for a verb or a verb for a noun
                 (WORDS's vis "you want", L&S's vis "force"): another word;
     none     -- L&S has none of these."""
+    status, keys = _link(headword, pos, by_head, by_spelling, gender, proper)
+    # a lone pointer entry ("abjicio, v. abicio") is followed once, when the
+    # entry it names is of this word's class: caelos is caelum, not the
+    # pointer caelus. Not when the class differs (humiliter, v. humilis: an
+    # adverb is not filed under its adjective) -- then the pointer stands.
+    if status in LINKED and len(keys) == 1:
+        row = next((r for r in by_head.get(headword, []) + by_spelling.get(headword, [])
+                    if r["key"] == keys[0]), None)
+        if row and row["pointer"] and row["points_to"] and row["points_to"] != headword:
+            cands = [r for r in by_head.get(row["points_to"], [])
+                     if r["type"] not in SKIP_TYPES and not r["pointer"]]
+            if cands:
+                fits = [r for r in cands if r["class"] in WCLASS.get(pos, set()) | {None}]
+                if len(fits) > 1:       # caelus -> caelum2 (heaven), which prints caelus; not caelum1, a chisel
+                    fits = [r for r in fits if headword in r["spellings"]]
+                if len(fits) == 1:
+                    return "pointer", [fits[0]["key"]]
+    return status, keys
+
+
+def _link(headword, pos, by_head, by_spelling, gender=None, proper=None):
     tries = [(by_head, headword, "headword"), (by_spelling, headword, "spelling")]
     tries += [(ix, v, "voice") for v in voice_variants(headword, pos) for ix in (by_head, by_spelling)]
     clash = False
@@ -343,7 +368,7 @@ def link(headword, pos, by_head, by_spelling, gender=None, proper=None):
     return ("clash" if clash else "none"), []
 
 
-LINKED = ("headword", "class", "case", "gender", "spelling", "voice")
+LINKED = ("headword", "class", "case", "gender", "spelling", "voice", "pointer")
 
 
 def indexes(ls_rows):

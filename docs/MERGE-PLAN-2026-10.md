@@ -264,9 +264,9 @@ counterpart on the relay branch.
   module says GPL. Decide which. Until you do, everything built from them
   (`kjv-tags`, `kjv-renderings`, the KJV half of the concordance, the
   concordance view) is built locally to `build/strongs/` and was removed from
-  the branch's history on 2026-10-02.
+  the branch tip on 2026-10-02 (still in its earlier commits).
 - The OSHB OT layer is CC BY. Commit it, or keep building it locally.
-- The Latin key (added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? Until you say yes, only its manifest is committed; the files build to `build/latin-key/` and were removed from the branch's history on 2026-10-02. It adds no conflicts.
+- The Latin key (added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? Until you say yes, only its manifest is committed; the files build to `build/latin-key/` and were removed from the branch tip on 2026-10-02 (still in its earlier commits). It adds no conflicts.
 
 **#11**
 - The #11 review's Lightfoot fix has landed (ff633ad): all 9 rows now carry

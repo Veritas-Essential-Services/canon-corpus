@@ -92,8 +92,8 @@ SOURCES = {
         "transcription": "OpenScriptures HebrewLexicon, HebrewStrong.xml",
         "url": "https://github.com/openscriptures/HebrewLexicon",
         "rights": ("Dictionary text public domain (1890). The XML markup is CC BY 4.0 "
-                   "(OpenScriptures); only the PD text fields are carried here, with "
-                   "attribution."),
+                   "(OpenScriptures). Carried here, with attribution: the PD text fields, "
+                   "and the markup's own pos, proper_name and lang (CC BY 4.0)."),
     },
     "strongs-greek": {
         "file": "strongs-greek.xml",
@@ -286,6 +286,8 @@ def build_witnesses(table, prior_rows, prior_manifest):
                 if name in w and k in out:
                     out[k][name] = w[name]
                     n += 1
+                if name + "-shared" in w and k in out:
+                    out[k][name + "-shared"] = w[name + "-shared"]
             carried.append(name)
             # the committed stats as they were, so --check stays byte-identical;
             # the carry is reported on stdout, never written into the manifest
@@ -313,9 +315,13 @@ def build_witnesses(table, prior_rows, prior_manifest):
                 unkeyed += 1
                 continue
             hit = False
-            for k in dict.fromkeys(targets):
+            # BDB files several numbers under one entry (H6_H8, two spellings
+            # of one word, but also words it only mentions: H430 under the
+            # entry for YHWH). Only the first is the entry's own; the rest
+            # are kept apart, as `<name>-shared`, never as a witness.
+            for i, k in enumerate(dict.fromkeys(targets)):
                 if k in keys:
-                    out[k].setdefault(name, []).append(u["id"])
+                    out[k].setdefault(name if i == 0 else name + "-shared", []).append(u["id"])
                     hit = True
                 else:
                     beyond += 1
@@ -323,6 +329,8 @@ def build_witnesses(table, prior_rows, prior_manifest):
         stats[name] = {"book": label, "entries": len(units), "linked": linked,
                        "no_strongs": unkeyed, "beyond_1890": beyond,
                        "numbers_covered": sum(1 for k in out if name in out[k]),
+                       "numbers_shared_only": sum(1 for k in out if name + "-shared" in out[k]
+                                                  and name not in out[k]),
                        "inputs": shas}
     rows = [{"strongs": k, "witnesses": out[k]} for k in sorted(out, key=sort_key)]
     return rows, stats, carried
@@ -346,8 +354,10 @@ def build_concordance(table, prior_rows, prior_manifest, kjv_rows=None):
         if (prior_manifest.get("concordance") or {}).get("kjv"):
             stats["kjv"] = prior_manifest["concordance"]["kjv"]   # unchanged: see kstats
     else:
+        # a Psalm title is no verse and has no uid: its tags are not filed under
+        # verse 1 (README s.6); the view lists them as titles
         for r in kjv_rows:
-            for _, k in r["tags"] + r.get("title_tags", []):
+            for _, k in r["tags"]:
                 if k in keys:
                     occ.setdefault(k, {}).setdefault("kjv", {})[r["passage_uid"]] = None
                     tc = tokens.setdefault(k, {})
@@ -356,7 +366,8 @@ def build_concordance(table, prior_rows, prior_manifest, kjv_rows=None):
             if isinstance(occ[k].get("kjv"), dict):
                 occ[k]["kjv"] = list(occ[k]["kjv"])
         stats["kjv"] = {"dir": "build/strongs/kjv-tags.jsonl (local)",
-                        "tokens": sum(len(r["tags"]) + len(r.get("title_tags", [])) for r in kjv_rows),
+                        "tokens": sum(len(r["tags"]) for r in kjv_rows),
+                        "psalm_title_tokens_not_filed": sum(len(r.get("title_tags", [])) for r in kjv_rows),
                         "numbers_occurring": sum(1 for k in occ if "kjv" in occ[k]),
                         "note": "tagged KJV words, not original-language tokens"}
     for name, rel in CORPORA.items():
@@ -569,7 +580,8 @@ def build_oshb_layer():
     """Strong's keys for every data/ot/ token, from the same pinned OSHB files
     build_ot_corpus.py reads, segmented by ITS rules: its read_book() is
     wrapped, and each verse re-walked in parallel to collect lemma attributes
-    per word, then zipped against its tokens with the surfaces checked."""
+    per word, then zipped against its tokens. The build checks each verse's
+    word COUNT; that the surfaces line up is checked by tests/strongs_test.py."""
     try:
         import build_ot_corpus as O
         import xml.etree.ElementTree as ET
@@ -723,23 +735,30 @@ def build_view(table, wit, kjv_rows, parallels):
     by = {t["strongs"]: t for t in table}
     w = {r["strongs"]: r["witnesses"] for r in wit}
     par = {r["kjv"]: r["parallels"] for r in parallels}
-    verses, words = {}, {}
+    verses, words, titles = {}, {}, {}
     for r in kjv_rows:
         osis = r["citation"][4:]
-        for word, k in r["tags"] + r.get("title_tags", []):
+        for word, k in r["tags"]:
             vs = verses.setdefault(k, {})
             vs[osis] = vs.get(osis, 0) + 1
+        for word, k in r.get("title_tags", []):      # the title, not verse 1 (README s.6)
+            ts = titles.setdefault(k, {})
+            ts[osis.rsplit(".", 1)[0]] = ts.get(osis.rsplit(".", 1)[0], 0) + 1
+        for word, k in r["tags"] + r.get("title_tags", []):
             d = words.setdefault(k, {})
             ww = word if word.isupper() and len(word) > 1 else word.lower()
             d[ww] = d.get(ww, 0) + 1
     rows = []
-    for k in sorted(set(verses) | {t["strongs"] for t in table if not t.get("not_used")}, key=sort_key):
+    for k in sorted(set(verses) | set(titles) | {t["strongs"] for t in table if not t.get("not_used")},
+                    key=sort_key):
         t = by[k]
         vs = verses.get(k, {})
         lex = {name: cits for name, cits in w.get(k, {}).items()}
         row = {"strongs": k, "lemma": t["lemma"], "translit": t["translit"], "lang": t["lang"],
                "definition": t["definition"], "lexicons": lex,
                "kjv": {"occurrences": sum(vs.values()), "verses": list(vs),
+                       "psalm_titles": list(titles.get(k, {})),
+                       "psalm_title_occurrences": sum(titles.get(k, {}).values()),
                        "renderings": dict(sorted(words.get(k, {}).items(), key=lambda kv: (-kv[1], kv[0])))},
                "parallels": {o: par[o] for o in vs if o in par}}
         rows.append(row)

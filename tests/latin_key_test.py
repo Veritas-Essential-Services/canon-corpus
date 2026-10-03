@@ -172,7 +172,7 @@ for name, meta in man["files"].items():
 
 ls = rows("lewis-short.jsonl")
 LS_FIELDS = {"key", "citation", "perseus_id", "homograph", "type", "headword", "spellings",
-             "class", "class_by", "gen", "pointer"}
+             "class", "class_by", "gen", "pointer", "points_to"}
 ok(len(ls) == man["counts"]["lewis_short_entries"] == 51645, "51,645 L&S entries")
 ok(all(set(r) == LS_FIELDS for r in ls), "L&S rows carry pointers and facts only, never definition text")
 ok(all(r["citation"] == "lewis-short:" + r["key"] for r in ls), "every citation is lewis-short:<key>")
@@ -222,6 +222,8 @@ ok(forms["peccata"]["resolved"].get("rare-entry") is None and forms["tribus"]["r
    "peccata and tribus are never settled by frequency (pecco, tres)")
 ok(forms["absque"]["resolved"] == {"whole-word": forms["absque"]["tokens"]}, "every absque is the preposition absque")
 ok(forms["septimo"]["ls"] == ["septimus"], "septimo is septimus, the ordinal, not septem")
+ok(forms["caelos"]["ls"] == ["caelum2"], "caelos is caelum2 (heaven): the pointer caelus, 'v. caelum', is followed")
+ok(forms["humiliter"]["ls"] == ["humiliter"], "humiliter: a pointer to an adjective is not followed for an adverb")
 ok("1Sam.23.9" not in str(conc["cum1"]["resolved"]), "1 Sam 23:9 Quod cum David rescisset: not cum 'with'")
 for f in sorted(B.OWN_LEMMA_STANDS):
     ok(not forms[f]["resolved"].get("rare-entry"), f"{f} is never forced off its own lemma by frequency")

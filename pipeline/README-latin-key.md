@@ -43,15 +43,16 @@ is drawn from Perseus's CC BY-SA text of L&S, so it is built locally to
 `build/latin-key/`, and the manifest records each file's sha256 and row count
 (`files`) beside the rights block (s.5). A rebuild proves itself against those
 hashes (`--check`). Until Adam rules on s.5 nothing derived from L&S goes into
-this public repository; on 2026-10-02 the files were also removed from the
-branch's history.
+this public repository; on 2026-10-02 the files were removed from the
+branch tip; they are still in its earlier commits until Adam rules on purging
+them (PR #10, decision 7).
 
 | file | one row per | what it holds |
 |---|---|---|
 | `lewis-short.jsonl` | L&S entry (51,645) | See below. No definition text. |
 | `whitaker-ls.jsonl` | Whitaker lemma (40,827) | The L&S key(s) it links to, and the `status` saying how. |
 | `vulgate-forms.jsonl` | Vulgate form as written, lower-cased (46,316) | Token count, Whitaker lemmas, L&S keys, `status`. |
-| `strongs-latin.jsonl` | Strong's number with a Latin equivalent (3,947) | The L&S entries the Vulgate uses where the KJV has that number, scored (s.4c). |
+| `strongs-latin.jsonl` | Strong's number with a Latin equivalent (3,963) | The L&S entries the Vulgate uses where the KJV has that number, scored (s.4c). |
 | `vulgate-concordance.jsonl` | L&S key the Vulgate uses (9,364) | `sure` verses (the form alone decides), `resolved` verses by rule id (s.4b), and `possible` verses (left null). |
 | `manifest.json` (committed) | — | Pins, rights, counts, each file's sha256, what is not claimed. |
 
@@ -63,7 +64,7 @@ Each `lewis-short.jsonl` row holds:
 - the entry type;
 - the folded headword and other printed spellings;
 - the word class, and where it came from (`class_by`);
-- `pointer`.
+- `pointer`, and `points_to`, the word it names.
 
 Verses are cited in the Vulgate's own numbering: `Ps.22.1` is
 `vulgate:Ps.22.1`, "Dominus regit me". Its KJV verse (Ps 23:1) and that
@@ -90,17 +91,19 @@ Some entries are excluded:
 - An entry L&S marks spurious (`type="spur"`) never takes a word.
 - A **pointer** entry is short, has no class, and is nothing but "v. …"
   (`sum2`: "= eum, v. is"). It loses to a real entry with the same headword.
+  When it is the only entry, it is followed once (status `pointer`, below).
 
 The tries run in order:
 
 | status | rule | lemmas |
 |---|---|---|
-| `headword` | exactly one entry prints this headword | 24,581 |
+| `headword` | exactly one entry prints this headword | 23,562 |
 | `class` | several do, and one has the word class WORDS gives. Also: one prints no class while every other prints a class that does not fit (*qui* the pronoun is `qui1`, because `qui2` is the adverb). WORDS's adverb *cum* ("when") may be L&S's conjunction. | 1,045 |
-| `case` | ... and exactly one is capitalised as the lemma is (*rex* is `rex1`, not the name `Rex2`) | 305 |
+| `case` | ... and exactly one is capitalised as the lemma is (*rex* is `rex1`, not the name `Rex2`) | 302 |
 | `gender` | ... and exactly one noun has the lemma's gender (*populus* m. is `populus1`, the people; f. is `populus2`, the poplar) | 59 |
-| `spelling` | no headword matches, but one entry prints this as another spelling before its first sense (*rursum* under `rursus`, *quatuor* under `quattuor`, *revertor* under `reverto`) | 878 |
+| `spelling` | no headword matches, but one entry prints this as another spelling before its first sense (*rursum* under `rursus`, *quatuor* under `quattuor`, *revertor* under `reverto`) | 843 |
 | `voice` | only the verb's other voice is there (WORDS *domino*, L&S `dominor`) | 90 |
+| `pointer` | the one entry is a bare cross-reference, followed once to the entry it names when that entry is of the lemma's class (*caelus*, "v. caelum", is `caelum2`, heaven, the `caelum` that prints *caelus*; *abjicio* is `abicio`). Not followed across classes: *humiliter*, "v. humilis", stays `humiliter`. Its targets are L&S's own filing, so *vos* is `tu` and *fio* is `facio`, as L&S prints them. | 1,057 |
 | `ambiguous` | several entries remain. All are listed and none is chosen. | 410 |
 | `clash` | the only entry is a noun where WORDS has a verb (or the reverse), or an adverb where WORDS has a pronoun (*eadem*, *eodem*). Those are never one entry, so it is another word, left unlinked: WORDS's *vis* "you want" (from volo) is not L&S's `vis` "force"; *canto, cantonis* is not `canto` "to sing"; WORDS's *audito* is not L&S's noun `auditor`. | 32 |
 | `none` | L&S has none of these | 13,427 |
@@ -141,8 +144,8 @@ The first pass looks at a form alone:
 
 | status | forms | tokens | share of tokens |
 |---|---|---|---|
-| `sure`: every reading is the same L&S entry | 32,954 | 422,340 | 69.0% |
-| `several`: readings point at different entries, or one reading has none | 9,195 | 169,880 | 27.8% |
+| `sure`: every reading is the same L&S entry | 33,422 | 425,568 | 69.5% |
+| `several`: readings point at different entries, or one reading has none | 8,727 | 166,652 | 27.2% |
 | `no-ls`: read by WORDS, but no reading is in L&S | 3,936 | 19,307 | 3.2% |
 | `unread`: WORDS has no reading | 231 | 502 | 0.1% |
 
@@ -165,11 +168,11 @@ words settled by priors alone apart from words a grammar rule helped settle
 | rule id | what it removes | why it holds | tokens it settles (alone or with others) |
 |---|---|---|---|
 | `idem-dem` | an *idem* reading of a form without *-dem* (*ejus*, *eos*, *eis*) | WORDS's own entry for idem says "w/-dem ONLY" | 8,957 |
-| `proper-lower` | a reading that is a name, for a word written lower-case: a capitalised L&S key (*panes* not `Pan`, *principes* not `Princeps2`); where L&S has no entry, a WORDS name | the Clementine capitalises names | 2,190 |
-| `possessive-agrees` | beside a word that can only be a possessive (*meus*, *tuus*, *suus*, *noster*, *vester*), every reading that is not a noun, adjective, pronoun or numeral agreeing with it in case, number and gender. It runs before `rare-entry`, which would otherwise take *salutare tuum*, "thy salvation", as the verb saluto, because WORDS grades the noun by classical use. | a possessive needs something to agree with | 2,289 |
+| `proper-lower` | a reading that is a name, for a word written lower-case: a capitalised L&S key (*panes* not `Pan`, *principes* not `Princeps2`); where L&S has no entry, a WORDS name | the Clementine capitalises names | 2,355 |
+| `possessive-agrees` | beside a word that can only be a possessive (*meus*, *tuus*, *suus*, *noster*, *vester*), every reading that is not a noun, adjective, pronoun or numeral agreeing with it in case, number and gender. It runs before `rare-entry`, which would otherwise take *salutare tuum*, "thy salvation", as the verb saluto, because WORDS grades the noun by classical use. | a possessive needs something to agree with | 2,240 |
 | `whole-word` (prior) | a reading that splits off an enclitic (-que, -ne, -ve), when another reads the word whole: *absque* is the preposition "without", not *abs* + -que | the dictionary prints the whole word | 3,058 |
-| `rare-inflection` (prior) | a reading by an ending WORDS grades less than common (C or rarer in INFLECTS.LAT: *dominum* as domina's genitive plural) | WORDS's own grade on the ending | 3,013 |
-| `rare-entry` (prior) | a reading whose dictionary entry is two or more of WORDS's frequency grades below the commonest reading, when that one is A or B (*est* as edo, "eats", grade C, against sum, A). **Only between readings of one word class.** A noun never loses to a verb or participle by frequency: before 2026-10-02 it did, and every *peccata* went to `pecco`, every *tribus* to `tres`, *praeceptum* to `praecipio`. Nor does it drop the form's own lemma for six forms read in their verses (`OWN_LEMMA_STANDS`: *capitium* is not `caput`, *praecipito* is not `praecipio`, *genus* not `genu`, *merces* not `merx`, *sacerdotium* not `sacerdos`, *mentum* not `mens`); they stay null. That is a list on purpose: as a general rule it un-resolved 1,412 words, mostly right ones (*populus*, *omne*, *medium*, *pane*). | WORDS's own grade on the entry. **This is a frequency prior, not proof**; it is the rule most likely to be wrong in a given verse. | 21,845 |
+| `rare-inflection` (prior) | a reading by an ending WORDS grades less than common (C or rarer in INFLECTS.LAT: *dominum* as domina's genitive plural) | WORDS's own grade on the ending | 2,952 |
+| `rare-entry` (prior) | a reading whose dictionary entry is two or more of WORDS's frequency grades below the commonest reading, when that one is A or B (*est* as edo, "eats", grade C, against sum, A). **Only between readings of one word class.** A noun never loses to a verb or participle by frequency: before 2026-10-02 it did, and every *peccata* went to `pecco`, every *tribus* to `tres`, *praeceptum* to `praecipio`. Nor does it drop the form's own lemma for six forms read in their verses (`OWN_LEMMA_STANDS`: *capitium* is not `caput`, *praecipito* is not `praecipio`, *genus* not `genu`, *merces* not `merx`, *sacerdotium* not `sacerdos`, *mentum* not `mens`); they stay null. That is a list on purpose: as a general rule it un-resolved 1,412 words, mostly right ones (*populus*, *omne*, *medium*, *pane*). | WORDS's own grade on the entry. **This is a frequency prior, not proof**; it is the rule most likely to be wrong in a given verse. | 20,869 |
 | `prep-object` | the non-preposition readings, when the next word in the clause can be in the case the preposition takes (*cum eo*, *a facie*) | a preposition needs an object | 6,861 |
 | `no-prep-object` | the preposition reading, when the clause ends after it (*a, a, a*) or the next word is lower-case, read, and has no case and no adverb reading (*cum autem*) | there is nothing for it to govern | 1,878 |
 | `si-quis` | every reading but the indefinite `quis2`, after *si*, *ne*, *num* | the grammar-book rule: after si, nisi, num, ne, ali- drops away. *nisi* is left out because *nisi qui* is usually relative (Isa 42:19). | 192 |
@@ -195,10 +198,10 @@ The result over all 612,029 words, in `manifest.counts`:
 
 | outcome | tokens | share |
 |---|---|---|
-| sure (the form alone decides) | 422,339 | 69.0% |
-| resolved, a grammar rule taking part | 21,890 | 3.6% |
-| resolved by priors alone | 27,596 | 4.5% |
-| **unresolved, null** | 120,395 | **19.7%** (from 27.8%) |
+| sure (the form alone decides) | 425,566 | 69.5% |
+| resolved, a grammar rule taking part | 22,006 | 3.6% |
+| resolved by priors alone | 26,733 | 4.4% |
+| **unresolved, null** | 117,915 | **19.3%** (from 27.8%) |
 | no L&S entry / unread | 19,809 | 3.2% |
 
 What stays null is real ambiguity that no rule here can see:
@@ -257,7 +260,7 @@ follows θεός (G2316) but is G5547's word.
 | G3056 λόγος | `verbum` 198, `sermo` 103 |
 | G3870 παρακαλέω | `rogo`, `exhortor`, `obsecro`, `deprecor` |
 
-3,947 of the 14,047 numbers the KJV tags get at least one word. 1,258 of them
+3,963 of the 14,047 numbers the KJV tags get at least one word. 1,267 of them
 are marked `evidence: "thin"`, because the number stands in fewer than 10 KJV
 verses. With so few verses, one passage's other words can score as high as the
 right one: H4, Aramaic "fruit", comes out as `ramus` and `subter`.

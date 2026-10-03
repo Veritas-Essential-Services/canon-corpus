@@ -4,8 +4,9 @@
   "kjv": {
    "dir": "build/strongs/kjv-tags.jsonl (local)",
    "note": "tagged KJV words, not original-language tokens",
-   "numbers_occurring": 14057,
-   "tokens": 349308
+   "numbers_occurring": 14047,
+   "psalm_title_tokens_not_filed": 424,
+   "tokens": 348884
   },
   "nt": {
    "dir": "data/nt",
@@ -49,12 +50,12 @@
   "dir": "build/strongs/",
   "files": {
    "concordance-kjv.jsonl": {
-    "rows": 14057,
-    "sha256": "d998545fc8f22b42648c1c794aff90cf99cd958f1129dfa9e8739e35b6ab4d6d"
+    "rows": 14047,
+    "sha256": "9dd5c6e6d70b010ebd887e56713ef844fbeb8ff37abc208e714257bc0b84deec"
    },
    "concordance-view.jsonl": {
     "rows": 14197,
-    "sha256": "3339c4127345d0f4a13ef61f68583ebd9a953a55e5d491e052b5b7146a37c794"
+    "sha256": "050134fbf7bedcb82e7e3d7fd1b9391ad09de79ea1117edd5b7962b2dc4dd3f9"
    },
    "kjv-renderings.jsonl": {
     "rows": 14057,
@@ -125,7 +126,7 @@
    "what": "Strong's Greek Dictionary of the New Testament (James Strong, 1890)"
   },
   "strongs-hebrew": {
-   "rights": "Dictionary text public domain (1890). The XML markup is CC BY 4.0 (OpenScriptures); only the PD text fields are carried here, with attribution.",
+   "rights": "Dictionary text public domain (1890). The XML markup is CC BY 4.0 (OpenScriptures). Carried here, with attribution: the PD text fields, and the markup's own pos, proper_name and lang (CC BY 4.0).",
    "sha256": "a628f4f89f8bdaf2483fd3faf1abc8653cc6717758dfc9f24beb7571d9bdd0c4",
    "transcription": "OpenScriptures HebrewLexicon, HebrewStrong.xml",
    "url": "https://github.com/openscriptures/HebrewLexicon",
@@ -262,7 +263,8 @@
    },
    "linked": 9164,
    "no_strongs": 847,
-   "numbers_covered": 8612
+   "numbers_covered": 8049,
+   "numbers_shared_only": 563
   },
   "lsj": {
    "beyond_1890": 3840,
@@ -274,7 +276,8 @@
    },
    "linked": 5709,
    "no_strongs": 0,
-   "numbers_covered": 5523
+   "numbers_covered": 5523,
+   "numbers_shared_only": 0
   },
   "tbesg": {
    "beyond_1890": 3841,
@@ -285,7 +288,8 @@
    },
    "linked": 5709,
    "no_strongs": 0,
-   "numbers_covered": 5523
+   "numbers_covered": 5523,
+   "numbers_shared_only": 0
   },
   "thayer": {
    "book": "thayer-entries",

@@ -233,19 +233,19 @@ The living truth for project state is the Obsidian vault:
   CrossWire's conf says GPL; Adam's call) and everything built from them
   (renderings, the kjv concordance, concordance-view.jsonl) build to
   build/strongs/ only, sha256 in manifest.local, until he rules; removed from
-  the branch history 2026-10-02. OSHB's CC BY tags for data/ot/ build to
+  the branch tip 2026-10-02 (still in its earlier commits: squash-merge). OSHB's CC BY tags for data/ot/ build to
   build/ only, never committed. Rules: pipeline/README-strongs.md
 - pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
   CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
   entry key, homographs numbered: malus1) → build/latin-key/ (gitignored;
   only data/lemmas/latin-key/manifest.json is committed, with each file's
   sha256. Entry keys and printed facts only, never definitions; whether even
-  that may be committed is Adam's call; removed from the branch history
-  2026-10-02). Whitaker lemmas link to L&S by spelling and
+  that may be committed is Adam's call; removed from the branch tip
+  2026-10-02, still in earlier commits: squash-merge). Whitaker lemmas link to L&S by spelling and
   class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
-  sure by form (69%), or resolved in its verse by a named context rule
-  (8.1%: 3.6% with a grammar rule, 4.5% by frequency priors alone, counted
-  apart; every rule id tagged), else null and listed `possible` (19.7%). A
+  sure by form (69.5%), or resolved in its verse by a named context rule
+  (8.0%: 3.6% with a grammar rule, 4.4% by frequency priors alone, counted
+  apart; every rule id tagged), else null and listed `possible` (19.3%). A
   prior never swaps a noun for a verb (peccata is not pecco). A verb never links to a noun-only entry
   (status clash: WORDS's vis "you want" is not L&S's vis "force"). Rules only remove readings (README s.4b).
   strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,

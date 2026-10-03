@@ -43,8 +43,10 @@ domain or GPL is still Adam's call (s.6):
 
 `manifest.local` records their sha256, row counts and the rights block
 (`redistribute_whole: false`); a rebuild with `--fetch`ed tags proves itself against
-it. On 2026-10-02 these files were also removed from the branch's history, so
-nothing derived from the tags has been published. The dictionaries themselves stay
+it. On 2026-10-02 these files were removed from the branch tip. They are still in
+the branch's earlier commits (and in #7's and #11's branches, which carry it), so
+they stay visible on GitHub until those branches are squash-merged and deleted,
+or rewritten; that is Adam's call (PR #10, decision 7). The dictionaries themselves stay
 in the gitignored `data/corpus/`.
 
 ## 2. The key, and the two citations
@@ -124,9 +126,14 @@ the uid column as provisional.
      `augment` field, keyed by address, passage uid and position, plus a `rights.json`.
      `build/` is gitignored, so it is never committed. Drop it by deleting the folder.
      It walks the OSHB files with `build_ot_corpus.read_book()`'s own word rules and
-     checks every surface, so it cannot drift from the tokens. 299,162 tokens get one
+     stops if any verse's word count differs; `tests/strongs_test.py` checks that
+     every surface matches the data/ot token it keys. 299,162 tokens get one
      key, 12 get two, and 5,950 get none: OSHB gives no number for those words.
 - **BDB, TBESG, LSJ:** `witnesses.jsonl`, built from the sources in `data/corpus/`.
+  BDB files several numbers under 1,204 of its entries (H6_H8: two forms of one
+  word; but also words it only mentions, like H430 under the entry for YHWH).
+  Only the first is the entry's own and counts as a witness (`bdb`); the rest are
+  listed apart as `bdb-shared`, never as witnesses.
 - **Thayer:** PR #7's `thayer-entries` book already links each entry to `strongs-greek`.
   It is built only on Adam's machine (the OCR lives there), so a cloud build carries
   Thayer's committed links forward untouched. A local build fills them in.
@@ -165,10 +172,16 @@ How it reads:
   entry) with the key of the Hebrew or Greek word it translates. Untagged words, such as
   the translators' italics and most articles, are not listed.
 - Psalm titles carry tags too (424 of them). The KJV numbers no title, so they sit beside
-  verse 1 as `title_tags`, never inside it.
+  verse 1 as `title_tags`, never inside it. The concordance does not file them
+  under verse 1 (the manifest counts them, `psalm_title_tokens_not_filed`); the
+  view lists them as `psalm_titles` (`Ps.3`) with their own count. *mizmor*, H4210,
+  stands only in titles.
 - The tagging is CrossWire's, not checked here against the Hebrew or Greek. Known
   quirk: H853, the untranslatable object marker, appears where the tagger attached it
   to the neighbouring English word.
+- Prepositions and particles are rarely tagged: H5921 (*al*) has 48 tags against
+  OSHB's 5,757 words, H413 38 against 5,505, H3605 24 against 5,412. Counts for
+  such words measure the tagger, not the Bible; the OSHB layer counts the Hebrew.
 
 ## 7. What is not claimed yet
 
@@ -182,8 +195,9 @@ How it reads:
 ## 8. Rights
 
 Strong's 1890 dictionaries are public domain. The Hebrew transcription's XML markup is
-CC BY 4.0 (OpenScriptures HebrewLexicon). Only the PD text fields are carried, with
-attribution in the manifest. The STEPBible lexicons (CC BY, `redistribute_whole: false`)
+CC BY 4.0 (OpenScriptures HebrewLexicon). Carried, with attribution in the manifest:
+the PD text fields, and three fields that come from the markup itself, `pos`,
+`proper_name` and `lang`, which are CC BY 4.0 (attribution is all CC BY asks). The STEPBible lexicons (CC BY, `redistribute_whole: false`)
 contribute **citations only**, never text, so nothing of theirs is redistributed. The
 KJV tags: s.6, local until Adam rules. OSHB's tags: s.5, never committed.
 
