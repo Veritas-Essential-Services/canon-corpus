@@ -877,6 +877,8 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | The Works of Tacitus, with Political Discourses, vol. 4 (1753) | Thomas Gordon | `tacitus-gordon-v4` | have-raw (IA `worksoftacituswi04taci`) |
 | The Works of Tacitus, with Political Discourses, vol. 5 (1753) | Thomas Gordon | `tacitus-gordon-v5` | have-raw (IA `worksoftacituswi05taci`) |
 | Tacitus, The Histories, vol. I: Books I-III, with an English translation (Loeb; London: Heinemann, New York: Putnam, MCMXXV; Latin facing) | Clifford H. Moore | `tacitus-moore-histories-v1` | have-raw (IA `tacitus-in-5-volumes.-v.-2-loeb-111`) |
+| The Annals of Tacitus, Books I-VI, an English translation (London: John Murray, 1904) | George Gilbert Ramsay | `tacitus-ramsay-annals-1904-v1` | have-raw (IA `cu31924071188753`) |
+| The Annals of Tacitus, Books XI-XVI, an English translation (London: John Murray, 1909) | George Gilbert Ramsay | `tacitus-ramsay-annals-1909-v2` | have-raw (IA `cu31924071188761`) |
 
 Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); 
 
@@ -944,6 +946,7 @@ Shelf: `pipeline/sallust_shelf.json`. Watson (Bohn). Not minted.
 | Sallust (Loeb, 1921) | J. C. Rolfe | `sallust-rolfe` | have-raw (IA `sallustsa00sall`) |
 | The Works of Sallust, translated into English, with political discourses, and Cicero's four orations against Catiline (London: R. Ware, 1744) | Thomas Gordon | `sallust-gordon-1744` | have-raw (IA `worksofsallusttr00sall`) |
 | Sallust, translated by W. Rose, with improvements and notes (Valpy's Family Classical Library, 1830) | William Rose (revised) | `sallust-rose-1830` | have-raw (IA `sallusttrbywros00crisgoog`) |
+| The Catiline and Jugurtha of Sallust translated into English (Macmillan, 1882) | Alfred W. Pollard | `sallust-pollard-1882` | have-raw (IA `catilinejugurtha00sallrich`) |
 
 
 ## Pliny the Elder and the Younger
@@ -1761,6 +1764,7 @@ Shelf: `pipeline/martial_shelf.json`. Bohn prose translation, 1897 printing (IA,
 | Martial, Epigrams, vol. 1: Spectacles, Books I-VII (Loeb, 1919) | Walter C. A. Ker | `martial-ker-v1` | have-raw (IA `martialepigrams01martiala`) |
 | Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920) | Walter C. A. Ker | `martial-ker-v2` | have-raw (IA `martialepigrams02martiala`) |
 | The Epigrams of Martial, translated into English prose, each accompanied by one or more verse translations from the works of English poets (Bohn's Classical Library; George Bell, 1877) | unnamed (Bohn prose), with verse versions by various hands | `martial-bohn-1877` | have-raw (IA `epigramsmartial01bohngoog`) |
+| A Roman Wit: epigrams of Martial rendered into English (Boston and New York, copyright 1911) | Paul Nixon | `martial-nixon-roman-wit-1911` | have-raw (IA `romanwitepigrams00mart`) |
 
 ## Statius
 
