@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:57 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:00 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -109,6 +109,14 @@ Round 5 was nearly done by 20:15 CDT. Lane A carries on with the Puritans of Nic
 | Patrick Fairbairn | fairbairn_shelf.json | 0 (none exists) | 9 (Typology 1864 ×2, Jonah 1849, Hermeneutical Manual 1858, Prophecy 1866, Revelation of Law 1869, Pastoral Epistles 1874, Pastoral Theology 1875, Ezekiel 1876) | none | his translations of Hengstenberg, Dorner, Lisco and Steiger (other men's books); the Imperial Bible-Dictionary |
 | John Angell James | john-angell-james_shelf.json | 0 (none exists) | 16 (Works, ed. T. S. James, London: Hamilton, Adams from 1860; 16 of 17 vols) | Works vol. 15 (no scan with text) | none |
 | William Jay | william-jay_shelf.json | 0 (none exists) | 4 (Works, New York: Harper 1861, 3 vols; Autobiography 1855) | none | his memoir introductions to others' books; a 1821 pamphlet. Note: the Autobiography carries reminiscences by its editors as well as his own text |
+
+## Round 7: my picks, also for your veto
+
+Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottish covenanting divines, and the New England theologians after Edwards. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| William Bridge | william-bridge_shelf.json | 0 (none exists) | 5 (Works, London: Tegg 1845, complete) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
