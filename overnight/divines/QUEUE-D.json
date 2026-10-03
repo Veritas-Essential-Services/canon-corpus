@@ -961,8 +961,10 @@
     {
       "id": "jean-webster",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: jean-webster; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:58:57-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:58:57-05:00",
+      "finished": "2026-10-02T21:04:19-05:00",
+      "notes": "4/4 fetched (Gutenberg 157, 238, 21048, 21639), 5,620 units, 0 ~2 ids."
     },
     {
       "id": "gruelle",

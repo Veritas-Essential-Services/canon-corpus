@@ -1864,6 +1864,19 @@ Shelf: `pipeline/eleanor-porter_shelf.json` (2026-10-02; added at the coordinato
 | Pollyanna Grows Up | have | PG 6100, `eleanor-porter-pollyanna-grows-up` (2113 units) |
 | Just David | have | PG 440, `eleanor-porter-just-david` (1809 units) |
 
+## Jean Webster
+
+Shelf: `pipeline/jean-webster_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Daddy-Long-Legs and Dear Enemy, novels in letters, and the two Patty books. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Daddy-Long-Legs | have | PG 157, `jean-webster-daddy-long-legs` (1014 units) |
+| Dear Enemy | have | PG 238, `jean-webster-dear-enemy` (1610 units) |
+| Just Patty | have | PG 21048, `jean-webster-just-patty` (1716 units) |
+| When Patty Went to College | have | PG 21639, `jean-webster-when-patty-went-to-college` (1280 units) |
+| jean-webster-daddy-long-legs-40426 | excluded | PG 40426, a second transcription of the novel Daddy-Long-Legs (2012, PGDP). Not a copy of PG 157: paragraph-start containment measured 58% one way, 68% the other, so the two differ in paragraphing or text. Held once here (PG 157); if both are wanted, they are two witnesses of one work, never two books. |
+| jean-webster-daddy-long-legs-play-75857 | excluded | PG 75857 is a DIFFERENT work: Daddy Long-Legs, a comedy in four acts. PG's header says New York: Samuel French, 1914; the title page's copyright lines read 1912 (novel form), 1914 (Jean Webster) and 1922 (Samuel French), so this printing is 1922 or later and is public domain in the US. Not added this batch: it carries production notes after Act IV, and the acts would need their own heading rule. A candidate for Adam. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
