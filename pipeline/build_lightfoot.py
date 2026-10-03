@@ -145,10 +145,10 @@ HERMAS_HEAD = re.compile(r"^(?:Vision \d+|Revelation 5|Mandate \d+|Parables Whic
 HERMAS_GROUP = {"Herm.Vis", "Herm.Mand", "Herm.Sim"}
 
 RIGHTS = {
-    "license": "public domain (Lightfoot & Harmer, 1891; the file's DC.Rights reads "
-               "'Public Domain'); CCEL's head also carries the comment 'Copyright Christian "
-               "Classics Ethereal Library', its claim on the prepared file; no non-commercial "
-               "condition is stated in the file",
+    "license": "public-domain",
+    "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's "
+            "head also carries the comment 'Copyright Christian Classics Ethereal Library', "
+            "its claim on the prepared file; no non-commercial condition is stated in the file",
     "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), "
                    "from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, "
                    "The Apostolic Fathers (London: Macmillan, 1891)",

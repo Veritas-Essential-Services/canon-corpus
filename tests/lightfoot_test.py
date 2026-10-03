@@ -62,9 +62,10 @@ ents = {s: man.get(s, {}) for s in slugs}
 check("rights: PD, the file's own lines recorded (DC.Rights, CCEL's copyright comment, "
       "no non-commercial term), not served whole",
       all(e.get("rights", {}).get("redistribute_whole") is False
-          and "Public Domain" in e["rights"]["license"]
-          and "Copyright Christian Classics Ethereal Library" in e["rights"]["license"]
-          and "no non-commercial condition" in e["rights"]["license"]
+          and e["rights"]["license"] == "public-domain"
+          and "Public Domain" in e["rights"]["note"]
+          and "Copyright Christian Classics Ethereal Library" in e["rights"]["note"]
+          and "no non-commercial condition" in e["rights"]["note"]
           and e["rights"]["source_url"] == FS.LIGHTFOOT["url"] for e in ents.values()))
 check("every entry names the pinned file (sha256 = fetch_sources.LIGHTFOOT)",
       all(e.get("sha256") == FS.LIGHTFOOT["sha256"] for e in ents.values()))
