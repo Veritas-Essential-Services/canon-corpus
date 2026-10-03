@@ -79,5 +79,14 @@ u = convert("A\n\nTHE DEAD.\n\nOne.\n\nB\n\nTHE DEAD.\n\nTwo.",
 check("number_repeats counts within the parent only",
       [x["ref"] for x in u] == ["A / THE DEAD, par. 1", "B / THE DEAD, par. 1"], [x["ref"] for x in u])
 
+u = convert("THE DEAD.\n\nTHE BEAR.\n\nTHE DEAD.\n\nOne.\n\nTHE DEAD.\n\nTwo.",
+            [{"re": "THE [A-Z]+\\.$", "number_repeats": True}])
+check("number_repeats: a Contents with no start uses up no number",
+      [x["ref"] for x in u] == ["THE DEAD, par. 1", "THE DEAD (2), par. 1"], [x["ref"] for x in u])
+u = convert("CONTENTS\n\nTHE DEAD.\n\nTHE DEAD.\n\nTHE BEAR.\n\nTHE DEAD.\n\nOne.\n\nTHE DEAD.\n\nTwo.",
+            [{"re": "THE [A-Z]+\\.$", "number_repeats": True}], start="THE DEAD\\.$")
+check("number_repeats: a start that matches a Contents line numbers nothing too high",
+      [x["ref"] for x in u if x["ref"].startswith("THE")] == ["THE DEAD, par. 1", "THE DEAD (2), par. 1"], [x["ref"] for x in u])
+
 print(f"{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)
