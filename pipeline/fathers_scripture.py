@@ -215,7 +215,8 @@ def parse(label, family):
     # separator between entries ("Röm. 4, 17. — 8 Esth.", "29, 5 — 15 — 18"),
     # unless the number after it ends the entry ("Matth. 7, 3 — 5;": a
     # range). Both become a stop no number can be read across. "[17]" is a verse.
-    s = re.sub(r"(?<![\w\[])\d{1,3}\s?f{0,2}\]", " | ", label)
+    # ("Ps. 18, 6] cf.": a verse after "chapter," closing a lemma is a verse)
+    s = re.sub(r"(?<![\w\[])(?<!\d,\s)(?<!\d,)\d{1,3}\s?f{0,2}\]", " | ", label)
     s = re.sub(r"(?:^|\s)—(?!\s?\d{1,3}\s?(?:[.,;)]|$))", " | ", s)
     s = s.replace("—", "-").replace("–", "-").replace("‒", "-")
     refs = []
@@ -344,8 +345,10 @@ def _refs(book, kind, toks, lined=False):
         out.append((book, kind, ch, v, None, alt))
         i += 2
         # more verses of this chapter: "-32", ". 15", ", 41", "3-5. 27"
-        while i + 1 < n and toks[i][0] == "sep" and toks[i][1] in ("-", ".", ",", "et") and cont_at(i + 1) \
+        while i + 1 < n and toks[i][0] == "sep" and toks[i][1] in ("-", ".", ",", "et") \
+                and (cont_at(i + 1) or (toks[i][1] == "et" and num_at(i + 1))) \
                 and toks[i + 1][1].isdigit():
+            # ("2 et 3 Exod.": after "et" the number is a verse even with a book next)
             # ", 41, 5", ". 20, 2" or "et 3, 4": the number opens a new chapter of the same book
             if toks[i][1] in (",", ".", "et") and i + 3 < n and toks[i + 2][0] == "sep" and toks[i + 2][1] == "," \
                     and num_at(i + 3):

@@ -108,7 +108,10 @@ check("Latin 2 Esdras is Nehemiah", one("4 II Esdr. 8, 10", "lat")[0]["target"] 
 # --- round 7: what the reviewers found the reader inventing ----------------
 check("'N]' is the apparatus's line marker, never a verse",
       refs("9] Ps. 18, 6. 16] Io. 1,10. 17] I Tim. 1,15.", "lat") == ["Ps 18:6", "John 1:10", "1Tim 1:15"])
-check("... and '[17]' in brackets is still not taken for a marker", "Esth 4" in refs("8 Esth. 4, [17]", "grc")[0])
+check("... and '[17]' in brackets is still not taken for a marker: the reference stays, its chapter read",
+      refs("8 Esth. 4, [17]", "grc") == ["Esth 4"])
+check("... nor a verse closing a lemma: 'Ps. 18, 6] cf.' is Ps 18:6",
+      refs("Ps. 18, 6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. 18, 6 ] cf.", "lat") == ["Ps 18:6"])
 check("Sulpicius cites chapters: '5 Gen. 1. 9 Gen. 2.' is Gen 1 and line 9, not Gen 1:9",
       refs("5 Gen. 1. 9 Gen. 2. 18 Gen. 4.", "lat") == ["Gen 1", "Gen 2", "Gen 4"])
 check("... but a lined note that writes 'chapter, verse' keeps an OCR full stop's verse",
@@ -118,6 +121,8 @@ check("'28, 12 et 13' is two verses, not chapter 13",
 check("'et' may go back a verse; 'et 3, 4' opens a chapter",
       refs("8] Ps. 17, 14 et 8.", "lat") == ["Ps 17:14", "Ps 17:8"]
       and refs("1 Gen. 2, 3 et 3, 4", "lat") == ["Gen 2:3", "Gen 3:4"])
+check("'2 et 3 Exod.': after 'et' the number is a verse, not a chapter, even with a book next",
+      refs("Gen. 1, 2 et 3 Exod. 4, 5", "lat") == ["Gen 1:2", "Gen 1:3", "Exod 4:5"])
 check("GCS: a spaced em-dash between entries is no range",
       refs("2 vgl. Deut. 29, 5 — 15 — 18", "grc") == ["Deut 29:5"]
       and refs("6 Vgl. Röm. 4, 17. — 8 Esth. 4, 2", "grc") == ["Rom 4:17", "Esth 4:2"])
@@ -147,9 +152,12 @@ check("Swete's Isaiah 9 is the English chapter: Holl's 'Jes. 9, 6' is the KJV's 
       r["target"] == "kjv:Isa.9.6")
 r = F.resolve(F.parse("Jerem. 32, 1. 2", "grc")[0], "grc", ctx_, lambda b: ("lxx", False))
 check("Swete's Jer 32:1 is the cup, the KJV's 25:15", r["target"] == "kjv:Jer.25.15")
+r = F.resolve(F.parse("Ps. 112, 7-9", "grc")[0], "grc", ctx_, lambda b: ("lxx", False))
+check("a range's end is read in its start's numbering: LXX Ps 112:7-9 is the KJV's 113:7-9",
+      r["target"] == "kjv:Ps.113.7" and r.get("through") == "kjv:Ps.113.9")
 r = F.resolve(F.parse("Ps. 112, 7-10", "grc")[0], "grc", ctx_, lambda b: ("lxx", False))
-check("a range's end is read in its start's numbering: LXX Ps 112:7-10 is the KJV's 113:7-9, never back to 112",
-      r["target"] == "kjv:Ps.113.7" and r.get("through", "kjv:Ps.113.9").startswith("kjv:Ps.113."))
+check("a range end the start's numbering lacks (LXX Ps 112:10) is dropped, never read back to 112",
+      r["target"] == "kjv:Ps.113.7" and "through" not in r)
 
 # --- each edition's numbering (fathers_numbering.py) ------------------------
 import fathers_numbering as N  # noqa: E402
@@ -215,11 +223,12 @@ check("one vote against a near-even pool is not overruled by it: the pool's numb
 nobody = N.scheme_for({"source": {"edition": {"editor": "Nobody Listed"}}}, "grc", m)
 check("an editor with no row reads as the pool, with the pool's undecided rivals, like a listed one with no votes",
       nobody("Jer") == m[1][("grc", "Jer")])
-check("shares() runs to a fixed point, not a fixed number of rounds",
-      N.shares(C({"existence:vulgate": 900, "existence:vulgate+hebrew": 60, "existence:hebrew": 2,
-                  "existence:english": 5}), "lat")
-      == N.shares(C({"existence:vulgate": 900, "existence:vulgate+hebrew": 60, "existence:hebrew": 2,
-                     "existence:english": 5}), "lat", tol=1e-15, rounds=10 ** 6))
+# the Latin "rest" pool as it stood: 200 rounds stopped at vulgate 0.9421, the fixed point is 0.9422
+V8 = C({"existence:hebrew": 5, "existence:hebrew+english": 5, "existence:vulgate": 71,
+        "existence:vulgate+english": 104, "existence:vulgate+hebrew": 11})
+check("shares() runs to a fixed point, not a fixed number of rounds: 200 rounds is not there yet",
+      N.shares(V8, "lat") == N.shares(V8, "lat", tol=1e-15, rounds=10 ** 6)
+      and N.shares(V8, "lat") != N.shares(V8, "lat", tol=0, rounds=200))
 heikel = N.scheme_for({"source": {"edition": {"editor": "Ivar A. Heikel"}}}, "grc", m)
 r = F.resolve(F.parse("Psal. 7, 16ff.", "grc")[0], "grc", ctx, heikel)
 check("... so his Ps 7:16 names both verses and says the numbering is undecided",
