@@ -400,3 +400,9 @@
 ## 2026-10-03 02:30 CDT — Aeschylus: Agamemnons
 - Aeschylus: Agamemnon by J. S. Harford (1831, translator unchecked), H. H. Milman (1865, with the Bacchae), W. R. Paton (1907), Locke Ellis (1920)
 - Not taken: Trevelyan's Oresteia (Greek facing, OCR 0.51) and Greek-facing school editions
+
+## 2026-10-03 02:35 CDT — Reviewer cycle 9
+- Distinguishing name forms on seven shelves (Maximus, Xenophon, Apollonius, Sallust, Hermes); all items re-pass
+- McCrindle label kept at 1893 on the title page's evidence; IA's 1896 noted
+- Virgil Pitt vol. III: title_weak explained (Æneid ligature), title page recorded
+- Plutarch: stale Holland exclusion removed

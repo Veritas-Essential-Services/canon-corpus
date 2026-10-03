@@ -668,6 +668,14 @@
    "started": "2026-10-03T02:27:53-05:00",
    "finished": "2026-10-03T02:30:20-05:00",
    "notes": "Harford 1831 (translator from the catalogue: title page did not OCR), Milman 1865 (with his Bacchae; cross-referenced from the euripides shelf), Paton 1907, Locke Ellis 1920 (identity checked from the title page: AESCHYLVS in Roman capitals). Greek-facing school editions and Trevelyan's 1920 Oresteia (OCR 0.51) not taken. A single-play sweep of Sophocles found only Greek school editions."
+  },
+  {
+   "id": "review-cycle-9",
+   "status": "done",
+   "scope": "Reviewer cycle 9 fixes",
+   "started": "2026-10-03T02:30:20-05:00",
+   "finished": "2026-10-03T02:35:19-05:00",
+   "notes": "1) Name collisions: maximus-tyrius ['maximus tyrius','tyrius']; valerius-maximus ['valerius maximus','valerius']; greek-romances drops bare xenophon, Xenophon of Ephesus row checks ['abrocomas','anthia']; apollonius ['apollonius rhodius','rhodius','apollonius of rhodes']; archimedes Perga row ['apollonius of perga','perga']; pythagoreans Sallustius row ['sallust on the gods','demophilus']; hermetica ['trismegistus','hermes trismegistus']. All items re-recorded, all pass, no shared forms left. 2) Arrian: label kept at 1893; the scanned title page reads MDCCCXCIII and its advertisements stop at 1892; IA's 1896 is the catalogue's. Noted in _about. 3) virgil-pitt-warton-1763-v3 title_weak is the Æ ligature (OCR '/ENEID'); title page read and recorded under _identity_checked; the flag stays as computed. 4) Plutarch: the stale _excluded note on Holland's 1603 Morals removed (the parts are held, OCR 0.90-0.92)."
   }
  ]
 }
