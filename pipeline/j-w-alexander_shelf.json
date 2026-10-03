@@ -63,7 +63,11 @@
    "ia_rights": "ok: published 1869",
    "ia_date": "1869",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 on review (the IA id is in the modern '0000' style): New York, Charles Scribner & Co., 1869, with an 1860 copyright line on the verso. A period printing, not a modern reprint."
   }
+ },
+ "_rights_checked": {
+  "jwalexander-thoughts-preaching-1869": "Title page read 2026-10-03 on review (the IA id is in the modern '0000' style): New York, Charles Scribner & Co., 1869, with an 1860 copyright line on the verso. A period printing, not a modern reprint."
  }
 }

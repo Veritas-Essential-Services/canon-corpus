@@ -108,7 +108,11 @@
    "ia_rights": "ok: published 1875",
    "ia_date": "1875-01-01",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 on review (the IA id is in the modern '0000' style, so the catalogue date alone was not enough): Edinburgh, Adam and Charles Black, imprint year OCR'd as 'U8 75', i.e. 1875, with a period publisher's list of Candlish's works before it. A period printing, not a modern reprint."
   }
+ },
+ "_rights_checked": {
+  "candlish-ephesians-1875": "Title page read 2026-10-03 on review (the IA id is in the modern '0000' style, so the catalogue date alone was not enough): Edinburgh, Adam and Charles Black, imprint year OCR'd as 'U8 75', i.e. 1875, with a period publisher's list of Candlish's works before it. A period printing, not a modern reprint."
  }
 }

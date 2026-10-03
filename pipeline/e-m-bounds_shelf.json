@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain E. M. Bounds (1835-1913, Methodist minister and Confederate chaplain) for the Word Hoard: his seven books on prayer (Power Through Prayer, Purpose in Prayer, The Necessity of Prayer, The Essentials of Prayer, The Reality of Prayer, The Weapon of Prayer, Prayer and Praying Men), clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain E. M. Bounds (1835-1913, Methodist minister and Confederate chaplain) for the Word Hoard: six of his books on prayer (Power Through Prayer, Purpose in Prayer, The Necessity of Prayer, The Essentials of Prayer, The Reality of Prayer, Prayer and Praying Men); The Weapon of Prayer is pending a date and renewal check, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
  "_ccel_author": "b/bounds",
  "_name_words": [
   "bounds",
@@ -38,11 +38,6 @@
   "bounds-reality": [
    "reality",
    "The Reality of Prayer",
-   ""
-  ],
-  "bounds-weapon": [
-   "weapon",
-   "The Weapon of Prayer",
    ""
   ],
   "bounds-prayingmen": [
@@ -116,18 +111,6 @@
    "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
-  "bounds-weapon": {
-   "kind": "ccel",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "e. m. bounds",
-   "identity": "ok",
-   "ccel_dc_rights": "Public Domain",
-   "ccel_copyright_comment": true,
-   "ccel_print_source": null,
-   "ccel_print_source_check": false,
-   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
-  },
   "bounds-prayingmen": {
    "kind": "ccel",
    "checked": "2026-10-03",
@@ -140,5 +123,8 @@
    "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   }
+ },
+ "_pending": {
+  "bounds-weapon": "The Weapon of Prayer (CCEL b/bounds/weapon): held back 2026-10-03 on review. It was published after Bounds' death, edited by H. W. Hodge (the CCEL text names Hodge; it states no date). The reviewer reports first publication in 1931; not verified here. A 1931 US publication is public domain only if its copyright was never renewed, and that has not been checked. Not fetched until the first-publication date and renewal status are read."
  }
 }

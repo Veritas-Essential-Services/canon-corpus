@@ -545,3 +545,10 @@
 
 ## 2026-10-03 05:42 CDT — james-denney done
 - `pipeline/james-denney_shelf.json`: 3 CCEL texts, print sources Hodder 1894 and a 1911 printing. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:45 CDT — review cycle 10 follow-ups
+- Bounds' Weapon of Prayer moved to `_pending` (posthumous, date and renewal unverified).
+- Title pages read for candlish-ephesians-1875 (A. & C. Black, 1875) and jwalexander-thoughts-preaching-1869 (Scribner, 1869): period printings; recorded in `_rights_checked`.
+- Lightfoot Philippians note corrected: the 1873 third edition (stpaulsepistleto00lighuoft) carries 55,039 Greek characters.
+- DIGEST: Finney 1944 and Torrey 1974 printings, Bounds hold, round 12 veto points and the PR #14 clash added under Decisions.
+- The four PR #14 shelves are held unchanged.
