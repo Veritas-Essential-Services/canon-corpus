@@ -906,25 +906,14 @@ PERSEUS = {
         "Plutarch, Otho — B. Perrin 1926 (PD); urn ...tlg0007.tlg066.perseus-eng2"),
     # More Greek historians and a geographer, 2026-10-02. Rights line read
     # per file; all PD everywhere, long dead translators: Shuckburgh (1889,
-    # d. 1906), Whiston (1737; this printing 1856, d. 1752), Hamilton &
+    # d. 1906), Hamilton &
     # Falconer (Bohn 1854-57). Strabo is eng4, the complete Bohn version;
     # eng3 (H. L. Jones, Loeb) covers only books 6-14. NOT taken: Pausanias
-    # (W. H. S. Jones d. 1963, not yet PD in the UK).
+    # (W. H. S. Jones d. 1963, not yet PD in the UK). Josephus (Whiston) is
+    # PR #8's build_josephus.py, aligned to Niese: not here, one owner per slug.
     "polybius-histories-shuckburgh": ("canonical-greekLit",
         "tlg0543/tlg001/tlg0543.tlg001.perseus-eng2.xml",
         "Polybius, Histories — E. S. Shuckburgh 1889 (PD); urn ...tlg0543.tlg001.perseus-eng2"),
-    "josephus-antiquities-whiston": ("canonical-greekLit",
-        "tlg0526/tlg001/tlg0526.tlg001.perseus-eng2.xml",
-        "Josephus, Jewish Antiquities — William Whiston (PD); urn ...tlg0526.tlg001.perseus-eng2"),
-    "josephus-life-whiston": ("canonical-greekLit",
-        "tlg0526/tlg002/tlg0526.tlg002.perseus-eng2.xml",
-        "Josephus, Life — William Whiston (PD); urn ...tlg0526.tlg002.perseus-eng2"),
-    "josephus-against-apion-whiston": ("canonical-greekLit",
-        "tlg0526/tlg003/tlg0526.tlg003.perseus-eng2.xml",
-        "Josephus, Against Apion — William Whiston (PD); urn ...tlg0526.tlg003.perseus-eng2"),
-    "josephus-jewish-war-whiston": ("canonical-greekLit",
-        "tlg0526/tlg004/tlg0526.tlg004.perseus-eng2.xml",
-        "Josephus, The Jewish War — William Whiston (PD); urn ...tlg0526.tlg004.perseus-eng2"),
     "strabo-geography-hamilton": ("canonical-greekLit",
         "tlg0099/tlg001/tlg0099.tlg001.perseus-eng4.xml",
         "Strabo, Geography — H. C. Hamilton & W. Falconer 1854-57 (PD); urn ...tlg0099.tlg001.perseus-eng4"),

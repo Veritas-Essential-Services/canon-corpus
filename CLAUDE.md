@@ -169,10 +169,10 @@ The living truth for project state is the Obsidian vault:
 - Perseus PROSE (2026-10-02): Herodotus (Godley), Thucydides (Crawley),
   Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller), and
   Plutarch's Parallel Lives, all 66 pieces (Perrin), one book per Life;
-  Polybius (Shuckburgh), Josephus' four works (Whiston), Strabo (Hamilton &
-  Falconer). Where a unit is a RUN of numbered sections (Josephus: Whiston's
-  paragraphs, numbered by their first Niese section) the scheme says
-  "section (span)" -- measured from the numbering, not assumed.
+  Polybius (Shuckburgh), Strabo (Hamilton & Falconer). Where a unit is a
+  RUN of numbered sections the scheme says "section (span)" -- measured from
+  the numbering, not assumed. (Josephus in Whiston is PR #8's
+  build_josephus.py, aligned to Niese: one owner per slug.)
   Also Apollodorus (Frazer), Diogenes Laertius (Hicks), Epictetus
   (Higginson), Aeschines' three speeches (C. D. Adams).
   Latin, from canonical-latinLit: Caesar's Gallic War (McDevitte & Bohn)
