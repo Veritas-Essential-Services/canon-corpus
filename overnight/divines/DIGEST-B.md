@@ -143,3 +143,4 @@
 - 06:26 Horace and Virgil gap-fill (14 items); nothing needs a decision.
 - 06:30 Lucretius and Roman comedy gap-fill (7 items); nothing needs a decision.
 - 06:33 The Greek-facing Loebs (Paton's Greek Anthology, Edmonds's Lyra Graeca, Mair's Callimachus and Oppian) score 0.53-0.74 on the 0.78 OCR bar, mostly because their Greek pages count as unclean words. Decide whether to measure only the English pages for these.
+- 06:39 Juvenal, Celsus and Longinus gap-fill (9 items) and a name-check hardening pass; nothing needs a decision.

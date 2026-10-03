@@ -3180,6 +3180,9 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | The Satires of Juvenal, translated and illustrated (London: Payne and Mackinlay, 1807) | Francis Hodgson | `juvenal-hodgson-1807` | have-raw (IA `b28269743`) |
 | The Satires of Persius, with a translation of the Epodes of Horace by the same (London: Chas. Reynell, 1841) | Charlton Byam Wollaston | `persius-wollaston-1841` | have-raw (IA `satirespersius00wollgoog`) |
 | Thirteen Satires of Juvenal translated into English, new and revised edition (Macmillan, 1902) | Alexander Leeper | `juvenal-leeper-1902` | have-raw (IA `cu31924009519681`) |
+| A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
+| Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
+| The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
 
 
 ## Plautus and Terence
@@ -3983,6 +3986,8 @@ Shelf: `pipeline/celsus_shelf.json`. Greive, 1814 edition (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Of Medicine, in Eight Books | James Greive | `celsus-greive` | have (PG 64207) |
+| A Translation of the Eight Books of Aul. Corn. Celsus on Medicine (London: printed by A. J. Valpy, 1831) | G. F. Collier | `celsus-collier-1831` | have-raw (IA `atranslationeig00celsgoog`) |
+| Aur. Cor. Celsus on Medicine, in eight books, Latin and English, translated from L. Targa's edition, vol. I (London: E. Cox, MDCCCXXXI) | Alexander Lee | `celsus-lee-1831-v1` | have-raw (IA `aurcorcelsusonm00rodegoog`) |
 
 ## Cato and Varro
 
@@ -4053,6 +4058,10 @@ Shelf: `pipeline/longinus_shelf.json`. Havell (1890), William Smith (1739; 1752 
 | On the Sublime (1890) | H. L. Havell | `longinus-havell-sublime` | have (PG 17957) |
 | Dionysius Longinus on the Sublime, translated from the Greek, with notes and observations (1752 printing) | William Smith | `longinus-smith-sublime` | have-raw (IA `dionysiuslongin00smitgoog`) |
 | Longinus on the Sublime (Oxford, Clarendon Press, 1906) | A. O. Prickard | `longinus-prickard-sublime` | have-raw (IA `longinusonsublim0000aopr`) |
+| A Literal Translation of Longinus on the Sublime, by a Graduate of Trinity College, Dublin (1821) | anonymous (a Graduate of Trinity College, Dublin) | `longinus-dublin-graduate-1821` | have-raw (IA `literaltranslati00long`) |
+| Longinus on the Sublime in Writing, translated, with notes and three dissertations (London: Longman; Norwich: Bacon, 1836; the title page is anonymous, the dedication is signed William Tylney Spurdens) | William Tylney Spurdens | `longinus-spurdens-1836` | have-raw (IA `longinusonsubli00spurgoog`) |
+| Longinus on the Sublime, a new translation for English readers in general, by a Master of Arts of the University of Oxford (imprint lost in the OCR; IA gives 1841) | anonymous (a Master of Arts of Oxford) | `longinus-oxford-ma-1841` | have-raw (IA `longinusonsublim00long_0`) |
+| Longinus on the Sublime (Oxford: T. and G. Shrimpton; London: Whittaker, MDCCCLXVII) | Thomas R. R. Stebbing | `longinus-stebbing-1867` | have-raw (IA `longinusonsubli00longgoog`) |
 
 Pending (wishlist): Fyfe's Loeb (1927; Greek facing); the earlier English versions Smith's preface names (London, 1650s; Oxford, 1698), not located.
 

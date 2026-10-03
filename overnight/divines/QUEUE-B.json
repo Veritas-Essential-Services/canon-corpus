@@ -820,6 +820,14 @@
    "started": "2026-10-03T06:30:42-05:00",
    "finished": "2026-10-03T06:33:47-05:00",
    "notes": "Fawkes's Anacreon, Sappho, Bion, Moschus and Musaeus (Newbery; IA 1760; cross-referenced from theocritus and late-greek-poets), Girdlestone 1804, T. J. Arnold (undated; IA 1869). Refused on OCR: the 1735 Works of Anacreon (0.73), Bullen's 1893 edition of Stanley (0.55). Still pending, untouched: the Greek-facing Loebs (Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus and Oppian), which score 0.53-0.74 overall because the Greek pages count as unclean words; the whole-text bar cannot tell a Greek page from bad OCR. Not on IA as text: O'Hara's Sappho 1910, Frere's Theognis 1842."
+  },
+  {
+   "id": "gapfill-6",
+   "status": "done",
+   "scope": "Gap-fill: Juvenal and Persius, Celsus, Longinus, name-check hardening",
+   "started": "2026-10-03T06:33:47-05:00",
+   "finished": "2026-10-03T06:39:10-05:00",
+   "notes": "Juvenal: Edward Owen 1786 (2nd ed.), William Smart 1829, W. Wallace 1848. Celsus: G. F. Collier 1831, Alexander Lee vol. I 1831 (Underwood 1830 refused at 0.69-0.70). Longinus: the Dublin graduate's literal translation 1821 (the 1832 New York reprint skipped as the same text), Spurdens 1836, the Oxford M.A.'s 1841, Stebbing 1867. Name checks: a translator check that passes on a common English word (king, smart, green) proves nothing, so C. W. King, William Smart and J. M. King now check on the full-name phrase the title page prints, and W. C. Green moved to _translator_unchecked. Refused or skipped: Brewster's Persius 1751 (0.76), Sheridan's Persius 1728 (0.77), Drummond's Persius (already held)."
   }
  ]
 }

@@ -503,3 +503,9 @@
 - greek-lyric: Fawkes (IA 1760), Girdlestone 1804, T. J. Arnold (IA 1869)
 - Refused on OCR: Anacreon 1735, Bullen's Stanley 1893
 - Greek-facing Loebs measured 0.53-0.74 on the whole-text bar; left pending
+
+## 2026-10-03 06:39 CDT — Juvenal, Celsus, Longinus, name checks
+- juvenal: Owen 1786, William Smart 1829, Wallace 1848
+- celsus: Collier 1831, Lee vol. I 1831
+- longinus: Dublin graduate 1821, Spurdens 1836, Oxford M.A. 1841, Stebbing 1867
+- Name checks: common-word surnames (king, smart, green) now checked as the printed full name or marked unchecked
