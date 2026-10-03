@@ -14,38 +14,7 @@
    "ed. and tr. Francis Adams"
   ]
  },
- "perseus": {
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise": [
-   "tlg0719.tlg001.perseus-eng2",
-   "On the Causes and Symptoms of Acute Diseases",
-   "Francis Adams",
-   "Translation published 1856 (Sydenham Society): US public domain. Perseus digitised the 1972 Milford House reprint of that edition; a reprint adds no new translation. Perseus source line: Aretaeus. The Extant Works of Aretaeus, The Cappadocian. Adams, Francis, translator. Boston, MA: Milford House, Inc., 1972 (reprint); London: Sydenham Society, 1856."
-  ],
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di": [
-   "tlg0719.tlg002.perseus-eng2",
-   "On the Causes and Symptoms of Chronic Diseases",
-   "Francis Adams",
-   "Translation published 1856 (Sydenham Society): US public domain. Perseus digitised the 1972 Milford House reprint of that edition; a reprint adds no new translation. Perseus source line: Aretaeus. The Extant Works of Aretaeus, The Cappadocian. Adams, Francis, translator. Boston, MA: Milford House, Inc., 1972 (reprint); London: Sydenham Society, 1856."
-  ],
-  "aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases": [
-   "tlg0719.tlg003.perseus-eng2",
-   "On the Therapeutics of Acute Diseases",
-   "Francis Adams",
-   "Translation published 1856 (Sydenham Society): US public domain. Perseus digitised the 1972 Milford House reprint of that edition; a reprint adds no new translation. Perseus source line: Aretaeus. The Extant Works of Aretaeus, The Cappadocian. Adams, Francis, translator. Boston, MA: Milford House, Inc., 1972 (reprint); London: Sydenham Society, 1856."
-  ],
-  "aretaeus-perseus-adams-on-the-cure-of-chronic-diseases": [
-   "tlg0719.tlg004.perseus-eng2",
-   "On the Cure of Chronic Diseases",
-   "Francis Adams",
-   "Translation published 1856 (Sydenham Society): US public domain. Perseus digitised the 1972 Milford House reprint of that edition; a reprint adds no new translation. Perseus source line: Aretaeus. The Extant Works of Aretaeus, The Cappadocian. Adams, Francis, translator. Boston, MA: Milford House, Inc., 1972 (reprint); London: Sydenham Society, 1856."
-  ]
- },
- "_rights_checked": {
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-  "aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-  "aretaeus-perseus-adams-on-the-cure-of-chronic-diseases": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text."
- },
+ "_rights_checked": {},
  "_surname": [
   "aretaeus",
   "aretæus",
@@ -53,11 +22,7 @@
   "aretzus"
  ],
  "_translators": {
-  "aretaeus-adams": "adams",
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise": "adams",
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di": "adams",
-  "aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases": "adams",
-  "aretaeus-perseus-adams-on-the-cure-of-chronic-diseases": "adams"
+  "aretaeus-adams": "adams"
  },
  "_checks": {
   "aretaeus-adams": {
@@ -74,70 +39,10 @@
    "ia_lending": null
   }
  },
- "_perseus_checks": {
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0719.tlg001.perseus-eng2",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "adams",
-   "author_seen": "aretaeus",
-   "source_years": [
-    1856,
-    1972
-   ],
-   "rights_override": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0719.tlg002.perseus-eng2",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "adams",
-   "author_seen": "aretaeus",
-   "source_years": [
-    1856,
-    1972
-   ],
-   "rights_override": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0719.tlg003.perseus-eng2",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "adams",
-   "author_seen": "aretaeus",
-   "source_years": [
-    1856,
-    1972
-   ],
-   "rights_override": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "aretaeus-perseus-adams-on-the-cure-of-chronic-diseases": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0719.tlg004.perseus-eng2",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "adams",
-   "author_seen": "aretaeus",
-   "source_years": [
-    1856,
-    1972
-   ],
-   "rights_override": "1972 is a reprint (Milford House, Boston) of the 1856 Sydenham Society edition; Adams's translation is the 1856 text.",
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  }
+ "_held": {
+  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg001.perseus-eng2 (On the Causes and Symptoms of Acute Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg002.perseus-eng2 (On the Causes and Symptoms of Chronic Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg003.perseus-eng2 (On the Therapeutics of Acute Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "aretaeus-perseus-adams-on-the-cure-of-chronic-diseases": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg004.perseus-eng2 (On the Cure of Chronic Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

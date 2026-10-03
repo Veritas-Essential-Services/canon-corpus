@@ -29,14 +29,6 @@
   "Casey, First Six Books (PG 21076)": "a school adaptation, not a translation; not taken",
   "Heath's 2nd ed. (1926)": "US PD by date; not yet located; pending"
  },
- "perseus": {
-  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": [
-   "tlg1799.tlg001.perseus-eng2",
-   "The Thirteen Books of Euclid's Elements",
-   "Thomas Little Heath",
-   "Translation published 1908: US public domain (in or before 1930). Perseus source line: Euclid. The Thirteen Books of Euclid's Elements, Vols. 1-3. Heath, Thomas Little, editor. Cambridge, UK: Cambridge University Press, 1908."
-  ]
- },
  "_surname": [
   "euclid",
   "euclides"
@@ -44,8 +36,7 @@
  "_translators": {
   "euclid-heath-v1": "heath",
   "euclid-heath-v2": "heath",
-  "euclid-heath-v3": "heath",
-  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": "heath"
+  "euclid-heath-v3": "heath"
  },
  "_checks": {
   "euclid-heath-v1": {
@@ -88,20 +79,7 @@
    "ia_lending": null
   }
  },
- "_perseus_checks": {
-  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg1799.tlg001.perseus-eng2",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "heath",
-   "author_seen": "euclid",
-   "source_years": [
-    1908
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  }
+ "_held": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": "same translation as euclid-heath-v1..v3 (IA): Heath's Thirteen Books on this shelf; Perseus TEI urn:cts:greekLit:tlg1799.tlg001.perseus-eng2 (The Thirteen Books of Euclid's Elements, tr. Thomas Little Heath) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

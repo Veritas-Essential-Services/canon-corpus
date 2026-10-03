@@ -31,15 +31,7 @@
  },
  "_excluded": {
   "pg6386-6399": "the same text split into 14 files",
-  "Philemon Holland (1606)": "PD; pending"
- },
- "perseus": {
-  "suetonius-perseus-rolfe-the-deified-julius": [
-   "phi1348.abo011.rolfe-eng1",
-   "The Deified Julius",
-   "John C. Rolfe",
-   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Suetonius. Rolfe, John C., translator. London: William Heineman; New York: The Macmillan Company, 1914."
-  ]
+  "Philemon Holland (1606)": "now held (IA, suetonius-holland-1606)"
  },
  "_surname": [
   "suetonius"
@@ -48,8 +40,7 @@
   "suetonius-thomson-forester": "thomson",
   "suetonius-rolfe-v1": "rolfe",
   "suetonius-rolfe-v2": "rolfe",
-  "suetonius-holland-1606": "holland",
-  "suetonius-perseus-rolfe-the-deified-julius": "rolfe"
+  "suetonius-holland-1606": "holland"
  },
  "_checks": {
   "suetonius-thomson-forester": {
@@ -104,20 +95,7 @@
    "ia_lending": null
   }
  },
- "_perseus_checks": {
-  "suetonius-perseus-rolfe-the-deified-julius": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:latinLit:phi1348.abo011.rolfe-eng1",
-   "repo": "PerseusDL/canonical-latinLit",
-   "translator_checked": "rolfe",
-   "author_seen": "suetonius",
-   "source_years": [
-    1914
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  }
+ "_held": {
+  "suetonius-perseus-rolfe-the-deified-julius": "same translation as suetonius-rolfe-v1/v2 (IA): Rolfe's Loeb on this shelf; Perseus TEI urn:cts:latinLit:phi1348.abo011.rolfe-eng1 (The Deified Julius, tr. John C. Rolfe) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

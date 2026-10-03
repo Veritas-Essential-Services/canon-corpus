@@ -38,11 +38,6 @@
    14417,
    "The Agamemnon of Aeschylus, translated into English rhyming verse",
    "tr. Gilbert Murray; US PD per Gutenberg"
-  ],
-  "aeschylus-sophocles-goldwin-smith-specimens": [
-   7073,
-   "Specimens of Greek Tragedy: Aeschylus and Sophocles",
-   "tr. Goldwin Smith"
   ]
  },
  "internet_archive": {
@@ -82,7 +77,6 @@
   "aeschylus-morshead-four": "morshead",
   "aeschylus-buckley-prometheus-seven": "buckley",
   "aeschylus-murray-agamemnon": "murray",
-  "aeschylus-sophocles-goldwin-smith-specimens": "smith",
   "aeschylus-potter-greek-tragic-theatre": "potter",
   "aeschylus-swanwick": "swanwick",
   "aeschylus-perseus-browning-agamemnon": "browning"
@@ -158,18 +152,6 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Gilbert Murray",
-   "translator_match": true
-  },
-  "aeschylus-sophocles-goldwin-smith-specimens": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "aeschylus",
-   "translator_claimed": "smith",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "Goldwin Smith",
    "translator_match": true
   },
   "aeschylus-potter-greek-tragic-theatre": {

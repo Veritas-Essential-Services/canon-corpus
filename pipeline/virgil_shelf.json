@@ -43,16 +43,6 @@
    61596,
    "The Aeneid of Virgil",
    "tr. Rolfe Humphries (verse, 1951); Gutenberg treats it as US public domain (not marked COPYRIGHTED); not PD outside the US"
-  ],
-  "virgil-aeneid-iv-henriad-translator-1804": [
-   20144,
-   "The Fourth Book of Virgil's Aeneid (with the Ninth Book of Voltaire's Henriad), translated into English verse (Paris, 1804)",
-   "tr. anonymous ('the Translator of the Henriad')"
-  ],
-  "virgil-lucretius-stebbing-passages": [
-   66399,
-   "Virgil and Lucretius: passages translated",
-   "tr. William Stebbing"
   ]
  },
  "internet_archive": {
@@ -155,7 +145,6 @@
   "virgil-morris-aeneid": "morris",
   "virgil-taylor-aeneid": "taylor",
   "virgil-humphries-aeneid": "humphries",
-  "virgil-lucretius-stebbing-passages": "stebbing",
   "virgil-rhoades-poems-1921": "rhoades",
   "virgil-conington-works-1880": "conington",
   "virgil-mackail-eclogues-georgics": "mackail",
@@ -168,8 +157,7 @@
   "virgil-stanyhurst-1836": "stanyhurst"
  },
  "_translator_unchecked": {
-  "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "virgil-aeneid-iv-henriad-translator-1804": "no single translator to check: anonymous ('the Translator of the Henriad')"
+  "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
  },
  "_checks": {
   "virgil-rhoades-eclogues": {
@@ -252,27 +240,6 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Rolfe Humphries",
-   "translator_match": true
-  },
-  "virgil-aeneid-iv-henriad-translator-1804": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "virgil",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
-  "virgil-lucretius-stebbing-passages": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "virgil",
-   "translator_claimed": "stebbing",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "W. Stebbing",
    "translator_match": true
   },
   "virgil-rhoades-poems-1921": {

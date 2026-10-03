@@ -64,26 +64,11 @@
    "terence00iijohn",
    "Terence, vol. 2 (Loeb, 1912)",
    "tr. John Sargeaunt"
-  ],
-  "plautus-thornton-1767-v1": [
-   "bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1",
-   "The Comedies of Plautus, translated into familiar blank verse (London, 1767), vol. 1",
-   "tr. Bonnell Thornton (some plays by Colman and Warner, as the volumes mark them)"
-  ],
-  "plautus-thornton-1767-v2": [
-   "bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_2",
-   "The Comedies of Plautus, translated into familiar blank verse (London, 1767), vol. 2",
-   "tr. Bonnell Thornton (some plays by Colman and Warner, as the volumes mark them)"
-  ],
-  "plautus-thornton-1767-v3": [
-   "bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_3",
-   "The Comedies of Plautus, translated into familiar blank verse (London, 1767), vol. 3",
-   "tr. Bonnell Thornton (some plays by Colman and Warner, as the volumes mark them)"
   ]
  },
  "_excluded": {
   "Paul Nixon, Loeb Plautus (1916-38)": "vols. 1 (PG) and 3 (IA) held; vol. 2 (1917) no readable scan yet; vols. 4-5 first printed 1932 and 1938, not PD",
-  "Bonnell Thornton's Plautus (1767-74)": "PD verse; pending"
+  "Bonnell Thornton's Plautus (1767-74)": "PD verse; the only scans (IA bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) are ECCO OCR at 0.65-0.70 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review; wanted only from a cleaner scan"
  },
  "_surname": [
   "plautus",
@@ -101,10 +86,7 @@
   "plautus-nixon-v2": "nixon",
   "plautus-nixon-v3": "nixon",
   "terence-sargeaunt-v1": "sargeaunt",
-  "terence-sargeaunt-v2": "sargeaunt",
-  "plautus-thornton-1767-v1": "thornton",
-  "plautus-thornton-1767-v2": "thornton",
-  "plautus-thornton-1767-v3": "thornton"
+  "terence-sargeaunt-v2": "sargeaunt"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
@@ -242,45 +224,6 @@
    "identity": "ok",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "plautus-thornton-1767-v1": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "plautus",
-   "translator_claimed": "thornton",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1767",
-   "ia_date": "1767",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "plautus-thornton-1767-v2": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "plautus",
-   "translator_claimed": "thornton",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1767",
-   "ia_date": "1767",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "plautus-thornton-1767-v3": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "plautus",
-   "translator_claimed": "thornton",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1767",
-   "ia_date": "1767",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

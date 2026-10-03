@@ -63,32 +63,6 @@
   "Elizabeth Carter, All the Works of Epictetus (1758)": "PD; pending (IA)",
   "W. A. Oldfather, Loeb (1925-28)": "PD in US by date, Greek facing; pending"
  },
- "perseus": {
-  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": [
-   "tlg0557.tlg001.perseus-eng3",
-   "Arrian's Discourses of Epictetus",
-   "George Long",
-   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
-  ],
-  "epictetus-perseus-long-fragments": [
-   "tlg0557.tlg003a.perseus-eng3",
-   "Fragments",
-   "George Long",
-   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
-  ],
-  "epictetus-perseus-higginson-fragments": [
-   "tlg0557.tlg003a.perseus-eng4",
-   "Fragments",
-   "Thomas Wentworth Higginson",
-   "Translation published 1890: US public domain (in or before 1930). Perseus source line: Epictetus. The Works of Epictetus, His Discourses, in Four Books, the Enchiridion, and Fragments. Higginson, Thomas Wentworth, translator. New York: Thomas Nelson and Sons. 1890."
-  ],
-  "epictetus-perseus-long-the-encheiridion-or-manual": [
-   "tlg0557.tlg002.perseus-eng3",
-   "The Encheiridion, or Manual",
-   "George Long",
-   "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
-  ]
- },
  "_surname": [
   "epictetus"
  ],
@@ -101,11 +75,7 @@
   "epictetus-matheson-1916-v2": "matheson",
   "epictetus-higginson-works-v1": "higginson",
   "epictetus-higginson-works-v2": "higginson",
-  "epictetus-carter": "carter",
-  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": "long",
-  "epictetus-perseus-long-fragments": "long",
-  "epictetus-perseus-higginson-fragments": "higginson",
-  "epictetus-perseus-long-the-encheiridion-or-manual": "long"
+  "epictetus-carter": "carter"
  },
  "_checks": {
   "epictetus-long-selection": {
@@ -223,62 +193,10 @@
    "ia_lending": null
   }
  },
- "_perseus_checks": {
-  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0557.tlg001.perseus-eng3",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "long",
-   "author_seen": "epictetus",
-   "source_years": [
-    1890
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "epictetus-perseus-long-fragments": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0557.tlg003a.perseus-eng3",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "long",
-   "author_seen": "epictetus",
-   "source_years": [
-    1890
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "epictetus-perseus-higginson-fragments": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "higginson",
-   "author_seen": "epictetus",
-   "source_years": [
-    1890
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "epictetus-perseus-long-the-encheiridion-or-manual": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0557.tlg002.perseus-eng3",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "long",
-   "author_seen": "epictetus",
-   "source_years": [
-    1890
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  }
+ "_held": {
+  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg001.perseus-eng3 (Arrian's Discourses of Epictetus, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "epictetus-perseus-long-fragments": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng3 (Fragments, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "epictetus-perseus-higginson-fragments": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4 (Fragments, tr. Thomas Wentworth Higginson) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "epictetus-perseus-long-the-encheiridion-or-manual": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg002.perseus-eng3 (The Encheiridion, or Manual, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

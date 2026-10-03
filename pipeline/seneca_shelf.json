@@ -87,22 +87,13 @@
    "bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614",
    "The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614)",
    "tr. Thomas Lodge"
-  ],
-  "seneca-tenne-tragedies-v1": [
-   "senecahistennetr0000thom",
-   "Seneca his Tenne Tragedies, translated into English, ed. Thomas Newton 1581 (Tudor Translations, 1927), vol. 1",
-   "tr. Jasper Heywood, John Studley, Alexander Neville, Thomas Nuce, Thomas Newton (collected 1581); intro. T. S. Eliot (1927)"
-  ],
-  "seneca-tenne-tragedies-v2": [
-   "senecahistennetr0002thom",
-   "Seneca his Tenne Tragedies, translated into English, ed. Thomas Newton 1581 (Tudor Translations, 1927), vol. 2",
-   "tr. Jasper Heywood, John Studley, Alexander Neville, Thomas Nuce, Thomas Newton (collected 1581); intro. T. S. Eliot (1927)"
   ]
  },
  "_excluded": {
   "pg59025": "an index page",
   "pg55705": "a different Seneca (a 20th-century outdoor writer): wrong author",
-  "Thomas Lodge, Works (1614)": "PD; pending (IA)"
+  "Thomas Lodge, Works (1614)": "now held (IA, seneca-lodge-workes-1614)",
+  "Seneca his Tenne Tragedies, ed. Thomas Newton 1581 (Tudor Translations, 1927)": "held back for Adam: the 1581 translations are public domain, but this 1927 printing (IA senecahistennetr0000thom, senecahistennetr0002thom) carries T. S. Eliot's introduction, US public domain by date (1927) but not life+70 (Eliot died 1965). Take the text without the introduction, or the 1581 or 1887 printings (IA senecahistennetr00sene, thetennetragedie00seneuoft), if Adam rules so"
  },
  "_surname": [
   "seneca"
@@ -123,9 +114,7 @@
   "seneca-basore-moral-essays-v1": "basore",
   "seneca-miller-loeb-tragedies-v1": "miller",
   "seneca-miller-loeb-tragedies-v2": "miller",
-  "seneca-lodge-workes-1614": "lodge",
-  "seneca-tenne-tragedies-v1": "heywood",
-  "seneca-tenne-tragedies-v2": "heywood"
+  "seneca-lodge-workes-1614": "lodge"
  },
  "_checks": {
   "seneca-stewart-benefits": {
@@ -323,32 +312,6 @@
    "identity": "ok",
    "ia_rights": "ok: published 1614",
    "ia_date": "1614",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "seneca-tenne-tragedies-v1": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "seneca",
-   "translator_claimed": "heywood",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1927",
-   "ia_date": "1927",
-   "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "seneca-tenne-tragedies-v2": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "seneca",
-   "translator_claimed": "heywood",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1927",
-   "ia_date": "1927",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

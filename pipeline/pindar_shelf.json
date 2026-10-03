@@ -20,11 +20,6 @@
    "The Odes of Pindar, literally translated into English prose (Bohn; 1872 printing)",
    "tr. Dawson W. Turner (prose) and Abraham Moore (verse)"
   ],
-  "pindar-cary-1833": [
-   "pindarinenglish00carygoog",
-   "Pindar in English Verse (London: Edward Moxon, 1833)",
-   "tr. Henry Francis Cary"
-  ],
   "pindar-west-1749": [
    "bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749",
    "Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749)",
@@ -54,9 +49,7 @@
   "pindar-west-1749": "west",
   "pindar-laurent-prose-1824": "catalogue"
  },
- "_translator_unchecked": {
-  "pindar-cary-1833": "translator on the row (Henry Francis Cary) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
- },
+ "_translator_unchecked": {},
  "_checks": {
   "pindar-myers": {
    "kind": "gutenberg",
@@ -80,17 +73,6 @@
    "identity": "ok",
    "ia_rights": "ok: published 1872",
    "ia_date": "1872",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "pindar-cary-1833": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "pindar",
-   "identity": "ok",
-   "ia_rights": "ok: published 1833",
-   "ia_date": "1833",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
@@ -120,5 +102,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_held": {
+  "pindar-cary-1833": "IA pindarinenglish00carygoog is already held on pipeline/cary_shelf.json (lane C) as cary-pindar; not refetched here"
  }
 }

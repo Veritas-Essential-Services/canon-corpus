@@ -350,18 +350,6 @@
    "Emily James Smith",
    "Translation published 1892: US public domain (in or before 1930). Perseus source line: Selections from Lucian. Smith, Emily James, translators. New York; Harper Brothers, 1892."
   ],
-  "lucian-perseus-fowler-the-cynic": [
-   "tlg0061.tlg006.perseus-eng1",
-   "The Cynic",
-   "Henry Watson Fowler and Francis George Fowler",
-   "Translation published 1905: US public domain (in or before 1930). Perseus source line: The Works of Lucian of Samosata, complete, with exceptions specified in the preface, Vol. 4. Fowler, H. W. and Fowler, F.G., translators. Oxford: Clarendon Press, 1905."
-  ],
-  "lucian-perseus-fowler-demosthenes-an-encomium": [
-   "tlg0061.tlg003.perseus-eng1",
-   "Demosthenes: an Encomium",
-   "Henry Watson Fowler and Francis George Fowler",
-   "Translation published 1905: US public domain (in or before 1930). Perseus source line: The Works of Lucian of Samosata; complete, with exceptions specified in the preface, Vol. 4. Fowler, H. W. and Fowler, F.G., translators. Oxford: Clarendon Press, 1905."
-  ],
   "lucian-perseus-smith-the-halcyon": [
    "tlg0061.tlg004.perseus-eng1",
    "The Halcyon",
@@ -431,8 +419,6 @@
   "lucian-perseus-harmon-philosophies-for-sale": "harmon",
   "lucian-perseus-smith-the-sale-of-lives": "smith",
   "lucian-perseus-smith-loukios-or-the-ass": "smith",
-  "lucian-perseus-fowler-the-cynic": "fowler",
-  "lucian-perseus-fowler-demosthenes-an-encomium": "fowler",
   "lucian-perseus-smith-the-halcyon": "smith"
  },
  "_checks": {
@@ -1216,34 +1202,6 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   },
-  "lucian-perseus-fowler-the-cynic": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0061.tlg006.perseus-eng1",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "fowler",
-   "author_seen": "lucian",
-   "source_years": [
-    1905
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "lucian-perseus-fowler-demosthenes-an-encomium": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:greekLit:tlg0061.tlg003.perseus-eng1",
-   "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "fowler",
-   "author_seen": "lucian",
-   "source_years": [
-    1905
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
   "lucian-perseus-smith-the-halcyon": {
    "checked": "2026-10-03",
    "identity": "ok",
@@ -1258,5 +1216,9 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
+ },
+ "_held": {
+  "lucian-perseus-fowler-the-cynic": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg006.perseus-eng1 (The Cynic, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "lucian-perseus-fowler-demosthenes-an-encomium": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg003.perseus-eng1 (Demosthenes: an Encomium, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

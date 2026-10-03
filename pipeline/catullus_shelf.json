@@ -27,29 +27,13 @@
  "_excluded": {
   "pg23720": "To Lesbia: catalogued, serves a 404 page"
  },
- "perseus": {
-  "catullus-perseus-burton-carmina": [
-   "phi0472.phi001.perseus-eng3",
-   "Carmina",
-   "Sir Richard Francis Burton",
-   "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Burton, Sir Richard Francis, translator. London, Printed for the Translators, 1894."
-  ],
-  "catullus-perseus-smithers-carmina": [
-   "phi0472.phi001.perseus-eng4",
-   "Carmina",
-   "Leonard C. Smithers",
-   "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Smithers, Leonard Charles, prose translator. London, Printed for the Translators, 1894. (Modernized by Perseus.)"
-  ]
- },
  "_surname": [
   "catullus"
  ],
  "_translators": {
   "catullus-ellis": "ellis",
   "catullus-burton-smithers": "burton",
-  "catullus-tibullus-pervigilium-loeb": "cornish",
-  "catullus-perseus-burton-carmina": "burton",
-  "catullus-perseus-smithers-carmina": "smithers"
+  "catullus-tibullus-pervigilium-loeb": "cornish"
  },
  "_checks": {
   "catullus-ellis": {
@@ -90,34 +74,8 @@
    "ia_lending": null
   }
  },
- "_perseus_checks": {
-  "catullus-perseus-burton-carmina": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:latinLit:phi0472.phi001.perseus-eng3",
-   "repo": "PerseusDL/canonical-latinLit",
-   "translator_checked": "burton",
-   "author_seen": "catullus",
-   "source_years": [
-    1894
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  },
-  "catullus-perseus-smithers-carmina": {
-   "checked": "2026-10-03",
-   "identity": "ok",
-   "urn": "urn:cts:latinLit:phi0472.phi001.perseus-eng4",
-   "repo": "PerseusDL/canonical-latinLit",
-   "translator_checked": "smithers",
-   "author_seen": "catullus",
-   "source_years": [
-    1894
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
-  }
+ "_held": {
+  "catullus-perseus-burton-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng3 (Carmina, tr. Sir Richard Francis Burton) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "catullus-perseus-smithers-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard C. Smithers) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

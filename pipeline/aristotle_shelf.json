@@ -1,5 +1,5 @@
 {
- "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg second witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Ellis's Politics, Chase's Ethics (translator identified by collation), Kenyon's Athenian Constitution, Cresswell's History of Animals and Edghill's Categories.",
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held).",
  "_name_words": [
   "aristotle",
   "works",
@@ -18,16 +18,6 @@
    "Aristotle on the Art of Poetry (Oxford, 1920), preface by Gilbert Murray",
    "tr. Ingram Bywater"
   ],
-  "aristotle-ellis-politics-pg": [
-   6762,
-   "Politics: A Treatise on Government",
-   "tr. William Ellis (1776)"
-  ],
-  "aristotle-chase-ethics-pg": [
-   8438,
-   "The Nicomachean Ethics of Aristotle (Everyman), introduction by J. A. Smith",
-   "tr. D. P. Chase; PG names no translator, identified by collating against the 1915 Everyman printing titled 'Translated by D. P. Chase' (IA nicomacheanethic00arisuoft): 167 of 200 sampled 8-word runs match"
-  ],
   "aristotle-kenyon-athenian-constitution-pg": [
    26095,
    "The Athenian Constitution",
@@ -37,11 +27,6 @@
    59058,
    "Aristotle's History of Animals, in ten books (Bohn, 1862)",
    "tr. Richard Cresswell"
-  ],
-  "aristotle-edghill-categories-pg": [
-   2412,
-   "The Categories (the Oxford translation, also in vol. I above)",
-   "tr. E. M. Edghill"
   ]
  },
  "internet_archive": {
@@ -111,11 +96,8 @@
  "_translators": {
   "aristotle-butcher-poetics-pg": "butcher",
   "aristotle-bywater-poetics-pg": "bywater",
-  "aristotle-ellis-politics-pg": "ellis",
-  "aristotle-chase-ethics-pg": "chase",
   "aristotle-kenyon-athenian-constitution-pg": "kenyon",
   "aristotle-cresswell-history-of-animals-pg": "cresswell",
-  "aristotle-edghill-categories-pg": "edghill",
   "aristotle-hammond-psychology": "hammond"
  },
  "_translator_unchecked": {
@@ -156,29 +138,6 @@
    "pg_translator": "Ingram Bywater",
    "translator_match": true
   },
-  "aristotle-ellis-politics-pg": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "aristotle",
-   "translator_claimed": "ellis",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "William Ellis",
-   "translator_match": true
-  },
-  "aristotle-chase-ethics-pg": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "aristotle",
-   "translator_claimed": "chase",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
   "aristotle-kenyon-athenian-constitution-pg": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
@@ -201,18 +160,6 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Richard Cresswell",
-   "translator_match": true
-  },
-  "aristotle-edghill-categories-pg": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "aristotle",
-   "translator_claimed": "edghill",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "E. M. Edghill",
    "translator_match": true
   },
   "aristotle-ross-v01": {
@@ -354,5 +301,10 @@
  },
  "_rights_checked": {
   "aristotle-ross-v02": "Title page read: 'First edition 1930; reprinted lithographically ... from sheets of the first edition 1947, 1953, 1962'. A photographic reprint carries the 1930 text unchanged; works published in 1930 entered the US public domain on 2026-01-01."
+ },
+ "_held": {
+  "aristotle-chase-ethics-pg": "PG 8438 is already held on pipeline/adler_shelf.json as aristotle-ethics (labelled 'tr. Chase', which the collation agrees with: 167 of 200 sampled 8-word runs match the 1915 Everyman 'Translated by D. P. Chase'); not refetched",
+  "aristotle-ellis-politics-pg": "PG 6762 is already held on pipeline/adler_shelf.json as aristotle-politics; not refetched. Its label there says 'tr. Jowett', but Gutenberg's header names William Ellis (and the text is Ellis's 1776 translation): the Adler label is wrong, flagged in DIGEST-B for Adam (lane B does not edit that file)",
+  "aristotle-edghill-categories-pg": "PG 2412 is Edghill's Categories, the same Oxford translation held in aristotle-ross-v01 (Works vol. I, 1928); not a second witness"
  }
 }

@@ -65,3 +65,10 @@
 - Raw OCR is unproofread: clean-word ratio 0.74-0.95 per volume (worst: Oxford Aristotle vol. VI 0.81, Jowett's Thucydides notes 0.79).
 - Two Gutenberg texts name no translator and were identified by collation: Rhoades's Eclogues (PG 230), Ridley's Lucan (PG 602).
 - Verse texts need the verse converter; tried divisions are recorded as `_convert_hints` in the Virgil and Ovid shelves.
+
+## Review fixes, 2026-10-02 21:10 CDT (for Adam)
+- **Duplicates now under `_held`, not fetched as second witnesses:** 111 Perseus TEI rows that repeat a translation already on the same shelf (Plutarch's Goodwin Moralia 77, Adams's Hippocrates 17 and Aretaeus 4, Brock's Galen, Burton and Smithers's Catullus, Heath's Euclid, Conington's Odes, Long and Higginson's Epictetus 4, the Fowlers' Lucian 2, Rolfe's Julius, Murray's Rhesus). 132 Perseus rows remain. Also held: Cary's Pindar (lane C's cary shelf), PG 6762 and 8438 (Adler shelf), Edghill's Categories (Oxford vol. I).
+- **Adler shelf label error, yours to fix:** `adler_shelf.json` labels PG 6762 (aristotle-politics) "tr. Jowett", but Gutenberg's header names William Ellis (his 1776 translation). Lane B does not edit that file.
+- **Held back on rights:** Seneca his Tenne Tragedies (Tudor Translations, 1927) carries T. S. Eliot's introduction: US public domain by date, but not life+70. Take the text without it, or the 1581 or 1887 printings?
+- **Withdrawn again:** Smart's 1756 Horace and Thornton's 1767 Plautus. The ECCO OCR is 0.65-0.76, and nothing new justified retaking them.
+- **Collated:** PG 14020 (anonymous literal Horace) matches Smart's prose as Buckley revised it (107 of 200 sampled 8-word runs), not the 1756 form. Both are kept; is one enough?
