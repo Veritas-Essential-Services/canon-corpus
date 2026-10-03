@@ -91,4 +91,5 @@
 - **Victorian scholars' versions (21:55-22:05):** Lonsdale and Lee's Globe Virgil and Horace, Davidson-Buckley Virgil, Slater's Silvae, Cranstoun's Catullus and Propertius, Jebb's prose Sophocles, and Way's verse Sophocles (Part I) and Aeschylus (all three parts). Way's Sophocles Part II (1914) is not on IA.
 - **Homer's Victorian translators (22:08):** Morris, Palmer, Worsley, Conington, Newman, and Way's Iliad and Odyssey: ten volumes, so the Homer shelf now spans Chapman to Murray.
 - **Satirists and comedy (22:13):** three more Juvenals (Madan, Badham, Hodgson), Hickie's and Mitchell's Aristophanes, Mair's Hesiod, Hallard's Theocritus, and Taylor's Pythagorean fragments.
-- **Horace, Catullus, Claudian (22:22):** three more Horaces (Martin, Bulwer-Lytton, Gladstone), Lamb's Catullus, and two Claudian translators (Strutt, Howard).
+- **Horace, Catullus, Claudian (00:41):** three more Horaces (Martin, Bulwer-Lytton, Gladstone), Lamb's Catullus, and two Claudian translators (Strutt, Howard).
+- **Two wishlist volumes found (00:47):** Bennett's Loeb Horace and Firth's second Pliny volume, both on Indian digital-library scans. Each was taken on stated evidence rather than a clean date, and the reasons are in the shelf for you to overrule: the Bennett is a later printing of the 1914 text, and the Firth scan prints no year.

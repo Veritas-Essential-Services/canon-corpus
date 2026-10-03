@@ -245,3 +245,9 @@
 - Added (raw IA, title pages read, OCR 0.84-0.89): Theodore Martin's Odes (Boston, 1866); Edward Bulwer-Lytton's Odes and Epodes (1869, Latin facing); Gladstone's Odes (preface 1894); George Lamb's Catullus vol. I (1821); Strutt's Claudian (1814); Howard's Translations from Claudian (1823).
 - Not taken: Dart's Tibullus (1720; OCR 0.69), Pott and Wright's Martial (no printed date in the scan), Wickham's prose Horace (title page missing from the OCR).
 - `fetch_shelf.py --verify --record` on the five shelves: 0 mismatched, 0 rights flags.
+
+## 2026-10-03 00:45 CDT — Hourly retry: two wishlist volumes found
+- Bennett's Loeb Odes and Epodes (DLI scan, OCR 0.86): a later impression of the 1914 text (later series editors on the half-title, no revision notice, bibliography ends 1912); taken with the reason in `_rights_checked`. Translator claim unchecked: the OCR reads 'C. E, BENNETT'.
+- Firth's Pliny, Second Series, Books VI-X (DLI scan, OCR 0.93): Walter Scott imprint, no printed date; companion of the First Series Gutenberg clears (PG 3234). Taken with the reason in `_rights_checked`; a printed date is still wanted.
+- Still missing: Greek Tragic Theatre vol. II, Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2.
+- The session stalled from about 22:25 to 00:40 CDT (tool calls refused while the safety check was rate-limited); nothing was lost.

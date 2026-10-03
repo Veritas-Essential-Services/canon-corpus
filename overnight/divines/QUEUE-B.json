@@ -228,7 +228,7 @@
    "status": "running",
    "scope": "archive.org answered 503 on 2026-10-02 for: plautuswithengli02plauuoft (Nixon Plautus vol 2, 1917), greektragictheat02pott / greektragicthea04wodhgoog (Greek Tragic Theatre 1809 vol 2, Francklin's Sophocles). Retry; if readable, identify by title page and add to roman-comedy / sophocles",
    "started": "2026-10-02T17:18:43-05:00",
-   "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly. 2026-10-02T19:42:16-05:00: retried. Greek Tragic Theatre vol. 2 still 503 (empty metadata). The DLI 'Pausanias Vol. I' scan (in.ernet.dli.2015.282571) has a text file under another name; it is Frazer's vol. VI (indices), mislabelled, so Frazer's translation volume is still not found. King's Tusculans: still only the 1945 revised printing. Hawkins's Claudian vol. 2 and Bennett's Loeb Horace: no new scans. 2026-10-02T20:58:45-05:00: retried; nothing recovered. 2026-10-02T21:30:12-05:00: retried. Greek Tragic Theatre: the unseen ids greektragicthea00wodhgoog and 03wodhgoog are vols. III and IV (Euripides, held), india.history.resource.90260 is vol. I; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Bennett's Horace, Firth's Pliny: no new scans."
+   "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly. 2026-10-02T19:42:16-05:00: retried. Greek Tragic Theatre vol. 2 still 503 (empty metadata). The DLI 'Pausanias Vol. I' scan (in.ernet.dli.2015.282571) has a text file under another name; it is Frazer's vol. VI (indices), mislabelled, so Frazer's translation volume is still not found. King's Tusculans: still only the 1945 revised printing. Hawkins's Claudian vol. 2 and Bennett's Loeb Horace: no new scans. 2026-10-02T20:58:45-05:00: retried; nothing recovered. 2026-10-02T21:30:12-05:00: retried. Greek Tragic Theatre: the unseen ids greektragicthea00wodhgoog and 03wodhgoog are vols. III and IV (Euripides, held), india.history.resource.90260 is vol. I; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Bennett's Horace, Firth's Pliny: no new scans. 2026-10-03T00:45:28-05:00: retried (late; the session stalled from about 22:25 to 00:40). Found under DLI ids with non-standard file names: Bennett's Loeb Horace Odes and Epodes (in.ernet.dli.2015.98705) and Firth's Pliny Second Series (in.ernet.dli.2015.38111); both taken with reasons in _rights_checked. Greek Tragic Theatre: 01wodhgoog is vol. I, 02wodhgoog vol. V, 03pott and 04pott are Euripides volumes; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2: no new scans."
   },
   {
    "id": "perseus-fetcher",
@@ -436,6 +436,14 @@
    "started": "2026-10-02T22:13:59-05:00",
    "finished": "2026-10-03T00:41:15-05:00",
    "notes": "Martin's Odes translator unchecked (name garbled in OCR); Dart, Pott-Wright and Wickham not taken"
+  },
+  {
+   "id": "retry-finds-bennett-firth",
+   "status": "done",
+   "scope": "Bennett's Loeb Horace and Firth's Pliny Second Series, found on the hourly retry under DLI file names",
+   "started": "2026-10-03T00:41:15-05:00",
+   "finished": "2026-10-03T00:45:29-05:00",
+   "notes": "both carry _rights_checked reasons (later impression; no printed date)"
   }
  ]
 }

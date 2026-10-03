@@ -72,11 +72,17 @@
    "lettersyoungerp00plingoog",
    "The Letters of the Younger Pliny, literally translated (Kegan Paul, Trench, 1890)",
    "tr. John Delaware Lewis"
+  ],
+  "pliny-younger-firth-letters-2": [
+   "in.ernet.dli.2015.38111",
+   "The Letters of the Younger Pliny, Second Series: Books VI-X (London and Felling-on-Tyne: Walter Scott Publishing Co.; no printed date, see _rights_checked)",
+   "2015.38111.The-Letters-Of-The-Younger-Pliny_djvu.txt",
+   "tr. John B. Firth"
   ]
  },
  "_excluded": {
   "pg58589": "The Boys' and Girls' Pliny: adaptation",
-  "Firth, the remaining volume(s)": "not on Gutenberg; pending",
+  "Firth, the remaining volume(s)": "Second Series held from a DLI scan (pliny-younger-firth-letters-2), found 2026-10-03",
   "Philemon Holland's Natural History (1601)": "PD; pending"
  },
  "_surname": [
@@ -94,7 +100,8 @@
   "pliny-younger-firth-letters-1": "John B. Firth",
   "pliny-melmoth-hutchinson-letters-v1": "William Melmoth",
   "pliny-melmoth-hutchinson-letters-v2": "William Melmoth",
-  "pliny-younger-lewis-letters": "John Delaware Lewis"
+  "pliny-younger-lewis-letters": "John Delaware Lewis",
+  "pliny-younger-firth-letters-2": "John B. Firth"
  },
  "_translator_unchecked": {
   "pliny-holland-natural-history-v1": "translator on the row (Philemon Holland) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -257,6 +264,23 @@
    "ia_date": "1890",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "pliny-younger-firth-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pliny",
+   "translator_claimed": "John B. Firth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: Firth's Second Series, Walter Scott Publishing Co., London and Felling-on-Tyne, New York: 3 East 14th Street. The scan prints no date and IA records none. It is the companion of the First Series that Gutenberg clears as US public domain (PG 3234, held as pliny-younger-firth-letters-1), from the same Scott Library imprint. Taken on that evidence; a printed date is still wanted."
   }
+ },
+ "_rights_checked": {
+  "pliny-younger-firth-letters-2": "Title page read: Firth's Second Series, Walter Scott Publishing Co., London and Felling-on-Tyne, New York: 3 East 14th Street. The scan prints no date and IA records none. It is the companion of the First Series that Gutenberg clears as US public domain (PG 3234, held as pliny-younger-firth-letters-1), from the same Scott Library imprint. Taken on that evidence; a printed date is still wanted."
  }
 }

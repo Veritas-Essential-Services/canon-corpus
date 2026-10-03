@@ -782,8 +782,9 @@ Shelf: `pipeline/pliny_shelf.json`. Bostock and Riley's Natural History, 6 vols.
 | The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 1 (1601) | Philemon Holland | `pliny-holland-natural-history-v1` | have-raw (IA `plinyhollandhistorie01`) |
 | The Historie of the World, commonly called the Naturall Historie of C. Plinius Secundus, tome 2 (1601) | Philemon Holland | `pliny-holland-natural-history-v2` | have-raw (IA `plinyhollandhistorie02`) |
 | The Letters of the Younger Pliny, literally translated (Kegan Paul, Trench, 1890) | John Delaware Lewis | `pliny-younger-lewis-letters` | have-raw (IA `lettersyoungerp00plingoog`) |
+| The Letters of the Younger Pliny, Second Series: Books VI-X (London and Felling-on-Tyne: Walter Scott Publishing Co.; no printed date, see _rights_checked) | John B. Firth | `pliny-younger-firth-letters-2` | have-raw (IA `in.ernet.dli.2015.38111`) |
 
-Pending (wishlist): Firth's remaining volume(s); 
+Pending (wishlist): a printed date for Firth's Second Series (the DLI scan has none).
 
 Excluded: PG 58589 (adaptation).
 
@@ -826,8 +827,9 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes of Horace translated into English Verse, with a life and notes (Boston: Ticknor and Fields, 1866) | Theodore Martin | `horace-martin-odes-1866` | have-raw (IA `odesofhoracetran00horarich`) |
 | The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869) | Edward Bulwer-Lytton, Lord Lytton | `horace-lytton-1869` | have-raw (IA `odes00epodesofhorahorarich`) |
 | The Odes of Horace translated into English (London: John Murray; preface dated 1894) | William Ewart Gladstone | `horace-gladstone-1894` | have-raw (IA `odeshorace01gladgoog`) |
+| Horace, The Odes and Epodes, with an English translation (Loeb Classical Library; 1914 translation, Latin facing; this scan is a later impression, see _rights_checked) | C. E. Bennett | `horace-bennett-loeb-odes` | have-raw (IA `in.ernet.dli.2015.98705`) |
 
-Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
+Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
 ## Catullus
 
