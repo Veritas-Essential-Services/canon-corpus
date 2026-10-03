@@ -1,0 +1,130 @@
+{
+ "corrections": [
+  {
+   "find": "Lord has",
+   "replace": "Lord had",
+   "count": 1,
+   "why": "the scan reads “had” (archive.org worksofjohnbunya01buny, leaf 483, printed p. 446): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     483
+    ],
+    "page": [
+     "446"
+    ],
+    "ocr": "had",
+    "tesseract": "had"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "criest",
+   "replace": "cries",
+   "count": 1,
+   "why": "the scan reads “cries” (archive.org worksofjohnbunya01buny, leaf 486, printed p. 449): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     486
+    ],
+    "page": [
+     "449"
+    ],
+    "ocr": "cries",
+    "tesseract": "cries"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "2 Cor 1",
+   "replace": "2 Co i",
+   "count": 1,
+   "why": "the scan reads “Co i” (archive.org worksofjohnbunya01buny, leaf 487, printed p. 450): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     487
+    ],
+    "page": [
+     "450"
+    ],
+    "ocr": "Co i",
+    "tesseract": "co i"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "all part",
+   "replace": "all the parts",
+   "count": 1,
+   "why": "the scan reads “the parts” (archive.org worksofjohnbunya01buny, leaf 489, printed p. 452): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     489
+    ],
+    "page": [
+     "452"
+    ],
+    "ocr": "the parts",
+    "tesseract": "the parts"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Revelation",
+   "replace": "Revelations",
+   "count": 1,
+   "why": "the scan reads “Revelations” (archive.org worksofjohnbunya01buny, leaf 499, printed p. 462): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     499
+    ],
+    "page": [
+     "462"
+    ],
+    "ocr": "Revelations",
+    "tesseract": "revelations"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Read Oba",
+   "replace": "Read Ob",
+   "count": 1,
+   "why": "the scan reads “Ob” (archive.org worksofjohnbunya01buny, leaf 514, printed p. 477): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     514
+    ],
+    "page": [
+     "477"
+    ],
+    "ocr": "Ob",
+    "tesseract": "ob"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "embraces the",
+   "replace": "embraces and",
+   "count": 1,
+   "why": "the scan reads “and” (archive.org worksofjohnbunya01buny, leaf 516, printed p. 479): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     516
+    ],
+    "page": [
+     "479"
+    ],
+    "ocr": "and",
+    "tesseract": "and"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

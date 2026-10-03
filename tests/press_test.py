@@ -131,6 +131,16 @@ check("orphan notes keep their own numbers", "[7.]{.note-num} seven" in md2 and 
 check("a glued verse call and a word call, in printed order",
       [m.group(0).strip() for m in press_text.RE_CALLS.finditer("word1 then Eph 1:192 end")], ["1", "Eph 1:192"])
 
+PG = ("*** START OF THE PROJECT GUTENBERG EBOOK X ***\n\nA DISCOURSE\n\nTO THE READER\n\n"
+      "These were given him (John 17:1,6,9,10) and (Isa 49:4), as a gload2 upon the eye.\n\n"
+      "FOOTNOTES:\n\n1 the first note.\n\n2 “A gload;” a gazing.\n")
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(PG)
+gd = press_text.convert_gutenberg(f.name, "g", {"title": "T", "source": {}})
+gmd = " ".join(b.get("md", "") for b in gd["blocks"])
+check("a verse in a list is never a note call", ("[^n1]" in gmd, "[^n6]" in gmd), (False, False))
+check("a number glued to a word is a call, past notes whose calls were lost", "gload[^n2]" in gmd, True)
+
 # --- EEBO-TCP transcriptions
 import press_tcp
 TEI = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader/><text><front>

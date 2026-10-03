@@ -1,0 +1,94 @@
+{
+ "corrections": [
+  {
+   "find": "Psa 110",
+   "replace": "Ps ex",
+   "count": 1,
+   "why": "the scan reads “Ps ex” (archive.org worksofjohnbunya01buny, leaf 731, printed p. 694): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     731
+    ],
+    "page": [
+     "694"
+    ],
+    "ocr": "Ps ex",
+    "tesseract": "ps ex"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "bestowed on",
+   "replace": "bestowed en",
+   "count": 1,
+   "why": "the scan reads “en” (archive.org worksofjohnbunya01buny, leaf 733, printed p. 696): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     733
+    ],
+    "page": [
+     "696"
+    ],
+    "ocr": "en",
+    "tesseract": "en"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "threats nor",
+   "replace": "threats not",
+   "count": 1,
+   "why": "the scan reads “not” (archive.org worksofjohnbunya01buny, leaf 739, printed p. 702): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     739
+    ],
+    "page": [
+     "702"
+    ],
+    "ocr": "not",
+    "tesseract": "not"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "woeful",
+   "replace": "woful",
+   "count": 1,
+   "why": "the scan reads “woful” (archive.org worksofjohnbunya01buny, leaf 746, printed p. 709): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     746
+    ],
+    "page": [
+     "709"
+    ],
+    "ocr": "woful",
+    "tesseract": "woful"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "1 Peter 2",
+   "replace": "1 Pe ii",
+   "count": 1,
+   "why": "the scan reads “Pe ii” (archive.org worksofjohnbunya01buny, leaf 756, printed p. 719): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     756
+    ],
+    "page": [
+     "719"
+    ],
+    "ocr": "Pe ii",
+    "tesseract": "pe ii"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

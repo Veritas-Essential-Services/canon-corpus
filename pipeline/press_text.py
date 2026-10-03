@@ -141,17 +141,24 @@ def convert_gutenberg(path, slug, e):
             d.blocks.append({"k": "tp", "md": inline_plain(t), "cls": None, "section": "tp"})
         d.blocks.append({"k": "titlepage_end", "section": "tp"})
     expect = [min(map(int, notes_raw), default=1)]
-    def take(n):
+    def take(n, reach=4):
         """A note call is accepted only near where the sequence says it should
         be (a missing note in the source must not derail the rest)."""
-        if str(n) in notes_raw and f"n{n}" not in d.notes and expect[0] <= n <= expect[0] + 4:
+        if str(n) in notes_raw and f"n{n}" not in d.notes and expect[0] <= n <= expect[0] + reach:
             expect[0] = n + 1
             d.notes[f"n{n}"] = tag_refs(inline_plain(notes_raw[str(n)]), d)
             return True
         return False
     def note_call(m):
+        # a number in a list of verses ("John 17:1,6,9", "Isa 49:4") is a verse,
+        # never a call, however well it fits the note sequence
+        if re.search(r"\d\s?[,:;–-]\s?$", m.string[max(0, m.start() - 4):m.start()]):
+            return m.group(0)
         n = int(m.group(4))
-        return f"[^n{n}]" if take(n) else m.group(0)
+        # glued straight to a word ("gload22") it can be nothing but a call, so
+        # it may skip further over notes whose calls the transcription lost
+        glued = m.start() > 0 and m.string[m.start() - 1].isalpha()
+        return f"[^n{n}]" if take(n, 8 if glued else 4) else m.group(0)
     def glued_to_verse(m):
         # "Ephesians 1:192": verse 19 with note 2 glued on, when 192 is no verse.
         # Every split is tried; the one whose note is the next expected wins

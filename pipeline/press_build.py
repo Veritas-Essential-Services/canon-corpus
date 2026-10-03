@@ -224,11 +224,19 @@ def note_on_text(e, slug, doc, applied, src_path):
                  f"printer's. The marginal notes of the original are given as footnotes.")
     else:
         where = f"This text is set from the Internet Archive scan of {s['edition']}, re-read from its OCR and proofed."
-    paras = [where,
-             f"The text is the source edition's own: spelling, capitalisation and punctuation are kept as "
-             f"printed, nothing is modernised or abridged, and the original title page is reproduced. "
-             f"Page breaks of the source edition are kept as invisible anchors, so any passage can be "
-             f"checked against the scan of its page."]
+    if s.get("modernised"):
+        # the transcription itself departs from its edition (proof sheet evidence):
+        # say so, and never claim the edition's own text
+        paras = [where, s["modernised"],
+                 f"Nothing further is modernised or abridged, and the original title page is reproduced. "
+                 f"Page breaks of the source edition are kept as invisible anchors, so any passage can be "
+                 f"checked against the scan of its page."]
+    else:
+        paras = [where,
+                 f"The text is the source edition's own: spelling, capitalisation and punctuation are kept as "
+                 f"printed, nothing is modernised or abridged, and the original title page is reproduced. "
+                 f"Page breaks of the source edition are kept as invisible anchors, so any passage can be "
+                 f"checked against the scan of its page."]
     gaps = doc.get("gaps") or []
     ill = sum(1 for g in gaps if g[0].startswith("illegible"))
     frn = sum(1 for g in gaps if g[0].startswith("foreign"))

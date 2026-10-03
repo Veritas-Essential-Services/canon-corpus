@@ -188,11 +188,13 @@ def tess_page(ident, leaf):
     os.remove(img)
     return out
 
-def third_reading(ident, leaves, before, after, width):
+def third_reading(ident, leaves, before, after, width, imgs=None):
     """Find the disputed spot on the re-read page(s) by the words around it;
-    return the tokens the page has between them (normalised), or None."""
+    return the tokens the page has between them (normalised), or None.
+    `imgs`: ABBYY leaf -> served image number (press_abbyy.image_index)."""
     for leaf in leaves:
-        t = [norm(m.group(0)) for m in TOKEN.finditer(re.sub(r"-\s*\n\s*", "", tess_page(ident, leaf)))]
+        page = tess_page(ident, (imgs or {}).get(leaf, leaf))
+        t = [norm(m.group(0)) for m in TOKEN.finditer(re.sub(r"-\s*\n\s*", "", page))]
         t = [x for x in t if x]
         for i in range(len(t) - len(before) + 1):
             if t[i:i + len(before)] == before:
@@ -297,15 +299,17 @@ def proof(slug, use_tess=True, volume=None):
         findings.append(f)
     # witness C: re-read the disputed pages (in parallel), then vote
     pending = [f for f in findings if "_ctx" in f]
+    # a scan whose scandata hides leaves serves page n as some later leaf
+    imgs = press_abbyy.image_index(ident) if use_tess else {}
     if use_tess:
-        prefetch(ident, [l + d for f in pending for l in f["leaf"] for d in (0, 1, -1) if l + d >= 0])
+        prefetch(ident, [imgs.get(l + d, l + d) for f in pending for l in f["leaf"] for d in (0, 1, -1) if l + d >= 0])
     for f in pending:
         ctx_b, ctx_a, width, A, B = f.pop("_ctx")
         f["verdict"] = "review"
         if not use_tess or len(ctx_b) < 3 or len(ctx_a) < 3:
             continue
         near = sorted({l + d for l in f["leaf"] for d in (0, 1, -1) if l + d >= 0})
-        c, leaf = third_reading(ident, near, ctx_b, ctx_a, width)
+        c, leaf = third_reading(ident, near, ctx_b, ctx_a, width, imgs)
         if leaf is not None:
             f["leaf"], f["page"] = [leaf], [printed.get(leaf, "")]
         if c is None:
@@ -391,6 +395,17 @@ def write_rules(slug, ident, doc, findings):
             # no rule is written for an insertion or deletion: a person places it
             f["verdict"] = "review"; f["why"] = "confirmed, but an insertion or deletion is left to a person"
         if f.get("verdict") != "confirmed" or f["kind"] != "replace":
+            continue
+        if re.search(r"\d", f["a"]) and re.search(r"(?i)\b[ivxlc]+\b", f["b"]) and not re.search(r"\d", f["b"]):
+            # a scripture reference the transcription set in modern form ("Matt 15"
+            # for "Mat xv"): it is tagged against the KJV as it stands, and one
+            # restored here and there would leave the book in two styles
+            f["verdict"] = "review"; f["why"] = "a reference in the transcription's own form; left as set"
+            continue
+        if re.search(r"[A-Za-z.,;:!?’”)]\d{1,3}$", f["a"]):
+            # "let12": a footnote call the converter did not place; deleting the
+            # number would orphan the note
+            f["verdict"] = "review"; f["why"] = "a note call glued to its word; a person places it"
             continue
         md = doc["blocks"][f["block"]].get("md", "")
         # the smallest unique stretch of markdown holding the bad word(s), unique
