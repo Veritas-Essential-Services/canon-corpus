@@ -58,6 +58,12 @@
    "romanehistorie00livy",
    "The Romane Historie written by T. Livius of Padua (1659 edition)",
    "tr. Philemon Holland"
+  ],
+  "livy-baker-1823": [
+   "the-history-of-rome-by-titus-livius-volumes-1-6-translated-by-george-baker-1823",
+   "The History of Rome by Titus Livius, translated from the original with notes and illustrations (first American from the last London edition; New York: Peter A. Mesier and others, 1823), vols. I-VI in one file",
+   "The History of Rome by Titus Livius, Volumes 1-6, translated by George Baker (1823)_djvu.txt",
+   "tr. George Baker"
   ]
  },
  "_excluded": {
@@ -71,5 +77,8 @@
    "Rev. Canon Roberts",
    "Translation published 1912: US public domain (in or before 1930). Perseus source line: Livy. History of Rome, Volumes 1-2. Roberts, Canon, Rev, translator. London, New York: J. M. Dent and Sons; E. P. Dutton and Co., 1912."
   ]
+ },
+ "_rights_checked": {
+  "livy-baker-1823": "Title page read: New York, Peter A. Mesier and others, J. Maxwell, printer, 1823; the IA record carries no date. Baker's translation first appeared in 1797."
  }
 }
