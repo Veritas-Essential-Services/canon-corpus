@@ -2450,6 +2450,15 @@ Shelf: `pipeline/clouston_shelf.json` (2026-10-02; added at the coordinator's re
 | A Group of Eastern Romances and Stories from the Persian, Tamil and Urdu | have | PG 57468, `clouston-group-of-eastern-romances` (1871 units) |
 | The Bakhtyār Nāma: A Persian Romance | have | PG 60316, `clouston-bakhtyar-nama` (799 units) |
 
+## Florence Holbrook
+
+Shelf: `pipeline/holbrook_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature myths and Norse hero tales retold for school readers; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Nature Myths | have | PG 22420, `holbrook-book-of-nature-myths` (1016 units) |
+| Northland Heroes | have | PG 20853, `holbrook-northland-heroes` (399 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
