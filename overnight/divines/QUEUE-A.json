@@ -378,10 +378,12 @@
     },
     {
       "id": "erskines",
-      "status": "todo",
+      "status": "done",
       "scope": "Ebenezer and Ralph Erskine: sermons and works (d. 1754, 1752)",
       "added": "2026-10-02T17:35:36-05:00",
-      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T19:48:26-05:00",
+      "notes": "10 IA"
     },
     {
       "id": "halyburton",

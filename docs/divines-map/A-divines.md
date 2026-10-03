@@ -822,3 +822,13 @@ No CCEL or Gutenberg text. The Works (Glasgow: William Collins, 1836-1842, 25 vo
 | The Works, vols. I-XXV | have-raw | IA `worksofthomas01chal`..`03chal`, `worksofthomascha04chal`..`25chal` (`chalmers-works-01`..`25`) |
 | Posthumous Works, ed. William Hanna (1847-52, 9 vols) | pending | scans found, set not yet checked |
 | The 1840 printing; Select Works (1848-56) | alternate | the 1836-42 set is held |
+
+## Ebenezer and Ralph Erskine (round 5, my pick, 2026-10-02)
+
+The two brothers on one shelf. No CCEL or Gutenberg text; raw IA OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| Ebenezer Erskine, The Whole Works (Edinburgh: Ogle & Murray, 1871), vols. I-III | have-raw | IA `wholeworksoflate01ersk`..`03ersk` (`eerskine-works-01`..`03`) |
+| Ralph Erskine, The Sermons and Other Practical Works (London: Tegg, 1865), vols. I-VII | have-raw | IA `sermonsotherpr01ersk`..`07ersk` (`rerskine-works-01`..`07`); the Gospel Sonnets are in it |
+| Earlier editions (1763-1836) and single sermons (ECCO) | alternate | the 1865 and 1871 sets are held |

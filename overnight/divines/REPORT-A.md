@@ -213,3 +213,6 @@
 
 ## 2026-10-02 19:45 CDT — chalmers done
 - `pipeline/chalmers_shelf.json`: the Works (Glasgow: Collins, 1836-42), all 25 vols from one IA series, raw OCR, 97.6-98.6% (median 98.0%). About 19 MB. Volume numbers from the title pages, which the automatic reader got wrong on 5 volumes (it picked up "vol. II" from contents pages); those 5 were checked one by one, vol. XX by its running heads. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 19:48 CDT — erskines done
+- `pipeline/erskines_shelf.json`: Ebenezer's Whole Works (1871, 3 vols) and Ralph's Sermons and Practical Works (1865, 7 vols), raw IA OCR, 97.7-99.4%. About 19 MB. `--verify --record`: 0 mismatched, 0 rights flags. The surname check cannot tell the brothers apart; the split rests on the title pages and on place-name counts (Ebenezer's volumes name Stirling, his charge, 4-9 times; Ralph's name Dunfermline, his, 4-25 times). 0 uids minted.
