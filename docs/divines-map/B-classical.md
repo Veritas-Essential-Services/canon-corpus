@@ -1014,6 +1014,8 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 | Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
 | Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
+| The Pharsalia of Lucan, translated into blank verse (Longmans, 1896) | Edward Ridley | `lucan-ridley-1896` | have-raw (IA `cu31924026485809`) |
+| The Pharsalia of Lucan, translated into blank verse, second edition, revised and corrected (Longmans, 1905) | Edward Ridley | `lucan-ridley-1905` | have-raw (IA `pharsaliatransla00lucauoft`) |
 
 Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
