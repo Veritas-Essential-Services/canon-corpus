@@ -165,13 +165,13 @@ words settled by priors alone apart from words a grammar rule helped settle
 | rule id | what it removes | why it holds | tokens it settles (alone or with others) |
 |---|---|---|---|
 | `idem-dem` | an *idem* reading of a form without *-dem* (*ejus*, *eos*, *eis*) | WORDS's own entry for idem says "w/-dem ONLY" | 8,957 |
-| `proper-lower` | a reading that is a name, for a word written lower-case: a capitalised L&S key (*panes* not `Pan`, *principes* not `Princeps2`); where L&S has no entry, a WORDS name | the Clementine capitalises names | 2,190 |
-| `possessive-agrees` | beside a word that can only be a possessive (*meus*, *tuus*, *suus*, *noster*, *vester*), every reading that is not a noun, adjective, pronoun or numeral agreeing with it in case, number and gender. It runs before `rare-entry`, which would otherwise take *salutare tuum*, "thy salvation", as the verb saluto, because WORDS grades the noun by classical use. | a possessive needs something to agree with | 2,289 |
+| `proper-lower` | a reading that is a name, for a word written lower-case: a capitalised L&S key (*panes* not `Pan`, *principes* not `Princeps2`); where L&S has no entry, a WORDS name | the Clementine capitalises names | 2,155 |
+| `possessive-agrees` | beside a word that can only be a possessive (*meus*, *tuus*, *suus*, *noster*, *vester*), every reading that is not a noun, adjective, pronoun or numeral agreeing with it in case, number and gender. It runs before `rare-entry`, which would otherwise take *salutare tuum*, "thy salvation", as the verb saluto, because WORDS grades the noun by classical use. | a possessive needs something to agree with | 2,281 |
 | `whole-word` (prior) | a reading that splits off an enclitic (-que, -ne, -ve), when another reads the word whole: *absque* is the preposition "without", not *abs* + -que | the dictionary prints the whole word | 3,058 |
-| `rare-inflection` (prior) | a reading by an ending WORDS grades less than common (C or rarer in INFLECTS.LAT: *dominum* as domina's genitive plural) | WORDS's own grade on the ending | 3,015 |
-| `rare-entry` (prior) | a reading whose dictionary entry is two or more of WORDS's frequency grades below the commonest reading, when that one is A or B (*est* as edo, "eats", grade C, against sum, A). **Only between readings of one word class.** A noun never loses to a verb or participle by frequency: before 2026-10-02 it did, and every *peccata* went to `pecco`, every *tribus* to `tres`, *praeceptum* to `praecipio`. | WORDS's own grade on the entry. **This is a frequency prior, not proof**; it is the rule most likely to be wrong in a given verse. | 21,928 |
-| `prep-object` | the non-preposition readings, when the next word in the clause can be in the case the preposition takes (*cum eo*, *a facie*) | a preposition needs an object | 6,870 |
-| `no-prep-object` | the preposition reading, when the clause ends after it (*a, a, a*) or the next word is lower-case, read, and has no case and no adverb reading (*cum autem*) | there is nothing for it to govern | 1,822 |
+| `rare-inflection` (prior) | a reading by an ending WORDS grades less than common (C or rarer in INFLECTS.LAT: *dominum* as domina's genitive plural) | WORDS's own grade on the ending | 2,970 |
+| `rare-entry` (prior) | a reading whose dictionary entry is two or more of WORDS's frequency grades below the commonest reading, when that one is A or B (*est* as edo, "eats", grade C, against sum, A). **Only between readings of one word class.** A noun never loses to a verb or participle by frequency: before 2026-10-02 it did, and every *peccata* went to `pecco`, every *tribus* to `tres`, *praeceptum* to `praecipio`. Nor does it drop a reading whose lemma is the form itself (*capitium* is not forced to `caput`; *praecipito* is its own verb, not `praecipio`). | WORDS's own grade on the entry. **This is a frequency prior, not proof**; it is the rule most likely to be wrong in a given verse. | 20,562 |
+| `prep-object` | the non-preposition readings, when the next word in the clause can be in the case the preposition takes (*cum eo*, *a facie*) | a preposition needs an object | 6,861 |
+| `no-prep-object` | the preposition reading, when the clause ends after it (*a, a, a*) or the next word is lower-case, read, and has no case and no adverb reading (*cum autem*) | there is nothing for it to govern | 1,878 |
 | `si-quis` | every reading but the indefinite `quis2`, after *si*, *ne*, *num* | the grammar-book rule: after si, nisi, num, ne, ali- drops away. *nisi* is left out because *nisi qui* is usually relative (Isa 42:19). | 192 |
 
 Two cases look like no-object but are not, so `no-prep-object` stands aside
@@ -183,7 +183,7 @@ for them:
   "from afar".
 
 `no-prep-object` also fires when the next word is a particle that stands
-second in its clause (*vero*, *autem*, *enim*, *itaque*, *igitur*, *quoque*,
+second in its clause (*vero*, *autem*, *enim*, *itaque*, *igitur*, *ergo*, *quoque*,
 *quidem*): *cum vero* is "but when", since no such particle comes between a
 preposition and its object.
 
@@ -196,9 +196,9 @@ The result over all 612,029 words, in `manifest.counts`:
 | outcome | tokens | share |
 |---|---|---|
 | sure (the form alone decides) | 422,339 | 69.0% |
-| resolved, a grammar rule taking part | 21,843 | 3.6% |
-| resolved by priors alone | 27,679 | 4.5% |
-| **unresolved, null** | 120,359 | **19.7%** (from 27.8%) |
+| resolved, a grammar rule taking part | 21,847 | 3.6% |
+| resolved by priors alone | 26,356 | 4.3% |
+| **unresolved, null** | 121,678 | **19.9%** (from 27.8%) |
 | no L&S entry / unread | 19,809 | 3.2% |
 
 What stays null is real ambiguity that no rule here can see:

@@ -59,26 +59,26 @@
   },
   "vulgate_tokens_by_outcome": {
    "no-ls": 19307,
-   "resolved": 49523,
+   "resolved": 48203,
    "sure": 422339,
    "unread": 502,
-   "unresolved": 120358
+   "unresolved": 121678
   },
   "vulgate_tokens_resolved_by_rule": {
-   "rare-entry": 21643,
+   "rare-entry": 20365,
    "idem-dem": 8957,
    "prep-object": 6359,
    "whole-word": 3058,
    "rare-inflection": 2912,
    "possessive-agrees": 2227,
-   "no-prep-object": 1829,
+   "no-prep-object": 1875,
    "proper-lower": 1549,
    "proper-lower+prep-object": 465,
    "si-quis": 192,
-   "proper-lower+rare-entry": 157,
-   "rare-inflection+rare-entry": 66,
-   "possessive-agrees+rare-entry": 52,
+   "proper-lower+rare-entry": 122,
+   "possessive-agrees+rare-entry": 44,
    "rare-inflection+prep-object": 28,
+   "rare-inflection+rare-entry": 21,
    "proper-lower+rare-inflection": 9,
    "proper-lower+possessive-agrees": 8,
    "rare-entry+prep-object": 7,
@@ -86,15 +86,15 @@
    "proper-lower+possessive-agrees+prep-object": 2
   },
   "vulgate_tokens_resolved_by_kind": {
-   "a grammar rule took part": 21844,
-   "priors only (rare-entry, rare-inflection, whole-word)": 27679
+   "a grammar rule took part": 21847,
+   "priors only (rare-entry, rare-inflection, whole-word)": 26356
   },
-  "vulgate_keys": 9364,
+  "vulgate_keys": 9384,
   "strongs_latin": {
    "verse_pairs": 31057,
    "numbers_seen": 14047,
-   "numbers_with_latin": 3950,
-   "numbers_with_latin_thin": 1258,
+   "numbers_with_latin": 3942,
+   "numbers_with_latin_thin": 1255,
    "rule": {
     "min_verses": 3,
     "min_dice": 0.1,
@@ -123,15 +123,15 @@
   },
   "vulgate-forms.jsonl": {
    "rows": 46316,
-   "sha256": "55cf2e3d98b09bd9c269072cebab7b57a3dfe5577dcd58158a411ef0f9339b1b"
+   "sha256": "42a166bd509a371140382f720440fc91159354058b3def9dbef491cf8d751535"
   },
   "vulgate-concordance.jsonl": {
-   "rows": 9364,
-   "sha256": "ba9e96b6b141a96058b876268adb9252c6a85b83753af1a25817bb18b00bdeee"
+   "rows": 9384,
+   "sha256": "08f9ca7d3a5bc50c7ea663a43f9d5c89e9fa1370d0567a2e86e30cc049a02a04"
   },
   "strongs-latin.jsonl": {
-   "rows": 3950,
-   "sha256": "9710d9b32601379861bbddc8f0b0ee097d0f8376ceecf110cc561a4aca18a568"
+   "rows": 3942,
+   "sha256": "a34f648fea0b2cb03f7f5e7fcb09b3c93108bf6d8643305dadc6e9007269d798"
   }
  },
  "files_dir": "build/latin-key/ (gitignored: built from Perseus's CC BY-SA text)"

@@ -443,7 +443,7 @@ INDEF_AFTER = {"si", "ne", "num"}       # after these, quis is indefinite (not n
 RULES = ("idem-dem", "proper-lower", "possessive-agrees", "whole-word", "rare-inflection", "rare-entry",
          "prep-object", "no-prep-object", "si-quis")
 # particles the Vulgate puts second in a clause (itaque and igitur by its own habit)
-POSTPOSITIVE = {"vero", "autem", "enim", "itaque", "igitur", "quoque", "quidem"}
+POSTPOSITIVE = {"vero", "autem", "enim", "itaque", "igitur", "ergo", "quoque", "quidem"}
 PRIORS = {"rare-entry", "rare-inflection", "whole-word"}   # WORDS's grades and conventions, not grammar
 FAMILY = {"VPAR": "V", "SUPINE": "V"}      # a participle or supine is its verb's
 POSSESSIVES = {"meus", "tuus", "suus", "noster", "vester"}
@@ -498,6 +498,7 @@ def readings(X, c, links, by_head, flags):
                     "number": a["parse"].get("number"), "gender": a["parse"].get("gender"),
                     "efreq": FREQ_RANK.get(ef["freq"]) if ef else None,
                     "ifreq": ifreq, "iage": age, "enclitic": a.get("enclitic"),
+                    "own": W.fold(a["headword"]) == W.fold(c),
                     "proper": a["form_by"] == "house-names" or a["key"][:1].isupper()})
     return out
 
@@ -569,8 +570,11 @@ def resolve(tok, nxt_tok, prev_form, prev_tok=None, nxt2_tok=None):
         # often as the number three.
         best_cls = {FAMILY.get(r["pos"], r["pos"]) for R, x in zip(groups.values(), ranks) if x == best
                     for r in R}
+        # and never against a reading whose lemma is the form itself:
+        # capitium is capitium, not caput; praecipito is its own verb
         groups = _keep(groups, lambda t, R: min((r["efreq"] for r in R if r["efreq"] is not None),
                                                  default=best) < best + 2
+                       or any(r.get("own") for r in R)
                        or not ({FAMILY.get(r["pos"], r["pos"]) for r in R} <= best_cls), "rare-entry", used)
     # a preposition takes an object in its case, next in the clause
     preps = {t: {r["case"] for r in R if r["pos"] == "PREP"} for t, R in groups.items()}

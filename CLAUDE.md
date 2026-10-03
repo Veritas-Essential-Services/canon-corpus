@@ -244,8 +244,8 @@ The living truth for project state is the Obsidian vault:
   2026-10-02). Whitaker lemmas link to L&S by spelling and
   class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
   sure by form (69%), or resolved in its verse by a named context rule
-  (8.1%: 3.6% with a grammar rule, 4.5% by frequency priors alone, counted
-  apart; every rule id tagged), else null and listed `possible` (19.7%). A
+  (7.9%: 3.6% with a grammar rule, 4.3% by frequency priors alone, counted
+  apart; every rule id tagged), else null and listed `possible` (19.9%). A
   prior never swaps a noun for a verb (peccata is not pecco). A verb never links to a noun-only entry
   (status clash: WORDS's vis "you want" is not L&S's vis "force"). Rules only remove readings (README s.4b).
   strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,
