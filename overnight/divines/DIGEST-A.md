@@ -246,7 +246,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 
 ## Round 13: my picks, also for your veto
 
-Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Caroline and Restoration Anglicans (Hammond, Sanderson, Bull, Stillingfleet), Georgian bishops (Sherlock, Horsley), English Baptists and a late Puritan (Keach, Knollys, Ryland, Fawcett, Mead), and Americans (Tennent, Nettleton, Lyman Beecher, Asbury), with the evangelical Anglican Richard Cecil. Nobody chose these but the worker: drop any you do not want.
+Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Caroline and Restoration Anglicans (Hammond, Sanderson, Bull, Stillingfleet), Georgian bishops (Sherlock, Horsley), English Baptists and a late Puritan (Keach, Knollys, Ryland, Fawcett, Mead), and Americans (Tennent, Nettleton, Lyman Beecher, Asbury), with the evangelical Anglican Richard Cecil. Nobody chose these but the worker: drop any you do not want. Skipped: Knollys and Fawcett (only short tracts on IA) and Nettleton (PR #14 owns his shelf).
 
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
