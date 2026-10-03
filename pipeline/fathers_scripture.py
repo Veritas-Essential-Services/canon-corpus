@@ -213,9 +213,11 @@ def as_num(tok):
 # "Ps. 18, " / "Ps. xviii , ": a book word, then its chapter and a comma,
 # before a number; or such a reference running on by "-", "et" or a new
 # chapter ("Ps. 18, 6-", "Ps. 18, 6 et ", "Ps. 18, 6; 20, "). Never after a
-# bare ", ": "Es. 1, 11, 24]" is a verse, then the next line's marker.
-VERSE_BEFORE = re.compile(r"(?:[^\W\d_]{2,}\.?|[^\W\d_]\.)\s*(?:\d{1,3}|(?<![^\W\d_])[IVXLCivxlc]{1,7})\s*,\s*"
-                          r"(?:\d{1,3}\s*(?:[-—–]|et\b|;\s*\d{1,3}\s*,)\s*)*$")
+# bare ", ": "Es. 1, 11, 24]" is a verse, then the next line's marker. So a
+# number after "et" ("Ps. 17, 14 et 12]") is always a verse, never a marker.
+VERSE_BEFORE = re.compile(r"(?<![^\W\d_])(?!et\b)(?:[^\W\d_]{2,}\.?|[^\W\d_]\.)\s*"
+                          r"(?:\d{1,3}|(?<![^\W\d_])[IVXLCivxlc]{1,7})\s*,\s*"
+                          r"(?:\d{1,3}\s*(?:[-—–]|(?:;|et)\s*\d{1,3}\s*,|et\b)\s*)*$")
 
 
 def parse(label, family):
@@ -235,7 +237,7 @@ def parse(label, family):
                    lambda m: m.group(0) if VERSE_BEFORE.search(label, 0, m.start()) else " | ", label)
     s = re.sub(r"(?<![\w\[])\d{1,3}\s?f{0,2}\]",
                lambda m: m.group(0) if VERSE_BEFORE.search(label, 0, m.start()) else " | ", label)
-    s = re.sub(r"(?:^|\s)—(?!\s?\d{1,3}\s?(?:[.,;)]|$))", " | ", s)
+    s = re.sub(r"(?:^|\s)—(?!\s?\d{1,3}\s?(?:[.,;)\]]|$))", " | ", s)
     s = s.replace("—", "-").replace("–", "-").replace("‒", "-")
     refs = []
     pos = 0
