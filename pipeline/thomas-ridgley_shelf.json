@@ -1,0 +1,61 @@
+{
+ "_about": "Thomas Ridgley (1667-1734), Independent minister and tutor in London: A Body of Divinity, wherein the doctrines of the Christian religion are explained and defended, being the substance of lectures on the Westminster Larger Catechism; new edition revised with notes by John M. Wilson (New York: Robert Carter, 1855, 2 vols). Princeton copies. Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas ridgley",
+  "thomas ridgeley",
+  "dr. ridgley",
+  "dr. ridgeley",
+  "ridgley",
+  "ridgeley"
+ ],
+ "_surname": [
+  "thomas ridgley",
+  "thomas ridgeley",
+  "dr. ridgley",
+  "dr. ridgeley",
+  "ridgley",
+  "ridgeley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ridgley-body-of-divinity-1": [
+   "bodyofdivinitywhere01ridg",
+   "A Body of Divinity, ed. John M. Wilson (New York: Robert Carter, 1855), vol. I"
+  ],
+  "ridgley-body-of-divinity-2": [
+   "bodyofdivinitywhere02ridg",
+   "A Body of Divinity, ed. John M. Wilson (New York: Robert Carter, 1855), vol. II"
+  ]
+ },
+ "_alternates": {
+  "bodyofdivinity01ridg, bodyofdivinitywh02ridgiala (1855, California)": "Other copies of the 1855 edition.",
+  "bodyofdivinityw01-04ridg, bodyofdivinitywhe01-04ridg, bodyofdivinitywh01-04ridg (1814-1815, 4 vols), abodydivinitywi0*ridggoog": "The 1814 edition in four volumes.",
+  "bim_eighteenth-century_a-body-of-divinity-wher_ridgley-thomas_1731_1/_2": "The first edition (1731-1733), ECCO scans."
+ },
+ "_excluded": {},
+ "_checks": {
+  "ridgley-body-of-divinity-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas ridgeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ridgley-body-of-divinity-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas ridgeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

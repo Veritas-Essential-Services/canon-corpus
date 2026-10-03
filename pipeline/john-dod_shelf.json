@@ -1,0 +1,50 @@
+{
+ "_about": "John Dod (c. 1549-1645), 'Decalogue Dod', Puritan minister at Hanwell and Fawsley: A Plaine and Familiar Exposition of the Ten Commandments, with Robert Cleaver (London, 1630, the 19th edition, signed by both from Hanwell). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "john dod",
+  "iohn dod",
+  "tohn dod",
+  "mr. dod",
+  "m. dod",
+  "robert cleaver",
+  "robert cleauer"
+ ],
+ "_surname": [
+  "john dod",
+  "iohn dod",
+  "tohn dod",
+  "mr. dod",
+  "m. dod",
+  "robert cleaver",
+  "robert cleauer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dod-ten-commandments-1630": [
+   "bim_early-english-books-1475-1640_a-plaine-and-familiar-ex_dod-john_1630",
+   "A Plaine and Familiar Exposition of the Ten Commandments, with Robert Cleaver (London, 1630)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_a-plain-and-familiar-exp_dod-john_1662, bim_early-english-books-1475-1640_a-treatise-or-exposition_dod-john_1618": "Other editions of the Ten Commandments."
+ },
+ "_pending": {
+  "bim_early-english-books-1475-1640_ten-sermons-tending-chi_dod-john_1634 (Ten Sermons on the Lord's Supper)": "Internet Archive returned HTTP 500 for its text on 2026-10-03.",
+  "Old Mr Dod's Sayings (bim_early-english-books-1641-1700_old-mr-dods-sayings-_dod-john_1678 and other printings), the Lord's Prayer and Proverbs expositions": "Not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "dod-ten-commandments-1630": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tohn dod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1630",
+   "ia_date": "1630",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

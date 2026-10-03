@@ -1,0 +1,53 @@
+{
+ "_about": "John Ball (1585-1640), Puritan minister of Whitmore, Staffordshire: A Treatise of the Covenant of Grace (London, 1645, posthumous, with an epistle signed by Edward Reynolds, Thomas Hill, Daniel Cawdrey and others). Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "john ball",
+  "iohn ball",
+  "mr. ball",
+  "m. ball",
+  "mr. iohn ball",
+  "mr. john ball"
+ ],
+ "_surname": [
+  "john ball",
+  "iohn ball",
+  "mr. ball",
+  "m. ball",
+  "mr. iohn ball",
+  "mr. john ball"
+ ],
+ "_identity_checked": {
+  "ball-covenant-of-grace-1645": "The OCR garbles the name on the title page ('that faithfull servant of Jesus Christ ... of the Gospel, Jo HN Bang'). The epistle to the reader, signed by Edward Reynolds, Thomas Hill, Daniel Cawdrey and others, commends 'the Reverend Authour' by 'His Catechisme, with the exposition thereof; his Treatise of the life of Faith', which are John Ball's."
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ball-covenant-of-grace-1645": [
+   "bim_early-english-books-1641-1700_a-treatise-of-the-covena_ball-john_1645",
+   "A Treatise of the Covenant of Grace (London, 1645)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1475-1640_a-treatise-of-faith-_ball-john_1631, _1632, bim_early-english-books-1641-1700_a-treatise-of-faith_ball-john_1657": "Other editions of the Treatise of Faith."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_the-power-of-godlines-_ball-john_1657 (The Power of Godliness)": "Internet Archive timed out on 2026-10-03; title page not yet read.",
+  "A Short Treatise (the catechism) and A Friendly Triall of the Grounds tending to Separation (1640)": "Not yet title-checked.",
+  "bim_early-english-books-1475-1640_a-treatise-of-faith-_ball-john_1637 (A Treatise of Faith, 1637)": "The title page is lost to OCR and Ball's name appears nowhere in the text, so the name check cannot pass; the 1631, 1632 or 1657 printing may read better."
+ },
+ "_excluded": {},
+ "_checks": {
+  "ball-covenant-of-grace-1645": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1645",
+   "ia_date": "1645",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

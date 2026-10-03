@@ -335,3 +335,22 @@ Edwards, Bellamy, Samuel Hopkins, Timothy Dwight and Stoddard are on lane A's sh
 | Tyler, Memoir of Nettleton (2nd ed., 1845); Nettleton's Remains (1845) | have-raw | `asahel-nettleton_shelf.json` |
 | Tyler, Letters on the New Haven Theology (1837), New England Revivals (1846), Sufferings of Christ (1847), Lectures on Theology (1859) | have-raw | `bennet-tyler_shelf.json`; Review of Day on the Will (1838) pending |
 | Griffin, Sermons, with Sprague's memoir (2 vols, 1838); Park Street Lectures (1813) | have-raw | `edward-griffin_shelf.json` |
+
+## Puritan commentators and Elizabethan-Jacobean practical divines
+
+Owen, Goodwin, Sibbes, Manton, Perkins, Preston, Burroughs, Brooks, Watson and the other Puritans in Nichol's and Goold's editions are on lane A's shelves. These are the ones no lane held. Most survive only in their first printings, so they come from Early English Books Online scans with raw OCR of 17th-century type.
+
+| Work | Status | Where |
+|---|---|---|
+| Poole, Annotations upon the Holy Bible (2 vols, 1683-1685) | have-raw | `matthew-poole_shelf.json`; the Latin Synopsis Criticorum not taken |
+| Trapp, Commentary on the whole Bible (5 vols, 1654-1662) | have-raw | `john-trapp_shelf.json`; Hugh Martin's 1865-68 edition is open only as a 1958 reprint, not taken |
+| Ridgley, A Body of Divinity, ed. Wilson (2 vols, New York, 1855) | have-raw | `thomas-ridgley_shelf.json` |
+| Ames, The Marrow of Sacred Divinity (1642), Conscience with the Power and Cases thereof (1639), A Fresh Suit against Human Ceremonies (1633) | have-raw | `william-ames_shelf.json`; Latin works not taken |
+| Greenham, Workes (1611-1612) | have-raw | `richard-greenham_shelf.json` |
+| Hildersham, CLII Lectures upon Psalm LI (1635), CVIII Lectures upon John IV (1632) | have-raw | `arthur-hildersham_shelf.json` |
+| Dod and Cleaver, Exposition of the Ten Commandments (1630) | have-raw | `john-dod_shelf.json`; Ten Sermons (1634) pending on an archive server error |
+| Bolton, True Happinesse (1631), Instructions for a Right Comforting Afflicted Consciences (1631), The Last Foure Things (1633) | have-raw | `robert-bolton_shelf.json`; Generall Directions (1634) pending, its OCR never names him |
+| John Ball, A Treatise of the Covenant of Grace (1645) | have-raw | `john-ball_shelf.json`; Treatise of Faith pending for the same reason |
+| Christopher Love, Grace (1652), The Christians Directory (1653), Heavens Glory, Hells Terror (1658) | have-raw | `christopher-love_shelf.json` |
+| Cartwright, A Confutation of the Rhemists Translation (1618) | have-raw | `thomas-cartwright_shelf.json`; Colossians (1612) and Revelation (1622) left over disputed attribution |
+| Caryl, Exposition of Job | gap | only community uploads of unknown origin on the Internet Archive |

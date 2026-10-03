@@ -1,0 +1,49 @@
+{
+ "_about": "Thomas Cartwright (1535-1603), Presbyterian leader of the Elizabethan Puritans: A Confutation of the Rhemists Translation, Glosses and Annotations on the New Testament (Leiden, 1618), the answer to the Catholic Rheims New Testament that Walsingham paid him to begin. Early English Books Online scans on the Internet Archive; raw OCR of 17th-century type (long s, ligatures), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas cartwright",
+  "tho. cartwright",
+  "t. cartwright",
+  "m. cartwright",
+  "mr. cartwright",
+  "m. cartwrights",
+  "cartwright"
+ ],
+ "_surname": [
+  "thomas cartwright",
+  "tho. cartwright",
+  "t. cartwright",
+  "m. cartwright",
+  "mr. cartwright",
+  "m. cartwrights",
+  "cartwright"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cartwright-confutation-rhemists-1618": [
+   "bim_early-english-books-1475-1640_a-confutation-of-the-rhe_cartwright-thomas_1618",
+   "A Confutation of the Rhemists Translation, Glosses and Annotations on the New Testament (1618)"
+  ]
+ },
+ "_alternates": {},
+ "_pending": {
+  "bim_early-english-books-1475-1640_a-commentary-upon-the-ep_cartwright-thomas_1612 (Colossians, 1612), bim_early-english-books-1475-1640_a-plaine-explanation-of-_cartwright-thomas_1622 (Revelation, 1622)": "Both were printed long after his death from others' copies, and the attribution of each is disputed; left for a closer look.",
+  "The Admonition controversy (Replye, Second Replie, Rest of the Second Replie)": "Not yet found in a readable scan; part of it is in puritan-manifestoes.",
+  "the 1682-1687 sermons under 'cartwright-thomas'": "By Thomas Cartwright, Bishop of Chester (1634-1689), a different man."
+ },
+ "_excluded": {},
+ "_checks": {
+  "cartwright-confutation-rhemists-1618": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cartwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1618",
+   "ia_date": "1618",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
