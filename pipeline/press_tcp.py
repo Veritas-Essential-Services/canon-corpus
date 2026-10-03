@@ -49,6 +49,8 @@ class Conv:
         self.gaps = []          # (kind, extent, section)
         self.errata = []
         self.pending_pb = None
+        self.span = None        # (from, until) regexes: a treatise inside a larger volume
+        self.on = True
 
     # -------------------------------------------------------------- inline
     def inline(self, el, top=True):
@@ -110,6 +112,8 @@ class Conv:
         return "[⟨…⟩]{.gap}"
 
     def note(self, c):
+        if not self.on:
+            return ""
         self.nnote += 1
         lab = f"n{self.nnote}"
         body = self.inline(c)
@@ -124,7 +128,21 @@ class Conv:
         return f"[]{{#{self.slug}-p{key} .pb n=\"{n}\" img=\"{img}\"}}"
 
     # -------------------------------------------------------------- blocks
+    def gate(self, el):
+        """With a span, only the paragraphs from `from` up to (not including)
+        `until` are set; decided on the paragraph's words before converting it."""
+        if not self.span:
+            return True
+        raw = " ".join("".join(el.itertext()).split()).replace("ſ", "s")
+        if not self.on and self.span[0] and re.search(self.span[0], raw) and not getattr(self, "done", False):
+            self.on = True
+        elif self.on and self.span[1] and re.search(self.span[1], raw):
+            self.on, self.done = False, True
+        return self.on
+
     def para(self, md, kind="para"):
+        if not self.on:
+            return
         md = md.strip()
         if not md or not re.search(r"[A-Za-z0-9⟨]", md):
             return
@@ -157,7 +175,7 @@ class Conv:
             self.d.blocks.append({"k": "titlepage_end", "section": "tp"})
             return
         heads = [c for c in el if tag(c) == "head"]
-        if heads:
+        if heads and self.on:
             self.d.heading(" ".join(self.inline(h) for h in heads), level=min(level, 3))
         for c in el:
             t = tag(c)
@@ -166,7 +184,8 @@ class Conv:
             if t == "div":
                 self.div(c, level + 1)
             elif t == "p":
-                self.para(self.inline(c))
+                if self.gate(c):
+                    self.para(self.inline(c))
             elif t == "list":
                 for it in c:
                     if tag(it) == "item":
@@ -180,7 +199,8 @@ class Conv:
             elif t in ("closer", "signed"):
                 self.para(self.inline(c), "signature")
             elif t == "pb":
-                self.d.add("pb", self.pb(c))
+                if self.on:
+                    self.d.add("pb", self.pb(c))
             elif t == "note":
                 # a margin note between paragraphs: attach to the next paragraph's start
                 self.d.add("pb", self.note(c))
@@ -189,16 +209,31 @@ class Conv:
             else:
                 self.para(self.inline(c))
 
-def convert(path, slug):
+def convert(path, slug, texts=None, span=None):
+    """`texts`: in a volume of several works, which of them (1-based) to set.
+    `span`: [from, until] paragraph regexes, for a treatise printed inside a
+    larger work (the title page of the volume is kept, as its provenance)."""
     root = ET.parse(path).getroot()
     text = root.find(f"{NS}text")
     c = Conv(slug)
-    for part in text:
-        for el in part:
-            if tag(el) == "div":
-                c.div(el, 1)
-            elif tag(el) == "pb":
-                c.d.add("pb", c.pb(el))
+    if span:
+        c.span, c.on = span, False
+
+    def walk(t):
+        # a volume of several works is <text><group><text>...</text></group></text>
+        for part in t:
+            if tag(part) == "group":
+                subs = [x for x in part if tag(x) == "text"]
+                for i, sub in enumerate(subs, 1):
+                    if not texts or i in texts:
+                        walk(sub)
+                continue
+            for el in part:
+                if tag(el) == "div":
+                    c.div(el, 1)
+                elif tag(el) == "pb":
+                    c.d.add("pb", c.pb(el))
+    walk(text)
     doc = c.d.out()
     doc["gaps"] = c.gaps
     doc["errata"] = c.errata

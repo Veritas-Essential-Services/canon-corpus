@@ -23,7 +23,12 @@
     "leaves": [
      176,
      244
-    ]
+    ],
+    "first_edition_witness": {
+     "tcp": "A12171",
+     "printed": "1630",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
    }
   },
   "rutherford-letters": {
@@ -73,7 +78,12 @@
     "leaves": [
      8,
      286
-    ]
+    ],
+    "first_edition_witness": {
+     "tcp": "A29371",
+     "printed": "1656",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
    }
   },
   "burroughs-rare-jewel": {
@@ -113,6 +123,11 @@
     "titlepage": {
      "leaf": 89,
      "from": "^P[ER]{2}CIOUS$"
+    },
+    "first_edition_witness": {
+     "tcp": "A77614",
+     "printed": "1658",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
     }
    }
   },
@@ -174,7 +189,12 @@
    "source": {
     "kind": "ccel",
     "path": "w/watson/cordial",
-    "edition": "A Divine Cordial (London: Thomas Parkhurst, 1663), CCEL transcription"
+    "edition": "A Divine Cordial (London: Thomas Parkhurst, 1663), CCEL transcription",
+    "first_edition_witness": {
+     "tcp": "A65292",
+     "printed": "1663, as A Divine Cordial",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
    }
   },
   "flavel-mystery-of-providence": {
@@ -200,6 +220,11 @@
      "leaf": 342,
      "from": "^DIVINE CONDUCT",
      "until": "^THE EPISTLE DEDICATORY"
+    },
+    "first_edition_witness": {
+     "tcp": "A39659",
+     "printed": "1678",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
     }
    }
   },
@@ -221,7 +246,12 @@
      610,
      672
     ],
-    "start": "^A$"
+    "start": "^A$",
+    "first_edition_witness": {
+     "tcp": "A39690",
+     "printed": "1674, as A Token for Mourners",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
    }
   },
   "alleine-sure-guide": {
@@ -246,7 +276,12 @@
      "leaf": 11,
      "from": "^AN$"
     },
-    "refused": "The relay shelf's scan (American Tract Society, 1834) says on its contents page: 'In this Edition some obsolete words and phrases are altered, and a few passages omitted.' An altered text is not the author's, so it is not used."
+    "refused": "The relay shelf's scan (American Tract Society, 1834) says on its contents page: 'In this Edition some obsolete words and phrases are altered, and a few passages omitted.' An altered text is not the author's, so it is not used.",
+    "first_edition_witness": {
+     "tcp": "A26695",
+     "printed": "1688, as A Sure Guide to Heaven; also A26682, the 1672 Alarme",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
    }
   },
   "bunyan-prayer": {
@@ -292,7 +327,12 @@
    "source": {
     "kind": "ccel",
     "path": "o/owen/mort",
-    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 6, CCEL transcription"
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 6, CCEL transcription",
+    "first_edition_witness": {
+     "tcp": "A53715",
+     "printed": "1668",
+     "note": "EEBO-TCP's hand-keyed transcription of an early printing (CC0). Not the master text here; available to set from or to collate against."
+    }
    },
    "scan": {
     "shelf": "owen",
@@ -564,10 +604,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "sibbes",
-    "volume": "sibbes-works-grosart-4",
-    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 4"
+    "kind": "tcp",
+    "id": "A12183",
+    "edition": "The Excellencie of the Gospell above the Law (London, 1639), the first edition (Wing/STC per EEBO-TCP A12183)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-4",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "sibbes-josiahs-reformation": {
@@ -594,10 +639,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "sibbes",
-    "volume": "sibbes-works-grosart-2",
-    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 2"
+    "kind": "tcp",
+    "id": "A93248",
+    "edition": "The Glorious Feast of the Gospel (London, 1650), the first edition (Wing/STC per EEBO-TCP A93248)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-2",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "sibbes-love-of-christ": {
@@ -609,10 +659,14 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "sibbes",
-    "volume": "sibbes-works-grosart-2",
-    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 2"
+    "kind": "tcp",
+    "id": "A12167",
+    "edition": "Bowels Opened, or, A Discovery of the Neere and Deere Love, Union and Communion betwixt Christ and the Church (London, 1639), the first edition (EEBO-TCP A12167)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-2",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 2"
+    }
    }
   },
   "sibbes-heavenly-conference": {
@@ -624,10 +678,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "sibbes",
-    "volume": "sibbes-works-grosart-6",
-    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 6"
+    "kind": "tcp",
+    "id": "A93249",
+    "edition": "A Heavenly Conference between Christ and Mary after His Resurrection (London, 1654), the first edition (Wing/STC per EEBO-TCP A93249)",
+    "scan_alternative": {
+     "shelf": "sibbes",
+     "volume": "sibbes-works-grosart-6",
+     "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 6"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "brooks-ark-for-noahs": {
@@ -639,10 +698,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "brooks",
-    "volume": "brooks-works-grosart-2",
-    "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    "kind": "tcp",
+    "id": "A29681",
+    "edition": "An Arke for All Gods Noahs in a Gloomy Stormy Day (London, 1662), the first edition (Wing/STC per EEBO-TCP A29681)",
+    "scan_alternative": {
+     "shelf": "brooks",
+     "volume": "brooks-works-grosart-2",
+     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "brooks-secret-key": {
@@ -654,10 +718,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "brooks",
-    "volume": "brooks-works-grosart-2",
-    "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    "kind": "tcp",
+    "id": "A29703",
+    "edition": "The Privie Key of Heaven (London, 1665), the first edition (Wing/STC per EEBO-TCP A29703)",
+    "scan_alternative": {
+     "shelf": "brooks",
+     "volume": "brooks-works-grosart-2",
+     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "brooks-heaven-on-earth": {
@@ -669,10 +738,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "brooks",
-    "volume": "brooks-works-grosart-2",
-    "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    "kind": "tcp",
+    "id": "A77608",
+    "edition": "Heaven on Earth, or, A Serious Discourse touching a Wel-Grounded Assurance (London, 1654), the first edition (Wing/STC per EEBO-TCP A77608)",
+    "scan_alternative": {
+     "shelf": "brooks",
+     "volume": "brooks-works-grosart-2",
+     "edition": "The Complete Works of Thomas Brooks, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1866-67), vol. 2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "brooks-smooth-stones": {
@@ -697,25 +771,38 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "flavel",
-    "volume": "flavel-works-1820-06",
-    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 6"
+    "kind": "tcp",
+    "id": "B36604",
+    "edition": "Preparation for Sufferings, or, The Best Work in the Worst Times (London, 1681) (Wing/STC per EEBO-TCP B36604)",
+    "scan_alternative": {
+     "shelf": "flavel",
+     "volume": "flavel-works-1820-06",
+     "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 6"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "goodwin-heart-of-christ": {
    "author": "Thomas Goodwin",
    "banner_title": "The Heart of Christ",
    "title": "The Heart of Christ in Heaven towards Sinners on Earth",
-   "first_published": "1651",
+   "first_published": "1642",
    "sets": [
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "goodwin",
-    "volume": "goodwin-works-nichol-04",
-    "edition": "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-66), vol. 4"
+    "kind": "tcp",
+    "id": "A85428",
+    "texts": [
+     2
+    ],
+    "edition": "The Heart of Christ in Heaven, towards Sinners on Earth, printed with Christ Set Forth (London, 1642), the first edition (EEBO-TCP A85428)",
+    "scan_alternative": {
+     "shelf": "goodwin",
+     "volume": "goodwin-works-nichol-04",
+     "edition": "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-66), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; Nichol's vol. 4 is the other witness, not yet collated."
    }
   },
   "goodwin-christ-set-forth": {
@@ -727,10 +814,18 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "goodwin",
-    "volume": "goodwin-works-nichol-04",
-    "edition": "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-66), vol. 4"
+    "kind": "tcp",
+    "id": "A85428",
+    "edition": "Christ Set Forth in His Death, Resurrection, Ascension, Sitting at Gods Right Hand (London, 1642), the first edition (Wing/STC per EEBO-TCP A85428)",
+    "scan_alternative": {
+     "shelf": "goodwin",
+     "volume": "goodwin-works-nichol-04",
+     "edition": "The Works of Thomas Goodwin, D.D. (Edinburgh: James Nichol, 1861-66), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated.",
+    "texts": [
+     1
+    ]
    }
   },
   "boston-crook-in-the-lot": {
@@ -771,10 +866,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "robert-traill",
-    "volume": "rtraill-works-1-2",
-    "edition": "The Works of the late Reverend Robert Traill (Edinburgh: Ogle, 1810), vols 1-2"
+    "kind": "tcp",
+    "id": "A63051",
+    "edition": "A Vindication of the Protestant Doctrine concerning Justification (London, 1692), the first edition (Wing/STC per EEBO-TCP A63051)",
+    "scan_alternative": {
+     "shelf": "robert-traill",
+     "volume": "rtraill-works-1-2",
+     "edition": "The Works of the late Reverend Robert Traill (Edinburgh: Ogle, 1810), vols 1-2"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "venning-sinfulness-of-sin": {
@@ -786,8 +886,9 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "no shelf: find a PD scan (1669 or a 19th-century reprint) on IA."
+    "kind": "tcp",
+    "id": "A64834",
+    "edition": "Sin, the Plague of Plagues, or, Sinful Sin the Worst of Evils (London, 1669), the first edition (Wing/STC per EEBO-TCP A64834)"
    }
   },
   "venning-christs-school": {
@@ -799,21 +900,23 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "no shelf: find a PD scan on IA."
+    "kind": "tcp",
+    "id": "A64811",
+    "edition": "Christ's School (London, 1675), the first edition (Wing/STC per EEBO-TCP A64811)"
    }
   },
   "watson-lords-supper": {
    "author": "Thomas Watson",
    "banner_title": "The Lord's Supper",
-   "title": "The Mystery of the Lord's Supper (from A Body of Practical Divinity)",
-   "first_published": "1692",
+   "title": "The Holy Eucharist, or, The Mystery of the Lord's Supper Briefly Explained",
+   "first_published": "1668",
    "sets": [
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "locate the Lord's Supper sermons inside CCEL's Body of Divinity / Select Works (1855) and extract them."
+    "kind": "tcp",
+    "id": "A65300",
+    "edition": "The Holy Eucharist, or, The Mystery of the Lord's Supper Briefly Explained (London, 1668), the first edition (EEBO-TCP A65300)"
    }
   },
   "watson-heaven-taken-by-storm": {
@@ -825,21 +928,23 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "a 19th-century reprint scan wanted (Select Works 1855 carries 'The Christian Soldier, or Heaven Taken by Storm'; check)."
+    "kind": "tcp",
+    "id": "A65299",
+    "edition": "Heaven Taken by Storm, or, The Holy Violence a Christian Is to Put Forth (London, 1670) (Wing/STC per EEBO-TCP A65299)"
    }
   },
   "watson-great-gain": {
    "author": "Thomas Watson",
    "banner_title": "The Great Gain of Godliness",
-   "title": "The Righteous Man's Weal (on Malachi 3:16-18)",
+   "title": "Religion Our True Interest: Practical Notes upon Malachi 3:16-18",
    "first_published": "1682",
    "sets": [
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "find a PD scan."
+    "kind": "tcp",
+    "id": "A65309",
+    "edition": "Religion Our True Interest, or, Practical Notes upon the Third Chapter of Malachy, the Sixteen, Seventeen and Eighteen Verses (London, 1682), the first edition (EEBO-TCP A65309)"
    }
   },
   "vincent-shorter-catechism": {
@@ -851,10 +956,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "thomas-vincent",
-    "volume": "tvincent-shorter-catechism-1854",
-    "edition": "An Explanation of the Assembly's Shorter Catechism (Philadelphia: Presbyterian Board of Publication, 1854)"
+    "kind": "tcp",
+    "id": "A64986",
+    "edition": "An Explicatory Catechism (London, 1675) (Wing/STC per EEBO-TCP A64986)",
+    "scan_alternative": {
+     "shelf": "thomas-vincent",
+     "volume": "tvincent-shorter-catechism-1854",
+     "edition": "An Explanation of the Assembly's Shorter Catechism (Philadelphia: Presbyterian Board of Publication, 1854)"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "baxter-dying-thoughts": {
@@ -866,8 +976,9 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "Orme's Practical Works vol. 18 carries it (shelf baxter-works-orme-18); Banner's is Benjamin Fawcett's 1761 abridgement (PD) - locate a scan of Fawcett's."
+    "kind": "tcp",
+    "id": "A26921",
+    "edition": "Richard Baxter's Dying Thoughts upon Phil. I. 23 (London, 1683), the first edition (Wing/STC per EEBO-TCP A26921)"
    }
   },
   "swinnock-incomparableness": {
@@ -879,10 +990,15 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ia-extract",
-    "shelf": "swinnock",
-    "volume": "swinnock-works-4",
-    "edition": "The Works of George Swinnock (Edinburgh: James Nichol, 1868), vol. 4"
+    "kind": "tcp",
+    "id": "A62054",
+    "edition": "A Treatise of the Incomparableness of God (London, 1672), the first edition (Wing/STC per EEBO-TCP A62054)",
+    "scan_alternative": {
+     "shelf": "swinnock",
+     "volume": "swinnock-works-4",
+     "edition": "The Works of George Swinnock (Edinburgh: James Nichol, 1868), vol. 4"
+    },
+    "note": "Set from the hand-keyed first edition; the 19th-century collected edition named under scan_alternative is the other witness, not yet collated."
    }
   },
   "bruce-true-peace": {
@@ -894,8 +1010,9 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "no shelf; Wodrow Society's Sermons by Robert Bruce (1843) is PD - find the scan."
+    "kind": "tcp",
+    "id": "A17051",
+    "edition": "The Way to True Peace and Rest, Delivered at Edinborough in xvi. Sermons (London, 1617) (Wing/STC per EEBO-TCP A17051)"
    }
   },
   "bolton-christian-freedom": {
@@ -907,8 +1024,9 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "only EEBO scans (1645/1656) known; needs OCR from long-s type."
+    "kind": "tcp",
+    "id": "A76991",
+    "edition": "The True Bounds of Christian Freedome (London, 1645), the first edition (Wing/STC per EEBO-TCP A76991)"
    }
   },
   "spurgeon-flowers": {
@@ -933,8 +1051,10 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "the 1816 London reprint of the Farewell Sermons is PD; find the scan."
+    "kind": "tcp",
+    "id": "A31961",
+    "edition": "An Exact Collection of Farewel Sermons Preached by the Late London-Ministers (London, 1662) (EEBO-TCP A31961)",
+    "note": "Banner's Sermons of the Great Ejection is a modern selection; this is the 1662 collection those sermons come from, set whole."
    }
   },
   "gurnall-gems": {

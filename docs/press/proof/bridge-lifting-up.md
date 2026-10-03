@@ -2,7 +2,7 @@
 
 `bridge-lifting-up` is set from the OCR of archive.org `worksofrevwillia02bridiala` (leaves 8-286). Proofed by a second engine: every page re-read with Tesseract and collated word by word (2026-10-03).
 
-- Words: 120,405; the two engines agree on 119,687 (99.4%)
+- Words: 120,404; the two engines agree on 119,745 (99.5%)
 - OCR errors fixed where only one engine's reading is a word: **61** (`pipeline/press_rules/bridge-lifting-up.json`, `ocr_fixes`)
 - ABBYY upheld against a Tesseract misread: 130
 - For a person to look at: **176**

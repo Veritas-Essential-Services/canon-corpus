@@ -3471,6 +3471,13 @@
    "to": "affections",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
+  },
+  {
+   "leaf": 198,
+   "from": "jyrom ise",
+   "to": "promise",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
   }
  ],
  "corrections": [
