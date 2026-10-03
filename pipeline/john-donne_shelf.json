@@ -1,0 +1,160 @@
+{
+ "_about": "Public-domain John Donne (1572-1631, Dean of St Paul's) for the Word Hoard: the Devotions upon Emergent Occasions, Death's Duel and the Easter sermon to the Lords clean from CCEL, and Henry Alford's edition of the Works (London: Parker, 1839, 6 vols, chiefly the sermons), raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "d/donne",
+ "_name_words": [
+  "donne",
+  "john"
+ ],
+ "_surname": [
+  "donne"
+ ],
+ "_held": {},
+ "ccel": {
+  "donne-devotions": [
+   "devotions",
+   "Devotions upon Emergent Occasions",
+   ""
+  ],
+  "donne-deaths-duel": [
+   "deaths_duel",
+   "Death's Duel",
+   ""
+  ],
+  "donne-easter-sermon": [
+   "easter",
+   "Sermon Preached to the Lords upon Easter-day, at the Communion",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "donne-works-1": [
+   "drdonnesworks01alfouoft",
+   "The Works of John Donne, ed. Henry Alford, vol. 1 (London: Parker, 1839)"
+  ],
+  "donne-works-2": [
+   "worksjohndonnew09donngoog",
+   "The Works of John Donne, ed. Henry Alford, vol. 2 (London: Parker, 1839)"
+  ],
+  "donne-works-3": [
+   "worksjohndonnew02donngoog",
+   "The Works of John Donne, ed. Henry Alford, vol. 3 (London: Parker, 1839)"
+  ],
+  "donne-works-4": [
+   "worksjohndonned01alfogoog",
+   "The Works of John Donne, ed. Henry Alford, vol. 4 (London: Parker, 1839)"
+  ],
+  "donne-works-5": [
+   "worksjohndonnew01donngoog",
+   "The Works of John Donne, ed. Henry Alford, vol. 5 (London: Parker, 1839)"
+  ],
+  "donne-works-6": [
+   "worksjohndonnew12donngoog",
+   "The Works of John Donne, ed. Henry Alford, vol. 6 (London: Parker, 1839)"
+  ]
+ },
+ "_alternates": {
+  "donne-works": "other scans of the 1839 Alford set: Toronto drdonnesworks02alfouoft and drdonneswork06alfouoft (89% OCR, swapped for Google scans); Google worksjohndonnew08donngoog for vol. 1 (74% OCR, so vol. 1 stays the Toronto scan at 89%); more Google scans (worksjohndonnew*donngoog, worksjohndonned0*alfogoog)"
+ },
+ "_excluded": {
+  "donne-spital": "CCEL spital: 6 KB, a fragment, not the sermon"
+ },
+ "_checks": {
+  "donne-devotions": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "donne-deaths-duel": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "donne-easter-sermon": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "donne-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "donne-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "donne-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "donne-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "donne-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "donne-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "donne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

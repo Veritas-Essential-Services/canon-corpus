@@ -1265,6 +1265,19 @@ Slugs `fuller-*`.
 | The Church History of Britain, 3 vols (London: Tegg, 1837) | have-raw | IA (identifiers in the shelf) |
 | The Holy State and the Profane State (London: Pickering, 1840) | have-raw | IA |
 | The History of the Worthies of England | not looked for | |
+
+
+## John Donne (round 8, my pick, 2026-10-02)
+
+Slugs `donne-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Devotions upon Emergent Occasions | have-clean | CCEL |
+| Death's Duel | have-clean | CCEL |
+| Sermon Preached to the Lords upon Easter-day | have-clean | CCEL |
+| Works, ed. Henry Alford, 6 vols (London: Parker, 1839) | have-raw | IA (identifiers in the shelf) |
+| Sermon at the Spital (CCEL) | excluded | a fragment |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
