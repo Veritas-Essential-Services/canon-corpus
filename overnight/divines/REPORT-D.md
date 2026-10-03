@@ -306,3 +306,6 @@
 
 ## 2026-10-02 19:50 CDT — lal-behari-day: done
 - 1/1 fetched (Gutenberg 38488), 387 units, 0 ~2 ids.
+
+## 2026-10-02 19:50 CDT — crooke-rouse: done
+- 1/1 fetched (Gutenberg 30635), 1,395 units, 9 ~2 ids.
