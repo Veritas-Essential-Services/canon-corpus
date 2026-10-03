@@ -160,6 +160,20 @@ check("digit class: Ps 134:3 is told by shape (Ps 184 is no psalm, 134:8 no vers
       B.digit_class("kjv:Ps.134.3", shape) == "3/8, shape tells")
 check("digit class: Gen 1:1 has no 3/8", B.digit_class("kjv:Gen.1.1", shape) == "no-3/8")
 
+# ---- cited-by: the fathers' OT links are provisional until PR #7 is fixed
+import tempfile
+with tempfile.TemporaryDirectory() as d:
+    lf = os.path.join(d, "links.jsonl")
+    with open(lf, "w") as f:
+        f.write(json.dumps({"unit": "x-lat:1", "links": [
+            {"ref": "Ps 22:1", "rule": "note/vulgate", "target": "Ps.22.1"},
+            {"ref": "Matt 27:46", "rule": "note/nt", "target": "Matt.27.46"},
+            {"ref": "Mark 18:6", "rule": "note/nt", "why": "no such verse"}]}) + "\n")
+    cb, cnt = B.cited_by([], shape, None, lf)
+    check("cited-by: a father's OT citation is provisional", cb["kjv:Ps.22.1"][0].get("provisional") is True)
+    check("cited-by: a father's NT citation is not", "provisional" not in cb["kjv:Matt.27.46"][0])
+    check("cited-by: an unresolved note is not a citation", cnt["fathers-notes"] == 2)
+
 # ---- the committed data
 if os.path.exists(B.TSK_FILE) and os.path.exists(B.MANIFEST):
     blob = open(B.TSK_FILE, "rb").read()

@@ -77,6 +77,12 @@ SCANS = {
     },
 }
 ORDER = ("rato", "drra")      # rato's catchwords and order are used where both have a reference
+# PR #7's Old Testament links are under review (2026-10-03: 30 of 64 checked
+# were off -- line numbers read as verses, numbering misjudged, "et" and
+# dashes misparsed). Until #7 is fixed every fathers-notes citation of an OT
+# verse carries "provisional": true; rebuild with the fixed links and drop
+# this set.
+OT_BOOKS = set(T.ORDER[:39])
 NEAR = 6                       # verses apart that a reference may be "the same one, misplaced"
 
 RIGHTS = {
@@ -414,9 +420,11 @@ def cited_by(tsk_rows, shape, books_dir, links_file):
                 row = json.loads(raw)
                 for ln in row["links"]:
                     if "target" in ln:
-                        out["kjv:" + ln["target"]].append(
-                            {"by": row["unit"], "source": "fathers-notes", "rule": ln["rule"],
-                             "ref": ln["ref"]})
+                        c = {"by": row["unit"], "source": "fathers-notes", "rule": ln["rule"], "ref": ln["ref"]}
+                        if ln["target"].split(".")[0] in OT_BOOKS:
+                            c["provisional"] = True
+                            counts["fathers-notes-ot-provisional"] += 1
+                        out["kjv:" + ln["target"]].append(c)
                         counts["fathers-notes"] += 1
     if books_dir and os.path.isdir(books_dir):
         for name in sorted(os.listdir(books_dir)):
@@ -548,6 +556,8 @@ def build(train=False, books_dir=None, links_file=None, write=True):
                     if books_dir and os.path.isdir(books_dir) else None,
                 },
                 "rights": RIGHTS["cited_by"],
+                "provisional": "fathers-notes citations of Old Testament verses: PR #7's OT links are "
+                               "under review (30 of 64 checked were off); rebuild when #7 is fixed",
             },
         },
     }

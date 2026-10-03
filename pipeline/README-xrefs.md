@@ -154,7 +154,12 @@ The first build covers 30,920 verses with 507,860 citations:
 - 4,407 from book links, almost all the catenae.
 
 The fathers' links were built from PR #7's head (fbb3bd1); their sha256 is in
-the manifest.
+the manifest. **The fathers' Old Testament citations are provisional:** a
+review of #7 found 30 of 64 checked OT links off (footnote line numbers read
+as verses, numbering misjudged, "et" and dashes misparsed), so each carries
+`"provisional": true` until #7 is fixed. Rerunning is one command once it is:
+`tag_fathers.py`, then `build_xrefs.py` (the Treasury stages are cached), then
+drop `OT_BOOKS` in build_xrefs.py.
 
 ## 6. How it was measured
 
