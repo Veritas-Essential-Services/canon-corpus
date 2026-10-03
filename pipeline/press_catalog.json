@@ -186,7 +186,17 @@
     "kind": "ia-extract",
     "shelf": "flavel",
     "volume": "flavel-works-1820-04",
-    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 4"
+    "edition": "The Whole Works of John Flavel (London: W. Baynes, 1820), vol. 4 (University of Toronto scan; the volume's other scan, wholeworksofjohn04flav, had no OCR file on archive.org on 2026-10-03)",
+    "ia": "wholeworkstowhic04flavuoft",
+    "leaves": [
+     342,
+     502
+    ],
+    "titlepage": {
+     "leaf": 342,
+     "from": "^DIVINE CONDUCT",
+     "until": "^THE EPISTLE DEDICATORY"
+    }
    }
   },
   "flavel-facing-grief": {
@@ -221,13 +231,18 @@
    ],
    "source": {
     "kind": "ia-extract",
-    "shelf": "alleine",
-    "volume": "alleine-alarm-1834",
-    "edition": "An Alarm to Unconverted Sinners (New York: American Tract Society, 1834)",
+    "edition": "An Alarm to Unconverted Sinners (Glasgow: Chalmers and Collins, 1824, second edition; Collins's Select Christian Authors). Andrew Thomson's introductory essay is not set.",
     "leaves": [
-     6,
-     170
-    ]
+     59,
+     382
+    ],
+    "ia": "alarmtounconvert00alle",
+    "end": "^FINIS",
+    "titlepage": {
+     "leaf": 11,
+     "from": "^AN$"
+    },
+    "refused": "The relay shelf's scan (American Tract Society, 1834) says on its contents page: 'In this Edition some obsolete words and phrases are altered, and a few passages omitted.' An altered text is not the author's, so it is not used."
    }
   },
   "bunyan-prayer": {
@@ -530,7 +545,8 @@
     "kind": "gutenberg",
     "id": 24238,
     "edition": "The Works of the Rev. Hugh Binning (Project Gutenberg 24238)",
-    "extract": "TREATISE OF CHRISTIAN LOVE"
+    "extract": "A TREATISE OF CHRISTIAN LOVE",
+    "extract_end": "SEVERAL SERMONS UPON THE MOST IMPORTANT"
    }
   },
   "sibbes-glorious-freedom": {

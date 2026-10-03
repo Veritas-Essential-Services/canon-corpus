@@ -72,13 +72,18 @@ class Conv:
         self.nfoot = 0
         self.section = None
         self.ctx = {}
+        self.text_refs = False   # also read references printed as plain text
 
     # ------------------------------------------------------------ inline
     def inline(self, node):
         out = []
         for c in node.children:
             if isinstance(c, str):
-                out.append(esc(ws(c)))
+                md = esc(ws(c))
+                if self.text_refs:
+                    from press_text import tag_refs
+                    md = tag_refs(md, self)
+                out.append(md)
                 continue
             t, a = c.tag, c.attrs
             style = (a.get("style") or "").lower()
@@ -262,6 +267,11 @@ def convert(path, slug):
     if m:
         meta["file_as"] = ws(m.group(1)).strip()
     c = Conv(slug)
+    # Some CCEL files tag almost none of their references (Baxter's Reformed
+    # Pastor carries 14 scripRefs). Under one per 2,000 words the plain-text
+    # reader runs too; where scripRef markup exists it is never read twice.
+    words = len(re.findall(r"[A-Za-z]+", re.sub(r"<[^>]+>", " ", body)))
+    c.text_refs = body.count("<scripRef") < words / 2000
     tops = [n for n in root.iter() if n.tag == "div1"]
     content = [n for n in tops if not SKIP_DIV_TITLES.match(n.attrs.get("title", ""))]
     if len(content) == 1:

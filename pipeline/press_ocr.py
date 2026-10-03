@@ -16,8 +16,9 @@ What the Press does to the OCR, and nothing more:
   - drops printers' signature marks at the foot of a page ("VOL. I. C")
   - takes smaller-type paragraphs at the foot of a page as that page's
     footnotes, and ties each to its call mark in the text when the marks and
-    the notes can be paired one-to-one; otherwise the notes print after the
-    chapter (honestly unplaced) and the QA counts them
+    the notes can be paired one-to-one (call marks the second engine saw are
+    added first, where unambiguous); otherwise the notes print at the foot of
+    their page, as "Notes to p. N", and the QA counts them as page notes
   - rejoins a word hyphenated across a line end, unless the volume itself
     prints that word hyphenated elsewhere (so "self-denial" stays)
   - rejoins a paragraph broken by a page turn
@@ -27,7 +28,7 @@ What the Press does to the OCR, and nothing more:
     "ocr_fixes", each tied to a leaf, from press_proof's two-engine collation)
 Spelling, capitals and punctuation are otherwise the printed page's.
 """
-import json, os, re, statistics, sys
+import difflib, json, os, re, statistics, sys
 from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -64,10 +65,37 @@ def body_size(pages):
                         c[round(r[3])] += len(r[0])
     return c.most_common(1)[0][0] if c else 10
 
-RE_HEAD_NUM = re.compile(r"^\W{0,2}[\dSOlIoJ][\dSOlIoJ ]{0,4}\W{0,2}\s|\s\W{0,2}[\dSOlIoJ][\dSOlIoJ ]{0,4}\W{0,2}$")
+RE_HEAD_NUM = re.compile(r"^\W{0,2}[\dSOlIoJ][\dSOlIoJ ]{0,4}\W{0,2}\s|\s\W{0,2}[\dSOlIoJ][\dSOlIoJ ]{0,4}\W{0,2}$"
+                         r"|^\W{0,2}\d[\dSOlIoJ]{0,3}\W{0,2}$")   # or the page number alone
 RE_SIGNATURE = re.compile(r"^(VOL\.?|Vol\.?|VOI\.)\s*[IVXL1]+\.?\s*[A-Z2-9]{0,3}\.?$")
 
-def classify_page(page, body_fs):
+def head_key(t):
+    return re.sub(r"[^a-z]", "", t.lower())
+
+def like_head(t, known):
+    """A garbled running head ("494 divine conduct; on,") is still the volume's
+    running head when its letters are close to one read cleanly elsewhere."""
+    k = head_key(t)
+    return len(k) >= 6 and any(difflib.SequenceMatcher(None, k, h).ratio() >= 0.6 for h in known)
+
+def column(body):
+    """The text column of a page: left and right edges of its full lines."""
+    ls = [l["box"] for p in body if len(p["lines"]) >= 3 for l in p["lines"]]
+    if not ls:
+        return None
+    return statistics.median(b[0] for b in ls), statistics.median(b[2] for b in ls)
+
+def centred_italic(par, col):
+    """A sub-heading set as a short centred italic line ("First Demand.")."""
+    runs = [r for l in par["lines"] for r in l["runs"] if r[0].strip()]
+    t = par_text(par).strip()
+    if not col or len(par["lines"]) != 1 or not runs or not all(r[1] for r in runs) or len(t.split()) > 7:
+        return False
+    w = col[1] - col[0]
+    l, r = par["box"][0], par["box"][2]
+    return l > col[0] + 0.12 * w and r < col[1] - 0.12 * w and abs((l + r) / 2 - (col[0] + col[1]) / 2) < 0.12 * w
+
+def classify_page(page, body_fs, known_heads=()):
     """-> (running_head_text or None, body pars, note pars)"""
     pars = [p for p in page["pars"] if par_text(p).strip()]
     head = None
@@ -75,10 +103,17 @@ def classify_page(page, body_fs):
         p0 = pars[0]
         t0 = par_text(p0).strip()
         top = p0["box"][1] < page["h"] * 0.12 if page["h"] else True
-        if top and len(p0["lines"]) == 1 and (RE_HEAD_NUM.search(t0) or (t0.isupper() and len(t0) < 70)):
+        if top and len(p0["lines"]) == 1 and (RE_HEAD_NUM.search(t0) or (t0.isupper() and len(t0) < 70)
+                                              or like_head(t0, known_heads)):
             head = t0
             pars = pars[1:]
-    while pars and (RE_SIGNATURE.match(par_text(pars[-1]).strip()) or
+    def foot_mark(p):
+        # a short line at the very foot: a gathering mark ("Aa3", "Dd 3"), a
+        # volume signature ("VOL. IV."), never a note or text
+        t = par_text(p).strip()
+        low = p["box"][1] > page["h"] * 0.86 if page["h"] else False
+        return (len(p["lines"]) == 1 and len(t) <= 14 and low and len(pars) > 1)
+    while pars and (RE_SIGNATURE.match(par_text(pars[-1]).strip()) or foot_mark(pars[-1]) or
                     not re.search(r"[A-Za-z0-9]{2}", par_text(pars[-1]))):
         pars = pars[:-1]     # a signature mark ("VOL. I. A"), or specks read as text
     notes = []
@@ -212,21 +247,33 @@ def convert(path, slug, e):
     carry = None    # a paragraph broken by the page turn
     carry_leaf = None
     tp = src.get("titlepage") or {}
+    if tp and tp["leaf"] < a:
+        rng = [pages[tp["leaf"]]] + rng     # the title page stands before the treatise's leaves
+    ended = False
+    # the running heads read cleanly, to recognise the garbled ones
+    clean = Counter(head_key(re.sub(r"\d", "", h)) for h in
+                    (classify_page(p, bfs)[0] for p in rng) if h and re.search(r"\d", h))
+    known_heads = [k for k, n in clean.most_common(8) if n >= 3 and len(k) >= 6]
     for page in rng:
+        if ended:
+            break
         if page["i"] == tp.get("leaf"):
             # the edition's own title page: every paragraph from `from` on is a
             # title-page line; nothing on it is a heading or a note
             pars = [p for p in page["pars"] if par_text(p).strip()]
             k0 = next((k for k, p in enumerate(pars) if re.search(tp["from"], par_text(p).strip())), None)
             if k0 is not None:
-                before, pars = pars[:k0], pars[k0:]
-                page = dict(page, pars=before)
+                # `until`: the title page stops at the paragraph that matches it
+                k1 = next((k for k, p in enumerate(pars) if k > k0 and tp.get("until")
+                           and re.search(tp["until"], par_text(p).strip())), len(pars))
+                before, pars, after = pars[:k0], pars[k0:k1], pars[k1:]
+                page = dict(page, pars=before + after)
                 fixes = fixes_by_leaf.get(page["i"], [])
                 d.blocks.append({"k": "titlepage_start", "section": "tp"})
                 for p in pars:
                     md = par_md(p, keep, words, fixes)
-                    if not md.strip("/\\|.,' "):
-                        continue
+                    if not re.search(r"[A-Za-z]{2}", md):
+                        continue      # a rule or an ornament read as specks
                     # display lines by their form, not their measured size (a
                     # facsimile title page is reduced, and its sizes don't separate)
                     t = par_text(p).strip()
@@ -237,33 +284,59 @@ def convert(path, slug, e):
                 d.blocks.append({"k": "titlepage_end", "section": "tp"})
         n0 = len(d.blocks)
         from_leaf = carry_leaf if carry is not None else None
-        head, body, notes = classify_page(page, bfs)
+        head, body, notes = classify_page(page, bfs, known_heads)
         pn = printed_page(head)
         fixes = fixes_by_leaf.get(page["i"], [])
         anchor = f"[]{{#{slug}-p{re.sub(r'[^0-9A-Za-z]', '', pn or str(page['i']))} .pb n=\"{pn or ''}\" leaf=\"{page['i']}\"}}"
         page_notes = [par_md(n, keep, words, fixes) for n in notes]
+        col = column(body)
         first_body = True
+        took = False      # did any of this page's text go into the treatise?
         for par in body:
             raw = par_text(par).strip()
             if not started:
-                if re.search(src["start"], raw):
+                if src.get("start") and re.search(src["start"], raw):
                     started = True
                 else:
                     continue
             if src.get("end") and re.search(src["end"], raw) and page["i"] >= b - 1:
-                started = False
+                started, ended = False, True
                 break
+            took = True
             md = par_md(par, keep, words, fixes)
             if not md:
                 continue
             fs = par_fs(par)
             letters = re.sub(r"[^A-Za-z]", "", raw)
-            is_head = (len(raw) < 140 and len(par["lines"]) <= 3 and letters and
-                       (letters.isupper() or fs > bfs * 1.15))
-            if is_head:
+            # a heading is set in capitals, or in larger type and starting with a
+            # capital over at least two words (a misread size never makes one
+            # word a heading)
+            is_head = (len(raw) < 140 and len(par["lines"]) <= 3 and
+                       (len(letters) >= 3 or raw.strip(" .,").upper() in ("AN", "TO", "OR", "OF", "IN", "BY")) and
+                       (letters.isupper() or (fs > bfs * 1.15 and raw.lstrip("*_")[:1].isupper()
+                                              and len(raw.split()) >= 2)))
+            sub = centred_italic(par, col) and len(letters) >= 3
+            is_head = is_head and not sub
+            words_n = len(raw.split())
+            if is_head and col and words_n <= 4 and d.blocks and d.blocks[-1].get("k") == "para" \
+                    and par["box"][0] > (col[0] + col[1]) / 2 - 0.05 * (col[1] - col[0]):
+                # a name set right, after the text: the signature ("RICHARD BAXTER.")
+                d.add("signature", md)
+                continue
+            if is_head or sub:
                 if carry:
                     d.add("para", guard_start(tag_refs(carry, d))); carry = None
-                d.heading(md, level=1)
+                if sub:
+                    md = md.strip("*")    # the heading's own style replaces the italic
+                prev = [x for x in d.blocks[-2:] if x.get("k") != "pb"]
+                if not sub and prev and prev[-1].get("k") == "heading" and prev[-1]["level"] == 1 \
+                        and d.blocks[-1].get("k") in ("heading", "pb") and len(prev[-1]["md"]) < 60 \
+                        and not prev[-1]["md"].rstrip("*").endswith("."):
+                    # a title set over several lines ("AN EPISTLE" / "TO THE" /
+                    # "UNCONVERTED READER") is one heading
+                    prev[-1]["md"] += " " + md
+                else:
+                    d.heading(md, level=2 if sub else 1)
                 if first_body:
                     d.add("pb", anchor, n=pn or "", leaf=page["i"]); first_body = False
                 continue
@@ -286,16 +359,18 @@ def convert(path, slug, e):
             if blk.get("k") == "para" and "leaves" not in blk:
                 blk["leaves"] = sorted({page["i"], from_leaf if from_leaf is not None else page["i"]})
                 from_leaf = None
-        # footnotes of this page
+        # footnotes of this page (none from a page the treatise has not reached)
         calls = []
-        if page_notes:
+        if page_notes and took:
             for k, nmd in enumerate(page_notes):
                 nnote += 1
                 lab = f"n{nnote}"
-                d.notes[lab] = tag_refs(re.sub(r"^[" + re.escape(NOTE_MARKS) + r"\d\s]{1,3}", "", nmd).strip(), d)
+                # the note's own mark ("\\* ", "† "), and nothing more: never an
+                # italic's opening * ("*Ibid.*") nor the "1" of "1 Cor."
+                d.notes[lab] = tag_refs(re.sub(r"^(?:\\[*^]|[†‡§‖¶•°])\s*", "", nmd).strip(), d)
                 calls.append(lab)
             d.blocks.append({"k": "pagenotes", "labels": calls, "section": d.section, "leaf": page["i"],
-                             "page": pn or ""})
+                             "page": pn or "", "end_page": ended})
     if carry:
         d.add("para", guard_start(tag_refs(carry, d)))
         d.blocks[-1]["leaves"] = [carry_leaf]
@@ -334,7 +409,9 @@ def attach_note_calls(d, ident=None):
     for bi, b in enumerate(blocks):
         if b.get("k") != "pagenotes":
             continue
-        paras = [j for j in range(bi) if blocks[j].get("k") == "para" and b["leaf"] in blocks[j].get("leaves", [])]
+        # every paragraph standing on this leaf, including one carried over the
+        # page turn (added after this block, when the next page completes it)
+        paras = [j for j in range(len(blocks)) if blocks[j].get("k") == "para" and b["leaf"] in blocks[j].get("leaves", [])]
         saved = {pj: blocks[pj]["md"] for pj in paras}
 
         def on_page(pj, m, leaf=b["leaf"]):
@@ -374,6 +451,9 @@ def attach_note_calls(d, ident=None):
             # often as they see it), so the notes cannot be tied to a word.
             # They print where the page printed them: after the page's text,
             # marked as that page's notes, never guessed into a sentence.
+            if b.get("end_page"):
+                d.problems.append(f"leaf {b['leaf']}: the treatise ends on this page; {len(b['labels'])} "
+                                  "unplaced note(s) there may belong to what follows")
             blocks[bi] = {"k": "pagefoot", "page": b.get("page", ""),
                           "notes": [d.notes.pop(lab) for lab in b["labels"]]}
     d.blocks = [x for x in blocks if x.get("k") != "pagenotes"]

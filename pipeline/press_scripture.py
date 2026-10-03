@@ -96,7 +96,8 @@ RE_REF = re.compile(
 def parse_report(printed, context_book=None):
     """(ids, problems). `printed` is one reference string as the book prints it."""
     ids, problems = [], []
-    s = printed.replace("–", "-").replace("—", "-").strip().rstrip(";.")
+    s = printed.replace("–", "-").replace("—", "-").strip().rstrip(";.:")
+    s = re.sub(r"(?i)^\s*song\s+of\s+(?:solomon|songs|sol)\.?", "Song", s)
     m = RE_REF.match(s)
     if not m:
         return [], [f"unparsed: {printed!r}"]
@@ -107,6 +108,9 @@ def parse_report(printed, context_book=None):
     if ch is None:
         return [], [f"bad chapter in {printed!r}"]
     rest = m.group("rest").strip().rstrip(".")
+    if not rest and len(VERSES[osis]) == 1 and ch > 1:
+        # a one-chapter book is cited by verse: "Jude 3", "Philem. 10"
+        rest, ch = str(ch), 1
     if not rest:
         if valid(osis, ch):
             return [f"{osis}.{ch}"], []
@@ -148,6 +152,12 @@ def check_osis(osis_ref):
         a, _, b = tok.partition("-")
         pa, pb = a.split("."), (b.split(".") if b else None)
         try:
+            if len(pa) == 2 and pb and len(pb) == 2:
+                # a chapter range, "Rom.8-Rom.9": each chapter, each checked
+                for c_ in range(int(pa[1]), int(pb[1]) + 1):
+                    ok = valid(pa[0], c_)
+                    (ids if ok else problems).append(f"{pa[0]}.{c_}" if ok else f"no such chapter: {pa[0]} {c_}")
+                continue
             if len(pa) == 2:
                 ok = valid(pa[0], int(pa[1]))
                 (ids if ok else problems).append(tok if ok else f"no such chapter: {tok}")

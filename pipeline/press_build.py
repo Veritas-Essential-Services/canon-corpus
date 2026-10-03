@@ -75,8 +75,8 @@ def source_file(slug, e):
         if "leaves" not in s:
             raise RuntimeError(f"{slug}: the catalog does not yet name the treatise's leaves in its volume")
         import press_abbyy
-        shelf = json.load(open(os.path.join(HERE, f"{s['shelf']}_shelf.json"), encoding="utf-8"))
-        ident = s.get("ia") or shelf["internet_archive"][s["volume"]][0]
+        ident = s.get("ia") or json.load(open(os.path.join(HERE, f"{s['shelf']}_shelf.json"),
+                                              encoding="utf-8"))["internet_archive"][s["volume"]][0]
         press_abbyy.load(ident)
         return os.path.join(SRC, "ia", f"{ident}_abbyy.gz")
     raise RuntimeError(f"{slug}: source kind {s['kind']!r} is not settable ({s.get('why', '')})")
@@ -157,11 +157,17 @@ def qa(doc, md):
     q["ref_problems"] = doc.get("problems", [])
     body = [b["md"] for b in doc["blocks"] if b.get("k") in ("para", "argument", "quote")]
     q["paragraphs"] = len(body)
-    text = "\n".join(body + list(doc["notes"].values()))
+    page_notes = [n for b in doc["blocks"] if b.get("k") == "pagefoot" for n in b["notes"]]
+    text = "\n".join(body + list(doc["notes"].values()) + page_notes)
     plain = press_render.plain(text)
     q["words"] = len(re.findall(r"[A-Za-zÀ-ɏ]+", plain))
     q["footnotes"] = len(doc["notes"])
-    used = set(re.findall(r"\[\^([^\]]+)\]", "\n".join(body)))
+    q["page_notes"] = len(page_notes)    # notes kept at their page's foot: the scan lost their calls
+    # a call can sit in any block: a heading, a list item, a table cell
+    every = [b.get("md") or "" for b in doc["blocks"]] + \
+        [it for b in doc["blocks"] for it in b.get("items", [])] + \
+        [c for b in doc["blocks"] for r in b.get("rows", []) for c in r]
+    used = set(re.findall(r"\[\^([^\]]+)\]", "\n".join(every)))
     q["footnotes_unreferenced"] = sorted(set(doc["notes"]) - used)
     q["footnotes_orphaned"] = len(q["footnotes_unreferenced"])
     q["markup_debris"] = [m.group(0) for m in re.finditer(r"&[a-z]+;|<[a-zA-Z/][^>]{0,30}>|\{\.|\]\{(?![.#]|lang=)", plain)][:20]

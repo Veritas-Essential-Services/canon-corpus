@@ -19,7 +19,10 @@ from press_scripture import parse_context
 # ------------------------------------------------------------------ shared
 # A printed reference: "Psa 66:17,18", "I Cor 14:15", "Rom. viii. 13", "2 Cor. v. 17"
 _BOOKWORD = r"(?:[1-3]|I{1,3})?\s?[A-Z][a-z]{1,12}\.?"
-RE_REF_ARABIC = re.compile(r"(?<![A-Za-z])(" + _BOOKWORD + r")\s(\d{1,3}):(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)")
+RE_REF_ARABIC = re.compile(r"(?<![A-Za-z])(" + _BOOKWORD + r")\s(\d{1,3})(?::|\.(?=\d))(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)")
+# a note call: digits glued to a verse ("Eph 1:192") or to a word/closing mark
+RE_CALLS = re.compile(r"(" + _BOOKWORD + r")\s(\d{1,3}):(\d{2,5})(?=[\s,.;)]|$)"
+                      r"|(?<=[A-Za-z.;:,!?’”)\]])\(?(\d{1,3})\)?(?=[\s,.;:—”’)]|$)")
 RE_REF_ROMAN = re.compile(r"(?<![A-Za-z])(" + _BOOKWORD + r")\s([ivxlc]{1,7})\.\s?(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)\b")
 
 def tag_refs(text_md, conv):
@@ -70,8 +73,13 @@ def inline_plain(s):
             out.append(esc(p))
     return "".join(out)
 
+RE_DIVISION = re.compile(r"(?:CHAPTER|Chapter|Chap\.|SERMON|Sermon|Section|Part|Book|Lecture|Letter)\s+[IVXLC\d]+\.?"
+                         r"|To [Tt]he (?:Christian )?Reader\.?|The (?:Preface|Epistle Dedicatory)\.?")
+
 def is_heading(par):
     letters = re.sub(r"[^A-Za-z]", "", par)
+    if RE_DIVISION.fullmatch(par.strip()):
+        return True       # PG often sets these in title case
     return (len(par) < 120 and len(letters) >= 3 and letters.isupper()
             and not re.match(r"^[IVXLC]+\.?$", par.strip()))
 
@@ -86,26 +94,43 @@ def convert_gutenberg(path, slug, e):
     body = pg_body(raw)
     marker = e["source"].get("extract")
     if marker:
-        body = extract_offor(body, marker)
+        body = extract_offor(body, marker, e["source"].get("extract_end"))
     pars = [p.strip("\n") for p in re.split(r"\n\s*\n", body) if p.strip()]
     # footnotes: a "FOOTNOTES:" line, then "N text" / "[N] text" paragraphs
     notes_raw = {}
     if "FOOTNOTES:" in pars:
         k = pars.index("FOOTNOTES:")
         for p in pars[k + 1:]:
-            m = re.match(r"^\[?(\d{1,3})[\].]?\s+(.*)$", p, re.S)
+            m = re.match(r"^\[?(\d{1,3})[\].]?\s+(.*)$", p.strip(), re.S)
             if m:
                 notes_raw[m.group(1)] = m.group(2)
             elif notes_raw:
                 last = list(notes_raw)[-1]
                 notes_raw[last] += "\n\n" + p
         pars = pars[:k]
+        if e["source"].get("extract_end"):
+            # a treatise cut from a volume whose notes are numbered through the
+            # whole volume: only the notes this treatise calls are its own
+            text = "\n".join(pars)
+            notes_raw = {n: v for n, v in notes_raw.items()
+                         if re.search(r"(?<=[A-Za-z.;:,!?’”)\]])\(?" + n + r"\)?(?=[\s,.;:—”’)]|$)", text)}
+            # a stray number that looks like a call ("ver.7") is not one: the
+            # treatise's notes are one run of near-consecutive numbers
+            runs, cur = [], []
+            for n in sorted(map(int, notes_raw)):
+                if cur and n - cur[-1] > 5:
+                    runs.append(cur); cur = []
+                cur.append(n)
+            runs.append(cur)
+            best = max(runs, key=len)
+            notes_raw = {k: v for k, v in notes_raw.items() if int(k) in best}
     d = Doc(slug)
     # title page: the opening run of capitalised lines, up to the first real paragraph
     tp = []
     while pars and len(tp) < 16:
         flat0 = re.sub(r"\s+", " ", pars[0])
-        if re.match(r"^(ADVERTISEMENT|PREFACE|TO THE READER|THE EPISTLE|EPISTLE|INTRODUCTION|DEDICATION)", flat0) \
+        if re.match(r"^(ADVERTISEMENT|PREFACE|TO THE (?:CHRISTIAN )?READER|THE EPISTLE|EPISTLE|INTRODUCTION|DEDICATION|CHAPTER)",
+                    flat0, re.I) \
                 or (len(flat0) > 260 and not is_heading(flat0)):
             break
         tp.append(pars.pop(0))
@@ -114,7 +139,7 @@ def convert_gutenberg(path, slug, e):
         for t in tp:
             d.blocks.append({"k": "tp", "md": inline_plain(t), "cls": None, "section": "tp"})
         d.blocks.append({"k": "titlepage_end", "section": "tp"})
-    expect = [1]
+    expect = [min(map(int, notes_raw), default=1)]
     def take(n):
         """A note call is accepted only near where the sequence says it should
         be (a missing note in the source must not derail the rest)."""
@@ -124,28 +149,37 @@ def convert_gutenberg(path, slug, e):
             return True
         return False
     def note_call(m):
-        n = int(m.group(1))
-        return f"{m.group(0)[:-len(m.group(1))]}[^n{n}]" if take(n) else m.group(0)
+        n = int(m.group(4))
+        return f"[^n{n}]" if take(n) else m.group(0)
     def glued_to_verse(m):
-        # "Ephesians 1:192": verse 19 with note 2 glued on, when 192 is no verse
-        book, ch, vs, tail = m.group(1), m.group(2), m.group(3), m.group(4)
+        # "Ephesians 1:192": verse 19 with note 2 glued on, when 192 is no verse.
+        # Every split is tried; the one whose note is the next expected wins
+        # (1 + note 92 is a real verse too, but note 92 is not due).
+        book, ch, digits = m.group(1), m.group(2), m.group(3)
         from press_scripture import parse_report
-        if parse_report(f"{book} {ch}:{vs}{tail}")[0] or not parse_report(f"{book} {ch}:{vs}")[0]:
+        if parse_report(f"{book} {ch}:{digits}")[0]:
             return m.group(0)
-        return f"{book} {ch}:{vs}[^n{int(tail)}]" if take(int(tail)) else m.group(0)
+        splits = [(digits[:k], int(digits[k:])) for k in range(1, len(digits))
+                  if digits[k] != "0" and parse_report(f"{book} {ch}:{digits[:k]}")[0]]
+        splits.sort(key=lambda x: (x[1] != expect[0], abs(x[1] - expect[0])))
+        for vs, n in splits:
+            if take(n):
+                return f"{book} {ch}:{vs}[^n{n}]"
+        return m.group(0)
     for p in pars:
         flat = re.sub(r"\s+", " ", p).strip()
         if is_heading(flat):
             if re.fullmatch(r"(?:[A-Z][A-Za-z]*,? \d{4}\. )?(?:[A-Z][A-Za-z.]*\.? ?){1,4}\.?", flat) \
-                    and d.blocks and d.blocks[-1]["k"] == "para" and len(flat.split()) <= 5:
+                    and not RE_DIVISION.fullmatch(flat) and d.blocks and d.blocks[-1]["k"] == "para" and len(flat.split()) <= 5:
                 d.add("signature", inline_plain(flat))   # "GEO. OFFOR.", "HACKNEY, 1850. GEORGE OFFOR."
                 continue
             d.heading(inline_plain(flat), level=1)
             continue
         md = inline_plain(flat)
         # footnote calls: digits glued to a word or closing punctuation, in sequence
-        md = re.sub(r"(" + _BOOKWORD + r")\s(\d{1,3}):(\d{1,3}?)(\d{1,2})(?=[\s,.;)]|$)", glued_to_verse, md)
-        md = re.sub(r"(?<=[A-Za-z.;!?’”)\]])(\d{1,3})(?=[\s,.;:—”’)]|$)", note_call, md)
+        # both kinds of call in one left-to-right pass, so the sequence check
+        # sees them in printed order
+        md = RE_CALLS.sub(lambda m: glued_to_verse(m) if m.group(1) else note_call(m), md)
         md = tag_refs(md, d)
         d.add("para", guard_start(md))
     for k, v in notes_raw.items():
@@ -156,11 +190,24 @@ def convert_gutenberg(path, slug, e):
         d.heading(esc(e["title"]))
     return d.out()
 
-def extract_offor(body, marker):
+def extract_offor(body, marker, end=None):
     """One treatise out of an Offor Works volume: from its title line (the
     occurrence in the body, not the volume's contents list) through its own
-    FOOTNOTES block, up to the next treatise's title."""
+    FOOTNOTES block, up to the next treatise's title. With `end` (the next
+    work's title line), the treatise stops there and the volume's one
+    FOOTNOTES block, wherever it stands, is carried along."""
     lines = body.split("\n")
+    if end:
+        # markers match case and all: a volume's contents list prints the same
+        # titles in title case
+        start = next((i for i, l in enumerate(lines) if l.strip().startswith(marker)), None)
+        stop = next((i for i, l in enumerate(lines) if start is not None and i > start
+                     and l.strip().startswith(end)), None)
+        if start is None or stop is None:
+            raise RuntimeError(f"extract markers {marker!r} / {end!r} not found")
+        fn = next((i for i, l in enumerate(lines) if l.strip().rstrip(":") == "FOOTNOTES"), None)
+        notes = ["", "FOOTNOTES:", ""] + lines[fn + 1:] if fn is not None else []
+        return "\n".join(lines[start:stop] + notes)
     starts = [i for i, l in enumerate(lines) if l.strip().upper().startswith(marker.upper())]
     # the contents list is indented and early; the title proper is followed by
     # a long text within 400 lines

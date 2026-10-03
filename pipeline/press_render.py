@@ -97,7 +97,11 @@ def render(doc, meta):
             lvl = max(1, min(6, b["level"]))
             attrs = []
             # house style: a heading carries no closing full stop ("Chapter I." -> "Chapter I")
-            b = dict(b, md=re.sub(r"(?<![A-Z][a-z]\.)(?<!\bp)\.\s*$", "", b["md"].strip()))
+            # (an abbreviation keeps its stop: "St.", "Mr.", "p.", "ver.")
+            h = b["md"].strip()
+            if not re.search(r"\b(?:St|Mr|Mrs|Dr|Mt|ver|viz|ch|chap|p|pp|ib|ibid|Ibid|cf|Cf|&c)\.$", h):
+                h = re.sub(r"\.\s*$", "", h)
+            b = dict(b, md=h)
             if b.get("anchor") and not b.get("sub"):
                 aid = anchor_id(slug, b["anchor"])
                 if aid in seen_sections:
@@ -155,7 +159,12 @@ def render(doc, meta):
                  "them to the text. They are given here in their printed order until each is placed "
                  "against the scan.*\n")
         for label, md in orphans.items():
-            L.append(f"{label.lstrip('n')}. {md}\n" if not md[:1].isdigit() else f"{label.lstrip('n')}\. {md}\n")
+            # never a Markdown list: Pandoc would renumber it, and indent a
+            # second paragraph into a code block
+            paras = [p.strip() for p in md.split("\n\n") if p.strip()] or [""]
+            L.append(f"[{label.lstrip('n')}.]{{.note-num}} {paras[0]}\n")
+            for p in paras[1:]:
+                L.append(p + "\n")
     # index of scripture references
     idx = {}
     for r in doc.get("refs", []):
@@ -191,4 +200,15 @@ def render(doc, meta):
         L.append(para + "\n")
     md = "\n".join(L)
     md = re.sub(r"\n{3,}", "\n\n", md)
-    return md
+    return unique_ids(md)
+
+def unique_ids(md):
+    """Every element id once: a page number printed twice (a new pagination in
+    the prelims, a reprinted leaf) would otherwise give a duplicate id, which
+    makes the EPUB invalid. The second becomes -2, and so on."""
+    seen = {}
+    def one(m):
+        i = m.group(1)
+        seen[i] = seen.get(i, 0) + 1
+        return "{#" + (i if seen[i] == 1 else f"{i}-{seen[i]}")
+    return re.sub(r"\{#([^\s}]+)", one, md)

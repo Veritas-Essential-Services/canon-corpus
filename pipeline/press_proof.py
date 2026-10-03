@@ -138,6 +138,18 @@ def align(a, b, k=5):
     chain.reverse()
     ops = []
     ai = bi = None
+    if chain:
+        # the book's first words, before the first anchor: diffed against as
+        # many of the witness's words (plus slack) before its first anchor;
+        # the witness's extra lead-in is context, not a finding
+        i0, j0 = chain[0]
+        if i0:
+            w0 = max(0, j0 - int(i0 * 1.2) - 10)
+            sm = difflib.SequenceMatcher(None, an[:i0], bn[w0:j0], autojunk=False)
+            head = [(t, i1, i2, w0 + j1, w0 + j2) for t, i1, i2, j1, j2 in sm.get_opcodes()]
+            while head and head[0][0] == "insert":
+                head.pop(0)
+            ops += head
     for i, j in chain:
         if ai is not None and (i < ai or j < bj):
             continue
@@ -149,6 +161,14 @@ def align(a, b, k=5):
                 ops.append((tag, ai + i1, ai + i2, bj + j1, bj + j2))
         ops.append(("equal", i, i + k, j, j + k))
         ai, bj = i + k, j + k
+    if chain and ai < len(an):
+        # and the last words, after the last anchor, the same way
+        w1 = min(len(bn), bj + int((len(an) - ai) * 1.2) + 10)
+        sm = difflib.SequenceMatcher(None, an[ai:], bn[bj:w1], autojunk=False)
+        tail = [(t, ai + i1, ai + i2, bj + j1, bj + j2) for t, i1, i2, j1, j2 in sm.get_opcodes()]
+        while tail and tail[-1][0] == "insert":
+            tail.pop()
+        ops += tail
     return ops, (chain[0] if chain else None), (chain[-1] if chain else None)
 
 # ------------------------------------------------------------- witness C
@@ -338,6 +358,9 @@ def proof(slug, use_tess=True):
                              "after": " ".join(t[1] for t in toks[i2:i2 + 3]), "block": home[lab],
                              "leaf": [b[min(len(b) - 1, max(0, start))][2]], "page": [printed.get(b[max(0, start)][2], "")],
                              "verdict": "review", "note": lab})
+    # rules first: writing them can send a confirmed finding back to review,
+    # and the counts below must agree with the rows
+    write_rules(slug, ident, doc, findings)
     res = {"slug": slug, "scan": ident, "notes_checked": notes_checked, "notes_not_found": notes_missing, "book_words": len(a), "scan_words": len(b),
            "aligned_words": matched, "coverage": round(matched / max(1, len(a)), 4),
            "findings": findings,
@@ -346,7 +369,6 @@ def proof(slug, use_tess=True):
            "checked": time.strftime("%Y-%m-%d")}
     press_build.atomic_write(os.path.join(press_build.OUT, slug, "proof.json"),
                              json.dumps(res, indent=1, ensure_ascii=False))
-    write_rules(slug, ident, doc, findings)
     write_sheet(slug, e, res)
     return res
 
@@ -356,15 +378,23 @@ def write_rules(slug, ident, doc, findings):
     rules = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
     have = {(r["find"], r["replace"]) for r in rules.get("corrections", [])}
     for f in findings:
+        if f.get("verdict") == "confirmed" and f["kind"] != "replace":
+            # no rule is written for an insertion or deletion: a person places it
+            f["verdict"] = "review"; f["why"] = "confirmed, but an insertion or deletion is left to a person"
         if f.get("verdict") != "confirmed" or f["kind"] != "replace":
             continue
         md = doc["blocks"][f["block"]].get("md", "")
-        # the smallest unique stretch of markdown holding the bad word(s)
+        # the smallest unique stretch of markdown holding the bad word(s), unique
+        # as a whole word too (a rule must never land inside a longer word)
+        def once(t):
+            rx = re.compile(r"(?<![A-Za-z])" + re.escape(t) + r"(?![A-Za-z])")
+            return (sum(b.get("md", "").count(t) for b in doc["blocks"]) == 1 and
+                    sum(len(rx.findall(b.get("md", ""))) for b in doc["blocks"]) == 1)
         bad = f["a"]
-        if md.count(bad) != 1 or sum(b.get("md", "").count(bad) for b in doc["blocks"]) != 1:
+        if not (md.count(bad) == 1 and once(bad)):
             ctx = f["before"].split()[-1:] + [bad]
             bad2 = " ".join(ctx)
-            if sum(b.get("md", "").count(bad2) for b in doc["blocks"]) != 1:
+            if not once(bad2):
                 f["verdict"] = "review"; f["why"] = "confirmed, but no unique place to apply it"
                 continue
             find, repl = bad2, bad2.replace(bad, f["b"])
@@ -498,6 +528,9 @@ def proof_ocr(slug):
         elif len(A) == 2 and len(B) == 1 and ok(B[0][0]) and not (ok(A[0][0]) and ok(A[1][0])):
             # ABBYY split one word ("afi ection")
             pairs = [((A[0][0] + A[1][0], A[0][1] + " " + A[1][1], A[0][2], A[0][3]), B[0])]
+        elif all(ok(x[0]) or x[0].isdigit() for x in A) and not all(ok(x[0]) for x in B):
+            upheld += len(A)        # ABBYY's words are words; Tesseract's run is not
+            continue
         else:
             review.append({"a": " ".join(x[1] for x in A), "b": " ".join(x[1] for x in B),
                            "leaf": A[0][3], "before": " ".join(x[1] for x in a[max(0, i1 - 4):i1]),
@@ -508,8 +541,8 @@ def proof_ocr(slug):
                 continue
             aok = ok(an) or an.isdigit()
             bok = all(ok(x) for x in bn.split())
-            if aok and not bok:
-                upheld += 1
+            if aok and (not bok or (len(bn) < len(an) and an.startswith(bn))):
+                upheld += 1         # Tesseract misread, or read only the start of the word
             elif bok and not aok and not re.search(r"\d", bo) and plausible(an, bn, ao):
                 fixes.append({"leaf": aleaf, "from": ao, "to": match_case(ao.split()[0], bo),
                               "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",

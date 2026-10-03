@@ -110,5 +110,22 @@ check("'&c.' is not fixed to 'c'", press_proof.plausible("fec", "c", "fec"), Fal
 check("far-apart words are not a misread", press_proof.plausible("following", "ores", "following"), False)
 check("a split that may have lost a hyphen", press_proof.plausible("cojkihners", "co partners", "cojKiHners"), False)
 
+# --- review fixes (2026-10-03)
+check("one-chapter book by verse", S.parse("Jude 3"), ["Jude.1.3"])
+check("Philemon by verse", S.parse("Philem. 10"), ["Phlm.1.10"])
+check("Song of Solomon spelled out", S.parse("Song of Solomon ii. 3"), ["Song.2.3"])
+check("osisRef chapter range", S.check_osis("Rom.8-Rom.9")[0], ["Rom.8", "Rom.9"])
+check("a repeated page number gets a unique id",
+      press_render.unique_ids('[]{#t-p7 .pb n="7"}a\n\n[]{#t-p7 .pb n="7"}b'),
+      '[]{#t-p7 .pb n="7"}a\n\n[]{#t-p7-2 .pb n="7"}b')
+md2 = press_render.render({"blocks": [{"k": "heading", "md": "Of St.", "level": 1, "anchor": "a"},
+                                      {"k": "para", "md": "x"}],
+                           "notes": {"n7": "seven", "n9": "nine"}, "refs": []},
+                          {"slug": "t", "title": "T", "author": "X", "note_on_text": []})
+check("a heading ending in an abbreviation keeps its stop", "# Of St. {#" in md2, True)
+check("orphan notes keep their own numbers", "[7.]{.note-num} seven" in md2 and "[9.]{.note-num} nine" in md2, True)
+check("a glued verse call and a word call, in printed order",
+      [m.group(0).strip() for m in press_text.RE_CALLS.finditer("word1 then Eph 1:192 end")], ["1", "Eph 1:192"])
+
 print("\n%d failure(s)" % fails)
 sys.exit(1 if fails else 0)
