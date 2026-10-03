@@ -2667,6 +2667,15 @@ Shelf: `pipeline/evelyn-sharp_shelf.json` (2026-10-02; added at the coordinator'
 | All the Way to Fairyland: Fairy Stories | have | PG 30400, `sharp-all-the-way-to-fairyland` (833 units) |
 | The Other Side of the Sun: Fairy Stories | have | PG 40573, `sharp-other-side-of-the-sun` (881 units) |
 
+## M. R. James
+
+Shelf: `pipeline/mr-james_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Apocryphal Old Testament legends retold for children, and a children's fantasy; cut by legend or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Testament Legends | have | PG 15874, `mrjames-old-testament-legends` (251 units) |
+| The Five Jars | have | PG 24089, `mrjames-five-jars` (452 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
