@@ -1639,3 +1639,19 @@ Slugs `barnes-*`. The IA text layers carry no Hebrew or Greek characters.
 | Lectures on the Evidences of Christianity in the Nineteenth Century (Harper, 1868) | have-raw | IA |
 | Miscellaneous Essays and Reviews (1855), vols 1-2 | have-raw | IA |
 | A Manual of Prayer (1838); How Shall Man Be Just with God? (1854); The Organization of the Apostolic Church (1843); Life at Threescore and Ten (1871) | have-raw | IA |
+
+
+## Moses Stuart (round 10, my pick, 2026-10-03)
+
+Slugs `mstuart-*`. Romans and Hebrews keep their Greek in the text layer; the others carry none.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary on the Epistle to the Romans (Andover, 1832) | have-raw | IA (identifiers in the shelf) |
+| A Commentary on the Epistle to the Hebrews (Andover, 1833) | have-raw | IA |
+| A Commentary on the Apocalypse (Andover, 1845), vols 1-2 | have-raw | IA |
+| A Commentary on the Book of Daniel (Boston, 1850) | have-raw | IA |
+| A Commentary on Ecclesiastes (Putnam, 1851) | have-raw | IA |
+| A Commentary on the Book of Proverbs (Dodd, 1852) | have-raw | IA |
+| A Letter to William E. Channing on Religious Liberty (1830) | have-raw | IA |
+| A Grammar of the New Testament Dialect (1841) | excluded | its OCR carries no Greek |

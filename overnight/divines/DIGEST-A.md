@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:05 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:09 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -193,6 +193,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 | A. A. Hodge | a-a-hodge_shelf.json | none | 5 (Outlines of Theology, 1879 enlarged edition; Commentary on the Confession of Faith, 1885 edition; The Atonement, 1867; Popular Lectures, 1887; Life of Charles Hodge, 1880) | none | the Shorter Catechism book written with J. A. Hodge, and Van Dyke's Theism and Evolution, which Hodge only introduced |
 | J. A. Alexander | j-a-alexander_shelf.json | none | 12 (the critical Isaiah, 1846-47, 2 vols; Psalms, 1850, 3 vols; Acts, 1857, 2 vols; Mark, 1858; Matthew, 1861; Notes on NT Literature, 1861; Sermons, 1860, 2 vols) | Essays on the Primitive Church Offices (1851): the only copy tried never names him | modern Kregel, Zondervan and Banner of Truth reprints |
 | Albert Barnes | albert-barnes_shelf.json | 1 (New Testament Notes, complete; CCEL keyed it from the Baker 1949 reprint) | 16 (OT Notes on Job, Isaiah, Daniel and Psalms; Scriptural Views of Slavery, 1846; Evidences of Christianity, 1868; Essays, 1855; Manual of Prayer; How Shall Man Be Just; Apostolic Church; Life at Threescore and Ten) | none | CCEL's per-book OT Notes, which offer no full text file |
+| Moses Stuart | moses-stuart_shelf.json | none | 8 (Romans, 1832; Hebrews, 1833; Apocalypse, 1845, 2 vols; Daniel, 1850; Ecclesiastes, 1851; Proverbs, 1852; Letter to Channing, 1830) | none | his Hebrew grammars and the NT Grammar, whose OCR dropped the Hebrew or Greek they teach |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

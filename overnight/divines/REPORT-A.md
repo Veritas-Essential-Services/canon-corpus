@@ -457,3 +457,6 @@
 ## 2026-10-03 02:05 CDT — albert-barnes done
 - `pipeline/albert-barnes_shelf.json`: CCEL's complete New Testament Notes (32 MB ThML; CCEL keyed it from the Baker 1949 reprint, so it is flagged for a person to check) plus 16 IA volumes of raw OCR, median 97.5% (87.7% for Harper Psalms vol. 3, otherwise 95.0-98.7%), about 49 MB. Title pages were read. Daniel is the 1857 printing and was relabelled. The 1847 Isaiah vol. 2 and one Life at Threescore copy never name Barnes and were swapped for copies that do. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
 - `owen_shelf.json`: per the press thread (PR #15), CCEL's o/owen/glory is a modernised text. It is held through fetch_sources.py, not this shelf, and its `_held` note now says so and points to Goold vol. 1 (owen-works-goold-01, which contains it) and EEBO-TCP A53707.
+
+## 2026-10-03 02:09 CDT — moses-stuart done
+- `pipeline/moses-stuart_shelf.json`: 8 IA volumes of raw OCR, median 96.6% (94.9-98.0%), about 11 MB; title pages read (1830-1852). Romans and Hebrews keep their Greek (55,170 and 78,809 Greek characters). I fetched the NT Grammar (1841), found 0 Greek characters and 84.5% OCR, and excluded it, as I did the Hebrew grammars. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
