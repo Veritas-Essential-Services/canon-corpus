@@ -369,3 +369,7 @@
 - Proclus: Taylor's Commentaries of Proclus on the Timaeus of Plato, 2 vols (printed for the author; IA 1820)
 - Boethius: Philip Ridpath's Consolation (Dilly, 1785); George Colville's 1556 translation in Ernest Belfort Bax's edition (Nutt, 1897; Tudor English, unlike Chaucer's Middle English Boece, which the shelf leaves out)
 - Retry list: Queen Elizabeth's Englishings of Boethius (EETS, 1899), archive.org 500
+
+## 2026-10-03 02:15 CDT — Seneca tragedies (Bradshaw)
+- Seneca: Watson Bradshaw's prose Ten Tragedies (Swan Sonnenschein, 1902)
+- Tenne Tragedies (Tudor Translations, 1927) still held for Adam (Eliot introduction)

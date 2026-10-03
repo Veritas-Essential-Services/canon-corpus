@@ -2469,6 +2469,7 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614) | Thomas Lodge | `seneca-lodge-workes-1614` | have-raw (IA `bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614`) |
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. I (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v1` | have-raw (IA `epistlesluciusa01senegoog`) |
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v2` | have-raw (IA `epistlesluciusa00senegoog`) |
+| The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 

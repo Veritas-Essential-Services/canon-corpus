@@ -117,3 +117,4 @@
 - **Nicomachus and the Hermetica (02:04):** D'Ooge's Introduction to Arithmetic (1926), and a new Hermetica shelf with Chambers's translation (1882), Everard's Divine Pymander (1884 reprint of 1650) and Mead's three-volume Thrice-Greatest Hermes (1906).
 - **Late Platonists (02:10):** Stanhope's Epictetus with Simplicius's commentary (1741), Taylor's Sallust on the Gods with Demophilus (1793), and a new Orphica shelf with Taylor's Hymns of Orpheus (1787). Taylor's Julian orations, the 1896 Alciphron and Scott's Hermetica were refused for OCR.
 - **Proclus and Boethius (02:13):** Taylor's two-volume Proclus on the Timaeus (1820), Ridpath's Boethius (1785) and Colville's (1556, in Bax's 1897 edition). Queen Elizabeth's Boethius is on the retry list (archive.org errors).
+- **Seneca's tragedies (02:15):** Bradshaw's 1902 prose translation.

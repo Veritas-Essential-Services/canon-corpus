@@ -612,6 +612,14 @@
    "started": "2026-10-03T02:10:58-05:00",
    "finished": "2026-10-03T02:13:18-05:00",
    "notes": "Queen Elizabeth's Englishing of Boethius (EETS 1899, queenelizabethse00eliz) answered 500 twice; added to the hourly retry."
+  },
+  {
+   "id": "seneca-bradshaw",
+   "status": "done",
+   "scope": "Bradshaw's prose Ten Tragedies of Seneca (1902)",
+   "started": "2026-10-03T02:13:18-05:00",
+   "finished": "2026-10-03T02:15:39-05:00",
+   "notes": "Swan Sonnenschein 1902; translator named on the title page; rights gate passed (pre-1930 printing)."
   }
  ]
 }
