@@ -28,6 +28,12 @@
    "distichsofcato00chas",
    "The Distichs of Cato, a famous medieval textbook, translated from the Latin (University of Wisconsin Studies, 1922)",
    "tr. Wayland Johnson Chase"
+  ],
+  "grattius-wase-1654": [
+   "grati-falisci-cynegeticon",
+   "Grati Falisci Cynegeticon, or a Poem of Hunting by Gratius the Faliscian, Englished and illustrated (London; IA dates it 1654, the title page OCRs the year as 1664)",
+   "grati falisci cynegeticon_djvu.txt",
+   "tr. Christopher Wase"
   ]
  },
  "_surname": [
@@ -49,6 +55,12 @@
    "distichs of cato",
    "dionysius cato",
    "catonis"
+  ],
+  "grattius-wase-1654": [
+   "grattius",
+   "gratius",
+   "faliscus",
+   "falisci"
   ]
  },
  "_translators": {
@@ -95,6 +107,21 @@
    "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "grattius-wase-1654": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gratius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
+ },
+ "_translator_unchecked": {
+  "grattius-wase-1654": "the title page prints the name with a long s, which OCRs as 'Chrifpher Wafe'; the plain spelling Wase is never matched"
  }
 }
