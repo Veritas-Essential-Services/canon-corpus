@@ -1,5 +1,5 @@
 {
- "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Thucydides in English, translator per title. Benjamin Jowett (1881, 2 vols.: vol. 1 the translation with marginal analysis, vol. 2 notes and essays), raw IA OCR. Thomas Hobbes (1629), in the 1841 Oxford corrected edition, raw IA OCR. Richard Crawley (1874) is already held on the Adler shelf as thucydides-pelo (PG 7142) and cross-referenced. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03: S. T. Bloomfield's annotated translation (Longman, 1829, 3 vols.), raw IA OCR (Princeton Theological Seminary copy).",
  "_name_words": [
   "thucydides",
   "translated",
@@ -38,6 +38,21 @@
    "thucydidestrbyw02thucgoog",
    "Thucydides, tr. by W. Smith, vol. 3 (1831)",
    "tr. William Smith"
+  ],
+  "thucydides-bloomfield-1829-v1": [
+   "historyofthucydi01thuc",
+   "The History of Thucydides, newly translated into English, with copious annotations, vol. I of three (Longman, 1829)",
+   "tr. S. T. Bloomfield"
+  ],
+  "thucydides-bloomfield-1829-v2": [
+   "historyofthucydi02thuc",
+   "The History of Thucydides, newly translated into English, with copious annotations, vol. II of three (Longman, 1829)",
+   "tr. S. T. Bloomfield"
+  ],
+  "thucydides-bloomfield-1829-v3": [
+   "historyofthucydi03thuc",
+   "The History of Thucydides, newly translated into English, with copious annotations, vol. III of three (Longman, 1829)",
+   "tr. S. T. Bloomfield"
   ]
  },
  "_cross_ref": {
@@ -80,7 +95,10 @@
   "thucydides-smith-v3": "William Smith",
   "thucydides-perseus-smith-history-of-the-peloponnesian-war": "Charles Foster Smith",
   "thucydides-perseus-dale-history-of-the-peloponnesian-war": "Henry Dale",
-  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": "Thomas Hobbes"
+  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": "Thomas Hobbes",
+  "thucydides-bloomfield-1829-v1": "Bloomfield",
+  "thucydides-bloomfield-1829-v2": "Bloomfield",
+  "thucydides-bloomfield-1829-v3": "Bloomfield"
  },
  "_checks": {
   "thucydides-jowett-1881-v1": {
@@ -159,6 +177,45 @@
    "ia_rights": "ok: published 1831",
    "ia_date": "1831",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thucydides-bloomfield-1829-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "Bloomfield",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thucydides-bloomfield-1829-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "Bloomfield",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thucydides-bloomfield-1829-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "Bloomfield",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },

@@ -474,6 +474,9 @@ Shelf: `pipeline/thucydides_shelf.json`. Jowett's own Thucydides (1881) and Hobb
 | History of the Peloponnesian War | Charles Foster Smith | `thucydides-perseus-smith-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng1`; markup CC BY-SA 4.0) |
 | History of the Peloponnesian War | Henry Dale | `thucydides-perseus-dale-history-of-the-peloponnesian-war` | have (Perseus TEI `tlg0003.tlg001.1st1K-eng2`; markup CC BY-SA 4.0) |
 | The History of the Grecian War | Thomas Hobbes | `thucydides-perseus-hobbes-the-history-of-the-grecian-war` | have (Perseus TEI `tlg0003.tlg001.perseus-eng4`; markup CC BY-SA 4.0) |
+| The History of Thucydides, newly translated into English, with copious annotations, vol. I of three (Longman, 1829) | S. T. Bloomfield | `thucydides-bloomfield-1829-v1` | have-raw (IA `historyofthucydi01thuc`) |
+| The History of Thucydides, newly translated into English, with copious annotations, vol. II of three (Longman, 1829) | S. T. Bloomfield | `thucydides-bloomfield-1829-v2` | have-raw (IA `historyofthucydi02thuc`) |
+| The History of Thucydides, newly translated into English, with copious annotations, vol. III of three (Longman, 1829) | S. T. Bloomfield | `thucydides-bloomfield-1829-v3` | have-raw (IA `historyofthucydi03thuc`) |
 
 Pending (wishlist): none known beyond the rows above.
 
