@@ -17,10 +17,12 @@
   "andersen-ice-maiden-fuller": "Fuller",
   "andersen-stories-household-dulcken": "Dulcken",
   "andersen-fairy-tales-craigie": "Craigie",
-  "andersen-danish-fairy-legends-peachey": "Peachey",
-  "andersen-fairy-tales-braekstad": "Brækstad",
-  "andersen-faery-tales-lucas": "Lucas",
   "andersen-improvisatore-howitt": "Howitt"
+ },
+ "_translator_not_in_text": {
+  "andersen-danish-fairy-legends-peachey": "Peachey (claimed, not checkable in the text): 2026-10-03, Lane D read the OCR: title page reads 'TRANSLATED BY CAROLINES PEACHET' (Caroline Peachey), line 93 Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03).",
+  "andersen-fairy-tales-braekstad": "Brækstad (claimed, not checkable in the text): 2026-10-03: title-page OCR unreadable; the Internet Archive record says 'At head of title: Translated from the Danish by H.L. Brækstad' and lists Brækstad as creator (Century Co., 1900) Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03).",
+  "andersen-faery-tales-lucas": "Lucas (claimed, not checkable in the text): 2026-10-03: title-page OCR reads 'TR\\JM?L\\TeO fly (DRs e.LCICAS' (Translated by Mrs. E. Lucas); the Internet Archive record lists 'Lucas, Edgar, Mrs' Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03)."
  },
  "ccel": {},
  "gutenberg": {
@@ -240,9 +242,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "andersen",
-   "translator_claimed": "Peachey",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "identity": "ok",
    "ia_rights": "ok: published 1861",
    "ia_date": "1861",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -253,9 +253,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "andersen",
-   "translator_claimed": "Brækstad",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "identity": "ok",
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -266,9 +264,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "andersen",
-   "translator_claimed": "Lucas",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -298,10 +294,5 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
- },
- "_identity_checked": {
-  "andersen-danish-fairy-legends-peachey": "2026-10-03, Lane D read the OCR: title page reads 'TRANSLATED BY CAROLINES PEACHET' (Caroline Peachey), line 93",
-  "andersen-fairy-tales-braekstad": "2026-10-03: title-page OCR unreadable; the Internet Archive record says 'At head of title: Translated from the Danish by H.L. Brækstad' and lists Brækstad as creator (Century Co., 1900)",
-  "andersen-faery-tales-lucas": "2026-10-03: title-page OCR reads 'TR\\JM?L\\TeO fly (DRs e.LCICAS' (Translated by Mrs. E. Lucas); the Internet Archive record lists 'Lucas, Edgar, Mrs'"
  }
 }

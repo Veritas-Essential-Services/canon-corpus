@@ -12,8 +12,15 @@
   "lang-odyssey": "Butcher",
   "lang-iliad": "Lang",
   "lang-aucassin": "Lang",
-  "lang-dead-leman": "Sylvester",
-  "lang-miracles-st-katherine": "Lang"
+  "lang-dead-leman": "Sylvester"
+ },
+ "_translator_not_in_text": {
+  "lang-miracles-st-katherine": "Lang (claimed, not checkable in the text): 2026-10-03, Lane D read the OCR: the translator's line is OCR'd 'Andrew / Laogr' (Andrew Lang), lines 125-133; Google scan Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03)."
+ },
+ "_identity_checked": {
+  "lang-miracles-st-katherine": {
+   "author": "2026-10-03, Lane D read the OCR: Lang's name is OCR'd 'Andrew / Laogr' on the translator's line (lines 125-133 of the Google scan), so the surname test cannot see it."
+  }
  },
  "ccel": {},
  "gutenberg": {
@@ -980,7 +987,7 @@
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "S. H. Butcher",
+   "pg_translator": "S. H. Butcher; Andrew Lang",
    "translator_match": true
   },
   "lang-iliad": {
@@ -992,7 +999,7 @@
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Andrew Lang",
+   "pg_translator": "Andrew Lang; Walter Leaf; Ernest Myers",
    "translator_match": true
   },
   "lang-homeric-hymns": {
@@ -1814,8 +1821,5 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
- },
- "_identity_checked": {
-  "lang-miracles-st-katherine": "2026-10-03, Lane D read the OCR: the translator's line is OCR'd 'Andrew / Laogr' (Andrew Lang), lines 125-133; Google scan"
  }
 }

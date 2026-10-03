@@ -15,8 +15,10 @@
   "anderson"
  ],
  "_translators": {
-  "sturluson-heimskringla-laing": "Laing",
   "sturluson-younger-edda-anderson": "Anderson"
+ },
+ "_translator_not_in_text": {
+  "sturluson-heimskringla-laing": "Laing (claimed, not checkable in the text): The Gutenberg text names no translator; Laing (rev. Anderson) was identified by collation, as the row's title and shelf note record Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03)."
  },
  "ccel": {},
  "gutenberg": {
@@ -51,9 +53,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sturluson",
-   "translator_claimed": "Laing",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   },
@@ -69,8 +69,5 @@
    "pg_translator": "Rasmus Björn Anderson",
    "translator_match": true
   }
- },
- "_identity_checked": {
-  "sturluson-heimskringla-laing": "The Gutenberg text names no translator; Laing (rev. Anderson) was identified by collation, as the row's title and shelf note record"
  }
 }
