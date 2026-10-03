@@ -1,5 +1,5 @@
 {
- "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Added 2026-10-03, older translations as raw IA OCR: William Guthrie's Epistles to Atticus (vol. I of the 1752 edition; vols. II-III of the corrected 1806 edition), his Offices with Cato, Laelius, Paradoxes and the Vision of Scipio (1755) and his On Oratory and Orators (1808, 2 vols., as amended by Jones); William Heberden's Letters to Atticus (1825, 2 vols.); Thomas Francklin's Nature of the Gods (1829); and G. E. Jeans's Life and Letters (2nd ed., 1887).",
+ "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Added 2026-10-03, older translations as raw IA OCR: William Guthrie's Epistles to Atticus (vol. I of the 1752 edition; vols. II-III of the corrected 1806 edition), his Offices with Cato, Laelius, Paradoxes and the Vision of Scipio (1755) and his On Oratory and Orators (1808, 2 vols., as amended by Jones); William Heberden's Letters to Atticus (1825, 2 vols.); Thomas Francklin's Nature of the Gods (1829); and G. E. Jeans's Life and Letters (2nd ed., 1887). Also William Melmoth's Letters to Several of His Friends, 1808 edition in five volumes, vols. II-V (vol. I, lettersofmarcust01ciceuoft, answers 500 and is on the hourly retry).",
  "_name_words": [
   "cicero",
   "tullius",
@@ -221,6 +221,26 @@
    "cu31924026480347",
    "The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887)",
    "tr. G. E. Jeans"
+  ],
+  "cicero-melmoth-letters-1808-v2": [
+   "lettersofmarcust02ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. II of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v3": [
+   "lettersofmarcust03ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. III of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v4": [
+   "lettersofmarcust04ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. IV of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v5": [
+   "lettersofmarcust05ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808)",
+   "tr. William Melmoth"
   ]
  },
  "_excluded": {
@@ -268,7 +288,11 @@
   "cicero-heberden-atticus-1825-v2": "Heberden",
   "cicero-jeans-letters-1887": "Jeans",
   "cicero-heberden-atticus-1825-v1": "Heberden",
-  "cicero-francklin-nature-gods-1829": "Francklin"
+  "cicero-francklin-nature-gods-1829": "Francklin",
+  "cicero-melmoth-letters-1808-v2": "William Melmoth",
+  "cicero-melmoth-letters-1808-v3": "William Melmoth",
+  "cicero-melmoth-letters-1808-v4": "William Melmoth",
+  "cicero-melmoth-letters-1808-v5": "William Melmoth"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -802,6 +826,58 @@
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

@@ -1217,6 +1217,10 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, vol. II (Payne and Foss, 1825) | William Heberden | `cicero-heberden-atticus-1825-v2` | have-raw (IA `b24748742_0002`) |
 | M. Tullius Cicero of the Nature of the Gods, with notes, and an inquiry into the astronomy and anatomy of the ancients (Pickering, 1829) | Thomas Francklin | `cicero-francklin-nature-gods-1829` | have-raw (IA `naturegods00frangoog`) |
 | The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887) | G. E. Jeans | `cicero-jeans-letters-1887` | have-raw (IA `cu31924026480347`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. II of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v2` | have-raw (IA `lettersofmarcust02ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. III of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v3` | have-raw (IA `lettersofmarcust03ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. IV of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v4` | have-raw (IA `lettersofmarcust04ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v5` | have-raw (IA `lettersofmarcust05ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
