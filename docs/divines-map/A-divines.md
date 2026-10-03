@@ -1904,3 +1904,13 @@ Slugs `bushnell-*`. A veto point: his view of the atonement departs from the Ref
 | Work | Status | Where |
 |---|---|---|
 | Christian Nurture; The Vicarious Sacrifice; Sermons for the New Life; Christ and His Salvation; The Character of Jesus | have-clean | CCEL (Scribner printings 1868-76 where named) |
+
+## A. B. Bruce (round 12, my pick, 2026-10-03)
+
+Slugs `bruce-*`. Name forms are full forms only (no bare "bruce").
+
+| Work | Status | Where |
+|---|---|---|
+| The Training of the Twelve | have-clean | CCEL (print source not named) |
+| The Humiliation of Christ (2nd ed., 1889); The Kingdom of God (1889); St. Paul's Conception of Christianity (1896); The Epistle to the Hebrews (1899) | have-ocr | IA, OCR 94-99% |
+| The Parabolic Teaching of Christ | pending | IA copy returned HTTP 500 |

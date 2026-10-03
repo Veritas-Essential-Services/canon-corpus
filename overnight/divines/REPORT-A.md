@@ -539,3 +539,6 @@
 
 ## 2026-10-03 02:59 CDT — horace-bushnell done
 - `pipeline/horace-bushnell_shelf.json`: 5 CCEL texts. Print sources, where named: Scribner 1868-76. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:40 CDT — a-b-bruce done
+- `pipeline/a-b-bruce_shelf.json`: 1 CCEL + 4 IA, all fetched. Title pages read for imprint and year. `--verify --record`: 0 mismatched. OCR 98.4% mean, lowest Humiliation 94.4%. Parabolic Teaching pending (HTTP 500). 0 uids minted.
