@@ -2965,6 +2965,8 @@ def build_book_2b(slug, ids):
 #                   6.9% / 40.6%, Funk & Wagnalls criticalexegetme00meye (1884) 7.3% / 41.0%: not clearly better;
 #                   criticalhandbook01meyeuoft: catalogued 1906-
 #   Corinthians II  criticalexegetic72meye (Princeton, title page 1879) 8.3% / 41.0%  <- chosen
+#   Galatians ... Jude: each volume's chosen scan and the others measured are in its scan_choice below.
+#   Thessalonians (Lünemann, 1880) is NOT SHELVED: its only scan, criticalexegetic00ln, has 0.0% Greek.
 #   (CriticalExegeticalHandbookNewTestament11Volumes, a modern compilation of no stated edition, and
 #   in.ernet.dli.2015.350526: 0.0%.)
 #
@@ -2992,9 +2994,10 @@ def build_book_2b(slug, ids):
 
 
 def _meyer(ia, sha, title, short, edition, printed, copy, leaves, books, ia_date, ia_date_note=None,
-           first_chapter=None, american=None, scan_choice=None, inline=True):
-    s = {"ia": ia, "sha256": sha, "title": title, "short": short, "author": "H. A. W. Meyer", "edition": edition,
-         "printed": printed, "copy": copy, "ia_rights": "NOT_IN_COPYRIGHT", "leaves": leaves, "epistles": books,
+           first_chapter=None, american=None, scan_choice=None, inline=True, author="H. A. W. Meyer",
+           ia_rights="NOT_IN_COPYRIGHT"):
+    s = {"ia": ia, "sha256": sha, "title": title, "short": short, "author": author, "edition": edition,
+         "printed": printed, "copy": copy, "ia_rights": ia_rights, "leaves": leaves, "epistles": books,
          "apparatus": False, "reader": "meyer", "ia_date": ia_date}
     for k, v in (("ia_date_note", ia_date_note), ("first_chapter", first_chapter), ("american", american),
                  ("scan_choice", scan_choice)):
@@ -3103,13 +3106,80 @@ MEYER = {
         ia_date_note="IA catalogues it 1877 (the set's first date); this volume's title page reads 1879",
         first_chapter={"1Cor": 14},
         scan_choice="criticalexegetic72meye, the same Princeton set as vol. I: Greek 8.3%, known 41.0%"),
+    "meyer-galatians": _meyer(
+        "criticalexeget09meye", "411892e95302cbb1f492cbdffd0de25bcf2963465966c4dc6fb4153346dc707c",
+        "Critical and Exegetical Handbook to the Epistle to the Galatians", "Meyer, Gal.",
+        f"{_MEY}: the Epistle to the Galatians, tr. from the fifth German edition (the translator's line is "
+        "illegible in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads", 1873,
+        "Princeton Theological Seminary Library", (13, 383), [("Gal", 39, 382)], "1873",
+        scan_choice="criticalexeget09meye (1873): Greek 6.3%, known 40.0%; the Funk & Wagnalls issue (1884: "
+                    "criticalexegetic09meye, criticalexegetic0000hein_g2k4, criticalexegetic0000unse_b7h8): 0.0%"),
+    "meyer-ephesians-philemon": _meyer(
+        "criticalexegetic1880meye", "0bf00dc4bd21ea3933b778564ce4562be68397c054c6ce9fc47e26986ea856b3",
+        "Critical and Exegetical Handbook to the Epistles to the Ephesians and to Philemon", "Meyer, Eph.-Philem.",
+        f"{_MEY}: the Epistle to the Ephesians and the Epistle to Philemon, tr. from the fourth German edition by "
+        "Maurice J. Evans, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads",
+        1880, "Princeton Theological Seminary Library", (7, 405), [("Eph", 51, 374), ("Phlm", 379, 405)], "1880",
+        scan_choice="criticalexegetic1880meye: Greek 7.7%, known 37.5%; criticalexegetic10meye (another copy, 1880) "
+                    "would not give its text (HTTP 500, 2026-10-03); the Funk & Wagnalls Ephesians "
+                    "criticalandexeg05meyegoog (1884): 0.0%"),
+    "meyer-philippians-colossians": _meyer(
+        "criticalexeget11meye", "2b2efbc2833f053410fdd6974bfcf6644e2c358b81705d72c96daf27fee9f0e2",
+        "Critical and Exegetical Handbook to the Epistles to the Philippians and Colossians", "Meyer, Phil.-Col.",
+        f"{_MEY}: the Epistles to the Philippians and Colossians, tr. from the fourth German edition by John C. "
+        "Moore, revised and edited by William P. Dickson (MDCCCLXXV: 1875), as its title page reads (the "
+        "prefatory note: Philippians first translated by G. H. Venables)", 1875,
+        "Princeton Theological Seminary Library", (9, 504), [("Phil", 27, 253), ("Col", 270, 503)], "1875",
+        scan_choice="criticalexeget11meye (1875): Greek 8.3%, known 37.6%; the Funk & Wagnalls issue (1885) "
+                    "criticalexegetic11meye 7.5% / 38.9% and criticalexegeticphilcolphile00meye 7.5% / 38.9%: not "
+                    "clearly better; criticalandexeg00unkngoog (1875), criticalexegetic0000hein_r9x0: 0.0%"),
+    "huther-pastorals": _meyer(
+        "criticalexeget15huth", "a2fd725f637a849b8f82fd9e0dca9c3102c976e8a3488a767be8eaa7699f1826",
+        "Critical and Exegetical Handbook to the Epistles of St. Paul to Timothy and Titus", "Huther, Past.",
+        f"{_MEY}: the Epistles to Timothy and Titus, by J. E. Huther, tr. from the fourth German edition by "
+        "David Hunter (MDCCCLXXXI: 1881), as its title page reads", 1881,
+        "Princeton Theological Seminary Library", (9, 394),
+        [("1Tim", 87, 254), ("2Tim", 255, 345), ("Titus", 346, 393)], "1881", author="J. E. Huther",
+        scan_choice="criticalexeget15huth (1881): Greek 11.0%, known 35.9%; criticalexeget1881huth (another copy, "
+                    "1881, IA rights unstated) 11.7% / 36.0%: not clearly better; the Funk & Wagnalls issue (1885) "
+                    "criticalexegetic15huth 9.7% / 34.7%; criticalexegetictimtitu00huth, "
+                    "criticalexegetic0000johe_z2x1, criticalexegetic0000johe_f5s9: 0.0%"),
+    "lunemann-hebrews": _meyer(
+        "criticalexegetic19ln", "db17601c5036be4a349a3577984ccb62e347acd05e9bfb6a510fc1e9bb1fb061",
+        "Critical and Exegetical Handbook to the Epistle to the Hebrews", "Lünemann, Heb.",
+        f"{_MEY}: the Epistle to the Hebrews, by Gottlieb Lünemann, tr. from the fourth German edition by "
+        "Maurice J. Evans (MDCCCLXXXII: 1882), as its title page reads", 1882,
+        "Princeton Theological Seminary Library", (9, 514), [("Heb", 87, 513)], "1882", author="Gottlieb Lünemann",
+        scan_choice="criticalexegetic19ln (1882): Greek 11.2%, known 34.0%; criticalexegeticheb00ln (1882): 0.0%"),
+    "huther-james-john": _meyer(
+        "criticalexeget20huth", "21c7b5d43162490d6d46c7ee2b2cdcf219ee83391a8c6edf782c6fb9afbed8d9",
+        "Critical and Exegetical Handbook to the General Epistles of James and John", "Huther, Jas.-John",
+        f"{_MEY}: the General Epistles of James and John, by J. E. Huther, James tr. Paton J. Gloag, John tr. "
+        "Clarke H. Irwin (MDCCCLXXXII: 1882), as its title pages read", 1882,
+        "Princeton Theological Seminary Library", (7, 542),
+        [("Jas", 52, 241), ("1John", 278, 501), ("2John", 513, 528), ("3John", 529, 542)], "1882",
+        author="J. E. Huther",
+        scan_choice="criticalexeget20huth (1882): Greek 8.9%, known 42.3%; the Funk & Wagnalls issue (1887, with "
+                    "Peter and Jude) criticalexegetic20huth 7.8% / 40.2%; criticalexegetic00huth (1882), "
+                    "criticalexegetic0000johe_d6k9, criticalexegetic0000johe_g5m5: 0.0%"),
+    "huther-peter-jude": _meyer(
+        "criticalexegetichand1881huth", "a3c229ebd8f670fed6819808ba757879a35879aa7b690d1e4488901524c49e7a",
+        "Critical and Exegetical Handbook to the General Epistles of Peter and Jude", "Huther, Pet.-Jude",
+        f"{_MEY}: the General Epistles of Peter and Jude, by J. E. Huther, Peter tr. D. B. Croom, Jude tr. Paton "
+        "J. Gloag (MDCCCLXXXI: 1881), as its title page reads", 1881,
+        "Princeton Theological Seminary Library", (7, 452),
+        [("1Pet", 53, 261), ("2Pet", 299, 391), ("Jude", 401, 452)], "1881", author="J. E. Huther",
+        ia_rights=None,
+        scan_choice="criticalexegetichand1881huth (1881, IA rights unstated; printed 1881): Greek 9.0%, known "
+                    "36.8%; criticalexegetic21huth (1881) would not give its text (HTTP 500, 2026-10-03); "
+                    "criticalexegetic0000johe, bwb_P9-AFQ-241_d0g5: 0.0%"),
 }
 SCANS.update(MEYER)
 SECOND.update(MEYER)
 ORDER.extend(MEYER)
 MULTI.update(k for k, s in MEYER.items() if len(s["epistles"]) > 1)
 
-MEYER_OPEN = re.compile(r'^[\W_]{0,2}(?:\[[^\]]{0,40}\]\s*)?V(?:[Ee][RrNn][Ss]?|[vVy])\s?[.,:]?\s*(\d{1,3})'
+MEYER_OPEN = re.compile(r'^[\W_]{0,2}(?:\[[^\]]{0,40}\]\s*)?V(?:[EeIi][RrNn][Ss]?|[vVy])\s?[.,:]?\s*(\d{1,3})'
                         r'((?:\s*(?:[,—–\-]+|\s+and)\s*\d{1,3}){0,6})'
                         r'(?:\s*f{1,2}\.|\s*[.,:;\]]|\s+ἢ\s|\s+(?=[Ͱ-Ͽἀ-῿]))')
 # ('Ver. 7 ἢ Ἀδ.': the period read as ἢ; '[See Note LVII. p. 476.] Vv. 1, 2.': the American editor's pointer)
@@ -3142,7 +3212,9 @@ def meyer_heading(l, nxt, after, W, H, mg):
     letters = [c for c in l["text"] if c.isalpha()]
     if not letters or sum(c.isupper() for c in letters) < 0.6 * len(letters):
         return False                    # a heading is in capitals
-    crit = nxt is not None and meyer_open(nxt["text"]) and meyer_critical(nxt["text"], after) >= 2
+    o = meyer_open(nxt["text"]) if nxt is not None else None
+    crit = o and (meyer_critical(nxt["text"], after) >= 2 or (
+        o[1] <= 3 and len(words) <= 4 and l["bbox"][0] - mg > 0.25 * W))   # 'CELA DER Τ ΤΥ.' over 'Ver. 1.'
     if not m and not crit:
         return False
     tok = re.sub(r'[^A-Za-z|!1ΙΧΥ]', '', m.group(1) if m else words[-1]).translate(MEYER_ROMAN)
@@ -3239,6 +3311,7 @@ def build_scan_meyer(slug, ids):
                     score = meyer_critical(l["text"], after) if starts and meyer_open(l["text"]) else 0
                     if score >= 2:
                         it["critical"] = score
+                    it["crit_score"] = score
                     if score < 2 or para:
                         it["cands"] = meyer_inline(l["text"], body[i - 1][0]["text"] if i else "") \
                             if s.get("inline", True) else []
@@ -3310,7 +3383,7 @@ def decode_meyer(slug, items, decoders, pp, m):
     """decode_2b's verse sequence, with Meyer's chapter headings (each opens <c>.intro, the critical notes,
     and sets the sequence to that chapter) and the American editor's notes (<c>.american) between."""
     notes = collections.OrderedDict()
-    current, last_ch, in_crit = {}, {}, {}
+    current, last_ch, in_crit, crit_v = {}, {}, {}, {}
     flat = [(i, j) for i, it in enumerate(items) for j in range(len(it["cands"]))]
     seg, k = [], 0
     for it in items:
@@ -3338,6 +3411,7 @@ def decode_meyer(slug, items, decoders, pp, m):
         pre = ids_prefix(slug, book)
         dec.c, dec.v = ch, 0
         last_ch[book] = ch
+        crit_v[book] = max([o[1] for _, o in it["cands"]] or [0])
         current[book] = f"{pre}{ch}.intro"
         m[how] += 1
         unit(current[book], book, "intro", ch)
@@ -3372,9 +3446,23 @@ def decode_meyer(slug, items, decoders, pp, m):
                 m["chapter_headings_refused"] += 1
             continue
         crit = it.get("critical", 0)
-        if crit and current[book] in (f"{pre}{last_ch[book]}.intro", f"{pre}title"):
+        intro = current[book] == f"{pre}{last_ch[book]}.intro"
+        if crit and (intro or current[book] == f"{pre}title"):
             put(current[book], it["text"], leaf, it["para"])      # more of the chapter's critical notes
             continue
+        if intro:
+            n0 = it["cands"][0][1][1] if it["cands"] and it["cands"][0][0] == 0 and it["para"] else 0
+            if n0 and n0 > crit_v.get(book, 0) and (crit_v.get(book, 0) or (
+                    it.get("crit_score") and notes[current[book]]["text"].count("\n") == 0 and len(
+                        notes[current[book]]["text"]) < 40)):
+                # (the first paragraph under a bare heading, naming the apparatus, opens them)
+                # Huther gives a verse's readings a paragraph of its own ('Ver. 5. Instead of the Rec. ...'):
+                # the critical notes run on through the verses; the exegesis starts again from a lower one
+                put(current[book], it["text"], leaf, it["para"])
+                crit_v[book] = max([o[1] for _, o in it["cands"]])
+                m["critical_paragraphs_by_verse"] += 1
+                continue
+            crit_v[book] = max([crit_v.get(book, 0)] + [o[1] for p, o in it["cands"] if p > 0 or not it["para"]])
         if crit == 2 and it["para"] and it["cands"]:
             crit = 0                    # in the exegesis two sigla are not enough: an opener (see meyer_critical)
             m["openers_naming_sigla"] += 1
@@ -3451,13 +3539,17 @@ def citation_meyer(slug):
 
 
 MEYER_HONESTY = (
-    "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph "
-    "'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse "
-    "sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the "
-    "next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose "
+    "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or "
+    "Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or "
+    "'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and "
+    "the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the "
+    "next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose "
     "number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, "
-    "from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with "
-    "the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph "
+    "from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number "
+    "would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and "
+    "each heading with the critical notes on the chapter's readings that follow it is the unit "
+    "<chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes "
+    "run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph "
     "of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); "
     "the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; "
     "the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that "

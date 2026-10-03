@@ -355,6 +355,20 @@ scans:
 | `meyer-acts-2` | Acts II (ch. 13-28) | Edinburgh, 1877 | criticalexegetic52meye |
 | `meyer-corinthians-1` | 1 Corinthians 1-13 | Edinburgh, 1877 | criticalexegetic71meye |
 | `meyer-corinthians-2` | 1 Corinthians 14-16; 2 Corinthians | Edinburgh, 1879 (IA says 1877) | criticalexegetic72meye |
+| `meyer-galatians` | Galatians | Edinburgh, 1873 | criticalexeget09meye |
+| `meyer-ephesians-philemon` | Ephesians; Philemon | Edinburgh, 1880 | criticalexegetic1880meye |
+| `meyer-philippians-colossians` | Philippians; Colossians | Edinburgh, 1875 | criticalexeget11meye |
+| `huther-pastorals` | 1-2 Timothy; Titus (J. E. Huther) | Edinburgh, 1881 | criticalexeget15huth |
+| `lunemann-hebrews` | Hebrews (G. Lünemann) | Edinburgh, 1882 | criticalexegetic19ln |
+| `huther-james-john` | James; 1-3 John (J. E. Huther) | Edinburgh, 1882 | criticalexeget20huth |
+| `huther-peter-jude` | 1-2 Peter; Jude (J. E. Huther) | Edinburgh, 1881 | criticalexegetichand1881huth |
+
+Meyer wrote the volumes up to Philippians and Colossians himself. Huther and
+Lünemann wrote the rest for his series, and those books carry their names as
+author and in their slugs. Thessalonians (Lünemann) is not shelved. Its only
+scan, criticalexegetic00ln (1880), has no Greek. The IA item for Peter and
+Jude records no rights status; the book says so (`ia_rights` null), though
+it was printed in 1881.
 
 Every T&T Clark scan of John and of Romans lost its Greek, so those two come
 from the American issue of the same translation. That issue adds notes by an
@@ -373,11 +387,17 @@ found by the critical paragraph under it. Its number is checked against the
 chapter that should come next. The running heads never move a note back to
 an earlier chapter, and a heading whose number would skip a chapter the
 running heads print ("XX." over chapter XIX) is read as that chapter.
+Huther sometimes gives each verse's readings a paragraph of its own. Those
+paragraphs stay in the chapter's intro until the exegesis starts again from
+a lower verse.
 
 **Coverage** (verses with a note, of the verses in the chapters the volume
 holds): Matthew I 86%, Matthew II 75%, Mark 97%, Luke 1-2 61%, Luke 3-24
 95%, John 91%, Romans 97%, Acts I 95%, Acts II 96%, 1 Corinthians 1-13 95%,
-1 Corinthians 14-16 96%, 2 Corinthians 94%. Meyer passes over some verses, and the measure in
+1 Corinthians 14-16 96%, 2 Corinthians 94%, Galatians 97%, Ephesians 94%,
+Philemon 76%, Philippians 94%, Colossians 93%, 1 Timothy 88%, 2 Timothy 95%,
+Titus 96%, Hebrews 93%, James 87%, 1 John 92%, 2 John 92%, 3 John 86%,
+1 Peter 95%, 2 Peter 90%, Jude 96%. Meyer passes over some verses, and the measure in
 each manifest entry counts the openers accepted, refused and taken from the
 running heads. The Hebrew is lost in every scan, and every honesty field
 says so.
