@@ -352,6 +352,11 @@ Shelf: `pipeline/xenophon_shelf.json`. Dakyns's complete Works of Xenophon (1890
 | On Horsemanship | H. G. Dakyns | `xenophon-horsemanship` | have (PG 1176) |
 | The Sportsman (Cynegeticus) | H. G. Dakyns | `xenophon-sportsman` | have (PG 1180) |
 | The Memorable Thoughts of Socrates | Edward Bysshe (1712) | `xenophon-bysshe-memorabilia` | have (PG 17490) |
+| The Anabasis, or Expedition of Cyrus, and the Memorabilia of Socrates, literally translated (Bohn, 1875 printing) | J. S. Watson (geographical commentary by W. F. Ainsworth) | `xenophon-watson-anabasis-memorabilia` | have-raw (IA `anabasisorexped00xeno`) |
+| The Cyropaedia, or Institution of Cyrus, and the Hellenics, literally translated (Bohn, 1855) | J. S. Watson and Henry Dale | `xenophon-watson-dale-cyropaedia-hellenics` | have-raw (IA `cyropaediaorins00xeno`) |
+| Xenophon's Minor Works, literally translated (Bohn; 1914 stereotype reprint) | J. S. Watson | `xenophon-watson-minor-works` | have-raw (IA `xenophonsminorwo00xeno`) |
+| Xenophon, vol. I: The Anabasis (Valpy's Family Classical Library, 1830) | Edward Spelman | `xenophon-spelman-anabasis-1830` | have-raw (IA `anabasis00coopgoog`) |
+| Cyropaedia, or the Institution of Cyrus (London: Vernor and Hood, 1803) | Maurice Ashley | `xenophon-ashley-cyropaedia-1803` | have-raw (IA `cyropaediaorinst00xeno`) |
 
 Pending (wishlist): E. C. Marchant's and Carleton Brownson's Loebs, on Perseus.
 

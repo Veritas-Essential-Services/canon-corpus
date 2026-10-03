@@ -82,7 +82,33 @@
    "tr. Edward Bysshe (1712)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "xenophon-watson-anabasis-memorabilia": [
+   "anabasisorexped00xeno",
+   "The Anabasis, or Expedition of Cyrus, and the Memorabilia of Socrates, literally translated (Bohn, 1875 printing)",
+   "tr. J. S. Watson (geographical commentary by W. F. Ainsworth)"
+  ],
+  "xenophon-watson-dale-cyropaedia-hellenics": [
+   "cyropaediaorins00xeno",
+   "The Cyropaedia, or Institution of Cyrus, and the Hellenics, literally translated (Bohn, 1855)",
+   "tr. J. S. Watson and Henry Dale"
+  ],
+  "xenophon-watson-minor-works": [
+   "xenophonsminorwo00xeno",
+   "Xenophon's Minor Works, literally translated (Bohn; 1914 stereotype reprint)",
+   "tr. J. S. Watson"
+  ],
+  "xenophon-spelman-anabasis-1830": [
+   "anabasis00coopgoog",
+   "Xenophon, vol. I: The Anabasis (Valpy's Family Classical Library, 1830)",
+   "tr. Edward Spelman"
+  ],
+  "xenophon-ashley-cyropaedia-1803": [
+   "cyropaediaorinst00xeno",
+   "Cyropaedia, or the Institution of Cyrus (London: Vernor and Hood, 1803)",
+   "tr. Maurice Ashley"
+  ]
+ },
  "_excluded": {
   "pg29459": "an index page",
   "pg17490": "The Memorable Thoughts of Socrates (Bysshe, 1712): PD, other translator; pending as an alternate witness",
