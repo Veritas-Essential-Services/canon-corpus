@@ -191,7 +191,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
     python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
-    python3 pipeline/build_commentaries.py --fetch   # 43 commentary volumes: IA hOCR scans + PG #50857, pinned
+    python3 pipeline/build_commentaries.py --fetch   # 54 commentary volumes: IA hOCR scans + PG #50857, pinned
     python3 pipeline/build_commentaries.py           # notes keyed by verse -> data/books/<slug>.json + manifest
     python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
@@ -642,7 +642,12 @@ The living truth for project state is the Obsidian vault:
   table MEYER, reader build_scan_meyer, hooked into build_book_2b by
   SCAN_READERS/READER_TEXTS): H. A. W. Meyer's Critical and Exegetical
   Handbook in the T&T Clark translation, Matthew (2 vols, 1880/1879), Mark &
-  Luke (2 vols, 1880), and John and Romans in the Funk & Wagnalls 1884 issue
+  Luke (2 vols, 1880), Acts (2 vols, 1877), Corinthians (2 vols, 1877/1879:
+  vol. II holds 1 Cor 14-16 and 2 Cor), Galatians (1873), Ephesians-Philemon
+  (1880), Philippians-Colossians (1875), and the volumes Huther and Lünemann
+  wrote for the series (`huther-pastorals`, `lunemann-hebrews`,
+  `huther-james-john`, `huther-peter-jude`, 1881-82; their names as author),
+  and John and Romans in the Funk & Wagnalls 1884 issue
   of the same translation (every T&T Clark scan of those two lost its Greek).
   `meyer-mark-luke-1:Mark.4.3`, `meyer-romans:8.28`. Each chapter's heading
   and critical notes are `<c>.intro`; the American editor's notes (Kendrick,
@@ -650,8 +655,9 @@ The living truth for project state is the Obsidian vault:
   Openers 'Ver. 3.' / 'Vv. 2-6.' at an indented paragraph, and after a dash
   where measured better (all but Romans: `inline`). Hebrew lost in every
   scan. Godet (John, Luke, Romans, 1 Cor.) NOT shelved: all 50 scans have
-  0.0% Greek (comment above MEYER). Acts and Corinthians measured, not yet
-  shelved.
+  0.0% Greek (comment above MEYER). Thessalonians (Lünemann) NOT shelved:
+  its one scan has 0.0% Greek.
+- Keil & Delitzsch, continued (second shelf): not shelved,
   Delitzsch's Isaiah, Job, Proverbs (few 'Ver.' openers: need a running-head
   reader); Ecclesiastes/Song (no pre-1929 scan; BYU's is Eerdmans' 1986 reprint).
   4c (2026-10-03, table KD4C): the rest of K&D's OT, 12 volumes, Joshua-Ruth

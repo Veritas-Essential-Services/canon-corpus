@@ -550,8 +550,30 @@ check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["
 check("meyer: every volume pinned, printed before 1929, IA date recorded, in SECOND and ORDER",
       B.MEYER and all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) and v["printed"] < 1929 and v.get("ia_date")
                       and k in B.SECOND and k in B.ORDER and v["reader"] == "meyer" for k, v in B.MEYER.items()))
-check("meyer: the Gospels and Romans are shelved",
-      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} >= {"Matt", "Mark", "Luke", "John", "Rom"})
+check("meyer: the series is shelved from Matthew to Jude, all but Thessalonians (no scan keeps the Greek)",
+      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} == {
+          "Matt", "Mark", "Luke", "John", "Acts", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Phil", "Col", "1Tim", "2Tim",
+          "Titus", "Phlm", "Heb", "Jas", "1Pet", "2Pet", "1John", "2John", "3John", "Jude"})
+check("meyer: the volumes Huther and Lünemann wrote name them as author, and their slugs",
+      all(B.MEYER[k]["author"] == a for k, a in (("huther-pastorals", "J. E. Huther"), ("lunemann-hebrews",
+          "Gottlieb Lünemann"), ("huther-james-john", "J. E. Huther"), ("huther-peter-jude", "J. E. Huther")))
+      and all(v["author"] == "H. A. W. Meyer" for k, v in B.MEYER.items() if k.startswith("meyer-")))
+check("meyer: an IA item with no rights status is recorded so, not as NOT_IN_COPYRIGHT",
+      B.MEYER["huther-peter-jude"]["ia_rights"] is None and B.MEYER["huther-pastorals"]["ia_rights"] == "NOT_IN_COPYRIGHT")
+
+
+def _meyer_without_rights():
+    try:
+        B._meyer("x", "0" * 64, "t", "s", "e", 1880, "c", (1, 2), [], "1880")
+    except TypeError:
+        return True
+    return False
+
+
+check("meyer: a volume's IA rights status is recorded per volume, never defaulted (--fetch checks it live)",
+      _meyer_without_rights() and all("ia_rights" in v for v in B.MEYER.values()))
+check("meyer: Corinthians vol. II holds 1 Cor 14-16 and 2 Cor, so its ids name the book",
+      "meyer-corinthians-2" in B.MULTI and B.MEYER["meyer-corinthians-2"]["first_chapter"] == {"1Cor": 14})
 check("meyer: an IA date that is not the title page's year says why",
       all(v.get("ia_date_note") for v in B.MEYER.values() if not v["ia_date"].startswith(str(v["printed"]))))
 check("meyer: no Godet volume is shelved (no scan keeps its Greek)", not any("godet" in k for k in B.ORDER))
@@ -580,6 +602,15 @@ check("meyer_heading: a garbled heading over a critical paragraph is a heading, 
       B.meyer_heading(line("CH APR R Vol", 613, 900, 1000, 40),
                       line("Ver. 1. Instead of ἤλθεν, we must read with Tisch., following", 110, 950, 1700, 40),
                       "BCLAY, ἔρχεται.", 1856, 2800, 110) == ())
+check("meyer_heading: a short centred capital line over 'Ver. 1.' is a heading, though no sigla follow",
+      B.meyer_heading(line("CELA DER Τ ΤΥ.", 700, 900, 1100, 40),
+                      line("Ver. 1. πιστός] Instead of this, D has ἀνθρώπινος", 110, 950, 1700, 40),
+                      "Fathers have humanus.", 1836, 2800, 110) is not False)
+check("meyer_heading: a short line set in over a later verse's note is not",
+      B.meyer_heading(line("ΚΑΙ ΤΟΥΤΟ", 700, 900, 1000, 40),
+                      line("Ver. 12. The apostle returns to the deacons", 110, 950, 1700, 40),
+                      "and gives", 1836, 2800, 110) is False)
+check("meyer_open: 'Vir. 2.' (Ver. misread)", B.meyer_open("Vir. 2. The genuineness of the article")[1] == 2)
 check("meyer_heading: a running head 'CHAP. I. 18. 67' is not a heading",
       B.meyer_heading(line("CHAP. I. 18. 67", 745, 60, 1100, 32), None, "", 1770, 2800, 110) is False)
 check("meyer_heading: a short line in lower case is not a heading",
@@ -719,6 +750,25 @@ if len(num) == 12:
           num["keil-delitzsch-kings"]["1Kgs"] == "kjv" and num["keil-delitzsch-minor-prophets-1"]["Hos"] == "kjv")
     check("manifest: Jeremiah vol. II covers only chapters 30-52",
           ents["keil-delitzsch-jeremiah-2"]["measure"]["kjv_coverage"]["Jer"].get("chapters") == [30, 52])
+
+
+def _in_chapters(e, b):
+    c = e["measure"]["kjv_coverage"][b]
+    return c["commented"] / c.get("kjv_verses_in_chapters", c["kjv_verses"])
+
+
+check("manifest: Meyer on Acts and Corinthians comments on 93% of the verses in the chapters each volume holds",
+      all(_in_chapters(ents[k], b) >= 0.93 for k, b in (
+          ("meyer-acts-1", "Acts"), ("meyer-acts-2", "Acts"), ("meyer-corinthians-1", "1Cor"),
+          ("meyer-corinthians-2", "1Cor"), ("meyer-corinthians-2", "2Cor")) if k in ents))
+check("manifest: the epistle volumes comment on 75% of every book's verses (Philemon's runs are the low one)",
+      all(_in_chapters(ents[k], b) >= 0.75 for k in ("meyer-galatians", "meyer-ephesians-philemon",
+          "meyer-philippians-colossians", "huther-pastorals", "lunemann-hebrews", "huther-james-john",
+          "huther-peter-jude") if k in ents for b in ents[k]["measure"]["kjv_coverage"]))
+check("manifest: Huther's per-verse critical paragraphs stay in the chapter's intro (James-John)",
+      ents.get("huther-james-john", {}).get("measure", {}).get("critical_paragraphs_by_verse", 0) >= 1)
+check("manifest: Meyer's Acts II read 'XX.' over chapter XIX as XIX (the running heads print it)",
+      ents.get("meyer-acts-2", {}).get("measure", {}).get("chapter_headings_skip_refused", 0) >= 1)
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)
