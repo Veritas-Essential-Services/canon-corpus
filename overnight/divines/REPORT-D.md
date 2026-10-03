@@ -691,3 +691,6 @@
 
 ## 2026-10-03 02:36 CDT — wratislaw: done
 - 1/1 fetched (Gutenberg 48761), 565 units, 0 ~2 ids.
+
+## 2026-10-03 02:37 CDT — borrow: done
+- 1/1 fetched (Gutenberg 16244), 115 units, 0 ~2 ids.
