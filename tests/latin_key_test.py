@@ -132,6 +132,9 @@ David = T("david", [R(["David"], "David", "N", None, proper=True)], cased="David
 rescisset = T("rescisset", [R(["rescisco"], "rescisco", "V")])
 ok(B.resolve(T("cum", cumR), David, "quod", None, rescisset) == (None, []),
    "Quod cum David rescisset: a name then a verb may be the clause's subject, so cum stays null")
+vero = T("vero", [R(["verus"], "verus", "ADJ", "ABL"), R(["vero"], "vero", "ADV")])
+ok(B.resolve(T("cum", cumR), vero, "et") == ("cum2", ["no-prep-object"]),
+   "cum vero: vero stands second in its clause, so cum opened it: not 'with'")
 sanctus = T("sanctus", [R(["sanctus"], "sanctus", "ADJ", "NOM"), R(["sancio"], "sancio", "VPAR", "NOM")])
 ok(B.resolve(sanctus, None, None) == (None, []), "adjective or participle, both common: null, never guessed")
 ok(B.ls_fold("a^credula") == "acredula" and B.ls_fold("ăd-ōro") == "adoro",
@@ -154,11 +157,14 @@ if os.path.isdir(os.path.join(ROOT, ".git")):
 else:
     print("skip  git tracking check: not a git checkout")
 
-missing = [n for n in man["files"] if not os.path.exists(os.path.join(B.LOCAL, n))]
-if missing:
-    print(f"skip  the built files: {len(missing)} not in build/latin-key (python3 pipeline/build_latin_key.py)")
+missing = {n for n in man["files"] if not os.path.exists(os.path.join(B.LOCAL, n))}
+for n in sorted(missing):
+    print(f"skip  {n}: not in build/latin-key (python3 pipeline/build_latin_key.py)")
+if missing - {"strongs-latin.jsonl"}:       # strongs-latin also needs the local KJV tags
     end_to_end()
 for name, meta in man["files"].items():
+    if name in missing:
+        continue
     with open(os.path.join(B.LOCAL, name), "rb") as f:
         blob = f.read()
     ok(hashlib.sha256(blob).hexdigest() == meta["sha256"] and blob.count(b"\n") == meta["rows"],
@@ -219,6 +225,8 @@ ok(forms["septimo"]["ls"] == ["septimus"], "septimo is septimus, the ordinal, no
 ok("1Sam.23.9" not in str(conc["cum1"]["resolved"]), "1 Sam 23:9 Quod cum David rescisset: not cum 'with'")
 
 # -- Strong's -> the Vulgate's Latin -------------------------------------------
+if "strongs-latin.jsonl" in missing:
+    end_to_end()
 eq = {r["strongs"]: r for r in rows("strongs-latin.jsonl")}
 first = {k: r["latin"][0]["ls"] for k, r in eq.items()}
 for num, word in (("G26", "caritas"), ("G25", "diligo"), ("H2617", "misericordia"), ("H3068", "dominus"),

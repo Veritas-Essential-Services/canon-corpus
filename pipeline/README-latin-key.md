@@ -182,6 +182,11 @@ for them:
 - **An adverb** can be a preposition's object in the Vulgate. *a longe* means
   "from afar".
 
+`no-prep-object` also fires when the next word is a particle that stands
+second in its clause (*vero*, *autem*, *enim*, *itaque*, *igitur*, *quoque*,
+*quidem*): *cum vero* is "but when", since no such particle comes between a
+preposition and its object.
+
 `prep-object` stands aside once too: a name with no case followed by a verb
 (*Quod cum David rescisset*, 1 Sam 23:9) may be the subject of a cum-clause,
 so *cum* stays null there.

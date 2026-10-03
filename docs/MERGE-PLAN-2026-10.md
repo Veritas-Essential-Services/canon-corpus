@@ -23,8 +23,8 @@ that can run in the cloud passes.
 | 3 | #9 | `claude/project-thread-xatdhh` | Vulgate, Douay, Brenton + their KJV maps | db5f5a9 |
 | 4 | #8 | `claude/project-thread-tskfc3` | whole Greek NT, Hebrew OT text, Apostolic Fathers | f42632b |
 | 4b | — | — | **after #8: rerun `python3 pipeline/build_parallel_index.py` and commit the result.** It fills the Greek NT column; #9's build reads #8's one-folder-per-book layout. | — |
-| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word | 97dc4c0 |
-| 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry | 0281061 |
+| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word (**squash-merge**) | 97dc4c0 |
+| 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry (**squash-merge**) | 0281061 |
 | 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles | 0b231ed |
 | 8 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 4aa2994 |
 
@@ -228,8 +228,11 @@ counterpart on the relay branch.
 - Adopt the 14,197 proposed word uids (`build_strongs.py --adopt`).
 - Use the citation form `strongs:G26`, of kind `lexeme`.
 - The 101 Greek "Not Used" numbers get no uid.
-- Purge the files #10 took out for rights reasons from #10's and #7's history
-  (force-push both). Not needed for `main` if #10 merges before #7.
+- **Squash-merge #10 and #7** (or purge first). The files #10 took out for
+  rights reasons are still in both branches' earlier commits (b35ad03,
+  39ffc1e, 4620d48, 692ad17). An ordinary merge would carry those commits,
+  and the files with them, into `main`'s history; a squash merge does not.
+  The alternative is to purge both branches' history first (force-push).
 - The KJV Strong's tags: eBible labels them Public Domain, while CrossWire's
   module says GPL. Decide which. Until you do, everything built from them
   (`kjv-tags`, `kjv-renderings`, the KJV half of the concordance, the

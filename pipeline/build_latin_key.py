@@ -442,6 +442,8 @@ PUNCT = re.compile(r"[,.;:?!]")
 INDEF_AFTER = {"si", "ne", "num"}       # after these, quis is indefinite (not nisi: nisi qui is relative)
 RULES = ("idem-dem", "proper-lower", "possessive-agrees", "whole-word", "rare-inflection", "rare-entry",
          "prep-object", "no-prep-object", "si-quis")
+# particles the Vulgate puts second in a clause (itaque and igitur by its own habit)
+POSTPOSITIVE = {"vero", "autem", "enim", "itaque", "igitur", "quoque", "quidem"}
 PRIORS = {"rare-entry", "rare-inflection", "whole-word"}   # WORDS's grades and conventions, not grammar
 FAMILY = {"VPAR": "V", "SUPINE": "V"}      # a participle or supine is its verb's
 POSSESSIVES = {"meus", "tuus", "suus", "noster", "vester"}
@@ -583,7 +585,12 @@ def resolve(tok, nxt_tok, prev_form, prev_tok=None, nxt2_tok=None):
         name_then_verb = ("X" in nxt_cases and nxt_tok["cased"][:1].isupper() and nxt2_tok and nxt2_tok["R"]
                           and not nxt_tok["punct_after"]
                           and all(r["pos"] == "V" for r in nxt2_tok["R"]))
-        if governs and name_then_verb:
+        # cum vero, cum itaque: a postpositive particle stands second in its
+        # clause and never between a preposition and its object, so the word
+        # before it opened the clause on its own: not a preposition
+        if nxt_tok and not tok["punct_after"] and nxt_tok["form"] in POSTPOSITIVE:
+            groups = _keep(groups, lambda t, R: not preps[t], "no-prep-object", used)
+        elif governs and name_then_verb:
             pass
         elif governs:
             groups = _keep(groups, lambda t, R: bool(preps[t] & (nxt_cases | {"X"})) or

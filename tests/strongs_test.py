@@ -142,10 +142,11 @@ import hashlib  # noqa: E402
 kjv_uids = {c: u for c, u in reg.map.items() if c.startswith("kjv:")}
 IN_GIT = os.path.isdir(os.path.join(ROOT, ".git"))
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "data/strongs", "build"], capture_output=True, text=True)
-tracked = {os.path.basename(t) for t in r.stdout.split()}
+tracked = set(r.stdout.split())
+allowed = {f"data/strongs/{n}" for n in B.FILES} | {f"data/strongs/{n}.prov.md" for n in B.FILES}
 if IN_GIT:
-    ok(r.returncode == 0 and not tracked & set(B.LOCAL_FILES),
-       "no file built from the KJV tags is tracked by git (rights call pending)")
+    ok(r.returncode == 0 and tracked <= allowed,
+       "git tracks only the committed Strong's files: nothing built from the KJV tags (rights call pending)")
 else:
     print("skip  git tracking checks: not a git checkout")
 ok(man["local"]["rights"]["committed"] is False and "GPL" in man["local"]["rights"]["license"],

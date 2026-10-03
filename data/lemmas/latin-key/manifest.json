@@ -59,19 +59,19 @@
   },
   "vulgate_tokens_by_outcome": {
    "no-ls": 19307,
-   "resolved": 49522,
+   "resolved": 49523,
    "sure": 422339,
    "unread": 502,
-   "unresolved": 120359
+   "unresolved": 120358
   },
   "vulgate_tokens_resolved_by_rule": {
    "rare-entry": 21643,
    "idem-dem": 8957,
-   "prep-object": 6368,
+   "prep-object": 6359,
    "whole-word": 3058,
    "rare-inflection": 2912,
    "possessive-agrees": 2227,
-   "no-prep-object": 1819,
+   "no-prep-object": 1829,
    "proper-lower": 1549,
    "proper-lower+prep-object": 465,
    "si-quis": 192,
@@ -86,7 +86,7 @@
    "proper-lower+possessive-agrees+prep-object": 2
   },
   "vulgate_tokens_resolved_by_kind": {
-   "a grammar rule took part": 21843,
+   "a grammar rule took part": 21844,
    "priors only (rare-entry, rare-inflection, whole-word)": 27679
   },
   "vulgate_keys": 9364,
@@ -123,15 +123,15 @@
   },
   "vulgate-forms.jsonl": {
    "rows": 46316,
-   "sha256": "e3caa5e86213204a6a7ac124c5fe3e9eb3b100cbe2a670de7aa31d711a362152"
+   "sha256": "55cf2e3d98b09bd9c269072cebab7b57a3dfe5577dcd58158a411ef0f9339b1b"
   },
   "vulgate-concordance.jsonl": {
    "rows": 9364,
-   "sha256": "d0ee265e7137c2a156e2deb83f653ace40d27442c3cc821d4a79f4cdbc04976f"
+   "sha256": "ba9e96b6b141a96058b876268adb9252c6a85b83753af1a25817bb18b00bdeee"
   },
   "strongs-latin.jsonl": {
    "rows": 3950,
-   "sha256": "d18b5c29a8cf7a34e759732ef09ffafe7ab2a6f76a6ca5d50296a3c7a364a5c9"
+   "sha256": "9710d9b32601379861bbddc8f0b0ee097d0f8376ceecf110cc561a4aca18a568"
   }
  },
  "files_dir": "build/latin-key/ (gitignored: built from Perseus's CC BY-SA text)"
