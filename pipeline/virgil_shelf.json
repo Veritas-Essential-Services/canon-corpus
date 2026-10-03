@@ -205,6 +205,11 @@
    "atranslationvir00marogoog",
    "A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870)",
    "tr. E. M. Millington"
+  ],
+  "virgil-hoblyn-georgics-i-1825": [
+   "atranslationfir00marogoog",
+   "A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825)",
+   "tr. Robert Hoblyn"
   ]
  },
  "_cross_ref": {
@@ -286,7 +291,8 @@
   "virgil-conington-verse-aeneid-1867": "Conington",
   "virgil-thornhill-aeneid-1886": "Thornhill",
   "virgil-king-eclogues-georgics-1882": "J. M. King",
-  "virgil-millington-eclogues-1870": "e. m. millington"
+  "virgil-millington-eclogues-1870": "e. m. millington",
+  "virgil-hoblyn-georgics-i-1825": "robert hoblyn"
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -792,6 +798,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-hoblyn-georgics-i-1825": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "robert hoblyn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
