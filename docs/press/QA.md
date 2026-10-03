@@ -42,8 +42,10 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 22 | 22 |
 | perkins-art-of-prophesying | tcp |  | 25,832 | 384 | 87 | 0 | 294 (294) | 287 | 4 | 0 | 115 | 723 | 0 |
 | rhb-a-perfect-redeemer | tcp |  | 24,337 | 77 | 168 | 0 | 73 (73) | 72 | 6 | 0 | 54 | 620 | 0 |
+| rhb-christ-and-his-threefold | tcp |  | 259,763 | 1,870 | 976 | 0 | 1,455 (1,455) | 1,207 | 13 | 0 | 1763 | 3227 | 0 |
 | rhb-comfort-and-holiness-from | tcp |  | 36,466 | 221 | 15 | 0 | 13 (13) | 13 | 2 | 0 | 7 | 202 | 0 |
 | rhb-contentment-prosperity-and-gods | tcp |  | 25,925 | 115 | 3 | 0 | 11 (11) | 15 | 1 | 0 | 11 | 70 | 0 |
+| rhb-faith-seeking-assurance | tcp |  | 479,920 | 2,642 | 1701 | 0 | 842 (842) | 755 | 18 | 0 | 975 | 2184 | 0 |
 | rhb-freedom-from-sins-dominion | tcp |  | 29,639 | 244 | 0 | 0 | 78 (78) | 113 | 2 | 0 | 12 | 92 | 0 |
 | rhb-gospel-evidences-of-saving | tcp |  | 27,098 | 206 | 0 | 0 | 103 (103) | 135 | 7 | 0 | 10 | 63 | 0 |
 | rhb-holy-helps-for-a | tcp |  | 55,456 | 1,030 | 397 | 0 | 173 (173) | 157 | 2 | 0 | 8 | 924 | 0 |
