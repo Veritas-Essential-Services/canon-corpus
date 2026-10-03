@@ -964,3 +964,12 @@ No CCEL or Gutenberg text. Raw IA OCR from a Princeton scan; slug `romaine-*`.
 |---|---|---|
 | Whole Works (London: Blake, 1837, one volume): Cadogan's Life, Discourses on the Law and Gospel, the Life, Walk and Triumph of Faith, Psalm 107, Letters, Sermons, Essay on Psalmody | have-raw | IA (identifier in the shelf) |
 | Works, 8 vols (London, 1801) | alternate | IA; long-s print OCRs at 85-88% |
+
+## Isaac Ambrose (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from a Princeton scan; slug `ambrose-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works (London: Tegg, 1829, one volume): Prima, Media and Ultima (Regeneration, the Means, the Last Things), Looking unto Jesus, War with Devils, Communion with Angels, with a memoir | have-raw | IA (identifier in the shelf) |
+| Earlier Works (1799-1811) and separate printings (1737-1856) | alternate | IA |

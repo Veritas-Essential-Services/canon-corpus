@@ -259,3 +259,6 @@
 
 ## 2026-10-02 20:30 CDT — romaine done
 - `pipeline/romaine_shelf.json`: 1 volume (Whole Works, 1837), raw IA OCR, 99.5%, about 5.2 MB. First built on the 1801 8-volume Works, which scored 85-88% because of its long-s type; three one-volume editions were test-fetched (98.2-99.5%) and the best taken. Its title page lists the contents, and the text was searched for each. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Lesson for the rest of the round: prefer a 19th-century reprint over a long-s first edition.
+
+## 2026-10-02 20:32 CDT — isaac-ambrose done
+- `pipeline/isaac-ambrose_shelf.json`: 1 volume (Works, 1829), raw IA OCR, 99.1%, about 1.8 MB; the text was searched for each of the main treatises and all are present. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
