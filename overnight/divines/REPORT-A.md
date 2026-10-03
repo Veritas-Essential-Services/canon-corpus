@@ -231,3 +231,6 @@
 
 ## 2026-10-02 20:03 CDT — warfield done
 - `pipeline/warfield_shelf.json`: 19 lifetime books (1886-1921), raw IA OCR, median 97.5% (lowest 91.8%, the Institutes history), about 5.9 MB. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. The posthumous Oxford Works are left out: lending scans, and the later volumes fall after the 1930 line.
+
+## 2026-10-02 20:06 CDT — thornwell done
+- `pipeline/thornwell_shelf.json`: 6 items, raw IA OCR, median 97.2% (95.5-98.0%), about 8.7 MB. Discourses on Truth: the California scan's OCR loses the author's name, so the Library of Congress scan is used, with an `_identity_checked` reason quoting its title page ("Thornweil" is the OCR's reading of Thornwell). Volume dates were read from the title pages (vols 3-4 are 1873). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Flagged for veto: vol. 4 carries much of his defence of slavery.

@@ -885,6 +885,17 @@ No CCEL or Gutenberg text. Nineteen books he published in his lifetime, from lib
 | Oxford Works, 10 vols (1927-1932) | excluded | posthumous; lending scans; later volumes fail the rights gate |
 | Four Hymns (1910) | excluded | verse, for the hymn manifest |
 | Reprints 1935-1997; books by others with his contribution | excluded | modern or not his |
+
+## James Henley Thornwell (round 5, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton and Library of Congress scans; slugs `thornwell-*`. He was a leading clerical defender of slavery and secession; the shelf waits on Adam's veto (DIGEST-A).
+
+| Work | Status | Where |
+|---|---|---|
+| Collected Writings, vol. 1 Theological (1871), vol. 2 Theological and Ethical (1871), vol. 3 Theological and Controversial (1873), vol. 4 Ecclesiastical (1873) | have-raw | IA (identifiers in the shelf) |
+| Discourses on Truth (1855); The Arguments of Romanists (1845) | have-raw | IA |
+| Pamphlets on slavery and secession (1850-1862) | excluded | for Adam's call |
+| Palmer, Life and Letters (1875) | excluded | biography by another author |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

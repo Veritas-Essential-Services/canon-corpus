@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain James Henley Thornwell (1812-1862, Southern Presbyterian theologian, South Carolina College and Columbia Seminary) for the Word Hoard: the Collected Writings (Richmond, 1871-73, ed. John B. Adger and John L. Girardeau, 4 vols) and two books he published himself, raw Internet Archive OCR from Princeton and California scans. CCEL and Gutenberg hold none of it. Thornwell was a leading clerical defender of slavery and secession; his pamphlets on those subjects are listed under _excluded, not shelved, and the whole shelf awaits Adam's veto. Added 2026-10-02 by lane A, round 5 (my pick). No uids minted.",
+ "_name_words": [
+  "thornwell",
+  "henley"
+ ],
+ "_surname": [
+  "thornwell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thornwell-collected-writings-1": [
+   "collectedwriting01thor",
+   "The Collected Writings of James Henley Thornwell, vol. 1: Theological (Richmond, 1871)"
+  ],
+  "thornwell-collected-writings-2": [
+   "collectedwriting02thor",
+   "The Collected Writings of James Henley Thornwell, vol. 2: Theological and Ethical (Richmond, 1871)"
+  ],
+  "thornwell-collected-writings-3": [
+   "collectedwriting03thor",
+   "The Collected Writings of James Henley Thornwell, vol. 3: Theological and Controversial (Richmond, 1873)"
+  ],
+  "thornwell-collected-writings-4": [
+   "collectedwriting04thor",
+   "The Collected Writings of James Henley Thornwell, vol. 4: Ecclesiastical (Richmond, 1873)"
+  ],
+  "thornwell-discourses-on-truth-1855": [
+   "discoursesontrut00thor",
+   "Discourses on Truth, delivered in the Chapel of the South Carolina College (1855)"
+  ],
+  "thornwell-arguments-of-romanists-1845": [
+   "argumentsofroman00thor",
+   "The Arguments of Romanists from the Infallibility of the Church and the Testimony of the Fathers in behalf of the Apocrypha (1845)"
+  ]
+ },
+ "_alternates": {
+  "collectedwriting0002..0004thor (1873 printing); collectedwritin00adgegoog (Google scan)": "Other scans of the Collected Writings.",
+  "discoursesontrut00thorrich; discoursesontru00thorgoog": "Other scans of Discourses on Truth (the California scan's OCR loses the author's name from the title page).",
+  "argumentsofroman01thor; argumentsromani00thorgoog": "Other scans of the Arguments of Romanists."
+ },
+ "_excluded": {
+  "rightsandduties00thorgoog, rightsdutiesofma00thor, ASPC0001984800 (Rights and Duties of Masters, 1850); stateofcountry* and hearsouthstateof00thor (The State of the Country, 1861); ourdangerourduty* (1862); nationalsinsfast00thor (1860); reportonsubjecto00pres (1852)": "Pamphlets defending slavery and secession. Left off a devotional shelf; Adam's call whether they belong anywhere in the collection as historical record.",
+  "sacrificeofchris00thor; necessityofatone00thor; tractondoctrines00thor": "Single sermons and tracts, reprinted in the Collected Writings.",
+  "jameshenleythorn00palmrich; lifelettersofjam00palm": "Palmer's Life and Letters (1875): a biography by another author.",
+  "rainbowaroundto*, ladysguide* (Emily Thornwell); Thornwell Jacobs titles": "Other authors who share the name.",
+  "vindicationofpro00trai": "Robert Traill's book; Thornwell only edited it."
+ },
+ "_identity_checked": {
+  "thornwell-discourses-on-truth-1855": "Library of Congress scan, 1855. Its title page reads 'Discourses on Truth. Delivered in the Chapel of the South Carolina College. James H. Thornweil [OCR for Thornwell], D.D., President and Chaplain'; the surname is misread by the OCR, not absent."
+ },
+ "_checks": {
+  "thornwell-collected-writings-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thornwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871-73",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thornwell-collected-writings-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thornwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871-73",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thornwell-collected-writings-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thornwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871-73",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thornwell-collected-writings-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thornwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871-73",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thornwell-discourses-on-truth-1855": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "thornwell-arguments-of-romanists-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thornwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
