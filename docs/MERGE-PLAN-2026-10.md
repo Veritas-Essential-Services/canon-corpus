@@ -25,7 +25,7 @@ that can run in the cloud passes.
 | 4b | — | — | **after #8: rerun `python3 pipeline/build_parallel_index.py` and commit the result.** It fills the Greek NT column; #9's build reads #8's one-folder-per-book layout. | — |
 | 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word (**squash-merge**) | 97dc4c0 |
 | 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry (**squash-merge**) | 0281061 |
-| 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles | 0b231ed |
+| 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles, Schaff | ff633ad |
 | 8 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 4aa2994 |
 
 Heads move. Before merging, check each branch's head against this table; if
@@ -42,9 +42,9 @@ one moved, repeat the trial (last section).
   shows only the Strong's work.
 - **#7 contains an older #10** (merged at 232ae6d, for its tooling). So #10
   goes before #7.
-- **#11 is stacked on #8 and #9** (its own commits start after 9d6dae5), so it
-  goes after them; it is placed after #7 so the Apostolic Fathers manifest
-  entries are settled once.
+- **#11 contains #7, #8 and #9** (it merges schaff-fathers, which carries
+  #7), so it goes after all three. Its trial row below was taken at 0b231ed,
+  before it merged #7 and the Tudor Bibles; repeat the trial before merging.
 - **#6 is independent.** It is small and touches the reader, so it goes first.
   It now carries two commits that need your ruling (below).
 - **The relay branch is last.** It is 158 new files (shelf lists, converters,
@@ -242,11 +242,9 @@ counterpart on the relay branch.
 - The Latin key (added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? Until you say yes, only its manifest is committed; the files build to `build/latin-key/` and were removed from the branch's history on 2026-10-02. It adds no conflicts.
 
 **#11**
-- Before merging, check the #11 review's fix has landed on #11's branch (the
-  Archive.org pickups thread owns it). All 9 Lightfoot rows put prose in
-  `rights.license` instead of the house token `public-domain`, so a filter on
-  that token skips them. Fix: `rights.license` = `public-domain`, prose moved
-  to a note field.
+- The #11 review's Lightfoot fix has landed (ff633ad): all 9 rows now carry
+  the house token `rights.license: public-domain`, CCEL's rights lines moved
+  unchanged to `rights.note`. The same commit restores the manifest's indent=1.
 - Lightfoot: should `redistribute_whole` be true? The text is PD; CCEL claims
   copyright on its prepared file.
 - #8's `build_apostolic_fathers.py` still lists Lightfoot as pending; that fix
