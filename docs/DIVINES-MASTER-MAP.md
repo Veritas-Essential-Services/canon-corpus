@@ -7775,6 +7775,14 @@ Shelf: `pipeline/maud-lindsay_shelf.json` (2026-10-02; added at the coordinator'
 | A Story Garden for Little Children | have | PG 62748, `lindsay-story-garden` (479 units) |
 | The Story-teller | have | PG 23735, `lindsay-story-teller` (544 units) |
 
+## Catherine Sinclair
+
+Shelf: `pipeline/catherine-sinclair_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). An early Victorian children's book of family stories, with Uncle David's nonsensical story about giants and fairies; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Holiday House: A Series of Tales | have | PG 32811, `csinclair-holiday-house` (1077 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
