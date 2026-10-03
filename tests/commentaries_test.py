@@ -210,6 +210,34 @@ check("scripture: a dash after a list that skips chapters is a separator, not a 
       "(Bengel on 2 Cor 5.16: '1 Cor. ii. 8, 11—viii. 1')",
       [(x["target"], x.get("through")) for x in B.scripture("1 Cor. ii. 8, 11—viii. 1", ids)]
       == [("kjv:1Cor.2.8", None), ("kjv:1Cor.2.11", None)])
+# (review c11) a comma list of verses after 'ch. v.' stays in that chapter (FS.parse alone read
+# the third item as 'chapter, verse')
+for t, want in (("Rom. viii. 1, 2, 13", ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.8.13"]),
+                ("Rom. viii. 28, 29, 30", ["kjv:Rom.8.28", "kjv:Rom.8.29", "kjv:Rom.8.30"]),
+                ("Gal. iii. 6, 7, 8", ["kjv:Gal.3.6", "kjv:Gal.3.7", "kjv:Gal.3.8"]),
+                ("Rom. 8:1, 2, 13", ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.8.13"])):
+    r = B.scripture(t, ids)
+    check(f"scripture: '{t}' stays in its chapter", [x.get("target") for x in r] == want
+          and all(x["resolved"] and "through" not in x for x in r))
+r = B.scripture("Rom. viii. 1, 3-5, 13, ix. 2", ids)
+check("scripture: a list with a range in it, then another chapter after a comma",
+      [(x["target"], x.get("through")) for x in r]
+      == [("kjv:Rom.8.1", None), ("kjv:Rom.8.3", "kjv:Rom.8.5"), ("kjv:Rom.8.13", None), ("kjv:Rom.9.2", None)])
+r = B.scripture("Gal. iii. 6, 7, 8-iv. 2", ids)
+check("scripture: a three-item list closed by a range into the next chapter keeps its end",
+      [(x["target"], x.get("through")) for x in r]
+      == [("kjv:Gal.3.6", None), ("kjv:Gal.3.7", None), ("kjv:Gal.3.8", "kjv:Gal.4.2")])
+check("scripture: an arabic 'N. M, ...' list is left to FS.parse", B.verse_lists("Rom. 8. 1, 2, 13") == "Rom. 8. 1, 2, 13")
+# (review c11) the self 'c.': names are refused; only the OCR misreadings observed in these scans are read
+check("scripture: a name before a self 'c.' is refused, opening a sentence too ('Hero', 'Hera', 'Leo', 'Dio', 'Nate')",
+      not any(B.scripture(f"the first. {w} c. v. 11", ids, own="Gal", chapter=2)
+              for w in ("Hero", "Hera", "Leo", "Dio", "Nate", "Abovo")))
+check("scripture: each kept OCR misreading before a self 'c.' is read (SELF_C_OCR)",
+      set(B.SELF_C_OCR) == {"oompare", "oomp.", "boo", "seo"}
+      and all([x.get("target") for x in B.scripture(f"the first. {w} c. v. 11", ids, own="Gal", chapter=2)]
+              == ["kjv:Gal.5.11"] for w in ("Oompare", "Oomp.", "Boo", "Seo")))
+check("scripture: '(comp. c. v. 11' is read like 'comp. c. v. 11'",
+      [x.get("target") for x in B.scripture("so (comp. c. v. 11)", ids, own="Gal", chapter=2)] == ["kjv:Gal.5.11"])
 # (review c10) the Bengel vol. II title page names Fausset as its only translator
 check("pins: Bengel vol. II is Fausset's translation, as its title page reads",
       "tr. Andrew R. Fausset" in B.SCANS["bengel-gnomon-2"]["edition"]
@@ -522,8 +550,30 @@ check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["
 check("meyer: every volume pinned, printed before 1929, IA date recorded, in SECOND and ORDER",
       B.MEYER and all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) and v["printed"] < 1929 and v.get("ia_date")
                       and k in B.SECOND and k in B.ORDER and v["reader"] == "meyer" for k, v in B.MEYER.items()))
-check("meyer: the Gospels and Romans are shelved",
-      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} >= {"Matt", "Mark", "Luke", "John", "Rom"})
+check("meyer: the series is shelved from Matthew to Jude, all but Thessalonians (no scan keeps the Greek)",
+      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} == {
+          "Matt", "Mark", "Luke", "John", "Acts", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Phil", "Col", "1Tim", "2Tim",
+          "Titus", "Phlm", "Heb", "Jas", "1Pet", "2Pet", "1John", "2John", "3John", "Jude"})
+check("meyer: the volumes Huther and Lünemann wrote name them as author, and their slugs",
+      all(B.MEYER[k]["author"] == a for k, a in (("huther-pastorals", "J. E. Huther"), ("lunemann-hebrews",
+          "Gottlieb Lünemann"), ("huther-james-john", "J. E. Huther"), ("huther-peter-jude", "J. E. Huther")))
+      and all(v["author"] == "H. A. W. Meyer" for k, v in B.MEYER.items() if k.startswith("meyer-")))
+check("meyer: an IA item with no rights status is recorded so, not as NOT_IN_COPYRIGHT",
+      B.MEYER["huther-peter-jude"]["ia_rights"] is None and B.MEYER["huther-pastorals"]["ia_rights"] == "NOT_IN_COPYRIGHT")
+
+
+def _meyer_without_rights():
+    try:
+        B._meyer("x", "0" * 64, "t", "s", "e", 1880, "c", (1, 2), [], "1880")
+    except TypeError:
+        return True
+    return False
+
+
+check("meyer: a volume's IA rights status is recorded per volume, never defaulted (--fetch checks it live)",
+      _meyer_without_rights() and all("ia_rights" in v for v in B.MEYER.values()))
+check("meyer: Corinthians vol. II holds 1 Cor 14-16 and 2 Cor, so its ids name the book",
+      "meyer-corinthians-2" in B.MULTI and B.MEYER["meyer-corinthians-2"]["first_chapter"] == {"1Cor": 14})
 check("meyer: an IA date that is not the title page's year says why",
       all(v.get("ia_date_note") for v in B.MEYER.values() if not v["ia_date"].startswith(str(v["printed"]))))
 check("meyer: no Godet volume is shelved (no scan keeps its Greek)", not any("godet" in k for k in B.ORDER))
@@ -552,6 +602,15 @@ check("meyer_heading: a garbled heading over a critical paragraph is a heading, 
       B.meyer_heading(line("CH APR R Vol", 613, 900, 1000, 40),
                       line("Ver. 1. Instead of ἤλθεν, we must read with Tisch., following", 110, 950, 1700, 40),
                       "BCLAY, ἔρχεται.", 1856, 2800, 110) == ())
+check("meyer_heading: a short centred capital line over 'Ver. 1.' is a heading, though no sigla follow",
+      B.meyer_heading(line("CELA DER Τ ΤΥ.", 700, 900, 1100, 40),
+                      line("Ver. 1. πιστός] Instead of this, D has ἀνθρώπινος", 110, 950, 1700, 40),
+                      "Fathers have humanus.", 1836, 2800, 110) is not False)
+check("meyer_heading: a short line set in over a later verse's note is not",
+      B.meyer_heading(line("ΚΑΙ ΤΟΥΤΟ", 700, 900, 1000, 40),
+                      line("Ver. 12. The apostle returns to the deacons", 110, 950, 1700, 40),
+                      "and gives", 1836, 2800, 110) is False)
+check("meyer_open: 'Vir. 2.' (Ver. misread)", B.meyer_open("Vir. 2. The genuineness of the article")[1] == 2)
 check("meyer_heading: a running head 'CHAP. I. 18. 67' is not a heading",
       B.meyer_heading(line("CHAP. I. 18. 67", 745, 60, 1100, 32), None, "", 1770, 2800, 110) is False)
 check("meyer_heading: a short line in lower case is not a heading",
@@ -578,11 +637,35 @@ check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
       all(ents[k]["measure"]["kjv_coverage"][b]["commented"] >= 0.95 * ents[k]["measure"]["kjv_coverage"][b]["kjv_verses"]
           for k, b in (("meyer-mark-luke-1", "Mark"), ("meyer-romans", "Rom")) if k in ents))
 # -- K&D: an undecided measure falls back to the work's own numbering, pooled over its volumes (review c9)
-check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew",
-      B.work_numbering("Ps", ids)["decision"] == "hebrew" and len(B.work_numbering("Ps", ids)["volumes"]) == 3)
-check("work_numbering: Joel and Malachi measure KJV; a book no volume holds is undecided",
-      B.work_numbering("Joel", ids)["decision"] == "kjv" and B.work_numbering("Mal", ids)["decision"] == "kjv"
-      and B.work_numbering("Song", ids) == dict(B.work_numbering("Song", ids), decision="undecided", volumes=[]))
+# (review c11) the pooled votes as the committed manifest records them (measure.numbering_work):
+# no scan needed
+_nw = {}
+for _e in ents.values():
+    _nw.update(_e["measure"].get("numbering_work", {}))
+if {"Ps", "Joel", "Mal"} <= set(_nw):
+    check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew (manifest)",
+          _nw["Ps"]["decision"] == "hebrew" and len(_nw["Ps"]["volumes"]) == 3)
+    check("work_numbering: Joel and Malachi measure KJV (manifest)",
+          _nw["Joel"]["decision"] == "kjv" and _nw["Mal"]["decision"] == "kjv")
+else:
+    print("SKIPPED work_numbering: the manifest records no pooled votes for Ps, Joel and Mal")
+check("work_numbering: a book no K&D volume holds is undecided, with no volumes (no scan read)",
+      B.work_numbering("Matt", ids) == dict(B.work_numbering("Matt", ids), decision="undecided", volumes=[]))
+B._WORK.clear()
+B._OWN.clear()
+_saved = B.scan_present
+B.scan_present = lambda slug: False
+try:
+    _ok = all(B.work_numbering(b, ids) == _nw[b] for b in ("Ps", "Joel", "Mal") if b in _nw)
+except SystemExit as e:
+    _ok = None
+    print(f"SKIPPED (scans absent) work_numbering from committed votes: {str(e).splitlines()[0]}")
+B.scan_present = _saved
+B._WORK.clear()
+B._OWN.clear()
+if _ok is not None:
+    check("work_numbering: with the scans absent, pooled from the committed numbering_own = the manifest's "
+          "numbering_work", _ok)
 x = B.ot_link("Ps", 34, 12, "undecided", ids, "t")
 check("ot_link: undecided, a verse the two numberings read differently stays unresolved, with both candidates",
       not x["resolved"] and [c.get("target") for c in x["candidates"]] == ["kjv:Ps.34.12", "kjv:Ps.34.11"])
@@ -592,18 +675,23 @@ _s = B.SCANS["delitzsch-psalms-2"]
 _s["_numbering"] = {"Ps": {"decision": "undecided"}}
 _u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
        "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Eccl. v. 1; Joel iii. 1."}]
-_n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
+try:
+    _n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
+except SystemExit as e:         # neither the K&D scans nor their committed votes (review c11)
+    _x = None
+    print(f"SKIPPED (scans absent) harvest K&D: {str(e).splitlines()[0]}")
 _s.pop("_numbering")
 lk = {x["ref"]: x for x in _u[0]["links"]}
-check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
-      not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
-check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
-check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
-      and lk["Ps 34:12"]["rule"].endswith("/work"))
-check("harvest: Eccl 5:1, where no volume measures Ecclesiastes, is unresolved with both candidates",
-      not lk.get("Eccl 5:1", {"resolved": True})["resolved"] and len(lk["Eccl 5:1"].get("candidates", [])) == 2)
-check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
-check("harvest: the work's numbering consulted is recorded", {"Ps", "Eccl", "Joel"} <= set(_x["numbering_work"]))
+if _x is not None:
+    check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
+          not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
+    check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
+    check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
+          and lk["Ps 34:12"]["rule"].endswith("/work"))
+    check("harvest: Eccl 5:1, where no volume measures Ecclesiastes, is unresolved with both candidates",
+          not lk.get("Eccl 5:1", {"resolved": True})["resolved"] and len(lk["Eccl 5:1"].get("candidates", [])) == 2)
+    check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
+    check("harvest: the work's numbering consulted is recorded", {"Ps", "Eccl", "Joel"} <= set(_x["numbering_work"]))
 
 # -- Keil & Delitzsch, the rest of the set (4c)
 its = [{"leaf": i, "book": "Jer", "hc": c} for i, c in enumerate([10, 10, 11, 11, 40, 11, 12, 12, 12, 13, 13])]
@@ -663,6 +751,25 @@ if len(num) == 12:
           num["keil-delitzsch-kings"]["1Kgs"] == "kjv" and num["keil-delitzsch-minor-prophets-1"]["Hos"] == "kjv")
     check("manifest: Jeremiah vol. II covers only chapters 30-52",
           ents["keil-delitzsch-jeremiah-2"]["measure"]["kjv_coverage"]["Jer"].get("chapters") == [30, 52])
+
+
+def _in_chapters(e, b):
+    c = e["measure"]["kjv_coverage"][b]
+    return c["commented"] / c.get("kjv_verses_in_chapters", c["kjv_verses"])
+
+
+check("manifest: Meyer on Acts and Corinthians comments on 93% of the verses in the chapters each volume holds",
+      all(_in_chapters(ents[k], b) >= 0.93 for k, b in (
+          ("meyer-acts-1", "Acts"), ("meyer-acts-2", "Acts"), ("meyer-corinthians-1", "1Cor"),
+          ("meyer-corinthians-2", "1Cor"), ("meyer-corinthians-2", "2Cor")) if k in ents))
+check("manifest: the epistle volumes comment on 75% of every book's verses (Philemon's runs are the low one)",
+      all(_in_chapters(ents[k], b) >= 0.75 for k in ("meyer-galatians", "meyer-ephesians-philemon",
+          "meyer-philippians-colossians", "huther-pastorals", "lunemann-hebrews", "huther-james-john",
+          "huther-peter-jude") if k in ents for b in ents[k]["measure"]["kjv_coverage"]))
+check("manifest: Huther's per-verse critical paragraphs stay in the chapter's intro (James-John)",
+      ents.get("huther-james-john", {}).get("measure", {}).get("critical_paragraphs_by_verse", 0) >= 1)
+check("manifest: Meyer's Acts II read 'XX.' over chapter XIX as XIX (the running heads print it)",
+      ents.get("meyer-acts-2", {}).get("measure", {}).get("chapter_headings_skip_refused", 0) >= 1)
 
 # -- K&D 4d: Delitzsch's Job, Proverbs, Isaiah, keyed by their running heads (reader kdh); synthetic heads
 _r = B.kdh_head("CHAP. III. 10-12. 79", 79, 60)

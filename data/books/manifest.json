@@ -28467,7 +28467,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "J. B. Lightfoot, Saint Paul's Epistle to the Galatians: a revised text with introduction, notes, and dissertations, 10th ed. (1890); this copy the reprint of 1910 (London: Macmillan, 1910), as its title page and imprint read; scan leaves 8-403 of saintpaulsepistl00lighrich; Lane A (branch claude/armarium-divines, pipeline/j-b-lightfoot_shelf.json, lightfoot-galatians-1890) shelves another copy of the same 10th edition, cu31924075537088 (its reprint list ends 1921): Greek 6.8% of letters, Greek tokens known 66.5%, English 92.7%, against 6.8%, 65.9% and 92.6% here (measured 2026-10-03 on each _djvu.txt): not clearly better"
   },
@@ -28502,8 +28502,8 @@
     }
    },
    "scripture_links": {
-    "read": 1351,
-    "resolved": 1195,
+    "read": 1357,
+    "resolved": 1217,
     "ranges": 44,
     "ranges_start_only": 0
    },
@@ -28515,7 +28515,7 @@
     "mixed_script_tokens": 180
    }
   },
-  "built_sha256": "01489d356ed37960092b4012ecfc485becefdc5453f57df6e16d31cdeafe64d0"
+  "built_sha256": "e4a3fdee5f2a002efb673c7cbc9d10d496e5c1420e630a8cd3de892497515fe1"
  },
  "lightfoot-philippians": {
   "title": "St Paul's Epistle to the Philippians",
@@ -28526,7 +28526,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "J. B. Lightfoot, Saint Paul's Epistle to the Philippians: a revised text with introduction, notes, and dissertations, 3rd ed. (London and Cambridge: Macmillan, 1873), as its title page reads; scan leaves 9-362 of stpaulsepistleto00lighuoft; Lane A (branch claude/armarium-divines, pipeline/j-b-lightfoot_shelf.json, lightfoot-philippians-1878) shelves another edition, the 4th (London: Macmillan, 1878), saintpaulsepistl00ligh: Greek 7.3% of letters, Greek tokens known 65.1%, English 92.1%, against 7.3%, 65.6% and 92.4% here (measured 2026-10-03 on each _djvu.txt)"
   },
@@ -28561,9 +28561,9 @@
     }
    },
    "scripture_links": {
-    "read": 1047,
-    "resolved": 854,
-    "ranges": 11,
+    "read": 1049,
+    "resolved": 868,
+    "ranges": 12,
     "ranges_start_only": 0
    },
    "greek": {
@@ -28574,7 +28574,7 @@
     "mixed_script_tokens": 160
    }
   },
-  "built_sha256": "914dcc67dd28c36fe4a8e678d1a32be8feac9170c653a456af9e342c62884665"
+  "built_sha256": "9f46851915d351a62cefb85868fbadf6c405427c62cbdc79050ac3423be89ed7"
  },
  "lightfoot-colossians": {
   "title": "St Paul's Epistles to the Colossians and to Philemon",
@@ -28585,7 +28585,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: text.book.chapter.verse; everything else: printed page (p.N)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse exactly as the Project Gutenberg transcription marks them: a note paragraph opening with a verse number (or a run, '3-8.') starts that verse's unit, its chapter the latest verse anchor in Lightfoot's Greek text with that number; following lemma notes belong to it; Lightfoot's Greek text per verse (text.<book>.<c>.<v>); introductions, dissertations and index by printed page (p.N) as the transcription marks page breaks, footnotes on the unit holding their reference mark, marginal summaries in 'sidenotes'; the transcription is proofread (Distributed Proofreaders), not checked here against the print; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3')",
+   "honesty": "notes keyed by verse exactly as the Project Gutenberg transcription marks them: a note paragraph opening with a verse number (or a run, '3-8.') starts that verse's unit, its chapter the latest verse anchor in Lightfoot's Greek text with that number; following lemma notes belong to it; Lightfoot's Greek text per verse (text.<book>.<c>.<v>); introductions, dissertations and index by printed page (p.N) as the transcription marks page breaks, footnotes on the unit holding their reference mark, marginal summaries in 'sidenotes'; the transcription is proofread (Distributed Proofreaders), not checked here against the print; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo')",
    "status": "draft",
    "note": "J. B. Lightfoot, Saint Paul's Epistles to the Colossians and to Philemon: a revised text with introductions, notes, and dissertations (London: Macmillan, 1875), the first edition (title page as transcribed); PG #50857"
   },
@@ -28622,8 +28622,8 @@
     }
    },
    "scripture_links": {
-    "read": 2093,
-    "resolved": 1852,
+    "read": 2117,
+    "resolved": 1924,
     "ranges": 52,
     "ranges_start_only": 0
    },
@@ -28635,7 +28635,7 @@
     "mixed_script_tokens": 43
    }
   },
-  "built_sha256": "f0feb8ffa7ca2ef7d3bab0e5433d80a7172b23ec663a79e049d273a6aab7f62e"
+  "built_sha256": "73711ea462fa57fd8f002bb86ba5c85f5d78ed1455e5c1099391454b46c7c1a6"
  },
  "westcott-hebrews": {
   "title": "The Epistle to the Hebrews",
@@ -28646,7 +28646,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "same_scan_as": "same scan as Lane A: westcott-hebrews-1892 (pipeline/b-f-westcott_shelf.json, branch claude/armarium-divines)",
    "note": "B. F. Westcott, The Epistle to the Hebrews: the Greek text with notes and essays, 2nd ed. (London and New York: Macmillan, 1892), as its title page reads (first ed. 1889); scan leaves 9-594 of epistletohebrew00westgoog"
@@ -28683,8 +28683,8 @@
     }
    },
    "scripture_links": {
-    "read": 4308,
-    "resolved": 3804,
+    "read": 4332,
+    "resolved": 3845,
     "ranges": 24,
     "ranges_start_only": 1
    },
@@ -28696,7 +28696,7 @@
     "mixed_script_tokens": 197
    }
   },
-  "built_sha256": "985e4b76782fd3c853f85bcd2c78b5f0969aa143a04f1559567f0cc37c6d7802"
+  "built_sha256": "26f4affd318f98ce9808d4bd9800990884825575a0a6ffaff3a73d097b33316a"
  },
  "westcott-john": {
   "title": "The Epistles of St John",
@@ -28707,7 +28707,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "same_scan_as": "same scan as Lane A: westcott-epistles-john-1892 (pipeline/b-f-westcott_shelf.json, branch claude/armarium-divines)",
    "note": "B. F. Westcott, The Epistles of St John: the Greek text with notes and essays, 3rd ed. (Cambridge and London: Macmillan, 1892), as its title page reads (first ed. 1883); scan leaves 9-441 of cu31924074296629"
@@ -28753,8 +28753,8 @@
     }
    },
    "scripture_links": {
-    "read": 2861,
-    "resolved": 2537,
+    "read": 2876,
+    "resolved": 2581,
     "ranges": 15,
     "ranges_start_only": 1
    },
@@ -28766,7 +28766,7 @@
     "mixed_script_tokens": 116
    }
   },
-  "built_sha256": "939c6d4ecf091449018f373a108b56735a80358d5806ee1f00592d8c41cd0e6b"
+  "built_sha256": "dce61914e775396e505cbcd38545b2a818da85bd89469ad7060c183bfb08b355"
  },
  "hort-ante-nicene": {
   "title": "Six Lectures on the Ante-Nicene Fathers",
@@ -28822,7 +28822,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: v<N>.leaf.<M>.text; everything else: volume and scan leaf (v<N>.leaf.<M>; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; the chapter is printed in the left page's running head only ('[Cu. VII'), the verses in the right's ('Ver. 4-7]'); Westcott's additional notes after a chapter, where they are laid out in columns, run into the note of the verse they open with; the pericope of the adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; openers_against_running_head counts notes whose page head reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse (scan.leaves and scan.printed_pages are then the first volume's, and a unit taken up again in the other volume lists every leaf and page with its volume in scan.volume_leaves and scan.volume_printed_pages); a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; the chapter is printed in the left page's running head only ('[Cu. VII'), the verses in the right's ('Ver. 4-7]'); Westcott's additional notes after a chapter, where they are laid out in columns, run into the note of the verse they open with; the pericope of the adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; openers_against_running_head counts notes whose page head reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse (scan.leaves and scan.printed_pages are then the first volume's, and a unit taken up again in the other volume lists every leaf and page with its volume in scan.volume_leaves and scan.volume_printed_pages); a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "same_scan_as": "same scans as Lane A: westcott-john-greek-1 and westcott-john-greek-2 (pipeline/b-f-westcott_shelf.json, branch claude/armarium-divines)",
    "note": "B. F. Westcott, The Gospel according to St John: the Greek text with introduction and notes, 2 vols (London: John Murray, 1908), as the title pages read; published after his death; vol. 1: scan leaves 5-483 of gospelaccordingt01west; vol. 2: scan leaves 5-404 of gospelaccordingt02west; Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of the same two scans, gospelaccordingt01west and gospelaccordingt02west, as westcott-john-greek-1/-2, and gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-av-1892; its vol. 2 was first gospelaccordingt02west_0, replaced 2026-10-03 because that copy's text layer has no Greek codepoints (0.0% of letters, measured 2026-10-03 on its _djvu.txt) against 10.3% in gospelaccordingt02west"
@@ -28862,8 +28862,8 @@
     }
    },
    "scripture_links": {
-    "read": 3317,
-    "resolved": 2955,
+    "read": 3324,
+    "resolved": 2981,
     "ranges": 68,
     "ranges_start_only": 0
    },
@@ -28875,7 +28875,7 @@
     "mixed_script_tokens": 64
    }
   },
-  "built_sha256": "02e91ffe5bbb9a9ac8734cc5bc710e43ebcf27f5355417536dd22d4c8f2d4d80"
+  "built_sha256": "f346d5e26fad1438dabb4d6c1f0aff16c437bc5d406ffe599ab7a16c6bea33a0"
  },
  "lightfoot-horae": {
   "title": "Horae Hebraicae et Talmudicae",
@@ -28886,7 +28886,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); notes before a book's first: v<N>.book.title; everything else: volume and scan leaf (v<N>.leaf.<M>; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse as Lightfoot heads them, 'Ver. 5:' at the start of a line (the number read as printed, a footnote mark after it ignored), in one column; the CHAPTER is not printed with the verse and is read from a 'CHAP. XI.' heading in the body or from the running heads ('[Ch. xi. 4.'), a head counting only where a head within three leaves agrees, chapters only moving forward (he comments on chosen verses and skips whole chapters), so a misread head can put a run of notes in the wrong chapter (openers_against_running_head counts the notes whose page head reads another chapter; notes_reopened, the verses taken up again further on, whose text joins the first unit of that verse); every following line belongs to the note, the page's footnotes (Gandell's references) included where they stand; vol. 1 (the chorographical century and inquiries) and the dedications, prefaces, addenda and indexes by scan leaf (v<N>.leaf.<M>, the folio in scan.printed_page where read); lines of bare accents dropped and counted; the Hebrew and Aramaic quotations are the OCR's Hebrew script, unpointed and often misread (measure.hebrew), each line's words kept in the order the hOCR gives them, never reordered: of adjacent Hebrew words in a line, measure.hebrew.word_order counts the pairs the OCR gave right to left on the page (Hebrew's reading order: nearly all) and left to right (word-reversed: where two OCR rows were joined, words sorted left to right, or the OCR erred); a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse as Lightfoot heads them, 'Ver. 5:' at the start of a line (the number read as printed, a footnote mark after it ignored), in one column; the CHAPTER is not printed with the verse and is read from a 'CHAP. XI.' heading in the body or from the running heads ('[Ch. xi. 4.'), a head counting only where a head within three leaves agrees, chapters only moving forward (he comments on chosen verses and skips whole chapters), so a misread head can put a run of notes in the wrong chapter (openers_against_running_head counts the notes whose page head reads another chapter; notes_reopened, the verses taken up again further on, whose text joins the first unit of that verse); every following line belongs to the note, the page's footnotes (Gandell's references) included where they stand; vol. 1 (the chorographical century and inquiries) and the dedications, prefaces, addenda and indexes by scan leaf (v<N>.leaf.<M>, the folio in scan.printed_page where read); lines of bare accents dropped and counted; the Hebrew and Aramaic quotations are the OCR's Hebrew script, unpointed and often misread (measure.hebrew), each line's words kept in the order the hOCR gives them, never reordered: of adjacent Hebrew words in a line, measure.hebrew.word_order counts the pairs the OCR gave right to left on the page (Hebrew's reading order: nearly all) and left to right (word-reversed: where two OCR rows were joined, words sorted left to right, or the OCR erred); a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "John Lightfoot, Horae Hebraicae et Talmudicae: Hebrew and Talmudical exercitations upon the Gospels, the Acts, some chapters of St Paul's Epistle to the Romans, and the First Epistle to the Corinthians, a new edition by Robert Gandell, 4 vols (Oxford: University Press, the sheets of 1859); the title pages print no date (Gandell's preface is dated 1 April 1859) and vol. 4 ends with a Macmillan advertisement, so these copies may be a later issue of the 1859 sheets; vol. 1: scan leaves 5-394 of horaehebraicaeet0001ligh; vol. 2: scan leaves 5-486 of horaehebraicaeet0002ligh; vol. 3: scan leaves 5-462 of horaehebraicaeet0003ligh; vol. 4: scan leaves 5-354 of horaehebraicaeet0004ligh; the Internet Archive's own scans of the four volumes, chosen because their OCR kept the Hebrew (about 2% of letters, real Hebrew codepoints); the Toronto (horaehebraicaeet0{1,2,4}lighuoft, horaehebraicaeet00lighuoft) and Princeton (horhebraicet0{1-4}ligh) scans of the same edition have no Hebrew codepoints at all; measured 2026-10-03 on each item's _djvu.txt; the raw-OCR john-lightfoot shelf (branch claude/project-thread-c4l3cp) lists the Horae in Pitman's Whole Works (1822-25) as pending, another edition, not shelved there"
   },
@@ -28955,8 +28955,8 @@
     }
    },
    "scripture_links": {
-    "read": 2490,
-    "resolved": 1983,
+    "read": 2486,
+    "resolved": 1992,
     "ranges": 15,
     "ranges_start_only": 0
    },
@@ -28979,7 +28979,7 @@
     }
    }
   },
-  "built_sha256": "fdcdcc8bdd4c5a5f29732f481016d8c98bd9c22d224a5e0bffa69720d2f70f87"
+  "built_sha256": "64b52d4936b88bd05925b00589af6360b1f78d58e3a318d638179542e6ab1b33"
  },
  "ellicott-galatians": {
   "title": "St Paul's Epistle to the Galatians",
@@ -28990,7 +28990,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, St Paul's Epistle to the Galatians: with a critical and grammatical commentary, and a revised translation, 4th ed., corrected (London: Longmans, Green, Reader, & Dyer, 1867), as its title page reads (first ed. 1854); scan leaves 7-205 of stpaulsepistleto00elli"
   },
@@ -29026,8 +29026,8 @@
     }
    },
    "scripture_links": {
-    "read": 1053,
-    "resolved": 927,
+    "read": 1050,
+    "resolved": 932,
     "ranges": 5,
     "ranges_start_only": 1
    },
@@ -29039,7 +29039,7 @@
     "mixed_script_tokens": 71
    }
   },
-  "built_sha256": "fca46e5e736275b997013fd3d2a5b13e193665b394164b72965faf94f1225e25"
+  "built_sha256": "976a5a279ed2b6fe621fbba71ccda8d2c5f5a83169e1813751db9a277739bd8c"
  },
  "ellicott-ephesians": {
   "title": "St Paul's Epistle to the Ephesians",
@@ -29050,7 +29050,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, St Paul's Epistle to the Ephesians: with a critical and grammatical commentary, and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1884), as its title page reads (first ed. 1855); scan leaves 6-213 of cu31924029294240"
   },
@@ -29087,8 +29087,8 @@
     }
    },
    "scripture_links": {
-    "read": 1259,
-    "resolved": 1118,
+    "read": 1256,
+    "resolved": 1119,
     "ranges": 5,
     "ranges_start_only": 2
    },
@@ -29100,7 +29100,7 @@
     "mixed_script_tokens": 79
    }
   },
-  "built_sha256": "88b5015e0b1d139fa21e0bd294f250218aa30b966d97de4c8f92600e211876bf"
+  "built_sha256": "f0438f1edd7e590cc6c1de681e30a5a7d1ba040ec73aa7510e5204944ab0f2dd"
  },
  "ellicott-philippians": {
   "title": "St Paul's Epistles to the Philippians, the Colossians, and Philemon",
@@ -29111,7 +29111,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, A critical and grammatical commentary on St Paul's Epistles to the Philippians, Colossians, and to Philemon, with a revised translation (London: John W. Parker and Son, 1857), the first edition, as its title page reads (MDCCCLVII); scan leaves 7-290 of criticalgrammati00elli"
   },
@@ -29159,8 +29159,8 @@
     }
    },
    "scripture_links": {
-    "read": 1747,
-    "resolved": 1513,
+    "read": 1743,
+    "resolved": 1515,
     "ranges": 6,
     "ranges_start_only": 0
    },
@@ -29172,7 +29172,7 @@
     "mixed_script_tokens": 61
    }
   },
-  "built_sha256": "8b939728331bba2824ccfd0204d020f6dd18d79711adc492fbcd85307acb8b4f"
+  "built_sha256": "e1316e1bb082a83b7780d68a0c8280a997f8d85f7b5064f83ba069198965f921"
  },
  "ellicott-thessalonians": {
   "title": "St Paul's Epistles to the Thessalonians",
@@ -29183,7 +29183,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, St Paul's Epistles to the Thessalonians: with a critical and grammatical commentary, and a revised translation, 4th ed. (London: Longman, Green, Longman, Roberts & Green, 1880), as its title page reads (first ed. 1858); scan leaves 2-184 of cu31924029294539"
   },
@@ -29227,8 +29227,8 @@
     }
    },
    "scripture_links": {
-    "read": 1212,
-    "resolved": 1089,
+    "read": 1211,
+    "resolved": 1092,
     "ranges": 3,
     "ranges_start_only": 0
    },
@@ -29240,7 +29240,7 @@
     "mixed_script_tokens": 68
    }
   },
-  "built_sha256": "3f1194f4ff9efe5f9db0ab92ba38a8544b77f155e955581a6415880aa519f987"
+  "built_sha256": "c376a9ccd7d11d9b446f41683f6b2e10199c5dc20e45dea5c208fd79b61fa66d"
  },
  "ellicott-pastorals": {
   "title": "The Pastoral Epistles of St Paul",
@@ -29251,7 +29251,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); epistle text: leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3'); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; Ellicott's textual notes, printed full width above the two columns, are read with the notes (a textual note opening with its verse number opens that verse's unit); his revised translation at the end of the volume is by page; openers_against_running_head counts notes whose page head (rarely legible in these scans) reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; a run of verses opening a note is kept at its first verse when it runs backwards, past the chapter or over 15 verses (measure.openers_run_cut), and a run into the next chapter ('28—V. 1.') is not read as an opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; 'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo'); unproofread OCR",
    "status": "draft",
    "note": "C. J. Ellicott, The Pastoral Epistles of St Paul: with a critical and grammatical commentary, and a revised translation, 5th ed., corrected (London: Longmans, Green & Co., 1883), as its title page reads (first ed. 1856); scan leaves 7-290 of pastoralepistles00elli"
   },
@@ -29300,8 +29300,8 @@
     }
    },
    "scripture_links": {
-    "read": 1826,
-    "resolved": 1554,
+    "read": 1828,
+    "resolved": 1565,
     "ranges": 10,
     "ranges_start_only": 0
    },
@@ -29313,7 +29313,7 @@
     "mixed_script_tokens": 137
    }
   },
-  "built_sha256": "f073714a9ab59c7a1a517f932c2741a8cf9cbf5cb6413bc4086ce93d39b3c2d0"
+  "built_sha256": "8d2af21343517777f494468bf2144e503ae601ace1ec18001393581767ff9561"
  },
  "alford-commentary-2": {
   "title": "The Greek Testament, vol. II",
@@ -29380,8 +29380,8 @@
     }
    },
    "scripture_links": {
-    "read": 9018,
-    "resolved": 7694,
+    "read": 8981,
+    "resolved": 7712,
     "ranges": 157,
     "ranges_start_only": 3
    },
@@ -29397,7 +29397,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "eb7a3ee50eae870b7e920cfd72f826d9476c2c32edab0b7d57d73bd19072bf03"
+  "built_sha256": "08984924adfcce2e3f51c80f68b5ec5acd6ad0b0caee6b18cbc7ebea2dcaaf17"
  },
  "alford-commentary-3": {
   "title": "The Greek Testament, vol. III",
@@ -29498,8 +29498,8 @@
     }
    },
    "scripture_links": {
-    "read": 8404,
-    "resolved": 7100,
+    "read": 8364,
+    "resolved": 7128,
     "ranges": 101,
     "ranges_start_only": 7
    },
@@ -29515,7 +29515,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "ea433af0f5e0631538bed99aa7fdd89e5993066e9fef1151fee89fbb765f7742"
+  "built_sha256": "463e0cf8e01e06cff9e85264fcf6665eeec2e5fcb659643873e536d8f0cbd9f8"
  },
  "alford-commentary-4": {
   "title": "The Greek Testament, vol. IV",
@@ -29602,8 +29602,8 @@
     }
    },
    "scripture_links": {
-    "read": 9642,
-    "resolved": 8019,
+    "read": 9611,
+    "resolved": 8086,
     "ranges": 168,
     "ranges_start_only": 3
    },
@@ -29619,7 +29619,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "8c80f23259d44c0dbeff3959dbebee1760395081dc65365593adc343d6a8976b"
+  "built_sha256": "5e03bdd2ef5f0993435cc0f716f86194461de18dab3b7fc620fd2e0e17821192"
  },
  "bengel-gnomon-2": {
   "title": "Gnomon of the New Testament, vol. II",
@@ -29674,8 +29674,8 @@
     }
    },
    "scripture_links": {
-    "read": 4957,
-    "resolved": 4528,
+    "read": 4972,
+    "resolved": 4573,
     "ranges": 45,
     "ranges_start_only": 3
    },
@@ -29691,7 +29691,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "d0db28edd23e2f4926506f487ec10dbb9c037772a0257903fd1ab17b778e9120"
+  "built_sha256": "05b277250d6c16f5609d88d0b522093ab765332bd33a3aa30856e1a267656fa0"
  },
  "bengel-gnomon-3": {
   "title": "Gnomon of the New Testament, vol. III",
@@ -29746,8 +29746,8 @@
     }
    },
    "scripture_links": {
-    "read": 3109,
-    "resolved": 2835,
+    "read": 3125,
+    "resolved": 2878,
     "ranges": 33,
     "ranges_start_only": 1
    },
@@ -29763,7 +29763,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "365d4cb17bbc791b227c9ea3d2c4f71184469671ce0095df9f2a2b454ca63d41"
+  "built_sha256": "e28305f82edf72315e8dd0d8d7e9a37a6123a96690d095fababfb3daa90f88f1"
  },
  "bengel-gnomon-4": {
   "title": "Gnomon of the New Testament, vol. IV",
@@ -29858,8 +29858,8 @@
     }
    },
    "scripture_links": {
-    "read": 3911,
-    "resolved": 3589,
+    "read": 3932,
+    "resolved": 3651,
     "ranges": 38,
     "ranges_start_only": 2
    },
@@ -29875,7 +29875,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "22ffb6ea22345f4a57a1052a68765f55a6970017a2393f86df2c02f370aadd37"
+  "built_sha256": "8a5a0af59ada5c35896f398554b28aacf51eed3294360b2df6860521f8f980ad"
  },
  "keil-delitzsch-pentateuch-1": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. I",
@@ -31170,7 +31170,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "the only scan of vol. I whose OCR kept the Greek (5.1% of letters, 34.9% known); the Funk & Wagnalls scans (1884) have 0.0% Greek",
    "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospel of Matthew, vol. I (chapters i.-xvii.), tr. from the sixth German edition by Peter Christie, revised and edited by Frederick Crombie (MDCCCLXXX: the 1880 issue), as its title page reads; scan leaves 4-499 of criticalexeget01meyeiala"
@@ -31215,8 +31215,8 @@
     }
    },
    "scripture_links": {
-    "read": 2833,
-    "resolved": 2550,
+    "read": 2838,
+    "resolved": 2565,
     "ranges": 59,
     "ranges_start_only": 2
    },
@@ -31232,7 +31232,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "eb0944de6ac7682299573f32d62becef9906c35737bd1ee9c4f70cd9c68adcd1"
+  "built_sha256": "234a4469cbdb4fc1b5b361346dafb6cba1623f30e9e48549f39660636d3444c1"
  },
  "meyer-matthew-2": {
   "title": "Critical and Exegetical Handbook to the Gospel of Matthew, vol. II",
@@ -31243,7 +31243,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "criticalexegetic12meye (1879): Greek 6.2%, known 37.1% on the commentary leaves; criticalexegetic02meyeiala (1881 issue) 6.3% / 36.1%: not clearly better; criticalexeg02meye: 0.0% Greek",
    "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospel of Matthew, vol. II (chapters xviii.-xxviii.), tr. Peter Christie, revised and edited by Frederick Crombie (MDCCCLXXIX: 1879), as its title page reads; scan leaves 9-322 of criticalexegetic12meye"
@@ -31289,8 +31289,8 @@
     }
    },
    "scripture_links": {
-    "read": 1781,
-    "resolved": 1579,
+    "read": 1785,
+    "resolved": 1587,
     "ranges": 46,
     "ranges_start_only": 0
    },
@@ -31306,7 +31306,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "33724aa692a048a79f43e8b63b56c0f663c1a31d6128a8702e364cd7f3dbc0f8"
+  "built_sha256": "912fd47e56b6e670060dafacb3901c9abd5abe5262369bcf0e7077f3a6b1a010"
  },
  "meyer-mark-luke-1": {
   "title": "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. I",
@@ -31317,7 +31317,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "criticalexegetic21meye, the same Princeton set as vol. II: Greek 8.4%, known 35.3%; criticalexeget01meye (another copy, 1880) measures the same; the Funk & Wagnalls one-volume issue criticalexegetic00meye 7.0% / 36.2%",
    "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospels of Mark and Luke, vol. I (Mark; Luke i.-ii.), tr. from the fifth German edition by Robert Ernest Wallis, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads; scan leaves 7-372 of criticalexegetic21meye"
@@ -31366,8 +31366,8 @@
     }
    },
    "scripture_links": {
-    "read": 2215,
-    "resolved": 1972,
+    "read": 2217,
+    "resolved": 1976,
     "ranges": 158,
     "ranges_start_only": 2
    },
@@ -31383,7 +31383,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "d89bb1068db7daff51d509df9e7157863feb1671f2d99ecacbf02f5ddbd86f53"
+  "built_sha256": "806d4b99e21f205b28630362fd98abd04580753bddee70937b3917eaec46379b"
  },
  "meyer-mark-luke-2": {
   "title": "Critical and Exegetical Handbook to the Gospels of Mark and Luke, vol. II",
@@ -31394,7 +31394,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "criticalexegetic22meye: Greek 7.9%, known 36.8%; criticalexeget02meye (1880): 0.0% Greek",
    "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Gospels of Mark and Luke, vol. II (Luke iii.-xxiv.), tr. Robert Ernest Wallis, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads; scan leaves 9-381 of criticalexegetic22meye"
@@ -31412,9 +31412,9 @@
     "note": 679,
     "page": 2
    },
-   "chapter_headings_implied": 2,
+   "chapter_headings_implied": 1,
    "chapter_headings_read": 11,
-   "chapter_headings_unread_next": 9,
+   "chapter_headings_unread_next": 10,
    "footnote_blocks_two_columns": 0,
    "footnote_lines": 1079,
    "inline_openers_outside_notes": 361,
@@ -31440,8 +31440,8 @@
     }
    },
    "scripture_links": {
-    "read": 2564,
-    "resolved": 2267,
+    "read": 2575,
+    "resolved": 2288,
     "ranges": 148,
     "ranges_start_only": 2
    },
@@ -31457,7 +31457,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "4f94dc70cd79016be711968f1ce532bdb59477967ea8c9e894fe96a4fce66477"
+  "built_sha256": "e8de4be1bb5b0302a47935a291ad10a14bd631927b67a1e7a1763220be00a084"
  },
  "meyer-john": {
   "title": "Critical and Exegetical Hand-book to the Gospel of John",
@@ -31468,7 +31468,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; the American editor's notes: <chapter>.american; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "every T&T Clark scan of John (1874-75, 1881, 1883) has 0.0% Greek; this Funk & Wagnalls issue of the same translation keeps it: Greek 5.1%, known 42.1%; criticalandexeg01meyegoog 5.0% / 42.0% and commentaryonnew01unkngoog 5.1% / 42.0% are the same printing",
    "note": "H. A. W. Meyer, Critical and Exegetical Hand-book, the T. & T. Clark translation reissued with supplementary notes for the American edition (New York: Funk & Wagnalls, 1884): the Gospel of John, tr. from the fifth German edition by William Urwick, revised and edited by Frederick Crombie, with a preface and supplementary notes by A. C. Kendrick (New York: Funk & Wagnalls, 1884), as its title page reads; scan leaves 5-596 of criticalexegetic04meye"
@@ -31513,8 +31513,8 @@
     }
    },
    "scripture_links": {
-    "read": 4175,
-    "resolved": 3643,
+    "read": 4188,
+    "resolved": 3686,
     "ranges": 94,
     "ranges_start_only": 1
    },
@@ -31530,7 +31530,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "d2e51e9d12dcd55560b8822011373a6f08990821505038e88830b714640906a1"
+  "built_sha256": "535f1c2684ebf8c4c8ae331296af9c3cd3fc4f2a2a4a48c5e584de62d67dd774"
  },
  "meyer-romans": {
   "title": "Critical and Exegetical Hand-book to the Epistle to the Romans",
@@ -31541,7 +31541,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; the American editor's notes: <chapter>.american; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "every T&T Clark scan of Romans (1873, 1874, 1881) has 0.0% Greek; this Funk & Wagnalls issue keeps it: Greek 6.5%, known 40.5%; criticalandexeg03meyegoog and criticalandexege05meyeuoft (the same issue): 0.0%",
    "note": "H. A. W. Meyer, Critical and Exegetical Hand-book, the T. & T. Clark translation reissued with supplementary notes for the American edition (New York: Funk & Wagnalls, 1884): the Epistle to the Romans, tr. from the fifth German edition by John C. Moore and Edwin Johnson, revised and edited by William P. Dickson, with a preface and supplementary notes by Timothy Dwight (New York: Funk & Wagnalls, 1884), as its title page reads; scan leaves 7-628 of criticalexegetic06meye"
@@ -31563,14 +31563,15 @@
    "american_blocks": 11,
    "chapter_headings_read": 11,
    "chapter_headings_unread_next": 5,
+   "critical_paragraphs_by_verse": 2,
    "footnote_blocks_two_columns": 169,
    "footnote_lines": 4162,
    "junk_lines_dropped": 36,
    "leaves_commentary": 555,
    "leaves_page": 59,
-   "notes_reopened": 3,
-   "openers_accepted": 370,
-   "openers_out_of_sequence": 5,
+   "notes_reopened": 2,
+   "openers_accepted": 369,
+   "openers_out_of_sequence": 4,
    "openers_rejected": 3,
    "printed_page_from_neighbours": 229,
    "printed_page_read": 333,
@@ -31582,8 +31583,8 @@
     }
    },
    "scripture_links": {
-    "read": 4964,
-    "resolved": 4333,
+    "read": 4972,
+    "resolved": 4364,
     "ranges": 145,
     "ranges_start_only": 5
    },
@@ -31599,7 +31600,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "4fe6eadf3d7b3e6b999916db8c5973128144f4c70c38653b3823100f3751d571"
+  "built_sha256": "a62e14096262b6c198767af1a38b90df81d0682b8f943bec1f6219f3818254f2"
  },
  "keil-delitzsch-joshua-judges-ruth": {
   "title": "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth",
@@ -33824,6 +33825,821 @@
    }
   },
   "built_sha256": "aa40891fc245261a0924361b2a0f4a3daf7b51bbe6c5956fd691f6e1a4169801"
+ },
+ "meyer-acts-1": {
+  "title": "Critical and Exegetical Handbook to the Acts of the Apostles, vol. I",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "32b16af1c81832fd678e4195b6a0a18872d580a3f9f20d286a2d622a7d29a27f",
+  "units": 332,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic51meye (the Princeton set): Greek 6.2%, known 33.8%; criticalexegetic01meyeiala 6.1% / 33.4% and criticalexeget00meye 5.7% / 33.3%: not better",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Acts of the Apostles, vol. I (chapters i.-xii.), tr. from the fourth German edition by Paton J. Gloag, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads; scan leaves 7-340 of criticalexegetic51meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic51meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic51meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 13,
+    "note": 272,
+    "page": 47
+   },
+   "chapter_headings_read": 12,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 752,
+   "inline_openers_outside_notes": 179,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 286,
+   "leaves_page": 47,
+   "openers_accepted": 272,
+   "openers_naming_sigla": 1,
+   "printed_page_from_neighbours": 144,
+   "printed_page_read": 171,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 418,
+     "with_own_note": 157,
+     "chapters": [
+      1,
+      12
+     ],
+     "kjv_verses_in_chapters": 439
+    }
+   },
+   "scripture_links": {
+    "read": 2038,
+    "resolved": 1831,
+    "ranges": 40,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 32774,
+    "greek_share_of_letters": 0.0635,
+    "greek_tokens_3plus": 5304,
+    "greek_tokens_in_reference_vocab": 0.3409,
+    "mixed_script_tokens": 15
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "1092a7689d3a363ab01fc6cbf374c3b24e33d46a176cd6134b0a6bfad7326fb9"
+ },
+ "meyer-acts-2": {
+  "title": "Critical and Exegetical Handbook to the Acts of the Apostles, vol. II",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "5240ce3b1d0e3cb5178b8e1d4efa339920d1481d6cac87636840498564cd041d",
+  "units": 392,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic52meye, the same Princeton set as vol. I: Greek 7.4%, known 31.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Acts of the Apostles, vol. II (chapters xiii.-xxviii.), tr. Paton J. Gloag, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads; scan leaves 9-338 of criticalexegetic52meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic52meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic52meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 17,
+    "note": 371,
+    "page": 4
+   },
+   "chapter_headings_implied": 2,
+   "chapter_headings_read": 8,
+   "chapter_headings_skip_refused": 1,
+   "chapter_headings_unread_next": 6,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 684,
+   "inline_openers_outside_notes": 232,
+   "junk_lines_dropped": 14,
+   "leaves_commentary": 325,
+   "leaves_page": 4,
+   "openers_accepted": 371,
+   "openers_against_running_head": 1,
+   "printed_page_from_neighbours": 127,
+   "printed_page_read": 189,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 544,
+     "with_own_note": 214,
+     "chapters": [
+      13,
+      28
+     ],
+     "kjv_verses_in_chapters": 568
+    }
+   },
+   "scripture_links": {
+    "read": 1475,
+    "resolved": 1312,
+    "ranges": 16,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 42336,
+    "greek_share_of_letters": 0.0818,
+    "greek_tokens_3plus": 6738,
+    "greek_tokens_in_reference_vocab": 0.3117,
+    "mixed_script_tokens": 30
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "92927260532864cac181ae700d1daa97fe1eefbdf3dfe8145c3270c2c7b215a3"
+ },
+ "meyer-corinthians-1": {
+  "title": "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. I",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "fcaf4b22a50fb767972384cc029e1e53ae34a366397bf728c9d6ed4dbf1ac334",
+  "units": 322,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic71meye (the Princeton set): Greek 7.3%, known 40.3%; criticalexege01meye 6.9% / 40.6% and the Funk & Wagnalls issue criticalexegetme00meye (1884) 7.3% / 41.0%: not clearly better; criticalhandbook01meyeuoft is catalogued 1906-",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistles to the Corinthians, vol. I (First Epistle, chapters i.-xiii.), tr. from the fifth German edition by D. Douglas Bannerman, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads; scan leaves 9-425 of criticalexegetic71meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic71meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic71meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 14,
+    "note": 283,
+    "page": 25
+   },
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 6,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1395,
+   "inline_openers_outside_notes": 113,
+   "junk_lines_dropped": 18,
+   "leaves_commentary": 391,
+   "leaves_page": 25,
+   "notes_reopened": 3,
+   "openers_accepted": 286,
+   "openers_out_of_sequence": 1,
+   "printed_page_from_neighbours": 196,
+   "printed_page_read": 188,
+   "kjv_coverage": {
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 298,
+     "with_own_note": 234,
+     "chapters": [
+      1,
+      13
+     ],
+     "kjv_verses_in_chapters": 315
+    }
+   },
+   "scripture_links": {
+    "read": 2706,
+    "resolved": 2390,
+    "ranges": 79,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 49761,
+    "greek_share_of_letters": 0.0714,
+    "greek_tokens_3plus": 8070,
+    "greek_tokens_in_reference_vocab": 0.4128,
+    "mixed_script_tokens": 26
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "924a14450c2967572ef1cf06365c40415391d2ac045b53d83ca12454b5d3a12a"
+ },
+ "meyer-corinthians-2": {
+  "title": "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. II",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "688cdcce28c09942f9e291efd9a6a1af23b4f8c19b4b1a4dfec3173932f06943",
+  "units": 369,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic72meye, the same Princeton set as vol. I: Greek 8.3%, known 41.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistles to the Corinthians, vol. II (First Epistle, chapters xiv.-xvi., tr. D. Douglas Bannerman; Second Epistle, tr. from the fifth German edition by David Hunter; revised and edited by William P. Dickson) (MDCCCLXXIX: 1879), as its title page reads; scan leaves 13-540 of criticalexegetic72meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1879); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic72meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic72meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 17,
+    "note": 337,
+    "page": 15
+   },
+   "chapter_headings_implied": 1,
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 7,
+   "chapter_turns_without_heading": 1,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1728,
+   "inline_openers_outside_notes": 124,
+   "junk_lines_dropped": 36,
+   "leaves_commentary": 508,
+   "leaves_page": 15,
+   "notes_reopened": 3,
+   "openers_accepted": 340,
+   "openers_naming_sigla": 1,
+   "printed_page_from_neighbours": 255,
+   "printed_page_read": 228,
+   "kjv_coverage": {
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 117,
+     "with_own_note": 84,
+     "chapters": [
+      14,
+      16
+     ],
+     "kjv_verses_in_chapters": 122
+    },
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 242,
+     "with_own_note": 211
+    }
+   },
+   "scripture_links": {
+    "read": 3434,
+    "resolved": 3012,
+    "ranges": 76,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 75050,
+    "greek_share_of_letters": 0.0854,
+    "greek_tokens_3plus": 11975,
+    "greek_tokens_in_reference_vocab": 0.4156,
+    "mixed_script_tokens": 31
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "77fc41f201dbed609cd2d1ae9a872a59600a8c74d2f22869e2d60c040eaf4c02"
+ },
+ "meyer-galatians": {
+  "title": "Critical and Exegetical Handbook to the Epistle to the Galatians",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "411892e95302cbb1f492cbdffd0de25bcf2963465966c4dc6fb4153346dc707c",
+  "units": 177,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexeget09meye (1873): Greek 6.3%, known 40.0%; the Funk & Wagnalls issue (1884: criticalexegetic09meye, criticalexegetic0000hein_g2k4, criticalexegetic0000unse_b7h8): 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistle to the Galatians, tr. from the fifth German edition (the translator's line is illegible in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads; scan leaves 13-383 of criticalexeget09meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexeget09meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexeget09meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 7,
+    "note": 145,
+    "page": 25
+   },
+   "chapter_headings_read": 2,
+   "chapter_headings_skip_refused": 1,
+   "chapter_headings_unread_next": 4,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1373,
+   "inline_openers_outside_notes": 51,
+   "junk_lines_dropped": 7,
+   "leaves_commentary": 344,
+   "leaves_page": 25,
+   "notes_reopened": 1,
+   "openers_accepted": 146,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 179,
+   "printed_page_read": 174,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 145,
+     "with_own_note": 135
+    }
+   },
+   "scripture_links": {
+    "read": 2453,
+    "resolved": 2168,
+    "ranges": 46,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 39174,
+    "greek_share_of_letters": 0.0658,
+    "greek_tokens_3plus": 6268,
+    "greek_tokens_in_reference_vocab": 0.4079,
+    "mixed_script_tokens": 40
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "e71c8e19e3c684a8e4d280876b5037fd80cbfb074c456a3cf34492a50c08112e"
+ },
+ "meyer-ephesians-philemon": {
+  "title": "Critical and Exegetical Handbook to the Epistles to the Ephesians and to Philemon",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "0bf00dc4bd21ea3933b778564ce4562be68397c054c6ce9fc47e26986ea856b3",
+  "units": 212,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic1880meye: Greek 7.7%, known 37.5%; criticalexegetic10meye (another copy, 1880) would not give its text (HTTP 500, 2026-10-03); the Funk & Wagnalls Ephesians criticalandexeg05meyegoog (1884): 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistle to the Ephesians and the Epistle to Philemon, tr. from the fourth German edition by Maurice J. Evans, revised and edited by William P. Dickson (MDCCCLXXX: 1880), as its title page reads; scan leaves 7-405 of criticalexegetic1880meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic1880meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic1880meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 7,
+    "note": 159,
+    "page": 46
+   },
+   "chapter_headings_read": 1,
+   "chapter_headings_unread_next": 4,
+   "chapter_turns_without_heading": 2,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1154,
+   "inline_openers_outside_notes": 76,
+   "junk_lines_dropped": 7,
+   "leaves_commentary": 351,
+   "leaves_page": 46,
+   "openers_accepted": 159,
+   "printed_page_from_neighbours": 201,
+   "printed_page_read": 186,
+   "kjv_coverage": {
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 146,
+     "with_own_note": 132
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 19,
+     "with_own_note": 19
+    }
+   },
+   "scripture_links": {
+    "read": 2638,
+    "resolved": 2381,
+    "ranges": 52,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 51188,
+    "greek_share_of_letters": 0.0794,
+    "greek_tokens_3plus": 8376,
+    "greek_tokens_in_reference_vocab": 0.3786,
+    "mixed_script_tokens": 31
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "0981cac96b148e1b51d2eb1d8c237aaf0b0248fcd31a36cb93cbd83b6c1e9260"
+ },
+ "meyer-philippians-colossians": {
+  "title": "Critical and Exegetical Handbook to the Epistles to the Philippians and Colossians",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "2b2efbc2833f053410fdd6974bfcf6644e2c358b81705d72c96daf27fee9f0e2",
+  "units": 221,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexeget11meye (1875): Greek 8.3%, known 37.6%; the Funk & Wagnalls issue (1885) criticalexegetic11meye 7.5% / 38.9% and criticalexegeticphilcolphile00meye 7.5% / 38.9%: not clearly better; criticalandexeg00unkngoog (1875), criticalexegetic0000hein_r9x0: 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistles to the Philippians and Colossians, tr. from the fourth German edition by John C. Moore, revised and edited by William P. Dickson (MDCCCLXXV: 1875), as its title page reads (the prefatory note: Philippians first translated by G. H. Venables); scan leaves 9-504 of criticalexeget11meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1875); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexeget11meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexeget11meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 10,
+    "note": 179,
+    "page": 32
+   },
+   "chapter_headings_implied": 1,
+   "chapter_headings_read": 2,
+   "chapter_headings_unread_next": 5,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1696,
+   "inline_openers_outside_notes": 80,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 461,
+   "leaves_page": 32,
+   "notes_reopened": 1,
+   "openers_accepted": 180,
+   "openers_out_of_sequence": 1,
+   "printed_page_from_neighbours": 252,
+   "printed_page_read": 228,
+   "kjv_coverage": {
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 98,
+     "with_own_note": 85
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 88,
+     "with_own_note": 83
+    }
+   },
+   "scripture_links": {
+    "read": 3459,
+    "resolved": 2990,
+    "ranges": 56,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 67209,
+    "greek_share_of_letters": 0.0868,
+    "greek_tokens_3plus": 10788,
+    "greek_tokens_in_reference_vocab": 0.3801,
+    "mixed_script_tokens": 41
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "d9f482e2d0a79382c0287b105987fa21c729b6e3db133d6ab5ba9f22502f42c8"
+ },
+ "huther-pastorals": {
+  "title": "Critical and Exegetical Handbook to the Epistles of St. Paul to Timothy and Titus",
+  "author": "J. E. Huther",
+  "format": "ia-hocr",
+  "sha256": "a2fd725f637a849b8f82fd9e0dca9c3102c976e8a3488a767be8eaa7699f1826",
+  "units": 308,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexeget15huth (1881): Greek 11.0%, known 35.9%; criticalexeget1881huth (another copy, 1881, IA rights unstated) 11.7% / 36.0%: not clearly better; the Funk & Wagnalls issue (1885) criticalexegetic15huth 9.7% / 34.7%; criticalexegetictimtitu00huth, criticalexegetic0000johe_z2x1, criticalexegetic0000johe_f5s9: 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistles to Timothy and Titus, by J. E. Huther, tr. from the fourth German edition by David Hunter (MDCCCLXXXI: 1881), as its title page reads; scan leaves 9-394 of criticalexeget15huth"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1881); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexeget15huth (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexeget15huth",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 16,
+    "note": 213,
+    "page": 79
+   },
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 6,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1351,
+   "inline_openers_outside_notes": 112,
+   "junk_lines_dropped": 25,
+   "leaves_commentary": 307,
+   "leaves_page": 79,
+   "notes_reopened": 4,
+   "openers_accepted": 217,
+   "openers_rejected": 12,
+   "printed_page_from_neighbours": 184,
+   "printed_page_read": 177,
+   "kjv_coverage": {
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 99,
+     "with_own_note": 83
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 79,
+     "with_own_note": 68
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 44,
+     "with_own_note": 35
+    }
+   },
+   "scripture_links": {
+    "read": 2070,
+    "resolved": 1843,
+    "ranges": 33,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 72031,
+    "greek_share_of_letters": 0.1161,
+    "greek_tokens_3plus": 10762,
+    "greek_tokens_in_reference_vocab": 0.362,
+    "mixed_script_tokens": 35
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "be4ae2468c34d0badbb18f40785a32676a9488b99992e259777cfa8bd9da26f2"
+ },
+ "lunemann-hebrews": {
+  "title": "Critical and Exegetical Handbook to the Epistle to the Hebrews",
+  "author": "Gottlieb Lünemann",
+  "format": "ia-hocr",
+  "sha256": "db17601c5036be4a349a3577984ccb62e347acd05e9bfb6a510fc1e9bb1fb061",
+  "units": 390,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic19ln (1882): Greek 11.2%, known 34.0%; criticalexegeticheb00ln (1882): 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistle to the Hebrews, by Gottlieb Lünemann, tr. from the fourth German edition by Maurice J. Evans (MDCCCLXXXII: 1882), as its title page reads; scan leaves 9-514 of criticalexegetic19ln"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1882); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic19ln (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic19ln",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 13,
+    "note": 300,
+    "page": 77
+   },
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 5,
+   "chapter_turns_without_heading": 1,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 582,
+   "inline_openers_outside_notes": 116,
+   "junk_lines_dropped": 16,
+   "leaves_commentary": 427,
+   "leaves_page": 77,
+   "notes_reopened": 3,
+   "openers_accepted": 303,
+   "openers_out_of_sequence": 3,
+   "openers_rejected": 41,
+   "printed_page_from_neighbours": 218,
+   "printed_page_read": 258,
+   "kjv_coverage": {
+    "Heb": {
+     "kjv_verses": 303,
+     "commented": 281,
+     "with_own_note": 221
+    }
+   },
+   "scripture_links": {
+    "read": 2358,
+    "resolved": 2131,
+    "ranges": 100,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 96674,
+    "greek_share_of_letters": 0.1135,
+    "greek_tokens_3plus": 14982,
+    "greek_tokens_in_reference_vocab": 0.3429,
+    "mixed_script_tokens": 56
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "38d5f6fccd0f81b856b8f911a922e27511c0b7a501cb4c78fe64db96ca38df4b"
+ },
+ "huther-james-john": {
+  "title": "Critical and Exegetical Handbook to the General Epistles of James and John",
+  "author": "J. E. Huther",
+  "format": "ia-hocr",
+  "sha256": "21c7b5d43162490d6d46c7ee2b2cdcf219ee83391a8c6edf782c6fb9afbed8d9",
+  "units": 313,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexeget20huth (1882): Greek 8.9%, known 42.3%; the Funk & Wagnalls issue (1887, with Peter and Jude) criticalexegetic20huth 7.8% / 40.2%; criticalexegetic00huth (1882), criticalexegetic0000johe_d6k9, criticalexegetic0000johe_g5m5: 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the General Epistles of James and John, by J. E. Huther, James tr. Paton J. Gloag, John tr. Clarke H. Irwin (MDCCCLXXXII: 1882), as its title pages read; scan leaves 7-542 of criticalexeget20huth"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1882); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexeget20huth (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexeget20huth",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 14,
+    "note": 207,
+    "page": 92
+   },
+   "chapter_headings_read": 5,
+   "chapter_headings_unread_next": 5,
+   "chapter_turns_without_heading": 2,
+   "critical_paragraphs_by_verse": 1,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 2928,
+   "inline_openers_outside_notes": 141,
+   "junk_lines_dropped": 32,
+   "leaves_commentary": 444,
+   "leaves_page": 92,
+   "notes_reopened": 1,
+   "openers_accepted": 208,
+   "openers_out_of_sequence": 5,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 267,
+   "printed_page_read": 256,
+   "kjv_coverage": {
+    "Jas": {
+     "kjv_verses": 108,
+     "commented": 94,
+     "with_own_note": 78
+    },
+    "1John": {
+     "kjv_verses": 105,
+     "commented": 97,
+     "with_own_note": 78
+    },
+    "2John": {
+     "kjv_verses": 13,
+     "commented": 12,
+     "with_own_note": 10
+    },
+    "3John": {
+     "kjv_verses": 14,
+     "commented": 12,
+     "with_own_note": 7
+    }
+   },
+   "scripture_links": {
+    "read": 2143,
+    "resolved": 1881,
+    "ranges": 34,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 81555,
+    "greek_share_of_letters": 0.0944,
+    "greek_tokens_3plus": 13163,
+    "greek_tokens_in_reference_vocab": 0.4269,
+    "mixed_script_tokens": 39
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "c65ee67e78f847d215b3b4dc7eed5059d432ff652973b650a13d4fbc09eeaf61"
+ },
+ "huther-peter-jude": {
+  "title": "Critical and Exegetical Handbook to the General Epistles of Peter and Jude",
+  "author": "J. E. Huther",
+  "format": "ia-hocr",
+  "sha256": "a3c229ebd8f670fed6819808ba757879a35879aa7b690d1e4488901524c49e7a",
+  "units": 277,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetichand1881huth (1881, IA rights unstated; printed 1881): Greek 9.0%, known 36.8%; criticalexegetic21huth (1881) would not give its text (HTTP 500, 2026-10-03); criticalexegetic0000johe, bwb_P9-AFQ-241_d0g5: 0.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the General Epistles of Peter and Jude, by J. E. Huther, Peter tr. D. B. Croom, Jude tr. Paton J. Gloag (MDCCCLXXXI: 1881), as its title page reads; scan leaves 7-452 of criticalexegetichand1881huth"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1881); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, criticalexegetichand1881huth (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetichand1881huth",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 11,
+    "note": 175,
+    "page": 91
+   },
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 1,
+   "chapter_turns_without_heading": 1,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1921,
+   "inline_openers_outside_notes": 115,
+   "junk_lines_dropped": 9,
+   "leaves_commentary": 354,
+   "leaves_page": 91,
+   "notes_reopened": 1,
+   "openers_accepted": 176,
+   "openers_against_running_head": 1,
+   "printed_page_from_neighbours": 193,
+   "printed_page_read": 226,
+   "kjv_coverage": {
+    "1Pet": {
+     "kjv_verses": 105,
+     "commented": 100,
+     "with_own_note": 87
+    },
+    "2Pet": {
+     "kjv_verses": 61,
+     "commented": 55,
+     "with_own_note": 47
+    },
+    "Jude": {
+     "kjv_verses": 25,
+     "commented": 24,
+     "with_own_note": 14
+    }
+   },
+   "scripture_links": {
+    "read": 2002,
+    "resolved": 1839,
+    "ranges": 43,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 67685,
+    "greek_share_of_letters": 0.0942,
+    "greek_tokens_3plus": 10125,
+    "greek_tokens_in_reference_vocab": 0.3741,
+    "mixed_script_tokens": 53
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "710ac4fa41a9a237cfff234065f7b2a2780fda92f01d639ac5b7c2acfb26be77"
  },
  "delitzsch-job-1": {
   "title": "Biblical Commentary on the Book of Job, vol. I",
