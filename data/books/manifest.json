@@ -28788,5 +28788,64 @@
    }
   },
   "built_sha256": "eecccb864c0075813a22dd2d79bde232a38ee7dcf4201b7afc81b03c01194326"
+ },
+ "westcott-gospel-john": {
+  "title": "The Gospel according to St John",
+  "author": "B. F. Westcott",
+  "format": "ia-hocr",
+  "sha256": "e718e07274f3a23984fea4bceaf3a7f7dbc13e7e4173e122c93cd4bce48be8f5",
+  "units": 1440,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); epistle text: v<N>.leaf.<M>.text; everything else: volume and scan leaf (v<N>.leaf.<M>; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, and every following line, left column then right, belongs to it; boundaries are therefore only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the epistle's text block per leaf (leaf.N.text, with the critical apparatus under it where printed); every other page (introduction, detached and additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries may be run into their lines; the chapter is printed in the left page's running head only ('[Cu. VII'), the verses in the right's ('Ver. 4-7]'); Westcott's additional notes after a chapter, where they are laid out in columns, run into the note of the verse they open with; the pericope of the adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; openers_against_running_head counts notes whose page head reads another chapter, and notes_reopened the verses taken up again further on, whose text joins the first unit of that verse; unproofread OCR",
+   "status": "draft",
+   "note": "B. F. Westcott, The Gospel according to St John: the Greek text with introduction and notes, 2 vols (London: John Murray, 1908), as the title pages read; published after his death; vol. 1: scan leaves 5-483 of gospelaccordingt01west; vol. 2: scan leaves 5-404 of gospelaccordingt02west; Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of gospelaccordingt01west (vol. 1, used here too), gospelaccordingt02west_0 (vol. 2) and gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-greek-1/-2 and westcott-john-av-1892; vol. 2 here is gospelaccordingt02west (Toronto) instead, because gospelaccordingt02west_0's text layer has no Greek codepoints (0.0% of letters, measured 2026-10-03 on its _djvu.txt) against 10.3% here"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1908); the scans and their OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "vol. 1 gospelaccordingt01west: (the item's metadata carries no rights field); vol. 2 gospelaccordingt02west: (the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, gospelaccordingt01west (Princeton Theological Seminary Library copy); gospelaccordingt02west (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/gospelaccordingt01west https://archive.org/details/gospelaccordingt02west",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 530,
+    "note": 648,
+    "page": 262
+   },
+   "junk_lines_dropped": 3954,
+   "leaves_commentary": 617,
+   "leaves_page": 260,
+   "leaves_with_tail": 2,
+   "notes_reopened": 39,
+   "openers_accepted": 706,
+   "openers_against_running_head": 9,
+   "openers_on_headed_pages": 344,
+   "openers_read_with_fix": 25,
+   "openers_rejected": 420,
+   "printed_page_from_neighbours": 73,
+   "printed_page_read": 600,
+   "kjv_coverage": {
+    "John": {
+     "kjv_verses": 879,
+     "commented": 653,
+     "with_own_note": 571
+    }
+   },
+   "scripture_links": {
+    "read": 3351,
+    "resolved": 2989
+   },
+   "greek": {
+    "greek_letters": 132143,
+    "greek_share_of_letters": 0.0833,
+    "greek_tokens_3plus": 22943,
+    "greek_tokens_in_reference_vocab": 0.4168,
+    "mixed_script_tokens": 64
+   }
+  },
+  "built_sha256": "38cb8e2c9a4ad28cf15b62725571a55ddcb4c1f080aba9521c0d8ebdef28eb0f"
  }
 }

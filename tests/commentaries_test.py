@@ -135,7 +135,7 @@ check("printed_pages: a leaf with no folio takes its neighbours' offset", pp.get
 check("printed_pages: a stray number is not a folio", pp.get(15, (None,))[0] != 99)
 
 # -- the pins
-check("pins: every scan pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", s["sha256"]) for s in B.SCANS.values()))
+check("pins: every scan pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) for s in B.SCANS.values() for v in B.volumes(s)))
 check("pins: the Gutenberg file pinned by sha256", all(re.fullmatch(r"[0-9a-f]{64}", g["sha256"]) for g in B.GUTENBERG.values()))
 check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s in list(B.SCANS.values()) + list(B.GUTENBERG.values())))
 
@@ -143,7 +143,7 @@ check("pins: every edition printed before 1929", all(s["printed"] < 1929 for s i
 with open(os.path.join(ROOT, "data", "books", "manifest.json"), encoding="utf-8") as f:
     man = json.load(f)
 ents = {k: man[k] for k in B.ORDER if k in man}
-check("manifest: one entry per book", len(ents) == len(B.ORDER) == 6)
+check("manifest: one entry per book", len(ents) == len(B.ORDER) >= 6)
 check("manifest: honesty, rights and draft status on every entry",
       all(e["scheme"].get("honesty") and e.get("rights") and e["scheme"].get("status") == "draft" for e in ents.values()))
 check("manifest: every OCR'd book says it is unproofread",
@@ -157,15 +157,91 @@ check("manifest: Galatians, 95% of verses", cov("lightfoot-galatians", "Gal")["c
 check("manifest: Philippians, 90% of verses", cov("lightfoot-philippians", "Phil")["commented"] >= 0.9 * 104)
 check("manifest: Hebrews, 90% of verses", cov("westcott-hebrews", "Heb")["commented"] >= 0.9 * 303)
 check("manifest: 1 John, 95% of verses", cov("westcott-john", "1John")["commented"] >= 0.95 * 105)
+LOW_GREEK = {"hort-ante-nicene", "lightfoot-horae"}     # lectures; and the Horae, whose quotations are Hebrew
 check("manifest: the commentaries' Greek survived as Greek (over 5% of letters)",
-      all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER if k != "hort-ante-nicene"))
+      all(ents[k]["measure"]["greek"]["greek_share_of_letters"] > 0.05 for k in B.ORDER if k not in LOW_GREEK))
 check("manifest: most scripture references resolve",
       all(e["measure"]["scripture_links"]["resolved"] >= 0.8 * e["measure"]["scripture_links"]["read"]
-          for k, e in ents.items() if k != "hort-ante-nicene"))
+          for k, e in ents.items() if k not in LOW_GREEK))
 check("manifest: Hort is by page, six lectures found",
       ents["hort-ante-nicene"]["scheme"]["resolution"] == "page" and ents["hort-ante-nicene"]["measure"]["lecture_headings"] == 6)
 check("manifest: every Gutenberg footnote placed",
       ents["lightfoot-colossians"]["measure"]["footnotes_placed"] == ents["lightfoot-colossians"]["measure"]["footnotes"])
+
+# -- wave 2a: several volumes, other running heads, the Horae's 'Ver. 5:'
+vs = B.volumes({"title": "T", "volumes": [{"ia": "a", "leaves": (1, 2)}, {"ia": "b", "leaves": (3, 4)}]})
+check("volumes: each volume carries the book's settings and its number",
+      [(v["ia"], v["title"], v["vol"]) for v in vs] == [("a", "T", 1), ("b", "T", 2)] and "volumes" not in vs[0])
+check("volumes: a one-scan book is its own volume, numbered None", B.volumes({"ia": "x"}) == [{"ia": "x", "vol": None}])
+hd = lambda h, ref=None: {"head": h, "ref": ref}  # noqa: E731
+check("head_ref cu: Westcott's left page names the chapter",
+      B.head_ref(hd("264 GOSPEL ACCORDING TO ST. JOHN [Cu. VII"), {"head": "cu"}, 21) == (7, []))
+check("head_ref cu: the right page names the verses only",
+      B.head_ref(hd("VER. 4—7] GOSPEL ACCORDING TO ST. JOHN 263", "VER. 4—7"), {"head": "cu"}, 21) == (None, [4, 7]))
+check("head_ref plain: Ellicott's 'PHILIPPIANS II. 9.'",
+      B.head_ref(hd("46 | PHILIPPIANS II. 9."), {"head": "plain"}, 4) == (2, [9]))
+check("head_ref plain: a folio after a bar is not a chapter", B.head_ref(hd("Bt F. | 29"), {"head": "plain"}, 6)[0] is None)
+check("head_ref ch: Lightfoot's '[Ch. xxviii. 19.'",
+      B.head_ref(hd("382 Hebrew and Talmudical [Ch. xxviii. 19."), {"head": "ch"}, 28) == (28, [19]))
+check("ver_opener: 'Ver. 5:'", B.ver_opener("Ver. 5: Ἐν ἐκείναις") == (None, 5, None, "read"))
+check("ver_opener: a run, the footnote mark after it ignored", B.ver_opener("Ver. 9,10*: text")[1:3] == (9, 10))
+check("ver_opener: 'g' for 9, and said so", B.ver_opener("Ver. g: text") == (None, 9, None, "read-fix"))
+check("ver_opener: prose is not a verse", B.ver_opener("Very many of them") is None)
+check("chap_heading: 'CHAP. XI.' is 11", B.chap_heading("CHAP. XI.", 28) == 11)
+check("chap_heading: an unread number is -1", B.chap_heading("CHAP. ונרא", 28) == -1)
+check("chap_heading: a line of prose is no heading", B.chap_heading("CHAP. I. of the book, which he wrote", 28) is None)
+vd = B.VerDecoder({1: 25, 2: 23, 3: 17, 5: 48})
+check("VerDecoder: the first note takes the agreeing head ahead", vd.offer(1, None, None, 1, None) == (1, 1, None))
+check("VerDecoder: a heading moves the chapter on, skipping chapters", vd.offer(3, None, None, None, 5) == (5, 3, None))
+check("VerDecoder: an earlier head does not move it back", vd.offer(9, None, 2, None, None) == (5, 9, None))
+check("VerDecoder: a verse past the chapter's count is refused", vd.offer(60, None, None, None, None) is None)
+check("chapter_word: Ellicott's 'CHAPTER II. 1.' opens 2.1",
+      B.opener(B.chapter_word("CHapTeR II. 1. διά] after")) == (2, 1, None, "read"))
+check("chapter_word: the old-style 1 read as 'τ' after it is 1",
+      B.opener(B.chapter_word("Cuapter II. τ. Αὐτοὶ γὰρ")) == (2, 1, None, "read"))
+dl = B.Decoder({1: 10, 6: 18}, lookahead=True)
+dl.c, dl.v = 6, 3
+check("decoder lookahead: a number with two of the next four openers before it is a misreading",
+      dl.offer(11, None, None, [12], ahead=[(None, 5), (None, 6), (None, 7)]) is None)
+d0 = B.Decoder({1: 10, 6: 18})
+d0.c, d0.v = 6, 3
+check("decoder lookahead: ... the six original books keep the old rule (byte-identical rebuilds)",
+      d0.offer(11, None, None, [12], ahead=[(None, 5), (None, 6), (None, 7)]) == (6, 11, None))
+dl = B.Decoder({1: 25, 2: 25}, lookahead=True)
+dl.c, dl.v = 1, 22
+check("decoder lookahead: a list '1.' is not the turn while this chapter's later verses are ahead",
+      dl.offer(1, None, None, [], ahead=[(None, 2), (None, 3), (None, 23)]) is None)
+hm = B.hebrew_measure(["the word בראשית and ובראשית here"])
+check("hebrew_measure: letters counted, a prefixed lemma found",
+      hm["hebrew_letters"] == 13 and hm["hebrew_tokens_3plus"] == 2 and hm["hebrew_tokens_strongs_lemma_or_prefixed"] >= 0.5)
+if "westcott-gospel-john" in ents:
+    e = ents["westcott-gospel-john"]
+    check("manifest: Westcott's John, 70% of verses, two volumes",
+          e["measure"]["kjv_coverage"]["John"]["commented"] >= 0.7 * 879 and len(man["westcott-gospel-john"]
+                                                                                   ["rights"]["attribution"].split(";")) == 2)
+    check("manifest: Westcott's John, under 5% of notes against the running head",
+          e["measure"]["openers_against_running_head"] <= 0.05 * e["measure"]["openers_on_headed_pages"])
+    check("manifest: Westcott's John names Lane A's scans and why vol. 2 differs",
+          "gospelaccordingt02west_0" in e["scheme"]["note"] and "no Greek" in e["scheme"]["note"])
+if "lightfoot-horae" in ents:
+    e = ents["lightfoot-horae"]
+    check("manifest: the Horae, 1,000 notes from Matthew to 1 Corinthians",
+          e["measure"]["units"]["note"] >= 1000 and list(e["measure"]["kjv_coverage"]) ==
+          ["Matt", "Mark", "Luke", "John", "Acts", "Rom", "1Cor"])
+    check("manifest: the Horae's Hebrew survived (over 1% of letters, a third of words biblical lemmas)",
+          e["measure"]["hebrew"]["hebrew_share_of_letters"] > 0.01
+          and e["measure"]["hebrew"]["hebrew_tokens_strongs_lemma_or_prefixed"] > 0.33)
+    check("manifest: the Horae, under 5% of notes against the running head",
+          e["measure"]["openers_against_running_head"] <= 0.05 * e["measure"]["openers_on_headed_pages"])
+    check("manifest: the Horae's scripture references mostly resolve (75%: it cites the Talmud's books too)",
+          e["measure"]["scripture_links"]["resolved"] >= 0.75 * e["measure"]["scripture_links"]["read"])
+ELL = {"ellicott-galatians": ["Gal"], "ellicott-ephesians": ["Eph"], "ellicott-philippians": ["Phil", "Col", "Phlm"],
+       "ellicott-thessalonians": ["1Thess", "2Thess"], "ellicott-pastorals": ["1Tim", "2Tim", "Titus"]}
+for k, bks in ELL.items():
+    if k in ents:
+        cv = ents[k]["measure"]["kjv_coverage"]
+        check(f"manifest: {k}, 75% of verses", list(cv) == bks and all(
+            cv[b]["commented"] >= 0.75 * cv[b]["kjv_verses"] for b in bks))
 
 # -- the built books, when present
 for k in B.ORDER:

@@ -27,6 +27,12 @@ THE BOOKS, AND WHICH PRINTING (every one printed before 1929: US public domain)
                           (Macmillan, 1895). sixlecturesonant00hortrich (UC copy): by page,
                           each page carrying its lecture (`lecture`).
 
+  Wave 2a (2026-10-03), the same machinery, scan sets of several volumes allowed
+  (`volumes`: page ids then lead with the volume, `v2.leaf.15`):
+  westcott-gospel-john    B. F. Westcott, The Gospel according to St John: the Greek
+                          text with introduction and notes (London: Murray, 1908, 2 vols).
+                          gospelaccordingt01west (Princeton), gospelaccordingt02west (Toronto).
+
 Project Gutenberg has only the Colossians (searched 2026-10-03 by author and
 title); its Greek is real Unicode and its markup gives the verse anchors of
 Lightfoot's Greek text and every note paragraph, so that book is exact. The
@@ -136,6 +142,21 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 #               ~100% Greek letters (the English OCR'd as Greek)
 #   Hort        sixlecturesonant00hortrich 1895  (no Greek)  96.3%   <- chosen
 #               sixlecturesonan00hortgoog 95.3%, sixlecturesonant00hortuoft 94.9%
+# Wave 2a, measured 2026-10-03 the same way, except that the Greek column here
+# is greek_measure()'s own yardstick (Strong's lemmas and data/nt/John only,
+# the figure the manifest records), so it reads lower than the column above.
+#   Westcott, John (Greek text, 1908)
+#               gospelaccordingt01west vol. 1     7.3%  40.8%  94.5%   <- chosen (also Lane A's vol. 1)
+#               gospelaccordingt02west vol. 2    10.3%  41.9%  93.5%   <- chosen
+#               gospelaccordingt02west_0 (Lane A's vol. 2), gtu_32400003017666_2, gospelaccordingt0002broo,
+#               bwb_S0-ASP-656_1, gospelaccordingt0001broo: 0.0% Greek
+#               gospelaccording01westgoog vol. 1: 99.9% Greek letters (the English OCR'd as Greek)
+#               The Authorised Version edition (gospelaccordingt00westuoft 1892, gospelaccording00westgoog 1882,
+#               gospelaccording13unkngoog 1896) was not needed: the Greek-text edition kept its Greek.
+#   Westcott, Ephesians (1906): REJECTED, no scan keeps its Greek. saintpaulsepistl00westuoft: 100% Greek
+#               letters (English OCR'd as Greek); cu31924029294209, saintpaulsepistl0009broo, bwb_S0-BLY-035:
+#               0.0% Greek; saintpaulsepistl0000west, saintpaulsepistl0000broo_v8b1: 1952 (Eerdmans) reprints.
+#   Project Gutenberg has none of these (searched 2026-10-03: Westcott, Ellicott, Lightfoot).
 CANDIDATES = None
 
 GUTENBERG = {
@@ -235,8 +256,51 @@ SCANS = {
         "apparatus": False,
     },
 }
+# Wave 2a (2026-10-03). `volumes`: one book from several scans (page ids lead
+# with the volume: v2.leaf.15); `head`: how the running head names the verse
+# ("cu": Westcott's "[Cu. VII" on the left page, "Ver. 4-7]" on the right;
+# "plain": Ellicott's "I. 20." with no bracket; "ch": Lightfoot's "[Ch. i. 23.");
+# `style` "ver": notes in one column opened by "Ver. 5:" (the Horae); an
+# epistle's fourth field is the chapter its notes resume at.
+SCANS.update({
+    "westcott-gospel-john": {
+        "title": "The Gospel according to St John",
+        "short": "Westcott, John",
+        "author": "B. F. Westcott",
+        "edition": ("B. F. Westcott, The Gospel according to St John: the Greek text with introduction and notes, "
+                    "2 vols (London: John Murray, 1908), as the title pages read; published after his death"),
+        "printed": 1908,
+        "apparatus": True,
+        "head": "cu",
+        "lookahead": True,
+        "honesty": ("the chapter is printed in the left page's running head only ('[Cu. VII'), the verses in "
+                    "the right's ('Ver. 4-7]'); Westcott's additional notes after a chapter, where they are laid "
+                    "out in columns, run into the note of the verse they open with; the pericope of the "
+                    "adulteress (7.53-8.11), printed as an appendix to vol. 2, is by page only; "
+                    "openers_against_running_head counts notes whose page head reads another chapter, "
+                    "and notes_reopened the verses taken up again further on, whose text joins the first "
+                    "unit of that verse"),
+        "note": ("Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of "
+                 "gospelaccordingt01west (vol. 1, used here too), gospelaccordingt02west_0 (vol. 2) and "
+                 "gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-greek-1/-2 "
+                 "and westcott-john-av-1892; vol. 2 here is gospelaccordingt02west (Toronto) instead, because "
+                 "gospelaccordingt02west_0's text layer has no Greek codepoints (0.0% of letters, measured "
+                 "2026-10-03 on its _djvu.txt) against 10.3% here"),
+        "volumes": [
+            {"ia": "gospelaccordingt01west",
+             "sha256": "ec341318718254bee14e7b664297519746defaf373a783b57128cdb29f04fc44",
+             "copy": "Princeton Theological Seminary Library", "ia_rights": None,
+             "leaves": (5, 483), "epistles": [("John", 202, 483)]},
+            {"ia": "gospelaccordingt02west",
+             "sha256": "9c921a390547f8350b9cf7fabfb33a46b33968ad0bec9ed79a455550376f9d75",
+             "copy": "University of Toronto (Robarts)", "ia_rights": None,
+             "leaves": (5, 404), "epistles": [("John", 12, 387, 8)]},
+        ],
+    },
+})
 ORDER = ["lightfoot-galatians", "lightfoot-philippians", "lightfoot-colossians",
-         "westcott-hebrews", "westcott-john", "hort-ante-nicene"]
+         "westcott-hebrews", "westcott-john", "hort-ante-nicene",
+         "westcott-gospel-john"]
 MULTI = {"lightfoot-colossians", "westcott-john"}    # volumes of several epistles: ids lead with the book
 
 # ------------------------------------------------------------------ files
@@ -278,15 +342,24 @@ def fetch():
     for slug, g in GUTENBERG.items():
         download(g["url"], os.path.join(CACHE, g["file"]), g["sha256"])
         print(f"  {slug}: PG #{g['pg']} present, sha256 pinned")
-    for slug, s in SCANS.items():
-        # the item's rights field, read live: a changed status stops the fetch
-        meta = json.load(urllib.request.urlopen(f"https://archive.org/metadata/{s['ia']}", timeout=120))
-        got = meta.get("metadata", {}).get("possible-copyright-status")
-        if got != s["ia_rights"]:
-            raise SystemExit(f"{s['ia']}: possible-copyright-status {got!r} != recorded {s['ia_rights']!r}")
-        f = f"{s['ia']}_hocr.html"
-        download(f"https://archive.org/download/{s['ia']}/{f}", os.path.join(CACHE, f), s["sha256"])
-        print(f"  {slug}: {s['ia']} hOCR present, sha256 pinned; rights field {got!r}")
+    for slug, s0 in SCANS.items():
+        for s in volumes(s0):
+            # the item's rights field, read live: a changed status stops the fetch
+            meta = json.load(urllib.request.urlopen(f"https://archive.org/metadata/{s['ia']}", timeout=120))
+            got = meta.get("metadata", {}).get("possible-copyright-status")
+            if got != s["ia_rights"]:
+                raise SystemExit(f"{s['ia']}: possible-copyright-status {got!r} != recorded {s['ia_rights']!r}")
+            f = f"{s['ia']}_hocr.html"
+            download(f"https://archive.org/download/{s['ia']}/{f}", os.path.join(CACHE, f), s["sha256"])
+            print(f"  {slug}: {s['ia']} hOCR present, sha256 pinned; rights field {got!r}")
+
+
+def volumes(s):
+    """The scans of a book: one, or each of its `volumes` with the book's
+    settings under it (`vol` its number, None for a one-scan book)."""
+    if "volumes" not in s:
+        return [dict(s, vol=None)]
+    return [dict({k: x for k, x in s.items() if k != "volumes"}, **v, vol=i + 1) for i, v in enumerate(s["volumes"])]
 
 # ------------------------------------------------------------------ hOCR
 
@@ -330,8 +403,8 @@ def read_hocr(path):
     return out
 
 
-def pages(slug):
-    s = SCANS[slug]
+def pages(slug, s=None):
+    s = s or SCANS[slug]
     src = os.path.join(CACHE, f"{s['ia']}_hocr.html")
     cache = os.path.join(CACHE, f"{s['ia']}.{s['sha256'][:12]}.pages.json.gz")
     if os.path.exists(cache):
@@ -455,7 +528,7 @@ STOP = set("the and of to in is that which as be it by with for this not was his
            "or have has its their they we our".split())
 
 
-def layout(a, W, apparatus):
+def layout(a, W, apparatus, prose_ok=False):
     """Split a leaf's body into: the epistle text above the notes, the
     apparatus under it, the notes in reading order (left column, then right),
     and a single-column tail. None if the leaf is not laid out in note columns."""
@@ -503,7 +576,7 @@ def layout(a, W, apparatus):
     large = [l for l in above if l["bbox"][3] - l["bbox"][1] >= 1.25 * note_h or l["xs"] >= 1.25 * note_xs]
     small = [l for l in above if l not in large]
     prose = [l for l in small if sum(w[5].lower().strip(".,;:") in STOP for w in l["words"]) >= 2]
-    if len(prose) >= 3:
+    if len(prose) >= 3 and not prose_ok:     # (Ellicott prints his textual notes full width above the notes)
         return None
     app, pre = [], []
     for l in small:
@@ -543,6 +616,19 @@ def opener(text):
     return cp, n, e, "read-fix" if fix else "read"
 
 
+CHAPTER_WORD = re.compile(r'^\W{0,2}C[A-Za-z]{1,4}[Tt][Ee][Rr]\s*(?=[IVXΙΠ])')
+
+
+def chapter_word(text):
+    """Ellicott opens a chapter's first note 'CHAPTER II. 1. διά]': the word
+    dropped so the chapter and verse read as an opener; an old-style figure 1
+    read as 'τ' there is 1."""
+    t = CHAPTER_WORD.sub("", text)
+    if t is not text and t != text:
+        t = re.sub(r'^([IVXΙΠ][IVXLlΙΠ]{0,3}\.\s*)[τt]\.', r'\g<1>1.', t)
+    return t
+
+
 def stream(lay):
     """Note lines in reading order, each with whether it is indented."""
     out = [(l, True) for l in lay["pre"]]     # full-width matter above the columns: may open a verse
@@ -578,16 +664,22 @@ class Decoder:
     the end of the chapter says the chapter has turned."""
     GAP = 10
 
-    def __init__(self, counts):
+    def __init__(self, counts, lookahead=False):
         self.counts = counts
         self.nch = max(counts)
         self.c, self.v = 1, 0
+        self.lookahead = lookahead
 
     def offer(self, n, e, hc, hv, cp=None, hsure=False, ahead=()):
         """hc: the chapter of the page's running head (None if unread); hsure:
         the next or previous leaf's head agrees with it; hv: the verse numbers
         the heads print; cp: a chapter printed with the opener itself."""
         c, v, cnt = self.c, self.v, self.counts
+        if self.lookahead and cp is None and n > v + 1 \
+                and sum(1 for a in ahead[:4] if a[0] in (None, c) and v < a[1] < n) >= 2:
+            # (wave 2a books) two of the next four openers fall between: this
+            # number is a misreading ('11' for '4' at Ellicott's Gal 6.4)
+            return None
         if cp is not None:
             # a chapter printed with the number: taken if it is this one or the next
             if cp == c + 1 and n <= 4:
@@ -596,7 +688,7 @@ class Decoder:
                 if hsure and cp == hc and n <= cnt.get(cp, 0):
                     return self._take(cp, n, e)
                 return None
-        if hsure and hc is not None and hc not in (c, c + 1) and n <= cnt.get(hc, 0):
+        if hsure and hc is not None and hc not in ((c,) if self.lookahead else (c, c + 1)) and n <= cnt.get(hc, 0):
             return self._take(hc, n, e)      # two agreeing running heads put the notes elsewhere: follow them
         limit = max(hv) + 2 if hv else v + self.GAP
         if v <= n <= cnt.get(c, 0) and n <= max(limit, v + 3) and n - v <= self.GAP + 6:
@@ -608,6 +700,9 @@ class Decoder:
             # close behind is a list inside a note (or an additional note), not the turn
             if n > 1 and any(a[1] == 1 and a[0] in (None, c + 1) for a in ahead):
                 return None
+            if self.lookahead and hc != c + 1 \
+                    and any(a[0] in (None, c) and max(v, 4) < a[1] <= cnt.get(c, 0) for a in ahead):
+                return None    # (wave 2a) this chapter's later verses are still to come: a list, not the turn
             return self._take(c + 1, n, e)
         if v - 2 <= n < v and n >= 1 and hc in (None, c):
             # a note on a verse just passed (Lightfoot takes 3 after 4 at Gal 1.3):
@@ -743,6 +838,46 @@ def greek_measure(texts):
             "greek_tokens_3plus": toks, "greek_tokens_in_reference_vocab": round(known / toks, 4) if toks else 0,
             "mixed_script_tokens": mixed}
 
+HEBREW = {"lightfoot-horae"}           # books measured for Hebrew too
+HEBREW_WORD = re.compile(r'[\u05d0-\u05ea\u05f0-\u05f2\u0591-\u05c7]+')
+_HVOCAB = None
+
+
+def _hfold(w):
+    w = "".join(c for c in unicodedata.normalize("NFD", w) if '\u05d0' <= c <= '\u05ea')
+    return w.translate(str.maketrans("ךםןףץ", "כמנפצ"))
+
+
+def hebrew_measure(texts):
+    """Hebrew letters as a share of all letters, and how many Hebrew words
+    (3+ letters) are a Strong's Hebrew lemma, as written or after one
+    prefixed letter (ו ב ל כ מ ש ה ד): a fixed yardstick of biblical words,
+    so the Talmud's Hebrew and Aramaic score lower than its OCR deserves."""
+    global _HVOCAB
+    if _HVOCAB is None:
+        _HVOCAB = set()
+        with open(STRONGS, encoding="utf-8") as f:
+            for line in f:
+                d = json.loads(line)
+                if d["strongs"].startswith("H"):
+                    _HVOCAB |= {_hfold(w) for w in HEBREW_WORD.findall(d.get("lemma") or "")}
+    letters = heb = toks = known = known_p = 0
+    for t in texts:
+        for c in t:
+            if c.isalpha():
+                letters += 1
+                heb += '\u05d0' <= c <= '\u05ea'
+        for w in HEBREW_WORD.findall(t):
+            w = _hfold(w)
+            if len(w) >= 3:
+                toks += 1
+                known += w in _HVOCAB
+                known_p += w in _HVOCAB or (w[0] in "ובלכמשהד" and w[1:] in _HVOCAB)
+    return {"hebrew_letters": heb, "hebrew_share_of_letters": round(heb / letters, 4) if letters else 0,
+            "hebrew_tokens_3plus": toks,
+            "hebrew_tokens_strongs_lemma": round(known / toks, 4) if toks else 0,
+            "hebrew_tokens_strongs_lemma_or_prefixed": round(known_p / toks, 4) if toks else 0}
+
 # ------------------------------------------------------------------ printed pages
 
 
@@ -781,7 +916,15 @@ def ids_prefix(slug, book):
     return f"{book}." if slug in MULTI else ""
 
 
-def page_unit(slug, s, leaf, lines, a, pp, extra=None):
+def vol_id(vol):
+    return f"v{vol}." if vol else ""
+
+
+def vol_ref(vol):
+    return f"vol. {vol}, " if vol else ""
+
+
+def page_unit(slug, s, leaf, lines, a, pp, extra=None, vol=None):
     cols = C.columns(lines, max(l["bbox"][2] for l in lines) + 1) if lines else [lines]
     text = ""
     for col in cols:
@@ -798,8 +941,10 @@ def page_unit(slug, s, leaf, lines, a, pp, extra=None):
         scan["running_head"] = a["head"]
     if len(cols) > 1:
         scan["columns"] = len(cols)
-    u = {"id": f"{slug}:leaf.{leaf}",
-         "ref": f"{s['short']}, " + (f"p. {pp[leaf][0]}" if leaf in pp else f"leaf {leaf}"),
+    if vol:
+        scan["volume"] = vol
+    u = {"id": f"{slug}:{vol_id(vol)}leaf.{leaf}",
+         "ref": f"{s['short']}, {vol_ref(vol)}" + (f"p. {pp[leaf][0]}" if leaf in pp else f"leaf {leaf}"),
          "kind": "page", "text": text, "links": [], "scan": scan}
     if a["title"]:
         u["section"] = a["title"]
@@ -829,97 +974,258 @@ def hort_leaves(P):
     return first, last
 
 
+HEAD_CU = re.compile(r'[\[\(\{]\s*[CcO06][HhUuXxNnaΗ][.,]?\s*([IVXLΙΠΗΥΧlLiE1|!TtΊ]{1,7})(?![\w.])')
+HEAD_PLAIN = re.compile(r'(?<![^\W\d_])([IVXΙΠΗ][IVXLΙΠΗl]{0,4})\s*[.,]\s*(\d{1,2}(?:\s*[,—–-]+\s*\d{1,2})*)')
+HEAD_CH = re.compile(r'C\s*[hH]\w{0,2}\s*[.,]?\s*([ivxlIVXL1Ι|]{1,7})\s*[.,]\s*(\d{1,2})')
+
+
+def head_ref(a, s, nch):
+    """(chapter or None, verse numbers) of a leaf's running head, read as the
+    book's `head` style says; without one, as the Lightfoot and Westcott
+    epistles print it ('[I. 2, 3')."""
+    style = s.get("head")
+    if style == "cu":
+        m = HEAD_CU.search(a["head"])
+        n = FS.roman(m.group(1).translate(ROMANISH)) if m else None
+        c = n if n and 1 <= n <= nch else None
+        vs = head_verses(a["ref"]) if a["ref"] and re.match(r'\W*V', a["ref"]) else []
+    elif style == "plain":
+        m = HEAD_PLAIN.search(a["head"])
+        c = head_chapter(f"{m.group(1)}. {m.group(2)}", nch) if m else None
+        vs = head_verses(m.group(2)) if m and c else []
+    elif style == "ch":
+        m = HEAD_CH.search(a["head"])
+        n = FS.roman(m.group(1).translate(ROMANISH)) if m else None
+        c = n if n and 1 <= n <= nch else None
+        vs = [int(m.group(2))] if m and c else []
+    else:
+        return (1 if nch == 1 else head_chapter(a["ref"], nch)), head_verses(a["ref"])
+    return (1 if nch == 1 else c), vs
+
+
+VER = re.compile(r'^[\W_]{0,2}V[Ee][Rr][Ss]?\s*[.,]?\s*([0-9IlOoSτtg]{1,2})((?:\s*[,.—–-]+\s*[0-9IlOoSτtg]{1,2})*)'
+                 r'[^\s\w]{0,2}\w?[^\s\w]{0,2}\s*[:;.,](?!\d)')
+CHAP = re.compile(r'^[\W_]{0,2}CHAP[S.,:]*\s*(\S{1,8})')
+
+
+def ver_opener(text):
+    """'Ver. 5:' (or 'Ver. 9, 10*:', the footnote mark read as a letter):
+    (None, n, end or None, 'read'|'read-fix') or None."""
+    m = VER.match(text)
+    if not m:
+        return None
+    n = C.num(m.group(1))
+    rest = re.findall(r'[0-9IlOoSτtg]{1,2}', m.group(2) or "")
+    e = C.num(rest[-1]) if rest else None
+    if not n or (rest and e is None):
+        return None
+    fix = not m.group(1).isdigit() or bool(rest and not rest[-1].isdigit())
+    return None, n, (e if e and e > n else None), "read-fix" if fix else "read"
+
+
+def chap_heading(text, nch):
+    """A 'CHAP. XI.' heading line: its chapter, -1 if the number is unread, else None."""
+    if len(text.split()) > 4:
+        return None
+    m = CHAP.match(text)
+    if not m:
+        return None
+    r = re.sub(r'[^\w|!]', '', m.group(1))
+    r = re.sub(r'[a-z]$', '', r) if len(r) > 1 else r     # a footnote letter after the numeral
+    n = FS.roman(r.translate(ROMANISH)) if r else None
+    return n if n and 1 <= n <= nch else -1
+
+
+class VerDecoder:
+    """Lightfoot's Horae: each note opens 'Ver. 5:', so the number is a verse
+    without guessing; only its chapter is read, from a 'CHAP. XI.' heading
+    in the body, or from a running head ('[Ch. xi. 4.') that a head within
+    three leaves agrees with. Chapters only go forward (he skips many); when
+    a heading is unread, or the verse goes back, the next agreeing head
+    names the chapter. A verse past the chapter's KJV count is refused."""
+
+    def __init__(self, counts):
+        self.counts = counts
+        self.nch = max(counts)
+        self.c, self.v = 0, 0
+
+    def offer(self, n, e, hc, ahead, heading):
+        c = self.c
+        if heading and heading > 0 and c < heading <= self.nch:
+            c = heading
+        elif hc and hc > c:
+            c = hc
+        elif (heading == -1 or n < self.v) and ahead and ahead > c:
+            c = ahead
+        if c == 0:
+            c = ahead or 1
+        if not 1 <= n <= self.counts.get(c, 0):
+            return None
+        if e is not None and (e > self.counts[c] or e - n > 15):
+            e = None
+        self.c, self.v = c, n
+        return c, n, e
+
+
 def build_scan(slug, ids):
-    s = SCANS[slug]
-    P = pages(slug)
-    a0, b0 = s["leaves"] if s["leaves"] else hort_leaves(P)
-    A = {leaf: analyse(P[leaf]) for leaf in range(a0, b0 + 1)}
-    pp = printed_pages({leaf: a["nums"] for leaf, a in A.items()})
-    seg = {}
-    for book, x, y in s["epistles"]:
-        for leaf in range(x, y + 1):
-            seg[leaf] = book
+    s0 = SCANS[slug]
+    vols = volumes(s0)
+    multi = len(vols) > 1
+    ver = s0.get("style") == "ver"
+    books = []
+    for s in vols:
+        for e in s["epistles"]:
+            if e[0] not in books:
+                books.append(e[0])
     units, notes = [], collections.OrderedDict()
     m = collections.Counter()
-    decoders = {book: Decoder(verse_counts(ids, book)) for book, _, _ in s["epistles"]}
+    decoders = {book: VerDecoder(verse_counts(ids, book)) if ver else
+                Decoder(verse_counts(ids, book), s0.get("lookahead", False)) for book in books}
+    spans, pps = [], {}
     # pass 1: every leaf read; note lines collected with their page's evidence
     lines = []
-    for leaf in range(a0, b0 + 1):
-        a = A[leaf]
-        m["junk_lines_dropped"] += a["junk"]
-        lay = layout(a, P[leaf]["w"], s["apparatus"]) if leaf in seg else None
-        if lay is None:
-            if a["body"]:
-                units.append(page_unit(slug, s, leaf, a["body"], a, pp))
-                m["leaves_page"] += 1
-            continue
-        book = seg[leaf]
-        nch = decoders[book].nch
-        m["leaves_commentary"] += 1
-        hc = 1 if nch == 1 else head_chapter(a["ref"], nch)
-        nxt, prv = A.get(leaf + 1), A.get(leaf - 1)
-        hc_next = (1 if nch == 1 else head_chapter(nxt["ref"], nch)) if nxt else None
-        hc_prev = (1 if nch == 1 else head_chapter(prv["ref"], nch)) if prv else None
-        hsure = hc is not None and hc in (hc_next, hc_prev)
-        hv = head_verses(a["ref"]) + (head_verses(nxt["ref"]) if nxt and hc_next == hc else [])
-        if lay["text"] or lay["apparatus"]:
-            t = ""
-            for l in lay["text"]:
-                t = C.join(t, l["text"])
-            u = {"id": f"{slug}:leaf.{leaf}.text",
-                 "ref": f"{s['short']}, " + (f"p. {pp[leaf][0]}" if leaf in pp else f"leaf {leaf}") + ", text",
-                 "kind": "epistle-text", "book": book, "text": t, "links": [],
-                 "scan": {"leaves": [leaf]}}
-            if lay["apparatus"]:
-                u["apparatus"] = " ".join(l["text"] for l in lay["apparatus"])
-            if a["head"]:
-                u["scan"]["running_head"] = a["head"]
-            if leaf in pp:
-                u["scan"]["printed_page"] = pp[leaf][0]
-            units.append(u)
-        for l, indented in stream(lay):
-            o = opener(l["text"]) if indented else None
-            lines.append({"book": book, "leaf": leaf, "line": l, "indented": indented, "o": o,
-                          "hc": hc, "hc_next": hc_next, "hv": hv, "hsure": hsure})
-        if lay["tail"]:
-            units.append(page_unit(slug, s, leaf, lay["tail"], a, pp, {"after_notes": True}))
-            m["leaves_with_tail"] += 1
+    for s in vols:
+        vol = s["vol"] if multi else None
+        P = pages(slug, s)
+        a0, b0 = s["leaves"] if s["leaves"] else hort_leaves(P)
+        spans.append((a0, b0))
+        A = {leaf: analyse(P[leaf]) for leaf in range(a0, b0 + 1)}
+        pp = printed_pages({leaf: a["nums"] for leaf, a in A.items()})
+        pps[vol] = pp
+        seg, start = {}, {}
+        for e in s["epistles"]:
+            for leaf in range(e[1], e[2] + 1):
+                seg[leaf] = e[0]
+            if len(e) > 3:
+                start[e[1]] = e[3]
+        heads = {leaf: head_ref(A[leaf], s, decoders[seg[leaf]].nch) for leaf in seg if leaf in A}
+        where = lambda leaf: (f"{s['short']}, {vol_ref(vol)}"  # noqa: E731
+                              + (f"p. {pp[leaf][0]}" if leaf in pp else f"leaf {leaf}"))
+        for leaf in range(a0, b0 + 1):
+            a = A[leaf]
+            m["junk_lines_dropped"] += a["junk"]
+            if leaf in start:
+                lines.append({"restart": (seg[leaf], start[leaf])})
+            if ver and leaf in seg:
+                book = seg[leaf]
+                nch = decoders[book].nch
+                m["leaves_commentary"] += 1
+                hc = heads[leaf][0]
+                near = [heads[q][0] for q in range(leaf - 3, leaf + 4) if q != leaf and seg.get(q) == book]
+                hok = hc if hc is not None and hc in near else None
+                ahead = next((heads[q][0] for q in range(leaf, leaf + 7) if seg.get(q) == book
+                              and heads[q][0] is not None
+                              and heads[q][0] in [heads[r][0] for r in range(q - 3, q + 4)
+                                                  if r != q and seg.get(r) == book]), None)
+                body = C.merge_rows(a["body"])
+                mg = margin(body)
+                xs = a["med"] or 40
+                for l in body:
+                    ind = l["bbox"][0] - mg
+                    lines.append({"book": book, "leaf": leaf, "vol": vol, "pp": pp.get(leaf), "line": l,
+                                  "indented": 0.45 * xs <= ind <= 2.6 * xs, "o": ver_opener(l["text"]),
+                                  "heading": chap_heading(l["text"], nch), "hc": hok, "ahead": ahead})
+                continue
+            lay = layout(a, P[leaf]["w"], s["apparatus"], s.get("prose_above", False)) if leaf in seg else None
+            if lay is None:
+                if a["body"]:
+                    units.append(page_unit(slug, s, leaf, a["body"], a, pp, vol=vol))
+                    m["leaves_page"] += 1
+                continue
+            book = seg[leaf]
+            m["leaves_commentary"] += 1
+            hc, hv = heads[leaf]
+            nch = decoders[book].nch
+            nxt = head_ref(A[leaf + 1], s, nch) if leaf + 1 in A else None
+            prv = head_ref(A[leaf - 1], s, nch) if leaf - 1 in A else None
+            hc_next = nxt[0] if nxt else None
+            hc_prev = prv[0] if prv else None
+            near = (hc_next, hc_prev)
+            if s.get("head") == "cu":       # the chapter is printed on every other page only
+                near += tuple(heads[q][0] for q in (leaf - 2, leaf + 2) if q in heads)
+            hsure = hc is not None and hc in near
+            hv = hv + (nxt[1] if nxt and hc_next == hc else [])
+            if lay["text"] or lay["apparatus"]:
+                t = ""
+                for l in lay["text"]:
+                    t = C.join(t, l["text"])
+                u = {"id": f"{slug}:{vol_id(vol)}leaf.{leaf}.text", "ref": where(leaf) + ", text",
+                     "kind": "epistle-text", "book": book, "text": t, "links": [],
+                     "scan": {"leaves": [leaf]}}
+                if lay["apparatus"]:
+                    u["apparatus"] = " ".join(l["text"] for l in lay["apparatus"])
+                if a["head"]:
+                    u["scan"]["running_head"] = a["head"]
+                if leaf in pp:
+                    u["scan"]["printed_page"] = pp[leaf][0]
+                if vol:
+                    u["scan"]["volume"] = vol
+                units.append(u)
+            for l, indented in stream(lay):
+                o = opener(chapter_word(l["text"]) if s.get("head") else l["text"]) if indented else None
+                lines.append({"book": book, "leaf": leaf, "vol": vol, "pp": pp.get(leaf), "line": l,
+                              "indented": indented, "o": o,
+                              "hc": hc, "hc_next": hc_next, "hv": hv, "hsure": hsure})
+            if lay["tail"]:
+                units.append(page_unit(slug, s, leaf, lay["tail"], a, pp, {"after_notes": True}, vol=vol))
+                m["leaves_with_tail"] += 1
     # pass 2: the verse sequence, each candidate seeing the next few candidates
-    current = {}
-    cand = [i for i, x in enumerate(lines) if x["o"]]
+    current, heading = {}, {}
+    cand = [i for i, x in enumerate(lines) if x.get("o")]
     nxt_cand = {i: [(lines[j]["o"][0], lines[j]["o"][1]) for j in cand[k + 1:k + 7] if lines[j]["book"] == lines[i]["book"]]
                 for k, i in enumerate(cand)}
     for i, x in enumerate(lines):
+        if "restart" in x:
+            book, c = x["restart"]
+            decoders[book].c, decoders[book].v = c, 0
+            current[book] = None
+            continue
         book, leaf, l, indented, o = x["book"], x["leaf"], x["line"], x["indented"], x["o"]
         dec = decoders[book]
-        hc = x["hc"]
-        if hc is None and x["hc_next"] is not None and x["hc_next"] > dec.c:
-            hc = x["hc_next"]
-        cur = current.get(book)
         took = None
+        if ver:
+            if x["heading"] is not None:
+                heading[book] = x["heading"]
+                m["chapter_headings" if x["heading"] > 0 else "chapter_headings_unread"] += 1
+            if o:
+                took = dec.offer(o[1], o[2], x["hc"], x["ahead"], heading.pop(book, None))
+        else:
+            hc = x["hc"]
+            if hc is None and x["hc_next"] is not None and x["hc_next"] > dec.c:
+                hc = x["hc_next"]
+            if o:
+                took = dec.offer(o[1], o[2], hc, x["hv"], o[0], x["hsure"], nxt_cand[i])
+        if took and (ver or dec.lookahead) and x["hc"] is not None:
+            # (wave 2a) a check, not a rule: the page's running head read a chapter
+            m["openers_on_headed_pages"] += 1
+            m["openers_against_running_head"] += took[0] != x["hc"]
         if o:
-            took = dec.offer(o[1], o[2], hc, x["hv"], o[0], x["hsure"], nxt_cand[i])
             m["openers_accepted" if took else "openers_rejected"] += 1
             if took and o[3] == "read-fix":
                 m["openers_read_with_fix"] += 1
+        cur = current.get(book)
         if took:
             c, n, e = took
             key = f"{ids_prefix(slug, book)}{c}.{n}" + (f"-{e}" if e else "")
+            if key in notes and key != cur and (ver or dec.lookahead):
+                m["notes_reopened"] += 1      # (wave 2a) the verse taken again later: its text joins the first
             if key not in notes:
-                notes[key] = {"book": book, "c": c, "n": n, "e": e, "text": "", "leaves": [], "pages": []}
+                notes[key] = {"book": book, "c": c, "n": n, "e": e, "text": "", "leaves": [], "pages": [],
+                              "vol": x["vol"]}
             cur = current[book] = key
         if cur is None:
-            cur = current[book] = f"{ids_prefix(slug, book)}title"
+            cur = current[book] = f"{vol_id(x['vol'])}{ids_prefix(slug, book)}title"
             notes.setdefault(cur, {"book": book, "c": None, "n": None, "e": None, "text": "",
-                                   "leaves": [], "pages": []})
+                                   "leaves": [], "pages": [], "vol": x["vol"]})
         nu = notes[cur]
         nu["text"] = nu["text"] + "\n" + l["text"] if (indented and nu["text"]) else C.join(nu["text"], l["text"])
         if leaf not in nu["leaves"]:
             nu["leaves"].append(leaf)
-            if leaf in pp and pp[leaf][0] not in nu["pages"]:
-                nu["pages"].append(pp[leaf][0])
+            if x["pp"] and x["pp"][0] not in nu["pages"]:
+                nu["pages"].append(x["pp"][0])
     for key, nu in notes.items():
         book = nu["book"]
+        s = s0
         if nu["c"] is None:
             ref, links = f"{note_ref(s, book)}, before the first note", []
         else:
@@ -931,10 +1237,12 @@ def build_scan(slug, ids):
              "scan": {"leaves": nu["leaves"]}}
         if nu["pages"]:
             u["scan"]["printed_pages"] = nu["pages"]
+        if nu["vol"]:
+            u["scan"]["volume"] = nu["vol"]
         units.append(u)
     order = {"page": 0, "epistle-text": 0, "note": 1}
-    units.sort(key=lambda u: (min(u["scan"]["leaves"]), order[u["kind"]]))
-    if not s["epistles"]:
+    units.sort(key=lambda u: (u["scan"].get("volume", 0), min(u["scan"]["leaves"]), order[u["kind"]]))
+    if not books:
         # a book of lectures: each page says which lecture it is in, from the
         # 'LECTURE I.' heading that opens it (the ids stay the leaves)
         lect = None
@@ -945,7 +1253,9 @@ def build_scan(slug, ids):
                 m["lecture_headings"] += 1
             if lect:
                 u["lecture"] = lect
-    return units, m, (a0, b0), pp
+    pp = pps[None] if not multi else pps
+    return units, m, (spans[0] if not multi else spans), pp
+
 
 # ------------------------------------------------------------------ Gutenberg
 
@@ -1132,10 +1442,17 @@ def _page(pages, slug, page, section, g):
 # ------------------------------------------------------------------ books
 
 
+def scan_books(slug):
+    out = []
+    for v in volumes(SCANS[slug]):
+        out += [e[0] for e in v["epistles"] if e[0] not in out]
+    return out
+
+
 def harvest(slug, units, ids):
     own = None
-    if slug in SCANS and len(SCANS[slug]["epistles"]) == 1:
-        own = SCANS[slug]["epistles"][0][0]
+    if slug in SCANS and len(scan_books(slug)) == 1:
+        own = scan_books(slug)[0]
     n = r = 0
     for u in units:
         book = u.get("book") or own
@@ -1165,6 +1482,22 @@ def honesty(slug, ocr):
         return ("page-exact: one unit per scan leaf (leaf.N), the printed folio in scan.printed_page where the "
                 "running head gives it or its neighbours agree on it (scan.printed_page_from); each page"
                 " carries the lecture it falls in (`lecture`, from the LECTURE headings), but lectures and paragraphs are NOT units; unproofread OCR")
+    sc = SCANS.get(slug, {})
+    if sc.get("style") == "ver":
+        return ("notes keyed by verse as Lightfoot heads them, 'Ver. 5:' at the start of a line (the number read "
+                "as printed, a footnote mark after it ignored), in one column; the CHAPTER is not printed with "
+                "the verse and is read from a 'CHAP. XI.' heading in the body or from the running heads "
+                "('[Ch. xi. 4.'), a head counting only where a head within three leaves agrees, chapters only "
+                "moving forward (he comments on chosen verses and skips whole chapters), so a misread head can "
+                "put a run of notes in the wrong chapter (openers_against_running_head counts the notes whose "
+                "page head reads another chapter; notes_reopened, the verses taken up again further on, whose "
+                "text joins the first unit of that verse); every following line belongs to the note, the page's "
+                "footnotes (Gandell's references) included where they stand; vol. 1 (the chorographical "
+                "century and inquiries) and the dedications, prefaces, addenda and indexes by scan leaf "
+                "(v<N>.leaf.<M>, the folio in scan.printed_page where read); lines of bare accents dropped and "
+                "counted; the Hebrew and Aramaic quotations are the OCR's Hebrew script, unpointed and often "
+                "misread (measure.hebrew); unproofread OCR")
+    tail = f"; {sc['honesty']}" if sc.get("honesty") else ""
     return ("notes keyed by verse where the OCR'd page lets them be: an indented verse number opening a note "
             "paragraph is accepted when the verse sequence (and the fuzzily read running head) allows it, "
             "and every following line, left column then right, belongs to it; boundaries are therefore only "
@@ -1173,7 +1506,7 @@ def honesty(slug, ocr):
             "the critical apparatus under it where printed); every other page (introduction, detached and "
             "additional notes, dissertations, essays, index) by scan leaf (leaf.N, the folio in "
             "scan.printed_page where read); lines of bare accents dropped and counted; marginal summaries "
-            "may be run into their lines; unproofread OCR")
+            f"may be run into their lines{tail}; unproofread OCR")
 
 
 def citation(slug, ocr):
@@ -1181,6 +1514,13 @@ def citation(slug, ocr):
         return "scan leaf (leaf.N), one per printed page; the folio, where read, in scan.printed_page"
     lead = "book.chapter.verse" if slug in MULTI else "chapter.verse"
     pages = "printed page (p.N)" if not ocr else "scan leaf (leaf.N; folio in scan.printed_page)"
+    if "volumes" in SCANS.get(slug, {}):
+        pages = "volume and scan leaf (v<N>.leaf.<M>; folio in scan.printed_page)"
+        if SCANS[slug].get("style") == "ver":
+            return (f"note: {lead} of the verse commented on (a run of verses: {lead}-end); notes before a "
+                    f"book's first: v<N>.book.title; everything else: {pages}")
+        return (f"note: {lead} of the verse commented on (a run of verses: {lead}-end); epistle text: "
+                f"v<N>.leaf.<M>.text; everything else: {pages}")
     return (f"note: {lead} of the verse commented on (a run of verses: {lead}-end); epistle text: "
             + ("text.book.chapter.verse" if not ocr else "leaf.N.text") + f"; everything else: {pages}")
 
@@ -1189,17 +1529,36 @@ def build_book(slug, ids):
     ocr = slug in SCANS
     if ocr:
         s = SCANS[slug]
-        units, m, (a0, b0), pp = build_scan(slug, ids)
-        source = {"format": "ia-hocr", "sha256": s["sha256"], "ia": s["ia"], "leaves": [a0, b0]}
-        rights = {"license": f"public domain in the US (printed {s['printed']}); the scan and its OCR are the "
-                             "Internet Archive's",
-                  "ia_possible_copyright_status": s["ia_rights"] or "(the item's metadata carries no rights field)",
-                  "attribution": f"Internet Archive, {s['ia']} ({s['copy']} copy)",
-                  "source_url": f"https://archive.org/details/{s['ia']}",
-                  "redistribute_whole": True}
+        units, m, spans, pp = build_scan(slug, ids)
+        if "volumes" not in s:
+            a0, b0 = spans
+            source = {"format": "ia-hocr", "sha256": s["sha256"], "ia": s["ia"], "leaves": [a0, b0]}
+            rights = {"license": f"public domain in the US (printed {s['printed']}); the scan and its OCR are the "
+                                 "Internet Archive's",
+                      "ia_possible_copyright_status": s["ia_rights"] or "(the item's metadata carries no rights field)",
+                      "attribution": f"Internet Archive, {s['ia']} ({s['copy']} copy)",
+                      "source_url": f"https://archive.org/details/{s['ia']}",
+                      "redistribute_whole": True}
+            pv = list(pp.values())
+        else:
+            vs = volumes(s)
+            # one sha256 for the set: of the volumes' pinned sha256s, in order
+            source = {"format": "ia-hocr",
+                      "sha256": hashlib.sha256(" ".join(v["sha256"] for v in vs).encode()).hexdigest(),
+                      "volumes": [{"vol": v["vol"], "ia": v["ia"], "sha256": v["sha256"], "leaves": list(sp)}
+                                  for v, sp in zip(vs, spans)]}
+            rights = {"license": f"public domain in the US (printed {s['printed']}); the scans and their OCR are "
+                                 "the Internet Archive's",
+                      "ia_possible_copyright_status": "; ".join(
+                          f"vol. {v['vol']} {v['ia']}: " + (v["ia_rights"] or "(the item's metadata carries no "
+                                                             "rights field)") for v in vs),
+                      "attribution": "Internet Archive, " + "; ".join(f"{v['ia']} ({v['copy']} copy)" for v in vs),
+                      "source_url": " ".join(f"https://archive.org/details/{v['ia']}" for v in vs),
+                      "redistribute_whole": True}
+            pv = [x for d in pp.values() for x in d.values()]
         meta = s
-        m["printed_page_read"] = sum(1 for x in pp.values() if x[1] == "read")
-        m["printed_page_from_neighbours"] = sum(1 for x in pp.values() if x[1] != "read")
+        m["printed_page_read"] = sum(1 for x in pv if x[1] == "read")
+        m["printed_page_from_neighbours"] = sum(1 for x in pv if x[1] != "read")
     else:
         g = GUTENBERG[slug]
         units, m, line = build_gutenberg(slug, ids)
@@ -1215,7 +1574,7 @@ def build_book(slug, ids):
     n_links, n_resolved = harvest(slug, units, ids)
     kinds = collections.Counter(u["kind"] for u in units)
     measure = {"units": dict(sorted(kinds.items())), **dict(sorted(m.items()))}
-    eps = [e[0] for e in SCANS[slug]["epistles"]] if ocr else list(GUTENBERG[slug]["regions"].values())
+    eps = scan_books(slug) if ocr else list(GUTENBERG[slug]["regions"].values())
     if eps:
         cov = {}
         for b in eps:
@@ -1229,6 +1588,8 @@ def build_book(slug, ids):
         measure["kjv_coverage"] = cov
     measure["scripture_links"] = {"read": n_links, "resolved": n_resolved}
     measure["greek"] = greek_measure(u["text"] for u in units)
+    if slug in HEBREW:
+        measure["hebrew"] = hebrew_measure(u["text"] for u in units)
     book = {"slug": slug, "title": meta["title"], "author": meta["author"], "edition": meta["edition"],
             "source": source,
             "scheme": {"citation": citation(slug, ocr), "resolution": "verse-note" if eps else "page",
@@ -1239,10 +1600,17 @@ def build_book(slug, ids):
 
 def entry(book, blob):
     src = book["source"]
-    where = f"PG #{src['pg']}" if "pg" in src else f"scan leaves {src['leaves'][0]}-{src['leaves'][1]} of {src['ia']}"
+    if "pg" in src:
+        where = f"PG #{src['pg']}"
+    elif "volumes" in src:
+        where = "; ".join(f"vol. {v['vol']}: scan leaves {v['leaves'][0]}-{v['leaves'][1]} of {v['ia']}"
+                          for v in src["volumes"])
+    else:
+        where = f"scan leaves {src['leaves'][0]}-{src['leaves'][1]} of {src['ia']}"
     return {"title": book["title"], "author": book["author"], "format": src["format"], "sha256": src["sha256"],
             "units": len(book["units"]),
-            "scheme": dict(book["scheme"], note=f"{book['edition']}; {where}"),
+            "scheme": dict(book["scheme"], note=f"{book['edition']}; {where}"
+                           + (f"; {SCANS[book['slug']]['note']}" if SCANS.get(book["slug"], {}).get("note") else "")),
             "rights": book["rights"], "measure": book["measure"],
             "built_sha256": hashlib.sha256(blob).hexdigest()}
 
