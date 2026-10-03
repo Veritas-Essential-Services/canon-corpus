@@ -1,5 +1,5 @@
 {
- "_about": "Aulus Cornelius Celsus, Of Medicine, in James Greive's translation (Gutenberg text from the 1814 edition), clean Gutenberg.",
+ "_about": "Aulus Cornelius Celsus, Of Medicine, in James Greive's translation (Gutenberg text from the 1814 edition), clean Gutenberg. Added 2026-10-03 as raw IA OCR (translator per row): G. F. Collier's translation (1831) and Alexander Lee's Latin-and-English edition, vol. I (1831; vol. II not found as text).",
  "_name_words": [
   "celsus",
   "medicine"
@@ -12,12 +12,19 @@
    "tr. James Greive"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "celsus-collier-1831": [
+   "atranslationeig00celsgoog",
+   "A Translation of the Eight Books of Aul. Corn. Celsus on Medicine (London: printed by A. J. Valpy, 1831)",
+   "tr. G. F. Collier"
+  ]
+ },
  "_surname": [
   "celsus"
  ],
  "_translators": {
-  "celsus-greive": "James Greive"
+  "celsus-greive": "James Greive",
+  "celsus-collier-1831": "Collier"
  },
  "_checks": {
   "celsus-greive": {
@@ -31,6 +38,19 @@
    "pg_copyrighted": false,
    "pg_translator": "James Greive",
    "translator_match": true
+  },
+  "celsus-collier-1831": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "celsus",
+   "translator_claimed": "Collier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
