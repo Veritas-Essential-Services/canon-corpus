@@ -456,3 +456,10 @@
 - Pliny: Orrery's Letters of Pliny the Younger (vol. I 1751, vol. II 1752)
 - Cycle 10: Paley 1879 confirmed; Perseus licence stated in _about on seven shelves (not in _rights_checked, which is the gate's override)
 - Gap 03:02-05:40: tool rate limit
+
+## 2026-10-03 05:57 CDT — Cycle 11, recoveries, Persius and Juvenal
+- Horace name forms changed so they no longer match Horace Bushnell (reviewer)
+- _perseus_licence statement on the 21 Perseus shelves; fetch_perseus.py documents it; 4 new tests
+- Storage-node workaround for archive.org/download 500s: Melmoth vol. I, Queen Elizabeth's Englishings (EETS 1899), Sheppard's Oedipus (1922), Perley Smith's Eclogues (1909)
+- Aelian 1670 refused (OCR 0.66)
+- juvenal: Wollaston's Persius (1841) and Leeper's Juvenal (1902)

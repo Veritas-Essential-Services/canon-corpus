@@ -2247,6 +2247,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Georgics of Virgil, Books I, II, translated into English verse (Murray, 1900) | Lord Burghclere | `virgil-burghclere-georgics-1-2-1900` | have-raw (IA `georgicsbooks0102virguoft`) |
 | The Bucolics of Virgil, literally translated into English prose from the text of Heyne, with a freer translation and notes (1825) | T. W. C. Edwards | `virgil-edwards-bucolics-1825` | have-raw (IA `publiivirgiliima00virg`) |
 | The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922) | Thomas Fletcher Royds | `virgil-royds-eclogues-1922` | have-raw (IA `ecloguesbucolics00virguoft`) |
+| The Eclogues of Virgil, in English hexameter (1909) | I. Perley Smith | `virgil-smith-eclogues-1909` | have-raw (IA `ecloguesofvirgil00vi`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -2397,6 +2398,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Sophocles translated into English Verse (London: Rivingtons, MDCCCLXXXIII) | Robert Whitelaw | `sophocles-whitelaw-1883` | have-raw (IA `sophoclestransla00sophuoft`) |
 | The Tragedies of Sophocles translated into English Verse, vol. I (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v1` | have-raw (IA `tragediesofsopho01soph_0`) |
 | The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v2` | have-raw (IA `tragediesofsopho02soph`) |
+| The Oedipus Tyrannus of Sophocles (1922) | J. T. Sheppard | `sophocles-sheppard-oedipus-tyrannus-1922` | have-raw (IA `oedipustyr00soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -3032,6 +3034,8 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | A New and Literal Translation of Juvenal and Persius, with explanatory notes, 2 vols. bound as one (London: William Baynes, 1814) | Martin Madan | `juvenal-persius-madan-1814` | have-raw (IA `newliteraltransl00juveiala`) |
 | The Satires of Juvenal translated into English Verse (London: Longman and others, 1814) | Charles Badham | `juvenal-badham-1814` | have-raw (IA `satiresofjuvenal00ju`) |
 | The Satires of Juvenal, translated and illustrated (London: Payne and Mackinlay, 1807) | Francis Hodgson | `juvenal-hodgson-1807` | have-raw (IA `b28269743`) |
+| The Satires of Persius, with a translation of the Epodes of Horace by the same (London: Chas. Reynell, 1841) | Charlton Byam Wollaston | `persius-wollaston-1841` | have-raw (IA `satirespersius00wollgoog`) |
+| Thirteen Satires of Juvenal translated into English, new and revised edition (Macmillan, 1902) | Alexander Leeper | `juvenal-leeper-1902` | have-raw (IA `cu31924009519681`) |
 
 
 ## Plautus and Terence
@@ -3221,6 +3225,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. III of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v3` | have-raw (IA `lettersofmarcust03ciceuoft`) |
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. IV of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v4` | have-raw (IA `lettersofmarcust04ciceuoft`) |
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v5` | have-raw (IA `lettersofmarcust05ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, vol. I (1808) | William Melmoth | `cicero-melmoth-letters-1808-v1` | have-raw (IA `lettersofmarcust01ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -3506,6 +3511,7 @@ Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
 | The Theological Tractates and The Consolation of Philosophy | Stewart and Rand (Loeb 1918; 'I.T.' 1609 revised) | `boethius-rand-stewart` | have (PG 13316) |
 | Boethius's Consolation of Philosophy, translated from the Latin, with notes and illustrations (London: C. Dilly, M.DCC.LXXXV) | Philip Ridpath | `boethius-ridpath-1785` | have-raw (IA `boethiussconsol00boetgoog`) |
 | Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII) | George Colville | `boethius-colville-1556` | have-raw (IA `cu31924029003824`) |
+| Queen Elizabeth's Englishings of Boethius, Plutarch and Horace (EETS, 1899; ed. Caroline Pemberton) | Queen Elizabeth I | `boethius-queen-elizabeth-1899` | have-raw (IA `queenelizabethse00eliz`) |
 
 Excluded: Chaucer's Middle English Boece
 
