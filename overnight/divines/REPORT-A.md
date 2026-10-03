@@ -307,3 +307,6 @@
 
 ## 2026-10-02 21:12 CDT — david-dickson done
 - `pipeline/david-dickson_shelf.json`: 2 items, raw IA OCR, 98.4-98.8%, about 1.1 MB. Therapeutica Sacra (1697) was refused by the identity gate (long-s OCR never prints his name) and is pending with the 17th-century commentaries. The Sum of Saving Knowledge is the copy the Durham shelf excluded as chiefly Dickson's, so it is not duplicated. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:14 CDT — john-brown-haddington done
+- `pipeline/john-brown-haddington_shelf.json`: 6 items, raw IA OCR, median 95.9% (93.3-98.2%), about 12 MB. IA's catalogue mixes him with other John Browns, so each title page was read: all six name him (Haddington, or professor of divinity under the Associate Synod). The surname gate alone ("brown") would not tell them apart. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

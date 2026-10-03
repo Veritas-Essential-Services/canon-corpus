@@ -1125,6 +1125,16 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `ddickson-*`. 
 | Select Practical Writings, vol. 1 (1845) | have-raw | IA |
 | The Sum of Saving Knowledge, with Durham (1886, Macpherson's notes) | have-raw | IA |
 | Psalms (1653-54), Hebrews (1635), Matthew; Therapeutica Sacra (1697) | pending | only 17th-century printings |
+
+## John Brown of Haddington (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Library of Congress, Cornell and Princeton scans; slugs `jbrown-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compendious View of Natural and Revealed Religion (1819); A Dictionary of the Holy Bible (1839); Explication of the Shorter Catechism (1845); Compendious History of the British Churches, 2 vols (1820); A Brief View of the Figures of Scripture (1812) | have-raw | IA (identifiers in the shelf) |
+| Concordance | alternate | a word list, left for later |
+| Jamieson-Fausset-Brown; John Brown of Edinburgh's Romans | excluded | other authors |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -689,10 +689,13 @@
     },
     {
       "id": "john-brown-haddington",
-      "status": "todo",
+      "status": "done",
       "scope": "John Brown of Haddington: Systematic Theology, Dictionary and other works (d. 1787)",
       "added": "2026-10-02T20:58:28-05:00",
-      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T21:12:31-05:00",
+      "finished": "2026-10-02T21:14:19-05:00",
+      "notes": "6 IA"
     },
     {
       "id": "timothy-dwight",

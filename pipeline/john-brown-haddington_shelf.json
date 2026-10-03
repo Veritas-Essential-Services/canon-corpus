@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain John Brown of Haddington (1722-1787, Secession minister and professor of divinity) for the Word Hoard: A Compendious View of Natural and Revealed Religion (1819), A Dictionary of the Holy Bible (New York: Harper, 1839), the Essay towards an Explication of the Assembly's Shorter Catechism (New York: Carter, 1845), A Compendious History of the British Churches (Edinburgh, 1820, 2 vols) and A Brief View of the Figures of Scripture (Middlebury, 1812), raw Internet Archive OCR. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted. IA mixes him up with other John Browns; each item's title page was read.",
+ "_name_words": [
+  "brown",
+  "john",
+  "haddington"
+ ],
+ "_surname": [
+  "brown"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jbrown-compendious-view-1819": [
+   "compendiousviewo00bro",
+   "A Compendious View of Natural and Revealed Religion (1819)"
+  ],
+  "jbrown-dictionary-1839": [
+   "cu31924029271074",
+   "A Dictionary of the Holy Bible (New York: Harper, 1839)"
+  ],
+  "jbrown-catechism-1845": [
+   "essaytowardseasy1845brow",
+   "An Essay towards an Easy, Plain, Practical and Extensive Explication of the Assembly's Shorter Catechism (New York: Carter, 1845)"
+  ],
+  "jbrown-british-churches-1": [
+   "compendioushisto01brow",
+   "A Compendious History of the British Churches in England, Scotland, Ireland and America, vol. 1 (Edinburgh: Monteith, 1820)"
+  ],
+  "jbrown-british-churches-2": [
+   "compendioushisto02brow",
+   "A Compendious History of the British Churches in England, Scotland, Ireland and America, vol. 2 (Edinburgh: Monteith, 1820)"
+  ],
+  "jbrown-figures-1812": [
+   "briefviewoffigur00brow",
+   "A Brief View of the Figures, and Explication of the Metaphors, Contained in Scripture (Middlebury, Vt.: Swift, 1812)"
+  ]
+ },
+ "_alternates": {
+  "compendiousviewo00brow (1782); compendiousviewo0000brow (1817)": "Other editions of the Compendious View.",
+  "dictionaryofholy* (1789-1807), adictionaryholy01browgoog": "Earlier editions of the Dictionary.",
+  "essaytowardse00brow (1812), essaytowardseasy1846brow, essaytowardseasy00brow (1854)": "Other editions of the Catechism.",
+  "acompendioushis00browgoog (1823)": "Another edition of the History.",
+  "briefconcordance*, concordance*": "His Concordance (1792-1838): a word list, left for later."
+ },
+ "_excluded": {
+  "commentarycritic*jami": "Jamieson, Fausset and Brown: David Brown, another author.",
+  "analyticalexpos01browgoog": "John Brown of Edinburgh's Romans, mis-catalogued.",
+  "b22040857_0001; argraphiadnewydd00browuoft; corffduwinyddiae0000brow": "An 1801 Dublin dictionary not checked, and Welsh translations.",
+  "addresstostudent*; cihm_93901; McGillLibrary-rbsc_apology-lord-supper_*": "Short pamphlets and a catechism; authorship not checked."
+ },
+ "_checks": {
+  "jbrown-compendious-view-1819": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jbrown-dictionary-1839": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbrown-catechism-1845": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbrown-british-churches-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbrown-british-churches-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbrown-figures-1812": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
