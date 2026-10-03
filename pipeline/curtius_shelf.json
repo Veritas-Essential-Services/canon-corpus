@@ -1,0 +1,27 @@
+{
+ "_about": "Quintus Curtius, History of Alexander, in English: John Brende's Tudor translation (1553, first edition; EEBO OCR, black letter, noisy) and John Digby's (1714, 2 vols., with Freinshemius's supplement). Raw IA OCR; title pages read.",
+ "_name_words": [
+  "curtius",
+  "alexander",
+  "quintus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "curtius-brende-1553": [
+   "bim_early-english-books-1475-1640_the-historie-of-quintus-_curtius-rufus-q_1553",
+   "The Historie of Quintus Curcius, conteyning the Actes of the greate Alexander (London, 1553)",
+   "tr. John Brende"
+  ],
+  "curtius-digby-1714-v1": [
+   "bim_eighteenth-century_quintus-curtius-his-hist_curtius-rufus-quintus_1714_1",
+   "Quintus Curtius his History of the Wars of Alexander, with Freinshemius's supplement (London, 1714), vol. 1",
+   "tr. John Digby"
+  ],
+  "curtius-digby-1714-v2": [
+   "bim_eighteenth-century_quintus-curtius-his-hist_curtius-rufus-quintus_1714_2",
+   "Wars of Alexander, vol. 2 of Quintus Curtius his History of the Wars of Alexander (London, 1714)",
+   "tr. John Digby"
+  ]
+ }
+}
