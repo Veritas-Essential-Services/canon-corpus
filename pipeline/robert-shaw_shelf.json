@@ -1,0 +1,34 @@
+{
+ "_about": "Robert Shaw (1795-1863), minister at Whitburn: An Exposition of the Confession of Faith of the Westminster Assembly of Divines, with an introductory essay by W. M. Hetherington (second edition, Edinburgh: Johnstone, 1846). Named robert-shaw so other Shaws cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "shaw"
+ ],
+ "_surname": [
+  "shaw"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shaw-exposition-confession-1846": [
+   "expositionofconf00shaw",
+   "An Exposition of the Confession of Faith of the Westminster Assembly of Divines, 2nd edition (Edinburgh, 1846)"
+  ]
+ },
+ "_alternates": {
+  "expositionofconf1850shaw (1850), anexpositioncon00hethgoog (1857)": "Later printings."
+ },
+ "_excluded": {},
+ "_checks": {
+  "shaw-exposition-confession-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
