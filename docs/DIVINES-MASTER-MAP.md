@@ -1260,6 +1260,8 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | History of Herodotus: a new English version, vol. 4 (1861 printing) | George Rawlinson | `herodotus-rawlinson-v4` | have-raw (IA `historyofherod04hero`) |
 | — | — | `herodotus-history` | cross-ref → Adler shelf (pipeline/adler_shelf.json): PG 2707, Macaulay vol. 1 (Books I-IV) only, although that shelf's title reads as the whole History |
 | Herodotus: a New and Literal Version from the Text of Baehr (Harper, 1873) | Henry Cary | `herodotus-cary` | have-raw (IA `herodotusnewlite0000hero`) |
+| The History of Herodotus, translated from the Greek (London, 1737), vol. 1 (John Adams's copy) | Isaac Littlebury | `herodotus-littlebury-1737-v1` | have-raw (IA `historyofherodot01hero`) |
+| The History of Herodotus, translated from the Greek (London, 1737), vol. 2 (John Adams's copy) | Isaac Littlebury | `herodotus-littlebury-1737-v2` | have-raw (IA `historyofherodot02hero`) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
@@ -2018,6 +2020,7 @@ Shelf: `pipeline/theocritus_shelf.json`. Calverley's verse (Gutenberg) and the B
 | Theocritus, translated into English Verse | Charles Stuart Calverley | `theocritus-calverley` | have (PG 11533) |
 | The Idylls of Theocritus, Bion, and Moschus, and the War-Songs of Tyrtaeus (Bohn, 1853) | J. Banks (prose), J. M. Chapman (verse); Tyrtaeus R. Polwhele | `theocritus-bion-moschus-banks` | have-raw (IA `idyllstheocritu00biongoog`) |
 | — | — | `lang theocritus-bion-moschus (PG 4775)` | cross-ref → lane D, pipeline/lang_shelf.json |
+| The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767) | Francis Fawkes | `theocritus-fawkes-1767` | have-raw (IA `idylliumsoftheoc00theo`) |
 
 Pending (wishlist): Edmonds Loeb (1912; Greek facing)
 
@@ -2030,6 +2033,7 @@ Shelf: `pipeline/apollonius_shelf.json`. Seaton, Way (Gutenberg) and Coleridge 1
 | The Argonautica | R. C. Seaton | `apollonius-seaton` | have (PG 13977) |
 | The Tale of the Argonauts | Arthur S. Way | `apollonius-way` | have (PG 64235) |
 | The Argonautica of Apollonius Rhodius (Bell, 1889) | Edward P. Coleridge | `apollonius-coleridge` | have-raw (IA `B-001-014-458`) |
+| The Argonautics of Apollonius Rhodius, in four books (London, 1780) | Francis Fawkes (finished after his death by Henry Meen) | `apollonius-fawkes-1780` | have-raw (IA `argonauticsofapo00apoliala`) |
 
 Excluded: PG 830 (same Seaton text as PG 13977)
 
