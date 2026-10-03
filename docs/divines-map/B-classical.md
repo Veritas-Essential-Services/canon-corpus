@@ -2110,8 +2110,11 @@ Shelf: `pipeline/hermetica_shelf.json`. New shelf 2026-10-03: Chambers's transla
 |---|---|---|---|
 | The Theological and Philosophical Works of Hermes Trismegistus, Christian Neoplatonist, translated from the original Greek, with preface, notes and indices (Edinburgh: T. & T. Clark, 1882) | John David Chambers | `hermetica-chambers-1882` | have-raw (IA `theologicalphilo00hermrich`) |
 | The Divine Pymander of Hermes Mercurius Trismegistus (Everard's translation of 1650; London: George Redway, 1884, with an introduction by Hargrave Jennings) | John Everard | `hermetica-everard-pymander-1884` | have-raw (IA `b2487839x`) |
+| Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. I: Prolegomena (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v1` | have-raw (IA `thricegreatesthe01hermuoft`) |
+| Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. II: Sermons (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v2` | have-raw (IA `thricegreatesthe02hermuoft`) |
+| Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v3` | have-raw (IA `thricegreatesthe03hermuoft`) |
 
-Pending (wishlist): G. R. S. Mead's Thrice-Greatest Hermes (1906, 3 vols.), if a clean scan is found.
+Pending (wishlist): Walter Scott's Hermetica (1924-36) only in part public domain; not taken.
 
 ## Perseus census (overflow)
 

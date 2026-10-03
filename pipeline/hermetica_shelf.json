@@ -1,5 +1,5 @@
 {
- "_about": "The Hermetic writings in English: John David Chambers's Theological and Philosophical Works of Hermes Trismegistus, translated from the Greek (T. & T. Clark, 1882), and John Everard's Divine Pymander (1650), in George Redway's 1884 reprint with Hargrave Jennings's introduction. Raw IA OCR. Not minted.",
+ "_about": "The Hermetic writings in English: John David Chambers's Theological and Philosophical Works of Hermes Trismegistus, translated from the Greek (T. & T. Clark, 1882), and John Everard's Divine Pymander (1650), in George Redway's 1884 reprint with Hargrave Jennings's introduction. Raw IA OCR. Not minted. Also G. R. S. Mead's Thrice-Greatest Hermes (Theosophical Publishing Society, 1906), all three volumes: his translation with prolegomena and commentary.",
  "_name_words": [
   "hermes",
   "trismegistus",
@@ -17,6 +17,21 @@
    "b2487839x",
    "The Divine Pymander of Hermes Mercurius Trismegistus (Everard's translation of 1650; London: George Redway, 1884, with an introduction by Hargrave Jennings)",
    "tr. John Everard"
+  ],
+  "hermetica-mead-1906-v1": [
+   "thricegreatesthe01hermuoft",
+   "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. I: Prolegomena (London and Benares: Theosophical Publishing Society, 1906)",
+   "tr. G. R. S. Mead"
+  ],
+  "hermetica-mead-1906-v2": [
+   "thricegreatesthe02hermuoft",
+   "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. II: Sermons (London and Benares: Theosophical Publishing Society, 1906)",
+   "tr. G. R. S. Mead"
+  ],
+  "hermetica-mead-1906-v3": [
+   "thricegreatesthe03hermuoft",
+   "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906)",
+   "tr. G. R. S. Mead"
   ]
  },
  "_surname": [
@@ -25,7 +40,10 @@
  ],
  "_translators": {
   "hermetica-chambers-1882": "John David Chambers",
-  "hermetica-everard-pymander-1884": "Dr. Everard"
+  "hermetica-everard-pymander-1884": "Dr. Everard",
+  "hermetica-mead-1906-v1": "G. R. S. Mead",
+  "hermetica-mead-1906-v2": "G. R. S. Mead",
+  "hermetica-mead-1906-v3": "G. R. S. Mead"
  },
  "_checks": {
   "hermetica-chambers-1882": {
@@ -52,6 +70,45 @@
    "ia_rights": "ok: published 1884",
    "ia_date": "1884",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hermetica-mead-1906-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hermes",
+   "translator_claimed": "G. R. S. Mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hermetica-mead-1906-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hermes",
+   "translator_claimed": "G. R. S. Mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hermetica-mead-1906-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hermes",
+   "translator_claimed": "G. R. S. Mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
