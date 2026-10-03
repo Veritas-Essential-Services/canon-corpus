@@ -1,0 +1,119 @@
+{
+ "_about": "Henry Rowe Schoolcraft's (1793-1864) records of Ojibwe and other Great Lakes oral legends, the source Longfellow drew on for Hiawatha. These are a collector's versions, with his own framing, and the texts say so. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Henry Rowe Schoolcraft",
+ "_name_words": [
+  "schoolcraft"
+ ],
+ "_surname": [
+  "schoolcraft"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "schoolcraft-myth-of-hiawatha": [
+   21620,
+   "The Myth of Hiawatha, and Other Oral Legends",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?!(?:(?:FROM THE|AN|A) [A-Z ]*(?:LEGEND|TALE|ODJIBWA|OTTOWA|CHIPPEWAS|ALGONQUIN|DACOTAH|WYANDOT|SHAWNEE|MENOMONIE|POTTAWATTAMIE|MIAMI|ALLEGORY|ODJIBWAS|MYTH OF FAIRIES|FABLE)|ODJIBWA|CHIPPEWA|SHAWNEE|OTTOWA|ALGONQUIN LEGEND)[.,]?$|FOOTNOTES?:?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,}$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "(?:(?:FROM THE|AN|A) [A-Z ]*(?:LEGEND|TALE|ODJIBWA|OTTOWA|CHIPPEWAS|ALGONQUIN|DACOTAH|WYANDOT|SHAWNEE|MENOMONIE|POTTAWATTAMIE|MIAMI|ALLEGORY|ODJIBWAS|MYTH OF FAIRIES|FABLE)|ODJIBWA|CHIPPEWA|SHAWNEE|OTTOWA|ALGONQUIN LEGEND)[.,]?$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "FOOTNOTES?:?$",
+      "strip": ":$"
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ],
+  "schoolcraft-algic-researches-1": [
+   35152,
+   "Algic Researches, vol. 1",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?!(?:(?:FROM THE|AN|A) [A-Z ]*(?:LEGEND|TALE|ODJIBWA|OTTOWA|CHIPPEWAS|ALGONQUIN|DACOTAH|WYANDOT|SHAWNEE|MENOMONIE|POTTAWATTAMIE|MIAMI|ALLEGORY|ODJIBWAS|MYTH OF FAIRIES|FABLE)|ODJIBWA|CHIPPEWA|SHAWNEE|OTTOWA|ALGONQUIN LEGEND)[.,]?$|FOOTNOTES?:?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,}$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "(?:(?:FROM THE|AN|A) [A-Z ]*(?:LEGEND|TALE|ODJIBWA|OTTOWA|CHIPPEWAS|ALGONQUIN|DACOTAH|WYANDOT|SHAWNEE|MENOMONIE|POTTAWATTAMIE|MIAMI|ALLEGORY|ODJIBWAS|MYTH OF FAIRIES|FABLE)|ODJIBWA|CHIPPEWA|SHAWNEE|OTTOWA|ALGONQUIN LEGEND)[.,]?$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "FOOTNOTES?:?$",
+      "strip": ":$"
+     }
+    ]
+   }
+  ],
+  "schoolcraft-algic-researches-2": [
+   35175,
+   "Algic Researches, vol. 2",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?!(?:(?:FROM THE|AN|A) [A-Z ]*(?:LEGEND|TALE|ODJIBWA|OTTOWA|CHIPPEWAS|ALGONQUIN|DACOTAH|WYANDOT|SHAWNEE|MENOMONIE|POTTAWATTAMIE|MIAMI|ALLEGORY|ODJIBWAS|MYTH OF FAIRIES|FABLE)|ODJIBWA|CHIPPEWA|SHAWNEE|OTTOWA|ALGONQUIN LEGEND)[.,]?$|FOOTNOTES?:?$)[A-ZÀ-Þ0-9][A-ZÀ-Þ0-9' ,.!?;:\\\"’‘—()&ʿʾ\\[\\]-]{2,}$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "(?:(?:FROM THE|AN|A) [A-Z ]*(?:LEGEND|TALE|ODJIBWA|OTTOWA|CHIPPEWAS|ALGONQUIN|DACOTAH|WYANDOT|SHAWNEE|MENOMONIE|POTTAWATTAMIE|MIAMI|ALLEGORY|ODJIBWAS|MYTH OF FAIRIES|FABLE)|ODJIBWA|CHIPPEWA|SHAWNEE|OTTOWA|ALGONQUIN LEGEND)[.,]?$",
+      "strip": "[.,;:]?(?:\\[\\d+\\])?[.,;:]?$"
+     },
+     {
+      "re": "FOOTNOTES?:?$",
+      "strip": ":$"
+     }
+    ]
+   }
+  ],
+  "schoolcraft-indian-fairy-book": [
+   48469,
+   "The Indian Fairy Book, from the Original Legends (Stokes, 1916; a reprint of the 1856 collection)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "schoolcraft-myth-of-hiawatha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schoolcraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schoolcraft-algic-researches-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schoolcraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schoolcraft-algic-researches-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schoolcraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schoolcraft-indian-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schoolcraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

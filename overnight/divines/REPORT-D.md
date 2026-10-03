@@ -426,3 +426,6 @@
 
 ## 2026-10-02 20:49 CDT — leland: done
 - 4/4 fetched (Gutenberg 6803, 32786, 62335, 78673), 5,603 units, 4 ~2 ids.
+
+## 2026-10-02 20:49 CDT — schoolcraft: done
+- 4/4 fetched (Gutenberg 21620, 35152, 35175, 48469), 3,584 units, 2 ~2 ids.

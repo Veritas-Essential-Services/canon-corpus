@@ -1761,6 +1761,17 @@ Shelf: `pipeline/leland_shelf.json` (2026-10-02; added at the coordinator's rela
 | The Unpublished Legends of Virgil | have | PG 62335, `leland-unpublished-legends-of-virgil` (1682 units) |
 | Kulóskap the Master, and Other Algonkin Poems, tr. Charles Godfrey Leland and John Dyneley Prince (1902) | have | PG 78673, `leland-kuloskap-the-master` (991 units) |
 
+## Henry Rowe Schoolcraft
+
+Shelf: `pipeline/schoolcraft_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His records of Ojibwe and other Great Lakes oral legends, the source Longfellow drew on; a collector's versions, framed by him. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Myth of Hiawatha, and Other Oral Legends | have | PG 21620, `schoolcraft-myth-of-hiawatha` (968 units) |
+| Algic Researches, vol. 1 | have | PG 35152, `schoolcraft-algic-researches-1` (465 units) |
+| Algic Researches, vol. 2 | have | PG 35175, `schoolcraft-algic-researches-2` (435 units) |
+| The Indian Fairy Book, from the Original Legends (Stokes, 1916; a reprint of the 1856 collection) | have | PG 48469, `schoolcraft-indian-fairy-book` (1716 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
