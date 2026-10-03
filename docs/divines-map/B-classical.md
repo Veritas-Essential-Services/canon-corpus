@@ -178,6 +178,7 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | The Art of Love | translators not named (1855) | `ovid-perseus-1855-art-of-love` | have (Perseus TEI `phi0959.phi004.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Remedy of Love | translators not named (1855) | `ovid-perseus-1855-remedy-of-love` | have (Perseus TEI `phi0959.phi005.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Epistles (Heroides) | translators not named (1813) | `ovid-perseus-1813-epistles` | have (Perseus TEI `phi0959.phi002.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing) | J. H. Mozley | `ovid-mozley-art-of-love-1929` | have-raw (IA `ovidartofloveoth0000unse`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -1650,6 +1651,7 @@ Shelf: `pipeline/roman-epitomators_shelf.json`. Watson's Bohn volumes 1852-53 (I
 | Sallust, Florus, and Velleius Paterculus (Bohn, 1852) | John Selby Watson | `sallust-florus-velleius-watson` | have-raw (IA `sallustflorusve00sall`) |
 | Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929) | E. S. Forster (Florus), J. C. Rolfe (Nepos) | `florus-forster-nepos-rolfe` | have-raw (IA `luciusannaeusflo0000unse`) |
 | The History of Justin, taken out of the Four and Forty Books of Trogus Pompeius, 5th ed. (London, 1688) | Robert Codrington | `justin-codrington-1688` | have-raw (IA `historyjustinta00codrgoog`) |
+| Velleius Paterculus, Compendium of Roman History; Res Gestae Divi Augusti (Loeb, first printed 1924; this scan a 1961 reprint; Latin facing) | Frederick W. Shipley | `velleius-shipley-res-gestae` | have-raw (IA `compendiumofroma00velluoft`) |
 
 ## Justinian
 

@@ -272,3 +272,7 @@
 ## 2026-10-03 00:58 CDT — Held volumes: one replaced
 - quintilian-butler-v1-1921: Butler's Quintilian vol. 1 from a DLI scan (OCR 0.91) whose imprint reads only 'First printed 1921', with no addendum and no year after 1930. It replaces the held quintilian-butler-v1, which carried the 1980 Bibliographical Addendum. Listed in DIGEST-B as a decision (later impression).
 - Re-searched the other held volumes for clean printings: Rolfe's Suetonius vol. 1 (only the 1951 revision, in a 1970 printing), Miller's Metamorphoses vol. 1 (1971 printing), Williams's Letters to Friends vol. 3 (a 1972 printing with a 1971 note), Wright's Julian (Greek facing). None taken.
+
+## 2026-10-03 01:00 CDT — Ovid and Velleius Loebs
+- Mozley's Loeb Art of Love and Other Poems (Ars Amatoria, Remedia, Medicamina, Nux, Ibis, Halieuticon, Consolatio ad Liviam): MCMXXIX first printing, OCR 0.87.
+- Shipley's Loeb Velleius Paterculus and Res Gestae Divi Augusti (1924): a 1961 plain reprint ('Reprinted 1955, 1961'), no later matter; on roman-epitomators with its own author check. Listed in DIGEST-B as a decision.
