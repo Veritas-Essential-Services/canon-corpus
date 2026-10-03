@@ -1,0 +1,48 @@
+{
+ "_about": "Icelandic Fairy Tales, translated and edited by Mrs. A. W. Hall (London: Frederick Warne, 1897). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mrs. A. W. Hall, tr.",
+ "_name_words": [
+  "hall"
+ ],
+ "_surname": [
+  "hall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "angus-hall-icelandic-fairy-tales": [
+   67085,
+   "Icelandic Fairy Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:THE LEGEND OF THE KING’S THREE SONS|HELGA|THORSTEIN|SIGURD|LINEIK AND LAUFEY|THE FIVE BROTHERS|HERMOD AND HADVÖR|INGEBJÖRG|HANS|THE GIANTESS AND THE GRANITE BOAT|GREYBEARD|LITILL, TRITILL, THE BIRDS, AND THE PEASANT LAD|LAUGHING INGIBJÖRG|THE THREE PEASANT MAIDENS|THE FAIR AND THE DARK ISOLDE|PRINCE HLINI|FERTRAM AND HILDUR|NOTES)$"
+     },
+     {
+      "re": "CHAPTER [IVX]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "THE LEGEND OF THE KING’S THREE SONS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "angus-hall-icelandic-fairy-tales": "Hall"
+ },
+ "_checks": {
+  "angus-hall-icelandic-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hall",
+   "translator_claimed": "Hall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
