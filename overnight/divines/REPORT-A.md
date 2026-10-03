@@ -399,3 +399,6 @@
 
 ## 2026-10-03 01:03 CDT — william-paley done
 - `pipeline/william-paley_shelf.json`: 2 CCEL titles (converted) and the one-volume Philadelphia Works, raw IA OCR, 98.1%, about 6 MB (contents as the catalogue title lists them, confirmed by headings in the text; no year on the title page, catalogue 1853). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:05 CDT — robert-south done
+- `pipeline/robert-south_shelf.json`: the Oxford 1823 Sermons, 7 volumes of raw IA OCR, median 98.5% (98.1-98.6%), about 8 MB; title pages read (MDCCCXXIII; the Trinity College copy catalogued without a volume number is vol. VII by its title page). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
