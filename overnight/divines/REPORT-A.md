@@ -289,3 +289,6 @@
 
 ## 2026-10-02 21:00 CDT — william-bridge done
 - `pipeline/william-bridge_shelf.json`: 5 volumes, raw IA OCR, median 98.9% (98.3-99.2%), about 6.3 MB; title pages read (Tegg, 1845, vols I-V). The surname check uses "william bridge", because "bridge" alone is an ordinary word. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. From here a scratchpad `run.sh` does fetch, title-page hints, verify, OCR and pages in one pass.
+
+## 2026-10-02 21:02 CDT — edward-reynolds done
+- `pipeline/edward-reynolds_shelf.json`: 6 volumes, raw IA OCR, median 96.7% (95.6-97.6%), about 7.7 MB; title pages read (1826; Chalmers's memoir). A line in the first draft crediting him with the Prayer Book's General Thanksgiving was cut: it is not in this text. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

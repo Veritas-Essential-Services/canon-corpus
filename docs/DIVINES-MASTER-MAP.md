@@ -1068,6 +1068,15 @@ No CCEL or Gutenberg text. Raw IA OCR from California scans; slugs `wbridge-*`.
 |---|---|---|
 | Works, now first collected, 5 vols (London: Tegg, 1845): A Lifting up for the Downcast, Christ and the Covenant, sermons and treatises | have-raw | IA (identifiers in the shelf) |
 | Toronto scan; his 1654 and 1657 collections | alternate | IA |
+
+## Edward Reynolds (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `ereynolds-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Whole Works, 6 vols (London: Holdsworth, 1826, memoir by Alexander Chalmers): the Passions and Faculties of the Soul, Psalm 110, Hosea 14, sermons | have-raw | IA (identifiers in the shelf) |
+| Explication of Psalm 110 (1837) | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

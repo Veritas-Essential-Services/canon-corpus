@@ -629,10 +629,13 @@
     },
     {
       "id": "edward-reynolds",
-      "status": "todo",
+      "status": "done",
       "scope": "Edward Reynolds: Whole Works (1826, 6 vols; d. 1676)",
       "added": "2026-10-02T20:58:28-05:00",
-      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T21:00:27-05:00",
+      "finished": "2026-10-02T21:02:46-05:00",
+      "notes": "6 IA"
     },
     {
       "id": "william-bates",

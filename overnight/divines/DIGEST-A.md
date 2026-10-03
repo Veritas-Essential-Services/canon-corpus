@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:00 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:02 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -117,6 +117,7 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | William Bridge | william-bridge_shelf.json | 0 (none exists) | 5 (Works, London: Tegg 1845, complete) | none | none |
+| Edward Reynolds | edward-reynolds_shelf.json | 0 (none exists) | 6 (Whole Works, London: Holdsworth 1826, complete, memoir by Alexander Chalmers) | none | Burroughs's Hosea, which he helped complete |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
