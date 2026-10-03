@@ -504,3 +504,6 @@
 
 ## 2026-10-02 21:23 CDT — ouida: done
 - 3/3 fetched (Gutenberg 5834, 75655, 50032), 2,223 units, 0 ~2 ids.
+
+## 2026-10-02 21:23 CDT — stratton-porter: done
+- 11/11 fetched (Gutenberg 111, 125, 286, 349, 532, 533, 9489, 3722, 904, 59823, 35188), 23,021 units, 1 ~2 ids.

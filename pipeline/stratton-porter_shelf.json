@@ -1,0 +1,176 @@
+{
+ "_about": "Gene Stratton-Porter's (1863-1924) Limberlost novels, her other fiction, and The Fire Bird (a story in verse). She died in 1924, and everything here was published by 1923, so all of it is public domain in the US. Moths of the Limberlost (natural history) is left out. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Gene Stratton-Porter",
+ "_name_words": [
+  "porter",
+  "stratton"
+ ],
+ "_surname": [
+  "stratton-porter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stratton-porter-freckles": [
+   111,
+   "Freckles"
+  ],
+  "stratton-porter-girl-of-the-limberlost": [
+   125,
+   "A Girl of the Limberlost"
+  ],
+  "stratton-porter-laddie": [
+   286,
+   "Laddie: A True Blue Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "stratton-porter-harvester": [
+   349,
+   "The Harvester"
+  ],
+  "stratton-porter-at-the-foot-of-the-rainbow": [
+   532,
+   "At the Foot of the Rainbow"
+  ],
+  "stratton-porter-song-of-the-cardinal": [
+   533,
+   "The Song of the Cardinal",
+   {
+    "levels": [
+     {
+      "re": "Chapter \\d+$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "stratton-porter-michael-ohalloran": [
+   9489,
+   "Michael O'Halloran"
+  ],
+  "stratton-porter-daughter-of-the-land": [
+   3722,
+   "A Daughter of the Land"
+  ],
+  "stratton-porter-her-fathers-daughter": [
+   904,
+   "Her Father's Daughter"
+  ],
+  "stratton-porter-white-flag": [
+   59823,
+   "The White Flag"
+  ],
+  "stratton-porter-fire-bird": [
+   35188,
+   "The Fire Bird"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "stratton-porter-second-transcriptions": "PG 26220 (A Girl of the Limberlost), 26465 (The Harvester) and 26582 (Michael O'Halloran) have no plain-text file at Gutenberg (404); the plain-text transcriptions 125, 349 and 9489 are held.",
+  "stratton-porter-moths-of-the-limberlost": "PG 4907, natural history, not story-telling; left out",
+  "stratton-porter-wild-heart": "PG 77766, The Wild Heart (1922), is by Emma-Lindsay Squier; Stratton-Porter only wrote its introduction (title page and Gutenberg header). Not hers; left out."
+ },
+ "_checks": {
+  "stratton-porter-freckles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-girl-of-the-limberlost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-laddie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-harvester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-at-the-foot-of-the-rainbow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-song-of-the-cardinal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-michael-ohalloran": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-daughter-of-the-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-her-fathers-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-white-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stratton-porter-fire-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stratton-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

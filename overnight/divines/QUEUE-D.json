@@ -1097,8 +1097,10 @@
     {
       "id": "stratton-porter",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: stratton-porter; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:23:39-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:23:39-05:00",
+      "finished": "2026-10-02T21:23:56-05:00",
+      "notes": "11/11 fetched (Gutenberg 111, 125, 286, 349, 532, 533, 9489, 3722, 904, 59823, 35188), 23,021 units, 1 ~2 ids."
     }
   ]
 }

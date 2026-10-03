@@ -5524,6 +5524,27 @@ Shelf: `pipeline/ouida_shelf.json` (2026-10-02; added at the coordinator's relay
 | ouida-nurnberg-stove | excluded | PG 20997, The Nürnberg Stove on its own (Lippincott, eighth edition): 87% of it is in PG 50032, held here. Held once. |
 | ouida-findelkind | excluded | PG 1367, Findelkind on its own: Bimbi (PG 5834), held here, prints the same story, and 78% of the long paragraphs match exactly. Held once. |
 
+## Gene Stratton-Porter
+
+Shelf: `pipeline/stratton-porter_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Limberlost novels, her other fiction, and The Fire Bird, a story in verse. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Freckles | have | PG 111, `stratton-porter-freckles` (1742 units) |
+| A Girl of the Limberlost | have | PG 125, `stratton-porter-girl-of-the-limberlost` (3041 units) |
+| Laddie: A True Blue Story | have | PG 286, `stratton-porter-laddie` (2869 units) |
+| The Harvester | have | PG 349, `stratton-porter-harvester` (3222 units) |
+| At the Foot of the Rainbow | have | PG 532, `stratton-porter-at-the-foot-of-the-rainbow` (1139 units) |
+| The Song of the Cardinal | have | PG 533, `stratton-porter-song-of-the-cardinal` (303 units) |
+| Michael O'Halloran | have | PG 9489, `stratton-porter-michael-ohalloran` (3989 units) |
+| A Daughter of the Land | have | PG 3722, `stratton-porter-daughter-of-the-land` (2367 units) |
+| Her Father's Daughter | have | PG 904, `stratton-porter-her-fathers-daughter` (2307 units) |
+| The White Flag | have | PG 59823, `stratton-porter-white-flag` (1798 units) |
+| The Fire Bird | have | PG 35188, `stratton-porter-fire-bird` (244 units) |
+| stratton-porter-second-transcriptions | excluded | PG 26220 (A Girl of the Limberlost), 26465 (The Harvester) and 26582 (Michael O'Halloran) have no plain-text file at Gutenberg (404); the plain-text transcriptions 125, 349 and 9489 are held. |
+| stratton-porter-moths-of-the-limberlost | excluded | PG 4907, natural history, not story-telling; left out |
+| stratton-porter-wild-heart | excluded | PG 77766, The Wild Heart (1922), is by Emma-Lindsay Squier; Stratton-Porter only wrote its introduction (title page and Gutenberg header). Not hers; left out. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
