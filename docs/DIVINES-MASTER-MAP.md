@@ -2808,6 +2808,7 @@ Shelf: `pipeline/frontinus_shelf.json`. Bennett Loeb 1925 (IA, 0.88; Latin facin
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Frontinus: The Stratagems and The Aqueducts of Rome (Loeb, 1925) | Charles E. Bennett | `frontinus-bennett` | have-raw (IA `frontinus0000unse`) |
+| The Two Books on the Water Supply of the City of Rome (Boston, 1899) | Clemens Herschel | `frontinus-herschel-1899` | have-raw (IA `twobooksonwater01frongoog`) |
 
 ## Celsus
 
@@ -3021,6 +3022,51 @@ Shelf: `pipeline/jordanes_shelf.json`. Mierow's English Getica, twice: the clean
 |---|---|---|---|
 | The Origin and Deeds of the Goths (Princeton, 1908) | Charles Christopher Mierow | `jordanes-mierow-getica-1908` | have (PG 14809) |
 | The Gothic History of Jordanes in English Version, with an introduction and a commentary (Princeton, 1915) | Charles Christopher Mierow | `jordanes-mierow-gothic-history-1915` | have-raw (IA `gothichistoryofj00jorduoft`) |
+
+Pending (wishlist): none known
+
+## Sidonius Apollinaris
+
+Shelf: `pipeline/sidonius_shelf.json`. O. M. Dalton's complete Letters (Oxford, 1915, 2 vols.), raw IA; the first English translation of the whole. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Letters of Sidonius, vol. 1 (Oxford, 1915) | O. M. Dalton | `sidonius-dalton-v1` | have-raw (IA `lettersofsidoniu01sido`) |
+| The Letters of Sidonius, vol. 2 (Oxford, 1915) | O. M. Dalton | `sidonius-dalton-v2` | have-raw (IA `lettersofsidoniu02sido`) |
+
+Pending (wishlist): none known
+
+## Isaeus
+
+Shelf: `pipeline/isaeus_shelf.json`. Sir William Jones's Speeches of Isaeus (1779), raw IA. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Speeches of Isaeus in Causes concerning the Law of Succession to Property at Athens (London, 1779) | William Jones | `isaeus-jones-1779` | have-raw (IA `speechesofisaeus00isae`) |
+
+Pending (wishlist): Forster's Loeb (1927; Greek facing)
+
+Excluded: the ECCO copy (IA bim_eighteenth-century_the-speeches-of-isus-in_isaeus_1779): OCR 0.68, a worse scan of the same edition
+
+## Herodas
+
+Shelf: `pipeline/herodas_shelf.json`. Hugo Sharpley's verse Mimes, A Realist of the Aegean (1906), raw IA. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Realist of the Aegean: a verse-translation of the Mimes of Herodas (London, 1906) | Hugo Sharpley | `herodas-sharpley-1906` | have-raw (IA `cu31924026669642`) |
+
+Pending (wishlist): Headlam and Knox (1922; Greek facing)
+
+Excluded: realistofaegeanb00herorich (a second scan of the same 1906 book, slightly worse OCR)
+
+## Rutilius Namatianus
+
+Shelf: `pipeline/rutilius_shelf.json`. Keene's edition with George F. Savage-Armstrong's English verse (London, 1907; Latin facing), raw IA. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus (London, 1907) | George F. Savage-Armstrong | `rutilius-savage-armstrong-1907` | have-raw (IA `cu31924026546386`) |
 
 Pending (wishlist): none known
 

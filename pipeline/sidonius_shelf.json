@@ -1,0 +1,56 @@
+{
+ "_about": "Sidonius Apollinaris (5th c.), the Letters, in English. Lane B (classical and late-antique translations).",
+ "_name_words": [
+  "sidonius",
+  "apollinaris"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sidonius-dalton-v1": [
+   "lettersofsidoniu01sido",
+   "The Letters of Sidonius, vol. 1 (Oxford, 1915)",
+   "tr. O. M. Dalton"
+  ],
+  "sidonius-dalton-v2": [
+   "lettersofsidoniu02sido",
+   "The Letters of Sidonius, vol. 2 (Oxford, 1915)",
+   "tr. O. M. Dalton"
+  ]
+ },
+ "_surname": [
+  "sidonius"
+ ],
+ "_translators": {
+  "sidonius-dalton-v1": "O. M. Dalton",
+  "sidonius-dalton-v2": "O. M. Dalton"
+ },
+ "_checks": {
+  "sidonius-dalton-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidonius",
+   "translator_claimed": "O. M. Dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sidonius-dalton-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sidonius",
+   "translator_claimed": "O. M. Dalton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
