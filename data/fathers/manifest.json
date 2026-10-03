@@ -19,7 +19,7 @@
    "latin": 5896
   },
   "scripture_read": 14166,
-  "scripture_resolved": 13393
+  "scripture_resolved": 13394
  },
  "latin": {
   "key": "Lewis & Short entry key (lewis-short:<key>)",
@@ -61,19 +61,19 @@
    "possessive-agrees+prep-object": 1
   },
   "scripture_read": 51487,
-  "scripture_resolved": 47503
+  "scripture_resolved": 47502
  },
  "scripture": {
   "rules": "fathers_scripture.py: note/<map> from a footnote, refs/<map> from a printed bracketed reference; map = the edition's measured OT numbering (fathers_numbering.py, data/fathers/numbering.json): vulgate, brenton (the Septuagint's), bhs (the Hebrew's) or kjv (the English), and nt; +content where an edition that mixes numberings was read by the father's own words; +ocr-twin where Job/John was read as its twin",
   "file": "build/fathers/scripture-links.jsonl (gitignored; rebuilt)",
   "rows": 13261,
-  "numbering_sha256": "c1e6ab0e291d10b6a5d4d4251aa4ee883c6f6e685f8f6072d506e9e2c07e9275",
-  "sha256": "dcf69101e9dd86d5b08928bea5ff0be7c5e482f75dd9cf742fab3cf101d92938"
+  "numbering_sha256": "8c4edc4d331973560eced39e8c5627e0eb943694e7f9e866504743ffb0989520",
+  "sha256": "2180daa2e3b46e5587ca895154e483cddf30a45cd1e43febc93b5c78676573d5"
  },
  "not_claimed": [
   "A Greek word's number is the NT's reading of the same written form; the fathers' own senses are not read.",
   "A Latin key is settled only by WORDS's readings and the context rules; what they leave open stays null.",
-  "The OT numbering is measured per editor and class of book (Psalms, Jeremiah, the rest), from the notes themselves (fathers_numbering.py); only in a Greek edition that mixes numberings is a note's quotation read on its own, by the father's words, and only where the numberings differ by chapter, where that vote is right 89% of the time. Where the other numbering names another verse it is kept as alt_target.",
+  "The OT numbering is measured per editor and class of book (Psalms, Jeremiah, the rest), from the notes themselves (fathers_numbering.py); only in a Greek edition that mixes numberings is a note's quotation read on its own, by the father's words, and only where the numberings differ by chapter, where that vote is right 89% of the time. Where another numbering names another verse it is kept as alt_target. Where an edition's own notes do not tell two numberings apart, the class is not called: the link reads as the pool leans and says numbering_undecided.",
   "The texts are OCR (CSEL, many First1KGreek files): a misread word is tagged as read."
  ],
  "books": {
@@ -98,6 +98,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "99c3a13de11dee66d0e9016e54199e87473fb3e011e7e305fda3548bf7572c4e"
@@ -123,6 +124,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "aed7a38dc1d56fd3b1eedfd81a60fd0e075d8864c9a6f1e69f82af908c058d0a"
@@ -149,6 +151,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "86d1d800693087a9a75fed3766fe533afac1df76f3c472c554ef8d8b6ee8bc57"
@@ -191,6 +194,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 13
     }
@@ -236,11 +240,12 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 3
     },
     "alt_target": 33,
+    "numbering_undecided": 2,
     "ot_by_numbering": {
      "vulgate": 81
     }
    },
-   "tags_sha256": "4e0b265782b11eba9b5fa3a179c15b33dfe6a0ba0f5ead05bf9212bbc10cc9fb"
+   "tags_sha256": "f2a0428a355da2caf27d0627d8e6d93667c3e0b5b631b9797798aed8d34c16e2"
   },
   "ambrose-apologia-david-lat": {
    "key": "lewis-short",
@@ -282,6 +287,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 4
     },
     "alt_target": 55,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 109
     }
@@ -326,6 +332,7 @@
      "cites a whole chapter, not a verse": 9
     },
     "alt_target": 15,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 82
     }
@@ -371,6 +378,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 2
     },
     "alt_target": 18,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 138
     }
@@ -416,11 +424,12 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 17,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "vulgate": 99
     }
    },
-   "tags_sha256": "1bdd338ddf0c9ea8b71aeed211d0f88c10f09871a1d3dda30f40a5c8b806ad12"
+   "tags_sha256": "193dfca8f919fad551a992b90e10e69a22fe167d815a8ee16cbc0f96c2ec32bb"
   },
   "ambrose-de-helia-lat": {
    "key": "lewis-short",
@@ -463,6 +472,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 15,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 95
     }
@@ -512,6 +522,7 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 26,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 148
     }
@@ -561,6 +572,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 111,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 296
     }
@@ -608,6 +620,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 2
     },
     "alt_target": 15,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 166
     }
@@ -651,6 +664,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 29,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 59
     }
@@ -696,6 +710,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 2
     },
     "alt_target": 11,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 136
     }
@@ -744,6 +759,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 12,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 97
     }
@@ -790,11 +806,12 @@
      "cites a whole chapter, not a verse": 11
     },
     "alt_target": 16,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "vulgate": 59
     }
    },
-   "tags_sha256": "009a7606e8ec24d8775d55c74117db54bb4cb40f1b3dd6a5919ebdfb7a8cdadd"
+   "tags_sha256": "b44b105f5f20fb3ab9f25f6f927302b527f2ebe7ab17058a26d2edcd0b4e895d"
   },
   "ambrose-exameron-lat": {
    "key": "lewis-short",
@@ -843,6 +860,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 3
     },
     "alt_target": 57,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 250
     }
@@ -899,12 +917,13 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 577,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 1379
     }
    },
-   "tags_sha256": "99f04ce623118374a9387114ec404bfafe32fd056c9b0041621c38743cca3da2"
+   "tags_sha256": "a4c285171b6898c656b922c9d95bcfbaa17d3955d055b8b391019a711d37128c"
   },
   "ambrose-expositio-lucam-lat": {
    "key": "lewis-short",
@@ -954,11 +973,12 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 204,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "vulgate": 710
     }
    },
-   "tags_sha256": "eb8fcae9ceeb46c5b685e7db412b55d54d97bf7220e27d74196e535bbd5c52d5"
+   "tags_sha256": "f7a5fe8625010a33c6eb401877df4ebad586a65d053786afd84a68dea248f76c"
   },
   "ambrose-expositio-psalmi-118-lat": {
    "key": "lewis-short",
@@ -1014,12 +1034,13 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 4
     },
     "alt_target": 405,
+    "numbering_undecided": 3,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 1574
     }
    },
-   "tags_sha256": "3ed3872e9da20f7437f46ca06a0d1e54e86c6d96aaef5da22507be709035ca8d"
+   "tags_sha256": "c0b28803a666c31c205ce156721c0348e1ed8009afeae5998a8060d7d0379dde"
   },
   "arnobius-adversus-nationes-lat": {
    "key": "lewis-short",
@@ -1062,6 +1083,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "b71b52c5344eb150b798725fe316764004eb29ae42a7bb16bc43bbf83be09f14"
@@ -1096,6 +1118,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 49,
      "lxx": 1
@@ -1133,12 +1156,13 @@
      "no such verse in the KJV (an OCR digit?)": 5
     },
     "alt_target": 4,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 102,
      "lxx": 3
     }
    },
-   "tags_sha256": "60c6b866ad1cc6f474ecd37d742dd1a8bf8614d75a59bd9d8537f3acaa39aec8"
+   "tags_sha256": "a1e2bfa6b5b70a61136327f0dc3861c6b3dfbd0f217ba5cae146a8a8800c1628"
   },
   "athanasius-contra-arianos-3-grc": {
    "key": "strongs",
@@ -1169,6 +1193,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 6,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 59
     }
@@ -1203,6 +1228,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 19,
      "lxx": 4
@@ -1231,6 +1257,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "5fbdfb61e92f6427fde323fc4975b20b4ab99437e50215fa34fb95abbd06bb44"
@@ -1256,6 +1283,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "5ad8e065ec47df2d15ef80e22d02a05b325ed534b05cfcecb2b7752905481255"
@@ -1281,6 +1309,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "34ddd4ac3dd27c1c7b0e84a38ead7d26dd8a2559b5a53cd8b0cc735c93ebf3b2"
@@ -1306,6 +1335,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "70f7431b7103366e50d0192091a0632e0b9323a4cf3b2d08cd2f3c584d26400b"
@@ -1356,6 +1386,7 @@
      "no such verse in the KJV (an OCR digit?)": 8
     },
     "alt_target": 32,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 92
     }
@@ -1412,6 +1443,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 3
     },
     "alt_target": 265,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 23,
      "hebrew": 3,
@@ -1459,6 +1491,7 @@
      "cites a whole chapter, not a verse": 1
     },
     "alt_target": 2,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 5
     }
@@ -1505,6 +1538,7 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 8,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 60
     }
@@ -1557,6 +1591,7 @@
      "no such verse in the KJV (an OCR digit?)": 7
     },
     "alt_target": 31,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 92
     }
@@ -1607,6 +1642,7 @@
      "the Greek additions to Esther, gathered at the end by Jerome; the KJV prints them as Apocrypha (the Rest of Esther)": 2
     },
     "alt_target": 30,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 95
     }
@@ -1654,11 +1690,12 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 30,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "vulgate": 109
     }
    },
-   "tags_sha256": "7b340d75cb59a399d3aa69f0ed3fa52c3633c7c80e20c0eace7b9a1eac8d450b"
+   "tags_sha256": "2cde245e3659fdfbd4e8af1d15e00d1906d21a7616ed2748c09cf268d088d721"
   },
   "augustine-contra-faustum-lat": {
    "key": "lewis-short",
@@ -1706,11 +1743,12 @@
      "no such verse in the KJV (an OCR digit?)": 17
     },
     "alt_target": 38,
+    "numbering_undecided": 6,
     "ot_by_numbering": {
      "vulgate": 347
     }
    },
-   "tags_sha256": "3fd3f6b9564271d4d18d0bf199643bafce58a3f2d9195fac8dcce8a07b260b15"
+   "tags_sha256": "76ad4f3c0467a6497e6e9ff0f745711a2317a34d398c2aedc4c98b20f280ce0c"
   },
   "augustine-contra-gaudentium-lat": {
    "key": "lewis-short",
@@ -1756,6 +1794,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 10,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 36
     }
@@ -1812,6 +1851,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 54,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 140
@@ -1857,6 +1897,7 @@
      "cites a whole chapter, not a verse": 2
     },
     "alt_target": 12,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 33
@@ -1902,6 +1943,7 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 7
     }
@@ -1944,6 +1986,7 @@
      "cites a whole chapter, not a verse": 1
     },
     "alt_target": 5,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 13
     }
@@ -1982,6 +2025,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "d21d47649ee5727ad17700eca28cfb7e5e40c4cf076009fd3f78795d1f41f870"
@@ -2023,6 +2067,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 14
     }
@@ -2079,6 +2124,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 132,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 3,
      "vulgate": 455
@@ -2126,11 +2172,12 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "vulgate": 8
     }
    },
-   "tags_sha256": "ddb7033b8cd238b56968038084d7a363164f26837335175251b78fc459c3e182"
+   "tags_sha256": "4da6ac646385d0156fa4eee5e478fd11b9185af2e83bb4d4da50894f07e46155"
   },
   "augustine-de-consensu-evangelistarum-lat": {
    "key": "lewis-short",
@@ -2179,6 +2226,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 2
     },
     "alt_target": 30,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 162
     }
@@ -2218,6 +2266,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "f3f84d211ec2f141a53e1fcda29b95c12c1e1ef55679e4ca3ce56c010280200a"
@@ -2262,6 +2311,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 8
     }
@@ -2305,6 +2355,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 9
     }
@@ -2349,6 +2400,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 1
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 52
     }
@@ -2394,6 +2446,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 2
     },
     "alt_target": 9,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 21
     }
@@ -2438,6 +2491,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 10
     }
@@ -2483,6 +2537,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 6,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 20
     }
@@ -2526,6 +2581,7 @@
      "no such verse in the KJV (an OCR digit?)": 4
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 11
     }
@@ -2572,6 +2628,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 4
     },
     "alt_target": 23,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 44
     }
@@ -2623,6 +2680,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 17,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 66
     }
@@ -2666,11 +2724,12 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 9,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "vulgate": 23
     }
    },
-   "tags_sha256": "54b2d50f057cf9d9b0eb19e7149fae24c6fc50ac9184810893112513645736b6"
+   "tags_sha256": "be21861414a771d7c75c1ed94947b2967a6b66be5ae5d1fe4378c3aa54c9ed2e"
   },
   "augustine-de-ordine-lat": {
    "key": "lewis-short",
@@ -2710,6 +2769,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 3
     }
@@ -2760,6 +2820,7 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 43,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 124
     }
@@ -2806,6 +2867,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 16,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 34
     }
@@ -2856,6 +2918,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 26,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 77
@@ -2897,6 +2960,7 @@
      "cites a whole chapter, not a verse": 2
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 3
     }
@@ -2939,6 +3003,7 @@
      "cites a whole chapter, not a verse": 2
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "284a3016394a068f1966ead2834638a3e3d2472dee011f5e7df05e4049428c33"
@@ -3001,12 +3066,13 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 5
     },
     "alt_target": 374,
+    "numbering_undecided": 4,
     "ot_by_numbering": {
      "english": 2,
      "vulgate": 1136
     }
    },
-   "tags_sha256": "ef33bc150399950fbec479117ee814df0f85be471b5c3c879237a63abc3133b1"
+   "tags_sha256": "ab1b5a58ddddbef5256db49cf8c9727adf13e2c43a9d512d0f76cec85c84edb0"
   },
   "augustine-quaestiones-in-heptateuchum-lat": {
    "key": "lewis-short",
@@ -3056,12 +3122,13 @@
      "no such verse in the KJV (an OCR digit?)": 4
     },
     "alt_target": 141,
+    "numbering_undecided": 24,
     "ot_by_numbering": {
      "english": 2,
      "vulgate": 1566
     }
    },
-   "tags_sha256": "24f5eb10fc420d966b01102ba7f1f1e533d8e22ce08d2f3903806181e06a9b2c"
+   "tags_sha256": "5fb5bd88a9e191b14cd8bfbe003fda798992d218048c33dab6468030310a22e6"
   },
   "augustine-retractationes-lat": {
    "key": "lewis-short",
@@ -3105,6 +3172,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 2
     },
     "alt_target": 13,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 97
     }
@@ -3161,12 +3229,13 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 63,
+    "numbering_undecided": 3,
     "ot_by_numbering": {
      "english": 2,
      "vulgate": 296
     }
    },
-   "tags_sha256": "37817977feccb4d9d8af63f0c4fdfe60ecd064612b2172e848ed7dfa951b5aba"
+   "tags_sha256": "63cbb2e80219508263c083aeecd63ca6d09d7f982bee3fc699ee55b14a3877f9"
   },
   "catena-1corinthians-cramer-grc": {
    "key": "strongs",
@@ -3190,6 +3259,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 121
    },
@@ -3217,6 +3287,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 51
    },
@@ -3244,6 +3315,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 64
    },
@@ -3271,6 +3343,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 43
    },
@@ -3298,6 +3371,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 65
    },
@@ -3325,6 +3399,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 233
    },
@@ -3351,6 +3426,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 4
    },
@@ -3378,6 +3454,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 33
    },
@@ -3405,6 +3482,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 27
    },
@@ -3432,6 +3510,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 66
    },
@@ -3459,6 +3538,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 5
    },
@@ -3486,6 +3566,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 635
    },
@@ -3513,6 +3594,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 66
    },
@@ -3540,6 +3622,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 77
    },
@@ -3567,6 +3650,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 111
    },
@@ -3594,6 +3678,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 142
    },
@@ -3621,6 +3706,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 57
    },
@@ -3648,6 +3734,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 248
    },
@@ -3675,6 +3762,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 25
    },
@@ -3702,6 +3790,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 196
    },
@@ -3729,6 +3818,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 183
    },
@@ -3756,6 +3846,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 238
    },
@@ -3782,6 +3873,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 22
    },
@@ -3809,6 +3901,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 55
    },
@@ -3836,6 +3929,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 94
    },
@@ -3863,6 +3957,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 1522
    },
@@ -3889,6 +3984,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {},
     "placed_on_verse": 24
    },
@@ -3915,6 +4011,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "0d3aa0d23336a8a8c266c76da9c75fe8b0e22308074634fe03bb5ee86e87e517"
@@ -3940,6 +4037,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "7abb831dd52e8b6beae0a8bfc8a06fea03eb3b976607f5392bebf4c76ddd26f1"
@@ -3966,6 +4064,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "764908ba240b76ea5bdf622522828b15138f9a7d5d25e216ac6826c176bd4d57"
@@ -3991,6 +4090,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "1194a81a181b9cc7d8c089f6f99847abb97be2470e54effa330a4edf61d2dbff"
@@ -4016,6 +4116,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "ca279e78d421af987b78013970a6982c4168e0227731099e486c111cc37e6dd1"
@@ -4054,6 +4155,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 2
     },
     "alt_target": 285,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 892,
      "lxx": 484
@@ -4099,6 +4201,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 2
     },
     "alt_target": 2,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 61
     }
@@ -4129,6 +4232,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "e7558393c11440741d3d0850732facb4875b3e8496ffc74cdc36720aee91a3cf"
@@ -4168,6 +4272,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 11
     },
     "alt_target": 38,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 10,
      "lxx": 249
@@ -4212,6 +4317,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 2,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 2,
      "vulgate": 20
@@ -4261,12 +4367,13 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 2
     },
     "alt_target": 99,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 3,
      "vulgate": 249
     }
    },
-   "tags_sha256": "66521f918c36baf9b53e07b92fc410f0259802955207818d3bc9c708ce98a0d4"
+   "tags_sha256": "a6f35fa611418c51a195b711c918148a002f2a4d70162bd3296910ab4b422395"
   },
   "eucherius-instructiones-lat": {
    "key": "lewis-short",
@@ -4311,6 +4418,7 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 34,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 124
     }
@@ -4347,6 +4455,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "580a64f0a1ad17a3311f6175bf12497533bb2e10eaee2074d24e79118e618236"
@@ -4402,6 +4511,7 @@
      "no such verse in the KJV (an OCR digit?)": 37
     },
     "alt_target": 164,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 3,
      "vulgate": 678
@@ -4450,6 +4560,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 2,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 6
     }
@@ -4478,6 +4589,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "bae1e74dd873d312f016c630b61c2a3adf0211abad599285932e280e16c26991"
@@ -4519,6 +4631,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 9
     },
     "alt_target": 104,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 438,
      "hebrew": 1,
@@ -4549,6 +4662,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "b96ecbc75aa46567429a7210c7aab61f00dfac43d71e92a8e7f03e9e280bc9e6"
@@ -4584,6 +4698,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 34,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 36,
      "lxx": 34
@@ -4611,18 +4726,17 @@
     "read": 31,
     "resolved": 31,
     "resolved_by_rule": {
-     "note/bhs": 2,
-     "note/kjv": 9,
+     "note/kjv": 11,
      "note/nt": 20
     },
     "unresolved_by_why": {},
     "alt_target": 3,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
-     "english": 9,
-     "hebrew": 2
+     "english": 11
     }
    },
-   "tags_sha256": "110cd2b2c22f67d5d5af3953e879d752b0f25d0cf93dc4c0985ac71ca2f7afb0"
+   "tags_sha256": "bffa54dc02df61f999923fbae431959c3cdd65f7147bb36f6dc60f2f623e2967"
   },
   "eusebius-martyrs-palestine-grc": {
    "key": "strongs",
@@ -4647,6 +4761,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "5911e98dfdad237d7b819917566ff97ec39e9f949e853fd850d027e4557cdfda"
@@ -4678,6 +4793,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 7
     }
@@ -4706,6 +4822,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "a698da251cee651b2e1d692e622bc461525e39f3420b957bad8d966fe8d4b91c"
@@ -4730,8 +4847,7 @@
     "read": 39,
     "resolved": 33,
     "resolved_by_rule": {
-     "note/bhs": 2,
-     "note/kjv": 15,
+     "note/kjv": 17,
      "note/nt": 16
     },
     "unresolved_by_why": {
@@ -4739,12 +4855,12 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
-     "english": 15,
-     "hebrew": 2
+     "english": 17
     }
    },
-   "tags_sha256": "b243486cd6cc9875b93054ad8112f42a7b63e16d806995223114a19a7e933062"
+   "tags_sha256": "079ccfa86f01c9692c6bdd03cd9762cca58a60974889e7e4f1ffef1bf048ed9d"
   },
   "evagrius-historia-ecclesiastica-grc": {
    "key": "strongs",
@@ -4774,12 +4890,13 @@
      "no such verse in the KJV (an OCR digit?)": 10
     },
     "alt_target": 3,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 6,
      "lxx": 3
     }
    },
-   "tags_sha256": "9019fbc9670f6f89a6ae62bf2043fe48dfcad2cf2cd871caf1a5a92946618c34"
+   "tags_sha256": "8cb3517e80fb6d003f2020e2e52a297f15acc31287c0d81de808e79e1c2d5974"
   },
   "gelasius-historia-ecclesiastica-grc": {
    "key": "strongs",
@@ -4813,6 +4930,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 21,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 5,
      "lxx": 97
@@ -4849,12 +4967,13 @@
      "cites a whole chapter, not a verse": 6
     },
     "alt_target": 2,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 19,
      "lxx": 3
     }
    },
-   "tags_sha256": "55b0f460345af9daf856f5c04bc6e550f427eaadb02ac1fe132ebe254deffbec"
+   "tags_sha256": "e656716006b20fb95b07bb6ba755b9f6991aa6c684a870084ad2ccdee5cf33a7"
   },
   "gregory-nazianzen-oration-28-grc": {
    "key": "strongs",
@@ -4885,6 +5004,7 @@
      "cites a whole chapter, not a verse": 11
     },
     "alt_target": 8,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 72,
      "lxx": 6
@@ -4921,6 +5041,7 @@
      "cites a whole chapter, not a verse": 9
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 14,
      "lxx": 5
@@ -4957,6 +5078,7 @@
      "cites a whole chapter, not a verse": 6
     },
     "alt_target": 4,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 25,
      "lxx": 6
@@ -4994,6 +5116,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 7,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 19,
      "lxx": 6
@@ -5021,23 +5144,24 @@
     "read": 511,
     "resolved": 493,
     "resolved_by_rule": {
-     "note/brenton": 221,
-     "note/brenton+ocr-twin": 1,
-     "note/kjv": 2,
+     "note/brenton": 33,
+     "note/kjv": 190,
+     "note/kjv+ocr-twin": 1,
      "note/nt": 261,
      "note/nt+ocr-twin": 8
     },
     "unresolved_by_why": {
      "cites a whole chapter, not a verse": 16,
-     "no such verse in any numbering (lxx, english, hebrew)": 2
+     "no such verse in any numbering (english, lxx, hebrew)": 2
     },
     "alt_target": 22,
+    "numbering_undecided": 2,
     "ot_by_numbering": {
-     "english": 2,
-     "lxx": 222
+     "english": 191,
+     "lxx": 33
     }
    },
-   "tags_sha256": "28b9b7f8a8609467feb70fd921ea9f51e0864dc6c34d5db16fd273d1dd236514"
+   "tags_sha256": "0431f560ab4114dfa025e3a706bac1301894ead0df4b57f61d3ff4dceedde9de"
   },
   "itinerarium-burdigalense-lat": {
    "key": "lewis-short",
@@ -5074,6 +5198,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 3
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 2
     }
@@ -5134,12 +5259,13 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 4
     },
     "alt_target": 863,
+    "numbering_undecided": 6,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 2994
     }
    },
-   "tags_sha256": "8695d6d4029d93efe2ec1c833b4d7c655dcd702b6ea004bb02a71bbd4777f072"
+   "tags_sha256": "ff8cba95a67eac176ef12e1fa7879fd72d26c66463e07c7479bfff29206333a8"
   },
   "jerome-in-hieremiam-lat": {
    "key": "lewis-short",
@@ -5193,6 +5319,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 169,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 2180
@@ -5222,6 +5349,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "42ebbbba140d83758508491c5fd8df280552fa782a70a4f3867ab79da3c000d8"
@@ -5247,6 +5375,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "350b486fadd123ff0172652f235815683df58d82c6d9d81acd6283ee0dee47de"
@@ -5283,12 +5412,13 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 90,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 416,
      "lxx": 93
     }
    },
-   "tags_sha256": "878f63fec2d636c6c79e77fe32e27c6bc29ce403a508bdf57bb440d958a8861f"
+   "tags_sha256": "c67e201221de88f21877daf0bd451eefa6d15244cf2bbf73ce3ee9051622bf18"
   },
   "lactantius-de-ira-dei-lat": {
    "key": "lewis-short",
@@ -5327,6 +5457,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 1
     }
@@ -5373,6 +5504,7 @@
      "cites a whole chapter, not a verse": 1
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 3
     }
@@ -5411,6 +5543,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "87ad2dd8972e2872aa775f7c5f95c29089c6c5e99d1fb08ee558f04332a1e703"
@@ -5460,6 +5593,7 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 21,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 98
     }
@@ -5508,6 +5642,7 @@
      "no such verse in any numbering (vulgate, english, hebrew)": 3
     },
     "alt_target": 4,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 28
@@ -5543,6 +5678,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "8128e166b526d428fcdcc22b2343ca0d2a014276e311df94a40da748829c68aa"
@@ -5569,6 +5705,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "fd05bf3cf869800671df6726611091188e8a6dc7d7bf112323d71e848bd9c909"
@@ -5594,6 +5731,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "794cd82a69c648a53f60b8425bf804c1371452defa12cb41c475f3bd14e195d1"
@@ -5630,6 +5768,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 12,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 71,
      "lxx": 18
@@ -5665,6 +5804,7 @@
      "cites a whole chapter, not a verse": 1
     },
     "alt_target": 6,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 6,
      "lxx": 8
@@ -5707,12 +5847,13 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 32,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 161,
      "lxx": 31
     }
    },
-   "tags_sha256": "31768c1a8fa25ad9691ff810d84fa3cea1c003d56a7665ed2ab32bfe21b2aca7"
+   "tags_sha256": "c80efc9e4eef6e1834d25de28495b307c0dd61fdd905d4481b9c224979c02f14"
   },
   "minucius-felix-octavius-lat": {
    "key": "lewis-short",
@@ -5748,6 +5889,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "a595a980864d41327640ff4900a8e2e10fd2fc2bc2d0b318af6f34e202718d98"
@@ -5772,8 +5914,8 @@
     "read": 3804,
     "resolved": 3614,
     "resolved_by_rule": {
-     "note/brenton": 246,
-     "note/kjv": 717,
+     "note/brenton": 214,
+     "note/kjv": 749,
      "note/nt": 2451,
      "note/nt+ocr-twin": 200
     },
@@ -5786,12 +5928,13 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 167,
+    "numbering_undecided": 6,
     "ot_by_numbering": {
-     "english": 717,
-     "lxx": 246
+     "english": 749,
+     "lxx": 214
     }
    },
-   "tags_sha256": "b5cc5196171337899a58823acbf96094f4e5941b22b76e3a438f49a60726d94a"
+   "tags_sha256": "4cc59696042171e6dff44fad766601b5eb0b316d47ba85953e257080d255bf88"
   },
   "origen-contra-celsum-grc": {
    "key": "strongs",
@@ -5814,6 +5957,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "b971a8c2801730f3431a8ce2678ac4c9848c77c08d554d78c07ef4858c97c794"
@@ -5846,6 +5990,7 @@
      "cites a whole chapter, not a verse": 3
     },
     "alt_target": 4,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 20,
      "lxx": 7
@@ -5874,6 +6019,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "996ed11e6d7d8fb8e544a3329db59cb6f9a83fc06e75b238bcc3066c356120e6"
@@ -5909,12 +6055,13 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 4,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "english": 11,
      "lxx": 3
     }
    },
-   "tags_sha256": "b983fee734062f8ff63cefdb985796bbd129f46a65551e8b2855d4a312214e8c"
+   "tags_sha256": "6e28428b98c6180c45efaccc1c77f9799ade9f8cb99c9e17ab6fb06a99ea88ad"
   },
   "origen-exhortatio-martyrium-grc": {
    "key": "strongs",
@@ -5937,6 +6084,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "25d8b99b1150ae806eda0bafea603eb6e89182f357c3fe642167af6c11e0c57b"
@@ -5973,6 +6121,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 29,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 130,
      "lxx": 38
@@ -6009,6 +6158,7 @@
      "cites a whole chapter, not a verse": 8
     },
     "alt_target": 51,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 165,
      "lxx": 51
@@ -6034,25 +6184,25 @@
    },
    "scripture": {
     "read": 295,
-    "resolved": 273,
+    "resolved": 274,
     "resolved_by_rule": {
-     "note/bhs": 148,
-     "note/kjv": 5,
+     "note/brenton": 1,
+     "note/kjv": 153,
      "note/nt": 120
     },
     "unresolved_by_why": {
      "a book outside the KJV": 7,
      "cites a whole chapter, not a verse": 7,
-     "no such verse in any numbering (hebrew, lxx, english)": 7,
-     "psalm title: the KJV prints it before v.1, with no verse number": 1
+     "no such verse in any numbering (english, lxx, hebrew)": 7
     },
     "alt_target": 9,
+    "numbering_undecided": 9,
     "ot_by_numbering": {
-     "english": 5,
-     "hebrew": 148
+     "english": 153,
+     "lxx": 1
     }
    },
-   "tags_sha256": "9fdaf50cbaa2aa17be2a47f72e73195ca902c028543c127968f3f75e0cbc1f89"
+   "tags_sha256": "86fb46b57a27dda39c57fbe55c12b2aff18c771febea3ab82338dfe6fc715d3a"
   },
   "passio-perpetuae-grc": {
    "key": "strongs",
@@ -6075,6 +6225,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "a38ecef50c935f4966088a6e1856bafd0d6577d04b26fddf52c7ea6141dee2c7"
@@ -6130,13 +6281,14 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 674,
+    "numbering_undecided": 2,
     "ot_by_numbering": {
      "english": 39,
      "hebrew": 5,
      "vulgate": 1296
     }
    },
-   "tags_sha256": "b298d7db52c01fc4a8f36edd952bc283cc62019ebeb38fb0948225498cd00bbe"
+   "tags_sha256": "2eb0217fb555d24d1ebcd464aad2d8f4056eb7f68d4c51f90a46d166e258286f"
   },
   "pseudo-tertullian-adversus-omnes-haereses-lat": {
    "key": "lewis-short",
@@ -6170,6 +6322,7 @@
      "cites a whole chapter, not a verse": 3
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "94408ce58ee1640f69d727442d62c686b937751ca9d67d41095f26316a7a2519"
@@ -6219,6 +6372,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 15,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 27
@@ -6245,18 +6399,21 @@
     "read": 159,
     "resolved": 154,
     "resolved_by_rule": {
-     "note/brenton": 31,
+     "note/brenton": 1,
+     "note/kjv": 30,
      "note/nt": 123
     },
     "unresolved_by_why": {
      "cites a whole chapter, not a verse": 5
     },
     "alt_target": 2,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
-     "lxx": 31
+     "english": 30,
+     "lxx": 1
     }
    },
-   "tags_sha256": "ab42600d096d4a9e50af909b870f6728100ad2a49f8c9d433b99859709d5d2fa"
+   "tags_sha256": "eb031b863c71a5983d76b0b158cffb66134ab197743118f458d9cbf62d0f3d71"
   },
   "sozomen-historia-ecclesiastica-grc": {
    "key": "strongs",
@@ -6279,6 +6436,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "bda568e8c3f280f09d50d4c130ada8be93c395706a715d9dcd6a31818dcc20f0"
@@ -6313,23 +6471,25 @@
    },
    "scripture": {
     "read": 231,
-    "resolved": 101,
+    "resolved": 100,
     "resolved_by_rule": {
-     "note/bhs": 98,
-     "note/vulgate": 3
+     "note/bhs": 1,
+     "note/vulgate": 99
     },
     "unresolved_by_why": {
      "a book outside the KJV": 22,
      "cites a whole chapter, not a verse": 88,
-     "no such verse in any numbering (hebrew, vulgate, english)": 20
+     "no such verse in any numbering (vulgate, english, hebrew)": 20,
+     "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 1,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
-     "hebrew": 98,
-     "vulgate": 3
+     "hebrew": 1,
+     "vulgate": 99
     }
    },
-   "tags_sha256": "5f420be2a5cdf79020f6d82bf3d3c69f2b6de6b52b3124978527be715b9932c3"
+   "tags_sha256": "dc51cb8951f5e0be21ce2e01443c29499c4e3555a65fb0dc1cad55bbf573d96b"
   },
   "sulpicius-dialogi-lat": {
    "key": "lewis-short",
@@ -6366,6 +6526,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "dd8c36a7ea73dfe378a67e156e41bcbeb52dc6dbc40690f31361acc967e61350"
@@ -6402,6 +6563,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "63361d78715ca3bc132999ceec0f754e3212dcad3ae44bbde5e8740b5bc66fb6"
@@ -6441,6 +6603,7 @@
     },
     "unresolved_by_why": {},
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 1
     }
@@ -6468,6 +6631,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "45819443401c72814bb1074510b877078ea730eae9ccb058001e5201c60267f5"
@@ -6500,6 +6664,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "624b4e7c3d1c466e33e39ca3d023b69edc06e1d0a5c09ffb5e33eaeea89ccc0b"
@@ -6542,6 +6707,7 @@
      "no such verse in any numbering (hebrew, vulgate, english)": 1
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 3
     }
@@ -6578,6 +6744,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "ee0a7507668d7106fc10f8c283d9552224d99a466797f77eaedebb6c88459f53"
@@ -6613,6 +6780,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "ea155f55aab8e9ee39d99ca42a9a7ba20a6ebf9b9bb56d3e6f1538154a055218"
@@ -6659,6 +6827,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 7,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 87
     }
@@ -6697,6 +6866,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "02be7d10bae6ad3e9e9a699b25a3f2a199c6f90c084b945b86f5572d713238ca"
@@ -6750,13 +6920,14 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 131,
+    "numbering_undecided": 2,
     "ot_by_numbering": {
      "english": 10,
      "hebrew": 1,
      "vulgate": 1017
     }
    },
-   "tags_sha256": "092177e731e4ac89416b1a53509d14287a47e95df53950fea5dbedb228839039"
+   "tags_sha256": "f3d5b1859d94317b96040d993096a2e33fcfc686900f8a84e0c4b4b85efb05ac"
   },
   "tertullian-adversus-praxean-lat": {
    "key": "lewis-short",
@@ -6799,6 +6970,7 @@
      "no such verse in the KJV (an OCR digit?)": 10
     },
     "alt_target": 28,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 4,
      "vulgate": 116
@@ -6843,6 +7015,7 @@
      "cites a whole chapter, not a verse": 1
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 4
     }
@@ -6890,6 +7063,7 @@
      "no such verse in the KJV (an OCR digit?)": 4
     },
     "alt_target": 3,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "hebrew": 4,
      "vulgate": 33
@@ -6934,6 +7108,7 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 3
     }
@@ -6973,6 +7148,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "60ece61bb11ab3e889009898d4ecc1a90f4bc75a688d0c632aa64d4662d4141d"
@@ -7007,6 +7183,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "21dd536c5356dc8a12374da7ce76005e97088705fce633fc3237de30d37a7b4d"
@@ -7042,6 +7219,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "63e5e574f59412ce98f9e8f6cce1f108e5a2b5ee76341840cd6e7380c8f895f4"
@@ -7078,6 +7256,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "8df71d4bc4b8416c9cd80a33a010c358c4c19af5a58fdfbb00303d19f2129de1"
@@ -7114,6 +7293,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "ca1905552998da9c0b42931a348145541cea6c9704072ffdcec6a96dce3d214b"
@@ -7155,6 +7335,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 2,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "hebrew": 4,
      "vulgate": 11
@@ -7204,12 +7385,13 @@
      "no such verse in the KJV (an OCR digit?)": 3
     },
     "alt_target": 3,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "hebrew": 3,
      "vulgate": 36
     }
    },
-   "tags_sha256": "813de9ef16e27602f52bd0323dcb99b9ce094d50fe98ebeeab981ffd7b63ac63"
+   "tags_sha256": "ddc7c7754f2494e10b2f6e1d4bf2d334e1487c14d44d30ac61026fb60ec3a29d"
   },
   "tertullian-de-monogamia-lat": {
    "key": "lewis-short",
@@ -7244,6 +7426,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "9faca210b4f537da1c8813f44989112f59fd417e7b4762edd585c921b203deb8"
@@ -7288,6 +7471,7 @@
      "no such verse in the KJV (an OCR digit?)": 2
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 14
     }
@@ -7326,6 +7510,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "a4d106d81bbdd137fee4f6bd9781c2df22d96df0acd38669b7199b586c200c8e"
@@ -7359,6 +7544,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "002e686202fd810f7d29656889df114b7166bdbed7714af82a0d8754a4686217"
@@ -7400,6 +7586,7 @@
      "no such verse in the KJV (an OCR digit?)": 7
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "vulgate": 14
     }
@@ -7439,6 +7626,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "7a296d8dbb76d18845c6ac936868d5e7141ae22ccc7a86ff81f7b372fa1f0167"
@@ -7485,6 +7673,7 @@
      "no such verse in the KJV (an OCR digit?)": 9
     },
     "alt_target": 1,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "hebrew": 2,
      "vulgate": 23
@@ -7536,6 +7725,7 @@
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 1
     },
     "alt_target": 11,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "english": 1,
      "vulgate": 114
@@ -7580,12 +7770,13 @@
     },
     "unresolved_by_why": {},
     "alt_target": 1,
+    "numbering_undecided": 1,
     "ot_by_numbering": {
      "hebrew": 2,
      "vulgate": 3
     }
    },
-   "tags_sha256": "32fcdc3092cb2c770cc9999ee9a196c2172061c9a55b693541ee04c97edf501d"
+   "tags_sha256": "19426b9b2dd01afab0eb68ec9deec16a6567126e8d57a5f6ec745696c75206d5"
   },
   "tertullian-de-testimonio-animae-lat": {
    "key": "lewis-short",
@@ -7617,6 +7808,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "5e2f894f0b4ba5e8715f1cfdeec0eaa3a42d9d84644fb289f38ae52ee130b34e"
@@ -7653,6 +7845,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "566bbde99940214c5176e3c31e2c034b460e1e88ed183aeafe2ca4b2ccd3dbde"
@@ -7700,6 +7893,7 @@
      "psalm title: the KJV prints it before v.1, with no verse number": 1
     },
     "alt_target": 7,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
      "hebrew": 5,
      "vulgate": 26
@@ -7731,6 +7925,7 @@
      "no such verse in any numbering (english, lxx, hebrew)": 3
     },
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "79b3406861ee08ff4b3a3604a6b6d8d1c488e0b711ad70b3ffa6f6e11a6bfc1f"
@@ -7757,6 +7952,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "54613d1804e27c2ab38d7ac2ff8922881365d2eb7856efd600ffb258543268bb"
@@ -7781,8 +7977,8 @@
     "read": 337,
     "resolved": 306,
     "resolved_by_rule": {
-     "note/brenton": 96,
-     "note/kjv": 5,
+     "note/brenton": 33,
+     "note/kjv": 68,
      "note/nt": 199,
      "note/nt+ocr-twin": 6
     },
@@ -7793,12 +7989,13 @@
      "no such verse in the KJV (an OCR digit?)": 1
     },
     "alt_target": 25,
+    "numbering_undecided": 0,
     "ot_by_numbering": {
-     "english": 5,
-     "lxx": 96
+     "english": 68,
+     "lxx": 33
     }
    },
-   "tags_sha256": "19983e18066c729e797fe70b3acacfa8f6d140a5516aee85446b0df1223157b9"
+   "tags_sha256": "390fc34619db81e09b4c0e2a203fba567402f4b216172f1d3924d1f1e3b31f63"
   },
   "theodoret-historia-religiosa-grc": {
    "key": "strongs",
@@ -7821,6 +8018,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "15d61255eb26664e154e66c857e6a3c65a06bb93c619fe6f8c659d1d86cde206"
@@ -7846,6 +8044,7 @@
     "resolved_by_rule": {},
     "unresolved_by_why": {},
     "alt_target": 0,
+    "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
    "tags_sha256": "771f4fe3da21be1af75be63de67aa45f80d9c8aa5964dc596ccc58a766a7dff3"
