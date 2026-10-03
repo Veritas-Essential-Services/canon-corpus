@@ -1369,8 +1369,10 @@
     {
       "id": "van-dyke",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths, legends and fairy tales retold: van-dyke; no minting",
-      "status": "running",
-      "started": "2026-10-03T01:52:02-05:00"
+      "status": "done",
+      "started": "2026-10-03T01:52:02-05:00",
+      "finished": "2026-10-03T01:57:58-05:00",
+      "notes": "5/5 fetched (Gutenberg 16291, 4384, 16134, 1603, 15936), 1,537 units, 0 ~2 ids."
     },
     {
       "id": "irving",

@@ -6739,6 +6739,19 @@ Shelf: `pipeline/stephens_shelf.json` (2026-10-02; added at the coordinator's re
 | Irish Fairy Tales | have | PG 2892, `stephens-irish-fairy-tales` (2130 units) |
 | Deirdre | have | PG 65950, `stephens-deirdre` (1871 units) |
 
+## Henry van Dyke
+
+Shelf: `pipeline/van-dyke_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Christmas legends and tales; cut by story and numbered section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of the Other Wise Man | have | PG 16291, `van-dyke-other-wise-man` (165 units) |
+| The Lost Word: A Christmas Legend of Long Ago | have | PG 4384, `van-dyke-lost-word` (182 units) |
+| The First Christmas Tree: A Story of the Forest | have | PG 16134, `van-dyke-first-christmas-tree` (149 units) |
+| The Blue Flower | have | PG 1603, `van-dyke-blue-flower` (887 units) |
+| The Sad Shepherd: A Christmas Story | have | PG 15936, `van-dyke-sad-shepherd` (154 units) |
+| van-dyke-other-wise-man-others | excluded | PG 10679 and 19608, two other transcriptions of The Other Wise Man; 85% and 98% of their long paragraphs are in PG 16291 (the 1899 edition); held once |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
