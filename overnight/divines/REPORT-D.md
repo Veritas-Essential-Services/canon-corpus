@@ -318,3 +318,6 @@
 
 ## 2026-10-02 19:50 CDT — giles-liaozhai: done
 - 1/1 fetched (Gutenberg 43629), 1,894 units, 0 ~2 ids.
+
+## 2026-10-02 19:50 CDT — zitkala-sa: done
+- 1/1 fetched (Gutenberg 338), 439 units, 0 ~2 ids.

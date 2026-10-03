@@ -1375,6 +1375,14 @@ Shelf: `pipeline/giles-liaozhai_shelf.json` (2026-10-02; added at the coordinato
 | Strange Stories from a Chinese Studio, tr. Herbert A. Giles (vols. 1 and 2) | have | PG 43629, `liaozhai-strange-stories-chinese-studio` (1894 units) |
 | liaozhai-volumes | excluded | vols. 1 and 2 as separate files (PG 43627, 43628): the same text as the combined file |
 
+## Zitkala-Ša
+
+Shelf: `pipeline/zitkala-sa_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dakota legends retold by a Yankton Dakota writer. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Indian Legends, retold by Zitkala-Ša (1901) | have | PG 338, `zitkala-sa-old-indian-legends` (439 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

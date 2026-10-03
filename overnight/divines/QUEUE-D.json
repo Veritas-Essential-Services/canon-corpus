@@ -638,7 +638,9 @@
     {
       "id": "zitkala-sa",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: zitkala-sa; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:45-05:00",
+      "notes": "1/1 fetched (Gutenberg 338), 439 units, 0 ~2 ids."
     },
     {
       "id": "eastman",
