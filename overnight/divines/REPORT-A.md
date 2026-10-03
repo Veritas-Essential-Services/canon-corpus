@@ -602,3 +602,6 @@
 
 ## 2026-10-03 06:22 CDT — James Buchanan name forms
 - Bare "buchanan" replaced by full forms (it collided with PR #14's robert-buchanan); all 6 items re-recorded with the author seen as "james buchanan", 0 mismatched.
+
+## 2026-10-03 06:22 CDT — Shepard name forms
+- Dropped "shepherd" from the shepard shelf: it is an ordinary English word, and every item had matched on "shepard" anyway. Re-recorded, 0 mismatched.

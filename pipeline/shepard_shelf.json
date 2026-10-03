@@ -6,8 +6,7 @@
  ],
  "_surname": [
   "shepard",
-  "shepheard",
-  "shepherd"
+  "shepheard"
  ],
  "_held": {},
  "ccel": {
@@ -53,27 +52,31 @@
  "_checks": {
   "shepard-works-01": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "shepard",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": false,
+   "ccel_print_source": "Boston, Doctrinal tract and book society, c1853",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "shepard-change-sabbath": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "shepard",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "shepard-works-02": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "shepard",
    "identity": "ok",
@@ -84,7 +87,7 @@
   },
   "shepard-works-03": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "shepard",
    "identity": "ok",
@@ -95,7 +98,7 @@
   },
   "shepard-autobiography-1832": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "shepard",
    "identity": "ok",
@@ -106,7 +109,7 @@
   },
   "shepard-clear-sunshine-1865": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "shepard",
    "identity": "ok",
