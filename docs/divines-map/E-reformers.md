@@ -255,7 +255,7 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 
 | Work | Status | Where |
 |---|---|---|
-| Schaff, The Creeds of Christendom, vol. III (CCEL, proofed) | have | `philip-schaff_shelf.json`, from Baker's 1977 reprint (text copyright 1877-1919); vols I-II pending, as CCEL keyed them from the 1931 sixth edition |
+| Schaff, The Creeds of Christendom (3 vols) | have | `philip-schaff_shelf.json`: vol. III from CCEL (proofed; Baker's 1977 reprint, text copyright 1877-1919); vols I-II as raw OCR of the 1878 Harper printing, because CCEL keyed its vols I-II from the 1931 sixth edition |
 | The Harmony of Protestant Confessions, ed. Peter Hall (1842) | have-raw | `peter-hall_shelf.json` |
 | Dunlop, A Collection of Confessions of Faith (1719-22, 2 vols) | pending | only long-s 18th-century scans, OCR at about a third common words |
 | Sprott and Leishman, Book of Common Order (Knox's Liturgy) and the Westminster Directory (1868) | have-raw | `george-sprott_shelf.json` |

@@ -1,5 +1,5 @@
 {
- "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes: vol. III, the Creeds of the Evangelical Protestant Churches, the Reformed confessions and catechisms in their original languages with English translations, CCEL's proofed edition. CCEL keyed it from Baker Book House's 1977 photographic reprint ('reprinted by arrangement with' Harper), whose text carries copyrights of 1877, 1905 and 1919 and nothing later; noted here as the relay asks. Vols. I and II are pending: CCEL keyed them from the 1931 sixth edition (see _pending). CCEL's vol. III lacks Part First (the Lutheran creeds).",
+ "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes: vol. III, the Creeds of the Evangelical Protestant Churches, the Reformed confessions and catechisms in their original languages with English translations, CCEL's proofed edition. CCEL keyed it from Baker Book House's 1977 photographic reprint ('reprinted by arrangement with' Harper), whose text carries copyrights of 1877, 1905 and 1919 and nothing later; noted here as the relay asks. Vols. I and II are held instead as Internet Archive OCR of Harper's 1878 printing (title pages read: 'Volume I. The History of Creeds', 'Volume II. The Greek and Latin Creeds', New York: Harper, 1878), because CCEL keyed its vols. I-II from the 1931 sixth edition (see _pending). Vol. II is mostly Greek and Latin in parallel columns, so its English word share is low by nature. CCEL's vol. III lacks Part First (the Lutheran creeds).",
  "_name_words": [
   "schaff",
   "philip"
@@ -7,7 +7,6 @@
  "_surname": [
   "schaff"
  ],
- "_ccel_author": "s/schaff",
  "ccel": {
   "schaff-creeds-3": [
    "creeds3",
@@ -16,13 +15,23 @@
   ]
  },
  "gutenberg": {},
- "internet_archive": {},
+ "internet_archive": {
+  "schaff-creeds-1-1878": [
+   "creedsofchriste187801scha",
+   "The Creeds of Christendom, vol. I: The History of Creeds (New York: Harper, 1878)"
+  ],
+  "schaff-creeds-2-1878": [
+   "creedsofchristen02scha",
+   "The Creeds of Christendom, vol. II: The Greek and Latin Creeds, with Translations (New York: Harper, 1878)"
+  ]
+ },
+ "_ccel_author": "s/schaff",
  "_alternates": {
   "creedsofchristen01scha, creedsofchristen187803scha, bibliothecasymbo02/03scha, creedsofchristen011831mbp, creedsofchristen027251mbp": "Internet Archive scans of the 1877-1878 and later printings; CCEL's proofed text is held instead of raw OCR."
  },
  "_pending": {
   "Creeds of Christendom vol. III, Part First (the Lutheran symbols)": "Missing from CCEL's vol. III; the 1878 Princeton scan (creedsofchristen187803scha) prints it, and could be shelved whole as raw OCR if wanted.",
-  "ccel creeds1, creeds2 (The Creeds of Christendom, vols. I-II)": "Moved here 2026-10-03 after a review: CCEL keyed them from the 'Sixth Edition', whose preface (vol. I) is dated New York, January 1931 and whose vol. II text runs to March 1930. A 1931 US publication is public domain only if its copyright was not renewed; not checked. Restore as schaff-creeds-1/-2 if Adam rules them clear, or shelve a pre-1930 scan instead (the 1877-1919 printings are on Internet Archive)."
+  "ccel creeds1, creeds2 (The Creeds of Christendom, vols. I-II)": "Moved here 2026-10-03 after a review: CCEL keyed them from the 'Sixth Edition', whose preface (vol. I) is dated New York, January 1931 and whose vol. II text runs to March 1930. A 1931 US publication is public domain only if its copyright was not renewed; not checked. The 1878 Harper scans are held in their place. Note that Internet Archive's Wellesley set catalogued as 1919 (bibliothecasymbo010/020/030scha) is in fact this 1931 edition (its preface is dated January 1931)."
  },
  "_excluded": {
   "creedsofchristen0001phil_r9t1, creedsofchristen0000phil_c6b9 and other internetarchivebooks copies": "Lending-library scans."
@@ -39,6 +48,28 @@
    "ccel_print_source": "1889 (Baker reprint)",
    "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-creeds-1-1878": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schaff-creeds-2-1878": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
