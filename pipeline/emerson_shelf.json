@@ -1,0 +1,40 @@
+{
+ "_about": "Welsh Fairy-Tales and Other Stories, collected by P. H. Emerson in Anglesey in the winter of 1891-2 and taken down as they were told him (author's note dated April 1894). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "P. H. Emerson",
+ "_name_words": [
+  "emerson"
+ ],
+ "_surname": [
+  "emerson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "emerson-welsh-fairy-tales": [
+   8675,
+   "Welsh Fairy-Tales and Other Stories",
+   {
+    "levels": [
+     {
+      "re": "(?:THE FAIRIES OF CARAGONAN|THE CRAIG-Y-DON BLACKSMITH|OLD GWILYM|THE BABY-FARMER|THE OLD MAN AND THE FAIRIES|TOMMY PRITCHARD|KADDY’S LUCK|THE STORY OF GELERT|ORIGIN OF THE WELSH|CROWS|ROBERT ROBERTS AND THE FAIRIES|THE FAIRY OF THE DELL|ELLEN’S LUCK|THE FAIRIES’ MINT|THE PELLINGS|THE LONG-LIVED ANCESTORS|THE GIANTESS’S APRON-FULL|GWRGAN FARFDRWCH’S FABLE|THE STORY OF THE PIG-TROUGH|BILLY DUFFY AND THE DEVIL|THE STORY OF JOHN 0’ GROATS|EVA’S LUCK|THE FISHERMEN OF SHETLAND|THE PASTOR’S NURSE|NOTES|FINAL)\\.?$"
+     },
+     {
+      "re": "(?:[IVX]+\\.|\\(\\d+\\) [A-Z][^a-z]+)$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "emerson-welsh-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
