@@ -23,7 +23,11 @@ lets that level's headings run past the default 90 characters (a long title);
 "label": {"<regex>": "<name>"} cites a heading matching <regex> by a fixed
 name instead of the paragraph itself, and "keep": true also keeps such a
 labelled paragraph as that level's first unit (a poem's text has no heading;
-its stanza 1 marks where it begins, and is itself text). With "front": true
+its stanza 1 marks where it begins, and is itself text); "number_repeats": true
+cites the second and later headings of the same name under the same parent as
+"<name> (2)", "(3)" (two different tales printed under one title, "Koshchéi
+Without-Death" twice in Curtin's Russian tales), so their paragraphs neither
+collide nor run on as one tale. With "front": true
 and a "start", nothing before the start is read as a heading: a Contents that
 repeats the chapter headings would otherwise file the front matter under the
 last chapter it lists. Front matter is cited "front, par. n".
@@ -56,6 +60,8 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
     LABEL = [[(re.compile(k), v) for k, v in (l.get("label") or {}).items()] for l in levels]
     KEEP = [bool(l.get("keep")) for l in levels]
     STRIP = [re.compile(l["strip"]) if l.get("strip") else None for l in levels]
+    NUMBER = [bool(l.get("number_repeats")) for l in levels]
+    seen_heads = {}                    # (level, parent path, name) -> times seen
     heads = [None] * len(LV)
     units, pnum, pending_title = [], 0, None
     START = re.compile(start) if start else None
@@ -66,6 +72,7 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
         if START and START.match(p):   # body begins: forget headings read from the Contents
             heads, START = [None] * len(LV), None
             pending_title = None       # ...and a title the Contents' last heading was waiting for
+            seen_heads = {}            # ...and which names the Contents already used
             if front:
                 pnum = 0
         elif START and front:          # front matter: no headings until the body begins
@@ -82,6 +89,11 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
         if hit is not None:
             lab = next((v for k, v in LABEL[hit] if k.match(p)), None)
             heads[hit] = lab or (STRIP[hit].sub("", p) if STRIP[hit] else p).rstrip(".")
+            if NUMBER[hit]:
+                k_ = (hit, tuple(heads[:hit]), heads[hit])
+                seen_heads[k_] = seen_heads.get(k_, 0) + 1
+                if seen_heads[k_] > 1:
+                    heads[hit] = f"{heads[hit]} ({seen_heads[k_]})"
             for j in range(hit + 1, len(heads)):
                 heads[j] = None
             pnum = 0

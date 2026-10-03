@@ -66,5 +66,18 @@ u = convert("[Illustration:\n\n  The Story of Pinky.\n]\n\nA cat.\n\n[Illustrati
 refs = [x["ref"] for x in u]
 check("caption heading", refs == ["The Story of Pinky, par. 1", "The Story of Pinky, par. 2"], refs)
 
+# 5. number_repeats: a second tale under the same title is "(2)", not a run-on or a ~2;
+#    a name the Contents used before the start is not counted.
+u = convert("CONTENTS\n\nTHE DEAD.\n\nTHE BEAR.\n\nBODY\n\nTHE DEAD.\n\nOne.\n\nTHE DEAD.\n\nTwo.\n\nTHE BEAR.\n\nThree.\n\nTHE DEAD.\n\nFour.",
+            [{"re": "(?:CONTENTS|THE [A-Z]+\\.)$", "number_repeats": True}], start="BODY$")
+refs = [x["ref"] for x in u if x["ref"].startswith("THE")]
+check("number_repeats numbers a repeated title",
+      refs == ["THE DEAD, par. 1", "THE DEAD (2), par. 1", "THE BEAR, par. 1", "THE DEAD (3), par. 1"], refs)
+check("number_repeats ids unique", len({x["id"] for x in u}) == len(u), [x["id"] for x in u])
+u = convert("A\n\nTHE DEAD.\n\nOne.\n\nB\n\nTHE DEAD.\n\nTwo.",
+            [{"re": "[AB]$"}, {"re": "THE DEAD\\.$", "number_repeats": True}])
+check("number_repeats counts within the parent only",
+      [x["ref"] for x in u] == ["A / THE DEAD, par. 1", "B / THE DEAD, par. 1"], [x["ref"] for x in u])
+
 print(f"{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)
