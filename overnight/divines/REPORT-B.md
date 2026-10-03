@@ -396,3 +396,7 @@
 - Euripides: Augusta Webster's verse Medea (1868)
 - Julian: C. W. King's Julian the Emperor (Bohn, 1888), with Gregory Nazianzen's Invectives and Libanius' Monody
 - Aeschylus: Prometheus Bound by Augusta Webster (1866), C. B. Cayley (1867), Paul Elmer More (1899), Edwyn Bevan (1902)
+
+## 2026-10-03 02:30 CDT — Aeschylus: Agamemnons
+- Aeschylus: Agamemnon by J. S. Harford (1831, translator unchecked), H. H. Milman (1865, with the Bacchae), W. R. Paton (1907), Locke Ellis (1920)
+- Not taken: Trevelyan's Oresteia (Greek facing, OCR 0.51) and Greek-facing school editions

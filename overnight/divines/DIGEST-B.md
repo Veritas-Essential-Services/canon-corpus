@@ -123,3 +123,4 @@
 - **Cebes (02:20):** new shelf; Guthrie's 1910 translation of the Tablet.
 - **Bohn gaps (02:23):** Riley's Lucan (1853) and M'Mahon's Metaphysics (1857). Aelian and Mela have no readable English scan.
 - **More single translations (02:27):** Walford's Aristotle, Webster's Medea, King's Julian (with Gregory Nazianzen's Invectives), and four Prometheus Bound versions.
+- **Agamemnon (02:30):** four more versions (Harford 1831, Milman 1865, Paton 1907, Locke Ellis 1920). Harford's name is from the catalogue only.

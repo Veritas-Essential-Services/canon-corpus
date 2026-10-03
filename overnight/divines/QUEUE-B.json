@@ -660,6 +660,14 @@
    "started": "2026-10-03T02:23:31-05:00",
    "finished": "2026-10-03T02:27:53-05:00",
    "notes": "Continued the Bohn and single-play sweep. All OCR 0.88-0.92. Webster and Cayley Prometheus needed _identity_checked (OCR mangles the Æ in Aeschylus). King's Julian volume also holds Gregory Nazianzen's Invectives (a church father): noted for a Gregory shelf to cross-reference."
+  },
+  {
+   "id": "aeschylus-agamemnons",
+   "status": "done",
+   "scope": "Four Agamemnon translations (1831-1920)",
+   "started": "2026-10-03T02:27:53-05:00",
+   "finished": "2026-10-03T02:30:20-05:00",
+   "notes": "Harford 1831 (translator from the catalogue: title page did not OCR), Milman 1865 (with his Bacchae; cross-referenced from the euripides shelf), Paton 1907, Locke Ellis 1920 (identity checked from the title page: AESCHYLVS in Roman capitals). Greek-facing school editions and Trevelyan's 1920 Oresteia (OCR 0.51) not taken. A single-play sweep of Sophocles found only Greek school editions."
   }
  ]
 }

@@ -2061,6 +2061,10 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Prometheus Bound, translated in the original metres (Hotten, 1867) | C. B. Cayley | `aeschylus-cayley-prometheus-1867` | have-raw (IA `prometheusboundo00aesc_0`) |
 | The Prometheus Bound, translated with introduction and notes (Houghton, Mifflin, 1899) | Paul Elmer More | `aeschylus-more-prometheus-1899` | have-raw (IA `prometheusboundo00aesc_1`) |
 | The Prometheus Bound, rendered into English verse (David Nutt, 1902) | Edwyn Robert Bevan | `aeschylus-bevan-prometheus-1902` | have-raw (IA `prometheusboundoaesc00rich`) |
+| The Agamemnon of Aeschylus, a new translation with a preliminary dissertation (Murray, 1831) | John S. Harford | `aeschylus-harford-agamemnon-1831` | have-raw (IA `agamemnonofaes00aesc`) |
+| The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865) | Henry Hart Milman | `aeschylus-milman-agamemnon-1865` | have-raw (IA `agamemnonofaesch00aescuoft`) |
+| The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907) | W. R. Paton | `aeschylus-paton-agamemnon-1907` | have-raw (IA `agamemnonofaesch01aesc`) |
+| Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920) | Locke Ellis | `aeschylus-ellis-agamemnon-1920` | have-raw (IA `agamemnonaftergr00aesciala`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
