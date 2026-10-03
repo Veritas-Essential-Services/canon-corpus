@@ -873,8 +873,10 @@
     {
       "id": "baring-gould",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: baring-gould; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:31:25-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:31:25-05:00",
+      "finished": "2026-10-02T20:34:22-05:00",
+      "notes": "5/5 fetched (Gutenberg 36127, 5324, 36638, 48736, 48622), 9,511 units, 0 ~2 ids."
     }
   ]
 }

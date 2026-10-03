@@ -4986,6 +4986,19 @@ Shelf: `pipeline/robert-hunt_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | Popular Romances of the West of England, Second Series | have | PG 59033, `robert-hunt-popular-romances-west-of-england-2` (1907 units) |
 
+## Sabine Baring-Gould
+
+Shelf: `pipeline/baring-gould_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His books of legend and lore. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Curious Myths of the Middle Ages | have | PG 36127, `baring-gould-curious-myths-of-the-middle-ages` (740 units) |
+| The Book of Were-Wolves | have | PG 5324, `baring-gould-book-of-were-wolves` (882 units) |
+| A Book of Ghosts | have | PG 36638, `baring-gould-book-of-ghosts` (3105 units) |
+| Legends of the Patriarchs and Prophets | have | PG 48736, `baring-gould-legends-of-the-patriarchs-and-prophets` (3580 units) |
+| Grettir the Outlaw: A Story of Iceland | have | PG 48622, `baring-gould-grettir-the-outlaw` (1204 units) |
+| baring-gould-lives-of-the-saints | excluded | The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

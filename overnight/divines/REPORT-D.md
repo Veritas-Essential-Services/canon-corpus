@@ -414,3 +414,6 @@
 
 ## 2026-10-02 20:34 CDT — robert-hunt: done
 - 1/1 fetched (Gutenberg 59033), 1,907 units, 3 ~2 ids.
+
+## 2026-10-02 20:34 CDT — baring-gould: done
+- 5/5 fetched (Gutenberg 36127, 5324, 36638, 48736, 48622), 9,511 units, 0 ~2 ids.
