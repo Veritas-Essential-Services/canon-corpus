@@ -1573,6 +1573,14 @@ Shelf: `pipeline/gilbert_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | King Arthur's Knights: The Tales Re-told for Boys and Girls | have | PG 22396, `gilbert-king-arthurs-knights` (2573 units) |
 
+## Sir James Knowles
+
+Shelf: `pipeline/knowles_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Arthurian legends compiled from Malory and others. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Legends of King Arthur and His Knights | have | PG 12753, `knowles-legends-of-king-arthur` (1702 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

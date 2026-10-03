@@ -369,3 +369,6 @@
 
 ## 2026-10-02 20:10 CDT — gilbert: done
 - 1/1 fetched (Gutenberg 22396), 2,573 units, 1 ~2 ids.
+
+## 2026-10-02 20:10 CDT — knowles: done
+- 1/1 fetched (Gutenberg 12753), 1,702 units, 14 ~2 ids.

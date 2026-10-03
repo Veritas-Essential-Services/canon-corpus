@@ -757,7 +757,9 @@
     {
       "id": "knowles",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: knowles; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T20:10:52-05:00",
+      "notes": "1/1 fetched (Gutenberg 12753), 1,702 units, 14 ~2 ids."
     },
     {
       "id": "rolleston",
