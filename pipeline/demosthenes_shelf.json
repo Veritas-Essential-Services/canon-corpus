@@ -59,6 +59,11 @@
    "orationsofdemost02demouoft",
    "The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806)",
    "tr. Thomas Leland"
+  ],
+  "demosthenes-brougham-crown-1840": [
+   "orationdemosthe02vauxgoog",
+   "The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840)",
+   "tr. Henry, Lord Brougham"
   ]
  },
  "_excluded": {
@@ -347,6 +352,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1806",
    "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "demosthenes-brougham-crown-1840": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
@@ -797,5 +813,8 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_translator_unchecked": {
+  "demosthenes-brougham-crown-1840": "title page reads 'translated into English' by 'Henry Lord B[rough]am, F.R.S., and Member of the National Institute of France' (Charles Knight, 1840); the OCR garbles the surname, which the IA catalogue gives as Brougham"
  }
 }
