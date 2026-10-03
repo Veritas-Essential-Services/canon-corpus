@@ -49,6 +49,16 @@
    "comediesaristop00mitcgoog",
    "The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822)",
    "tr. Thomas Mitchell"
+  ],
+  "aristophanes-wheelwright-1837-v1": [
+   "comediesaristop01arisgoog",
+   "The Comedies of Aristophanes, translated into familiar blank verse, vol. I (Oxford: D. A. Talboys; IA records 1837)",
+   "tr. C. A. Wheelwright"
+  ],
+  "aristophanes-wheelwright-1837-v2": [
+   "comediesofaristo02aris",
+   "The Comedies of Aristophanes, translated into familiar blank verse, vol. II (Oxford: D. A. Talboys; IA records 1837)",
+   "tr. C. A. Wheelwright"
   ]
  },
  "_excluded": {
@@ -69,7 +79,9 @@
   "aristophanes-lindsay-lysistrata": "Jack Lindsay",
   "aristophanes-frere-morley": "John Hookham Frere",
   "aristophanes-hickie-1887-v1": "William James Hickie",
-  "aristophanes-mitchell-1822-v2": "T. Mitchell"
+  "aristophanes-mitchell-1822-v2": "T. Mitchell",
+  "aristophanes-wheelwright-1837-v1": "C. A. Wheelwright",
+  "aristophanes-wheelwright-1837-v2": "C. A. Wheelwright"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
@@ -165,6 +177,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1822",
    "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-wheelwright-1837-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "C. A. Wheelwright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-wheelwright-1837-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "C. A. Wheelwright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
