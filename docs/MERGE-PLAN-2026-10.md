@@ -239,10 +239,11 @@ counterpart on the relay branch.
 - The Latin key (added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? Until you say yes, only its manifest is committed; the files build to `build/latin-key/` and were removed from the branch's history on 2026-10-02. It adds no conflicts.
 
 **#11**
-- Before merging, apply the #11 review's fix to Lightfoot's `rights.license`
-  field (it currently reads "public domain (Lightfoot & Harmer, 1891; the
-  file's DC.Rights reads 'Public Domain'); CCEL's head also carries ...
-  'Copyright Christian Classics Ethereal Library'").
+- Before merging, check the #11 review's fix has landed on #11's branch (the
+  Archive.org pickups thread owns it). All 9 Lightfoot rows put prose in
+  `rights.license` instead of the house token `public-domain`, so a filter on
+  that token skips them. Fix: `rights.license` = `public-domain`, prose moved
+  to a note field.
 - Lightfoot: should `redistribute_whole` be true? The text is PD; CCEL claims
   copyright on its prepared file.
 - #8's `build_apostolic_fathers.py` still lists Lightfoot as pending; that fix
