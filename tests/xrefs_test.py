@@ -56,6 +56,13 @@ r = R("a. Ps.33.6. b. Is.40.12.")
 check("two catchwords, two runs", [kw for kw, _ in r] == ["a", "b"])
 check("a span indexes the text as read",
       (lambda t: [t[a:z] for a, z in T.refs(t)[0][1][0]["at"].values()])("x. Ps. 104. 24") == ["104", "24"])
+# a psalm's title (review 2026-10-03): not the whole psalm, and not the next catchword
+check("refs: 'Ps 18. title' is a title, which resolve() gives no KJV verse",
+      R("x. Ps 18. title. 2 Sa 22. 1.") == [("x", [("Ps", 18, None, None, None), ("2Sa", 22, 1, None, None)])]
+      and T.refs("x. Ps 18. title.")[0][1][0].get("title") is True
+      and T.resolve(T.refs("x. Ps 18. title.")[0][1][0], "Gen", 1, T.kjv_shape()) == [])
+check("refs: 'etc.' after references opens no catchword",
+      [kw for kw, _ in R("x. Ge 12. 1, etc. begat. Ps 127. 4.")] == ["x", "begat"])
 
 # ---- resolving
 g = lambda **k: dict({"abbr": "Ps", "c": None, "v": None, "c2": None, "v2": None}, **k)

@@ -54,6 +54,24 @@ check("the Apocrypha is read ('1Ma 7:40,45; Ecclus. 4:1')",
       refs("1Ma 7:40,45; Ecclus. 4:1") == [("1Macc", 7, 40, 7, 40), ("1Macc", 7, 45, 7, 45), ("Sir", 4, 1, 4, 1)])
 check("a reference's position is its book's start (for the heading)",
       R.refs(".Marriage of Ex 6:23")[0]["at"] == len(".Marriage of "))
+# edge cases (review 2026-10-03)
+check("refs: a psalm's title is no reference, not the whole psalm",
+      refs("Ps. 3 title") == refs("Ps. 51:title") == refs("Psalm 90 (title)") == []
+      and refs("Ps. 51:title; 52:1") == [("Ps", 52, 1, 52, 1)])
+check("refs: a one-chapter book keeps its verses after ';'",
+      refs("Jude 6; 14") == [("Jude", 1, 6, 1, 6), ("Jude", 1, 14, 1, 14)])
+check("refs: chapters listed with ',' are each a chapter",
+      refs("Ps. 23, 24") == [("Ps", 23, None, 23, None), ("Ps", 24, None, 24, None)]
+      and refs("Ps. 23, 1 Sam. 4") == [("Ps", 23, None, 23, None), ("1Sam", 4, None, 4, None)])
+check("refs: 3 and 4 Maccabees, Susanna and Bel are read (as Apocrypha), 4 John is not",
+      refs("3 Macc. 1:1") == [("3Macc", 1, 1, 1, 1)] and refs("IV Macc. 2:3") == [("4Macc", 2, 3, 2, 3)]
+      and refs("Sus. 45") == [("Sus", 1, 45, 1, 45)] and refs("4 John 3") == [])
+check("refs: 'Song of Solomon' and 'S. of S.' are the Song, positions kept",
+      refs("Song of Solomon 2:1") == [("Song", 2, 1, 2, 1)]
+      and R.refs("see S. of S. 2:1, 3")[1]["at"] == len("see S. of S. 2:1, "))
+check("refs: 'Is 40 days' is not Isaiah; 'Is. 40' and 'Am 5:24' still are",
+      refs("Is 40 days") == [] and refs("Is. 40") == [("Isa", 40, None, 40, None)]
+      and refs("Am 5:24") == [("Amos", 5, 24, 5, 24)])
 check("osis: a range, a chapter, a cross-book range", R.osis_parts("Gen.4.1-Gen.4.16") == ("Gen", 4, 1, 4, 16)
       and R.osis_parts("2Sam.4") == ("2Sam", 4, None, 4, None) and R.osis_parts("Gen.50.26-Exod.1.1") is None)
 

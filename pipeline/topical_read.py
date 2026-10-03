@@ -85,6 +85,8 @@ BOOK_FORMS = [
     ("Bar", "Bar Baruch"),
     ("Macc", "Macc Mac Ma Maccabees"),
     ("Esd", "Esd Esdr Esdras"),
+    ("Sus", "Sus Susanna"),
+    ("Bel", "Bel"),
 ]
 # books that need an ordinal, and the OSIS name each ordinal makes
 NUMBERED = {"Sam": "Sam", "Kgs": "Kgs", "Chr": "Chr", "Cor": "Cor", "Thess": "Thess",
@@ -111,10 +113,22 @@ FORM_OLD = dict(FORM)
 for _b, _forms in OLD_BOOK_FORMS:
     for _f in _forms.split():
         FORM_OLD.setdefault(_f, _b)
-SINGLE_CHAPTER = {"Obad", "Phlm", "2John", "3John", "Jude"}
+SINGLE_CHAPTER = {"Obad", "Phlm", "2John", "3John", "Jude", "Sus", "Bel"}
 
-_ORD = {"1": "1", "2": "2", "3": "3", "I": "1", "II": "2", "III": "3", "i": "1", "ii": "2", "iii": "3"}
-_BOOK_RE = r"(?:(?P<ord>[123]|I{1,3}|i{1,3})\s?\.?\s*)?(?P<name>[A-Z][a-z]{0,13})\b[.,]?"
+_ORD = {"1": "1", "2": "2", "3": "3", "4": "4", "I": "1", "II": "2", "III": "3", "IV": "4",
+        "i": "1", "ii": "2", "iii": "3", "iv": "4"}
+# 3 and 4 Maccabees, 3 and 4 Esdras (the Vulgate's names for 1 and 2 Esdras)
+_ORDINALS = {"Macc": ("1", "2", "3", "4"), "Esd": ("1", "2", "3", "4")}
+# a two-letter form that is also an English word reads a bare chapter only with
+# its point: "Is. 40" is Isaiah, "Is 40 days" is not
+_WORDLIKE = {"Is", "Am", "So", "Ex", "Re"}
+# names printed in several words, read as one form; the same length, so every
+# "at" still indexes the text as given
+_MULTI = re.compile(r"\bSong of (?:Solomon|Songs)\b|\bS\. of S\.")
+# "Ps. 51:title", "Ps. 3 title", "Ps. 18 (title)": the title, which the KJV
+# does not number; read as no reference, not as the whole psalm
+_PS_TITLE = re.compile(r"\s*(\d{1,3})\s*[:,.]?\s*\(?\s*(?:title|tit)\b\.?\)?")
+_BOOK_RE = r"(?:(?P<ord>[1234]|IV|I{1,3}|iv|i{1,3})\s?\.?\s*)?(?P<name>[A-Z][a-z]{0,13})\b[.,]?"
 _NUM = r"\d{1,3}"
 # chapter : verse, the colon free to float ("19 : 16", "11: 4"), or a dot (Easton's "Gen. 4.1" never; but OCR)
 # chapter:verse, or (Henry, the older printings) a lower-case Roman chapter: "Heb. xi. 4"
@@ -145,9 +159,11 @@ def book_of(ordinal, name, forms=FORM):
         return None
     o = _ORD.get(ordinal) if ordinal else None
     if b in NUMBERED:
-        return (o + b) if o in ("1", "2") else None
+        return (o + b) if o in _ORDINALS.get(b, ("1", "2")) else None
     if b == "Titus" and name == "Ti" and o:
         return o + "Tim" if o in ("1", "2") else None
+    if o == "4":
+        return None
     if b == "John" and o:
         return o + "John" if o in ("1", "2", "3") else None
     if o:
@@ -175,6 +191,7 @@ def refs(text, here=None, point=False, old=False):
     forms = FORM_OLD if old else FORM
     out = []
     text = text.replace("\u2014", "-").replace("\u2013", "-")
+    text = _MULTI.sub(lambda m: "Song".ljust(len(m.group(0))), text)
     n = len(text)
     i = 0
     book = chapter = None
@@ -189,7 +206,8 @@ def refs(text, here=None, point=False, old=False):
                     i = end = _take(text, cv, book, out)
                     chapter = out[-1]["c2"]
                     continue
-                if k.group(1) == ";" and chapter is not None and book not in SINGLE_CHAPTER:
+                if (k.group(1) == ";" or out[-1]["v"] is None) and chapter is not None \
+                        and book not in SINGLE_CHAPTER:
                     ch = _CHAPTER.match(text, j)
                     if ch:
                         c = int(ch.group(1))
@@ -199,7 +217,7 @@ def refs(text, here=None, point=False, old=False):
                         i = end = ch.end()
                         continue
                 vm = _VERSE.match(text, j)
-                if vm and k.group(1) != ";" and out[-1]["v"] is not None:
+                if vm and (k.group(1) != ";" or book in SINGLE_CHAPTER) and out[-1]["v"] is not None:
                     v = int(vm.group(1))
                     v2 = int(vm.group(2)) if vm.group(2) else v
                     out.append({"book": book, "c": chapter, "v": v, "c2": chapter, "v2": v2, "at": j, "end": vm.end()})
@@ -248,7 +266,14 @@ def refs(text, here=None, point=False, old=False):
                         i = end = _take(text, cv, book, out, i)
                         chapter = 1
                         continue
+                    pt = _PS_TITLE.match(text, m.end()) if b == "Ps" else None
+                    if pt:
+                        book, chapter = b, int(pt.group(1))
+                        i = end = pt.end()
+                        continue
                     ch = _CHAPTER.match(text, m.end()) if b not in SINGLE_CHAPTER else None
+                    if ch and m.group("name") in _WORDLIKE and not m.group(0).endswith("."):
+                        ch = None
                     if ch:
                         book = b
                         c = int(ch.group(1))

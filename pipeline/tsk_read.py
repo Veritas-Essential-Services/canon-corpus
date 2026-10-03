@@ -143,12 +143,17 @@ def tokens(text):
     return out
 
 
+_TITLE = {"title", "tit"}
+_AFTER_REFS = {"etc", "f", "ff", "title", "tit"}
+
+
 def refs(text, book=None, chapter=None):
     """[(catchword, [ref, ...])] from one entry's text. A ref is a dict:
     {"abbr": the abbreviation as read, or "ch"/"ver";
      "c": chapter (None for "ver": the entry's), "v": verse (None: the whole chapter),
      "c2", "v2": a range's end (None if none),
-     "at": {"c"|"v"|"c2"|"v2": (start, end) of that number in `text`}}.
+     "at": {"c"|"v"|"c2"|"v2": (start, end) of that number in `text`},
+     "title": True for a psalm's title ("Ps 18. title"), which names no KJV verse}.
     Books are not resolved here."""
     toks = tokens(text)
     runs = []
@@ -190,6 +195,12 @@ def refs(text, book=None, chapter=None):
                         c, c_at = a, a_at
                         group.append({"abbr": abbr, "c": c, "v": None, "c2": None, "v2": None,
                                       "at": {"c": c_at}})
+                        # "Ps 18. title": the psalm's title, which the KJV
+                        # does not number -- not the whole psalm
+                        j = i + 1 if sep_at(i, ".,:") else i
+                        if j < n and toks[j][0] == "word" and toks[j][1].lower() in _TITLE:
+                            group[-1]["title"] = True
+                            i = j + 1
                     expect_chapter = False
                 else:
                     r = {"abbr": abbr, "c": c, "v": a, "c2": None, "v2": None, "at": {"v": a_at}}
@@ -227,7 +238,10 @@ def refs(text, book=None, chapter=None):
                     r["bad"] = True
             runs[-1][1].extend(group)
         elif k == "word":
-            kw.append(v)
+            # "etc." / "f." / "ff." after a run of references closes that run;
+            # it is not the next catchword's first word
+            if not (not kw and runs and runs[-1][1] and v.lower() in _AFTER_REFS):
+                kw.append(v)
             i += 1
         else:
             i += 1
@@ -549,7 +563,7 @@ def resolve(r, book, chapter, shape):
     OCR makes of two books gives one candidate per book that has the verse.
     A whole chapter is its first to last verse; a range that runs backwards
     or past the chapter keeps only its first verse. Empty: no such verse."""
-    if r.get("bad"):
+    if r.get("bad") or r.get("title"):
         return []
     if r["abbr"] == "ver":
         cands = [(book, chapter)]
