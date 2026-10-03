@@ -4598,6 +4598,16 @@ Shelf: `pipeline/hauff_shelf.json` (2026-10-02; added at the coordinator's relay
 | hauff-unnamed | excluded | The Little Glass Man and Other Stories (PG 45606): the Gutenberg header names Lina Eckenstein only as contributor; held back until the translator is confirmed |
 | hauff-other | excluded | The Oriental Story Book (24593), The Severed Hand (22664), The Wine-Ghosts of Bremen (32064), The Banished (32071): translator to be checked; candidates for a later batch |
 
+## Margaret Gatty
+
+Shelf: `pipeline/gatty_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Aunt Judy's Tales | have | PG 5074, `gatty-aunt-judys-tales` (1045 units) |
+| The Fairy Godmothers and Other Tales | have | PG 11319, `gatty-fairy-godmothers` (581 units) |
+| gatty-translation | excluded | The History of a Mouthful of Bread (PG 6970): her translation of Jean Macé's science book, not story |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

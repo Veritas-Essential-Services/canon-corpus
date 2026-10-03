@@ -1,0 +1,25 @@
+{
+ "_about": "Margaret Gatty's (1809-1873) stories for children: Aunt Judy's Tales and The Fairy Godmothers and Other Tales. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Margaret Gatty (Mrs. Alfred Gatty)",
+ "_name_words": [
+  "aunt",
+  "judy",
+  "fairy",
+  "godmothers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gatty-aunt-judys-tales": [
+   5074,
+   "Aunt Judy's Tales"
+  ],
+  "gatty-fairy-godmothers": [
+   11319,
+   "The Fairy Godmothers and Other Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "gatty-translation": "The History of a Mouthful of Bread (PG 6970): her translation of Jean Macé's science book, not story"
+ }
+}
