@@ -54,6 +54,12 @@
    "Precepts",
    "William Henry Samuel Jones",
    "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, Vol. 1. Jones, William Henry Samuel, editor. London: William Heinemann Ltd.; Cambridge, MA: Harvard University Press, 1923 (printing)."
+  ],
+  "hippocrates-perseus-jones-epidemics-1-3": [
+   "tlg0627.tlg006.perseus-eng4",
+   "Epidemics I and III",
+   "W. H. S. Jones",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, vol. 1, W. H. S. Jones, Loeb, London: Heinemann; Cambridge, MA: Harvard, 1923."
   ]
  },
  "_surname": [
@@ -66,7 +72,8 @@
   "hippocrates-perseus-jones-nutriment": "William Henry Samuel Jones",
   "hippocrates-perseus-jones-ancient-medicine": "William Henry Samuel Jones",
   "hippocrates-perseus-jones-oath": "William Henry Samuel Jones",
-  "hippocrates-perseus-jones-precepts": "William Henry Samuel Jones"
+  "hippocrates-perseus-jones-precepts": "William Henry Samuel Jones",
+  "hippocrates-perseus-jones-epidemics-1-3": "william henry samuel jones"
  },
  "_checks": {
   "hippocrates-adams-v1": {
@@ -158,6 +165,20 @@
    "urn": "urn:cts:greekLit:tlg0627.tlg051.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
    "translator_checked": "William Henry Samuel Jones",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-jones-epidemics-1-3": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg006.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "william henry samuel jones",
    "author_seen": "hippocrates",
    "source_years": [
     1923
