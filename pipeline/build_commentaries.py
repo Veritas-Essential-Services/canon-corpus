@@ -1082,8 +1082,8 @@ def cross_ranges(text):
 # alone the list's commas become '.' (more verses of the chapter) and a comma after it ';' (a new
 # reference). Only after a Roman chapter or 'N:': an arabic 'N. M, ...' stays FS.parse's
 VERSE_LIST = re.compile(r'(?P<list>(?<![\w])(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}:)\s*\d{1,3}'
-                        r'(?:\s*[-–—]\s*\d{1,3}(?!\s*[.:]\s*\d))?'
-                        r'(?:\s*,\s*\d{1,3}(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\s*[.:]\s*\d))?)+)'
+                        r'(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?'
+                        r'(?:\s*,\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\d)(?!\s*[.:]\s*\d))?)+)'
                         r'(?P<tail>\s*,(?=\s*(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}[.:])\s*\d))?')
 
 
@@ -1091,8 +1091,13 @@ def verse_lists(text):
     """The text as FS.parse should read it: each English verse list's commas '.', and a comma
     after the list before another chapter ';'. Only for FS.parse: the other patterns read
     the text as printed."""
-    return VERSE_LIST.sub(lambda m: m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";"),
+    text = VERSE_LIST.sub(lambda m: m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";"),
                           text)
+    # (review c12) 'Rom. 8:1, 12:3': a comma between two 'N:M' is a new reference, not a verse 12
+    return CHAPTER_COMMA.sub(r"\1;", text)
+
+
+CHAPTER_COMMA = re.compile(r'(?<![\w:])(\d{1,3}:\d{1,3})\s*,(?=\s*\d{1,3}:\d)')
 
 
 # (review c11) the OCR misreadings of SELF_C_OK / SELF_C_ENGLISH words actually found before a
@@ -1122,7 +1127,8 @@ def self_c_refused(text, start):
         return True
     if w[-1] in ",;:":
         return False            # a clause ends before the reference ('Faith: c. ix. 15')
-    if w[:1].isupper() and w.lower() not in SELF_C_ENGLISH:
+    bare = w.lstrip("([") or w   # (review c12) '(Irenaeus c. iv. 3' is a name too
+    if bare[:1].isupper() and bare.lower() not in SELF_C_ENGLISH:
         return True             # a name, mid-sentence or opening one ('Irenaeus c. iv. 3', 'Leo c. v. 11')
     return False
 
