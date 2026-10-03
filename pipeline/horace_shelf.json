@@ -144,6 +144,11 @@
    "odesofhoraceinen00horarich",
    "The Odes of Horace in English, in the original metres (1897)",
    "tr. Philip E. Phelps"
+  ],
+  "horace-green-odes-1903": [
+   "cu31924026490742",
+   "The Odes of Horace and his Secular Hymn rendered in English verse (London, 1903)",
+   "tr. W. C. Green"
   ]
  },
  "_cross_ref": {
@@ -187,7 +192,8 @@
   "horace-whyte-melville-1850": "Melville",
   "horace-ravensworth-odes-1858": "Ravensworth",
   "horace-obrien-odes-i-1860": "O'Brien",
-  "horace-phelps-odes-1897": "Phelps"
+  "horace-phelps-odes-1897": "Phelps",
+  "horace-green-odes-1903": "Green"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -534,6 +540,19 @@
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-green-odes-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "translator_claimed": "Green",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
