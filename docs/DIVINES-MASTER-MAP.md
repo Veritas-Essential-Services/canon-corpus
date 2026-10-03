@@ -7327,6 +7327,14 @@ Shelf: `pipeline/cyrus-macmillan_shelf.json` (2026-10-02; added at the coordinat
 |---|---|---|
 | Canadian Fairy Tales | have | PG 36241, `macmillan-canadian-fairy-tales` (357 units) |
 
+## E. T. C. Werner
+
+Shelf: `pipeline/werner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese myths and legends retold, with his chapters on sociology and mythology; cut by chapter and section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of China | have | PG 15250, `werner-myths-and-legends-of-china` (1227 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

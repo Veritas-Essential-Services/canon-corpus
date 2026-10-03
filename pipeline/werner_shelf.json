@@ -1,0 +1,45 @@
+{
+ "_about": "E. T. C. Werner's Myths and Legends of China (preface dated February 1922). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "E. T. C. Werner",
+ "_name_words": [
+  "werner"
+ ],
+ "_surname": [
+  "e. t. c. werner",
+  "e.t.c. werner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "werner-myths-and-legends-of-china": [
+   15250,
+   "Myths and Legends of China",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+$|Glossary and Index$|GLOSSARY AND INDEX$",
+      "title_next": true
+     },
+     {
+      "re": "(?=[A-Z])[^.!?;:”\"]{1,70}$",
+      "number_repeats": true
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "werner-myths-and-legends-of-china": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. t. c. werner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
