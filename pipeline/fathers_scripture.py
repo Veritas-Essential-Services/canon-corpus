@@ -389,9 +389,11 @@ def read_in(numbering, book, ch, v, ctx):
 def resolve(ref, family, ctx, scheme=None, vote=None):
     """The link fields for one reference, with the id of the rule that made it.
 
-    `scheme(book)` -> (numbering, per_reference) is the edition's measured
-    numbering for that class of book (fathers_numbering.py); without one, the
-    family's. `vote` is the set of numberings the content vote links_for()
+    `scheme(book)` -> (numbering, per_reference[, undecided]) is the edition's
+    measured numbering for that class of book (fathers_numbering.py); without
+    one, the family's. `undecided` names the numberings its evidence leaves
+    open: where one reads another verse, the link carries it as `alt_target`
+    and lists it in `numbering_undecided`. `vote` is the set of numberings the content vote links_for()
     took for this reference's group favours, used only in a class whose
     edition mixes numberings."""
     book, kind, ch, v, end, alt = ref
@@ -411,12 +413,14 @@ def resolve(ref, family, ctx, scheme=None, vote=None):
             out.update({"resolved": False, "why": "no such verse in the KJV (an OCR digit?)"})
         out["map"] = "nt"
         return out
-    numbering, per_ref = scheme(book) if scheme else (FAMILY_NUMBERING[family], False)
+    numbering, per_ref, *rest = scheme(book) if scheme else (FAMILY_NUMBERING[family], False)
+    undecided = tuple(rest[0]) if rest else ()
     how = "edition"
     if per_ref and vote:
         if numbering not in vote:
             numbering = next(x for x in FALLBACK[family] if x in vote)
         how = "content"
+        undecided = ()
     order = [numbering] + [x for x in FALLBACK[family] if x != numbering]
 
     def one(verse):
@@ -432,10 +436,17 @@ def resolve(ref, family, ctx, scheme=None, vote=None):
             r = {**rs[used], "why_numbering": f"the {numbering} numbering has no such verse; the {used} numbering fits"}
         r = {k: r[k] for k in ("resolved", "target", "spans", "why", "why_numbering") if k in r}
         if r.get("resolved"):
-            other = next((rs[x]["target"] for x in order if x != used and rs[x].get("resolved")
-                          and rs[x]["target"] != r["target"]), None)
+            # A rival the edition's evidence leaves open comes first; the link
+            # says the numbering is not settled wherever that rival reads
+            # another verse.
+            open_ = [x for x in undecided if x != used and rs[x].get("resolved")
+                     and rs[x]["target"] != r["target"]] if used == numbering else []
+            other = next((rs[x]["target"] for x in open_ + [x for x in order if x != used]
+                          if rs[x].get("resolved") and rs[x]["target"] != r["target"]), None)
             if other:
                 r["alt_target"] = other
+            if open_:
+                r["numbering_undecided"] = open_
         return r, used
 
     r, used = one(v)
