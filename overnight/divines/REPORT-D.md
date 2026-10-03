@@ -715,3 +715,6 @@
 
 ## 2026-10-03 02:59 CDT — tregarthen: done
 - 2/2 fetched (Gutenberg 37245, 40246), 1,903 units, 0 ~2 ids.
+
+## 2026-10-03 03:01 CDT — ebbutt: done
+- 1/1 fetched (Gutenberg 25502), 1,680 units, 0 ~2 ids.
