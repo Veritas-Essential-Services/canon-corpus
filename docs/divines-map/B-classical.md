@@ -144,6 +144,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
 | Nicomachean Ethics | Harris Rackham (1926) | `aristotle-perseus-rackham-nicomachean-ethics` | have (Perseus TEI `tlg0086.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Metaphysics of Aristotle, literally translated from the Greek (Bohn, 1857) | John H. M'Mahon | `aristotle-mcmahon-metaphysics-1857` | have-raw (IA `metaphysicsaris01arisgoog`) |
+| The Politics and Economics, with Gillies's introductory essay and life (Bohn, 1853) | Edward Walford | `aristotle-walford-politics-economics-1853` | have-raw (IA `politicseconomic00aris`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
