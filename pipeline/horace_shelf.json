@@ -43,6 +43,21 @@
    "worksofhoraceren00hora",
    "The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874)",
    "tr. James Lonsdale and Samuel Lee"
+  ],
+  "horace-martin-odes-1866": [
+   "odesofhoracetran00horarich",
+   "The Odes of Horace translated into English Verse, with a life and notes (Boston: Ticknor and Fields, 1866)",
+   "tr. Theodore Martin"
+  ],
+  "horace-lytton-1869": [
+   "odes00epodesofhorahorarich",
+   "The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869)",
+   "tr. Edward Bulwer-Lytton, Lord Lytton"
+  ],
+  "horace-gladstone-1894": [
+   "odeshorace01gladgoog",
+   "The Odes of Horace translated into English (London: John Murray; preface dated 1894)",
+   "tr. William Ewart Gladstone"
   ]
  },
  "_cross_ref": {
@@ -51,7 +66,8 @@
  "_excluded": {
   "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles now held (IA); Bennett's Odes and Epodes (1914): no scan with a text layer found; pending",
   "Christopher Smart's prose Horace (1756)": "PD; the only scans (IA bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1/_2) are ECCO OCR at 0.74-0.76 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review. Smart's text is held in Buckley's 1869 revision; wanted only from a cleaner scan",
-  "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans found read at 0.61-0.64 clean words. Refused for OCR quality on 2026-10-02; wanted only from a cleaner scan"
+  "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans found read at 0.61-0.64 clean words. Refused for OCR quality on 2026-10-02; wanted only from a cleaner scan",
+  "E. C. Wickham, Horace for English Readers (prose, 1903)": "the scan (horaceforenglis00wickgoog) lacks its title page in the OCR, so the translator and date cannot be read from the file; wanted from another scan"
  },
  "_surname": [
   "horace",
@@ -63,10 +79,13 @@
   "horace-field-sabine-farm": "Roswell Martin Field",
   "horace-fairclough-satires-epistles": "H. Rushton Fairclough",
   "horace-smart-buckley-1869": "C. Smart",
-  "horace-lonsdale-lee-1874": "James Lonsdale"
+  "horace-lonsdale-lee-1874": "James Lonsdale",
+  "horace-lytton-1869": "Lord Lytton",
+  "horace-gladstone-1894": "W. E. Gladstone"
  },
  "_translator_unchecked": {
-  "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')"
+  "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
+  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR"
  },
  "_checks": {
   "horace-conington-odes": {
@@ -151,6 +170,43 @@
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "horace-martin-odes-1866": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-lytton-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "Lord Lytton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-gladstone-1894": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "W. E. Gladstone",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
