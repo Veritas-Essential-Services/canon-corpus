@@ -1,0 +1,30 @@
+{
+ "_about": "Flora J. Cooke's Nature Myths and Stories for Little Children (1895). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Flora J. Cooke",
+ "_name_words": [
+  "cooke"
+ ],
+ "_surname": [
+  "flora j. cooke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cooke-nature-myths": [
+   30800,
+   "Nature Myths and Stories for Little Children"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cooke-nature-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "flora j. cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
