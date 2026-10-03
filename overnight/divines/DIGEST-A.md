@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:35 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:39 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -102,6 +102,7 @@ Round 5 was nearly done by 20:15 CDT. Lane A carries on with the Puritans of Nic
 | William Romaine | romaine_shelf.json | 0 (none exists) | 1 (Whole Works, London: Blake 1837, one volume with Cadogan's Life) | none | other authors named William Romaine; Douglas's attack on him |
 | Isaac Ambrose | isaac-ambrose_shelf.json | 0 (none exists) | 1 (Works, London: Tegg 1829, one volume with memoir) | none | The Christian Warrior (a later abridgement by another hand) |
 | Charles Bridges | charles-bridges_shelf.json | 0 (none exists) | 4 (Works, New York: Carter 1849, 3 vols: Proverbs, Christian Ministry, Psalm 119; Ecclesiastes 1860) | none | Mary Jane Graham's own writings |
+| Charles Simeon | simeon_shelf.json | 0 (none exists) | 21 (Horae Homileticae, London: Holdsworth and Ball 1832-33, complete) | none | none. Note: 34 MB of raw OCR, the largest round-6 shelf |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

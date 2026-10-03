@@ -265,3 +265,6 @@
 
 ## 2026-10-02 20:35 CDT — charles-bridges done
 - `pipeline/charles-bridges_shelf.json`: 4 items, raw IA OCR, median 97.1% (96.5-98.2%), about 6.2 MB. Each Works volume's contents were read from its title page. Ecclesiastes: the California scan's OCR garbles his name, so the gate refused it; the Princeton scan, which names him, is used. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:39 CDT — simeon done
+- `pipeline/simeon_shelf.json`: 21 volumes, raw IA OCR, median 98.8% (97.8-99.0%), about 34 MB. Title pages read (Holdsworth and Ball; vol. 1 Genesis to Leviticus, vol. 21 Revelation, Claude, index); the figure 2,536 is the number of the last outline in vol. 21. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

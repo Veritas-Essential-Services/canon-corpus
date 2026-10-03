@@ -989,6 +989,15 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `bridges-*`.
 | Works (New York: Carter, 1849): vol. 1 Proverbs, vol. 2 The Christian Ministry, vol. 3 Psalm 119 with the Memoir of Mary Jane Graham | have-raw | IA (identifiers in the shelf) |
 | An Exposition of the Book of Ecclesiastes (1860) | have-raw | IA |
 | Separate editions (1832-1865) | alternate | IA |
+
+## Charles Simeon (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `simeon-horae-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Horae Homileticae, 21 vols (London: Holdsworth and Ball, 1832-33): 2,536 sermon outlines, Genesis to Revelation, with Claude's Essay on the Composition of a Sermon and an index | have-raw | IA (identifiers in the shelf) |
+| Toronto scan of the same set; the 1819 and 1855 editions | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

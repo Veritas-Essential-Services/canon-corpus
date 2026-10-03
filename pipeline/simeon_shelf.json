@@ -1,0 +1,339 @@
+{
+ "_about": "Public-domain Charles Simeon (1759-1836, evangelical Anglican, vicar of Holy Trinity, Cambridge) for the Word Hoard: Horae Homileticae (London, 1832-33, 21 vols: 2,536 sermon outlines forming a commentary on every book of the Bible, with his translation of Claude's Essay on the Composition of a Sermon), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "simeon",
+  "charles",
+  "horae",
+  "homileticae"
+ ],
+ "_surname": [
+  "simeon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "simeon-horae-01": [
+   "horaehomileticae183301sime",
+   "Horae Homileticae, vol. 1 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-02": [
+   "horaehomileticae183302sime",
+   "Horae Homileticae, vol. 2 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-03": [
+   "horaehomileticae183303sime",
+   "Horae Homileticae, vol. 3 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-04": [
+   "horaehomileticae183304sime",
+   "Horae Homileticae, vol. 4 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-05": [
+   "horaehomileticae183305sime",
+   "Horae Homileticae, vol. 5 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-06": [
+   "horaehomileticae183306sime",
+   "Horae Homileticae, vol. 6 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-07": [
+   "horaehomileticae07sime",
+   "Horae Homileticae, vol. 7 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-08": [
+   "horaehomileticae183308sime",
+   "Horae Homileticae, vol. 8 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-09": [
+   "horaehomileticae183309sime",
+   "Horae Homileticae, vol. 9 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-10": [
+   "horaehomileticae183310sime",
+   "Horae Homileticae, vol. 10 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-11": [
+   "horaehomileticae183311sime",
+   "Horae Homileticae, vol. 11 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-12": [
+   "horaehomileticae12sime",
+   "Horae Homileticae, vol. 12 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-13": [
+   "horaehomileticae13sime",
+   "Horae Homileticae, vol. 13 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-14": [
+   "horaehomileticae14sime",
+   "Horae Homileticae, vol. 14 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-15": [
+   "horaehomileticae15sime",
+   "Horae Homileticae, vol. 15 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-16": [
+   "horaehomileticae16sime",
+   "Horae Homileticae, vol. 16 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-17": [
+   "horaehomileticae17sime",
+   "Horae Homileticae, vol. 17 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-18": [
+   "horaehomileticae18sime",
+   "Horae Homileticae, vol. 18 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-19": [
+   "horaehomileticae19sime",
+   "Horae Homileticae, vol. 19 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-20": [
+   "horaehomileticae20sime",
+   "Horae Homileticae, vol. 20 (London: Holdsworth and Ball, 1832-33)"
+  ],
+  "simeon-horae-21": [
+   "horaehomileticae21sime",
+   "Horae Homileticae, vol. 21 (London: Holdsworth and Ball, 1832-33)"
+  ]
+ },
+ "_alternates": {
+  "worksofsimeon*simeuoft, entireworksofrev*simeuoft, simeonswork*simeuoft, theentireworks*simeuoft (Trinity College, Toronto, 1833)": "A second scan of the same 21-volume set, under the binder's title 'The Entire Works'.",
+  "horaehomileticae01..10sime (1819, 11 vols); horaehomiletica*horngoog (1855)": "The earlier and later editions."
+ },
+ "_excluded": {},
+ "_checks": {
+  "simeon-horae-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-08": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-09": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-11": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-12": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-13": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-14": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-15": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-16": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-17": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-18": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-19": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-20": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simeon-horae-21": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "simeon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
