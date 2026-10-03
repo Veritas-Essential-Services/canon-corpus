@@ -1,0 +1,21 @@
+{
+ "_about": "Philostratus in English: Edward Berwick's Life of Apollonius of Tyana (London, 1809), complete in one volume, and J. S. Phillimore's In Honour of Apollonius of Tyana (Oxford, 1912), vol. 1 of 2 (vol. 2 not found), both raw IA OCR. F. C. Conybeare's Loeb (1912) is Greek facing and held back like the other Greek-facing Loebs.",
+ "_name_words": [
+  "philostratus",
+  "apollonius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "philostratus-berwick-apollonius": [
+   "lifeofapollonius00phil",
+   "The Life of Apollonius of Tyana, translated from the Greek of Philostratus (London, 1809)",
+   "tr. Edward Berwick"
+  ],
+  "philostratus-phillimore-apollonius-v1": [
+   "philostratusinho00philuoft",
+   "Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912)",
+   "tr. J. S. Phillimore"
+  ]
+ }
+}
