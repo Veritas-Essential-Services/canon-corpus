@@ -635,3 +635,7 @@
 
 ## 2026-10-03 06:48 CDT — richard-cecil done
 - `pipeline/richard-cecil_shelf.json`: 2 IA volumes. `--verify --record`: 0 mismatched. OCR 98.9%. 0 uids minted.
+
+## 2026-10-03 06:49 CDT — review cycle 12 follow-ups
+- Horsley: dropped the name form "samuel, lord bishop" (any Bishop Samuel would match). The 1789 Tracts then failed, because its title page names him only by his see ("Samuel, Lord Bishop of St. David's"). That reading is now in `_identity_checked`, and the re-record shows 0 mismatched. Commit 2e7ba2e had briefly pushed the shelf without that reading, and with a stale record.
+- Nettleton had already been dropped from the queue (skipped; PR #14 owns him).

@@ -68,6 +68,9 @@
  "_identity_checked": {
   "horsley-hosea": {
    "author": "Title page read 2026-10-03: the OCR gives 'HOSEA. TRANSLATED FROM THE HEBREW; WITH NOTES EXPLANATORY AND CRITICAL. BY SAMUEL LORD BISHOP OF ROCHESTER. LONDON: PRINTED BY NICHOLS AND SON ... FOR JAMES ROBSON ... 1801'. Horsley was Bishop of Rochester from 1793 to 1802 and signed by his see, so his surname is not printed."
+  },
+  "horsley-tracts-priestley-1789": {
+   "author": "Title page read 2026-10-03: the OCR gives 'TRACTS IN Controversy with Dr. Priestley UPON THE HISTORICAL QUESTION ... BY THE AUTHOR, SAMUEL, LORD BISHOP OF ST. DAVID's. GLOCESTER: Printed by R. Raikes ... M. DCC. LXXXIX.' Horsley was Bishop of St David's from 1788 to 1793 and signed by his see; the controversy with Priestley is his."
   }
  },
  "_checks": {
@@ -99,7 +102,7 @@
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
-   "identity": "MISMATCH: surname ['samuel horsley', 's. horsley', 'bishop horsley', 'horsley, samuel', 'dr. horsley'] never appears as a word in the ia text",
+   "identity": "identity_override",
    "ia_rights": "ok: published 1789",
    "ia_date": "1789",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
