@@ -28,6 +28,11 @@
    "sallusttrbywros00crisgoog",
    "Sallust, translated by W. Rose, with improvements and notes (Valpy's Family Classical Library, 1830)",
    "tr. William Rose (revised)"
+  ],
+  "sallust-pollard-1882": [
+   "catilinejugurtha00sallrich",
+   "The Catiline and Jugurtha of Sallust translated into English (Macmillan, 1882)",
+   "tr. Alfred W. Pollard"
   ]
  },
  "_excluded": {},
@@ -39,7 +44,8 @@
   "sallust-watson": "J. S. Watson",
   "sallust-rolfe": "J. C. Rolfe",
   "sallust-gordon-1744": "T. Gordon",
-  "sallust-rose-1830": "William Rose"
+  "sallust-rose-1830": "William Rose",
+  "sallust-pollard-1882": "Pollard"
  },
  "_checks": {
   "sallust-watson": {
@@ -91,6 +97,19 @@
    "identity": "title_weak",
    "ia_rights": "ok: published 1830",
    "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sallust-pollard-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "Pollard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
