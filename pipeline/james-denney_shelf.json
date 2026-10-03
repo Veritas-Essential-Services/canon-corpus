@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain James Denney (1856-1917, Free Church of Scotland, professor of systematic and New Testament theology at the United Free Church College, Glasgow) for the Word Hoard: The Death of Christ and his two Expositor's Bible volumes (Second Corinthians; Thessalonians), clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "d/denney",
+ "_name_words": [
+  "denney",
+  "james"
+ ],
+ "_surname": [
+  "james denney",
+  "j. denney",
+  "denney, james",
+  "denney"
+ ],
+ "_held": {},
+ "ccel": {
+  "denney-death-of-christ": [
+   "christ_death",
+   "The Death of Christ",
+   ""
+  ],
+  "denney-2-corinthians": [
+   "expositor2cor",
+   "The Expositor's Bible: The Second Epistle to the Corinthians",
+   ""
+  ],
+  "denney-thessalonians": [
+   "expositorthess",
+   "The Expositor's Bible: The Epistles to the Thessalonians",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "denney-death-of-christ": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james denney",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1911",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "denney-2-corinthians": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james denney",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1894.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "denney-thessalonians": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james denney",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Hodder and Stoughton",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

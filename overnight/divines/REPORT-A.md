@@ -542,3 +542,6 @@
 
 ## 2026-10-03 05:40 CDT — a-b-bruce done
 - `pipeline/a-b-bruce_shelf.json`: 1 CCEL + 4 IA, all fetched. Title pages read for imprint and year. `--verify --record`: 0 mismatched. OCR 98.4% mean, lowest Humiliation 94.4%. Parabolic Teaching pending (HTTP 500). 0 uids minted.
+
+## 2026-10-03 05:42 CDT — james-denney done
+- `pipeline/james-denney_shelf.json`: 3 CCEL texts, print sources Hodder 1894 and a 1911 printing. `--verify --record`: 0 mismatched. 0 uids minted.

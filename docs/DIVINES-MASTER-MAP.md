@@ -1920,6 +1920,14 @@ Slugs `bruce-*`. Name forms are full forms only (no bare "bruce").
 | The Training of the Twelve | have-clean | CCEL (print source not named) |
 | The Humiliation of Christ (2nd ed., 1889); The Kingdom of God (1889); St. Paul's Conception of Christianity (1896); The Epistle to the Hebrews (1899) | have-ocr | IA, OCR 94-99% |
 | The Parabolic Teaching of Christ | pending | IA copy returned HTTP 500 |
+
+## James Denney (round 12, my pick, 2026-10-03)
+
+Slugs `denney-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Death of Christ; The Second Epistle to the Corinthians; The Epistles to the Thessalonians | have-clean | CCEL (print sources 1894-1911) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

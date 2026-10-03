@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 05:40 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 05:42 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -232,6 +232,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | R. A. Torrey | r-a-torrey_shelf.json | 3 CCEL (How to Pray; The Person and Work of the Holy Spirit, keyed from a 1974 Zondervan reprint; Revival Addresses, Revell 1903) | none | none | Torrey's New Topical Textbook (a verse index) |
 | Horace Bushnell (veto point: moral-influence atonement) | horace-bushnell_shelf.json | 5 CCEL (Christian Nurture; The Vicarious Sacrifice, Scribner 1868-76; Sermons for the New Life; Christ and His Salvation; The Character of Jesus) | none | none | none |
 | A. B. Bruce | a-b-bruce_shelf.json | 1 CCEL (The Training of the Twelve, print source not named) + 4 IA (Humiliation of Christ 2nd ed. 1889, Kingdom of God 1889, St. Paul's Conception 1896, Hebrews 1899) | Parabolic Teaching (IA HTTP 500) | none | none |
+| James Denney | james-denney_shelf.json | 3 CCEL (The Death of Christ, keyed from a 1911 printing; Expositor's Bible Second Corinthians, Hodder 1894; Thessalonians, Hodder) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
