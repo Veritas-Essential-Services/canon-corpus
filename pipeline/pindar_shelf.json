@@ -1,5 +1,5 @@
 {
- "_about": "Pindar in English, translator per title. Ernest Myers, The Extant Odes (1874), clean Gutenberg. Dawson W. Turner's literal prose (Bohn, 1852) with Abraham Moore's metrical version appended, raw IA OCR (1872 reprint, the cleaner scan). Moore's Olympic and Pythian odes also exist as a c1903 Boston reprint; not taken, it duplicates the Bohn appendix. Cary's Pindar (1833) is on lane C's cary shelf: cross-referenced, not fetched.",
+ "_about": "Pindar in English, translator per title. Ernest Myers, The Extant Odes (1874), clean Gutenberg. Dawson W. Turner's literal prose (Bohn, 1852) with Abraham Moore's metrical version appended, raw IA OCR (1872 reprint, the cleaner scan). Moore's Olympic and Pythian odes also exist as a c1903 Boston reprint; not taken, it duplicates the Bohn appendix. Also: F. A. Paley's prose (1868) and C. A. Wheelwright's verse (Valpy, 1830), raw IA OCR. Cary's Pindar (1833) is on lane C's cary shelf: cross-referenced, not fetched (a duplicate row added here on 2026-10-03 was withdrawn on review).",
  "_name_words": [
   "pindar",
   "odes",
@@ -35,11 +35,6 @@
    "The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868)",
    "tr. F. A. Paley"
   ],
-  "pindar-cary-1833": [
-   "pindarinenglish00carygoog",
-   "Pindar in English Verse (London: Edward Moxon; IA records 1833)",
-   "tr. Henry Francis Cary"
-  ],
   "pindar-wheelwright-1830": [
    "pindartrbycawhe00pindgoog",
    "Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830)",
@@ -66,8 +61,7 @@
  "_translator_unchecked": {
   "pindar-west-1749": "the long-s OCR never prints Gilbert West's name; 'west' alone is a common word and proves nothing",
   "pindar-laurent-prose-1824": "attributed by the catalogue; the title page names no translator",
-  "pindar-paley-1868": "title page OCRs the name as 'F. A. PA LET, M.A., editor and translator of Aeschylus' (Williams and Norgate, 1868); the claim is not matched as written",
-  "pindar-cary-1833": "title page OCRs the name as 'HENRY FRANCIS ClUY, A.M.' (Moxon); the claim is not matched as written"
+  "pindar-paley-1868": "title page OCRs the name as 'F. A. PA LET, M.A., editor and translator of Aeschylus' (Williams and Norgate, 1868); the claim is not matched as written"
  },
  "_checks": {
   "pindar-myers": {
@@ -126,17 +120,6 @@
    "ia_rights": "ok: published 1868",
    "ia_date": "1868",
    "ia_possible_copyright_status": null,
-   "ia_lending": null
-  },
-  "pindar-cary-1833": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "pindar",
-   "identity": "ok",
-   "ia_rights": "ok: published 1833",
-   "ia_date": "1833",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
   "pindar-wheelwright-1830": {
