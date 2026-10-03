@@ -1,0 +1,70 @@
+{
+ "_about": "Charles G. D. Roberts's animal stories: The Kindred of the Wild (copyright 1896-1902 in its stories) and The Watchers of the Trails (copyright 1903-1904; this printing New York, A. Wessels, 1906). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Charles G. D. Roberts",
+ "_name_words": [
+  "roberts"
+ ],
+ "_surname": [
+  "charles g. d. roberts",
+  "charles g d roberts"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cgdroberts-kindred-of-the-wild": [
+   46040,
+   "The Kindred of the Wild: A Book of Animal Life",
+   {
+    "levels": [
+     {
+      "re": "(?i:[\\W_]*(?:When[\\W_]*Twilight[\\W_]*Falls[\\W_]*on[\\W_]*the[\\W_]*Stump[\\W_]*Lots|The[\\W_]*Haunter[\\W_]*of[\\W_]*the[\\W_]*Pine[\\W_]*Gloom|The[\\W_]*Watchers[\\W_]*of[\\W_]*the[\\W_]*Camp[\\W_]*Fire|The[\\W_]*King[\\W_]*of[\\W_]*the[\\W_]*Mamozekel|Introductory[\\W_]*The[\\W_]*Animal[\\W_]*Story|The[\\W_]*Homesickness[\\W_]*of[\\W_]*Kehonka|The[\\W_]*Lord[\\W_]*of[\\W_]*the[\\W_]*Air|The[\\W_]*Boy[\\W_]*and[\\W_]*Hushwing|In[\\W_]*Panoply[\\W_]*of[\\W_]*Spears|A[\\W_]*Treason[\\W_]*of[\\W_]*Nature|The[\\W_]*Moonlight[\\W_]*Trails|Wild[\\W_]*Motherhood|Savoury[\\W_]*Meats)[\\W_]*)$"
+     },
+     {
+      "re": "[IVX]+\\.$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "Introductory The Animal Story$",
+    "front": true
+   }
+  ],
+  "cgdroberts-watchers-of-the-trails": [
+   25718,
+   "The Watchers of the Trails: A Book of Animal Life",
+   {
+    "levels": [
+     {
+      "re": "(?i:The\\ Freedom\\ of\\ the\\ Black\\-faced\\ Ram|The\\ Master\\ of\\ Golden\\ Pool|The\\ Return\\ to\\ the\\ Trails|The\\ Little\\ Wolf\\ of\\ the\\ Pool|The\\ Little\\ Wolf\\ of\\ the\\ Air|The\\ Alien\\ of\\ the\\ Wild|The\\ Silver\\ Frost|By\\ the\\ Winter\\ Tide|The\\ Rivals\\ of\\ Ringwaak|The\\ Decoy|The\\ Laugh\\ in\\ the\\ Dark|The\\ Kings\\ of\\ the\\ Intervale|The\\ Kill|The\\ Little\\ People\\ of\\ the\\ Sycamore|Horns\\ and\\ Antlers|In\\ the\\ Deep\\ of\\ the\\ Grass|When\\ the\\ Moon\\ Is\\ over\\ the\\ Corn|The\\ Truce|The\\ Keeper\\ of\\ the\\ Water\\-Gate|When\\ the\\ Moose\\ Cow\\ Calls|The\\ Passing\\ of\\ the\\ Black\\ Whelps|The\\ Homeward\\ Trail)$"
+     },
+     {
+      "re": "[IVX]+\\.$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "The Freedom of the Black-faced Ram$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cgdroberts-kindred-of-the-wild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. d. roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cgdroberts-watchers-of-the-trails": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. d. roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
