@@ -136,3 +136,4 @@
 - **Cicero (03:00):** ten volumes of older translations: Guthrie, Heberden, Francklin, Jeans.
 - **Thucydides and Pliny (05:44):** Bloomfield's Thucydides and Orrery's Pliny. Reviewer cycle 10 done. (The run paused 03:02-05:40 on a tool rate limit.)
 - Queen Elizabeth I's Boethius (EETS 1899) is now on the boethius shelf: it is an edited Tudor manuscript text, so its spelling is old; no decision needed unless you want it kept apart.
+- 06:05 Homer: 22 more volumes of verse translations, all published 1809-1911; nothing needs a decision.

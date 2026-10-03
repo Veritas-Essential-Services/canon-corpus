@@ -2322,6 +2322,28 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1868) | John Conington | `homer-conington-iliad-1868-v2` | have-raw (IA `iliadhomertrans01conigoog`) |
 | The Iliad of Homer done into English Verse, vol. I, books I-XII (Sampson Low, 1886) | Arthur S. Way | `homer-way-iliad-1886-v1` | have-raw (IA `iliadhomer01home`) |
 | The Iliad of Homer done into English Verse, vol. II, books XIII-XXIV (Sampson Low, 1888) | Arthur S. Way | `homer-way-iliad-1888-v2` | have-raw (IA `iliaddoneintoen02homegoog`) |
+| The Odyssey translated into English verse, vol. I: Books I-VIII (John Murray, 1903) | J. W. Mackail | `homer-mackail-odyssey-1903-v1` | have-raw (IA `cu31924087936112`) |
+| The Odyssey translated into English verse, vol. II: Books IX-XVI (John Murray, 1905) | J. W. Mackail | `homer-mackail-odyssey-1905-v2` | have-raw (IA `cu31924087936120`) |
+| The Odyssey translated into English verse, vol. III: Books XVII-XXIV (John Murray, 1910) | J. W. Mackail | `homer-mackail-odyssey-1910-v3` | have-raw (IA `cu31924087936138`) |
+| Homer's Odyssey, a line-for-line translation in the metre of the original (Harrap, 1911) | H. B. Cotterill | `homer-cotterill-odyssey-1911` | have-raw (IA `homersodyssey00homeuoft`) |
+| The Odyssey of Homer, Books I-XII, translated into English verse (1886) | the Earl of Carnarvon | `homer-carnarvon-odyssey-1886` | have-raw (IA `homerodyssey00homerich`) |
+| Homer's Iliad, vol. II (Boston: Little and Brown, 1846) | William Munford | `homer-munford-iliad-1846-v2` | have-raw (IA `homersiliad00munfgoog`) |
+| The Iliad of Homer translated into English verse, vol. I: Books I-XII (1861) | Ichabod Charles Wright | `homer-wright-iliad-1861-v1` | have-raw (IA `wrighthomer00homerich`) |
+| Homer and the Iliad, vol. II: The Iliad in English verse, Books I-XII (Edinburgh: Edmonston and Douglas, 1866) | John Stuart Blackie | `homer-blackie-iliad-1866-v2` | have-raw (IA `homeriliad02homeuoft`) |
+| Homer and the Iliad, vol. III: The Iliad in English verse, Books XIII-XXIV (Edinburgh: Edmonston and Douglas, 1866) | John Stuart Blackie | `homer-blackie-iliad-1866-v3` | have-raw (IA `homeriliad33homeuoft`) |
+| The Iliad of Homer, homometrically translated (London, 1877) | C. B. Cayley | `homer-cayley-iliad-1877` | have-raw (IA `iliadhomer02caylgoog`) |
+| Homer's Iliad in English rhymed verse, 2 vols. in one file (London, 1869) | Charles Merivale | `homer-merivale-iliad-1869` | have-raw (IA `homersiliadineng00home`) |
+| The Iliad of Homer translated, 2 vols. in one file (1809) | James Morrice | `homer-morrice-iliad-1809` | have-raw (IA `homeriliadof00homerich`) |
+| The Odyssey of Homer rendered into English blank verse, vol. II: Books XIII-XXIV (London: Bell and Daldy, 1865) | George Musgrave | `homer-musgrave-odyssey-1865-v2` | have-raw (IA `odysseyhomer00musggoog`) |
+| The Odyssey of Homer rendered into English blank verse (London, 1876) | Mordaunt Barnard | `homer-barnard-odyssey-1876` | have-raw (IA `odysseyofhomerre00homerich`) |
+| The Odyssey of Homer rendered into English verse, Books I-XII (John Murray, 1879) | G. A. Schomberg | `homer-schomberg-odyssey-1879-v1` | have-raw (IA `odysseyrendered00schogoog`) |
+| The Odyssey of Homer rendered into English verse, Books XIII-XXIV (London, 1882) | G. A. Schomberg | `homer-schomberg-odyssey-1882-v2` | have-raw (IA `odysseyrendered01schogoog`) |
+| The Iliad of Homer, Books I-IV, translated into English verse (George Bell, 1885) | H. Smith Wright | `homer-hs-wright-iliad-1885` | have-raw (IA `iliadhomer00wriggoog`) |
+| The Iliad of Homer translated, vol. I (1871) | J. G. Cordery | `homer-cordery-iliad-1871-v1` | have-raw (IA `iliadhomer02cordgoog`) |
+| The Iliad of Homer translated, vol. II (1871) | J. G. Cordery | `homer-cordery-iliad-1871-v2` | have-raw (IA `iliadhomer00cordgoog`) |
+| The Iliad and Odyssey, vol. I: the Iliad (London: Nicol and Murray, 1833 set) | William Sotheby | `homer-sotheby-iliad-1833-v1` | have-raw (IA `iliadodyssey01home`) |
+| The Iliad and Odyssey, vol. II: the Iliad (London: Nicol and Murray, 1833 set) | William Sotheby | `homer-sotheby-iliad-1833-v2` | have-raw (IA `iliadodyssey02home`) |
+| The Iliad and Odyssey, vol. IV: the Odyssey (London: Nicol and Murray, 1833) | William Sotheby | `homer-sotheby-odyssey-1833-v4` | have-raw (IA `iliadodyssey04home`) |
 
 Pending (wishlist): none known beyond the rows above.
 

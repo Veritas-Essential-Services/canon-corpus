@@ -463,3 +463,9 @@
 - Storage-node workaround for archive.org/download 500s: Melmoth vol. I, Queen Elizabeth's Englishings (EETS 1899), Sheppard's Oedipus (1922), Perley Smith's Eclogues (1909)
 - Aelian 1670 refused (OCR 0.66)
 - juvenal: Wollaston's Persius (1841) and Leeper's Juvenal (1902)
+
+## 2026-10-03 06:05 CDT — Homer verse translations
+- homer: 15 translators, 22 volumes (Mackail, Cotterill, Carnarvon, Munford, I. C. Wright, Blackie, Cayley, Merivale, Morrice, Musgrave, Barnard, Schomberg, H. S. Wright, Cordery, Sotheby)
+- Missing companion volumes: Munford I, Wright II, Musgrave I, Sotheby III (503)
+- Refused: Green 1884 (OCR 0.53); Herschel 1866 404
+- verify: 47 items, 0 mismatched

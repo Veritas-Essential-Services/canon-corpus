@@ -764,6 +764,14 @@
    "started": "2026-10-03T05:44:39-05:00",
    "finished": "2026-10-03T05:57:44-05:00",
    "notes": "Horace _surname no longer matches Horace Bushnell. _perseus_licence (shelf-level statement, never a gate) on all 21 Perseus shelves; fetch_perseus_test 16 pass. Recovered via storage nodes: Melmoth vol. I (cicero), Queen Elizabeth's Englishings EETS 1899 (boethius), Sheppard's Oedipus 1922 (sophocles), Perley Smith's Eclogues 1909 (virgil). Juvenal shelf: Wollaston's Persius 1841 (with his Horace Epodes; horace cross-ref), Leeper's Juvenal 1902. Stephenson's Martial (IA labels it Webb) is a Latin school edition, not taken."
+  },
+  {
+   "id": "homer-verse-translations",
+   "status": "done",
+   "scope": "Homer: nineteenth-century verse translations not yet on the shelf",
+   "started": "2026-10-03T05:57:44-05:00",
+   "finished": "2026-10-03T06:05:27-05:00",
+   "notes": "Added 15 translators, 22 volumes: Mackail Odyssey I-III (1903-10), Cotterill Odyssey 1911, Carnarvon Odyssey I-XII 1886, Munford Iliad vol. II 1846, I. C. Wright Iliad vol. I 1861, Blackie Iliad vols. II-III 1866, Cayley Iliad 1877, Merivale Iliad 1869, Morrice Iliad 1809, Musgrave Odyssey vol. II 1865, Barnard Odyssey 1876, Schomberg Odyssey 1879/1882, H. Smith Wright Iliad I-IV 1885, Cordery Iliad 1871, Sotheby Iliad and Odyssey 1833 (vols. I, II, IV). Not found as text: Munford vol. I, Wright vol. II, Musgrave vol. I, Mackail duplicate scans skipped. Sotheby vol. III answered 503; Herschel's Iliad (1866) 404. W. C. Green's Iliad with verse translation (1884) refused, OCR 0.53. Homer 47 items, verify 0 mismatched."
   }
  ]
 }
