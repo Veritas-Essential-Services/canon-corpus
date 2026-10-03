@@ -479,3 +479,6 @@
 
 ## 2026-10-03 02:22 CDT — thomas-wilson done
 - `pipeline/thomas-wilson_shelf.json`: 6 IA volumes of raw OCR, median 98.6% (96.4-99.4%), about 8 MB. Each title page was read (1847, 1847, 1851, 1860, 1859, 1863). Vol. 1 turned out to be Keble's Life of Wilson, part II, and was excluded as Keble's book. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:24 CDT — daniel-waterland done
+- `pipeline/daniel-waterland_shelf.json`: 9 IA volumes of the 1823 Clarendon Works, raw OCR, median 95.3% (94.5-97.9%), about 9 MB. Each title page shows its volume number and MDCCCXXIII. Two Claremont scans without a volume number (worksofrevdaniel0000wate, _u3f1) were not tried. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

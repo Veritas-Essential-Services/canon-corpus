@@ -1724,6 +1724,16 @@ Slugs `twilson-works-NN`.
 |---|---|---|
 | Works (Library of Anglo-Catholic Theology), vols 2-7 (Oxford: J. H. Parker, 1847-63; years from the title pages) | have-raw | IA (identifiers in the shelf) |
 | Works, vol. 1: Keble's Life of Wilson (1863) | excluded | Keble's book; could go on the john-keble shelf |
+
+
+## Daniel Waterland (round 11, my pick, 2026-10-03)
+
+Slugs `waterland-works-NN`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Rev. Daniel Waterland, ed. W. Van Mildert (Oxford: Clarendon Press, 1823), vols 1-9 | have-raw | IA (identifiers in the shelf) |
+| Any further volume of that edition | not found | two Claremont scans with no volume number were not tried |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
