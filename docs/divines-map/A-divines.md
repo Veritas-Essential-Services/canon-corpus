@@ -1688,3 +1688,12 @@ Slugs `jcotton-*`.
 |---|---|---|
 | The Keyes of the Kingdom of Heaven (London, 1644; Boston: Tappan and Dennet reprint, 1843) | have-raw | IA (identifier in the shelf) |
 | Other works (The Way of Life, Christ the Fountain of Life, Milk for Babes) | not shelved | only 1640s printings or modern facsimiles found |
+
+
+## Samuel Willard (round 11, my pick, 2026-10-03)
+
+Slugs `willard-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compleat Body of Divinity (Boston: Green and Kneeland, catalogued 1726) | have-raw | IA (identifier in the shelf); 85.5% OCR, long s read as f |

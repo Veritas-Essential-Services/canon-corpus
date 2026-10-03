@@ -470,3 +470,6 @@
 
 ## 2026-10-03 02:16 CDT — john-cotton done
 - `pipeline/john-cotton_shelf.json`: 1 IA volume (The Keyes of the Kingdom, 1843 reprint), 95.4% OCR. Nothing else of his turned up in a 19th-century edition. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:16 CDT — samuel-willard done
+- `pipeline/samuel-willard_shelf.json`: 1 IA volume, the 1726 folio (1,016 page images, about 6.8 MB), 85.5% OCR. Its long s is read as f, and the title-page numeral is garbled, so it is labelled "catalogued 1726". It is the only pre-1930 copy on IA. `--verify --record`: 0 mismatched. 0 uids minted.
