@@ -115,7 +115,7 @@ r = R("Esth.15.3", "douay")
 check("review: Mordecai's charge (Vulgate Esth 15:3) has no key and says why",
       r and not r["resolved"] and "4:8" in r["why"])
 check("review: Latin-only verses (Sir 3:1, 23:31; Tob 1:15) have no key",
-      all(not R(x, "douay")["resolved"] and "Jerome's Latin has this" in R(x, "douay")["why"]
+      all(not R(x, "douay")["resolved"] and "the Vulgate's Latin has this" in R(x, "douay")["why"]
           for x in ("Sir.3.1", "Sir.23.31", "Tob.1.15")))
 check("every Douay house row is listed with its why", len(W["douay"]["house_rows"]) >= 30
       and all(h["why"] for h in W["douay"]["house_rows"].values()))

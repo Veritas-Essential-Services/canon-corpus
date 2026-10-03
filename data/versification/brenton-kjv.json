@@ -27,7 +27,7 @@
   "brenton_verses": 28617,
   "kjv_verses": 23145,
   "brenton_verses_landing_on_no_kjv_verse_unexplained": 0,
-  "kjv_verses_reached_from_no_brenton_verse": 243,
+  "kjv_verses_reached_from_no_brenton_verse": 242,
   "tvtms_blocks_followed": 296,
   "tvtms_tests_brenton_cannot_answer": 67
  },
@@ -809,6 +809,7 @@
   "2Sam.23.29": {
    "kjv": [
     "2Sam.23.29",
+    "2Sam.23.30",
     "2Sam.23.31",
     "2Sam.23.32"
    ],
@@ -2662,7 +2663,6 @@
   "1Sam.18.19": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Sam.18.30": "TextMayBeMissing: Greek Absent (TVTMS line 517)",
   "1Sam.23.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
-  "2Sam.23.30": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.6.11": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.6.12": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
   "1Kgs.6.13": "Brenton prints no verse of this number and TVTMS does not say why; not read verse by verse, so the text may stand in a neighbouring verse of his (review found Gen 35:21 in his 35:16 and 2 Sam 23:31 in his 23:29)",
@@ -3365,6 +3365,7 @@
   "2Sam.19.44": "2Sam.19.43",
   "2Sam.23.29": [
    "2Sam.23.29",
+   "2Sam.23.30",
    "2Sam.23.31",
    "2Sam.23.32"
   ],

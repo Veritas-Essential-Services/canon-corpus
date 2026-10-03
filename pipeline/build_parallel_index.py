@@ -26,7 +26,8 @@ WHERE EACH COLUMN COMES FROM (nothing here is a new judgement):
   greek_nt  data/nt/passages.jsonl + witnesses.jsonl: the RP2018 Greek is a
             witness of the KJV verse's own passage, so its ref is the KJV's.
             On this branch only the John 1:1-18 pilot; the whole Greek NT
-            (PR #8) fills the column when it lands.
+            (PR #8, one folder per book: both layouts are read) fills the
+            column when it lands. Rebuild the index after #8 merges.
   vulgate, douay, brenton, geneva, tyndale, ylt, darby, asv
             each unit's `kjv` in data/books/<slug>.json (gitignored: built by
             structure_texts.py from the pinned sources, through the committed
@@ -71,6 +72,24 @@ def _kjv_of(r):
     return [t[4:] if t.startswith("kjv:") else t for t in ts if not t.endswith(".title")]
 
 
+def _nt_rows(name):
+    """Every row of data/nt's `name`: the flat file (the John 1 pilot) and, as
+    PR #8 lays the whole Greek NT out, one folder per book (data/nt/<Book>/)."""
+    nt = os.path.join(ROOT, "data", "nt")
+    paths = [os.path.join(nt, name)] + sorted(
+        os.path.join(nt, d, name) for d in os.listdir(nt) if os.path.isdir(os.path.join(nt, d)))
+    found = False
+    for path in paths:
+        if os.path.exists(path):
+            found = True
+            with open(path, encoding="utf-8") as f:
+                for line in f:
+                    if line.strip():
+                        yield json.loads(line)
+    if not found:
+        _stop(f"no data/nt/{name}, flat or per book")
+
+
 def columns():
     rows = {}
 
@@ -86,18 +105,13 @@ def columns():
             for k in V.targets(ref, heb):
                 if not k.endswith(".title"):
                     add(k, "hebrew", ref)
-    nt = os.path.join(ROOT, "data", "nt")
     greek = set()
-    with open(os.path.join(nt, "witnesses.jsonl"), encoding="utf-8") as f:
-        for line in f:
-            w = json.loads(line)
-            if w.get("lang") == "grc" and w.get("role") == "original":
-                greek.add(w["passage_uid"])
-    with open(os.path.join(nt, "passages.jsonl"), encoding="utf-8") as f:
-        for line in f:
-            p = json.loads(line)
-            if p["uid"] in greek and p["citation"].startswith("kjv:"):
-                add(p["citation"][4:], "greek_nt", p["osis"])
+    for w in _nt_rows("witnesses.jsonl"):
+        if w.get("lang") == "grc" and w.get("role") == "original":
+            greek.add(w["passage_uid"])
+    for p in _nt_rows("passages.jsonl"):
+        if p["uid"] in greek and p["citation"].startswith("kjv:"):
+            add(p["citation"][4:], "greek_nt", p["osis"])
     for slug in SHELF:
         path = os.path.join(BOOKS, f"{slug}.json")
         if not os.path.exists(path):

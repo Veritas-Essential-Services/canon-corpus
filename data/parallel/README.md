@@ -24,7 +24,10 @@ all carry the same terms.
   reading of public-domain texts, by alignment and review
   (`pipeline/build_english_versification.py`). No third-party terms apply.
 - **greek_nt**: the Robinson-Pierpont 2018 Greek is public domain. Its
-  column is the KJV verse's own reference.
+  column is the KJV verse's own reference. **On this branch it covers John
+  1:1-18 only** (18 of the New Testament's 7,957 rows), so an empty cell
+  means "not ingested yet", not "no Greek". The whole Greek NT (PR #8) fills
+  it when the index is rebuilt after that merge.
 - **kjv, uid**: the KJV verse id and this repository's identifier for it.
 
 A version's verse that holds part of a KJV verse is listed in that verse's

@@ -228,7 +228,11 @@ HOUSE_ROWS = {
         "Prov.31.26": (["Prov.31.27"], "The ways of her household"),
         "Prov.31.27": (["Prov.31.26"], "she opens her mouth wisely"),
         "Gen.35.16": (["Gen.35.16", "Gen.35.21"], "beyond the tower of Gader"),
-        "2Sam.23.29": (["2Sam.23.29", "2Sam.23.31", "2Sam.23.32"], "Asmoth the Bardiamite"),
+        # "son of Benjamin the Ephrathite" runs the KJV's "children of Benjamin"
+        # (23:29) into its "Benaiah the Pirathonite" (23:30); Brenton has no
+        # Hiddai, so 23:30 is held only in part.
+        "2Sam.23.29": (["2Sam.23.29", "2Sam.23.30", "2Sam.23.31", "2Sam.23.32"],
+                       "son of Benjamin the Ephrathite; Asmoth the Bardiamite"),
         "1Kgs.2.46b": (["1Kgs.4.21"], "they brought gifts, and served Solomon"),
         "1Kgs.2.46c": ([], "open the domains of Libanus"),
         "1Kgs.2.46d": (["1Kgs.9.18"], "built Therm"),

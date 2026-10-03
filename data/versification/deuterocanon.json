@@ -2210,14 +2210,6 @@
     },
     {
      "verses": [
-      "Tob.1.15",
-      "Sir.3.1",
-      "Sir.23.31"
-     ],
-     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
-    },
-    {
-     "verses": [
       "Tob.1.3",
       "Tob.1.8-11",
       "Tob.1.14",
@@ -2471,6 +2463,14 @@
       "Sir.29.35"
      ],
      "why": "the Douay prints no text for this Clementine verse, so its English cannot be read"
+    },
+    {
+     "verses": [
+      "Tob.1.15",
+      "Sir.3.1",
+      "Sir.23.31"
+     ],
+     "why": "the Vulgate's Latin has this and the Greek the KJV translates does not, so there is no shared key"
     }
    ],
    "weak": [
@@ -4881,14 +4881,6 @@
     },
     {
      "verses": [
-      "Tob.1.15",
-      "Sir.3.1",
-      "Sir.23.31"
-     ],
-     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
-    },
-    {
-     "verses": [
       "Tob.1.3",
       "Tob.1.8-11",
       "Tob.1.14",
@@ -5136,6 +5128,14 @@
       "2Macc.12.46"
      ],
      "why": "shares too few words with any KJV Apocrypha verse to be keyed (the alignment's best pairing is below the threshold)"
+    },
+    {
+     "verses": [
+      "Tob.1.15",
+      "Sir.3.1",
+      "Sir.23.31"
+     ],
+     "why": "the Vulgate's Latin has this and the Greek the KJV translates does not, so there is no shared key"
     }
    ],
    "weak": [
@@ -5255,7 +5255,7 @@
    "house_rows": {
     "Tob.1.15": {
      "kjva": [],
-     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+     "why": "the Vulgate's Latin has this and the Greek the KJV translates does not, so there is no shared key"
     },
     "Tob.3.23": {
      "kjva": [
@@ -5365,7 +5365,7 @@
     },
     "Sir.3.1": {
      "kjva": [],
-     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+     "why": "the Vulgate's Latin has this and the Greek the KJV translates does not, so there is no shared key"
     },
     "Sir.9.20": {
      "kjva": [
@@ -5393,7 +5393,7 @@
     },
     "Sir.23.31": {
      "kjva": [],
-     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+     "why": "the Vulgate's Latin has this and the Greek the KJV translates does not, so there is no shared key"
     },
     "Sir.31.42": {
      "kjva": [

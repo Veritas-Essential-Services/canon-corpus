@@ -448,7 +448,7 @@ def convert_vulgate(vdir, books, digest, slug="vulgate"):
                 _dc_key(u, f"{osis}.{c}.{v}", slug, dmap, dc)
                 units.append(u)
     return {"slug": slug, "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
-            "author": "—",
+            "author": "Jerome and the Old Latin (translators); the Clementine revision (1592)",
             "source": {"path": os.path.relpath(vdir, CORPUS), "format": "clementine-lat",
                        "sha256": digest,
                        "sha256_of": "name<TAB>sha256 lines of the book files, sorted"},

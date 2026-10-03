@@ -168,8 +168,10 @@ JEROME_BOOKS = {"Tob", "Jdt"}
 _REREAD = "read in both texts: the alignment's order or overlap misses it"
 _FAR = ("read in both texts: the alignment sent it to a verse elsewhere in the book "
         "that shares its words")
-_LATIN = ("Jerome's Latin has this and the Greek the KJV translates does not, so there "
-          "is no shared key")
+# Not "Jerome's": the Vulgate's Wisdom, Sirach, Baruch and Maccabees are the
+# Old Latin, which he left as he found it.
+_LATIN = ("the Vulgate's Latin has this and the Greek the KJV translates does not, so "
+          "there is no shared key")
 HOUSE_ROWS = {
     "brenton": {
         "Esth.4.17o": (["AddEsth.14.8", "AddEsth.14.9"], "not been contented with the bitterness",
@@ -205,7 +207,7 @@ HOUSE_ROWS = {
     },
     # Found by reading the weakest pairings and every key far from its
     # neighbours' (2026-10-03). _FAR: the alignment sent it to a verse
-    # elsewhere that shares its words; _LATIN: Jerome's Latin has it and the
+    # elsewhere that shares its words; _LATIN: the Vulgate's Latin has it and the
     # Greek the KJV translates does not.
     "douay": {
         "Esth.15.3": ([], "call upon the Lord, and speak to the king",
