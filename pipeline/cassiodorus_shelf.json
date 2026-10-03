@@ -1,0 +1,16 @@
+{
+ "_about": "Cassiodorus in English: Thomas Hodgkin's condensed translation of the Variae (1886), clean Gutenberg. The Variae are the state letters of the Ostrogothic court (secular), so they sit with the late Latin authors here; the Institutiones and the Psalm commentary belong to lane A if wanted.",
+ "_name_words": [
+  "cassiodorus",
+  "variae"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cassiodorus-hodgkin-letters": [
+   18590,
+   "The Letters of Cassiodorus, being a condensed translation of the Variae Epistolae (1886)",
+   "tr. Thomas Hodgkin"
+  ]
+ },
+ "internet_archive": {}
+}
