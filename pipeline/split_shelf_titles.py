@@ -25,7 +25,9 @@ it is cross-referenced, not fetched or cut again.
 Writes data/corpus/<shelf>/titles/<slug>.txt (gitignored, atomic temp+rename)
 and titles_report.json (lines, bytes, marker line numbers). A missing marker
 or a source not on disk is REPORTED, never guessed and never written as an
-empty file. Writes nothing under data/uids/: no minting (relay rule).
+empty file. A title that fails (or is held elsewhere) has any earlier
+titles/<slug>.txt deleted, so a stale cut never outlives the failure that
+replaced it (the report says "stale_removed"). Writes nothing under data/uids/: no minting (relay rule).
 Converter files (fetch_sources.py, structure_texts.py) are untouched.
 """
 import json, os, re, sys
@@ -60,16 +62,27 @@ def main():
     out = os.path.join(src_dir, "titles")
     os.makedirs(out, exist_ok=True)
     report = {}
+
+    def fail(slug, rec):
+        """Record a failed title and delete any earlier cut of it: a stale file
+        on disk would read as a good title (coordinator review, 2026-10-03)."""
+        dest = os.path.join(out, slug + ".txt")
+        for p in (dest, dest + ".tmp"):
+            if os.path.exists(p):
+                os.remove(p)
+                rec["stale_removed"] = True
+        report[slug] = rec
+
     for slug, t in shelf.get("titles", {}).items():
         if t.get("held_in"):     # already held by another shelf/manifest: cross-reference, never re-cut
-            report[slug] = {"status": "held-elsewhere", "held_in": t["held_in"]}
+            fail(slug, {"status": "held-elsewhere", "held_in": t["held_in"]})
             print(slug, "held-elsewhere", t["held_in"].get("file"), t["held_in"].get("slug")); continue
         src = t["source"]
         srcs = src if isinstance(src, list) else [src]   # a list = volumes, joined in order
         paths = [next((os.path.join(src_dir, s + x) for x in (".txt", ".xml")
                        if os.path.exists(os.path.join(src_dir, s + x))), None) for s in srcs]
         if not all(paths):
-            report[slug] = {"status": "NO-SOURCE", "source": src}
+            fail(slug, {"status": "NO-SOURCE", "source": src})
             print(slug, "NO-SOURCE", src); continue
         lines = []
         for path in paths:
@@ -78,11 +91,11 @@ def main():
             a = find(lines, t["start"]) if t.get("start") else 0
             b = find(lines, t["end"], after=a + 1) if t.get("end") else len(lines)
         except ValueError as e:
-            report[slug] = {"status": "MARKER-FAILED", "source": src, "error": str(e)}
+            fail(slug, {"status": "MARKER-FAILED", "source": src, "error": str(e)})
             print(slug, "MARKER-FAILED", e); continue
         chunk = "\n".join(lines[a:b]).strip() + "\n"
         if len(chunk) < 500:
-            report[slug] = {"status": "TOO-SHORT", "source": src, "bytes": len(chunk)}
+            fail(slug, {"status": "TOO-SHORT", "source": src, "bytes": len(chunk)})
             print(slug, "TOO-SHORT", len(chunk)); continue
         dest = os.path.join(out, slug + ".txt")
         with open(dest + ".tmp", "w", encoding="utf-8") as f:
