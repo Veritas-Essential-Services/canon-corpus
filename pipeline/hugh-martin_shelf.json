@@ -1,0 +1,54 @@
+{
+ "_about": "Hugh Martin (1822-1885), Free Church of Scotland minister: The Atonement, in its relations to the Covenant, the Priesthood, the Intercession of our Lord (Edinburgh: Lyon and Gemmell, 1877), and The Prophet Jonah, his character and mission to Nineveh (third edition, Edinburgh: Gemmell, 1880). The Shadow of Calvary survives on IA only in lending-library reprints (1954-1983), which the gate refuses. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "martin"
+ ],
+ "_surname": [
+  "martin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "martin-atonement": [
+   "atonere00mart",
+   "The Atonement, in its relations to the Covenant, the Priesthood, the Intercession of our Lord (Edinburgh: Lyon and Gemmell, 1877)"
+  ],
+  "martin-prophet-jonah": [
+   "prophetjonahhisc00mart",
+   "The Prophet Jonah: his character and mission to Nineveh, third edition (Edinburgh: Gemmell, 1880)"
+  ]
+ },
+ "_alternates": {
+  "atonementinitsre0000mart (1871), atonementinitsr00martgoog (1882), atonementinitsre00mart (1887)": "Other printings of The Atonement."
+ },
+ "_pending": {
+  "The Shadow of Calvary": "No pre-1930 scan found."
+ },
+ "_excluded": {
+  "bwb_*, shadowofcalvary00hugh, prophetjonah0000hugh* (1954-1983)": "Lending-library reprints."
+ },
+ "_checks": {
+  "martin-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "martin-prophet-jonah": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
