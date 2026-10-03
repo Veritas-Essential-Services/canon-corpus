@@ -139,3 +139,4 @@
 - 06:05 Homer: 22 more volumes of verse translations, all published 1809-1911; nothing needs a decision.
 - 06:10 Pott and Wright's Martial (Broadway Translations): the title page is undated, the back has a 1926 series list and IA says 1924. It is held, not taken. Decide with the later-printings rule whether a pre-1930 date from a series list is enough.
 - 06:14 Ovid and Euripides gap-fill (5 items); nothing needs a decision.
+- 06:21 Demosthenes and Conington gap-fill (3 items); nothing needs a decision.

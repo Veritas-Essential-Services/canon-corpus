@@ -2297,6 +2297,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Bucolics of Virgil, literally translated into English prose from the text of Heyne, with a freer translation and notes (1825) | T. W. C. Edwards | `virgil-edwards-bucolics-1825` | have-raw (IA `publiivirgiliima00virg`) |
 | The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922) | Thomas Fletcher Royds | `virgil-royds-eclogues-1922` | have-raw (IA `ecloguesbucolics00virguoft`) |
 | The Eclogues of Virgil, in English hexameter (1909) | I. Perley Smith | `virgil-smith-eclogues-1909` | have-raw (IA `ecloguesofvirgil00vi`) |
+| The Aeneid of Virgil translated into English verse (New York: W. J. Widdleton, 1867; the American edition of the London 1866 first) | John Conington | `virgil-conington-verse-aeneid-1867` | have-raw (IA `neidofvirgil00virgrich`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -3353,6 +3354,8 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | On the Embassy | Charles Anthony Vince and James Herbert Vince | `demosthenes-perseus-vince-on-the-embassy` | have (Perseus TEI `tlg0014.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. I (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v1` | have-raw (IA `orationsofdemost01demouoft`) |
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v2` | have-raw (IA `orationsofdemost02demouoft`) |
+| The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840) | Henry, Lord Brougham | `demosthenes-brougham-crown-1840` | have-raw (IA `orationdemosthe02vauxgoog`) |
+| The Oration of Demosthenes on the Crown (London: Longmans, Green, 1876) | Sir Robert Collier | `demosthenes-collier-crown-1876` | have-raw (IA `orationdemosthe00collgoog`) |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 

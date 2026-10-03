@@ -482,3 +482,9 @@
 - ovid: Garth 1826 and More's Book I not kept (Dryden shelf, lane C; Perseus)
 - euripides: Fitz-Gerald 1867, Lawton 1889, Beloit Class of 1900 (1898), Kynaston 1906
 - Excerpts skipped: Goldwin Smith, McBride
+
+## 2026-10-03 06:21 CDT — Demosthenes, Conington, retries
+- demosthenes: Brougham 1840 and Collier 1876 (translators unchecked: OCR)
+- virgil: Conington's verse Aeneid (1867 American edition)
+- Refused: Laurent's Herodotus I, Simpson's Crown, Murphy's Lucian (all copies)
+- Storage-node retry: four dark items still dark

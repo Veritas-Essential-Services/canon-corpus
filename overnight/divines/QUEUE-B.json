@@ -788,6 +788,14 @@
    "started": "2026-10-03T06:10:57-05:00",
    "finished": "2026-10-03T06:14:27-05:00",
    "notes": "Ovid: Henry King's Metamorphoses (Blackwood 1871; translator unchecked, the OCR reads ICING). The Garth composite (1826) and Brookes More's Book I were added and then removed in the same session: Garth is on the Dryden shelf (lane C) and More is held from Perseus. Euripides: Fitz-Gerald's Crowned Hippolytus 1867 (theocritus cross-ref), Lawton's Three Dramas 1889, the Beloit Class of 1900 Alcestis 1898 (IA says 1908), Kynaston's Alcestis 1906. Skipped as excerpts, matching the existing exclusions of PG 7073: Goldwin Smith's Euripides specimens and McBride's Bacchae choruses."
+  },
+  {
+   "id": "latin-greek-gapfill-3",
+   "status": "done",
+   "scope": "Gap-fill: Demosthenes on the Crown, Conington's verse Aeneid",
+   "started": "2026-10-03T06:14:27-05:00",
+   "finished": "2026-10-03T06:21:19-05:00",
+   "notes": "Demosthenes: Brougham's Crown (Charles Knight 1840, the NYPL copy at OCR 0.94; the Greek-facing Toronto copy at 0.61 refused) and Sir Robert Collier's Crown (Longmans 1876); both translators unchecked because the OCR garbles the names. Virgil: Conington's verse Aeneid (New York: Widdleton 1867). Refused on OCR: Laurent's Herodotus vol. I (0.75), Simpson's Crown (0.58), every copy of Edward Murphy's Select Dialogues of Lucian (Greek facing, 0.61-0.74). Retried via storage nodes, still dark (empty metadata): Greek Tragic Theatre vol. 2 (both ids), Sotheby vol. III, Nixon Plautus vol. 2 (the id; it is held under another id)."
   }
  ]
 }
