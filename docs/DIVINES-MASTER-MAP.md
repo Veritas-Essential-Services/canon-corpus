@@ -4730,6 +4730,20 @@ Shelf: `pipeline/hull_shelf.json` (2026-10-02; added at the coordinator's relay 
 | The Northmen in Britain | have | PG 69131, `hull-northmen-in-britain` (1014 units) |
 | hull-poem-book | excluded | The Poem-Book of the Gael (PG 46917): an anthology of other hands' translations |
 
+## Jessie L. Weston (translator)
+
+Shelf: `pipeline/weston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her English versions of medieval romance; Parzival nested book > argument. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Parzival: A Knightly Epic, Wolfram von Eschenbach, tr. Jessie L. Weston, vol. 1 | have | PG 47297, `weston-parzival-1` (1205 units) |
+| Parzival: A Knightly Epic, Wolfram von Eschenbach, tr. Jessie L. Weston, vol. 2 | have | PG 47298, `weston-parzival-2` (804 units) |
+| Morien, rendered into English prose from the medieval Dutch by Jessie L. Weston | have | PG 8447, `weston-morien` (273 units) |
+| Sir Gawain and the Lady of Lys, tr. Jessie L. Weston | have | PG 45514, `weston-gawain-and-the-lady-of-lys` (309 units) |
+| Sir Gawain and the Green Knight, retold by Jessie L. Weston | have | PG 66084, `weston-gawain-and-the-green-knight` (249 units) |
+| Guingamor, Lanval, Tyolet, Bisclaveret: Four Lais, rendered into English prose by Jessie L. Weston | have | PG 46234, `weston-four-lais` (303 units) |
+| weston-studies | excluded | From Ritual to Romance (PG 4090), The Legend of Sir Lancelot du Lac (46497), The Three Days' Tournament (46636): scholarship, not story |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

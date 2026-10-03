@@ -778,7 +778,9 @@
     {
       "id": "weston",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: weston; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T20:10:59-05:00",
+      "notes": "6/6 fetched (Gutenberg 47297, 47298, 8447, 45514, 66084, 46234), 3,143 units, 12 ~2 ids."
     }
   ]
 }

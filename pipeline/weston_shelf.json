@@ -1,0 +1,63 @@
+{
+ "_about": "Jessie L. Weston's (1850-1928) English versions of medieval romance: Parzival (Wolfram von Eschenbach, 2 vols.), Morien, Sir Gawain and the Lady of Lys, Sir Gawain and the Green Knight retold, and four lais of Marie de France and others. She is the translator. Clean Gutenberg text; public domain. Her scholarly studies (From Ritual to Romance and others) are not taken. This shelf could as well be Lane C's: veto or move. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jessie L. Weston",
+ "_name_words": [
+  "gawain",
+  "morien",
+  "parzival",
+  "lais"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "weston-parzival-1": [
+   47297,
+   "Parzival: A Knightly Epic, Wolfram von Eschenbach, tr. Jessie L. Weston, vol. 1",
+   {
+    "levels": [
+     {
+      "re": "BOOK [IVXL]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "ARGUMENT\\.?$"
+     }
+    ]
+   }
+  ],
+  "weston-parzival-2": [
+   47298,
+   "Parzival: A Knightly Epic, Wolfram von Eschenbach, tr. Jessie L. Weston, vol. 2",
+   {
+    "levels": [
+     {
+      "re": "BOOK [IVXL]+\\.?$",
+      "title_next": true
+     },
+     {
+      "re": "ARGUMENT\\.?$"
+     }
+    ]
+   }
+  ],
+  "weston-morien": [
+   8447,
+   "Morien, rendered into English prose from the medieval Dutch by Jessie L. Weston"
+  ],
+  "weston-gawain-and-the-lady-of-lys": [
+   45514,
+   "Sir Gawain and the Lady of Lys, tr. Jessie L. Weston"
+  ],
+  "weston-gawain-and-the-green-knight": [
+   66084,
+   "Sir Gawain and the Green Knight, retold by Jessie L. Weston"
+  ],
+  "weston-four-lais": [
+   46234,
+   "Guingamor, Lanval, Tyolet, Bisclaveret: Four Lais, rendered into English prose by Jessie L. Weston"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "weston-studies": "From Ritual to Romance (PG 4090), The Legend of Sir Lancelot du Lac (46497), The Three Days' Tournament (46636): scholarship, not story"
+ }
+}
