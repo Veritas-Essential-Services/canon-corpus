@@ -93,6 +93,7 @@ COMMON_WORD_SURNAMES = frozenset("""
     hill hood hooker hope hunt james jay jewel ken king lamb lane law love
     mason more page palmer pope price prior rich rose skinner smith swift
     taylor ward wells white wood young
+    barker clay hale herbert lang morris newman porter sidney swan waters way
 """.split())
 
 def _usable(surnames):

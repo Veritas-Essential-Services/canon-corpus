@@ -80,9 +80,10 @@ check(rights("").startswith("CHECK: no date"), "an undated record is CHECK")
 check(rights("1890", cols=["inlibrary"]).startswith("CHECK"), "a lending scan is CHECK")
 
 # common-word surnames
-for w in ("hall", "ken", "brown", "gale", "lamb", "church", "palmer", "skinner", "fuller", "barrow"):
+for w in ("hall", "ken", "brown", "gale", "lamb", "church", "palmer", "skinner", "fuller", "barrow",
+          "herbert", "newman", "lang", "morris"):
     check(w in fs.COMMON_WORD_SURNAMES, f"{w!r} is on the common-word list")
-for w in ("edwards", "newman", "wesley", "traherne"):
+for w in ("edwards", "wesley", "traherne", "lightfoot"):
     check(w not in fs.COMMON_WORD_SURNAMES, f"{w!r} is a usable bare surname")
 check(fs.check_surnames({"_surname": ["hall"]}), "a shelf naming only bare 'hall' stops at load")
 check(fs.check_surnames({"_surname_by_slug": {"x": ["ken"]}}), "so does a per-item list of bare 'ken'")
