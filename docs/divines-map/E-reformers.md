@@ -154,4 +154,5 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 |---|---|---|
 | Foxe, The Acts and Monuments, ed. Cattley, with Townsend's dissertation (8 vols, 1837-1841) | have-raw | `john-foxe_shelf.json`; the full text, not the abridged Book of Martyrs |
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
-| Strype's Memorials, Annals and Lives (Oxford, 1812-1840) | pending | not yet searched |
+| Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 25 volumes |
+| Strype, Life of Sir Thomas Smith (1820) | pending | Internet Archive server error |
