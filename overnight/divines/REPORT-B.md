@@ -440,3 +440,7 @@
 - Plato: A. D. Lindsay's Republic (Everyman, 3rd ed. 1923)
 - Plato: E. M. Cope's literal Gorgias (1864) and Phaedo (1875)
 - Wright's Phaedrus, Lysis and Protagoras: the only scan found answers 404
+
+## 2026-10-03 02:55 CDT — Plato (2)
+- Plato: J. Wright's Phaedrus, Lysis, Protagoras (1888); S. W. Dyde's Theaetetus (1899); Talks with Athenian Youths (1891, translator unnamed in the volume); F. A. Paley's Philebus (1879)
+- No text layer on IA: a Theaetetus (1875), two Menos (1869, 1880), Socrates (1879), The Judgment of Socrates (1898)

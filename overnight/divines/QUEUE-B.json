@@ -732,6 +732,14 @@
    "started": "2026-10-03T02:52:03-05:00",
    "finished": "2026-10-03T02:53:45-05:00",
    "notes": "OCR 0.88-0.95. All printings 1930 or earlier. J. Wright's Phaedrus, Lysis and Protagoras (DLI) answered 404."
+  },
+  {
+   "id": "plato-batch-2",
+   "status": "done",
+   "scope": "Plato: Wright (1888), Dyde (1899), Talks with Athenian Youths (1891), Paley's Philebus (1879)",
+   "started": "2026-10-03T02:53:45-05:00",
+   "finished": "2026-10-03T02:55:22-05:00",
+   "notes": "OCR 0.87-0.95. Mason's name is the catalogue's only (unchecked). Several Google scans (Theaetetus 1875, two Menos, Socrates 1879, More's Judgment of Socrates 1898) have no text layer on IA."
   }
  ]
 }
