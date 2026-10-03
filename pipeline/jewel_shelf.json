@@ -1,0 +1,85 @@
+{
+ "_about": "John Jewel (1522-1571), Bishop of Salisbury. The target is the Parker Society Works, ed. John Ayre (4 'portions', Cambridge 1845-1850), Internet Archive OCR, raw; each title page read. The Toronto set lacks a readable vol. 3, so vol. 3 is Princeton's copy. Jelf's Oxford edition (8 vols, 1848) is listed as an alternate, not fetched. No CCEL or Gutenberg Jewel exists.",
+ "_name_words": [
+  "jewel"
+ ],
+ "_surname": [
+  "jewel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jewel-ps-01": [
+   "worksofjohnjewel01jeweuoft",
+   "Works of John Jewel, First Portion: Sermon at Paul's Cross, Correspondence with Cole, Reply to Harding, ed. John Ayre (Parker Society, Cambridge, 1845), vol. 1"
+  ],
+  "jewel-ps-02": [
+   "worksofjohnjewel02jeweuoft",
+   "Works of John Jewel, Second Portion: Reply to Harding's Answer (concluded), Sermons, ed. John Ayre (Parker Society, Cambridge, 1847), vol. 2"
+  ],
+  "jewel-ps-03": [
+   "worksofjohnjewel03jewe",
+   "Works of John Jewel, Third Portion: Apologia Ecclesiae Anglicanae, Defence of the Apology I-III, ed. John Ayre (Parker Society, Cambridge, 1848), vol. 3"
+  ],
+  "jewel-ps-04": [
+   "worksofjohnjewel04jeweuoft",
+   "Works of John Jewel, Fourth Portion: Defence of the Apology IV-VI, Epistle to Scipio, View of a Seditious Bull, ed. John Ayre (Parker Society, Cambridge, 1850), vol. 4"
+  ]
+ },
+ "_alternates": {
+  "worksofjohnjewel00jeweuoft": "Toronto record with no text file.",
+  "worksofjohnjewel01jewe, worksofjohnjewel02jewe, worksofjohnjewel04jewe": "Princeton copies of vols. 1, 2, 4 (vol. 1 opens with OCR noise).",
+  "worksofjohnjewel0001unse, 0002unse, 0003unse, 0023jewe, 0024jewe, 0000jewe": "internetarchivebooks / Claremont scans of the same set.",
+  "ofjohnjeweljelf01jeweuoft .. ofjohnjeweljelf08jeweuoft": "Jelf's Oxford edition (8 vols, 1848), a second edition of the Works; a later pass could add it as a second witness.",
+  "a588503800jeweuoft, twotreatisesionh00jewe": "Two Treatises (1840), held within the Parker Works vol. 4."
+ },
+ "_excluded": {
+  "Golden Words: the rich and precious jewel of God's Holy Word, and other 'jewel' title hits": "Not by Jewel."
+ },
+ "_checks": {
+  "jewel-ps-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jewel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jewel-ps-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jewel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845-50",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jewel-ps-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jewel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jewel-ps-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jewel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845-50",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
