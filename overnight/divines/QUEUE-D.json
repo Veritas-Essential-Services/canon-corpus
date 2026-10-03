@@ -1121,8 +1121,10 @@
     {
       "id": "gesta-romanorum",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: gesta-romanorum; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:37:01-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:06-05:00",
+      "notes": "1/1 fetched (Gutenberg 58655), 1,470 units, 0 ~2 ids."
     },
     {
       "id": "babbitt",

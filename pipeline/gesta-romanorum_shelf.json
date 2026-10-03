@@ -1,0 +1,37 @@
+{
+ "_about": "Tales from the Gesta Romanorum, the medieval Latin collection of tales with morals, translated by the Rev. Charles Swan. This printing's preface refers to the first American edition (Wiley & Putnam, 1845). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Gesta Romanorum (anonymous); tr. Charles Swan",
+ "_name_words": [
+  "gesta",
+  "romanorum"
+ ],
+ "_surname": [
+  "swan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gesta-romanorum-tales": [
+   58655,
+   "Tales from the Gesta Romanorum"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "gesta-romanorum-tales": "Swan"
+ },
+ "_checks": {
+  "gesta-romanorum-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "swan",
+   "translator_claimed": "Swan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Swan",
+   "translator_match": true
+  }
+ }
+}
