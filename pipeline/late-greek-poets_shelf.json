@@ -1,0 +1,44 @@
+{
+ "_about": "Hellenistic and late Greek poets in English, translator per title, all raw IA OCR with title pages read: Callimachus (William Dodd, 1755 per the catalogue), Aratus (John Lamb, 1848; Edward Poste, 1880; Robert Brown Jr., 1885), Tryphiodorus (James Merrick, 1739) and Musaeus (Edwin Arnold). Mair's 1921 and 1928 Loebs (Callimachus, Lycophron, Aratus; Oppian, Colluthus, Tryphiodorus) are Greek facing and held back like the other Greek-facing Loebs.",
+ "_name_words": [
+  "callimachus",
+  "aratus",
+  "tryphiodorus",
+  "musaeus",
+  "leander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "callimachus-dodd-hymns": [
+   "hymnsofcallimach00call",
+   "The Hymns of Callimachus, translated from the Greek into English verse, with select epigrams and the Coma Berenices (London; 1755 per the catalogue, the imprint date is lost in the OCR)",
+   "tr. William Dodd"
+  ],
+  "aratus-lamb-phenomena": [
+   "phenomenadioseme00arat",
+   "The Phenomena and Diosemeia of Aratus, translated into English verse (London, Parker, 1848)",
+   "tr. John Lamb"
+  ],
+  "aratus-poste-skies": [
+   "skiesandweather01aratgoog",
+   "The Skies and Weather-Forecasts of Aratus (London, Macmillan, 1880)",
+   "tr. Edward Poste"
+  ],
+  "aratus-brown-phainomena": [
+   "phainomenaorhea00aratgoog",
+   "The Phainomena, or Heavenly Displays, of Aratus, done into English verse (1885)",
+   "tr. Robert Brown Jr."
+  ],
+  "tryphiodorus-merrick-destruction-of-troy": [
+   "bim_eighteenth-century_the-destruction-of-troy_tryphiodorus_1739",
+   "The Destruction of Troy, being the sequel of the Iliad, translated from the Greek of Tryphiodorus (Oxford, 1739)",
+   "tr. James Merrick"
+  ],
+  "musaeus-arnold-hero-leander": [
+   "heroleanderfromg00musaiala",
+   "Hero and Leander, from the Greek of Musaeus (Cassell, Petter and Galpin)",
+   "tr. Edwin Arnold"
+  ]
+ }
+}

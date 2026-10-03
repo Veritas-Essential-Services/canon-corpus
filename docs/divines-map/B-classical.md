@@ -1076,7 +1076,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Odes of Anacreon | Thomas Moore | `anacreon-moore` | have (PG 38230) |
 | Bacchylides: A Prose Translation (Macmillan, 1898) | Edward Poste | `bacchylides-poste` | have-raw (IA `cu31924026462287`) |
 
-Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing); Musaeus
+Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
 Excluded: modern free Sappho recreations (Carman, O'Hara, Stacpoole)
 
@@ -1598,6 +1598,21 @@ Shelf: `pipeline/valerius-maximus_shelf.json`. The 1684 Memorable Acts and Sayin
 | Q. Valerius Maximus, his Collections of the Memorable Acts and Sayings (London, 1684) | unnamed on the title page (dedication signed by Samuel Speed) | `valerius-maximus-speed-1684` | have-raw (IA `Q.ValeriusMaximusMemorableActsAndSayings`) |
 
 Pending (wishlist): none known
+
+## Late Greek poets (Callimachus, Aratus, Tryphiodorus, Musaeus)
+
+Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three Aratus translators (1848, 1880, 1885), Merrick's Tryphiodorus (1739), Arnold's Musaeus. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Hymns of Callimachus, translated from the Greek into English verse, with select epigrams and the Coma Berenices (London; 1755 per the catalogue, the imprint date is lost in the OCR) | William Dodd | `callimachus-dodd-hymns` | have-raw (IA `hymnsofcallimach00call`) |
+| The Phenomena and Diosemeia of Aratus, translated into English verse (London, Parker, 1848) | John Lamb | `aratus-lamb-phenomena` | have-raw (IA `phenomenadioseme00arat`) |
+| The Skies and Weather-Forecasts of Aratus (London, Macmillan, 1880) | Edward Poste | `aratus-poste-skies` | have-raw (IA `skiesandweather01aratgoog`) |
+| The Phainomena, or Heavenly Displays, of Aratus, done into English verse (1885) | Robert Brown Jr. | `aratus-brown-phainomena` | have-raw (IA `phainomenaorhea00aratgoog`) |
+| The Destruction of Troy, being the sequel of the Iliad, translated from the Greek of Tryphiodorus (Oxford, 1739) | James Merrick | `tryphiodorus-merrick-destruction-of-troy` | have-raw (IA `bim_eighteenth-century_the-destruction-of-troy_tryphiodorus_1739`) |
+| Hero and Leander, from the Greek of Musaeus (Cassell, Petter and Galpin) | Edwin Arnold | `musaeus-arnold-hero-leander` | have-raw (IA `heroleanderfromg00musaiala`) |
+
+Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Oppian's Halieuticks (Diaper and Jones, 1722; the archive.org file answers 404); Mair's Loebs (Greek facing).
 
 ## Perseus census (overflow)
 
