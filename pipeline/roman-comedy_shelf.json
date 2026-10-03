@@ -64,6 +64,11 @@
    "terencescomedie00teregoog",
    "Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII)",
    "tr. Laurence Echard"
+  ],
+  "plautus-evans-trinummus-1883": [
+   "trinnummustmacc00plaugoog",
+   "The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883)",
+   "tr. A. H. Evans"
   ]
  },
  "_excluded": {
@@ -85,7 +90,8 @@
   "plautus-riley-comedies-v2": "henry thomas riley",
   "plautus-nixon-v2": "Paul Nixon",
   "terence-sargeaunt-v1": "John Sargeaunt",
-  "terence-sargeaunt-v2": "John Sargeaunt"
+  "terence-sargeaunt-v2": "John Sargeaunt",
+  "plautus-evans-trinummus-1883": "Evans"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
@@ -223,6 +229,19 @@
    "ia_date": "1733",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "plautus-evans-trinummus-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "Evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_rights_checked": {},
@@ -268,6 +287,9 @@
   "terence-echard-1733": [
    "terence",
    "terentius"
+  ],
+  "plautus-evans-trinummus-1883": [
+   "plautus"
   ]
  },
  "_translator_unchecked": {
