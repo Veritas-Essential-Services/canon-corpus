@@ -70,6 +70,11 @@
    "oedipustyr00soph",
    "The Oedipus Tyrannus of Sophocles (1922)",
    "tr. J. T. Sheppard"
+  ],
+  "sophocles-trevelyan-ajax-1919": [
+   "cu31924026593446",
+   "The Ajax of Sophocles (George Allen and Unwin, first published 1919)",
+   "tr. R. C. Trevelyan"
   ]
  },
  "_cross_ref": {
@@ -101,7 +106,8 @@
   "sophocles-whitelaw-1883": "Robert Whitelaw",
   "sophocles-dale-1824-v1": "Thomas Dale",
   "sophocles-dale-1824-v2": "Thomas Dale",
-  "sophocles-sheppard-oedipus-tyrannus-1922": "Sheppard"
+  "sophocles-sheppard-oedipus-tyrannus-1922": "Sheppard",
+  "sophocles-trevelyan-ajax-1919": "Trevelyan"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -255,6 +261,20 @@
    "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sophocles-trevelyan-ajax-1919": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Trevelyan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
- }
+ },
+ "_translator_unchecked": {}
 }
