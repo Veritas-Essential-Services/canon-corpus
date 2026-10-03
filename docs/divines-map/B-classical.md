@@ -1037,6 +1037,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes and Epodes of Horace translated into English verse, with introduction, notes and Latin text (G. P. Putnam's Sons, 1892) | John B. Hague | `horace-hague-1892` | have-raw (IA `odesepodesofhora00horarich`) |
 | The Odes of Horace, Books I-IV and the Saecular Hymn, translated into English verse, with Wickham's Latin text in parallel (Oxford University Press, 1912) | W. S. Marris | `horace-marris-odes-1912` | have-raw (IA `odesofhoracebook00horauoft`) |
 | Horace: Odes, Epodes and Carmen Saeculare translated into English verse (London, 1850) | G. J. Whyte Melville | `horace-whyte-melville-1850` | have-raw (IA `horaceodesepode00flacgoog`) |
+| The Odes of Horace in four books translated into English lyric verse (London: Upham and Beet, 1858) | Lord Ravensworth | `horace-ravensworth-odes-1858` | have-raw (IA `odeshoraceinfou00ravegoog`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
