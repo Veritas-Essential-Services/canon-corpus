@@ -57,7 +57,7 @@
   "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
   "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "PD verse with the Greek facing; pending (IA)",
   "J. Hookham Frere (1840)": "three of the four plays held (Acharnians, Knights, Birds: aristophanes-frere-morley, Morley 1887); the Frogs is not in that volume and is pending",
-  "Hickie's Bohn vol. II (Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus)": "PD; the only scans found (in.ernet.dli.2015.515630, .515629) have no text file on IA (404). Wanted to complete aristophanes-hickie-1887-v1",
+  "Hickie's Bohn vol. II (Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus)": "PD; the DLI scans (in.ernet.dli.2015.515630 vol. 2, .515629 vol. 1) do have text files, under the name 2015.515630.The-Comedies_djvu.txt, but vol. 2's text layer is OCR'd as Devanagari (clean-word ratio 0.000), so it is refused. Wanted from a readable scan to complete aristophanes-hickie-1887-v1",
   "Mitchell vol. I (1820: Acharnians, Knights)": "no scan found on IA; vol. II held as aristophanes-mitchell-1822-v2"
  },
  "_surname": [
