@@ -495,10 +495,15 @@ def tess_tokens(ident, leaves, imgs=None):
 def match_case(src, new):
     if src.isupper() and len(src) > 1:
         return new.upper()
+    if src[:1].isupper() and src[:1].lower() != new[:1].lower():
+        # the capital was itself the misread ("Avill" for "will"): the other
+        # engine's reading of that letter decides its case
+        return new
     if src[:1].isupper():
         return new[:1].upper() + new[1:]
     return new
 
+ABBREVIATIONS = {"viz", "ver", "vid", "ibid", "chap", "sc", "ie", "eg", "cf", "etc", "ult", "obs", "ans", "quest", "obj", "sol"}
 PREFIXES = {"co", "re", "pre", "self", "fore", "over", "under", "out", "non", "anti"}
 
 def plausible(an, bn, ao):
@@ -507,8 +512,12 @@ def plausible(an, bn, ao):
     a split that may have lost a hyphen ('co partners' for 'co-partners')."""
     if len(bn.replace(" ", "")) < 2 or "&" in ao or re.fullmatch(r"[fS]e?c", ao):
         return False
+    if an.lower() in ABBREVIATIONS:
+        return False    # "viz." is a word the dictionary lacks, never a misread
     if " " in bn and bn.split()[0].lower() in PREFIXES:
         return False
+    if " " in bn and bn[:1].lower() != an[:1].lower():
+        return False    # a run-together pair is split, never reordered ("Neitherf" is not "If Neither")
     return difflib.SequenceMatcher(None, an.lower(), bn.replace(" ", "").lower()).ratio() >= 0.6
 
 def proof_ocr(slug):

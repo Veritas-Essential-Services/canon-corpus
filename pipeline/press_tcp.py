@@ -38,7 +38,9 @@ def tag(el):
     return el.tag.replace(NS, "")
 
 def clean(s):
-    return (s or "").replace("ſ", "s").replace("­", "")
+    # long s and the hooked capital U (Ʋ, how the keyers record a U set in the
+    # V-shaped form) are letterforms, not spellings
+    return (s or "").replace("ſ", "s").replace("Ʋ", "U").replace("­", "")
 
 class Conv:
     def __init__(self, slug):
@@ -133,7 +135,7 @@ class Conv:
         `until` are set; decided on the paragraph's words before converting it."""
         if not self.span:
             return True
-        raw = " ".join("".join(el.itertext()).split()).replace("ſ", "s")
+        raw = " ".join("".join(el.itertext()).split()).replace("ſ", "s").replace("Ʋ", "U")
         if not self.on and self.span[0] and re.search(self.span[0], raw) and not getattr(self, "done", False):
             self.on = True
         elif self.on and self.span[1] and re.search(self.span[1], raw):
@@ -241,6 +243,8 @@ def convert(path, slug, texts=None, span=None, divs=None):
                             continue
                     elif divs and tag(part) == "front" and (el.get("type") or "") != "title_page":
                         continue
+                    elif divs and tag(part) == "back":
+                        continue    # the volume's tables and indexes
                     c.div(el, 1)
                 elif tag(el) == "pb":
                     c.d.add("pb", c.pb(el))

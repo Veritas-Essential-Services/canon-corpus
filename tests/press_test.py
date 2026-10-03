@@ -108,6 +108,10 @@ check("fix across an italic change", "".join(s[0] for s in segs), "comfort sake"
 check("plausible misread", press_proof.plausible("tbe", "the", "tbe"), True)
 check("'&c.' is not fixed to 'c'", press_proof.plausible("fec", "c", "fec"), False)
 check("far-apart words are not a misread", press_proof.plausible("following", "ores", "following"), False)
+check("'viz.' is never fixed", press_proof.plausible("viz", "wiz", "viz"), False)
+check("a run-together pair is split, not reordered", press_proof.plausible("neitherf", "if neither", "Neitherf"), False)
+check("a misread capital takes the other engine's case", press_proof.match_case("Avill", "will"), "will")
+check("a sentence's capital is kept", press_proof.match_case("Tbe", "the"), "The")
 check("a split that may have lost a hyphen", press_proof.plausible("cojkihners", "co partners", "cojKiHners"), False)
 
 # --- review fixes (2026-10-03)

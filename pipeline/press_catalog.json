@@ -57,8 +57,9 @@
     "banner-puritan-classics-box"
    ],
    "source": {
-    "kind": "pending",
-    "why": "a 1909 compilation of extracts (Ellen S. Lister); find a PD scan and confirm the compiler's dates before setting it. Every extract is already in Bonar's Letters."
+    "kind": "same_as",
+    "slug": "rutherford-letters",
+    "why": "The Loveliness of Christ is a 1909 compilation of short extracts from Rutherford's letters (Ellen S. Lister). Every extract is in Bonar's edition of the Letters, which the Press sets in full; no scan of the 1909 printing was found on archive.org (searched 2026-10-03), and the compiler's selection, not Rutherford's words, is all it would add."
    }
   },
   "bridge-lifting-up": {
@@ -1068,14 +1069,23 @@
   "spurgeon-flowers": {
    "author": "C. H. Spurgeon",
    "banner_title": "Flowers from a Puritan's Garden",
-   "title": "Flowers from a Puritan's Garden, Distilled and Dispensed",
+   "title": "Illustrations and Meditations; or, Flowers from a Puritan's Garden, Distilled and Dispensed",
    "first_published": "1883",
    "sets": [
     "banner-pp"
    ],
    "source": {
-    "kind": "pending",
-    "why": "PD (1883); spurgeon shelf exists - check whether it carries this title."
+    "kind": "ia-extract",
+    "ia": "illustrationsmed00spur",
+    "edition": "Illustrations and Meditations; or, Flowers from a Puritan's Garden, Distilled and Dispensed (London: Passmore & Alabaster, 1883), the first edition. Spurgeon's own indexes of subjects and texts are not set; the Press builds its own Index of Scripture References.",
+    "leaves": [
+     9,
+     280
+    ],
+    "titlepage": {
+     "leaf": 5,
+     "from": "^ILLUSTRATIONS"
+    }
    }
   },
   "great-ejection-sermons": {
@@ -1298,10 +1308,23 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "Original found: an extract (the sermons on unity) from Burgess's CXLV Expository Sermons upon John 17 (London, 1656; EEBO-TCP A30241). Which of the 145 sermons RHB took is not yet worked out; the whole volume is about 480,000 words.",
-    "candidate_tcp": "A30241"
-   }
+    "kind": "tcp",
+    "id": "A30241",
+    "divs": [
+     112,
+     113,
+     114,
+     115,
+     116,
+     119,
+     125,
+     129
+    ],
+    "edition": "CXLV Expository Sermons upon the Whole 17th Chapter of the Gospel according to St. John (London, 1656), the first edition (EEBO-TCP A30241): the eight sermons on unity among believers (CXII-CXVI, CXIX, CXXV, CXXIX)",
+    "identified": "RHB's preface says its book is the sermons on unity from Burgess's John 17. Which sermons RHB took is not stated; the Press sets every sermon whose subject is unity among believers (not CXVII on the Trinity or CXVIII on union with Christ)."
+   },
+   "title": "Of Unity among Christians: Sermons on John 17:21-23",
+   "first_published": "1656"
   },
   "rhb-comfort-and-holiness-from": {
    "author": "William Bridge",
