@@ -86,8 +86,10 @@
     "banner-puritan-classics-box"
    ],
    "source": {
-    "kind": "pending",
-    "why": "the shelf holds only the 1649 EEBO scan (long-s OCR). Wanted: a 19th-century reprint scan (Sherman, 1867?) to OCR and proof."
+    "kind": "tcp",
+    "id": "A30598",
+    "edition": "The Rare Jewel of Christian Contentment (London: Peter Cole, 1649), the first edition (Wing B6103)",
+    "note": "Later printings (1651 on) were reset; whether they differ in substance from 1649 is not yet checked."
    }
   },
   "brooks-precious-remedies": {
@@ -140,8 +142,9 @@
     "banner-puritan-classics-box"
    ],
    "source": {
-    "kind": "pending",
-    "why": "no 19th-century printing found yet on the shelf; search IA for a reprint before falling back to the 1666 EEBO scan."
+    "kind": "tcp",
+    "id": "A65296",
+    "edition": "The Godly Man's Picture, Drawn with a Scripture-Pensil (London, 1666), the first edition (Wing W1124)"
    }
   },
   "watson-repentance": {
@@ -154,8 +157,9 @@
     "banner-puritan-classics-box"
    ],
    "source": {
-    "kind": "pending",
-    "why": "as Godly Man's Picture: a reprint scan wanted."
+    "kind": "tcp",
+    "id": "A65293",
+    "edition": "The Doctrine of Repentance, Useful for These Times (London, 1668), the first edition (Wing W1122)"
    }
   },
   "watson-all-things-for-good": {
@@ -271,8 +275,10 @@
     "banner-puritan-classics-box"
    ],
    "source": {
-    "kind": "pending",
-    "why": "only the 1607-1618 EEBO scans exist (long-s, black-letter OCR). Needs a fresh OCR pass and full proofing; the Banner text is a modern translation-revision (copyright)."
+    "kind": "tcp",
+    "id": "A09449",
+    "edition": "The Arte of Prophecying, written in Latin by William Perkins and translated by Thomas Tuke (London: Felix Kyngston, 1607; STC 19735.4)",
+    "note": "Tuke's 1607 English, not Banner's modern translation (in copyright)."
    }
   },
   "owen-mortification": {

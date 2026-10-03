@@ -79,6 +79,10 @@ def source_file(slug, e):
                                               encoding="utf-8"))["internet_archive"][s["volume"]][0]
         press_abbyy.load(ident)
         return os.path.join(SRC, "ia", f"{ident}_abbyy.gz")
+    if s["kind"] == "tcp":
+        i = s["id"]
+        return fetch(f"https://raw.githubusercontent.com/textcreationpartnership/{i}/master/{i}.xml",
+                     os.path.join(SRC, "tcp", f"{i}.xml"))
     raise RuntimeError(f"{slug}: source kind {s['kind']!r} is not settable ({s.get('why', '')})")
 
 def load_rules(slug):
@@ -199,6 +203,11 @@ def note_on_text(e, slug, doc, applied, src_path):
                  f"references; its own introductions and indexes were not used.")
     elif s["kind"] == "gutenberg":
         where = f"This text is set from {s['edition']}, with the Project Gutenberg header and licence removed."
+    elif s["kind"] == "tcp":
+        where = (f"This text is set from {s['edition']}, as keyed by hand from the page images of the "
+                 f"first edition by the Text Creation Partnership (EEBO-TCP {s['id']}, released under CC0). "
+                 f"The long s is set as s; every other spelling, capital and stop is the 17th-century "
+                 f"printer's. The marginal notes of the original are given as footnotes.")
     else:
         where = f"This text is set from the Internet Archive scan of {s['edition']}, re-read from its OCR and proofed."
     paras = [where,
@@ -206,6 +215,20 @@ def note_on_text(e, slug, doc, applied, src_path):
              f"printed, nothing is modernised or abridged, and the original title page is reproduced. "
              f"Page breaks of the source edition are kept as invisible anchors, so any passage can be "
              f"checked against the scan of its page."]
+    gaps = doc.get("gaps") or []
+    ill = sum(1 for g in gaps if g[0].startswith("illegible"))
+    frn = sum(1 for g in gaps if g[0].startswith("foreign"))
+    if ill or frn:
+        paras.append(f"Not yet supplied: {ill} place(s) the transcribers could not read in their copy, marked "
+                     f"⟨•⟩ (a letter) or ⟨word⟩, and {frn} Greek or Hebrew passage(s) they did not key, marked "
+                     f"⟨Greek or Hebrew⟩. Each is to be read from a page image; none is guessed.")
+    if doc.get("errata"):
+        paras.append("The first edition prints a list of errata; it is not yet applied to the text: "
+                     + " ".join(doc["errata"])[:1500])
+    pf = sum(len(b["notes"]) for b in doc["blocks"] if b.get("k") == "pagefoot")
+    if pf:
+        paras.append(f"{pf} footnote(s) are printed at the foot of their page (“Notes to p. …”) because the "
+                     f"scan lost the marks that tie them to a word; they are not guessed into a sentence.")
     if e.get("banner_title"):
         paras.append(f"Readers may know this work as *{press_render.plain(e['banner_title'])}*, the title of "
                      f"a modern reprint. This edition does not draw on any modern edition's wording, abridgement, "
@@ -235,6 +258,9 @@ def convert(slug, e, path):
     if k == "ia-extract":
         import press_text
         return press_text.convert_ia(path, slug, e)
+    if k == "tcp":
+        import press_tcp
+        return press_tcp.convert(path, slug)
     raise RuntimeError(k)
 
 def build(slug, cat):

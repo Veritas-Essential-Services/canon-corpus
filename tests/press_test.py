@@ -127,5 +127,26 @@ check("orphan notes keep their own numbers", "[7.]{.note-num} seven" in md2 and 
 check("a glued verse call and a word call, in printed order",
       [m.group(0).strip() for m in press_text.RE_CALLS.finditer("word1 then Eph 1:192 end")], ["1", "Eph 1:192"])
 
+# --- EEBO-TCP transcriptions
+import press_tcp
+TEI = """<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader/><text><front>
+<div type="title_page"><p>THE GODLY MANS PICTURE</p><p><hi>By</hi> Tho. Watſon.</p></div>
+<div type="table_of_contents"><p>dropped contents</p></div></front>
+<body><div type="chapter"><head>CHAP. I.</head><pb facs="tcp:1:9" n="1"/>
+<p>Con<g ref="char:EOLhyphen"/>tentment is <hi>a ſweet</hi> grace<note place="margin">Phil. 4. 11.</note> and <gap reason="illegible" extent="2 letters"><desc>••</desc></gap>, as <gap reason="foreign"><desc>〈 in non-Latin alphabet 〉</desc></gap> saith.</p>
+<p>See <hi>Zach.</hi> 12. 10.</p></div></body></text></TEI>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(TEI)
+td = press_tcp.convert(f.name, "w")
+os.unlink(f.name)
+paras = [b["md"] for b in td["blocks"] if b["k"] == "para"]
+check("tcp: title page kept", [b["md"] for b in td["blocks"] if b["k"] == "tp"], ["THE GODLY MANS PICTURE", "*By* Tho. Watson."])
+check("tcp: contents dropped", any("dropped" in (b.get("md") or "") for b in td["blocks"]), False)
+check("tcp: line-end hyphen joined, long s set as s", paras[0].startswith("Contentment is *a sweet* grace[^n1]"), True)
+check("tcp: margin note is a footnote with its reference tagged", td["notes"]["n1"], '[Phil. 4. 11]{.scripture osis="Phil.4.11"}.')
+check("tcp: an illegible letter is marked, never guessed", "[⟨•⟩⟨•⟩]{.gap}" in paras[0], True)
+check("tcp: untranscribed Greek is marked", "[⟨Greek or Hebrew⟩]{.gap}" in paras[0], True)
+check("tcp: italic book in a reference", '[*Zach.* 12. 10]{.scripture osis="Zech.12.10"}' in paras[1], True)
+
 print("\n%d failure(s)" % fails)
 sys.exit(1 if fails else 0)

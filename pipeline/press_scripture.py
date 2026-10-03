@@ -55,6 +55,16 @@ _NAMES = {
     "3John": "3john 3jn 3joh iiijohn", "Jude": "jude jud", "Rev": "rev revelation revelations re apoc",
 }
 ABBR = {a: osis for osis, s in _NAMES.items() for a in s.split()}
+# 16th-17th-century and Vulgate-derived names the Puritans still printed
+ABBR.update({"zach": "Zech", "zachary": "Zech", "zachariah": "Zech", "esay": "Isa", "esai": "Isa",
+             "esaias": "Isa", "ezech": "Ezek", "ezechiel": "Ezek", "osee": "Hos", "abac": "Hab",
+             "abacuc": "Hab", "sophon": "Zeph", "aggai": "Hag", "aggeus": "Hag", "jona": "Jonah",
+             "apocalypse": "Rev", "cantic": "Song", "eccles": "Eccl", "ecclesiast": "Eccl",
+             "deuter": "Deut", "levit": "Lev", "matth": "Matt", "philip": "Phil", "philipp": "Phil",
+             "hebr": "Heb", "galat": "Gal", "ephe": "Eph",
+             "jerem": "Jer", "lament": "Lam", "proverb": "Prov", "psal": "Ps", "math": "Matt",
+             "joh": "John", "rom": "Rom", "colos": "Col", "coll": "Col", "apo": "Rev"})
+
 # "jud" is Judges in most printers but Jude in some; Judges wins (it is far
 # more common in these books); a Jude reference prints "Jude".
 ABBR["jud"] = "Judg"

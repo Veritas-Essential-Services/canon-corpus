@@ -41,3 +41,5 @@ td, th { padding: 0.15em 0.6em; vertical-align: top; text-align: left; }
             border-top-width: 0.5px; width: 100%; }
 .pagefoot p { text-indent: 0; margin-bottom: 0.35em; }
 .pagefoot-head { font-variant: small-caps; letter-spacing: 0.04em; }
+.gap { color: #a33; font-style: normal; }
+.note-num { font-variant-numeric: lining-nums; margin-right: 0.3em; }

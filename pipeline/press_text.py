@@ -19,11 +19,12 @@ from press_scripture import parse_context
 # ------------------------------------------------------------------ shared
 # A printed reference: "Psa 66:17,18", "I Cor 14:15", "Rom. viii. 13", "2 Cor. v. 17"
 _BOOKWORD = r"(?:[1-3]|I{1,3})?\s?[A-Z][a-z]{1,12}\.?"
-RE_REF_ARABIC = re.compile(r"(?<![A-Za-z])(" + _BOOKWORD + r")\s(\d{1,3})(?::|\.(?=\d))(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)")
+# the book may be set in italic ("*Zach.* 12. 10."), as 17th-century printers did
+RE_REF_ARABIC = re.compile(r"(?<![A-Za-z])\*?(" + _BOOKWORD + r")\*?\s(\d{1,3})(?::|\.\s?(?=\d))(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)")
 # a note call: digits glued to a verse ("Eph 1:192") or to a word/closing mark
 RE_CALLS = re.compile(r"(" + _BOOKWORD + r")\s(\d{1,3}):(\d{2,5})(?=[\s,.;)]|$)"
                       r"|(?<=[A-Za-z.;:,!?’”)\]])\(?(\d{1,3})\)?(?=[\s,.;:—”’)]|$)")
-RE_REF_ROMAN = re.compile(r"(?<![A-Za-z])(" + _BOOKWORD + r")\s([ivxlc]{1,7})\.\s?(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)\b")
+RE_REF_ROMAN = re.compile(r"(?<![A-Za-z])\*?(" + _BOOKWORD + r")\*?\s([ivxlc]{1,7})\.\s?(\d{1,3}(?:\s?[-–,]\s?\d{1,3})*)\b")
 
 def tag_refs(text_md, conv):
     """Wrap printed references in an already-escaped markdown string."""
