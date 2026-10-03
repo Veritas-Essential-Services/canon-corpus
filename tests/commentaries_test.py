@@ -577,6 +577,90 @@ for k in B.MEYER:
 check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
       all(ents[k]["measure"]["kjv_coverage"][b]["commented"] >= 0.95 * ents[k]["measure"]["kjv_coverage"][b]["kjv_verses"]
           for k, b in (("meyer-mark-luke-1", "Mark"), ("meyer-romans", "Rom")) if k in ents))
+# -- K&D: an undecided measure falls back to the work's own numbering, pooled over its volumes (review c9)
+check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew",
+      B.work_numbering("Ps", ids)["decision"] == "hebrew" and len(B.work_numbering("Ps", ids)["volumes"]) == 3)
+check("work_numbering: Joel and Malachi measure KJV; a book no volume holds is undecided",
+      B.work_numbering("Joel", ids)["decision"] == "kjv" and B.work_numbering("Mal", ids)["decision"] == "kjv"
+      and B.work_numbering("Isa", ids) == dict(B.work_numbering("Isa", ids), decision="undecided", volumes=[]))
+x = B.ot_link("Ps", 34, 12, "undecided", ids, "t")
+check("ot_link: undecided, a verse the two numberings read differently stays unresolved, with both candidates",
+      not x["resolved"] and [c.get("target") for c in x["candidates"]] == ["kjv:Ps.34.12", "kjv:Ps.34.11"])
+x = B.ot_link("Gen", 1, 1, "undecided", ids, "t")
+check("ot_link: undecided, a verse both read alike resolves", x["resolved"] and x["target"] == "kjv:Gen.1.1")
+_s = B.SCANS["delitzsch-psalms-2"]
+_s["_numbering"] = {"Ps": {"decision": "undecided"}}
+_u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
+       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Isa. ix. 1; Joel iii. 1."}]
+_n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
+_s.pop("_numbering")
+lk = {x["ref"]: x for x in _u[0]["links"]}
+check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
+      not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
+check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
+check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
+      and lk["Ps 34:12"]["rule"].endswith("/work"))
+check("harvest: Isa 9:1, where no volume measures Isaiah, is unresolved with both candidates",
+      not lk.get("Isa 9:1", {"resolved": True})["resolved"] and len(lk["Isa 9:1"].get("candidates", [])) == 2)
+check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
+check("harvest: the work's numbering consulted is recorded", {"Ps", "Isa", "Joel"} <= set(_x["numbering_work"]))
+
+# -- Keil & Delitzsch, the rest of the set (4c)
+its = [{"leaf": i, "book": "Jer", "hc": c} for i, c in enumerate([10, 10, 11, 11, 40, 11, 12, 12, 12, 13, 13])]
+mm = {}
+B.monotone_heads(its, mm)
+check("monotone_heads: 'XL' among XI and XII (an OCR'd XI) is dropped, and counted",
+      its[4]["hc"] is None and mm["running_heads_out_of_order"] == 1 and its[5]["hc"] == 11)
+its = [{"leaf": i, "book": b, "hc": c} for i, (b, c) in enumerate([("1Chr", 16)] * 4 + [("1Chr", 21)] * 4)]
+mm = {}
+B.monotone_heads(its, mm)
+check("monotone_heads: a real jump forward (1Chr 16 to 21, no openers between) is kept",
+      all(x["hc"] is not None for x in its) and mm["running_heads_out_of_order"] == 0)
+its = [{"leaf": 0, "book": "Ezra", "hc": 10}, {"leaf": 1, "book": "Neh", "hc": 1}, {"leaf": 2, "book": "Neh", "hc": 1}]
+mm = {}
+B.monotone_heads(its, mm)
+check("monotone_heads: a new book starting again at I is not out of order", mm["running_heads_out_of_order"] == 0)
+
+d = B.HeadDecoder({20: 30})
+d.c, d.v = 20, 25
+nt = {"Jer.20.14-18": [], "Jer.20.20-25": []}
+check("reopen: 'Ver. 20.' after 'Vers. 20-25.' reopens the run's unit",
+      B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 20, None) == "Jer.20.20-25")
+check("reopen: a verse inside the run with no unit of its own opens one (behind the sequence)",
+      B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 22, None) == "Jer.20.22")
+check("reopen: a verse before the latest run is not reopened", B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 15, None) is None)
+check("reopen: a verse with its own unit inside the run reopens that unit",
+      B.reopen("keil-delitzsch-chronicles", dict(nt, **{"Jer.20.22": []}), "Jer.", d, 22, None) == "Jer.20.22")
+check("reopen: an opener naming a chapter is not reopened", B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 22, 20) is None)
+check("reopen: only the volumes that ask for it", B.reopen("delitzsch-psalms-1", nt, "Jer.", d, 22, None) is None)
+
+check("K&D 4c: twelve volumes, each in ORDER after the earlier K&D", len(B.KD4C) == 12
+      and B.ORDER.index(next(iter(B.KD4C))) > max(B.ORDER.index(k) for k in B.SECOND if k not in B.KD4C))
+check("K&D 4c: every volume says why its scan was chosen, and reads its rights field",
+      all(s.get("scan_choice") and "ia_rights" in s for s in B.KD4C.values()))
+check("K&D 4c: a volume continuing a book starts at its chapter (Jer 30, Ezek 29)",
+      B.SCANS["keil-delitzsch-jeremiah-2"]["first_chapter"]["Jer"] == 30
+      and B.SCANS["keil-delitzsch-ezekiel-2"]["first_chapter"]["Ezek"] == 29)
+for k in B.KD4C:
+    e = ents.get(k)
+    if not e:
+        continue
+    check(f"manifest: {k} names its misread heads and its reopened notes in its honesty",
+          "running_heads_out_of_order" in e["scheme"]["honesty"] and "notes_reopened" in e["scheme"]["honesty"]
+          and "running_heads_out_of_order" in e["measure"])
+    check(f"manifest: {k} has a rights block as read", e["rights"]["ia_possible_copyright_status"]
+          and e["rights"]["source_url"].endswith(B.SCANS[k]["ia"]))
+num = {k: ents[k]["scheme"]["numbering"] for k in B.KD4C if k in ents}
+if len(num) == 12:
+    check("manifest: Joel and Malachi are measured as numbered in the KJV (Martin's English Bible numbering)",
+          num["keil-delitzsch-minor-prophets-1"]["Joel"] == "kjv" and num["keil-delitzsch-minor-prophets-2"]["Mal"] == "kjv")
+    check("manifest: 1 Chronicles, Nehemiah, Jeremiah 1-29 and Daniel are measured as numbered in the Hebrew",
+          num["keil-delitzsch-chronicles"]["1Chr"] == "hebrew" and num["keil-delitzsch-ezra-nehemiah-esther"]["Neh"] == "hebrew"
+          and num["keil-delitzsch-jeremiah-1"]["Jer"] == "hebrew" and num["keil-delitzsch-daniel"]["Dan"] == "hebrew")
+    check("manifest: 1 Kings and Hosea are measured as numbered in the KJV",
+          num["keil-delitzsch-kings"]["1Kgs"] == "kjv" and num["keil-delitzsch-minor-prophets-1"]["Hos"] == "kjv")
+    check("manifest: Jeremiah vol. II covers only chapters 30-52",
+          ents["keil-delitzsch-jeremiah-2"]["measure"]["kjv_coverage"]["Jer"].get("chapters") == [30, 52])
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

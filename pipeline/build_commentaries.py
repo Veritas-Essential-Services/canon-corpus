@@ -2142,6 +2142,192 @@ for _s in SECOND.values():
 ORDER.extend(SECOND)
 MULTI.update(k for k, s in SECOND.items() if len(s["epistles"]) > 1)
 
+# ================================================================== Keil & Delitzsch: the rest of the set (4c)
+#
+# The other volumes of T. & T. Clark's Biblical Commentary on the Old Testament, read by the same `kd`
+# reader.
+# Every candidate scan measured 2026-10-03 on its _djvu.txt (Hebrew / Greek letters as a share of all
+# letters; English tokens of 3+ letters found in the dwyl word list; 'Ver.' openers as kd_cands reads
+# them, line by line; hOCR present or not). No scan of any volume keeps its Hebrew (0.00% in every one).
+# The Brigham Young set (biblicalcommenta00keil01 ... 07keil07, IA date '1900') is Eerdmans' photographic
+# reprint (its own leaves read "Reprinted, November 1986"): refused, not printed before 1929. The
+# india.history.resource.* items carry no rights field, no contributor and no page count: used only
+# as measures. Cornell's 1878 set (cu3192407068xxxx) has hOCR for only some volumes; where it has none,
+# it is a measure only.
+#   Joshua, Judges, Ruth  joshuajudgesruth04keil 1875 (Robarts) 94.2%  789 Ver.   <- chosen
+#               biblicalcommenta04keiluoft 1882 (Emmanuel; IA titles it Job) 94.0% 783; biblicalcomm04keiluoft
+#               1869- (Robarts) 93.6% 745; joshuajudgesruth1872keil 94.2% 783, joshuajudgesrut00keilgoog 1865
+#               94.1% 783, joshuajudgesruth1880keil 93.2% 759; cu31924070685734 93.0% 704; india...72625 94.0% 750
+#   Samuel      biblicalcomment00keiluoft 1880 (Trinity) 95.0%  915 Ver.   <- chosen
+#               commentarysamuel00keiluoft 1880 (Trinity) 94.9% 907; biblicalcommen00keil 1876 (Robarts) 94.9% 912;
+#               biblicalcomment00keil 1872 94.4% 902; biblicalcommenta68keil 1868 94.2% 898; cu31924052268087
+#               1891 94.3% 894; cu31924070685742 94.6% 884; india...72628 94.5% 888
+#   Kings       thebooksofthekin00keiluoft 1883 (Emmanuel; 2nd ed.) 93.6%  841 Ver.   <- chosen
+#               booksofkings00bhuoft 1872 (Robarts) 93.1% 649; booksofkings00keil 1872 93.4% 778;
+#               bookskingstrbyj00keilgoog 1872 91.2% 347
+#   Chronicles  booksofchronicle00keiluoft 1878 (Robarts) 93.1%  772 Ver.   <- chosen
+#               booksofchronicle00keiliala 1872 93.5% 783 (not clearly better; not Toronto); booksofchronicle00keil
+#               1872 93.2% 770; bookschronicles00keilgoog 1872 91.7% 416; cu31924070685767 92.9% 758; india...72634
+#   Ezra, Nehemiah, Esther  booksofezranehem00keil 1873 (Princeton) 93.3%  521 Ver.   <- chosen (no Toronto scan)
+#               booksofezranehem1888keil 1888 92.6% 515; booksezranehemi00keilgoog, cu31924058517529,
+#               cu31924070685775: no hOCR; india...72636 93.5% 508
+KD4C = {
+    "keil-delitzsch-joshua-judges-ruth": _kd(
+        "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth", "Keil, Josh.-Ruth", _KDP,
+        "joshuajudgesruth04keil", "4b0cb6d3360799a7228cd3fac29245621530e78e4c9f60e8829d39d48f2f295f",
+        f"{_KD}, vol. IV: Joshua, Judges, Ruth, by C. F. Keil and F. Delitzsch, tr. James Martin (1875 issue), "
+        "as its title page reads", 1875, "University of Toronto (Robarts)", None, (7, 508),
+        [("Josh", 39, 248), ("Judg", 261, 478), ("Ruth", 484, 508)]),
+    "keil-delitzsch-samuel": _kd(
+        "Biblical Commentary on the Books of Samuel", "Keil, Sam.", _KDP,
+        "biblicalcomment00keiluoft", "1560a2ea753736b564e2f5bc7e9fbe87e392865cab9eb780512ee86eee6c2679",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Books of Samuel, tr. James Martin (1880 issue), "
+        "as its title page reads", 1880, "University of Toronto (Trinity College)", "NOT_IN_COPYRIGHT", (6, 523),
+        [("1Sam", 24, 293), ("2Sam", 294, 523)]),
+    "keil-delitzsch-kings": _kd(
+        "Biblical Commentary on the Books of the Kings", "Keil, Kings", _KDP,
+        "thebooksofthekin00keiluoft", "6097e3f6bd3c190d18773c479b7fc86e9883e6647423e771af77869409b462d0",
+        f"{_KD}: C. F. Keil, The Books of the Kings, tr. James Martin, second edition (1883), as its title page "
+        "reads", 1883, "University of Toronto (Emmanuel College)", "NOT_IN_COPYRIGHT", (6, 534),
+        [("1Kgs", 26, 294), ("2Kgs", 295, 534)]),
+    "keil-delitzsch-chronicles": _kd(
+        "Biblical Commentary on the Books of the Chronicles", "Keil, Chron.", _KDP,
+        "booksofchronicle00keiluoft", "2beebc8ca2a4d11ef5ad17946c43a6a7ec938bffacaaf2363fcb5670a3d835c5",
+        f"{_KD}: C. F. Keil, The Books of the Chronicles, tr. Andrew Harper (1878), as its title page reads",
+        1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (6, 527),
+        [("1Chr", 58, 313), ("2Chr", 314, 527)]),
+    "keil-delitzsch-ezra-nehemiah-esther": _kd(
+        "Biblical Commentary on the Books of Ezra, Nehemiah, and Esther", "Keil, Ezra-Esth.", _KDP,
+        "booksofezranehem00keil", "8ceaeab881449655839e75e65844b072bc4f370896968dc07cae8f5ad5ad4d05",
+        f"{_KD}: C. F. Keil, The Books of Ezra, Nehemiah, and Esther, tr. Sophia Taylor (1873), as its title page "
+        "reads", 1873, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (11, 396),
+        [("Ezra", 35, 152), ("Neh", 170, 314), ("Esth", 335, 396)]),
+}
+# how each was chosen (scheme.scan_choice), and each item's IA `date` (fetch() stops if it changes)
+KD4C_CHOICE = {
+    "keil-delitzsch-joshua-judges-ruth": "joshuajudgesruth04keil (Toronto, 1875): English 94.2%, 789 'Ver.' openers; "
+                                         "biblicalcommenta04keiluoft (Toronto, 1882) 94.0%/783 and "
+                                         "biblicalcomm04keiluoft (Toronto, 1869) 93.6%/745",
+    "keil-delitzsch-samuel": "biblicalcomment00keiluoft (Toronto, 1880): English 95.0%, 915 'Ver.' openers; "
+                             "commentarysamuel00keiluoft (the same issue) 94.9%/907, biblicalcommen00keil (Toronto, "
+                             "1876) 94.9%/912",
+    "keil-delitzsch-kings": "thebooksofthekin00keiluoft (Toronto, 1883, 2nd ed.): English 93.6%, 841 'Ver.' openers; "
+                            "booksofkings00bhuoft (Toronto, 1872) 93.1%/649, booksofkings00keil (1872) 93.4%/778",
+    "keil-delitzsch-chronicles": "booksofchronicle00keiluoft (Toronto, 1878): English 93.1%, 772 'Ver.' openers; "
+                                 "booksofchronicle00keiliala (1872) 93.5%/783 is not clearly better",
+    "keil-delitzsch-ezra-nehemiah-esther": "booksofezranehem00keil (Princeton, 1873; no Toronto scan): English 93.3%, "
+                                           "521 'Ver.' openers; booksofezranehem1888keil 92.6%/515; the Oxford and "
+                                           "Cornell scans have no hOCR",
+}
+KD4C_IA_DATES = {
+    "joshuajudgesruth04keil": ("1875", None),
+    "biblicalcomment00keiluoft": ("1880", None),
+    "thebooksofthekin00keiluoft": ("1883", None),
+    "booksofchronicle00keiluoft": ("1878", None),
+    "booksofezranehem00keil": ("1873", None),
+}
+# The prophets: Jeremiah and Lamentations (2 vols), Ezekiel (2 vols), Daniel, the Minor Prophets (2 vols);
+# the candidates measured are in KD4C_CHOICE. The Ezekiel scans bind Andrews' Life of Christ after the
+# commentary: those leaves are outside the volume's range.
+KD4C.update({
+    "keil-delitzsch-jeremiah-1": _kd(
+        "Biblical Commentary on the Prophecies of Jeremiah, vol. I", "Keil, Jer. I", _KDP,
+        "propheciesofjere01keil", "e609bff9112327710351175b3308258e17b7e06ac6094e8aff100a25badc18a3",
+        f"{_KD}: C. F. Keil, The Prophecies of Jeremiah, vol. I (chap. i.-xxix.), tr. David Patrick (1880 issue), "
+        "as its title page reads", 1880, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (9, 433),
+        [("Jer", 51, 433)]),
+    "keil-delitzsch-jeremiah-2": _kd(
+        "Biblical Commentary on the Prophecies of Jeremiah, vol. II", "Keil, Jer. II", _KDP,
+        "propheciesofjere02keil", "8e714e17e98bb401fe5621a55a38ecd5310adb81efb8ade970e071878423a342",
+        f"{_KD}: C. F. Keil, The Prophecies of Jeremiah, vol. II (chap. xxx.-lii.; Lamentations), tr. James "
+        "Kennedy (1874), as its title page reads", 1874, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT",
+        (7, 467), [("Jer", 13, 343), ("Lam", 367, 467)]),
+    "keil-delitzsch-ezekiel-1": _kd(
+        "Biblical Commentary on the Prophecies of Ezekiel, vol. I", "Keil, Ezek. I", _KDP,
+        "biblicalcommenta01keiluoft", "ecec4e81ffab2306a5f2eb729290db4f3c3891d5f8218a940b403e032af07f6d",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. I (chap. i.-xxviii.), tr. "
+        "James Martin (1876), as its title page reads", 1876, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (8, 443), [("Ezek", 32, 443)]),
+    "keil-delitzsch-ezekiel-2": _kd(
+        "Biblical Commentary on the Prophecies of Ezekiel, vol. II", "Keil, Ezek. II", _KDP,
+        "biblicalcommenta02keiluoft", "c20737e357a7f3f1647ab1a79fc7131e3be1ea5d1becaf09e56dd14743bf3f7d",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. II (chap. xxix.-xlviii.), tr. "
+        "James Martin (1876), as its title page reads", 1876, "University of Toronto (Emmanuel College)", None,
+        (6, 459), [("Ezek", 14, 459)]),
+    "keil-delitzsch-daniel": _kd(
+        "Biblical Commentary on the Book of Daniel", "Keil, Dan.", _KDP,
+        "bookofprophetdan00keil", "51ab5c80ff5a5c6c39f20cb3928c0f0b30001aec7fb0ff7dafc86a664826df62",
+        f"{_KD}: C. F. Keil, The Book of the Prophet Daniel, tr. M. G. Easton (1872), as its title page reads",
+        1872, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (7, 526), [("Dan", 76, 526)]),
+    "keil-delitzsch-minor-prophets-1": _kd(
+        "Biblical Commentary on the Twelve Minor Prophets, vol. I", "Keil, Min. Proph. I", _KDP,
+        "thetwelveminorp01keiluoft", "f781e60b1c64f5c28c7684983c2b2469bdbc20a6fdbcb12e471fbbaa3e79b971",
+        f"{_KD}: C. F. Keil, The Twelve Minor Prophets, vol. I (Hosea to Micah), tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (4, 526),
+        [("Hos", 38, 178), ("Joel", 190, 243), ("Amos", 251, 347), ("Obad", 361, 389), ("Jonah", 400, 428),
+         ("Mic", 436, 526)]),
+    "keil-delitzsch-minor-prophets-2": _kd(
+        "Biblical Commentary on the Twelve Minor Prophets, vol. II", "Keil, Min. Proph. II", _KDP,
+        "thetwelveminorpr02keiluoft", "44995dcbef39e0e8ca4548baa1551cc211dd5634897dfeb85b3ef06367667092",
+        f"{_KD}: C. F. Keil, The Twelve Minor Prophets, vol. II (Nahum to Malachi), tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (4, 486),
+        [("Nah", 19, 59), ("Hab", 66, 127), ("Zeph", 137, 176), ("Hag", 185, 226), ("Zech", 234, 432),
+         ("Mal", 440, 486)]),
+})
+KD4C_CHOICE.update({
+    "keil-delitzsch-jeremiah-1": "propheciesofjere01keil (Princeton, 1880; no Toronto scan): English 94.8%, 895 'Ver.' "
+                                 "openers; cu31924070685882 (Cornell) 93.9%/881 has no hOCR",
+    "keil-delitzsch-jeremiah-2": "propheciesofjere02keil (Princeton, 1874; no Toronto scan): English 93.7%, 763 'Ver.' "
+                                 "openers; cu31924070685890 (Cornell) 93.6%/750 has no hOCR; prophesiesofjere0002unse "
+                                 "is a lending-library item (its text refused, HTTP 401)",
+    "keil-delitzsch-ezekiel-1": "biblicalcommenta01keiluoft (Toronto, 1876): English 95.8%, 794 'Ver.' openers; "
+                                "biblicalcommenta00keiluoft (Toronto) 95.4%/808, biblicalcommenta01keil (Princeton) "
+                                "94.4%/794",
+    "keil-delitzsch-ezekiel-2": "biblicalcommenta02keiluoft (Toronto, 1876): English 96.0%, 619 'Ver.' openers; "
+                                "india.history.resource.78885 95.6%/613; cu31924070685908/-916 (Cornell): no hOCR",
+    "keil-delitzsch-daniel": "bookofprophetdan00keil (Princeton, 1872; no Toronto scan): English 93.6%, 280 'Ver.' "
+                             "openers; cu31924070689447 (Cornell, 1878) 93.6%/284 is not clearly better",
+    "keil-delitzsch-minor-prophets-1": "thetwelveminorp01keiluoft (Toronto, 1878): English 95.5%, 610 'Ver.' openers; "
+                                       "cu31924070689454 (Cornell) 94.4%/595, india.history.resource.78876 (1868) "
+                                       "94.7%/580",
+    "keil-delitzsch-minor-prophets-2": "thetwelveminorpr02keiluoft (Toronto, 1878): English 95.2%, 508 'Ver.' openers; "
+                                       "cu31924070689462 (Cornell) 94.0%/493, india.history.resource.72629 (1868) "
+                                       "94.4%/487",
+})
+KD4C_IA_DATES.update({
+    "propheciesofjere01keil": ("1874-1880 [v. 1, 1880]", "IA dates the set; this volume's title page reads 1880"),
+    "propheciesofjere02keil": ("1874-1880 [v. 1, 1880]", "IA dates the set, naming vol. I's 1880; this volume's "
+                                                         "title page reads 1874"),
+    "biblicalcommenta01keiluoft": ("1876", None),
+    "biblicalcommenta02keiluoft": ("1876", None),
+    "bookofprophetdan00keil": ("1872", None),
+    "thetwelveminorp01keiluoft": ("1878", None),
+    "thetwelveminorpr02keiluoft": ("1878", None),
+})
+KD4C_HONESTY = (
+    "a running head naming a chapter below the median of the five headed leaves before it or above the median "
+    "of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence "
+    "refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' "
+    "after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which "
+    "is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it "
+    "without moving the sequence (measure.notes_opened_behind)")
+# a volume continuing a book starts its notes where the volume before left off
+KD4C_FIRST_CHAPTER = {"keil-delitzsch-jeremiah-2": {"Jer": 30}, "keil-delitzsch-ezekiel-2": {"Ezek": 29}}
+for _k, _s in KD4C.items():
+    _s["scan_choice"] = KD4C_CHOICE[_k]
+    _s["monotone_heads"] = True     # a misread head ('XL' for 'XI') must not carry the notes 29 chapters on
+    _s["reopen"] = True             # 'Ver. 20.' after 'Ver. 25.': the exposition after the translation
+    _s["honesty"] = KD4C_HONESTY
+    if _k in KD4C_FIRST_CHAPTER:
+        _s["first_chapter"] = KD4C_FIRST_CHAPTER[_k]
+    _s["ia_date"], _why = KD4C_IA_DATES[_s["ia"]]
+    if _why:
+        _s["ia_date_note"] = _why
+SECOND.update(KD4C)
+SCANS.update(KD4C)
+ORDER.extend(KD4C)
+MULTI.update(k for k, s in KD4C.items() if len(s["epistles"]) > 1)
+
 # ------------------------------------------------------------------ second shelf: Alford's page
 
 ALF_APP = {"rec", "om", "ins", "txt", "bef", "aft", "rel", "latt", "vss", "syrr", "copt", "arm", "eth", "aeth",
@@ -2448,14 +2634,26 @@ def decide(v):
 
 
 def ot_link(b, c, v, numbering, ids, rule):
-    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided)."""
+    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided).
+    Undecided: a verse only one numbering has is read in it; a verse both have
+    is resolved only where the two read it alike, else it stays unresolved with
+    both candidates (never silently the KJV's)."""
     import versification as V
     osis = f"{b}.{c}.{v}"
     if numbering == "undecided":
         h = 1 <= v <= vmap()["hebrew_chapters"].get(f"{b}.{c}", 0)
         k = f"kjv:{osis}" in ids
-        numbering = "hebrew" if (h and not k) else "kjv"
         rule += "/undecided"
+        if h and k:
+            r = V.resolve(osis, vmap(), ids)
+            if r.get("resolved") and r["target"] == f"kjv:{osis}" and "spans" not in r:
+                return {"printed": osis, "target": f"kjv:{osis}", "resolved": True, "numbering": "either",
+                        "rule": rule}
+            heb = {"numbering": "hebrew", **({"target": r["target"]} if r.get("resolved") else {"why": r["why"]})}
+            return {"printed": osis, "resolved": False, "numbering": "undecided",
+                    "why": "the numbering is not measured here, and the Hebrew and the KJV read this verse differently",
+                    "candidates": [{"numbering": "kjv", "target": f"kjv:{osis}"}, heb], "rule": rule}
+        numbering = "hebrew" if (h and not k) else "kjv"
     if numbering == "hebrew":
         r = V.resolve(osis, vmap(), ids)
         out = {"printed": osis, "numbering": "hebrew", "rule": rule}
@@ -2466,10 +2664,42 @@ def ot_link(b, c, v, numbering, ids, rule):
         return {"printed": osis, "target": t, "resolved": True, "numbering": "kjv", "rule": rule}
     return {"printed": osis, "resolved": False, "numbering": "kjv", "why": "no such verse in the KJV", "rule": rule}
 
+
+_OWN, _WORK = {}, {}
+
+
+def work_numbering(book, ids):
+    """How Keil & Delitzsch's commentary numbers `book`, measured from its own
+    note ids: the existence votes of every `kd` volume holding the book,
+    pooled (one volume rarely has enough differing verses; the set does).
+    Undecided where no volume holds the book."""
+    if book not in _WORK:
+        tot = {"read": 0, "only_hebrew": 0, "only_kjv": 0}
+        vols = []
+        for k, s in SCANS.items():
+            if s.get("reader") != "kd" or book not in [e[0] for e in s.get("epistles", [])]:
+                continue
+            if k not in _OWN:
+                _OWN[k] = build_scan_2b(k, ids, votes_only=True)
+            for f in tot:
+                tot[f] += _OWN[k][book][f]
+            vols.append(k)
+        _WORK[book] = dict(tot, decision=decide(tot), volumes=vols)
+    return _WORK[book]
+
+
+def effective(decision, book, ids, rule, used=None):
+    """A measured decision, or, where it is undecided, the work's own."""
+    if decision != "undecided":
+        return decision, rule
+    if used is not None:
+        used.add(book)
+    return work_numbering(book, ids)["decision"], rule + "/work"
+
 # ------------------------------------------------------------------ second shelf: the build
 
 
-def build_scan_2b(slug, ids):
+def build_scan_2b(slug, ids, votes_only=False):
     s = SCANS[slug]
     reader = s["reader"]
     P = pages(slug)
@@ -2564,6 +2794,8 @@ def build_scan_2b(slug, ids):
                 for l in foot:
                     t = C.join(t, l["text"])
                 items.append({"book": book, "leaf": leaf, "text": t, "foot": True, "cands": [], "hc": hc, "hv": hv})
+    if s.get("monotone_heads"):
+        monotone_heads(items, m)
     # heads confirmed by the nearest headed leaves (a verso head may name only
     # the book): sure when a neighbour agrees, or the chapter lies between them
     headed = {}
@@ -2599,6 +2831,9 @@ def build_scan_2b(slug, ids):
             v = numbering_votes(pairs, ids)
             v["decision"] = decide(v)
             numbering[book] = v
+        if votes_only:
+            return numbering
+        _OWN[slug] = {b: dict(v) for b, v in numbering.items()}
         m["numbering_own"] = numbering
     counts = {}
     for book in kjv_counts:
@@ -2627,6 +2862,7 @@ def build_scan_2b(slug, ids):
             vs = range(nu["n"], (nu["e"] or nu["n"]) + 1)
             nb = numbering.get(book, {}).get("decision")
             if nb:                  # an OT volume: its numbering measured, the Hebrew mapped
+                nb = effective(nb, book, ids, "")[0]
                 links = [dict(ot_link(book, nu["c"], v, nb, ids, "comments-on"), type="comments-on") for v in vs]
                 for lk in links:
                     lk.pop("rule", None)
@@ -2644,6 +2880,28 @@ def build_scan_2b(slug, ids):
     order = {"page": 0, "epistle-text": 0, "intro": 1, "note": 1}
     units.sort(key=lambda u: (min(u["scan"]["leaves"]), order[u["kind"]]))
     return units, m, (a0, b0), pp
+
+
+def monotone_heads(items, m, w=5):
+    """(4c) A commentary's chapters only move forward, so a running head
+    naming a chapter below the median of the five headed leaves before it, or
+    above the median of the five after it (same book), is a misreading ('XL'
+    for 'XI', 'XXV' for 'XXVIII'): its chapter is dropped, and counted."""
+    seq, seen = [], set()
+    for it in items:
+        if it["hc"] is not None and it["leaf"] not in seen:
+            seen.add(it["leaf"])
+            seq.append((it["leaf"], it["book"], it["hc"]))
+    bad = set()
+    for i, (leaf, book, hc) in enumerate(seq):
+        prev = [x[2] for x in seq[max(0, i - w):i] if x[1] == book]
+        nxt = [x[2] for x in seq[i + 1:i + 1 + w] if x[1] == book]
+        if (prev and hc < st.median_low(prev)) or (nxt and hc > st.median_high(nxt)):
+            bad.add(leaf)
+    for it in items:
+        if it["leaf"] in bad:
+            it["hc"] = None
+    m["running_heads_out_of_order"] = len(bad)
 
 
 class HeadDecoder(Decoder):
@@ -2752,6 +3010,17 @@ def decode_2b(slug, items, decoders, pp, m):
                 m["openers_out_of_sequence"] += 1
                 continue
             took = dec.offer(n, e, hc, it["hv"], cp, it["hsure"], nxt)
+            back = reopen(slug, notes, pre, dec, n, cp) if not took else None
+            if back:
+                # (4c) a verse of this section taken up again (Keil's Jeremiah: the section's
+                # translation verse by verse, then the exposition verse by verse): its text joins
+                # that verse's unit, and the sequence stays where it was
+                m["notes_reopened" if back in notes else "notes_opened_behind"] += 1
+                put(current[book], it["text"][pos:p].strip(), leaf, para)
+                unit(back, book, dec.c, n)
+                current[book] = back
+                pos, para = p, True
+                continue
             m["openers_accepted" if took else "openers_rejected"] += 1
             if not took:
                 continue
@@ -2764,6 +3033,27 @@ def decode_2b(slug, items, decoders, pp, m):
             pos, para = p, True
         put(current[book], it["text"][pos:].strip(), leaf, para)
     return notes
+
+
+def reopen(slug, notes, pre, dec, n, cp):
+    """(4c) The unit of a verse already passed in the current chapter, for an
+    opener the sequence refused ('Ver. 20.' after 'Ver. 25.') inside the
+    section the chapter's latest run opened ('Vers. 20-25.'): the verse's own
+    unit, else the latest run that opens at it, else a new unit for that verse
+    (the exposition after a translation printed without verse numbers); None
+    elsewhere, or where the volume does not reopen."""
+    if not SCANS[slug].get("reopen") or cp is not None or n >= dec.v:
+        return None
+    run = next((k for k in reversed(notes) if k.startswith(f"{pre}{dec.c}.") and "-" in k), None)
+    if not run:
+        return None
+    a, b = (int(x) for x in run.rsplit(".", 1)[1].split("-"))
+    if not a <= n <= b:
+        return None         # only inside the section the latest run opened ('Vers. 20-25.')
+    key = f"{pre}{dec.c}.{n}"
+    if key in notes:
+        return key
+    return next((k for k in reversed(notes) if k.startswith(key + "-")), None) or key
 
 
 def harvest_2b(slug, units, ids):
@@ -2803,7 +3093,7 @@ def harvest_2b(slug, units, ids):
         vv = numbering_votes(pairs, ids)
         vv["decision"] = decide(vv)
         measure[k] = vv
-    own_num = {}
+    own_num, used = {}, set()
     n = r = 0
     for u, refs in zip(units, parsed):
         found, seen = [], set()
@@ -2821,9 +3111,9 @@ def harvest_2b(slug, units, ids):
                 continue
             if book in V.BOOKS:
                 cls = "Ps" if book == "Ps" else "other"
-                x = dict(ref=p, **ot_link(book, ch, v, measure[cls]["decision"], ids, f"text/{cls}"))
-                y = (ot_link(book, ch, end, measure[cls]["decision"], ids, f"text/{cls}")
-                     if end and end > v else None)
+                dec, rl = effective(measure[cls]["decision"], book, ids, f"text/{cls}", used)
+                x = dict(ref=p, **ot_link(book, ch, v, dec, ids, rl))
+                y = ot_link(book, ch, end, dec, ids, rl) if end and end > v else None
             else:
                 t = f"kjv:{book}.{ch}.{v}"
                 x = ({"ref": p, "target": t, "resolved": True, "numbering": "kjv", "rule": "text/nt"} if t in ids else
@@ -2836,13 +3126,14 @@ def harvest_2b(slug, units, ids):
             mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
             if mm:
                 b, c = u["book"], int(mm.group(1))
-                nb = own_num.setdefault(b, s["_numbering"].get(b, {}).get("decision", "kjv"))
+                nb, srl = own_num.setdefault(b, effective(s["_numbering"].get(b, {}).get("decision", "kjv"), b, ids,
+                                                          "self", used))
                 for mt in SELF_VER.finditer(u["text"]):
                     for v, end in _ver_spans(mt):
                         p = f"{b} {c}:{v}" + (f"-{end}" if end else "")
                         if p not in seen:
                             seen.add(p)
-                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, "self/ver"))
+                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, srl.replace("self", "self/ver", 1)))
                             _kd_through(x, c, v, end, ot_link(b, c, end, nb, ids, "self/ver")
                                         if end and end > v else None)
                             found.append(x)
@@ -2851,11 +3142,13 @@ def harvest_2b(slug, units, ids):
                     p = f"{b} {c2}:{mt.group(2)}"
                     if c2 and p not in seen and c2 <= max(heb_counts(b)):
                         seen.add(p)
-                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids, "self/chap")))
+                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids,
+                                                           srl.replace("self", "self/chap", 1))))
         u["links"] += found
         n += len(found)
         r += sum(1 for x in found if x.get("resolved"))
-    return n, r, {"numbering_references": measure}
+    return n, r, {"numbering_references": measure,
+                  "numbering_work": {b: work_numbering(b, ids) for b in sorted(used)}}
 
 
 def _ver_spans(mt):
@@ -2912,9 +3205,13 @@ def honesty_2b(slug):
             "section, belong to it until the next accepted opener; ids are in the numbering the volume prints, "
             "MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the "
             "Hebrew's; the OT references in the text are resolved in the numbering measured for them "
-            "(measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the "
+            "(measure.numbering_references); where either measure is undecided, the commentary's own numbering of "
+            "that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled "
+            "(measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only "
+            "where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the "
             "Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the "
-            "text as printed by the OCR, unremoved; unproofread OCR")
+            "text as printed by the OCR, unremoved" + (f"; {s['honesty']}" if s.get("honesty") else "")
+            + "; unproofread OCR")
 
 
 def citation_2b(slug):
