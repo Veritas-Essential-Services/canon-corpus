@@ -1,11 +1,17 @@
 {
- "_about": "Herman Witsius (1636-1708). The target is The Oeconomy of the Covenants between God and Man, 'a new translation from the original Latin' (3 vols, New York, 1798), Internet Archive OCR, raw; each title page read. The 1798 text never names its translator (checked: no 'Crookshank' in any volume), so no _translators entry; the 1803 edition (alternates) names William Crookshank, and confirming the two are one translation is left for a later pass. Vol. 1's OCR keeps some long-s misreadings ('fuch', 'alfo'). Witsius's other English works are pending.",
+ "_about": "Herman Witsius (1636-1708). The target is The Oeconomy of the Covenants between God and Man, 'a new translation from the original Latin' (3 vols, New York, 1798), Internet Archive OCR, raw; each title page read. The 1798 text never names its translator (checked: no 'Crookshank' in any volume), so it has no _translators entry; the 1803 edition (alternates) names William Crookshank, and confirming the two are one translation is left for a later pass. Vol. 1's OCR keeps some long-s misreadings ('fuch', 'alfo'). Added 2026-10-03: the Sacred Dissertations on the Apostles' Creed, tr. Donald Fraser (1823, 2 vols), on the Lord's Prayer, tr. William Pringle (1839), and the Irenical Animadversions, tr. Thomas Bell (1807), with their translators checked.",
  "_name_words": [
   "witsius"
  ],
  "_surname": [
   "witsius"
  ],
+ "_translators": {
+  "witsius-apostles-creed-1": "Fraser",
+  "witsius-apostles-creed-2": "Fraser",
+  "witsius-lords-prayer-1839": "Pringle",
+  "witsius-irenical-animadversions-1807": "Bell"
+ },
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
@@ -20,6 +26,22 @@
   "witsius-economy-03": [
    "oeconomyofcovena03wits",
    "The Oeconomy of the Covenants between God and Man (New York, 1798), vol. 3"
+  ],
+  "witsius-apostles-creed-1": [
+   "sacreddissertati01wits",
+   "Sacred Dissertations on what is commonly called the Apostles' Creed, tr. Donald Fraser (Glasgow and Edinburgh, 1823), vol. 1"
+  ],
+  "witsius-apostles-creed-2": [
+   "sacreddissertati02wits",
+   "Sacred Dissertations on what is commonly called the Apostles' Creed, tr. Donald Fraser (Glasgow and Edinburgh, 1823), vol. 2"
+  ],
+  "witsius-lords-prayer-1839": [
+   "sacreddissertati24wits",
+   "Sacred Dissertations on the Lord's Prayer, tr. William Pringle (Edinburgh: Thomas Clark, 1839; the Biblical Cabinet, vol. 24)"
+  ],
+  "witsius-irenical-animadversions-1807": [
+   "conciliatoryorir00wits",
+   "Conciliatory or Irenical Animadversions on the Controversies agitated in Britain under the unhappy names of Antinomians and Neonomians, tr. Thomas Bell (1807)"
   ]
  },
  "_alternates": {
@@ -29,9 +51,6 @@
   "MN41373ucmf_5": "1837 edition on microfilm; metadata returned HTTP 500 on 2026-10-03."
  },
  "_pending": {
-  "Sacred Dissertations on the Apostles' Creed, tr. Donald Fraser (2 vols, 1823)": "sacreddissertati01wits, 02wits (Princeton); not yet title-checked.",
-  "Sacred Dissertations on the Lord's Prayer, tr. William Pringle (1839)": "sacreddissertati24wits (Princeton); not yet title-checked.",
-  "Conciliatory or Irenical Animadversions, tr. Thomas Bell (1807)": "conciliatoryorir00wits (Princeton); not yet title-checked.",
   "De oeconomia foederum (Latin, 1685 and later)": "The Latin original; for a Latin shelf."
  },
  "_excluded": {
@@ -69,6 +88,58 @@
    "ia_rights": "ok: published 1798",
    "ia_date": "1798",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "witsius-apostles-creed-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "translator_claimed": "Fraser",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witsius-apostles-creed-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "translator_claimed": "Fraser",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "witsius-lords-prayer-1839": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "translator_claimed": "Pringle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "witsius-irenical-animadversions-1807": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "translator_claimed": "Bell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1807",
+   "ia_date": "1807",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

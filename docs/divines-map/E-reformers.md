@@ -61,7 +61,7 @@ Built 2026-10-03 on its own branch (not a relay lane), with the relay's `pipelin
 | Work | Status | Where |
 |---|---|---|
 | The Oeconomy of the Covenants (3 vols, New York 1798) | have-raw | `witsius_shelf.json`, IA Princeton; translator not named in the text |
-| Sacred Dissertations on the Apostles' Creed (1823); on the Lord's Prayer (1839); Irenical Animadversions (1807) | pending | Princeton scans, not yet title-checked |
+| Sacred Dissertations on the Apostles' Creed, tr. Fraser (2 vols, 1823); on the Lord's Prayer, tr. Pringle (1839); Irenical Animadversions, tr. Bell (1807) | have-raw | `witsius_shelf.json`; translators checked |
 
 ## John Calvin: gaps beside lane A's shelf
 
