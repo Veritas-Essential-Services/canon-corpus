@@ -45,6 +45,11 @@
    "odesanacreontra00girdgoog",
    "The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804)",
    "tr. Thomas Girdlestone"
+  ],
+  "anacreon-arnold-1869": [
+   "anacreoninengli00anacgoog",
+   "Anacreon in English, attempted in the metres of the original (undated; IA gives 1869)",
+   "tr. Thomas James Arnold"
   ]
  },
  "_excluded": {
@@ -70,7 +75,8 @@
   "bacchylides-poste": "poste",
   "greek-anthology-burges-1854": "George Burges",
   "anacreon-fawkes-1760": "Fawkes",
-  "anacreon-girdlestone-1804": "Girdlestone"
+  "anacreon-girdlestone-1804": "Girdlestone",
+  "anacreon-arnold-1869": "Arnold"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -159,6 +165,19 @@
    "ia_date": "1804",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "anacreon-arnold-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Arnold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
@@ -178,6 +197,9 @@
    "anacreon"
   ],
   "anacreon-girdlestone-1804": [
+   "anacreon"
+  ],
+  "anacreon-arnold-1869": [
    "anacreon"
   ]
  }
