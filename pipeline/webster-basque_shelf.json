@@ -1,0 +1,17 @@
+{
+ "_about": "Wentworth Webster's (1829-1907) Basque Legends (the Gutenberg text is the second edition, 1879), tales collected among the Basques and translated by him, with Julien Vinson's essay on the Basque language. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Wentworth Webster",
+ "_name_words": [
+  "basque",
+  "legends"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "webster-basque-legends": [
+   34902,
+   "Basque Legends, collected and tr. Wentworth Webster, with an essay by Julien Vinson (second edition, 1879)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

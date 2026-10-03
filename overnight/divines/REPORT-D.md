@@ -327,3 +327,6 @@
 
 ## 2026-10-02 19:50 CDT — busk: done
 - 1/1 fetched (Gutenberg 45859), 1,411 units, 3 ~2 ids.
+
+## 2026-10-02 19:50 CDT — webster-basque: done
+- 1/1 fetched (Gutenberg 34902), 2,404 units, 23 ~2 ids.
