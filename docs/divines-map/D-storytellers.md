@@ -1213,6 +1213,23 @@ Shelf: `pipeline/peabody_shelf.json` (2026-10-02; added at the coordinator's rel
 | Old Greek Folk Stories Told Anew | have | PG 9313, `peabody-old-greek-folk-stories` (436 units) |
 | peabody-poems-plays | excluded | The Piper (PG 11661), The Singing Man (14531), The Singing Leaves (75847), The Book of the Little Past (39131): verse and drama |
 
+## The Golden Legend (Jacobus de Voragine, tr. Caxton)
+
+Shelf: `pipeline/golden-legend_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The whole Temple Classics set, seven volumes, raw Internet Archive OCR of Google scans. Every title page was read: all seven are Ellis's 1900 edition. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 1 | have-raw | IA `TheGoldenLegendV1`, `golden-legend-vol-1` |
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 2 | have-raw | IA `TheGoldenLegendV2`, `golden-legend-vol-2` |
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 3 | have-raw | IA `TheGoldenLegendV3`, `golden-legend-vol-3` |
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 4 | have-raw | IA `TheGoldenLegendV4`, `golden-legend-vol-4` |
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 5 | have-raw | IA `TheGoldenLegendV5`, `golden-legend-vol-5` |
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 6 | have-raw | IA `TheGoldenLegendV6`, `golden-legend-vol-6` |
+| The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 7 | have-raw | IA `TheGoldenLegendV7`, `golden-legend-vol-7` |
+| golden-legend-longfellow | excluded | Longfellow's The Golden Legend (PG 10490): a dramatic poem of the same name, not this book |
+| golden-legend-other-printings | excluded | later Dent reprints of the same Temple Classics edition (1922-1935) and the Wellesley scans of vols. 3 and 5 (goldenlegendorli03jaco, goldenlegendorli05jaco): the 1900 set is held |
+| golden-legend-ryan | excluded | Ryan and Ripperger's translation (Longmans, 1941) and the Princeton translation (1993): in copyright |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

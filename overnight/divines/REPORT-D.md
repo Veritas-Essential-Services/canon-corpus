@@ -255,3 +255,6 @@
 
 ## 2026-10-02 19:42 CDT — peabody: done
 - 1/1 fetched (Gutenberg 9313), 436 units, 0 ~2 ids.
+
+## 2026-10-02 19:42 CDT — golden-legend: done
+- 7/7 Internet Archive volumes fetched as raw OCR; not converted (the Edwards precedent).

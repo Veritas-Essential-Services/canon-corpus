@@ -491,7 +491,9 @@
     {
       "id": "golden-legend",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — The Golden Legend in Caxton's English (Temple Classics, 1900); myth and saints batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:42:41-05:00",
+      "notes": "7/7 Internet Archive volumes fetched as raw OCR; not converted (the Edwards precedent)."
     },
     {
       "id": "canton",

@@ -1,0 +1,47 @@
+{
+ "_about": "The Golden Legend of Jacobus de Voragine (c. 1230-1298), the medieval book of saints' lives, in William Caxton's English of 1483, edited by F. S. Ellis for the Temple Classics (London: J. M. Dent, 1900), all seven volumes. Caxton is the translator (\"englished by William Caxton\"). Raw Internet Archive OCR. Public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto). Every volume's title page was read in the OCR: all seven are the Temple Classics 1900 set ('Edited by F. S. Ellis'; vols. 5-7 OCR the word ENGLISHED as 'ENGLISHEI', which is why the fetch's title-word check flagged them).",
+ "_author": "Jacobus de Voragine",
+ "_name_words": [
+  "golden",
+  "legend",
+  "saints",
+  "lives"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "golden-legend-vol-1": [
+   "TheGoldenLegendV1",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 1"
+  ],
+  "golden-legend-vol-2": [
+   "TheGoldenLegendV2",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 2"
+  ],
+  "golden-legend-vol-3": [
+   "TheGoldenLegendV3",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 3"
+  ],
+  "golden-legend-vol-4": [
+   "TheGoldenLegendV4",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 4"
+  ],
+  "golden-legend-vol-5": [
+   "TheGoldenLegendV5",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 5"
+  ],
+  "golden-legend-vol-6": [
+   "TheGoldenLegendV6",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 6"
+  ],
+  "golden-legend-vol-7": [
+   "TheGoldenLegendV7",
+   "The Golden Legend, or Lives of the Saints, as englished by William Caxton, ed. F. S. Ellis (Temple Classics, 1900), vol. 7"
+  ]
+ },
+ "_excluded": {
+  "golden-legend-longfellow": "Longfellow's The Golden Legend (PG 10490): a dramatic poem of the same name, not this book",
+  "golden-legend-other-printings": "later Dent reprints of the same Temple Classics edition (1922-1935) and the Wellesley scans of vols. 3 and 5 (goldenlegendorli03jaco, goldenlegendorli05jaco): the 1900 set is held",
+  "golden-legend-ryan": "Ryan and Ripperger's translation (Longmans, 1941) and the Princeton translation (1993): in copyright"
+ }
+}
