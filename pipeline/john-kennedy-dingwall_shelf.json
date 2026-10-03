@@ -1,0 +1,37 @@
+{
+ "_about": "John Kennedy of Dingwall (1819-1884), Free Church of Scotland minister: The Days of the Fathers in Ross-shire (fourth edition, Toronto and Montreal: Campbell, 1867; first published Edinburgh, 1861), the Highland evangelical ministers and 'the Men'. Named john-kennedy-dingwall: John Kennedy is a common name. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "kennedy"
+ ],
+ "_surname": [
+  "kennedy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kennedy-days-of-the-fathers": [
+   "thedaysofthefath00kennuoft",
+   "The Days of the Fathers in Ross-shire, fourth edition (Toronto, 1867)"
+  ]
+ },
+ "_alternates": {
+  "daysfathersinro00kenngoog, daysoffathersinr0000john (1861)": "The first edition.",
+  "cihm_25254 (1867)": "Microfiche of the same edition."
+ },
+ "_excluded": {
+  "daysoffathersinr0000revj (1927)": "A 1927 reprint with later matter; the 1867 text suffices."
+ },
+ "_checks": {
+  "kennedy-days-of-the-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kennedy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
