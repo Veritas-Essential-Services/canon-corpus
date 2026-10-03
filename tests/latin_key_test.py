@@ -83,9 +83,9 @@ ok(B.link("rex", "N", *ix, gender="M", proper=False) == ("case", ["rex1"]), "rex
 
 # -- the context rules, on fixtures ------------------------------------------
 def R(target, wkey="w", pos="N", case=None, efreq=0, ifreq="A", proper=False, linked=True,
-      number=None, gender=None):
+      number=None, gender=None, enclitic=None):
     return {"target": tuple(target), "linked": linked, "wkey": wkey, "pos": pos, "case": case,
-            "number": number, "gender": gender, "efreq": efreq, "ifreq": ifreq, "iage": "X", "proper": proper}
+            "number": number, "gender": gender, "enclitic": enclitic, "efreq": efreq, "ifreq": ifreq, "iage": "X", "proper": proper}
 
 
 def T(form, Rs, punct=False, cased=None):
@@ -121,6 +121,17 @@ tuum = T("tuum", [R(["tuus"], "tuus", "ADJ", "ACC", number="S", gender="N"),
                   R(["tuus"], "tuus", "ADJ", "ACC", number="S", gender="M")])
 ok(B.resolve(salutare, tuum, None) == ("salutaris", ["possessive-agrees"]),
    "salutare tuum: a noun agreeing with tuum, not the verb (possessive-agrees, before rare-entry)")
+peccata = T("peccata", [R(["peccatum"], "peccatum", "N", "NOM", efreq=0),
+                        R(["pecco"], "pecco", "VPAR", "NOM", efreq=2)])
+ok(B.resolve(T("peccata", peccata["R"]), None, None) == (None, []),
+   "frequency never swaps a noun for a verb of its stem: peccata stays null, not pecco")
+absque = T("absque", [R(["abs"], "abs", "PREP", "ABL", enclitic="que"), R(["absque1"], "absque", "PREP", "ABL", efreq=3)])
+ok(B.resolve(absque, None, None) == ("absque1", ["whole-word"]), "absque is the preposition, not abs + -que: whole-word")
+cumR = [R(["cum1"], "cum PREP", "PREP", "ABL"), R(["cum2"], "cum ADV", "ADV")]
+David = T("david", [R(["David"], "David", "N", None, proper=True)], cased="David")
+rescisset = T("rescisset", [R(["rescisco"], "rescisco", "V")])
+ok(B.resolve(T("cum", cumR), David, "quod", None, rescisset) == (None, []),
+   "Quod cum David rescisset: a name then a verb may be the clause's subject, so cum stays null")
 sanctus = T("sanctus", [R(["sanctus"], "sanctus", "ADJ", "NOM"), R(["sancio"], "sancio", "VPAR", "NOM")])
 ok(B.resolve(sanctus, None, None) == (None, []), "adjective or participle, both common: null, never guessed")
 ok(B.ls_fold("a^credula") == "acredula" and B.ls_fold("ăd-ōro") == "adoro",
@@ -137,8 +148,11 @@ ok(set(man["files"]) == set(B.LOCAL_FILES) and "gitignored" in man["files_dir"],
    "the manifest lists every built file and says where they live (gitignored)")
 tracked = subprocess.run(["git", "ls-files", "data/lemmas/latin-key", "build/latin-key"], cwd=ROOT,
                          capture_output=True, text=True).stdout.split()
-ok(tracked == ["data/lemmas/latin-key/manifest.json", "data/lemmas/latin-key/manifest.json.prov.md"],
-   "git tracks only the manifest: nothing derived from Lewis & Short is committed")
+if os.path.isdir(os.path.join(ROOT, ".git")):
+    ok(tracked == ["data/lemmas/latin-key/manifest.json", "data/lemmas/latin-key/manifest.json.prov.md"],
+       "git tracks only the manifest: nothing derived from Lewis & Short is committed")
+else:
+    print("skip  git tracking check: not a git checkout")
 
 missing = [n for n in man["files"] if not os.path.exists(os.path.join(B.LOCAL, n))]
 if missing:
@@ -191,11 +205,18 @@ ok(all(not (set(r["sure"]) & set(r["possible"])) for r in conc.values()),
 ok(all(set(rule.split("+")) <= set(B.RULES) for r in conc.values() for rule in r["resolved"]),
    "every resolution names its rules, and only known rule ids")
 ok("Gen.3.8" in conc["cum2"]["resolved"].get("no-prep-object", []), "Gen 3:8 et cum audissent: cum2, no-prep-object")
-ok("John.1.1" in conc["sum1"]["sure"] and "John.1.1" in conc["principium"]["resolved"].get("rare-entry", []),
-   "John 1:1: erat sure as sum1; principio resolved to principium by rare-entry")
+ok("John.1.1" in conc["sum1"]["sure"] and "John.1.1" in conc["principium"]["possible"],
+   "John 1:1: erat sure as sum1; principio (noun, or the verb principio) left possible, never settled by frequency")
 out = man["counts"]["vulgate_tokens_by_outcome"]
-ok(sum(out.values()) == 612029 and out["unresolved"] < 0.16 * 612029,
-   f"unresolved words {out['unresolved']} ({100 * out['unresolved'] / 612029:.1f}%), under 16%")
+ok(sum(out.values()) == 612029 and out["unresolved"] < 0.21 * 612029,
+   f"unresolved words {out['unresolved']} ({100 * out['unresolved'] / 612029:.1f}%), under 21%")
+kind = man["counts"]["vulgate_tokens_resolved_by_kind"]
+ok(sum(kind.values()) == out["resolved"], "every resolved word is counted as grammar or prior-only, apart")
+ok(forms["peccata"]["resolved"].get("rare-entry") is None and forms["tribus"]["resolved"].get("rare-entry") is None,
+   "peccata and tribus are never settled by frequency (pecco, tres)")
+ok(forms["absque"]["resolved"] == {"whole-word": forms["absque"]["tokens"]}, "every absque is the preposition absque")
+ok(forms["septimo"]["ls"] == ["septimus"], "septimo is septimus, the ordinal, not septem")
+ok("1Sam.23.9" not in str(conc["cum1"]["resolved"]), "1 Sam 23:9 Quod cum David rescisset: not cum 'with'")
 
 # -- Strong's -> the Vulgate's Latin -------------------------------------------
 eq = {r["strongs"]: r for r in rows("strongs-latin.jsonl")}

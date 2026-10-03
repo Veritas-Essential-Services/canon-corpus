@@ -258,10 +258,10 @@ def read_ls():
 WCLASS = {"N": {"N"}, "V": {"V"}, "VPAR": {"V", "ADJ"}, "SUPINE": {"V"}, "ADJ": {"ADJ", "NUM"},
           "NUM": {"NUM", "ADJ", "ADV"}, "ADV": {"ADV", "CONJ"}, "PREP": {"PREP"}, "CONJ": {"CONJ"},
           "INTERJ": {"INTERJ"}, "PRON": {"PRON", "ADJ"}, "PACK": {"PRON", "ADJ"}}
-# A verb and a noun are never one entry. When the only entry of that spelling
+# A verb and a noun, or a pronoun and an adverb, are never one entry. When the only entry of that spelling
 # is the other class, it is another word (WORDS's vis, "you want", is not
 # L&S's vis, "force"; canto, cantonis is not canto, to sing): left unlinked.
-CLASHES = ({"V", "N"},)
+CLASHES = ({"V", "N"}, {"PRON", "ADV"})   # eadem the pronoun is not L&S's adverb eadem
 SKIP_TYPES = {"spur"}     # L&S's own "spurious" entries never take a word
 
 
@@ -371,10 +371,34 @@ def whitaker_links(X, ls_rows):
     return out, by_head
 
 
+NUM_LINKS = {}
+NUM_PART = {"ORD": (1, "ADJ"), "DIST": (2, "ADJ"), "ADVERB": (3, "ADV")}
+
+
+def num_link(k, sort, links, by_head):
+    """WORDS keeps a number's four words in one entry: "septem, septimus -a
+    -um, septeni -ae -a, septie (n)s". L&S gives the ordinal, distributive and
+    adverb their own entries, so each is linked by its own word: septimo is
+    septimus, tertio tertius, never septem or tres."""
+    if (k, sort) in NUM_LINKS:
+        return NUM_LINKS[(k, sort)]
+    idx, pos = NUM_PART[sort]
+    parts = k.split("  ")[0].split(", ")
+    word = re.sub(r"\s*\((n)\)\s*", r"\1", parts[idx]).split()[0] if idx < len(parts) else "-"
+    hw = W.fold(word)
+    st, keys = link(hw, pos, *by_head) if hw != "-" else ("none", [])
+    row = {"whitaker": f"{k} ({sort})", "headword": hw, "pos": pos, "status": st, "ls": keys}
+    NUM_LINKS[(k, sort)] = row
+    return row
+
+
 def describe_key(a, links, by_head):
     """The L&S link for one analysis: lemma rows from DICTLINE are in `links`;
     UNIQUES, the names table and the house supplement are linked by headword."""
     k = a["key"]
+    sort = a["parse"].get("sort")
+    if a["parse"]["pos"] == "NUM" and sort in NUM_PART and ", " in k:
+        return num_link(k, sort, links, by_head)
     if k in links:
         return links[k]
     if a["form_by"] == "whitaker-roman":
@@ -416,8 +440,10 @@ COMMON_INFLECTION = {"A", "B"}
 CASED_POS = {"N", "ADJ", "PRON", "VPAR", "NUM", "SUPINE"}
 PUNCT = re.compile(r"[,.;:?!]")
 INDEF_AFTER = {"si", "ne", "num"}       # after these, quis is indefinite (not nisi: nisi qui is relative)
-RULES = ("idem-dem", "proper-lower", "possessive-agrees", "rare-inflection", "rare-entry",
+RULES = ("idem-dem", "proper-lower", "possessive-agrees", "whole-word", "rare-inflection", "rare-entry",
          "prep-object", "no-prep-object", "si-quis")
+PRIORS = {"rare-entry", "rare-inflection", "whole-word"}   # WORDS's grades and conventions, not grammar
+FAMILY = {"VPAR": "V", "SUPINE": "V"}      # a participle or supine is its verb's
 POSSESSIVES = {"meus", "tuus", "suus", "noster", "vester"}
 NOMINAL = {"N", "ADJ", "PRON", "NUM"}
 
@@ -469,7 +495,7 @@ def readings(X, c, links, by_head, flags):
                     "pos": a["parse"]["pos"], "case": a["parse"].get("case"),
                     "number": a["parse"].get("number"), "gender": a["parse"].get("gender"),
                     "efreq": FREQ_RANK.get(ef["freq"]) if ef else None,
-                    "ifreq": ifreq, "iage": age,
+                    "ifreq": ifreq, "iage": age, "enclitic": a.get("enclitic"),
                     "proper": a["form_by"] == "house-names" or a["key"][:1].isupper()})
     return out
 
@@ -483,7 +509,7 @@ def _keep(groups, keep, rule, used):
     return groups
 
 
-def resolve(tok, nxt_tok, prev_form, prev_tok=None):
+def resolve(tok, nxt_tok, prev_form, prev_tok=None, nxt2_tok=None):
     """(L&S key or None, [rule ids]) for one token. `tok`/`nxt_tok`:
     {"form", "cased", "R": readings, "punct_after"}. A rule only removes
     readings; it never adds one, and it never removes them all."""
@@ -522,6 +548,10 @@ def resolve(tok, nxt_tok, prev_form, prev_tok=None):
             continue
         groups = _keep(groups, lambda t, R: any(r["pos"] in NOMINAL and any(_agree(r, q) for q in nb["R"])
                                                 for r in R), "possessive-agrees", used)
+    # a word printed whole in the dictionary is not split off an enclitic:
+    # absque is the preposition "without", not abs + -que
+    if any(not r["enclitic"] for R in groups.values() for r in R):
+        groups = _keep(groups, lambda t, R: any(not r["enclitic"] for r in R), "whole-word", used)
     # an ending WORDS marks less than common (dominum as domina's genitive plural)
     groups = _keep(groups, lambda t, R: any(r["ifreq"] in COMMON_INFLECTION or r["ifreq"] is None
                                             for r in R), "rare-inflection", used)
@@ -531,8 +561,15 @@ def resolve(tok, nxt_tok, prev_form, prev_tok=None):
     known = [x for x in ranks if x is not None]
     if known and min(known) <= 1:
         best = min(known)
+        # only between readings of one word class (est: edo or sum, both
+        # verbs). A noun never loses to a verb of its own stem by frequency:
+        # peccata is peccatum, not pecco's participle; tribus is the tribe as
+        # often as the number three.
+        best_cls = {FAMILY.get(r["pos"], r["pos"]) for R, x in zip(groups.values(), ranks) if x == best
+                    for r in R}
         groups = _keep(groups, lambda t, R: min((r["efreq"] for r in R if r["efreq"] is not None),
-                                                 default=best) < best + 2, "rare-entry", used)
+                                                 default=best) < best + 2
+                       or not ({FAMILY.get(r["pos"], r["pos"]) for r in R} <= best_cls), "rare-entry", used)
     # a preposition takes an object in its case, next in the clause
     preps = {t: {r["case"] for r in R if r["pos"] == "PREP"} for t, R in groups.items()}
     if any(preps.values()) and len(groups) > 1:
@@ -541,7 +578,14 @@ def resolve(tok, nxt_tok, prev_form, prev_tok=None):
             # a name from the names table carries no case: it could be any
             nxt_cases = {r["case"] or "X" for r in nxt_tok["R"] if r["pos"] in CASED_POS}
         governs = any(c in nxt_cases or "X" in nxt_cases for P in preps.values() for c in P)
-        if governs:
+        # Quod cum David rescisset: a name with no case, then a verb, may be the
+        # subject of a cum-clause, not the object of cum "with": left null
+        name_then_verb = ("X" in nxt_cases and nxt_tok["cased"][:1].isupper() and nxt2_tok and nxt2_tok["R"]
+                          and not nxt_tok["punct_after"]
+                          and all(r["pos"] == "V" for r in nxt2_tok["R"]))
+        if governs and name_then_verb:
+            pass
+        elif governs:
             groups = _keep(groups, lambda t, R: bool(preps[t] & (nxt_cases | {"X"})) or
                            ("X" in nxt_cases and preps[t]), "prep-object", used)
         elif tok["punct_after"] or (nxt_tok and nxt_tok["R"] and nxt_tok["cased"][:1].islower()
@@ -594,7 +638,8 @@ def build_vulgate(X, links, by_head, units):
             targets = {k for r in t["R"] for k in r["target"] if not k.startswith("~")}
             f["ls"].update(targets)
             key, used = resolve(t, toks[i + 1] if i + 1 < len(toks) else None,
-                                toks[i - 1]["form"] if i else None, toks[i - 1] if i else None)
+                                toks[i - 1]["form"] if i else None, toks[i - 1] if i else None,
+                                toks[i + 2] if i + 2 < len(toks) else None)
             if key and not used:
                 s_here.add(key)
             elif key:
@@ -772,6 +817,12 @@ def build():
             "vulgate_tokens_by_status": dict(sorted(tok.items())),
             "vulgate_tokens_by_outcome": token_outcomes(token_rows, form_rows),
             "vulgate_tokens_resolved_by_rule": dict(sorted(rule_tokens.items(), key=lambda kv: -kv[1])),
+            # a frequency prior is not a reading of the verse: kept apart
+            "vulgate_tokens_resolved_by_kind": {
+                "a grammar rule took part": sum(n for k, n in rule_tokens.items()
+                                                if set(k.split("+")) - PRIORS),
+                "priors only (rare-entry, rare-inflection, whole-word)": sum(
+                    n for k, n in rule_tokens.items() if set(k.split("+")) <= PRIORS)},
             "vulgate_keys": len(conc),
             "strongs_latin": eq_stats,
         },

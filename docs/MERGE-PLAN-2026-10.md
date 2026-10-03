@@ -1,8 +1,14 @@
 # Merge plan, October 2026: PRs #5 to #10 and the relay branch
 
-Written 2026-10-02 by the Strong's thread (PR #10). Nothing here has been merged
-or pushed anywhere. The trial merge below was done on a throwaway local copy of
-`main` and thrown away.
+Written 2026-10-02 by the Strong's thread (PR #10), revised 2026-10-03 after
+#7 merged #10. Nothing has been merged. The trial merges below were done on a
+throwaway local copy of `main` and thrown away.
+
+**What changed on 2026-10-03:** #7's branch merged #10 (at 232ae6d), so **#10
+must now go before #7**. Merging #7 first would bring in an old copy of #10
+unreviewed, including files #10 has since taken out for rights reasons
+(PR #10 body). Merged in the order below, those files stay out of `main`
+(checked on the trial tree).
 
 ## The short version
 
@@ -12,28 +18,30 @@ that can run in the cloud passes.
 
 | Step | PR | Branch | What it is | Head tried |
 |---|---|---|---|---|
-| 1 | #6 | `claude/project-thread-ja8lqz` | upkeep + the Contents-reader title fix | a2d935e |
+| 1 | #6 | `claude/project-thread-ja8lqz` | upkeep + the Contents-reader title fix | 356ed3a |
 | 2 | #5 | `claude/project-thread-rcfr2a` | BDB scripture refs resolved to KJV verses | 25fe747 |
-| 3 | #9 | `claude/project-thread-xatdhh` | Vulgate, Douay, Brenton + their KJV maps | e7c6dcf |
-| 4 | #8 | `claude/project-thread-tskfc3` | whole Greek NT, Hebrew OT text, Apostolic Fathers | 00e8ade |
-| 5 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry | 1fc2cf7 |
-| 6 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word | 1753f92 |
-| 7 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 605723c |
+| 3 | #9 | `claude/project-thread-xatdhh` | Vulgate, Douay, Brenton + their KJV maps | a85df25 |
+| 4 | #8 | `claude/project-thread-tskfc3` | whole Greek NT, Hebrew OT text, Apostolic Fathers | f42632b |
+| 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word | 29c55c8 |
+| 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry | 232ae6d |
+| 7 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 92a1a06 |
+
+Heads move. Before merging, check each branch's head against this table; if
+one moved, repeat the trial (last section).
 
 ## Why this order (the dependencies)
 
 - **#5 sits underneath #8, #9 and #10.** Its commits are already inside all
   three. Merge it first and they shrink to their own work.
-- **#8 contains #9.** #8's branch merged #9's head (e7c6dcf) to get the
-  Septuagint-to-KJV map. So #9 goes before #8. Merging #8 first would drag #9
-  in unreviewed.
-- **#10 contains #5, #8 (up to 077780f) and #9.** It is stacked on #8. After #8
-  merges, change #10's base to `main` on GitHub; its diff then shows only the
-  Strong's work.
-- **#6 and #7 are independent.** #6 is small and touches the reader, so it goes
-  first. #7 goes after the Bible work because its conflicts are all in
-  `CLAUDE.md`, the book manifest and one test file, and they are easier to
-  settle once.
+- **#8 contains an older #9.** #8's branch merged #9 (e7c6dcf) for the
+  Septuagint-to-KJV map; #9 has moved on since. So #9 goes before #8.
+- **#10 contains #5, an older #8 (077780f) and an older #9.** It is stacked on
+  #8. After #8 merges, change #10's base to `main` on GitHub; its diff then
+  shows only the Strong's work.
+- **#7 contains an older #10** (merged at 232ae6d, for its tooling). So #10
+  goes before #7.
+- **#6 is independent.** It is small and touches the reader, so it goes first.
+  It now carries two commits that need your ruling (below).
 - **The relay branch is last.** It is 158 new files (shelf lists, converters,
   `overnight/`, `docs/divines-map`) and merged clean at every point. It is
   not a PR yet.
@@ -42,17 +50,22 @@ that can run in the cloud passes.
 
 Each step merged the branch into the result of the step before.
 
+Trial of 2026-10-03, at the heads in the table above:
+
 | Step | Result | Conflicted files |
 |---|---|---|
 | #6 | clean | none |
-| #5 | conflict | `CLAUDE.md` (1 hunk) |
-| #9 | conflict | `CLAUDE.md` (1 hunk) |
+| #5 | conflict | `CLAUDE.md` |
+| #9 | clean | none |
 | #8 | clean | none |
-| #7 | conflict | `CLAUDE.md` (2 hunks), `data/books/manifest.json`, `tests/structure_test.py` (2 hunks) |
-| #10 | conflict | `data/books/manifest.json` |
+| #10 | conflict | `data/books/manifest.json` (fix 5) |
+| #7 | conflict | `CLAUDE.md` |
 | relay | clean | none |
 
-Final tree against `main`: 234 files changed, +195,671 / -699.
+Final tree against `main`: 362 files changed, +232,899 / -707. The 2026-10-02
+trial (#7 before #10) also conflicted in `tests/structure_test.py` and the
+book manifest at #7; with #10 first, #7's only conflict is `CLAUDE.md`. Fixes
+3 and 4 below are kept in case #7 moves again.
 
 ### Each conflict and its fix
 
@@ -75,13 +88,11 @@ Final tree against `main`: 234 files changed, +195,671 / -699.
 5. **`data/books/manifest.json` (#10).** This conflict comes from history, not
    content. #10 merged #9 and an older #8 separately, and #8 later merged #9
    too. Git then sees two common ancestors and builds a broken base file.
-   **Fix:** take the merged tree's manifest unchanged. Checked key by key
-   against the older #8 head, #10 changes nothing in it; the only keys that
-   differ are the nine Apostolic Fathers books, where #8 is newer.
-   **Cleaner fix:** merge #8's head (00e8ade) into #10 before merging #10.
-   That leaves one ancestor and no conflict. I tried to do this on #10's
-   branch and the session's permission check stopped it, so it is left for
-   you or a later session.
+   Rechecked 2026-10-03 key by key: every entry #10 has is identical to #8's
+   head (f42632b), and #8 has more (Philo, Josephus, the Apostolic Fathers,
+   TAGNT variants). So when merging #10, **keep `main`'s side** of this file
+   (`git checkout --ours data/books/manifest.json`). Merging #8's head into
+   #10 first does not avoid the conflict (a reviewer tried it).
 
 ## Tests and gates on the merged tree
 
@@ -165,6 +176,8 @@ counterpart on the relay branch.
 - Accept the Contents-reader fix that stops cutting letters off titles. It can
   move unit ids under rule 3. The id report says 0 ids move in the 36
   committed books (`docs/review/2026-10-02-contents-key-ids.md`).
+- Beowulf (PG 16328) is J. Lesslie Hall's translation, not Gummere's (4819839).
+- PG 228 is Dryden's Aeneid only (356ed3a).
 
 **#9**
 - Swete's LXX: its markup is CC BY-SA. Ingest it or leave it out.
@@ -204,13 +217,14 @@ counterpart on the relay branch.
 - Adopt the 14,197 proposed word uids (`build_strongs.py --adopt`).
 - Use the citation form `strongs:G26`, of kind `lexeme`.
 - The 101 Greek "Not Used" numbers get no uid.
+- Purge the files #10 took out for rights reasons from #10's and #7's history
+  (force-push both). Not needed for `main` if #10 merges before #7.
 - The KJV Strong's tags: eBible labels them Public Domain, while CrossWire's
   module says GPL. Decide which. Until you do, everything built from them
   (`kjv-tags`, `kjv-renderings`, the KJV half of the concordance, the
   concordance view) is built locally to `build/strongs/` and was removed from
   the branch's history on 2026-10-02.
 - The OSHB OT layer is CC BY. Commit it, or keep building it locally.
-- Merge #8's head into #10 first, to avoid conflict 5.
 - The Latin key (added after the trial merge): may an index of Lewis & Short's entry keys, taken from Perseus's CC BY-SA text, be committed? Until you say yes, only its manifest is committed; the files build to `build/latin-key/` and were removed from the branch's history on 2026-10-02. It adds no conflicts.
 
 **Relay branch**

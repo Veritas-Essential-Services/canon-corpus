@@ -819,6 +819,11 @@ def build():
             "Old Testament occurrences come from the KJV's tagging (corpus kjv), by verse.",
             "Strong's numbering is the key, not a claim that each number is one word: Strong's "
             "lumps some homographs and splits some forms (README s.3).",
+            "The KJV tags do not cover every Hebrew or Greek word: eBible keeps one number per "
+            "English word, so a word the English does not render (H853, the object marker, has "
+            "4 tags) is mostly absent. Counts are tags, not occurrences in the original.",
+            "The Hebrew rows' pos and proper_name fields are OpenScriptures' markup (CC BY 4.0, "
+            "attributed in sources), not Strong's 1890 text, which prints no part of speech.",
         ],
     }
     return {
@@ -889,12 +894,9 @@ def main():
     write(local, LOCAL)
     layer = build_oshb_layer()
     if layer:
-        os.makedirs(OSHB_OUT, exist_ok=True)
-        for book, recs in layer.items():
-            with open(os.path.join(OSHB_OUT, book + ".jsonl"), "w", encoding="utf-8", newline="\n") as f:
-                f.write(dump_jsonl(recs))
-        with open(os.path.join(OSHB_OUT, "rights.json"), "w", encoding="utf-8") as f:
-            json.dump(OSHB_RIGHTS, f, ensure_ascii=False, indent=1)
+        out = {book + ".jsonl": dump_jsonl(recs) for book, recs in layer.items()}
+        out["rights.json"] = json.dumps(OSHB_RIGHTS, ensure_ascii=False, indent=1)
+        write(out, OSHB_OUT)                   # temp file + rename, like every output (rule 5)
         n = sum(len(v) for v in layer.values())
         print(f"oshb layer (CC BY, not committed): {n} tokens -> {os.path.relpath(OSHB_OUT, ROOT)}")
     else:

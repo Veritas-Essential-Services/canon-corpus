@@ -140,10 +140,14 @@ if "nt" in cc.get("G26", {}).get("passages", {}):
 # -- the English half: KJV tags (built locally; rights call pending) ------------
 import hashlib  # noqa: E402
 kjv_uids = {c: u for c, u in reg.map.items() if c.startswith("kjv:")}
+IN_GIT = os.path.isdir(os.path.join(ROOT, ".git"))
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "data/strongs", "build"], capture_output=True, text=True)
 tracked = {os.path.basename(t) for t in r.stdout.split()}
-ok(r.returncode == 0 and not tracked & set(B.LOCAL_FILES),
-   "no file built from the KJV tags is tracked by git (rights call pending)")
+if IN_GIT:
+    ok(r.returncode == 0 and not tracked & set(B.LOCAL_FILES),
+       "no file built from the KJV tags is tracked by git (rights call pending)")
+else:
+    print("skip  git tracking checks: not a git checkout")
 ok(man["local"]["rights"]["committed"] is False and "GPL" in man["local"]["rights"]["license"],
    "the manifest labels the KJV-tag files: not committed, the GPL question named")
 ok(set(man["local"]["files"]) == set(B.LOCAL_FILES), "the manifest records every local file's sha256")
@@ -212,7 +216,8 @@ else:
 
 # -- OSHB's CC BY layer: built locally, never committed -------------------------
 r = subprocess.run(["git", "-C", ROOT, "ls-files", "build/strongs"], capture_output=True, text=True)
-ok(r.returncode == 0 and not r.stdout.strip(), "nothing under build/strongs (OSHB layer, KJV-tag files) is tracked")
+if IN_GIT:
+    ok(r.returncode == 0 and not r.stdout.strip(), "nothing under build/strongs (OSHB layer, KJV-tag files) is tracked")
 ok(man["oshb_layer"]["license"] == "CC BY 4.0" and man["oshb_layer"]["redistribute_whole"] is False,
    "the manifest labels the OSHB layer CC BY, not for redistribution")
 ot_toks = B.load_corpus("ot")

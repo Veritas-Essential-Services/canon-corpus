@@ -77,7 +77,9 @@
   "The KJV tags are CrossWire's, as eBible.org publishes them; they are not checked here against the Hebrew or Greek, and the rights call on them is Adam's (README s.6).",
   "A KJV tag links an English word to the number of the word it translates; untagged words (italics the translators supplied, most articles) are not listed.",
   "The ot corpus carries no keys of its own: data/ot/ withholds OSHB's CC BY tags. Old Testament occurrences come from the KJV's tagging (corpus kjv), by verse.",
-  "Strong's numbering is the key, not a claim that each number is one word: Strong's lumps some homographs and splits some forms (README s.3)."
+  "Strong's numbering is the key, not a claim that each number is one word: Strong's lumps some homographs and splits some forms (README s.3).",
+  "The KJV tags do not cover every Hebrew or Greek word: eBible keeps one number per English word, so a word the English does not render (H853, the object marker, has 4 tags) is mostly absent. Counts are tags, not occurrences in the original.",
+  "The Hebrew rows' pos and proper_name fields are OpenScriptures' markup (CC BY 4.0, attributed in sources), not Strong's 1890 text, which prints no part of speech."
  ],
  "oshb_layer": {
   "attribution": "Open Scriptures Hebrew Bible (OSHB), lemma and morphology tagging, openscriptures/morphhb; Westminster Leningrad Codex text public domain",
