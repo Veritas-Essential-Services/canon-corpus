@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Thomas Sherlock (1678-1761, Master of the Temple, Bishop of Bangor, Salisbury and London) for the Word Hoard: his Works with T. S. Hughes's account of his life (5 vols, London: Valpy, 1830), his collected discourses and sermons (The Trial of the Witnesses of the Resurrection was not found in their OCR and is not claimed), raw Internet Archive OCR. Not his father William Sherlock (c.1641-1707, Dean of St Paul's), also a divine. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "sherlock",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas sherlock",
+  "bishop sherlock",
+  "dr. thomas sherlock",
+  "t. sherlock",
+  "sherlock, thomas"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sherlock-works-1": [
+   "worksofbishopshe01sher_0",
+   "The Works of Bishop Sherlock, with some account of his life, summary of each discourse, notes, etc., ed. T. S. Hughes, vol. 1 (London: A. J. Valpy, 1830)"
+  ],
+  "sherlock-works-2": [
+   "worksofbishopshe02sher_0",
+   "The Works of Bishop Sherlock, with some account of his life, summary of each discourse, notes, etc., ed. T. S. Hughes, vol. 2 (London: A. J. Valpy, 1830)"
+  ],
+  "sherlock-works-3": [
+   "worksofbishopshe03sher",
+   "The Works of Bishop Sherlock, with some account of his life, summary of each discourse, notes, etc., ed. T. S. Hughes, vol. 3 (London: A. J. Valpy, 1830)"
+  ],
+  "sherlock-works-4": [
+   "worksofbishopshe04sher_0",
+   "The Works of Bishop Sherlock, with some account of his life, summary of each discourse, notes, etc., ed. T. S. Hughes, vol. 4 (London: A. J. Valpy, 1830)"
+  ],
+  "sherlock-works-5": [
+   "worksofbishopshe05sher",
+   "The Works of Bishop Sherlock, with some account of his life, summary of each discourse, notes, etc., ed. T. S. Hughes, vol. 5 (London: A. J. Valpy, 1830)"
+  ]
+ },
+ "_alternates": {
+  "sherlock-works-3": "worksofbishopshe03sher_0 (the San Marino copy used for the other volumes) returned HTTP 500 for its text on 2026-10-03; vol. 3 is the Princeton copy",
+  "sherlock-discourses": "Several Discourses preached at the Temple Church, 4 vols (London, 1772; IA severaldiscourse01sher etc.)",
+  "sherlock-trial-of-witnesses": "The Trial of the Witnesses of the Resurrection of Jesus (Philadelphia: Presbyterian Board, catalogued 1800 and 1843; IA thetrialofthewit00sheluoft, trialofwitnesses00sher): not shelved"
+ },
+ "_excluded": {},
+ "_checks": {
+  "sherlock-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sherlock-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sherlock-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sherlock-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sherlock-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

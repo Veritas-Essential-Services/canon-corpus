@@ -2069,6 +2069,15 @@ Slugs `horsley-*`.
 | Sermons, 2 vols (1829); Biblical Criticism, 4 vols (1820); The Book of Psalms, 2 vols (1815); Charges (1813) | have-ocr | IA, OCR 94.4-99.0% |
 | Tracts in Controversy with Dr. Priestley (1789); Hosea (1801) | have-raw | IA, OCR about 82% (long s) |
 | Nine Sermons on the Resurrection; Speeches in Parliament | alternate | IA |
+
+## Thomas Sherlock (round 13, my pick, 2026-10-03)
+
+Slugs `sherlock-works-N`. Full name forms only: his father William Sherlock was also a divine.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, with an account of his life, ed. T. S. Hughes, 5 vols (Valpy, 1830) | have-ocr | IA, OCR 98-99% |
+| The Trial of the Witnesses of the Resurrection | alternate | IA (Philadelphia printings); not found in the Works OCR |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

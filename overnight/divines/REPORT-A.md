@@ -611,3 +611,6 @@
 
 ## 2026-10-03 06:32 CDT — samuel-horsley done
 - `pipeline/samuel-horsley_shelf.json`: 11 IA volumes, title pages read. Hosea is signed "Samuel Lord Bishop of Rochester", recorded in `_identity_checked`. `--verify --record`: 0 mismatched. OCR 95.5% mean. 0 uids minted.
+
+## 2026-10-03 06:33 CDT — thomas-sherlock done
+- `pipeline/thomas-sherlock_shelf.json`: 5 IA volumes (vol. 3 from the Princeton copy after an HTTP 500). `--verify --record`: 0 mismatched. OCR 98.6% mean. 0 uids minted.
