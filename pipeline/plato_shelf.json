@@ -265,6 +265,32 @@
    "vol5worksofplato00plat",
    "The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 5 (London, 1804)",
    "tr. Thomas Taylor (nine dialogues by Floyer Sydenham)"
+  ],
+  "plato-davies-vaughan-republic-1892": [
+   "republicofplato13plat",
+   "The Republic of Plato, translated into English with an analysis and notes (Golden Treasury Series; Macmillan, 1892 printing; first printed 1852)",
+   "tr. John Llewelyn Davies and David James Vaughan"
+  ],
+  "plato-whewell-v1-1860": [
+   "in.ernet.dli.2015.100023",
+   "The Platonic Dialogues for English Readers, vol. I: Dialogues of the Socratic School and those referring to the Trial and Death of Socrates, second edition (Macmillan, 1860; abridged in parts, by the translator's own preface)",
+   "2015.100023.The-Platonic-Dialogues-Ed2-Vol-1_djvu.txt",
+   "tr. William Whewell"
+  ],
+  "plato-whewell-v2-1860": [
+   "platonicdialogu04whewgoog",
+   "The Platonic Dialogues for English Readers, vol. II: Antisophist Dialogues (Macmillan, 1860; abridged in parts)",
+   "tr. William Whewell"
+  ],
+  "plato-whewell-v3-1861": [
+   "platonicdialogu05whewgoog",
+   "The Platonic Dialogues for English Readers, vol. III: The Republic and the Timaeus (Macmillan, 1861; abridged in parts)",
+   "tr. William Whewell"
+  ],
+  "plato-spens-republic-everyman": [
+   "republicofplatoi00platuoft",
+   "The Republic of Plato in Ten Books, translated from the Greek (Everyman's Library; first issue of this edition 1906, this scan the 1919 reprint; Spens's translation first published 1763)",
+   "tr. Harry Spens"
   ]
  },
  "_excluded": {
@@ -365,7 +391,12 @@
   "plato-perseus-lamb-minos": "walter rangeley maitland lamb",
   "plato-perseus-bury-laws": "robert gregg bury",
   "plato-perseus-lamb-epinomis": "walter rangeley maitland lamb",
-  "plato-perseus-bury-letters": "robert gregg bury"
+  "plato-perseus-bury-letters": "robert gregg bury",
+  "plato-davies-vaughan-republic-1892": "John Llewelyn Davies",
+  "plato-whewell-v1-1860": "William Whewell",
+  "plato-whewell-v2-1860": "William Whewell",
+  "plato-whewell-v3-1861": "William Whewell",
+  "plato-spens-republic-everyman": "Harry Spens"
  },
  "_checks": {
   "plato-charmides": {
@@ -925,6 +956,71 @@
    "identity": "ok",
    "ia_rights": "ok: published 1804",
    "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-davies-vaughan-republic-1892": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "John Llewelyn Davies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-whewell-v1-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "William Whewell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-whewell-v2-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "William Whewell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-whewell-v3-1861": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "William Whewell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-spens-republic-everyman": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Harry Spens",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

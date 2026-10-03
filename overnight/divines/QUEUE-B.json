@@ -500,6 +500,14 @@
    "started": "2026-10-03T01:03:00-05:00",
    "finished": "2026-10-03T01:08:19-05:00",
    "notes": "three translator claims unchecked (names garbled in OCR); Everyman Ethics translator unnamed in the file, no claim made"
+  },
+  {
+   "id": "plato-lucian-older",
+   "status": "done",
+   "scope": "Whewell's Platonic Dialogues (3 vols), Davies and Vaughan's Republic, Spens's Republic (Everyman), Tooke's Lucian (2 vols)",
+   "started": "2026-10-03T01:08:19-05:00",
+   "finished": "2026-10-03T01:12:06-05:00",
+   "notes": "Whewell abridges in parts by his own account; noted in the rows"
   }
  ]
 }

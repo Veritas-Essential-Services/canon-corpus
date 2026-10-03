@@ -89,6 +89,11 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | Laws | R. G. Bury (Loeb, 1926) | `plato-perseus-bury-laws` | have (Perseus TEI `tlg0059.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
 | Epinomis | W. R. M. Lamb (Loeb, 1927) | `plato-perseus-lamb-epinomis` | have (Perseus TEI `tlg0059.tlg035.perseus-eng2`; markup CC BY-SA 4.0) |
 | Letters | R. G. Bury (Loeb, 1929) | `plato-perseus-bury-letters` | have (Perseus TEI `tlg0059.tlg036.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Republic of Plato, translated into English with an analysis and notes (Golden Treasury Series; Macmillan, 1892 printing; first printed 1852) | John Llewelyn Davies and David James Vaughan | `plato-davies-vaughan-republic-1892` | have-raw (IA `republicofplato13plat`) |
+| The Platonic Dialogues for English Readers, vol. I: Dialogues of the Socratic School and those referring to the Trial and Death of Socrates, second edition (Macmillan, 1860; abridged in parts, by the translator's own preface) | William Whewell | `plato-whewell-v1-1860` | have-raw (IA `in.ernet.dli.2015.100023`) |
+| The Platonic Dialogues for English Readers, vol. II: Antisophist Dialogues (Macmillan, 1860; abridged in parts) | William Whewell | `plato-whewell-v2-1860` | have-raw (IA `platonicdialogu04whewgoog`) |
+| The Platonic Dialogues for English Readers, vol. III: The Republic and the Timaeus (Macmillan, 1861; abridged in parts) | William Whewell | `plato-whewell-v3-1861` | have-raw (IA `platonicdialogu05whewgoog`) |
+| The Republic of Plato in Ten Books, translated from the Greek (Everyman's Library; first issue of this edition 1906, this scan the 1919 reprint; Spens's translation first published 1763) | Harry Spens | `plato-spens-republic-everyman` | have-raw (IA `republicofplatoi00platuoft`) |
 
 Pending (wishlist):
 
@@ -1020,6 +1025,8 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | The Halcyon | Emily James Smith | `lucian-perseus-smith-the-halcyon` | have (Perseus TEI `tlg0061.tlg004.perseus-eng1`; markup CC BY-SA 4.0) |
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 1 | Thomas Francklin | `lucian-francklin-1780-v1` | have-raw (IA `worksoflucian01luci`) |
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2 | Thomas Francklin | `lucian-francklin-1780-v2` | have-raw (IA `worksoflucian02luci`) |
+| Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. I (London, 1820) | William Tooke | `lucian-tooke-1820-v1` | have-raw (IA `lucianofsamosata01luciuoft`) |
+| Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820) | William Tooke | `lucian-tooke-1820-v2` | have-raw (IA `lucianofsamosata02luciuoft`) |
 
 Pending (wishlist): none for Francklin: his Works of Lucian (1780, 2 vols.) is held above. Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 

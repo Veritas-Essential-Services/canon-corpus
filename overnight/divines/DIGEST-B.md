@@ -101,3 +101,4 @@
 - **Ovid and Velleius (01:00):** Mozley's Art of Love volume (1929, first printing) and Shipley's Velleius Paterculus with the Res Gestae (1924 text, later plain reprint).
 - **Demosthenes and Marcus Aurelius (01:03):** Leland's Demosthenes, and four more Marcus Aurelius translators (Casaubon, Collier twice, Rendall).
 - **Aristotle's older translators (01:08):** eleven volumes from before the Oxford translation (Taylor, Bohn's Browne, Owen and Buckley, Peters, Welldon), plus Ellis's Politics and the Everyman Ethics.
+- **Plato and Lucian (01:12):** Whewell's three-volume Plato for English readers, the Davies-Vaughan and Spens Republics, and Tooke's two-volume Lucian.

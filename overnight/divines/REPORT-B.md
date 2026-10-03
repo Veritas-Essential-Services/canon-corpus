@@ -287,3 +287,8 @@
 - Gutenberg: Ellis's Politics (PG 6762); the Everyman Ethics (PG 8438), which names no translator, so none is claimed (usually given as D. P. Chase, not verified).
 - Translator claims unchecked because the OCR garbles the name: Browne ('E. W. BROWNE'), Peters ('PETEES'), Welldon's Politics ('J. EK. C.').
 - Skipped: Jowett's 1885 Politics (the same translation is in Oxford vol. X); Edghill's Categories on Gutenberg (the same translation is in Oxford vol. I).
+
+## 2026-10-03 01:12 CDT — Plato and Lucian
+- Plato: Whewell's Platonic Dialogues for English Readers (vol. I, 2nd ed. 1860, DLI scan; vols. II 1860 and III 1861), noted as abridged in parts, as his preface says; Davies and Vaughan's Republic (Golden Treasury, 1892 printing of 1852); Spens's Republic (1763 translation, Everyman 1906 edition in its 1919 reprint). OCR 0.91-0.98.
+- Lucian: Tooke's Lucian of Samosata (1820, 2 vols; OCR 0.94).
+- Not found: Church's Trial and Death of Socrates (the 1880 scan has no text file).
