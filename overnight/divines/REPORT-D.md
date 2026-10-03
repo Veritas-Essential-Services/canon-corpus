@@ -258,3 +258,6 @@
 
 ## 2026-10-02 19:42 CDT — golden-legend: done
 - 7/7 Internet Archive volumes fetched as raw OCR; not converted (the Edwards precedent).
+
+## 2026-10-02 19:42 CDT — canton: done
+- 1/1 fetched (Gutenberg 22112), 934 units, 0 ~2 ids.

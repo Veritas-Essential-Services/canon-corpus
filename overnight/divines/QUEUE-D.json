@@ -498,7 +498,9 @@
     {
       "id": "canton",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — William Canton's A Child's Book of Saints; myth and saints batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:42:43-05:00",
+      "notes": "1/1 fetched (Gutenberg 22112), 934 units, 0 ~2 ids."
     },
     {
       "id": "abbie-brown",
