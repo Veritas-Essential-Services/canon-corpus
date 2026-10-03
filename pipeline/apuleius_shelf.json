@@ -33,10 +33,16 @@
    "metamorphosesorg02apuluoft",
    "The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910)",
    "tr. H. E. Butler"
+  ],
+  "apuleius-taylor-1822": [
+   "metamorphosisor00apulgoog",
+   "The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822)",
+   "tr. Thomas Taylor"
   ]
  },
  "_excluded": {
-  "H. E. Butler, Metamorphoses (1910)": "now held (IA, apuleius-butler-v1/v2)"
+  "H. E. Butler, Metamorphoses (1910)": "now held (IA, apuleius-butler-v1/v2)",
+  "metamorphosisor01apulgoog": "a second scan of Taylor's 1822 Apuleius (OCR 0.928 against 0.929 for metamorphosisor00apulgoog, which is kept)"
  },
  "_surname": [
   "apuleius"
@@ -46,7 +52,8 @@
   "apuleius-butler-apologia-florida": "harold edgeworth butler",
   "apuleius-adlington-gaselee": "William Adlington",
   "apuleius-butler-v1": "H. E. Butler",
-  "apuleius-butler-v2": "H. E. Butler"
+  "apuleius-butler-v2": "H. E. Butler",
+  "apuleius-taylor-1822": "Thomas Taylor"
  },
  "_checks": {
   "apuleius-adlington-golden-asse": {
@@ -109,6 +116,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "apuleius-taylor-1822": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
