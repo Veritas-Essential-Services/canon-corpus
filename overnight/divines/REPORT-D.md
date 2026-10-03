@@ -363,3 +363,6 @@
 
 ## 2026-10-02 20:10 CDT — baldwin: done
 - 6/6 fetched (Gutenberg 6866, 11582, 15616, 18442, 54214, 66819), 6,263 units, 0 ~2 ids.
+
+## 2026-10-02 20:10 CDT — macgregor: done
+- 3/3 fetched (Gutenberg 25654, 26181, 22175), 1,791 units, 8 ~2 ids.

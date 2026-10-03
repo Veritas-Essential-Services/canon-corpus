@@ -743,7 +743,9 @@
     {
       "id": "macgregor",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: macgregor; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T20:10:47-05:00",
+      "notes": "3/3 fetched (Gutenberg 25654, 26181, 22175), 1,791 units, 8 ~2 ids."
     },
     {
       "id": "gilbert",

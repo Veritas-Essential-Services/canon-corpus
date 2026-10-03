@@ -1,0 +1,34 @@
+{
+ "_about": "Mary Macgregor's retellings in the 'Told to the Children' series: Stories of King Arthur's Knights, Stories of Siegfried and Stories from the Ballads. Clean Gutenberg text; Gutenberg cleared these as US public domain. Her histories (The Story of Greece, The Story of Rome) are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Mary Macgregor",
+ "_name_words": [
+  "told",
+  "children",
+  "arthur",
+  "siegfried",
+  "ballads"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "macgregor-stories-of-king-arthurs-knights": [
+   25654,
+   "Stories of King Arthur's Knights, Told to the Children"
+  ],
+  "macgregor-stories-of-siegfried": [
+   26181,
+   "Stories of Siegfried, Told to the Children",
+   {
+    "contents_only": true
+   }
+  ],
+  "macgregor-stories-from-the-ballads": [
+   22175,
+   "Stories from the Ballads, Told to the Children"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "macgregor-histories": "The Story of Greece (PG 66070), The Story of Rome (66147): history",
+  "macgregor-undine": "Undine (PG 18752): her adaptation of La Motte-Fouqué; a candidate for a later batch"
+ }
+}

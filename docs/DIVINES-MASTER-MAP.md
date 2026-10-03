@@ -4681,6 +4681,18 @@ Shelf: `pipeline/baldwin_shelf.json` (2026-10-02; added at the coordinator's rel
 | The Sampo: A Wonder Tale of the Old North | have | PG 66819, `baldwin-sampo` (1414 units) |
 | baldwin-other | excluded | Fifty Famous People (PG 6168), Four Great Americans (11174), the readers and the Book-Lover: history, schoolbooks and criticism |
 
+## Mary Macgregor
+
+Shelf: `pipeline/macgregor_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three of her 'Told to the Children' retellings. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Stories of King Arthur's Knights, Told to the Children | have | PG 25654, `macgregor-stories-of-king-arthurs-knights` (614 units) |
+| Stories of Siegfried, Told to the Children | have | PG 26181, `macgregor-stories-of-siegfried` (597 units) |
+| Stories from the Ballads, Told to the Children | have | PG 22175, `macgregor-stories-from-the-ballads` (580 units) |
+| macgregor-histories | excluded | The Story of Greece (PG 66070), The Story of Rome (66147): history |
+| macgregor-undine | excluded | Undine (PG 18752): her adaptation of La Motte-Fouqué; a candidate for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
