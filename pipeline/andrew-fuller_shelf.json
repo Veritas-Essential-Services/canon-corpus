@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain Andrew Fuller (1754-1815, Particular Baptist pastor at Kettering, theologian of 'The Gospel Worthy of All Acceptation', secretary of the Baptist Missionary Society) for the Word Hoard: the Complete Works with a memoir by his son Andrew Gunton Fuller (London: G. & J. Dyer, 1846, one volume), raw Internet Archive OCR from a Trinity College, Toronto scan. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "fuller",
+  "andrew"
+ ],
+ "_surname": [
+  "fuller"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "afuller-complete-works-1846": [
+   "completeworksofr00fulluoft",
+   "The Complete Works of the Rev. Andrew Fuller, with a Memoir of his Life (London: Dyer, 1846)"
+  ]
+ },
+ "_alternates": {
+  "worksofrevandrew01..08full (Philadelphia: Anderson and Meehan, 1820-25, 8 vols, Princeton); worksofrevandrewsfs01..08full (Philadelphia: Collier, 1820, NYPL, vol. 6 missing); completeworksofr184501full, completeworksofr01..02full, completeworksofr183602full (Philadelphia/Boston 1833-45)": "Other editions of the Works.",
+  "calvinisticsocin00full*; stricturesonsand00full; expositorydiscou00full; backslider00full; greatquestionans0full; mrfullersletters00full; apologyforlatech00full; miscellaneouspie00full": "Separate printings of pieces the Complete Works collect."
+ },
+ "_excluded": {
+  "memoirsoflatere00full and other Samuel Pearce memoirs": "A memoir of Pearce, mostly Pearce's own letters.",
+  "workoffaithlabou00ryla and Google scans": "Ryland's Life of Fuller: by another author.",
+  "baptistsystemexa00se; briefviewofbapti00ande; briefnarrativeof00full": "Others' books, or a mission report."
+ },
+ "_checks": {
+  "afuller-complete-works-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

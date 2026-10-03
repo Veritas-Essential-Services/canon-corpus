@@ -942,6 +942,16 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `clarkson-*`.
 | Work | Status | Where |
 |---|---|---|
 | Practical Works, 3 vols (Edinburgh: Nichol, 1864-65) | have-raw | IA (identifiers in the shelf) |
+
+## Andrew Fuller (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from a Trinity College, Toronto scan; slug `afuller-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Complete Works with a Memoir by A. G. Fuller (London: Dyer, 1846, one volume): The Gospel Worthy of All Acceptation, the Calvinistic and Socinian Systems, Strictures on Sandemanianism, Discourses on Genesis and on the Apocalypse, The Backslider and the rest | have-raw | IA (identifier in the shelf) |
+| Philadelphia Works (1820-25, 8 vols) and later American editions | alternate | IA |
+| Memoir of Samuel Pearce; Ryland's Life of Fuller | excluded | mostly others' words |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
