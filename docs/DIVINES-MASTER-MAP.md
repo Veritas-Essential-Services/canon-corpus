@@ -1640,8 +1640,10 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
 | Odes | John Conington | `horace-perseus-conington-odes` | have (Perseus TEI `phi0893.phi001.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
+| The Works of Horace, translated literally into English prose (London, 1756), vol. 1 | Christopher Smart (prose, first unrevised form) | `horace-smart-1756-v1` | have-raw (IA `bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1`) |
+| The Works of Horace, translated literally into English prose (London, 1756), vol. 2 | Christopher Smart (prose, first unrevised form) | `horace-smart-1756-v2` | have-raw (IA `bim_eighteenth-century_the-works-of-horace-tra_horace_1756_2`) |
 
-Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Smart's prose in its first, unrevised form (1756).
+Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); none further: Smart's prose in its first, unrevised form (1756) is held above.
 
 ## Catullus
 
@@ -1698,8 +1700,11 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | have-raw (IA `plautus03plau`) |
 | Terence, vol. 1 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v1` | have-raw (IA `terence000ijohn`) |
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
+| The Comedies of Plautus, translated into familiar blank verse (London, 1767), vol. 1 | Bonnell Thornton (some plays by Colman and Warner, as the volumes mark them) | `plautus-thornton-1767-v1` | have-raw (IA `bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1`) |
+| The Comedies of Plautus, translated into familiar blank verse (London, 1767), vol. 2 | Bonnell Thornton (some plays by Colman and Warner, as the volumes mark them) | `plautus-thornton-1767-v2` | have-raw (IA `bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_2`) |
+| The Comedies of Plautus, translated into familiar blank verse (London, 1767), vol. 3 | Bonnell Thornton (some plays by Colman and Warner, as the volumes mark them) | `plautus-thornton-1767-v3` | have-raw (IA `bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_3`) |
 
-Pending (wishlist): Thornton's verse Plautus (1767-74).
+Pending (wishlist): the later Thornton set volumes 4-5 (Warner, 1772-74); vols. 1-3 (1767) are held above.
 
 ## Lucan
 
