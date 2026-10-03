@@ -1090,3 +1090,12 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `ehopkins-*`.
 |---|---|---|
 | Works, 3 vols (Philadelphia: Leighton, ed. C. W. Quick from Pratt's London edition, 1867-74): the Ten Commandments, the Lord's Prayer, the Two Covenants, Death Disarmed, sermons | have-raw | IA (identifiers in the shelf) |
 | Pratt's London Works (1809); separate printings (1701-1860) | alternate | IA |
+
+## Robert Traill (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Google scans; slugs `rtraill-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 4 vols in 2 (Edinburgh: Ogle, 1810): the Throne of Grace, sixteen sermons on the Lord's Prayer in John 17, the Steadfast Adherence to the Profession of our Faith, eleven sermons, the Vindication of the Protestant Doctrine of Justification | have-raw | IA (identifiers in the shelf) |
+| Glasgow (1775) and 1796 editions; Select Practical Writings (1845) | alternate | IA |

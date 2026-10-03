@@ -298,3 +298,6 @@
 
 ## 2026-10-02 21:06 CDT — ezekiel-hopkins done
 - `pipeline/ezekiel-hopkins_shelf.json`: 3 volumes, raw IA OCR, median 98.7% (98.5-99.2%), about 6.1 MB; title pages read (Quick from Pratt, vols I-III). The copies scanned are dated 1867 and 1874 by their shelfmarks, so the titles say 1867-74. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:08 CDT — robert-traill done
+- `pipeline/robert-traill_shelf.json`: 2 bindings holding all 4 volumes (each volume's title page found in the text), raw IA OCR, 94.2-95.2%, about 2.8 MB. Google scans, but the alternatives are long-s 18th-century editions or a one-volume selection. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
