@@ -9,8 +9,7 @@
   "s. horsley",
   "bishop horsley",
   "horsley, samuel",
-  "dr. horsley",
-  "samuel, lord bishop"
+  "dr. horsley"
  ],
  "_held": {},
  "ccel": {},
@@ -98,9 +97,9 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "samuel, lord bishop",
+   "author_seen": null,
    "title_weak": true,
-   "identity": "title_weak",
+   "identity": "MISMATCH: surname ['samuel horsley', 's. horsley', 'bishop horsley', 'horsley, samuel', 'dr. horsley'] never appears as a word in the ia text",
    "ia_rights": "ok: published 1789",
    "ia_date": "1789",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
