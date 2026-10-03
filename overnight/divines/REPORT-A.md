@@ -586,3 +586,6 @@
 
 ## 2026-10-03 06:04 CDT — abraham-booth done
 - `pipeline/abraham-booth_shelf.json`: 5 IA volumes, title pages read. `--verify --record`: 0 mismatched. OCR 97.1% mean, lowest Glad Tidings 85.2% (long s). 0 uids minted.
+
+## 2026-10-03 06:10 CDT — henry-hammond done
+- `pipeline/henry-hammond_shelf.json`: 8 IA volumes, title pages read. Greek measured per Paraphrase volume: 0 / 36,496 / 0 / 163,028. `--verify --record`: 0 mismatched. OCR 97.4% mean, lowest Misc. Works vol. 2 91.6%. 0 uids minted.

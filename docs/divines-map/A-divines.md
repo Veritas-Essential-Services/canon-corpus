@@ -2016,3 +2016,13 @@ Slugs `booth-*`.
 | The Reign of Grace (Hartford, 1814); Paedobaptism Examined, 3 vols (London, 1829) | have-ocr | IA, OCR 94.6-97.6% |
 | Glad Tidings to Perishing Sinners (Philadelphia, 1797) | have-raw | IA, OCR 85.2% (long s) |
 | An Apology for the Baptists; An Essay on the Kingdom of Christ | not yet | IA |
+
+## Henry Hammond (round 13, my pick, 2026-10-03)
+
+Slugs `hammond-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Paraphrase and Annotations upon the New Testament, 4 vols (Oxford, 1845) | have-ocr | IA; Greek in vols. 2 and 4 only (vols. 1 and 3 have 0 Greek characters) |
+| A Practical Catechism (LACT, 1847) | have-ocr | IA |
+| Miscellaneous Theological Works, 3 vols (LACT, 1847-50; vol. 3 is the Thirty-one Sermons) | have-ocr | IA, OCR 91.6-98.5% |
