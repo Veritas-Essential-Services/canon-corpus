@@ -189,6 +189,36 @@ def split_body(p, T, head_frac=0.065):
     return head, rest[:k], rest[k:]
 
 
+def split_at_gutter(lines, W):
+    """The OCR sometimes reads straight across a two-column page, joining a
+    left-column line to its right-hand neighbour ('... the four- | Jerusalem:
+    and they killed ...', 1 Esd 1.1). Cut such a line where a wide gap, or a
+    printed column rule '|', falls in the middle of the page."""
+    out = []
+    for l in lines:
+        ws = l["words"]
+        cut = None
+        for i in range(1, len(ws)):
+            a, b = ws[i - 1], ws[i]
+            mid = (a[2] + b[0]) / 2
+            if not (0.4 * W < mid < 0.6 * W):
+                continue
+            if b[0] - a[2] > 1.2 * l["xs"] or b[5] in ("|", "||") or a[5] in ("|", "||"):
+                cut = i
+                break
+        if cut is None:
+            out.append(l)
+            continue
+        left = [w for w in ws[:cut] if w[5] not in ("|", "||")]
+        right = [w for w in ws[cut:] if w[5] not in ("|", "||")]
+        for part in (left, right):
+            if part:
+                out.append(dict(l, words=part, text=" ".join(w[5] for w in part),
+                                bbox=(part[0][0], min(w[1] for w in part), part[-1][2],
+                                      max(w[3] for w in part))))
+    return out
+
+
 def columns(lines, W):
     """One column, or two split at a gutter near the middle."""
     if not lines:
@@ -348,7 +378,7 @@ def collect(pages, leaves, T, layout, head_fn=head_range):
         hr = head_fn(head_text(head))
         if hr:
             heads[pg] = hr
-        cols = columns(body, p["w"])
+        cols = columns(split_at_gutter(body, p["w"]), p["w"])
         if len(cols) == 2:
             cols = cols[:1]
             twocol.append(pg)

@@ -150,19 +150,21 @@ type size, verse numbers are read from the margin and decoded as a sequence
 checked against each page's running head. Ids are Charles's own citations
 (`charles-tob:5.16`, `charles-testxii:Jos.3.7`, `charles-sib:3.101` by line).
 
-Measured, not claimed: 26 books are built verse by verse (12,073 verses;
+Measured, not claimed: 26 books are built verse by verse (12,054 verses;
 86% of the numbers read off the page, the rest inferred and flagged as
-such); where the KJV Apocrypha has the book, Charles has a unit for 4,669 of
+such); where the KJV Apocrypha has the book, Charles has a unit for 4,662 of
 its 4,984 verse numbers. Six books fall below the bar or print versions in
-parallel columns and are built by printed page. Where a page carries two
+parallel columns and are built by page, one unit per scan leaf
+(`charles-adam:leaf.12`), the printed folio kept where the OCR read it. Where a page carries two
 witnesses side by side (Susanna and Bel's LXX and Theodotion), only the left
-column is read, and the 42 such leaves are counted in the manifest. Each
+column is read, and the 52 such leaves are counted in the manifest; a line the
+OCR read straight across both columns is cut at the gutter first. Each
 unit records how its number was got and where its first words were placed;
 the text is unproofread OCR. Public domain in the US; the Additions to
 Esther (Gregg, d. 1961) are flagged `redistribute_whole: false`.
 `python3 pipeline/build_charles.py --fetch`, then `--report`. Lines of notes
 or apparatus that slip past the type-size split (a third Greek, or thick with
-sigla) are dropped and counted. A word-by-word proofreading pass,
+sigla) are dropped, counted, and listed for review. An OCR flag list,
 `pipeline/proof_charles.py`, flags likely OCR errors for review against the
 scans in `docs/review/charles-ocr-flags.tsv` (unit, leaf, token, a suggested
 reading); it changes nothing in the text.

@@ -400,8 +400,9 @@ The living truth for project state is the Obsidian vault:
   numbers come off the margin by a decoder checked against the running heads;
   every unit says how its number was got and where its first words were put
   (`scan`). Two-column pages keep the left column (counted). Parallel-column
-  books and any book under MODE_BAR are built by printed page. Unproofread
-  OCR, and the honesty field says so.
+  books and any book under MODE_BAR are built by page (`leaf.N` ids, the
+  folio in scan.printed_page). Unproofread OCR, and the honesty field says so;
+  pipeline/proof_charles.py writes an OCR flag list to docs/review/.
 - pipeline/build_josephus.py — Josephus (Ant., J.W., Life, Ag. Ap.): Niese's
   Greek and Whiston's English (both PD; Perseus TEI CC BY-SA 4.0, so books
   gitignored, labelled manifest entries committed). Units are Whiston's

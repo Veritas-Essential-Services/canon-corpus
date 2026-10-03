@@ -87,6 +87,18 @@ check("merge_rows: a line split mid-way is read left to right",
       len(m) == 1 and m[0]["text"] == "27 granted thee. Then Daniel took")
 
 
+def wl(words, y=100):
+    ws = [(x0, y, x1, y + 40, 95, t) for x0, x1, t in words]
+    return {"bbox": (ws[0][0], y, ws[-1][2], y + 40), "xs": 40.0, "text": " ".join(w[5] for w in ws), "words": ws}
+
+
+sp = C.split_at_gutter([wl([(200, 400, "the"), (420, 900, "four-"), (950, 960, "|"), (1010, 1500, "Jerusalem:")])], 2000)
+check("split_at_gutter: a line read across the column rule is cut there, the rule dropped",
+      [l["text"] for l in sp] == ["the four-", "Jerusalem:"])
+sp = C.split_at_gutter([wl([(200, 900, "an ordinary"), (930, 1500, "prose line")])], 2000)
+check("split_at_gutter: a normal word space is not a gutter", len(sp) == 1)
+
+
 # -- the decoder
 def rows(spec):
     """spec: list of (leaf, token or None, tall)"""

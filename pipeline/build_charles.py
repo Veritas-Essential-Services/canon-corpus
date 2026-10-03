@@ -263,7 +263,7 @@ def decode_book(P, key, vol, a, b, layout, o):
     T = VOLUMES[vol]["T"]
     if layout == "lines":
         units, stats = C.sibyl_units(P, leaves, T, o["parts"])
-        return units, stats, {}, []
+        return units, stats, {}, [], []
     head_fn = letter_head if "letters" in o else C.head_range
     rows, heads, twocol = C.collect(P, leaves, T, layout, head_fn)
     chapters = not o.get("chapterless")
@@ -277,7 +277,8 @@ def decode_book(P, key, vol, a, b, layout, o):
     assign = C.decode(rows, heads, chapters, o.get("start", 1), o.get("max") or (len(o["letters"]) if "letters" in o else None),
                       parts, pop)
     units, stats = C.build_units(rows, assign)
-    return units, stats, heads, twocol
+    dropped = [{"leaf": pg, "text": text} for pg, kind, _, text in rows if kind == 'a']
+    return units, stats, heads, twocol, dropped
 
 
 def cite(key, o, u):
@@ -299,7 +300,7 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
     mode = "page"
     units = []
     if layout != "columns":
-        vu, stats, heads, twocol = decode_book(P, key, vol, a, b, layout, o)
+        vu, stats, heads, twocol, dropped = decode_book(P, key, vol, a, b, layout, o)
         n = len(vu)
         read = (stats["read"] + stats["fuzzy"]) / n if n else 0
         ok, tot = C.head_agreement(vu, heads)
@@ -341,9 +342,15 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
                                   f"heads {ok}/{tot}): built by printed page instead")
     if mode == "page":
         for pu in page_units(P, range(a, b + 1), v["T"]):
-            pid = f"p.{pu['page']}" if pu["page"] else f"leaf.{pu['leaf']}"
-            units.append({"id": f"{slug}:{pid}", "ref": f"{title}, {pid}", "text": pu["text"], "links": [],
-                          "scan": {"leaves": [pu["leaf"]], "columns": pu["columns"]}})
+            # one id scheme per book: the scan leaf, always present; the printed folio,
+            # where the OCR read one, rides along (a misread folio must not become an id)
+            pid = f"leaf.{pu['leaf']}"
+            scan = {"leaves": [pu["leaf"]], "columns": pu["columns"]}
+            if pu["page"]:
+                scan["printed_page"] = pu["page"]
+            units.append({"id": f"{slug}:{pid}",
+                          "ref": f"{title}, " + (f"p. {pu['page']}" if pu["page"] else pid),
+                          "text": pu["text"], "links": [], "scan": scan})
         seen = collections.Counter()
         for u in units:
             seen[u["id"]] += 1
@@ -367,7 +374,7 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
         if key == "sib":
             honesty = ("line numbers read from the inline '(n)' markers; text is unproofread OCR")
     else:
-        citation = "printed page of the 1913 edition"
+        citation = "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page"
         honesty = ("page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or "
                    "the verse numbers could not be decoded reliably); columns joined with ' | '; "
                    "the text is unproofread OCR")
@@ -387,6 +394,8 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
             "source": {"format": "ia-hocr", "sha256": v["sha256"], "ia": v["ia"], "leaves": [a, b]},
             "scheme": {"citation": citation, "resolution": mode, "honesty": honesty},
             "rights": rights, "measure": measure, "units": units}
+    if layout != "columns" and dropped:
+        book["apparatus_dropped"] = dropped     # read against the scans: docs/review/charles-ocr-flags.tsv
     return slug, book
 
 

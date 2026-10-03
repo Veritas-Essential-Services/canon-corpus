@@ -5220,7 +5220,7 @@
   "author": "tr. and ed. S. A. Cook, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
-  "units": 419,
+  "units": 413,
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
@@ -5234,30 +5234,30 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 419,
-   "number_read": 362,
+   "verses": 413,
+   "number_read": 357,
    "number_read_with_fix": 18,
-   "number_inferred": 39,
+   "number_inferred": 38,
    "start": {
     "line": 144,
-    "line-start": 106,
-    "sentence": 154,
-    "sentence-first": 15
+    "line-start": 113,
+    "sentence": 149,
+    "sentence-first": 7
    },
    "headings_dropped": 0,
    "apparatus_lines_dropped": 0,
-   "two_column_leaves_left_kept": 23,
+   "two_column_leaves_left_kept": 31,
    "running_heads_agree": [
     32,
     32
    ],
    "kjv_verse_numbers": {
     "kjv": 448,
-    "present": 419,
+    "present": 413,
     "beyond_kjv": 0
    }
   },
-  "built_sha256": "0e0a3ccd8c5d7589dc9f4c4c8861074340afe426995b055924258407b505a74d"
+  "built_sha256": "5be89839d125cee75f90f930821a5cbc45117db9aec6d05a1b9a86cca783eddb"
  },
  "charles-1macc": {
   "title": "I Maccabees",
@@ -5283,9 +5283,9 @@
    "number_read_with_fix": 40,
    "number_inferred": 86,
    "start": {
-    "line": 197,
-    "line-start": 176,
-    "sentence": 448,
+    "line": 196,
+    "line-start": 178,
+    "sentence": 447,
     "sentence-first": 31
    },
    "headings_dropped": 54,
@@ -5300,7 +5300,7 @@
     "beyond_kjv": 2
    }
   },
-  "built_sha256": "776c0c83ee6c7a3e8d7aa7053177addd82f87c159fa57814f4e3a0f8bbef6694"
+  "built_sha256": "2aeffdd141c865277485a1a7e27e27645fdfba176df1a7572840b22e7a65483c"
  },
  "charles-2macc": {
   "title": "II Maccabees",
@@ -5369,9 +5369,9 @@
    "number_read_with_fix": 6,
    "number_inferred": 12,
    "start": {
-    "line": 46,
+    "line": 47,
     "line-start": 31,
-    "sentence": 142,
+    "sentence": 141,
     "sentence-first": 3
    },
    "headings_dropped": 0,
@@ -5381,7 +5381,7 @@
     10
    ]
   },
-  "built_sha256": "d4e656f7855f8157c17af7dbb3a6de6e93b775447273abc906e7b7cb67696b94"
+  "built_sha256": "df947c5b96406f44f37036f054942f37109cb4a8747c8fb31f79f80355397d73"
  },
  "charles-tob": {
   "title": "The Book of Tobit",
@@ -5413,7 +5413,7 @@
     "sentence-first": 11
    },
    "headings_dropped": 0,
-   "apparatus_lines_dropped": 12,
+   "apparatus_lines_dropped": 14,
    "running_heads_agree": [
     35,
     38
@@ -5424,7 +5424,7 @@
     "beyond_kjv": 1
    }
   },
-  "built_sha256": "3dab66b05a519061476ba4998b6d140f94d238cf7bb7f4bc568e9f03b53df650"
+  "built_sha256": "f5bc8b3abe487d5ca4da3d6f93829371c37b5616c142aa0ee9bc423931a969fb"
  },
  "charles-jdt": {
   "title": "The Book of Judith",
@@ -5474,7 +5474,7 @@
   "author": "tr. and ed. G. H. Box and W. O. E. Oesterley, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
-  "units": 1469,
+  "units": 1467,
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
@@ -5488,29 +5488,29 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 1469,
-   "number_read": 823,
-   "number_read_with_fix": 322,
-   "number_inferred": 324,
+   "verses": 1467,
+   "number_read": 826,
+   "number_read_with_fix": 319,
+   "number_inferred": 322,
    "start": {
-    "line": 572,
-    "line-start": 879,
-    "sentence": 16,
-    "sentence-first": 2
+    "line": 568,
+    "line-start": 886,
+    "sentence": 12,
+    "sentence-first": 1
    },
-   "headings_dropped": 133,
-   "apparatus_lines_dropped": 83,
+   "headings_dropped": 132,
+   "apparatus_lines_dropped": 108,
    "running_heads_agree": [
     165,
     177
    ],
    "kjv_verse_numbers": {
     "kjv": 1393,
-    "present": 1351,
-    "beyond_kjv": 96
+    "present": 1350,
+    "beyond_kjv": 95
    }
   },
-  "built_sha256": "6da7f292bc25d9c5a1554409ca327fde332e0775f0bbc41e960a82ab8ffddb7c"
+  "built_sha256": "ff3378c4b85822151123e7f7f1dd0f83fd0f14b57b7e45f75e6e93b2e7ca19a3"
  },
  "charles-wis": {
   "title": "The Wisdom of Solomon",
@@ -5536,8 +5536,8 @@
    "number_read_with_fix": 11,
    "number_inferred": 13,
    "start": {
-    "line": 50,
-    "line-start": 373
+    "line": 49,
+    "line-start": 374
    },
    "headings_dropped": 0,
    "apparatus_lines_dropped": 0,
@@ -5551,7 +5551,7 @@
     "beyond_kjv": 0
    }
   },
-  "built_sha256": "17e543a08293a28527ef444bbe20af5cdcb3c9deae361939a99ae19e531a4b50"
+  "built_sha256": "458e4271952f405e05c45f53c12bd9a862795a2127bc0a9dab0b57eee7f7f836"
  },
  "charles-bar": {
   "title": "The Book of Baruch",
@@ -5560,7 +5560,7 @@
   "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
   "units": 14,
   "scheme": {
-   "citation": "printed page of the 1913 edition",
+   "citation": "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page",
    "resolution": "page",
    "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 598-611 of theapocryphaandp01unknuoft"
@@ -5595,7 +5595,7 @@
    },
    "refused": "verse decoding below the bar (numbers read 79%; heads 2/3): built by printed page instead"
   },
-  "built_sha256": "c18cb17d67c6362285b43f0e35c17bc90b4e6903d3626693cf841985d1de9ea0"
+  "built_sha256": "898c1c38b9101b291a39bb83ab2130c2370b43b328918462b8f0aaa7102284bf"
  },
  "charles-epjer": {
   "title": "The Epistle of Jeremy",
@@ -5627,9 +5627,9 @@
     "sentence-first": 1
    },
    "headings_dropped": 1,
-   "apparatus_lines_dropped": 36
+   "apparatus_lines_dropped": 38
   },
-  "built_sha256": "2a3261d0a15811e00ff3f84fbcb4daf22ef8f924191a7dad69f9ee1b729b8f1f"
+  "built_sha256": "d61f82025a479b3f93618585ded80819d88773b6cbbf5e6049be1566d78cf261"
  },
  "charles-prman": {
   "title": "The Prayer of Manasses",
@@ -5638,7 +5638,7 @@
   "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
   "units": 5,
   "scheme": {
-   "citation": "printed page of the 1913 edition",
+   "citation": "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page",
    "resolution": "page",
    "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 635-639 of theapocryphaandp01unknuoft"
@@ -5662,7 +5662,7 @@
    "apparatus_lines_dropped": 0,
    "refused": "verse decoding below the bar (numbers read 25%; heads 0/0): built by printed page instead"
   },
-  "built_sha256": "db3a04f2f76002dc4d0ed1360c1c5537148ea91f46d0831f6257d91778e3e194"
+  "built_sha256": "f99c740c7ed969b160ca1b512de88107a7eb5050982225c690c0ed9311137f54"
  },
  "charles-azar": {
   "title": "The Prayer of Azariah and the Song of the Three Children",
@@ -5763,7 +5763,7 @@
    "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 6
   },
-  "built_sha256": "0de5360dfc767d5f2653e82f1e26bf192c5c0d9ea962965736d4176c949846cf"
+  "built_sha256": "cc1379f1a4c3ed249aa0848d2d55b838fecedd282a417a7046b108d0ba41d781"
  },
  "charles-addesth": {
   "title": "The Additions to Esther",
@@ -5802,7 +5802,7 @@
     8
    ]
   },
-  "built_sha256": "02ca9f488ceecc3b808ae3845b8d0c39ec1b82016ca91a2c1e5d304e33cd0d4e"
+  "built_sha256": "3843a8c0505d9d0b647325c7e4a07caf5976b045f2a0175d164a0d08d6fdb341"
  },
  "charles-jub": {
   "title": "The Book of Jubilees",
@@ -5840,7 +5840,7 @@
     59
    ]
   },
-  "built_sha256": "2d46679ea78ecedb99b7e5a705d9d08bcb726bdfb7a713630485a2a5569102cb"
+  "built_sha256": "290ec415e2c585531cb349ff8558fdd00a892dfbe74ecef123c0b2ee3ff30efa"
  },
  "charles-arist": {
   "title": "The Letter of Aristeas",
@@ -5874,7 +5874,7 @@
    "headings_dropped": 0,
    "apparatus_lines_dropped": 0
   },
-  "built_sha256": "3cbbba4c2fb04a5eb2dca1361057fc531a6e727799d84098a7bd9df47aee4e51"
+  "built_sha256": "1b5ecd7328bf0ddae3dba648225ddcaaf5dcd6d67b077a1b969938878c336c9a"
  },
  "charles-adam": {
   "title": "The Books of Adam and Eve",
@@ -5883,7 +5883,7 @@
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
   "units": 21,
   "scheme": {
-   "citation": "printed page of the 1913 edition",
+   "citation": "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page",
    "resolution": "page",
    "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 153-173 of apocryphapseudep02charuoft"
@@ -5895,7 +5895,7 @@
    "redistribute_whole": true
   },
   "measure": {},
-  "built_sha256": "7ce530657afa09f767bca9d7889542f13b1c9b45c49ba2c691b4899556a3e507"
+  "built_sha256": "2e5123c2b813212fe139a3d9ce9250ecf51b1857f46cd353f581114e8e354161"
  },
  "charles-mart": {
   "title": "The Martyrdom of Isaiah",
@@ -5904,7 +5904,7 @@
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
   "units": 4,
   "scheme": {
-   "citation": "printed page of the 1913 edition",
+   "citation": "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page",
    "resolution": "page",
    "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 178-181 of apocryphapseudep02charuoft"
@@ -5934,14 +5934,14 @@
    ],
    "refused": "verse decoding below the bar (numbers read 59%; heads 1/2): built by printed page instead"
   },
-  "built_sha256": "f345b53f6d2bf8adf86526a49d68923fd4896ef0e179b46df49fe6dfbae00223"
+  "built_sha256": "9137a285483807a1a976832f9143a386b469615a12e46851c5b0b24a01f7c56e"
  },
  "charles-1en": {
   "title": "The Book of Enoch (1 Enoch)",
   "author": "tr. and ed. R. H. Charles, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
-  "units": 841,
+  "units": 840,
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
@@ -5955,32 +5955,32 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 841,
-   "number_read": 580,
-   "number_read_with_fix": 113,
+   "verses": 840,
+   "number_read": 583,
+   "number_read_with_fix": 109,
    "number_inferred": 148,
    "start": {
-    "line": 94,
-    "line-start": 286,
+    "line": 96,
+    "line-start": 283,
     "sentence": 446,
     "sentence-first": 15
    },
-   "headings_dropped": 19,
+   "headings_dropped": 18,
    "apparatus_lines_dropped": 0,
-   "two_column_leaves_left_kept": 4,
+   "two_column_leaves_left_kept": 5,
    "running_heads_agree": [
     72,
     81
    ]
   },
-  "built_sha256": "6a40125fcd620303d04ae02e081e8d45dafd6d5541b25aed7a7f44a68e31e323"
+  "built_sha256": "f95a7918b98c05c7ff4400c56e6a1c784b0e63914dbf0ec0c9211da5841f87fd"
  },
  "charles-testxii": {
   "title": "The Testaments of the Twelve Patriarchs",
   "author": "tr. and ed. R. H. Charles, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
-  "units": 890,
+  "units": 886,
   "scheme": {
    "citation": "testament.chapter.verse",
    "resolution": "verse",
@@ -5994,21 +5994,21 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 890,
-   "number_read": 642,
+   "verses": 886,
+   "number_read": 636,
    "number_read_with_fix": 141,
-   "number_inferred": 107,
+   "number_inferred": 109,
    "start": {
-    "line": 101,
-    "line-start": 286,
-    "sentence": 434,
-    "sentence-first": 69
+    "line": 123,
+    "line-start": 264,
+    "sentence": 431,
+    "sentence-first": 68
    },
    "headings_dropped": 0,
    "apparatus_lines_dropped": 1,
-   "two_column_leaves_left_kept": 3
+   "two_column_leaves_left_kept": 4
   },
-  "built_sha256": "7aed6fb81b48e3d038a8e62ce2456203be05d7a53b190c4ed2f6ecd02408a8dc"
+  "built_sha256": "a6d6a0569f10959b85936cdbd572169a7d2d4764a9b594d90437ef44ff323802"
  },
  "charles-sib": {
   "title": "The Sibylline Oracles",
@@ -6084,7 +6084,7 @@
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
   "units": 39,
   "scheme": {
-   "citation": "printed page of the 1913 edition",
+   "citation": "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page",
    "resolution": "page",
    "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 450-488 of apocryphapseudep02charuoft"
@@ -6096,7 +6096,7 @@
    "redistribute_whole": true
   },
   "measure": {},
-  "built_sha256": "a4a3bdc0276f4f34904fa2cfb29de12ab26ec191c158115b7ba959866692ff6c"
+  "built_sha256": "a24a0062803e475a018b5f048822f054abb2f4e0dd420de62e28652c4bc0192f"
  },
  "charles-2bar": {
   "title": "II Baruch (the Syriac Apocalypse)",
@@ -6122,8 +6122,8 @@
    "number_read_with_fix": 85,
    "number_inferred": 101,
    "start": {
-    "line": 66,
-    "line-start": 249,
+    "line": 65,
+    "line-start": 250,
     "sentence": 240,
     "sentence-first": 26
    },
@@ -6134,7 +6134,7 @@
     33
    ]
   },
-  "built_sha256": "123fa7f592e287d2b5f9c2bb82ec751bcfd2bc378bf7faae34c8d2f6bf04abba"
+  "built_sha256": "882ddbdb0839ce97c1c80ef260d71d806c04f5dddeeec929dca0d241579d7347"
  },
  "charles-3bar": {
   "title": "III Baruch (the Greek Apocalypse)",
@@ -6172,7 +6172,7 @@
     4
    ]
   },
-  "built_sha256": "2d4c6cca07c354ec1554fdd590d58fe21b6b15128e91ee87acf02ffc1a18f520"
+  "built_sha256": "ddc561c3bb9bfb3e016ba5db05412fb605001f6e4f119bde7c87eace62eab50c"
  },
  "charles-4ezra": {
   "title": "IV Ezra",
@@ -6215,7 +6215,7 @@
     "beyond_kjv": 73
    }
   },
-  "built_sha256": "7e027b2907b31790bf2eef65abd664a2031d0286ad07fbee9ee50e841bd0e7f1"
+  "built_sha256": "2ee12e5e3b2e2a9fcdebac9cba4b80e3db3ddb6cdceed9c96dd132e78aca09b4"
  },
  "charles-pssol": {
   "title": "The Psalms of Solomon",
@@ -6336,7 +6336,7 @@
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
   "units": 61,
   "scheme": {
-   "citation": "printed page of the 1913 edition",
+   "citation": "scan leaf (leaf.N), one per printed page of the 1913 edition; the folio, where read, in scan.printed_page",
    "resolution": "page",
    "honesty": "page-exact; verses NOT segmented (Charles prints parallel versions in columns here, or the verse numbers could not be decoded reliably); columns joined with ' | '; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 743-803 of apocryphapseudep02charuoft"
@@ -6348,7 +6348,7 @@
    "redistribute_whole": true
   },
   "measure": {},
-  "built_sha256": "20fb84e50f79e35510a4ca1a69336a4d9e9ba36ec029e37d17ed3be6b502a2df"
+  "built_sha256": "41c0a380c979122a8538aca1c84c6b617f106baffcea379ccacb1a3ccedb75e0"
  },
  "charles-zad": {
   "title": "Fragments of a Zadokite Work",
@@ -6387,7 +6387,7 @@
     27
    ]
   },
-  "built_sha256": "05c55bf51a055b37f3ad7eb4ec08d53da4c52a9c1e3b2c96970481140927eb55"
+  "built_sha256": "773e637014b52680942407a3648676522e07959a537af708258aef37b039b0b5"
  },
  "coverdale": {
   "title": "The Coverdale Bible (1535)",
