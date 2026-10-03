@@ -34,11 +34,10 @@
    "Seeking Life, and Other Sermons, tenth series (New York: E. P. Dutton, 1904)"
   ]
  },
- "_alternates": {},
- "_excluded": {},
- "_pending": {
-  "pbrooks-purpose-of-comfort": "The Purpose and Use of Comfort, and Other Sermons (Dutton, 1906): IA purposeuseof00broo returned HTTP 500 on 2026-10-03; retry"
+ "_alternates": {
+  "pbrooks-purpose-of-comfort": "The Purpose and Use of Comfort, and Other Sermons (Dutton, 1906, 1910; IA purposeanduseco00broogoog, purposeuseofco00broo) is the First Series of Sermons retitled after its first sermon: the same text as pbrooks-sermons-1"
  },
+ "_excluded": {},
  "_checks": {
   "pbrooks-addresses": {
    "kind": "gutenberg",

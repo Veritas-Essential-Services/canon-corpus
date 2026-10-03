@@ -231,7 +231,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | Hannah Whitall Smith | hannah-whitall-smith_shelf.json | 3 CCEL (The Christian's Secret of a Happy Life; The God of All Comfort; Old Testament Types and Teachings) | none | none | none |
 | R. A. Torrey | r-a-torrey_shelf.json | 3 CCEL (How to Pray; The Person and Work of the Holy Spirit, keyed from a 1974 Zondervan reprint; Revival Addresses, Revell 1903) | none | none | Torrey's New Topical Textbook (a verse index) |
 | Horace Bushnell (veto point: moral-influence atonement) | horace-bushnell_shelf.json | 5 CCEL (Christian Nurture; The Vicarious Sacrifice, Scribner 1868-76; Sermons for the New Life; Christ and His Salvation; The Character of Jesus) | none | none | none |
-| A. B. Bruce | a-b-bruce_shelf.json | 1 CCEL (The Training of the Twelve, print source not named) + 4 IA (Humiliation of Christ 2nd ed. 1889, Kingdom of God 1889, St. Paul's Conception 1896, Hebrews 1899) | Parabolic Teaching (IA HTTP 500) | none | none |
+| A. B. Bruce | a-b-bruce_shelf.json | 1 CCEL (The Training of the Twelve, print source not named) + 5 IA (Humiliation of Christ 2nd ed. 1889, Parabolic Teaching 4th ed. 1891, Kingdom of God 1889, St. Paul's Conception 1896, Hebrews 1899) | none | none | none |
 | James Denney | james-denney_shelf.json | 3 CCEL (The Death of Christ, keyed from a 1911 printing; Expositor's Bible Second Corinthians, Hodder 1894; Thessalonians, Hodder) | none | none | none |
 | Alexander Whyte | alexander-whyte_shelf.json | 3 CCEL (Lord, Teach Us to Pray, Hodder 1922; Jacob Behmen and Santa Teresa appreciations, Oliphant Anderson & Ferrier) | none | none | none |
 | H. C. G. Moule | h-c-g-moule_shelf.json | 3 CCEL (Expositor's Bible Romans, Hodder; To My Younger Brethren, Hodder 1902; Messages from Hebrews, Elliot Stock 1909) | none | none | none |
@@ -240,7 +240,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | D. L. Moody | d-l-moody_shelf.json | 1 CCEL (Anecdotes, Rhodes & McClure 1899) + 10 Gutenberg (sermons and addresses; none marked COPYRIGHTED) | none | none | none |
 | George Müller | george-muller_shelf.json | 5 Gutenberg (Narrative parts 1-4; Answers to Prayer, compiled by A. E. C. Brooks) | none | none | Life of Trust (Wayland abridgement) left out as a second copy |
 | C. H. Mackintosh | c-h-mackintosh_shelf.json | 12 Gutenberg (Notes on the Pentateuch, 6 vols; Miscellaneous Writings, 6 vols) | none | none | none |
-| Phillips Brooks | phillips-brooks_shelf.json | 4 IA (Lectures on Preaching 1877; Sermons first series, catalogued 1878; New Starts in Life 1896; Seeking Life 1904) + 1 Gutenberg (Addresses) | Purpose and Use of Comfort (IA HTTP 500) | none | none |
+| Phillips Brooks | phillips-brooks_shelf.json | 4 IA (Lectures on Preaching 1877; Sermons first series, catalogued 1878; New Starts in Life 1896; Seeking Life 1904) + 1 Gutenberg (Addresses) | none (Purpose and Use of Comfort is the First Series retitled) | none | none |
 | Richard Watson (Methodist) | richard-watson-methodist_shelf.json | 2 IA (Theological Institutes, M'Clintock ed., Lane & Scott 1850-51) + 1 Gutenberg (Biblical and Theological Dictionary) | none | none | shares his name with Bishop Watson of Llandaff, so the title words carry the identity check |
 | Abraham Booth | abraham-booth_shelf.json | 5 IA (Reign of Grace, Hartford 1814; Glad Tidings, Philadelphia 1797; Paedobaptism Examined, 3 vols, London 1829) | none | none | Glad Tidings OCR 85% (long s) |
 
@@ -262,7 +262,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Gilbert Tennent | gilbert-tennent_shelf.json | none | 2 (Twenty-three Sermons, Philadelphia 1744; Irenicum Ecclesiasticum, 1749) | none | none |
 | Lyman Beecher | lyman-beecher_shelf.json | none | 4 (Beecher's Works, 3 vols, Boston 1852; A Plea for the West, 2nd ed., catalogued 1835) | none | none |
 | Francis Asbury | francis-asbury_shelf.json | none | 3 (Journal, 3 vols, Lane & Scott 1852) | none | none |
-| Richard Cecil | richard-cecil_shelf.json | none | 2 (Remains, ed. Pratt, Carter 1843; Original Thoughts on Scripture, Carter 1849) | Memoirs of John Newton (IA HTTP 500); Works (1847) not yet read | none |
+| Richard Cecil | richard-cecil_shelf.json | none | 3 (Remains, ed. Pratt, Carter 1843; Original Thoughts on Scripture, Carter 1849; Memoirs of John Newton, New York 1809) | Works (1847) not yet read | none |
 
 ## Round 14: my picks, also for your veto
 

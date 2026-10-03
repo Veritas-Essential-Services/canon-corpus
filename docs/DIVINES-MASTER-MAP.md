@@ -1919,7 +1919,7 @@ Slugs `bruce-*`. Name forms are full forms only (no bare "bruce").
 |---|---|---|
 | The Training of the Twelve | have-clean | CCEL (print source not named) |
 | The Humiliation of Christ (2nd ed., 1889); The Kingdom of God (1889); St. Paul's Conception of Christianity (1896); The Epistle to the Hebrews (1899) | have-ocr | IA, OCR 94-99% |
-| The Parabolic Teaching of Christ | pending | IA copy returned HTTP 500 |
+| The Parabolic Teaching of Christ (4th ed., 1891) | have-ocr | IA ("0000"-style id, title page read) |
 
 ## James Denney (round 12, my pick, 2026-10-03)
 
@@ -2002,7 +2002,7 @@ Slugs `pbrooks-*` (Thomas Brooks has the `brooks-*` slugs). Name forms are full 
 |---|---|---|
 | Lectures on Preaching (1877); Sermons, first series (catalogued 1878); New Starts in Life (8th series, 1896); Seeking Life (10th series, 1904) | have-ocr | IA, OCR 97.7-99.4% |
 | Addresses | have-clean | Gutenberg 14497 |
-| The Purpose and Use of Comfort (1906) | pending | IA HTTP 500 |
+| The Purpose and Use of Comfort (1906) | alternate | the First Series of Sermons retitled: same text as `pbrooks-sermons-1` |
 
 ## Richard Watson, Methodist (round 12, my pick, 2026-10-03)
 
@@ -2139,7 +2139,8 @@ Slugs `cecil-*`.
 | Work | Status | Where |
 |---|---|---|
 | Remains (1843); Original Thoughts on Various Passages of Scripture (1849) | have-ocr | IA, OCR 99% |
-| Memoirs of the Rev. John Newton (1809); Works (1847) | pending | IA |
+| Memoirs of the Rev. John Newton (New York, 1809) | have-ocr | IA |
+| Works (1847) | pending | IA, not yet read |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

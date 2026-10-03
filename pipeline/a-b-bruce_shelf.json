@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain A. B. Bruce (Alexander Balmain Bruce, 1831-1899, Free Church of Scotland, professor of apologetics and New Testament exegesis at the Free Church College, Glasgow) for the Word Hoard: The Training of the Twelve clean from CCEL, and The Humiliation of Christ (second edition, 1889), The Kingdom of God (1889), St. Paul's Conception of Christianity (1896 printing) and The Epistle to the Hebrews (1899) as raw Internet Archive OCR. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain A. B. Bruce (Alexander Balmain Bruce, 1831-1899, Free Church of Scotland, professor of apologetics and New Testament exegesis at the Free Church College, Glasgow) for the Word Hoard: The Training of the Twelve clean from CCEL, and The Humiliation of Christ (second edition, 1889), The Parabolic Teaching of Christ (fourth edition, 1891), The Kingdom of God (1889), St. Paul's Conception of Christianity (1896 printing) and The Epistle to the Hebrews (1899) as raw Internet Archive OCR. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
  "_ccel_author": "b/bruce",
  "_name_words": [
   "bruce",
@@ -38,12 +38,18 @@
   "bruce-hebrews-1899": [
    "theepistletotheh00brucuoft",
    "The Epistle to the Hebrews, the First Apology for Christianity: an Exegetical Study (Edinburgh: T. & T. Clark, 1899)"
+  ],
+  "bruce-parabolic-teaching-1891": [
+   "parabolicteachin0000bruc_f6x4",
+   "The Parabolic Teaching of Christ: a Systematic and Critical Study of the Parables of our Lord, fourth edition (London: Hodder and Stoughton, MDCCCXCI)"
   ]
  },
- "_alternates": {},
+ "_alternates": {
+  "bruce-parabolic-teaching": "theparabolicteac00brucuoft (1886) returned HTTP 500 for its text on 2026-10-03"
+ },
  "_excluded": {},
- "_pending": {
-  "bruce-parabolic-teaching": "The Parabolic Teaching of Christ (1882-86): IA theparabolicteac00brucuoft returned HTTP 500 on 2026-10-03; retry"
+ "_rights_checked": {
+  "bruce-parabolic-teaching-1891": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): 'FOURTH EDITION. London: Hodder and Stoughton, 27, Paternoster Row. MDCCCXCI', with prefaces dated 1882 and 1888. A period printing, not a modern reprint."
  },
  "_checks": {
   "bruce-training-twelve": {
@@ -101,6 +107,18 @@
    "ia_date": "1899",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "bruce-parabolic-teaching-1891": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander balmain bruce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): 'FOURTH EDITION. London: Hodder and Stoughton, 27, Paternoster Row. MDCCCXCI', with prefaces dated 1882 and 1888. A period printing, not a modern reprint."
   }
  }
 }

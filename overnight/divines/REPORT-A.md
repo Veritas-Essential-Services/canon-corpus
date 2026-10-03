@@ -639,3 +639,10 @@
 ## 2026-10-03 06:49 CDT — review cycle 12 follow-ups
 - Horsley: dropped the name form "samuel, lord bishop" (any Bishop Samuel would match). The 1789 Tracts then failed, because its title page names him only by his see ("Samuel, Lord Bishop of St. David's"). That reading is now in `_identity_checked`, and the re-record shows 0 mismatched. Commit 2e7ba2e had briefly pushed the shelf without that reading, and with a stale record.
 - Nettleton had already been dropped from the queue (skipped; PR #14 owns him).
+
+## 2026-10-03 06:55 CDT — pending items retried
+- A. B. Bruce: added The Parabolic Teaching of Christ, 4th ed. (Hodder, 1891). The id is "0000"-style; its title page was read and recorded in `_rights_checked`.
+- Richard Cecil: added Memoirs of the Rev. John Newton (New York, 1809), whose text now loads.
+- Phillips Brooks: The Purpose and Use of Comfort is the First Series of Sermons retitled, so it is an alternate, not pending.
+- Still HTTP 500: Eadie's Thessalonians, Tillotson Works vol. 3.
+- Poole and Trapp marked skipped in QUEUE-A: PR #14 shelves them from EEBO first printings.
