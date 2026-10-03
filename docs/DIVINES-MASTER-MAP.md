@@ -1115,6 +1115,16 @@ Slugs `gillespie-*`.
 | Works, vol. 1 (Edinburgh: Ogle, 1846, ed. Hetherington): Dispute against the English Popish Ceremonies, Assertion of the Government of the Church of Scotland and more | have-clean | Gutenberg 26849 |
 | Aaron's Rod Blossoming (1844) | have-raw | IA |
 | Works, vol. 2; A Treatise of Miscellany Questions | pending | no usable scan (the 1649 one OCRs at 75%) |
+
+## David Dickson (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `ddickson-*`. A thin shelf: his commentaries survive on IA only in 17th-century printings.
+
+| Work | Status | Where |
+|---|---|---|
+| Select Practical Writings, vol. 1 (1845) | have-raw | IA |
+| The Sum of Saving Knowledge, with Durham (1886, Macpherson's notes) | have-raw | IA |
+| Psalms (1653-54), Hebrews (1635), Matthew; Therapeutica Sacra (1697) | pending | only 17th-century printings |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

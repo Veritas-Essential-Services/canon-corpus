@@ -304,3 +304,6 @@
 
 ## 2026-10-02 21:10 CDT — george-gillespie done
 - `pipeline/george-gillespie_shelf.json`: 1 Gutenberg book (Works vol. 1, 1846; its transcriber's note and title page name the edition) and 1 IA scan (Aaron's Rod, 1844, 94.5%). The 1649 Miscellany Questions was fetched, scored 74.9%, and moved to `_pending` rather than shelved. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:12 CDT — david-dickson done
+- `pipeline/david-dickson_shelf.json`: 2 items, raw IA OCR, 98.4-98.8%, about 1.1 MB. Therapeutica Sacra (1697) was refused by the identity gate (long-s OCR never prints his name) and is pending with the 17th-century commentaries. The Sum of Saving Knowledge is the copy the Durham shelf excluded as chiefly Dickson's, so it is not duplicated. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
