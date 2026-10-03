@@ -1356,6 +1356,15 @@ Slugs `martyn-*`.
 |---|---|---|
 | Journals and Letters, ed. Samuel Wilberforce, 2 vols (London, 1837) | have-raw | IA (identifiers in the shelf) |
 | Sermons (Boston, 1822) | have-raw | IA |
+
+
+## James Hervey (round 9, my pick, 2026-10-03)
+
+Slugs `hervey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Whole Works, 1 vol. (Edinburgh: Brown and Nelson, 1834), incl. Meditations and Contemplations, Theron and Aspasio | have-raw | IA (identifier in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

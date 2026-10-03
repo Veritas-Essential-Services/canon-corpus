@@ -374,3 +374,7 @@
 ## 2026-10-03 00:48 CDT — henry-martyn done
 - `pipeline/henry-martyn_shelf.json`: 3 IA items of raw OCR, median 97.4% (97.2-98.6%), about 2.8 MB; title pages read (MDCCCXXXVII; 1822). `--verify --record`: 0 mismatched, 0 rights flags; matched on "henry martyn". 0 uids minted.
 - Gates, 2026-10-03 (relayed review findings, lane A owns them): `fetch_shelf.py` identity gate now collects every miss and an override covers only the miss it names, never the translator; the IA rights gate fails closed and the latest year on the record decides (815a082). A surname that is a common English word ("hall", "ken") never matches bare, and a shelf with only such forms stops at load (e1ef08b). Lane A's 13 affected shelves were re-recorded on full names: every item matched. `tests/fetch_shelf_test.py`, 35 checks.
+
+## 2026-10-03 00:52 CDT — james-hervey done
+- `pipeline/james-hervey_shelf.json`: the 1834 one-volume Whole Works, raw IA OCR, 95.3%, 5.7 MB; title page read (1834). `--verify --record`: 0 mismatched, 0 rights flags; matched on "james hervey". 0 uids minted.
+- Round 9, nothing shelved: Matthew Poole (only the 1683-1700 folios on IA, long s in double columns, plus one volume of an 1861 printing) and John Trapp (the one scan, catalogued 1865, is by its own front matter the Sovereign Grace Book Club's 1958 reprint). Both are `pending` in the queue.
