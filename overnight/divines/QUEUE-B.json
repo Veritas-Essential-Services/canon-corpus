@@ -548,6 +548,14 @@
    "started": "2026-10-03T01:21:32-05:00",
    "finished": "2026-10-03T01:30:02-05:00",
    "notes": "Adams's Perseus files record a 1958 printing next to the 1919 first publication; taken with a stated reason. Watson vol. II's title page OCRs the name garbled, so unchecked with the OCR spelling."
+  },
+  {
+   "id": "perseus-census-fill",
+   "status": "done",
+   "scope": "Perseus census gaps by new translators: Smyth's Aeschylus, Norlin's Isocrates, Perrin's Plutarch Lives, Godley's Herodotus, Hicks's Diogenes Laertius, Rackham's Ethics, Frazer's Epitome",
+   "started": "2026-10-03T01:30:02-05:00",
+   "finished": "2026-10-03T01:35:59-05:00",
+   "notes": "All English-only Perseus TEI, US PD by date. Godley and Smyth are texts 'modernized by Perseus', which their rows say. Freese's Rhetoric refused: its record gives a 1947 printing."
   }
  ]
 }

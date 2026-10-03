@@ -317,3 +317,12 @@
 - Livy: Church and Brodribb's Books XXI-XXV, The Second Punic War (Macmillan, 1883)
 - Quintilian: Watson's Bohn Institutes, vol. I from Bell's 1903 reprint from the 1856 stereotype plates and vol. II from 1856; this fills the 'Watson, no scan located' gap
 - Eighteen 'pending' notes refreshed where the work was already held (Carter's Epictetus, Cary's Herodotus, Buckley's Euripides vol. II, Golding's Caesar, Holland's Livy, Murray's Homer, C. F. Smith's Thucydides, the Bohn Plato, Bysshe, Elton's Hesiod and others); the Brookes More note now agrees with the Perseus source record (Cornhill, 1922)
+
+## 2026-10-03 01:35 CDT — Perseus census fill: Smyth, Norlin, Perrin, Godley, Hicks, Rackham
+- Aeschylus: Smyth's Loeb (1922-26), seven plays; Perseus marks these files modernized
+- Isocrates: Norlin's Loeb vols. 1-2 (1928-29), eleven speeches; Van Hook's vol. 3 (1945) not taken
+- Plutarch: Perrin's Lives (Loeb 1914-26), 66 texts
+- Herodotus: Godley's Loeb (1920-25), whole Histories, in Perseus's modernized text (its header says archaisms were removed and the text revised)
+- Diogenes Laertius: Hicks's Loeb (1925), whole Lives
+- Aristotle: Rackham's Nicomachean Ethics (Loeb 1926) as a second Ethics witness; Freese's Rhetoric refused (1947 printing in its record, no reason stated)
+- Apollodorus: Frazer's Epitome joins his Library

@@ -1678,6 +1678,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Rhetoric of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1886) | J. E. C. Welldon | `aristotle-welldon-rhetoric-1886` | have-raw (IA `rhetoricofaristo00aristot`) |
 | The Politics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1901 printing; first published 1883) | J. E. C. Welldon | `aristotle-welldon-politics-1901` | have-raw (IA `bwb_KU-767-069`) |
 | The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
+| Nicomachean Ethics | Harris Rackham (1926) | `aristotle-perseus-rackham-nicomachean-ethics` | have (Perseus TEI `tlg0086.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
@@ -1834,6 +1835,13 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Oresteia of Aeschylus translated into English Prose (London, 18 Bury Street, 1893) | Lewis Campbell | `aeschylus-campbell-oresteia-prose-1893` | have-raw (IA `oresteiaofaeschy00aescrich`) |
 | The Plays of Aeschylus translated from a revised text (prose; London: George Bell, 1909) | Walter Headlam and C. E. S. Headlam | `aeschylus-headlam-plays-1909` | have-raw (IA `aeschylusplays00aesciala`) |
 | The Oresteia of Aeschylus translated and explained (London: George Allen, 1900) | George C. W. Warr | `aeschylus-warr-oresteia-1900` | have-raw (IA `oresteiatranslat00aescuoft`) |
+| Agamemnon | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng3`; markup CC BY-SA 4.0) |
+| Eumenides | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-eumenides` | have (Perseus TEI `tlg0085.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Libation Bearers | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-libation-bearers` | have (Perseus TEI `tlg0085.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Persians | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-persians` | have (Perseus TEI `tlg0085.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Prometheus Bound | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-prometheus-bound` | have (Perseus TEI `tlg0085.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Seven Against Thebes | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-seven-against-thebes` | have (Perseus TEI `tlg0085.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Suppliant Maidens | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-suppliant-maidens` | have (Perseus TEI `tlg0085.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -1939,6 +1947,7 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. II | William Beloe | `herodotus-beloe-1821-v2` | have-raw (IA `india.history.resource.86417`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
+| Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
@@ -2164,6 +2173,72 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Of Those Sentiments Concerning Nature with which Philosophers were Delighted | John Dowell | `plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Philosophie, commonlie called, The Morals (London, 1603), first part of the scan | Philemon Holland | `plutarch-holland-morals-1603-part1` | have-raw (IA `plutarchhollandmorals01`) |
 | The Philosophie, commonlie called, The Morals (London, 1603), second part of the scan (from the Symposiaques) | Philemon Holland | `plutarch-holland-morals-1603-part2` | have-raw (IA `plutarchhollandmorals02`) |
+| Aemilius Paulus | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-aemilius-paulus` | have (Perseus TEI `tlg0007.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| Agesilaus | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-agesilaus` | have (Perseus TEI `tlg0007.tlg044.perseus-eng2`; markup CC BY-SA 4.0) |
+| Agis and Cleomenes | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-agis-and-cleomenes` | have (Perseus TEI `tlg0007.tlg051.perseus-eng1`; markup CC BY-SA 4.0) |
+| Alcibiades | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-alcibiades` | have (Perseus TEI `tlg0007.tlg015.perseus-eng2`; markup CC BY-SA 4.0) |
+| Alexander | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-alexander` | have (Perseus TEI `tlg0007.tlg047.perseus-eng2`; markup CC BY-SA 4.0) |
+| Antony | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-antony` | have (Perseus TEI `tlg0007.tlg058.perseus-eng2`; markup CC BY-SA 4.0) |
+| Aratus | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-aratus` | have (Perseus TEI `tlg0007.tlg063.perseus-eng2`; markup CC BY-SA 4.0) |
+| Aristides | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-aristides` | have (Perseus TEI `tlg0007.tlg024.perseus-eng2`; markup CC BY-SA 4.0) |
+| Artaxerxes | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-artaxerxes` | have (Perseus TEI `tlg0007.tlg064.perseus-eng2`; markup CC BY-SA 4.0) |
+| Brutus | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-brutus` | have (Perseus TEI `tlg0007.tlg061.perseus-eng2`; markup CC BY-SA 4.0) |
+| Caesar | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-caesar` | have (Perseus TEI `tlg0007.tlg048.perseus-eng2`; markup CC BY-SA 4.0) |
+| Caius Marcius Coriolanus | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-caius-marcius-coriolanus` | have (Perseus TEI `tlg0007.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Caius Marius | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-caius-marius` | have (Perseus TEI `tlg0007.tlg031.perseus-eng2`; markup CC BY-SA 4.0) |
+| Camillus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-camillus` | have (Perseus TEI `tlg0007.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cato the Younger | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-cato-the-younger` | have (Perseus TEI `tlg0007.tlg050.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cicero | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-cicero` | have (Perseus TEI `tlg0007.tlg055.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cimon | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-cimon` | have (Perseus TEI `tlg0007.tlg035.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Agesilaus and Pompey | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-comparison-of-agesilaus-and-pompey` | have (Perseus TEI `tlg0007.tlg046.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Agis and Cleomenes and the Gracchi | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-comparison-of-agis-and-cleomenes-and` | have (Perseus TEI `tlg0007.tlg053.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Alcibiades and Coriolanus | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-comparison-of-alcibiades-and-coriola` | have (Perseus TEI `tlg0007.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Aristides and Marcus Cato | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-aristides-and-marcus-c` | have (Perseus TEI `tlg0007.tlg026.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Demetrius and Antony | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-comparison-of-demetrius-and-antony` | have (Perseus TEI `tlg0007.tlg059.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Demosthenes and Cicero | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-comparison-of-demosthenes-and-cicero` | have (Perseus TEI `tlg0007.tlg056.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Dion and Brutus | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-comparison-of-dion-and-brutus` | have (Perseus TEI `tlg0007.tlg062.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Lucullus and Cimon | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-lucullus-and-cimon` | have (Perseus TEI `tlg0007.tlg037.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Lycurgus and Numa | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-lycurgus-and-numa` | have (Perseus TEI `tlg0007.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Lysander and Sulla | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-comparison-of-lysander-and-sulla` | have (Perseus TEI `tlg0007.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Nicias and Crassus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-nicias-and-crassus` | have (Perseus TEI `tlg0007.tlg040.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Pelopidas and Marcellus | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-comparison-of-pelopidas-and-marcellu` | have (Perseus TEI `tlg0007.tlg023.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Pericles and Fabius Maximus | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-comparison-of-pericles-and-fabius-ma` | have (Perseus TEI `tlg0007.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Philopoemen and Titus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-comparison-of-philopoemen-and-titus` | have (Perseus TEI `tlg0007.tlg029.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Sertorius and Eumenes | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-comparison-of-sertorius-and-eumenes` | have (Perseus TEI `tlg0007.tlg043.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Solon and Publicola | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-solon-and-publicola` | have (Perseus TEI `tlg0007.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Theseus and Romulus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-theseus-and-romulus` | have (Perseus TEI `tlg0007.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Timoleon and Aemilius | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-comparison-of-timoleon-and-aemilius` | have (Perseus TEI `tlg0007.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
+| Crassus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-crassus` | have (Perseus TEI `tlg0007.tlg039.perseus-eng2`; markup CC BY-SA 4.0) |
+| Demetrius | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-demetrius` | have (Perseus TEI `tlg0007.tlg057.perseus-eng2`; markup CC BY-SA 4.0) |
+| Demosthenes | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-demosthenes` | have (Perseus TEI `tlg0007.tlg054.perseus-eng2`; markup CC BY-SA 4.0) |
+| Dion | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-dion` | have (Perseus TEI `tlg0007.tlg060.perseus-eng2`; markup CC BY-SA 4.0) |
+| Eumenes | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-eumenes` | have (Perseus TEI `tlg0007.tlg041.perseus-eng2`; markup CC BY-SA 4.0) |
+| Fabius Maximus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-fabius-maximus` | have (Perseus TEI `tlg0007.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| Galba | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-galba` | have (Perseus TEI `tlg0007.tlg065.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lucullus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-lucullus` | have (Perseus TEI `tlg0007.tlg036.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lycurgus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-lycurgus` | have (Perseus TEI `tlg0007.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lysander | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-lysander` | have (Perseus TEI `tlg0007.tlg032.perseus-eng2`; markup CC BY-SA 4.0) |
+| Marcellus | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-marcellus` | have (Perseus TEI `tlg0007.tlg022.perseus-eng2`; markup CC BY-SA 4.0) |
+| Marcus Cato | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-marcus-cato` | have (Perseus TEI `tlg0007.tlg025.perseus-eng2`; markup CC BY-SA 4.0) |
+| Nicias | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-nicias` | have (Perseus TEI `tlg0007.tlg038.perseus-eng2`; markup CC BY-SA 4.0) |
+| Numa | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-numa` | have (Perseus TEI `tlg0007.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| Otho | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-otho` | have (Perseus TEI `tlg0007.tlg066.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pelopidas | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-pelopidas` | have (Perseus TEI `tlg0007.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pericles | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-pericles` | have (Perseus TEI `tlg0007.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| Philopoemen | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-philopoemen` | have (Perseus TEI `tlg0007.tlg027.perseus-eng2`; markup CC BY-SA 4.0) |
+| Phocion | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-phocion` | have (Perseus TEI `tlg0007.tlg049.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pompey | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-pompey` | have (Perseus TEI `tlg0007.tlg045.perseus-eng2`; markup CC BY-SA 4.0) |
+| Publicola | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-publicola` | have (Perseus TEI `tlg0007.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pyrrhus | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-pyrrhus` | have (Perseus TEI `tlg0007.tlg030.perseus-eng2`; markup CC BY-SA 4.0) |
+| Romulus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-romulus` | have (Perseus TEI `tlg0007.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Sertorius | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-sertorius` | have (Perseus TEI `tlg0007.tlg042.perseus-eng2`; markup CC BY-SA 4.0) |
+| Solon | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-solon` | have (Perseus TEI `tlg0007.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Sulla | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-sulla` | have (Perseus TEI `tlg0007.tlg033.perseus-eng2`; markup CC BY-SA 4.0) |
+| Themistocles | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-themistocles` | have (Perseus TEI `tlg0007.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Theseus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-theseus` | have (Perseus TEI `tlg0007.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
+| Tiberius and Caius Gracchus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-tiberius-and-caius-gracchus` | have (Perseus TEI `tlg0007.tlg052.perseus-eng1`; markup CC BY-SA 4.0) |
+| Timoleon | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-timoleon` | have (Perseus TEI `tlg0007.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Titus Flamininus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-titus-flamininus` | have (Perseus TEI `tlg0007.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Philemon Holland's Morals (1603) is held above from the UC San Diego copy (OCR 0.90-0.92, old spelling); Babbitt's Moralia vols. 3 on (1931-) are after the 1930 line. Perrin's Lives are on PR #7 as Perseus TEI.
 
@@ -2709,6 +2784,17 @@ Shelf: `pipeline/isocrates_shelf.json`. J. H. Freese, The Orations of Isocrates 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Orations of Isocrates, vol. 1 (Bohn, 1894) | J. H. Freese | `isocrates-freese-v1` | have-raw (IA `orationsofisocra0000isoc`) |
+| Against the Sophists | George Norlin (1929) | `isocrates-perseus-norlin-against-the-sophists` | have (Perseus TEI `tlg0010.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Antidosis | George Norlin (1929) | `isocrates-perseus-norlin-antidosis` | have (Perseus TEI `tlg0010.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Archidamus | George Norlin (1928) | `isocrates-perseus-norlin-to-archidamus` | have (Perseus TEI `tlg0010.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Areopagiticus | George Norlin (1929) | `isocrates-perseus-norlin-areopagiticus` | have (Perseus TEI `tlg0010.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Nicocles or the Cyprians | George Norlin (1928) | `isocrates-perseus-norlin-nicocles-or-the-cyprians` | have (Perseus TEI `tlg0010.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Peace | George Norlin (1929) | `isocrates-perseus-norlin-on-the-peace` | have (Perseus TEI `tlg0010.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Panathenaicus | George Norlin (1929) | `isocrates-perseus-norlin-panathenaicus` | have (Perseus TEI `tlg0010.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Panegyricus | George Norlin (1928) | `isocrates-perseus-norlin-panegyricus` | have (Perseus TEI `tlg0010.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Demonicus | George Norlin (1928) | `isocrates-perseus-norlin-to-demonicus` | have (Perseus TEI `tlg0010.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Nicocles | George Norlin (1928) | `isocrates-perseus-norlin-to-nicocles` | have (Perseus TEI `tlg0010.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Philip | George Norlin (1928) | `isocrates-perseus-norlin-to-philip` | have (Perseus TEI `tlg0010.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Freese never published vol. 2; Norlin/Van Hook Loeb (1928-45) only vols. 1-2 PD by date
 
@@ -2787,6 +2873,7 @@ Shelf: `pipeline/diogenes-laertius_shelf.json`. Yonge (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Lives and Opinions of Eminent Philosophers | Charles Duke Yonge | `diogenes-laertius-yonge` | have (PG 57342) |
+| Lives of Eminent Philosophers | R. D. Hicks (1925) | `diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher` | have (Perseus TEI `tlg0004.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Hicks Loeb (1925; Greek facing)
 
@@ -3512,6 +3599,15 @@ Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches
 | Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): an older English Aeschines (pre-1900), if a clean scan turns up.
+
+## Apollodorus
+
+Shelf: `pipeline/apollodorus_shelf.json`. New shelf 2026-10-03: Frazer's Loeb Library (1921), English-only Perseus TEI with Frazer's notes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Library | Sir James George Frazer (Loeb 1921) | `apollodorus-perseus-frazer-library` | have (Perseus TEI `tlg0548.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| Epitome | James George Frazer (1921) | `apollodorus-perseus-frazer-epitome` | have (Perseus TEI `tlg0548.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 
 ## Perseus census (overflow)
 
