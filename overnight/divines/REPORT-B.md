@@ -385,3 +385,8 @@
 ## 2026-10-03 02:20 CDT — Cebes (Guthrie)
 - New shelf cebes: Guthrie's Greek Pilgrim's Progress (1910)
 - Healey 1610 and two 18th-century versions refused on OCR
+
+## 2026-10-03 02:23 CDT — Bohn gaps (Lucan, Aristotle)
+- Lucan: Riley's literal prose Pharsalia (Bohn, 1853)
+- Aristotle: M'Mahon's literal Metaphysics (Bohn, 1857)
+- Refused on OCR (EEBO, 0.57-0.74): Stanley's Aelian 1665/1666, Fleming's Aelian 1576, Bingham's Tactiks of Aelian 1616, Golding's Mela 1585; the 1670 Aelian answers 500 (added to the retry)

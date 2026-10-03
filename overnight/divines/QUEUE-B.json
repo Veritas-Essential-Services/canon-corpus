@@ -644,6 +644,14 @@
    "started": "2026-10-03T02:18:55-05:00",
    "finished": "2026-10-03T02:20:18-05:00",
    "notes": "New cebes shelf; OCR 0.80; copyright line 1910. Older English versions refused on OCR (0.53-0.66)."
+  },
+  {
+   "id": "bohn-riley-mcmahon",
+   "status": "done",
+   "scope": "Two Bohn volumes found missing: Riley's Lucan (1853), M'Mahon's Metaphysics (1857)",
+   "started": "2026-10-03T02:20:18-05:00",
+   "finished": "2026-10-03T02:23:31-05:00",
+   "notes": "Found by sweeping IA for Bohn 'literally translated' volumes against the shelves. OCR 0.92 and 0.90. Also refused on OCR this hour: Stanley's Aelian (1665, 1666), Fleming's Aelian (1576), Bingham's Tactiks of Aelian (1616), Golding's Pomponius Mela (1585), all EEBO scans at 0.57-0.74; the 1670 Aelian answers 500."
   }
  ]
 }
