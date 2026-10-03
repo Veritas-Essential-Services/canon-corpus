@@ -298,6 +298,9 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1868) | John Conington | `homer-conington-iliad-1868-v2` | have-raw (IA `iliadhomertrans01conigoog`) |
 | The Iliad of Homer done into English Verse, vol. I, books I-XII (Sampson Low, 1886) | Arthur S. Way | `homer-way-iliad-1886-v1` | have-raw (IA `iliadhomer01home`) |
 | The Iliad of Homer done into English Verse, vol. II, books XIII-XXIV (Sampson Low, 1888) | Arthur S. Way | `homer-way-iliad-1888-v2` | have-raw (IA `iliaddoneintoen02homegoog`) |
+| The Odyssey translated into English verse, vol. I: Books I-VIII (John Murray, 1903) | J. W. Mackail | `homer-mackail-odyssey-1903-v1` | have-raw (IA `cu31924087936112`) |
+| The Odyssey translated into English verse, vol. II: Books IX-XVI (John Murray, 1905) | J. W. Mackail | `homer-mackail-odyssey-1905-v2` | have-raw (IA `cu31924087936120`) |
+| The Odyssey translated into English verse, vol. III: Books XVII-XXIV (John Murray, 1910) | J. W. Mackail | `homer-mackail-odyssey-1910-v3` | have-raw (IA `cu31924087936138`) |
 
 Pending (wishlist): none known beyond the rows above.
 
