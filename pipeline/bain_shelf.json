@@ -1,0 +1,26 @@
+{
+ "_about": "R. Nisbet Bain's (1854-1909) translations of folk tales: Cossack Fairy Tales and Folk Tales (from the Ruthenian collections; a Harrap printing) and Ignácz Kúnos's Turkish Fairy Tales and Folk Tales (the 1901 printing). Bain is the translator of both. The 1901 printing of the Turkish book ends with four Roumanian fairy tales; the book does not name a separate translator for them. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "R. Nisbet Bain",
+ "_name_words": [
+  "cossack",
+  "turkish",
+  "fairy",
+  "folk"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bain-cossack-fairy-tales": [
+   29672,
+   "Cossack Fairy Tales and Folk Tales, ed. and tr. R. Nisbet Bain (Harrap printing, undated in the Gutenberg text)"
+  ],
+  "bain-turkish-fairy-tales": [
+   64807,
+   "Turkish Fairy Tales and Folk Tales, collected by Ignácz Kúnos, tr. R. Nisbet Bain (1901 printing)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

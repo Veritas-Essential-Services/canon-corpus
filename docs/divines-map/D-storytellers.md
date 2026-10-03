@@ -1357,6 +1357,15 @@ Shelf: `pipeline/natesa-sastri_shelf.json` (2026-10-02; added at the coordinator
 |---|---|---|
 | Tales of the Sun; or, Folklore of Southern India, by Mrs. Howard Kingscote and Pandit Natesa Sastri (1890) | have | PG 37002, `sastri-tales-of-the-sun` (950 units) |
 
+## R. Nisbet Bain (translator)
+
+Shelf: `pipeline/bain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cossack and Turkish tales in his translation. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cossack Fairy Tales and Folk Tales, ed. and tr. R. Nisbet Bain (Harrap printing, undated in the Gutenberg text) | have | PG 29672, `bain-cossack-fairy-tales` (439 units) |
+| Turkish Fairy Tales and Folk Tales, collected by Ignácz Kúnos, tr. R. Nisbet Bain (1901 printing) | have | PG 64807, `bain-turkish-fairy-tales` (896 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
