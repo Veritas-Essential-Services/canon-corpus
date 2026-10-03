@@ -25,7 +25,7 @@ that can run in the cloud passes.
 | 4b | — | — | **after #8: rerun `python3 pipeline/build_parallel_index.py` and commit the result.** It fills the Greek NT column; #9's build reads #8's one-folder-per-book layout. | — |
 | 5 | #10 | `claude/project-thread-17bo7g` | Strong's as the key for every Hebrew and Greek word (**squash-merge**) | 97dc4c0 |
 | 6 | #7 | `claude/project-thread-hxenem` | Perseus / First1KGreek shelf, Thayer's by entry (**squash-merge**) | 0281061 |
-| 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles, Schaff | ff633ad |
+| 7 | #11 | `claude/project-thread-y4capw` | Archive.org/CCEL pickups: Lightfoot's English Apostolic Fathers, Charles, Tudor Bibles, Schaff (**squash-merge**) | ff633ad |
 | 8 | relay | `claude/armarium-divines` | the four-lane relay's shelves and converters | 4aa2994 |
 
 Heads move. Before merging, check each branch's head against this table; if
@@ -228,7 +228,8 @@ counterpart on the relay branch.
 - Adopt the 14,197 proposed word uids (`build_strongs.py --adopt`).
 - Use the citation form `strongs:G26`, of kind `lexeme`.
 - The 101 Greek "Not Used" numbers get no uid.
-- **Squash-merge #10 and #7** (or purge first). The files #10 took out for
+- **Squash-merge #10, #7 and #11** (or purge first). #11 carries #7, so it
+  carries the same old commits. The files #10 took out for
   rights reasons are still in both branches' earlier commits (b35ad03,
   39ffc1e, 4620d48, 692ad17). An ordinary merge would carry those commits,
   and the files with them, into `main`'s history; a squash merge does not.
