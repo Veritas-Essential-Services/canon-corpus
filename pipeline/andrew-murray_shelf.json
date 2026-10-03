@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Andrew Murray (1828-1917, Dutch Reformed, Wellington, South Africa) for the Word Hoard: his devotional books, all published before 1917. Eleven clean from CCEL and five more from Gutenberg (rights lines checked by the fetcher). Not John Murray, Gilbert Murray or the other Murrays on Gutenberg. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain Andrew Murray (1828-1917, Dutch Reformed, Wellington, South Africa) for the Word Hoard: his devotional books, all published before 1917. Eleven clean from CCEL and five more from Gutenberg (rights lines checked by the fetcher). Not John Murray, Gilbert Murray or the other Murrays on Gutenberg. Added 2026-10-02 by lane A, round 4 (my pick); Adam may veto the whole shelf. No uids minted. Two items are translations from the Dutch (The New Life; The Lord's Table): see _translator_unchecked.",
  "_ccel_author": "m/murray",
  "_name_words": [
   "murray"
@@ -251,5 +251,9 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_translator_unchecked": {
+  "amurray-new-life": "Translated from the Dutch. The translator's preface is signed only 'J.P.L.', Arbroath, September 1891; that is usually identified as J. P. Lilley, but the full name is not in this text. A second hand ('J.H. Rose, Cape Town') is credited in a note for part of the third part.",
+  "amurray-lord-s-table": "Translated from the Dutch (the translator's notes compare 'the Dutch version'); the translator is not named in this CCEL text and CCEL records no print source."
  }
 }

@@ -649,3 +649,6 @@
 
 ## 2026-10-03 06:58 CDT — full name forms (Lane D's audit)
 - owen, newton, john-preston and watts now gate on full forms ("john owen", "john newton", "john preston", "isaac watts", with title-page variants). The bare forms collided with Lane D authors (Elias Owen, Horace Newton Allen, Josephine Preston Peabody), and "watts" was weak in the same way. Owen, Newton and Watts re-recorded: 0 mismatched. Preston holds no entries to re-record. Perkins already used full forms.
+
+## 2026-10-03 06:59 CDT — Andrew Murray translators
+- The New Life and The Lord's Table are translations from the Dutch. They are now recorded in `_translator_unchecked`, the key 40 shelves already use. The New Life's preface is signed only "J.P.L." (Arbroath, 1891). The Lord's Table names no translator.
