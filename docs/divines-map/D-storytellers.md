@@ -1581,6 +1581,17 @@ Shelf: `pipeline/knowles_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | The Legends of King Arthur and His Knights | have | PG 12753, `knowles-legends-of-king-arthur` (1702 units) |
 
+## T. W. Rolleston
+
+Shelf: `pipeline/rolleston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish and Celtic legend retold. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The High Deeds of Finn, and Other Bardic Romances of Ancient Ireland | have | PG 14749, `rolleston-high-deeds-of-finn` (938 units) |
+| Myths and Legends of the Celtic Race | have | PG 34081, `rolleston-myths-legends-celtic-race` (2512 units) |
+| rolleston-epictetus | excluded | The Teaching of Epictetus (PG 39855): on Lane B's epictetus_shelf.json |
+| rolleston-other | excluded | Sea Spray, Parallel Paths, Ireland and Poland, his Thomas Davis selection: verse and essays |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

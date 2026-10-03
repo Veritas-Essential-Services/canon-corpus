@@ -1,0 +1,29 @@
+{
+ "_about": "T. W. Rolleston's (1857-1920) Irish legend retold: The High Deeds of Finn, and Other Bardic Romances of Ancient Ireland, and Myths and Legends of the Celtic Race. Clean Gutenberg text; public domain. His Epictetus is Lane B's. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "T. W. Rolleston",
+ "_name_words": [
+  "celtic",
+  "myths",
+  "legends",
+  "finn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rolleston-high-deeds-of-finn": [
+   14749,
+   "The High Deeds of Finn, and Other Bardic Romances of Ancient Ireland"
+  ],
+  "rolleston-myths-legends-celtic-race": [
+   34081,
+   "Myths and Legends of the Celtic Race",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "rolleston-epictetus": "The Teaching of Epictetus (PG 39855): on Lane B's epictetus_shelf.json",
+  "rolleston-other": "Sea Spray, Parallel Paths, Ireland and Poland, his Thomas Davis selection: verse and essays"
+ }
+}
