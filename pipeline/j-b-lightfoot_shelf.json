@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (London: Macmillan, 1890) and Philippians (1898), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Overlap: PR #11's build_commentaries.py builds verse-keyed editions of Lightfoot on Galatians, Philippians, Colossians and Philemon; this shelf's copies of those are second copies, and Adam picks which is the reading of record.",
+ "_about": "Public-domain J. B. Lightfoot (1828-1889, Bishop of Durham, New Testament scholar) for the Word Hoard: The Apostolic Fathers in his translation clean from CCEL; the commentary on Colossians and Philemon, the Essays on 'Supernatural Religion' and Sermons from Project Gutenberg; and the commentaries on Galatians (tenth edition, 1890, in a 1921 reprint) and Philippians (fourth edition, 1878), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Overlap: PR #11's build_commentaries.py builds verse-keyed editions of Lightfoot on Galatians, Philippians, Colossians and Philemon; this shelf's copies of those are second copies, and Adam picks which is the reading of record. Greek in the text layers (2026-10-03): Galatians 58,702 Greek characters, Philippians 55,788, Colossians (Gutenberg) 113,616.",
  "_ccel_author": "l/lightfoot",
  "_name_words": [
   "lightfoot",
@@ -35,17 +35,19 @@
  },
  "internet_archive": {
   "lightfoot-galatians-1890": [
-   "saintpaulsepistl00lighuoft",
-   "Saint Paul's Epistle to the Galatians: a revised text with introduction, notes and dissertations (London: Macmillan, 1890)"
+   "cu31924075537088",
+   "Saint Paul's Epistle to the Galatians: a revised text with introduction, notes and dissertations, tenth edition (London: Macmillan, 1890; this copy's reprint list ends 1921, catalogued 1890)"
   ],
-  "lightfoot-philippians-1898": [
-   "a590773100lighuoft",
-   "Saint Paul's Epistle to the Philippians: a revised text with introduction, notes and dissertations (London: Macmillan, 1898)"
+  "lightfoot-philippians-1878": [
+   "saintpaulsepistl00ligh",
+   "Saint Paul's Epistle to the Philippians: a revised text with introduction, notes and dissertations, fourth edition (London: Macmillan, 1878)"
   ]
  },
  "_alternates": {
   "lightfoot-galatians": "many Macmillan printings 1869-1896",
-  "lightfoot-philippians": "printings of 1869-1908"
+  "lightfoot-philippians": "printings of 1869-1908",
+  "lightfoot-galatians-1890": "IA saintpaulsepistl00lighuoft (1890), first shelved: 0 Greek characters in its text layer; sa590770400lighuoft (1880) likewise",
+  "lightfoot-philippians-1878": "IA a590773100lighuoft (1898), first shelved, and the 1873, 1878 (Cornell), 1888 and 1903 copies: 0 Greek characters; saintpaulsepist02lighgoog (1896): its whole text was OCR'd as Greek, English included"
  },
  "_excluded": {
   "lightfoot-talmud": "CCEL l/lightfoot/talmud is John Lightfoot (1602-1675), another man"
@@ -99,23 +101,28 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "lightfoot",
+   "author_seen": "j. b. lightfoot",
    "identity": "ok",
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   },
-  "lightfoot-philippians-1898": {
+  "lightfoot-philippians-1878": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "j. b. lightfoot",
-   "identity": "ok",
-   "ia_rights": "ok: published 1898",
-   "ia_date": "1898",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "lightfoot-philippians-1878": {
+   "author": "title page reads 'BY J. BB; BIGHTROOT,.. D.D. CANON OF ST PAUL'S; LADY MARGARET'S PROFESSOR OF DIVINITY' (OCR of J. B. Lightfoot), Macmillan, fourth edition, 1878; checked by eye 2026-10-03"
   }
  }
 }

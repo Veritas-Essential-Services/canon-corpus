@@ -497,3 +497,9 @@
 
 ## 2026-10-03 02:31 CDT — ichabod-spencer done
 - `pipeline/ichabod-spencer_shelf.json`: 5 IA volumes of raw OCR, median 98.3% (97.7-98.8%). Sketches 1 names him only in an OCR-mangled copyright line, which is recorded in `_identity_checked`. The first second-series copy tried never names him, so a Toronto copy that does replaced it. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:36 CDT — acted on roving review (cycle 9)
+- Westcott: John vol. 2, Hebrews and the Epistles of John swapped for copies whose text layer keeps the Greek: gospelaccordingt02west (80,514 Greek characters), epistletohebrew00westgoog (2nd edition 1892, 176,106) and cu31924074296629 (3rd edition 1892, 79,175). The copies replaced had 0, and are recorded in `_alternates`. The Toronto Epistles of John scan (epistlesofstjohn00westuoft) was refused because its whole text was OCR'd as Greek, English included.
+- Lightfoot: Galatians is now cu31924075537088 (tenth edition, a 1921 reprint, 58,702 Greek characters) and Philippians is saintpaulsepistl00ligh (fourth edition 1878, 55,788). The 1878 title page OCR reads "J. BB; BIGHTROOT", recorded in `_identity_checked`. Eadie's Ephesians has no copy with Greek; noted in its `_about`.
+- DIGEST-A: the late-reprint CCEL texts (Barnes 1949, Owen 1965-68, Wesley 1951, Lightfoot AF 1956, Calvin Relics 2008) and the modernised Owen Glory are now one item under "Decisions that are yours". The Greek bullet is updated.
+- `--verify --record` on b-f-westcott, j-b-lightfoot and john-eadie: 0 mismatched.
