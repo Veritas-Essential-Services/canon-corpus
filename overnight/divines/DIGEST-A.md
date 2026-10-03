@@ -174,6 +174,13 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 | Matthew Poole | none | none | none | all: Annotations upon the Holy Bible (IA holds only the 1683-1700 folios, long s in double columns, and one volume of an 1861 printing) | none |
 | John Trapp | none | none | none | all: the Commentary (the only scan is catalogued 1865 but is the 1958 Sovereign Grace reprint) | none |
 
+## Round 10: my picks, also for your veto
+
+Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical scholars and commentators whose Greek and English bear directly on the Word Hoard (Lightfoot, Westcott, Trench, Alford, Eadie, the Alexanders, Barnes, Stuart), with some Victorian preachers. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
