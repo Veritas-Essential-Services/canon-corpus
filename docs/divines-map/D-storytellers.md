@@ -2226,6 +2226,14 @@ Shelf: `pipeline/baudis_shelf.json` (2026-10-02; added at the coordinator's rela
 | Czech Folk Tales | have | PG 52596, `baudis-czech-folk-tales` (796 units) |
 | baudis-key-of-gold | excluded | PG 20680, The Key of Gold: 23 Czech Folk Tales, has no plain-text file at Gutenberg (404); not fetched |
 
+## Marjory Wardrop, tr.
+
+Shelf: `pipeline/wardrop_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Georgian, Mingrelian and Gurian folk tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Georgian Folk Tales | have | PG 44536, `wardrop-georgian-folk-tales` (773 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
