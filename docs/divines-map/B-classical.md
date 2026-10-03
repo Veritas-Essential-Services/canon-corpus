@@ -329,6 +329,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad and Odyssey, vol. IV: the Odyssey (London: Nicol and Murray, 1833) | William Sotheby | `homer-sotheby-odyssey-1833-v4` | have-raw (IA `iliadodyssey04home`) |
 | The Iliad and Odyssey, [vol. III]: the Odyssey, Books I-XII (London: G. and W. Nicol; J. Murray, 1834; volume number not legible in the OCR, contents fill the gap between vols. II and IV) | William Sotheby | `homer-sotheby-odyssey-1834-v3` | have-raw (IA `iliadandodyssey02homegoog`) |
 | The Iliad of Homer, vol. I (London: William Pickering; the title-page date OCRs as 1816, catalogue 1846) | T. S. Brandreth | `homer-brandreth-iliad-1846-v1` | have-raw (IA `iliadhomer01unkngoog`) |
+| The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880) | Sir Charles Du Cane | `homer-du-cane-odyssey-1880` | have-raw (IA `odysseybooksixi00homegoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 
