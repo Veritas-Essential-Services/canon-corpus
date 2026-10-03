@@ -5260,6 +5260,16 @@ Shelf: `pipeline/albert-paine_shelf.json` (2026-10-02; added at the coordinator'
 | How Mr. Rabbit Lost His Tail | have | PG 28204, `albert-paine-how-mr-rabbit-lost-his-tail` (232 units) |
 | The Arkansaw Bear | have | PG 28302, `albert-paine-arkansaw-bear` (722 units) |
 
+## Aubrey de Vere
+
+Shelf: `pipeline/de-vere_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and Irish heroic legends retold in verse. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Legends of Saint Patrick | have | PG 7165, `de-vere-legends-of-saint-patrick` (309 units) |
+| Legends of the Saxon Saints | have | PG 29121, `de-vere-legends-of-the-saxon-saints` (1270 units) |
+| The Foray of Queen Meave, and Other Legends of Ireland's Heroic Age | have | PG 78491, `de-vere-foray-of-queen-meave` (572 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

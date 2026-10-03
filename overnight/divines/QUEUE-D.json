@@ -985,8 +985,10 @@
     {
       "id": "de-vere",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: de-vere; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:59:42-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:59:42-05:00",
+      "finished": "2026-10-02T21:04:26-05:00",
+      "notes": "3/3 fetched (Gutenberg 7165, 29121, 78491), 2,151 units, 29 ~2 ids."
     }
   ]
 }

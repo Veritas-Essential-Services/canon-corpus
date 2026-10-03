@@ -1,0 +1,62 @@
+{
+ "_about": "Aubrey de Vere's (1814-1902) saints' and heroic legends of Ireland and England in verse. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Aubrey de Vere",
+ "_name_words": [
+  "vere"
+ ],
+ "_surname": [
+  "vere"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "de-vere-legends-of-saint-patrick": [
+   7165,
+   "The Legends of Saint Patrick",
+   {
+    "chapre_only": "(?!ARGUMENT\\.?$)(?=[^a-z]*[A-Z]{3})[^a-z]{3,88}"
+   }
+  ],
+  "de-vere-legends-of-the-saxon-saints": [
+   29121,
+   "Legends of the Saxon Saints"
+  ],
+  "de-vere-foray-of-queen-meave": [
+   78491,
+   "The Foray of Queen Meave, and Other Legends of Ireland's Heroic Age",
+   {
+    "sub": "CANTO THE [A-Z]+\\.?$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "de-vere-legends-of-saint-patrick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "de-vere-legends-of-the-saxon-saints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "de-vere-foray-of-queen-meave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
