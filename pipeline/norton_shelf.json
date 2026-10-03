@@ -1,0 +1,153 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Eliot Norton (1827-1908). Dante's Divine Comedy in prose (Houghton Mifflin 1891-92, 3 vols) and the Vita Nuova (1867; revised 1892). PD. Pairs with Cary and Longfellow. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "norton"
+ ],
+ "_surname": [
+  "norton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "norton-comedy-1": [
+   "divinecomedyofda01dantiala",
+   "Divine Comedy, tr. Norton, vol. 1 Hell"
+  ],
+  "norton-comedy-2": [
+   "divinecomedyofda02dantiala",
+   "Divine Comedy, tr. Norton, vol. 2 Purgatory"
+  ],
+  "norton-comedy-3": [
+   "divinecomedyofda03dantiala",
+   "Divine Comedy, tr. Norton, vol. 3 Paradise"
+  ],
+  "norton-new-life-1892": [
+   "newlifeofdanteal00dant_1",
+   "The New Life of Dante Alighieri, tr. Norton (1892)"
+  ]
+ },
+ "titles": {
+  "norton-hell": {
+   "source": "norton-comedy-1",
+   "of": "Dante",
+   "work": "Inferno (Hell), prose",
+   "translated": 1891,
+   "translator": "Charles Eliot Norton",
+   "scan_edition": "Houghton Mifflin, revised printing 1895-98 of the 1891-92 edition (UC copy), raw OCR"
+  },
+  "norton-purgatory": {
+   "source": "norton-comedy-2",
+   "of": "Dante",
+   "work": "Purgatorio, prose",
+   "translated": 1892,
+   "translator": "Charles Eliot Norton",
+   "scan_edition": "as vol. 1"
+  },
+  "norton-paradise": {
+   "source": "norton-comedy-3",
+   "of": "Dante",
+   "work": "Paradiso, prose",
+   "translated": 1892,
+   "translator": "Charles Eliot Norton",
+   "scan_edition": "as vol. 1"
+  },
+  "norton-new-life": {
+   "source": "norton-new-life-1892",
+   "of": "Dante",
+   "work": "La Vita Nuova (The New Life)",
+   "translated": 1867,
+   "translator": "Charles Eliot Norton",
+   "scan_edition": "Houghton Mifflin 1892 revised edition, raw OCR"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "norton-comedy-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1895-1898, c1891-1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "norton-comedy-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1895-1898, c1891-1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "norton-comedy-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1895-1898, c1891-1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "norton-new-life-1892": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "norton-comedy-1": {
+   "ia": "divinecomedyofda01dantiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "norton-comedy-2": {
+   "ia": "divinecomedyofda02dantiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "norton-comedy-3": {
+   "ia": "divinecomedyofda03dantiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "norton-new-life-1892": {
+   "ia": "newlifeofdanteal00dant_1",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1867,
+    1892,
+    1895,
+    1909,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

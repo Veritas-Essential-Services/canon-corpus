@@ -56,3 +56,8 @@
 
 ## 2026-10-02T17:37-05:00 — lane A surname check adopted
 - `_surname` (translator surnames, whole words) added to all 14 lane C shelves; `fetch_shelf.py --verify --record` run on each: `_checks` committed, 0 mismatched, 0 rights flags.
+
+## 2026-10-02T19:41-05:00 — round 4: seven translator shelves (rossetti, fairfax, rose, shelton, norton, payne, carlyle)
+- 18 sources fetched, 0 failed (Rose's Gutenberg 615 placed by hand: the cache URL 404s, see `_manual_fetch`). 13 titles cut, 0 failed. `--verify --record`: 0 mismatched, 0 rights flags. Front-matter scan: 0 post-1930 years.
+- The coordinator's suggested Jowett, Church & Brodribb, Butler and Lang-Leaf-Myers are lane B/D's already; none taken.
+- Note for lane B: fetch_shelf.py could fall back to https://www.gutenberg.org/ebooks/<n>.txt.utf-8 when cache/epub 404s (PG 615).

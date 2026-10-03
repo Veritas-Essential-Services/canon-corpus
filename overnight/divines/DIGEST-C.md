@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-02T17:27-05:00: 14 shelves, 108 titles (Dryden 21, Garnett 54, Cary 4, Longfellow 4, Florio 2, Burton 4, Maude 10, Cotton 1, Ormsby 1, Urquhart-Motteux 2, FitzGerald 2, Taylor 2, Lane 1, Guest 1). **10 of them are cross-references to works the repo already holds, not new copies** (see Review fixes). No uids minted.
+Totals 2026-10-02T19:41-05:00: 21 shelves, 121 titles (Dryden 21, Garnett 54, Cary 4, Longfellow 4, Florio 2, Burton 4, Maude 10, Cotton 1, Ormsby 1, Urquhart-Motteux 2, FitzGerald 2, Taylor 2, Lane 1, Guest 1; round 4: Rossetti 2, Fairfax 1, Rose 1, Shelton 1, Norton 4, Payne 2, Carlyle 2). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -44,3 +44,14 @@ Cotton (Montaigne), Ormsby (Don Quixote), Urquhart and Motteux (Rabelais; Motteu
 - **The front-matter year scan caught four more post-1930 printings that IA had labelled early.** Raw Youth (1956 and 1970 impressions) is now Macmillan 1923. Gambler (1957) is now Heinemann 1914, first impression. Friend of the Family (1974) is now a Heinemann scan with no imprint date (**your call:** its inside publisher's list is the 1920s one). Garnett War and Peace (Modern Library Giant, 1931+) is removed to pending. Earlier in the review: Chekhov Plays 1 was a 1935/1940 Phoenix printing (now Chatto 1925), and Honest Thief was a 1957 reset (now the earlier Heinemann). Chekhov dates fixed: Plays 2 Chatto 1923, House of the Dead Macmillan 1928.
 - **Checked and a false alarm:** archive.org `christianitypatr00tols` IS Garnett. Its title page reads "translated by Constance Garnett", Cape 1922.
 - **Maude UK note corrected:** UK copyright ran to the end of 2008 (Aylmer, d. 1938) and the end of 2009 (Louise, d. 1939).
+
+## Round 4 — 2026-10-02T19:41-05:00, lane C's own choice under the coordinator's standing instruction (each shelf vetoable: delete the shelf file and its map rows)
+The coordinator suggested Jowett, Church & Brodribb, Butler and Lang-Leaf-Myers. **All four are already shelved by other lanes, so none was taken**: Jowett's Thucydides and Politics (lane B, thucydides and aristotle), Church & Brodribb (lane B, tacitus), Butler's Odyssey (lane B, homer; his Iliad is in the build), and Lang-Leaf-Myers (lane D, lang). Taken instead, after grepping every shelf, fetch_sources.py and the other queues for each name:
+- **Rossetti:** Vita Nuova (Gutenberg 41085) and The Early Italian Poets (1861 first edition, raw OCR). The 1861 book also contains the Vita Nuova, so there are two witnesses and it needs one uid per passage.
+- **Fairfax:** Tasso's Jerusalem Delivered (Gutenberg 392).
+- **W. S. Rose:** Ariosto's Orlando Furioso (Gutenberg 615). Gutenberg's cache URL for 615 returns 404, and it's the only URL fetch_shelf.py builds, so I fetched the file by hand from the ebooks URL, which is recorded in `_manual_fetch`. The surname check on "rose" is weak (the word is also a flower), so the Gutenberg header's Translator line is the real evidence.
+- **Shelton:** Don Quixote, the first English translation, from Macmillan 1900 (3 vols, raw OCR). It is a third Quixote alongside Motteux and Ormsby.
+- **C. E. Norton:** the Divine Comedy in prose (Houghton 1895-98 printing of 1891-92, one title per canticle, matching Cary's) and the New Life (1892).
+- **John Payne:** the Decameron (Gutenberg 23700) and Villon (Villon Society 1878). **Your call:** his Thousand Nights and his Bandello are listed and not fetched, because the Nights already has Burton and Lane.
+- **Carlyle as translator:** Wilhelm Meister's Apprenticeship and Travels (Gutenberg 36483 + 78139), and the German tales of Musaeus, Tieck and Richter (Gutenberg 38779).
+- All of them passed the new surname check and the rights check (`_checks` recorded) and the front-matter year scan (`_verified`); no post-1930 year turned up. OCR quality on the scans is 0.93-0.96.

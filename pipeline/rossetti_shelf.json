@@ -1,0 +1,91 @@
+{
+ "_about": "TRANSLATOR SHELF: Dante Gabriel Rossetti (1828-1882). The Early Italian Poets (1861; later 'Dante and his Circle', 1874), which includes his Vita Nuova; and the Vita Nuova as Gutenberg's clean text. PD. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "rossetti"
+ ],
+ "_surname": [
+  "rossetti"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rossetti-vita-nuova-pg": [
+   41085,
+   "The New Life (La Vita Nuova)"
+  ]
+ },
+ "internet_archive": {
+  "rossetti-early-italian-poets-1861": [
+   "earlyitalianpo00rossuoft",
+   "The Early Italian Poets from Ciullo d'Alcamo to Dante Alighieri (1861)"
+  ]
+ },
+ "titles": {
+  "rossetti-vita-nuova": {
+   "source": "rossetti-vita-nuova-pg",
+   "of": "Dante",
+   "work": "La Vita Nuova (The New Life)",
+   "translated": 1861,
+   "translator": "Dante Gabriel Rossetti",
+   "scan_edition": "Project Gutenberg 41085 (clean text)",
+   "note": "Also printed inside rossetti-early-italian-poets (Part II): two witnesses, one uid per passage."
+  },
+  "rossetti-early-italian-poets": {
+   "source": "rossetti-early-italian-poets-1861",
+   "of": "Ciullo d'Alcamo, Guido Guinizelli, Guido Cavalcanti, Cino da Pistoia, Dante and others",
+   "work": "The Early Italian Poets (Part I: poets before Dante; Part II: Dante and his circle, incl. the Vita Nuova)",
+   "translated": 1861,
+   "translator": "Dante Gabriel Rossetti",
+   "scan_edition": "Smith, Elder 1861, first edition (Toronto copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "rossetti-dante-and-his-circle-1874": "The 1874 rearranged edition (Ellis & White): a second witness of the same translations; not fetched."
+ },
+ "_excluded": {
+  "original-poems": "Rossetti's own poems (House of Life etc.): not translations."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rossetti-vita-nuova-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rossetti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dante Gabriel Rossetti"
+  },
+  "rossetti-early-italian-poets-1861": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rossetti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "rossetti-vita-nuova-pg": {
+   "pg": 41085,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dante Gabriel Rossetti"
+  },
+  "rossetti-early-italian-poets-1861": {
+   "ia": "earlyitalianpo00rossuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1816,
+    1817,
+    1826,
+    1843,
+    1846,
+    1861
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

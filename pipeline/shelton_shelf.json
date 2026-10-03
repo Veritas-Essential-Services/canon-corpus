@@ -1,0 +1,109 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Shelton (fl. 1604-1620). Don Quixote, the first English translation (Part I 1612, Part II 1620), in the Macmillan 'Library of English Classics' reprint (1900, 3 vols). PD. Pairs with Motteux (urquhart-motteux shelf) and Ormsby. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "shelton"
+ ],
+ "_surname": [
+  "shelton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shelton-quixote-1": [
+   "historyofvalorou00cerv",
+   "Don Quixote, tr. Shelton, vol. 1 (Macmillan 1900)"
+  ],
+  "shelton-quixote-2": [
+   "historyofvalorou02cerviala",
+   "Don Quixote, tr. Shelton, vol. 2 (Macmillan 1900)"
+  ],
+  "shelton-quixote-3": [
+   "historyofvalorou03cerviala",
+   "Don Quixote, tr. Shelton, vol. 3 (Macmillan 1900)"
+  ]
+ },
+ "titles": {
+  "shelton-don-quixote": {
+   "source": [
+    "shelton-quixote-1",
+    "shelton-quixote-2",
+    "shelton-quixote-3"
+   ],
+   "of": "Cervantes",
+   "work": "Don Quixote, Parts I-II",
+   "translated": "1612-1620",
+   "translator": "Thomas Shelton",
+   "scan_edition": "Macmillan 1900, 3 vols (BYU vol. 1, UC vols 2-3), raw OCR"
+  }
+ },
+ "_pending": {
+  "shelton-1612-1620-originals": "The 1612 and 1620 first editions are on IA (cervantessheltondonquixote01/02): early-modern OCR; not fetched."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "shelton-quixote-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shelton-quixote-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shelton-quixote-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shelton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "shelton-quixote-1": {
+   "ia": "historyofvalorou00cerv",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1614,
+    1616,
+    1620,
+    1895,
+    1896,
+    1898
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "shelton-quixote-2": {
+   "ia": "historyofvalorou02cerviala",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "shelton-quixote-3": {
+   "ia": "historyofvalorou03cerviala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

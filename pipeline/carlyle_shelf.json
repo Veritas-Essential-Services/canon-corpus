@@ -1,0 +1,99 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Carlyle (1795-1881) as translator. Goethe's Wilhelm Meister's Apprenticeship (1824) and Travels (1827), and the German tales (Musaeus, Tieck, Richter) of German Romance (1827), as Gutenberg reprints them from 'Translations from the German'. PD. His own works are not shelved here. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "carlyle"
+ ],
+ "_surname": [
+  "carlyle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "carlyle-meister-1": [
+   36483,
+   "Wilhelm Meister's apprenticeship and travels, vol. 1"
+  ],
+  "carlyle-meister-2": [
+   78139,
+   "Wilhelm Meister's apprenticeship and travels, vol. 2"
+  ],
+  "carlyle-german-tales": [
+   38779,
+   "Translations from the German (Vol 3 of 3): Tales by Musæus, Tieck, Richter"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "carlyle-wilhelm-meister": {
+   "source": [
+    "carlyle-meister-1",
+    "carlyle-meister-2"
+   ],
+   "of": "Goethe",
+   "work": "Wilhelm Meister's Apprenticeship and Travels",
+   "translated": "1824-1827",
+   "translator": "Thomas Carlyle",
+   "scan_edition": "Project Gutenberg 36483 + 78139 (clean text)"
+  },
+  "carlyle-german-tales": {
+   "source": "carlyle-german-tales",
+   "of": "Musaeus, Tieck, Richter",
+   "work": "German Romance tales",
+   "translated": 1827,
+   "translator": "Thomas Carlyle",
+   "scan_edition": "Project Gutenberg 38779 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "carlyle-own-works": "Sartor Resartus, The French Revolution etc.: Carlyle's own works, not translations."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "carlyle-meister-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Carlyle"
+  },
+  "carlyle-meister-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Carlyle"
+  },
+  "carlyle-german-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carlyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_verified": {
+  "carlyle-meister-1": {
+   "pg": 36483,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Carlyle"
+  },
+  "carlyle-meister-2": {
+   "pg": 78139,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Carlyle"
+  },
+  "carlyle-german-tales": {
+   "pg": 38779,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

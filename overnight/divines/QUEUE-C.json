@@ -131,38 +131,59 @@
   },
   {
    "id": "shelf-rossetti",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Dante Gabriel Rossetti: Dante's Vita Nuova and The Early Italian Poets (1861); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Dante Gabriel Rossetti: Dante's Vita Nuova and The Early Italian Poets (1861); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   },
   {
    "id": "shelf-fairfax",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Edward Fairfax: Tasso's Jerusalem Delivered (1600); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Edward Fairfax: Tasso's Jerusalem Delivered (1600); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   },
   {
    "id": "shelf-rose",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- William Stewart Rose: Ariosto's Orlando Furioso (1823-31); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- William Stewart Rose: Ariosto's Orlando Furioso (1823-31); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   },
   {
    "id": "shelf-shelton",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Thomas Shelton: Don Quixote (1612-20); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Thomas Shelton: Don Quixote (1612-20); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   },
   {
    "id": "shelf-norton",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Charles Eliot Norton: Dante's Divine Comedy (prose, 1891-92) and Vita Nuova (1867); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Charles Eliot Norton: Dante's Divine Comedy (prose, 1891-92) and Vita Nuova (1867); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   },
   {
    "id": "shelf-payne",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- John Payne: Villon (1878), Decameron (1886), Arabian Nights (1882-84); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- John Payne: Villon (1878), Decameron (1886), Arabian Nights (1882-84); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   },
   {
    "id": "shelf-carlyle",
-   "status": "queued",
-   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Thomas Carlyle's translations: Goethe's Wilhelm Meister (1824-27), German Romance (1827); PD printings before 1931 only; no minting"
+   "status": "done",
+   "scope": "TRANSLATOR SHELF (lane C's choice under the coordinator's standing instruction, 2026-10-02 22:28Z; Adam may veto) -- Thomas Carlyle's translations: Goethe's Wilhelm Meister (1824-27), German Romance (1827); PD printings before 1931 only; no minting",
+   "started": "2026-10-02T17:31-05:00",
+   "finished": "2026-10-02T19:41-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
   }
  ]
 }

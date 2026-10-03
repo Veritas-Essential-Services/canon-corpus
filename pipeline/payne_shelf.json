@@ -1,0 +1,82 @@
+{
+ "_about": "TRANSLATOR SHELF: John Payne (1842-1916). Villon (Villon Society 1878) and the Decameron (1886). PD. Pairs with Florio's Decameron and Rossetti's Villon pieces. Added 2026-10-02 by lane C under the coordinator's standing instruction (choose further translator shelves); Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "payne"
+ ],
+ "_surname": [
+  "payne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "payne-decameron": [
+   23700,
+   "The Decameron of Giovanni Boccaccio"
+  ]
+ },
+ "internet_archive": {
+  "payne-villon-1878": [
+   "poemsofmasterfra00villiala",
+   "The Poems of Master Francis Villon of Paris (1878)"
+  ]
+ },
+ "titles": {
+  "payne-decameron": {
+   "source": "payne-decameron",
+   "of": "Boccaccio",
+   "work": "The Decameron",
+   "translated": 1886,
+   "translator": "John Payne",
+   "scan_edition": "Project Gutenberg 23700 (clean text)"
+  },
+  "payne-villon": {
+   "source": "payne-villon-1878",
+   "of": "Villon",
+   "work": "Poems (Lesser and Greater Testament, Ballades)",
+   "translated": 1878,
+   "translator": "John Payne",
+   "scan_edition": "Villon Society 1878, privately printed, first edition (UC copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "payne-thousand-nights": "Payne's Book of the Thousand Nights and One Night (Villon Society 1882-84, 9 vols): Burton's and Lane's are already shelved; the IA set is incomplete and not fetched. Your call.",
+  "payne-bandello": "Novels of Matteo Bandello (1890, 6 vols): on IA; not fetched this run."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "payne-decameron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "payne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Payne"
+  },
+  "payne-villon-1878": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "payne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "payne-decameron": {
+   "pg": 23700,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Payne"
+  },
+  "payne-villon-1878": {
+   "ia": "poemsofmasterfra00villiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
