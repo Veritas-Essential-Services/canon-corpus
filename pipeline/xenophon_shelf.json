@@ -137,7 +137,18 @@
   "xenophon-watson-dale-cyropaedia-hellenics": "Henry Dale",
   "xenophon-watson-minor-works": "J. S. Watson",
   "xenophon-spelman-anabasis-1830": "Edward Spelman",
-  "xenophon-ashley-cyropaedia-1803": "Maurice Ashley"
+  "xenophon-ashley-cyropaedia-1803": "Maurice Ashley",
+  "xenophon-perseus-marchant-memorabilia": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-economics": "Edgar Carew Marchant",
+  "xenophon-perseus-todd-banquet": "Otis Johnson Todd",
+  "xenophon-perseus-todd-apology": "Otis Johnson Todd",
+  "xenophon-perseus-marchant-hiero": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-agesilaus": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-ways-and-means": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-on-the-cavalry-commander": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-on-the-art-of-horsemanship": "Edgar Carew Marchant",
+  "xenophon-perseus-marchant-on-hunting": "Edgar Carew Marchant"
  },
  "_checks": {
   "xenophon-anabasis": {
@@ -385,6 +396,230 @@
    "ia_date": "1803",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  }
+ },
+ "perseus": {
+  "xenophon-perseus-marchant-memorabilia": [
+   "tlg0032.tlg002.perseus-eng2",
+   "Memorabilia",
+   "Edgar Carew Marchant",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-marchant-economics": [
+   "tlg0032.tlg003.perseus-eng2",
+   "Economics (Oeconomicus)",
+   "Edgar Carew Marchant",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-todd-banquet": [
+   "tlg0032.tlg004.perseus-eng2",
+   "Banquet (Symposium)",
+   "Otis Johnson Todd",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Otis Johnson Todd. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-todd-apology": [
+   "tlg0032.tlg005.perseus-eng2",
+   "Apology",
+   "Otis Johnson Todd",
+   "Translation published 1923: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 4, Otis Johnson Todd. Cambridge, MA: Harvard University Press; London: William Heinemann, 1923."
+  ],
+  "xenophon-perseus-marchant-hiero": [
+   "tlg0032.tlg008.perseus-eng2",
+   "Hiero",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-agesilaus": [
+   "tlg0032.tlg009.perseus-eng2",
+   "Agesilaus",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": [
+   "tlg0032.tlg010.perseus-eng2",
+   "Constitution of the Lacedaemonians",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-ways-and-means": [
+   "tlg0032.tlg011.perseus-eng2",
+   "Ways and Means",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-on-the-cavalry-commander": [
+   "tlg0032.tlg012.perseus-eng2",
+   "On the Cavalry Commander",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-on-the-art-of-horsemanship": [
+   "tlg0032.tlg013.perseus-eng2",
+   "On the Art of Horsemanship",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-marchant-on-hunting": [
+   "tlg0032.tlg014.perseus-eng2",
+   "On Hunting",
+   "Edgar Carew Marchant",
+   "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ]
+ },
+ "_perseus_checks": {
+  "xenophon-perseus-marchant-memorabilia": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-economics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-todd-banquet": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Otis Johnson Todd",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-todd-apology": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Otis Johnson Todd",
+   "author_seen": "xenophon",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-hiero": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-agesilaus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-ways-and-means": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-on-the-cavalry-commander": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-on-the-art-of-horsemanship": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "xenophon-perseus-marchant-on-hunting": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edgar Carew Marchant",
+   "author_seen": "xenophon",
+   "source_years": [
+    1925
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
   }
  }
 }

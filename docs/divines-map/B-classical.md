@@ -372,8 +372,19 @@ Shelf: `pipeline/xenophon_shelf.json`. Dakyns's complete Works of Xenophon (1890
 | Xenophon's Minor Works, literally translated (Bohn; 1914 stereotype reprint) | J. S. Watson | `xenophon-watson-minor-works` | have-raw (IA `xenophonsminorwo00xeno`) |
 | Xenophon, vol. I: The Anabasis (Valpy's Family Classical Library, 1830) | Edward Spelman | `xenophon-spelman-anabasis-1830` | have-raw (IA `anabasis00coopgoog`) |
 | Cyropaedia, or the Institution of Cyrus (London: Vernor and Hood, 1803) | Maurice Ashley | `xenophon-ashley-cyropaedia-1803` | have-raw (IA `cyropaediaorinst00xeno`) |
+| Memorabilia | Edgar Carew Marchant (Loeb, 1923) | `xenophon-perseus-marchant-memorabilia` | have (Perseus TEI `tlg0032.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Economics (Oeconomicus) | Edgar Carew Marchant (Loeb, 1923) | `xenophon-perseus-marchant-economics` | have (Perseus TEI `tlg0032.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Banquet (Symposium) | Otis Johnson Todd (Loeb, 1923) | `xenophon-perseus-todd-banquet` | have (Perseus TEI `tlg0032.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Apology | Otis Johnson Todd (Loeb, 1923) | `xenophon-perseus-todd-apology` | have (Perseus TEI `tlg0032.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| Hiero | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-hiero` | have (Perseus TEI `tlg0032.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Agesilaus | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-agesilaus` | have (Perseus TEI `tlg0032.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| Constitution of the Lacedaemonians | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-constitution-of-the-lacedaemonians` | have (Perseus TEI `tlg0032.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Ways and Means | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-ways-and-means` | have (Perseus TEI `tlg0032.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Cavalry Commander | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-the-cavalry-commander` | have (Perseus TEI `tlg0032.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Art of Horsemanship | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-the-art-of-horsemanship` | have (Perseus TEI `tlg0032.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| On Hunting | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-hunting` | have (Perseus TEI `tlg0032.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
 
-Pending (wishlist): E. C. Marchant's and Carleton Brownson's Loebs, on Perseus.
+Pending (wishlist): none here. Marchant's and Todd's Loebs (1923-25) are held above as Perseus TEI; Brownson's Hellenica and Anabasis and Miller's Cyropaedia are on PR #7 as Perseus TEI.
 
 Excluded: PG 29459 (index), PG 22003 (Anabasis I-IV only).
 
