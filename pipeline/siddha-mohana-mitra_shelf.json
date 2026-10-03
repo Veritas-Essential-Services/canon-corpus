@@ -1,0 +1,51 @@
+{
+  "_about": "Hindu Tales from the Sanskrit, translated by S. M. Mitra and adapted by Mrs. Arthur Bell (1919), who signs the introductory note \"Nancy Bell\" (Southbourne-on-Sea, 1918); the Gutenberg catalogue lists her as its editor under her pen name N. D'Anvers, 1844-1933, and Mitra as 1856-1925: tales from the Sanskrit story collections. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+  "_author": "S. M. Mitra (translator)",
+  "_name_words": [
+    "mitra"
+  ],
+  "_surname": [
+    "s. m. mitra",
+    "siddha mohana mitra"
+  ],
+  "ccel": {},
+  "gutenberg": {
+    "mitra-hindu-tales-from-the-sanskrit": [
+      11310,
+      "Hindu Tales from the Sanskrit",
+      {
+        "levels": [
+          {
+            "re": "(?:[IVX]+\\. [A-Z][^.]*\\.?(?:\\[\\d+\\])?|INTRODUCTORY NOTE\\.)$",
+            "strip": "\\.?(?:\\[\\d+\\])?$",
+            "max": 120
+          },
+          {
+            "re": "CHAPTER [IVXL]+$"
+          }
+        ],
+        "start": "INTRODUCTORY NOTE\\.$",
+        "front": true
+      }
+    ]
+  },
+  "internet_archive": {},
+  "_excluded": {},
+  "_translators": {
+    "mitra-hindu-tales-from-the-sanskrit": "Mitra"
+  },
+  "_checks": {
+    "mitra-hindu-tales-from-the-sanskrit": {
+      "kind": "gutenberg",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "s. m. mitra",
+      "translator_claimed": "Mitra",
+      "translator_in_text": true,
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": "Siddha Mohana Mitra",
+      "translator_match": true
+    }
+  }
+}
