@@ -663,8 +663,11 @@ The living truth for project state is the Obsidian vault:
   (first_chapter).
   An undecided numbering (in-text refs or a volume's own) falls back to
   work_numbering: the book's own-id votes pooled over every kd volume
-  (measure.numbering_work); still undecided, a verse the Hebrew and the
-  KJV read differently is resolved:false with both `candidates`.
+  (measure.numbering_work; a volume whose scan is absent lends the votes
+  its committed manifest entry records, measure.numbering_own, so one
+  volume checks with only its own scan); still undecided, a verse the
+  Hebrew and the KJV read differently is resolved:false with both
+  `candidates`.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

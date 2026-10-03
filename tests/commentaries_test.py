@@ -210,6 +210,34 @@ check("scripture: a dash after a list that skips chapters is a separator, not a 
       "(Bengel on 2 Cor 5.16: '1 Cor. ii. 8, 11—viii. 1')",
       [(x["target"], x.get("through")) for x in B.scripture("1 Cor. ii. 8, 11—viii. 1", ids)]
       == [("kjv:1Cor.2.8", None), ("kjv:1Cor.2.11", None)])
+# (review c11) a comma list of verses after 'ch. v.' stays in that chapter (FS.parse alone read
+# the third item as 'chapter, verse')
+for t, want in (("Rom. viii. 1, 2, 13", ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.8.13"]),
+                ("Rom. viii. 28, 29, 30", ["kjv:Rom.8.28", "kjv:Rom.8.29", "kjv:Rom.8.30"]),
+                ("Gal. iii. 6, 7, 8", ["kjv:Gal.3.6", "kjv:Gal.3.7", "kjv:Gal.3.8"]),
+                ("Rom. 8:1, 2, 13", ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.8.13"])):
+    r = B.scripture(t, ids)
+    check(f"scripture: '{t}' stays in its chapter", [x.get("target") for x in r] == want
+          and all(x["resolved"] and "through" not in x for x in r))
+r = B.scripture("Rom. viii. 1, 3-5, 13, ix. 2", ids)
+check("scripture: a list with a range in it, then another chapter after a comma",
+      [(x["target"], x.get("through")) for x in r]
+      == [("kjv:Rom.8.1", None), ("kjv:Rom.8.3", "kjv:Rom.8.5"), ("kjv:Rom.8.13", None), ("kjv:Rom.9.2", None)])
+r = B.scripture("Gal. iii. 6, 7, 8-iv. 2", ids)
+check("scripture: a three-item list closed by a range into the next chapter keeps its end",
+      [(x["target"], x.get("through")) for x in r]
+      == [("kjv:Gal.3.6", None), ("kjv:Gal.3.7", None), ("kjv:Gal.3.8", "kjv:Gal.4.2")])
+check("scripture: an arabic 'N. M, ...' list is left to FS.parse", B.verse_lists("Rom. 8. 1, 2, 13") == "Rom. 8. 1, 2, 13")
+# (review c11) the self 'c.': names are refused; only the OCR misreadings observed in these scans are read
+check("scripture: a name before a self 'c.' is refused, opening a sentence too ('Hero', 'Hera', 'Leo', 'Dio', 'Nate')",
+      not any(B.scripture(f"the first. {w} c. v. 11", ids, own="Gal", chapter=2)
+              for w in ("Hero", "Hera", "Leo", "Dio", "Nate", "Abovo")))
+check("scripture: each kept OCR misreading before a self 'c.' is read (SELF_C_OCR)",
+      set(B.SELF_C_OCR) == {"oompare", "oomp.", "boo", "seo"}
+      and all([x.get("target") for x in B.scripture(f"the first. {w} c. v. 11", ids, own="Gal", chapter=2)]
+              == ["kjv:Gal.5.11"] for w in ("Oompare", "Oomp.", "Boo", "Seo")))
+check("scripture: '(comp. c. v. 11' is read like 'comp. c. v. 11'",
+      [x.get("target") for x in B.scripture("so (comp. c. v. 11)", ids, own="Gal", chapter=2)] == ["kjv:Gal.5.11"])
 # (review c10) the Bengel vol. II title page names Fausset as its only translator
 check("pins: Bengel vol. II is Fausset's translation, as its title page reads",
       "tr. Andrew R. Fausset" in B.SCANS["bengel-gnomon-2"]["edition"]
@@ -578,11 +606,35 @@ check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
       all(ents[k]["measure"]["kjv_coverage"][b]["commented"] >= 0.95 * ents[k]["measure"]["kjv_coverage"][b]["kjv_verses"]
           for k, b in (("meyer-mark-luke-1", "Mark"), ("meyer-romans", "Rom")) if k in ents))
 # -- K&D: an undecided measure falls back to the work's own numbering, pooled over its volumes (review c9)
-check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew",
-      B.work_numbering("Ps", ids)["decision"] == "hebrew" and len(B.work_numbering("Ps", ids)["volumes"]) == 3)
-check("work_numbering: Joel and Malachi measure KJV; a book no volume holds is undecided",
-      B.work_numbering("Joel", ids)["decision"] == "kjv" and B.work_numbering("Mal", ids)["decision"] == "kjv"
-      and B.work_numbering("Isa", ids) == dict(B.work_numbering("Isa", ids), decision="undecided", volumes=[]))
+# (review c11) the pooled votes as the committed manifest records them (measure.numbering_work):
+# no scan needed
+_nw = {}
+for _e in ents.values():
+    _nw.update(_e["measure"].get("numbering_work", {}))
+if {"Ps", "Joel", "Mal"} <= set(_nw):
+    check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew (manifest)",
+          _nw["Ps"]["decision"] == "hebrew" and len(_nw["Ps"]["volumes"]) == 3)
+    check("work_numbering: Joel and Malachi measure KJV (manifest)",
+          _nw["Joel"]["decision"] == "kjv" and _nw["Mal"]["decision"] == "kjv")
+else:
+    print("SKIPPED work_numbering: the manifest records no pooled votes for Ps, Joel and Mal")
+check("work_numbering: a book no K&D volume holds is undecided, with no volumes (no scan read)",
+      B.work_numbering("Matt", ids) == dict(B.work_numbering("Matt", ids), decision="undecided", volumes=[]))
+B._WORK.clear()
+B._OWN.clear()
+_saved = B.scan_present
+B.scan_present = lambda slug: False
+try:
+    _ok = all(B.work_numbering(b, ids) == _nw[b] for b in ("Ps", "Joel", "Mal") if b in _nw)
+except SystemExit as e:
+    _ok = None
+    print(f"SKIPPED (scans absent) work_numbering from committed votes: {str(e).splitlines()[0]}")
+B.scan_present = _saved
+B._WORK.clear()
+B._OWN.clear()
+if _ok is not None:
+    check("work_numbering: with the scans absent, pooled from the committed numbering_own = the manifest's "
+          "numbering_work", _ok)
 x = B.ot_link("Ps", 34, 12, "undecided", ids, "t")
 check("ot_link: undecided, a verse the two numberings read differently stays unresolved, with both candidates",
       not x["resolved"] and [c.get("target") for c in x["candidates"]] == ["kjv:Ps.34.12", "kjv:Ps.34.11"])
@@ -592,18 +644,23 @@ _s = B.SCANS["delitzsch-psalms-2"]
 _s["_numbering"] = {"Ps": {"decision": "undecided"}}
 _u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
        "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Isa. ix. 1; Joel iii. 1."}]
-_n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
+try:
+    _n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
+except SystemExit as e:         # neither the K&D scans nor their committed votes (review c11)
+    _x = None
+    print(f"SKIPPED (scans absent) harvest K&D: {str(e).splitlines()[0]}")
 _s.pop("_numbering")
 lk = {x["ref"]: x for x in _u[0]["links"]}
-check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
-      not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
-check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
-check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
-      and lk["Ps 34:12"]["rule"].endswith("/work"))
-check("harvest: Isa 9:1, where no volume measures Isaiah, is unresolved with both candidates",
-      not lk.get("Isa 9:1", {"resolved": True})["resolved"] and len(lk["Isa 9:1"].get("candidates", [])) == 2)
-check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
-check("harvest: the work's numbering consulted is recorded", {"Ps", "Isa", "Joel"} <= set(_x["numbering_work"]))
+if _x is not None:
+    check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
+          not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
+    check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
+    check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
+          and lk["Ps 34:12"]["rule"].endswith("/work"))
+    check("harvest: Isa 9:1, where no volume measures Isaiah, is unresolved with both candidates",
+          not lk.get("Isa 9:1", {"resolved": True})["resolved"] and len(lk["Isa 9:1"].get("candidates", [])) == 2)
+    check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
+    check("harvest: the work's numbering consulted is recorded", {"Ps", "Isa", "Joel"} <= set(_x["numbering_work"]))
 
 # -- Keil & Delitzsch, the rest of the set (4c)
 its = [{"leaf": i, "book": "Jer", "hc": c} for i, c in enumerate([10, 10, 11, 11, 40, 11, 12, 12, 12, 13, 13])]

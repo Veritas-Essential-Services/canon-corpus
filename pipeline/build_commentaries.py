@@ -981,9 +981,9 @@ SELF_C_OK = {"cf.", "comp.", "conf.", "cp.", "see", "so", "also", "esp.", "and",
 # ... and a work named without an abbreviation is another work too: a Latin title
 # word among the three words before ('Tertullian de Baptismo c. iv. 3', 'Pro
 # Cluentio, c. v. 12'), or a capitalised name just before and not one of these English
-# words ('this Epistle c. iii. 17' is the epistle's own); opening a sentence, only a
-# name of four or more letters not one letter off them ('Irenaeus c. iv. 3' is refused,
-# 'Oompare c. x. 12' and 'Boo c. v. 11', OCR of 'Compare' and 'See', are read)
+# words ('this Epistle c. iii. 17' is the epistle's own), opening a sentence too ('Irenaeus
+# c. iv. 3' is refused; 'Oompare c. x. 12' and 'Boo c. v. 11', OCR of 'Compare' and 'See', are
+# read by SELF_C_OCR below)
 SELF_C_TITLE = {"de", "adv", "adv.", "adversus", "contra", "pro", "apud"}
 SELF_C_ENGLISH = {"epistle", "chapter", "compare", "contrast", "see", "comp", "cf", "note", "so", "also"}
 # '<Book>. c. iv. 3' ('Chrys. on Gal. c. iv. 3', 'Gal. C. iv. 3'): that book's chapter and verse, the
@@ -1077,18 +1077,44 @@ def cross_ranges(text):
     return out
 
 
+# (review c11) a comma list of verses after an English chapter ('Rom. viii. 1, 2, 13', 'Rom. 8:1, 2,
+# 13'): FS.parse reads ', 2, 13' as the apparatus's 'chapter, verse' (Rom 2:13), so for FS.parse
+# alone the list's commas become '.' (more verses of the chapter) and a comma after it ';' (a new
+# reference). Only after a Roman chapter or 'N:': an arabic 'N. M, ...' stays FS.parse's
+VERSE_LIST = re.compile(r'(?P<list>(?<![\w])(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}:)\s*\d{1,3}'
+                        r'(?:\s*[-–—]\s*\d{1,3}(?!\s*[.:]\s*\d))?'
+                        r'(?:\s*,\s*\d{1,3}(?!\s*[.:]\s*\d)(?:\s*[-–—]\s*\d{1,3}(?!\s*[.:]\s*\d))?)+)'
+                        r'(?P<tail>\s*,(?=\s*(?:[ivxlcIVXLC]{1,7}\.|\d{1,3}[.:])\s*\d))?')
+
+
+def verse_lists(text):
+    """The text as FS.parse should read it: each English verse list's commas '.', and a comma
+    after the list before another chapter ';'. Only for FS.parse: the other patterns read
+    the text as printed."""
+    return VERSE_LIST.sub(lambda m: m.group("list").replace(",", ".") + (m.group("tail") or "").replace(",", ";"),
+                          text)
+
+
+# (review c11) the OCR misreadings of SELF_C_OK / SELF_C_ENGLISH words actually found before a
+# self 'c.' in these scans (measured over all 43 volumes), read as the word they misread. An
+# explicit list, not 'one letter off': that let names through ('Hero', 'Hera', 'Leo c. v. 11')
+SELF_C_OCR = {"oompare": "compare", "oomp.": "comp.", "boo": "see", "seo": "see"}
+
+
 def self_c_refused(text, start):
     """A bare 'c. iv. 3' is another work's chapter when the word before it is
     an abbreviation ('Euseb. H.E. c. iv. 3'), when a Latin title word stands
     among the three words before it ('Tertullian de Baptismo c. iv. 3'), or when
-    the word before is a capitalised name (opening a sentence too, if it has four
-    or more letters and is not an English word misread by one letter); 'cf.
-    c. iv. 3', 'comp. c. iv. 3', 'Compare c. x. 12' and 'Faith: c. ix. 15' are read."""
+    the word before is a capitalised name (opening a sentence too, unless it is
+    one of the English words above or an observed OCR misreading of one,
+    SELF_C_OCR); 'cf. c. iv. 3', 'comp. c. iv. 3', 'Compare c. x. 12' and
+    'Faith: c. ix. 15' are read."""
     ws = text[max(0, start - 60):start].split()
     if not ws:
         return False
     w = ws[-1]
-    if w.lower() in SELF_C_OK or re.fullmatch(r'[\d.]+', w):
+    lw = w.lower().lstrip("([") or w      # '(comp. c. iv. 3' is 'comp.'
+    if lw in SELF_C_OK or lw in SELF_C_OCR or re.fullmatch(r'[\d.]+', w):
         return False
     if w.endswith("."):
         return True
@@ -1097,22 +1123,8 @@ def self_c_refused(text, start):
     if w[-1] in ",;:":
         return False            # a clause ends before the reference ('Faith: c. ix. 15')
     if w[:1].isupper() and w.lower() not in SELF_C_ENGLISH:
-        before = ws[-2] if len(ws) > 1 else ""
-        if before and before[-1] not in ".!?)]":
-            return True
-        # opening a sentence: a name of four or more letters is another work's author
-        # ('Irenaeus c. iv. 3'), unless it is an English word misread by one letter
-        # ('Oompare c. x. 12'); a shorter word is an English one misread ('Boo c. v. 11')
-        return len(w) >= 4 and not _near_english(w)
+        return True             # a name, mid-sentence or opening one ('Irenaeus c. iv. 3', 'Leo c. v. 11')
     return False
-
-
-_SELF_C_WORDS = {x.strip(".") for x in SELF_C_OK | SELF_C_ENGLISH if x.strip(".").isalpha()}
-
-
-def _near_english(w):
-    w = w.lower().strip(".")
-    return any(len(x) == len(w) and sum(a != b for a, b in zip(x, w)) <= 1 for x in _SELF_C_WORDS)
 
 
 def scripture(text, ids, own=None, chapter=None):
@@ -1125,7 +1137,7 @@ def scripture(text, ids, own=None, chapter=None):
     out, seen = [], set()
     read = book_c(text)
     xr = cross_ranges(read)
-    for r in FS.parse("¶ " + read, "eng"):
+    for r in FS.parse("¶ " + verse_lists(read), "eng"):
         book, kind, ch, v, end, alt = r
         p = FS.printed(r)
         if p in seen:
@@ -2680,12 +2692,34 @@ def work_numbering(book, ids):
             if s.get("reader") != "kd" or book not in [e[0] for e in s.get("epistles", [])]:
                 continue
             if k not in _OWN:
-                _OWN[k] = build_scan_2b(k, ids, votes_only=True)
+                _OWN[k] = (build_scan_2b(k, ids, votes_only=True) if scan_present(k)
+                           else committed_votes(k))
             for f in tot:
                 tot[f] += _OWN[k][book][f]
             vols.append(k)
         _WORK[book] = dict(tot, decision=decide(tot), volumes=vols)
     return _WORK[book]
+
+
+def scan_present(slug):
+    """Its pages can be read here: the pages cache, or the hOCR (which pages() checks against its pin)."""
+    s = SCANS[slug]
+    return (os.path.exists(os.path.join(CACHE, f"{s['ia']}.{s['sha256'][:12]}.pages.json.gz"))
+            or os.path.exists(os.path.join(CACHE, f"{s['ia']}_hocr.html")))
+
+
+def committed_votes(slug):
+    """(review c11) A volume whose scan is not here lends work_numbering its own-id votes as the
+    committed manifest records them (measure.numbering_own: the same votes its build makes), so
+    one volume builds or checks with only its own scan. Neither: stop, and say which."""
+    with open(MANIFEST, encoding="utf-8") as f:
+        e = json.load(f).get(slug)
+    own = (e or {}).get("measure", {}).get("numbering_own")
+    if own is None:
+        raise SystemExit(f"work_numbering needs {slug}: its scan is absent and the manifest has no "
+                         f"numbering_own for it\n  run: python3 pipeline/build_commentaries.py --fetch")
+    print(f"  ({slug}: scan absent, its numbering votes read from the committed manifest)", file=sys.stderr)
+    return {b: {f: v[f] for f in ("read", "only_hebrew", "only_kjv")} for b, v in own.items()}
 
 
 def effective(decision, book, ids, rule, used=None):
@@ -3823,11 +3857,12 @@ RUNS_HONESTY = (
     "a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; "
     "a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its "
     "start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, "
+    "a comma list of verses stays in its chapter ('viii. 1, 2, 13' is 8:1, 8:2 and 8:13), "
     "and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; "
     "'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never "
     "after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo "
-    "c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an "
-    "English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3')")
+    "c. iv. 3') or a capitalised name, at a sentence's opening too ('Irenaeus c. iv. 3'), unless it is an "
+    "English word or one of the OCR misreadings of one found in these scans ('Oompare', 'Oomp.', 'Boo')")
 
 
 RANGES_HONESTY_2B = (
