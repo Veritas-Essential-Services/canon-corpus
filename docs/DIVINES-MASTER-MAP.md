@@ -1402,6 +1402,17 @@ Slugs `payson-*`.
 | Work | Status | Where |
 |---|---|---|
 | Complete Works, 3 vols (Philadelphia: Gihon, 1851) | have-raw | IA (identifiers in the shelf) |
+
+
+## Cotton Mather (round 9, my pick, 2026-10-03)
+
+Slugs `cmather-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Magnalia Christi Americana, 2 vols (Hartford: Silas Andrus and Son; copyright 1852) | have-raw | IA (identifiers in the shelf) |
+| Essays to Do Good (Bonifacius) (Boston, 1808) | have-raw | IA |
+| The Wonders of the Invisible World | excluded | bundled with Increase Mather; Salem trials; Adam's call |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

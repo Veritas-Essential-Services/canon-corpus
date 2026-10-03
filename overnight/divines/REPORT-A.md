@@ -390,3 +390,6 @@
 
 ## 2026-10-03 00:59 CDT — edward-payson done
 - `pipeline/edward-payson_shelf.json`: the 1851 Complete Works, 3 volumes of raw IA OCR, median 99.0%, about 4.7 MB; title pages read (1851). `--verify --record`: 0 mismatched, 0 rights flags; matched on "edward payson". 0 uids minted.
+
+## 2026-10-03 01:00 CDT — cotton-mather done
+- `pipeline/cotton-mather_shelf.json`: the Magnalia (Andrus, 2 vols) and Essays to Do Good (1808), raw IA OCR, median 93.3% (91.9-95.9%; the Magnalia is thick with Latin and Greek), about 5 MB; title pages read: the two Magnalia copies were printed in 1868 and 1858 from the 1852 copyright, and the shelf says so rather than the catalogue's 1853. `--verify --record`: 0 mismatched, 0 rights flags; matched on "cotton mather". 0 uids minted.
