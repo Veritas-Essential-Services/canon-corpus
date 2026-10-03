@@ -18,7 +18,7 @@
  "_excluded": {},
  "_translators": {},
  "_translator_not_in_text": {
-  "basile-stories-from-the-pentamerone": "Taylor (claimed, not checkable in the text): Translator named in the 1911 printing's note, not in the Gutenberg text: archive.org b1109153 (Macmillan 1911, ed. E. F. Strange) reads 'The following version follows the translation by John Edward Taylor, published in 1847', and its text matches PG 2198 word for word where compared (the opening of the frame story). Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03)."
+  "basile-stories-from-the-pentamerone": "Taylor (claimed, not checkable in the text): the translator is named in the 1911 printing's prefatory note, not in the Gutenberg text. archive.org b1109153 (Macmillan 1911, ed. E. F. Strange) says in that note that its version follows John Edward Taylor's translation of 1847, and its text matches PG 2198 word for word where compared (the opening of the frame story). Kept out of _translators because no override may excuse the translator check (fetch_shelf 815a082, 2026-10-03)."
  },
  "_checks": {
   "basile-stories-from-the-pentamerone": {

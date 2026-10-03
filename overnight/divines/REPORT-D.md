@@ -605,3 +605,8 @@
 - basile: the translator note no longer quotes the book's text. andersen: punctuation in three translator notes.
 - Grierson and Skinner: undated in the text; the Internet Archive catalogue dates are now recorded with the record ids. Grierson's life dates, which came from memory and not from the text or a record, were removed.
 - DIGEST: the minting list is now counted from the shelf files (926 slugs on 163 shelves) instead of hand-summed by batch; the headline says 161 storytellers and lists batch 21.
+
+## 2026-10-03 01:18 CDT — review round 7 and Lane A's CCEL print-source check (36ca012)
+- jean-lang: `_surname` is now "jean lang" (it was bare "lang", which Andrew Lang's books also pass); re-recorded, 4/4 seen.
+- basile: the translator note describes the 1911 printing's prefatory note instead of quoting it.
+- macdonald (Lane D's only CCEL shelf, 31 CCEL items): re-recorded under 36ca012. Print sources recorded for 23 of them, all 1867-1911; none from 1930 or later; 8 have no print source on CCEL's page. Nothing moved to `_pending`.
