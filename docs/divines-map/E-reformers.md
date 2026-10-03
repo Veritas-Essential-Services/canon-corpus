@@ -109,6 +109,9 @@ Lane A already holds Boston's Complete Works (`boston_shelf.json`), Ebenezer and
 | James Fergusson, Brief Exposition of Galatians to Thessalonians (reprint, Ward, 1841) | have-raw | `james-fergusson_shelf.json` |
 | George Hutcheson, Brief Exposition on the XII Small Prophets (1657); Forty-Five Sermons on Psalm 130 (1691) | have-raw | `george-hutcheson_shelf.json`, EEBO scans |
 | George Hutcheson, Exposition of John (1657); of Job (1669) | pending | no pre-1930 scan on IA |
+| Andrew Gray, Works, pref. Tweedie (Aberdeen, 1839) | have-raw | `andrew-gray_shelf.json` |
+| Alexander Henderson, Sermons, Prayers and Pulpit Addresses, ed. Martin (1867) | have-raw | `alexander-henderson_shelf.json` |
+| Alexander Shields, A Hind Let Loose (Glasgow, 1797) | have | `alexander-shields_shelf.json`, Gutenberg transcription |
 
 ## Scottish church histories
 
@@ -201,6 +204,7 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Baird, Rise of the Huguenots (2 vols, 1879); Huguenots and Henry of Navarre (2 vols, 1886); Huguenots and the Revocation (1895, vol. 1); Theodore Beza (1899) | have-raw | `henry-baird_shelf.json`; Revocation vol. 2 pending |
 | Wylie, The History of Protestantism (Cassell, 3 vols) | have-raw | `james-wylie_shelf.json` |
 | Muston, The Israel of the Alps, tr. Montgomery (Blackie, 1875, 2 vols) | have-raw | `alexis-muston_shelf.json` |
+| Turretin on the Atonement of Christ, tr. Willson (New York, 1859) | have-raw | `turretin_shelf.json`; translator checked; the full Institutes are in copyright (1992) |
 
 ## Confessions and creeds
 
