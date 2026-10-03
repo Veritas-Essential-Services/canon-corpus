@@ -1628,6 +1628,23 @@ Slugs `ja-alexander-*`. The text layers carry no Hebrew or Greek characters at a
 | Sermons (Scribner, 1860), vols 1-2 | have-raw | IA |
 | Essays on the Primitive Church Offices (1851) | pending | the copy tried was refused |
 | Isaiah Translated and Explained, the abridgement (1851) | alternate | IA |
+
+
+## Albert Barnes (round 10, my pick, 2026-10-03)
+
+Slugs `barnes-*`. The IA text layers carry no Hebrew or Greek characters.
+
+| Work | Status | Where |
+|---|---|---|
+| Barnes' New Testament Notes (complete) | have-clean | CCEL `ntnotes` (keyed from the Baker 1949 reprint) |
+| Notes on Job (Leavitt, 1849), vols 1-2 | have-raw | IA (identifiers in the shelf) |
+| Notes on Isaiah, vol. 1 (Leavitt and Allen, 1847) and vol. 2 (catalogued 1858) | have-raw | IA |
+| Notes on Daniel (Leavitt and Allen; title page 1857) | have-raw | IA |
+| Notes on the Psalms (Harper), vols 1-2 (1871) and vol. 3 (1869) | have-raw | IA |
+| An Inquiry into the Scriptural Views of Slavery (1846) | have-raw | IA |
+| Lectures on the Evidences of Christianity in the Nineteenth Century (Harper, 1868) | have-raw | IA |
+| Miscellaneous Essays and Reviews (1855), vols 1-2 | have-raw | IA |
+| A Manual of Prayer (1838); How Shall Man Be Just with God? (1854); The Organization of the Apostolic Church (1843); Life at Threescore and Ten (1871) | have-raw | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
