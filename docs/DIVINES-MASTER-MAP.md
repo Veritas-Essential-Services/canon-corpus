@@ -1882,6 +1882,15 @@ Slugs `bounds-*`.
 | Work | Status | Where |
 |---|---|---|
 | Power Through Prayer; Purpose in Prayer; The Necessity of Prayer; The Essentials of Prayer; The Reality of Prayer; The Weapon of Prayer; Prayer and Praying Men | have-clean | CCEL |
+
+
+## Hannah Whitall Smith (round 12, my pick, 2026-10-03)
+
+Slugs `hwsmith-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian's Secret of a Happy Life; The God of All Comfort; Old Testament Types and Teachings | have-clean | CCEL |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

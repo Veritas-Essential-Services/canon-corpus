@@ -530,3 +530,6 @@
 
 ## 2026-10-03 02:58 CDT — e-m-bounds done
 - `pipeline/e-m-bounds_shelf.json`: 7 CCEL texts. Bare "bounds" is never used as a name form. CCEL writes "E.M. Bounds" with no space, so that form was added after Purpose in Prayer was refused on the first pass. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:59 CDT — hannah-whitall-smith done
+- `pipeline/hannah-whitall-smith_shelf.json`: 3 CCEL texts. `--verify --record`: 0 mismatched. 0 uids minted.
