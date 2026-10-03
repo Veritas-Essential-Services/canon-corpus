@@ -22,6 +22,11 @@
    "longinusonsublim0000aopr",
    "Longinus on the Sublime (Oxford, Clarendon Press, 1906)",
    "tr. A. O. Prickard"
+  ],
+  "longinus-dublin-graduate-1821": [
+   "literaltranslati00long",
+   "A Literal Translation of Longinus on the Sublime, by a Graduate of Trinity College, Dublin (1821)",
+   "tr. anonymous (a Graduate of Trinity College, Dublin)"
   ]
  },
  "_surname": [
@@ -71,9 +76,23 @@
    "ia_date": "1906",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "longinus-dublin-graduate-1821": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  },
  "_excluded": {
   "demetriusonstyle01deme / demetriusonstyle0000wrhy": "Rhys Roberts's Demetrius On Style (1902): Greek on facing pages, OCR 0.59-0.72; held back like the Greek-facing Loebs"
+ },
+ "_translator_unchecked": {
+  "longinus-dublin-graduate-1821": "the title page names the translator only as 'a Graduate of Trinity College, Dublin'"
  }
 }
