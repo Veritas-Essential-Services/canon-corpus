@@ -2212,6 +2212,7 @@ Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek phil
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889) | G. T. W. Patrick | `heraclitus-patrick-1889` | have-raw (IA `fragmentsofworko00hera`) |
+| The Fragments of Empedocles, translated into English verse (Open Court, 1908) | William Ellery Leonard | `empedocles-leonard-1908` | have-raw (IA `thefragmentsofem00empeuoft`) |
 
 Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
 
