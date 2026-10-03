@@ -428,6 +428,14 @@
    "started": "2026-10-02T22:08:53-05:00",
    "finished": "2026-10-02T22:13:59-05:00",
    "notes": "Hickie vol. II and Mitchell vol. I wanted; Aristaenetus 1771 and Madan 1789 ECCO refused on OCR"
+  },
+  {
+   "id": "horace-catullus-claudian",
+   "status": "done",
+   "scope": "Martin, Lytton and Gladstone's Horace; Lamb's Catullus vol. I; Strutt's and Howard's Claudian",
+   "started": "2026-10-02T22:13:59-05:00",
+   "finished": "2026-10-03T00:41:15-05:00",
+   "notes": "Martin's Odes translator unchecked (name garbled in OCR); Dart, Pott-Wright and Wickham not taken"
   }
  ]
 }

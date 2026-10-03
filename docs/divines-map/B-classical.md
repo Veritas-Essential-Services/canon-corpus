@@ -823,6 +823,9 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | Odes | John Conington | `horace-perseus-conington-odes` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
 | The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874) | James Lonsdale and Samuel Lee | `horace-lonsdale-lee-1874` | have-raw (IA `worksofhoraceren00hora`) |
+| The Odes of Horace translated into English Verse, with a life and notes (Boston: Ticknor and Fields, 1866) | Theodore Martin | `horace-martin-odes-1866` | have-raw (IA `odesofhoracetran00horarich`) |
+| The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869) | Edward Bulwer-Lytton, Lord Lytton | `horace-lytton-1869` | have-raw (IA `odes00epodesofhorahorarich`) |
+| The Odes of Horace translated into English (London: John Murray; preface dated 1894) | William Ewart Gladstone | `horace-gladstone-1894` | have-raw (IA `odeshorace01gladgoog`) |
 
 Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
@@ -838,6 +841,7 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | Carmina | Sir Richard Francis Burton | `catullus-perseus-burton-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Carmina | Leonard C. Smithers | `catullus-perseus-smithers-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
+| The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821) | George Lamb | `catullus-lamb-1821-v1` | have-raw (IA `poemscaiusvaler01catugoog`) |
 
 
 Excluded: PG 23720 (serves a 404).
@@ -1530,6 +1534,8 @@ Shelf: `pipeline/claudian_shelf.json`. Platnauer Loeb 1922 (Gutenberg); Hawkins 
 | Claudian, vol. 1 | Maurice Platnauer | `claudian-platnauer-v1` | have (PG 51443) |
 | Claudian, vol. 2 | Maurice Platnauer | `claudian-platnauer-v2` | have (PG 51444) |
 | The Works of Claudian, vol. 1 (1817) | A. Hawkins | `claudian-hawkins-v1` | have-raw (IA `worksclaudian00hawkgoog`) |
+| The Rape of Proserpine, with other poems, from Claudian, translated into English Verse (London: Valpy, 1814) | Jacob George Strutt | `claudian-strutt-1814` | have-raw (IA `rapeofproserpi00clau`) |
+| Translations from Claudian (London: John Murray, 1823) | Henry Howard | `claudian-howard-1823` | have-raw (IA `translationsfrom00clauuoft`) |
 
 Pending (wishlist): Hawkins vol. 2 (no text layer)
 

@@ -240,3 +240,8 @@
 - Added (raw IA, title pages read, OCR 0.85-0.93): Mair's prose Hesiod (1908); Hickie's Bohn Aristophanes vol. I (1887 printing); Mitchell's Aristophanes vol. II (Clouds, Wasps; 1822); Madan's literal Juvenal and Persius (1814); Badham's verse Juvenal (1814); Hodgson's Juvenal (1807); Hallard's Theocritus (1901, revised from 1894); Taylor's Political Fragments of the Pythagoreans (1822).
 - Refused on OCR: Aristaenetus (Halhed and Sheridan, 1771; 0.54), Madan's 1789 ECCO edition (0.63; held from 1814). Wanted: Hickie vol. II (IA has no text file), Mitchell vol. I.
 - `fetch_shelf.py --verify --record` on the five shelves: 0 mismatched, 0 rights flags.
+
+## 2026-10-03 00:41 CDT — Horace, Catullus, Claudian
+- Added (raw IA, title pages read, OCR 0.84-0.89): Theodore Martin's Odes (Boston, 1866); Edward Bulwer-Lytton's Odes and Epodes (1869, Latin facing); Gladstone's Odes (preface 1894); George Lamb's Catullus vol. I (1821); Strutt's Claudian (1814); Howard's Translations from Claudian (1823).
+- Not taken: Dart's Tibullus (1720; OCR 0.69), Pott and Wright's Martial (no printed date in the scan), Wickham's prose Horace (title page missing from the OCR).
+- `fetch_shelf.py --verify --record` on the five shelves: 0 mismatched, 0 rights flags.

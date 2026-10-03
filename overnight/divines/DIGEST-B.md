@@ -90,4 +90,5 @@
 - **Each book now checked against its own author** on shelves holding several (a Lycophron used to pass on "Callimachus").
 - **Victorian scholars' versions (21:55-22:05):** Lonsdale and Lee's Globe Virgil and Horace, Davidson-Buckley Virgil, Slater's Silvae, Cranstoun's Catullus and Propertius, Jebb's prose Sophocles, and Way's verse Sophocles (Part I) and Aeschylus (all three parts). Way's Sophocles Part II (1914) is not on IA.
 - **Homer's Victorian translators (22:08):** Morris, Palmer, Worsley, Conington, Newman, and Way's Iliad and Odyssey: ten volumes, so the Homer shelf now spans Chapman to Murray.
-- **Satirists and comedy (22:30):** three more Juvenals (Madan, Badham, Hodgson), Hickie's and Mitchell's Aristophanes, Mair's Hesiod, Hallard's Theocritus, and Taylor's Pythagorean fragments.
+- **Satirists and comedy (22:13):** three more Juvenals (Madan, Badham, Hodgson), Hickie's and Mitchell's Aristophanes, Mair's Hesiod, Hallard's Theocritus, and Taylor's Pythagorean fragments.
+- **Horace, Catullus, Claudian (22:22):** three more Horaces (Martin, Bulwer-Lytton, Gladstone), Lamb's Catullus, and two Claudian translators (Strutt, Howard).
