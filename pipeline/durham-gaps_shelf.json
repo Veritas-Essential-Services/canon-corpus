@@ -4,10 +4,16 @@
   "durham"
  ],
  "_surname": [
-  "durham"
+  "james durham",
+  "mr james durham",
+  "mr. james durham",
+  "mr. durham",
+  "mr durham",
+  "jam. durham"
  ],
  "_identity_checked": {
-  "durham-dying-mans-testament-1659": "The 1659 OCR prints the name as 'DVRHAM' (old type V for U). The title page, read by eye, names 'Mr. JAMES DVRHAM, late Minister of the Gospel in Glasgow', published by John Carstares with a preface by Robert Blair."
+  "durham-dying-mans-testament-1659": "The 1659 OCR prints the name as 'DVRHAM' (old type V for U). The title page, read by eye, names 'Mr. JAMES DVRHAM, late Minister of the Gospel in Glasgow', published by John Carstares with a preface by Robert Blair.",
+  "durham-unsearchable-riches-1764": "The 1764 ECCO title page OCRs to noise ('By the late, pious ... Mr. nad DULLES'); the dedicatory epistle names 'Mrs. Durham, the famous Author's Relict', who preserved her husband's sermons. Checked by eye 2026-10-03."
  },
  "ccel": {},
  "gutenberg": {},
@@ -52,7 +58,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "durham",
+   "author_seen": "james durham",
    "title_weak": true,
    "identity": "title_weak",
    "ia_rights": "ok: published 1682",
@@ -64,8 +70,8 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "durham",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1764",
    "ia_date": "1764",
    "ia_possible_copyright_status": null,

@@ -4,7 +4,9 @@
   "browning"
  ],
  "_surname": [
-  "browning"
+  "w. s. browning",
+  "william shergold browning",
+  "w.s. browning"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -21,7 +23,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "browning",
+   "author_seen": "w. s. browning",
    "identity": "ok",
    "ia_rights": "ok: published 1842",
    "ia_date": "1842",

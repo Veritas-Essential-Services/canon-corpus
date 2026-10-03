@@ -4,7 +4,9 @@
   "bruce"
  ],
  "_surname": [
-  "bruce"
+  "robert bruce",
+  "mr robert bruce",
+  "mr. robert bruce"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -29,7 +31,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bruce",
+   "author_seen": "robert bruce",
    "identity": "ok",
    "ia_rights": "ok: published 1843",
    "ia_date": "1843",

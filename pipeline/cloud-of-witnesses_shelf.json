@@ -4,7 +4,9 @@
   "thomson"
  ],
  "_surname": [
-  "thomson"
+  "john h. thomson",
+  "j. h. thomson",
+  "rev. john h. thomson"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -26,7 +28,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "thomson",
+   "author_seen": "john h. thomson",
    "identity": "ok",
    "ia_rights": "ok: published 1871",
    "ia_date": "1871",

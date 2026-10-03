@@ -4,7 +4,10 @@
   "bale"
  ],
  "_surname": [
-  "bale"
+  "john bale",
+  "bishop bale",
+  "johan bale",
+  "john bale's"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -23,7 +26,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bale",
+   "author_seen": "john bale",
    "identity": "ok",
    "ia_rights": "ok: published 1849",
    "ia_date": "1849",

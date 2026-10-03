@@ -4,7 +4,13 @@
   "mitchell"
  ],
  "_surname": [
-  "mitchell"
+  "alexander f. mitchell",
+  "alex. f. mitchell",
+  "a. f. mitchell",
+  "alexander mitchell",
+  "professor mitchell",
+  "dr mitchell",
+  "dr. mitchell"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -31,7 +37,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "mitchell",
+   "author_seen": "alexander f. mitchell",
    "identity": "ok",
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
@@ -42,7 +48,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "mitchell",
+   "author_seen": "alexander f. mitchell",
    "identity": "ok",
    "ia_rights": "ok: published 1886",
    "ia_date": "1886",

@@ -4,7 +4,10 @@
   "robinson"
  ],
  "_surname": [
-  "robinson"
+  "john robinson",
+  "mr. robinson",
+  "mr robinson",
+  "robinson's"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -31,7 +34,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "robinson",
+   "author_seen": "john robinson",
    "identity": "ok",
    "ia_rights": "ok: published 1851",
    "ia_date": "1851",
@@ -42,7 +45,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "robinson",
+   "author_seen": "john robinson",
    "identity": "ok",
    "ia_rights": "ok: published 1851",
    "ia_date": "1851",
@@ -53,7 +56,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "robinson",
+   "author_seen": "john robinson",
    "identity": "ok",
    "ia_rights": "ok: published 1851",
    "ia_date": "1851",

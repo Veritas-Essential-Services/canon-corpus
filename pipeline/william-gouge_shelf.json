@@ -4,7 +4,12 @@
   "gouge"
  ],
  "_surname": [
-  "gouge"
+  "william gouge",
+  "w. gouge",
+  "dr gouge",
+  "dr. gouge",
+  "doctor gouge",
+  "gouge on hebrews"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -34,7 +39,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gouge",
+   "author_seen": "william gouge",
    "identity": "ok",
    "ia_rights": "ok: published 1866",
    "ia_date": "1866",
@@ -45,7 +50,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gouge",
+   "author_seen": "gouge on hebrews",
    "identity": "ok",
    "ia_rights": "ok: published 1866",
    "ia_date": "1866",
@@ -56,7 +61,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gouge",
+   "author_seen": "gouge on hebrews",
    "identity": "ok",
    "ia_rights": "ok: published 1866",
    "ia_date": "1866",

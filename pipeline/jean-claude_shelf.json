@@ -4,7 +4,12 @@
   "claude"
  ],
  "_surname": [
-  "claude"
+  "monsieur claude",
+  "mr. claude",
+  "m. claude",
+  "jean claude",
+  "john claude",
+  "mons. claude"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -30,7 +35,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "claude",
+   "author_seen": "monsieur claude",
    "identity": "ok",
    "ia_rights": "ok: published 1815",
    "ia_date": "1815",
@@ -41,7 +46,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "claude",
+   "author_seen": "monsieur claude",
    "identity": "ok",
    "ia_rights": "ok: published 1815",
    "ia_date": "1815",

@@ -4,7 +4,9 @@
   "dort"
  ],
  "_surname": [
-  "dort"
+  "synod of dort",
+  "synod of dordt",
+  "synod of dordrecht"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -33,7 +35,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dort",
+   "author_seen": "synod of dort",
    "translator_claimed": "Scott",
    "translator_in_text": true,
    "identity": "ok",

@@ -1,10 +1,12 @@
 {
- "_about": "John Row (1568-1646), minister of Carnock: The History of the Kirk of Scotland from 1558 to August 1637, with a continuation to July 1639 by his son, ed. David Laing (Wodrow Society, Edinburgh, 1842). Named john-row because 'row' alone is an ordinary English word; for the same reason the surname check is weak here, and the title page was read by eye ('BY JOHN ROW, MINISTER OF CARNOCK'). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "John Row (1568-1646), minister of Carnock: The History of the Kirk of Scotland from 1558 to August 1637, with a continuation to July 1639 by his son, ed. David Laing (Wodrow Society, Edinburgh, 1842). Named john-row because 'row' alone is an ordinary English word; for the same reason the surname check looks for 'john row', never the bare word, and the title page was read by eye ('BY JOHN ROW, MINISTER OF CARNOCK'). Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "row"
  ],
  "_surname": [
-  "row"
+  "john row",
+  "mr john row",
+  "mr. john row"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -26,7 +28,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "row",
+   "author_seen": "john row",
    "identity": "ok",
    "ia_rights": "ok: published 1842",
    "ia_date": "1842",

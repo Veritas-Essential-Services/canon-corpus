@@ -5,7 +5,6 @@
   "john"
  ],
  "_surname": [
-  "kennedy",
   "john kennedy, d.d",
   "rev. john kennedy",
   "john kennedy",
@@ -36,7 +35,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "kennedy",
+   "author_seen": "john kennedy",
    "identity": "ok",
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",
@@ -47,7 +46,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "kennedy",
+   "author_seen": "john kennedy",
    "identity": "ok",
    "ia_rights": "ok: published 1866",
    "ia_date": "1866",

@@ -4,7 +4,9 @@
   "calvin"
  ],
  "_surname": [
-  "calvin"
+  "john calvin",
+  "john calvine",
+  "calvin's"
  ],
  "_translators": {
   "calvin-allen-institutes-1": "Allen",
@@ -52,7 +54,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "calvin",
+   "author_seen": "john calvin",
    "translator_claimed": "Allen",
    "translator_in_text": true,
    "identity": "ok",
@@ -65,7 +67,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "calvin",
+   "author_seen": "john calvin",
    "translator_claimed": "Allen",
    "translator_in_text": true,
    "identity": "ok",
@@ -78,7 +80,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "calvin",
+   "author_seen": "john calvin",
    "translator_claimed": "Allen",
    "translator_in_text": true,
    "identity": "ok",
@@ -91,7 +93,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "calvin",
+   "author_seen": "john calvin",
    "translator_claimed": "Cole",
    "translator_in_text": true,
    "identity": "ok",

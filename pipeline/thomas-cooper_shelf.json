@@ -4,7 +4,9 @@
   "cooper"
  ],
  "_surname": [
-  "cooper"
+  "thomas cooper",
+  "bishop cooper",
+  "t. cooper"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -21,7 +23,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "cooper",
+   "author_seen": "thomas cooper",
    "identity": "ok",
    "ia_rights": "ok: published 1850",
    "ia_date": "1850",

@@ -4,7 +4,9 @@
   "westminster"
  ],
  "_surname": [
-  "westminster"
+  "westminster assembly",
+  "assembly of divines",
+  "westminster confession"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -28,7 +30,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "westminster",
+   "author_seen": "westminster assembly",
    "identity": "ok",
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
@@ -39,7 +41,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "westminster",
+   "author_seen": "assembly of divines",
    "identity": "ok",
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",

@@ -4,7 +4,9 @@
   "fleming"
  ],
  "_surname": [
-  "fleming"
+  "robert fleming",
+  "mr robert fleming",
+  "mr. robert fleming"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -27,7 +29,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "fleming",
+   "author_seen": "robert fleming",
    "identity": "ok",
    "ia_rights": "ok: published 1806",
    "ia_date": "1806",

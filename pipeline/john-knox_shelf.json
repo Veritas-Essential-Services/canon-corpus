@@ -5,7 +5,9 @@
   "knox"
  ],
  "_surname": [
-  "knox"
+  "john knox",
+  "johne knox",
+  "john knox's"
  ],
  "ccel": {
   "knox-first-blast": [
@@ -66,7 +68,7 @@
    "kind": "ccel",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
@@ -78,7 +80,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -87,7 +89,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -96,7 +98,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "ia_rights": "ok: published 1864",
    "ia_date": "1846-1864",
@@ -107,7 +109,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",
@@ -118,7 +120,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",
@@ -129,7 +131,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knox",
+   "author_seen": "john knox",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",

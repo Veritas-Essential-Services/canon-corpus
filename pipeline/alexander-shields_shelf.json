@@ -5,8 +5,10 @@
   "shiels"
  ],
  "_surname": [
-  "shields",
-  "shiels"
+  "alexander shields",
+  "alexander shiels",
+  "alex. shields",
+  "a. shields"
  ],
  "ccel": {},
  "gutenberg": {
@@ -26,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "shields",
+   "author_seen": "alexander shields",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
