@@ -1,5 +1,5 @@
 {
- "_about": "J. Gresham Machen (1881-1937), professor at Princeton and founder of Westminster Seminary: The Literature and History of New Testament Times (Philadelphia: Presbyterian Board, 1915); The Origin of Paul's Religion (New York: Macmillan, 1923 printing of the 1921 Sprunt Lectures); Christianity and Liberalism (New York: Macmillan, 1923); What is Faith? (London: Hodder and Stoughton; the undated British issue, printed in Britain, of the book Macmillan copyrighted in the US in 1925). All are US publications before 1930, so public domain in the US. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "J. Gresham Machen (1881-1937), professor at Princeton and founder of Westminster Seminary: The Literature and History of New Testament Times (Philadelphia: Presbyterian Board, 1915); The Origin of Paul's Religion (New York: Macmillan, 1923 printing of the 1921 Sprunt Lectures); Christianity and Liberalism (New York: Macmillan, 1923); What is Faith? (New York: Macmillan, first published November 1925). All are US publications before 1930, so public domain in the US. Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "machen"
  ],
@@ -22,15 +22,16 @@
    "Christianity and Liberalism (New York: Macmillan, 1923)"
   ],
   "machen-what-is-faith-1925": [
-   "whatisfaith0000mach",
-   "What is Faith? (London: Hodder and Stoughton, undated British issue; US copyright 1925 by Macmillan)"
+   "whatisfaiith0000jgre",
+   "What is Faith? (New York: Macmillan, 1925; 'Published November, 1925')"
   ]
  },
  "_alternates": {
   "originofpaulsrel00machrich, paulsreligion00machuoft, originpaulsreli01machgoog, originofpaulsrel0000jgre_y2y0": "Other copies of the Origin of Paul's Religion.",
   "christianitylibe0000jgre, christianitylibe0000jgre_l9u3, isbn_9780530132648": "Other copies of Christianity and Liberalism.",
-  "whatisfaith0000jgre_o7r9, whatisfaiith0000jgre, MN41619ucmf_6": "Other copies of What is Faith? (o7r9 gave an Internet Archive server error on 2026-10-03, so its title page is unread).",
-  "whatisfaith0000jgre_a4a6": "A later Eerdmans printing (copyright owned by the trustees of Machen's estate); not used."
+  "whatisfaith0000jgre_a4a6": "A later Eerdmans printing (copyright owned by the trustees of Machen's estate); not used.",
+  "whatisfaith0000jgre_o7r9, MN41619ucmf_6": "Other copies of What is Faith? (MN41619ucmf_6 is a microfilm of the same Macmillan 1925 printing; o7r9 gave an Internet Archive server error on 2026-10-03, so its title page is unread).",
+  "whatisfaith0000mach": "Hodder and Stoughton's British issue: 'Copyright in U.S.A., 1925', printed in Great Britain, with no date of its own. Replaced by the dated New York first printing."
  },
  "_pending": {
   "virginbirthofchr00mach_0 (The Virgin Birth of Christ, 1930)": "Published 1930: public domain in the US since 1 January 2026, but this shelf follows the house's before-1930 line; Adam's call.",
