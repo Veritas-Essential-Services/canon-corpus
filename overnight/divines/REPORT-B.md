@@ -306,3 +306,8 @@
 - Paley's prose Odes of Pindar (1868; OCR 0.88; translator unchecked, OCR reads 'PA LET').
 - Banks's Bohn Works of Hesiod, Callimachus and Theognis (1856; OCR 0.84), with the verse of Elton (Hesiod), Tytler (Callimachus) and Frere (Theognis) appended, which answers the Tytler wishlist line.
 - Refused on OCR: Tytler's 1793 Callimachus (0.767, just under the bar), Polwhele's Theocritus (0.68).
+
+## 2026-10-03 01:21 CDT — Seneca (Morell 1786), Apuleius (Taylor 1822), review round 8
+- Seneca: Thomas Morell's Epistles to Lucilius, 1786, both volumes (Woodfall for Robinson); the translator's name OCRs garbled on each title page, so the claim is recorded as unchecked with the OCR spelling
+- Apuleius: Thomas Taylor's 1822 Metamorphosis; a second scan of the same edition excluded
+- Review round 8: the Everyman Ethics (PG 8438) moved to _held as a duplicate of the Adler shelf's aristotle-ethics; the duplicate Rendall 1898 row dropped (same IA item as marcus-aurelius-rendall); Bennett now carries a translator check (surname, since the title page OCRs 'C. E, BENNETT'); Firth vol. 2's date marked inferred; the digest's Adam decisions narrowed to Ross v09, and the stale 'Bennett not found' line removed

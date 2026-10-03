@@ -532,6 +532,14 @@
    "started": "2026-10-03T01:15:00-05:00",
    "finished": "2026-10-03T01:16:31-05:00",
    "notes": "Tytler 1793 (0.767) and Polwhele (0.68) refused; Tytler's verse is in the Banks volume"
+  },
+  {
+   "id": "seneca-morell-apuleius-taylor",
+   "status": "done",
+   "scope": "Morell's 1786 Seneca Epistles (2 vols, IA Google scans); Thomas Taylor's 1822 Apuleius; reviewer round 8 fixes",
+   "started": "2026-10-03T01:16:31-05:00",
+   "finished": "2026-10-03T01:21:32-05:00",
+   "notes": "Morell's name OCRs garbled on both title pages, so recorded under _translator_unchecked with the OCR spelling. Apuleius 01 copy excluded as a duplicate scan."
   }
  ]
 }
