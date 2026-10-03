@@ -4499,6 +4499,18 @@ Shelf: `pipeline/milne_shelf.json` (2026-10-02; added at the coordinator's relay
 | Once on a Time (1917; the Gutenberg text is a printing with a 1922 copyright) | have | PG 27771, `milne-once-on-a-time` (2031 units) |
 | milne-adult | excluded | his plays, essays, humour collections and The Red House Mystery: not children's books |
 
+## Dinah Maria Mulock Craik
+
+Shelf: `pipeline/craik_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her children's books, cut by chapter or story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Little Lame Prince and His Travelling-Cloak | have | PG 496, `craik-little-lame-prince` (810 units) |
+| The Adventures of a Brownie, as Told to My Child | have | PG 30494, `craik-adventures-of-a-brownie` (634 units) |
+| The Fairy Book: The Best Popular Stories Selected and Rendered Anew | have | PG 19734, `craik-fairy-book` (1828 units) |
+| craik-duplicates | excluded | The Little Lame Prince (PG 23977, 45975): other printings; the Margaret Waters rewriting (24053): an adaptation |
+| craik-novels | excluded | John Halifax, Gentleman and her other novels: not children's books |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

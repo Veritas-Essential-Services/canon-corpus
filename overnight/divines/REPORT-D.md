@@ -333,3 +333,6 @@
 
 ## 2026-10-02 20:07 CDT — milne: done
 - 5/5 fetched (Gutenberg 67098, 73011, 70271, 70516, 27771), 4,958 units, 2 ~2 ids.
+
+## 2026-10-02 20:07 CDT — craik: done
+- 3/3 fetched (Gutenberg 496, 30494, 19734), 3,272 units, 19 ~2 ids.

@@ -673,7 +673,9 @@
     {
       "id": "craik",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: craik; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T20:07:47-05:00",
+      "notes": "3/3 fetched (Gutenberg 496, 30494, 19734), 3,272 units, 19 ~2 ids."
     },
     {
       "id": "ingelow",

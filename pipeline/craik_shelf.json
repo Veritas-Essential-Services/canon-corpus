@@ -1,0 +1,30 @@
+{
+ "_about": "Dinah Maria Mulock Craik's (1826-1887) books for children: The Little Lame Prince and His Travelling-Cloak, The Adventures of a Brownie, and The Fairy Book, her retellings of the best-known popular tales. Clean Gutenberg text; public domain. Her novels are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Dinah Maria Mulock Craik",
+ "_name_words": [
+  "lame",
+  "prince",
+  "brownie",
+  "fairy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "craik-little-lame-prince": [
+   496,
+   "The Little Lame Prince and His Travelling-Cloak"
+  ],
+  "craik-adventures-of-a-brownie": [
+   30494,
+   "The Adventures of a Brownie, as Told to My Child"
+  ],
+  "craik-fairy-book": [
+   19734,
+   "The Fairy Book: The Best Popular Stories Selected and Rendered Anew"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "craik-duplicates": "The Little Lame Prince (PG 23977, 45975): other printings; the Margaret Waters rewriting (24053): an adaptation",
+  "craik-novels": "John Halifax, Gentleman and her other novels: not children's books"
+ }
+}
