@@ -1,0 +1,232 @@
+{
+ "about": "Topical and dictionary books keyed to KJV verse ids. pipeline/build_topical.py; rules in pipeline/README-topical.md",
+ "rights": {
+  "license": "public-domain",
+  "basis": "printed 1884-1897 in the United States; every author died before 1931",
+  "committed": "headings, the subtopic outline and verse references only; the dictionaries' prose stays in build/",
+  "redistribute_whole": true
+ },
+ "hitchcock": "joined by headword, letter for letter; the table is proper_names.py's (pinned there)",
+ "layers": {
+  "nave": {
+   "file": "data/topical/nave.jsonl",
+   "sha256": "e799e1d1f40c6706a2b9f8fda4c35a384724969179d7137c34f3235f0ae876e4",
+   "rows": 5322,
+   "counts": {
+    "committed": 77879,
+    "committed, printed": 64487,
+    "entries": 5322,
+    "entries_with_refs": 4673,
+    "headings_with_wording_not_in_print": 877,
+    "hitchcock_joined": 2326,
+    "names no KJV verse": 5,
+    "one reading, not printed": 311,
+    "refs_in_rows": 77879,
+    "repeat in one paragraph": 110,
+    "topics": 22259,
+    "topics_none_in_print": 393
+   },
+   "by_reading": {
+    "both": {
+     "refs": 77643,
+     "printed": 64207,
+     "share_printed": 0.827
+    },
+    "ccel-only": {
+     "refs": 291,
+     "printed": 40,
+     "share_printed": 0.1375
+    },
+    "reader-only": {
+     "refs": 371,
+     "printed": 311,
+     "share_printed": 0.8383
+    }
+   },
+   "scans": [
+    {
+     "scan": "navestopicalbibl0000orvi_h3u8",
+     "what": "1897, tesseract 5.3",
+     "refs_read": 65847,
+     "aligned": 59584
+    },
+    {
+     "scan": "navestopicalbibl00nave",
+     "what": "1903, ABBYY 8; NOT_IN_COPYRIGHT",
+     "refs_read": 65161,
+     "aligned": 56336
+    }
+   ],
+   "source": {
+    "title": "Nave's Topical Bible",
+    "author": "Orville J. Nave",
+    "printed": "Nave's Topical Bible: a digest of the Holy Scriptures (Lincoln, Neb.: Topical Bible Pub. Co., 1896/97)",
+    "edition": "Christian Classics Ethereal Library ThML",
+    "url": "https://ccel.org/ccel/n/nave/bible.xml",
+    "sha256": "dc58dd4e37d5af639f508a4c64657b40f5ccbe727f523b219ffaa70d661f619d",
+    "rights_line": "CCEL's file names no rights (DC.Rights empty); Nave died 1917 and the book was printed 1896/97. Its header's comment '(tr. William Whiston)' is a stray CCEL template line, not about this book."
+   }
+  },
+  "torrey": {
+   "file": "data/topical/torrey.jsonl",
+   "sha256": "f0183a0464e39045c1a876e41dc353497cc76086e75f270e78da5d0faf6922b7",
+   "rows": 623,
+   "counts": {
+    "committed": 38543,
+    "committed, printed": 36366,
+    "entries": 623,
+    "entries_with_refs": 623,
+    "headings_with_wording_not_in_print": 562,
+    "hitchcock_joined": 12,
+    "names no KJV verse": 2,
+    "one reading, not printed": 168,
+    "refs_in_rows": 38543,
+    "repeat in one paragraph": 1,
+    "topics": 21544,
+    "topics_none_in_print": 712
+   },
+   "by_reading": {
+    "both": {
+     "refs": 38436,
+     "printed": 36258,
+     "share_printed": 0.9433
+    },
+    "ccel-only": {
+     "refs": 136,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "reader-only": {
+     "refs": 142,
+     "printed": 110,
+     "share_printed": 0.7746
+    }
+   },
+   "scans": [
+    {
+     "scan": "newtopicaltextbo00torr",
+     "what": "1897 Revell; NOT_IN_COPYRIGHT",
+     "refs_read": 37939,
+     "aligned": 34718
+    },
+    {
+     "scan": "newtopicaltextbo0000revr",
+     "what": "1897 Revell, tesseract 5.3",
+     "refs_read": 29556,
+     "aligned": 23698
+    }
+   ],
+   "source": {
+    "title": "Torrey's New Topical Textbook",
+    "author": "R. A. Torrey",
+    "printed": "The New Topical Text Book (New York, Chicago: Fleming H. Revell, 1897)",
+    "edition": "Christian Classics Ethereal Library ThML",
+    "url": "https://ccel.org/ccel/t/torrey/ttt.xml",
+    "sha256": "e49a064b857b186c7250084a43b58afd5972c2dcba5869738e515d001968064b",
+    "rights_line": "CCEL's file names no rights (DC.Rights empty); the book was printed 1897."
+   }
+  },
+  "easton": {
+   "file": "data/topical/easton.jsonl",
+   "sha256": "446b61faf88ae211c564429ec2962722ef17c9ba266f0e5cfb450f2c820145a1",
+   "rows": 3964,
+   "counts": {
+    "apocrypha": 5,
+    "committed": 23649,
+    "committed, printed": 21005,
+    "entries": 3964,
+    "entries_with_refs": 3866,
+    "hitchcock_joined": 1768,
+    "names no KJV verse": 23,
+    "one reading, not printed": 293,
+    "refs_in_rows": 23317,
+    "repeat in one paragraph": 348
+   },
+   "by_reading": {
+    "both": {
+     "refs": 23466,
+     "printed": 20768,
+     "share_printed": 0.885
+    },
+    "ccel-only": {
+     "refs": 177,
+     "printed": 6,
+     "share_printed": 0.0339
+    },
+    "reader-only": {
+     "refs": 675,
+     "printed": 553,
+     "share_printed": 0.8193
+    }
+   },
+   "scans": [
+    {
+     "scan": "illustratedbible00east",
+     "what": "1893 first edition (N.Y.), ABBYY 8; the only open scan, and an earlier edition than CCEL's 1897",
+     "refs_read": 23876,
+     "aligned": 21327
+    }
+   ],
+   "source": {
+    "title": "Easton's Bible Dictionary",
+    "author": "M. G. Easton",
+    "printed": "Illustrated Bible Dictionary (London: T. Nelson, 1893; 3rd ed. 1897), per CCEL's printSourceInfo 1897",
+    "edition": "Christian Classics Ethereal Library ThML",
+    "url": "https://ccel.org/ccel/e/easton/ebd2.xml",
+    "sha256": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
+    "rights_line": "CCEL's file: DC.Rights 'Public Domain'; printSourceInfo 1897."
+   }
+  },
+  "smith": {
+   "file": "data/topical/smith.jsonl",
+   "sha256": "66d634660bc7bc7579b9d9422537c813694c23026dcc7e7a73a8643a2bbda814",
+   "rows": 4561,
+   "counts": {
+    "apocrypha": 172,
+    "committed": 10326,
+    "committed, printed": 8519,
+    "entries": 4561,
+    "entries_with_refs": 3297,
+    "hitchcock_joined": 2239,
+    "names no KJV verse": 77,
+    "one reading, not printed": 140,
+    "refs_in_rows": 10323,
+    "repeat in one paragraph": 333
+   },
+   "by_reading": {
+    "both": {
+     "refs": 10847,
+     "printed": 8829,
+     "share_printed": 0.814
+    },
+    "ccel-only": {
+     "refs": 169,
+     "printed": 47,
+     "share_printed": 0.2781
+    },
+    "reader-only": {
+     "refs": 32,
+     "printed": 14,
+     "share_printed": 0.4375
+    }
+   },
+   "scans": [
+    {
+     "scan": "dictionaryofbibl00smit_0",
+     "what": "1884 Porter and Coates (Peloubet), ABBYY 9; the edition CCEL's text is",
+     "refs_read": 16666,
+     "aligned": 8890
+    }
+   ],
+   "source": {
+    "title": "Smith's Bible Dictionary",
+    "author": "William Smith; revised and edited by F. N. and M. A. Peloubet",
+    "printed": "A Dictionary of the Bible ... revised and edited by F. N. and M. A. Peloubet (Philadelphia: Porter and Coates, 1884): the one-volume Sunday-school revision, NOT the 1860-63 three-volume work",
+    "edition": "Christian Classics Ethereal Library ThML",
+    "url": "https://ccel.org/ccel/s/smith_w/bibledict.xml",
+    "sha256": "f0aa85b544f70384e24715dcb172ea0b687f8d5646994335e84c8dc44e5aca43",
+    "rights_line": "CCEL's file: DC.Rights 'Public Domain'; printSourceInfo 1884."
+   }
+  }
+ }
+}

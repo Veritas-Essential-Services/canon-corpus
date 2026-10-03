@@ -153,6 +153,11 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
     python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
     python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
+    python3 pipeline/build_topical.py --fetch          # Nave, Torrey, Easton, Smith (CCEL) + their scans' OCR, pinned
+    python3 pipeline/build_topical.py                  # topical/dictionary layer -> data/topical/ (2-of-3 vote with print)
+    python3 pipeline/build_topical.py --check          # data/topical byte-identical
+    python3 pipeline/topical.py kjv:John.3.16          # every topic and article citing a verse
+    python3 tests/topical_test.py                      # the reference reader rule by rule; the committed layer
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -452,6 +457,15 @@ The living truth for project state is the Obsidian vault:
   a verse join it in build/xrefs/cited-by.jsonl (gitignored: CC BY-SA
   inputs). OpenBible.info (CC BY) measures it and is never an input. Rules
   and measurements: pipeline/README-xrefs.md
+- pipeline/build_topical.py (+ topical_read.py, topical.py) — Nave's, Torrey's,
+  Easton's and Smith's (Peloubet 1884, not the 1863 work) from CCEL's ThML,
+  keyed to KJV verse ids -> data/topical/*.jsonl (COMMITTED: headings, outline,
+  references; the dictionaries' prose only in build/topical/). A reference is
+  committed when 2 of 3 readings agree: CCEL's tag, an independent reader of
+  the displayed text, and the open archive.org scans' OCR aligned in order.
+  CCEL's Nave carries modern glosses (DONKEY, bronze): rows flag such wording
+  (`wording_not_in_print`). Hitchcock (no references) joins by headword.
+  pipeline/README-topical.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
