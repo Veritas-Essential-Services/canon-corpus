@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:08 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:10 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -121,6 +121,7 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 | William Bates | william-bates_shelf.json | 0 (none exists) | 6 (Whole Works 1815, vols 2-4; Harmony of the Divine Attributes 1831; Four Last Things 1826; Spiritual Perfection 1834) | Whole Works vol. 1 (no scan found) | a 19th-century namesake's lectures |
 | Ezekiel Hopkins | ezekiel-hopkins_shelf.json | 0 (none exists) | 3 (Works, Philadelphia: Leighton, ed. Quick, 1867-74, complete) | none | none |
 | Robert Traill | robert-traill_shelf.json | 0 (none exists) | 2 (Works, Edinburgh: Ogle 1810, 4 vols bound as two, complete) | none | Josephus in a namesake's translation |
+| George Gillespie | george-gillespie_shelf.json | 1 Gutenberg (Works vol. 1, 1846) | 1 (Aaron's Rod Blossoming, 1844) | Works vol. 2; Miscellany Questions (only a 1649 scan, OCR 75%) | collections by others |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

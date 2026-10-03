@@ -1105,6 +1105,16 @@ No CCEL or Gutenberg text. Raw IA OCR from Google scans; slugs `rtraill-*`.
 |---|---|---|
 | Works, 4 vols in 2 (Edinburgh: Ogle, 1810): the Throne of Grace, sixteen sermons on the Lord's Prayer in John 17, the Steadfast Adherence to the Profession of our Faith, eleven sermons, the Vindication of the Protestant Doctrine of Justification | have-raw | IA (identifiers in the shelf) |
 | Glasgow (1775) and 1796 editions; Select Practical Writings (1845) | alternate | IA |
+
+## George Gillespie (round 7, my pick, 2026-10-02)
+
+Slugs `gillespie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vol. 1 (Edinburgh: Ogle, 1846, ed. Hetherington): Dispute against the English Popish Ceremonies, Assertion of the Government of the Church of Scotland and more | have-clean | Gutenberg 26849 |
+| Aaron's Rod Blossoming (1844) | have-raw | IA |
+| Works, vol. 2; A Treatise of Miscellany Questions | pending | no usable scan (the 1649 one OCRs at 75%) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

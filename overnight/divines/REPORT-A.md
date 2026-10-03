@@ -301,3 +301,6 @@
 
 ## 2026-10-02 21:08 CDT — robert-traill done
 - `pipeline/robert-traill_shelf.json`: 2 bindings holding all 4 volumes (each volume's title page found in the text), raw IA OCR, 94.2-95.2%, about 2.8 MB. Google scans, but the alternatives are long-s 18th-century editions or a one-volume selection. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:10 CDT — george-gillespie done
+- `pipeline/george-gillespie_shelf.json`: 1 Gutenberg book (Works vol. 1, 1846; its transcriber's note and title page name the edition) and 1 IA scan (Aaron's Rod, 1844, 94.5%). The 1649 Miscellany Questions was fetched, scored 74.9%, and moved to `_pending` rather than shelved. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
