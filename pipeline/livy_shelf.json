@@ -64,6 +64,11 @@
    "The History of Rome by Titus Livius, translated from the original with notes and illustrations (first American from the last London edition; New York: Peter A. Mesier and others, 1823), vols. I-VI in one file",
    "The History of Rome by Titus Livius, Volumes 1-6, translated by George Baker (1823)_djvu.txt",
    "tr. George Baker"
+  ],
+  "livy-church-brodribb-21-25-1883": [
+   "livybook2125seco00livy",
+   "Livy, Books XXI-XXV: The Second Punic War (Macmillan, 1883)",
+   "tr. Alfred John Church and William Jackson Brodribb"
   ]
  },
  "_excluded": {
@@ -97,7 +102,8 @@
   "livy-foster-v3": "B. O. Foster",
   "livy-holland": "Philemon Holland",
   "livy-baker-1823": "George Baker",
-  "livy-perseus-roberts-the-history-of-rome": "Canon Roberts"
+  "livy-perseus-roberts-the-history-of-rome": "Canon Roberts",
+  "livy-church-brodribb-21-25-1883": "Alfred John Church"
  },
  "_checks": {
   "livy-bohn-1-8": {
@@ -238,6 +244,19 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "Title page read: New York, Peter A. Mesier and others, J. Maxwell, printer, 1823; the IA record carries no date. Baker's translation first appeared in 1797."
+  },
+  "livy-church-brodribb-21-25-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "Alfred John Church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -254,5 +273,6 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
- }
+ },
+ "_translator_unchecked": {}
 }
