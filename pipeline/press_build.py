@@ -195,12 +195,26 @@ def qa(doc, md):
     return q
 
 # --------------------------------------------------------------------- build
+def keyed_from(doc):
+    """The print edition CCEL keyed its file from (ThML <published>), which is
+    often a modern reprint and is not stated in DC.Rights."""
+    return ((doc.get("meta") or {}).get("published") or "").rstrip(" .")
+
 def note_on_text(e, slug, doc, applied, src_path):
     s = e["source"]
     if s["kind"] == "ccel":
         where = (f"This text is set from {s['edition']} (ccel.org/ccel/{s['path']}). The Christian Classics "
                  f"Ethereal Library's markup was read for structure, italics, footnotes and scripture "
                  f"references; its own introductions and indexes were not used.")
+        keyed = keyed_from(doc)
+        if keyed and keyed.lower().split()[0] in ("the", "banner") and "banner" in keyed.lower():
+            proofed = os.path.exists(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"))
+            where += (f" CCEL keyed it from a modern photographic reprint ({keyed}) of that edition; the "
+                      f"reprint's own preface and editorial matter were not used. The text "
+                      + ("has been proofed" if proofed else "is still to be proofed")
+                      + " against a scan of the 19th-century printing itself.")
+        elif keyed:
+            where += f" CCEL keyed it from {keyed}."
     elif s["kind"] == "gutenberg":
         where = f"This text is set from {s['edition']}, with the Project Gutenberg header and licence removed."
     elif s["kind"] == "tcp":
@@ -291,6 +305,8 @@ def build(slug, cat):
         os.replace(target + ".tmp." + ext, target)
         log += [l for l in r.stderr.splitlines() if l.strip()]
     q = qa(doc, md)
+    if e["source"]["kind"] == "ccel":
+        q["keyed_from"] = keyed_from(doc) or "not stated"
     q["pandoc_warnings"] = log[:30]
     q["corrections_applied"] = len(applied)
     q["source_sha256"] = sha256(path)
@@ -314,9 +330,12 @@ def qa_report(cat):
          "Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-extract (OCR of a "
          "scan, proofed by two engines). Page notes: footnotes kept at their page's foot because the scan "
          "lost their call marks. Unread: places marked ⟨•⟩ / ⟨word⟩ / ⟨Greek or Hebrew⟩ that a person must "
-         "supply from a page image. Rare unknown words: the proofing worklist.", "",
-         "| Book | Source | Words | Paras | Notes | Page notes | Scripture refs (tagged) | KJV ids | Ref problems | Unbalanced “” | Unread | Rare unknown words | Corrections |",
-         "|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|"]
+         "supply from a page image. Rare unknown words: the proofing worklist. Keyed from: for a CCEL "
+         "file, the print edition CCEL says it keyed from (its <published> field, not its rights line); "
+         "a Banner of Truth reprint of Goold is a photographic reprint, so the book is proofed against "
+         "the 1850s Goold scan.", "",
+         "| Book | Source | Keyed from | Words | Paras | Notes | Page notes | Scripture refs (tagged) | KJV ids | Ref problems | Unbalanced “” | Unread | Rare unknown words | Corrections |",
+         "|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|"]
     for slug in sorted(cat["titles"]):
         p = os.path.join(OUT, slug, "qa.json")
         if not os.path.exists(p):
@@ -325,7 +344,7 @@ def qa_report(cat):
         mdp = os.path.join(OUT, slug, f"{slug}.md")
         md = open(mdp, encoding="utf-8").read() if os.path.exists(mdp) else ""
         unread = md.count("⟨•⟩") + md.count("⟨word⟩") + md.count("⟨…⟩") + md.count("⟨Greek or Hebrew⟩")
-        L.append(f"| {slug} | {cat['titles'][slug]['source']['kind']} | {q['words']:,} | {q['paragraphs']:,} | "
+        L.append(f"| {slug} | {cat['titles'][slug]['source']['kind']} | {q.get('keyed_from', '')} | {q['words']:,} | {q['paragraphs']:,} | "
                  f"{q['footnotes']} | {q.get('page_notes', 0)} | "
                  f"{q['scripture_refs']:,} ({q['scripture_refs_tagged']:,}) | {q['scripture_verse_ids']:,} | "
                  f"{len(q['ref_problems'])} | {q['unbalanced_double_quotes']} | {unread} | "
