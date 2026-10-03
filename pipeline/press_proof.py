@@ -35,7 +35,7 @@ import bisect, difflib, gzip, json, os, re, subprocess, sys, time, unicodedata, 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, ".."))
 sys.path.insert(0, HERE)
-import press_build, press_render
+import press_abbyy, press_build, press_render
 
 IA_DIR = os.path.join(ROOT, "data", "corpus", "press", "ia")
 
@@ -228,17 +228,26 @@ def _safe_tess(ident, leaf):
         print(f"leaf {leaf}: {e}", file=sys.stderr)
 
 # ------------------------------------------------------------- driver
-def proof(slug, use_tess=True):
+def proof(slug, use_tess=True, volume=None):
+    """`volume`: for a work printed across two volumes of its edition, collate
+    against this other volume of the shelf (one of the catalog's
+    scan.more_volumes); its sheet is written beside the first, never over it."""
     cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
     e = cat["titles"][slug]
     scan = e.get("scan")
     if not scan:
         raise SystemExit(f"{slug}: the catalog names no scan of its edition (\"scan\")")
+    if volume:
+        if volume not in scan.get("more_volumes", []):
+            raise SystemExit(f"{slug}: {volume} is not among the catalog's scan.more_volumes")
+        scan = dict(scan, volume=volume)
+        scan.pop("ia", None)
     if "ia" in scan:
         ident = scan["ia"]
     else:
         shelf = json.load(open(os.path.join(HERE, f"{scan['shelf']}_shelf.json"), encoding="utf-8"))
         ident = shelf["internet_archive"][scan["volume"]][0]
+    sheet = slug + (f"--{volume}" if volume else "")
     doc = press_build.convert(slug, e, press_build.source_file(slug, e))
     a = book_tokens(doc)
     b, printed = ocr_witness(ident)
@@ -367,9 +376,9 @@ def proof(slug, use_tess=True):
            "counts": {v: sum(1 for f in findings if (f.get("verdict") if f["kind"] != "absent-from-scan" else f["kind"]) == v)
                       for v in ("confirmed", "upheld", "review", "absent-from-scan")},
            "checked": time.strftime("%Y-%m-%d")}
-    press_build.atomic_write(os.path.join(press_build.OUT, slug, "proof.json"),
+    press_build.atomic_write(os.path.join(press_build.OUT, slug, f"proof{sheet[len(slug):]}.json"),
                              json.dumps(res, indent=1, ensure_ascii=False))
-    write_sheet(slug, e, res)
+    write_sheet(slug, e, res, sheet)
     return res
 
 def write_rules(slug, ident, doc, findings):
@@ -413,11 +422,13 @@ def write_rules(slug, ident, doc, findings):
     if rules:
         press_build.atomic_write(p, json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
 
-def write_sheet(slug, e, res):
+def write_sheet(slug, e, res, sheet=None):
+    sheet = sheet or slug
     c = res["counts"]
+    cmd = slug + (f" --volume {sheet[len(slug) + 2:]}" if sheet != slug else "")
     L = [f"# Proof sheet: {e['title']}", "",
          f"`{slug}` collated word by word against archive.org `{res['scan']}` "
-         f"({res['checked']}; `python3 pipeline/press_proof.py {slug}`).", "",
+         f"({res['checked']}; `python3 pipeline/press_proof.py {cmd}`).", "",
          f"- Words in the book: {res['book_words']:,}; aligned to the scan: {res['aligned_words']:,} "
          f"({res['coverage']:.1%})",
          f"- Transcription errors confirmed by the scan and corrected: **{c['confirmed']}** "
@@ -437,7 +448,7 @@ def write_sheet(slug, e, res):
             loc = ", ".join(f"{l} ({p})" if p else str(l) for l, p in zip(f["leaf"], f["page"]))
             L.append(f"| {n} | {f['a'] or '∅'} | {f['b'] or '∅'} | {f.get('c', '')} | {loc} | "
                      f"…{f['before'][-25:]} ⟨⟩ {f['after'][:25]}… |")
-    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
+    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{sheet}.md"), "\n".join(L) + "\n")
 
 
 
@@ -469,10 +480,12 @@ def book_tokens_leaves(doc):
                 pos = m.end()
     return toks
 
-def tess_tokens(ident, leaves):
+def tess_tokens(ident, leaves, imgs=None):
+    """`imgs`: leaf -> served image number (press_abbyy.image_index); the
+    tokens keep the ABBYY leaf, the page read is the image of that leaf."""
     out = []
     for leaf in leaves:
-        txt = re.sub(r"-\s*\n\s*(?=[a-z])", "", tess_page(ident, leaf))
+        txt = re.sub(r"-\s*\n\s*(?=[a-z])", "", tess_page(ident, (imgs or {}).get(leaf, leaf)))
         for t in TOKEN.finditer(txt):
             n = norm(t.group(0))
             if n:
@@ -506,10 +519,11 @@ def proof_ocr(slug):
                                             encoding="utf-8"))["internet_archive"][src["volume"]][0]
     lo, hi = src["leaves"]
     leaves = list(range(lo, hi + 1))
-    prefetch(ident, leaves)
+    imgs = press_abbyy.image_index(ident)
+    prefetch(ident, [imgs.get(l, l) for l in leaves])
     doc = press_build.convert(slug, e, press_build.source_file(slug, e))
     a = book_tokens_leaves(doc)
-    b = tess_tokens(ident, leaves)
+    b = tess_tokens(ident, leaves, imgs)
     ops, _, _ = align(a, b, k=4)
     words = press_build.wordlist()
     ok = lambda w: press_build.known(w, words)
@@ -592,5 +606,6 @@ if __name__ == "__main__":
         print(json.dumps({k: r[k] for k in ("book_words", "agreeing_words", "agreement", "ocr_fixes_new",
                                               "ocr_fixes_total", "upheld")}, ensure_ascii=False), "review", len(r["review"]))
     else:
-        r = proof(slug, use_tess="--no-tess" not in sys.argv)
+        vol = sys.argv[sys.argv.index("--volume") + 1] if "--volume" in sys.argv else None
+        r = proof(slug, use_tess="--no-tess" not in sys.argv, volume=vol)
         print(json.dumps({k: r[k] for k in ("book_words", "scan_words", "aligned_words", "coverage", "counts")}))

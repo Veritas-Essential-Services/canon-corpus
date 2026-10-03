@@ -11,6 +11,7 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | baxter-reformed-pastor | ccel |  | 88,383 | 422 | 0 | 0 | 27 (26) | 26 | 1 | 0 | 0 | 39 | 0 |
 | binning-christian-love | gutenberg |  | 22,740 | 64 | 18 | 0 | 165 (165) | 171 | 0 | 0 | 0 | 96 | 0 |
 | bolton-christian-freedom | tcp |  | 88,203 | 943 | 428 | 0 | 416 (416) | 330 | 5 | 0 | 81 | 1841 | 0 |
+| boston-crook-in-the-lot | ia-extract |  | 46,600 | 424 | 0 | 1 | 571 (571) | 489 | 4 | 0 | 0 | 239 | 4 |
 | bridge-lifting-up | ia-extract |  | 121,921 | 720 | 26 | 52 | 161 (161) | 158 | 5 | 0 | 0 | 840 | 0 |
 | brooks-ark-for-noahs | tcp |  | 86,212 | 388 | 433 | 0 | 664 (664) | 923 | 11 | 0 | 51 | 509 | 0 |
 | brooks-heaven-on-earth | tcp |  | 141,662 | 516 | 1341 | 0 | 1,160 (1,160) | 1,193 | 10 | 0 | 533 | 1106 | 0 |
@@ -56,10 +57,11 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | rhb-triumphing-over-sinful-fear | tcp |  | 40,032 | 381 | 46 | 0 | 178 (178) | 185 | 5 | 0 | 238 | 481 | 0 |
 | rhb-turn-and-live | tcp |  | 23,302 | 217 | 0 | 0 | 103 (103) | 117 | 3 | 0 | 87 | 169 | 0 |
 | rutherford-letters | gutenberg |  | 341,280 | 5,249 | 0 | 0 | 551 (551) | 572 | 6 | 0 | 0 | 630 | 0 |
-| sibbes-bruised-reed | ia-extract |  | 43,352 | 495 | 13 | 25 | 288 (288) | 270 | 7 | 0 | 0 | 296 | 0 |
+| sibbes-bruised-reed | ia-extract |  | 43,352 | 494 | 13 | 25 | 288 (288) | 270 | 7 | 0 | 0 | 296 | 0 |
 | sibbes-glorious-feast | tcp |  | 54,756 | 361 | 385 | 0 | 40 (40) | 42 | 3 | 0 | 23 | 478 | 0 |
 | sibbes-glorious-freedom | tcp |  | 71,988 | 538 | 404 | 0 | 14 (14) | 11 | 1 | 0 | 316 | 709 | 0 |
 | sibbes-heavenly-conference | tcp |  | 49,854 | 280 | 347 | 0 | 94 (94) | 94 | 6 | 0 | 124 | 351 | 0 |
+| sibbes-josiahs-reformation | ia-extract |  | 40,164 | 350 | 8 | 0 | 137 (137) | 148 | 3 | 0 | 0 | 98 | 2 |
 | sibbes-love-of-christ | tcp |  | 129,465 | 1,118 | 1236 | 0 | 360 (360) | 339 | 5 | 0 | 1001 | 1383 | 0 |
 | swinnock-incomparableness | tcp |  | 60,845 | 318 | 21 | 0 | 1,022 (1,022) | 999 | 14 | 0 | 13 | 337 | 0 |
 | traill-justification-vindicated | tcp |  | 17,995 | 93 | 0 | 0 | 55 (55) | 79 | 1 | 0 | 4 | 97 | 0 |

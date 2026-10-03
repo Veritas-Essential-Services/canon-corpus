@@ -31,6 +31,26 @@ def _fetch(ident):
     dest = os.path.join(IA_DIR, f"{ident}_abbyy.gz")
     return press_build.fetch(f"https://archive.org/download/{ident}/{ident}_abbyy.gz", dest)
 
+def image_index(ident):
+    """leaf -> n of the image archive.org serves as /page/n{n}.jpg. The ABBYY
+    file has a page for every leaf scanned; the served images skip the leaves
+    the scandata marks addToAccessFormats=false (deleted leaves, colour
+    cards), so after a deleted leaf the two count differently (Boston's Works
+    vol. 3 is five apart by leaf 505). Without a scandata file: n = leaf."""
+    dest = os.path.join(IA_DIR, f"{ident}_scandata.xml")
+    try:
+        root = ET.parse(press_build.fetch(f"https://archive.org/download/{ident}/{ident}_scandata.xml",
+                                          dest)).getroot()
+    except Exception:
+        return {}
+    out, n = {}, 0
+    for p in root.iter("page"):
+        if (p.findtext("addToAccessFormats") or "true").strip() == "false":
+            continue
+        out[int(p.get("leafNum"))] = n
+        n += 1
+    return out
+
 def parse(path):
     pages = []
     page = par = line = None

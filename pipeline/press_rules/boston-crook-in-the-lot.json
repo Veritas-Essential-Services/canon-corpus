@@ -1,0 +1,28 @@
+{
+ "corrections": [
+  {
+   "find": "SOYEEEIGNTY AND WISDOM OF GOD",
+   "replace": "THE SOVEREIGNTY AND WISDOM OF GOD",
+   "why": "OCR misread SOVEREIGNTY and missed the small THE set above it",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  },
+  {
+   "find": "ON EccLES. vii. 13. Peov. xvi. 19. and",
+   "replace": "ON Eccles. vii. 13. Prov. xvi. 19. and",
+   "why": "OCR misread the small capitals",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  },
+  {
+   "find": "ON THE NATURE OP",
+   "replace": "ON THE NATURE OF",
+   "why": "OCR",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  },
+  {
+   "find": "FROM 1 CoR. X. 17.",
+   "replace": "from 1 Cor. x. 17.",
+   "why": "OCR misread the small capitals",
+   "evidence": "title page, archive.org wholeworksoflate03bost leaf 509 (served image n504); read against the page image"
+  }
+ ]
+}

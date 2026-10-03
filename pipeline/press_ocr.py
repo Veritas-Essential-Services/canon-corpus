@@ -32,7 +32,7 @@ import difflib, json, os, re, statistics, sys
 from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import press_abbyy, press_build
+import press_abbyy, press_build, press_render
 from press_thml import esc, guard_start, wrap
 from press_text import Doc, tag_refs
 
@@ -285,6 +285,10 @@ def convert(path, slug, e):
         n0 = len(d.blocks)
         from_leaf = carry_leaf if carry is not None else None
         head, body, notes = classify_page(page, bfs, known_heads)
+        if page["i"] in src.get("text_leaves", ()):
+            # a page the catalog says has no notes: its small type (a closing
+            # paragraph the OCR measured small) is text
+            body, notes = body + notes, []
         pn = printed_page(head)
         fixes = fixes_by_leaf.get(page["i"], [])
         anchor = f"[]{{#{slug}-p{re.sub(r'[^0-9A-Za-z]', '', pn or str(page['i']))} .pb n=\"{pn or ''}\" leaf=\"{page['i']}\"}}"
@@ -317,6 +321,21 @@ def convert(path, slug, e):
                                               and len(raw.split()) >= 2)))
             sub = centred_italic(par, col) and len(letters) >= 3
             is_head = is_head and not sub
+            last = d.blocks[-1] if d.blocks else {}
+            if sub and last.get("k") == "para" and last.get("md", "").endswith("*") \
+                    and not re.search(r"[.?!:;,]\W*$", press_render.plain(last["md"])):
+                # the second line of an italic text verse, centred under the
+                # first: it finishes that sentence and is no sub-heading
+                if first_body:
+                    md, first_body = anchor + md, False
+                last["md"] += " " + md
+                continue
+            if is_head and first_body and like_head(raw, known_heads) and any(
+                    x.get("k") == "heading" and difflib.SequenceMatcher(
+                        None, head_key(x["md"]), head_key(raw)).ratio() >= 0.8 for x in d.blocks):
+                # the running head again, at the top of a page whose page number
+                # the OCR lost: the sermon's title is already set above
+                continue
             words_n = len(raw.split())
             if is_head and col and words_n <= 4 and d.blocks and d.blocks[-1].get("k") == "para" \
                     and par["box"][0] > (col[0] + col[1]) / 2 - 0.05 * (col[1] - col[0]):

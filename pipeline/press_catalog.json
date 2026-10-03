@@ -495,11 +495,14 @@
     "kind": "ccel",
     "path": "o/owen/pneum",
     "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vols. 3-4, CCEL transcription",
-    "proof_note": "The proof (2026-10-03) collated the book against the Goold vol. 3 scan only: 54% of the words aligned, because the later books of the Pneumatologia (1677-1693) are printed in vol. 4 (archive.org worksofjohnowe185004owen is still to be proofed against). The vol. 3 part is proofed."
+    "proof_note": "The work runs across Goold vols. 3 and 4: the later books of the Pneumatologia (1677-1693) are printed in vol. 4. Each volume has its own proof sheet (owen-holy-spirit.md for vol. 3, owen-holy-spirit--owen-works-goold-04.md for vol. 4); against either alone, only that volume's share of the words aligns."
    },
    "scan": {
     "shelf": "owen",
-    "volume": "owen-works-goold-03"
+    "volume": "owen-works-goold-03",
+    "more_volumes": [
+     "owen-works-goold-04"
+    ]
    },
    "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
   },
@@ -639,7 +642,16 @@
     "kind": "ia-extract",
     "shelf": "sibbes",
     "volume": "sibbes-works-grosart-6",
-    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 6"
+    "edition": "The Complete Works of Richard Sibbes, ed. Alexander B. Grosart (Edinburgh: James Nichol, 1862-64), vol. 6",
+    "leaves": [
+     42,
+     105
+    ],
+    "contents": "Grosart prints Josiah's Reformation (1629) as four sermons on 2 Chron. 34:26-28: The Tender Heart, The Art of Self-Humbling, The Art of Mourning, The Saint's Refreshing (leaves 42-105, found with press_ocr.py --heads).",
+    "titlepage": {
+     "leaf": 43,
+     "from": "JOSIAHS REFORMATION"
+    }
    }
   },
   "sibbes-glorious-feast": {
@@ -852,7 +864,19 @@
     "kind": "ia-extract",
     "shelf": "boston",
     "volume": "boston-works-03",
-    "edition": "The Whole Works of Thomas Boston, ed. Samuel M'Millan (Aberdeen: George and Robert King, 1848-52), vol. 3"
+    "edition": "The Whole Works of Thomas Boston, ed. Samuel M'Millan (Aberdeen: George and Robert King, 1848-52), vol. 3",
+    "leaves": [
+     509,
+     604
+    ],
+    "titlepage": {
+     "leaf": 509,
+     "from": "^S[O0][VYE]",
+     "until": "^TO THE READER"
+    },
+    "text_leaves": [
+     604
+    ]
    },
    "note": "CCEL's 'crook' is a MODERNISED rewrite (2000, 'savvy name' for 'good name'): never used."
   },
