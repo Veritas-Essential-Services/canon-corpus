@@ -323,3 +323,15 @@ Thornwell, Dabney, Hodge, Samuel Miller, the Alexanders and Gardiner Spring are 
 | Stuart Robinson, The Church of God as an Essential Element of the Gospel (1858) | have-raw | `stuart-robinson_shelf.json` |
 | F. R. Beattie, The Presbyterian Standards (1896); Apologetics, vol. I (1903) | have-raw | `francis-beattie_shelf.json` |
 | Ashbel Green, Lectures on the Shorter Catechism (2 vols, 1841) | have-raw | `ashbel-green_shelf.json` |
+
+## New England theology
+
+Edwards, Bellamy, Samuel Hopkins, Timothy Dwight and Stoddard are on lane A's shelves; these are the next generation, the New Divinity and the Old Calvinists who fought Taylor's New Haven theology.
+
+| Work | Status | Where |
+|---|---|---|
+| Emmons, Works, ed. Ide (6 vols, 1842, and vol. VII, 1850) | have-raw | `nathanael-emmons_shelf.json`; Park's 1860s edition not title-checked |
+| Leonard Woods, Works (5 vols, 1849-1851) | have-raw | `leonard-woods_shelf.json` |
+| Tyler, Memoir of Nettleton (2nd ed., 1845); Nettleton's Remains (1845) | have-raw | `asahel-nettleton_shelf.json` |
+| Tyler, Letters on the New Haven Theology (1837), New England Revivals (1846), Sufferings of Christ (1847), Lectures on Theology (1859) | have-raw | `bennet-tyler_shelf.json`; Review of Day on the Will (1838) pending |
+| Griffin, Sermons, with Sprague's memoir (2 vols, 1838); Park Street Lectures (1813) | have-raw | `edward-griffin_shelf.json` |

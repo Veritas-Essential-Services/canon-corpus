@@ -1,0 +1,74 @@
+{
+ "_about": "Edward Dorr Griffin (1770-1837), pastor of Park Street Church, Boston, and president of Williams College: Sermons, with a memoir by William B. Sprague (Albany: Packard, Van Benthuysen, 1838, 2 vols), and A Series of Lectures delivered in Park Street Church (2nd ed., Boston: Nathaniel Willis, 1813). Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "edward d. griffin",
+  "edward dorr griffin",
+  "e. d. griffin",
+  "dr. griffin",
+  "dr griffin"
+ ],
+ "_surname": [
+  "edward d. griffin",
+  "edward dorr griffin",
+  "e. d. griffin",
+  "dr. griffin",
+  "dr griffin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "griffin-sermons-1": [
+   "sermonsbylaterev01grif",
+   "Sermons by the late Rev. Edward D. Griffin, with a memoir by William B. Sprague (Albany, 1838), vol. I"
+  ],
+  "griffin-sermons-2": [
+   "sermonsbylaterev02grif",
+   "Sermons by the late Rev. Edward D. Griffin, with a memoir by William B. Sprague (Albany, 1838), vol. II"
+  ],
+  "griffin-park-street-lectures-1813": [
+   "seriesoflectures00grif",
+   "A Series of Lectures delivered in Park Street Church, Boston, 2nd ed. (Boston: Nathaniel Willis, 1813)"
+  ]
+ },
+ "_alternates": {
+  "sermonsged01grif (NYPL, 1839), sermons01spragoog": "Other copies of the Sermons.",
+  "seriesoflectures1829grif": "A later printing of the Lectures.",
+  "memoirofrevedwar00spra (1838), memoirofedwarddo00nash (1842)": "Sprague's memoir issued separately; Nash's memoir."
+ },
+ "_excluded": {},
+ "_checks": {
+  "griffin-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward d. griffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "griffin-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward d. griffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "griffin-park-street-lectures-1813": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward d. griffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
