@@ -1241,6 +1241,17 @@ Slugs `andrewes-*`.
 | Ninety-Six Sermons, 5 vols (Oxford: Parker, 1841-43, Library of Anglo-Catholic Theology) | have-raw | IA (identifiers in the shelf) |
 | A Pattern of Catechistical Doctrine, and Other Minor Works (Oxford, 1846) | have-raw | IA |
 | Private Devotions (the Latin), tr. J. M. Neale | pending | not yet looked for |
+
+
+## Joseph Butler (round 8, my pick, 2026-10-02)
+
+Slugs `butler-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Analogy of Religion, with Two Brief Dissertations | have-clean | CCEL |
+| Fifteen Sermons Preached at the Rolls Chapel | have-clean | CCEL |
+| Works, ed. W. E. Gladstone, 2 vols (Oxford: Clarendon Press, 1896) | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

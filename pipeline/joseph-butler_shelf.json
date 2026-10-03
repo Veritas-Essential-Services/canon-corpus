@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Joseph Butler (1692-1752, Bishop of Durham) for the Word Hoard: the Analogy of Religion and the Fifteen Sermons Preached at the Rolls Chapel clean from CCEL, and W. E. Gladstone's edition of the Works (Oxford: Clarendon Press, 1896, 2 vols), raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/butler",
+ "_name_words": [
+  "butler",
+  "joseph"
+ ],
+ "_surname": [
+  "butler"
+ ],
+ "_held": {},
+ "ccel": {
+  "butler-analogy": [
+   "analogy",
+   "The Analogy of Religion, Natural and Revealed, with Two Brief Dissertations",
+   ""
+  ],
+  "butler-rolls-sermons": [
+   "sermons",
+   "Fifteen Sermons Preached at the Rolls Chapel",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "butler-works-gladstone-1": [
+   "worksofjosephbut01butl_0",
+   "The Works of Joseph Butler, ed. W. E. Gladstone, vol. 1 (Oxford: Clarendon Press, 1896)"
+  ],
+  "butler-works-gladstone-2": [
+   "worksofjosephbut02butl_1",
+   "The Works of Joseph Butler, ed. W. E. Gladstone, vol. 2 (Oxford: Clarendon Press, 1896)"
+  ]
+ },
+ "_alternates": {
+  "butler-works-gladstone": "other scans of the 1896 Gladstone set: a549168701butluoft and a549168702butluoft (Toronto; no _djvu.txt), worksofjosephbut01butl, worksofjosephbut02butl_0; Gladstone's Studies Subsidiary (1896, studiessubsidiar00gladrich) not shelved"
+ },
+ "_excluded": {},
+ "_checks": {
+  "butler-analogy": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "butler",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "butler-rolls-sermons": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "butler",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "butler-works-gladstone-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-works-gladstone-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

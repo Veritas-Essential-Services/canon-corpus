@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:41 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:50 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -142,6 +142,7 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Richard Hooker | richard-hooker_shelf.json | 1 CCEL (Learned Discourse of Justification) | 3 (Works, ed. Keble, Oxford 1836, complete, with the Laws of Ecclesiastical Polity) | none | CCEL's three stub volumes; the Folger edition (in copyright); school editions with modern notes |
 | Jeremy Taylor | jeremy-taylor_shelf.json | 2 CCEL (Holy Living, Holy Dying) | 10 (Whole Works, ed. Heber, rev. Eden, London: Longman, 1847-54, complete) | none | modern selections and editions with in-copyright notes |
 | Lancelot Andrewes | lancelot-andrewes_shelf.json | 1 CCEL (Preces Privatae, the Greek Devotions, tr. Newman) | 6 (Ninety-Six Sermons, Oxford 1841-43, 5 vols; Pattern of Catechistical Doctrine, 1846) | the Latin Devotions (Neale), not yet found | modern editions with in-copyright notes |
+| Joseph Butler | joseph-butler_shelf.json | 2 CCEL (Analogy of Religion; Fifteen Sermons at the Rolls Chapel) | 2 (Works, ed. W. E. Gladstone, Oxford 1896) | none | Gladstone's Studies Subsidiary (commentary, not Butler) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
