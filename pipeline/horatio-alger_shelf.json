@@ -1,0 +1,59 @@
+{
+ "_about": "Horatio Alger's first two street-boy books: Ragged Dick (preface dated April 1868) and Tattered Tom (1871). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Horatio Alger, Jr.",
+ "_name_words": [
+  "alger"
+ ],
+ "_surname": [
+  "horatio alger, jr.",
+  "horatio alger jr.",
+  "horatio alger"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "alger-ragged-dick": [
+   5348,
+   "Ragged Dick, Or, Street Life in New York with the Boot-Blacks",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-tattered-tom": [
+   54006,
+   "Tattered Tom; or, The Story of a Street Arab",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.? [A-Z].*$",
+      "max": 120,
+      "strip": "\\.$"
+     }
+    ],
+    "start": "CHAPTER I\\. ",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "alger-ragged-dick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatio alger jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tattered-tom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

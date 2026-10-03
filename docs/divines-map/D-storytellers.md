@@ -2907,6 +2907,15 @@ Shelf: `pipeline/aloe_shelf.json` (2026-10-02; added at the coordinator's relay 
 | The Rambles of a Rat | have | PG 29863, `aloe-rambles-of-a-rat` (680 units) |
 | Pride and His Prisoners | have | PG 60149, `aloe-pride-and-his-prisoners` (1128 units) |
 
+## Horatio Alger, Jr.
+
+Shelf: `pipeline/horatio-alger_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two street-boy stories; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ragged Dick, Or, Street Life in New York with the Boot-Blacks | have | PG 5348, `alger-ragged-dick` (1932 units) |
+| Tattered Tom; or, The Story of a Street Arab | have | PG 54006, `alger-tattered-tom` (2178 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
