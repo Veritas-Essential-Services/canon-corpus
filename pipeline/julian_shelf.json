@@ -29,7 +29,7 @@
  ],
  "_translators": {
   "julian-wright-v2": "Wilmer Cave Wright",
-  "julian-king-1888": "King"
+  "julian-king-1888": "C. W. King"
  },
  "_checks": {
   "julian-wright-v2": {
@@ -49,7 +49,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "julian",
-   "translator_claimed": "King",
+   "translator_claimed": "C. W. King",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1888",
