@@ -589,3 +589,6 @@
 
 ## 2026-10-03 06:10 CDT — henry-hammond done
 - `pipeline/henry-hammond_shelf.json`: 8 IA volumes, title pages read. Greek measured per Paraphrase volume: 0 / 36,496 / 0 / 163,028. `--verify --record`: 0 mismatched. OCR 97.4% mean, lowest Misc. Works vol. 2 91.6%. 0 uids minted.
+
+## 2026-10-03 06:14 CDT — robert-sanderson done
+- `pipeline/robert-sanderson_shelf.json`: 6 IA volumes, title pages read. Vol. 2 is a "0000"-style id, title page read (Oxford 1854) and recorded in `_rights_checked`; vol. 4's title page OCR reads "Egbert Sanderson", recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

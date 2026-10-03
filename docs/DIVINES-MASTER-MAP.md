@@ -2032,6 +2032,15 @@ Slugs `hammond-*`.
 | A Paraphrase and Annotations upon the New Testament, 4 vols (Oxford, 1845) | have-ocr | IA; Greek in vols. 2 and 4 only (vols. 1 and 3 have 0 Greek characters) |
 | A Practical Catechism (LACT, 1847) | have-ocr | IA |
 | Miscellaneous Theological Works, 3 vols (LACT, 1847-50; vol. 3 is the Thirty-one Sermons) | have-ocr | IA, OCR 91.6-98.5% |
+
+## Robert Sanderson (round 13, my pick, 2026-10-03)
+
+Slugs `sanderson-works-0N`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. William Jacobson, 6 vols (Oxford, 1854): sermons (vols. 1-3), Latin lectures on oaths and conscience (vol. 4), cases of conscience (vol. 5), Latin logic (vol. 6) | have-ocr | IA; the English-vocabulary OCR score reads low for the Latin vols. 4 (84.9%) and 6 (88.5%) |
+| De Obligatione Conscientiae, ed. Whewell (Cambridge, 1851) | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

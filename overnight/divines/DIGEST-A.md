@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:10 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:14 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -251,6 +251,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | Henry Hammond | henry-hammond_shelf.json | none | 8 (Paraphrase and Annotations on the NT, 4 vols, Oxford 1845; Practical Catechism, LACT 1847; Miscellaneous Theological Works, LACT, 3 vols 1847-50) | none | none |
+| Robert Sanderson | robert-sanderson_shelf.json | none | 6 (Works, ed. Jacobson, Oxford 1854; vols. 4 and 6 mostly Latin) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
