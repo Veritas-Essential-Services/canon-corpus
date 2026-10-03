@@ -42,6 +42,11 @@
    "poemsofcaiusvale01catuiala",
    "The Poems of Caius Valerius Catullus in English verse, with the Latin text revised, vol. I (London: J. Johnson, 1795; Latin facing)",
    "tr. anonymous (IA catalogue: John Nott)"
+  ],
+  "catullus-hart-davies-1879": [
+   "catullus01catu",
+   "Catullus translated into English verse (London: Kegan Paul, 1879)",
+   "tr. Thomas Hart-Davies"
   ]
  },
  "_excluded": {
@@ -143,6 +148,17 @@
    "ia_date": "1795",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "catullus-hart-davies-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {
@@ -151,6 +167,7 @@
  },
  "_translator_unchecked": {
   "catullus-tibullus-kelly-erotica-1854": "title page OCRs the name as 'WALTEE K. KELLY' (Bohn, MDCCCLIV); the claim is not matched as written",
-  "catullus-nott-1795-v1": "the title page names no translator (published anonymously); John Nott is the IA catalogue's attribution only"
+  "catullus-nott-1795-v1": "the title page names no translator (published anonymously); John Nott is the IA catalogue's attribution only",
+  "catullus-hart-davies-1879": "title page names T. Hart-Davies, Bombay Civil Service (London: C. Kegan Paul, 1879); the OCR reads 'HAKT^DAVIES'"
  }
 }
