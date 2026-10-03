@@ -1,0 +1,32 @@
+{
+ "_about": "West African Folk-Tales (London: Harrap, MCMXVII = 1917), Anansi and other Gold Coast tales collected and arranged by W. H. Barker and Cecilia Sinclair. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "W. H. Barker and Cecilia Sinclair",
+ "_name_words": [
+  "barker",
+  "sinclair"
+ ],
+ "_surname": [
+  "barker",
+  "sinclair"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "barker-sinclair-west-african-folk-tales": [
+   66923,
+   "West African Folk-Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "barker-sinclair-west-african-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
