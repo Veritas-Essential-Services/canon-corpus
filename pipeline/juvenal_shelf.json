@@ -54,6 +54,11 @@
    "cu31924009519681",
    "Thirteen Satires of Juvenal translated into English, new and revised edition (Macmillan, 1902)",
    "tr. Alexander Leeper"
+  ],
+  "juvenal-persius-owen-1786": [
+   "atranslationjuv00persgoog",
+   "A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI)",
+   "tr. Edward Owen"
   ]
  },
  "_cross_ref": {
@@ -77,7 +82,8 @@
   "juvenal-badham-1814": "Charles Badham",
   "juvenal-hodgson-1807": "Francis Hodgson",
   "persius-wollaston-1841": "Wollaston",
-  "juvenal-leeper-1902": "Leeper"
+  "juvenal-leeper-1902": "Leeper",
+  "juvenal-persius-owen-1786": "Owen"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -194,6 +200,19 @@
    "ia_rights": "ok: published 1902",
    "ia_date": "1902",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "juvenal-persius-owen-1786": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "Owen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1786",
+   "ia_date": "1786",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
