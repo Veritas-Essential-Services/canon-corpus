@@ -28,10 +28,20 @@
    "The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing)",
    "2015.99822.The-Institutio-Oratoria-Of-Quintilianvol1_djvu.txt",
    "tr. H. E. Butler"
+  ],
+  "quintilian-watson-v1-1903": [
+   "cu31924075437685",
+   "Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition)",
+   "tr. John Selby Watson"
+  ],
+  "quintilian-watson-v2-1856": [
+   "cu31924075437677",
+   "Quintilian's Institutes of Oratory, vol. II (Bohn, 1856)",
+   "tr. John Selby Watson"
   ]
  },
  "_excluded": {
-  "Watson, Bohn (1856)": "no scan located; pending",
+  "Watson, Bohn (1856)": "now held: quintilian-watson-v1-1903 (Bell's 1903 reprint from the 1856 stereotype plates) and quintilian-watson-v2-1856",
   "institutioorator01quinuoft, institutioorator02quinuoft": "no text layer"
  },
  "_surname": [
@@ -42,7 +52,8 @@
   "quintilian-butler-v2": "H. E. Butler",
   "quintilian-butler-v3": "H. E. Butler",
   "quintilian-butler-v4": "H. E. Butler",
-  "quintilian-butler-v1-1921": "H. E. Butler"
+  "quintilian-butler-v1-1921": "H. E. Butler",
+  "quintilian-watson-v1-1903": "John Selby Watson"
  },
  "_checks": {
   "quintilian-butler-v2": {
@@ -97,6 +108,30 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
+  },
+  "quintilian-watson-v1-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "John Selby Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quintilian-watson-v2-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {
@@ -104,5 +139,8 @@
  },
  "_rights_checked": {
   "quintilian-butler-v1-1921": "Imprint read: 'First printed 1921, Printed in Great Britain', no reprint, revision or addendum line; no year after 1930 anywhere in the file (the 1980 Bibliographical Addendum that held quintilian-butler-v1 back is absent). The half-title lists later series editors (Post, Warmington), so the physical copy is a later impression of the unrevised text. Replaces the held quintilian-butler-v1."
+ },
+ "_translator_unchecked": {
+  "quintilian-watson-v2-1856": "title page OCRs the name as 'JOHN SELBT ■W;ATS0N' (Bohn, 1856); the claim is not matched as written"
  }
 }

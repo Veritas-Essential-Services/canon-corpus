@@ -1593,6 +1593,8 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX | H. E. Butler | `quintilian-butler-v3` | have-raw (IA `institutioorator03quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 4: Books X-XII | H. E. Butler | `quintilian-butler-v4` | have-raw (IA `institutioorator04quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing) | H. E. Butler | `quintilian-butler-v1-1921` | have-raw (IA `in.ernet.dli.2015.99822`) |
+| Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
+| Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
 Pending (wishlist): Watson's Bohn (no scan located)
 
