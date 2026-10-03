@@ -491,3 +491,6 @@
 
 ## 2026-10-03 02:31 CDT — gardiner-spring done
 - `pipeline/gardiner-spring_shelf.json`: 5 IA volumes of raw OCR, median 97.1% (96.5-98.5%). The two First Things volumes print his name as "gardiner'^pring" and "GARDINER SFRINQ" in the OCR; both are in `_identity_checked` with the reading quoted. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:31 CDT — samuel-miller done
+- `pipeline/samuel-miller_shelf.json`: 6 IA volumes of raw OCR, median 95.6% (94.5-97.3%). The Ruling Elder copy carries the Presbyterian Board of Publication imprint, and that Board was founded in 1838, so this printing is later than the 1832 IA catalogues (an inference; its copyright year is illegible). `--verify --record`: 0 mismatched. 0 uids minted.

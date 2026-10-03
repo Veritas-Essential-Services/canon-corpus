@@ -1760,3 +1760,16 @@ Slugs `gspring-*`.
 | A Dissertation on the Rule of Faith (1844) | have-raw | IA |
 | A Pastor's Tribute to One of His Flock (Carter, 1849) | have-raw | IA |
 | First Things (Dodd, fourth edition, 1855), vols 1-2 | have-raw | IA |
+
+
+## Samuel Miller (round 11, my pick, 2026-10-03)
+
+Slugs `smiller-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters on Clerical Manners and Habits (Carvill, 1827) | have-raw | IA (identifiers in the shelf) |
+| An Essay on the Office of the Ruling Elder (Presbyterian Board of Publication; catalogued 1832) | have-raw | IA |
+| Infant Baptism Scriptural and Reasonable (1835) | have-raw | IA |
+| A Continuation of Letters concerning the Christian Ministry (1809) | have-raw | IA |
+| A Brief Retrospect of the Eighteenth Century (Swords, 1803), vols 1-2 | have-raw | IA |

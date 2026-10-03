@@ -1273,10 +1273,12 @@
     },
     {
       "id": "samuel-miller",
-      "status": "queued",
+      "status": "done",
       "scope": "Samuel Miller: Letters on Clerical Manners, The Ruling Elder (d. 1850)",
       "added": "2026-10-03T02:10:52-05:00",
-      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch)."
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:31:09-05:00",
+      "notes": "6 IA volumes"
     },
     {
       "id": "gardiner-spring",
