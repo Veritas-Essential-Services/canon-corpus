@@ -1529,8 +1529,10 @@
     {
       "id": "dracott",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: dracott; no minting",
-      "status": "running",
-      "started": "2026-10-03T02:27:06-05:00"
+      "status": "done",
+      "started": "2026-10-03T02:27:06-05:00",
+      "finished": "2026-10-03T02:34:43-05:00",
+      "notes": "1/1 fetched (Gutenberg 58816), 1,117 units, 0 ~2 ids."
     },
     {
       "id": "wratislaw",

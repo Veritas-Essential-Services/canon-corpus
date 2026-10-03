@@ -7152,6 +7152,14 @@ Shelf: `pipeline/howes_shelf.json` (2026-10-02; added at the coordinator's relay
 | Wonderwings and other Fairy Stories | have | PG 20366, `howes-wonderwings` (116 units) |
 | The Sun's Babies | have | PG 38063, `howes-suns-babies` (1019 units) |
 
+## Alice Elizabeth Dracott
+
+Shelf: `pipeline/dracott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Folk tales she collected around Simla; cut by tale, with her notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Simla Village Tales; Or, Folk Tales from the Himalayas | have | PG 58816, `dracott-simla-village-tales` (1117 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
