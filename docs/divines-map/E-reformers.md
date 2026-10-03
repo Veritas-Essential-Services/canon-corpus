@@ -357,12 +357,10 @@ Owen, Goodwin, Sibbes, Manton, Perkins, Preston, Burroughs, Brooks, Watson and t
 
 ## Particular Baptists and the Calvinist evangelicals
 
-Bunyan, Gill, Andrew Fuller, Spurgeon, Toplady, Romaine and Hervey are on lane A's shelves.
+Bunyan, Gill, Andrew Fuller, Spurgeon, Toplady, Romaine, Hervey, Abraham Booth and Benjamin Keach are on lane A's shelves. One printing lane A may want to add later: the New York edition of Booth's Reign of Grace with Thomas Chalmers's introductory essay (archive.org `reignofgracefrom00boot_0`).
 
 | Work | Status | Where |
 |---|---|---|
-| Abraham Booth, The Reign of Grace (New York, with Chalmers's essay), Glad Tidings to Perishing Sinners (1797), Paedobaptism Examined (3 vols, 1829) | have-raw | `abraham-booth_shelf.json` |
-| Benjamin Keach, An Exposition of the Parables (1858) | have-raw | `benjamin-keach_shelf.json`; Tropologia and Travels of True Godliness pending |
 | Tobias Crisp, Christ Alone Exalted, with Gill's notes (7th ed., 1832), vol. II | have-raw | `tobias-crisp_shelf.json`; vol. I pending on an archive server error |
 | Robert Hawker of Plymouth, Works, ed. Williams (10 vols, 1831) | have-raw | `robert-hawker_shelf.json`; the Poor Man's Commentary is published separately |
 
