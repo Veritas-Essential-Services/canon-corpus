@@ -2003,6 +2003,9 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | The Extant Odes of Pindar | Ernest Myers | `pindar-myers` | have (PG 10717) |
 | The Odes of Pindar, literally translated into English prose (Bohn; 1872 printing) | Dawson W. Turner (prose) and Abraham Moore (verse) | `pindar-turner-moore` | have-raw (IA `odespindarliter00moorgoog`) |
 | — | — | `cary-pindar` | cross-ref → lane C, pipeline/cary_shelf.json (Cary, 1833) |
+| Pindar in English Verse (London: Edward Moxon, 1833) | Henry Francis Cary | `pindar-cary-1833` | have-raw (IA `pindarinenglish00carygoog`) |
+| Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749) | Gilbert West (verse; selected odes) | `pindar-west-1749` | have-raw (IA `bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749`) |
+| The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 
