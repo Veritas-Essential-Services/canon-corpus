@@ -29,7 +29,10 @@ cites the second and later headings of the same name under the same parent as
 Without-Death" twice in Curtin's Russian tales), so their paragraphs neither
 collide nor run on as one tale. A heading is counted only once a paragraph is
 cited under it, so a Contents list of bare headings (with or without a
-"start") uses up no number. With "front": true
+"start") uses up no number; "repeat_continues": true instead ignores a heading that
+repeats the one already open at that level (nothing deeper open), so a title
+reprinted at a page break mid-chapter neither restarts the paragraph count
+nor splits the chapter (M. R. James's Old Testament Legends). With "front": true
 and a "start", nothing before the start is read as a heading: a Contents that
 repeats the chapter headings would otherwise file the front matter under the
 last chapter it lists. Front matter is cited "front, par. n".
@@ -63,6 +66,7 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
     KEEP = [bool(l.get("keep")) for l in levels]
     STRIP = [re.compile(l["strip"]) if l.get("strip") else None for l in levels]
     NUMBER = [bool(l.get("number_repeats")) for l in levels]
+    CONT = [bool(l.get("repeat_continues")) for l in levels]
     seen_heads = {}                    # (level, parent path, name) -> times seen
     to_number = set()                  # number_repeats levels whose new heading holds no text yet
     heads = [None] * len(LV)
@@ -91,6 +95,9 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
         hit = next((i for i, (rx, _) in enumerate(LV) if len(p) < MAX[i] and rx.match(p)), None)
         if hit is not None:
             lab = next((v for k, v in LABEL[hit] if k.match(p)), None)
+            name_ = lab or (STRIP[hit].sub("", p) if STRIP[hit] else p).rstrip(".")
+            if CONT[hit] and name_ == heads[hit] and not any(heads[hit + 1:]):
+                continue               # the same heading reprinted mid-section: the text runs on
             heads[hit] = lab or (STRIP[hit].sub("", p) if STRIP[hit] else p).rstrip(".")
             for j in range(hit + 1, len(heads)):
                 heads[j] = None

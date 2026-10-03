@@ -88,5 +88,12 @@ u = convert("CONTENTS\n\nTHE DEAD.\n\nTHE DEAD.\n\nTHE BEAR.\n\nTHE DEAD.\n\nOne
 check("number_repeats: a start that matches a Contents line numbers nothing too high",
       [x["ref"] for x in u if x["ref"].startswith("THE")] == ["THE DEAD, par. 1", "THE DEAD (2), par. 1"], [x["ref"] for x in u])
 
+# 6. repeat_continues: a heading reprinted mid-section is ignored and the count runs on;
+#    the same name after another heading is a new section.
+u = convert("ADAM\n\nOne.\n\nADAM\n\nTwo.\n\nEVE\n\nThree.\n\nADAM\n\nFour.",
+            [{"re": "[A-Z]+$", "repeat_continues": True}])
+check("repeat_continues runs on through a reprinted heading",
+      [x["ref"] for x in u] == ["ADAM, par. 1", "ADAM, par. 2", "EVE, par. 1", "ADAM, par. 1"], [x["ref"] for x in u])
+
 print(f"{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)
