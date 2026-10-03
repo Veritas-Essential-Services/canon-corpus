@@ -1534,6 +1534,18 @@ Slugs `fwrobertson-*`.
 |---|---|---|
 | Sermons Preached at Brighton, third series | have-clean | Gutenberg 16645 |
 | Sermons Preached at Brighton, 4 vols (London: H. S. King, 1875) | have-raw | IA (identifiers in the shelf) |
+
+
+## John Eadie (round 10, my pick, 2026-10-03)
+
+Slugs `eadie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Commentary on the Greek Text of Ephesians (Edinburgh: T. and T. Clark, 1883) | have-raw | IA (identifier in the shelf) |
+| Commentary on the Greek Text of Galatians (Edinburgh: T. and T. Clark, 1869) | have-raw | IA |
+| Commentary on the Greek Text of Thessalonians (London: Macmillan, 1877) | pending | archive.org errors |
+| Commentary on the Greek Text of Philippians | excluded | only copy found is a 1977 reprint |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

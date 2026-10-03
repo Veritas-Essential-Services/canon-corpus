@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:33 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 01:36 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -185,6 +185,7 @@ Round 9 was done by 01:10 CDT on 3 October. Round 10 turns to the biblical schol
 | R. C. Trench | r-c-trench_shelf.json | 4 PG (On the Study of Words; English Past and Present; A Select Glossary; Proverbs and Their Lessons) | 3 (Synonyms of the New Testament, 1901; Notes on the Parables, Appleton, catalogued 1855; Notes on the Miracles, 1883) | none | his poems (verse); an anthology of others' poems |
 | John Brown of Edinburgh | john-brown-edinburgh_shelf.json | none | 4 (Discourses and Sayings of Our Lord, Carter 1854, 2 vols; Romans, 1857; First Peter, Carter) | none | 1956-58 reprints on IA |
 | F. W. Robertson | f-w-robertson_shelf.json | 1 PG (Sermons Preached at Brighton, third series) | 4 (Sermons Preached at Brighton, London: H. S. King, 1875, 4 vols) | none | the Everyman rearrangement (1906) |
+| John Eadie | john-eadie_shelf.json | none | 2 (Ephesians, T. and T. Clark 1883; Galatians, 1869) | Thessalonians 1877 (archive.org HTTP 500 on every try) | Philippians: the only copy, catalogued 1894, is a 1977 Klock and Klock reprint |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

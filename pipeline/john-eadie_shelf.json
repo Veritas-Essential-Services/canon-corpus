@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain John Eadie (1810-1876, United Presbyterian professor of biblical literature, Glasgow) for the Word Hoard: his commentaries on the Greek text of Ephesians (Edinburgh: T. and T. Clark, 1883) and Galatians (1869), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "e/eadie",
+ "_name_words": [
+  "eadie",
+  "john"
+ ],
+ "_surname": [
+  "john eadie",
+  "j. eadie",
+  "eadie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eadie-ephesians-1883": [
+   "acommentaryonthe00eadiuoft",
+   "A Commentary on the Greek Text of the Epistle of Paul to the Ephesians (Edinburgh: T. and T. Clark, 1883)"
+  ],
+  "eadie-galatians-1869": [
+   "commentaryontheg00eadiuoft",
+   "Commentary on the Greek Text of the Epistle of Paul to the Galatians (Edinburgh: T. and T. Clark, 1869)"
+  ]
+ },
+ "_alternates": {
+  "eadie": "Colossians (1856) and Ephesians (1861) survive only as microfilm stubs here; the 1883 Ephesians from James and Klock is a later reprint, avoided; Philippians: no pre-1930 scan found yet"
+ },
+ "_excluded": {
+  "eadie-philippians-1894": "bwb_P7-CIV-298: catalogued 1894 (T. and T. Clark), but by its own front matter a 1977 Klock and Klock reprint; the date gate passed it. Not shelved."
+ },
+ "_checks": {
+  "eadie-ephesians-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john eadie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eadie-galatians-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john eadie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "eadie-thessalonians-1877": "greektexte00eadiuoft (A Commentary on the Greek Text of the Epistles of Paul to the Thessalonians (London: Macmillan, 1877)): archive.org returned HTTP 500 on every try, 2026-10-03; retry later. The other copy (commentaryongree0000john) is unchecked."
+ }
+}

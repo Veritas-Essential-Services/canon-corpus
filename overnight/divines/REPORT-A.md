@@ -426,3 +426,6 @@
 
 ## 2026-10-03 01:33 CDT — f-w-robertson done
 - `pipeline/f-w-robertson_shelf.json`: 1 Gutenberg text (rights line checked) and the 1875 King set, 4 volumes of raw IA OCR, median 98.6% (98.3-98.9%), about 3.4 MB; title pages read (King, 1875). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:36 CDT — john-eadie done
+- `pipeline/john-eadie_shelf.json`: Ephesians and Galatians, raw IA OCR, 94.5% and 96.7%, about 2.7 MB; title pages read (1883, MDCCCLXIX). A Philippians catalogued 1894 was fetched and then dropped: its front matter says Klock and Klock reprint, 1977. That is the second reprint today the date gate passed (after Trapp); see Defects in the digest. Thessalonians is pending (HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
