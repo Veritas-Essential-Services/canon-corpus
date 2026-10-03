@@ -379,3 +379,19 @@ Calvin, Bullinger's Decades and the Zurich Letters (Parker Society), Ursinus and
 | Olevianus, An Exposition of the Symbole of the Apostles (1581) | have-raw | `caspar-olevianus_shelf.json` |
 | Marlorat, Expositions on John (tr. Tymme, 1575), Mark and Luke (1583) and the Revelation (1574) | have-raw | `augustin-marlorat_shelf.json`; Matthew (1570) pending on an archive timeout |
 | Viret, A Christian Instruction, tr. Shute (1573); The Christian Disputations (1579) | have-raw | `pierre-viret_shelf.json` |
+
+## Westminster divines and later Puritans
+
+Owen, Goodwin, Manton, Watson, Brooks, Burroughs, Bridge, Charnock, Flavel, Howe, Baxter, Joseph Alleine, Swinnock and Vincent are on lane A's shelves. These are the Westminster Assembly men and London Puritans that no shelf held. Most survive only in their first printings, so most are Early English Books Online scans with long-s OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| Obadiah Sedgwick, The Fountain Opened (1657), The Shepherd of Israel (1658), The Anatomy of Secret Sins (1660), The Humbled Sinner Resolved (1660), The Bowels of Tender Mercy (1661) | have-raw | `obadiah-sedgwick_shelf.json`; the Parable of the Prodigal pending on an archive server error |
+| Anthony Burgess, Vindiciae Legis (1647), The True Doctrine of Justification (2nd ed., 1651), Spirituall Refinings (1658), Original Sin (1658), The Scripture Directory (1659), 2 Corinthians 1 (1661) | have-raw | `anthony-burgess_shelf.json`; the 145 sermons on John 17 not found |
+| Edward Polhill, The Divine Will Considered (1673), Precious Faith (1675), Speculum Theologiae (1678), Armatura Dei, Christus in Corde (3rd ed., 1823), Essay on the Extent of the Death of Christ (1842) | have-raw | `edward-polhill_shelf.json` |
+| Richard Alleine, Heaven Opened (Religious Tract Society) | have-raw | `richard-alleine_shelf.json`; Vindiciae Pietatis and two other books whose title pages print only "R. A." pending |
+| Thomas Case, Correction, Instruction (3rd ed., 1653) | have-raw | `thomas-case_shelf.json` |
+| Ralph Robinson, Christ All and in All (1656) | have-raw | `ralph-robinson_shelf.json` |
+| Thomas Doolittle, The Lord's Supper (2nd ed., 1668), Love to Christ (1693), The Saints Mansions (1698) | have-raw | `thomas-doolittle_shelf.json` |
+| Samuel Ward of Ipswich, collected Sermons and Treatises (1636) | have-raw | `samuel-ward_shelf.json` |
+| The Morning Exercises, ed. James Nichols (1844-45), vols. II, IV and VI; The Morning Exercise Methodized (1660) | have-raw | `morning-exercises_shelf.json`; vols. I, III and V not found on IA |

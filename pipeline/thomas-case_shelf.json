@@ -1,0 +1,48 @@
+{
+ "_about": "Thomas Case (1598-1682), member of the Westminster Assembly, founder of the Morning Exercise: Correction, Instruction, or a Treatise of Afflictions, sermons preached at Aldermanbury, third edition (London, 1653). Early English Books Online scans of first or early printings; the OCR prints the long s ('ſ') and old type, so expect errors. The Morning Exercise Methodized (1660), which he organised, is on the morning-exercises shelf. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas case",
+  "tho. case",
+  "mr. case"
+ ],
+ "_surname": [
+  "thomas case",
+  "tho. case",
+  "mr. case"
+ ],
+ "_identity_checked": {
+  "case-correction-instruction-1653": {
+   "author": "The OCR breaks the name: the title page reads 'By Tho. Cassz, M. A. sometimes Student of Ch. Ch. ... Preacher of the Gospel in London. The Third Edition', and the commendatory letter that follows is addressed 'To my Reverend Friend, Mr Thomas Case, Minister of the Gospel'."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "case-correction-instruction-1653": [
+   "bim_early-english-books-1641-1700_correction-instruction_case-thomas_1653",
+   "Correction, Instruction, or a Treatise of Afflictions, 3rd ed. (London, 1653)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_correction-instruction_case-thomas_1653_0, _1653_1, correction-instruction-_case-thomas_1671": "Other scans and printings."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_the-excellent-woman-_case-thomas_1659": "OCR too poor (about a quarter common words).",
+  "bim_early-english-books-1641-1700_gods-waiting-to-be-graci_case-thomas_1642, two-sermons-lately-preac_case-thomas_1642, the-challenge-and-triump_case-thomas_1659, -or-the-va_case-thomas_1655": "Single sermons, not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "case-correction-instruction-1653": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1653",
+   "ia_date": "1653",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

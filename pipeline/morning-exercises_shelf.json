@@ -1,0 +1,88 @@
+{
+ "_about": "The Morning Exercises, the London Puritan lecture series of 1659-1689: The Morning Exercises at Cripplegate, St Giles in the Fields, and in Southwark, fifth edition, carefully collated and corrected, with notes and translations by James Nichols (London: Thomas Tegg, 1844-1845, in six volumes), vols. II, IV and VI; and The Morning Exercise Methodized, sermons by several ministers in the monthly course of the Morning Exercise at Giles in the Fields, May 1659 (London, 1660), the series Thomas Case organised. Volume numbers read off the title pages. The name check is the series name. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "morning exercise",
+  "morning exercises",
+  "morning-exercise"
+ ],
+ "_surname": [
+  "morning exercise",
+  "morning exercises",
+  "morning-exercise"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "morning-exercises-nichols-2": [
+   "morningexercise00nichgoog",
+   "The Morning Exercises, ed. James Nichols (London, 1844), vol. II, the conclusion of the Supplement"
+  ],
+  "morning-exercises-nichols-4": [
+   "morningexercise01nichgoog",
+   "The Morning Exercises, ed. James Nichols (London, 1844), vol. IV"
+  ],
+  "morning-exercises-nichols-6": [
+   "morningexercises06nich",
+   "The Morning Exercises, ed. James Nichols (London, 1845), vol. VI"
+  ],
+  "morning-exercise-methodized-1660": [
+   "morni00case",
+   "The Morning Exercise Methodized (London, 1660)"
+  ]
+ },
+ "_alternates": {
+  "morningexercise02nichgoog": "Google copy of vol. VI (1845)."
+ },
+ "_pending": {
+  "Nichols vols. I, III and V": "No scan found on IA.",
+  "cripplegatestgil0006seve, puritansermons160001unse": "The 1981 Richard Owen Roberts reprint; not taken.",
+  "bim_early-english-books-1641-1700_the-morning-exercise-at-_annesley-samuel_1661, a-supplement-to-the-morn_annesley-samuel_1676": "17th-century first printings, not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "morning-exercises-nichols-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morning exercise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morning-exercises-nichols-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morning exercise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morning-exercises-nichols-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morning exercise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morning-exercise-methodized-1660": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morning exercise",
+   "identity": "ok",
+   "ia_rights": "ok: published 1660",
+   "ia_date": "1660",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

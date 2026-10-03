@@ -1,0 +1,78 @@
+{
+ "_about": "Thomas Doolittle (1630?-1707), ejected minister of St Alphage, London Wall, and Baxter's pupil: A Treatise concerning the Lord's Supper, with three dialogues, second edition (London, 1668); Love to Christ Necessary to Escape the Curse at his Coming (London, 1693); and The Saints Mansions in Heaven, the funeral sermon for Elizabeth Brookes (London, 1698). Early English Books Online scans of first or early printings; the OCR prints the long s ('ſ') and old type, so expect errors. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "thomas doolittle",
+  "tho. doolittle",
+  "doolittle"
+ ],
+ "_surname": [
+  "thomas doolittle",
+  "tho. doolittle",
+  "doolittle"
+ ],
+ "_identity_checked": {
+  "doolittle-lords-supper-1668": {
+   "author": "The OCR breaks the name: the title page reads 'A TREATISE Concerning the LORDS SUPPER: With Three Dialogues for the more full Information of the Weak ... By Tho. DoorrtrtErLL. The Second Edition', the title of Doolittle's book."
+  }
+ },
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "doolittle-lords-supper-1668": [
+   "bim_early-english-books-1641-1700_a-treatise-concerning-th_doolittle-thomas_1668",
+   "A Treatise concerning the Lord's Supper, 2nd ed. (London, 1668)"
+  ],
+  "doolittle-love-to-christ-1693": [
+   "bim_early-english-books-1641-1700_love-to-christ-necessar_doolittle-thomas_1693",
+   "Love to Christ Necessary to Escape the Curse at his Coming (London, 1693)"
+  ],
+  "doolittle-saints-mansions-1698": [
+   "bim_early-english-books-1641-1700_the-saints-mansions-_doolittle-thomas_1698",
+   "The Saints Mansions in Heaven (London, 1698)"
+  ]
+ },
+ "_alternates": {
+  "bim_early-english-books-1641-1700_a-treatise-concerning-th_doolittle-thomas_1683, _1687, _1700_1 and the 18th-century printings": "Later printings of the Lord's Supper."
+ },
+ "_pending": {
+  "bim_early-english-books-1641-1700_captives-bound-in-chains_doolittle-thomas_1674": "OCR too poor (about a quarter common words).",
+  "bim_early-english-books-1641-1700_a-spiritual-antidote-_doolittle-thomas_1665, the-mourners-directory-_doolittle-thomas_1693, earthquakes-explained-_doolittle-thomas_1693, a-plain-method-of-catech_doolittle-thomas_1699": "Not yet title-checked."
+ },
+ "_excluded": {},
+ "_checks": {
+  "doolittle-lords-supper-1668": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1668",
+   "ia_date": "1668",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doolittle-love-to-christ-1693": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tho. doolittle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1693",
+   "ia_date": "1693",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "doolittle-saints-mansions-1698": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tho. doolittle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1698",
+   "ia_date": "1698",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
