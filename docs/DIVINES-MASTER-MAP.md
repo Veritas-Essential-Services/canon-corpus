@@ -959,8 +959,10 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | Virgil, vol. 2: Aeneid VII-XII, Minor Poems (Loeb, 1918) | H. Rushton Fairclough | `virgil-fairclough-v2` | have-raw (IA `virgil0002hrus`) |
 | The Georgics and Eclogues of Virgil (1915) | Theodore Chickering Williams | `virgil-williams-georgics-eclogues` | have-raw (IA `georgicseclogues1915virg`) |
 | The Æneid of Virgil (1872) | Christopher Pearse Cranch | `virgil-cranch-aeneid` | have-raw (IA `cu31924026565428`) |
+| The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 1 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v1` | have-raw (IA `aeneidofvirgiltr01virguoft`) |
+| The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 2 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v2` | have-raw (IA `aeneidofvirgil6402virguoft`) |
 
-Pending (wishlist): Gavin Douglas's Eneados (1513, Scots), a landmark witness.
+Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
 Excluded: PG 228 (Dryden; lane C), PG 20144 (a single book alongside Voltaire), PG 54717 (stage adaptations), PG 66399 (excerpts), `poemsvirgil00magoog` (no text layer).
 
