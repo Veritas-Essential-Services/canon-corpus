@@ -1,0 +1,162 @@
+{
+ "_about": "Thornton W. Burgess's (1874-1965) animal stories for children published before 1929: the Mother West Wind books and the twenty Bedtime Story-Books (Reddy Fox through Old Man Coyote). US public domain for these books; clean Gutenberg text. His nature handbooks and later books are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Thornton W. Burgess",
+ "_name_words": [
+  "mother",
+  "west",
+  "wind",
+  "adventures"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burgess-old-mother-west-wind": [
+   2557,
+   "Old Mother West Wind"
+  ],
+  "burgess-mother-west-winds-children": [
+   20877,
+   "Mother West Wind's Children",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-mother-west-winds-animal-friends": [
+   39706,
+   "Mother West Wind's Animal Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-mother-west-wind-why": [
+   14958,
+   "Mother West Wind \"Why\" Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-mother-west-wind-how": [
+   21286,
+   "Mother West Wind \"How\" Stories"
+  ],
+  "burgess-mother-west-wind-when": [
+   46988,
+   "Mother West Wind \"When\" Stories"
+  ],
+  "burgess-mother-west-wind-where": [
+   17250,
+   "Mother West Wind \"Where\" Stories"
+  ],
+  "burgess-reddy-fox": [
+   1825,
+   "The Adventures of Reddy Fox",
+   {
+    "chapre_only": "[IVXL]+\\. [A-Z].*"
+   }
+  ],
+  "burgess-johnny-chuck": [
+   5844,
+   "The Adventures of Johnny Chuck"
+  ],
+  "burgess-peter-cottontail": [
+   46866,
+   "The Adventures of Peter Cottontail"
+  ],
+  "burgess-unc-billy-possum": [
+   14732,
+   "The Adventures of Unc' Billy Possum",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-mr-mocker": [
+   11915,
+   "The Adventures of Mr. Mocker"
+  ],
+  "burgess-jerry-muskrat": [
+   5110,
+   "The Adventures of Jerry Muskrat",
+   {
+    "chapre_only": "CHAPTER [IVXL]+: .*"
+   }
+  ],
+  "burgess-danny-meadow-mouse": [
+   25301,
+   "The Adventures of Danny Meadow Mouse",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-grandfather-frog": [
+   14375,
+   "The Adventures of Grandfather Frog",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-chatterer": [
+   37952,
+   "The Adventures of Chatterer the Red Squirrel",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-sammy-jay": [
+   43596,
+   "The Adventures of Sammy Jay"
+  ],
+  "burgess-buster-bear": [
+   22816,
+   "The Adventures of Buster Bear",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-old-mr-toad": [
+   12630,
+   "The Adventures of Old Mr. Toad",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-prickly-porky": [
+   15521,
+   "The Adventures of Prickly Porky",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-old-man-coyote": [
+   46952,
+   "The Adventures of Old Man Coyote"
+  ],
+  "burgess-paddy-beaver": [
+   19092,
+   "The Adventures of Paddy the Beaver"
+  ],
+  "burgess-poor-mrs-quack": [
+   5846,
+   "The Adventures of Poor Mrs. Quack"
+  ],
+  "burgess-bobby-coon": [
+   46951,
+   "The Adventures of Bobby Coon"
+  ],
+  "burgess-jimmy-skunk": [
+   21015,
+   "The Adventures of Jimmy Skunk",
+   {
+    "contents_only": true
+   }
+  ],
+  "burgess-bob-white": [
+   46950,
+   "The Adventures of Bob White"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "burgess-duplicates": "Paddy the Beaver (PG 2493), Danny Meadow Mouse (25529), Lightfoot the Deer (4670): other transcriptions or later titles",
+  "burgess-later": "Lightfoot, Whitefoot, Blacky, Old Granny Fox, Bowser, Happy Jack, Mrs. Peter Rabbit, Buster Bear's Twins, Billy Mink, Little Joe Otter, Wishing-Stone Stories, The Christmas Reindeer and the Boy Scout books: candidates for a later batch, each to be checked against the 1929 line",
+  "burgess-handbooks": "the Burgess Animal and Bird Books (PG 2441, 3074, 23708, 23709): natural history, not story"
+ }
+}

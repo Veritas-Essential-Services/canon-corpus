@@ -694,7 +694,9 @@
     {
       "id": "burgess",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: burgess; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T20:07:53-05:00",
+      "notes": "26/26 fetched (Gutenberg 2557, 20877, 39706, 14958, 21286, 46988, 17250, 1825, 5844, 46866, 14732, 11915, 5110, 25301, 14375, 37952, 43596, 22816, 12630, 15521, 46952, 19092, 5846, 46951, 21015, 46950), 9,353 units, 22 ~2 ids."
     },
     {
       "id": "lagerlof",

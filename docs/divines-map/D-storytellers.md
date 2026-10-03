@@ -1454,6 +1454,42 @@ Shelf: `pipeline/stockton_shelf.json` (2026-10-02; added at the coordinator's re
 | Fanciful Tales, ed. Mary E. Burt (school edition, 1922 copyright) | have | PG 71032, `stockton-fanciful-tales` (650 units) |
 | stockton-adult | excluded | The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch |
 
+## Thornton W. Burgess
+
+Shelf: `pipeline/burgess_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Mother West Wind books and the twenty Bedtime Story-Books, all before 1929, cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Mother West Wind | have | PG 2557, `burgess-old-mother-west-wind` (427 units) |
+| Mother West Wind's Children | have | PG 20877, `burgess-mother-west-winds-children` (697 units) |
+| Mother West Wind's Animal Friends | have | PG 39706, `burgess-mother-west-winds-animal-friends` (654 units) |
+| Mother West Wind "Why" Stories | have | PG 14958, `burgess-mother-west-wind-why` (523 units) |
+| Mother West Wind "How" Stories | have | PG 21286, `burgess-mother-west-wind-how` (433 units) |
+| Mother West Wind "When" Stories | have | PG 46988, `burgess-mother-west-wind-when` (376 units) |
+| Mother West Wind "Where" Stories | have | PG 17250, `burgess-mother-west-wind-where` (419 units) |
+| The Adventures of Reddy Fox | have | PG 1825, `burgess-reddy-fox` (347 units) |
+| The Adventures of Johnny Chuck | have | PG 5844, `burgess-johnny-chuck` (317 units) |
+| The Adventures of Peter Cottontail | have | PG 46866, `burgess-peter-cottontail` (402 units) |
+| The Adventures of Unc' Billy Possum | have | PG 14732, `burgess-unc-billy-possum` (346 units) |
+| The Adventures of Mr. Mocker | have | PG 11915, `burgess-mr-mocker` (304 units) |
+| The Adventures of Jerry Muskrat | have | PG 5110, `burgess-jerry-muskrat` (314 units) |
+| The Adventures of Danny Meadow Mouse | have | PG 25301, `burgess-danny-meadow-mouse` (293 units) |
+| The Adventures of Grandfather Frog | have | PG 14375, `burgess-grandfather-frog` (311 units) |
+| The Adventures of Chatterer the Red Squirrel | have | PG 37952, `burgess-chatterer` (268 units) |
+| The Adventures of Sammy Jay | have | PG 43596, `burgess-sammy-jay` (262 units) |
+| The Adventures of Buster Bear | have | PG 22816, `burgess-buster-bear` (308 units) |
+| The Adventures of Old Mr. Toad | have | PG 12630, `burgess-old-mr-toad` (334 units) |
+| The Adventures of Prickly Porky | have | PG 15521, `burgess-prickly-porky` (297 units) |
+| The Adventures of Old Man Coyote | have | PG 46952, `burgess-old-man-coyote` (360 units) |
+| The Adventures of Paddy the Beaver | have | PG 19092, `burgess-paddy-beaver` (267 units) |
+| The Adventures of Poor Mrs. Quack | have | PG 5846, `burgess-poor-mrs-quack` (274 units) |
+| The Adventures of Bobby Coon | have | PG 46951, `burgess-bobby-coon` (241 units) |
+| The Adventures of Jimmy Skunk | have | PG 21015, `burgess-jimmy-skunk` (283 units) |
+| The Adventures of Bob White | have | PG 46950, `burgess-bob-white` (296 units) |
+| burgess-duplicates | excluded | Paddy the Beaver (PG 2493), Danny Meadow Mouse (25529), Lightfoot the Deer (4670): other transcriptions or later titles |
+| burgess-later | excluded | Lightfoot, Whitefoot, Blacky, Old Granny Fox, Bowser, Happy Jack, Mrs. Peter Rabbit, Buster Bear's Twins, Billy Mink, Little Joe Otter, Wishing-Stone Stories, The Christmas Reindeer and the Boy Scout books: candidates for a later batch, each to be checked against the 1929 line |
+| burgess-handbooks | excluded | the Burgess Animal and Bird Books (PG 2441, 3074, 23708, 23709): natural history, not story |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
