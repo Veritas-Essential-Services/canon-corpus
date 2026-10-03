@@ -592,3 +592,7 @@
 
 ## 2026-10-03 06:14 CDT — robert-sanderson done
 - `pipeline/robert-sanderson_shelf.json`: 6 IA volumes, title pages read. Vol. 2 is a "0000"-style id, title page read (Oxford 1854) and recorded in `_rights_checked`; vol. 4's title page OCR reads "Egbert Sanderson", recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 06:14 CDT — review cycle 11 follow-ups
+- Bare surname forms dropped: "moody" and "mr. moody" (collided with PR #14's A. Moody Stuart), "mackintosh" (Sir James Mackintosh), "moule" (other Moules). All items still verify on the full forms.
+- DIGEST: the Bounds round 12 row now shows six books with Weapon pending; the six undated CCEL print sources (Meyer x3, Bruce, Whyte x2) added under Decisions.
