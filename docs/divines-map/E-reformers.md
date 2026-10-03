@@ -81,6 +81,7 @@ Lane A's `calvin_shelf.json` already holds the Calvin Translation Society set (4
 | Rollock, Select Works, ed. Gunn (2 vols, 1844-1849) | have-raw | `rollock_shelf.json` |
 | Robert Bruce, Sermons, ed. Cunningham (1843) | have-raw | `robert-bruce_shelf.json` |
 | Miscellany of the Wodrow Society, vol. 1 (1844) | have-raw | `wodrow-society_shelf.json` |
+| Select Biographies, ed. Tweedie (2 vols, 1845-1847): Welsh, Simson, Livingstone, Dickson, Guthrie, Fraser of Brea, Nisbet | have-raw | `wodrow-society_shelf.json` |
 | Knox's Works, ed. Laing (Wodrow Society vols) | have | `john-knox_shelf.json` |
 | Row, History of the Kirk, ed. Laing (1842) | have-raw | `john-row_shelf.json` |
 | Blair, Life and Autobiography, ed. M'Crie (1848) | have-raw | `robert-blair_shelf.json` |
@@ -114,4 +115,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Baillie, Letters and Journals 1637-1662, ed. Laing (Bannatyne Club, 3 vols, 1841-1842) | have-raw | `robert-baillie_shelf.json` |
 | Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
 | Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
+| M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819) | have-raw | `thomas-mccrie_shelf.json` |
+| Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
+| A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
 | Wodrow's Analecta (Maitland Club, 1842-43); Kirkton's Life of John Welsh | pending | not yet searched |
