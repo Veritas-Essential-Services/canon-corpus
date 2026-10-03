@@ -7832,6 +7832,16 @@ Shelf: `pipeline/aikin-barbauld_shelf.json` (2026-10-02; added at the coordinato
 |---|---|---|
 | Evenings at Home; Or, The Juvenile Budget Opened | have | PG 53323, `aikin-evenings-at-home` (3110 units) |
 
+## Captain Marryat
+
+Shelf: `pipeline/marryat_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three books for young readers; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Children of the New Forest | have | PG 6471, `marryat-children-of-the-new-forest` (2476 units) |
+| Masterman Ready | have | PG 1412, `marryat-masterman-ready` (2012 units) |
+| The Little Savage | have | PG 21551, `marryat-little-savage` (1476 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

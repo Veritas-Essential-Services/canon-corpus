@@ -1,0 +1,65 @@
+{
+ "_about": "Captain Marryat's three books for young readers: The Children of the New Forest (1864 printing), Masterman Ready and The Little Savage (both undated in the text). The Little Savage is taken from Nick Hodson's transcription (PG 21551); PG 6897 carries an introduction signed only 'R. B. J.', who is not identified in the text, and is not taken. His naval novels are left. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Captain Marryat",
+ "_name_words": [
+  "marryat"
+ ],
+ "_surname": [
+  "frederick marryat",
+  "capt. marryat",
+  "captain marryat"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "marryat-children-of-the-new-forest": [
+   6471,
+   "The Children of the New Forest"
+  ],
+  "marryat-masterman-ready": [
+   1412,
+   "Masterman Ready",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXL]+\\.?$"
+     }
+    ]
+   }
+  ],
+  "marryat-little-savage": [
+   21551,
+   "The Little Savage"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "marryat-children-of-the-new-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frederick marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marryat-masterman-ready": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frederick marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marryat-little-savage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frederick marryat",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
