@@ -21,22 +21,26 @@ kept as `alt_chapter`. A book with no verse ("Gen. 18") cites a chapter and
 stays unresolved, saying so.
 
 NUMBERING (rule 4). The Latin editions cite the Old Testament as the Vulgate
-numbers it (Ps. 50 is the KJV's Ps 51; I-IV Reg. are 1-2 Sam, 1-2 Kgs), so OT
-references in a `-lat` book go through the Clementine map
-(data/versification/vulgate-kjv.json); the Greek editions cite as the
-Septuagint numbers it, so OT references in a `-grc` book go through Brenton's
-map (brenton-kjv.json). That is the edition family's convention, not a
-reading of each note: so where the English numbering names a different KJV
-verse it is kept as `alt_target`, and where the map has no such verse but the
-English numbering does, that is the reading (`numbering: "english"`). NT
-references are the KJV's numbering already. Every link carries `rule`, the id
+numbers it (Ps. 50 is the KJV's Ps 51; I-IV Reg. are 1-2 Sam, 1-2 Kgs), and
+the Greek editions mostly cite the Psalms as the Septuagint numbers them; but
+editors differ, so each edition's numbering per class of book (Psalms,
+Jeremiah, the rest) is MEASURED by fathers_numbering.py and committed in
+data/fathers/numbering.json, and resolve() reads a reference through that:
+the Clementine map (vulgate-kjv.json), Brenton's (brenton-kjv.json), or the
+KJV's chapter and verse as printed. Where the other numbering names a
+different KJV verse it is kept as `alt_target`; where the edition's
+numbering has no such verse but the other has, the other is the reading and
+`numbering` says so. Every OT link says its `numbering` (vulgate, lxx,
+english). NT references are the KJV's numbering already. Every link carries `rule`, the id
 of the rule that produced it:
 
-  note/<family>     read from an editor's footnote (apparatus.notes)
-  refs/<family>     read from a bracketed reference printed in the text
+  note/<map>        read from an editor's footnote (apparatus.notes)
+  refs/<map>        read from a bracketed reference printed in the text
                     (apparatus.refs: Archambault's Justin, Schwartz's Eusebius)
 
-and <family> is the map used: `vulgate`, `brenton` or `nt`. What is not
+and <map> is the numbering read: `vulgate`, `brenton`, `kjv` (the English)
+or `nt`, with `+content` where an edition that mixes numberings was read
+reference by reference by the father's own words. What is not
 scripture (Philo, Homer, the father's own other works) is not read at all:
 only a book in the table opens a reference.
 """
@@ -117,6 +121,11 @@ FAMILY = {
     "grc": {"jud": "Jude", "iud": "Jude", "judae": "Jude", "richt": "Judg", "ri": "Judg",
             "jug": "Judg", "judic": "Judg", "iudic": "Judg"},
 }
+# The Septuagint's Esdras: 1 Esdras is the apocryphal book, 2 Esdras is Ezra
+# and Nehemiah in one (Brenton's Ezra 11-23 is Nehemiah, and his map says so).
+# The Vulgate's 1 and 2 Esdras are Ezra and Nehemiah (COMMON).
+FAMILY_DEUTERO = {"grc": {"1esdr": "1Esd", "3esdr": "1Esd"}}
+FAMILY["grc"].update({"2esdr": "Ezra"})
 # Books outside the KJV: read, so a reference to them is counted, never resolved.
 DEUTERO = {"tob": "Tob", "iudith": "Jdt", "judith": "Jdt", "jdt": "Jdt", "sap": "Wis",
            "weish": "Wis", "wisd": "Wis", "sir": "Sir", "eccli": "Sir", "ecclus": "Sir",
@@ -176,6 +185,8 @@ def book_of(pre, name, family, lined=False):
     key = fold(name)
     if pre:
         key = PREFIX.get(pre.lower(), "") + key
+    if key in FAMILY_DEUTERO.get(family, {}):
+        return FAMILY_DEUTERO[family][key], "deutero"
     table = FAMILY.get(family, {})
     if key in table:
         return table[key], "kjv"
@@ -335,8 +346,18 @@ def printed(ref):
     return f"{book} {ch}" + (f"({alt})" if alt else "") + (f":{v}" if v else "") + (f"-{end}" if end else "")
 
 
-def resolve(ref, family, ctx):
-    """The link fields for one reference, with the id of the rule that made it."""
+MAP_NAME = {"lat": "vulgate", "grc": "brenton"}
+NUMBERING_OF = {"vulgate": "vulgate", "brenton": "lxx", "kjv": "english"}
+
+
+def resolve(ref, family, ctx, scheme=None, vote=None):
+    """The link fields for one reference, with the id of the rule that made it.
+
+    `scheme(book)` -> (numbering, per_reference) is the edition's measured
+    numbering for that class of book (fathers_numbering.py); without one, the
+    family's.
+    `vote` is the content vote links_for() took for this reference's group,
+    used only in a class whose edition mixes numberings."""
     book, kind, ch, v, end, alt = ref
     out = {"ref": printed(ref)}
     if kind == "deutero":
@@ -344,36 +365,57 @@ def resolve(ref, family, ctx):
     if v is None:
         return {**out, "resolved": False, "why": "cites a whole chapter, not a verse", "map": None}
     nt = book in NT
-    mapname = "nt" if nt else ("vulgate" if family == "lat" else "brenton")
+    fmap = MAP_NAME[family]
+    numbering, per_ref = scheme(book) if (scheme and not nt) else (NUMBERING_OF[fmap], False)
+    how = "edition"
+    if per_ref and vote:
+        numbering, how = vote, "content"
+    mapname = "nt" if nt else ("kjv" if numbering == "english" else fmap)
+
+    def by_map(verse):
+        osis = f"{book}.{ch}.{verse}"
+        if fmap == "vulgate":
+            return V.resolve_vulgate(osis, ctx["vmap"], ctx["kjv_ids"]) if f"{book}.{ch}" in \
+                ctx["vmap"]["vulgate_chapters"] else {"resolved": False, "why": "no such chapter in the Clementine Vulgate"}
+        return V.resolve_brenton(osis, ctx["bmap"], ctx["kjv_ids"])
 
     def one(verse):
         direct = f"kjv:{book}.{ch}.{verse}"
         if nt:
             return ({"resolved": True, "target": direct} if direct in ctx["kjv_ids"]
                     else {"resolved": False, "why": "no such verse in the KJV (an OCR digit?)"})
-        osis = f"{book}.{ch}.{verse}"
-        if mapname == "vulgate":
-            r = V.resolve_vulgate(osis, ctx["vmap"], ctx["kjv_ids"]) if f"{book}.{ch}" in \
-                ctx["vmap"]["vulgate_chapters"] else {"resolved": False, "why": "no such chapter in the Clementine Vulgate"}
-        else:
-            r = V.resolve_brenton(osis, ctx["bmap"], ctx["kjv_ids"])
+        r = by_map(verse)
+        if mapname == "kjv":
+            if direct in ctx["kjv_ids"]:
+                out = {"resolved": True, "target": direct}
+                if r.get("resolved") and r["target"] != direct:
+                    out["alt_target"] = r["target"]
+                return out
+            if r.get("resolved"):
+                return {**r, "numbering": NUMBERING_OF[fmap],
+                        "why_numbering": f"the English numbering has no such verse; the {fmap} numbering fits"}
+            return {"resolved": False, "why": "no such verse in the KJV's numbering or the " + fmap + "'s"}
         if direct not in ctx["kjv_ids"]:
             return r
         if r.get("resolved"):
             return r if r["target"] == direct else {**r, "alt_target": direct}
         if r.get("why", "").startswith("no such"):
             return {"resolved": True, "target": direct, "numbering": "english",
-                    "why_numbering": f"the {mapname} numbering has no such verse; the English numbering fits"}
+                    "why_numbering": f"the {fmap} numbering has no such verse; the English numbering fits"}
         return r
 
     r = one(v)
     out.update({k: r[k] for k in ("resolved", "target", "spans", "alt_target", "numbering",
                                   "why_numbering", "why") if k in r})
+    if not nt:
+        out.setdefault("numbering", numbering)
+        # the rule names the numbering actually read, not the one first tried
+        mapname = {"english": "kjv", "lxx": "brenton", "vulgate": "vulgate"}[out["numbering"]]
     if r.get("resolved") and end and end > v:
         last = one(end)
         if last.get("resolved"):
             out["through"] = last["target"]
-    out["map"] = mapname
+    out["map"] = mapname + ("+content" if how == "content" else "")
     return out
 
 
@@ -383,15 +425,39 @@ def resolve(ref, family, ctx):
 OCR_TWIN = {"Job": "John", "John": "Job"}
 
 
-def links_for(label, family, source, ctx):
+def group_votes(refs, family, ctx, scheme, unit_words):
+    """{index: vote} for references in a class whose edition mixes
+    numberings: each run of references to one chapter of one book is one
+    quotation, read by one content vote (fathers_numbering.group_vote)."""
+    if not (scheme and unit_words is not None and "bren" in ctx):
+        return {}
+    import fathers_numbering as FN
+    out, i = {}, 0
+    while i < len(refs):
+        book, kind, ch, v = refs[i][:4]
+        j = i + 1
+        while j < len(refs) and refs[j][0] == book and refs[j][2] == ch:
+            j += 1
+        if kind == "kjv" and book not in NT and scheme(book)[1]:
+            items = [(book, ch, r[3]) for r in refs[i:j] if r[3] is not None]
+            vote = FN.group_vote(ctx["bren"], unit_words, items, ctx, family) if items else None
+            if vote:
+                out.update({k: vote for k in range(i, j)})
+        i = j
+    return out
+
+
+def links_for(label, family, source, ctx, scheme=None, unit_words=None):
     """Every scripture link in one note or bracketed reference."""
     out = []
-    for ref in parse(label, family):
-        r = resolve(ref, family, ctx)
+    refs = parse(label, family)
+    votes = group_votes(refs, family, ctx, scheme, unit_words)
+    for i, ref in enumerate(refs):
+        r = resolve(ref, family, ctx, scheme, votes.get(i))
         rule = f"{source}/{r.pop('map') or 'none'}"
         twin = OCR_TWIN.get(ref[0])
         if not r["resolved"] and ref[3] and twin and r.get("why", "").startswith("no such"):
-            t = resolve((twin,) + ref[1:], family, ctx)
+            t = resolve((twin,) + ref[1:], family, ctx, scheme, votes.get(i))
             if t["resolved"]:
                 rule = f"{source}/{t.pop('map')}+ocr-twin"
                 r = {**t, "ref": r["ref"], "read_as": twin,

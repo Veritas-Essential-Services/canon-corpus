@@ -77,22 +77,43 @@ def load_book(slug):
     return json.loads(blob), hashlib.sha256(blob).hexdigest()
 
 
-def scripture_context():
+def scripture_context(numbering=False):
+    """The KJV ids and the maps; with `numbering`, also each edition's
+    measured OT numbering (data/fathers/numbering.json) and what reading a
+    mixed edition reference by reference needs (Brenton's English, the
+    Strong's glosses)."""
     with open(os.path.join(ROOT, "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
         kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
-    return {"kjv_ids": kjv_ids, "bmap": VM.load(VM.BRENTON_PATH), "vmap": VM.load(VM.VULGATE_PATH)}
+    ctx = {"kjv_ids": kjv_ids, "bmap": VM.load(VM.BRENTON_PATH), "vmap": VM.load(VM.VULGATE_PATH)}
+    if numbering:
+        import fathers_numbering as FN
+        ctx["numbering"] = FN.load()
+        ctx["bren"] = FN.Brenton(ctx)
+        ctx["glosses"] = FN.glosses()
+    return ctx
 
 
-def scripture(book, family, ctx):
-    """{unit id: [links]} from the editors' notes and printed references."""
+def scripture(book, family, ctx, tokens=None):
+    """{unit id: [links]} from the editors' notes and printed references,
+    each OT reference read in the edition's measured numbering."""
+    scheme = None
+    if "numbering" in ctx:
+        import fathers_numbering as FN
+        scheme = FN.scheme_for(book, family, ctx["numbering"])
     out = {}
     for u in book["units"]:
         app = u.get("apparatus") or {}
+        labels = [("note", n["text"]) for n in app.get("notes") or []] + \
+                 [("refs", r) for r in app.get("refs") or []]
+        if not labels:
+            continue
+        uw = None
+        if tokens is not None and "glosses" in ctx:
+            import fathers_numbering as FN
+            uw = FN.unit_words(tokens.get(u["id"], []), ctx["glosses"])
         links = []
-        for n in app.get("notes") or []:
-            links += FS.links_for(n["text"], family, "note", ctx)
-        for r in app.get("refs") or []:
-            links += FS.links_for(r, family, "refs", ctx)
+        for source, lab in labels:
+            links += FS.links_for(lab, family, source, ctx, scheme, uw)
         if links:
             out[u["id"]] = links
     return out
@@ -193,7 +214,7 @@ def run(only=None):
     if only:
         grc = [s for s in grc if s in only]
         lat = [s for s in lat if s in only]
-    ctx = scripture_context()
+    ctx = scripture_context(numbering=True)
     entries, rows = {}, []
     if grc:
         import build_apostolic_fathers as A
@@ -203,7 +224,7 @@ def run(only=None):
             book, sha = load_book(slug)
             tokens, stats = tag_greek(book, tables, cache)
             catena = slug.startswith("catena-")
-            sc = {} if catena else scripture(book, "grc", ctx)
+            sc = {} if catena else scripture(book, "grc", ctx, tokens)
             entries[slug] = summarise(slug, sha, tokens, stats, sc, book, "strongs")
             rows += link_rows(slug, sc)
             data = blob_of({"slug": slug, "book_sha256": sha, "key": "strongs",
@@ -250,7 +271,8 @@ def summarise(slug, sha, tokens, stats, sc, book, key):
                        "unresolved_by_why": dict(sorted(collections.Counter(
                            ln.get("why", "?") for ln in links if not ln.get("resolved")).items())),
                        "alt_target": sum(1 for ln in links if "alt_target" in ln),
-                       "numbering_english": sum(1 for ln in links if ln.get("numbering") == "english")}}
+                       "ot_by_numbering": dict(sorted(collections.Counter(
+                           ln["numbering"] for ln in links if ln.get("resolved") and "numbering" in ln).items()))}}
     if catena:
         e["scripture"]["placed_on_verse"] = catena
     return e
@@ -283,8 +305,11 @@ def manifest(entries):
                            "unread",
                   **tot(lat)},
         "scripture": {"rules": "fathers_scripture.py: note/<map> from a footnote, refs/<map> from a "
-                               "printed bracketed reference; map = vulgate (Latin editions' OT), "
-                               "brenton (Greek editions' OT), nt; +ocr-twin where Job/John was "
+                               "printed bracketed reference; map = the edition's measured OT "
+                               "numbering (fathers_numbering.py, data/fathers/numbering.json): "
+                               "vulgate, brenton (the Septuagint's) or kjv (the English), and nt; "
+                               "+content where an edition that mixes numberings was read by the "
+                               "father's own words; +ocr-twin where Job/John was "
                                "read as its twin",
                       "file": "build/fathers/scripture-links.jsonl (gitignored; rebuilt)"},
         "not_claimed": [
@@ -292,9 +317,11 @@ def manifest(entries):
             "own senses are not read.",
             "A Latin key is settled only by WORDS's readings and the context rules; what they "
             "leave open stays null.",
-            "The OT numbering of a reference is the edition family's convention (Vulgate for "
-            "CSEL/Oehler, Septuagint for the Greek editions), not read from each note; where the "
-            "English numbering names another verse it is kept as alt_target.",
+            "The OT numbering is measured per editor and class of book (Psalms, Jeremiah, the "
+            "rest), from the notes themselves (fathers_numbering.py); only in a Greek edition "
+            "that mixes numberings is a note's quotation read on its own, by the father's words, "
+            "and only where the numberings differ by chapter, where that vote is right 89% of "
+            "the time. Where the other numbering names another verse it is kept as alt_target.",
             "The texts are OCR (CSEL, many First1KGreek files): a misread word is tagged as read.",
         ],
         "books": dict(sorted(entries.items())),
@@ -313,6 +340,8 @@ def main():
     links_text = jsonl(rows).encode("utf-8")
     m = manifest(entries)
     m["scripture"]["rows"] = len(rows)
+    with open(os.path.join(DATA, "numbering.json"), "rb") as f:
+        m["scripture"]["numbering_sha256"] = hashlib.sha256(f.read()).hexdigest()
     m["scripture"]["sha256"] = hashlib.sha256(links_text).hexdigest()
     man = (json.dumps(m, ensure_ascii=False, indent=1) + "\n").encode("utf-8")
     for fam in ("greek", "latin"):

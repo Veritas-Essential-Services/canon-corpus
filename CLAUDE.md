@@ -108,6 +108,8 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/place_catena.py --check # catena verse placements byte-identical
     python3 pipeline/tag_fathers.py          # fathers: Strong's / Lewis & Short tags + scripture links
     python3 pipeline/tag_fathers.py --check  # data/fathers/ byte-identical
+    python3 pipeline/fathers_numbering.py    # each edition's OT numbering, measured (after tag_fathers)
+    python3 pipeline/fathers_numbering.py --check  # data/fathers/numbering.json byte-identical
     python3 tests/fathers_scripture_test.py  # the editors' scripture references, read and resolved
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
     python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
@@ -410,7 +412,17 @@ The living truth for project state is the Obsidian vault:
   Archambault's French and the English editors' notes; the OT goes through
   the Vulgate map in a Latin book and Brenton's in a Greek one (the edition
   family's convention, with the English numbering kept as `alt_target`), and
-  an apparatus line number is never read as a verse. Tokens are the text
+  an apparatus line number is never read as a verse. Not every editor
+  numbers the same way, so pipeline/fathers_numbering.py MEASURES it per
+  editor and class of book (Psalms, Jeremiah, the rest) and commits the
+  decision with its evidence in data/fathers/numbering.json: existence votes
+  (only one numbering has the verse) and, in Greek, content votes (the
+  father's Strong's-glossed words against Brenton's English of each
+  candidate; calibrated 89% right between chapters, 75% between verses). An
+  edition leans as its calibrated log-odds over a pooled prior say; in a mixed one, each
+  note's run of references to one chapter is one quotation, read by one
+  content vote where the numberings put it in different chapters (+content). Greek 1 Esdras is the apocryphal book,
+  2 Esdras is Ezra-Nehemiah (Brenton's map). Tokens are the text
   (CC BY-SA TEI), so they and the links go to build/fathers/ (gitignored);
   committed: data/fathers/manifest.json (counts by rule, sha256 of every
   input book and every output).
