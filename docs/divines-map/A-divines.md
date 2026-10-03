@@ -832,3 +832,10 @@ The two brothers on one shelf. No CCEL or Gutenberg text; raw IA OCR.
 | Ebenezer Erskine, The Whole Works (Edinburgh: Ogle & Murray, 1871), vols. I-III | have-raw | IA `wholeworksoflate01ersk`..`03ersk` (`eerskine-works-01`..`03`) |
 | Ralph Erskine, The Sermons and Other Practical Works (London: Tegg, 1865), vols. I-VII | have-raw | IA `sermonsotherpr01ersk`..`07ersk` (`rerskine-works-01`..`07`); the Gospel Sonnets are in it |
 | Earlier editions (1763-1836) and single sermons (ECCO) | alternate | the 1865 and 1871 sets are held |
+
+## Thomas Halyburton (round 5, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| The Works (Glasgow: Blackie, 1833, ed. Robert Burns): The Great Concern of Salvation; Natural Religion Insufficient; communion sermons; Memoirs | have-raw | IA `worksofrevthomas00haly` (`halyburton-works-1833`) |
+| Separate printings (1751-1865) | alternate | the 1833 Works are held |

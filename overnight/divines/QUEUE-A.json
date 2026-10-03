@@ -387,10 +387,12 @@
     },
     {
       "id": "halyburton",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Halyburton: Works (d. 1712)",
       "added": "2026-10-02T17:35:36-05:00",
-      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T19:50:24-05:00",
+      "notes": "1 IA"
     },
     {
       "id": "durham",
@@ -401,10 +403,11 @@
     },
     {
       "id": "binning",
-      "status": "todo",
+      "status": "started",
       "scope": "Hugh Binning: Works (d. 1653)",
       "added": "2026-10-02T17:35:36-05:00",
-      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T19:49:35-05:00"
     },
     {
       "id": "winslow",

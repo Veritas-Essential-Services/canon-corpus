@@ -216,3 +216,6 @@
 
 ## 2026-10-02 19:48 CDT — erskines done
 - `pipeline/erskines_shelf.json`: Ebenezer's Whole Works (1871, 3 vols) and Ralph's Sermons and Practical Works (1865, 7 vols), raw IA OCR, 97.7-99.4%. About 19 MB. `--verify --record`: 0 mismatched, 0 rights flags. The surname check cannot tell the brothers apart; the split rests on the title pages and on place-name counts (Ebenezer's volumes name Stirling, his charge, 4-9 times; Ralph's name Dunfermline, his, 4-25 times). 0 uids minted.
+
+## 2026-10-02 19:50 CDT — halyburton done
+- `pipeline/halyburton_shelf.json`: the Works (Glasgow, 1833), one volume of 817 pages, raw IA OCR, 98.0%, 3.4 MB. The contents note checks out by counts ("natural religion" 179, "deists" 214, "great concern" 23). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
