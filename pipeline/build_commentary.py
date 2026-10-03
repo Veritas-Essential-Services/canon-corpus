@@ -193,6 +193,43 @@ WORKS = {
         "drop_notes": True,         # the translators' footnotes are the editors', not Calvin's
         "scans": [],
     },
+    "hodge": {
+        "title": "A Commentary on the Epistle to the Ephesians",
+        "author": "Charles Hodge (1797-1878)",
+        "files": [("hodge-ephesians", "h/hodge/ephesians.xml", "a25226498c8646bb3b062d0b3e58ccbea7ed9f4b14a04ef9b3728757301c21dc")],
+        "verse_head": True,         # "V. 2. Contains the usual apostolic benediction"
+        "comma": True,              # "Heb. 13, 9"
+        "scans": [],
+    },
+    "manton": {
+        "title": "A Practical Commentary, or an Exposition with Notes on the Epistles of James and Jude",
+        "author": "Thomas Manton (1620-1677)",
+        "files": [("manton04", "m/manton/manton04.xml", "2755b7879c26e006e4238d5b23784d5a815e3f4baa9dab5177742a1f556188b3"),
+                  ("manton05", "m/manton/manton05.xml", "435d3dba30709b6ed959fd9367116cff3e24d5821b2f31ab5390834ae3a2eb77")],
+        "verse_head": True,         # "Ver. 2. My brethren, count it all joy"
+        "scans": [],
+    },
+    "trapp": {
+        "kind": "tcp-verse",
+        "title": "A Commentary or Exposition upon ... (five volumes of the first editions)",
+        "author": "John Trapp (1601-1669)",
+        # (file, url, sha256, the books its commentary divisions hold, in order)
+        "files": [
+            ("trapp-A63067", TCP + "A63067/master/A63067.xml", "63d2f9a9e54439cce653aa8e3bac1bc5a6f622ef0d4fd74321dd8d02d7957c1f"),
+            ("trapp-A63065", TCP + "A63065/master/A63065.xml", "440b7caa1fc282bccd576ad0559dd29ac2fe6d788dcce7d9fbbf00756834dcf0"),
+            ("trapp-A63066", TCP + "A63066/master/A63066.xml", "8899d8ef3b1af3be79b96feba3a19857f2c485854e98ab5e5789f22d0e991d4f"),
+            ("trapp-A63068", TCP + "A63068/master/A63068.xml", "1433f8113cb45b34400e1effacb259cdc15ff4789993ddff9348699457cab69b"),
+            ("trapp-A63069", TCP + "A63069/master/A63069.xml", "0622c547e10058daae32da35e8cedef3e9cd5cc5e8eecf8c65315b8973248744"),
+        ],
+        "books": {
+            "trapp-A63067": "Matt Mark Luke",
+            "trapp-A63065": "Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev",
+            "trapp-A63066": "Ezra Neh Esth Job Ps",
+            "trapp-A63068": "Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal",
+            "trapp-A63069": "Prov Eccl Song Isa Jer Lam Ezek Dan",
+        },
+        "scans": [],
+    },
     "clarke": {
         "kind": "scan",
         "title": "The Holy Bible ... with a Commentary and Critical Notes",
@@ -226,7 +263,8 @@ WORKS = {
 
 RIGHTS = {
     "license": "public-domain",
-    "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Calvin in the"
+    "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856,"
+             " Manton 1651-58 (Nisbet 1871), Calvin in the"
              " Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46"
              " New York printings); every author and translator died before 1931."
              " Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
@@ -308,6 +346,7 @@ def print_source(s):
 _EVENT = re.compile(r"<scripCom\b([^>]*)/?>|<div(\d)\b([^>]*)>")
 _ATTR = re.compile(r'(\w+)="([^"]*)"')
 _DROP = re.compile(r"<h\d\b[^>]*>.*?</h\d>|<p\b[^>]*class=\"(?:Center|t8|passage)\"[^>]*>.*?</p>", re.S)
+_VERSE_HEAD = re.compile(r"\s*(?:Verses?|Vers|Ver|Vv|V)\.?\s*(\d{1,3})(?:\s*[,\-\u2013]\s*(\d{1,3}))?\.")
 _NOTE = re.compile(r"<note\b.*?</note>", re.S)
 _WESLEY_V = re.compile(r"<p\b[^>]*>\s*(\d{1,3})(?:\s*[,\-\u2013]\s*(\d{1,3}))?\.\s+")
 _PASSAGE = re.compile(r"<p\b[^>]*class=\"passage\"[^>]*>(.*?)</p>", re.S)
@@ -389,6 +428,12 @@ def second_reading(c, work):
         if not m or c["anchor"][2] is None:
             return None
         return (b, ch, int(m.group(1)), ch, int(m.group(1)))
+    if WORKS[work].get("verse_head"):     # "Ver. 2." / "V. 2." opening the comment, in the mark's chapter
+        m = _VERSE_HEAD.match(R.plain(_DROP.sub("", c["raw"])))
+        if not m or c["anchor"][2] is None:
+            return None
+        v = int(m.group(1))
+        return (b, ch, v, ch, int(m.group(2)) if m.group(2) else v)
     if work == "barnes":
         m = re.match(r"(.+?) (\d+):(\d+)$", c["title"] or "")
         if not m or m.group(1) not in _FULL:
@@ -461,7 +506,8 @@ def cites(c, work):
     for m in re.finditer(r"<scripRef\b([^>]*)>", raw):
         o = dict(_ATTR.findall(m.group(1))).get("osisRef", "")
         tags.append({"osis": re.sub(r"^Bible[^:]*:", "", o)})
-    para = {"text": R.plain(raw), "tagged": tags, "roman_comma": WORKS[work].get("roman_comma", False)}
+    para = {"text": R.plain(raw), "tagged": tags, "roman_comma": WORKS[work].get("roman_comma", False),
+            "comma": WORKS[work].get("comma", False)}
     return BT.candidates(para, here=c["anchor"][:2])
 
 
@@ -675,7 +721,9 @@ def tcp_header(name):
         head = f.read(20000)
     date = re.search(r"<edition>\s*<date>([^<]+)</date>", head)
     cc0 = "publicdomain/zero/1.0" in head
-    return {"edition_date": date.group(1) if date else None, "tcp_licence": "CC0 1.0" if cc0 else "check"}
+    pd = re.search(r"<availability>.*?\bPublic Domain\b", head, re.S)
+    return {"edition_date": date.group(1) if date else None,
+            "tcp_licence": "CC0 1.0" if cc0 else "public domain (TCP availability statement)" if pd else "check"}
 
 
 def build_tcp_work(work, shape):
@@ -733,6 +781,145 @@ def build_tcp_work(work, shape):
                 counts["unread words in the notes"] += sum(t.count("\u25ca") for t in got["notes"] + got["margin"])
                 prose.append({"id": row["id"], "notes": got["notes"], "margin": got["margin"]})
     counts["verses_covered"] = len(rows)
+    return rows, prose, rejected, dict(sorted(counts.items())), sources, None, []
+
+
+# ---------------------------------------------------------------- Trapp (EEBO-TCP)
+# Trapp's commentaries (1647-60) are hand-keyed by TCP from the first
+# editions. Unlike Poole's folio they do not print the Bible text: each note
+# opens a paragraph with its verse and lemma ("Verse 3. Concerning his Son]
+# Here's a lofty ..."), and his sources and parallels stand in the margin.
+# So a note's place is read twice: the printed verse number, and its lemma
+# looked for in the KJV verse the number names (spelling levelled: long s,
+# u/v, i/j, a final e). A citation is read once, as Poole's are, and
+# committed when it names a KJV verse and no unread word touches it.
+_TRAPP_V = re.compile(r"(?:\x02|\bCHAP\.?\s*[IVXLC1l]+\s*\.)\s*(?:Verses?|Vers|Ver|V)\s*\.?\s*(\d{1,3})(?:\s*[,\-]\s*(\d{1,3}))?\s*[.,:]")
+
+
+def _trapp_stream(e, out):
+    tag = e.tag[len(NS):]
+    if tag == "note":
+        out.append(("note", e))
+        return
+    if tag == "gap":
+        out.append(("t", _GAP))
+        return
+    if tag in ("p", "head", "l", "lg"):
+        out.append(("t", " \x02 "))
+    if not (tag == "g" and e.get("ref") == "char:EOLhyphen") and e.text:
+        out.append(("t", e.text))
+    for c in e:
+        _trapp_stream(c, out)
+        if c.tail:
+            out.append(("t", c.tail))
+
+
+def _level(w):
+    return w.replace("\u017f", "s").replace("v", "u").replace("j", "i").rstrip("e")
+
+
+def trapp_chapter(b, c, el, kjv, counts):
+    """One chapter -> [(verse, last verse, check, notes text, [margin texts])]."""
+    seg = []
+    _trapp_stream(el, seg)
+    notes, parts = [], []
+    for k, x in seg:
+        if k == "note":
+            parts.append(" \x00%d\x00 " % len(notes))
+            notes.append(x)
+        else:
+            parts.append(x)
+    text = "".join(parts).replace("\u017f", "s")
+    n_verses = kjv.shape[b][c]
+    marks = []
+    cur = 0
+    for m in _TRAPP_V.finditer(text):
+        v = int(m.group(1))
+        if cur < v <= n_verses:
+            marks.append((m, v, int(m.group(2)) if m.group(2) and int(m.group(2)) > v else v))
+            cur = v
+        elif v == cur:
+            counts["a verse head repeated, read as one"] += 1
+        else:
+            counts["verse heads out of order, not read"] += 1
+    out = []
+    lev = {}
+    for i, (m, v, v2) in enumerate(marks):
+        body = text[m.end():marks[i + 1][0].start() if i + 1 < len(marks) else len(text)]
+        lemma = re.split(r"\]", body.replace("\x02", " "), 1)[0][:200]
+        lw = [_level(w) for w in CR.words(re.sub(r"\x00\d+\x00", " ", lemma))]
+        if len(lw) >= 2 and "]" in body[:400]:
+            if v not in lev:
+                lev[v] = {_level(w) for w in kjv.verse_words(b, c, v)}
+            here = sum(w in lev[v] for w in lw) / len(lw)
+            check = "agrees" if here >= CR.NEED else "unread"
+            if check == "unread":
+                for x in range(1, n_verses + 1):
+                    if x != v:
+                        lev.setdefault(x, {_level(w) for w in kjv.verse_words(b, c, x)})
+                        if sum(w in lev[x] for w in lw) / len(lw) >= here + 0.5:
+                            check = "differs"
+                            break
+        else:
+            check = "unread"
+        margin = [tcp_flat(notes[int(k)]).replace("\u017f", "s") for k in re.findall(r"\x00(\d+)\x00", body)]
+        prose = " ".join(re.sub(r"\x00\d+\x00", " ", body).replace("\x02", "\n").split(" "))
+        out.append((v, v2, check, " ".join(prose.split()), margin))
+    return out
+
+
+def build_trapp_work(work, shape):
+    import xml.etree.ElementTree as ET
+    d = WORKS[work]
+    kjv = kjv_words(shape)
+    rows, prose, rejected, sources = [], [], [], []
+    counts = collections.Counter()
+    seen = collections.Counter()
+    for name, url, want in d["files"]:
+        sources.append({"file": name, "url": url, "sha256": want, **tcp_header(name)})
+        root = ET.parse(path(name)).getroot()
+        divs = [x for x in root.find(".//" + NS + "text").iter(NS + "div") if x.get("type") == "commentary"]
+        books = d["books"][name].split()
+        if len(divs) != len(books):
+            raise SystemExit(f"{name}: {len(divs)} commentary divisions, not {len(books)}")
+        for b, div in zip(books, divs):
+            chs = [x for x in div if x.tag == NS + "div" and x.get("type") in ("chapter", "Psalm")]
+            if not chs:
+                chs, ns = [div], [1]
+            else:
+                ns = [int(x.get("n")) if (x.get("n") or "").isdigit() else None for x in chs]
+            for x, c in zip(chs, ns):
+                if c is None or c not in shape[b]:
+                    counts["chapter names no KJV chapter"] += 1
+                    continue
+                counts["chapters"] += 1
+                for v, v2, check, text, margin in trapp_chapter(b, c, x, kjv, counts):
+                    cites, pars = [], []
+                    for kind, dest, ts in (("notes", cites, [text]), ("margin", pars, margin)):
+                        for t in ts:
+                            for r in R.refs(t, here=(b, c), point=True, old=True):
+                                if "\u25ca" in t[max(0, r["at"] - 2):r["at"] + 18]:
+                                    counts["cite next to an unread word, dropped"] += 1
+                                    continue
+                                rid, why = BT.kjv_id((r["book"], r["c"], r["v"], r["c2"], r["v2"]), shape, BT.APOCRYPHA)
+                                if rid is None:
+                                    counts["cite apocrypha" if why == "apocrypha" else "cite names no KJV verse"] += 1
+                                    if why != "apocrypha":
+                                        rejected.append({"on": [b, c, v], "ref": [r["book"], r["c"], r["v"]], "why": why,
+                                                         "text": t[max(0, r["at"] - 40):r["at"] + 40]})
+                                    continue
+                                if rid not in dest:
+                                    dest.append(rid)
+                    on = "kjv:%s.%d.%d" % (b, c, v) + ("-%d" % v2 if v2 != v else "")
+                    seen[on] += 1
+                    uid = f"{work}:{on[4:]}" if seen[on] == 1 else f"{work}:{on[4:]}~{seen[on]}"
+                    rows.append({"id": uid, "on": on, "anchor": check, "cites": cites, "parallels": pars})
+                    counts["comments"] += 1
+                    counts["anchor " + check] += 1
+                    counts["citations"] += len(cites)
+                    counts["parallels"] += len(pars)
+                    prose.append({"id": uid, "text": text, "margin": margin})
+    counts["verses_covered"] = len({r["on"] for r in rows})
     return rows, prose, rejected, dict(sorted(counts.items())), sources, None, []
 
 
@@ -870,6 +1057,8 @@ def build(write=True):
             rows, prose, rejected, counts, sources, measure, scans = build_tcp_work(w, shape)
         elif d.get("kind") == "scan":
             rows, prose, rejected, counts, sources, measure, scans = build_scan_work(w, shape)
+        elif d.get("kind") == "tcp-verse":
+            rows, prose, rejected, counts, sources, measure, scans = build_trapp_work(w, shape)
         else:
             rows, prose, rejected, counts, sources, measure, scans = build_work(w, shape)
         files[f"{w}.jsonl"] = BT.dumps(rows)
@@ -880,6 +1069,7 @@ def build(write=True):
                      "treasury_check": treasury_measure(rows, shape),
                      "source": {"title": d["title"], "author": d["author"],
                                 "edition": {"tcp": "EEBO-TCP TEI (hand-keyed from the first edition)",
+                                            "tcp-verse": "EEBO-TCP TEI (hand-keyed from the first editions)",
                                             "scan": "archive.org OCR of two printings of each Testament"}.get(d.get("kind"), "CCEL ThML"),
                                 "files": sources}}
         print(f"  {counts}")

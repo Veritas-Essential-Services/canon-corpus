@@ -2,7 +2,7 @@
 
 <!-- prov: 2026-10-03 drafted (Claude Code) · fable_review: pending -->
 
-Seven commentaries keyed to the KJV verse unit ids (`kjv:Gen.1.1`):
+Ten commentaries keyed to the KJV verse unit ids (`kjv:Gen.1.1`):
 which verses each comment is on, and which verses it cites. Nothing is minted.
 The ids are read from `data/uids/wordhoard.uids.json` and never written.
 
@@ -14,6 +14,9 @@ The ids are read from `data/uids/wordhoard.uids.json` and never written.
 | Albert Barnes, *Notes on the New Testament* | 7,947 | 7,947 | 39,586 | CCEL (keyed from Baker's 1949 reprint) |
 | John Wesley, *Explanatory Notes* (1755-66) | 19,073 | 28,160 | 3,151 | CCEL |
 | John Calvin, *Commentaries* (CTS English, 1843-55) | 14,041 | 16,363 | 17,102 | CCEL, 45 volumes |
+| Charles Hodge, *Ephesians* (1856) | 146 | 154 | 676 | CCEL |
+| Thomas Manton, *James* and *Jude* (1651-58) | 122 | 132 | 5,298 | CCEL (Nisbet, 1871) |
+| John Trapp, *Commentary* (1647-60), five volumes | 14,699 | 14,662 | 34,557 (+3,776 margin) | EEBO-TCP, hand-keyed first editions |
 | Adam Clarke, *Commentary* (1810-26) | 18,129 | 18,129 | 9,100 | archive.org OCR of two printings of each Testament |
 
 ```
@@ -61,6 +64,8 @@ division. The second reading comes from the comment's own text, never the mark:
 - Barnes: the division's title ("Matthew 2:14").
 - Calvin: the verse number that opens the comment (`<b>12.</b> <i>And Jesus
   entered</i>`), in the mark's chapter.
+- Hodge and Manton: the verse number that opens the comment ("V. 2.", "Ver.
+  2."), in the mark's chapter.
 - Wesley: CCEL marks only the chapter. Each note opens with its verse number
   ("5. And he opened his mouth - A phrase ..."), so the notes are split there.
   The second reading is the lemma, the words before " - ", looked for in the
@@ -73,6 +78,8 @@ division. The second reading comes from the comment's own text, never the mark:
 | Barnes | 7,569 | 0 | 378 |
 | Wesley | 9,870 | 213 | 8,990 |
 | Calvin | 10,334 | 134 | 3,573 |
+| Hodge | 132 | 0 | 14 |
+| Manton | 117 | 0 | 5 |
 
 "Unread" is mostly a comment with no quoted passage or lemma to read. Wesley's
 New Testament notes quote his own revision of the text, so many lemmas there
@@ -118,6 +125,9 @@ references only the reader found go to `build/commentary/wesley.rejected.jsonl`
 comma after the Roman chapter, which the reader takes only for him
 (`roman_comma`).
 
+Hodge writes "Heb. 13, 9", a comma for the colon. The reader takes that only
+for him (`comma`), since elsewhere "Ps. 23, 24" is two psalms.
+
 Calvin's CTS volumes carry the translators' footnotes (French readings,
 cross-references). They are the editors' words, not Calvin's, so they are
 cut before his citations are read and are not in his prose.
@@ -153,7 +163,20 @@ The reader handles his forms:
   carries over it.
 - A psalm's title ("Psal. 18. title") is no reference, as in the topical layer.
 
-**An outside check for all four.** The Treasury of Scripture Knowledge
+**Trapp.** TCP keyed five volumes of the first editions (1647-60) by hand:
+the Gospels to Luke, the Epistles and Revelation, Ezra to Psalms, the Minor
+Prophets, and Proverbs to Daniel. TCP's copy lacks John, Acts, the Pentateuch
+and the histories. Trapp does not print the Bible text. Each note opens a
+paragraph with its verse and lemma ("Verse 3. Concerning his Son] Here's a
+lofty ..."), and verse 1 stands in the chapter head. So a note's place is read
+twice: the printed number, and the lemma looked for in the KJV verse it names,
+with the spelling levelled (long s, u/v, i/j, a final e). 14,190 agree, 32
+differ and 477 are unread. A number that runs backwards is not read (110),
+and a head printed twice is read as one (31). Citations are read once, as
+Poole's are, and dropped next to an unread word (654). The margin, mostly his
+sources ("Chemnit. Exam."), is kept apart as `parallels`.
+
+**An outside check.** The Treasury of Scripture Knowledge
 (`data/xrefs/tsk.jsonl`, read from its own 1830s scans) is compared with each
 work's citations. How many does the Treasury also list at the same verse, and
 how many at an unrelated verse, 1,000 verses on?
@@ -167,6 +190,9 @@ how many at an unrelated verse, 1,000 verses on?
 | Poole, margin parallels | 68.0% | 0.2% |
 | Wesley | 45.1% | 0.1% |
 | Calvin | 14.2% | 0.2% |
+| Hodge | 10.6% | 0.4% |
+| Manton | 6.2% | 0.1% |
+| Trapp, notes | 15.0% | 0.2% |
 
 The check is a measure only. Nothing is kept or dropped by it. Henry's
 unrelated-verse figure is higher because his comments span whole sections.

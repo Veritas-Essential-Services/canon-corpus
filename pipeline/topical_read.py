@@ -136,6 +136,7 @@ _NUM = r"\d{1,3}"
 _CV = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)" % (_NUM, _NUM))
 _CV_POINT = re.compile(r"\s*(?:(?P<c>%s)\s*(?::|\.(?=\s*\d))\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)(?!\s?[A-Z][a-z]{0,13}\.?\s*\d)" % (_NUM, _NUM))
 
+_CV_ANY_COMMA = re.compile(r"\s*(?:(?P<c>%s)\s*[:,]\s*|(?P<r>[ivxlc]{1,8})[.,]\s*)(?P<v>%s)" % (_NUM, _NUM))
 _CV_COMMA = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})[.,]\s*)(?P<v>%s)" % (_NUM, _NUM))
 
 
@@ -173,7 +174,7 @@ def book_of(ordinal, name, forms=FORM):
     return b
 
 
-def refs(text, here=None, point=False, old=False, roman_comma=False):
+def refs(text, here=None, point=False, old=False, roman_comma=False, comma=False):
     """Every reference in text, in order: [{"book", "c", "v", "c2", "v2", "at"}].
     A book carries over to a following "c:v" after ";" or "," and to bare
     verse numbers after "," or "and"; a range ends at a verse ("16-20") or a
@@ -191,8 +192,9 @@ def refs(text, here=None, point=False, old=False, roman_comma=False):
     there it misreads more than it finds.
 
     roman_comma=True also reads a comma after a Roman chapter ("Luke iii, 31"),
-    as CCEL's Wesley prints them."""
-    _CV = _CV_POINT if point else (_CV_COMMA if roman_comma else globals()["_CV"])
+    as CCEL's Wesley prints them; comma=True a comma after any chapter ("Heb.
+    13, 9"), as CCEL's Hodge does (there "Ps. 23, 24" is a verse, not two psalms)."""
+    _CV = _CV_POINT if point else (_CV_ANY_COMMA if comma else _CV_COMMA if roman_comma else globals()["_CV"])
     forms = FORM_OLD if old else FORM
     out = []
     text = text.replace("\u2014", "-").replace("\u2013", "-")

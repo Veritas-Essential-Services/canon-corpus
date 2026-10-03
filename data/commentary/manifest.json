@@ -2,7 +2,7 @@
  "about": "Whole-Bible commentaries keyed to KJV verse ids. pipeline/build_commentary.py; rules in pipeline/README-commentary.md",
  "rights": {
   "license": "public-domain",
-  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
+  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856, Manton 1651-58 (Nisbet 1871), Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
   "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
   "redistribute_whole": true
  },
@@ -785,6 +785,202 @@
       "ccel_print_source": "",
       "ccel_print_source_check": false,
       "ccel_dc_rights": "Public Domain"
+     }
+    ]
+   }
+  },
+  "hodge": {
+   "file": "data/commentary/hodge.jsonl",
+   "sha256": "cb90792a63784a12d1cd9d3eb68c7bcb947cdbd0c8029380e20ba7064cfdda6c",
+   "rows": 146,
+   "counts": {
+    "anchor agrees": 132,
+    "anchor unread": 14,
+    "citations": 676,
+    "cite both": 734,
+    "cite ccel-only": 176,
+    "cite reader-only": 61,
+    "comments": 146,
+    "verses_covered": 154
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 624,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "ccel-only": {
+     "refs": 114,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "reader-only": {
+     "refs": 44,
+     "printed": 0,
+     "share_printed": 0.0
+    }
+   },
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 246,
+     "in_treasury_at_that_verse": 0.1057,
+     "in_treasury_at_an_unrelated_verse": 0.0041
+    }
+   },
+   "source": {
+    "title": "A Commentary on the Epistle to the Ephesians",
+    "author": "Charles Hodge (1797-1878)",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "hodge-ephesians",
+      "url": "https://ccel.org/ccel/h/hodge/ephesians.xml",
+      "sha256": "a25226498c8646bb3b062d0b3e58ccbea7ed9f4b14a04ef9b3728757301c21dc",
+      "ccel_print_source": "New York: Robert Carter and Bros. [1860]",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": null
+     }
+    ]
+   }
+  },
+  "manton": {
+   "file": "data/commentary/manton.jsonl",
+   "sha256": "4bea4dee4644a4ac98cd3fa98b5a56514ff81e94255452fc720cfdc7b2fdbc48",
+   "rows": 122,
+   "counts": {
+    "anchor agrees": 117,
+    "anchor unread": 5,
+    "citations": 5298,
+    "cite apocrypha": 2,
+    "cite both": 5679,
+    "cite ccel-only": 528,
+    "cite names no KJV verse": 17,
+    "cite reader-only": 313,
+    "comments": 122,
+    "verses_covered": 132
+   },
+   "explicit_citations_by_reading": {
+    "both": {
+     "refs": 5629,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "ccel-only": {
+     "refs": 512,
+     "printed": 0,
+     "share_printed": 0.0
+    },
+    "reader-only": {
+     "refs": 246,
+     "printed": 0,
+     "share_printed": 0.0
+    }
+   },
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 3085,
+     "in_treasury_at_that_verse": 0.0616,
+     "in_treasury_at_an_unrelated_verse": 0.0006
+    }
+   },
+   "source": {
+    "title": "A Practical Commentary, or an Exposition with Notes on the Epistles of James and Jude",
+    "author": "Thomas Manton (1620-1677)",
+    "edition": "CCEL ThML",
+    "files": [
+     {
+      "file": "manton04",
+      "url": "https://ccel.org/ccel/m/manton/manton04.xml",
+      "sha256": "2755b7879c26e006e4238d5b23784d5a815e3f4baa9dab5177742a1f556188b3",
+      "ccel_print_source": "London: James Nisbet &amp; Co. (1871)",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": null
+     },
+     {
+      "file": "manton05",
+      "url": "https://ccel.org/ccel/m/manton/manton05.xml",
+      "sha256": "435d3dba30709b6ed959fd9367116cff3e24d5821b2f31ab5390834ae3a2eb77",
+      "ccel_print_source": "London: James Nisbet &amp; Co. (1871)",
+      "ccel_print_source_check": false,
+      "ccel_dc_rights": null
+     }
+    ]
+   }
+  },
+  "trapp": {
+   "file": "data/commentary/trapp.jsonl",
+   "sha256": "b2becb4b2d1ed3bfb765a9c92aad62489e750361800927e39503203c4c6fd2d4",
+   "rows": 14699,
+   "counts": {
+    "a verse head repeated, read as one": 31,
+    "anchor agrees": 14190,
+    "anchor differs": 32,
+    "anchor unread": 477,
+    "chapters": 735,
+    "citations": 34557,
+    "cite apocrypha": 73,
+    "cite names no KJV verse": 948,
+    "cite next to an unread word, dropped": 654,
+    "comments": 14699,
+    "parallels": 3776,
+    "verse heads out of order, not read": 110,
+    "verses_covered": 14662
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 29095,
+     "in_treasury_at_that_verse": 0.1499,
+     "in_treasury_at_an_unrelated_verse": 0.0016
+    },
+    "parallels": {
+     "refs": 3350,
+     "in_treasury_at_that_verse": 0.0755,
+     "in_treasury_at_an_unrelated_verse": 0.0039
+    }
+   },
+   "source": {
+    "title": "A Commentary or Exposition upon ... (five volumes of the first editions)",
+    "author": "John Trapp (1601-1669)",
+    "edition": "EEBO-TCP TEI (hand-keyed from the first editions)",
+    "files": [
+     {
+      "file": "trapp-A63067",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A63067/master/A63067.xml",
+      "sha256": "63d2f9a9e54439cce653aa8e3bac1bc5a6f622ef0d4fd74321dd8d02d7957c1f",
+      "edition_date": "1647",
+      "tcp_licence": "CC0 1.0"
+     },
+     {
+      "file": "trapp-A63065",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A63065/master/A63065.xml",
+      "sha256": "440b7caa1fc282bccd576ad0559dd29ac2fe6d788dcce7d9fbbf00756834dcf0",
+      "edition_date": "1647",
+      "tcp_licence": "CC0 1.0"
+     },
+     {
+      "file": "trapp-A63066",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A63066/master/A63066.xml",
+      "sha256": "8899d8ef3b1af3be79b96feba3a19857f2c485854e98ab5e5789f22d0e991d4f",
+      "edition_date": "1657",
+      "tcp_licence": "CC0 1.0"
+     },
+     {
+      "file": "trapp-A63068",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A63068/master/A63068.xml",
+      "sha256": "1433f8113cb45b34400e1effacb259cdc15ff4789993ddff9348699457cab69b",
+      "edition_date": "1654",
+      "tcp_licence": "CC0 1.0"
+     },
+     {
+      "file": "trapp-A63069",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A63069/master/A63069.xml",
+      "sha256": "0622c547e10058daae32da35e8cedef3e9cd5cc5e8eecf8c65315b8973248744",
+      "edition_date": "1660",
+      "tcp_licence": "CC0 1.0"
      }
     ]
    }

@@ -6,7 +6,7 @@ for the colon, 17th-century book forms, "ver. 31" and "ch. 3. 4" read in the
 right book), CCEL's comments and Poole's verse numbers on fixtures (offline),
 then the committed data/commentary/ files against the KJV ids and their
 manifest."""
-import hashlib, json, os, sys
+import collections, hashlib, json, os, sys
 import xml.etree.ElementTree as ET
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
@@ -105,6 +105,17 @@ _c = {"anchor": ("Matt", 21, 13, 21, 13), "title": "", "chapter": None,
 check("Calvin: the translators' footnotes are not Calvin's citations; '<b>13.</b>' is the second reading",
       [x["t"][:3] for x in C.cites(_c, "calvin")] == [("Isa", 56, 7)] and C.anchor_check(_c, "calvin") == "agrees")
 
+# ---- Trapp (EEBO-TCP), on a fixture
+_tr = ET.fromstring('<div xmlns="http://www.tei-c.org/ns/1.0" type="chapter" n="1"><head>CHAP. I. Verse 1. '
+                    'Paul a ſervant of Ieſus Chriſt.]</head><p>An higher title, ſee <hi>Epheſ.</hi> 1.20.</p>'
+                    '<p>Verſe 2. <hi>Which he had promiſed afore</hi>] Fore-ſhewed.<note place="margin">Pſal. 2 12.</note></p>'
+                    '<p>Verſe 2. <hi>By his prophets</hi>] the ſame verſe again</p></div>')
+_trc = collections.Counter()
+_trv = C.trapp_chapter("Rom", 1, _tr, C.kjv_words(T.kjv_shape()), _trc)
+check("Trapp: verse 1 stands in the chapter head; long s levelled; a repeated head is one note; the margin is kept apart",
+      [(v, ck) for v, _, ck, _, _ in _trv] == [(1, "agrees"), (2, "agrees")] and _trc["a verse head repeated, read as one"] == 1
+      and _trv[1][4] == ["Psal. 2 12."] and "Ephes." in _trv[0][3])
+
 # ---- Clarke, read from scans (clarke_read.py), on fixtures
 import clarke_read as CR
 check("Clarke: a note heading's Roman numeral through its OCR ('XLH' is 42, 'HI' is 3); 'NOTES.--' has none",
@@ -177,6 +188,8 @@ check("Clarke: a note placed in one printing only commits no citation",
       all(not r["cites"] for r in _cl if r["anchor"] == "one printing")
       and sum(r["anchor"] == "both printings" for r in _cl) > 12000)
 check("Clarke: no note cites its own verse", all(r["on"].split("-")[0] not in r["cites"] for r in _cl))
+check("Trapp: five TCP volumes, first editions 1647-60, each public domain", len(srcs["trapp"]) == 5
+      and all(f["tcp_licence"] in ("CC0 1.0", "public domain (TCP availability statement)") for f in srcs["trapp"]))
 check("Calvin: the CTS footnotes are dropped, the 45 CCEL volumes pinned", len(srcs["calvin"]) == 45
       and C.WORKS["calvin"]["drop_notes"])
 check("Poole: two thirds of the margin's parallel places are the Treasury's too",
@@ -187,7 +200,9 @@ check("collation: every CCEL work's wording was compared with a period printing"
 
 import commentary
 cm = commentary.Commentary()
-check("loader: John 3:16 has a comment in every work", {r["work"] for r in cm.on("kjv:John.3.16")} == set(C.WORKS))
+_johns = {w for w in C.WORKS if any(i.startswith(w + ":John.") for i in cm.rows)}
+check("loader: John 3:16 has a comment in every work that reaches John", {r["work"] for r in cm.on("kjv:John.3.16")} == _johns
+      and {"henry", "calvin", "wesley", "clarke"} <= _johns)
 check("loader: and is cited from elsewhere", any(h["on"] != "kjv:John.3.16" for h in cm.citing("kjv:John.3.16")))
 
 print(f"\n{passed} passed, {fails} failed")

@@ -473,8 +473,9 @@ The living truth for project state is the Obsidian vault:
   (`wording_not_in_print`). Hitchcock (no references) joins by headword.
   pipeline/README-topical.md
 - pipeline/build_commentary.py (+ commentary.py, clarke_read.py) — Henry, JFB, Barnes, Wesley,
-  Calvin (CCEL ThML; Calvin's CTS translators' footnotes dropped as the editors'),
-  Poole (EEBO-TCP's hand-keyed 1683-85 folio, CC0) and Clarke (scans) keyed to KJV
+  Calvin, Hodge (Ephesians), Manton (James, Jude) (CCEL ThML; Calvin's CTS translators'
+  footnotes dropped as the editors'), Poole and Trapp (EEBO-TCP's hand-keyed first
+  editions; Trapp's place read by his "Verse N." head and lemma) and Clarke (scans) keyed to KJV
   verse ids -> data/commentary/*.jsonl (COMMITTED: which verses each comment
   is on, which it cites, Poole's margin parallels; the prose only in
   build/commentary/). Each comment's place is read twice (CCEL's mark and the
