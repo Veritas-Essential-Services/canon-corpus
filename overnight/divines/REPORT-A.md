@@ -599,3 +599,6 @@
 
 ## 2026-10-03 06:21 CDT — george-bull done
 - `pipeline/george-bull_shelf.json`: 13 IA volumes, title pages read. Works vol. 7 is the Trinity College copy (the San Marino copy returned HTTP 500). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 06:22 CDT — James Buchanan name forms
+- Bare "buchanan" replaced by full forms (it collided with PR #14's robert-buchanan); all 6 items re-recorded with the author seen as "james buchanan", 0 mismatched.
