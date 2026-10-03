@@ -316,3 +316,6 @@
 
 ## 2026-10-02 21:17 CDT — samuel-hopkins done
 - `pipeline/samuel-hopkins_shelf.json`: 3 volumes, raw IA OCR, median 98.8% (98.1-98.8%), about 7.6 MB; title page read (Boston, 1854, three volumes). The memoir's author is not on the title page, so the shelf does not name him. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:18 CDT — joseph-bellamy done
+- `pipeline/joseph-bellamy_shelf.json`: 2 volumes, raw IA OCR, 98.5-98.6%, about 4.4 MB; title pages read (1853, vols I-II, memoir). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

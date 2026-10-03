@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:17 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:18 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -126,6 +126,7 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 | John Brown of Haddington | john-brown-haddington_shelf.json | 0 (none exists) | 6 (Compendious View 1819; Dictionary 1839; Shorter Catechism 1845; British Churches 1820 ×2; Figures 1812) | his Concordance (left for later) | other John Browns that IA mixes with him (David Brown of JFB; John Brown of Edinburgh) |
 | Timothy Dwight | timothy-dwight_shelf.json | 0 (none exists) | 4 (Theology Explained and Defended, New York: Harper 1846, with memoir, complete) | none | his travels and poems (not divinity); a modern reprint |
 | Samuel Hopkins | samuel-hopkins_shelf.json | 0 (none exists) | 3 (Works, Boston 1854, with a memoir, complete; includes the System of Doctrines) | none | letters and manuscripts; modern reprints; his autobiographical Sketches (1805), left for you to add if wanted |
+| Joseph Bellamy | joseph-bellamy_shelf.json | 0 (none exists) | 2 (Works, Boston 1853, with a memoir, complete) | none | a 1987 reprint |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

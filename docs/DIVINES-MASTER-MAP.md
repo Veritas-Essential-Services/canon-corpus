@@ -1154,6 +1154,15 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `shopkins-*`.
 | Works, 3 vols (Boston: Doctrinal Tract and Book Society, 1854, with a memoir): the System of Doctrines, the Inquiry into True Holiness, the Dialogue concerning the Slavery of the Africans and more | have-raw | IA (identifiers in the shelf) |
 | Separate printings (1765-1815), including his Life of Edwards | alternate | IA |
 | Sketches of his life (1805) | excluded | autobiographical, edited by Stephen West; for Adam to add if wanted |
+
+## Joseph Bellamy (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from New York Public Library scans; slugs `jbellamy-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 2 vols (Boston: Doctrinal Tract and Book Society, 1853, with a memoir): True Religion Delineated, the Wisdom of God in the Permission of Sin, the Theron, Paulinus and Aspasio dialogues, sermons | have-raw | IA (identifiers in the shelf) |
+| New York Works (1811); 18th-century printings | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
