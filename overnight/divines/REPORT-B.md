@@ -413,3 +413,7 @@
 - Aristophanes: Comedies (Clouds, Plutus, Frogs, Birds; Valpy, 1812)
 - Aristophanes: Oxford literal Plutus and Frogs (Talboys, 1822; unnamed)
 - Aristophanes: Acharnians in verse by Billson (1882) and Tyrrell (1883)
+
+## 2026-10-03 02:43 CDT — Horace; retry
+- Horace: verse Odes by C. S. Mathews (1867), H. H. Pierce (1884), W. H. Cudworth (1917)
+- Retry: three items now show metadata but their text still answers 500 (Queen Elizabeth's Boethius, the 1670 Aelian, Sheppard's Oedipus); the rest unchanged

@@ -126,3 +126,4 @@
 - **Agamemnon (02:30):** four more versions (Harford 1831, Milman 1865, Paton 1907, Locke Ellis 1920). Harford's name is from the catalogue only.
 - **Reviewer cycle 9 (02:35):** name collisions fixed on seven shelves; McCrindle's 1893 date stands on the title page; no decisions for you.
 - **Euripides and Aristophanes (02:38):** an Oxford literal Euripides; five Aristophanes volumes (Walsh 1848, Valpy 1812, Talboys 1822, Billson 1882, Tyrrell 1883).
+- **Horace (02:43):** three more verse Odes (Mathews, Pierce, Cudworth). Hourly retry: nothing recovered yet.
