@@ -1,11 +1,12 @@
 {
- "_about": "Hellenistic and late Greek poets in English, translator per title, all raw IA OCR with title pages read: Callimachus (William Dodd, 1755 per the catalogue), Aratus (John Lamb, 1848; Edward Poste, 1880; Robert Brown Jr., 1885), Tryphiodorus (James Merrick, 1739) and Musaeus (Edwin Arnold). Mair's 1921 and 1928 Loebs (Callimachus, Lycophron, Aratus; Oppian, Colluthus, Tryphiodorus) are Greek facing and held back like the other Greek-facing Loebs.",
+ "_about": "Hellenistic and late Greek poets in English, translator per title, all raw IA OCR with title pages read: Callimachus (William Dodd, 1755 per the catalogue), Aratus (John Lamb, 1848; Edward Poste, 1880; Robert Brown Jr., 1885), Tryphiodorus (James Merrick, 1739), Oppian's Halieutica (Oxford, 1722; translators attributed) and Musaeus (Edwin Arnold). Mair's 1921 and 1928 Loebs (Callimachus, Lycophron, Aratus; Oppian, Colluthus, Tryphiodorus) are Greek facing and held back like the other Greek-facing Loebs.",
  "_name_words": [
   "callimachus",
   "aratus",
   "tryphiodorus",
   "musaeus",
-  "leander"
+  "leander",
+  "oppian"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -39,6 +40,11 @@
    "heroleanderfromg00musaiala",
    "Hero and Leander, from the Greek of Musaeus (Cassell, Petter and Galpin)",
    "tr. Edwin Arnold"
+  ],
+  "oppian-diaper-jones-halieuticks": [
+   "bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722",
+   "Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722)",
+   "tr. William Diaper and John Jones (attributed; the title page names no translator)"
   ]
  }
 }

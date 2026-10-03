@@ -1611,8 +1611,9 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | The Phainomena, or Heavenly Displays, of Aratus, done into English verse (1885) | Robert Brown Jr. | `aratus-brown-phainomena` | have-raw (IA `phainomenaorhea00aratgoog`) |
 | The Destruction of Troy, being the sequel of the Iliad, translated from the Greek of Tryphiodorus (Oxford, 1739) | James Merrick | `tryphiodorus-merrick-destruction-of-troy` | have-raw (IA `bim_eighteenth-century_the-destruction-of-troy_tryphiodorus_1739`) |
 | Hero and Leander, from the Greek of Musaeus (Cassell, Petter and Galpin) | Edwin Arnold | `musaeus-arnold-hero-leander` | have-raw (IA `heroleanderfromg00musaiala`) |
+| Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722) | William Diaper and John Jones (attributed; the title page names no translator) | `oppian-diaper-jones-halieuticks` | have-raw (IA `bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722`) |
 
-Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Oppian's Halieuticks (Diaper and Jones, 1722; the archive.org file answers 404); Mair's Loebs (Greek facing).
+Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Mair's Loebs (Greek facing).
 
 ## Perseus census (overflow)
 
