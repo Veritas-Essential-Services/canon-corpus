@@ -5,6 +5,9 @@
   "thomas",
   "bulfinch"
  ],
+ "_surname": [
+  "bulfinch"
+ ],
  "ccel": {},
  "gutenberg": {
   "bulfinch-age-of-fable": [
@@ -32,5 +35,43 @@
   "bulfinch-combined": "Bulfinch's Mythology in one file (PG 4928, 56644) and a second Age of Fable (PG 3327): the three books are held singly",
   "bulfinch-gayley": "The Classic Myths in English Literature (PG 46063): Charles Mills Gayley's book based on Bulfinch, not Bulfinch's text",
   "bulfinch-pending": "PENDING: Poetry of the Age of Fable (1863), Shakespeare Adapted for Reading Classes (1865), The Boy Inventor (1860) — Internet Archive scans not yet checked"
+ },
+ "_checks": {
+  "bulfinch-age-of-fable": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bulfinch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bulfinch-age-of-chivalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bulfinch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bulfinch-legends-of-charlemagne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bulfinch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bulfinch-oregon-and-eldorado": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bulfinch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

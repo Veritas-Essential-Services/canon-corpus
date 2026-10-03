@@ -5,6 +5,13 @@
   "tales",
   "japan"
  ],
+ "_surname": [
+  "mitford",
+  "redesdale"
+ ],
+ "_translators": {
+  "mitford-tales-of-old-japan": "Mitford"
+ },
  "ccel": {},
  "gutenberg": {
   "mitford-tales-of-old-japan": [
@@ -18,5 +25,18 @@
  "internet_archive": {},
  "_excluded": {
   "mitford-memoirs": "The Attache at Peking (PG 70467) and his Memories (76182-76184): memoir, not tales"
+ },
+ "_checks": {
+  "mitford-tales-of-old-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mitford",
+   "translator_claimed": "Mitford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

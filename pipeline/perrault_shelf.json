@@ -9,6 +9,14 @@
   "tales",
   "time"
  ],
+ "_surname": [
+  "perrault"
+ ],
+ "_translators": {
+  "perrault-mother-goose-welsh": "Welsh",
+  "perrault-fairy-tales-samber-mansion": "Mansion",
+  "perrault-old-time-stories-johnson": "Johnson"
+ },
  "ccel": {},
  "gutenberg": {
   "perrault-mother-goose-welsh": [
@@ -34,5 +42,43 @@
   "perrault-anthologies": "Planché's Four and Twenty Fairy Tales (PG 52719, 1858) and Quiller-Couch's The Sleeping Beauty (PG 51275): anthologies mostly of other French writers; Perrault is a minority of each",
   "perrault-chapbooks": "single-tale Blue Beard chapbooks (PG 43457, 44288, 45381): anonymous retellings, no translator recorded",
   "perrault-other": "Vitruvius abridged by Claude Perrault (PG 27877): a different Perrault"
+ },
+ "_checks": {
+  "perrault-mother-goose-welsh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "perrault",
+   "translator_claimed": "Welsh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Welsh",
+   "translator_match": true
+  },
+  "perrault-fairy-tales-samber-mansion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "perrault",
+   "translator_claimed": "Mansion",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. E. Mansion",
+   "translator_match": true
+  },
+  "perrault-old-time-stories-johnson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "perrault",
+   "translator_claimed": "Johnson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. E. Johnson",
+   "translator_match": true
+  }
  }
 }

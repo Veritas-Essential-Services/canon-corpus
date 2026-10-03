@@ -4,6 +4,17 @@
  "_name_words": [
   "edda"
  ],
+ "_surname": [
+  "bellows",
+  "thorpe",
+  "morris",
+  "magnússon"
+ ],
+ "_translators": {
+  "edda-bellows": "Bellows",
+  "edda-thorpe-blackwell": "Blackwell",
+  "edda-volsunga-morris": "Magnússon"
+ },
  "ccel": {},
  "gutenberg": {
   "edda-bellows": [
@@ -54,5 +65,43 @@
  "_excluded": {
   "edda-retellings": "Faraday's The Edda (PG 13007-13008), Wilmot-Buxton (29551): studies and retellings; Guerber's Myths of the Norsemen (28497) is held on guerber_shelf.json",
   "edda-prose": "Snorri's Prose (Younger) Edda is on the Sturluson shelf"
+ },
+ "_checks": {
+  "edda-bellows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bellows",
+   "translator_claimed": "Bellows",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Adams Bellows",
+   "translator_match": true
+  },
+  "edda-thorpe-blackwell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bellows",
+   "translator_claimed": "Blackwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Andrew Blackwell",
+   "translator_match": true
+  },
+  "edda-volsunga-morris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "morris",
+   "translator_claimed": "Magnússon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon",
+   "translator_match": true
+  }
  }
 }

@@ -6,6 +6,12 @@
   "fairy",
   "tales"
  ],
+ "_surname": [
+  "ralston"
+ ],
+ "_translators": {
+  "ralston-russian-fairy-tales": "Ralston"
+ },
  "ccel": {},
  "gutenberg": {
   "ralston-russian-fairy-tales": [
@@ -31,5 +37,19 @@
  "_excluded": {
   "ralston-other-translations": "Turgenev's Liza (PG 12194) and Schiefner's Tibetan Tales (PG 66870), both tr. Ralston: outside the relay's ask (Russian tales); Tibetan Tales would suit a later folk-tale batch",
   "ralston-commentary-only": "Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only"
+ },
+ "_checks": {
+  "ralston-russian-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ralston",
+   "translator_claimed": "Ralston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Ralston Shedden Ralston",
+   "translator_match": true
+  }
  }
 }

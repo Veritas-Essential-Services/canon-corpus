@@ -8,6 +8,16 @@
   "sturlason",
   "snorre"
  ],
+ "_surname": [
+  "sturluson",
+  "snorri",
+  "laing",
+  "anderson"
+ ],
+ "_translators": {
+  "sturluson-heimskringla-laing": "Laing",
+  "sturluson-younger-edda-anderson": "Anderson"
+ },
  "ccel": {},
  "gutenberg": {
   "sturluson-heimskringla-laing": [
@@ -34,5 +44,33 @@
  "_excluded": {
   "sturluson-selection": "The Sagas of Olaf Tryggvason and of Harald the Tyrant (PG 22093, tr. Ethel Harriet Hearn from Storm's Norwegian): two sagas of Heimskringla, translated at second hand; not taken",
   "sturluson-thorpe": "Thorpe and Blackwell's Elder and Younger Eddas (PG 14726): held on the Poetic Edda shelf (edda-thorpe-blackwell)"
+ },
+ "_checks": {
+  "sturluson-heimskringla-laing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sturluson",
+   "translator_claimed": "Laing",
+   "translator_in_text": false,
+   "identity": "identity_override",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sturluson-younger-edda-anderson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sturluson",
+   "translator_claimed": "Anderson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson",
+   "translator_match": true
+  }
+ },
+ "_identity_checked": {
+  "sturluson-heimskringla-laing": "The Gutenberg text names no translator; Laing (rev. Anderson) was identified by collation, as the row's title and shelf note record"
  }
 }

@@ -5,6 +5,14 @@
   "collodi",
   "pinocchio"
  ],
+ "_surname": [
+  "collodi",
+  "lorenzini"
+ ],
+ "_translators": {
+  "collodi-pinocchio-della-chiesa": "Chiesa",
+  "collodi-pinocchio-murray": "Murray"
+ },
  "ccel": {},
  "gutenberg": {
   "collodi-pinocchio-della-chiesa": [
@@ -23,5 +31,32 @@
   "collodi-translator-unrecorded": "PENDING: Pinocchio: The Tale of a Puppet (PG 16865, Whitman 1916, ill. Alice Carsey) names no translator; it does not enter the shelf until the translator is identified (the 2026-07-26 rights rule)",
   "collodi-not-pinocchio": "Beppo, tr. W. S. Cramp (PG 78089): not Pinocchio, outside the relay's ask; The Heart of Pinocchio (41446) is by Collodi Nipote, not Collodi",
   "collodi-translations": "Italian originals (19517, 52484) and the Finnish translation (53077): this shelf is English"
+ },
+ "_checks": {
+  "collodi-pinocchio-della-chiesa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "collodi",
+   "translator_claimed": "Chiesa",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Carol Della Chiesa",
+   "translator_match": true
+  },
+  "collodi-pinocchio-murray": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "collodi",
+   "translator_claimed": "Murray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -4,6 +4,9 @@
  "_name_words": [
   "ruskin"
  ],
+ "_surname": [
+  "ruskin"
+ ],
  "ccel": {},
  "gutenberg": {
   "ruskin-king-of-the-golden-river": [
@@ -26,5 +29,16 @@
  "_excluded": {
   "ruskin-duplicates": "The King of the Golden River (PG 701), another transcription of the same text",
   "ruskin-not-this-shelf": "his other works (Modern Painters, The Stones of Venice, Sesame and Lilies and the rest): outside the storytellers shelf"
+ },
+ "_checks": {
+  "ruskin-king-of-the-golden-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ruskin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

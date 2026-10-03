@@ -4,6 +4,9 @@
  "_name_words": [
   "dickens"
  ],
+ "_surname": [
+  "dickens"
+ ],
  "ccel": {},
  "gutenberg": {
   "dickens-christmas-carol": [
@@ -47,5 +50,52 @@
   "dickens-duplicates": "other transcriptions of the five books: A Christmas Carol (PG 9696, 19337, 19505, 20673, 24022 ill. Rackham, 30368 the manuscript facsimile), The Chimes (9738), The Cricket on the Hearth (9739, 20795, 37581), The Battle of Life (9694, 40723), The Haunted Man (9713)",
   "dickens-not-his": "stage adaptations by others: C. A. Scott's Old Scrooge (40729), C. Z. Barnett's The Miser's Warning (41739)",
   "dickens-not-this-shelf": "his Christmas stories written for Household Words and All the Year Round, and his novels: outside the relay's five Christmas books"
+ },
+ "_checks": {
+  "dickens-christmas-carol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-chimes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-cricket-on-the-hearth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-battle-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-haunted-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

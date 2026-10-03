@@ -9,6 +9,9 @@
   "lodge",
   "stingy"
  ],
+ "_surname": [
+  "grinnell"
+ ],
  "ccel": {},
  "gutenberg": {
   "grinnell-pawnee-hero-stories": [
@@ -40,5 +43,43 @@
  "internet_archive": {},
  "_excluded": {
   "grinnell-other": "When Buffalo Ran (PG 15189), Trails of the Pathfinders (53897), Beyond the Old Frontier (54125), the Jack books and Boone and Crockett volumes: history, fiction and hunting, outside a folk-tale batch"
+ },
+ "_checks": {
+  "grinnell-pawnee-hero-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grinnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grinnell-blackfoot-lodge-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grinnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grinnell-punishment-of-the-stingy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grinnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grinnell-blackfeet-indian-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grinnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

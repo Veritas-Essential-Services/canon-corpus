@@ -4,6 +4,9 @@
  "_name_words": [
   "lofting"
  ],
+ "_surname": [
+  "lofting"
+ ],
  "ccel": {},
  "gutenberg": {
   "lofting-story-of-doctor-dolittle": [
@@ -50,5 +53,72 @@
   "lofting-duplicates": "The Story of Doctor Dolittle (PG 26201), another transcription",
   "lofting-later-printings-only": "PENDING: Doctor Dolittle's Circus (1924), Doctor Dolittle's Zoo (1925) and Doctor Dolittle's Garden (1927). The Internet Archive scans found are later printings (1950s-1960s, with renewal notices and new front matter about Lofting that is not itself public domain); a first-printing scan should be found before they enter the shelf",
   "lofting-1929-and-later": "outside the relay's pre-1929 line: Noisy Nora (1929), The Twilight of Magic (1930), Gub Gub's Book (1932) and the later Dolittle books"
+ },
+ "_checks": {
+  "lofting-story-of-doctor-dolittle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lofting-voyages-of-doctor-dolittle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lofting-doctor-dolittles-post-office": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lofting-story-of-mrs-tubbs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lofting-porridge-poetry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lofting-doctor-dolittle-in-the-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lofting-doctor-dolittles-caravan": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lofting",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

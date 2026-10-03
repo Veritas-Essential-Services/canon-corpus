@@ -5,6 +5,9 @@
   "oscar",
   "wilde"
  ],
+ "_surname": [
+  "wilde"
+ ],
  "ccel": {},
  "gutenberg": {
   "wilde-happy-prince": [
@@ -26,5 +29,25 @@
  "_excluded": {
   "wilde-duplicates": "other transcriptions of The Happy Prince (PG 23937, 30120 ill. Charles Robinson)",
   "wilde-not-this-shelf": "his plays, The Picture of Dorian Gray, the poems, essays and Lord Arthur Savile's Crime: outside the storytellers shelf unless Adam widens it"
+ },
+ "_checks": {
+  "wilde-happy-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wilde-house-of-pomegranates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wilde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

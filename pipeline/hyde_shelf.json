@@ -7,6 +7,13 @@
   "sinners",
   "irish"
  ],
+ "_surname": [
+  "hyde"
+ ],
+ "_translators": {
+  "hyde-legends-of-saints-and-sinners": "Hyde",
+  "hyde-beside-the-fire": "Hyde"
+ },
  "ccel": {},
  "gutenberg": {
   "hyde-legends-of-saints-and-sinners": [
@@ -25,5 +32,31 @@
  },
  "_excluded": {
   "hyde-other": "A Literary History of Ireland (PG 53793) and the Revival of Irish Literature addresses (32746): history and criticism, not tales"
+ },
+ "_checks": {
+  "hyde-legends-of-saints-and-sinners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hyde",
+   "translator_claimed": "Hyde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hyde-beside-the-fire": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hyde",
+   "translator_claimed": "Hyde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

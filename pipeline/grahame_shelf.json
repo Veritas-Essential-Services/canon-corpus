@@ -5,6 +5,9 @@
   "kenneth",
   "grahame"
  ],
+ "_surname": [
+  "grahame"
+ ],
  "ccel": {},
  "gutenberg": {
   "grahame-wind-in-the-willows": [
@@ -38,5 +41,52 @@
  "_excluded": {
   "grahame-duplicates": "other transcriptions of books held: The Wind in the Willows (PG 22340, 22341, 26293, 27805 ill. Bransom), The Golden Age (32501 ill. Parrish, 53250), Dream Days (1288, 35187 ill. Parrish), The Reluctant Dragon (21588, a chapter of Dream Days)",
   "grahame-not-his": "anthologies he edited: The Cambridge Book of Poetry for Children (50994), Eugene Field's Lullaby-Land (54874)"
+ },
+ "_checks": {
+  "grahame-wind-in-the-willows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grahame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grahame-golden-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grahame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grahame-dream-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grahame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grahame-pagan-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grahame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grahame-headswoman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grahame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

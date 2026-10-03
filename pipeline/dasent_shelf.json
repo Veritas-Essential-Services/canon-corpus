@@ -6,6 +6,15 @@
   "tales",
   "fjeld"
  ],
+ "_surname": [
+  "dasent"
+ ],
+ "_translators": {
+  "dasent-popular-tales-from-the-norse": "Dasent",
+  "dasent-tales-from-the-fjeld": "Dasent",
+  "dasent-burnt-njal": "Dasent",
+  "dasent-gisli-the-outlaw": "Dasent"
+ },
  "ccel": {},
  "gutenberg": {
   "dasent-popular-tales-from-the-norse": [
@@ -42,5 +51,56 @@
   "dasent-selection": "A Selection from the Norse Tales for the Use of Children (PG 64189): a selection from Popular Tales from the Norse, a duplicate of its stories",
   "dasent-njal-duplicate": "The Story of Burnt Njal (PG 597, 1995 e-text by Douglas Killings): an older transcription of the same translation; the header does not name Dasent as translator. PG 17919 is held instead",
   "dasent-orkneyingers": "The Orkneyingers' Saga (Rolls Series, 1894): no usable scan found on this pass"
+ },
+ "_checks": {
+  "dasent-popular-tales-from-the-norse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dasent",
+   "translator_claimed": "Dasent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir George Webbe Dasent",
+   "translator_match": true
+  },
+  "dasent-tales-from-the-fjeld": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dasent",
+   "translator_claimed": "Dasent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir George Webbe Dasent",
+   "translator_match": true
+  },
+  "dasent-burnt-njal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dasent",
+   "translator_claimed": "Dasent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir George Webbe Dasent",
+   "translator_match": true
+  },
+  "dasent-gisli-the-outlaw": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dasent",
+   "translator_claimed": "Dasent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

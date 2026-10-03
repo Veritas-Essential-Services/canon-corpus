@@ -6,6 +6,22 @@
   "hans",
   "christian"
  ],
+ "_surname": [
+  "andersen"
+ ],
+ "_translators": {
+  "andersen-what-the-moon-saw-dulcken": "Dulcken",
+  "andersen-wonderful-stories-howitt": "Howitt",
+  "andersen-true-story-of-my-life-howitt": "Howitt",
+  "andersen-sand-hills-of-jutland-bushby": "Bushby",
+  "andersen-ice-maiden-fuller": "Fuller",
+  "andersen-stories-household-dulcken": "Dulcken",
+  "andersen-fairy-tales-craigie": "Craigie",
+  "andersen-danish-fairy-legends-peachey": "Peachey",
+  "andersen-fairy-tales-braekstad": "Brækstad",
+  "andersen-faery-tales-lucas": "Lucas",
+  "andersen-improvisatore-howitt": "Howitt"
+ },
  "ccel": {},
  "gutenberg": {
   "andersen-fairy-tales-paull": [
@@ -95,5 +111,197 @@
   "andersen-other-languages": "French, German, Dutch, Catalan, Esperanto, Greek and Finnish Gutenberg translations: not English",
   "andersen-hersholt": "Jean Hersholt's Complete Andersen (1942-49): in copyright",
   "andersen-pending": "PENDING, not fetched: Mrs. H. B. Paull's Hans Andersen's Fairy Tales and Stories (1872) as a scan to confirm PG 27200's translator; Under the Willow Tree (Dulcken, 1870); Only a Fiddler and In Spain (Howitt/Bushby); the Danish originals"
+ },
+ "_checks": {
+  "andersen-fairy-tales-paull": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "andersen-what-the-moon-saw-dulcken": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Dulcken",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. W. Dulcken",
+   "translator_match": true
+  },
+  "andersen-wonderful-stories-howitt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Howitt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Howitt",
+   "translator_match": true
+  },
+  "andersen-true-story-of-my-life-howitt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Howitt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Howitt",
+   "translator_match": true
+  },
+  "andersen-sand-hills-of-jutland-bushby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Bushby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Bushby",
+   "translator_match": true
+  },
+  "andersen-ice-maiden-fuller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Fuller",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fanny Fuller",
+   "translator_match": true
+  },
+  "andersen-christmas-greeting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "andersen-o-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "andersen-pictures-of-sweden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "andersen-stories-household-dulcken": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Dulcken",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "andersen-fairy-tales-craigie": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Craigie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "andersen-danish-fairy-legends-peachey": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Peachey",
+   "translator_in_text": false,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "andersen-fairy-tales-braekstad": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Brækstad",
+   "translator_in_text": false,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "andersen-faery-tales-lucas": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Lucas",
+   "translator_in_text": false,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "andersen-improvisatore-howitt": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "translator_claimed": "Howitt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "andersen-picture-book-without-pictures": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "andersen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "andersen-danish-fairy-legends-peachey": "2026-10-03, Lane D read the OCR: title page reads 'TRANSLATED BY CAROLINES PEACHET' (Caroline Peachey), line 93",
+  "andersen-fairy-tales-braekstad": "2026-10-03: title-page OCR unreadable; the Internet Archive record says 'At head of title: Translated from the Danish by H.L. Brækstad' and lists Brækstad as creator (Century Co., 1900)",
+  "andersen-faery-tales-lucas": "2026-10-03: title-page OCR reads 'TR\\JM?L\\TeO fly (DRs e.LCICAS' (Translated by Mrs. E. Lucas); the Internet Archive record lists 'Lucas, Edgar, Mrs'"
  }
 }

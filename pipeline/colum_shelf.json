@@ -4,6 +4,9 @@
  "_name_words": [
   "colum"
  ],
+ "_surname": [
+  "colum"
+ ],
  "ccel": {},
  "gutenberg": {
   "colum-king-of-irelands-son": [
@@ -77,5 +80,70 @@
   "colum-plays": "Three Plays (PG 11878): drama, outside the relay's folk-tale ask",
   "colum-commentary-only": "Stephens's Mary, Mary (PG 24742): Colum wrote the introduction only",
   "colum-post-1928": "anything Colum published after 1928 is not taken (the relay's pre-1929 line)"
+ },
+ "_checks": {
+  "colum-king-of-irelands-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colum-adventures-of-odysseus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colum-boy-who-knew-what-the-birds-said": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colum-boy-apprenticed-to-an-enchanter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colum-children-of-odin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colum-golden-fleece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "colum-at-the-gateways-of-the-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "colum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

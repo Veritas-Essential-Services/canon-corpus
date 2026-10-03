@@ -7,6 +7,12 @@
   "west",
   "highlands"
  ],
+ "_surname": [
+  "campbell"
+ ],
+ "_translators": {
+  "campbell-west-highlands-1": "Campbell"
+ },
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
@@ -29,5 +35,53 @@
  },
  "_excluded": {
   "campbell-1860": "the first edition (Edinburgh, 1860-62), also on IA: the 1890 edition is preferred as the later revision"
+ },
+ "_checks": {
+  "campbell-west-highlands-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "translator_claimed": "Campbell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890-93",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "campbell-west-highlands-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "campbell-west-highlands-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "campbell-west-highlands-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

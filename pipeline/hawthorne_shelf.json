@@ -5,6 +5,9 @@
   "nathaniel",
   "hawthorne"
  ],
+ "_surname": [
+  "hawthorne"
+ ],
  "ccel": {},
  "gutenberg": {
   "hawthorne-wonder-book": [
@@ -28,5 +31,43 @@
  "_excluded": {
   "hawthorne-duplicates": "A Wonder Book and Tanglewood Tales (PG 35377, Parrish ill., both books in one file), Tanglewood Tales (PG 51995, Sterrett ill.), and the single Wonder-Book tales (PG 9255-9258): texts held",
   "hawthorne-not-this-shelf": "PENDING, outside this storytellers shelf unless Adam widens it: the novels (Scarlet Letter, Seven Gables, Blithedale, Marble Faun, Fanshawe), Twice-Told Tales, Mosses from an Old Manse, The Snow-Image and the single-story Gutenberg files cut from them (PG 9201-9245), notebooks"
+ },
+ "_checks": {
+  "hawthorne-wonder-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hawthorne-tanglewood-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hawthorne-grandfathers-chair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hawthorne-biographical-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hawthorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

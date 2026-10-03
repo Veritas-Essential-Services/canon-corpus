@@ -6,6 +6,9 @@
   "fairy",
   "tales"
  ],
+ "_surname": [
+  "jacobs"
+ ],
  "ccel": {},
  "gutenberg": {
   "jacobs-english-fairy-tales": [
@@ -46,5 +49,61 @@
   "jacobs-celtic-folk-and-fairy-tales": "PENDING CHECK: Celtic Folk and Fairy Tales (PG 35862) is probably Celtic Fairy Tales under an American title; held back until compared",
   "jacobs-edited-only": "works Jacobs only edited or introduced: Painter's Palace of Pleasure (PG 20241, 34053, 34840), Morris's Old French Romances (PG 5988)",
   "jacobs-not-fairy-tales": "The Story of Geographical Discovery (PG 14291), As Others Saw Him (PG 48974): outside the relay's ask"
+ },
+ "_checks": {
+  "jacobs-english-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacobs-more-english-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacobs-celtic-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacobs-more-celtic-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacobs-indian-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacobs-europas-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

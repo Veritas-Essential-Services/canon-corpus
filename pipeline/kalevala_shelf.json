@@ -4,6 +4,17 @@
  "_name_words": [
   "kalevala"
  ],
+ "_surname": [
+  "crawford",
+  "kirby",
+  "lönnrot",
+  "lonnrot"
+ ],
+ "_translators": {
+  "kalevala-crawford": "Crawford",
+  "kalevala-kirby-1": "Kirby",
+  "kalevala-kirby-2": "Kirby"
+ },
  "ccel": {},
  "gutenberg": {
   "kalevala-crawford": [
@@ -22,5 +33,43 @@
  "internet_archive": {},
  "_excluded": {
   "kalevala-duplicates": "Crawford's Kalevala volumes 1 and 2 (PG 5184, 5185): the same text as the complete file"
+ },
+ "_checks": {
+  "kalevala-crawford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crawford",
+   "translator_claimed": "Crawford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Martin Crawford",
+   "translator_match": true
+  },
+  "kalevala-kirby-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crawford",
+   "translator_claimed": "Kirby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. F. Kirby",
+   "translator_match": true
+  },
+  "kalevala-kirby-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kirby",
+   "translator_claimed": "Kirby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. F. Kirby",
+   "translator_match": true
+  }
  }
 }

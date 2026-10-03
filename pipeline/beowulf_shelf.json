@@ -4,6 +4,19 @@
  "_name_words": [
   "beowulf"
  ],
+ "_surname": [
+  "hall",
+  "morris",
+  "kirtlan",
+  "gummere",
+  "wyatt"
+ ],
+ "_translators": {
+  "beowulf-hall": "Hall",
+  "beowulf-morris-wyatt": "Morris",
+  "beowulf-kirtlan": "Kirtlan",
+  "beowulf-gummere": "Gummere"
+ },
  "ccel": {},
  "gutenberg": {
   "beowulf-hall": [
@@ -28,5 +41,55 @@
   "beowulf-scholarship": "Chambers's Beowulf: An Introduction (PG 34117), Olson's Hrolfs Saga and Beowulf (14878), Tinker's Translations of Beowulf (25942): about the poem, not the poem",
   "beowulf-elsewhere": "Longfellow's Beowulf passage is on the Longfellow translator shelf (lane C)",
   "beowulf-ia-candidates": "Earle (1892) and Tinker (1902) translations exist as IA scans; not taken in this batch"
+ },
+ "_checks": {
+  "beowulf-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hall",
+   "translator_claimed": "Hall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Lesslie Hall",
+   "translator_match": true
+  },
+  "beowulf-morris-wyatt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hall",
+   "translator_claimed": "Morris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Morris",
+   "translator_match": true
+  },
+  "beowulf-kirtlan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hall",
+   "translator_claimed": "Kirtlan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest J. B. Kirtlan",
+   "translator_match": true
+  },
+  "beowulf-gummere": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hall",
+   "translator_claimed": "Gummere",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Barton Gummere",
+   "translator_match": true
+  }
  }
 }

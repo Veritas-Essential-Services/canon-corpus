@@ -8,6 +8,12 @@
   "visions",
   "beliefs"
  ],
+ "_surname": [
+  "gregory"
+ ],
+ "_translators": {
+  "gregory-gods-and-fighting-men": "Gregory"
+ },
  "ccel": {},
  "gutenberg": {
   "gregory-gods-and-fighting-men": [
@@ -45,5 +51,56 @@
  "_excluded": {
   "gregory-plays": "her plays (Seven Short Plays, New Comedies, Three Wonder Plays and others): drama, outside this shelf",
   "gregory-other": "The Kiltartan History Book (PG 11260), The Kiltartan Poetry Book (6656), Poets and Dreamers (18070), Our Irish Theatre (65953), Arabi and his Household (74246): candidates for a later batch or another lane"
+ },
+ "_checks": {
+  "gregory-gods-and-fighting-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gregory",
+   "translator_claimed": "Gregory",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gregory-kiltartan-wonder-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gregory-visions-and-beliefs-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gregory-visions-and-beliefs-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gregory",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gregory-cuchulain-of-muirthemne": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gregory",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

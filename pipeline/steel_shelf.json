@@ -7,6 +7,9 @@
   "fairy",
   "tales"
  ],
+ "_surname": [
+  "steel"
+ ],
  "ccel": {},
  "gutenberg": {
   "steel-tales-of-the-punjab": [
@@ -31,5 +34,25 @@
  "internet_archive": {},
  "_excluded": {
   "steel-novels": "her novels and Indian stories (On the Face of the Waters and some twenty others, PG 39794-40142): fiction, outside a folk-tale batch"
+ },
+ "_checks": {
+  "steel-tales-of-the-punjab": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "steel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "steel-english-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "steel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

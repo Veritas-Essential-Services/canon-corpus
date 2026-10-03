@@ -8,6 +8,9 @@
   "warriors",
   "romances"
  ],
+ "_surname": [
+  "ozaki"
+ ],
  "ccel": {},
  "gutenberg": {
   "ozaki-japanese-fairy-tales": [
@@ -29,5 +32,34 @@
  "internet_archive": {},
  "_excluded": {
   "ozaki-other-japanese": "Grace James's Japanese Fairy Tales (PG 35853) and Griffis's Japanese Fairy World (29337): held on their own shelves, grace-james and griffis"
+ },
+ "_checks": {
+  "ozaki-japanese-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ozaki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ozaki-warriors-of-old-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ozaki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ozaki-romances-of-old-japan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ozaki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Yei Theodora Ozaki"
+  }
  }
 }

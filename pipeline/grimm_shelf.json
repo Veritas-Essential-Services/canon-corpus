@@ -6,6 +6,14 @@
   "jacob",
   "wilhelm"
  ],
+ "_surname": [
+  "grimm"
+ ],
+ "_translators": {
+  "grimm-hunt-household-tales": "Hunt",
+  "grimm-hunt-1884-01": "Hunt",
+  "grimm-hunt-1884-02": "Hunt"
+ },
  "ccel": {},
  "gutenberg": {
   "grimm-hunt-household-tales": [
@@ -32,5 +40,45 @@
   "grimm-same-surname": "other Grimms: Florence M. Grimm (Astronomical Lore in Chaucer), George Grimm (Australian Explorers), Constantin de Grimm (illustrator)",
   "grimm-other-languages": "French, Icelandic, Dutch, Polish, Portuguese, Hungarian and Finnish Gutenberg translations: not English",
   "grimm-pending-alternates": "PENDING, not held: Edgar Taylor and Marian Edwardes's translation (PG 2591), Lucy Crane's Household Stories (PG 19068, ill. Walter Crane), and the German originals (Deutsche Sagen PG 76558; KHM) — alternate witnesses Adam may want"
+ },
+ "_checks": {
+  "grimm-hunt-household-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grimm",
+   "translator_claimed": "Hunt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Alfred William Hunt",
+   "translator_match": true
+  },
+  "grimm-hunt-1884-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grimm",
+   "translator_claimed": "Hunt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grimm-hunt-1884-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "grimm",
+   "translator_claimed": "Hunt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

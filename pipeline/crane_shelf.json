@@ -6,6 +6,12 @@
   "popular",
   "tales"
  ],
+ "_surname": [
+  "crane"
+ ],
+ "_translators": {
+  "crane-italian-popular-tales": "Crane"
+ },
  "ccel": {},
  "gutenberg": {
   "crane-italian-popular-tales": [
@@ -29,5 +35,18 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {}
+ "_excluded": {},
+ "_checks": {
+  "crane-italian-popular-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crane",
+   "translator_claimed": "Crane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

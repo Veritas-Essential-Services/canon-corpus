@@ -5,6 +5,15 @@
   "aesop",
   "æsop"
  ],
+ "_surname": [
+  "aesop",
+  "æsop",
+  "townsend",
+  "jacobs"
+ ],
+ "_translators": {
+  "aesop-townsend": "Townsend"
+ },
  "ccel": {},
  "gutenberg": {
   "aesop-townsend": [
@@ -27,5 +36,28 @@
   "aesop-other-versions": "PENDING, outside the relay's two translations unless Adam widens it: V. S. Vernon Jones's translation with G. K. Chesterton's introduction and Rackham's pictures (PG 11339, 1912), Croxall (39187), L'Estrange's Fables of Aesop and other mythologists (79038), Bewick's editions (60004, 60874), the 1884 Revised Version (18732), Alfred Caldecott (34588), and the children's versions (Winter 19994, Stickney 49010, C. Robinson 53103, Park's rhymes 21189, Crane's Baby's Own Aesop 25433, Aikin's one-syllable version 76243)",
   "aesop-translations": "Finnish (PG 74326): this shelf is English",
   "aesop-stevenson": "Stevenson's own Fables (1896) are his, not Aesop's: held on the stevenson shelf"
+ },
+ "_checks": {
+  "aesop-townsend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aesop",
+   "translator_claimed": "Townsend",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Fyler Townsend",
+   "translator_match": true
+  },
+  "aesop-jacobs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aesop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

@@ -7,6 +7,9 @@
   "rabbit",
   "plantation"
  ],
+ "_surname": [
+  "harris"
+ ],
  "ccel": {},
  "gutenberg": {
   "remus-his-songs-and-sayings": [
@@ -36,5 +39,43 @@
  "_excluded": {
   "remus-duplicates": "Uncle Remus, His Songs and His Sayings (PG 21605): a second transcription; Nights with Uncle Remus (PG 24430): the later Milo Winter edition of the same book",
   "remus-other": "his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch"
+ },
+ "_checks": {
+  "remus-his-songs-and-sayings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-nights-with-uncle-remus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-told-by-uncle-remus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "remus-uncle-remus-and-brer-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

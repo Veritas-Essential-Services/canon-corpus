@@ -7,6 +7,9 @@
   "rama",
   "dutt"
  ],
+ "_surname": [
+  "dutt"
+ ],
  "ccel": {},
  "gutenberg": {
   "dutt-mahabharata": [
@@ -37,5 +40,31 @@
  "_excluded": {
   "dutt-other-translators": "Manmatha Nath Dutt's prose Ramayana (1891-94) and Ganguli's prose Mahabharata (PG 7864 and following, 15474-15477): other translators, not named by the relay",
   "dutt-dli": "Digital Library of India copies of Dutt (in.ernet.dli.*) return 404 and are not used"
+ },
+ "_checks": {
+  "dutt-mahabharata": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Romesh Chunder Dutt"
+  },
+  "dutt-ramayana": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dutt",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "2026-10-03, Lane D read the OCR title page: 'MDCCCXCIX' (1899), London, 'condensed into English verse by Romesh Dutt'; Dutt died 1909. Google scan, public domain"
+  }
+ },
+ "_rights_checked": {
+  "dutt-ramayana": "2026-10-03, Lane D read the OCR title page: 'MDCCCXCIX' (1899), London, 'condensed into English verse by Romesh Dutt'; Dutt died 1909. Google scan, public domain"
  }
 }

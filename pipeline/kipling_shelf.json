@@ -5,6 +5,9 @@
   "rudyard",
   "kipling"
  ],
+ "_surname": [
+  "kipling"
+ ],
  "ccel": {},
  "gutenberg": {
   "kipling-jungle-book": [
@@ -48,5 +51,52 @@
   "kipling-not-this-shelf": "PENDING, outside the relay's list unless Adam widens it: Kim (PG 35555/2226), Captains Courageous (2186/2225), Stalky & Co. (3006), Land and Sea Tales (63619), The Day's Work (2569), Plain Tales from the Hills (1858), Soldiers Three (6120), Life's Handicap (5777), Many Inventions (78240), Traffics and Discoveries (9790), Actions and Reactions (2381), A Diversity of Creatures (13085), Debits and Credits (71002), The Light That Failed (2876), the verse (Departmental Ditties and Barrack-Room Ballads 7846, The Seven Seas 27870, The Five Nations 60260-60261, The Years Between 21777, Songs from Books 15529), travel and war writing (American Notes, From Sea to Sea, Letters of Travel, Sea Warfare, The Irish Guards in the Great War, and others)",
   "kipling-not-his": "anthologies with other authors (PG 2035, 2038, 12732, 15466, 21964, 62942, 60482, 30568), selections from his books (16578, 28537, 8649, 2334, 8147, 2163), Widger's index (57538)",
   "kipling-translations": "Finnish, French, Esperanto and Spanish translations: this shelf is Kipling's English"
+ },
+ "_checks": {
+  "kipling-jungle-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-second-jungle-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-just-so-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-puck-of-pooks-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-rewards-and-fairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

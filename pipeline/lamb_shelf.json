@@ -5,6 +5,9 @@
   "charles",
   "lamb"
  ],
+ "_surname": [
+  "lamb"
+ ],
  "ccel": {},
  "gutenberg": {
   "lamb-tales-from-shakespeare": [
@@ -70,5 +73,110 @@
   "lamb-blue-jar-story-book": "PG 34470: a multi-author children's anthology (Edgeworth et al.) with a Lamb piece",
   "lamb-on-lamb": "books ABOUT Lamb or by others: Lucas's Life of Charles Lamb, Charles Lamb and the Lloyds, Talfourd's Final Memorials (memoir parts), Bon-mots of Lamb and Jerrold, Christ's Hospital recollections",
   "lamb-coleridge-poems-1796-97": "Coleridge's Poems on Various Subjects (1796) and Poems (1797) carry early Lamb sonnets; they belong on Coleridge's shelf (Lucas vol. V holds Lamb's poems)"
+ },
+ "_checks": {
+  "lamb-tales-from-shakespeare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-adventures-of-ulysses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-poetry-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-misc-prose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-elia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-books-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-poems-and-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-letters-1796-1820": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-letters-1821-1842": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lamb-works-lucas-dramatic-specimens": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lamb-beauty-and-the-beast": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lamb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "[1887]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

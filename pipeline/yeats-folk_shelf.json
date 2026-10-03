@@ -10,6 +10,9 @@
   "hanrahan",
   "rose"
  ],
+ "_surname": [
+  "yeats"
+ ],
  "ccel": {},
  "gutenberg": {
   "yeats-fairy-and-folk-tales-irish-peasantry": [
@@ -43,5 +46,52 @@
  "_excluded": {
   "yeats-poems-plays": "Yeats's poems, plays, essays and autobiographies: outside a storytellers shelf (a poets' lane would hold them)",
   "yeats-stories": "Rosa Alchemica (PG 5794) and John Sherman and Dhoya (49109): his other fiction; Rosa Alchemica is an occult story, John Sherman a novel. Red Hanrahan and The Secret Rose are held: tales built on Irish folk material"
+ },
+ "_checks": {
+  "yeats-fairy-and-folk-tales-irish-peasantry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-irish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-celtic-twilight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-stories-of-red-hanrahan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yeats-secret-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "yeats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
  }
 }

@@ -5,6 +5,10 @@
   "george",
   "macdonald"
  ],
+ "_surname": [
+  "macdonald",
+  "mac donald"
+ ],
  "_ccel_author": "m/macdonald",
  "ccel": {
   "macdonald-phantastes": [
@@ -286,5 +290,585 @@
   "macdonald-imagination-essays": "The Imagination and Other Essays (Boston, 1883): the essays of A Dish of Orts (held)",
   "macdonald-anthologies": "Selections and anthologies by other hands (Beautiful Thoughts, Cheerful Words, Fairy Tales Every Child Should Know, The Golden Key 1906 reprint, The Cruel Painter extract)",
   "macdonald-introduction-only": "For the Right (PG 36904, 1888): a novel by Karl Emil Franzos, tr. Julie Sutter; MacDonald wrote only the preface. Held on this shelf by mistake until the 2026-10-02 lane audit found it (and its translator unrecorded); removed. It belongs on a Franzos shelf, if anywhere"
+ },
+ "_checks": {
+  "macdonald-phantastes": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-david-elginbrod": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-adela-cathcart-1": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-adela-cathcart-2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-adela-cathcart-3": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-portent": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-annals-quiet-neighbourhood": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-unspoken-sermons-1": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-unspoken-sermons-2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-unspoken-sermons-3": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-seaboard-parish": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-robert-falconer": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-miracles-of-our-lord": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-back-of-north-wind": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-princess-and-goblin": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-vicars-daughter": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-light-princess": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain. Originally published 1864.",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-cross-purposes-shadows": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-day-boy-night-girl": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-thomas-wingfold": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-sir-gibbie": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-diary-of-an-old-soul": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-princess-and-curdie": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-donal-grant": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-double-story": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-elect-lady": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-hope-of-the-gospel": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-heather-and-snow": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-there-and-back": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-lilith": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-salted-with-fire": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "macdonald-alec-forbes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-guild-court": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-ranald-bannerman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-wilfrid-cumbermede": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-gutta-percha-willie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-malcolm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-st-george-st-michael": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-marquis-of-lossie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-paul-faber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-mary-marston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-warlock-o-glenwarlock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-weighed-and-wanting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-stephen-archer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-whats-mines-mine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-home-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-flight-of-the-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-rough-shaking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-far-above-rubies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-light-princess-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-dish-of-orts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-englands-antiphon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-hamlet-study": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-hidden-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-poetical-works-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-poetical-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-rampolli": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macdonald-dealings-with-the-fairies": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mac donald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macdonald-threefold-cord": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "mac donald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macdonald-scotch-songs-ballads": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "macdonald",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }
