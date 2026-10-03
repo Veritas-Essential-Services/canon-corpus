@@ -24,6 +24,11 @@
    "idylliumsoftheoc00theo",
    "The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767)",
    "tr. Francis Fawkes"
+  ],
+  "theocritus-hallard-1901": [
+   "idyllsoftheocrit00theo",
+   "The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894)",
+   "tr. James Henry Hallard"
   ]
  },
  "_cross_ref": {
@@ -42,7 +47,8 @@
  "_translators": {
   "theocritus-calverley": "Charles Stuart Calverley",
   "theocritus-bion-moschus-banks": "J. Chapman",
-  "theocritus-fawkes-1767": "Francis Fawkes"
+  "theocritus-fawkes-1767": "Francis Fawkes",
+  "theocritus-hallard-1901": "James Henry Hallard"
  },
  "_checks": {
   "theocritus-calverley": {
@@ -80,6 +86,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1767",
    "ia_date": "1767",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "theocritus-hallard-1901": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theocritus",
+   "translator_claimed": "James Henry Hallard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
