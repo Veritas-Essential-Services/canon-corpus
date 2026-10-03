@@ -1,0 +1,21 @@
+{
+ "_about": "Propertius in English: H. E. Butler's Loeb (1912; this scan is the 1929 reprint, Latin facing, so taken) and P. J. F. Gantillon's literal prose (Bohn, 1895 stereotype reprint, with metrical versions by Nott and Elton). Raw IA OCR.",
+ "_name_words": [
+  "propertius",
+  "cynthia"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "propertius-butler-loeb": [
+   "propertiuswithen00propuoft",
+   "Propertius, with an English translation (Loeb, 1912; 1929 reprint)",
+   "tr. H. E. Butler"
+  ],
+  "propertius-gantillon-bohn": [
+   "elegiesofpropert00propiala",
+   "The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint)",
+   "tr. P. J. F. Gantillon (select elegies in verse by Nott and Elton)"
+  ]
+ }
+}
