@@ -1,0 +1,34 @@
+{
+ "_about": "Tales from the Lands of Nuts and Grapes: Spanish and Portuguese Folklore, by Charles Sellers (1888). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Charles Sellers",
+ "_name_words": [
+  "sellers"
+ ],
+ "_surname": [
+  "sellers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sellers-tales-from-the-lands-of-nuts-and-grapes": [
+   31481,
+   "Tales from the Lands of Nuts and Grapes",
+   {
+    "contents_only": true,
+    "chapre": "_?EXTRACTS FROM_?$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sellers-tales-from-the-lands-of-nuts-and-grapes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sellers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
