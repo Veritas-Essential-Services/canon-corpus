@@ -1217,8 +1217,10 @@
     {
       "id": "glinski",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — national folk-tale books: glinski; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:55:11-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:55:11-05:00",
+      "finished": "2026-10-02T21:59:48-05:00",
+      "notes": "1/1 fetched (Gutenberg 36668), 635 units, 0 ~2 ids."
     },
     {
       "id": "baudis",
