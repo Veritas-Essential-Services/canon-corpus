@@ -174,6 +174,11 @@
    "odesofhorace00horarich",
    "Odes of Horace, Book II, translated into English verse (London: Arthur L. Humphreys, 1918)",
    "tr. Gerard Fenwick"
+  ],
+  "horace-mills-nineteen-odes-1920": [
+   "nineteenodesofho00horarich",
+   "Nineteen Odes of Horace Englished (San Bernardino, California: Barnum and Flagg, 1920)",
+   "tr. William Hathorn Mills"
   ]
  },
  "_cross_ref": {
@@ -221,7 +226,8 @@
   "horace-sargent-echoes-1893": "mr. sargent",
   "horace-coutts-pollock-icarian-1920": "francis coutts",
   "horace-jones-odes-i-ii-1865": "hugo nicholas jones",
-  "horace-fenwick-odes-ii-1918": "gerard fenwick"
+  "horace-fenwick-odes-ii-1918": "gerard fenwick",
+  "horace-mills-nineteen-odes-1920": "william hathorn mills"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -643,6 +649,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1918",
    "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-mills-nineteen-odes-1920": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "odes of horace",
+   "translator_claimed": "william hathorn mills",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
