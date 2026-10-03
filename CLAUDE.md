@@ -165,6 +165,11 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
     python3 tests/review_test.py                       # review.py end to end, on a temp copy
+    python3 pipeline/build_wycliffe.py --fetch   # Forshall & Madden 1850 hOCR (4 vols, pinned) + eBible's Wycliffe
+    python3 pipeline/build_wycliffe.py           # wycliffe-{earlier,later}: verses from the scans' OCR (~5 min)
+    python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
+    python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
+    python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -461,6 +466,16 @@ The living truth for project state is the Obsidian vault:
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
+- pipeline/build_wycliffe.py — the Wycliffite Bible, Forshall & Madden (Oxford
+  1850, PD), read from the Internet Archive's ABBYY hOCR of the Toronto scans
+  (holybiblecontain0{1-4}wycluoft, pinned) → data/books/wycliffe-earlier.json
+  (left column) and wycliffe-later.json (right column), gitignored; manifest
+  entries committed with per-book measures. Ids in the Clementine's numbering
+  (`wycliffe-later:Ps.50.3`), each unit's `kjv` via vulgate-kjv.json; verse
+  numbers decoded from the margin OCR (Viterbi, as Charles), each unit says
+  how its number was got. Unproofread OCR; collation letters stay glued to
+  words. The later version is checked against eBible's nine books (measure
+  only). Status and the other Wycliffe sources: docs/pending-sources.md.
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
