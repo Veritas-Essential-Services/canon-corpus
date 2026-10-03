@@ -110,6 +110,11 @@
    "sophoclesdipust00sophgoog",
    "Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865)",
    "tr. Roscoe Mongan"
+  ],
+  "sophocles-hull-oedipus-coloneus-1894": [
+   "cu31924026593511",
+   "Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894)",
+   "tr. Arthur Compton Auchmuty Hull"
   ]
  },
  "_cross_ref": {
@@ -148,6 +153,7 @@
   "sophocles-coleridge-prose-1905": "edward p. coleridge",
   "sophocles-young-dramas-1888": "george young",
   "sophocles-mongan-oedipus-tyrannus-1865": "roscoe mongan",
+  "sophocles-hull-oedipus-coloneus-1894": "arthur compton auchmuty hull",
   "sophocles-doyle-oedipus-1849": "francis hastings doyle"
  },
  "_checks": {
@@ -404,6 +410,19 @@
    "ia_rights": "ok: published 1865",
    "ia_date": "1865",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-hull-oedipus-coloneus-1894": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "arthur compton auchmuty hull",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
