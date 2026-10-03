@@ -407,6 +407,34 @@ check("manifest: Delitzsch's Psalms are measured as numbered in the Hebrew",
 check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["scheme"]
                                                      for k in ("alford-commentary-2", "alford-commentary-4") if k in ents))
 
+# -- K&D: an undecided measure falls back to the work's own numbering, pooled over its volumes (review c9)
+check("work_numbering: K&D's Psalms, pooled over Delitzsch's three volumes, are Hebrew",
+      B.work_numbering("Ps", ids)["decision"] == "hebrew" and len(B.work_numbering("Ps", ids)["volumes"]) == 3)
+check("work_numbering: Joel and Malachi measure KJV; a book no volume holds is undecided",
+      B.work_numbering("Joel", ids)["decision"] == "kjv" and B.work_numbering("Mal", ids)["decision"] == "kjv"
+      and B.work_numbering("Isa", ids) == dict(B.work_numbering("Isa", ids), decision="undecided", volumes=[]))
+x = B.ot_link("Ps", 34, 12, "undecided", ids, "t")
+check("ot_link: undecided, a verse the two numberings read differently stays unresolved, with both candidates",
+      not x["resolved"] and [c.get("target") for c in x["candidates"]] == ["kjv:Ps.34.12", "kjv:Ps.34.11"])
+x = B.ot_link("Gen", 1, 1, "undecided", ids, "t")
+check("ot_link: undecided, a verse both read alike resolves", x["resolved"] and x["target"] == "kjv:Gen.1.1")
+_s = B.SCANS["delitzsch-psalms-2"]
+_s["_numbering"] = {"Ps": {"decision": "undecided"}}
+_u = [{"id": "delitzsch-psalms-2:51.10", "kind": "note", "book": "Ps", "links": [],
+       "text": "Compare Ps. li. 1 and ver. 8, and Ps. xxxiv. 12; Isa. ix. 1; Joel iii. 1."}]
+_n, _r, _x = B.harvest_2b("delitzsch-psalms-2", _u, ids)
+_s.pop("_numbering")
+lk = {x["ref"]: x for x in _u[0]["links"]}
+check("harvest (K&D, Psalms undecided in the text): 'Ps. li. 1' is the Hebrew's title, unresolved",
+      not lk.get("Ps 51:1", {"resolved": True})["resolved"] and "title" in lk["Ps 51:1"]["why"])
+check("harvest: 'ver. 8' in a note on Ps 51 is the KJV's 51:6", lk.get("Ps 51:8", {}).get("target") == "kjv:Ps.51.6")
+check("harvest: 'Ps. xxxiv. 12' is the KJV's 34:11", lk.get("Ps 34:12", {}).get("target") == "kjv:Ps.34.11"
+      and lk["Ps 34:12"]["rule"].endswith("/work"))
+check("harvest: Isa 9:1, where no volume measures Isaiah, is unresolved with both candidates",
+      not lk.get("Isa 9:1", {"resolved": True})["resolved"] and len(lk["Isa 9:1"].get("candidates", [])) == 2)
+check("harvest: Joel 3:1 follows the work's KJV numbering of Joel", lk.get("Joel 3:1", {}).get("target") == "kjv:Joel.3.1")
+check("harvest: the work's numbering consulted is recorded", {"Ps", "Isa", "Joel"} <= set(_x["numbering_work"]))
+
 # -- Keil & Delitzsch, the rest of the set (4c)
 its = [{"leaf": i, "book": "Jer", "hc": c} for i, c in enumerate([10, 10, 11, 11, 40, 11, 12, 12, 12, 13, 13])]
 mm = {}

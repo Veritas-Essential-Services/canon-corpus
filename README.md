@@ -340,6 +340,14 @@ Nehemiah, Jeremiah 1-29 and Daniel as the Hebrew; 1 Kings, Hosea, Joel and
 Malachi as the KJV (the English translators followed the English Bible
 there); most others undecided.
 
+Where a count is too small to decide (the scripture a volume cites, or a
+book in a single volume), the whole commentary's own count for that book
+decides, pooled over every K&D volume that holds it: so a Psalm cited in
+the Pentateuch volumes is read as Delitzsch's Psalms number it, in the
+Hebrew. Where that is undecided too, a verse the two numberings read
+differently is left unresolved with both candidates, never guessed as
+the KJV's.
+
 **Two reading rules for the later volumes.** A running head out of order
 with its neighbours ("XL" printed for "XI") is dropped as a misreading,
 and counted. And where a section gives its translation verse by verse and

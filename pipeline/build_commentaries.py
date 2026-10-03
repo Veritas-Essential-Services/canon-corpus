@@ -2448,14 +2448,26 @@ def decide(v):
 
 
 def ot_link(b, c, v, numbering, ids, rule):
-    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided)."""
+    """A link to an OT verse printed in `numbering` (hebrew / kjv / undecided).
+    Undecided: a verse only one numbering has is read in it; a verse both have
+    is resolved only where the two read it alike, else it stays unresolved with
+    both candidates (never silently the KJV's)."""
     import versification as V
     osis = f"{b}.{c}.{v}"
     if numbering == "undecided":
         h = 1 <= v <= vmap()["hebrew_chapters"].get(f"{b}.{c}", 0)
         k = f"kjv:{osis}" in ids
-        numbering = "hebrew" if (h and not k) else "kjv"
         rule += "/undecided"
+        if h and k:
+            r = V.resolve(osis, vmap(), ids)
+            if r.get("resolved") and r["target"] == f"kjv:{osis}" and "spans" not in r:
+                return {"printed": osis, "target": f"kjv:{osis}", "resolved": True, "numbering": "either",
+                        "rule": rule}
+            heb = {"numbering": "hebrew", **({"target": r["target"]} if r.get("resolved") else {"why": r["why"]})}
+            return {"printed": osis, "resolved": False, "numbering": "undecided",
+                    "why": "the numbering is not measured here, and the Hebrew and the KJV read this verse differently",
+                    "candidates": [{"numbering": "kjv", "target": f"kjv:{osis}"}, heb], "rule": rule}
+        numbering = "hebrew" if (h and not k) else "kjv"
     if numbering == "hebrew":
         r = V.resolve(osis, vmap(), ids)
         out = {"printed": osis, "numbering": "hebrew", "rule": rule}
@@ -2466,10 +2478,42 @@ def ot_link(b, c, v, numbering, ids, rule):
         return {"printed": osis, "target": t, "resolved": True, "numbering": "kjv", "rule": rule}
     return {"printed": osis, "resolved": False, "numbering": "kjv", "why": "no such verse in the KJV", "rule": rule}
 
+
+_OWN, _WORK = {}, {}
+
+
+def work_numbering(book, ids):
+    """How Keil & Delitzsch's commentary numbers `book`, measured from its own
+    note ids: the existence votes of every `kd` volume holding the book,
+    pooled (one volume rarely has enough differing verses; the set does).
+    Undecided where no volume holds the book."""
+    if book not in _WORK:
+        tot = {"read": 0, "only_hebrew": 0, "only_kjv": 0}
+        vols = []
+        for k, s in SCANS.items():
+            if s.get("reader") != "kd" or book not in [e[0] for e in s.get("epistles", [])]:
+                continue
+            if k not in _OWN:
+                _OWN[k] = build_scan_2b(k, ids, votes_only=True)
+            for f in tot:
+                tot[f] += _OWN[k][book][f]
+            vols.append(k)
+        _WORK[book] = dict(tot, decision=decide(tot), volumes=vols)
+    return _WORK[book]
+
+
+def effective(decision, book, ids, rule, used=None):
+    """A measured decision, or, where it is undecided, the work's own."""
+    if decision != "undecided":
+        return decision, rule
+    if used is not None:
+        used.add(book)
+    return work_numbering(book, ids)["decision"], rule + "/work"
+
 # ------------------------------------------------------------------ second shelf: the build
 
 
-def build_scan_2b(slug, ids):
+def build_scan_2b(slug, ids, votes_only=False):
     s = SCANS[slug]
     reader = s["reader"]
     P = pages(slug)
@@ -2601,6 +2645,9 @@ def build_scan_2b(slug, ids):
             v = numbering_votes(pairs, ids)
             v["decision"] = decide(v)
             numbering[book] = v
+        if votes_only:
+            return numbering
+        _OWN[slug] = {b: dict(v) for b, v in numbering.items()}
         m["numbering_own"] = numbering
     counts = {}
     for book in kjv_counts:
@@ -2629,6 +2676,7 @@ def build_scan_2b(slug, ids):
             vs = range(nu["n"], (nu["e"] or nu["n"]) + 1)
             nb = numbering.get(book, {}).get("decision")
             if nb:                  # an OT volume: its numbering measured, the Hebrew mapped
+                nb = effective(nb, book, ids, "")[0]
                 links = [dict(ot_link(book, nu["c"], v, nb, ids, "comments-on"), type="comments-on") for v in vs]
                 for lk in links:
                     lk.pop("rule", None)
@@ -2859,7 +2907,7 @@ def harvest_2b(slug, units, ids):
         vv = numbering_votes(pairs, ids)
         vv["decision"] = decide(vv)
         measure[k] = vv
-    own_num = {}
+    own_num, used = {}, set()
     n = r = 0
     for u, refs in zip(units, parsed):
         found, seen = [], set()
@@ -2877,9 +2925,9 @@ def harvest_2b(slug, units, ids):
                 continue
             if book in V.BOOKS:
                 cls = "Ps" if book == "Ps" else "other"
-                x = dict(ref=p, **ot_link(book, ch, v, measure[cls]["decision"], ids, f"text/{cls}"))
-                y = (ot_link(book, ch, end, measure[cls]["decision"], ids, f"text/{cls}")
-                     if end and end > v else None)
+                dec, rl = effective(measure[cls]["decision"], book, ids, f"text/{cls}", used)
+                x = dict(ref=p, **ot_link(book, ch, v, dec, ids, rl))
+                y = ot_link(book, ch, end, dec, ids, rl) if end and end > v else None
             else:
                 t = f"kjv:{book}.{ch}.{v}"
                 x = ({"ref": p, "target": t, "resolved": True, "numbering": "kjv", "rule": "text/nt"} if t in ids else
@@ -2892,13 +2940,14 @@ def harvest_2b(slug, units, ids):
             mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
             if mm:
                 b, c = u["book"], int(mm.group(1))
-                nb = own_num.setdefault(b, s["_numbering"].get(b, {}).get("decision", "kjv"))
+                nb, srl = own_num.setdefault(b, effective(s["_numbering"].get(b, {}).get("decision", "kjv"), b, ids,
+                                                          "self", used))
                 for mt in SELF_VER.finditer(u["text"]):
                     for v, end in _ver_spans(mt):
                         p = f"{b} {c}:{v}" + (f"-{end}" if end else "")
                         if p not in seen:
                             seen.add(p)
-                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, "self/ver"))
+                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, srl.replace("self", "self/ver", 1)))
                             _kd_through(x, c, v, end, ot_link(b, c, end, nb, ids, "self/ver")
                                         if end and end > v else None)
                             found.append(x)
@@ -2907,11 +2956,13 @@ def harvest_2b(slug, units, ids):
                     p = f"{b} {c2}:{mt.group(2)}"
                     if c2 and p not in seen and c2 <= max(heb_counts(b)):
                         seen.add(p)
-                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids, "self/chap")))
+                        found.append(dict(ref=p, **ot_link(b, c2, int(mt.group(2)), nb, ids,
+                                                           srl.replace("self", "self/chap", 1))))
         u["links"] += found
         n += len(found)
         r += sum(1 for x in found if x.get("resolved"))
-    return n, r, {"numbering_references": measure}
+    return n, r, {"numbering_references": measure,
+                  "numbering_work": {b: work_numbering(b, ids) for b in sorted(used)}}
 
 
 def _ver_spans(mt):
@@ -2966,7 +3017,10 @@ def honesty_2b(slug):
             "section, belong to it until the next accepted opener; ids are in the numbering the volume prints, "
             "MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the "
             "Hebrew's; the OT references in the text are resolved in the numbering measured for them "
-            "(measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the "
+            "(measure.numbering_references); where either measure is undecided, the commentary's own numbering of "
+            "that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled "
+            "(measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only "
+            "where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the "
             "Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the "
             "text as printed by the OCR, unremoved" + (f"; {s['honesty']}" if s.get("honesty") else "")
             + "; unproofread OCR")

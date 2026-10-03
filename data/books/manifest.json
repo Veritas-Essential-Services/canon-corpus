@@ -29879,7 +29879,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Gen": "undecided",
@@ -29911,8 +29911,8 @@
    "kjv_coverage": {
     "Gen": {
      "kjv_verses": 1533,
-     "commented": 1323,
-     "with_own_note": 172
+     "commented": 1292,
+     "with_own_note": 168
     },
     "Exod": {
      "kjv_verses": 1213,
@@ -29927,7 +29927,7 @@
    },
    "scripture_links": {
     "read": 2320,
-    "resolved": 2226,
+    "resolved": 2198,
     "ranges": 80,
     "ranges_start_only": 1
    },
@@ -29959,6 +29959,318 @@
      "decision": "undecided"
     }
    },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Mic": {
+     "read": 162,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Prov": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Song": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -29971,7 +30283,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "2375ea08ec0152ce1865756458200903de2cbca88eaf0715d583115bc30e3aa3"
+  "built_sha256": "e5341a4d9b633e8be8d747a2e05addbad2d6c3a1a8df316fa83d173c3168280d"
  },
  "keil-delitzsch-pentateuch-2": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. II",
@@ -29982,7 +30294,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Exod": "undecided",
@@ -30030,8 +30342,8 @@
    },
    "scripture_links": {
     "read": 3440,
-    "resolved": 3318,
-    "ranges": 214,
+    "resolved": 3284,
+    "ranges": 212,
     "ranges_start_only": 6
    },
    "numbering_own": {
@@ -30062,6 +30374,302 @@
      "decision": "undecided"
     }
    },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Prov": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30074,7 +30682,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "d7f1c067c63093b55b56d1da020da86aa89dbd032d793c2c07c3f8a9183425b3"
+  "built_sha256": "2f1aabae600ecae5ea581fb0571048c8a1e32bed642e836ec68efad935286879"
  },
  "keil-delitzsch-pentateuch-3": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. III",
@@ -30085,7 +30693,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Num": "undecided",
@@ -30117,7 +30725,7 @@
    "kjv_coverage": {
     "Num": {
      "kjv_verses": 1288,
-     "commented": 905,
+     "commented": 899,
      "with_own_note": 148,
      "chapters": [
       1,
@@ -30127,15 +30735,15 @@
     },
     "Deut": {
      "kjv_verses": 959,
-     "commented": 838,
-     "with_own_note": 196
+     "commented": 787,
+     "with_own_note": 181
     }
    },
    "scripture_links": {
     "read": 4277,
-    "resolved": 4126,
-    "ranges": 320,
-    "ranges_start_only": 9
+    "resolved": 4085,
+    "ranges": 317,
+    "ranges_start_only": 8
    },
    "numbering_own": {
     "Num": {
@@ -30165,6 +30773,37 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30177,7 +30816,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "4dac14ccdf706553860efbdccbce29d1a1f9b2f7ba9dcf5954d6e06303ece0f9"
+  "built_sha256": "e878b31ad4a148bbcf1d1596b1df1a0c49de260921b03e4b547625730bc0cd8b"
  },
  "delitzsch-psalms-1": {
   "title": "Biblical Commentary on the Psalms, vol. I",
@@ -30188,7 +30827,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ps": "hebrew"
@@ -30232,7 +30871,7 @@
    },
    "scripture_links": {
     "read": 1995,
-    "resolved": 1844,
+    "resolved": 1842,
     "ranges": 47,
     "ranges_start_only": 0
    },
@@ -30258,6 +30897,19 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30270,7 +30922,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "0d456dcddea3f6a2a076e91139d713772090347a936b2ffd1ec1e91b13f87671"
+  "built_sha256": "daf9b934144c9ef9b73fdf86067baa45b2434d4fe4f2aa2c11105e710c7a7d1b"
  },
  "delitzsch-psalms-2": {
   "title": "Biblical Commentary on the Psalms, vol. II",
@@ -30281,7 +30933,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ps": "hebrew"
@@ -30325,8 +30977,8 @@
    },
    "scripture_links": {
     "read": 2333,
-    "resolved": 2188,
-    "ranges": 67,
+    "resolved": 2187,
+    "ranges": 66,
     "ranges_start_only": 0
    },
    "numbering_own": {
@@ -30351,6 +31003,19 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30363,7 +31028,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "7a1b676bdbbc458d001a13f1a1aec7190c093e61b7f8b794fd474b9d8e2a5fca"
+  "built_sha256": "d7254d774f1009cd09a686c69cdbd9137df9b0269d112a1f01fb6b0a6b48330c"
  },
  "delitzsch-psalms-3": {
   "title": "Biblical Commentary on the Psalms, vol. III",
@@ -30374,7 +31039,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ps": "hebrew"
@@ -30444,6 +31109,19 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30456,7 +31134,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "142b3f1fe752f95bc2c983831825f0e23def11e010ea72dc8ee3ce583ca6b386"
+  "built_sha256": "cd0a5b566dec9a0abcee4cabe991383adcffaf9e94bbf4275cfd954af0479d97"
  },
  "keil-delitzsch-joshua-judges-ruth": {
   "title": "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth",
@@ -30467,7 +31145,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Josh": "undecided",
@@ -30518,9 +31196,9 @@
    },
    "scripture_links": {
     "read": 3730,
-    "resolved": 3598,
-    "ranges": 169,
-    "ranges_start_only": 9
+    "resolved": 3540,
+    "ranges": 168,
+    "ranges_start_only": 10
    },
    "numbering_own": {
     "Josh": {
@@ -30556,6 +31234,311 @@
      "decision": "undecided"
     }
    },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Mic": {
+     "read": 162,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Obad": {
+     "read": 56,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Prov": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30568,7 +31551,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "22e04fc198f203cc143a39ea220ef32d3e0472be0b1c0a408edf70bd0558c267"
+  "built_sha256": "a732449ebc8d000fcc05221d03ba5622992699ab03e79bd80b9fb46d6c36d04d"
  },
  "keil-delitzsch-samuel": {
   "title": "Biblical Commentary on the Books of Samuel",
@@ -30579,7 +31562,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "1Sam": "undecided",
@@ -30613,19 +31596,19 @@
    "kjv_coverage": {
     "1Sam": {
      "kjv_verses": 810,
-     "commented": 784,
-     "with_own_note": 309
+     "commented": 749,
+     "with_own_note": 294
     },
     "2Sam": {
      "kjv_verses": 695,
-     "commented": 627,
-     "with_own_note": 275
+     "commented": 584,
+     "with_own_note": 257
     }
    },
    "scripture_links": {
     "read": 2735,
-    "resolved": 2639,
-    "ranges": 132,
+    "resolved": 2594,
+    "ranges": 130,
     "ranges_start_only": 13
    },
    "numbering_own": {
@@ -30656,6 +31639,37 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30668,7 +31682,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "5d3721f89dcd6b89e5e4228150ea0b0ec360b398e3afbef75409da1ebdc914b6"
+  "built_sha256": "0b5c1c0c5763cd249705ded8e9e7111a46ba0b30660504363876b858a9422e2f"
  },
  "keil-delitzsch-kings": {
   "title": "Biblical Commentary on the Books of the Kings",
@@ -30679,7 +31693,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "1Kgs": "kjv",
@@ -30718,13 +31732,13 @@
     },
     "2Kgs": {
      "kjv_verses": 719,
-     "commented": 663,
-     "with_own_note": 220
+     "commented": 656,
+     "with_own_note": 216
     }
    },
    "scripture_links": {
     "read": 3465,
-    "resolved": 3277,
+    "resolved": 3257,
     "ranges": 203,
     "ranges_start_only": 8
    },
@@ -30756,6 +31770,28 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30768,7 +31804,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "54b4b4ffb7cfa495a0ee113dd79a60d8d48e74fe4645d8d066e5526b472b2d19"
+  "built_sha256": "bca038c57e7cbd2d1df5d4735981120f4365f5138aa9bc2376b4fc8beaf1ac48"
  },
  "keil-delitzsch-chronicles": {
   "title": "Biblical Commentary on the Books of the Chronicles",
@@ -30779,7 +31815,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "1Chr": "hebrew",
@@ -30819,15 +31855,15 @@
     },
     "2Chr": {
      "kjv_verses": 822,
-     "commented": 657,
-     "with_own_note": 264
+     "commented": 632,
+     "with_own_note": 250
     }
    },
    "scripture_links": {
     "read": 4160,
-    "resolved": 3870,
-    "ranges": 491,
-    "ranges_start_only": 14
+    "resolved": 3829,
+    "ranges": 485,
+    "ranges_start_only": 13
    },
    "numbering_own": {
     "1Chr": {
@@ -30857,6 +31893,28 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30869,7 +31927,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "beb4f1419459810ea46d5d012ed020b586a3e46130860689a1dea1739a9531be"
+  "built_sha256": "ddb62465eb5edbabf828c9c03abda95ae386b857ca7b3e115343952c9c1ae384"
  },
  "keil-delitzsch-ezra-nehemiah-esther": {
   "title": "Biblical Commentary on the Books of Ezra, Nehemiah, and Esther",
@@ -30880,7 +31938,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ezra": "undecided",
@@ -30932,7 +31990,7 @@
    },
    "scripture_links": {
     "read": 1811,
-    "resolved": 1698,
+    "resolved": 1697,
     "ranges": 122,
     "ranges_start_only": 14
    },
@@ -30970,6 +32028,37 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -30982,7 +32071,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "f3a8323608463d86a39e465ce3da25a2d6860f52fc797db8d8990bd58cff2a5f"
+  "built_sha256": "cf8acad9718d7beaa5e642f88cc295753eb79d3fd9cb28286db3bc08c71ff678"
  },
  "keil-delitzsch-jeremiah-1": {
   "title": "Biblical Commentary on the Prophecies of Jeremiah, vol. I",
@@ -30993,7 +32082,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Jer": "hebrew"
@@ -31065,6 +32154,19 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31077,7 +32179,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "1ca7b234111e0f36bb4f97b0f75b480bbf1b86cd91c9f2dde429c711e9af6fbc"
+  "built_sha256": "6bebf01627cea355826ef9a6061449cbf87deb050b95bad4cd8166c0b2d799e5"
  },
  "keil-delitzsch-jeremiah-2": {
   "title": "Biblical Commentary on the Prophecies of Jeremiah, vol. II",
@@ -31088,7 +32190,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Jer": "undecided",
@@ -31172,6 +32274,38 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31184,7 +32318,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "2d41c2b9ebd35fb3694a823fbb1c4c17de85d0840f6143762a448f4295dfe50f"
+  "built_sha256": "75851073b22eb3bfbbe817fa1bb76fc09d9031af62844735c1c5bb2fd9edea13"
  },
  "keil-delitzsch-ezekiel-1": {
   "title": "Biblical Commentary on the Prophecies of Ezekiel, vol. I",
@@ -31195,7 +32329,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ezek": "undecided"
@@ -31230,8 +32364,8 @@
    "kjv_coverage": {
     "Ezek": {
      "kjv_verses": 1273,
-     "commented": 710,
-     "with_own_note": 638,
+     "commented": 679,
+     "with_own_note": 610,
      "chapters": [
       1,
       28
@@ -31241,8 +32375,8 @@
    },
    "scripture_links": {
     "read": 2202,
-    "resolved": 2089,
-    "ranges": 159,
+    "resolved": 2038,
+    "ranges": 151,
     "ranges_start_only": 11
    },
    "numbering_own": {
@@ -31267,6 +32401,29 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31279,7 +32436,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "8ba3cb64b7d34fc66eb5ce1c7d88b1bf78ec3f6a28fab37fe33c1cbc352983ad"
+  "built_sha256": "d5d1cb5579a0f3b37c85b623450dea4be59d026ff1bc73322040b328a673202b"
  },
  "keil-delitzsch-ezekiel-2": {
   "title": "Biblical Commentary on the Prophecies of Ezekiel, vol. II",
@@ -31290,7 +32447,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ezek": "undecided"
@@ -31336,7 +32493,7 @@
    },
    "scripture_links": {
     "read": 2016,
-    "resolved": 1896,
+    "resolved": 1893,
     "ranges": 198,
     "ranges_start_only": 5
    },
@@ -31362,6 +32519,29 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31374,7 +32554,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "a18a0cbcf5d99396a0665f80e2fb4030fb7d7d1e7e9fc2c95395145af2813535"
+  "built_sha256": "cea00477ff5070e0a1a8c62e3b1288af6b11d9e65a2792c5478ebe9ecd04f52b"
  },
  "keil-delitzsch-daniel": {
   "title": "Biblical Commentary on the Book of Daniel",
@@ -31385,7 +32565,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Dan": "hebrew"
@@ -31450,6 +32630,19 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31462,7 +32655,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "adc6038cf6b4893bbe21a5ab95df67dc78ee11954d249e9821326284d5a941d7"
+  "built_sha256": "d72078ee995ae69f860389885d2f01e6591e76b9d26d941291d3ff74e9a765f5"
  },
  "keil-delitzsch-minor-prophets-1": {
   "title": "Biblical Commentary on the Twelve Minor Prophets, vol. I",
@@ -31473,7 +32666,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Hos": "kjv",
@@ -31532,19 +32725,19 @@
     },
     "Jonah": {
      "kjv_verses": 48,
-     "commented": 40,
-     "with_own_note": 9
+     "commented": 36,
+     "with_own_note": 5
     },
     "Mic": {
      "kjv_verses": 105,
-     "commented": 104,
-     "with_own_note": 101
+     "commented": 91,
+     "with_own_note": 88
     }
    },
    "scripture_links": {
     "read": 3406,
-    "resolved": 3212,
-    "ranges": 204,
+    "resolved": 3116,
+    "ranges": 193,
     "ranges_start_only": 5
    },
    "numbering_own": {
@@ -31599,6 +32792,336 @@
      "decision": "undecided"
     }
    },
+   "numbering_work": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-chronicles"
+     ]
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-kings"
+     ]
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-samuel"
+     ]
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-daniel"
+     ]
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Eccl": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Exod": {
+     "read": 633,
+     "only_hebrew": 0,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1",
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Ezek": {
+     "read": 1559,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezekiel-1",
+      "keil-delitzsch-ezekiel-2"
+     ]
+    },
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-1"
+     ]
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Isa": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Jer": {
+     "read": 1542,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-jeremiah-1",
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Job": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Jonah": {
+     "read": 39,
+     "only_hebrew": 0,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-jeremiah-2"
+     ]
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-pentateuch-2"
+     ]
+    },
+    "Mal": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 15,
+     "decision": "kjv",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Mic": {
+     "read": 162,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "keil-delitzsch-ezra-nehemiah-esther"
+     ]
+    },
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-pentateuch-3"
+     ]
+    },
+    "Obad": {
+     "read": 56,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-1"
+     ]
+    },
+    "Prov": {
+     "read": 0,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": []
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-joshua-judges-ruth"
+     ]
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31611,7 +33134,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "5990b3db81acc70d9401aea36abe8a32e741839cf7c561bb90df4b00cd710ff9"
+  "built_sha256": "a6007dcaa250c8db54ba54f98e585096729d60fd9f4c8f21dfa16f750a8e5cfd"
  },
  "keil-delitzsch-minor-prophets-2": {
   "title": "Biblical Commentary on the Twelve Minor Prophets, vol. II",
@@ -31622,7 +33145,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); where either measure is undecided, the commentary's own numbering of that book decides, measured from the note ids of every Keil & Delitzsch volume holding it, pooled (measure.numbering_work); where that too is undecided, a verse both numberings have is resolved only where the two read it alike, else it stays unresolved with both candidates; footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Nah": "undecided",
@@ -31660,8 +33183,8 @@
    "kjv_coverage": {
     "Nah": {
      "kjv_verses": 47,
-     "commented": 46,
-     "with_own_note": 45
+     "commented": 33,
+     "with_own_note": 32
     },
     "Hab": {
      "kjv_verses": 56,
@@ -31680,8 +33203,8 @@
     },
     "Zech": {
      "kjv_verses": 211,
-     "commented": 205,
-     "with_own_note": 194
+     "commented": 193,
+     "with_own_note": 182
     },
     "Mal": {
      "kjv_verses": 55,
@@ -31691,8 +33214,8 @@
    },
    "scripture_links": {
     "read": 2984,
-    "resolved": 2808,
-    "ranges": 149,
+    "resolved": 2759,
+    "ranges": 146,
     "ranges_start_only": 7
    },
    "numbering_own": {
@@ -31747,6 +33270,64 @@
      "decision": "hebrew"
     }
    },
+   "numbering_work": {
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Ps": {
+     "read": 2829,
+     "only_hebrew": 143,
+     "only_kjv": 0,
+     "decision": "hebrew",
+     "volumes": [
+      "delitzsch-psalms-1",
+      "delitzsch-psalms-2",
+      "delitzsch-psalms-3"
+     ]
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided",
+     "volumes": [
+      "keil-delitzsch-minor-prophets-2"
+     ]
+    }
+   },
    "greek": {
     "greek_letters": 0,
     "greek_share_of_letters": 0.0,
@@ -31759,6 +33340,6 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "1be21ead70a8d70b1d86399eb135eda85e9872f50ccad6a71e19b5a92d987121"
+  "built_sha256": "efb75654dd611b2798930d4c789f95c9cb35c5b3eeb555469fa961971f0cf2a6"
  }
 }

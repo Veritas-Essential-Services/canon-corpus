@@ -646,6 +646,10 @@ The living truth for project state is the Obsidian vault:
   'Ver. 20.' after the translation's 'Ver. 25.' rejoins verse 20's unit,
   measure.notes_reopened). Jer II and Ezek II start at their chapter
   (first_chapter).
+  An undecided numbering (in-text refs or a volume's own) falls back to
+  work_numbering: the book's own-id votes pooled over every kd volume
+  (measure.numbering_work); still undecided, a verse the Hebrew and the
+  KJV read differently is resolved:false with both `candidates`.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
