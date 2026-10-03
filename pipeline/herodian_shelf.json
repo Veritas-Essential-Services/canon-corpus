@@ -1,5 +1,5 @@
 {
- "_about": "Herodian's History of the Roman emperors in the 1629 English translation (STC; attributed to James Maxwell, who is not named in the scan). Raw IA OCR of an EEBO copy, long-s and noisy.",
+ "_about": "Herodian's History of the Roman emperors in the 1629 English translation (STC; attributed to James Maxwell, who is not named in the scan). Raw IA OCR of an EEBO copy, long-s and noisy. Added 2026-10-03: J. Hart's translation (London, printed for the author), raw IA OCR of a Digital Library of India scan, clean 0.87; the item's text file is 90905_djvu.txt. Its title-page date is OCR'd as 'munccxiix' (read as MDCCXLIX); 1749 is the catalogue date.",
  "_name_words": [
   "herodian",
   "emperors"
@@ -11,6 +11,12 @@
    "bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1629",
    "Herodian of Alexandria his History of Twenty Roman Caesars and Emperors, interpreted out of the Greek original (London, 1629)",
    "tr. attributed to James Maxwell (not named in the scan)"
+  ],
+  "herodian-hart-1749": [
+   "india.history.resource.90905",
+   "Herodian's History of His Own Times, or of the Roman Empire after Marcus, translated into English, with large notes (London, printed for the author; title-page date OCR-garbled, catalogue 1749)",
+   "90905_djvu.txt",
+   "tr. J. Hart"
   ]
  },
  "_surname": [
@@ -18,7 +24,8 @@
  ],
  "_translators": {},
  "_translator_unchecked": {
-  "herodian-1629": "no single translator to check: attributed to James Maxwell (not named in the scan)"
+  "herodian-1629": "no single translator to check: attributed to James Maxwell (not named in the scan)",
+  "herodian-hart-1749": "title page OCR reads 'By JV HARTY'; the surname 'hart' is a common word and proves nothing alone, so the J. Hart attribution rests on that reading plus the catalogue"
  },
  "_checks": {
   "herodian-1629": {
@@ -29,6 +36,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1629",
    "ia_date": "1629",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodian-hart-1749": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
