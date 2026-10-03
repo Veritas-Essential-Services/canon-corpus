@@ -28,6 +28,11 @@
    "cu31924029003824",
    "Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII)",
    "tr. George Colville"
+  ],
+  "boethius-queen-elizabeth-1899": [
+   "queenelizabethse00eliz",
+   "Queen Elizabeth's Englishings of Boethius, Plutarch and Horace (EETS, 1899; ed. Caroline Pemberton)",
+   "tr. Queen Elizabeth I"
   ]
  },
  "_excluded": {
@@ -42,7 +47,8 @@
   "boethius-james": "H. R. James",
   "boethius-rand-stewart": "H. F. Stewart",
   "boethius-colville-1556": "George Colville",
-  "boethius-ridpath-1785": "Ridpath"
+  "boethius-ridpath-1785": "Ridpath",
+  "boethius-queen-elizabeth-1899": "Elizabeth"
  },
  "_checks": {
   "boethius-james": {
@@ -92,6 +98,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boethius-queen-elizabeth-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "Elizabeth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

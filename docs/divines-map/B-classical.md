@@ -1512,6 +1512,7 @@ Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
 | The Theological Tractates and The Consolation of Philosophy | Stewart and Rand (Loeb 1918; 'I.T.' 1609 revised) | `boethius-rand-stewart` | have (PG 13316) |
 | Boethius's Consolation of Philosophy, translated from the Latin, with notes and illustrations (London: C. Dilly, M.DCC.LXXXV) | Philip Ridpath | `boethius-ridpath-1785` | have-raw (IA `boethiussconsol00boetgoog`) |
 | Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII) | George Colville | `boethius-colville-1556` | have-raw (IA `cu31924029003824`) |
+| Queen Elizabeth's Englishings of Boethius, Plutarch and Horace (EETS, 1899; ed. Caroline Pemberton) | Queen Elizabeth I | `boethius-queen-elizabeth-1899` | have-raw (IA `queenelizabethse00eliz`) |
 
 Excluded: Chaucer's Middle English Boece
 
