@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:21 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:25 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -253,6 +253,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Henry Hammond | henry-hammond_shelf.json | none | 8 (Paraphrase and Annotations on the NT, 4 vols, Oxford 1845; Practical Catechism, LACT 1847; Miscellaneous Theological Works, LACT, 3 vols 1847-50) | none | none |
 | Robert Sanderson | robert-sanderson_shelf.json | none | 6 (Works, ed. Jacobson, Oxford 1854; vols. 4 and 6 mostly Latin) | none | none |
 | George Bull | george-bull_shelf.json | none | 13 (Works, ed. Burton, 7 vols in 8, Oxford 1846, Latin treatises in Latin; LACT English translations: Defensio Fidei Nicaenae 2 vols 1851, Harmonia Apostolica 1842, Examen Censurae 1844, Judgment of the Catholic Church 1855) | none | none |
+| Edward Stillingfleet | edward-stillingfleet_shelf.json | none | 8 (Origines Sacrae, 2 vols, Oxford 1836; Irenicum, Philadelphia 1842; Rational Account, 2 vols, Oxford 1844; Origines Britannicae, 2 vols, Oxford 1842; Doctrines and Practices of the Church of Rome, ed. Cunningham, Edinburgh 1837) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

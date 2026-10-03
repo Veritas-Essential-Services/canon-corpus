@@ -2050,6 +2050,15 @@ Slugs `bull-*`. Name forms are full forms only (no bare "bull").
 |---|---|---|
 | Works, ed. Edward Burton, 7 vols in 8 (Oxford, 1846): English sermons and discourses, the Latin treatises in Latin | have-ocr | IA; the English-vocabulary OCR score reads 75-83% on the Latin volumes |
 | Defence of the Nicene Creed, 2 vols (1851); Harmonia Apostolica (1842); Examen Censurae (1844); Judgment of the Catholic Church (1855), all LACT English translations | have-ocr | IA, OCR 92-98% |
+
+## Edward Stillingfleet (round 13, my pick, 2026-10-03)
+
+Slugs `stillingfleet-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Origines Sacrae (1836); Irenicum (1842); A Rational Account of the Grounds of Protestant Religion (1844); Origines Britannicae (1842, notes by T. P. Pantin); Doctrines and Practices of the Church of Rome (1837, ed. William Cunningham) | have-ocr | IA, OCR 93.0-98.4% |
+| Works, 6 vols folio (1710) | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

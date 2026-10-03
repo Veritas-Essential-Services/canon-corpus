@@ -605,3 +605,6 @@
 
 ## 2026-10-03 06:22 CDT — Shepard name forms
 - Dropped "shepherd" from the shepard shelf: it is an ordinary English word, and every item had matched on "shepard" anyway. Re-recorded, 0 mismatched.
+
+## 2026-10-03 06:25 CDT — edward-stillingfleet done
+- `pipeline/edward-stillingfleet_shelf.json`: 8 IA volumes, title pages read (editors Pantin and Cunningham read from them). `--verify --record`: 0 mismatched. OCR 96.6% mean. 0 uids minted.
