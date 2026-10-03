@@ -1,5 +1,5 @@
 {
- "_about": "William Elliot Griffis's (1843-1928) Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880), retold in his own English. Clean Gutenberg text; public domain. His histories of Japan are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "William Elliot Griffis's (1843-1928) fairy tales retold in his own English: Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880); Dutch Fairy Tales for Young Folks (undated in the text); Welsh Fairy Tales (foreword dated March 1, 1921); and three Crowell books whose title pages print no year (Gutenberg's records give Korean Fairy Tales 1911, Belgian Fairy Tales 1919, Swiss Fairy Tales 1920). Clean Gutenberg text; public domain. His histories of Japan and Korea are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "William Elliot Griffis",
  "_name_words": [
   "japanese",
@@ -18,12 +18,86 @@
    {
     "contents_only": true
    }
+  ],
+  "griffis-dutch-fairy-tales": [
+   7871,
+   "Dutch Fairy Tales for Young Folks"
+  ],
+  "griffis-welsh-fairy-tales": [
+   9368,
+   "Welsh Fairy Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "griffis-swiss-fairy-tales": [
+   69739,
+   "Swiss Fairy Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "griffis-korean-fairy-tales": [
+   67180,
+   "Korean Fairy Tales"
+  ],
+  "griffis-belgian-fairy-tales": [
+   67256,
+   "Belgian Fairy Tales",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
  "_excluded": {},
  "_checks": {
   "griffis-japanese-fairy-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "griffis-dutch-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "griffis-welsh-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "griffis-swiss-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "griffis-korean-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "griffis-belgian-fairy-tales": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",

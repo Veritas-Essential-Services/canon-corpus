@@ -5060,11 +5060,16 @@ Shelf: `pipeline/grace-james_shelf.json` (2026-10-02; added at the coordinator's
 
 ## William Elliot Griffis
 
-Shelf: `pipeline/griffis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Japanese wonder-tales retold, cut by his own Contents. Not in the manifest; no uids minted.
+Shelf: `pipeline/griffis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales from Japan, the Netherlands, Wales, Switzerland, Korea and Belgium, retold in his own English, cut by tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880) | have | PG 29337, `griffis-japanese-fairy-world` (741 units) |
+| Dutch Fairy Tales for Young Folks | have | PG 7871, `griffis-dutch-fairy-tales` (694 units) |
+| Welsh Fairy Tales | have | PG 9368, `griffis-welsh-fairy-tales` (1081 units) |
+| Swiss Fairy Tales | have | PG 69739, `griffis-swiss-fairy-tales` (856 units) |
+| Korean Fairy Tales | have | PG 67180, `griffis-korean-fairy-tales` (772 units) |
+| Belgian Fairy Tales | have | PG 67256, `griffis-belgian-fairy-tales` (939 units) |
 
 ## Elphinstone Dayrell
 

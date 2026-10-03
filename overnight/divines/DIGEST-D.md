@@ -60,7 +60,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 |---|---|---|---|---|
 | `jacobs-fairy` | 6 Gutenberg | 0 | 8,226 | English, More English, Celtic, More Celtic and Indian Fairy Tales, plus Europa's Fairy Book (1916). **Your call:** Europa's was not named by the relay; Celtic Folk and Fairy Tales (PG 35862) held back pending a compare |
 | `dasent` | 2 Gutenberg | 0 | 5,716 | Popular Tales from the Norse, Tales from the Fjeld, tr. Dasent. The children's selection (PG 64189) and Burnt Njal left out |
-| `ralston` | 1 Gutenberg | 0 | 3,465 | Russian Fairy Tales (1873, the US edition of Russian Folk-Tales), tr. Ralston, by chapter and tale. Tibetan Tales (also his) noted for a later batch |
+| `ralston` | 2 Gutenberg | 0 | 5,333 | Russian Fairy Tales (1873, the US edition of Russian Folk-Tales), tr. Ralston, by chapter and tale; Tibetan Tales (1906), Ralston's English of Schiefner's German, by numbered tale (added in batch 21) |
 | `perrault` | 3 Gutenberg | 0 | 1,894 | tr. Charles Welsh (1901), Samber rev. Mansion (1922), A. E. Johnson (1921). **Your call:** Lang's Perrault's Popular Tales (PG 33931) is French text, held back; Tales of Passed Times (PG 33511) names no translator, pending |
 | `colum` | 7 Gutenberg | 0 | 6,414 | King of Ireland's Son, Odysseus and Tales of Troy, Boy Who Knew What the Birds Said, Boy Apprenticed to an Enchanter, Children of Odin, Golden Fleece, At the Gateways of the Day (all 1916-1924). Three Plays left out as drama |
 
@@ -114,7 +114,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `kalevala` | 3 Gutenberg | 0 | 4,722 | Kirby's Kalevala (1907, 2 vols.), a second witness beside Crawford. |
 | `yeats-folk` | 5 Gutenberg | 0 | 3,129 | The Secret Rose and Stories of Red Hanrahan added: Yeats's own tales on Irish folk material. |
 | `grace-james` | 1 Gutenberg | 0 | 1,870 | Japanese Fairy Tales. |
-| `griffis` | 1 Gutenberg | 0 | 741 | Japanese Fairy World. |
+| `griffis` | 6 Gutenberg | 0 | 5,083 | Japanese Fairy World (1880); batch 21 adds his Dutch, Welsh, Swiss, Korean and Belgian Fairy Tales (the Dutch undated in the text; the Korean, Belgian and Swiss title pages print no year). |
 | `dayrell` | 2 Gutenberg | 0 | 1,287 | Folk Stories from Southern Nigeria, Ikom Folk Stories. |
 | `cronise-ward` | 1 Gutenberg | 0 | 1,366 | Cunnie Rabbit, Mr. Spider and the Other Beef. |
 | `bleek` | 1 Gutenberg | 0 | 420 | Reynard the Fox in South Africa. |
