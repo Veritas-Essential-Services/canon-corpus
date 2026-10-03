@@ -588,6 +588,14 @@
    "started": "2026-10-03T01:52:39-05:00",
    "finished": "2026-10-03T01:57:43-05:00",
    "notes": "Later printings and modernized texts are now two decisions for Adam in DIGEST-B, not decided in-lane. fetch_perseus.py refuses a modernized file without a reason and writes a rights block (licence, attribution, source_url, share_alike, redistribute_whole false) into every kept _perseus_checks finding; tests/fetch_perseus_test.py (12 checks). The rights block lives in the committed shelf; carrying it into data/books/manifest.json needs a change to structure_texts.py, which lane B does not edit."
+  },
+  {
+   "id": "nicomachus-hermetica",
+   "status": "done",
+   "scope": "D'Ooge's Nicomachus (1926); new Hermetica shelf: Chambers 1882, Everard's Pymander (1884 reprint), Mead 1906 (3 vols)",
+   "started": "2026-10-03T01:57:43-05:00",
+   "finished": "2026-10-03T02:04:04-05:00",
+   "notes": "D'Ooge's IA record has no date; the title page (Macmillan, 1926) is the evidence, in _rights_checked. A Spelman Dionysius re-add was caught as already held and reverted before commit."
   }
  ]
 }

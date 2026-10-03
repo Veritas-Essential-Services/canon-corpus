@@ -353,3 +353,8 @@
 - Every kept Perseus finding (lane B, 290 texts) now carries a rights block with redistribute_whole false; markup_licence_in_file is recorded only where the file itself states a licence (Godley's and Smyth's files do not, so their block cites the repository README)
 - pindar-cary-1833 withdrawn: the same IA scan as lane C's cary-pindar, already cross-referenced
 - Unchecked translators: Lewis vol. I now matches ('Lillington Lewis' in the dedication); Ridley 1896, Paley, Watson vol. II, Morell (2), Lewis vol. II and Littlebury (2) print the name nowhere the OCR can read, so each stays under _translator_unchecked with the title page's OCR spelling
+
+## 2026-10-03 02:04 CDT — Nicomachus (D'Ooge), Hermetica (new)
+- Nicomachus: D'Ooge's Introduction to Arithmetic with Robbins and Karpinski's studies (University of Michigan Studies; Macmillan, 1926), on the greek-mechanics-astronomy shelf; date from the title page, IA records none
+- Hermetica: new shelf. John David Chambers's translation from the Greek (T. & T. Clark, 1882); Everard's Divine Pymander (1650) in Redway's 1884 reprint with Hargrave Jennings's introduction; G. R. S. Mead's Thrice-Greatest Hermes, all three volumes (1906)
+- Gellius: a stale 'Beloe vol. 2 pending' note closed; vol. 2 was already held
