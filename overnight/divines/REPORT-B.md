@@ -493,3 +493,8 @@
 - horace: 11 translators (Francis, Deazeley, Hughes, Forsyth, Hague, Marris, Whyte Melville, Ravensworth, O'Brien, Phelps, Green)
 - virgil: Thornhill's Aeneid, King and Rose Eclogues and Georgics
 - Whyte Melville: identity quoted from the title page (author printed only as 'Horace')
+
+## 2026-10-03 06:30 CDT — Lucretius, Terence, Plautus
+- lucretius: 1743 anon. prose (vol. I), Watson and Good 1851, Johnson 1872, 1879 private, Baring 1884
+- roman-comedy: Echard's Terence 1733, Evans's Trinummus 1883
+- Refused: 1743 vol. II (0.7798), Thornton's Plautus (0.70)

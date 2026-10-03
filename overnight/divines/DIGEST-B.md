@@ -141,3 +141,4 @@
 - 06:14 Ovid and Euripides gap-fill (5 items); nothing needs a decision.
 - 06:21 Demosthenes and Conington gap-fill (3 items); nothing needs a decision.
 - 06:26 Horace and Virgil gap-fill (14 items); nothing needs a decision.
+- 06:30 Lucretius and Roman comedy gap-fill (7 items); nothing needs a decision.

@@ -804,6 +804,14 @@
    "started": "2026-10-03T06:21:19-05:00",
    "finished": "2026-10-03T06:26:50-05:00",
    "notes": "Horace: Francis 1825 (2 vols., New York; the old scans had been refused for OCR), Deazeley 1895, Hughes 1867, Forsyth 1876, Hague 1892, Marris 1912, Whyte Melville 1850, Ravensworth 1858, O'Brien 1860 (Book I only), Phelps 1897, W. C. Green 1903. Virgil: Thornhill's Aeneid 1886, J. M. King's Eclogues and Georgics 1882, J. B. Rose's (undated; catalogue 1866). Skipped: Conington's Odes 1865 (held from Gutenberg), the 1844 literal Odes (OCR 0.72), the Valpy 1831 Francis vol. II (the complete 1825 set taken instead)."
+  },
+  {
+   "id": "latin-gapfill-5",
+   "status": "done",
+   "scope": "Gap-fill: Lucretius, Terence, Plautus",
+   "started": "2026-10-03T06:26:50-05:00",
+   "finished": "2026-10-03T06:30:42-05:00",
+   "notes": "Lucretius: the anonymous 1743 prose translation vol. I (Latin facing; vol. II ECCO at 0.7798 refused), Watson and Good (Bohn 1851), C. F. Johnson 1872, the privately printed Books I-II (1879, translators unnamed), Baring's Scheme of Epicurus 1884. Roman comedy: Echard's Terence, eighth edition 1733 (translator unchecked: OCR), A. H. Evans's Trinummus 1883. Thornton's Plautus is still refused: every scan is ECCO OCR at 0.65-0.70."
   }
  ]
 }

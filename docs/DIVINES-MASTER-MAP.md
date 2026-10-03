@@ -3063,6 +3063,11 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | The Nature of Things: a didactic poem, vol. I (London 1805) | John Mason Good | `lucretius-good-1805-v1` | have-raw (IA `natureofthingsdi01lucr`) |
 | The Nature of Things: a didactic poem, vol. II (London 1805) | John Mason Good | `lucretius-good-1805-v2` | have-raw (IA `natureofthingsdi02lucr`) |
 | Lucretius, De Rerum Natura, with an English translation (Loeb Classical Library; London: Heinemann, New York: Putnam, 1924; Latin facing) | W. H. D. Rouse | `lucretius-rouse-loeb-1924` | have-raw (IA `text-lucretius-rouse`) |
+| T. Lucretius Carus of the Nature of Things, in six books, with notes and plates engraved by Guernier and others, vol. I: Books I-III (London: Daniel Browne, MDCCXLIII; Latin facing) | anonymous (English prose) | `lucretius-anon-prose-1743-v1` | have-raw (IA `tlucretiuscaruso00lucr`) |
+| Lucretius On the Nature of Things, literally translated into English prose, with the metrical version of John Mason Good (Bohn, MDCCCLI) | John Selby Watson (prose); John Mason Good (verse) | `lucretius-watson-good-bohn-1851` | have-raw (IA `lucretiusonnatu00goodgoog`) |
+| Lucretius On the Nature of Things, translated into English verse (London: Sampson Low, 1872) | Charles Frederick Johnson | `lucretius-johnson-1872` | have-raw (IA `lucretiusonnatu00lucr`) |
+| The First and Second Books of Lucretius translated (privately printed, London, 1879) | unnamed ('the translators', per the preface) | `lucretius-anon-books-i-ii-1879` | have-raw (IA `firstsecondbooks00londiala`) |
+| The Scheme of Epicurus: a rendering into English verse of the unfinished poem of Lucretius (London, 1884) | Thomas Charles Baring | `lucretius-baring-1884` | have-raw (IA `schemeofepicurus00lucrrich`) |
 
 Pending (wishlist): none. Rouse's Loeb is held above from a 1924 first printing (IA `text-lucretius-rouse`); the 1953 and 1959 printings follow the 1937 revision and were not taken.
 
@@ -3175,6 +3180,8 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | held: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain; not fetched (see `_held`) |
 | Terence, vol. 1 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v1` | have-raw (IA `terence000ijohn`) |
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
+| Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
+| The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883) | A. H. Evans | `plautus-evans-trinummus-1883` | have-raw (IA `trinnummustmacc00plaugoog`) |
 
 Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
 
