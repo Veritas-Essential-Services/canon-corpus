@@ -149,6 +149,11 @@
    "cu31924026490742",
    "The Odes of Horace and his Secular Hymn rendered in English verse (London, 1903)",
    "tr. W. C. Green"
+  ],
+  "horace-sargent-echoes-1893": [
+   "horatianechoest00holmgoog",
+   "Horatian Echoes: translations of the Odes of Horace, with an introduction by Oliver Wendell Holmes (Boston and New York: Houghton, Mifflin, 1893)",
+   "tr. John Osborne Sargent"
   ]
  },
  "_cross_ref": {
@@ -192,7 +197,8 @@
   "horace-whyte-melville-1850": "whyte melville",
   "horace-ravensworth-odes-1858": "Ravensworth",
   "horace-obrien-odes-i-1860": "O'Brien",
-  "horace-phelps-odes-1897": "philip e. phelps"
+  "horace-phelps-odes-1897": "philip e. phelps",
+  "horace-sargent-echoes-1893": "mr. sargent"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -551,6 +557,19 @@
    "ia_rights": "ok: published 1903",
    "ia_date": "1903",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horace-sargent-echoes-1893": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "translator_claimed": "mr. sargent",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
