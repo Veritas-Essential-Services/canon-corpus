@@ -876,6 +876,14 @@
    "started": "2026-10-03T07:03:52-05:00",
    "finished": "2026-10-03T07:08:55-05:00",
    "notes": "Virgil: Millington Eclogues 1870, Hoblyn Georgics I 1825. Horace: Sargent 1893, Coutts and Pollock 1920, a Native of America 1786, Jones 1865, Fenwick 1918, Mills 1920. Ovid sweep found nothing new (Garth 1812 belongs to the Dryden shelf)."
+  },
+  {
+   "id": "title-sweep-sophocles",
+   "status": "done",
+   "scope": "Title sweep of IA for Sophocles translations not yet held",
+   "started": "2026-10-03T07:08:55-05:00",
+   "finished": "2026-10-03T07:11:12-05:00",
+   "notes": "Added Young 1888, Doyle 1849, Mongan 1865, Hull 1894, Palmer 1899. Anonymous literal 1837/1844/1889 not taken (probably the held Oxford translation)."
   }
  ]
 }

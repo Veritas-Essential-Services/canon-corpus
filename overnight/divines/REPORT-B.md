@@ -548,3 +548,10 @@
 - G. Fenwick, Odes II (1918), 0.90
 - W. H. Mills, Nineteen Odes (1920), 0.92
 - Refused under the OCR bar: ECCO Neville Georgics 1767, 1750 Georgics, 1794 Aeneid, 1787 Aeneid II, 1753 prose Horace
+
+## 2026-10-03 07:11 CDT — Sophocles title sweep
+- Sir George Young, Dramas in English verse (IA 1888), 0.91
+- Sir F. H. Doyle, Oedipus King of Thebes (1849), 0.87
+- Roscoe Mongan, literal Oedipus Tyrannus (1865), 0.89
+- A. C. A. Hull, Oedipus at Colonus (1894), 0.88
+- G. H. Palmer, Antigone (copyright 1899), 0.91
