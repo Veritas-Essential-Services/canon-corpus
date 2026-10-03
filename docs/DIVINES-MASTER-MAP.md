@@ -2263,6 +2263,7 @@ Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Ed
 | The Romane Historie written by T. Livius of Padua (1659 edition) | Philemon Holland | `livy-holland` | have-raw (IA `romanehistorie00livy`) |
 | The History of Rome | Rev. Canon Roberts | `livy-perseus-roberts-the-history-of-rome` | have (Perseus TEI `phi0914.phi001.perseus-eng3`; markup CC BY-SA 4.0) |
 | The History of Rome by Titus Livius, translated from the original with notes and illustrations (first American from the last London edition; New York: Peter A. Mesier and others, 1823), vols. I-VI in one file | George Baker | `livy-baker-1823` | have-raw (IA `the-history-of-rome-by-titus-livius-volumes-1-6-translated-by-george-baker-1823`) |
+| Livy, Books XXI-XXV: The Second Punic War (Macmillan, 1883) | Alfred John Church and William Jackson Brodribb | `livy-church-brodribb-21-25-1883` | have-raw (IA `livybook2125seco00livy`) |
 
 Pending (wishlist): Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused).
 
@@ -3107,6 +3108,8 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX | H. E. Butler | `quintilian-butler-v3` | have-raw (IA `institutioorator03quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 4: Books X-XII | H. E. Butler | `quintilian-butler-v4` | have-raw (IA `institutioorator04quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing) | H. E. Butler | `quintilian-butler-v1-1921` | have-raw (IA `in.ernet.dli.2015.99822`) |
+| Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
+| Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
 Pending (wishlist): Watson's Bohn (no scan located)
 
@@ -3476,6 +3479,18 @@ Shelf: `pipeline/fronto_shelf.json`. Haines's Loeb, the first English Fronto, vo
 | The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus, Lucius Verus, Antoninus Pius and various friends, vol. II (Loeb; London: Heinemann, New York: Putnam, MCMXX) | C. R. Haines | `fronto-haines-v2` | have-raw (IA `correspondenceof0002crha_r5s5`) |
 
 Pending (wishlist): none: vol. II's 1929 revision (seen only in a 1988 reprint) was not taken; the 1920 first printing is held.
+
+## Aeschines
+
+Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches in Adams's Loeb translation (1919), English-only Perseus TEI.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Against Timarchus | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-timarchus` | have (Perseus TEI `tlg0026.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Embassy | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-on-the-embassy` | have (Perseus TEI `tlg0026.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+
+Pending (wishlist): an older English Aeschines (pre-1900), if a clean scan turns up.
 
 ## Perseus census (overflow)
 

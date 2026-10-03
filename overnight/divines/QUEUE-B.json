@@ -540,6 +540,14 @@
    "started": "2026-10-03T01:16:31-05:00",
    "finished": "2026-10-03T01:21:32-05:00",
    "notes": "Morell's name OCRs garbled on both title pages, so recorded under _translator_unchecked with the OCR spelling. Apuleius 01 copy excluded as a duplicate scan."
+  },
+  {
+   "id": "aeschines-livy-quintilian",
+   "status": "done",
+   "scope": "New Aeschines shelf (Adams, Perseus); Church-Brodribb Livy XXI-XXV; Watson's Quintilian (2 vols); stale pending notes refreshed",
+   "started": "2026-10-03T01:21:32-05:00",
+   "finished": "2026-10-03T01:30:02-05:00",
+   "notes": "Adams's Perseus files record a 1958 printing next to the 1919 first publication; taken with a stated reason. Watson vol. II's title page OCRs the name garbled, so unchecked with the OCR spelling."
   }
  ]
 }

@@ -311,3 +311,9 @@
 - Seneca: Thomas Morell's Epistles to Lucilius, 1786, both volumes (Woodfall for Robinson); the translator's name OCRs garbled on each title page, so the claim is recorded as unchecked with the OCR spelling
 - Apuleius: Thomas Taylor's 1822 Metamorphosis; a second scan of the same edition excluded
 - Review round 8: the Everyman Ethics (PG 8438) moved to _held as a duplicate of the Adler shelf's aristotle-ethics; the duplicate Rendall 1898 row dropped (same IA item as marcus-aurelius-rendall); Bennett now carries a translator check (surname, since the title page OCRs 'C. E, BENNETT'); Firth vol. 2's date marked inferred; the digest's Adam decisions narrowed to Ross v09, and the stale 'Bennett not found' line removed
+
+## 2026-10-03 01:30 CDT — Aeschines (new), Livy XXI-XXV, Quintilian (Watson), stale notes
+- Aeschines: new shelf with Charles Darwin Adams's three speeches (Loeb 1919) from Perseus TEI; the record also gives 1958, the printing Perseus keyed from, so each row carries a _rights_checked reason
+- Livy: Church and Brodribb's Books XXI-XXV, The Second Punic War (Macmillan, 1883)
+- Quintilian: Watson's Bohn Institutes, vol. I from Bell's 1903 reprint from the 1856 stereotype plates and vol. II from 1856; this fills the 'Watson, no scan located' gap
+- Eighteen 'pending' notes refreshed where the work was already held (Carter's Epictetus, Cary's Herodotus, Buckley's Euripides vol. II, Golding's Caesar, Holland's Livy, Murray's Homer, C. F. Smith's Thucydides, the Bohn Plato, Bysshe, Elton's Hesiod and others); the Brookes More note now agrees with the Perseus source record (Cornhill, 1922)
