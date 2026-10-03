@@ -1032,6 +1032,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace translated, with the life of the translator, vol. I (New York: Solomon King, 1825) | Philip Francis | `horace-francis-1825-v1` | have-raw (IA `worksofhorace01hora`) |
 | The Works of Horace translated, vol. II (New York: S. King, 1825) | Philip Francis | `horace-francis-1825-v2` | have-raw (IA `worksofhorace02hora`) |
 | The Odes of Horace (Books I and II) done into English verse, with Andromeda, Ariadne and Jason (1895) | J. Howard Deazeley | `horace-deazeley-odes-1895` | have-raw (IA `odeshoracedonei00deazgoog`) |
+| The Odes, Epodes, Carmen Seculare and the first Satire of Horace translated into English verse (London, 1867) | Christopher Hughes | `horace-hughes-1867` | have-raw (IA `odesepodescarme00hughgoog`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
