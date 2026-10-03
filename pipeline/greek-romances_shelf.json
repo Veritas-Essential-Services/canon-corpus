@@ -116,7 +116,8 @@
   "xenophon-ephesius-1727": "the title page OCR loses the name ('By Mr. ...'); attributed elsewhere to John Rooke, not verified here"
  },
  "_excluded": {
-  "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan"
+  "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan",
+  "Aristaenetus, Love Epistles (Halhed and Sheridan, 1771)": "PD; the ECCO scan reads at 0.54 clean words. Refused for OCR quality on 2026-10-03; wanted from a cleaner scan"
  },
  "_surname_by_slug": {
   "greek-romances-smith": [
