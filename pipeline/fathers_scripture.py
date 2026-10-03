@@ -210,9 +210,12 @@ def as_num(tok):
     return roman(tok)
 
 
-# "Ps. 18, " / "Ps. XVIII , ": a book word, then its chapter and a comma, and
-# nothing else, before a number.
-VERSE_BEFORE = re.compile(r"(?:[^\W\d_]{2,}\.?|[^\W\d_]\.)\s*(?:\d{1,3}|[IVXLC]{1,7})\s*,\s*$")
+# "Ps. 18, " / "Ps. xviii , ": a book word, then its chapter and a comma,
+# before a number; or such a reference running on by "-", "et" or a new
+# chapter ("Ps. 18, 6-", "Ps. 18, 6 et ", "Ps. 18, 6; 20, "). Never after a
+# bare ", ": "Es. 1, 11, 24]" is a verse, then the next line's marker.
+VERSE_BEFORE = re.compile(r"(?:[^\W\d_]{2,}\.?|[^\W\d_]\.)\s*(?:\d{1,3}|(?<![^\W\d_])[IVXLCivxlc]{1,7})\s*,\s*"
+                          r"(?:\d{1,3}\s*(?:[-—–]|et\b|;\s*\d{1,3}\s*,)\s*)*$")
 
 
 def parse(label, family):

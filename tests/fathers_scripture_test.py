@@ -113,7 +113,12 @@ check("... and '[17]' in brackets is still not taken for a marker: the reference
 check("... nor a verse closing a lemma: 'Ps. 18, 6] cf.' is Ps 18:6",
       refs("Ps. 18, 6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. 18, 6 ] cf.", "lat") == ["Ps 18:6"]
       and refs("Ps. 18,  6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. 18 , 6] cf.", "lat") == ["Ps 18:6"]
-      and refs("Ps. XVIII, 6] cf.", "lat") == ["Ps 18:6"])
+      and refs("Ps. XVIII, 6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. xviii, 6] cf.", "lat") == ["Ps 18:6"])
+check("... nor the end of a verse run closing a lemma: '3-5]', '2-3]', '6—9]', '6; 20, 9]', '6 et 9]'",
+      refs("Matth. 7, 3-5] cf.", "lat") == ["Matt 7:3-5"] and refs("Es. 53, 2-3] cf.", "lat") == ["Isa 53:2-3"]
+      and refs("Ps. 18, 6—9] cf.", "lat") == ["Ps 18:6-9"]
+      and refs("Ps. 18, 6; 20, 9] cf.", "lat") == ["Ps 18:6", "Ps 20:9"]
+      and refs("Ps. 18, 6 et 9] cf.", "lat") == ["Ps 18:6", "Ps 18:9"])
 check("... but a number after a verse is the next line's marker: 'Es. 1, 11, 24] Ioh.'",
       refs("20] Es. 1, 11, 24] Ioh. 4, 23.", "lat") == ["Isa 1:11", "John 4:23"]
       and refs("Ps. 18, 6, 9] Io. 1, 10.", "lat") == ["Ps 18:6", "John 1:10"])

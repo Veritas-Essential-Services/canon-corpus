@@ -68,7 +68,7 @@
   "file": "build/fathers/scripture-links.jsonl (gitignored; rebuilt)",
   "rows": 13262,
   "numbering_sha256": "cd7919508c2a292462d7e2cc14e4a370232f3160e8364a98e08c2116b23ed05a",
-  "sha256": "c1eeaf43ee2820f756f44fbf08b73634660346a45c2fd40e1c4c5850b0d548d1"
+  "sha256": "f77dad462af9579d3c87a3fa95d8ff4a9cc3ff9723296e209a800232c2f71e13"
  },
  "not_claimed": [
   "A Greek word's number is the NT's reading of the same written form; the fathers' own senses are not read.",
@@ -1054,7 +1054,7 @@
      "vulgate": 1571
     }
    },
-   "tags_sha256": "7cb739b86258d1ae7efbfda67b9867da9b1822b9ff6f259a2a1cf31de8c387af"
+   "tags_sha256": "58af32f638caed33dc994bf56124783c759307ce1099ca85ddd83247febea9d4"
   },
   "arnobius-adversus-nationes-lat": {
    "key": "lewis-short",
@@ -4387,7 +4387,7 @@
      "vulgate": 250
     }
    },
-   "tags_sha256": "95ab056f69c77308ee3ab0bc0a16113b6775654d331869114fc83afdb9821031"
+   "tags_sha256": "4f124e852c85d76d3ea0581479c5ed26cf86801b8aa2c37b60a214f964bbd83c"
   },
   "eucherius-instructiones-lat": {
    "key": "lewis-short",
