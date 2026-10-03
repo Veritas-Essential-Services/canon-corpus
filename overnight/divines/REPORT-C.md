@@ -65,3 +65,6 @@
 ## 2026-10-02T19:47-05:00 — round 5: seven translator shelves (curtin, hapgood, legge, giles, waley, hoole, harington)
 - 31 sources fetched (one IA HTTP 500 retried), 0 failed. 27 titles cut, 0 failed. `--verify --record`: 0 mismatched, 0 rights flags; one identity override (Hoole vol. 2, split OCR name), one title_weak (Harington).
 - Defects: Harington 1591 OCR (0.66), Hoole 1803 long s (0.82). Rights notes: Waley UK to end-2036, Lionel Giles UK to end-2028 (US PD).
+
+## 2026-10-02T19:53-05:00 — round 6: eight translator shelves (muller, edwin-arnold, griffith, rodwell, sale, palmer, whinfield, nicholson)
+- 14 sources fetched, 0 failed after one identity override (Nicholson Divani, OCR "Nichqlson"). 11 titles cut, 0 failed. `--verify --record`: 0 mismatched, 0 rights flags. Front-matter scan over rounds 5-6: one flag, a 2019 digitisation credit (examined, recorded).

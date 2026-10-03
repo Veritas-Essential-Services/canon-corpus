@@ -165,5 +165,43 @@
    "pg_copyrighted": false,
    "pg_translator": "Isabel Florence Hapgood"
   }
- }
+ },
+ "_verified": {
+  "hapgood-les-miserables": {
+   "pg": 135,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-orloff": {
+   "pg": 55636,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-village": {
+   "pg": 59981,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-first-love": {
+   "pg": 56878,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-superfluous-man": {
+   "pg": 41201,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-reckless-character": {
+   "pg": 15994,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-nobleman": {
+   "pg": 25771,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

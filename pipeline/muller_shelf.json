@@ -51,5 +51,65 @@
   "muller-rig-veda-1869": "Müller's Rig-Veda-Sanhita vol. 1 (hymns to the Maruts, 1869): only that volume was ever published; not fetched."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "muller-dhammapada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. Max Müller"
+  },
+  "muller-upanishads-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "muller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "muller-upanishads-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "muller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "muller-dhammapada": {
+   "pg": 2017,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. Max Müller"
+  },
+  "muller-upanishads-1": {
+   "ia": "upanishads01mluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1636,
+    1707,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "muller-upanishads-2": {
+   "ia": "p2upanishads00mluoft",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1871,
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

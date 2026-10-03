@@ -176,5 +176,50 @@
    "pg_copyrighted": false,
    "pg_translator": "Arthur Waley"
   }
- }
+ },
+ "_verified": {
+  "waley-170-chinese-poems": {
+   "pg": 42290,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-more-translations": {
+   "pg": 16500,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-li-po": {
+   "pg": 43274,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "waley-no-plays": {
+   "pg": 43304,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "waley-genji-1": {
+   "pg": 66057,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-2": {
+   "pg": 67111,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-3": {
+   "pg": 75852,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-pillow-book": {
+   "pg": 76016,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

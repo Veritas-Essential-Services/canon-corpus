@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-02T19:47-05:00: 28 shelves, 148 titles (rounds 1-3: 108; round 4: 13 — Rossetti 2, Fairfax 1, Rose 1, Shelton 1, Norton 4, Payne 2, Carlyle 2; round 5: 27 — Curtin 5, Hapgood 7, Legge 3, Giles 4, Waley 6, Hoole 1, Harington 1). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-02T19:53-05:00: 36 shelves, 159 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11 — Müller 2, Edwin Arnold 1, Griffith 2, Rodwell 1, Sale 1, Palmer 1, Whinfield 1, Nicholson 2). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -66,3 +66,14 @@ Each name was grepped across every shelf, fetch_sources.py and all four queues f
 - **Hoole:** Tasso's Jerusalem Delivered (1803, 2 vols, raw OCR). Defect: the long s is still in use, so the OCR reads s as f (82% vocabulary). Vol. 2's title page names him, but the OCR splits the name; that is recorded in `_identity_checked`.
 - **Harington:** Orlando Furioso, 1591 first edition. Defect: Elizabethan spelling plus scan errors leave 66% of tokens in a modern vocabulary. **Your call:** keep it as a raw witness, or veto it until a transcription exists (EEBO-TCP may have one).
 - Every Gutenberg header names the expected translator; none is marked copyrighted (`_checks`). The archive.org rights gate raised no flags. Hoole's Ariosto is pending (only long-s printings or incomplete sets were found).
+
+## Round 6 — 2026-10-02T19:53-05:00, lane C's own choice: scriptures and classics of the East (each shelf vetoable)
+I grepped each name across every shelf, fetch_sources.py and the four queues first. Lane D's dutt shelf holds Romesh Dutt's condensed epics; Griffith's Ramayana is a different translation, so it is a second witness, not a duplicate.
+- **Max Müller:** the Upanishads (SBE 1 and 15, raw OCR) and the Dhammapada (Gutenberg 2017).
+- **Edwin Arnold:** the Bhagavad Gita, as "The Song Celestial" (Gutenberg 2388).
+- **Griffith:** the Ramayana (Gutenberg 24869) and the Hymns of the Rigveda (2nd ed. 1896-97, Digital Library of India scans, raw OCR 0.88-0.90).
+- **Three Korans, three witnesses:** Rodwell (1861, Gutenberg 2800, suras in his chronological order, so ids must carry the sura number), Sale (1734, Gutenberg 7440), and Palmer (SBE 1880, raw OCR).
+- **Whinfield:** Rumi's Masnavi, abridged (1887).
+- **Nicholson:** Hujwiri's Kashf al-Mahjub (Gutenberg 64786) and Selected Poems from the Divani Shamsi Tabriz (1898). The Divani is raw OCR at 0.79 because the Persian text faces the English. Its OCR spells the name "Nichqlson", so that file is in `_identity_checked`.
+- The surname checks for "sale" and "arnold" are weak (a common word, and another Arnold), so the Gutenberg header's Translator line is the evidence for those two (`_checks`).
+- **Your call:** scripture of living religions. These are 19th-century scholarly translations, all PD. Veto any you would rather not host.

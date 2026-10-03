@@ -50,5 +50,63 @@
   "griffith-atharvaveda": "Hymns of the Atharva-veda (1895-96), the Samaveda (1893), the White Yajurveda (1899): on IA; not fetched this run."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "griffith-ramayana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ralph T. H. Griffith"
+  },
+  "griffith-rigveda-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "griffith-rigveda-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "griffith-ramayana": {
+   "pg": 24869,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ralph T. H. Griffith"
+  },
+  "griffith-rigveda-1": {
+   "ia": "in.ernet.dli.2015.195721",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1878,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "griffith-rigveda-2": {
+   "ia": "in.ernet.dli.2015.195722",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

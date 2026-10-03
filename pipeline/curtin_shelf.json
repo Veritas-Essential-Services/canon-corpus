@@ -140,5 +140,38 @@
    "pg_copyrighted": false,
    "pg_translator": "Jeremiah Curtin"
   }
- }
+ },
+ "_verified": {
+  "curtin-quo-vadis": {
+   "pg": 2853,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-fire-and-sword": {
+   "pg": 37027,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-deluge-1": {
+   "pg": 37198,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-deluge-2": {
+   "pg": 37308,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pan-michael": {
+   "pg": 37361,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-field-of-glory": {
+   "pg": 37406,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

@@ -42,5 +42,54 @@
   "nicholson-mathnawi": "The Mathnawi translation (Gibb series, 1925-40): vols 1-2 (1926, 1930) are US PD; the rest are not. Not fetched."
  },
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "nicholson-divani-1898": "Title page reads 'edited and translated ... by Reynold A. Nicholson ... Cambridge at the University Press 1898'; the OCR spells the name 'NICHQLSON'. Checked by eye 2026-10-03."
+ },
+ "_checks": {
+  "nicholson-kashf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Reynold Alleyne Nicholson"
+  },
+  "nicholson-divani-1898": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "nicholson-kashf": {
+   "pg": 64786,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Reynold Alleyne Nicholson"
+  },
+  "nicholson-divani-1898": {
+   "ia": "india.history.resource.111025",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1883,
+    1889,
+    1893,
+    1894,
+    1898
+   ],
+   "post_1930_years_in_front_15k": [
+    2019
+   ],
+   "post_1930_examined": "Examined: 'Digitized with financial assistance ... on 06 November, 2019', a scanning credit on the same OCR line as the library stamp, not an imprint. Imprint: Cambridge 1898."
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }

@@ -28,10 +28,53 @@
    "work": "The Qur'an",
    "translated": "1880",
    "translator": "E. H. Palmer",
-   "scan_edition": "Clarendon Press 1880, SBE 6 and 9, raw OCR (volume order to be confirmed from the suras each holds)"
+   "scan_edition": "Clarendon Press 1880, raw OCR: part I (Toronto copy, SBE 6) then part II (Google copy, 'Vol. IX, Part II'), checked from each file's front matter"
   }
  },
  "_pending": {},
  "_excluded": {},
- "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "palmer-quran-a": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "palmer-quran-b": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "palmer-quran-a": {
+   "ia": "thequraan09unknuoft",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "palmer-quran-b": {
+   "ia": "qurn01unkngoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
 }
