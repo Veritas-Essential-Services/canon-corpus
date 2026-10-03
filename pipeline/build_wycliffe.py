@@ -99,13 +99,17 @@ UIDS = os.path.join(ROOT, "data", "uids", "wordhoard.uids.json")
 
 VOLUMES = {
     1: {"ia": "holybiblecontain01wycluoft", "title": "Vol. I: Genesis - Ruth",
-        "sha256": "894d26547e8f8d75f86f6fd7dba0943a8055bbcfb13c9d50f177af87e3f8c72d"},
+        "sha256": "894d26547e8f8d75f86f6fd7dba0943a8055bbcfb13c9d50f177af87e3f8c72d",
+        "possible_copyright_status": "NOT_IN_COPYRIGHT"},
     2: {"ia": "holybiblecontain02wycluoft", "title": "Vol. II: I Kings - Psalms",
-        "sha256": "f1dce32502f7654db2178082a53b021777732b63b6d32c72f863d8095c76b937"},
+        "sha256": "f1dce32502f7654db2178082a53b021777732b63b6d32c72f863d8095c76b937",
+        "possible_copyright_status": "NOT_IN_COPYRIGHT"},
     3: {"ia": "holybiblecontain03wycluoft", "title": "Vol. III: Proverbs - II Maccabees",
-        "sha256": "9e460c596cd2a62f3597fe3fbb2f901be3cb6919fcb4aa595a58cccab1b32500"},
+        "sha256": "9e460c596cd2a62f3597fe3fbb2f901be3cb6919fcb4aa595a58cccab1b32500",
+        "possible_copyright_status": "NOT_IN_COPYRIGHT"},
     4: {"ia": "holybiblecontain04wycluoft", "title": "Vol. IV: the New Testament",
-        "sha256": "a5e6ebc5c74ac67016cccc48930e3eb6b96e4514c8be3c439e957a0a9293c504"},
+        "sha256": "a5e6ebc5c74ac67016cccc48930e3eb6b96e4514c8be3c439e957a0a9293c504",
+        "possible_copyright_status": "NOT_IN_COPYRIGHT"},
 }
 # eBible.org's engWycliffe (PD; copr.htm: "Public Domain"): the LATER version,
 # nine books only. Used only to MEASURE the later version's verse division:
@@ -212,10 +216,21 @@ def fetch():
     print("  engWycliffe_usfm.zip (eBible, the later version's nine books, for the measure): present, sha256 pinned")
 
 
+def ebible_missing():
+    """Why the pinned eBible zip cannot be read, or None."""
+    p = os.path.join(CACHE, EBIBLE["file"])
+    if not os.path.exists(p):
+        return f"eBible's Wycliffe ({EBIBLE['file']}) is not fetched"
+    got = sha256_file(p)
+    if got != EBIBLE["sha256"]:
+        return f"eBible's Wycliffe ({EBIBLE['file']}) has sha256 {got}, not the pinned {EBIBLE['sha256']}"
+    return None
+
+
 def ebible_verses():
     """{(code, ch, v): words} from eBible's later version, or None if not fetched."""
     p = os.path.join(CACHE, EBIBLE["file"])
-    if not os.path.exists(p) or sha256_file(p) != EBIBLE["sha256"]:
+    if ebible_missing():
         return None
     inv = {u: c for c, u in EBIBLE["books"].items()}
     out = {}
@@ -967,7 +982,13 @@ def build_version(version, vmap, kids, only=None, eb=None):
                "begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' "
                "collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is "
                "unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a "
-               "book below the bar is given by scan leaf, not by verse")
+               "book below the bar is given by scan leaf, not by verse. A verse number decoded twice keeps "
+               "both units, the second as '<id>~2' (then ~3...) with scan.duplicate_number and no kjv: a house "
+               "convention shared with the Charles books, awaiting Adam's ruling")
+    leaf_books = [c for c, m in measures.items() if m["resolution"] == "page"]
+    resolution = ("verse" if not leaf_books else
+                  f"verse, except {len(leaf_books)} book{'s' if len(leaf_books) > 1 else ''} by scan leaf: "
+                  + ", ".join(leaf_books))
     book = {"slug": slug, "title": f"The Wycliffite Bible, {label.split(',')[0]} (Forshall and Madden 1850)",
             "author": "John Wycliffe and his followers; ed. Josiah Forshall and Frederic Madden",
             "edition": EDITION, "version": label,
@@ -975,13 +996,15 @@ def build_version(version, vmap, kids, only=None, eb=None):
                                                         for k, v in VOLUMES.items()}},
             "scheme": {"citation": "Book.chapter.verse in the Clementine Vulgate's numbering (F&M number as "
                                    "the Vulgate); ids not linked to kjv: units, each unit's `kjv` resolves it",
-                       "resolution": "verse",
+                       "resolution": resolution,
                        "honesty": honesty},
             "rights": {"license": "public domain (published 1850); the scans and their OCR are the Internet "
                                   "Archive's, marked NOT_IN_COPYRIGHT",
                        "attribution": "Internet Archive, holybiblecontain01-04wycluoft (University of Toronto, "
                                       "Robarts Library copy)",
                        "source_url": "https://archive.org/details/holybiblecontain01wycluoft",
+                       "possible_copyright_status": {v["ia"]: v["possible_copyright_status"]
+                                                     for v in VOLUMES.values()},
                        "redistribute_whole": True},
             "measure": {"total": tot, "books": measures, "mode_bar": MODE_BAR},
             "units": units}
@@ -1024,6 +1047,18 @@ def main():
         return
     if a.books and not a.report:
         raise SystemExit("a partial build would rewrite the books without the rest: use --report with book codes")
+    # without the eBible zip the later version's ebible_agreement measure drops
+    # out, so a rebuild cannot equal the manifest: say so, rather than report a
+    # difference that hides its cause (as build_schaff.py does, bdec06f)
+    why = ebible_missing()
+    if why:
+        fix = "  run: python3 pipeline/build_wycliffe.py --fetch"
+        if a.check:
+            raise SystemExit(f"CHECK INCOMPLETE: {why}, so the later version's eBible measure cannot be "
+                             f"rebuilt\n{fix}")
+        if not a.report:
+            raise SystemExit(f"BUILD REFUSED: {why}; the manifest entry would lose its eBible measure\n{fix}")
+        print(f"  note: {why}; the eBible measure is left out of this report")
     built = build(a.books or None)
     with open(MANIFEST, encoding="utf-8") as f:
         manifest = json.load(f)

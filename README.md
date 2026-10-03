@@ -169,6 +169,33 @@ sigla) are dropped, counted, and listed for review. An OCR flag list,
 scans in `docs/review/charles-ocr-flags.tsv` (unit, leaf, token, a suggested
 reading); it changes nothing in the text.
 
+## The Wycliffite Bible (Forshall and Madden 1850, read from the scans)
+
+The earlier and later versions, from F&M's two columns. The source is the
+Internet Archive's ABBYY hOCR of the Toronto copy: four items,
+`holybiblecontain01`-`04wycluoft`, each pinned by sha256 and marked
+`NOT_IN_COPYRIGHT`. The build is `pipeline/build_wycliffe.py`, and it
+produces two books, `wycliffe-earlier` and `wycliffe-later`. Ids are in the
+Clementine's numbering (`wycliffe-later:Ps.50.3`), and each unit's `kjv` is
+resolved through `vulgate-kjv.json`.
+
+What the manifest measures:
+
+- **Coverage of the Clementine's 35,809 verses:** earlier 94.4%, later 85.5%.
+- **Books by scan leaf:** four later-version books (Prov, Sir, 2 John,
+  Jude) fall below the bar and are built one unit per scan leaf. The
+  scheme's `resolution` names them.
+- **Check against eBible:** the later version agrees with eBible's
+  transcription of the nine books it holds on 81.7% of verses.
+
+The text is unproofread OCR.
+
+A verse number decoded twice keeps both units, the second as `<id>~2`
+(then `~3`), with `scan.duplicate_number`. This is a house convention shared
+with the Charles books, awaiting Adam's ruling.
+
+`python3 pipeline/build_wycliffe.py --fetch`, then `--check`.
+
 ## Josephus (Greek and English)
 
 The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek
