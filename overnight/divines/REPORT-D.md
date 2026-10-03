@@ -360,3 +360,6 @@
 
 ## 2026-10-02 20:08 CDT — edgeworth: done
 - 1/1 fetched (Gutenberg 3655), 3,828 units, 0 ~2 ids.
+
+## 2026-10-02 20:10 CDT — baldwin: done
+- 6/6 fetched (Gutenberg 6866, 11582, 15616, 18442, 54214, 66819), 6,263 units, 0 ~2 ids.

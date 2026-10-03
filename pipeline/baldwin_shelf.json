@@ -1,0 +1,58 @@
+{
+ "_about": "James Baldwin's (1841-1925) retellings of myth, epic and legend for young readers: The Story of Siegfried, Old Greek Stories, Hero Tales, Fifty Famous Stories Retold, A Story of the Golden Age and The Sampo. Clean Gutenberg text; US public domain. His school readers, biographies and literary handbooks are not taken. (Not the twentieth-century novelist of the same name.) Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "James Baldwin (1841-1925)",
+ "_name_words": [
+  "siegfried",
+  "greek",
+  "hero",
+  "famous",
+  "golden",
+  "sampo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baldwin-story-of-siegfried": [
+   6866,
+   "The Story of Siegfried",
+   {
+    "chapre_only": "(?:Adventure [IVXL]+\\. .*|The (?:Fore|After) Word\\.?)"
+   }
+  ],
+  "baldwin-old-greek-stories": [
+   11582,
+   "Old Greek Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "baldwin-hero-tales": [
+   15616,
+   "Hero Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "baldwin-fifty-famous-stories": [
+   18442,
+   "Fifty Famous Stories Retold",
+   {
+    "contents_only": true
+   }
+  ],
+  "baldwin-story-of-the-golden-age": [
+   54214,
+   "A Story of the Golden Age"
+  ],
+  "baldwin-sampo": [
+   66819,
+   "The Sampo: A Wonder Tale of the Old North",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "baldwin-other": "Fifty Famous People (PG 6168), Four Great Americans (11174), the readers and the Book-Lover: history, schoolbooks and criticism"
+ }
+}

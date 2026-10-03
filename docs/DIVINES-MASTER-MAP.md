@@ -4667,6 +4667,20 @@ Shelf: `pipeline/edgeworth_shelf.json` (2026-10-02; added at the coordinator's r
 | edgeworth-duplicate | excluded | The Parent's Assistant (PG 36132, Macmillan, with Anne Thackeray Ritchie's introduction): another printing; candidate as a second witness |
 | edgeworth-other | excluded | Castle Rackrent, The Absentee, Belinda and the Tales and Novels volumes: not children's books |
 
+## James Baldwin (1841-1925)
+
+Shelf: `pipeline/baldwin_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His retellings of myth, epic and legend for young readers. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of Siegfried | have | PG 6866, `baldwin-story-of-siegfried` (1198 units) |
+| Old Greek Stories | have | PG 11582, `baldwin-old-greek-stories` (830 units) |
+| Hero Tales | have | PG 15616, `baldwin-hero-tales` (660 units) |
+| Fifty Famous Stories Retold | have | PG 18442, `baldwin-fifty-famous-stories` (1038 units) |
+| A Story of the Golden Age | have | PG 54214, `baldwin-story-of-the-golden-age` (1123 units) |
+| The Sampo: A Wonder Tale of the Old North | have | PG 66819, `baldwin-sampo` (1414 units) |
+| baldwin-other | excluded | Fifty Famous People (PG 6168), Four Great Americans (11174), the readers and the Book-Lover: history, schoolbooks and criticism |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

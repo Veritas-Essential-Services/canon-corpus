@@ -732,6 +732,43 @@
       "status": "done",
       "finished": "2026-10-02T20:08:05-05:00",
       "notes": "1/1 fetched (Gutenberg 3655), 3,828 units, 0 ~2 ids."
+    },
+    {
+      "id": "baldwin",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: baldwin; no minting",
+      "status": "done",
+      "finished": "2026-10-02T20:10:39-05:00",
+      "notes": "6/6 fetched (Gutenberg 6866, 11582, 15616, 18442, 54214, 66819), 6,263 units, 0 ~2 ids."
+    },
+    {
+      "id": "macgregor",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: macgregor; no minting",
+      "status": "running"
+    },
+    {
+      "id": "gilbert",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: gilbert; no minting",
+      "status": "running"
+    },
+    {
+      "id": "knowles",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: knowles; no minting",
+      "status": "running"
+    },
+    {
+      "id": "rolleston",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: rolleston; no minting",
+      "status": "running"
+    },
+    {
+      "id": "hull",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: hull; no minting",
+      "status": "running"
+    },
+    {
+      "id": "weston",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — hero tales retold: weston; no minting",
+      "status": "running"
     }
   ]
 }
