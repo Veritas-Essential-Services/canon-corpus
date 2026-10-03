@@ -1,0 +1,30 @@
+{
+ "_about": "Gleanings from Chinese Folklore, by Nellie N. Russell, with her stories of life in China and memorial sketches, compiled by Mary H. Porter (Fleming H. Revell; the compiler's dedication is dated January 1915). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Nellie N. Russell; compiled by Mary H. Porter",
+ "_name_words": [
+  "russell"
+ ],
+ "_surname": [
+  "russell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "russell-gleanings-from-chinese-folklore": [
+   75089,
+   "Gleanings from Chinese Folklore"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "russell-gleanings-from-chinese-folklore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
