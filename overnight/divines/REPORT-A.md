@@ -322,3 +322,6 @@
 
 ## 2026-10-02 21:21 CDT — thomas-vincent done
 - `pipeline/thomas-vincent_shelf.json`: 4 items, raw IA OCR, 90.0-98.8% (the 1701 long-s printing is the 90%), about 1.7 MB. God's Terrible Voice comes from the National Library of Medicine, whose text file has a non-standard name (given as the shelf's third field), and whose OCR reads his name "Vijvceat"; an `_identity_checked` reason quotes the title page. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:22 CDT — henry-smith done
+- `pipeline/henry-smith_shelf.json`: 2 volumes, raw IA OCR, 98.6-99.1%, about 2.7 MB; title pages read (vols I-II; no printed year in the OCR, so the catalogue's 1866 is used). The surname check uses "henry smith". `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

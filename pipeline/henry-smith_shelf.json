@@ -1,0 +1,52 @@
+{
+ "_about": "Public-domain Henry Smith (c.1560-1591, Elizabethan preacher, lecturer at St Clement Danes, 'silver-tongued Smith') for the Word Hoard: the Works, including sermons, treatises, prayers and poems (Edinburgh: James Nichol, 1866 by the catalogue, 2 vols, Nichol's Series of Standard Divines), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "smith",
+  "henry"
+ ],
+ "_surname": [
+  "henry smith",
+  "h. smith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hsmith-works-1": [
+   "worksofhenrysmit01smit",
+   "The Works of Henry Smith, vol. 1 (Edinburgh: Nichol, 1866)"
+  ],
+  "hsmith-works-2": [
+   "worksofhenrysmit02smit",
+   "The Works of Henry Smith, vol. 2 (Edinburgh: Nichol, 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "completeworksjo0*grosgoog": "Joshua Sylvester's works, where some of Smith's verse appears."
+ },
+ "_checks": {
+  "hsmith-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsmith-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

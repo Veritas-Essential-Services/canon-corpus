@@ -1172,6 +1172,14 @@ No CCEL or Gutenberg text. Raw IA OCR; slugs `tvincent-*`.
 |---|---|---|
 | An Explanation of the Assembly's Shorter Catechism (1854); Christ's Sudden and Certain Appearance to Judgment (1823); God's Terrible Voice in the City (1811); The True Christian's Love of the Unseen Christ (1701) | have-raw | IA (identifiers in the shelf) |
 | Other editions (1668-1840) | alternate | IA |
+
+## Henry Smith (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `hsmith-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 2 vols (Edinburgh: Nichol, 1866): sermons, treatises, prayers and poems | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
