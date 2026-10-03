@@ -376,9 +376,9 @@ def def_head(entry, code):
         # "(or with violence)": a multi-word alternative ends the first reading.
         c = re.split(r"\(\s*or\s+\S+\s+[^()]*\)", c, 1)[0]
         h = _strip_lead(_unparen(c).strip(" ,.:"))
-        parts = re.split(r",|;|:|\bi\.e\.|\bor\b|\bthat is\b", h, 1)
-        h = parts[0].strip(" ,.:")
-        if len(parts) > 1 and re.search(r"\bor\b", h + " or", re.I):
+        cut = re.search(r",|;|:|\bi\.e\.|\bor\b|\bthat is\b", h)
+        h = h[:cut.start()].strip(" ,.:") if cut else h
+        if cut and cut.group(0) == "or":
             # "boast in a good or a bad sense": the cut leaves "in a good" hanging
             h = re.sub(r"\s+(?:in|of|with|by)\s+(?:a|an|the)\s+\w+$", "", h)
         h = re.sub(r"^(?:a|an)\s+", "", h, flags=re.I)

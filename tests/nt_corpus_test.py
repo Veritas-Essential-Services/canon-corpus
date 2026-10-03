@@ -81,10 +81,11 @@ def check(label, cond, detail=""):
 EXPECTED_NT = {"verses": 7953, "tokens": 140149, "witnesses": 7971, "alignments": 7953,
                "books": 27, "distinct_lemmas": 5380, "finite_verbs": 19571, "flagged": 28,
                # the paradigm rule and the def-head repairs (2026-10-02) took this
-               # from 124,516 (88.8%) to 131,631 (93.9%)
-               "glossed": 131631,
+               # from 124,516 (88.8%) to 131,631 (93.9%); 131,627 since the 2026-10-03
+               # def-head fix (the "in a good or" strip ran on every cut)
+               "glossed": 131627,
                "gloss_by_rule": {"kjv-form": 27855, "paradigm": 7103, "kjv-sole": 20489,
-                                 "kjv-in-def": 52792, "def-head": 23255},
+                                 "kjv-in-def": 52792, "def-head": 23251},
                "pronoun_nulls": 5,       # crasis only (kamoi "and me" is not "me")
                # the Byzantine text lacks these Textus Receptus verses; they keep their uids
                "kjv_without_grc": ["kjv:Acts.15.34", "kjv:Acts.24.7", "kjv:Acts.8.37", "kjv:Luke.17.36"],
@@ -601,6 +602,9 @@ check("def-head: a multi-word '(or ...)' alternative ends the head; a dangling '
       == "render glorious"
       and G.gloss_for("N-NSN", E(19, "a boast (properly, the object) in a good or a bad sense", ":--+ glory."))[0]
       == "boast")
+check("... but only a cut at 'or' leaves it dangling: a cut at a comma keeps 'of the mind' (G1611)",
+      G.gloss_for("N-NSF", E(20, "a displacement of the mind, i.e. bewilderment", ":--+ be amazed."))[0]
+      == "displacement of the mind")
 check("the two entries whose ':--' Petersen's XML lost are repaired (G3372 length, G259)",
       G.gloss_for("N-NSN", G.load_entries(open(B._path("strongs", B.STRONGS_XML), encoding="utf-8").read())[3372])
       [0] == "length" if os.path.exists(B._path("strongs", B.STRONGS_XML)) else True)
