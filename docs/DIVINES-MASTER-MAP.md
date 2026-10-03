@@ -6953,6 +6953,14 @@ Shelf: `pipeline/holbrook_shelf.json` (2026-10-02; added at the coordinator's re
 | The Book of Nature Myths | have | PG 22420, `holbrook-book-of-nature-myths` (1016 units) |
 | Northland Heroes | have | PG 20853, `holbrook-northland-heroes` (399 units) |
 
+## Alexander Chodzko (tr. Emily J. Harding)
+
+Shelf: `pipeline/chodzko_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Slav fairy tales, Czech, Slovak, Russian and others, translated and illustrated by Emily J. Harding; cut by tale and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fairy Tales of the Slav Peasants and Herdsmen | have | PG 25555, `chodzko-fairy-tales-of-the-slav-peasants` (1390 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
