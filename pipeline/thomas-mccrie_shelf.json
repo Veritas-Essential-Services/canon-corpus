@@ -1,0 +1,74 @@
+{
+ "_about": "Thomas M'Crie (1772-1835), the Scottish church historian: The Life of John Knox, in the new edition edited by his son Thomas M'Crie the younger (Edinburgh: Blackwood, 1873), and The Life of Andrew Melville (Edinburgh: Blackwood, 1819, 2 vols, the first edition). Volume numbers read off the title pages. The surname check matches 'Crie' as a word, because the OCR prints the prefix as M', M‘ or Mc. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "crie",
+  "mccrie"
+ ],
+ "_surname": [
+  "crie",
+  "mccrie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mccrie-life-of-knox": [
+   "lifeofjohnknoxco00mccr_0",
+   "The Life of John Knox, new edition edited by his son (Edinburgh: Blackwood, 1873)"
+  ],
+  "mccrie-life-of-melville-1": [
+   "lifeofandrewmelvil01mcri",
+   "The Life of Andrew Melville (Edinburgh: Blackwood, 1819), vol. 1"
+  ],
+  "mccrie-life-of-melville-2": [
+   "lifeofandrewmelvil02mcri",
+   "The Life of Andrew Melville (Edinburgh: Blackwood, 1819), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "lifeofjohnknox00mcri (1813), lifeofjohnknoxco0001mcri, lifeofjohnknoxco01mcri/02mcri (1831), lifeofjohnknoxco00mccr (Bohn, 1854), lifeofjohnknoxco00mccruoft (Philadelphia)": "Other editions of the Life of Knox.",
+  "lifeofandrewmelv01mcri, lifeofandrewmelv00mcri, lifeandrewmelvi0[0-6]mcrgoog (1819, 1824)": "Other copies of the Life of Melville."
+ },
+ "_pending": {
+  "The Life of Thomas M'Crie by his son (1842)": "Not yet read.",
+  "M'Crie's Sketches of Scottish Church History; History of the Reformation in Italy and in Spain": "Not yet searched."
+ },
+ "_excluded": {
+  "lifeofandrewmelv00mccruoft (1840)": "An abridgement by the Presbyterian Board, not M'Crie's text.",
+  "lifeofjohnknox0000mccr (1978)": "Lending-library reprint."
+ },
+ "_checks": {
+  "mccrie-life-of-knox": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mccrie-life-of-melville-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccrie-life-of-melville-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "crie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
