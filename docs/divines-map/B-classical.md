@@ -1029,6 +1029,8 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes of Horace, complete in English rhyme and blank verse (Lippincott, 1884) | Henry Hubbard Pierce | `horace-pierce-odes-1884` | have-raw (IA `odeshoracecompl00horagoog`) |
 | Odes, Epodes, and the Secular Song, newly translated into verse (Longmans, 1867) | Charles Stephens Mathews | `horace-mathews-odes-1867` | have-raw (IA `odesepodessecula00horauoft`) |
 | The Odes and Secular Hymn of Horace, Englished into rimed verse corresponding to the original meters (privately printed, 1917) | Warren H. Cudworth | `horace-cudworth-odes-1917` | have-raw (IA `odessecularhymn00horauoft`) |
+| The Works of Horace translated, with the life of the translator, vol. I (New York: Solomon King, 1825) | Philip Francis | `horace-francis-1825-v1` | have-raw (IA `worksofhorace01hora`) |
+| The Works of Horace translated, vol. II (New York: S. King, 1825) | Philip Francis | `horace-francis-1825-v2` | have-raw (IA `worksofhorace02hora`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 

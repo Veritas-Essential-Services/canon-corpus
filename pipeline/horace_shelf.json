@@ -89,6 +89,16 @@
    "odessecularhymn00horauoft",
    "The Odes and Secular Hymn of Horace, Englished into rimed verse corresponding to the original meters (privately printed, 1917)",
    "tr. Warren H. Cudworth"
+  ],
+  "horace-francis-1825-v1": [
+   "worksofhorace01hora",
+   "The Works of Horace translated, with the life of the translator, vol. I (New York: Solomon King, 1825)",
+   "tr. Philip Francis"
+  ],
+  "horace-francis-1825-v2": [
+   "worksofhorace02hora",
+   "The Works of Horace translated, vol. II (New York: S. King, 1825)",
+   "tr. Philip Francis"
   ]
  },
  "_cross_ref": {
@@ -98,7 +108,7 @@
  "_excluded": {
   "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles held (IA); Bennett's Odes and Epodes held from a DLI scan (horace-bennett-loeb-odes), found 2026-10-03",
   "Christopher Smart's prose Horace (1756)": "PD; the only scans (IA bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1/_2) are ECCO OCR at 0.74-0.76 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review. Smart's text is held in Buckley's 1869 revision; wanted only from a cleaner scan",
-  "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans found read at 0.61-0.64 clean words. Refused for OCR quality on 2026-10-02; wanted only from a cleaner scan",
+  "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans of the eighteenth-century printings read at 0.61-0.64 clean words and were refused on 2026-10-02. Now held from a cleaner later printing: horace-francis-1825-v1/-v2 (New York: Solomon King, 1825, 2 vols., OCR 0.86-0.88)",
   "E. C. Wickham, Horace for English Readers (prose, 1903)": "the scan (horaceforenglis00wickgoog) lacks its title page in the OCR, so the translator and date cannot be read from the file; wanted from another scan"
  },
  "_surname": [
@@ -122,7 +132,9 @@
   "horace-martin-works-1881-v2": "Theodore Martin",
   "horace-pierce-odes-1884": "Henry Hubbard Pierce",
   "horace-mathews-odes-1867": "Charles Stephens Mathews",
-  "horace-cudworth-odes-1917": "Warren H. Cudworth"
+  "horace-cudworth-odes-1917": "Warren H. Cudworth",
+  "horace-francis-1825-v1": "Francis",
+  "horace-francis-1825-v2": "Francis"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -326,6 +338,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1917",
    "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-francis-1825-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "odes of horace",
+   "translator_claimed": "Francis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-francis-1825-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "works of horace",
+   "translator_claimed": "Francis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
