@@ -134,9 +134,11 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Robert Fleming, The Fulfilling of the Scripture (Charlestown, 1806, from Foxcroft's 1743 text) | have-raw | `robert-fleming_shelf.json` |
 | Free Church Committee: Memoirs of Veitch, Hog, Henry Erskine and Carstairs (1846); Lives of Henderson and James Guthrie (1846) | have-raw | `free-church-committee_shelf.json` |
 | Patrick Walker, Six Saints of the Covenant, ed. D. Hay Fleming (2 vols, 1901) | have-raw | `patrick-walker_shelf.json` |
+| Patrick Walker, Biographia Presbyteriana (2 vols, 1827; vol. 2 adds Shields's Life of Renwick) | have-raw | `patrick-walker_shelf.json` |
 | Hetherington, History of the Church of Scotland to 1843 (New York, 1856) | have-raw | `hetherington_shelf.json` |
 | John Cunningham, The Church History of Scotland, 2nd ed. (2 vols, 1882) | have-raw | `john-cunningham_shelf.json`; not lane A's William Cunningham |
 | D. Hay Fleming, The Reformation in Scotland (Stone Lectures, 1910) | have-raw | `hay-fleming_shelf.json` |
+| D. Hay Fleming, The Story of the Scottish Covenants in Outline (1904) | have | `hay-fleming_shelf.json`, Gutenberg transcription |
 | Wodrow's Analecta (Maitland Club, 4 vols, 1842-43) | have-raw | `robert-wodrow_shelf.json` |
 | Wodrow's Collections upon the Lives of the Reformers (Maitland Club, 2 vols, 1834-45) | have-raw | `robert-wodrow_shelf.json`; National Library of Scotland scans, CC BY-NC-SA on the digital copy (noted, not ruled on) |
 | Kirkton's Life of John Welsh | pending | not yet searched |
