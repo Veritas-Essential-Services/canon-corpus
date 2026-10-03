@@ -75,6 +75,11 @@
    "cu31924026593446",
    "The Ajax of Sophocles (George Allen and Unwin, first published 1919)",
    "tr. R. C. Trevelyan"
+  ],
+  "sophocles-plaistowe-philoctetes": [
+   "sophoclesphiloct00soph",
+   "Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892])",
+   "tr. F. G. Plaistowe"
   ]
  },
  "_cross_ref": {
@@ -107,7 +112,8 @@
   "sophocles-dale-1824-v1": "Thomas Dale",
   "sophocles-dale-1824-v2": "Thomas Dale",
   "sophocles-sheppard-oedipus-tyrannus-1922": "Sheppard",
-  "sophocles-trevelyan-ajax-1919": "Trevelyan"
+  "sophocles-trevelyan-ajax-1919": "Trevelyan",
+  "sophocles-plaistowe-philoctetes": "Plaistowe"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -272,6 +278,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1919",
    "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-plaistowe-philoctetes": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Plaistowe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

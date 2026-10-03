@@ -427,6 +427,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v2` | have-raw (IA `tragediesofsopho02soph`) |
 | The Oedipus Tyrannus of Sophocles (1922) | J. T. Sheppard | `sophocles-sheppard-oedipus-tyrannus-1922` | have-raw (IA `oedipustyr00soph`) |
 | The Ajax of Sophocles (George Allen and Unwin, first published 1919) | R. C. Trevelyan | `sophocles-trevelyan-ajax-1919` | have-raw (IA `cu31924026593446`) |
+| Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892]) | F. G. Plaistowe | `sophocles-plaistowe-philoctetes` | have-raw (IA `sophoclesphiloct00soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
