@@ -1237,6 +1237,74 @@
       "started": "2026-10-02T21:55:11-05:00",
       "finished": "2026-10-02T22:01:25-05:00",
       "notes": "1/1 fetched (Gutenberg 44536), 773 units, 0 ~2 ids."
+    },
+    {
+      "id": "jones-kropf",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: jones-kropf; no minting",
+      "status": "done",
+      "started": "2026-10-02T22:16:11-05:00",
+      "finished": "2026-10-02T22:16:39-05:00",
+      "notes": "1/1 fetched (Gutenberg 42981), 3,152 units, 0 ~2 ids."
+    },
+    {
+      "id": "emerson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: emerson; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "thrum",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: thrum; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "sellers",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: sellers; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "grierson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: grierson; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "angus-hall",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: angus-hall; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "oconnor",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: oconnor; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "russell",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: russell; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "jameson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: jameson; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "griffis-b21",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: griffis-b21; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
+    },
+    {
+      "id": "ralston-tibetan",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales and saints' legends: ralston-tibetan; no minting",
+      "status": "running",
+      "started": "2026-10-02T22:16:11-05:00"
     }
   ]
 }

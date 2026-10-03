@@ -6018,6 +6018,14 @@ Shelf: `pipeline/wardrop_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | Georgian Folk Tales | have | PG 44536, `wardrop-georgian-folk-tales` (773 units) |
 
+## W. Henry Jones and Lewis L. Kropf, trs.
+
+Shelf: `pipeline/jones-kropf_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hungarian tales from Kriza, Erdélyi, Pap and others, with the translators' long introduction and comparative notes; cut introduction > section, tales and notes > tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Folk-Tales of the Magyars | have | PG 42981, `jones-kropf-folk-tales-of-the-magyars` (3152 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
