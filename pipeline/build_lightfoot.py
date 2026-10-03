@@ -148,13 +148,31 @@ RIGHTS = {
     "license": "public-domain",
     "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's "
             "head also carries the comment 'Copyright Christian Classics Ethereal Library', "
-            "its claim on the prepared file; no non-commercial condition is stated in the file",
+            "its claim on the prepared file; no non-commercial condition is stated in the file. "
+            "printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which "
+            "does not change its public-domain status",
     "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), "
                    "from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, "
                    "The Apostolic Fathers (London: Macmillan, 1891)",
     "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
     "redistribute_whole": False,
+    # CCEL's site-wide policy covers this file as it covers Schaff's (build_schaff.RIGHTS,
+    # where it was read): the file itself states no such term, the site does.
+    "commercial": "ask CCEL",
+    "ccel_policy": {
+        "url": "https://www.ccel.org/about/copyright.html",
+        "read": "2026-10-02",
+        "text": "Most of the editions at the Christian Classics Ethereal library are based on "
+                "books that are public domain in the United States. However, they may have "
+                "copyrighted introductions, cover art, and other special contents. [...] These "
+                "books may be used for personal, educational, or non-profit purposes. Contact us "
+                "for permission to republish CCEL works or to use them commercially.",
+    },
 }
+# The edition the file says it transcribes. Baker also publishes M. W. Holmes's
+# revision of Lightfoot-Harmer (1989/1992, in copyright), so the build stops
+# unless the file still names the 1956 reprint of the 1891 text.
+PRINT_SOURCE = "Baker Book House, 1956"
 
 
 def clean(s):
@@ -221,6 +239,10 @@ def read():
     rights = root.find(".//DC.Rights")
     if rights is None or clean(rights.text or "") != "Public Domain":
         raise SystemExit("HARD STOP: the file's DC.Rights is no longer 'Public Domain'; re-read it")
+    ps = root.find(".//printSourceInfo")
+    if ps is None or clean("".join(ps.itertext())) != PRINT_SOURCE:
+        raise SystemExit(f"HARD STOP: printSourceInfo is no longer {PRINT_SOURCE!r} "
+                         "(Holmes's copyrighted revision is also Baker's); re-read the file")
     divs = list(root.find("ThML.body").iter("div2"))
     if len(divs) != len(DIVS):
         raise SystemExit(f"HARD STOP: {len(divs)} works in the file, {len(DIVS)} expected")
@@ -521,8 +543,8 @@ def book_of(eslug, slug, b, lake_book, cal, pen, hermas_how, tests):
         "source": {"path": os.path.relpath(SRC, os.path.join(ROOT, "data", "corpus")),
                    "format": "thml", "lang": "en",
                    "edition": "J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers "
-                              "(London: Macmillan, 1891), as reprinted by Baker Book House "
-                              "(1956) and prepared by CCEL (2012)",
+                              "(London: Macmillan, 1891), as reprinted by " + PRINT_SOURCE.replace(", ", " (")
+                              + ") and prepared by CCEL (2012)",
                    "sha256": FS.LIGHTFOOT["sha256"]},
         "scheme": {"citation": f"Lake's citation ({lake_book['scheme']['citation']}), "
                                "naming the Greek the English unit translates",
@@ -538,8 +560,13 @@ def book_of(eslug, slug, b, lake_book, cal, pen, hermas_how, tests):
                                "name_test measure it), but a section boundary in a translation "
                                "is approximate: a clause may sit on the other side. "
                                f"{by_align['range']} are reached only in a run of sections and "
-                               f"{by_align['chapter']} only by chapter. The English is CCEL's "
-                               "transcription, not proofread here."),
+                               f"{by_align['chapter']} only by chapter. A unit over a run has a "
+                               "range id (5.5-6): find one section through the unit's links, "
+                               "not its id, and the ranges are the aligner's, so a change to "
+                               "it can move them. The Latin-only chapters (Pol. Phil. 10-14, "
+                               "Herm. Sim. 9.30-10.4) are placed with the Greek's length "
+                               "ratio, so their boundaries are the least sure. The English is "
+                               "CCEL's transcription, not proofread here."),
                    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks "
                            "(prayers) keep their lines."},
         "rights": dict(RIGHTS),

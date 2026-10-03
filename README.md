@@ -131,10 +131,13 @@ and links to it. Chapters match by rule; inside a chapter CCEL's paragraphs
 are placed on Lake's sections by their lengths, and a boundary is drawn only
 where every near-best alignment agrees. Of Lake's 1,941 sections, 1,819 have
 an English unit of their own, 114 are reached in a run of two or three, and 8
-(four Ignatius chapters) only by chapter. Measured: 99.1% of the one-to-one
-pairs have the work's own length ratio (49.6% when shifted by one), and 97.7%
-of the proper names in the English are in the linked Greek (15.2% in the next
-unit's). Papias is not in CCEL's file. Built locally;
+(four Ignatius chapters) only by chapter. Measured: 97.7% of the proper names
+in the English are in the linked Greek, against 15.2% in the next unit's, which
+is the evidence the alignment is right. A length check agrees (99.1% of the
+one-to-one pairs keep the work's own length ratio, 49.6% when shifted by one),
+but it is weaker: the ratio is the median of those same pairs, over chapters
+whose counts already agree. Range ids (`5.5-6`) are the aligner's; find a
+single section through a unit's links. Papias is not in CCEL's file. Built locally;
 manifest entries committed. `python3 pipeline/build_lightfoot.py --fetch`.
 
 ## Charles's Apocrypha and Pseudepigrapha (1913, read from the scans)

@@ -66,6 +66,8 @@ check("rights: PD, the file's own lines recorded (DC.Rights, CCEL's copyright co
           and "Public Domain" in e["rights"]["note"]
           and "Copyright Christian Classics Ethereal Library" in e["rights"]["note"]
           and "no non-commercial condition" in e["rights"]["note"]
+          and e["rights"].get("commercial") == "ask CCEL"
+          and "non-profit" in e["rights"]["ccel_policy"]["text"]
           and e["rights"]["source_url"] == FS.LIGHTFOOT["url"] for e in ents.values()))
 check("every entry names the pinned file (sha256 = fetch_sources.LIGHTFOOT)",
       all(e.get("sha256") == FS.LIGHTFOOT["sha256"] for e in ents.values()))

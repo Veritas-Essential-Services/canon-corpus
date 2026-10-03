@@ -4578,15 +4578,21 @@
   "scheme": {
    "citation": "Lake's citation (1 Clem. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 359 of the 400 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 41 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 359 of the 400 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 41 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "1clement-lake",
@@ -4633,7 +4639,7 @@
    "length_log_spread": 0.113,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "41bb9fe6936a0968f4238b35c103355f159007853d498c842f835f90b6f1be86"
+  "built_sha256": "af90eb46a05a44c9cfa1817120cc37a385fe4b7572b1bf2b3bc3eca3b18c6bfd"
  },
  "2clement-lightfoot": {
   "title": "Second Epistle of Clement (an ancient homily) (English)",
@@ -4644,15 +4650,21 @@
   "scheme": {
    "citation": "Lake's citation (2 Clem. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 111 of the 118 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 7 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 111 of the 118 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 7 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "2clement-lake",
@@ -4692,7 +4704,7 @@
    "length_log_spread": 0.134,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "068cce259cb15ed75b0845b829e47517f4e6b7cf64ec0bff7cfc85e7154fd64c"
+  "built_sha256": "d3148e3d3697b265adb6e964470dab7eafe2aa7a0a28ef3939102cb429e93158"
  },
  "ignatius-lightfoot": {
   "title": "The Seven Letters of Ignatius (middle recension) (English)",
@@ -4703,15 +4715,21 @@
   "scheme": {
    "citation": "Lake's citation (Ign. letter chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 191 of the 205 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 6 are reached only in a run of sections and 8 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 191 of the 205 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 6 are reached only in a run of sections and 8 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "ignatius-lake",
@@ -4762,7 +4780,7 @@
    "length_log_spread": 0.101,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "34004c21c71f5156c49c086df4173fc69f49ba154bce9144506129932df190b0"
+  "built_sha256": "14be412e47fb2b4c5f59a8835546882e4214c625ff2f370a450dc978a203052c"
  },
  "polycarp-phil-lightfoot": {
   "title": "Epistle of Polycarp to the Philippians (English)",
@@ -4773,15 +4791,21 @@
   "scheme": {
    "citation": "Lake's citation (Pol. Phil. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 38 of the 38 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 0 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 38 of the 38 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 0 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "polycarp-phil-lake",
@@ -4821,7 +4845,7 @@
    "length_log_spread": 0.105,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "4703a04d0b7f408dde470aa497037d5166fade41cefcdf3f5b1861e4093357cb"
+  "built_sha256": "98e7dc3b0c1f6c88c11358c2e0e566a46fb07b71675c3ac82b4034a9917c0311"
  },
  "martyrdom-polycarp-lightfoot": {
   "title": "The Martyrdom of Polycarp (English)",
@@ -4832,15 +4856,21 @@
   "scheme": {
    "citation": "Lake's citation (Mart. Pol. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 54 of the 59 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 5 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 54 of the 59 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 5 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "martyrdom-polycarp-lake",
@@ -4884,7 +4914,7 @@
    "length_log_spread": 0.092,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "16d7de2f2a0ceefc3a141d255256530b1db64353e0fe89252c99bef5151ea612"
+  "built_sha256": "709c817390dd765f04b56bcbd76db70ec7cd599e5ac3764dff3ce1bcaff691d3"
  },
  "didache-lightfoot": {
   "title": "The Didache (Teaching of the Twelve Apostles) (English)",
@@ -4895,15 +4925,21 @@
   "scheme": {
    "citation": "Lake's citation (Did. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 100 of the 100 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 0 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 100 of the 100 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 0 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "didache-lake",
@@ -4946,7 +4982,7 @@
    "length_log_spread": 0.162,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "775f81eb42cedd8f757cd2e12e45e3f02126f41802417d6a2ba2f4068da84316"
+  "built_sha256": "b58558ae2472e4f38340de7c3f961c22108991b29cbb5c254b859f359ef992cf"
  },
  "barnabas-lightfoot": {
   "title": "The Epistle of Barnabas (English)",
@@ -4957,15 +4993,21 @@
   "scheme": {
    "citation": "Lake's citation (Barn. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 188 of the 194 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 6 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 188 of the 194 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 6 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "barnabas-lake",
@@ -5008,7 +5050,7 @@
    "length_log_spread": 0.11,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "43d2d985522ed51e5530a5636645980a3e89b8bf6823c0d8a5e1c1dabaa26506"
+  "built_sha256": "bec7120985e4c700dc2afeb17ec90f5ae9c399eb4a75110f9157d0c06699bbcb"
  },
  "hermas-lightfoot": {
   "title": "The Shepherd of Hermas (English)",
@@ -5019,15 +5061,21 @@
   "scheme": {
    "citation": "Lake's citation (Herm. Vis./Mand./Sim. book.chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule; inside a Hermas part, Lake's chapter starts where Lightfoot's indents corroborate them, else the indents where they are as many as Lake's chapters. 684 of the 727 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 43 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule; inside a Hermas part, Lake's chapter starts where Lightfoot's indents corroborate them, else the indents where they are as many as Lake's chapters. 684 of the 727 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 43 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "hermas-lake",
@@ -5100,7 +5148,7 @@
     "Sim.10": "lake-starts-on-indents"
    }
   },
-  "built_sha256": "e7689306de13a413754ca130db7b54b5874bdd1a1c7e1d2ba0edd85049c98eb3"
+  "built_sha256": "3a6fcaf25d3a895cdc9066b010122f9c890684b06576634cd5186c0339baaced"
  },
  "diognetus-lightfoot": {
   "title": "The Epistle to Diognetus (English)",
@@ -5111,15 +5159,21 @@
   "scheme": {
    "citation": "Lake's citation (Diogn. chapter.section), naming the Greek the English unit translates",
    "resolution": "section where the lengths show it; else a run of sections; else the chapter",
-   "honesty": "Lightfoot's chapters are Lake's by rule. 94 of the 100 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 6 are reached only in a run of sections and 0 only by chapter. The English is CCEL's transcription, not proofread here.",
+   "honesty": "Lightfoot's chapters are Lake's by rule. 94 of the 100 Greek sections have an English unit of their own, placed by length (every near-best alignment agreeing; alignment.length_test and name_test measure it), but a section boundary in a translation is approximate: a clause may sit on the other side. 6 are reached only in a run of sections and 0 only by chapter. A unit over a run has a range id (5.5-6): find one section through the unit's links, not its id, and the ranges are the aligner's, so a change to it can move them. The Latin-only chapters (Pol. Phil. 10-14, Herm. Sim. 9.30-10.4) are placed with the Greek's length ratio, so their boundaries are the least sure. The English is CCEL's transcription, not proofread here.",
    "note": "Lightfoot's footnotes are in lex.notes, not `text`; verse blocks (prayers) keep their lines."
   },
   "rights": {
    "license": "public-domain",
-   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file",
+   "note": "Lightfoot & Harmer, 1891; the file's DC.Rights reads 'Public Domain'. CCEL's head also carries the comment 'Copyright Christian Classics Ethereal Library', its claim on the prepared file; no non-commercial condition is stated in the file. printSourceInfo: 'Baker Book House, 1956', a reissue of the 1891 text, which does not change its public-domain status",
    "attribution": "Christian Classics Ethereal Library (ccel.org/ccel/lightfoot/fathers), from the Baker Book House reprint (1956) of J. B. Lightfoot and J. R. Harmer, The Apostolic Fathers (London: Macmillan, 1891)",
    "source_url": "https://www.ccel.org/ccel/lightfoot/fathers.xml",
-   "redistribute_whole": false
+   "redistribute_whole": false,
+   "commercial": "ask CCEL",
+   "ccel_policy": {
+    "url": "https://www.ccel.org/about/copyright.html",
+    "read": "2026-10-02",
+    "text": "Most of the editions at the Christian Classics Ethereal library are based on books that are public domain in the United States. However, they may have copyrighted introductions, cover art, and other special contents. [...] These books may be used for personal, educational, or non-profit purposes. Contact us for permission to republish CCEL works or to use them commercially."
+   }
   },
   "alignment": {
    "counterpart": "diognetus-lake",
@@ -5159,7 +5213,7 @@
    "length_log_spread": 0.135,
    "method": "beads 1:1 1:2 2:1 1:3 3:1 2:2; penalty 11.82 (-2 ln of the prior: 26 non-1:1 beads forced in 1941 sections, all works); margin 4.0; ratio and spread from this work's count-agreeing chapters"
   },
-  "built_sha256": "0e8daf05b89e07d3bba53313a2f9ea6f87312318433868295efa81e782ea6c67"
+  "built_sha256": "93974d52a51da1e532dc0e898bb3bd170d42fb43e2b69704ade8fa48d15d7aff"
  },
  "charles-1esd": {
   "title": "I Esdras",
