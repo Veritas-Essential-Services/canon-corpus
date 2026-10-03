@@ -59,6 +59,11 @@
    "terence00iijohn",
    "Terence, vol. 2 (Loeb, 1912)",
    "tr. John Sargeaunt"
+  ],
+  "terence-echard-1733": [
+   "terencescomedie00teregoog",
+   "Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII)",
+   "tr. Laurence Echard"
   ]
  },
  "_excluded": {
@@ -207,6 +212,17 @@
    "ia_date": "1912",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "terence-echard-1733": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_rights_checked": {},
@@ -248,6 +264,13 @@
   "terence-sargeaunt-v2": [
    "terence",
    "terentius"
+  ],
+  "terence-echard-1733": [
+   "terence",
+   "terentius"
   ]
+ },
+ "_translator_unchecked": {
+  "terence-echard-1733": "title page reads 'made English by Mr. Laurence Echard, revised and corrected by Dr. Echard and Sir R. L'Estrange' (eighth edition, MDCCXXXIII); the OCR prints the surname 'EC HARD' and 'Eehard'"
  }
 }

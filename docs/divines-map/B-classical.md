@@ -1119,6 +1119,7 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924) | Paul Nixon | `plautus-nixon-v3` | held: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain; not fetched (see `_held`) |
 | Terence, vol. 1 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v1` | have-raw (IA `terence000ijohn`) |
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
+| Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
 
 Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
 
