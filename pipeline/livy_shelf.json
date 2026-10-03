@@ -80,5 +80,179 @@
  },
  "_rights_checked": {
   "livy-baker-1823": "Title page read: New York, Peter A. Mesier and others, J. Maxwell, printer, 1823; the IA record carries no date. Baker's translation first appeared in 1797."
+ },
+ "_surname": [
+  "livy",
+  "livius"
+ ],
+ "_translators": {
+  "livy-bohn-1-8": "spillan",
+  "livy-bohn-9-26": "spillan",
+  "livy-bohn-27-36": "edmonds",
+  "livy-bohn-37-end": "mcdevitte",
+  "livy-church-brodribb-1-3": "church",
+  "livy-foster-v1": "foster",
+  "livy-foster-v4": "foster",
+  "livy-foster-v5": "foster",
+  "livy-foster-v3": "foster",
+  "livy-holland": "holland",
+  "livy-baker-1823": "baker",
+  "livy-perseus-roberts-the-history-of-rome": "roberts"
+ },
+ "_checks": {
+  "livy-bohn-1-8": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "spillan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "D. Spillan",
+   "translator_match": true
+  },
+  "livy-bohn-9-26": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "spillan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cyrus R. Edmonds; D. Spillan",
+   "translator_match": true
+  },
+  "livy-bohn-27-36": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cyrus R. Edmonds",
+   "translator_match": true
+  },
+  "livy-bohn-37-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "mcdevitte",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. A. McDevitte",
+   "translator_match": true
+  },
+  "livy-church-brodribb-1-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Jackson Brodribb; Alfred John Church; John Henry Freese",
+   "translator_match": true
+  },
+  "livy-foster-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livy-foster-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "livy-foster-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livy-foster-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livy-holland": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "holland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "livy-baker-1823": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "baker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: New York, Peter A. Mesier and others, J. Maxwell, printer, 1823; the IA record carries no date. Baker's translation first appeared in 1797."
+  }
+ },
+ "_perseus_checks": {
+  "livy-perseus-roberts-the-history-of-rome": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0914.phi001.perseus-eng3",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "roberts",
+   "author_seen": "livy",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

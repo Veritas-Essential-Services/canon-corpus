@@ -23,5 +23,40 @@
  "_excluded": {
   "historicallibra00diodgoog, historicallibra01diodgoog": "a second scan of the same 1814 edition",
   "Oldfather, Loeb (1933-)": "not PD"
+ },
+ "_surname": [
+  "diodorus"
+ ],
+ "_translators": {
+  "diodorus-booth-v1": "booth",
+  "diodorus-booth-v2": "booth"
+ },
+ "_checks": {
+  "diodorus-booth-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diodorus",
+   "translator_claimed": "booth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "diodorus-booth-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diodorus",
+   "translator_claimed": "booth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -33,5 +33,55 @@
   "Edmonds, The Greek Bucolic Poets (Loeb, 1912)": "US PD by date but Greek facing; pending",
   "idyllstheocritus00theoiala": "same Banks edition, lower OCR (0.827 vs 0.858)",
   "idyllsoftheocrit00theorich": "1878 Banks reprint; empty text layer"
+ },
+ "_surname": [
+  "theocritus",
+  "bion",
+  "moschus"
+ ],
+ "_translators": {
+  "theocritus-calverley": "calverley",
+  "theocritus-bion-moschus-banks": "banks",
+  "theocritus-fawkes-1767": "fawkes"
+ },
+ "_checks": {
+  "theocritus-calverley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theocritus",
+   "translator_claimed": "calverley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Stuart Calverley",
+   "translator_match": true
+  },
+  "theocritus-bion-moschus-banks": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theocritus",
+   "translator_claimed": "banks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "theocritus-fawkes-1767": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theocritus",
+   "translator_claimed": "fawkes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

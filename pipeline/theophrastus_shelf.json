@@ -23,5 +23,39 @@
   "theophrastoucha01jebbgoog": "same 1870 edition; text layer unreadable (clean-word 0.00)",
   "cu31924026602171": "Sandys's 1909 revision of Jebb; lower OCR; not taken",
   "Hort, Enquiry into Plants (Loeb, 1916)": "Greek facing; pending"
+ },
+ "_surname": [
+  "theophrastus"
+ ],
+ "_translators": {
+  "theophrastus-bennett-hammond": "bennett",
+  "theophrastus-jebb": "jebb"
+ },
+ "_checks": {
+  "theophrastus-bennett-hammond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "bennett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles E. Bennett; William A. Hammond",
+   "translator_match": true
+  },
+  "theophrastus-jebb": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

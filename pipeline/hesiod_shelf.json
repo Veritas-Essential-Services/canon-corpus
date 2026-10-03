@@ -33,5 +33,69 @@
  "_excluded": {
   "pg66350": "The Remains of Hesiod the Ascraean (Elton, with Chapman's Works and Days): PD, other translators. Pending as an alternate verse witness",
   "Loeb 1914 scans on Internet Archive": "same translation with the Greek facing; Gutenberg's clean English preferred"
+ },
+ "_surname": [
+  "hesiod"
+ ],
+ "_translators": {
+  "hesiod-evelyn-white": "evelyn-white",
+  "hesiod-elton": "elton",
+  "hesiod-cooke-1728-v1": "cooke",
+  "hesiod-cooke-1728-v2": "cooke"
+ },
+ "_checks": {
+  "hesiod-evelyn-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "evelyn-white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hugh G. Evelyn-White",
+   "translator_match": true
+  },
+  "hesiod-elton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "elton",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": "George Chapman; Sir Charles Abraham Elton",
+   "translator_match": true
+  },
+  "hesiod-cooke-1728-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "cooke",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hesiod-cooke-1728-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "cooke",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

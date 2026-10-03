@@ -28,5 +28,64 @@
    "tr. Thomas Taylor"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "proclus"
+ ],
+ "_translators": {
+  "proclus-taylor-euclid-v1": "taylor",
+  "proclus-taylor-euclid-v2": "taylor",
+  "proclus-taylor-theology-v1": "taylor",
+  "proclus-taylor-theology-v2": "taylor"
+ },
+ "_checks": {
+  "proclus-taylor-euclid-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "proclus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  },
+  "proclus-taylor-euclid-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "proclus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  },
+  "proclus-taylor-theology-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "proclus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  },
+  "proclus-taylor-theology-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "proclus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  }
+ }
 }

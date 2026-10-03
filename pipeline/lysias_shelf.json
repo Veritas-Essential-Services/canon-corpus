@@ -221,5 +221,502 @@
    "W.R.M. Lamb",
    "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
   ]
+ },
+ "_surname": [
+  "lysias"
+ ],
+ "_translators": {
+  "lysias-perseus-lamb-accusation-of-calumny": "lamb",
+  "lysias-perseus-lamb-against-agoratus": "lamb",
+  "lysias-perseus-lamb-against-alcibiades-1": "lamb",
+  "lysias-perseus-lamb-against-alcibiades-2": "lamb",
+  "lysias-perseus-lamb-against-andocides": "lamb",
+  "lysias-perseus-lamb-against-diogeiton": "lamb",
+  "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": "lamb",
+  "lysias-perseus-lamb-against-eratosthenes": "lamb",
+  "lysias-perseus-lamb-against-ergocles": "lamb",
+  "lysias-perseus-lamb-against-nicomachus": "lamb",
+  "lysias-perseus-lamb-against-pancleon": "lamb",
+  "lysias-perseus-lamb-against-philocrates": "lamb",
+  "lysias-perseus-lamb-against-philon": "lamb",
+  "lysias-perseus-lamb-against-simon": "lamb",
+  "lysias-perseus-lamb-against-the-corn-dealers": "lamb",
+  "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": "lamb",
+  "lysias-perseus-lamb-against-theomnestus-1": "lamb",
+  "lysias-perseus-lamb-against-theomnestus-2": "lamb",
+  "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": "lamb",
+  "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": "lamb",
+  "lysias-perseus-lamb-for-callias": "lamb",
+  "lysias-perseus-lamb-for-polystratus": "lamb",
+  "lysias-perseus-lamb-for-the-soldier": "lamb",
+  "lysias-perseus-lamb-funeral-oration": "lamb",
+  "lysias-perseus-lamb-in-defense-of-mantitheus": "lamb",
+  "lysias-perseus-lamb-olympic-oration": "lamb",
+  "lysias-perseus-lamb-on-a-wound-by-premeditation": "lamb",
+  "lysias-perseus-lamb-on-the-property-of-eraton": "lamb",
+  "lysias-perseus-lamb-on-the-refusal-of-a-pension": "lamb",
+  "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": "lamb",
+  "lysias-perseus-lamb-on-the-murder-of-eratosthenes": "lamb",
+  "lysias-perseus-lamb-on-the-olive-stump": "lamb",
+  "lysias-perseus-lamb-on-the-property-of-aristophanes": "lamb",
+  "lysias-perseus-lamb-on-the-scrutiny-of-evandros": "lamb"
+ },
+ "_translator_unchecked": {
+  "lysias-literal-orations": "no single translator to check: unnamed ('Handy Literal Translations')"
+ },
+ "_checks": {
+  "lysias-literal-orations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lysias",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_perseus_checks": {
+  "lysias-perseus-lamb-accusation-of-calumny": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-agoratus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-alcibiades-1": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-alcibiades-2": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg015.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-andocides": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg006.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-diogeiton": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg032.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg027.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-eratosthenes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-ergocles": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg028.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-nicomachus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg030.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-pancleon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg023.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-philocrates": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg029.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-philon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg031.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-simon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-the-corn-dealers": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg022.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg034.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-theomnestus-1": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-against-theomnestus-2": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg021.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg025.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-for-callias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-for-polystratus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg020.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-for-the-soldier": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-funeral-oration": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-in-defense-of-mantitheus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg016.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-olympic-oration": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg033.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-a-wound-by-premeditation": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-property-of-eraton": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg017.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-refusal-of-a-pension": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg024.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg018.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-murder-of-eratosthenes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-olive-stump": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-property-of-aristophanes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg019.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "lysias-perseus-lamb-on-the-scrutiny-of-evandros": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg026.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

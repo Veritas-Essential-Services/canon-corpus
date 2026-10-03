@@ -13,5 +13,28 @@
    "Polyaenus's Stratagems of War, translated from the original Greek (London: George Nicol, 1793)",
    "tr. R. Shepherd"
   ]
+ },
+ "_surname": [
+  "polyaenus",
+  "polyænus",
+  "polyanus"
+ ],
+ "_translators": {
+  "polyaenus-shepherd-1793": "shepherd"
+ },
+ "_checks": {
+  "polyaenus-shepherd-1793": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polyænus",
+   "translator_claimed": "shepherd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

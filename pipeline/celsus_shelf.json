@@ -12,5 +12,25 @@
    "tr. James Greive"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "celsus"
+ ],
+ "_translators": {
+  "celsus-greive": "greive"
+ },
+ "_checks": {
+  "celsus-greive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "celsus",
+   "translator_claimed": "greive",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Greive",
+   "translator_match": true
+  }
+ }
 }

@@ -68,5 +68,150 @@
    "Robert Browning",
    "Translation published 1889: US public domain (in or before 1930). Perseus source line: Aeschylus. The poetical works of Robert Browning, Volume 13. Browning, Robert, translator; Berdoe, Edward, editor. London: Smith, Elder and Co., 1889."
   ]
+ },
+ "_surname": [
+  "aeschylus",
+  "æschylus",
+  "aeschylos",
+  "eschylus"
+ ],
+ "_translators": {
+  "aeschylus-plumptre": "plumptre",
+  "aeschylus-blackie": "blackie",
+  "aeschylus-morshead-atreus": "morshead",
+  "aeschylus-morshead-four": "morshead",
+  "aeschylus-buckley-prometheus-seven": "buckley",
+  "aeschylus-murray-agamemnon": "murray",
+  "aeschylus-sophocles-goldwin-smith-specimens": "smith",
+  "aeschylus-potter-greek-tragic-theatre": "potter",
+  "aeschylus-swanwick": "swanwick",
+  "aeschylus-perseus-browning-agamemnon": "browning"
+ },
+ "_checks": {
+  "aeschylus-plumptre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "plumptre",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. H. Plumptre",
+   "translator_match": true
+  },
+  "aeschylus-blackie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "blackie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Stuart Blackie",
+   "translator_match": true
+  },
+  "aeschylus-morshead-atreus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "morshead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. D. A. Morshead",
+   "translator_match": true
+  },
+  "aeschylus-morshead-four": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "morshead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. D. A. Morshead",
+   "translator_match": true
+  },
+  "aeschylus-buckley-prometheus-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "buckley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodore Alois Buckley",
+   "translator_match": true
+  },
+  "aeschylus-murray-agamemnon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "murray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Murray",
+   "translator_match": true
+  },
+  "aeschylus-sophocles-goldwin-smith-specimens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Goldwin Smith",
+   "translator_match": true
+  },
+  "aeschylus-potter-greek-tragic-theatre": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "eschylus",
+   "translator_claimed": "potter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-swanwick": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "swanwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "aeschylus-perseus-browning-agamemnon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg005.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "browning",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1889
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

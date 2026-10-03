@@ -24,5 +24,52 @@
    "tr. Charles Duke Yonge"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "athenaeus",
+  "athenæus"
+ ],
+ "_translators": {
+  "athenaeus-yonge-v1": "yonge",
+  "athenaeus-yonge-v2": "yonge",
+  "athenaeus-yonge-v3": "yonge"
+ },
+ "_checks": {
+  "athenaeus-yonge-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "athenaeus-yonge-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "athenaeus-yonge-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "athenaeus",
+   "translator_claimed": "yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  }
+ }
 }

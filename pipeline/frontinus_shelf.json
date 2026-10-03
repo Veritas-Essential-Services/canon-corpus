@@ -13,5 +13,26 @@
    "Frontinus: The Stratagems and The Aqueducts of Rome (Loeb, 1925)",
    "tr. Charles E. Bennett"
   ]
+ },
+ "_surname": [
+  "frontinus"
+ ],
+ "_translators": {
+  "frontinus-bennett": "bennett"
+ },
+ "_checks": {
+  "frontinus-bennett": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frontinus",
+   "translator_claimed": "bennett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

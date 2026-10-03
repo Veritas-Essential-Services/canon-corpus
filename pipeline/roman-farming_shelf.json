@@ -28,5 +28,55 @@
  },
  "_rights_checked": {
   "columella-1745": "Printed 1745; public domain by date. Translator unnamed in the edition."
+ },
+ "_surname": [
+  "cato",
+  "varro",
+  "columella",
+  "palladius"
+ ],
+ "_translators": {
+  "cato-varro-harrison": "harrison"
+ },
+ "_translator_unchecked": {
+  "columella-1745": "no single translator to check: unnamed (not on the title page)",
+  "palladius-husbondrie-1873": "no single translator to check: anonymous Middle English verse translator (c. 1420)"
+ },
+ "_checks": {
+  "cato-varro-harrison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cato",
+   "translator_claimed": "harrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fairfax Harrison",
+   "translator_match": true
+  },
+  "columella-1745": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cato",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Printed 1745; public domain by date. Translator unnamed in the edition."
+  },
+  "palladius-husbondrie-1873": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cato",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

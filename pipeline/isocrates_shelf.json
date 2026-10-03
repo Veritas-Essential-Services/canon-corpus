@@ -15,5 +15,26 @@
  },
  "_excluded": {
   "George Norlin and La Rue Van Hook, Loeb (1928-45)": "vols. 1-2 (1928-29) US PD by date, Greek facing; on Perseus; pending"
+ },
+ "_surname": [
+  "isocrates"
+ ],
+ "_translators": {
+  "isocrates-freese-v1": "freese"
+ },
+ "_checks": {
+  "isocrates-freese-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isocrates",
+   "translator_claimed": "freese",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

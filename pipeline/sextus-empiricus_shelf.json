@@ -13,5 +13,25 @@
    "Mary Mills Patrick (study, with tr. of Pyrrhonic Sketches I)"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "sextus",
+  "empiricus"
+ ],
+ "_translators": {
+  "sextus-empiricus-patrick": "patrick"
+ },
+ "_checks": {
+  "sextus-empiricus-patrick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sextus",
+   "translator_claimed": "patrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

@@ -12,5 +12,26 @@
    "tr. John Baron Moyle"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "justinian",
+  "justinianus"
+ ],
+ "_translators": {
+  "justinian-institutes-moyle": "moyle"
+ },
+ "_checks": {
+  "justinian-institutes-moyle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justinian",
+   "translator_claimed": "moyle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Baron Moyle",
+   "translator_match": true
+  }
+ }
 }

@@ -30,5 +30,55 @@
   "dryden-juvenal": "Dryden shelf, lane C",
   "dryden-persius": "Dryden shelf, lane C"
  },
- "_excluded": {}
+ "_excluded": {},
+ "_surname": [
+  "juvenal",
+  "juvenalis",
+  "persius"
+ ],
+ "_translators": {
+  "juvenal-persius-evans-gifford": "evans",
+  "juvenal-persius-ramsay": "ramsay",
+  "persius-conington-1874": "conington"
+ },
+ "_checks": {
+  "juvenal-persius-evans-gifford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "evans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lewis Evans",
+   "translator_match": true
+  },
+  "juvenal-persius-ramsay": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "ramsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "persius-conington-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "conington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
 }

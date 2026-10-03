@@ -37,5 +37,80 @@
  },
  "_excluded": {
   "H. E. Butler, Metamorphoses (1910)": "PD; pending (IA)"
+ },
+ "_surname": [
+  "apuleius"
+ ],
+ "_translators": {
+  "apuleius-adlington-golden-asse": "adlington",
+  "apuleius-butler-apologia-florida": "butler",
+  "apuleius-adlington-gaselee": "adlington",
+  "apuleius-butler-v1": "butler",
+  "apuleius-butler-v2": "butler"
+ },
+ "_checks": {
+  "apuleius-adlington-golden-asse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "translator_claimed": "adlington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1566 William Adlington",
+   "translator_match": true
+  },
+  "apuleius-butler-apologia-florida": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Harold Edgeworth Butler",
+   "translator_match": true
+  },
+  "apuleius-adlington-gaselee": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "translator_claimed": "adlington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "apuleius-butler-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "apuleius-butler-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -176,5 +176,403 @@
    "Charles Anthony Vince and James Herbert Vince",
    "Translation published 1939: US public domain (in or before 1930). Perseus source line: Demosthenes, Vol. II: De Corona, De Falsa Legatione, XVIII, XIX. Vince, C. A. and Vince, J. H., translators. Cambridge, MA: Harvard University Press, 1926 (1939 reprint)."
   ]
+ },
+ "_surname": [
+  "demosthenes"
+ ],
+ "_translators": {
+  "demosthenes-kennedy-olynthiacs-philippics": "kennedy",
+  "demosthenes-pickard-cambridge-v1": "pickard-cambridge",
+  "demosthenes-pickard-cambridge-v2": "pickard-cambridge",
+  "demosthenes-kennedy-v1": "kennedy",
+  "demosthenes-kennedy-v2": "kennedy",
+  "demosthenes-kennedy-v3": "kennedy",
+  "demosthenes-kennedy-v4": "kennedy",
+  "demosthenes-kennedy-v5": "kennedy",
+  "demosthenes-perseus-vince-against-leptines": "vince",
+  "demosthenes-perseus-vince-answer-to-philip-s-letter": "vince",
+  "demosthenes-perseus-vince-first-olynthiac": "vince",
+  "demosthenes-perseus-vince-for-the-liberty-of-the-rhodians": "vince",
+  "demosthenes-perseus-vince-for-the-people-of-megalopolis": "vince",
+  "demosthenes-perseus-vince-second-olynthiac": "vince",
+  "demosthenes-perseus-vince-on-halonnesus": "vince",
+  "demosthenes-perseus-vince-on-organization": "vince",
+  "demosthenes-perseus-vince-on-the-chersonese": "vince",
+  "demosthenes-perseus-vince-on-the-navy-boards": "vince",
+  "demosthenes-perseus-vince-on-the-peace": "vince",
+  "demosthenes-perseus-vince-on-the-treaty-with-alexander": "vince",
+  "demosthenes-perseus-vince-first-philippic": "vince",
+  "demosthenes-perseus-vince-third-philippic": "vince",
+  "demosthenes-perseus-vince-fourth-philippic": "vince",
+  "demosthenes-perseus-vince-philip-s-letter": "vince",
+  "demosthenes-perseus-vince-second-philippic": "vince",
+  "demosthenes-perseus-vince-third-olynthiac": "vince",
+  "demosthenes-perseus-vince-on-the-crown": "vince",
+  "demosthenes-perseus-vince-on-the-embassy": "vince"
+ },
+ "_checks": {
+  "demosthenes-kennedy-olynthiacs-philippics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Rann Kennedy",
+   "translator_match": true
+  },
+  "demosthenes-pickard-cambridge-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "pickard-cambridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Arthur Wallace Pickard-Cambridge",
+   "translator_match": true
+  },
+  "demosthenes-pickard-cambridge-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "pickard-cambridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Arthur Wallace Pickard-Cambridge",
+   "translator_match": true
+  },
+  "demosthenes-kennedy-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "demosthenes-kennedy-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "demosthenes-kennedy-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "demosthenes-kennedy-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "demosthenes-kennedy-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "demosthenes",
+   "translator_claimed": "kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "demosthenes-perseus-vince-against-leptines": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg020.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-answer-to-philip-s-letter": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-first-olynthiac": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-for-the-liberty-of-the-rhodians": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg015.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-for-the-people-of-megalopolis": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg016.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-second-olynthiac": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-halonnesus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-organization": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-the-chersonese": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-the-navy-boards": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-the-peace": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-the-treaty-with-alexander": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg017.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-first-philippic": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-third-philippic": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-fourth-philippic": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-philip-s-letter": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-second-philippic": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg006.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-third-olynthiac": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1930
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-the-crown": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg018.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "demosthenes-perseus-vince-on-the-embassy": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0014.tlg019.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "vince",
+   "author_seen": "demosthenes",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

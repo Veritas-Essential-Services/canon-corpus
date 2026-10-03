@@ -43,5 +43,92 @@
  "_excluded": {
   "Frazer, Pausanias's Description of Greece (1898), vol. 1": "the only scan found (DLI) has an empty text layer; pending",
   "Jones, Loeb (1918-)": "Greek facing; pending"
+ },
+ "_surname": [
+  "pausanias"
+ ],
+ "_translators": {
+  "pausanias-shilleto-v1": "shilleto",
+  "pausanias-shilleto-v2": "shilleto",
+  "pausanias-attica-verrall": "verrall",
+  "pausanias-taylor-v3": "taylor"
+ },
+ "_translator_unchecked": {
+  "pausanias-taylor-v1": "translator on the row (Thomas Taylor (attributed by catalogue)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "pausanias-taylor-v2": "translator on the row (Thomas Taylor (attributed by catalogue)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "pausanias-shilleto-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "shilleto",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Shilleto",
+   "translator_match": true
+  },
+  "pausanias-shilleto-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "shilleto",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Shilleto",
+   "translator_match": true
+  },
+  "pausanias-taylor-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-taylor-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-attica-verrall": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "verrall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-taylor-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

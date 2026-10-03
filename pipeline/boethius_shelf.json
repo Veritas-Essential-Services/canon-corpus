@@ -22,5 +22,39 @@
  "_excluded": {
   "PG 23082": "Gutenberg serves an HTML page for the .txt; not fetched",
   "Chaucer's Boece (PG 42083, 44833)": "Middle English; not a modern translation; not taken"
+ },
+ "_surname": [
+  "boethius",
+  "boetius"
+ ],
+ "_translators": {
+  "boethius-james": "james",
+  "boethius-rand-stewart": "stewart"
+ },
+ "_checks": {
+  "boethius-james": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "james",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. R. James",
+   "translator_match": true
+  },
+  "boethius-rand-stewart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Kennard Rand; H. F. Stewart",
+   "translator_match": true
+  }
  }
 }

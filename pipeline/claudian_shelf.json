@@ -25,5 +25,53 @@
  },
  "_excluded": {
   "Hawkins vol. 2": "worksclaudian01hawkgoog has no text layer; pending"
+ },
+ "_surname": [
+  "claudian",
+  "claudianus"
+ ],
+ "_translators": {
+  "claudian-platnauer-v1": "platnauer",
+  "claudian-platnauer-v2": "platnauer",
+  "claudian-hawkins-v1": "hawkins"
+ },
+ "_checks": {
+  "claudian-platnauer-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "platnauer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maurice Platnauer",
+   "translator_match": true
+  },
+  "claudian-platnauer-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "platnauer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maurice Platnauer",
+   "translator_match": true
+  },
+  "claudian-hawkins-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "hawkins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

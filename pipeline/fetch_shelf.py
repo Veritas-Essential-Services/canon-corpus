@@ -167,8 +167,10 @@ def ccel_rights(data):
 def pg_rights(data, r, claimed=None):
     head = data[:20000].decode("utf-8", "replace") if isinstance(data, bytes) else data[:20000]
     r["pg_copyrighted"] = "copyrighted project gutenberg" in head.lower()
-    m = re.search(r"^Translator:\s*(.+)$", head, re.M)
-    r["pg_translator"] = m.group(1).strip() if m else None
+    # a header naming several translators continues on indented lines
+    # (PG 66350: "Translator: George Chapman" / "        Sir Charles Abraham Elton")
+    m = re.search(r"^Translator:[ \t]*(.+(?:\r?\n[ \t]+\S.*)*)", head, re.M)
+    r["pg_translator"] = "; ".join(x.strip() for x in m.group(1).splitlines() if x.strip()) if m else None
     if claimed and r["pg_translator"]:
         r["translator_match"] = claimed.lower() in r["pg_translator"].lower()
     return r

@@ -27,5 +27,52 @@
  },
  "_excluded": {
   "Porphyry's Isagoge in Owen's Organon (Bohn, 1853)": "belongs with the aristotle shelf; not taken here"
+ },
+ "_surname": [
+  "porphyry",
+  "porphyrius"
+ ],
+ "_translators": {
+  "porphyry-taylor-select": "taylor",
+  "celsus-porphyry-julian-lardner": "lardner",
+  "porphyry-marcella-zimmern": "zimmern"
+ },
+ "_checks": {
+  "porphyry-taylor-select": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "porphyry",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  },
+  "celsus-porphyry-julian-lardner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "porphyry",
+   "translator_claimed": "lardner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "porphyry-marcella-zimmern": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "porphyry",
+   "translator_claimed": "zimmern",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

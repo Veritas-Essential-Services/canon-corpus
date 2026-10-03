@@ -22,5 +22,38 @@
  "_excluded": {
   "Gwilt (1826)": "not yet located; pending",
   "Perrault's abridgment (PG 27877)": "an abridgment; not taken"
+ },
+ "_surname": [
+  "vitruvius"
+ ],
+ "_translators": {
+  "vitruvius-morgan": "morgan",
+  "vitruvius-gwilt-1826": "gwilt"
+ },
+ "_checks": {
+  "vitruvius-morgan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vitruvius",
+   "translator_claimed": "morgan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vitruvius-gwilt-1826": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vitruvius",
+   "translator_claimed": "gwilt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

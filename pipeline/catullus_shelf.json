@@ -40,5 +40,84 @@
    "Leonard C. Smithers",
    "Translation published 1894: US public domain (in or before 1930). Perseus source line: Catullus, Gaius Valerius. The Carmina of Caius Valerius Catullus. Smithers, Leonard Charles, prose translator. London, Printed for the Translators, 1894. (Modernized by Perseus.)"
   ]
+ },
+ "_surname": [
+  "catullus"
+ ],
+ "_translators": {
+  "catullus-ellis": "ellis",
+  "catullus-burton-smithers": "burton",
+  "catullus-tibullus-pervigilium-loeb": "cornish",
+  "catullus-perseus-burton-carmina": "burton",
+  "catullus-perseus-smithers-carmina": "smithers"
+ },
+ "_checks": {
+  "catullus-ellis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "ellis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robinson Ellis",
+   "translator_match": true
+  },
+  "catullus-burton-smithers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "burton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Richard Francis Burton",
+   "translator_match": true
+  },
+  "catullus-tibullus-pervigilium-loeb": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "cornish",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "catullus-perseus-burton-carmina": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0472.phi001.perseus-eng3",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "burton",
+   "author_seen": "catullus",
+   "source_years": [
+    1894
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "catullus-perseus-smithers-carmina": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0472.phi001.perseus-eng4",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "smithers",
+   "author_seen": "catullus",
+   "source_years": [
+    1894
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

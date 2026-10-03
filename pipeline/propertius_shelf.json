@@ -17,5 +17,40 @@
    "The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint)",
    "tr. P. J. F. Gantillon (select elegies in verse by Nott and Elton)"
   ]
+ },
+ "_surname": [
+  "propertius"
+ ],
+ "_translators": {
+  "propertius-butler-loeb": "butler",
+  "propertius-gantillon-bohn": "gantillon"
+ },
+ "_checks": {
+  "propertius-butler-loeb": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "propertius-gantillon-bohn": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "gantillon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

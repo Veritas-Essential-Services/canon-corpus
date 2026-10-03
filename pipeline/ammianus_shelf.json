@@ -12,5 +12,26 @@
    "tr. Charles Duke Yonge"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "ammianus",
+  "marcellinus"
+ ],
+ "_translators": {
+  "ammianus-yonge": "yonge"
+ },
+ "_checks": {
+  "ammianus-yonge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ammianus",
+   "translator_claimed": "yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  }
+ }
 }

@@ -41,5 +41,93 @@
  },
  "_excluded": {
   "Beloe vol. 2": "in.ernet.dli.2015.40975 has no text layer; pending"
+ },
+ "_surname": [
+  "gellius",
+  "aulus"
+ ],
+ "_translators": {
+  "gellius-rolfe-v1": "rolfe",
+  "gellius-rolfe-v2": "rolfe",
+  "gellius-rolfe-v3": "rolfe"
+ },
+ "_translator_unchecked": {
+  "gellius-beloe-v1": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "gellius-beloe-v2": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "gellius-beloe-v3": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "gellius-beloe-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gellius-beloe-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gellius-beloe-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gellius-rolfe-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "translator_claimed": "rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gellius-rolfe-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "translator_claimed": "rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gellius-rolfe-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "translator_claimed": "rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

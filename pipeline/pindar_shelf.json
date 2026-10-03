@@ -43,5 +43,82 @@
   "Sandys, Loeb Pindar (1915)": "US PD by date but Greek facing; pending, like the other Loebs",
   "odespindar00conggoog": "1852 first printing of the Turner/Moore Bohn; lower OCR quality than the 1872 reprint (clean-word 0.835 vs 0.872)",
   "olympicpythianod00pindiala": "Moore's verse alone, c1903 reprint; duplicates the Bohn appendix"
+ },
+ "_surname": [
+  "pindar",
+  "pindarus"
+ ],
+ "_translators": {
+  "pindar-myers": "myers",
+  "pindar-turner-moore": "turner",
+  "pindar-west-1749": "west",
+  "pindar-laurent-prose-1824": "catalogue"
+ },
+ "_translator_unchecked": {
+  "pindar-cary-1833": "translator on the row (Henry Francis Cary) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "pindar-myers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "myers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Myers",
+   "translator_match": true
+  },
+  "pindar-turner-moore": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "turner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-cary-1833": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-west-1749": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "west",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pindar-laurent-prose-1824": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "catalogue",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -36,5 +36,80 @@
  },
  "_excluded": {
   "Epictetus's Discourses": "recorded by Arrian, shelved under Epictetus (stoics item)"
+ },
+ "_surname": [
+  "arrian",
+  "arrianus"
+ ],
+ "_translators": {
+  "arrian-chinnock-anabasis": "chinnock",
+  "arrian-dansey-coursing": "dansey",
+  "arrian-mccrindle-nearkhos": "mccrindle",
+  "arrian-mccrindle-ancient-india": "mccrindle",
+  "arrian-rooke-1729-v1": "rooke"
+ },
+ "_checks": {
+  "arrian-chinnock-anabasis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "chinnock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. J. Chinnock",
+   "translator_match": true
+  },
+  "arrian-dansey-coursing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "dansey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Dansey",
+   "translator_match": true
+  },
+  "arrian-mccrindle-nearkhos": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "mccrindle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Watson McCrindle",
+   "translator_match": true
+  },
+  "arrian-mccrindle-ancient-india": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "mccrindle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arrian-rooke-1729-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "rooke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

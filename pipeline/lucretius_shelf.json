@@ -52,5 +52,97 @@
    "William Ellery Leonard",
    "Translation published 1916: US public domain (in or before 1930). Perseus source line: Lucretius. De Rerum Natura. William Ellery Leonard. E. P. Dutton. 1916."
   ]
+ },
+ "_surname": [
+  "lucretius"
+ ],
+ "_translators": {
+  "lucretius-trevelyan-selections": "trevelyan",
+  "lucretius-munro-translation": "munro",
+  "lucretius-bailey-1910": "bailey",
+  "lucretius-creech-v1": "creech",
+  "lucretius-creech-v2": "creech",
+  "lucretius-perseus-leonard-de-rerum-natura": "leonard"
+ },
+ "_checks": {
+  "lucretius-trevelyan-selections": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "trevelyan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. C. Trevelyan",
+   "translator_match": true
+  },
+  "lucretius-munro-translation": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "munro",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-bailey-1910": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "bailey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucretius-creech-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "creech",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucretius-creech-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "creech",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "lucretius-perseus-leonard-de-rerum-natura": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0550.phi001.perseus-eng1",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "leonard",
+   "author_seen": "lucretius",
+   "source_years": [
+    1916
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

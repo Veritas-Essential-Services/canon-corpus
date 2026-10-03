@@ -27,5 +27,52 @@
  },
  "_excluded": {
   "pg5218-5224": "Firebaugh split into 7 files; the complete PG 5225 kept"
+ },
+ "_surname": [
+  "petronius"
+ ],
+ "_translators": {
+  "petronius-firebaugh-satyricon": "firebaugh",
+  "petronius-burnaby-satyricon": "burnaby",
+  "petronius-heseltine-seneca-rouse": "heseltine"
+ },
+ "_checks": {
+  "petronius-firebaugh-satyricon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "petronius",
+   "translator_claimed": "firebaugh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. C. Firebaugh",
+   "translator_match": true
+  },
+  "petronius-burnaby-satyricon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "petronius",
+   "translator_claimed": "burnaby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Burnaby",
+   "translator_match": true
+  },
+  "petronius-heseltine-seneca-rouse": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "petronius",
+   "translator_claimed": "heseltine",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  }
  }
 }

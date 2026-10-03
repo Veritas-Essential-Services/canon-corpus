@@ -70,5 +70,166 @@
   "plotinusethicalt0002step": "catalogued as MacKenna vol. 2, 1916, but holds Enneads IV-VI together: a later collected printing of unknown date, not taken",
   "plotinuspsychicp0002step": "empty text layer",
   "MacKenna's revised one-volume edition (1956, rev. Page)": "not public domain"
+ },
+ "_surname": [
+  "plotinus",
+  "plotinos"
+ ],
+ "_translators": {
+  "plotinus-guthrie-v1": "guthrie",
+  "plotinus-guthrie-v2": "guthrie",
+  "plotinus-guthrie-v3": "guthrie",
+  "plotinus-guthrie-v4": "guthrie",
+  "plotinus-taylor-beautiful": "taylor",
+  "plotinus-mackenna-v1": "mackenna",
+  "plotinus-mackenna-v2": "mackenna",
+  "plotinus-mackenna-v4": "mackenna",
+  "plotinus-mackenna-v5": "mackenna",
+  "plotinus-taylor-select": "taylor"
+ },
+ "_translator_unchecked": {
+  "plotinus-mackenna-v3": "translator on the row (Stephen MacKenna) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "plotinus-guthrie-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth Sylvan Guthrie",
+   "translator_match": true
+  },
+  "plotinus-guthrie-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth Sylvan Guthrie",
+   "translator_match": true
+  },
+  "plotinus-guthrie-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth Sylvan Guthrie",
+   "translator_match": true
+  },
+  "plotinus-guthrie-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth Sylvan Guthrie",
+   "translator_match": true
+  },
+  "plotinus-taylor-beautiful": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  },
+  "plotinus-mackenna-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "mackenna",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plotinus-mackenna-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "mackenna",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plotinus-mackenna-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plotinus-mackenna-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "mackenna",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917-30",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plotinus-mackenna-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "mackenna",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Vol. V of MacKenna and Page's first edition (Medici Society, 1917-30), published 1930 per the catalogue; the scan's title page matches. Works published in 1930 entered the US public domain on 2026-01-01."
+  },
+  "plotinus-taylor-select": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plotinus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "plotinus-mackenna-v5": "Vol. V of MacKenna and Page's first edition (Medici Society, 1917-30), published 1930 per the catalogue; the scan's title page matches. Works published in 1930 entered the US public domain on 2026-01-01."
  }
 }

@@ -38,5 +38,69 @@
   "Mair, Callimachus/Lycophron/Aratus (Loeb, 1921) and Oppian/Colluthus/Tryphiodorus (Loeb, 1928)": "Greek facing; pending",
   "Musaeus": "no PD English scan identified yet; pending",
   "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken"
+ },
+ "_surname": [
+  "sappho",
+  "anacreon",
+  "bacchylides",
+  "alcaeus",
+  "anthology",
+  "pindar",
+  "simonides"
+ ],
+ "_translators": {
+  "greek-anthology-mackail": "mackail",
+  "sappho-wharton": "wharton",
+  "anacreon-moore": "moore",
+  "bacchylides-poste": "poste"
+ },
+ "_checks": {
+  "greek-anthology-mackail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "mackail",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. W. Mackail",
+   "translator_match": true
+  },
+  "sappho-wharton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "wharton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "anacreon-moore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bacchylides-poste": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bacchylides",
+   "translator_claimed": "poste",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

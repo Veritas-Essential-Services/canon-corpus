@@ -118,5 +118,245 @@
    "Augustus Taber Murray",
    "Translation published 1919: US public domain (in or before 1930). Perseus source line: Homer. The Odyssey, Volume 1-2. Murray, A. T. (Augustus Taber), translator. London: William Heinmann; New York: G.P. Putnam's Sons, 1919."
   ]
+ },
+ "_surname": [
+  "homer",
+  "homerus"
+ ],
+ "_translators": {
+  "homer-chapman-iliad": "chapman",
+  "homer-chapman-odyssey": "chapman",
+  "homer-pope-iliad": "pope",
+  "homer-pope-odyssey": "pope",
+  "homer-cowper-iliad": "cowper",
+  "homer-cowper-odyssey": "cowper",
+  "homer-derby-iliad": "stanley",
+  "homer-buckley-iliad": "buckley",
+  "homer-butler-odyssey": "butler",
+  "homer-bryant-iliad-v1": "bryant",
+  "homer-bryant-iliad-v2": "bryant",
+  "homer-bryant-odyssey-v1": "bryant",
+  "homer-norgate-iliad": "norgate",
+  "homer-hobbes-iliad-odyssey": "hobbes",
+  "homer-perseus-murray-iliad": "murray",
+  "homer-perseus-murray-odyssey": "murray"
+ },
+ "_translator_unchecked": {
+  "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "homer-chapman-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "chapman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Chapman",
+   "translator_match": true
+  },
+  "homer-chapman-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "chapman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Chapman",
+   "translator_match": true
+  },
+  "homer-pope-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Pope",
+   "translator_match": true
+  },
+  "homer-pope-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "pope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Pope",
+   "translator_match": true
+  },
+  "homer-cowper-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "cowper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Cowper",
+   "translator_match": true
+  },
+  "homer-cowper-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "cowper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Cowper",
+   "translator_match": true
+  },
+  "homer-derby-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "stanley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Earl of Edward George Geoffrey Smith Stanley Derby",
+   "translator_match": true
+  },
+  "homer-buckley-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "buckley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodore Alois Buckley",
+   "translator_match": true
+  },
+  "homer-butler-odyssey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel Butler",
+   "translator_match": true
+  },
+  "homer-bryant-iliad-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "bryant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-bryant-iliad-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "bryant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-bryant-odyssey-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "bryant",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "[1873]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-bryant-odyssey-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "[1873]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-norgate-iliad": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "norgate",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-hobbes-iliad-odyssey": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "hobbes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "homer-perseus-murray-iliad": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0012.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "murray",
+   "author_seen": "homer",
+   "source_years": [
+    1924,
+    1925
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "homer-perseus-murray-odyssey": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0012.tlg002.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "murray",
+   "author_seen": "homer",
+   "source_years": [
+    1919
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

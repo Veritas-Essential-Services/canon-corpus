@@ -36,5 +36,72 @@
    "Thomas Little Heath",
    "Translation published 1908: US public domain (in or before 1930). Perseus source line: Euclid. The Thirteen Books of Euclid's Elements, Vols. 1-3. Heath, Thomas Little, editor. Cambridge, UK: Cambridge University Press, 1908."
   ]
+ },
+ "_surname": [
+  "euclid",
+  "euclides"
+ ],
+ "_translators": {
+  "euclid-heath-v1": "heath",
+  "euclid-heath-v2": "heath",
+  "euclid-heath-v3": "heath",
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": "heath"
+ },
+ "_checks": {
+  "euclid-heath-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euclid",
+   "translator_claimed": "heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euclid-heath-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euclid",
+   "translator_claimed": "heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euclid-heath-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euclid",
+   "translator_claimed": "heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg1799.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "heath",
+   "author_seen": "euclid",
+   "source_years": [
+    1908
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

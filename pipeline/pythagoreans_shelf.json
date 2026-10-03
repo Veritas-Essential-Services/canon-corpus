@@ -13,5 +13,30 @@
    "tr. Thomas Taylor"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "ocellus",
+  "pythagoras",
+  "pythagorean",
+  "pythagoreans",
+  "timaeus",
+  "archytas"
+ ],
+ "_translators": {
+  "ocellus-taylor": "taylor"
+ },
+ "_checks": {
+  "ocellus-taylor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ocellus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  }
+ }
 }

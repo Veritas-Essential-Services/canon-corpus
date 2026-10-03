@@ -157,5 +157,371 @@
    "Francis Adams",
    "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
   ]
+ },
+ "_surname": [
+  "hippocrates"
+ ],
+ "_translators": {
+  "hippocrates-adams-v1": "adams",
+  "hippocrates-adams-v2": "adams",
+  "hippocrates-perseus-adams-aphorisms": "adams",
+  "hippocrates-perseus-adams-airs-waters-and-places": "adams",
+  "hippocrates-perseus-jones-airs-waters-places": "jones",
+  "hippocrates-perseus-jones-nutriment": "jones",
+  "hippocrates-perseus-adams-on-the-articulations": "adams",
+  "hippocrates-perseus-adams-on-injuries-of-the-head": "adams",
+  "hippocrates-perseus-adams-on-regimen-in-acute-diseases": "adams",
+  "hippocrates-perseus-adams-on-fistulae": "adams",
+  "hippocrates-perseus-adams-on-fractures": "adams",
+  "hippocrates-perseus-adams-on-hemorrhoids": "adams",
+  "hippocrates-perseus-adams-on-the-sacred-disease": "adams",
+  "hippocrates-perseus-adams-on-the-surgery": "adams",
+  "hippocrates-perseus-adams-on-ancient-medicine": "adams",
+  "hippocrates-perseus-jones-ancient-medicine": "jones",
+  "hippocrates-perseus-adams-on-ulcers": "adams",
+  "hippocrates-perseus-adams-the-epidemics": "adams",
+  "hippocrates-perseus-adams-the-oath": "adams",
+  "hippocrates-perseus-jones-oath": "jones",
+  "hippocrates-perseus-adams-the-law": "adams",
+  "hippocrates-perseus-jones-precepts": "jones",
+  "hippocrates-perseus-adams-of-the-prognostics": "adams",
+  "hippocrates-perseus-adams-mochlicus": "adams"
+ },
+ "_checks": {
+  "hippocrates-adams-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Adams",
+   "translator_match": true
+  },
+  "hippocrates-adams-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "hippocrates-perseus-adams-aphorisms": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-airs-waters-and-places": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg002.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-jones-airs-waters-places": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg002.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "jones",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-jones-nutriment": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg046.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "jones",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-the-articulations": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-injuries-of-the-head": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-regimen-in-acute-diseases": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-fistulae": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg030.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-fractures": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-hemorrhoids": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg029.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-the-sacred-disease": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg027.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-the-surgery": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-ancient-medicine": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-jones-ancient-medicine": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg001.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "jones",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-on-ulcers": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg028.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-the-epidemics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg006.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-the-oath": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg013.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-jones-oath": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg013.perseus-eng5",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "jones",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-the-law": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-jones-precepts": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg051.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "jones",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-of-the-prognostics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "hippocrates-perseus-adams-mochlicus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

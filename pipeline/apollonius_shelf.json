@@ -33,5 +33,66 @@
  },
  "_excluded": {
   "PG 830": "duplicate of PG 13977 (same Seaton text, shingle overlap 0.98)"
+ },
+ "_surname": [
+  "apollonius"
+ ],
+ "_translators": {
+  "apollonius-seaton": "seaton",
+  "apollonius-way": "way",
+  "apollonius-coleridge": "coleridge",
+  "apollonius-fawkes-1780": "fawkes"
+ },
+ "_checks": {
+  "apollonius-seaton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius",
+   "translator_claimed": "seaton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. C. Seaton",
+   "translator_match": true
+  },
+  "apollonius-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius",
+   "translator_claimed": "way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur S. Way",
+   "translator_match": true
+  },
+  "apollonius-coleridge": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius",
+   "translator_claimed": "coleridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "apollonius-fawkes-1780": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "apollonius",
+   "translator_claimed": "fawkes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1780",
+   "ia_date": "1780",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

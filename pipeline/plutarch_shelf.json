@@ -714,5 +714,1750 @@
    "John Dowell",
    "Translation published 1874: US public domain (in or before 1930). Perseus source line: [Pseudo-]Plutarch. Plutarch's Morals, Vol. 3. Goodwin, William W. editor. Dowell, John, translator, Boston: Little, Brown, and Company; Cambridge, Press of John Wilson and Son, 1874."
   ]
+ },
+ "_surname": [
+  "plutarch",
+  "plutarchus",
+  "plutarke"
+ ],
+ "_translators": {
+  "plutarch-stewart-long-lives-v1": "stewart",
+  "plutarch-stewart-long-lives-v2": "stewart",
+  "plutarch-stewart-long-lives-v3": "stewart",
+  "plutarch-stewart-long-lives-v4": "stewart",
+  "plutarch-shilleto-morals": "shilleto",
+  "plutarch-holland-roman-questions": "holland",
+  "plutarch-peabody-delay": "peabody",
+  "plutarch-tucker-essays": "tucker",
+  "plutarch-prickard-essays": "prickard",
+  "plutarch-north-lives-v1": "north",
+  "plutarch-north-lives-v2": "north",
+  "plutarch-north-lives-v3": "north",
+  "plutarch-north-lives-v4": "north",
+  "plutarch-north-lives-v5": "north",
+  "plutarch-north-lives-v6": "north",
+  "plutarch-langhorne-lives-v1": "john",
+  "plutarch-langhorne-lives-v2": "john",
+  "plutarch-langhorne-lives-v3": "john",
+  "plutarch-langhorne-lives-v4": "john",
+  "plutarch-langhorne-lives-v5": "john",
+  "plutarch-langhorne-lives-v6": "john",
+  "plutarch-holland-morals-1603-part1": "holland",
+  "plutarch-perseus-kersey-a-discourse-to-an-unlearned-prince": "kersey",
+  "plutarch-perseus-philips-of-love": "philips",
+  "plutarch-perseus-whitaker-whether-twere-rightly-said-live-conceale": "whitaker",
+  "plutarch-perseus-patrick-that-virtue-may-be-taught": "patrick",
+  "plutarch-perseus-fetherston-whether-an-aged-man-ought-to-meddle-in-s": "fetherston",
+  "plutarch-perseus-white-whether-vice-is-sufficient-to-render-a-m": "white",
+  "plutarch-perseus-white-whether-the-passions-of-the-soul-or-dise": "white",
+  "plutarch-perseus-fetherston-whether-water-or-fire-be-most-useful": "fetherston",
+  "plutarch-perseus-baxter-an-abstract-of-a-comparison-betwixt-aris": "baxter",
+  "plutarch-perseus-baxter-a-breviate-of-a-discourse-showing-that-t": "baxter",
+  "plutarch-perseus-babbitt-advice-to-bride-and-groom": "babbitt",
+  "plutarch-perseus-philips-conjugal-precepts": "philips",
+  "plutarch-perseus-creech-plutarch-s-consolatory-letter-to-his-wif": "creech",
+  "plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius": "babbitt",
+  "plutarch-perseus-morgan-consolation-to-apollonius": "morgan",
+  "plutarch-perseus-phillips-concerning-the-fortune-or-virtue-of-alex": "phillips",
+  "plutarch-perseus-brown-of-natural-affection-towards-one-s-offsp": "brown",
+  "plutarch-perseus-patrick-of-the-love-of-wealth": "patrick",
+  "plutarch-perseus-midgley-why-the-oracles-cease-to-give-answers": "midgley",
+  "plutarch-perseus-kippax-of-the-word-engraven-over-the-gate-of-ap": "kippax",
+  "plutarch-perseus-philips-of-garrulity-or-talkativeness": "philips",
+  "plutarch-perseus-creech-a-discourse-concerning-socrates-s-daemon": "creech",
+  "plutarch-perseus-lancaster-of-envy-and-hatred": "lancaster",
+  "plutarch-perseus-baxter-of-isis-and-osiris-or-of-the-ancient-rel": "baxter",
+  "plutarch-perseus-philips-wherefore-the-pythian-priestess-now-ceas": "philips",
+  "plutarch-perseus-lancaster-how-a-man-may-inoffensively-praise-himse": "lancaster",
+  "plutarch-perseus-philips-concerning-such-whom-god-is-slow-to-puni": "philips",
+  "plutarch-perseus-smith-the-contradictions-of-the-stoics": "smith",
+  "plutarch-perseus-babbitt-superstition": "babbitt",
+  "plutarch-perseus-baxter-of-superstition-or-indiscreet-devotion": "baxter",
+  "plutarch-perseus-morgan-of-the-tranquillity-of-the-mind": "morgan",
+  "plutarch-perseus-morgan-of-moral-virtue": "morgan",
+  "plutarch-perseus-hoy-of-bashfulness": "hoy",
+  "plutarch-perseus-babbitt-on-having-many-friends": "babbitt",
+  "plutarch-perseus-goodwin-of-large-acquaintance-or-an-essay-to-pro": "goodwin",
+  "plutarch-perseus-philips-concerning-the-procreation-of-the-soul-a": "philips",
+  "plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies": "babbitt",
+  "plutarch-perseus-hartcliffe-how-a-man-may-receive-advantage-and-prof": "hartcliffe",
+  "plutarch-perseus-dillingham-concerning-the-cure-of-anger-a-dialogue": "dillingham",
+  "plutarch-perseus-white-of-common-conceptions-against-the-stoics": "white",
+  "plutarch-perseus-wheeler-of-curiosity-or-an-over-busy-inquisitive": "wheeler",
+  "plutarch-perseus-baxter-of-eating-of-flesh-tract-i": "baxter",
+  "plutarch-perseus-baxter-of-eating-of-flesh-tract-ii": "baxter",
+  "plutarch-perseus-patrick-of-banishment-or-flying-one-s-country": "patrick",
+  "plutarch-perseus-babbitt-chance": "babbitt",
+  "plutarch-perseus-baxter-of-fortune": "baxter",
+  "plutarch-perseus-oswald-concerning-the-fortune-of-the-romans": "oswald",
+  "plutarch-perseus-thomson-of-brotherly-love": "thomson",
+  "plutarch-perseus-smith-whether-the-athenians-were-more-renowned": "smith",
+  "plutarch-perseus-babbitt-the-education-of-children": "babbitt",
+  "plutarch-perseus-ford-a-discourse-touching-the-training-of-chi": "ford",
+  "plutarch-perseus-fetherston-concerning-the-first-principle-of-cold": "fetherston",
+  "plutarch-perseus-babbitt-on-listening-to-lectures": "babbitt",
+  "plutarch-perseus-hoy-of-hearing": "hoy",
+  "plutarch-perseus-philips-which-are-the-most-crafty-water-animals": "philips",
+  "plutarch-perseus-babbitt-advice-about-keeping-well": "babbitt",
+  "plutarch-perseus-poole-plutarch-s-rules-for-the-preservation-of": "poole",
+  "plutarch-perseus-smith-of-the-three-sorts-of-government-monarch": "smith",
+  "plutarch-perseus-babbitt-virtue-and-vice": "babbitt",
+  "plutarch-perseus-baxter-of-virtue-and-vice": "baxter",
+  "plutarch-perseus-smith-against-running-in-debt-or-taking-up-mon": "smith",
+  "plutarch-perseus-chetwood-that-a-philosopher-ought-chiefly-to-conv": "chetwood",
+  "plutarch-perseus-chauncy-concerning-the-virtues-of-women": "chauncy",
+  "plutarch-perseus-baxter-that-it-is-not-possible-to-live-pleasura": "baxter",
+  "plutarch-perseus-oswald-parallels-or-a-comparison-between-the-gr": "oswald",
+  "plutarch-perseus-brown-plutarch-s-platonic-questions": "brown",
+  "plutarch-perseus-white-political-precepts": "white",
+  "plutarch-perseus-creech-symposiacs": "creech",
+  "plutarch-perseus-chauncy-greek-questions": "chauncy",
+  "plutarch-perseus-brown-plutarch-s-natural-questions": "brown",
+  "plutarch-perseus-chauncy-roman-questions": "chauncy",
+  "plutarch-perseus-babbitt-how-the-young-man-should-study-poetry": "babbitt",
+  "plutarch-perseus-ford-how-a-young-man-ought-to-hear-poems": "ford",
+  "plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend": "babbitt",
+  "plutarch-perseus-tullie-how-to-know-a-flatterer-from-a-friend": "tullie",
+  "plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre": "babbitt",
+  "plutarch-perseus-todd-how-a-man-may-be-sensible-of-his-progres": "tod",
+  "plutarch-perseus-hinton-the-apophthegms-or-remarkable-sayings-of": "hinton",
+  "plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men": "babbitt",
+  "plutarch-perseus-davis-the-banquet-of-the-seven-wise-men": "davis",
+  "plutarch-perseus-barcroft-lives-of-the-ten-orators": "barcroft",
+  "plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and": "white",
+  "plutarch-perseus-philips-concerning-music": "philips",
+  "plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi": "dowell"
+ },
+ "_translator_unchecked": {
+  "plutarch-goodwin-moralia-v1": "no single translator to check: several hands, ed. William W. Goodwin (1870)",
+  "plutarch-goodwin-moralia-v2": "no single translator to check: several hands, ed. William W. Goodwin (1870)",
+  "plutarch-goodwin-moralia-v3": "no single translator to check: several hands, ed. William W. Goodwin (1870)",
+  "plutarch-goodwin-moralia-v4": "no single translator to check: several hands, ed. William W. Goodwin (1870)",
+  "plutarch-goodwin-moralia-v5": "no single translator to check: several hands, ed. William W. Goodwin (1870)",
+  "plutarch-holland-morals-1603-part2": "translator on the row (Philemon Holland) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "plutarch-perseus-g-against-colotes-the-disciple-and-favorit": "no single translator to check: A. G.",
+  "plutarch-perseus-ai-five-tragical-histories-of-love": "no single translator to check: A.I.",
+  "plutarch-perseus-anon-laconic-apophthegms-or-remarkable-saying": "no single translator to check: unnamed (as in the Perseus header)",
+  "plutarch-perseus-j-that-brute-beasts-make-use-of-reason": "no single translator to check: Sir A. J.",
+  "plutarch-perseus-ag-of-the-face-appearing-within-the-orb-of": "no single translator to check: A.G.",
+  "plutarch-perseus-g-of-fate": "no single translator to check: A. G.",
+  "plutarch-perseus-g-of-herodotus-s-malice": "no single translator to check: A. G."
+ },
+ "_identity_checked": {
+  "plutarch-north-lives-v4": "The OCR never prints Plutarch's name (running heads lost), but the volume holds North's Lives of Nicias, Pompey, Agesilaus, Sertorius and Eumenes, and names North; checked by eye 2026-10-02."
+ },
+ "_checks": {
+  "plutarch-stewart-long-lives-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long; Aubrey Stewart",
+   "translator_match": true
+  },
+  "plutarch-stewart-long-lives-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long; Aubrey Stewart",
+   "translator_match": true
+  },
+  "plutarch-stewart-long-lives-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long; Aubrey Stewart",
+   "translator_match": true
+  },
+  "plutarch-stewart-long-lives-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long; Aubrey Stewart",
+   "translator_match": true
+  },
+  "plutarch-goodwin-moralia-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plutarch-goodwin-moralia-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plutarch-goodwin-moralia-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plutarch-goodwin-moralia-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plutarch-goodwin-moralia-v5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plutarch-shilleto-morals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "shilleto",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Shilleto",
+   "translator_match": true
+  },
+  "plutarch-holland-roman-questions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "holland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Philemon Holland",
+   "translator_match": true
+  },
+  "plutarch-peabody-delay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "peabody",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Andrew P. Peabody",
+   "translator_match": true
+  },
+  "plutarch-tucker-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "tucker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. G. Tucker",
+   "translator_match": true
+  },
+  "plutarch-prickard-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "prickard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. O. Prickard",
+   "translator_match": true
+  },
+  "plutarch-north-lives-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "north",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-north-lives-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "north",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-north-lives-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarke",
+   "translator_claimed": "north",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-north-lives-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarke",
+   "translator_claimed": "north",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-north-lives-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "north",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-north-lives-v6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "north",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-langhorne-lives-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "john",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-langhorne-lives-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "john",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-langhorne-lives-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "john",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-langhorne-lives-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "john",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844-46",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-langhorne-lives-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "john",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-langhorne-lives-v6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "john",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plutarch-holland-morals-1603-part1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "holland",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1603",
+   "ia_date": "1603",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plutarch-holland-morals-1603-part2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1603",
+   "ia_date": "1603",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "plutarch-perseus-kersey-a-discourse-to-an-unlearned-prince": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg116.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "kersey",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-g-against-colotes-the-disciple-and-favorit": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg140.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "G.",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-ai-five-tragical-histories-of-love": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg114.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "A.I.",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-of-love": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg113.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-whitaker-whether-twere-rightly-said-live-conceale": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg141.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "whitaker",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-patrick-that-virtue-may-be-taught": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg093.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "patrick",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-fetherston-whether-an-aged-man-ought-to-meddle-in-s": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg117.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "fetherston",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-white-whether-vice-is-sufficient-to-render-a-m": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg099.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "white",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-white-whether-the-passions-of-the-soul-or-dise": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg100.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "white",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-anon-laconic-apophthegms-or-remarkable-saying": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg082.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "",
+   "translator_unchecked": true,
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-fetherston-whether-water-or-fire-be-most-useful": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg128.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "fetherston",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-j-that-brute-beasts-make-use-of-reason": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg130.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "J.",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-an-abstract-of-a-comparison-betwixt-aris": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg122.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-a-breviate-of-a-discourse-showing-that-t": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg137.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-advice-to-bride-and-groom": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg078.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-conjugal-precepts": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg078.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-creech-plutarch-s-consolatory-letter-to-his-wif": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg111.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "creech",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-a-letter-of-condolence-to-apollonius": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg076.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-morgan-consolation-to-apollonius": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg076.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "morgan",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-phillips-concerning-the-fortune-or-virtue-of-alex": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg087.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "phillips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-brown-of-natural-affection-towards-one-s-offsp": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg098.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "brown",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-patrick-of-the-love-of-wealth": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg103.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "patrick",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-midgley-why-the-oracles-cease-to-give-answers": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg092.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "midgley",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-kippax-of-the-word-engraven-over-the-gate-of-ap": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg090.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "kippax",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-ag-of-the-face-appearing-within-the-orb-of": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg126.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "A.G.",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-g-of-fate": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg108.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "G.",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-of-garrulity-or-talkativeness": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg101.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-creech-a-discourse-concerning-socrates-s-daemon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg109.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "creech",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-g-of-herodotus-s-malice": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg123.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "G.",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-lancaster-of-envy-and-hatred": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg105.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lancaster",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-of-isis-and-osiris-or-of-the-ancient-rel": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg089.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-wherefore-the-pythian-priestess-now-ceas": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg091.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-lancaster-how-a-man-may-inoffensively-praise-himse": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg106.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "lancaster",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-concerning-such-whom-god-is-slow-to-puni": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg107.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-smith-the-contradictions-of-the-stoics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg136.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "smith",
+   "author_seen": "plutarch",
+   "source_years": [
+    1878
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-superstition": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg080.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-of-superstition-or-indiscreet-devotion": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg080.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-morgan-of-the-tranquillity-of-the-mind": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg096.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "morgan",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-morgan-of-moral-virtue": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg094.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "morgan",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-hoy-of-bashfulness": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg104.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "hoy",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-on-having-many-friends": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg073.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-goodwin-of-large-acquaintance-or-an-essay-to-pro": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg073.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "goodwin",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-concerning-the-procreation-of-the-soul-a": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg134.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-how-to-profit-by-one-s-enemies": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg072.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-hartcliffe-how-a-man-may-receive-advantage-and-prof": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg072.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "hartcliffe",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-dillingham-concerning-the-cure-of-anger-a-dialogue": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg095.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "dillingham",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-white-of-common-conceptions-against-the-stoics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg138.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "white",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-wheeler-of-curiosity-or-an-over-busy-inquisitive": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg102.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "wheeler",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-of-eating-of-flesh-tract-i": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg131.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-of-eating-of-flesh-tract-ii": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg132.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-patrick-of-banishment-or-flying-one-s-country": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg110.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "patrick",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-chance": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg074.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-of-fortune": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg074.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-oswald-concerning-the-fortune-of-the-romans": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg086.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "oswald",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-thomson-of-brotherly-love": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg097.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "thomson",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-smith-whether-the-athenians-were-more-renowned": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg088.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "smith",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-the-education-of-children": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg067.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-ford-a-discourse-touching-the-training-of-chi": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg067.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "ford",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-fetherston-concerning-the-first-principle-of-cold": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg127.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "fetherston",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-on-listening-to-lectures": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg069.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-hoy-of-hearing": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg069.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "hoy",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-which-are-the-most-crafty-water-animals": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg129.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-advice-about-keeping-well": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg077.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-poole-plutarch-s-rules-for-the-preservation-of": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg077.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "poole",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-smith-of-the-three-sorts-of-government-monarch": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg119.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "smith",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-virtue-and-vice": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg075.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-of-virtue-and-vice": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg075.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-smith-against-running-in-debt-or-taking-up-mon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg120.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "smith",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-chetwood-that-a-philosopher-ought-chiefly-to-conv": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg115.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "chetwood",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-chauncy-concerning-the-virtues-of-women": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg083.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "chauncy",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-baxter-that-it-is-not-possible-to-live-pleasura": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg139.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "baxter",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-oswald-parallels-or-a-comparison-between-the-gr": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg085.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "oswald",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-brown-plutarch-s-platonic-questions": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg133.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "brown",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-white-political-precepts": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg118.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "white",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-creech-symposiacs": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg112.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "creech",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-chauncy-greek-questions": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg084b.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "chauncy",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-brown-plutarch-s-natural-questions": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg125.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "brown",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-chauncy-roman-questions": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg084a.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "chauncy",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-how-the-young-man-should-study-poetry": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg068.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-ford-how-a-young-man-ought-to-hear-poems": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg068.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "ford",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-how-to-tell-a-flatterer-from-a-friend": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg070.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-tullie-how-to-know-a-flatterer-from-a-friend": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg070.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "tullie",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-how-a-man-may-become-aware-of-his-progre": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg071.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1927
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-todd-how-a-man-may-be-sensible-of-his-progres": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg071.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "tod",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-hinton-the-apophthegms-or-remarkable-sayings-of": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg081.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "hinton",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-babbitt-the-dinner-of-the-seven-wise-men": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg079.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "babbitt",
+   "author_seen": "plutarch",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-davis-the-banquet-of-the-seven-wise-men": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg079.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "davis",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-barcroft-lives-of-the-ten-orators": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0007.tlg121.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "barcroft",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0094.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "white",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-philips-concerning-music": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0094.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "philips",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0094.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "dowell",
+   "author_seen": "plutarch",
+   "source_years": [
+    1874
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

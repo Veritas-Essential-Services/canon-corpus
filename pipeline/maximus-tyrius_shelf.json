@@ -12,5 +12,27 @@
    "The Dissertations of Maximus Tyrius, vols. 1-2 in one scan (London, 1804)",
    "tr. Thomas Taylor"
   ]
+ },
+ "_surname": [
+  "maximus",
+  "tyrius"
+ ],
+ "_translators": {
+  "maximus-tyrius-taylor-dissertations": "taylor"
+ },
+ "_checks": {
+  "maximus-tyrius-taylor-dissertations": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "maximus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

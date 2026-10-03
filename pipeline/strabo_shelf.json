@@ -33,5 +33,69 @@
    "Horace Leonard Jones",
    "Translation published 1929: US public domain (in or before 1930). Perseus source line: Strabo. The Geography of Strabo, Vols. 3-6. Jones, Horace Leonard, translator. Cambridge, Mass.: Harvard University Press; London: William Heinemann, Ltd., 1924-1929 (printing)."
   ]
+ },
+ "_surname": [
+  "strabo"
+ ],
+ "_translators": {
+  "strabo-hamilton-falconer-v1": "hamilton",
+  "strabo-hamilton-falconer-v2": "hamilton",
+  "strabo-hamilton-falconer-v3": "hamilton",
+  "strabo-perseus-jones-geography-books-6-14": "jones"
+ },
+ "_checks": {
+  "strabo-hamilton-falconer-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Falconer; Hans Claude Hamilton",
+   "translator_match": true
+  },
+  "strabo-hamilton-falconer-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Falconer; Hans Claude Hamilton",
+   "translator_match": true
+  },
+  "strabo-hamilton-falconer-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Falconer; Hans Claude Hamilton",
+   "translator_match": true
+  }
+ },
+ "_perseus_checks": {
+  "strabo-perseus-jones-geography-books-6-14": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0099.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "jones",
+   "author_seen": "strabo",
+   "source_years": [
+    1924,
+    1929
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

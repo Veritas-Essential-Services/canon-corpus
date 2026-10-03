@@ -12,5 +12,25 @@
    "Herodian of Alexandria his History of Twenty Roman Caesars and Emperors, interpreted out of the Greek original (London, 1629)",
    "tr. attributed to James Maxwell (not named in the scan)"
   ]
+ },
+ "_surname": [
+  "herodian"
+ ],
+ "_translators": {},
+ "_translator_unchecked": {
+  "herodian-1629": "no single translator to check: attributed to James Maxwell (not named in the scan)"
+ },
+ "_checks": {
+  "herodian-1629": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1629",
+   "ia_date": "1629",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

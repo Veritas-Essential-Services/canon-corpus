@@ -40,5 +40,84 @@
    "John C. Rolfe",
    "Translation published 1914: US public domain (in or before 1930). Perseus source line: Suetonius. Rolfe, John C., translator. London: William Heineman; New York: The Macmillan Company, 1914."
   ]
+ },
+ "_surname": [
+  "suetonius"
+ ],
+ "_translators": {
+  "suetonius-thomson-forester": "thomson",
+  "suetonius-rolfe-v1": "rolfe",
+  "suetonius-rolfe-v2": "rolfe",
+  "suetonius-holland-1606": "holland",
+  "suetonius-perseus-rolfe-the-deified-julius": "rolfe"
+ },
+ "_checks": {
+  "suetonius-thomson-forester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "suetonius",
+   "translator_claimed": "thomson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M.D. Alexander Thomson",
+   "translator_match": true
+  },
+  "suetonius-rolfe-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "suetonius",
+   "translator_claimed": "rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "suetonius-rolfe-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "suetonius",
+   "translator_claimed": "rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "suetonius-holland-1606": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "suetonius",
+   "translator_claimed": "holland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1606",
+   "ia_date": "1606",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "suetonius-perseus-rolfe-the-deified-julius": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi1348.abo011.rolfe-eng1",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "rolfe",
+   "author_seen": "suetonius",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

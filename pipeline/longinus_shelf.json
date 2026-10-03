@@ -23,5 +23,54 @@
    "Longinus on the Sublime (Oxford, Clarendon Press, 1906)",
    "tr. A. O. Prickard"
   ]
+ },
+ "_surname": [
+  "longinus"
+ ],
+ "_translators": {
+  "longinus-havell-sublime": "havell",
+  "longinus-smith-sublime": "smith",
+  "longinus-prickard-sublime": "prickard"
+ },
+ "_checks": {
+  "longinus-havell-sublime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "translator_claimed": "havell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. L. Havell",
+   "translator_match": true
+  },
+  "longinus-smith-sublime": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "longinus-prickard-sublime": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "translator_claimed": "prickard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

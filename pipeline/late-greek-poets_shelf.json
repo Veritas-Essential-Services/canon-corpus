@@ -46,5 +46,117 @@
    "Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722)",
    "tr. William Diaper and John Jones (attributed; the title page names no translator)"
   ]
+ },
+ "_surname": [
+  "callimachus",
+  "aratus",
+  "tryphiodorus",
+  "musaeus",
+  "musæus",
+  "oppian"
+ ],
+ "_translators": {
+  "callimachus-dodd-hymns": "dodd",
+  "aratus-lamb-phenomena": "lamb",
+  "aratus-poste-skies": "poste",
+  "aratus-brown-phainomena": "brown",
+  "tryphiodorus-merrick-destruction-of-troy": "merrick",
+  "musaeus-arnold-hero-leander": "arnold",
+  "oppian-diaper-jones-halieuticks": "diaper"
+ },
+ "_identity_checked": {
+  "musaeus-arnold-hero-leander": "Title page reads 'Hero and Leander. From the Greek of [Musaeus, garbled by OCR]. Edwin Arnold'; the poem is Musaeus's Hero and Leander; checked by eye 2026-10-02."
+ },
+ "_checks": {
+  "callimachus-dodd-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "callimachus",
+   "translator_claimed": "dodd",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aratus-lamb-phenomena": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "callimachus",
+   "translator_claimed": "lamb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aratus-poste-skies": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "callimachus",
+   "translator_claimed": "poste",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aratus-brown-phainomena": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aratus",
+   "translator_claimed": "brown",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tryphiodorus-merrick-destruction-of-troy": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "callimachus",
+   "translator_claimed": "merrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1739",
+   "ia_date": "1739",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "musaeus-arnold-hero-leander": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "[187-?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oppian-diaper-jones-halieuticks": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "oppian",
+   "translator_claimed": "diaper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1722",
+   "ia_date": "1722",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

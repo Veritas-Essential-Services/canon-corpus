@@ -75,5 +75,174 @@
  "_excluded": {
   "pg59786": "index page",
   "John Jackson, Loeb Annals (1931-37)": "not cleared"
+ },
+ "_surname": [
+  "tacitus"
+ ],
+ "_translators": {
+  "tacitus-fyfe-histories": "fyfe",
+  "tacitus-gordon-germany": "gordon",
+  "tacitus-murphy-dialogue": "murphy",
+  "tacitus-church-brodribb-annals": "church",
+  "tacitus-church-brodribb-histories": "church",
+  "tacitus-hutton-peterson-dialogus-agricola-germania": "peterson",
+  "tacitus-gordon-v1": "gordon",
+  "tacitus-gordon-v2": "gordon",
+  "tacitus-gordon-v3": "gordon",
+  "tacitus-gordon-v4": "gordon",
+  "tacitus-gordon-v5": "gordon"
+ },
+ "_translator_unchecked": {
+  "tacitus-oxford-germany-agricola": "no single translator to check: the Oxford translation revised (with notes)"
+ },
+ "_checks": {
+  "tacitus-oxford-germany-agricola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tacitus-fyfe-histories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "fyfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Hamilton Fyfe",
+   "translator_match": true
+  },
+  "tacitus-gordon-germany": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Gordon",
+   "translator_match": true
+  },
+  "tacitus-murphy-dialogue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "murphy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tacitus-church-brodribb-annals": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-church-brodribb-histories": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-hutton-peterson-dialogus-agricola-germania": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "peterson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-gordon-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-gordon-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -20,5 +20,39 @@
  },
  "_excluded": {
   "J. P. Postgate, Loeb (1913)": "US PD by date; pending"
+ },
+ "_surname": [
+  "tibullus"
+ ],
+ "_translators": {
+  "tibullus-williams": "williams",
+  "tibullus-grainger-1759": "grainger"
+ },
+ "_checks": {
+  "tibullus-williams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tibullus",
+   "translator_claimed": "williams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodore Chickering Williams",
+   "translator_match": true
+  },
+  "tibullus-grainger-1759": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tibullus",
+   "translator_claimed": "grainger",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

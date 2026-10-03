@@ -21,5 +21,45 @@
    "Heliodorus, An Aethiopian Romance (Broadway Translations; 1923 per the catalogue)",
    "tr. Thomas Underdowne (1587), revised and partly rewritten by F. A. Wright"
   ]
+ },
+ "_surname": [
+  "heliodorus",
+  "longus",
+  "achilles",
+  "tatius",
+  "chariton",
+  "xenophon",
+  "parthenius"
+ ],
+ "_translators": {
+  "greek-romances-smith": "smith",
+  "heliodorus-underdowne-wright": "underdowne"
+ },
+ "_checks": {
+  "greek-romances-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "heliodorus",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rowland Smith",
+   "translator_match": true
+  },
+  "heliodorus-underdowne-wright": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "heliodorus",
+   "translator_claimed": "underdowne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

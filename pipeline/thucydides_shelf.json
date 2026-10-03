@@ -67,5 +67,144 @@
    "Thomas Hobbes",
    "Translation published 1843: US public domain (in or before 1930). Perseus source line: Thucydides. The English works of Thomas Hobbes of Malmesbury. Hobbes, Thomas. translator. London: John Bohn, 1843."
   ]
+ },
+ "_surname": [
+  "thucydides"
+ ],
+ "_translators": {
+  "thucydides-jowett-1881-v1": "jowett",
+  "thucydides-jowett-1881-v2": "jowett",
+  "thucydides-hobbes-1841": "hobbes",
+  "thucydides-smith-v1": "smith",
+  "thucydides-smith-v2": "smith",
+  "thucydides-smith-v3": "smith",
+  "thucydides-perseus-smith-history-of-the-peloponnesian-war": "smith",
+  "thucydides-perseus-dale-history-of-the-peloponnesian-war": "dale",
+  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": "hobbes"
+ },
+ "_checks": {
+  "thucydides-jowett-1881-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "jowett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thucydides-jowett-1881-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "jowett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thucydides-hobbes-1841": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "hobbes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thucydides-smith-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thucydides-smith-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thucydides-smith-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thucydides",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "thucydides-perseus-smith-history-of-the-peloponnesian-war": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "smith",
+   "author_seen": "thucydides",
+   "source_years": [
+    1919,
+    1923
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "thucydides-perseus-dale-history-of-the-peloponnesian-war": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0003.tlg001.1st1K-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "dale",
+   "author_seen": "thucydides",
+   "source_years": [
+    1851
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0003.tlg001.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "hobbes",
+   "author_seen": "thucydides",
+   "source_years": [
+    1843
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

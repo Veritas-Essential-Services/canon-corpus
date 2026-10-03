@@ -19,5 +19,43 @@
    "tr. J. M. Ashmand"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "hero",
+  "heron",
+  "ptolemy",
+  "ptolemaeus",
+  "aristarchus",
+  "euclid"
+ ],
+ "_translators": {
+  "hero-pneumatics-greenwood": "greenwood",
+  "ptolemy-tetrabiblos-ashmand": "ashmand"
+ },
+ "_checks": {
+  "hero-pneumatics-greenwood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hero",
+   "translator_claimed": "greenwood",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph George Greenwood",
+   "translator_match": true
+  },
+  "ptolemy-tetrabiblos-ashmand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ptolemy",
+   "translator_claimed": "ashmand",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. M. Ashmand",
+   "translator_match": true
+  }
+ }
 }

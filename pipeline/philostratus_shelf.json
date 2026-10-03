@@ -17,5 +17,40 @@
    "Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912)",
    "tr. J. S. Phillimore"
   ]
+ },
+ "_surname": [
+  "philostratus"
+ ],
+ "_translators": {
+  "philostratus-berwick-apollonius": "berwick",
+  "philostratus-phillimore-apollonius-v1": "phillimore"
+ },
+ "_checks": {
+  "philostratus-berwick-apollonius": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "philostratus",
+   "translator_claimed": "berwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "philostratus-phillimore-apollonius-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "philostratus",
+   "translator_claimed": "phillimore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

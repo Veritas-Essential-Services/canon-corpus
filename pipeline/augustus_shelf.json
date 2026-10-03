@@ -13,5 +13,24 @@
    "ed. and tr. William Fairley"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "augustus"
+ ],
+ "_translators": {
+  "augustus-res-gestae-fairley": "fairley"
+ },
+ "_checks": {
+  "augustus-res-gestae-fairley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "augustus",
+   "translator_claimed": "fairley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
 }

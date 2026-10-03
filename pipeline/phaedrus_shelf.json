@@ -13,5 +13,26 @@
    "tr. Henry T. Riley (prose) and Christopher Smart (verse)"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "phaedrus",
+  "phædrus"
+ ],
+ "_translators": {
+  "phaedrus-riley-smart": "riley"
+ },
+ "_checks": {
+  "phaedrus-riley-smart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "phaedrus",
+   "translator_claimed": "riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry T. Riley; Christopher Smart",
+   "translator_match": true
+  }
+ }
 }

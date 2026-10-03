@@ -45,5 +45,81 @@
   "pg59784": "an index page",
   "Rendall (1898), Jackson (1906), Collier (1701)": "PD; pending (IA)",
   "C. R. Haines, Loeb (1916)": "PD in US; pending"
+ },
+ "_surname": [
+  "aurelius",
+  "antoninus"
+ ],
+ "_translators": {
+  "marcus-aurelius-long": "long",
+  "marcus-aurelius-chrystal": "chrystal",
+  "marcus-aurelius-collier": "collier",
+  "marcus-aurelius-rendall": "rendall"
+ },
+ "_translator_unchecked": {
+  "marcus-aurelius-jackson-1906": "translator on the row (John Jackson (from the catalogue; the scan's title page names no translator)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "marcus-aurelius-long": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "long",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long",
+   "translator_match": true
+  },
+  "marcus-aurelius-chrystal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "chrystal",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George W. Chrystal",
+   "translator_match": true
+  },
+  "marcus-aurelius-collier": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "collier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1702",
+   "ia_date": "1702",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-rendall": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "rendall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-jackson-1906": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -32,5 +32,69 @@
  "_excluded": {
   "Watson, Bohn (1856)": "no scan located; pending",
   "institutioorator01quinuoft, institutioorator02quinuoft": "no text layer"
+ },
+ "_surname": [
+  "quintilian",
+  "quintilianus"
+ ],
+ "_translators": {
+  "quintilian-butler-v1": "butler",
+  "quintilian-butler-v2": "butler",
+  "quintilian-butler-v3": "butler",
+  "quintilian-butler-v4": "butler"
+ },
+ "_checks": {
+  "quintilian-butler-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920-22]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quintilian-butler-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quintilian-butler-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quintilian-butler-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintilian",
+   "translator_claimed": "butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

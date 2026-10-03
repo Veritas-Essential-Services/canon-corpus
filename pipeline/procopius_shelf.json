@@ -36,5 +36,76 @@
  "internet_archive": {},
  "_excluded": {
   "Dewing, Wars VII-VIII and Buildings (Loeb, 1924-40)": "not on Gutenberg; later vols. not PD; pending"
+ },
+ "_surname": [
+  "procopius"
+ ],
+ "_translators": {
+  "procopius-dewing-persian": "dewing",
+  "procopius-dewing-vandalic": "dewing",
+  "procopius-dewing-gothic": "dewing",
+  "procopius-stewart-buildings": "stewart"
+ },
+ "_translator_unchecked": {
+  "procopius-secret-history": "no single translator to check: None"
+ },
+ "_checks": {
+  "procopius-dewing-persian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "dewing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. B. Dewing",
+   "translator_match": true
+  },
+  "procopius-dewing-vandalic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "dewing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. B. Dewing",
+   "translator_match": true
+  },
+  "procopius-dewing-gothic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "dewing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. B. Dewing",
+   "translator_match": true
+  },
+  "procopius-secret-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "procopius-stewart-buildings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aubrey Stewart",
+   "translator_match": true
+  }
  }
 }

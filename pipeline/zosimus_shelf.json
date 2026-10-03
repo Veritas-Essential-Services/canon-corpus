@@ -12,5 +12,25 @@
    "The History of Count Zosimus, translated from the original Greek (London: J. Davis, 1814)",
    "tr. unnamed (not on the title page)"
   ]
+ },
+ "_surname": [
+  "zosimus"
+ ],
+ "_translators": {},
+ "_translator_unchecked": {
+  "zosimus-1814": "no single translator to check: unnamed (not on the title page)"
+ },
+ "_checks": {
+  "zosimus-1814": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "zosimus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

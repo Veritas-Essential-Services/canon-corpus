@@ -21,5 +21,40 @@
  },
  "_excluded": {
   "romanhistoryapp01whitgoog, romanhistoryapp00whitgoog": "other scans of the same volumes; lower OCR"
+ },
+ "_surname": [
+  "appian"
+ ],
+ "_translators": {
+  "appian-white-v1": "white",
+  "appian-white-v2": "white"
+ },
+ "_checks": {
+  "appian-white-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "appian",
+   "translator_claimed": "white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "appian-white-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "appian",
+   "translator_claimed": "white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

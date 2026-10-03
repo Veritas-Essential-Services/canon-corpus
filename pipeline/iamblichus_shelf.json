@@ -22,5 +22,39 @@
  "internet_archive": {},
  "_excluded": {
   "wilder-theurgia-en-1911": "Alexander Wilder's Theurgia (1911); IA text layer empty; pending"
+ },
+ "_surname": [
+  "iamblichus",
+  "jamblichus"
+ ],
+ "_translators": {
+  "iamblichus-taylor-pythagoras": "taylor",
+  "iamblichus-taylor-mysteries": "taylor"
+ },
+ "_checks": {
+  "iamblichus-taylor-pythagoras": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "iamblichus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  },
+  "iamblichus-taylor-mysteries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "iamblichus",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Taylor",
+   "translator_match": true
+  }
  }
 }

@@ -16,5 +16,26 @@
  "internet_archive": {},
  "_excluded": {
   "Hicks, Loeb (1925)": "US PD by date but Greek facing; pending"
+ },
+ "_surname": [
+  "laertius",
+  "diogenes"
+ ],
+ "_translators": {
+  "diogenes-laertius-yonge": "yonge"
+ },
+ "_checks": {
+  "diogenes-laertius-yonge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "laertius",
+   "translator_claimed": "yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  }
  }
 }

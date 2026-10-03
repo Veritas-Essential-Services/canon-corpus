@@ -84,5 +84,177 @@
   "pg55758": "The Boys' and Girls' Herodotus: an adaptation",
   "Henry Cary (Bohn, 1847)": "PD prose; pending (IA)",
   "A. D. Godley, Loeb (1920-25)": "on Perseus, US PD by date; pending"
+ },
+ "_surname": [
+  "herodotus"
+ ],
+ "_translators": {
+  "herodotus-macaulay-v2": "macaulay",
+  "herodotus-rawlinson-v1": "rawlinson",
+  "herodotus-rawlinson-v2": "rawlinson",
+  "herodotus-rawlinson-v3": "rawlinson",
+  "herodotus-rawlinson-v4": "rawlinson",
+  "herodotus-cary": "cary",
+  "herodotus-beloe-1821-v1": "beloe",
+  "herodotus-beloe-1821-v2": "beloe",
+  "herodotus-beloe-1821-v3": "beloe"
+ },
+ "_translator_unchecked": {
+  "herodotus-littlebury-1737-v1": "translator on the row (Isaac Littlebury) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "herodotus-littlebury-1737-v2": "translator on the row (Isaac Littlebury) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "herodotus-beloe-1821-v4": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "herodotus-macaulay-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "macaulay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. C. Macaulay",
+   "translator_match": true
+  },
+  "herodotus-rawlinson-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "rawlinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herodotus-rawlinson-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "rawlinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-rawlinson-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "rawlinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-rawlinson-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "rawlinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-cary": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "cary",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-littlebury-1737-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1737",
+   "ia_date": "MDCCXXXVII [1737]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herodotus-littlebury-1737-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1737",
+   "ia_date": "MDCCXXXVII [1737]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herodotus-beloe-1821-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "beloe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-beloe-1821-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "beloe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-beloe-1821-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "translator_claimed": "beloe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodotus-beloe-1821-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herodotus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

@@ -15,5 +15,26 @@
  },
  "_rights_checked": {
   "vegetius-clarke-1767": "Printed 1767; public domain by date. Translator per the archive.org catalogue title."
+ },
+ "_surname": [
+  "vegetius"
+ ],
+ "_translators": {},
+ "_translator_unchecked": {
+  "vegetius-clarke-1767": "translator on the row (John Clarke) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "vegetius-clarke-1767": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vegetius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Printed 1767; public domain by date. Translator per the archive.org catalogue title."
+  }
  }
 }

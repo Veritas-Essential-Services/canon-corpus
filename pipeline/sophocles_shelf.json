@@ -56,5 +56,92 @@
   "pg806": "Philoktetes (McNamee): a COPYRIGHTED Project Gutenberg eBook. Refused",
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts",
   "Plumptre, Sophocles (1865)": "PD verse, not on Gutenberg; pending (IA)"
+ },
+ "_surname": [
+  "sophocles"
+ ],
+ "_translators": {
+  "sophocles-campbell-seven": "campbell",
+  "sophocles-storr-theban": "storr",
+  "sophocles-murray-oedipus": "murray",
+  "sophocles-sheridan-philoctetes": "sheridan",
+  "sophocles-plumptre": "plumptre",
+  "sophocles-francklin-1759": "francklin"
+ },
+ "_checks": {
+  "sophocles-campbell-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "campbell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lewis Campbell",
+   "translator_match": true
+  },
+  "sophocles-storr-theban": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "storr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Storr",
+   "translator_match": true
+  },
+  "sophocles-murray-oedipus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "murray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Murray",
+   "translator_match": true
+  },
+  "sophocles-sheridan-philoctetes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "sheridan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Sheridan",
+   "translator_match": true
+  },
+  "sophocles-plumptre": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "plumptre",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-francklin-1759": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "francklin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

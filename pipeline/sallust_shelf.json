@@ -30,5 +30,69 @@
    "tr. William Rose (revised)"
   ]
  },
- "_excluded": {}
+ "_excluded": {},
+ "_surname": [
+  "sallust",
+  "sallustius"
+ ],
+ "_translators": {
+  "sallust-watson": "watson",
+  "sallust-rolfe": "rolfe",
+  "sallust-gordon-1744": "gordon",
+  "sallust-rose-1830": "rose"
+ },
+ "_checks": {
+  "sallust-watson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. S. Watson",
+   "translator_match": true
+  },
+  "sallust-rolfe": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sallust-gordon-1744": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "gordon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "[1744?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sallust-rose-1830": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust",
+   "translator_claimed": "rose",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
 }

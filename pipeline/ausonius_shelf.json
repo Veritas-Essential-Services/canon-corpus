@@ -19,5 +19,40 @@
  },
  "_excluded": {
   "ausoniuswithengl02ausouoft": "second scan of vol. 2"
+ },
+ "_surname": [
+  "ausonius"
+ ],
+ "_translators": {
+  "ausonius-evelyn-white-v1": "evelyn white",
+  "ausonius-evelyn-white-v2": "evelyn white"
+ },
+ "_checks": {
+  "ausonius-evelyn-white-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ausonius",
+   "translator_claimed": "evelyn white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ausonius-evelyn-white-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ausonius",
+   "translator_claimed": "evelyn white",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

@@ -88,5 +88,197 @@
    "George Long",
    "Translation published 1887: US public domain (in or before 1930). Perseus source line: Epictetus. The Discourses of Epictetus, with the Encheridion and Fragments. Long, George, translator. London: George Bell and Sons, 1887."
   ]
+ },
+ "_surname": [
+  "epictetus"
+ ],
+ "_translators": {
+  "epictetus-long-selection": "long",
+  "epictetus-crossley-golden-sayings": "crossley",
+  "epictetus-rolleston-teaching": "rolleston",
+  "epictetus-long-discourses-1877": "long",
+  "epictetus-matheson-1916-v1": "matheson",
+  "epictetus-matheson-1916-v2": "matheson",
+  "epictetus-higginson-works-v1": "higginson",
+  "epictetus-higginson-works-v2": "higginson",
+  "epictetus-carter": "carter",
+  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": "long",
+  "epictetus-perseus-long-fragments": "long",
+  "epictetus-perseus-higginson-fragments": "higginson",
+  "epictetus-perseus-long-the-encheiridion-or-manual": "long"
+ },
+ "_checks": {
+  "epictetus-long-selection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "long",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Long",
+   "translator_match": true
+  },
+  "epictetus-crossley-golden-sayings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "crossley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hastings Crossley",
+   "translator_match": true
+  },
+  "epictetus-rolleston-teaching": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "rolleston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. W. Rolleston",
+   "translator_match": true
+  },
+  "epictetus-long-discourses-1877": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "long",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "epictetus-matheson-1916-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "matheson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "epictetus-matheson-1916-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "matheson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "epictetus-higginson-works-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "higginson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "epictetus-higginson-works-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "higginson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "epictetus-carter": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "carter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "epictetus-perseus-long-arrian-s-discourses-of-epictetus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "long",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "epictetus-perseus-long-fragments": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg003a.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "long",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "epictetus-perseus-higginson-fragments": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "higginson",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "epictetus-perseus-long-the-encheiridion-or-manual": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0557.tlg002.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "long",
+   "author_seen": "epictetus",
+   "source_years": [
+    1890
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

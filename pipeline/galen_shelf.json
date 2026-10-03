@@ -21,5 +21,43 @@
    "Arthur John Brock",
    "Translation published 1916: US public domain (in or before 1930). Perseus source line: Galen. On the Natural Faculties. Brock, Arthur John, translator. London: William Heinemann Ltd.; Cambridge, MA.: Harvard University Press, 1916."
   ]
+ },
+ "_surname": [
+  "galen",
+  "galenus"
+ ],
+ "_translators": {
+  "galen-brock-natural-faculties": "brock",
+  "galen-perseus-brock-on-the-natural-faculties": "brock"
+ },
+ "_checks": {
+  "galen-brock-natural-faculties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "galen",
+   "translator_claimed": "brock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur John Brock",
+   "translator_match": true
+  }
+ },
+ "_perseus_checks": {
+  "galen-perseus-brock-on-the-natural-faculties": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0057.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "brock",
+   "author_seen": "galen",
+   "source_years": [
+    1916
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

@@ -35,5 +35,66 @@
  "_excluded": {
   "worksofarchimede029517mbp": "second scan of the 1897 Works, slightly lower OCR",
   "Heath, Archimedes (PG 35550)": "a short study, not a translation; not taken"
+ },
+ "_surname": [
+  "archimedes"
+ ],
+ "_translators": {
+  "archimedes-method-robinson": "german",
+  "archimedes-heath-works": "heath",
+  "archimedes-heath-method": "heath",
+  "apollonius-perga-heath-conics": "heath"
+ },
+ "_checks": {
+  "archimedes-method-robinson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "translator_claimed": "german",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archimedes-heath-works": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "translator_claimed": "heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "archimedes-heath-method": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "translator_claimed": "heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "apollonius-perga-heath-conics": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "archimedes",
+   "translator_claimed": "heath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

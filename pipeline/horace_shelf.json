@@ -64,5 +64,136 @@
    "John Conington",
    "Translation published 1882: US public domain (in or before 1930). Perseus source line: Horace. The Odes and Carmen Saeculare of Horace. Conington, John, translator. London: George Bell and Sons, 1882."
   ]
+ },
+ "_surname": [
+  "horace",
+  "horatius"
+ ],
+ "_translators": {
+  "horace-conington-odes": "conington",
+  "horace-conington-satires-epistles": "conington",
+  "horace-field-sabine-farm": "eugene",
+  "horace-fairclough-satires-epistles": "fairclough",
+  "horace-smart-buckley-1869": "smart",
+  "horace-smart-1756-v2": "smart",
+  "horace-perseus-conington-odes": "conington"
+ },
+ "_translator_unchecked": {
+  "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
+  "horace-smart-1756-v1": "translator on the row (Christopher Smart (prose, first unrevised form)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "horace-conington-odes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "conington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Conington",
+   "translator_match": true
+  },
+  "horace-conington-satires-epistles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "conington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Conington",
+   "translator_match": true
+  },
+  "horace-literal-works": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "horace-field-sabine-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "eugene",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eugene Field",
+   "translator_match": true
+  },
+  "horace-fairclough-satires-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "fairclough",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "horace-smart-buckley-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "smart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-smart-1756-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1756",
+   "ia_date": "1756",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horace-smart-1756-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "smart",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1756",
+   "ia_date": "1756",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "horace-perseus-conington-odes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0893.phi001.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "conington",
+   "author_seen": "horace",
+   "source_years": [
+    1882
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }

@@ -26,5 +26,55 @@
  "_excluded": {
   "epigramsmartial02bohngoog": "1904 printing of the same edition; lower OCR",
   "epigramsofmarti00mart": "1865 printing; empty text layer"
+ },
+ "_surname": [
+  "martial",
+  "martialis"
+ ],
+ "_translators": {
+  "martial-ker-v1": "ker",
+  "martial-ker-v2": "ker"
+ },
+ "_translator_unchecked": {
+  "martial-bohn": "no single translator to check: None"
+ },
+ "_checks": {
+  "martial-bohn": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-ker-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "translator_claimed": "ker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919-1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-ker-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "translator_claimed": "ker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919-1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

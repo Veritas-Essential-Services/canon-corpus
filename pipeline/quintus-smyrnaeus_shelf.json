@@ -13,5 +13,26 @@
    "tr. Arthur S. Way"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "quintus",
+  "smyrnaeus"
+ ],
+ "_translators": {
+  "quintus-smyrnaeus-way": "way"
+ },
+ "_checks": {
+  "quintus-smyrnaeus-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "quintus",
+   "translator_claimed": "way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur S. Way",
+   "translator_match": true
+  }
+ }
 }

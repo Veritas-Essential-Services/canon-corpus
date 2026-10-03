@@ -41,5 +41,91 @@
  "internet_archive": {},
  "_excluded": {
   "Cary, Loeb (1914-27)": "US PD by date but Greek facing; pending"
+ },
+ "_surname": [
+  "dio",
+  "cassius"
+ ],
+ "_translators": {
+  "dio-foster-v1": "foster",
+  "dio-foster-v2": "foster",
+  "dio-foster-v3": "foster",
+  "dio-foster-v4": "foster",
+  "dio-foster-v5": "foster",
+  "dio-foster-v6": "foster"
+ },
+ "_checks": {
+  "dio-foster-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dio",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Baldwin Foster",
+   "translator_match": true
+  },
+  "dio-foster-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dio",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Baldwin Foster",
+   "translator_match": true
+  },
+  "dio-foster-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dio",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Baldwin Foster",
+   "translator_match": true
+  },
+  "dio-foster-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dio",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Baldwin Foster",
+   "translator_match": true
+  },
+  "dio-foster-v5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dio",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Baldwin Foster",
+   "translator_match": true
+  },
+  "dio-foster-v6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dio",
+   "translator_claimed": "foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Baldwin Foster",
+   "translator_match": true
+  }
  }
 }

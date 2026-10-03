@@ -26,5 +26,60 @@
    "Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929)",
    "tr. E. S. Forster (Florus), J. C. Rolfe (Nepos)"
   ]
+ },
+ "_surname": [
+  "justin",
+  "nepos",
+  "eutropius",
+  "florus",
+  "velleius",
+  "paterculus",
+  "justinus"
+ ],
+ "_translators": {
+  "justin-nepos-eutropius-watson": "watson",
+  "sallust-florus-velleius-watson": "watson",
+  "florus-forster-nepos-rolfe": "forster"
+ },
+ "_checks": {
+  "justin-nepos-eutropius-watson": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sallust-florus-velleius-watson": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "florus-forster-nepos-rolfe": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "forster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
  }
 }

@@ -12,5 +12,25 @@
    "tr. Thomas Hodgkin"
   ]
  },
- "internet_archive": {}
+ "internet_archive": {},
+ "_surname": [
+  "cassiodorus"
+ ],
+ "_translators": {
+  "cassiodorus-hodgkin-letters": "hodgkin"
+ },
+ "_checks": {
+  "cassiodorus-hodgkin-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cassiodorus",
+   "translator_claimed": "hodgkin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Hodgkin",
+   "translator_match": true
+  }
+ }
 }

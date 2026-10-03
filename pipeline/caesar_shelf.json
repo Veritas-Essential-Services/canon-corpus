@@ -37,5 +37,83 @@
  },
  "_excluded": {
   "Arthur Golding (1565)": "PD; pending"
+ },
+ "_surname": [
+  "caesar",
+  "cæsar",
+  "cesar"
+ ],
+ "_translators": {
+  "caesar-mcdevitte-bohn": "mcdevitte",
+  "caesar-edwards-gallic-war": "edwards",
+  "caesar-peskett-civil-wars": "peskett",
+  "caesar-golding-1565": "golding",
+  "caesar-duncan-1837": "duncan"
+ },
+ "_checks": {
+  "caesar-mcdevitte-bohn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caesar",
+   "translator_claimed": "mcdevitte",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. A. McDevitte",
+   "translator_match": true
+  },
+  "caesar-edwards-gallic-war": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caesar",
+   "translator_claimed": "edwards",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caesar-peskett-civil-wars": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caesar",
+   "translator_claimed": "peskett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caesar-golding-1565": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caesar",
+   "translator_claimed": "golding",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1565",
+   "ia_date": "1565",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caesar-duncan-1837": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "caesar",
+   "translator_claimed": "duncan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
  }
 }

@@ -20,5 +20,39 @@
  "internet_archive": {},
  "_excluded": {
   "Wright vol. 3 (Loeb, 1923)": "not on Gutenberg; pending"
+ },
+ "_surname": [
+  "julian",
+  "julianus"
+ ],
+ "_translators": {
+  "julian-wright-v1": "wright",
+  "julian-wright-v2": "wright"
+ },
+ "_checks": {
+  "julian-wright-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "julian",
+   "translator_claimed": "wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Wilmer Cave Wright",
+   "translator_match": true
+  },
+  "julian-wright-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "julian",
+   "translator_claimed": "wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Wilmer Cave Wright",
+   "translator_match": true
+  }
  }
 }

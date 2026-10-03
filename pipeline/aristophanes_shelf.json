@@ -47,5 +47,86 @@
   "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
   "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "PD verse with the Greek facing; pending (IA)",
   "J. Hookham Frere (1840)": "PD verse (Acharnians, Knights, Birds, Frogs); pending (IA)"
+ },
+ "_surname": [
+  "aristophanes"
+ ],
+ "_translators": {
+  "aristophanes-hickie-clouds": "hickie",
+  "aristophanes-rogers-frogs": "rogers",
+  "aristophanes-lindsay-lysistrata": "lindsay",
+  "aristophanes-frere-morley": "frere"
+ },
+ "_translator_unchecked": {
+  "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
+  "aristophanes-athenian-v2": "no single translator to check: anonymous (The Athenian Society, 1912)"
+ },
+ "_checks": {
+  "aristophanes-athenian-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aristophanes-athenian-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aristophanes-hickie-clouds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "hickie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Hickie",
+   "translator_match": true
+  },
+  "aristophanes-rogers-frogs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "rogers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aristophanes-lindsay-lysistrata": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "lindsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jack Lindsay",
+   "translator_match": true
+  },
+  "aristophanes-frere-morley": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "frere",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
  }
 }

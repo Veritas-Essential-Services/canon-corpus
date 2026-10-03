@@ -3,6 +3,7 @@
 
     python3 pipeline/fetch_perseus.py <shelf>          # from canon-corpus root
     python3 pipeline/fetch_perseus.py <shelf> --verify # re-check files on disk
+    python3 pipeline/fetch_perseus.py <shelf> --verify --record  # and commit the findings
 Writes data/corpus/<shelf>/<slug>.xml and <shelf>_perseus_report.json.
 
 A separate file on purpose: fetch_shelf.py ignores the "perseus" key, so a
@@ -27,6 +28,15 @@ Perseus's and is licensed separately: the licence stated in the file is
 recorded, else the repository's README statement (CC BY-SA 4.0 for both
 canonical repos). That licence travels with the file in the report, so a
 consumer sees "attribution + share-alike" without opening it.
+Identity, as fetch_shelf.py does it since the 2026-10-02 review (optional
+keys, all backward compatible): `_surname` (the author's names) must appear
+as a whole word in the file's header; `_translators` ({slug: surname}), when
+it names the item, replaces the surname taken from the row; names match as
+whole words, never substrings; `_identity_checked` ({slug: reason}) keeps a
+would-be MISMATCH that a person confirmed. `--verify --record` writes
+"_perseus_checks" into the shelf (committed: findings only, no text), so the
+evidence outlives the gitignored report; fetch_shelf.py's "_checks" covers
+the other kinds and does not see Perseus rows.
 Resumable: a file already on disk is kept. A failed fetch is reported, never
 written as an empty file.
 """
@@ -77,22 +87,46 @@ def get(urls, tries=3):
                 time.sleep(2 ** i)
     raise RuntimeError(f"{urls[0]}: {err}")
 
+def _pat(phrase):
+    """A name as whole words (same rule as fetch_shelf.py): spaces match runs
+    of spaces or hyphens, an apostrophe is optional."""
+    words = [re.escape(w).replace("'", "['\u2019\u2018`]?") for w in phrase.lower().split()]
+    return re.compile(r"(?<![a-z])" + r"[\s\-]+".join(words) + r"(?![a-z])")
+
 def check(data, tail, translator, slug, shelf):
-    """Identity + rights. Returns the report fields; raises to refuse."""
+    """Identity + rights. Returns the report fields; raises to refuse. An
+    identity miss is kept only when `_identity_checked` names the slug; the
+    rights gate runs either way and is never overridden here."""
+    r, misses = _check(data, tail, translator, slug, shelf)
+    if misses:
+        why = shelf.get("_identity_checked", {}).get(slug)
+        if not why:
+            raise RuntimeError(misses[0])
+        r["identity_override"] = f"{'; '.join(misses)} -- kept: {why}"
+    return r
+
+def _check(data, tail, translator, slug, shelf):
     text = data.decode("utf-8", "replace")
     if "<TEI" not in text[:5000]:
         raise RuntimeError("not a TEI file")
     head = text[:text.find("</teiHeader>")] if "</teiHeader>" in text else text[:20000]
-    r = {"urn_in_file": tail in text}
+    head_l = head.lower()
+    r, misses = {"urn_in_file": tail in text}, []
+    surnames = shelf.get("_surname")
+    if surnames:
+        r["author_seen"] = next((n for n in surnames if _pat(n).search(head_l)), None)
+        if not r["author_seen"]:
+            misses.append(f"MISMATCH: surname {surnames} never appears as a word in the file's header")
     # "Vince, J. H." -> Vince; "J. H. Vince" -> Vince; "W. R. M. Lamb (ed.)" -> Lamb
     who = re.sub(r"\(.*?\)", "", translator or "").split(" and ")[0].strip()
     sn = who.split(",")[0].strip() if "," in who else (who.split() or [""])[-1]
     if who in ("", "?") or who.lower().startswith(("unnamed", "anonymous")):
         sn = ""  # nothing to check against; flagged, not refused
         r["translator_unchecked"] = True
+    sn = shelf.get("_translators", {}).get(slug) or sn
     r["translator_checked"] = sn
-    if sn and sn.lower() not in head.lower():
-        raise RuntimeError(f"MISMATCH: translator '{sn}' not in the file's header")
+    if sn and not _pat(sn).search(head_l):
+        misses.append(f"MISMATCH: translator '{sn}' not in the file's header")
     src = re.search(r"<sourceDesc.*?</sourceDesc>", head, re.S)
     # tags stripped first: years inside attributes (archive.org ids such as
     # in.ernet.dli.2015.12682) are not printing dates
@@ -109,7 +143,7 @@ def check(data, tail, translator, slug, shelf):
         r["rights_override"] = why
     if not years:
         r["rights_flag"] = "no year in sourceDesc: date from the shelf's rights_note only"
-    return r
+    return r, misses
 
 def main():
     if len(sys.argv) < 2:
@@ -161,6 +195,30 @@ def main():
             os.replace(rep_path + ".tmp", rep_path)
     bad = [s for s, r in report.items() if s in rows and r["status"] == "FAILED"]
     print(f"{len(rows)} perseus items, {len(bad)} failed: {bad}")
+    if verify and "--record" in sys.argv[2:]:
+        record(name, {s: report[s] for s in rows if s in report})
+
+RECORD_KEYS = ("urn", "repo", "translator_checked", "translator_unchecked", "author_seen",
+               "source_years", "rights_flag", "rights_override", "markup_licence_in_file",
+               "markup_licence_repo", "identity_override", "status", "error")
+
+def record(name, found):
+    """Commit the findings into the shelf as "_perseus_checks" (no body text),
+    keeping the shelf file's own indent."""
+    path = os.path.join(HERE, f"{name}_shelf.json")
+    raw = open(path, encoding="utf-8").read()
+    second = raw.split("\n")[1] if "\n" in raw else ""
+    indent = (len(second) - len(second.lstrip())) or 1
+    shelf = json.loads(raw)
+    day = time.strftime("%Y-%m-%d")
+    shelf["_perseus_checks"] = {
+        s: {"checked": day, "identity": "MISMATCH" if r["status"] == "FAILED" else
+            "identity_override" if r.get("identity_override") else "ok",
+            **{k: r[k] for k in RECORD_KEYS if k in r and r[k] not in (None, [])}}
+        for s, r in found.items()}
+    open(path + ".tmp", "w", encoding="utf-8").write(json.dumps(shelf, indent=indent, ensure_ascii=False) + "\n")
+    os.replace(path + ".tmp", path)
+    print(f"recorded _perseus_checks for {len(found)} items in {name}_shelf.json")
 
 if __name__ == "__main__":
     main()
