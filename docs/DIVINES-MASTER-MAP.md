@@ -5084,6 +5084,15 @@ Shelf: `pipeline/schoolcraft_shelf.json` (2026-10-02; added at the coordinator's
 | Algic Researches, vol. 2 | have | PG 35175, `schoolcraft-algic-researches-2` (435 units) |
 | The Indian Fairy Book, from the Original Legends (Stokes, 1916; a reprint of the 1856 collection) | have | PG 48469, `schoolcraft-indian-fairy-book` (1716 units) |
 
+## Frank Hamilton Cushing
+
+Shelf: `pipeline/cushing_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Zuñi tales and creation myths recorded while he lived at Zuñi Pueblo. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Zuñi Folk Tales | have | PG 54682, `cushing-zuni-folk-tales` (2469 units) |
+| Outlines of Zuñi Creation Myths | have | PG 48342, `cushing-outlines-of-zuni-creation-myths` (504 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

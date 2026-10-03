@@ -1,0 +1,43 @@
+{
+ "_about": "Frank Hamilton Cushing's (1857-1900) Zuñi tales and creation myths, recorded while he lived at Zuñi Pueblo. A collector's English versions. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Frank Hamilton Cushing",
+ "_name_words": [
+  "cushing"
+ ],
+ "_surname": [
+  "cushing"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cushing-zuni-folk-tales": [
+   54682,
+   "Zuñi Folk Tales"
+  ],
+  "cushing-outlines-of-zuni-creation-myths": [
+   48342,
+   "Outlines of Zuñi Creation Myths"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cushing-zuni-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cushing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cushing-outlines-of-zuni-creation-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cushing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

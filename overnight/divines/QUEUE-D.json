@@ -897,8 +897,10 @@
     {
       "id": "cushing",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: cushing; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:35:35-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:35:35-05:00",
+      "finished": "2026-10-02T20:49:34-05:00",
+      "notes": "2/2 fetched (Gutenberg 54682, 48342), 2,973 units, 9 ~2 ids."
     },
     {
       "id": "mooney",
