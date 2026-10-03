@@ -4522,6 +4522,17 @@ Shelf: `pipeline/ingelow_shelf.json` (2026-10-02; added at the coordinator's rel
 | ingelow-duplicate | excluded | Mopsa the Fairy (PG 67087): a later illustrated printing |
 | ingelow-other | excluded | her Poems (PG 13223-13224) and Fated to Be Free (12303) |
 
+## Frank R. Stockton
+
+Shelf: `pipeline/stockton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His fairy tales; the 1922 school selection is nested section > tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bee-Man of Orn and Other Fanciful Tales | have | PG 12067, `stockton-bee-man-of-orn` (1070 units) |
+| Ting-a-ling | have | PG 20836, `stockton-ting-a-ling` (484 units) |
+| Fanciful Tales, ed. Mary E. Burt (school edition, 1922 copyright) | have | PG 71032, `stockton-fanciful-tales` (650 units) |
+| stockton-adult | excluded | The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,40 @@
+{
+ "_about": "Frank R. Stockton's (1834-1902) fairy tales: The Bee-Man of Orn and Other Fanciful Tales, Ting-a-ling, and the school selection Fanciful Tales (ed. Mary E. Burt, 1922), whose four tales from The Bee-Man of Orn make it 42% the same text (two witnesses; mint once). Clean Gutenberg text; public domain. His adult novels and stories are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Frank R. Stockton",
+ "_name_words": [
+  "bee",
+  "orn",
+  "ting",
+  "fanciful",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stockton-bee-man-of-orn": [
+   12067,
+   "The Bee-Man of Orn and Other Fanciful Tales"
+  ],
+  "stockton-ting-a-ling": [
+   20836,
+   "Ting-a-ling"
+  ],
+  "stockton-fanciful-tales": [
+   71032,
+   "Fanciful Tales, ed. Mary E. Burt (school edition, 1922 copyright)",
+   {
+    "levels": [
+     {
+      "re": "(FANCIFUL TALES|SUGGESTIONS TO TEACHERS|PREFACE|CONTENTS|LIST OF ILLUSTRATIONS|INTRODUCTION)$"
+     },
+     {
+      "re": "(OLD PIPES AND THE DRYAD|THE BEE-MAN OF ORN|THE CLOCKS OF RONDAINE|THE GRIFFIN AND THE MINOR CANON|THE CHRISTMAS TRUANTS)$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "stockton-adult": "The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch"
+ }
+}
