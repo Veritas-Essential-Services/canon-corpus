@@ -1,0 +1,59 @@
+{
+ "_about": "Jack London's two dog novels: The Call of the Wild and White Fang (both undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jack London",
+ "_name_words": [
+  "london"
+ ],
+ "_surname": [
+  "jack london"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jlondon-call-of-the-wild": [
+   215,
+   "The Call of the Wild",
+   {
+    "contents_only": true
+   }
+  ],
+  "jlondon-white-fang": [
+   910,
+   "White Fang",
+   {
+    "levels": [
+     {
+      "re": "PART [IVX]+$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+ [A-Z].*$",
+      "max": 120
+     }
+    ],
+    "start": "PART I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jlondon-call-of-the-wild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-white-fang": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
