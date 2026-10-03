@@ -515,6 +515,113 @@
       "status": "done",
       "finished": "2026-10-02T19:42:47-05:00",
       "notes": "1/1 fetched (Gutenberg 36674), 732 units, 0 ~2 ids."
+    },
+    {
+      "id": "edda-widen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Thorpe's Eddas and Morris's Volsunga on the Poetic Edda shelf; world folk-tale batch; no minting",
+      "status": "done",
+      "finished": "2026-10-02T19:49:56-05:00",
+      "notes": "3/3 fetched (Gutenberg 73533, 14726, 1152), 9,018 units, 20 ~2 ids."
+    },
+    {
+      "id": "kalevala-kirby",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Kirby's Kalevala as a second witness; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "yeats-stories",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Yeats's Secret Rose and Red Hanrahan; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "grace-james",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: grace-james; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "griffis",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: griffis; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "dayrell",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: dayrell; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "cronise-ward",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: cronise-ward; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "bleek",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: bleek; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "fillmore",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: fillmore; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "mijatovich",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: mijatovich; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "petrovitch",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: petrovitch; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "frere",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: frere; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "lal-behari-day",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: lal-behari-day; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "crooke-rouse",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: crooke-rouse; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "natesa-sastri",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: natesa-sastri; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "bain",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: bain; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "giles-liaozhai",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: giles-liaozhai; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "zitkala-sa",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: zitkala-sa; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "eastman",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: eastman; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "busk",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: busk; world folk-tale batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "webster-basque",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: webster-basque; world folk-tale batch; no minting",
+      "status": "running"
     }
   ]
 }

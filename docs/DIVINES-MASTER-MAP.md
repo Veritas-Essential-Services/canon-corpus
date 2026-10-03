@@ -3710,8 +3710,9 @@ Shelf: `pipeline/poetic-edda_shelf.json` (2026-10-02; added at the coordinator's
 | Work | Status | Where |
 |---|---|---|
 | The Poetic Edda, tr. Henry Adams Bellows (1923) | have | PG 73533, `edda-bellows` (4703 units) |
-| edda-other-translations | excluded | Thorpe and Blackwell's Elder and Younger Eddas (PG 14726, 1866) and Morris and Magnusson's Volsunga Saga with Edda excerpts (PG 1152): other translations, not named by the relay; candidates for a later batch |
-| edda-retellings | excluded | Faraday's The Edda (PG 13007-13008), Guerber's Myths of the Norsemen (28497), Wilmot-Buxton (29551): studies and retellings |
+| The Elder Eddas of Saemund Sigfusson, tr. Benjamin Thorpe, and the Younger Eddas of Snorre Sturleson, tr. I. A. Blackwell (Norrœna Society, 1906) | have | PG 14726, `edda-thorpe-blackwell` (3027 units) |
+| The Story of the Volsungs (Volsunga Saga), with Excerpts from the Poetic Edda, tr. Eiríkr Magnússon and William Morris | have | PG 1152, `edda-volsunga-morris` (1288 units) |
+| edda-retellings | excluded | Faraday's The Edda (PG 13007-13008), Wilmot-Buxton (29551): studies and retellings; Guerber's Myths of the Norsemen (28497) is held on guerber_shelf.json |
 | edda-prose | excluded | Snorri's Prose (Younger) Edda is on the Sturluson shelf |
 
 ## The Kalevala (Crawford)
