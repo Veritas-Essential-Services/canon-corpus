@@ -512,3 +512,6 @@
 
 ## 2026-10-03 02:42 CDT — george-smeaton done
 - `pipeline/george-smeaton_shelf.json`: 3 IA volumes of raw OCR, median 98.5%, about 3.5 MB; title pages read (1868, 1870, 1882). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — john-kennedy-dingwall done
+- `pipeline/john-kennedy-dingwall_shelf.json`: 2 IA volumes of raw OCR, median 98.3%. Gaelic items under his name are left out of this English shelf. `--verify --record`: 0 mismatched. 0 uids minted.

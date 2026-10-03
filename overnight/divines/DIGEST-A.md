@@ -216,6 +216,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | Robert S. Candlish | robert-candlish_shelf.json | none | 6 (Fatherhood of God, 1865; The Atonement, 1861; Life in a Risen Saviour, 1858; Examination of Maurice, 1854; Reason and Revelation, 1864; Ephesians, 1875) | none | Memorials of Candlish (1880), a book about him |
 | Hugh Martin | hugh-martin_shelf.json | none | 4 (The Atonement, 1877; The Prophet Jonah, 1889 reissue; Westminster Doctrine of Inspiration, 1890; Letters to Marcus Dods, 1877) | none | Gaelic items catalogued under him |
 | George Smeaton | george-smeaton_shelf.json | none | 3 (The Atonement as Taught by Christ Himself, 1868; as Taught by the Apostles, 1870; The Doctrine of the Holy Spirit, 1882) | none | none |
+| John Kennedy of Dingwall | john-kennedy-dingwall_shelf.json | none | 2 (The Days of the Fathers in Ross-shire, Toronto 1867; The Apostle of the North, Nelson 1866) | none | his Gaelic sermons and addresses |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

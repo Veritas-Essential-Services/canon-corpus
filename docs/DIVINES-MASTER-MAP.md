@@ -1828,6 +1828,16 @@ Slugs `smeaton-*`.
 | The Doctrine of the Atonement as Taught by Christ Himself (T. and T. Clark, 1868) | have-raw | IA (identifiers in the shelf) |
 | The Doctrine of the Atonement as Taught by the Apostles (T. and T. Clark, 1870) | have-raw | IA |
 | The Doctrine of the Holy Spirit (T. and T. Clark, 1882) | have-raw | IA |
+
+
+## John Kennedy of Dingwall (round 11, my pick, 2026-10-03)
+
+Slugs `jkennedy-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Days of the Fathers in Ross-shire (Toronto: J. Campbell, MDCCCLXVII) | have-raw | IA (identifiers in the shelf) |
+| The Apostle of the North: the Life of Dr. M'Donald (Nelson, 1866) | have-raw | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
