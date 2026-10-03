@@ -87,12 +87,12 @@
   "horace-smart-buckley-1869": "C. Smart",
   "horace-lonsdale-lee-1874": "James Lonsdale",
   "horace-lytton-1869": "Lord Lytton",
-  "horace-gladstone-1894": "W. E. Gladstone"
+  "horace-gladstone-1894": "W. E. Gladstone",
+  "horace-bennett-loeb-odes": "Bennett"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
-  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR",
-  "horace-bennett-loeb-odes": "title page OCRs the name as 'C. E, BENNETT' (comma for the second point), so the claim is not matched as written"
+  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR"
  },
  "_checks": {
   "horace-conington-odes": {
@@ -221,6 +221,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horace",
+   "translator_claimed": "Bennett",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
@@ -237,5 +239,8 @@
  },
  "_rights_checked": {
   "horace-bennett-loeb-odes": "Title page read: Bennett's Loeb Odes and Epodes, Harvard/Heinemann; the date OCRs as '1912' (the translation was first published 1914). The half-title lists later series editors (L. A. Post, E. H. Warmington), so the scan is a later impression; it carries no revision notice and its bibliography ends in 1912. Bennett died in 1921. Taken as the 1914 text, US public domain."
+ },
+ "_identity_checked": {
+  "horace-bennett-loeb-odes": "translator claimed by surname only: the title page OCRs the full name as 'C. E, BENNETT' (comma for the second point), which a full-name match cannot meet; the surname is matched as a word on the title page and again in the series list"
  }
 }
