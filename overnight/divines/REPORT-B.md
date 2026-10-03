@@ -268,3 +268,7 @@
 - historia-augusta (new shelf): Magie's Loeb Scriptores Historiae Augustae vols. I (MCMXXI) and II (MCMXXIV), first printings, OCR 0.89-0.90; author check per the biographers' names (Spartianus, Capitolinus, Lampridius, Vopiscus). Vol. III (1932) is past the line.
 - fronto (new shelf): Haines's Loeb Correspondence of Fronto vols. I (MCMXIX) and II (MCMXX), first printings, OCR 0.82-0.83.
 - Seen and not taken: IA's 1991/1993 reprints of the Magie volumes and a 1988 reprint of Fronto vol. II (which follows Haines's 1929 revision); first printings preferred.
+
+## 2026-10-03 00:58 CDT — Held volumes: one replaced
+- quintilian-butler-v1-1921: Butler's Quintilian vol. 1 from a DLI scan (OCR 0.91) whose imprint reads only 'First printed 1921', with no addendum and no year after 1930. It replaces the held quintilian-butler-v1, which carried the 1980 Bibliographical Addendum. Listed in DIGEST-B as a decision (later impression).
+- Re-searched the other held volumes for clean printings: Rolfe's Suetonius vol. 1 (only the 1951 revision, in a 1970 printing), Miller's Metamorphoses vol. 1 (1971 printing), Williams's Letters to Friends vol. 3 (a 1972 printing with a 1971 note), Wright's Julian (Greek facing). None taken.

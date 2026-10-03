@@ -468,6 +468,14 @@
    "started": "2026-10-03T00:53:55-05:00",
    "finished": "2026-10-03T00:56:01-05:00",
    "notes": "1990s reprints of the same Magie volumes and the 1988 Fronto II reprint were seen and not taken"
+  },
+  {
+   "id": "quintilian-v1-replacement",
+   "status": "done",
+   "scope": "Butler's Quintilian vol. 1 without the 1980 addendum, from a DLI scan; checked held volumes for clean printings",
+   "started": "2026-10-03T00:56:01-05:00",
+   "finished": "2026-10-03T00:58:17-05:00",
+   "notes": "Suetonius v1 (1951 revision), Ovid Miller v1 (1971 printing), Cicero Friends v3 (1971 note), Julian (Greek facing) still held"
   }
  ]
 }

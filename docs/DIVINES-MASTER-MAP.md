@@ -2951,6 +2951,7 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | The Institutio Oratoria of Quintilian, vol. 2: Books IV-VI | H. E. Butler | `quintilian-butler-v2` | have-raw (IA `institutioorator02quin`) |
 | The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX | H. E. Butler | `quintilian-butler-v3` | have-raw (IA `institutioorator03quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 4: Books X-XII | H. E. Butler | `quintilian-butler-v4` | have-raw (IA `institutioorator04quinuoft`) |
+| The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing) | H. E. Butler | `quintilian-butler-v1-1921` | have-raw (IA `in.ernet.dli.2015.99822`) |
 
 Pending (wishlist): Watson's Bohn (no scan located)
 
