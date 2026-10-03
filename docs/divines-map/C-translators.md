@@ -463,3 +463,86 @@ Round 5, vetoable. Early-modern OCR, 66% of tokens in a modern vocabulary: a def
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `harington-orlando-furioso` | Ariosto | Orlando Furioso, 46 books | Sir John Harington | 1591 | have-raw | IA `orlandofuriosoin00ario_0` |
+
+## F. Max Müller (Upanishads, Dhammapada)
+
+Shelf: `pipeline/muller_shelf.json` · fetch `python3 pipeline/fetch_shelf.py muller` · titles `python3 pipeline/split_shelf_titles.py muller`.
+Round 6, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `muller-upanishads` | Upanishads | The Upanishads (twelve principal Upanishads) | F. Max Müller | 1879-1884 | have-raw | IA `upanishads01mluoft` + IA `p2upanishads00mluoft` |
+| `muller-dhammapada` | Dhammapada | Dhammapada | F. Max Müller | 1881 | have | PG 2017 |
+| `muller-rig-veda-1869` | — | Müller's Rig-Veda-Sanhita vol. 1 (hymns to the Maruts, 1869): only that volume was ever published; not fetched. | — | — | pending | — |
+
+## Sir Edwin Arnold (Bhagavad Gita)
+
+Shelf: `pipeline/edwin-arnold_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edwin-arnold` · titles `python3 pipeline/split_shelf_titles.py edwin-arnold`.
+Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `edwin-arnold-bhagavad-gita` | Bhagavad Gita | The Song Celestial (Bhagavad Gita) | Sir Edwin Arnold | 1885 | have | PG 2388 |
+| `edwin-arnold-indian-idylls` | — | Indian Idylls (1883, episodes of the Mahabharata): not on Gutenberg; IA not checked this run. | — | — | pending | — |
+| — | — | light-of-asia: The Light of Asia (1879): Arnold's own poem. | — | — | excluded | — |
+
+## R. T. H. Griffith (Ramayana, Rigveda)
+
+Shelf: `pipeline/griffith_shelf.json` · fetch `python3 pipeline/fetch_shelf.py griffith` · titles `python3 pipeline/split_shelf_titles.py griffith`.
+Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `griffith-ramayana` | Valmiki | The Ramayana | Ralph T. H. Griffith | 1870 | have | PG 24869 |
+| `griffith-rigveda` | Rigveda | The Hymns of the Rigveda, 10 mandalas | Ralph T. H. Griffith | 1889 | have-raw | IA `in.ernet.dli.2015.195721` + IA `in.ernet.dli.2015.195722` |
+| `griffith-atharvaveda` | — | Hymns of the Atharva-veda (1895-96), the Samaveda (1893), the White Yajurveda (1899): on IA; not fetched this run. | — | — | pending | — |
+
+## J. M. Rodwell (Koran)
+
+Shelf: `pipeline/rodwell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rodwell` · titles `python3 pipeline/split_shelf_titles.py rodwell`.
+Round 6, vetoable. Suras in his chronological order. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rodwell-koran` | The Qur'an | The Koran | J. M. Rodwell | 1861 | have | PG 2800 |
+| — | — | pg-3434: Gutenberg 3434 is the same Rodwell translation (an older file); not fetched twice. | — | — | excluded | — |
+
+## George Sale (Koran)
+
+Shelf: `pipeline/sale_shelf.json` · fetch `python3 pipeline/fetch_shelf.py sale` · titles `python3 pipeline/split_shelf_titles.py sale`.
+Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `sale-koran` | The Qur'an | The Koran | George Sale | 1734 | have | PG 7440 |
+| `sale-preliminary-discourse` | — | Sale's Preliminary Discourse (his long introduction): check whether PG 7440 carries it; if not, a scan of an 1825+ edition. | — | — | pending | — |
+
+## E. H. Palmer (Qur'an)
+
+Shelf: `pipeline/palmer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py palmer` · titles `python3 pipeline/split_shelf_titles.py palmer`.
+Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `palmer-quran` | The Qur'an | The Qur'an | E. H. Palmer | 1880 | have-raw | IA `thequraan09unknuoft` + IA `qurn01unkngoog` |
+
+## E. H. Whinfield (Rumi's Masnavi)
+
+Shelf: `pipeline/whinfield_shelf.json` · fetch `python3 pipeline/fetch_shelf.py whinfield` · titles `python3 pipeline/split_shelf_titles.py whinfield`.
+Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `whinfield-masnavi` | Rumi | Masnavi (abridged) | E. H. Whinfield | 1887 | have-raw | IA `cu31924026910251` |
+| `whinfield-omar` | — | Whinfield's Omar Khayyam quatrains are inside Gutenberg 38511, a 1903 compilation with FitzGerald's and Nicolas's versions; it would need cutting by marker. Not fetched. | — | — | pending | — |
+
+## R. A. Nicholson (Rumi, Hujwiri)
+
+Shelf: `pipeline/nicholson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py nicholson` · titles `python3 pipeline/split_shelf_titles.py nicholson`.
+Round 6, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `nicholson-kashf-al-mahjub` | Hujwiri | Kashf al-Mahjub | Reynold A. Nicholson | 1911 | have | PG 64786 |
+| `nicholson-divani-shamsi-tabriz` | Rumi | Selected Poems from the Divani Shamsi Tabriz | Reynold A. Nicholson | 1898 | have-raw | IA `india.history.resource.111025` |
+| `nicholson-mathnawi` | — | The Mathnawi translation (Gibb series, 1925-40): vols 1-2 (1926, 1930) are US PD; the rest are not. Not fetched. | — | — | pending | — |
