@@ -662,6 +662,58 @@
       "status": "done",
       "finished": "2026-10-02T19:50:52-05:00",
       "notes": "1/1 fetched (Gutenberg 34902), 2,404 units, 23 ~2 ids."
+    },
+    {
+      "id": "milne",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: milne; no minting",
+      "status": "done",
+      "finished": "2026-10-02T20:07:44-05:00",
+      "notes": "5/5 fetched (Gutenberg 67098, 73011, 70271, 70516, 27771), 4,958 units, 2 ~2 ids."
+    },
+    {
+      "id": "craik",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: craik; no minting",
+      "status": "running"
+    },
+    {
+      "id": "ingelow",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: ingelow; no minting",
+      "status": "running"
+    },
+    {
+      "id": "stockton",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: stockton; no minting",
+      "status": "running"
+    },
+    {
+      "id": "burgess",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: burgess; no minting",
+      "status": "running"
+    },
+    {
+      "id": "lagerlof",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: lagerlof; no minting",
+      "status": "running"
+    },
+    {
+      "id": "laboulaye",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: laboulaye; no minting",
+      "status": "running"
+    },
+    {
+      "id": "hauff",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: hauff; no minting",
+      "status": "running"
+    },
+    {
+      "id": "gatty",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: gatty; no minting",
+      "status": "running"
+    },
+    {
+      "id": "edgeworth",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: edgeworth; no minting",
+      "status": "running"
     }
   ]
 }

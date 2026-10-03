@@ -330,3 +330,6 @@
 
 ## 2026-10-02 19:50 CDT — webster-basque: done
 - 1/1 fetched (Gutenberg 34902), 2,404 units, 23 ~2 ids.
+
+## 2026-10-02 20:07 CDT — milne: done
+- 5/5 fetched (Gutenberg 67098, 73011, 70271, 70516, 27771), 4,958 units, 2 ~2 ids.

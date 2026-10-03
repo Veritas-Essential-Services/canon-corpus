@@ -1407,6 +1407,19 @@ Shelf: `pipeline/webster-basque_shelf.json` (2026-10-02; added at the coordinato
 |---|---|---|
 | Basque Legends, collected and tr. Wentworth Webster, with an essay by Julien Vinson (second edition, 1879) | have | PG 34902, `webster-basque-legends` (2404 units) |
 
+## A. A. Milne
+
+Shelf: `pipeline/milne_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Pooh, the two verse books and Once on a Time, cut by chapter or poem. US public domain only; still in copyright in the UK until 2027. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Winnie-the-Pooh (1926) | have | PG 67098, `milne-winnie-the-pooh` (1089 units) |
+| The House at Pooh Corner (1928) | have | PG 73011, `milne-house-at-pooh-corner` (1262 units) |
+| When We Were Very Young (1924) | have | PG 70271, `milne-when-we-were-very-young` (349 units) |
+| Now We Are Six (1927) | have | PG 70516, `milne-now-we-are-six` (227 units) |
+| Once on a Time (1917; the Gutenberg text is a printing with a 1922 copyright) | have | PG 27771, `milne-once-on-a-time` (2031 units) |
+| milne-adult | excluded | his plays, essays, humour collections and The Red House Mystery: not children's books |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

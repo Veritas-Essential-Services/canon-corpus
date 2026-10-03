@@ -1,0 +1,44 @@
+{
+ "_about": "A. A. Milne's (1882-1956) children's books: Winnie-the-Pooh (1926), The House at Pooh Corner (1928), the verse of When We Were Very Young (1924) and Now We Are Six (1927), and his fairy story Once on a Time (1917). US public domain (published before 1929); NOT public domain in the UK and other life-plus-70 countries until 2027. Clean Gutenberg text. His plays, essays and detective novel are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. A. Milne",
+ "_name_words": [
+  "pooh",
+  "winnie",
+  "young",
+  "six",
+  "once"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "milne-winnie-the-pooh": [
+   67098,
+   "Winnie-the-Pooh (1926)"
+  ],
+  "milne-house-at-pooh-corner": [
+   73011,
+   "The House at Pooh Corner (1928)"
+  ],
+  "milne-when-we-were-very-young": [
+   70271,
+   "When We Were Very Young (1924)",
+   {
+    "contents_only": true
+   }
+  ],
+  "milne-now-we-are-six": [
+   70516,
+   "Now We Are Six (1927)",
+   {
+    "contents_only": true
+   }
+  ],
+  "milne-once-on-a-time": [
+   27771,
+   "Once on a Time (1917; the Gutenberg text is a printing with a 1922 copyright)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "milne-adult": "his plays, essays, humour collections and The Red House Mystery: not children's books"
+ }
+}
