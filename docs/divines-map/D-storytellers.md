@@ -2403,6 +2403,19 @@ Shelf: `pipeline/irving_shelf.json` (2026-10-02; added at the coordinator's rela
 | irving-alhambra-pennell | excluded | PG 49872, the Alhambra with Pennell's illustrations (1896); 66% of its long paragraphs are in PG 49947; held once as the same work |
 | irving-sketch-book-parts | excluded | PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book. |
 
+## Jeremiah Curtin (folk tales and myths)
+
+Shelf: `pipeline/curtin-folk_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales he took down from Irish, Slav, Magyar, Seneca, Modoc and Wintu tellers, in his English; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Folk Tales of Ireland | have | PG 36540, `curtin-myths-and-folk-tales-of-ireland` (1823 units) |
+| Myths and Folk-tales of the Russians, Western Slavs, and Magyars | have | PG 50011, `curtin-myths-and-folk-tales-of-the-russians` (3248 units) |
+| Hero-Tales of Ireland | have | PG 63866, `curtin-hero-tales-of-ireland` (3529 units) |
+| Creation Myths of Primitive America | have | PG 39106, `curtin-creation-myths-of-primitive-america` (3721 units) |
+| Seneca Fiction, Legends, and Myths | have | PG 64176, `curtin-seneca-fiction-legends-and-myths` (4064 units) |
+| Myths of the Modocs | have | PG 73418, `curtin-myths-of-the-modocs` (3601 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

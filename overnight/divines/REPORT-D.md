@@ -634,3 +634,6 @@
 
 ## 2026-10-03 01:59 CDT — irving: done
 - 4/4 fetched (Gutenberg 2048, 13514, 49947, 77685), 4,507 units, 0 ~2 ids.
+
+## 2026-10-03 02:12 CDT — curtin-folk: done
+- 6/6 fetched (Gutenberg 36540, 50011, 63866, 39106, 64176, 73418), 19,986 units, 0 ~2 ids.
