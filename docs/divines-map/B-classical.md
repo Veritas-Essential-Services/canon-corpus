@@ -94,6 +94,10 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Platonic Dialogues for English Readers, vol. II: Antisophist Dialogues (Macmillan, 1860; abridged in parts) | William Whewell | `plato-whewell-v2-1860` | have-raw (IA `platonicdialogu04whewgoog`) |
 | The Platonic Dialogues for English Readers, vol. III: The Republic and the Timaeus (Macmillan, 1861; abridged in parts) | William Whewell | `plato-whewell-v3-1861` | have-raw (IA `platonicdialogu05whewgoog`) |
 | The Republic of Plato in Ten Books, translated from the Greek (Everyman's Library; first issue of this edition 1906, this scan the 1919 reprint; Spens's translation first published 1763) | Harry Spens | `plato-spens-republic-everyman` | have-raw (IA `republicofplatoi00platuoft`) |
+| The Trial and Death of Socrates: the Euthyphron, Apology, Crito and Phaedo (Golden Treasury, 2nd ed. 1886; 1903 printing) | F. J. Church | `plato-church-trial-death-1903` | have-raw (IA `trialdeathofsocr00platiala`) |
+| The Republic of Plato, third edition with revised text (Everyman; Dent, 1923) | A. D. Lindsay | `plato-lindsay-republic-1923` | have-raw (IA `therepublicofpla00platuoft`) |
+| Plato's Gorgias, literally translated, with an introductory essay (Deighton, Bell, 1864) | E. M. Cope | `plato-cope-gorgias-1864` | have-raw (IA `bub_gb_H50hsgIss64C`) |
+| Plato's Phaedo, literally translated (Cambridge University Press, 1875; published after the translator's death) | E. M. Cope | `plato-cope-phaedo-1875` | have-raw (IA `phaedoliterally00platuoft`) |
 
 Pending (wishlist):
 

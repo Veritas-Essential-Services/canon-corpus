@@ -1,5 +1,5 @@
 {
- "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Third translator, added 2026-10-02: Thomas Taylor's complete Works of Plato (London, 1804; nine dialogues by Floyer Sydenham), 5 vols., raw IA OCR.",
+ "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Third translator, added 2026-10-02: Thomas Taylor's complete Works of Plato (London, 1804; nine dialogues by Floyer Sydenham), 5 vols., raw IA OCR. Added 2026-10-03, raw IA OCR: F. J. Church's Trial and Death of Socrates (1903 printing of the 1886 second edition), A. D. Lindsay's Everyman Republic (third edition, 1923; first 1906) and E. M. Cope's literal Gorgias (1864) and Phaedo (1875).",
  "_name_words": [
   "plato",
   "jowett",
@@ -291,6 +291,26 @@
    "republicofplatoi00platuoft",
    "The Republic of Plato in Ten Books, translated from the Greek (Everyman's Library; first issue of this edition 1906, this scan the 1919 reprint; Spens's translation first published 1763)",
    "tr. Harry Spens"
+  ],
+  "plato-church-trial-death-1903": [
+   "trialdeathofsocr00platiala",
+   "The Trial and Death of Socrates: the Euthyphron, Apology, Crito and Phaedo (Golden Treasury, 2nd ed. 1886; 1903 printing)",
+   "tr. F. J. Church"
+  ],
+  "plato-lindsay-republic-1923": [
+   "therepublicofpla00platuoft",
+   "The Republic of Plato, third edition with revised text (Everyman; Dent, 1923)",
+   "tr. A. D. Lindsay"
+  ],
+  "plato-cope-gorgias-1864": [
+   "bub_gb_H50hsgIss64C",
+   "Plato's Gorgias, literally translated, with an introductory essay (Deighton, Bell, 1864)",
+   "tr. E. M. Cope"
+  ],
+  "plato-cope-phaedo-1875": [
+   "phaedoliterally00platuoft",
+   "Plato's Phaedo, literally translated (Cambridge University Press, 1875; published after the translator's death)",
+   "tr. E. M. Cope"
   ]
  },
  "_excluded": {
@@ -396,7 +416,11 @@
   "plato-whewell-v1-1860": "William Whewell",
   "plato-whewell-v2-1860": "William Whewell",
   "plato-whewell-v3-1861": "William Whewell",
-  "plato-spens-republic-everyman": "Harry Spens"
+  "plato-spens-republic-everyman": "Harry Spens",
+  "plato-church-trial-death-1903": "F. J. Church",
+  "plato-lindsay-republic-1923": "Lindsay",
+  "plato-cope-gorgias-1864": "E. M. Cope",
+  "plato-cope-phaedo-1875": "Cope"
  },
  "_checks": {
   "plato-charmides": {
@@ -1022,6 +1046,58 @@
    "ia_rights": "ok: published 1919",
    "ia_date": "1919",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-church-trial-death-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "F. J. Church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-lindsay-republic-1923": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Lindsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-cope-gorgias-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "E. M. Cope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-cope-phaedo-1875": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Cope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
