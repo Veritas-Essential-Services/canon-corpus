@@ -1,5 +1,5 @@
 {
- "_about": "John Strype (1643-1737), the documentary historian of the English Reformation, in the Clarendon Press collected edition: Ecclesiastical Memorials (1822, 3 vols in 6 parts), Annals of the Reformation (1824, 4 vols in 7 parts), the Lives of Parker (1821, 3 vols), Whitgift (1822, 3 vols), Grindal, Aylmer and Cheke (1821), and the Memorials of Cranmer in the Ecclesiastical History Society's edition (1848-1854, 3 vols). Volume and part numbers read off each title page. Much of each Appendix prints Latin records, so the OCR's share of common English words runs low. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "John Strype (1643-1737), the documentary historian of the English Reformation, in the Clarendon Press collected edition: Ecclesiastical Memorials (1822, 3 vols in 6 parts), Annals of the Reformation (1824, 4 vols in 7 parts), the Lives of Parker (1821, 3 vols), Whitgift (1822, 3 vols), Grindal, Aylmer and Cheke (1821), Sir Thomas Smith (1820), and the Memorials of Cranmer in the Ecclesiastical History Society's edition (1848-1854, 3 vols). Volume and part numbers read off each title page. Much of each Appendix prints Latin records, so the OCR's share of common English words runs low. Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "strype"
  ],
@@ -108,6 +108,10 @@
   "strype-cheke": [
    "lifeofcheke00stryuoft",
    "The Life of the Learned Sir John Cheke (Oxford: Clarendon Press, 1821)"
+  ],
+  "strype-smith": [
+   "lifeoflearnedsir00stryuoft",
+   "The Life of the Learned Sir Thomas Smith (Oxford: Clarendon Press, 1820)"
   ]
  },
  "_alternates": {
@@ -117,7 +121,6 @@
   "historyoflifeact00stryuoft, cu31924029450115; historicalcollec00stryuoft": "Other copies of Grindal and Aylmer."
  },
  "_pending": {
-  "The Life of Sir Thomas Smith (1820; lifeoflearnedsir00stryuoft)": "Internet Archive returned a server error 2026-10-03; add after a retry.",
   "A General Index to Strype's Works (1828, 2 vols; generalindextohi01stryuoft, 02stryuoft)": "An index only; not shelved.",
   "Ecclesiastical Memorials, 1816 London edition (ecclesiasticalme01stry_0..07stry)": "Superseded by the Clarendon edition."
  },
@@ -397,6 +400,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1821",
    "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "strype-smith": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strype",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
