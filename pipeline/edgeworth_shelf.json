@@ -1,0 +1,25 @@
+{
+ "_about": "Maria Edgeworth's (1768-1849) The Parent's Assistant; or, Stories for Children. Clean Gutenberg text; public domain. Her novels and the Tales and Novels set are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Maria Edgeworth",
+ "_name_words": [
+  "parent",
+  "assistant",
+  "stories",
+  "children"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "edgeworth-parents-assistant": [
+   3655,
+   "The Parent's Assistant; or, Stories for Children",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "edgeworth-duplicate": "The Parent's Assistant (PG 36132, Macmillan, with Anne Thackeray Ritchie's introduction): another printing; candidate as a second witness",
+  "edgeworth-other": "Castle Rackrent, The Absentee, Belinda and the Tales and Novels volumes: not children's books"
+ }
+}

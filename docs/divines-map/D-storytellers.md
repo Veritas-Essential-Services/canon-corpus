@@ -1529,6 +1529,16 @@ Shelf: `pipeline/gatty_shelf.json` (2026-10-02; added at the coordinator's relay
 | The Fairy Godmothers and Other Tales | have | PG 11319, `gatty-fairy-godmothers` (581 units) |
 | gatty-translation | excluded | The History of a Mouthful of Bread (PG 6970): her translation of Jean Macé's science book, not story |
 
+## Maria Edgeworth
+
+Shelf: `pipeline/edgeworth_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Parent's Assistant; or, Stories for Children | have | PG 3655, `edgeworth-parents-assistant` (3828 units) |
+| edgeworth-duplicate | excluded | The Parent's Assistant (PG 36132, Macmillan, with Anne Thackeray Ritchie's introduction): another printing; candidate as a second witness |
+| edgeworth-other | excluded | Castle Rackrent, The Absentee, Belinda and the Tales and Novels volumes: not children's books |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

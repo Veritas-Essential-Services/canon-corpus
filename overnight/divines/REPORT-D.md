@@ -357,3 +357,6 @@
 
 ## 2026-10-02 20:08 CDT — gatty: done
 - 2/2 fetched (Gutenberg 5074, 11319), 1,626 units, 0 ~2 ids.
+
+## 2026-10-02 20:08 CDT — edgeworth: done
+- 1/1 fetched (Gutenberg 3655), 3,828 units, 0 ~2 ids.
