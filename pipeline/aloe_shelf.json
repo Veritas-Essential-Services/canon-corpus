@@ -1,0 +1,63 @@
+{
+ "_about": "Two allegorical children's tales by A. L. O. E. ('A Lady of England'): The Rambles of a Rat (1864) and Pride and His Prisoners (Thomas Nelson; undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. L. O. E.",
+ "_name_words": [
+  "a. l. o. e."
+ ],
+ "_surname": [
+  "a. l. o. e."
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aloe-rambles-of-a-rat": [
+   29863,
+   "The Rambles of a Rat",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "aloe-pride-and-his-prisoners": [
+   60149,
+   "Pride and His Prisoners",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aloe-rambles-of-a-rat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aloe-pride-and-his-prisoners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. l. o. e.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
