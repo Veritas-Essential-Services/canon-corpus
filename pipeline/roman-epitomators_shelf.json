@@ -25,6 +25,11 @@
    "luciusannaeusflo0000unse",
    "Lucius Annaeus Florus, Epitome of Roman History; Cornelius Nepos (Loeb, 1929)",
    "tr. E. S. Forster (Florus), J. C. Rolfe (Nepos)"
+  ],
+  "justin-codrington-1688": [
+   "historyjustinta00codrgoog",
+   "The History of Justin, taken out of the Four and Forty Books of Trogus Pompeius, 5th ed. (London, 1688)",
+   "tr. Robert Codrington"
   ]
  },
  "_surname": [
@@ -39,7 +44,8 @@
  "_translators": {
   "justin-nepos-eutropius-watson": "John Selby Watson",
   "sallust-florus-velleius-watson": "John Selby Watson",
-  "florus-forster-nepos-rolfe": "edward seymour forster"
+  "florus-forster-nepos-rolfe": "edward seymour forster",
+  "justin-codrington-1688": "Rob. Codrington"
  },
  "_checks": {
   "justin-nepos-eutropius-watson": {
@@ -79,6 +85,19 @@
    "ia_rights": "ok: published 1929",
    "ia_date": "1929",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "justin-codrington-1688": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "justin",
+   "translator_claimed": "Rob. Codrington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
