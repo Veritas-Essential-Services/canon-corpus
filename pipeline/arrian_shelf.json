@@ -1,5 +1,5 @@
 {
- "_about": "Arrian in English: E. J. Chinnock's Anabasis of Alexander (1884), clean Gutenberg; William Dansey's Arrian on Coursing (1831).",
+ "_about": "Arrian in English: E. J. Chinnock's Anabasis of Alexander (1884), clean Gutenberg; William Dansey's Arrian on Coursing (1831); J. W. McCrindle's Invasion of India by Alexander the Great (Constable, 1893), his translations of the Indian campaign from Arrian, Curtius, Diodoros, Plutarch and Justin (Cornell copy; the title page prints the name M'Crindle).",
  "_name_words": [
   "arrian",
   "anabasis"
@@ -32,6 +32,11 @@
    "arrianshistorya00rookgoog",
    "Arrian's History of Alexander's Expedition, with notes (London, 1729), vol. 1 (Books I-IV)",
    "tr. John Rooke"
+  ],
+  "arrian-mccrindle-invasion": [
+   "cu31924028252546",
+   "The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893)",
+   "tr. J. W. McCrindle"
   ]
  },
  "_excluded": {
@@ -46,7 +51,8 @@
   "arrian-dansey-coursing": "William Dansey",
   "arrian-mccrindle-nearkhos": "John Watson McCrindle",
   "arrian-mccrindle-ancient-india": "J. W. McCrindle",
-  "arrian-rooke-1729-v1": "John Rooke"
+  "arrian-rooke-1729-v1": "John Rooke",
+  "arrian-mccrindle-invasion": "M'Crindle"
  },
  "_checks": {
   "arrian-chinnock-anabasis": {
@@ -109,6 +115,19 @@
    "ia_rights": "ok: published 1729",
    "ia_date": "1729",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arrian-mccrindle-invasion": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "M'Crindle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
