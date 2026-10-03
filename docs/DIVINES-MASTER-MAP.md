@@ -1383,6 +1383,16 @@ Slugs `fletcher-*`.
 | Work | Status | Where |
 |---|---|---|
 | Works, 4 vols (New York: Carlton and Porter / Carlton and Lanahan, undated; catalogued 1833), incl. the Checks to Antinomianism | have-raw | IA (identifiers in the shelf) |
+
+
+## Robert Hall (round 9, my pick, 2026-10-03)
+
+Slugs `rhall-*` (not `hall-*`, which is Joseph Hall's).
+
+| Work | Status | Where |
+|---|---|---|
+| Works, ed. Olinthus Gregory, 6 vols (London: Bohn; catalogued 1846) | have-raw | IA (identifiers in the shelf) |
+| Miscellaneous Works and Remains (London: Bohn; catalogued 1846) | have-raw | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

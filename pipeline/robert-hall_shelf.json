@@ -1,0 +1,129 @@
+{
+ "_about": "Public-domain Robert Hall (1764-1831, Baptist minister at Cambridge, Leicester and Bristol) for the Word Hoard: the Works, ed. Olinthus Gregory (London: Bohn, 6 vols, catalogued 1846), and the Miscellaneous Works and Remains (Bohn, catalogued 1846), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "h/hall",
+ "_name_words": [
+  "hall",
+  "robert"
+ ],
+ "_surname": [
+  "robert hall",
+  "mr. hall",
+  "hall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rhall-works-1": [
+   "hallsworks01halluoft",
+   "The Works of Robert Hall, ed. Olinthus Gregory, vol. 1 (London: Bohn; catalogued 1846, title page undated)"
+  ],
+  "rhall-works-2": [
+   "hallswork02halluoft",
+   "The Works of Robert Hall, ed. Olinthus Gregory, vol. 2 (London: Bohn; catalogued 1846, title page undated)"
+  ],
+  "rhall-works-3": [
+   "hallsworks03halluoft",
+   "The Works of Robert Hall, ed. Olinthus Gregory, vol. 3 (London: Bohn; catalogued 1846, title page undated)"
+  ],
+  "rhall-works-4": [
+   "hallsworks04halluoft",
+   "The Works of Robert Hall, ed. Olinthus Gregory, vol. 4 (London: Bohn; catalogued 1846, title page undated)"
+  ],
+  "rhall-works-5": [
+   "hallsworks05halluoft",
+   "The Works of Robert Hall, ed. Olinthus Gregory, vol. 5 (London: Bohn; catalogued 1846, title page undated)"
+  ],
+  "rhall-works-6": [
+   "hallsworks06halluoft",
+   "The Works of Robert Hall, ed. Olinthus Gregory, vol. 6 (London: Bohn; catalogued 1846, title page undated)"
+  ],
+  "rhall-miscellaneous-1846": [
+   "revroberthall00halluoft",
+   "The Miscellaneous Works and Remains of the Rev. Robert Hall (London: Bohn; catalogued 1846, title page undated)"
+  ]
+ },
+ "_alternates": {
+  "rhall-works": "the 1831-33 London Works (Holdsworth and Ball; Trinity College vol. 1, Bavarian State Library and Google scans of the rest); Harper's New York Works (1830s-1850s)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "rhall-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhall-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhall-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhall-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhall-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhall-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhall-miscellaneous-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -384,3 +384,6 @@
 
 ## 2026-10-03 00:55 CDT — john-fletcher done
 - `pipeline/john-fletcher_shelf.json`: the New York Works, 4 volumes of raw IA OCR, median 98.8% (97.8-99.2%), about 9 MB. The catalogue says 1833; the title pages carry no year, and the imprints differ (Carlton and Porter on vol. 1, Carlton and Lanahan on vol. 2), so the shelf says so rather than claiming 1833. `--verify --record`: 0 mismatched, 0 rights flags; matched on "john fletcher". 0 uids minted.
+
+## 2026-10-03 00:57 CDT — robert-hall done
+- `pipeline/robert-hall_shelf.json`: Bohn's Works, 6 volumes, and the Miscellaneous Works and Remains, raw IA OCR, median 98.4% (98.3-98.7%), about 7 MB; title pages read (Gregory, Bohn; no year printed, so the catalogue's 1846 is labelled as such). `--verify --record`: 0 mismatched, 0 rights flags; all 7 matched on "robert hall". 0 uids minted.
