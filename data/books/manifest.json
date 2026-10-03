@@ -29307,5 +29307,1131 @@
    }
   },
   "built_sha256": "697b19fd1e0a684607f971109958484a5fb0e5ee94aed4c325d3c66aa2c72040"
+ },
+ "alford-commentary-2": {
+  "title": "The Greek Testament, vol. II",
+  "author": "Henry Alford",
+  "format": "ia-hocr",
+  "sha256": "d19889cfbb6cf820564721633a48e0e26204a10bdf4a56211648400d56853a7e",
+  "units": 1975,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "status": "draft",
+   "same_scan_as": "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)",
+   "scan_choice": "Lane A's item (same scan); measured against greektestamentwiptsl02alfo (1899): Greek 17.3% vs 17.1% of letters, Greek tokens known 34.1% vs 34.8%: not clearly better",
+   "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. II (Acts, Romans, Corinthians), 3rd ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1857), as its title page reads; scan leaves 5-794 of greektestamentwi02alfo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1857); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, greektestamentwi02alfo (University of California Libraries copy)",
+   "source_url": "https://archive.org/details/greektestamentwi02alfo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 610,
+    "note": 1173,
+    "page": 192
+   },
+   "junk_lines_dropped": 7240,
+   "leaves_commentary": 610,
+   "leaves_page": 180,
+   "leaves_with_tail": 12,
+   "openers_accepted": 1197,
+   "openers_out_of_sequence": 72,
+   "openers_rejected": 149,
+   "printed_page_from_neighbours": 71,
+   "printed_page_read": 614,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 553,
+     "with_own_note": 376
+    },
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 390,
+     "with_own_note": 271
+    },
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 341,
+     "with_own_note": 226
+    },
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 178,
+     "with_own_note": 117,
+     "chapters": [
+      1,
+      12
+     ],
+     "kjv_verses_in_chapters": 243
+    }
+   },
+   "scripture_links": {
+    "read": 9086,
+    "resolved": 7761
+   },
+   "greek": {
+    "greek_letters": 374516,
+    "greek_share_of_letters": 0.1682,
+    "greek_tokens_3plus": 60509,
+    "greek_tokens_in_reference_vocab": 0.3476,
+    "mixed_script_tokens": 511
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "65a830a56b4b0a1e66540933d92afad576b2707efb05e17f1879094e412df0d9"
+ },
+ "alford-commentary-3": {
+  "title": "The Greek Testament, vol. III",
+  "author": "Henry Alford",
+  "format": "ia-hocr",
+  "sha256": "0d6492f87b3e3ce6a6adee9a61d5ff9832fd6f4ed83f1f5c5601511e5a7d26fd",
+  "units": 1088,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "greektestamentwi00alfo (4th ed., 1865; Lane A has no vol. III): Greek 15.4%, known 35.5%; greektestamentw03alfo 15.8%/35.5% is a catalogue-1849 copy of unstated edition",
+   "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. III (Galatians to Philemon), 4th ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1865), as its title page reads; scan leaves 7-579 of greektestamentwi00alfo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1865); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, greektestamentwi00alfo (Boston University School of Theology copy)",
+   "source_url": "https://archive.org/details/greektestamentwi00alfo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 425,
+    "note": 515,
+    "page": 148
+   },
+   "junk_lines_dropped": 4661,
+   "leaves_commentary": 427,
+   "leaves_page": 146,
+   "leaves_with_tail": 2,
+   "openers_accepted": 516,
+   "openers_out_of_sequence": 40,
+   "openers_rejected": 51,
+   "printed_page_from_neighbours": 69,
+   "printed_page_read": 355,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 123,
+     "with_own_note": 97
+    },
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 97,
+     "with_own_note": 51
+    },
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 87,
+     "with_own_note": 57
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 69,
+     "with_own_note": 41
+    },
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 73,
+     "with_own_note": 60
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 26,
+     "with_own_note": 11,
+     "chapters": [
+      1,
+      2
+     ],
+     "kjv_verses_in_chapters": 29
+    },
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 75,
+     "with_own_note": 44
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 64,
+     "with_own_note": 25
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 25,
+     "with_own_note": 16,
+     "chapters": [
+      1,
+      2
+     ],
+     "kjv_verses_in_chapters": 31
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 18,
+     "with_own_note": 15
+    }
+   },
+   "scripture_links": {
+    "read": 8422,
+    "resolved": 7115
+   },
+   "greek": {
+    "greek_letters": 252627,
+    "greek_share_of_letters": 0.1558,
+    "greek_tokens_3plus": 40412,
+    "greek_tokens_in_reference_vocab": 0.3552,
+    "mixed_script_tokens": 376
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "9ba3ec7ffef62164b7246f5d5781d7650bd2e7b1bcc36f8803400d04945591b1"
+ },
+ "alford-commentary-4": {
+  "title": "The Greek Testament, vol. IV",
+  "author": "Henry Alford",
+  "format": "ia-hocr",
+  "sha256": "770fee70202d9a1a3ccd92aacc00072cda2496ed124f984993dd70879ea544d5",
+  "units": 1700,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "status": "draft",
+   "same_scan_as": "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)",
+   "scan_choice": "Lane A's item (same scan); measured against greektestamentwi5604alfo (3rd ed., 1866): Greek 14.0% vs 13.6%, known 35.7% vs 35.5%",
+   "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. IV (Hebrews to the Revelation), 4th ed. (Boston: Lee and Shepard; New York: Lee, Shepard and Dillingham), the American issue of Rivingtons' London edition; the title page is undated, the item's catalogue date is 1874; scan leaves 5-1057 of greektestamentwi04alfo"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1874); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, greektestamentwi04alfo (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/greektestamentwi04alfo",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "epistle-text": 735,
+    "note": 632,
+    "page": 333
+   },
+   "junk_lines_dropped": 7687,
+   "leaves_commentary": 739,
+   "leaves_page": 311,
+   "leaves_with_tail": 22,
+   "openers_accepted": 643,
+   "openers_out_of_sequence": 47,
+   "openers_rejected": 68,
+   "printed_page_from_neighbours": 126,
+   "printed_page_read": 614,
+   "kjv_coverage": {
+    "Heb": {
+     "kjv_verses": 303,
+     "commented": 212,
+     "with_own_note": 160
+    },
+    "Jas": {
+     "kjv_verses": 108,
+     "commented": 94,
+     "with_own_note": 76
+    },
+    "1Pet": {
+     "kjv_verses": 105,
+     "commented": 85,
+     "with_own_note": 72
+    },
+    "2Pet": {
+     "kjv_verses": 61,
+     "commented": 58,
+     "with_own_note": 42
+    },
+    "1John": {
+     "kjv_verses": 105,
+     "commented": 84,
+     "with_own_note": 49
+    },
+    "2John": {
+     "kjv_verses": 13,
+     "commented": 12,
+     "with_own_note": 4
+    },
+    "3John": {
+     "kjv_verses": 14,
+     "commented": 8,
+     "with_own_note": 4
+    },
+    "Jude": {
+     "kjv_verses": 25,
+     "commented": 13,
+     "with_own_note": 9
+    },
+    "Rev": {
+     "kjv_verses": 404,
+     "commented": 243,
+     "with_own_note": 40
+    }
+   },
+   "scripture_links": {
+    "read": 9666,
+    "resolved": 8043
+   },
+   "greek": {
+    "greek_letters": 417466,
+    "greek_share_of_letters": 0.1365,
+    "greek_tokens_3plus": 67451,
+    "greek_tokens_in_reference_vocab": 0.3613,
+    "mixed_script_tokens": 462
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "4d6f95a5bafcc6d47631f91e2fc08a7711de7fcc4bfb29c0e387f89732e0fac5"
+ },
+ "bengel-gnomon-2": {
+  "title": "Gnomon of the New Testament, vol. II",
+  "author": "J. A. Bengel",
+  "format": "ia-hocr",
+  "sha256": "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
+  "units": 2352,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "gnomonofnewtesta23beng (vols. II and III bound as one): Greek 6.3%, known 34.4%; cu31924092350523 (1877, vol. II) 5.9%/33.1%",
+   "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. II (Luke, John, Acts), tr. Andrew R. Fausset, seventh edition (1873), as its title page reads; bound with vol. III; scan leaves 9-754 of gnomonofnewtesta23beng"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, gnomonofnewtesta23beng (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/gnomonofnewtesta23beng",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 2348,
+    "page": 4
+   },
+   "footnote_lines": 1940,
+   "junk_lines_dropped": 25,
+   "leaves_commentary": 742,
+   "leaves_page": 4,
+   "openers_accepted": 2380,
+   "openers_out_of_sequence": 33,
+   "openers_rejected": 142,
+   "printed_page_from_neighbours": 24,
+   "printed_page_read": 165,
+   "kjv_coverage": {
+    "Luke": {
+     "kjv_verses": 1151,
+     "commented": 788,
+     "with_own_note": 777
+    },
+    "John": {
+     "kjv_verses": 879,
+     "commented": 747,
+     "with_own_note": 744
+    },
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 812,
+     "with_own_note": 807
+    }
+   },
+   "scripture_links": {
+    "read": 4974,
+    "resolved": 4544
+   },
+   "greek": {
+    "greek_letters": 76095,
+    "greek_share_of_letters": 0.0585,
+    "greek_tokens_3plus": 12015,
+    "greek_tokens_in_reference_vocab": 0.3283,
+    "mixed_script_tokens": 57
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "4f0d5707776b8bf48c73512d4dbe9db4e6903e635bc024ee19a31e24c6dcd984"
+ },
+ "bengel-gnomon-3": {
+  "title": "Gnomon of the New Testament, vol. III",
+  "author": "J. A. Bengel",
+  "format": "ia-hocr",
+  "sha256": "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
+  "units": 1024,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "gnomonofnewtesta23beng (vols. II and III bound as one); cu31924092350499 (1877, vol. III): 0.0% Greek",
+   "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. III (Romans, Corinthians), tr. James Bryce, seventh edition (1873), as its own title page (leaf 755) reads; bound after vol. II; scan leaves 755-1199 of gnomonofnewtesta23beng"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, gnomonofnewtesta23beng (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/gnomonofnewtesta23beng",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 1022,
+    "page": 2
+   },
+   "footnote_lines": 1081,
+   "junk_lines_dropped": 10,
+   "leaves_commentary": 443,
+   "leaves_page": 2,
+   "openers_accepted": 1037,
+   "openers_out_of_sequence": 7,
+   "openers_rejected": 43,
+   "printed_page_from_neighbours": 25,
+   "printed_page_read": 354,
+   "kjv_coverage": {
+    "Rom": {
+     "kjv_verses": 433,
+     "commented": 393,
+     "with_own_note": 390
+    },
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 398,
+     "with_own_note": 395
+    },
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 221,
+     "with_own_note": 221
+    }
+   },
+   "scripture_links": {
+    "read": 3118,
+    "resolved": 2844
+   },
+   "greek": {
+    "greek_letters": 48767,
+    "greek_share_of_letters": 0.0687,
+    "greek_tokens_3plus": 7553,
+    "greek_tokens_in_reference_vocab": 0.376,
+    "mixed_script_tokens": 32
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "f0dca8074b2117664a0c0a7bedaab1a8f734cf44e0584828b1ef6d6a1c8d95ca"
+ },
+ "bengel-gnomon-4": {
+  "title": "Gnomon of the New Testament, vol. IV",
+  "author": "J. A. Bengel",
+  "format": "ia-hocr",
+  "sha256": "ac11e9768744c1f7d7b1b98a7b0acfb3a17aefa66b3d63c178fa5dd66a385e1c",
+  "units": 1076,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "status": "draft",
+   "scan_choice": "cu31924092350507 (1877): Greek 7.5%, known 32.4%; gnomonofnewtesta03benguoft (1873): 0.0% Greek",
+   "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. IV (Galatians to Hebrews), tr. James Bryce, seventh edition (1877), as its title page reads; scan leaves 4-509 of cu31924092350507"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, cu31924092350507 (Cornell University Library copy)",
+   "source_url": "https://archive.org/details/cu31924092350507",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 1073,
+    "page": 3
+   },
+   "footnote_lines": 1377,
+   "junk_lines_dropped": 9,
+   "leaves_commentary": 502,
+   "leaves_page": 3,
+   "openers_accepted": 1083,
+   "openers_out_of_sequence": 23,
+   "openers_rejected": 87,
+   "printed_page_from_neighbours": 43,
+   "printed_page_read": 332,
+   "kjv_coverage": {
+    "Gal": {
+     "kjv_verses": 149,
+     "commented": 139,
+     "with_own_note": 138
+    },
+    "Eph": {
+     "kjv_verses": 155,
+     "commented": 131,
+     "with_own_note": 131
+    },
+    "Phil": {
+     "kjv_verses": 104,
+     "commented": 90,
+     "with_own_note": 90
+    },
+    "Col": {
+     "kjv_verses": 95,
+     "commented": 88,
+     "with_own_note": 88
+    },
+    "1Thess": {
+     "kjv_verses": 89,
+     "commented": 72,
+     "with_own_note": 72
+    },
+    "2Thess": {
+     "kjv_verses": 47,
+     "commented": 38,
+     "with_own_note": 38
+    },
+    "1Tim": {
+     "kjv_verses": 113,
+     "commented": 101,
+     "with_own_note": 101
+    },
+    "2Tim": {
+     "kjv_verses": 83,
+     "commented": 74,
+     "with_own_note": 74
+    },
+    "Titus": {
+     "kjv_verses": 46,
+     "commented": 38,
+     "with_own_note": 37
+    },
+    "Phlm": {
+     "kjv_verses": 25,
+     "commented": 21,
+     "with_own_note": 21
+    },
+    "Heb": {
+     "kjv_verses": 303,
+     "commented": 269,
+     "with_own_note": 267
+    }
+   },
+   "scripture_links": {
+    "read": 3927,
+    "resolved": 3603
+   },
+   "greek": {
+    "greek_letters": 59410,
+    "greek_share_of_letters": 0.0754,
+    "greek_tokens_3plus": 8914,
+    "greek_tokens_in_reference_vocab": 0.3293,
+    "mixed_script_tokens": 68
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "571e7819c52ff3de26a3c9791ffca4b44d8aa9b22b5c1881e7945c91a169ef6d"
+ },
+ "keil-delitzsch-pentateuch-1": {
+  "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. I",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "39ee9f3f185433552ab2069c3dc4e4049ad032fdb961337303c229b162291d06",
+  "units": 504,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "status": "draft",
+   "numbering": {
+    "Gen": "undecided",
+    "Exod": "undecided"
+   },
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library), vol. I: The Pentateuch (Genesis; Exodus i.-xi.), by C. F. Keil, tr. James Martin (1878 issue), as its title page reads; scan leaves 7-507 of thepentateuch01keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1878); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, thepentateuch01keiluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/thepentateuch01keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 474,
+    "page": 30
+   },
+   "footnote_lines": 666,
+   "junk_lines_dropped": 16,
+   "leaves_commentary": 471,
+   "leaves_page": 30,
+   "openers_accepted": 472,
+   "openers_out_of_sequence": 20,
+   "openers_rejected": 5,
+   "printed_page_from_neighbours": 187,
+   "printed_page_read": 305,
+   "kjv_coverage": {
+    "Gen": {
+     "kjv_verses": 1533,
+     "commented": 1323,
+     "with_own_note": 172
+    },
+    "Exod": {
+     "kjv_verses": 1213,
+     "commented": 180,
+     "with_own_note": 46,
+     "chapters": [
+      1,
+      11
+     ],
+     "kjv_verses_in_chapters": 284
+    }
+   },
+   "scripture_links": {
+    "read": 2348,
+    "resolved": 2253
+   },
+   "numbering_own": {
+    "Gen": {
+     "read": 693,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Exod": {
+     "read": 141,
+     "only_hebrew": 0,
+     "only_kjv": 1,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 98,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1206,
+     "only_hebrew": 1,
+     "only_kjv": 2,
+     "decision": "undecided"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "c8c05f8cd4cf39bc34023a409ea889c81ca1d76f4da1698673768257cac37423"
+ },
+ "keil-delitzsch-pentateuch-2": {
+  "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. II",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "314975d9d073558e6a5382f4f48d5b26273e101c5b6a76fb9559775efc4583de",
+  "units": 582,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "status": "draft",
+   "numbering": {
+    "Exod": "undecided",
+    "Lev": "kjv"
+   },
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library), vol. II: The Pentateuch (Exodus xii.-xl.; Leviticus), by C. F. Keil, tr. James Martin (1872), as its title page reads; scan leaves 8-489 of biblicalcomm02keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1872); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcomm02keiluoft (University of Toronto (Emmanuel College) copy)",
+   "source_url": "https://archive.org/details/biblicalcomm02keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 578,
+    "page": 4
+   },
+   "footnote_lines": 574,
+   "junk_lines_dropped": 2,
+   "leaves_commentary": 478,
+   "leaves_page": 4,
+   "openers_accepted": 577,
+   "openers_out_of_sequence": 8,
+   "openers_rejected": 18,
+   "printed_page_from_neighbours": 147,
+   "printed_page_read": 329,
+   "kjv_coverage": {
+    "Exod": {
+     "kjv_verses": 1213,
+     "commented": 566,
+     "with_own_note": 147,
+     "chapters": [
+      12,
+      40
+     ],
+     "kjv_verses_in_chapters": 929
+    },
+    "Lev": {
+     "kjv_verses": 859,
+     "commented": 730,
+     "with_own_note": 143
+    }
+   },
+   "scripture_links": {
+    "read": 3542,
+    "resolved": 3410
+   },
+   "numbering_own": {
+    "Exod": {
+     "read": 492,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided"
+    },
+    "Lev": {
+     "read": 407,
+     "only_hebrew": 2,
+     "only_kjv": 5,
+     "decision": "kjv"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 62,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1790,
+     "only_hebrew": 4,
+     "only_kjv": 3,
+     "decision": "undecided"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "9909845821ab018cfb0803ced8c6c1b00df477d460882dcd7e2da933a68c7e67"
+ },
+ "keil-delitzsch-pentateuch-3": {
+  "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. III",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "9e0b0189d5a0806fabbaa733a673c6888e49ec00c8da01f442ca260225b59f04",
+  "units": 770,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "status": "draft",
+   "numbering": {
+    "Num": "undecided",
+    "Deut": "undecided"
+   },
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library), vol. III: The Pentateuch (Numbers; Deuteronomy), by C. F. Keil, tr. James Martin (1871), as its title page reads; scan leaves 8-544 of pentateuch03keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1871); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, pentateuch03keiluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/pentateuch03keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 750,
+    "page": 20
+   },
+   "footnote_lines": 977,
+   "junk_lines_dropped": 5,
+   "leaves_commentary": 516,
+   "leaves_page": 20,
+   "openers_accepted": 751,
+   "openers_out_of_sequence": 8,
+   "openers_rejected": 30,
+   "printed_page_from_neighbours": 143,
+   "printed_page_read": 387,
+   "kjv_coverage": {
+    "Num": {
+     "kjv_verses": 1288,
+     "commented": 905,
+     "with_own_note": 148,
+     "chapters": [
+      1,
+      35
+     ],
+     "kjv_verses_in_chapters": 1275
+    },
+    "Deut": {
+     "kjv_verses": 959,
+     "commented": 838,
+     "with_own_note": 196
+    }
+   },
+   "scripture_links": {
+    "read": 4426,
+    "resolved": 4257
+   },
+   "numbering_own": {
+    "Num": {
+     "read": 526,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided"
+    },
+    "Deut": {
+     "read": 454,
+     "only_hebrew": 1,
+     "only_kjv": 1,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 83,
+     "only_hebrew": 2,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 2409,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "04069f81e4ea8adabf49ddadaad84a70fde3d69e72f03a9a4a97c03c00d97054"
+ },
+ "delitzsch-psalms-1": {
+  "title": "Biblical Commentary on the Psalms, vol. I",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "dcd1104005b32e8a3ac96a84b400719f55a7848bac5dbaa39a55b25aa805c787",
+  "units": 328,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "status": "draft",
+   "numbering": {
+    "Ps": "hebrew"
+   },
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Psalms, vol. I (Ps. i.-xxxv.), tr. Francis Bolton (1880 issue), as its title page reads; scan leaves 8-447 of commentarypsalm01deliuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, commentarypsalm01deliuoft (Trinity College, Toronto copy)",
+   "source_url": "https://archive.org/details/commentarypsalm01deliuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 34,
+    "note": 207,
+    "page": 87
+   },
+   "footnote_lines": 581,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 348,
+   "leaves_page": 87,
+   "openers_accepted": 208,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 15,
+   "printed_page_from_neighbours": 96,
+   "printed_page_read": 297,
+   "psalm_titles_read": 34,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 465,
+     "with_own_note": 55,
+     "chapters": [
+      1,
+      35
+     ],
+     "kjv_verses_in_chapters": 499
+    }
+   },
+   "scripture_links": {
+    "read": 2004,
+    "resolved": 1853
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 863,
+     "only_hebrew": 36,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 54,
+     "only_hebrew": 2,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1384,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "7308cdd3d4c9dd599a23cdc085fceba3dd2fa47abbfc66dcce29116cf834d96c"
+ },
+ "delitzsch-psalms-2": {
+  "title": "Biblical Commentary on the Psalms, vol. II",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "f453ad2a67b60934f86336d9ce461d039cf407245d29e5abb902805211a29f3a",
+  "units": 270,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "status": "draft",
+   "numbering": {
+    "Ps": "hebrew"
+   },
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Psalms, vol. II (Ps. xxxvi.-lxxxiii.), tr. Francis Bolton (1871), as its title page reads; scan leaves 7-432 of biblicalcommenta187102deli"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1871); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommenta187102deli (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/biblicalcommenta187102deli",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 45,
+    "note": 211,
+    "page": 14
+   },
+   "footnote_lines": 394,
+   "junk_lines_dropped": 17,
+   "leaves_commentary": 411,
+   "leaves_page": 14,
+   "openers_accepted": 210,
+   "openers_out_of_sequence": 6,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 56,
+   "printed_page_read": 328,
+   "psalm_titles_read": 45,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 771,
+     "with_own_note": 32,
+     "chapters": [
+      36,
+      83
+     ],
+     "kjv_verses_in_chapters": 821
+    }
+   },
+   "scripture_links": {
+    "read": 2339,
+    "resolved": 2194
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 972,
+     "only_hebrew": 90,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 32,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1640,
+     "only_hebrew": 9,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "f35008ec5bbef0647955709b958482e8f6800b70a6aa15281128d002e1bb9f12"
+ },
+ "delitzsch-psalms-3": {
+  "title": "Biblical Commentary on the Psalms, vol. III",
+  "author": "Franz Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "ce83fe38fb61611a348f998a612776e990e62e5f015082fdcffb0a5787f0d8f9",
+  "units": 309,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "status": "draft",
+   "numbering": {
+    "Ps": "hebrew"
+   },
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): Franz Delitzsch, Biblical Commentary on the Psalms, vol. III (Ps. lxxxiv.-cl.), tr. Francis Bolton (second edition of the translation, 1881), as its title page reads; scan leaves 4-431 of commentarypsalm03deliuoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1881); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, commentarypsalm03deliuoft (Trinity College, Toronto copy)",
+   "source_url": "https://archive.org/details/commentarypsalm03deliuoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 63,
+    "note": 237,
+    "page": 9
+   },
+   "footnote_lines": 526,
+   "junk_lines_dropped": 6,
+   "leaves_commentary": 416,
+   "leaves_page": 9,
+   "openers_accepted": 236,
+   "openers_out_of_sequence": 7,
+   "openers_rejected": 3,
+   "printed_page_from_neighbours": 43,
+   "printed_page_read": 343,
+   "psalm_titles_read": 63,
+   "kjv_coverage": {
+    "Ps": {
+     "kjv_verses": 2461,
+     "commented": 1012,
+     "with_own_note": 20,
+     "chapters": [
+      84,
+      150
+     ],
+     "kjv_verses_in_chapters": 1141
+    }
+   },
+   "scripture_links": {
+    "read": 2705,
+    "resolved": 2522
+   },
+   "numbering_own": {
+    "Ps": {
+     "read": 994,
+     "only_hebrew": 17,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 53,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1777,
+     "only_hebrew": 9,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "19560f06a41fc5d2cf2bd4aa73b31453caf75d4630f82c6a4b1c44d0f4379b93"
  }
 }

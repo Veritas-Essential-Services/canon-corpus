@@ -191,11 +191,12 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
     python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
-    python3 pipeline/build_commentaries.py --fetch   # 13 commentaries: IA hOCR scans + PG #50857, pinned
+    python3 pipeline/build_commentaries.py --fetch   # 25 commentary volumes: IA hOCR scans + PG #50857, pinned
     python3 pipeline/build_commentaries.py           # notes keyed by verse -> data/books/<slug>.json + manifest
     python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_commentaries.py --report  # per book: openers, coverage, Greek (and Hebrew) measures
     python3 tests/commentaries_test.py       # the note readers on fixtures; the manifest's measures
+    python3 pipeline/build_commentaries.py --report delitzsch-psalms-2  # one volume (Alford, Bengel, K&D read by build_book_2b)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -622,6 +623,21 @@ The living truth for project state is the Obsidian vault:
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
   uuid5 of the passage uid, so a re-import adds nothing. Launch plan C5.
+- The commentaries' second shelf (2026-10-03, pipeline/build_commentaries.py,
+  table SECOND, reader build_book_2b): Alford's Greek Testament vols II-IV,
+  Bengel's Gnomon (T&T Clark English) vols II-IV, Keil & Delitzsch's
+  Pentateuch (3 vols) and Delitzsch's Psalms (3 vols), one book per volume
+  (`alford-commentary-3:Gal.2.20`, `delitzsch-psalms-2:51.5-6`), drafts from
+  IA hOCR, every scan chosen by measuring its text layer (comment above
+  SECOND). Not Lane A's slugs (alford-greek-testament-*, branch
+  claude/armarium-divines); where the scan is Lane A's the manifest says so
+  (scheme.same_scan_as, scan_choice). K&D: the numbering each volume prints
+  is MEASURED per book (existence votes, `decide`) and links go through
+  bhs-kjv.json where it is the Hebrew's (Delitzsch's Psalms: Hebrew; psalm
+  titles stay unresolved with why); their Hebrew is lost in every scan
+  (OCR'd as Latin debris), and the honesty says so. Not shelved, and why:
+  Alford vol. I and Bengel vols I and V (no scan keeps the Greek);
+  Delitzsch's Isaiah (no 'Ver.' openers: needs a running-head reader).
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
