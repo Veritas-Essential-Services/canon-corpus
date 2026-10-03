@@ -38,9 +38,9 @@
   "strabo"
  ],
  "_translators": {
-  "strabo-hamilton-falconer-v1": "H. C. Hamilton",
-  "strabo-hamilton-falconer-v2": "H. C. Hamilton",
-  "strabo-hamilton-falconer-v3": "H. C. Hamilton",
+  "strabo-hamilton-falconer-v1": "Hans Claude Hamilton",
+  "strabo-hamilton-falconer-v2": "Hans Claude Hamilton",
+  "strabo-hamilton-falconer-v3": "Hans Claude Hamilton",
   "strabo-perseus-jones-geography-books-6-14": "Horace Leonard Jones"
  },
  "_checks": {
@@ -49,36 +49,36 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "strabo",
-   "translator_claimed": "H. C. Hamilton",
+   "translator_claimed": "Hans Claude Hamilton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
-   "translator_match": false
+   "translator_match": true
   },
   "strabo-hamilton-falconer-v2": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "strabo",
-   "translator_claimed": "H. C. Hamilton",
+   "translator_claimed": "Hans Claude Hamilton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
-   "translator_match": false
+   "translator_match": true
   },
   "strabo-hamilton-falconer-v3": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "strabo",
-   "translator_claimed": "H. C. Hamilton",
+   "translator_claimed": "Hans Claude Hamilton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
-   "translator_match": false
+   "translator_match": true
   }
  },
  "_perseus_checks": {

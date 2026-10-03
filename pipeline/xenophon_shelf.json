@@ -118,20 +118,20 @@
   "xenophon"
  ],
  "_translators": {
-  "xenophon-anabasis": "H. G. Dakyns",
-  "xenophon-hellenica": "H. G. Dakyns",
+  "xenophon-anabasis": "Henry Graham Dakyns",
+  "xenophon-hellenica": "Henry Graham Dakyns",
   "xenophon-cyropaedia": "henry graham dakyns",
-  "xenophon-memorabilia": "H. G. Dakyns",
-  "xenophon-symposium": "H. G. Dakyns",
-  "xenophon-apology": "H. G. Dakyns",
-  "xenophon-economist": "H. G. Dakyns",
-  "xenophon-agesilaus": "H. G. Dakyns",
-  "xenophon-hiero": "H. G. Dakyns",
-  "xenophon-polity": "H. G. Dakyns",
-  "xenophon-revenues": "H. G. Dakyns",
-  "xenophon-cavalry-general": "H. G. Dakyns",
-  "xenophon-horsemanship": "H. G. Dakyns",
-  "xenophon-sportsman": "H. G. Dakyns",
+  "xenophon-memorabilia": "Henry Graham Dakyns",
+  "xenophon-symposium": "Henry Graham Dakyns",
+  "xenophon-apology": "Henry Graham Dakyns",
+  "xenophon-economist": "Henry Graham Dakyns",
+  "xenophon-agesilaus": "Henry Graham Dakyns",
+  "xenophon-hiero": "Henry Graham Dakyns",
+  "xenophon-polity": "Henry Graham Dakyns",
+  "xenophon-revenues": "Henry Graham Dakyns",
+  "xenophon-cavalry-general": "Henry Graham Dakyns",
+  "xenophon-horsemanship": "Henry Graham Dakyns",
+  "xenophon-sportsman": "Henry Graham Dakyns",
   "xenophon-bysshe-memorabilia": "Edward Bysshe",
   "xenophon-watson-anabasis-memorabilia": "J. S. Watson",
   "xenophon-watson-dale-cyropaedia-hellenics": "Henry Dale",
@@ -145,24 +145,24 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-hellenica": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-cyropaedia": {
    "kind": "gutenberg",
@@ -181,132 +181,132 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-symposium": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-apology": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-economist": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-agesilaus": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-hiero": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-polity": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-revenues": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-cavalry-general": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-horsemanship": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-sportsman": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "xenophon",
-   "translator_claimed": "H. G. Dakyns",
+   "translator_claimed": "Henry Graham Dakyns",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Graham Dakyns",
-   "translator_match": false
+   "translator_match": true
   },
   "xenophon-bysshe-memorabilia": {
    "kind": "gutenberg",

@@ -88,9 +88,9 @@
  "_translators": {
   "livy-bohn-1-8": "D. Spillan",
   "livy-bohn-9-26": "D. Spillan",
-  "livy-bohn-27-36": "Cyrus Edmonds",
+  "livy-bohn-27-36": "Cyrus R. Edmonds",
   "livy-bohn-37-end": "W. A. McDevitte",
-  "livy-church-brodribb-1-3": "Duffield Osborne",
+  "livy-church-brodribb-1-3": "Alfred John Church",
   "livy-foster-v1": "o. foster",
   "livy-foster-v4": "B. O. Foster",
   "livy-foster-v5": "B. O. Foster",
@@ -129,12 +129,12 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "livy",
-   "translator_claimed": "Cyrus Edmonds",
+   "translator_claimed": "Cyrus R. Edmonds",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Cyrus R. Edmonds",
-   "translator_match": false
+   "translator_match": true
   },
   "livy-bohn-37-end": {
    "kind": "gutenberg",
@@ -153,12 +153,12 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "livy",
-   "translator_claimed": "Duffield Osborne",
+   "translator_claimed": "Alfred John Church",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "William Jackson Brodribb; Alfred John Church; John Henry Freese",
-   "translator_match": false
+   "translator_match": true
   },
   "livy-foster-v1": {
    "kind": "ia",

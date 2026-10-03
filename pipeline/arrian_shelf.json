@@ -44,7 +44,7 @@
  "_translators": {
   "arrian-chinnock-anabasis": "E. J. Chinnock",
   "arrian-dansey-coursing": "William Dansey",
-  "arrian-mccrindle-nearkhos": "J. W. McCrindle",
+  "arrian-mccrindle-nearkhos": "John Watson McCrindle",
   "arrian-mccrindle-ancient-india": "J. W. McCrindle",
   "arrian-rooke-1729-v1": "John Rooke"
  },
@@ -78,12 +78,12 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "arrian",
-   "translator_claimed": "J. W. McCrindle",
+   "translator_claimed": "John Watson McCrindle",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "John Watson McCrindle",
-   "translator_match": false
+   "translator_match": true
   },
   "arrian-mccrindle-ancient-india": {
    "kind": "ia",

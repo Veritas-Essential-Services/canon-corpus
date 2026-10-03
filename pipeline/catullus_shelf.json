@@ -32,7 +32,7 @@
  ],
  "_translators": {
   "catullus-ellis": "Robinson Ellis",
-  "catullus-burton-smithers": "Richard Burton",
+  "catullus-burton-smithers": "Sir Richard Francis Burton",
   "catullus-tibullus-pervigilium-loeb": "f. w. cornish"
  },
  "_checks": {
@@ -53,12 +53,12 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "catullus",
-   "translator_claimed": "Richard Burton",
+   "translator_claimed": "Sir Richard Francis Burton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Richard Francis Burton; Leonard C. Smithers",
-   "translator_match": false
+   "translator_match": true
   },
   "catullus-tibullus-pervigilium-loeb": {
    "kind": "ia",

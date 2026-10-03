@@ -130,7 +130,7 @@
   "homer-pope-odyssey": "Alexander Pope",
   "homer-cowper-iliad": "William Cowper",
   "homer-cowper-odyssey": "William Cowper",
-  "homer-derby-iliad": "earl of derby",
+  "homer-derby-iliad": "Earl of Edward George Geoffrey Smith Stanley Derby",
   "homer-buckley-iliad": "Theodore Alois Buckley",
   "homer-butler-odyssey": "Samuel Butler",
   "homer-bryant-iliad-v1": "William Cullen Bryant",
@@ -222,12 +222,12 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "homer",
-   "translator_claimed": "earl of derby",
+   "translator_claimed": "Earl of Edward George Geoffrey Smith Stanley Derby",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Earl of Edward George Geoffrey Smith Stanley Derby",
-   "translator_match": false
+   "translator_match": true
   },
   "homer-buckley-iliad": {
    "kind": "gutenberg",

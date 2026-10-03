@@ -165,8 +165,8 @@
  ],
  "_translators": {
   "cicero-yonge-orations-v4": "charles duke yonge",
-  "cicero-yonge-academics-finibus-tusculans": "C. D. Yonge",
-  "cicero-yonge-tusculans-nature-gods": "C. D. Yonge",
+  "cicero-yonge-academics-finibus-tusculans": "Charles Duke Yonge",
+  "cicero-yonge-tusculans-nature-gods": "Charles Duke Yonge",
   "cicero-shuckburgh-friendship-old-age": "Evelyn S. Shuckburgh",
   "cicero-peabody-amicitia": "Andrew P. Peabody",
   "cicero-featherstonhaugh-republic": "George William Featherstonhaugh",
@@ -174,9 +174,9 @@
   "cicero-shuckburgh-letters-v1": "Evelyn S. Shuckburgh",
   "cicero-shuckburgh-letters-selection": "Evelyn S. Shuckburgh",
   "cicero-miller-de-officiis": "Walter Miller",
-  "cicero-winstedt-atticus-v1": "E. O. Winstedt",
-  "cicero-winstedt-atticus-v2": "E. O. Winstedt",
-  "cicero-winstedt-atticus-v3": "E. O. Winstedt",
+  "cicero-winstedt-atticus-v1": "Eric Otto Winstedt",
+  "cicero-winstedt-atticus-v2": "Eric Otto Winstedt",
+  "cicero-winstedt-atticus-v3": "Eric Otto Winstedt",
   "cicero-yonge-orations-v1": "C. D. Yonge",
   "cicero-yonge-orations-v2": "C. D. Yonge",
   "cicero-yonge-orations-v3": "yonge",
@@ -214,24 +214,24 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cicero",
-   "translator_claimed": "C. D. Yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Charles Duke Yonge",
-   "translator_match": false
+   "translator_match": true
   },
   "cicero-yonge-tusculans-nature-gods": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cicero",
-   "translator_claimed": "C. D. Yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Charles Duke Yonge",
-   "translator_match": false
+   "translator_match": true
   },
   "cicero-shuckburgh-friendship-old-age": {
    "kind": "gutenberg",
@@ -322,36 +322,36 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cicero",
-   "translator_claimed": "E. O. Winstedt",
+   "translator_claimed": "Eric Otto Winstedt",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Eric Otto Winstedt",
-   "translator_match": false
+   "translator_match": true
   },
   "cicero-winstedt-atticus-v2": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cicero",
-   "translator_claimed": "E. O. Winstedt",
+   "translator_claimed": "Eric Otto Winstedt",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Eric Otto Winstedt",
-   "translator_match": false
+   "translator_match": true
   },
   "cicero-winstedt-atticus-v3": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cicero",
-   "translator_claimed": "E. O. Winstedt",
+   "translator_claimed": "Eric Otto Winstedt",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Eric Otto Winstedt",
-   "translator_match": false
+   "translator_match": true
   },
   "cicero-yonge-orations-v1": {
    "kind": "ia",
