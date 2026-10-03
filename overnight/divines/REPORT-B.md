@@ -406,3 +406,10 @@
 - McCrindle label kept at 1893 on the title page's evidence; IA's 1896 noted
 - Virgil Pitt vol. III: title_weak explained (Æneid ligature), title page recorded
 - Plutarch: stale Holland exclusion removed
+
+## 2026-10-03 02:38 CDT — Euripides and Aristophanes
+- Euripides: Oxford literal prose Hecuba, Orestes, Phoenissae, Medea (1820s; translator unnamed)
+- Aristophanes: Walsh's Acharnians, Knights, Clouds (Bohn, 1848)
+- Aristophanes: Comedies (Clouds, Plutus, Frogs, Birds; Valpy, 1812)
+- Aristophanes: Oxford literal Plutus and Frogs (Talboys, 1822; unnamed)
+- Aristophanes: Acharnians in verse by Billson (1882) and Tyrrell (1883)

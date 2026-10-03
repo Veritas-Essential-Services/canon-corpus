@@ -676,6 +676,14 @@
    "started": "2026-10-03T02:30:20-05:00",
    "finished": "2026-10-03T02:35:19-05:00",
    "notes": "1) Name collisions: maximus-tyrius ['maximus tyrius','tyrius']; valerius-maximus ['valerius maximus','valerius']; greek-romances drops bare xenophon, Xenophon of Ephesus row checks ['abrocomas','anthia']; apollonius ['apollonius rhodius','rhodius','apollonius of rhodes']; archimedes Perga row ['apollonius of perga','perga']; pythagoreans Sallustius row ['sallust on the gods','demophilus']; hermetica ['trismegistus','hermes trismegistus']. All items re-recorded, all pass, no shared forms left. 2) Arrian: label kept at 1893; the scanned title page reads MDCCCXCIII and its advertisements stop at 1892; IA's 1896 is the catalogue's. Noted in _about. 3) virgil-pitt-warton-1763-v3 title_weak is the Æ ligature (OCR '/ENEID'); title page read and recorded under _identity_checked; the flag stays as computed. 4) Plutarch: the stale _excluded note on Holland's 1603 Morals removed (the parts are held, OCR 0.90-0.92)."
+  },
+  {
+   "id": "euripides-aristophanes-single",
+   "status": "done",
+   "scope": "Single-play and early versions: Euripides (Oxford crib) and Aristophanes (five volumes)",
+   "started": "2026-10-03T02:35:19-05:00",
+   "finished": "2026-10-03T02:38:58-05:00",
+   "notes": "Euripides: anonymous Oxford literal Hecuba, Orestes, Phoenissae, Medea (Talboys and Wheeler, undated, catalogue [182-?]). Aristophanes: Walsh 1848 (Bohn), Valpy 1812 (names Cumberland and Dunster; claim checked: Cumberland), Talboys 1822 (anonymous), Billson 1882, Tyrrell 1883. All OCR 0.82-0.94."
   }
  ]
 }

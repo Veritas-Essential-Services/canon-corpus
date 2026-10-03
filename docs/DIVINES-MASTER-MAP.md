@@ -2147,6 +2147,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides, translated by R. Potter, vol. 3 (Valpy, 1832) | Robert Potter | `euripides-potter-v3` | have-raw (IA `euripides02pottgoog`) |
 | The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850) | Theodore Alois Buckley | `euripides-buckley-v2` | have-raw (IA `tragedieseuripi01eurigoog`) |
 | The Medea of Euripides, literally translated into English verse (Macmillan, 1868) | Augusta Webster | `euripides-webster-medea-1868` | have-raw (IA `medeaofeuripides00euririch`) |
+| The Hecuba, Orestes, Phoenician Virgins, and Medea, literally translated (Oxford: Talboys and Wheeler; undated, 3rd ed.) | unnamed | `euripides-oxford-literal-hecuba-etc` | have-raw (IA `hecubaorestespho00euriuoft`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -2197,6 +2198,11 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822) | Thomas Mitchell | `aristophanes-mitchell-1822-v2` | have-raw (IA `comediesaristop00mitcgoog`) |
 | The Comedies of Aristophanes, translated into familiar blank verse, vol. I (Oxford: D. A. Talboys; IA records 1837) | C. A. Wheelwright | `aristophanes-wheelwright-1837-v1` | have-raw (IA `comediesaristop01arisgoog`) |
 | The Comedies of Aristophanes, translated into familiar blank verse, vol. II (Oxford: D. A. Talboys; IA records 1837) | C. A. Wheelwright | `aristophanes-wheelwright-1837-v2` | have-raw (IA `comediesofaristo02aris`) |
+| The Acharnians, Knights, and Clouds, translated into corresponding English metres (Bohn, 1848) | Benjamin Dann Walsh | `aristophanes-walsh-1848` | have-raw (IA `acharniansknight00aris`) |
+| Comedies of Aristophanes: the Clouds, Plutus, the Frogs, the Birds, translated into English, with notes (Valpy for Lackington, Allen, 1812) | Richard Cumberland and others (the volume names Cumberland and Dunster) | `aristophanes-valpy-1812` | have-raw (IA `comediesofaristo00aris`) |
+| The Comedies of Plutus and the Frogs, literally translated into English prose (Oxford: Talboys, 1822) | unnamed (an Oxford literal crib) | `aristophanes-talboys-plutus-frogs-1822` | have-raw (IA `comediesplutusa00arisgoog`) |
+| The Acharnians of Aristophanes, translated into English verse (Kegan Paul, Trench, 1882) | Charles James Billson | `aristophanes-billson-acharnians-1882` | have-raw (IA `acharniansofaris00arisrich`) |
+| The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883) | Robert Yelverton Tyrrell | `aristophanes-tyrrell-acharnians-1883` | have-raw (IA `aristophanesach00arisrich`) |
 
 Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (no IA text file) and Mitchell's vol. I (1820; no scan found).
 
