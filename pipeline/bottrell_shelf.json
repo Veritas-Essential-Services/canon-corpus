@@ -1,0 +1,55 @@
+{
+ "_about": "William Bottrell's West Cornwall legends and droll-tellers' stories: Traditions and Hearthside Stories of West Cornwall, Second Series (1873), and Stories and Folk-Lore of West Cornwall, Third Series (1880). Gutenberg has no First Series. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "William Bottrell",
+ "_name_words": [
+  "bottrell"
+ ],
+ "_surname": [
+  "william bottrell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bottrell-traditions-and-hearthside-stories-2": [
+   41761,
+   "Traditions and Hearthside Stories of West Cornwall, Second Series",
+   {
+    "levels": [
+     {
+      "re": "(?!\\* )[A-Z][^a-z]*[A-Z.)\\]]$",
+      "strip": " ?\\[\\d+\\]",
+      "max": 120,
+      "number_repeats": true
+     }
+    ],
+    "start": "STORIES AND TRADITIONS OF PENWITH\\.$",
+    "front": true
+   }
+  ],
+  "bottrell-stories-and-folk-lore-3": [
+   75799,
+   "Stories and Folk-Lore of West Cornwall, Third Series"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bottrell-traditions-and-hearthside-stories-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bottrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bottrell-stories-and-folk-lore-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bottrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
