@@ -40,6 +40,11 @@
    "worksofanacreons00fawkuoft",
    "The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760)",
    "tr. Francis Fawkes"
+  ],
+  "anacreon-girdlestone-1804": [
+   "odesanacreontra00girdgoog",
+   "The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804)",
+   "tr. Thomas Girdlestone"
   ]
  },
  "_excluded": {
@@ -64,7 +69,8 @@
   "anacreon-moore": "Thomas Moore",
   "bacchylides-poste": "poste",
   "greek-anthology-burges-1854": "George Burges",
-  "anacreon-fawkes-1760": "Fawkes"
+  "anacreon-fawkes-1760": "Fawkes",
+  "anacreon-girdlestone-1804": "Girdlestone"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -140,6 +146,19 @@
    "ia_date": "1760",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "anacreon-girdlestone-1804": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Girdlestone",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
@@ -156,6 +175,9 @@
    "bacchylides"
   ],
   "anacreon-fawkes-1760": [
+   "anacreon"
+  ],
+  "anacreon-girdlestone-1804": [
    "anacreon"
   ]
  }
