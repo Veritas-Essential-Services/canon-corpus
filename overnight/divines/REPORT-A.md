@@ -244,3 +244,6 @@
 
 ## 2026-10-02 20:19 CDT — swinnock done
 - `pipeline/swinnock_shelf.json`: 5 volumes, raw IA OCR, median 98.6% (97.9-98.8%), about 7.6 MB; title pages read (Nichol, vols I-V). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Built with a new scratchpad helper, `mkshelf.py`, that writes a shelf from a short spec.
+
+## 2026-10-02 20:21 CDT — thomas-adams done
+- `pipeline/thomas-adams_shelf.json`: 3 volumes, raw IA OCR, median 96.1% (95.7-96.8%), about 6.9 MB; title pages read (Nichol, Angus, vols I-III). The surname check uses "thomas adams", since "adams" alone is too common. A line in the first draft quoting Southey on Adams was dropped: it was not found in the text. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

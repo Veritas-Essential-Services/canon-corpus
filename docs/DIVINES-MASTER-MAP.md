@@ -926,6 +926,14 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `swinnock-*`.
 |---|---|---|
 | Works, 5 vols (Edinburgh: Nichol, 1868): The Christian Man's Calling, The Door of Salvation Opened, Heaven and Hell Epitomized, The Incomparableness of God, The Fading of the Flesh and the rest | have-raw | IA (identifiers in the shelf) |
 | First editions, 1659-1679 | alternate | IA (EEBO) |
+
+## Thomas Adams (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `tadams-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 3 vols (Edinburgh: Nichol, 1861-62, memoir by Joseph Angus): his sermons, meditations and discourses | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
