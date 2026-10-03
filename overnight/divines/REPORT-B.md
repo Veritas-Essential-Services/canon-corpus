@@ -527,3 +527,7 @@
 - Refused: Sherburne's Sphere of Manilius (1675), OCR 0.69
 - Review: Plaistowe, Rose, Arnold dated from bound-in lists and prefaces (1898, 1866, 1868)
 - Review: 27 translator checks moved to full names; H. S. Wright and Moore unchecked
+
+## 2026-10-03 06:59 CDT — Dark volumes found
+- J. G. Frazer, Pausanias vol. I: Translation (1898), DLI scan, 0.92
+- William Sotheby, Odyssey Books I-XII (vol. III, 1834), Google scan, 0.80; completes his four-volume set
