@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:57 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:59 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -163,6 +163,7 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 | Henry Venn | henry-venn_shelf.json | none | 1 (The Complete Duty of Man, New York 1838) | none | earlier printings with long s |
 | John Fletcher of Madeley | john-fletcher_shelf.json | none | 4 (Works, New York, 4 vols; catalogued 1833, imprints Carlton and Porter / Carlton and Lanahan, undated) | none | the 1826 and 1836 English sets; the Posthumous Works (1824) |
 | Robert Hall | robert-hall_shelf.json | none | 7 (Works, ed. Olinthus Gregory, London: Bohn, 6 vols; Miscellaneous Works and Remains; catalogued 1846) | none | the 1831-33 Holdsworth and Ball set; Harper's New York editions |
+| Edward Payson | edward-payson_shelf.json | none | 3 (Complete Works, Philadelphia 1851) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

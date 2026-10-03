@@ -1393,6 +1393,15 @@ Slugs `rhall-*` (not `hall-*`, which is Joseph Hall's).
 |---|---|---|
 | Works, ed. Olinthus Gregory, 6 vols (London: Bohn; catalogued 1846) | have-raw | IA (identifiers in the shelf) |
 | Miscellaneous Works and Remains (London: Bohn; catalogued 1846) | have-raw | IA |
+
+
+## Edward Payson (round 9, my pick, 2026-10-03)
+
+Slugs `payson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Complete Works, 3 vols (Philadelphia: Gihon, 1851) | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

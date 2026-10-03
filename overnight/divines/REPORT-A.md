@@ -387,3 +387,6 @@
 
 ## 2026-10-03 00:57 CDT — robert-hall done
 - `pipeline/robert-hall_shelf.json`: Bohn's Works, 6 volumes, and the Miscellaneous Works and Remains, raw IA OCR, median 98.4% (98.3-98.7%), about 7 MB; title pages read (Gregory, Bohn; no year printed, so the catalogue's 1846 is labelled as such). `--verify --record`: 0 mismatched, 0 rights flags; all 7 matched on "robert hall". 0 uids minted.
+
+## 2026-10-03 00:59 CDT — edward-payson done
+- `pipeline/edward-payson_shelf.json`: the 1851 Complete Works, 3 volumes of raw IA OCR, median 99.0%, about 4.7 MB; title pages read (1851). `--verify --record`: 0 mismatched, 0 rights flags; matched on "edward payson". 0 uids minted.
