@@ -560,3 +560,9 @@
 - Anonymous ('a Member of the University of Oxford'), Bacchae and Heraclidae literally translated (1846), 0.92
 - Refused under the OCR bar: Conington's Agamemnon 1848 (0.74), a W. F. Alcestis 1870 (0.77), Hadley's Alcestis (0.68), an ECCO 1786 Hippolytus and Iphigenia (0.71)
 - Skipped as already covered: Madan's Juvenal (Dublin 1822), Dryden's multi-hand Juvenal and Persius (1812; the Dryden shelf)
+
+## 2026-10-03 07:17 CDT — Cicero title sweep
+- James S. Reid, Academics (1880), 0.93; translator unchecked
+- Benjamin E. Smith, De Amicitia (copyright 1897), 0.91
+- Robert Black, Death No Bane, Tusculan I (1889), 0.87
+- Catullus, Tibullus, Lucretius, Theocritus: nothing new

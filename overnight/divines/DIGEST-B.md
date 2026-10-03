@@ -152,3 +152,4 @@
 - Virgil and Horace: eight more translators held from title sweeps (07:08). No decision needed.
 - Sophocles: five more translators held (Young, Doyle, Mongan, Hull, Palmer) (07:11). No decision needed.
 - Tragedy and satire sweeps: one new Euripides volume, the rest already covered (07:13). No decision needed.
+- Cicero: Reid's Academics, Smith's De Amicitia and Black's Tusculan I added (07:17). No decision needed.

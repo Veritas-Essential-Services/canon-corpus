@@ -892,6 +892,14 @@
    "started": "2026-10-03T07:11:12-05:00",
    "finished": "2026-10-03T07:13:28-05:00",
    "notes": "Euripides: an anonymous literal Bacchae and Heraclidae (1846) added. Aeschylus: nothing new (Conington 1848 at 0.74). Juvenal and Persius: nothing new (Madan's 1822 Dublin reprint and Dryden's multi-hand 1812 volume are already covered)."
+  },
+  {
+   "id": "title-sweep-cicero",
+   "status": "done",
+   "scope": "Title sweep of IA for Cicero translations not yet held",
+   "started": "2026-10-03T07:13:28-05:00",
+   "finished": "2026-10-03T07:17:47-05:00",
+   "notes": "Added Reid's Academics 1880 (translator unchecked, OCR splits the name), B. E. Smith's De Amicitia (copyright 1897), Black's Death No Bane 1889 (storage-node read). Catullus, Tibullus, Lucretius and Theocritus sweeps found nothing new."
   }
  ]
 }
