@@ -19,17 +19,24 @@ the wrong book (Lake's "Jon. 3" encoded as John 3; "Ps. 33, 9" as the NT's
    disagreement as `why`. That is the flag; nothing is silently dropped.
 3. A note whose label has no reference (a URN alone) is resolved from the URN.
 
-RESOLUTION. Lake mostly cites the Old Testament as the Septuagint numbers it
-(his "Ps. 54, 23" is the KJV's Ps 55:22), and First1KGreek keyed every OT
-reference to the Septuagint, so OT references go through Brenton's LXX -> KJV
-map (data/versification/brenton-kjv.json, PR #9, versification.resolve_brenton).
-But not always: "Ps. 37, 9. 38" at 1 Clem. 14.4 is the English Ps 37. So where
-the English numbering names a different KJV verse it is kept as `alt_target`,
-and where Brenton has no such verse but the English numbering does, that is
-the reading (`numbering: "english"`). NT references are the KJV's numbering already
-and resolve when the verse exists. References to 1 or 2 Clement resolve to
-this build's own unit ids. A whole chapter, a book outside the KJV (Tobit,
-Wisdom, Sirach), a verse that does not exist (an OCR digit) and anything not
+RESOLUTION. NT references are the KJV's numbering already and resolve when
+the verse exists. References to 1 or 2 Clement resolve to this build's own
+unit ids. An OT reference is read in two numberings: the Septuagint's,
+through Brenton's LXX -> KJV map (data/versification/brenton-kjv.json, PR #9,
+versification.resolve_brenton), and the English (KJV) numbering as printed.
+Where only one of them has such a verse, that one is the reading ("Ps. 54,
+23" exists only in the Greek count: the KJV's Ps 55:22). Where both exist
+and name different KJV verses, Lake is NOT consistent: read side by side
+with the Greek of the section (2026-10-03, all 77 such links), about 50 cite
+the English numbering ("Pa 110, 1", "sit thou at my right hand", at 1 Clem.
+36.5), 13 the Septuagint's (the prayer at 1 Clem. 59, Hermas's Visions 1-2,
+Did. 3.7's "the meek shall inherit the earth"), and the rest neither (an OCR
+digit: "Exod. 8, 11" for 3, 11 at 1 Clem. 17.5). That reading is the table
+LAKE_OT below, one row per link with its reason. An unread link takes the
+English numbering, the majority, as `numbering: "english"` with Brenton's
+verse kept as `alt_target`; a link read as neither stays `resolved: false`
+with both candidates. A whole chapter, a book outside the KJV (Tobit, Wisdom,
+Sirach), a verse that does not exist (an OCR digit) and anything not
 scripture (Zenobius, Enoch) stay `resolved: false`, each with its reason.
 """
 import re
@@ -49,7 +56,7 @@ LXX_TLG = {1: "Gen", 2: "Exod", 3: "Lev", 4: "Num", 5: "Deut", 6: "Josh", 8: "Ju
            46: "Zech", 47: "Mal", 48: "Isa", 49: "Jer", 50: "Bar", 51: "Lam", 53: "Ezek", 56: "Dan"}
 SINGLE_CHAPTER = {"Obad", "Phlm", "2John", "3John", "Jude"}
 
-_I = r"(?:I|1|l)\s?"           # "I", "1", OCR "l"
+_I = r"(?:I|1|l|i)\.?\s?"      # "I", "I.", "1", OCR "l" and "i" ("*i Jo. 4, 9")
 _II = r"(?:II|2|11)\s?"        # "II", "2", OCR "11"
 # (pattern, corpus, book). Corpus: nt (KJV numbering), lxx (Brenton), af (this build).
 ABBREVS = [
@@ -66,7 +73,7 @@ ABBREVS = [
     (r"M(?:t|att|atth)", "nt", "Matt"), (r"M(?:k|c|ark)", "nt", "Mark"),
     (r"L(?:uke|uk|k|c)", "nt", "Luke"), (r"J(?:oh|o|uh|ohn)", "nt", "John"),
     (r"Acts", "nt", "Acts"), (r"Rom", "nt", "Rom"), (r"Gal", "nt", "Gal"),
-    (r"E(?:ph|pb)", "nt", "Eph"), (r"Ph(?:ilipp|il|ll)", "nt", "Phil"), (r"Col", "nt", "Col"),
+    (r"(?:E(?:ph|pb)|Rph)", "nt", "Eph"), (r"Ph(?:ilipp|il|ll)", "nt", "Phil"), (r"Col", "nt", "Col"),
     (r"Tit", "nt", "Titus"), (r"Philem", "nt", "Phlm"), (r"H(?:eb|cb|ev)", "nt", "Heb"),
     (r"Ja(?:m|mes|c)", "nt", "Jas"), (r"Jude", "nt", "Jude"), (r"(?:Rev|Apoc)", "nt", "Rev"),
     (r"Gen", "lxx", "Gen"), (r"(?:Exod|Erod|Ex)", "lxx", "Exod"), (r"(?:Lev|Lv)", "lxx", "Lev"),
@@ -95,8 +102,27 @@ def label_books(label):
     return out
 
 
+# A capitalised word that is no book ends a book's run of numbers: "Jer 17. 24.
+# 25, cf. RL 91, 13-17" (Barn. 15.2) cites Jeremiah 17:24-25 and something else.
+_STOP = re.compile(r"(?<![A-Za-z])(?!Cf\b)[A-Z][A-Za-z]+")
+
+
+def _missing_semicolons(part):
+    """Lake's "14, 31 15, 10" (Herm. Sim. 5.6.3) is "14, 31; 15, 10" with the
+    semicolon lost: once a chapter has been marked with a comma, a number
+    after bare whitespace that takes a comma itself starts a new chapter. A
+    bare "32 8-9" (no comma yet) is still chapter and verse."""
+    first = part.find(",")
+    if first < 0:
+        return [part]
+    head, tail = part[:first + 1], part[first + 1:]
+    return (head + re.sub(r"(\d)\s+(?=\d+\s*,)", r"\1;", tail)).split(";")
+
+
 def parse_label(label):
-    """[(corpus, book, chapter, verse or None, end verse or None)] in label order.
+    """[(corpus, book, chapter, verse or None, end)] in label order. `end` is a
+    verse of the same chapter, a (chapter, verse) pair for a range that crosses
+    into the next chapter ("4, 19-5, 6"), or None.
     After a book: `ch, v`, `ch, v. v2`, `ch, v, v2`, `ch, v-v2`, `ch` alone, and
     `; ch, v` again in the same book. For a one-chapter book, `n` is the verse."""
     books = label_books(label)
@@ -107,7 +133,17 @@ def parse_label(label):
         # "(*wulg. 35.9)" is another numbering, and is dropped.
         seg = re.sub(r"\(\s*[^\d\s(][^)]*\)?", " ", seg).replace("(", ";").replace(")", " ")
         seg = re.sub(r"^(\W*)[Il](?=\s*,)", r"\g<1>1", seg)   # OCR: "Is. I, 16" is chapter 1
-        for part in seg.split(";"):
+        stop = _STOP.search(seg)
+        seg = seg[:stop.start()] if stop else seg
+        for part in (q for p in seg.split(";") for q in _missing_semicolons(p)):
+            # "4, 19-5, 6" (1 Clem. 39.2): a range into the next chapter
+            cross = None
+            first = part.find(",")
+            if first >= 0:
+                m = re.search(r"(\d+)\s*-\s*(\d+)\s*,\s*(\d+)", part[first + 1:])
+                if m:
+                    cross = (int(m.group(1)), (int(m.group(2)), int(m.group(3))))
+                    part = part[:first + 1 + m.start()] + m.group(1)
             toks = re.findall(r"\d+|-", part)
             while toks and toks[0] == "-":
                 toks.pop(0)
@@ -130,10 +166,88 @@ def parse_label(label):
                     refs.append((corpus, book, ch, v, int(rest[i + 2])))
                     i += 3
                 else:
-                    refs.append((corpus, book, ch, v, None))
+                    last = cross is not None and i == len(rest) - 1 and v == cross[0]
+                    refs.append((corpus, book, ch, v, cross[1] if last else None))
                     i += 1
     return refs
 
+
+# Lake's OT references where the Septuagint's and the English numbering both
+# have the verse and name different KJV verses, read against the Greek of the
+# section and Brenton's English of both candidates (2026-10-03). Key: (unit id,
+# the link's printed ref). "lxx": the Septuagint's count is the passage;
+# "english": the English count is; "neither": neither verse is the passage.
+_LXX, _EN = "lxx", "english"
+LAKE_OT = {
+    ("1clement-lake:2.8", "Prov 7:8"): ("neither", "the section quotes Prov 7:3 (the tablet of the heart): an OCR digit"),
+    ("1clement-lake:13.1", "Jer 9:23-24"): (_EN, "let not the wise man glory in his wisdom"),
+    ("1clement-lake:14.4", "Ps 37:9"): (_EN, "the upright shall inhabit the land"),
+    ("1clement-lake:14.4", "Ps 87:5-7"): ("neither", "OCR'd 'Ps. 87. B5-B7'; 1 Clem. 14.5 quotes Ps 37:35-37"),
+    ("1clement-lake:15.2", "Ps 61:5"): (_LXX, "they bless with their mouth but curse in their heart"),
+    ("1clement-lake:15.5", "Ps 12:3-5"): (_EN, "the Lord shall cut off all flattering lips"),
+    ("1clement-lake:16.14", "Ps 22:6-8"): (_EN, "I am a worm, and no man"),
+    ("1clement-lake:17.5", "Exod 8:11"): ("neither", "'who am I?' from the bush is Exod 3:11: an OCR digit"),
+    ("1clement-lake:22.1", "Ps 34:11"): (_EN, "come, ye children, hearken unto me"),
+    ("1clement-lake:22.1", "Ps 34:17"): (_EN, "the end of the run Ps 34:11-17 the section quotes"),
+    ("1clement-lake:26.2", "Ps 3:5"): (_EN, "I laid me down and slept; I awaked"),
+    ("1clement-lake:27.6", "Ps 10:1-3"): ("neither", "1 Clem. 27.7 quotes Ps 19:1-3, the heavens declare: an OCR digit"),
+    ("1clement-lake:28.2", "Ps 109:7-8"): ("neither", "whither shall I go from thy spirit is Ps 139:7-8: an OCR digit"),
+    ("1clement-lake:35.6", "Ps 50:10"): (_EN, "1 Clem. 35.7 quotes Ps 50:16-23, 'unto the wicked God saith'"),
+    ("1clement-lake:36.2", "Ps 104:4"): (_EN, "who maketh his angels spirits"),
+    ("1clement-lake:36.5", "Ps 110:1"): (_EN, "sit thou at my right hand"),
+    ("1clement-lake:45.5", "Dan 6:16"): (_EN, "Daniel cast into the den of lions"),
+    ("1clement-lake:48.2", "Ps 118:19"): (_EN, "open to me the gates of righteousness"),
+    ("1clement-lake:48.2", "Ps 118:20"): (_EN, "this gate of the Lord, into which the righteous shall enter"),
+    ("1clement-lake:50.6", "Ps 32:1"): (_EN, "blessed is he whose transgression is forgiven"),
+    ("1clement-lake:50.6", "Ps 32:2"): (_EN, "blessed is the man unto whom the Lord imputeth not iniquity"),
+    ("1clement-lake:51.3", "Ps 49:14"): (_LXX, "offer unto God the sacrifice of praise (1 Clem. 52.3)"),
+    ("1clement-lake:52.2", "Ps 50:14"): (_EN, "offer unto God thanksgiving (1 Clem. 52.3)"),
+    ("1clement-lake:52.2", "Ps 50:15"): (_EN, "call upon me in the day of trouble (1 Clem. 52.3)"),
+    ("1clement-lake:54.3", "Ps 24:1"): (_EN, "the earth is the Lord's, and the fulness thereof"),
+    ("1clement-lake:56.4", "Ps 141:5"): (_EN, "let the righteous smite me; it shall be a kindness"),
+    ("1clement-lake:59.3", "Ps 32:10"): (_LXX, "the Lord bringeth the counsel of the heathen to nought"),
+    ("1clement-lake:59.4", "Ps 78:13"): (_LXX, "we thy people and sheep of thy pasture"),
+    ("1clement-lake:59.4", "Ps 94:7"): (_LXX, "we are the people of his pasture, and the sheep of his hand"),
+    ("1clement-lake:60.2", "Ps 40:2"): (_EN, "he set my feet upon a rock, and established my goings"),
+    ("1clement-lake:60.3", "Ps 80:3"): (_EN, "cause thy face to shine"),
+    ("1clement-lake:60.3", "Ps 80:7"): (_EN, "cause thy face to shine"),
+    ("1clement-lake:60.4", "Jer 32:21"): (_EN, "with a strong hand, and with a stretched out arm"),
+    ("1clement-lake:61.2", "Deut 13:18"): (_EN, "to do that which is good and pleasing before the Lord"),
+    ("barnabas-lake:6.5", "Ps 18:12"): ("neither", "OCR'd 'I 18, 12': Barn. 6.6 quotes Ps 118:12, they compassed me about like bees"),
+    ("barnabas-lake:12.10", "Ps 110:1"): (_EN, "the Lord said unto my Lord, sit thou at my right hand"),
+    ("barnabas-lake:15.1", "Ps 23:4"): (_LXX, "clean hands and a pure heart"),
+    ("barnabas-lake:19.9", "Ps 17:8"): (_EN, "the apple of the eye"),
+    ("barnabas-lake:20.2", "Ps 4:2"): (_EN, "ye love vanity, and seek after leasing"),
+    ("didache-lake:3.8", "Ps 36:11"): (_LXX, "the meek shall inherit the earth"),
+    ("didache-lake:5.2", "Ps 4:2"): (_EN, "ye love vanity, and seek after leasing"),
+    ("diognetus-lake:3.3", "Ps 146:6"): (_EN, "which made heaven, and earth, the sea"),
+    ("hermas-lake:Vis.1.1.6", "Ps 123:1"): (_EN, "thou that dwellest in the heavens"),
+    ("hermas-lake:Vis.1.3.3", "Ps 58:6"): (_LXX, "the God of hosts (ὁ θεὸς τῶν δυνάμεων)"),
+    ("hermas-lake:Vis.1.3.4", "Ps 135:6"): (_LXX, "that stretched out the earth above the waters"),
+    ("hermas-lake:Vis.2.1.2", "Ps 85:9"): (_LXX, "and shall glorify thy name"),
+    ("hermas-lake:Vis.2.1.2", "Ps 85:12"): (_LXX, "I will glorify thy name for evermore"),
+    ("hermas-lake:Vis.2.2.6", "Ps 15:2"): (_EN, "he that worketh righteousness"),
+    ("hermas-lake:Vis.2.3.2", "Ps 106:3"): (_EN, "he that doeth righteousness at all times"),
+    ("hermas-lake:Vis.2.3.2", "Ps 15:2"): (_EN, "he that walketh uprightly, and worketh righteousness"),
+    ("hermas-lake:Vis.3.9.8", "Ps 47:2"): (_EN, "a great King"),
+    ("hermas-lake:Vis.4.1.3", "Ps 99:3"): (_EN, "thy great and terrible name"),
+    ("hermas-lake:Vis.4.2.1", "Ps 19:5"): (_EN, "as a bridegroom coming out of his chamber"),
+    ("hermas-lake:Vis.4.2.4", "Ps 62:7"): (_EN, "in God is my salvation"),
+    ("hermas-lake:Vis.4.2.4", "Dan 6:22"): (_EN, "my God hath sent his angel"),
+    ("hermas-lake:Mand.10.1.6", "Ps 111:10"): (_EN, "the fear of the Lord is the beginning of wisdom"),
+    ("hermas-lake:Mand.12.3.1", "Ps 15:2"): (_EN, "worketh righteousness, and speaketh the truth"),
+    ("hermas-lake:Mand.12.4.2", "Ps 8:7"): (_LXX, "thou hast put all things under his feet"),
+    ("hermas-lake:Mand.12.6.2", "Ps 15:2"): (_EN, "worketh righteousness"),
+    ("hermas-lake:Sim.1.1.7", "Ps 103:18"): (_EN, "to those that remember his commandments to do them"),
+    ("hermas-lake:Sim.6.1.1", "Ps 119:1"): (_EN, "blessed are the undefiled, who walk in the law"),
+    ("hermas-lake:Sim.6.3.6", "Ps 51:10"): (_EN, "create in me a clean heart"),
+    ("hermas-lake:Sim.6.3.6", "Ps 62:12"): (_EN, "thou renderest to every man according to his work"),
+    ("hermas-lake:Sim.9.18.5", "Ps 99:3"): (_EN, "thy great and terrible name"),
+    ("ignatius-lake:Eph.15.1", "Ps 33:9"): (_EN, "he spake, and it was done"),
+    ("ignatius-lake:Eph.15.1", "Ps 143:5"): ("neither", "probably Ps 148:5, he commanded and they were created: an OCR digit"),
+    ("martyrdom-polycarp-lake:2.3", "Isa 64:4"): (_EN, "neither hath the eye seen"),
+    ("polycarp-phil-lake:12.1", "Ps 4:5"): (_LXX, "be ye angry, and sin not"),
+}
 
 URN_RE = re.compile(r"urn:cts:greekLit:tlg(\d{4})\.tlg(\d{3}):(\d+)(?:\.(\d+))?(?:-(\d+)(?:\.(\d+))?)?")
 
@@ -162,17 +276,19 @@ def parse_urn(urn):
 
 def printed(ref):
     corpus, book, ch, v, end = ref
+    if isinstance(end, tuple):
+        return f"{book} {ch}:{v}-{end[0]}:{end[1]}"
     return f"{book} {ch}" + (f":{v}" if v else "") + (f"-{end}" if end else "")
 
 
-def resolve(ref, ctx):
-    """The link fields for one reference."""
+def resolve(ref, ctx, uid=None):
+    """The link fields for one reference, in unit `uid`."""
     corpus, book, ch, v, end = ref
     out = {"ref": printed(ref), "corpus": corpus}
     if v is None:
         return {**out, "resolved": False, "why": "cites a whole chapter, not a verse"}
 
-    def one(verse):
+    def one(verse, ch=ch):
         if corpus == "nt":
             t = f"kjv:{book}.{ch}.{verse}"
             return ({"resolved": True, "target": t} if t in ctx["kjv_ids"]
@@ -186,28 +302,41 @@ def resolve(ref, ctx):
         if direct not in ctx["kjv_ids"]:
             return r
         if r.get("resolved"):
-            # Lake mostly numbers as the LXX does, but not always (his "Ps. 37,
-            # 9. 38" at 1 Clem. 14.4 is the English Ps 37): where the two
-            # numberings name different verses, both are kept.
-            return r if r["target"] == direct else {**r, "alt_target": direct}
+            if r["target"] == direct:
+                return r
+            # Both numberings have the verse and name different ones: LAKE_OT
+            # says which Lake meant where it has been read; else the English.
+            reading, why = LAKE_OT.get((uid, printed(ref)), (None, None))
+            if reading == "lxx":
+                return {**r, "alt_target": direct, "numbering": "lxx", "why_numbering": f"read: {why}"}
+            if reading == "neither":
+                return {"resolved": False, "candidates": [r["target"], direct],
+                        "why": f"neither numbering's verse is the passage: {why}"}
+            return {"resolved": True, "target": direct, "alt_target": r["target"], "numbering": "english",
+                    "why_numbering": f"read: {why}" if reading else
+                    "unread: both numberings have the verse; the English is Lake's usual one"}
         if r.get("why", "").startswith("no such verse"):
             return {"resolved": True, "target": direct, "numbering": "english",
                     "why_numbering": "Brenton's Septuagint has no such verse; the English numbering fits"}
         return r
 
     r = one(v)
-    out.update({k: r[k] for k in ("resolved", "target", "spans", "alt_target", "numbering",
+    out.update({k: r[k] for k in ("resolved", "target", "spans", "alt_target", "candidates", "numbering",
                                   "why_numbering", "why") if k in r})
-    if r.get("resolved") and end and end > v:
+    if r.get("resolved") and isinstance(end, tuple):
+        last = one(end[1], end[0])
+        if last.get("resolved"):
+            out["through"] = last["target"]
+    elif r.get("resolved") and end and end > v:
         last = one(end)
         if last.get("resolved"):
             out["through"] = last["target"]
-    if corpus == "lxx" and out.get("numbering") != "english":
+    if corpus == "lxx" and out.get("numbering") != "english" and "candidates" not in out:
         out["via"] = "brenton-kjv"
     return out
 
 
-def resolve_note(label, urns, ctx):
+def resolve_note(label, urns, ctx, uid=None):
     """Every link for one note: the label's references first, each confirmed
     by a URN where one agrees, then every URN that agrees with none, flagged."""
     lrefs = parse_label(label)
@@ -219,7 +348,7 @@ def resolve_note(label, urns, ctx):
         hit = next((u for u, p, _ in parsed if p and p[:4] == ref[:4]), None)
         if hit:
             used.add(hit)
-        links.append({"label": label, "cts": hit, **resolve(ref, ctx),
+        links.append({"label": label, "cts": hit, **resolve(ref, ctx, uid),
                       "source": "label+urn" if hit else "label"})
     for u, p, err in parsed:
         if u in used:
@@ -229,7 +358,7 @@ def resolve_note(label, urns, ctx):
                 continue              # a broken URN where the label already says it
             links.append({"label": label, "cts": u, "resolved": False, "why": err, "source": "urn"})
         elif not lrefs:
-            links.append({"label": label, "cts": u, **resolve(p, ctx), "source": "urn"})
+            links.append({"label": label, "cts": u, **resolve(p, ctx, uid), "source": "urn"})
         elif (p[0], p[1]) not in books:
             links.append({"label": label, "cts": u, "ref": printed(p), "resolved": False, "source": "urn",
                           "why": f"the URN names {p[1]}, which the note does not cite: a keying error"})

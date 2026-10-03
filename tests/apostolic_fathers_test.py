@@ -116,6 +116,19 @@ check("a parenthesis of verses is read; another numbering in one is not",
       S.parse_label("Is. 5, 26 (11, 12)") == [("lxx", "Isa", 5, 26, None), ("lxx", "Isa", 11, 12, None)]
       and S.parse_label("Ecclus. 32, 9 (*wulg. 35.9)") == [("lxx", "Sir", 32, 9, None)])
 check("a chapter alone stays a chapter", S.parse_label("Num. 12") == [("lxx", "Num", 12, None, None)])
+check("a range into the next chapter is one range, not an invented verse (1 Clem. 39.2)",
+      S.parse_label("Job 4, 16-18; 15, 16; 4, 19-5, 6")
+      == [("lxx", "Job", 4, 16, 18), ("lxx", "Job", 15, 16, None), ("lxx", "Job", 4, 19, (5, 6))])
+check("a lost semicolon before 'ch, v' starts a new chapter (Herm. Sim. 5.6.3)",
+      [r[2:4] for r in S.parse_label("Joh. 10, 18 ; 12, 49. 50 ; 14, 31 15, 10")]
+      == [(10, 18), (12, 49), (12, 50), (14, 31), (15, 10)]
+      and S.parse_label("Deut 32 8-9") == [("lxx", "Deut", 32, 8, 9)])
+check("a word that is no book ends the numbers (Barn. 15.2: 'cf. RL 91, 13-17' is not Jeremiah)",
+      S.parse_label("Jer 17. 24. 25, cf. RL 91, 13-17") == [("lxx", "Jer", 17, 24, None), ("lxx", "Jer", 17, 25, None)])
+check("OCR 'i', 'I.' and 'Rph' are read (1 John, 1 Peter, Ephesians)",
+      [r[1] for r in S.parse_label("Gen. 1, 26. 27 *i Jo. 4, 9")] == ["Gen", "Gen", "1John"]
+      and [r[1] for r in S.parse_label("II Tim. 4, 1 (I. Pet. 4, 5)")] == ["2Tim", "1Pet"]
+      and [r[1] for r in S.parse_label("I Cor. 6, 9. 10; cf. Rph. 5, 5")] == ["1Cor", "1Cor", "Eph"])
 check("a URN: NT, LXX, malformed, not scripture",
       S.parse_urn("urn:cts:greekLit:tlg0031.tlg017:3.1")[0] == ("nt", "Titus", 3, 1, None)
       and S.parse_urn("cts:urn:greekLit:tlg0527.tlg027:33.9")[0] == ("lxx", "Ps", 33, 9, None)
@@ -183,6 +196,24 @@ else:
                                                             if l["label"].startswith("Ps. 54, 23")]
     check("Lake's 'Ps. 54, 23' is the KJV's Ps 55:22 (through Brenton)",
           any(l.get("target") == "kjv:Ps.55.22" and l.get("via") == "brenton-kjv" for l in pp))
+    def link(uid, ref):
+        return next((l for l in u[uid]["links"] if l.get("ref") == ref), {})
+    check("where both numberings have the verse, the English is the default and Brenton's is kept "
+          "(1 Clem. 36.5 'Pa 110, 1' is 'sit thou at my right hand')",
+          link("1clement-lake:36.5", "Ps 110:1").get("target") == "kjv:Ps.110.1"
+          and link("1clement-lake:36.5", "Ps 110:1").get("alt_target") == "kjv:Ps.111.1")
+    check("... the Septuagint's where it was read so (Did. 3.7, the meek shall inherit the earth)",
+          link("didache-lake:3.8", "Ps 36:11").get("target") == "kjv:Ps.37.11"
+          and link("didache-lake:3.8", "Ps 36:11").get("numbering") == "lxx")
+    check("... and neither where neither verse is the passage (1 Clem. 17.5 'Exod. 8, 11' is 3:11)",
+          not link("1clement-lake:17.5", "Exod 8:11").get("resolved", True)
+          and link("1clement-lake:17.5", "Exod 8:11").get("candidates"))
+    read = {(i, l["ref"]) for i, x in u.items() for l in x["links"]
+            if l.get("why_numbering", "").startswith("read") or l.get("candidates")}
+    check("every row of the LAKE_OT reading is a link the build makes (none stale)",
+          set(S.LAKE_OT) <= read, sorted(set(S.LAKE_OT) - read)[:3])
+    check("a range into the next chapter resolves through its last verse (Job 4:19-5:6)",
+          link("1clement-lake:39.2", "Job 4:19-5:6").get("through") == "kjv:Job.5.6")
     jon = [l for l in u["1clement-lake:7.6"]["links"] if l.get("cts", "") and "tlg0031.tlg004" in l["cts"]]
     check("the URN that keys Lake's 'Jon. 3' as John 3 is flagged, not followed",
           jon and not jon[0]["resolved"] and "keying error" in jon[0]["why"])
