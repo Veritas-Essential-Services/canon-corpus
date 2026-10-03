@@ -106,9 +106,10 @@ a book outside the KJV stays `resolved: false` with its reason. "ver. 8"
 and "vv. 8, 9" in a note mean the verse of the same chapter, and Westcott's
 "c. x. 11" the same epistle (`rule: self/...`), unless another work's
 abbreviation, a Latin title word or a capitalised name stands just before it
-(self_c_refused); "Gal. c. iv. 3" is Gal 4:3 (book_c). A range FS.parse reads
-only the start of ("viii. 28-ix. 3", "8. 28-9. 3", "iii. 12-8") is found by
-cross_ranges and applied only to the reference under its own book.
+(self_c_refused); "Gal. c. iv. 3" and "Gal. C. iv. 3" are Gal 4:3 (book_c). A
+range FS.parse reads only the start of ("viii. 28-ix. 3", "8. 28-9. 3",
+"iii. 12-8", "iii. 6, 7-iv. 2") is found by cross_ranges and applied only to
+the reference under its own book.
 
 HONESTY. The five scanned books are unproofread OCR and every honesty field
 says so; their notes' boundaries rest on verse numbers read off the page and
@@ -149,11 +150,11 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 # Strong's Greek lemmas, the forms of data/nt/John and the Greek of PG
 # #50857; English tokens found in the dwyl word list (data/corpus/proof).
 #   Galatians   saintpaulsepistl00lighrich 1910  6.8%  65.9%  92.6%   <- chosen (IA: NOT_IN_COPYRIGHT)
-#               cu31924075537088 (a 1921 reprint) 6.8% 66.5% 92.7%
+#               cu31924075537088 (a 1921 reprint) 6.8% 66.5% 92.7%   (Lane A's item, lightfoot-galatians-1890)
 #               saintpaulepistle00lighuoft 1914, saintpaulsepistl00lighuoft 1890,
 #               sa590770400lighuoft 1880, stpaulsepistleto00ligh 1870: 0.0% Greek
 #   Philippians stpaulsepistleto00lighuoft 1873  7.3%  65.6%  92.4%   <- chosen
-#               saintpaulsepistl00ligh 1878      7.3%  65.1%  92.1%
+#               saintpaulsepistl00ligh 1878      7.3%  65.1%  92.1%   (4th ed.; Lane A's item, lightfoot-philippians-1878)
 #               epistlephilippia00lighuoft 1903, a590773100lighuoft 1898: 0.0% Greek
 #   Colossians  PG #50857 (1875)                11.5%  (transcribed)   93.3%   <- chosen
 #               saintpaulsepistl00unknuoft 1879: 0.0% Greek, English 82.6%
@@ -171,8 +172,8 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 # the figure the manifest records), so it reads lower than the column above.
 #   Westcott, John (Greek text, 1908)
 #               gospelaccordingt01west vol. 1     7.3%  40.8%  94.5%   <- chosen (also Lane A's vol. 1)
-#               gospelaccordingt02west vol. 2    10.3%  41.9%  93.5%   <- chosen
-#               gospelaccordingt02west_0 (Lane A's vol. 2), gtu_32400003017666_2, gospelaccordingt0002broo,
+#               gospelaccordingt02west vol. 2    10.3%  41.9%  93.5%   <- chosen (also Lane A's vol. 2, since 2026-10-03)
+#               gospelaccordingt02west_0 (Lane A's first vol. 2, replaced), gtu_32400003017666_2, gospelaccordingt0002broo,
 #               bwb_S0-ASP-656_1, gospelaccordingt0001broo: 0.0% Greek
 #               gospelaccording01westgoog vol. 1: 99.9% Greek letters (the English OCR'd as Greek)
 #               The Authorised Version edition (gospelaccordingt00westuoft 1892, gospelaccording00westgoog 1882,
@@ -242,6 +243,10 @@ SCANS = {
         "leaves": (8, 403),
         "epistles": [("Gal", 90, 244)],
         "apparatus": False,
+        "note": ("Lane A (branch claude/armarium-divines, pipeline/j-b-lightfoot_shelf.json, lightfoot-galatians-1890) "
+                 "shelves another copy of the same 10th edition, cu31924075537088 (its reprint list ends 1921): "
+                 "Greek 6.8% of letters, Greek tokens known 66.5%, English 92.7%, against 6.8%, 65.9% and 92.6% "
+                 "here (measured 2026-10-03 on each _djvu.txt): not clearly better"),
     },
     "lightfoot-philippians": {
         "ia": "stpaulsepistleto00lighuoft", "ia_date": "1873",
@@ -258,6 +263,10 @@ SCANS = {
         "leaves": (9, 362),
         "epistles": [("Phil", 95, 181)],
         "apparatus": False,
+        "note": ("Lane A (branch claude/armarium-divines, pipeline/j-b-lightfoot_shelf.json, "
+                 "lightfoot-philippians-1878) shelves another edition, the 4th (London: Macmillan, 1878), "
+                 "saintpaulsepistl00ligh: Greek 7.3% of letters, Greek tokens known 65.1%, English 92.1%, "
+                 "against 7.3%, 65.6% and 92.4% here (measured 2026-10-03 on each _djvu.txt)"),
     },
     "westcott-hebrews": {
         "ia": "epistletohebrew00westgoog", "ia_date": "1892",
@@ -332,11 +341,11 @@ SCANS.update({
                     "a unit taken up again in the other volume lists every leaf and page with its volume in "
                     "scan.volume_leaves and scan.volume_printed_pages)"),
         "note": ("Lane A (branch claude/armarium-divines, pipeline/b-f-westcott_shelf.json) shelves the raw OCR of "
-                 "gospelaccordingt01west (vol. 1, used here too), gospelaccordingt02west_0 (vol. 2) and "
-                 "gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-greek-1/-2 "
-                 "and westcott-john-av-1892; vol. 2 here is gospelaccordingt02west (Toronto) instead, because "
-                 "gospelaccordingt02west_0's text layer has no Greek codepoints (0.0% of letters, measured "
-                 "2026-10-03 on its _djvu.txt) against 10.3% here"),
+                 "the same two scans, gospelaccordingt01west and gospelaccordingt02west, as westcott-john-greek-1/-2, "
+                 "and gospelaccordingt00westuoft (the 1892 Authorised Version edition) as westcott-john-av-1892; "
+                 "its vol. 2 was first gospelaccordingt02west_0, replaced 2026-10-03 because that copy's text "
+                 "layer has no Greek codepoints (0.0% of letters, measured 2026-10-03 on its _djvu.txt) against "
+                 "10.3% in gospelaccordingt02west"),
         "volumes": [
             {"ia": "gospelaccordingt01west", "ia_date": "1908",
              "sha256": "ec341318718254bee14e7b664297519746defaf373a783b57128cdb29f04fc44",
@@ -971,18 +980,28 @@ SELF_C_OK = {"cf.", "comp.", "conf.", "cp.", "see", "so", "also", "esp.", "and",
              "i.e.", "above", "below", "ver.", "vv.", "(", "[", ";", ",", "compare", "comp", "cf", "again", "here"}
 # ... and a work named without an abbreviation is another work too: a Latin title
 # word among the three words before ('Tertullian de Baptismo c. iv. 3', 'Pro
-# Cluentio, c. v. 12'), or a capitalised name just before, not opening a sentence
-# and not one of these English words ('this Epistle c. iii. 17' is the epistle's own)
+# Cluentio, c. v. 12'), or a capitalised name just before and not one of these English
+# words ('this Epistle c. iii. 17' is the epistle's own); opening a sentence, only a
+# name of four or more letters not one letter off them ('Irenaeus c. iv. 3' is refused,
+# 'Oompare c. x. 12' and 'Boo c. v. 11', OCR of 'Compare' and 'See', are read)
 SELF_C_TITLE = {"de", "adv", "adv.", "adversus", "contra", "pro", "apud"}
 SELF_C_ENGLISH = {"epistle", "chapter", "compare", "contrast", "see", "comp", "cf", "note", "so", "also"}
-# '<Book>. c. iv. 3' ('Chrys. on Gal. c. iv. 3'): that book's chapter and verse, the
-# 'c.' a word ('chapter'), never Roman C; the 'c.' is dropped before FS.parse reads it
-BOOK_C = re.compile(r'(?<![\w])((?:(IV|III|II|I|[1-4])\.?\s?)?([A-Z][a-zA-Z]{0,11})\.?,?\s*)(?<![A-Za-z])c\.\s*'
+# '<Book>. c. iv. 3' ('Chrys. on Gal. c. iv. 3', 'Gal. C. iv. 3'): that book's chapter and verse, the
+# 'c.' or 'C.' a word ('chapter'), never Roman C; it is dropped before FS.parse reads it
+BOOK_C = re.compile(r'(?<![\w])((?:(IV|III|II|I|[1-4])\.?\s?)?([A-Z][a-zA-Z]{0,11})\.?,?\s*)(?<![A-Za-z])[cC]\.\s*'
                     r'(?=[ivxlIVXL]{1,7}\.\s*\d)')
 # a range crossing a chapter: 'viii. 28-ix. 3', '8:28-9:3' or '8. 28-9. 3' (FS.parse reads its start
 # only); with the chapter repeated ('iii. 28-iii. 3') it may also run backwards in one chapter
 CROSS_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*([ivxlc]{1,7})\.\s*(\d{1,3})\b'
                          r'|\b(\d{1,3})[:.]\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})[:.]\s*(\d{1,3})\b')
+# a range closing a comma list and running into the next chapter ('iii. 6, 7-iv. 2'): FS.parse
+# reads the list's verses and drops the range's end; the key is the list's last verse. Only
+# the next chapter: Bengel's translators also set a dash between references ('1 Cor. ii. 8,
+# 11—viii. 1', 'viii. 1, 2, 13—ix. 27'), and a list does not open a range of chapters
+LIST_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*\d{1,3}(?:\s*,\s*\d{1,3})*\s*,\s*(\d{1,3})\s*[–—-]+\s*'
+                        r'([ivxlc]{1,7})\.\s*(\d{1,3})\b'
+                        r'|\b(\d{1,3})[:.]\s*\d{1,3}(?:\s*,\s*\d{1,3})*\s*,\s*(\d{1,3})\s*[–—-]+\s*'
+                        r'(\d{1,3})[:.]\s*(\d{1,3})\b')
 # a range running backwards in one chapter ('iii. 12-8'): FS.parse drops its end
 BACK_RANGE = re.compile(r'\b([ivxlc]{1,7})\.\s*(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)'
                         r'|\b(\d{1,3}):(\d{1,3})\s*[–—-]+\s*(\d{1,3})\b(?!\s*[.:]\s*\d)')
@@ -1042,6 +1061,14 @@ def cross_ranges(text):
             a, v, b, w = (int(m.group(k)) for k in (5, 6, 7, 8))
         if a and b and (b > a or (b == a and w != v)):
             out.setdefault((book_before(s, m.start()), a, v), (b, w))
+    for m in LIST_RANGE.finditer(s):
+        if m.group(1):
+            a, b = FS.roman(m.group(1)), FS.roman(m.group(3))
+            v, w = int(m.group(2)), int(m.group(4))
+        else:
+            a, v, b, w = (int(m.group(k)) for k in (5, 6, 7, 8))
+        if a and b == a + 1:
+            out.setdefault((book_before(s, m.start()), a, v), (b, w))
     for m in BACK_RANGE.finditer(s):
         a = FS.roman(m.group(1)) if m.group(1) else int(m.group(4))
         v, w = (int(m.group(2)), int(m.group(3))) if m.group(1) else (int(m.group(5)), int(m.group(6)))
@@ -1054,7 +1081,8 @@ def self_c_refused(text, start):
     """A bare 'c. iv. 3' is another work's chapter when the word before it is
     an abbreviation ('Euseb. H.E. c. iv. 3'), when a Latin title word stands
     among the three words before it ('Tertullian de Baptismo c. iv. 3'), or when
-    the word before is a capitalised name that does not open a sentence; 'cf.
+    the word before is a capitalised name (opening a sentence too, if it has four
+    or more letters and is not an English word misread by one letter); 'cf.
     c. iv. 3', 'comp. c. iv. 3', 'Compare c. x. 12' and 'Faith: c. ix. 15' are read."""
     ws = text[max(0, start - 60):start].split()
     if not ws:
@@ -1070,8 +1098,21 @@ def self_c_refused(text, start):
         return False            # a clause ends before the reference ('Faith: c. ix. 15')
     if w[:1].isupper() and w.lower() not in SELF_C_ENGLISH:
         before = ws[-2] if len(ws) > 1 else ""
-        return bool(before) and before[-1] not in ".!?)]"
+        if before and before[-1] not in ".!?)]":
+            return True
+        # opening a sentence: a name of four or more letters is another work's author
+        # ('Irenaeus c. iv. 3'), unless it is an English word misread by one letter
+        # ('Oompare c. x. 12'); a shorter word is an English one misread ('Boo c. v. 11')
+        return len(w) >= 4 and not _near_english(w)
     return False
+
+
+_SELF_C_WORDS = {x.strip(".") for x in SELF_C_OK | SELF_C_ENGLISH if x.strip(".").isalpha()}
+
+
+def _near_english(w):
+    w = w.lower().strip(".")
+    return any(len(x) == len(w) and sum(a != b for a, b in zip(x, w)) <= 1 for x in _SELF_C_WORDS)
 
 
 def scripture(text, ids, own=None, chapter=None):
@@ -1903,9 +1944,12 @@ def _page(pages, slug, page, section, g):
 #                       greektestamentwiptsl02alfo 1899 (7th ed., new impr.) 17.1% 34.8% 84.0% (not clearly better)
 #                       greektestamentw02alfo 1849-cat., greektestamentwidvr02alfo 1874, greektestamentwi0002alfo
 #                       1859: 0.0% Greek; greektestament02alfo 1868: ~100% Greek letters
-#   Alford III          greektestamentwi00alfo 4th ed. 1865  15.4%  35.5%  86.8%   <- chosen (Lane A has no vol. III)
+#   Alford III          greektestamentwi00alfo 4th ed. 1865  15.4%  35.5%  86.8%   <- chosen
+#                       greektestamentwi03alfo 1856 (Lane A's item; its text layer would not download at first,
+#                       HTTP 500): re-measured 2026-10-03 beside 00alfo with greek_measure(): 16.3% vs 15.3%,
+#                       known 21.3% vs 35.5%, English 85.1% vs 86.8%, mixed-script tokens 378 vs 0: not better
 #                       greektestamentw03alfo 1849-cat. 15.8% 35.5% 86.5%; greektestamentwi0003alfo 1859: 0.0%;
-#                       greektestament03alfo 1868: ~100% Greek letters; greektestamentwi03alfo 1856: no text layer (HTTP 500)
+#                       greektestament03alfo 1868: ~100% Greek letters
 #   Alford IV           greektestamentwi04alfo 4th ed., Boston (Lee & Shepard) 14.0% 35.7% 87.6%  <- chosen (Lane A's item)
 #                       greektestamentwi5604alfo 3rd ed. 1866 13.6% 35.5% 87.4%; greektestamentwiptsl04alfo 1897 14.0% 35.3%
 #   Bengel I, V         every scan of the English Gnomon's vols I and V (gnomonofthenewte01benguoft 1857,
@@ -1981,7 +2025,7 @@ SECOND = {
     "bengel-gnomon-2": _bengel(
         "II", "gnomonofnewtesta23beng", "174e4034973d12427eea4bd705a47342e3be3274e9b03996b1d1027b5e593478",
         f"{_BEN}, vol. II (Luke, John, Acts), tr. Andrew R. Fausset, seventh edition (1873), as its title page "
-        "reads; bound with vol. III", 1873,
+        "(leaf 11) reads, naming no other translator; bound with vol. III", 1873,
         "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (9, 754),
         [("Luke", 13, 237), ("John", 238, 527), ("Acts", 528, 754)]),
     "bengel-gnomon-3": _bengel(
@@ -2039,8 +2083,13 @@ SECOND = {
 SCAN_CHOICE = {
     "alford-commentary-2": "Lane A's item (same scan); measured against greektestamentwiptsl02alfo (1899): "
                            "Greek 17.3% vs 17.1% of letters, Greek tokens known 34.1% vs 34.8%: not clearly better",
-    "alford-commentary-3": "greektestamentwi00alfo (4th ed., 1865; Lane A has no vol. III): Greek 15.4%, known 35.5%; "
-                           "greektestamentw03alfo 15.8%/35.5% is a catalogue-1849 copy of unstated edition",
+    "alford-commentary-3": "greektestamentwi00alfo (4th ed., 1865): Greek 15.3% of letters, Greek tokens known 35.5%, "
+                           "English 86.8%, mixed-script tokens 0; Lane A's item (pipeline/henry-alford_shelf.json, "
+                           "alford-greek-testament-3) is greektestamentwi03alfo (title page dated 1856, no edition "
+                           "statement): Greek 16.3% (273,536 letters), known 21.3%, English 85.1%, mixed-script "
+                           "tokens 378 (both measured 2026-10-03 on each _djvu.txt with greek_measure()): more Greek "
+                           "letters, far fewer of them Greek words, so not better; greektestamentw03alfo 15.8%/35.5% "
+                           "is a catalogue-1849 copy of unstated edition",
     "alford-commentary-4": "Lane A's item (same scan); measured against greektestamentwi5604alfo (3rd ed., 1866): "
                            "Greek 14.0% vs 13.6%, known 35.7% vs 35.5%",
     "bengel-gnomon-2": "gnomonofnewtesta23beng (vols. II and III bound as one): Greek 6.3%, known 34.4%; "
@@ -2048,6 +2097,17 @@ SCAN_CHOICE = {
     "bengel-gnomon-3": "gnomonofnewtesta23beng (vols. II and III bound as one); cu31924092350499 (1877, vol. III): "
                        "0.0% Greek",
     "bengel-gnomon-4": "cu31924092350507 (1877): Greek 7.5%, known 32.4%; gnomonofnewtesta03benguoft (1873): 0.0% Greek",
+}
+# books whose scans are exactly the IA items Lane A shelves as raw OCR (checked 2026-10-03 against
+# origin/claude/armarium-divines:pipeline/<name>_shelf.json): scheme.same_scan_as
+_LANE_A = "branch claude/armarium-divines"
+SAME_SCAN_AS = {
+    "westcott-hebrews": f"same scan as Lane A: westcott-hebrews-1892 (pipeline/b-f-westcott_shelf.json, {_LANE_A})",
+    "westcott-john": f"same scan as Lane A: westcott-epistles-john-1892 (pipeline/b-f-westcott_shelf.json, {_LANE_A})",
+    "westcott-gospel-john": ("same scans as Lane A: westcott-john-greek-1 and westcott-john-greek-2 "
+                             f"(pipeline/b-f-westcott_shelf.json, {_LANE_A})"),
+    "alford-commentary-2": f"same scan as Lane A: alford-greek-testament-2 (pipeline/henry-alford_shelf.json, {_LANE_A})",
+    "alford-commentary-4": f"same scan as Lane A: alford-greek-testament-4 (pipeline/henry-alford_shelf.json, {_LANE_A})",
 }
 # the chapter a volume's notes on a book begin at, where an earlier volume holds the book's start
 FIRST_CHAPTER = {"keil-delitzsch-pentateuch-2": {"Exod": 12}, "delitzsch-psalms-2": {"Ps": 36},
@@ -2917,8 +2977,8 @@ def build_book_2b(slug, ids):
               "honesty": honesty_2b(slug) + RANGES_HONESTY_2B, "status": "draft"}
     if numbering_own is not None:
         scheme["numbering"] = {b: v["decision"] for b, v in numbering_own.items()}
-    if s.get("lane_a"):
-        scheme["same_scan_as"] = "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)"
+    if slug in SAME_SCAN_AS:
+        scheme["same_scan_as"] = SAME_SCAN_AS[slug]
     if s.get("scan_choice"):
         scheme["scan_choice"] = s["scan_choice"]
     source = {"format": "ia-hocr", "sha256": s["sha256"], "ia": s["ia"], "leaves": [a0, b0]}
@@ -3465,10 +3525,12 @@ RUNS_HONESTY = (
     "opener at all, its text joining the note before (openers_crossing_chapter); in the scripture references "
     "a range keeps its end in `through` (one crossing chapters, 'viii. 28-ix. 3' or '8. 28-9. 3', included; "
     "a range is applied only to a reference under its own book) and a range the KJV cannot end keeps its "
-    "start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' is Gal 4:3; "
+    "start only, marked through_unread (scripture_links.ranges_start_only); 'Gal. c. iv. 3' and 'Gal. C. iv. 3' are Gal 4:3, "
+    "and a range closing a list into the next chapter ('iii. 6, 7-iv. 2') keeps its end; "
     "'ver. 20' and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never "
     "after another work's abbreviation ('Euseb. H.E. c. iv. 3'), a Latin title word ('Tertullian de Baptismo "
-    "c. iv. 3') or a capitalised name not opening a sentence")
+    "c. iv. 3') or a capitalised name (at a sentence's opening, one of four or more letters that is not an "
+    "English word such as 'Compare' misread by one letter: 'Irenaeus c. iv. 3')")
 
 
 RANGES_HONESTY_2B = (
@@ -3621,6 +3683,8 @@ def build_book(slug, ids):
             "scheme": {"citation": citation(slug, ocr), "resolution": "verse-note" if eps else "page",
                        "honesty": honesty(slug, ocr), "status": "draft"},
             "rights": rights, "measure": measure, "units": units}
+    if slug in SAME_SCAN_AS:
+        book["scheme"]["same_scan_as"] = SAME_SCAN_AS[slug]
     return book
 
 
