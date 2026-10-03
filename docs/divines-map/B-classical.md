@@ -260,6 +260,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Aeneid of Virgil freely translated into English blank verse (Dublin University Press Series; Dublin: Hodges, Figgis; London: Longmans, 1886) | William J. Thornhill | `virgil-thornhill-aeneid-1886` | have-raw (IA `cu31924026565683`) |
 | The Eclogues and Georgics of Virgil translated into English verse (London, 1882) | J. M. King | `virgil-king-eclogues-georgics-1882` | have-raw (IA `ecloguesandgeor00kinggoog`) |
 | The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated title page; the preface is dated Kensington, 1866, and no later year appears; IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
+| A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870) | E. M. Millington | `virgil-millington-eclogues-1870` | have-raw (IA `atranslationvir00marogoog`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
