@@ -304,6 +304,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | Homer's Odyssey, a line-for-line translation in the metre of the original (Harrap, 1911) | H. B. Cotterill | `homer-cotterill-odyssey-1911` | have-raw (IA `homersodyssey00homeuoft`) |
 | The Odyssey of Homer, Books I-XII, translated into English verse (1886) | the Earl of Carnarvon | `homer-carnarvon-odyssey-1886` | have-raw (IA `homerodyssey00homerich`) |
 | Homer's Iliad, vol. II (Boston: Little and Brown, 1846) | William Munford | `homer-munford-iliad-1846-v2` | have-raw (IA `homersiliad00munfgoog`) |
+| The Iliad of Homer translated into English verse, vol. I: Books I-XII (1861) | Ichabod Charles Wright | `homer-wright-iliad-1861-v1` | have-raw (IA `wrighthomer00homerich`) |
 
 Pending (wishlist): none known beyond the rows above.
 

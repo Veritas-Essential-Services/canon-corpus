@@ -168,6 +168,11 @@
    "homersiliad00munfgoog",
    "Homer's Iliad, vol. II (Boston: Little and Brown, 1846)",
    "tr. William Munford"
+  ],
+  "homer-wright-iliad-1861-v1": [
+   "wrighthomer00homerich",
+   "The Iliad of Homer translated into English verse, vol. I: Books I-XII (1861)",
+   "tr. Ichabod Charles Wright"
   ]
  },
  "_cross_ref": {
@@ -233,7 +238,8 @@
   "homer-mackail-odyssey-1910-v3": "Mackail",
   "homer-cotterill-odyssey-1911": "Cotterill",
   "homer-carnarvon-odyssey-1886": "Carnarvon",
-  "homer-munford-iliad-1846-v2": "Munford"
+  "homer-munford-iliad-1846-v2": "Munford",
+  "homer-wright-iliad-1861-v1": "Wright"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -626,6 +632,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-wright-iliad-1861-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
