@@ -1,0 +1,21 @@
+{
+ "_about": "Édouard Laboulaye's (1811-1883) fairy tales in Mary L. Booth's translation, Laboulaye's Fairy Book (with Kate Douglas Wiggin's introduction). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Édouard Laboulaye",
+ "_name_words": [
+  "fairy",
+  "book",
+  "laboulaye"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "laboulaye-fairy-book": [
+   26386,
+   "Laboulaye's Fairy Book, tr. Mary L. Booth",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
