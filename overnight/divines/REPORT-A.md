@@ -536,3 +536,6 @@
 
 ## 2026-10-03 02:59 CDT — r-a-torrey done
 - `pipeline/r-a-torrey_shelf.json`: 3 CCEL texts. The Person and Work of the Holy Spirit is keyed from a 1974 Zondervan reprint and is flagged. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:59 CDT — horace-bushnell done
+- `pipeline/horace-bushnell_shelf.json`: 5 CCEL texts. Print sources, where named: Scribner 1868-76. `--verify --record`: 0 mismatched. 0 uids minted.

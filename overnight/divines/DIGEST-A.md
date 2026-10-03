@@ -230,6 +230,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | E. M. Bounds | e-m-bounds_shelf.json | 7 CCEL (Power Through Prayer; Purpose in Prayer; The Necessity, Essentials, Reality and Weapon of Prayer; Prayer and Praying Men) | none | none | none |
 | Hannah Whitall Smith | hannah-whitall-smith_shelf.json | 3 CCEL (The Christian's Secret of a Happy Life; The God of All Comfort; Old Testament Types and Teachings) | none | none | none |
 | R. A. Torrey | r-a-torrey_shelf.json | 3 CCEL (How to Pray; The Person and Work of the Holy Spirit, keyed from a 1974 Zondervan reprint; Revival Addresses, Revell 1903) | none | none | Torrey's New Topical Textbook (a verse index) |
+| Horace Bushnell (veto point: moral-influence atonement) | horace-bushnell_shelf.json | 5 CCEL (Christian Nurture; The Vicarious Sacrifice, Scribner 1868-76; Sermons for the New Life; Christ and His Salvation; The Character of Jesus) | none | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -1895,3 +1895,12 @@ Slugs `torrey-*`.
 |---|---|---|
 | How to Pray; Revival Addresses (Revell, 1903) | have-clean | CCEL |
 | The Person and Work of the Holy Spirit | have-clean | CCEL (keyed from the Zondervan reprint, 1974) |
+
+
+## Horace Bushnell (round 12, my pick, 2026-10-03)
+
+Slugs `bushnell-*`. A veto point: his view of the atonement departs from the Reformed divines.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Nurture; The Vicarious Sacrifice; Sermons for the New Life; Christ and His Salvation; The Character of Jesus | have-clean | CCEL (Scribner printings 1868-76 where named) |

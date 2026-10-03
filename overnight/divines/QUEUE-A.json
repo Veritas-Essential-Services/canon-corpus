@@ -1453,10 +1453,12 @@
     },
     {
       "id": "horace-bushnell",
-      "status": "queued",
+      "status": "done",
       "scope": "Horace Bushnell: Christian Nurture, The Vicarious Sacrifice (d. 1876)",
       "added": "2026-10-03T02:54:08-05:00",
-      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:59:06-05:00",
+      "notes": "5 CCEL texts"
     },
     {
       "id": "phillips-brooks",
