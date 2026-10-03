@@ -292,3 +292,6 @@
 - Plato: Whewell's Platonic Dialogues for English Readers (vol. I, 2nd ed. 1860, DLI scan; vols. II 1860 and III 1861), noted as abridged in parts, as his preface says; Davies and Vaughan's Republic (Golden Treasury, 1892 printing of 1852); Spens's Republic (1763 translation, Everyman 1906 edition in its 1919 reprint). OCR 0.91-0.98.
 - Lucian: Tooke's Lucian of Samosata (1820, 2 vols; OCR 0.94).
 - Not found: Church's Trial and Death of Socrates (the 1880 scan has no text file).
+
+## 2026-10-03 01:13 CDT — Xenophon, Minor Works (1813)
+- The Minor Works of Xenophon 'by several hands' (1813; OCR 0.92): Welwood's Banquet and Bradley's Economics are named on their section titles; the Memoirs of Socrates and Hiero carry no name (the Memoirs is usually given to Sarah Fielding; not verified, not claimed).
