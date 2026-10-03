@@ -351,11 +351,6 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
             units.append({"id": f"{slug}:{pid}",
                           "ref": f"{title}, " + (f"p. {pu['page']}" if pu["page"] else pid),
                           "text": pu["text"], "links": [], "scan": scan})
-        seen = collections.Counter()
-        for u in units:
-            seen[u["id"]] += 1
-            if seen[u["id"]] > 1:
-                u["id"] = f"{slug}:leaf.{u['scan']['leaves'][0]}"
     if mode == "verse":
         if o.get("chapterless"):
             citation = "verse"
@@ -370,7 +365,9 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
         honesty = ("verse numbers decoded from the scan's margin OCR; each unit says whether its number was "
                    "read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse "
                    "that begins mid-line is split at the line's first sentence break (scan.start='sentence'), "
-                   "a guess; the text is unproofread OCR")
+                   "a guess; a number decoded twice keeps both units, the second id suffixed '~2' "
+                   "(scan.duplicate_number), a house convention awaiting a ruling; the text is "
+                   "unproofread OCR")
         if key == "sib":
             honesty = ("line numbers read from the inline '(n)' markers; text is unproofread OCR")
     else:

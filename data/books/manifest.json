@@ -5224,7 +5224,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 36-73 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5257,7 +5257,7 @@
     "beyond_kjv": 0
    }
   },
-  "built_sha256": "5be89839d125cee75f90f930821a5cbc45117db9aec6d05a1b9a86cca783eddb"
+  "built_sha256": "cb1b3c749ea3779a7face726265e58e341cdd9560f038eb2f57b5b079ef69c59"
  },
  "charles-1macc": {
   "title": "I Maccabees",
@@ -5268,7 +5268,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 82-139 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5300,7 +5300,7 @@
     "beyond_kjv": 2
    }
   },
-  "built_sha256": "2aeffdd141c865277485a1a7e27e27645fdfba176df1a7572840b22e7a65483c"
+  "built_sha256": "fdebee33b0f80114e49c05a60264e58f54578830207f74140933ffbd081e031f"
  },
  "charles-2macc": {
   "title": "II Maccabees",
@@ -5311,7 +5311,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 147-169 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5343,7 +5343,7 @@
     "beyond_kjv": 2
    }
   },
-  "built_sha256": "355d09093a983df453821c089d81f0d59d789e8f0f03f1c84a85fbdb032f1513"
+  "built_sha256": "7875e6ae88d9cfc0cd94d108d077c3ce5e86e2e653446ae947ebebf0d1bb41e8"
  },
  "charles-3macc": {
   "title": "III Maccabees",
@@ -5354,7 +5354,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 178-188 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5381,7 +5381,7 @@
     10
    ]
   },
-  "built_sha256": "df947c5b96406f44f37036f054942f37109cb4a8747c8fb31f79f80355397d73"
+  "built_sha256": "ceeb69c43df269ad15ff056d954625a9925725c878a9daf06d00499ab871c2f6"
  },
  "charles-tob": {
   "title": "The Book of Tobit",
@@ -5392,7 +5392,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 217-256 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5424,7 +5424,7 @@
     "beyond_kjv": 1
    }
   },
-  "built_sha256": "f5bc8b3abe487d5ca4da3d6f93829371c37b5616c142aa0ee9bc423931a969fb"
+  "built_sha256": "bf616d483d5360452f0b702b015cc29a6b783c2584425ac3b6786ff7290b54c8"
  },
  "charles-jdt": {
   "title": "The Book of Judith",
@@ -5435,7 +5435,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 263-282 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5467,7 +5467,7 @@
     "beyond_kjv": 1
    }
   },
-  "built_sha256": "0327ae7ac57ca4aea4cf407afc2fed9c076be1434b1681e7c534991caec4fc4a"
+  "built_sha256": "3150d52c5e6ecf183495c2001393b0f1c7db7f8605d4e6966f0b4d7b9c59d699"
  },
  "charles-sir": {
   "title": "Sirach",
@@ -5478,7 +5478,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 331-533 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5510,7 +5510,7 @@
     "beyond_kjv": 95
    }
   },
-  "built_sha256": "ff3378c4b85822151123e7f7f1dd0f83fd0f14b57b7e45f75e6e93b2e7ca19a3"
+  "built_sha256": "00f7bd7718d9314fa9c51697c92d857957053cdc42290685b388a473e6805208"
  },
  "charles-wis": {
   "title": "The Wisdom of Solomon",
@@ -5521,7 +5521,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 550-583 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5551,7 +5551,7 @@
     "beyond_kjv": 0
    }
   },
-  "built_sha256": "458e4271952f405e05c45f53c12bd9a862795a2127bc0a9dab0b57eee7f7f836"
+  "built_sha256": "9d3ff9b33ac1d0c2d8823723306205be218a3b50fb3584fad07fdf88b4037da1"
  },
  "charles-bar": {
   "title": "The Book of Baruch",
@@ -5606,7 +5606,7 @@
   "scheme": {
    "citation": "verse",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 614-626 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5629,7 +5629,7 @@
    "headings_dropped": 1,
    "apparatus_lines_dropped": 38
   },
-  "built_sha256": "d61f82025a479b3f93618585ded80819d88773b6cbbf5e6049be1566d78cf261"
+  "built_sha256": "d5533fb98204c14dc8326c35c213ddeaa8c9c2294d4eaf8764c719f3cfe1aeae"
  },
  "charles-prman": {
   "title": "The Prayer of Manasses",
@@ -5673,7 +5673,7 @@
   "scheme": {
    "citation": "verse",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 647-652 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5695,7 +5695,7 @@
    "headings_dropped": 0,
    "apparatus_lines_dropped": 0
   },
-  "built_sha256": "24d644cd20b217b03e9fc1ff8fcb1253b5fc3e90c0fab50d279d6889d1ddeeb5"
+  "built_sha256": "65b1cc90381518d99b8003d20400ea985eca126815db486a5c3e9e829e22b35c"
  },
  "charles-sus": {
   "title": "Susanna",
@@ -5706,7 +5706,7 @@
   "scheme": {
    "citation": "verse",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 662-666 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5729,7 +5729,7 @@
    "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 5
   },
-  "built_sha256": "408a476053922b8d4d3187ae0957fae13b4df1849990c34cf5a78784ab91c672"
+  "built_sha256": "48576097bc1970fb5f6ceae2705c6bf756bbab0cb48efc21b127b36a61931601"
  },
  "charles-bel": {
   "title": "Bel and the Dragon",
@@ -5740,7 +5740,7 @@
   "scheme": {
    "citation": "verse",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 673-679 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5763,7 +5763,7 @@
    "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 6
   },
-  "built_sha256": "cc1379f1a4c3ed249aa0848d2d55b838fecedd282a417a7046b108d0ba41d781"
+  "built_sha256": "b2e43ef6ac447716fb4b8bfffb8d9223c1c71d3be09bed330141fee24697dfc4"
  },
  "charles-addesth": {
   "title": "The Additions to Esther",
@@ -5774,7 +5774,7 @@
   "scheme": {
    "citation": "section letter.verse (Charles's A-F)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. I: Apocrypha, scan leaves 687-698 of theapocryphaandp01unknuoft"
   },
   "rights": {
@@ -5802,7 +5802,7 @@
     8
    ]
   },
-  "built_sha256": "3843a8c0505d9d0b647325c7e4a07caf5976b045f2a0175d164a0d08d6fdb341"
+  "built_sha256": "5eb471d5d78c9eb43f2f17cd87613eab7a06195e345af0526ba20a52564f5ac5"
  },
  "charles-jub": {
   "title": "The Book of Jubilees",
@@ -5813,7 +5813,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 30-101 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -5840,7 +5840,7 @@
     59
    ]
   },
-  "built_sha256": "290ec415e2c585531cb349ff8558fdd00a892dfbe74ecef123c0b2ee3ff30efa"
+  "built_sha256": "757bd5170d6c20a35461790fdc0b3422206248f302c49057e010128f866acfc7"
  },
  "charles-arist": {
   "title": "The Letter of Aristeas",
@@ -5851,7 +5851,7 @@
   "scheme": {
    "citation": "verse",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 113-141 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -5874,7 +5874,7 @@
    "headings_dropped": 0,
    "apparatus_lines_dropped": 0
   },
-  "built_sha256": "1b5ecd7328bf0ddae3dba648225ddcaaf5dcd6d67b077a1b969938878c336c9a"
+  "built_sha256": "13ff68d50f17e0ae24467e2ae7d1490474b0426de3acb18b1a96aa2c8a4fa4ef"
  },
  "charles-adam": {
   "title": "The Books of Adam and Eve",
@@ -5945,7 +5945,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 207-300 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -5973,7 +5973,7 @@
     81
    ]
   },
-  "built_sha256": "f95a7918b98c05c7ff4400c56e6a1c784b0e63914dbf0ec0c9211da5841f87fd"
+  "built_sha256": "38af6deaf781a8865b1ac09ba9f929f26193c01f41571b273db36f6c4cd03566"
  },
  "charles-testxii": {
   "title": "The Testaments of the Twelve Patriarchs",
@@ -5984,7 +5984,7 @@
   "scheme": {
    "citation": "testament.chapter.verse",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 315-379 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6008,7 +6008,7 @@
    "apparatus_lines_dropped": 1,
    "two_column_leaves_left_kept": 4
   },
-  "built_sha256": "a6d6a0569f10959b85936cdbd572169a7d2d4764a9b594d90437ef44ff323802"
+  "built_sha256": "c01e6f2d8ac694d94a5757521fe16f0bacbb3d47a59ea2f63d69043d08f9c675"
  },
  "charles-sib": {
   "title": "The Sibylline Oracles",
@@ -6048,7 +6048,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 433-443 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6075,7 +6075,7 @@
     7
    ]
   },
-  "built_sha256": "89974fc1cc4edeb9b43c8931d81bfcdab3ccbdca133949c3e5b5248aac6f2032"
+  "built_sha256": "6af57f6c457387b451a9ffe5693093719670c77f9e646dae27c09bce58dd28f7"
  },
  "charles-2en": {
   "title": "The Book of the Secrets of Enoch (2 Enoch)",
@@ -6107,7 +6107,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 500-545 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6134,7 +6134,7 @@
     33
    ]
   },
-  "built_sha256": "882ddbdb0839ce97c1c80ef260d71d806c04f5dddeeec929dca0d241579d7347"
+  "built_sha256": "d84c9c9dbdaaac622a41190f1228c8a2e03d68567c325912abf38711995219a4"
  },
  "charles-3bar": {
   "title": "III Baruch (the Greek Apocalypse)",
@@ -6145,7 +6145,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 552-560 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6172,7 +6172,7 @@
     4
    ]
   },
-  "built_sha256": "ddc561c3bb9bfb3e016ba5db05412fb605001f6e4f119bde7c87eace62eab50c"
+  "built_sha256": "f22dfa36d7e856a146cb34155c92a0e0dfc44ed601c99d0c8394f2407a20c5b1"
  },
  "charles-4ezra": {
   "title": "IV Ezra",
@@ -6183,7 +6183,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 580-643 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6215,7 +6215,7 @@
     "beyond_kjv": 73
    }
   },
-  "built_sha256": "2ee12e5e3b2e2a9fcdebac9cba4b80e3db3ddb6cdceed9c96dd132e78aca09b4"
+  "built_sha256": "f6cfa52efc7f6dd8cdcd095823f6f2ff95feb96a5cacffea92b37ed3e49608a4"
  },
  "charles-pssol": {
   "title": "The Psalms of Solomon",
@@ -6226,7 +6226,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 650-671 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6251,7 +6251,7 @@
     19
    ]
   },
-  "built_sha256": "195fa51c9fedb926c79d0f71239f40b4bf01981bfc4dd1ff5c7d9702dfa8c092"
+  "built_sha256": "9bc86e777dd6c153542e95937bb8eda9b1044d8ca5fcfe19fb1fa2cb3df252f7"
  },
  "charles-4macc": {
   "title": "The Fourth Book of Maccabees",
@@ -6262,7 +6262,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 685-704 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6289,7 +6289,7 @@
     18
    ]
   },
-  "built_sha256": "2943f153f4fbc50fb3fa1cc414a7b655db1baceaa32385a5f01f5b87247fae33"
+  "built_sha256": "6c11552e3840302b92ec494fb6e58425874c3f4ea18b470a1803cc8e4d1680e6"
  },
  "charles-aboth": {
   "title": "Pirke Aboth: The Sayings of the Fathers",
@@ -6300,7 +6300,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 710-733 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6327,7 +6327,7 @@
     20
    ]
   },
-  "built_sha256": "87c5924d71d8bb78547b2b74308053c54b4e4d7bdb55d24f9b03ad58e3e12813"
+  "built_sha256": "77590be7b360d193907b14affdc8a5a32aca22f2868864c68fe876eb224983f8"
  },
  "charles-ahikar": {
   "title": "The Story of Ahikar",
@@ -6359,7 +6359,7 @@
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; the text is unproofread OCR",
+   "honesty": "verse numbers decoded from the scan's margin OCR; each unit says whether its number was read as printed, read with a letter-for-digit fix, or inferred from the sequence; a verse that begins mid-line is split at the line's first sentence break (scan.start='sentence'), a guess; a number decoded twice keeps both units, the second id suffixed '~2' (scan.duplicate_number), a house convention awaiting a ruling; the text is unproofread OCR",
    "note": "R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament in English, 2 vols (Oxford: Clarendon Press, 1913); Vol. II: Pseudepigrapha, scan leaves 817-853 of apocryphapseudep02charuoft"
   },
   "rights": {
@@ -6387,7 +6387,7 @@
     27
    ]
   },
-  "built_sha256": "773e637014b52680942407a3648676522e07959a537af708258aef37b039b0b5"
+  "built_sha256": "69d04039aa0b1a35101ee0b56866b387b7cf5081c87394dc2ec594c8343c6980"
  },
  "coverdale": {
   "title": "The Coverdale Bible (1535)",

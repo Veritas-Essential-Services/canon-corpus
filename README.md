@@ -160,7 +160,8 @@ witnesses side by side (Susanna and Bel's LXX and Theodotion), only the left
 column is read, and the 52 such leaves are counted in the manifest; a line the
 OCR read straight across both columns is cut at the gutter first. Each
 unit records how its number was got and where its first words were placed;
-the text is unproofread OCR. Public domain in the US; the Additions to
+the text is unproofread OCR. A verse number decoded twice keeps both units, the
+second id suffixed `~2` (a house convention awaiting a ruling). Public domain in the US; the Additions to
 Esther (Gregg, d. 1961) are flagged `redistribute_whole: false`.
 `python3 pipeline/build_charles.py --fetch`, then `--report`. Lines of notes
 or apparatus that slip past the type-size split (a third Greek, or thick with
