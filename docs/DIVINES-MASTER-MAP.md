@@ -7305,6 +7305,16 @@ Shelf: `pipeline/leamy_shelf.json` (2026-10-02; added at the coordinator's relay
 | Irish Fairy Tales | have | PG 29311, `leamy-irish-fairy-tales` (715 units) |
 | leamy-golden-spears | excluded | PG 22168, The Golden Spears and Other Fairy Tales (copyright 1911): checked 2026-10-03, 455 of its 510 long paragraphs (89%) are in Irish Fairy Tales (PG 29311, Dublin 1906), the same seven tales; held once |
 
+## Basil Hall Chamberlain
+
+Shelf: `pipeline/basil-chamberlain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ainu tales he took down and Englished, and two of his Japanese fairy-tale booklets; cut by section and numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Aino Folk-Tales | have | PG 29287, `chamberlain-aino-folk-tales` (220 units) |
+| The Silly Jelly-Fish | have | PG 25590, `chamberlain-silly-jelly-fish` (32 units) |
+| The Fisher-Boy Urashima | have | PG 30024, `chamberlain-fisher-boy-urashima` (20 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
