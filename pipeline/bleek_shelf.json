@@ -1,0 +1,22 @@
+{
+ "_about": "W. H. I. Bleek's (1827-1875) Reynard the Fox in South Africa; or, Hottentot Fables and Tales (1864), Khoekhoe tales translated by Bleek from manuscripts in Sir George Grey's library. Clean Gutenberg text; public domain. The title's ethnonym is the book's own, of its time. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "W. H. I. Bleek",
+ "_name_words": [
+  "reynard",
+  "south",
+  "africa",
+  "hottentot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bleek-reynard-in-south-africa": [
+   73413,
+   "Reynard the Fox in South Africa; or, Hottentot Fables and Tales, tr. W. H. I. Bleek (1864)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

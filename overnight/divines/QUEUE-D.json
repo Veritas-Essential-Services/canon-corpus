@@ -568,7 +568,9 @@
     {
       "id": "bleek",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: bleek; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:22-05:00",
+      "notes": "1/1 fetched (Gutenberg 73413), 420 units, 0 ~2 ids."
     },
     {
       "id": "fillmore",
