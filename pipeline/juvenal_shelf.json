@@ -24,6 +24,11 @@
    "satireswithtrans00persuoft",
    "The Satires of A. Persius Flaccus, with a translation and commentary (2nd ed., ed. H. Nettleship, Oxford, 1874; Latin facing)",
    "tr. John Conington"
+  ],
+  "persius-drummond-1799": [
+   "bim_eighteenth-century_the-satires-of-persius-t_persius_1799",
+   "The Satires of Persius, translated, with notes (London: W. Bulmer for J. Wright, 1799)",
+   "tr. William Drummond"
   ]
  },
  "_cross_ref": {
@@ -39,7 +44,8 @@
  "_translators": {
   "juvenal-persius-evans-gifford": "evans",
   "juvenal-persius-ramsay": "ramsay",
-  "persius-conington-1874": "conington"
+  "persius-conington-1874": "conington",
+  "persius-drummond-1799": "drummond"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -51,7 +57,7 @@
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Lewis Evans",
+   "pg_translator": "Lewis Evans; William Gifford",
    "translator_match": true
   },
   "juvenal-persius-ramsay": {
@@ -78,6 +84,19 @@
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "persius-drummond-1799": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "drummond",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
