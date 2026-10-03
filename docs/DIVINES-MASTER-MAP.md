@@ -3084,6 +3084,7 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | Tacitus, The Histories, vol. I: Books I-III, with an English translation (Loeb; London: Heinemann, New York: Putnam, MCMXXV; Latin facing) | Clifford H. Moore | `tacitus-moore-histories-v1` | have-raw (IA `tacitus-in-5-volumes.-v.-2-loeb-111`) |
 | The Annals of Tacitus, Books I-VI, an English translation (London: John Murray, 1904) | George Gilbert Ramsay | `tacitus-ramsay-annals-1904-v1` | have-raw (IA `cu31924071188753`) |
 | The Annals of Tacitus, Books XI-XVI, an English translation (London: John Murray, 1909) | George Gilbert Ramsay | `tacitus-ramsay-annals-1909-v2` | have-raw (IA `cu31924071188761`) |
+| A Treatise on the Situation, Manners, and Inhabitants of Germany, and the Life of Agricola, with copious notes and a map, third edition (Oxford: W. Baxter; title-page date OCRs as 1816, IA 1815) | John Aikin | `tacitus-aikin-germany-agricola-1815` | have-raw (IA `atreatiseonsitu00unkngoog`) |
 
 Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); 
 

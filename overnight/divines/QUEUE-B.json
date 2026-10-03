@@ -900,6 +900,14 @@
    "started": "2026-10-03T07:13:28-05:00",
    "finished": "2026-10-03T07:17:47-05:00",
    "notes": "Added Reid's Academics 1880 (translator unchecked, OCR splits the name), B. E. Smith's De Amicitia (copyright 1897), Black's Death No Bane 1889 (storage-node read). Catullus, Tibullus, Lucretius and Theocritus sweeps found nothing new."
+  },
+  {
+   "id": "title-sweep-roman-historians",
+   "status": "done",
+   "scope": "Title sweeps of IA for Tacitus, Livy, Caesar, Sallust and Suetonius translations not yet held",
+   "started": "2026-10-03T07:17:47-05:00",
+   "finished": "2026-10-03T07:19:37-05:00",
+   "notes": "Added Aikin's Germania and Agricola (3rd ed., Oxford). ECCO Bladen Caesar 1732/1737 (0.77, 0.76), 1709 Sallust (0.66) and 1726 Suetonius (0.42) refused on OCR; the 1864 'Sallust's History' is Andrews's Latin school edition."
   }
  ]
 }

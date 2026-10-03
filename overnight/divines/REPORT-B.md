@@ -566,3 +566,7 @@
 - Benjamin E. Smith, De Amicitia (copyright 1897), 0.91
 - Robert Black, Death No Bane, Tusculan I (1889), 0.87
 - Catullus, Tibullus, Lucretius, Theocritus: nothing new
+
+## 2026-10-03 07:19 CDT — Roman historians title sweep
+- John Aikin, Germania and Agricola, 3rd ed. (Oxford; IA 1815), 0.86
+- Refused under the OCR bar: Bladen's Caesar 1732 and 1737 (ECCO, 0.77, 0.76), Sallust 1709 (0.66), Suetonius 1726 (0.42)
