@@ -712,3 +712,6 @@
 
 ## 2026-10-03 02:58 CDT — sikes: done
 - 1/1 fetched (Gutenberg 34704), 2,072 units, 0 ~2 ids.
+
+## 2026-10-03 02:59 CDT — tregarthen: done
+- 2/2 fetched (Gutenberg 37245, 40246), 1,903 units, 0 ~2 ids.

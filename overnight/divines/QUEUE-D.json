@@ -1601,8 +1601,10 @@
     {
       "id": "tregarthen",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: tregarthen; no minting",
-      "status": "running",
-      "started": "2026-10-03T02:50:54-05:00"
+      "status": "done",
+      "started": "2026-10-03T02:50:54-05:00",
+      "finished": "2026-10-03T02:59:45-05:00",
+      "notes": "2/2 fetched (Gutenberg 37245, 40246), 1,903 units, 0 ~2 ids."
     },
     {
       "id": "ebbutt",
