@@ -1,0 +1,688 @@
+{
+ "corrections": [
+  {
+   "find": "the fast",
+   "replace": "the first",
+   "count": 1,
+   "why": "the scan reads “first” (archive.org worksofjohnowe185003owen, leaf 28, printed p. 15): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     28
+    ],
+    "page": [
+     "15"
+    ],
+    "ocr": "first",
+    "tesseract": "first"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "vespe",
+   "replace": "vesper",
+   "count": 1,
+   "why": "the scan reads “vesper” (archive.org worksofjohnowe185003owen, leaf 61, printed p. 48): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     61
+    ],
+    "page": [
+     "48"
+    ],
+    "ocr": "vesper",
+    "tesseract": "vesper"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "tuo bone",
+   "replace": "tuo bono",
+   "count": 1,
+   "why": "the scan reads “bono” (archive.org worksofjohnowe185003owen, leaf 71, printed p. 58): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     71
+    ],
+    "page": [
+     "58"
+    ],
+    "ocr": "bono",
+    "tesseract": "bono"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "who affecteth",
+   "replace": "who effecteth",
+   "count": 1,
+   "why": "the scan reads “effecteth” (archive.org worksofjohnowe185003owen, leaf 95, printed p. 82): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     95
+    ],
+    "page": [
+     "82"
+    ],
+    "ocr": "effecteth",
+    "tesseract": "effecteth"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "their fullness",
+   "replace": "their fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnowe185003owen, leaf 137, printed p. 124): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     137
+    ],
+    "page": [
+     "124"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "frenetical",
+   "replace": "phrenetical",
+   "count": 1,
+   "why": "the scan reads “phrenetical” (archive.org worksofjohnowe185003owen, leaf 146, printed p. 133): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     146
+    ],
+    "page": [
+     "133"
+    ],
+    "ocr": "phrenetical",
+    "tesseract": "phrenetical"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "comers",
+   "replace": "corners",
+   "count": 1,
+   "why": "the scan reads “corners” (archive.org worksofjohnowe185003owen, leaf 151, printed p. 138): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     151
+    ],
+    "page": [
+     "138"
+    ],
+    "ocr": "corners",
+    "tesseract": "corners"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "supreme role",
+   "replace": "supreme rule",
+   "count": 1,
+   "why": "the scan reads “rule” (archive.org worksofjohnowe185003owen, leaf 160, printed p. 147): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     160
+    ],
+    "page": [
+     "147"
+    ],
+    "ocr": "rule",
+    "tesseract": "rule"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "the woeful",
+   "replace": "the woful",
+   "count": 1,
+   "why": "the scan reads “woful” (archive.org worksofjohnowe185003owen, leaf 199, printed p. 186): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     199
+    ],
+    "page": [
+     "186"
+    ],
+    "ocr": "woful",
+    "tesseract": "woful"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "whose fullness",
+   "replace": "whose fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnowe185003owen, leaf 201, printed p. 188): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     201
+    ],
+    "page": [
+     "188"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "he built",
+   "replace": "he builded",
+   "count": 1,
+   "why": "the scan reads “builded” (archive.org worksofjohnowe185003owen, leaf 205, printed p. 192): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     205
+    ],
+    "page": [
+     "192"
+    ],
+    "ocr": "builded",
+    "tesseract": "builded"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Chest",
+   "replace": "Christ",
+   "count": 1,
+   "why": "the scan reads “Christ” (archive.org worksofjohnowe185003owen, leaf 208, printed p. 195): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     208
+    ],
+    "page": [
+     "195"
+    ],
+    "ocr": "Christ",
+    "tesseract": "christ"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "ad Galatians",
+   "replace": "ad Gal",
+   "count": 1,
+   "why": "the scan reads “Gal” (archive.org worksofjohnowe185003owen, leaf 271, printed p. 258): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     271
+    ],
+    "page": [
+     "258"
+    ],
+    "ocr": "Gal",
+    "tesseract": "gal"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "literal sere",
+   "replace": "literal sense",
+   "count": 1,
+   "why": "the scan reads “sense” (archive.org worksofjohnowe185003owen, leaf 273, printed p. 260): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     273
+    ],
+    "page": [
+     "260"
+    ],
+    "ocr": "sense",
+    "tesseract": "sense"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "continual actions",
+   "replace": "continual actings",
+   "count": 1,
+   "why": "the scan reads “actings” (archive.org worksofjohnowe185003owen, leaf 298, printed p. 285): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     298
+    ],
+    "page": [
+     "285"
+    ],
+    "ocr": "actings",
+    "tesseract": "actings"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "plowing",
+   "replace": "ploughing",
+   "count": 1,
+   "why": "the scan reads “ploughing” (archive.org worksofjohnowe185003owen, leaf 306, printed p. 293): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     306
+    ],
+    "page": [
+     "293"
+    ],
+    "ocr": "ploughing",
+    "tesseract": "ploughing"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "the thinks",
+   "replace": "the things",
+   "count": 1,
+   "why": "the scan reads “things” (archive.org worksofjohnowe185003owen, leaf 322, printed p. 309): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     322
+    ],
+    "page": [
+     "309"
+    ],
+    "ocr": "things",
+    "tesseract": "things"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "one band",
+   "replace": "one hand",
+   "count": 1,
+   "why": "the scan reads “hand” (archive.org worksofjohnowe185003owen, leaf 346, printed p. 333): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     346
+    ],
+    "page": [
+     "333"
+    ],
+    "ocr": "hand",
+    "tesseract": "hand"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "God bath",
+   "replace": "God hath",
+   "count": 1,
+   "why": "the scan reads “hath” (archive.org worksofjohnowe185003owen, leaf 346, printed p. 333): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     346
+    ],
+    "page": [
+     "333"
+    ],
+    "ocr": "hath",
+    "tesseract": "hath"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "opinion bath",
+   "replace": "opinion hath",
+   "count": 1,
+   "why": "the scan reads “hath” (archive.org worksofjohnowe185003owen, leaf 348, printed p. 335): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     348
+    ],
+    "page": [
+     "335"
+    ],
+    "ocr": "hath",
+    "tesseract": "hath"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "oro to",
+   "replace": "oro te",
+   "count": 1,
+   "why": "the scan reads “te” (archive.org worksofjohnowe185003owen, leaf 353, printed p. 340): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     353
+    ],
+    "page": [
+     "340"
+    ],
+    "ocr": "te",
+    "tesseract": "te"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "or modem",
+   "replace": "or modern",
+   "count": 1,
+   "why": "the scan reads “modern” (archive.org worksofjohnowe185003owen, leaf 362, printed p. 349): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     362
+    ],
+    "page": [
+     "349"
+    ],
+    "ocr": "modern",
+    "tesseract": "modern"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "was aid",
+   "replace": "was said",
+   "count": 1,
+   "why": "the scan reads “said” (archive.org worksofjohnowe185003owen, leaf 363, printed p. 350): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     363
+    ],
+    "page": [
+     "350"
+    ],
+    "ocr": "said",
+    "tesseract": "said"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "endeavour afar",
+   "replace": "endeavour after",
+   "count": 1,
+   "why": "the scan reads “after” (archive.org worksofjohnowe185003owen, leaf 366, printed p. 353): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     366
+    ],
+    "page": [
+     "353"
+    ],
+    "ocr": "after",
+    "tesseract": "after"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "affectations",
+   "replace": "affections",
+   "count": 1,
+   "why": "the scan reads “affections” (archive.org worksofjohnowe185003owen, leaf 452, printed p. 439): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     452
+    ],
+    "page": [
+     "439"
+    ],
+    "ocr": "affections",
+    "tesseract": "affections"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "some token",
+   "replace": "some tokens",
+   "count": 1,
+   "why": "the scan reads “tokens” (archive.org worksofjohnowe185003owen, leaf 460, printed p. 447): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     460
+    ],
+    "page": [
+     "447"
+    ],
+    "ocr": "tokens",
+    "tesseract": "tokens"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "to whither",
+   "replace": "to wither",
+   "count": 1,
+   "why": "the scan reads “wither” (archive.org worksofjohnowe185003owen, leaf 460, printed p. 447): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     460
+    ],
+    "page": [
+     "447"
+    ],
+    "ocr": "wither",
+    "tesseract": "wither"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "apostacy",
+   "replace": "apostasy",
+   "count": 1,
+   "why": "the scan reads “apostasy” (archive.org worksofjohnowe185003owen, leaf 468, printed p. 455): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     468
+    ],
+    "page": [
+     "455"
+    ],
+    "ocr": "apostasy",
+    "tesseract": "apostasy"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "polluted state",
+   "replace": "polluted estate",
+   "count": 1,
+   "why": "the scan reads “estate” (archive.org worksofjohnowe185003owen, leaf 472, printed p. 459): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     472
+    ],
+    "page": [
+     "459"
+    ],
+    "ocr": "estate",
+    "tesseract": "estate"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "thankful acknowledgement",
+   "replace": "thankful acknowledgment",
+   "count": 1,
+   "why": "the scan reads “acknowledgment” (archive.org worksofjohnowe185003owen, leaf 473, printed p. 460): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     473
+    ],
+    "page": [
+     "460"
+    ],
+    "ocr": "acknowledgment",
+    "tesseract": "acknowledgment"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "have affected",
+   "replace": "have effected",
+   "count": 1,
+   "why": "the scan reads “effected” (archive.org worksofjohnowe185003owen, leaf 473, printed p. 460): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     473
+    ],
+    "page": [
+     "460"
+    ],
+    "ocr": "effected",
+    "tesseract": "effected"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and woefully",
+   "replace": "and wofully",
+   "count": 1,
+   "why": "the scan reads “wofully” (archive.org worksofjohnowe185003owen, leaf 514, printed p. 501): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     514
+    ],
+    "page": [
+     "501"
+    ],
+    "ocr": "wofully",
+    "tesseract": "wofully"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "own fullness",
+   "replace": "own fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnowe185003owen, leaf 528, printed p. 515): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     528
+    ],
+    "page": [
+     "515"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "essential fullness",
+   "replace": "essential fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnowe185003owen, leaf 534, printed p. 521): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     534
+    ],
+    "page": [
+     "521"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "inconceivable fullness",
+   "replace": "inconceivable fulness",
+   "count": 1,
+   "why": "the scan reads “fulness” (archive.org worksofjohnowe185003owen, leaf 534, printed p. 521): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     534
+    ],
+    "page": [
+     "521"
+    ],
+    "ocr": "fulness",
+    "tesseract": "fulness"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "do practice",
+   "replace": "do practise",
+   "count": 1,
+   "why": "the scan reads “practise” (archive.org worksofjohnowe185003owen, leaf 540, printed p. 527): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     540
+    ],
+    "page": [
+     "527"
+    ],
+    "ocr": "practise",
+    "tesseract": "practise"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Lusts",
+   "replace": "Lust",
+   "count": 1,
+   "why": "the scan reads “Lust” (archive.org worksofjohnowe185003owen, leaf 560, printed p. 547): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     560
+    ],
+    "page": [
+     "547"
+    ],
+    "ocr": "Lust",
+    "tesseract": "lust"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "They woefully",
+   "replace": "They wofully",
+   "count": 1,
+   "why": "the scan reads “wofully” (archive.org worksofjohnowe185003owen, leaf 651, printed p. 638): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowe185003owen",
+    "leaf": [
+     651
+    ],
+    "page": [
+     "638"
+    ],
+    "ocr": "wofully",
+    "tesseract": "wofully"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

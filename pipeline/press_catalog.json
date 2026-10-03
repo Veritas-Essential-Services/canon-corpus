@@ -387,9 +387,20 @@
     "banner-pp"
    ],
    "source": {
-    "kind": "ccel",
-    "path": "o/owen/glory",
-    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 1, CCEL transcription"
+    "kind": "tcp",
+    "id": "A53707",
+    "edition": "Meditations and Discourses concerning the Glory of Christ (London: William Marshall, 1691), the first printing of the complete work, with the two chapters added after Owen's death (EEBO-TCP A53707). The 1684 first printing of Part I was not keyed by EEBO-TCP.",
+    "scan_alternative": {
+     "shelf": "owen",
+     "volume": "owen-works-goold-01",
+     "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 1"
+    },
+    "refused": {
+     "kind": "ccel",
+     "path": "o/owen/glory",
+     "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 1, CCEL transcription",
+     "why": "Not Goold's text. CCEL keyed it from Banner of Truth's 1965 printing, and collation against the 1850 Goold scan (press_proof, 2026-10-03) shows the wording modernised throughout: 'has' for Goold's 'hath', 'does' for 'doth', 'would' for 'should', 'excellence' for 'excellency' (591 disagreements, against 0-68 confirmed errors in the other eight Owen titles from the same source). A modernised text is an editor's work, not Owen's."
+    }
    },
    "scan": {
     "shelf": "owen",
@@ -483,7 +494,8 @@
    "source": {
     "kind": "ccel",
     "path": "o/owen/pneum",
-    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 3, CCEL transcription"
+    "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 3, CCEL transcription",
+    "proof_note": "The proof (2026-10-03) collated the book against the Goold vol. 3 scan only: 54% of the words aligned, because the later books of the Pneumatologia (1677-1693) are printed in vol. 4 (archive.org worksofjohnowe185004owen is still to be proofed against). The vol. 3 part is proofed."
    },
    "scan": {
     "shelf": "owen",

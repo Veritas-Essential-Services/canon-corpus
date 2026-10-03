@@ -31,14 +31,14 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | goodwin-heart-of-christ | tcp |  | 37,793 | 147 | 3 | 0 | 88 (88) | 92 | 7 | 0 | 37 | 386 | 0 |
 | great-ejection-sermons | tcp |  | 124,715 | 1,032 | 0 | 0 | 246 (246) | 272 | 11 | 0 | 799 | 732 | 0 |
 | guthrie-great-interest | ccel |  | 67,149 | 428 | 4 | 0 | 10 (10) | 8 | 0 | 20 | 0 | 34 | 0 |
-| owen-apostasy | ccel |  | 129,890 | 593 | 15 | 0 | 542 (541) | 711 | 1 | 9 | 0 | 175 | 0 |
-| owen-christian-fellowship | ccel |  | 15,565 | 309 | 0 | 0 | 386 (385) | 484 | 1 | 3 | 0 | 10 | 0 |
-| owen-communion-with-god | ccel |  | 184,637 | 1,142 | 379 | 0 | 2,194 (2,189) | 1,587 | 7 | 49 | 0 | 891 | 0 |
-| owen-glory-of-christ | ccel |  | 96,638 | 730 | 8 | 0 | 565 (550) | 721 | 30 | 1 | 0 | 63 | 0 |
-| owen-holy-spirit | ccel |  | 598,044 | 2,410 | 164 | 0 | 3,763 (3,750) | 2,749 | 19 | 32 | 0 | 2945 | 0 |
+| owen-apostasy | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 129,889 | 593 | 15 | 0 | 542 (541) | 711 | 1 | 9 | 0 | 172 | 68 |
+| owen-christian-fellowship | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 15,567 | 309 | 0 | 0 | 386 (385) | 484 | 1 | 3 | 0 | 9 | 7 |
+| owen-communion-with-god | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 184,637 | 1,142 | 379 | 0 | 2,194 (2,189) | 1,587 | 7 | 49 | 0 | 891 | 59 |
+| owen-glory-of-christ | tcp |  | 88,338 | 677 | 1 | 0 | 428 (428) | 559 | 25 | 0 | 124 | 184 | 0 |
+| owen-holy-spirit | ccel | The Banner of Truth Trust, Edinburgh, 1965, 1967 | 598,044 | 2,410 | 164 | 0 | 3,763 (3,750) | 2,749 | 19 | 32 | 0 | 2943 | 38 |
 | owen-indwelling-sin | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 86,816 | 470 | 4 | 0 | 476 (476) | 489 | 0 | 2 | 0 | 53 | 36 |
 | owen-mortification | ccel |  | 42,505 | 332 | 44 | 0 | 348 (343) | 299 | 5 | 0 | 0 | 27 | 3 |
-| owen-spiritual-mindedness | ccel |  | 118,893 | 677 | 2 | 0 | 417 (417) | 544 | 0 | 3 | 0 | 56 | 0 |
+| owen-spiritual-mindedness | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 118,893 | 677 | 2 | 0 | 417 (417) | 544 | 0 | 3 | 0 | 56 | 12 |
 | owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 22 | 22 |
 | perkins-art-of-prophesying | tcp |  | 25,832 | 384 | 87 | 0 | 294 (294) | 287 | 4 | 0 | 115 | 723 | 0 |
 | rhb-a-perfect-redeemer | tcp |  | 24,337 | 77 | 168 | 0 | 73 (73) | 72 | 6 | 0 | 54 | 620 | 0 |
