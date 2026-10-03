@@ -279,12 +279,12 @@
   "virgil-royds-eclogues-1922": "Thomas Fletcher Royds",
   "virgil-smith-eclogues-1909": "Perley Smith",
   "virgil-conington-verse-aeneid-1867": "Conington",
-  "virgil-thornhill-aeneid-1886": "Thornhill"
+  "virgil-thornhill-aeneid-1886": "Thornhill",
+  "virgil-king-eclogues-georgics-1882": "J. M. King"
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
   "virgil-pitt-warton-1763-v3": "title page OCRs the name as 'CHRISTOPH ER PITT' (split by OCR; Dodsley, MDCCLXIII); the claim is not matched as written",
-  "virgil-king-eclogues-georgics-1882": "title page names the Rev. J. M. King (London, 1882); 'king' is a common word, so the word check cannot confirm the name",
   "virgil-rose-eclogues-georgics": "title page names John Benson Rose (London: Dorrell and Son; undated); the OCR reads 'BOSE', and 'rose' is a common word"
  },
  "_checks": {
@@ -757,6 +757,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "virgil",
+   "translator_claimed": "J. M. King",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1882",
    "ia_date": "1882",
