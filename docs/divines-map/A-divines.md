@@ -1331,3 +1331,12 @@ Slugs `hall-*`.
 |---|---|---|
 | Works, ed. Philip Wynter (Oxford: University Press, 1863), vols 1-9 | have-raw | IA (identifiers in the shelf) |
 | Works, vol. 10 | pending | no correct scan found yet |
+
+
+## Isaac Barrow (round 8, my pick, 2026-10-03)
+
+Slugs `barrow-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological Works, ed. Alexander Napier, 9 vols (Cambridge: University Press, 1859) | have-raw | IA (identifiers in the shelf) |

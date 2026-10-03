@@ -879,11 +879,13 @@
     },
     {
       "id": "isaac-barrow",
-      "status": "started",
+      "status": "done",
       "scope": "Isaac Barrow: Theological Works (d. 1677)",
       "added": "2026-10-02T21:28:26-05:00",
       "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
-      "started": "2026-10-02T22:08:29-05:00"
+      "started": "2026-10-02T22:08:29-05:00",
+      "finished": "2026-10-03T00:47:40-05:00",
+      "notes": "9 IA"
     },
     {
       "id": "thomas-ken",
