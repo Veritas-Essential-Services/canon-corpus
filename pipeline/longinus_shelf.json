@@ -27,6 +27,11 @@
    "literaltranslati00long",
    "A Literal Translation of Longinus on the Sublime, by a Graduate of Trinity College, Dublin (1821)",
    "tr. anonymous (a Graduate of Trinity College, Dublin)"
+  ],
+  "longinus-spurdens-1836": [
+   "longinusonsubli00spurgoog",
+   "Longinus on the Sublime in Writing, translated, with notes and three dissertations (London: Longman; Norwich: Bacon, 1836; the title page is anonymous, the dedication is signed William Tylney Spurdens)",
+   "tr. William Tylney Spurdens"
   ]
  },
  "_surname": [
@@ -35,7 +40,8 @@
  "_translators": {
   "longinus-havell-sublime": "H. L. Havell",
   "longinus-smith-sublime": "William Smith",
-  "longinus-prickard-sublime": "A. O. Prickard"
+  "longinus-prickard-sublime": "A. O. Prickard",
+  "longinus-spurdens-1836": "Spurdens"
  },
  "_checks": {
   "longinus-havell-sublime": {
@@ -86,6 +92,19 @@
    "ia_rights": "ok: published 1821",
    "ia_date": "1821",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "longinus-spurdens-1836": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "translator_claimed": "Spurdens",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

@@ -1979,6 +1979,7 @@ Shelf: `pipeline/longinus_shelf.json`. Havell (1890), William Smith (1739; 1752 
 | Dionysius Longinus on the Sublime, translated from the Greek, with notes and observations (1752 printing) | William Smith | `longinus-smith-sublime` | have-raw (IA `dionysiuslongin00smitgoog`) |
 | Longinus on the Sublime (Oxford, Clarendon Press, 1906) | A. O. Prickard | `longinus-prickard-sublime` | have-raw (IA `longinusonsublim0000aopr`) |
 | A Literal Translation of Longinus on the Sublime, by a Graduate of Trinity College, Dublin (1821) | anonymous (a Graduate of Trinity College, Dublin) | `longinus-dublin-graduate-1821` | have-raw (IA `literaltranslati00long`) |
+| Longinus on the Sublime in Writing, translated, with notes and three dissertations (London: Longman; Norwich: Bacon, 1836; the title page is anonymous, the dedication is signed William Tylney Spurdens) | William Tylney Spurdens | `longinus-spurdens-1836` | have-raw (IA `longinusonsubli00spurgoog`) |
 
 Pending (wishlist): Fyfe's Loeb (1927; Greek facing); the earlier English versions Smith's preface names (London, 1650s; Oxford, 1698), not located.
 
