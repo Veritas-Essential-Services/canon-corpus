@@ -118,7 +118,8 @@
   "ovid-miller-metamorphoses-v2": "Frank Justus Miller",
   "ovid-showerman-heroides-amores": "Grant Showerman",
   "ovid-wheeler-tristia-ponto": "Arthur Leslie Wheeler",
-  "ovid-sandys-1632": "George Sandys"
+  "ovid-sandys-1632": "George Sandys",
+  "ovid-perseus-more-metamorphoses": "brookes more"
  },
  "_checks": {
   "ovid-riley-metamorphoses-1": {
@@ -287,5 +288,135 @@
  },
  "_held": {
   "ovid-miller-metamorphoses-v1": "held back on rights, not fetched: the scan is a 1970s reprint of the 1921 second edition carrying an added bibliography (items of 1963 to the 1970s), which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was IA metamorphoses01ovid: Metamorphoses, vol. 1: Books I-VIII (Loeb, 1916)"
+ },
+ "perseus": {
+  "ovid-perseus-more-metamorphoses": [
+   "phi0959.phi006.perseus-eng3",
+   "Metamorphoses",
+   "Brookes More",
+   "Translation published 1922 (Boston: Cornhill): US public domain (in or before 1930)."
+  ],
+  "ovid-perseus-1855-amours": [
+   "phi0959.phi001.perseus-eng2",
+   "Amours",
+   "unnamed translators",
+   "Published 1855: US public domain. Perseus source line: Ovid's Art of Love ... and Amours, New York: Calvin Blanchard, 1855; no translator named."
+  ],
+  "ovid-perseus-1855-art-of-beauty": [
+   "phi0959.phi003.perseus-eng2",
+   "The Art of Beauty",
+   "unnamed translators",
+   "Published 1855: US public domain. Perseus source line: the same 1855 Blanchard volume; no translator named."
+  ],
+  "ovid-perseus-1855-art-of-love": [
+   "phi0959.phi004.perseus-eng2",
+   "The Art of Love",
+   "unnamed translators",
+   "Published 1855: US public domain. Perseus source line: the same 1855 Blanchard volume; no translator named."
+  ],
+  "ovid-perseus-1855-remedy-of-love": [
+   "phi0959.phi005.perseus-eng2",
+   "The Remedy of Love",
+   "unnamed translators",
+   "Published 1855: US public domain. Perseus source line: the same 1855 Blanchard volume; no translator named."
+  ],
+  "ovid-perseus-1813-epistles": [
+   "phi0959.phi002.perseus-eng2",
+   "The Epistles (Heroides)",
+   "unnamed translators",
+   "Published 1813: US public domain. Perseus source line: The Epistles of Ovid, London: J. Nunn and others, 1813; no translator named."
+  ]
+ },
+ "_translator_unchecked": {
+  "ovid-perseus-1855-amours": "the Perseus source line names no translator",
+  "ovid-perseus-1855-art-of-beauty": "the Perseus source line names no translator",
+  "ovid-perseus-1855-art-of-love": "the Perseus source line names no translator",
+  "ovid-perseus-1855-remedy-of-love": "the Perseus source line names no translator",
+  "ovid-perseus-1813-epistles": "the Perseus source line names no translator"
+ },
+ "_perseus_checks": {
+  "ovid-perseus-more-metamorphoses": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0959.phi006.perseus-eng3",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "brookes more",
+   "author_seen": "ovidius",
+   "source_years": [
+    1922
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "ovid-perseus-1855-amours": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0959.phi001.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "",
+   "translator_unchecked": true,
+   "author_seen": "ovid",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "ovid-perseus-1855-art-of-beauty": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0959.phi003.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "",
+   "translator_unchecked": true,
+   "author_seen": "ovid",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "ovid-perseus-1855-art-of-love": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0959.phi004.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "",
+   "translator_unchecked": true,
+   "author_seen": "ovid",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "ovid-perseus-1855-remedy-of-love": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0959.phi005.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "",
+   "translator_unchecked": true,
+   "author_seen": "ovid",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "ovid-perseus-1813-epistles": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0959.phi002.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "",
+   "translator_unchecked": true,
+   "author_seen": "ovid",
+   "source_years": [
+    1813
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }
