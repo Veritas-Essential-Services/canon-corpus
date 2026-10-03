@@ -1,5 +1,5 @@
 {
- "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled).",
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg second witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Ellis's Politics, Chase's Ethics (translator identified by collation), Kenyon's Athenian Constitution, Cresswell's History of Animals and Edghill's Categories.",
  "_name_words": [
   "aristotle",
   "works",
@@ -7,7 +7,43 @@
   "translated"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "aristotle-butcher-poetics-pg": [
+   1974,
+   "The Poetics of Aristotle",
+   "tr. S. H. Butcher"
+  ],
+  "aristotle-bywater-poetics-pg": [
+   6763,
+   "Aristotle on the Art of Poetry (Oxford, 1920), preface by Gilbert Murray",
+   "tr. Ingram Bywater"
+  ],
+  "aristotle-ellis-politics-pg": [
+   6762,
+   "Politics: A Treatise on Government",
+   "tr. William Ellis (1776)"
+  ],
+  "aristotle-chase-ethics-pg": [
+   8438,
+   "The Nicomachean Ethics of Aristotle (Everyman), introduction by J. A. Smith",
+   "tr. D. P. Chase; PG names no translator, identified by collating against the 1915 Everyman printing titled 'Translated by D. P. Chase' (IA nicomacheanethic00arisuoft): 167 of 200 sampled 8-word runs match"
+  ],
+  "aristotle-kenyon-athenian-constitution-pg": [
+   26095,
+   "The Athenian Constitution",
+   "tr. Sir Frederic G. Kenyon (1891)"
+  ],
+  "aristotle-cresswell-history-of-animals-pg": [
+   59058,
+   "Aristotle's History of Animals, in ten books (Bohn, 1862)",
+   "tr. Richard Cresswell"
+  ],
+  "aristotle-edghill-categories-pg": [
+   2412,
+   "The Categories (the Oxford translation, also in vol. I above)",
+   "tr. E. M. Edghill"
+  ]
+ },
  "internet_archive": {
   "aristotle-ross-v01": [
    "worksofaristotle01arisuoft",

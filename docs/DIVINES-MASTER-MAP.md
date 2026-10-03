@@ -1013,6 +1013,13 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | Works of Aristotle, vol. III (1931) | Meteorologica (Webster), De Mundo (Forster), De Anima (J. A. Smith), Parva Naturalia (Beare and Ross), De Spiritu (Dobson) | — | pending: US public domain from 2027-01-01; IA `worksofaristotle03arisuoft` ready |
 | Works of Aristotle, vol. XII (1952) | Select Fragments (Ross) | — | pending: 1952, renewal not checked |
 | De Mundo (Oxford, Clarendon Press, 1914; the separate issue later bound into vol. III) | E. S. Forster | `aristotle-forster-de-mundo-1914` | have-raw (IA `demundoarisrich`) |
+| The Poetics of Aristotle | S. H. Butcher | `aristotle-butcher-poetics-pg` | have (PG 1974) |
+| Aristotle on the Art of Poetry (Oxford, 1920), preface by Gilbert Murray | Ingram Bywater | `aristotle-bywater-poetics-pg` | have (PG 6763) |
+| Politics: A Treatise on Government | William Ellis (1776) | `aristotle-ellis-politics-pg` | have (PG 6762) |
+| The Nicomachean Ethics of Aristotle (Everyman), introduction by J. A. Smith | D. P. Chase; PG names no translator, identified by collating against the 1915 Everyman printing titled 'Translated by D. P. Chase' (IA nicomacheanethic00arisuoft): 167 of 200 sampled 8-word runs match | `aristotle-chase-ethics-pg` | have (PG 8438) |
+| The Athenian Constitution | Sir Frederic G. Kenyon (1891) | `aristotle-kenyon-athenian-constitution-pg` | have (PG 26095) |
+| Aristotle's History of Animals, in ten books (Bohn, 1862) | Richard Cresswell | `aristotle-cresswell-history-of-animals-pg` | have (PG 59058) |
+| The Categories (the Oxford translation, also in vol. I above) | E. M. Edghill | `aristotle-edghill-categories-pg` | have (PG 2412) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
