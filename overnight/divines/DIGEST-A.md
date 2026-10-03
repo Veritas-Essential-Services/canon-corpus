@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:47 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:48 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -151,6 +151,7 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Thomas Ken | thomas-ken_shelf.json | none | 3 (Prose Works, ed. Round, 1838; Manual of Prayers for Winchester, 1857; Christian Year, hymns and poems, 1868) | none | Benham's 1872 Prose Works; the 1721 Works (long s). The Christian Year is verse at 84% OCR (two scans scored alike) |
 | Joseph Hall | joseph-hall_shelf.json | none | 9 (Works, ed. Philip Wynter, Oxford 1863, vols 1-9) | vol. 10 (no true scan found yet; the one labelled vol. 10 is vol. 7) | Pratt's 1808 and Talboys' 1837 editions |
 | Isaac Barrow | isaac-barrow_shelf.json | none | 9 (Theological Works, ed. Alexander Napier, Cambridge 1859, complete) | none | the Oxford 1830 and Valpy 1830-31 editions; the mathematical works (out of scope) |
+| Henry Martyn | henry-martyn_shelf.json | none | 3 (Journals and Letters, ed. Wilberforce, 1837, 2 vols; Sermons, Boston 1822) | none | Sargent's memoir (by another hand); the 1851 one-volume abridgement; his Urdu and Persian New Testaments (out of scope) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

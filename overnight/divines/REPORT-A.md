@@ -370,3 +370,7 @@
 
 ## 2026-10-03 00:47 CDT — isaac-barrow done
 - `pipeline/isaac-barrow_shelf.json`: Napier's 1859 Theological Works, 9 volumes of raw IA OCR, median 96.3%, about 11 MB; title pages read (Napier; VOLUME I-IX). Vol. 9 scores 83.2% because much of it is Latin (about 3,300 "et" against 9,700 "the"), not because the scan is bad. Vols 7-8 are Emory scans (Toronto's vol. 7 kept returning HTTP 500, and Toronto has no vol. 8). Recorded on the full name "isaac barrow" under the new common-word guard: 9/9 matched. 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 00:48 CDT — henry-martyn done
+- `pipeline/henry-martyn_shelf.json`: 3 IA items of raw OCR, median 97.4% (97.2-98.6%), about 2.8 MB; title pages read (MDCCCXXXVII; 1822). `--verify --record`: 0 mismatched, 0 rights flags; matched on "henry martyn". 0 uids minted.
+- Gates, 2026-10-03 (relayed review findings, lane A owns them): `fetch_shelf.py` identity gate now collects every miss and an override covers only the miss it names, never the translator; the IA rights gate fails closed and the latest year on the record decides (815a082). A surname that is a common English word ("hall", "ken") never matches bare, and a shelf with only such forms stops at load (e1ef08b). Lane A's 13 affected shelves were re-recorded on full names: every item matched. `tests/fetch_shelf_test.py`, 35 checks.

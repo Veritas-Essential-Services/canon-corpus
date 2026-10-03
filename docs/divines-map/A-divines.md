@@ -1340,3 +1340,13 @@ Slugs `barrow-*`.
 | Work | Status | Where |
 |---|---|---|
 | Theological Works, ed. Alexander Napier, 9 vols (Cambridge: University Press, 1859) | have-raw | IA (identifiers in the shelf) |
+
+
+## Henry Martyn (round 8, my pick, 2026-10-03)
+
+Slugs `martyn-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Journals and Letters, ed. Samuel Wilberforce, 2 vols (London, 1837) | have-raw | IA (identifiers in the shelf) |
+| Sermons (Boston, 1822) | have-raw | IA |
