@@ -1,0 +1,40 @@
+{
+ "_about": "Apollodorus in English: Sir James George Frazer's translation of the Library (Loeb, 1921, 2 vols.), from Perseus TEI (section \"perseus\", fetched by pipeline/fetch_perseus.py); the file carries Frazer's notes and appendices with the translation. The Loeb prints the Greek facing; the Perseus English file is separate. The TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "apollodorus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {},
+ "perseus": {
+  "apollodorus-perseus-frazer-library": [
+   "tlg0548.tlg001.perseus-eng2",
+   "The Library",
+   "Sir James George Frazer",
+   "Translation published 1921: US public domain (in or before 1930). Perseus source line: Apollodorus. The Library, tr. Sir James George Frazer. Cambridge, MA: Harvard University Press; London: William Heinemann, 1921, 2 vols. (Loeb Classical Library)."
+  ]
+ },
+ "_surname": [
+  "apollodorus"
+ ],
+ "_translators": {
+  "apollodorus-perseus-frazer-library": "James George Frazer"
+ },
+ "_perseus_checks": {
+  "apollodorus-perseus-frazer-library": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0548.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "James George Frazer",
+   "author_seen": "apollodorus",
+   "source_years": [
+    1921
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
+ },
+ "_checks": {}
+}
