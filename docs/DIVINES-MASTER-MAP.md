@@ -2059,6 +2059,16 @@ Slugs `stillingfleet-*`.
 |---|---|---|
 | Origines Sacrae (1836); Irenicum (1842); A Rational Account of the Grounds of Protestant Religion (1844); Origines Britannicae (1842, notes by T. P. Pantin); Doctrines and Practices of the Church of Rome (1837, ed. William Cunningham) | have-ocr | IA, OCR 93.0-98.4% |
 | Works, 6 vols folio (1710) | alternate | IA |
+
+## Samuel Horsley (round 13, my pick, 2026-10-03)
+
+Slugs `horsley-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, 2 vols (1829); Biblical Criticism, 4 vols (1820); The Book of Psalms, 2 vols (1815); Charges (1813) | have-ocr | IA, OCR 94.4-99.0% |
+| Tracts in Controversy with Dr. Priestley (1789); Hosea (1801) | have-raw | IA, OCR about 82% (long s) |
+| Nine Sermons on the Resurrection; Speeches in Parliament | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

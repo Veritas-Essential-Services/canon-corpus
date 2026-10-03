@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain Samuel Horsley (1733-1806, successively Bishop of St David's, Rochester and St Asaph, mathematician and opponent of Joseph Priestley) for the Word Hoard: his Sermons (2 vols, 1829), Tracts in Controversy with Dr. Priestley (1789), Biblical Criticism (4 vols, 1820), The Book of Psalms translated (2 vols, 1815), Hosea translated (1801 on the title page) and his Charges (1813), raw Internet Archive OCR (long s in the 1789 and 1801 printings). Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "horsley",
+  "samuel"
+ ],
+ "_surname": [
+  "samuel horsley",
+  "s. horsley",
+  "bishop horsley",
+  "horsley, samuel",
+  "dr. horsley",
+  "samuel, lord bishop"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "horsley-sermons-1": [
+   "sermons01hors",
+   "Sermons, vol. 1 (London: C. J. G. & F. Rivington, 1829)"
+  ],
+  "horsley-sermons-2": [
+   "sermons02hors",
+   "Sermons, vol. 2 (London: C. J. G. & F. Rivington, 1829)"
+  ],
+  "horsley-tracts-priestley-1789": [
+   "tractsincontro00hors",
+   "Tracts in Controversy with Dr. Priestley upon the Historical Question of the Belief of the First Ages in our Lord's Divinity, revised (Gloucester: R. Raikes, M.DCC.LXXXIX)"
+  ],
+  "horsley-biblical-criticism-1": [
+   "biblicalcriticis01hors",
+   "Biblical Criticism on the First Fourteen Historical Books of the Old Testament; also on the First Nine Prophetical Books, in four volumes, vol. 1 (London: Longman, Hurst, Rees, Orme and Brown, 1820)"
+  ],
+  "horsley-biblical-criticism-2": [
+   "biblicalcriticis02hors",
+   "Biblical Criticism on the First Fourteen Historical Books of the Old Testament; also on the First Nine Prophetical Books, in four volumes, vol. 2 (London: Longman, Hurst, Rees, Orme and Brown, 1820)"
+  ],
+  "horsley-biblical-criticism-3": [
+   "biblicalcriticis03hors",
+   "Biblical Criticism on the First Fourteen Historical Books of the Old Testament; also on the First Nine Prophetical Books, in four volumes, vol. 3 (London: Longman, Hurst, Rees, Orme and Brown, 1820)"
+  ],
+  "horsley-biblical-criticism-4": [
+   "biblicalcriticis04hors",
+   "Biblical Criticism on the First Fourteen Historical Books of the Old Testament; also on the First Nine Prophetical Books, in four volumes, vol. 4 (London: Longman, Hurst, Rees, Orme and Brown, 1820)"
+  ],
+  "horsley-psalms-1": [
+   "bookofpsalmstran01hors",
+   "The Book of Psalms, translated from the Hebrew, with notes explanatory and critical, vol. 1 (London: Longman, 1815)"
+  ],
+  "horsley-psalms-2": [
+   "bookofpsalmstran02hors",
+   "The Book of Psalms, translated from the Hebrew, with notes explanatory and critical, vol. 2 (London: Longman, 1815)"
+  ],
+  "horsley-hosea": [
+   "hoseatranslate00hors",
+   "Hosea, translated from the Hebrew, with notes explanatory and critical (London: Nichols and Son for James Robson; 1801 on the title page, catalogued 1804)"
+  ],
+  "horsley-charges-1813": [
+   "chargesofsamuelh00hors",
+   "The Charges of Samuel Horsley, delivered at his several Visitations (Dundee and Edinburgh, 1813)"
+  ]
+ },
+ "_alternates": {
+  "horsley-nine-sermons": "Nine Sermons on the Nature of the Evidence of our Lord's Resurrection (1816-22; IA ninesermons00hors): not shelved, may overlap the 1829 Sermons",
+  "horsley-speeches": "Speeches in Parliament (Dundee, 1813; IA speechesinparlia00hors)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "horsley-hosea": {
+   "author": "Title page read 2026-10-03: the OCR gives 'HOSEA. TRANSLATED FROM THE HEBREW; WITH NOTES EXPLANATORY AND CRITICAL. BY SAMUEL LORD BISHOP OF ROCHESTER. LONDON: PRINTED BY NICHOLS AND SON ... FOR JAMES ROBSON ... 1801'. Horsley was Bishop of Rochester from 1793 to 1802 and signed by his see, so his surname is not printed."
+  }
+ },
+ "_checks": {
+  "horsley-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-tracts-priestley-1789": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel, lord bishop",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-biblical-criticism-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-biblical-criticism-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-biblical-criticism-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-biblical-criticism-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bishop horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-hosea": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horsley-charges-1813": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel horsley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
