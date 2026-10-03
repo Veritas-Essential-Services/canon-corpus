@@ -61,3 +61,25 @@ Built 2026-10-03 on its own branch (not a relay lane), with the relay's `pipelin
 |---|---|---|
 | The Oeconomy of the Covenants (3 vols, New York 1798) | have-raw | `witsius_shelf.json`, IA Princeton; translator not named in the text |
 | Sacred Dissertations on the Apostles' Creed (1823); on the Lord's Prayer (1839); Irenical Animadversions (1807) | pending | Princeton scans, not yet title-checked |
+
+## John Calvin: gaps beside lane A's shelf
+
+Lane A's `calvin_shelf.json` already holds the Calvin Translation Society set (45 commentary volumes through `fetch_sources.py`, Beveridge's Institutes, the Tracts and Bonnet's Letters). This separate shelf adds what it lists as not searched, and leaves lane A's file untouched.
+
+| Work | Status | Where |
+|---|---|---|
+| Institutes, tr. John Allen (London 1813; first American ed., Philadelphia 1816, 3 vols) | have-raw | `calvin-gaps_shelf.json`, IA Princeton 1816 set; translator checked |
+| Calvin's Calvinism (Eternal Predestination; Secret Providence), tr. Henry Cole (1856-57) | have-raw | `calvin-gaps_shelf.json`, 1927 SGU reprint with both parts; translator checked |
+| Institutes, tr. Norton (1561); Golding's sermon translations | pending | early-print scans only |
+
+## The Wodrow Society
+
+| Work | Status | Where |
+|---|---|---|
+| Calderwood, History of the Kirk of Scotland, ed. Thomson (8 vols, 1842-1849) | have-raw | `calderwood_shelf.json` |
+| James Melville, Autobiography and Diary, ed. Pitcairn (1842) | have-raw | `james-melville_shelf.json` |
+| Rollock, Select Works, ed. Gunn (2 vols, 1844-1849) | have-raw | `rollock_shelf.json` |
+| Robert Bruce, Sermons, ed. Cunningham (1843) | have-raw | `robert-bruce_shelf.json` |
+| Miscellany of the Wodrow Society, vol. 1 (1844) | have-raw | `wodrow-society_shelf.json` |
+| Knox's Works, ed. Laing (Wodrow Society vols) | have | `john-knox_shelf.json` |
+| Row, History of the Kirk (1842); Bruce's Sermons on the Sacrament, tr. Laidlaw (1901); Andrew Melville | pending | not yet searched |
