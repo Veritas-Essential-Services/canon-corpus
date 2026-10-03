@@ -197,6 +197,51 @@ with the Charles books, awaiting Adam's ruling.
 
 `python3 pipeline/build_wycliffe.py --fetch`, then `--check`.
 
+## Commentaries: Lightfoot, Westcott, Hort (drafts)
+
+The build is `pipeline/build_commentaries.py`. It shelves six books, all
+printed before 1929:
+
+| Book | Edition | Source |
+|---|---|---|
+| Lightfoot on Galatians | 10th ed., 1910 reprint | IA scan |
+| Lightfoot on Philippians | 3rd ed., 1873 | IA scan |
+| Lightfoot on Colossians and Philemon | 1st ed., 1875 | Project Gutenberg #50857 |
+| Westcott on Hebrews | 2nd ed., 1892 | IA scan |
+| Westcott on the Epistles of St John | 3rd ed., 1892 | IA scan |
+| Hort, *Six Lectures on the Ante-Nicene Fathers* | 1895 | IA scan |
+
+Every source is pinned by sha256. Each scan was picked by measuring its
+text layer. Many scans of these books have no Greek at all, because their
+OCR turned every Greek word into Latin letters.
+
+**Notes by verse.** A note is cited by the verse it comments on:
+
+- `lightfoot-galatians:2.20` links to `kjv:Gal.2.20`.
+- A run of verses is `1.6-9`.
+- In a volume of several epistles the book comes first:
+  `westcott-john:2John.1.6`.
+
+On the scanned books, a verse number at the start of an indented note is
+taken only when it fits the sequence of verses and the page's running head.
+
+**Everything else is kept**, in these units:
+
+- `leaf.N.text`: the epistle's own text block on a page, with Westcott's
+  apparatus.
+- `leaf.N`: every other page, by scan leaf, with the printed folio in
+  `scan.printed_page`.
+- Gutenberg's Colossians uses `p.N` for printed pages and `text.Col.1.3`
+  for the Greek text.
+- Hort is by page only. Each page carries its `lecture`.
+
+**Scripture.** References in the English are resolved in the KJV's
+numbering. "ver. 8" means the same chapter of the note's own epistle.
+
+The five scanned books are unproofread OCR, and their honesty fields say
+so. Run `--fetch`, then `--check`. To see each book's coverage and Greek
+measures, run `--report`.
+
 ## Josephus (Greek and English)
 
 The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek

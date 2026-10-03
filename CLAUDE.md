@@ -191,6 +191,11 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_wycliffe.py --check   # rebuild = the committed manifest entries
     python3 pipeline/build_wycliffe.py --report  # per book: Clementine coverage, numbers read, eBible agreement
     python3 tests/wycliffe_test.py           # the F&M reader, rules on fixtures
+    python3 pipeline/build_commentaries.py --fetch   # Lightfoot Gal/Phil/Col, Westcott Heb/John, Hort: PG + IA hOCR, pinned
+    python3 pipeline/build_commentaries.py           # notes by verse (kjv links), other pages by leaf -> data/books/
+    python3 pipeline/build_commentaries.py --check   # rebuild = the committed manifest entries
+    python3 pipeline/build_commentaries.py --report  # per book: verse coverage, scripture links, Greek retention
+    python3 tests/commentaries_test.py       # the commentary reader: rules on fixtures, the manifest's measures
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
