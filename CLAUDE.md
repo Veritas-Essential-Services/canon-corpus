@@ -148,6 +148,22 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
     python3 tests/review_test.py                       # review.py end to end, on a temp copy
+    python3 pipeline/build_xrefs.py --fetch            # the Treasury's two archive.org scans, pinned (~1.2 GB)
+    python3 pipeline/build_xrefs.py                    # cross-reference layer -> data/xrefs/ + build/xrefs/
+    python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
+    python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
+    python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
+    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), Clarke + Spurgeon + period scans, pinned
+    python3 pipeline/build_commentary.py               # commentary layer -> data/commentary/ + build/commentary/
+    python3 pipeline/build_commentary.py --check       # byte-identical
+    python3 pipeline/build_commentary.py --collate     # CCEL's wording vs 1828/1840/1873 printings -> collation.json
+    python3 pipeline/commentary.py kjv:John.3.16       # the comments on a verse, and those citing it
+    python3 tests/commentary_test.py                   # the reader's commentary rules; fixtures; the committed layer
+    python3 pipeline/build_topical.py --fetch          # Nave, Torrey, Easton, Smith (CCEL) + their scans' OCR, pinned
+    python3 pipeline/build_topical.py                  # topical/dictionary layer -> data/topical/ (2-of-3 vote with print)
+    python3 pipeline/build_topical.py --check          # data/topical byte-identical
+    python3 pipeline/topical.py kjv:John.3.16          # every topic and article citing a verse
+    python3 tests/topical_test.py                      # the reference reader rule by rule; the committed layer
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -449,6 +465,47 @@ The living truth for project state is the Obsidian vault:
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
   uuid5 of the passage uid, so a re-import adds nothing. Launch plan C5.
+- pipeline/build_xrefs.py (+ tsk_layout.py, tsk_read.py, tsk_glyphs.py, xrefs.py)
+  — the cross-reference layer on KJV verse ids. The Treasury of Scripture
+  Knowledge (PD) read from two archive.org scans: OCR re-laid in columns,
+  entries ALIGNED to KJV verses (not walked), every 3/8 re-read from the page
+  image (the face's 3 OCRs as 8), only references both scans attest committed
+  -> data/xrefs/tsk.jsonl. The fathers' notes (PR #7) and every book link to
+  a verse join it in build/xrefs/cited-by.jsonl (gitignored: CC BY-SA
+  inputs). OpenBible.info (CC BY) measures it and is never an input. Rules
+  and measurements: pipeline/README-xrefs.md
+- pipeline/build_topical.py (+ topical_read.py, topical.py) — Nave's, Torrey's,
+  Easton's and Smith's (Peloubet 1884, not the 1863 work) from CCEL's ThML,
+  keyed to KJV verse ids -> data/topical/*.jsonl (COMMITTED: headings, outline,
+  references; the dictionaries' prose only in build/topical/). A reference is
+  committed when 2 of 3 readings agree: CCEL's tag, an independent reader of
+  the displayed text, and the open archive.org scans' OCR aligned in order.
+  CCEL's Nave carries modern glosses (DONKEY, bronze): rows flag such wording
+  (`wording_not_in_print`). Hitchcock (no references) joins by headword.
+  pipeline/README-topical.md
+- pipeline/build_commentary.py (+ commentary.py, clarke_read.py) — Henry, JFB, Barnes, Wesley,
+  Calvin, Hodge (Ephesians), Manton (James, Jude) (CCEL ThML; Calvin's CTS translators'
+  footnotes dropped as the editors'), Poole and Trapp (EEBO-TCP's hand-keyed first
+  editions; Trapp's place read by his "Verse N." head and lemma) and Clarke (scans) keyed to KJV
+  verse ids -> data/commentary/*.jsonl (COMMITTED: which verses each comment
+  is on, which it cites, Poole's margin parallels; the prose only in
+  build/commentary/). Each comment's place is read twice (CCEL's mark and the
+  comment's own verse numbers; Poole's inline verse numbers in order). CCEL
+  citations are voted as in the topical layer, with period scans (Henry 1828,
+  JFB 1873/79, Barnes 1840 Gospels). 🔴 CCEL's Barnes is keyed from Baker's
+  1949 reprint (flagged `ccel_print_source_check`) and is British-spelled;
+  CCEL's JFB and Henry are lightly edited (viz.->namely, spake->spoke):
+  measured in data/commentary/collation.json (`--collate`). Clarke is on
+  no keyed site: pipeline/clarke_read.py reads him from the archive.org OCR
+  of two printings of each Testament (1843/1846 OT, 1846/1835 NT), notes
+  placed by their "Verse N." heads and lemmas, chapters by alignment; a
+  citation is committed only when both printings read it. The 1843/1846 OT
+  share plates, so there the vote removes OCR error, not margin leakage.
+  Spurgeon's Treasury of David (Exposition only; CCEL has page images only)
+  is read the same way by pipeline/spurgeon_read.py, from the London
+  (Marshall) and New York (Funk & Wagnalls) printings: comments by
+  Spurgeon's numbered heads inside each printed verse group.
+  pipeline/README-commentary.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
