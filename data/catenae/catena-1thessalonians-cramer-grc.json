@@ -1,0 +1,410 @@
+{
+ "slug": "catena-1thessalonians-cramer-grc",
+ "source_sha256": "364205025a0aab929922eaae194090411e8f25defdb43a22d6d0cd0ed1ec3ce3",
+ "rp2018": {
+  "commit": "27a45ff1b7be6c17ccbfeac414f3f55732ae8e28",
+  "file": "1TH.csv"
+ },
+ "rule": {
+  "skip": 0.3,
+  "back": 0.35,
+  "gap": 0.05,
+  "jump": 0.02,
+  "fix": 0.35,
+  "fix_min": 0.6,
+  "fix_at": 0.3,
+  "lb": 0.5,
+  "short": 3,
+  "min_place": 0.1
+ },
+ "honesty": "The chapter of every verse is MEASURED, not printed: of 67 numbered marks, 43 were placed at a verse by pipeline/place_catena.py (39 printed verse numbers, 4 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 43 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 43 at least 30% (the others are linked as weak); 1 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-5; a kephalaion with no placed mark is one unlinked unit.",
+ "placed": [
+  {
+   "ord": 1,
+   "k": "1",
+   "n": "1",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 3,
+   "k": "1",
+   "n": "4",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 4,
+   "k": "1",
+   "n": "8",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 8,
+   "score": 1.0
+  },
+  {
+   "ord": 7,
+   "k": "1",
+   "n": "1",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 1,
+   "score": 0.9167
+  },
+  {
+   "ord": 9,
+   "k": "1",
+   "n": "3",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 3,
+   "score": 0.8889
+  },
+  {
+   "ord": 11,
+   "k": "1",
+   "n": "5",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 5,
+   "score": 1.0
+  },
+  {
+   "ord": 12,
+   "k": "1",
+   "n": "7",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 7,
+   "score": 1.0
+  },
+  {
+   "ord": 14,
+   "k": "1",
+   "n": "9",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 9,
+   "score": 0.9524
+  },
+  {
+   "ord": 15,
+   "k": "1",
+   "n": "13",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 13,
+   "score": 0.9583
+  },
+  {
+   "ord": 16,
+   "k": "1",
+   "n": "14",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 14,
+   "score": 1.0
+  },
+  {
+   "ord": 17,
+   "k": "2",
+   "n": "17",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 17,
+   "score": 0.9333
+  },
+  {
+   "ord": 18,
+   "k": "2",
+   "n": "18",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 18,
+   "score": 1.0
+  },
+  {
+   "ord": 20,
+   "k": "2",
+   "n": "19",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 19,
+   "score": 0.5
+  },
+  {
+   "ord": 21,
+   "k": "2",
+   "n": "1",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 1,
+   "score": 0.8571
+  },
+  {
+   "ord": 22,
+   "k": "2",
+   "n": "2",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 2,
+   "score": 0.5714
+  },
+  {
+   "ord": 23,
+   "k": "2",
+   "n": "4",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 26,
+   "k": "3",
+   "n": "11",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 11,
+   "score": 1.0
+  },
+  {
+   "ord": 27,
+   "k": "3",
+   "n": "13",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 13,
+   "score": 0.8182
+  },
+  {
+   "ord": 29,
+   "k": "4",
+   "n": "1",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 30,
+   "k": "4",
+   "n": "4",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 32,
+   "k": "4",
+   "n": "6",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 6,
+   "score": 1.0
+  },
+  {
+   "ord": 34,
+   "k": "4",
+   "n": "7",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 7,
+   "score": 1.0
+  },
+  {
+   "ord": 35,
+   "k": "4",
+   "n": "8",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 8,
+   "score": 0.9286
+  },
+  {
+   "ord": 36,
+   "k": "4",
+   "n": "9",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 9,
+   "score": 0.9333
+  },
+  {
+   "ord": 37,
+   "k": "5",
+   "n": "13",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 13,
+   "score": 1.0
+  },
+  {
+   "ord": 39,
+   "k": "5",
+   "n": "15",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 15,
+   "score": 1.0
+  },
+  {
+   "ord": 40,
+   "k": "5",
+   "n": "16",
+   "src": "lb",
+   "chapter": 4,
+   "verse": 16,
+   "score": 1.0
+  },
+  {
+   "ord": 45,
+   "k": "6",
+   "n": "1",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 1,
+   "score": 1.0
+  },
+  {
+   "ord": 47,
+   "k": "6",
+   "n": "2",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 2,
+   "score": 1.0
+  },
+  {
+   "ord": 48,
+   "k": "6",
+   "n": "3",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 3,
+   "score": 0.8667
+  },
+  {
+   "ord": 49,
+   "k": "6",
+   "n": "4",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 50,
+   "k": "6",
+   "n": "5",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 5,
+   "score": 0.875
+  },
+  {
+   "ord": 51,
+   "k": "6",
+   "n": "6",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 6,
+   "score": 1.0
+  },
+  {
+   "ord": 53,
+   "k": "6",
+   "n": "7",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 7,
+   "score": 0.7143
+  },
+  {
+   "ord": 54,
+   "k": "6",
+   "n": "8",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 8,
+   "score": 0.875
+  },
+  {
+   "ord": 56,
+   "k": "6",
+   "n": "9",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 9,
+   "score": 1.0
+  },
+  {
+   "ord": 58,
+   "k": "6",
+   "n": "12",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 12,
+   "score": 1.0
+  },
+  {
+   "ord": 59,
+   "k": "6",
+   "n": "14",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 14,
+   "score": 1.0
+  },
+  {
+   "ord": 60,
+   "k": "6",
+   "n": "15",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 15,
+   "score": 1.0
+  },
+  {
+   "ord": 61,
+   "k": "6",
+   "n": "16",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 16,
+   "score": 0.6667
+  },
+  {
+   "ord": 63,
+   "k": "6",
+   "n": "23",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 23,
+   "score": 1.0
+  },
+  {
+   "ord": 64,
+   "k": "6",
+   "n": "26",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 26,
+   "score": 0.8333
+  },
+  {
+   "ord": 66,
+   "k": "6",
+   "n": "26",
+   "src": "lb",
+   "chapter": 5,
+   "verse": 27,
+   "score": 0.9091
+  }
+ ]
+}

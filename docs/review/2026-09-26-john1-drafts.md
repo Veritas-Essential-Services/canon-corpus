@@ -15,7 +15,8 @@ s.12 and s.14. Until you review them, the reader badges every column these reach
 ## What this is
 
 - **Glosses.** A contextual word gloss for each token where Strong's dictionary gloss
-  misleads in the verse: all 22 nulls, all 42 `def-head` glosses (*commencement*,
+  misleads in the verse: all 22 nulls (since 2026-10-02 the dictionary's
+  paradigm rule glosses 15 of them, the pronouns; the draft still decides by use), all 42 `def-head` glosses (*commencement*,
   *luminousness*, *lay forth*, …), tense and mood the dictionary cannot carry (ἦν
   *was*, not *exist*), pronouns by use (αὐτοῦ *him* after a preposition, *his* after
   a noun), and case where English needs a preposition (*of-God*). The dictionary
@@ -114,10 +115,10 @@ deleted: the dictionary gloss comes back.
 | # | Greek | dictionary | draft gloss | plain_form | why | Adam: |
 |---|---|---|---|---|---|---|
 | 1 | Πάντα | all | all-things |  | neuter plural panta: all things, not bare 'all' |  |
-| 3 | αὐτοῦ | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 3 | αὐτοῦ | his | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 4 | ἐγένετο | be | came-to-be |  | ginomai here: came into being (aorist); 'be' flattens it into a copula |  |
 | 6 | χωρὶς | — | without |  | choris: 'without'; the dictionary gives no gloss |  |
-| 7 | αὐτοῦ | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 7 | αὐτοῦ | his | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 8 | ἐγένετο | be | came-to-be |  | ginomai here: came into being (aorist); 'be' flattens it into a copula |  |
 | 9 | οὐδὲ | not | not-even |  | oude before hen: 'not even (one)', stronger than 'not' |  |
 | 12 | γέγονεν | be | has-come-to-be |  | perfect of ginomai: 'has come to be' |  |
@@ -139,7 +140,7 @@ deleted: the dictionary gloss comes back.
 
 | # | Greek | dictionary | draft gloss | plain_form | why | Adam: |
 |---|---|---|---|---|---|---|
-| 2 | αὐτῷ | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 2 | αὐτῷ | him | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 4 | ἦν | exist | was |  | the imperfect of eimi: 'was', not the timeless dictionary 'exist' |  |
 | 8 | ἦν | exist | was |  | the imperfect of eimi: 'was', not the timeless dictionary 'exist' |  |
 | 10 | φῶς | luminousness | light |  | phos is light itself; 'luminousness' is the dictionary's abstract sense |  |
@@ -187,7 +188,7 @@ deleted: the dictionary gloss comes back.
 |---|---|---|---|---|---|---|
 | 1 | Ἐγένετο | be | came-to-be | there-came | egeneto opening a narrative: 'there came' (a man arose) |  |
 | 3 | ἀπεσταλμένος | set | sent |  | perfect passive participle of apostello: 'sent', not 'set' |  |
-| 7 | αὐτῷ | — | to-him | his | dative of possession: 'to him' (his) name |  |
+| 7 | αὐτῷ | him | to-him | his | dative of possession: 'to him' (his) name |  |
 
 
 ## John 1:7
@@ -213,7 +214,7 @@ deleted: the dictionary gloss comes back.
 | 7 | περὶ | with | concerning |  | peri with the genitive: 'concerning'; 'with' is its accusative sense |  |
 | 9 | φωτός | luminousness | light |  | phos is light itself; 'luminousness' is the dictionary's abstract sense |  |
 | 12 | πιστεύσωσιν | have faith | might-believe |  | aorist subjunctive of pisteuo: 'might believe' |  |
-| 14 | αὐτοῦ | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 14 | αὐτοῦ | his | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 
 
 ## John 1:8
@@ -282,9 +283,9 @@ deleted: the dictionary gloss comes back.
 | # | Greek | dictionary | draft gloss | plain_form | why | Adam: |
 |---|---|---|---|---|---|---|
 | 4 | ἦν | exist | was |  | the imperfect of eimi: 'was', not the timeless dictionary 'exist' |  |
-| 9 | αὐτοῦ | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 9 | αὐτοῦ | his | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 10 | ἐγένετο | be | came-to-be |  | ginomai here: came into being (aorist); 'be' flattens it into a copula |  |
-| 14 | αὐτὸν | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 14 | αὐτὸν | him | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 15 | οὐκ | no | not |  | ou negates the verb: 'not', not the interjection 'no' |  |
 | 16 | ἔγνω | know | knew | did-not-know | aorist of ginosko: 'knew' (recognised) |  |
 
@@ -308,7 +309,7 @@ deleted: the dictionary gloss comes back.
 | 3 | ἴδια | own | own-things | his-own | ta idia, neuter: his own things (his own home), not bare 'own' |  |
 | 4 | ἦλθεν | come | came |  | aorist of erchomai: 'came' |  |
 | 7 | ἴδιοι | own | own-people | his-own-people | hoi idioi, masculine: his own people |  |
-| 8 | αὐτὸν | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 8 | αὐτὸν | him | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 9 | οὐ | no | not |  | ou negates the verb: 'not', not the interjection 'no' |  |
 | 10 | παρέλαβον | receive | received | did-not-receive | paralambano: to receive (take to oneself), aorist |  |
 
@@ -331,7 +332,7 @@ deleted: the dictionary gloss comes back.
 |---|---|---|---|---|---|---|
 | 1 | Ὅσοι | as | as-many-as |  | hosoi: 'as many as'; 'as' alone loses the quantity |  |
 | 3 | ἔλαβον | take | received |  | aorist: 'received' (the dictionary's 'take' misses the welcome) |  |
-| 4 | αὐτόν | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 4 | αὐτόν | him | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 5 | ἔδωκεν | give | he-gave |  | aorist 3rd singular: 'he gave' |  |
 | 7 | ἐξουσίαν | privilege | authority |  | exousia: authority, the right to; 'privilege' is weaker |  |
 | 8 | τέκνα | child | children |  | tekna is plural: 'children' |  |
@@ -340,7 +341,7 @@ deleted: the dictionary gloss comes back.
 | 11 | τοῖς | the | to-those | to-those-who | dative plural article with the participle: 'to those (who)' |  |
 | 12 | πιστεύουσιν | have faith | believing | believe | present participle of pisteuo: 'believing'; 'have faith' is the dictionary's |  |
 | 13 | εἰς | to | in |  | eis after pisteuo: believe 'in' |  |
-| 16 | αὐτοῦ | — | his |  | autou after a noun is possessive: 'his' |  |
+| 16 | αὐτοῦ | his | his |  | autou after a noun is possessive: 'his' |  |
 
 
 ## John 1:13
@@ -391,9 +392,9 @@ deleted: the dictionary gloss comes back.
 | 5 | ἐγένετο | be | became |  | egeneto with a predicate: 'became' |  |
 | 7 | ἐσκήνωσεν | dwell | dwelt |  | skenoo: to live in a tent, aorist; 'dwelt' for now, 'tented' is the literal -- Adam to rule |  |
 | 8 | ἐν | in | among |  | en with a plural: 'among' |  |
-| 9 | ἡμῖν | — | us |  | hemin, dative plural: 'us'; the dictionary lists only I and me |  |
+| 9 | ἡμῖν | us | us |  | hemin, dative plural: 'us'; the dictionary lists only I and me |  |
 | 11 | ἐθεασάμεθα | look | we-looked-upon |  | theaomai, aorist 1st plural: 'we looked upon' (gazed at) |  |
-| 14 | αὐτοῦ | — | his |  | autou after a noun is possessive: 'his' |  |
+| 14 | αὐτοῦ | his | his |  | autou after a noun is possessive: 'his' |  |
 | 16 | ὡς | how | as |  | hos: 'as', not 'how' |  |
 | 17 | μονογενοῦς | only | of-an-only-begotten |  | monogenes, genitive, no article: 'of an only-begotten' (the only one born) |  |
 | 19 | πατρός | father | Father |  | pater here is God the Father |  |
@@ -419,7 +420,7 @@ deleted: the dictionary gloss comes back.
 |---|---|---|---|---|---|---|
 | 2 | μαρτυρεῖ | witness | bears-witness |  | present of martyreo: 'bears witness' |  |
 | 3 | περὶ | with | concerning |  | peri with the genitive: 'concerning'; 'with' is its accusative sense |  |
-| 4 | αὐτοῦ | — | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
+| 4 | αὐτοῦ | his | him |  | autou/auto after a preposition or as object: 'him' (the dictionary has no standalone him) |  |
 | 6 | κέκραγεν | cry | has-cried-out |  | perfect of krazo: 'has cried out' |  |
 | 7 | λέγων | lay forth | saying |  | present participle of lego: 'saying'; 'lay forth' is the dictionary's root sense |  |
 | 8 | Οὗτος | he | this |  | houtos pointing: 'this (one)' |  |
@@ -453,8 +454,8 @@ deleted: the dictionary gloss comes back.
 | # | Greek | dictionary | draft gloss | plain_form | why | Adam: |
 |---|---|---|---|---|---|---|
 | 4 | πληρώματος | repletion | fullness |  | pleroma: fullness; 'repletion' is the dictionary's |  |
-| 5 | αὐτοῦ | — | his |  | autou after a noun is possessive: 'his' |  |
-| 6 | ἡμεῖς | — | we |  | hemeis, nominative plural: 'we'; the dictionary lists only I and me |  |
+| 5 | αὐτοῦ | his | his |  | autou after a noun is possessive: 'his' |  |
+| 6 | ἡμεῖς | we | we |  | hemeis, nominative plural: 'we'; the dictionary lists only I and me |  |
 | 8 | ἐλάβομεν | take | received |  | aorist: 'received' (the dictionary's 'take' misses the welcome) |  |
 | 10 | χάριν | graciousness | grace |  | charis in the Prologue is grace (the gift), not 'graciousness' (the manner) |  |
 | 11 | ἀντὶ | — | in-place-of |  | anti: in place of (grace following grace); the dictionary gives no gloss -- Adam to rule on the sense |  |
