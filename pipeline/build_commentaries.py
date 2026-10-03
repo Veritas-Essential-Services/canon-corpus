@@ -2040,6 +2040,84 @@ KD4C_IA_DATES = {
     "booksofchronicle00keiluoft": ("1878", None),
     "booksofezranehem00keil": ("1873", None),
 }
+# The prophets: Jeremiah and Lamentations (2 vols), Ezekiel (2 vols), Daniel, the Minor Prophets (2 vols);
+# the candidates measured are in KD4C_CHOICE. The Ezekiel scans bind Andrews' Life of Christ after the
+# commentary: those leaves are outside the volume's range.
+KD4C.update({
+    "keil-delitzsch-jeremiah-1": _kd(
+        "Biblical Commentary on the Prophecies of Jeremiah, vol. I", "Keil, Jer. I", _KDP,
+        "propheciesofjere01keil", "e609bff9112327710351175b3308258e17b7e06ac6094e8aff100a25badc18a3",
+        f"{_KD}: C. F. Keil, The Prophecies of Jeremiah, vol. I (chap. i.-xxix.), tr. David Patrick (1880 issue), "
+        "as its title page reads", 1880, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (9, 433),
+        [("Jer", 51, 433)]),
+    "keil-delitzsch-jeremiah-2": _kd(
+        "Biblical Commentary on the Prophecies of Jeremiah, vol. II", "Keil, Jer. II", _KDP,
+        "propheciesofjere02keil", "8e714e17e98bb401fe5621a55a38ecd5310adb81efb8ade970e071878423a342",
+        f"{_KD}: C. F. Keil, The Prophecies of Jeremiah, vol. II (chap. xxx.-lii.; Lamentations), tr. James "
+        "Kennedy (1874), as its title page reads", 1874, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT",
+        (7, 467), [("Jer", 13, 343), ("Lam", 367, 467)]),
+    "keil-delitzsch-ezekiel-1": _kd(
+        "Biblical Commentary on the Prophecies of Ezekiel, vol. I", "Keil, Ezek. I", _KDP,
+        "biblicalcommenta01keiluoft", "ecec4e81ffab2306a5f2eb729290db4f3c3891d5f8218a940b403e032af07f6d",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. I (chap. i.-xxviii.), tr. "
+        "James Martin (1876), as its title page reads", 1876, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT",
+        (8, 443), [("Ezek", 32, 443)]),
+    "keil-delitzsch-ezekiel-2": _kd(
+        "Biblical Commentary on the Prophecies of Ezekiel, vol. II", "Keil, Ezek. II", _KDP,
+        "biblicalcommenta02keiluoft", "c20737e357a7f3f1647ab1a79fc7131e3be1ea5d1becaf09e56dd14743bf3f7d",
+        f"{_KD}: C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. II (chap. xxix.-xlviii.), tr. "
+        "James Martin (1876), as its title page reads", 1876, "University of Toronto (Emmanuel College)", None,
+        (6, 459), [("Ezek", 14, 459)]),
+    "keil-delitzsch-daniel": _kd(
+        "Biblical Commentary on the Book of Daniel", "Keil, Dan.", _KDP,
+        "bookofprophetdan00keil", "51ab5c80ff5a5c6c39f20cb3928c0f0b30001aec7fb0ff7dafc86a664826df62",
+        f"{_KD}: C. F. Keil, The Book of the Prophet Daniel, tr. M. G. Easton (1872), as its title page reads",
+        1872, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT", (7, 526), [("Dan", 76, 526)]),
+    "keil-delitzsch-minor-prophets-1": _kd(
+        "Biblical Commentary on the Twelve Minor Prophets, vol. I", "Keil, Min. Proph. I", _KDP,
+        "thetwelveminorp01keiluoft", "f781e60b1c64f5c28c7684983c2b2469bdbc20a6fdbcb12e471fbbaa3e79b971",
+        f"{_KD}: C. F. Keil, The Twelve Minor Prophets, vol. I (Hosea to Micah), tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (4, 526),
+        [("Hos", 38, 178), ("Joel", 190, 243), ("Amos", 251, 347), ("Obad", 361, 389), ("Jonah", 400, 428),
+         ("Mic", 436, 526)]),
+    "keil-delitzsch-minor-prophets-2": _kd(
+        "Biblical Commentary on the Twelve Minor Prophets, vol. II", "Keil, Min. Proph. II", _KDP,
+        "thetwelveminorpr02keiluoft", "44995dcbef39e0e8ca4548baa1551cc211dd5634897dfeb85b3ef06367667092",
+        f"{_KD}: C. F. Keil, The Twelve Minor Prophets, vol. II (Nahum to Malachi), tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (4, 486),
+        [("Nah", 19, 59), ("Hab", 66, 127), ("Zeph", 137, 176), ("Hag", 185, 226), ("Zech", 234, 432),
+         ("Mal", 440, 486)]),
+})
+KD4C_CHOICE.update({
+    "keil-delitzsch-jeremiah-1": "propheciesofjere01keil (Princeton, 1880; no Toronto scan): English 94.8%, 895 'Ver.' "
+                                 "openers; cu31924070685882 (Cornell) 93.9%/881 has no hOCR",
+    "keil-delitzsch-jeremiah-2": "propheciesofjere02keil (Princeton, 1874; no Toronto scan): English 93.7%, 763 'Ver.' "
+                                 "openers; cu31924070685890 (Cornell) 93.6%/750 has no hOCR; prophesiesofjere0002unse "
+                                 "is a lending-library item (its text refused, HTTP 401)",
+    "keil-delitzsch-ezekiel-1": "biblicalcommenta01keiluoft (Toronto, 1876): English 95.8%, 794 'Ver.' openers; "
+                                "biblicalcommenta00keiluoft (Toronto) 95.4%/808, biblicalcommenta01keil (Princeton) "
+                                "94.4%/794",
+    "keil-delitzsch-ezekiel-2": "biblicalcommenta02keiluoft (Toronto, 1876): English 96.0%, 619 'Ver.' openers; "
+                                "india.history.resource.78885 95.6%/613; cu31924070685908/-916 (Cornell): no hOCR",
+    "keil-delitzsch-daniel": "bookofprophetdan00keil (Princeton, 1872; no Toronto scan): English 93.6%, 280 'Ver.' "
+                             "openers; cu31924070689447 (Cornell, 1878) 93.6%/284 is not clearly better",
+    "keil-delitzsch-minor-prophets-1": "thetwelveminorp01keiluoft (Toronto, 1878): English 95.5%, 610 'Ver.' openers; "
+                                       "cu31924070689454 (Cornell) 94.4%/595, india.history.resource.78876 (1868) "
+                                       "94.7%/580",
+    "keil-delitzsch-minor-prophets-2": "thetwelveminorpr02keiluoft (Toronto, 1878): English 95.2%, 508 'Ver.' openers; "
+                                       "cu31924070689462 (Cornell) 94.0%/493, india.history.resource.72629 (1868) "
+                                       "94.4%/487",
+})
+KD4C_IA_DATES.update({
+    "propheciesofjere01keil": ("1874-1880 [v. 1, 1880]", "IA dates the set; this volume's title page reads 1880"),
+    "propheciesofjere02keil": ("1874-1880 [v. 1, 1880]", "IA dates the set, naming vol. I's 1880; this volume's "
+                                                         "title page reads 1874"),
+    "biblicalcommenta01keiluoft": ("1876", None),
+    "biblicalcommenta02keiluoft": ("1876", None),
+    "bookofprophetdan00keil": ("1872", None),
+    "thetwelveminorp01keiluoft": ("1878", None),
+    "thetwelveminorpr02keiluoft": ("1878", None),
+})
 KD4C_HONESTY = (
     "a running head naming a chapter below the median of the five headed leaves before it or above the median "
     "of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence "
@@ -2048,7 +2126,7 @@ KD4C_HONESTY = (
     "is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it "
     "without moving the sequence (measure.notes_opened_behind)")
 # a volume continuing a book starts its notes where the volume before left off
-KD4C_FIRST_CHAPTER = {}
+KD4C_FIRST_CHAPTER = {"keil-delitzsch-jeremiah-2": {"Jer": 30}, "keil-delitzsch-ezekiel-2": {"Ezek": 29}}
 for _k, _s in KD4C.items():
     _s["scan_choice"] = KD4C_CHOICE[_k]
     _s["monotone_heads"] = True     # a misread head ('XL' for 'XI') must not carry the notes 29 chapters on

@@ -436,10 +436,13 @@ check("reopen: a verse with its own unit inside the run reopens that unit",
 check("reopen: an opener naming a chapter is not reopened", B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 22, 20) is None)
 check("reopen: only the volumes that ask for it", B.reopen("delitzsch-psalms-1", nt, "Jer.", d, 22, None) is None)
 
-check("K&D 4c: the historical books, each in ORDER after the earlier K&D", len(B.KD4C) == 5
+check("K&D 4c: twelve volumes, each in ORDER after the earlier K&D", len(B.KD4C) == 12
       and B.ORDER.index(next(iter(B.KD4C))) > max(B.ORDER.index(k) for k in B.SECOND if k not in B.KD4C))
 check("K&D 4c: every volume says why its scan was chosen, and reads its rights field",
       all(s.get("scan_choice") and "ia_rights" in s for s in B.KD4C.values()))
+check("K&D 4c: a volume continuing a book starts at its chapter (Jer 30, Ezek 29)",
+      B.SCANS["keil-delitzsch-jeremiah-2"]["first_chapter"]["Jer"] == 30
+      and B.SCANS["keil-delitzsch-ezekiel-2"]["first_chapter"]["Ezek"] == 29)
 for k in B.KD4C:
     e = ents.get(k)
     if not e:
@@ -450,10 +453,16 @@ for k in B.KD4C:
     check(f"manifest: {k} has a rights block as read", e["rights"]["ia_possible_copyright_status"]
           and e["rights"]["source_url"].endswith(B.SCANS[k]["ia"]))
 num = {k: ents[k]["scheme"]["numbering"] for k in B.KD4C if k in ents}
-if len(num) == 5:
-    check("manifest: 1 Chronicles and Nehemiah are measured as numbered in the Hebrew",
-          num["keil-delitzsch-chronicles"]["1Chr"] == "hebrew" and num["keil-delitzsch-ezra-nehemiah-esther"]["Neh"] == "hebrew")
-    check("manifest: 1 Kings is measured as numbered in the KJV", num["keil-delitzsch-kings"]["1Kgs"] == "kjv")
+if len(num) == 12:
+    check("manifest: Joel and Malachi are measured as numbered in the KJV (Martin's English Bible numbering)",
+          num["keil-delitzsch-minor-prophets-1"]["Joel"] == "kjv" and num["keil-delitzsch-minor-prophets-2"]["Mal"] == "kjv")
+    check("manifest: 1 Chronicles, Nehemiah, Jeremiah 1-29 and Daniel are measured as numbered in the Hebrew",
+          num["keil-delitzsch-chronicles"]["1Chr"] == "hebrew" and num["keil-delitzsch-ezra-nehemiah-esther"]["Neh"] == "hebrew"
+          and num["keil-delitzsch-jeremiah-1"]["Jer"] == "hebrew" and num["keil-delitzsch-daniel"]["Dan"] == "hebrew")
+    check("manifest: 1 Kings and Hosea are measured as numbered in the KJV",
+          num["keil-delitzsch-kings"]["1Kgs"] == "kjv" and num["keil-delitzsch-minor-prophets-1"]["Hos"] == "kjv")
+    check("manifest: Jeremiah vol. II covers only chapters 30-52",
+          ents["keil-delitzsch-jeremiah-2"]["measure"]["kjv_coverage"]["Jer"].get("chapters") == [30, 52])
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

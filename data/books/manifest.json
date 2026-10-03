@@ -30983,5 +30983,782 @@
    }
   },
   "built_sha256": "f3a8323608463d86a39e465ce3da25a2d6860f52fc797db8d8990bd58cff2a5f"
+ },
+ "keil-delitzsch-jeremiah-1": {
+  "title": "Biblical Commentary on the Prophecies of Jeremiah, vol. I",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "e609bff9112327710351175b3308258e17b7e06ac6094e8aff100a25badc18a3",
+  "units": 705,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Jer": "hebrew"
+   },
+   "scan_choice": "propheciesofjere01keil (Princeton, 1880; no Toronto scan): English 94.8%, 895 'Ver.' openers; cu31924070685882 (Cornell) 93.9%/881 has no hOCR",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Prophecies of Jeremiah, vol. I (chap. i.-xxix.), tr. David Patrick (1880 issue), as its title page reads; scan leaves 9-433 of propheciesofjere01keil"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, propheciesofjere01keil (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/propheciesofjere01keil",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 665,
+    "page": 40
+   },
+   "footnote_lines": 198,
+   "junk_lines_dropped": 2,
+   "leaves_commentary": 383,
+   "leaves_page": 40,
+   "notes_opened_behind": 3,
+   "notes_reopened": 76,
+   "openers_accepted": 744,
+   "openers_out_of_sequence": 6,
+   "openers_rejected": 66,
+   "printed_page_from_neighbours": 151,
+   "printed_page_read": 267,
+   "running_heads_out_of_order": 3,
+   "kjv_coverage": {
+    "Jer": {
+     "kjv_verses": 1364,
+     "commented": 653,
+     "with_own_note": 569,
+     "chapters": [
+      1,
+      29
+     ],
+     "kjv_verses_in_chapters": 721
+    }
+   },
+   "scripture_links": {
+    "read": 2405,
+    "resolved": 2334,
+    "ranges": 183,
+    "ranges_start_only": 5
+   },
+   "numbering_own": {
+    "Jer": {
+     "read": 816,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 169,
+     "only_hebrew": 3,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1474,
+     "only_hebrew": 10,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "1ca7b234111e0f36bb4f97b0f75b480bbf1b86cd91c9f2dde429c711e9af6fbc"
+ },
+ "keil-delitzsch-jeremiah-2": {
+  "title": "Biblical Commentary on the Prophecies of Jeremiah, vol. II",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "8e714e17e98bb401fe5621a55a38ecd5310adb81efb8ade970e071878423a342",
+  "units": 662,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Jer": "undecided",
+    "Lam": "undecided"
+   },
+   "scan_choice": "propheciesofjere02keil (Princeton, 1874; no Toronto scan): English 93.7%, 763 'Ver.' openers; cu31924070685890 (Cornell) 93.6%/750 has no hOCR; prophesiesofjere0002unse is a lending-library item (its text refused, HTTP 401)",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Prophecies of Jeremiah, vol. II (chap. xxx.-lii.; Lamentations), tr. James Kennedy (1874), as its title page reads; scan leaves 7-467 of propheciesofjere02keil"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1874); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, propheciesofjere02keil (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/propheciesofjere02keil",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 637,
+    "page": 25
+   },
+   "footnote_lines": 351,
+   "junk_lines_dropped": 4,
+   "leaves_commentary": 432,
+   "leaves_page": 25,
+   "notes_opened_behind": 3,
+   "notes_reopened": 55,
+   "openers_accepted": 684,
+   "openers_out_of_sequence": 8,
+   "openers_rejected": 13,
+   "printed_page_from_neighbours": 109,
+   "printed_page_read": 339,
+   "running_heads_out_of_order": 6,
+   "kjv_coverage": {
+    "Jer": {
+     "kjv_verses": 1364,
+     "commented": 622,
+     "with_own_note": 453,
+     "chapters": [
+      30,
+      52
+     ],
+     "kjv_verses_in_chapters": 643
+    },
+    "Lam": {
+     "kjv_verses": 154,
+     "commented": 151,
+     "with_own_note": 62
+    }
+   },
+   "scripture_links": {
+    "read": 2535,
+    "resolved": 2429,
+    "ranges": 164,
+    "ranges_start_only": 10
+   },
+   "numbering_own": {
+    "Jer": {
+     "read": 726,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Lam": {
+     "read": 104,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 168,
+     "only_hebrew": 4,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1530,
+     "only_hebrew": 10,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "2d41c2b9ebd35fb3694a823fbb1c4c17de85d0840f6143762a448f4295dfe50f"
+ },
+ "keil-delitzsch-ezekiel-1": {
+  "title": "Biblical Commentary on the Prophecies of Ezekiel, vol. I",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "ecec4e81ffab2306a5f2eb729290db4f3c3891d5f8218a940b403e032af07f6d",
+  "units": 775,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ezek": "undecided"
+   },
+   "scan_choice": "biblicalcommenta01keiluoft (Toronto, 1876): English 95.8%, 794 'Ver.' openers; biblicalcommenta00keiluoft (Toronto) 95.4%/808, biblicalcommenta01keil (Princeton) 94.4%/794",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. I (chap. i.-xxviii.), tr. James Martin (1876), as its title page reads; scan leaves 8-443 of biblicalcommenta01keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1876); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcommenta01keiluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/biblicalcommenta01keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 751,
+    "page": 24
+   },
+   "footnote_lines": 329,
+   "junk_lines_dropped": 97,
+   "leaves_commentary": 412,
+   "leaves_page": 24,
+   "notes_opened_behind": 1,
+   "notes_reopened": 22,
+   "openers_accepted": 761,
+   "openers_out_of_sequence": 6,
+   "openers_rejected": 4,
+   "printed_page_from_neighbours": 140,
+   "printed_page_read": 283,
+   "running_heads_out_of_order": 18,
+   "kjv_coverage": {
+    "Ezek": {
+     "kjv_verses": 1273,
+     "commented": 710,
+     "with_own_note": 638,
+     "chapters": [
+      1,
+      28
+     ],
+     "kjv_verses_in_chapters": 719
+    }
+   },
+   "scripture_links": {
+    "read": 2202,
+    "resolved": 2089,
+    "ranges": 159,
+    "ranges_start_only": 11
+   },
+   "numbering_own": {
+    "Ezek": {
+     "read": 853,
+     "only_hebrew": 0,
+     "only_kjv": 3,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 28,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 994,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "8ba3cb64b7d34fc66eb5ce1c7d88b1bf78ec3f6a28fab37fe33c1cbc352983ad"
+ },
+ "keil-delitzsch-ezekiel-2": {
+  "title": "Biblical Commentary on the Prophecies of Ezekiel, vol. II",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "c20737e357a7f3f1647ab1a79fc7131e3be1ea5d1becaf09e56dd14743bf3f7d",
+  "units": 571,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ezek": "undecided"
+   },
+   "scan_choice": "biblicalcommenta02keiluoft (Toronto, 1876): English 96.0%, 619 'Ver.' openers; india.history.resource.78885 95.6%/613; cu31924070685908/-916 (Cornell): no hOCR",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, Biblical Commentary on the Prophecies of Ezekiel, vol. II (chap. xxix.-xlviii.), tr. James Martin (1876), as its title page reads; scan leaves 6-459 of biblicalcommenta02keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1876); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, biblicalcommenta02keiluoft (University of Toronto (Emmanuel College) copy)",
+   "source_url": "https://archive.org/details/biblicalcommenta02keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 564,
+    "page": 7
+   },
+   "footnote_lines": 262,
+   "junk_lines_dropped": 40,
+   "leaves_commentary": 446,
+   "leaves_page": 7,
+   "notes_opened_behind": 1,
+   "notes_reopened": 19,
+   "openers_accepted": 573,
+   "openers_out_of_sequence": 5,
+   "openers_rejected": 21,
+   "printed_page_from_neighbours": 92,
+   "printed_page_read": 340,
+   "running_heads_out_of_order": 20,
+   "kjv_coverage": {
+    "Ezek": {
+     "kjv_verses": 1273,
+     "commented": 534,
+     "with_own_note": 488,
+     "chapters": [
+      29,
+      48
+     ],
+     "kjv_verses_in_chapters": 554
+    }
+   },
+   "scripture_links": {
+    "read": 2016,
+    "resolved": 1896,
+    "ranges": 198,
+    "ranges_start_only": 5
+   },
+   "numbering_own": {
+    "Ezek": {
+     "read": 706,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 23,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 743,
+     "only_hebrew": 9,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "a18a0cbcf5d99396a0665f80e2fb4030fb7d7d1e7e9fc2c95395145af2813535"
+ },
+ "keil-delitzsch-daniel": {
+  "title": "Biblical Commentary on the Book of Daniel",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "51ab5c80ff5a5c6c39f20cb3928c0f0b30001aec7fb0ff7dafc86a664826df62",
+  "units": 286,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Dan": "hebrew"
+   },
+   "scan_choice": "bookofprophetdan00keil (Princeton, 1872; no Toronto scan): English 93.6%, 280 'Ver.' openers; cu31924070689447 (Cornell, 1878) 93.6%/284 is not clearly better",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Book of the Prophet Daniel, tr. M. G. Easton (1872), as its title page reads; scan leaves 7-526 of bookofprophetdan00keil"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1872); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, bookofprophetdan00keil (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/bookofprophetdan00keil",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 219,
+    "page": 67
+   },
+   "footnote_lines": 662,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 451,
+   "leaves_page": 67,
+   "openers_accepted": 229,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 4,
+   "printed_page_from_neighbours": 209,
+   "printed_page_read": 298,
+   "running_heads_out_of_order": 2,
+   "kjv_coverage": {
+    "Dan": {
+     "kjv_verses": 357,
+     "commented": 270,
+     "with_own_note": 150
+    }
+   },
+   "scripture_links": {
+    "read": 2329,
+    "resolved": 2177,
+    "ranges": 121,
+    "ranges_start_only": 7
+   },
+   "numbering_own": {
+    "Dan": {
+     "read": 512,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 66,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1067,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "adc6038cf6b4893bbe21a5ab95df67dc78ee11954d249e9821326284d5a941d7"
+ },
+ "keil-delitzsch-minor-prophets-1": {
+  "title": "Biblical Commentary on the Twelve Minor Prophets, vol. I",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "f781e60b1c64f5c28c7684983c2b2469bdbc20a6fdbcb12e471fbbaa3e79b971",
+  "units": 657,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Hos": "kjv",
+    "Joel": "kjv",
+    "Amos": "undecided",
+    "Obad": "undecided",
+    "Jonah": "undecided",
+    "Mic": "undecided"
+   },
+   "scan_choice": "thetwelveminorp01keiluoft (Toronto, 1878): English 95.5%, 610 'Ver.' openers; cu31924070689454 (Cornell) 94.4%/595, india.history.resource.78876 (1868) 94.7%/580",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Twelve Minor Prophets, vol. I (Hosea to Micah), tr. James Martin (1878 issue), as its title page reads; scan leaves 4-526 of thetwelveminorp01keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1878); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, thetwelveminorp01keiluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/thetwelveminorp01keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 578,
+    "page": 79
+   },
+   "footnote_lines": 653,
+   "junk_lines_dropped": 13,
+   "leaves_commentary": 441,
+   "leaves_page": 79,
+   "notes_reopened": 1,
+   "openers_accepted": 594,
+   "openers_out_of_sequence": 3,
+   "openers_rejected": 12,
+   "printed_page_from_neighbours": 243,
+   "printed_page_read": 270,
+   "running_heads_out_of_order": 5,
+   "kjv_coverage": {
+    "Hos": {
+     "kjv_verses": 197,
+     "commented": 176,
+     "with_own_note": 165
+    },
+    "Joel": {
+     "kjv_verses": 73,
+     "commented": 70,
+     "with_own_note": 68
+    },
+    "Amos": {
+     "kjv_verses": 146,
+     "commented": 144,
+     "with_own_note": 122
+    },
+    "Obad": {
+     "kjv_verses": 21,
+     "commented": 21,
+     "with_own_note": 20
+    },
+    "Jonah": {
+     "kjv_verses": 48,
+     "commented": 40,
+     "with_own_note": 9
+    },
+    "Mic": {
+     "kjv_verses": 105,
+     "commented": 104,
+     "with_own_note": 101
+    }
+   },
+   "scripture_links": {
+    "read": 3406,
+    "resolved": 3212,
+    "ranges": 204,
+    "ranges_start_only": 5
+   },
+   "numbering_own": {
+    "Hos": {
+     "read": 234,
+     "only_hebrew": 0,
+     "only_kjv": 8,
+     "decision": "kjv"
+    },
+    "Joel": {
+     "read": 90,
+     "only_hebrew": 0,
+     "only_kjv": 29,
+     "decision": "kjv"
+    },
+    "Amos": {
+     "read": 179,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Obad": {
+     "read": 56,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Jonah": {
+     "read": 39,
+     "only_hebrew": 0,
+     "only_kjv": 1,
+     "decision": "undecided"
+    },
+    "Mic": {
+     "read": 162,
+     "only_hebrew": 0,
+     "only_kjv": 4,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 142,
+     "only_hebrew": 5,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    },
+    "other": {
+     "read": 2091,
+     "only_hebrew": 16,
+     "only_kjv": 28,
+     "decision": "undecided"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "5990b3db81acc70d9401aea36abe8a32e741839cf7c561bb90df4b00cd710ff9"
+ },
+ "keil-delitzsch-minor-prophets-2": {
+  "title": "Biblical Commentary on the Twelve Minor Prophets, vol. II",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "44995dcbef39e0e8ca4548baa1551cc211dd5634897dfeb85b3ef06367667092",
+  "units": 539,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Nah": "undecided",
+    "Hab": "undecided",
+    "Zeph": "undecided",
+    "Hag": "undecided",
+    "Zech": "undecided",
+    "Mal": "kjv"
+   },
+   "scan_choice": "thetwelveminorpr02keiluoft (Toronto, 1878): English 95.2%, 508 'Ver.' openers; cu31924070689462 (Cornell) 94.0%/493, india.history.resource.72629 (1868) 94.4%/487",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Twelve Minor Prophets, vol. II (Nahum to Malachi), tr. James Martin (1878 issue), as its title page reads; scan leaves 4-486 of thetwelveminorpr02keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1878); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, thetwelveminorpr02keiluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/thetwelveminorpr02keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 489,
+    "page": 50
+   },
+   "footnote_lines": 388,
+   "junk_lines_dropped": 12,
+   "leaves_commentary": 431,
+   "leaves_page": 50,
+   "openers_accepted": 505,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 219,
+   "printed_page_read": 254,
+   "running_heads_out_of_order": 6,
+   "kjv_coverage": {
+    "Nah": {
+     "kjv_verses": 47,
+     "commented": 46,
+     "with_own_note": 45
+    },
+    "Hab": {
+     "kjv_verses": 56,
+     "commented": 55,
+     "with_own_note": 54
+    },
+    "Zeph": {
+     "kjv_verses": 53,
+     "commented": 52,
+     "with_own_note": 51
+    },
+    "Hag": {
+     "kjv_verses": 38,
+     "commented": 37,
+     "with_own_note": 32
+    },
+    "Zech": {
+     "kjv_verses": 211,
+     "commented": 205,
+     "with_own_note": 194
+    },
+    "Mal": {
+     "kjv_verses": 55,
+     "commented": 52,
+     "with_own_note": 48
+    }
+   },
+   "scripture_links": {
+    "read": 2984,
+    "resolved": 2808,
+    "ranges": 149,
+    "ranges_start_only": 7
+   },
+   "numbering_own": {
+    "Nah": {
+     "read": 63,
+     "only_hebrew": 3,
+     "only_kjv": 1,
+     "decision": "undecided"
+    },
+    "Hab": {
+     "read": 115,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Zeph": {
+     "read": 88,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Hag": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Zech": {
+     "read": 295,
+     "only_hebrew": 0,
+     "only_kjv": 2,
+     "decision": "undecided"
+    },
+    "Mal": {
+     "read": 66,
+     "only_hebrew": 0,
+     "only_kjv": 15,
+     "decision": "kjv"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 104,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1949,
+     "only_hebrew": 12,
+     "only_kjv": 5,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "1be21ead70a8d70b1d86399eb135eda85e9872f50ccad6a71e19b5a92d987121"
  }
 }
