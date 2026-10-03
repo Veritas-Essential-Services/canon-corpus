@@ -236,6 +236,13 @@ check("scripture: each kept OCR misreading before a self 'c.' is read (SELF_C_OC
       set(B.SELF_C_OCR) == {"oompare", "oomp.", "boo", "seo"}
       and all([x.get("target") for x in B.scripture(f"the first. {w} c. v. 11", ids, own="Gal", chapter=2)]
               == ["kjv:Gal.5.11"] for w in ("Oompare", "Oomp.", "Boo", "Seo")))
+# (review c12) a list item never ends inside a number ('12:3' is not '1' + '2:3'); a bracketed name is a name
+check("scripture: 'Rom. 8:1, 12:3' and 'Rom. viii. 1, 2, 12. 3' end at Rom 12:3, not Rom 8:12",
+      [x["target"] for x in B.scripture("Rom. 8:1, 12:3", ids)] == ["kjv:Rom.8.1", "kjv:Rom.12.3"]
+      and [x["target"] for x in B.scripture("Rom. viii. 1, 2, 12. 3", ids)] == ["kjv:Rom.8.1", "kjv:Rom.8.2", "kjv:Rom.12.3"])
+check("scripture: a name in a bracket before a self 'c.' is refused ('(Irenaeus c. iv. 3', '(Leo c. v. 11')",
+      not B.scripture("so (Irenaeus c. iv. 3)", ids, own="Gal", chapter=2)
+      and not B.scripture("so (Leo c. v. 11)", ids, own="Gal", chapter=2))
 check("scripture: '(comp. c. v. 11' is read like 'comp. c. v. 11'",
       [x.get("target") for x in B.scripture("so (comp. c. v. 11)", ids, own="Gal", chapter=2)] == ["kjv:Gal.5.11"])
 # (review c10) the Bengel vol. II title page names Fausset as its only translator
