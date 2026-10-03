@@ -262,7 +262,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | Iliad | Augustus Taber Murray | `homer-perseus-murray-iliad` | have (Perseus TEI `tlg0012.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
 | Odyssey | Augustus Taber Murray | `homer-perseus-murray-odyssey` | have (Perseus TEI `tlg0012.tlg002.perseus-eng3`; markup CC BY-SA 4.0) |
 | The Odyssey of Homer done into English Verse (London: Reeves & Turner, 1887) | William Morris | `homer-morris-odyssey-1887` | have-raw (IA `odysseyofhomer00homeuoft`) |
-| The Odyssey of Homer, translated into English prose (Boston; preface dated 1891) | George Herbert Palmer | `homer-palmer-odyssey-1891` | have-raw (IA `odysseyhomer02palmgoog`) |
+| The Odyssey of Homer, translated into English prose (preface dated Cambridge, February 1891) | George Herbert Palmer | `homer-palmer-odyssey-1891` | have-raw (IA `odysseyhomer02palmgoog`) |
 | The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. I, books I-XII (Blackwood, 1861) | Philip Stanhope Worsley | `homer-worsley-odyssey-1861-v1` | have-raw (IA `odysseyhomer04worsgoog`) |
 | The Odyssey of Homer translated into English Verse in the Spenserian Stanza, vol. II, books XIII-XXIV (Blackwood, 1862) | Philip Stanhope Worsley | `homer-worsley-odyssey-1862-v2` | have-raw (IA `odysseyhomer01worsgoog`) |
 | The Odyssey of Homer in English Verse, third edition (Macmillan, 1904) | Arthur S. Way | `homer-way-odyssey-1904` | have-raw (IA `odysseyofhomerin00homerich`) |
@@ -294,6 +294,9 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | Aeschylus in English Verse, Part I: The Seven against Thebes, The Persians (London, 1906) | Arthur S. Way | `aeschylus-way-1906-part1` | have-raw (IA `cu31924087947051`) |
 | Aeschylus in English Verse, Part II: Prometheus Bound, The Suppliant Maidens (London, 1907) | Arthur S. Way | `aeschylus-way-1907-part2` | have-raw (IA `cu31924087947069`) |
 | Aeschylus in English Verse, Part III: Agamemnon, Choephoroe, Eumenides (London, 1908) | Arthur S. Way | `aeschylus-way-1908-part3` | have-raw (IA `aeschylusinengl04aescgoog`) |
+| The Oresteia of Aeschylus translated into English Prose (London, 18 Bury Street, 1893) | Lewis Campbell | `aeschylus-campbell-oresteia-prose-1893` | have-raw (IA `oresteiaofaeschy00aescrich`) |
+| The Plays of Aeschylus translated from a revised text (prose; London: George Bell, 1909) | Walter Headlam and C. E. S. Headlam | `aeschylus-headlam-plays-1909` | have-raw (IA `aeschylusplays00aesciala`) |
+| The Oresteia of Aeschylus translated and explained (London: George Allen, 1900) | George C. W. Warr | `aeschylus-warr-oresteia-1900` | have-raw (IA `oresteiatranslat00aescuoft`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -353,6 +356,9 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Tragedies of Sophocles, from the Greek (London, 1759; all seven plays in this scan) | Thomas Francklin | `sophocles-francklin-1759` | have-raw (IA `tragediesofsopho00soph`) |
 | Sophocles in English Verse, Part I: Oedipus the King, Oedipus at Kolonus, Antigone (London, 1909) | Arthur S. Way | `sophocles-way-1909-part1` | have-raw (IA `cu31924026676365`) |
 | The Tragedies of Sophocles, translated into English prose (Cambridge, 1904) | Sir Richard C. Jebb | `sophocles-jebb-prose-1904` | have-raw (IA `tragediessophoc00jebbgoog`) |
+| Sophocles translated into English Verse (London: Rivingtons, MDCCCLXXXIII) | Robert Whitelaw | `sophocles-whitelaw-1883` | have-raw (IA `sophoclestransla00sophuoft`) |
+| The Tragedies of Sophocles translated into English Verse, vol. I (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v1` | have-raw (IA `tragediesofsopho01soph_0`) |
+| The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v2` | have-raw (IA `tragediesofsopho02soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 

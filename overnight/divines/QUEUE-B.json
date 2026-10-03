@@ -516,6 +516,14 @@
    "started": "2026-10-03T01:12:06-05:00",
    "finished": "2026-10-03T01:13:11-05:00",
    "notes": "translators named only for two sections; no single claim"
+  },
+  {
+   "id": "greek-tragedy-older",
+   "status": "done",
+   "scope": "Whitelaw's and Dale's Sophocles; Campbell's prose Oresteia, the Headlams' prose Aeschylus, Warr's Oresteia",
+   "started": "2026-10-03T01:13:11-05:00",
+   "finished": "2026-10-03T01:15:00-05:00",
+   "notes": "Cookson's Everyman Aeschylus not taken (introduction cites 1936)"
   }
  ]
 }

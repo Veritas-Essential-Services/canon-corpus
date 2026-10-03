@@ -295,3 +295,9 @@
 
 ## 2026-10-03 01:13 CDT — Xenophon, Minor Works (1813)
 - The Minor Works of Xenophon 'by several hands' (1813; OCR 0.92): Welwood's Banquet and Bradley's Economics are named on their section titles; the Memoirs of Socrates and Hiero carry no name (the Memoirs is usually given to Sarah Fielding; not verified, not claimed).
+
+## 2026-10-03 01:15 CDT — Greek tragedy: more translators
+- Sophocles: Whitelaw's verse (1883; OCR 0.90); Dale's verse (1824, 2 vols; 0.89).
+- Aeschylus: Campbell's prose Oresteia (1893; 0.92); Walter and C. E. S. Headlam's prose Plays (Bell, 1909; 0.82); Warr's Oresteia (George Allen, 1900; 0.88).
+- Not taken: Cookson's Everyman Aeschylus (the scan's introduction cites a 1936 book).
+- Correction: the Palmer Odyssey row named a Boston publisher not read from the file; it now gives only the preface date the title page shows.
