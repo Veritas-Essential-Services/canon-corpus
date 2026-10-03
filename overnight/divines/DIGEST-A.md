@@ -261,6 +261,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Matthew Mead | matthew-mead_shelf.json | none | 1 (The Almost Christian Discovered, Glasgow, catalogued 1825, intro. David Young) | none | none |
 | Gilbert Tennent | gilbert-tennent_shelf.json | none | 2 (Twenty-three Sermons, Philadelphia 1744; Irenicum Ecclesiasticum, 1749) | none | none |
 | Lyman Beecher | lyman-beecher_shelf.json | none | 4 (Beecher's Works, 3 vols, Boston 1852; A Plea for the West, 2nd ed., catalogued 1835) | none | none |
+| Francis Asbury | francis-asbury_shelf.json | none | 3 (Journal, 3 vols, Lane & Scott 1852) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

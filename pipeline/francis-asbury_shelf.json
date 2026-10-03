@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain Francis Asbury (1745-1816, first bishop of the Methodist Episcopal Church in America) for the Word Hoard: his Journal (3 vols, New York: Lane & Scott, 1852), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "asbury",
+  "francis"
+ ],
+ "_surname": [
+  "francis asbury",
+  "f. asbury",
+  "asbury, francis",
+  "bishop asbury"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "asbury-journal-1": [
+   "journalofrevfran01asbu",
+   "Journal of Rev. Francis Asbury, Bishop of the Methodist Episcopal Church, in three volumes, vol. 1 (New York: Lane & Scott, 1852)"
+  ],
+  "asbury-journal-2": [
+   "journalofrevfran02asbu",
+   "Journal of Rev. Francis Asbury, Bishop of the Methodist Episcopal Church, in three volumes, vol. 2 (New York: Lane & Scott, 1852)"
+  ],
+  "asbury-journal-3": [
+   "journalofrevfran03asbu",
+   "Journal of Rev. Francis Asbury, Bishop of the Methodist Episcopal Church, in three volumes, vol. 3 (New York: Lane & Scott, 1852)"
+  ]
+ },
+ "_alternates": {
+  "asbury-journal": "The first collected edition (New York: N. Bangs and T. Mason, 1821, 3 vols; IA journalofrevfran00asbu etc.); An Extract from the Journal (Philadelphia, 1792)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "asbury-journal-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "francis asbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asbury-journal-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "francis asbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "asbury-journal-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "francis asbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

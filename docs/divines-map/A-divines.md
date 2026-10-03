@@ -2116,3 +2116,12 @@ Slugs `lbeecher-*`.
 |---|---|---|
 | Beecher's Works, 3 vols (Jewett, 1852); A Plea for the West (2nd ed.) | have-ocr | IA, OCR 97-99% |
 | Autobiography and Correspondence, ed. Charles Beecher (1864) | alternate | IA |
+
+## Francis Asbury (round 13, my pick, 2026-10-03)
+
+Slugs `asbury-journal-N`.
+
+| Work | Status | Where |
+|---|---|---|
+| Journal, 3 vols (New York: Lane & Scott, 1852) | have-ocr | IA, OCR 97-99% |
+| Journal, first collected edition (1821) | alternate | IA |

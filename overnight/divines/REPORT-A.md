@@ -629,3 +629,6 @@
 
 ## 2026-10-03 06:48 CDT — lyman-beecher done
 - `pipeline/lyman-beecher_shelf.json`: 4 IA volumes. `--verify --record`: 0 mismatched. OCR 98.5%. 0 uids minted.
+
+## 2026-10-03 06:48 CDT — francis-asbury done
+- `pipeline/francis-asbury_shelf.json`: 3 IA volumes. `--verify --record`: 0 mismatched. OCR 98.1%. 0 uids minted.
