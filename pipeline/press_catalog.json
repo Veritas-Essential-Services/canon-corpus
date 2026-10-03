@@ -1155,8 +1155,9 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
+    "kind": "same_as",
+    "slug": "swinnock-incomparableness",
+    "why": "RHB's book is Swinnock's Incomparableness of God (1672), already set for the Banner Puritan Paperbacks set."
    }
   },
   "rhb-stop-loving-the-world": {
@@ -1166,9 +1167,16 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A42018",
+    "edition": "\"Against Love of the World\", a sermon printed with The Sound-Hearted Christian (London, 1670), the first edition (EEBO-TCP A42018)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer.",
+    "divs": [
+     6
+    ]
+   },
+   "first_published": "1670",
+   "title": "Against Love of the World"
   },
   "rhb-rules-for-walking-in": {
    "author": "John Owen",
@@ -1177,8 +1185,9 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
+    "kind": "same_as",
+    "slug": "owen-christian-fellowship",
+    "why": "RHB's book is Owen's Eshcol (1648), already set for the Banner Puritan Paperbacks set."
    }
   },
   "rhb-the-fading-of-the": {
@@ -1188,9 +1197,13 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A62047",
+    "edition": "The Fading of the Flesh and Flourishing of Faith (London, 1662), the first edition (EEBO-TCP A62047)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1662",
+   "title": "The Fading of the Flesh and Flourishing of Faith"
   },
   "rhb-contentment-prosperity-and-gods": {
    "author": "Jeremiah Burroughs",
@@ -1199,9 +1212,18 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A30576",
+    "edition": "\"The Art of Improving a Full and Prosperous Condition\", three sermons on Phil. 4:12, the first of Four Useful Discourses (London, 1675), the first edition (EEBO-TCP A30576)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer.",
+    "divs": [
+     1,
+     2,
+     3
+    ]
+   },
+   "first_published": "1675",
+   "title": "The Art of Improving a Full and Prosperous Condition"
   },
   "rhb-faith-seeking-assurance": {
    "author": "Anthony Burgess",
@@ -1210,20 +1232,28 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A30243",
+    "edition": "Spiritual Refining: or A Treatise of Grace and Assurance (London, 1652), the first edition (EEBO-TCP A30243). RHB's book is adapted from it; the Press sets the whole original (about 500,000 words)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1652",
+   "title": "Spiritual Refining: A Treatise of Grace and Assurance"
   },
   "rhb-the-cure-for-unjust": {
-   "author": "George Downame",
+   "author": "John Downame",
    "banner_title": "The Cure for Unjust Anger",
    "sets": [
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A20765",
+    "edition": "Spiritual Physicke to Cure the Diseases of the Soule, Arising from Superfluitie of Choller (London, 1616), the earliest printing EEBO-TCP keyed (A20765); first printed 1600",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1600",
+   "title": "Spiritual Physic to Cure the Diseases of the Soul, Arising from Superfluity of Choler"
   },
   "rhb-advancing-christian-unity": {
    "author": "Anthony Burgess",
@@ -1233,7 +1263,8 @@
    ],
    "source": {
     "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
+    "why": "Original found: an extract (the sermons on unity) from Burgess's CXLV Expository Sermons upon John 17 (London, 1656; EEBO-TCP A30241). Which of the 145 sermons RHB took is not yet worked out; the whole volume is about 480,000 words.",
+    "candidate_tcp": "A30241"
    }
   },
   "rhb-comfort-and-holiness-from": {
@@ -1243,9 +1274,16 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A77355",
+    "edition": "\"The Great Gospel-Mystery of the Saints' Comfort and Holiness\", four sermons, the first part of The Works of William Bridge, vol. 1 (London, 1649) (EEBO-TCP A77355); RHB dates a separate printing to 1647, which EEBO-TCP did not key",
+    "identified": "Identified from a search summary; RHB's sample PDF online is another book. Title and subject agree; the 1647 date is not verified.",
+    "divs": [
+     1
+    ]
+   },
+   "first_published": "1649",
+   "title": "The Great Gospel Mystery of the Saints' Comfort and Holiness"
   },
   "rhb-holy-helps-for-a": {
    "author": "Richard Rogers",
@@ -1254,9 +1292,16 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A10945",
+    "edition": "The Third Treatise of Seven Treatises (London, 1603), the first edition (EEBO-TCP A10945); RHB set the 1610 edition, which EEBO-TCP did not key",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer.",
+    "divs": [
+     3
+    ]
+   },
+   "first_published": "1603",
+   "title": "The Third Treatise: Of the Means Whereby a Godly Life Is Helped and Continued"
   },
   "rhb-triumphing-over-sinful-fear": {
    "author": "John Flavel",
@@ -1265,9 +1310,16 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A39696",
+    "edition": "A Practical Treatise of Fear, the first of Two Treatises (London, 1682), the first edition (EEBO-TCP A39696)",
+    "identified": "Identified from a search result quoting RHB's sample PDF (not downloaded); title, text (Isa. 8:12-14) and year agree.",
+    "texts": [
+     1
+    ]
+   },
+   "first_published": "1682",
+   "title": "A Practical Treatise of Fear"
   },
   "rhb-gospel-evidences-of-saving": {
    "author": "John Owen",
@@ -1276,20 +1328,28 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A53700",
+    "edition": "Gospel Grounds and Evidences of the Faith of God's Elect (London, 1695), the first edition (EEBO-TCP A53700)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1695",
+   "title": "Gospel Grounds and Evidences of the Faith of God's Elect"
   },
   "rhb-turn-and-live": {
-   "author": "Thomas Vincent",
+   "author": "Nathanael Vincent",
    "banner_title": "Turn and Live",
    "sets": [
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A64955",
+    "edition": "The Conversion of a Sinner Explained and Applied from Ezek. 33:11 (London, 1669), the first edition (EEBO-TCP A64955)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1669",
+   "title": "The Conversion of a Sinner"
   },
   "rhb-prizing-public-worship": {
    "author": "David Clarkson",
@@ -1299,8 +1359,9 @@
    ],
    "source": {
     "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "why": "Main sermon is Clarkson's \"Public Worship to be Preferred before Private\" (Ps. 87:2), probably from his posthumous Sermons and Discourses (1696), which EEBO-TCP has not keyed. The other two sermons are unidentified."
+   },
+   "rhb_isbn": "9798886860603"
   },
   "rhb-a-perfect-redeemer": {
    "author": "William Perkins",
@@ -1309,9 +1370,14 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A09472",
+    "edition": "The True Gaine: More in Worth then All the Goods in the World (London, 1601), the first edition (EEBO-TCP A09472)",
+    "identified": "INFERRED, not confirmed: RHB never names its source. Its chapters (\"When Christ Is Our Gain\", Phil. 3:8) match Perkins's True Gain. Confirm from RHB's copyright page before publishing."
+   },
+   "first_published": "1601",
+   "title": "The True Gain",
+   "rhb_isbn": "9798886861372"
   },
   "rhb-the-vanity-of-thoughts": {
    "author": "Thomas Goodwin",
@@ -1320,9 +1386,14 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A72189",
+    "edition": "The Vanity of Thoughts Discovered (London, 1638), the earliest printing EEBO-TCP keyed (A72189); the book was first printed in 1637",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1637",
+   "title": "The Vanity of Thoughts Discovered",
+   "rhb_isbn": "9798886862317"
   },
   "rhb-freedom-from-sins-dominion": {
    "author": "John Owen",
@@ -1331,9 +1402,14 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A53731",
+    "edition": "A Treatise of the Dominion of Sin and Grace (London, 1688), the first edition (EEBO-TCP A53731)",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1688",
+   "title": "A Treatise of the Dominion of Sin and Grace",
+   "rhb_isbn": "9798886861761"
   },
   "rhb-holy-meditation": {
    "author": "Thomas Manton",
@@ -1343,8 +1419,9 @@
    ],
    "source": {
     "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "why": "Unconfirmed: probably Manton's sermons on Gen. 24:63. RHB names no source."
+   },
+   "rhb_isbn": "9798886862294"
   },
   "rhb-special-providence-for-anxious": {
    "author": "Obadiah Sedgwick",
@@ -1354,8 +1431,9 @@
    ],
    "source": {
     "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "why": "Unconfirmed: Sedgwick on Matt. 10:29-31; no 17th-century printing found."
+   },
+   "rhb_isbn": "9798886860092"
   },
   "rhb-christ-and-his-threefold": {
    "author": "John Flavel",
@@ -1364,9 +1442,14 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "tcp",
+    "id": "A39663",
+    "edition": "The Fountain of Life Opened (London, 1673), the earliest printing EEBO-TCP keyed (A39663); first printed 1671. RHB's book is an abridged extract; the Press sets the whole original, which also covers Christ Humbled yet Exalted",
+    "identified": "Identified from RHB's own copyright page or product page; the RHB edition (modernised, copyright) is only the pointer."
+   },
+   "first_published": "1671",
+   "title": "The Fountain of Life Opened",
+   "rhb_isbn": "9798886862966"
   },
   "rhb-christ-humbled-yet-exalted": {
    "author": "John Flavel",
@@ -1375,9 +1458,11 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "kind": "same_as",
+    "slug": "rhb-christ-and-his-threefold",
+    "why": "RHB's book is another abridged extract from Flavel's Fountain of Life Opened; the Press sets the whole original once."
+   },
+   "rhb_isbn": "9798886862980"
   },
   "rhb-a-blessed-hope": {
    "author": "Thomas Manton",
@@ -1387,8 +1472,9 @@
    ],
    "source": {
     "kind": "research",
-    "why": "RHB's editions modernise the wording (copyright); the Press would set the original PD text. Identify the original treatise and its Works volume."
-   }
+    "why": "Unconfirmed: Manton's sermons on Titus 2:11-14; first printing not found."
+   },
+   "rhb_isbn": "9798886862492"
   }
  }
 }

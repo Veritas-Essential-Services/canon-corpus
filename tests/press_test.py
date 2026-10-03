@@ -148,5 +148,15 @@ check("tcp: an illegible letter is marked, never guessed", "[⟨•⟩⟨•⟩]
 check("tcp: untranscribed Greek is marked", "[⟨Greek or Hebrew⟩]{.gap}" in paras[0], True)
 check("tcp: italic book in a reference", '[*Zach.* 12. 10]{.scripture osis="Zech.12.10"}' in paras[1], True)
 
+# one sermon out of a volume: only body division 2, with the volume's title page
+TEI2 = TEI.replace('<div type="table_of_contents">', '<div type="to_the_reader"><p>To the reader of the whole volume.</p></div><div type="table_of_contents">') \
+          .replace("</div></body>", '</div><div type="sermon"><head>A Sermon.</head><p>Love not the world.</p></div></body>')
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(TEI2)
+td2 = press_tcp.convert(f.name, "w", divs=[2])
+os.unlink(f.name)
+check("tcp divs: only the chosen division is set", [b["md"] for b in td2["blocks"] if b["k"] == "para"], ["Love not the world."])
+check("tcp divs: the volume's title page is kept", len([b for b in td2["blocks"] if b["k"] == "tp"]), 2)
+
 print("\n%d failure(s)" % fails)
 sys.exit(1 if fails else 0)

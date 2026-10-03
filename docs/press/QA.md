@@ -39,8 +39,20 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | owen-indwelling-sin | ccel |  | 86,816 | 470 | 4 | 0 | 476 (476) | 489 | 0 | 2 | 0 | 54 | 0 |
 | owen-mortification | ccel |  | 42,505 | 332 | 44 | 0 | 348 (343) | 299 | 5 | 0 | 0 | 27 | 3 |
 | owen-spiritual-mindedness | ccel |  | 118,893 | 677 | 2 | 0 | 417 (417) | 544 | 0 | 3 | 0 | 56 | 0 |
-| owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 23 | 0 |
+| owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 22 | 22 |
 | perkins-art-of-prophesying | tcp |  | 25,832 | 384 | 87 | 0 | 294 (294) | 287 | 4 | 0 | 115 | 723 | 0 |
+| rhb-a-perfect-redeemer | tcp |  | 24,337 | 77 | 168 | 0 | 73 (73) | 72 | 6 | 0 | 54 | 620 | 0 |
+| rhb-comfort-and-holiness-from | tcp |  | 36,466 | 221 | 15 | 0 | 13 (13) | 13 | 2 | 0 | 7 | 202 | 0 |
+| rhb-contentment-prosperity-and-gods | tcp |  | 25,925 | 115 | 3 | 0 | 11 (11) | 15 | 1 | 0 | 11 | 70 | 0 |
+| rhb-freedom-from-sins-dominion | tcp |  | 29,639 | 244 | 0 | 0 | 78 (78) | 113 | 2 | 0 | 12 | 92 | 0 |
+| rhb-gospel-evidences-of-saving | tcp |  | 27,098 | 206 | 0 | 0 | 103 (103) | 135 | 7 | 0 | 10 | 63 | 0 |
+| rhb-holy-helps-for-a | tcp |  | 55,456 | 1,030 | 397 | 0 | 173 (173) | 157 | 2 | 0 | 8 | 924 | 0 |
+| rhb-stop-loving-the-world | tcp |  | 20,101 | 112 | 0 | 0 | 63 (63) | 65 | 2 | 0 | 23 | 73 | 0 |
+| rhb-the-cure-for-unjust | tcp |  | 31,379 | 179 | 301 | 0 | 161 (161) | 86 | 7 | 0 | 63 | 1260 | 0 |
+| rhb-the-fading-of-the | tcp |  | 55,855 | 343 | 137 | 0 | 182 (182) | 197 | 4 | 0 | 123 | 663 | 0 |
+| rhb-the-vanity-of-thoughts | tcp |  | 13,549 | 103 | 0 | 0 | 79 (79) | 67 | 4 | 0 | 24 | 269 | 0 |
+| rhb-triumphing-over-sinful-fear | tcp |  | 40,032 | 381 | 46 | 0 | 178 (178) | 185 | 5 | 0 | 238 | 481 | 0 |
+| rhb-turn-and-live | tcp |  | 23,302 | 217 | 0 | 0 | 103 (103) | 117 | 3 | 0 | 87 | 169 | 0 |
 | rutherford-letters | gutenberg |  | 341,280 | 5,249 | 0 | 0 | 551 (551) | 572 | 6 | 0 | 0 | 630 | 0 |
 | sibbes-bruised-reed | ia-extract |  | 43,352 | 495 | 13 | 25 | 288 (288) | 270 | 7 | 0 | 0 | 296 | 0 |
 | sibbes-glorious-feast | tcp |  | 54,756 | 361 | 385 | 0 | 40 (40) | 42 | 3 | 0 | 23 | 478 | 0 |

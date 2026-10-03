@@ -274,7 +274,8 @@ def convert(slug, e, path):
         return press_text.convert_ia(path, slug, e)
     if k == "tcp":
         import press_tcp
-        return press_tcp.convert(path, slug, e["source"].get("texts"), e["source"].get("span"))
+        return press_tcp.convert(path, slug, e["source"].get("texts"), e["source"].get("span"),
+                                 e["source"].get("divs"))
     raise RuntimeError(k)
 
 def build(slug, cat):
@@ -361,7 +362,7 @@ def main():
         return
     if args[0] == "--qa-report":
         return qa_report(cat)
-    slugs = [s for s, e in cat["titles"].items() if e["source"]["kind"] in ("ccel", "gutenberg", "ia-extract")] \
+    slugs = [s for s, e in cat["titles"].items() if e["source"]["kind"] in ("ccel", "gutenberg", "ia-extract", "tcp")] \
         if args[0] == "--ready" else args
     for slug in slugs:
         try:

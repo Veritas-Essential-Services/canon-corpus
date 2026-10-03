@@ -209,10 +209,14 @@ class Conv:
             else:
                 self.para(self.inline(c))
 
-def convert(path, slug, texts=None, span=None):
+def convert(path, slug, texts=None, span=None, divs=None):
     """`texts`: in a volume of several works, which of them (1-based) to set.
     `span`: [from, until] paragraph regexes, for a treatise printed inside a
-    larger work (the title page of the volume is kept, as its provenance)."""
+    larger work (the title page of the volume is kept, as its provenance).
+    `divs`: which top-level divisions of the body (1-based) to set, for a
+    sermon or treatise that is one division of a volume; the volume's title
+    page is kept and its other front matter (addresses to the reader of the
+    whole volume) is left out."""
     root = ET.parse(path).getroot()
     text = root.find(f"{NS}text")
     c = Conv(slug)
@@ -228,8 +232,15 @@ def convert(path, slug, texts=None, span=None):
                     if not texts or i in texts:
                         walk(sub)
                 continue
+            n = 0
             for el in part:
                 if tag(el) == "div":
+                    if divs and tag(part) == "body":
+                        n += 1
+                        if n not in divs:
+                            continue
+                    elif divs and tag(part) == "front" and (el.get("type") or "") != "title_page":
+                        continue
                     c.div(el, 1)
                 elif tag(el) == "pb":
                     c.d.add("pb", c.pb(el))
