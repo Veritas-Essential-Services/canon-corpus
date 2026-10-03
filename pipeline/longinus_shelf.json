@@ -1,0 +1,27 @@
+{
+ "_about": "Longinus, On the Sublime, in English, translator per title: H. L. Havell (1890), clean Gutenberg; William Smith (1739; this scan the 1752 printing, MDCCLII on its title page) and A. O. Prickard (Oxford, 1906), raw IA OCR. W. Hamilton Fyfe's Loeb (1927) is Greek facing and held back like the other Greek-facing Loebs.",
+ "_name_words": [
+  "longinus",
+  "sublime"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "longinus-havell-sublime": [
+   17957,
+   "On the Sublime (1890)",
+   "tr. H. L. Havell"
+  ]
+ },
+ "internet_archive": {
+  "longinus-smith-sublime": [
+   "dionysiuslongin00smitgoog",
+   "Dionysius Longinus on the Sublime, translated from the Greek, with notes and observations (1752 printing)",
+   "tr. William Smith"
+  ],
+  "longinus-prickard-sublime": [
+   "longinusonsublim0000aopr",
+   "Longinus on the Sublime (Oxford, Clarendon Press, 1906)",
+   "tr. A. O. Prickard"
+  ]
+ }
+}
