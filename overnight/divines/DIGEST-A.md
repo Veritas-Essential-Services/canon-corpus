@@ -219,6 +219,13 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | John Kennedy of Dingwall | john-kennedy-dingwall_shelf.json | none | 2 (The Days of the Fathers in Ross-shire, Toronto 1867; The Apostle of the North, Nelson 1866) | none | his Gaelic sermons and addresses |
 | Thomas M'Crie (the elder) | thomas-mccrie_shelf.json | none | 4 (Works, Blackwood 1856-57, vols 2-4: Melville; Reformation in Italy and Spain; review, Unity of the Church, sermons; Lectures on Esther, 1838) | none | the Life of John Knox (Works vol. 1 and separately), left to the English Reformers and Knox thread |
 
+## Round 12: my picks, also for your veto
+
+Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-century preachers, evangelists and devotional writers (Maclaren, Finney, Moody, Bounds, Hannah Whitall Smith, Müller, Torrey), Scots and English expositors (Bruce, Denney, Whyte, Moule, Meyer, McLeod Campbell), Americans (Bushnell, Phillips Brooks) and a Methodist and a Baptist theologian (Richard Watson, Abraham Booth). All died before 1930. Nobody chose these but the worker: drop any you do not want. Finney's and McLeod Campbell's theology and Bushnell's moral-influence atonement are not Reformed; they are here because they shaped the period, and they are yours to veto.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
