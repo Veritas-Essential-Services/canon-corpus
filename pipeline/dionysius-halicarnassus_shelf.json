@@ -13,7 +13,28 @@
    "ed. and tr. W. Rhys Roberts"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dionysius-spelman-v1": [
+   "romanantiquities01dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 1 (London, 1758)",
+   "tr. Edward Spelman"
+  ],
+  "dionysius-spelman-v2": [
+   "romanantiquities02dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 2 (London, 1758)",
+   "tr. Edward Spelman"
+  ],
+  "dionysius-spelman-v3": [
+   "romanantiquities03dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 3 (London, 1758)",
+   "tr. Edward Spelman"
+  ],
+  "dionysius-spelman-v4": [
+   "romanantiquities04dion",
+   "The Roman Antiquities of Dionysius Halicarnassensis, vol. 4 (London, 1758)",
+   "tr. Edward Spelman"
+  ]
+ },
  "_excluded": {
   "Roman Antiquities (Spelman, 1758)": "not yet located; Cary's Loeb (1937-50) not PD"
  }

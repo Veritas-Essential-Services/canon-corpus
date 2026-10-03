@@ -573,8 +573,9 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | Moral Essays, vol. 1 (Loeb, 1928) | John W. Basore | `seneca-basore-moral-essays-v1` | have-raw (IA `moralessayswithe01seneuoft`) |
 | Tragedies, vol. 1 (Loeb, 1917) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v1` | have-raw (IA `tragedieswitheng01seneuoft`) |
 | Tragedies, vol. 2 (Loeb, 1917; this printing revised 1929) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v2` | have-raw (IA `tragedieswitheng02seneuoft`) |
+| The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614) | Thomas Lodge | `seneca-lodge-workes-1614` | have-raw (IA `bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614`) |
 
-Pending (wishlist): Thomas Lodge's Works (1614); Basore's Moral Essays vols. 2-3 (1932-35, not PD).
+Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
 Excluded: PG 59025 (index), PG 55705 (another Seneca, wrong author).
 
@@ -1512,8 +1513,12 @@ Shelf: `pipeline/dionysius-halicarnassus_shelf.json`. Roberts, On Literary Compo
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Dionysius of Halicarnassus On Literary Composition | ed. and W. Rhys Roberts | `dionysius-roberts-composition` | have (PG 50212) |
+| The Roman Antiquities of Dionysius Halicarnassensis, vol. 1 (London, 1758) | Edward Spelman | `dionysius-spelman-v1` | have-raw (IA `romanantiquities01dion`) |
+| The Roman Antiquities of Dionysius Halicarnassensis, vol. 2 (London, 1758) | Edward Spelman | `dionysius-spelman-v2` | have-raw (IA `romanantiquities02dion`) |
+| The Roman Antiquities of Dionysius Halicarnassensis, vol. 3 (London, 1758) | Edward Spelman | `dionysius-spelman-v3` | have-raw (IA `romanantiquities03dion`) |
+| The Roman Antiquities of Dionysius Halicarnassensis, vol. 4 (London, 1758) | Edward Spelman | `dionysius-spelman-v4` | have-raw (IA `romanantiquities04dion`) |
 
-Pending (wishlist): Roman Antiquities (Spelman 1758)
+Pending (wishlist): none known (Spelman's Roman Antiquities, 1758, is held above)
 
 ## Augustus, Res Gestae
 
