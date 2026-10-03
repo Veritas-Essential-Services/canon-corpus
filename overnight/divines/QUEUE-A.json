@@ -1127,17 +1127,21 @@
     },
     {
       "id": "e-b-pusey",
-      "status": "queued",
+      "status": "done",
       "scope": "E. B. Pusey: Parochial Sermons; The Minor Prophets (d. 1882)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:40:01-05:00",
+      "finished": "2026-10-03T01:45:20-05:00",
+      "notes": "3 IA; 1 pending"
     },
     {
       "id": "h-p-liddon",
-      "status": "queued",
+      "status": "started",
       "scope": "H. P. Liddon: The Divinity of Our Lord (Bampton Lectures); sermons (d. 1890)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:42:24-05:00"
     },
     {
       "id": "a-a-hodge",

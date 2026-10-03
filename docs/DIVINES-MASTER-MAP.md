@@ -1570,6 +1570,18 @@ Slugs `keble-*`.
 | Sermons, Academical and Occasional (Oxford: Parker, 1847) | have-raw | IA (identifier in the shelf) |
 | Occasional Papers and Reviews (Oxford: Parker, 1877) | have-raw | IA |
 | Sermons for the Christian Year (1875-80, 11 vols) | not shelved yet | |
+
+
+## E. B. Pusey (round 10, my pick, 2026-10-03)
+
+Slugs `pusey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Minor Prophets, with a Commentary (Oxford: Parker; catalogued 1860) | have-raw | IA (identifier and text file name in the shelf) |
+| Daniel the Prophet: Nine Lectures (Oxford: Parker, 1868) | have-raw | IA |
+| Lenten Sermons (Oxford: Parker, 1874) | have-raw | IA |
+| Nine Sermons Preached before the University of Oxford (1879) | pending | no text file |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

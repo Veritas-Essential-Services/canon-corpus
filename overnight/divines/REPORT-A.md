@@ -436,3 +436,6 @@
 
 ## 2026-10-03 01:39 CDT — john-keble done
 - `pipeline/john-keble_shelf.json`: 1 CCEL title (converted), 1 Gutenberg text (rights line checked) and 2 IA volumes of raw OCR at 98.6%, about 2.9 MB; title pages read (1847, 1877). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:45 CDT — e-b-pusey done
+- `pipeline/e-b-pusey_shelf.json`: 3 IA volumes of raw OCR, about 8 MB: the Minor Prophets 81.0% (Hebrew and Greek in the notes), Daniel 95.9%, Lenten Sermons 98.6%; title pages read (1860, 1868, 1874). The Minor Prophets item offers only a plain `<id>.txt`, so `fetch_shelf.py` now accepts any `.txt` name in an IA row's third element (it required `_djvu.txt`). The gate refused A Course of Sermons on Solemn Subjects (Pusey's name never appears; several preachers). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

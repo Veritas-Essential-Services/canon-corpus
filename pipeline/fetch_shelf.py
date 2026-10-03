@@ -336,8 +336,9 @@ def jobs_for(shelf, name):
     for slug, row in shelf.get("internet_archive", {}).items():
         ident = row[0]
         # optional third element: the item's text file when IA did not name it
-        # <id>_djvu.txt (some uploads keep the uploader's file name)
-        fname = row[2] if len(row) > 2 and str(row[2]).endswith("_djvu.txt") else f"{ident}_djvu.txt"
+        # <id>_djvu.txt (some uploads keep the uploader's file name; some
+        # Toronto items offer only a plain <id>.txt, 2026-10-03)
+        fname = row[2] if len(row) > 2 and str(row[2]).endswith(".txt") else f"{ident}_djvu.txt"
         url = f"https://archive.org/download/{ident}/" + urllib.parse.quote(fname)
         jobs.append((slug, row[1], url, ".txt", "ia"))
     return jobs
