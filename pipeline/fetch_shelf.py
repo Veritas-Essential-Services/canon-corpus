@@ -25,6 +25,9 @@ without them behaves as before):
   "_surname_by_slug": {slug: [...]}  on a shelf holding several authors,
       the names THIS item must show, in place of the shelf-wide `_surname`
       (which any one author's name would pass). Added 2026-10-03.
+      A bare surname that is also a common English word ("hall", "ken";
+      COMMON_WORD_SURNAMES) is never matched on its own: list a multi-word
+      form beside it, or the shelf stops at load (2026-10-03).
   "_translators": {slug: "Constable"}  the translator claimed for an item;
       a Gutenberg header naming someone else, or a text that never names
       them, is refused as a MISMATCH.
@@ -78,6 +81,36 @@ def _scrub(data, ident):
             full = full.replace(v, " ")
     return full
 
+# Surnames that are also ordinary English words (lane A, 2026-10-03). As a
+# bare whole word, "hall" or "ken" is found in nearly every book, so the
+# author check would pass on anything and the gate would rest on title words
+# alone. A shelf may still list such a word, but only beside a multi-word
+# form ("joseph hall", "bishop hall"); the bare word is then never used to
+# match, and a shelf whose only forms are bare common words stops at load.
+COMMON_WORD_SURNAMES = frozenset("""
+    bacon baker barrow bates bishop black bridge bridges brown burns butler
+    church cook dean field fuller gale gay gill gray green grant hall henry
+    hill hood hooker hope hunt james jay jewel ken king lamb lane law love
+    mason more page palmer pope price prior rich rose skinner smith swift
+    taylor ward wells white wood young
+""".split())
+
+def _usable(surnames):
+    """The surname forms the gate may match on: never a bare common word."""
+    return [n for n in surnames or [] if len(n.split()) > 1 or n.lower() not in COMMON_WORD_SURNAMES]
+
+def check_surnames(shelf):
+    """Stop at load on a name list the gate could not use: one whose every
+    form is a bare common English word. Returns the problems found."""
+    lists = {"_surname": shelf.get("_surname")}
+    lists.update({f"_surname_by_slug[{k}]": v for k, v in shelf.get("_surname_by_slug", {}).items()})
+    bad = []
+    for where, names in lists.items():
+        if names and not _usable(names):
+            bad.append(f"{where} {names}: every form is a bare common English word; "
+                       f"add a multi-word form such as \"joseph hall\" or \"bishop hall\"")
+    return bad
+
 def check_identity(r, data, key, names, kind, override=None, surname=None, ident=None,
                    translator=None):
     """Run every identity check, then refuse on any miss an override does not
@@ -125,7 +158,7 @@ def _check_identity(r, data, key, names, kind, surname=None, ident=None, transla
     r["title_words_in_text"] = seen
     if surname:
         r["name_check"] = "surname"
-        r["author_seen"] = next((n for n in surname if _pat(n).search(full)), None)
+        r["author_seen"] = next((n for n in _usable(surname) if _pat(n).search(full)), None)
         if not r["author_seen"]:
             misses.append(("author", f"MISMATCH: surname {surname} never appears as a word in the {kind} text"))
     elif names:
@@ -302,6 +335,9 @@ def main():
         sys.exit("usage: fetch_shelf.py <shelf>   (reads pipeline/<shelf>_shelf.json)")
     name = sys.argv[1]
     shelf = json.load(open(os.path.join(HERE, f"{name}_shelf.json"), encoding="utf-8"))
+    bad = check_surnames(shelf)
+    if bad:
+        sys.exit(f"{name}_shelf.json: " + "; ".join(bad))
     out = os.path.join(ROOT, "data", "corpus", name)
     os.makedirs(out, exist_ok=True)
     skip = set(w.lower() for w in shelf.get("_name_words", [])) | {"works", "volume", "vol"}

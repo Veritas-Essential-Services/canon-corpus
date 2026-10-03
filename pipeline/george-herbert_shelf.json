@@ -6,7 +6,9 @@
   "george"
  ],
  "_surname": [
-  "herbert"
+  "george herbert",
+  "mr. herbert",
+  "mr. george herbert"
  ],
  "_held": {},
  "ccel": {
@@ -42,7 +44,7 @@
    "kind": "ccel",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "herbert",
+   "author_seen": "george herbert",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
@@ -52,7 +54,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "herbert",
+   "author_seen": "george herbert",
    "identity": "ok",
    "ia_rights": "ok: published 1915",
    "ia_date": "1915",
@@ -63,7 +65,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "herbert",
+   "author_seen": "george herbert",
    "identity": "ok",
    "ia_rights": "ok: published 1905",
    "ia_date": "1905",
@@ -74,7 +76,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "herbert",
+   "author_seen": "george herbert",
    "identity": "ok",
    "ia_rights": "ok: published 1905",
    "ia_date": "1905",

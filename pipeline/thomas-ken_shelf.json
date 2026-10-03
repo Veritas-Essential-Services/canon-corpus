@@ -6,6 +6,9 @@
   "thomas"
  ],
  "_surname": [
+  "thomas ken",
+  "bishop ken",
+  "bp. ken",
   "ken"
  ],
  "_held": {},
@@ -35,7 +38,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "ken",
+   "author_seen": "thomas ken",
    "identity": "ok",
    "ia_rights": "ok: published 1838",
    "ia_date": "1838",
@@ -46,7 +49,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "ken",
+   "author_seen": "thomas ken",
    "identity": "ok",
    "ia_rights": "ok: published 1857",
    "ia_date": "1857",
@@ -57,7 +60,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "ken",
+   "author_seen": "thomas ken",
    "identity": "ok",
    "ia_rights": "ok: published 1868",
    "ia_date": "1868",

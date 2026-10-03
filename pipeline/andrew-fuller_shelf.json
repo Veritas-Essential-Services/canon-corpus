@@ -5,6 +5,7 @@
   "andrew"
  ],
  "_surname": [
+  "andrew fuller",
   "fuller"
  ],
  "_held": {},
@@ -30,7 +31,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "fuller",
+   "author_seen": "andrew fuller",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",
