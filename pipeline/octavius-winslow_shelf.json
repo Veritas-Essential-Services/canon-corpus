@@ -1,0 +1,253 @@
+{
+ "_about": "Public-domain Octavius Winslow (1808-1878, Baptist, later Anglican; Leamington, Bath, Brighton) for the Word Hoard: fifteen of his books from library scans, raw Internet Archive OCR. CCEL and Gutenberg hold none. Uploads without library provenance (None Like Christ, Consider Jesus and The Inquirer Directed as bare uploads) and modern reprints are left off. Life in Jesus is his mother's memoir, arranged by him from her papers. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "winslow",
+  "octavius"
+ ],
+ "_surname": [
+  "winslow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "owinslow-personal-declension-1847": [
+   "personaldeclensi1847wins",
+   "Personal Declension and Revival of Religion in the Soul (1847)"
+  ],
+  "owinslow-work-holy-spirit-1846": [
+   "inquirerdirected00wins",
+   "The Inquirer Directed to an Experimental and Practical View of the Work of the Holy Spirit (1846)"
+  ],
+  "owinslow-atonement-1838": [
+   "experimentalprac00wins",
+   "Experimental and Practical Views of the Atonement (1838)"
+  ],
+  "owinslow-glory-redeemer-1855": [
+   "gloryofredeemeri00wins",
+   "The Glory of the Redeemer in his Person and Work (1855)"
+  ],
+  "owinslow-inner-life-1853": [
+   "innerlifeitsnatu00wins",
+   "The Inner Life, its Nature, Relapse, and Recovery (1853)"
+  ],
+  "owinslow-glimpses-truth-1856": [
+   "glimpsesoftrutha00wins",
+   "Glimpses of the Truth as it is in Jesus (1856)"
+  ],
+  "owinslow-midnight-harmonies-1856": [
+   "midnightharmonie00wins",
+   "Midnight Harmonies (1856)"
+  ],
+  "owinslow-christ-ever-with-you-1863": [
+   "christeverwithyo00wins",
+   "Christ Ever With You (1863)"
+  ],
+  "owinslow-sympathy-christ-1863": [
+   "MN41388ucmf_3",
+   "The Sympathy of Christ with Man (1863)"
+  ],
+  "owinslow-precious-things-1867": [
+   "preciousthingsof00wins",
+   "The Precious Things of God (1867)"
+  ],
+  "owinslow-ministry-home-1867": [
+   "ministryhomeorb00winsgoog",
+   "The Ministry of Home, or Brief Expository Lectures on Divine Truth (1867)"
+  ],
+  "owinslow-none-like-christ-1868": [
+   "nonelikechrist01winsgoog",
+   "None Like Christ (1868)"
+  ],
+  "owinslow-go-tell-jesus-1869": [
+   "goandtelljesus01winsgoog",
+   "Go and Tell Jesus (1869)"
+  ],
+  "owinslow-silver-trumpet-1844": [
+   "silvertrumpetor00winsgoog",
+   "The Silver Trumpet, or the Church Guided and Warned in Perilous Times (1844)"
+  ],
+  "owinslow-life-in-jesus-1860": [
+   "lifeinjesusmemoi00wins",
+   "Life in Jesus: a Memoir of Mrs. Mary Winslow, arranged from her correspondence, diary and thoughts (1860)"
+  ]
+ },
+ "_alternates": {
+  "personaldeclensi00wins (1845), 1848wins, personaldeclens00winsgoog, bwb_KT-595-633 (1841); inquirerdirected00wins_0, inquirerdirecte00winsgoog, MN41354ucmf_3; experimentalprac00wins_0, experimentaland00winsgoog; preciousthingsg00winsgoog, dli copies (1874); midnightharmoni00winsgoog; glimpsesoftrutha01wins (1849); lifeinjesus* other scans": "Other printings or scans.",
+  "nonelikechrist00winsgoog": "A shorter scan of None Like Christ (59 page images against the other's 89); the fuller scan is held.",
+  "goandtelljesus00winsgoog": "Refused 2026-10-02: its OCR never names Winslow; the other Google scan, which does, is held."
+ },
+ "_excluded": {
+  "NoneLikeChrist; ConsiderJesus; TheInquirerDirected": "Uploads with no library provenance.",
+  "personaldeclensi0000octa (1962); workofholyspirit0000unse (1961); lordmyportionord00wins, bwb_Y0-BTX-503 (2008); preciousthingsof0000wins (2010)": "Modern reprints.",
+  "hiddenlifememor00winsgoog; gatheredflowers00linngoog": "Memorials chiefly of others (his son; two young believers).",
+  "apastoralletter00winsgoog; MN41448ucmf_2": "Short pieces; not fetched this round."
+ },
+ "_checks": {
+  "owinslow-personal-declension-1847": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-work-holy-spirit-1846": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "owinslow-atonement-1838": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-glory-redeemer-1855": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "owinslow-inner-life-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "owinslow-glimpses-truth-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-midnight-harmonies-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "owinslow-christ-ever-with-you-1863": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "owinslow-sympathy-christ-1863": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "owinslow-precious-things-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-ministry-home-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-none-like-christ-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-go-tell-jesus-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-silver-trumpet-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "owinslow-life-in-jesus-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "winslow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

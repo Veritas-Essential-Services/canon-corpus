@@ -225,3 +225,6 @@
 
 ## 2026-10-02 19:53 CDT — durham done
 - `pipeline/durham_shelf.json`: five early printings (1680-1792), raw IA OCR, 77-85% (old type): fit for finding passages, not for quoting. About 9.3 MB. The 1659 Treatise concerning Scandal was refused (OCR never names Durham) and is pending. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 19:56 CDT — octavius-winslow done
+- `pipeline/octavius-winslow_shelf.json`: 15 books (1838-1869), raw IA OCR, 90.7-98.6%, about 6.5 MB. Two scans swapped: None Like Christ for a fuller scan (89 page images, not 59), Go and Tell Jesus for the scan whose OCR names Winslow. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

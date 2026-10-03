@@ -864,6 +864,16 @@ No CCEL, Gutenberg or 19th-century collected edition on IA. Early printings, raw
 | A Commentarie upon the Book of the Revelation (1680) | have-raw | IA `commentarieuponb00durh` |
 | Clavis Cantici: an Exposition of the Song of Solomon (1723) | have-raw | IA `claviscant00durh` |
 | The Dying Man's Testament, a Treatise concerning Scandal (1659) | pending | the scan's OCR never names Durham |
+
+## Octavius Winslow (round 5, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Fifteen books from library scans, raw IA OCR; slugs `owinslow-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Experimental and Practical Views of the Atonement (1838); The Silver Trumpet (1844); The Work of the Holy Spirit (1846); Personal Declension and Revival (1847); The Inner Life (1853); The Glory of the Redeemer (1855); Glimpses of the Truth (1856); Midnight Harmonies (1856); Life in Jesus (his mother's memoir, 1860); Christ Ever With You (1863); The Sympathy of Christ (1863); The Precious Things of God (1867); The Ministry of Home (1867); None Like Christ (1868); Go and Tell Jesus (1869) | have-raw | IA (identifiers in the shelf) |
+| Bare uploads of None Like Christ, Consider Jesus, The Inquirer Directed | excluded | no library provenance |
+| 1961-2010 reprints | excluded | modern editions |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
