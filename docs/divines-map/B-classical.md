@@ -142,6 +142,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Rhetoric of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1886) | J. E. C. Welldon | `aristotle-welldon-rhetoric-1886` | have-raw (IA `rhetoricofaristo00aristot`) |
 | The Politics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1901 printing; first published 1883) | J. E. C. Welldon | `aristotle-welldon-politics-1901` | have-raw (IA `bwb_KU-767-069`) |
 | The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
+| Nicomachean Ethics | Harris Rackham (1926) | `aristotle-perseus-rackham-nicomachean-ethics` | have (Perseus TEI `tlg0086.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
@@ -410,6 +411,7 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. II | William Beloe | `herodotus-beloe-1821-v2` | have-raw (IA `india.history.resource.86417`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
+| Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
@@ -1335,6 +1337,7 @@ Shelf: `pipeline/diogenes-laertius_shelf.json`. Yonge (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Lives and Opinions of Eminent Philosophers | Charles Duke Yonge | `diogenes-laertius-yonge` | have (PG 57342) |
+| Lives of Eminent Philosophers | R. D. Hicks (1925) | `diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher` | have (Perseus TEI `tlg0004.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Hicks Loeb (1925; Greek facing)
 

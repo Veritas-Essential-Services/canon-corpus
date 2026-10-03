@@ -135,9 +135,10 @@
   "vol. XII (1952)": "Select Fragments (Ross). Published 1952; renewal status not checked; not cleared. Pending",
   "worksofaristotle10arisuoft / 11 / 12": "duplicate Toronto scans of vols. X-XII; the 'theworksofaristo' scans kept",
   "R. D. Hicks, De Anima (1907)": "PD and a fine translation, but printed with the Greek text facing; Greek-English mixed OCR. Pending as an alternative De Anima",
-  "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched",
+  "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched Update 2026-10-03: Rackham's Nicomachean Ethics (Loeb, 1926 printing) taken as a second Ethics witness (aristotle-perseus-rackham-nicomachean-ethics); Freese's Rhetoric refused (1947 printing in its record).",
   "worksofaristotle00unse (1830)": "'Aristotle's Masterpiece', a popular sex-and-midwifery manual falsely ascribed to Aristotle. Wrong author",
-  "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues"
+  "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues",
+  "tlg0086.tlg038.perseus-eng2": "Freese's Loeb Rhetoric (1926) on Perseus: the file's sourceDesc gives a 1947 printing, so the gate refuses it and no reason was stated; the Bohn Rhetoric is held instead"
  },
  "_surname": [
   "aristotle",
@@ -155,7 +156,8 @@
   "aristotle-owen-organon-1853-v2": "Octavius Freire Owen",
   "aristotle-taylor-metaphysics-1801": "Thomas Taylor",
   "aristotle-welldon-ethics-1892": "J. E. C. Welldon",
-  "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon"
+  "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon",
+  "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -508,5 +510,29 @@
   "aristotle-ellis-politics-pg": "PG 6762 is already held on pipeline/adler_shelf.json as aristotle-politics; not refetched. Its label there says 'tr. Jowett', but Gutenberg's header names William Ellis (and the text is Ellis's 1776 translation): the Adler label is wrong, flagged in DIGEST-B for Adam (lane B does not edit that file)",
   "aristotle-edghill-categories-pg": "PG 2412 is Edghill's Categories, the same Oxford translation held in aristotle-ross-v01 (Works vol. I, 1928); not a second witness",
   "aristotle-everyman-ethics-pg": "PG 8438 again, the same file as aristotle-chase-ethics-pg above: already held on pipeline/adler_shelf.json as aristotle-ethics, so not fetched as a second witness (added in error 2026-10-03 and withdrawn on review)"
+ },
+ "perseus": {
+  "aristotle-perseus-rackham-nicomachean-ethics": [
+   "tlg0086.tlg010.perseus-eng2",
+   "Nicomachean Ethics",
+   "Harris Rackham",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aristotle. The Nicomachean Ethics. Rackham, Harris, translator. London: William Heinemann; New York: G. P. Putnam's Sons, 1926 (printing)."
+  ]
+ },
+ "_perseus_checks": {
+  "aristotle-perseus-rackham-nicomachean-ethics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0086.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Harris Rackham",
+   "author_seen": "aristotle",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  }
  }
 }
