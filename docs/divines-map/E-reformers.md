@@ -119,3 +119,17 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
 | Wodrow's Analecta (Maitland Club, 1842-43); Kirkton's Life of John Welsh | pending | not yet searched |
+
+## The Westminster Assembly
+
+Lane A holds Warfield's Westminster studies and the Assembly divines Reynolds and Bridge; Baillie's Letters are above. These shelves add the Assembly's own record and its 19th-century historians.
+
+| Work | Status | Where |
+|---|---|---|
+| Minutes of the Sessions, Nov 1644 to Mar 1649, ed. Mitchell and Struthers (1874) | have-raw | `westminster-assembly_shelf.json` |
+| The Confession, Larger and Shorter Catechisms, Directories, Form of Church Government, Covenants (Nelson, 1877) | have-raw | `westminster-assembly_shelf.json` |
+| Gillespie, Notes of Debates and Proceedings, 1644-1645, ed. Meek (1846) | have-raw | `gillespie-gaps_shelf.json`; Google scan |
+| Mitchell, The Westminster Assembly: its History and Standards (1883); Catechisms of the Second Reformation (1886) | have-raw | `alexander-mitchell_shelf.json` |
+| Hetherington, History of the Westminster Assembly (1843; New York 1868 printing) | have-raw | `hetherington_shelf.json` |
+| Shaw, Exposition of the Confession of Faith (2nd ed., 1846) | have-raw | `robert-shaw_shelf.json` |
+| Lightfoot's Journal of the Assembly (Works vol. 13, 1824) | pending | not yet searched |
