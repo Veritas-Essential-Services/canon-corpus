@@ -264,6 +264,13 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Francis Asbury | francis-asbury_shelf.json | none | 3 (Journal, 3 vols, Lane & Scott 1852) | none | none |
 | Richard Cecil | richard-cecil_shelf.json | none | 2 (Remains, ed. Pratt, Carter 1843; Original Thoughts on Scripture, Carter 1849) | Memoirs of John Newton (IA HTTP 500); Works (1847) not yet read | none |
 
+## Round 14: my picks, also for your veto
+
+Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglicans (Bickersteth, Melvill, Daniel Wilson, J. B. Mozley, R. W. Church), Scots (Wardlaw, James Haldane, Norman Macleod, Cairns, Dods, A. B. Davidson, Matheson), the Baptist essayist John Foster, the American Henry Boynton Smith, and two colonial divines (Davenport, Dickinson). Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
