@@ -652,3 +652,6 @@
 
 ## 2026-10-03 06:59 CDT — Andrew Murray translators
 - The New Life and The Lord's Table are translations from the Dutch. They are now recorded in `_translator_unchecked`, the key 40 shelves already use. The New Life's preface is signed only "J.P.L." (Arbroath, 1891). The Lord's Table names no translator.
+
+## 2026-10-03 07:13 CDT — ralph-wardlaw done
+- `pipeline/ralph-wardlaw_shelf.json`: 11 IA volumes, title pages read; Ecclesiastes vol. 2 is a "0000"-style id, an 1821 original (`_rights_checked`). `--verify --record`: 0 mismatched. OCR 98.8%. 0 uids minted.

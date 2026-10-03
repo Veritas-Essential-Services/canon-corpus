@@ -2135,3 +2135,12 @@ Slugs `cecil-*`.
 | Remains (1843); Original Thoughts on Various Passages of Scripture (1849) | have-ocr | IA, OCR 99% |
 | Memoirs of the Rev. John Newton (New York, 1809) | have-ocr | IA |
 | Works (1847) | pending | IA, not yet read |
+
+## Ralph Wardlaw (round 14, my pick, 2026-10-03)
+
+Slugs `wardlaw-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Systematic Theology, 3 vols (1856-57); Christian Ethics (1852); Discourses on the Atonement (1843); Socinian Controversy (Andover, c.1815); Lectures on Romans, 3 vols (1861); Lectures on Ecclesiastes, 2 vols (1821) | have-ocr | IA, OCR 97-99% |
+| On Miracles (1852); Lectures on Proverbs (1869) | alternate | IA |
