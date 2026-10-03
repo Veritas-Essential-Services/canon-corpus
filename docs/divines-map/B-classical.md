@@ -1038,6 +1038,7 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV) | Walter K. Kelly | `catullus-tibullus-kelly-erotica-1854` | have-raw (IA `cu31924031218211`) |
 | The Poems of Caius Valerius Catullus in English verse, with the Latin text revised, vol. I (London: J. Johnson, 1795; Latin facing) | anonymous (IA catalogue: John Nott) | `catullus-nott-1795-v1` | have-raw (IA `poemsofcaiusvale01catuiala`) |
 | Catullus translated into English verse (London: Kegan Paul, 1879) | Thomas Hart-Davies | `catullus-hart-davies-1879` | have-raw (IA `catullus01catu`) |
+| The Poems of Gaius Valerius Catullus, with notes and a translation (G. Bell, 1912) | Charles Stuttaford | `catullus-stuttaford-1912` | have-raw (IA `poemsofgaiusvale00catuiala`) |
 
 
 Excluded: PG 23720 (serves a 404).

@@ -47,6 +47,11 @@
    "catullus01catu",
    "Catullus translated into English verse (London: Kegan Paul, 1879)",
    "tr. Thomas Hart-Davies"
+  ],
+  "catullus-stuttaford-1912": [
+   "poemsofgaiusvale00catuiala",
+   "The Poems of Gaius Valerius Catullus, with notes and a translation (G. Bell, 1912)",
+   "tr. Charles Stuttaford"
   ]
  },
  "_excluded": {
@@ -61,7 +66,8 @@
   "catullus-burton-smithers": "Sir Richard Francis Burton",
   "catullus-tibullus-pervigilium-loeb": "f. w. cornish",
   "catullus-cranstoun-1867": "James Cranstoun",
-  "catullus-lamb-1821-v1": "George Lamb"
+  "catullus-lamb-1821-v1": "George Lamb",
+  "catullus-stuttaford-1912": "Stuttaford"
  },
  "_checks": {
   "catullus-ellis": {
@@ -158,6 +164,19 @@
    "ia_rights": "ok: published 1879",
    "ia_date": "1879",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "catullus-stuttaford-1912": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "translator_claimed": "Stuttaford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
