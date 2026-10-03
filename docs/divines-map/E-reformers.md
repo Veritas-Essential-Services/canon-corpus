@@ -182,4 +182,6 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 |---|---|---|
 | Schaff, The Creeds of Christendom (3 vols; CCEL, proofed) | have | `philip-schaff_shelf.json`; vols I-II from the 1919 sixth edition, vol. III from a reprint of 1889; CCEL's vol. III lacks Part First (Lutheran) |
 | The Harmony of Protestant Confessions, ed. Peter Hall (1842) | have-raw | `peter-hall_shelf.json` |
-| Dunlop, A Collection of Confessions of Faith (1719-22, 2 vols) | pending | only long-s 18th-century scans; not yet read |
+| Dunlop, A Collection of Confessions of Faith (1719-22, 2 vols) | pending | only long-s 18th-century scans, OCR at about a third common words |
+| Sprott and Leishman, Book of Common Order (Knox's Liturgy) and the Westminster Directory (1868) | have-raw | `george-sprott_shelf.json` |
+| Sprott, Scottish Liturgies of the Reign of James VI (revised, 1901); The Worship and Offices of the Church of Scotland (1882) | have-raw | `george-sprott_shelf.json` |
