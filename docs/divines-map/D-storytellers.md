@@ -1238,6 +1238,14 @@ Shelf: `pipeline/canton_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | A Child's Book of Saints | have | PG 22112, `canton-childs-book-of-saints` (934 units) |
 
+## Abbie Farwell Brown
+
+Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, retold for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Saints and Friendly Beasts | have | PG 28990, `abbie-brown-book-of-saints-and-friendly-beasts` (656 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
