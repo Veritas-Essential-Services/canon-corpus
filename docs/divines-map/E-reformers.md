@@ -44,7 +44,8 @@ Built 2026-10-03 on its own branch (not a relay lane), with the relay's `pipelin
 |---|---|---|
 | Works, ed. Laing, vols 1-2 (History of the Reformation) | have | PG 21938, 40886 (8,165 units) |
 | Works, ed. Laing, vols 3-6 | have-raw | `john-knox_shelf.json`, IA (vol 3 1854, vol 4 1895 reissue, vols 5-6) |
-| First Blast of the Trumpet; Treatise on Prayer | have | CCEL (141 and 71 units) |
+| First Blast of the Trumpet | have | CCEL (141 units), keyed from Southgate, London (1878) |
+| Treatise on Prayer (CCEL) | pending | CCEL keyed it from a 1995 modern-spelling reprint; the original is in Laing vol. 3 (Confession or Prayer on the Death of Edward VI) |
 | History, ed. Lennox (1905, modernised) | pending | PG 48250; a possible second witness |
 
 ## Zacharias Ursinus

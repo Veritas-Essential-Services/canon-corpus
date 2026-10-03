@@ -12,11 +12,6 @@
    "blast",
    "The First Blast of the Trumpet Against the Monstrous Regiment of Women",
    ""
-  ],
-  "knox-prayer": [
-   "prayer",
-   "Treatise on Prayer",
-   ""
   ]
  },
  "gutenberg": {
@@ -57,7 +52,8 @@
   "PG 9660, First Blast, ed. Edward Arber (1878)": "A second clean edition of the First Blast; CCEL's is held."
  },
  "_pending": {
-  "PG 48250, History of the Reformation, ed. Cuthbert Lennox (London, 1905)": "A modernised one-volume edition; the Laing History is held. Could be added as a second witness."
+  "PG 48250, History of the Reformation, ed. Cuthbert Lennox (London, 1905)": "A modernised one-volume edition; the Laing History is held. Could be added as a second witness.",
+  "CCEL knox/prayer (A Treatise on Prayer)": "Taken off the shelf 2026-10-03 in the CCEL rights sweep: CCEL keyed it from Presbyterian Heritage Publications, 1995 (via the Still Waters Revival Books site), a modern-spelling reprint, not the 16th-century text. Laing's Works vol. 3, on this shelf, prints the original. Restore only after someone reads the 1995 edition's rights line."
  },
  "_excluded": {
   "worksofjohnknox000[1-6]davi, worksofjohnknox000[0-6]knox, bwb_S0-BTV-*": "1966 AMS reprints in the lending library.",
@@ -74,16 +70,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
-   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
-  },
-  "knox-prayer": {
-   "kind": "ccel",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "knox",
-   "identity": "ok",
-   "ccel_dc_rights": "Public Domain",
-   "ccel_copyright_comment": true,
+   "ccel_print_source": "Southgate, London (1878)",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "knox-works-01": {
@@ -110,7 +98,7 @@
    "name_check": "surname",
    "author_seen": "knox",
    "identity": "ok",
-   "ia_rights": "ok: published 1846",
+   "ia_rights": "ok: published 1864",
    "ia_date": "1846-1864",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null

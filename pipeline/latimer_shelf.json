@@ -47,6 +47,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "latimer-sermons-card": {
