@@ -17,8 +17,11 @@ editors differ:
   english         the KJV's chapter and verse as printed.
 Most Greek editors cite the Psalms by the Greek count (Ps. 71 for the KJV's
 Ps 72), but Heikel's Eusebius cites "Psal. 72, 8 ... 72, 7" beside Isa 2:4
-for the peace psalm, the KJV's Ps 72, and "Psal. 7, 16ff." for the pit, the
-KJV's 7:15: the Hebrew count. An editor can also number the Psalms one way
+for the peace psalm, the KJV's Ps 72: not the Greek count. Whether it is the
+Hebrew count or the English is another question, and his notes do not settle
+it (his "Psal. 7, 16ff." for the pit is the KJV's 7:15 in the Hebrew count
+and 7:16 in the English, and the father quotes both verses); so the measure
+says so rather than choosing. An editor can also number the Psalms one way
 and the rest of the Bible another (Cohn-Wendland's Philo, PR #8). So the
 reading is decided per EDITOR and per CLASS of book: the Psalms, Jeremiah
 (whose Greek order of chapters is not the Hebrew's), and the rest.
@@ -48,26 +51,34 @@ vote for the numberings it supports:
               (numbering.json "calibration").
 
 DECISION, per editor and class (numbering.json "rule"): each numbering scores
-the log of its share of the whole family's support for the class (the prior:
-the Greek editions number the Psalms as the Septuagint, 80%; Jeremiah and the
-rest are near even, so a thinly attested edition there is close to a coin
-flip, and its scores say so), plus, for every vote supporting it, the
-log-odds of a vote of that kind being right: content from the calibration,
-existence from the Latin editions' Psalms, where the Vulgate numbering is not
-in doubt and 5% of existence votes still say otherwise (OCR digits, slips).
-The highest score wins. So a thinly attested edition leans on the pool and a
-well attested one decides for itself: Heikel's Psalms (Ps 132:7, which the
-Septuagint does not have, and the peace psalm) come out Hebrew against the
-pool, the Hebrew and English agreeing on both and the pool favouring the
-Hebrew. A Greek class with at least MIN_VOTES votes of which no numbering has
+the log of its share of the whole family's votes for the class (the prior,
+shares(): a mixture estimate, in which a vote two numberings share is split
+between them by their shares, so an LXX editor's "lxx+hebrew" votes, which
+only show a psalm's title counted as verse 1, lend the Hebrew count nothing
+against the English), plus, for every vote supporting it, the log-odds of a
+vote of that kind being right: content from the calibration, existence from
+the Latin editions' Psalms, where the Vulgate numbering is not in doubt and
+5% of existence votes still say otherwise (OCR digits, slips). The highest
+score wins, under two guards. An edition leaves the pool's numbering only on
+at least MIN_OWN votes of its own that tell the two apart (one OCR digit
+moves nothing: Halm's one Hebrew-only reference outside the Psalms). And a
+rival numbering is ruled out only by MIN_OWN of the edition's own votes
+netting against it, or, for the pool's numbering, by a pooled share of
+SHARE with no vote of the edition's against it. A rival not ruled out is
+UNDECIDED: the class reads as it leans, and every link a rival would read as
+another verse says so (numbering_undecided, with that verse as alt_target).
+Heikel's Psalms: Ps 132:7 and the peace psalm rule out the Greek count, but
+both fit the Hebrew and the English alike, so they read as the pool leans
+(English) and Ps 7:16 carries the Hebrew's 7:15 beside it, undecided.
+A Greek class with at least MIN_VOTES votes of which no numbering has
 SHARE is MIXED (Dindorf's Demonstratio cites the Psalms both ways): there each
 note's run of references to one chapter is read as one quotation, by one
 content vote over all its verses, where the winning and runner-up readings
 put it in different chapters (rule suffix +content); else as the edition
 leans. The evidence is committed beside each decision. Latin editions have no
 content votes (no English for their words), so existence alone decides them:
-Vulgate, except where an edition's existence votes say Hebrew
-(Reifferscheid-Wissowa's Tertullian, Psalms).
+Vulgate, except where an edition's existence votes say otherwise
+(Reifferscheid-Wissowa's Tertullian, Psalms: Hebrew or English, undecided).
 
 INPUT: data/books/<slug>.json (the notes), build/fathers/<slug>.json (the
 Greek tags, tag_fathers.py), data/strongs/strongs.jsonl (committed),
@@ -99,6 +110,7 @@ COMMON = 100  # calibrated: see numbering.json "calibration" (500: 83%/69%, 100:
 SHARE = 0.7
 CLIP = 0.05
 MIN_SHARED = 2
+MIN_OWN = 2
 FAMILY_MAP = {"grc": "lxx", "lat": "vulgate"}
 
 STOP = set("""the and of to in that for is he it with as his be was they on not by are this
@@ -353,6 +365,29 @@ def support(c, family):
     return out
 
 
+def shares(c, family, rounds=200):
+    """{numbering: its share of the pool}: a mixture estimate in which a vote
+    two numberings share is split between them in proportion to their
+    shares, repeated to a fixed point. So an LXX-numbered editor's
+    'lxx+hebrew' votes (a psalm's title counted as verse 1) go almost wholly
+    to the LXX and lend the Hebrew count nothing against the English, while
+    a 'hebrew+english' vote still counts against the LXX."""
+    xs = SCHEMES[family]
+    votes = [(k.split(":")[1].split("+"), n) for k, n in c.items()]
+    tot = sum(n for _, n in votes)
+    if not tot:
+        return {x: round(1 / len(xs), 4) for x in xs}
+    p = {x: 1 / len(xs) for x in xs}
+    for _ in range(rounds):
+        got = {x: 0.0 for x in xs}
+        for sup, n in votes:
+            z = sum(p[x] for x in sup)
+            for x in sup:
+                got[x] += n * (p[x] / z if z else 1 / len(sup))
+        p = {x: got[x] / tot for x in xs}
+    return {x: round(v, 4) for x, v in p.items()}
+
+
 def is_mixed(c, family):
     """Enough votes, and no numbering has SHARE of them."""
     n = sum(c.values())
@@ -364,21 +399,60 @@ def logit(p):
     return math.log(p / (1 - p))
 
 
-def decide(c, family, prior, weights):
-    """The numbering this edition's votes favour: each numbering's log prior
-    (its share of the pool's support for the class), plus the measured
-    weight of every vote that supports it (`weights`: the log-odds of a vote
-    of that kind being right). A thinly attested edition leans on the pool, a
-    well attested one decides for itself; ties go by SCHEMES order (the
-    family's own first)."""
+def weight(kind, weights):
+    return weights["existence"] if kind == "existence" else weights[kind.split("_")[1]]
+
+
+def between(c, x, y, weights):
+    """The edition's own votes that tell x from y: (supporting x and not y,
+    supporting y and not x, their weighted difference)."""
+    nx = ny = 0
+    net = 0.0
+    for k, n in c.items():
+        kind, sup = k.split(":")
+        sup = sup.split("+")
+        if (x in sup) == (y in sup):
+            continue
+        if x in sup:
+            nx, net = nx + n, net + n * weight(kind, weights)
+        else:
+            ny, net = ny + n, net - n * weight(kind, weights)
+    return nx, ny, net
+
+
+def decide(c, family, prior, weights, pooled=None, pool_share=0.0):
+    """(numbering, scores, undecided): the numbering this edition's votes
+    favour, and the rivals its evidence does not rule out.
+
+    Score: each numbering's log prior (its pooled share for the class, from
+    shares()), plus the measured weight of every vote
+    that supports it (`weights`: the log-odds of a vote of that kind being
+    right); ties go by SCHEMES order (the family's own first). Then two
+    guards. An edition leaves the pool's numbering (`pooled`) only on at
+    least MIN_OWN votes of its own that tell the two apart. And a rival is
+    ruled out only by MIN_OWN such votes netting against it, or, for the
+    pool's own numbering, by a pool holding `share` of the class with no
+    vote of the edition's against it. Any rival left is `undecided`: the
+    reading goes by the numbering, and the link says which others remain."""
     score = {x: math.log(min(max(prior[x], CLIP), 1 - CLIP)) for x in SCHEMES[family]}
     for k, n in c.items():
         kind, sup = k.split(":")
-        w = weights["existence"] if kind == "existence" else weights[kind.split("_")[1]]
         for x in sup.split("+"):
-            score[x] += n * w
+            score[x] += n * weight(kind, weights)
     best = max(SCHEMES[family], key=lambda x: (round(score[x], 9), -SCHEMES[family].index(x)))
-    return best, {x: round(v, 3) for x, v in score.items()}
+    if pooled and best != pooled and between(c, best, pooled, weights)[0] < MIN_OWN:
+        best = pooled
+    open_ = []
+    for y in SCHEMES[family]:
+        if y == best:
+            continue
+        nx, ny, net = between(c, best, y, weights)
+        if nx >= MIN_OWN and net > 0:
+            continue
+        if best == pooled and pool_share >= SHARE and ny == 0:
+            continue
+        open_.append(y)
+    return best, {x: round(v, 3) for x, v in score.items()}, open_
 
 
 CLASSES = ("Ps", "Jer", "rest")
@@ -387,10 +461,10 @@ CLASSES = ("Ps", "Jer", "rest")
 def build(ctx, slugs):
     cal = collections.defaultdict(collections.Counter)
     votes, books_of = measure(ctx, slugs, cal=cal)
-    out = {"schema": "canon-corpus/fathers-numbering/v2",
+    out = {"schema": "canon-corpus/fathers-numbering/v3",
            "built_by": "pipeline/fathers_numbering.py",
            "rule": {"numberings": {f: list(v) for f, v in SCHEMES.items()},
-                    "margin": MARGIN, "min_shared": MIN_SHARED, "min_votes": MIN_VOTES,
+                    "margin": MARGIN, "min_shared": MIN_SHARED, "min_votes": MIN_VOTES, "min_own": MIN_OWN,
                     "share": SHARE, "clip": CLIP, "common": COMMON,
                     "classes": list(CLASSES),
                     "how": [
@@ -402,9 +476,18 @@ def build(ctx, slugs):
                         "have the verse) and, in Greek, content_chapter / content_verse (the "
                         "father's glossed words favour one candidate verse by margin)",
                         "an edition's class takes the numbering with the highest score: the log of "
-                        "its pooled support share for the class (clipped to clip..1-clip), plus "
-                        "each supporting vote's weight (`weights`: the log-odds of a vote of that "
-                        "kind being right, from `calibration` and, for existence, the Latin Psalms)",
+                        "its pooled share for the class (a mixture estimate: a vote two numberings "
+                        "share is split between them by their shares, to a fixed point, so an "
+                        "LXX editor's lxx+hebrew votes lend the Hebrew count nothing against the "
+                        "English), clipped to clip..1-clip, plus each supporting vote's weight (`weights`: the "
+                        "log-odds of a vote of that kind being right, from `calibration` and, for "
+                        "existence, the Latin Psalms)",
+                        "an edition leaves the pool's numbering only on at least min_own votes of its "
+                        "own that tell the two apart; a rival is ruled out only by min_own such votes "
+                        "netting against it, or, for the pool's numbering, by a pooled share of at "
+                        "least `share` with no vote of the edition's against it. Rivals not "
+                        "ruled out are `undecided`, and every link that would read differently in "
+                        "one says so (numbering_undecided)",
                         "mixed (Greek): at least min_votes and no numbering has `share` of them; "
                         "each note's run of references to one chapter is then read by one content "
                         "vote where the candidates differ by chapter, else as the edition leans"]},
@@ -419,11 +502,8 @@ def build(ctx, slugs):
             c = collections.Counter()
             for ed in votes[family].values():
                 c.update(ed[cls])
-            sup = support(c, family)
-            tot = sum(sup.values())
-            prior[(family, cls)] = {x: round(n / tot, 4) if tot else round(1 / len(sup), 4)
-                                   for x, n in sup.items()}
-            out["pooled"].setdefault(family, {})[cls] = {"support_share": prior[(family, cls)],
+            prior[(family, cls)] = shares(c, family)
+            out["pooled"].setdefault(family, {})[cls] = {"share": prior[(family, cls)],
                                                          "votes": dict(sorted(c.items()))}
     # How far to trust a vote. Content: its calibration. Existence: measured
     # on the Latin editions' Psalms, where the Vulgate numbering is not in
@@ -439,15 +519,19 @@ def build(ctx, slugs):
     out["rule"]["weights"] = weights
     for family in ("grc", "lat"):
         for cls in CLASSES:
-            num, _ = decide(collections.Counter(), family, prior[(family, cls)], weights)
+            num, _, _ = decide(collections.Counter(), family, prior[(family, cls)], weights)
             out["pooled"][family][cls]["numbering"] = num
         eds = {}
         for ed in sorted(votes[family]):
             row = {"books": sorted(books_of[(family, ed)])}
             for cls in CLASSES:
                 c = votes[family][ed][cls]
-                num, score = decide(c, family, prior[(family, cls)], weights)
+                pool = out["pooled"][family][cls]
+                num, score, undecided = decide(c, family, prior[(family, cls)], weights,
+                                               pool["numbering"], pool["share"][pool["numbering"]])
                 r = {"numbering": num, "score": score}
+                if undecided:
+                    r["undecided"] = undecided
                 if family == "grc" and is_mixed(c, family):
                     r["per_reference"] = True
                 r["votes"] = dict(sorted(c.items()))
@@ -458,21 +542,22 @@ def build(ctx, slugs):
 
 
 def load(path=OUT):
-    """{(family, editor, class): (numbering, per_reference)} and the pooled fallback."""
+    """{(family, editor, class): (numbering, per_reference, undecided)} and the pooled fallback."""
     with open(path, encoding="utf-8") as f:
         m = json.load(f)
     table = {}
     for family, eds in m["editions"].items():
         for ed, row in eds.items():
             for cls in CLASSES:
-                table[(family, ed, cls)] = (row[cls]["numbering"], bool(row[cls].get("per_reference")))
-    pooled = {(family, cls): (v["numbering"], False) for family, p in m["pooled"].items()
+                table[(family, ed, cls)] = (row[cls]["numbering"], bool(row[cls].get("per_reference")),
+                                            tuple(row[cls].get("undecided", ())))
+    pooled = {(family, cls): (v["numbering"], False, ()) for family, p in m["pooled"].items()
               for cls, v in p.items()}
     return table, pooled
 
 
 def scheme_for(book, family, numbering):
-    """book (an OSIS name) -> (numbering, per_reference) for this edition."""
+    """book (an OSIS name) -> (numbering, per_reference, undecided) for this edition."""
     table, pooled = numbering
     ed = edition_of(book)
     return lambda b: table.get((family, ed, numbering_class(b)), pooled[(family, numbering_class(b))])
@@ -488,10 +573,11 @@ def main():
         for ed, row in eds.items():
             print(f"  {family} {ed[:40]:40} " + "  ".join(
                 f"{c}={row[c]['numbering']}{'~' if row[c].get('per_reference') else ''}"
+                f"{'?' + '/'.join(row[c]['undecided']) if row[c].get('undecided') else ''}"
                 for c in ("Ps", "Jer", "rest")))
     print("  calibration:", m["calibration"])
     print("  weights:", m["rule"]["weights"])
-    print("  pooled:", {f: {c: (v["numbering"], v["support_share"]) for c, v in p.items()} for f, p in m["pooled"].items()})
+    print("  pooled:", {f: {c: (v["numbering"], v["share"]) for c, v in p.items()} for f, p in m["pooled"].items()})
     if "--check" in sys.argv:
         ok = os.path.exists(OUT) and open(OUT, "rb").read() == blob
         print("  CHECK", "PASSED: byte-identical" if ok else "FAILED: differs")

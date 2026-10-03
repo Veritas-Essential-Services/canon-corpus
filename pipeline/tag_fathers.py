@@ -196,7 +196,7 @@ def link_rows(slug, sc):
         out = []
         for ln in links:
             d = {k: ln[k] for k in ("ref", "target", "through", "spans", "alt_target", "numbering",
-                                    "read_as", "rule") if k in ln}
+                                    "numbering_undecided", "read_as", "rule") if k in ln}
             for k in ("target", "through", "alt_target"):
                 if k in d:
                     d[k] = d[k][4:]
@@ -272,6 +272,7 @@ def summarise(slug, sha, tokens, stats, sc, book, key):
                        "unresolved_by_why": dict(sorted(collections.Counter(
                            ln.get("why", "?") for ln in links if not ln.get("resolved")).items())),
                        "alt_target": sum(1 for ln in links if "alt_target" in ln),
+                       "numbering_undecided": sum(1 for ln in links if "numbering_undecided" in ln),
                        "ot_by_numbering": dict(sorted(collections.Counter(
                            ln["numbering"] for ln in links if ln.get("resolved") and "numbering" in ln).items()))}}
     if catena:
@@ -322,7 +323,9 @@ def manifest(entries):
             "rest), from the notes themselves (fathers_numbering.py); only in a Greek edition "
             "that mixes numberings is a note's quotation read on its own, by the father's words, "
             "and only where the numberings differ by chapter, where that vote is right 89% of "
-            "the time. Where the other numbering names another verse it is kept as alt_target.",
+            "the time. Where another numbering names another verse it is kept as alt_target. Where "
+            "an edition's own notes do not tell two numberings apart, the class is not called: "
+            "the link reads as the pool leans and says numbering_undecided.",
             "The texts are OCR (CSEL, many First1KGreek files): a misread word is tagged as read.",
         ],
         "books": dict(sorted(entries.items())),
