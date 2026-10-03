@@ -8092,6 +8092,23 @@ Shelf: `pipeline/marshall-saunders_shelf.json` (2026-10-02; added at the coordin
 |---|---|---|
 | Beautiful Joe: An Autobiography | have | PG 10226, `saunders-beautiful-joe` (1458 units) |
 
+## Annie Fellows Johnston
+
+Shelf: `pipeline/annie-fellows-johnston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ten Little Colonel books; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Little Colonel | have | PG 9407, `johnston-little-colonel` (606 units) |
+| The Little Colonel's House Party | have | PG 15741, `johnston-house-party` (1187 units) |
+| The Little Colonel's Holidays | have | PG 40463, `johnston-holidays` (939 units) |
+| The Little Colonel's Hero | have | PG 15122, `johnston-hero` (1345 units) |
+| The Little Colonel at Boarding-School | have | PG 38939, `johnston-boarding-school` (1339 units) |
+| The Little Colonel in Arizona | have | PG 39599, `johnston-arizona` (1343 units) |
+| The Little Colonel's Christmas Vacation | have | PG 26215, `johnston-christmas-vacation` (1430 units) |
+| The Little Colonel: Maid of Honor | have | PG 21248, `johnston-maid-of-honor` (1322 units) |
+| The Little Colonel's Knight Comes Riding | have | PG 39594, `johnston-knight-comes-riding` (1089 units) |
+| The Little Colonel's Chum: Mary Ware | have | PG 15867, `johnston-mary-ware` (927 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

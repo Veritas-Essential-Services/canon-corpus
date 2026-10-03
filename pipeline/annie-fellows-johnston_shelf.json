@@ -1,0 +1,248 @@
+{
+ "_about": "Annie Fellows Johnston's Little Colonel books, ten of them, dated from each printing's own page: The Little Colonel (1895), The Little Colonel's House Party (this printing 1907), The Little Colonel's Holidays (copyright 1901), The Little Colonel's Hero (copyright 1902), The Little Colonel at Boarding-School (copyright 1903), The Little Colonel in Arizona (copyright 1904), The Little Colonel's Christmas Vacation (copyright 1905), The Little Colonel: Maid of Honor (copyright 1906), The Little Colonel's Knight Comes Riding (copyright 1907) and Mary Ware, the Little Colonel's Chum (copyright 1908; this printing 1944). Her Story of the Red Cross is not taken. The books are set in the post-war South and their Black characters speak and are drawn in the terms of their time. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Annie Fellows Johnston",
+ "_name_words": [
+  "johnston"
+ ],
+ "_surname": [
+  "annie fellows johnston",
+  "annie f. johnston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "johnston-little-colonel": [
+   9407,
+   "The Little Colonel",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-house-party": [
+   15741,
+   "The Little Colonel's House Party",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-holidays": [
+   40463,
+   "The Little Colonel's Holidays",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-hero": [
+   15122,
+   "The Little Colonel's Hero",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-boarding-school": [
+   38939,
+   "The Little Colonel at Boarding-School",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-arizona": [
+   39599,
+   "The Little Colonel in Arizona",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-christmas-vacation": [
+   26215,
+   "The Little Colonel's Christmas Vacation",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-maid-of-honor": [
+   21248,
+   "The Little Colonel: Maid of Honor",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-knight-comes-riding": [
+   39594,
+   "The Little Colonel's Knight Comes Riding",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "johnston-mary-ware": [
+   15867,
+   "The Little Colonel's Chum: Mary Ware",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "johnston-little-colonel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-house-party": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-holidays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-boarding-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-arizona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-christmas-vacation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-maid-of-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-knight-comes-riding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johnston-mary-ware": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "annie fellows johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
