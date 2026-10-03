@@ -87,6 +87,16 @@
    "bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614",
    "The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614)",
    "tr. Thomas Lodge"
+  ],
+  "seneca-morell-epistles-1786-v1": [
+   "epistlesluciusa01senegoog",
+   "The Epistles of Lucius Annaeus Seneca, with large annotations, vol. I (London: Woodfall for Robinson, MDCCLXXXVI)",
+   "tr. Thomas Morell"
+  ],
+  "seneca-morell-epistles-1786-v2": [
+   "epistlesluciusa00senegoog",
+   "The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI)",
+   "tr. Thomas Morell"
   ]
  },
  "_excluded": {
@@ -311,9 +321,33 @@
    "ia_date": "1614",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "seneca-morell-epistles-1786-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "seneca",
+   "identity": "ok",
+   "ia_rights": "ok: published 1786",
+   "ia_date": "1786",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seneca-morell-epistles-1786-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "seneca",
+   "identity": "ok",
+   "ia_rights": "ok: published 1786",
+   "ia_date": "1786",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_translator_unchecked": {
-  "seneca-lodge-workes-1614": "the OCR never prints Thomas Lodge's name; 'lodge' alone is a common word and proves nothing"
+  "seneca-lodge-workes-1614": "the OCR never prints Thomas Lodge's name; 'lodge' alone is a common word and proves nothing",
+  "seneca-morell-epistles-1786-v1": "title page OCRs the name as 'THOMAS M O R £ L L, D. D.' (Woodfall, MDCCLXXXVI); the claim is not matched as written",
+  "seneca-morell-epistles-1786-v2": "title page OCRs the name as 'THOMAS MOREL L, D. D.' (Woodfall, MDCCLXXXVI); the claim is not matched as written"
  }
 }
