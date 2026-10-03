@@ -190,6 +190,11 @@
    "cu31924026565683",
    "The Aeneid of Virgil freely translated into English blank verse (Dublin University Press Series; Dublin: Hodges, Figgis; London: Longmans, 1886)",
    "tr. William J. Thornhill"
+  ],
+  "virgil-king-eclogues-georgics-1882": [
+   "ecloguesandgeor00kinggoog",
+   "The Eclogues and Georgics of Virgil translated into English verse (London, 1882)",
+   "tr. J. M. King"
   ]
  },
  "_cross_ref": {
@@ -273,7 +278,8 @@
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "virgil-pitt-warton-1763-v3": "title page OCRs the name as 'CHRISTOPH ER PITT' (split by OCR; Dodsley, MDCCLXIII); the claim is not matched as written"
+  "virgil-pitt-warton-1763-v3": "title page OCRs the name as 'CHRISTOPH ER PITT' (split by OCR; Dodsley, MDCCLXIII); the claim is not matched as written",
+  "virgil-king-eclogues-georgics-1882": "title page names the Rev. J. M. King (London, 1882); 'king' is a common word, so the word check cannot confirm the name"
  },
  "_checks": {
   "virgil-rhoades-eclogues": {
@@ -738,6 +744,17 @@
    "ia_rights": "ok: published 1886",
    "ia_date": "1886",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "virgil-king-eclogues-georgics-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
