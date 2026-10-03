@@ -211,5 +211,12 @@
  },
  "_rights_checked": {
   "lucretius-rouse-loeb-1924": "Title page read: 'LONDON: WILLIAM HEINEMANN / NEW YORK: G. P. PUTNAM'S SONS / MCMXXIV', series editors Capps, Page and Rouse; no reprint or revision line, and nothing in the front matter later than 1921. The 1924 first printing, before the 1937 revision. IA records no date."
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }

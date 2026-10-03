@@ -248,5 +248,12 @@
   "hippocrates-perseus-adams-the-law": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg014.perseus-eng2 (The Law, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-of-the-prognostics": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg003.perseus-eng2 (Of the Prognostics, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-mochlicus": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg011.perseus-eng2 (Mochlicus, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }

@@ -59,4 +59,13 @@ b = fp.rights_block({"markup_licence_in_file": "https://creativecommons.org/lice
 ok(b["license"].startswith("https://creativecommons.org"), "rights block prefers the licence stated in the file")
 ok("modernized" not in b["attribution"], "unmodernized file's attribution names only the markup")
 
+# _perseus_licence is a statement, never a gate: it neither keeps a late file nor refuses a plain one
+LIC = {"translation": "public domain", "markup": "CC BY-SA 4.0", "attribution": "Perseus",
+       "share_alike": True, "redistribute_whole": False}
+ok(fp.licence_stated({"_perseus_licence": LIC}) and not fp.licence_stated({}), "licence statement detected")
+ok(not fp.licence_stated({"_perseus_licence": {"markup": "CC BY-SA 4.0"}}), "partial licence statement not counted")
+ok(refused(tei(years="1931"), {**SHELF, "_perseus_licence": LIC}, "RIGHTS"), "licence statement does not excuse a late year")
+r, _ = fp._check(tei(), "tlg0016.tlg001.perseus-eng2", "A. D. Godley", "h", {**SHELF, "_perseus_licence": LIC})
+ok("rights_override" not in r, "licence statement is not a rights override")
+
 print(f"fetch_perseus_test: {len(PASS)} checks passed")

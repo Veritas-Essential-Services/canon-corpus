@@ -2863,5 +2863,12 @@
   "plutarch-perseus-white-of-the-names-of-rivers-and-mountains-and": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg001.perseus-eng2 (Of the Names of Rivers and Mountains, and of Such Things as are to be Found Therein, tr. R. White) is not taken as a second witness (moved here on review, 2026-10-02)",
   "plutarch-perseus-philips-concerning-music": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg002.perseus-eng2 (Concerning music, tr. John Philips) is not taken as a second witness (moved here on review, 2026-10-02)",
   "plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi": "same translation as plutarch-goodwin-moralia-v1..v5 (PG 78134, 78147, 78851, 79588, 78000: the same several-hands translation in Goodwin's revision) on this shelf; Perseus TEI urn:cts:greekLit:tlg0094.tlg003.perseus-eng2 (Of Those Sentiments Concerning Nature with which Philosophers were Delighted, tr. John Dowell) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }

@@ -745,5 +745,12 @@
  },
  "_translator_unchecked": {
   "xenophon-several-hands-minor-works-1813": "'by several hands': the volume names James Welwood (Banquet) and R. Bradley (Economics) on their section titles; the Memoirs of Socrates and Hiero carry no translator's name (the Memoirs is usually attributed to Sarah Fielding, not verified here), so no single claim is made"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }

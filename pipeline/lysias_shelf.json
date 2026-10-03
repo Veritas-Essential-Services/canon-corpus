@@ -1027,5 +1027,12 @@
   "lysias-perseus-lamb-on-the-olive-stump": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
   "lysias-perseus-lamb-on-the-property-of-aristophanes": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
   "lysias-perseus-lamb-on-the-scrutiny-of-evandros": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }

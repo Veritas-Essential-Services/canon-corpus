@@ -293,5 +293,12 @@
  },
  "_rights_checked": {
   "herodotus-perseus-godley-histories": "the Perseus header says this text was modernized by Perseus (Steven Ott, to remove archaisms, then reviewed and revised): an editorial layer over A. D. Godley's translation (Loeb 1920-25, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }

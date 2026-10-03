@@ -47,6 +47,13 @@ would-be MISMATCH that a person confirmed. `--verify --record` writes
 "_perseus_checks" into the shelf (committed: findings only, no text), so the
 evidence outlives the gitignored report; fetch_shelf.py's "_checks" covers
 the other kinds and does not see Perseus rows.
+`_perseus_licence` (optional, shelf level, added 2026-10-03 with the
+reviewer) states the licence of the shelf's Perseus section once, machine-
+readable: {"translation", "markup", "attribution", "share_alike",
+"redistribute_whole"}. It is a statement, never a gate: it does not touch
+`_rights_checked` (which stays reserved for a late year or a modernized
+text), and the per-file licence is still read and recorded per row. A shelf
+with Perseus rows and no `_perseus_licence` is named in the run's output.
 Resumable: a file already on disk is kept. A failed fetch is reported, never
 written as an empty file.
 """
@@ -181,6 +188,8 @@ def main():
     clash = others & set(rows)
     if clash:
         sys.exit(f"perseus slugs collide with ccel slugs: {sorted(clash)}")
+    if rows and not licence_stated(shelf):
+        print(f"note: {name} has perseus rows but no _perseus_licence statement")
     out = os.path.join(ROOT, "data", "corpus", name)
     os.makedirs(out, exist_ok=True)
     rep_path = os.path.join(out, f"{name}_perseus_report.json")
@@ -227,6 +236,14 @@ def main():
         if len(seen) < len(rows):
             print(f"not recorded (no local file, not checked this run): {sorted(set(rows) - seen)}")
         record(name, {s: report[s] for s in rows if s in seen})
+
+LICENCE_KEYS = ("translation", "markup", "attribution", "share_alike", "redistribute_whole")
+
+def licence_stated(shelf):
+    """True when the shelf's `_perseus_licence` carries every key; a
+    statement only, never consulted by the rights gate."""
+    lic = shelf.get("_perseus_licence")
+    return isinstance(lic, dict) and all(k in lic for k in LICENCE_KEYS)
 
 RECORD_KEYS = ("urn", "repo", "translator_checked", "translator_unchecked", "author_seen",
                "source_years", "rights_flag", "rights_override", "modernized", "markup_licence_in_file",

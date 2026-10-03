@@ -1616,5 +1616,12 @@
   "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
   "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
   "lucian-perseus-harmon-the-carousal-or-the-lapiths": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
  }
 }
