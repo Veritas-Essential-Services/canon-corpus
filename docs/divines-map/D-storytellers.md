@@ -1973,6 +1973,16 @@ Shelf: `pipeline/berens_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Myths and Legends of Ancient Greece and Rome | have | PG 22381, `berens-myths-and-legends-greece-rome` (1428 units) |
 
+## Sara Cone Bryant
+
+Shelf: `pipeline/sara-bryant_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Folk tales, fables and stories retold for telling aloud, with her advice to story-tellers. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| How to Tell Stories to Children | have | PG 474, `sara-bryant-how-to-tell-stories` (1097 units) |
+| Stories to Tell Children | have | PG 16693, `sara-bryant-stories-to-tell-children` (1301 units) |
+| sara-bryant-stories-to-tell-to-children-473 | excluded | PG 473, an undated transcription (1996) of Stories to Tell to Children. PG 16693 is the same work from the London: Harrap 1918 printing, proofread. Paragraph-start containment 68% one way, 65% the other, so the two differ in text or paragraphing (the opening stories differ, e.g. The Little Pink Rose against The Little Yellow Tulip). Held once (PG 16693, the dated printing); if both are wanted, they are two witnesses of one work. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

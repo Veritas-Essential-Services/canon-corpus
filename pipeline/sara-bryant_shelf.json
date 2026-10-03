@@ -1,0 +1,48 @@
+{
+ "_about": "Sara Cone Bryant's (1873-1956) story-telling books: folk tales, fables and stories retold for telling aloud, with her advice to story-tellers. Both texts are the London: George G. Harrap 1918 printings named on their title pages (the Harrap list in the front matter calls How to Tell Stories to Children a tenth impression, so it was first printed earlier; that date is not in the text). Public domain in the US. Content note: Stories to Tell to Children includes Epaminondas, a story in caricatured Black dialect that her preface says came from a friend's \"Mammy\". Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Sara Cone Bryant",
+ "_name_words": [
+  "bryant"
+ ],
+ "_surname": [
+  "bryant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sara-bryant-how-to-tell-stories": [
+   474,
+   "How to Tell Stories to Children"
+  ],
+  "sara-bryant-stories-to-tell-children": [
+   16693,
+   "Stories to Tell Children",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "sara-bryant-stories-to-tell-to-children-473": "PG 473, an undated transcription (1996) of Stories to Tell to Children. PG 16693 is the same work from the London: Harrap 1918 printing, proofread. Paragraph-start containment 68% one way, 65% the other, so the two differ in text or paragraphing (the opening stories differ, e.g. The Little Pink Rose against The Little Yellow Tulip). Held once (PG 16693, the dated printing); if both are wanted, they are two witnesses of one work."
+ },
+ "_checks": {
+  "sara-bryant-how-to-tell-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bryant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sara-bryant-stories-to-tell-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bryant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

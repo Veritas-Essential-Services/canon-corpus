@@ -1049,8 +1049,10 @@
     {
       "id": "sara-bryant",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: sara-bryant; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:10:00-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:10:00-05:00",
+      "finished": "2026-10-02T21:10:22-05:00",
+      "notes": "2/2 fetched (Gutenberg 474, 16693), 2,398 units, 6 ~2 ids."
     }
   ]
 }
