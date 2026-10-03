@@ -241,6 +241,8 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Agnew, Protestant Exiles from France, 3rd ed. (2 vols, 1886) | have-raw | `agnew_shelf.json` |
 | Browning, A History of the Huguenots, 3rd ed. (1842) | have-raw | `w-s-browning_shelf.json` |
 | Félice, History of the Protestants of France, tr. Barnes (1853) | have-raw | `felice_shelf.json`, Google scan; translator not checkable in the OCR |
+| Saurin, Sermons, tr. Robinson, Hunter and Sutcliffe (8 vols, London 1812-13) | have-raw | `saurin_shelf.json`; vol. II is the 1813 Schenectady reprint until the London copy's text is served |
+| Daillé, A Treatise on the Right Use of the Fathers, tr. Smith (London: Bohn, 1843) | have-raw | `jean-daille_shelf.json`; his Philippians and Colossians are on `william-jenkyn_shelf.json` |
 
 ## Confessions and creeds
 
