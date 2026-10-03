@@ -1311,6 +1311,7 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. I (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v1` | have-raw (IA `orationsofdemost01demouoft`) |
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v2` | have-raw (IA `orationsofdemost02demouoft`) |
 | The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840) | Henry, Lord Brougham | `demosthenes-brougham-crown-1840` | have-raw (IA `orationdemosthe02vauxgoog`) |
+| The Oration of Demosthenes on the Crown (London: Longmans, Green, 1876) | Sir Robert Collier | `demosthenes-collier-crown-1876` | have-raw (IA `orationdemosthe00collgoog`) |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
