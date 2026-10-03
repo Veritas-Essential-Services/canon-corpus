@@ -32,6 +32,10 @@ THE BOOKS, AND WHICH PRINTING (every one printed before 1929: US public domain)
   westcott-gospel-john    B. F. Westcott, The Gospel according to St John: the Greek
                           text with introduction and notes (London: Murray, 1908, 2 vols).
                           gospelaccordingt01west (Princeton), gospelaccordingt02west (Toronto).
+  lightfoot-horae         John Lightfoot (1602-1675), Horae Hebraicae et Talmudicae, ed.
+                          R. Gandell (Oxford, 1859, 4 vols): Matthew to 1 Corinthians, notes
+                          headed "Ver. 5:" in one column. horaehebraicaeet000{1-4}ligh (the
+                          Internet Archive's own scans: the only copies whose OCR kept Hebrew).
 
 Project Gutenberg has only the Colossians (searched 2026-10-03 by author and
 title); its Greek is real Unicode and its markup gives the verse anchors of
@@ -156,6 +160,12 @@ NT_JOHN = os.path.join(ROOT, "data", "nt", "John", "passages.jsonl")
 #   Westcott, Ephesians (1906): REJECTED, no scan keeps its Greek. saintpaulsepistl00westuoft: 100% Greek
 #               letters (English OCR'd as Greek); cu31924029294209, saintpaulsepistl0009broo, bwb_S0-BLY-035:
 #               0.0% Greek; saintpaulsepistl0000west, saintpaulsepistl0000broo_v8b1: 1952 (Eerdmans) reprints.
+#   Lightfoot, Horae Hebraicae (Gandell, 1859): Greek 2.4-3.4%, Hebrew letters
+#               horaehebraicaeet000{1,2,3,4}ligh   Hebrew 2.0/2.3/1.9/1.5% of letters   <- chosen
+#               (their Hebrew words 3+ letters: 23-26% a Strong's lemma, 44-47% with one prefix letter off)
+#               horaehebraicaeet0{1,2,4}lighuoft, horaehebraicaeet00lighuoft (Toronto), horhebraicet0{1-4}ligh
+#               (Princeton), horhebraicettal00gandgoog: no Hebrew codepoints; horhebraicet02ligh,
+#               horhebraicettal00unkngoog: no Greek either; commentaryonnewt000*: 1979/1989 reprints.
 #   Project Gutenberg has none of these (searched 2026-10-03: Westcott, Ellicott, Lightfoot).
 CANDIDATES = None
 
@@ -297,11 +307,49 @@ SCANS.update({
              "leaves": (5, 404), "epistles": [("John", 12, 387, 8)]},
         ],
     },
+    "lightfoot-horae": {
+        "title": "Horae Hebraicae et Talmudicae",
+        "short": "Lightfoot, Hor. Hebr.",
+        "author": "John Lightfoot (1602-1675)",
+        "edition": ("John Lightfoot, Horae Hebraicae et Talmudicae: Hebrew and Talmudical exercitations upon the "
+                    "Gospels, the Acts, some chapters of St Paul's Epistle to the Romans, and the First Epistle to "
+                    "the Corinthians, a new edition by Robert Gandell, 4 vols (Oxford: University Press, 1859); "
+                    "the title pages print no date (Gandell's preface is dated 1 April 1859) and vol. 4 ends with "
+                    "a Macmillan advertisement, so these copies may be a later issue of the 1859 sheets"),
+        "printed": 1859,
+        "apparatus": False,
+        "head": "ch",
+        "style": "ver",
+        "note": ("the Internet Archive's own scans of the four volumes, chosen because their OCR kept the Hebrew "
+                 "(about 2% of letters, real Hebrew codepoints); the Toronto (horaehebraicaeet0{1,2,4}lighuoft, "
+                 "horaehebraicaeet00lighuoft) and Princeton (horhebraicet0{1-4}ligh) scans of the same edition "
+                 "have no Hebrew codepoints at all; measured 2026-10-03 on each item's _djvu.txt; the raw-OCR "
+                 "john-lightfoot shelf (branch claude/project-thread-c4l3cp) lists the Horae in Pitman's Whole "
+                 "Works (1822-25) as pending, another edition, not shelved there"),
+        "volumes": [
+            {"ia": "horaehebraicaeet0001ligh",
+             "sha256": "1ba4063fdbc1c09f0a721e4c489f77fe8534d5ecb1fb8c7fcf1b863fa81ef4d6",
+             "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 394), "epistles": []},
+            {"ia": "horaehebraicaeet0002ligh",
+             "sha256": "e54b581870ba3818113c255170311583fbae9fe887d3ce66a5d6f7e26e5adebb",
+             "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 486),
+             "epistles": [("Matt", 13, 390), ("Mark", 399, 486)]},
+            {"ia": "horaehebraicaeet0003ligh",
+             "sha256": "8ffc3f7c8498da9a72af76b4e7c284a30474db48349cdcf2970dbbcc01a02e7c",
+             "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 462),
+             "epistles": [("Luke", 11, 237), ("John", 243, 461)]},
+            {"ia": "horaehebraicaeet0004ligh",
+             "sha256": "d373363ad662c0e272c3e220015a793b7ee23c8e79a4e3d1cdb8be08d1e1d373",
+             "copy": "Internet Archive scan", "ia_rights": None, "leaves": (5, 354),
+             "epistles": [("Acts", 11, 159), ("Rom", 161, 170), ("1Cor", 177, 291)]},
+        ],
+    },
 })
 ORDER = ["lightfoot-galatians", "lightfoot-philippians", "lightfoot-colossians",
          "westcott-hebrews", "westcott-john", "hort-ante-nicene",
-         "westcott-gospel-john"]
-MULTI = {"lightfoot-colossians", "westcott-john"}    # volumes of several epistles: ids lead with the book
+         "westcott-gospel-john", "lightfoot-horae"]
+MULTI = {"lightfoot-colossians", "westcott-john",    # volumes of several epistles: ids lead with the book
+         "lightfoot-horae"}
 
 # ------------------------------------------------------------------ files
 
