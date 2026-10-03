@@ -270,3 +270,6 @@
 
 ## 2026-10-02 19:49 CDT — edda-widen: done
 - 3/3 fetched (Gutenberg 73533, 14726, 1152), 9,018 units, 20 ~2 ids.
+
+## 2026-10-02 19:49 CDT — kalevala-kirby: done
+- 3/3 fetched (Gutenberg 5186, 25953, 33089), 4,722 units, 1 ~2 ids.

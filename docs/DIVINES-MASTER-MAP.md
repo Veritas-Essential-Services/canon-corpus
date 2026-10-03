@@ -3722,8 +3722,9 @@ Shelf: `pipeline/kalevala_shelf.json` (2026-10-02; added at the coordinator's re
 | Work | Status | Where |
 |---|---|---|
 | Kalevala: The Epic Poem of Finland, tr. John Martin Crawford (1888) | have | PG 5186, `kalevala-crawford` (1534 units) |
+| Kalevala, The Land of the Heroes, tr. W. F. Kirby (1907), vol. 1 | have | PG 25953, `kalevala-kirby-1` (1627 units) |
+| Kalevala, The Land of the Heroes, tr. W. F. Kirby (1907), vol. 2 | have | PG 33089, `kalevala-kirby-2` (1561 units) |
 | kalevala-duplicates | excluded | Crawford's Kalevala volumes 1 and 2 (PG 5184, 5185): the same text as the complete file |
-| kalevala-kirby | excluded | W. F. Kirby's Kalevala, The Land of the Heroes (PG 25953, 33089, 1907): another translation, not named by the relay; a candidate for a later batch |
 
 ## Snorri Sturluson (Heimskringla, the Prose Edda)
 

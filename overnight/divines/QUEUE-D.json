@@ -526,7 +526,9 @@
     {
       "id": "kalevala-kirby",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Kirby's Kalevala as a second witness; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:49:58-05:00",
+      "notes": "3/3 fetched (Gutenberg 5186, 25953, 33089), 4,722 units, 1 ~2 ids."
     },
     {
       "id": "yeats-stories",
