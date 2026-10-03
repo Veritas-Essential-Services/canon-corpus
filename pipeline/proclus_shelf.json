@@ -28,7 +28,18 @@
    "tr. Thomas Taylor"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "proclus-taylor-timaeus-v1": [
+   "proclusontimaeus01procuoft",
+   "The Commentaries of Proclus on the Timaeus of Plato, in five books, containing a treasury of Pythagoric and Platonic physiology, vol. I (London: printed for the author; IA records 1820)",
+   "tr. Thomas Taylor"
+  ],
+  "proclus-taylor-timaeus-v2": [
+   "proclusontimaeus02procuoft",
+   "The Commentaries of Proclus on the Timaeus of Plato, vol. II (IA records 1820)",
+   "tr. Thomas Taylor"
+  ]
+ },
  "_surname": [
   "proclus"
  ],
@@ -36,7 +47,9 @@
   "proclus-taylor-euclid-v1": "Thomas Taylor",
   "proclus-taylor-euclid-v2": "Thomas Taylor",
   "proclus-taylor-theology-v1": "Thomas Taylor",
-  "proclus-taylor-theology-v2": "Thomas Taylor"
+  "proclus-taylor-theology-v2": "Thomas Taylor",
+  "proclus-taylor-timaeus-v1": "Thomas Taylor",
+  "proclus-taylor-timaeus-v2": "Thomas Taylor"
  },
  "_checks": {
   "proclus-taylor-euclid-v1": {
@@ -86,6 +99,32 @@
    "pg_copyrighted": false,
    "pg_translator": "Thomas Taylor",
    "translator_match": true
+  },
+  "proclus-taylor-timaeus-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "proclus",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "proclus-taylor-timaeus-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "proclus",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
