@@ -5315,8 +5315,8 @@ Shelf: `pipeline/albert-paine_shelf.json` (2026-10-02; added at the coordinator'
 | Work | Status | Where |
 |---|---|---|
 | Hollow Tree Nights and Days | have | PG 24410, `albert-paine-hollow-tree-nights-and-days` (702 units) |
-| Mr. Turtle's Flying Adventure | have | PG 28192, `albert-paine-mr-turtles-flying-adventure` (186 units) |
-| Mr. Rabbit's Wedding | have | PG 28193, `albert-paine-mr-rabbits-wedding` (232 units) |
+| Mr. Turtle's Flying Adventure | held once | PG 28192: a reprint; 91% of it is in Hollow Tree Nights and Days (sixth audit pass) |
+| Mr. Rabbit's Wedding | held once | PG 28193: a reprint; 96% of it is in Hollow Tree Nights and Days (sixth audit pass) |
 | How Mr. Rabbit Lost His Tail | have | PG 28204, `albert-paine-how-mr-rabbit-lost-his-tail` (232 units) |
 | The Arkansaw Bear | have | PG 28302, `albert-paine-arkansaw-bear` (722 units) |
 

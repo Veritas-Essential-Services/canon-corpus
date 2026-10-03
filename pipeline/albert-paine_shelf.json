@@ -16,14 +16,6 @@
     "contents_only": true
    }
   ],
-  "albert-paine-mr-turtles-flying-adventure": [
-   28192,
-   "Mr. Turtle's Flying Adventure"
-  ],
-  "albert-paine-mr-rabbits-wedding": [
-   28193,
-   "Mr. Rabbit's Wedding"
-  ],
   "albert-paine-how-mr-rabbit-lost-his-tail": [
    28204,
    "How Mr. Rabbit Lost His Tail"
@@ -34,27 +26,12 @@
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "albert-paine-mr-rabbits-wedding": "PG 28193, Mr. Rabbit's Wedding: a small reprint book. 96% of its long paragraphs are in Hollow Tree Nights and Days (PG 24410), held here; measured by the sixth audit pass. Held once.",
+  "albert-paine-mr-turtles-flying-adventure": "PG 28192, Mr. Turtle's Flying Adventure: a small reprint book. 91% of its long paragraphs are in Hollow Tree Nights and Days (PG 24410), held here; measured by the sixth audit pass. Held once."
+ },
  "_checks": {
   "albert-paine-hollow-tree-nights-and-days": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "paine",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
-  "albert-paine-mr-turtles-flying-adventure": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "paine",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
-  },
-  "albert-paine-mr-rabbits-wedding": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",

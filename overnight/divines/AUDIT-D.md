@@ -278,3 +278,16 @@ All 115 shelves (779 slugs).
   - Lady Wilde shares small amounts with Yeats for the same reason.
 - **Excluded before commit** (measured, not guessed): Richards's *Golden-Breasted Kootoo* (72% of it is in *Toto*), and Perkins's *Moon Princess* (written by Edith Ogden Harrison; Perkins only illustrated it).
 - **OCR.** Batches 13-15 added no Internet Archive volumes, so the grades are unchanged.
+
+## 8. Sixth pass (2026-10-02 night, after batches 16 and 17)
+
+All 131 shelves (835 slugs after the drop below).
+
+- **URLs.** 837 checked before the drop. Five Gutenberg files reset or dropped TLS on the first sweep, and all five answered on retry. Lang's Lockhart vol. 1, which returned HTTP 500 at the fifth pass, answered this time. Every slug is in the map.
+- **Same source held twice.** None. The title collisions are the same multi-volume sets as before.
+- **Translators.** The catalog check finds nothing new. Batch 17's translations name their translators in `_translators` (Westervelt for his own Hawaiian translations, Percival for the Kremnitz tales, Worster for Rasmussen, Allen for his Korean tales), and `--verify --record` matched each one.
+- **Text held twice, new this pass.**
+  - Paine's *Mr. Rabbit's Wedding* (96%) and *Mr. Turtle's Flying Adventure* (91%) are reprints of stories in his *Hollow Tree Nights and Days*. Both were dropped from the shelf and are recorded in its `_excluded`. *How Mr. Rabbit Lost His Tail* shares nothing with it and stays.
+  - Westervelt's *Legends of Old Honolulu* and *Hawaiian Legends of Volcanoes* share 15 paragraphs, 3% of each. The Pepper books share a handful of recap paragraphs. Bryant's *How to Tell Stories* shares 5 paragraphs with Richards's *Pig Brother*. All of these are small: mint them once.
+- **Excluded before commit** (measured): Hale's second Peterkin Papers transcription (82% both ways), Webster's second Daddy-Long-Legs transcription (58%/68%, held once as the same work), and Bryant's second Stories to Tell to Children transcription (68%/65%, held once). Webster's stage *Daddy Long-Legs* is a different work and waits on Adam (DIGEST decision 13).
+- **OCR.** Batches 16 and 17 added no Internet Archive volumes.
