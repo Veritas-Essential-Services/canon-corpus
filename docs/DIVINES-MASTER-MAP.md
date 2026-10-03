@@ -4587,14 +4587,15 @@ Shelf: `pipeline/dasent_shelf.json` (2026-10-02; added at the coordinator's rela
 | dasent-njal-duplicate | excluded | The Story of Burnt Njal (PG 597, 1995 e-text by Douglas Killings): an older transcription of the same translation; the header does not name Dasent as translator. PG 17919 is held instead |
 | dasent-orkneyingers | excluded | The Orkneyingers' Saga (Rolls Series, 1894): no usable scan found on this pass |
 
-## W. R. S. Ralston (Russian tales)
+## W. R. S. Ralston (Russian and Tibetan tales)
 
-Shelf: `pipeline/ralston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ralston's translation with his commentary, cut Chapter > tale (51 tales, as his Contents lists them); footnote marks on tale titles are stripped from the citation through a new opt-in 'strip' on convert_nested.py levels. Ten ids carry ~2: the Contents prints each chapter's summary under the same heading as the chapter's opening. Not in the manifest; no uids minted.
+Shelf: `pipeline/ralston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Russian Fairy Tales (1873), and Tibetan Tales (1906), Ralston's English of Schiefner's German from the Kah-gyur, cut by numbered tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
-| Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873) | have | PG 22373, `ralston-russian-fairy-tales` (3465 units) |
-| ralston-other-translations | excluded | Turgenev's Liza (PG 12194) and Schiefner's Tibetan Tales (PG 66870), both tr. Ralston: outside the relay's ask (Russian tales); Tibetan Tales would suit a later folk-tale batch |
+| Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873) | have | PG 22373, `ralston-russian-fairy-tales` (3485 units) |
+| Tibetan Tales, Derived from Indian Sources, tr. Ralston from Schiefner's German (1906) | have | PG 66870, `ralston-tibetan-tales` (1848 units) |
+| ralston-other-translations | excluded | Turgenev's Liza (PG 12194), tr. Ralston: outside the relay's ask (Russian tales) |
 | ralston-commentary-only | excluded | Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only |
 
 ## Charles Perrault (English translations before 1929)
