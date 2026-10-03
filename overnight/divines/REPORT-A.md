@@ -414,3 +414,6 @@
 
 ## 2026-10-03 01:12 CDT — j-b-lightfoot done
 - `pipeline/j-b-lightfoot_shelf.json`: 1 CCEL title (converted; Lightfoot recorded as translator), 3 Gutenberg texts (rights lines checked) and 2 IA commentaries, raw OCR 92.3% each (Greek-heavy notes), about 5 MB; title pages read (1890, 1898). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:18 CDT — b-f-westcott done
+- `pipeline/b-f-westcott_shelf.json`: 6 IA volumes of raw OCR, median 91.0% (88.1-97.4%; Greek text and notes), about 8 MB; title pages read (1883-1908). The gate refused a Robarts Epistles of John scan whose text layer names neither the book nor Westcott; a Claremont copy replaced it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

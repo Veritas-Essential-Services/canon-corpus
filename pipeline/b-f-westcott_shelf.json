@@ -1,0 +1,116 @@
+{
+ "_about": "Public-domain B. F. Westcott (1825-1901, Regius Professor of Divinity at Cambridge, then Bishop of Durham) for the Word Hoard: the commentaries on the Gospel of John (the Greek text, London: Murray, 1908, 2 vols; and the Authorised Version, 1892), the Epistles of John (1883) and Hebrews (1889), and the General Survey of the History of the Canon of the New Testament (1896), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "w/westcott",
+ "_name_words": [
+  "westcott",
+  "brooke",
+  "foss"
+ ],
+ "_surname": [
+  "b. f. westcott",
+  "brooke foss westcott",
+  "westcott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "westcott-john-greek-1": [
+   "gospelaccordingt01west",
+   "The Gospel according to St. John: the Greek text with introduction and notes, vol. 1 (London: Murray, 1908)"
+  ],
+  "westcott-john-greek-2": [
+   "gospelaccordingt02west_0",
+   "The Gospel according to St. John: the Greek text with introduction and notes, vol. 2 (London: Murray, 1908)"
+  ],
+  "westcott-john-av-1892": [
+   "gospelaccordingt00westuoft",
+   "The Gospel according to St. John: the Authorised Version with introduction and notes (London: Murray, 1892)"
+  ],
+  "westcott-hebrews-1889": [
+   "epistletohebrews0000broo_a4f0",
+   "The Epistle to the Hebrews: the Greek text with notes and essays (London: Macmillan, 1889)"
+  ],
+  "westcott-canon-1896": [
+   "generalsurveyofh00westuoft",
+   "A General Survey of the History of the Canon of the New Testament (London: Macmillan, 1896)"
+  ],
+  "westcott-epistles-john-1883": [
+   "epistlesofstjohn0000west",
+   "The Epistles of St. John: the Greek text with notes and essays (London: Macmillan, 1883)"
+  ]
+ },
+ "_alternates": {
+  "westcott": "many Macmillan printings; avoid the internetarchivebooks copies that are later reprints (one Epistles of St John copy names Eerdmans)",
+  "westcott-epistles-john": "the Robarts 1886 scan (epistlesofstjohn00westuoft) was refused by the gate: neither Westcott's name nor the title words appear in its text layer"
+ },
+ "_excluded": {},
+ "_checks": {
+  "westcott-john-greek-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brooke foss westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "westcott-john-greek-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brooke foss westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "westcott-john-av-1892": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "b. f. westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "westcott-hebrews-1889": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brooke foss westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "westcott-canon-1896": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brooke foss westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "westcott-epistles-john-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "brooke foss westcott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
