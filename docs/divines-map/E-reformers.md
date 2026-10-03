@@ -20,7 +20,23 @@ Built 2026-10-03 on its own branch (not a relay lane), with the relay's `pipelin
 | Becon, Early Works (1843); Catechism (1844); Prayers and Other Pieces (1844), ed. Ayre | have-raw | `becon_shelf.json`, IA Toronto |
 | Bullinger, Decades I-V, tr. H. I., ed. Harding (4 vols, 1849-1852) | have-raw | `heinrich-bullinger_shelf.json`, IA Toronto (its volume numbers differ from the set's) |
 | Bullinger's letters (Zurich Letters, Original Letters) | pending | a Parker Society miscellany shelf |
-| Remaining Parker Society authors (Coverdale, Tyndale, Whitgift, Pilkington, Fulke, Grindal, Sandys, Nowell, Hutchinson, Whitaker, Philpot, Rogers, Parker...) | pending | IA Toronto and California scans seen; not in this ask |
+| Tyndale, Doctrinal Treatises (1848); Expositions and Practice of Prelates (1849); Answer to More (1850), ed. Walter | have-raw | `william-tyndale_shelf.json` (prose works; his Bible is a witness on PR #11) |
+| Whitaker, Disputation on Holy Scripture (1849) | have-raw | `william-whitaker_shelf.json` |
+| Fulke, Defence of the Translations (1843); Answers to Stapleton, Martiall, Sanders (1848) | have-raw | `william-fulke_shelf.json` |
+| Coverdale, Writings and Translations (1844); Remains (1846) | have-raw | `myles-coverdale_shelf.json` (his Bible is a witness on PR #11) |
+| Grindal, Remains (1843) | have-raw | `grindal_shelf.json` |
+| Sandys, Sermons (1841) | have-raw | `edwin-sandys_shelf.json` |
+| Pilkington, Works (1842) | have-raw | `james-pilkington_shelf.json` |
+| Philpot, Examinations and Writings (1842) | have-raw | `john-philpot_shelf.json` |
+| Hutchinson, Works (1842) | have-raw | `roger-hutchinson_shelf.json` |
+| Rogers, Catholic Doctrine of the Church of England (1854) | have-raw | `thomas-rogers_shelf.json` |
+| Nowell, Catechism, Latin with Norton's English (1853) | have-raw | `nowell_shelf.json`; Norton checked as translator |
+| Whitgift, Works (3 portions, 1851-1853) | have-raw | `whitgift_shelf.json` |
+| Calfhill, Answer to Martiall (1846); Bale, Select Works (1849); Cooper, Answer in Defence (1850); Woolton, Christian Manual (1851) | have-raw | `calfhill`, `john-bale`, `thomas-cooper`, `woolton` shelves |
+| Liturgies of Edward VI (1844); Liturgical Services of Elizabeth (1847); Private Prayers of Elizabeth (1851); Bull's Christian Prayers (1842) | have-raw | `parker-society_shelf.json` |
+| Zurich Letters, first series (1842) and its Latin originals; second series (1845); Original Letters (2 portions, 1846-1847); Epistolae Tigurinae (1848) | have-raw | `parker-society_shelf.json` |
+| Correspondence of Matthew Parker (1853); Select Poetry of Elizabeth's reign (2 parts, 1845); General Index (1855) | have-raw | `parker-society_shelf.json` |
+| Zurich Letters, second series, Latin originals | pending | not yet identified among the scans |
 
 ## John Knox
 
