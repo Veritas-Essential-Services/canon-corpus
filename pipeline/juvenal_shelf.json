@@ -64,6 +64,11 @@
    "juvenalandpersi01persgoog",
    "Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829)",
    "tr. William Smart"
+  ],
+  "juvenal-persius-wallace-1848": [
+   "satiresjuvenala00persgoog",
+   "The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848)",
+   "tr. W. Wallace"
   ]
  },
  "_cross_ref": {
@@ -88,7 +93,8 @@
   "juvenal-hodgson-1807": "Francis Hodgson",
   "persius-wollaston-1841": "Wollaston",
   "juvenal-leeper-1902": "Leeper",
-  "juvenal-persius-owen-1786": "Owen"
+  "juvenal-persius-owen-1786": "Owen",
+  "juvenal-persius-wallace-1848": "Wallace"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -228,6 +234,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1829",
    "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "juvenal-persius-wallace-1848": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "Wallace",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

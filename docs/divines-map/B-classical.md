@@ -1102,6 +1102,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | Thirteen Satires of Juvenal translated into English, new and revised edition (Macmillan, 1902) | Alexander Leeper | `juvenal-leeper-1902` | have-raw (IA `cu31924009519681`) |
 | A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
 | Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
+| The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
 
 
 ## Plautus and Terence
