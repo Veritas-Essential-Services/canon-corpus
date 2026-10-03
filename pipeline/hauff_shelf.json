@@ -1,0 +1,30 @@
+{
+ "_about": "Wilhelm Hauff's (1802-1827) fairy tales in two named translations: Tales of the Caravan, Inn, and Palace (tr. Edward L. Stowell) and Fairy Tales (tr. L. L. Weedon). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Wilhelm Hauff",
+ "_name_words": [
+  "caravan",
+  "inn",
+  "palace",
+  "fairy",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hauff-tales-of-the-caravan-inn-palace": [
+   32109,
+   "Tales of the Caravan, Inn, and Palace, tr. Edward L. Stowell"
+  ],
+  "hauff-fairy-tales-weedon": [
+   74947,
+   "Fairy Tales, tr. L. L. Weedon",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "hauff-unnamed": "The Little Glass Man and Other Stories (PG 45606): the Gutenberg header names Lina Eckenstein only as contributor; held back until the translator is confirmed",
+  "hauff-other": "The Oriental Story Book (24593), The Severed Hand (22664), The Wine-Ghosts of Bremen (32064), The Banished (32071): translator to be checked; candidates for a later batch"
+ }
+}

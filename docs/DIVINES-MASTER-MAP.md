@@ -4587,6 +4587,17 @@ Shelf: `pipeline/laboulaye_shelf.json` (2026-10-02; added at the coordinator's r
 |---|---|---|
 | Laboulaye's Fairy Book, tr. Mary L. Booth | have | PG 26386, `laboulaye-fairy-book` (1111 units) |
 
+## Wilhelm Hauff
+
+Shelf: `pipeline/hauff_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His fairy tales in two named translations. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales of the Caravan, Inn, and Palace, tr. Edward L. Stowell | have | PG 32109, `hauff-tales-of-the-caravan-inn-palace` (1613 units) |
+| Fairy Tales, tr. L. L. Weedon | have | PG 74947, `hauff-fairy-tales-weedon` (1513 units) |
+| hauff-unnamed | excluded | The Little Glass Man and Other Stories (PG 45606): the Gutenberg header names Lina Eckenstein only as contributor; held back until the translator is confirmed |
+| hauff-other | excluded | The Oriental Story Book (24593), The Severed Hand (22664), The Wine-Ghosts of Bremen (32064), The Banished (32071): translator to be checked; candidates for a later batch |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
