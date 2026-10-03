@@ -1280,6 +1280,7 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749) | Gilbert West (verse; selected odes) | `pindar-west-1749` | have-raw (IA `bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749`) |
 | The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
 | The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868) | F. A. Paley | `pindar-paley-1868` | have-raw (IA `bub_gb_z9lUAAAAcAAJ`) |
+| Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830) | C. A. Wheelwright | `pindar-wheelwright-1830` | have-raw (IA `pindartrbycawhe00pindgoog`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 

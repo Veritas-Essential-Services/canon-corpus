@@ -39,6 +39,11 @@
    "pindarinenglish00carygoog",
    "Pindar in English Verse (London: Edward Moxon; IA records 1833)",
    "tr. Henry Francis Cary"
+  ],
+  "pindar-wheelwright-1830": [
+   "pindartrbycawhe00pindgoog",
+   "Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830)",
+   "tr. C. A. Wheelwright"
   ]
  },
  "_cross_ref": {
@@ -55,7 +60,8 @@
  ],
  "_translators": {
   "pindar-myers": "Ernest Myers",
-  "pindar-turner-moore": "Dawson W. Turner"
+  "pindar-turner-moore": "Dawson W. Turner",
+  "pindar-wheelwright-1830": "C. A. Wheelwright"
  },
  "_translator_unchecked": {
   "pindar-west-1749": "the long-s OCR never prints Gilbert West's name; 'west' alone is a common word and proves nothing",
@@ -130,6 +136,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1833",
    "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-wheelwright-1830": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "C. A. Wheelwright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
