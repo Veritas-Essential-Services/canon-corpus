@@ -48,7 +48,7 @@
   ],
   "anacreon-arnold-1869": [
    "anacreoninengli00anacgoog",
-   "Anacreon in English, attempted in the metres of the original (undated; IA gives 1869)",
+   "Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869)",
    "tr. Thomas James Arnold"
   ]
  },
@@ -76,7 +76,7 @@
   "greek-anthology-burges-1854": "George Burges",
   "anacreon-fawkes-1760": "Fawkes",
   "anacreon-girdlestone-1804": "Girdlestone",
-  "anacreon-arnold-1869": "Arnold"
+  "anacreon-arnold-1869": "thomas james arnold"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -171,7 +171,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "anacreon",
-   "translator_claimed": "Arnold",
+   "translator_claimed": "thomas james arnold",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1869",

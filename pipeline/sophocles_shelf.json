@@ -78,7 +78,7 @@
   ],
   "sophocles-plaistowe-philoctetes": [
    "sophoclesphiloct00soph",
-   "Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892])",
+   "Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated title page; the publisher's list bound in is dated July 1898 and no year after 1899 appears in the book; catalogue [1892])",
    "tr. F. G. Plaistowe"
   ],
   "sophocles-oxford-prose-1886": [
@@ -130,7 +130,7 @@
   "sophocles-trevelyan-ajax-1919": "Trevelyan",
   "sophocles-plaistowe-philoctetes": "Plaistowe",
   "sophocles-morshead-ajax-1895": "Morshead",
-  "sophocles-coleridge-prose-1905": "Coleridge"
+  "sophocles-coleridge-prose-1905": "edward p. coleridge"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -340,7 +340,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "Coleridge",
+   "translator_claimed": "edward p. coleridge",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1905",
