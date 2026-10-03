@@ -635,7 +635,8 @@ check("reopen: an opener naming a chapter is not reopened", B.reopen("keil-delit
 check("reopen: only the volumes that ask for it", B.reopen("delitzsch-psalms-1", nt, "Jer.", d, 22, None) is None)
 
 check("K&D 4c: twelve volumes, each in ORDER after the earlier K&D", len(B.KD4C) == 12
-      and B.ORDER.index(next(iter(B.KD4C))) > max(B.ORDER.index(k) for k in B.SECOND if k not in B.KD4C))
+      and B.ORDER.index(next(iter(B.KD4C))) > max(B.ORDER.index(k) for k in B.SECOND
+                                                     if k not in B.KD4C and k.startswith(("keil-", "delitzsch-"))))
 check("K&D 4c: every volume says why its scan was chosen, and reads its rights field",
       all(s.get("scan_choice") and "ia_rights" in s for s in B.KD4C.values()))
 check("K&D 4c: a volume continuing a book starts at its chapter (Jer 30, Ezek 29)",
