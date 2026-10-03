@@ -2114,7 +2114,7 @@ Shelf: `pipeline/hermetica_shelf.json`. New shelf 2026-10-03: Chambers's transla
 | Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. II: Sermons (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v2` | have-raw (IA `thricegreatesthe02hermuoft`) |
 | Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v3` | have-raw (IA `thricegreatesthe03hermuoft`) |
 
-Pending (wishlist): Walter Scott's Hermetica, vols. I-III (1924-26, US public domain by date; Greek and Latin text facing); not yet looked for.
+Excluded: Walter Scott's Hermetica (1924): the one translation volume prints the Greek and Latin facing and reads below the OCR bar; vols. II-III are commentary.
 
 ## Perseus census (overflow)
 

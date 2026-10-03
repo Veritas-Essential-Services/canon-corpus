@@ -111,5 +111,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_excluded": {
+  "Walter Scott, Hermetica (Clarendon, 1924-36)": "vol. I (1924, IA ScottHermeticaVolOne) is the only volume with the translation, and it prints the Greek and Latin texts facing; its OCR reads 0.761 clean words, below the lane's bar, mixed with Greek. Vols. II-III (1925-26) are commentary, vol. IV (1936) not public domain. Not taken"
  }
 }
