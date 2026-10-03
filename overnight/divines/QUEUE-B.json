@@ -524,6 +524,14 @@
    "started": "2026-10-03T01:13:11-05:00",
    "finished": "2026-10-03T01:15:00-05:00",
    "notes": "Cookson's Everyman Aeschylus not taken (introduction cites 1936)"
+  },
+  {
+   "id": "pindar-paley-banks-hesiod",
+   "status": "done",
+   "scope": "Paley's Pindar (1868); Banks's Bohn Hesiod, Callimachus and Theognis (1856) with Elton, Tytler and Frere appended",
+   "started": "2026-10-03T01:15:00-05:00",
+   "finished": "2026-10-03T01:16:31-05:00",
+   "notes": "Tytler 1793 (0.767) and Polwhele (0.68) refused; Tytler's verse is in the Banks volume"
   }
  ]
 }

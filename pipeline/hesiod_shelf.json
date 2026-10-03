@@ -33,6 +33,11 @@
    "hesiodpoemsandf01mairgoog",
    "Hesiod: the Poems and Fragments done into English Prose (Oxford: Clarendon Press, 1908)",
    "tr. A. W. Mair"
+  ],
+  "hesiod-banks-bohn-1856": [
+   "workshesiodcall01frergoog",
+   "The Works of Hesiod, Callimachus, and Theognis, literally translated into English prose, with the metrical translations of Elton, Tytler and Frere appended (Bohn's Classical Library, MDCCCLVI)",
+   "tr. J. Banks (prose); verse by Charles Abraham Elton, James Tytler and John Hookham Frere"
   ]
  },
  "_excluded": {
@@ -47,7 +52,8 @@
   "hesiod-elton": "Charles Abraham Elton",
   "hesiod-cooke-1728-v1": "Thomas Cooke",
   "hesiod-cooke-1728-v2": "Thomas Cooke",
-  "hesiod-mair-1908": "A. W. Mair"
+  "hesiod-mair-1908": "A. W. Mair",
+  "hesiod-banks-bohn-1856": "J. Banks"
  },
  "_checks": {
   "hesiod-evelyn-white": {
@@ -113,6 +119,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1908",
    "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hesiod-banks-bohn-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hesiod",
+   "translator_claimed": "J. Banks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

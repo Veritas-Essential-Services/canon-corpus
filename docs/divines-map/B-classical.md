@@ -160,6 +160,7 @@ Shelf: `pipeline/hesiod_shelf.json`. Hugh G. Evelyn-White, prose (Loeb, 1914), P
 | The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 1 | Thomas Cooke ('Mr. Cooke' on the title page) | `hesiod-cooke-1728-v1` | have-raw (IA `bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_1`) |
 | The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 2 | Thomas Cooke ('Mr. Cooke' on the title page) | `hesiod-cooke-1728-v2` | have-raw (IA `bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_2`) |
 | Hesiod: the Poems and Fragments done into English Prose (Oxford: Clarendon Press, 1908) | A. W. Mair | `hesiod-mair-1908` | have-raw (IA `hesiodpoemsandf01mairgoog`) |
+| The Works of Hesiod, Callimachus, and Theognis, literally translated into English prose, with the metrical translations of Elton, Tytler and Frere appended (Bohn's Classical Library, MDCCCLVI) | J. Banks (prose); verse by Charles Abraham Elton, James Tytler and John Hookham Frere | `hesiod-banks-bohn-1856` | have-raw (IA `workshesiodcall01frergoog`) |
 
 Pending (wishlist): When a Homer section exists, the Homeric Hymns in this volume should be cross-referenced from it, not refetched.
 
@@ -1184,6 +1185,7 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | Pindar in English Verse (London: Edward Moxon, 1833) | Henry Francis Cary | `pindar-cary-1833` | held elsewhere: IA pindarinenglish00carygoog is already held on pipeline/cary_shelf.json (lane C) as cary-pindar |
 | Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749) | Gilbert West (verse; selected odes) | `pindar-west-1749` | have-raw (IA `bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749`) |
 | The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
+| The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868) | F. A. Paley | `pindar-paley-1868` | have-raw (IA `bub_gb_z9lUAAAAcAAJ`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 

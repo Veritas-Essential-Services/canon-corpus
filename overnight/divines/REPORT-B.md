@@ -301,3 +301,8 @@
 - Aeschylus: Campbell's prose Oresteia (1893; 0.92); Walter and C. E. S. Headlam's prose Plays (Bell, 1909; 0.82); Warr's Oresteia (George Allen, 1900; 0.88).
 - Not taken: Cookson's Everyman Aeschylus (the scan's introduction cites a 1936 book).
 - Correction: the Palmer Odyssey row named a Boston publisher not read from the file; it now gives only the preface date the title page shows.
+
+## 2026-10-03 01:16 CDT — Pindar and the Bohn Hesiod
+- Paley's prose Odes of Pindar (1868; OCR 0.88; translator unchecked, OCR reads 'PA LET').
+- Banks's Bohn Works of Hesiod, Callimachus and Theognis (1856; OCR 0.84), with the verse of Elton (Hesiod), Tytler (Callimachus) and Frere (Theognis) appended, which answers the Tytler wishlist line.
+- Refused on OCR: Tytler's 1793 Callimachus (0.767, just under the bar), Polwhele's Theocritus (0.68).

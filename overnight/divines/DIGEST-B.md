@@ -104,3 +104,4 @@
 - **Plato and Lucian (01:12):** Whewell's three-volume Plato for English readers, the Davies-Vaughan and Spens Republics, and Tooke's two-volume Lucian.
 - **Xenophon's Minor Works (01:13):** the 1813 'several hands' volume (Welwood's Banquet, Bradley's Economics, and an unsigned Memoirs of Socrates).
 - **Greek tragedy (01:15):** Whitelaw's and Dale's Sophocles; Campbell's, the Headlams' and Warr's Aeschylus.
+- **Pindar and the Bohn Hesiod (01:16):** Paley's Pindar, and Banks's Hesiod-Callimachus-Theognis volume, which brings Tytler's Callimachus in by the back door.
