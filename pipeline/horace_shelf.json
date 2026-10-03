@@ -164,6 +164,11 @@
    "lyricworksofhora00horarich",
    "The Lyric Works of Horace, translated into English verse, to which are added a number of original poems, by a Native of America (Philadelphia: Eleazer Oswald, 1786)",
    "tr. anonymous ('a Native of America')"
+  ],
+  "horace-jones-odes-i-ii-1865": [
+   "iiibooksofodesof00hora",
+   "The I. and II. Books of the Odes of Horace, translated into English verse, with the Carmen Saeculare and appendix (London, 1865)",
+   "tr. Hugo Nicholas Jones"
   ]
  },
  "_cross_ref": {
@@ -209,7 +214,8 @@
   "horace-obrien-odes-i-1860": "O'Brien",
   "horace-phelps-odes-1897": "philip e. phelps",
   "horace-sargent-echoes-1893": "mr. sargent",
-  "horace-coutts-pollock-icarian-1920": "francis coutts"
+  "horace-coutts-pollock-icarian-1920": "francis coutts",
+  "horace-jones-odes-i-ii-1865": "hugo nicholas jones"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -606,6 +612,19 @@
    "ia_rights": "ok: published 1786",
    "ia_date": "M,DCC,LXXXVI. [1786]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-jones-odes-i-ii-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "translator_claimed": "hugo nicholas jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
