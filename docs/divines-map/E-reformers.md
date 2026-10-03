@@ -231,6 +231,9 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Christoffel, Zwingli, or the Rise of the Reformation in Switzerland, tr. Cochran (1858) | have-raw | `christoffel_shelf.json`; translator checked |
 | Lechler, John Wycliffe and his English Precursors, tr. Lorimer (RTS, 1884) | have-raw | `lechler_shelf.json`; translator checked |
 | Smiles, The Huguenots in England and Ireland (1868); The Huguenots in France (1873) | have-raw | `samuel-smiles_shelf.json` |
+| Agnew, Protestant Exiles from France, 3rd ed. (2 vols, 1886) | have-raw | `agnew_shelf.json` |
+| Browning, A History of the Huguenots, 3rd ed. (1842) | have-raw | `w-s-browning_shelf.json` |
+| Félice, History of the Protestants of France, tr. Barnes (1853) | have-raw | `felice_shelf.json`, Google scan; translator not checkable in the OCR |
 
 ## Confessions and creeds
 
