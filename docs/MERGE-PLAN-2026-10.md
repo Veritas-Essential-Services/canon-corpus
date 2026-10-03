@@ -105,6 +105,29 @@ book manifest at #7; with #10 first, #7's only conflict is `CLAUDE.md`. Fixes
    (`git checkout --ours data/books/manifest.json`). Merging #8's head into
    #10 first does not avoid the conflict (a reviewer tried it).
 
+## The full merge rehearsal (2026-10-03)
+
+The build-check thread merged every branch in this order and ran every test:
+`docs/MERGE-REHEARSAL.md` on branch `claude/project-thread-kcowfu`. All suites
+green. Two findings that a plain merge does not show:
+
+1. **Josephus *Life* has two builders (#7 and #8), and git doubles its
+   catalogue entry without a conflict.** #7 adds `josephus-life-whiston` to
+   `PERSEUS` (built by `structure_texts.py` as a generic Perseus book); #8
+   builds the same slug in `build_josephus.py`, aligned to Niese. After
+   merging #7, `data/books/manifest.json` holds the key **twice**; Python's
+   `json` silently keeps the last one, so every test still passes.
+   **Fix when merging #7:** load and re-save the manifest so it holds one
+   entry, #8's; then give the slug one owner. The rehearsal suggests dropping
+   it from #7's `PERSEUS` (a guess, not checked), since `build_josephus.py`
+   is the aligned build. Otherwise a full `structure_texts.py` run overwrites
+   #8's entry.
+2. **`build_parallel_index.py --check` crashed on the old Greek NT layout**
+   (`data/nt/witnesses.jsonl`, gone since #8 moved the NT to one folder per
+   book). #9's db5f5a9 now reads both layouts; the rehearsal ran at older
+   heads. Re-run the gate after step 4b; #11 needs #9's fix merged in if its
+   head still crashes.
+
 ## Tests and gates on the merged tree
 
 Passing: 18 test suites, each with 0 failures:
