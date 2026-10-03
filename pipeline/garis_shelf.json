@@ -1,0 +1,556 @@
+{
+ "_about": "Howard R. Garis's (1873-1962) Uncle Wiggily books and Bed Time Stories animal series, first printed as newspaper bedtime stories. The fourteen Charles E. Graham and A. L. Burt picture pamphlets hold one to three stories each and print their titles only in the pictures, so they are cited by running paragraph. Dated by their title pages or Gutenberg's Original publication line, 1910 to 1926; Curly and Floppy Twistytail, Umboo, Buddy and Brighteyes Pigg and Neddie and Beckie Stubtail are undated in the text, and Gutenberg cleared them as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Howard R. Garis",
+ "_name_words": [
+  "garis"
+ ],
+ "_surname": [
+  "garis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "garis-curly-and-floppy-twistytail": [
+   5262,
+   "Curly and Floppy Twistytail (The Funny Piggie Boys)",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-umboo-the-elephant": [
+   5900,
+   "Umboo, the Elephant",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-buddy-and-brighteyes-pigg": [
+   11156,
+   "Buddy and Brighteyes Pigg: Bed Time Stories"
+  ],
+  "garis-sammie-and-susie-littletail": [
+   13087,
+   "Sammie and Susie Littletail",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-lulu-alice-and-jimmie-wibblewobble": [
+   15280,
+   "Lulu, Alice and Jimmie Wibblewobble"
+  ],
+  "garis-uncle-wiggilys-adventures": [
+   15281,
+   "Uncle Wiggily's Adventures"
+  ],
+  "garis-uncle-wiggilys-travels": [
+   15282,
+   "Uncle Wiggily's Travels",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-uncle-wiggily-in-the-woods": [
+   17807,
+   "Uncle Wiggily in the Woods",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-bully-and-bawly-no-tail": [
+   18599,
+   "Bully and Bawly No-Tail (the Jumping Frogs)",
+   {
+    "levels": [
+     {
+      "re": "STORY [IVXL]+$",
+      "title_next": true
+     }
+    ]
+   }
+  ],
+  "garis-jacko-and-jumpo-kinkytail": [
+   32334,
+   "Jacko and Jumpo Kinkytail (The Funny Monkey Boys)",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-uncle-wiggily-in-wonderland": [
+   42574,
+   "Uncle Wiggily in Wonderland",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-uncle-wiggilys-fortune": [
+   54995,
+   "Uncle Wiggily's Fortune"
+  ],
+  "garis-uncle-wiggilys-automobile": [
+   60017,
+   "Uncle Wiggily's Automobile"
+  ],
+  "garis-neddie-and-beckie-stubtail": [
+   61082,
+   "Neddie and Beckie Stubtail (Two Nice Bears) Bedtime Stories"
+  ],
+  "garis-toodle-and-noodle-flat-tail": [
+   67990,
+   "Toodle and Noodle Flat-tail: The Jolly Beaver Boys"
+  ],
+  "garis-uncle-wiggily-and-mother-goose": [
+   69458,
+   "Uncle Wiggily and Mother Goose Complete in two parts; fifty-two stories—one for each week of the year"
+  ],
+  "garis-uncle-wiggilys-airship": [
+   70295,
+   "Uncle Wiggily's Airship",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-adventures-of-the-runaway-rocking-chair": [
+   71213,
+   "Adventures of the runaway rocking chair"
+  ],
+  "garis-uncle-wiggily-and-baby-bunty": [
+   73603,
+   "Uncle Wiggily and Baby Bunty"
+  ],
+  "garis-three-little-trippertrots-on-their-travels": [
+   75192,
+   "Three little Trippertrots on their travels",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-three-little-trippertrots": [
+   75474,
+   "Three little Trippertrots",
+   {
+    "contents_only": true
+   }
+  ],
+  "garis-uncle-wiggilys-auto-sled": [
+   50405,
+   "Uncle Wiggily's Auto Sled or, How Mr. Hedgehog Helped Him Get Up the Slippery Hill; and, How Uncle Wiggily Made a Snow Pudding. Also, What Happened in the Snow Fort",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggilys-squirt-gun": [
+   56950,
+   "Uncle Wiggily's Squirt Gun; Or, Jack Frost Icicle Maker And, Uncle Wiggily's Queer Umbrellas, also, Uncle Wiggily's Lemonade Stand",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggily-on-the-flying-rug": [
+   61671,
+   "Uncle Wiggily on The Flying Rug; Or, The Great Adventure on a Windy March Day",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggily-and-the-pirates": [
+   61695,
+   "Uncle Wiggily and the Pirates; Or, How the Enemy Craft of Pirate Fox was Sunk",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggily-goes-swimming": [
+   61735,
+   "Uncle Wiggily Goes Swimming; Or, How the Frog Boys Surprised the Fox",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggily-on-roller-skates": [
+   70017,
+   "Uncle Wiggily on roller skates",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggilys-june-bug-friends": [
+   70627,
+   "Uncle Wiggily's June Bug friends",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggilys-funny-auto": [
+   70783,
+   "Uncle Wiggily's funny auto",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-adventures-of-uncle-wiggily": [
+   71185,
+   "The adventures of Uncle Wiggily, the bunny rabbit gentleman with the twinkling pink nose",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-second-adventures-of-uncle-wiggily": [
+   71515,
+   "The second adventures of Uncle Wiggily",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggily-on-the-farm": [
+   71594,
+   "Uncle Wiggily on the farm",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggilys-silk-hat": [
+   72607,
+   "Uncle Wiggily's silk hat",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggilys-fishing-trip": [
+   72612,
+   "Uncle Wiggily's fishing trip",
+   {
+    "chapre_only": "(?!)"
+   }
+  ],
+  "garis-uncle-wiggilys-rolling-hoop": [
+   72746,
+   "Uncle Wiggily's rolling hoop",
+   {
+    "chapre_only": "(?!)"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "garis-uncle-wiggilys-story-book": "PG 60625, Uncle Wiggily's Story Book: its copyright line reads MCMXXI and MCMXXXIX (1921 and 1939). The 1939 printing may carry material first published that year, so it is held back for Adam rather than added on Gutenberg's clearance alone.",
+  "garis-series-fiction": "Dick Hamilton, the Curlytops, Larry Dexter, Rick and Ruddy, Teddy, the Smith Boys, the Camp Fire Girls and the Daddy books are series fiction, not story-telling; left out of this shelf.",
+  "garis-uncle-wiggily-and-old-mother-hubbard": "PG 23213, Uncle Wiggily and Old Mother Hubbard Adventures of the Rabbit Gentleman with the Mother Goose Characters (1922): 97% of its long paragraphs are in Uncle Wiggily and Mother Goose (PG 69458, Fenno 1916), held here. Held once."
+ },
+ "_checks": {
+  "garis-curly-and-floppy-twistytail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-umboo-the-elephant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-buddy-and-brighteyes-pigg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-sammie-and-susie-littletail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-lulu-alice-and-jimmie-wibblewobble": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-in-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-bully-and-bawly-no-tail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-jacko-and-jumpo-kinkytail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-in-wonderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-automobile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-neddie-and-beckie-stubtail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-toodle-and-noodle-flat-tail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-and-mother-goose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-airship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-adventures-of-the-runaway-rocking-chair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-and-baby-bunty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-three-little-trippertrots-on-their-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-three-little-trippertrots": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-auto-sled": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-squirt-gun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-on-the-flying-rug": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-and-the-pirates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-goes-swimming": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-on-roller-skates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-june-bug-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-funny-auto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-adventures-of-uncle-wiggily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-second-adventures-of-uncle-wiggily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggily-on-the-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-silk-hat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-fishing-trip": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "garis-uncle-wiggilys-rolling-hoop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "garis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

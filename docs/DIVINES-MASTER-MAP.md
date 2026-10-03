@@ -5438,6 +5438,51 @@ Shelf: `pipeline/sara-bryant_shelf.json` (2026-10-02; added at the coordinator's
 | Stories to Tell Children | have | PG 16693, `sara-bryant-stories-to-tell-children` (1301 units) |
 | sara-bryant-stories-to-tell-to-children-473 | excluded | PG 473, an undated transcription (1996) of Stories to Tell to Children. PG 16693 is the same work from the London: Harrap 1918 printing, proofread. Paragraph-start containment 68% one way, 65% the other, so the two differ in text or paragraphing (the opening stories differ, e.g. The Little Pink Rose against The Little Yellow Tulip). Held once (PG 16693, the dated printing); if both are wanted, they are two witnesses of one work. |
 
+## Howard R. Garis
+
+Shelf: `pipeline/garis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Uncle Wiggily books and the Bed Time Stories animal series, from his newspaper bedtime stories, and the small Uncle Wiggily picture pamphlets. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Curly and Floppy Twistytail (The Funny Piggie Boys) | have | PG 5262, `garis-curly-and-floppy-twistytail` (1207 units) |
+| Umboo, the Elephant | have | PG 5900, `garis-umboo-the-elephant` (886 units) |
+| Buddy and Brighteyes Pigg: Bed Time Stories | have | PG 11156, `garis-buddy-and-brighteyes-pigg` (970 units) |
+| Sammie and Susie Littletail | have | PG 13087, `garis-sammie-and-susie-littletail` (865 units) |
+| Lulu, Alice and Jimmie Wibblewobble | have | PG 15280, `garis-lulu-alice-and-jimmie-wibblewobble` (1024 units) |
+| Uncle Wiggily's Adventures | have | PG 15281, `garis-uncle-wiggilys-adventures` (1084 units) |
+| Uncle Wiggily's Travels | have | PG 15282, `garis-uncle-wiggilys-travels` (1321 units) |
+| Uncle Wiggily in the Woods | have | PG 17807, `garis-uncle-wiggily-in-the-woods` (1266 units) |
+| Bully and Bawly No-Tail (the Jumping Frogs) | have | PG 18599, `garis-bully-and-bawly-no-tail` (1140 units) |
+| Jacko and Jumpo Kinkytail (The Funny Monkey Boys) | have | PG 32334, `garis-jacko-and-jumpo-kinkytail` (1235 units) |
+| Uncle Wiggily in Wonderland | have | PG 42574, `garis-uncle-wiggily-in-wonderland` (1185 units) |
+| Uncle Wiggily's Fortune | have | PG 54995, `garis-uncle-wiggilys-fortune` (1185 units) |
+| Uncle Wiggily's Automobile | have | PG 60017, `garis-uncle-wiggilys-automobile` (748 units) |
+| Neddie and Beckie Stubtail (Two Nice Bears) Bedtime Stories | have | PG 61082, `garis-neddie-and-beckie-stubtail` (1613 units) |
+| Toodle and Noodle Flat-tail: The Jolly Beaver Boys | have | PG 67990, `garis-toodle-and-noodle-flat-tail` (1451 units) |
+| Uncle Wiggily and Mother Goose Complete in two parts; fifty-two stories—one for each week of the year | have | PG 69458, `garis-uncle-wiggily-and-mother-goose` (2138 units) |
+| Uncle Wiggily's Airship | have | PG 70295, `garis-uncle-wiggilys-airship` (1324 units) |
+| Adventures of the runaway rocking chair | have | PG 71213, `garis-adventures-of-the-runaway-rocking-chair` (732 units) |
+| Uncle Wiggily and Baby Bunty | have | PG 73603, `garis-uncle-wiggily-and-baby-bunty` (810 units) |
+| Three little Trippertrots on their travels | have | PG 75192, `garis-three-little-trippertrots-on-their-travels` (1376 units) |
+| Three little Trippertrots | have | PG 75474, `garis-three-little-trippertrots` (1452 units) |
+| Uncle Wiggily's Auto Sled or, How Mr. Hedgehog Helped Him Get Up the Slippery Hill; and, How Uncle Wiggily Made a Snow Pudding. Also, What Happened in the Snow Fort | have | PG 50405, `garis-uncle-wiggilys-auto-sled` (97 units) |
+| Uncle Wiggily's Squirt Gun; Or, Jack Frost Icicle Maker And, Uncle Wiggily's Queer Umbrellas, also, Uncle Wiggily's Lemonade Stand | have | PG 56950, `garis-uncle-wiggilys-squirt-gun` (90 units) |
+| Uncle Wiggily on The Flying Rug; Or, The Great Adventure on a Windy March Day | have | PG 61671, `garis-uncle-wiggily-on-the-flying-rug` (66 units) |
+| Uncle Wiggily and the Pirates; Or, How the Enemy Craft of Pirate Fox was Sunk | have | PG 61695, `garis-uncle-wiggily-and-the-pirates` (61 units) |
+| Uncle Wiggily Goes Swimming; Or, How the Frog Boys Surprised the Fox | have | PG 61735, `garis-uncle-wiggily-goes-swimming` (61 units) |
+| Uncle Wiggily on roller skates | have | PG 70017, `garis-uncle-wiggily-on-roller-skates` (87 units) |
+| Uncle Wiggily's June Bug friends | have | PG 70627, `garis-uncle-wiggilys-june-bug-friends` (87 units) |
+| Uncle Wiggily's funny auto | have | PG 70783, `garis-uncle-wiggilys-funny-auto` (89 units) |
+| The adventures of Uncle Wiggily, the bunny rabbit gentleman with the twinkling pink nose | have | PG 71185, `garis-adventures-of-uncle-wiggily` (72 units) |
+| The second adventures of Uncle Wiggily | have | PG 71515, `garis-second-adventures-of-uncle-wiggily` (75 units) |
+| Uncle Wiggily on the farm | have | PG 71594, `garis-uncle-wiggily-on-the-farm` (90 units) |
+| Uncle Wiggily's silk hat | have | PG 72607, `garis-uncle-wiggilys-silk-hat` (105 units) |
+| Uncle Wiggily's fishing trip | have | PG 72612, `garis-uncle-wiggilys-fishing-trip` (114 units) |
+| Uncle Wiggily's rolling hoop | have | PG 72746, `garis-uncle-wiggilys-rolling-hoop` (120 units) |
+| garis-uncle-wiggilys-story-book | excluded | PG 60625, Uncle Wiggily's Story Book: its copyright line reads MCMXXI and MCMXXXIX (1921 and 1939). The 1939 printing may carry material first published that year, so it is held back for Adam rather than added on Gutenberg's clearance alone. |
+| garis-series-fiction | excluded | Dick Hamilton, the Curlytops, Larry Dexter, Rick and Ruddy, Teddy, the Smith Boys, the Camp Fire Girls and the Daddy books are series fiction, not story-telling; left out of this shelf. |
+| garis-uncle-wiggily-and-old-mother-hubbard | excluded | PG 23213, Uncle Wiggily and Old Mother Hubbard Adventures of the Rabbit Gentleman with the Mother Goose Characters (1922): 97% of its long paragraphs are in Uncle Wiggily and Mother Goose (PG 69458, Fenno 1916), held here. Held once. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

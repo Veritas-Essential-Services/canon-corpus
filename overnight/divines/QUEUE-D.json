@@ -931,7 +931,7 @@
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: coolidge; no minting",
       "status": "done",
       "started": "2026-10-02T20:58:04-05:00",
-      "finished": "2026-10-02T21:16:26-05:00",
+      "finished": "2026-10-02T21:03:58-05:00",
       "notes": "9/9 fetched (Gutenberg 8994, 5141, 8995, 15798, 28724, 27678, 27223, 35186, 58762), 8,508 units, 10 ~2 ids."
     },
     {
@@ -1053,6 +1053,44 @@
       "started": "2026-10-02T21:10:00-05:00",
       "finished": "2026-10-02T21:10:22-05:00",
       "notes": "2/2 fetched (Gutenberg 474, 16693), 2,398 units, 6 ~2 ids."
+    },
+    {
+      "id": "garis",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: garis; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:23:39-05:00",
+      "finished": "2026-10-02T21:23:39-05:00",
+      "notes": "35/35 fetched (Gutenberg 5262, 5900, 11156, 13087, 15280, 15281, 15282, 17807, 18599, 32334, 42574, 54995, 60017, 61082, 67990, 69458, 70295, 71213, 73603, 75192, 75474, 50405, 56950, 61671, 61695, 61735, 70017, 70627, 70783, 71185, 71515, 71594, 72607, 72612, 72746), 26,226 units, 14 ~2 ids."
+    },
+    {
+      "id": "keary",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: keary; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:23:39-05:00"
+    },
+    {
+      "id": "jean-lang",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: jean-lang; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:23:39-05:00"
+    },
+    {
+      "id": "francillon",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: francillon; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:23:39-05:00"
+    },
+    {
+      "id": "ouida",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: ouida; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:23:39-05:00"
+    },
+    {
+      "id": "stratton-porter",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: stratton-porter; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:23:39-05:00"
     }
   ]
 }
