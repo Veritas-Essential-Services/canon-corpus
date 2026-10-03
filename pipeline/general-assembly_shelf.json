@@ -1,0 +1,100 @@
+{
+ "_about": "The records of the General Assembly of the Church of Scotland: the Acts and Proceedings from 1560 to 1618, the 'Booke of the Universall Kirk', in the Bannatyne Club's edition, printed under the superintendence of its President, Thomas Thomson (Edinburgh, 1839-1845, 3 parts); Alexander Peterkin's Records of the Kirk of Scotland, the Assemblies from 1638 (Edinburgh, 1838, vol. 1, the only one published); and the Church Law Society's Acts of the General Assembly 1638-1842 (Edinburgh, 1843). Records, not authored works: the name check looks for 'General Assembly'. Much of 1560-1618 is in older Scots spelling, so the OCR's share of common English words runs low. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "general assembly",
+  "general assemblies"
+ ],
+ "_surname": [
+  "general assembly",
+  "general assemblies"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "booke-universall-kirk-1": [
+   "actsproceedingso01chur",
+   "Acts and Proceedings of the General Assemblies of the Kirk of Scotland, part 1, 1560-1577 (Edinburgh: Bannatyne Club, 1839)"
+  ],
+  "booke-universall-kirk-2": [
+   "actsproceedingso02chur",
+   "Acts and Proceedings of the General Assemblies of the Kirk of Scotland, part 2, 1578-1592 (Edinburgh: Bannatyne Club, 1840)"
+  ],
+  "booke-universall-kirk-3": [
+   "actsproceedingso03chur",
+   "Acts and Proceedings of the General Assemblies of the Kirk of Scotland, part 3, 1593-1618 (Edinburgh: Bannatyne Club, 1845)"
+  ],
+  "peterkin-records-of-the-kirk-1": [
+   "recordsofkirkofs00chur",
+   "Records of the Kirk of Scotland, containing the Acts and Proceedings of the General Assemblies from 1638, ed. Alexander Peterkin, vol. 1 (Edinburgh: Sutherland, 1838)"
+  ],
+  "acts-general-assembly-1638-1842": [
+   "actsofgeneralass00chur",
+   "Acts of the General Assembly of the Church of Scotland, 1638-1842 (Edinburgh: Church Law Society, 1843)"
+  ]
+ },
+ "_alternates": {
+  "bookeofuniversal00chur (Peterkin's one-volume Booke, 1839)": "Peterkin's abridged edition of the same 1560-1618 record; the club edition is fuller.",
+  "bookeofuniversal01/02scot, thebookeoftheuni00unknuoft, actsproceedingso00bann, actsandproceedi00..03assegoog": "Other copies of the club edition.",
+  "cu31924029475914": "Another copy of Peterkin's Records."
+ },
+ "_excluded": {
+  "ActsOfTheGeneralAssemblyOfTheChur": "A user-uploaded PDF of the 1843 Acts with no provenance; the Princeton scan is shelved."
+ },
+ "_checks": {
+  "booke-universall-kirk-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "general assemblies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "booke-universall-kirk-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "general assemblies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "booke-universall-kirk-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "general assembly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peterkin-records-of-the-kirk-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "general assembly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "acts-general-assembly-1638-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "general assembly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

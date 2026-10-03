@@ -113,7 +113,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 
 | Work | Status | Where |
 |---|---|---|
-| Spottiswoode, History of the Church of Scotland, ed. Russell and Napier (Spottiswoode Society, 3 vols, 1847-1851) | have-raw | `spottiswoode_shelf.json`, NLS set |
+| Spottiswoode, History of the Church of Scotland, ed. Russell and Napier (Spottiswoode Society, 3 vols, 1847-1851) | have-raw | `spottiswoode_shelf.json`, Princeton copies (1851 issue); the NLS copies carry CC BY-NC-SA, so they are alternates |
 | Baillie, Letters and Journals 1637-1662, ed. Laing (Bannatyne Club, 3 vols, 1841-1842) | have-raw | `robert-baillie_shelf.json` |
 | Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
 | Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
@@ -123,6 +123,9 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Wodrow's Analecta (Maitland Club, 4 vols, 1842-43) | have-raw | `robert-wodrow_shelf.json` |
 | Wodrow's Collections upon the Lives of the Reformers (Maitland Club, 2 vols, 1834-45) | have-raw | `robert-wodrow_shelf.json`; National Library of Scotland scans, CC BY-NC-SA on the digital copy (noted, not ruled on) |
 | Kirkton's Life of John Welsh | pending | not yet searched |
+| Acts and Proceedings of the General Assemblies 1560-1618, the 'Booke of the Universall Kirk' (Bannatyne Club, 3 parts, 1839-1845) | have-raw | `general-assembly_shelf.json` |
+| Peterkin, Records of the Kirk of Scotland, the Assemblies from 1638 (vol. 1, 1838) | have-raw | `general-assembly_shelf.json` |
+| Acts of the General Assembly of the Church of Scotland 1638-1842 (Church Law Society, 1843) | have-raw | `general-assembly_shelf.json` |
 
 ## The Westminster Assembly
 
