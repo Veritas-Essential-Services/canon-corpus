@@ -107,6 +107,8 @@ Shelf: `pipeline/hesiod_shelf.json`. Hugh G. Evelyn-White, prose (Loeb, 1914), P
 |---|---|---|---|
 | Works and Days; Theogony; Shield of Heracles; Catalogues of Women and other fragments; with the Homeric Hymns, Epigrams, Contest of Homer and Hesiod, and Homerica (one volume) | Evelyn-White | `hesiod-evelyn-white` | have (PG 348) |
 | The Remains of Hesiod the Ascraean, Including the Shield of Hercules | Charles Abraham Elton (with George Chapman's Works and Days) | `hesiod-elton` | have (PG 66350) |
+| The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 1 | Thomas Cooke ('Mr. Cooke' on the title page) | `hesiod-cooke-1728-v1` | have-raw (IA `bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_1`) |
+| The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 2 | Thomas Cooke ('Mr. Cooke' on the title page) | `hesiod-cooke-1728-v2` | have-raw (IA `bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_2`) |
 
 Pending (wishlist): When a Homer section exists, the Homeric Hymns in this volume should be cross-referenced from it, not refetched.
 
@@ -1434,6 +1436,7 @@ Shelf: `pipeline/statius_shelf.json`. Mozley Loeb 1928, 2 vols. (IA, 0.91-0.92; 
 |---|---|---|---|
 | Statius, vol. 1: Silvae, Thebaid I-IV (Loeb, 1928) | J. H. Mozley | `statius-mozley-v1` | have-raw (IA `statius01stat`) |
 | Statius, vol. 2: Thebaid V-XII, Achilleid (Loeb, 1928) | J. H. Mozley | `statius-mozley-v2` | have-raw (IA `statius02stat`) |
+| The Thebaid of Statius, translated into English verse, with notes and observations (Oxford, 1767), both volumes in one scan | William Lillington Lewis (not named on the title page; attributed in catalogues) | `statius-lewis-thebaid-1767` | have-raw (IA `thebaidstatius00conggoog`) |
 
 ## Claudian
 

@@ -18,7 +18,18 @@
    "tr. Charles Abraham Elton (with George Chapman's Works and Days)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hesiod-cooke-1728-v1": [
+   "bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_1",
+   "The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 1",
+   "tr. Thomas Cooke ('Mr. Cooke' on the title page)"
+  ],
+  "hesiod-cooke-1728-v2": [
+   "bim_eighteenth-century_the-works-of-hesiod-tran_hesiod_1728_2",
+   "The Works of Hesiod, translated from the Greek (London: N. Blandford, 1728), vol. 2",
+   "tr. Thomas Cooke ('Mr. Cooke' on the title page)"
+  ]
+ },
  "_excluded": {
   "pg66350": "The Remains of Hesiod the Ascraean (Elton, with Chapman's Works and Days): PD, other translators. Pending as an alternate verse witness",
   "Loeb 1914 scans on Internet Archive": "same translation with the Greek facing; Gutenberg's clean English preferred"
