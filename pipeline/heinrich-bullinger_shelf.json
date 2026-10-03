@@ -1,0 +1,91 @@
+{
+ "_about": "Heinrich Bullinger (1504-1575) of Zurich: the Decades, translated by 'H. I.' (1577) and edited by Thomas Harding for the Parker Society (4 vols, Cambridge 1849-1852). Named heinrich-bullinger so E. W. Bullinger cannot collide. Internet Archive OCR, raw; each title page read for which Decade it holds (Toronto's own volume numbers differ: its 02 is the Third Decade, 04 the Fourth, 05 the Fifth). The translator is credited only by initials, so no _translators entry. Bullinger's other English works are pending.",
+ "_name_words": [
+  "bullinger"
+ ],
+ "_surname": [
+  "bullinger"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bullinger-decades-1": [
+   "decadesofhenrybu00bulluoft",
+   "Decades of Henry Bullinger, First and Second Decades, tr. H. I., ed. Thomas Harding (Parker Society, Cambridge, 1849), vol. 1"
+  ],
+  "bullinger-decades-2": [
+   "decadesofhenrybu02bulluoft",
+   "Decades of Henry Bullinger, Third Decade, tr. H. I., ed. Thomas Harding (Parker Society, Cambridge, 1850), vol. 2"
+  ],
+  "bullinger-decades-3": [
+   "decadesofhenrybu04bulluoft",
+   "Decades of Henry Bullinger, Fourth Decade, tr. H. I., ed. Thomas Harding (Parker Society, Cambridge, 1851), vol. 3"
+  ],
+  "bullinger-decades-4": [
+   "decadesofhenrybu05bulluoft",
+   "Decades of Henry Bullinger, Fifth Decade, tr. H. I., ed. Thomas Harding (Parker Society, Cambridge, 1852), vol. 4"
+  ]
+ },
+ "_alternates": {
+  "decadesofhenrybu0102bull, decadesofhenrybu03bull, decadesofhenrybu04bull, decadesofhenrybu05bull": "Princeton copies of the same set.",
+  "decadesofhenrybu03bulluoft, bullingersdecade03bulluoft, thedecadesofhenr00bulluoft, decadesofbulling01bulluoft, decadesofbulling04bulluoft, decadesofbulling05bulluoft": "Other Toronto copies.",
+  "decadesofhenrybu0004revt_t6t5, decadesofhenrybu0010bull, decadesofhenrybu0008bull, decadesofhenrybu0009bull": "internetarchivebooks / Claremont copies.",
+  "decadeshenrybul0[0-8]britgoog": "Google scans."
+ },
+ "_pending": {
+  "Christian Prayers ... collected by Henry Bull (Parker Society 1842)": "Not Bullinger: 'Bull' is Henry Bull. Listed only to stop a future false match.",
+  "Bullinger's letters in the Zurich Letters (Parker Society, 2 series) and Original Letters": "Correspondence volumes, many writers; belong on a Parker Society miscellany shelf.",
+  "The Christen State of Matrimonye (Coverdale tr., 1541); A Hundred Sermons upon the Apocalypse (1561)": "Early English translations; not yet located as clean scans.",
+  "PG 22151, A Treatise of the Cohabitacyon of the Faithfull with the Unfaithfull (1555)": "Joint work of Vermigli and Bullinger; a mixed-author item, left for a Vermigli shelf to decide."
+ },
+ "_excluded": {
+  "ccel bullinger/apocalypse": "E. W. Bullinger (1837-1913), a different author.",
+  "bwb_* and *revt 1950/1968 reprints": "Lending-library scans of modern reprints."
+ },
+ "_checks": {
+  "bullinger-decades-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849-1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bullinger-decades-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849-52",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bullinger-decades-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849-1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bullinger-decades-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bullinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849-1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
