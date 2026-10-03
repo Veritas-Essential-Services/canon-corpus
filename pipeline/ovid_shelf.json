@@ -93,7 +93,7 @@
  },
  "_excluded": {
   "pg21920": "The Last Poems of Ovid (Akrigg): a COPYRIGHTED Project Gutenberg eBook (2006). Refused by the rights gate",
-  "Brookes More, Metamorphoses": "only Book I (1922) is on IA; the complete translation (1933, 1941) is not cleared. Pending",
+  "Brookes More, Metamorphoses": "now held from Perseus: ovid-perseus-more-metamorphoses, whose TEI source record gives Boston: Cornhill, 1922 (US public domain). The earlier note here, that only Book I appeared in 1922, is superseded by that record",
   "Marlowe, All Ovid's Elegies (Amores)": "PD; inside The Works of Christopher Marlowe, vol. 3 (PG 21262), a whole Marlowe volume. Pending: belongs to a Marlowe shelf if one is built, cross-referenced from here",
   "A. S. Kline and other modern translations": "copyrighted",
   "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept"
