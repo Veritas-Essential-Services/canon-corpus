@@ -859,10 +859,13 @@
     },
     {
       "id": "george-herbert",
-      "status": "todo",
+      "status": "done",
       "scope": "George Herbert: A Priest to the Temple (CCEL); The Temple listed for the hymn and verse manifests (d. 1633)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T22:04:17-05:00",
+      "finished": "2026-10-02T22:06:06-05:00",
+      "notes": "1 CCEL + 3 IA"
     },
     {
       "id": "joseph-hall",

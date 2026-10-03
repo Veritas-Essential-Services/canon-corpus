@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain George Herbert (1593-1633, priest and poet) for the Word Hoard: A Priest to the Temple, or the Country Parson clean from CCEL, and George Herbert Palmer's edition of the English Works (Boston: Houghton Mifflin, 1905, 3 vols; vol. 1 a 1915 printing), raw Internet Archive OCR. The poems of The Temple are in vols 2-3. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "h/herbert",
+ "_name_words": [
+  "herbert",
+  "george"
+ ],
+ "_surname": [
+  "herbert"
+ ],
+ "_held": {},
+ "ccel": {
+  "herbert-country-parson": [
+   "temple2",
+   "A Priest to the Temple, or, The Country Parson his Character and Rule of Holy Life",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "herbert-english-works-1": [
+   "englishworksofge01herb_0",
+   "The English Works of George Herbert, ed. G. H. Palmer, vol. 1 (Boston: Houghton Mifflin, 1915 printing)"
+  ],
+  "herbert-english-works-2": [
+   "englishworksofge02herb",
+   "The English Works of George Herbert, ed. G. H. Palmer, vol. 2 (Boston: Houghton Mifflin, 1905)"
+  ],
+  "herbert-english-works-3": [
+   "englishworksofge03herb",
+   "The English Works of George Herbert, ed. G. H. Palmer, vol. 3 (Boston: Houghton Mifflin, 1905)"
+  ]
+ },
+ "_alternates": {
+  "herbert-english-works": "the Boston Public Library scans englishworksofge02herb_1 (a 1915 printing) and englishworksofge03herb_1 (about 12% less text than the copy shelved); the 6-volume large-paper issue at Wellesley (englishworksofge0*herb); Grosart's Complete Works (1874, 3 vols) not shelved"
+ },
+ "_excluded": {
+  "herbert-priesttemple": "CCEL priesttemple: a 7 KB stub; temple2 is the full text"
+ },
+ "_checks": {
+  "herbert-country-parson": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herbert",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "herbert-english-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herbert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herbert-english-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herbert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herbert-english-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "herbert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

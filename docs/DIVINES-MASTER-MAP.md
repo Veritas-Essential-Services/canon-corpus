@@ -1306,6 +1306,16 @@ Slugs `newman-*`.
 | Parochial and Plain Sermons, 8 vols (London: Longmans, 1891) | have-raw | IA (identifiers in the shelf) |
 | Tracts for the Times (CCEL) | excluded | several authors |
 | Callista; Loss and Gain | excluded | novels |
+
+
+## George Herbert (round 8, my pick, 2026-10-02)
+
+Slugs `herbert-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Priest to the Temple, or The Country Parson | have-clean | CCEL |
+| English Works, ed. George Herbert Palmer, 3 vols (Boston: Houghton Mifflin, 1905; vol. 1 a 1915 printing), including The Temple | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

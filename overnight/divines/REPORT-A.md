@@ -358,3 +358,6 @@
 
 ## 2026-10-02 22:03 CDT — john-henry-newman done
 - `pipeline/john-henry-newman_shelf.json`: 1 CCEL title (converted), 5 Gutenberg texts (rights lines checked by the gate) and the Parochial and Plain Sermons, 8 volumes of raw IA OCR (Longmans 1891), median 99.3%, about 9 MB. The 1868 Toronto set was tried first: 81-91% OCR and three volumes never showed the name, so it was swapped. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Digest flags Newman's 1845 conversion as a veto point.
+
+## 2026-10-02 22:06 CDT — george-herbert done
+- `pipeline/george-herbert_shelf.json`: 1 CCEL title (converted) and Palmer's English Works, 3 volumes of raw IA OCR, median 95.9% (95.7-96.3%), about 1.5 MB; title pages read (MDCCCCV; vol. 1 MDCCCCXV). Vol. 3 reads low per page (757 bytes/image, mostly verse with notes); it is the fuller of the two copies compared, and the other was swapped out. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
