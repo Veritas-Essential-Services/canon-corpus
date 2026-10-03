@@ -2071,6 +2071,7 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | The Works of Tacitus, with Political Discourses, vol. 3 (1753) | Thomas Gordon | `tacitus-gordon-v3` | have-raw (IA `worksoftacituswi03taci`) |
 | The Works of Tacitus, with Political Discourses, vol. 4 (1753) | Thomas Gordon | `tacitus-gordon-v4` | have-raw (IA `worksoftacituswi04taci`) |
 | The Works of Tacitus, with Political Discourses, vol. 5 (1753) | Thomas Gordon | `tacitus-gordon-v5` | have-raw (IA `worksoftacituswi05taci`) |
+| Tacitus, The Histories, vol. I: Books I-III, with an English translation (Loeb; London: Heinemann, New York: Putnam, MCMXXV; Latin facing) | Clifford H. Moore | `tacitus-moore-histories-v1` | have-raw (IA `tacitus-in-5-volumes.-v.-2-loeb-111`) |
 
 Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); 
 
@@ -2417,6 +2418,9 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Cicero: the Offices; Cato, or an Essay on Old Age; Laelius, or an Essay on Friendship (Harper, 1838, vol. 3) | Thomas Cockman (Offices); William Melmoth (Cato, Laelius) | `cicero-cockman-offices-melmoth-cato-laelius` | have-raw (IA `bub_gb_IGgRfydq6YwC`) |
 | Cicero on Oratory and Orators, with his Letters to Quintus and Brutus (Bohn; Bell & Daldy, 1871 printing) | J. S. Watson | `cicero-watson-on-oratory` | have-raw (IA `ciceroonoratory00cice`) |
 | Cicero's Three Books of Offices, or Moral Duties; also Cato Major, Laelius, Paradoxes, Scipio's Dream and the Letter to Quintus (Harper, 1860) | Cyrus R. Edmonds | `cicero-edmonds-offices` | have-raw (IA `cicerosthreebook00ciceuoft`) |
+| Cicero, The Speeches: Pro Archia, Post Reditum in Senatu, Post Reditum ad Quirites, De Domo Sua, De Haruspicum Responsis, Pro Plancio (Loeb, first printed 1923; this scan a 1965 reprint; Latin facing) | N. H. Watts | `cicero-watts-pro-archia-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-11-loeb-158`) |
+| Cicero, The Speeches: Pro Lege Manilia, Pro Caecina, Pro Cluentio, Pro Rabirio Perduellionis (Loeb, first printed 1927; this scan a 1966 reprint; Latin facing) | H. Grose Hodge | `cicero-grose-hodge-pro-lege-manilia-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-9-loeb-198`) |
+| Cicero, Pro Quinctio, Pro Roscio Amerino, Pro Roscio Comoedo, De Lege Agraria I-III (Loeb, first printed 1930; this scan a 1967 reprint; Latin facing) | John Henry Freese | `cicero-freese-pro-quinctio-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-6-loeb-240`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 

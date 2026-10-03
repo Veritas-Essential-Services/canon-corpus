@@ -258,3 +258,8 @@
 - fetch_shelf.py: `--help`/`-h` print the usage; a missing shelf name gets a plain error. 35 fetch_shelf tests pass.
 - Not done, and why: merging main into claude/armarium-divines is a no-op (main's head 97b7b5e is already an ancestor); `tests/structure_test.py` reports 64 passed on this branch, and main's copy of the file is identical.
 - Checked and not taken: Foster's Livy vol. 2 and King's Tusculans on new uploads, both later revised printings (1939, 1945).
+
+## 2026-10-03 00:53 CDT — Loeb uploads: Tacitus and Cicero
+- Moore's Loeb Histories vol. I (Tacitus; MCMXXV first printing, OCR 0.94).
+- Cicero's speeches in three Loebs: Watts (Pro Archia and five others; 1923), Grose Hodge (Pro Lege Manilia and three others; 1927), Freese (Pro Quinctio, Pro Roscio x2, De Lege Agraria; 1930). The scans are 1960s printings marked 'Reprinted', not revised, with no addenda; reasons in `_rights_checked`, and listed in DIGEST-B as decisions for Adam. OCR 0.92.
+- Found through an uploader's 'X in N volumes [Loeb NNN]' series on IA, whose text files carry non-standard names (recorded as each row's third element).

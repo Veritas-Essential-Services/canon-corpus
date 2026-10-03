@@ -153,6 +153,24 @@
    "cicerosthreebook00ciceuoft",
    "Cicero's Three Books of Offices, or Moral Duties; also Cato Major, Laelius, Paradoxes, Scipio's Dream and the Letter to Quintus (Harper, 1860)",
    "tr. Cyrus R. Edmonds"
+  ],
+  "cicero-watts-pro-archia-etc": [
+   "cicero-in-28-volumes.-vol.-11-loeb-158",
+   "Cicero, The Speeches: Pro Archia, Post Reditum in Senatu, Post Reditum ad Quirites, De Domo Sua, De Haruspicum Responsis, Pro Plancio (Loeb, first printed 1923; this scan a 1965 reprint; Latin facing)",
+   "Cicero in 28 volumes. vol.11 [Loeb 158]_djvu.txt",
+   "tr. N. H. Watts"
+  ],
+  "cicero-grose-hodge-pro-lege-manilia-etc": [
+   "cicero-in-28-volumes.-vol.-9-loeb-198",
+   "Cicero, The Speeches: Pro Lege Manilia, Pro Caecina, Pro Cluentio, Pro Rabirio Perduellionis (Loeb, first printed 1927; this scan a 1966 reprint; Latin facing)",
+   "Cicero in 28 volumes. vol.9 [Loeb 198]_djvu.txt",
+   "tr. H. Grose Hodge"
+  ],
+  "cicero-freese-pro-quinctio-etc": [
+   "cicero-in-28-volumes.-vol.-6-loeb-240",
+   "Cicero, Pro Quinctio, Pro Roscio Amerino, Pro Roscio Comoedo, De Lege Agraria I-III (Loeb, first printed 1930; this scan a 1967 reprint; Latin facing)",
+   "Cicero in 28 volumes. vol.6 [Loeb 240]_djvu.txt",
+   "tr. John Henry Freese"
   ]
  },
  "_excluded": {
@@ -190,7 +208,10 @@
   "cicero-greenwood-verrines-v1": "L. H. G. Greenwood",
   "cicero-keyes-de-re-publica-de-legibus": "Clinton Walker Keyes",
   "cicero-cockman-offices-melmoth-cato-laelius": "dr. cockman",
-  "cicero-edmonds-offices": "edmonds, c. r."
+  "cicero-edmonds-offices": "edmonds, c. r.",
+  "cicero-watts-pro-archia-etc": "N. H. Watts",
+  "cicero-grose-hodge-pro-lege-manilia-etc": "H. Grose Hodge",
+  "cicero-freese-pro-quinctio-etc": "John Henry Freese"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -556,9 +577,56 @@
    "ia_date": "1860",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "cicero-watts-pro-archia-etc": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "N. H. Watts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint page read: 'First printed 1923, Reprinted 1935, 1955, 1961, 1965' (OCR '1028 ... 1985'); reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1923 text, US public domain."
+  },
+  "cicero-grose-hodge-pro-lege-manilia-etc": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "H. Grose Hodge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint page read: 'First printed 1927, Reprinted 1943, 1952, 1959, 1966'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1927 text, US public domain."
+  },
+  "cicero-freese-pro-quinctio-etc": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "John Henry Freese",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text."
   }
  },
  "_held": {
   "cicero-williams-friends-v3": "held back on rights, not fetched: the scan is the 1954 printing ('Revised and with additions 1954'): the text is not the 1929 one. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA letterstohisfrie03ciceuoft: The Letters to his Friends, vol. 3 (Loeb, 1929)"
+ },
+ "_rights_checked": {
+  "cicero-watts-pro-archia-etc": "Imprint page read: 'First printed 1923, Reprinted 1935, 1955, 1961, 1965' (OCR '1028 ... 1985'); reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1923 text, US public domain.",
+  "cicero-grose-hodge-pro-lege-manilia-etc": "Imprint page read: 'First printed 1927, Reprinted 1943, 1952, 1959, 1966'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1927 text, US public domain.",
+  "cicero-freese-pro-quinctio-etc": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text."
  }
 }

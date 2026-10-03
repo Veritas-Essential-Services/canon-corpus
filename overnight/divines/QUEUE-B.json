@@ -452,6 +452,14 @@
    "started": "2026-10-03T00:45:29-05:00",
    "finished": "2026-10-03T00:49:59-05:00",
    "notes": "main is already merged into the relay branch (97b7b5e is an ancestor); structure_test gives 64 on both main and this branch (the 87 figure matches no branch checked; PR #7 has more)"
+  },
+  {
+   "id": "loeb-uploads-tacitus-cicero",
+   "status": "done",
+   "scope": "Moore's Tacitus Histories I (1925 first printing); Cicero speeches by Watts (1923), Grose Hodge (1927), Freese (1930) from 1960s plain reprints",
+   "started": "2026-10-03T00:49:59-05:00",
+   "finished": "2026-10-03T00:53:55-05:00",
+   "notes": "the three Cicero reprints are listed in DIGEST-B as decisions; Livy 2, Tusculans, Verrines checked (revised or held)"
   }
  ]
 }
