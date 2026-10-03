@@ -2091,3 +2091,11 @@ Slugs `ryland-*`.
 | The Work of Faith, the Labour of Love, and the Patience of Hope (life of Andrew Fuller, 2nd ed., 1818); Pastoral Memorials vol. 1 (1826) | have-ocr | IA, OCR 99% |
 | Pastoral Memorials vol. 2 | pending | no IA copy found |
 | The Character of the Rev. James Hervey (1791) | excluded | by his father John Collett Ryland, though catalogued under him |
+
+## Matthew Mead (round 13, my pick, 2026-10-03)
+
+Slug `mead-almost-christian-1825`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Almost Christian Discovered (Glasgow: Chalmers and Collins, 1825) | have-ocr | IA, OCR 98.8% |
