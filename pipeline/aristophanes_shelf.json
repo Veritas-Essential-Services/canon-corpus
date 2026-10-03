@@ -89,6 +89,11 @@
    "comediesaristop02mitcgoog",
    "The Comedies of Aristophanes, vol. I (London, 1820)",
    "tr. Thomas Mitchell"
+  ],
+  "aristophanes-hickie-1853-v2": [
+   "comediesaristop00hickgoog",
+   "The Comedies of Aristophanes, a new and literal translation, vol. II: Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus (London: Henry G. Bohn, 1853)",
+   "tr. William James Hickie"
   ]
  },
  "_excluded": {
@@ -114,7 +119,8 @@
   "aristophanes-valpy-1812": "Cumberland",
   "aristophanes-billson-acharnians-1882": "Charles James Billson",
   "aristophanes-tyrrell-acharnians-1883": "Robert Yelverton Tyrrell",
-  "aristophanes-mitchell-1820-v1": "Mitchell"
+  "aristophanes-mitchell-1820-v1": "Mitchell",
+  "aristophanes-hickie-1853-v2": "Hickie"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
@@ -313,6 +319,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-hickie-1853-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Hickie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
