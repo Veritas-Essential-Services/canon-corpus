@@ -1,0 +1,77 @@
+{
+ "_about": "Martha Finley's first three Elsie books: Elsie Dinsmore (undated in the text), Holidays at Roselands (copyright 1868, this printing 1898) and Elsie's Girlhood (1872). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Martha Finley",
+ "_name_words": [
+  "finley"
+ ],
+ "_surname": [
+  "martha finley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "finley-elsie-dinsmore": [
+   6440,
+   "Elsie Dinsmore",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z]+(-[A-Z]+)?\\.?$"
+     }
+    ]
+   }
+  ],
+  "finley-holidays-at-roselands": [
+   14280,
+   "Holidays at Roselands",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$"
+     }
+    ]
+   }
+  ],
+  "finley-elsies-girlhood": [
+   9963,
+   "Elsie's Girlhood",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "finley-elsie-dinsmore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-holidays-at-roselands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "finley-elsies-girlhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martha finley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
