@@ -113,23 +113,32 @@ print("--- files")
 check("manifest.json exists", os.path.exists(os.path.join(DATA, "manifest.json")))
 manifest = json.load(open(os.path.join(DATA, "manifest.json"), encoding="utf-8"))
 missing = [fn for fn in manifest["files_sha256"] if not os.path.exists(os.path.join(DATA, fn))]
-if missing:
-    raise SystemExit(f"data/nt/ is not built here: {len(missing)} shard files are absent "
-                     f"(they are rebuilt, not committed). Run: python3 pipeline/rebuild_bible.py")
+# Only John's shard is committed; the rest are rebuilt (pipeline/rebuild_bible.py).
+# On a fresh clone, check what IS committed -- the manifest and John -- and say
+# plainly that the whole-NT checks did not run, rather than stopping with an error.
+BUILT = not missing
+if not BUILT:
+    print(f"      data/nt/ is not built here: {len(missing)} of {len(manifest['files_sha256'])} shard "
+          f"files are absent (rebuilt, not committed). Checking the manifest and John only. "
+          f"For the whole NT run: python3 pipeline/rebuild_bible.py")
 sh = manifest["shards"]
 check(f"the shards are the {EXPECTED_NT['books']} books in canonical order, one folder each",
       sh["layout"] == "book" and sh["order"] == [o for _, _, o in B.BOOKS] == manifest["selection"]["books"]
       and all(sh["books"][b]["dir"] == b for b in sh["order"]))
 check("the manifest lists exactly the four files of every shard",
       sorted(manifest["files_sha256"]) == sorted(f"{b}/{k}.jsonl" for b in sh["order"] for k in B.FILES))
-bad_sum = [fn for fn, want in manifest["files_sha256"].items()
-           if not os.path.exists(os.path.join(DATA, fn))
-           or hashlib.sha256(open(os.path.join(DATA, fn), "rb").read()).hexdigest() != want]
-check("every file matches its manifest checksum", not bad_sum, bad_sum[:3])
+present = [fn for fn in manifest["files_sha256"] if fn not in missing]
+check("the committed John shard is here (the only shard in git)",
+      all(f"John/{k}.jsonl" in present for k in B.FILES), [fn for fn in missing if fn.startswith("John/")])
+bad_sum = [fn for fn in present
+           if hashlib.sha256(open(os.path.join(DATA, fn), "rb").read()).hexdigest()
+           != manifest["files_sha256"][fn]]
+check("every file present matches its manifest checksum" + ("" if BUILT else " (John only)"),
+      not bad_sum, bad_sum[:3])
 check("no output file the manifest does not list (the pilot's flat files are gone)",
       not B.stale_outputs(DATA, set(manifest["files_sha256"]) | {"manifest.json"}),
       B.stale_outputs(DATA, set(manifest["files_sha256"]) | {"manifest.json"})[:3])
-big = max(os.path.getsize(os.path.join(DATA, fn)) for fn in manifest["files_sha256"]) / 1e6
+big = max(os.path.getsize(os.path.join(DATA, fn)) for fn in present) / 1e6
 check(f"no file is over GitHub's {EXPECTED_NT['largest_file_mb']} MB warning (largest {big:.1f} MB)",
       big < EXPECTED_NT["largest_file_mb"])
 check("manifest names the schema and the doc",
@@ -140,11 +149,26 @@ check("both pending rulings are written into the manifest as house defaults, wit
           for r in (sh["ruling"], manifest["versification"]["ruling"]))
       and sh["ruling"]["alternatives"] and manifest["versification"]["ruling"]["alternative"])
 
-nt = B.load_nt(REPO)
-passages, witnesses, tokens, alignments = (nt[k] for k in B.FILES)
 pilot = B.load_nt(REPO, pericope=B.PILOT["pericope"])
 p_passages, p_witnesses, p_tokens, p_alignments = (pilot[k] for k in B.FILES)
 p_uids = {p["uid"] for p in p_passages}
+if not BUILT:
+    print("\n--- the pilot (John 1:1-18), from the committed shard")
+    check("verse, token and alignment counts are the measured ones",
+          (len(p_passages), len(p_tokens), len(p_alignments))
+          == (EXPECTED["verses"], EXPECTED["tokens"], EXPECTED["alignments"]),
+          (len(p_passages), len(p_tokens), len(p_alignments)))
+    committed = json.load(open(REGISTRY, encoding="utf-8"))["uids"]
+    check("every pilot uid is the committed registry's uid for its citation",
+          all(committed.get(p["citation"]) == p["uid"] for p in p_passages))
+    print(f"\nSKIPPED: the whole-NT checks (data/nt/ not built here; python3 pipeline/rebuild_bible.py)")
+    if FAIL:
+        print(f"{PASS} passed, {len(FAIL)} FAILED: {FAIL}")
+        sys.exit(1)
+    print(f"{PASS} passed, 0 failed (whole-NT checks skipped)")
+    sys.exit(0)
+nt = B.load_nt(REPO)
+passages, witnesses, tokens, alignments = (nt[k] for k in B.FILES)
 
 print("\n--- shape: the whole NT")
 check("verse count", len(passages) == EXPECTED_NT["verses"], len(passages))
