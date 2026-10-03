@@ -228,6 +228,10 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The First Four Books of the Aeneid of Virgil, in English heroic verse (1582; Edinburgh reprint, 1836) | Richard Stanyhurst | `virgil-stanyhurst-1836` | have-raw (IA `firstfourbooksn00maidgoog`) |
 | The Works of Virgil, literally translated into English prose by Davidson, new edition revised by Theodore Alois Buckley (New York: Harper, 1874) | Joseph Davidson, revised by Theodore Alois Buckley | `virgil-davidson-buckley-1874` | have-raw (IA `worksvirgil03virggoog`) |
 | The Works of Virgil rendered into English Prose (Globe Edition; Macmillan, 1871) | James Lonsdale and Samuel Lee | `virgil-lonsdale-lee-1871` | have-raw (IA `worksofvirgilren00virg`) |
+| The Works of Virgil, translated, vol. I (London, MDCCCXLIX): first four Pastorals, Georgics and first four Aeneids by Rann Kennedy; the rest by Charles Rann Kennedy | Rann Kennedy and Charles Rann Kennedy | `virgil-kennedy-1849-v1` | have-raw (IA `worksofvirgiltra0001char`) |
+| The Works of Virgil, translated, vol. II (London, MDCCCXLIX) | Rann Kennedy and Charles Rann Kennedy | `virgil-kennedy-1849-v2` | have-raw (IA `worksofvirgiltra0002char`) |
+| The Works of Virgil in English Verse, vol. I of four: the Eclogues and Georgics by Joseph Warton, with the Life and two essays (London: R. and J. Dodsley, MDCCLXIII) | Joseph Warton | `virgil-pitt-warton-1763-v1` | have-raw (IA `worksvirgilinen01attegoog`) |
+| The Works of Virgil in English Verse, vol. III of four: the Aeneid, Books V-VIII, by Christopher Pitt, with Warburton's dissertation on the sixth book (Dodsley, MDCCLXIII) | Christopher Pitt | `virgil-pitt-warton-1763-v3` | have-raw (IA `worksvirgilinen00attegoog`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
