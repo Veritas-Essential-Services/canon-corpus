@@ -1,0 +1,32 @@
+{
+ "_about": "TRANSLATOR SHELF: George Sale (1697-1736). The Koran (1734), the standard English Koran for 150 years. PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "sale"
+ ],
+ "_surname": [
+  "sale"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sale-koran": [
+   7440,
+   "The Koran (Al-Qur'an)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "sale-koran": {
+   "source": "sale-koran",
+   "of": "The Qur'an",
+   "work": "The Koran",
+   "translated": 1734,
+   "translator": "George Sale",
+   "scan_edition": "Project Gutenberg 7440 (clean text)"
+  }
+ },
+ "_pending": {
+  "sale-preliminary-discourse": "Sale's Preliminary Discourse (his long introduction): check whether PG 7440 carries it; if not, a scan of an 1825+ edition."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

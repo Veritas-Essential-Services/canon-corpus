@@ -240,6 +240,54 @@
    "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- harington; PD printings before 1931 only; no minting",
    "finished": "2026-10-02T19:47-05:00",
    "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 5. No uids minted."
+  },
+  {
+   "id": "shelf-muller",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- muller; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-edwin-arnold",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- edwin-arnold; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-griffith",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- griffith; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-rodwell",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- rodwell; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-sale",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- sale; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-palmer",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- palmer; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-whinfield",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- whinfield; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-nicholson",
+   "status": "running",
+   "started": "2026-10-02T19:49-05:00",
+   "scope": "TRANSLATOR SHELF (round 6, lane C's choice under the coordinator's standing instruction; Adam may veto) -- nicholson; PD printings before 1931 only; no minting"
   }
  ]
 }

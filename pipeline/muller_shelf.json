@@ -1,0 +1,55 @@
+{
+ "_about": "TRANSLATOR SHELF: F. Max Müller (1823-1900). The Upanishads (Sacred Books of the East 1 and 15, 1879-84) and the Dhammapada (SBE 10, 1881). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "müller",
+  "muller"
+ ],
+ "_surname": [
+  "müller",
+  "muller",
+  "mueller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "muller-dhammapada": [
+   2017,
+   "Dhammapada, a Collection of Verses"
+  ]
+ },
+ "internet_archive": {
+  "muller-upanishads-1": [
+   "upanishads01mluoft",
+   "The Upanishads, part 1 (SBE 1, 1879)"
+  ],
+  "muller-upanishads-2": [
+   "p2upanishads00mluoft",
+   "The Upanishads, part 2 (SBE 15, 1884)"
+  ]
+ },
+ "titles": {
+  "muller-upanishads": {
+   "source": [
+    "muller-upanishads-1",
+    "muller-upanishads-2"
+   ],
+   "of": "Upanishads",
+   "work": "The Upanishads (twelve principal Upanishads)",
+   "translated": "1879-1884",
+   "translator": "F. Max Müller",
+   "scan_edition": "Clarendon Press, SBE 1 and 15 (Toronto copies), raw OCR; diacritics are where it errs"
+  },
+  "muller-dhammapada": {
+   "source": "muller-dhammapada",
+   "of": "Dhammapada",
+   "work": "Dhammapada",
+   "translated": 1881,
+   "translator": "F. Max Müller",
+   "scan_edition": "Project Gutenberg 2017 (clean text)"
+  }
+ },
+ "_pending": {
+  "muller-rig-veda-1869": "Müller's Rig-Veda-Sanhita vol. 1 (hymns to the Maruts, 1869): only that volume was ever published; not fetched."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

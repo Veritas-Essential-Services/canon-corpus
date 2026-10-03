@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: Ralph T. H. Griffith (1826-1906). Valmiki's Ramayana in English verse (1870-74) and the Hymns of the Rigveda (2nd ed., Lazarus, Benares 1896-97). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "griffith"
+ ],
+ "_surname": [
+  "griffith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "griffith-ramayana": [
+   24869,
+   "The Rámáyan of Válmíki, translated into English verse"
+  ]
+ },
+ "internet_archive": {
+  "griffith-rigveda-1": [
+   "in.ernet.dli.2015.195721",
+   "The Hymns of the Rigveda, vol. 1 (1896)",
+   "2015.195721.Hymns-Of-The-Rigveda--Vol1_djvu.txt"
+  ],
+  "griffith-rigveda-2": [
+   "in.ernet.dli.2015.195722",
+   "The Hymns of the Rigveda, vol. 2 (1897)",
+   "2015.195722.Hymns-Of-The-Rigveda--Vol2_djvu.txt"
+  ]
+ },
+ "titles": {
+  "griffith-ramayana": {
+   "source": "griffith-ramayana",
+   "of": "Valmiki",
+   "work": "The Ramayana",
+   "translated": 1870,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "Project Gutenberg 24869 (clean text)"
+  },
+  "griffith-rigveda": {
+   "source": [
+    "griffith-rigveda-1",
+    "griffith-rigveda-2"
+   ],
+   "of": "Rigveda",
+   "work": "The Hymns of the Rigveda, 10 mandalas",
+   "translated": 1889,
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "E. J. Lazarus, Benares, 2nd ed. 1896-97, 2 vols (Digital Library of India copies), raw OCR"
+  }
+ },
+ "_pending": {
+  "griffith-atharvaveda": "Hymns of the Atharva-veda (1895-96), the Samaveda (1893), the White Yajurveda (1899): on IA; not fetched this run."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

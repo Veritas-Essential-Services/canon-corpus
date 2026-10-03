@@ -1,0 +1,37 @@
+{
+ "_about": "TRANSLATOR SHELF: E. H. Palmer (1840-1882). The Qur'an (Sacred Books of the East 6 and 9, 1880). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "palmer"
+ ],
+ "_surname": [
+  "palmer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "palmer-quran-a": [
+   "thequraan09unknuoft",
+   "The Qur'an, tr. Palmer (SBE, 1880), Toronto copy"
+  ],
+  "palmer-quran-b": [
+   "qurn01unkngoog",
+   "The Qur'an, tr. Palmer (SBE, 1880), Google copy"
+  ]
+ },
+ "titles": {
+  "palmer-quran": {
+   "source": [
+    "palmer-quran-a",
+    "palmer-quran-b"
+   ],
+   "of": "The Qur'an",
+   "work": "The Qur'an",
+   "translated": "1880",
+   "translator": "E. H. Palmer",
+   "scan_edition": "Clarendon Press 1880, SBE 6 and 9, raw OCR (volume order to be confirmed from the suras each holds)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

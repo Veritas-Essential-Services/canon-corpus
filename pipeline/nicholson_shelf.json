@@ -1,0 +1,46 @@
+{
+ "_about": "TRANSLATOR SHELF: Reynold A. Nicholson (1868-1945). Selected Poems from the Divani Shamsi Tabriz (Rumi, 1898) and Hujwiri's Kashf al-Mahjub (1911). US PD (published before 1931); UK PD since 2016. His Mathnawi (1925-40) is mostly after 1930 and is left out. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "nicholson"
+ ],
+ "_surname": [
+  "nicholson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nicholson-kashf": [
+   64786,
+   "The Kashf al-mahjúb"
+  ]
+ },
+ "internet_archive": {
+  "nicholson-divani-1898": [
+   "india.history.resource.111025",
+   "Selected Poems from the Divani Shamsi Tabriz (1898)",
+   "111025_djvu.txt"
+  ]
+ },
+ "titles": {
+  "nicholson-kashf-al-mahjub": {
+   "source": "nicholson-kashf",
+   "of": "Hujwiri",
+   "work": "Kashf al-Mahjub",
+   "translated": 1911,
+   "translator": "Reynold A. Nicholson",
+   "scan_edition": "Project Gutenberg 64786 (clean text)"
+  },
+  "nicholson-divani-shamsi-tabriz": {
+   "source": "nicholson-divani-1898",
+   "of": "Rumi",
+   "work": "Selected Poems from the Divani Shamsi Tabriz",
+   "translated": 1898,
+   "translator": "Reynold A. Nicholson",
+   "scan_edition": "Cambridge University Press 1898 (India History Resource copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "nicholson-mathnawi": "The Mathnawi translation (Gibb series, 1925-40): vols 1-2 (1926, 1930) are US PD; the rest are not. Not fetched."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

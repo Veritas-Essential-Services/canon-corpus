@@ -1,0 +1,33 @@
+{
+ "_about": "TRANSLATOR SHELF: J. M. Rodwell (1808-1900). The Koran, in his chronological order of the suras (1861). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "rodwell"
+ ],
+ "_surname": [
+  "rodwell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rodwell-koran": [
+   2800,
+   "The Koran (Al-Qur'an)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "rodwell-koran": {
+   "source": "rodwell-koran",
+   "of": "The Qur'an",
+   "work": "The Koran",
+   "translated": 1861,
+   "translator": "J. M. Rodwell",
+   "scan_edition": "Project Gutenberg 2800 (clean text)",
+   "note": "Rodwell orders the suras by his estimate of their chronology, not the traditional order; the unit id must carry the sura number, not the position."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-3434": "Gutenberg 3434 is the same Rodwell translation (an older file); not fetched twice."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

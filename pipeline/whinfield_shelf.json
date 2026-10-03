@@ -1,0 +1,32 @@
+{
+ "_about": "TRANSLATOR SHELF: E. H. Whinfield (1836-1922). Rumi's Masnavi, abridged (Trübner 1887). PD. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "whinfield"
+ ],
+ "_surname": [
+  "whinfield"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whinfield-masnavi-1887": [
+   "cu31924026910251",
+   "Masnavi i Ma'navi, the spiritual couplets (1887)"
+  ]
+ },
+ "titles": {
+  "whinfield-masnavi": {
+   "source": "whinfield-masnavi-1887",
+   "of": "Rumi",
+   "work": "Masnavi (abridged)",
+   "translated": 1887,
+   "translator": "E. H. Whinfield",
+   "scan_edition": "Trübner 1887 first edition (Cornell copy), raw OCR"
+  }
+ },
+ "_pending": {
+  "whinfield-omar": "Whinfield's Omar Khayyam quatrains are inside Gutenberg 38511, a 1903 compilation with FitzGerald's and Nicolas's versions; it would need cutting by marker. Not fetched."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

@@ -1,0 +1,34 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Edwin Arnold (1832-1904). The Bhagavad Gita as 'The Song Celestial' (1885). PD. His own Light of Asia is an original poem, not a translation. Added 2026-10-03 by lane C (round 6) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "arnold"
+ ],
+ "_surname": [
+  "arnold"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "arnold-song-celestial": [
+   2388,
+   "The Song Celestial; Or, Bhagavad-Gîtâ"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "edwin-arnold-bhagavad-gita": {
+   "source": "arnold-song-celestial",
+   "of": "Bhagavad Gita",
+   "work": "The Song Celestial (Bhagavad Gita)",
+   "translated": 1885,
+   "translator": "Sir Edwin Arnold",
+   "scan_edition": "Project Gutenberg 2388 (clean text)"
+  }
+ },
+ "_pending": {
+  "edwin-arnold-indian-idylls": "Indian Idylls (1883, episodes of the Mahabharata): not on Gutenberg; IA not checked this run."
+ },
+ "_excluded": {
+  "light-of-asia": "The Light of Asia (1879): Arnold's own poem."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}
