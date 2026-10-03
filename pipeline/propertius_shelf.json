@@ -40,8 +40,7 @@
   "propertius-butler-loeb": "H. E. Butler",
   "propertius-gantillon-bohn": "P. J. F. Gantillon",
   "propertius-cranstoun-1875": "James Cranstoun",
-  "propertius-phillimore-1906": "Phillimore",
-  "propertius-moore-1870": "Moore"
+  "propertius-phillimore-1906": "Phillimore"
  },
  "_checks": {
   "propertius-butler-loeb": {
@@ -101,13 +100,14 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "propertius",
-   "translator_claimed": "Moore",
-   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_translator_unchecked": {
+  "propertius-moore-1870": "title page OCR reads 'CHARLES ROB'ERT MOORE, M.A.', the forename broken by the OCR, and 'moore' alone proves little; left unchecked on that reading"
  }
 }

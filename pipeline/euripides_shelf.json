@@ -178,8 +178,8 @@
   "euripides-potter-v3": "R. Potter",
   "euripides-buckley-v2": "Theodore Alois Buckley",
   "euripides-webster-medea-1868": "Augusta Webster",
-  "euripides-lawton-three-dramas-1889": "Lawton",
-  "euripides-beloit-alcestis-1898": "Beloit",
+  "euripides-lawton-three-dramas-1889": "william cranston lawton",
+  "euripides-beloit-alcestis-1898": "beloit college",
   "euripides-kynaston-alcestis-1906": "Kynaston"
  },
  "_translator_unchecked": {
@@ -489,7 +489,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "euripides",
-   "translator_claimed": "Lawton",
+   "translator_claimed": "william cranston lawton",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1890",
@@ -502,7 +502,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "euripides",
-   "translator_claimed": "Beloit",
+   "translator_claimed": "beloit college",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1908",

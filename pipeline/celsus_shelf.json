@@ -29,7 +29,7 @@
  ],
  "_translators": {
   "celsus-greive": "James Greive",
-  "celsus-collier-1831": "Collier",
+  "celsus-collier-1831": "g. f. collier",
   "celsus-lee-1831-v1": "Alex. Lee"
  },
  "_checks": {
@@ -50,7 +50,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "celsus",
-   "translator_claimed": "Collier",
+   "translator_claimed": "g. f. collier",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1831",

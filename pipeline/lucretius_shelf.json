@@ -105,9 +105,9 @@
   "lucretius-good-1805-v1": "John Mason Good",
   "lucretius-good-1805-v2": "John Mason Good",
   "lucretius-rouse-loeb-1924": "W. H. D. Rouse",
-  "lucretius-watson-good-bohn-1851": "Watson",
-  "lucretius-johnson-1872": "Johnson",
-  "lucretius-baring-1884": "Baring"
+  "lucretius-watson-good-bohn-1851": "john mason good",
+  "lucretius-johnson-1872": "charles frederick johnson",
+  "lucretius-baring-1884": "thomas charles baring"
  },
  "_checks": {
   "lucretius-trevelyan-selections": {
@@ -230,7 +230,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucretius",
-   "translator_claimed": "Watson",
+   "translator_claimed": "john mason good",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1851",
@@ -243,7 +243,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucretius",
-   "translator_claimed": "Johnson",
+   "translator_claimed": "charles frederick johnson",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1872",
@@ -267,7 +267,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucretius",
-   "translator_claimed": "Baring",
+   "translator_claimed": "thomas charles baring",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1884",

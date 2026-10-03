@@ -180,8 +180,8 @@
   "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham",
   "aristotle-mcmahon-metaphysics-1857": "M'Mahon",
   "aristotle-walford-politics-economics-1853": "Edward Walford",
-  "aristotle-williams-ethics-1869": "Williams",
-  "aristotle-taylor-rhetoric-poetic-ethics-1818": "Taylor"
+  "aristotle-williams-ethics-1869": "robert williams",
+  "aristotle-taylor-rhetoric-poetic-ethics-1818": "thomas taylor"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -547,7 +547,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aristotle",
-   "translator_claimed": "Williams",
+   "translator_claimed": "robert williams",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1869",
@@ -560,7 +560,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aristotle",
-   "translator_claimed": "Taylor",
+   "translator_claimed": "thomas taylor",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1818",

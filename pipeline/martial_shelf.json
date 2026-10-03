@@ -45,7 +45,7 @@
  "_translators": {
   "martial-ker-v1": "Walter C. A. Ker",
   "martial-ker-v2": "Walter C. A. Ker",
-  "martial-nixon-roman-wit-1911": "Nixon"
+  "martial-nixon-roman-wit-1911": "paul nixon"
  },
  "_translator_unchecked": {
   "martial-bohn": "no single translator to check: None",
@@ -105,7 +105,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "martial",
-   "translator_claimed": "Nixon",
+   "translator_claimed": "paul nixon",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1911",

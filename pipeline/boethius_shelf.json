@@ -48,7 +48,7 @@
   "boethius-rand-stewart": "H. F. Stewart",
   "boethius-colville-1556": "George Colville",
   "boethius-ridpath-1785": "Ridpath",
-  "boethius-queen-elizabeth-1899": "Elizabeth"
+  "boethius-queen-elizabeth-1899": "queen elizabeth"
  },
  "_checks": {
   "boethius-james": {
@@ -106,7 +106,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "boethius",
-   "translator_claimed": "Elizabeth",
+   "translator_claimed": "queen elizabeth",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1899",

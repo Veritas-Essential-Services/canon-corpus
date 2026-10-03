@@ -439,7 +439,7 @@
   "plato-church-trial-death-1903": "F. J. Church",
   "plato-lindsay-republic-1923": "Lindsay",
   "plato-cope-gorgias-1864": "E. M. Cope",
-  "plato-cope-phaedo-1875": "Cope",
+  "plato-cope-phaedo-1875": "e. m. cope",
   "plato-wright-phaedrus-lysis-protagoras-1888": "J. Wright",
   "plato-dyde-theaetetus-1899": "S. W. Dyde",
   "plato-paley-philebus-1879": "Paley"
@@ -1114,7 +1114,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plato",
-   "translator_claimed": "Cope",
+   "translator_claimed": "e. m. cope",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1875",

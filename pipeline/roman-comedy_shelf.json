@@ -91,7 +91,7 @@
   "plautus-nixon-v2": "Paul Nixon",
   "terence-sargeaunt-v1": "John Sargeaunt",
   "terence-sargeaunt-v2": "John Sargeaunt",
-  "plautus-evans-trinummus-1883": "Evans"
+  "plautus-evans-trinummus-1883": "h. evans"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
@@ -235,7 +235,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "Evans",
+   "translator_claimed": "h. evans",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1883",

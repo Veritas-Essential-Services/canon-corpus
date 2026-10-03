@@ -93,8 +93,8 @@
   "juvenal-hodgson-1807": "Francis Hodgson",
   "persius-wollaston-1841": "Wollaston",
   "juvenal-leeper-1902": "Leeper",
-  "juvenal-persius-owen-1786": "Owen",
-  "juvenal-persius-wallace-1848": "Wallace",
+  "juvenal-persius-owen-1786": "edward owen",
+  "juvenal-persius-wallace-1848": "w. wallace",
   "juvenal-persius-smart-1829": "William Smart"
  },
  "_checks": {
@@ -219,7 +219,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
-   "translator_claimed": "Owen",
+   "translator_claimed": "edward owen",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1786",
@@ -245,7 +245,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
-   "translator_claimed": "Wallace",
+   "translator_claimed": "w. wallace",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1848",
