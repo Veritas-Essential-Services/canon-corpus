@@ -1,0 +1,40 @@
+{
+ "_about": "William M. Hetherington (1803-1865): History of the Westminster Assembly of Divines (first published Edinburgh, 1843), held in the New York: Carter printing of 1868 for its cleaner scan. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "hetherington"
+ ],
+ "_surname": [
+  "hetherington"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hetherington-westminster-assembly": [
+   "historyofwestmin1868heth",
+   "History of the Westminster Assembly of Divines (New York: Robert Carter, 1868)"
+  ]
+ },
+ "_alternates": {
+  "historyofwestmin0000heth (1843), historywestmins00crigoog, historywestmins02crigoog, historywestmins00unkngoog (1843)": "The first edition.",
+  "historyofwestmin1875heth": "Later printing."
+ },
+ "_pending": {
+  "History of the Church of Scotland (1843, and later editions)": "Not yet searched."
+ },
+ "_excluded": {
+  "historyofwestmin00phil, ahistorywestmin00publgoog (1841)": "A different History, published by the Presbyterian Board."
+ },
+ "_checks": {
+  "hetherington-westminster-assembly": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hetherington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
