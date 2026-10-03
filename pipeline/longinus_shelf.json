@@ -32,6 +32,11 @@
    "longinusonsubli00spurgoog",
    "Longinus on the Sublime in Writing, translated, with notes and three dissertations (London: Longman; Norwich: Bacon, 1836; the title page is anonymous, the dedication is signed William Tylney Spurdens)",
    "tr. William Tylney Spurdens"
+  ],
+  "longinus-oxford-ma-1841": [
+   "longinusonsublim00long_0",
+   "Longinus on the Sublime, a new translation for English readers in general, by a Master of Arts of the University of Oxford (imprint lost in the OCR; IA gives 1841)",
+   "tr. anonymous (a Master of Arts of Oxford)"
   ]
  },
  "_surname": [
@@ -106,12 +111,24 @@
    "ia_date": "1836",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "longinus-oxford-ma-1841": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  },
  "_excluded": {
   "demetriusonstyle01deme / demetriusonstyle0000wrhy": "Rhys Roberts's Demetrius On Style (1902): Greek on facing pages, OCR 0.59-0.72; held back like the Greek-facing Loebs"
  },
  "_translator_unchecked": {
-  "longinus-dublin-graduate-1821": "the title page names the translator only as 'a Graduate of Trinity College, Dublin'"
+  "longinus-dublin-graduate-1821": "the title page names the translator only as 'a Graduate of Trinity College, Dublin'",
+  "longinus-oxford-ma-1841": "the title page names the translator only as 'a Master of Arts of the University of Oxford'"
  }
 }
