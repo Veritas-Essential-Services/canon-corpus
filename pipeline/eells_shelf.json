@@ -1,0 +1,65 @@
+{
+ "_about": "Elsie Spicer Eells's (1880-1963) Brazilian and Azorean folk tales retold for children: Fairy Tales from Brazil (copyright 1917), Tales of Giants from Brazil (copyright 1918), The Islands of Magic (copyright 1922). All published before 1930, so public domain in the US. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Elsie Spicer Eells",
+ "_name_words": [
+  "eells"
+ ],
+ "_surname": [
+  "eells"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eells-fairy-tales-from-brazil": [
+   24714,
+   "Fairy Tales from Brazil",
+   {
+    "chapre_only": "[IVXL]+$"
+   }
+  ],
+  "eells-tales-of-giants-from-brazil": [
+   21678,
+   "Tales of Giants from Brazil",
+   {
+    "contents_only": true
+   }
+  ],
+  "eells-islands-of-magic": [
+   34431,
+   "The Islands of Magic",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eells-fairy-tales-from-brazil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "eells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eells-tales-of-giants-from-brazil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "eells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eells-islands-of-magic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "eells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

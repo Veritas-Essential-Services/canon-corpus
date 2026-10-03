@@ -1017,8 +1017,10 @@
     {
       "id": "eells",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: eells; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:10:00-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:10:00-05:00",
+      "finished": "2026-10-02T21:10:13-05:00",
+      "notes": "3/3 fetched (Gutenberg 24714, 21678, 34431), 2,257 units, 0 ~2 ids."
     },
     {
       "id": "rasmussen",
