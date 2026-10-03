@@ -7394,6 +7394,14 @@ Shelf: `pipeline/werner_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Myths and Legends of China | have | PG 15250, `werner-myths-and-legends-of-china` (1227 units) |
 
+## Wirt Sikes
+
+Shelf: `pipeline/sikes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Welsh fairy lore, ghost lore and customs; cut by book, chapter, numbered section and footnotes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions | have | PG 34704, `sikes-british-goblins` (2072 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
