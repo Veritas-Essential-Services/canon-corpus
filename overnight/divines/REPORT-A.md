@@ -617,3 +617,6 @@
 
 ## 2026-10-03 06:40 CDT — benjamin-keach done
 - `pipeline/benjamin-keach_shelf.json`: 5 IA volumes. Tropologia's OCR never shows the name; its title page was looked at by eye (page image n5) and recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 06:40 CDT — john-ryland done
+- `pipeline/john-ryland_shelf.json`: 2 IA volumes. Two IA items catalogued under him are by others (his father; Andrew Fuller) and are excluded. `--verify --record`: 0 mismatched. 0 uids minted.

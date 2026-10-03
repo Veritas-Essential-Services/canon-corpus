@@ -2081,3 +2081,13 @@ Slugs `keach-*`.
 |---|---|---|
 | An Exposition of the Parables (Aylott, 1858); Tropologia (Bonmahon for Collingridge, 1858) | have-ocr | IA, OCR 94.8-96.4% |
 | A Golden Mine Opened (1694); The Breach Repaired in God's Worship (1691); Gold Refined (1689) | have-raw | IA, OCR about 84% (long s) |
+
+## John Ryland Jr. (round 13, my pick, 2026-10-03)
+
+Slugs `ryland-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Work of Faith, the Labour of Love, and the Patience of Hope (life of Andrew Fuller, 2nd ed., 1818); Pastoral Memorials vol. 1 (1826) | have-ocr | IA, OCR 99% |
+| Pastoral Memorials vol. 2 | pending | no IA copy found |
+| The Character of the Rev. James Hervey (1791) | excluded | by his father John Collett Ryland, though catalogued under him |

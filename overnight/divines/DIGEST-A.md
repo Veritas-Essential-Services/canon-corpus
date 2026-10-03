@@ -257,6 +257,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Samuel Horsley | samuel-horsley_shelf.json | none | 11 (Sermons, 2 vols 1829; Tracts against Priestley 1789; Biblical Criticism, 4 vols 1820; Psalms, 2 vols 1815; Hosea 1801; Charges 1813) | none | none |
 | Thomas Sherlock | thomas-sherlock_shelf.json | none | 5 (Works, ed. T. S. Hughes, London: Valpy, 1830) | none | none |
 | Benjamin Keach | benjamin-keach_shelf.json | none | 5 (Exposition of the Parables, 1858; Tropologia, 1858; A Golden Mine Opened, 1694; The Breach Repaired, 1691; Gold Refined, 1689) | none | none |
+| John Ryland Jr. | john-ryland_shelf.json | none | 2 (The Work of Faith, life of Andrew Fuller, 2nd ed. 1818; Pastoral Memorials vol. 1, catalogued 1826) | Pastoral Memorials vol. 2 | Character of Hervey (his father's), Memoirs of Pearce (Fuller's), both catalogued under him |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
