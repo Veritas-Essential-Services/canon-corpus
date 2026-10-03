@@ -572,6 +572,14 @@
    "started": "2026-10-03T01:38:18-05:00",
    "finished": "2026-10-03T01:45:50-05:00",
    "notes": "Garbled title-page names (Ridley 1896, Cary, Littlebury, Lewis) recorded under _translator_unchecked with the OCR spelling."
+  },
+  {
+   "id": "roman-verse-bohn",
+   "status": "done",
+   "scope": "Martin's complete Horace, the Kennedys' and Pitt-Warton Virgil, Burges's Greek Anthology, the Bohn Martial, Kelly's Erotica",
+   "started": "2026-10-03T01:45:50-05:00",
+   "finished": "2026-10-03T01:52:39-05:00",
+   "notes": "Pitt's 1740 Aeneid and Potter's 1820 Sophocles refused for OCR (0.74-0.76). The Bohn Martial names no translator, so none is claimed."
   }
  ]
 }

@@ -338,3 +338,11 @@
 - Aristophanes: C. A. Wheelwright's complete Comedies in blank verse, 2 vols (Oxford, Talboys; IA 1837)
 - Pindar: Henry Francis Cary's Pindar in English Verse (Moxon; IA 1833) and Wheelwright's Pindar (Valpy, 1830)
 - Herodotus: Isaac Littlebury's translation, third edition, 2 vols (1737)
+
+## 2026-10-03 01:52 CDT — Horace (Martin), Virgil (Kennedy; Pitt and Warton), Greek Anthology (Burges), Martial (Bohn), Catullus/Tibullus (Kelly)
+- Horace: Theodore Martin's complete Works in verse, 2 vols (Blackwood, 1881)
+- Virgil: the Works in verse by Rann Kennedy and Charles Rann Kennedy, 2 vols (1849); Pitt and Warton's Works of Virgil in English Verse (Dodsley, 1763), vols. I and III of four (vols. II and IV not found); Pitt's 1740 Aeneid refused for OCR
+- Greek Anthology: Burges's Bohn prose with metrical versions (1854), on the greek-lyric shelf
+- Martial: the Bohn Epigrams (Bell, 1877), prose with verse versions; no translator named, none claimed
+- Catullus and Tibullus: Kelly's Bohn Erotica (1854), which also prints Lamb's metrical Catullus whole (the missing Lamb vol. II's poems) and Grainger's Tibullus
+- Sophocles: Potter's 1820 translation refused for OCR (0.758)
