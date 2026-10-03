@@ -446,6 +446,15 @@ RULES = ("idem-dem", "proper-lower", "possessive-agrees", "whole-word", "rare-in
 POSTPOSITIVE = {"vero", "autem", "enim", "itaque", "igitur", "ergo", "quoque", "quidem"}
 PRIORS = {"rare-entry", "rare-inflection", "whole-word"}   # WORDS's grades and conventions, not grammar
 FAMILY = {"VPAR": "V", "SUPINE": "V"}      # a participle or supine is its verb's
+# Forms where WORDS grades the word whose lemma IS the form two or more grades
+# below a commoner word that also reads it, and the Vulgate means the rarer
+# one: rare-entry stands aside and they stay null. Each was read in its
+# verses (capitium is not caput, praecipito is not praecipio, genus is not
+# genu, merces is not merx, sacerdotium is the priesthood, not sacerdos,
+# mentum is the chin, not mens). A list, not a rule: as a rule ("never against
+# the form's own lemma") it un-resolved 1,412 tokens, mostly rightly resolved
+# (populus, omne, medium, pedum, pane), reviewer round 4, 2026-10-03.
+OWN_LEMMA_STANDS = frozenset({"capitium", "praecipito", "genus", "merces", "sacerdotium", "mentum"})
 POSSESSIVES = {"meus", "tuus", "suus", "noster", "vester"}
 NOMINAL = {"N", "ADJ", "PRON", "NUM"}
 
@@ -570,11 +579,12 @@ def resolve(tok, nxt_tok, prev_form, prev_tok=None, nxt2_tok=None):
         # often as the number three.
         best_cls = {FAMILY.get(r["pos"], r["pos"]) for R, x in zip(groups.values(), ranks) if x == best
                     for r in R}
-        # and never against a reading whose lemma is the form itself:
-        # capitium is capitium, not caput; praecipito is its own verb
+        # and never against the form's own lemma where that was measured
+        # (OWN_LEMMA_STANDS)
+        own_stands = W.fold(form) in OWN_LEMMA_STANDS
         groups = _keep(groups, lambda t, R: min((r["efreq"] for r in R if r["efreq"] is not None),
                                                  default=best) < best + 2
-                       or any(r.get("own") for r in R)
+                       or (own_stands and any(r.get("own") for r in R))
                        or not ({FAMILY.get(r["pos"], r["pos"]) for r in R} <= best_cls), "rare-entry", used)
     # a preposition takes an object in its case, next in the clause
     preps = {t: {r["case"] for r in R if r["pos"] == "PREP"} for t, R in groups.items()}

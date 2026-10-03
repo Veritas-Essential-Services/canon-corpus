@@ -223,6 +223,11 @@ ok(forms["peccata"]["resolved"].get("rare-entry") is None and forms["tribus"]["r
 ok(forms["absque"]["resolved"] == {"whole-word": forms["absque"]["tokens"]}, "every absque is the preposition absque")
 ok(forms["septimo"]["ls"] == ["septimus"], "septimo is septimus, the ordinal, not septem")
 ok("1Sam.23.9" not in str(conc["cum1"]["resolved"]), "1 Sam 23:9 Quod cum David rescisset: not cum 'with'")
+for f in sorted(B.OWN_LEMMA_STANDS):
+    ok(not forms[f]["resolved"].get("rare-entry"), f"{f} is never forced off its own lemma by frequency")
+ok(forms["populus"]["unresolved"] == 0 and forms["populus"]["resolved"].get("rare-entry", 0) > 400,
+   "populus is the people (populus1), not the poplar: the own-lemma list is a list, not a rule")
+ok(forms["omne"]["unresolved"] == 0 and forms["omne"]["ls"] == ["omnis"], "omne is omnis, every time")
 
 # -- Strong's -> the Vulgate's Latin -------------------------------------------
 if "strongs-latin.jsonl" in missing:
