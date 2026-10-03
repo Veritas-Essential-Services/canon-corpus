@@ -1980,6 +1980,18 @@ Shelf: `pipeline/isaeus_shelf.json`. Sir William Jones's Speeches of Isaeus (177
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Speeches of Isaeus in Causes concerning the Law of Succession to Property at Athens (London, 1779) | William Jones | `isaeus-jones-1779` | have-raw (IA `speechesofisaeus00isae`) |
+| On Behalf of Euphiletus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-behalf-of-euphiletus` | have (Perseus TEI `tlg0017.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate Of Pyrrhus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-pyrrhus` | have (Perseus TEI `tlg0017.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Apollodorus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-apollodorus` | have (Perseus TEI `tlg0017.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Aristarchus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-aristarchus` | have (Perseus TEI `tlg0017.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Ciron | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-ciron` | have (Perseus TEI `tlg0017.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Cleonymus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-cleonymus` | have (Perseus TEI `tlg0017.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Astyphilus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-astyphilus` | have (Perseus TEI `tlg0017.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Dicaeogenes | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-dicaeogenes` | have (Perseus TEI `tlg0017.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Hagnias | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-hagnias` | have (Perseus TEI `tlg0017.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Menecles | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-menecles` | have (Perseus TEI `tlg0017.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Nicostratus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-nicostratus` | have (Perseus TEI `tlg0017.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Philoctemon | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-philoctemon` | have (Perseus TEI `tlg0017.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Forster's Loeb (1927; Greek facing)
 

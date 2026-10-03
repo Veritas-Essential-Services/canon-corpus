@@ -1,5 +1,5 @@
 {
- "_about": "Isaeus (4th c. BC), the speeches, in English. Lane B (classical translations).",
+ "_about": "Isaeus (4th c. BC), the speeches, in English. Lane B (classical translations). Also, from Perseus TEI (section \"perseus\", fetched by pipeline/fetch_perseus.py): Edward Seymour Forster's Loeb translation of the twelve speeches (1927; Perseus keyed the 1962 printing, reason in _rights_checked), English only; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0.",
  "_name_words": [
   "isaeus"
  ],
@@ -19,7 +19,19 @@
  ],
  "_surname_note": "'ifaeus' is how the 1779 long-s printing ('Iſaeus') comes out of OCR: 25 times in the Jones text",
  "_translators": {
-  "isaeus-jones-1779": "William Jones"
+  "isaeus-jones-1779": "William Jones",
+  "isaeus-perseus-forster-on-behalf-of-euphiletus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-pyrrhus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-apollodorus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-aristarchus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-ciron": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-cleonymus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-astyphilus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-dicaeogenes": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-hagnias": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-menecles": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-nicostratus": "Edward Seymour Forster",
+  "isaeus-perseus-forster-on-the-estate-of-philoctemon": "Edward Seymour Forster"
  },
  "_checks": {
   "isaeus-jones-1779": {
@@ -34,6 +46,288 @@
    "ia_date": "1779",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  }
+ },
+ "perseus": {
+  "isaeus-perseus-forster-on-behalf-of-euphiletus": [
+   "tlg0017.tlg012.perseus-eng2",
+   "On Behalf of Euphiletus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-pyrrhus": [
+   "tlg0017.tlg003.perseus-eng2",
+   "On The Estate Of Pyrrhus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-apollodorus": [
+   "tlg0017.tlg007.perseus-eng2",
+   "On The Estate of Apollodorus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-aristarchus": [
+   "tlg0017.tlg010.perseus-eng2",
+   "On The Estate of Aristarchus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-ciron": [
+   "tlg0017.tlg008.perseus-eng2",
+   "On The Estate of Ciron",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-cleonymus": [
+   "tlg0017.tlg001.perseus-eng2",
+   "On The Estate of Cleonymus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-astyphilus": [
+   "tlg0017.tlg009.perseus-eng2",
+   "On the Estate of Astyphilus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-dicaeogenes": [
+   "tlg0017.tlg005.perseus-eng2",
+   "On the Estate of Dicaeogenes",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-hagnias": [
+   "tlg0017.tlg011.perseus-eng2",
+   "On the Estate of Hagnias",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-menecles": [
+   "tlg0017.tlg002.perseus-eng2",
+   "On the Estate of Menecles",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-nicostratus": [
+   "tlg0017.tlg004.perseus-eng2",
+   "On the Estate of Nicostratus",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ],
+  "isaeus-perseus-forster-on-the-estate-of-philoctemon": [
+   "tlg0017.tlg006.perseus-eng2",
+   "On the Estate of Philoctemon",
+   "Edward Seymour Forster",
+   "Translation first published 1927: US public domain. Perseus source line: Isaeus. Forster, Edward Seymour, translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1927 (1962 printing)."
+  ]
+ },
+ "_rights_checked": {
+  "isaeus-perseus-forster-on-behalf-of-euphiletus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-pyrrhus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-apollodorus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-aristarchus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-ciron": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-cleonymus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-astyphilus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-dicaeogenes": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-hagnias": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-menecles": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-nicostratus": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+  "isaeus-perseus-forster-on-the-estate-of-philoctemon": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930"
+ },
+ "_perseus_checks": {
+  "isaeus-perseus-forster-on-behalf-of-euphiletus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-pyrrhus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-apollodorus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-aristarchus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-ciron": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-cleonymus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-astyphilus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-dicaeogenes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-hagnias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-menecles": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-nicostratus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
+  },
+  "isaeus-perseus-forster-on-the-estate-of-philoctemon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0017.tlg006.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Edward Seymour Forster",
+   "author_seen": "isaeus",
+   "source_years": [
+    1927,
+    1962
+   ],
+   "rights_override": "the file's record gives Forster's Loeb as first published 1927 and this copy as the 1962 printing Perseus keyed from; no revision is stated. The translation is Forster's 1927 text, US public domain. Stated by hand because the gate is fail-closed at 1930",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept"
   }
  }
 }
